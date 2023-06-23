@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Pentagon’s $52,000 trash can](https://responsiblestatecraft.org/2023/06/20/the-pentagons-52000-trash-can/)
-- [GiveCampus &lpar;YC S15&rpar; hiring rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [White Rabbit Project](https://ohwr.org/project/white-rabbit/wikis/home)
-- [Big VC, Tech Got Backstop for Billions in Uninsured SVB Deposits](https://www.bloomberg.com/news/articles/2023-06-23/fdic-insured-billions-in-deposits-for-sequoia-other-top-svb-customers)
-- [From Word Models to World Models](https://arxiv.org/abs/2306.12672)
+- [Groundbreaking AI project translates 5k-year-old cuneiform](https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/)
+- [Show HN: I&#39;ve built open-source, collaborative, WYSIWYG Markdown editor](https://editor.vrite.io/)
+- [The Most Mysterious Song on the Internet](https://en.wikipedia.org/wiki/The_Most_Mysterious_Song_on_the_Internet)
+- [Titanic director James Cameron accuses OceanGate of cutting corners](https://www.bbc.com/news/world-us-canada-65994707)
+- [The Pentagon’s $52k trash can](https://responsiblestatecraft.org/2023/06/20/the-pentagons-52000-trash-can/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
