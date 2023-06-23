@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jessica Livingston &lpar;2015&rpar;](http://www.paulgraham.com/jessica.html)
+- [Show HN: Factiverse AI editor – Fact-checking text made smarter and simpler](https://editor.factiverse.ai/)
+- [What Is a Transformer Model?](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/)
+- [Building an ML Training Pipeline with MinIO and Kubeflow v2.0](https://blog.min.io/building-an-ml-training-pipeline-with-minio-and-kubeflow-v2-0/)
 - [Implement Vector Embeddings on JSON Data with SingleStore Kai™](https://www.singlestore.com/blog/implement-vector-embeddings-on-json-data/)
-- [Full ignition for ESA’s reusable rocket engine](https://www.esa.int/Enabling_Support/Space_Transportation/Full_ignition_for_ESA_s_reusable_rocket_engine)
-- [EU Advocate General: Technical Standards must be freely available without charge](https://curia.europa.eu/jcms/upload/docs/application/pdf/2023-06/cp230110en.pdf)
-- [Making C++ safe without borrow checking, reference counting, or tracing GC](https://verdagon.dev/blog/vale-memory-safe-cpp)
-- [Toronto police are squatting on land meant for affordable housing](https://breachmedia.ca/toronto-police-block-affordable-housing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
