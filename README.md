@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iron Fuel Shows Its Mettle](https://spectrum.ieee.org/iron-fuel)
-- [Two US lawyers fined for submitting fake court citations from ChatGPT](https://www.theguardian.com/technology/2023/jun/23/two-us-lawyers-fined-submitting-fake-court-citations-chatgpt)
-- [Diabetes projected to affect 1.3B people by 2050 as waistlines keep growing](https://studyfinds.org/diabetes-billion-people-globally/)
-- [Lab-Grown Chicken Is Now Legal for Sale in the US](https://singularityhub.com/2023/06/23/lab-grown-chicken-is-now-legal-for-sale-in-the-us/)
-- [California will begin backing intentional burns to control wildfire](https://www.freethink.com/science/prescribed-and-cultural-burns)
+- [Removing Official Support for Red Hat Enterprise Linux](https://www.jeffgeerling.com/blog/2023/removing-official-support-red-hat-enterprise-linux)
+- [An Open Source Mouse and Trackpad Utility for Mac](https://linearmouse.app/)
+- [How-to Guide: Migrate from RDS MySQL to SingleStore with Minimal Downtime](https://www.singlestore.com/blog/migrate-from-rds-mysql-to-singlestore-with-minimal-downtime/)
+- [How to create a game using hyperbolic geometry?](http://roguetemple.com/z/hyper/dev.php)
+- [Framework Laptop 16 Deep Dive – 180W Power Adapter](https://frame.work/gb/en/blog/framework-laptop-16-deep-dive---180w-power-adapter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
