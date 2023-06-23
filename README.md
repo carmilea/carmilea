@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon cancels my account after exposing account lockout for “racist doorbell” [video]](https://www.youtube.com/watch?v=Kcohq313q00)
+- [OpenSUSE – Closing the Leap Gap &lpar;2021&rpar;](https://www.suse.com/c/closing-the-leap-gap-src/)
 - [How AI can distort human beliefs](https://www.science.org/doi/10.1126/science.adi0248)
 - [Anime.js – A lightweight JavaScript animation library](https://animejs.com/)
 - [UW CSE 391 – System and Software Tools](https://courses.cs.washington.edu/courses/cse391/23sp/)
-- [Scientists unfroze rat organs and transplanted them](https://www.statnews.com/2023/06/21/cryogenic-organ-preservation-transplants/)
-- [So you want to write a GUI framework &lpar;2021&rpar;](http://www.cmyr.net/blog/gui-framework-ingredients.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
