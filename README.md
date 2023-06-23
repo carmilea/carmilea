@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Isn&#39;t Titan Classed?](http://web.archive.org/web/20200807162348/https://oceangate.com/news-and-media/blog/2019-0221-why-titan-is-not-classed.html)
-- [Any Deep ReLU Network Is Shallow](https://arxiv.org/abs/2306.11827)
-- [China solar module prices keep diving](https://www.pv-magazine.com/2023/06/23/china-solar-module-prices-keep-diving/)
-- [Titan sub CEO dismissed safety warnings as &#39;baseless cries&#39;, emails show](https://www.bbc.com/news/world-us-canada-65998914)
-- [Jessica Livingston &lpar;2015&rpar;](http://www.paulgraham.com/jessica.html)
+- [Moderation in a Public Commons](https://blueskyweb.xyz/blog/6-23-2023-moderation-proposals)
+- [AlmaLinux&#39;s response to Red Hat&#39;s policy change](https://lwn.net/Articles/935918/)
+- [A software engineer’s guide to understanding neural networks and transformers](https://sebinsua.com/bridging-the-gap)
+- [Wagner coup in Russia? Wagner declared war on the Russian army](https://www.worldbulletin.net/asia-pacific/wagner-coup-in-russia-wagner-declared-war-on-the-russian-army-h215840.html)
+- [How to escape meeting hell as an engineer?](https://news.ycombinator.com/item?id=36452182)
 <!-- BLOG-POST-LIST:END -->
 
 ---
