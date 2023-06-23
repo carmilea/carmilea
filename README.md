@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is it so rare to hear about Western cyber-attacks?](https://www.bbc.com/news/technology-65977742)
 - [GitHub: “Human eyes” will never see the contents of your private repositories](https://docs.github.com/en/get-started/privacy-on-github/about-githubs-use-of-your-data)
 - [Proceedings of the 19th Workshop on Hot Topics in Operating Systems](https://dl.acm.org/doi/proceedings/10.1145/3593856)
 - [Amazon cancels my account after exposing account lockout for “racist doorbell” [video]](https://www.youtube.com/watch?v=Kcohq313q00)
 - [Around the World with SQLite3 and Rsync](https://fly.io/ruby-dispatch/smooth-fly-dev/)
-- [OpenSUSE – Closing the Leap Gap &lpar;2021&rpar;](https://www.suse.com/c/closing-the-leap-gap-src/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
