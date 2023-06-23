@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moderation in a Public Commons](https://blueskyweb.xyz/blog/6-23-2023-moderation-proposals)
-- [AlmaLinux&#39;s response to Red Hat&#39;s policy change](https://lwn.net/Articles/935918/)
-- [A software engineer’s guide to understanding neural networks and transformers](https://sebinsua.com/bridging-the-gap)
-- [Wagner coup in Russia? Wagner declared war on the Russian army](https://www.worldbulletin.net/asia-pacific/wagner-coup-in-russia-wagner-declared-war-on-the-russian-army-h215840.html)
-- [How to escape meeting hell as an engineer?](https://news.ycombinator.com/item?id=36452182)
+- [5 Deaths at Sea Gripped the World. Hundreds of Others Got a Shrug](https://www.nytimes.com/2023/06/23/world/europe/titan-sub-greek-migrant-boat.html)
+- [Moderation in a public commons](https://blueskyweb.xyz/blog/6-23-2023-moderation-proposals)
+- [U.S. Seeks 70-Month Prison Sentence for YouTube Content ID Scammer](https://torrentfreak.com/u-s-seeks-70-month-prison-sentence-for-youtube-content-id-scammer-230623/)
+- [Why isn&#39;t Titan classed? &lpar;2019&rpar;](http://web.archive.org/web/20200807162348/https://oceangate.com/news-and-media/blog/2019-0221-why-titan-is-not-classed.html)
+- [Real-time messaging](https://slack.engineering/real-time-messaging/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
