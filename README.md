@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Amazon cancels my account after exposing account lockout for “racist doorbell” [video]](https://www.youtube.com/watch?v=Kcohq313q00)
+- [Around the World with SQLite3 and Rsync](https://fly.io/ruby-dispatch/smooth-fly-dev/)
 - [OpenSUSE – Closing the Leap Gap &lpar;2021&rpar;](https://www.suse.com/c/closing-the-leap-gap-src/)
 - [How AI can distort human beliefs](https://www.science.org/doi/10.1126/science.adi0248)
 - [Anime.js – A lightweight JavaScript animation library](https://animejs.com/)
-- [UW CSE 391 – System and Software Tools](https://courses.cs.washington.edu/courses/cse391/23sp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
