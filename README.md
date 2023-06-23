@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: IP cameras that don&#39;t require an app or internet](https://news.ycombinator.com/item?id=36447024)
 - [Groundbreaking AI project translates 5k-year-old cuneiform](https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/)
 - [Show HN: I&#39;ve built open-source, collaborative, WYSIWYG Markdown editor](https://editor.vrite.io/)
 - [The Most Mysterious Song on the Internet](https://en.wikipedia.org/wiki/The_Most_Mysterious_Song_on_the_Internet)
-- [Titanic director James Cameron accuses OceanGate of cutting corners](https://www.bbc.com/news/world-us-canada-65994707)
 - [The Pentagon’s $52k trash can](https://responsiblestatecraft.org/2023/06/20/the-pentagons-52000-trash-can/)
 <!-- BLOG-POST-LIST:END -->
 
