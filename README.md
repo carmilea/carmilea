@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
+- [PDF Subpage Navigation](https://nibblestew.blogspot.com/2023/06/pdf-subpage-navigation.html)
 - [Declassified U.S. report on origins of Covid-19 virus [pdf]](https://www.dni.gov/files/ODNI/documents/assessments/Report-on-Potential-Links-Between-the-Wuhan-Institute-of-Virology-and-the-Origins-of-COVID-19-20230623.pdf)
 - [Doctor Droid &lpar;YC W23&rpar; Is Hiring Back End Engineer &lpar;7 Years Exp&rpar;](https://www.ycombinator.com/companies/doctor-droid/jobs/euNMtT4-senior-backend-7-yrs)
-- [Ask HN: How is it possible to shop on Walmart.com? Everything is out of stock](https://news.ycombinator.com/item?id=36454184)
 - [The rule says, “No vehicles in the park”](https://novehiclesinthepark.com/)
-- [64-Bit RISC-V with Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/riscv.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
