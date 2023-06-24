@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hannah Arendt and the Loss of a Common World: Thinking in Concert Against Theory](https://hedgehogreview.com/issues/by-theory-possessed/articles/hannah-arendt-and-the-loss-of-a-common-world)
+- [Dry Fractionation](https://lipidlibrary.aocs.org/edible-oil-processing/dry-fractionation)
+- [RunInSandbox: Run/extract files in Windows Sandbox with a right-click](https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html)
+- [Fast and free multi-language code editor for Android](https://github.com/massivemadness/Squircle-CE)
 - [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 - [Mineverse](https://evanw.github.io/mineverse/)
-- [The Free Soloist Who Fell to Earth](https://www.outsideonline.com/outdoor-adventure/climbing/austin-howell-fallen-soloist/)
-- [The bigger-is-better approach to AI is running out of road](https://www.economist.com/science-and-technology/2023/06/21/the-bigger-is-better-approach-to-ai-is-running-out-of-road)
 <!-- BLOG-POST-LIST:END -->
 
 ---
