@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: HN comments sidebar bookmarklet](https://gist.github.com/postmalloc/e2602752d46c5b9dee24462356f96cca)
-- [Show HN: Writedown - Open Source Markdown Diary](https://writedown.app/)
-- [Every Mastodon User Has an RSS Feed](https://www.rssboard.org/news/211/every-mastodon-user-has-rss-feed)
-- [Do, or do not. There is no try](https://github.com/binpash/try)
-- [US vendor accused of violating GDPR by reputation-scoring EU citizens](https://www.theregister.com/2023/06/23/telesign_gdpr_complaint/)
+- [Hannah Arendt and the Loss of a Common World: Thinking in Concert Against Theory](https://hedgehogreview.com/issues/by-theory-possessed/articles/hannah-arendt-and-the-loss-of-a-common-world)
+- [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+- [Mineverse](https://evanw.github.io/mineverse/)
+- [The Free Soloist Who Fell to Earth](https://www.outsideonline.com/outdoor-adventure/climbing/austin-howell-fallen-soloist/)
+- [The bigger-is-better approach to AI is running out of road](https://www.economist.com/science-and-technology/2023/06/21/the-bigger-is-better-approach-to-ai-is-running-out-of-road)
 <!-- BLOG-POST-LIST:END -->
 
 ---
