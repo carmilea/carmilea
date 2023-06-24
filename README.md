@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s Dragon Boat Festival Here in Taiwan &lpar;With Pictures&rpar;](https://jjpryor.substack.com/p/dragon-boat-festival-taiwan)
+- [Putin’s Rewriting of History Draws on a Long Soviet Myth-Making Tradition &lpar;2022&rpar;](https://www.smithsonianmag.com/history/vladimir-putins-rewriting-of-history-draws-on-a-long-tradition-of-soviet-myth-making-180979724/)
 - [Why doesn&#39;t TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
 - [Fully Open Public Licence](https://github.com/pjakma/fopl)
-- [Your keyboard layout is broken](https://www.snprajwal.com/blog/keyboards-are-broken/)
-- [Decades-long bet on consciousness ends – it’s philosopher 1, neuroscientist 0](https://www.nature.com/articles/d41586-023-02120-8)
+- [The Case Against Travel](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)
+- [GCC 14 Adds Initial “-std=C++26” Plumbing](https://www.phoronix.com/news/GCC-Lands-Std-CPP26-GNU26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
