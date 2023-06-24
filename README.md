@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Has Xbox lost the console wars?](https://www.theverge.com/2023/6/24/23772314/ftc-microsoft-day-two-hearing-summary-xbox-console-wars-sony-playstation-call-of-duty)
 - [Do, or do not. There is no try](https://github.com/binpash/try)
-- [Russian paramilitary chief says his forces will turn around](https://www.nytimes.com/live/2023/06/24/world/russia-ukraine-news)
 - [US vendor accused of violating GDPR by reputation-scoring EU citizens](https://www.theregister.com/2023/06/23/telesign_gdpr_complaint/)
-- [$900k Median Package for Engineers at OpenAI](https://www.levels.fyi/companies/openai/salaries/software-engineer)
-- [Flying Taxi at the Paris Air Show Is Quiet. Too Quiet](https://www.wsj.com/articles/this-flying-taxi-at-the-paris-air-show-is-quiet-too-quiet-d3042497)
+- [Creating an autonomous system for fun and profit &lpar;2017&rpar;](https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
+- [Visual Studio’s IntelliSense list can now steer GitHub Copilot code completions](https://devblogs.microsoft.com/visualstudio/github-copilot-visual-studio-intellisense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
