@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Maker&#39;s schedule, Manager&#39;s schedule &lpar;2009&rpar;](http://www.paulgraham.com/makersschedule.html)
+- [History is just one damn thing after another](https://collabfund.com/blog/how-this-all-happened/)
 - [A large crash spike affecting Firefox users on Linux](https://fosstodon.org/@gabrielesvelto/110592904713090347)
 - [OpenSuse Tumbleweed: State-of-the-art desktop and server operating system](https://get.opensuse.org/tumbleweed/)
 - [Go 1.21 will &lpar;probably&rpar; download newer toolchains on demand by default](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads)
-- [Why thousands of board games are buried beneath Mankato](https://www.startribune.com/anti-monopoly-mankato-landfill-board-game-history/600279625/)
-- [An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
 <!-- BLOG-POST-LIST:END -->
 
 ---
