@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Killed VC](https://ainiro.io/blog/ai-killed-venture-capitalism)
-- [CSS Only dark mode without JS](https://simondalvai.com/blog/css-only-darkmode/)
+- [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
+- [OpenBSD: Game of Trees 0.90 Released](https://undeadly.org/cgi?action=article;sid=20230624054334)
 - [Maker&#39;s schedule, Manager&#39;s schedule &lpar;2009&rpar;](http://www.paulgraham.com/makersschedule.html)
+- [How to write good code easily with semantic compression](https://caseymuratori.com/blog_0015)
 - [History is just one damn thing after another](https://collabfund.com/blog/how-this-all-happened/)
-- [A large crash spike affecting Firefox users on Linux](https://fosstodon.org/@gabrielesvelto/110592904713090347)
 <!-- BLOG-POST-LIST:END -->
 
 ---
