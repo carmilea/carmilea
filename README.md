@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Deaths at Sea Gripped the World. Hundreds of Others Got a Shrug](https://www.nytimes.com/2023/06/23/world/europe/titan-sub-greek-migrant-boat.html)
-- [Moderation in a public commons](https://blueskyweb.xyz/blog/6-23-2023-moderation-proposals)
-- [U.S. Seeks 70-Month Prison Sentence for YouTube Content ID Scammer](https://torrentfreak.com/u-s-seeks-70-month-prison-sentence-for-youtube-content-id-scammer-230623/)
-- [Why isn&#39;t Titan classed? &lpar;2019&rpar;](http://web.archive.org/web/20200807162348/https://oceangate.com/news-and-media/blog/2019-0221-why-titan-is-not-classed.html)
-- [Real-time messaging](https://slack.engineering/real-time-messaging/)
+- [Declassified U.S. report on origins of Covid-19 virus [pdf]](https://www.dni.gov/files/ODNI/documents/assessments/Report-on-Potential-Links-Between-the-Wuhan-Institute-of-Virology-and-the-Origins-of-COVID-19-20230623.pdf)
+- [Doctor Droid &lpar;YC W23&rpar; Is Hiring Back End Engineer &lpar;7 Years Exp&rpar;](https://www.ycombinator.com/companies/doctor-droid/jobs/euNMtT4-senior-backend-7-yrs)
+- [Ask HN: How is it possible to shop on Walmart.com? Everything is out of stock](https://news.ycombinator.com/item?id=36454184)
+- [The rule says, “No vehicles in the park”](https://novehiclesinthepark.com/)
+- [64-Bit RISC-V with Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/riscv.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
