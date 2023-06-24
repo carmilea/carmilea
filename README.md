@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Putin’s Rewriting of History Draws on a Long Soviet Myth-Making Tradition &lpar;2022&rpar;](https://www.smithsonianmag.com/history/vladimir-putins-rewriting-of-history-draws-on-a-long-tradition-of-soviet-myth-making-180979724/)
+- [AMD EPYC 97x4 “Bergamo” CPUs: 128 Zen 4c CPU Cores for Servers, Shipping Now](https://www.anandtech.com/show/18913/amd-intros-epyc-97x4-bergamo-cpus-128-zen-4c-cpu-cores-shipping-now)
+- [Meta says its new speech-generating AI tool is too dangerous to release](https://www.techradar.com/news/meta-says-its-new-speech-generating-ai-tool-is-too-dangerous-to-release)
+- [It&#39;s Dragon Boat Festival Here in Taiwan &lpar;With Pictures&rpar;](https://jjpryor.substack.com/p/dragon-boat-festival-taiwan)
 - [Why doesn&#39;t TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
 - [Fully Open Public Licence](https://github.com/pjakma/fopl)
-- [The Case Against Travel](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)
-- [GCC 14 Adds Initial “-std=C++26” Plumbing](https://www.phoronix.com/news/GCC-Lands-Std-CPP26-GNU26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
