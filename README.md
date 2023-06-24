@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
-- [OpenBSD: Game of Trees 0.90 Released](https://undeadly.org/cgi?action=article;sid=20230624054334)
-- [Maker&#39;s schedule, Manager&#39;s schedule &lpar;2009&rpar;](http://www.paulgraham.com/makersschedule.html)
-- [How to write good code easily with semantic compression](https://caseymuratori.com/blog_0015)
-- [History is just one damn thing after another](https://collabfund.com/blog/how-this-all-happened/)
+- [The Prigozhin Coup seems pretty damn well organized](https://phillipspobrien.substack.com/p/the-prigozhin-coup-seems-pretty-damn)
+- [The Case Against Travel](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)
+- [GCC 14 Adds Initial “-std=C++26” Plumbing](https://www.phoronix.com/news/GCC-Lands-Std-CPP26-GNU26)
+- [Decades-long bet on consciousness ends – it’s philosopher 1, neuroscientist 0](https://www.nature.com/articles/d41586-023-02120-8)
+- [Wearable device that records your voice for legal defense](https://news.ycombinator.com/item?id=36457266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
