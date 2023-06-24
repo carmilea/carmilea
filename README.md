@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Prigozhin Coup seems pretty damn well organized](https://phillipspobrien.substack.com/p/the-prigozhin-coup-seems-pretty-damn)
-- [The Case Against Travel](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)
-- [GCC 14 Adds Initial “-std=C++26” Plumbing](https://www.phoronix.com/news/GCC-Lands-Std-CPP26-GNU26)
+- [It&#39;s Dragon Boat Festival Here in Taiwan &lpar;With Pictures&rpar;](https://jjpryor.substack.com/p/dragon-boat-festival-taiwan)
+- [Why doesn&#39;t TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
+- [Fully Open Public Licence](https://github.com/pjakma/fopl)
+- [Your keyboard layout is broken](https://www.snprajwal.com/blog/keyboards-are-broken/)
 - [Decades-long bet on consciousness ends – it’s philosopher 1, neuroscientist 0](https://www.nature.com/articles/d41586-023-02120-8)
-- [Wearable device that records your voice for legal defense](https://news.ycombinator.com/item?id=36457266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
