@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Do, or do not. There is no try](https://github.com/binpash/try)
+- [Russian paramilitary chief says his forces will turn around](https://www.nytimes.com/live/2023/06/24/world/russia-ukraine-news)
 - [US vendor accused of violating GDPR by reputation-scoring EU citizens](https://www.theregister.com/2023/06/23/telesign_gdpr_complaint/)
 - [$900k Median Package for Engineers at OpenAI](https://www.levels.fyi/companies/openai/salaries/software-engineer)
-- [Creating an Autonomous System for Fun and Profit](https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
-- [Visual Studio’s IntelliSense list can now steer GitHub Copilot code completions](https://devblogs.microsoft.com/visualstudio/github-copilot-visual-studio-intellisense/)
-- [New rule would give electric utilities incentives for investing in cybersecurity](https://www.federalregister.gov/documents/2023/05/03/2023-08929/incentives-for-advanced-cybersecurity-investment)
+- [Flying Taxi at the Paris Air Show Is Quiet. Too Quiet](https://www.wsj.com/articles/this-flying-taxi-at-the-paris-air-show-is-quiet-too-quiet-d3042497)
 <!-- BLOG-POST-LIST:END -->
 
 ---
