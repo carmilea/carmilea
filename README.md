@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Take action, Protect end-to-end encryption](https://www.fsf.org/blogs/community/take-action-protect-end-to-end-encryption)
-- [Now on the menu at Toast: A new 99 cent fee](https://www.boston.com/news/the-boston-globe/2023/06/24/new-toast-fee/)
-- [FDIC accidentally reveals details about Silicon Valley Bank’s biggest customers](https://www.cnn.com/2023/06/23/investing/svb-bank-fdic/index.html)
-- [Building a new ZX Spectrum from all new parts](https://www.lostretrotapes.com/building-a-new-zx-spectrum-from-all-new-parts-mostly-part-1/)
-- [NASA’s Mars Sample Return has a new price tag–and it’s colossal](https://arstechnica.com/space/2023/06/the-mars-sample-return-mission-is-starting-to-give-nasa-sticker-shock/)
+- [New rule would give electric utilities incentives for investing in cybersecurity](https://www.federalregister.gov/documents/2023/05/03/2023-08929/incentives-for-advanced-cybersecurity-investment)
+- [North Korean Market Prices Suggest Serious Food Shortages](https://www.38north.org/2023/06/north-korean-market-prices-suggest-serious-food-shortages/)
+- [Behind the Curtains of Wikipedia Redesign](https://www.smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/)
+- [Inflation is as corrosive to investing as it is to the real economy](https://www.economist.com/briefing/2023/06/21/inflation-is-as-corrosive-to-investing-as-it-is-to-the-real-economy)
+- [Simple Statistics: Statistical methods in JavaScript for browsers and servers](https://simple-statistics.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
