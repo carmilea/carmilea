@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Only dark mode](https://simondalvai.com/blog/css-only-darkmode/)
+- [AI Killed VC](https://ainiro.io/blog/ai-killed-venture-capitalism)
+- [CSS Only dark mode without JS](https://simondalvai.com/blog/css-only-darkmode/)
 - [Maker&#39;s schedule, Manager&#39;s schedule &lpar;2009&rpar;](http://www.paulgraham.com/makersschedule.html)
 - [History is just one damn thing after another](https://collabfund.com/blog/how-this-all-happened/)
 - [A large crash spike affecting Firefox users on Linux](https://fosstodon.org/@gabrielesvelto/110592904713090347)
-- [OpenSuse Tumbleweed: State-of-the-art desktop and server operating system](https://get.opensuse.org/tumbleweed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
