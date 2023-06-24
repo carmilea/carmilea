@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why thousands of board games are buried beneath Mankato](https://www.startribune.com/anti-monopoly-mankato-landfill-board-game-history/600279625/)
 - [An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
 - [PDF Subpage Navigation](https://nibblestew.blogspot.com/2023/06/pdf-subpage-navigation.html)
-- [Declassified U.S. report on origins of Covid-19 virus [pdf]](https://www.dni.gov/files/ODNI/documents/assessments/Report-on-Potential-Links-Between-the-Wuhan-Institute-of-Virology-and-the-Origins-of-COVID-19-20230623.pdf)
 - [Doctor Droid &lpar;YC W23&rpar; Is Hiring Back End Engineer &lpar;7 Years Exp&rpar;](https://www.ycombinator.com/companies/doctor-droid/jobs/euNMtT4-senior-backend-7-yrs)
 - [The rule says, “No vehicles in the park”](https://novehiclesinthepark.com/)
 <!-- BLOG-POST-LIST:END -->
