@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
+- [Ask HN: Is GNU pass and Yubikey &lpar;via NFC&rpar; supported on iPhone?](https://news.ycombinator.com/item?id=36464531)
 - [Netflix Canada just got rid of its cheapest ad-free plan without even a heads up](https://www.narcity.com/netflix-canada-got-rid-of-cheapest-ad-free-subscription)
 - [WeeChat Version 4.0.0](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
 - [On the paper “Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]](https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf)
-- [Interactive CommonMark Tutorial](https://commonmark.org/help/tutorial/index.html)
-- [NHTSA: Car crashes cost Americans $340B](https://www.nhtsa.gov/press-releases/traffic-crashes-cost-america-billions-2019)
 <!-- BLOG-POST-LIST:END -->
 
 ---
