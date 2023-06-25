@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zotero Better Notes – Knowledge management solution inside Zotero](https://github.com/windingwind/zotero-better-notes)
-- [Tilia – fully licensed, regulation compliant money transmitter for gaming](https://www.tilia.io/about)
-- [Show HN: Instant access to ChatGPT on any Mac app](https://atua.app)
-- [Intercal: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
-- [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
+- [Do life hacks work? We’ll never know](https://www.theguardian.com/science/2023/jun/24/do-life-hacks-work-the-truth-is-well-never-know)
+- [Sweden adopts new fossil-free target, making way for nuclear](https://www.power-technology.com/news/sweden-adopts-new-fossil-free-target-making-way-for-nuclear/)
+- [Zotero Better Notes – Knowledge management inside Zotero](https://github.com/windingwind/zotero-better-notes)
+- [How platform engineering works](https://chadxz.dev/platform/)
+- [Tilia – regulation-compliant &lpar;but US-only&rpar; money transmitter for gaming](https://www.tilia.io/about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
