@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ignoring Boys&#39; Emotional Needs Fuels Public Health Risks](https://www.wbur.org/cognoscenti/2023/06/15/boys-in-crisis-masculinity-andrew-reiner)
+- [What Type of Exercise Is Best for Mental Health?](https://greatergood.berkeley.edu/article/item/what_type_of_exercise_is_best_for_mental_health)
+- [Microsoft&#39;s ruthless employee ranking system annihilated team collaboration](https://tryingtruly.substack.com/p/the-shitty-stack-system)
+- [Recovering Steely Dan’s Second Arrangement](https://expandingdan.substack.com/p/second-arrangement-steely-dan-roger-nichols-tape)
 - [Battle.net, WoW, Diablo IV affected by DDoS attack](https://twitter.com/BlizzardCS/status/1673017834455154688)
-- [The Cost of Gasoline](https://grist.org/accountability/gas-stations-underground-storage-tank-leaks-environmental-disaster/)
 - [Microsoft Research: Fully In-Place Functional Programming [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf)
-- [Show HN: Fossfox – paid opportunities for open-source devs](https://fossfox.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
