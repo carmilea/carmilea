@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ways to Say No – With Grace and Style](https://fs.blog/saying-no/)
+- [The iPad was meant to revolutionize accessibility. What happened?](https://www.technologyreview.com/2023/06/21/1074249/ipad-accessibility-fail/)
 - [LastPass users locked out &lpar;again&rpar; with infinite 2FA loop](https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/)
 - [Delhi man gets AliExpress order after four years](https://indianexpress.com/article/trending/trending-in-india/delhi-man-gets-aliexpress-order-after-four-years-8684225/)
 - [Air Quality Reporting on iOS](https://intergalactic.systems/posts/post-1965946732.html)
-- [Office real estate crash will be so sharp, values unlikely to recover by 2040](https://fortune.com/2023/06/23/commercial-real-estate-crash-office-values-unlikely-to-recover-by-2040-says-capital-economics/)
-- [Everything You Never Wanted to Know About CMake &lpar;Redux&rpar;](https://izzys.casa/2023/06/everything-you-never-wanted-to-know-about-cmake-redux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
