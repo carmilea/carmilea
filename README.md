@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Doubts creep in about wisdom of ‘no-kids zones’ in South Korea](https://www.cnn.com/2023/06/24/asia/south-korea-no-kids-zone-intl-hnk-dst/index.html)
-- [What are embeddings?](https://vickiboykis.com/what_are_embeddings/)
-- [Ask HN: Why doesn&#39;t Netflix produce more of its most popular shows?](https://news.ycombinator.com/item?id=36469783)
-- [I don&#39;t expect to see competitive RISC-V servers any time soon](https://utcc.utoronto.ca/~cks/space/blog/tech/RISCVServersNotSoon)
-- [Formula E team caught using RFID scanner that got live tire data from other cars](https://www.theverge.com/2023/6/24/23772725/formula-e-ds-penske-rfid-tire-data-wireless-scanner)
+- [Texas airport worker dies after being sucked into Delta jet engine](https://www.theguardian.com/us-news/2023/jun/25/texas-airport-worker-dies-after-being-sucked-into-delta-jet-engine)
+- [Breadbee: Build your own &lpar;tiny&rpar; single board computer](http://wtarreau.blogspot.com/2020/09/breadbee-build-your-own-single-board.html)
+- [Show HN: Open-source resume builder and parser](https://www.open-resume.com/)
+- [Publishers carpet-bomb IPFS gateway operators with DMCA notices](https://torrentfreak.com/publishers-carpet-bomb-ipfs-gateway-operators-with-dmca-notices-230625/)
+- [Eight-mile frieze of Ice Age beasts found in Amazon rainforest](https://www.cnn.com/style/article/amazon-rainforest-ice-age-paintings-scli-intl/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
