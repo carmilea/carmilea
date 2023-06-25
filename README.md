@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When wealthy adventurers take risks,who foots the bill for rescue attempts?](https://apnews.com/article/titanic-tourist-sub-passengers-cost-ee2a6358b36e48326b3977090fd9311b)
+- [Remote work appears to be here to stay, especially for women](https://www.washingtonpost.com/wellness/2023/06/22/remote-work-family-socialization-time-use/)
+- [Ask HN: What topics are good for a UI/UX Primer?](https://news.ycombinator.com/item?id=36468535)
+- [Principles of Imperative Programming](https://www.cs.cmu.edu/~15122/about.shtml)
 - [Tintin, Hergé and Chang – A Friendship That Changed the World](https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world)
 - [Repairing a $25K HP Workstation from 1981 to Run Pac-Man](https://hackaday.com/2023/06/20/repairing-a-25000-hp-workstation-to-run-pac-man/)
-- [Adobe Account Expiration. Michael Tsai](https://mjtsai.com/blog/2023/06/23/adobe-account-expiration/)
-- [Ways to Say No With Grace and Style](https://fs.blog/saying-no/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
