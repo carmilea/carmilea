@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas airport worker dies after being sucked into Delta jet engine](https://www.theguardian.com/us-news/2023/jun/25/texas-airport-worker-dies-after-being-sucked-into-delta-jet-engine)
+- [Adversarial Collaboration Project](https://web.sas.upenn.edu/adcollabproject/)
+- [I Shouldn’t Have to Accept Being in Deepfake Porn](https://www.theatlantic.com/ideas/archive/2023/06/deepfake-porn-ai-misinformation/674475/)
+- [Understanding Google Zanzibar and Why it Shines at Building Permissions](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
+- [Miles Davis: candid conversation with the jazz world&#39;s premier iconoclast &lpar;1962&rpar;](https://www.erenkrantz.com/Music/MilesDavisInterview.shtml)
 - [Breadbee: Build your own &lpar;tiny&rpar; single board computer](http://wtarreau.blogspot.com/2020/09/breadbee-build-your-own-single-board.html)
-- [Show HN: Open-source resume builder and parser](https://www.open-resume.com/)
-- [Publishers carpet-bomb IPFS gateway operators with DMCA notices](https://torrentfreak.com/publishers-carpet-bomb-ipfs-gateway-operators-with-dmca-notices-230625/)
-- [Eight-mile frieze of Ice Age beasts found in Amazon rainforest](https://www.cnn.com/style/article/amazon-rainforest-ice-age-paintings-scli-intl/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
