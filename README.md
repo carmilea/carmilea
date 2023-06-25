@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Upload a Godot HTML5 Game to Itch.io with GitHub Actions](https://simondalvai.com/blog/godot-itchio-upload/)
-- [No Markdown support in Google Drive after all these years](https://news.ycombinator.com/item?id=36466406)
-- [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
-- [Everything that uses configuration files should report where they&#39;re located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
-- [Zotero Better Notes – Knowledge management inside Zotero](https://github.com/windingwind/zotero-better-notes)
+- [LastPass users locked out &lpar;again&rpar; with infinite 2FA loop](https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/)
+- [Delhi man gets AliExpress order after four years](https://indianexpress.com/article/trending/trending-in-india/delhi-man-gets-aliexpress-order-after-four-years-8684225/)
+- [Air Quality Reporting on iOS](https://intergalactic.systems/posts/post-1965946732.html)
+- [Office real estate crash will be so sharp, values unlikely to recover by 2040](https://fortune.com/2023/06/23/commercial-real-estate-crash-office-values-unlikely-to-recover-by-2040-says-capital-economics/)
+- [Everything You Never Wanted to Know About CMake &lpar;Redux&rpar;](https://izzys.casa/2023/06/everything-you-never-wanted-to-know-about-cmake-redux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
