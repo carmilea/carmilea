@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adversarial Collaboration Project](https://web.sas.upenn.edu/adcollabproject/)
-- [I Shouldn’t Have to Accept Being in Deepfake Porn](https://www.theatlantic.com/ideas/archive/2023/06/deepfake-porn-ai-misinformation/674475/)
-- [Understanding Google Zanzibar and Why it Shines at Building Permissions](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
-- [Miles Davis: candid conversation with the jazz world&#39;s premier iconoclast &lpar;1962&rpar;](https://www.erenkrantz.com/Music/MilesDavisInterview.shtml)
-- [Breadbee: Build your own &lpar;tiny&rpar; single board computer](http://wtarreau.blogspot.com/2020/09/breadbee-build-your-own-single-board.html)
+- [Ignoring Boys&#39; Emotional Needs Fuels Public Health Risks](https://www.wbur.org/cognoscenti/2023/06/15/boys-in-crisis-masculinity-andrew-reiner)
+- [Battle.net, WoW, Diablo IV affected by DDoS attack](https://twitter.com/BlizzardCS/status/1673017834455154688)
+- [The Cost of Gasoline](https://grist.org/accountability/gas-stations-underground-storage-tank-leaks-environmental-disaster/)
+- [Microsoft Research: Fully In-Place Functional Programming [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf)
+- [Show HN: Fossfox – paid opportunities for open-source devs](https://fossfox.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
