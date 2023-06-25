@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Projectable - a TUI file manager built for projects](https://github.com/dzfrias/projectable)
-- [The .meta Directory: Let&#39;s Tidy Things Up](https://dotmeta.org/)
+- [Esoteric Base Number Systems](https://rupertmckay.com/blog/counting-to-ten/)
+- [Show HN: WinGPT – AI assistant for Windows 3.1](https://www.dialup.net/wingpt/)
+- [The .meta directory: let&#39;s tidy things up](https://dotmeta.org/)
 - [ThinMachine – A $25 Thin Client macOS Time Machine Appliance](https://tomverbeure.github.io/2023/06/25/ThinMachine-a-Thin-Client-MacOS-Time-Machine-Appliance.html)
 - [Kill Siri &lpar;2022&rpar;](https://term7.info/kill-siri/)
-- [A new study looks at how exercise can help alleviate anxiety and depression](https://greatergood.berkeley.edu/article/item/what_type_of_exercise_is_best_for_mental_health)
 <!-- BLOG-POST-LIST:END -->
 
 ---
