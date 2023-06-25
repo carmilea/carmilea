@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Type of Exercise Is Best for Mental Health?](https://greatergood.berkeley.edu/article/item/what_type_of_exercise_is_best_for_mental_health)
-- [Microsoft&#39;s ruthless employee ranking system annihilated team collaboration](https://tryingtruly.substack.com/p/the-shitty-stack-system)
-- [Recovering Steely Dan’s Second Arrangement](https://expandingdan.substack.com/p/second-arrangement-steely-dan-roger-nichols-tape)
-- [Battle.net, WoW, Diablo IV affected by DDoS attack](https://twitter.com/BlizzardCS/status/1673017834455154688)
-- [Microsoft Research: Fully In-Place Functional Programming [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf)
+- [Show HN: Projectable - a TUI file manager built for projects](https://github.com/dzfrias/projectable)
+- [The .meta Directory: Let&#39;s Tidy Things Up](https://dotmeta.org/)
+- [ThinMachine – A $25 Thin Client macOS Time Machine Appliance](https://tomverbeure.github.io/2023/06/25/ThinMachine-a-Thin-Client-MacOS-Time-Machine-Appliance.html)
+- [Kill Siri &lpar;2022&rpar;](https://term7.info/kill-siri/)
+- [A new study looks at how exercise can help alleviate anxiety and depression](https://greatergood.berkeley.edu/article/item/what_type_of_exercise_is_best_for_mental_health)
 <!-- BLOG-POST-LIST:END -->
 
 ---
