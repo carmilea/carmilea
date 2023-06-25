@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ways to Say No – With Grace and Style](https://fs.blog/saying-no/)
-- [The iPad was meant to revolutionize accessibility. What happened?](https://www.technologyreview.com/2023/06/21/1074249/ipad-accessibility-fail/)
-- [LastPass users locked out &lpar;again&rpar; with infinite 2FA loop](https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/)
-- [Delhi man gets AliExpress order after four years](https://indianexpress.com/article/trending/trending-in-india/delhi-man-gets-aliexpress-order-after-four-years-8684225/)
-- [Air Quality Reporting on iOS](https://intergalactic.systems/posts/post-1965946732.html)
+- [When wealthy adventurers take risks,who foots the bill for rescue attempts?](https://apnews.com/article/titanic-tourist-sub-passengers-cost-ee2a6358b36e48326b3977090fd9311b)
+- [Tintin, Hergé and Chang – A Friendship That Changed the World](https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world)
+- [Repairing a $25K HP Workstation from 1981 to Run Pac-Man](https://hackaday.com/2023/06/20/repairing-a-25000-hp-workstation-to-run-pac-man/)
+- [Adobe Account Expiration. Michael Tsai](https://mjtsai.com/blog/2023/06/23/adobe-account-expiration/)
+- [Ways to Say No With Grace and Style](https://fs.blog/saying-no/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
