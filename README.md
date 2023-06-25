@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zotero Better Notes – Knowledge management solution inside Zotero](https://github.com/windingwind/zotero-better-notes)
+- [Tilia – fully licensed, regulation compliant money transmitter for gaming](https://www.tilia.io/about)
+- [Show HN: Instant access to ChatGPT on any Mac app](https://atua.app)
+- [Intercal: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
 - [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
-- [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
-- [Ask HN: Is GNU pass and Yubikey &lpar;via NFC&rpar; supported on iPhone?](https://news.ycombinator.com/item?id=36464531)
-- [WeeChat Version 4.0.0](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
-- [On the paper “Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]](https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
