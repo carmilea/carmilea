@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t expect to see competitive RISC-V servers any time soon](https://utcc.utoronto.ca/~cks/space/blog/tech/RISCVServersNotSoon)
+- [Formula E team caught using RFID scanner that got live tire data from other cars](https://www.theverge.com/2023/6/24/23772725/formula-e-ds-penske-rfid-tire-data-wireless-scanner)
+- [Left my job to go full time on Meetme and refused a 500k/year job](https://www.indiehackers.com/product/meetme/left-my-job-to-go-full-time-on-meetme-and-refused-a-500k-year-job--NYhiov3St_0q137yw_6)
 - [Remote work appears to be here to stay, especially for women](https://www.washingtonpost.com/wellness/2023/06/22/remote-work-family-socialization-time-use/)
 - [Ask HN: What topics are good for a UI/UX Primer?](https://news.ycombinator.com/item?id=36468535)
-- [Principles of Imperative Programming](https://www.cs.cmu.edu/~15122/about.shtml)
-- [Tintin, Hergé and Chang – A Friendship That Changed the World](https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world)
-- [Repairing a $25K HP Workstation from 1981 to Run Pac-Man](https://hackaday.com/2023/06/20/repairing-a-25000-hp-workstation-to-run-pac-man/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
