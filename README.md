@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [All EU Members are committed to achieving full climate neutrality by 2050](https://www.ff55.info/about/)
-- [Nhtsa: Car crashes cost Americans $340B, or $1,035 per person](https://www.thecarconnection.com/news/1138400_nhtsa-car-crashes-cost-americans-340b-or-1-035-per-person)
-- [Did studying proof based math topics e.g. analysis make you a better programmer?](https://news.ycombinator.com/item?id=36462973)
-- [Dry Fractionation](https://lipidlibrary.aocs.org/edible-oil-processing/dry-fractionation)
-- [RunInSandbox: Run/extract files in Windows Sandbox with a right-click](https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html)
+- [Netflix Canada just got rid of its cheapest ad-free plan without even a heads up](https://www.narcity.com/netflix-canada-got-rid-of-cheapest-ad-free-subscription)
+- [WeeChat Version 4.0.0](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
+- [On the paper “Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]](https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf)
+- [Interactive CommonMark Tutorial](https://commonmark.org/help/tutorial/index.html)
+- [NHTSA: Car crashes cost Americans $340B](https://www.nhtsa.gov/press-releases/traffic-crashes-cost-america-billions-2019)
 <!-- BLOG-POST-LIST:END -->
 
 ---
