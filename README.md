@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Making sense of the EU’s fight for user-replaceable smartphone batteries](https://www.theverge.com/2023/6/24/23771064/european-union-battery-regulation-ecodesign-user-replacable-batteries)
+- [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
 - [Everything that uses configuration files should report where they&#39;re located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
 - [Zotero Better Notes – Knowledge management inside Zotero](https://github.com/windingwind/zotero-better-notes)
 - [How platform engineering works](https://chadxz.dev/platform/)
-- [Tilia – regulation-compliant &lpar;but US-only&rpar; money transmitter for gaming](https://www.tilia.io/about)
-- [Time is not a synchronization primitive](https://xeiaso.net/blog/nosleep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
