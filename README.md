@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Do life hacks work? We’ll never know](https://www.theguardian.com/science/2023/jun/24/do-life-hacks-work-the-truth-is-well-never-know)
-- [Sweden adopts new fossil-free target, making way for nuclear](https://www.power-technology.com/news/sweden-adopts-new-fossil-free-target-making-way-for-nuclear/)
+- [Everything that uses configuration files should report where they&#39;re located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
 - [Zotero Better Notes – Knowledge management inside Zotero](https://github.com/windingwind/zotero-better-notes)
 - [How platform engineering works](https://chadxz.dev/platform/)
 - [Tilia – regulation-compliant &lpar;but US-only&rpar; money transmitter for gaming](https://www.tilia.io/about)
+- [Time is not a synchronization primitive](https://xeiaso.net/blog/nosleep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
