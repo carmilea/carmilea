@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t expect to see competitive RISC-V servers any time soon](https://utcc.utoronto.ca/~cks/space/blog/tech/RISCVServersNotSoon)
+- [Doubts creep in about wisdom of ‘no-kids zones’ in South Korea](https://www.cnn.com/2023/06/24/asia/south-korea-no-kids-zone-intl-hnk-dst/index.html)
+- [What are embeddings?](https://vickiboykis.com/what_are_embeddings/)
+- [Ask HN: Why doesn&#39;t Netflix produce more of its most popular shows?](https://news.ycombinator.com/item?id=36469783)
+- [I don&#39;t expect to see competitive RISC-V servers any time soon](https://utcc.utoronto.ca/~cks/space/blog/tech/RISCVServersNotSoon)
 - [Formula E team caught using RFID scanner that got live tire data from other cars](https://www.theverge.com/2023/6/24/23772725/formula-e-ds-penske-rfid-tire-data-wireless-scanner)
-- [Left my job to go full time on Meetme and refused a 500k/year job](https://www.indiehackers.com/product/meetme/left-my-job-to-go-full-time-on-meetme-and-refused-a-500k-year-job--NYhiov3St_0q137yw_6)
-- [Remote work appears to be here to stay, especially for women](https://www.washingtonpost.com/wellness/2023/06/22/remote-work-family-socialization-time-use/)
-- [Ask HN: What topics are good for a UI/UX Primer?](https://news.ycombinator.com/item?id=36468535)
 <!-- BLOG-POST-LIST:END -->
 
 ---
