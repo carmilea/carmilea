@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Hunter-Gatherers Have Thriving Gut Microbiome, Compared with Californians](https://www.nature.com/articles/d41586-023-02065-y)
 - [Kor: Extract structured data using LLMs](https://github.com/eyurtsev/kor)
+- [Magit](https://magit.vc)
 - [P1030680: Unbroken Enigma message &lpar;U534, 01 May 1945&rpar;](https://enigma.hoerenberg.com/index.php?cat=Unbroken&page=P1030680)
 - [Corporate profits account for almost half the increase in Europe’s inflation](https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains)
-- [Engineering Assessment of the OceanGate Titan Failure](https://www.captainsjournal.com/2023/06/25/engineering-assessment-of-the-oceangate-titan-failure/)
-- [EmacsConf 2023 Call for Participation](https://emacsconf.org/2023/cfp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
