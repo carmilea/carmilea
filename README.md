@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Annoyed janitor turns off cryo-freezer destroys decades of scientific work](https://nypost.com/2023/06/25/annoyed-janitor-turns-off-super-cold-freezer-and-destroys-decades-of-scientific-work-causes-at-least-1m-in-damages/)
-- [How the Y chromosome makes some cancers more deadly for men](https://www.nature.com/articles/d41586-023-01987-x)
-- [UC San Francisco apologizes for prisoner experiments](https://www.abc10.com/article/news/local/california/california-university-apologizes-prisoner-experiments/103-655cd5bb-e80f-40d7-ba2c-b7cf17b9c84b)
+- [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
+- [Tokens, the secret language of AI](https://omarkama.li/blog/tokens-the-secret-language-of-ai)
+- [Estimated U.S. deer population, 1450 to 2016](https://www.researchgate.net/figure/Estimated-US-Deer-Population-1450-to-2016-Year-2000-to-2016-estimated-from-combined_fig3_344865578)
 - [FAA issues ground stop for all DC-area airports due to equipment fire](https://www.fox5dc.com/news/faa-issues-ground-stop-for-all-dc-area-airports-due-to-equipment-fire-federal-avaiation-administration-dca-iad-bwi-ric)
 - [Counting the Hard Way](https://rupertmckay.com/blog/counting-to-ten/)
 <!-- BLOG-POST-LIST:END -->
