@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Databricks Strikes $1.3B Deal for Generative AI Startup MosaicML](https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06)
+- [Devtools for Mobile Browsers](https://eruda.liriliri.io/)
+- [Google has a secret browser hidden inside the settings](https://matan-h.com/google-has-a-secret-browser-hidden-inside-the-settings/)
 - [JP Morgan accidentally deletes evidence in record retention screwup](https://www.theregister.com/2023/06/26/jp_morgan_fined_for_deleting/)
 - [Bitsavers Software Archive &lpar;2022&rpar;](https://bitsavers.org/)
-- [Irish Gov Makes Critizising Big Tech and Irish DPC a Crime](https://noyb.eu/en/irish-gov-makes-critizising-big-tech-and-irish-dpc-crime)
-- [How Integers and Floats Work](https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/)
-- [John Goodenough has died](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
 <!-- BLOG-POST-LIST:END -->
 
 ---
