@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Extreme heat means 2/3 of North America could suffer blackouts this summer](https://www.cnn.com/2023/06/26/business/heat-wave-power-blackout/index.html)
+- [IMF: Largest driver of EU inflation is corporate profits](https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains)
+- [EmacsConf 2023 Call for Participation](https://emacsconf.org/2023/cfp/)
 - [Two Dots &lpar;YC S22&rpar; Is Hiring a Senior Engineer](https://www.ycombinator.com/companies/two-dots/jobs/jjpjJeY-software-engineer)
-- [Suit Alleges Recreation.Gov Cluttered with Junk Fees, Seeks Millions in Refunds](https://www.nationalparkstraveler.org/2023/02/update-lawsuit-alleges-recreationgov-cluttered-junk-fees-seeks-refunds)
-- [Arduino Uno R4 WiFi](https://store.arduino.cc/products/uno-r4-wifi)
-- [Question the W3C&#39;s advice re RSS](http://scripting.com/2023/06/24/134722.html)
-- [Show HN: Clang-uml – C++ to UML diagram generator based on Clang](https://github.com/bkryza/clang-uml)
+- [Recurrent Vision Transformers for Object Detection with Event Cameras](https://arxiv.org/abs/2212.05598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
