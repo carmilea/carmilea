@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Britain Doesn’t Build](https://worksinprogress.co/issue/why-britain-doesnt-build)
+- [Bitsavers Software Archive](https://bitsavers.org/)
+- [Julia Evans: How Integers and Floats Work](https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/)
 - [John Goodenough has died](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
-- [NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects](https://github.com/makerdiary/nrf52840-connectkit)
-- [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
-- [Scientists report world’s first X-ray of a single atom in Nature](https://www.ohio.edu/news/2023/05/scientists-report-worlds-first-x-ray-single-atom-nature)
-- [FAA issues ground stop for all DC-area airports due to equipment fire](https://www.fox5dc.com/news/faa-issues-ground-stop-for-all-dc-area-airports-due-to-equipment-fire-federal-avaiation-administration-dca-iad-bwi-ric)
+- [The Structure and Interpretation of Computer Programs &lpar;Python, Scheme&rpar; Berkeley](https://inst.eecs.berkeley.edu/~cs61a/archives.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
