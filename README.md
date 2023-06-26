@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Hunter-Gatherers Have Thriving Gut Microbiome, Compared with Californians](https://www.nature.com/articles/d41586-023-02065-y)
-- [Kor: Extract structured data using LLMs](https://github.com/eyurtsev/kor)
+- [Exposing Floating Point &lpar;2019&rpar;](https://ciechanow.ski/exposing-floating-point/)
+- [The Magic Nix Cache, a GitHub Action for speeding up your Nix workflows](https://determinate.systems/posts/magic-nix-cache)
+- [Hunter-gatherer lifestyle fosters thriving gut microbiome](https://www.nature.com/articles/d41586-023-02065-y)
+- [Kor: a half-baked prototype that &quot;helps&quot; you extract structured data using LLMs](https://github.com/eyurtsev/kor)
 - [Magit](https://magit.vc)
-- [P1030680: Unbroken Enigma message &lpar;U534, 01 May 1945&rpar;](https://enigma.hoerenberg.com/index.php?cat=Unbroken&page=P1030680)
-- [Corporate profits account for almost half the increase in Europe’s inflation](https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains)
 <!-- BLOG-POST-LIST:END -->
 
 ---
