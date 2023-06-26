@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m Done with Red Hat &lpar;Enterprise Linux&rpar;](https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux)
+- [Android’s emergency call shortcut is flooding dispatchers with false calls](https://arstechnica.com/gadgets/2023/06/uk-police-blame-android-for-record-number-of-false-emergency-calls/)
+- [Every Factorial Is a Power](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
 - [Text Rendering Hates You &lpar;2019&rpar;](https://faultlore.com/blah/text-hates-you/)
 - [Databricks Strikes $1.3B Deal for Generative AI Startup MosaicML](https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06)
-- [Devtools for Mobile Browsers](https://eruda.liriliri.io/)
-- [Google has a secret browser hidden inside the settings](https://matan-h.com/google-has-a-secret-browser-hidden-inside-the-settings/)
-- [JP Morgan accidentally deletes evidence in record retention screwup](https://www.theregister.com/2023/06/26/jp_morgan_fined_for_deleting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
