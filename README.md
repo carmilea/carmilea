@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two Dots &lpar;YC S22&rpar; Is Hiring a Senior Engineer](https://www.ycombinator.com/companies/two-dots/jobs/jjpjJeY-software-engineer)
+- [Suit Alleges Recreation.Gov Cluttered with Junk Fees, Seeks Millions in Refunds](https://www.nationalparkstraveler.org/2023/02/update-lawsuit-alleges-recreationgov-cluttered-junk-fees-seeks-refunds)
 - [Arduino Uno R4 WiFi](https://store.arduino.cc/products/uno-r4-wifi)
 - [Question the W3C&#39;s advice re RSS](http://scripting.com/2023/06/24/134722.html)
 - [Show HN: Clang-uml – C++ to UML diagram generator based on Clang](https://github.com/bkryza/clang-uml)
-- [Show HN: Content-aware fill for audio to change a song to any duration](https://mofi.loud.red/)
-- [The World’s Empty Office Buildings Have Become a Debt Time Bomb](https://www.bloomberg.com/news/articles/2023-06-23/commercial-real-estate-reset-is-causing-distress-from-san-francisco-to-hong-kong)
 <!-- BLOG-POST-LIST:END -->
 
 ---
