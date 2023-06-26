@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AudioPaLM: A Large Language Model That Can Speak and Listen](https://arxiv.org/abs/2306.12925)
+- [NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects](https://github.com/makerdiary/nrf52840-connectkit)
 - [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
-- [Tokens, the secret language of AI](https://omarkama.li/blog/tokens-the-secret-language-of-ai)
-- [Estimated U.S. deer population, 1450 to 2016](https://www.researchgate.net/figure/Estimated-US-Deer-Population-1450-to-2016-Year-2000-to-2016-estimated-from-combined_fig3_344865578)
+- [Scientists report world’s first X-ray of a single atom in Nature](https://www.ohio.edu/news/2023/05/scientists-report-worlds-first-x-ray-single-atom-nature)
 - [FAA issues ground stop for all DC-area airports due to equipment fire](https://www.fox5dc.com/news/faa-issues-ground-stop-for-all-dc-area-airports-due-to-equipment-fire-federal-avaiation-administration-dca-iad-bwi-ric)
-- [Counting the Hard Way](https://rupertmckay.com/blog/counting-to-ten/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
