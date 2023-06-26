@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Extreme heat means 2/3 of North America could suffer blackouts this summer](https://www.cnn.com/2023/06/26/business/heat-wave-power-blackout/index.html)
-- [IMF: Largest driver of EU inflation is corporate profits](https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains)
+- [Kor: Extract structured data using LLMs](https://github.com/eyurtsev/kor)
+- [P1030680: Unbroken Enigma message &lpar;U534, 01 May 1945&rpar;](https://enigma.hoerenberg.com/index.php?cat=Unbroken&page=P1030680)
+- [Corporate profits account for almost half the increase in Europe’s inflation](https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains)
+- [Engineering Assessment of the OceanGate Titan Failure](https://www.captainsjournal.com/2023/06/25/engineering-assessment-of-the-oceangate-titan-failure/)
 - [EmacsConf 2023 Call for Participation](https://emacsconf.org/2023/cfp/)
-- [Two Dots &lpar;YC S22&rpar; Is Hiring a Senior Engineer](https://www.ycombinator.com/companies/two-dots/jobs/jjpjJeY-software-engineer)
-- [Recurrent Vision Transformers for Object Detection with Event Cameras](https://arxiv.org/abs/2212.05598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
