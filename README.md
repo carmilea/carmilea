@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Esoteric Base Number Systems](https://rupertmckay.com/blog/counting-to-ten/)
-- [Show HN: WinGPT – AI assistant for Windows 3.1](https://www.dialup.net/wingpt/)
-- [The .meta directory: let&#39;s tidy things up](https://dotmeta.org/)
-- [ThinMachine – A $25 Thin Client macOS Time Machine Appliance](https://tomverbeure.github.io/2023/06/25/ThinMachine-a-Thin-Client-MacOS-Time-Machine-Appliance.html)
-- [Kill Siri &lpar;2022&rpar;](https://term7.info/kill-siri/)
+- [Annoyed janitor turns off cryo-freezer destroys decades of scientific work](https://nypost.com/2023/06/25/annoyed-janitor-turns-off-super-cold-freezer-and-destroys-decades-of-scientific-work-causes-at-least-1m-in-damages/)
+- [How the Y chromosome makes some cancers more deadly for men](https://www.nature.com/articles/d41586-023-01987-x)
+- [UC San Francisco apologizes for prisoner experiments](https://www.abc10.com/article/news/local/california/california-university-apologizes-prisoner-experiments/103-655cd5bb-e80f-40d7-ba2c-b7cf17b9c84b)
+- [FAA issues ground stop for all DC-area airports due to equipment fire](https://www.fox5dc.com/news/faa-issues-ground-stop-for-all-dc-area-airports-due-to-equipment-fire-federal-avaiation-administration-dca-iad-bwi-ric)
+- [Counting the Hard Way](https://rupertmckay.com/blog/counting-to-ten/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
