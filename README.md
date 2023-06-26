@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Argonaut &lpar;YC S21&rpar; – Easily Deploy Apps and Infra to AWS and GCP](https://news.ycombinator.com/item?id=36480230)
-- [U.S. pedestrian deaths reach a 40-year high](https://text.npr.org/1184034017)
-- [Apple to Remove Nostr Damus from App Store for Bitcoin Tipping Feature](https://twitter.com/damusapp/status/1673326463297392640)
-- [Authlib: Python Authentication](https://docs.authlib.org/en/latest/index.html)
-- [Oregon Finally Legalizes Pumping Your Own Gas After 72 Years](https://www.thedrive.com/news/oregon-finally-legalizes-pumping-your-own-gas-after-72-years)
+- [Arduino Uno R4 WiFi](https://store.arduino.cc/products/uno-r4-wifi)
+- [Question the W3C&#39;s advice re RSS](http://scripting.com/2023/06/24/134722.html)
+- [Show HN: Clang-uml – C++ to UML diagram generator based on Clang](https://github.com/bkryza/clang-uml)
+- [Show HN: Content-aware fill for audio to change a song to any duration](https://mofi.loud.red/)
+- [The World’s Empty Office Buildings Have Become a Debt Time Bomb](https://www.bloomberg.com/news/articles/2023-06-23/commercial-real-estate-reset-is-causing-distress-from-san-francisco-to-hong-kong)
 <!-- BLOG-POST-LIST:END -->
 
 ---
