@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Done with Red Hat &lpar;Enterprise Linux&rpar;](https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux)
-- [Android’s emergency call shortcut is flooding dispatchers with false calls](https://arstechnica.com/gadgets/2023/06/uk-police-blame-android-for-record-number-of-false-emergency-calls/)
-- [Every Factorial Is a Power](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
-- [Text Rendering Hates You &lpar;2019&rpar;](https://faultlore.com/blah/text-hates-you/)
-- [Databricks Strikes $1.3B Deal for Generative AI Startup MosaicML](https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06)
+- [Launch HN: Argonaut &lpar;YC S21&rpar; – Easily Deploy Apps and Infra to AWS and GCP](https://news.ycombinator.com/item?id=36480230)
+- [U.S. pedestrian deaths reach a 40-year high](https://text.npr.org/1184034017)
+- [Apple to Remove Nostr Damus from App Store for Bitcoin Tipping Feature](https://twitter.com/damusapp/status/1673326463297392640)
+- [Authlib: Python Authentication](https://docs.authlib.org/en/latest/index.html)
+- [Oregon Finally Legalizes Pumping Your Own Gas After 72 Years](https://www.thedrive.com/news/oregon-finally-legalizes-pumping-your-own-gas-after-72-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
