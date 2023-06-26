@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Britain Doesn’t Build](https://worksinprogress.co/issue/why-britain-doesnt-build)
-- [Bitsavers Software Archive](https://bitsavers.org/)
-- [Julia Evans: How Integers and Floats Work](https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/)
+- [JP Morgan accidentally deletes evidence in record retention screwup](https://www.theregister.com/2023/06/26/jp_morgan_fined_for_deleting/)
+- [Bitsavers Software Archive &lpar;2022&rpar;](https://bitsavers.org/)
+- [Irish Gov Makes Critizising Big Tech and Irish DPC a Crime](https://noyb.eu/en/irish-gov-makes-critizising-big-tech-and-irish-dpc-crime)
+- [How Integers and Floats Work](https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/)
 - [John Goodenough has died](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
-- [The Structure and Interpretation of Computer Programs &lpar;Python, Scheme&rpar; Berkeley](https://inst.eecs.berkeley.edu/~cs61a/archives.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
