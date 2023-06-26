@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John Goodenough has died](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
 - [AudioPaLM: A large language model that can speak and listen](https://arxiv.org/abs/2306.12925)
-- [America aims for nuclear-power renaissance](https://www.economist.com/united-states/2023/06/25/america-aims-for-nuclear-power-renaissance)
 - [NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects](https://github.com/makerdiary/nrf52840-connectkit)
 - [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
 - [Scientists report world’s first X-ray of a single atom in Nature](https://www.ohio.edu/news/2023/05/scientists-report-worlds-first-x-ray-single-atom-nature)
