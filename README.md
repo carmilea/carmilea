@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Through a Glass Darkly](https://asteriskmag.com/issues/03/through-a-glass-darkly)
+- [Amendment introduced to limit remote working in Ohio](https://www.wdtn.com/news/ohio/amendment-introduced-to-limit-remote-working-in-ohio/)
+- [A popular Bluetooth car battery monitor that siphons up all your location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
 - [Exposing Floating Point &lpar;2019&rpar;](https://ciechanow.ski/exposing-floating-point/)
 - [The Magic Nix Cache, a GitHub Action for speeding up your Nix workflows](https://determinate.systems/posts/magic-nix-cache)
-- [Hunter-gatherer lifestyle fosters thriving gut microbiome](https://www.nature.com/articles/d41586-023-02065-y)
-- [Kor: a half-baked prototype that &quot;helps&quot; you extract structured data using LLMs](https://github.com/eyurtsev/kor)
-- [Magit](https://magit.vc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
