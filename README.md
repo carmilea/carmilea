@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing a Ring Buffer for Throughput](https://rigtorp.se/ringbuffer/)
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
-- [Cloud, Why So Difficult?](https://www.winglang.io/blog/2022/11/23/manifesto)
+- [Show HN: An Interactive Guide to Teach Derivatives and Backpropagation](https://x0axz.com/blog/autograd.html)
 - [Testing a 1,000 player Minecraft server with Folia](https://cubxity.dev/blog/folia-test-june-2023)
 - [Build your own Docker with Linux namespaces, cgroups, and chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
-- [Domain-Oriented Microservice Architecture &lpar;2020&rpar;](https://www.uber.com/blog/microservice-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
