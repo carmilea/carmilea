@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing a Ring Buffer for Throughput](https://rigtorp.se/ringbuffer/)
+- [Optimizing a ring buffer for throughput &lpar;2021&rpar;](https://rigtorp.se/ringbuffer/)
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 - [Show HN: An Interactive Guide to Teach Derivatives and Backpropagation](https://x0axz.com/blog/autograd.html)
 - [Testing a 1,000 player Minecraft server with Folia](https://cubxity.dev/blog/folia-test-june-2023)
