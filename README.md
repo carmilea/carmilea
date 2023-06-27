@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking the Limits: How Folia Made 1,000 Player Minecraft Server a Reality](https://cubxity.dev/blog/folia-test-june-2023)
-- [Build Your Own Docker with Linux Namespaces, Cgroups, and Chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
+- [Cloud, Why So Difficult?](https://www.winglang.io/blog/2022/11/23/manifesto)
+- [Testing a 1,000 player Minecraft server with Folia](https://cubxity.dev/blog/folia-test-june-2023)
+- [Build your own Docker with Linux namespaces, cgroups, and chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
 - [Domain-Oriented Microservice Architecture &lpar;2020&rpar;](https://www.uber.com/blog/microservice-architecture/)
-- [OPNsense a true open-source security platform and more](https://opnsense.org/)
-- [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
+- [OPNsense: Open-source security platform](https://opnsense.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
