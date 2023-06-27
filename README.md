@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The only acceptable rating to leave an Uber driver is 5 stars](https://oversharing.substack.com/p/five-stars-or-bust)
+- [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
+- [Outlook now ignores Windows&#39; Default Browser and opens links in Edge by default](https://support.microsoft.com/en-us/topic/outlook-emails-open-next-to-web-links-in-microsoft-edge-b0e1a1c1-bd62-462c-9ed5-5938b9c649f0)
 - [Bootstrapping Atlassian: $10k In Credit Card Debt To $20M In Revenue In 5 years](https://thedisruptors.beehiiv.com/p/bootstrapping-atlassian-from-10-000-in-credit-card-debt-to-over-20m-in-revenue-in-5-years)
-- [Profits are driving inflation. When will politicians and the BoE admit it?](https://www.taxresearch.org.uk/Blog/)
-- [A Syntax for Self-Tracking &lpar;2020&rpar;](https://www.gibney.org/a_syntax_for_self-tracking)
-- [Google asks websites to kindly not break its shiny new targeted-advertising API](https://www.theregister.com/2023/06/27/google_tweaks_topics_api_ahead/)
-- [FedEx Accused of Largest Odometer Rollback Fraud in History with Used Vans](https://www.thedrive.com/news/fedex-accused-of-largest-odometer-rollback-fraud-in-history-with-used-vans)
+- [Why are ships always female?](https://english.stackexchange.com/a/345755)
 <!-- BLOG-POST-LIST:END -->
 
 ---
