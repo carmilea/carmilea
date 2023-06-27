@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QuestDB &lpar;YC S20&rpar; Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
+- [The Wild &lpar;and Slightly Terrifying&rpar; Future of Inescapable AR Ads](https://beyondthescreen.substack.com/p/the-wild-and-slightly-terrifying)
+- [Caltech M4 Robot Flies, Rolls, Walks, and More](https://www.caltech.edu/about/news/new-bioinspired-robot-flies-rolls-walks-and-more)
+- [Zellij New WASM Plugin System](https://zellij.dev/news/new-plugin-system/)
 - [Launch HN: Fuse &lpar;YC W19&rpar; – Unified API for financial data aggregators](https://news.ycombinator.com/item?id=36494639)
-- [Blender 3.6 LTS Released](https://www.blender.org/download/releases/3-6/)
-- [AMD Introduces World’s Largest FPGA-Based Adaptive SoC for Emulation](https://ir.amd.com/news-events/press-releases/detail/1141/amd-introduces-worlds-largest-fpga-based-adaptive-soc)
-- [The Password Game](https://neal.fun/password-game/)
-- [I Built Linux from Scratch](https://thesloth.me/posts/5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
