@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [QuestDB &lpar;YC S20&rpar; Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
-- [The Wild &lpar;and Slightly Terrifying&rpar; Future of Inescapable AR Ads](https://beyondthescreen.substack.com/p/the-wild-and-slightly-terrifying)
-- [Caltech M4 Robot Flies, Rolls, Walks, and More](https://www.caltech.edu/about/news/new-bioinspired-robot-flies-rolls-walks-and-more)
-- [Zellij New WASM Plugin System](https://zellij.dev/news/new-plugin-system/)
-- [Launch HN: Fuse &lpar;YC W19&rpar; – Unified API for financial data aggregators](https://news.ycombinator.com/item?id=36494639)
+- [Docker Acquires Mutagen](https://www.docker.com/blog/mutagen-acquisition/)
+- [OpenRC is a dependency-based init system for Unix-like systems](https://wiki.gentoo.org/wiki/OpenRC)
+- [TSMC Expected to Charge $25,000 per 2nm Wafer](https://www.tomshardware.com/news/tsmc-expected-to-charge-25000usd-per-2nm-wafer)
+- [Arduino Uno R4](https://store.arduino.cc/pages/uno-r4)
+- [Show HN: Superblocks AI – AI coding assistant for internal apps](https://www.superblocks.com/blog/introducing-superblocks-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
