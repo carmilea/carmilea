@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rubio Says He’s Heard Shocking ‘Firsthand’ Accounts of UFOs](https://nymag.com/intelligencer/2023/06/rubio-says-hes-heard-shocking-first-hand-accounts-of-ufos.html)
+- [The Hidden Cost of Air Quality Monitors](https://www.airgradient.com/blog/hidden-costs-of-air-quality-monitoring/)
+- [The forced return to the office is the definition of insanity](https://fortune.com/2023/06/26/forced-return-to-office-is-the-definition-of-insanity-remote-hybrid-work-careers-gleb-tsipursky/)
 - [Half of US wetlands lost federal protection. Their fate is up to the states](https://www.pilotonline.com/2023/06/19/half-the-nations-wetlands-just-lost-federal-protection-their-fate-is-up-to-the-states/)
 - [H100 GPUs Set Standard for Gen AI in Debut MLPerf Benchmark](https://blogs.nvidia.com/blog/2023/06/27/generative-ai-debut-mlperf/)
-- [Ford to lay off workers as it focuses on electric vehicles](https://www.cnn.com/2023/06/27/business/ford-layoffs/index.html)
 - [LetMeSpy, a stalkerware app spying on thousands, says it was hacked](https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands/)
 <!-- BLOG-POST-LIST:END -->
 
