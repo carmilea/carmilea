@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s weird that people get mocked for changing their minds](https://twitter.com/paulg/status/1673622294227308546)
-- [macOS command-line tools you might not know about](https://saurabhs.org/advanced-macos-commands)
-- [Ninth Dedekind number discovered: long-known problem in mathematics solved](https://phys.org/news/2023-06-ninth-dedekind-scientists-long-known-problem.html)
-- [Text Blaze &lpar;YC W21&rpar; Is Hiring a Growth Engineer to Pioneer LLM Driven Strategies](https://news.ycombinator.com/item?id=36491647)
-- [The Deep Sea](https://neal.fun/deep-sea/)
+- [Bootstrapping Atlassian: $10k In Credit Card Debt To $20M In Revenue In 5 years](https://thedisruptors.beehiiv.com/p/bootstrapping-atlassian-from-10-000-in-credit-card-debt-to-over-20m-in-revenue-in-5-years)
+- [Profits are driving inflation. When will politicians and the BoE admit it?](https://www.taxresearch.org.uk/Blog/)
+- [A Syntax for Self-Tracking &lpar;2020&rpar;](https://www.gibney.org/a_syntax_for_self-tracking)
+- [Google asks websites to kindly not break its shiny new targeted-advertising API](https://www.theregister.com/2023/06/27/google_tweaks_topics_api_ahead/)
+- [FedEx Accused of Largest Odometer Rollback Fraud in History with Used Vans](https://www.thedrive.com/news/fedex-accused-of-largest-odometer-rollback-fraud-in-history-with-used-vans)
 <!-- BLOG-POST-LIST:END -->
 
 ---
