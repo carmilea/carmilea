@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Domain-Oriented Microservice Architecture &lpar;2020&rpar;](https://www.uber.com/blog/microservice-architecture/)
+- [OPNsense a true open-source security platform and more](https://opnsense.org/)
 - [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
 - [Through a Glass Darkly](https://asteriskmag.com/issues/03/through-a-glass-darkly)
 - [Discovering that a Bluetooth car battery monitor is siphoning location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
-- [Exposing Floating Point &lpar;2019&rpar;](https://ciechanow.ski/exposing-floating-point/)
-- [The Magic Nix Cache, a GitHub Action for speeding up your Nix workflows](https://determinate.systems/posts/magic-nix-cache)
 <!-- BLOG-POST-LIST:END -->
 
 ---
