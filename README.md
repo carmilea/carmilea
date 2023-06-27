@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The only acceptable rating to leave an Uber driver is 5 stars](https://oversharing.substack.com/p/five-stars-or-bust)
-- [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
-- [Outlook now ignores Windows&#39; Default Browser and opens links in Edge by default](https://support.microsoft.com/en-us/topic/outlook-emails-open-next-to-web-links-in-microsoft-edge-b0e1a1c1-bd62-462c-9ed5-5938b9c649f0)
-- [Bootstrapping Atlassian: $10k In Credit Card Debt To $20M In Revenue In 5 years](https://thedisruptors.beehiiv.com/p/bootstrapping-atlassian-from-10-000-in-credit-card-debt-to-over-20m-in-revenue-in-5-years)
-- [Why are ships always female?](https://english.stackexchange.com/a/345755)
+- [AMD Introduces World’s Largest FPGA-Based Adaptive SoC for Emulation](https://ir.amd.com/news-events/press-releases/detail/1141/amd-introduces-worlds-largest-fpga-based-adaptive-soc)
+- [The Password Game](https://neal.fun/password-game/)
+- [The Precipitation Problem](https://firststreet.org/research-lab/published-research/article-highlights-from-the-precipitation-problem/)
+- [Partnering For Success: Our June Tech Partner Update](https://www.singlestore.com/blog/partnering-for-success-our-june-tech-partner-update/)
+- [Nvidia AX800 High-End Arm Server on a PCIe Card](https://www.servethehome.com/nvidia-ax800-high-end-arm-server-on-a-pcie-card-ampere-ai-dpu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
