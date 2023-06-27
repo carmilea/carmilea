@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Flux Copilot – Generative AI for hardware design](https://www.flux.ai/p/blog/generative-ai-for-hardware-design)
-- [Show HN: Endless – An attempt to unify the social media experience](https://github.com/kaangiray26/endless)
-- [Docker Acquires Mutagen](https://www.docker.com/blog/mutagen-acquisition/)
-- [OpenRC is a dependency-based init system for Unix-like systems](https://wiki.gentoo.org/wiki/OpenRC)
-- [InfluxDB 3.0 System Architecture](https://www.influxdata.com/blog/influxdb-3-0-system-architecture/)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Tinyx – resurrected Xvesa from the depths of Git history](https://github.com/tinycorelinux/tinyx)
+- [Plane Crash Rates by Model](http://www.airsafe.com/events/models/rate_mod.htm)
+- [Emacs4CL: A DIY kit to set up vanilla Emacs for Common Lisp programming](https://github.com/susam/emacs4cl)
+- [Sears offered complete houses in large DIY kits](https://twitter.com/historyinmemes/status/1673569802022010880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
