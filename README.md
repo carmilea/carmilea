@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Flux Copilot – Generative AI for hardware design](https://www.flux.ai/p/blog/generative-ai-for-hardware-design)
-- [Silicon Valley Is on Drugs](https://www.bloomberg.com/opinion/articles/2023-06-27/silicon-valley-is-on-drugs)
+- [Show HN: Endless – An attempt to unify the social media experience](https://github.com/kaangiray26/endless)
 - [Docker Acquires Mutagen](https://www.docker.com/blog/mutagen-acquisition/)
 - [OpenRC is a dependency-based init system for Unix-like systems](https://wiki.gentoo.org/wiki/OpenRC)
 - [InfluxDB 3.0 System Architecture](https://www.influxdata.com/blog/influxdb-3-0-system-architecture/)
