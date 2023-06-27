@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Tinyx – resurrected Xvesa from the depths of Git history](https://github.com/tinycorelinux/tinyx)
-- [Plane Crash Rates by Model](http://www.airsafe.com/events/models/rate_mod.htm)
-- [Emacs4CL: A DIY kit to set up vanilla Emacs for Common Lisp programming](https://github.com/susam/emacs4cl)
-- [Sears offered complete houses in large DIY kits](https://twitter.com/historyinmemes/status/1673569802022010880)
+- [Rubio Says He’s Heard Shocking ‘Firsthand’ Accounts of UFOs](https://nymag.com/intelligencer/2023/06/rubio-says-hes-heard-shocking-first-hand-accounts-of-ufos.html)
+- [Half of US wetlands lost federal protection. Their fate is up to the states](https://www.pilotonline.com/2023/06/19/half-the-nations-wetlands-just-lost-federal-protection-their-fate-is-up-to-the-states/)
+- [H100 GPUs Set Standard for Gen AI in Debut MLPerf Benchmark](https://blogs.nvidia.com/blog/2023/06/27/generative-ai-debut-mlperf/)
+- [Ford to lay off workers as it focuses on electric vehicles](https://www.cnn.com/2023/06/27/business/ford-layoffs/index.html)
+- [LetMeSpy, a stalkerware app spying on thousands, says it was hacked](https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
