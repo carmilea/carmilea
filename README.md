@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Imagine 52 Factorial](https://boingboing.net/2017/03/02/how-to-imagine-52-factorial.html)
-- [Wolfi: A community Linux OS designed for the container and cloud-native era](https://github.com/wolfi-dev)
-- [Optimizing a ring buffer for throughput &lpar;2021&rpar;](https://rigtorp.se/ringbuffer/)
-- [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
-- [Show HN: An Interactive Guide to Teach Derivatives and Backpropagation](https://x0axz.com/blog/autograd.html)
+- [It&#39;s weird that people get mocked for changing their minds](https://twitter.com/paulg/status/1673622294227308546)
+- [macOS command-line tools you might not know about](https://saurabhs.org/advanced-macos-commands)
+- [Ninth Dedekind number discovered: long-known problem in mathematics solved](https://phys.org/news/2023-06-ninth-dedekind-scientists-long-known-problem.html)
+- [Text Blaze &lpar;YC W21&rpar; Is Hiring a Growth Engineer to Pioneer LLM Driven Strategies](https://news.ycombinator.com/item?id=36491647)
+- [The Deep Sea](https://neal.fun/deep-sea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
