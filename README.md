@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. pedestrian deaths reach a 40-year high](https://www.npr.org/2023/06/26/1184034017/us-pedestrian-deaths-high-traffic-car)
+- [How to Imagine 52 Factorial](https://boingboing.net/2017/03/02/how-to-imagine-52-factorial.html)
 - [Wolfi: A community Linux OS designed for the container and cloud-native era](https://github.com/wolfi-dev)
 - [Optimizing a ring buffer for throughput &lpar;2021&rpar;](https://rigtorp.se/ringbuffer/)
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
