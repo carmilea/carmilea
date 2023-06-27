@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Flux Copilot – Generative AI for hardware design](https://www.flux.ai/p/blog/generative-ai-for-hardware-design)
+- [Silicon Valley Is on Drugs](https://www.bloomberg.com/opinion/articles/2023-06-27/silicon-valley-is-on-drugs)
 - [Docker Acquires Mutagen](https://www.docker.com/blog/mutagen-acquisition/)
 - [OpenRC is a dependency-based init system for Unix-like systems](https://wiki.gentoo.org/wiki/OpenRC)
-- [TSMC Expected to Charge $25,000 per 2nm Wafer](https://www.tomshardware.com/news/tsmc-expected-to-charge-25000usd-per-2nm-wafer)
-- [Arduino Uno R4](https://store.arduino.cc/pages/uno-r4)
-- [Show HN: Superblocks AI – AI coding assistant for internal apps](https://www.superblocks.com/blog/introducing-superblocks-ai)
+- [InfluxDB 3.0 System Architecture](https://www.influxdata.com/blog/influxdb-3-0-system-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
