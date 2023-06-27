@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Fuse &lpar;YC W19&rpar; – Unified API for financial data aggregators](https://news.ycombinator.com/item?id=36494639)
+- [Blender 3.6 LTS Released](https://www.blender.org/download/releases/3-6/)
 - [AMD Introduces World’s Largest FPGA-Based Adaptive SoC for Emulation](https://ir.amd.com/news-events/press-releases/detail/1141/amd-introduces-worlds-largest-fpga-based-adaptive-soc)
 - [The Password Game](https://neal.fun/password-game/)
-- [The Precipitation Problem](https://firststreet.org/research-lab/published-research/article-highlights-from-the-precipitation-problem/)
-- [Partnering For Success: Our June Tech Partner Update](https://www.singlestore.com/blog/partnering-for-success-our-june-tech-partner-update/)
-- [Nvidia AX800 High-End Arm Server on a PCIe Card](https://www.servethehome.com/nvidia-ax800-high-end-arm-server-on-a-pcie-card-ampere-ai-dpu/)
+- [I Built Linux from Scratch](https://thesloth.me/posts/5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
