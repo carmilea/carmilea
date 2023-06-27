@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Breaking the Limits: How Folia Made 1,000 Player Minecraft Server a Reality](https://cubxity.dev/blog/folia-test-june-2023)
+- [Build Your Own Docker with Linux Namespaces, Cgroups, and Chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
 - [Domain-Oriented Microservice Architecture &lpar;2020&rpar;](https://www.uber.com/blog/microservice-architecture/)
 - [OPNsense a true open-source security platform and more](https://opnsense.org/)
 - [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
-- [Through a Glass Darkly](https://asteriskmag.com/issues/03/through-a-glass-darkly)
-- [Discovering that a Bluetooth car battery monitor is siphoning location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
 <!-- BLOG-POST-LIST:END -->
 
 ---
