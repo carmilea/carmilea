@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
 - [Through a Glass Darkly](https://asteriskmag.com/issues/03/through-a-glass-darkly)
-- [A popular Bluetooth car battery monitor that siphons up all your location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
+- [Discovering that a Bluetooth car battery monitor is siphoning location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
 - [Exposing Floating Point &lpar;2019&rpar;](https://ciechanow.ski/exposing-floating-point/)
 - [The Magic Nix Cache, a GitHub Action for speeding up your Nix workflows](https://determinate.systems/posts/magic-nix-cache)
-- [Hunter-gatherer lifestyle fosters thriving gut microbiome](https://www.nature.com/articles/d41586-023-02065-y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
