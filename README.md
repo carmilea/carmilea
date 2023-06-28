@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [How AWS Supports SingleStore and Our Customers](https://www.singlestore.com/blog/how-aws-supports-singlestore-and-our-customers/)
+- [Titanic tourist sub photos show wreckage being brought ashore](https://www.bbc.com/news/world-us-canada-66045554)
 - [Microsoft opens MIDI 2.0 repo](https://devblogs.microsoft.com/windows-music-dev/hello-midi-2-0-were-opening-the-repo/)
-- [Proton Pass end-to-end encrypted password manager is here and free for everyone](https://9to5mac.com/2023/06/28/proton-pass-encrypted-password-manager-free/)
-- [The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/)
-- [The idea maze for AI startups &lpar;2015&rpar;](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
-- [Testing the memory safe Rust implementation of Sudo/Su](https://ferrous-systems.com/blog/testing-sudo-rs/)
+- [A trick to eliminate 2π &lpar;sometimes&rpar;](https://marci.gunyho.com/theta.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
