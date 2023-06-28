@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [To Save Money on Insurance, Drivers Agree to Intrusive Monitoring Technology](https://money.com/usage-based-car-insurance-gaining-customers/)
+- [“Support for System V scripts now deprecated; will be removed in future release”](https://github.com/systemd/systemd/blob/08423f6d30f5db045b8a25307857f111f45ff292/NEWS)
+- [National Geographic lays off its last remaining staff writers](https://www.washingtonpost.com/media/2023/06/28/national-geographic-staff-writers-laid-off/)
+- [Visa to acquire Brazilian startup Pismo for $1bi](https://www.pismo.io/blog/visa-to-acquire-pismo/)
 - [Plex lays off more than 20 percent of its staff](https://www.theverge.com/2023/6/28/23777418/plex-layoffs-20-percent-staff)
-- [Stability AI Head of Research Resigns from Startup](https://www.bloomberg.com/news/articles/2023-06-26/stability-ai-head-of-research-resigns-from-startup)
-- [The bathyscaph Trieste: technological and operational aspects, 1958-1961](https://archive.org/details/bathyscaphtriest00wals)
-- [Behind the Pretty Frames: Diablo IV](https://mamoniem.com/behind-the-pretty-frames-diablo-iv/)
-- [Future CSS: State Container Queries](https://ishadeed.com/article/css-state-queries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
