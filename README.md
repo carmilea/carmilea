@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pixel fucked: Inside Hollywood&#39;s VFX crisis](https://www.gq-magazine.co.uk/culture/article/hollywood-vfx-industry-breaking-point)
+- [Show HN: Open-source background removal in the browser](https://github.com/imgly/background-removal-js)
+- [Launch HN: June &lpar;YC W21&rpar; – Product Analytics for B2B SaaS Companies](https://news.ycombinator.com/item?id=36505743)
 - [BlockSuite: An open-source Notion-like editor with multiplayer support](https://blocksuite.affine.pro/blocksuite-overview.html)
 - [Ironies of Automation &lpar;1983&rpar; [pdf]](https://web.archive.org/web/20200717054958if_/https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Canada plans brain drain of H-1B visa holders, with no-job, no-worries permits](https://www.theregister.com/2023/06/28/canada_tech_talent_h1b_plan/)
-- [Making Games](https://etodd.io/2023/06/27/making-games/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
