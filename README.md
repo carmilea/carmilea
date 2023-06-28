@@ -55,7 +55,7 @@
 - [Welcoming Shopify as a Ladybird sponsor](https://awesomekling.substack.com/p/welcoming-shopify-as-a-ladybird-sponsor)
 - [A proto-pizza emerges from a fresco on a Pompeii wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
 - [Plastics are poisoning us](https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste)
-- [Glass Dresses, the Fairytale Fashion Trend That Never Quite Took Off](https://www.atlasobscura.com/articles/who-wears-glass-dresses)
+- [What AMD Learned from Its Big Chiplet Push](https://spectrum.ieee.org/chiplet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
