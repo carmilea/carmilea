@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The bathyscaph Trieste: technological and operational aspects, 1958-1961](https://archive.org/details/bathyscaphtriest00wals)
+- [Sony just spilled confidential Playstation information because of a Sharpie](https://www.theverge.com/2023/6/28/23777298/sony-ftc-microsoft-confidential-documents-marker-pen-scanner-oops)
+- [Show HN: Gitopia: Decentralized GitHub Alternative for Open Source Collaboration](https://gitopia.com)
 - [Future CSS: State Container Queries](https://ishadeed.com/article/css-state-queries/)
-- [Goodbye, Ozempic](https://www.theatlantic.com/health/archive/2023/06/ozempic-pills-obesity-drugs-semaglutide/674541/)
-- [“But lawyers know nothing about tech ”](https://decoded.legal/blog/2023/06/but-lawyers-know-nothing-about-tech)
-- [I made a command-line tool to assist me with writing polyrhythmic drum parts](https://github.com/dredozubov/polyrhythmix)
-- [Show HN: PFAS.report – Measure the forever chemicals in your blood via Quest](https://pfas.report/)
+- [Show HN: Serverless VPN, pay as you go, unlimited devices, no subscriptions](https://upvpn.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
