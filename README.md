@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pixel fucked: Inside Hollywood&#39;s VFX crisis](https://www.gq-magazine.co.uk/culture/article/hollywood-vfx-industry-breaking-point)
-- [Show HN: Open-source background removal in the browser](https://github.com/imgly/background-removal-js)
-- [Launch HN: June &lpar;YC W21&rpar; – Product Analytics for B2B SaaS Companies](https://news.ycombinator.com/item?id=36505743)
-- [BlockSuite: An open-source Notion-like editor with multiplayer support](https://blocksuite.affine.pro/blocksuite-overview.html)
-- [Ironies of Automation &lpar;1983&rpar; [pdf]](https://web.archive.org/web/20200717054958if_/https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf)
+- [The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/)
+- [The idea maze for AI startups &lpar;2015&rpar;](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
+- [Testing the memory safe Rust implementation of Sudo/Su](https://ferrous-systems.com/blog/testing-sudo-rs/)
+- [We raised a bunch of money](https://fly.io/blog/we-raised-a-bunch-of-money/)
+- [Fintech engineering mistakes](https://startupwin.kelsus.com/p/9-fintech-engineering-mistakes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
