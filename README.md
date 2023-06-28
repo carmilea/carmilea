@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Proto-Pizza Emerges from a Fresco on a Pompeii Wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
 - [Computerraria: A fully compliant RISC-V computer inside Terraria](https://github.com/misprit7/computerraria)
-- [Every Flashing Element on Your Site Alienates and Enrages Users](https://astralcodexten.substack.com/p/every-flashing-element-on-your-site)
-- [Inaugural YC Top Companies List by Revenue](https://www.ycombinator.com/blog/yc-top-companies-list-by-revenue)
+- [Every flashing element on your site alienates and enrages users](https://astralcodexten.substack.com/p/every-flashing-element-on-your-site)
 - [How not to write a pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
 - [Working with CSV files on shell/terminal](https://muhammadraza.me/2022/data-oneliners/)
 <!-- BLOG-POST-LIST:END -->
