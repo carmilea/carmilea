@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Not&rpar; to Write a Pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
+- [Trinity Desktop Environment – a modern KDE3 fork](https://www.trinitydesktop.org/)
+- [The False Dawn: Reevaluating Google&#39;s RL for Chip Macro Placement](https://arxiv.org/abs/2306.09633)
+- [Natural language is an unnatural interface](https://varunshenoy.substack.com/p/natural-language-is-an-unnatural)
 - [Damaging Results of Mandated Return to Office – It&#39;s Worse Than We Thought](https://www.entrepreneur.com/growing-a-business/the-damaging-results-of-the-mandated-return-to-office-is/454043)
-- [FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
-- [Cooklang – Recipe Markup Language](https://cooklang.org)
-- [Google does little to reduce advertisers costs](https://simpleblog.ai/blog/google-ads-can-do-more-for-customers/)
-- [Human Or Not: Guess if you&#39;re chatting with an AI or a Human](https://app.humanornot.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
