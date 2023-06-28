@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Future CSS: State Container Queries](https://ishadeed.com/article/css-state-queries/)
+- [Goodbye, Ozempic](https://www.theatlantic.com/health/archive/2023/06/ozempic-pills-obesity-drugs-semaglutide/674541/)
+- [“But lawyers know nothing about tech ”](https://decoded.legal/blog/2023/06/but-lawyers-know-nothing-about-tech)
+- [I made a command-line tool to assist me with writing polyrhythmic drum parts](https://github.com/dredozubov/polyrhythmix)
 - [Show HN: PFAS.report – Measure the forever chemicals in your blood via Quest](https://pfas.report/)
-- [Gathering the Streams](https://cr.openjdk.org/~vklang/Gatherers.html)
-- [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [How AWS Supports SingleStore and Our Customers](https://www.singlestore.com/blog/how-aws-supports-singlestore-and-our-customers/)
-- [Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs](https://github.com/jetpack-io/typeid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
