@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of Air Quality Monitors](https://www.airgradient.com/blog/hidden-costs-of-air-quality-monitoring/)
-- [The forced return to the office is the definition of insanity](https://fortune.com/2023/06/26/forced-return-to-office-is-the-definition-of-insanity-remote-hybrid-work-careers-gleb-tsipursky/)
-- [Half of US wetlands lost federal protection. Their fate is up to the states](https://www.pilotonline.com/2023/06/19/half-the-nations-wetlands-just-lost-federal-protection-their-fate-is-up-to-the-states/)
-- [H100 GPUs Set Standard for Gen AI in Debut MLPerf Benchmark](https://blogs.nvidia.com/blog/2023/06/27/generative-ai-debut-mlperf/)
-- [LetMeSpy, a stalkerware app spying on thousands, says it was hacked](https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands/)
+- [Damaging Results of Mandated Return to Office – It&#39;s Worse Than We Thought](https://www.entrepreneur.com/growing-a-business/the-damaging-results-of-the-mandated-return-to-office-is/454043)
+- [FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
+- [Cooklang – Recipe Markup Language](https://cooklang.org)
+- [Google does little to reduce advertisers costs](https://simpleblog.ai/blog/google-ads-can-do-more-for-customers/)
+- [Human Or Not: Guess if you&#39;re chatting with an AI or a Human](https://app.humanornot.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
