@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcoming Shopify as a Ladybird Sponsor](https://awesomekling.substack.com/p/welcoming-shopify-as-a-ladybird-sponsor)
 - [A Proto-Pizza Emerges from a Fresco on a Pompeii Wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
+- [How Plastics Are Poisoning Us](https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste)
 - [Computerraria: A fully compliant RISC-V computer inside Terraria](https://github.com/misprit7/computerraria)
 - [Every flashing element on your site alienates and enrages users](https://astralcodexten.substack.com/p/every-flashing-element-on-your-site)
-- [How not to write a pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
-- [Working with CSV files on shell/terminal](https://muhammadraza.me/2022/data-oneliners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
