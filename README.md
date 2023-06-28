@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: PFAS.report – Measure the forever chemicals in your blood via Quest](https://pfas.report/)
+- [Gathering the Streams](https://cr.openjdk.org/~vklang/Gatherers.html)
 - [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 - [How AWS Supports SingleStore and Our Customers](https://www.singlestore.com/blog/how-aws-supports-singlestore-and-our-customers/)
-- [Titanic tourist sub photos show wreckage being brought ashore](https://www.bbc.com/news/world-us-canada-66045554)
-- [Microsoft opens MIDI 2.0 repo](https://devblogs.microsoft.com/windows-music-dev/hello-midi-2-0-were-opening-the-repo/)
-- [A trick to eliminate 2π &lpar;sometimes&rpar;](https://marci.gunyho.com/theta.html)
+- [Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs](https://github.com/jetpack-io/typeid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
