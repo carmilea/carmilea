@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcoming Shopify as a Ladybird Sponsor](https://awesomekling.substack.com/p/welcoming-shopify-as-a-ladybird-sponsor)
-- [A Proto-Pizza Emerges from a Fresco on a Pompeii Wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
-- [How Plastics Are Poisoning Us](https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste)
-- [Computerraria: A fully compliant RISC-V computer inside Terraria](https://github.com/misprit7/computerraria)
-- [Every flashing element on your site alienates and enrages users](https://astralcodexten.substack.com/p/every-flashing-element-on-your-site)
+- [Supabase &lpar;YC S20&rpar; Is Hiring a Rust Developer](https://boards.greenhouse.io/supabase/jobs/4917893004)
+- [Welcoming Shopify as a Ladybird sponsor](https://awesomekling.substack.com/p/welcoming-shopify-as-a-ladybird-sponsor)
+- [A proto-pizza emerges from a fresco on a Pompeii wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
+- [Plastics are poisoning us](https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste)
+- [Glass Dresses, the Fairytale Fashion Trend That Never Quite Took Off](https://www.atlasobscura.com/articles/who-wears-glass-dresses)
 <!-- BLOG-POST-LIST:END -->
 
 ---
