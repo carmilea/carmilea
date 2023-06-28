@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft opens MIDI 2.0 repo](https://devblogs.microsoft.com/windows-music-dev/hello-midi-2-0-were-opening-the-repo/)
+- [Proton Pass end-to-end encrypted password manager is here and free for everyone](https://9to5mac.com/2023/06/28/proton-pass-encrypted-password-manager-free/)
 - [The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/)
 - [The idea maze for AI startups &lpar;2015&rpar;](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
 - [Testing the memory safe Rust implementation of Sudo/Su](https://ferrous-systems.com/blog/testing-sudo-rs/)
-- [We raised a bunch of money](https://fly.io/blog/we-raised-a-bunch-of-money/)
-- [Fintech engineering mistakes](https://startupwin.kelsus.com/p/9-fintech-engineering-mistakes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
