@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MS Teams Are Down](https://teams.microsoft.com)
+- [BlockSuite: An open-source Notion-like editor with multiplayer support](https://blocksuite.affine.pro/blocksuite-overview.html)
+- [Ironies of Automation &lpar;1983&rpar; [pdf]](https://web.archive.org/web/20200717054958if_/https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 - [Canada plans brain drain of H-1B visa holders, with no-job, no-worries permits](https://www.theregister.com/2023/06/28/canada_tech_talent_h1b_plan/)
-- [Five billion phones are dead in drawers – carriers want to mine them](https://www.theregister.com/2023/06/28/gsma_smartphone_recycling_plan/)
-- [Vincent van Gogh&#39;s paintings and drawings](https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh)
+- [Making Games](https://etodd.io/2023/06/27/making-games/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
