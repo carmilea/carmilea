@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;Not&rpar; to Write a Pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
-- [Trinity Desktop Environment – a modern KDE3 fork](https://www.trinitydesktop.org/)
-- [The False Dawn: Reevaluating Google&#39;s RL for Chip Macro Placement](https://arxiv.org/abs/2306.09633)
-- [Natural language is an unnatural interface](https://varunshenoy.substack.com/p/natural-language-is-an-unnatural)
-- [Damaging Results of Mandated Return to Office – It&#39;s Worse Than We Thought](https://www.entrepreneur.com/growing-a-business/the-damaging-results-of-the-mandated-return-to-office-is/454043)
+- [Computerraria: A fully compliant RISC-V computer inside Terraria](https://github.com/misprit7/computerraria)
+- [Every Flashing Element on Your Site Alienates and Enrages Users](https://astralcodexten.substack.com/p/every-flashing-element-on-your-site)
+- [Inaugural YC Top Companies List by Revenue](https://www.ycombinator.com/blog/yc-top-companies-list-by-revenue)
+- [How not to write a pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
+- [Working with CSV files on shell/terminal](https://muhammadraza.me/2022/data-oneliners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
