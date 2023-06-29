@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Airbnb rental revenues have plunged in some parts of the US, this chart suggests](https://www.marketwatch.com/story/the-airbnb-collapse-is-real-rental-revenue-has-halved-in-some-parts-of-the-u-s-says-this-chart-83d72bbd)
-- [FTC reportedly plans major antitrust lawsuit against Amazon](https://nypost.com/2023/06/29/ftc-plans-major-antitrust-lawsuit-against-amazon-report/)
-- [Clog – The Common Lisp Omnificent GUI](https://github.com/rabbibotton/clog)
-- [Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
-- [Supreme Court strikes down affirmative action in college admissions](https://www.latimes.com/politics/story/2023-06-29/supreme-court-strikes-down-affirmative-action-in-college-admissions)
+- [Freshpaint &lpar;YC S19&rpar; Is Hiring Software Engineers to Build a HIPAA Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [Valve bans games using AI generated graphics or text from Steam](https://old.reddit.com/r/aigamedev/comments/142j3yt/valve_is_not_willing_to_publish_games_with_ai/)
+- [Vassalization: How Russia’s War on Ukraine Transformed Transatlantic Relations](https://warontherocks.com/2023/06/the-art-of-vassalization-how-russias-war-on-ukraine-has-transformed-transatlantic-relations/)
+- [Aspartame is set to be declared a possible carcinogen](https://twitter.com/Reuters/status/1674309239974576128)
+- [Vickrey Auction](https://en.wikipedia.org/wiki/Vickrey_auction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
