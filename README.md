@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The KDE Free Qt Foundation: 25 Years of Celebration](https://www.qt.io/blog/the-kde-free-qt-foundation-25-years-of-celebration)
+- [Canada’s Bill C-18 and Our Search and News Products](https://blog.google/canada-news-en/)
+- [Google and Meta will stop showing Canadian sourced news](https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557)
+- [Gitlab AI is going head to head with GitHub Copilot](https://about.gitlab.com/solutions/code-suggestions/)
 - [Journalists should invest in journalism startups, particularly now](https://www.businessside.co/p/editorial-investing)
-- [Gorilla-CLI: LLMs for CLI including K8s/AWS/GCP/Azure/sed and 1500 APIs](https://github.com/gorilla-llm/gorilla-cli)
-- [Ask HN: Is GitHub down?](https://news.ycombinator.com/item?id=36523878)
-- [Github.com is down](https://github.com/status)
-- [Towards an Adaptable Systems Architecture for Memory Tiering at Warehouse-Scale](https://www.micahlerner.com/2023/06/29/towards-an-adaptable-systems-architecture-for-memory-tiering-at-warehouse-scale.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
