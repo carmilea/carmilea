@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [To Save Money on Insurance, Drivers Agree to Intrusive Monitoring Technology](https://money.com/usage-based-car-insurance-gaining-customers/)
-- [“Support for System V scripts now deprecated; will be removed in future release”](https://github.com/systemd/systemd/blob/08423f6d30f5db045b8a25307857f111f45ff292/NEWS)
+- [XGen-7B, a new 7B foundational model trained on up to 8K length for 1.5T tokens](https://blog.salesforceairesearch.com/xgen/)
+- [In a major discovery, scientists say space-time churns like a choppy sea](https://www.washingtonpost.com/science/2023/06/28/gravitational-wave-background-nanograv/)
+- [Deep Learning Digs Deep: AI Unveils New Large-Scale Images in Peruvian Desert](https://blogs.nvidia.com/blog/2023/06/23/geoglyphs-in-peru/)
+- [Junk websites filled w AI-generated text pulling in money from programmatic ads](https://www.technologyreview.com/2023/06/26/1075504/junk-websites-filled-with-ai-generated-text-are-pulling-in-money-from-programmatic-ads/)
 - [National Geographic lays off its last remaining staff writers](https://www.washingtonpost.com/media/2023/06/28/national-geographic-staff-writers-laid-off/)
-- [Visa to acquire Brazilian startup Pismo for $1bi](https://www.pismo.io/blog/visa-to-acquire-pismo/)
-- [Plex lays off more than 20 percent of its staff](https://www.theverge.com/2023/6/28/23777418/plex-layoffs-20-percent-staff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
