@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbnb rental revenues have plunged in some parts of the US, this chart suggests](https://www.marketwatch.com/story/the-airbnb-collapse-is-real-rental-revenue-has-halved-in-some-parts-of-the-u-s-says-this-chart-83d72bbd)
+- [FTC reportedly plans major antitrust lawsuit against Amazon](https://nypost.com/2023/06/29/ftc-plans-major-antitrust-lawsuit-against-amazon-report/)
+- [Clog – The Common Lisp Omnificent GUI](https://github.com/rabbibotton/clog)
 - [Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
 - [Supreme Court strikes down affirmative action in college admissions](https://www.latimes.com/politics/story/2023-06-29/supreme-court-strikes-down-affirmative-action-in-college-admissions)
-- [Water heavily polluted with PFAS in 15 km radius around Dordrecht chemical plant](https://nltimes.nl/2023/06/29/water-heavily-polluted-pfas-15-km-radius-around-dordrecht-chemical-plant-report)
-- [The new desktop Outlook is a bad idea. Here&#39;s why](https://www.windowscentral.com/software-apps/office-365/new-desktop-outlook-is-a-bad-idea-heres-why)
-- [Oral History of Ed Fredkin &lpar;2006&rpar; [pdf]](https://archive.computerhistory.org/resources/access/text/2013/05/102630504-05-01-acc.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
