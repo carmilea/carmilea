@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI sued for $3B after allegedly trampling privacy with ChatGPT](https://www.theregister.com/2023/06/28/microsoft_openai_sued_privacy/)
 - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
+- [Scaling Linear&#39;s Sync Engine](https://linear.app/blog/scaling-the-linear-sync-engine)
+- [Submarine expert tried to dissuade OceanGate CEO, from taking customers in Titan](https://www.insider.com/submersible-expert-oceangate-ceo-hull-defect-will-only-get-worse-2023-6)
 - [Racket: The Lisp for the Modern Day](https://www.deusinmachina.net/p/racket-the-scheme-you-should-try)
-- [Last-minute Government amendment seeks to muzzle DPC critics &lpar;Ireland&rpar;](https://www.iccl.ie/news/last-minute-government-amendment-seeks-to-muzzle-dpc-critics/)
-- [Baseball-Sized Hail Smashing into Panels at 150 MPH Destroys Solar Farm](https://cowboystatedaily.com/2023/06/27/baseball-sized-hail-smashing-into-panels-at-150-mph-destroys-scottsbluff-solar-farm/)
-- [NXP has messed up their password form validation](https://peterme.net/scraps/nxp-has-messed-up-their-password-form-validation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
