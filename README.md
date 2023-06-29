@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [English as the New Programming Language for Apache Spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)
-- [Tell HN: 1Password 8.10.8 update corrupted data](https://news.ycombinator.com/item?id=36527247)
-- [Wayland Is Pretty Good](https://serebit.com/posts/wayland-is-pretty-good/)
+- [English as the new programming language for Apache spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)
+- [Wayland is pretty good](https://serebit.com/posts/wayland-is-pretty-good/)
+- [A PyTorch Approach to ML Infrastructure](https://www.run.house/blog/a-pytorch-approach-to-ml-infrastructure)
 - [HyenaDNA: Long-Range Genomic Sequence Modeling &lpar;context length of 1M tokens&rpar;](https://arxiv.org/abs/2306.15794)
-- [The Gentleperson&#39;s Guide to Forum Spies](https://web.archive.org/web/20221215015113/https://pastebin.com/raw/irj4Fyd5)
+- [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
