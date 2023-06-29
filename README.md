@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Practical Procedural Macros in Rust](https://xy2.dev/blog/simple-proc-macro/)
+- [Fun with Char in SQL](http://databasearchitects.blogspot.com/2015/01/fun-with-char.html)
+- [Happy 50th Birthday, Ethernet](https://blog.apnic.net/2023/06/29/happy-50th-birthday-ethernet/)
+- [Tkinter Designer: Quickly Turn Figma Design to Python Tkinter GUI](https://github.com/ParthJadhav/Tkinter-Designer)
 - [The Awk Programming Language, Second Edition](https://awk.dev/)
-- [Kagi raises $670k](https://blog.kagi.com/safe-round)
-- [Google is about to make life more difficult for custom ROM fans](https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/)
-- [Canada’s new tech talent strategy](https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html)
-- [Use pygwalker to build visual analysis app in streamlit](https://docs.kanaries.net/pygwalker/use-pygwalker-with-streamlit.en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
