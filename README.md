@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Freshpaint &lpar;YC S19&rpar; Is Hiring Software Engineers to Build a HIPAA Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [Valve bans games using AI generated graphics or text from Steam](https://old.reddit.com/r/aigamedev/comments/142j3yt/valve_is_not_willing_to_publish_games_with_ai/)
-- [Vassalization: How Russia’s War on Ukraine Transformed Transatlantic Relations](https://warontherocks.com/2023/06/the-art-of-vassalization-how-russias-war-on-ukraine-has-transformed-transatlantic-relations/)
-- [Aspartame is set to be declared a possible carcinogen](https://twitter.com/Reuters/status/1674309239974576128)
-- [Vickrey Auction](https://en.wikipedia.org/wiki/Vickrey_auction)
+- [Journalists should invest in journalism startups, particularly now](https://www.businessside.co/p/editorial-investing)
+- [Gorilla-CLI: LLMs for CLI including K8s/AWS/GCP/Azure/sed and 1500 APIs](https://github.com/gorilla-llm/gorilla-cli)
+- [Ask HN: Is GitHub down?](https://news.ycombinator.com/item?id=36523878)
+- [Github.com is down](https://github.com/status)
+- [Towards an Adaptable Systems Architecture for Memory Tiering at Warehouse-Scale](https://www.micahlerner.com/2023/06/29/towards-an-adaptable-systems-architecture-for-memory-tiering-at-warehouse-scale.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
