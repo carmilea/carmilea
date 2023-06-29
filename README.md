@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Fleet Telemetry](https://github.com/teslamotors/fleet-telemetry)
+- [Physicists Produce Neutrino Images of Milky Way Galaxy](https://drexel.edu/news/archive/2023/June/Drexel-Physicists-Produce-New-Images-of-Milky-Way-Galaxy)
 - [The KDE Free Qt Foundation: 25 Years of Celebration](https://www.qt.io/blog/the-kde-free-qt-foundation-25-years-of-celebration)
+- [Ask HN: How to switch software engineering domains](https://news.ycombinator.com/item?id=36524895)
 - [Canada’s Bill C-18 and Our Search and News Products](https://blog.google/canada-news-en/)
-- [Google and Meta will stop showing Canadian sourced news](https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557)
-- [Gitlab AI is going head to head with GitHub Copilot](https://about.gitlab.com/solutions/code-suggestions/)
-- [Journalists should invest in journalism startups, particularly now](https://www.businessside.co/p/editorial-investing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
