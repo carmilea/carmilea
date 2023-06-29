@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
+- [Fort Lauderdale saves nearly $350K after repurposing seaweed into planting soil](https://www.local10.com/news/local/2023/06/28/fort-lauderdale-saves-nearly-350k-after-repurposing-seaweed-into-planting-soil/)
+- [Now you can search on Google for free: Solution with API](https://github.com/karust/openserp)
 - [Tesla Fleet Telemetry](https://github.com/teslamotors/fleet-telemetry)
 - [Physicists Produce Neutrino Images of Milky Way Galaxy](https://drexel.edu/news/archive/2023/June/Drexel-Physicists-Produce-New-Images-of-Milky-Way-Galaxy)
-- [The KDE Free Qt Foundation: 25 Years of Celebration](https://www.qt.io/blog/the-kde-free-qt-foundation-25-years-of-celebration)
-- [Ask HN: How to switch software engineering domains](https://news.ycombinator.com/item?id=36524895)
-- [Canada’s Bill C-18 and Our Search and News Products](https://blog.google/canada-news-en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
