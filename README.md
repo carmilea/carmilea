@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI sued for $3B after allegedly trampling privacy with ChatGPT](https://www.theregister.com/2023/06/28/microsoft_openai_sued_privacy/)
-- [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
-- [Scaling Linear&#39;s Sync Engine](https://linear.app/blog/scaling-the-linear-sync-engine)
-- [Racket: The Lisp for the Modern Day](https://www.deusinmachina.net/p/racket-the-scheme-you-should-try)
-- [Last-minute Government amendment seeks to muzzle DPC critics &lpar;Ireland&rpar;](https://www.iccl.ie/news/last-minute-government-amendment-seeks-to-muzzle-dpc-critics/)
+- [Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
+- [Supreme Court strikes down affirmative action in college admissions](https://www.latimes.com/politics/story/2023-06-29/supreme-court-strikes-down-affirmative-action-in-college-admissions)
+- [Water heavily polluted with PFAS in 15 km radius around Dordrecht chemical plant](https://nltimes.nl/2023/06/29/water-heavily-polluted-pfas-15-km-radius-around-dordrecht-chemical-plant-report)
+- [The new desktop Outlook is a bad idea. Here&#39;s why](https://www.windowscentral.com/software-apps/office-365/new-desktop-outlook-is-a-bad-idea-heres-why)
+- [Oral History of Ed Fredkin &lpar;2006&rpar; [pdf]](https://archive.computerhistory.org/resources/access/text/2013/05/102630504-05-01-acc.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
