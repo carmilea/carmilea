@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kagi Raises $670K](https://blog.kagi.com/safe-round)
+- [The Awk Programming Language, Second Edition](https://awk.dev/)
+- [Kagi raises $670k](https://blog.kagi.com/safe-round)
 - [Google is about to make life more difficult for custom ROM fans](https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/)
 - [Canada’s new tech talent strategy](https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html)
 - [Use pygwalker to build visual analysis app in streamlit](https://docs.kanaries.net/pygwalker/use-pygwalker-with-streamlit.en)
-- [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
 <!-- BLOG-POST-LIST:END -->
 
 ---
