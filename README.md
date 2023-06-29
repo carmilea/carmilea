@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Procedural Macros in Rust](https://xy2.dev/blog/simple-proc-macro/)
-- [Fun with Char in SQL](http://databasearchitects.blogspot.com/2015/01/fun-with-char.html)
-- [Happy 50th Birthday, Ethernet](https://blog.apnic.net/2023/06/29/happy-50th-birthday-ethernet/)
-- [Tkinter Designer: Quickly Turn Figma Design to Python Tkinter GUI](https://github.com/ParthJadhav/Tkinter-Designer)
-- [The Awk Programming Language, Second Edition](https://awk.dev/)
+- [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
+- [Racket: The Lisp for the Modern Day](https://www.deusinmachina.net/p/racket-the-scheme-you-should-try)
+- [Last-minute Government amendment seeks to muzzle DPC critics &lpar;Ireland&rpar;](https://www.iccl.ie/news/last-minute-government-amendment-seeks-to-muzzle-dpc-critics/)
+- [Baseball-Sized Hail Smashing into Panels at 150 MPH Destroys Solar Farm](https://cowboystatedaily.com/2023/06/27/baseball-sized-hail-smashing-into-panels-at-150-mph-destroys-scottsbluff-solar-farm/)
+- [NXP has messed up their password form validation](https://peterme.net/scraps/nxp-has-messed-up-their-password-form-validation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
