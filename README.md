@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Google is about to make life more difficult for custom ROM fans](https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/)
-- [Canada announces open work-permit for tech workers and digital nomads](https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html)
+- [Canada’s new tech talent strategy](https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html)
 - [Use pygwalker to build visual analysis app in streamlit](https://docs.kanaries.net/pygwalker/use-pygwalker-with-streamlit.en)
+- [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
 - [OpenOrca: open source dataset and instruct-tuned LLMs](https://erichartford.com/openorca)
-- [XGen-7B, a new 7B foundational model trained on up to 8K length for 1.5T tokens](https://blog.salesforceairesearch.com/xgen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
