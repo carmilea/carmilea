@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
-- [Fort Lauderdale saves nearly $350K after repurposing seaweed into planting soil](https://www.local10.com/news/local/2023/06/28/fort-lauderdale-saves-nearly-350k-after-repurposing-seaweed-into-planting-soil/)
-- [Now you can search on Google for free: Solution with API](https://github.com/karust/openserp)
-- [Tesla Fleet Telemetry](https://github.com/teslamotors/fleet-telemetry)
-- [Physicists Produce Neutrino Images of Milky Way Galaxy](https://drexel.edu/news/archive/2023/June/Drexel-Physicists-Produce-New-Images-of-Milky-Way-Galaxy)
+- [English as the New Programming Language for Apache Spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)
+- [Tell HN: 1Password 8.10.8 update corrupted data](https://news.ycombinator.com/item?id=36527247)
+- [Wayland Is Pretty Good](https://serebit.com/posts/wayland-is-pretty-good/)
+- [HyenaDNA: Long-Range Genomic Sequence Modeling &lpar;context length of 1M tokens&rpar;](https://arxiv.org/abs/2306.15794)
+- [The Gentleperson&#39;s Guide to Forum Spies](https://web.archive.org/web/20221215015113/https://pastebin.com/raw/irj4Fyd5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
