@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Atom Feed Format Was Born 20 Years Ago](https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago)
 - [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic [pdf]](https://gfw.report/publications/usenixsecurity23/data/paper/paper.pdf)
 - [Anna’s Archive: Open-source data library](https://annas-archive.org/)
 - [NJ Supreme Court says cops need a wiretap to eavesdrop on your Facebook posts](https://newjerseymonitor.com/2023/06/29/n-j-supreme-court-says-cops-need-a-wiretap-to-eavesdrop-on-your-facebook-posts/)
 - [The Man Who Broke Bowling](https://www.gq.com/story/jason-belmonte-bowling-profile)
-- [Publishing free software video games](https://writefreesoftware.org/blog/free-software-games/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
