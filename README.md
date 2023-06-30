@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Hipólito Mora, vigilante crusader against Mexico’s cartels, killed in ambush](https://www.theguardian.com/world/2023/jun/29/hipolito-mora-killed-mexico-drug-cartel-foe)
-- [Show HN: Lemonade – A Lemmy client using GTK 4 and libadwaita](https://github.com/mdwalters/lemonade)
+- [LLM Tech and a Lot More: Version 13.3 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2023/06/llm-tech-and-a-lot-more-version-13-3-of-wolfram-language-and-mathematica/#llm-tech-comes-to-wolfram-language)
 - [File for Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
 - [MdBook – Create book from Markdown files. Like Gitbook but implemented in Rust](https://rust-lang.github.io/mdBook/)
 - [The False Promise of Open-sourced LLMs context length](https://lmsys.org/blog/2023-06-29-longchat/)
