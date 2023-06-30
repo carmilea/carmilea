@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Maximum size of a PDF, version 7: 381 km × 381 km](https://commons.wikimedia.org/wiki/File:Seitengr%C3%B6%C3%9Fe_PDF_7.svg)
+- [Necessary Illusions: Thought Control in Democratic Societies [pdf]](https://www.cia.gov/library/abbottabad-compound/52/526D2E781AC9EBBB13346BDF7693E1BB_CHOMSKY_Noam_-_Necessary_Illusions.pdf)
+- [The Liberty Phone](https://puri.sm/posts/introducing-the-liberty-phone/)
+- [Boxed types in OCaml, and other thoughts](https://blog.ajour.io/language-choices-do-they-matter-also-whats-this-ocaml/)
 - [Time lapse of this week&#39;s large sunspot](https://www.astrobin.com/full/qti3dk/0/)
-- [FFE Games](https://farfuture.net/)
-- [Brazil&#39;s Jair Bolsonaro is barred from office until 2030](https://www.washingtonpost.com/politics/2023/06/30/brazil-bolsonaro-ineligible-court-ruling-vote/465d30ea-175d-11ee-9de3-ba1fa29e9bec_story.html)
-- [FTC Announces Proposed Rule Banning Fake Reviews and Testimonials](https://www.ftc.gov/news-events/news/press-releases/2023/06/federal-trade-commission-announces-proposed-rule-banning-fake-reviews-testimonials)
-- [To unlock drink verification can](https://gamefaqs.gamespot.com/boards/632877-halo-4/66477630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
