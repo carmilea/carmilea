@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anna’s Archive: The world’s largest open-source open-data library](https://annas-archive.org/)
+- [Anna’s Archive: Open-source data library](https://annas-archive.org/)
 - [NJ Supreme Court says cops need a wiretap to eavesdrop on your Facebook posts](https://newjerseymonitor.com/2023/06/29/n-j-supreme-court-says-cops-need-a-wiretap-to-eavesdrop-on-your-facebook-posts/)
-- [Buying an iPad Pro for coding was a mistake](https://technicallychallenged.substack.com/p/buying-an-ipad-pro-for-coding-was)
-- [The complete guide to publishing free software video games](https://writefreesoftware.org/blog/free-software-games/)
+- [The Man Who Broke Bowling](https://www.gq.com/story/jason-belmonte-bowling-profile)
+- [Publishing free software video games](https://writefreesoftware.org/blog/free-software-games/)
 - [RF Spectrum Mapping](https://www.he360.com/products/rfgeo-radio-frequency-signal-mapping/)
 <!-- BLOG-POST-LIST:END -->
 
