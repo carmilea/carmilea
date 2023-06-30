@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube tests restricting ad blocker users to 3 video views](https://www.bleepingcomputer.com/news/technology/youtube-tests-restricting-ad-blocker-users-to-3-video-views/)
+- [Anna’s Archive: The world’s largest open-source open-data library](https://annas-archive.org/)
+- [NJ Supreme Court says cops need a wiretap to eavesdrop on your Facebook posts](https://newjerseymonitor.com/2023/06/29/n-j-supreme-court-says-cops-need-a-wiretap-to-eavesdrop-on-your-facebook-posts/)
+- [Buying an iPad Pro for coding was a mistake](https://technicallychallenged.substack.com/p/buying-an-ipad-pro-for-coding-was)
+- [The complete guide to publishing free software video games](https://writefreesoftware.org/blog/free-software-games/)
 - [RF Spectrum Mapping](https://www.he360.com/products/rfgeo-radio-frequency-signal-mapping/)
-- [Flea market find is medieval hand cannon](http://www.thehistoryblog.com/archives/67580)
-- [Hipólito Mora, vigilante crusader against Mexico’s cartels, killed in ambush](https://www.theguardian.com/world/2023/jun/29/hipolito-mora-killed-mexico-drug-cartel-foe)
-- [LLM Tech and a Lot More: Version 13.3 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2023/06/llm-tech-and-a-lot-more-version-13-3-of-wolfram-language-and-mathematica/#llm-tech-comes-to-wolfram-language)
 <!-- BLOG-POST-LIST:END -->
 
 ---
