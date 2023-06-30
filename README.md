@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [France to Suspend All Bus and Tram Services Amid Riots](https://news.sky.com/story/france-suspends-all-bus-and-tram-services-amid-riots-over-police-shooting-12912490)
+- [Lawsuit claims OpenAI stole &#39;massive amounts of personal data&#39;](https://www.businessinsider.com/openai-chatgpt-generative-ai-stole-personal-data-lawsuit-children-medical-2023-6)
+- [CommonJS Is Hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
+- [AMD AI Software Solved – MI300X Pricing, Perf, PyTorch, FlashAttention, Triton](https://www.semianalysis.com/p/amd-ai-software-solved-mi300x-pricing)
 - [Niantic lays off 230 employees, cancels NBA and Marvel games](https://techcrunch.com/2023/06/29/niantic-lays-off-230-employees-cancels-nba-and-marvel-games/)
 - [Load Your Files in Seconds with Stage](https://www.singlestore.com/blog/load-your-files-in-seconds-with-stage/)
-- [AlmaLinux – Our Value Is Our Values](https://almalinux.org/blog/our-value-is-our-values/)
-- [Show HN: Halloy – A GUI Application in Rust for IRC](https://github.com/squidowl/halloy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
