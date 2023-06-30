@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [May inflation &lpar;PCE&rpar; falls to 1.2% &lpar;3.6% Core&rpar; / 3.8% YoY &lpar;4.6% Core YoY&rpar;](https://www.bea.gov/news/2023/personal-income-and-outlays-may-2023)
-- [Gen Z are turning to delusional thinking to cope](https://fortune.com/2023/06/27/gen-zers-turning-to-radical-rest-delusional-thinking-self-indulgence-late-stage-capitalism-molly-barth/)
+- [You can buy upvotes on Hacker News](https://goorapid.com/product/buy-hacker-news-upvotes/)
+- [McMansion Hell](https://mcmansionhell.com)
+- [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
 - [TSMC Faces $70M Ransom Demand Following LockBit Cyberattack](https://www.thefinalhop.com/tsmc-faces-70m-ransom-demand-following-lockbit-cyberattack-could-this-impact-gpu-prices-80e1d9f90ef3?gi=367614525a9f)
-- [Show HN: Gamebody, a full-body game controller](https://github.com/everythingishacked/Gamebody)
-- [The Darwinian argument for worrying about AI](https://time.com/6283958/darwinian-argument-for-worrying-about-ai/)
+- [Rocky Linux Shares How They May Continue to Obtain the RHEL Source Code](https://www.phoronix.com/news/Rocky-Linux-RHEL-Source-Access)
 <!-- BLOG-POST-LIST:END -->
 
 ---
