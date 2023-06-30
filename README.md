@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [English as the new programming language for Apache spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)
-- [Wayland is pretty good](https://serebit.com/posts/wayland-is-pretty-good/)
-- [A PyTorch Approach to ML Infrastructure](https://www.run.house/blog/a-pytorch-approach-to-ml-infrastructure)
-- [HyenaDNA: Long-Range Genomic Sequence Modeling &lpar;context length of 1M tokens&rpar;](https://arxiv.org/abs/2306.15794)
-- [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
+- [MdBook – Create book from Markdown files. Like Gitbook but implemented in Rust](https://rust-lang.github.io/mdBook/)
+- [Disbarment Is Rare in Cases of Attorney-Client Sexual Contact](https://www.law360.com/articles/1693111/disbarment-is-rare-in-cases-of-atty-client-sexual-contact)
+- [The False Promise of Open-sourced LLMs context length](https://lmsys.org/blog/2023-06-29-longchat/)
+- [Reverse-engineering Google’s &quot;Skip Button Guarantee&quot;](https://checkmyads.org/branded/googles-epic-multi-billion-dollar-ad-scam-makes-sense-to-us/)
+- [Self-published Ansible book – 87k copies, 300k revenue, 41 revisions](https://www.jeffgeerling.com/blog/2023/self-publishing-technical-book-10-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
