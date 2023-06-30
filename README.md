@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Supreme Court Opinion on Student Loan Forgiveness [pdf]](https://www.supremecourt.gov/opinions/22pdf/22-506_nmip.pdf)
-- [Invidious Instance Yewtu.be Censored](https://yewtu.be/)
+- [YouTube Removes R.F. Kennedy Presidential Candidate Interview](https://www.cnn.com/2023/06/20/tech/youtube-robert-f-kennedy-jr-video-removed/index.html)
+- [DMT, Derealization, and Depersonalization](https://www.ecstaticintegration.org/p/dmt-derealization-and-depersonalization)
 - [Static electricity attracts ticks to hosts](https://www.bristol.ac.uk/news/2023/june/static-electricity-attracts-ticks-to-hosts.html)
 - [Algorithmic Trading with Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
 - [Hurl 4.0.0](https://hurl.dev/blog/2023/06/30/announcing-hurl-4.0.0.html)
