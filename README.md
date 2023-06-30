@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [APPL $3T valuation isn’t far off – but no thanks to Vision Pro, argues Bloomberg](https://9to5mac.com/2023/06/30/appl-3t-valuation-isnt-far-off/)
+- [May inflation &lpar;PCE&rpar; falls to 1.2% &lpar;3.6% Core&rpar; / 3.8% YoY &lpar;4.6% Core YoY&rpar;](https://www.bea.gov/news/2023/personal-income-and-outlays-may-2023)
+- [Gen Z are turning to delusional thinking to cope](https://fortune.com/2023/06/27/gen-zers-turning-to-radical-rest-delusional-thinking-self-indulgence-late-stage-capitalism-molly-barth/)
+- [TSMC Faces $70M Ransom Demand Following LockBit Cyberattack](https://www.thefinalhop.com/tsmc-faces-70m-ransom-demand-following-lockbit-cyberattack-could-this-impact-gpu-prices-80e1d9f90ef3?gi=367614525a9f)
 - [Show HN: Gamebody, a full-body game controller](https://github.com/everythingishacked/Gamebody)
-- [Roboflow &lpar;YC S20&rpar; Is Hiring Engineers to Democratize Computer Vision](https://roboflow.com/careers?ref=hn723)
-- [Terrible real estate agent photographs](https://terriblerealestateagentphotos.com)
-- [Goodreads Has No Incentive to Be Good](https://countercraft.substack.com/p/goodreads-has-no-incentive-to-be)
+- [The Darwinian argument for worrying about AI](https://time.com/6283958/darwinian-argument-for-worrying-about-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
