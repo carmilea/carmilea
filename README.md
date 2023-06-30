@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lawsuit claims OpenAI stole &#39;massive amounts of personal data&#39;](https://www.businessinsider.com/openai-chatgpt-generative-ai-stole-personal-data-lawsuit-children-medical-2023-6)
-- [CommonJS Is Hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
-- [AMD AI Software Solved – MI300X Pricing, Perf, PyTorch, FlashAttention, Triton](https://www.semianalysis.com/p/amd-ai-software-solved-mi300x-pricing)
-- [Niantic lays off 230 employees, cancels NBA and Marvel games](https://techcrunch.com/2023/06/29/niantic-lays-off-230-employees-cancels-nba-and-marvel-games/)
-- [Load Your Files in Seconds with Stage](https://www.singlestore.com/blog/load-your-files-in-seconds-with-stage/)
+- [Supreme Court Opinion on Student Loan Forgiveness [pdf]](https://www.supremecourt.gov/opinions/22pdf/22-506_nmip.pdf)
+- [Invidious Instance Yewtu.be Censored](https://yewtu.be/)
+- [Static electricity attracts ticks to hosts](https://www.bristol.ac.uk/news/2023/june/static-electricity-attracts-ticks-to-hosts.html)
+- [Algorithmic Trading with Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
+- [Hurl 4.0.0](https://hurl.dev/blog/2023/06/30/announcing-hurl-4.0.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
