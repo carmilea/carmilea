@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You can buy upvotes on Hacker News](https://goorapid.com/product/buy-hacker-news-upvotes/)
-- [McMansion Hell](https://mcmansionhell.com)
+- [Supreme Court Rejects Student Loan Forgiveness Plan](https://www.nytimes.com/live/2023/06/30/us/student-loans-supreme-court-biden)
+- [75% of Harvard legacy students would be rejected otherwise [pdf]](http://public.econ.duke.edu/~psarcidi/legacyathlete.pdf)
+- [AlmaLinux – Our Value Is Our Values](https://almalinux.org/blog/our-value-is-our-values/)
+- [Show HN: Halloy – A GUI Application in Rust for IRC](https://github.com/squidowl/halloy)
 - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
-- [TSMC Faces $70M Ransom Demand Following LockBit Cyberattack](https://www.thefinalhop.com/tsmc-faces-70m-ransom-demand-following-lockbit-cyberattack-could-this-impact-gpu-prices-80e1d9f90ef3?gi=367614525a9f)
-- [Rocky Linux Shares How They May Continue to Obtain the RHEL Source Code](https://www.phoronix.com/news/Rocky-Linux-RHEL-Source-Access)
 <!-- BLOG-POST-LIST:END -->
 
 ---
