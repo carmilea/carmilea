@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microwaved plastic containers release microplastics into food](https://pubs.acs.org/doi/10.1021/acs.est.3c01942)
-- [French Gov Wants to Inject Domain Blocking Lists Directly into Web Browsers](https://torrentfreak.com/french-govt-wants-to-inject-domain-blocking-lists-directly-into-web-browsers-230630/)
-- [Cheapest Source of x86 Cores?](https://news.ycombinator.com/item?id=36532238)
-- [The Atom Feed Format Was Born 20 Years Ago](https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago)
-- [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
+- [APPL $3T valuation isn’t far off – but no thanks to Vision Pro, argues Bloomberg](https://9to5mac.com/2023/06/30/appl-3t-valuation-isnt-far-off/)
+- [Show HN: Gamebody, a full-body game controller](https://github.com/everythingishacked/Gamebody)
+- [Roboflow &lpar;YC S20&rpar; Is Hiring Engineers to Democratize Computer Vision](https://roboflow.com/careers?ref=hn723)
+- [Terrible real estate agent photographs](https://terriblerealestateagentphotos.com)
+- [Goodreads Has No Incentive to Be Good](https://countercraft.substack.com/p/goodreads-has-no-incentive-to-be)
 <!-- BLOG-POST-LIST:END -->
 
 ---
