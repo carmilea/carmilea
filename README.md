@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Removes R.F. Kennedy Presidential Candidate Interview](https://www.cnn.com/2023/06/20/tech/youtube-robert-f-kennedy-jr-video-removed/index.html)
-- [DMT, Derealization, and Depersonalization](https://www.ecstaticintegration.org/p/dmt-derealization-and-depersonalization)
+- [Dolphins use “baby talk” too](https://www.pnas.org/doi/abs/10.1073/pnas.2300262120)
+- [Why is there a drink called 手打柠檬鸭屎香 = “hand-made lemon duck-feces fragrance”?](https://chinese.stackexchange.com/questions/54741/why-is-there-a-drink-called-%e6%89%8b%e6%89%93%e6%9f%a0%e6%aa%ac%e9%b8%ad%e5%b1%8e%e9%a6%99-hand-made-lemon-duck-feces-fragrance)
+- [All Pocket accounts will be converted to Firefox accounts](https://blog.mozilla.org/en/products/pocket/signing-in-to-pocket-just-got-even-more-secure/)
+- [The One Ring card, Magic: The Gathering’s coveted collectible, has been found](https://www.polygon.com/23779892/mtg-the-one-ring-found-how-much-price-spain)
 - [Static electricity attracts ticks to hosts](https://www.bristol.ac.uk/news/2023/june/static-electricity-attracts-ticks-to-hosts.html)
-- [Algorithmic Trading with Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
-- [Hurl 4.0.0](https://hurl.dev/blog/2023/06/30/announcing-hurl-4.0.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
