@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Supreme Court Rejects Student Loan Forgiveness Plan](https://www.nytimes.com/live/2023/06/30/us/student-loans-supreme-court-biden)
-- [75% of Harvard legacy students would be rejected otherwise [pdf]](http://public.econ.duke.edu/~psarcidi/legacyathlete.pdf)
+- [France to Suspend All Bus and Tram Services Amid Riots](https://news.sky.com/story/france-suspends-all-bus-and-tram-services-amid-riots-over-police-shooting-12912490)
+- [Niantic lays off 230 employees, cancels NBA and Marvel games](https://techcrunch.com/2023/06/29/niantic-lays-off-230-employees-cancels-nba-and-marvel-games/)
+- [Load Your Files in Seconds with Stage](https://www.singlestore.com/blog/load-your-files-in-seconds-with-stage/)
 - [AlmaLinux – Our Value Is Our Values](https://almalinux.org/blog/our-value-is-our-values/)
 - [Show HN: Halloy – A GUI Application in Rust for IRC](https://github.com/squidowl/halloy)
-- [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
