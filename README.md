@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lemmy now has over 2M users across 915 instances](https://lemmymap.feddit.de)
+- [In practice, cool URLs can become inaccessible even if they don&#39;t change](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsGoInaccessible)
 - [Maine becomes first state to decriminalize selling sex](https://www.seattletimes.com/nation-world/maine-becomes-first-state-to-decriminalize-selling-sex/)
-- [Don Lancaster Has Died](https://gilaherald.com/obituary-for-don-lancaster/)
-- [Supreme Court Opinion on Compelled Speech and Protected Class [pdf]](https://www.supremecourt.gov/opinions/22pdf/21-476_c185.pdf)
-- [Freedom Respecting Technology: Next Generation Open Source and Open Knowledge](https://makesourcenotcode.github.io/freedom_respecting_technology.html)
-- [Kaboom.js 3000](https://kaboomjs.com/blog/3000)
+- [Don Lancaster has died](https://gilaherald.com/obituary-for-don-lancaster/)
+- [You Might Not Own the Data of Your Air Quality Monitor](https://www.airgradient.com/blog/when-you-own-a-monitor-but-not-its-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
