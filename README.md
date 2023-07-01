@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless to Monolith – Should Serverless Lovers Be Worried?](https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/)
-- [Twitter bug causes self-DDoS, related to Musk’s emergency blocks, rate limits](https://waxy.org/2023/07/twitter-bug-causes-self-ddos-possibly-causing-elon-musks-emergency-blocks-and-rate-limits-its-amateur-hour/)
-- [Bluesky facing degraded performance due to record high traffic](https://bsky.app/profile/bsky.app/post/3jzi4yw3nqu2h)
+- [Jef Raskin&#39;s writings: “Holes in the Histories” &lpar;1994&rpar;](https://digibarn.com/friends/jef-raskin/writings/holes.html)
+- [Moving data from iCloud may need to be made easier, by EU law](https://9to5mac.com/2023/06/28/moving-data-from-icloud-law/)
+- [Serverless to monolith – Should serverless lovers be worried?](https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/)
 - [Workers with less experience gain the most from generative AI](https://mitsloan.mit.edu/ideas-made-to-matter/workers-less-experience-gain-most-generative-ai)
-- [“It appears that Twitter is DDoSing itself”](https://sfba.social/@sysop408/110639474671754723)
+- [Twitter Is DDOSing Itself](https://sfba.social/@sysop408/110639435788921057)
 <!-- BLOG-POST-LIST:END -->
 
 ---
