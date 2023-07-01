@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Man designs ChatGPT bot subscription service to annoy, waste telemarketers&#39; time](https://www.techspot.com/news/99264-man-opens-chatgpt-bot-subscription-service-annoy-waste.html)
+- [Orca Rams into Yacht Near Scotland, Suggesting the Behavior May Be Spreading](https://www.smithsonianmag.com/smart-news/orca-rams-into-yacht-near-scotland-behavior-may-be-spreading-180982429/)
 - [How to Do Great Work](http://paulgraham.com/greatwork.html)
 - [A child’s privacy is worth more than likes &lpar;2022&rpar;](https://www.theprivacywhisperer.com/p/your-childs-privacy-is-worth-more)
 - [Lesser known tricks, quirks and features of C](https://jorengarenar.github.io/blog/less-known-c)
-- [Sqlpkg – SQLite Package Registry](https://sqlpkg.org/)
-- [VUDA: A Vulkan Implementation of CUDA](https://github.com/jgbit/vuda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
