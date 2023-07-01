@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximum size of a PDF, version 7: 381 km × 381 km](https://commons.wikimedia.org/wiki/File:Seitengr%C3%B6%C3%9Fe_PDF_7.svg)
-- [Necessary Illusions: Thought Control in Democratic Societies [pdf]](https://www.cia.gov/library/abbottabad-compound/52/526D2E781AC9EBBB13346BDF7693E1BB_CHOMSKY_Noam_-_Necessary_Illusions.pdf)
-- [The Liberty Phone](https://puri.sm/posts/introducing-the-liberty-phone/)
-- [Boxed types in OCaml, and other thoughts](https://blog.ajour.io/language-choices-do-they-matter-also-whats-this-ocaml/)
-- [Time lapse of this week&#39;s large sunspot](https://www.astrobin.com/full/qti3dk/0/)
+- [Jest not recommended to be used in Node.js due to instanceOf operator issues](https://backend.cafe/should-you-use-jest-as-a-testing-library)
+- [The Condiment Packet Gallery](https://www.condimentpacket.com/index.html?mc_cid=316bfc2409&mc_eid=03a6564312)
+- [Steel Bank Common Lisp](https://www.sbcl.org)
+- [Be worried about what’s going on at Turner Classic Movies](https://www.npr.org/2023/06/28/1184544944/tcm-turner-classic-movies-david-zaslav)
+- [Apollo is dead. Long live Apollo](https://news.ycombinator.com/item?id=36543894)
 <!-- BLOG-POST-LIST:END -->
 
 ---
