@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36552170)
+- [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
+- [Tell HN: Twitter switched temporarily to rate limited mode](https://news.ycombinator.com/item?id=36552324)
+- [Meticulous &lpar;YC S21&rpar; is hiring #3 founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36552170)
 - [The first Oxide rack being prepared for customer shipment](https://hachyderm.io/@oxidecomputer/110635621269494973)
-- [Wazero: Zero dependency WebAssembly runtime written in Go](https://wazero.io/)
-- [Man designs ChatGPT bot subscription service to annoy, waste telemarketers&#39; time](https://www.techspot.com/news/99264-man-opens-chatgpt-bot-subscription-service-annoy-waste.html)
-- [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-30-06-2023/)
+- [SpaceX rocket launches Euclid space telescope to map the &#39;dark universe&#39;](https://www.space.com/space-rocket-launches-euclid-dark-universe-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
