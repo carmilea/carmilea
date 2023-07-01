@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jest not recommended to be used in Node.js due to instanceOf operator issues](https://backend.cafe/should-you-use-jest-as-a-testing-library)
-- [The Condiment Packet Gallery](https://www.condimentpacket.com/index.html?mc_cid=316bfc2409&mc_eid=03a6564312)
-- [Steel Bank Common Lisp](https://www.sbcl.org)
-- [Be worried about what’s going on at Turner Classic Movies](https://www.npr.org/2023/06/28/1184544944/tcm-turner-classic-movies-david-zaslav)
-- [Apollo is dead. Long live Apollo](https://news.ycombinator.com/item?id=36543894)
+- [Maine becomes first state to decriminalize selling sex](https://www.seattletimes.com/nation-world/maine-becomes-first-state-to-decriminalize-selling-sex/)
+- [Don Lancaster Has Died](https://gilaherald.com/obituary-for-don-lancaster/)
+- [Supreme Court Opinion on Compelled Speech and Protected Class [pdf]](https://www.supremecourt.gov/opinions/22pdf/21-476_c185.pdf)
+- [Freedom Respecting Technology: Next Generation Open Source and Open Knowledge](https://makesourcenotcode.github.io/freedom_respecting_technology.html)
+- [Kaboom.js 3000](https://kaboomjs.com/blog/3000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
