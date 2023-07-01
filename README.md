@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Terra &lpar;YC W21&rpar; Is Hiring AI Engineers in London](https://www.ycombinator.com/companies/terra/jobs/0f5CP0r-ai-engineer)
-- [The Rise and Fall of CORBA &lpar;2006&rpar;](https://queue.acm.org/detail.cfm?id=1142044)
+- [Leveling up in job interviews for software engineers &lpar;2022&rpar;](https://phauer.com/2022/leveling-up-job-interviews/)
 - [Rocky strikes back at Red Hat](https://hackaday.com/2023/06/30/rocky-strikes-back-at-red-hat/)
 - [Radioactive spill near Richland WA worse than expected](https://www.tri-cityherald.com/news/local/hanford/article276863128.html)
-- [Lemmy now has over 2M users across 915 instances](https://lemmymap.feddit.de)
+- [New York Times Election Day Crossword &lpar;2009&rpar;](https://www.crosswordunclued.com/2009/01/nyt-election-day-crossword.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
