@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fake reviews are illegal and subject to big fines under new FTC rules](https://www.washingtonpost.com/technology/2023/06/30/fake-reviews-online-ftc/)
+- [How I changed my D-Link camera from cloud camera to a locally managed IP camera](https://github.com/bmork/defogger)
 - [Jef Raskin&#39;s writings: “Holes in the Histories” &lpar;1994&rpar;](https://digibarn.com/friends/jef-raskin/writings/holes.html)
-- [Moving data from iCloud may need to be made easier, by EU law](https://9to5mac.com/2023/06/28/moving-data-from-icloud-law/)
 - [Serverless to monolith – Should serverless lovers be worried?](https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/)
-- [Workers with less experience gain the most from generative AI](https://mitsloan.mit.edu/ideas-made-to-matter/workers-less-experience-gain-most-generative-ai)
-- [Twitter Is DDOSing Itself](https://sfba.social/@sysop408/110639435788921057)
+- [Jak 2 Playable with OpenGOAL](https://opengoal.dev/blog/progress-report-june-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
