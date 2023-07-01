@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TabDB: Using browser tabs as a database like only a maniac would](https://github.com/kkuchta/tabdb)
+- [Over 900 Rarbg Magnet Link Repos Anonymously Nuked from GitHub](https://torrentfreak.com/over-900-rarbg-magnet-link-repos-anonymously-nuked-from-github-230701/)
+- [Someone dropped the source code for Far Cry 1 on archive.org](https://archive.org/details/far-cry-1.34-complete)
 - [Terra &lpar;YC W21&rpar; Is Hiring AI Engineers in London](https://www.ycombinator.com/companies/terra/jobs/0f5CP0r-ai-engineer)
 - [Leveling up in job interviews for software engineers &lpar;2022&rpar;](https://phauer.com/2022/leveling-up-job-interviews/)
-- [Rocky strikes back at Red Hat](https://hackaday.com/2023/06/30/rocky-strikes-back-at-red-hat/)
-- [Radioactive spill near Richland WA worse than expected](https://www.tri-cityherald.com/news/local/hanford/article276863128.html)
-- [New York Times Election Day Crossword &lpar;2009&rpar;](https://www.crosswordunclued.com/2009/01/nyt-election-day-crossword.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
