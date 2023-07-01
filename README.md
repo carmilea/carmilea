@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VUDA: A Vulkan Implementation of CUDA](https://github.com/jgbit/vuda)
+- [To Make More Stingers, US Needs to Revive Production Technology from Scratch](https://www.technology.org/2023/07/01/us-wants-to-make-more-stingers-needs-to-revive-production/)
+- [Get a Personal Teacher](https://sebastian.bearblog.dev/get-a-personal-teacher/)
+- [ChatGPT is now a brilliant tool for winding up telemarketers and scammers](https://www.techradar.com/computing/software/chatgpt-is-now-a-brilliant-tool-for-winding-up-telemarketers-and-scammers)
 - [June 25th, 2023 Deno Deploy Postmortem](https://deno.com/blog/2023-06-25-outage-post-mortem)
-- [The Current Challenges with Using Linux on Airplanes](https://www.phoronix.com/news/Linux-On-Airplanes-Challenges)
-- [gping – ping, but with a graph](https://github.com/orf/gping)
-- [YouTube&#39;s copyright system isn&#39;t broken. The world&#39;s is](https://www.youtube.com/watch?v=1Jwo5qc78QU)
-- [TabDB: Using browser tabs as a database like only a maniac would](https://github.com/kkuchta/tabdb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
