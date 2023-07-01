@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rise and Fall of CORBA &lpar;2006&rpar;](https://queue.acm.org/detail.cfm?id=1142044)
+- [Rocky strikes back at Red Hat](https://hackaday.com/2023/06/30/rocky-strikes-back-at-red-hat/)
 - [The FBI Has Formed a National Database to Track and Prevent “Swatting”](https://www.nbcnews.com/news/us-news/fbi-formed-national-database-track-prevent-swatting-rcna91722)
 - [Highly radioactive spill near Richland WA worse than expected](https://www.tri-cityherald.com/news/local/hanford/article276863128.html)
 - [Lemmy now has over 2M users across 915 instances](https://lemmymap.feddit.de)
-- [The most famous NYT crossword: 1996 presidential election day](https://www.crosswordunclued.com/2009/01/nyt-election-day-crossword.html)
-- [In practice, cool URLs can become inaccessible even if they don&#39;t change](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsGoInaccessible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
