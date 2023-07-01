@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [June 25th, 2023 Deno Deploy Postmortem](https://deno.com/blog/2023-06-25-outage-post-mortem)
+- [The Current Challenges with Using Linux on Airplanes](https://www.phoronix.com/news/Linux-On-Airplanes-Challenges)
+- [gping – ping, but with a graph](https://github.com/orf/gping)
 - [YouTube&#39;s copyright system isn&#39;t broken. The world&#39;s is](https://www.youtube.com/watch?v=1Jwo5qc78QU)
 - [TabDB: Using browser tabs as a database like only a maniac would](https://github.com/kkuchta/tabdb)
-- [Over 900 Rarbg Magnet Link Repos Anonymously Nuked from GitHub](https://torrentfreak.com/over-900-rarbg-magnet-link-repos-anonymously-nuked-from-github-230701/)
-- [Louis Rossmann: Autodesk turns lifetime licenses into subscriptions [video]](https://www.youtube.com/watch?v=OHY9K8X45XA)
-- [Someone dropped the source code for Far Cry 1 on archive.org](https://archive.org/details/far-cry-1.34-complete)
 <!-- BLOG-POST-LIST:END -->
 
 ---
