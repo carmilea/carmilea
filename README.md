@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Serverless to Monolith – Should Serverless Lovers Be Worried?](https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/)
+- [Twitter bug causes self-DDoS, related to Musk’s emergency blocks, rate limits](https://waxy.org/2023/07/twitter-bug-causes-self-ddos-possibly-causing-elon-musks-emergency-blocks-and-rate-limits-its-amateur-hour/)
 - [Bluesky facing degraded performance due to record high traffic](https://bsky.app/profile/bsky.app/post/3jzi4yw3nqu2h)
 - [Workers with less experience gain the most from generative AI](https://mitsloan.mit.edu/ideas-made-to-matter/workers-less-experience-gain-most-generative-ai)
 - [“It appears that Twitter is DDoSing itself”](https://sfba.social/@sysop408/110639474671754723)
-- [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
-- [Tell HN: Twitter switched temporarily to rate limited mode](https://news.ycombinator.com/item?id=36552324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
