@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube&#39;s copyright system isn&#39;t broken. The world&#39;s is](https://www.youtube.com/watch?v=1Jwo5qc78QU)
 - [TabDB: Using browser tabs as a database like only a maniac would](https://github.com/kkuchta/tabdb)
 - [Over 900 Rarbg Magnet Link Repos Anonymously Nuked from GitHub](https://torrentfreak.com/over-900-rarbg-magnet-link-repos-anonymously-nuked-from-github-230701/)
+- [Louis Rossmann: Autodesk turns lifetime licenses into subscriptions [video]](https://www.youtube.com/watch?v=OHY9K8X45XA)
 - [Someone dropped the source code for Far Cry 1 on archive.org](https://archive.org/details/far-cry-1.34-complete)
-- [Terra &lpar;YC W21&rpar; Is Hiring AI Engineers in London](https://www.ycombinator.com/companies/terra/jobs/0f5CP0r-ai-engineer)
-- [Leveling up in job interviews for software engineers &lpar;2022&rpar;](https://phauer.com/2022/leveling-up-job-interviews/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
