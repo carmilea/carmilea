@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Do Great Work](http://paulgraham.com/greatwork.html)
+- [A child’s privacy is worth more than likes &lpar;2022&rpar;](https://www.theprivacywhisperer.com/p/your-childs-privacy-is-worth-more)
+- [Lesser known tricks, quirks and features of C](https://jorengarenar.github.io/blog/less-known-c)
+- [Sqlpkg – SQLite Package Registry](https://sqlpkg.org/)
 - [VUDA: A Vulkan Implementation of CUDA](https://github.com/jgbit/vuda)
-- [To Make More Stingers, US Needs to Revive Production Technology from Scratch](https://www.technology.org/2023/07/01/us-wants-to-make-more-stingers-needs-to-revive-production/)
-- [Get a Personal Teacher](https://sebastian.bearblog.dev/get-a-personal-teacher/)
-- [ChatGPT is now a brilliant tool for winding up telemarketers and scammers](https://www.techradar.com/computing/software/chatgpt-is-now-a-brilliant-tool-for-winding-up-telemarketers-and-scammers)
-- [June 25th, 2023 Deno Deploy Postmortem](https://deno.com/blog/2023-06-25-outage-post-mortem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
