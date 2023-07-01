@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky facing degraded performance due to record high traffic](https://bsky.app/profile/bsky.app/post/3jzi4yw3nqu2h)
+- [Workers with less experience gain the most from generative AI](https://mitsloan.mit.edu/ideas-made-to-matter/workers-less-experience-gain-most-generative-ai)
 - [“It appears that Twitter is DDoSing itself”](https://sfba.social/@sysop408/110639474671754723)
-- [FBI obtains Kolektiva.social database while executing warrant on administrator](https://kolektiva.social/@admin/110637031574056150)
 - [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
 - [Tell HN: Twitter switched temporarily to rate limited mode](https://news.ycombinator.com/item?id=36552324)
-- [Meticulous &lpar;YC S21&rpar; is hiring #3 founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36552170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
