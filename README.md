@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-Migrate converts repos from one lang/framework to another](https://github.com/0xpayne/gpt-migrate)
 - [The Titan Submersible Was “An Accident Waiting to Happen”](https://www.newyorker.com/news/a-reporter-at-large/the-titan-submersible-was-an-accident-waiting-to-happen)
 - [Safe Enough?](https://astralcodexten.substack.com/p/your-book-review-safe-enough)
 - [The moral behavior of ethics professors: A replication-extension](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912)
 - [A Look at Bluesky](https://juliette.page/blog/bluesky.html)
-- [After September 1, 2023, all Gfycat content and data will be deleted](https://gfycat.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
