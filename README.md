@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub repository disabled at 22M commits](https://programming.dev/post/355447)
+- [Illegal Life Pro Tip: Want to ruin your competitors business?](https://oppositeinvictus.com/illegal-life-pro-tip-want-to-ruin-your-competitors-business)
+- [Disabled at 22 million commits](https://programming.dev/post/355447)
 - [Automated CPU Design with AI](https://arxiv.org/abs/2306.12456)
 - [AMD’s EPYC 7J13: Zen 3 Customized](https://chipsandcheese.com/2023/06/27/amds-epyc-7j13-zen-3-customized/)
 - [WebAuthn Is Great and It Sucks](https://sec.okta.com/articles/2020/04/webauthn-great-and-it-sucks/)
-- [Forgotten tragedy of Italian war detainees](https://www3.nhk.or.jp/nhkworld/en/news/backstories/816/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
