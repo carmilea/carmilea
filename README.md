@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Course Notes: A Functional Introduction to Computer Science &lpar;UWaterloo&rpar;](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
-- [Why do Ivy League students self-sabotage?](https://movingthelimit.com/why-do-ivy-league-students-self-sabotage/)
+- [UK retail electricity prices hit -19p/kWh today](https://github.com/jonatron/randomstuff/blob/main/agile_prices.png)
+- [A Functional Introduction To Computer Science](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
 - [GPT-Migrate converts repos from one lang/framework to another](https://github.com/0xpayne/gpt-migrate)
 - [Safe Enough?](https://astralcodexten.substack.com/p/your-book-review-safe-enough)
-- [The moral behavior of ethics professors: A replication-extension](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912)
+- [The moral behavior of ethics professors: A replication-extension &lpar;2018&rpar;](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
