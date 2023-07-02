@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After September 1, 2023, all Gfycat content and data will be deleted](https://gfycat.com/)
 - [China Has $3T of ‘Hidden’ Currency Reserves, Setser Says](https://www.bloomberg.com/news/articles/2023-06-30/china-has-3-trillion-of-hidden-currency-reserves-setser-says)
 - [Intro to Cryptography [pdf]](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)
 - [Using WebAssembly to turn Rust crates into fast TypeScript libraries](https://rybicki.io/blog/2023/06/27/rust-crate-into-typescript-library.html)
 - [git-landmine – create local malicious Git repo](https://github.com/jwilk/git-landmine)
-- [C++ GPT-2 inference engine](https://github.com/a1k0n/a1gpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
