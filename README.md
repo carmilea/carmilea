@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
-- [Alt-F4 #65 – Factorio visualizer in Unreal Engine 5](https://alt-f4.blog/ALTF4-65/)
-- [/u/spez is right about feudalism and that&#39;s why Reddit as we know it is doomed](https://maya.land/monologues/2023/07/01/spez-feudalism-reddit.html)
-- [Bluesky temporarily halts sign-ups](https://www.theverge.com/2023/7/1/23781417/bluesky-halted-sign-ups-joining-twitter)
-- [Google Sidewiki](https://en.wikipedia.org/wiki/Google_Sidewiki)
+- [It&#39;s 2023 and memory overwrite bugs are not just a thing theyre still number one](https://www.theregister.com/2023/06/29/cwe_top_25_2023/)
+- [San Francisco may soon get 24/7 driverless cabs. City leaders are fuming](https://www.washingtonpost.com/technology/2023/07/01/san-francisco-self-driving-taxi-waymo-cruise/)
+- [Stanford A.I. Courses](https://ai.stanford.edu/courses/)
+- [Embattled physicist files patent for unprecedented ambient superconductor](https://www.science.org/content/article/embattled-physicist-files-patent-unprecedented-ambient-superconductor)
+- [Cyclorotor](https://en.wikipedia.org/wiki/Cyclorotor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
