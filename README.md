@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SoundCloud has begun blocking Datacenter IPs](https://twitter.com/sickcodes/status/1675315768236576769)
+- [Writing as a Form of Thinking](https://lopespm.com/notes/2023/07/02/writing-as-a-form-of-thinking.html)
+- [Windows 10 on the Xiaomi PocoPhone F1](https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/)
+- [Drastic increase in Tor clients from Germany](https://metrics.torproject.org/userstats-relay-country.html?start=2019-01-01&end=2023-07-02&country=de&events=off)
 - [Entropy: The Most Misunderstood Concept in Physics [video by Veritasium]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
-- [Flattening ASTs &lpar;and Other Compiler Data Structures&rpar;](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
-- [A Functional Introduction To Computer Science](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
-- [GPT-Migrate converts repos from one lang/framework to another](https://github.com/0xpayne/gpt-migrate)
+- [Wayland on NixOS: Confusion, Conquest, Triumph](https://drakerossman.com/blog/wayland-on-nixos-confusion-conquest-triumph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
