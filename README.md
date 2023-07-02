@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fake reviews are illegal and subject to big fines under new FTC rules](https://www.washingtonpost.com/technology/2023/06/30/fake-reviews-online-ftc/)
-- [How I changed my D-Link camera from cloud camera to a locally managed IP camera](https://github.com/bmork/defogger)
-- [Jef Raskin&#39;s writings: “Holes in the Histories” &lpar;1994&rpar;](https://digibarn.com/friends/jef-raskin/writings/holes.html)
-- [Serverless to monolith – Should serverless lovers be worried?](https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/)
-- [Jak 2 Playable with OpenGOAL](https://opengoal.dev/blog/progress-report-june-2023/)
+- [China Has $3T of ‘Hidden’ Currency Reserves, Setser Says](https://www.bloomberg.com/news/articles/2023-06-30/china-has-3-trillion-of-hidden-currency-reserves-setser-says)
+- [Intro to Cryptography [pdf]](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)
+- [Using WebAssembly to turn Rust crates into fast TypeScript libraries](https://rybicki.io/blog/2023/06/27/rust-crate-into-typescript-library.html)
+- [git-landmine – create local malicious Git repo](https://github.com/jwilk/git-landmine)
+- [C++ GPT-2 inference engine](https://github.com/a1k0n/a1gpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
