@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
+- [Alt-F4 #65 – Factorio visualizer in Unreal Engine 5](https://alt-f4.blog/ALTF4-65/)
 - [/u/spez is right about feudalism and that&#39;s why Reddit as we know it is doomed](https://maya.land/monologues/2023/07/01/spez-feudalism-reddit.html)
 - [Bluesky temporarily halts sign-ups](https://www.theverge.com/2023/7/1/23781417/bluesky-halted-sign-ups-joining-twitter)
 - [Google Sidewiki](https://en.wikipedia.org/wiki/Google_Sidewiki)
-- [Writing as a Form of Thinking](https://lopespm.com/notes/2023/07/02/writing-as-a-form-of-thinking.html)
-- [64bit computing on a budget](https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
