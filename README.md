@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flattening ASTs &lpar;and Other Compiler Data Structures&rpar;](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 - [UK retail electricity prices hit -19p/kWh today](https://github.com/jonatron/randomstuff/blob/main/agile_prices.png)
+- [Ask HN: Why aren&#39;t modern programming languages, like Rust, more legible?](https://news.ycombinator.com/item?id=36558794)
 - [A Functional Introduction To Computer Science](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
 - [GPT-Migrate converts repos from one lang/framework to another](https://github.com/0xpayne/gpt-migrate)
-- [Safe Enough?](https://astralcodexten.substack.com/p/your-book-review-safe-enough)
-- [The moral behavior of ethics professors: A replication-extension &lpar;2018&rpar;](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
