@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SoundCloud has begun blocking Datacenter IPs](https://twitter.com/sickcodes/status/1675315768236576769)
+- [Entropy: The Most Misunderstood Concept in Physics [video by Veritasium]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
 - [Flattening ASTs &lpar;and Other Compiler Data Structures&rpar;](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 - [A Functional Introduction To Computer Science](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
 - [GPT-Migrate converts repos from one lang/framework to another](https://github.com/0xpayne/gpt-migrate)
-- [Safe Enough?](https://astralcodexten.substack.com/p/your-book-review-safe-enough)
-- [The moral behavior of ethics professors: A replication-extension &lpar;2018&rpar;](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
