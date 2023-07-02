@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Automated CPU Design with AI](https://arxiv.org/abs/2306.12456)
+- [43% of white Harvard students are legacy, athlete, or donor/staff related &lpar;2019&rpar;](https://www.nbcnews.com/news/us-news/study-harvard-finds-43-percent-white-students-are-legacy-athletes-n1060361)
 - [Recession canceled? U.S. stock market &#39;frothy&#39; after S&amp;P 500&#39;s strong first half](https://www.marketwatch.com/story/recession-canceled-u-s-stock-market-pretty-frothy-after-s-p-500s-strongest-first-half-since-2019-2b75f7a2)
-- [Forgotten Tragedy of Italian War Detainees](https://www3.nhk.or.jp/nhkworld/en/news/backstories/816/)
-- [Why Commuters Prefer Origin to Destination Transfers](https://pedestrianobservations.com/2023/06/30/why-commuters-prefer-origin-to-destination-transfers/)
-- [Relay Mining: Verifiable Multi-Tenant Distributed Rate Limiting](https://arxiv.org/abs/2305.10672)
-- [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
+- [Forgotten tragedy of Italian war detainees](https://www3.nhk.or.jp/nhkworld/en/news/backstories/816/)
+- [Why commuters prefer origin to destination transfers](https://pedestrianobservations.com/2023/06/30/why-commuters-prefer-origin-to-destination-transfers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
