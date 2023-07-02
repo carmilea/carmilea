@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Titan Submersible Was “An Accident Waiting to Happen”](https://www.newyorker.com/news/a-reporter-at-large/the-titan-submersible-was-an-accident-waiting-to-happen)
+- [Safe Enough?](https://astralcodexten.substack.com/p/your-book-review-safe-enough)
+- [The moral behavior of ethics professors: A replication-extension](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912)
+- [A Look at Bluesky](https://juliette.page/blog/bluesky.html)
 - [After September 1, 2023, all Gfycat content and data will be deleted](https://gfycat.com/)
-- [China Has $3T of ‘Hidden’ Currency Reserves, Setser Says](https://www.bloomberg.com/news/articles/2023-06-30/china-has-3-trillion-of-hidden-currency-reserves-setser-says)
-- [Intro to Cryptography [pdf]](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)
-- [Using WebAssembly to turn Rust crates into fast TypeScript libraries](https://rybicki.io/blog/2023/06/27/rust-crate-into-typescript-library.html)
-- [git-landmine – create local malicious Git repo](https://github.com/jwilk/git-landmine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
