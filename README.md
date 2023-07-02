@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Course Notes: A Functional Introduction to Computer Science &lpar;UWaterloo&rpar;](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
 - [Why do Ivy League students self-sabotage?](https://movingthelimit.com/why-do-ivy-league-students-self-sabotage/)
 - [GPT-Migrate converts repos from one lang/framework to another](https://github.com/0xpayne/gpt-migrate)
-- [The Titan Submersible Was “An Accident Waiting to Happen”](https://www.newyorker.com/news/a-reporter-at-large/the-titan-submersible-was-an-accident-waiting-to-happen)
 - [Safe Enough?](https://astralcodexten.substack.com/p/your-book-review-safe-enough)
 - [The moral behavior of ethics professors: A replication-extension](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912)
 <!-- BLOG-POST-LIST:END -->
