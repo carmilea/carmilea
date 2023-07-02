@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First &#39;tooth regrowth&#39; medicine moves toward clinical trials in Japan](https://mainichi.jp/english/articles/20230609/p2a/00m/0sc/026000c)
-- [HockeyStack &lpar;YC S23&rpar; Is Hiring Founding Engineers](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
-- [Show HN: Script – A text editor for digitally interconnected documents](https://www.use-script.com)
-- [Are You Sure You Want to Use MMAP in Your Database Management System? &lpar;2022&rpar;](https://db.cs.cmu.edu/mmap-cidr2022/)
-- [Tesla Gives New UK Owners a ‘Reacher’ Stick to Deal with Left-Hand Drive Cars](https://www.carscoops.com/2023/06/tesla-seriously-gives-uk-owners-reacher-stick-after-cancelling-right-hand-drive-cars/)
+- [Relay Mining: Verifiable Multi-Tenant Distributed Rate Limiting](https://arxiv.org/abs/2305.10672)
+- [Google Search&#39;s Death by a Thousand Cuts](https://matt-rickard.com/google-searchs-death-by-a-thousand-cuts)
+- [AMD CPU Use Among Linux Gamers Approaching 70% Marketshare](https://www.phoronix.com/news/AMD-CPU-Linux-Gaming-67p)
+- [Chinese Tech Terms Explained in English](https://16x.engineer/2022/10/18/chinese-tech-terms.html)
+- [Economic inequality cannot be explained by individual bad choices, study finds](https://phys.org/news/2023-06-economic-inequality-individual-bad-choices.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
