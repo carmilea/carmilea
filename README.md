@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s 2023 and memory overwrite bugs are not just a thing theyre still number one](https://www.theregister.com/2023/06/29/cwe_top_25_2023/)
-- [San Francisco may soon get 24/7 driverless cabs. City leaders are fuming](https://www.washingtonpost.com/technology/2023/07/01/san-francisco-self-driving-taxi-waymo-cruise/)
-- [Stanford A.I. Courses](https://ai.stanford.edu/courses/)
-- [Embattled physicist files patent for unprecedented ambient superconductor](https://www.science.org/content/article/embattled-physicist-files-patent-unprecedented-ambient-superconductor)
-- [Cyclorotor](https://en.wikipedia.org/wiki/Cyclorotor)
+- [HockeyStack &lpar;YC S23&rpar; Is Hiring Founding Engineers](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
+- [Are You Sure You Want to Use MMAP in Your Database Management System?](https://db.cs.cmu.edu/mmap-cidr2022/)
+- [What Do We Owe Our Teams?](https://www.mironov.com/owe/)
+- [Make Your Renders Unnecessarily Complicated by Modeling a Film Camera in Blender [video]](https://www.youtube.com/watch?v=YE9rEQAGpLw)
+- [Aspartame: Once More Unto the Breach](https://dynomight.net/aspartame/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
