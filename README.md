@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LLMs are too easy to automatically red team into toxicity](https://interhumanagreement.substack.com/p/faketoxicityprompts-automatic-red)
+- [Norway discovers Phosphate deposit large enough to supply world for 100 years](https://www.independent.co.uk/tech/battery-solar-panels-norway-phosphate-b2368444.html)
+- [Show HN: Yet another macOS ChatGPT app](https://letsflyai.com)
 - [Deep-sea mining may soon ease the world&#39;s battery-metal shortage](https://www.economist.com/science-and-technology/2023/07/02/deep-sea-mining-may-soon-ease-the-worlds-battery-metal-shortage)
-- [Show HN: Using C++23 &lt;stacktrace&gt; to get proper crash logs in C++ programs](https://github.com/TylerGlaiel/Crashlogs)
-- [On the State of the Web](https://manuelmoreale.com/on-the-state-of-the-web)
-- [A Dive into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
-- [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
+- [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
