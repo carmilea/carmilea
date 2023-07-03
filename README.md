@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla gives UK owners grabbing stick after forcing them to get left-hand-drive](https://electrek.co/2023/06/30/tesla-gives-new-owners-uk-grabbing-stick-after-forcing-left-hand-drive/)
+- [Batteries and Renewables Are Saving Texas During the Heat Wave](https://www.forbes.com/sites/anandgopal/2023/07/02/batteries-and-renewables-are-saving-texas-in-the-heat-wave/)
+- [Show HN: Python can make 3M+ WebSocket keys per second](https://github.com/szabolcsdombi/optimization-demo)
+- [Perl 5.38 Released](https://perldoc.perl.org/perl5380delta)
+- [NanoSnap: A 19g, 5x3cm camera with 4K photo and 2K video](https://dc.watch.impress.co.jp/docs/news/1511787.html)
 - [Fluent: Static Extension Methods for Java](https://github.com/rogerkeays/fluent)
-- [Nvidia’s H100: Funny L2, and Tons of Bandwidth](https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/)
-- [55 GiB/s FizzBuzz &lpar;2021&rpar;](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
-- [Active knowledge](https://surfingcomplexity.blog/2023/06/26/active-knowledge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
