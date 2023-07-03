@@ -55,7 +55,7 @@
 - [Show HN: Python can make 3M+ WebSocket keys per second](https://github.com/szabolcsdombi/optimization-demo)
 - [Perl 5.38 Released](https://perldoc.perl.org/perl5380delta)
 - [NanoSnap: A 19g, 5x3cm camera with 4K photo and 2K video](https://dc.watch.impress.co.jp/docs/news/1511787.html)
-- [Fluent: Static Extension Methods for Java](https://github.com/rogerkeays/fluent)
+- [Nvidia’s H100: Funny L2, and Tons of Bandwidth](https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
