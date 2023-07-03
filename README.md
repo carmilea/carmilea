@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Interactive Guide to SVG Paths](https://www.nan.fyi/svg-paths)
+- [Large scale precursor correlations between cosmic rays and earthquakes &lpar;2022&rpar;](https://arxiv.org/abs/2204.12310)
+- [DeltaTouch, a community created client for Ubuntu Touch](https://delta.chat/en/2023-07-02-deltatouch)
 - [Automate Your Network](https://github.com/automateyournetwork/automate_your_network)
-- [Ask HN: Who is hiring? &lpar;July 2023&rpar;](https://news.ycombinator.com/item?id=36573871)
-- [Apple forced to make major cuts to Vision Pro headset production plans](https://www.ft.com/content/b6f06bde-17b0-4886-b465-b561212c96a9)
-- [Pay-frozen Microsofties not happy to hear of &#39;landmark year&#39;](https://www.theregister.com/2023/07/03/pay_freeze_microsoft_landmark_year/)
-- [Humane unveils AI Pin – a contextual computer with a mini projector](https://hu.ma.ne)
+- [Disabling Matrix Portalling](https://libera.chat/news/matrix-deportalling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
