@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia’s H100: Funny L2, and Tons of Bandwidth](https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/)
 - [55 GiB/s FizzBuzz &lpar;2021&rpar;](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
 - [Active knowledge](https://surfingcomplexity.blog/2023/06/26/active-knowledge/)
+- [Tesla on track to smash targets after producing almost a million EVs in 6 months](https://thedriven.io/2023/07/03/tesla-on-track-to-smash-targets-after-producing-almost-a-million-evs-in-first-6-months/)
 - [Lumia WOA Project – Windows 10 or Windows 11 Desktop OS for Lumia 950/XL](https://woa-project.github.io/LumiaWOA/)
-- [The Xerox Smalltalk-80 GUI Was Weird](https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird)
-- [Ericsson to WhatsApp: The Story of Erlang](https://thechipletter.substack.com/p/ericsson-to-whatsapp-the-story-of)
 <!-- BLOG-POST-LIST:END -->
 
 ---
