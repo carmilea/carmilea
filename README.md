@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/dodmain.html)
+- [Wikipedia switches to CC BY-SA 4.0 license](https://diff.wikimedia.org/2023/06/29/stepping-into-the-future-wikimedia-projects-transition-to-creative-commons-4-0-license/)
 - [Detecting and Handling Flaky Tests in Playwright](https://ray.run/blog/detecting-and-handling-flaky-tests-in-playwright)
-- [Batteries and Renewables Are Saving Texas During the Heat Wave](https://www.forbes.com/sites/anandgopal/2023/07/02/batteries-and-renewables-are-saving-texas-in-the-heat-wave/)
 - [Show HN: Python can make 3M+ WebSocket keys per second](https://github.com/szabolcsdombi/optimization-demo)
 - [Perl 5.38](https://perldoc.perl.org/perl5380delta)
-- [NanoSnap: A 19g, 5x3cm camera with 4K photo and 2K video](https://dc.watch.impress.co.jp/docs/news/1511787.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
