@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Illegal Life Pro Tip: Want to ruin your competitors business?](https://oppositeinvictus.com/illegal-life-pro-tip-want-to-ruin-your-competitors-business)
-- [Disabled at 22 million commits](https://programming.dev/post/355447)
-- [Automated CPU Design with AI](https://arxiv.org/abs/2306.12456)
+- [The Energy Transition Isn’t](https://robertbryce.substack.com/p/the-energy-transition-isnt)
+- [Lumia WOA Project – Windows 10 or Windows 11 Desktop OS for Lumia 950/XL](https://woa-project.github.io/LumiaWOA/)
+- [The Xerox Smalltalk-80 GUI Was Weird](https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird)
+- [AI and the Automation of Work](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)
 - [AMD’s EPYC 7J13: Zen 3 Customized](https://chipsandcheese.com/2023/06/27/amds-epyc-7j13-zen-3-customized/)
-- [WebAuthn Is Great and It Sucks](https://sec.okta.com/articles/2020/04/webauthn-great-and-it-sucks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
