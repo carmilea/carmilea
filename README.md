@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Hand Wavy Defense of Domaining](https://floverfelt.org/posts/a-hand-wavy-defense-of-domaining.html)
+- [Against Alcohol](https://www.thefitzwilliam.com/p/against-alcohol)
+- [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
+- [Show HN: Using C++23 &lt;stacktrace&gt; to get proper crash logs in C++ programs](https://github.com/TylerGlaiel/Crashlogs)
+- [On the State of the Web](https://manuelmoreale.com/on-the-state-of-the-web)
 - [A Dive into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
-- [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
-- [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
-- [SlowDownAndWasteMemory&lpar;&rpar;](https://github.com/WebKit/WebKit/blob/ab10a90523e06df54bbb8a98e1aed913f79d0af9/Source/JavaScriptCore/runtime/JSArrayBufferView.cpp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
