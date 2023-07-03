@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/dodmain.html)
-- [Wikipedia switches to CC BY-SA 4.0 license](https://diff.wikimedia.org/2023/06/29/stepping-into-the-future-wikimedia-projects-transition-to-creative-commons-4-0-license/)
-- [Detecting and Handling Flaky Tests in Playwright](https://ray.run/blog/detecting-and-handling-flaky-tests-in-playwright)
-- [Show HN: Python can make 3M+ WebSocket keys per second](https://github.com/szabolcsdombi/optimization-demo)
-- [Perl 5.38](https://perldoc.perl.org/perl5380delta)
+- [No One Is Happy About Diversity Efforts at Work](https://www.wsj.com/articles/diversity-workplace-affirmative-action-dei-3646683b)
+- [The Cluetrain Manifesto](https://www.cluetrain.com/#manifesto)
+- [I prefer trunk-based development](https://trishagee.com/2023/05/29/why-i-prefer-trunk-based-development/)
+- [OCR at Edge on Cloudflare Constellation](https://notes.willhackett.com/edge-ocr/)
+- [A curated list of data oriented design resources](https://github.com/dbartolini/data-oriented-design)
 <!-- BLOG-POST-LIST:END -->
 
 ---
