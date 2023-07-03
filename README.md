@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Half a Million People Regularly Using Steroids in the UK](https://fullfact.org/health/steroids-bodybuilding-image-prevalence/)
-- [Self-Driving Cars Are Surveillance Cameras on Wheels](https://www.schneier.com/blog/archives/2023/07/self-driving-cars-are-surveillance-cameras-on-wheels.html)
-- [The rapid rise and meteoric fall of Doc Burnstein&#39;s Ice Cream Lab](https://www.sfgate.com/centralcoast/article/doc-burnsteins-ice-cream-lab-rise-and-fall-18180038.php)
-- [The Cluetrain Manifesto &lpar;1999&rpar;](https://www.cluetrain.com/#manifesto)
-- [OCR at Edge on Cloudflare Constellation](https://notes.willhackett.com/edge-ocr/)
+- [Automate Your Network](https://github.com/automateyournetwork/automate_your_network)
+- [Ask HN: Who is hiring? &lpar;July 2023&rpar;](https://news.ycombinator.com/item?id=36573871)
+- [Apple forced to make major cuts to Vision Pro headset production plans](https://www.ft.com/content/b6f06bde-17b0-4886-b465-b561212c96a9)
+- [Pay-frozen Microsofties not happy to hear of &#39;landmark year&#39;](https://www.theregister.com/2023/07/03/pay_freeze_microsoft_landmark_year/)
+- [Humane unveils AI Pin – a contextual computer with a mini projector](https://hu.ma.ne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
