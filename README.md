@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Six-year-old saves mum by calling for help on Alexa device](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-66085014)
-- [The Cluetrain Manifesto](https://www.cluetrain.com/#manifesto)
-- [I prefer trunk-based development](https://trishagee.com/2023/05/29/why-i-prefer-trunk-based-development/)
+- [Half a Million People Regularly Using Steroids in the UK](https://fullfact.org/health/steroids-bodybuilding-image-prevalence/)
+- [Self-Driving Cars Are Surveillance Cameras on Wheels](https://www.schneier.com/blog/archives/2023/07/self-driving-cars-are-surveillance-cameras-on-wheels.html)
+- [The rapid rise and meteoric fall of Doc Burnstein&#39;s Ice Cream Lab](https://www.sfgate.com/centralcoast/article/doc-burnsteins-ice-cream-lab-rise-and-fall-18180038.php)
+- [The Cluetrain Manifesto &lpar;1999&rpar;](https://www.cluetrain.com/#manifesto)
 - [OCR at Edge on Cloudflare Constellation](https://notes.willhackett.com/edge-ocr/)
-- [A curated list of data oriented design resources](https://github.com/dbartolini/data-oriented-design)
 <!-- BLOG-POST-LIST:END -->
 
 ---
