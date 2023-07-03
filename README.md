@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Against Alcohol](https://www.thefitzwilliam.com/p/against-alcohol)
-- [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
+- [Deep-sea mining may soon ease the world&#39;s battery-metal shortage](https://www.economist.com/science-and-technology/2023/07/02/deep-sea-mining-may-soon-ease-the-worlds-battery-metal-shortage)
 - [Show HN: Using C++23 &lt;stacktrace&gt; to get proper crash logs in C++ programs](https://github.com/TylerGlaiel/Crashlogs)
 - [On the State of the Web](https://manuelmoreale.com/on-the-state-of-the-web)
 - [A Dive into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
+- [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
