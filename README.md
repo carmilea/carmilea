@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [55 GiB/s FizzBuzz &lpar;2021&rpar;](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
-- [Active Knowledge](https://surfingcomplexity.blog/2023/06/26/active-knowledge/)
-- [Ask HN: As people in “tech”, are we inside an AI echo chamber?](https://news.ycombinator.com/item?id=36567918)
-- [Show HN: Prototype for ETH Signing for endorsing Wikipedia updates](https://www.loom.com/share/42e8a049faa64dcd9e4b8753a0bffb9c)
+- [Active knowledge](https://surfingcomplexity.blog/2023/06/26/active-knowledge/)
 - [Lumia WOA Project – Windows 10 or Windows 11 Desktop OS for Lumia 950/XL](https://woa-project.github.io/LumiaWOA/)
+- [The Xerox Smalltalk-80 GUI Was Weird](https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird)
+- [Ericsson to WhatsApp: The Story of Erlang](https://thechipletter.substack.com/p/ericsson-to-whatsapp-the-story-of)
 <!-- BLOG-POST-LIST:END -->
 
 ---
