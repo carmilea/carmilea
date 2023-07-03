@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Interactive Guide to SVG Paths](https://www.nan.fyi/svg-paths)
-- [Large scale precursor correlations between cosmic rays and earthquakes &lpar;2022&rpar;](https://arxiv.org/abs/2204.12310)
-- [DeltaTouch, a community created client for Ubuntu Touch](https://delta.chat/en/2023-07-02-deltatouch)
-- [Automate Your Network](https://github.com/automateyournetwork/automate_your_network)
-- [Disabling Matrix Portalling](https://libera.chat/news/matrix-deportalling)
+- [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
+- [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
+- [We are wasting up to 20% of our time on computer problems, says study](https://techxplore.com/news/2023-06-problems.html)
+- [Where in the USA Is This?](https://pudding.cool/games/where/)
+- [So where are we all supposed to go now?](https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
