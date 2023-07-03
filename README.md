@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Hand Wavy Defense of Domaining](https://floverfelt.org/posts/a-hand-wavy-defense-of-domaining.html)
 - [A Dive into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
 - [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
 - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
-- [Use Clean Energy Charging on Your iPhone](https://support.apple.com/en-us/HT213323)
 - [SlowDownAndWasteMemory&lpar;&rpar;](https://github.com/WebKit/WebKit/blob/ab10a90523e06df54bbb8a98e1aed913f79d0af9/Source/JavaScriptCore/runtime/JSArrayBufferView.cpp)
 <!-- BLOG-POST-LIST:END -->
 
