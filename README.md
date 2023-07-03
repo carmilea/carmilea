@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Dive into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
 - [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
 - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
-- [We are wasting up to 20% of our time on computer problems, says study](https://techxplore.com/news/2023-06-problems.html)
-- [Where in the USA Is This?](https://pudding.cool/games/where/)
-- [So where are we all supposed to go now?](https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon)
+- [Use Clean Energy Charging on Your iPhone](https://support.apple.com/en-us/HT213323)
+- [SlowDownAndWasteMemory&lpar;&rpar;](https://github.com/WebKit/WebKit/blob/ab10a90523e06df54bbb8a98e1aed913f79d0af9/Source/JavaScriptCore/runtime/JSArrayBufferView.cpp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
