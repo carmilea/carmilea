@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla gives UK owners grabbing stick after forcing them to get left-hand-drive](https://electrek.co/2023/06/30/tesla-gives-new-owners-uk-grabbing-stick-after-forcing-left-hand-drive/)
+- [Fluent: Static Extension Methods for Java](https://github.com/rogerkeays/fluent)
 - [Nvidia’s H100: Funny L2, and Tons of Bandwidth](https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/)
 - [55 GiB/s FizzBuzz &lpar;2021&rpar;](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
 - [Active knowledge](https://surfingcomplexity.blog/2023/06/26/active-knowledge/)
-- [Tesla on track to smash targets after producing almost a million EVs in 6 months](https://thedriven.io/2023/07/03/tesla-on-track-to-smash-targets-after-producing-almost-a-million-evs-in-first-6-months/)
-- [Lumia WOA Project – Windows 10 or Windows 11 Desktop OS for Lumia 950/XL](https://woa-project.github.io/LumiaWOA/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
