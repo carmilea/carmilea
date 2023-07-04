@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Terence Tao Uses GPT-4 to Study Mathematics](https://twitter.com/blader/status/1670578014508433410)
 - [CJEU declares Meta&#39;s GDPR approach illegal](https://noyb.eu/en/cjeu-declares-metafacebooks-gdpr-approach-largely-illegal)
 - [Why there may never be a libjpeg-turbo 3.1](https://groups.google.com/g/libjpeg-turbo-announce/c/YZ2wRgB0zIE)
+- [YouTube is blocking videos for users who block ads](https://www.pcworld.com/article/1976999/youtube-is-blocking-videos-for-users-who-block-ads.html)
 - [The Lone Banana Problem in AI](https://www.digital-science.com/tldr/article/the-lone-banana-problem-or-the-new-programming-speaking-ai/)
-- [$1 Billion That Nobody Wants &lpar;2011&rpar;](https://www.npr.org/2011/06/28/137394348/-1-billion-that-nobody-wants)
-- [Show HN: Degrees What?](https://degreeswhat.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
