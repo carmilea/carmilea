@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;How&#39;s your PhD going?&quot; A study on mental health](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288103)
+- [You need to plan for token revocation](https://www.biscuitsec.org/docs/guides/revocation/)
 - [Monday was hottest day for global average temperature, as climate crisis bites](https://www.theguardian.com/world/2023/jul/04/monday-was-hottest-day-for-global-average-temperature-on-record-as-climate-crisis-bites)
 - [Type system updates: moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
-- [Mozilla restricts extensions on some domains on Firefox 115](https://www.askvg.com/fix-some-extensions-are-not-allowed-in-firefox-115-and-later/)
 - [Designing a Language Without a Parser](https://thunderseethe.dev/posts/type-inference/)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Founding Account Executive &lpar;US Remote&rpar;](https://www.svix.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
