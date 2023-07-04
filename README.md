@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dutch rules will soon prevent schoolchildren from having a phone in classroom](https://nltimes.nl/2023/07/04/dutch-rules-will-soon-prevent-schoolchildren-phone-classroom)
-- [Apple forced to make major cuts to Vision Pro headset production plans](https://arstechnica.com/gadgets/2023/07/apple-forced-to-make-major-cuts-to-vision-pro-headset-production-plans/)
-- [A curated list of uBlock origin filters](https://letsblock.it/filters)
-- [The Ancient Roman Secret to Concrete Resilience in Seawater](https://als.lbl.gov/ancient-roman-secret-concrete-resilience-seawater/)
-- [Toyota claims battery breakthrough in potential boost for electric cars](https://www.theguardian.com/business/2023/jul/04/toyota-claims-battery-breakthrough-electric-cars)
+- [gpt-author: Generate an original fantasy novel using GPT-4 and Stable Diffusion](https://github.com/mshumer/gpt-author)
+- [Sao Paulo: The City with No Outdoor Advertisements](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html)
+- [More Than 75% of Steam Games Tested Are Playable or Verified on the Steam Deck](https://mastodon.cloud/@boilingsteam/110655979942850128)
+- [Anti-ageing protein injection boosts monkeys’ memories](https://www.nature.com/articles/d41586-023-02214-3)
+- [Google&#39;s updated privacy policy states it can use public data to train its AI](https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
