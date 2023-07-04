@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning My Passion/Hobby into a Business Made Me Hate It](https://shant.nu/turning-my-passion-hobby-into-a-business-made-me-hate-it/)
+- [Turning my hobby into a business made me hate it](https://shant.nu/turning-my-passion-hobby-into-a-business-made-me-hate-it/)
 - [ZFS 2.2.0 &lpar;RC&rpar;: Block Cloning merged](https://github.com/openzfs/zfs/pull/13392)
 - [One of the parallel worlds cannot be extremely different from the other](https://www.tsukuba.ac.jp/en/research-news/20230508140000.html)
 - [Writing about writing about programming](https://axleos.com/writing-about-writing-about-programming/)
