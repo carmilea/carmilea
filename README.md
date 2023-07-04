@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Monday was hottest day for global average temperature, as climate crisis bites](https://www.theguardian.com/world/2023/jul/04/monday-was-hottest-day-for-global-average-temperature-on-record-as-climate-crisis-bites)
+- [Type system updates: moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
+- [Mozilla restricts extensions on some domains on Firefox 115](https://www.askvg.com/fix-some-extensions-are-not-allowed-in-firefox-115-and-later/)
 - [Designing a Language Without a Parser](https://thunderseethe.dev/posts/type-inference/)
 - [Svix &lpar;YC W21&rpar; Is Hiring a Founding Account Executive &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [How to build a website without frameworks and tons of libraries](https://www.kodingkitty.com/blog/how-to-build-a-website/)
-- [Show HN: MongoDB Protocol for SQLite](https://github.com/FerretDB/FerretDB)
-- [What gets to the front page of Hacker News?](https://randomshit.dev/posts/what-gets-to-the-front-page-of-hacker-news)
 <!-- BLOG-POST-LIST:END -->
 
 ---
