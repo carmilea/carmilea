@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning needs to be effortful to be effective](https://giansegato.com/essays/edutainment-is-not-learning)
+- [Leaking Bitwarden&#39;s Vault with a Nginx vulnerability](https://labs.hakaioffsec.com/nginx-alias-traversal/)
+- [Threads, an Instagram app](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002)
 - [Booting RISC-V Linux on Star64 JH7110 SBC](https://lupyuen.codeberg.page/articles/linux.html)
 - [Velt &lpar;YC W22&rpar; Is Hiring Founding Frontend Engineer in US](https://www.ycombinator.com/companies/velt/jobs/iC33Kfh-founding-frontend-engineer-web-us-only)
-- [Utilities Use Dark Money to Stop Climate Progress](https://climatebase.org/blog/utilities-use-dark-money-to-stop-climate-progress)
-- [FakeToxicityPrompts: Automatic Red Teaming](https://interhumanagreement.substack.com/p/faketoxicityprompts-automatic-red)
-- [Norway discovers Phosphate deposit large enough to supply world for 100 years](https://www.independent.co.uk/tech/battery-solar-panels-norway-phosphate-b2368444.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
