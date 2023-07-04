@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads.net](https://www.threads.net/)
 - [Learning needs to be effortful to be effective](https://giansegato.com/essays/edutainment-is-not-learning)
 - [Leaking Bitwarden&#39;s Vault with a Nginx vulnerability](https://labs.hakaioffsec.com/nginx-alias-traversal/)
 - [Threads, an Instagram app](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002)
-- [Booting RISC-V Linux on Star64 JH7110 SBC](https://lupyuen.codeberg.page/articles/linux.html)
-- [Velt &lpar;YC W22&rpar; Is Hiring Founding Frontend Engineer in US](https://www.ycombinator.com/companies/velt/jobs/iC33Kfh-founding-frontend-engineer-web-us-only)
+- [CPU Utilization Is Wrong &lpar;2017&rpar;](https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
