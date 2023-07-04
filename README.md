@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sourcegraph is no longer Open Source](https://github.com/sourcegraph/sourcegraph/blob/main/CHANGELOG.md)
-- [Passwords Are Fine](https://herman.bearblog.dev/passwords-are-fine/)
-- [GPT-4 is great at infuriating telemarketing scammers](https://www.theregister.com/2023/07/03/jolly_roger_telephone_company/)
-- [Companies must stop using Google Analytics](https://www.imy.se/en/news/companies-must-stop-using-google-analytics/)
-- [CJEU declares Meta&#39;s GDPR approach illegal](https://noyb.eu/en/cjeu-declares-metafacebooks-gdpr-approach-largely-illegal)
+- [Apple forced to make major cuts to Vision Pro headset production plans](https://arstechnica.com/gadgets/2023/07/apple-forced-to-make-major-cuts-to-vision-pro-headset-production-plans/)
+- [A curated list of uBlock origin filters](https://letsblock.it/filters)
+- [The Hypocrisy of Mandatory Diversity Statements](https://www.theatlantic.com/ideas/archive/2023/07/hypocrisy-mandatory-diversity-statements/674611/)
+- [A civil rights group is challenging legacy admissions at Harvard University](https://apnews.com/article/legacy-admissions-affirmative-action-colleges-4a4e1191274e91e695e0631ff5156875)
+- [An Architectural Overview of QNX – inside the industry&#39;s only true microkernel [pdf]](https://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
