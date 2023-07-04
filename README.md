@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [gpt-author: Generate an original fantasy novel using GPT-4 and Stable Diffusion](https://github.com/mshumer/gpt-author)
-- [Sao Paulo: The City with No Outdoor Advertisements](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html)
-- [More Than 75% of Steam Games Tested Are Playable or Verified on the Steam Deck](https://mastodon.cloud/@boilingsteam/110655979942850128)
-- [Anti-ageing protein injection boosts monkeys’ memories](https://www.nature.com/articles/d41586-023-02214-3)
-- [Google&#39;s updated privacy policy states it can use public data to train its AI](https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html)
+- [Longevity factor klotho enhances cognition in aged nonhuman primates](https://www.nature.com/articles/s43587-023-00441-x)
+- [Debugging GraphQL N+1 Issues with Open Source Tracing Tools](https://kickstage.com/blog/open-source-tracing-to-debug-graphql-performance-issues/)
+- [Sao Paulo: A city with no outdoor advertisements &lpar;2013&rpar;](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html)
+- [Firefox 115 Now Available with Intel GPU Video Decoding on Linux](https://www.phoronix.com/news/Mozilla-Firefox-115)
+- [More than 75% of Steam games tested are playable or verified on the Steam Deck](https://mastodon.cloud/@boilingsteam/110655979942850128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
