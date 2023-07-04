@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What gets to the front page of Hacker News?](https://randomshit.dev/posts/what-gets-to-the-front-page-of-hacker-news)
+- [Opening up Intel&#39;s Device Modeling Language](https://community.intel.com/t5/Blogs/Products-and-Solutions/Software/Opening-up-the-Device-Modeling-Language/post/1417739)
 - [Turning my hobby into a business made me hate it](https://shant.nu/turning-my-passion-hobby-into-a-business-made-me-hate-it/)
 - [ZFS 2.2.0 &lpar;RC&rpar;: Block Cloning merged](https://github.com/openzfs/zfs/pull/13392)
 - [One of the parallel worlds cannot be extremely different from the other](https://www.tsukuba.ac.jp/en/research-news/20230508140000.html)
-- [Writing about writing about programming](https://axleos.com/writing-about-writing-about-programming/)
-- [Makie, a modern and fast plotting library for Julia](https://makie.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
