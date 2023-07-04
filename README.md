@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Red Hat’s Open-Source Negligence Is Doing Actual Harm to the Linux Community](https://www.learnlinux.tv/how-red-hats-open-source-negligence-is-doing-actual-harm-to-the-linux-community-and-enterprise-it-in-general/)
-- [$1 Billion That Nobody Wants](https://www.npr.org/2011/06/28/137394348/-1-billion-that-nobody-wants)
+- [CJEU declares Meta&#39;s GDPR approach illegal](https://noyb.eu/en/cjeu-declares-metafacebooks-gdpr-approach-largely-illegal)
+- [Why there may never be a libjpeg-turbo 3.1](https://groups.google.com/g/libjpeg-turbo-announce/c/YZ2wRgB0zIE)
+- [The Lone Banana Problem in AI](https://www.digital-science.com/tldr/article/the-lone-banana-problem-or-the-new-programming-speaking-ai/)
+- [$1 Billion That Nobody Wants &lpar;2011&rpar;](https://www.npr.org/2011/06/28/137394348/-1-billion-that-nobody-wants)
 - [Show HN: Degrees What?](https://degreeswhat.com)
-- [OpenAI temporarily disables the Browse with Bing beta feature](https://help.openai.com/en/articles/8077698-how-do-i-use-chatgpt-browse-with-bing-to-search-the-web)
-- [A header-only C implementation of C++ &lt;algorithm&gt;](https://github.com/clibraries/array-algorithms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
