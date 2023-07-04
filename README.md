@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Longevity factor klotho enhances cognition in aged nonhuman primates](https://www.nature.com/articles/s43587-023-00441-x)
-- [Debugging GraphQL N+1 Issues with Open Source Tracing Tools](https://kickstage.com/blog/open-source-tracing-to-debug-graphql-performance-issues/)
-- [Sao Paulo: A city with no outdoor advertisements &lpar;2013&rpar;](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html)
-- [Firefox 115 Now Available with Intel GPU Video Decoding on Linux](https://www.phoronix.com/news/Mozilla-Firefox-115)
-- [More than 75% of Steam games tested are playable or verified on the Steam Deck](https://mastodon.cloud/@boilingsteam/110655979942850128)
+- [Turning My Passion/Hobby into a Business Made Me Hate It](https://shant.nu/turning-my-passion-hobby-into-a-business-made-me-hate-it/)
+- [ZFS 2.2.0 &lpar;RC&rpar;: Block Cloning merged](https://github.com/openzfs/zfs/pull/13392)
+- [One of the parallel worlds cannot be extremely different from the other](https://www.tsukuba.ac.jp/en/research-news/20230508140000.html)
+- [Writing about writing about programming](https://axleos.com/writing-about-writing-about-programming/)
+- [Makie, a modern and fast plotting library for Julia](https://makie.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
