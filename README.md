@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Hate the News](http://www.aaronsw.com/weblog/hatethenews)
+- [Your startup idea probably isn’t venture-scale](https://www.lennysnewsletter.com/p/your-startup-idea-probably-isnt-venture)
 - [Bottles – Easily run Windows software on Linux](https://usebottles.com/)
+- [Engineers at UMass Amherst harvest clean energy from thin air](https://www.umass.edu/news/article/engineers-umass-amherst-harvest-abundant-clean-energy-thin-air-247)
 - [&quot;How&#39;s your PhD going?&quot; A study on mental health](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288103)
-- [You need to plan for token revocation](https://www.biscuitsec.org/docs/guides/revocation/)
-- [Show HN: Iridescent crystal with raymarching and signed distance fields](https://varun.ca/ray-march-sdf/)
-- [Type system updates: moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
