@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sourcegraph is no longer Open Source](https://github.com/sourcegraph/sourcegraph/blob/main/CHANGELOG.md)
+- [Passwords Are Fine](https://herman.bearblog.dev/passwords-are-fine/)
 - [GPT-4 is great at infuriating telemarketing scammers](https://www.theregister.com/2023/07/03/jolly_roger_telephone_company/)
 - [Companies must stop using Google Analytics](https://www.imy.se/en/news/companies-must-stop-using-google-analytics/)
 - [CJEU declares Meta&#39;s GDPR approach illegal](https://noyb.eu/en/cjeu-declares-metafacebooks-gdpr-approach-largely-illegal)
-- [Why there may never be a libjpeg-turbo 3.1](https://groups.google.com/g/libjpeg-turbo-announce/c/YZ2wRgB0zIE)
-- [Starting a new digital identity – k3tan.com](https://k3tan.com/starting-a-new-digital-identity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
