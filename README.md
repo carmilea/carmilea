@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram will shut down its companion app Threads by year end &lpar;2021&rpar;](https://techcrunch.com/2021/11/17/instagram-will-shut-down-its-companion-app-threads-by-year-end/)
+- [How Red Hat’s Open-Source Negligence Is Doing Actual Harm to the Linux Community](https://www.learnlinux.tv/how-red-hats-open-source-negligence-is-doing-actual-harm-to-the-linux-community-and-enterprise-it-in-general/)
+- [$1 Billion That Nobody Wants](https://www.npr.org/2011/06/28/137394348/-1-billion-that-nobody-wants)
 - [Show HN: Degrees What?](https://degreeswhat.com)
+- [OpenAI temporarily disables the Browse with Bing beta feature](https://help.openai.com/en/articles/8077698-how-do-i-use-chatgpt-browse-with-bing-to-search-the-web)
 - [A header-only C implementation of C++ &lt;algorithm&gt;](https://github.com/clibraries/array-algorithms)
-- [How the RWKV language model works](https://johanwind.github.io/2023/03/23/rwkv_details.html)
-- [Ask HN: How to do market research for product?](https://news.ycombinator.com/item?id=36582117)
 <!-- BLOG-POST-LIST:END -->
 
 ---
