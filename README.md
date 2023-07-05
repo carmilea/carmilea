@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The secret behind Google Docs and other powerful rich-text editors](https://writer.zohopublic.com/writer/published/djw8l10ba521e51a34c2488530291ebf76dbf)
+- [Microsoft denies data breach, theft of 30M customer accounts](https://www.bleepingcomputer.com/news/security/microsoft-denies-data-breach-theft-of-30-million-customer-accounts/)
+- [Why is there no Government-Built Social Media?](https://loeber.substack.com/p/10-why-is-there-no-government-built)
+- [Hacking around the Twitter login idiocy](https://news.ycombinator.com/item?id=36601059)
+- [A Regex Barometer](https://github.com/BurntSushi/rebar)
 - [Regex Engine Internals as a Library](https://blog.burntsushi.net/regex-internals/)
-- [Who cares about the Ivy League?](https://www.noahpinion.blog/p/who-cares-about-the-ivy-league-repost)
-- [News is bad for you – and giving up reading it will make you happier &lpar;2013&rpar;](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli)
-- [Amid Twitter Chaos, Japanese Illustrators Flock to Weibo](https://www.sixthtone.com/news/1013241)
 <!-- BLOG-POST-LIST:END -->
 
 ---
