@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rejected GitHub profile achievements](https://github.com/Flet/rejected-github-profile-achievements)
+- [Codereview: Should the Go project stop importing GitHub PRs?](https://github.com/golang/go/discussions/61182)
 - [Starting design work in a spreadsheet](https://clearleft.com/thinking/starting-design-work-in-a-spreadsheet)
 - [The U.S. Copyright Office requires libraries to lie about fair use rights?](https://scholarlykitchen.sspnet.org/2023/07/05/why-does-the-u-s-copyright-office-require-libraries-to-lie-to-users-about-their-fair-use-rights-they-wont-say/)
-- [Fast](https://patrickcollison.com/fast)
-- [Tell HN: People forget that you can stick any data at the end of a bash script](https://news.ycombinator.com/item?id=36605869)
-- [A table that looks good on mobile and desktop](https://many.pw/)
+- [Video: Iranian Navy Warship Fires on Oil Tanker in the Strait of Hormuz](https://news.usni.org/2023/07/05/video-iranian-warship-fires-on-oil-tanker-in-the-strait-of-hormuz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
