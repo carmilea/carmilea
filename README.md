@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PiinPoint &lpar;YC W14&rpar; Is Hiring for Data Science, Remote Within Canada](https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist)
+- [Let&#39;s have a chat about Java licensing, says unsolicited Oracle email](https://www.theregister.com/2023/07/05/unsolicited_oracle_emails_java/)
+- [OceanGate CEO Told Videographer to Sleep on the Titan Sub After the Battery Died](https://petapixel.com/2023/07/05/oceangate-ceo-told-videographer-to-sleep-on-the-titan-sub-after-the-battery-died/)
+- [Germany Achieves Record 57.7% Renewable Energy Share for First Half of 2023](https://www.ise.fraunhofer.de/en/press-media/press-releases/2023/german-net-power-generation-in-first-half-of-2023-renewable-energy-share-of-57-percent.html)
 - [The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie [pdf]](https://www.bell-labs.com/usr/dmr/www/hist.pdf)
-- [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
-- [Open Letter from Security Researchers in Relation to the Online Safety Bill [pdf]](https://haddadi.github.io/UKOSBOpenletter.pdf)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring a Technical Support Engineer in India](https://bitmovin.com/careers/technical-support-engineer-tier-1-chennai-6829109002/)
-- [Bret Victor update](http://worrydream.com/July2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
