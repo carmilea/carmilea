@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A mathematician looks at the French verb &lpar;Joachim Lambek&rpar; [pdf]](https://www.math.mcgill.ca/barr/papers/pga.pdf)
+- [Show HN: Hacker News User Blogroll](https://dm.hn)
+- [The Overflowing Brain: Information Overload and the Limits of Working Memory](https://tertulia-moderna.blogspot.com/2010/12/overflowing-brain-by-torkel-klingberg.html)
+- [A mathematician looks at the French verb &lpar;2015&rpar; [pdf]](https://www.math.mcgill.ca/barr/papers/pga.pdf)
 - [Beautifying our UI: Giving Gitlab build features a fresh look](https://about.gitlab.com/blog/2023/07/05/beautifying-of-our-ui/)
 - [A buggy Windows 11 update keeps slowing down SSDs](https://www.techspot.com/news/99291-buggy-windows-11-update-could-slowing-down-ssds.html)
-- [LLama.cpp now has a web interface](https://github.com/ggerganov/llama.cpp/pull/1998)
-- [OpenAI: Introducing SuperAlignment](https://openai.com/blog/introducing-superalignment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
