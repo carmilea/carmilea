@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the aircraft in this image real?](https://aviation.stackexchange.com/questions/99788/is-the-aircraft-in-this-image-real)
 - [Functions and algorithms implemented purely with TypeScript&#39;s type system](https://github.com/ronami/meta-typing)
 - [Can the stock market go to zero?](https://www.afrugaldoctor.com/home/market-zero)
-- [Lobotomizing Gnome](https://eklitzke.org/lobotomizing-gnome)
-- [A Slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
-- [Our Journey with Apache Arrow &lpar;Part 2&rpar;: Adaptive Schemas and Sorting](https://arrow.apache.org/blog/2023/06/26/our-journey-at-f5-with-apache-arrow-part-2/)
+- [Show HN: CodePerfect, a fast, lightweight IDE for Go](https://codeperfect95.com)
+- [Lobotomizing Gnome &lpar;2018&rpar;](https://eklitzke.org/lobotomizing-gnome)
 <!-- BLOG-POST-LIST:END -->
 
 ---
