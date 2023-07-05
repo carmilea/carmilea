@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [News Is Bad for You](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli)
+- [Amid Twitter Chaos, Japanese Illustrators Flock to Weibo](https://www.sixthtone.com/news/1013241)
+- [Macron floats social media cuts during riots](https://www.politico.eu/article/macron-mulls-cutting-access-social-media-during-riots/)
+- [Astro framework lowers competitors by ~40% on performance graph to looks better](https://twitter.com/sigma__dev/status/1676505365935005696)
 - [PiinPoint &lpar;YC W14&rpar; Is Hiring for Data Science, Remote Within Canada](https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist)
-- [Let&#39;s have a chat about Java licensing, says unsolicited Oracle email](https://www.theregister.com/2023/07/05/unsolicited_oracle_emails_java/)
-- [OceanGate CEO Told Videographer to Sleep on the Titan Sub After the Battery Died](https://petapixel.com/2023/07/05/oceangate-ceo-told-videographer-to-sleep-on-the-titan-sub-after-the-battery-died/)
-- [Germany Achieves Record 57.7% Renewable Energy Share for First Half of 2023](https://www.ise.fraunhofer.de/en/press-media/press-releases/2023/german-net-power-generation-in-first-half-of-2023-renewable-energy-share-of-57-percent.html)
-- [The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie [pdf]](https://www.bell-labs.com/usr/dmr/www/hist.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
