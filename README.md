@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Functions and algorithms implemented purely with TypeScript&#39;s type system](https://github.com/ronami/meta-typing)
+- [Can the stock market go to zero?](https://www.afrugaldoctor.com/home/market-zero)
 - [Lobotomizing Gnome](https://eklitzke.org/lobotomizing-gnome)
 - [A Slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
 - [Our Journey with Apache Arrow &lpar;Part 2&rpar;: Adaptive Schemas and Sorting](https://arrow.apache.org/blog/2023/06/26/our-journey-at-f5-with-apache-arrow-part-2/)
-- [Healing of acute ACL tear on MRI following non-surgical bracing protocol [pdf]](https://bjsm.bmj.com/content/bjsports/early/2023/06/13/bjsports-2023-106931.full.pdf?with-ds=yes)
-- [How many people have ever lived on Earth?](https://www.prb.org/articles/how-many-people-have-ever-lived-on-earth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
