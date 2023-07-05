@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Starting design work in a spreadsheet](https://clearleft.com/thinking/starting-design-work-in-a-spreadsheet)
+- [The U.S. Copyright Office requires libraries to lie about fair use rights?](https://scholarlykitchen.sspnet.org/2023/07/05/why-does-the-u-s-copyright-office-require-libraries-to-lie-to-users-about-their-fair-use-rights-they-wont-say/)
 - [Fast](https://patrickcollison.com/fast)
-- [Show HN: People forget that you can stick any data at the end of a bash script](https://news.ycombinator.com/item?id=36605869)
+- [Tell HN: People forget that you can stick any data at the end of a bash script](https://news.ycombinator.com/item?id=36605869)
 - [A table that looks good on mobile and desktop](https://many.pw/)
-- [With plugins, GPT-4 posts GitHub issue without instructions to](https://chat.openai.com/share/ed8044da-22c5-4c5e-ba82-4353f67d553f)
-- [FunctionTrace: Graphical Python Profiler](https://functiontrace.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
