@@ -54,8 +54,8 @@
 - [Open Letter from Security Researchers in Relation to the Online Safety Bill [pdf]](https://haddadi.github.io/UKOSBOpenletter.pdf)
 - [Was Starship’s Stage Zero a Bad Pad?](https://practical.engineering/blog/2023/6/16/w47wdfg7h5uojks1c85boeyjhl9ot4)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring a Technical Support Engineer in India](https://bitmovin.com/careers/technical-support-engineer-tier-1-chennai-6829109002/)
-- [Ask HN: Why is there no major push towards Android for Servers and Desktops?](https://news.ycombinator.com/item?id=36596324)
 - [Bret Victor update](http://worrydream.com/July2023/)
+- [Is the aircraft in this image real?](https://aviation.stackexchange.com/questions/99788/is-the-aircraft-in-this-image-real)
 <!-- BLOG-POST-LIST:END -->
 
 ---
