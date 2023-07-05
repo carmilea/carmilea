@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring a Technical Support Engineer in India](https://bitmovin.com/careers/technical-support-engineer-tier-1-chennai-6829109002/)
+- [That Time I Posted Myself Out Of a Job](https://cohost.org/stillinbeta/post/1847579-that-time-i-posted-m)
+- [Bret Victor: Update July 2023](http://worrydream.com/July2023/)
 - [Is the aircraft in this image real?](https://aviation.stackexchange.com/questions/99788/is-the-aircraft-in-this-image-real)
 - [Functions and algorithms implemented purely with TypeScript&#39;s type system](https://github.com/ronami/meta-typing)
-- [Can the stock market go to zero?](https://www.afrugaldoctor.com/home/market-zero)
-- [Show HN: CodePerfect, a fast, lightweight IDE for Go](https://codeperfect95.com)
-- [Lobotomizing Gnome &lpar;2018&rpar;](https://eklitzke.org/lobotomizing-gnome)
 <!-- BLOG-POST-LIST:END -->
 
 ---
