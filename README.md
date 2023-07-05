@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox 115 can silently remotely disable my extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)
+- [Heat Pumps – The Well-Tempered Future of A/Cs](https://spectrum.ieee.org/heat-pump-air-conditioning-alternative)
+- [AI weights are not open “source”](https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/)
+- [New tool exploits Microsoft Teams bug to send malware to users](https://www.bleepingcomputer.com/news/security/new-tool-exploits-microsoft-teams-bug-to-send-malware-to-users/)
 - [Microsoft denies data breach, theft of 30M customer accounts](https://www.bleepingcomputer.com/news/security/microsoft-denies-data-breach-theft-of-30-million-customer-accounts/)
-- [Why is there no Government-Built Social Media?](https://loeber.substack.com/p/10-why-is-there-no-government-built)
-- [Hacking around the Twitter login idiocy](https://news.ycombinator.com/item?id=36601059)
-- [A Regex Barometer](https://github.com/BurntSushi/rebar)
-- [Regex Engine Internals as a Library](https://blog.burntsushi.net/regex-internals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
