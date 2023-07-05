@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Hate the News](http://www.aaronsw.com/weblog/hatethenews)
-- [Your startup idea probably isn’t venture-scale](https://www.lennysnewsletter.com/p/your-startup-idea-probably-isnt-venture)
+- [What if there was only the OS? &lpar;2022&rpar;](https://dusted.dk/pages/phlog/2022-11-13.txt)
+- [I Hate the News &lpar;2006&rpar;](http://www.aaronsw.com/weblog/hatethenews)
+- [How Many People Have Ever Lived on Earth?](https://www.prb.org/articles/how-many-people-have-ever-lived-on-earth/)
 - [Bottles – Easily run Windows software on Linux](https://usebottles.com/)
-- [Engineers at UMass Amherst harvest clean energy from thin air](https://www.umass.edu/news/article/engineers-umass-amherst-harvest-abundant-clean-energy-thin-air-247)
-- [&quot;How&#39;s your PhD going?&quot; A study on mental health](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288103)
+- [LXD is now under Canonical](https://linuxcontainers.org/lxd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
