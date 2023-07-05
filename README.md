@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [News Is Bad for You](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli)
+- [The secret behind Google Docs and other powerful rich-text editors](https://writer.zohopublic.com/writer/published/djw8l10ba521e51a34c2488530291ebf76dbf)
+- [Regex Engine Internals as a Library](https://blog.burntsushi.net/regex-internals/)
+- [Who cares about the Ivy League?](https://www.noahpinion.blog/p/who-cares-about-the-ivy-league-repost)
+- [News is bad for you – and giving up reading it will make you happier &lpar;2013&rpar;](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli)
 - [Amid Twitter Chaos, Japanese Illustrators Flock to Weibo](https://www.sixthtone.com/news/1013241)
-- [Macron floats social media cuts during riots](https://www.politico.eu/article/macron-mulls-cutting-access-social-media-during-riots/)
-- [Astro framework lowers competitors by ~40% on performance graph to looks better](https://twitter.com/sigma__dev/status/1676505365935005696)
-- [PiinPoint &lpar;YC W14&rpar; Is Hiring for Data Science, Remote Within Canada](https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
