@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My take on the current React and Server Components controversy](https://phryneas.de/react-server-components-controversy)
+- [Threads has passed 2M sign ups in the first 2 hours](https://www.threads.net/t/CuVjWxcJ22Z)
+- [Ban on Recording Without Consent Is Unconstitutional, US Court Rules](https://www.documentcloud.org/documents/23867036-appeals-court-ruling-in-project-veritas-v-schmidt)
+- [A Smarter Battle Plan to Protect the Open Social Web](https://www.timothychambers.net/2023/06/23/project-and-the.html)
+- [New aluminum radical battery promises more sustainable power](https://techxplore.com/news/2023-07-aluminum-radical-battery-sustainable-power.html)
 - [Rejected GitHub profile achievements](https://github.com/Flet/rejected-github-profile-achievements)
-- [Tabby: A terminal for a more modern age](https://github.com/Eugeny/tabby)
-- [Starting design work in a spreadsheet](https://clearleft.com/thinking/starting-design-work-in-a-spreadsheet)
-- [The U.S. Copyright Office requires libraries to lie about fair use rights?](https://scholarlykitchen.sspnet.org/2023/07/05/why-does-the-u-s-copyright-office-require-libraries-to-lie-to-users-about-their-fair-use-rights-they-wont-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
