@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canadian judge says thumbs-up emoji amounts to contract acceptance](https://www.theglobeandmail.com/canada/article-farmer-ordered-to-pay-after-judge-says-thumbs-up-emoji-amounts-to/)
+- [AI for AWS Documentation](https://www.awsdocsgpt.com/)
+- [For the sixth year, Algeria blocks internet to prevent cheating during exams](https://www.newarab.com/news/algeria-blocks-internet-stop-cheating-during-final-exams)
+- [USGS estimates at least 45% of U.S. tap water contain forever chemicals](https://www.usgs.gov/news/national-news-release/tap-water-study-detects-pfas-forever-chemicals-across-us)
 - [PlanetScale Scaler Pro](https://planetscale.com/blog/announcing-scaler-pro)
-- [Nearly half of the tap water in the US is contaminated with ‘forever chemicals,’](https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html)
 - [Demystifying Text Data with the Unstructured Python Library](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
-- [Collaboration &amp; Innovation at the Inaugural SingleStore Demothon](https://www.singlestore.com/blog/collaboration-innovation-at-the-inaugural-singlestore-demothon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
