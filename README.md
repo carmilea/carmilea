@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SigNoz &lpar;YC W21&rpar;: Open-Source Observability Platform – Is Hiring Sr Back End Dev](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-backend-engineer-go-remote)
+- [Joplin – An open-source note taking and to-do application with synchronisation](https://github.com/laurent22/joplin)
 - [Cory Doctorow: Platform Capitalism and the Curse of “Enshittification” [audio]](https://podtail.com/podcast/future-tense-full-program-podcast/cory-doctorow-platform-capitalism-and-the-curse-of/)
 - [My Problem with the Four-Document Model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
 - [Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki)
-- [Wash trading gone wrong – how a $100M/day crypto exchange bankrupted itself](https://blog.everstrike.io/wash-trading-gone-wrong-how-a-crypto-exchange-accidentally-obliterated-itself/)
-- [Tell HN: Nearly all of Evernote’s remaining staff has been laid off](https://news.ycombinator.com/item?id=36609641)
 <!-- BLOG-POST-LIST:END -->
 
 ---
