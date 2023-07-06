@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My small, no name company has lost its mind with AI](https://www.teamblind.com/post/My-small-no-name-company-has-completely-lost-its-mind-with-AI-nfqEDfSi)
+- [Cory Doctorow: Platform Capitalism and the Curse of “Enshittification” [audio]](https://podtail.com/podcast/future-tense-full-program-podcast/cory-doctorow-platform-capitalism-and-the-curse-of/)
 - [My Problem with the Four-Document Model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
-- [Threads hits 5M signups in the first four hours](https://www.threads.net/t/CuVxMmvLNsG)
 - [Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki)
 - [Wash trading gone wrong – how a $100M/day crypto exchange bankrupted itself](https://blog.everstrike.io/wash-trading-gone-wrong-how-a-crypto-exchange-accidentally-obliterated-itself/)
-- [Tell HN: Nearly all of Evernote’s remaining staff has been laid off](https://news.ycombinator.com/item?id=36609641)
 <!-- BLOG-POST-LIST:END -->
 
 ---
