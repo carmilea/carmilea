@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-4 API General Availability](https://openai.com/blog/gpt-4-api-general-availability)
-- [Imagination GPUs now support OpenGL 4.6](https://blog.imaginationtech.com/imagination-gpus-now-support-opengl-4.6)
-- [The Distribution of Users’ Computer Skills: Worse Than You Think &lpar;2016&rpar;](https://www.nngroup.com/articles/computer-skill-levels/)
-- [Chat with Andreas Kling about Ladybird and developing a browser engine](https://www.igalia.com/chats/ladybird)
-- [Code Interpreter will be available to all ChatGPT Plus users over the next week](https://twitter.com/OpenAI/status/1677015057316872192)
+- [Heat Records Broken Across Earth](https://www.nytimes.com/2023/07/06/climate/climate-change-record-heat.html)
+- [Toyota Is Right: We Need More Hybrid Cars and Fewer EVs. Here’s Why](https://www.thedrive.com/features/toyota-is-right-we-need-more-hybrid-cars-and-fewer-evs-heres-why)
+- [Twitter is threatening to sue Meta over Threads [pdf]](https://cdn.sanity.io/files/ifn0l6bs/production/27109f01431939c8177d408d3c9848c3b46632cd.pdf)
+- [Threads profiles can&#39;t be deleted without removing your entire Instagram account](https://www.theverge.com/2023/7/6/23786029/instagram-threads-profiles-deleted-removing)
+- [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
