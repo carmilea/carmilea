@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PlanetScale Scaler Pro](https://planetscale.com/blog/announcing-scaler-pro)
+- [Nearly half of the tap water in the US is contaminated with ‘forever chemicals,’](https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html)
 - [Demystifying Text Data with the Unstructured Python Library](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
 - [Tuesday set an unofficial record for the hottest day on Earth](https://apnews.com/article/global-record-breaking-heat-july-27069b5380117534d78f1f40a6edc7a0)
 - [Collaboration &amp; Innovation at the Inaugural SingleStore Demothon](https://www.singlestore.com/blog/collaboration-innovation-at-the-inaugural-singlestore-demothon/)
-- [Lego building instructions](https://archive.org/details/lego-set-instructions)
-- [France passes bill to allow police remotely activate phone camera, microphone](https://gazettengr.com/france-passes-bill-to-allow-police-remotely-activate-phone-camera-microphone-spy-on-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
