@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UpCodes &lpar;YC S17&rpar; is hiring engineers to automate building code compliance](https://up.codes/careers)
-- [Godot 4.1 Is Released](https://godotengine.org/article/godot-4-1-is-here/)
-- [/Uses: A list of /uses pages detailing developer setups, gear, software, configs](https://uses.tech)
-- [Declarative Enhancement for HTML](https://twinspark.js.org/)
-- [Back end of Meta Threads is built with Python 3.10 with some interesting tweaks](https://twitter.com/llanga/status/1676846870520291329)
+- [Are bugs and slow delivery ok?](https://journal.optivem.com/p/are-bugs-and-slow-delivery-ok)
+- [DigitalOcean acquires Paperspace &lpar;YC W15&rpar; for $111M in cash](https://finance.yahoo.com/news/digitalocean-acquires-paperspace-expand-ai-120000933.html)
+- [Big Update to OpenBSD&#39;s pfsync](https://marc.info/?l=openbsd-cvs&m=168861927203498&w=2)
+- [StackRot &lpar;CVE-2023-3269&rpar;: Linux kernel privilege escalation vulnerability](https://github.com/lrh2000/StackRot)
+- [Stop Trying to Make Social Networks Succeed](https://ploum.net/2023-07-06-stop-trying-to-make-social-networks-succeed.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
