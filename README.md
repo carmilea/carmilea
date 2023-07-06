@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Declarative Enhancement for HTML](https://twinspark.js.org/)
-- [Threads has 10M sign ups in seven hours](https://www.threads.net/t/CuWGPjwrfq9)
+- [Web servers should refuse requests for random, unnecessary URLs](https://utcc.utoronto.ca/~cks/space/blog/web/WebServersShouldServeMinimally)
 - [Meta will nuke your Instagram account if you delete Threads profile](https://techcrunch.com/2023/07/06/threads-delete-profile-instagram-meta/)
 - [InternLM – new open source 7B LLM](https://github.com/InternLM/InternLM)
 - [SigNoz &lpar;YC W21&rpar;: Open-Source Observability Platform – Is Hiring Sr Back End Dev](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-backend-engineer-go-remote)
