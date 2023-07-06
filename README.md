@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are bugs and slow delivery ok?](https://journal.optivem.com/p/are-bugs-and-slow-delivery-ok)
-- [DigitalOcean acquires Paperspace &lpar;YC W15&rpar; for $111M in cash](https://finance.yahoo.com/news/digitalocean-acquires-paperspace-expand-ai-120000933.html)
-- [Big Update to OpenBSD&#39;s pfsync](https://marc.info/?l=openbsd-cvs&m=168861927203498&w=2)
-- [StackRot &lpar;CVE-2023-3269&rpar;: Linux kernel privilege escalation vulnerability](https://github.com/lrh2000/StackRot)
-- [Stop Trying to Make Social Networks Succeed](https://ploum.net/2023-07-06-stop-trying-to-make-social-networks-succeed.html)
+- [France passes bill to allow police remotely activate phone camera, microphone](https://gazettengr.com/france-passes-bill-to-allow-police-remotely-activate-phone-camera-microphone-spy-on-people/)
+- [Fastmail 30 June outage post-mortem](https://www.fastmail.com/blog/partial-outage-on-30-june-2023/)
+- [The case against self-closing tags in HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/)
+- [Earth entering ‘uncharted territory’ as heat records quickly shatter](https://www.washingtonpost.com/weather/2023/07/06/earth-record-heat-climate-extremes/)
+- [Responding to “Are bugs and slow delivery ok?”](https://uselessdevblog.wordpress.com/2023/07/03/responding-to-are-bugs-and-slow-delivery-ok-the-blog-post-that-ive-hated-the-most-ever/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
