@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please don&#39;t say just hello in chat](https://nohello.net/en/)
-- [Why there are so many cybersecurity vendors and where do we go from here](https://ventureinsecurity.net/p/why-there-are-so-many-cybersecurity)
+- [Air France Denied My Delay Compensation, So I Challenged Them and Won](https://airdisputes.com/air-france-denied-my-delay-compensation-so-i-challenged-them-and-won/)
+- [Grumpy Locals Are Sabotaging Cruise and Waymo Robotaxis with Traffic Cones](https://www.thedrive.com/news/rebels-are-disabling-waymo-cruise-robotaxis-with-traffic-cones)
+- [Annotated scripts of old Sierra games](https://www.benshoof.org/blog/sci-scripts)
 - [Show HN: Banger.show – create colorful visuals for your songs in seconds](https://banger.show)
 - [“Self-reflecting” AI agents explore like animals](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
-- [Stanford Graduate Students Won Their Union Vote](https://twitter.com/StanfordGWU/status/1677048098080845824)
 <!-- BLOG-POST-LIST:END -->
 
 ---
