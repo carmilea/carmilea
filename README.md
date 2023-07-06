@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads has 10M sign ups in seven hours](https://www.threads.net/t/CuWGPjwrfq9)
+- [Meta will nuke your Instagram account if you delete Threads profile](https://techcrunch.com/2023/07/06/threads-delete-profile-instagram-meta/)
+- [InternLM – new open source 7B LLM](https://github.com/InternLM/InternLM)
 - [SigNoz &lpar;YC W21&rpar;: Open-Source Observability Platform – Is Hiring Sr Back End Dev](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-backend-engineer-go-remote)
 - [Joplin – An open-source note taking and to-do application with synchronisation](https://github.com/laurent22/joplin)
-- [Cory Doctorow: Platform Capitalism and the Curse of “Enshittification” [audio]](https://podtail.com/podcast/future-tense-full-program-podcast/cory-doctorow-platform-capitalism-and-the-curse-of/)
-- [My Problem with the Four-Document Model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
-- [Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki)
 <!-- BLOG-POST-LIST:END -->
 
 ---
