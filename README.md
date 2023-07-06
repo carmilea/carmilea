@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI for AWS Documentation](https://www.awsdocsgpt.com/)
-- [For the sixth year, Algeria blocks internet to prevent cheating during exams](https://www.newarab.com/news/algeria-blocks-internet-stop-cheating-during-final-exams)
-- [USGS estimates at least 45% of U.S. tap water contain forever chemicals](https://www.usgs.gov/news/national-news-release/tap-water-study-detects-pfas-forever-chemicals-across-us)
-- [PlanetScale Scaler Pro](https://planetscale.com/blog/announcing-scaler-pro)
-- [Demystifying Text Data with the Unstructured Python Library](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
+- [GPT-4 API General Availability](https://openai.com/blog/gpt-4-api-general-availability)
+- [Imagination GPUs now support OpenGL 4.6](https://blog.imaginationtech.com/imagination-gpus-now-support-opengl-4.6)
+- [The Distribution of Users’ Computer Skills: Worse Than You Think &lpar;2016&rpar;](https://www.nngroup.com/articles/computer-skill-levels/)
+- [Chat with Andreas Kling about Ladybird and developing a browser engine](https://www.igalia.com/chats/ladybird)
+- [Code Interpreter will be available to all ChatGPT Plus users over the next week](https://twitter.com/OpenAI/status/1677015057316872192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
