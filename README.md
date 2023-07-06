@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UpCodes &lpar;YC S17&rpar; is hiring engineers to automate building code compliance](https://up.codes/careers)
+- [Godot 4.1 Is Released](https://godotengine.org/article/godot-4-1-is-here/)
 - [/Uses: A list of /uses pages detailing developer setups, gear, software, configs](https://uses.tech)
 - [Declarative Enhancement for HTML](https://twinspark.js.org/)
-- [Web servers should refuse requests for random, unnecessary URLs](https://utcc.utoronto.ca/~cks/space/blog/web/WebServersShouldServeMinimally)
 - [Back end of Meta Threads is built with Python 3.10 with some interesting tweaks](https://twitter.com/llanga/status/1676846870520291329)
-- [Meta will nuke your Instagram account if you delete Threads profile](https://techcrunch.com/2023/07/06/threads-delete-profile-instagram-meta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
