@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Please don&#39;t say just hello in chat](https://nohello.net/en/)
+- [Why there are so many cybersecurity vendors and where do we go from here](https://ventureinsecurity.net/p/why-there-are-so-many-cybersecurity)
+- [Show HN: Banger.show – create colorful visuals for your songs in seconds](https://banger.show)
+- [“Self-reflecting” AI agents explore like animals](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
 - [Stanford Graduate Students Won Their Union Vote](https://twitter.com/StanfordGWU/status/1677048098080845824)
-- [Ubuntu 23.10’s New Software App Will Demote Debs &lpar;Apparently&rpar;](https://www.omgubuntu.co.uk/2023/07/ubuntu-23-10-new-app-store-deb-support)
-- [Ubuntu Plans to Ditch Its ‘Minimal’ Install Option](https://www.omgubuntu.co.uk/2023/07/ubuntu-new-unified-install-plans-sound-meh)
-- [Threads profiles can&#39;t be deleted without removing your entire Instagram account](https://www.theverge.com/2023/7/6/23786029/instagram-threads-profiles-deleted-removing)
-- [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
