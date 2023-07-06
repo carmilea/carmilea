@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wash trading gone wrong – how a $100M/day crypto exchange bankrupted itself](https://blog.everstrike.io/wash-trading-gone-wrong-how-a-crypto-exchange-accidentally-obliterated-itself/)
+- [Tell HN: Nearly all of Evernote’s remaining staff has been laid off](https://news.ycombinator.com/item?id=36609641)
 - [Threads has passed 2M sign ups in the first 2 hours](https://www.threads.net/t/CuVjWxcJ22Z)
-- [Ban on Recording Without Consent Is Unconstitutional, US Court Rules](https://www.documentcloud.org/documents/23867036-appeals-court-ruling-in-project-veritas-v-schmidt)
-- [A Smarter Battle Plan to Protect the Open Social Web](https://www.timothychambers.net/2023/06/23/project-and-the.html)
-- [New aluminum radical battery promises more sustainable power](https://techxplore.com/news/2023-07-aluminum-radical-battery-sustainable-power.html)
-- [Rejected GitHub profile achievements](https://github.com/Flet/rejected-github-profile-achievements)
+- [Ban on recording without consent is unconstitutional, US court rules](https://www.documentcloud.org/documents/23867036-appeals-court-ruling-in-project-veritas-v-schmidt)
+- [The ice machine that chills Chicago’s skyscrapers](https://wgntv.com/news/chicago-news/the-ice-machine-that-chills-chicagos-skyscrapers-inside-downtowns-district-cooling-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
