@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Text Data with the Unstructured Python Library](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
+- [Tuesday set an unofficial record for the hottest day on Earth](https://apnews.com/article/global-record-breaking-heat-july-27069b5380117534d78f1f40a6edc7a0)
+- [Collaboration &amp; Innovation at the Inaugural SingleStore Demothon](https://www.singlestore.com/blog/collaboration-innovation-at-the-inaugural-singlestore-demothon/)
+- [Lego building instructions](https://archive.org/details/lego-set-instructions)
 - [France passes bill to allow police remotely activate phone camera, microphone](https://gazettengr.com/france-passes-bill-to-allow-police-remotely-activate-phone-camera-microphone-spy-on-people/)
-- [Fastmail 30 June outage post-mortem](https://www.fastmail.com/blog/partial-outage-on-30-june-2023/)
-- [The case against self-closing tags in HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/)
-- [Earth entering ‘uncharted territory’ as heat records quickly shatter](https://www.washingtonpost.com/weather/2023/07/06/earth-record-heat-climate-extremes/)
-- [Responding to “Are bugs and slow delivery ok?”](https://uselessdevblog.wordpress.com/2023/07/03/responding-to-are-bugs-and-slow-delivery-ok-the-blog-post-that-ive-hated-the-most-ever/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
