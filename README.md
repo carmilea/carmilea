@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brave Browser deserves more love](https://github.com/brave/brave-browser)
+- [San Franciscans disable robotaxis by placing a traffic cone on the hood](https://twitter.com/DavidZipper/status/1676968755522588682)
+- [Threads isn’t for news and politics, says Instagram’s boss](https://www.theverge.com/2023/7/7/23787334/instagram-threads-news-politics-adam-mosseri-meta-facebook)
+- [ChatGPT loses users for first time, shaking faith in AI revolution](https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/)
 - [Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
-- [Carmakers don’t need ‘EV divisions,’ the whole company should go electric now](https://electrek.co/2023/07/06/carmakers-dont-need-ev-divisions-the-whole-company-should-go-electric-now/)
-- [Type &lpar;YC W23&rpar; is hiring a founding engineer](https://www.ycombinator.com/companies/type/jobs/OXVqWSn-founding-engineer-at-type)
-- [The underground economy of Glassdoor reviews](https://www.careerfair.io/company-reviews)
+- [Tech debt metaphor maximalism](https://apenwarr.ca/log/?m=202306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
