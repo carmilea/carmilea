@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California strikes deal with engine makers on zero-emissions trucking by 2036](https://www.sacbee.com/news/politics-government/capitol-alert/article277068878.html)
 - [Charger outages leave northern Ontario EV drivers stranded](https://www.cbc.ca/news/canada/thunder-bay/ev-charger-outtages-northern-ontario-1.6895863)
-- [Closure, from Why_ the Lucky Stiff](https://github.com/steveklabnik/CLOSURE)
+- [Closure, from why the lucky stiff &lpar;2013&rpar;](https://github.com/steveklabnik/CLOSURE)
 - [Civic honesty around the globe](https://www.science.org/doi/10.1126/science.aau8712)
-- [The Invisible Reason for High Housing Prices: Restrictive Land-Use Regulations](https://www.strongtowns.org/journal/2023/7/5/the-invisible-reason-for-high-housing-prices-restrictive-land-use-regulations)
-- [Windows Update Restored: Fix Windows Update on Windows 95. 98, Me, 2000, and XP](http://windowsupdaterestored.com/)
+- [Amazon’s electric Rivian vans have delivered 150M packages](https://arstechnica.com/cars/2023/07/amazon-has-5000-rivian-ev-delivery-vans-on-the-road/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
