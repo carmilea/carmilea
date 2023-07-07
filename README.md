@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How did you migrate off Evernote?](https://news.ycombinator.com/item?id=36628284)
+- [List of Unix binaries that can be used to bypass local security restrictions](https://gtfobins.github.io/)
+- [Garbage Collection for MVCC – MyRocks, InnoDB and Postgres](http://smalldatum.blogspot.com/2023/04/gc-for-mvcc-myrocks-innodb-and-postgres.html)
+- [Andreas Kling – Failure is also a habit](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/)
 - [Openworm – a biological simulation of a worm with 302 neurons](https://github.com/openworm/OpenWorm)
 - [Homebrew&#39;s analytics have moved to the EU and away from Google](https://docs.brew.sh/Analytics)
-- [In Defence of DOM­Content­Loaded](https://csswizardry.com/2023/07/in-defence-of-domcontentloaded/)
-- [Simulation Testing for Liveness](https://tigerbeetle.com/blog/2023-07-06-simulation-testing-for-liveness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
