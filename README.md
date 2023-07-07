@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vit D supplementation and major cardiovascular events: D-Health randomised trial](https://www.bmj.com/content/381/bmj-2023-075230)
-- [Android Games on PC](https://play.google.com/googleplaygames)
-- [Oil Is Hard to Quit, Even in Norway Where Electric Cars Rule](https://www.bloomberg.com/news/articles/2023-07-07/oil-is-hard-to-quit-even-in-norway-where-electric-cars-rule-the-road)
-- [Finley &lpar;YC W21&rpar; is a financial software company hiring for sales and engineering](https://www.finleycms.com/careers/)
-- [Seven people have acquired malaria in the US. They’re the first in 20 years](https://www.vox.com/science/2023/6/23/23771154/malaria-transmission-florida-texas-mosquitoes-risk-prevention-anopheles)
+- [Collaboration &amp; Innovation at the Inaugural SingleStore Demothon](https://www.singlestore.com/blog/collaboration-innovation-at-the-inaugural-singlestore-demothon/)
+- [Choosing a Vector Database for Your Gen AI Stack](https://www.singlestore.com/blog/choosing-a-vector-database-for-your-gen-ai-stack/)
+- [Load Your Files in Seconds with Stage](https://www.singlestore.com/blog/load-your-files-in-seconds-with-stage/)
+- [How AWS Supports SingleStore and Our Customers](https://www.singlestore.com/blog/how-aws-supports-singlestore-and-our-customers/)
+- [Partnering For Success: Our June Tech Partner Update](https://www.singlestore.com/blog/partnering-for-success-our-june-tech-partner-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
