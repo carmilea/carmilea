@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [San Franciscans disable robotaxis by placing a traffic cone on the hood](https://twitter.com/DavidZipper/status/1676968755522588682)
-- [Threads isn’t for news and politics, says Instagram’s boss](https://www.theverge.com/2023/7/7/23787334/instagram-threads-news-politics-adam-mosseri-meta-facebook)
-- [ChatGPT loses users for first time, shaking faith in AI revolution](https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/)
-- [Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
-- [Tech debt metaphor maximalism](https://apenwarr.ca/log/?m=202306)
+- [How the new Threads app is made](https://www.emergetools.com/deep-dives/threads)
+- [TypeScript please give us types](https://github.com/akutruff/typescript-needs-types)
+- [Sinkholed: A DNS Horror Story &lpar;2019&rpar;](https://susam.net/blog/sinkholed.html)
+- [DARPA Seeks to Shield Blood from Fungal and Bacterial Pathogens](https://www.darpa.mil/news-events/2023-06-29)
+- [Goroutines: The concurrency model we wanted all along](https://jayconrod.com/posts/128/goroutines-the-concurrency-model-we-wanted-all-along)
 <!-- BLOG-POST-LIST:END -->
 
 ---
