@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Robotaxi haters in San Francisco are disabling the AVs with traffic cones](https://techcrunch.com/2023/07/06/robotaxi-haters-in-san-francisco-are-disabling-waymo-cruise-traffic-cones/)
-- [After Vietnam, the Philippines could be next to ban &#39;Barbie.&#39; Here&#39;s why](https://www.npr.org/2023/07/06/1186178724/barbie-movie-philippines-vietnam-china-map)
-- [Show HN: List &lpar;OPML&rpar; of Hacker News Users Personal Blogs](https://github.com/outcoldman/hackernews-personal-blogs)
-- [Understand by Ted Chiang](https://ktxr.rs/d1/y/1688789982/0/e/lgrsfic/884000/2d0a5d26d98343f6fdc86575293b99c0.html~/2XA040zlRrHTm3dj_X0pEQ/understand-chiang-ted-2010-ted-chiang-understand--annas-archive.html)
-- [French Assembly to allow remote police surveillance via phone cameras and mics](https://www.engadget.com/french-assembly-passes-bill-allowing-police-to-remotely-activate-phone-cameras-and-microphones-for-surveillance-210539401.html)
+- [Google Street View returns to Germany after 10 Years](https://www.androidpolice.com/google-street-view-germany-after-10-years-privacy-outcry/)
+- [In Defence of DOM­Content­Loaded](https://csswizardry.com/2023/07/in-defence-of-domcontentloaded/)
+- [WebAssembly and Replayable Functions](https://www.bartoszsypytkowski.com/wasm-replayable-functions/)
+- [Binance execs quit over CEO CZ’s response to Justice Department investigation](https://fortune.com/crypto/2023/07/06/binance-crisis-executives-quit-changpeng-zhao-justice-department/)
+- [Albuquerque Techzonics](http://techzonics.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
