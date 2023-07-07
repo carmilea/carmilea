@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California strikes deal with engine makers on zero-emissions trucking by 2036](https://www.sacbee.com/news/politics-government/capitol-alert/article277068878.html)
-- [Charger outages leave northern Ontario EV drivers stranded](https://www.cbc.ca/news/canada/thunder-bay/ev-charger-outtages-northern-ontario-1.6895863)
-- [Closure, from why the lucky stiff &lpar;2013&rpar;](https://github.com/steveklabnik/CLOSURE)
-- [Civic honesty around the globe](https://www.science.org/doi/10.1126/science.aau8712)
-- [Amazon’s electric Rivian vans have delivered 150M packages](https://arstechnica.com/cars/2023/07/amazon-has-5000-rivian-ev-delivery-vans-on-the-road/)
+- [Type &lpar;YC W23&rpar; is hiring a founding engineer](https://www.ycombinator.com/companies/type/jobs/OXVqWSn-founding-engineer-at-type)
+- [The underground economy of Glassdoor reviews](https://www.careerfair.io/company-reviews)
+- [Gitlab.com is down](https://status.gitlab.com/)
+- [Experiencing decreased performance with ChatGPT-4](https://community.openai.com/t/experiencing-decreased-performance-with-chatgpt-4/234269)
+- [Going Rogue](https://www.filfre.net/2023/07/going-rogue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
