@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Once hailed for decriminalizing drugs, Portugal is now having doubts](https://www.washingtonpost.com/world/2023/07/07/portugal-drugs-decriminalization-heroin-crack/)
+- [Show HN: My platforming game written in C 89](https://zamfofex.neocities.org/mimimi/)
+- [ServiceNow Insecure Access Control to Full Admin Takeover](https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/)
+- [Intel VT-rp – Part 1. remapping attack and HLAT](https://tandasat.github.io/blog/2023/07/05/intel-vt-rp-part-1.html)
 - [Aviator &lpar;YC S21&rpar; is hiring engineers to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs)
-- [Godot&#39;s Introduction to Math for Game Developers](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html)
-- [Windows Tips, Tricks, and Tweaks](https://windows95tips.com)
-- [Factory Factory Factory](https://factoryfactoryfactory.net/)
-- [The Horrors of Pompeii](https://aeon.co/essays/what-pompeiis-ruins-say-about-its-enslaved-prostituted-women)
 <!-- BLOG-POST-LIST:END -->
 
 ---
