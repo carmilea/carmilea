@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Robotaxi haters in San Francisco are disabling the AVs with traffic cones](https://techcrunch.com/2023/07/06/robotaxi-haters-in-san-francisco-are-disabling-waymo-cruise-traffic-cones/)
+- [After Vietnam, the Philippines could be next to ban &#39;Barbie.&#39; Here&#39;s why](https://www.npr.org/2023/07/06/1186178724/barbie-movie-philippines-vietnam-china-map)
 - [Show HN: List &lpar;OPML&rpar; of Hacker News Users Personal Blogs](https://github.com/outcoldman/hackernews-personal-blogs)
-- [Bluesky partners with Namecheap to power domains as usernames](https://blueskyweb.xyz/blog/7-05-2023-namecheap)
-- [The World Might Be Better Off Without College for Everyone &lpar;2018&rpar;](https://www.theatlantic.com/magazine/archive/2018/01/whats-college-good-for/546590/)
-- [Microsoft Edge Pre-Installing Google Docs Offline Extension](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
-- [Tailwind and the Beauty of Ugly Code](https://boot-and-shoe.vercel.app/posts/skeptics-guide-to-tailwind)
+- [Understand by Ted Chiang](https://ktxr.rs/d1/y/1688789982/0/e/lgrsfic/884000/2d0a5d26d98343f6fdc86575293b99c0.html~/2XA040zlRrHTm3dj_X0pEQ/understand-chiang-ted-2010-ted-chiang-understand--annas-archive.html)
+- [French Assembly to allow remote police surveillance via phone cameras and mics](https://www.engadget.com/french-assembly-passes-bill-allowing-police-to-remotely-activate-phone-cameras-and-microphones-for-surveillance-210539401.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
