@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finley &lpar;YC W21&rpar; is a financial software company hiring for sales and engineering](https://www.finleycms.com/careers/)
+- [Seven people have acquired malaria in the US. They’re the first in 20 years](https://www.vox.com/science/2023/6/23/23771154/malaria-transmission-florida-texas-mosquitoes-risk-prevention-anopheles)
+- [Fedora considers “privacy-preserving” telemetry](https://lwn.net/Articles/937528/)
 - [Tell HN: Books Printed by Amazon](https://news.ycombinator.com/item?id=36629879)
-- [LOLBAS: Living Off the Land Binaries, Scripts and Libraries](https://lolbas-project.github.io/)
-- [32“ E Ink screen that displays daily newspapers on your wall](https://projecteink.com/pages/about)
-- [Git and Jupyter Notebooks Guide](https://www.reviewnb.com/git-jupyter-notebook-ultimate-guide)
-- [TeleSign profiles half of the world’s mobile phone users](https://noyb.eu/en/telesign-profiles-half-worlds-phone-users)
+- [Charter schools, social norming and zero-sum games](http://educationandstatistics.blogspot.com/2010/10/charter-schools-social-norming-and-zero.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
