@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Books Printed by Amazon](https://news.ycombinator.com/item?id=36629879)
+- [LOLBAS: Living Off the Land Binaries, Scripts and Libraries](https://lolbas-project.github.io/)
 - [32“ E Ink screen that displays daily newspapers on your wall](https://projecteink.com/pages/about)
+- [Git and Jupyter Notebooks Guide](https://www.reviewnb.com/git-jupyter-notebook-ultimate-guide)
 - [TeleSign profiles half of the world’s mobile phone users](https://noyb.eu/en/telesign-profiles-half-worlds-phone-users)
-- [The Styx Programming Language](https://gitlab.com/styx-lang/styx)
-- [List of Unix binaries that can be used to bypass local security restrictions](https://gtfobins.github.io/)
-- [Garbage Collection for MVCC – MyRocks, InnoDB and Postgres](http://smalldatum.blogspot.com/2023/04/gc-for-mvcc-myrocks-innodb-and-postgres.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
