@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DoorDash, Grubhub and Uber sue New York City over minimum wage law](https://www.cnn.com/2023/07/06/business/doordash-grubhub-uber-sue-new-york-minimum-wage-law/index.html)
+- [Show HN: List &lpar;OPML&rpar; of Hacker News Users Personal Blogs](https://github.com/outcoldman/hackernews-personal-blogs)
 - [Bluesky partners with Namecheap to power domains as usernames](https://blueskyweb.xyz/blog/7-05-2023-namecheap)
 - [The World Might Be Better Off Without College for Everyone &lpar;2018&rpar;](https://www.theatlantic.com/magazine/archive/2018/01/whats-college-good-for/546590/)
 - [Microsoft Edge Pre-Installing Google Docs Offline Extension](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
