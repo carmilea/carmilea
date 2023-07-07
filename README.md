@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Cybersecurity Frameworks: NIST, ISO, and More](https://www.thefinalhop.com/understanding-cybersecurity-frameworks-nist-iso-and-more/)
+- [Waterwave Could Quench AIs&#39; Thirst for GPU Memory](https://spectrum.ieee.org/ai-training)
 - [All the red flags in the Threads privacy policy](https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340)
-- [Attention Caplanites: School Is Less Wasteful Than You Think](https://infovores.substack.com/p/attention-caplanites-school-is-less)
-- [Why Nvidia Keeps Winning: The Rise of an AI Giant](https://www.chinatalk.media/p/why-nvidia-keeps-winning-the-rise)
+- [Why Nvidia Keeps Winning](https://www.chinatalk.media/p/why-nvidia-keeps-winning-the-rise)
 - [Air France denied my delay compensation, so I challenged them and won](https://airdisputes.com/air-france-denied-my-delay-compensation-so-i-challenged-them-and-won/)
-- [Annotated scripts of old Sierra games](https://www.benshoof.org/blog/sci-scripts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
