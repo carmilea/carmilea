@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Street View returns to Germany after 10 Years](https://www.androidpolice.com/google-street-view-germany-after-10-years-privacy-outcry/)
+- [Ask HN: How did you migrate off Evernote?](https://news.ycombinator.com/item?id=36628284)
+- [Openworm – a biological simulation of a worm with 302 neurons](https://github.com/openworm/OpenWorm)
+- [Homebrew&#39;s analytics have moved to the EU and away from Google](https://docs.brew.sh/Analytics)
 - [In Defence of DOM­Content­Loaded](https://csswizardry.com/2023/07/in-defence-of-domcontentloaded/)
-- [WebAssembly and Replayable Functions](https://www.bartoszsypytkowski.com/wasm-replayable-functions/)
-- [Binance execs quit over CEO CZ’s response to Justice Department investigation](https://fortune.com/crypto/2023/07/06/binance-crisis-executives-quit-changpeng-zhao-justice-department/)
-- [Albuquerque Techzonics](http://techzonics.com/)
+- [Simulation Testing for Liveness](https://tigerbeetle.com/blog/2023-07-06-simulation-testing-for-liveness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
