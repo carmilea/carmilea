@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How the new Threads app is made](https://www.emergetools.com/deep-dives/threads)
-- [TypeScript please give us types](https://github.com/akutruff/typescript-needs-types)
-- [Sinkholed: A DNS Horror Story &lpar;2019&rpar;](https://susam.net/blog/sinkholed.html)
-- [DARPA Seeks to Shield Blood from Fungal and Bacterial Pathogens](https://www.darpa.mil/news-events/2023-06-29)
-- [Goroutines: The concurrency model we wanted all along](https://jayconrod.com/posts/128/goroutines-the-concurrency-model-we-wanted-all-along)
+- [Aviator &lpar;YC S21&rpar; is hiring engineers to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs)
+- [Godot&#39;s Introduction to Math for Game Developers](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html)
+- [Windows Tips, Tricks, and Tweaks](https://windows95tips.com)
+- [Factory Factory Factory](https://factoryfactoryfactory.net/)
+- [The Horrors of Pompeii](https://aeon.co/essays/what-pompeiis-ruins-say-about-its-enslaved-prostituted-women)
 <!-- BLOG-POST-LIST:END -->
 
 ---
