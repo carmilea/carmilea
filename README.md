@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Collaboration &amp; Innovation at the Inaugural SingleStore Demothon](https://www.singlestore.com/blog/collaboration-innovation-at-the-inaugural-singlestore-demothon/)
-- [Choosing a Vector Database for Your Gen AI Stack](https://www.singlestore.com/blog/choosing-a-vector-database-for-your-gen-ai-stack/)
-- [Load Your Files in Seconds with Stage](https://www.singlestore.com/blog/load-your-files-in-seconds-with-stage/)
-- [How AWS Supports SingleStore and Our Customers](https://www.singlestore.com/blog/how-aws-supports-singlestore-and-our-customers/)
-- [Partnering For Success: Our June Tech Partner Update](https://www.singlestore.com/blog/partnering-for-success-our-june-tech-partner-update/)
+- [Charger outages leave northern Ontario EV drivers stranded](https://www.cbc.ca/news/canada/thunder-bay/ev-charger-outtages-northern-ontario-1.6895863)
+- [Closure, from Why_ the Lucky Stiff](https://github.com/steveklabnik/CLOSURE)
+- [Civic honesty around the globe](https://www.science.org/doi/10.1126/science.aau8712)
+- [The Invisible Reason for High Housing Prices: Restrictive Land-Use Regulations](https://www.strongtowns.org/journal/2023/7/5/the-invisible-reason-for-high-housing-prices-restrictive-land-use-regulations)
+- [Windows Update Restored: Fix Windows Update on Windows 95. 98, Me, 2000, and XP](http://windowsupdaterestored.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
