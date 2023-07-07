@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vit D supplementation and major cardiovascular events: D-Health randomised trial](https://www.bmj.com/content/381/bmj-2023-075230)
+- [Android Games on PC](https://play.google.com/googleplaygames)
+- [Oil Is Hard to Quit, Even in Norway Where Electric Cars Rule](https://www.bloomberg.com/news/articles/2023-07-07/oil-is-hard-to-quit-even-in-norway-where-electric-cars-rule-the-road)
 - [Finley &lpar;YC W21&rpar; is a financial software company hiring for sales and engineering](https://www.finleycms.com/careers/)
 - [Seven people have acquired malaria in the US. They’re the first in 20 years](https://www.vox.com/science/2023/6/23/23771154/malaria-transmission-florida-texas-mosquitoes-risk-prevention-anopheles)
-- [Fedora considers “privacy-preserving” telemetry](https://lwn.net/Articles/937528/)
-- [Tell HN: Books Printed by Amazon](https://news.ycombinator.com/item?id=36629879)
-- [Charter schools, social norming and zero-sum games](http://educationandstatistics.blogspot.com/2010/10/charter-schools-social-norming-and-zero.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
