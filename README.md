@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brave Browser deserves more love](https://github.com/brave/brave-browser)
+- [Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
+- [Carmakers don’t need ‘EV divisions,’ the whole company should go electric now](https://electrek.co/2023/07/06/carmakers-dont-need-ev-divisions-the-whole-company-should-go-electric-now/)
 - [Type &lpar;YC W23&rpar; is hiring a founding engineer](https://www.ycombinator.com/companies/type/jobs/OXVqWSn-founding-engineer-at-type)
 - [The underground economy of Glassdoor reviews](https://www.careerfair.io/company-reviews)
-- [Gitlab.com is down](https://status.gitlab.com/)
-- [Experiencing decreased performance with ChatGPT-4](https://community.openai.com/t/experiencing-decreased-performance-with-chatgpt-4/234269)
-- [Going Rogue](https://www.filfre.net/2023/07/going-rogue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
