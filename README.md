@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Introducing SingleStore Kai™](https://www.youtube.com/watch?v=3_dObDB-HVM)
 - [Customer Spotlight: Heap](https://www.youtube.com/watch?v=uhGkMkRNYiU)
-- [Product Demo: SingleStore Kai™ for MongoDB®](https://www.youtube.com/watch?v=TAWSfaqMrQg)
-- [Faster JSON Analytics in Five Minutes: SingleStore Kai™ for MongoDB®](https://www.youtube.com/watch?v=CvHm5DKwsSY)
 - [Introducing SingleStore Kai™ for MongoDB®](https://www.youtube.com/watch?v=uHTIdmrhyDo)
 - [Create Your SingleStore Kai™ Workspace](https://www.youtube.com/watch?v=mEwOO01hErI)
+- [Product Demo: Vectors on JSON](https://www.youtube.com/watch?v=wTgxJzNYPc4)
 <!-- YOUTUBE:END -->
 
 
