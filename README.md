@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [32“ E Ink screen that displays daily newspapers on your wall](https://projecteink.com/pages/about)
+- [TeleSign profiles half of the world’s mobile phone users](https://noyb.eu/en/telesign-profiles-half-worlds-phone-users)
+- [The Styx Programming Language](https://gitlab.com/styx-lang/styx)
 - [List of Unix binaries that can be used to bypass local security restrictions](https://gtfobins.github.io/)
 - [Garbage Collection for MVCC – MyRocks, InnoDB and Postgres](http://smalldatum.blogspot.com/2023/04/gc-for-mvcc-myrocks-innodb-and-postgres.html)
-- [Andreas Kling – Failure is also a habit](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/)
-- [Openworm – a biological simulation of a worm with 302 neurons](https://github.com/openworm/OpenWorm)
-- [Homebrew&#39;s analytics have moved to the EU and away from Google](https://docs.brew.sh/Analytics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
