@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tour de France: How the Most Challenging Race Became a $100M Business](https://huddleup.substack.com/p/tour-de-france-how-the-worlds-most)
+- [Langchain Is Pointless](https://old.reddit.com/r/LangChain/comments/13fcw36/langchain_is_pointless/)
+- [Flickr Foundation is building a new bridge between Flickr and Wikimedia Commons](https://diff.wikimedia.org/2023/07/07/flickr-foundation-is-building-a-new-bridge-between-flickr-and-wikimedia-commons/)
+- [Australia&#39;s great example of government using technology found crude and cruel](https://www.theregister.com/2023/07/07/robodebt_royal_comission_report_australia/)
+- [How the Tour de France became a $100M business](https://huddleup.substack.com/p/tour-de-france-how-the-worlds-most)
 - [Spying on a smartphone remotely by the authorities: feasibility and operation](https://security.stackexchange.com/questions/271146/spying-on-a-smartphone-remotely-by-the-authorities-feasibility-and-operation)
-- [Nifflas: “When an app asks for permission feed fake data” – Fosstodon](https://mastodon.gamedev.place/@Nifflas/110668040598715116)
-- [The ants go marching methodically](https://news.arizona.edu/story/ants-go-marching-%E2%80%A6-methodically)
-- [A $182B Chip Maker: AMD&#39;s Labs – Full Documentary [video]](https://www.youtube.com/watch?v=7H4eg2jOvVw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
