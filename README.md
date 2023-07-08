@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tour de France: How the Most Challenging Race Became a $100M Business](https://huddleup.substack.com/p/tour-de-france-how-the-worlds-most)
+- [Spying on a smartphone remotely by the authorities: feasibility and operation](https://security.stackexchange.com/questions/271146/spying-on-a-smartphone-remotely-by-the-authorities-feasibility-and-operation)
+- [Nifflas: “When an app asks for permission feed fake data” – Fosstodon](https://mastodon.gamedev.place/@Nifflas/110668040598715116)
+- [The ants go marching methodically](https://news.arizona.edu/story/ants-go-marching-%E2%80%A6-methodically)
 - [A $182B Chip Maker: AMD&#39;s Labs – Full Documentary [video]](https://www.youtube.com/watch?v=7H4eg2jOvVw)
-- [Going from React to Vanilla JavaScript](https://alexbezhan.substack.com/p/going-from-react-to-vanilla-js)
-- [How to Spot Fake Reviews on Amazon](https://www.wired.com/story/how-to-spot-fake-reviews-amazon/)
-- [Raytheon asks retirees for help making new Stinger anti-air missiles](https://www.popsci.com/technology/stinger-missiles-raytheon-ukraine/)
-- [Ford unleashes the UK’s first legal hands-free drive car – but who will buy it?](https://www.theguardian.com/business/2023/jul/08/ford-unleashes-the-uks-first-legal-hands-free-drive-car-but-who-will-buy-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
