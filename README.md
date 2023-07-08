@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google to explore alternatives to robots.txt](https://blog.google/technology/ai/ai-web-publisher-controls-sign-up/)
 - [RISC-V Assembly Programming](https://riscv-programming.org/)
 - [ZeroVer: 0-Based Versioning](https://0ver.org/)
 - [POP64 Released: Quad-Core Cortex-A53&lpar;12nm&rpar; 1GB LPDDR4 SiP at 18x16mm](https://shop.popcorncomputer.com/products/pop64-system-in-package-sip-ic)
 - [The Horror Game of the Year Is a Doom II Mod](https://kotaku.com/doom-2-free-mods-myhouse-download-gzdoom-goty-1850616515)
-- [Matrix Multiplication Using Only Addition](https://arxiv.org/abs/2307.01415)
 <!-- BLOG-POST-LIST:END -->
 
 ---
