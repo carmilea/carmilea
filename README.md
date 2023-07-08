@@ -55,7 +55,7 @@
 - [Google to explore alternatives to robots.txt](https://blog.google/technology/ai/ai-web-publisher-controls-sign-up/)
 - [Khoj: An AI Personal Assistant for Your Digital Brain](https://khoj.dev/)
 - [RISC-V Assembly Programming](https://riscv-programming.org/)
-- [ZeroVer: 0-Based Versioning](https://0ver.org/)
+- [LlamaIndex: Unleash the power of LLMs over your data](https://www.llamaindex.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
