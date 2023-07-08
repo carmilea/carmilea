@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Packing a string of digits into an integer quickly](https://lemire.me/blog/2023/07/07/packing-a-string-of-digits-into-an-integer-quickly/)
+- [Two corpse flowers are blooming in the U.S.](https://www.npr.org/2023/07/06/1186289347/corpse-flower-bloom-california-where-to-see-livestream-san-diego-francisco)
+- [Thought-Terminating Cliché](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9)
 - [A mysterious grey-hat is patching people&#39;s outdated MikroTik routers &lpar;2018&rpar;](https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/)
-- [Learn Electronics by Practice](https://beletronics.wordpress.com/)
-- [Container Training](https://container.training/)
-- [Why Use Pascal?](https://castle-engine.io/why_pascal)
-- [How and Why I Stopped Buying New Laptops &lpar;2020&rpar;](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
+- [Algae powers computer for a year using only light and water](https://www.anthropocenemagazine.org/2022/05/algae-powers-computer-for-a-year-using-only-light-and-water/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
