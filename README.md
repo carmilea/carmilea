@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An ARM Assembler Written in Lisp](http://forum.ulisp.com/t/an-arm-assembler-written-in-lisp/1237)
+- [San Francisco loses 2 big conferences](https://www.sfgate.com/bayarea/article/san-francisco-loses-meta-red-hat-conferences-18187573.php)
+- [Pokémon Go creator Niantic accused of ‘systemic sexual bias’ in lawsuit](https://www.theverge.com/2023/7/7/23787809/niantic-lawsuit-systemic-sexual-bias-pay-disparity)
+- [Reverse-engineering the 8086 processor&#39;s address and data pin circuits](https://www.righto.com/2023/07/8086-pins.html)
 - [Langchain Is Pointless](https://old.reddit.com/r/LangChain/comments/13fcw36/langchain_is_pointless/)
-- [Flickr Foundation is building a new bridge between Flickr and Wikimedia Commons](https://diff.wikimedia.org/2023/07/07/flickr-foundation-is-building-a-new-bridge-between-flickr-and-wikimedia-commons/)
-- [Australia&#39;s great example of government using technology found crude and cruel](https://www.theregister.com/2023/07/07/robodebt_royal_comission_report_australia/)
-- [How the Tour de France became a $100M business](https://huddleup.substack.com/p/tour-de-france-how-the-worlds-most)
-- [Spying on a smartphone remotely by the authorities: feasibility and operation](https://security.stackexchange.com/questions/271146/spying-on-a-smartphone-remotely-by-the-authorities-feasibility-and-operation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
