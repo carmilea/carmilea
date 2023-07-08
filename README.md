@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Succeed: Lessons from Sam Altman](https://aarushgupta.com/2023/07/08/success-sam-altman.html)
+- [A $182B Chip Maker: AMD&#39;s Labs – Full Documentary [video]](https://www.youtube.com/watch?v=7H4eg2jOvVw)
+- [Going from React to Vanilla JavaScript](https://alexbezhan.substack.com/p/going-from-react-to-vanilla-js)
+- [How to Spot Fake Reviews on Amazon](https://www.wired.com/story/how-to-spot-fake-reviews-amazon/)
+- [Raytheon asks retirees for help making new Stinger anti-air missiles](https://www.popsci.com/technology/stinger-missiles-raytheon-ukraine/)
 - [Ford unleashes the UK’s first legal hands-free drive car – but who will buy it?](https://www.theguardian.com/business/2023/jul/08/ford-unleashes-the-uks-first-legal-hands-free-drive-car-but-who-will-buy-it)
-- [If PEP 703 is accepted, Meta can commit three engineer-years to nogil CPython](https://discuss.python.org/t/a-fast-free-threading-python/27903?page=5)
-- [Scams upon scams: The data-driven advertising grift](https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift/)
-- [The other fruit company, Apricot](https://www.abortretry.fail/p/the-other-fruit-company-apricot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
