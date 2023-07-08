@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Train Your AI Model Once and Deploy on Any Cloud](https://developer.nvidia.com/blog/train-your-ai-model-once-and-deploy-on-any-cloud-with-nvidia-and-runai/)
-- [200 Frozen Heads and Bodies Await Revival at This Arizona Cryonics Facility](https://www.smithsonianmag.com/smart-news/200-frozen-heads-and-bodies-await-revival-at-this-arizona-cryonics-facility-180980981/)
-- [When did Alan Partridge first appear on television?](https://www.dirtyfeed.org/2023/07/better-on-television/)
-- [Khoj: An AI Personal Assistant for Your Digital Brain](https://khoj.dev/)
-- [RISC-V Assembly Programming](https://riscv-programming.org/)
+- [Meta pledges Three-Year sponsorship for Python if GIL removal is accepted](https://discuss.python.org/t/a-fast-free-threading-python/27903?page=5)
+- [The other fruit company, Apricot](https://www.abortretry.fail/p/the-other-fruit-company-apricot)
+- [Farmer ordered to pay &gt;$92K after confusion over meaning of thumbs-up emoji](https://www.abc.net.au/news/2023-07-08/canadian-farmer-pay-92k-fine-after-emoji-confusion/102579514)
+- [Super Drug](https://www.profgalloway.com/super-drug/)
+- [Experiments with plane-filling curves and Fourier transform](https://github.com/mxmlnkn/fft-image-experiments)
 <!-- BLOG-POST-LIST:END -->
 
 ---
