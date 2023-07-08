@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Last Place on Earth Any Tourist Should Go](https://www.theatlantic.com/science/archive/2023/07/antarctica-tourism-overcrowding-environmental-threat/674600/)
+- [Show HN: An Ethereum-authenticated community on Web3, science and technology](https://caches.xyz/)
+- [You Suck at Excel with Joel Spolsky [video]](https://www.youtube.com/watch?v=0nbkaYsR94c)
 - [Open Letter to Tim O’Reilly to Free the Perl Camel](https://news.ycombinator.com/item?id=36648949)
-- [Is Htmx Gaining in Popularity?](https://trends.builtwith.com/javascript/Htmx)
-- [Build Personal ChatGPT Using Your Data](https://github.com/raghavan/PdfGptIndexer)
-- [Packing a string of digits into an integer quickly](https://lemire.me/blog/2023/07/07/packing-a-string-of-digits-into-an-integer-quickly/)
-- [Two corpse flowers are blooming in the U.S.](https://www.npr.org/2023/07/06/1186289347/corpse-flower-bloom-california-where-to-see-livestream-san-diego-francisco)
+- [Open Sourcing the Nginx Playground](https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
