@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RISC-V Assembly Programming](https://riscv-programming.org/)
+- [ZeroVer: 0-Based Versioning](https://0ver.org/)
+- [POP64 Released: Quad-Core Cortex-A53&lpar;12nm&rpar; 1GB LPDDR4 SiP at 18x16mm](https://shop.popcorncomputer.com/products/pop64-system-in-package-sip-ic)
 - [The Horror Game of the Year Is a Doom II Mod](https://kotaku.com/doom-2-free-mods-myhouse-download-gzdoom-goty-1850616515)
-- [Apple Vision Pro may have VR Apple TV+ content at launch](https://appleinsider.com/articles/23/07/07/apple-tv-shows-may-have-been-filmed-for-apple-vision-pro-all-along)
 - [Matrix Multiplication Using Only Addition](https://arxiv.org/abs/2307.01415)
-- [ProtonMail Rewrites Your Emails](http://jfloren.net/b/2023/7/7/0)
-- [Show HN: My platforming game written in C 89](https://zamfofex.neocities.org/mimimi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
