@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Train Your AI Model Once and Deploy on Any Cloud](https://developer.nvidia.com/blog/train-your-ai-model-once-and-deploy-on-any-cloud-with-nvidia-and-runai/)
 - [When did Alan Partridge first appear on television?](https://www.dirtyfeed.org/2023/07/better-on-television/)
-- [Google to explore alternatives to robots.txt](https://blog.google/technology/ai/ai-web-publisher-controls-sign-up/)
 - [Khoj: An AI Personal Assistant for Your Digital Brain](https://khoj.dev/)
 - [RISC-V Assembly Programming](https://riscv-programming.org/)
 - [LlamaIndex: Unleash the power of LLMs over your data](https://www.llamaindex.ai/)
