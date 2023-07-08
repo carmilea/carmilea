@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A mysterious grey-hat is patching people&#39;s outdated MikroTik routers &lpar;2018&rpar;](https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/)
+- [Learn Electronics by Practice](https://beletronics.wordpress.com/)
 - [Container Training](https://container.training/)
-- [“It brings out the worst in everyone”: Workers are competing for their own jobs](https://www.bbc.com/worklife/article/20230703-it-brings-out-the-worst-in-everyone-why-some-workers-are-competing-for-their-own-jobs)
 - [Why Use Pascal?](https://castle-engine.io/why_pascal)
 - [How and Why I Stopped Buying New Laptops &lpar;2020&rpar;](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
-- [How to Verify Your Domain on Nostr and Bluesky &lpar;For Micro.blog Users&rpar;](https://mattlangford.com/2023/07/06/how-to-verify.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
