@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Vision Pro may have VR Apple TV+ content at launch](https://appleinsider.com/articles/23/07/07/apple-tv-shows-may-have-been-filmed-for-apple-vision-pro-all-along)
 - [Matrix Multiplication Using Only Addition](https://arxiv.org/abs/2307.01415)
-- [Ask HN: Could you please brutally review my product website?](https://www.perfai.ai)
 - [ProtonMail Rewrites Your Emails](http://jfloren.net/b/2023/7/7/0)
 - [Show HN: My platforming game written in C 89](https://zamfofex.neocities.org/mimimi/)
 - [ServiceNow Insecure Access Control to Full Admin Takeover](https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/)
