@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Container Training](https://container.training/)
 - [“It brings out the worst in everyone”: Workers are competing for their own jobs](https://www.bbc.com/worklife/article/20230703-it-brings-out-the-worst-in-everyone-why-some-workers-are-competing-for-their-own-jobs)
 - [Why Use Pascal?](https://castle-engine.io/why_pascal)
 - [How and Why I Stopped Buying New Laptops &lpar;2020&rpar;](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
-- [An ARM Assembler Written in Lisp](http://forum.ulisp.com/t/an-arm-assembler-written-in-lisp/1237)
-- [Reverse-engineering the 8086 processor&#39;s address and data pin circuits](https://www.righto.com/2023/07/8086-pins.html)
+- [How to Verify Your Domain on Nostr and Bluesky &lpar;For Micro.blog Users&rpar;](https://mattlangford.com/2023/07/06/how-to-verify.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
