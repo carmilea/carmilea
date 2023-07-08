@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Matrix Multiplication Using Only Addition](https://arxiv.org/abs/2307.01415)
+- [Ask HN: Could you please brutally review my product website?](https://www.perfai.ai)
+- [ProtonMail Rewrites Your Emails](http://jfloren.net/b/2023/7/7/0)
 - [Show HN: My platforming game written in C 89](https://zamfofex.neocities.org/mimimi/)
 - [ServiceNow Insecure Access Control to Full Admin Takeover](https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/)
-- [Intel VT-rp – Part 1. remapping attack and HLAT](https://tandasat.github.io/blog/2023/07/05/intel-vt-rp-part-1.html)
-- [Aviator &lpar;YC S21&rpar; is hiring engineers to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs)
-- [Introduction to math for game developers](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
