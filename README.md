@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Letter to Tim O’Reilly to Free the Perl Camel](https://news.ycombinator.com/item?id=36648949)
+- [Is Htmx Gaining in Popularity?](https://trends.builtwith.com/javascript/Htmx)
+- [Build Personal ChatGPT Using Your Data](https://github.com/raghavan/PdfGptIndexer)
 - [Packing a string of digits into an integer quickly](https://lemire.me/blog/2023/07/07/packing-a-string-of-digits-into-an-integer-quickly/)
 - [Two corpse flowers are blooming in the U.S.](https://www.npr.org/2023/07/06/1186289347/corpse-flower-bloom-california-where-to-see-livestream-san-diego-francisco)
-- [Thought-Terminating Cliché](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9)
-- [A mysterious grey-hat is patching people&#39;s outdated MikroTik routers &lpar;2018&rpar;](https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/)
-- [Algae powers computer for a year using only light and water](https://www.anthropocenemagazine.org/2022/05/algae-powers-computer-for-a-year-using-only-light-and-water/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
