@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta pledges Three-Year sponsorship for Python if GIL removal is accepted](https://discuss.python.org/t/a-fast-free-threading-python/27903?page=5)
+- [How to Succeed: Lessons from Sam Altman](https://aarushgupta.com/2023/07/08/success-sam-altman.html)
+- [Ford unleashes the UK’s first legal hands-free drive car – but who will buy it?](https://www.theguardian.com/business/2023/jul/08/ford-unleashes-the-uks-first-legal-hands-free-drive-car-but-who-will-buy-it)
+- [If PEP 703 is accepted, Meta can commit three engineer-years to nogil CPython](https://discuss.python.org/t/a-fast-free-threading-python/27903?page=5)
+- [Scams upon scams: The data-driven advertising grift](https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift/)
 - [The other fruit company, Apricot](https://www.abortretry.fail/p/the-other-fruit-company-apricot)
-- [Farmer ordered to pay &gt;$92K after confusion over meaning of thumbs-up emoji](https://www.abc.net.au/news/2023-07-08/canadian-farmer-pay-92k-fine-after-emoji-confusion/102579514)
-- [Super Drug](https://www.profgalloway.com/super-drug/)
-- [Experiments with plane-filling curves and Fourier transform](https://github.com/mxmlnkn/fft-image-experiments)
 <!-- BLOG-POST-LIST:END -->
 
 ---
