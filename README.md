@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The internet&#39;s “town square” is dead](https://www.theintrinsicperspective.com/p/the-internets-town-square-is-dead)
+- [Color Appearance and the End of Hering’s Opponent-Colors Theory](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(23)00147-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS136466132300147X%3Fshowall%3Dtrue)
 - [Don&#39;t Take VC Funding – It Will Destroy Your Company](https://www.eidel.io/2023/07/09/vc-funding/)
 - [Open Weights](https://github.com/Open-Weights/Definition)
-- [A Compressive Light Field Projection System &lpar;2014&rpar;](https://web.media.mit.edu/~gordonw/CompressiveLightFieldProjector/)
-- [America&#39;s first law regulating AI bias in hiring takes effect](https://qz.com/americas-first-law-regulating-ai-bias-in-hiring-takes-e-1850602243)
-- [The National Park That Was Stolen to Death](https://www.atlasobscura.com/articles/fossil-cycad-national-monument-stolen-george-wieland)
+- [A solar storm on Thu is expected to make Northern Lights visible in 17 states](https://apnews.com/article/auroras-northern-lights-solar-storm-58f8d99d746bed1c656170a4a38d6362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
