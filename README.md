@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Web Assembly Shaper](https://github.com/harfbuzz/harfbuzz/blob/main/docs/wasm-shaper.md)
+- [Linux Lite: Easy to Use Free Linux Operating System](https://www.linuxliteos.com/)
 - [AMD Ryzen 7 7840U Performance Benchmarks on Linux](https://www.phoronix.com/review/amd-ryzen7-7840u)
-- [The HTTP status code for a web server&#39;s default “hello” front page](https://utcc.utoronto.ca/~cks/space/blog/web/WebServerDefaultNotThere)
 - [Google&#39;s Privacy Policy Now Admits to Collecting All Your Data for AI Training](https://www.pcgamer.com/in-case-there-was-any-doubt-googles-privacy-policy-now-explicitly-states-that-its-going-to-suck-up-all-your-data-to-train-its-ai/)
 - [KDE for Travelers](https://kde.org/for/travelers/)
-- [Specular Holography: How &lpar;2010&rpar;](http://zintaglio.com/how.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
