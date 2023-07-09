@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Perl first commit: a “replacement” for Awk and sed](https://github.com/Perl/perl5/commit/8d063cd8450e59ea1c611a2f4f5a21059a2804f1)
 - [California needs real math education, not gimmicks](https://www.noahpinion.blog/p/california-needs-real-math-education)
-- [Pocket: It gets worse the more you use it](https://web.archive.org/web/20190512092903/https://old.reddit.com/r/dredmorbius/comments/5x2sfx/pocket_it_gets_worse_the_more_you_use_it/)
-- [The First Machine Unlearning Challenge – Google Research Blog](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
-- [Bluesky: Building a Social Internet](https://blueskyweb.xyz/)
+- [Pocket gets worse the more you use it &lpar;2019&rpar;](https://web.archive.org/web/20190512092903/https://old.reddit.com/r/dredmorbius/comments/5x2sfx/pocket_it_gets_worse_the_more_you_use_it/)
+- [Machine Unlearning Challenge](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
+- [Open Sourcing the Nginx Playground](https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
