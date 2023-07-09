@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: When were flagged submissions/comments added to the profile page?](https://news.ycombinator.com/item?id=36657663)
+- [Amateurs obsess over tools, pros over mastery](https://adamsinger.substack.com/p/amateurs-obsess-over-tools-pros-over)
+- [Meta Threads logo appears to be a copy of German brand apotheken.de](https://old.reddit.com/r/Design/comments/14uzurq/threads_logo_appears_to_be_a_copy_of_german_brand/)
 - [The mathematically correct way to tie your shoes](https://bigthink.com/starts-with-a-bang/math-tie-shoes-correct/)
 - [PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
-- [Difference Between Implicit and Explicit Animations in SwiftUI](https://holyswift.app/difference-between-implicit-and-explicit-animations-in-swiftui/)
-- [Deputy US Marshal pleads guilty to obtaining cell phone location unlawfully [pdf]](https://oig.justice.gov/sites/default/files/2023-07/06-30-2023b.pdf)
-- [US spies are buying Americans’ data – Congress has a new chance to stop it](https://www.wired.com/story/ndaa-2023-davidson-jacobs-fourth-amendment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
