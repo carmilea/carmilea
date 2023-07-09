@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Buying Apple’s Vision Pro headset could require an appointment and a face scan](https://www.theverge.com/2023/7/7/23786865/apple-vision-pro-headset-store-retail-face-scan)
+- [Bay Area tech company Evernote lays off most staff, relocating to Europe](https://www.sfgate.com/tech/article/evernote-layoffs-moving-to-europe-18190083.php)
 - [Introduction to ActivityPub](https://socialhub.activitypub.rocks/t/introduction-to-activitypub/508)
+- [Show HN: Digger – an Open Source Terraform automation and collaboration tool](https://github.com/diggerhq/digger)
 - [A new method for packing objects inside a rigid container](https://techxplore.com/news/2023-07-method-dense-placement-rigid.html)
-- [Fairphone 4 is coming to the US](https://arstechnica.com/gadgets/2023/07/fairphone-is-coming-to-america/)
-- [The Development of the C Language &lpar;1993&rpar;](https://www.bell-labs.com/usr/dmr/www/chist.html)
-- [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
