@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Last Place on Earth Any Tourist Should Go](https://www.theatlantic.com/science/archive/2023/07/antarctica-tourism-overcrowding-environmental-threat/674600/)
-- [Show HN: An Ethereum-authenticated community on Web3, science and technology](https://caches.xyz/)
-- [You Suck at Excel with Joel Spolsky [video]](https://www.youtube.com/watch?v=0nbkaYsR94c)
-- [Open Letter to Tim O’Reilly to Free the Perl Camel](https://news.ycombinator.com/item?id=36648949)
-- [Open Sourcing the Nginx Playground](https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/)
+- [Perl first commit: a “replacement” for Awk and sed](https://github.com/Perl/perl5/commit/8d063cd8450e59ea1c611a2f4f5a21059a2804f1)
+- [California needs real math education, not gimmicks](https://www.noahpinion.blog/p/california-needs-real-math-education)
+- [Pocket: It gets worse the more you use it](https://web.archive.org/web/20190512092903/https://old.reddit.com/r/dredmorbius/comments/5x2sfx/pocket_it_gets_worse_the_more_you_use_it/)
+- [The First Machine Unlearning Challenge – Google Research Blog](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
+- [Bluesky: Building a Social Internet](https://blueskyweb.xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
