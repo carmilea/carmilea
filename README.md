@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“C is quirky, flawed, and an enormous success” – Dennis Ritchie &lpar;1993&rpar;](https://www.bell-labs.com/usr/dmr/www/chist.html)
+- [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
 - [The Web Assembly Shaper](https://github.com/harfbuzz/harfbuzz/blob/main/docs/wasm-shaper.md)
+- [Story Behind Hackathon Photo](https://frantic.im/story-behind-hackathon-photo/)
 - [Linux Lite: Easy to Use Free Linux Operating System](https://www.linuxliteos.com/)
-- [AMD Ryzen 7 7840U Performance Benchmarks on Linux](https://www.phoronix.com/review/amd-ryzen7-7840u)
-- [Google&#39;s Privacy Policy Now Admits to Collecting All Your Data for AI Training](https://www.pcgamer.com/in-case-there-was-any-doubt-googles-privacy-policy-now-explicitly-states-that-its-going-to-suck-up-all-your-data-to-train-its-ai/)
-- [KDE for Travelers](https://kde.org/for/travelers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
