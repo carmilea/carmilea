@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: When were flagged submissions/comments added to the profile page?](https://news.ycombinator.com/item?id=36657663)
-- [Amateurs obsess over tools, pros over mastery](https://adamsinger.substack.com/p/amateurs-obsess-over-tools-pros-over)
-- [Meta Threads logo appears to be a copy of German brand apotheken.de](https://old.reddit.com/r/Design/comments/14uzurq/threads_logo_appears_to_be_a_copy_of_german_brand/)
-- [The mathematically correct way to tie your shoes](https://bigthink.com/starts-with-a-bang/math-tie-shoes-correct/)
-- [PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
+- [Using Lidar to map tree shadows](https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap)
+- [Bevy 0.11: ECS-driven game engine built in Rust](https://bevyengine.org/news/bevy-0-11/)
+- [Godot 4.1, new Linux Laptop and phone, GNOME 45, China&#39;s distro: FOSS Weekly](https://fossweekly.beehiiv.com/p/foss-weekly-47-godot-4-1-new-linux-laptop-and-phone-gnome-45-china-s-distro-and-more)
+- [Harvard Discriminates Against Middle-Class Kids](https://www.wsj.com/articles/harvard-discriminates-against-middle-class-kids-legacy-admissions-court-85cf4503)
+- [Sarah Silverman is suing OpenAI and Meta for copyright infringement](https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
