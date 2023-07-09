@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fairphone 4–the repairable, sustainable smartphone–is coming to the US](https://arstechnica.com/gadgets/2023/07/fairphone-is-coming-to-america/)
-- [“C is quirky, flawed, and an enormous success” – Dennis Ritchie &lpar;1993&rpar;](https://www.bell-labs.com/usr/dmr/www/chist.html)
-- [The Era of ‘Quantitative Aesthetics,’ Where Data Points Dictate Taste](https://news.artnet.com/opinion/quantitative-aesthetics-2276351)
+- [Introduction to ActivityPub](https://socialhub.activitypub.rocks/t/introduction-to-activitypub/508)
+- [A new method for packing objects inside a rigid container](https://techxplore.com/news/2023-07-method-dense-placement-rigid.html)
+- [Fairphone 4 is coming to the US](https://arstechnica.com/gadgets/2023/07/fairphone-is-coming-to-america/)
+- [The Development of the C Language &lpar;1993&rpar;](https://www.bell-labs.com/usr/dmr/www/chist.html)
 - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
-- [Test Against Reality](https://borretti.me/article/test-against-reality)
 <!-- BLOG-POST-LIST:END -->
 
 ---
