@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The HTTP status code for a web server&#39;s default “hello” front page](https://utcc.utoronto.ca/~cks/space/blog/web/WebServerDefaultNotThere)
+- [Google&#39;s Privacy Policy Now Admits to Collecting All Your Data for AI Training](https://www.pcgamer.com/in-case-there-was-any-doubt-googles-privacy-policy-now-explicitly-states-that-its-going-to-suck-up-all-your-data-to-train-its-ai/)
 - [KDE for Travelers](https://kde.org/for/travelers/)
 - [Specular Holography: How &lpar;2010&rpar;](http://zintaglio.com/how.html)
-- [Perl first commit: a “replacement” for Awk and sed](https://github.com/Perl/perl5/commit/8d063cd8450e59ea1c611a2f4f5a21059a2804f1)
-- [California needs real math education, not gimmicks](https://www.noahpinion.blog/p/california-needs-real-math-education)
+- [Show HN: An index of all monthly dividend stocks](https://thedividendlist.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
