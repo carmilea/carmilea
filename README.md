@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The internet&#39;s “town square” is dead](https://www.theintrinsicperspective.com/p/the-internets-town-square-is-dead)
-- [Color Appearance and the End of Hering’s Opponent-Colors Theory](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(23)00147-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS136466132300147X%3Fshowall%3Dtrue)
-- [Don&#39;t Take VC Funding – It Will Destroy Your Company](https://www.eidel.io/2023/07/09/vc-funding/)
-- [Open Weights](https://github.com/Open-Weights/Definition)
-- [A solar storm on Thu is expected to make Northern Lights visible in 17 states](https://apnews.com/article/auroras-northern-lights-solar-storm-58f8d99d746bed1c656170a4a38d6362)
+- [PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
+- [Ask HN: What happened to Web3 startups?](https://news.ycombinator.com/item?id=36655816)
+- [Difference Between Implicit and Explicit Animations in SwiftUI](https://holyswift.app/difference-between-implicit-and-explicit-animations-in-swiftui/)
+- [Deputy US Marshal pleads guilty to obtaining cell phone location unlawfully [pdf]](https://oig.justice.gov/sites/default/files/2023-07/06-30-2023b.pdf)
+- [Color appearance and the end of Hering’s Opponent-Colors theory](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(23)00147-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS136466132300147X%3Fshowall%3Dtrue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
