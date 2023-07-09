@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla ending support for Windows 7](https://blog.mozilla.org/futurereleases/2023/07/06/firefox-support-for-windows-7-8-and-8-1/)
+- [The PinePhone modem SDK: a free-software baseband firmware](https://github.com/the-modem-distro/pinephone_modem_sdk)
+- [Polynomial Functors: A Mathematical Theory of Interaction [pdf]](https://topos.site/poly-book.pdf)
 - [It Took Me a Decade to Find the Perfect Personal Website Stack – Ghost+Fathom](https://davidgomes.com/it-took-me-a-decade-to-find-the-perfect-personal-website-stack/)
 - [Why engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
-- [Clojure Plays Mario](https://blog.phronemophobic.com/mairio.html)
-- [The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
-- [An Alerting Vista of macOS Sonoma](https://furbo.org/2023/07/09/an-alerting-vista-of-sonoma/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
