@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fairphone 4–the repairable, sustainable smartphone–is coming to the US](https://arstechnica.com/gadgets/2023/07/fairphone-is-coming-to-america/)
 - [“C is quirky, flawed, and an enormous success” – Dennis Ritchie &lpar;1993&rpar;](https://www.bell-labs.com/usr/dmr/www/chist.html)
+- [The Era of ‘Quantitative Aesthetics,’ Where Data Points Dictate Taste](https://news.artnet.com/opinion/quantitative-aesthetics-2276351)
 - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
-- [The Web Assembly Shaper](https://github.com/harfbuzz/harfbuzz/blob/main/docs/wasm-shaper.md)
-- [Story Behind Hackathon Photo](https://frantic.im/story-behind-hackathon-photo/)
-- [Linux Lite: Easy to Use Free Linux Operating System](https://www.linuxliteos.com/)
+- [Test Against Reality](https://borretti.me/article/test-against-reality)
 <!-- BLOG-POST-LIST:END -->
 
 ---
