@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Buying Apple’s Vision Pro headset could require an appointment and a face scan](https://www.theverge.com/2023/7/7/23786865/apple-vision-pro-headset-store-retail-face-scan)
-- [Bay Area tech company Evernote lays off most staff, relocating to Europe](https://www.sfgate.com/tech/article/evernote-layoffs-moving-to-europe-18190083.php)
-- [Introduction to ActivityPub](https://socialhub.activitypub.rocks/t/introduction-to-activitypub/508)
-- [Show HN: Digger – an Open Source Terraform automation and collaboration tool](https://github.com/diggerhq/digger)
-- [A new method for packing objects inside a rigid container](https://techxplore.com/news/2023-07-method-dense-placement-rigid.html)
+- [Don&#39;t Take VC Funding – It Will Destroy Your Company](https://www.eidel.io/2023/07/09/vc-funding/)
+- [Open Weights](https://github.com/Open-Weights/Definition)
+- [A Compressive Light Field Projection System &lpar;2014&rpar;](https://web.media.mit.edu/~gordonw/CompressiveLightFieldProjector/)
+- [America&#39;s first law regulating AI bias in hiring takes effect](https://qz.com/americas-first-law-regulating-ai-bias-in-hiring-takes-e-1850602243)
+- [The National Park That Was Stolen to Death](https://www.atlasobscura.com/articles/fossil-cycad-national-monument-stolen-george-wieland)
 <!-- BLOG-POST-LIST:END -->
 
 ---
