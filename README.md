@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: Just moved to SF. How can I leverage my new location to skill up in dev?](https://news.ycombinator.com/item?id=36661845)
-- [GPTrolley – Who Would GPT Save in the Trolley Problem?](https://www.gptrolley.com/)
-- [Python in 2023 still sucks at importing modules from another folder](https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder/50194143#50194143)
 - [Show HN: React95 – a React components library recreating the look of Windows 95](https://github.com/React95/React95)
 - [3M reaches $10.3B settlement over PFAS contamination of water systems](https://www.npr.org/2023/06/22/1183922303/3m-reaches-10-3-billion-settlement-over-contamination-of-water-systems)
+- [&#39;Forever chemicals&#39; could be in nearly half of US tap water, federal study finds](https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds)
+- [Sarah Silverman sues Meta, OpenAI for copyright infringement](https://www.reuters.com/legal/sarah-silverman-sues-meta-openai-copyright-infringement-2023-07-09/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
