@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Throw – A space for asking and answering questions anonymously](https://www.trythrow.com)
+- [Self-hosted photo and video backup solution directly from your mobile phone](https://github.com/immich-app/immich)
+- [Show HN: A hash array-mapped trie implementation in C](https://github.com/mkirchner/hamt)
 - [Fathom AI Notetaker &lpar;YC W21&rpar; is hiring a staff engineer &lpar;remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-staff-engineer-full-stack-remote)
-- [Tumblr’s Core Product Strategy](https://staff.tumblr.com/post/722477242948747264/tumblrs-core-product-strategy)
 - [Postmortem: Co-founding a Web3 startup as a crypto skeptic young dev](https://anicetnougaret.fr/blog/farswap-xp)
-- [Linoleic acid–good or bad for the brain?](https://www.nature.com/articles/s41538-019-0061-9)
-- [Show HN: The full source code and assets for my custom game engine and game](https://news.ycombinator.com/item?id=36672183)
 <!-- BLOG-POST-LIST:END -->
 
 ---
