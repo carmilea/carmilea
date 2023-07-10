@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes SidecarContainers feature is merged](https://github.com/kubernetes/kubernetes/pull/116429)
+- [Evernote has laid off most of its US staff and will move operations to Europe](https://www.theverge.com/2023/7/9/23789012/evernote-layoff-us-staff-bending-spoons-note-taking-app)
+- [Show HN: Workout.lol – a web app to easily create a workout routine](https://workout.lol)
 - [Japanese textile factory still uses tape cassette and punch cards [video]](https://www.youtube.com/watch?v=zWJZFQHklBg)
 - [Mistakes with Rust smart pointers: when Deref goes wrong](https://www.fuzzypixelz.com/blog/deref-confusion/)
-- [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
-- [Hierarchical Navigable Small Worlds](https://zilliz.com/blog/hierarchical-navigable-small-worlds-HNSW)
-- [Show HN: React95 – A React components library recreating the look of Windows 95](https://github.com/React95/React95)
 <!-- BLOG-POST-LIST:END -->
 
 ---
