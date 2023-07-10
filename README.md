@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads isn&#39;t ever going to connect to Mastodon, so stop pretending that it is](https://knollslaw.substack.com/p/metas-threads-app-isnt-ever-going)
 - [Tuition costs have risen 710% since 1983 &lpar;1200% since 1980&rpar;. Inflation: 194%](https://statecraft.beehiiv.com/p/student-loan-debt-forgiveness)
+- [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [Lima: A nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)
-- [Apple VisionOS Simulator streaming wirelessly to Meta Quest headset](https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr)
-- [New study reveals most classic video games are unavailable](https://gamehistory.org/87percent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
