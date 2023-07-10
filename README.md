@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2048 Bit RSA and the Year 2030](https://articles.59.ca/doku.php?id=em:20482030)
-- [I spent $855.77 on Google Ads and got my ads banned 5 times](https://www.lydiaoncybersecurity.com/launching-my-startup-incubator/)
-- [Ask HN: What tech newsletters are you currently subscribing?](https://news.ycombinator.com/item?id=36671105)
-- [FreeShip Plus in Lazarus – an open-source software for boat and hull design](https://github.com/markmal/freeship-plus-in-lazarus)
-- [Tuition costs have risen 710% since 1983](https://statecraft.beehiiv.com/p/student-loan-debt-forgiveness)
+- [Fathom AI Notetaker &lpar;YC W21&rpar; is hiring a staff engineer &lpar;remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-staff-engineer-full-stack-remote)
+- [Tumblr’s Core Product Strategy](https://staff.tumblr.com/post/722477242948747264/tumblrs-core-product-strategy)
+- [Postmortem: Co-founding a Web3 startup as a crypto skeptic young dev](https://anicetnougaret.fr/blog/farswap-xp)
+- [Linoleic acid–good or bad for the brain?](https://www.nature.com/articles/s41538-019-0061-9)
+- [Show HN: The full source code and assets for my custom game engine and game](https://news.ycombinator.com/item?id=36672183)
 <!-- BLOG-POST-LIST:END -->
 
 ---
