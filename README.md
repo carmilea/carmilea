@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Throw – A space for asking and answering questions anonymously](https://www.trythrow.com)
-- [Self-hosted photo and video backup solution directly from your mobile phone](https://github.com/immich-app/immich)
+- [Show HN: Learn Japanese by Reading on iOS and macOS &lpar;SwiftUI&rpar;](https://reader.manabi.io/#page-top)
+- [Shortening the Let&#39;s Encrypt Chain of Trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
+- [US Army Physical Fitness Test &lpar;APFT&rpar;: Normative Data on 6022 Soldiers &lpar;1994&rpar;](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/ADA274547.xhtml)
+- [Self-hosted photo and video backups directly from your mobile phone](https://github.com/immich-app/immich)
 - [Show HN: A hash array-mapped trie implementation in C](https://github.com/mkirchner/hamt)
-- [Fathom AI Notetaker &lpar;YC W21&rpar; is hiring a staff engineer &lpar;remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-staff-engineer-full-stack-remote)
-- [Postmortem: Co-founding a Web3 startup as a crypto skeptic young dev](https://anicetnougaret.fr/blog/farswap-xp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
