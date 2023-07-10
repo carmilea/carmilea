@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Idiot Customers Will Accidentally Cancel Their Subscriptions If It&#39;s Too Easy](https://gizmodo.com/cancel-subscription-ftc-click-to-cancel-pushback-1850615222)
-- [Are the Americans Awake?](https://are-the-americans-awake.yusuf.fyi/)
-- [Instagram Threads hits 100M users, becoming the fastest growing app](https://www.independent.co.uk/tech/instagram-threads-twitter-users-elon-musk-million-b2372336.html)
-- [Nitter &lpar;Twitter front end&rpar; is working again](https://github.com/zedeus/nitter/pull/927)
-- [Harvard ethics prof fabricated multiple behavioral science studies](https://www.thecollegefix.com/harvard-ethics-professor-allegedly-fabricated-multiple-behavioral-science-studies/)
+- [Dashcam images reveal where police are deployed](https://news.cornell.edu/stories/2023/07/dashcam-images-reveal-where-police-are-deployed)
+- [Findly &lpar;YC S22&rpar; Is Hiring a Founding Front End Engineer &lpar;London, UK&rpar;](https://www.ycombinator.com/companies/findly/jobs/P34FKAV-senior-frontend-software-engineer)
+- [Hilbert Transform](https://electroagenda.com/en/hilbert-transform/)
+- [Medical LLM testing shows good signs](https://bensbites.beehiiv.com/p/medical-llms-testing-shows-good-signs)
+- [Firefox Address Bar Tips](https://wiki.tilde.institute/w/firefox-address-bar-tips)
 <!-- BLOG-POST-LIST:END -->
 
 ---
