@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mozilla ending support for Windows 7](https://blog.mozilla.org/futurereleases/2023/07/06/firefox-support-for-windows-7-8-and-8-1/)
-- [The PinePhone modem SDK: a free-software baseband firmware](https://github.com/the-modem-distro/pinephone_modem_sdk)
-- [Polynomial Functors: A Mathematical Theory of Interaction [pdf]](https://topos.site/poly-book.pdf)
-- [It Took Me a Decade to Find the Perfect Personal Website Stack – Ghost+Fathom](https://davidgomes.com/it-took-me-a-decade-to-find-the-perfect-personal-website-stack/)
-- [Why engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
+- [3M reaches $10.3B settlement over PFAS contamination of water systems](https://www.npr.org/2023/06/22/1183922303/3m-reaches-10-3-billion-settlement-over-contamination-of-water-systems)
+- [Ask HN: &lpar;How much&rpar; do you get paid for being on call?](https://news.ycombinator.com/item?id=36660606)
+- [&#39;Forever chemicals&#39; could be in nearly half of US tap water, federal study finds](https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds)
+- [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
+- [PinePhone Modem SDK](https://github.com/the-modem-distro/pinephone_modem_sdk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
