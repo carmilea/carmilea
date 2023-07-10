@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dashcam images reveal where police are deployed](https://news.cornell.edu/stories/2023/07/dashcam-images-reveal-where-police-are-deployed)
-- [Findly &lpar;YC S22&rpar; Is Hiring a Founding Front End Engineer &lpar;London, UK&rpar;](https://www.ycombinator.com/companies/findly/jobs/P34FKAV-senior-frontend-software-engineer)
-- [Hilbert Transform](https://electroagenda.com/en/hilbert-transform/)
-- [Medical LLM testing shows good signs](https://bensbites.beehiiv.com/p/medical-llms-testing-shows-good-signs)
-- [Firefox Address Bar Tips](https://wiki.tilde.institute/w/firefox-address-bar-tips)
+- [Show HN: Danswer – open-source question answering across all your docs](https://github.com/danswer-ai/danswer)
+- [Canonical and IBM Are Turning Ubuntu and Fedora into Microsoft Windows](http://techrights.org/2023/07/09/corporate-distros/)
+- [Stéphane Graber has left Canonical](https://stgraber.org/2023/07/10/time-to-move-on/)
+- [EdgeNode: Deploy Serverless Containers on Edge](https://edgenode.com/)
+- [EU signs off on data transfers deal with US](https://www.politico.eu/article/eu-signs-off-on-data-transfers-deal-with-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
