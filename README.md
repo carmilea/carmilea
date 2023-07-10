@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Harvard ethics prof fabricated multiple behavioral science studies](https://www.thecollegefix.com/harvard-ethics-professor-allegedly-fabricated-multiple-behavioral-science-studies/)
+- [Debate over &#39;fake work&#39; in tech industry misses the real culprit: lazy managers](https://www.businessinsider.com/tech-industry-fake-work-problem-bad-managers-bosses-layoffs-jobs-2023-7)
+- [Using SVG to create simple sparkline charts](https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/)
 - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
-- [Rain Hashes](https://github.com/dosyago/rain)
 - [Greek shipwreck: hi-tech investigation suggests coastguard responsible](https://www.theguardian.com/global-development/2023/jul/10/greek-shipwreck-hi-tech-investigation-suggests-coastguard-responsible-for-sinking)
-- [Amazon Prime Video’s Microservices Move Doesn’t Lead to a Monolith After All](https://thenewstack.io/amazon-prime-videos-microservices-move-doesnt-lead-to-a-monolith-after-all/)
-- [OwnCloud Infinite Scale added EULA that prohibits commercial use [pdf]](https://github.com/owncloud/ocis/blob/master/assets/End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
