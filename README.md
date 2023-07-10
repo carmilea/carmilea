@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Study: 87% of classic video games are not legally available](https://gamehistory.org/87percent/)
-- [First U.S. Ban on Sale of Cellphone Location Data Might Be Coming](https://www.wsj.com/articles/first-u-s-ban-on-sale-of-cellphone-location-data-might-be-coming-fbe47e53)
-- [Keep Linux Open and Free–We Can’t Afford Not To](https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/)
-- [Show HN: Danswer – Open-source question answering across all your docs](https://github.com/danswer-ai/danswer)
-- [The Physicist Who’s Challenging the Quantum Orthodoxy](https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/)
+- [Tuition costs have risen 710% since 1983 &lpar;1200% since 1980&rpar;. Inflation: 194%](https://statecraft.beehiiv.com/p/student-loan-debt-forgiveness)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Lima: A nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)
+- [Apple VisionOS Simulator streaming wirelessly to Meta Quest headset](https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr)
+- [New study reveals most classic video games are unavailable](https://gamehistory.org/87percent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
