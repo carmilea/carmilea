@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Just moved to SF. How can I leverage my new location to skill up in dev?](https://news.ycombinator.com/item?id=36661845)
-- [Show HN: React95 – a React components library recreating the look of Windows 95](https://github.com/React95/React95)
-- [3M reaches $10.3B settlement over PFAS contamination of water systems](https://www.npr.org/2023/06/22/1183922303/3m-reaches-10-3-billion-settlement-over-contamination-of-water-systems)
-- [&#39;Forever chemicals&#39; could be in nearly half of US tap water, federal study finds](https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds)
-- [Sarah Silverman sues Meta, OpenAI for copyright infringement](https://www.reuters.com/legal/sarah-silverman-sues-meta-openai-copyright-infringement-2023-07-09/)
+- [Japanese textile factory still uses tape cassette and punch cards](https://www.youtube.com/watch?v=zWJZFQHklBg)
+- [Mistakes with Rust smart pointers: when Deref goes wrong](https://www.fuzzypixelz.com/blog/deref-confusion/)
+- [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
+- [Hierarchical Navigable Small Worlds](https://zilliz.com/blog/hierarchical-navigable-small-worlds-HNSW)
+- [Show HN: React95 – A React components library recreating the look of Windows 95](https://github.com/React95/React95)
 <!-- BLOG-POST-LIST:END -->
 
 ---
