@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rain Hashes](https://github.com/dosyago/rain)
+- [OwnCloud Infinite Scale added EULA that prohibits commercial use [pdf]](https://github.com/owncloud/ocis/blob/master/assets/End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf)
+- [A biological camera that captures and stores images directly into DNA](https://www.nature.com/articles/s41467-023-38876-w)
 - [Uber, DoorDash Sue NYC to Stop Delivery Drivers from Getting a Minimum Wage](https://www.vice.com/en/article/93k3ve/uber-doordash-sue-nyc-to-stop-delivery-drivers-from-getting-a-minimum-wage)
 - [Kubernetes SidecarContainers feature is merged](https://github.com/kubernetes/kubernetes/pull/116429)
-- [Evernote has laid off most of its US staff and will move operations to Europe](https://www.theverge.com/2023/7/9/23789012/evernote-layoff-us-staff-bending-spoons-note-taking-app)
-- [Show HN: Workout.lol – a web app to easily create a workout routine](https://workout.lol)
-- [Japanese textile factory still uses tape cassette and punch cards [video]](https://www.youtube.com/watch?v=zWJZFQHklBg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
