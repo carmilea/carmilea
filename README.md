@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Threads isn&#39;t ever going to connect to Mastodon, so stop pretending that it is](https://knollslaw.substack.com/p/metas-threads-app-isnt-ever-going)
-- [Tuition costs have risen 710% since 1983 &lpar;1200% since 1980&rpar;. Inflation: 194%](https://statecraft.beehiiv.com/p/student-loan-debt-forgiveness)
+- [“Coning” AVs is part of a long tradition of tactical urbanism](https://oversharing.substack.com/p/traffic-cones-vs-self-driving-cars)
+- [Ask HN: What tech newsletters are you currently subscribing?](https://news.ycombinator.com/item?id=36671105)
+- [FreeShip Plus in Lazarus – an open-source software for boat and hull design](https://github.com/markmal/freeship-plus-in-lazarus)
+- [Tuition costs have risen 710% since 1983](https://statecraft.beehiiv.com/p/student-loan-debt-forgiveness)
 - [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Lima: A nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
