@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Danswer – open-source question answering across all your docs](https://github.com/danswer-ai/danswer)
-- [Canonical and IBM Are Turning Ubuntu and Fedora into Microsoft Windows](http://techrights.org/2023/07/09/corporate-distros/)
-- [Stéphane Graber has left Canonical](https://stgraber.org/2023/07/10/time-to-move-on/)
-- [EdgeNode: Deploy Serverless Containers on Edge](https://edgenode.com/)
-- [EU signs off on data transfers deal with US](https://www.politico.eu/article/eu-signs-off-on-data-transfers-deal-with-us/)
+- [Study: 87% of classic video games are not legally available](https://gamehistory.org/87percent/)
+- [First U.S. Ban on Sale of Cellphone Location Data Might Be Coming](https://www.wsj.com/articles/first-u-s-ban-on-sale-of-cellphone-location-data-might-be-coming-fbe47e53)
+- [Keep Linux Open and Free–We Can’t Afford Not To](https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/)
+- [Show HN: Danswer – Open-source question answering across all your docs](https://github.com/danswer-ai/danswer)
+- [The Physicist Who’s Challenging the Quantum Orthodoxy](https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
