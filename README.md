@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Idiot Customers Will Accidentally Cancel Their Subscriptions If It&#39;s Too Easy](https://gizmodo.com/cancel-subscription-ftc-click-to-cancel-pushback-1850615222)
+- [Are the Americans Awake?](https://are-the-americans-awake.yusuf.fyi/)
+- [Instagram Threads hits 100M users, becoming the fastest growing app](https://www.independent.co.uk/tech/instagram-threads-twitter-users-elon-musk-million-b2372336.html)
+- [Nitter &lpar;Twitter front end&rpar; is working again](https://github.com/zedeus/nitter/pull/927)
 - [Harvard ethics prof fabricated multiple behavioral science studies](https://www.thecollegefix.com/harvard-ethics-professor-allegedly-fabricated-multiple-behavioral-science-studies/)
-- [Debate over &#39;fake work&#39; in tech industry misses the real culprit: lazy managers](https://www.businessinsider.com/tech-industry-fake-work-problem-bad-managers-bosses-layoffs-jobs-2023-7)
-- [Using SVG to create simple sparkline charts](https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/)
-- [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
-- [Greek shipwreck: hi-tech investigation suggests coastguard responsible](https://www.theguardian.com/global-development/2023/jul/10/greek-shipwreck-hi-tech-investigation-suggests-coastguard-responsible-for-sinking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
