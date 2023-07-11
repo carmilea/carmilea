@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Cloudflare Images addressed the aCropalypse vulnerability](https://blog.cloudflare.com/how-cloudflare-images-addressed-the-acropalypse-vulnerability/)
+- [PhotoPrism: Browse Your Life in Pictures](https://github.com/photoprism/photoprism)
+- [Threads and the Social/Communications Map](https://stratechery.com/2023/threads-and-the-social-communications-map/)
+- [Big Tech can transfer Europeans’ data to US in win for Facebook and Google](https://arstechnica.com/tech-policy/2023/07/big-tech-can-transfer-europeans-data-to-us-in-win-for-facebook-and-google/)
 - [SpaceX is stretching the lifetime of its reusable Falcon 9 boosters](https://arstechnica.com/space/2023/07/spacex-launches-its-fleet-leading-rocket-booster-for-record-16th-time/)
-- [Working memory: metric for state a programmer needs to keep in their head](https://sourcery.ai/blog/measuring_working_memory/)
-- [Back-end parallelism in the Rust compiler](https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html)
-- [What Is the Numerical Range of a Matrix?](https://nhigham.com/2023/07/11/what-is-the-numerical-range-of-a-matrix/)
-- [Why privatisation has been a costly failure in Britain](https://www.economist.com/by-invitation/2023/07/10/mathew-lawrence-on-why-privatisation-has-been-a-costly-failure-in-britain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
