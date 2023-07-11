@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Kelly Rowland couldn&#39;t have used the =HYPERLINK&lpar;&rpar; function to message Nelly](https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html)
+- [Show HN: Van, truck or car camp for $0 a night](https://www.landcamp.org/)
 - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
 - [Bubblewrap – Low-level unprivileged sandboxing tool used by Flatpak](https://github.com/containers/bubblewrap)
-- [A Petabyte of Health Insurance Prices Per Month – Why is there so much data?](https://blog.turquoise.health/a-petabyte-of-health-insurance-rates-a-month/)
-- [The Pile: a dataset for language modeling [pdf]](https://arxiv.org/abs/2101.00027)
-- [Cancer’s origin story features predictable plot line, researchers find](https://med.stanford.edu/news/all-news/2023/07/pre-cancer-evolution.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
