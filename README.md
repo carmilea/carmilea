@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX is stretching the lifetime of its reusable Falcon 9 boosters](https://arstechnica.com/space/2023/07/spacex-launches-its-fleet-leading-rocket-booster-for-record-16th-time/)
+- [Working memory: metric for state a programmer needs to keep in their head](https://sourcery.ai/blog/measuring_working_memory/)
+- [Back-end parallelism in the Rust compiler](https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html)
+- [What Is the Numerical Range of a Matrix?](https://nhigham.com/2023/07/11/what-is-the-numerical-range-of-a-matrix/)
 - [Why privatisation has been a costly failure in Britain](https://www.economist.com/by-invitation/2023/07/10/mathew-lawrence-on-why-privatisation-has-been-a-costly-failure-in-britain)
-- [Mailgun: Public Security Disclosure](https://news.ycombinator.com/item?id=36678348)
-- [SUSE is forking RHEL](https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/)
-- [New Trans-Atlantic Data Privacy Framework Largely a Copy of “Privacy Shield”](https://noyb.eu/en/european-commission-gives-eu-us-data-transfers-third-round-cjeu)
-- [GPT-Prompt-Engineer](https://github.com/mshumer/gpt-prompt-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
