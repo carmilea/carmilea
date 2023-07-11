@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SUSE is forking RHEL](https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/)
 - [New Trans-Atlantic Data Privacy Framework Largely a Copy of “Privacy Shield”](https://noyb.eu/en/european-commission-gives-eu-us-data-transfers-third-round-cjeu)
 - [GPT-Prompt-Engineer](https://github.com/mshumer/gpt-prompt-engineer)
 - [Meta’s Microservice Architecture [pdf]](https://www.usenix.org/system/files/atc23-huye.pdf)
-- [Fungi stores a third of carbon from fossil fuel emissions](https://www.eurekalert.org/news-releases/991288)
 - [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
 <!-- BLOG-POST-LIST:END -->
 
