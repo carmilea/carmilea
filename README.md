@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
+- [Memos: A lightweight, self-hosted memo hub](https://github.com/usememos/memos)
 - [The Magic of Dependency Resolution](https://ochagavia.nl/blog/the-magic-of-dependency-resolution/)
 - [Emacs GUI Library](https://andreyor.st/posts/2023-07-11-emacs-gui-library/)
 - [Google&#39;s new metrics: Interaction to Next Paint &lpar;INP&rpar;](https://web.dev/inp/)
-- [Windows 9x and Word 9x at 800x600 resolution. Spacious. Comfy](https://oldbytes.space/@48kRAM/110695813509755748)
-- [Shop Class 2.0: Rethinking High School to Accelerate Electrification](https://volted.substack.com/p/rethinking-high-school-to-electrify-everything)
 <!-- BLOG-POST-LIST:END -->
 
 ---
