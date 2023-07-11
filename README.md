@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fairphone 3 gets seven years of updates, besting every other Android OEM](https://arstechnica.com/gadgets/2023/07/fairphone-3-gets-seven-years-of-updates-besting-every-other-android-oem/)
+- [These are the oldest stone tools ever found in the United States](https://arstechnica.com/science/2023/07/these-are-the-oldest-stone-tools-ever-found-in-the-united-states/)
 - [How Cloudflare Images addressed the aCropalypse vulnerability](https://blog.cloudflare.com/how-cloudflare-images-addressed-the-acropalypse-vulnerability/)
 - [PhotoPrism: Browse Your Life in Pictures](https://github.com/photoprism/photoprism)
 - [Threads and the Social/Communications Map](https://stratechery.com/2023/threads-and-the-social-communications-map/)
-- [Big Tech can transfer Europeans’ data to US in win for Facebook and Google](https://arstechnica.com/tech-policy/2023/07/big-tech-can-transfer-europeans-data-to-us-in-win-for-facebook-and-google/)
-- [SpaceX is stretching the lifetime of its reusable Falcon 9 boosters](https://arstechnica.com/space/2023/07/spacex-launches-its-fleet-leading-rocket-booster-for-record-16th-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
