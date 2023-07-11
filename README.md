@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
-- [Memos: A lightweight, self-hosted memo hub](https://github.com/usememos/memos)
-- [The Magic of Dependency Resolution](https://ochagavia.nl/blog/the-magic-of-dependency-resolution/)
-- [Emacs GUI Library](https://andreyor.st/posts/2023-07-11-emacs-gui-library/)
-- [Google&#39;s new metrics: Interaction to Next Paint &lpar;INP&rpar;](https://web.dev/inp/)
+- [FBI taps cell phone mic as eavesdropping tool &lpar;2006&rpar;](https://www.cnet.com/news/privacy/fbi-taps-cell-phone-mic-as-eavesdropping-tool/)
+- [Nothing Phone &lpar;2&rpar;](https://us.nothing.tech/pages/phone-2)
+- [Panflute: Pythonic Pandoc Filters](https://github.com/sergiocorreia/panflute)
+- [UCLA professor refuses to cover for Dan Ariely in issue of data provenance](https://openmkt.org/blog/2023/ucla-professor-refuses-to-cover-for-dan-ariely-in-issue-of-data-provenance/)
+- [Cancer’s origin story features predictable plot line, researchers find](https://med.stanford.edu/news/all-news/2023/07/pre-cancer-evolution.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
