@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI taps cell phone mic as eavesdropping tool &lpar;2006&rpar;](https://www.cnet.com/news/privacy/fbi-taps-cell-phone-mic-as-eavesdropping-tool/)
+- [A Petabyte of Health Insurance Prices Per Month – Why is there so much data?](https://blog.turquoise.health/a-petabyte-of-health-insurance-rates-a-month/)
+- [The Pile: a dataset for language modeling [pdf]](https://arxiv.org/abs/2101.00027)
 - [Nothing Phone &lpar;2&rpar;](https://us.nothing.tech/pages/phone-2)
-- [Panflute: Pythonic Pandoc Filters](https://github.com/sergiocorreia/panflute)
+- [QubesOS – A reasonably secure operating system](https://www.qubes-os.org/)
 - [UCLA professor refuses to cover for Dan Ariely in issue of data provenance](https://openmkt.org/blog/2023/ucla-professor-refuses-to-cover-for-dan-ariely-in-issue-of-data-provenance/)
-- [Cancer’s origin story features predictable plot line, researchers find](https://med.stanford.edu/news/all-news/2023/07/pre-cancer-evolution.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
