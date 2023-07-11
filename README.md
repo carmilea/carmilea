@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Most plastic products release estrogenic chemicals &lpar;2011&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222987/)
+- [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
+- [Growing Rat Neurons to Play Video Games [video]](https://www.youtube.com/watch?v=bEXefdbQDjw)
+- [After 30 Years, Linux Finally Hits 3% Market Share](https://linuxiac.com/linux-hits-3-percent-market-share/)
 - [GPT-4 details leaked?](https://threadreaderapp.com/thread/1678545170508267522.html)
-- [XFS online filesystem check and repair](https://lwn.net/Articles/934561/)
-- [GPS Log: Tracking wood movement down the McKenzie River](https://gpslogdrive.com/)
-- [Frame generation essentials: Interpolation, extrapolation, and reprojection](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
+- [FloatZone: Accelerating Memory Error Detection Using the Floating Point Unit [pdf]](https://download.vusec.net/papers/floatzone_sec23.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
