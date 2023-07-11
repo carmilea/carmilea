@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Most plastic products release estrogenic chemicals &lpar;2011&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222987/)
+- [GPT-4 details leaked?](https://threadreaderapp.com/thread/1678545170508267522.html)
 - [XFS online filesystem check and repair](https://lwn.net/Articles/934561/)
-- [GPS Log: Tracking Wood Movement Down the McKenzie River Live June 8th](https://gpslogdrive.com/)
+- [GPS Log: Tracking wood movement down the McKenzie River](https://gpslogdrive.com/)
 - [Frame generation essentials: Interpolation, extrapolation, and reprojection](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
-- [Show HN: Manabi Reader – Learn Japanese by Reading on iOS and macOS &lpar;SwiftUI&rpar;](https://reader.manabi.io/#page-top)
-- [Easy HTTPS for your private networks](https://www.getlocalcert.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
