@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Learn Japanese by Reading on iOS and macOS &lpar;SwiftUI&rpar;](https://reader.manabi.io/#page-top)
-- [Shortening the Let&#39;s Encrypt Chain of Trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
-- [US Army Physical Fitness Test &lpar;APFT&rpar;: Normative Data on 6022 Soldiers &lpar;1994&rpar;](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/ADA274547.xhtml)
-- [Self-hosted photo and video backups directly from your mobile phone](https://github.com/immich-app/immich)
-- [Show HN: A hash array-mapped trie implementation in C](https://github.com/mkirchner/hamt)
+- [XFS online filesystem check and repair](https://lwn.net/Articles/934561/)
+- [GPS Log: Tracking Wood Movement Down the McKenzie River Live June 8th](https://gpslogdrive.com/)
+- [Frame generation essentials: Interpolation, extrapolation, and reprojection](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
+- [Show HN: Manabi Reader – Learn Japanese by Reading on iOS and macOS &lpar;SwiftUI&rpar;](https://reader.manabi.io/#page-top)
+- [Easy HTTPS for your private networks](https://www.getlocalcert.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
