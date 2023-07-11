@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Storing Data in Control Flow](https://research.swtch.com/pcdata)
+- [Bubblewrap – Low-level unprivileged sandboxing tool used by Flatpak](https://github.com/containers/bubblewrap)
 - [A Petabyte of Health Insurance Prices Per Month – Why is there so much data?](https://blog.turquoise.health/a-petabyte-of-health-insurance-rates-a-month/)
 - [The Pile: a dataset for language modeling [pdf]](https://arxiv.org/abs/2101.00027)
-- [Nothing Phone &lpar;2&rpar;](https://us.nothing.tech/pages/phone-2)
-- [QubesOS – A reasonably secure operating system](https://www.qubes-os.org/)
-- [UCLA professor refuses to cover for Dan Ariely in issue of data provenance](https://openmkt.org/blog/2023/ucla-professor-refuses-to-cover-for-dan-ariely-in-issue-of-data-provenance/)
+- [Cancer’s origin story features predictable plot line, researchers find](https://med.stanford.edu/news/all-news/2023/07/pre-cancer-evolution.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
