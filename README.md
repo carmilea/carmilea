@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Improve Text-to-SQL Accuracy with LLM](https://github.com/csunny/DB-GPT-Hub)
-- [Perfectly good M1 MacBooks are being scrapped because of Activation Lock [video]](https://www.youtube.com/watch?v=94zOFsQJ7lU)
+- [Sappers risk their lives to win Ukraine back, inch by inch](https://www.economist.com/europe/2023/07/09/sappers-risk-their-lives-to-win-ukraine-back-inch-by-inch)
+- [Fungi stores 1/3 carbon from fossil fuel emits: essential to net zero – study](https://www.eurekalert.org/news-releases/991288)
 - [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
+- [You&#39;re So Vain, You Probably Think This App Is About You: On Meta and Mastodon](https://micro.coyotetracks.org/2023/07/10/youre-so-vain.html)
 - [Growing Rat Neurons to Play Video Games [video]](https://www.youtube.com/watch?v=bEXefdbQDjw)
-- [After 30 Years, Linux Finally Hits 3% Market Share](https://linuxiac.com/linux-hits-3-percent-market-share/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
