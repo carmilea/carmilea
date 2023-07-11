@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Displayport: A Better Video Interface](https://hackaday.com/2023/07/11/displayport-a-better-video-interface/)
-- [IntelliJ Rust](https://www.jetbrains.com/rust/)
-- [Solar Energy Solves Global Warming](https://unchartedterritories.tomaspueyo.com/p/solar-energy-solves-global-warming)
-- [Show HN: Clickvote – Open-source upvotes, likes, and reviews to any context](https://github.com/clickvote/clickvote)
-- [AI Safety and the Age of Dislightenment](https://www.fast.ai/posts/2023-11-07-dislightenment.html)
+- [The Magic of Dependency Resolution](https://ochagavia.nl/blog/the-magic-of-dependency-resolution/)
+- [Emacs GUI Library](https://andreyor.st/posts/2023-07-11-emacs-gui-library/)
+- [Google&#39;s new metrics: Interaction to Next Paint &lpar;INP&rpar;](https://web.dev/inp/)
+- [Windows 9x and Word 9x at 800x600 resolution. Spacious. Comfy](https://oldbytes.space/@48kRAM/110695813509755748)
+- [Shop Class 2.0: Rethinking High School to Accelerate Electrification](https://volted.substack.com/p/rethinking-high-school-to-electrify-everything)
 <!-- BLOG-POST-LIST:END -->
 
 ---
