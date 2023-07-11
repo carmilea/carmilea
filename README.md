@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: When is pure functional programming beneficial?](https://news.ycombinator.com/item?id=36681049)
-- [Claude 2](https://www.anthropic.com/index/claude-2)
-- [We put a distributed database in the browser and made a game of it](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
-- [Fairphone 3 gets seven years of updates, besting every other Android OEM](https://arstechnica.com/gadgets/2023/07/fairphone-3-gets-seven-years-of-updates-besting-every-other-android-oem/)
-- [These are the oldest stone tools ever found in the United States](https://arstechnica.com/science/2023/07/these-are-the-oldest-stone-tools-ever-found-in-the-united-states/)
+- [Displayport: A Better Video Interface](https://hackaday.com/2023/07/11/displayport-a-better-video-interface/)
+- [IntelliJ Rust](https://www.jetbrains.com/rust/)
+- [Solar Energy Solves Global Warming](https://unchartedterritories.tomaspueyo.com/p/solar-energy-solves-global-warming)
+- [Show HN: Clickvote – Open-source upvotes, likes, and reviews to any context](https://github.com/clickvote/clickvote)
+- [AI Safety and the Age of Dislightenment](https://www.fast.ai/posts/2023-11-07-dislightenment.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
