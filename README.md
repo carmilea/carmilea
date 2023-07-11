@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why privatisation has been a costly failure in Britain](https://www.economist.com/by-invitation/2023/07/10/mathew-lawrence-on-why-privatisation-has-been-a-costly-failure-in-britain)
+- [Mailgun: Public Security Disclosure](https://news.ycombinator.com/item?id=36678348)
 - [SUSE is forking RHEL](https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/)
 - [New Trans-Atlantic Data Privacy Framework Largely a Copy of “Privacy Shield”](https://noyb.eu/en/european-commission-gives-eu-us-data-transfers-third-round-cjeu)
 - [GPT-Prompt-Engineer](https://github.com/mshumer/gpt-prompt-engineer)
-- [Meta’s Microservice Architecture [pdf]](https://www.usenix.org/system/files/atc23-huye.pdf)
-- [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
