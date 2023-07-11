@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sappers risk their lives to win Ukraine back, inch by inch](https://www.economist.com/europe/2023/07/09/sappers-risk-their-lives-to-win-ukraine-back-inch-by-inch)
-- [Fungi stores 1/3 carbon from fossil fuel emits: essential to net zero – study](https://www.eurekalert.org/news-releases/991288)
+- [New Trans-Atlantic Data Privacy Framework Largely a Copy of “Privacy Shield”](https://noyb.eu/en/european-commission-gives-eu-us-data-transfers-third-round-cjeu)
+- [GPT-Prompt-Engineer](https://github.com/mshumer/gpt-prompt-engineer)
+- [Meta’s Microservice Architecture [pdf]](https://www.usenix.org/system/files/atc23-huye.pdf)
+- [Fungi stores a third of carbon from fossil fuel emissions](https://www.eurekalert.org/news-releases/991288)
 - [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
-- [You&#39;re So Vain, You Probably Think This App Is About You: On Meta and Mastodon](https://micro.coyotetracks.org/2023/07/10/youre-so-vain.html)
-- [Growing Rat Neurons to Play Video Games [video]](https://www.youtube.com/watch?v=bEXefdbQDjw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
