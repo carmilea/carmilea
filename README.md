@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Calls to investigate tax sites for sharing financial information with Meta](https://www.theverge.com/2023/7/12/23791496/meta-google-tax-filing-warren-sanders-pixel)
+- [Nour: Play with Your Food &lpar;from Panic&rpar;](https://food.game/)
 - [GiveCampus &lpar;YC S15&rpar; Hiring Rails engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 - [Serverless Semantic Search, Free tier only](https://qdrant.tech/articles/serverless/)
 - [Bcachefs File-System Plans to Try Again to Land in Linux 6.6](https://www.phoronix.com/news/Bcachefs-Plans-For-Linux-6.6)
-- [Milan Kundera, ‘The Unbearable Lightness of Being’ Novelist, Dies at 94](https://variety.com/2023/film/global/milan-kundera-the-unbearable-lightness-of-being-dies-dead-1235667595/)
-- [TimeMaps](https://vincentmeertens.com/project/timemaps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
