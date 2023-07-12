@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gene linked to long Covid found in analysis of thousands of patients](https://www.nature.com/articles/d41586-023-02269-2)
+- [How to Solve Your Big Problems, by Solving Your *Real* Problem](https://jasonfeifer.beehiiv.com/p/how-to-solve-big-problems)
 - [Calls to investigate tax sites for sharing financial information with Meta](https://www.theverge.com/2023/7/12/23791496/meta-google-tax-filing-warren-sanders-pixel)
+- [Starlink satellites are dodging objects in orbit thousands of times every month](https://techcrunch.com/2023/07/10/starlink-satellites-are-dodging-objects-in-orbit-thousands-of-times-every-month/)
 - [Nour: Play with Your Food &lpar;from Panic&rpar;](https://food.game/)
-- [GiveCampus &lpar;YC S15&rpar; Hiring Rails engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Serverless Semantic Search, Free tier only](https://qdrant.tech/articles/serverless/)
-- [Bcachefs File-System Plans to Try Again to Land in Linux 6.6](https://www.phoronix.com/news/Bcachefs-Plans-For-Linux-6.6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
