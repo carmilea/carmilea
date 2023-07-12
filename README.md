@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
+- [Why just blocking Meta&#39;s Threads won&#39;t be enough](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
+- [Ask HN: React Native or Flutter for a new app in 2023?](https://news.ycombinator.com/item?id=36698482)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 - [Istio moved to CNCF Graduation stage](https://github.com/cncf/toc/commit/25b2ead46d56e3c39d48a6a87e3c558c2120d179)
-- [Going Beyond ‘Do You Know of Any Open Positions?’](https://www.dewanahmed.com/do-you-know-of-any-open-positions/)
-- [Show HN: Floneum, a graph editor for local AI workflows](https://floneum.com/blog/anouncing_floneum/)
-- [The Barbie-Oppenheimer Double Feature Is Happening, Data Shows](https://www.bnnbloomberg.ca/the-barbie-oppenheimer-double-feature-is-really-happening-data-shows-1.1944290)
 <!-- BLOG-POST-LIST:END -->
 
 ---
