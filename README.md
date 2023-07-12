@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Vale&#39;s First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 - [Hardening Emulated Devices in OpenBSD&#39;s Vmd&lpar;8&rpar; Hypervisor [pdf]](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
+- [RPCS3 – The Open Source Playstation 3 Emulator](https://rpcs3.net/)
+- [Chiplet ASIC supercomputers for LLMs like GPT-4](https://arxiv.org/abs/2307.02666)
 - [The English Programming Language](https://github.com/theletterf/english-lang)
-- [How the design of Disney parks affects our perspective &lpar;2020&rpar;](https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/)
-- [Birds make nests out of anti-bird pins](https://www.naturalis.nl/en/about-us/media/press-releases/rebellious-birds-make-nests-out-of-anti-bird-pins)
 <!-- BLOG-POST-LIST:END -->
 
 ---
