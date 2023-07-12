@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gene linked to long Covid found in analysis of thousands of patients](https://www.nature.com/articles/d41586-023-02269-2)
-- [How to Solve Your Big Problems, by Solving Your *Real* Problem](https://jasonfeifer.beehiiv.com/p/how-to-solve-big-problems)
-- [Calls to investigate tax sites for sharing financial information with Meta](https://www.theverge.com/2023/7/12/23791496/meta-google-tax-filing-warren-sanders-pixel)
-- [Starlink satellites are dodging objects in orbit thousands of times every month](https://techcrunch.com/2023/07/10/starlink-satellites-are-dodging-objects-in-orbit-thousands-of-times-every-month/)
-- [Nour: Play with Your Food &lpar;from Panic&rpar;](https://food.game/)
+- [Official Mastodon server of the Dutch government](https://social.overheid.nl/@avhuffelen/110700825255524685)
+- [20x faster than pgvector: HNSW index in Postgres with pg_embedding](https://neon.tech/blog/pg-embedding-extension-for-vector-search)
+- [Mastodon has hit 2M active users today](https://cyberplace.social/@GossiTheDog/110700438240156452)
+- [June Inflation Drops to 3%](https://www.nytimes.com/live/2023/07/12/business/cpi-inflation-fed)
+- [AGI Simulator](https://agi.aitida.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
