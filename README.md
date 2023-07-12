@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Play adds NFTs](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)
+- [Uber Eats Canada Ran Production in a MacBook Air](https://twitter.com/Altimor/status/1679235946334781440)
+- [PCSX2 is an open source PS2 Emulator](https://pcsx2.net/)
+- [Tax preparers that shared private data with Meta, Google could be fined billions](https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/)
 - [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
 - [She Steals Surfboards by the Seashore. She’s a Sea Otter](https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html)
-- [Instagram Threads: The problem with the “everything for everyone” approach](https://thisisunpacked.substack.com/p/instagram-threads-the-problem-with)
-- [Show HN: AI companions stack – create and host your own AI companions](https://github.com/a16z-infra/companion-app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
