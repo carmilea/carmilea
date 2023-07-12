@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thunderbird 115 Now Available and It Looks Fantastic](https://www.phoronix.com/news/Thunderbird-115)
+- [I Am Leaving](https://briefs.video/videos/i-am-leaving/)
 - [Geddit: Open-source, Reddit client for Android without using API](https://github.com/kaangiray26/geddit-app)
 - [Vale&#39;s First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 - [Hardening Emulated Devices in OpenBSD&#39;s Vmd&lpar;8&rpar; Hypervisor [pdf]](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
