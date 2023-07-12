@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The English Programming Language](https://github.com/theletterf/english-lang)
+- [How the design of Disney parks affects our perspective](https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/)
 - [Rebellious birds make nests out of anti-bird pins](https://www.naturalis.nl/en/about-us/media/press-releases/rebellious-birds-make-nests-out-of-anti-bird-pins)
 - [Dr. Gwynne Dyer – Geopolitics in a Hotter World – UBC Talk Transcribed &lpar;2010&rpar;](https://spaswell.wordpress.com/2016/11/18/dr-gwynne-dyer-geopolitics-in-a-hotter-world-ubc-talk-transcribed-sept-2010/)
 - [Elo for VC – Founder&#39;s Choice](https://www.founderschoicevc.com/)
-- [Breaking java.lang.String](https://wouter.coekaerts.be/2023/breaking-string)
 <!-- BLOG-POST-LIST:END -->
 
 ---
