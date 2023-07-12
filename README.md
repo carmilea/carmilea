@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The ad-based internet is dying, and it&#39;s getting worse in the process [video]](https://tilvids.com/videos/watch/41f5284e-b79e-4c84-97e5-664a6ac5a1ee)
+- [Elo for VC – Founder&#39;s Choice](https://www.founderschoicevc.com/)
+- [Breaking java.lang.String](https://wouter.coekaerts.be/2023/breaking-string)
 - [Darwin: A framework for evolving decentralized web apps](https://evolutionary.arweave.dev/)
 - [The Free Movie](https://thefreemovie.buzz/)
-- [Tell HN: OneDrive sends your photos over unencrypted email](https://news.ycombinator.com/item?id=36687266)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Kelly Rowland couldn&#39;t have used the =HYPERLINK&lpar;&rpar; function to message Nelly](https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
