@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The ad-based internet is dying, and it&#39;s getting worse in the process [video]](https://tilvids.com/videos/watch/41f5284e-b79e-4c84-97e5-664a6ac5a1ee)
+- [The English Programming Language](https://github.com/theletterf/english-lang)
+- [Dr. Gwynne Dyer – Geopolitics in a Hotter World – UBC Talk Transcribed &lpar;2010&rpar;](https://spaswell.wordpress.com/2016/11/18/dr-gwynne-dyer-geopolitics-in-a-hotter-world-ubc-talk-transcribed-sept-2010/)
 - [Elo for VC – Founder&#39;s Choice](https://www.founderschoicevc.com/)
 - [Breaking java.lang.String](https://wouter.coekaerts.be/2023/breaking-string)
 - [Darwin: A framework for evolving decentralized web apps](https://evolutionary.arweave.dev/)
-- [The Free Movie](https://thefreemovie.buzz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
