@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vale&#39;s First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
+- [Hardening Emulated Devices in OpenBSD&#39;s Vmd&lpar;8&rpar; Hypervisor [pdf]](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
 - [The English Programming Language](https://github.com/theletterf/english-lang)
-- [How the design of Disney parks affects our perspective](https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/)
-- [Rebellious birds make nests out of anti-bird pins](https://www.naturalis.nl/en/about-us/media/press-releases/rebellious-birds-make-nests-out-of-anti-bird-pins)
-- [Dr. Gwynne Dyer – Geopolitics in a Hotter World – UBC Talk Transcribed &lpar;2010&rpar;](https://spaswell.wordpress.com/2016/11/18/dr-gwynne-dyer-geopolitics-in-a-hotter-world-ubc-talk-transcribed-sept-2010/)
-- [Elo for VC – Founder&#39;s Choice](https://www.founderschoicevc.com/)
+- [How the design of Disney parks affects our perspective &lpar;2020&rpar;](https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/)
+- [Birds make nests out of anti-bird pins](https://www.naturalis.nl/en/about-us/media/press-releases/rebellious-birds-make-nests-out-of-anti-bird-pins)
 <!-- BLOG-POST-LIST:END -->
 
 ---
