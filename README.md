@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
-- [Why just blocking Meta&#39;s Threads won&#39;t be enough](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
-- [Ask HN: React Native or Flutter for a new app in 2023?](https://news.ycombinator.com/item?id=36698482)
+- [MuseScore 4.1 is now available](https://musescore.org/en/4.1)
+- [Creating a search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
+- [Performant database tree traversal with Rails](https://planetscale.com/blog/performant-database-tree-traversal-with-rails)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 - [Istio moved to CNCF Graduation stage](https://github.com/cncf/toc/commit/25b2ead46d56e3c39d48a6a87e3c558c2120d179)
 <!-- BLOG-POST-LIST:END -->
