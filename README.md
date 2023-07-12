@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows is the malware compatibility layer for everything](https://twitter.com/matthew_d_green/status/1679135426806784004)
-- [Grammarly will discontinue the Text Editor SDK](https://developer.grammarly.com/sdk-deprecation)
-- [Computation and State Machines &lpar;2008&rpar; [pdf]](https://lamport.azurewebsites.net/pubs/state-machine.pdf)
-- [Beagleboard BeagleV-Ahead RISC-V brd released](https://beagleboard.org/beaglev-ahead)
-- [Official Mastodon server of the Dutch government](https://social.overheid.nl/@avhuffelen/110700825255524685)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [Istio moved to CNCF Graduation stage](https://github.com/cncf/toc/commit/25b2ead46d56e3c39d48a6a87e3c558c2120d179)
+- [Going Beyond ‘Do You Know of Any Open Positions?’](https://www.dewanahmed.com/do-you-know-of-any-open-positions/)
+- [Show HN: Floneum, a graph editor for local AI workflows](https://floneum.com/blog/anouncing_floneum/)
+- [The Barbie-Oppenheimer Double Feature Is Happening, Data Shows](https://www.bnnbloomberg.ca/the-barbie-oppenheimer-double-feature-is-really-happening-data-shows-1.1944290)
 <!-- BLOG-POST-LIST:END -->
 
 ---
