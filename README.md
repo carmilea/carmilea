@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows is the malware compatibility layer for everything](https://twitter.com/matthew_d_green/status/1679135426806784004)
+- [Grammarly will discontinue the Text Editor SDK](https://developer.grammarly.com/sdk-deprecation)
+- [Computation and State Machines &lpar;2008&rpar; [pdf]](https://lamport.azurewebsites.net/pubs/state-machine.pdf)
+- [Beagleboard BeagleV-Ahead RISC-V brd released](https://beagleboard.org/beaglev-ahead)
 - [Official Mastodon server of the Dutch government](https://social.overheid.nl/@avhuffelen/110700825255524685)
-- [20x faster than pgvector: HNSW index in Postgres with pg_embedding](https://neon.tech/blog/pg-embedding-extension-for-vector-search)
-- [Mastodon has hit 2M active users today](https://cyberplace.social/@GossiTheDog/110700438240156452)
-- [June Inflation Drops to 3%](https://www.nytimes.com/live/2023/07/12/business/cpi-inflation-fed)
-- [AGI Simulator](https://agi.aitida.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
