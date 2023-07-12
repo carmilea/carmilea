@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chemically induced reprogramming to reverse cellular aging](https://www.aging-us.com/article/204896/text)
+- [Google Play adds NFTs](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)
 - [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
-- [System Shock Remake](https://www.eurogamer.net/digitalfoundry-2023-the-system-shock-remake-is-excellent-and-nightdives-most-ambitious-work-yet)
-- [Instagram Threads: The Problem with the “Everything for Everyone” Approach](https://thisisunpacked.substack.com/p/instagram-threads-the-problem-with)
+- [She Steals Surfboards by the Seashore. She’s a Sea Otter](https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html)
+- [Instagram Threads: The problem with the “everything for everyone” approach](https://thisisunpacked.substack.com/p/instagram-threads-the-problem-with)
 - [Show HN: AI companions stack – create and host your own AI companions](https://github.com/a16z-infra/companion-app)
 <!-- BLOG-POST-LIST:END -->
 
