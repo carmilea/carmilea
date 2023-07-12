@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
+- [System Shock Remake](https://www.eurogamer.net/digitalfoundry-2023-the-system-shock-remake-is-excellent-and-nightdives-most-ambitious-work-yet)
+- [Instagram Threads: The Problem with the “Everything for Everyone” Approach](https://thisisunpacked.substack.com/p/instagram-threads-the-problem-with)
+- [Windows 11 Insider Preview Build 25905 brings a bit of Rust in the kernel](https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/)
 - [MuseScore 4.1 is now available](https://musescore.org/en/4.1)
-- [Creating a search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
-- [Performant database tree traversal with Rails](https://planetscale.com/blog/performant-database-tree-traversal-with-rails)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Istio moved to CNCF Graduation stage](https://github.com/cncf/toc/commit/25b2ead46d56e3c39d48a6a87e3c558c2120d179)
 <!-- BLOG-POST-LIST:END -->
 
 ---
