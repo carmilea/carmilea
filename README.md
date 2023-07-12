@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMC Says More Than 20k Have Booked &#39;Barbie&#39;-&#39;Oppenheimer&#39; Double Features](https://variety.com/2023/film/news/barbie-oppenhemier-double-features-amc-theaters-1235665632/)
+- [Geddit: Open-source, Reddit client for Android without using API](https://github.com/kaangiray26/geddit-app)
 - [Vale&#39;s First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 - [Hardening Emulated Devices in OpenBSD&#39;s Vmd&lpar;8&rpar; Hypervisor [pdf]](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
 - [RPCS3 – The Open Source Playstation 3 Emulator](https://rpcs3.net/)
-- [Chiplet ASIC supercomputers for LLMs like GPT-4](https://arxiv.org/abs/2307.02666)
-- [The English Programming Language](https://github.com/theletterf/english-lang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
