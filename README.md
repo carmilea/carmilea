@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber Eats Canada Ran Production in a MacBook Air](https://twitter.com/Altimor/status/1679235946334781440)
-- [PCSX2 is an open source PS2 Emulator](https://pcsx2.net/)
-- [Tax preparers that shared private data with Meta, Google could be fined billions](https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/)
-- [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
-- [She Steals Surfboards by the Seashore. She’s a Sea Otter](https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html)
+- [Our Fastest, Most Beautiful Release Ever: Thunderbird 115 “Supernova” Is Here](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)
+- [Figma Is a File Editor](https://digest.browsertech.com/archive/browsertech-digest-figma-is-a-file-editor/)
+- [Recreate the cavity-preventing GMO bacteria BCS3-L1 from precursor](https://manifund.org/projects/recreate-the-cavity-preventing-gmo-bacteria-bcs3-l1-from-precursor-)
+- [Xenia: Xbox 360 Emulator](https://xenia.jp/)
+- [Maker Faire Bay Area Returns](https://makerfaire.com/bay-area/call-for-makers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
