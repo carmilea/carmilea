@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dutch E-Bike startup VanMoof unable to pay the bills](https://techcrunch.com/2023/07/12/report-vanmoof-has-filed-for-bankruptcy-protection-in-holland/)
+- [JumpCloud Security Incident Details](https://news.ycombinator.com/item?id=36706216)
+- [Indian developer fired 90 percent of tech support team, outsourced the job to AI](https://www.theregister.com/2023/07/13/dukaan_ai_support_replacement/)
+- [Disney, Netflix, and More Are Fighting FTC&#39;s &#39;Click to Cancel&#39; Proposal](https://www.businessinsider.com/hollywood-streamers-oppose-ftc-proposal-regulation-click-to-cancel-subscription-2023-7)
 - [Dt: Duck tape for your Unix pipes](https://dt.plumbing/)
 - [Xbox360 –&gt; Windows Executable Converter &lpar;2017&rpar;](https://github.com/rexdex/recompiler)
-- [Scientists have identified the potato pathogen that devastated Ireland &lpar;2013&rpar;](https://www.history.com/news/after-168-years-potato-famine-mystery-solved)
-- [The Mac Sonoma sure is starting to look like the iPhone](https://www.theverge.com/2023/7/12/23792490/macos-sonoma-public-beta-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
