@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple claims 99% iPhone 14 satisfaction. Is that possible? &lpar;No&rpar;. We investigate](https://www.perfectrec.com/posts/is-apple-making-implausible-iphone-satisfaction-claims)
-- [The FCC wants feedback about ATSC 3.0 encryption/DRM for OTA TV](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
-- [It&#39;s official: Smartphones will need to have replaceable batteries by 2027](https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/)
-- [Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
-- [We spent $20k on Google Play pre-registration ads](https://andreaskambanis.com/google-play-store-pre-registration-campaigns/)
+- [Cowboy rides to the rescue of VanMoof owners with app to unlock threatened bikes](https://techcrunch.com/2023/07/13/cowboy-rides-to-the-rescue-of-vanmoof-owners-with-app-to-unlock-threatened-bikes/)
+- [Celsius Was Lying](https://www.bloomberg.com/opinion/articles/2023-07-13/celsius-was-lying)
+- [New in Chrome 115](https://developer.chrome.com/blog/new-in-chrome-115/)
+- [Is Apple making implausible iPhone satisfaction claims?](https://www.perfectrec.com/posts/is-apple-making-implausible-iphone-satisfaction-claims)
+- [The FCC responds to my ATSC 3 encryption complaint – they want to hear from you](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
