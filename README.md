@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dt: Duck tape for your Unix pipes](https://dt.plumbing/)
 - [Xbox360 –&gt; Windows Executable Converter &lpar;2017&rpar;](https://github.com/rexdex/recompiler)
-- [After 168 Years, Potato Famine Mystery Solved](https://www.history.com/news/after-168-years-potato-famine-mystery-solved)
+- [Scientists have identified the potato pathogen that devastated Ireland &lpar;2013&rpar;](https://www.history.com/news/after-168-years-potato-famine-mystery-solved)
 - [The Anti-Ownership eBook Economy](https://www.nyuengelberg.org/outputs/the-anti-ownership-ebook-economy/)
 - [Invertible Bloom Lookup Tables with Less Randomness and Memory](https://arxiv.org/abs/2306.07583)
-- [Anchor Brewing Was San Francisco](https://defector.com/anchor-brewing-was-san-francisco)
 <!-- BLOG-POST-LIST:END -->
 
 ---
