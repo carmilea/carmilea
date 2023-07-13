@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SEO Expert Hired and Fired by Ashley Madison Turned on Company Promising Revenge](https://krebsonsecurity.com/2023/07/seo-expert-hired-and-fired-by-ashley-madison-turned-on-company-promising-revenge/)
+- [Position-Driven Styles](https://kizu.dev/position-driven-styles/)
 - [Critical RCE found in popular Ghostscript open-source PDF library](https://www.bleepingcomputer.com/news/security/critical-rce-found-in-popular-ghostscript-open-source-pdf-library/)
+- [Instant Messenger History: Lessons for the Threads Era of Social Media](https://tedium.co/2023/07/12/instant-messenger-competition-history/)
 - [Freshpaint &lpar;YC S19&rpar; Is Hiring Engineers to Safeguard Health Data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [Actors say Hollywood studios want their AI replicas – for free, forever](https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights)
-- [Boston Mayor Wu Announces Residential Conversion Program for Office Buildings](https://www.bostonplans.org/news-calendar/news-updates/2023/07/10/mayor-wu-announces-residential-conversion-program)
-- [Remembering Lithium-Ion Battery Pioneer John Goodenough](https://spectrum.ieee.org/john-goodenough-tribute)
 <!-- BLOG-POST-LIST:END -->
 
 ---
