@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [B.C. government hit tweet limit amid wildfire evacuations](https://www.vancouverisawesome.com/highlights/bc-government-hit-tweet-limit-amid-wildfire-evacuations-7268169)
-- [Cool but Obscure X11 Apps](https://cyber.dabamos.de/unix/x11/)
-- [“Suburban sprawl is a much worse problem than skyscrapers”](https://www.dezeen.com/2023/07/12/suburban-sprawl-worse-problem-skyscrapers/)
-- [Show HN: Hansei](https://hansei.app/)
-- [A new, thin-lensed telescope design could far surpass James Webb](https://theconversation.com/a-new-thin-lensed-telescope-design-could-far-surpass-james-webb-goodbye-mirrors-hello-diffractive-lenses-206055)
+- [People helping Uyghur children struggling to build new lives in Turkey](https://thechinaproject.com/2023/07/13/the-people-helping-uyghur-children-struggling-to-build-new-lives-in-turkey/)
+- [Show HN: Open-source IAM Ory Kratos v1.0 with Passkeys, MFA and multi-region](https://github.com/ory/kratos/releases/tag/v1.0.0)
+- [Two new AI-based weather-forecasting systems challenging the status quo](https://phys.org/news/2023-07-ai-based-weather-forecasting-status-quo.html)
+- [Unchecked Java: Say Goodbye to Checked Exceptions Forever](https://github.com/rogerkeays/unchecked)
+- [When Work Didn’t Follow You Home](https://calnewport.com/when-work-didnt-follow-you-home/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
