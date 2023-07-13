@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mac Sonoma sure is starting to look like the iPhone](https://www.theverge.com/2023/7/12/23792490/macos-sonoma-public-beta-preview)
+- [Xbox360 –&gt; Windows Executable Converter &lpar;2017&rpar;](https://github.com/rexdex/recompiler)
+- [After 168 Years, Potato Famine Mystery Solved](https://www.history.com/news/after-168-years-potato-famine-mystery-solved)
 - [The Anti-Ownership eBook Economy](https://www.nyuengelberg.org/outputs/the-anti-ownership-ebook-economy/)
-- [An update on the Federal Reserve’s Instant Payments Service: FedNow](https://www.clevelandfed.org/collections/speeches/2023/sp-20230712-update-on-the-federal-reserves-instant-payments-service)
 - [Invertible Bloom Lookup Tables with Less Randomness and Memory](https://arxiv.org/abs/2306.07583)
 - [Anchor Brewing Was San Francisco](https://defector.com/anchor-brewing-was-san-francisco)
 <!-- BLOG-POST-LIST:END -->
