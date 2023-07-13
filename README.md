@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Founder of crypto lender Celsius Network arrested, charged with fraud](https://www.reuters.com/markets/us-sec-sues-celsius-network-its-founder-2023-07-13/)
-- [Manuscript Textiles: Weaving the Thread of Faith](https://blogs.bl.uk/asian-and-african/2023/07/manuscript-textiles-weaving-the-thread-of-faith.html)
-- [TikTok ban bill in US faces changes after ByteDance spent $100M on lobbying](https://www.scmp.com/tech/tech-war/article/3227250/tiktok-crackdown-bill-us-faces-changes-after-bytedances-us100-million-lobbying-spending-spree)
-- [Faster Neural Networks Straight from JPEG](https://www.uber.com/blog/neural-networks-jpeg/)
-- [FDA Approves First Nonprescription Daily Oral Contraceptive](https://www.fda.gov/news-events/press-announcements/fda-approves-first-nonprescription-daily-oral-contraceptive)
+- [Flexport &lpar;Founders Fund company&rpar; is hiring](https://flexport.com/careers)
+- [OCI announces upcoming changes for registries](https://www.chainguard.dev/unchained/oci-announces-upcoming-changes-for-registries)
+- [Spike in Homelessness in US Cities Isn’t Slowing Down](https://www.msn.com/en-us/money/realestate/the-spike-in-homelessness-in-us-cities-isn-t-slowing-down/ar-AA1dOiKW)
+- [WW2 Meteorology](https://rafmetman.wordpress.com/meteorology/ww2-meteorology/)
+- [A relatively small amount of force applied at just the right place](https://www.tonykulesa.com/p/a-relatively-small-amount-of-force)
 <!-- BLOG-POST-LIST:END -->
 
 ---
