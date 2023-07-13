@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Invertible Bloom Lookup Tables with Less Randomness and Memory](https://arxiv.org/abs/2306.07583)
 - [Anchor Brewing Was San Francisco](https://defector.com/anchor-brewing-was-san-francisco)
-- [Our Fastest, Most Beautiful Release Ever: Thunderbird 115 “Supernova” Is Here](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)
+- [Thunderbird 115 “Supernova”](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)
 - [Figma Is a File Editor](https://digest.browsertech.com/archive/browsertech-digest-figma-is-a-file-editor/)
 - [Recreate the cavity-preventing GMO bacteria BCS3-L1 from precursor](https://manifund.org/projects/recreate-the-cavity-preventing-gmo-bacteria-bcs3-l1-from-precursor-)
-- [Xenia: Xbox 360 Emulator](https://xenia.jp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
