@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tax prep firms shared ‘extraordinarily sensitive’ data about taxpayers with Meta](https://apnews.com/article/irs-taxpayer-tax-preparation-meta-congress-9315cfca7a0942ab89f765d183fbf822)
-- [100x Faster Than Wi-Fi: Light-Based Networking Standard Released](https://www.tomshardware.com/news/li-fi-standard-released)
-- [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
-- [Three signs that Wayland is becoming the favored way to get a GUI on Linux](https://www.theregister.com/2023/07/13/wayland_is_coming/)
-- [CWE Top Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/index.html)
+- [B.C. government hit tweet limit amid wildfire evacuations](https://www.vancouverisawesome.com/highlights/bc-government-hit-tweet-limit-amid-wildfire-evacuations-7268169)
+- [Cool but Obscure X11 Apps](https://cyber.dabamos.de/unix/x11/)
+- [“Suburban sprawl is a much worse problem than skyscrapers”](https://www.dezeen.com/2023/07/12/suburban-sprawl-worse-problem-skyscrapers/)
+- [Show HN: Hansei](https://hansei.app/)
+- [A new, thin-lensed telescope design could far surpass James Webb](https://theconversation.com/a-new-thin-lensed-telescope-design-could-far-surpass-james-webb-goodbye-mirrors-hello-diffractive-lenses-206055)
 <!-- BLOG-POST-LIST:END -->
 
 ---
