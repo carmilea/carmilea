@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Founder of crypto lender Celsius Network arrested, charged with fraud](https://www.reuters.com/markets/us-sec-sues-celsius-network-its-founder-2023-07-13/)
+- [Manuscript Textiles: Weaving the Thread of Faith](https://blogs.bl.uk/asian-and-african/2023/07/manuscript-textiles-weaving-the-thread-of-faith.html)
+- [TikTok ban bill in US faces changes after ByteDance spent $100M on lobbying](https://www.scmp.com/tech/tech-war/article/3227250/tiktok-crackdown-bill-us-faces-changes-after-bytedances-us100-million-lobbying-spending-spree)
 - [Faster Neural Networks Straight from JPEG](https://www.uber.com/blog/neural-networks-jpeg/)
 - [FDA Approves First Nonprescription Daily Oral Contraceptive](https://www.fda.gov/news-events/press-announcements/fda-approves-first-nonprescription-daily-oral-contraceptive)
-- [Bard’s latest update: more features, languages and countries](https://blog.google/products/bard/google-bard-new-features-update-july-2023/)
-- [Is Design Dead?](https://www.martinfowler.com/articles/designDead.html)
-- [Rust 1.71.0](https://blog.rust-lang.org/2023/07/13/Rust-1.71.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
