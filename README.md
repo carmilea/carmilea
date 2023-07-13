@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [People helping Uyghur children struggling to build new lives in Turkey](https://thechinaproject.com/2023/07/13/the-people-helping-uyghur-children-struggling-to-build-new-lives-in-turkey/)
-- [Show HN: Open-source IAM Ory Kratos v1.0 with Passkeys, MFA and multi-region](https://github.com/ory/kratos/releases/tag/v1.0.0)
-- [Two new AI-based weather-forecasting systems challenging the status quo](https://phys.org/news/2023-07-ai-based-weather-forecasting-status-quo.html)
-- [Unchecked Java: Say Goodbye to Checked Exceptions Forever](https://github.com/rogerkeays/unchecked)
-- [When Work Didn’t Follow You Home](https://calnewport.com/when-work-didnt-follow-you-home/)
+- [Faster Neural Networks Straight from JPEG](https://www.uber.com/blog/neural-networks-jpeg/)
+- [FDA Approves First Nonprescription Daily Oral Contraceptive](https://www.fda.gov/news-events/press-announcements/fda-approves-first-nonprescription-daily-oral-contraceptive)
+- [Bard’s latest update: more features, languages and countries](https://blog.google/products/bard/google-bard-new-features-update-july-2023/)
+- [Is Design Dead?](https://www.martinfowler.com/articles/designDead.html)
+- [Rust 1.71.0](https://blog.rust-lang.org/2023/07/13/Rust-1.71.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
