@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C++23’s Deducing this: what it is, why it is, how to use it](https://devblogs.microsoft.com/cppblog/cpp23-deducing-this/)
-- [GitHub merge queue is generally available](https://github.blog/2023-07-12-github-merge-queue-is-generally-available/)
-- [Gzip and KNN Outperforms Transformers on Text Classification](https://twitter.com/LukeGessler/status/1679211291292889100)
-- [Python consumes 38x more energy than Java](https://stratoflow.com/efficient-and-environment-friendly-programming-languages/)
-- [Download Instructions for More Than 6,800 Lego Kits at the Internet Archive](https://www.openculture.com/2023/07/download-instructions-for-more-than-6800-lego-kits-at-the-internet-archive.html)
+- [Tax prep firms shared ‘extraordinarily sensitive’ data about taxpayers with Meta](https://apnews.com/article/irs-taxpayer-tax-preparation-meta-congress-9315cfca7a0942ab89f765d183fbf822)
+- [100x Faster Than Wi-Fi: Light-Based Networking Standard Released](https://www.tomshardware.com/news/li-fi-standard-released)
+- [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
+- [Three signs that Wayland is becoming the favored way to get a GUI on Linux](https://www.theregister.com/2023/07/13/wayland_is_coming/)
+- [CWE Top Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
