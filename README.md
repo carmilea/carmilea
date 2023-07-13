@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flexport &lpar;Founders Fund company&rpar; is hiring](https://flexport.com/careers)
-- [OCI announces upcoming changes for registries](https://www.chainguard.dev/unchained/oci-announces-upcoming-changes-for-registries)
-- [Spike in Homelessness in US Cities Isn’t Slowing Down](https://www.msn.com/en-us/money/realestate/the-spike-in-homelessness-in-us-cities-isn-t-slowing-down/ar-AA1dOiKW)
-- [WW2 Meteorology](https://rafmetman.wordpress.com/meteorology/ww2-meteorology/)
-- [A relatively small amount of force applied at just the right place](https://www.tonykulesa.com/p/a-relatively-small-amount-of-force)
+- [Apple claims 99% iPhone 14 satisfaction. Is that possible? &lpar;No&rpar;. We investigate](https://www.perfectrec.com/posts/is-apple-making-implausible-iphone-satisfaction-claims)
+- [The FCC wants feedback about ATSC 3.0 encryption/DRM for OTA TV](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
+- [It&#39;s official: Smartphones will need to have replaceable batteries by 2027](https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/)
+- [Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
+- [We spent $20k on Google Play pre-registration ads](https://andreaskambanis.com/google-play-store-pre-registration-campaigns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
