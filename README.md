@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JumpCloud Security Incident Details](https://news.ycombinator.com/item?id=36706216)
-- [Indian developer fired 90 percent of tech support team, outsourced the job to AI](https://www.theregister.com/2023/07/13/dukaan_ai_support_replacement/)
-- [Disney, Netflix, and More Are Fighting FTC&#39;s &#39;Click to Cancel&#39; Proposal](https://www.businessinsider.com/hollywood-streamers-oppose-ftc-proposal-regulation-click-to-cancel-subscription-2023-7)
-- [Dt: Duck tape for your Unix pipes](https://dt.plumbing/)
-- [Xbox360 –&gt; Windows Executable Converter &lpar;2017&rpar;](https://github.com/rexdex/recompiler)
+- [C++23’s Deducing this: what it is, why it is, how to use it](https://devblogs.microsoft.com/cppblog/cpp23-deducing-this/)
+- [GitHub merge queue is generally available](https://github.blog/2023-07-12-github-merge-queue-is-generally-available/)
+- [Gzip and KNN Outperforms Transformers on Text Classification](https://twitter.com/LukeGessler/status/1679211291292889100)
+- [Python consumes 38x more energy than Java](https://stratoflow.com/efficient-and-environment-friendly-programming-languages/)
+- [Download Instructions for More Than 6,800 Lego Kits at the Internet Archive](https://www.openculture.com/2023/07/download-instructions-for-more-than-6800-lego-kits-at-the-internet-archive.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
