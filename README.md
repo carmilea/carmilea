@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patching GCC to Build Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
+- [StabilityAI Cofounder Says CEO Tricked Him into Selling Stake for $100](https://www.forbes.com/sites/kenrickcai/2023/07/13/stability-ai-cofounder-says-emad-mostaque-tricked-him-into-selling-stake-for-100/)
+- [Buddy Pond Cloud Desktop](https://buddypond.com/)
+- [Age of universe at 26.7B years, nearly twice as old as previously believed](https://phys.org/news/2023-07-age-universe-billion-years-previously.html)
 - [Cowboy rides to the rescue of VanMoof owners with app to unlock threatened bikes](https://techcrunch.com/2023/07/13/cowboy-rides-to-the-rescue-of-vanmoof-owners-with-app-to-unlock-threatened-bikes/)
-- [Celsius Was Lying](https://www.bloomberg.com/opinion/articles/2023-07-13/celsius-was-lying)
-- [New in Chrome 115](https://developer.chrome.com/blog/new-in-chrome-115/)
-- [Is Apple making implausible iPhone satisfaction claims?](https://www.perfectrec.com/posts/is-apple-making-implausible-iphone-satisfaction-claims)
-- [The FCC responds to my ATSC 3 encryption complaint – they want to hear from you](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
