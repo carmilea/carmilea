@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Export all bike details &lpar;such as encryption key&rpar; of your VanMoof bikes](https://github.com/grossartig/vanmoof-encryption-key-exporter)
+- [Looming demise of the 10x developer – an era of enthusiast programmers is ending](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
 - [AlmaLinux No Longer Aims for 1:1 Compatibility with RHEL](https://www.phoronix.com/news/AlmaLinux-No-1-1-RHEL)
 - [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
 - [On personal relations as a manager](https://fev.al/posts/personal-relations/)
-- [FTC investigating ChatGPT over potential consumer harm](https://www.npr.org/2023/07/13/1187532997/ftc-investigating-chatgpt-over-potential-consumer-harm)
-- [Someone crafted a redstone PC in Minecraft to play Minecraft inside Minecraft](https://www.pcgamer.com/minecraftception-redstone-pc-chungus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
