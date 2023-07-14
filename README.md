@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blender: Low-degree semi-structured splines for interactive modeling](https://projects.blender.org/blender/blender-addons/issues/91180)
+- [Generate RSS feed for any website using CSS selectors](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
+- [Arepo: Massively parallel gravity and magnetohydrodynamic for astrophysics](https://arepo-code.org)
+- [In the Northern Rockies, grizzly bears are on the move](https://www.hcn.org/articles/bears-in-the-northern-rockies-grizzly-bears-are-on-the-move)
 - [Claude 2 Internal API Client and CLI](https://github.com/Explosion-Scratch/claude-unofficial-api)
-- [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
-- [Sniffnet – Comfortably monitor your Internet traffic &lpar;Like Wireshark&rpar;](https://www.sniffnet.net/)
-- [Bank Transfers as a Payment Method](https://www.bitsaboutmoney.com/archive/bank-transfers-as-a-payment-method/)
-- [Libxo: Easy way to generate text, XML, JSON, and HTML](https://juniper.github.io/libxo/libxo-manual.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
