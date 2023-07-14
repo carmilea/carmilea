@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
-- [Social media riot shutdowns possible under EU content law, top official says](https://www.politico.eu/article/social-media-riot-shutdowns-possible-under-eu-content-law-breton-says/)
 - [VanMoof encryption key exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter)
 - [How blind photographers visualize the world](https://www.photoroo.com/37295319/how-blind-photographers-visualize-the-world#/)
 - [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
+- [Personal relations as a manager](https://fev.al/posts/personal-relations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
