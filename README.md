@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US inflation cooled in June for the 12th straight month](https://www.cnn.com/2023/07/12/economy/cpi-inflation-june/index.html)
-- [“The days of using untyped languages on non-trivial projects are over.”](https://github.com/readme/featured/typescript-gradual-types)
-- [Using Lemmy from my existing Mastodon](https://vijayprema.com/using-lemmy-from-my-existing-mastodon/)
-- [Southern Europe in extreme heat, with Greece seeing temperatures of 40C or more](https://www.bbc.co.uk/news/world-europe-66202093)
-- [Building a Safer FIDO2 Key with Privilege Separation and WebAssembly](https://benkettle.xyz/posts/plat/)
+- [Astronomers witness energetic switch on of black hole](https://phys.org/news/2023-07-astronomers-witness-energetic-black-hole.html)
+- [Does the microbiome hold the key to chronic fatigue syndrome?](https://www.theguardian.com/science/2023/jul/09/microbiome-chronic-fatigue-me-long-covid-research)
+- [Ever Given Report Highlights Suez Canal Pilots’ Role in Grounding](https://gcaptain.com/ever-given-report-highlights-suez-canal-pilots-role-in-grounding/)
+- [How to Bulk Load Vectors Into SingleStoreDB](https://www.singlestore.com/blog/how-to-bulk-load-vectors-into-singlestoredb-/)
+- [Binance lays off over 1k Employees](https://www.wsj.com/articles/binance-lays-off-over-1-000-employees-d59ff6ad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
