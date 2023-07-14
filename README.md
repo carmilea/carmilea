@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Super Mario 64 – Watch for Rolling Rocks – 0.5x a Presses [video]](https://www.youtube.com/watch?v=kpk2tdsPh0A)
-- [Game Design Wiki](https://rosacarbo.notion.site/Game-design-wiki-6902c5dc9d1242c9a70822f13e6c76b3)
-- [Cosmic Skies of a Colorado July](https://blog.system76.com/post/cosmic-skies-of-a-colorado-july-2023/)
-- [Meta to release open-source commercial AI model](https://www.zdnet.com/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/)
-- [Dropped iPad implicated in fatal Rotak Chinook helicopter crash](https://verticalmag.com/news/dropped-ipad-implicated-in-fatal-chinook-helicopter-crash/)
+- [US inflation cooled in June for the 12th straight month](https://www.cnn.com/2023/07/12/economy/cpi-inflation-june/index.html)
+- [“The days of using untyped languages on non-trivial projects are over.”](https://github.com/readme/featured/typescript-gradual-types)
+- [Using Lemmy from my existing Mastodon](https://vijayprema.com/using-lemmy-from-my-existing-mastodon/)
+- [Southern Europe in extreme heat, with Greece seeing temperatures of 40C or more](https://www.bbc.co.uk/news/world-europe-66202093)
+- [Building a Safer FIDO2 Key with Privilege Separation and WebAssembly](https://benkettle.xyz/posts/plat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
