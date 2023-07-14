@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FDA says aspartame is safe, disagreeing with WHO finding on possible cancer link](https://www.cnbc.com/2023/07/14/fda-says-aspartame-is-safe-disagrees-with-who-on-possible-cancer-link.html)
+- [Libxo: The Easy Way to Generate Text, XML, JSON, and HTML Output](https://juniper.github.io/libxo/libxo-manual.html)
 - [Astronomers witness energetic switch on of black hole](https://phys.org/news/2023-07-astronomers-witness-energetic-black-hole.html)
+- [Large-Scale Analysis of Code Re-Use in Atari 2600 Games](https://dl.acm.org/doi/fullHtml/10.1145/3555858.3555948)
 - [Does the microbiome hold the key to chronic fatigue syndrome?](https://www.theguardian.com/science/2023/jul/09/microbiome-chronic-fatigue-me-long-covid-research)
-- [Ever Given Report Highlights Suez Canal Pilots’ Role in Grounding](https://gcaptain.com/ever-given-report-highlights-suez-canal-pilots-role-in-grounding/)
-- [How to Bulk Load Vectors Into SingleStoreDB](https://www.singlestore.com/blog/how-to-bulk-load-vectors-into-singlestoredb-/)
-- [Binance lays off over 1k Employees](https://www.wsj.com/articles/binance-lays-off-over-1-000-employees-d59ff6ad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
