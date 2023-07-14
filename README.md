@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Interview with Senior Rust Developer in 2023 &lpar;Parody&rpar; [video]](https://www.youtube.com/watch?v=TGfQu0bQTKc)
-- [Hungary nuclear plant cuts output because of warm Danube waters](https://www.reuters.com/business/energy/hungary-nuclear-plant-cuts-output-because-warm-danube-waters-2023-07-14/)
-- [Police Department Uses Clearview AI for a Year, to the Surprise of Its Oversight](https://www.techdirt.com/2023/07/13/an-indiana-police-department-has-been-using-clearview-ai-for-a-year-much-to-the-surprise-of-its-oversight/)
+- [Meta to release open-source commercial AI model](https://www.zdnet.com/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/)
+- [Dropped iPad implicated in fatal Rotak Chinook helicopter crash](https://verticalmag.com/news/dropped-ipad-implicated-in-fatal-chinook-helicopter-crash/)
+- [Show HN: I made a website that color-codes the world by language](https://languageworldmap.com)
+- [The internet didn’t kill counterculture, it&#39;s just not on Instagram &lpar;2021&rpar;](https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/)
 - [Podman Desktop 1.2 Released: Compose and Kubernetes Support](https://podman-desktop.io/blog/podman-desktop-release-1.2)
-- [Buying Campaign Contributions as a Hack](https://www.schneier.com/blog/archives/2023/07/buying-campaign-contributions-as-a-hack.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
