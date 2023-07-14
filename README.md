@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
+- [On personal relations as a manager](https://fev.al/posts/personal-relations/)
+- [FTC investigating ChatGPT over potential consumer harm](https://www.npr.org/2023/07/13/1187532997/ftc-investigating-chatgpt-over-potential-consumer-harm)
+- [FTC Sends Civil Investigation Demand to OpenAI [pdf]](https://www.washingtonpost.com/documents/67a7081c-c770-4f05-a39e-9d02117e50e8.pdf)
 - [Someone crafted a redstone PC in Minecraft to play Minecraft inside Minecraft](https://www.pcgamer.com/minecraftception-redstone-pc-chungus/)
-- [The Future of AlmaLinux is Bright](https://almalinux.org/blog/future-of-almalinux/)
-- [SEO expert hired and fired by Ashley Madison turned on company promising revenge](https://krebsonsecurity.com/2023/07/seo-expert-hired-and-fired-by-ashley-madison-turned-on-company-promising-revenge/)
-- [Benefit Layers: How to avoid sales fluff in devtools](https://dx.tips/benefit-layers)
-- [Position-Driven Styles](https://kizu.dev/position-driven-styles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
