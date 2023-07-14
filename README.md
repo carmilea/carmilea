@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Right to Sex: Feminism in the Twenty-First Century](https://ahalbert.com/reviews/2023/07/14/the_right_to_sex.html)
 - [OpenBSD: Mandatory enforcement of indirect branch targets](https://undeadly.org/cgi?action=article;sid=20230714121907)
 - [‘It’s the Wild West’: Vienna’s spying problem spins out of control](https://www.ft.com/content/f790d8f4-2fe1-466d-8b29-83b1f4956984)
+- [Polar v1.0: Let’s Fix Open Source Funding](https://blog.polar.sh/polar-v1-0-lets-fix-open-source-funding/)
 - [Voice Actor Turns Instagram&#39;s Terms of Service into 51-Minute Sleep Aid](https://www.vice.com/en/article/7kxkgx/voice-actor-turns-instagrams-terms-of-service-into-51-minute-sleep-aid)
-- [Electric Vehicles for Everyone? The Impossible Dream](https://manhattan.institute/article/electric-vehicles-for-everyone-the-impossible-dream)
-- [India&#39;s Chandrayaan-3 launches to explore moons water rich South Pole](https://www.newscientist.com/article/2382565-indias-chandrayaan-3-launches-to-explore-moons-water-rich-south-pole/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
