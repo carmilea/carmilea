@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenBSD: Mandatory enforcement of indirect branch targets](https://undeadly.org/cgi?action=article;sid=20230714121907)
+- [‘It’s the Wild West’: Vienna’s spying problem spins out of control](https://www.ft.com/content/f790d8f4-2fe1-466d-8b29-83b1f4956984)
+- [Voice Actor Turns Instagram&#39;s Terms of Service into 51-Minute Sleep Aid](https://www.vice.com/en/article/7kxkgx/voice-actor-turns-instagrams-terms-of-service-into-51-minute-sleep-aid)
+- [Electric Vehicles for Everyone? The Impossible Dream](https://manhattan.institute/article/electric-vehicles-for-everyone-the-impossible-dream)
 - [India&#39;s Chandrayaan-3 launches to explore moons water rich South Pole](https://www.newscientist.com/article/2382565-indias-chandrayaan-3-launches-to-explore-moons-water-rich-south-pole/)
-- [On Becoming a VP of Engineering](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
-- [Why software projects take longer than you think: a statistical model &lpar;2019&rpar;](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
-- [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
-- [Publishing in a Medieval Monastery](https://www.cambridge.org/core/elements/publishing-in-a-medieval-monastery/17B31679A5EF213BFCAF283BBB4C6440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
