@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On Becoming a VP of Engineering](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
 - [Effect of Perceptual Load on Performance Within IDE in People with ADHD Symptoms](https://link.springer.com/chapter/10.1007/978-3-031-35017-7_9)
 - [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
 - [VanMoof encryption key exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter)
-- [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
-- [Personal relations as a manager](https://fev.al/posts/personal-relations/)
+- [How blind photographers visualize the world](https://www.photoroo.com/37295319/how-blind-photographers-visualize-the-world#/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
