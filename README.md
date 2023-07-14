@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [India&#39;s Chandrayaan-3 launches to explore moons water rich South Pole](https://www.newscientist.com/article/2382565-indias-chandrayaan-3-launches-to-explore-moons-water-rich-south-pole/)
 - [On Becoming a VP of Engineering](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
-- [Effect of Perceptual Load on Performance Within IDE in People with ADHD Symptoms](https://link.springer.com/chapter/10.1007/978-3-031-35017-7_9)
+- [Why software projects take longer than you think: a statistical model &lpar;2019&rpar;](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
 - [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
-- [VanMoof encryption key exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter)
-- [How blind photographers visualize the world](https://www.photoroo.com/37295319/how-blind-photographers-visualize-the-world#/)
+- [Publishing in a Medieval Monastery](https://www.cambridge.org/core/elements/publishing-in-a-medieval-monastery/17B31679A5EF213BFCAF283BBB4C6440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
