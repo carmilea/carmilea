@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Right to Sex: Feminism in the Twenty-First Century](https://ahalbert.com/reviews/2023/07/14/the_right_to_sex.html)
-- [OpenBSD: Mandatory enforcement of indirect branch targets](https://undeadly.org/cgi?action=article;sid=20230714121907)
-- [‘It’s the Wild West’: Vienna’s spying problem spins out of control](https://www.ft.com/content/f790d8f4-2fe1-466d-8b29-83b1f4956984)
-- [Polar v1.0: Let’s Fix Open Source Funding](https://blog.polar.sh/polar-v1-0-lets-fix-open-source-funding/)
-- [Voice Actor Turns Instagram&#39;s Terms of Service into 51-Minute Sleep Aid](https://www.vice.com/en/article/7kxkgx/voice-actor-turns-instagrams-terms-of-service-into-51-minute-sleep-aid)
+- [Interview with Senior Rust Developer in 2023 &lpar;Parody&rpar; [video]](https://www.youtube.com/watch?v=TGfQu0bQTKc)
+- [Hungary nuclear plant cuts output because of warm Danube waters](https://www.reuters.com/business/energy/hungary-nuclear-plant-cuts-output-because-warm-danube-waters-2023-07-14/)
+- [Police Department Uses Clearview AI for a Year, to the Surprise of Its Oversight](https://www.techdirt.com/2023/07/13/an-indiana-police-department-has-been-using-clearview-ai-for-a-year-much-to-the-surprise-of-its-oversight/)
+- [Podman Desktop 1.2 Released: Compose and Kubernetes Support](https://podman-desktop.io/blog/podman-desktop-release-1.2)
+- [Buying Campaign Contributions as a Hack](https://www.schneier.com/blog/archives/2023/07/buying-campaign-contributions-as-a-hack.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
