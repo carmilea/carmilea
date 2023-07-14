@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FDA says aspartame is safe, disagreeing with WHO finding on possible cancer link](https://www.cnbc.com/2023/07/14/fda-says-aspartame-is-safe-disagrees-with-who-on-possible-cancer-link.html)
-- [Libxo: The Easy Way to Generate Text, XML, JSON, and HTML Output](https://juniper.github.io/libxo/libxo-manual.html)
-- [Astronomers witness energetic switch on of black hole](https://phys.org/news/2023-07-astronomers-witness-energetic-black-hole.html)
-- [Large-Scale Analysis of Code Re-Use in Atari 2600 Games](https://dl.acm.org/doi/fullHtml/10.1145/3555858.3555948)
-- [Does the microbiome hold the key to chronic fatigue syndrome?](https://www.theguardian.com/science/2023/jul/09/microbiome-chronic-fatigue-me-long-covid-research)
+- [Claude 2 Internal API Client and CLI](https://github.com/Explosion-Scratch/claude-unofficial-api)
+- [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
+- [Sniffnet – Comfortably monitor your Internet traffic &lpar;Like Wireshark&rpar;](https://www.sniffnet.net/)
+- [Bank Transfers as a Payment Method](https://www.bitsaboutmoney.com/archive/bank-transfers-as-a-payment-method/)
+- [Libxo: Easy way to generate text, XML, JSON, and HTML](https://juniper.github.io/libxo/libxo-manual.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
