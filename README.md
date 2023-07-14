@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New EU regulations mandate user-replaceable batteries in Apple products](https://appleinsider.com/articles/23/07/13/new-eu-regulations-mandate-user-replaceable-batteries-in-apple-products)
+- [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
 - [Social media riot shutdowns possible under EU content law, top official says](https://www.politico.eu/article/social-media-riot-shutdowns-possible-under-eu-content-law-breton-says/)
 - [VanMoof encryption key exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter)
-- [How Blind Photographers Visualize the World](https://www.photoroo.com/37295319/how-blind-photographers-visualize-the-world#/)
-- [AlmaLinux No Longer Aims for 1:1 Compatibility with RHEL](https://www.phoronix.com/news/AlmaLinux-No-1-1-RHEL)
+- [How blind photographers visualize the world](https://www.photoroo.com/37295319/how-blind-photographers-visualize-the-world#/)
+- [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
