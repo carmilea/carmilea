@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Export all bike details &lpar;such as encryption key&rpar; of your VanMoof bikes](https://github.com/grossartig/vanmoof-encryption-key-exporter)
-- [Looming demise of the 10x developer – an era of enthusiast programmers is ending](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
+- [New EU regulations mandate user-replaceable batteries in Apple products](https://appleinsider.com/articles/23/07/13/new-eu-regulations-mandate-user-replaceable-batteries-in-apple-products)
+- [Social media riot shutdowns possible under EU content law, top official says](https://www.politico.eu/article/social-media-riot-shutdowns-possible-under-eu-content-law-breton-says/)
+- [VanMoof encryption key exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter)
+- [How Blind Photographers Visualize the World](https://www.photoroo.com/37295319/how-blind-photographers-visualize-the-world#/)
 - [AlmaLinux No Longer Aims for 1:1 Compatibility with RHEL](https://www.phoronix.com/news/AlmaLinux-No-1-1-RHEL)
-- [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
-- [On personal relations as a manager](https://fev.al/posts/personal-relations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
