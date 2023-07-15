@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [News Is Propaganda](https://www.joshualiu.org/blog/news-is-propaganda)
+- [Motorola 6800 EXORciser development system simulator](https://github.com/jhallen/exorsim)
+- [I Conscientiously Object to Self-Driving Cars](https://raypatrick.xyz/blog/2023/05/27/i-conscientiously-object-to-self-driving-cars/)
 - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
 - [History of T &lpar;2001&rpar;](http://www.paulgraham.com/thist.html)
-- [Tor is not just for anonymity](https://blog.pastly.net/posts/2022-11-09-tor-is-not-just-for-anonymity/)
-- [Akan Names](https://en.wikipedia.org/wiki/Akan_names)
-- [The cyberpragmatics of bounding asterisks &lpar;2013&rpar;](https://languagelog.ldc.upenn.edu/nll/?p=4466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
