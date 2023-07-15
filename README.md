@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Emojis in 2023-2024](https://blog.emojipedia.org/new-emojis-in-2023/)
+- [Matrices and Graph](https://thepalindrome.org/p/matrices-and-graphs)
 - [JDF.jl – Julia DataFrames serialization format](https://github.com/xiaodaigh/JDF.jl)
 - [The Uxn Ecosystem](https://100r.co/site/uxn.html)
 - [The theory versus the practice of “static websites”](https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice)
-- [Evidence for a gravitational wave background from a galaxy-sized detector](https://astrobites.org/2023/06/28/drop-the-bass-evidence-for-a-gravitational-wave-background-from-a-galaxy-sized-detector/)
-- [The day I locked everyone out of the company intranet](https://www.dancowell.com/balls-the-day-i-locked-ev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
