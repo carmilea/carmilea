@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
-- [History of T](http://www.paulgraham.com/thist.html)
+- [History of T &lpar;2001&rpar;](http://www.paulgraham.com/thist.html)
 - [Tor is not just for anonymity](https://blog.pastly.net/posts/2022-11-09-tor-is-not-just-for-anonymity/)
 - [Akan Names](https://en.wikipedia.org/wiki/Akan_names)
 - [The cyberpragmatics of bounding asterisks &lpar;2013&rpar;](https://languagelog.ldc.upenn.edu/nll/?p=4466)
