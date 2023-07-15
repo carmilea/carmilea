@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“The Famous F40” Vector Illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
-- [Meticulous &lpar;YC S21&rpar; is hiring founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36738828)
-- [Company Builds 500cc ‘One-Stroke’ Engine](https://www.thedrive.com/news/company-builds-powerful-500cc-one-stroke-engine-immediately-installs-it-in-a-miata)
-- [Another World ported to FPGA](https://github.com/sylefeb/a5k)
-- [Fusion reactor is held together with tape](https://spectrum.ieee.org/fusion-2662267312)
+- [EU to vote regulation that has a considerable potential to hurt OSS](https://github.blog/2023-07-12-no-cyber-resilience-without-open-source-sustainability/)
+- [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/)
+- [Creative people enjoy idle time more than others](https://news.arizona.edu/story/creative-people-enjoy-idle-time-more-others)
+- [The phase transition of creativity: Symmetry breaking in diffusion models](https://gabrielraya.com/blog/2023/symmetry-breaking-diffusion-models/)
+- [Receiving Unintentional Voice Transmissions from GPS Satellites](https://www.rtl-sdr.com/receiving-unintentional-voice-transmissions-from-gps-satellites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
