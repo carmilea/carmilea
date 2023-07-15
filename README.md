@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Look ma, no React Why I recoded my portfolio site with vanilla everything](https://clairefro.dev/blog/p/look-ma-no-react-why-i-recoded-my-portfolio-site-with-vanilla-everything)
-- [Tricking Monty Hall](https://ignorethecode.net/blog/2023/07/15/tricking_monty_hall/)
-- [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
-- [Is Quantum Computing taking off?](https://www.quantinuum.com/news/quantinuum-h-series-quantum-computer-accelerates-through-3-more-performance-records-for-quantum-volume-217-218-and-219)
-- [The Pull Request Hack Is Fucking Magic](https://shkspr.mobi/blog/2023/07/the-pull-request-hack-is-fucking-magic/)
+- [‘I know about lying, I do it for a living’: Ben McKenzie as crypto critic](https://www.theguardian.com/tv-and-radio/2023/jul/15/ben-mckenzie-interview-oc-cryptocurrency)
+- [Why do cloud providers keep building datacenters in the America&#39;s hottest city?](https://www.theregister.com/2023/07/15/cloud_datacenters_desert/)
+- [Ask HN: How to price your first Enterprise customer?](https://news.ycombinator.com/item?id=36736795)
+- [Child pornography on sale from hacked Hikvision cameras using Hik-Connect app](https://ipvm.com/reports/cp-sale-hack?code=fgasdtgf)
+- [Look ma, no React: I recoded my portfolio site with vanilla everything](https://clairefro.dev/blog/p/look-ma-no-react-why-i-recoded-my-portfolio-site-with-vanilla-everything)
 <!-- BLOG-POST-LIST:END -->
 
 ---
