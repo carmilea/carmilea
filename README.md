@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU to vote regulation that has a considerable potential to hurt OSS](https://github.blog/2023-07-12-no-cyber-resilience-without-open-source-sustainability/)
+- [Planes and Helicopters That Don&#39;t Require a Pilots License](https://pilotinstitute.com/flying-without-a-license/)
+- [No cyber resilience without open source sustainability](https://github.blog/2023-07-12-no-cyber-resilience-without-open-source-sustainability/)
 - [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/)
-- [Creative people enjoy idle time more than others](https://news.arizona.edu/story/creative-people-enjoy-idle-time-more-others)
-- [The phase transition of creativity: Symmetry breaking in diffusion models](https://gabrielraya.com/blog/2023/symmetry-breaking-diffusion-models/)
-- [Receiving Unintentional Voice Transmissions from GPS Satellites](https://www.rtl-sdr.com/receiving-unintentional-voice-transmissions-from-gps-satellites/)
+- [Chuck E. Cheese&#39;s 1982 Annual Report For Kids [pdf]](https://www.showbizpizza.com/info/documents/ptt/ptt_annualreport1982kids.pdf)
+- [Unloop: A generative music looper that doesn’t repeat itself](https://github.com/hugofloresgarcia/unloop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
