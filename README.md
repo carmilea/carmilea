@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fusion Reactor Is Held Together with Tape](https://spectrum.ieee.org/fusion-2662267312)
-- [Dairyland &lpar;blogging platform from &#39;99&rpar; is still going?](https://members.diaryland.com/edit/)
-- [Signal&#39;s president vows to reject UK law on message scanning before encryption](https://fortune.com/2023/07/13/signal-president-mass-surveillance-uk-law/)
-- [Threads, a Slack alternative unrelated to Instagram, has seen downloads surge](https://techcrunch.com/2023/07/15/threads-a-slack-alternative-completely-unrelated-to-instagram-has-seen-downloads-surge/)
-- [“Our paying customers need X, when will you fix it?”](https://twitter.com/maximilianhils/status/1680193548212228097)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36738828)
+- [Homebuyers must ‘learn to live’ with near-7% mortgage rates says RE/MAX chairman](https://www.cnn.com/2023/07/14/business/mortgage-rates-buy-home/index.html)
+- [Company Builds Powerful 500cc ‘One-Stroke’ Engine](https://www.thedrive.com/news/company-builds-powerful-500cc-one-stroke-engine-immediately-installs-it-in-a-miata)
+- [Another World Ported to FPGA](https://github.com/sylefeb/a5k)
+- [Surfactants safely take down mosquitoes without using insecticides](https://newatlas.com/science/surfactants-safely-take-down-mosquitoes-without-using-insecticides/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
