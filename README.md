@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
 - [New research indicates social rigidity is a key predictor of cognitive rigidity](https://www.psypost.org/2023/07/new-psychology-research-indicates-that-social-rigidity-is-a-key-predictor-of-cognitive-rigidity-166284)
 - [Is Quantum Computing taking off?](https://www.quantinuum.com/news/quantinuum-h-series-quantum-computer-accelerates-through-3-more-performance-records-for-quantum-volume-217-218-and-219)
 - [The Pull Request Hack Is Fucking Magic](https://shkspr.mobi/blog/2023/07/the-pull-request-hack-is-fucking-magic/)
 - [Snakemake – A framework for reproducible data analysis](https://snakemake.github.io/)
-- [Matrices and Graph](https://thepalindrome.org/p/matrices-and-graphs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
