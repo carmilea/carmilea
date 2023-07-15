@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [News Is Propaganda](https://www.joshualiu.org/blog/news-is-propaganda)
+- [How to store a permutation compactly &lpar;2022&rpar;](https://hackmd.io/@dabo/rkP8Pcf9t)
 - [Motorola 6800 EXORciser development system simulator](https://github.com/jhallen/exorsim)
-- [I Conscientiously Object to Self-Driving Cars](https://raypatrick.xyz/blog/2023/05/27/i-conscientiously-object-to-self-driving-cars/)
 - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
+- [Why do so few people major in computer science? &lpar;2017&rpar;](https://danwang.co/why-so-few-computer-science-majors/)
 - [History of T &lpar;2001&rpar;](http://www.paulgraham.com/thist.html)
 <!-- BLOG-POST-LIST:END -->
 
