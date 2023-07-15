@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meticulous &lpar;YC S21&rpar; Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36738828)
-- [Homebuyers must ‘learn to live’ with near-7% mortgage rates says RE/MAX chairman](https://www.cnn.com/2023/07/14/business/mortgage-rates-buy-home/index.html)
-- [Company Builds Powerful 500cc ‘One-Stroke’ Engine](https://www.thedrive.com/news/company-builds-powerful-500cc-one-stroke-engine-immediately-installs-it-in-a-miata)
-- [Another World Ported to FPGA](https://github.com/sylefeb/a5k)
-- [Surfactants safely take down mosquitoes without using insecticides](https://newatlas.com/science/surfactants-safely-take-down-mosquitoes-without-using-insecticides/)
+- [“The Famous F40” Vector Illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
+- [Meticulous &lpar;YC S21&rpar; is hiring founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36738828)
+- [Company Builds 500cc ‘One-Stroke’ Engine](https://www.thedrive.com/news/company-builds-powerful-500cc-one-stroke-engine-immediately-installs-it-in-a-miata)
+- [Another World ported to FPGA](https://github.com/sylefeb/a5k)
+- [Fusion reactor is held together with tape](https://spectrum.ieee.org/fusion-2662267312)
 <!-- BLOG-POST-LIST:END -->
 
 ---
