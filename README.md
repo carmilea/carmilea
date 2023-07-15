@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Planes and Helicopters That Don&#39;t Require a Pilots License](https://pilotinstitute.com/flying-without-a-license/)
-- [No cyber resilience without open source sustainability](https://github.blog/2023-07-12-no-cyber-resilience-without-open-source-sustainability/)
+- [Metaculus](https://www.metaculus.com/home/)
+- [Nailing jelly to a wall: is it possible?](https://greem.co.uk/otherbits/jelly.html)
 - [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/)
 - [Chuck E. Cheese&#39;s 1982 Annual Report For Kids [pdf]](https://www.showbizpizza.com/info/documents/ptt/ptt_annualreport1982kids.pdf)
-- [Unloop: A generative music looper that doesn’t repeat itself](https://github.com/hugofloresgarcia/unloop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
