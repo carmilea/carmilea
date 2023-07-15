@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [‘I know about lying, I do it for a living’: Ben McKenzie as crypto critic](https://www.theguardian.com/tv-and-radio/2023/jul/15/ben-mckenzie-interview-oc-cryptocurrency)
-- [Why do cloud providers keep building datacenters in the America&#39;s hottest city?](https://www.theregister.com/2023/07/15/cloud_datacenters_desert/)
-- [Ask HN: How to price your first Enterprise customer?](https://news.ycombinator.com/item?id=36736795)
-- [Child pornography on sale from hacked Hikvision cameras using Hik-Connect app](https://ipvm.com/reports/cp-sale-hack?code=fgasdtgf)
-- [Look ma, no React: I recoded my portfolio site with vanilla everything](https://clairefro.dev/blog/p/look-ma-no-react-why-i-recoded-my-portfolio-site-with-vanilla-everything)
+- [Fusion Reactor Is Held Together with Tape](https://spectrum.ieee.org/fusion-2662267312)
+- [Dairyland &lpar;blogging platform from &#39;99&rpar; is still going?](https://members.diaryland.com/edit/)
+- [Signal&#39;s president vows to reject UK law on message scanning before encryption](https://fortune.com/2023/07/13/signal-president-mass-surveillance-uk-law/)
+- [Threads, a Slack alternative unrelated to Instagram, has seen downloads surge](https://techcrunch.com/2023/07/15/threads-a-slack-alternative-completely-unrelated-to-instagram-has-seen-downloads-surge/)
+- [“Our paying customers need X, when will you fix it?”](https://twitter.com/maximilianhils/status/1680193548212228097)
 <!-- BLOG-POST-LIST:END -->
 
 ---
