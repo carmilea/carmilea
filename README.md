@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why was the F-117 retired so quickly?](https://www.technology.org/how-and-why/why-was-the-f-117-retired-so-quickly-top-facts/)
-- [Food companies ‘sweetened the world’ and increased the risk of disease](https://www.theguardian.com/global-development/2023/jul/14/how-food-companies-sweetened-the-world-and-increased-the-risk-of-disease-acc)
-- [Polyhedral Splines](https://uf-cise-surflab.github.io/blender-polyhedral-splines-web/)
-- [Generate RSS feed for any website using CSS selectors](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
-- [Arepo: Massively parallel gravity and magnetohydrodynamic for astrophysics](https://arepo-code.org)
+- [Akan Names](https://en.wikipedia.org/wiki/Akan_names)
+- [The cyberpragmatics of bounding asterisks &lpar;2013&rpar;](https://languagelog.ldc.upenn.edu/nll/?p=4466)
+- [2,500 continuous runtime hours on a 4.77Mhz DOS web server](http://brutmanlabs.org)
+- [Lies, damned lies: debunking Cloudflare’s recent performance tests &lpar;2021&rpar;](https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests)
+- [Fudge: Reverse Tetris](https://vividfax.itch.io/fudge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
