@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
+- [History of T](http://www.paulgraham.com/thist.html)
+- [Tor is not just for anonymity](https://blog.pastly.net/posts/2022-11-09-tor-is-not-just-for-anonymity/)
 - [Akan Names](https://en.wikipedia.org/wiki/Akan_names)
 - [The cyberpragmatics of bounding asterisks &lpar;2013&rpar;](https://languagelog.ldc.upenn.edu/nll/?p=4466)
-- [2,500 continuous runtime hours on a 4.77Mhz DOS web server](http://brutmanlabs.org)
-- [Lies, damned lies: debunking Cloudflare’s recent performance tests &lpar;2021&rpar;](https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests)
-- [Fudge: Reverse Tetris](https://vividfax.itch.io/fudge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
