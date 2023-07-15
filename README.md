@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Planes and Helicopters That Don&#39;t Require a Pilots License](https://pilotinstitute.com/flying-without-a-license/)
+- [Mega-dose vit. C in treatment of the common cold: a randomised controlled trial](https://pubmed.ncbi.nlm.nih.gov/11700812/)
+- [PostgreSQL: No More Vacuum, No More Bloat](https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/)
+- [The Bus Ticket Theory of Genius](https://paulgraham.com/genius.html)
+- [Hackers in olden times: microscope research in 1677](https://theamericanscholar.org/a-kingdom-of-little-animals/)
 - [Metaculus](https://www.metaculus.com/home/)
-- [Nailing jelly to a wall: is it possible?](https://greem.co.uk/otherbits/jelly.html)
-- [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/)
-- [Chuck E. Cheese&#39;s 1982 Annual Report For Kids [pdf]](https://www.showbizpizza.com/info/documents/ptt/ptt_annualreport1982kids.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
