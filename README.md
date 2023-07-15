@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Tech World: A Look at the Rise of Technology News Websites](https://www.techradarto.com/)
+- [YC offers early interviews for AI companies](https://www.ycombinator.com/blog/early-interviews-for-ai-companies)
 - [How to store a permutation compactly &lpar;2022&rpar;](https://hackmd.io/@dabo/rkP8Pcf9t)
 - [Motorola 6800 EXORciser development system simulator](https://github.com/jhallen/exorsim)
 - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
-- [Why do so few people major in computer science? &lpar;2017&rpar;](https://danwang.co/why-so-few-computer-science-majors/)
-- [History of T &lpar;2001&rpar;](http://www.paulgraham.com/thist.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
