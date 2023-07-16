@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AmazonBasics Microwave: Accessible for People with Visual Impairments &lpar;2019&rpar;](https://www.afb.org/aw/20/12/16848)
 - [Taskfile: A Modern Alternative to Makefile](https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative)
 - [Hundreds of drones plunge into Melbourne’s Yarra River](https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-river/102607576)
-- [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
+- [How I run my servers &lpar;2022&rpar;](https://blog.wesleyac.com/posts/how-i-run-my-servers)
 - [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated)
-- [Are you a “harbinger of failure”? &lpar;2015&rpar;](https://news.mit.edu/2015/harbinger-failure-consumers-unpopular-products-1223)
 <!-- BLOG-POST-LIST:END -->
 
 ---
