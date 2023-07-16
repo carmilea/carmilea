@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Taskfile: A Modern Alternative to Makefile](https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative)
 - [Hundreds of drones plunge into Melbourne’s Yarra River](https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-river/102607576)
+- [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
 - [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated)
 - [Are you a “harbinger of failure”? &lpar;2015&rpar;](https://news.mit.edu/2015/harbinger-failure-consumers-unpopular-products-1223)
-- [WormGPT – The Generative AI Tool Cybercriminals Are Using](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
-- [How does Sonic and Knuckles&#39; “Lock-On Technology” work? &lpar;2016&rpar;](https://retrocomputing.stackexchange.com/questions/1514/how-exactly-does-sonic-knuckles-lock-on-technology-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
