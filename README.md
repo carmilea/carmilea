@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Electric Bike, Stupid Love of My Life](https://craigmod.com/essays/electric_bikes/)
-- [World’s largest climate modelling project](https://www.climateprediction.net/)
-- [A PostgreSQL Docker container that automatically upgrades PostgreSQL](https://github.com/justinclift/docker-pgautoupgrade)
-- [TikTok Extends the Wasteland](https://hedgehogreview.com/issues/theological-variations/articles/tiktok-extends-the-wasteland)
-- [Discord Is Not Documentation](https://shkspr.mobi/blog/2023/07/discord-is-not-documentation/)
+- [Who Employs Your Doctor? Increasingly, a Private Equity Firm](https://www.nytimes.com/2023/07/10/upshot/private-equity-doctors-offices.html)
+- [A functional cure for diabetes is now available in the US](https://www.freethink.com/health/brittle-diabetes)
+- [300K+ Free SVG Icons, Collections, and Logos](https://svgmix.com/)
+- [What Makes Developers Productive?](https://jeremymikkola.com/posts/developer_productivity.html)
+- [Big Oil quietly walks back on climate pledges](https://www.theguardian.com/us-news/2023/jul/16/big-oil-climate-pledges-extreme-heat-fossil-fuel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
