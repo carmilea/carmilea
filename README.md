@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Discord Is Not Documentation](https://shkspr.mobi/blog/2023/07/discord-is-not-documentation/)
+- [It Takes 6 Days to Change 1 Line of Code](https://edw519.posthaven.com/it-takes-6-days-to-change-1-line-of-code)
 - [Todo apps are meant for robots](https://frantic.im/todo-for-robots/)
-- [Threads 24% likely to overtake Twitter, down from 49% say prediction markets](https://www.baseratetimes.com/#Twitter)
 - [No CSS Club – because no JavaScript was not hardcore enough](https://nocss.club/)
 - [CSS Findings from the Threads App](https://ishadeed.com/article/threads-app-css/)
 <!-- BLOG-POST-LIST:END -->
