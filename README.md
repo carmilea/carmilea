@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord Is Not Documentation](https://shkspr.mobi/blog/2023/07/discord-is-not-documentation/)
+- [Todo apps are meant for robots](https://frantic.im/todo-for-robots/)
+- [Threads 24% likely to overtake Twitter, down from 49% say prediction markets](https://www.baseratetimes.com/#Twitter)
 - [No CSS Club – because no JavaScript was not hardcore enough](https://nocss.club/)
 - [CSS Findings from the Threads App](https://ishadeed.com/article/threads-app-css/)
-- [Mk: A Successor to Make [pdf]](http://doc.cat-v.org/bell_labs/mk/mk.pdf)
-- [AmazonBasics Microwave: Accessible for People with Visual Impairments &lpar;2019&rpar;](https://www.afb.org/aw/20/12/16848)
-- [Nuclear Fission Fuel Is Inexhaustible &lpar;2022&rpar;](https://scanalyst.fourmilab.ch/t/nuclear-fission-fuel-is-inexhaustible/1257)
 <!-- BLOG-POST-LIST:END -->
 
 ---
