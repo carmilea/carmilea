@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dusk OS: 32-bit Forth OS. Useful during first stage of civilizational collapse](https://duskos.org/)
 - [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
+- [Grav is a modern open-source flat-file CMS](https://getgrav.org/)
 - [Exploring Linear A](https://lineara.xyz/)
 - [Underwater Ears Everywhere](https://computer.rip/2023-07-15-underwater-ears-everywhere.html)
-- [How to register a Kei truck in Pennsylvania](https://danwilkerson.com/posts/2023-05-30-how-to-register-a-kei-truck-in-pa)
-- [Shell Script RSS Publishing](https://shinobi.bt.ht/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
