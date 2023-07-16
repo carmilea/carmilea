@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Electric Bike, Stupid Love of My Life](https://craigmod.com/essays/electric_bikes/)
+- [World’s largest climate modelling project](https://www.climateprediction.net/)
+- [A PostgreSQL Docker container that automatically upgrades PostgreSQL](https://github.com/justinclift/docker-pgautoupgrade)
+- [TikTok Extends the Wasteland](https://hedgehogreview.com/issues/theological-variations/articles/tiktok-extends-the-wasteland)
 - [Discord Is Not Documentation](https://shkspr.mobi/blog/2023/07/discord-is-not-documentation/)
-- [It Takes 6 Days to Change 1 Line of Code](https://edw519.posthaven.com/it-takes-6-days-to-change-1-line-of-code)
-- [Todo apps are meant for robots](https://frantic.im/todo-for-robots/)
-- [No CSS Club – because no JavaScript was not hardcore enough](https://nocss.club/)
-- [CSS Findings from the Threads App](https://ishadeed.com/article/threads-app-css/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
