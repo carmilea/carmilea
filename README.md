@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SEC Formally Accepts BlackRock Spot Bitcoin ETF Application for Review](https://decrypt.co/148752/sec-blackrock-spot-bitcoin-etf-application)
+- [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
+- [Exploring Linear A](https://lineara.xyz/)
+- [Underwater Ears Everywhere](https://computer.rip/2023-07-15-underwater-ears-everywhere.html)
+- [How to register a Kei truck in Pennsylvania](https://danwilkerson.com/posts/2023-05-30-how-to-register-a-kei-truck-in-pa)
 - [Shell Script RSS Publishing](https://shinobi.bt.ht/)
-- [ChatGPT use declines as users complain about ‘dumber’ answers](https://www.techradar.com/computing/artificial-intelligence/chatgpt-use-declines-as-users-complain-about-dumber-answers-and-the-reason-might-be-ais-biggest-threat-for-the-future)
-- [Forget Spotify for news – let&#39;s fix the real problem](https://baekdal.com/monetization/forget-spotify-for-news-lets-fix-the-real-problem/)
-- [Google SoundStorm: Efficient Parallel Audio Generation](https://google-research.github.io/seanet/soundstorm/examples/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
