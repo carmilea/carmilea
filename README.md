@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Employs Your Doctor? Increasingly, a Private Equity Firm](https://www.nytimes.com/2023/07/10/upshot/private-equity-doctors-offices.html)
-- [A functional cure for diabetes is now available in the US](https://www.freethink.com/health/brittle-diabetes)
-- [300K+ Free SVG Icons, Collections, and Logos](https://svgmix.com/)
-- [What Makes Developers Productive?](https://jeremymikkola.com/posts/developer_productivity.html)
-- [Big Oil quietly walks back on climate pledges](https://www.theguardian.com/us-news/2023/jul/16/big-oil-climate-pledges-extreme-heat-fossil-fuel)
+- [Infrared may no longer be a punchline, as IEEE approves 9.6Gbps wireless light](https://www.theverge.com/23795599/li-fi-wi-fi-802-11-bb-internet-of-light)
+- [Zoom Fatigue Unpacked: Understanding and Overcoming Virtual Exhaustion](https://leadership.garden/zoom-fatigue/)
+- [Forth: The programming language that writes itself: The Web Page](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
+- [The Pacific Northwest Tree Octopus](https://zapatopi.net/treeoctopus/)
+- [Who employs your doctor? Increasingly, a private equity firm](https://www.nytimes.com/2023/07/10/upshot/private-equity-doctors-offices.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
