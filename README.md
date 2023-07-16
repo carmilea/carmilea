@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Red Programming Language](https://www.red-lang.org/p/about.html)
 - [Dusk OS: 32-bit Forth OS. Useful during first stage of civilizational collapse](https://duskos.org/)
 - [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
 - [Grav is a modern open-source flat-file CMS](https://getgrav.org/)
 - [Exploring Linear A](https://lineara.xyz/)
-- [Underwater Ears Everywhere](https://computer.rip/2023-07-15-underwater-ears-everywhere.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
