@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google SoundStorm: Efficient Parallel Audio Generation](https://google-research.github.io/seanet/soundstorm/examples/)
+- [A tutorial quantum interpreter in 150 lines of Lisp](https://www.stylewarning.com/posts/quantum-interpreter/)
 - [Infrared may no longer be a punchline, as IEEE approves 9.6Gbps wireless light](https://www.theverge.com/23795599/li-fi-wi-fi-802-11-bb-internet-of-light)
-- [Zoom Fatigue Unpacked: Understanding and Overcoming Virtual Exhaustion](https://leadership.garden/zoom-fatigue/)
-- [Forth: The programming language that writes itself: The Web Page](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
-- [The Pacific Northwest Tree Octopus](https://zapatopi.net/treeoctopus/)
-- [Who employs your doctor? Increasingly, a private equity firm](https://www.nytimes.com/2023/07/10/upshot/private-equity-doctors-offices.html)
+- [Citizen scientists observe gamma ray glow associated with lightning flash](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103612)
+- [L-System Simulations](https://eliben.github.io/lsystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
