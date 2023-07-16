@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No CSS Club – because no JavaScript was not hardcore enough](https://nocss.club/)
+- [CSS Findings from the Threads App](https://ishadeed.com/article/threads-app-css/)
+- [Mk: A Successor to Make [pdf]](http://doc.cat-v.org/bell_labs/mk/mk.pdf)
 - [AmazonBasics Microwave: Accessible for People with Visual Impairments &lpar;2019&rpar;](https://www.afb.org/aw/20/12/16848)
 - [Nuclear Fission Fuel Is Inexhaustible &lpar;2022&rpar;](https://scanalyst.fourmilab.ch/t/nuclear-fission-fuel-is-inexhaustible/1257)
-- [Taskfile: A Modern Alternative to Makefile](https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative)
-- [Hundreds of drones plunge into Melbourne’s Yarra River](https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-river/102607576)
-- [How I run my servers &lpar;2022&rpar;](https://blog.wesleyac.com/posts/how-i-run-my-servers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
