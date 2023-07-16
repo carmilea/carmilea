@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SEC Formally Accepts BlackRock Spot Bitcoin ETF Application for Review](https://decrypt.co/148752/sec-blackrock-spot-bitcoin-etf-application)
+- [Shell Script RSS Publishing](https://shinobi.bt.ht/)
+- [ChatGPT use declines as users complain about ‘dumber’ answers](https://www.techradar.com/computing/artificial-intelligence/chatgpt-use-declines-as-users-complain-about-dumber-answers-and-the-reason-might-be-ais-biggest-threat-for-the-future)
+- [Forget Spotify for news – let&#39;s fix the real problem](https://baekdal.com/monetization/forget-spotify-for-news-lets-fix-the-real-problem/)
 - [Google SoundStorm: Efficient Parallel Audio Generation](https://google-research.github.io/seanet/soundstorm/examples/)
-- [A tutorial quantum interpreter in 150 lines of Lisp](https://www.stylewarning.com/posts/quantum-interpreter/)
-- [Infrared may no longer be a punchline, as IEEE approves 9.6Gbps wireless light](https://www.theverge.com/23795599/li-fi-wi-fi-802-11-bb-internet-of-light)
-- [Citizen scientists observe gamma ray glow associated with lightning flash](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103612)
-- [L-System Simulations](https://eliben.github.io/lsystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
