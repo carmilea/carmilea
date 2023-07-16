@@ -54,8 +54,8 @@
 - [Teddit Is Shutting Down](https://tedd.it/shutdown)
 - [WormGPT – The Generative AI Tool Cybercriminals Are Using](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
 - [PlanetPC XR ARM-based Desktop Linux Computers](https://store.planetcom.co.uk/collections/desktop-pcs)
+- [A Month on Chimera Linux](https://bitcannon.net/post/a-month-with-chimera-linux/)
 - [How does Sonic and Knuckles&#39; “Lock-On Technology” work? &lpar;2016&rpar;](https://retrocomputing.stackexchange.com/questions/1514/how-exactly-does-sonic-knuckles-lock-on-technology-work)
-- [New study gives clues on why exercise helps with inflammation](https://www.sciencedaily.com/releases/2023/06/230615183114.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
