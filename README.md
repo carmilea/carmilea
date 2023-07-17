@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Atari STacy &lpar;1989&rpar;](https://en.wikipedia.org/wiki/Atari_STacy)
-- [Europeans Are Becoming Poorer](https://www.wsj.com/articles/europeans-poorer-inflation-economy-255eb629)
+- [Show HN: Use DNS TXT to share information](https://news.ycombinator.com/item?id=36754366)
+- [Backyard Metalcasting](https://www.backyardmetalcasting.com/)
 - [Arrival&#39;s Designers Crafted a Mesmerizing Alien Alphabet](https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/)
-- [Finland introduces the world’s first phone-free tourist island](https://www.independent.co.uk/travel/news-and-advice/finland-phone-mobile-free-island-b2361499.html)
 - [Moodle: Open-Source LMS](https://moodle.org/)
 <!-- BLOG-POST-LIST:END -->
 
