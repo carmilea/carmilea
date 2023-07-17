@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Atari STacy &lpar;1989&rpar;](https://en.wikipedia.org/wiki/Atari_STacy)
+- [Over 50% of Young Danes Have Streamed or Downloaded Content Illegally](https://torrentfreak.com/over-50-of-young-danes-have-streamed-or-downloaded-content-illegally-230716/)
+- [Booking.com halts payments to hosts over IT technical maintenance](https://nltimes.nl/2023/07/17/bookingcom-halts-payments-hosts-technical-maintenance)
 - [Show HN: Use DNS TXT to share information](https://news.ycombinator.com/item?id=36754366)
 - [Backyard Metalcasting](https://www.backyardmetalcasting.com/)
-- [Arrival&#39;s Designers Crafted a Mesmerizing Alien Alphabet](https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/)
-- [Moodle: Open-Source LMS](https://moodle.org/)
+- [Arrival&#39;s Designers Crafted a Mesmerizing Alien Alphabet &lpar;2016&rpar;](https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
