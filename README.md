@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of LLMs with Arthur, MosaicML, LangChain, and Weaviate [video]](https://www.youtube.com/watch?v=TXMUXeml9JY)
-- [LBRY Is Dead](https://twitter.com/LBRYcom/status/1678866789407551489)
-- [Typo leaks millions of US military emails to Mali web operator](https://www.ft.com/content/ab62af67-ed2a-42d0-87eb-c762ac163cf0)
-- [Booking.com halts payments to hosts over IT technical maintenance](https://nltimes.nl/2023/07/17/bookingcom-halts-payments-hosts-technical-maintenance)
-- [Show HN: DiskerNet – Browse the Internet from Your Disk, Now Open Source](https://github.com/dosyago/DiskerNet)
+- [Crosswords and chess may help more than socializing in avoiding dementia](https://medicalxpress.com/news/2023-07-crosswords-chess-socializing-dementia.html)
+- [Wix’s new tool can create entire websites from prompts](https://techcrunch.com/2023/07/17/wixs-new-tool-can-create-entire-websites-from-prompts/)
+- [A Firefox-Only Minimap](https://www.stefanjudis.com/a-firefox-only-minimap/)
+- [Notes on Problem-Solving](https://nabeelqu.substack.com/p/notes-on-puzzles)
+- [Norwegian DPA temporarily bans behavioral advertising on Facebook and Instagram](https://noyb.eu/en/norway-temporary-ban-behavioral-ads-facebook)
 <!-- BLOG-POST-LIST:END -->
 
 ---
