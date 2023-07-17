@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Red Programming Language](https://www.red-lang.org/p/about.html)
-- [Dusk OS: 32-bit Forth OS. Useful during first stage of civilizational collapse](https://duskos.org/)
-- [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
-- [Grav is a modern open-source flat-file CMS](https://getgrav.org/)
-- [Exploring Linear A](https://lineara.xyz/)
+- [Johnson and Johnson sues researchers who linked talc to cancer](https://www.reuters.com/legal/litigation/johnson-johnson-sues-researchers-who-linked-talc-cancer-2023-07-13/)
+- [Ord Phone](https://ordphone.com)
+- [LOGO Manual by Abelson, Goodman, and Rudolph &lpar;1974&rpar; [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6226/AIM-313.pdf)
+- [Ill in England? Your Location Can Determine If You Live or Die](https://www.bloomberg.com/graphics/2023-nhs-missing-targets-on-75th-anniversary/)
+- [Symbolics CGI production notes: How Stanley and Stella came together &lpar;1988&rpar;](https://archive.org/details/how-stanley-and-stella-came-together-sgd-s-news-march-1988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
