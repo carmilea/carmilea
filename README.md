@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Over 50% of Young Danes Have Streamed or Downloaded Content Illegally](https://torrentfreak.com/over-50-of-young-danes-have-streamed-or-downloaded-content-illegally-230716/)
+- [The Future of LLMs with Arthur, MosaicML, LangChain, and Weaviate [video]](https://www.youtube.com/watch?v=TXMUXeml9JY)
+- [LBRY Is Dead](https://twitter.com/LBRYcom/status/1678866789407551489)
+- [Typo leaks millions of US military emails to Mali web operator](https://www.ft.com/content/ab62af67-ed2a-42d0-87eb-c762ac163cf0)
 - [Booking.com halts payments to hosts over IT technical maintenance](https://nltimes.nl/2023/07/17/bookingcom-halts-payments-hosts-technical-maintenance)
-- [Show HN: Use DNS TXT to share information](https://news.ycombinator.com/item?id=36754366)
-- [Backyard Metalcasting](https://www.backyardmetalcasting.com/)
-- [Arrival&#39;s Designers Crafted a Mesmerizing Alien Alphabet &lpar;2016&rpar;](https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/)
+- [Show HN: DiskerNet – Browse the Internet from Your Disk, Now Open Source](https://github.com/dosyago/DiskerNet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
