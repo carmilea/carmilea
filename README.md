@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A surprisingly simple way to foil car thieves](https://news.umich.edu/a-surprisingly-simple-way-to-foil-car-thieves/)
-- [Ash HN: How can I make my idle CPU time useful to others?](https://news.ycombinator.com/item?id=36759243)
-- [Ask HN: Why does Firefox have such a low market share anyways?](https://news.ycombinator.com/item?id=36759162)
-- [What AT&amp;T and Verizon Knew About Toxic Lead Cables for Decades](https://www.wsj.com/podcasts/the-journal/what-att-and-verizon-knew-about-toxic-lead-cables/a288b7d4-28f3-470e-b6c4-72341c97b3a0)
+- [Slack Takes an Important Step to Block Abuse](https://foundation.mozilla.org/en/blog/slack-takes-an-important-step-to-block-abuse/)
+- [What AT&amp;T and Verizon knew about toxic lead cables for decades](https://www.wsj.com/podcasts/the-journal/what-att-and-verizon-knew-about-toxic-lead-cables/a288b7d4-28f3-470e-b6c4-72341c97b3a0)
 - [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
+- [The force that shapes everything around us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
