@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Arrival&#39;s Designers Crafted a Mesmerizing Alien Alphabet](https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/)
+- [Finland introduces the world’s first phone-free tourist island](https://www.independent.co.uk/travel/news-and-advice/finland-phone-mobile-free-island-b2361499.html)
 - [LazyVim](https://www.lazyvim.org/)
 - [Camneerg: The Mac Plus Web Server](https://www.spacerogue.net/Camneerg/)
 - [Johnson and Johnson sues researchers who linked talc to cancer](https://www.reuters.com/legal/litigation/johnson-johnson-sues-researchers-who-linked-talc-cancer-2023-07-13/)
-- [LOGO Manual &lpar;1974&rpar; [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6226/AIM-313.pdf)
-- [Symbolics CGI production notes: How Stanley and Stella came together &lpar;1988&rpar;](https://archive.org/details/how-stanley-and-stella-came-together-sgd-s-news-march-1988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
