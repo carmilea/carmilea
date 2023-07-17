@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crystal 1.9.1 Is Released](https://crystal-lang.org/2023/07/17/1.9.1-released/)
-- [Investigating Zika-Microcephaly&#39;s ‘Crash’](https://www.amjmed.com/article/S0002-9343(22)00108-5/fulltext)
-- [FlashAttention-2, 2x faster than FlashAttention](https://twitter.com/tri_dao/status/1680987580228308992)
-- [Bringing 19th century ornamental tile illustrations into a 21st century web app](https://www.deepakg.com/bringing-19th-century-ornamental-tile-illustrations-into-a-21st-century-web-app)
-- [Glass Health &lpar;YC W23&rpar; is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36761498)
+- [The Wikimedia Foundation joins Mastodon and the Fediverse](https://wikimedia.social/@wikimediafoundation/110708950540815886)
+- [You can deactivate anyone&#39;s WhatsApp account by simply sending an email](https://twitter.com/JakeMooreUK/status/1680962682726363136)
+- [Coroutines for Go](https://research.swtch.com/coro)
+- [WHO Aspartame Brouhaha](https://dynomight.net/aspartame-brouhaha/)
+- [Crystal 1.9.1](https://crystal-lang.org/2023/07/17/1.9.1-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
