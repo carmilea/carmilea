@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Frank fabricated 4.25M customers in JP Morgan fraud case](https://www.nbcnews.com/news/crime-courts/second-frank-financial-aid-executive-charged-jpmorgan-fraud-case-rcna94564)
+- [Moodle: Open-Source LMS](https://moodle.org/)
+- [LazyVim](https://www.lazyvim.org/)
+- [Camneerg: The Mac Plus Web Server](https://www.spacerogue.net/Camneerg/)
 - [Johnson and Johnson sues researchers who linked talc to cancer](https://www.reuters.com/legal/litigation/johnson-johnson-sues-researchers-who-linked-talc-cancer-2023-07-13/)
-- [Ord Phone](https://ordphone.com)
-- [LOGO Manual by Abelson, Goodman, and Rudolph &lpar;1974&rpar; [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6226/AIM-313.pdf)
-- [Ill in England? Your Location Can Determine If You Live or Die](https://www.bloomberg.com/graphics/2023-nhs-missing-targets-on-75th-anniversary/)
-- [Symbolics CGI production notes: How Stanley and Stella came together &lpar;1988&rpar;](https://archive.org/details/how-stanley-and-stella-came-together-sgd-s-news-march-1988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
