@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
+- [Computer memory prototype ditches 1s and 0s for denser data storage](https://newatlas.com/electronics/computer-memory-resistive-switching-denser-data-storage/)
+- [Harry G. Frankfurt, Philosopher with a Surprise Best Seller, Dies at 94](https://www.nytimes.com/2023/07/17/books/harry-g-frankfurt-dead.html)
 - [The Wikimedia Foundation joins Mastodon and the Fediverse](https://wikimedia.social/@wikimediafoundation/110708950540815886)
 - [You can deactivate anyone&#39;s WhatsApp account by simply sending an email](https://twitter.com/JakeMooreUK/status/1680962682726363136)
-- [Coroutines for Go](https://research.swtch.com/coro)
-- [WHO Aspartame Brouhaha](https://dynomight.net/aspartame-brouhaha/)
-- [Crystal 1.9.1](https://crystal-lang.org/2023/07/17/1.9.1-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
