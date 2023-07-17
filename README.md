@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crystal 1.9.1 Is Released](https://crystal-lang.org/2023/07/17/1.9.1-released/)
+- [Investigating Zika-Microcephaly&#39;s ‘Crash’](https://www.amjmed.com/article/S0002-9343(22)00108-5/fulltext)
+- [FlashAttention-2, 2x faster than FlashAttention](https://twitter.com/tri_dao/status/1680987580228308992)
 - [Bringing 19th century ornamental tile illustrations into a 21st century web app](https://www.deepakg.com/bringing-19th-century-ornamental-tile-illustrations-into-a-21st-century-web-app)
 - [Glass Health &lpar;YC W23&rpar; is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36761498)
-- [What&#39;s wrong with enterprise Linux](https://unix.foo/posts/enterprise-linux/)
-- [A surprisingly simple way to foil car thieves](https://news.umich.edu/a-surprisingly-simple-way-to-foil-car-thieves/)
-- [What AT&amp;T and Verizon knew about toxic lead cables for decades](https://www.wsj.com/podcasts/the-journal/what-att-and-verizon-knew-about-toxic-lead-cables/a288b7d4-28f3-470e-b6c4-72341c97b3a0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
