@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crosswords and chess may help more than socializing in avoiding dementia](https://medicalxpress.com/news/2023-07-crosswords-chess-socializing-dementia.html)
-- [Wix’s new tool can create entire websites from prompts](https://techcrunch.com/2023/07/17/wixs-new-tool-can-create-entire-websites-from-prompts/)
-- [A Firefox-Only Minimap](https://www.stefanjudis.com/a-firefox-only-minimap/)
-- [Notes on Problem-Solving](https://nabeelqu.substack.com/p/notes-on-puzzles)
-- [Norwegian DPA temporarily bans behavioral advertising on Facebook and Instagram](https://noyb.eu/en/norway-temporary-ban-behavioral-ads-facebook)
+- [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
+- [The force that shapes everything around us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
+- [Copy is all you need](https://arxiv.org/abs/2307.06962)
+- [The Odyssey by Homer, Translated by Samuel Butler](https://www.gutenberg.org/files/1727/1727-h/1727-h.htm)
+- [Launch HN: Grai &lpar;YC S22&rpar; – Open-Source Data Observability Platform](https://news.ycombinator.com/item?id=36758122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
