@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What AT&amp;T and Verizon Knew About Toxic Lead Cables for Decades](https://www.wsj.com/podcasts/the-journal/what-att-and-verizon-knew-about-toxic-lead-cables/a288b7d4-28f3-470e-b6c4-72341c97b3a0)
 - [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
-- [The force that shapes everything around us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
+- [Higher interest rates mean for the size and distribution of UK household wealth](https://www.resolutionfoundation.org/publications/peaked-interest/)
+- [Tokyo Is the New Paris](https://www.noahpinion.blog/p/tokyo-is-the-new-paris)
 - [Copy is all you need](https://arxiv.org/abs/2307.06962)
-- [The Odyssey by Homer, Translated by Samuel Butler](https://www.gutenberg.org/files/1727/1727-h/1727-h.htm)
-- [Launch HN: Grai &lpar;YC S22&rpar; – Open-Source Data Observability Platform](https://news.ycombinator.com/item?id=36758122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
