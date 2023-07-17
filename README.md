@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A surprisingly simple way to foil car thieves](https://news.umich.edu/a-surprisingly-simple-way-to-foil-car-thieves/)
+- [Ash HN: How can I make my idle CPU time useful to others?](https://news.ycombinator.com/item?id=36759243)
+- [Ask HN: Why does Firefox have such a low market share anyways?](https://news.ycombinator.com/item?id=36759162)
 - [What AT&amp;T and Verizon Knew About Toxic Lead Cables for Decades](https://www.wsj.com/podcasts/the-journal/what-att-and-verizon-knew-about-toxic-lead-cables/a288b7d4-28f3-470e-b6c4-72341c97b3a0)
 - [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
-- [Higher interest rates mean for the size and distribution of UK household wealth](https://www.resolutionfoundation.org/publications/peaked-interest/)
-- [Tokyo Is the New Paris](https://www.noahpinion.blog/p/tokyo-is-the-new-paris)
-- [Copy is all you need](https://arxiv.org/abs/2307.06962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
