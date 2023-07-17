@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Official Chrome extension to use iCloud Keychain Passwords](https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)
+- [US vs. Poller: Ruling says police can use iPhones to circumvent tinted windows](https://drive.google.com/file/d/1tFS1wmG8LtYdpvz_w-qnwYwa9Rac8DsZ/view)
+- [AI Watches Millions of Cars and Tells Cops If You’re Driving Like a Criminal](https://www.forbes.com/sites/thomasbrewster/2023/07/17/license-plate-reader-ai-criminal/)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
 - [Computer memory prototype ditches 1s and 0s for denser data storage](https://newatlas.com/electronics/computer-memory-resistive-switching-denser-data-storage/)
-- [Harry G. Frankfurt, Philosopher with a Surprise Best Seller, Dies at 94](https://www.nytimes.com/2023/07/17/books/harry-g-frankfurt-dead.html)
-- [The Wikimedia Foundation joins Mastodon and the Fediverse](https://wikimedia.social/@wikimediafoundation/110708950540815886)
-- [You can deactivate anyone&#39;s WhatsApp account by simply sending an email](https://twitter.com/JakeMooreUK/status/1680962682726363136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
