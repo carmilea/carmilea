@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the Remote-Work Debate Stays So Heated](https://www.theatlantic.com/newsletters/archive/2023/07/remote-work-return-to-office-policies/674736/)
-- [WHO Aspartame Brouhaha](https://dynomight.substack.com/p/aspartame-brouhaha)
-- [Voder Speech Synthesizer](https://griffin.moe/voder/)
-- [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
-- [Medicine is plagued by untrustworthy clinical trials](https://www.nature.com/articles/d41586-023-02299-w)
+- [Ask HN: How to deal with 0.1X programmer colleagues?](https://news.ycombinator.com/item?id=36772390)
+- [Minecraft Grub Theme](https://github.com/Lxtharia/minegrub-theme)
+- [Britain Is a Developing Country](https://www.sambowman.co/p/britain-is-a-developing-country)
+- [Cities are ending fares on transit. Here’s why](https://www.cnn.com/2023/07/08/business/free-buses-us-public-transit/index.html)
+- [Silicon Valley’s business model is a scam](https://www.businessinsider.com/venture-capital-big-tech-antitrust-predatory-pricing-uber-wework-bird-2023-7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
