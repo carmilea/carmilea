@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In the Asian Flu of 1957-58, they rejected lockdowns &lpar;2021&rpar;](https://www.aier.org/article/in-the-asian-flu-of-1957-58-they-rejected-lockdowns/)
+- [Citus 12: Schema-based sharding for PostgreSQL](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/)
 - [Linear Programming in Python &lpar;2023&rpar;](https://slama.dev/youtube/linear-programming-in-python/)
-- [Tell HN: CloudFront Is Having an Outage](https://news.ycombinator.com/item?id=36775816)
+- [Elevating Data Activation: The SingleStore and Hightouch Collaboration](https://www.singlestore.com/blog/elevating-data-activation-singlestore-and-hightouch/)
 - [Velt &lpar;YC W22&rpar; Is Hiring Engineer to Build a Better “CRDT”](https://www.ycombinator.com/companies/velt/jobs/7W1w74l-founding-fullstack-engineer-crdts-us-only)
 - [AutoChain, lightweight and testable alternative to LangChain](https://github.com/Forethought-Technologies/AutoChain)
 <!-- BLOG-POST-LIST:END -->
