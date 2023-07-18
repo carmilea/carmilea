@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to deal with 0.1X programmer colleagues?](https://news.ycombinator.com/item?id=36772390)
+- [The Office Is a Theatre for Work &lpar;2019&rpar;](https://tomcritchlow.com/2019/11/18/yes-and/)
+- [How to Write a Great Readme](https://www.appsmith.com/blog/write-a-great-readme)
+- [From Dating to Vector Search – “Stable Marriages” on a Global Scale](https://ashvardanian.com/posts/searching-stable-marriages/)
 - [Minecraft Grub Theme](https://github.com/Lxtharia/minegrub-theme)
-- [Britain Is a Developing Country](https://www.sambowman.co/p/britain-is-a-developing-country)
-- [Cities are ending fares on transit. Here’s why](https://www.cnn.com/2023/07/08/business/free-buses-us-public-transit/index.html)
 - [Silicon Valley’s business model is a scam](https://www.businessinsider.com/venture-capital-big-tech-antitrust-predatory-pricing-uber-wework-bird-2023-7)
 <!-- BLOG-POST-LIST:END -->
 
