@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Businessmen Broke Hollywood, and Now They Don&#39;t Want to Pay Their Employees](https://www.theatlantic.com/ideas/archive/2023/07/hollywoods-cruel-strategy/674730/)
+- [AI: Startup vs Incumbent Value](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value)
 - [A few things to know before stealing my 914 &lpar;2022&rpar;](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
 - [The Drivers Cooperative: New York’s driver-owned ride-hailing app](https://nextcity.org/urbanist-news/new-yorks-driver-owned-ride-hailing-app-is-putting-its-foot-on-the-accelera)
-- [fMRI-to-image with contrastive learning and diffusion priors](https://stability.ai/research/minds-eye)
-- [Statistical Arbitrage – An Easy Walkthrough](https://dm13450.github.io/2023/07/15/Stat-Arb-Walkthrough.html)
+- [The HTML review is an annual journal of literature made to exist on the web](https://thehtml.review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
