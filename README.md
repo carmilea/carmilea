@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vx32: Portable, efficient, safe user-space execution of untrusted x86 code](https://pdos.csail.mit.edu/~baford/vm/)
+- [Nintendo 64 Test Cart ROM](https://www.gamingalexandria.com/wp/2023/07/nintendo-64-test-cart-rom/)
+- [The World Bakes Under Extreme Heat](https://www.wsj.com/articles/extreme-heat-waves-across-the-world-photos-7cc1544d)
+- [Data Parallel, Task Parallel, and Agent Actor Architectures](https://bytewax.io/blog/data-parallel-task-parallel-and-agent-actor-architectures)
 - [Citus 12: Schema-based sharding for PostgreSQL](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/)
-- [Linear Programming in Python &lpar;2023&rpar;](https://slama.dev/youtube/linear-programming-in-python/)
-- [Elevating Data Activation: The SingleStore and Hightouch Collaboration](https://www.singlestore.com/blog/elevating-data-activation-singlestore-and-hightouch/)
-- [Velt &lpar;YC W22&rpar; Is Hiring Engineer to Build a Better “CRDT”](https://www.ycombinator.com/companies/velt/jobs/7W1w74l-founding-fullstack-engineer-crdts-us-only)
-- [AutoChain, lightweight and testable alternative to LangChain](https://github.com/Forethought-Technologies/AutoChain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
