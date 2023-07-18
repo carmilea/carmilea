@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Long Covid treatment: randomized, quadruple-blind, parallel-group, phase 3 trial](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00299-2/fulltext)
-- [Lwn.net: PostgreSQL reconsiders its process-based model](https://lwn.net/Articles/934940/)
+- [The Businessmen Broke Hollywood, and Now They Don&#39;t Want to Pay Their Employees](https://www.theatlantic.com/ideas/archive/2023/07/hollywoods-cruel-strategy/674730/)
+- [A few things to know before stealing my 914 &lpar;2022&rpar;](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
 - [The Drivers Cooperative: New York’s driver-owned ride-hailing app](https://nextcity.org/urbanist-news/new-yorks-driver-owned-ride-hailing-app-is-putting-its-foot-on-the-accelera)
 - [fMRI-to-image with contrastive learning and diffusion priors](https://stability.ai/research/minds-eye)
-- [Stable Diffusion WebGPU demo](https://islamov.ai/stable-diffusion-webgpu/)
+- [Statistical Arbitrage – An Easy Walkthrough](https://dm13450.github.io/2023/07/15/Stat-Arb-Walkthrough.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
