@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the Remote-Work Debate Stays So Heated](https://www.theatlantic.com/newsletters/archive/2023/07/remote-work-return-to-office-policies/674736/)
+- [WHO Aspartame Brouhaha](https://dynomight.substack.com/p/aspartame-brouhaha)
+- [Voder Speech Synthesizer](https://griffin.moe/voder/)
 - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
-- [Linux has nearly half of the desktop OS Linux market](https://www.theregister.com/2023/07/18/linux_desktop_debate/)
-- [Microsoft lost its keys, and the government got hacked](https://techcrunch.com/2023/07/17/microsoft-lost-keys-government-hacked/)
-- [Opening the Codebase Up to Everyone](https://ghiculescu.substack.com/p/opening-the-codebase-up-to-everyone)
-- [Swig – Connect C/C++ programs with high-level programming languages](https://www.swig.org/)
+- [Medicine is plagued by untrustworthy clinical trials](https://www.nature.com/articles/d41586-023-02299-w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
