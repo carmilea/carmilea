@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 Collects an Awful Lot of Telemetry About Your PC](https://www.extremetech.com/computing/342941-windows-11-collects-an-awful-lot-of-telemetry-about-your-pc)
-- [Generative AI Space and the Mental Imagery of Alien Minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
-- [AI: Startup vs Incumbent Value](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value)
+- [Windows 11 collects an awful lot of telemetry about your PC](https://www.extremetech.com/computing/342941-windows-11-collects-an-awful-lot-of-telemetry-about-your-pc)
+- [Generative AI space and the mental imagery of alien minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
+- [The Businessmen Broke Hollywood](https://www.theatlantic.com/ideas/archive/2023/07/hollywoods-cruel-strategy/674730/)
+- [AI: Startup vs Incumbent Value &lpar;2022&rpar;](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value)
 - [A few things to know before stealing my 914 &lpar;2022&rpar;](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
-- [The Drivers Cooperative: New York’s driver-owned ride-hailing app](https://nextcity.org/urbanist-news/new-yorks-driver-owned-ride-hailing-app-is-putting-its-foot-on-the-accelera)
 <!-- BLOG-POST-LIST:END -->
 
 ---
