@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Llama 2 – Meta AI](https://ai.meta.com/llama/)
-- [Launch HN: Highlight.io &lpar;YC W23&rpar; – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
-- [Whitewater Rafting on the Selway River in Idaho](https://fromthedesk.substack.com/p/trip-report-rafting-the-selway-to)
-- [Does MIT consider legacy?](https://mitadmissions.org/help/faq/legacy/)
-- [Show HN: Weaviate – Build your own generative health search engine](https://github.com/weaviate/healthsearch-demo)
+- [CloudFront Is Having an Outage](https://news.ycombinator.com/item?id=36775816)
+- [Velt &lpar;YC W22&rpar; Is Hiring Engineer to Build a Better “CRDT”](https://www.ycombinator.com/companies/velt/jobs/7W1w74l-founding-fullstack-engineer-crdts-us-only)
+- [17.1 Salesforce Towers worth of empty office space spread across SF](https://socketsite.com/archives/2023/07/enough-empty-office-space-for-178000-people-in-san-francisco.html)
+- [AutoChain, lightweight and testable alternative to LangChain](https://github.com/Forethought-Technologies/AutoChain)
+- [Sweden Sans Font](https://identity.sweden.se/en/design-elements/typography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
