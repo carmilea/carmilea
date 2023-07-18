@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What ever happened to the “coming wave” of delivery drones?](https://news.ycombinator.com/item?id=36764829)
-- [Official Chrome extension to use iCloud Keychain Passwords](https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)
-- [US vs. Poller: Ruling says police can use iPhones to circumvent tinted windows](https://drive.google.com/file/d/1tFS1wmG8LtYdpvz_w-qnwYwa9Rac8DsZ/view)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
-- [Computer memory prototype ditches 1s and 0s for denser data storage](https://newatlas.com/electronics/computer-memory-resistive-switching-denser-data-storage/)
+- [StableDiffusion can now run directly in the browser on WebGPU](https://islamov.ai/stable-diffusion-webgpu/)
+- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=36766395)
+- [Loss of smell may be an early sign of brain diseases](https://nautil.us/loss-of-smell-may-be-an-early-sign-of-brain-diseases-354483/)
+- [Never waste a midlife crisis](https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/)
+- [Ask HN: Whatever happened to the “coming wave” of delivery drones?](https://news.ycombinator.com/item?id=36764829)
 <!-- BLOG-POST-LIST:END -->
 
 ---
