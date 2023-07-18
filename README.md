@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudFront Is Having an Outage](https://news.ycombinator.com/item?id=36775816)
+- [In the Asian Flu of 1957-58, they rejected lockdowns &lpar;2021&rpar;](https://www.aier.org/article/in-the-asian-flu-of-1957-58-they-rejected-lockdowns/)
+- [Linear Programming in Python &lpar;2023&rpar;](https://slama.dev/youtube/linear-programming-in-python/)
+- [Tell HN: CloudFront Is Having an Outage](https://news.ycombinator.com/item?id=36775816)
 - [Velt &lpar;YC W22&rpar; Is Hiring Engineer to Build a Better “CRDT”](https://www.ycombinator.com/companies/velt/jobs/7W1w74l-founding-fullstack-engineer-crdts-us-only)
-- [17.1 Salesforce Towers worth of empty office space spread across SF](https://socketsite.com/archives/2023/07/enough-empty-office-space-for-178000-people-in-san-francisco.html)
 - [AutoChain, lightweight and testable alternative to LangChain](https://github.com/Forethought-Technologies/AutoChain)
-- [Sweden Sans Font](https://identity.sweden.se/en/design-elements/typography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
