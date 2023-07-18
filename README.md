@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Gym Class VR &lpar;YC W22&rpar; Is Hiring Back End Engineering](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
+- [Quantum Physicists Explained Earth’s Oscillating Weather Patterns](https://www.quantamagazine.org/how-quantum-physics-describes-earths-weather-patterns-20230718/)
 - [Google Chrome Proposal – Web Environment Integrity](https://chromestatus.com/feature/5796524191121408)
-- [Lazydocker a lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
-- [Qualcomm works with Meta to enable on-device AI applications using Llama 2](https://www.qualcomm.com/news/releases/2023/07/qualcomm-works-with-meta-to-enable-on-device-ai-applications-usi)
+- [Lazydocker: a lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
 - [Cython 3.0 Released](https://cython.readthedocs.io/en/latest/src/changes.html)
 <!-- BLOG-POST-LIST:END -->
 
