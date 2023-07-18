@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
+- [Linux has nearly half of the desktop OS Linux market](https://www.theregister.com/2023/07/18/linux_desktop_debate/)
 - [Microsoft lost its keys, and the government got hacked](https://techcrunch.com/2023/07/17/microsoft-lost-keys-government-hacked/)
-- [VanMoof, the e-bike startup, officially declared bankrupt in The Netherlands](https://techcrunch.com/2023/07/18/vanmoof-goes-vanpoof-bankruptcy/)
-- [85% of AI Startups Will Be Out of Business in 3 Years, Major Investor Says](https://www.thestreet.com/technology/ai-85-pct-of-startups-will-be-out-of-business-in-3-years-major-investor-says)
+- [Opening the Codebase Up to Everyone](https://ghiculescu.substack.com/p/opening-the-codebase-up-to-everyone)
 - [Swig – Connect C/C++ programs with high-level programming languages](https://www.swig.org/)
-- [Stalwart All-in-One Mail Server &lpar;IMAP, JMAP, SMTP&rpar;](https://github.com/stalwartlabs/mail-server)
 <!-- BLOG-POST-LIST:END -->
 
 ---
