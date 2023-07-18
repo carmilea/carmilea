@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vx32: Portable, efficient, safe user-space execution of untrusted x86 code](https://pdos.csail.mit.edu/~baford/vm/)
-- [Nintendo 64 Test Cart ROM](https://www.gamingalexandria.com/wp/2023/07/nintendo-64-test-cart-rom/)
-- [The World Bakes Under Extreme Heat](https://www.wsj.com/articles/extreme-heat-waves-across-the-world-photos-7cc1544d)
-- [Data Parallel, Task Parallel, and Agent Actor Architectures](https://bytewax.io/blog/data-parallel-task-parallel-and-agent-actor-architectures)
-- [Citus 12: Schema-based sharding for PostgreSQL](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/)
+- [Qualcomm works with Meta to enable on-device AI applications using Llama 2](https://www.qualcomm.com/news/releases/2023/07/qualcomm-works-with-meta-to-enable-on-device-ai-applications-usi)
+- [Companies Requiring Full-Time In-Office Are Struggling to Recruit New Employees](https://time.com/6294640/remote-work-winning/)
+- [Cython 3.0 Released](https://cython.readthedocs.io/en/latest/src/changes.html)
+- [Val, a high-level systems programming language](https://www.val-lang.dev/)
+- [What is a merge queue, and does your team need one?](https://graphite.dev/blog/what-is-a-merge-queue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
