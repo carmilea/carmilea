@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Office Is a Theatre for Work &lpar;2019&rpar;](https://tomcritchlow.com/2019/11/18/yes-and/)
-- [How to Write a Great Readme](https://www.appsmith.com/blog/write-a-great-readme)
-- [From Dating to Vector Search – “Stable Marriages” on a Global Scale](https://ashvardanian.com/posts/searching-stable-marriages/)
-- [Minecraft Grub Theme](https://github.com/Lxtharia/minegrub-theme)
-- [Silicon Valley’s business model is a scam](https://www.businessinsider.com/venture-capital-big-tech-antitrust-predatory-pricing-uber-wework-bird-2023-7)
+- [Llama 2 – Meta AI](https://ai.meta.com/llama/)
+- [Launch HN: Highlight.io &lpar;YC W23&rpar; – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
+- [Whitewater Rafting on the Selway River in Idaho](https://fromthedesk.substack.com/p/trip-report-rafting-the-selway-to)
+- [Does MIT consider legacy?](https://mitadmissions.org/help/faq/legacy/)
+- [Show HN: Weaviate – Build your own generative health search engine](https://github.com/weaviate/healthsearch-demo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
