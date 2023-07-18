@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [StableDiffusion can now run directly in the browser on WebGPU](https://islamov.ai/stable-diffusion-webgpu/)
-- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=36766395)
-- [Loss of smell may be an early sign of brain diseases](https://nautil.us/loss-of-smell-may-be-an-early-sign-of-brain-diseases-354483/)
-- [Never waste a midlife crisis](https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/)
-- [Ask HN: Whatever happened to the “coming wave” of delivery drones?](https://news.ycombinator.com/item?id=36764829)
+- [Long Covid treatment: randomized, quadruple-blind, parallel-group, phase 3 trial](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00299-2/fulltext)
+- [Lwn.net: PostgreSQL reconsiders its process-based model](https://lwn.net/Articles/934940/)
+- [The Drivers Cooperative: New York’s driver-owned ride-hailing app](https://nextcity.org/urbanist-news/new-yorks-driver-owned-ride-hailing-app-is-putting-its-foot-on-the-accelera)
+- [fMRI-to-image with contrastive learning and diffusion priors](https://stability.ai/research/minds-eye)
+- [Stable Diffusion WebGPU demo](https://islamov.ai/stable-diffusion-webgpu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
