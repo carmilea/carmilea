@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft lost its keys, and the government got hacked](https://techcrunch.com/2023/07/17/microsoft-lost-keys-government-hacked/)
+- [VanMoof, the e-bike startup, officially declared bankrupt in The Netherlands](https://techcrunch.com/2023/07/18/vanmoof-goes-vanpoof-bankruptcy/)
 - [85% of AI Startups Will Be Out of Business in 3 Years, Major Investor Says](https://www.thestreet.com/technology/ai-85-pct-of-startups-will-be-out-of-business-in-3-years-major-investor-says)
 - [Swig – Connect C/C++ programs with high-level programming languages](https://www.swig.org/)
-- [Generative AI space and the mental imagery of alien minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
-- [The Businessmen Broke Hollywood](https://www.theatlantic.com/ideas/archive/2023/07/hollywoods-cruel-strategy/674730/)
-- [AI: Startup vs Incumbent Value &lpar;2022&rpar;](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value)
+- [Stalwart All-in-One Mail Server &lpar;IMAP, JMAP, SMTP&rpar;](https://github.com/stalwartlabs/mail-server)
 <!-- BLOG-POST-LIST:END -->
 
 ---
