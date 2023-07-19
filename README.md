@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel and ASUS Agree to Term Sheet to Take NUC Systems Product Line Forward](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
+- [&lpar;Databricks cofounder&rpar; How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/abs/2307.09009)
+- [Google restricting internet access to some employees for security](https://www.cnbc.com/2023/07/18/google-restricting-internet-access-to-some-employees-for-security.html)
+- [Enigma Crypto Transmission from KPH at 426 KHz and Shortwave](https://www.radiomarine.org/mrhs-events)
 - [Gym Class VR &lpar;YC W22&rpar; Is Hiring Back End Engineering](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
-- [Quantum Physicists Explained Earth’s Oscillating Weather Patterns](https://www.quantamagazine.org/how-quantum-physics-describes-earths-weather-patterns-20230718/)
-- [Google Chrome Proposal – Web Environment Integrity](https://chromestatus.com/feature/5796524191121408)
-- [Lazydocker: a lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
-- [Cython 3.0 Released](https://cython.readthedocs.io/en/latest/src/changes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
