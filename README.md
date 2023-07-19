@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond introvert vs. extrovert](https://www.vipshek.com/blog/interaction)
+- [A Glitch in the SEO Matrix](https://www.izzy.co/blogs/a-glitch-in-the-seo-matrix.html)
+- [JetBrains Mono Typeface](https://www.jetbrains.com/lp/mono/)
+- [Apple Tests ‘Apple GPT,’ Develops Generative AI Tools to Catch OpenAI](https://www.bloomberg.com/news/articles/2023-07-19/apple-preps-ajax-generative-ai-apple-gpt-to-rival-openai-and-google)
 - [Carnegie Mellon, University of Pittsburgh end use of legacy status in admissions](https://triblive.com/news/children-relatives-of-alumni-no-longer-have-admissions-edge-at-carnegie-mellon-pitt/)
-- [Simply Parse in C](https://pencil.toast.cafe/bunker-labs/simply-parse-in-c)
-- [Ask HN: How are you improving your use of LLMs in production?](https://news.ycombinator.com/item?id=36787924)
-- [Netflix Removes “Basic” Ad-Free Plan in U.S. and U.K](https://www.hollywoodreporter.com/business/digital/netflix-pulls-basic-plan-us-advertising-push-1235539481/)
-- [Postman acquires Akita for automated API observability](https://blog.postman.com/postman-acquires-akita-for-automated-api-observability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
