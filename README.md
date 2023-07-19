@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Oppenheimer Deserves His Own Movie [video]](https://www.youtube.com/watch?v=Xzv84ZdtlE0)
+- [Iceland’s Quest to Use 100 Percent of Its Fish Waste](https://hakaimagazine.com/news/icelands-quest-to-use-100-percent-of-its-fish-waste/)
+- [Proton Pass: Open-Source and Encrypted Password Manager App](https://proton.me/pass)
 - [Illusory Superiority](https://en.wikipedia.org/wiki/Illusory_superiority)
 - [Nvidia just released FreeBSD Display Driver 535.86.05 &lpar;2023.7.18&rpar;](https://twitter.com/fosdembsd/status/1681574924282998784)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring a Senior Software Engineer &lpar;Java&rpar; in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
-- [Microsoft faces antitrust scrutiny from the EU over Teams, Office 365](https://www.windowscentral.com/microsoft/microsoft-faces-antitrust-scrutiny-from-the-european-union)
-- [Local Async Executors and Why They Should be the Default &lpar;Rust&rpar;](https://maciej.codes/2022-06-09-local-async.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
