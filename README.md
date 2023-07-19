@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring a Senior Software Engineer &lpar;Java&rpar; in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
+- [Microsoft faces antitrust scrutiny from the EU over Teams, Office 365](https://www.windowscentral.com/microsoft/microsoft-faces-antitrust-scrutiny-from-the-european-union)
 - [Async rust – are we doing it all wrong?](https://maciej.codes/2022-06-09-local-async.html)
 - [Netscape and Sun announce JavaScript &lpar;1995&rpar;](https://web.archive.org/web/20070916144913/https://wp.netscape.com/newsref/pr/newsrelease67.html)
-- [Meta Tells Managers Promotions Will Be Few and Far Between](https://www.businessinsider.com/meta-tells-managers-its-harder-to-get-promotions-2023-7)
-- [IBM PL/S Machine-oriented programming language [pdf]](http://bitsavers.trailing-edge.com/pdf/ibm/360/pls/GC28-0786-0_Guide_to_PL_S_Generated_Listings_Jul72.pdf)
+- [Lazygit: Simple terminal UI for Git commands](https://github.com/jesseduffield/lazygit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
