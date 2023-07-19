@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Telegram raises $210M through bond sales](https://techcrunch.com/2023/07/18/telegram-raises-210-million-through-bond-sales/)
+- [Meta Tells Managers Promotions Will Be Few and Far Between](https://www.businessinsider.com/meta-tells-managers-its-harder-to-get-promotions-2023-7)
+- [IBM PL/S Machine-oriented programming language [pdf]](http://bitsavers.trailing-edge.com/pdf/ibm/360/pls/GC28-0786-0_Guide_to_PL_S_Generated_Listings_Jul72.pdf)
 - [What Happened to Jai Alai? &lpar;2013&rpar;](https://www.sbnation.com/longform/2013/2/28/4036934/jai-alai-sport-in-america-miami)
 - [Mad Pascal](https://github.com/tebe6502/Mad-Pascal)
-- [Intel and Asus agree to term sheet to take NUC systems product line forward](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
-- [How is ChatGPT&#39;s behavior changing over time?](https://arxiv.org/abs/2307.09009)
 <!-- BLOG-POST-LIST:END -->
 
 ---
