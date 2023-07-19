@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Non-native English speaking scientists work much harder just to keep up](https://theconversation.com/non-native-english-speaking-scientists-work-much-harder-just-to-keep-up-global-research-reveals-208750)
+- [GPT-4 is getting worse over time, not better](https://twitter.com/svpino/status/1681614284613099520)
 - [NeetoCal, a calendly alternative, is a commodity and is priced accordingly](https://blog.neeto.com/p/neetocal-a-calendly-alternative-is)
 - [Web Environment Integrity Explainer](https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md)
 - [Tachyons – A CSS Toolkit](https://tachyons.io/)
-- [Bookwyrm – the federated social network for reading books](https://joinbookwyrm.com/)
-- [Mystery Object Is Found on Remote Beach in Western Australia](https://www.nytimes.com/2023/07/17/world/australia/mystery-object-australia-beach.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
