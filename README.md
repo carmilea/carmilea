@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The open source learning curve for AI researchers](https://www.supervised.news/p/the-open-source-learning-curve-for)
+- [On why Markdown is not a good, or even a half-decent, markup language](http://schwarze.bsd.lv/1703_mandoc_markdown.7)
+- [Geothermal Ahead of Schedule](https://twitter.com/TimMLatimer/status/1681304496234991620)
 - [The Illusion of AI’s Existential Risk](https://www.noemamag.com/the-illusion-of-ais-existential-risk/)
 - [WhatsApp Is Down](https://metastatus.com/whatsapp-business-api)
-- [Complex Hearts](https://www.sharbonline.com/fun-stuff/card-games/complex-hearts/)
-- [Cold restart whole system after total outage](https://www.evalapply.org/posts/cold-restart-total-outage/index.html)
-- [Language history and we: the case of “like”](https://blog.oup.com/2023/07/language-history-and-we-the-case-of-like/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
