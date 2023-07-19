@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Twenty.com &lpar;YC S23&rpar; – Open-source CRM](https://news.ycombinator.com/item?id=36791434)
 - [Stanford president resigns over manipulated research, will retract 3 papers](https://stanforddaily.com/2023/07/19/stanford-president-resigns-over-manipulated-research-will-retract-at-least-3-papers/)
 - [A Checklist for Choosing Type](https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type)
 - [Asynchronous Rust on Cortex-M Microcontrollers](https://interrupt.memfault.com/blog/embedded-async-rust)
 - [Remote Code Execution in OpenSSH’s forwarded SSH-agent](https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent)
-- [Beyond introvert vs. extrovert](https://www.vipshek.com/blog/interaction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
