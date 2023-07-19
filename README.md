@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Happened to Jai Alai? &lpar;2013&rpar;](https://www.sbnation.com/longform/2013/2/28/4036934/jai-alai-sport-in-america-miami)
 - [Intel and ASUS Agree to Term Sheet to Take NUC Systems Product Line Forward](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
 - [Why Marketers Are Afraid of Kindness](https://www.admdnewsletter.com/p/why-marketers-are-afraid-of-kindness)
 - [&lpar;Databricks cofounder&rpar; How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/abs/2307.09009)
 - [Google restricting internet access to some employees for security](https://www.cnbc.com/2023/07/18/google-restricting-internet-access-to-some-employees-for-security.html)
-- [Enigma Crypto Transmission from KPH at 426 KHz and Shortwave](https://www.radiomarine.org/mrhs-events)
 <!-- BLOG-POST-LIST:END -->
 
 ---
