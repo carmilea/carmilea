@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cucumber: BDD Testing and Collaboration Tools](https://cucumber.io)
-- [India’s sex workers turn to WhatsApp, Instagram to find clients safely](https://restofworld.org/2023/india-sex-workers-online-safety/)
+- [The Illusion of AI’s Existential Risk](https://www.noemamag.com/the-illusion-of-ais-existential-risk/)
+- [WhatsApp Is Down](https://metastatus.com/whatsapp-business-api)
+- [Complex Hearts](https://www.sharbonline.com/fun-stuff/card-games/complex-hearts/)
+- [Cold restart whole system after total outage](https://www.evalapply.org/posts/cold-restart-total-outage/index.html)
 - [Language history and we: the case of “like”](https://blog.oup.com/2023/07/language-history-and-we-the-case-of-like/)
-- [The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
-- [Full-text search engine with PostgreSQL &lpar;part 2&rpar;: Postgres vs. Elasticsearch](https://xata.io/blog/postgres-full-text-search-postgres-vs-elasticsearch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
