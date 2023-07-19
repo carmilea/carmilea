@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Oppenheimer Deserves His Own Movie [video]](https://www.youtube.com/watch?v=Xzv84ZdtlE0)
-- [Iceland’s Quest to Use 100 Percent of Its Fish Waste](https://hakaimagazine.com/news/icelands-quest-to-use-100-percent-of-its-fish-waste/)
-- [Proton Pass: Open-Source and Encrypted Password Manager App](https://proton.me/pass)
-- [Illusory Superiority](https://en.wikipedia.org/wiki/Illusory_superiority)
-- [Nvidia just released FreeBSD Display Driver 535.86.05 &lpar;2023.7.18&rpar;](https://twitter.com/fosdembsd/status/1681574924282998784)
+- [NeetoCal, a calendly alternative, is a commodity and is priced accordingly](https://blog.neeto.com/p/neetocal-a-calendly-alternative-is)
+- [Web Environment Integrity Explainer](https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md)
+- [Tachyons – A CSS Toolkit](https://tachyons.io/)
+- [Bookwyrm – the federated social network for reading books](https://joinbookwyrm.com/)
+- [Mystery Object Is Found on Remote Beach in Western Australia](https://www.nytimes.com/2023/07/17/world/australia/mystery-object-australia-beach.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
