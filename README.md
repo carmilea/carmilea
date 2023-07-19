@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Twenty.com &lpar;YC S23&rpar; – Open-source CRM](https://news.ycombinator.com/item?id=36791434)
-- [Stanford president resigns over manipulated research, will retract 3 papers](https://stanforddaily.com/2023/07/19/stanford-president-resigns-over-manipulated-research-will-retract-at-least-3-papers/)
-- [A Checklist for Choosing Type](https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type)
-- [Asynchronous Rust on Cortex-M Microcontrollers](https://interrupt.memfault.com/blog/embedded-async-rust)
-- [Remote Code Execution in OpenSSH’s forwarded SSH-agent](https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent)
+- [Cucumber: BDD Testing and Collaboration Tools](https://cucumber.io)
+- [India’s sex workers turn to WhatsApp, Instagram to find clients safely](https://restofworld.org/2023/india-sex-workers-online-safety/)
+- [Language history and we: the case of “like”](https://blog.oup.com/2023/07/language-history-and-we-the-case-of-like/)
+- [The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
+- [Full-text search engine with PostgreSQL &lpar;part 2&rpar;: Postgres vs. Elasticsearch](https://xata.io/blog/postgres-full-text-search-postgres-vs-elasticsearch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
