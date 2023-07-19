@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Software Engineers](https://onesignal.com/careers/4247164006)
-- [SteamOS now available for custom hardware](https://store.steampowered.com/steamos/buildyourown)
-- [Comic Code: Monospaced interpretation of the most over-hated typeface](https://tosche.net/fonts/comic-code)
-- [Ask HN: My child was diagnosed with sensory processing disorder. What to do?](https://news.ycombinator.com/item?id=36786874)
-- [Installing Debian bookworm without systemd](https://diziet.dreamwidth.org/15336.html)
+- [Carnegie Mellon, University of Pittsburgh end use of legacy status in admissions](https://triblive.com/news/children-relatives-of-alumni-no-longer-have-admissions-edge-at-carnegie-mellon-pitt/)
+- [Simply Parse in C](https://pencil.toast.cafe/bunker-labs/simply-parse-in-c)
+- [Ask HN: How are you improving your use of LLMs in production?](https://news.ycombinator.com/item?id=36787924)
+- [Netflix Removes “Basic” Ad-Free Plan in U.S. and U.K](https://www.hollywoodreporter.com/business/digital/netflix-pulls-basic-plan-us-advertising-push-1235539481/)
+- [Postman acquires Akita for automated API observability](https://blog.postman.com/postman-acquires-akita-for-automated-api-observability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
