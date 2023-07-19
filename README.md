@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Novel method of cold water immersion for heat stroke](https://onlinelibrary.wiley.com/doi/epdf/10.1002/emp2.12007)
+- [Top Software Trends Reports for 2023](http://www.ofbizian.com/2023/07/top-20-must-read-software-reports.html)
 - [The open source learning curve for AI researchers](https://www.supervised.news/p/the-open-source-learning-curve-for)
-- [On why Markdown is not a good, or even a half-decent, markup language](http://schwarze.bsd.lv/1703_mandoc_markdown.7)
 - [Geothermal Ahead of Schedule](https://twitter.com/TimMLatimer/status/1681304496234991620)
-- [The Illusion of AI’s Existential Risk](https://www.noemamag.com/the-illusion-of-ais-existential-risk/)
-- [WhatsApp Is Down](https://metastatus.com/whatsapp-business-api)
+- [A framework to securely use LLMs in companies – Part 1: Overview of Risks](https://boringappsec.substack.com/p/edition-21-a-framework-to-securely)
 <!-- BLOG-POST-LIST:END -->
 
 ---
