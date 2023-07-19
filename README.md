@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram raises $210M through bond sales](https://techcrunch.com/2023/07/18/telegram-raises-210-million-through-bond-sales/)
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring a Senior Software Engineer &lpar;Java&rpar; in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
+- [Async rust – are we doing it all wrong?](https://maciej.codes/2022-06-09-local-async.html)
+- [Netscape and Sun announce JavaScript &lpar;1995&rpar;](https://web.archive.org/web/20070916144913/https://wp.netscape.com/newsref/pr/newsrelease67.html)
 - [Meta Tells Managers Promotions Will Be Few and Far Between](https://www.businessinsider.com/meta-tells-managers-its-harder-to-get-promotions-2023-7)
 - [IBM PL/S Machine-oriented programming language [pdf]](http://bitsavers.trailing-edge.com/pdf/ibm/360/pls/GC28-0786-0_Guide_to_PL_S_Generated_Listings_Jul72.pdf)
-- [What Happened to Jai Alai? &lpar;2013&rpar;](https://www.sbnation.com/longform/2013/2/28/4036934/jai-alai-sport-in-america-miami)
-- [Mad Pascal](https://github.com/tebe6502/Mad-Pascal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
