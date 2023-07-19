@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Non-native English speaking scientists work much harder just to keep up](https://theconversation.com/non-native-english-speaking-scientists-work-much-harder-just-to-keep-up-global-research-reveals-208750)
-- [GPT-4 is getting worse over time, not better](https://twitter.com/svpino/status/1681614284613099520)
-- [NeetoCal, a calendly alternative, is a commodity and is priced accordingly](https://blog.neeto.com/p/neetocal-a-calendly-alternative-is)
-- [Web Environment Integrity Explainer](https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md)
-- [Tachyons – A CSS Toolkit](https://tachyons.io/)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Software Engineers](https://onesignal.com/careers/4247164006)
+- [SteamOS now available for custom hardware](https://store.steampowered.com/steamos/buildyourown)
+- [Comic Code: Monospaced interpretation of the most over-hated typeface](https://tosche.net/fonts/comic-code)
+- [Ask HN: My child was diagnosed with sensory processing disorder. What to do?](https://news.ycombinator.com/item?id=36786874)
+- [Installing Debian bookworm without systemd](https://diziet.dreamwidth.org/15336.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
