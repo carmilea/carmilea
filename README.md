@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stanford president resigns over manipulated research, will retract 3 papers](https://stanforddaily.com/2023/07/19/stanford-president-resigns-over-manipulated-research-will-retract-at-least-3-papers/)
+- [A Checklist for Choosing Type](https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type)
+- [Asynchronous Rust on Cortex-M Microcontrollers](https://interrupt.memfault.com/blog/embedded-async-rust)
+- [Remote Code Execution in OpenSSH’s forwarded SSH-agent](https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent)
 - [Beyond introvert vs. extrovert](https://www.vipshek.com/blog/interaction)
-- [A Glitch in the SEO Matrix](https://www.izzy.co/blogs/a-glitch-in-the-seo-matrix.html)
-- [JetBrains Mono Typeface](https://www.jetbrains.com/lp/mono/)
-- [Apple Tests ‘Apple GPT,’ Develops Generative AI Tools to Catch OpenAI](https://www.bloomberg.com/news/articles/2023-07-19/apple-preps-ajax-generative-ai-apple-gpt-to-rival-openai-and-google)
-- [Carnegie Mellon, University of Pittsburgh end use of legacy status in admissions](https://triblive.com/news/children-relatives-of-alumni-no-longer-have-admissions-edge-at-carnegie-mellon-pitt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
