@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nixhub: Search Historical Versions of Nix Packages](https://www.jetpack.io/blog/introducing-nixhub/)
-- [IRS moves forward with a new free-file tax return system](https://www.pbs.org/newshour/politics/irs-moves-forward-with-a-new-free-file-tax-return-system-that-has-both-supporters-and-critics-mobilizing)
-- [Shelter Protocol: End-to-end encrypted, federated, user-friendly web apps](https://shelterprotocol.net)
-- [In 1961 a Gallup poll showed only 33% of Americans in favor of moon landing](https://newsletter.pessimistsarchive.org/p/the-moon-landing-was-opposed-by-majority)
-- [Custom instructions for ChatGPT](https://openai.com/blog/custom-instructions-for-chatgpt)
+- [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
+- [Good code is like a love letter to the next developer who will maintain it](https://addyosmani.com/blog/good-code/)
+- [GradIEEEnt half decent: The hidden power of imprecise lines [video]](https://www.youtube.com/watch?v=Ae9EKCyI1xU)
+- [Richard Rhodes wrote a classic book about Oppenheimer and the atomic bomb](https://www.theatlantic.com/technology/archive/2023/07/richard-rhodes-making-of-the-atomic-bomb-ai/674777/)
+- [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
