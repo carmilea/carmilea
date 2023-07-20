@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Minigpt4 Inference on CPU](https://github.com/Maknee/minigpt4.cpp)
 - [This alien-looking airship design used a propulsion method unlike any other](https://www.thedrive.com/the-war-zone/this-alien-looking-airship-design-used-a-propulsion-method-unlike-any-other)
+- [ACL 2023 Tutorial: Retrieval-Based Language Models and Applications](https://acl2023-retrieval-lm.github.io/)
 - [Sidebery – A Firefox extension for managing tabs and bookmarks in sidebar](https://github.com/mbnuqw/sidebery)
-- [Reading is selfish, elitist, and anti-social](https://otherlife.co/p/good-reading-selfish-elitist-antisocial)
-- [Spy Kids](https://www.cia.gov/spy-kids/games/index.html)
 - [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 <!-- BLOG-POST-LIST:END -->
 
