@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Invitation to a Secret Society](https://www.experimental-history.com/p/an-invitation-to-a-secret-society)
 - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 - [Good code is like a love letter to the next developer who will maintain it](https://addyosmani.com/blog/good-code/)
 - [GradIEEEnt half decent: The hidden power of imprecise lines [video]](https://www.youtube.com/watch?v=Ae9EKCyI1xU)
 - [Richard Rhodes wrote a classic book about Oppenheimer and the atomic bomb](https://www.theatlantic.com/technology/archive/2023/07/richard-rhodes-making-of-the-atomic-bomb-ai/674777/)
-- [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
