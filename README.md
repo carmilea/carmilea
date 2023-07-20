@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nixhub: Search Historical Versions of Nix Packages](https://www.jetpack.io/blog/introducing-nixhub/)
 - [IRS moves forward with a new free-file tax return system](https://www.pbs.org/newshour/politics/irs-moves-forward-with-a-new-free-file-tax-return-system-that-has-both-supporters-and-critics-mobilizing)
-- [The hometown of San Francisco’s drug dealers](https://www.sfchronicle.com/projects/2023/san-francisco-drug-trade-honduras/)
+- [Shelter Protocol: End-to-End Encrypted, Federated, User-Friendly Web Apps](https://shelterprotocol.net)
 - [In 1961 a Gallup poll showed only 33% of Americans in favor of moon landing](https://newsletter.pessimistsarchive.org/p/the-moon-landing-was-opposed-by-majority)
 - [Wiio’s laws: Communication usually fails, except by accident](https://en.wikipedia.org/wiki/Wiio%27s_laws)
-- [Custom Instructions for ChatGPT](https://openai.com/blog/custom-instructions-for-chatgpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
