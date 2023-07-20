@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel&#39;s 14th Gen Core K-Series CPU Specs Break Cover with Speeds Up to 6GHz](https://hothardware.com/news/intel-14thgen-core-k-cpu-spec-leak)
 - [Vacuum Airship](https://en.wikipedia.org/wiki/Vacuum_airship)
 - [MDN Playground](https://developer.mozilla.org/en-US/play)
+- [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
 - [ChromiumOS Developer Guide, Programming languages and style](https://chromium.googlesource.com/chromiumos/docs/+/HEAD/development_basics.md#programming-languages-and-style)
-- [SigNoz &lpar;YC W21&rpar;: Open-Source Observability Platform – Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/signoz/jobs/emmP9Zs-developer-relations-engineer-remote-india)
-- [Something in space has been lighting up every 20 minutes since 1988](https://arstechnica.com/science/2023/07/new-slow-repeating-radio-source-we-have-no-idea-what-it-is/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
