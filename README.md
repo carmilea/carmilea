@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple says it&#39;ll remove iMessage and FaceTime in UK rather than break encryption](https://9to5mac.com/2023/07/20/apple-imessage-facetime-remove-security-law/)
+- [Accidentally Load Bearing](https://www.jefftk.com/p/accidentally-load-bearing)
+- [The Crazily Unconstitutional New Laws Trying to Criminalize Filming Cops](https://slate.com/news-and-politics/2023/07/jarrell-garris-bodycam-footage-filming-cops-law-indiana-florida.html)
+- [Project Aria &#39;Digital Twin&#39; Dataset by Meta](https://www.projectaria.com/datasets/adt/)
 - [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
-- [XYB JPEG: Perceptual Color Encoding Tested](https://giannirosato.com/blog/post/jpegli-xyb/)
-- [Anytype – open-source, local-first, P2P Notion alternative](https://anytype.io/?hn)
-- [UpCodes &lpar;YC S17&rpar; is hiring a Growth Marketer to make construction efficient](https://up.codes/careers)
-- [Wall Street Shrinks Headcount by 21,000 as Dealmaking and Trading Slump](https://www.bloomberg.com/news/articles/2023-07-19/wall-street-shrinks-ranks-by-21-000-amid-deals-trading-slump)
 <!-- BLOG-POST-LIST:END -->
 
 ---
