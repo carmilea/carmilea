@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel&#39;s 14th Gen Core K-Series CPU Specs Break Cover with Speeds Up to 6GHz](https://hothardware.com/news/intel-14thgen-core-k-cpu-spec-leak)
-- [Vacuum Airship](https://en.wikipedia.org/wiki/Vacuum_airship)
-- [MDN Playground](https://developer.mozilla.org/en-US/play)
-- [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
-- [ChromiumOS Developer Guide, Programming languages and style](https://chromium.googlesource.com/chromiumos/docs/+/HEAD/development_basics.md#programming-languages-and-style)
+- [UpCodes &lpar;YC S17&rpar; is hiring a Growth Marketer to make construction efficient](https://up.codes/careers)
+- [Wall Street Shrinks Headcount by 21,000 as Dealmaking and Trading Slump](https://www.bloomberg.com/news/articles/2023-07-19/wall-street-shrinks-ranks-by-21-000-amid-deals-trading-slump)
+- [TSMC delays U.S. chip plant start to 2025 due to labor shortages](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-delays-U.S.-chip-plant-start-to-2025-due-to-labor-shortages)
+- [Open Source IMS Client](https://projects.osmocom.org/projects/foss-ims-client/wiki/Wiki)
+- [Unshackle: A tool to bypass windows password logins](https://github.com/Fadi002/unshackle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
