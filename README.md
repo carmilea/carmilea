@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Minigpt4 Inference on CPU](https://github.com/Maknee/minigpt4.cpp)
-- [This alien-looking airship design used a propulsion method unlike any other](https://www.thedrive.com/the-war-zone/this-alien-looking-airship-design-used-a-propulsion-method-unlike-any-other)
-- [ACL 2023 Tutorial: Retrieval-Based Language Models and Applications](https://acl2023-retrieval-lm.github.io/)
-- [Sidebery – A Firefox extension for managing tabs and bookmarks in sidebar](https://github.com/mbnuqw/sidebery)
-- [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
+- [SigNoz &lpar;YC W21&rpar;: Open-Source Observability Platform – Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/signoz/jobs/emmP9Zs-developer-relations-engineer-remote-india)
+- [Ask HN: For 10 years I&#39;ve been trying various projects, still clueless](https://news.ycombinator.com/item?id=36797485)
+- [On the Origin of LLMs](https://arxiv.org/abs/2307.09793)
+- [Something in space has been lighting up every 20 minutes since 1988](https://arstechnica.com/science/2023/07/new-slow-repeating-radio-source-we-have-no-idea-what-it-is/)
+- [In Memoriam: Hans Petter William Sirevåg Selasky](https://lists.freebsd.org/archives/freebsd-announce/2023-July/000076.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
