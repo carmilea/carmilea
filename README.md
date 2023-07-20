@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JPEG XL: How It Started, How It’s Going](https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going)
+- [Two-Faced Star Exposed](https://www.caltech.edu/about/news/two-faced-star-exposed)
 - [Apple says it&#39;ll remove iMessage and FaceTime in UK rather than break encryption](https://9to5mac.com/2023/07/20/apple-imessage-facetime-remove-security-law/)
 - [Accidentally Load Bearing](https://www.jefftk.com/p/accidentally-load-bearing)
 - [The Crazily Unconstitutional New Laws Trying to Criminalize Filming Cops](https://slate.com/news-and-politics/2023/07/jarrell-garris-bodycam-footage-filming-cops-law-indiana-florida.html)
-- [Project Aria &#39;Digital Twin&#39; Dataset by Meta](https://www.projectaria.com/datasets/adt/)
-- [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
