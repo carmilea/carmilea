@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Leaving the Web3 Cult](https://dope.bearblog.dev/leaving-the-web3-cult/)
-- [Ask HN: Is SICP/HtDP still worth reading in 2023? Any alternatives?](https://news.ycombinator.com/item?id=36802579)
-- [Uncensored Library: Banned Journalism Housed in Virtual Minecraft Architecture](https://99percentinvisible.org/article/uncensored-library-virtual-minecraft-architecture-houses-banned-journalism/)
-- [Fed Opens Service That Dramatically Speeds Up U.S. Payments](https://www.coindesk.com/policy/2023/07/20/us-federal-reserve-kickstarts-fednow-instant-payments/)
+- [What are the “trophy jobs” in tech?](https://anuatluru.com/blog/trophyjobs)
+- [Running Stable Diffusion in 260MB of RAM](https://github.com/vitoplantamura/OnnxStream)
+- [Introducing TypeChat from Microsoft](https://microsoft.github.io/TypeChat/blog/introducing-typechat/)
+- [Banned journalism housed in virtual Minecraft architecture &lpar;2022&rpar;](https://99percentinvisible.org/article/uncensored-library-virtual-minecraft-architecture-houses-banned-journalism/)
 - [Azorius 0.1](https://flak.tedunangst.com/post/azorius-01)
 <!-- BLOG-POST-LIST:END -->
 
