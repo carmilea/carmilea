@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uncensored Library: Banned Journalism Housed in Virtual Minecraft Architecture](https://99percentinvisible.org/article/uncensored-library-virtual-minecraft-architecture-houses-banned-journalism/)
+- [Fed Opens Service That Dramatically Speeds Up U.S. Payments](https://www.coindesk.com/policy/2023/07/20/us-federal-reserve-kickstarts-fednow-instant-payments/)
+- [Azorius 0.1](https://flak.tedunangst.com/post/azorius-01)
 - [JPEG XL: How It Started, How It’s Going](https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going)
-- [Two-Faced Star Exposed](https://www.caltech.edu/about/news/two-faced-star-exposed)
-- [Apple says it&#39;ll remove iMessage and FaceTime in UK rather than break encryption](https://9to5mac.com/2023/07/20/apple-imessage-facetime-remove-security-law/)
-- [Accidentally Load Bearing](https://www.jefftk.com/p/accidentally-load-bearing)
-- [The Crazily Unconstitutional New Laws Trying to Criminalize Filming Cops](https://slate.com/news-and-politics/2023/07/jarrell-garris-bodycam-footage-filming-cops-law-indiana-florida.html)
+- [Become Ungoogleable](https://joeyh.name/blog/entry/become_ungoogleable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
