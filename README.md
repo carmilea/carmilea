@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
+- [XYB JPEG: Perceptual Color Encoding Tested](https://giannirosato.com/blog/post/jpegli-xyb/)
+- [Anytype – open-source, local-first, P2P Notion alternative](https://anytype.io/?hn)
 - [UpCodes &lpar;YC S17&rpar; is hiring a Growth Marketer to make construction efficient](https://up.codes/careers)
 - [Wall Street Shrinks Headcount by 21,000 as Dealmaking and Trading Slump](https://www.bloomberg.com/news/articles/2023-07-19/wall-street-shrinks-ranks-by-21-000-amid-deals-trading-slump)
-- [TSMC delays U.S. chip plant start to 2025 due to labor shortages](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-delays-U.S.-chip-plant-start-to-2025-due-to-labor-shortages)
-- [Open Source IMS Client](https://projects.osmocom.org/projects/foss-ims-client/wiki/Wiki)
-- [Unshackle: A tool to bypass windows password logins](https://github.com/Fadi002/unshackle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
