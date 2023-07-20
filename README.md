@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
+- [The Danger of Popcorn Polymer: Incident at the TPC Group Chemical Plant [video]](https://www.youtube.com/watch?v=6-3BFXpBcjc)
 - [Novel method of cold water immersion for heat stroke](https://onlinelibrary.wiley.com/doi/epdf/10.1002/emp2.12007)
 - [Top Software Trends Reports for 2023](http://www.ofbizian.com/2023/07/top-20-must-read-software-reports.html)
 - [The open source learning curve for AI researchers](https://www.supervised.news/p/the-open-source-learning-curve-for)
-- [Geothermal Ahead of Schedule](https://twitter.com/TimMLatimer/status/1681304496234991620)
-- [A framework to securely use LLMs in companies – Part 1: Overview of Risks](https://boringappsec.substack.com/p/edition-21-a-framework-to-securely)
 <!-- BLOG-POST-LIST:END -->
 
 ---
