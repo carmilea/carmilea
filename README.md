@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What are the “trophy jobs” in tech?](https://anuatluru.com/blog/trophyjobs)
-- [Running Stable Diffusion in 260MB of RAM](https://github.com/vitoplantamura/OnnxStream)
-- [Introducing TypeChat from Microsoft](https://microsoft.github.io/TypeChat/blog/introducing-typechat/)
-- [Banned journalism housed in virtual Minecraft architecture &lpar;2022&rpar;](https://99percentinvisible.org/article/uncensored-library-virtual-minecraft-architecture-houses-banned-journalism/)
-- [Azorius 0.1](https://flak.tedunangst.com/post/azorius-01)
+- [IRS moves forward with a new free-file tax return system](https://www.pbs.org/newshour/politics/irs-moves-forward-with-a-new-free-file-tax-return-system-that-has-both-supporters-and-critics-mobilizing)
+- [The hometown of San Francisco’s drug dealers](https://www.sfchronicle.com/projects/2023/san-francisco-drug-trade-honduras/)
+- [In 1961 a Gallup poll showed only 33% of Americans in favor of moon landing](https://newsletter.pessimistsarchive.org/p/the-moon-landing-was-opposed-by-majority)
+- [Wiio’s laws: Communication usually fails, except by accident](https://en.wikipedia.org/wiki/Wiio%27s_laws)
+- [Custom Instructions for ChatGPT](https://openai.com/blog/custom-instructions-for-chatgpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
