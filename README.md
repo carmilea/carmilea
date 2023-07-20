@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaving the Web3 Cult](https://dope.bearblog.dev/leaving-the-web3-cult/)
+- [Ask HN: Is SICP/HtDP still worth reading in 2023? Any alternatives?](https://news.ycombinator.com/item?id=36802579)
 - [Uncensored Library: Banned Journalism Housed in Virtual Minecraft Architecture](https://99percentinvisible.org/article/uncensored-library-virtual-minecraft-architecture-houses-banned-journalism/)
 - [Fed Opens Service That Dramatically Speeds Up U.S. Payments](https://www.coindesk.com/policy/2023/07/20/us-federal-reserve-kickstarts-fednow-instant-payments/)
 - [Azorius 0.1](https://flak.tedunangst.com/post/azorius-01)
-- [JPEG XL: How It Started, How It’s Going](https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going)
-- [Become Ungoogleable](https://joeyh.name/blog/entry/become_ungoogleable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
