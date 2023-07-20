@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Delta passengers fall ill while stuck for hours during blistering Vegas heatwave](https://www.nbcnews.com/news/us-news/delta-passengers-fall-ill-stuck-tarmac-hours-blistering-las-vegas-heat-rcna95050)
+- [CIA: Spy Games for Kids](https://www.cia.gov/spy-kids/games/index.html)
 - [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 - [The Danger of Popcorn Polymer: Incident at the TPC Group Chemical Plant [video]](https://www.youtube.com/watch?v=6-3BFXpBcjc)
 - [Novel method of cold water immersion for heat stroke](https://onlinelibrary.wiley.com/doi/epdf/10.1002/emp2.12007)
-- [Top Software Trends Reports for 2023](http://www.ofbizian.com/2023/07/top-20-must-read-software-reports.html)
-- [The open source learning curve for AI researchers](https://www.supervised.news/p/the-open-source-learning-curve-for)
 <!-- BLOG-POST-LIST:END -->
 
 ---
