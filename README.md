@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM Constellation](https://llmconstellation.olafblitz.repl.co/)
 - [Amazon shuts down customer’s smart home](https://forums.macrumors.com/threads/amazon-shuts-down-customers-smart-home.2392704/)
-- [Octo.jl – A SQL Query DSL in Julia](https://github.com/wookay/Octo.jl)
 - [Study finds billions of nanoplastics released when microwaving containers](https://news.unl.edu/newsrooms/today/article/nebraska-study-finds-billions-of-nanoplastics-released-when-microwaving/)
 - [Sub-Pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
 - [Crockford on JSON license &lpar;2011&rpar;](https://gist.github.com/kemitchell/fdc179d60dc88f0c9b76e5d38fe47076)
