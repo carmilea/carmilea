@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mali Government takes back .ml domain, brings down one of largest Lemmy servers](https://very.bignutty.xyz/notes/9hfv05qcs5xf7irr)
-- [Death Valley Just Had the Hottest Midnight on Record](https://www.msn.com/en-us/weather/topstories/death-valley-just-had-the-hottest-midnight-on-record/ar-AA1e2u4W)
-- [There’s a heatwave in the sea and scientists are worried](https://www.bbc.com/future/article/20230720-theres-a-heatwave-in-the-sea-and-scientists-are-worried)
-- [Tony Bennett has died](https://www.goodmorningamerica.com/culture/story/legendary-crooner-tony-bennett-dead-96-75761535)
-- [&#39;Mystery company&#39; buys land worth $800M near Travis AFB, raising concerns](https://abc7news.com/travis-afb-air-force-base-flannery-associates-llc-john-garamendi/13527836/)
+- [Why Did Meta Open-Source Llama 2?](https://matt-rickard.com/why-did-meta-open-source-llama)
+- [Stay or Leave: Manager Admitted I am on PIP because quota](https://www.teamblind.com/post/Stay-or-Leave-Manager-Admitted-I-am-on-PIP-because-quota-QVfiZ64y)
+- [MiniZinc](https://www.minizinc.org/)
+- [For BSD Unix, It&#39;s Sayonara &lpar;1992&rpar;](https://www.tech-insider.org/unix/research/1992/0622.html)
+- [Web Environment Integrity API](https://github.com/RupertBenWiser/Web-Environment-Integrity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
