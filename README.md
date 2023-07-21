@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: What are some low cost payment processing alternatives to Stripe?](https://news.ycombinator.com/item?id=36811026)
+- [Quench of LHC inner triplet magnet causes a small leak with major consequences](https://home.cern/news/news/accelerators/accelerator-report-quench-lhc-inner-triplet-magnet-causes-small-leak-major)
 - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 - [LLM Constellation](https://llmconstellation.olafblitz.repl.co/)
-- [Amazon shuts down customer’s smart home](https://forums.macrumors.com/threads/amazon-shuts-down-customers-smart-home.2392704/)
-- [Study finds billions of nanoplastics released when microwaving containers](https://news.unl.edu/newsrooms/today/article/nebraska-study-finds-billions-of-nanoplastics-released-when-microwaving/)
+- [What Humanities Scholars Want Students to Know About the Internet](https://computinged.wordpress.com/2023/07/17/what-humanities-scholars-want-students-to-know-about-the-internet-alternative-paths-for-alternative-endpoints/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
