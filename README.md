@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The 115F Heat Is Killing Phones in Sardinia](https://www.bloomberg.com/news/articles/2023-07-19/dying-phones-wilting-cyclists-epicenter-of-europe-heat-wave-has-grim-warnings)
-- [How Turborepo is porting from Go to Rust](https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust?nxtPslug=how-turborepo-is-porting-from-go-to-rust)
-- [Dementia risk linked to blood-protein imbalance in middle age](https://www.nature.com/articles/d41586-023-02374-2)
-- [Three lessons from negative trends in vertical farming](https://www.verticalfarmdaily.com/article/9537965/lessons-from-vertical-farming-bankruptcies-layoffs-and-closures-in-2023/)
-- [90s Internet: When 20 hours online triggered an email from my ISP’s president](https://arstechnica.com/gadgets/2023/07/the-90s-internet-when-20-hours-online-triggered-an-email-from-my-isps-president/)
+- [Exxon bets carbon will be the new oil](https://www.semafor.com/article/07/21/2023/exxon-carbon-denbury)
+- [LLaMA2 isn&#39;t “Open Source” – and why it doesn&#39;t matter](https://www.alessiofanelli.com/blog/llama2-isnt-open-source)
+- [Farmworkers thought a new overtime law would help them. Now, they want it gone](https://text.npr.org/1188258994)
+- [Busiest day ever for electric vehicle charging predicted on UK roads](https://www.fleetnews.co.uk/news/latest-fleet-news/electric-fleet-news/2023/07/20/busiest-day-ever-for-electric-vehicle-charging-predicted-on-uk-roads)
+- [By 2028 there must be fast chargers every 60 km on the EU’s key motorways](https://www.fleeteurope.com/en/new-energies/europe/article/fast-chargers-every-60-km-key-eu-motorways?a=FJA05&t%5B0%5D=Charging&curl=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
