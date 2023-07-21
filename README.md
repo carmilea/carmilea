@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Octo.jl – A SQL Query DSL in Julia](https://github.com/wookay/Octo.jl)
 - [Study finds billions of nanoplastics released when microwaving containers](https://news.unl.edu/newsrooms/today/article/nebraska-study-finds-billions-of-nanoplastics-released-when-microwaving/)
-- [An A.I. Supercomputer Whirs to Life, Powered by Giant Computer Chips](https://www.nytimes.com/2023/07/20/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips.html)
+- [An A.I. supercomputer whirs to life, powered by giant computer chips](https://www.nytimes.com/2023/07/20/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips.html)
 - [Crockford on JSON license &lpar;2011&rpar;](https://gist.github.com/kemitchell/fdc179d60dc88f0c9b76e5d38fe47076)
 - [Hardware Hacking &lpar;2004&rpar; [pdf]](http://www.nicolascollins.com/texts/originalhackingmanual.pdf)
-- [FTC warns board game content creators, publishers to disclose relationships](https://boardgamewire.com/index.php/2023/07/17/ftc-warns-board-game-influencers-publishers-over-failing-to-properly-disclose-relationships-free-gifts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
