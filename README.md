@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Dark UI Patterns in Gmail?](https://news.ycombinator.com/item?id=36818806)
-- [Don’t Make Fun of Renowned Dan Brown &lpar;2013&rpar;](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
-- [Slackware Linux Distribution Turns 30 Years Old](https://www.theregister.com/2023/07/20/slackware_turns_30/)
-- [Why Did Meta Open-Source Llama 2?](https://matt-rickard.com/why-did-meta-open-source-llama)
-- [IMAX emulates PalmPilot software to power Oppenheimer’s 70 mm release](https://arstechnica.com/gadgets/2023/07/imax-emulates-palmpilot-software-to-power-oppenheimers-70-mm-release/)
+- [Sleep Reset &lpar;YC W17&rpar; Is Hiring](https://www.ycombinator.com/companies/sleep-reset/jobs/8qZIdyD-personal-assistant-must-be-korean-english-bilingual)
+- [OpenAI announces ChatGPT for Android](https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en_US)
+- [Journalists should be skeptical of all sources – including scientists](https://natesilver.substack.com/p/journalists-should-be-skeptical-of)
+- [Big Tech as the New Big Tobacco](https://www.bigtechwiki.com/index.php/Big_Tech_as_the_New_Big_Tobacco)
+- [Actors decry &#39;existential crisis&#39; over AI-generated ‘synthetic’ actors](https://www.reuters.com/technology/actors-decry-existential-crisis-over-ai-generated-synthetic-actors-2023-07-21/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
