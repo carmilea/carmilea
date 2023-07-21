@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Primo – a visual CMS with Svelte blocks, a code editor, and SSG](https://primocms.org)
+- [Rethinking Infrastructure as Code from Scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
 - [Data breach exposes personal information of 4k Roblox developers](https://www.theverge.com/2023/7/21/23802742/roblox-data-breach-leak-developer-personal-information-exposed)
 - [Proofs from the Book](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK)
 - [Tell HN: Upgrade your Metabase installation immediately](https://github.com/metabase/metabase/releases/tag/v0.46.6.1)
-- [Small Joys with Odin](http://www.zannzen.com/blog/small_joys_with_odin_1/)
-- [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
