@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exxon bets carbon will be the new oil](https://www.semafor.com/article/07/21/2023/exxon-carbon-denbury)
-- [LLaMA2 isn&#39;t “Open Source” – and why it doesn&#39;t matter](https://www.alessiofanelli.com/blog/llama2-isnt-open-source)
-- [Farmworkers thought a new overtime law would help them. Now, they want it gone](https://text.npr.org/1188258994)
-- [Busiest day ever for electric vehicle charging predicted on UK roads](https://www.fleetnews.co.uk/news/latest-fleet-news/electric-fleet-news/2023/07/20/busiest-day-ever-for-electric-vehicle-charging-predicted-on-uk-roads)
-- [By 2028 there must be fast chargers every 60 km on the EU’s key motorways](https://www.fleeteurope.com/en/new-energies/europe/article/fast-chargers-every-60-km-key-eu-motorways?a=FJA05&t%5B0%5D=Charging&curl=1)
+- [&#39;Mystery company&#39; buys land worth $800M near Travis AFB, raising concerns](https://abc7news.com/travis-afb-air-force-base-flannery-associates-llc-john-garamendi/13527836/)
+- [Warcraft fans claim win over AI with Glorbo prank](https://www.bbc.com/news/newsbeat-66266344)
+- [Diablo](https://www.filfre.net/2023/07/diablo/)
+- [‘World of Warcraft’ Players Trick AI-Scraping Website into Publishing Nonsense](https://www.forbes.com/sites/paultassi/2023/07/21/world-of-warcraft-players-trick-ai-scraping-games-website-into-publishing-nonsense/)
+- [RFC 9420 a.k.a. Messaging Layer Security &lpar;MLS&rpar; – An Overview](https://blog.phnx.im/rfc-9420-mls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
