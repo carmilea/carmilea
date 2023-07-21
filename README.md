@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Study finds regular &#39;phubbing&#39; could be damaging marriages](https://phys.org/news/2023-07-regular-phubbing-marriages.html)
+- [The 115F Heat Is Killing Phones in Sardinia](https://www.bloomberg.com/news/articles/2023-07-19/dying-phones-wilting-cyclists-epicenter-of-europe-heat-wave-has-grim-warnings)
+- [How Turborepo is porting from Go to Rust](https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust?nxtPslug=how-turborepo-is-porting-from-go-to-rust)
 - [Dementia risk linked to blood-protein imbalance in middle age](https://www.nature.com/articles/d41586-023-02374-2)
-- [A.I. Companies Agree to Safeguards After Pressure from the White House](https://www.nytimes.com/2023/07/21/us/politics/ai-regulation-biden.html)
-- [Tony Bennett, Master Pop Vocalist, Dies at 96](https://variety.com/2023/music/news/tony-bennett-dead-dies-pop-vocalist-1235676390/)
-- [Show HN: Primo – a visual CMS with Svelte blocks, a code editor, and SSG](https://primocms.org)
+- [Three lessons from negative trends in vertical farming](https://www.verticalfarmdaily.com/article/9537965/lessons-from-vertical-farming-bankruptcies-layoffs-and-closures-in-2023/)
+- [90s Internet: When 20 hours online triggered an email from my ISP’s president](https://arstechnica.com/gadgets/2023/07/the-90s-internet-when-20-hours-online-triggered-an-email-from-my-isps-president/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
