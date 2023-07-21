@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cooking Air Quality](https://www.jefftk.com/p/cooking-air-quality)
+- [Why is healthy food so expensive in America? Blame the Farm Bill](https://fortune.com/2023/07/21/why-healthy-food-so-expensive-in-america-blame-farm-bill-congress-always-renews-make-burgers-cheaper-salad-gene-baur/)
+- [NativePHP: A framework for building desktop apps using PHP](https://nativephp.com/docs/1/getting-started/introduction)
 - [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
-- [Llama: Add grammar-based sampling](https://github.com/ggerganov/llama.cpp/pull/1773)
-- [Meta stops ordering new parts for Quest Pro](https://www.zdnet.com/article/meta-cancels-quest-pro-stops-development-of-quest-pro-2/)
-- [Sleep Reset &lpar;YC W17&rpar; Is Hiring](https://www.ycombinator.com/companies/sleep-reset/jobs/8qZIdyD-personal-assistant-must-be-korean-english-bilingual)
-- [Journalists should be skeptical of all sources including scientists](https://natesilver.substack.com/p/journalists-should-be-skeptical-of)
+- [Book Review: The Laws of Trading](https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading)
 <!-- BLOG-POST-LIST:END -->
 
 ---
