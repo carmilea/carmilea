@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What are some low cost payment processing alternatives to Stripe?](https://news.ycombinator.com/item?id=36811026)
+- [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 - [LLM Constellation](https://llmconstellation.olafblitz.repl.co/)
 - [Amazon shuts down customer’s smart home](https://forums.macrumors.com/threads/amazon-shuts-down-customers-smart-home.2392704/)
 - [Study finds billions of nanoplastics released when microwaving containers](https://news.unl.edu/newsrooms/today/article/nebraska-study-finds-billions-of-nanoplastics-released-when-microwaving/)
-- [Sub-Pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
-- [Crockford on JSON license &lpar;2011&rpar;](https://gist.github.com/kemitchell/fdc179d60dc88f0c9b76e5d38fe47076)
 <!-- BLOG-POST-LIST:END -->
 
 ---
