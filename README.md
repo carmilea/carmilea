@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Dark UI Patterns in Gmail?](https://news.ycombinator.com/item?id=36818806)
+- [Don’t Make Fun of Renowned Dan Brown &lpar;2013&rpar;](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
+- [Slackware Linux Distribution Turns 30 Years Old](https://www.theregister.com/2023/07/20/slackware_turns_30/)
 - [Why Did Meta Open-Source Llama 2?](https://matt-rickard.com/why-did-meta-open-source-llama)
-- [Stay or Leave: Manager Admitted I am on PIP because quota](https://www.teamblind.com/post/Stay-or-Leave-Manager-Admitted-I-am-on-PIP-because-quota-QVfiZ64y)
-- [MiniZinc](https://www.minizinc.org/)
-- [For BSD Unix, It&#39;s Sayonara &lpar;1992&rpar;](https://www.tech-insider.org/unix/research/1992/0622.html)
-- [Web Environment Integrity API](https://github.com/RupertBenWiser/Web-Environment-Integrity)
+- [IMAX emulates PalmPilot software to power Oppenheimer’s 70 mm release](https://arstechnica.com/gadgets/2023/07/imax-emulates-palmpilot-software-to-power-oppenheimers-70-mm-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
