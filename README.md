@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
+- [Llama: Add grammar-based sampling](https://github.com/ggerganov/llama.cpp/pull/1773)
+- [Meta stops ordering new parts for Quest Pro](https://www.zdnet.com/article/meta-cancels-quest-pro-stops-development-of-quest-pro-2/)
 - [Sleep Reset &lpar;YC W17&rpar; Is Hiring](https://www.ycombinator.com/companies/sleep-reset/jobs/8qZIdyD-personal-assistant-must-be-korean-english-bilingual)
-- [OpenAI announces ChatGPT for Android](https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en_US)
-- [Journalists should be skeptical of all sources – including scientists](https://natesilver.substack.com/p/journalists-should-be-skeptical-of)
-- [Big Tech as the New Big Tobacco](https://www.bigtechwiki.com/index.php/Big_Tech_as_the_New_Big_Tobacco)
-- [Actors decry &#39;existential crisis&#39; over AI-generated ‘synthetic’ actors](https://www.reuters.com/technology/actors-decry-existential-crisis-over-ai-generated-synthetic-actors-2023-07-21/)
+- [Journalists should be skeptical of all sources including scientists](https://natesilver.substack.com/p/journalists-should-be-skeptical-of)
 <!-- BLOG-POST-LIST:END -->
 
 ---
