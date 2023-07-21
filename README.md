@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mali Government takes back .ml domain, brings down one of largest Lemmy servers](https://very.bignutty.xyz/notes/9hfv05qcs5xf7irr)
+- [Death Valley Just Had the Hottest Midnight on Record](https://www.msn.com/en-us/weather/topstories/death-valley-just-had-the-hottest-midnight-on-record/ar-AA1e2u4W)
+- [There’s a heatwave in the sea and scientists are worried](https://www.bbc.com/future/article/20230720-theres-a-heatwave-in-the-sea-and-scientists-are-worried)
+- [Tony Bennett has died](https://www.goodmorningamerica.com/culture/story/legendary-crooner-tony-bennett-dead-96-75761535)
 - [&#39;Mystery company&#39; buys land worth $800M near Travis AFB, raising concerns](https://abc7news.com/travis-afb-air-force-base-flannery-associates-llc-john-garamendi/13527836/)
-- [Warcraft fans claim win over AI with Glorbo prank](https://www.bbc.com/news/newsbeat-66266344)
-- [Diablo](https://www.filfre.net/2023/07/diablo/)
-- [‘World of Warcraft’ Players Trick AI-Scraping Website into Publishing Nonsense](https://www.forbes.com/sites/paultassi/2023/07/21/world-of-warcraft-players-trick-ai-scraping-games-website-into-publishing-nonsense/)
-- [RFC 9420 a.k.a. Messaging Layer Security &lpar;MLS&rpar; – An Overview](https://blog.phnx.im/rfc-9420-mls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
