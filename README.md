@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Compromised Microsoft Key: More Impactful Than We Thought](https://www.wiz.io/blog/storm-0558-compromised-microsoft-key-enables-authentication-of-countless-micr)
+- [Internet Search Tips](https://gwern.net/search)
 - [FBI improperly used 702 surveillance powers on US senator](https://thehill.com/homenews/administration/4110850-fbi-improperly-used-702-surveillance-powers-on-us-senator/)
+- [Discovery: Metals can heal themselves](https://newsreleases.sandia.gov/healing_metals/)
 - [Facebook denies cookie tracking allegations &lpar;2011&rpar;](https://www.zdnet.com/article/facebook-denies-cookie-tracking-allegations/)
-- [Middle class homebuyers taking $7k mortgages planning to later refinance down](https://fortune.com/2023/07/19/mortgage-rates-housing-market-affordability-borrower-refinance-speculation/)
-- [Amazon is getting ready to launch a lot of broadband satellites](https://arstechnica.com/space/2023/07/amazon-is-getting-ready-to-launch-a-lot-of-broadband-satellites/)
-- [Using Prolog in Windows NT Network Configuration &lpar;1996&rpar;](https://web.archive.org/web/20030218034509/http://www.research.microsoft.com/research/dtg/davidhov/pap.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
