@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [To grasp the extent of inequality, look at the relatively well-off](https://blogs.lse.ac.uk/politicsandpolicy/to-grasp-the-extent-of-inequality-look-at-the-relatively-well-off/)
 - [Neurotechnology: Current Developments and Ethical Issues](https://www.frontiersin.org/articles/10.3389/fnsys.2017.00093/full)
+- [I thought I wanted to be a professor. Then, I served on a hiring committee](https://www.science.org/content/article/i-thought-i-wanted-be-faculty-member-then-i-served-hiring-committee)
 - [Simpson Fan Grows Tomacco &lpar;2003&rpar;](https://www.simpsonsarchive.com/news/tomacco.html)
 - [Over-grazing and desertification in the Syrian steppe root causes of war &lpar;2015&rpar;](https://theecologist.org/2015/jun/05/over-grazing-and-desertification-syrian-steppe-are-root-causes-war)
-- [Octos – HTML live wallpaper engine](https://github.com/underpig1/octos)
-- [Plane – Open-source Jira alternative](https://plane.so)
 <!-- BLOG-POST-LIST:END -->
 
 ---
