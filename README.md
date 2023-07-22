@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amsterdam bans cruise ships to limit visitors and curb pollution](https://www.bbc.com/news/world-europe-66264226)
+- [STX – C++17 and C++ 20 error-handling and utility extensions](https://lamarrr.github.io/STX/)
+- [TokenFlow: Consistent Diffusion Features for Consistent Video Editing](https://diffusion-tokenflow.github.io/)
+- [How does iCloud work? Plus a new version of Cirrus](https://eclecticlight.co/2023/07/17/how-does-icloud-work-plus-a-new-version-of-cirrus/)
+- [Visiting Death](https://www.overcomingbias.com/p/visiting-death)
 - [Hops for beer flourish under solar panels](https://apnews.com/article/climate-beer-solar-panels-hops-germany-ee3d00a1877837eb85053335e3b68a00)
-- [Egregoria: 3D City Builder without a grid](https://github.com/Uriopass/Egregoria)
-- [Making the most of Apple Silicon power: 2 Core capabilities [2022]](https://eclecticlight.co/2022/10/05/making-the-most-of-apple-silicon-power-2-core-capabilities/)
-- [A Caltech Nobel laureate celebrates his 100th birthday, then gets back to work](https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
