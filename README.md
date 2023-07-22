@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Caltech Nobel laureate celebrates his 100th birthday. Then gets back to work](https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work)
-- [Amish communities are adapting a surprising new technology in their homes](https://news.yahoo.com/amish-communities-adapting-surprising-technology-123000079.html)
-- [Spartans Were Losers](https://foreignpolicy.com/2023/07/22/sparta-popular-culture-united-states-military-bad-history/)
+- [A Caltech Nobel laureate celebrates his 100th birthday, then gets back to work](https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work)
+- [Germany is no longer exceptional, and joining the European mainstream](https://www.theatlantic.com/international/archive/2023/07/germany-national-identity-afd-party-political-instability/674786/)
+- [Shopify employee breaks NDA to reveal firm replacing laid off workers with AI](https://thedeepdive.ca/shopify-employee-breaks-nda-to-reveal-firm-quietly-replacing-laid-off-workers-with-ai/)
 - [Resilience in Complex Systems &lpar;2021&rpar;](https://irhum.github.io/blog/resilientsystems/)
 - [I am dying of squamous cell carcinoma, and potential treatments are out of reach](https://jakeseliger.com/2023/07/22/i-am-dying-of-squamous-cell-carcinoma-and-the-treatments-that-might-save-me-are-just-out-of-reach/)
 <!-- BLOG-POST-LIST:END -->
