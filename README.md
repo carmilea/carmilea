@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amsterdam bans cruise ships to limit visitors and curb pollution](https://www.bbc.com/news/world-europe-66264226)
 - [Hops for beer flourish under solar panels](https://apnews.com/article/climate-beer-solar-panels-hops-germany-ee3d00a1877837eb85053335e3b68a00)
 - [Egregoria: 3D City Builder without a grid](https://github.com/Uriopass/Egregoria)
 - [Making the most of Apple Silicon power: 2 Core capabilities [2022]](https://eclecticlight.co/2022/10/05/making-the-most-of-apple-silicon-power-2-core-capabilities/)
 - [A Caltech Nobel laureate celebrates his 100th birthday, then gets back to work](https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work)
-- [Shopify employee breaks NDA to reveal firm replacing laid off workers with AI](https://thedeepdive.ca/shopify-employee-breaks-nda-to-reveal-firm-quietly-replacing-laid-off-workers-with-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
