@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Climate records tumble, leaving Earth in uncharted territory – scientists](https://www.bbc.com/news/science-environment-66229065)
+- [Octos – HTML live wallpaper engine](https://github.com/underpig1/octos)
+- [Plane – open-source Jira alternative](https://plane.so)
 - [Bun v0.7.0](https://bun.sh/blog/bun-v0.7.0)
 - [Putting the “You” in CPU](https://cpu.land/)
 - [Apple&#39;s interactive television box: Hacking the set top box System 7.1 in ROM](http://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
-- [ElKaWe – Electrocaloric heat pumps](https://www.fraunhofer.de/en/research/lighthouse-projects-fraunhofer-initiatives/fraunhofer-lighthouse-projects/elkawe.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
