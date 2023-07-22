@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook denies cookie tracking allegations &lpar;2011&rpar;](https://www.zdnet.com/article/facebook-denies-cookie-tracking-allegations/)
 - [Amazon is getting ready to launch a lot of broadband satellites](https://arstechnica.com/space/2023/07/amazon-is-getting-ready-to-launch-a-lot-of-broadband-satellites/)
 - [Using Prolog in Windows NT Network Configuration &lpar;1996&rpar;](https://web.archive.org/web/20030218034509/http://www.research.microsoft.com/research/dtg/davidhov/pap.htm)
-- [Hollywood is on strike because CEOs fell for Silicon Valley’s magical thinking](https://www.latimes.com/business/technology/story/2023-07-21/column-hollywood-sag-aftra-strike-strike-silicon-valleys-magical-thinking)
+- [To Save the Planet, Should We Be Moving Slower?](https://www.newyorker.com/news/daily-comment/to-save-the-planet-should-we-really-be-moving-slower)
 - [Computer chip with built-in human brain tissue gets military funding](https://newatlas.com/computers/human-brain-chip-ai/)
-- [Cooking Air Quality](https://www.jefftk.com/p/cooking-air-quality)
 <!-- BLOG-POST-LIST:END -->
 
 ---
