@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Compromised Microsoft Key: More Impactful Than We Thought](https://www.wiz.io/blog/storm-0558-compromised-microsoft-key-enables-authentication-of-countless-micr)
-- [GNU PSPP](https://www.gnu.org/software/pspp/)
-- [Internet Search Tips](https://gwern.net/search)
-- [Group arrested for selling former cryptomining graphics cards as brand-new](https://www.techspot.com/news/99488-chinese-group-arrested-selling-former-cryptomining-graphics-cards.html)
-- [FBI improperly used 702 surveillance powers on US senator](https://thehill.com/homenews/administration/4110850-fbi-improperly-used-702-surveillance-powers-on-us-senator/)
+- [Bun v0.7.0](https://bun.sh/blog/bun-v0.7.0)
+- [Putting the “You” in CPU](https://cpu.land/)
+- [Apple&#39;s Interactive Television Box: Hacking the Set Top Box System 7.1 in ROM](http://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
+- [Electrocaloric Heat Pumps](https://www.fraunhofer.de/en/research/lighthouse-projects-fraunhofer-initiatives/fraunhofer-lighthouse-projects/elkawe.html)
+- [Climate records tumble, leaving Earth in uncharted territory – scientists](https://www.bbc.co.uk/news/science-environment-66229065)
 <!-- BLOG-POST-LIST:END -->
 
 ---
