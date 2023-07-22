@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Compromised Microsoft Key: More Impactful Than We Thought](https://www.wiz.io/blog/storm-0558-compromised-microsoft-key-enables-authentication-of-countless-micr)
+- [GNU PSPP](https://www.gnu.org/software/pspp/)
 - [Internet Search Tips](https://gwern.net/search)
+- [Group arrested for selling former cryptomining graphics cards as brand-new](https://www.techspot.com/news/99488-chinese-group-arrested-selling-former-cryptomining-graphics-cards.html)
 - [FBI improperly used 702 surveillance powers on US senator](https://thehill.com/homenews/administration/4110850-fbi-improperly-used-702-surveillance-powers-on-us-senator/)
-- [Discovery: Metals can heal themselves](https://newsreleases.sandia.gov/healing_metals/)
-- [Facebook denies cookie tracking allegations &lpar;2011&rpar;](https://www.zdnet.com/article/facebook-denies-cookie-tracking-allegations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
