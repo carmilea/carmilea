@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Brief History of Computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
-- [Botulinum toxin: Bioweapon and magic drug](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/)
-- [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
-- [Redmine – open-source project management](https://www.redmine.org/)
-- [Neurotechnology: Current Developments and Ethical Issues](https://www.frontiersin.org/articles/10.3389/fnsys.2017.00093/full)
+- [Lab-grown cotton is on its way to consumers](https://www.forbes.com/sites/jeffkart/2023/07/08/lab-grown-cotton-enters-the-market-with-galy-suzuran-partnership/)
+- [Computational Complexity of Texture Encoding](https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/)
+- [A brief history of computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
+- [Botulinum toxin: Bioweapon and magic drug &lpar;2010&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/)
+- [More than you&#39;ve ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
