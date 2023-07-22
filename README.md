@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Octos – HTML live wallpaper engine](https://github.com/underpig1/octos)
 - [Plane – open-source Jira alternative](https://plane.so)
+- [Biotumen: Bitumen Reinvented](https://biofabrik.com/biotumen/)
 - [Bun v0.7.0](https://bun.sh/blog/bun-v0.7.0)
 - [Putting the “You” in CPU](https://cpu.land/)
-- [Apple&#39;s interactive television box: Hacking the set top box System 7.1 in ROM](http://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
