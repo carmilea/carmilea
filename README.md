@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Bun v0.7.0](https://bun.sh/blog/bun-v0.7.0)
 - [Putting the “You” in CPU](https://cpu.land/)
-- [Apple&#39;s Interactive Television Box: Hacking the Set Top Box System 7.1 in ROM](http://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
-- [Electrocaloric Heat Pumps](https://www.fraunhofer.de/en/research/lighthouse-projects-fraunhofer-initiatives/fraunhofer-lighthouse-projects/elkawe.html)
-- [Climate records tumble, leaving Earth in uncharted territory – scientists](https://www.bbc.co.uk/news/science-environment-66229065)
+- [Apple&#39;s interactive television box: Hacking the set top box System 7.1 in ROM](http://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
+- [ElKaWe – Electrocaloric heat pumps](https://www.fraunhofer.de/en/research/lighthouse-projects-fraunhofer-initiatives/fraunhofer-lighthouse-projects/elkawe.html)
+- [AWS Networking Concepts in a Diagram](https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
