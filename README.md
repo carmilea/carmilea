@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Resilience in Complex Systems &lpar;2021&rpar;](https://irhum.github.io/blog/resilientsystems/)
 - [I am dying of squamous cell carcinoma, and potential treatments are out of reach](https://jakeseliger.com/2023/07/22/i-am-dying-of-squamous-cell-carcinoma-and-the-treatments-that-might-save-me-are-just-out-of-reach/)
-- [Lab-grown cotton is on its way to consumers](https://www.forbes.com/sites/jeffkart/2023/07/08/lab-grown-cotton-enters-the-market-with-galy-suzuran-partnership/)
+- [Why Adaptive Rate Limiting Is a Game-Changer](https://blog.fluxninja.com/blog/why-adaptive-rate-limiting-is-a-game-changer)
+- [The Most Important Coding Habits](https://puppycoding.com/2023/07/22/healthy-coding-habits/)
 - [Computational Complexity of Texture Encoding](https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/)
-- [A brief history of computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
-- [Botulinum toxin: Bioweapon and magic drug &lpar;2010&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
