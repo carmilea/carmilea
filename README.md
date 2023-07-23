@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Training My Replacement’: Inside a Call Center Worker’s Battle with A.I](https://www.nytimes.com/2023/07/19/business/call-center-workers-battle-with-ai.html)
-- [The Great 440 Hz Conspiracy, and Why All of Our Music Is Wrong](https://globalnews.ca/news/4194106/440-hz-conspiracy-music/)
-- [MOVEit body count closes in on 400 orgs, 20M+ individuals](https://www.theregister.com/2023/07/20/moveit_victim_count/)
-- [Remote Work to Wipe Out $800B from Office Values, McKinsey Says](https://www.bnnbloomberg.ca/remote-work-to-wipe-out-800-billion-from-office-values-mckinsey-says-1.1944967)
-- [Ask HN: Are waitlist launches a no go on Hacker News?](https://news.ycombinator.com/item?id=36835054)
+- [Government URLs that don&#39;t end in .gov](https://github.com/GSA/govt-urls)
+- [Show HN: I made a MailChimp alternative that connects to your database](https://cc.dev)
+- [LeCun: Qualcomm working with Meta to run Llama-2 on mobile devices](https://twitter.com/ylecun/status/1683138295155372032)
+- [Drugmakers Are ‘Throwing the Kitchen Sink’ to Halt Medicare Price Negotiations](https://www.nytimes.com/2023/07/23/us/politics/medicare-drug-price-negotiations-lawsuits.html)
+- [Interfaces All the Way Down](https://jjain.substack.com/p/interfaces-all-the-way-down)
 <!-- BLOG-POST-LIST:END -->
 
 ---
