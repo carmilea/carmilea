@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Which distro do you use? &lpar;2023&rpar;](https://news.ycombinator.com/item?id=36838712)
+- [PLJS – JavaScript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
+- [OpenBSD: AMD processor microcode support added to -current](https://undeadly.org/cgi?action=article;sid=20230723185853)
 - [Llama2.c: inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
 - [Queen guitarist and astrophysicist Brian May to release 3D atlas of asteroid](https://www.theguardian.com/science/2023/jul/23/queen-brian-may-3d-atlas-bennu-asteroid)
 - [Why Host Datacenter in Kosovo?](https://basehost.eu/)
-- [Show HN: High school transcript generator for homeschoolers](https://www.greatbookshomeschool.com/free-high-school-transcript-generator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
