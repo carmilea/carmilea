@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Man Found Guilty of Child Porn, Because He Ran a Tor Exit Node](https://lowendbox.com/blog/man-found-guilty-of-child-porn-because-he-ran-a-tor-exit-node-the-story-of-william-weber/)
+- [MIT SICP Book in JavaScript](https://sourceacademy.org/sicpjs/)
 - [Government URLs that don&#39;t end in .gov](https://github.com/GSA/govt-urls)
+- [Why don&#39;t we get our drinking water from the ocean by taking salt out seawater?](https://www.scientificamerican.com/article/why-dont-we-get-our-drinking-water-from-the-ocean/)
 - [Show HN: I made a MailChimp alternative that connects to your database](https://cc.dev)
-- [LeCun: Qualcomm working with Meta to run Llama-2 on mobile devices](https://twitter.com/ylecun/status/1683138295155372032)
-- [Drugmakers Are ‘Throwing the Kitchen Sink’ to Halt Medicare Price Negotiations](https://www.nytimes.com/2023/07/23/us/politics/medicare-drug-price-negotiations-lawsuits.html)
-- [Interfaces All the Way Down](https://jjain.substack.com/p/interfaces-all-the-way-down)
 <!-- BLOG-POST-LIST:END -->
 
 ---
