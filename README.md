@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Man Found Guilty of Child Porn, Because He Ran a Tor Exit Node](https://lowendbox.com/blog/man-found-guilty-of-child-porn-because-he-ran-a-tor-exit-node-the-story-of-william-weber/)
-- [MIT SICP Book in JavaScript](https://sourceacademy.org/sicpjs/)
-- [Government URLs that don&#39;t end in .gov](https://github.com/GSA/govt-urls)
-- [Why don&#39;t we get our drinking water from the ocean by taking salt out seawater?](https://www.scientificamerican.com/article/why-dont-we-get-our-drinking-water-from-the-ocean/)
-- [Show HN: I made a MailChimp alternative that connects to your database](https://cc.dev)
+- [Queen guitarist and astrophysicist Brian May to release 3D atlas of asteroid](https://www.theguardian.com/science/2023/jul/23/queen-brian-may-3d-atlas-bennu-asteroid)
+- [Why Host Datacenter in Kosovo?](https://basehost.eu/)
+- [Want fewer car accidents? Remove traffic signals and road signs &lpar;2017&rpar;](https://bigthink.com/the-present/want-less-car-accidents-get-rid-of-traffic-signals-road-signs/)
+- [Google Nest Mini Gutted and Rebuilt to Run Custom Agents](https://hackaday.com/2023/07/23/google-nest-mini-gutted-and-rebuilt-to-run-custom-agents/)
+- [Man found guilty of child porn because he ran a Tor exit node](https://lowendbox.com/blog/man-found-guilty-of-child-porn-because-he-ran-a-tor-exit-node-the-story-of-william-weber/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
