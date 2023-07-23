@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [EasyGraph: A Comprehensive Tool for Graph Analysis and Social Computing](https://github.com/easy-graph/Easy-Graph)
 - [Stable Diffusion and ControlNet: “Hidden” Text &lpar;see thumbnail vs. full image&rpar;](https://old.reddit.com/r/StableDiffusion/comments/1561k15/free_tool_to_generate_hidden_text_using_stable/)
-- [Researchers Say They Found IP Addresses for ‘Anonymous’ Econ Forum Posts](https://www.insidehighered.com/news/faculty-issues/diversity-equity/2023/07/20/study-says-it-found-ip-addresses-anonymous-ejmr)
 - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
-- [Jaron Lanier – What My Musical Instruments Have Taught Me](https://www.newyorker.com/culture/the-weekend-essay/what-my-musical-instruments-have-taught-me)
+- [What my musical instruments have taught me](https://www.newyorker.com/culture/the-weekend-essay/what-my-musical-instruments-have-taught-me)
+- [CoQ4 is a functional substitute for CoQ10 and can be targeted to mitochondria](https://www.biorxiv.org/content/10.1101/2023.07.20.549963v2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
