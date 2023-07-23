@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Training My Replacement’: Inside a Call Center Worker’s Battle with A.I](https://www.nytimes.com/2023/07/19/business/call-center-workers-battle-with-ai.html)
+- [The Great 440 Hz Conspiracy, and Why All of Our Music Is Wrong](https://globalnews.ca/news/4194106/440-hz-conspiracy-music/)
+- [MOVEit body count closes in on 400 orgs, 20M+ individuals](https://www.theregister.com/2023/07/20/moveit_victim_count/)
 - [Remote Work to Wipe Out $800B from Office Values, McKinsey Says](https://www.bnnbloomberg.ca/remote-work-to-wipe-out-800-billion-from-office-values-mckinsey-says-1.1944967)
-- [The Bear Market Has Nearly Been Erased, Fewer Than 20 Months After It Began](https://finance.yahoo.com/news/bear-market-nearly-erased-fewer-201732187.html)
-- [Show HN: I made a customizable iOS browser for minimalists and myself](https://apps.apple.com/us/app/quiche-browser/id1668363952)
-- [Valgrind recieves a development microgrant from FUTO](https://fosstodon.org/@sourceware/110760408112704937)
-- [Johannesburg: Video captures moment suspected gas explosion threw buses into air](https://twitter.com/CBSNews/status/1682238972712370176)
+- [Ask HN: Are waitlist launches a no go on Hacker News?](https://news.ycombinator.com/item?id=36835054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
