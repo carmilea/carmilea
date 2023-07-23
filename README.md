@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [STX – C++17 and C++ 20 error-handling and utility extensions](https://lamarrr.github.io/STX/)
-- [TokenFlow: Consistent Diffusion Features for Consistent Video Editing](https://diffusion-tokenflow.github.io/)
-- [How does iCloud work? Plus a new version of Cirrus](https://eclecticlight.co/2023/07/17/how-does-icloud-work-plus-a-new-version-of-cirrus/)
-- [Visiting Death](https://www.overcomingbias.com/p/visiting-death)
-- [Hops for beer flourish under solar panels](https://apnews.com/article/climate-beer-solar-panels-hops-germany-ee3d00a1877837eb85053335e3b68a00)
+- [CoQ4 is a functional substitute for CoQ10 and can be targeted to mitochondria](https://www.biorxiv.org/content/10.1101/2023.07.20.549963v2)
+- [AOL pulls Nullsoft file-sharing software WASTE &lpar;2003&rpar;](https://web.archive.org/web/20030810194502/http://news.com.com/2100-1032_3-1011585.html)
+- [Why SQLite Does Not Use Git](https://www.sqlite.org/draft/matrix/whynotgit.html)
+- [Reinventing the E.R. for America’s mental-health crisis](https://www.newyorker.com/science/annals-of-medicine/reinventing-the-er-for-americas-mental-health-crisis)
+- [Were small-brained early humans intelligent? Row erupts over scientists’ claim](https://www.theguardian.com/science/2023/jul/22/small-brained-early-humans-homo-naledi-cleverer-storm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
