@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Bear Market Has Nearly Been Erased, Fewer Than 20 Months After It Began](https://finance.yahoo.com/news/bear-market-nearly-erased-fewer-201732187.html)
+- [In Phoenix, this is life at 113 degrees for more than 20 days](https://english.elpais.com/international/2023-07-22/in-phoenix-45-million-residents-are-living-in-hell-this-is-life-at-113-degrees-for-more-than-20-days.html)
+- [Valgrind recieves a development microgrant from FUTO](https://fosstodon.org/@sourceware/110760408112704937)
+- [A Romanian economist legally gamed the lottery and won millions of dollars](https://thehustle.co/the-man-who-won-the-lottery-14-times/)
 - [Down and Out in the Magic Kingdom &lpar;2003&rpar;](https://www.gutenberg.org/files/8086/8086-h/8086-h.htm)
-- [Deutsche Bank&#39;s “dysfunctional” IT division &lpar;2018&rpar;](https://www.efinancialcareers.co.uk/news/2018/04/technology-at-deutsche-bank)
-- [Scientists hit with massive bills after speaking at COVID-19 ‘webinars’](https://www.science.org/content/article/costly-invite-scientists-hit-with-massive-bills-after-speaking-at-covid-19-conferences)
-- [50 Years of Text Games parses the rich history of a foundational genre](https://arstechnica.com/gaming/2023/06/50-years-of-text-games-parses-the-rich-history-of-a-foundational-genre/)
-- [What every IT person needs to know about OpenBSD &lpar;2021&rpar;](https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
