@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why South Africa Is on the Brink of Chaos](https://www.bloomberg.com/news/features/2023-07-20/south-africa-s-private-sector-is-key-to-stopping-the-failed-state-cycle)
+- [Llama2.c: inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
 - [Queen guitarist and astrophysicist Brian May to release 3D atlas of asteroid](https://www.theguardian.com/science/2023/jul/23/queen-brian-may-3d-atlas-bennu-asteroid)
 - [Why Host Datacenter in Kosovo?](https://basehost.eu/)
-- [Want fewer car accidents? Remove traffic signals and road signs &lpar;2017&rpar;](https://bigthink.com/the-present/want-less-car-accidents-get-rid-of-traffic-signals-road-signs/)
-- [Google Nest Mini Gutted and Rebuilt to Run Custom Agents](https://hackaday.com/2023/07/23/google-nest-mini-gutted-and-rebuilt-to-run-custom-agents/)
-- [Man found guilty of child porn because he ran a Tor exit node](https://lowendbox.com/blog/man-found-guilty-of-child-porn-because-he-ran-a-tor-exit-node-the-story-of-william-weber/)
+- [Show HN: High school transcript generator for homeschoolers](https://www.greatbookshomeschool.com/free-high-school-transcript-generator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
