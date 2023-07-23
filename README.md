@@ -54,7 +54,7 @@
 - [Jaron Lanier – What My Musical Instruments Have Taught Me](https://www.newyorker.com/culture/the-weekend-essay/what-my-musical-instruments-have-taught-me)
 - [CoQ4 is a functional substitute for CoQ10 and can be targeted to mitochondria](https://www.biorxiv.org/content/10.1101/2023.07.20.549963v2)
 - [AOL pulls Nullsoft file-sharing software WASTE &lpar;2003&rpar;](https://web.archive.org/web/20030810194502/http://news.com.com/2100-1032_3-1011585.html)
-- [Why SQLite Does Not Use Git](https://www.sqlite.org/draft/matrix/whynotgit.html)
+- [Why SQLite does not use Git &lpar;2018&rpar;](https://www.sqlite.org/draft/matrix/whynotgit.html)
 - [Reinventing the E.R. for America’s mental-health crisis](https://www.newyorker.com/science/annals-of-medicine/reinventing-the-er-for-americas-mental-health-crisis)
 <!-- BLOG-POST-LIST:END -->
 
