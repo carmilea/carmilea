@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why South Africa Is on the Brink of Chaos](https://www.bloomberg.com/news/features/2023-07-20/south-africa-s-private-sector-is-key-to-stopping-the-failed-state-cycle)
+- [Ask HN: Which distro do you use? &lpar;2023&rpar;](https://news.ycombinator.com/item?id=36838712)
 - [Llama2.c: inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
 - [Queen guitarist and astrophysicist Brian May to release 3D atlas of asteroid](https://www.theguardian.com/science/2023/jul/23/queen-brian-may-3d-atlas-bennu-asteroid)
 - [Why Host Datacenter in Kosovo?](https://basehost.eu/)
