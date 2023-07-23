@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In Which I Claim Rich Hickey Is Wrong &lpar;2020&rpar;](https://blog.jonstodle.com/in-which-i-claim-rich-hickey-is-wrong/)
+- [All Foster Kids in California Can Now Attend Any State College for Free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)
+- [Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
 - [PLJS – JavaScript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
 - [OpenBSD: AMD processor microcode support added to -current](https://undeadly.org/cgi?action=article;sid=20230723185853)
-- [Llama2.c: inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
-- [Queen guitarist and astrophysicist Brian May to release 3D atlas of asteroid](https://www.theguardian.com/science/2023/jul/23/queen-brian-may-3d-atlas-bennu-asteroid)
-- [Why Host Datacenter in Kosovo?](https://basehost.eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
