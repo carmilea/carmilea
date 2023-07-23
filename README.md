@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Transformers: The Google scientists who pioneered an AI revolution](https://www.ft.com/content/37bb01af-ee46-4483-982f-ef3921436a50)
+- [South Pole Signage](https://brr.fyi/posts/south-pole-signage)
+- [A History of Neural Networks](https://royalsocietypublishing.org/doi/10.1098/rsos.221454)
+- [Whoopsie I don&#39;t think this bit was for applicants&#39; eyes](https://old.reddit.com/r/recruitinghell/comments/156ygje/whoopsie_i_dont_think_this_bit_was_for_applicants/)
 - [EasyGraph: A Comprehensive Tool for Graph Analysis and Social Computing](https://github.com/easy-graph/Easy-Graph)
 - [Stable Diffusion and ControlNet: “Hidden” Text &lpar;see thumbnail vs. full image&rpar;](https://old.reddit.com/r/StableDiffusion/comments/1561k15/free_tool_to_generate_hidden_text_using_stable/)
-- [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
-- [Simple Sabotage Field Manual – How to Destroy Your Organizations](https://butwhatfor.beehiiv.com/p/simple-sabotage-field-manual-destroy-organizations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
