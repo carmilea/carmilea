@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remote Work to Wipe Out $800B from Office Values, McKinsey Says](https://www.bnnbloomberg.ca/remote-work-to-wipe-out-800-billion-from-office-values-mckinsey-says-1.1944967)
 - [The Bear Market Has Nearly Been Erased, Fewer Than 20 Months After It Began](https://finance.yahoo.com/news/bear-market-nearly-erased-fewer-201732187.html)
-- [In Phoenix, this is life at 113 degrees for more than 20 days](https://english.elpais.com/international/2023-07-22/in-phoenix-45-million-residents-are-living-in-hell-this-is-life-at-113-degrees-for-more-than-20-days.html)
+- [Show HN: I made a customizable iOS browser for minimalists and myself](https://apps.apple.com/us/app/quiche-browser/id1668363952)
 - [Valgrind recieves a development microgrant from FUTO](https://fosstodon.org/@sourceware/110760408112704937)
-- [A Romanian economist legally gamed the lottery and won millions of dollars](https://thehustle.co/the-man-who-won-the-lottery-14-times/)
-- [Down and Out in the Magic Kingdom &lpar;2003&rpar;](https://www.gutenberg.org/files/8086/8086-h/8086-h.htm)
+- [Johannesburg: Video captures moment suspected gas explosion threw buses into air](https://twitter.com/CBSNews/status/1682238972712370176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
