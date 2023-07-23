@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Down and Out in the Magic Kingdom](https://www.gutenberg.org/files/8086/8086-h/8086-h.htm)
+- [Deutsche Bank&#39;s “dysfunctional” IT division &lpar;2018&rpar;](https://www.efinancialcareers.co.uk/news/2018/04/technology-at-deutsche-bank)
 - [With the 745-Mile Solid-State Battery, Toyota Just Became a Force to Reckon With](https://www.topspeed.com/toyota-745-mile-solid-state-battery/)
 - [50 Years of Text Games parses the rich history of a foundational genre](https://arstechnica.com/gaming/2023/06/50-years-of-text-games-parses-the-rich-history-of-a-foundational-genre/)
-- [Show HN: Scaffolder, CLI tool to generate project structure, taken from YAML](https://github.com/cemister/scaffolder)
-- [South Pole Signage](https://brr.fyi/posts/south-pole-signage)
-- [I found a IT jobs thanks to this blog, what I’m doing](https://giuliomagnifico.blog/misc/2023/07/22/I-found-a-IT-job-thanks-to-this-blog.html)
+- [What every IT person needs to know about OpenBSD](https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
