@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [50 Years of Text Games parses the rich history of a foundational genre](https://arstechnica.com/gaming/2023/06/50-years-of-text-games-parses-the-rich-history-of-a-foundational-genre/)
+- [Show HN: Scaffolder, CLI tool to generate project structure, taken from YAML](https://github.com/cemister/scaffolder)
 - [South Pole Signage](https://brr.fyi/posts/south-pole-signage)
 - [A History of Neural Networks](https://royalsocietypublishing.org/doi/10.1098/rsos.221454)
-- [Whoopsie I don&#39;t think this bit was for applicants&#39; eyes](https://old.reddit.com/r/recruitinghell/comments/156ygje/whoopsie_i_dont_think_this_bit_was_for_applicants/)
 - [EasyGraph: A Comprehensive Tool for Graph Analysis and Social Computing](https://github.com/easy-graph/Easy-Graph)
-- [Stable Diffusion and ControlNet: “Hidden” Text &lpar;see thumbnail vs. full image&rpar;](https://old.reddit.com/r/StableDiffusion/comments/1561k15/free_tool_to_generate_hidden_text_using_stable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
