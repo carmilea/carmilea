@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Frames Tilt Forward &lpar;2015&rpar;](https://chcollins.com/100Billion/2015/02/why-frames-tilt-forward/)
 - [In Which I Claim Rich Hickey Is Wrong &lpar;2020&rpar;](https://blog.jonstodle.com/in-which-i-claim-rich-hickey-is-wrong/)
 - [All Foster Kids in California Can Now Attend Any State College for Free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)
 - [Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
 - [PLJS – JavaScript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
-- [OpenBSD: AMD processor microcode support added to -current](https://undeadly.org/cgi?action=article;sid=20230723185853)
 <!-- BLOG-POST-LIST:END -->
 
 ---
