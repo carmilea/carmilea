@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bringing code analysis tools to Jupyter notebooks](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks)
 - [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
+- [Google’s nightmare “Web Integrity API” wants a DRM gatekeeper for the web](https://arstechnica.com/gadgets/2023/07/googles-web-integrity-api-sounds-like-drm-for-the-web/)
 - [People in 1920s Berlin Nightclubs Flirted via Pneumatic Tubes](https://www.atlasobscura.com/articles/pneumatic-tube-table-phone-flirting-berlin)
-- [Wind and Solar Will Be 25% of Total U.S. Generating Capacity Within Three Years](https://electricenergyonline.com/article/energy/category/climate-change/82/1033617/wind-solar-will-be-25-of-total-u-s-generating-capacity-within-three-years-as-they-grow-by-over-100-gw-.html)
-- [Time, Clocks, and the Ordering of Events in a Distributed System – Paper Review](https://percisely.xyz/syncronicity)
-- [Electric Y Combinator – Electric Clojure](https://dustingetz.electricfiddle.net/electric-fiddle.essay!Essay/electric-y-combinator)
+- [Intel AVX10: The Successor to AVX-512](https://www.phoronix.com/news/Intel-AVX10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
