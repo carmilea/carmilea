@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
+- [Atari Has Launched Collectible Arcade Circuit Boards of Retro Classics](https://retrododo.com/atari-collectible-arcade-circuit-boards/)
 - [Show HN: I built a transit travel time map](https://map.henryn.xyz)
-- [The Mathematical Universe Hypothesis](https://arxiv.org/abs/0704.0646)
 - [Reviving an IBM RS/6000 Workstation](https://twitter.com/tubetimeus/status/1671654843138854912)
 - [Launch HN: Artie &lpar;YC S23&rpar; – Real time data replication to data warehouses](https://news.ycombinator.com/item?id=36847569)
-- [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
