@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
-- [Atari Has Launched Collectible Arcade Circuit Boards of Retro Classics](https://retrododo.com/atari-collectible-arcade-circuit-boards/)
-- [Show HN: I built a transit travel time map](https://map.henryn.xyz)
-- [Reviving an IBM RS/6000 Workstation](https://twitter.com/tubetimeus/status/1671654843138854912)
-- [Launch HN: Artie &lpar;YC S23&rpar; – Real time data replication to data warehouses](https://news.ycombinator.com/item?id=36847569)
+- [X, the moonshot factory](https://x.company/)
+- [You Don&#39;t Know Jack about Application Performance](https://queue.acm.org/detail.cfm?id=3595862)
+- [Publishers want billions, not millions, from AI](https://www.semafor.com/article/07/23/2023/publishers-want-billions-not-millions-from-ai)
+- [TikTok is adding text posts](https://www.theverge.com/2023/7/24/23805530/tiktok-text-posts-micro-blogging-twitter-threads)
+- [Wasm_of_OCaml](https://github.com/ocaml-wasm/wasm_of_ocaml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
