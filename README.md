@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elixir Is &lpar;Still&rpar; Safe](https://paraxial.io/blog/still-safe)
+- [Text Embeddings Reveal &lpar;Almost&rpar; as Much as Text](https://openreview.net/forum?id=wK7wUdiM5g0)
 - [Have Attention Spans Been Declining? – Yes, 65%](https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/)
 - [Apple Vision Pro developer kit](https://developer.apple.com/visionos/developer-kit/)
 - [Meta-Transformers: Transformers Are Becoming Multi-Modal](https://kxgong.github.io/meta_transformer/)
-- [Transformer Attention is off by one](https://www.evanmiller.org/attention-is-off-by-one.html)
-- [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Senior Front End Engineer](https://www.workatastartup.com/jobs/61922/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
