@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Frames Tilt Forward &lpar;2015&rpar;](https://chcollins.com/100Billion/2015/02/why-frames-tilt-forward/)
-- [In Which I Claim Rich Hickey Is Wrong &lpar;2020&rpar;](https://blog.jonstodle.com/in-which-i-claim-rich-hickey-is-wrong/)
-- [All Foster Kids in California Can Now Attend Any State College for Free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)
-- [Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
-- [PLJS – JavaScript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
+- [Court strikes down limits on filming of police in Arizona](https://apnews.com/article/arizona-cant-limit-filming-of-police-a7a7ad0fe5b421d416ec3477d0795707)
+- [Welcome Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
+- [American universities have an incentive to seem extortionate](https://www.economist.com/united-states/2023/07/23/american-universities-have-an-incentive-to-seem-extortionate)
+- [U.S. Senate bill crafted with DEA targets end-to-end encryption](https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs)
+- [VirtualBox 7.0.10 download links have disappeared](https://web.archive.org/web/20230723100307/https://www.virtualbox.org/wiki/Downloads)
 <!-- BLOG-POST-LIST:END -->
 
 ---
