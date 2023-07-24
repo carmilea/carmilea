@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Have Attention Spans Been Declining? – Yes, 65%](https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/)
+- [Apple Vision Pro developer kit](https://developer.apple.com/visionos/developer-kit/)
+- [Meta-Transformers: Transformers Are Becoming Multi-Modal](https://kxgong.github.io/meta_transformer/)
+- [Transformer Attention is off by one](https://www.evanmiller.org/attention-is-off-by-one.html)
 - [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Senior Front End Engineer](https://www.workatastartup.com/jobs/61922/)
-- [AI researcher Geoffrey Hinton thinks AI has or will have emotions](https://the-decoder.com/ai-researcher-geoffrey-hinton-thinks-ai-has-or-will-have-emotions/)
-- [X, the moonshot factory](https://x.company/)
-- [You Don&#39;t Know Jack about Application Performance](https://queue.acm.org/detail.cfm?id=3595862)
-- [TikTok is adding text posts](https://www.theverge.com/2023/7/24/23805530/tiktok-text-posts-micro-blogging-twitter-threads)
 <!-- BLOG-POST-LIST:END -->
 
 ---
