@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The “Three Things” Exercise for getting things out of talks](https://math.stanford.edu/~vakil/threethings.html)
+- [The “three things” exercise for getting things out of talks &lpar;2011&rpar;](https://math.stanford.edu/~vakil/threethings.html)
 - [Show HN: My Pen Plotting Journey](https://adamfuhrer.com/pen-plotting-experiments)
 - [Court strikes down limits on filming of police in Arizona](https://apnews.com/article/arizona-cant-limit-filming-of-police-a7a7ad0fe5b421d416ec3477d0795707)
-- [Welcome Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
+- [Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
 - [U.S. Senate bill crafted with DEA targets end-to-end encryption](https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs)
 <!-- BLOG-POST-LIST:END -->
 
