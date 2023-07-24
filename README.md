@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elixir Is &lpar;Still&rpar; Safe](https://paraxial.io/blog/still-safe)
-- [Text Embeddings Reveal &lpar;Almost&rpar; as Much as Text](https://openreview.net/forum?id=wK7wUdiM5g0)
-- [Have Attention Spans Been Declining? – Yes, 65%](https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/)
-- [Apple Vision Pro developer kit](https://developer.apple.com/visionos/developer-kit/)
-- [Meta-Transformers: Transformers Are Becoming Multi-Modal](https://kxgong.github.io/meta_transformer/)
+- [Time, Clocks, and the Ordering of Events in a Distributed System – Paper Review](https://percisely.xyz/syncronicity)
+- [Show HN: Browser extension replacing the X with the original Twitter logo](https://github.com/emvi/xbegone)
+- [Intel Advanced Performance Extensions &lpar;Intel APX&rpar;](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
+- [A simple guide to fine-tuning Llama 2](https://brev.dev/blog/fine-tuning-llama-2)
+- [Scientists invent double-sided solar panel that generates way more electricity](https://www.independent.co.uk/tech/solar-panel-perovskite-double-sided-b2378337.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
