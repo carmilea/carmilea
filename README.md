@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
+- [People in 1920s Berlin Nightclubs Flirted via Pneumatic Tubes](https://www.atlasobscura.com/articles/pneumatic-tube-table-phone-flirting-berlin)
+- [Wind and Solar Will Be 25% of Total U.S. Generating Capacity Within Three Years](https://electricenergyonline.com/article/energy/category/climate-change/82/1033617/wind-solar-will-be-25-of-total-u-s-generating-capacity-within-three-years-as-they-grow-by-over-100-gw-.html)
 - [Time, Clocks, and the Ordering of Events in a Distributed System – Paper Review](https://percisely.xyz/syncronicity)
-- [Show HN: Browser extension replacing the X with the original Twitter logo](https://github.com/emvi/xbegone)
-- [Intel Advanced Performance Extensions &lpar;Intel APX&rpar;](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
-- [A simple guide to fine-tuning Llama 2](https://brev.dev/blog/fine-tuning-llama-2)
-- [Scientists invent double-sided solar panel that generates way more electricity](https://www.independent.co.uk/tech/solar-panel-perovskite-double-sided-b2378337.html)
+- [Electric Y Combinator – Electric Clojure](https://dustingetz.electricfiddle.net/electric-fiddle.essay!Essay/electric-y-combinator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
