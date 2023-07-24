@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter unveils X logo to replace blue bird](https://www.bbc.com/news/business-66284304)
 - [Ask HN: Looking for a Firefox compatible extension for voice controlled actions](https://news.ycombinator.com/item?id=36844415)
 - [Inkscape 1.3](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
 - [Ubisoft account -including games- can be permanently deleted for inactivity](https://www.pcgamer.com/your-ubisoft-account-can-be-suspended-and-subsequently-permanently-deleted-for-inactivity-taking-your-games-library-with-it/)
 - [Bruce Lee and Me](https://kareem.substack.com/p/bruce-lee-and-me)
-- [Optimism, Hubris, and Strategic Misrepresentation](https://albertcory50.substack.com/p/optimism-hubris-and-strategic-misrepresentation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
