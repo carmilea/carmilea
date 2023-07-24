@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Changing the Android captive portal page &lpar;2020&rpar;](https://www.encrypted.at/android-captive-portal/)
-- [Driver.js: Product tours, highlights, contextual help and more](https://driverjs.com/)
-- [The IBM mainframe: How it runs and why it survives](https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/)
-- [Unicode Character “𝕏” &lpar;U+1D54F&rpar;](https://www.compart.com/en/unicode/U+1D54F)
-- [Twitter has officially changed its logo to ‘X’](https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/)
+- [Show HN: I built a transit travel time map](https://map.henryn.xyz)
+- [The Mathematical Universe Hypothesis](https://arxiv.org/abs/0704.0646)
+- [Reviving an IBM RS/6000 Workstation](https://twitter.com/tubetimeus/status/1671654843138854912)
+- [Launch HN: Artie &lpar;YC S23&rpar; – Real time data replication to data warehouses](https://news.ycombinator.com/item?id=36847569)
+- [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
