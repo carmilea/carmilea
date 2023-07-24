@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Senior Front End Engineer](https://www.workatastartup.com/jobs/61922/)
+- [AI researcher Geoffrey Hinton thinks AI has or will have emotions](https://the-decoder.com/ai-researcher-geoffrey-hinton-thinks-ai-has-or-will-have-emotions/)
 - [X, the moonshot factory](https://x.company/)
 - [You Don&#39;t Know Jack about Application Performance](https://queue.acm.org/detail.cfm?id=3595862)
-- [Publishers want billions, not millions, from AI](https://www.semafor.com/article/07/23/2023/publishers-want-billions-not-millions-from-ai)
 - [TikTok is adding text posts](https://www.theverge.com/2023/7/24/23805530/tiktok-text-posts-micro-blogging-twitter-threads)
-- [Wasm_of_OCaml](https://github.com/ocaml-wasm/wasm_of_ocaml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
