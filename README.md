@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubisoft account -including games- can be permanently deleted for inactivity](https://www.pcgamer.com/your-ubisoft-account-can-be-suspended-and-subsequently-permanently-deleted-for-inactivity-taking-your-games-library-with-it/)
+- [Optimism, Hubris, and Strategic Misrepresentation](https://albertcory50.substack.com/p/optimism-hubris-and-strategic-misrepresentation)
+- [History vs. Hollywood: Oppenheimer](https://www.historyvshollywood.com/reelfaces/oppenheimer/)
+- [HP 45 &lpar;and 35 and 80&rpar; Calculator Emulator](https://sarahkmarr.com/retrohp1973.html)
 - [The “three things” exercise for getting things out of talks &lpar;2011&rpar;](https://math.stanford.edu/~vakil/threethings.html)
-- [Show HN: My Pen Plotting Journey](https://adamfuhrer.com/pen-plotting-experiments)
-- [Court strikes down limits on filming of police in Arizona](https://apnews.com/article/arizona-cant-limit-filming-of-police-a7a7ad0fe5b421d416ec3477d0795707)
-- [Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
-- [U.S. Senate bill crafted with DEA targets end-to-end encryption](https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
