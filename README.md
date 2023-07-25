@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Owns the Trademark for “X”](https://tsdr.uspto.gov/#caseNumber=2693757&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch)
-- [Theo de Raadt on Zenbleed](https://undeadly.org/cgi?action=article;sid=20230724224011)
-- [Cephalopods use RNA editing to modify their nervous sytems](https://pubmed.ncbi.nlm.nih.gov/28388405/)
-- [Bringing code analysis tools to Jupyter notebooks](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks)
-- [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
+- [Twitter’s Rebrand to X Could Be a Trademark Nightmare Thanks to Microsoft](https://themessenger.com/tech/twitters-rebrand-to-x-could-be-a-trademark-nightmare-thanks-to-microsoft)
+- [Per capita CO₂ emissions Over Time](https://ourworldindata.org/grapher/co-emissions-per-capita)
+- [Byron Bay data breach victim told to pay Adidas, NBA $1.2M by US courts](https://www.abc.net.au/news/2023-07-25/byron-bay-data-breach-victim-adidas-nab-us-court-action-damages/102575726)
+- [Vscode.dev: Local Development with Cloud Tools](https://vscode.dev/)
+- [The Fall of Stack Overflow](https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
