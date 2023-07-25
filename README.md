@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Safari 17 Link Tracking Protection](https://mjtsai.com/blog/2023/06/19/safari-17-link-tracking-protection/)
-- [Amazon will force a &#39;voluntary resignation&#39; on employees](https://www.businessinsider.com/amazon-voluntary-resignation-employees-relocate-rto-2023-7)
-- [Life on Earth didn’t arise as described in textbooks](https://science.ku.dk/english/press/news/2023/life-on-earth-didnt-arise-as-described-in-textbooks/)
-- [What We Know About LLMs](https://willthompson.name/what-we-know-about-llms-primer)
-- [Show HN: Invoice Dragon – An open source app to create PDF invoices](https://invoicedragon.com/)
+- [Goodbye, waitlist. Hello, Arc 1.0](https://twitter.com/browsercompany/status/1683839541399154689)
+- [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
+- [The burden of Long Covid “so large as to be unfathomable”](https://www.rnz.co.nz/national/programmes/saturday/audio/2018899512/prof-danny-altmann-the-burden-of-long-covid)
+- [OpenAI Quietly Shuts Down Its AI Detection Tool](https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool)
+- [Ask HN: What is the best thing you learnt or got out of Hacker News?](https://news.ycombinator.com/item?id=36862585)
 <!-- BLOG-POST-LIST:END -->
 
 ---
