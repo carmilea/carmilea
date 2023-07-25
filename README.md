@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What We Know About LLMs &lpar;A Primer&rpar;](https://willthompson.name/what-we-know-about-llms-primer)
+- [Show HN: Invoice Dragon – An Open Source App to Create PDF Invoices for Free](https://invoicedragon.com/)
 - [Textual Paint – MS Paint in your terminal](https://github.com/1j01/textual-paint)
 - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
 - [I&#39;ve skimmed 66520 newsgroups trying to find some life on the Usenet &lpar;2020&rpar;](https://mastodon.sdf.org/@cfenollosa/103469996345323076)
-- [The 1990s Amiga with Video Toaster has a VFX cool factor that endures today](https://cdm.link/2023/07/amiga-video-toaster-cool-factor/)
-- [Parents, environmentalists to Google: stop Chromebooks from expiring this summer](https://pirg.org/edfund/resources/chromebook-expiration-full-letter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
