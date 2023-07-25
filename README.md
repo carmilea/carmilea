@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The 1990s Amiga with Video Toaster has a VFX cool factor that endures today](https://cdm.link/2023/07/amiga-video-toaster-cool-factor/)
+- [Contributor to Google&#39;s WEI repo: So, you don&#39;t like a web platform proposal](https://blog.yoav.ws/posts/web_platform_change_you_do_not_like/)
 - [Parents, environmentalists to Google: stop Chromebooks from expiring this summer](https://pirg.org/edfund/resources/chromebook-expiration-full-letter/)
 - [Got called to a professor’s office after a complaint his Sparc4 was running slow](https://infosec.exchange/@paco/110772422266480371)
 - [Mozilla Standards Positions Opposes Web Integrity API](https://github.com/mozilla/standards-positions/issues/852)
-- [Researchers find evidence of a 2000 year old curry, oldest ever found in SE Asia](https://phys.org/news/2023-07-evidence-year-old-curry-oldest-southeast.html)
-- [Twitter’s Rebrand to X Could Be a Trademark Nightmare Thanks to Microsoft](https://themessenger.com/tech/twitters-rebrand-to-x-could-be-a-trademark-nightmare-thanks-to-microsoft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
