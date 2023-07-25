@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye, waitlist. Hello, Arc 1.0](https://twitter.com/browsercompany/status/1683839541399154689)
-- [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
-- [The burden of Long Covid “so large as to be unfathomable”](https://www.rnz.co.nz/national/programmes/saturday/audio/2018899512/prof-danny-altmann-the-burden-of-long-covid)
-- [OpenAI Quietly Shuts Down Its AI Detection Tool](https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool)
-- [Ask HN: What is the best thing you learnt or got out of Hacker News?](https://news.ycombinator.com/item?id=36862585)
+- [Warning of forthcoming collapse of Atlantic meridional overturning circulation](https://www.nature.com/articles/s41467-023-39810-w)
+- [Is technical analysis just stock market astrology?](https://alicegg.tech//2023/07/25/technical-analysis.html)
+- [The Messaging Layer Security &lpar;MLS&rpar; Protocol](https://datatracker.ietf.org/doc/html/rfc9420)
+- [&#39;Verified human&#39;: Worldcoin users queue up for iris scans](https://neuters.de/technology/verified-human-worldcoin-users-queue-up-iris-scans-2023-07-25/)
+- [Onnx Runtime: “Cross-Platform Accelerated Machine Learning”](https://onnxruntime.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
