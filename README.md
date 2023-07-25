@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Safari 17 Link Tracking Protection](https://mjtsai.com/blog/2023/06/19/safari-17-link-tracking-protection/)
+- [Amazon will force a &#39;voluntary resignation&#39; on employees](https://www.businessinsider.com/amazon-voluntary-resignation-employees-relocate-rto-2023-7)
 - [Life on Earth didn’t arise as described in textbooks](https://science.ku.dk/english/press/news/2023/life-on-earth-didnt-arise-as-described-in-textbooks/)
 - [What We Know About LLMs](https://willthompson.name/what-we-know-about-llms-primer)
-- [Show HN: Invoice Dragon – An Open Source App to Create PDF Invoices for Free](https://invoicedragon.com/)
-- [Textual Paint – MS Paint in your terminal](https://github.com/1j01/textual-paint)
-- [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
+- [Show HN: Invoice Dragon – An open source app to create PDF invoices](https://invoicedragon.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
