@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PRQL, Pipelined Relational Query Language](https://github.com/PRQL/prql)
 - [Hyperlink Maximalism &lpar;2022&rpar;](https://thesephist.com/posts/hyperlink/)
+- [Unix-like OS in Rust inspired by xv6-riscv](https://github.com/o8vm/octox)
 - [Launch HN: Roundtable &lpar;YC S23&rpar; – Using AI to Simulate Surveys](https://news.ycombinator.com/item?id=36865625)
 - [Aviator &lpar;YC S21&rpar; is hiring engineers to build advanced Git tools](https://www.ycombinator.com/companies/aviator/jobs)
-- [GM reverses plan to retire Chevrolet Bolt as it chases EV target](https://www.ft.com/content/fd367bd6-a73a-4d80-b0d0-32837724bd0a)
-- [Social engineering campaign targeting tech employees spreads through NPM malware](https://socket.dev/blog/social-engineering-campaign-npm-malware)
 <!-- BLOG-POST-LIST:END -->
 
 ---
