@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyperlink Maximalism &lpar;2022&rpar;](https://thesephist.com/posts/hyperlink/)
 - [Launch HN: Roundtable &lpar;YC S23&rpar; – Using AI to Simulate Surveys](https://news.ycombinator.com/item?id=36865625)
 - [Aviator &lpar;YC S21&rpar; is hiring engineers to build advanced Git tools](https://www.ycombinator.com/companies/aviator/jobs)
 - [GM reverses plan to retire Chevrolet Bolt as it chases EV target](https://www.ft.com/content/fd367bd6-a73a-4d80-b0d0-32837724bd0a)
-- [Crucial system of ocean currents is collapsing; ‘affects everyone on the planet’](https://www.cnn.com/2023/07/25/world/gulf-stream-atlantic-current-collapse-climate-scn-intl/index.html)
-- [The First Room-Temperature Ambient-Pressure Superconductor](https://arxiv.org/abs/2307.12008)
+- [Social engineering campaign targeting tech employees spreads through NPM malware](https://socket.dev/blog/social-engineering-campaign-npm-malware)
 <!-- BLOG-POST-LIST:END -->
 
 ---
