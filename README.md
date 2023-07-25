@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube is banning links to filmmusic &lpar;free music provider&rpar;, appeal doesn&#39;t work](https://news.ycombinator.com/item?id=36858642)
 - [The 1990s Amiga with Video Toaster has a VFX cool factor that endures today](https://cdm.link/2023/07/amiga-video-toaster-cool-factor/)
 - [Contributor to Google&#39;s WEI repo: So, you don&#39;t like a web platform proposal](https://blog.yoav.ws/posts/web_platform_change_you_do_not_like/)
 - [Parents, environmentalists to Google: stop Chromebooks from expiring this summer](https://pirg.org/edfund/resources/chromebook-expiration-full-letter/)
-- [Got called to a professor’s office after a complaint his Sparc4 was running slow](https://infosec.exchange/@paco/110772422266480371)
-- [Mozilla Standards Positions Opposes Web Integrity API](https://github.com/mozilla/standards-positions/issues/852)
+- [Got called to a professor’s office after a complaint his SPARC4 was running slow](https://infosec.exchange/@paco/110772422266480371)
 <!-- BLOG-POST-LIST:END -->
 
 ---
