@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube is banning links to filmmusic &lpar;free music provider&rpar;, appeal doesn&#39;t work](https://news.ycombinator.com/item?id=36858642)
+- [I&#39;ve skimmed 66520 newsgroups trying to find some life on the Usenet &lpar;2020&rpar;](https://mastodon.sdf.org/@cfenollosa/103469996345323076)
 - [The 1990s Amiga with Video Toaster has a VFX cool factor that endures today](https://cdm.link/2023/07/amiga-video-toaster-cool-factor/)
 - [Parents, environmentalists to Google: stop Chromebooks from expiring this summer](https://pirg.org/edfund/resources/chromebook-expiration-full-letter/)
 - [Got called to a professor’s office after a complaint his SPARC4 was running slow](https://infosec.exchange/@paco/110772422266480371)
