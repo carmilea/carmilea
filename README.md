@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PRQL, Pipelined Relational Query Language](https://github.com/PRQL/prql)
+- [Alphabet Announces Second Quarter 2023 Results [pdf]](https://abc.xyz/assets/20/ef/844a05b84b6f9dbf2c3592e7d9c7/2023q2-alphabet-earnings-release.pdf)
+- [Texas A&amp;M suspended professor accused of criticizing Lt. Gov. Patrick in lecture](https://www.texastribune.org/2023/07/25/texas-a-m-professor-opioids-dan-patrick/)
+- [PRQL: Pipelined Relational Query Language](https://github.com/PRQL/prql)
+- [Show HN: RealAboutInstagram – a replica highlighting harmful strategies](https://realaboutinstagram.netlify.app/)
 - [Hyperlink Maximalism &lpar;2022&rpar;](https://thesephist.com/posts/hyperlink/)
-- [Unix-like OS in Rust inspired by xv6-riscv](https://github.com/o8vm/octox)
-- [Launch HN: Roundtable &lpar;YC S23&rpar; – Using AI to Simulate Surveys](https://news.ycombinator.com/item?id=36865625)
-- [Aviator &lpar;YC S21&rpar; is hiring engineers to build advanced Git tools](https://www.ycombinator.com/companies/aviator/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
