@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parents, environmentalists to Google: stop Chromebooks from expiring this summer](https://pirg.org/edfund/resources/chromebook-expiration-full-letter/)
+- [Got called to a professor’s office after a complaint his Sparc4 was running slow](https://infosec.exchange/@paco/110772422266480371)
 - [Mozilla Standards Positions Opposes Web Integrity API](https://github.com/mozilla/standards-positions/issues/852)
 - [Researchers find evidence of a 2000 year old curry, oldest ever found in SE Asia](https://phys.org/news/2023-07-evidence-year-old-curry-oldest-southeast.html)
 - [Twitter’s Rebrand to X Could Be a Trademark Nightmare Thanks to Microsoft](https://themessenger.com/tech/twitters-rebrand-to-x-could-be-a-trademark-nightmare-thanks-to-microsoft)
-- [Byron Bay data breach victim told to pay Adidas, NBA $1.2M by US courts](https://www.abc.net.au/news/2023-07-25/byron-bay-data-breach-victim-adidas-nab-us-court-action-damages/102575726)
-- [Vscode.dev: Local Development with Cloud Tools](https://vscode.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
