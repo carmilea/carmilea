@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
+- [US Education Dept. Opens Civil Rights Inquiry into Harvard’s Legacy Admissions](https://www.nytimes.com/2023/07/25/us/politics/harvard-admissions-civil-rights-inquiry.html)
 - [Alphabet Announces Second Quarter 2023 Results [pdf]](https://abc.xyz/assets/20/ef/844a05b84b6f9dbf2c3592e7d9c7/2023q2-alphabet-earnings-release.pdf)
 - [Texas A&amp;M suspended professor accused of criticizing Lt. Gov. Patrick in lecture](https://www.texastribune.org/2023/07/25/texas-a-m-professor-opioids-dan-patrick/)
 - [PRQL: Pipelined Relational Query Language](https://github.com/PRQL/prql)
-- [Show HN: RealAboutInstagram – a replica highlighting harmful strategies](https://realaboutinstagram.netlify.app/)
-- [Hyperlink Maximalism &lpar;2022&rpar;](https://thesephist.com/posts/hyperlink/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
