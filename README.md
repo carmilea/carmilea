@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Starting a hard core tech company in my 50s](https://iamnotarobot.substack.com/p/why-i-am-starting-a-hardcore-tech)
+- [Sinead O’Connor has died](https://www.irishtimes.com/culture/music/2023/07/26/sinead-oconnor-acclaimed-dublin-singer-dies-aged-56/)
+- [Stability AI Announces Stable Diffusion XL 1.0](https://stability.ai/press-articles/stable-diffusion-xl-1-featured-amazon-aws-bedrock)
+- [UK version of “Online Harms Bill” wants to prefilter content without due process](https://easydns.com/blog/2023/07/26/uk-version-of-online-harms-bill-wants-to-prefilter-content-without-due-process/)
 - [Prequel &lpar;YC W21&rpar; – Customer Data Sharing to All Data Warehouses Is Hiring](https://www.ycombinator.com/companies/prequel/jobs/VNoKffl-senior-software-engineer)
-- [Stability AI releases its latest image-generating model, Stable Diffusion XL 1.0](https://techcrunch.com/2023/07/26/stability-ai-releases-its-latest-image-generating-model-stable-diffusion-xl-1-0/)
-- [S&amp;P500 Normalized with M2](https://twitter.com/Tsartoshi/status/1680128816788779008)
-- [EXGBoost: Gradient Boosting in Elixir](https://dockyard.com/blog/2023/07/18/introducing-exgboost-gradient-boosting-in-elixir)
-- [Public US hearing on UFOs [video]](https://www.youtube.com/watch?v=KQ7Dw-739VY)
 <!-- BLOG-POST-LIST:END -->
 
 ---
