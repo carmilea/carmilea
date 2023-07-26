@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Starting a hard core tech company in my 50s](https://iamnotarobot.substack.com/p/why-i-am-starting-a-hardcore-tech)
+- [Reasons to be skeptical of that room-temperature superconductor claim](https://twitter.com/gravity_levity/status/1684029657857892354)
+- [Progressivism increases with population density](https://oxfordpoliticalreview.com/2021/06/28/the-politics-of-place-why-proximity-makes-progressives/)
+- [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster](https://arxiv.org/abs/2007.15919)
 - [Sinead O’Connor has died](https://www.irishtimes.com/culture/music/2023/07/26/sinead-oconnor-acclaimed-dublin-singer-dies-aged-56/)
-- [Stability AI Announces Stable Diffusion XL 1.0](https://stability.ai/press-articles/stable-diffusion-xl-1-featured-amazon-aws-bedrock)
 - [UK version of “Online Harms Bill” wants to prefilter content without due process](https://easydns.com/blog/2023/07/26/uk-version-of-online-harms-bill-wants-to-prefilter-content-without-due-process/)
-- [Prequel &lpar;YC W21&rpar; – Customer Data Sharing to All Data Warehouses Is Hiring](https://www.ycombinator.com/companies/prequel/jobs/VNoKffl-senior-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
