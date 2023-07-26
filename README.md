@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA funds 11 moon projects to help mission to &#39;live off the land](https://www.washingtonpost.com/technology/2023/07/25/nasa-moon-artemis/)
-- [Google engineers want to make ad-blocking &lpar;near&rpar; impossible](https://stackdiary.com/web-environment-integrity/)
-- [Netlify accounts are being suspended with no recourse](https://answers.netlify.com/t/my-netlify-account-ha-been-suspended-i-dont-know-why/97537)
-- [Which GPU&lpar;s&rpar; to Get for Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
-- [HBM’s Future: Necessary but Expensive](https://semiengineering.com/hbms-future-necessary-but-expensive/)
+- [Google is already pushing WEI &lpar;web DRM&rpar; into Chromium](https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd)
+- [Lago &lpar;YC S21&rpar; – Open-Source Stripe Billing and Chargebee Alternative Is Hiring](https://www.ycombinator.com/companies/lago/jobs)
+- [Customize Django Admin Interface](https://appliku.com/post/customize-django-admin-interface)
+- [How MOS 6502 Illegal Opcodes work](https://www.pagetable.com/?p=39)
+- [1Sub.dev – A world where people pay for software](https://1sub.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
