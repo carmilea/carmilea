@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Overture Maps Foundation Releases Its First World-Wide Open Map Dataset](https://overturemaps.org/overture-maps-foundation-releases-first-world-wide-open-map-dataset/)
+- [Live: UFO/UAP Congressional Hearings](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)
 - [Quad9 Blocks Pirate Site Globally After Sony Demanded €10k Fine](https://torrentfreak.com/quad9-blocks-pirate-site-globally-after-sony-demanded-e10000-fine-230725/)
-- [Myocardial Injury After Covid-19 mRNA Booster Vaccination](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ejhf.2978)
-- [Norwegian shipping company bans electric cars on board classic ferry route](https://ctif.org/news/norwegian-shipping-company-bans-electric-cars-board-classic-ferry-route)
-- [Community Note correcting Musk’s anti-vax tweet mysteriously disappears](https://old.reddit.com/r/EnoughMuskSpam/comments/15a086f/community_note_correcting_musks_antivax_tweet/)
-- [House UFO hearing livestream [video]](https://www.youtube.com/watch?v=GkEnx2REz7U)
+- [Real-Time Anomaly Detection in IoT Data](https://www.singlestore.com/blog/real-time-anomaly-detection-in-iot-data/)
+- [Mexico&#39;s heirloom corn strains are resurging amid more demand](https://www.nbcnews.com/news/latino/heirloom-corn-organic-mexico-resurging-industrial-white-corn-rcna96412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
