@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta to Charge Cloud Providers for AI Tech That It Said Was Free](https://www.bloomberg.com/news/articles/2023-07-26/meta-to-charge-cloud-providers-for-ai-tech-that-it-said-was-free)
+- [Bit-Stealing Made Legal](https://inria.hal.science/hal-04165615/document)
+- [Kids Online Safety Act is still a danger to our rights online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [WordPress Core to start using SQLite](https://make.wordpress.org/core/2023/04/19/status-update-on-the-sqlite-project/)
-- [A copywriter swindled victims out of $200M by pretending to be a psychic](https://thewalrus.ca/the-greatest-scam-ever-written/)
 - [Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
-- [Apple&#39;s infamously strict on App Store rules but gives WeChat a free pass &lpar;2020&rpar;](https://reclaimthenet.org/apple-app-store-wechat-china)
 <!-- BLOG-POST-LIST:END -->
 
 ---
