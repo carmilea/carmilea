@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google is already pushing WEI &lpar;web DRM&rpar; into Chromium](https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd)
+- [Memory Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting/)
+- [Google is already pushing WEI into Chromium](https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd)
 - [Lago &lpar;YC S21&rpar; – Open-Source Stripe Billing and Chargebee Alternative Is Hiring](https://www.ycombinator.com/companies/lago/jobs)
-- [Customize Django Admin Interface](https://appliku.com/post/customize-django-admin-interface)
+- [Unesco calls for global ban on smartphones in schools](https://www.theguardian.com/world/2023/jul/26/put-learners-first-unesco-calls-for-global-ban-on-smartphones-in-schools)
 - [How MOS 6502 Illegal Opcodes work](https://www.pagetable.com/?p=39)
-- [1Sub.dev – A world where people pay for software](https://1sub.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
