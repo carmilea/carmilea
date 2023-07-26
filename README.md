@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IntelliJ IDEA 2023.2](https://www.jetbrains.com/idea/whatsnew/)
-- [Mold 2.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
-- [Memory Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting/)
-- [Google is already pushing WEI into Chromium](https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd)
-- [Lago &lpar;YC S21&rpar; – Open-Source Stripe Billing and Chargebee Alternative Is Hiring](https://www.ycombinator.com/companies/lago/jobs)
+- [Quad9 Blocks Pirate Site Globally After Sony Demanded €10k Fine](https://torrentfreak.com/quad9-blocks-pirate-site-globally-after-sony-demanded-e10000-fine-230725/)
+- [Myocardial Injury After Covid-19 mRNA Booster Vaccination](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ejhf.2978)
+- [Norwegian shipping company bans electric cars on board classic ferry route](https://ctif.org/news/norwegian-shipping-company-bans-electric-cars-board-classic-ferry-route)
+- [Community Note correcting Musk’s anti-vax tweet mysteriously disappears](https://old.reddit.com/r/EnoughMuskSpam/comments/15a086f/community_note_correcting_musks_antivax_tweet/)
+- [House UFO hearing livestream [video]](https://www.youtube.com/watch?v=GkEnx2REz7U)
 <!-- BLOG-POST-LIST:END -->
 
 ---
