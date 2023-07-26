@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Systemctl –Force –Force Reboot](https://news.ycombinator.com/item?id=36873927)
 - [Scientists Say Recycling Has Backfired Spectacularly](https://futurism.com/the-byte/scientists-recycling-backfired)
+- [Netlify accounts are being suspended with no recourse](https://answers.netlify.com/t/my-netlify-account-ha-been-suspended-i-dont-know-why/97537)
 - [HBM’s Future: Necessary but Expensive](https://semiengineering.com/hbms-future-necessary-but-expensive/)
 - [Google abandons work to move Assistant smart speakers to Fuchsia](https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/)
-- [Expo – open-source platform for making universal apps for Android, iOS, and web](https://github.com/expo/expo)
-- [The Mathematica Journal is no longer accepting submissions](https://www.mathematica-journal.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
