@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google abandons work to move Assistant smart speakers to Fuchsia](https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/)
 - [Whom the gods would destroy, they first give real-time analytics &lpar;2013&rpar;](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
 - [Stone knives and bear skins – there is no money in tools](https://queue.acm.org/detail.cfm?id=3606027)
 - [The Mathematica Journal is no longer accepting submissions](https://www.mathematica-journal.com/)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
-- [A command-line murder mystery &lpar;2014&rpar;](https://github.com/veltman/clmystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
