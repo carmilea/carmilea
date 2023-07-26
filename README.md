@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When the Music Industry Waged War on the Cassette Tape During the 1980s](https://www.openculture.com/2023/07/home-taping-is-killing-music-when-the-music-industry-waged-war-on-the-cassette-tape.html)
-- [Wall squats better at lowering blood pressure](https://www.bbc.co.uk/news/health-66303982)
+- [NASA funds 11 moon projects to help mission to &#39;live off the land](https://www.washingtonpost.com/technology/2023/07/25/nasa-moon-artemis/)
+- [Google engineers want to make ad-blocking &lpar;near&rpar; impossible](https://stackdiary.com/web-environment-integrity/)
 - [Netlify accounts are being suspended with no recourse](https://answers.netlify.com/t/my-netlify-account-ha-been-suspended-i-dont-know-why/97537)
 - [Which GPU&lpar;s&rpar; to Get for Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
 - [HBM’s Future: Necessary but Expensive](https://semiengineering.com/hbms-future-necessary-but-expensive/)
