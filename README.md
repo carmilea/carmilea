@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reasons to be skeptical of that room-temperature superconductor claim](https://twitter.com/gravity_levity/status/1684029657857892354)
-- [Progressivism increases with population density](https://oxfordpoliticalreview.com/2021/06/28/the-politics-of-place-why-proximity-makes-progressives/)
-- [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster](https://arxiv.org/abs/2007.15919)
+- [Staying ahead of the AMD vulnerability known as “Zenbleed”](https://blog.cloudflare.com/zenbleed-vulnerability/)
+- [How to build toxic software teams](https://badsoftwareadvice.substack.com/p/how-to-build-toxic-software-teams)
+- [Apple&#39;s infamously strict on App Store rules but gives WeChat a free pass &lpar;2020&rpar;](https://reclaimthenet.org/apple-app-store-wechat-china)
+- [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster &lpar;2021&rpar;](https://arxiv.org/abs/2007.15919)
 - [Sinead O’Connor has died](https://www.irishtimes.com/culture/music/2023/07/26/sinead-oconnor-acclaimed-dublin-singer-dies-aged-56/)
-- [UK version of “Online Harms Bill” wants to prefilter content without due process](https://easydns.com/blog/2023/07/26/uk-version-of-online-harms-bill-wants-to-prefilter-content-without-due-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
