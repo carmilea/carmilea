@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Big Tech&#39;s Takeover and Destruction of Open Protocols and Networks](https://cheapskatesguide.org/articles/big-tech-takeovers.html)
 - [Generation of MT magnetic fields by intense-laser-driven microtube implosions](https://arxiv.org/abs/2009.00828)
 - [HBM’s Future: Necessary but Expensive](https://semiengineering.com/hbms-future-necessary-but-expensive/)
 - [FTC readies lawsuit that could break up Amazon](https://www.politico.com/news/2023/07/25/ftc-lawsuit-break-up-amazon-00108130)
 - [Google abandons work to move Assistant smart speakers to Fuchsia](https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/)
-- [Whom the gods would destroy, they first give real-time analytics &lpar;2013&rpar;](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
