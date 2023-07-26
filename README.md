@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Meta Q2 2023 revenue is up 11% YOY](https://twitter.com/stonksnews/status/1684295301551517697)
-- [Study suggests isometric exercises best for reducing blood pressure](https://bjsm.bmj.com/content/early/2023/07/02/bjsports-2022-106503)
-- [Staying ahead of the AMD vulnerability known as “Zenbleed”](https://blog.cloudflare.com/zenbleed-vulnerability/)
+- [WordPress Core to start using SQLite](https://make.wordpress.org/core/2023/04/19/status-update-on-the-sqlite-project/)
 - [A copywriter swindled victims out of $200M by pretending to be a psychic](https://thewalrus.ca/the-greatest-scam-ever-written/)
+- [Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
+- [Apple&#39;s infamously strict on App Store rules but gives WeChat a free pass &lpar;2020&rpar;](https://reclaimthenet.org/apple-app-store-wechat-china)
 <!-- BLOG-POST-LIST:END -->
 
 ---
