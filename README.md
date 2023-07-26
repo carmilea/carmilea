@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Overture Maps Foundation Releases Its First World-Wide Open Map Dataset](https://overturemaps.org/overture-maps-foundation-releases-first-world-wide-open-map-dataset/)
-- [Live: UFO/UAP Congressional Hearings](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)
-- [Quad9 Blocks Pirate Site Globally After Sony Demanded €10k Fine](https://torrentfreak.com/quad9-blocks-pirate-site-globally-after-sony-demanded-e10000-fine-230725/)
-- [Real-Time Anomaly Detection in IoT Data](https://www.singlestore.com/blog/real-time-anomaly-detection-in-iot-data/)
-- [Mexico&#39;s heirloom corn strains are resurging amid more demand](https://www.nbcnews.com/news/latino/heirloom-corn-organic-mexico-resurging-industrial-white-corn-rcna96412)
+- [Prequel &lpar;YC W21&rpar; – Customer Data Sharing to All Data Warehouses Is Hiring](https://www.ycombinator.com/companies/prequel/jobs/VNoKffl-senior-software-engineer)
+- [Stability AI releases its latest image-generating model, Stable Diffusion XL 1.0](https://techcrunch.com/2023/07/26/stability-ai-releases-its-latest-image-generating-model-stable-diffusion-xl-1-0/)
+- [S&amp;P500 Normalized with M2](https://twitter.com/Tsartoshi/status/1680128816788779008)
+- [EXGBoost: Gradient Boosting in Elixir](https://dockyard.com/blog/2023/07/18/introducing-exgboost-gradient-boosting-in-elixir)
+- [Public US hearing on UFOs [video]](https://www.youtube.com/watch?v=KQ7Dw-739VY)
 <!-- BLOG-POST-LIST:END -->
 
 ---
