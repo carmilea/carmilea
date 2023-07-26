@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Where do you discuss computer related stuff now?](https://lobste.rs/s/ih3cwj/where_do_you_discuss_computer_related)
 - [HBM’s Future: Necessary but Expensive](https://semiengineering.com/hbms-future-necessary-but-expensive/)
 - [Google abandons work to move Assistant smart speakers to Fuchsia](https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/)
 - [Expo – open-source platform for making universal apps for Android, iOS, and web](https://github.com/expo/expo)
 - [The Mathematica Journal is no longer accepting submissions](https://www.mathematica-journal.com/)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
