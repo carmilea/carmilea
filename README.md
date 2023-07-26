@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Generation of MT magnetic fields by intense-laser-driven microtube implosions](https://arxiv.org/abs/2009.00828)
+- [HBM’s Future: Necessary but Expensive](https://semiengineering.com/hbms-future-necessary-but-expensive/)
+- [FTC readies lawsuit that could break up Amazon](https://www.politico.com/news/2023/07/25/ftc-lawsuit-break-up-amazon-00108130)
 - [Google abandons work to move Assistant smart speakers to Fuchsia](https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/)
 - [Whom the gods would destroy, they first give real-time analytics &lpar;2013&rpar;](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
-- [Stone knives and bear skins – there is no money in tools](https://queue.acm.org/detail.cfm?id=3606027)
-- [The Mathematica Journal is no longer accepting submissions](https://www.mathematica-journal.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
