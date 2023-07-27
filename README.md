@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Emotionally Numb: Expertise Dulls Consumer Experience](https://academic.oup.com/jcr/article/48/3/355/6171148)
-- [Google&#39;s browser security plan slammed as dangerous, terrible, DRM for websites](https://www.theregister.com/2023/07/27/google_web_environment_integrity/)
-- [Wavy walls use fewer bricks than a straight wall &lpar;2020&rpar;](https://twistedsifter.com/2020/06/how-wavy-crinkle-crankle-walls-use-less-bricks-than-straight-walls/)
-- [Enhance – HTML-first full stack web framework](https://enhance.dev/)
-- [Automakers try to scuttle Massachusetts ‘right to repair’ law](https://www.techdirt.com/2023/07/27/__trashed-4/)
+- [Room Temperature, Ambient Pressure Superconductivity–This Time for Real?](https://scanalyst.fourmilab.ch/t/room-temperature-ambient-pressure-superconductivity-this-time-for-real/3512)
+- [Time Card Mini Adds Pi, GPS, and OXCO to Your PC](https://www.jeffgeerling.com/blog/2023/time-card-mini-adds-pi-gps-and-oxco-your-pc)
+- [Brave is a fork, not a Chromium reskinn](https://twitter.com/BrendanEich/status/1684561924191842304)
+- [Show HN: Fplyr – Adult Entertainment Tool for playing moaning sounds and music](https://github.com/pronopython/fplyr)
+- [Emotionally Numb: Expertise Dulls Consumer Experience &lpar;2021&rpar;](https://academic.oup.com/jcr/article/48/3/355/6171148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
