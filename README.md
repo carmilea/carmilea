@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Radioactivity in Food &lpar;Organic Food&rpar;](https://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html)
-- [A Child&#39;s History of the World](https://gutenberg.org/cache/epub/67149/pg67149-images.html)
-- [Our Universe wasn’t empty, even before the Big Bang](https://bigthink.com/starts-with-a-bang/universe-wasnt-empty-before-big-bang/)
-- [LLaMA2 Chat 70B outperformed ChatGPT](https://tatsu-lab.github.io/alpaca_eval/)
-- [Launch HN: PeerDB &lpar;YC S23&rpar; – Fast, Native ETL/ELT for Postgres](https://news.ycombinator.com/item?id=36895220)
+- [Ashby &lpar;YC W19&rpar; Is Hiring an Engineering Director to Build a Product-Focused Team](https://www.ashbyhq.com/careers?ashby_jid=2b130850-9e04-4072-942b-65d9e1609813)
+- [Bootstrapping to €600k MRR and getting killed by Shopify](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x)
+- [House Judiciary panel plans contempt proceedings for Mark Zuckerberg](https://www.nbcnews.com/politics/congress/house-judiciary-plans-contempt-proceedings-mark-zuckerberg-rcna96297)
+- [A Modern High-Performance Open Source Message Queuing System](https://bloomberg.github.io/blazingmq/)
+- [Visa-free travel to Europe for U.S. citizens to end in 2024,requiring ETIAS form](https://www.npr.org/2023/07/27/1190453405/europe-travel-visa-etias-how-to-apply)
 <!-- BLOG-POST-LIST:END -->
 
 ---
