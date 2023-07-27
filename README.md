@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pix surpasses credit and debit card transactions in Brazil](https://philaverse.substack.com/p/report-pix-surpasses-credit-and-debit)
 - [Pull of the Undercurl](https://ryantravitz.com/blog/2023-02-18-pull-of-the-undercurl/)
+- [Show HN: Litellm – simple library to standardize OpenAI, Cohere, Azure LLM I/O](https://github.com/BerriAI/litellm)
 - [JetBrains IDE update previews “deeply integrated” AI Assistant](https://devclass.com/2023/07/25/jetbrains-ide-update-previews-deeply-integrated-ai-assistant/)
 - [Rainmaker &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/rainmaker/jobs/wzsHtSb-platform-full-stack-engineer)
-- [Chidori – Declarative Framework for AI Agents &lpar;Rust, Python, and Node.js&rpar;](https://github.com/ThousandBirdsInc/chidori)
-- [It&#39;s 2023, so of course I&#39;m learning Common Lisp](https://log.schemescape.com/posts/programming-languages/learning-lisp-in-2023.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
