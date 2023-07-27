@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Room Temperature, Ambient Pressure Superconductivity–This Time for Real?](https://scanalyst.fourmilab.ch/t/room-temperature-ambient-pressure-superconductivity-this-time-for-real/3512)
-- [Time Card Mini Adds Pi, GPS, and OXCO to Your PC](https://www.jeffgeerling.com/blog/2023/time-card-mini-adds-pi-gps-and-oxco-your-pc)
-- [Brave is a fork, not a Chromium reskinn](https://twitter.com/BrendanEich/status/1684561924191842304)
-- [Show HN: Fplyr – Adult Entertainment Tool for playing moaning sounds and music](https://github.com/pronopython/fplyr)
-- [Emotionally Numb: Expertise Dulls Consumer Experience &lpar;2021&rpar;](https://academic.oup.com/jcr/article/48/3/355/6171148)
+- [Radioactivity in Food &lpar;Organic Food&rpar;](https://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html)
+- [A Child&#39;s History of the World](https://gutenberg.org/cache/epub/67149/pg67149-images.html)
+- [Our Universe wasn’t empty, even before the Big Bang](https://bigthink.com/starts-with-a-bang/universe-wasnt-empty-before-big-bang/)
+- [LLaMA2 Chat 70B outperformed ChatGPT](https://tatsu-lab.github.io/alpaca_eval/)
+- [Launch HN: PeerDB &lpar;YC S23&rpar; – Fast, Native ETL/ELT for Postgres](https://news.ycombinator.com/item?id=36895220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
