@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Slack Is Down](https://status.slack.com/2023-07/08e3781ccbef33d5)
 - [Ask HN: Is Slack having some trouble?](https://news.ycombinator.com/item?id=36890901)
-- [The Adapter Pattern in Go](https://bitfieldconsulting.com/golang/adapter)
 - [Venetian Glass Beads May Be Oldest European Artifacts Found in North America](https://www.smithsonianmag.com/smart-news/tiny-blue-beads-european-artifact-north-america-old-180976966/)
 - [Stack Overflow&#39;s CEO Doesn&#39;t Understand Stack Overflow](https://jlericson.com/2023/07/26/not_understanding.html)
+- [OFDM: Emperor Has No Clothes?](https://ieeexplore.ieee.org/document/6512701)
 <!-- BLOG-POST-LIST:END -->
 
 ---
