@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How the “lazy girl job” took over work](https://www.bbc.com/worklife/article/20230725-how-the-lazy-girl-job-took-over-work-tiktok)
-- [Stack Overflow Announces OverflowAI [video]](https://www.youtube.com/watch?v=DM9-cYyeaDg)
+- [Enhance – The HTML first full stack web framework](https://enhance.dev/)
+- [Automakers Try to BS Their Way Past ‘Right to Repair’ Standoff in Massachusetts](https://www.techdirt.com/2023/07/27/__trashed-4/)
+- [Waymo puts the brakes on self-driving trucks program](https://techcrunch.com/2023/07/26/waymo-puts-the-brakes-on-self-driving-trucks-program/)
+- [OverflowAI](https://stackoverflow.blog/2023/07/27/announcing-overflowai/)
 - [Memfault &lpar;YC W19&rpar; Is Hiring an Embedded Linux Engineer](https://jobs.lever.co/memfault/5bcd5431-5d94-4a3c-a99a-950ffd85851b)
-- [How I test site speed changes using Chrome&#39;s local overrides &lpar;2021&rpar;](https://tryblackbird.com/blog/local-overrides)
-- [Venetian glass beads may be oldest European artifacts in North America &lpar;2021&rpar;](https://www.smithsonianmag.com/smart-news/tiny-blue-beads-european-artifact-north-america-old-180976966/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
