@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ashby &lpar;YC W19&rpar; Is Hiring an Engineering Director to Build a Product-Focused Team](https://www.ashbyhq.com/careers?ashby_jid=2b130850-9e04-4072-942b-65d9e1609813)
-- [Bootstrapping to €600k MRR and getting killed by Shopify](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x)
-- [House Judiciary panel plans contempt proceedings for Mark Zuckerberg](https://www.nbcnews.com/politics/congress/house-judiciary-plans-contempt-proceedings-mark-zuckerberg-rcna96297)
-- [A Modern High-Performance Open Source Message Queuing System](https://bloomberg.github.io/blazingmq/)
-- [Visa-free travel to Europe for U.S. citizens to end in 2024,requiring ETIAS form](https://www.npr.org/2023/07/27/1190453405/europe-travel-visa-etias-how-to-apply)
+- [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x)
+- [BlazingMQ: High-performance open source message queuing system](https://bloomberg.github.io/blazingmq/)
+- [Blade-Runner-Tailwind: A Collection of Blade Runner Themed Tailwind Components](https://github.com/martyjacobsdev/Blade-Runner-Tailwind)
+- [Radioactivity in Food &lpar;Organic Food&rpar;](https://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
