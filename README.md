@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS in QEMU &lpar;ARM edition&rpar; [pdf]](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
+- [Tarsnap outage &lpar;July 2-3, 2023&rpar; postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 - [Data diffs: Algorithms for explaining what changed in a dataset &lpar;2022&rpar;](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
-- [White Flight from Asian Immigration: Evidence from California Public Schools](https://www.nber.org/papers/w31434)
-- [Japanese population falls in all 47 prefectures for the first time](https://www.japantimes.co.jp/news/2023/07/26/japan/society/number-of-japanese-drops-in-all-47-prefectures-for-first-time-as-foreign-population-surges/)
-- [Pix surpasses credit and debit card transactions in Brazil](https://philaverse.substack.com/p/report-pix-surpasses-credit-and-debit)
-- [Pull of the Undercurl](https://ryantravitz.com/blog/2023-02-18-pull-of-the-undercurl/)
+- [Your Chromebook, Your Way](https://eupnea-linux.github.io/)
+- [Super sorry to the guy with the username reset on GitHub](https://discuss.systems/@adrian/110783401400871208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
