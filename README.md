@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Llama and ChatGPT Are Not Open-Source](https://spectrum.ieee.org/openai-not-open)
 - [ICML 2023 Outstanding Paper Awards](https://icml.cc/Conferences/2023/Awards)
+- [LeMUR: LLMs for Audio and Speech](https://www.assemblyai.com/blog/lemur/)
 - [Svix &lpar;YC W21&rpar; Is Hiring a Founding Account Executive &lpar;US Remote&rpar;](https://www.svix.com/careers/)
 - [Intel returns to profitability after two quarters of losses](https://www.cnbc.com/2023/07/27/intel-intc-earnings-report-q2-2023.html)
-- [Annual EFF Awards Goe to Alexandra Elbakyan, Library Freedom Project, and Signal](https://www.eff.org/press/releases/electronic-frontier-foundation-present-annual-eff-awards-alexandra-asanovna-elbakyan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
