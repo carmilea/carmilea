@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Data diffs: Algorithms for explaining what changed in a dataset &lpar;2022&rpar;](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
+- [White Flight from Asian Immigration: Evidence from California Public Schools](https://www.nber.org/papers/w31434)
+- [Japanese population falls in all 47 prefectures for the first time](https://www.japantimes.co.jp/news/2023/07/26/japan/society/number-of-japanese-drops-in-all-47-prefectures-for-first-time-as-foreign-population-surges/)
 - [Pix surpasses credit and debit card transactions in Brazil](https://philaverse.substack.com/p/report-pix-surpasses-credit-and-debit)
 - [Pull of the Undercurl](https://ryantravitz.com/blog/2023-02-18-pull-of-the-undercurl/)
-- [Show HN: Litellm – simple library to standardize OpenAI, Cohere, Azure LLM I/O](https://github.com/BerriAI/litellm)
-- [JetBrains IDE update previews “deeply integrated” AI Assistant](https://devclass.com/2023/07/25/jetbrains-ide-update-previews-deeply-integrated-ai-assistant/)
-- [Rainmaker &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/rainmaker/jobs/wzsHtSb-platform-full-stack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
