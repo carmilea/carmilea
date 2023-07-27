@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ashby &lpar;YC W19&rpar; Is Hiring an Engineering Director to Build a Product-Focused Team](https://www.ashbyhq.com/careers?ashby_jid=2b130850-9e04-4072-942b-65d9e1609813)
+- [Techdirt has been deleted from Bing and DuckDuckGo](https://www.techdirt.com/2023/07/27/techdirt-has-been-deleted-from-bing-and-duckduckgo/)
+- [Some alloys don&#39;t change size when heated – recent work on why](https://www.caltech.edu/about/news/some-alloys-dont-change-size-when-heated-we-now-know-why)
+- [LK-99](https://en.wikipedia.org/wiki/LK-99)
+- [Ashby &lpar;YC W19&rpar; is hiring an engineering director to build a product-focused team](https://www.ashbyhq.com/careers?ashby_jid=2b130850-9e04-4072-942b-65d9e1609813)
 - [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x)
-- [BlazingMQ: High-performance open source message queuing system](https://bloomberg.github.io/blazingmq/)
-- [Blade-Runner-Tailwind: A Collection of Blade Runner Themed Tailwind Components](https://github.com/martyjacobsdev/Blade-Runner-Tailwind)
-- [Radioactivity in Food &lpar;Organic Food&rpar;](https://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
