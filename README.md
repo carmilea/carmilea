@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Venetian Glass Beads May Be Oldest European Artifacts Found in North America](https://www.smithsonianmag.com/smart-news/tiny-blue-beads-european-artifact-north-america-old-180976966/)
 - [Stack Overflow&#39;s CEO Doesn&#39;t Understand Stack Overflow](https://jlericson.com/2023/07/26/not_understanding.html)
 - [Go 1.22 Inlining Overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
 - [OFDM: Emperor Has No Clothes?](https://ieeexplore.ieee.org/document/6512701)
 - [macOS in QEMU &lpar;ARM edition&rpar; [pdf]](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
-- [Tarsnap outage postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
