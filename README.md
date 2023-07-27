@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Air Force selects AI-enabled predictive maintenance program as system of record](https://defensescoop.com/2023/05/10/air-force-selects-ai-enabled-predictive-maintenance-program-as-system-of-record/)
 - [macOS in QEMU &lpar;ARM edition&rpar; [pdf]](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
 - [Tarsnap outage &lpar;July 2-3, 2023&rpar; postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
-- [Data diffs: Algorithms for explaining what changed in a dataset &lpar;2022&rpar;](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
-- [Your Chromebook, Your Way](https://eupnea-linux.github.io/)
-- [Super sorry to the guy with the username reset on GitHub](https://discuss.systems/@adrian/110783401400871208)
+- [Google Med-Palm M: Towards Generalist Biomedical AI](https://arxiv.org/abs/2307.14334)
+- [The Heresy of Decline](https://longnow.org/ideas/the-heresy-of-decline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
