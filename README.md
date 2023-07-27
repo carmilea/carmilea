@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta to Charge Cloud Providers for AI Tech That It Said Was Free](https://www.bloomberg.com/news/articles/2023-07-26/meta-to-charge-cloud-providers-for-ai-tech-that-it-said-was-free)
-- [Bit-Stealing Made Legal](https://inria.hal.science/hal-04165615/document)
-- [Kids Online Safety Act is still a danger to our rights online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
+- [Mastercard demands US cannabis shops stop accepting debit cards](https://www.bbc.com/news/world-us-canada-66320970)
+- [Rainmaker &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/rainmaker/jobs/wzsHtSb-platform-full-stack-engineer)
+- [It&#39;s 2023, so of course I&#39;m learning Common Lisp](https://log.schemescape.com/posts/programming-languages/learning-lisp-in-2023.html)
+- [Exway doesn&#39;t care about USB-C conformity](https://ericswpark.com/blog/2023/2023-07-26-exway-doesnt-care-about-usb-c-conformity/)
+- [TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
