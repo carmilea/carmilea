@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Austral Programming Language](https://austral-lang.org)
-- [Techdirt has been deleted from Bing and DuckDuckGo](https://www.techdirt.com/2023/07/27/techdirt-has-been-deleted-from-bing-and-duckduckgo/)
-- [Some alloys don&#39;t change size when heated – recent work on why](https://www.caltech.edu/about/news/some-alloys-dont-change-size-when-heated-we-now-know-why)
-- [LK-99](https://en.wikipedia.org/wiki/LK-99)
-- [Ashby &lpar;YC W19&rpar; is hiring an engineering director to build a product-focused team](https://www.ashbyhq.com/careers?ashby_jid=2b130850-9e04-4072-942b-65d9e1609813)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Founding Account Executive &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [Intel jumps 6% as it returns to profitability after two quarters of losses](https://www.cnbc.com/2023/07/27/intel-intc-earnings-report-q2-2023.html)
+- [Hydraulic Steering – Principles of Operation &lpar;1956&rpar; [video]](https://www.youtube.com/watch?v=VDiOKqMKTO8)
+- [Unpacking Xilinx 7-Series Bitstreams &lpar;2018&rpar;](https://www.kc8apf.net/2018/05/unpacking-xilinx-7-series-bitstreams-part-1/)
+- [Commander Keen&#39;s Adaptive Tile Scrolling](https://fabiensanglard.net/ega/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
