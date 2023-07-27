@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Slack Is Down](https://status.slack.com/2023-07/08e3781ccbef33d5)
-- [Ask HN: Is Slack having some trouble?](https://news.ycombinator.com/item?id=36890901)
-- [Venetian Glass Beads May Be Oldest European Artifacts Found in North America](https://www.smithsonianmag.com/smart-news/tiny-blue-beads-european-artifact-north-america-old-180976966/)
-- [Stack Overflow&#39;s CEO Doesn&#39;t Understand Stack Overflow](https://jlericson.com/2023/07/26/not_understanding.html)
-- [OFDM: Emperor Has No Clothes?](https://ieeexplore.ieee.org/document/6512701)
+- [How the “lazy girl job” took over work](https://www.bbc.com/worklife/article/20230725-how-the-lazy-girl-job-took-over-work-tiktok)
+- [Stack Overflow Announces OverflowAI [video]](https://www.youtube.com/watch?v=DM9-cYyeaDg)
+- [Memfault &lpar;YC W19&rpar; Is Hiring an Embedded Linux Engineer](https://jobs.lever.co/memfault/5bcd5431-5d94-4a3c-a99a-950ffd85851b)
+- [How I test site speed changes using Chrome&#39;s local overrides &lpar;2021&rpar;](https://tryblackbird.com/blog/local-overrides)
+- [Venetian glass beads may be oldest European artifacts in North America &lpar;2021&rpar;](https://www.smithsonianmag.com/smart-news/tiny-blue-beads-european-artifact-north-america-old-180976966/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
