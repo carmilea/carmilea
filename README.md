@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance – The HTML first full stack web framework](https://enhance.dev/)
-- [Automakers Try to BS Their Way Past ‘Right to Repair’ Standoff in Massachusetts](https://www.techdirt.com/2023/07/27/__trashed-4/)
-- [Waymo puts the brakes on self-driving trucks program](https://techcrunch.com/2023/07/26/waymo-puts-the-brakes-on-self-driving-trucks-program/)
-- [OverflowAI](https://stackoverflow.blog/2023/07/27/announcing-overflowai/)
-- [Memfault &lpar;YC W19&rpar; Is Hiring an Embedded Linux Engineer](https://jobs.lever.co/memfault/5bcd5431-5d94-4a3c-a99a-950ffd85851b)
+- [Emotionally Numb: Expertise Dulls Consumer Experience](https://academic.oup.com/jcr/article/48/3/355/6171148)
+- [Google&#39;s browser security plan slammed as dangerous, terrible, DRM for websites](https://www.theregister.com/2023/07/27/google_web_environment_integrity/)
+- [Wavy walls use fewer bricks than a straight wall &lpar;2020&rpar;](https://twistedsifter.com/2020/06/how-wavy-crinkle-crankle-walls-use-less-bricks-than-straight-walls/)
+- [Enhance – HTML-first full stack web framework](https://enhance.dev/)
+- [Automakers try to scuttle Massachusetts ‘right to repair’ law](https://www.techdirt.com/2023/07/27/__trashed-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
