@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Faster Filesystem Access with Directfs](https://gvisor.dev/blog/2023/06/27/directfs/)
+- [Sinead O’Connor Condemned Church Abuse Early. America Didn’t Listen](https://www.nytimes.com/2023/07/27/nyregion/sinead-oconnor-childhood-abuse.html)
 - [Llama and ChatGPT Are Not Open-Source](https://spectrum.ieee.org/openai-not-open)
 - [ICML 2023 Outstanding Paper Awards](https://icml.cc/Conferences/2023/Awards)
 - [LeMUR: LLMs for Audio and Speech](https://www.assemblyai.com/blog/lemur/)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Founding Account Executive &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [Intel returns to profitability after two quarters of losses](https://www.cnbc.com/2023/07/27/intel-intc-earnings-report-q2-2023.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
