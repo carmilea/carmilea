@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find Scientific Literature](https://www.emilkirkegaard.com/p/how-to-find-scientific-literature)
 - [Implementing Fast Barriers for a Shared-Memory Cluster of 1024 RISC-V Cores](https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/)
 - [The moral character of cryptographic work &lpar;2015&rpar;](https://web.cs.ucdavis.edu/~rogaway/papers/moral.html)
 - [WebArena: A realistic web environment for building autonomous agents](https://webarena.dev/)
 - [Faster filesystem access with Directfs](https://gvisor.dev/blog/2023/06/27/directfs/)
+- [Ask HN: Is the market bad, or am I having the worst luck job hunting?](https://news.ycombinator.com/item?id=36901303)
 <!-- BLOG-POST-LIST:END -->
 
 ---
