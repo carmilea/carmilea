@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After Raising $235K, Abode Remains Committed to Taking on Adobe](https://petapixel.com/2023/07/26/after-raising-235k-abode-remains-committed-to-taking-on-adobe/)
+- [Finley &lpar;YC W21&rpar; Is Hiring to Rethink Capital Markets Infrastructure &lpar;US Remote&rpar;](https://www.finleycms.com/careers/)
+- [Apple cracking down on &#39;fingerprinting&#39; with new App Store API rules](https://www.engadget.com/apple-cracking-down-on-fingerprinting-with-new-app-store-api-rules-080007498.html)
+- [What is RT-2? Google DeepMind’s vision-language-action model for robotics](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/)
 - [VyOS From Scratch – Edition 1 &lpar;set up your own router&rpar;](https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/)
-- [Finding “Discs of Tron” on the Roadside](https://arcadeblogger.com/2023/07/22/environmental-discs-of-tron-roadside-pickup/)
-- [On the future of free long term support for Linux distributions](https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree)
-- [Implementing Fast Barriers for a Shared-Memory Cluster of 1024 RISC-V Cores](https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/)
+- [Flags for fchmodat&lpar;&rpar;](https://lwn.net/SubscriberLink/939217/6c6ec0264dcf28f7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
