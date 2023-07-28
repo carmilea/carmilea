@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After Raising $235K, Abode Remains Committed to Taking on Adobe](https://petapixel.com/2023/07/26/after-raising-235k-abode-remains-committed-to-taking-on-adobe/)
+- [Removal of Google from W3C over the Implementation of Web Environment Integrity](https://mastodon.social/@tolmasky/110780599992085798)
 - [VyOS From Scratch – Edition 1 &lpar;set up your own router&rpar;](https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/)
-- [Mindfulness-Based Programs Show Promise in Reducing Psychological Distress](https://www.nature.com/articles/s44220-023-00081-5)
 - [On the future of free long term support for Linux distributions](https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree)
 - [Implementing Fast Barriers for a Shared-Memory Cluster of 1024 RISC-V Cores](https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/)
-- [The moral character of cryptographic work &lpar;2015&rpar;](https://web.cs.ucdavis.edu/~rogaway/papers/moral.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
