@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sci-Hub Founder Receives EFF Award for Providing Access to Scientific Knowledge](https://torrentfreak.com/sci-hubs-alexandra-elbakyan-receives-eff-award-for-providing-access-to-scientific-knowledge-230728/)
-- [Tor’s shadowy reputation will only end if we all use it](https://www.engadget.com/tor-dark-web-privacy-secure-browser-anonymous-130048839.html)
-- [Finley &lpar;YC W21&rpar; Is Hiring to Rethink Capital Markets Infrastructure &lpar;US Remote&rpar;](https://www.finleycms.com/careers/)
-- [There Are at Least 10 Cities with Their Own Psychological Disorders](https://www.atlasobscura.com/articles/cities-with-psychological-syndromes-stockholm)
-- [Apple cracking down on &#39;fingerprinting&#39; with new App Store API rules](https://www.engadget.com/apple-cracking-down-on-fingerprinting-with-new-app-store-api-rules-080007498.html)
+- [Forget Solar Panels. Here Come Rain Panels](https://thedebrief.org/forget-solar-panels-here-come-rain-panels/)
+- [Systemd 254 released, deprecating sysvinit scripts](https://lwn.net/Articles/939511/)
+- [Worldcoin isn’t as bad as it sounds: It’s worse](https://blockworks.co/news/worldcoin-privacy-concerns)
+- [Walmart Didn’t Kill the Small Town, It Is the Small Town](https://www.discoursemagazine.com/culture-and-society/2023/07/24/walmart-didnt-kill-the-small-town-the-small-town-did/)
+- [Cecil Kelley criticality accident](https://en.wikipedia.org/wiki/Cecil_Kelley_criticality_accident)
 <!-- BLOG-POST-LIST:END -->
 
 ---
