@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The U.K. Government Is Close to Eroding Encryption Worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
+- [Ring is having a major outage](https://status.ring.com)
+- [SpaceX punched a hole in the ionosphere](https://spaceweatherarchive.com/2023/07/23/spacex-punched-a-hole-in-the-ionosphere/)
+- [Why no Roman industrial revolution?](https://rootsofprogress.org/why-no-roman-industrial-revolution)
+- [The U.K. government is close to eroding encryption worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=36913263)
-- [Wordward Draw](https://managore.itch.io/wordward-draw)
-- [Real-Time Monitoring of Aerosols Generated from Toilet Flushing](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.fis2019.po0192)
-- [The Fenland Black Oak Project](https://www.thefenlandblackoakproject.co.uk/our-story)
 <!-- BLOG-POST-LIST:END -->
 
 ---
