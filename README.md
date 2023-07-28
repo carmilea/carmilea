@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Most of the 100M people who signed up for Threads stopped using it](https://arstechnica.com/tech-policy/2023/07/zuck-says-threads-doing-better-than-expected-despite-losing-over-half-of-users/)
+- [Dual Use of Artificial Intelligence-powered Drug Discovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9544280/)
+- [Free prison phone calls boost family ties, rehabilitation](https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too)
 - [Play deprivation is a major cause of the teen mental health crisis](https://jonathanhaidt.substack.com/p/the-play-deficit)
-- [Threads users down by more than a half](https://www.bbc.co.uk/news/technology-66336058)
 - [“Web Environment Integrity” is an attack on the free Internet](https://www.fsf.org/blogs/community/web-environment-integrity-is-an-all-out-attack-on-the-free-internet)
 - [Skio &lpar;YC S20&rpar; is hiring – Subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
 <!-- BLOG-POST-LIST:END -->
