@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dark Side of A.I.: Understanding the Dangers of Deepfake Images](https://blog.theabhishek.dev/the-dark-side-of-ai-understanding-the-dangers-of-deepfake-images)
+- [VyOS From Scratch – Edition 1 &lpar;set up your own router&rpar;](https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/)
+- [Mindfulness-Based Programs Show Promise in Reducing Psychological Distress](https://www.nature.com/articles/s44220-023-00081-5)
+- [On the future of free long term support for Linux distributions](https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree)
 - [Implementing Fast Barriers for a Shared-Memory Cluster of 1024 RISC-V Cores](https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/)
 - [The moral character of cryptographic work &lpar;2015&rpar;](https://web.cs.ucdavis.edu/~rogaway/papers/moral.html)
-- [WebArena: A realistic web environment for building autonomous agents](https://webarena.dev/)
-- [Faster filesystem access with Directfs](https://gvisor.dev/blog/2023/06/27/directfs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
