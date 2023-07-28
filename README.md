@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Swine flu&#39; strain has passed from humans to swine ~400 times since 2009: study](https://medicalxpress.com/news/2023-07-swine-flu-strain-humans.html)
+- [The ‘Great Awokening’ Is Winding Down](https://musaalgharbi.com/2023/02/08/great-awokening-ending/)
 - [The moral character of cryptographic work &lpar;2015&rpar;](https://web.cs.ucdavis.edu/~rogaway/papers/moral.html)
+- [WebArena: A realistic web environment for building autonomous agents](https://webarena.dev/)
 - [Faster filesystem access with Directfs](https://gvisor.dev/blog/2023/06/27/directfs/)
-- [ICML 2023 Outstanding Paper Awards](https://icml.cc/Conferences/2023/Awards)
-- [LeMUR: LLMs for Audio and Speech](https://www.assemblyai.com/blog/lemur/)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Founding Account Executive &lpar;US Remote&rpar;](https://www.svix.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
