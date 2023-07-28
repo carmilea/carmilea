@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dual Use of Artificial Intelligence-powered Drug Discovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9544280/)
-- [Free prison phone calls boost family ties, rehabilitation](https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too)
-- [Play deprivation is a major cause of the teen mental health crisis](https://jonathanhaidt.substack.com/p/the-play-deficit)
-- [“Web Environment Integrity” is an attack on the free Internet](https://www.fsf.org/blogs/community/web-environment-integrity-is-an-all-out-attack-on-the-free-internet)
-- [Skio &lpar;YC S20&rpar; is hiring – Subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=36913263)
+- [Wordward Draw](https://managore.itch.io/wordward-draw)
+- [The Fenland Black Oak Project](https://www.thefenlandblackoakproject.co.uk/our-story)
+- [The Lonely Work of Moderating Hacker News &lpar;2019&rpar;](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news)
+- [Tremor – The React library to build dashboards fast](https://www.tremor.so/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
