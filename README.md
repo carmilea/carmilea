@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Forget Solar Panels. Here Come Rain Panels](https://thedebrief.org/forget-solar-panels-here-come-rain-panels/)
-- [Systemd 254 released, deprecating sysvinit scripts](https://lwn.net/Articles/939511/)
-- [Worldcoin isn’t as bad as it sounds: It’s worse](https://blockworks.co/news/worldcoin-privacy-concerns)
-- [Walmart Didn’t Kill the Small Town, It Is the Small Town](https://www.discoursemagazine.com/culture-and-society/2023/07/24/walmart-didnt-kill-the-small-town-the-small-town-did/)
-- [Cecil Kelley criticality accident](https://en.wikipedia.org/wiki/Cecil_Kelley_criticality_accident)
+- [Intel Accelerates AI Development with Reference Kits](https://cioinfluence.com/machine-learning/intel-accelerates-ai-development-with-reference-kits/)
+- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=36908574)
+- [Cap&#39;n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
+- [Flash Museum – explore more than 130k flash games and animations](https://flashmuseum.org/)
+- [Microsoft&#39;s AI shopping announcement contains hallucinations in the demo](https://www.perfectrec.com/posts/microsoft-ai-shopping-announcement-contains-hallucinations-in-the-demo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
