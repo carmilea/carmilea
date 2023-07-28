@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel Accelerates AI Development with Reference Kits](https://cioinfluence.com/machine-learning/intel-accelerates-ai-development-with-reference-kits/)
-- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=36908574)
-- [Cap&#39;n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
-- [Flash Museum – explore more than 130k flash games and animations](https://flashmuseum.org/)
-- [Microsoft&#39;s AI shopping announcement contains hallucinations in the demo](https://www.perfectrec.com/posts/microsoft-ai-shopping-announcement-contains-hallucinations-in-the-demo)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [An ultra-sensitive on-off switch helps axolotls regrow limbs](https://scopeblog.stanford.edu/2023/07/26/how-an-ultra-sensitive-on-off-switch-helps-axolotls-regrow-limbs/)
+- [Observable API Proposal](https://github.com/domfarolino/observable)
+- [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/)
+- [Why it&#39;s so important to figure out when a vital Atlantic current might collapse](https://text.npr.org/1190519762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
