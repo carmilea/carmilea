@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The U.K. Government Is Close to Eroding Encryption Worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=36913263)
 - [Wordward Draw](https://managore.itch.io/wordward-draw)
+- [Real-Time Monitoring of Aerosols Generated from Toilet Flushing](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.fis2019.po0192)
 - [The Fenland Black Oak Project](https://www.thefenlandblackoakproject.co.uk/our-story)
-- [The Lonely Work of Moderating Hacker News &lpar;2019&rpar;](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news)
-- [Tremor – The React library to build dashboards fast](https://www.tremor.so/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
