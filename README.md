@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyberdecks &lpar;2013&rpar;](https://blog.rfox.eu/en/Hardware/Cyberdecks.html)
+- [Germany&#39;s auto industry: suppliers&#39; confidence waning](https://www.dw.com/en/germanys-auto-industry-suppliers-confidence-waning/a-66368932)
+- [The Hacker&#39;s Dictionary](http://www.hackersdictionary.com/html/index.html)
+- [What Happened to Vivaldi Social?](https://thomasp.vivaldi.net/2023/07/28/what-happened-to-vivaldi-social/)
 - [US rejects Australia’s calls to end pursuit of WikiLeaks](https://www.theguardian.com/australia-news/2023/jul/29/julian-assange-us-rejects-australias-calls-to-free-wikileaks-founder-during-ausmin-talks)
-- [Instead of obtaining a warrant, the NSA would like to keep buying your data](https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole/)
-- [List of online activities to be made impossible by the UK Online Safety Bill](https://news.ycombinator.com/item?id=36919175)
-- [Japan’s population fell by 800k last year as demographic crisis accelerates](https://www.cnn.com/2023/07/27/asia/japan-population-drop-2022-intl-hnk/index.html)
-- [IRC is the only viable chat protocol](https://koshka.love/babel/irc-forever.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
