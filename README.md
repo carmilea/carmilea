@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Different Ways to Print Hello World in Assembler on a Raspberry Pi](https://github.com/ksaj/helloworld)
 - [Big Tobacco knew radioactive Po210 in cigarettes posed cancer risk, kept quiet](https://www.uclahealth.org/news/big-tobacco-knew-radioactive-particles-in-cigarettes)
 - [Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
+- [Water Temperatures Hit ‘Hot Tub’ Levels in the Florida Keys](https://www.smithsonianmag.com/smart-news/water-temperatures-hit-hot-tub-levels-in-the-florida-keys-180982610/)
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
-- [Meticulous &lpar;YC S21&rpar; is hiring #3 engineer to build future of testing](https://news.ycombinator.com/item?id=36924518)
-- [Show HN: Gogit – Just enough Git &lpar;in Go&rpar; to push itself to GitHub](https://benhoyt.com/writings/gogit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
