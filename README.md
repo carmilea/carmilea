@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ring is having a major outage](https://status.ring.com)
-- [SpaceX punched a hole in the ionosphere](https://spaceweatherarchive.com/2023/07/23/spacex-punched-a-hole-in-the-ionosphere/)
-- [Why no Roman industrial revolution?](https://rootsofprogress.org/why-no-roman-industrial-revolution)
-- [The U.K. government is close to eroding encryption worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=36913263)
+- [Google Employee Accuses WEI-Opponents of Being “Criminals”](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ux5h_kGO22g/m/0doc7unxAQAJ)
+- [RISC-V CPU formal specification F# edition](https://github.com/mrLSD/riscv-fs)
+- [Panic Among the Streamers](https://www.honest-broker.com/p/panic-among-the-streamers)
+- [Dream First Bank Assumes All of the Deposits of Heartland Tri-State Bank](https://www.fdic.gov/news/press-releases/2023/pr23058.html)
+- [No-GIL mode coming for Python](https://lwn.net/Articles/939568/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
