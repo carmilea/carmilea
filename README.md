@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Outdoor Air Quality Monitor](https://www.airgradient.com/open-air/)
+- [How fast should you accelerate your kid in math?](https://kidswholovemath.substack.com/p/how-fast-should-you-accelerate-your)
 - [US Army Field Manual on Leadership &lpar;1990&rpar; [pdf]](https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf)
 - [Freshpaint &lpar;YC S19&rpar; Is Hiring Engineers to Safeguard Health Data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 - [Pentagon hit by ‘critical compromise’ of US Air Force communications – report](https://www.theguardian.com/us-news/2023/jul/29/pentagon-us-air-force-critical-compromise)
-- [Ed Yong is leaving The Atlantic after 8 years and 750 stories](https://buttondown.email/edyong209/archive/the-eds-up-an-ending/)
-- [Researchers Discover New Vulnerability in Large Language Models](https://www.cmu.edu/news/stories/archives/2023/july/researchers-discover-new-vulnerability-in-large-language-models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
