@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer to build future of testing](https://news.ycombinator.com/item?id=36924518)
+- [Show HN: Gogit – Just enough Git &lpar;in Go&rpar; to push itself to GitHub](https://benhoyt.com/writings/gogit/)
+- [Police are not primarily crime fighters, according to the data](https://www.reuters.com/legal/government/police-are-not-primarily-crime-fighters-according-data-2022-11-02/)
+- [Musk’s X Corp sues Israel’s Bright Data for scraping data](https://www.timesofisrael.com/musks-x-corp-sues-israels-bright-data-for-illegally-scraping-data/)
 - [Psychopathic Tendencies Help Some People Succeed in Business](https://www.scientificamerican.com/article/psychopathic-tendencies-help-some-people-succeed-in-business/)
-- [&#39;Phantom&#39; A-bomb film &#39;Hiroshima,&#39; with 88,000 extras, set for July 30](https://mainichi.jp/english/articles/20230729/p2a/00m/0et/006000c)
-- [Counterterrorism internet surveillance is being retargeted at sex workers](https://theintercept.com/2023/07/29/skull-games-surveillance-sex-workers/)
-- [Open Source Outdoor Air Quality Monitor](https://www.airgradient.com/open-air/)
-- [US Army Field Manual on Leadership &lpar;1990&rpar; [pdf]](https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
