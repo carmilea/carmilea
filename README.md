@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [US rejects Australia’s calls to end pursuit of WikiLeaks](https://www.theguardian.com/australia-news/2023/jul/29/julian-assange-us-rejects-australias-calls-to-free-wikileaks-founder-during-ausmin-talks)
 - [Instead of obtaining a warrant, the NSA would like to keep buying your data](https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole/)
-- [Booking a Ryanair flight via an online travel agent might hold a nasty surprise](https://noyb.eu/en/booking-ryanair-flight-through-online-travel-agent-might-hold-nasty-surprise)
+- [List of online activities to be made impossible by the UK Online Safety Bill](https://news.ycombinator.com/item?id=36919175)
+- [Japan’s population fell by 800k last year as demographic crisis accelerates](https://www.cnn.com/2023/07/27/asia/japan-population-drop-2022-intl-hnk/index.html)
 - [IRC is the only viable chat protocol](https://koshka.love/babel/irc-forever.html)
-- [‘Something weird is going on’: Antarctic sea ice stays at historic lows](https://www.theguardian.com/world/2023/jul/29/something-weird-is-going-on-search-for-answers-as-antarctic-sea-ice-stays-at-historic-lows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
