@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is everything we eat associated with cancer? A systematic cookbook review &lpar;2013&rpar;](https://pubmed.ncbi.nlm.nih.gov/23193004/)
+- [Llama 32K Context Released by Together AI](https://together.ai/blog/llama-2-7b-32k)
 - [IBM Blue Lightning: World’s Fastest 386?](https://www.os2museum.com/wp/ibm-blue-lightning-worlds-fastest-386/comment-page-1/)
 - [Argonne National Lab is attempting to replicate LK-99](https://www.science.org/content/article/spectacular-superconductor-claim-making-news-here-s-why-experts-are-doubtful)
 - [LPython: Novel, Fast, Retargetable Python Compiler](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
-- [Plans Develop for High-Speed Rail in the PNW](https://southseattleemerald.com/2023/07/18/plans-develop-for-high-speed-rail-in-the-pnw/)
-- [RISC-V CPU formal specification F# edition](https://github.com/mrLSD/riscv-fs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
