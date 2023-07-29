@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How DNS Works &lpar;2015&rpar;](https://howdns.works/ep1/)
-- [How critical theory is radicalizing high school debate](https://www.slowboring.com/p/how-critical-theory-is-radicalizing)
-- [Enjoy alcohol, without the hangover](https://www.wsj.com/articles/synthetic-alcohol-no-hangover-511fc418)
-- [Tell HN: Digikey has 1822 Pi4 8GB and 3793 1GB in stock](https://news.ycombinator.com/item?id=36920036)
-- [Cyberdecks &lpar;2013&rpar;](https://blog.rfox.eu/en/Hardware/Cyberdecks.html)
+- [The World’s Largest Wind Turbine Has Been Switched On](https://www.iflscience.com/the-worlds-largest-wind-turbine-has-been-switched-on-70047)
+- [Apple’s Parental Controls Are Broken](https://www.wsj.com/articles/apples-parental-controls-are-broken-55a2aa52)
+- [CDC Finds Coronavirus and Other Infectious Agents in Unlicensed California Lab](https://news.yahoo.com/cdc-finds-coronavirus-other-infectious-154500690.html)
+- [HuggingFace Text Generation License No Longer Open-Source](https://github.com/huggingface/text-generation-inference/issues/726)
+- [Automatic Music Playlist Generation via Simulation-Based Reinforcement Learning](https://research.atspotify.com/2023/07/automatic-music-playlist-generation-via-simulation-based-reinforcement-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
