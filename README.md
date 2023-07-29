@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chromium Community Leader Calls WEI Critics “Bullies and Criminals”](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ux5h_kGO22g/m/XCAIgPtxAQAJ)
+- [IBM Blue Lightning: World’s Fastest 386?](https://www.os2museum.com/wp/ibm-blue-lightning-worlds-fastest-386/comment-page-1/)
+- [Argonne National Lab is attempting to replicate LK-99](https://www.science.org/content/article/spectacular-superconductor-claim-making-news-here-s-why-experts-are-doubtful)
+- [Plans Develop for High-Speed Rail in the PNW](https://southseattleemerald.com/2023/07/18/plans-develop-for-high-speed-rail-in-the-pnw/)
 - [RISC-V CPU formal specification F# edition](https://github.com/mrLSD/riscv-fs)
-- [Panic Among the Streamers](https://www.honest-broker.com/p/panic-among-the-streamers)
-- [Dream First Bank Assumes All of the Deposits of Heartland Tri-State Bank](https://www.fdic.gov/news/press-releases/2023/pr23058.html)
-- [No-GIL mode coming for Python](https://lwn.net/Articles/939568/)
-- [SpaceX punched a hole in the ionosphere](https://spaceweatherarchive.com/2023/07/23/spacex-punched-a-hole-in-the-ionosphere/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
