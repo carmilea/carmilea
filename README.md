@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Psychopathic Tendencies Help Some People Succeed in Business](https://www.scientificamerican.com/article/psychopathic-tendencies-help-some-people-succeed-in-business/)
+- [&#39;Phantom&#39; A-bomb film &#39;Hiroshima,&#39; with 88,000 extras, set for July 30](https://mainichi.jp/english/articles/20230729/p2a/00m/0et/006000c)
+- [Counterterrorism internet surveillance is being retargeted at sex workers](https://theintercept.com/2023/07/29/skull-games-surveillance-sex-workers/)
 - [Open Source Outdoor Air Quality Monitor](https://www.airgradient.com/open-air/)
-- [How fast should you accelerate your kid in math?](https://kidswholovemath.substack.com/p/how-fast-should-you-accelerate-your)
 - [US Army Field Manual on Leadership &lpar;1990&rpar; [pdf]](https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf)
-- [Freshpaint &lpar;YC S19&rpar; Is Hiring Engineers to Safeguard Health Data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [Pentagon hit by ‘critical compromise’ of US Air Force communications – report](https://www.theguardian.com/us-news/2023/jul/29/pentagon-us-air-force-critical-compromise)
 <!-- BLOG-POST-LIST:END -->
 
 ---
