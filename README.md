@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Booking a Ryanair flight via an online travel agent might hold a nasty surprise](https://noyb.eu/en/booking-ryanair-flight-through-online-travel-agent-might-hold-nasty-surprise)
+- [Apple demands app makers explain use of sensitive APIs](https://www.theregister.com/2023/07/29/apple_developer_api/)
+- [IRC Is the Only Viable Chat Protocol](https://koshka.love/babel/irc-forever.html)
 - [So you want to build your own open source chatbot](https://hacks.mozilla.org/2023/07/so-you-want-to-build-your-own-open-source-chatbot/)
-- [India’s diaspora is bigger and more influential than any in history](https://www.economist.com/international/2023/06/12/indias-diaspora-is-bigger-and-more-influential-than-any-in-history)
 - [Facebook users have less than a month to claim a piece of the $725M settlement](https://www.facebookuserprivacysettlement.com/)
-- [Hugging Face, GitHub and more unite to defend open source in EU AI legislation](https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/)
-- [U.S. Marine Corps Antenna Handbook &lpar;1999&rpar; [pdf]](https://www.marines.mil/Portals/1/MCRP%203-40.3C%20With%20Erratum%20z.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
