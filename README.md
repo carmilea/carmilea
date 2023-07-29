@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US rejects Australia’s calls to end pursuit of WikiLeaks](https://www.theguardian.com/australia-news/2023/jul/29/julian-assange-us-rejects-australias-calls-to-free-wikileaks-founder-during-ausmin-talks)
+- [Instead of obtaining a warrant, the NSA would like to keep buying your data](https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole/)
 - [Booking a Ryanair flight via an online travel agent might hold a nasty surprise](https://noyb.eu/en/booking-ryanair-flight-through-online-travel-agent-might-hold-nasty-surprise)
-- [Apple demands app makers explain use of sensitive APIs](https://www.theregister.com/2023/07/29/apple_developer_api/)
-- [IRC Is the Only Viable Chat Protocol](https://koshka.love/babel/irc-forever.html)
-- [So you want to build your own open source chatbot](https://hacks.mozilla.org/2023/07/so-you-want-to-build-your-own-open-source-chatbot/)
-- [Facebook users have less than a month to claim a piece of the $725M settlement](https://www.facebookuserprivacysettlement.com/)
+- [IRC is the only viable chat protocol](https://koshka.love/babel/irc-forever.html)
+- [‘Something weird is going on’: Antarctic sea ice stays at historic lows](https://www.theguardian.com/world/2023/jul/29/something-weird-is-going-on-search-for-answers-as-antarctic-sea-ice-stays-at-historic-lows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
