@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer to build future of testing](https://news.ycombinator.com/item?id=36924518)
+- [Big Tobacco knew radioactive Po210 in cigarettes posed cancer risk, kept quiet](https://www.uclahealth.org/news/big-tobacco-knew-radioactive-particles-in-cigarettes)
+- [Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
+- [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
+- [Meticulous &lpar;YC S21&rpar; is hiring #3 engineer to build future of testing](https://news.ycombinator.com/item?id=36924518)
 - [Show HN: Gogit – Just enough Git &lpar;in Go&rpar; to push itself to GitHub](https://benhoyt.com/writings/gogit/)
-- [Police are not primarily crime fighters, according to the data](https://www.reuters.com/legal/government/police-are-not-primarily-crime-fighters-according-data-2022-11-02/)
-- [Musk’s X Corp sues Israel’s Bright Data for scraping data](https://www.timesofisrael.com/musks-x-corp-sues-israels-bright-data-for-illegally-scraping-data/)
-- [Psychopathic Tendencies Help Some People Succeed in Business](https://www.scientificamerican.com/article/psychopathic-tendencies-help-some-people-succeed-in-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
