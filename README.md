@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Freshpaint &lpar;YC S19&rpar; Is Hiring Engineers to Safeguard Health Data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [Researchers Discover New Vulnerability in Large Language Models](https://www.cmu.edu/news/stories/archives/2023/july/researchers-discover-new-vulnerability-in-large-language-models)
 - [The World’s Largest Wind Turbine Has Been Switched On](https://www.iflscience.com/the-worlds-largest-wind-turbine-has-been-switched-on-70047)
-- [Apple’s Parental Controls Are Broken](https://www.wsj.com/articles/apples-parental-controls-are-broken-55a2aa52)
-- [CDC Finds Coronavirus and Other Infectious Agents in Unlicensed California Lab](https://news.yahoo.com/cdc-finds-coronavirus-other-infectious-154500690.html)
-- [HuggingFace Text Generation License No Longer Open-Source](https://github.com/huggingface/text-generation-inference/issues/726)
-- [Automatic Music Playlist Generation via Simulation-Based Reinforcement Learning](https://research.atspotify.com/2023/07/automatic-music-playlist-generation-via-simulation-based-reinforcement-learning/)
+- [“Gzip beats BERT?” Part 2: dataset issues, improved speed, and results](https://kenschutte.com/gzip-knn-paper2/)
+- [Samsung sees 95% drop in profits for a second consecutive quarter](https://www.androidauthority.com/samsung-profits-drop-by-95-percent-3351038/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
