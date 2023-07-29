@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hugging Face, GitHub and more unite to defend open source in EU AI legislation](https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/)
+- [U.S. Marine Corps Antenna Handbook &lpar;1999&rpar; [pdf]](https://www.marines.mil/Portals/1/MCRP%203-40.3C%20With%20Erratum%20z.pdf)
+- [Ingest OpenTelemetry metrics with Prometheus natively](https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/)
 - [Is everything we eat associated with cancer? A systematic cookbook review &lpar;2013&rpar;](https://pubmed.ncbi.nlm.nih.gov/23193004/)
-- [Llama 32K Context Released by Together AI](https://together.ai/blog/llama-2-7b-32k)
 - [IBM Blue Lightning: World’s Fastest 386?](https://www.os2museum.com/wp/ibm-blue-lightning-worlds-fastest-386/comment-page-1/)
-- [Argonne National Lab is attempting to replicate LK-99](https://www.science.org/content/article/spectacular-superconductor-claim-making-news-here-s-why-experts-are-doubtful)
-- [LPython: Novel, Fast, Retargetable Python Compiler](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
