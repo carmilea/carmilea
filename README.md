@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How DNS Works &lpar;2015&rpar;](https://howdns.works/ep1/)
+- [How critical theory is radicalizing high school debate](https://www.slowboring.com/p/how-critical-theory-is-radicalizing)
+- [Enjoy alcohol, without the hangover](https://www.wsj.com/articles/synthetic-alcohol-no-hangover-511fc418)
+- [Tell HN: Digikey has 1822 Pi4 8GB and 3793 1GB in stock](https://news.ycombinator.com/item?id=36920036)
 - [Cyberdecks &lpar;2013&rpar;](https://blog.rfox.eu/en/Hardware/Cyberdecks.html)
-- [Germany&#39;s auto industry: suppliers&#39; confidence waning](https://www.dw.com/en/germanys-auto-industry-suppliers-confidence-waning/a-66368932)
-- [The Hacker&#39;s Dictionary](http://www.hackersdictionary.com/html/index.html)
-- [What Happened to Vivaldi Social?](https://thomasp.vivaldi.net/2023/07/28/what-happened-to-vivaldi-social/)
-- [US rejects Australia’s calls to end pursuit of WikiLeaks](https://www.theguardian.com/australia-news/2023/jul/29/julian-assange-us-rejects-australias-calls-to-free-wikileaks-founder-during-ausmin-talks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
