@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emacs 29.1 Released](https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/)
 - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
+- [“We are not cheating” &lpar;YH Kwon superconductor comments&rpar;](https://twitter.com/8teAPi/status/1685294623449874432)
 - [How the Rich Reap Huge Tax Breaks From Private Nonprofits](https://www.propublica.org/article/how-private-nonprofits-ultrawealthy-tax-deductions-museums-foundation-art)
-- [Scientists may have found mechanism behind cognitive decline in aging](https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging)
-- [PlayHT &lpar;YC W23&rpar; Is Hiring ML Engineers &lpar;LLMs, Generative AI&rpar;](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
-- [Fighting for the open web [image]](https://www.davidrevoy.com/article982/fighting-for-the-open-web)
+- [Chicago95 – Windows 95 Theme for Linux](https://github.com/grassmunk/Chicago95)
 <!-- BLOG-POST-LIST:END -->
 
 ---
