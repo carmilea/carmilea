@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Emacs 29.1 Released](https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/)
+- [Ask HN: Room temperature superconductor: what to expect?](https://news.ycombinator.com/item?id=36930707)
+- [New insights into the origin of the Indo-European languages](https://www.mpg.de/20666229/0725-evan-origin-of-the-indo-european-languages-150495-x)
+- [Emacs 29.1](https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/)
 - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
-- [“We are not cheating” &lpar;YH Kwon superconductor comments&rpar;](https://twitter.com/8teAPi/status/1685294623449874432)
 - [How the Rich Reap Huge Tax Breaks From Private Nonprofits](https://www.propublica.org/article/how-private-nonprofits-ultrawealthy-tax-deductions-museums-foundation-art)
-- [Chicago95 – Windows 95 Theme for Linux](https://github.com/grassmunk/Chicago95)
 <!-- BLOG-POST-LIST:END -->
 
 ---
