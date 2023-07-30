@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GNU Boot sent a cease and desist to Libreboot](https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email)
+- [Snowflake](https://snowflake.torproject.org/)
 - [Apple Pencils don’t draw straight on replaced iPad screens](https://arstechnica.com/gadgets/2023/07/apple-pencils-cant-draw-straight-on-third-party-replacement-ipad-screens/)
 - [ASML EUV Lithography Machine Could Keep Moore’s Law on Track](https://spectrum.ieee.org/high-na-euv)
 - [Button Pushes You](https://despens.systems/2022/06/button-pushes-you/)
-- [Room Temperature Superconductor Drama and Hope](https://twitter.com/8teAPi/status/1684385895565365248)
-- [Ways to print hello world in assembler on a Raspberry Pi](https://github.com/ksaj/helloworld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
