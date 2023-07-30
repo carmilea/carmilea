@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI Data Flow 2023](https://troz.net/post/2023/swiftui-data-flow-2023/)
+- [Regular use of Vitamin D supplement is associated with fewer melanoma cases](https://pubmed.ncbi.nlm.nih.gov/36580363/)
+- [HFS Origins: The Turbo File System &lpar;2017&rpar;](https://macgui.com/news/article.php?t=443)
 - [Documentation as Code for Cloud Using PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
-- [Show HN: WordPress, Ghost alternative at $29/Year](https://esyblog.com)
-- [The death of privacy front ends?](https://tux.pizza/posts/service2/)
-- [Logging in Ruby: &lpar;Almost&rpar; Everything You Need to Know](https://www.akshaykhot.com/logging-in-ruby/)
-- [You Are Atlas, You Hold Up the Sky](https://youareatlas.com/)
+- [What&#39;s up, Python? The GIL removed, a new compiler, optparse deprecated](https://www.bitecode.dev/p/whats-up-python-the-gil-removed-a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
