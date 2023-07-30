@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PlayHT &lpar;YC W23&rpar; Is Hiring ML Engineers &lpar;LLMs, Generative AI&rpar;](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
-- [Why I use the D programming language for scripting](https://opensource.com/article/21/1/d-scripting)
+- [Fighting for the Open Web [image]](https://www.davidrevoy.com/article982/fighting-for-the-open-web)
+- [Why I use the D programming language for scripting &lpar;2021&rpar;](https://opensource.com/article/21/1/d-scripting)
+- [What I Would Do If I Ran Tarsnap](https://www.kalzumeus.com/2014/04/03/fantasy-tarsnap/)
 - [Comma 3X](https://www.comma.ai/)
-- [Microbially produced protein that is much sweeter than sugar](https://www.nature.com/articles/s41587-023-01865-x)
-- [One in five Texans lives in a floodplain, state’s first-ever analysis shows](https://www.texastribune.org/2023/07/28/texas-floodplain-water-development-board-flood-plan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
