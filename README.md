@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Comma.ai Launches Comma 3X](https://www.comma.ai/)
+- [PlayHT &lpar;YC W23&rpar; Is Hiring ML Engineers &lpar;LLMs, Generative AI&rpar;](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
+- [Why I use the D programming language for scripting](https://opensource.com/article/21/1/d-scripting)
+- [Comma 3X](https://www.comma.ai/)
 - [Microbially produced protein that is much sweeter than sugar](https://www.nature.com/articles/s41587-023-01865-x)
 - [One in five Texans lives in a floodplain, state’s first-ever analysis shows](https://www.texastribune.org/2023/07/28/texas-floodplain-water-development-board-flood-plan/)
-- [Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
-- [Free database of 4,000+ AI tools](https://gpte.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
