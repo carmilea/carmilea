@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to APIs](https://zapier.com/resources/guides/apis)
+- [I feel hopeless, rejected, and a burden on society-one week of empathy training](https://shkspr.mobi/blog/2019/07/i-feel-hopeless-rejected-and-a-burden-on-society-one-week-of-empathy-training/)
+- [The Secretive World of Penile Enlargement](https://www.propublica.org/article/penis-enlargement-enhancement-procedures-implants)
+- [Worldcoin: A solution in search of its problem](https://newsletter.mollywhite.net/p/worldcoin-a-solution-in-search-of)
 - [AMD Ryzen 8000 Strix Point APUs Utilize 12-Core Zen 5 and Zen 5C Hybrid Config](https://wccftech.com/amd-ryzen-8000-strix-point-apus-utilize-12-core-zen-5-zen-5c-hybrid-config-strix-halo-with-16-core-chiplet-design/)
-- [Uh, guys, we should think about spending more on defense in the US](https://www.noahpinion.blog/p/uh-guys-we-really-should-think-about)
-- [The Long History of Nobody Wants to Work Anymore](https://mstdn.ca/@paulisci/110798058470040619)
-- [A dive into the AMD driver workflow](https://geohot.github.io//blog/jekyll/update/2023/06/07/a-dive-into-amds-drivers.html)
-- [Ask HN: Room temperature superconductor: what to expect?](https://news.ycombinator.com/item?id=36930707)
 <!-- BLOG-POST-LIST:END -->
 
 ---
