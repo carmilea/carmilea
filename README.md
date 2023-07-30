@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reasons Not to Be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
+- [The Reluctant Sysadmin&#39;s Guide to Securing a Linux Server](https://pboyd.io/posts/securing-a-linux-vm/)
+- [Workarounds for C11 _Generic&lpar;&rpar;](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/)
 - [Mutable.ai &lpar;YC W22&rpar; Is Hiring Engineers](https://www.ycombinator.com/companies/mutable-ai/jobs)
-- [We bailed out the banks but we’re not prepared to bail out the planet](https://www.theguardian.com/business/2023/jul/30/we-bailed-out-the-banks-prepared-planet-state-economy-sustainable)
-- [The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
-- [Musl 1.2.4 adds TCP DNS fallback](https://www.openwall.com/lists/musl/2023/05/02/1)
-- [Monte Carlo Long-Range Interacting System Simulations](https://www.uni-leipzig.de/en/newsdetail/artikel/breakthrough-in-monte-carlo-computer-simulations-2023-07-26)
+- [Richard Feynman&#39;s 1964 Messenger Lectures at Cornell University](https://www.feynmanlectures.caltech.edu/messenger.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
