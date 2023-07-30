@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [So sweet, no spike: microbially produced protein 3k times sweeter than sugar](https://www.nature.com/articles/s41587-023-01865-x)
+- [Comma.ai Launches Comma 3X](https://www.comma.ai/)
+- [Microbially produced protein that is much sweeter than sugar](https://www.nature.com/articles/s41587-023-01865-x)
+- [One in five Texans lives in a floodplain, state’s first-ever analysis shows](https://www.texastribune.org/2023/07/28/texas-floodplain-water-development-board-flood-plan/)
 - [Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
 - [Free database of 4,000+ AI tools](https://gpte.ai/)
-- [Unsafe Deserialization Vulnerability in many Minecraft mods](https://github.com/dogboy21/serializationisbad)
-- [The Problem of Excess Genius, by David Banks &lpar;1997&rpar;](https://www.visakanv.com/archives/2021/02/14/the-problem-of-excess-genius-by-david-banks-1997/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
