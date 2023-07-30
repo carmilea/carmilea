@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to APIs](https://zapier.com/resources/guides/apis)
-- [I feel hopeless, rejected, and a burden on society-one week of empathy training](https://shkspr.mobi/blog/2019/07/i-feel-hopeless-rejected-and-a-burden-on-society-one-week-of-empathy-training/)
-- [The Secretive World of Penile Enlargement](https://www.propublica.org/article/penis-enlargement-enhancement-procedures-implants)
-- [Worldcoin: A solution in search of its problem](https://newsletter.mollywhite.net/p/worldcoin-a-solution-in-search-of)
-- [AMD Ryzen 8000 Strix Point APUs Utilize 12-Core Zen 5 and Zen 5C Hybrid Config](https://wccftech.com/amd-ryzen-8000-strix-point-apus-utilize-12-core-zen-5-zen-5c-hybrid-config-strix-halo-with-16-core-chiplet-design/)
+- [Mutable.ai &lpar;YC W22&rpar; Is Hiring Engineers](https://www.ycombinator.com/companies/mutable-ai/jobs)
+- [We bailed out the banks but we’re not prepared to bail out the planet](https://www.theguardian.com/business/2023/jul/30/we-bailed-out-the-banks-prepared-planet-state-economy-sustainable)
+- [The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
+- [Musl 1.2.4 adds TCP DNS fallback](https://www.openwall.com/lists/musl/2023/05/02/1)
+- [Monte Carlo Long-Range Interacting System Simulations](https://www.uni-leipzig.de/en/newsdetail/artikel/breakthrough-in-monte-carlo-computer-simulations-2023-07-26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
