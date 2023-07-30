@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Different Ways to Print Hello World in Assembler on a Raspberry Pi](https://github.com/ksaj/helloworld)
-- [Big Tobacco knew radioactive Po210 in cigarettes posed cancer risk, kept quiet](https://www.uclahealth.org/news/big-tobacco-knew-radioactive-particles-in-cigarettes)
-- [Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
-- [Water Temperatures Hit ‘Hot Tub’ Levels in the Florida Keys](https://www.smithsonianmag.com/smart-news/water-temperatures-hit-hot-tub-levels-in-the-florida-keys-180982610/)
-- [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
+- [Apple Pencils don’t draw straight on replaced iPad screens](https://arstechnica.com/gadgets/2023/07/apple-pencils-cant-draw-straight-on-third-party-replacement-ipad-screens/)
+- [ASML EUV Lithography Machine Could Keep Moore’s Law on Track](https://spectrum.ieee.org/high-na-euv)
+- [Button Pushes You](https://despens.systems/2022/06/button-pushes-you/)
+- [Room Temperature Superconductor Drama and Hope](https://twitter.com/8teAPi/status/1684385895565365248)
+- [Ways to print hello world in assembler on a Raspberry Pi](https://github.com/ksaj/helloworld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
