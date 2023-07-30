@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rising evidence that leprosy has become endemic in Southeastern United States](https://wwwnc.cdc.gov/eid/article/29/8/22-0367_article)
+- [Microbial Odor Profile of Polyester and Cotton Clothes After a Fitness Session](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4249026/)
 - [The Right to Lie and Google’s “Web Environment Integrity”](https://rants.org/2023/07/the-right-to-lie-and-google-wei/)
-- [We Finally Know Why the TSA Is Cracking Down on Clear at Airport Security](https://viewfromthewing.com/why-finally-know-why-the-tsa-is-cracking-down-on-clear-at-airport-security/)
 - [Regular use of Vitamin D supplement is associated with fewer melanoma cases](https://pubmed.ncbi.nlm.nih.gov/36580363/)
 - [HFS Origins: The Turbo File System &lpar;2017&rpar;](https://macgui.com/news/article.php?t=443)
+- [Documentation as Code for Cloud Using PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
