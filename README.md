@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD Ryzen 8000 Strix Point APUs Utilize 12-Core Zen 5 and Zen 5C Hybrid Config](https://wccftech.com/amd-ryzen-8000-strix-point-apus-utilize-12-core-zen-5-zen-5c-hybrid-config-strix-halo-with-16-core-chiplet-design/)
+- [Uh, guys, we should think about spending more on defense in the US](https://www.noahpinion.blog/p/uh-guys-we-really-should-think-about)
+- [The Long History of Nobody Wants to Work Anymore](https://mstdn.ca/@paulisci/110798058470040619)
+- [A dive into the AMD driver workflow](https://geohot.github.io//blog/jekyll/update/2023/06/07/a-dive-into-amds-drivers.html)
 - [Ask HN: Room temperature superconductor: what to expect?](https://news.ycombinator.com/item?id=36930707)
-- [New insights into the origin of the Indo-European languages](https://www.mpg.de/20666229/0725-evan-origin-of-the-indo-european-languages-150495-x)
-- [Emacs 29.1](https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/)
-- [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
-- [How the Rich Reap Huge Tax Breaks From Private Nonprofits](https://www.propublica.org/article/how-private-nonprofits-ultrawealthy-tax-deductions-museums-foundation-art)
 <!-- BLOG-POST-LIST:END -->
 
 ---
