@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Documentation as Code for Cloud Using PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
+- [Show HN: WordPress, Ghost alternative at $29/Year](https://esyblog.com)
+- [The death of privacy front ends?](https://tux.pizza/posts/service2/)
+- [Logging in Ruby: &lpar;Almost&rpar; Everything You Need to Know](https://www.akshaykhot.com/logging-in-ruby/)
 - [You Are Atlas, You Hold Up the Sky](https://youareatlas.com/)
-- [Reasons Not to Be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
-- [The Reluctant Sysadmin&#39;s Guide to Securing a Linux Server](https://pboyd.io/posts/securing-a-linux-vm/)
-- [Linux Air Combat: free, lightweight and open-source combat flight simulator](https://askmisterwizard.com/2019/LinuxAirCombat/LinuxAirCombat.htm)
-- [Show HN: San Francisco Compute – 512 H100s at &lt;$2/hr for research and startups](https://sfcompute.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
