@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Problem of Excess Genius, by David Banks &lpar;1997&rpar;](https://www.visakanv.com/archives/2021/02/14/the-problem-of-excess-genius-by-david-banks-1997/)
+- [Korea Superconductor Papers Published ‘Without Consent’ – Yonhap](https://www.asiafinancial.com/korea-superconductor-papers-published-without-consent-yonhap)
 - [GNU Boot sent a cease and desist to Libreboot](https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email)
 - [Snowflake](https://snowflake.torproject.org/)
 - [Apple Pencils don’t draw straight on replaced iPad screens](https://arstechnica.com/gadgets/2023/07/apple-pencils-cant-draw-straight-on-third-party-replacement-ipad-screens/)
-- [ASML EUV Lithography Machine Could Keep Moore’s Law on Track](https://spectrum.ieee.org/high-na-euv)
-- [Button Pushes You](https://despens.systems/2022/06/button-pushes-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
