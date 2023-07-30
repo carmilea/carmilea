@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Are Atlas, You Hold Up the Sky](https://youareatlas.com/)
 - [Reasons Not to Be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
 - [The Reluctant Sysadmin&#39;s Guide to Securing a Linux Server](https://pboyd.io/posts/securing-a-linux-vm/)
-- [Workarounds for C11 _Generic&lpar;&rpar;](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/)
-- [Mutable.ai &lpar;YC W22&rpar; Is Hiring Engineers](https://www.ycombinator.com/companies/mutable-ai/jobs)
-- [Richard Feynman&#39;s 1964 Messenger Lectures at Cornell University](https://www.feynmanlectures.caltech.edu/messenger.html)
+- [Linux Air Combat: free, lightweight and open-source combat flight simulator](https://askmisterwizard.com/2019/LinuxAirCombat/LinuxAirCombat.htm)
+- [Show HN: San Francisco Compute – 512 H100s at &lt;$2/hr for research and startups](https://sfcompute.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
