@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists May Have Found Mechanism Behind Cognitive Decline in Aging](https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging)
+- [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
+- [How the Rich Reap Huge Tax Breaks From Private Nonprofits](https://www.propublica.org/article/how-private-nonprofits-ultrawealthy-tax-deductions-museums-foundation-art)
+- [Scientists may have found mechanism behind cognitive decline in aging](https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging)
 - [PlayHT &lpar;YC W23&rpar; Is Hiring ML Engineers &lpar;LLMs, Generative AI&rpar;](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
-- [Fighting for the Open Web [image]](https://www.davidrevoy.com/article982/fighting-for-the-open-web)
-- [Why I use the D programming language for scripting &lpar;2021&rpar;](https://opensource.com/article/21/1/d-scripting)
-- [What I Would Do If I Ran Tarsnap](https://www.kalzumeus.com/2014/04/03/fantasy-tarsnap/)
+- [Fighting for the open web [image]](https://www.davidrevoy.com/article982/fighting-for-the-open-web)
 <!-- BLOG-POST-LIST:END -->
 
 ---
