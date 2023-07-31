@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you monitor your systemd services?](https://news.ycombinator.com/item?id=36944388)
-- [Free and open source software projects are in transition](https://www.baldurbjarnason.com/2023/the-floss-transition/)
-- [The strange way airlines are actually central banks &lpar;2020&rpar;](https://abroaden.substack.com/p/the-strange-way-airlines-are-actually)
-- [BBC on Mastodon: experimenting with distributed and decentralised social media](https://www.bbc.co.uk/rd/blog/2023-07-mastodon-distributed-decentralised-fediverse-activitypub)
-- [Battery-electric “Infinity Train” will charge itself using gravity &lpar;2022&rpar;](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
+- [Paul Reubens dead: Pee-wee Herman actor was 70](https://nypost.com/2023/07/31/paul-reubens-dead-pee-wee-herman-actor-was-70/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Building Nikola Tesla&#39;s Bladeless Turbine [video]](https://www.youtube.com/watch?v=Tuzh9mHvzkk)
+- [Show HN: File distribution over DNS: &lpar;ab&rpar;using DNS as a CDN](https://eighty-twenty.org/2023/07/31/dns-as-a-cdn)
+- [A repository of “BASIC Computer Games” code in modern languages](https://github.com/coding-horror/basic-computer-games)
 <!-- BLOG-POST-LIST:END -->
 
 ---
