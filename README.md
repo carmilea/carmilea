@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SEC asked Coinbase to halt trading for everything except Bitcoin &lpar;FT&rpar;](https://www.ft.com/content/1f873dd5-df8f-4cfc-bb21-ef83ed11fb4d)
+- [Show HN: LearnLingo – Converse with an AI-powered language tutor](https://www.learnlingo.dev)
+- [SEC asked Coinbase to halt trading in everything except bitcoin, CEO says](https://www.ft.com/content/1f873dd5-df8f-4cfc-bb21-ef83ed11fb4d)
 - [AI and the Frontier Paradox](https://www.sequoiacap.com/article/ai-paradox-perspective/)
 - [Conduit: Simple, fast and reliable chat server powered by Matrix](https://conduit.rs/)
 - [The Screwed-O-Meter](https://rachelbythebay.com/fun/som/)
-- [Mac Mouse Fix](https://mousefix.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
