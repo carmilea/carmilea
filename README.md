@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy 30th FreeBSD Why FreeBSD Open Source Project Has Endured](https://aster.cloud/2023/06/16/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured/)
-- [Compilation of Known LK-99 Replication Attempt Claims](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-15)
+- [Battery-electric “Infinity Train” will charge itself using gravity](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
+- [Investors Are Happy to Pay Premium for Tech, but Not for AI](https://www.bloomberg.com/news/articles/2023-07-31/investors-are-happy-to-pay-premium-for-tech-but-not-for-ai)
+- [x86 is dead, long live x86](https://engineering.mercari.com/en/blog/entry/20230731-x86-is-dead-long-live-x86/)
+- [Happy 30th FreeBSD: Why FreeBSD open source project has endured](https://aster.cloud/2023/06/16/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured/)
 - [AWS: IPv4 addresses cost too much, so you’re going to pay](https://www.theregister.com/2023/07/31/aws_says_ipv4_addresses_cost/)
-- [BHP says battery electric cheaper than hydrogen as it dumps diesel](https://thedriven.io/2023/06/23/bhp-says-battery-electric-cheaper-than-hydrogen-as-it-dumps-diesel-for-haul-trucks/)
-- [A fridge from 70 years ago has better features than the fridge I own now](https://mstdn.social/@Pandamoanimum/110808340828034444)
 <!-- BLOG-POST-LIST:END -->
 
 ---
