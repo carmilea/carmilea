@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [So, you want to deploy on the edge?](https://zknill.io/posts/edge-database/)
 - [Online Safety Bill – Some futures](https://www.regulate.tech/online-safety-bill-some-futures-25th-july-2023/)
-- [The Future of the Web Is VNC](https://shkspr.mobi/blog/2023/07/the-future-of-the-web-is-vnc/)
 - [Is anyone using PyPy for real work?](https://news.ycombinator.com/item?id=36940871)
 - [NASA mistakenly severs communication to Voyager 2](https://www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/)
-- [Microsoft is trying too hard with Edge](https://www.xda-developers.com/microsoft-trying-too-hard-edge/)
+- [Curl Command Line Variables](https://daniel.haxx.se/blog/2023/07/31/introducing-curl-command-line-variables/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
