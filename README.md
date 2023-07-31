@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microbial Odor Profile of Polyester and Cotton Clothes After a Fitness Session](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4249026/)
-- [The Right to Lie and Google’s “Web Environment Integrity”](https://rants.org/2023/07/the-right-to-lie-and-google-wei/)
-- [Regular use of Vitamin D supplement is associated with fewer melanoma cases](https://pubmed.ncbi.nlm.nih.gov/36580363/)
-- [HFS Origins: The Turbo File System &lpar;2017&rpar;](https://macgui.com/news/article.php?t=443)
-- [Documentation as Code for Cloud Using PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
+- [Conduit: Simple, fast and reliable chat server powered by matrix](https://conduit.rs/)
+- [The Screwed-O-Meter](https://rachelbythebay.com/fun/som/)
+- [Mac Mouse Fix: Do the things you do on a trackpad. Without a trackpad](https://mousefix.org/)
+- [AI search of Neanderthal proteins resurrects ‘extinct’ antibiotics](https://www.nature.com/articles/d41586-023-02403-0)
+- [CloudFlare’s last Warrant Canary was published over a year ago](https://www.cloudflare.com/learning/privacy/what-is-warrant-canary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
