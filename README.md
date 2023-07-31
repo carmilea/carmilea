@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Glass Health &lpar;YC W23&rpar; is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36948763)
+- [Chunking 2M files a day for code search using syntax trees](https://docs.sweep.dev/blogs/chunking-2m-files)
+- [The Fall of Stack Overflow, Explained](https://newsletter.devmoh.co/p/the-fall-of-stack-overflow-explained)
+- [Icanhazip: A simple IP address tool survived a deluge of users &lpar;2021&rpar;](https://blog.apnic.net/2021/06/17/how-a-small-free-ip-tool-survived/)
 - [Are the “missing baryons” simply too hot to see?](https://bigthink.com/starts-with-a-bang/missing-baryons-too-hot/)
-- [First new US nuclear reactor in decades enters commercial operation in Georgia](https://apnews.com/article/georgia-power-nuclear-reactor-vogtle-9555e3f9169f2d58161056feaa81a425)
-- [Plans to plant billions of trees threatened by undersupply of seedlings](https://www.uvm.edu/news/story/plans-plant-billions-trees-threatened-massive-undersupply-seedlings)
-- [Marijuana addiction: those struggling often face skepticism](https://www.washingtonpost.com/health/2023/07/31/marijuana-addiction-legal-recreational-sales/)
-- [Quick thoughts on research](https://michaelnotebook.com/qtr/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
