@@ -54,8 +54,8 @@
 - [Conduit: Simple, fast and reliable chat server powered by matrix](https://conduit.rs/)
 - [The Screwed-O-Meter](https://rachelbythebay.com/fun/som/)
 - [Mac Mouse Fix: Do the things you do on a trackpad. Without a trackpad](https://mousefix.org/)
+- [Free Public WiFi](https://computer.rip/2023-07-29-Free-Public-WiFi.html)
 - [AI search of Neanderthal proteins resurrects ‘extinct’ antibiotics](https://www.nature.com/articles/d41586-023-02403-0)
-- [CloudFlare’s last Warrant Canary was published over a year ago](https://www.cloudflare.com/learning/privacy/what-is-warrant-canary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
