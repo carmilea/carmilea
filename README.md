@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We found a genius way to revive a poisoned river [video]](https://www.youtube.com/watch?v=ZgItGjKu4mQ)
+- [Meta Forced to Reveal Anonymous Facebook User&#39;s Identity](https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity/)
+- [LK-99: The Live Online Race for a Room-Temperature Superconductor](https://eirifu.wordpress.com/2023/07/30/lk-99-superconductor-summary/#sbtable)
+- [OpenTTD 13.4 Released](https://www.openttd.org/news/2023/07/29/openttd-13-4)
 - [Show HN: LearnLingo – Converse with an AI-powered language tutor](https://www.learnlingo.dev)
-- [SEC asked Coinbase to halt trading in everything except bitcoin, CEO says](https://www.ft.com/content/1f873dd5-df8f-4cfc-bb21-ef83ed11fb4d)
-- [AI and the Frontier Paradox](https://www.sequoiacap.com/article/ai-paradox-perspective/)
-- [Conduit: Simple, fast and reliable chat server powered by Matrix](https://conduit.rs/)
-- [The Screwed-O-Meter &lpar;2013&rpar;](https://rachelbythebay.com/fun/som/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
