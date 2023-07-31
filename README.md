@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Help the Library of Congress Create Games That Improve Public&#39;s Civics Knowledge](https://blogs.loc.gov/law/2023/06/help-the-library-of-congress-create-video-games-that-improve-public-knowledge-of-civics/)
+- [Retrieving your browsing history through a CAPTCHA](https://varun.ch/history)
 - [Glass Health &lpar;YC W23&rpar; is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36948763)
 - [Chunking 2M files a day for code search using syntax trees](https://docs.sweep.dev/blogs/chunking-2m-files)
-- [The fall of Stack Overflow, explained?](https://newsletter.devmoh.co/p/the-fall-of-stack-overflow-explained)
 - [Icanhazip: A simple IP address tool survived a deluge of users &lpar;2021&rpar;](https://blog.apnic.net/2021/06/17/how-a-small-free-ip-tool-survived/)
-- [First new US nuclear reactor in decades enters commercial operation in Georgia](https://apnews.com/article/georgia-power-nuclear-reactor-vogtle-9555e3f9169f2d58161056feaa81a425)
 <!-- BLOG-POST-LIST:END -->
 
 ---
