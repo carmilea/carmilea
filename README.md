@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Battery-electric “Infinity Train” will charge itself using gravity](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
-- [Investors Are Happy to Pay Premium for Tech, but Not for AI](https://www.bloomberg.com/news/articles/2023-07-31/investors-are-happy-to-pay-premium-for-tech-but-not-for-ai)
-- [x86 is dead, long live x86](https://engineering.mercari.com/en/blog/entry/20230731-x86-is-dead-long-live-x86/)
-- [Happy 30th FreeBSD: Why FreeBSD open source project has endured](https://aster.cloud/2023/06/16/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured/)
-- [AWS: IPv4 addresses cost too much, so you’re going to pay](https://www.theregister.com/2023/07/31/aws_says_ipv4_addresses_cost/)
+- [Ask HN: How do you monitor your systemd services?](https://news.ycombinator.com/item?id=36944388)
+- [Free and open source software projects are in transition](https://www.baldurbjarnason.com/2023/the-floss-transition/)
+- [The strange way airlines are actually central banks &lpar;2020&rpar;](https://abroaden.substack.com/p/the-strange-way-airlines-are-actually)
+- [BBC on Mastodon: experimenting with distributed and decentralised social media](https://www.bbc.co.uk/rd/blog/2023-07-mastodon-distributed-decentralised-fediverse-activitypub)
+- [Battery-electric “Infinity Train” will charge itself using gravity &lpar;2022&rpar;](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
