@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [So, you want to deploy on the edge?](https://zknill.io/posts/edge-database/)
-- [Online Safety Bill – Some futures](https://www.regulate.tech/online-safety-bill-some-futures-25th-july-2023/)
-- [Is anyone using PyPy for real work?](https://news.ycombinator.com/item?id=36940871)
-- [NASA mistakenly severs communication to Voyager 2](https://www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/)
-- [Curl Command Line Variables](https://daniel.haxx.se/blog/2023/07/31/introducing-curl-command-line-variables/)
+- [Happy 30th FreeBSD Why FreeBSD Open Source Project Has Endured](https://aster.cloud/2023/06/16/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured/)
+- [Compilation of Known LK-99 Replication Attempt Claims](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-15)
+- [AWS: IPv4 addresses cost too much, so you’re going to pay](https://www.theregister.com/2023/07/31/aws_says_ipv4_addresses_cost/)
+- [BHP says battery electric cheaper than hydrogen as it dumps diesel](https://thedriven.io/2023/06/23/bhp-says-battery-electric-cheaper-than-hydrogen-as-it-dumps-diesel-for-haul-trucks/)
+- [A fridge from 70 years ago has better features than the fridge I own now](https://mstdn.social/@Pandamoanimum/110808340828034444)
 <!-- BLOG-POST-LIST:END -->
 
 ---
