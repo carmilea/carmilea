@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI wil crush Sarah Silverman](https://blog.jovono.com/openai-will-crush-sarah-silverman-cf65e2cb3940?gi=55e2bdea26f2)
-- [Pee-wee Herman has died](https://variety.com/2023/film/news/paul-reubens-dead-pee-wee-herman-1235683504/)
+- [Plans to plant billions of trees threatened by undersupply of seedlings](https://www.uvm.edu/news/story/plans-plant-billions-trees-threatened-massive-undersupply-seedlings)
 - [Michael Nielsen: Quick thoughts on research](https://michaelnotebook.com/qtr/index.html)
 - [Amazon requires services on Fire TV to give it 30% of ad impressions or revenue](https://www.streamtvinsider.com/video/amazon-modifies-ad-revenue-impressions-share-policy-international-fire-tv-apps)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Building Nikola Tesla&#39;s Bladeless Turbine [video]](https://www.youtube.com/watch?v=Tuzh9mHvzkk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
