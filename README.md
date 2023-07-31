@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Online Safety Bill – Some futures](https://www.regulate.tech/online-safety-bill-some-futures-25th-july-2023/)
+- [The Future of the Web Is VNC](https://shkspr.mobi/blog/2023/07/the-future-of-the-web-is-vnc/)
+- [Is anyone using PyPy for real work?](https://news.ycombinator.com/item?id=36940871)
 - [NASA mistakenly severs communication to Voyager 2](https://www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/)
-- [Curl Command Line Variables](https://daniel.haxx.se/blog/2023/07/31/introducing-curl-command-line-variables/)
-- [We found a genius way to revive a poisoned river [video]](https://www.youtube.com/watch?v=ZgItGjKu4mQ)
-- [Meta Forced to Reveal Anonymous Facebook User&#39;s Identity](https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity/)
-- [LK-99: The Live Online Race for a Room-Temperature Superconductor](https://eirifu.wordpress.com/2023/07/30/lk-99-superconductor-summary/#sbtable)
+- [Microsoft is trying too hard with Edge](https://www.xda-developers.com/microsoft-trying-too-hard-edge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
