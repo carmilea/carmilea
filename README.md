@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Conduit: Simple, fast and reliable chat server powered by matrix](https://conduit.rs/)
+- [SEC asked Coinbase to halt trading for everything except Bitcoin &lpar;FT&rpar;](https://www.ft.com/content/1f873dd5-df8f-4cfc-bb21-ef83ed11fb4d)
+- [AI and the Frontier Paradox](https://www.sequoiacap.com/article/ai-paradox-perspective/)
+- [Conduit: Simple, fast and reliable chat server powered by Matrix](https://conduit.rs/)
 - [The Screwed-O-Meter](https://rachelbythebay.com/fun/som/)
-- [Mac Mouse Fix: Do the things you do on a trackpad. Without a trackpad](https://mousefix.org/)
-- [Free Public WiFi](https://computer.rip/2023-07-29-Free-Public-WiFi.html)
-- [AI search of Neanderthal proteins resurrects ‘extinct’ antibiotics](https://www.nature.com/articles/d41586-023-02403-0)
+- [Mac Mouse Fix](https://mousefix.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
