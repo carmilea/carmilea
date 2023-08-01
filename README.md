@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Absolutely Positively Sucks [video]](https://www.youtube.com/watch?v=BB-H5ivmdwQ)
+- [Bridging the Python async gap from the other side](https://death.andgravity.com/asyncio-bridge)
+- [Show HN: Local development with .local domains and HTTPS](https://www.localcan.com/)
 - [GiveCampus &lpar;YC S15&rpar; Hiring Rails engineers in education software](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Uber Posts First Quarterly Net Profit of $394M](https://www.wsj.com/articles/uber-q2-earnings-report-2023-453c335a)
-- [IronOS: Open-source soldering iron firmware](https://github.com/Ralim/IronOS)
-- [First claimed successful replication of LK-99](https://twitter.com/Andercot/status/1686286684424691712)
-- [Room-Temperature Ambient-Pressure Superconductor LK-99 preprint revision 2](https://arxiv.org/abs/2307.12037)
+- [Who and What Is Behind the Malware Proxy Service SocksEscort?](https://krebsonsecurity.com/2023/07/who-and-what-is-behind-the-malware-proxy-service-socksescort/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
