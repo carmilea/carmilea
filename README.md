@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Absolutely Positively Sucks [video]](https://www.youtube.com/watch?v=BB-H5ivmdwQ)
-- [Bridging the Python async gap from the other side](https://death.andgravity.com/asyncio-bridge)
-- [Show HN: Local development with .local domains and HTTPS](https://www.localcan.com/)
+- [Nim v2.0 Released](https://nim-lang.org//blog/2023/08/01/nim-v20-released.html)
+- [Nvidia’s CEO Is the Uncle of AMD’s CEO](https://en.wikipedia.org/wiki/Lisa_Su)
+- [Nim 2.0](https://nim-lang.org/blog/2023/08/01/nim-v20-released.html)
 - [GiveCampus &lpar;YC S15&rpar; Hiring Rails engineers in education software](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 - [Who and What Is Behind the Malware Proxy Service SocksEscort?](https://krebsonsecurity.com/2023/07/who-and-what-is-behind-the-malware-proxy-service-socksescort/)
 <!-- BLOG-POST-LIST:END -->
