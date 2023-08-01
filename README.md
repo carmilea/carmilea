@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nim v2.0 Released](https://nim-lang.org//blog/2023/08/01/nim-v20-released.html)
-- [Nvidia’s CEO Is the Uncle of AMD’s CEO](https://en.wikipedia.org/wiki/Lisa_Su)
+- [Ask HN: Who is hiring? &lpar;August 2023&rpar;](https://news.ycombinator.com/item?id=36956867)
+- [Ask HN: Who wants to be hired? &lpar;August 2023&rpar;](https://news.ycombinator.com/item?id=36956865)
+- [Damaging results of mandated return to the office: it’s worse than we thought](https://finance.yahoo.com/news/now-finding-damaging-results-mandated-095555463.html)
+- [YKK: Japan’s Zipper King [video]](https://www.youtube.com/watch?v=9d6eNmtHFQk)
 - [Nim 2.0](https://nim-lang.org/blog/2023/08/01/nim-v20-released.html)
-- [GiveCampus &lpar;YC S15&rpar; Hiring Rails engineers in education software](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Who and What Is Behind the Malware Proxy Service SocksEscort?](https://krebsonsecurity.com/2023/07/who-and-what-is-behind-the-malware-proxy-service-socksescort/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
