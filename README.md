@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Run Llama 2 on your own Mac using LLM and Homebrew](https://simonwillison.net/2023/Aug/1/llama-2-mac/)
+- [Emacs Is My New Window Manager](https://howardism.org/Technical/Emacs/new-window-manager.html)
+- [Show HN: imessage-exporter, a full-featured CLI app and library](https://github.com/ReagentX/imessage-exporter)
+- [Electric Cars Aren&#39;t Affordable Because America&#39;s Workforce Is Underpaid](https://jalopnik.com/electric-cars-arent-affordable-because-americas-workfor-1850695943)
 - [No telemetry in the Rust compiler: metrics without betraying user privacy](https://estebank.github.io/rustc-metrics.html)
-- [Scientists Question Superconductivity Claim from Physicist Accused of Plagiarism](https://www.wsj.com/articles/room-temperature-superconductivity-plagiarism-df591741)
-- [Run Every Day](https://duarteocarmo.com/blog/run-every-day)
-- [Oregon Decriminalized Hard Drugs](https://www.theatlantic.com/politics/archive/2023/07/oregon-drug-decriminalization-results-overdoses/674733/)
-- [City officials attempt to doxx Wikipedians](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-01/News_and_notes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
