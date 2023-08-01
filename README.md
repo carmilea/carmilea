@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Once” one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
+- [Internet Explorer Is Evil](http://toastytech.com/evil/index.html)
+- [A Fire Upon The Deep By Vernor Vinge &lpar;1992&rpar;](https://archive.org/details/fireupondeep00ving)
 - [Watsi &lpar;YC W13&rpar; Is Hiring a Lead Engineer](https://news.ycombinator.com/item?id=36962818)
-- [Booker Prize 2023 longlist announced](https://thebookerprizes.com/the-booker-library/prize-years/2023)
-- [A Nordic Revolt Against &#39;Ugly&#39; Modern Architecture](https://www.bloomberg.com/news/features/2023-08-01/a-scandinavian-uprising-against-modern-architecture)
-- [eGPU: A 750 MHz Class Soft GPGPU for FPGA](https://arxiv.org/abs/2307.08378)
-- [Mac Mini M1 Mod to Receive Power over Ethernet Instead of the AC Input](https://www.inferse.com/660551/hardware-hacker-mods-an-m1-mac-mini-to-receive-power-over-ethernet-instead-of-the-ac-input/)
+- [A Nordic revolt against &#39;ugly&#39; modern architecture](https://www.bloomberg.com/news/features/2023-08-01/a-scandinavian-uprising-against-modern-architecture)
 <!-- BLOG-POST-LIST:END -->
 
 ---
