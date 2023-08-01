@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Japanese houses depreciate to zero in just 22 years](https://www.economist.com/finance-and-economics/2018/03/15/why-japanese-houses-have-such-limited-lifespans)
+- [When the Yogurt Took Over](https://whatever.scalzi.com/2010/10/02/when-the-yogurt-took-over-a-short-story/)
 - [Show HN: An MIT-licensed ChatGPT plugin that loads and edits files locally](https://github.com/ykdojo/kaguya)
 - [Nvidia H100 GPUs: Supply and Demand](https://gpus.llm-utils.org/nvidia-h100-gpus-supply-and-demand/)
 - [Origin of correlated isolated flat bands in LK99](https://arxiv.org/abs/2307.16892)
-- [Git files hidden in plain sight](https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/)
-- [Philosophy of Science 101: What is the problem of induction?](https://www.thecollector.com/problem-of-induction-philosophy-of-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
