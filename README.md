@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First claimed successful replication of LK-99 superconductivity &lpar;includes video&rpar;](https://twitter.com/Andercot/status/1686286684424691712)
+- [First claimed successful replication of LK-99](https://twitter.com/Andercot/status/1686286684424691712)
 - [Room-Temperature Ambient-Pressure Superconductor LK-99 preprint revision 2](https://arxiv.org/abs/2307.12037)
 - [Systemd auto-restarts of units can hide problems from you](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdRestartHidesProblems)
 - [Jujutsu: A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
