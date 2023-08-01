@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Filament v3 has been released](https://filamentphp.com/community/danharrin-filament-v3)
 - [“Once” one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
-- [Internet Explorer Is Evil](http://toastytech.com/evil/index.html)
-- [A Fire Upon The Deep By Vernor Vinge &lpar;1992&rpar;](https://archive.org/details/fireupondeep00ving)
+- [ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta [pdf]](https://www.usenix.org/system/files/osdi23-saokar.pdf)
 - [Watsi &lpar;YC W13&rpar; Is Hiring a Lead Engineer](https://news.ycombinator.com/item?id=36962818)
-- [A Nordic revolt against &#39;ugly&#39; modern architecture](https://www.bloomberg.com/news/features/2023-08-01/a-scandinavian-uprising-against-modern-architecture)
+- [Dear Websites, Stop Asking for Ransom Sign-Ups](https://iamvishnu.com/posts/randsom-signup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
