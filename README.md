@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: An MIT-licensed ChatGPT plugin that loads and edits files locally](https://github.com/ykdojo/kaguya)
+- [Nvidia H100 GPUs: Supply and Demand](https://gpus.llm-utils.org/nvidia-h100-gpus-supply-and-demand/)
 - [Origin of correlated isolated flat bands in LK99](https://arxiv.org/abs/2307.16892)
-- [For the Love of God, Stop Microwaving Plastic](https://www.wired.com/story/for-the-love-of-god-stop-microwaving-plastic/)
-- [Philosophy of Science 101: What Is the Problem of Induction?](https://www.thecollector.com/problem-of-induction-philosophy-of-science/)
-- [The Worst API Ever Made](https://caseymuratori.com/blog_0025)
-- [Semiconducting Transport in LK99 reproduction attempt](https://arxiv.org/abs/2307.16802)
+- [Git files hidden in plain sight](https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/)
+- [Philosophy of Science 101: What is the problem of induction?](https://www.thecollector.com/problem-of-induction-philosophy-of-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
