@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Origin of correlated isolated flat bands in LK99](https://arxiv.org/abs/2307.16892)
+- [For the Love of God, Stop Microwaving Plastic](https://www.wired.com/story/for-the-love-of-god-stop-microwaving-plastic/)
 - [Philosophy of Science 101: What Is the Problem of Induction?](https://www.thecollector.com/problem-of-induction-philosophy-of-science/)
 - [The Worst API Ever Made](https://caseymuratori.com/blog_0025)
-- [Semiconducting Transport in LK99](https://arxiv.org/abs/2307.16802)
-- [MIT engineers create an energy-storing supercapacitor from ancient materials](https://news.mit.edu/2023/mit-engineers-create-supercapacitor-ancient-materials-0731)
+- [Semiconducting Transport in LK99 reproduction attempt](https://arxiv.org/abs/2307.16802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
