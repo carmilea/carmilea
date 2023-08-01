@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Room-Temperature Superconductor? New Developments](https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments)
+- [Sigh, this is what browsing the web in the EU looks like nowadays &lpar;2021&rpar;](https://mmazzarolo.com/blog/2021-09-10-browsing-the-web-from-eu/)
+- [Launch HN: Tiptap &lpar;YC S23&rpar; – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
 - [Ask HN: Who is hiring? &lpar;August 2023&rpar;](https://news.ycombinator.com/item?id=36956867)
-- [Ask HN: Who wants to be hired? &lpar;August 2023&rpar;](https://news.ycombinator.com/item?id=36956865)
-- [Damaging results of mandated return to the office: it’s worse than we thought](https://finance.yahoo.com/news/now-finding-damaging-results-mandated-095555463.html)
-- [YKK: Japan’s Zipper King [video]](https://www.youtube.com/watch?v=9d6eNmtHFQk)
-- [Nim 2.0](https://nim-lang.org/blog/2023/08/01/nim-v20-released.html)
+- [Ask HN: Freelancer? Seeking freelancer? &lpar;August 2023&rpar;](https://news.ycombinator.com/item?id=36956866)
 <!-- BLOG-POST-LIST:END -->
 
 ---
