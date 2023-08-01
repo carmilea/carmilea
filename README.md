@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Origin of correlated isolated flat bands in LK99](https://arxiv.org/abs/2307.16892)
 - [Philosophy of Science 101: What Is the Problem of Induction?](https://www.thecollector.com/problem-of-induction-philosophy-of-science/)
 - [The Worst API Ever Made](https://caseymuratori.com/blog_0025)
 - [Semiconducting Transport in LK99](https://arxiv.org/abs/2307.16802)
 - [MIT engineers create an energy-storing supercapacitor from ancient materials](https://news.mit.edu/2023/mit-engineers-create-supercapacitor-ancient-materials-0731)
-- [Can you simply brainwash a large language model?](https://gradientdefense.com/blog/can-you-simply-brainwash-an-llm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
