@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Room-Temperature Superconductor? New Developments](https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments)
-- [Sigh, this is what browsing the web in the EU looks like nowadays &lpar;2021&rpar;](https://mmazzarolo.com/blog/2021-09-10-browsing-the-web-from-eu/)
-- [Launch HN: Tiptap &lpar;YC S23&rpar; – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
-- [Ask HN: Who is hiring? &lpar;August 2023&rpar;](https://news.ycombinator.com/item?id=36956867)
-- [Ask HN: Freelancer? Seeking freelancer? &lpar;August 2023&rpar;](https://news.ycombinator.com/item?id=36956866)
+- [Seam &lpar;API for IoT&rpar; Is Hiring a Founding Technical PM](https://www.ycombinator.com/companies/seam/jobs/9VKC412-product-manager)
+- [Opus Databending Drumkit](https://suricrasia.online/opus-databending-drumkit/)
+- [Electrified cement could turn houses and roads into nearly limitless batteries](https://www.science.org/content/article/electrified-cement-could-turn-houses-and-roads-nearly-limitless-batteries)
+- [Ask HN: In which areas have you compared 3+ tools and formed strong preferences?](https://news.ycombinator.com/item?id=36958516)
+- [Could the world go PFAS-free? Proposal to ban ‘forever chemicals’ fuels debate](https://www.nature.com/articles/d41586-023-02444-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
