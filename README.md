@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GiveCampus &lpar;YC S15&rpar; Hiring Rails engineers in education software](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Uber Posts First Quarterly Net Profit of $394M](https://www.wsj.com/articles/uber-q2-earnings-report-2023-453c335a)
+- [IronOS: Open-source soldering iron firmware](https://github.com/Ralim/IronOS)
 - [First claimed successful replication of LK-99](https://twitter.com/Andercot/status/1686286684424691712)
 - [Room-Temperature Ambient-Pressure Superconductor LK-99 preprint revision 2](https://arxiv.org/abs/2307.12037)
-- [Systemd auto-restarts of units can hide problems from you](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdRestartHidesProblems)
-- [Jujutsu: A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
-- [We can save what matters about writing](https://tedunderwood.com/2023/07/31/we-can-save-what-matters-about-writing-at-a-price/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
