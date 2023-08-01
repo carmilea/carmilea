@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Run Llama 2 on your own Mac using LLM and Homebrew](https://simonwillison.net/2023/Aug/1/llama-2-mac/)
-- [Emacs Is My New Window Manager](https://howardism.org/Technical/Emacs/new-window-manager.html)
-- [Show HN: imessage-exporter, a full-featured CLI app and library](https://github.com/ReagentX/imessage-exporter)
-- [Electric Cars Aren&#39;t Affordable Because America&#39;s Workforce Is Underpaid](https://jalopnik.com/electric-cars-arent-affordable-because-americas-workfor-1850695943)
-- [No telemetry in the Rust compiler: metrics without betraying user privacy](https://estebank.github.io/rustc-metrics.html)
+- [Alfred-40B, an OSS RLHF version of Falcon40B](https://www.lighton.ai/blog/lighton-s-blog-4/introducing-alfred-40b-0723-38)
+- [“Web Environment Integrity”: Locking Down the Web](https://brave.com/web-standards-at-brave/9-web-environment-integrity/)
+- [Miyazaki’s Magical Food: An Ode to Anime’s Best Cooking Scenes](https://www.seriouseats.com/studio-ghibli-anime-best-food-scenes)
+- [Pixar, Adobe, Apple, Autodesk, and Nvidia Form Alliance for OpenUSD](https://www.apple.com/newsroom/2023/08/pixar-adobe-apple-autodesk-and-nvidia-form-alliance-for-openusd/)
+- [National Bank Acquires Silicon Valley Bank’s Canadian Portfolio](https://www.nbc.ca/about-us/news-media/press-release/2023/20230801-NBC-acquisition-silicon-valley-bank-canadian-portfolio.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
