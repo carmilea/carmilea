@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Busting a Myth: “Only writers subscribe to genre magazines”](http://neil-clarke.com/busting-a-myth/)
+- [HackerOne lays off 12% of its workforce](https://www.hackerone.com/ceo/company-update)
+- [FCC allows blocking traffic from robocall-friendly provider One Owl](https://docs.fcc.gov/public/attachments/DA-23-652A1.txt)
 - [Cookbook: Finetuning Llama 2 in your own cloud environment, privately](https://blog.skypilot.co/finetuning-llama2-operational-guide/)
-- [Tailwind CSS and the death of web craftsmanship](https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship/)
-- [LK99: Team of Southeast University observed zero resistance below 110 K](https://twitter.com/lipez400/status/1686793608626663441)
-- [Apple stole $100s from me, Customer Service says there&#39;s nothing they can do](https://old.reddit.com/r/applehelp/comments/15gechw/apple_just_stole_hundreds_of_dollars_from_me/)
-- [Washington, DC, avoided the worst price rises that have plagued American cities](https://worksinprogress.co/issue/how-dc-densified)
+- [Cops still take more stuff from people than burglars do](https://thewhyaxis.substack.com/p/cops-still-take-more-stuff-from-people)
 <!-- BLOG-POST-LIST:END -->
 
 ---
