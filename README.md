@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Filament v3 has been released](https://filamentphp.com/community/danharrin-filament-v3)
+- [Electronic Structure of LK-99](https://arxiv.org/abs/2308.00676)
+- [Help I accidently enabled HSTS on localhost](https://bartwullems.blogspot.com/2023/07/help-i-accidently-enabled-hstson.html)
+- [Bored? How about trying a Linux speedrun? &lpar;2020&rpar;](https://rachelbythebay.com/w/2020/04/11/pengrun/)
+- [Unconfirmed video showing potential LK-99 sample exhibiting the Meissner effect](https://twitter.com/zebulgar/status/1686498517227814912)
 - [“Once” one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
-- [ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta [pdf]](https://www.usenix.org/system/files/osdi23-saokar.pdf)
-- [Watsi &lpar;YC W13&rpar; Is Hiring a Lead Engineer](https://news.ycombinator.com/item?id=36962818)
-- [Dear Websites, Stop Asking for Ransom Sign-Ups](https://iamvishnu.com/posts/randsom-signup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
