@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US universities need to stop elitist discrimination that Europe abandoned](https://www.bloomberg.com/opinion/articles/2023-08-02/junking-legacy-admissions-at-top-us-schools-is-just-a-baby-step)
+- [Excuse me, is there a problem?](https://longform.asmartbear.com/problem/)
+- [Does Cloudflare’s 1.1.1.1 DNS Block Archive.is? &lpar;2019&rpar;](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
+- [Tired of Dating Apps, Some Turn to Google Docs](https://www.nytimes.com/2023/08/02/style/date-me-docs.html)
 - [Launch HN: Certainly Health &lpar;YC S23&rpar; – Book doctors without surprise bills](https://news.ycombinator.com/item?id=36970135)
-- [Ask HN: Who is using small OS LLMs in production?](https://news.ycombinator.com/item?id=36969897)
-- [Show HN: Adapt framework – build privacy-by-design peer-to-peer applications](https://www.adaptframework.solutions/)
-- [&#39;Cancer-killing pill&#39; is now being tested on humans](https://news.sky.com/story/cancer-killing-pill-that-appears-to-annihilate-solid-tumours-is-now-being-tested-on-humans-12932133)
+- [Why Edge Detection Doesn’t Explain Line Drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
