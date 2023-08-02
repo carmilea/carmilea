@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IRS Launches Paperless Processing Initiative](https://home.treasury.gov/news/press-releases/jy1666)
 - [Busting a Myth: “Only writers subscribe to genre magazines”](http://neil-clarke.com/busting-a-myth/)
-- [HackerOne lays off 12% of its workforce](https://www.hackerone.com/ceo/company-update)
 - [FCC allows blocking traffic from robocall-friendly provider One Owl](https://docs.fcc.gov/public/attachments/DA-23-652A1.txt)
 - [Cookbook: Finetuning Llama 2 in your own cloud environment, privately](https://blog.skypilot.co/finetuning-llama2-operational-guide/)
 - [Cops still take more stuff from people than burglars do](https://thewhyaxis.substack.com/p/cops-still-take-more-stuff-from-people)
