@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Academy Software Foundation Announces OpenPBR, a New Subproject of MaterialX](https://www.aswf.io/blog/academy-software-foundation-announces-openpbr-a-new-subproject-of-materialx/)
-- [Gut–brain axis study shows autism-associated molecular, microbial profiles](https://www.nature.com/articles/s41593-023-01361-0)
-- [On the &lpar;nearly lethal&rpar; comforts of a luxury cruise &lpar;1996&rpar; [pdf]](https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf)
-- [Reflex – Web apps in pure Python](https://github.com/reflex-dev/reflex)
-- [STL: The Vector](https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524)
+- [Apple stole $100s from me, Customer Service says there&#39;s nothing they can do](https://old.reddit.com/r/applehelp/comments/15gechw/apple_just_stole_hundreds_of_dollars_from_me/)
+- [Washington, DC, avoided the worst price rises that have plagued American cities](https://worksinprogress.co/issue/how-dc-densified)
+- [Australians fight for the right to work from home permanently](https://www.reuters.com/world/asia-pacific/point-no-return-australians-fight-right-work-home-permanently-2023-08-01/)
+- [Cory Doctorow&#39;s new book on beating big tech at its own game](https://boingboing.net/2023/08/02/cory-doctorows-new-book-on-beating-big-tech-at-its-own-game.html)
+- [Kenya suspends Sam Altman’s eyeball-scanning crypto project](https://www.theverge.com/2023/8/2/23817147/kenya-worldcoin-suspended-sam-altman-eyeball-scanning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
