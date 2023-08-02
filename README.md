@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IRS Launches Paperless Processing Initiative](https://home.treasury.gov/news/press-releases/jy1666)
-- [Busting a Myth: “Only writers subscribe to genre magazines”](http://neil-clarke.com/busting-a-myth/)
-- [FCC allows blocking traffic from robocall-friendly provider One Owl](https://docs.fcc.gov/public/attachments/DA-23-652A1.txt)
-- [Cookbook: Finetuning Llama 2 in your own cloud environment, privately](https://blog.skypilot.co/finetuning-llama2-operational-guide/)
-- [Cops still take more stuff from people than burglars do](https://thewhyaxis.substack.com/p/cops-still-take-more-stuff-from-people)
+- [Meta’s Reality Lab Prototype Hardware](https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/)
+- [Infinite Mac Now Supports Disks, CD-ROMs and Custom Instances](https://blog.persistent.info/2023/08/infinite-mac-cd-roms.html)
+- [DotDict: A simple Python library to make chained attributes possible](https://github.com/nick-at-dave/DotDict)
+- [ChromeOS is splitting the browser from the OS, getting more Linux-y](https://arstechnica.com/gadgets/2023/08/google-is-finally-separating-chrome-from-chromeos-for-easier-updates/)
+- [Show HN: Grammar Generator App for Llama.cpp](https://grammar.intrinsiclabs.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
