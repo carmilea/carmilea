@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library](https://github.com/DTolm/VkFFT)
+- [HMRC &lpar;UK Tax Authority&rpar; Persuing Uber for £386M &lpar;~$487M&rpar; Vat](https://twitter.com/DanNeidle/status/1686643943432232962)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring in Austria](https://bitmovin.com/careers/)
-- [One thing that has changed in the professional game industry is that](https://mastodon.social/@pervognsen/110818513161468960)
 - [The Beetle That Heads for the ‘Back Door’ When Eaten by a Frog](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
 - [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
-- [Encyclopedia of Life](https://eol.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
