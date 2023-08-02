@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring in Austria](https://bitmovin.com/careers/)
+- [One thing that has changed in the professional game industry is that](https://mastodon.social/@pervognsen/110818513161468960)
 - [The Beetle That Heads for the ‘Back Door’ When Eaten by a Frog](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
-- [Reading SEC filings using LLMs](https://www.beatandraise.com/)
-- [I&#39;m betting on HTML](https://catskull.net/html.html)
-- [Enu – 3D live coding, implemented in Nim](https://github.com/dsrw/enu)
+- [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
+- [Encyclopedia of Life](https://eol.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
