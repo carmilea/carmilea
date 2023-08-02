@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Excuse me, is there a problem?](https://longform.asmartbear.com/problem/)
-- [Does Cloudflare’s 1.1.1.1 DNS Block Archive.is? &lpar;2019&rpar;](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
-- [Tired of Dating Apps, Some Turn to Google Docs](https://www.nytimes.com/2023/08/02/style/date-me-docs.html)
-- [Launch HN: Certainly Health &lpar;YC S23&rpar; – Book doctors without surprise bills](https://news.ycombinator.com/item?id=36970135)
-- [Why Edge Detection Doesn’t Explain Line Drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
+- [How I discovered the underground world of credit card network exploitation](https://chargebackstop.com/blog/card-networks-exploitation/)
+- [Why Python Is Terrible](https://josvisser.substack.com/p/why-python-is-terrible)
+- [CodeCov is now Open Source](https://about.codecov.io/blog/codecov-is-now-open-source/)
+- [How Japan is tackling a syndrome that creates recluses](https://www.telegraph.co.uk/global-health/climate-and-people/japan-recluse-generation-hikikomori-shut-in-syndrome/)
+- [Earth Overshoot Day](https://www.overshootday.org/about/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
