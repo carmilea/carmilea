@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Harvard professor Francesca Gino was accused of faking data](https://www.businessinsider.com/harvard-francesca-gino-fake-data-fraud-allegations-scholar-2023-7)
 - [VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library](https://github.com/DTolm/VkFFT)
 - [HMRC &lpar;UK Tax Authority&rpar; Persuing Uber for £386M &lpar;~$487M&rpar; Vat](https://twitter.com/DanNeidle/status/1686643943432232962)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring in Austria](https://bitmovin.com/careers/)
 - [The Beetle That Heads for the ‘Back Door’ When Eaten by a Frog](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
-- [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
