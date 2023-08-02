@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Academy Software Foundation Announces OpenPBR, a New Subproject of MaterialX](https://www.aswf.io/blog/academy-software-foundation-announces-openpbr-a-new-subproject-of-materialx/)
+- [Gut–brain axis study shows autism-associated molecular, microbial profiles](https://www.nature.com/articles/s41593-023-01361-0)
+- [On the &lpar;nearly lethal&rpar; comforts of a luxury cruise &lpar;1996&rpar; [pdf]](https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf)
 - [Reflex – Web apps in pure Python](https://github.com/reflex-dev/reflex)
 - [STL: The Vector](https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524)
-- [Meta Open Sources AudioCraft: Generative AI for Audio](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
-- [A Non-Mathematical Introduction to Kalman Filters for Programmers](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/)
-- [“The Onion” founder explains his strategy for sparking creativity](https://bigthink.com/the-learning-curve/the-onion-founder-strategies-sparking-creativity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
