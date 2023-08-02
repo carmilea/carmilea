@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m Betting on HTML](https://catskull.net/html.html)
 - [Enu – 3D live coding, implemented in Nim](https://github.com/dsrw/enu)
 - [Patterns for Building LLM-Based Systems and Products](https://eugeneyan.com/writing/llm-patterns/)
-- [The Psychology of Cults – Syllabus &lpar;Harvard&rpar;](https://harvard.simplesyllabus.com/en-US/doc/1qjc9dp1v)
 - [Electronic Structure of LK-99](https://arxiv.org/abs/2308.00676)
 - [Help I accidently enabled HSTS on localhost](https://bartwullems.blogspot.com/2023/07/help-i-accidently-enabled-hstson.html)
 <!-- BLOG-POST-LIST:END -->
