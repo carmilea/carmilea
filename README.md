@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring in Austria](https://bitmovin.com/careers/)
+- [The Beetle That Heads for the ‘Back Door’ When Eaten by a Frog](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
 - [Reading SEC filings using LLMs](https://www.beatandraise.com/)
-- [Stripe is no longer a suitable payment processor](https://news.ycombinator.com/item?id=36967159)
 - [I&#39;m betting on HTML](https://catskull.net/html.html)
 - [Enu – 3D live coding, implemented in Nim](https://github.com/dsrw/enu)
-- [Patterns for building LLM-based systems and products](https://eugeneyan.com/writing/llm-patterns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
