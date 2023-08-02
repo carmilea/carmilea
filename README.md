@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Harvard professor Francesca Gino was accused of faking data](https://www.businessinsider.com/harvard-francesca-gino-fake-data-fraud-allegations-scholar-2023-7)
-- [VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library](https://github.com/DTolm/VkFFT)
-- [HMRC &lpar;UK Tax Authority&rpar; Persuing Uber for £386M &lpar;~$487M&rpar; Vat](https://twitter.com/DanNeidle/status/1686643943432232962)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring in Austria](https://bitmovin.com/careers/)
-- [The Beetle That Heads for the ‘Back Door’ When Eaten by a Frog](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
+- [Lawmakers propose &#39;speed limiters&#39; for repeat offenders in New York](https://spectrumlocalnews.com/nys/central-ny/news/2023/08/01/lawmakers-propose-installing--speed-limiters--in-vehicles-of-repeat-speeders)
+- [Show HN: Adapt framework – build privacy-by-design peer-to-peer applications](https://www.adaptframework.solutions/)
+- [&#39;Cancer-killing pill&#39; is now being tested on humans](https://news.sky.com/story/cancer-killing-pill-that-appears-to-annihilate-solid-tumours-is-now-being-tested-on-humans-12932133)
+- [Why Edge Detection Doesn’t Explain Line Drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
+- [Ask HN: Why is LK-99 public?](https://news.ycombinator.com/item?id=36969412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
