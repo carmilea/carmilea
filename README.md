@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patterns for Building LLM-Based Systems and Products](https://eugeneyan.com/writing/llm-patterns/)
+- [The Psychology of Cults – Syllabus &lpar;Harvard&rpar;](https://harvard.simplesyllabus.com/en-US/doc/1qjc9dp1v)
 - [Electronic Structure of LK-99](https://arxiv.org/abs/2308.00676)
 - [Help I accidently enabled HSTS on localhost](https://bartwullems.blogspot.com/2023/07/help-i-accidently-enabled-hstson.html)
 - [Bored? How about trying a Linux speedrun? &lpar;2020&rpar;](https://rachelbythebay.com/w/2020/04/11/pengrun/)
-- [Unconfirmed video showing potential LK-99 sample exhibiting the Meissner effect](https://twitter.com/zebulgar/status/1686498517227814912)
-- [“Once” one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
