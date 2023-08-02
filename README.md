@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How I discovered the underground world of credit card network exploitation](https://chargebackstop.com/blog/card-networks-exploitation/)
-- [Why Python Is Terrible](https://josvisser.substack.com/p/why-python-is-terrible)
-- [CodeCov is now Open Source](https://about.codecov.io/blog/codecov-is-now-open-source/)
-- [How Japan is tackling a syndrome that creates recluses](https://www.telegraph.co.uk/global-health/climate-and-people/japan-recluse-generation-hikikomori-shut-in-syndrome/)
-- [Earth Overshoot Day](https://www.overshootday.org/about/)
+- [Reflex – Web apps in pure Python](https://github.com/reflex-dev/reflex)
+- [STL: The Vector](https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524)
+- [Meta Open Sources AudioCraft: Generative AI for Audio](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
+- [A Non-Mathematical Introduction to Kalman Filters for Programmers](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/)
+- [“The Onion” founder explains his strategy for sparking creativity](https://bigthink.com/the-learning-curve/the-onion-founder-strategies-sparking-creativity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
