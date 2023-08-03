@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Google AMP – The Newest of Evasive Phishing Tactic](https://cofense.com/blog/google-amp-the-newest-of-evasive-phishing-tactic/)
 - [Netscape Meteors](https://erynwells.me/blog/2023/08/netscape-meteors/)
+- [Derek Lowe on AOH1996: A New Mode of Cancer Treatment](https://www.science.org/content/blog-post/new-mode-cancer-treatment)
 - [A list of recent hostile moves by Google&#39;s Chrome team](https://mastodon.social/@nekohayo/110775656176571435)
 - [Google’s Plan to DRM the Web Goes Against Everything Google Once Stood For](https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/)
-- [Tell HN: ai.com used to redirect to chat.openai.com, now it redirects to x.ai](https://news.ycombinator.com/item?id=36981860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
