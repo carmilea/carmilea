@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Quirks of Python Package Versioning](https://sethmlarson.dev/pep-440)
+- [‘It’s destroyed me completely’: Kenyan moderators decry toll of training of AI](https://www.theguardian.com/technology/2023/aug/02/ai-chatbot-training-human-toll-content-moderator-meta-openai)
+- [How the Recession Doomers Got the U.S. Economy So Wrong](https://www.theatlantic.com/ideas/archive/2023/08/recession-doomers-economy/674900/)
+- [Quirks of Python package versioning](https://sethmlarson.dev/pep-440)
 - [Canonical LXD forked by former project leader stgraber](https://github.com/stgraber/incus)
 - [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
-- [Taming the Flame of Aging: Key Pathway for Chronic Inflammation Revealed](https://neurosciencenews.com/inflammation-brain-aging-23740/)
-- [Quantum oscillations of the quasiparticle lifetime in a metal](https://www.nature.com/articles/s41586-023-06330-y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
