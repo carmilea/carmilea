@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WTF Happened in 2023?](https://www.notboring.co/p/wtf-happened-in-2023)
+- [Cognitive AI for ADHD](https://www.comigo.ai)
+- [Commercial quantum computer identifies molecular candidate for better solar cell](https://www.ornl.gov/news/researchers-use-commercial-quantum-computer-identify-molecular-candidate-development-more)
 - [The Holocaust Bomb: A Question of Time [2007]](https://sgp.fas.org/eprint/morland.html)
 - [FCC fines robocaller a record $300M after blocking billions of their scam calls](https://techcrunch.com/2023/08/03/fcc-fines-robocaller-a-record-300m-after-blocking-billions-of-their-scam-calls/)
 - [AWS to Begin Charging for Public IPv4 Addresses](https://www.infoq.com/news/2023/08/aws-ec2-public-ipv4/)
-- [Brave cuts ties with Bing to offer its own image and video search results](https://www.theregister.com/2023/08/03/brave_cuts_ties_with_bing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
