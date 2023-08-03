@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fitch Downgrades US Debt](https://www.bbc.com/news/business-66379366)
 - [Life at the Margin: How I got $25,000 in debt](https://www.natecation.com/life-at-the-margin-credit-card-debt/)
+- [200k Compromised OpenAI Credentials Available for Purchase on the Dark Web](https://www.cpomagazine.com/cyber-security/over-200000-compromised-openai-credentials-available-for-purchase-on-the-dark-web/)
 - [Observation of zero resistance above 100 K in Pb₁₀₋ₓCuₓ&lpar;PO₄&rpar;₆O](https://arxiv.org/abs/2308.01192)
 - [Microsoft comes under blistering criticism for “grossly irresponsible” security](https://arstechnica.com/security/2023/08/microsoft-cloud-security-blasted-for-its-culture-of-toxic-obfuscation/)
-- [The infamous coin toss](https://ergodicityeconomics.com/2023/07/28/the-infamous-coin-toss/)
-- [High Dynamic Time Range Images &lpar;2006&rpar;](http://mkweb.bcgsc.ca/fun/hdtr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
