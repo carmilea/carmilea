@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cartel That Controls the US Food System](https://statecraft.beehiiv.com/p/the-cartel-that-controls-us-meat)
-- [Launch HN: Sweep &lpar;YC S23&rpar; – A bot to create simple PRs in your codebase](https://github.com/sweepai/sweep)
-- [GNU Units](https://www.gnu.org/software/units/)
-- [Elixir for Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
-- [Cloudflare Registrar now supports .dev domains](https://twitter.com/eastdakota/status/1686513213503127557)
+- [PropelAuth &lpar;YC W22&rpar; Is Hiring Engineers](https://www.ycombinator.com/companies/propelauth/jobs)
+- [Hackers manage to unlock Tesla software-locked features](https://electrek.co/2023/08/03/hackers-manage-unlock-tesla-software-locked-features/)
+- [Ask HN: Any freelancers here? I need burnout advice](https://news.ycombinator.com/item?id=36988192)
+- [Pegasus Mail](https://www.pmail.com/)
+- [Show HN: Hydra 1.0 – open-source column-oriented Postgres](https://hydra-so.notion.site/Hydra-1-0-beta-318504444825401e8ce21796dcadd589)
 <!-- BLOG-POST-LIST:END -->
 
 ---
