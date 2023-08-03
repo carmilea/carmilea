@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Street View driver crashes after 100 MPH chase, police say](https://www.sfgate.com/tech/article/google-street-view-car-chase-18275718.php)
 - [SMS Pumping Attack](https://support.twilio.com/hc/en-us/articles/8360406023067-SMS-Traffic-Pumping-Fraud)
 - [With merge of this pull request, Brave Browser disables WebEnvironmentIntegrity](https://github.com/brave/brave-core/pull/19476)
 - [If you think p-values are problematic, wait until you understand Bayes Factors](http://datacolada.org/78a)
-- [Building the Future of X](https://blog.twitter.com/en_us/topics/company/2023/building-the-future-of-x)
-- [Fitch Downgrades US Debt](https://www.bbc.com/news/business-66379366)
+- [Radio frequency hearing in humans and its effects &lpar;2003&rpar;](https://onlinelibrary.wiley.com/doi/pdf/10.1002/bem.10163)
 <!-- BLOG-POST-LIST:END -->
 
 ---
