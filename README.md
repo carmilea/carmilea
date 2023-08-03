@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quirks of Python Package Versioning](https://sethmlarson.dev/pep-440)
 - [Canonical LXD forked by former project leader stgraber](https://github.com/stgraber/incus)
 - [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
 - [Taming the Flame of Aging: Key Pathway for Chronic Inflammation Revealed](https://neurosciencenews.com/inflammation-brain-aging-23740/)
 - [Quantum oscillations of the quasiparticle lifetime in a metal](https://www.nature.com/articles/s41586-023-06330-y)
-- [Indian-American engineer fired for speaking Hindi during dying relative&#39;s call](https://www.hindustantimes.com/world-news/indianamerican-engineer-files-lawsuit-after-being-fired-for-speaking-hindi-during-dying-relatives-call-101691034745141.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
