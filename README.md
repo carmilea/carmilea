@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UpCodes &lpar;YC S17&rpar; is hiring engineers to automate construction compliance](https://up.codes/careers)
-- [Pgvector: Fewer Dimensions Are Better](https://supabase.com/blog/fewer-dimensions-are-better-pgvector)
-- [Malicious Android Apps Slip into Disguise](https://krebsonsecurity.com/2023/08/how-malicious-android-apps-slip-into-disguise/)
-- [Man Spends Entire Career Mastering Crappy Codebase](https://taylor.town/entire-career)
-- [Network Protocols for Anyone Who Knows a Programming Language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
+- [Canonical LXD forked by former project leader stgraber](https://github.com/stgraber/incus)
+- [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
+- [Taming the Flame of Aging: Key Pathway for Chronic Inflammation Revealed](https://neurosciencenews.com/inflammation-brain-aging-23740/)
+- [Quantum oscillations of the quasiparticle lifetime in a metal](https://www.nature.com/articles/s41586-023-06330-y)
+- [Indian-American engineer fired for speaking Hindi during dying relative&#39;s call](https://www.hindustantimes.com/world-news/indianamerican-engineer-files-lawsuit-after-being-fired-for-speaking-hindi-during-dying-relatives-call-101691034745141.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
