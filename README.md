@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A list of recent hostile moves by Google&#39;s Chrome team](https://mastodon.social/@nekohayo/110775656176571435)
 - [Google’s Plan to DRM the Web Goes Against Everything Google Once Stood For](https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/)
+- [Tell HN: ai.com used to redirect to chat.openai.com, now it redirects to x.ai](https://news.ycombinator.com/item?id=36981860)
+- [LTS == 15 Years Not 5](https://www.logikalsolutions.com/wordpress/information-technology/lts/)
 - [System settings that aren’t in System Settings](https://eclecticlight.co/2023/07/29/system-settings-that-arent-in-system-settings/)
-- [SMS traffic pumping fraud](https://support.twilio.com/hc/en-us/articles/8360406023067-SMS-Traffic-Pumping-Fraud)
-- [I don&#39;t use Bayes factors in my research &lpar;2019&rpar;](http://datacolada.org/78a)
-- [Radio frequency hearing in humans and its effects &lpar;2003&rpar;](https://onlinelibrary.wiley.com/doi/pdf/10.1002/bem.10163)
 <!-- BLOG-POST-LIST:END -->
 
 ---
