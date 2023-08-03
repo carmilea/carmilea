@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New targeted chemotherapy able to kill all solid tumors in preclinical research](https://www.eurekalert.org/news-releases/997141)
-- [Internet providers that won FCC grants try to escape broadband commitments](https://arstechnica.com/tech-policy/2023/08/internet-providers-that-won-fcc-grants-try-to-escape-broadband-commitments/)
-- [Meta’s Reality Labs prototype hardware](https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/)
-- [Infinite Mac: Disks, CD-ROMs and custom instances](https://blog.persistent.info/2023/08/infinite-mac-cd-roms.html)
-- [DotDict: A simple Python library to make chained attributes possible](https://github.com/nick-at-dave/DotDict)
+- [Observation of zero resistance above 100 K in Pb₁₀₋ₓCuₓ&lpar;PO₄&rpar;₆O](https://arxiv.org/abs/2308.01192)
+- [Microsoft comes under blistering criticism for “grossly irresponsible” security](https://arstechnica.com/security/2023/08/microsoft-cloud-security-blasted-for-its-culture-of-toxic-obfuscation/)
+- [Jim Larkin, Backpage Exec, Dies by Suicide a Week Before His Trial](https://www.techdirt.com/2023/08/02/jim-larkin-backpage-exec-dies-by-suicide-a-week-before-his-trial/)
+- [The Infamous Coin Toss](https://ergodicityeconomics.com/2023/07/28/the-infamous-coin-toss/)
+- [High Dynamic Time Range Images](http://mkweb.bcgsc.ca/fun/hdtr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
