@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [‘It’s destroyed me completely’: Kenyan moderators decry toll of training of AI](https://www.theguardian.com/technology/2023/aug/02/ai-chatbot-training-human-toll-content-moderator-meta-openai)
-- [How the Recession Doomers Got the U.S. Economy So Wrong](https://www.theatlantic.com/ideas/archive/2023/08/recession-doomers-economy/674900/)
-- [Quirks of Python package versioning](https://sethmlarson.dev/pep-440)
-- [Canonical LXD forked by former project leader stgraber](https://github.com/stgraber/incus)
-- [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
+- [The Cartel That Controls the US Food System](https://statecraft.beehiiv.com/p/the-cartel-that-controls-us-meat)
+- [Launch HN: Sweep &lpar;YC S23&rpar; – A bot to create simple PRs in your codebase](https://github.com/sweepai/sweep)
+- [GNU Units](https://www.gnu.org/software/units/)
+- [Elixir for Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
+- [Cloudflare Registrar now supports .dev domains](https://twitter.com/eastdakota/status/1686513213503127557)
 <!-- BLOG-POST-LIST:END -->
 
 ---
