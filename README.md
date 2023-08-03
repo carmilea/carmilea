@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Getting Started with the Blazing-Fast @SingleStore Kai API](https://www.youtube.com/watch?v=IdRVKV_kBc8)
 - [Using Vectors and @SingleStore to create an Image Matching and Search application](https://www.youtube.com/watch?v=Vh1lH0XTqmA)
 - [Here&#39;s how to use @SingleStore&#39;s SQrL ChatBot to Write SQL and Python for you!](https://www.youtube.com/watch?v=QCfc8JQjisQ)
 - [Using Vectors and @SingleStore to create a movie recommendation engine](https://www.youtube.com/watch?v=aDMgnzHPm9M)
 - [Using Generative Pre-Trained Transformers &lpar;GPT&rpar; AI with Your Own Data with Akmal Chaudhri](https://www.youtube.com/watch?v=e-ZpwughKHo)
-- [SingleStore Notebooks | How to Create a Notebook from Sample and Execute](https://www.youtube.com/watch?v=ycGke1lpIRE)
 <!-- YOUTUBE:END -->
 
 
