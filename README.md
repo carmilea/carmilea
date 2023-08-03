@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Life at the Margin: How I got $25,000 in debt](https://www.natecation.com/life-at-the-margin-credit-card-debt/)
 - [Observation of zero resistance above 100 K in Pb₁₀₋ₓCuₓ&lpar;PO₄&rpar;₆O](https://arxiv.org/abs/2308.01192)
 - [Microsoft comes under blistering criticism for “grossly irresponsible” security](https://arstechnica.com/security/2023/08/microsoft-cloud-security-blasted-for-its-culture-of-toxic-obfuscation/)
-- [Jim Larkin, Backpage Exec, Dies by Suicide a Week Before His Trial](https://www.techdirt.com/2023/08/02/jim-larkin-backpage-exec-dies-by-suicide-a-week-before-his-trial/)
-- [The Infamous Coin Toss](https://ergodicityeconomics.com/2023/07/28/the-infamous-coin-toss/)
-- [High Dynamic Time Range Images](http://mkweb.bcgsc.ca/fun/hdtr/)
+- [The infamous coin toss](https://ergodicityeconomics.com/2023/07/28/the-infamous-coin-toss/)
+- [High Dynamic Time Range Images &lpar;2006&rpar;](http://mkweb.bcgsc.ca/fun/hdtr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
