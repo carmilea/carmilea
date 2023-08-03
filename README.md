@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vicuna v1.5 series, featuring 4K and 16K context, based on Llama 2](https://twitter.com/lmsysorg/status/1686794639469371393)
-- [Google AMP – The Newest of Evasive Phishing Tactic](https://cofense.com/blog/google-amp-the-newest-of-evasive-phishing-tactic/)
-- [Netscape Meteors](https://erynwells.me/blog/2023/08/netscape-meteors/)
-- [Derek Lowe on AOH1996: A New Mode of Cancer Treatment](https://www.science.org/content/blog-post/new-mode-cancer-treatment)
-- [A list of recent hostile moves by Google&#39;s Chrome team](https://mastodon.social/@nekohayo/110775656176571435)
+- [UpCodes &lpar;YC S17&rpar; is hiring engineers to automate construction compliance](https://up.codes/careers)
+- [Pgvector: Fewer Dimensions Are Better](https://supabase.com/blog/fewer-dimensions-are-better-pgvector)
+- [Malicious Android Apps Slip into Disguise](https://krebsonsecurity.com/2023/08/how-malicious-android-apps-slip-into-disguise/)
+- [Man Spends Entire Career Mastering Crappy Codebase](https://taylor.town/entire-career)
+- [Network Protocols for Anyone Who Knows a Programming Language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 <!-- BLOG-POST-LIST:END -->
 
 ---
