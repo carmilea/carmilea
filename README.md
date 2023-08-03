@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brave Search launches own image and video search](https://brave.com/image-video-search/)
-- [Drop Table “Companies”;– LTD &lpar;2016&rpar;](https://find-and-update.company-information.service.gov.uk/company/10542519)
-- [PropelAuth &lpar;YC W22&rpar; Is Hiring Engineers](https://www.ycombinator.com/companies/propelauth/jobs)
-- [Hackers manage to unlock Tesla software-locked features](https://electrek.co/2023/08/03/hackers-manage-unlock-tesla-software-locked-features/)
-- [Pegasus Mail](https://www.pmail.com/)
+- [WTF Happened in 2023?](https://www.notboring.co/p/wtf-happened-in-2023)
+- [The Holocaust Bomb: A Question of Time [2007]](https://sgp.fas.org/eprint/morland.html)
+- [FCC fines robocaller a record $300M after blocking billions of their scam calls](https://techcrunch.com/2023/08/03/fcc-fines-robocaller-a-record-300m-after-blocking-billions-of-their-scam-calls/)
+- [AWS to Begin Charging for Public IPv4 Addresses](https://www.infoq.com/news/2023/08/aws-ec2-public-ipv4/)
+- [Brave cuts ties with Bing to offer its own image and video search results](https://www.theregister.com/2023/08/03/brave_cuts_ties_with_bing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
