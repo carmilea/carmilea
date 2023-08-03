@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google AMP – The Newest of Evasive Phishing Tactic](https://cofense.com/blog/google-amp-the-newest-of-evasive-phishing-tactic/)
+- [Netscape Meteors](https://erynwells.me/blog/2023/08/netscape-meteors/)
 - [A list of recent hostile moves by Google&#39;s Chrome team](https://mastodon.social/@nekohayo/110775656176571435)
 - [Google’s Plan to DRM the Web Goes Against Everything Google Once Stood For](https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/)
 - [Tell HN: ai.com used to redirect to chat.openai.com, now it redirects to x.ai](https://news.ycombinator.com/item?id=36981860)
-- [LTS == 15 Years Not 5](https://www.logikalsolutions.com/wordpress/information-technology/lts/)
-- [System settings that aren’t in System Settings](https://eclecticlight.co/2023/07/29/system-settings-that-arent-in-system-settings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
