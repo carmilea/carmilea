@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Common Lisp: The Good, the Bad, the Ugly, the Ambivalent](https://wiki.alopex.li/CommonLispThoughts)
 - [Java: New Draft JEP: “Computed Constants”](http://minborgsjavapot.blogspot.com/2023/08/java-new-draft-jep-computed-constants.html)
+- [Royal Mail to Issue “Terry Pratchett’s Discworld” Stamps](https://file770.com/royal-mail-to-issue-terry-pratchetts-discworld-stamps/)
 - [Nuked-MD-FPGA – accurate Sega Genesis re-implementation based on decapped chips](https://github.com/nukeykt/Nuked-MD-FPGA)
 - [As ocean oxygen levels dip, fish face an uncertain future](https://e360.yale.edu/features/as-ocean-oxygen-levels-dip-fish-face-an-uncertain-future)
-- [Magic123: One Image to High-Quality 3D Object Generation](https://guochengqian.github.io/project/magic123/)
-- [Apple reports third quarter results](https://www.apple.com/newsroom/2023/08/apple-reports-third-quarter-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
