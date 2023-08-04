@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [4 Charts That Show Why AI Progress Is Unlikely to Slow Down](https://time.com/6300942/ai-progress-charts/)
-- [FCC imposes $300M record penalty on robocall scammers](https://docs.fcc.gov/public/attachments/DOC-395728A1.txt)
-- [Ask HN: For advice: I&#39;m a mathematician looking for a plan B outside of academia](https://news.ycombinator.com/item?id=36998936)
+- [Teach a Man to Phish and He’s Set for Life](https://krebsonsecurity.com/2023/08/teach-a-man-to-phish-and-hes-set-for-life/)
+- [85-Byte Snake Game](https://github.com/donno2048/snake)
+- [People lining up in Argentina to have their iris scanned for Worldcoin](https://twitter.com/DamianCatanzaro/status/1687243235486273536)
+- [FCC imposes record penalty against transnational illegal robocalling operation](https://docs.fcc.gov/public/attachments/DOC-395728A1.txt)
 - [MindsDB &lpar;YC W20&rpar; Is Hiring a Developer Advocate](https://jobs.lever.co/mindsdb/df8af46c-7168-4a11-bc04-52638b694833?lever-origin=applied&lever-source%5B%5D=Hackernews)
-- [The Coming Enshittification of Public Libraries](https://karawynn.substack.com/p/the-coming-enshittification-of-public-libraries)
 <!-- BLOG-POST-LIST:END -->
 
 ---
