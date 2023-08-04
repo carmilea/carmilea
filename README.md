@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beech leaf disease is ravaging North American trees](https://www.science.org/content/article/beech-leaf-disease-ravaging-north-american-trees)
+- [Show HN: Gdańsk AI – full stack AI voice chatbot &lpar;STT, LLM, TTS, auth, payments&rpar;](https://github.com/jmaczan/gdansk-ai)
+- [Heat-assisted detection and ranging &lpar;HADAR&rpar;](https://www.nature.com/articles/s41586-023-06174-6)
+- [Ten Ways to Teach Kids to Code](https://web.archive.org/web/20220810201855/https://transmission.vehikl.com/ten-ways-to-teach-kids-to-code/)
 - [Melatonin, a sleep aid, is a surprising treatment for food waste](https://www.anthropocenemagazine.org/2023/08/melatonin-a-sleep-aid-is-a-surprising-treatment-for-food-waste/)
-- [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
-- [Representing Heterogeneous Data](http://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
-- [Oral cancer drug kills 100% of tumors in vitro and in animal models](https://twitter.com/gigaj0ule/status/1686814611658715136)
-- [RedHat found a way to get around the GPLv2 license intention with contract law](https://opencoreventures.com/blog/2023-08-redhat-gets-around-gplv2-license-intention-with-contract-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
