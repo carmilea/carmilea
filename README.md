@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Frackers use dangerous chemicals without disclosure due to Halliburton loophole](https://insideclimatenews.org/news/04082023/halliburton-loophole-fracking-pennsylvania/)
+- [Customers report missing deposits from Wells Fargo bank accounts](https://www.cnn.com/2023/08/03/business/wells-fargo-technical-issue-direct-deposits/index.html)
+- [Comcast, Centurylink Fail to Derail Utah Community-Owned Gigabit Fiber Network](https://www.techdirt.com/2023/08/04/comcast-centurylink-fail-to-derail-community-owned-gigabit-fiber-network-in-bountiful-utah/)
+- [Virtualizing Development Environments in 2023](https://hocus.dev/blog/virtualizing-development-environments/)
 - [Remote work requires communicating more, but less frequently](https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/)
-- [How to add an AI Code Copilot to your product using GPT4](https://www.windmill.dev/blog/windmill-ai)
-- [Death Squared: The explosive growth and demise of a mouse population &lpar;1973&rpar; [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1644264/pdf/procrsmed00338-0007.pdf)
-- [Rich Hickey is retiring from Nubank](https://building.nubank.com.br/clojures-journey-at-nubank-a-look-into-the-future/)
-- [ImPlot: Interactive plotting library, ImGui style](https://github.com/epezent/implot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
