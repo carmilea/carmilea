@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Major government tech contractors use vendor-lock to drive revenue: study](https://fedscoop.com/major-government-tech-contractors-use-monopolistic-vendor-lock-to-drive-revenue-study/)
-- [New studies gauge impact and cause of beech leaf disease](https://www.science.org/content/article/beech-leaf-disease-ravaging-north-american-trees)
-- [Cloud Provider Gets $2.3B Loan Using Nvidia&#39;s H100 as Collateral](https://www.anandtech.com/show/19995/cloud-provider-gets-23-billion-debt-using-nvidias-h100-as-collateral)
-- [Show HN: Gdańsk AI – full stack AI voice chatbot](https://github.com/jmaczan/gdansk-ai)
-- [Heat-assisted detection and ranging](https://www.nature.com/articles/s41586-023-06174-6)
+- [Non-determinism in GPT-4 is caused by Sparse MoE](https://152334H.github.io/blog/non-determinism-in-gpt-4/)
+- [“Absurd”: Google, Amazon rebuked over unsupported Chromebooks still for sale](https://arstechnica.com/gadgets/2023/08/no-discounts-or-warnings-for-people-shopping-eol-chromebooks-on-amazon-walmart/)
+- [Google Invites Employees to Sleep &#39;On Campus&#39; for a Fee](https://gizmodo.com/google-invites-employees-to-sleep-on-campus-for-a-fee-1850709102)
+- [Pause Random Superconductor Experiments: An Open Letter](https://futureofliff.org/)
+- [IBM, Red Hat and Free Software: An old maddog’s view](https://www.lpi.org/blog/2023/07/30/ibm-red-hat-and-free-software-an-old-maddogs-view/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
