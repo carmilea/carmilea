@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Redesigning Chrome Downloads](https://blog.chromium.org/2023/08/redesigning-chrome-downloads-to-keep.html)
+- [New web framework for Python in development](https://github.com/AliRn76/panther)
 - [PicoLisp Tutorials](https://picolisp-explored.com)
 - [Zig 0.11](https://ziglang.org/download/0.11.0/release-notes.html)
-- [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
-- [Some remarks on possible superconductivity of composition Pb9CuP6O25](https://arxiv.org/abs/2308.01723)
-- [Storing dead people at -196°C [video]](https://www.youtube.com/watch?v=85BykUan6pw)
+- [Randall Couch&#39;s &#39;Peal&#39; and other literary bells](https://blogs.bl.uk/english-and-drama/2023/05/literary-bells.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
