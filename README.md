@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
-- [Aided by A.I. Language Models, Google’s Robots Are Getting Smart](https://www.nytimes.com/2023/07/28/technology/google-robots-ai.html)
 - [Some remarks on possible superconductivity of composition Pb9CuP6O25](https://arxiv.org/abs/2308.01723)
 - [Linux surpasses the Mac among Steam gamers](https://arstechnica.com/gadgets/2023/08/linux-surpasses-the-mac-among-steam-gamers/)
 - [Nuked-MD-FPGA – accurate Sega Genesis re-implementation based on decapped chips](https://github.com/nukeykt/Nuked-MD-FPGA)
+- [As ocean oxygen levels dip, fish face an uncertain future](https://e360.yale.edu/features/as-ocean-oxygen-levels-dip-fish-face-an-uncertain-future)
 <!-- BLOG-POST-LIST:END -->
 
 ---
