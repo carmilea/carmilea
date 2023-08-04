@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RedHat found a way to get around GPLv2 intention with contract law](https://opencoreventures.com/blog/2023-08-redhat-gets-around-gplv2-license-intention-with-contract-law/)
-- [Deutschlandticket: Germany’s €49 ticket pushes passenger numbers up 25%](https://www.euronews.com/green/2023/07/31/deutschlandticket-germanys-49-ticket-pushes-passenger-numbers-up-25-on-local-train-service)
-- [The unix69 keyboard layout: nerdy and nice](https://dotat.at/@/2023-08-04-unix69.html)
-- [Kodable is hiring a Full Stack Engineer to help teach millions of kids to code](https://www.indeed.com/job/full-stack-engineer-acbcc196f22f170d)
-- [PSF Hires PyPI Safety and Security Engineer](https://pyfound.blogspot.com/2023/08/announcing-our-new-pypi-safety-security.html)
+- [Melatonin, a sleep aid, is a surprising treatment for food waste](https://www.anthropocenemagazine.org/2023/08/melatonin-a-sleep-aid-is-a-surprising-treatment-for-food-waste/)
+- [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
+- [Representing Heterogeneous Data](http://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
+- [Oral cancer drug kills 100% of tumors in vitro and in animal models](https://twitter.com/gigaj0ule/status/1686814611658715136)
+- [RedHat found a way to get around the GPLv2 license intention with contract law](https://opencoreventures.com/blog/2023-08-redhat-gets-around-gplv2-license-intention-with-contract-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
