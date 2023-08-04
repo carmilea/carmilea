@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Frackers use dangerous chemicals without disclosure due to Halliburton loophole](https://insideclimatenews.org/news/04082023/halliburton-loophole-fracking-pennsylvania/)
-- [Customers report missing deposits from Wells Fargo bank accounts](https://www.cnn.com/2023/08/03/business/wells-fargo-technical-issue-direct-deposits/index.html)
-- [Comcast, Centurylink Fail to Derail Utah Community-Owned Gigabit Fiber Network](https://www.techdirt.com/2023/08/04/comcast-centurylink-fail-to-derail-community-owned-gigabit-fiber-network-in-bountiful-utah/)
-- [Virtualizing Development Environments in 2023](https://hocus.dev/blog/virtualizing-development-environments/)
-- [Remote work requires communicating more, but less frequently](https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/)
+- [Kodable is hiring a Full Stack Engineer to help teach millions of kids to code](https://www.indeed.com/job/full-stack-engineer-acbcc196f22f170d)
+- [PSF Hires PyPI Safety and Security Engineer](https://pyfound.blogspot.com/2023/08/announcing-our-new-pypi-safety-security.html)
+- [Another Joke Fine Shows US Authorities Do Not Take Illegal Telemarketing Serious](https://commsrisk.com/another-joke-fine-shows-us-authorities-do-not-take-illegal-telemarketing-calls-seriously/)
+- [Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers](https://www.thezdi.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers)
+- [Mirantis Unveils K0smotron: An Open-Source Kubernetes Management Project](https://opensourcewatch.beehiiv.com/p/mirantis-unveils-k0smotron-opensource-streamlined-kubernetes-management-project)
 <!-- BLOG-POST-LIST:END -->
 
 ---
