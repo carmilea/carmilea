@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MindsDB &lpar;YC W20&rpar; Is Hiring a Developer Advocate](https://jobs.lever.co/mindsdb/df8af46c-7168-4a11-bc04-52638b694833?lever-origin=applied&lever-source%5B%5D=Hackernews)
+- [The Coming Enshittification of Public Libraries](https://karawynn.substack.com/p/the-coming-enshittification-of-public-libraries)
+- [Painting the Eiffel Tower](https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower)
+- [Even people who bought Meta’s Ray-Ban smart glasses don’t want to use them](https://arstechnica.com/gadgets/2023/08/even-people-who-bought-metas-ray-ban-smart-glasses-dont-want-to-use-them/)
 - [Ocean Heat Record Broken](https://www.bbc.com/news/science-environment-66387537)
-- [Andrew McCalip demonstrates synthesis of LK99](https://twitter.com/andrewmccalip/status/1687405505604734978)
-- [Jam.gg &lpar;Formerly Piepacker&rpar; &lpar;YC S20&rpar; Is Hiring](https://news.ycombinator.com/item?id=36997641)
-- [Beaver Notes: A Privacy-Focused Open-Source Note-Taking App](https://www.beavernotes.com)
-- [Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
