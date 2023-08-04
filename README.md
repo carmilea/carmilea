@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jam.gg &lpar;Formerly Piepacker&rpar; &lpar;YC S20&rpar; Is Hiring](https://news.ycombinator.com/item?id=36997641)
+- [Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
 - [Redesigning Chrome Downloads](https://blog.chromium.org/2023/08/redesigning-chrome-downloads-to-keep.html)
 - [New web framework for Python in development](https://github.com/AliRn76/panther)
 - [PicoLisp Tutorials](https://picolisp-explored.com)
-- [Zig 0.11](https://ziglang.org/download/0.11.0/release-notes.html)
-- [Randall Couch&#39;s &#39;Peal&#39; and other literary bells](https://blogs.bl.uk/english-and-drama/2023/05/literary-bells.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
