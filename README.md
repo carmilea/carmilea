@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ocean Heat Record Broken](https://www.bbc.com/news/science-environment-66387537)
+- [Andrew McCalip demonstrates synthesis of LK99](https://twitter.com/andrewmccalip/status/1687405505604734978)
 - [Jam.gg &lpar;Formerly Piepacker&rpar; &lpar;YC S20&rpar; Is Hiring](https://news.ycombinator.com/item?id=36997641)
+- [Beaver Notes: A Privacy-Focused Open-Source Note-Taking App](https://www.beavernotes.com)
 - [Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
-- [Redesigning Chrome Downloads](https://blog.chromium.org/2023/08/redesigning-chrome-downloads-to-keep.html)
-- [New web framework for Python in development](https://github.com/AliRn76/panther)
-- [PicoLisp Tutorials](https://picolisp-explored.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
