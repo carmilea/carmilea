@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Teach a Man to Phish and He’s Set for Life](https://krebsonsecurity.com/2023/08/teach-a-man-to-phish-and-hes-set-for-life/)
-- [85-Byte Snake Game](https://github.com/donno2048/snake)
-- [People lining up in Argentina to have their iris scanned for Worldcoin](https://twitter.com/DamianCatanzaro/status/1687243235486273536)
-- [FCC imposes record penalty against transnational illegal robocalling operation](https://docs.fcc.gov/public/attachments/DOC-395728A1.txt)
-- [MindsDB &lpar;YC W20&rpar; Is Hiring a Developer Advocate](https://jobs.lever.co/mindsdb/df8af46c-7168-4a11-bc04-52638b694833?lever-origin=applied&lever-source%5B%5D=Hackernews)
+- [Remote work requires communicating more, but less frequently](https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/)
+- [How to add an AI Code Copilot to your product using GPT4](https://www.windmill.dev/blog/windmill-ai)
+- [Death Squared: The explosive growth and demise of a mouse population &lpar;1973&rpar; [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1644264/pdf/procrsmed00338-0007.pdf)
+- [Rich Hickey is retiring from Nubank](https://building.nubank.com.br/clojures-journey-at-nubank-a-look-into-the-future/)
+- [ImPlot: Interactive plotting library, ImGui style](https://github.com/epezent/implot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
