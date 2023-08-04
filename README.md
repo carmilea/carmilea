@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beech leaf disease is ravaging North American trees](https://www.science.org/content/article/beech-leaf-disease-ravaging-north-american-trees)
-- [Show HN: Gdańsk AI – full stack AI voice chatbot &lpar;STT, LLM, TTS, auth, payments&rpar;](https://github.com/jmaczan/gdansk-ai)
-- [Heat-assisted detection and ranging &lpar;HADAR&rpar;](https://www.nature.com/articles/s41586-023-06174-6)
-- [Ten Ways to Teach Kids to Code](https://web.archive.org/web/20220810201855/https://transmission.vehikl.com/ten-ways-to-teach-kids-to-code/)
-- [Melatonin, a sleep aid, is a surprising treatment for food waste](https://www.anthropocenemagazine.org/2023/08/melatonin-a-sleep-aid-is-a-surprising-treatment-for-food-waste/)
+- [Major government tech contractors use vendor-lock to drive revenue: study](https://fedscoop.com/major-government-tech-contractors-use-monopolistic-vendor-lock-to-drive-revenue-study/)
+- [New studies gauge impact and cause of beech leaf disease](https://www.science.org/content/article/beech-leaf-disease-ravaging-north-american-trees)
+- [Cloud Provider Gets $2.3B Loan Using Nvidia&#39;s H100 as Collateral](https://www.anandtech.com/show/19995/cloud-provider-gets-23-billion-debt-using-nvidias-h100-as-collateral)
+- [Show HN: Gdańsk AI – full stack AI voice chatbot](https://github.com/jmaczan/gdansk-ai)
+- [Heat-assisted detection and ranging](https://www.nature.com/articles/s41586-023-06174-6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
