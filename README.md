@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PicoLisp Tutorials](https://picolisp-explored.com)
 - [Zig 0.11](https://ziglang.org/download/0.11.0/release-notes.html)
 - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
 - [Some remarks on possible superconductivity of composition Pb9CuP6O25](https://arxiv.org/abs/2308.01723)
 - [Storing dead people at -196°C [video]](https://www.youtube.com/watch?v=85BykUan6pw)
-- [Linux surpasses the Mac among Steam gamers](https://arstechnica.com/gadgets/2023/08/linux-surpasses-the-mac-among-steam-gamers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
