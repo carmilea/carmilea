@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Charts That Show Why AI Progress Is Unlikely to Slow Down](https://time.com/6300942/ai-progress-charts/)
+- [FCC imposes $300M record penalty on robocall scammers](https://docs.fcc.gov/public/attachments/DOC-395728A1.txt)
+- [Ask HN: For advice: I&#39;m a mathematician looking for a plan B outside of academia](https://news.ycombinator.com/item?id=36998936)
 - [MindsDB &lpar;YC W20&rpar; Is Hiring a Developer Advocate](https://jobs.lever.co/mindsdb/df8af46c-7168-4a11-bc04-52638b694833?lever-origin=applied&lever-source%5B%5D=Hackernews)
 - [The Coming Enshittification of Public Libraries](https://karawynn.substack.com/p/the-coming-enshittification-of-public-libraries)
-- [Painting the Eiffel Tower](https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower)
-- [Even people who bought Meta’s Ray-Ban smart glasses don’t want to use them](https://arstechnica.com/gadgets/2023/08/even-people-who-bought-metas-ray-ban-smart-glasses-dont-want-to-use-them/)
-- [Ocean Heat Record Broken](https://www.bbc.com/news/science-environment-66387537)
 <!-- BLOG-POST-LIST:END -->
 
 ---
