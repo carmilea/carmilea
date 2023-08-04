@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pay no attention to the USB port behind the “no USB” sticker](https://www.theverge.com/2023/8/4/23820710/pay-no-attention-to-the-usb-port-behind-the-no-usb-sticker)
 - [Non-determinism in GPT-4 is caused by Sparse MoE](https://152334H.github.io/blog/non-determinism-in-gpt-4/)
-- [“Absurd”: Google, Amazon rebuked over unsupported Chromebooks still for sale](https://arstechnica.com/gadgets/2023/08/no-discounts-or-warnings-for-people-shopping-eol-chromebooks-on-amazon-walmart/)
-- [Google Invites Employees to Sleep &#39;On Campus&#39; for a Fee](https://gizmodo.com/google-invites-employees-to-sleep-on-campus-for-a-fee-1850709102)
-- [Pause Random Superconductor Experiments: An Open Letter](https://futureofliff.org/)
+- [Most promoted and blocked domains among Kagi Search users](https://kagi.com/stats)
 - [IBM, Red Hat and Free Software: An old maddog’s view](https://www.lpi.org/blog/2023/07/30/ibm-red-hat-and-free-software-an-old-maddogs-view/)
+- [New studies gauge impact and cause of beech leaf disease](https://www.science.org/content/article/beech-leaf-disease-ravaging-north-american-trees)
 <!-- BLOG-POST-LIST:END -->
 
 ---
