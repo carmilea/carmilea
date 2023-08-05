@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EPA Approved a Chevron Fuel Ingredient That Has a Lifetime Cancer Risk](https://science.slashdot.org/story/23/08/05/0139219/epa-approved-a-chevron-fuel-ingredient-that-has-a-lifetime-cancer-risk)
+- [They Didn’t Ask to Go Viral. Posting on Social Media Without Consent Is Immoral](https://www.wired.com/story/social-media-privacy-consent/)
 - [Will Browsers Be Required by Law to Stop You from Visiting Infringing Sites?](https://www.techdirt.com/2023/08/04/will-browsers-be-required-by-law-to-stop-you-from-visiting-infringing-sites/)
 - [Green vs. Brown Programming Languages](https://earthly.dev/blog/brown-green-language/)
 - [Bram Moolenaar Passed Away](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
-- [Intel x86 Documentation Has More Pages Than The 6502 Has Transistors &lpar;2013&rpar;](http://www.righto.com/2013/09/intel-x86-documentation-has-more-pages.html)
-- [He Dropped Out to Become a Poet. Now He’s Won a Fields Medal &lpar;2022&rpar;](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/#repost)
 <!-- BLOG-POST-LIST:END -->
 
 ---
