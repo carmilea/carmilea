@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jeremy Vaught spent 16 years to build @music on Twitter, then X took it away](https://syzito.xyz/@selzero/110837319716739179)
+- [Tim Hunkin &lpar;Secret Lives of Machines&rpar;](https://www.timhunkin.com/control/o_about_the_site.htm)
+- [CEOs’ pay climbed before layoffs at tech giants like Alphabet and Microsoft](https://southernillinoisnow.com/2023/08/05/ceos-pay-climbed-before-layoffs-at-tech-giants-like-alphabet-and-microsoft-data-shows/)
 - [MK-1](https://mkone.ai/blog/introducing-mk1)
-- [nic.funet.fi: Serving freely distributable files with FTP since 1990](https://www.funet.fi/)
-- [IBM and NASA open-source largest geospatial AI foundation model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face?sf180690117=1)
-- [We’re closer to ‘engineering’ blood vessels](https://pursuit.unimelb.edu.au/articles/we-re-closer-to-engineering-blood-vessels)
-- [Replacing the bad flyback transformer in Apple&#39;s Studio Display 17&quot;](https://www.riveducha.com/fix-apple-studio-display-flyback)
+- [First video of LK-99 Full Levitation, a.k.a. flux-pinning](https://twitter.com/Andercot/status/1687740396691185664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
