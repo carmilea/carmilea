@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Immersed Announces &#39;Visor&#39; Compact Productivity Headset with 4K OLED Displays](https://www.uploadvr.com/immersed-visor-4k-oled-microdisplay-productivity-headset/)
-- [Norton’s Dome: A simple violation of determinism in Newtonian mechanics](https://johncarlosbaez.wordpress.com/2023/08/05/nortons-dome/)
-- [Mortality patterns for patients hospitalized during national cardiology meetings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314435/)
-- [Spyware maker LetMeSpy shuts down after hacker deletes server data](https://techcrunch.com/2023/08/05/letmespy-spyware-shuts-down-wiped-server/)
-- [Wells Fargo customers scramble after deposits disappear from their accounts](https://www.nbcnews.com/business/business-news/wells-fargo-deposit-missing-outage-what-happened-rcna98201)
+- [Concrete, asphalt and urban heat islands add to the misery of heat waves](https://www.reuters.com/graphics/CLIMATE-CHANGE/URBAN-HEAT/zgpormdkevd/)
+- [Cargo Cult AI](https://queue.acm.org/detail.cfm?id=3595860)
+- [Disney discontinues DVD and Bluray production in Australia](https://www.whathifi.com/news/disney-discontinues-dvd-and-blu-ray-production-in-australia-effective-immediately)
+- [The Myth of AI Omniscience: AI&#39;s Epistemological Limits](https://cpwalker.substack.com/p/the-myth-of-ai-omniscience-ais-epistemological)
+- [The Dome: A simple violation of determinism in Newtonian mechanics &lpar;2005&rpar;](https://sites.pitt.edu/~jdnorton/Goodies/Dome/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
