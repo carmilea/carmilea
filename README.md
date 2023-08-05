@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vim&#39;s Creator Bram Moolenaar Dies at Age 62 – Slashdot](https://news.slashdot.org/story/23/08/05/1632219/vims-creator-bram-moolenaar-dies-at-age-62)
+- [Fatal grizzly attack renews debate over how many bears are too many](https://text.npr.org/1192258255)
+- [Just Normal Web Things](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)
+- [Pirate Site Not Impressed by Global DNS Blocking Order](https://torrentfreak.com/pirate-site-not-impressed-by-global-dns-blocking-order-230803/)
 - [Concrete, asphalt and urban heat islands add to the misery of heat waves](https://www.reuters.com/graphics/CLIMATE-CHANGE/URBAN-HEAT/zgpormdkevd/)
-- [Cargo Cult AI](https://queue.acm.org/detail.cfm?id=3595860)
-- [Disney discontinues DVD and Bluray production in Australia](https://www.whathifi.com/news/disney-discontinues-dvd-and-blu-ray-production-in-australia-effective-immediately)
-- [The Myth of AI Omniscience: AI&#39;s Epistemological Limits](https://cpwalker.substack.com/p/the-myth-of-ai-omniscience-ais-epistemological)
-- [The Dome: A simple violation of determinism in Newtonian mechanics &lpar;2005&rpar;](https://sites.pitt.edu/~jdnorton/Goodies/Dome/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
