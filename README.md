@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Italy Is Betting Big on Train Travel](https://www.smithsonianmag.com/smart-news/italy-tourist-trains-180982657/)
+- [Will Browsers Be Required by Law to Stop You from Visiting Infringing Sites?](https://www.techdirt.com/2023/08/04/will-browsers-be-required-by-law-to-stop-you-from-visiting-infringing-sites/)
+- [Green vs. Brown Programming Languages](https://earthly.dev/blog/brown-green-language/)
+- [Bram Moolenaar Passed Away](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 - [Intel x86 Documentation Has More Pages Than The 6502 Has Transistors &lpar;2013&rpar;](http://www.righto.com/2013/09/intel-x86-documentation-has-more-pages.html)
 - [He Dropped Out to Become a Poet. Now He’s Won a Fields Medal &lpar;2022&rpar;](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/#repost)
-- [Flux Pinning in sample of LK-99](https://twitter.com/andercot/status/1687740396691185664)
-- [GitHub Actions and Vanity Metrics](https://jamesconroyfinn.com/github-actions-and-vanity-metrics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
