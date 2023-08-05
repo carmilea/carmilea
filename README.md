@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EPA Approved a Chevron Fuel Ingredient That Has a Lifetime Cancer Risk](https://science.slashdot.org/story/23/08/05/0139219/epa-approved-a-chevron-fuel-ingredient-that-has-a-lifetime-cancer-risk)
-- [They Didn’t Ask to Go Viral. Posting on Social Media Without Consent Is Immoral](https://www.wired.com/story/social-media-privacy-consent/)
-- [Will Browsers Be Required by Law to Stop You from Visiting Infringing Sites?](https://www.techdirt.com/2023/08/04/will-browsers-be-required-by-law-to-stop-you-from-visiting-infringing-sites/)
-- [Green vs. Brown Programming Languages](https://earthly.dev/blog/brown-green-language/)
-- [Bram Moolenaar Passed Away](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
+- [Immersed Announces &#39;Visor&#39; Compact Productivity Headset with 4K OLED Displays](https://www.uploadvr.com/immersed-visor-4k-oled-microdisplay-productivity-headset/)
+- [Norton’s Dome: A simple violation of determinism in Newtonian mechanics](https://johncarlosbaez.wordpress.com/2023/08/05/nortons-dome/)
+- [Mortality patterns for patients hospitalized during national cardiology meetings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314435/)
+- [Spyware maker LetMeSpy shuts down after hacker deletes server data](https://techcrunch.com/2023/08/05/letmespy-spyware-shuts-down-wiped-server/)
+- [Wells Fargo customers scramble after deposits disappear from their accounts](https://www.nbcnews.com/business/business-news/wells-fargo-deposit-missing-outage-what-happened-rcna98201)
 <!-- BLOG-POST-LIST:END -->
 
 ---
