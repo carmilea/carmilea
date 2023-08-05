@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MatX: Faster Chips for LLMs](https://matx.com)
+- [Raycast &lpar;YC W20&rpar; Is Hiring a macOS Engineer &lpar;Remote, UTC ± 3 Hours&rpar;](https://www.raycast.com/jobs/software-engineer-macos)
+- [Archive.today: on the trail of mysterious guerrilla archivists of the Internet](https://gyrovague.com/2023/08/05/archive-today-on-the-trail-of-the-mysterious-guerrilla-archivist-of-the-internet/)
+- [Try the Last Internet Kermit Server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
+- [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
 - [NASA has reestablished full communications with Voyager 2](https://www.jpl.nasa.gov/news/nasa-mission-update-voyager-2-communications-pause)
-- [Digitization of “The Most Beautiful of All Printed Books,” the Kelmscott Chaucer](https://www.openculture.com/2023/08/behold-a-digitization-of-the-most-beautiful-of-all-printed-books-the-kelmscott-chaucer.html)
-- [Reduction of sulfur emissions from ships may be causing rising sea temperatures](https://twitter.com/hankgreen/status/1687535525169930241)
-- [Double neural bypass restores movement, sense of touch after paralysis](https://feinstein.northwell.edu/news/the-latest/bioelectronic-medicine-researchers-restore-feeling-lasting-movement-in-man-living-with-quadriplegia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
