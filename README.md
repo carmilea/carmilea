@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A close look at the 8086 processor&#39;s bus hold circuitry](http://www.righto.com/2023/08/intel-8086-bus-hold.html)
+- [Immune cells fighting cancer get exhausted within hours of encountering tumors](https://theconversation.com/immune-cells-that-fight-cancer-become-exhausted-within-hours-of-first-encountering-tumors-new-research-210947)
 - [Vim&#39;s Creator Bram Moolenaar Dies at Age 62 – Slashdot](https://news.slashdot.org/story/23/08/05/1632219/vims-creator-bram-moolenaar-dies-at-age-62)
-- [Fatal grizzly attack renews debate over how many bears are too many](https://text.npr.org/1192258255)
 - [Just Normal Web Things](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)
 - [Pirate Site Not Impressed by Global DNS Blocking Order](https://torrentfreak.com/pirate-site-not-impressed-by-global-dns-blocking-order-230803/)
-- [Concrete, asphalt and urban heat islands add to the misery of heat waves](https://www.reuters.com/graphics/CLIMATE-CHANGE/URBAN-HEAT/zgpormdkevd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
