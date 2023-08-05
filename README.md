@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A practical way to detect cargo-cult thinking](https://movingthelimit.com/a-practical-way-to-detect-cargo-cult-thinking/)
 - [nic.funet.fi: Serving freely distributable files with FTP since 1990](https://www.funet.fi/)
 - [IBM and NASA open-source largest geospatial AI foundation model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face?sf180690117=1)
 - [We’re closer to ‘engineering’ blood vessels](https://pursuit.unimelb.edu.au/articles/we-re-closer-to-engineering-blood-vessels)
 - [Replacing the bad flyback transformer in Apple&#39;s Studio Display 17&quot;](https://www.riveducha.com/fix-apple-studio-display-flyback)
-- [From Cyberdog to dataless files: a brief history of iCloud](https://eclecticlight.co/2023/08/05/from-cyberdog-to-dataless-files-a-brief-history-of-icloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
