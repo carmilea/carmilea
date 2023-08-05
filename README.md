@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Replacing the flyback transformer in an Apple Studio Display](https://www.riveducha.com/fix-apple-studio-display-flyback)
-- [Satellite supergroup spots methane super-emitters with “staggering” accuracy](https://innovationorigins.com/en/satellite-supergroup-spots-methane-super-emitters-with-staggering-accuracy/)
-- [Is “do the needful” correct?](https://www.grammarly.com/blog/do-the-needful/)
-- [Speed Up C++ Compilation](https://devtalk.blender.org/t/speed-up-c-compilation/30508)
-- [Duck DNS](https://www.duckdns.org/)
+- [nic.funet.fi: Serving freely distributable files with FTP since 1990](https://www.funet.fi/)
+- [IBM and NASA open-source largest geospatial AI foundation model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face?sf180690117=1)
+- [We’re closer to ‘engineering’ blood vessels](https://pursuit.unimelb.edu.au/articles/we-re-closer-to-engineering-blood-vessels)
+- [Replacing the bad flyback transformer in Apple&#39;s Studio Display 17&quot;](https://www.riveducha.com/fix-apple-studio-display-flyback)
+- [From Cyberdog to dataless files: a brief history of iCloud](https://eclecticlight.co/2023/08/05/from-cyberdog-to-dataless-files-a-brief-history-of-icloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
