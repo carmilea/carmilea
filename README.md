@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My history with Forth, and stack machines &lpar;2010&rpar;](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
+- [ALTEXXANET - Your 90s Internet Experience&lt;](http://altexxanet.org/)
+- [An unconventional LEGO Technic beam sandwich keyboard case](https://dotat.at/@/2023-08-06-ltbs.html)
 - [A single antibody tackles two childhood viruses](https://www.nature.com/articles/d41586-023-02428-5)
 - [Why libvirt supports only 14 PCIe hotplugged devices on x86-64](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
-- [Threat Actors Abuse Cloudflare Tunnel for Persistent Access, Data Theft](https://www.securityweek.com/threat-actors-abuse-cloudflare-tunnel-for-persistent-access-data-theft/)
-- [Selfish, Virus-Like DNA Can Carry Genes Between Species](https://www.quantamagazine.org/selfish-virus-like-dna-can-carry-genes-between-species-20230803/)
-- [The antitrust trial against Google is starting in September](https://www.thebignewsletter.com/p/the-first-big-antitrust-trial-of)
 <!-- BLOG-POST-LIST:END -->
 
 ---
