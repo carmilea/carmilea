@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Water – Oimo.io](https://oimo.io/works/water/)
+- [PEP 723 – Embedding pyproject.toml in single-file scripts – peps.python.org](https://peps.python.org/pep-0723/)
 - [Barco: Linux Containers from Scratch in C](https://github.com/lucavallin/barco)
 - [Eight Months Pregnant and Arrested After False Facial Recognition Match](https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html)
 - [We Are All Animals at Night](https://hazlitt.net/feature/we-are-all-animals-night)
-- [My history with Forth, and stack machines &lpar;2010&rpar;](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
-- [Meta Blocking News Links in Canada](https://www.michaelgeist.ca/2023/08/metablockslinks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
