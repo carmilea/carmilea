@@ -54,8 +54,8 @@
 - [An airline said her bag was lost, her tracker said otherwise. She flew to get it](https://www.cnn.com/travel/article/airtag-lost-luggage-flight/index.html)
 - [Discord Rolled Out Yubikeys for All Employees](https://discord.com/blog/how-discord-rolled-out-yubikeys-for-all-employees)
 - [MS Build of OpenJDK now with enhanced escape analysis enabled by default](https://learn.microsoft.com/en-us/java/openjdk/release-notes)
+- [Jupyter AI](https://jupyter-ai.readthedocs.io/en/latest/)
 - [Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
-- [America’s Truckers, Cargo Pilots and Package Carriers Are Fed Up](https://www.wsj.com/articles/americas-truckers-cargo-pilots-and-package-carriers-are-fed-up-1543bfee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
