@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The way out of burnout &lpar;2016&rpar;](https://www.economist.com/1843/2016/07/28/the-way-out-of-burnout)
 - [George Church lab creates functional ovary tissue from adult human stem cells](https://elifesciences.org/articles/83291)
 - [Scientists of Chinese descent leaving the US at an accelerating pace](https://www.chemistryworld.com/news/scientists-of-chinese-descent-leaving-the-us-at-an-accelerating-pace/4017831.article)
 - [Mass Editing Memory in a Transformer](https://arxiv.org/abs/2210.07229)
 - [Searching for Paul C. Pratt](https://www.bigmessowires.com/2023/08/05/searching-for-paul-c-pratt/)
-- [Jeremy Vaught spent 16 years to build @music on Twitter, then X took it away](https://syzito.xyz/@selzero/110837319716739179)
 <!-- BLOG-POST-LIST:END -->
 
 ---
