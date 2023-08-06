@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An airline said her bag was lost, her tracker said otherwise. She flew to get it](https://www.cnn.com/travel/article/airtag-lost-luggage-flight/index.html)
+- [Discord Rolled Out Yubikeys for All Employees](https://discord.com/blog/how-discord-rolled-out-yubikeys-for-all-employees)
+- [MS Build of OpenJDK now with enhanced escape analysis enabled by default](https://learn.microsoft.com/en-us/java/openjdk/release-notes)
+- [Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
 - [America’s Truckers, Cargo Pilots and Package Carriers Are Fed Up](https://www.wsj.com/articles/americas-truckers-cargo-pilots-and-package-carriers-are-fed-up-1543bfee)
-- [Driving is more expensive than you think &lpar;2020&rpar;](https://news.harvard.edu/gazette/story/2020/01/massachusetts-car-economy-costs-64-billion-study-finds/)
-- [Venture-backed startups are failing at record rates](https://www.fastcompany.com/90933648/venture-backed-startups-are-failing-at-record-rates)
-- [Nvidia Launches a 100kb text-to-image model called Perfusion](https://research.nvidia.com/labs/par/Perfusion/)
-- [Postgres Language Server](https://github.com/supabase/postgres_lsp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
