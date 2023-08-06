@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Water – Oimo.io](https://oimo.io/works/water/)
-- [PEP 723 – Embedding pyproject.toml in single-file scripts – peps.python.org](https://peps.python.org/pep-0723/)
-- [Barco: Linux Containers from Scratch in C](https://github.com/lucavallin/barco)
-- [Eight Months Pregnant and Arrested After False Facial Recognition Match](https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html)
-- [We Are All Animals at Night](https://hazlitt.net/feature/we-are-all-animals-night)
+- [Every reported mistaken arrest using facial recognition, person has been Black](https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8)
+- [Timo Noko – The Professional Hobo](https://timonoko.github.io/)
+- [The Billionaire Who Controls Your Medical Records &lpar;2021&rpar;](https://www.forbes.com/sites/katiejennings/2021/04/08/billionaire-judy-faulkner-epic-systems/)
+- [Electron Band Structure in Germanium, My Ass &lpar;2007&rpar;](https://pages.cs.wisc.edu/~kovar/hall.html)
+- [Water](https://oimo.io/works/water/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
