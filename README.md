@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A single antibody tackles two childhood viruses](https://www.nature.com/articles/d41586-023-02428-5)
+- [Why libvirt supports only 14 PCIe hotplugged devices on x86-64](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
 - [Threat Actors Abuse Cloudflare Tunnel for Persistent Access, Data Theft](https://www.securityweek.com/threat-actors-abuse-cloudflare-tunnel-for-persistent-access-data-theft/)
 - [Selfish, Virus-Like DNA Can Carry Genes Between Species](https://www.quantamagazine.org/selfish-virus-like-dna-can-carry-genes-between-species-20230803/)
-- [The First Big Antitrust Trial of the Century Is About to Start](https://www.thebignewsletter.com/p/the-first-big-antitrust-trial-of)
-- [‘Baldur’s Gate 3’ Prepared for 100k Concurrent Players, They’ve Gotten 700K](https://www.forbes.com/sites/paultassi/2023/08/06/baldurs-gate-3-prepared-for-100000-concurrent-players-theyve-gotten-700000/)
-- [I Went to 50 Different Dentists: Almost All Gave a Different Diagnosis](https://www.rd.com/article/how-honest-are-dentists/)
+- [The antitrust trial against Google is starting in September](https://www.thebignewsletter.com/p/the-first-big-antitrust-trial-of)
 <!-- BLOG-POST-LIST:END -->
 
 ---
