@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thinking of buying an EV in Colorado? You could get $26,500 in discounts](https://www.cpr.org/2023/08/04/colorado-electric-vehicle-discounts-guide/)
+- [The Sad Bastard Cookbook: Food you can make so you don&#39;t die](https://traumbooks.itch.io/the-sad-bastard-cookbook)
 - [Euros Bills Drawn Not to Represent Real Bridges. He Built Them All on This River](https://www.boredpanda.com/euro-notes-real-bridges-comparison-robin-stam/)
 - [Cult of the Dead Cow wants to save internet privacy with new encryption protocol](https://gizmodo.com/cult-of-the-dead-cow-launches-veilid-encryption-project-1850699803)
 - [The way out of burnout &lpar;2016&rpar;](https://www.economist.com/1843/2016/07/28/the-way-out-of-burnout)
-- [Types of Garden Hoe](https://www.easydigging.com/garden-hoes/articles/types-of-hoes.html)
-- [George Church lab creates ovarian granulosa-like cells from stem cells](https://elifesciences.org/articles/83291)
 <!-- BLOG-POST-LIST:END -->
 
 ---
