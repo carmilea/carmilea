@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Barco: Linux Containers from Scratch in C](https://github.com/lucavallin/barco)
+- [Eight Months Pregnant and Arrested After False Facial Recognition Match](https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html)
+- [We Are All Animals at Night](https://hazlitt.net/feature/we-are-all-animals-night)
 - [My history with Forth, and stack machines &lpar;2010&rpar;](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
-- [ALTEXXANET - Your 90s Internet Experience&lt;](http://altexxanet.org/)
-- [An unconventional LEGO Technic beam sandwich keyboard case](https://dotat.at/@/2023-08-06-ltbs.html)
-- [A single antibody tackles two childhood viruses](https://www.nature.com/articles/d41586-023-02428-5)
-- [Why libvirt supports only 14 PCIe hotplugged devices on x86-64](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
+- [Meta Blocking News Links in Canada](https://www.michaelgeist.ca/2023/08/metablockslinks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
