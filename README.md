@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Venture-backed startups are failing at record rates](https://www.fastcompany.com/90933648/venture-backed-startups-are-failing-at-record-rates)
+- [Postgres Language Server](https://github.com/supabase/postgres_lsp)
+- [Project: Police Flasher and 7-Segment LED Clock Through-Hole Soldering Kits](https://goughlui.com/2023/08/06/project-police-flasher-7-segment-led-clock-through-hole-soldering-kits/)
+- [Error Handling in Zig](https://www.aolium.com/karlseguin/4013ac14-2457-479b-e59b-e603c04673c8)
 - [Show HN: Archsense – Accurately generated architecture from the source code](https://www.archsense.dev)
-- [Reasons to Drop Docker for Podman](https://developers.redhat.com/articles/2023/08/03/3-reasons-drop-docker-podman)
-- [Internet Standard #80: ASCII Format for Network Interchange &lpar;1969&rpar;](https://www.ietf.org/rfc/std/std80.txt)
-- [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
-- [The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
 <!-- BLOG-POST-LIST:END -->
 
 ---
