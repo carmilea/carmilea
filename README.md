@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Tarot Arcana—AI tarot card readings](https://apps.apple.com/us/app/tarot-arcana/id1539747669)
+- [The Optics Library](http://markelz.physics.buffalo.edu/node/411)
+- [Serial murders have dwindled, thanks to improved technology](https://www.nytimes.com/2023/08/06/nyregion/serial-killers-gilgo-beach-rex-heuermann.html)
 - [Every reported mistaken arrest using facial recognition, person has been Black](https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8)
 - [Timo Noko – The Professional Hobo](https://timonoko.github.io/)
-- [The Billionaire Who Controls Your Medical Records &lpar;2021&rpar;](https://www.forbes.com/sites/katiejennings/2021/04/08/billionaire-judy-faulkner-epic-systems/)
-- [Electron Band Structure in Germanium, My Ass &lpar;2007&rpar;](https://pages.cs.wisc.edu/~kovar/hall.html)
-- [Water](https://oimo.io/works/water/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
