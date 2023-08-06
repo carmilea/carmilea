@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Archsense – Accurately generated architecture from the source code](https://www.archsense.dev)
+- [Reasons to Drop Docker for Podman](https://developers.redhat.com/articles/2023/08/03/3-reasons-drop-docker-podman)
 - [Internet Standard #80: ASCII Format for Network Interchange &lpar;1969&rpar;](https://www.ietf.org/rfc/std/std80.txt)
 - [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
-- [The True Story of Central Park’s Doomed Victorian Dinosaur Museum](https://www.atlasobscura.com/articles/dinosaur-museum-central-park-boss-tweed-nyc)
-- [The Sad Bastard Cookbook: Food you can make so you don&#39;t die](https://traumbooks.itch.io/the-sad-bastard-cookbook)
-- [Euros Bills Drawn Not to Represent Real Bridges. He Built Them All on This River](https://www.boredpanda.com/euro-notes-real-bridges-comparison-robin-stam/)
+- [The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
 <!-- BLOG-POST-LIST:END -->
 
 ---
