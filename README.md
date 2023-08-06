@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America’s Truckers, Cargo Pilots and Package Carriers Are Fed Up](https://www.wsj.com/articles/americas-truckers-cargo-pilots-and-package-carriers-are-fed-up-1543bfee)
+- [Driving is more expensive than you think &lpar;2020&rpar;](https://news.harvard.edu/gazette/story/2020/01/massachusetts-car-economy-costs-64-billion-study-finds/)
 - [Venture-backed startups are failing at record rates](https://www.fastcompany.com/90933648/venture-backed-startups-are-failing-at-record-rates)
+- [Nvidia Launches a 100kb text-to-image model called Perfusion](https://research.nvidia.com/labs/par/Perfusion/)
 - [Postgres Language Server](https://github.com/supabase/postgres_lsp)
-- [Project: Police Flasher and 7-Segment LED Clock Through-Hole Soldering Kits](https://goughlui.com/2023/08/06/project-police-flasher-7-segment-led-clock-through-hole-soldering-kits/)
-- [Error Handling in Zig](https://www.aolium.com/karlseguin/4013ac14-2457-479b-e59b-e603c04673c8)
-- [Show HN: Archsense – Accurately generated architecture from the source code](https://www.archsense.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
