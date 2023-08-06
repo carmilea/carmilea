@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An airline said her bag was lost, her tracker said otherwise. She flew to get it](https://www.cnn.com/travel/article/airtag-lost-luggage-flight/index.html)
-- [Discord Rolled Out Yubikeys for All Employees](https://discord.com/blog/how-discord-rolled-out-yubikeys-for-all-employees)
-- [MS Build of OpenJDK now with enhanced escape analysis enabled by default](https://learn.microsoft.com/en-us/java/openjdk/release-notes)
-- [Jupyter AI](https://jupyter-ai.readthedocs.io/en/latest/)
-- [Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
+- [Ironically, Zoom tells employees to return to office for work](https://nypost.com/2023/08/05/zoom-tells-employees-to-return-to-office-for-work/)
+- [The First Big Antitrust Trial of the Century Is About to Start](https://www.thebignewsletter.com/p/the-first-big-antitrust-trial-of)
+- [Smoke-spotting AI watches live video to find early signs of wildfire](https://www.newscientist.com/article/2386195-smoke-spotting-ai-watches-live-video-to-find-early-signs-of-wildfire/)
+- [‘Baldur’s Gate 3’ Prepared for 100k Concurrent Players, They’ve Gotten 700K](https://www.forbes.com/sites/paultassi/2023/08/06/baldurs-gate-3-prepared-for-100000-concurrent-players-theyve-gotten-700000/)
+- [I Went to 50 Different Dentists: Almost All Gave a Different Diagnosis](https://www.rd.com/article/how-honest-are-dentists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
