@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPTBot – OpenAI’s Web Crawler](https://platform.openai.com/docs/gptbot)
+- [British gas starts to turn off Hive smart home devices forever](https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever)
 - [Google Maps has become an eyesore](https://www.fastcompany.com/90930810/google-maps-eyesore-5-examples-apple-maps)
+- [Edsger Dijkstra’s One-Day Workweek](https://calnewport.com/edsger-dijkstras-one-day-workweek/)
 - [Efficient keyboard layout for English and Spanish](https://github.com/christoofar/canaria)
-- [Java’s floating-point hurts everyone everywhere &lpar;1998&rpar; [pdf]](https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf)
-- [Cloth Simulation](https://oimo.io/works/cloth/)
-- [Ravenchord – A Radical Redesign of the Piano](https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
