@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge Tools &lpar;YC W21&rpar; is hiring an engineer to lead front end development](https://www.ycombinator.com/companies/emerge-tools/jobs/zDcS7ia-senior-software-engineer-frontend-lead)
+- [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
+- [True shape of lithium revealed for the first time](https://phys.org/news/2023-08-true-lithium-revealed.html)
 - [Open-source canvas drawing web app, built using React](https://github.com/diogocapela/flatdraw)
 - [Zoom&#39;s TOS Permit Training AI on User Content Without Opt-Out](https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/)
-- [A beginner&#39;s guide to Git version control](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control)
-- [The combined power of F# and C#](https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d)
-- [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
