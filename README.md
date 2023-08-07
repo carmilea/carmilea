@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
+- [Linux Guide for Power Users](https://xnacly.me/posts/2022/linux-for-powerusers/)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Senior Software Engineers](https://onesignal.com/careers#section-job)
 - [Comlink Makes WebWorkers Enjoyable](https://www.npmjs.com/package/comlink)
-- [Displays of traffic crash numbers increase traffic crashes](https://www.science.org/doi/full/10.1126/science.abm3427)
-- [Kafka Is Dead, Long Live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
-- [Police Raid Worldcoin Warehouse in Nairobi](https://www.capitalfm.co.ke/news/2023/08/police-raid-worldcoin-cryptocurrency-warehouse-in-nairobi/)
+- [Math for kids outside of the Calculus Sequence](https://kidswholovemath.substack.com/p/math-for-kids-outside-of-the-calculus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
