@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Senior Software Engineers](https://onesignal.com/careers#section-job)
+- [Comlink Makes WebWorkers Enjoyable](https://www.npmjs.com/package/comlink)
+- [Displays of traffic crash numbers increase traffic crashes](https://www.science.org/doi/full/10.1126/science.abm3427)
 - [Kafka Is Dead, Long Live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
 - [Police Raid Worldcoin Warehouse in Nairobi](https://www.capitalfm.co.ke/news/2023/08/police-raid-worldcoin-cryptocurrency-warehouse-in-nairobi/)
-- [Bordeaux should be a climate change red flag for the wine industry](https://www.softwine.ai/bordeaux-the-canary-in-the-cellar)
-- [How to generate tested software packages using LLMs, a sandbox and a while loop](https://github.com/modal-labs/devlooper)
-- [Simple Networking in Linux](https://insanity.industries/post/simple-networking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
