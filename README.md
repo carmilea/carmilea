@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia&#39;s CUDA Monopoly](https://matt-rickard.com/nvidias-cuda-monopoly)
 - [GPTBot – OpenAI’s Web Crawler](https://platform.openai.com/docs/gptbot)
 - [British gas starts to turn off Hive smart home devices forever](https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever)
+- [Sedmario: NES Super Mario Bros level 1 written in pure sed](https://github.com/chebykinn/sedmario)
 - [Google Maps has become an eyesore](https://www.fastcompany.com/90930810/google-maps-eyesore-5-examples-apple-maps)
-- [Edsger Dijkstra’s One-Day Workweek](https://calnewport.com/edsger-dijkstras-one-day-workweek/)
-- [Efficient keyboard layout for English and Spanish](https://github.com/christoofar/canaria)
 <!-- BLOG-POST-LIST:END -->
 
 ---
