@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html)
-- [Request: Re-open JPEG XL issue](https://bugs.chromium.org/p/chromium/issues/detail?id=1451807)
-- [Sandy Bridge: Setting Intel’s Modern Foundation](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
-- [A brief glimpse at recent events in Egypt](https://omarshehata.me/notebook/glimpse_into_recent_news_in_egypt)
-- [Show HN: Axilla – Open-source TypeScript framework for LLM apps](https://github.com/axilla-io/ax)
+- [Kafka Is Dead, Long Live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
+- [Police Raid Worldcoin Warehouse in Nairobi](https://www.capitalfm.co.ke/news/2023/08/police-raid-worldcoin-cryptocurrency-warehouse-in-nairobi/)
+- [Bordeaux should be a climate change red flag for the wine industry](https://www.softwine.ai/bordeaux-the-canary-in-the-cellar)
+- [How to generate tested software packages using LLMs, a sandbox and a while loop](https://github.com/modal-labs/devlooper)
+- [Simple Networking in Linux](https://insanity.industries/post/simple-networking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
