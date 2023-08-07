@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Java’s Floating-Point Hurts Everyone Everywhere [pdf]](https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf)
+- [Cloth Simulation](https://oimo.io/works/cloth/)
 - [Ravenchord – A Radical Redesign of the Piano](https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/)
 - [The Optics Library](http://markelz.physics.buffalo.edu/node/411)
 - [Every reported mistaken arrest using facial recognition, person has been Black](https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8)
-- [Timo Noko – The Professional Hobo](https://timonoko.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
