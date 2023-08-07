@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vocal minority sets online discourse, distorting real-life perception](https://www.fastcompany.com/90933474/taylor-swifts-eras-tour-is-a-reminder-that-social-media-is-not-real-life)
-- [Ask HN: What are the big/important problems to work on?](https://news.ycombinator.com/item?id=37033312)
-- [Tell HN: &#39;&#39; in Vim moves cursor to recent line](https://news.ycombinator.com/item?id=37032885)
-- [A new chip shortage mid 2023 is hitting Australia hard – how long will it last?](https://www.sbs.com.au/news/article/whats-causing-australias-frozen-chip-shortage-and-how-long-will-it-last/ljhcvjctq)
-- [My Frugal Indie Dev Startup Stack](https://getwaitlist.com/blog/solo-dev-startup-stack)
+- [Ask HN: What&#39;s the coolest physical thing you&#39;ve made?](https://news.ycombinator.com/item?id=37033652)
+- [PSA: Intel Graphics Drivers Now Collect Telemetry by Default](https://www.techpowerup.com/312122/psa-intel-graphics-drivers-now-collect-telemetry-by-default)
+- [Turning my Framework laptop into a tiny desktop](https://arstechnica.com/gadgets/2023/08/turning-my-framework-laptop-into-a-tiny-desktop-was-fun-now-it-needs-a-job/)
+- [What&#39;s causing Australia&#39;s frozen chip shortage and how long will it last?](https://www.sbs.com.au/news/article/whats-causing-australias-frozen-chip-shortage-and-how-long-will-it-last/ljhcvjctq)
+- [My frugal indie dev startup stack &lpar;2022&rpar;](https://getwaitlist.com/blog/solo-dev-startup-stack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
