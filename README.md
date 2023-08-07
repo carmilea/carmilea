@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html)
+- [Request: Re-open JPEG XL issue](https://bugs.chromium.org/p/chromium/issues/detail?id=1451807)
+- [Sandy Bridge: Setting Intel’s Modern Foundation](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
+- [A brief glimpse at recent events in Egypt](https://omarshehata.me/notebook/glimpse_into_recent_news_in_egypt)
 - [Show HN: Axilla – Open-source TypeScript framework for LLM apps](https://github.com/axilla-io/ax)
-- [Not Using Zoom](https://the.webm.ink/not-using-zoom)
-- [In California, Car Buyers Are Choosing Electric over Gasoline in Record Numbers](https://blog.ucsusa.org/dave-reichmuth/in-california-car-buyers-are-choosing-electricity-over-gasoline-in-record-numbers/)
-- [Self-modifying code using GCC &lpar;2011&rpar;](https://nikmav.blogspot.com/2011/12/self-modifying-code-using-gcc.html)
-- [The $1M shot that changed sports contests forever](https://www.espn.com/nba/story/_/id/36146138/million-dollar-shot-michael-jordan-chicago-bulls-1993)
 <!-- BLOG-POST-LIST:END -->
 
 ---
