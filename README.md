@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
-- [Linux Guide for Power Users](https://xnacly.me/posts/2022/linux-for-powerusers/)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Senior Software Engineers](https://onesignal.com/careers#section-job)
-- [Comlink Makes WebWorkers Enjoyable](https://www.npmjs.com/package/comlink)
-- [Math for kids outside of the Calculus Sequence](https://kidswholovemath.substack.com/p/math-for-kids-outside-of-the-calculus)
+- [Open-source canvas drawing web app, built using React](https://github.com/diogocapela/flatdraw)
+- [A vision for the AI web: the real web 3.0](https://www.vikas.sh/post/vision-for-ai-web)
+- [A beginner&#39;s guide to Git version control](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control)
+- [The combined power of F# and C#](https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d)
+- [Aeroflot deactivates brakes on nine aircraft, relies solely on reverse thrust](https://aeroxplorer.com/articles/aeroflot-deactivates-brakes-on-nine-aircraft-relies-solely-on-reverse-thrust.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
