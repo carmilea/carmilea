@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to stop the “login with Google” pop up window?](https://support.google.com/accounts/thread/212592288/how-to-stop-the-login-with-google-pop-up-window?hl=en)
 - [Emerge Tools &lpar;YC W21&rpar; is hiring an engineer to lead front end development](https://www.ycombinator.com/companies/emerge-tools/jobs/zDcS7ia-senior-software-engineer-frontend-lead)
+- [CISA Releases Its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)
 - [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
-- [True shape of lithium revealed for the first time](https://phys.org/news/2023-08-true-lithium-revealed.html)
-- [Open-source canvas drawing web app, built using React](https://github.com/diogocapela/flatdraw)
-- [Zoom&#39;s TOS Permit Training AI on User Content Without Opt-Out](https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/)
+- [Semiconductor Supply Chain Explorer](https://chipexplorer.eto.tech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
