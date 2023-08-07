@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists develop pill able to kill all solid tumors in preclinical research](https://www.cityofhope.org/city-hope-scientists-develop-targeted-chemotherapy-able-kill-all-solid-tumors-preclinical-research)
-- [Uber CEO Stunned When He Heard Cost of 3-Mile Uber Ride](https://futurism.com/the-byte/uber-ceo-ride-cost)
+- [Google Maps has become an eyesore](https://www.fastcompany.com/90930810/google-maps-eyesore-5-examples-apple-maps)
+- [Efficient keyboard layout for English and Spanish](https://github.com/christoofar/canaria)
+- [Java’s floating-point hurts everyone everywhere &lpar;1998&rpar; [pdf]](https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf)
 - [Cloth Simulation](https://oimo.io/works/cloth/)
 - [Ravenchord – A Radical Redesign of the Piano](https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/)
-- [The Optics Library](http://markelz.physics.buffalo.edu/node/411)
 <!-- BLOG-POST-LIST:END -->
 
 ---
