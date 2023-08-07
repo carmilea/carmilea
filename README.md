@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What&#39;s the coolest physical thing you&#39;ve made?](https://news.ycombinator.com/item?id=37033652)
-- [PSA: Intel Graphics Drivers Now Collect Telemetry by Default](https://www.techpowerup.com/312122/psa-intel-graphics-drivers-now-collect-telemetry-by-default)
-- [Turning my Framework laptop into a tiny desktop](https://arstechnica.com/gadgets/2023/08/turning-my-framework-laptop-into-a-tiny-desktop-was-fun-now-it-needs-a-job/)
-- [What&#39;s causing Australia&#39;s frozen chip shortage and how long will it last?](https://www.sbs.com.au/news/article/whats-causing-australias-frozen-chip-shortage-and-how-long-will-it-last/ljhcvjctq)
-- [My frugal indie dev startup stack &lpar;2022&rpar;](https://getwaitlist.com/blog/solo-dev-startup-stack)
+- [Show HN: Axilla – Open-source TypeScript framework for LLM apps](https://github.com/axilla-io/ax)
+- [Not Using Zoom](https://the.webm.ink/not-using-zoom)
+- [In California, Car Buyers Are Choosing Electric over Gasoline in Record Numbers](https://blog.ucsusa.org/dave-reichmuth/in-california-car-buyers-are-choosing-electricity-over-gasoline-in-record-numbers/)
+- [Self-modifying code using GCC &lpar;2011&rpar;](https://nikmav.blogspot.com/2011/12/self-modifying-code-using-gcc.html)
+- [The $1M shot that changed sports contests forever](https://www.espn.com/nba/story/_/id/36146138/million-dollar-shot-michael-jordan-chicago-bulls-1993)
 <!-- BLOG-POST-LIST:END -->
 
 ---
