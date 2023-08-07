@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Open-source canvas drawing web app, built using React](https://github.com/diogocapela/flatdraw)
-- [A vision for the AI web: the real web 3.0](https://www.vikas.sh/post/vision-for-ai-web)
+- [Zoom&#39;s TOS Permit Training AI on User Content Without Opt-Out](https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/)
 - [A beginner&#39;s guide to Git version control](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control)
 - [The combined power of F# and C#](https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d)
-- [Aeroflot deactivates brakes on nine aircraft, relies solely on reverse thrust](https://aeroxplorer.com/articles/aeroflot-deactivates-brakes-on-nine-aircraft-relies-solely-on-reverse-thrust.php)
+- [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
