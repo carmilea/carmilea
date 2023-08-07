@@ -54,8 +54,8 @@
 - [My Frugal Indie Dev Startup Stack](https://getwaitlist.com/blog/solo-dev-startup-stack)
 - [Ongoing compilation table of LK-99 reproduction claims](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-13)
 - [Orb is a free and open source web desktop](https://gitlab.com/hsleisink/orb)
-- [Nvidia&#39;s CUDA Monopoly](https://matt-rickard.com/nvidias-cuda-monopoly)
 - [GPTBot – OpenAI’s Web Crawler](https://platform.openai.com/docs/gptbot)
+- [British Gas starts to turn off Hive smart home devices forever](https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever)
 <!-- BLOG-POST-LIST:END -->
 
 ---
