@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If You Want a Car This Heavy, You Should Pay Through the Nose](https://slate.com/business/2023/01/electric-cars-hummer-ev-tax-fees-weight-joe-biden.html)
+- [Java’s Floating-Point Hurts Everyone Everywhere [pdf]](https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf)
+- [Ravenchord – A Radical Redesign of the Piano](https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/)
 - [Show HN: Tarot Arcana—AI tarot card readings](https://apps.apple.com/us/app/tarot-arcana/id1539747669)
 - [The Optics Library](http://markelz.physics.buffalo.edu/node/411)
-- [Serial murders have dwindled, thanks to improved technology](https://www.nytimes.com/2023/08/06/nyregion/serial-killers-gilgo-beach-rex-heuermann.html)
-- [Every reported mistaken arrest using facial recognition, person has been Black](https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8)
-- [Timo Noko – The Professional Hobo](https://timonoko.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
