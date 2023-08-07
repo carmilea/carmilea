@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Java’s Floating-Point Hurts Everyone Everywhere [pdf]](https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf)
+- [Scientists develop pill able to kill all solid tumors in preclinical research](https://www.cityofhope.org/city-hope-scientists-develop-targeted-chemotherapy-able-kill-all-solid-tumors-preclinical-research)
+- [Uber CEO Stunned When He Heard Cost of 3-Mile Uber Ride](https://futurism.com/the-byte/uber-ceo-ride-cost)
 - [Cloth Simulation](https://oimo.io/works/cloth/)
 - [Ravenchord – A Radical Redesign of the Piano](https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/)
 - [The Optics Library](http://markelz.physics.buffalo.edu/node/411)
-- [Every reported mistaken arrest using facial recognition, person has been Black](https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
