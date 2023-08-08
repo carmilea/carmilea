@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [See where your house was 66M years ago](https://dinosaurpictures.org/ancient-earth#66)
-- [The Microcontroller That Just Won’t Die](https://www.eejournal.com/article/the-microcontroller-that-just-wont-die/)
-- [Show HN: Easyful – A Free Gumroad Alternative](https://www.easyful.com/)
-- [Low-cost Smartwatch powered by ESP32 module](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/)
-- [Us Electric grid history and overview](https://blog.chaselambda.com/2023/03/25/us-electric-grid-history-and-overview.html)
+- [Aviator &lpar;YC S21&rpar; is hiring engineers to build dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
+- [The Last 1%](https://jaredramsey.com/blog/20230808.html)
+- [Panama Canal Draught Restrictions Spark Liner Surcharges](https://gcaptain.com/panama-canal-draught-restrictions-spark-liner-surcharges/)
+- [Milk Sad: Weak Entropy in libbitcoin &lpar;bc&rpar; seed generation](https://milksad.info/)
+- [mCaptcha: Open-source proof-of-work captcha for websites](https://mcaptcha.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
