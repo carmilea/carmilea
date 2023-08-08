@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Creepy Question We&#39;ll All Have to Answer Soon](https://jasonpargin.substack.com/p/a-creepy-question-well-all-have-to)
+- [ASK HN: What’s a small thing you’ve purchased which has made your life better?](https://news.ycombinator.com/item?id=37047797)
+- [Vector Similarity Beyond Search](https://qdrant.tech/articles/vector-similarity-beyond-search/)
+- [Magic Earth: OSM based map and routing with crowd sourced traffic data](https://www.magicearth.com/crowd-sourced-traffic/)
+- [TSMC, Bosch, Infineon, and NXP to build fab in Germany](https://pr.tsmc.com/english/news/3049)
 - [Terminal Support for Emoji](https://darrenburns.net/posts/emoji-in-the-terminal/)
-- [Mexico seeks to solidify rank as top U.S. trade partner, push further past China](https://www.dallasfed.org/research/economics/2023/0711)
-- [Jailer, a unique open-source database tool](https://github.com/Wisser/Jailer)
-- [Norway to fine Meta $98,500 a day over user privacy breach from 14 August](https://www.theguardian.com/technology/2023/aug/07/norway-meta-fine-user-privacy-breach-targeted-ads)
 <!-- BLOG-POST-LIST:END -->
 
 ---
