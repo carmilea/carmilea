@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SnapEDA &lpar;YC S15&rpar; is hiring AI lead for electronics copilot in Bay Area](https://careers.snapeda.com/o/engineering-lead-ai)
-- [Inception: Leaking the root hash from /etc./shadow on AMD Zen 4 [video]](https://www.youtube.com/watch?v=2wCjU8iJ9G4)
-- [Go 1.21 Is Released](https://go.dev/blog/go1.21)
-- [Show HN: Chat with your data using LangChain, Pinecone, and Airbyte](https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain)
-- [Go 1.21 Released](https://go.dev/doc/go1.21)
+- [ChimeraOS: Instantly turn any PC into a gaming console](https://chimeraos.org/)
+- [Project IDX, an Experiment to Improve Full-Stack, Multiplatform App Development](https://developers.googleblog.com/2023/08/introducing-project-idx-experiment-to-improve-full-stack-multiplatform-app-development.html)
+- [Project IDX](https://idx.dev/)
+- [LCD, Please – de-make of “Papers, please”, celebrating 10 years since launch](https://dukope.itch.io/lcd-please)
+- [Downfall Attacks](https://downfall.page/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
