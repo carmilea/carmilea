@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ferromagnetic half levitation of LK-99-like synthetic samples](https://arxiv.org/abs/2308.03110)
+- [Absence of superconductivity in LK-99 at ambient conditions](https://arxiv.org/abs/2308.03544)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
 - [Malignant melanoma deploys elegant molecular mechanism to evade immune responses](https://www.cancer.columbia.edu/news/cancers-cloaking-device-revealed)
 - [To opt out of Grammarly AI training requires business account with 500+ users](https://front-end.social/@fox/110846484782705013)
-- [I would rather see my books get pirated than this](https://janefriedman.com/i-would-rather-see-my-books-pirated/)
-- [Overworked and underpaid, VFX workers vote to unionize at Marvel](https://www.vulture.com/2023/08/vfx-workers-vote-to-unionize-at-marvel-for-the-first-time.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
