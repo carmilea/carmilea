@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Agentflow – Run Complex LLM Workflows from Simple JSON](https://github.com/simonmesmith/agentflow)
-- [ChimeraOS: Instantly turn any PC into a gaming console](https://chimeraos.org/)
-- [Friendly Captcha – GDPR-Compliant Bot Protection](https://friendlycaptcha.com/)
-- [Project IDX, an Experiment to Improve Full-Stack, Multiplatform App Development](https://developers.googleblog.com/2023/08/introducing-project-idx-experiment-to-improve-full-stack-multiplatform-app-development.html)
-- [Project IDX](https://idx.dev/)
+- [See where your house was 66M years ago](https://dinosaurpictures.org/ancient-earth#66)
+- [The Microcontroller That Just Won’t Die](https://www.eejournal.com/article/the-microcontroller-that-just-wont-die/)
+- [Show HN: Easyful – A Free Gumroad Alternative](https://www.easyful.com/)
+- [Low-cost Smartwatch powered by ESP32 module](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/)
+- [Us Electric grid history and overview](https://blog.chaselambda.com/2023/03/25/us-electric-grid-history-and-overview.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
