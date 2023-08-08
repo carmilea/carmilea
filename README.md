@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Blueprint for a distributed multi-region IAM with Go and CockroachDB](https://www.ory.dev/global-identity-and-access-management-multi-region/)
-- [Navy in Middle-Earth](https://warfantasy.wordpress.com/2023/07/02/navy-in-middle-earth/)
-- [More Than Half of Earth&#39;s Species Live Underground](https://www.scientificamerican.com/article/more-than-half-of-earths-species-live-underground/)
-- [Web Scraping via JavaScript Runtime Heap Snapshots &lpar;2022&rpar;](https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots)
-- [Magic Earth: OSM based map and routing with crowd sourced traffic data](https://www.magicearth.com/crowd-sourced-traffic/)
+- [Banks Hit with Millions in Fines for Using Signal and WhatsApp](https://www.cnbc.com/2023/08/08/regulators-hit-wall-street-banks-with-549-million-in-penalties-for-record-keeping-failures-.html)
+- [How real is America’s chipmaking renaissance?](https://www.economist.com/business/2023/08/07/how-real-is-americas-chipmaking-renaissance)
+- [Launch HN: Stellar Sleep &lpar;YC S23&rpar; – An app that helps people with insomnia](https://news.ycombinator.com/item?id=37048758)
+- [Rest in peace Bram Moolenaar, author of Vim](https://arstechnica.com/gadgets/2023/08/bram-moolenaar-creator-of-the-beloved-vim-text-editor-has-passed-away/)
+- [Amazon Doesn&#39;t &#39;Employ&#39; Drivers, but Hired Firms to Prevent Them from Unionizing](https://www.vice.com/en/article/qjv3yp/amazon-says-it-doesnt-employ-drivers-but-records-show-it-hired-firms-to-prevent-them-from-unionizing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
