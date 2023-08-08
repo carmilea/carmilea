@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Unity Weta Tools](https://unity.com/solutions/unity-weta-tools)
+- [LK-99: Phonon Bands, Localized Flat Band Magnetism, Models, &amp; Chemical Analysis](https://drive.google.com/file/d/1ekD2KVV_SUid2wH__o1ODS3hTl1GUFb5/view)
 - [Android 14 introduces first-of-its-kind cellular connectivity security features](https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html)
 - [Aviator &lpar;YC S21&rpar; is hiring engineers to build dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
 - [PackagingCon – a conference only for software package management](https://packaging-con.org)
-- [The Last 1%](https://jaredramsey.com/blog/20230808.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
