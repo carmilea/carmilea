@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ASK HN: What’s a small thing you’ve purchased which has made your life better?](https://news.ycombinator.com/item?id=37047797)
-- [Vector Similarity Beyond Search](https://qdrant.tech/articles/vector-similarity-beyond-search/)
+- [Show HN: Blueprint for a distributed multi-region IAM with Go and CockroachDB](https://www.ory.dev/global-identity-and-access-management-multi-region/)
+- [Navy in Middle-Earth](https://warfantasy.wordpress.com/2023/07/02/navy-in-middle-earth/)
+- [More Than Half of Earth&#39;s Species Live Underground](https://www.scientificamerican.com/article/more-than-half-of-earths-species-live-underground/)
+- [Web Scraping via JavaScript Runtime Heap Snapshots &lpar;2022&rpar;](https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots)
 - [Magic Earth: OSM based map and routing with crowd sourced traffic data](https://www.magicearth.com/crowd-sourced-traffic/)
-- [TSMC, Bosch, Infineon, and NXP to build fab in Germany](https://pr.tsmc.com/english/news/3049)
-- [Terminal Support for Emoji](https://darrenburns.net/posts/emoji-in-the-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
