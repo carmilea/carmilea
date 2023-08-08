@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Creepy Question We&#39;ll All Have to Answer Soon](https://jasonpargin.substack.com/p/a-creepy-question-well-all-have-to)
+- [Terminal Support for Emoji](https://darrenburns.net/posts/emoji-in-the-terminal/)
 - [Mexico seeks to solidify rank as top U.S. trade partner, push further past China](https://www.dallasfed.org/research/economics/2023/0711)
-- [UK man bitten by cat contracts unknown and ‘extensive’ bacterial infection](https://www.independent.co.uk/news/science/cat-bite-nhs-infection-b2389244.html)
 - [Jailer, a unique open-source database tool](https://github.com/Wisser/Jailer)
 - [Norway to fine Meta $98,500 a day over user privacy breach from 14 August](https://www.theguardian.com/technology/2023/aug/07/norway-meta-fine-user-privacy-breach-targeted-ads)
-- [Monitoring your logs is mostly a tarpit](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
