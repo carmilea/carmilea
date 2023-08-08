@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unity Weta Tools](https://unity.com/solutions/unity-weta-tools)
+- [Android 14 introduces first-of-its-kind cellular connectivity security features](https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html)
 - [Aviator &lpar;YC S21&rpar; is hiring engineers to build dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
+- [PackagingCon – a conference only for software package management](https://packaging-con.org)
 - [The Last 1%](https://jaredramsey.com/blog/20230808.html)
-- [Panama Canal Draught Restrictions Spark Liner Surcharges](https://gcaptain.com/panama-canal-draught-restrictions-spark-liner-surcharges/)
-- [Milk Sad: Weak Entropy in libbitcoin &lpar;bc&rpar; seed generation](https://milksad.info/)
-- [mCaptcha: Open-source proof-of-work captcha for websites](https://mcaptcha.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
