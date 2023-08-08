@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lacros on Chromebooks transition plan won’t be quick](https://www.aboutchromebooks.com/news/lacros-on-chromebooks-transition-plan-wont-be-quick/)
+- [Ubiquitous Superconducting Diode Effect in Superconductor Thin Films](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.027001)
 - [Ferromagnetic half levitation of LK-99-like synthetic samples](https://arxiv.org/abs/2308.03110)
 - [Absence of superconductivity in LK-99 at ambient conditions](https://arxiv.org/abs/2308.03544)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
-- [Malignant melanoma deploys elegant molecular mechanism to evade immune responses](https://www.cancer.columbia.edu/news/cancers-cloaking-device-revealed)
-- [I would rather see my books get pirated than this](https://janefriedman.com/i-would-rather-see-my-books-pirated/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
