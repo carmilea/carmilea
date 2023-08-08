@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sea Peoples](https://en.wikipedia.org/wiki/Sea_Peoples)
+- [Show HN: Chat with your data using LangChain, Pinecone, and Airbyte](https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain)
+- [Go 1.21 Released](https://go.dev/doc/go1.21)
+- [Svelte 5 is going to be radical](https://twitter.com/Rich_Harris/status/1688581184018583558)
 - [EFF denounces Google&#39;s WEI proposal](https://www.eff.org/deeplinks/2023/08/your-computer-should-say-what-you-tell-it-say-1)
-- [Italy approves 40% windfall tax on banks for 2023 as profits soar](https://www.theguardian.com/world/2023/aug/08/italy-approves-40-windfall-tax-on-banks-for-2023-as-profits-soar)
-- [WebKit – Touch Bar Web API](https://bugs.webkit.org/show_bug.cgi?id=178736)
-- [Millions of UK voters’ data accessible in cyber-attack](https://www.theguardian.com/technology/2023/aug/08/uk-electoral-commission-registers-targeted-by-hostile-hackers)
-- [Candle: Torch Replacement in Rust](https://github.com/huggingface/candle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
