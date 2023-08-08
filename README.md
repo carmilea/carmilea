@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sea Peoples](https://en.wikipedia.org/wiki/Sea_Peoples)
+- [SnapEDA &lpar;YC S15&rpar; is hiring AI lead for electronics copilot in Bay Area](https://careers.snapeda.com/o/engineering-lead-ai)
+- [Inception: Leaking the root hash from /etc./shadow on AMD Zen 4 [video]](https://www.youtube.com/watch?v=2wCjU8iJ9G4)
+- [Go 1.21 Is Released](https://go.dev/blog/go1.21)
 - [Show HN: Chat with your data using LangChain, Pinecone, and Airbyte](https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain)
 - [Go 1.21 Released](https://go.dev/doc/go1.21)
-- [Svelte 5 is going to be radical](https://twitter.com/Rich_Harris/status/1688581184018583558)
-- [EFF denounces Google&#39;s WEI proposal](https://www.eff.org/deeplinks/2023/08/your-computer-should-say-what-you-tell-it-say-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
