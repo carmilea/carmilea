@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Agentflow – Run Complex LLM Workflows from Simple JSON](https://github.com/simonmesmith/agentflow)
 - [ChimeraOS: Instantly turn any PC into a gaming console](https://chimeraos.org/)
+- [Friendly Captcha – GDPR-Compliant Bot Protection](https://friendlycaptcha.com/)
 - [Project IDX, an Experiment to Improve Full-Stack, Multiplatform App Development](https://developers.googleblog.com/2023/08/introducing-project-idx-experiment-to-improve-full-stack-multiplatform-app-development.html)
 - [Project IDX](https://idx.dev/)
-- [LCD, Please – de-make of “Papers, please”, celebrating 10 years since launch](https://dukope.itch.io/lcd-please)
-- [Downfall Attacks](https://downfall.page/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
