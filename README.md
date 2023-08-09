@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Efficacy of infant simulator programmes to prevent teenage pregnancy](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30384-1/fulltext)
-- [KO Myung-Hun&#39;s OS/2 Factory](https://www.os2.kr/komh/os2factory/)
+- [BuildZoom &lpar;YC W13&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Optimization Techniques for GPU Programming [pdf]](https://dl.acm.org/doi/pdf/10.1145/3570638)
 - [Documenting Plants with a 3D Printer, NFC, and Cardinal](https://www.withcardinal.com/blog/2023-08-09-documenting-plants-with-cardinal)
 - [Java 21: What’s New?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
+- [Histoire: A new way to write stories, powered by Vite](https://histoire.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
