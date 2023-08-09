@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Slack’s biggest redesign ever tries to tame the chaos of your workday](https://www.theverge.com/2023/8/9/23824562/slack-redesign-app-dms-activity-later)
+- [Wheat gluten spurs brain inflammation in mice](https://neurosciencenews.com/gluten-neuroinflammation-23773/)
+- [SQLedge: Replicate Postgres to SQLite on the Edge](https://github.com/zknill/sqledge)
 - [Want employees to return to the office? Then give each one an office](https://www.washingtonpost.com/opinions/2023/08/09/remote-work-offices-floorplan-privacy/)
 - [Planetary defense test deflected an asteroid but unleashed a boulder swarm](https://newsroom.ucla.edu/releases/planetary-defense-nasa-dart-mission-asteroid)
-- [Show HN: I&#39;m 17 and wrote this guide on how CPUs run programs](https://github.com/hackclub/putting-the-you-in-cpu)
-- [The Collapse of the EV SPACs: Another One Goes Bankrupt, Others on the Verge](https://wolfstreet.com/2023/08/09/the-collapse-of-the-ev-spacs-another-one-goes-bankrupt-others-on-the-verge/)
-- [Why Sam Altman wants to scan two billion eyes](https://english.elpais.com/science-tech/2023-08-05/why-sam-altman-wants-to-scan-two-billion-eyes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
