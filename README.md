@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Efficacy of infant simulator programmes to prevent teenage pregnancy](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30384-1/fulltext)
+- [KO Myung-Hun&#39;s OS/2 Factory](https://www.os2.kr/komh/os2factory/)
+- [Documenting Plants with a 3D Printer, NFC, and Cardinal](https://www.withcardinal.com/blog/2023-08-09-documenting-plants-with-cardinal)
 - [Java 21: What’s New?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
-- [Living Wage Calculator](https://livingwage.mit.edu/)
-- [Govt warns kenyans about Worldcoin](https://www.kenyans.co.ke/news/91702-govt-warns-kenyans-about-worldcoin)
-- [Histoire: A new way to write stories, powered by Vite](https://histoire.dev/)
-- [Temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
