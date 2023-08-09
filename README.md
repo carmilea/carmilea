@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The time SUSE, the German Linux company, banned mentioning Jewish holidays](https://lunduke.substack.com/p/the-time-suse-the-german-linux-company)
+- [Many temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
+- [When Did Postgres Become Cool?](https://www.crunchydata.com/blog/when-did-postgres-become-cool)
 - [Aptible &lpar;YC S14&rpar; Is Hiring: Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
 - [Maui wildfires are &#39;apocalyptic&#39; as people jump into the ocean to flee](https://www.cnn.com/2023/08/09/weather/maui-county-wildfires-hurricane-dora/index.html)
 - [8 Ways Journalists Can Access Academic Research for Free](https://gijn.org/2023/08/09/8-ways-journalists-access-free-academic-research-journals/)
-- [Launch HN: Refine &lpar;YC S23&rpar; – Open-Source Retool for Enterprise](https://news.ycombinator.com/item?id=37064822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
