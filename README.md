@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: semi-old Firefox/Chrome can&#39;t update itslf, requires full reinstal, why?](https://news.ycombinator.com/item?id=37061816)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
-- [The Fear of AI Just Killed a Useful Tool](https://www.techdirt.com/2023/08/08/the-fear-of-ai-just-killed-a-very-useful-tool/)
-- [WeWork Warns of Possible Bankruptcy](https://www.cnbc.com/2023/08/08/wework-warns-of-remaining-going-concern-and-says-bankruptcy-possible.html)
-- [Mullvad VPN – Infrastructure Audit Completed by Open Security](https://mullvad.net/en/blog/2023/8/9/infrastructure-audit-completed-by-radically-open-security/)
+- [Want employees to return to the office? Then give each one an office](https://www.washingtonpost.com/opinions/2023/08/09/remote-work-offices-floorplan-privacy/)
+- [Planetary defense test deflected an asteroid but unleashed a boulder swarm](https://newsroom.ucla.edu/releases/planetary-defense-nasa-dart-mission-asteroid)
+- [Show HN: I&#39;m 17 and wrote this guide on how CPUs run programs](https://github.com/hackclub/putting-the-you-in-cpu)
+- [The Collapse of the EV SPACs: Another One Goes Bankrupt, Others on the Verge](https://wolfstreet.com/2023/08/09/the-collapse-of-the-ev-spacs-another-one-goes-bankrupt-others-on-the-verge/)
+- [Why Sam Altman wants to scan two billion eyes](https://english.elpais.com/science-tech/2023-08-05/why-sam-altman-wants-to-scan-two-billion-eyes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
