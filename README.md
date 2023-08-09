@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: semi-old Firefox/Chrome can&#39;t update itslf, requires full reinstal, why?](https://news.ycombinator.com/item?id=37061816)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
 - [The Fear of AI Just Killed a Useful Tool](https://www.techdirt.com/2023/08/08/the-fear-of-ai-just-killed-a-very-useful-tool/)
 - [WeWork Warns of Possible Bankruptcy](https://www.cnbc.com/2023/08/08/wework-warns-of-remaining-going-concern-and-says-bankruptcy-possible.html)
 - [Mullvad VPN – Infrastructure Audit Completed by Open Security](https://mullvad.net/en/blog/2023/8/9/infrastructure-audit-completed-by-radically-open-security/)
-- [Inception Attack](https://www.bleepingcomputer.com/news/security/new-inception-attack-leaks-sensitive-data-from-all-amd-zen-cpus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
