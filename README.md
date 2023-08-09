@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plunder and Urbit](https://gist.github.com/wicrum-wicrun/b308b298721ccbe0de9c6c73a6ee4242)
 - [Testing Intel’s Arc A770 GPU for Deep Learning](https://christianjmills.com/posts/arc-a770-testing/part-2/)
 - [Unity Weta Tools](https://unity.com/solutions/unity-weta-tools)
 - [LK-99: Phonon bands, Localized Flat Band Magnetism, Models and Chemical Analysis](https://drive.google.com/file/d/1ekD2KVV_SUid2wH__o1ODS3hTl1GUFb5/view)
 - [Android 14 introduces cellular connectivity security features](https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html)
-- [Aviator &lpar;YC S21&rpar; is hiring engineers to build dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
