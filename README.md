@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using GPT as an HVAC control system](https://arxiv.org/abs/2308.03028)
+- [Swap_8_and_9: A simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
 - [Plunder and Urbit](https://gist.github.com/wicrum-wicrun/b308b298721ccbe0de9c6c73a6ee4242)
 - [Testing Intel’s Arc A770 GPU for Deep Learning](https://christianjmills.com/posts/arc-a770-testing/part-2/)
 - [Rising ill-health and economic inactivity from long-term sickness: 2019 to 2023](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/economicinactivity/articles/risingillhealthandeconomicinactivitybecauseoflongtermsicknessuk/2019to2023)
-- [Unity Weta Tools](https://unity.com/solutions/unity-weta-tools)
-- [LK-99: Phonon bands, Localized Flat Band Magnetism, Models and Chemical Analysis](https://drive.google.com/file/d/1ekD2KVV_SUid2wH__o1ODS3hTl1GUFb5/view)
 <!-- BLOG-POST-LIST:END -->
 
 ---
