@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supreme Court rules against Epic, so Apple can keep its App Store payment rules](https://www.theverge.com/2023/8/9/23826043/epic-apple-app-store-supreme-court-petition)
+- [Aptible &lpar;YC S14&rpar; Is Hiring: Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
+- [Credit card debt tops $1 trillion, trapping even six-figure earners](https://www.washingtonpost.com/business/2023/08/08/credit-card-debt-1-trillion-high-earners/)
+- [8 Ways Journalists Can Access Academic Research for Free](https://gijn.org/2023/08/09/8-ways-journalists-access-free-academic-research-journals/)
 - [Launch HN: Refine &lpar;YC S23&rpar; – Open-Source Retool for Enterprise](https://news.ycombinator.com/item?id=37064822)
-- [Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)
-- [Show HN: PC Builder AI](https://www.pcbuilderai.com/)
-- [I don&#39;t want to host services &lpar;but I do&rpar;](https://ergaster.org/posts/2023/08/09-i-dont-want-to-host-services-but-i-do/)
-- [B.C. woman buried in Amazon packages she did not ask for and does not want](https://www.cbc.ca/news/canada/british-columbia/amazon-shoe-packages-1.6926200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
