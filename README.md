@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Many temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
-- [When Did Postgres Become Cool?](https://www.crunchydata.com/blog/when-did-postgres-become-cool)
-- [Aptible &lpar;YC S14&rpar; Is Hiring: Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
-- [Maui wildfires are &#39;apocalyptic&#39; as people jump into the ocean to flee](https://www.cnn.com/2023/08/09/weather/maui-county-wildfires-hurricane-dora/index.html)
-- [8 Ways Journalists Can Access Academic Research for Free](https://gijn.org/2023/08/09/8-ways-journalists-access-free-academic-research-journals/)
+- [Java 21: What’s New?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
+- [Living Wage Calculator](https://livingwage.mit.edu/)
+- [Govt warns kenyans about Worldcoin](https://www.kenyans.co.ke/news/91702-govt-warns-kenyans-about-worldcoin)
+- [Histoire: A new way to write stories, powered by Vite](https://histoire.dev/)
+- [Temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
