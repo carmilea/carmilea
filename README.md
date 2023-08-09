@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Slack’s biggest redesign ever tries to tame the chaos of your workday](https://www.theverge.com/2023/8/9/23824562/slack-redesign-app-dms-activity-later)
-- [Wheat gluten spurs brain inflammation in mice](https://neurosciencenews.com/gluten-neuroinflammation-23773/)
-- [SQLedge: Replicate Postgres to SQLite on the Edge](https://github.com/zknill/sqledge)
-- [Want employees to return to the office? Then give each one an office](https://www.washingtonpost.com/opinions/2023/08/09/remote-work-offices-floorplan-privacy/)
-- [Planetary defense test deflected an asteroid but unleashed a boulder swarm](https://newsroom.ucla.edu/releases/planetary-defense-nasa-dart-mission-asteroid)
+- [Launch HN: Refine &lpar;YC S23&rpar; – Open-Source Retool for Enterprise](https://news.ycombinator.com/item?id=37064822)
+- [Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)
+- [Show HN: PC Builder AI](https://www.pcbuilderai.com/)
+- [I don&#39;t want to host services &lpar;but I do&rpar;](https://ergaster.org/posts/2023/08/09-i-dont-want-to-host-services-but-i-do/)
+- [B.C. woman buried in Amazon packages she did not ask for and does not want](https://www.cbc.ca/news/canada/british-columbia/amazon-shoe-packages-1.6926200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
