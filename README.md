@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WeWork Warns of Possible Bankruptcy](https://www.cnbc.com/2023/08/08/wework-warns-of-remaining-going-concern-and-says-bankruptcy-possible.html)
+- [Mullvad VPN – Infrastructure Audit Completed by Open Security](https://mullvad.net/en/blog/2023/8/9/infrastructure-audit-completed-by-radically-open-security/)
 - [Inception Attack](https://www.bleepingcomputer.com/news/security/new-inception-attack-leaks-sensitive-data-from-all-amd-zen-cpus/)
 - [New part day: Finally a 100% new Commodore 64 can be built](https://1nt3r.net/j-cia/)
-- [Reflecting on My Failure to Build a Billion-Dollar Company &lpar;2019&rpar;](https://sahillavingia.com/reflecting)
 - [Amazon has more than half of all Arm server CPUs in the world](https://www.theregister.com/2023/08/08/amazon_arm_servers/)
-- [A Critical Problem &lpar;2017&rpar;](https://nucleardiner.wordpress.com/2017/06/19/a-critical-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
