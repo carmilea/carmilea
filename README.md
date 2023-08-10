@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There are 28 vacant homes for every person experiencing homelessness in the U.S.](https://unitedwaynca.org/blog/vacant-homes-vs-homelessness-by-city/)
+- [Was Y Combinator worth it?](https://tableflow.com/blog/was-y-combinator-worth-it)
+- [HashiCorp Adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
+- [Amiga runs Michigan schools&#39; heating and air conditioning systems &lpar;2015&rpar;](https://www.woodtv.com/news/grand-rapids/1980s-computer-controls-grps-heat-and-ac/)
 - [Muon g-2 doubles down with latest measurement, explores uncharted territory](https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/)
 - [Turns out lowly thymus may be saving your life](https://news.harvard.edu/gazette/story/2023/08/turns-out-lowly-thymus-may-be-saving-your-life/)
-- [Median Center of Population for the United States: 1880 to 2020 &lpar;2020&rpar;](https://www.census.gov/library/visualizations/2020/geo/center-of-population-1880-2020.html)
-- [Nick Cave on ChatGPT and the creative process](https://www.theredhandfiles.com/chatgpt-making-things-faster-and-easier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
