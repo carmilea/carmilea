@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Was Y Combinator worth it?](https://tableflow.com/blog/was-y-combinator-worth-it)
-- [HashiCorp Adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
-- [Amiga runs Michigan schools&#39; heating and air conditioning systems &lpar;2015&rpar;](https://www.woodtv.com/news/grand-rapids/1980s-computer-controls-grps-heat-and-ac/)
-- [Muon g-2 doubles down with latest measurement, explores uncharted territory](https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/)
-- [Turns out lowly thymus may be saving your life](https://news.harvard.edu/gazette/story/2023/08/turns-out-lowly-thymus-may-be-saving-your-life/)
+- [How green is your electric vehicle really?](https://www.economist.com/business/2023/08/10/how-green-is-your-electric-vehicle-really)
+- [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
+- [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
+- [My Overkill Home Network – Complete Details 2023](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
+- [A Grumman F11 Tiger Shot Itself Down](https://www.planeandpilotmag.com/news/pilot-talk/grumman-f11-tiger-shoot-itself-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
