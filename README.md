@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How green is your electric vehicle really?](https://www.economist.com/business/2023/08/10/how-green-is-your-electric-vehicle-really)
+- [HashiCorp Switches to BSL License](https://www.hashicorp.com/license-faq#What-did-HashiCorp-announce-today-(Aug-10))
+- [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
 - [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
 - [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
 - [My Overkill Home Network – Complete Details 2023](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
-- [A Grumman F11 Tiger Shot Itself Down](https://www.planeandpilotmag.com/news/pilot-talk/grumman-f11-tiger-shoot-itself-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
