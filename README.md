@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Unbelievable&#39;: Astronomer Claims &#39;Direct Evidence&#39; of Gravity Breaking Down](https://www.vice.com/en/article/ak3jwb/unbelievable-astronomer-claims-direct-evidence-of-gravity-breaking-down)
-- [Has Google Translate been fixed yet?](https://isgooglefixed.tw/)
-- [Scripps Institution of Oceanography’s FLIP vessel decommissioned after 60 years](https://maritime-executive.com/article/world-s-strangest-research-vessel-heads-for-scrapyard-after-51-years)
-- [Supermarket AI meal planner app suggests recipe that would create chlorine gas](https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes)
-- [Manias and Mimesis: Applying René Girard’s Mimetic Theory to Financial Bubbles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469465)
+- [Get your staff&#39;s consent before you monitor them, tech inquiry warns](https://www.theregister.com/2023/08/10/workplace_monitoring_select_committee/)
+- [Generative Agents: Interactive Simulacra of Human Behavior, Now Open Source](https://github.com/joonspk-research/generative_agents)
+- [Speed Test](https://speed.cloudflare.com/)
+- [Russia starts blocking VPN at the protocol &lpar;WireGuard, OpenVPN&rpar; level](https://vpncentral.com/russia-starts-blocking-vpn-protocols/)
+- [After 118 days, GPT Unicorn has produced a unicorn](https://gpt-unicorn.adamkdean.co.uk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
