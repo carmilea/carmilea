@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Virgin Galactic successfully flies tourists to space for first time](https://www.theguardian.com/science/2023/aug/10/vigin-galactic-space-flight-vss-unity-landing)
 - [Maybe the problem is that Harvard exists](https://dynomight.net/harvard/)
+- [Two Students Shoot Down a Widely Believed Math Conjecture](https://www.quantamagazine.org/two-students-shoot-down-a-widely-believed-math-conjecture-20230810/)
 - [Launch HN: Rubbrband &lpar;YC W23&rpar; – Deformity detection for AI-generated images](https://news.ycombinator.com/item?id=37076693)
 - [MS Teams channels cannot contain MS-DOS device names](https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams)
-- [Nanoscale &#39;tattoos&#39; for individual cells could provide early health warnings](https://phys.org/news/2023-08-nanoscale-tattoos-individual-cells-early.html)
-- [IBM Data Replication and SingleStoreDB Enabling Real-Time Applications](https://www.singlestore.com/blog/ibm-data-replication-and-singlestoredb-real-time-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
