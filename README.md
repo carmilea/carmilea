@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gym Class VR &lpar;YC W22&rpar; Is Hiring Unity Tooling Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/futIIml-unity-engineer-tools)
-- [What’s causing the rise of hoarding disorder?](https://daily.jstor.org/whats-causing-the-rise-of-hoarding-disorder/)
-- [The Future of the Vim Project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
-- [The Yandex Leak: How a Russian Search Giant Uses Consumer Data](https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data)
-- [Get your staff&#39;s consent before you monitor them, tech inquiry warns](https://www.theregister.com/2023/08/10/workplace_monitoring_select_committee/)
+- [Nanoscale &#39;tattoos&#39; for individual cells could provide early health warnings](https://phys.org/news/2023-08-nanoscale-tattoos-individual-cells-early.html)
+- [IBM Data Replication and SingleStoreDB Enabling Real-Time Applications](https://www.singlestore.com/blog/ibm-data-replication-and-singlestoredb-real-time-applications/)
+- [More Than 40% of Japanese Women May Never Have Children](https://www.bloomberg.com/news/articles/2023-08-09/more-than-40-of-japanese-women-may-end-up-never-having-children)
+- [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)
+- [Lego’s new $200 Concorde is a fantastic homage to the supersonic passenger jet](https://www.theverge.com/23826738/lego-concorde-supersonic-jet-price-release-date)
 <!-- BLOG-POST-LIST:END -->
 
 ---
