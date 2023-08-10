@@ -55,7 +55,7 @@
 - [Make a low-cost Bluetooth LE packet sniffer with Wireshark](https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/guides/ble-sniffer/)
 - [Show HN: Bubblic – end loneliness together using the power of your voice](https://bubblic.co/)
 - [Autogenerating Rust-JS Bindings with UniFFI](https://hacks.mozilla.org/2023/08/autogenerating-rust-js-bindings-with-uniffi/)
-- [What Is Happening with ChatGPT?](https://chat.openai.com/share/ca5e0c33-7a19-41a1-8f8a-b146b68e2d1a)
+- [Seattle becomes first in U.S. to protect gig workers from sudden &#39;deactivation&#39;](https://kuow.org/stories/seattle-becomes-first-in-u-s-to-protect-gig-workers-from-sudden-deactivation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
