@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Memfault &lpar;YC W19&rpar; Is Hiring a Data/Back End Engineer](https://www.ycombinator.com/companies/memfault/jobs/zALzwIe-backend-engineer-systems-data)
-- [GM confirms $130k Cadillac won’t have Apple CarPlay or Android Auto](https://www.theverge.com/2023/8/10/23827059/gm-no-carplay-android-auto-escalade-iq)
-- [CIQ, Oracle, SUSE Create Open Enterprise Linux Association](https://www.suse.com/news/OpenELA-for-a-Collaborative-and-Open-Future/)
-- [Virgin Galactic successfully flies tourists to space for first time](https://www.theguardian.com/science/2023/aug/10/vigin-galactic-space-flight-vss-unity-landing)
-- [Researchers watched 100 hours of hackers hacking honeypot computers](https://techcrunch.com/2023/08/09/researchers-watched-100-hours-of-hackers-hacking-honeypot-computers/)
+- [Water Cooled Rooftop Solar Panels](https://evergreenoffgrid.com/water-cooled-rooftop-solar-panels/)
+- [eSignature for Google Docs and Google Drive &lpar;Beta&rpar;](https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html)
+- [Amazon Cuts Dozens of House Brands as It Battles Costs, Regulators](https://www.wsj.com/articles/amazon-cuts-dozens-of-house-brands-as-it-battles-costs-regulators-3f6ad56d)
+- [Lichess will no longer cooperate with the USCF and the Saint Louis Chess Club](https://lichess.org/blog/ZNTniBEAACEAJZTn/breaking-the-silence)
+- [Timelapse of Cigarettes Left in Soil for an Entire Year](https://petapixel.com/2023/08/07/incredible-timelapse-of-cigarettes-left-in-soil-for-an-entire-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
