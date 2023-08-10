@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hawaii responds as deadly wildfires across 2 islands destroy communities](https://www.staradvertiser.com/2023/08/09/breaking-news/massive-wildfires-devastate-lahaina-wreak-havoc-across-2-islands/)
+- [Show HN: Bubblic – end loneliness together using the power of your voice](https://bubblic.co/)
+- [What Is Happening with ChatGPT?](https://chat.openai.com/share/ca5e0c33-7a19-41a1-8f8a-b146b68e2d1a)
 - [Seattle becomes first in U.S. to protect gig workers from sudden &#39;deactivation&#39;](https://kuow.org/stories/seattle-becomes-first-in-u-s-to-protect-gig-workers-from-sudden-deactivation)
 - [UChicago scientists see first evidence of &#39;quantum superchemistry&#39; in the lab](https://news.uchicago.edu/story/uchicago-scientists-observe-first-evidence-quantum-superchemistry-laboratory)
 - [Paul Graham on Conversations with Tyler](https://conversationswithtyler.com/episodes/paul-graham/)
-- [Company Behind Stable Diffusion Is Crumbling](https://futurism.com/the-byte/stability-ai-stable-diffusion-chaos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
