@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Maybe the problem is that Harvard exists](https://dynomight.net/harvard/)
+- [Launch HN: Rubbrband &lpar;YC W23&rpar; – Deformity detection for AI-generated images](https://news.ycombinator.com/item?id=37076693)
+- [MS Teams channels cannot contain MS-DOS device names](https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams)
 - [Nanoscale &#39;tattoos&#39; for individual cells could provide early health warnings](https://phys.org/news/2023-08-nanoscale-tattoos-individual-cells-early.html)
 - [IBM Data Replication and SingleStoreDB Enabling Real-Time Applications](https://www.singlestore.com/blog/ibm-data-replication-and-singlestoredb-real-time-applications/)
-- [More Than 40% of Japanese Women May Never Have Children](https://www.bloomberg.com/news/articles/2023-08-09/more-than-40-of-japanese-women-may-end-up-never-having-children)
-- [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)
-- [Lego’s new $200 Concorde is a fantastic homage to the supersonic passenger jet](https://www.theverge.com/23826738/lego-concorde-supersonic-jet-price-release-date)
 <!-- BLOG-POST-LIST:END -->
 
 ---
