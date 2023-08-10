@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Water Cooled Rooftop Solar Panels](https://evergreenoffgrid.com/water-cooled-rooftop-solar-panels/)
-- [eSignature for Google Docs and Google Drive &lpar;Beta&rpar;](https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html)
-- [Amazon Cuts Dozens of House Brands as It Battles Costs, Regulators](https://www.wsj.com/articles/amazon-cuts-dozens-of-house-brands-as-it-battles-costs-regulators-3f6ad56d)
-- [Timelapse of Cigarettes Left in Soil for an Entire Year](https://petapixel.com/2023/08/07/incredible-timelapse-of-cigarettes-left-in-soil-for-an-entire-year/)
-- [Show HN: Retake – Open-Source Hybrid Search for Postgres](https://github.com/getretake/retake)
+- [There are 28 vacant homes for every person experiencing homelessness in the U.S.](https://unitedwaynca.org/blog/vacant-homes-vs-homelessness-by-city/)
+- [Muon g-2 doubles down with latest measurement, explores uncharted territory](https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/)
+- [Turns out lowly thymus may be saving your life](https://news.harvard.edu/gazette/story/2023/08/turns-out-lowly-thymus-may-be-saving-your-life/)
+- [Median Center of Population for the United States: 1880 to 2020 &lpar;2020&rpar;](https://www.census.gov/library/visualizations/2020/geo/center-of-population-1880-2020.html)
+- [Nick Cave on ChatGPT and the creative process](https://www.theredhandfiles.com/chatgpt-making-things-faster-and-easier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
