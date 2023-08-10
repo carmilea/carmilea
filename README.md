@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of the Vim Project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
+- [The Yandex Leak: How a Russian Search Giant Uses Consumer Data](https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data)
+- [UPS CEO says drivers will avg $170k in pay and benefits at end of 5-year deal](https://www.cnbc.com/2023/08/09/ups-drivers-to-average-170000-in-pay-benefits-at-end-of-5-year-deal.html)
 - [Get your staff&#39;s consent before you monitor them, tech inquiry warns](https://www.theregister.com/2023/08/10/workplace_monitoring_select_committee/)
-- [Generative Agents: Interactive Simulacra of Human Behavior, Now Open Source](https://github.com/joonspk-research/generative_agents)
-- [Speed Test](https://speed.cloudflare.com/)
-- [Russia starts blocking VPN at the protocol &lpar;WireGuard, OpenVPN&rpar; level](https://vpncentral.com/russia-starts-blocking-vpn-protocols/)
-- [After 118 days, GPT Unicorn has produced a unicorn](https://gpt-unicorn.adamkdean.co.uk/)
+- [Regex Licensing](https://regexlicensing.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
