@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Websites and APIs on Render are unavailable due to Cloudflare network errors](https://status.render.com/incidents/cshql6qwnldj)
 - [Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
 - [git-appraise – Distributed Code Review for Git](https://github.com/google/git-appraise)
 - [I fixed a bug the other day](https://www.javiergonzalez.io/blog/i-fixed-a-bug/)
 - [Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
-- [SQLite Functions for Working with JSON](https://www.sqlite.org/json1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
