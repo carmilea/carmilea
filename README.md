@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
+- [git-appraise – Distributed Code Review for Git](https://github.com/google/git-appraise)
+- [I fixed a bug the other day](https://www.javiergonzalez.io/blog/i-fixed-a-bug/)
+- [Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
 - [SQLite Functions for Working with JSON](https://www.sqlite.org/json1.html)
-- [ACM Skills Bundle Add-On](https://learning.acm.org/skills-bundle)
-- [Source code for Quake 2 rerelease](https://github.com/id-Software/quake2-rerelease-dll)
-- [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
-- [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
