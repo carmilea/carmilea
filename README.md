@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Supreme Court needs more scrutiny, not less](https://www.postandcourier.com/opinion/commentary/commentary-alito-is-wrong-us-supreme-court-needs-more-scrutiny-not-less/article_bd3af988-f352-11ed-bc4b-3341d82665ef.html)
+- [Perils of not being attractive or athletic in middle school](https://www.fau.edu/newsdesk/articles/perils-middle-school-study.php)
 - [SQLite Functions for Working with JSON](https://www.sqlite.org/json1.html)
+- [ACM Skills Bundle Add-On](https://learning.acm.org/skills-bundle)
 - [Source code for Quake 2 rerelease](https://github.com/id-Software/quake2-rerelease-dll)
 - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
-- [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
