@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pijul: Version-Control Post-Git • Goto 2023](https://www.youtube.com/watch?v=7MpdZkGj5AI)
+- [Sites scramble to block ChatGPT web crawler after instructions emerge](https://arstechnica.com/information-technology/2023/08/openai-details-how-to-keep-chatgpt-from-gobbling-up-website-data/)
 - [An Introduction to Graph Theory](https://arxiv.org/abs/2308.04512)
 - [Mux &lpar;YC W16&rpar; Is Hiring a Director of Engineering for Data/Platform Teams](https://mux.com/jobs?role=direng)
 - [80% of bosses say they regret earlier return-to-office plans](https://www.cnbc.com/2023/08/11/80percent-of-bosses-say-they-regret-earlier-return-to-office-plans.html)
-- [Web Environment Integrity has no standing at W3C; understanding new W3C work](https://www.w3.org/blog/2023/web-environment-integrity-has-no-standing-at-w3c/)
-- [ARM’s Cortex A710: Winning by Default](https://chipsandcheese.com/2023/08/11/arms-cortex-a710-winning-by-default/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
