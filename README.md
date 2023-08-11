@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Evidence for Large Climate Altering Thermonuclear Explosions on Mars in the Past](https://www.researchgate.net/publication/371769294_Evidence_for_Large_Planetary_Climate_Altering_Thermonuclear_Explosions_on_Mars_in_the_Past)
-- [Publishers in Canada urge regulator to prevent Meta from restricting news access](https://philaverse.substack.com/p/publishers-in-canada-urges-regulator)
+- [Tailscale vs. Narrowlink](https://narrowlink.com/docs/comparisons/tailscale)
+- [YouTube-Dl Site Goes Offline as Hosting Provider Enforces Court-Ordered Ban](https://torrentfreak.com/youtube-dl-site-goes-offline-as-hosting-provider-enforces-court-ordered-ban-230809/)
 - [Want to pwn a satellite? Turns out it&#39;s surprisingly easy](https://www.theregister.com/2023/08/11/satellite_hacking_black_hat/)
-- [NewOS &lpar;2005&rpar;](https://newos.org/)
 - [OpenTerraform – an MPL fork of Terraform after HashiCorp&#39;s license change](https://github.com/diggerhq/open-terraform)
+- [What HashiCorp’s license change means for our customers](https://spacelift.io/blog/hashicorps-license-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
