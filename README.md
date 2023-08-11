@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists may be on brink of discovering fifth force of nature](https://www.theguardian.com/science/2023/aug/11/scientists-fifth-force-nature)
+- [California allows robo-taxis to expand and emergency responders aren&#39;t happy](https://www.npr.org/2023/08/10/1193272085/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts)
 - [Feral desert donkeys are digging wells, giving water to parched wildlife](https://theconversation.com/feral-desert-donkeys-are-digging-wells-giving-water-to-parched-wildlife-159909)
+- [Abusing Zoom&#39;s Zero Touch Provisioning for Remote Attacks on Desk Phones](https://blog.syss.com/posts/zero-touch-pwn/)
 - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing-its-3am-paul-the-head-of)
-- [Fastest Branchless Binary Search](https://mhdm.dev/posts/sb_lower_bound/)
-- [George Hotz: There is no hard takeoff](https://geohot.github.io//blog/jekyll/update/2023/08/10/there-is-no-hard-takeoff.html)
-- [Artificial General Intelligence – A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
