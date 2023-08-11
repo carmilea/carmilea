@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HashiCorp Switches to BSL License](https://www.hashicorp.com/license-faq#What-did-HashiCorp-announce-today-(Aug-10))
+- [US Supreme Court needs more scrutiny, not less](https://www.postandcourier.com/opinion/commentary/commentary-alito-is-wrong-us-supreme-court-needs-more-scrutiny-not-less/article_bd3af988-f352-11ed-bc4b-3341d82665ef.html)
+- [SQLite Functions for Working with JSON](https://www.sqlite.org/json1.html)
+- [Source code for Quake 2 rerelease](https://github.com/id-Software/quake2-rerelease-dll)
 - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
 - [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
-- [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
-- [My Overkill Home Network – Complete Details 2023](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
