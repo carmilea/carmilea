@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dramatic rise in cancer in people under 50](https://news.harvard.edu/gazette/story/2022/09/researchers-report-dramatic-rise-in-early-onset-cancers/)
+- [Google has marked my website as harmful for a file that does not exist](https://news.ycombinator.com/item?id=37086814)
 - [Fastest Branchless Binary Search](https://mhdm.dev/posts/sb_lower_bound/)
+- [George Hotz: There is no hard takeoff](https://geohot.github.io//blog/jekyll/update/2023/08/10/there-is-no-hard-takeoff.html)
 - [Artificial General Intelligence – A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html)
-- [The Bipolar Lisp Programmer](https://www.marktarver.com/bipolar.html)
-- [The Life of a Lawyer in the Late Roman Republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
-- [Browsers barely care what HTTP status code your web pages are served with](https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndHTTPStatusCodes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
