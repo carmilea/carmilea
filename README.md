@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Inability to Simultaneously Verify Sentience, Location, and Identity](https://arxiv.org/abs/2308.02202)
-- [Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes](https://www.ipp.mpg.de/5322229/01_23)
-- [Why is division so much more complex than other arithmetic operations?](https://scicomp.stackexchange.com/questions/187/why-is-division-so-much-more-complex-than-other-arithmetic-operations)
-- [RFC 9446 Reflections on Ten Years Past the Snowden Revelations](https://www.rfc-editor.org/rfc/rfc9446.html)
-- [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/#like-2777)
+- [256TB SSD from Samsung](https://semiconductor.samsung.com/news-events/tech-blog/samsung-announces-innovations-to-enhance-memory-customer-experience-in-data-centric-era-at-fms-2023/)
+- [Sam Bankman-Fried Sent Back to Jail After Leaking Diary of Ex-Lover](https://themessenger.com/business/sbf-thrown-in-jail-for-tampering-with-star-witness-in-upcoming-fraud-trial)
+- [Sam Bankman-Fried to Be Sent to Jail After Judge Revokes Bail](https://www.nytimes.com/2023/08/11/technology/sam-bankman-fried-to-be-sent-to-jail-after-judge-revokes-bail.html)
+- [Judge to revoke bail for FTX founder Sam Bankman-Fried over witness tampering](https://www.cnbc.com/2023/08/11/judge-to-revoke-bail-for-ftx-founder-sam-bankman-fried-over-witness-tampering.html)
+- [The inability to simultaneously verify sentience, location, and identity](https://arxiv.org/abs/2308.02202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
