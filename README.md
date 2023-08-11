@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pornhub Sues Texas over Age Verification Law](https://www.vice.com/en/article/pkazpy/pornhub-sues-texas-over-age-verification-law)
+- [Ask HN: How do you handle tech use with your kids?](https://news.ycombinator.com/item?id=37091223)
+- [Virtualizing Uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
 - [Apple TV&#39;s MLS Season Pass subscriptions doubled since Messi&#39;s arrival in US](https://www.engadget.com/apple-tvs-mls-season-pass-subscriptions-have-doubled-since-messis-arrival-in-the-us-150221673.html)
 - [Laylo &lpar;YC S20&rpar; Is Hiring a Lead Growth Engineer](https://www.ycombinator.com/companies/laylo/jobs/gIwhwtd-lead-growth-engineer)
-- [Fine-Tuning Llama-2: A Comprehensive Case Study for Tailoring Custom Models](https://www.anyscale.com/blog/fine-tuning-llama-2-a-comprehensive-case-study-for-tailoring-models-to-unique-applications)
-- [Amazon starting to track and penalize workers who work from home too much](https://www.theguardian.com/technology/2023/aug/11/amazon-starting-to-track-and-penalize-workers-who-work-from-home-too-much)
-- [Mpire: A Python package for easier and faster multiprocessing](https://github.com/sybrenjansen/mpire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
