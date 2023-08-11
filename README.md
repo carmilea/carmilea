@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pornhub Sues Texas over Age Verification Law](https://www.vice.com/en/article/pkazpy/pornhub-sues-texas-over-age-verification-law)
-- [Ask HN: How do you handle tech use with your kids?](https://news.ycombinator.com/item?id=37091223)
-- [Virtualizing Uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
-- [Apple TV&#39;s MLS Season Pass subscriptions doubled since Messi&#39;s arrival in US](https://www.engadget.com/apple-tvs-mls-season-pass-subscriptions-have-doubled-since-messis-arrival-in-the-us-150221673.html)
-- [Laylo &lpar;YC S20&rpar; Is Hiring a Lead Growth Engineer](https://www.ycombinator.com/companies/laylo/jobs/gIwhwtd-lead-growth-engineer)
+- [The Inability to Simultaneously Verify Sentience, Location, and Identity](https://arxiv.org/abs/2308.02202)
+- [Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes](https://www.ipp.mpg.de/5322229/01_23)
+- [Why is division so much more complex than other arithmetic operations?](https://scicomp.stackexchange.com/questions/187/why-is-division-so-much-more-complex-than-other-arithmetic-operations)
+- [RFC 9446 Reflections on Ten Years Past the Snowden Revelations](https://www.rfc-editor.org/rfc/rfc9446.html)
+- [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/#like-2777)
 <!-- BLOG-POST-LIST:END -->
 
 ---
