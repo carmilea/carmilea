@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What is gained and lost with 63-bit integers? &lpar;2014&rpar;](https://blog.janestreet.com/what-is-gained-and-lost-with-63-bit-integers/)
 - [Beginner&#39;s Guide to Llama Models](https://agi-sphere.com/llama-guide/)
 - [Multiple Incidents: B789 deviated from localizer, descended below safe altitude](https://avherald.com/h?article=4d42d0b5)
 - [Sapphire Rapids Core-to-Core Latency](https://jprahman.substack.com/p/sapphire-rapids-core-to-core-latency)
-- [You just do not need a specialized vector database](https://modelz.ai/blog/pgvector)
-- [Leave It to the Beavers](https://isthmus.com/news/news/leave-it-to-the-beavers/)
+- [Do we really need a specialized vector database?](https://modelz.ai/blog/pgvector)
 <!-- BLOG-POST-LIST:END -->
 
 ---
