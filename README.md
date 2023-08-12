@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Motion &lpar;YC W20&rpar; Is Hiring Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 - [Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 - [CLOS: Integrating Object-Oriented and Functional Programming &lpar;2004&rpar; [pdf]](https://dreamsongs.com/Files/clos-cacm.pdf)
+- [Deep Learning Systems &lpar;CMU Course&rpar;](https://dlsyscourse.org/lectures/)
 - [Hollywood’s Cold War Dissidents in Ireland](https://www.historytoday.com/archive/history-matters/dangerous-reds)
-- [Securing Your PostgreSQL DB with Roles and Privileges](https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges/)
-- [The Carrot Problem](https://www.atvbt.com/the-carrot-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
