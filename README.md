@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pijul: Version-Control Post-Git • Goto 2023](https://www.youtube.com/watch?v=7MpdZkGj5AI)
-- [Sites scramble to block ChatGPT web crawler after instructions emerge](https://arstechnica.com/information-technology/2023/08/openai-details-how-to-keep-chatgpt-from-gobbling-up-website-data/)
-- [An Introduction to Graph Theory](https://arxiv.org/abs/2308.04512)
-- [Mux &lpar;YC W16&rpar; Is Hiring a Director of Engineering for Data/Platform Teams](https://mux.com/jobs?role=direng)
-- [80% of bosses say they regret earlier return-to-office plans](https://www.cnbc.com/2023/08/11/80percent-of-bosses-say-they-regret-earlier-return-to-office-plans.html)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=37095849)
+- [Show HN: Open-source proxy server for Llama2, GPT-4, Claude2 with Logging,Cache](https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md)
+- [Expander graphs and their applications &lpar;2006&rpar; [pdf]](https://www.ams.org/journals/bull/2006-43-04/S0273-0979-06-01126-8/S0273-0979-06-01126-8.pdf)
+- [Larian&#39;s Unfair Advantage](https://credistick.com/larians-unfair-advantage/)
+- [Extracellular communication between brain cells through transfer of mRNA](https://www.biorxiv.org/content/10.1101/2023.01.29.525937v1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
