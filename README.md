@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sapphire Rapids Core-to-Core Latency](https://jprahman.substack.com/p/sapphire-rapids-core-to-core-latency)
+- [Leave It to the Beavers](https://isthmus.com/news/news/leave-it-to-the-beavers/)
 - [Fooocus: OSS for image generation by ControlNet author](https://github.com/lllyasviel/Fooocus)
 - [Our fight is far from over](https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=37095849)
-- [Optimization Algorithms for Planar Graphs](https://planarity.org/)
-- [If it can be designed on a computer, it can be built by robots](https://www.economist.com/science-and-technology/2023/08/09/if-it-can-be-designed-on-a-computer-it-can-be-built-by-robots)
 <!-- BLOG-POST-LIST:END -->
 
 ---
