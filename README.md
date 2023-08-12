@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Freshpaint &lpar;YC S19&rpar; Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [Auditory illusions with examples from Daft Punk](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/)
+- [Tijuana&#39;s illegal sewer hookups linked to cross-border pollution](https://www.kpbs.org/news/border-immigration/2023/08/10/tijuanas-illegal-sewer-hookups-linked-to-cross-border-pollution)
 - [Learning Algorithms](https://paedubucher.ch/articles/2023-07-29-learning-algorithms.html)
 - [The US government is taking a step toward space-based nuclear propulsion](https://arstechnica.com/space/2023/07/nasa-seeks-to-launch-a-nuclear-powered-rocket-engine-in-four-years/)
-- [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](https://www.righto.com/2023/08/datapoint-to-8086.html)
-- [A conversation with a newspaper owner raided by cops](https://thehandbasket.substack.com/p/a-conversation-with-the-newspaper)
-- [Motion &lpar;YC W20&rpar; Is Hiring Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
