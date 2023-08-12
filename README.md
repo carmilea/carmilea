@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Harvard University Richest in World Encourages Students to Go on Food Stamps](https://finance.yahoo.com/news/harvard-university-encourages-students-food-171022208.html)
+- [Chinese Trust Companies on the Brink](https://www.asiamarkets.com/chinese-trust-companies-on-the-brink-looming-bankruptcies-bigger-than-evergrande/)
+- [Record Labels Hit Internet Archive with New $400M+ Copyright Lawsuit](https://torrentfreak.com/record-labels-hit-internet-archive-with-new-400m-copyright-lawsuit-230812/)
 - [20 Years of Vim](https://www.contextualize.ai/mpereira/20-years-of-vim-ef9acae9)
-- [San Franciscans are having sex in robotaxis](https://sfstandard.com/2023/08/11/san-francisco-robotaxi-cruise-debauchery/)
 - [Skio &lpar;Subscriptions for Shopify, ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
 - [Microsoft continues right to repair about face, makes its hardware easier to fix](https://www.techdirt.com/2023/08/11/microsoft-continues-about-face-on-right-to-repair-makes-its-hardware-easier-to-fix/)
 <!-- BLOG-POST-LIST:END -->
