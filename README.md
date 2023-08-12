@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](https://www.righto.com/2023/08/datapoint-to-8086.html)
+- [My $0-&gt;$100M-&gt;$0 in 5 years story](https://old.reddit.com/r/startups/comments/15p8qrx/my_0100m0_in_5_years_story/)
+- [Paper investigating police chief prior to the raids on his office and home](https://thehandbasket.substack.com/p/a-conversation-with-the-newspaper)
 - [Motion &lpar;YC W20&rpar; Is Hiring Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 - [Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
-- [CLOS: Integrating Object-Oriented and Functional Programming &lpar;2004&rpar; [pdf]](https://dreamsongs.com/Files/clos-cacm.pdf)
-- [Deep Learning Systems &lpar;CMU Course&rpar;](https://dlsyscourse.org/lectures/)
-- [Hollywood’s Cold War Dissidents in Ireland](https://www.historytoday.com/archive/history-matters/dangerous-reds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
