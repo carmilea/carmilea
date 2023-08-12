@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginner&#39;s Guide to Llama Models](https://agi-sphere.com/llama-guide/)
+- [Multiple B787s descend below minimum safe altitude due to autopilot software bug](https://avherald.com/h?article=4d42d0b5)
 - [Sapphire Rapids Core-to-Core Latency](https://jprahman.substack.com/p/sapphire-rapids-core-to-core-latency)
 - [Leave It to the Beavers](https://isthmus.com/news/news/leave-it-to-the-beavers/)
 - [Fooocus: OSS for image generation by ControlNet author](https://github.com/lllyasviel/Fooocus)
-- [Our fight is far from over](https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=37095849)
 <!-- BLOG-POST-LIST:END -->
 
 ---
