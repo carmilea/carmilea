@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Learning Algorithms](https://paedubucher.ch/articles/2023-07-29-learning-algorithms.html)
-- [US Government is taking serious step toward space-based nuclear propulsion](https://arstechnica.com/space/2023/07/nasa-seeks-to-launch-a-nuclear-powered-rocket-engine-in-four-years/)
-- [What&#39;s your go to Nix/NixOS pitch?](https://discourse.nixos.org/t/whats-your-go-to-nix-nixos-pitch/31565)
+- [The US government is taking a step toward space-based nuclear propulsion](https://arstechnica.com/space/2023/07/nasa-seeks-to-launch-a-nuclear-powered-rocket-engine-in-four-years/)
 - [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](https://www.righto.com/2023/08/datapoint-to-8086.html)
-- [My $0-&gt;$100M-&gt;$0 in 5 years story](https://old.reddit.com/r/startups/comments/15p8qrx/my_0100m0_in_5_years_story/)
+- [A conversation with a newspaper owner raided by cops](https://thehandbasket.substack.com/p/a-conversation-with-the-newspaper)
+- [Motion &lpar;YC W20&rpar; Is Hiring Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
