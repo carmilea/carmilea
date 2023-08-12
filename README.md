@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio &lpar;Subscriptions for Shopify, ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
+- [Microsoft Continues Right to Repair About Face, Makes Its Hardware Easier to Fix](https://www.techdirt.com/2023/08/11/microsoft-continues-about-face-on-right-to-repair-makes-its-hardware-easier-to-fix/)
+- [tRPC – Move Fast and Break Nothing. End-to-end typesafe APIs made easy](https://trpc.io/)
 - [Build declaratively back ends and APIs with GraphQL or REST](https://github.com/metatypedev/metatype)
 - [I feel like I made a mistake investing professionally into Flutter](https://old.reddit.com/r/FlutterDev/comments/15njq61/i_feel_like_i_mad_a_mistake_investing/)
-- [How a startup loses its spark](https://blog.johnqian.com/startup-spark)
-- [What is gained and lost with 63-bit integers? &lpar;2014&rpar;](https://blog.janestreet.com/what-is-gained-and-lost-with-63-bit-integers/)
-- [Beginner&#39;s Guide to Llama Models](https://agi-sphere.com/llama-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
