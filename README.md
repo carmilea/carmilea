@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rectify11 Improving upon the Windows 11 experience](https://rectify11.net)
-- [AML works, even if it intercepts less than 1% of criminal proceeds](http://jpkoning.blogspot.com/2023/08/aml-works-even-if-it-intercepts-less.html)
+- [Harvard University Richest in World Encourages Students to Go on Food Stamps](https://finance.yahoo.com/news/harvard-university-encourages-students-food-171022208.html)
+- [20 Years of Vim](https://www.contextualize.ai/mpereira/20-years-of-vim-ef9acae9)
+- [San Franciscans are having sex in robotaxis](https://sfstandard.com/2023/08/11/san-francisco-robotaxi-cruise-debauchery/)
 - [Skio &lpar;Subscriptions for Shopify, ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
-- [Microsoft Continues Right to Repair About Face, Makes Its Hardware Easier to Fix](https://www.techdirt.com/2023/08/11/microsoft-continues-about-face-on-right-to-repair-makes-its-hardware-easier-to-fix/)
-- [tRPC – Move Fast and Break Nothing. End-to-end typesafe APIs made easy](https://trpc.io/)
+- [Microsoft continues right to repair about face, makes its hardware easier to fix](https://www.techdirt.com/2023/08/11/microsoft-continues-about-face-on-right-to-repair-makes-its-hardware-easier-to-fix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
