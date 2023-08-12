@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rectify11 Improving upon the Windows 11 experience](https://rectify11.net)
+- [AML works, even if it intercepts less than 1% of criminal proceeds](http://jpkoning.blogspot.com/2023/08/aml-works-even-if-it-intercepts-less.html)
 - [Skio &lpar;Subscriptions for Shopify, ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
 - [Microsoft Continues Right to Repair About Face, Makes Its Hardware Easier to Fix](https://www.techdirt.com/2023/08/11/microsoft-continues-about-face-on-right-to-repair-makes-its-hardware-easier-to-fix/)
 - [tRPC – Move Fast and Break Nothing. End-to-end typesafe APIs made easy](https://trpc.io/)
-- [Build declaratively back ends and APIs with GraphQL or REST](https://github.com/metatypedev/metatype)
-- [I feel like I made a mistake investing professionally into Flutter](https://old.reddit.com/r/FlutterDev/comments/15njq61/i_feel_like_i_mad_a_mistake_investing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
