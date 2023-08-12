@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Internet Archive: “Our Fight Is Far from Over”](https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/)
-- [Police stage ‘chilling’ raid on Marion County newspaper](https://kansasreflector.com/2023/08/11/police-stage-chilling-raid-on-marion-county-newspaper-seizing-computers-records-and-cellphones/)
+- [Fooocus: OSS for image generation by ControlNet author](https://github.com/lllyasviel/Fooocus)
+- [Our fight is far from over](https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=37095849)
 - [Optimization Algorithms for Planar Graphs](https://planarity.org/)
 - [If it can be designed on a computer, it can be built by robots](https://www.economist.com/science-and-technology/2023/08/09/if-it-can-be-designed-on-a-computer-it-can-be-built-by-robots)
