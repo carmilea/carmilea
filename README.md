@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build declaratively back ends and APIs with GraphQL or REST](https://github.com/metatypedev/metatype)
+- [I feel like I made a mistake investing professionally into Flutter](https://old.reddit.com/r/FlutterDev/comments/15njq61/i_feel_like_i_mad_a_mistake_investing/)
+- [How a startup loses its spark](https://blog.johnqian.com/startup-spark)
 - [What is gained and lost with 63-bit integers? &lpar;2014&rpar;](https://blog.janestreet.com/what-is-gained-and-lost-with-63-bit-integers/)
 - [Beginner&#39;s Guide to Llama Models](https://agi-sphere.com/llama-guide/)
-- [Multiple Incidents: B789 deviated from localizer, descended below safe altitude](https://avherald.com/h?article=4d42d0b5)
-- [Sapphire Rapids Core-to-Core Latency](https://jprahman.substack.com/p/sapphire-rapids-core-to-core-latency)
-- [Do we really need a specialized vector database?](https://modelz.ai/blog/pgvector)
 <!-- BLOG-POST-LIST:END -->
 
 ---
