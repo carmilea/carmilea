@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37107358)
 - [Weeds May Be a Better Friend to Pollinating Insects Than We Assume](https://www.inverse.com/science/weeds-and-pollination)
+- [YouTube gets more aggressive in pushing adblock warnings with countdown timer](https://www.neowin.net/news/youtube-gets-more-aggressive-in-pushing-adblock-warnings-with-countdown-timer/)
 - [Thermodynamic Linear Algebra](https://arxiv.org/abs/2308.05660)
 - [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
-- [Flying Toasters Screensaver After Dark in CSS](https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html)
-- [Stan Lippman, early contributor to C++, died &lpar;2022&rpar;](https://www.dignitymemorial.com/obituaries/bellevue-wa/stan-lippman-10887984)
 <!-- BLOG-POST-LIST:END -->
 
 ---
