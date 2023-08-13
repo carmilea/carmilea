@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;re All Wrong About AI](https://arnoldkling.substack.com/p/were-all-wrong-about-ai)
-- [What Should You Do with an Oil Fortune?](https://www.newyorker.com/magazine/2023/08/14/what-should-you-do-with-an-oil-fortune)
+- [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [pdf]](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
+- [New Anti-Consumer MacBook Pros – Teardown and Repair Assessment [video]](https://www.youtube.com/watch?v=r0Hwb5xvBn8)
+- [What should you do with an oil fortune?](https://www.newyorker.com/magazine/2023/08/14/what-should-you-do-with-an-oil-fortune)
 - [Institutionalized Belief in the Greater Fool](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater)
 - [Astro: All-in-one web framework designed for speed](https://astro.build/)
-- [Cargo Cult Science by Richard P. Feynman &lpar;1974&rpar; [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
