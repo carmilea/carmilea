@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cruise cars halt traffic in SF, cite &#39;connectivity issues&#39;](https://www.kron4.com/news/bay-area/video-cruise-cars-halt-traffic-in-sf-cite-connectivity-issues-linked-to-outside-lands-festival/)
+- [Cargo Cult Science by Richard P. Feynman &lpar;1974&rpar; [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)
+- [How to parent more predictably &lpar;2018&rpar;](https://www.jefftk.com/p/how-to-parent-more-predictably)
+- [The Meaning of Monad in MonadTrans](https://www.parsonsmatt.org/2023/08/10/the_meaning_of_monad_in_monadtrans.html)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37107358)
-- [Move Back to Datacenters](https://rakkhi.substack.com/p/why-you-should-move-back-to-datacenters)
-- [Render nuked my entire account with no notice](https://news.ycombinator.com/item?id=37107298)
-- [Generative AI – A curated list of Generative AI projects and services](https://github.com/steven2358/awesome-generative-ai)
-- [Rust vs. Go in 2023](https://bitfieldconsulting.com/golang/rust-vs-go)
 <!-- BLOG-POST-LIST:END -->
 
 ---
