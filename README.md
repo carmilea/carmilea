@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Scarcest Thing in the World](https://www.honest-broker.com/p/the-scarcest-thing-in-the-world)
+- [We&#39;re All Wrong About AI](https://arnoldkling.substack.com/p/were-all-wrong-about-ai)
+- [What Should You Do with an Oil Fortune?](https://www.newyorker.com/magazine/2023/08/14/what-should-you-do-with-an-oil-fortune)
+- [Institutionalized Belief in the Greater Fool](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater)
 - [Astro: All-in-one web framework designed for speed](https://astro.build/)
-- [Sony and other music labels sue Internet Archive for digitizing old records](https://www.engadget.com/sony-and-other-music-labels-sue-internet-archive-for-digitizing-old-records-110108988.html)
 - [Cargo Cult Science by Richard P. Feynman &lpar;1974&rpar; [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)
-- [How to parent more predictably &lpar;2018&rpar;](https://www.jefftk.com/p/how-to-parent-more-predictably)
 <!-- BLOG-POST-LIST:END -->
 
 ---
