@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple bleee. Everyone knows what’s on your iPhone](https://hexway.io/research/apple-bleee/)
-- [Judge denies HP&#39;s plea to throw out all-in-one printer lockdown lawsuit](https://www.theregister.com/2023/08/11/judge_denies_hps_request_to/)
-- [Metro 2033 author Dmitry Glukhovsky sentenced to 8 years in prison](https://www.pcgamer.com/metro-2033-author-dmitry-glukhovsky-sentenced-to-8-years-in-prison-for-criticizing-russias-invasion-of-ukraine/)
-- [Dolphin Emulator Progress Report: May, June, and July 2023](https://dolphin-emu.org/blog/2023/08/13/dolphin-progress-report-may-june-and-july-2023/)
-- [Toki Pona: an attempted universal language with only ~120 words](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki)
+- [Show HN: I wrote a RDBMS &lpar;SQLite clone&rpar; from scratch in pure Python](https://github.com/spandanb/learndb-py)
+- [Why the world’s best vanilla is so easy to steal](https://thehustle.co/why-the-worlds-best-vanilla-is-so-easy-to-steal/)
+- [Show HN: I redesigned old GNOME app icons to fit in with the new HIG guidelines](https://github.com/mdwalters/redesigned-gnome-icons)
+- [ZFSBootMenu](https://docs.zfsbootmenu.org/en/v2.2.x/#)
+- [Desktop Linux has a Firefox problem](https://www.osnews.com/story/136653/desktop-linux-has-a-firefox-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
