@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Weeds May Be a Better Friend to Pollinating Insects Than We Assume](https://www.inverse.com/science/weeds-and-pollination)
-- [Thermodynamic Linear Algebra &lpar;solving linear systems in O&lpar;n&rpar;&rpar;](https://arxiv.org/abs/2308.05660)
+- [Thermodynamic Linear Algebra](https://arxiv.org/abs/2308.05660)
 - [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
 - [Flying Toasters Screensaver After Dark in CSS](https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html)
 - [Stan Lippman, early contributor to C++, died &lpar;2022&rpar;](https://www.dignitymemorial.com/obituaries/bellevue-wa/stan-lippman-10887984)
