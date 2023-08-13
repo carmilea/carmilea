@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Illegal raids contribute to death of newspaper co-owner](http://marionrecord.com/)
+- [VirGL](https://docs.mesa3d.org/drivers/virgl)
+- [We are a lot closer to the Landauer limit than I thought](https://twitter.com/realGeorgeHotz/status/1690452184851435520)
 - [NixOS RFC 136 approved: A plan to stabilize the new CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
-- [Cracking DesignWare&#39;s the Grammar Examiner on the C64](http://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html)
-- [Out-of-Distribution](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
-- [A Blog Post with Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
-- [OP drew these corals with mathematical equations](https://twitter.com/naderi_yeganeh/status/1690296100496838656)
+- [Doctor GPT: A Large Language Model That Can Pass the US Medical Licensing Exam](https://github.com/llSourcell/DoctorGPT)
 <!-- BLOG-POST-LIST:END -->
 
 ---
