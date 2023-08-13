@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [pdf]](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
-- [New Anti-Consumer MacBook Pros – Teardown and Repair Assessment [video]](https://www.youtube.com/watch?v=r0Hwb5xvBn8)
-- [What should you do with an oil fortune?](https://www.newyorker.com/magazine/2023/08/14/what-should-you-do-with-an-oil-fortune)
+- [Texas could get a bullet train between Houston and Dallas](https://www.popsci.com/technology/amtrak-bullet-train-texas/)
+- [Symmetry in Chaos](http://paulbourke.net/fractals/symmetryinchaos/)
+- [Introduction to the Conjugate Gradient Method Without Agonizing Pain &lpar;1994&rpar; [pdf]](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
+- [Record Labels File $412M Copyright Infringement Lawsuit Against Internet Archive](https://www.rollingstone.com/music/music-news/record-labels-sue-internet-archive-412-million-copyright-infringement-lawsuit-1234806058/)
 - [Institutionalized Belief in the Greater Fool](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater)
-- [Astro: All-in-one web framework designed for speed](https://astro.build/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
