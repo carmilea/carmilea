@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cruise cars halt traffic in SF, cite &#39;connectivity issues&#39;](https://www.kron4.com/news/bay-area/video-cruise-cars-halt-traffic-in-sf-cite-connectivity-issues-linked-to-outside-lands-festival/)
+- [The Scarcest Thing in the World](https://www.honest-broker.com/p/the-scarcest-thing-in-the-world)
+- [Astro: All-in-one web framework designed for speed](https://astro.build/)
+- [Sony and other music labels sue Internet Archive for digitizing old records](https://www.engadget.com/sony-and-other-music-labels-sue-internet-archive-for-digitizing-old-records-110108988.html)
 - [Cargo Cult Science by Richard P. Feynman &lpar;1974&rpar; [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)
 - [How to parent more predictably &lpar;2018&rpar;](https://www.jefftk.com/p/how-to-parent-more-predictably)
-- [The Meaning of Monad in MonadTrans](https://www.parsonsmatt.org/2023/08/10/the_meaning_of_monad_in_monadtrans.html)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37107358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
