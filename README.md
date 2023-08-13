@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Is Weird](https://jsisweird.com/)
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37111755)
+- [Today I realized I now trust Microsoft more than Google. What is happening?](https://old.reddit.com/r/degoogle/comments/15pd5si/today_i_realized_i_now_trust_microsoft_more_than/)
+- [Ask HN: How do you look for jobs in 2023?](https://news.ycombinator.com/item?id=37111256)
 - [Show HN: NotYetNews – AI-Generated News from the Future](https://www.notyet.news/)
 - [Why macOS anti-malware scans can behave oddly](https://eclecticlight.co/2023/08/12/why-macos-anti-malware-scans-can-behave-oddly/)
-- [Are Naps Good for You?](https://www.scientificamerican.com/article/are-naps-good-for-you/)
-- [I’ll Never Be an Astronaut](https://shaunoconnell.com/2023/08/10/ill-never-be-an-astronaut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
