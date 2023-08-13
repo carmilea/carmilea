@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Klaus Schwab: “If you have nothing to hide you have no reason to be afraid.”](https://twitter.com/WallStreetSilv/status/1690352175254220801)
+- [Praising Children for Effort Rather Than Ability &lpar;2021&rpar;](https://www.oxfordlearning.com/praising-children-for-effort-rather-than-ability/)
+- [The Elite&#39;s War on Remote Work Has Nothing to Do with Productivity](https://www.okdoomer.io/heres-why-they-want-you-back-at-the-office-so-bad/)
+- [Temu Is Losing Millions of Dollars to Send You Cheap Socks](https://www.wired.com/story/temu-is-losing-millions-of-dollars-to-send-you-cheap-socks/)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37111755)
-- [Today I realized I now trust Microsoft more than Google. What is happening?](https://old.reddit.com/r/degoogle/comments/15pd5si/today_i_realized_i_now_trust_microsoft_more_than/)
-- [Ask HN: How do you look for jobs in 2023?](https://news.ycombinator.com/item?id=37111256)
-- [Show HN: NotYetNews – AI-Generated News from the Future](https://www.notyet.news/)
-- [Why macOS anti-malware scans can behave oddly](https://eclecticlight.co/2023/08/12/why-macos-anti-malware-scans-can-behave-oddly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
