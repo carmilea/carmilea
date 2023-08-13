@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NixOS RFC 136 approved: A plan to stabilize the new CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
+- [Cracking DesignWare&#39;s the Grammar Examiner on the C64](http://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html)
+- [Out-of-Distribution](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
+- [A Blog Post with Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
 - [OP drew these corals with mathematical equations](https://twitter.com/naderi_yeganeh/status/1690296100496838656)
-- [Freshpaint &lpar;YC S19&rpar; Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [Auditory illusions with examples from Daft Punk](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/)
-- [Tijuana&#39;s illegal sewer hookups linked to cross-border pollution](https://www.kpbs.org/news/border-immigration/2023/08/10/tijuanas-illegal-sewer-hookups-linked-to-cross-border-pollution)
-- [Learning Algorithms](https://paedubucher.ch/articles/2023-07-29-learning-algorithms.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
