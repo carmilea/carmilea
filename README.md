@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Klaus Schwab: “If you have nothing to hide you have no reason to be afraid.”](https://twitter.com/WallStreetSilv/status/1690352175254220801)
-- [Praising Children for Effort Rather Than Ability &lpar;2021&rpar;](https://www.oxfordlearning.com/praising-children-for-effort-rather-than-ability/)
-- [The Elite&#39;s War on Remote Work Has Nothing to Do with Productivity](https://www.okdoomer.io/heres-why-they-want-you-back-at-the-office-so-bad/)
-- [Temu Is Losing Millions of Dollars to Send You Cheap Socks](https://www.wired.com/story/temu-is-losing-millions-of-dollars-to-send-you-cheap-socks/)
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37111755)
+- [Azure ChatGPT: Private and secure ChatGPT for internal enterprise use](https://github.com/microsoft/azurechatgpt)
+- [‘I&#39;ve got nothing to hide’ and other misunderstandings of privacy &lpar;2007&rpar;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
+- [Downloading a video should be “fair use” as recording a song from the radio](https://mastodon.social/@HalvarFlake/110883667162838296)
+- [US inflation means families are spending $709 more per month than two years ago](https://www.cnn.com/2023/08/11/economy/inflation-rate-spending/index.html)
+- [Mozilla to reintroduce full Browser Extension support for Firefox Android app](https://alternativeto.net/news/2023/8/mozilla-to-reintroduce-full-browser-extension-support-for-firefox-android-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
