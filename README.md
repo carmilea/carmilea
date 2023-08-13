@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure ChatGPT: Private and secure ChatGPT for internal enterprise use](https://github.com/microsoft/azurechatgpt)
-- [‘I&#39;ve got nothing to hide’ and other misunderstandings of privacy &lpar;2007&rpar;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
-- [Downloading a video should be “fair use” as recording a song from the radio](https://mastodon.social/@HalvarFlake/110883667162838296)
-- [US inflation means families are spending $709 more per month than two years ago](https://www.cnn.com/2023/08/11/economy/inflation-rate-spending/index.html)
-- [Mozilla to reintroduce full Browser Extension support for Firefox Android app](https://alternativeto.net/news/2023/8/mozilla-to-reintroduce-full-browser-extension-support-for-firefox-android-app/)
+- [Apple bleee. Everyone knows what’s on your iPhone](https://hexway.io/research/apple-bleee/)
+- [Judge denies HP&#39;s plea to throw out all-in-one printer lockdown lawsuit](https://www.theregister.com/2023/08/11/judge_denies_hps_request_to/)
+- [Metro 2033 author Dmitry Glukhovsky sentenced to 8 years in prison](https://www.pcgamer.com/metro-2033-author-dmitry-glukhovsky-sentenced-to-8-years-in-prison-for-criticizing-russias-invasion-of-ukraine/)
+- [Dolphin Emulator Progress Report: May, June, and July 2023](https://dolphin-emu.org/blog/2023/08/13/dolphin-progress-report-may-june-and-july-2023/)
+- [Toki Pona: an attempted universal language with only ~120 words](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki)
 <!-- BLOG-POST-LIST:END -->
 
 ---
