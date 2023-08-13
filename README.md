@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The video call revolution is dead](https://www.theverge.com/2023/8/12/23828781/video-call-chat-revolution-dead-zoom-google-meet-apps)
-- [You Won’t Believe This One Weird CPU Instruction &lpar;2019&rpar;](https://vaibhavsagar.com/blog/2019/09/08/popcount/)
-- [Paul Brodeur, journalist who exposed asbestos hazards, dies at 92](https://www.washingtonpost.com/obituaries/2023/08/10/paul-brodeur-dead/)
-- [The Deepest Submarine Rescue &lpar;2021&rpar;](https://www.newsweek.com/extraordinary-story-world-deepest-submarine-rescue-1598186)
-- [Symmetry in Chaos](http://paulbourke.net/fractals/symmetryinchaos/)
+- [JavaScript Is Weird](https://jsisweird.com/)
+- [Show HN: NotYetNews – AI-Generated News from the Future](https://www.notyet.news/)
+- [Why macOS anti-malware scans can behave oddly](https://eclecticlight.co/2023/08/12/why-macos-anti-malware-scans-can-behave-oddly/)
+- [Are Naps Good for You?](https://www.scientificamerican.com/article/are-naps-good-for-you/)
+- [I’ll Never Be an Astronaut](https://shaunoconnell.com/2023/08/10/ill-never-be-an-astronaut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
