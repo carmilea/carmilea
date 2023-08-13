@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Namco ND-1: Taking 2D for Granted](https://nicole.express/2023/nobody-plays-those-old-games-anymore.html)
 - [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/)
 - [Babylon 5 Is a Perfect, Terrible Series](https://www.tor.com/2023/08/09/babylon-5-is-a-perfect-terrible-series/)
 - [Show HN: I wrote a RDBMS &lpar;SQLite clone&rpar; from scratch in pure Python](https://github.com/spandanb/learndb-py)
 - [Why the world’s best vanilla is so easy to steal](https://thehustle.co/why-the-worlds-best-vanilla-is-so-easy-to-steal/)
-- [Show HN: I redesigned old GNOME app icons to fit in with the new HIG guidelines](https://github.com/mdwalters/redesigned-gnome-icons)
 <!-- BLOG-POST-LIST:END -->
 
 ---
