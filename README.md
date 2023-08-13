@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Illegal raids contribute to death of newspaper co-owner](http://marionrecord.com/)
+- [Cruise blames Outside Lands for driverless car traffic fiasco in San Francisco](https://www.sfchronicle.com/bayarea/article/robotaxi-backup-18293208.php)
 - [VirGL](https://docs.mesa3d.org/drivers/virgl)
+- [John&#39;s Nautical and Boatbuilding Page](http://www.boat-links.com/)
 - [We are a lot closer to the Landauer limit than I thought](https://twitter.com/realGeorgeHotz/status/1690452184851435520)
 - [NixOS RFC 136 approved: A plan to stabilize the new CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
-- [Doctor GPT: A Large Language Model That Can Pass the US Medical Licensing Exam](https://github.com/llSourcell/DoctorGPT)
 <!-- BLOG-POST-LIST:END -->
 
 ---
