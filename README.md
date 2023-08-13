@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas could get a bullet train between Houston and Dallas](https://www.popsci.com/technology/amtrak-bullet-train-texas/)
+- [The video call revolution is dead](https://www.theverge.com/2023/8/12/23828781/video-call-chat-revolution-dead-zoom-google-meet-apps)
+- [You Won’t Believe This One Weird CPU Instruction &lpar;2019&rpar;](https://vaibhavsagar.com/blog/2019/09/08/popcount/)
+- [Paul Brodeur, journalist who exposed asbestos hazards, dies at 92](https://www.washingtonpost.com/obituaries/2023/08/10/paul-brodeur-dead/)
+- [The Deepest Submarine Rescue &lpar;2021&rpar;](https://www.newsweek.com/extraordinary-story-world-deepest-submarine-rescue-1598186)
 - [Symmetry in Chaos](http://paulbourke.net/fractals/symmetryinchaos/)
-- [Introduction to the Conjugate Gradient Method Without Agonizing Pain &lpar;1994&rpar; [pdf]](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
-- [Record Labels File $412M Copyright Infringement Lawsuit Against Internet Archive](https://www.rollingstone.com/music/music-news/record-labels-sue-internet-archive-412-million-copyright-infringement-lawsuit-1234806058/)
-- [Institutionalized Belief in the Greater Fool](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater)
 <!-- BLOG-POST-LIST:END -->
 
 ---
