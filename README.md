@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37107358)
-- [Weeds May Be a Better Friend to Pollinating Insects Than We Assume](https://www.inverse.com/science/weeds-and-pollination)
-- [YouTube gets more aggressive in pushing adblock warnings with countdown timer](https://www.neowin.net/news/youtube-gets-more-aggressive-in-pushing-adblock-warnings-with-countdown-timer/)
-- [Thermodynamic Linear Algebra](https://arxiv.org/abs/2308.05660)
-- [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
+- [Move Back to Datacenters](https://rakkhi.substack.com/p/why-you-should-move-back-to-datacenters)
+- [Render nuked my entire account with no notice](https://news.ycombinator.com/item?id=37107298)
+- [Generative AI – A curated list of Generative AI projects and services](https://github.com/steven2358/awesome-generative-ai)
+- [Rust vs. Go in 2023](https://bitfieldconsulting.com/golang/rust-vs-go)
 <!-- BLOG-POST-LIST:END -->
 
 ---
