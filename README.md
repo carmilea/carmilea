@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Michael Burry shorts Major index in sizable bets](https://www.thestreet.com/investing/the-big-short-michael-burry-makes-big-bet-against-the-market)
+- [AI Detection Tools Falsely Accuse International Students of Cheating](https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating)
+- [Grindr employees have 2 weeks to move across the country, RTO or lose their jobs](https://www.businessinsider.com/grindr-united-unionized-employees-work-from-home-return-in-person-2023-8)
 - [Java 21: First Release Candidate](https://mail.openjdk.org/pipermail/jdk-dev/2023-August/008059.html)
-- [Burnout because of ChatGPT?](https://news.ycombinator.com/item?id=37126182)
-- [Navigating the timezone nightmare in product development](https://www.getlago.com/blog/time-zone-nightmares)
-- [Study shows dementia more common in older adults with vision issues](https://www.michiganmedicine.org/health-lab/study-shows-dementia-more-common-older-adults-vision-issues)
-- [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
+- [OpenFarm – a free and open database and web application for gardening knowledge](https://openfarm.cc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
