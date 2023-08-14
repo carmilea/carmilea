@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Core War, a very old game about programming](https://en.wikipedia.org/wiki/Core_War)
+- [Things UNIX can do atomically &lpar;2010&rpar;](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 - [Samo Burja: Great Founder Theory](https://www.samoburja.com/gft/)
 - [The Dance of Śiva](https://www.asymptotejournal.com/blog/2023/08/09/the-dance-of-siva/)
-- [Maker of Chrome extension with 300K+ user tells of constant pressure to sell out](https://www.theregister.com/2023/08/11/chrome_extension_developer_pressure/)
 - [Jitsi Meet Flutter SDK](https://jitsi.org/blog/introducing-the-jitsi-meet-flutter-sdk/)
-- [The world in which IPv6 was a good design &lpar;2017&rpar;](https://apenwarr.ca/log/20170810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
