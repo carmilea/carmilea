@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I created the nerdiest game ever](https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/)
+- [Borgbase backups have been unavailable for 3 days – recovery is at 26%](https://status.borgbase.com/status/default)
 - [The Namco ND-1: Taking 2D for Granted](https://nicole.express/2023/nobody-plays-those-old-games-anymore.html)
+- [Tech salaries largely unchanged as skills shortages continue](https://www.reseller.co.nz/article/708342/tech-salaries-largely-unchanged-as-skills-shortages-continue/)
 - [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/)
-- [Babylon 5 Is a Perfect, Terrible Series](https://www.tor.com/2023/08/09/babylon-5-is-a-perfect-terrible-series/)
-- [Show HN: I wrote a RDBMS &lpar;SQLite clone&rpar; from scratch in pure Python](https://github.com/spandanb/learndb-py)
-- [Why the world’s best vanilla is so easy to steal](https://thehustle.co/why-the-worlds-best-vanilla-is-so-easy-to-steal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
