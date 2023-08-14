@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bezos Earth Fund Grants $400M for Greening Underserved Urban U.S. Communities](https://www.bezosearthfund.org/news-and-insights/announcing-400-million-greening-americas-cities)
+- [Navigating the timezone nightmare in product development](https://www.getlago.com/blog/time-zone-nightmares)
+- [Study shows dementia more common in older adults with vision issues](https://www.michiganmedicine.org/health-lab/study-shows-dementia-more-common-older-adults-vision-issues)
+- [Videos from Python Web Conf 2023 Available on YouTube](https://sixfeetup.com/company/news/80-talks-and-tutorials-from-2023-python-web-conference-released)
 - [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
-- [Trafilatura: Python tool to gather text on the Web](https://github.com/adbar/trafilatura)
-- [We mourn the loss of Stefan Tilkov](https://www.innoq.com/en/news/2023/08/stefan-tilkov-english/)
-- [Discord.io breached, 760k user accounts for sale on darknet](https://stackdiary.com/the-data-of-760000-discord-io-users-was-put-up-for-sale-on-the-darknet/)
-- [Does there exist a complete implementation of the Risch algorithm?](https://mathoverflow.net/questions/374089/does-there-exist-a-complete-implementation-of-the-risch-algorithm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
