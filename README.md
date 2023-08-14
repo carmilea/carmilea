@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Valley Bank vice president sentenced to 15 months in prison](https://www.kron4.com/news/bay-area/silicon-valley-bank-vice-president-sentenced/)
+- [America’s Top Environmental Groups Have Lost the Plot on Climate Change](https://www.noahpinion.blog/p/americas-top-environmental-groups)
 - [I created the nerdiest game ever](https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/)
 - [Borgbase backups have been unavailable for 3 days – recovery is at 26%](https://status.borgbase.com/status/default)
 - [The Namco ND-1: Taking 2D for Granted](https://nicole.express/2023/nobody-plays-those-old-games-anymore.html)
-- [Tech salaries largely unchanged as skills shortages continue](https://www.reseller.co.nz/article/708342/tech-salaries-largely-unchanged-as-skills-shortages-continue/)
-- [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
