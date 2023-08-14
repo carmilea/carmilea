@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California PG&amp;E Joins Proposal to Set Utility Rates Based on Income](https://www.sanjoseinside.com/news/pge-joins-proposal-to-set-utility-rates-based-on-income/#)
+- [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
+- [Trafilatura: Python tool to gather text on the Web](https://github.com/adbar/trafilatura)
+- [We mourn the loss of Stefan Tilkov](https://www.innoq.com/en/news/2023/08/stefan-tilkov-english/)
 - [Discord.io breached, 760k user accounts for sale on darknet](https://stackdiary.com/the-data-of-760000-discord-io-users-was-put-up-for-sale-on-the-darknet/)
-- [Why font-size must NEVER be in pixels](https://FEDmentor.dev/posts/font-size-px/)
-- [Fan-made port of Wipeout &lpar;PSX&rpar; for modern browsers](https://phoboslab.org/wipegame/)
-- [Show HN: Anonymize HN – a Chrome extension to anonymize Hacker News users](https://chrome.google.com/webstore/detail/anonymize-hn/ofclpgeijealmdamdfecbdccpjjoijnf)
+- [Does there exist a complete implementation of the Risch algorithm?](https://mathoverflow.net/questions/374089/does-there-exist-a-complete-implementation-of-the-risch-algorithm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
