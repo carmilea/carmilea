@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Non-Thoughts on the Open Source Initiative](https://yakshav.es/non-thoughts-on-the-osi/)
+- [Caught by MuseScore&#39;s Dark Patterns](https://gadanidis.ca/posts/2021-11-09-musescore.html)
 - [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
-- [I built a garbage collector for a language that doesn&#39;t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
-- [How to run a miserable code review](https://badsoftwareadvice.substack.com/p/how-to-run-a-miserable-code-review)
-- [Analysis of the data job market using HN job posts](https://emiruz.com/post/2023-08-12-data-jobs/)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Founding Account Executive &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [Inside The Decline of Stack Exchange](https://www.thediff.co/archive/inside-the-decline-of-stack-exchange/)
+- [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
