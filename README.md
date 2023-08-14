@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Silicon Valley Bank vice president sentenced to 15 months in prison](https://www.kron4.com/news/bay-area/silicon-valley-bank-vice-president-sentenced/)
-- [America’s Top Environmental Groups Have Lost the Plot on Climate Change](https://www.noahpinion.blog/p/americas-top-environmental-groups)
-- [I created the nerdiest game ever](https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/)
-- [Borgbase backups have been unavailable for 3 days – recovery is at 26%](https://status.borgbase.com/status/default)
-- [The Namco ND-1: Taking 2D for Granted](https://nicole.express/2023/nobody-plays-those-old-games-anymore.html)
+- [Jitsi Meet Flutter SDK](https://jitsi.org/blog/introducing-the-jitsi-meet-flutter-sdk/)
+- [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
+- [LangChain Agent Simulation – Multi-Player Dungeons and Dragons](https://python.langchain.com/docs/use_cases/agent_simulations/two_player_dnd)
+- [A video game where you are an operating system](https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/)
+- [Borgbase backups have been unavailable for 3 days](https://status.borgbase.com/status/default)
 <!-- BLOG-POST-LIST:END -->
 
 ---
