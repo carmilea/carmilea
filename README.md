@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Michael Burry shorts Major index in sizable bets](https://www.thestreet.com/investing/the-big-short-michael-burry-makes-big-bet-against-the-market)
-- [AI Detection Tools Falsely Accuse International Students of Cheating](https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating)
-- [Grindr employees have 2 weeks to move across the country, RTO or lose their jobs](https://www.businessinsider.com/grindr-united-unionized-employees-work-from-home-return-in-person-2023-8)
-- [Java 21: First Release Candidate](https://mail.openjdk.org/pipermail/jdk-dev/2023-August/008059.html)
-- [OpenFarm – a free and open database and web application for gardening knowledge](https://openfarm.cc)
+- [What could Universal Early Childcare look like?](https://dchung.substack.com/p/what-could-universal-early-childcare)
+- [Montana loses fight against youth climate activists in landmark ruling](https://arstechnica.com/tech-policy/2023/08/montana-loses-fight-against-youth-climate-activists-in-landmark-ruling/)
+- [The Cuts at WVU](https://community.wvu.edu/~jokatz/Closure/)
+- [My &lpar;Herb Sutter&#39;s&rpar; C++ Now 2023 talk is online: “A TypeScript for C++”](https://herbsutter.com/2023/08/13/my-c-now-2023-talk-is-online-a-typescript-for-c/)
+- [Java 21: First Release Candidate](https://openjdk.org/projects/jdk/21/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
