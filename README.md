@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elixir – Why the dot &lpar;when calling anonymous functions&rpar;?](https://dashbit.co/blog/why-the-dot)
+- [A Quickstart Guide to Privacy](https://www.hai.haus/blog/privacy-quickstart-2023.html)
+- [Supabase became this generation’s database](https://www.basedash.com/blog/how-supabase-became-this-generations-database)
 - [Non-Thoughts on the Open Source Initiative](https://yakshav.es/non-thoughts-on-the-osi/)
-- [Caught by MuseScore&#39;s Dark Patterns](https://gadanidis.ca/posts/2021-11-09-musescore.html)
-- [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
-- [Inside The Decline of Stack Exchange](https://www.thediff.co/archive/inside-the-decline-of-stack-exchange/)
-- [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
+- [Caught by MuseScore&#39;s Dark Patterns &lpar;2021&rpar;](https://gadanidis.ca/posts/2021-11-09-musescore.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
