@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [D J Bernstein – The IPv6 mess](http://cr.yp.to/djbdns/ipv6mess.html)
+- [Small Kansas newspaper says co-owner, 98, collapsed and died after police raid](https://www.cbsnews.com/news/kansas-newspaper-police-raid-marion-county-record-joan-meyer-dies/)
+- [ChatGPT costs 700k/day to run; may go bankrupt in 2024](https://www.business-standard.com/companies/news/chatgpt-costs-700-000-daily-maker-may-go-bankrupt-in-2024-report-123081300627_1.html)
+- [Show HN: Generate a free User Persona in 10 seconds](https://founderpal.ai/user-persona-generator)
 - [Launch HN: Serra &lpar;YC S23&rpar; – Open-source, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
 - [Write about what you learn. It pushes you to understand topics better](https://addyosmani.com/blog/write-learn/)
-- [Python: Just Write SQL](https://joaodlf.com/python-just-write-sql)
-- [Matters Computational – Ideas, Algorithms, Source Code [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
