@@ -54,8 +54,8 @@
 - [Momentum, a DIY 12-voice virtual analogue polyphonic synthesizer based on TSynth](http://electrotechnique.cc/Momentum.html)
 - [Veilid is an open-source, P2P, mobile-ﬁrst, networked application framework](https://veilid.com/)
 - [Fediverse and Naive Bayes: The Grandfather of Spam Filters Still Making Waves](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
-- [Things UNIX can do atomically &lpar;2010&rpar;](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
-- [Samo Burja: Great Founder Theory](https://www.samoburja.com/gft/)
+- [Bypassing YouTube video download throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
+- [Things Unix can do atomically &lpar;2010&rpar;](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
