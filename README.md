@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [D J Bernstein – The IPv6 mess](http://cr.yp.to/djbdns/ipv6mess.html)
+- [Launch HN: Serra &lpar;YC S23&rpar; – Open-source, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
 - [Write about what you learn. It pushes you to understand topics better](https://addyosmani.com/blog/write-learn/)
-- [Vector Database benchmark with 1536/768 dim data](https://github.com/zilliztech/VectorDBBench)
 - [Python: Just Write SQL](https://joaodlf.com/python-just-write-sql)
-- [Momentum, a DIY 12-voice virtual analogue polyphonic synthesizer based on TSynth](http://electrotechnique.cc/Momentum.html)
-- [Veilid is an open-source, P2P, mobile-ﬁrst, networked application framework](https://veilid.com/)
+- [Matters Computational – Ideas, Algorithms, Source Code [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
