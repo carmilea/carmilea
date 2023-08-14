@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elixir – Why the dot &lpar;when calling anonymous functions&rpar;?](https://dashbit.co/blog/why-the-dot)
-- [A Quickstart Guide to Privacy](https://www.hai.haus/blog/privacy-quickstart-2023.html)
-- [Supabase became this generation’s database](https://www.basedash.com/blog/how-supabase-became-this-generations-database)
-- [Non-Thoughts on the Open Source Initiative](https://yakshav.es/non-thoughts-on-the-osi/)
-- [Caught by MuseScore&#39;s Dark Patterns &lpar;2021&rpar;](https://gadanidis.ca/posts/2021-11-09-musescore.html)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [ParkyTowers: Thin Clients Laid Bare](https://www.parkytowers.me.uk/thin/)
+- [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
+- [Show HN: Epsilla – Open-source vector database with low query latency](https://github.com/epsilla-cloud/vectordb)
+- [Elixir – Why the dot when calling anonymous functions?](https://dashbit.co/blog/why-the-dot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
