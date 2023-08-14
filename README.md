@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Small Kansas newspaper says co-owner, 98, collapsed and died after police raid](https://www.cbsnews.com/news/kansas-newspaper-police-raid-marion-county-record-joan-meyer-dies/)
-- [ChatGPT costs 700k/day to run; may go bankrupt in 2024](https://www.business-standard.com/companies/news/chatgpt-costs-700-000-daily-maker-may-go-bankrupt-in-2024-report-123081300627_1.html)
-- [Show HN: Generate a free User Persona in 10 seconds](https://founderpal.ai/user-persona-generator)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Founding Account Executive &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [Police raid of a Kansas newsroom raises alarms about violations of press freedom](https://www.npr.org/2023/08/14/1193676139/newspaper-marion-county-kansas-police-raid-first-amendment)
+- [Show HN: User Persona Generator](https://founderpal.ai/user-persona-generator)
+- [The IPv6 mess](http://cr.yp.to/djbdns/ipv6mess.html)
 - [Launch HN: Serra &lpar;YC S23&rpar; – Open-source, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
-- [Write about what you learn. It pushes you to understand topics better](https://addyosmani.com/blog/write-learn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
