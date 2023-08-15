@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Does the “Learn Vim the Hard Way” website still exist?](https://news.ycombinator.com/item?id=37136390)
+- [Seam &lpar;YC S20&rpar;, API for IoT, Is Hiring a Founding PM](https://www.ycombinator.com/companies/seam/jobs/9VKC412-product-manager)
+- [Harvard tells students to go on food stamps despite having a $53B endowment](https://www.msn.com/en-us/money/news/harvard-university-encourages-students-to-go-on-food-stamps-even-though-its-the-richest-school-in-the-world-with-a-53-billion-endowment/ar-AA1f1i5f)
+- [&quot;About 67k” sites are banned from submission on HN, the list is kept secret](https://news.ycombinator.com/item?id=37130147)
 - [Why doctors pay millions in fees that could be spent on care](https://text.npr.org/1193754380)
-- [Predatory journals entrap unsuspecting scientists](https://www.nature.com/articles/d41586-023-02553-1)
-- [Ball milling destroys PFAS in contaminated soil](https://phys.org/news/2023-08-chemicals.html)
-- [Code Is Not Literature &lpar;2014&rpar;](https://gigamonkeys.com/code-reading/)
-- [Schizophrenia drugs may have been off target for decades, study finds](https://www.msn.com/en-us/health/medical/schizophrenia-drugs-may-have-been-off-target-for-decades-study-finds/ar-AA1fh9Nt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
