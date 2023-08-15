@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar cycle is more powerful and surprising than predicted](https://theconversation.com/this-solar-cycle-the-suns-activity-is-more-powerful-and-surprising-than-predicted-209955)
+- [Advantages to running FreeBSD as a server operating system](https://klarasystems.com/articles/freebsd-3-advantages-to-running-freebsd-as-your-server-operating-system/)
+- [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
 - [So much for CAPTCHA then – bots can complete them quicker than humans](https://www.theregister.com/2023/08/15/so_much_for_captcha_then/)
-- [Show HN: 10x-React-Engineer, Generate Entire React Codebases with Llama 2](https://github.com/jawerty/10x-React-Engineer)
-- [Why is Canada giving two automakers $30B in subsidies for EV battery production?](https://www.wsws.org/en/articles/2023/08/11/dnyl-a11.html)
 - [Show HN: Llama2 Embeddings FastAPI Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service)
-- [The OpenTF Manifesto](https://opentf.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
