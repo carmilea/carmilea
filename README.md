@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
+- [Opendream: A Layer Based UI for Stable Diffusion](https://github.com/varunshenoy/opendream)
 - [Does the “Learn Vim the Hard Way” website still exist?](https://news.ycombinator.com/item?id=37136390)
 - [Seam &lpar;YC S20&rpar;, API for IoT, Is Hiring a Founding PM](https://www.ycombinator.com/companies/seam/jobs/9VKC412-product-manager)
-- [Harvard tells students to go on food stamps despite having a $53B endowment](https://www.msn.com/en-us/money/news/harvard-university-encourages-students-to-go-on-food-stamps-even-though-its-the-richest-school-in-the-world-with-a-53-billion-endowment/ar-AA1f1i5f)
-- [&quot;About 67k” sites are banned from submission on HN, the list is kept secret](https://news.ycombinator.com/item?id=37130147)
-- [Why doctors pay millions in fees that could be spent on care](https://text.npr.org/1193754380)
+- [China Stops Publishing Youth Unemployment Numbers Amid Faltering Economy](https://www.taiwanplus.com/news/world-news/china/230815030/china-stops-publishing-youth-unemployment-numbers-amid-faltering-economy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
