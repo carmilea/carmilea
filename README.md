@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Metriport &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/metriport/jobs/jsOCunE-software-engineer)
+- [Show HN: Visual Reference to CSS Selectors](https://fffuel.co/css-selectors/)
+- [GPU-Accelerated LLM on a $100 Orange Pi](https://blog.mlc.ai/2023/08/09/GPU-Accelerated-LLM-on-Orange-Pi)
 - [Introducing the Safer: A Better Alternative to Safes for Startup Financing](https://nextwave.partners/insights/introducing-safer-better-alternative-safes-startup-financing)
-- [Most bosses regret how they mandated workers return to the office](https://fortune.com/2023/08/14/bosses-regretting-return-to-office-mandates/)
-- [Things you forgot because of React](https://joshcollinsworth.com/blog/antiquated-react)
-- [Sam Bankman-Fried is going to jail](https://arstechnica.com/tech-policy/2023/08/sam-bankman-fried-is-going-to-jail/)
-- [Xitter Broke Nitter Again](https://github.com/zedeus/nitter/issues/983)
+- [Privacy friendly ESP32 smart doorbell with Home Assistant local integration](https://tristam.ie/2023/758/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
