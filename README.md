@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: T.co is adding a ~5 second delay to domains they don&#39;t like](https://news.ycombinator.com/item?id=37130060)
-- [S.F.’s top-paid employee makes $640K. Here’s what every city worker gets paid](https://www.sfchronicle.com/projects/2023/san-francisco-employee-pay/)
-- [LED lights will change the world as incandescent bulbs phase out](https://www.vox.com/technology/23832211/light-bulb-ban-led-incandescent-energy-efficient-climate-sleep)
+- [Tell HN: t.co is adding a five-second delay to some domains](https://news.ycombinator.com/item?id=37130060)
+- [A Warning from the Unpublished Preface to Orwell’s Animal Farm](https://mindmatters.ai/2023/08/a-warning-from-the-unpublished-preface-to-orwells-animal-farm/)
 - [Brandon Gilles Dies from Long-Covid, Electrical Engineer and Spatial AI Pioneer](https://www.mcphagwara.com/articles/brandon-gilles-obituary/)
 - [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
+- [Lynn Conway&#39;s Story &lpar;2000&rpar;](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
