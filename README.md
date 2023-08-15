@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
-- [Opendream: A Layer Based UI for Stable Diffusion](https://github.com/varunshenoy/opendream)
-- [Does the “Learn Vim the Hard Way” website still exist?](https://news.ycombinator.com/item?id=37136390)
+- [Employees in Asia are spending most time looking busy at work, says Slack report](https://www.cnbc.com/2023/08/14/employees-in-asia-are-spending-the-most-time-looking-busy-at-work.html)
+- [Private jet came ‘within 100 feet’ of colliding with Southwest plane, NTSB says](https://www.dallasnews.com/business/airlines/2023/08/14/ntsb-probes-near-collision-of-southwest-airlines-business-jets-in-san-diego/)
+- [We reduced the cost of building Mastodon at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
+- [Opendream: A layer-based UI for Stable Diffusion](https://github.com/varunshenoy/opendream)
 - [Seam &lpar;YC S20&rpar;, API for IoT, Is Hiring a Founding PM](https://www.ycombinator.com/companies/seam/jobs/9VKC412-product-manager)
-- [China Stops Publishing Youth Unemployment Numbers Amid Faltering Economy](https://www.taiwanplus.com/news/world-news/china/230815030/china-stops-publishing-youth-unemployment-numbers-amid-faltering-economy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
