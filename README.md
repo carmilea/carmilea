@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the Safer: A Better Alternative to Safes for Startup Financing](https://nextwave.partners/insights/introducing-safer-better-alternative-safes-startup-financing)
+- [Most bosses regret how they mandated workers return to the office](https://fortune.com/2023/08/14/bosses-regretting-return-to-office-mandates/)
 - [Things you forgot because of React](https://joshcollinsworth.com/blog/antiquated-react)
 - [Sam Bankman-Fried is going to jail](https://arstechnica.com/tech-policy/2023/08/sam-bankman-fried-is-going-to-jail/)
 - [Xitter Broke Nitter Again](https://github.com/zedeus/nitter/issues/983)
-- [Continuous batching to increase LLM inference throughput and reduce p50 latency](https://www.anyscale.com/blog/continuous-batching-llm-inference)
-- [Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
