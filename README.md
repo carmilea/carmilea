@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lynn Conway&#39;s Story &lpar;2000&rpar;](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
 - [Bankman-Fried used $100M in stolen FTX funds for political donations, US says](https://www.reuters.com/legal/bankman-fried-used-customer-funds-100-mln-us-political-donations-prosecutors-say-2023-08-14/)
 - [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
+- [Dell fined $6.5M after admitting it made overpriced monitors look discounted](https://arstechnica.com/gadgets/2023/08/dell-fined-6-5m-after-admitting-it-made-overpriced-monitors-look-discounted/)
 - [Vox Media Partners with WordPress VIP](https://wpvip.com/2023/08/14/vox-media-wordpress-vip/)
-- [Internet Archive Responds to Recording Industry Lawsuit Targeting Obsolete Media](https://blog.archive.org/2023/08/14/internet-archive-responds-to-recording-industry-lawsuit-targeting-obsolete-media/)
-- [Montana loses fight against youth climate activists in landmark ruling](https://arstechnica.com/tech-policy/2023/08/montana-loses-fight-against-youth-climate-activists-in-landmark-ruling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
