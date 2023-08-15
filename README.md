@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Solar cycle is more powerful and surprising than predicted](https://theconversation.com/this-solar-cycle-the-suns-activity-is-more-powerful-and-surprising-than-predicted-209955)
-- [Advantages to running FreeBSD as a server operating system](https://klarasystems.com/articles/freebsd-3-advantages-to-running-freebsd-as-your-server-operating-system/)
-- [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
-- [So much for CAPTCHA then – bots can complete them quicker than humans](https://www.theregister.com/2023/08/15/so_much_for_captcha_then/)
-- [Show HN: Llama2 Embeddings FastAPI Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service)
+- [Predatory journals entrap unsuspecting scientists](https://www.nature.com/articles/d41586-023-02553-1)
+- [Ball milling destroys PFAS in contaminated soil](https://phys.org/news/2023-08-chemicals.html)
+- [Code Is Not Literature](https://gigamonkeys.com/code-reading/)
+- [Schizophrenia Drugs May Have Been Off Target for Decades, Study Finds](https://www.msn.com/en-us/health/medical/schizophrenia-drugs-may-have-been-off-target-for-decades-study-finds/ar-AA1fh9Nt)
+- [Coughlin: SSDs will not kill disk drives](https://blocksandfiles.com/2023/08/15/coughlin-ssds-will-not-kill-disk-drives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
