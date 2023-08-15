@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Continuous batch enables 23x throughput in LLM inference and reduce p50 latency](https://www.anyscale.com/blog/continuous-batching-llm-inference)
-- [Ask HN: I learned useless skill of prompt engineering, how relevant will it be?](https://news.ycombinator.com/item?id=37130531)
+- [Things you forgot because of React](https://joshcollinsworth.com/blog/antiquated-react)
+- [Sam Bankman-Fried is going to jail](https://arstechnica.com/tech-policy/2023/08/sam-bankman-fried-is-going-to-jail/)
+- [Xitter Broke Nitter Again](https://github.com/zedeus/nitter/issues/983)
+- [Continuous batching to increase LLM inference throughput and reduce p50 latency](https://www.anyscale.com/blog/continuous-batching-llm-inference)
 - [Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
-- [Tell HN: t.co is adding a five-second delay to some domains](https://news.ycombinator.com/item?id=37130060)
-- [What coal and Jevons’ paradox tell us about AI and data](https://hex.tech/blog/jevons-paradox-demand-for-insight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
