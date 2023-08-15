@@ -54,8 +54,8 @@
 - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
 - [Requiring ink to scan a document–yet another insult from the printer industry](https://arstechnica.com/gadgets/2023/08/the-printers-that-require-ink-to-scan-and-fax/)
 - [ISPs complain that listing every fee is too hard, urge FCC to scrap new rule](https://arstechnica.com/tech-policy/2023/08/isps-complain-that-listing-every-fee-is-too-hard-urge-fcc-to-scrap-new-rule/)
+- [My Deep Learning Rig](https://nonint.com/2022/05/30/my-deep-learning-rig/)
 - [Asteroid ZTm0038 with a &gt;3% impact probability](https://newton.spacedys.com/neodys2/NEOScan/risk_page/ZTm0038/index_summary_ZTm0038.html)
-- [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
