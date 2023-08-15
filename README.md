@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Metriport &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/metriport/jobs/jsOCunE-software-engineer)
-- [Show HN: Visual Reference to CSS Selectors](https://fffuel.co/css-selectors/)
-- [GPU-Accelerated LLM on a $100 Orange Pi](https://blog.mlc.ai/2023/08/09/GPU-Accelerated-LLM-on-Orange-Pi)
-- [Introducing the Safer: A Better Alternative to Safes for Startup Financing](https://nextwave.partners/insights/introducing-safer-better-alternative-safes-startup-financing)
-- [Privacy friendly ESP32 smart doorbell with Home Assistant local integration](https://tristam.ie/2023/758/)
+- [So much for CAPTCHA then – bots can complete them quicker than humans](https://www.theregister.com/2023/08/15/so_much_for_captcha_then/)
+- [Show HN: 10x-React-Engineer, Generate Entire React Codebases with Llama 2](https://github.com/jawerty/10x-React-Engineer)
+- [Why is Canada giving two automakers $30B in subsidies for EV battery production?](https://www.wsws.org/en/articles/2023/08/11/dnyl-a11.html)
+- [Show HN: Llama2 Embeddings FastAPI Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service)
+- [The OpenTF Manifesto](https://opentf.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
