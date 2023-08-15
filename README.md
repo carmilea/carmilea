@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
-- [Requiring ink to scan a document–yet another insult from the printer industry](https://arstechnica.com/gadgets/2023/08/the-printers-that-require-ink-to-scan-and-fax/)
-- [ISPs complain that listing every fee is too hard, urge FCC to scrap new rule](https://arstechnica.com/tech-policy/2023/08/isps-complain-that-listing-every-fee-is-too-hard-urge-fcc-to-scrap-new-rule/)
-- [My Deep Learning Rig](https://nonint.com/2022/05/30/my-deep-learning-rig/)
-- [Asteroid ZTm0038 with a &gt;3% impact probability](https://newton.spacedys.com/neodys2/NEOScan/risk_page/ZTm0038/index_summary_ZTm0038.html)
+- [We Call on FOSS Contributors to “Exit Zoom”](https://sfconservancy.org/news/2023/aug/15/exit-zoom/)
+- [Modern CSV version 2 is now available](https://www.moderncsv.com/modern-csv-2-is-now-available/)
+- [XFS maintainer, Darrik Wong, steps down](https://lore.kernel.org/linux-xfs/169091989589.112530.11294854598557805230.stgit@frogsfrogsfrogs/T/#m6c9b740f7841a77e077a9fe9f96bb8818f2403bd)
+- [How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
+- [You&#39;re a cyclist who was just struck by a car driver. Why it was your fault](https://www.mcsweeneys.net/articles/youre-a-cyclist-who-was-just-struck-by-a-car-driver-heres-why-it-was-your-fault)
 <!-- BLOG-POST-LIST:END -->
 
 ---
