@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WhoFundsWho: Instantly see who funds the organizations you are reading about](https://whofundswho.com/)
 - [Ask HN: I learned useless skill of prompt engineering, how relevant will it be?](https://news.ycombinator.com/item?id=37130531)
 - [Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
-- [Tell HN: t.co is adding a five-second delay to some domains](https://news.ycombinator.com/item?id=37130060)
 - [What coal and Jevons’ paradox tell us about AI and data](https://hex.tech/blog/jevons-paradox-demand-for-insight/)
-- [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
+- [The unpublished preface to Orwell’s Animal Farm](https://mindmatters.ai/2023/08/a-warning-from-the-unpublished-preface-to-orwells-animal-farm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
