@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Colleges Spend Like There’s No Tomorrow. ‘These Places Are Just Devouring Money&#39;](https://www.wsj.com/articles/state-university-tuition-increase-spending-41a58100)
-- [Lynn Conway&#39;s Story &lpar;2000&rpar;](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
-- [StarCraft was never meant to be played the way Koreans played [video]](https://www.youtube.com/watch?v=FNqaR_XGwns)
-- [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
-- [Dell fined $6.5M after admitting it made overpriced monitors look discounted](https://arstechnica.com/gadgets/2023/08/dell-fined-6-5m-after-admitting-it-made-overpriced-monitors-look-discounted/)
+- [Tell HN: T.co is adding a ~5 second delay to domains they don&#39;t like](https://news.ycombinator.com/item?id=37130060)
+- [S.F.’s top-paid employee makes $640K. Here’s what every city worker gets paid](https://www.sfchronicle.com/projects/2023/san-francisco-employee-pay/)
+- [LED lights will change the world as incandescent bulbs phase out](https://www.vox.com/technology/23832211/light-bulb-ban-led-incandescent-energy-efficient-climate-sleep)
+- [Brandon Gilles Dies from Long-Covid, Electrical Engineer and Spatial AI Pioneer](https://www.mcphagwara.com/articles/brandon-gilles-obituary/)
+- [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
