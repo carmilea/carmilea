@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: I learned useless skill of prompt engineering, how relevant will it be?](https://news.ycombinator.com/item?id=37130531)
+- [Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
 - [Tell HN: t.co is adding a five-second delay to some domains](https://news.ycombinator.com/item?id=37130060)
-- [A Warning from the Unpublished Preface to Orwell’s Animal Farm](https://mindmatters.ai/2023/08/a-warning-from-the-unpublished-preface-to-orwells-animal-farm/)
-- [Brandon Gilles Dies from Long-Covid, Electrical Engineer and Spatial AI Pioneer](https://www.mcphagwara.com/articles/brandon-gilles-obituary/)
+- [What coal and Jevons’ paradox tell us about AI and data](https://hex.tech/blog/jevons-paradox-demand-for-insight/)
 - [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
-- [Lynn Conway&#39;s Story &lpar;2000&rpar;](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
