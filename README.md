@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
-- [Show HN: Repo with a list of 80 decent companies hiring remotely in Europe](https://github.com/EuropeanRemote/european-remote-software-companies)
-- [Is this a good book for me, now?](https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now)
-- [Why Tailwind CSS Won](https://matt-rickard.com/why-tailwind-css-won)
-- [What do I think about Community Notes?](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html)
+- [The Human Ecology of Overshoot Why a Major ‘Population Correction’ Is Inevitable](https://www.mdpi.com/2673-4060/4/3/32)
+- [Owner of hydrogen-powered Hyundai quoted $175,000 to replace fuel cell](https://www.drive.com.au/news/hyundai-ix35-hydrogen-fuel-cell-repair-germany/)
+- [Firm regrets taking Facebook moderation work](https://www.bbc.com/news/technology-66465231)
+- [Amazon Pharmacy automates discounts to help insulin patients get pledged prices](https://www.reuters.com/business/retail-consumer/amazon-pharmacy-automates-discounts-help-insulin-patients-get-pledged-prices-2023-08-15/)
+- [They Tried to Kill Me](https://www.nplusonemag.com/online-only/online-only/how-they-tried-to-kill-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
