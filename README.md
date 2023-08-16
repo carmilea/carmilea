@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Collateral Damage of A.D.H.D. Drug Shortages](https://www.nytimes.com/2023/08/15/well/mind/adhd-adderall-shortage-children.html)
 - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
 - [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
 - [Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
 - [Chrome was delivered without any sprints at all &lpar;2021&rpar;](https://threadreaderapp.com/thread/1427137725119959046.html)
-- [Five Years of LLM Progress](https://finbarr.ca/five-years-of-gpt-progress/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
