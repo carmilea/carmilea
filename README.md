@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iowa using AI to automatically scan and ban books](https://www.engadget.com/mason-city-iowa-school-district-ai-book-ban-censorship-202541565.html)
-- [Marion County atty withdraws search warrant against Kansas paper, returns items](https://www.kshb.com/news/local-news/marion-county-attorney-withdraws-search-warrant-against-kansas-newspaper-returns-items)
+- [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
+- [Casio G-Shock time sync radio](https://gshock.casio.com/intl/technology/radio/)
+- [Luck be a Landlord is now banned in 13 countries on the Google Play Store](https://blog.trampolinetales.com/luck-be-a-landlord-is-now-banned-in-13-countries-on-the-google-play-store/)
 - [Ask HN: Is making a self taught transition to AI/ML related fields possible?](https://news.ycombinator.com/item?id=37151555)
-- [The DeSantis Campaign Texted Me with a Large Language Model](https://nalanj.dev/posts/desantis-campaign-sms-llm/)
 - [New York City bans TikTok for government employees](https://www.engadget.com/new-york-city-bans-tiktok-for-government-employees-174806575.html)
 <!-- BLOG-POST-LIST:END -->
 
