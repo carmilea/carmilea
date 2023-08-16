@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
+- [Show HN: Repo with a list of 80 decent companies hiring remotely in Europe](https://github.com/EuropeanRemote/european-remote-software-companies)
+- [Is this a good book for me, now?](https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now)
 - [Why Tailwind CSS Won](https://matt-rickard.com/why-tailwind-css-won)
 - [What do I think about Community Notes?](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html)
-- [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
-- [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
-- [Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
