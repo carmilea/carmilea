@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The uses and abuses of Cloud Data Warehouses](https://materialize.com/blog/warehouse-abuse/)
+- [You need 27 tickets to guarantee a win on the UK National Lottery](https://arxiv.org/abs/2307.12430)
 - [How do we save water: Stop growing alfalfa in Imperial County](https://www.desertsun.com/story/opinion/contributors/valley-voice/2023/02/05/growing-alfalfa-in-imperial-county-and-california-wastes-water/69860506007/)
 - [Nginx Development Guide](https://nginx.org/en/docs/dev/development_guide.html)
-- [Scientists Reconstructed a Pink Floyd Song from Brain Activity](https://www.wsj.com/articles/mind-reading-computer-ai-brain-research-a643705f)
-- [Owner of hydrogen-powered Hyundai quoted $175,000 to replace fuel cell](https://www.drive.com.au/news/hyundai-ix35-hydrogen-fuel-cell-repair-germany/)
+- [Young people were burned out. Then they quit the rat race to travel](https://www.cnn.com/travel/gen-z-burnout-travel/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
