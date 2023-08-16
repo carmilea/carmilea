@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Tailwind CSS Won](https://matt-rickard.com/why-tailwind-css-won)
 - [Thinking about God increases acceptance of AI in decision-making](https://www.pnas.org/doi/10.1073/pnas.2218961120)
-- [Russian empire aerospace refugees &lpar;2021&rpar;](https://scottlocklin.wordpress.com/2021/03/05/russian-empire-aerospace-refugees/)
-- [Today I learned that random people can send you money on PayPal and disputed it](https://twitter.com/0xRokku/status/1691541352650272771)
+- [Hacker News makes it to Dutch national media](https://nos.nl/artikel/2486778-toegang-tot-nieuwsmedia-en-concurrenten-vertraagd-door-elon-musks-x)
 - [Carl Sagan testifying before Congress in 1985 on climate change [video]](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
 - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
 <!-- BLOG-POST-LIST:END -->
