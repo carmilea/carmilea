@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anonfiles Is Shutting Down](https://anonfiles.com/)
+- [Ex-Google CEO Eric Schmidt to Launch AI-Science Moonshot](https://www.semafor.com/article/08/16/2023/ex-google-ceo-eric-schmidt-to-launch-ai-science-moonshot)
+- [Ubicloud – open, free and portable cloud](https://github.com/ubicloud/ubicloud)
+- [The Amazon Prime Day 2023 AWS Bill](https://www.lastweekinaws.com/blog/the-amazon-prime-day-2023-aws-bill/)
+- [Bringing Safety check to the Chrome://extensions page](https://developer.chrome.com/blog/extension-safety-hub/)
 - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
-- [the US climate law is fueling a factory frenzy. Here’s the latest tally](https://www.canarymedia.com/articles/clean-energy-manufacturing/the-us-climate-law-is-fueling-a-factory-frenzy-heres-the-latest-tally)
-- [Minimum Viable Secure Product](https://mvsp.dev/)
-- [Casio G-Shock time sync radio](https://gshock.casio.com/intl/technology/radio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
