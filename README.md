@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineer slapped with suspension after bridge collapsed hours after opening](https://www.cbc.ca/news/canada/saskatchewan/engineer-18-month-suspension-bridge-collapsed-1.6936657)
-- [X has started reversing the throttling on some of the sites, including NYTimes&#39;](https://twitter.com/drewharwell/status/1691544587947356160)
+- [Cruise vehicle gets stuck in wet concrete while driving in San Francisco](https://www.sfgate.com/tech/article/cruise-stuck-wet-concrete-sf-18297946.php)
+- [AMD Inception Mitigations Cause 20% Performance Drop in Database Servers](https://www.phoronix.com/review/amd-inception-benchmarks)
 - [Putting Down the Pen: Reflecting on Oryx’s Journey](https://www.oryxspioenkop.com/2023/08/putting-down-pen-reflecting-on-oryxs.html)
 - [The Open &lpar;Animal&rpar; Sanctuary Project](https://opensanctuary.org/)
-- [American stocks are at their most expensive in decades](https://www.economist.com/finance-and-economics/2023/08/10/american-stocks-are-at-their-most-expensive-in-decades)
+- [Ted&#39;s Notes on Pawpaws &lpar;2016&rpar;](https://toyrus.ngrok.io/~ted/pawpaws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
