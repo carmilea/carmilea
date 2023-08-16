@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cruise vehicle gets stuck in wet concrete while driving in San Francisco](https://www.sfgate.com/tech/article/cruise-stuck-wet-concrete-sf-18297946.php)
-- [AMD Inception Mitigations Cause 20% Performance Drop in Database Servers](https://www.phoronix.com/review/amd-inception-benchmarks)
-- [Putting Down the Pen: Reflecting on Oryx’s Journey](https://www.oryxspioenkop.com/2023/08/putting-down-pen-reflecting-on-oryxs.html)
-- [The Open &lpar;Animal&rpar; Sanctuary Project](https://opensanctuary.org/)
-- [Ted&#39;s Notes on Pawpaws &lpar;2016&rpar;](https://toyrus.ngrok.io/~ted/pawpaws/)
+- [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
+- [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
+- [Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
+- [Chrome was delivered without any sprints at all &lpar;2021&rpar;](https://threadreaderapp.com/thread/1427137725119959046.html)
+- [Five Years of LLM Progress](https://finbarr.ca/five-years-of-gpt-progress/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
