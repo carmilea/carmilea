@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ex-Google CEO Eric Schmidt to Launch AI-Science Moonshot](https://www.semafor.com/article/08/16/2023/ex-google-ceo-eric-schmidt-to-launch-ai-science-moonshot)
-- [Ubicloud – open, free and portable cloud](https://github.com/ubicloud/ubicloud)
-- [The Amazon Prime Day 2023 AWS Bill](https://www.lastweekinaws.com/blog/the-amazon-prime-day-2023-aws-bill/)
-- [Bringing Safety check to the Chrome://extensions page](https://developer.chrome.com/blog/extension-safety-hub/)
-- [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
+- [New York Times considers legal action against OpenAI as copyright tensions swirl](https://www.npr.org/2023/08/16/1194202562/new-york-times-considers-legal-action-against-openai-as-copyright-tensions-swirl)
+- [2,000-year-old synagogue found in southern Russia](http://www.thehistoryblog.com/archives/68050)
+- [$70 device can spoof an Apple device and trick you into sharing your password](https://techcrunch.com/2023/08/16/this-70-device-can-spoof-an-apple-device-and-trick-you-into-sharing-your-password/)
+- [Naomi Wu and the Silence That Speaks Volumes](https://www.hackingbutlegal.com/naomi-wu-and-the-silence-that-speaks-volumes/)
+- [MLIR For Beginners: A series of articles on the MLIR framework](https://github.com/j2kun/mlir-tutorial)
 <!-- BLOG-POST-LIST:END -->
 
 ---
