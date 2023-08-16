@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why Tailwind CSS Won](https://matt-rickard.com/why-tailwind-css-won)
-- [Thinking about God increases acceptance of AI in decision-making](https://www.pnas.org/doi/10.1073/pnas.2218961120)
-- [Hacker News makes it to Dutch national media](https://nos.nl/artikel/2486778-toegang-tot-nieuwsmedia-en-concurrenten-vertraagd-door-elon-musks-x)
-- [Carl Sagan testifying before Congress in 1985 on climate change [video]](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
+- [What do I think about Community Notes?](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html)
 - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
+- [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
+- [Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
