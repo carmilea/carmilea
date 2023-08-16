@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Call on FOSS Contributors to “Exit Zoom”](https://sfconservancy.org/news/2023/aug/15/exit-zoom/)
-- [Modern CSV version 2 is now available](https://www.moderncsv.com/modern-csv-2-is-now-available/)
-- [XFS maintainer, Darrik Wong, steps down](https://lore.kernel.org/linux-xfs/169091989589.112530.11294854598557805230.stgit@frogsfrogsfrogs/T/#m6c9b740f7841a77e077a9fe9f96bb8818f2403bd)
-- [How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
-- [You&#39;re a cyclist who was just struck by a car driver. Why it was your fault](https://www.mcsweeneys.net/articles/youre-a-cyclist-who-was-just-struck-by-a-car-driver-heres-why-it-was-your-fault)
+- [MLS cyberattack halts entire US real estate market](https://arstechnica.com/security/2023/08/5-days-on-cyberattack-on-data-provider-stymies-realty-markets-throughout-the-us/)
+- [The Open &lpar;Animal&rpar; Sanctuary Project](https://opensanctuary.org/)
+- [You don&#39;t hate Jira, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
+- [Ted&#39;s Notes on Pawpaws &lpar;2016&rpar;](https://toyrus.ngrok.io/~ted/pawpaws/)
+- [Bank of Ireland IT blunder allows customers who have no money get access to cash](https://www.independent.ie/business/personal-finance/bank-of-ireland-it-blunder-allows-customers-who-have-no-money-get-access-to-cash-at-atms/a510070628.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
