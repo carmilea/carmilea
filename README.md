@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MLS cyberattack halts entire US real estate market](https://arstechnica.com/security/2023/08/5-days-on-cyberattack-on-data-provider-stymies-realty-markets-throughout-the-us/)
+- [Engineer slapped with suspension after bridge collapsed hours after opening](https://www.cbc.ca/news/canada/saskatchewan/engineer-18-month-suspension-bridge-collapsed-1.6936657)
+- [X has started reversing the throttling on some of the sites, including NYTimes&#39;](https://twitter.com/drewharwell/status/1691544587947356160)
+- [Putting Down the Pen: Reflecting on Oryx’s Journey](https://www.oryxspioenkop.com/2023/08/putting-down-pen-reflecting-on-oryxs.html)
 - [The Open &lpar;Animal&rpar; Sanctuary Project](https://opensanctuary.org/)
-- [You don&#39;t hate Jira, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
-- [Ted&#39;s Notes on Pawpaws &lpar;2016&rpar;](https://toyrus.ngrok.io/~ted/pawpaws/)
-- [Bank of Ireland IT blunder allows customers who have no money get access to cash](https://www.independent.ie/business/personal-finance/bank-of-ireland-it-blunder-allows-customers-who-have-no-money-get-access-to-cash-at-atms/a510070628.html)
+- [American stocks are at their most expensive in decades](https://www.economist.com/finance-and-economics/2023/08/10/american-stocks-are-at-their-most-expensive-in-decades)
 <!-- BLOG-POST-LIST:END -->
 
 ---
