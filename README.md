@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How to Build a Sentiment Analysis App with Hugging Face](https://www.youtube.com/watch?v=wUelInm-9Ro)
 - [Using Datadog to monitor the health and performance of your SingleStoreDB databases](https://www.youtube.com/watch?v=af3jZO4B7yY)
 - [How to Use Census to Connect SingleStore to All Your Downstream Business Apps](https://www.youtube.com/watch?v=0-IwVxgzukY)
 - [Getting Started with the Blazing-Fast @SingleStore Kai API](https://www.youtube.com/watch?v=IdRVKV_kBc8)
 - [Using Vectors and @SingleStore to create an Image Matching and Search application](https://www.youtube.com/watch?v=Vh1lH0XTqmA)
-- [Here&#39;s how to use @SingleStore&#39;s SQrL ChatBot to Write SQL and Python for you!](https://www.youtube.com/watch?v=QCfc8JQjisQ)
 <!-- YOUTUBE:END -->
 
 
