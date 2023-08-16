@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Human Ecology of Overshoot Why a Major ‘Population Correction’ Is Inevitable](https://www.mdpi.com/2673-4060/4/3/32)
+- [The uses and abuses of Cloud Data Warehouses](https://materialize.com/blog/warehouse-abuse/)
+- [How do we save water: Stop growing alfalfa in Imperial County](https://www.desertsun.com/story/opinion/contributors/valley-voice/2023/02/05/growing-alfalfa-in-imperial-county-and-california-wastes-water/69860506007/)
+- [Nginx Development Guide](https://nginx.org/en/docs/dev/development_guide.html)
+- [Scientists Reconstructed a Pink Floyd Song from Brain Activity](https://www.wsj.com/articles/mind-reading-computer-ai-brain-research-a643705f)
 - [Owner of hydrogen-powered Hyundai quoted $175,000 to replace fuel cell](https://www.drive.com.au/news/hyundai-ix35-hydrogen-fuel-cell-repair-germany/)
-- [Firm regrets taking Facebook moderation work](https://www.bbc.com/news/technology-66465231)
-- [Amazon Pharmacy automates discounts to help insulin patients get pledged prices](https://www.reuters.com/business/retail-consumer/amazon-pharmacy-automates-discounts-help-insulin-patients-get-pledged-prices-2023-08-15/)
-- [They Tried to Kill Me](https://www.nplusonemag.com/online-only/online-only/how-they-tried-to-kill-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
