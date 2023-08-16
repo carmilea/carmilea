@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The uses and abuses of Cloud Data Warehouses](https://materialize.com/blog/warehouse-abuse/)
-- [You need 27 tickets to guarantee a win on the UK National Lottery](https://arxiv.org/abs/2307.12430)
-- [How do we save water: Stop growing alfalfa in Imperial County](https://www.desertsun.com/story/opinion/contributors/valley-voice/2023/02/05/growing-alfalfa-in-imperial-county-and-california-wastes-water/69860506007/)
-- [Nginx Development Guide](https://nginx.org/en/docs/dev/development_guide.html)
-- [Young people were burned out. Then they quit the rat race to travel](https://www.cnn.com/travel/gen-z-burnout-travel/index.html)
+- [Math Proof Draws New Boundaries Around Black Hole Formation](https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/)
+- [Spring 6.1 now compatible with virtual threads and JDK 21 overall](https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x)
+- [Thousands of scientists are cutting back on Twitter](https://www.nature.com/articles/d41586-023-02554-0)
+- [AI cameras catch 297 drivers in three days](https://www.bbc.co.uk/news/uk-england-cornwall-66508840)
+- [Brand-new Linux release, which I&#39;m calling the Debian Linux Release &lpar;1993&rpar;](https://wiki.debian.org/DebianHistory?action=AttachFile&do=get&target=Debian-announcement-1993.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
