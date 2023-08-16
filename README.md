@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Theory of interstellar trade &lpar;1978&rpar; [pdf]](https://www.princeton.edu/~pkrugman/interstellar.pdf)
-- [July 2023 was the hottest month on record](https://twitter.com/nasa/status/1691106509319806977?s=46&t=H_jBB1XRvGbGkpJRBZAq5Q)
-- [LK-99 isn’t a superconductor – how science sleuths solved the mystery](https://www.nature.com/articles/d41586-023-02585-7)
-- [What Happens to All the Stuff We Return?](https://www.newyorker.com/magazine/2023/08/21/the-hidden-cost-of-free-returns)
-- [Ask HN: If we train an LLM with “data” instead of “language” tokens](https://news.ycombinator.com/item?id=37148240)
+- [Ask HN: What are some self-hosted photo organizing/sharing programs?](https://news.ycombinator.com/item?id=37150986)
+- [Ask HN: What are some easy ways to earn some side money?](https://news.ycombinator.com/item?id=37150862)
+- [Firezone &lpar;YC W22&rpar; is hiring a systems engineer](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-systems-engineer)
+- [Apple’s Employee No. 0 &lpar;2008&rpar;](https://www.electronicsweekly.com/blogs/mannerisms/yarns/apples-employee-no-0-2008-11/)
+- [OpenAI acquires Global Illumination](https://openai.com/blog/openai-acquires-global-illumination)
 <!-- BLOG-POST-LIST:END -->
 
 ---
