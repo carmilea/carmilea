@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s time to call a halt to Pride](https://www.theargus.co.uk/news/23710533.time-end-brighton-pride-become-toxic/)
+- [Russian empire aerospace refugees &lpar;2021&rpar;](https://scottlocklin.wordpress.com/2021/03/05/russian-empire-aerospace-refugees/)
+- [Today I learned that random people can send you money on PayPal and disputed it](https://twitter.com/0xRokku/status/1691541352650272771)
 - [Carl Sagan testifying before Congress in 1985 on climate change [video]](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
 - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
-- [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
-- [Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
-- [Chrome was delivered without any sprints at all &lpar;2021&rpar;](https://threadreaderapp.com/thread/1427137725119959046.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
