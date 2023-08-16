@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anonfiles Is Shutting Down](https://anonfiles.com/)
 - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
+- [the US climate law is fueling a factory frenzy. Here’s the latest tally](https://www.canarymedia.com/articles/clean-energy-manufacturing/the-us-climate-law-is-fueling-a-factory-frenzy-heres-the-latest-tally)
+- [Minimum Viable Secure Product](https://mvsp.dev/)
 - [Casio G-Shock time sync radio](https://gshock.casio.com/intl/technology/radio/)
-- [Luck be a Landlord is now banned in 13 countries on the Google Play Store](https://blog.trampolinetales.com/luck-be-a-landlord-is-now-banned-in-13-countries-on-the-google-play-store/)
-- [Ask HN: Is making a self taught transition to AI/ML related fields possible?](https://news.ycombinator.com/item?id=37151555)
-- [New York City bans TikTok for government employees](https://www.engadget.com/new-york-city-bans-tiktok-for-government-employees-174806575.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
