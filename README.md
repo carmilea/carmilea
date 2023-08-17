@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepEval – Unit Testing for LLMs](https://github.com/mr-gpt/deepeval)
 - [NP-hard does not mean hard &lpar;2017&rpar;](https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/)
 - [The Princeton Companion to Mathematics [pdf]](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
-- [A Search for Technosignatures Around 11,680 Nearby Stars](https://arxiv.org/abs/2308.02712)
+- [A search for technosignatures around nearby stars](https://arxiv.org/abs/2308.02712)
 - [Ask HN: Any interesting books you have read lately?](https://news.ycombinator.com/item?id=37156372)
-- [Unit &lpar;Visual Programming System&rpar; [video]](https://www.youtube.com/watch?v=lvvzolKHt2E)
 <!-- BLOG-POST-LIST:END -->
 
 ---
