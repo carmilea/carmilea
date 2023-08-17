@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Revenue Doubled to $4.6B in 2022 Versus 2021](https://www.wsj.com/tech/behind-the-curtain-of-elon-musks-secretive-spacex-revenue-growth-and-rising-costs-2c828e2b)
 - [Beautiful data visualization of the US stock market](https://marketmap.one)
-- [Too Many Fonts in Windows 10 Can Cause Slow Application Starts](https://bigdanzblog.wordpress.com/2023/08/16/too-many-fonts-in-windows-10-can-cause-slow-application-starts/)
+- [Too many fonts in Windows 10 can cause slow application starts](https://bigdanzblog.wordpress.com/2023/08/16/too-many-fonts-in-windows-10-can-cause-slow-application-starts/)
+- [A Guide to Undefined Behavior in C and C++](https://blog.regehr.org/archives/213)
 - [Show HN: Shadeform – Single Platform and API for Provisioning GPUs](https://www.shadeform.ai/)
-- [Show HN: Not My Cows – Save your cows. Blast the meteors. Giddy up](https://notmycows.com/)
-- [Adyen Plummets as Sales Miss Erases $20B of Market Value](https://finance.yahoo.com/news/adyen-plunges-20-hiring-inflation-072432744.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
