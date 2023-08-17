@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting a job at Apple without going to college or doing LeetCode](https://aheze.substack.com/p/getting-a-job-at-apple-without-going)
 - [DIY Espresso &lpar;2020&rpar;](https://www.fourbardesign.com/2020/10/diy-espresso.html)
 - [New York Times considers legal action against OpenAI as copyright tensions swirl](https://text.npr.org/1194202562)
 - [A world to win: WebAssembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 - [DeepEval – Unit Testing for LLMs](https://github.com/mr-gpt/deepeval)
-- [NP-hard does not mean hard &lpar;2017&rpar;](https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
