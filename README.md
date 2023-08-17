@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Revenue Doubled to $4.6B in 2022 Versus 2021](https://www.wsj.com/tech/behind-the-curtain-of-elon-musks-secretive-spacex-revenue-growth-and-rising-costs-2c828e2b)
-- [Beautiful data visualization of the US stock market](https://marketmap.one)
-- [Too many fonts in Windows 10 can cause slow application starts](https://bigdanzblog.wordpress.com/2023/08/16/too-many-fonts-in-windows-10-can-cause-slow-application-starts/)
-- [A Guide to Undefined Behavior in C and C++](https://blog.regehr.org/archives/213)
-- [Show HN: Shadeform – Single Platform and API for Provisioning GPUs](https://www.shadeform.ai/)
+- [Fresh evidence of ChatGPT’s political bias revealed by comprehensive new study](https://www.uea.ac.uk/news/-/article/fresh-evidence-of-chatgpts-political-bias-revealed-by-comprehensive-new-study)
+- [Ancient Fires Drove Large Mammals Extinct, Study Suggests](https://www.nytimes.com/2023/08/17/science/climate-paleontology-mammals.html)
+- [Private equity firm announces a purchase offer with the intent to delist SUSE](https://www.suse.com/news/EQT-announces-voluntary-public-purchase-offer-and-intention-to-delist-SUSE/)
+- [JobCorps.Gov: free job training, food, housing and living allowance](https://www.jobcorps.gov/)
+- [People are starting a lot of fires in the Pacific Northwest](https://www.hcn.org/articles/wildfire-people-are-starting-a-lot-of-fires-in-the-pacific-northwest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
