@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New York Times considers legal action against OpenAI as copyright tensions swirl](https://www.npr.org/2023/08/16/1194202562/new-york-times-considers-legal-action-against-openai-as-copyright-tensions-swirl)
-- [2,000-year-old synagogue found in southern Russia](http://www.thehistoryblog.com/archives/68050)
-- [$70 device can spoof an Apple device and trick you into sharing your password](https://techcrunch.com/2023/08/16/this-70-device-can-spoof-an-apple-device-and-trick-you-into-sharing-your-password/)
-- [Naomi Wu and the Silence That Speaks Volumes](https://www.hackingbutlegal.com/naomi-wu-and-the-silence-that-speaks-volumes/)
-- [MLIR For Beginners: A series of articles on the MLIR framework](https://github.com/j2kun/mlir-tutorial)
+- [QR codes appearing in Google street view?](https://nso.group/@haifisch/110901720830132689#.)
+- [Thirteen years later, why are most administrators still from 2005?](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/Special_report)
+- [How to Produce Green Hydrogen for $1/Kg – Terraform Industries Blog](https://terraformindustries.wordpress.com/2023/08/16/how-to-produce-green-hydrogen-for-1-kg/)
+- [Object Oriented Programming in C &lpar;2006&rpar;](http://ldeniau.web.cern.ch/ldeniau/cos.html)
+- [Open Challenges in LLM Research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
