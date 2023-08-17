@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fresh evidence of ChatGPT’s political bias revealed by comprehensive new study](https://www.uea.ac.uk/news/-/article/fresh-evidence-of-chatgpts-political-bias-revealed-by-comprehensive-new-study)
-- [Ancient Fires Drove Large Mammals Extinct, Study Suggests](https://www.nytimes.com/2023/08/17/science/climate-paleontology-mammals.html)
+- [Fresh evidence of ChatGPT’s political bias: study](https://www.uea.ac.uk/news/-/article/fresh-evidence-of-chatgpts-political-bias-revealed-by-comprehensive-new-study)
+- [Bears Are Climbing Half Dome in Yosemite National Park](https://www.yourcentralvalley.com/news/local-news/bears-are-climbing-half-dome-in-yosemite-national-park/)
+- [Ancient fires drove large mammals extinct, study suggests](https://www.nytimes.com/2023/08/17/science/climate-paleontology-mammals.html)
+- [How to Communicate When Trust Is Low Without Digging Yourself into a Deeper Hole](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/)
 - [Private equity firm announces a purchase offer with the intent to delist SUSE](https://www.suse.com/news/EQT-announces-voluntary-public-purchase-offer-and-intention-to-delist-SUSE/)
-- [JobCorps.Gov: free job training, food, housing and living allowance](https://www.jobcorps.gov/)
-- [People are starting a lot of fires in the Pacific Northwest](https://www.hcn.org/articles/wildfire-people-are-starting-a-lot-of-fires-in-the-pacific-northwest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
