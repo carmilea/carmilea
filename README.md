@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [DeepEval – Unit Testing for LLMs](https://github.com/mr-gpt/deepeval)
+- [Do Cartels Exist? A revisionist view of the drug wars](https://harpers.org/archive/2023/07/do-cartels-exist-revisionist-view-of-the-drug-wars/)
+- [1834: The First Cyberattack &lpar;2017&rpar;](https://www.economist.com/1843/2017/10/05/the-crooked-timber-of-humanity)
 - [NP-hard does not mean hard &lpar;2017&rpar;](https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/)
 - [The Princeton Companion to Mathematics [pdf]](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
-- [A search for technosignatures around nearby stars](https://arxiv.org/abs/2308.02712)
-- [Ask HN: Any interesting books you have read lately?](https://news.ycombinator.com/item?id=37156372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
