@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Strich – Barcode scanning for web apps](https://strich.io)
-- [Google Chrome will summarize articles for you](https://blog.google/products/search/google-search-generative-ai-learning-features/)
-- [Retrieving 1TB of data from a bad Seagate Firecuda drive with woodworking tools](https://blog.jgc.org/2023/08/retrieving-1tb-of-data-from-faulty.html)
-- [AI bots are now better than humans at decoding CAPTCHAs](https://qz.com/ai-bots-recaptcha-turing-test-websites-authenticity-1850734350)
-- [Israeli Researchers Produce Green Hydrogen with 90% Efficiency](https://www.autoevolution.com/news/israeli-researchers-produce-green-hydrogen-with-90-efficiency-without-electrolysis-218644.html)
+- [Older mouse brains rejuvenated by protein found in young blood](https://www.nature.com/articles/d41586-023-02563-z)
+- [Straightforward Thai Railway Safety Posters](https://www.thaitrainguide.com/2022/06/10/railway-safety-posters/)
+- [Turmoil, a framework for developing and testing distributed systems](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
+- [AMD Ryzen APU turned into a 16GB VRAM GPU and it can run Stable Diffusion](https://old.reddit.com/r/Amd/comments/15t0lsm/i_turned_a_95_amd_apu_into_a_16gb_vram_gpu_and_it/)
+- [Inflation Reduction Act impacts on the economics of hydrogen and liquid fuels](https://arxiv.org/abs/2305.00946)
 <!-- BLOG-POST-LIST:END -->
 
 ---
