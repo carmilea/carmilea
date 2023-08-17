@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Blood Factor Can Rejuvenate the Aging Brain](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/a-blood-factor-can-rejuvenate-the-aging-brain/)
+- [SUSE to Go Private](https://opensourcewatch.beehiiv.com/p/suse-go-private)
+- [The Aging Brain: Is Misplaced DNA to Blame?](https://www.science.org/content/blog-post/aging-brain-misplaced-dna-blame)
 - [YouTube Ads May Have Led to Online Tracking of Children, Research Says](https://www.nytimes.com/2023/08/17/technology/youtube-google-children-privacy.html)
 - [“Green smoothie cleanse” causing acute oxalate nephropathy](https://pubmed.ncbi.nlm.nih.gov/29203127/)
-- [How the Army tried and failed to build a bicycle corps &lpar;2020&rpar;](https://www.armytimes.com/news/your-army/2020/02/25/how-the-army-tried-and-failed-to-build-a-bicycle-corps/)
-- [Most React components offered by products aren’t usable](https://blog.dopt.com/why-our-components-are-different)
-- [RoboAgent: A universal agent with 12 Skills](https://robopen.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
