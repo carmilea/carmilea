@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing Difficult Software Engineers](https://vadimkravcenko.com/shorts/managing-bad-engineers/)
 - [Software Engineering Lessons from RCAs of greatest disasters](https://anoopdixith.com/disasters/)
-- [Getting a job at Apple without going to college or doing LeetCode](https://aheze.substack.com/p/getting-a-job-at-apple-without-going)
+- [We Ruined Status LEDs; Here’s Why That Needs to Change](https://hackaday.com/2020/02/20/we-ruined-status-leds-heres-why-that-needs-to-change/)
 - [DIY Espresso &lpar;2020&rpar;](https://www.fourbardesign.com/2020/10/diy-espresso.html)
-- [New York Times considers legal action against OpenAI as copyright tensions swirl](https://text.npr.org/1194202562)
 - [A world to win: WebAssembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 <!-- BLOG-POST-LIST:END -->
 
