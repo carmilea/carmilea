@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beautiful data visualization of the US stock market](https://marketmap.one)
+- [Too Many Fonts in Windows 10 Can Cause Slow Application Starts](https://bigdanzblog.wordpress.com/2023/08/16/too-many-fonts-in-windows-10-can-cause-slow-application-starts/)
+- [Show HN: Shadeform – Single Platform and API for Provisioning GPUs](https://www.shadeform.ai/)
+- [Show HN: Not My Cows – Save your cows. Blast the meteors. Giddy up](https://notmycows.com/)
 - [Adyen Plummets as Sales Miss Erases $20B of Market Value](https://finance.yahoo.com/news/adyen-plunges-20-hiring-inflation-072432744.html)
-- [Close to half of American adults favor TikTok ban, Reuters/Ipsos poll shows](https://www.reuters.com/technology/close-half-americans-favor-tiktok-ban-reutersipsos-poll-2023-08-16/)
-- [My resignation letter as R7RS-large chair](https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ)
-- [YOLO-Driven Development Manifesto](https://andersoncardoso.github.io/ydd/)
-- [Have you seen these dehumidifiers? Stop using them or you might die](https://www.theverge.com/2023/8/16/23835116/have-you-seen-these-dehumidifiers-stop-using-them-or-you-might-die)
 <!-- BLOG-POST-LIST:END -->
 
 ---
