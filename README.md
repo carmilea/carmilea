@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Older mouse brains rejuvenated by protein found in young blood](https://www.nature.com/articles/d41586-023-02563-z)
-- [Straightforward Thai Railway Safety Posters](https://www.thaitrainguide.com/2022/06/10/railway-safety-posters/)
-- [Turmoil, a framework for developing and testing distributed systems](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
-- [AMD Ryzen APU turned into a 16GB VRAM GPU and it can run Stable Diffusion](https://old.reddit.com/r/Amd/comments/15t0lsm/i_turned_a_95_amd_apu_into_a_16gb_vram_gpu_and_it/)
-- [Inflation Reduction Act impacts on the economics of hydrogen and liquid fuels](https://arxiv.org/abs/2305.00946)
+- [Adyen Plummets as Sales Miss Erases $20B of Market Value](https://finance.yahoo.com/news/adyen-plunges-20-hiring-inflation-072432744.html)
+- [Close to half of American adults favor TikTok ban, Reuters/Ipsos poll shows](https://www.reuters.com/technology/close-half-americans-favor-tiktok-ban-reutersipsos-poll-2023-08-16/)
+- [My resignation letter as R7RS-large chair](https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ)
+- [YOLO-Driven Development Manifesto](https://andersoncardoso.github.io/ydd/)
+- [Have you seen these dehumidifiers? Stop using them or you might die](https://www.theverge.com/2023/8/16/23835116/have-you-seen-these-dehumidifiers-stop-using-them-or-you-might-die)
 <!-- BLOG-POST-LIST:END -->
 
 ---
