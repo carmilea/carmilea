@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UpCodes &lpar;YC S17&rpar; is hiring fullstack engineers to help make cheaper buildings](https://up.codes/careers)
+- [Fusion Foolery](https://dothemath.ucsd.edu/2023/08/fusion-foolery/)
+- [Asteroid crater 520km in diameter buried deep in southeast Australia](https://www.australiangeographic.com.au/topics/science-environment/2023/08/asteroid-crater-520km-in-diameter-buried-deep-in-southeast-australia-scientists-say/)
 - [Managing Difficult Software Engineers](https://vadimkravcenko.com/shorts/managing-bad-engineers/)
 - [Software Engineering Lessons from RCAs of greatest disasters](https://anoopdixith.com/disasters/)
-- [We Ruined Status LEDs; Here’s Why That Needs to Change](https://hackaday.com/2020/02/20/we-ruined-status-leds-heres-why-that-needs-to-change/)
-- [DIY Espresso &lpar;2020&rpar;](https://www.fourbardesign.com/2020/10/diy-espresso.html)
-- [A world to win: WebAssembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
