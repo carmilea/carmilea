@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Princeton Companion to Mathematics [pdf]](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
+- [A Search for Technosignatures Around 11,680 Nearby Stars](https://arxiv.org/abs/2308.02712)
+- [Unit &lpar;Visual Programming System&rpar; [video]](https://www.youtube.com/watch?v=lvvzolKHt2E)
 - [CATL reveals ‘Superfast Charging Battery,’ boasts 250mi range with 10-min charge](https://electrek.co/2023/08/16/catl-new-fast-charging-battery-250-mi-10-min/)
 - [Ask HN: Tell us about your project that&#39;s not done yet but you want feedback on](https://news.ycombinator.com/item?id=37156101)
-- [Captain Zilog Crushed: The Story of the Z8000](https://thechipletter.substack.com/p/captain-zilog-crushed-the-story-of)
-- [QR codes appearing in Google street view?](https://nso.group/@haifisch/110901720830132689#.)
-- [Thirteen years later, why are most administrators still from 2005?](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/Special_report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
