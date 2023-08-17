@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI bots are now better than humans at decoding CAPTCHAs](https://qz.com/ai-bots-recaptcha-turing-test-websites-authenticity-1850734350)
+- [Amazon&#39;s overcomplicated new product star ratings are no bright idea](https://www.androidpolice.com/amazon-tests-new-star-ratings/)
+- [Israeli Researchers Produce Green Hydrogen with 90% Efficiency](https://www.autoevolution.com/news/israeli-researchers-produce-green-hydrogen-with-90-efficiency-without-electrolysis-218644.html)
+- [Debian Celebrates 30 Years](https://bits.debian.org/2023/08/debian-turns-30.html)
 - [UpCodes &lpar;YC S17&rpar; is hiring fullstack engineers to help make cheaper buildings](https://up.codes/careers)
-- [Fusion Foolery](https://dothemath.ucsd.edu/2023/08/fusion-foolery/)
-- [Asteroid crater 520km in diameter buried deep in southeast Australia](https://www.australiangeographic.com.au/topics/science-environment/2023/08/asteroid-crater-520km-in-diameter-buried-deep-in-southeast-australia-scientists-say/)
-- [Managing Difficult Software Engineers](https://vadimkravcenko.com/shorts/managing-bad-engineers/)
-- [Software Engineering Lessons from RCAs of greatest disasters](https://anoopdixith.com/disasters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
