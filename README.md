@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
+- [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
 - [Microsoft&#39;s backwards compatibility is insane](https://twitter.com/mikko/status/1692503249595584526)
 - [Revealed: WHO aspartame safety panel linked to alleged Coca-Cola front group](https://www.theguardian.com/business/2023/aug/17/who-panel-aspartame-diet-coke-guidelines)
-- [Driverless Cruise car collides with SF fire truck, injuring passenger](https://abc7news.com/cruise-driverless-car-sffd-fire-truck-accident/13666936/)
-- [Sargablock: Bricks from Seaweed](https://fortomorrow.org/explore-solutions/sargablock)
-- [Tell HN: Gmail rate limiting emails from AWS SES](https://news.ycombinator.com/item?id=37175503)
+- [Show HN: A website for remote workers to find Airbnb&#39;s with good Internet](https://thewirednomad.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
