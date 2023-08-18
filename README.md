@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
+- [The modern sea spider had started to diversify by the Jurassic, study finds](https://www.bristol.ac.uk/news/2023/august/sea-spider-had-started-to-diversify-by-jurassic.html)
+- [New type of star gives clues to mysterious origin of magnetars](https://www.eso.org/public/news/eso2313/)
 - [How to implement a disk cache plugin for Elixir&#39;s Req HTTP client?](https://thibautbarrere.com/2022/09/09/implementing-a-disk-cache-for-elixir-req)
-- [New Linux Tablet from Star Labs](https://us.starlabs.systems/pages/starlite)
-- [A Blood Factor Can Rejuvenate the Aging Brain](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/a-blood-factor-can-rejuvenate-the-aging-brain/)
-- [SUSE to Go Private](https://opensourcewatch.beehiiv.com/p/suse-go-private)
-- [The Aging Brain: Is Misplaced DNA to Blame?](https://www.science.org/content/blog-post/aging-brain-misplaced-dna-blame)
+- [StarLite 12.5-inch Linux tablet](https://us.starlabs.systems/pages/starlite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
