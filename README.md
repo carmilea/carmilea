@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple searlized the iPhone 14 backglass [video]](https://www.youtube.com/shorts/fLEOiQdDkzk)
 - [Dirty downside of &#39;return to office&#39;; ending WFH could make climate crisis worse](https://www.businessinsider.com/return-to-office-remote-work-from-home-commute-companies-climate-2023-8)
+- [Blue-light filtering spectacles probably make no difference to sleep quality](https://medicalxpress.com/news/2023-08-blue-light-filtering-spectacles-difference-eye.html)
 - [Show HN: Poozle – open-source Plaid for LLMs](https://github.com/poozlehq/poozle)
-- [Dude,Where&#39;s My Donations? Wikimedia gives another $1M to non-Wikimedia projects](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/News_and_notes)
 - [Earth’s hottest month: these charts show what happened in July; what comes next](https://www.nature.com/articles/d41586-023-02552-2)
-- [Police Are Getting DNA Data from People Who Think They Opted Out](https://theintercept.com/2023/08/18/gedmatch-dna-police-forensic-genetic-genealogy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
