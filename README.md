@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ProtonMail Complied with 5,957 Data Requests in 2022 – Still Secure and Private?](https://restoreprivacy.com/protonmail-data-requests-user-logs/)
+- [Microsoft AI suggests Ottawa food bank as a “cannot miss” tourist spot](https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/)
+- [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
+- [TypeScript Is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 - [micro – A Modern Alternative to nano](https://micro-editor.github.io/)
-- [China’s property giant Evergrande files for bankruptcy protection in Manhattan](https://www.cnbc.com/2023/08/18/china-property-developer-evergrande-files-for-bankruptcy-protection-in-us.html)
-- [Fp-go: Functional Programming Library for Golang](https://github.com/IBM/fp-go)
-- [Fiber-Optic Cables Are Natural Earthquake Detectors](https://spectrum.ieee.org/earthquake)
-- [Microplastics detected in the marine air from Norway to the high Arctic](https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
