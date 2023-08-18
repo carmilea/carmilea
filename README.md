@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [micro – A Modern Alternative to nano](https://micro-editor.github.io/)
 - [China’s property giant Evergrande files for bankruptcy protection in Manhattan](https://www.cnbc.com/2023/08/18/china-property-developer-evergrande-files-for-bankruptcy-protection-in-us.html)
 - [Fp-go: Functional Programming Library for Golang](https://github.com/IBM/fp-go)
+- [Fiber-Optic Cables Are Natural Earthquake Detectors](https://spectrum.ieee.org/earthquake)
 - [Microplastics detected in the marine air from Norway to the high Arctic](https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic/)
-- [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
-- [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
