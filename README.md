@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Gmail rate limiting emails from AWS SES](https://news.ycombinator.com/item?id=37175503)
+- [Mister Rogers Had a Point: Routinely Greeting Six Neighbors Maximizes Wellbeing](https://www.goodnewsnetwork.org/mister-rogers-had-a-point-routinely-greeting-six-neighbors-maximizes-wellbeing-outcomes/)
+- [A Ghost Town of Abandoned Mansions in China](https://www.architecturaldigest.com/story/see-inside-a-ghost-town-of-abandoned-mansions-in-china)
 - [Node.js 20.6.0 will include built-in support for .env files](https://twitter.com/kom_256/status/1692225622091706389)
 - [You probably don’t need to fine-tune LLMs](https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/)
-- [Firefox 117 Beta 8 vs. Google Chrome 116 Linux Browser Performance](https://www.phoronix.com/news/Firefox-117-Chrome-116-Bench)
-- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37174474)
-- [Short session expiration does not help security](https://www.sjoerdlangkemper.nl/2023/08/16/session-timeout/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
