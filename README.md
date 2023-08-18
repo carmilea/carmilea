@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moderna CEO made $400M last year–2,435x the median salary of employees](https://arstechnica.com/health/2023/08/moderna-ceo-made-400m-last-year-2435x-the-median-salary-of-employees/)
+- [Dirty downside of &#39;return to office&#39;; ending WFH could make climate crisis worse](https://www.businessinsider.com/return-to-office-remote-work-from-home-commute-companies-climate-2023-8)
+- [Show HN: Poozle – open-source Plaid for LLMs](https://github.com/poozlehq/poozle)
+- [Dude,Where&#39;s My Donations? Wikimedia gives another $1M to non-Wikimedia projects](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/News_and_notes)
+- [Earth’s hottest month: these charts show what happened in July; what comes next](https://www.nature.com/articles/d41586-023-02552-2)
 - [Police Are Getting DNA Data from People Who Think They Opted Out](https://theintercept.com/2023/08/18/gedmatch-dna-police-forensic-genetic-genealogy/)
-- [The Plumber Problem](https://hypercritical.co/2023/08/18/the-plumber-problem)
-- [The Next Next Job, a framework for making big career decisions](https://andrewchen.com/the-next-next-job/)
-- [From Mechs to Mopar](https://www.filfre.net/2023/08/from-mechs-to-mopar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
