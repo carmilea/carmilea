@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tmux has forever changed the way I write code [video]](https://www.youtube.com/watch?v=DzNmUNvnB04)
+- [CATL &lpar;Tesla Supplier&rpar; Launches Superfast Charging Battery &lpar;10 min&rpar;](https://www.catl.com/en/news/6091.html)
+- [London Then and Now: Aerial Shots Show City Grow over Past Two Decades](https://londonist.com/london/art-and-photography/aerial-london-then-and-now)
 - [ProtonMail Complied with 5,957 Data Requests in 2022 – Still Secure and Private?](https://restoreprivacy.com/protonmail-data-requests-user-logs/)
 - [Microsoft AI suggests Ottawa food bank as a “cannot miss” tourist spot](https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/)
-- [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
-- [TypeScript Is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
-- [micro – A Modern Alternative to nano](https://micro-editor.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
