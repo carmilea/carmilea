@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to implement a disk cache plugin for Elixir&#39;s Req HTTP client?](https://thibautbarrere.com/2022/09/09/implementing-a-disk-cache-for-elixir-req)
 - [New Linux Tablet from Star Labs](https://us.starlabs.systems/pages/starlite)
-- [Benefits of Inconvenience &lpar;“Fuben-Eki”&rpar;](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2046153/)
 - [A Blood Factor Can Rejuvenate the Aging Brain](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/a-blood-factor-can-rejuvenate-the-aging-brain/)
 - [SUSE to Go Private](https://opensourcewatch.beehiiv.com/p/suse-go-private)
 - [The Aging Brain: Is Misplaced DNA to Blame?](https://www.science.org/content/blog-post/aging-brain-misplaced-dna-blame)
