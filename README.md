@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
-- [Tmux has forever changed the way I write code [video]](https://www.youtube.com/watch?v=DzNmUNvnB04)
-- [Pg_later: Asynchronous Queries for Postgres](https://tembo.io/blog/introducing-pg-later/)
-- [London Then and Now: Aerial Shots Show City Grow over Past Two Decades](https://londonist.com/london/art-and-photography/aerial-london-then-and-now)
-- [Microsoft AI suggests Ottawa food bank as a “cannot miss” tourist spot](https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/)
+- [Firefox 117 Beta 8 vs. Google Chrome 116 Linux Browser Performance](https://www.phoronix.com/news/Firefox-117-Chrome-116-Bench)
+- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37174474)
+- [UK birth slump dubbed ‘good for planet’](https://www.telegraph.co.uk/business/2023/08/17/20-year-low-for-baby-born-in-england-good-news-for-planet/)
+- [Why Japan has so many ‘never travelers’](https://www.cnn.com/travel/article/japan-never-traveler-culture-cmb/index.html)
+- [Facebook must pay $100.000 to Norway each day for violating our right to privacy](https://tutanota.com/blog/facebook-instagram-adtracking-ends)
 <!-- BLOG-POST-LIST:END -->
 
 ---
