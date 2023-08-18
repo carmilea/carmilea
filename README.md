@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Functional Programming Library for Golang by IBM](https://github.com/IBM/fp-go)
-- [Microplastics Detected in the Marine Air from Norway to the High Arctic](https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic/)
+- [China’s property giant Evergrande files for bankruptcy protection in Manhattan](https://www.cnbc.com/2023/08/18/china-property-developer-evergrande-files-for-bankruptcy-protection-in-us.html)
+- [Fp-go: Functional Programming Library for Golang](https://github.com/IBM/fp-go)
+- [Microplastics detected in the marine air from Norway to the high Arctic](https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic/)
 - [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
 - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
-- [The modern sea spider had started to diversify by the Jurassic, study finds](https://www.bristol.ac.uk/news/2023/august/sea-spider-had-started-to-diversify-by-jurassic.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
