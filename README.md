@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple searlized the iPhone 14 backglass [video]](https://www.youtube.com/shorts/fLEOiQdDkzk)
+- [A testimony of “guilt-by-association” harassment in astronomy](https://hxstem.substack.com/p/a-testimony-of-guilt-by-association)
+- [Boycott Systemd &lpar;2014&rpar;](https://web.archive.org/web/20140424123646/http://boycottsystemd.org/)
+- [Solar-Powered Electric Motors for EVs That Never Plug In](https://spectrum.ieee.org/solar-powered-motor)
 - [Dirty downside of &#39;return to office&#39;; ending WFH could make climate crisis worse](https://www.businessinsider.com/return-to-office-remote-work-from-home-commute-companies-climate-2023-8)
 - [Blue-light filtering spectacles probably make no difference to sleep quality](https://medicalxpress.com/news/2023-08-blue-light-filtering-spectacles-difference-eye.html)
-- [Show HN: Poozle – open-source Plaid for LLMs](https://github.com/poozlehq/poozle)
-- [Earth’s hottest month: these charts show what happened in July; what comes next](https://www.nature.com/articles/d41586-023-02552-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
