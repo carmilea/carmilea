@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Artists have forgotten how to draw](https://unherd.com/2023/08/artists-have-forgotten-how-to-draw/)
+- [Discourse on Winning and Losing &lpar;1989&rpar; [pdf]](https://static1.squarespace.com/static/5497331ae4b0148a6141bd47/t/5af842f8758d4615555d3f6d/1526219514965/Patterns+of+Conflict+Transcript.pdf)
+- [YC Library](https://www.ycombinator.com/library)
 - [A testimony of “guilt-by-association” harassment in astronomy](https://hxstem.substack.com/p/a-testimony-of-guilt-by-association)
-- [Boycott Systemd &lpar;2014&rpar;](https://web.archive.org/web/20140424123646/http://boycottsystemd.org/)
-- [Solar-Powered Electric Motors for EVs That Never Plug In](https://spectrum.ieee.org/solar-powered-motor)
-- [Dirty downside of &#39;return to office&#39;; ending WFH could make climate crisis worse](https://www.businessinsider.com/return-to-office-remote-work-from-home-commute-companies-climate-2023-8)
-- [Blue-light filtering spectacles probably make no difference to sleep quality](https://medicalxpress.com/news/2023-08-blue-light-filtering-spectacles-difference-eye.html)
+- [Fixing the TPM: Hardware Security Modules Done Right](https://loup-vaillant.fr/articles/hsm-done-right)
 <!-- BLOG-POST-LIST:END -->
 
 ---
