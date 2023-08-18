@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s time for Americans to embrace small cars](https://arstechnica.com/cars/2023/08/dont-supersize-me-the-case-for-small-electric-cars-instead-of-big-suvs/)
-- [C and C++ Prioritize Performance over Correctness](https://research.swtch.com/ub)
-- [Black Atlanta venture capital firm sued for racial discrimination](https://www.ajc.com/news/business/conservative-group-sues-black-atlanta-vc-firm-for-racial-discrimination/M6NP2V5PRJGE3HTJXBSF7VYKTY/)
-- [Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
-- [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
+- [Moderna CEO made $400M last year–2,435x the median salary of employees](https://arstechnica.com/health/2023/08/moderna-ceo-made-400m-last-year-2435x-the-median-salary-of-employees/)
+- [Police Are Getting DNA Data from People Who Think They Opted Out](https://theintercept.com/2023/08/18/gedmatch-dna-police-forensic-genetic-genealogy/)
+- [The Plumber Problem](https://hypercritical.co/2023/08/18/the-plumber-problem)
+- [The Next Next Job, a framework for making big career decisions](https://andrewchen.com/the-next-next-job/)
+- [From Mechs to Mopar](https://www.filfre.net/2023/08/from-mechs-to-mopar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
