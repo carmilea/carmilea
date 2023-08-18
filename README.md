@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Functional Programming Library for Golang by IBM](https://github.com/IBM/fp-go)
+- [Microplastics Detected in the Marine Air from Norway to the High Arctic](https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic/)
+- [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
 - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
 - [The modern sea spider had started to diversify by the Jurassic, study finds](https://www.bristol.ac.uk/news/2023/august/sea-spider-had-started-to-diversify-by-jurassic.html)
-- [New type of star gives clues to mysterious origin of magnetars](https://www.eso.org/public/news/eso2313/)
-- [How to implement a disk cache plugin for Elixir&#39;s Req HTTP client?](https://thibautbarrere.com/2022/09/09/implementing-a-disk-cache-for-elixir-req)
-- [StarLite 12.5-inch Linux tablet](https://us.starlabs.systems/pages/starlite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
