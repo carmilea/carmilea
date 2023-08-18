@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s time for Americans to embrace small cars](https://arstechnica.com/cars/2023/08/dont-supersize-me-the-case-for-small-electric-cars-instead-of-big-suvs/)
+- [C and C++ Prioritize Performance over Correctness](https://research.swtch.com/ub)
+- [Black Atlanta venture capital firm sued for racial discrimination](https://www.ajc.com/news/business/conservative-group-sues-black-atlanta-vc-firm-for-racial-discrimination/M6NP2V5PRJGE3HTJXBSF7VYKTY/)
 - [Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
 - [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
-- [Microsoft&#39;s backwards compatibility is insane](https://twitter.com/mikko/status/1692503249595584526)
-- [Revealed: WHO aspartame safety panel linked to alleged Coca-Cola front group](https://www.theguardian.com/business/2023/aug/17/who-panel-aspartame-diet-coke-guidelines)
-- [Show HN: A website for remote workers to find Airbnb&#39;s with good Internet](https://thewirednomad.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
