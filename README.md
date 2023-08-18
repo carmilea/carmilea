@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft&#39;s backwards compatibility is insane](https://twitter.com/mikko/status/1692503249595584526)
+- [Revealed: WHO aspartame safety panel linked to alleged Coca-Cola front group](https://www.theguardian.com/business/2023/aug/17/who-panel-aspartame-diet-coke-guidelines)
+- [Driverless Cruise car collides with SF fire truck, injuring passenger](https://abc7news.com/cruise-driverless-car-sffd-fire-truck-accident/13666936/)
+- [Sargablock: Bricks from Seaweed](https://fortomorrow.org/explore-solutions/sargablock)
 - [Tell HN: Gmail rate limiting emails from AWS SES](https://news.ycombinator.com/item?id=37175503)
-- [Mister Rogers Had a Point: Routinely Greeting Six Neighbors Maximizes Wellbeing](https://www.goodnewsnetwork.org/mister-rogers-had-a-point-routinely-greeting-six-neighbors-maximizes-wellbeing-outcomes/)
-- [A Ghost Town of Abandoned Mansions in China](https://www.architecturaldigest.com/story/see-inside-a-ghost-town-of-abandoned-mansions-in-china)
-- [Node.js 20.6.0 will include built-in support for .env files](https://twitter.com/kom_256/status/1692225622091706389)
-- [You probably don’t need to fine-tune LLMs](https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
