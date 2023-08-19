@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is the world finally ready for ethical porn?](https://shado-mag.com/see/is-the-world-finally-ready-for-ethical-porn/)
-- [Hahaha We Live in Hell](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
+- [“How do we pay for parking?”](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
 - [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
+- [IP Address Blocking Banned After Anti-Piracy Court Order Hit Cloudflare](https://torrentfreak.com/ip-address-blocking-banned-after-anti-piracy-court-order-hit-cloudflare-230811/)
 - [The Noisy Middle Ages](https://www.medievalists.net/2016/02/the-noisy-middle-ages/)
-- [An Open Letter to Hobbyists &lpar;1976&rpar;](https://archive.nytimes.com/www.nytimes.com/library/cyber/surf/072397mind-letter.html)
+- [High-Dosage NMN Promotes Ferroptosis to Suppress Lung Adenocarcinoma in Mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10177531/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
