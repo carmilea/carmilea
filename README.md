@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cruise told by CA DMV to reduce robotaxi fleet 50% following crash](https://techcrunch.com/2023/08/18/cruise-told-by-regulators-to-immediately-reduce-robotaxi-fleet-50-following-crash/)
 - [How to Roman Republic 101, Part IIIb: Imperium](https://acoup.blog/2023/08/18/collections-how-to-roman-republic-101-part-iiib-imperium/)
 - [TSMC – the world&#39;s most important company. And everyone wants control of it](https://www.abc.net.au/news/2023-08-19/tsmc-the-most-important-company-in-the-world/102728172)
 - [Cyberattack shutters major NSF-funded telescopes for more than 2 weeks](https://www.science.org/content/article/cyberattack-shutters-major-nsf-funded-telescopes-more-2-weeks)
 - [Metazooa](https://metazooa.com/game)
+- [2009scape](https://2009scape.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
