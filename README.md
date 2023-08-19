@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [With LLMs, enterprise data is different](https://colinharman.substack.com/p/with-llms-enterprise-is-different)
+- [TSMC – the world&#39;s most important company. And everyone wants control of it](https://www.abc.net.au/news/2023-08-19/tsmc-the-most-important-company-in-the-world/102728172)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [Metazooa](https://metazooa.com/game)
 - [The Jester of Tonga](https://www.the-fence.com/the-jester-of-tonga/)
-- [2009scape](https://2009scape.org/)
-- [Radiation Spikes at Chernobyl: A Mystery Few Seem Interested in Solving](https://zetter.substack.com/p/radiation-spikes-at-chernobyl-a-mystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
