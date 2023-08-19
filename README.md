@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Insulin resistance after a 3-day fast](https://journals.physiology.org/doi/abs/10.1152/ajpendo.00317.2022)
-- [I Have Blocked OpenAI](https://gavinhoward.com/2023/08/i-have-blocked-openai/)
-- [High-Dosage NMN Promotes Ferroptosis to Suppress Lung Adenocarcinoma in Mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10177531/)
-- [Air Force funds ‘blended wing body’ design for long-range, fuel-efficient flight](https://www.popsci.com/technology/air-force-blended-wing-body/)
-- [First Hurricane to hit California in 84 years; ‘catastrophic’ flooding feared](https://www.washingtonpost.com/weather/2023/08/19/hurricane-hilary-southern-california-rain-floods-forecast/)
+- [Is the world finally ready for ethical porn?](https://shado-mag.com/see/is-the-world-finally-ready-for-ethical-porn/)
+- [Hahaha We Live in Hell](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
+- [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
+- [The Noisy Middle Ages](https://www.medievalists.net/2016/02/the-noisy-middle-ages/)
+- [An Open Letter to Hobbyists &lpar;1976&rpar;](https://archive.nytimes.com/www.nytimes.com/library/cyber/surf/072397mind-letter.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
