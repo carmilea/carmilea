@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America’s Obsession with Weight-Loss Drugs Is Affecting the Economy of Denmark](https://www.wsj.com/economy/central-banking/americas-obsession-with-weight-loss-drugs-is-affecting-the-economy-of-denmark-22797e5c)
 - [Meet the $4 Billion AI Superstars That Google Lost](https://www.bloomberg.com/opinion/features/2023-07-13/ex-google-scientists-kickstarted-the-generative-ai-era-of-chatgpt-midjourney)
 - [Conclusive Evidence for Modified Gravity](https://scitechdaily.com/conclusive-evidence-for-modified-gravity-collapse-of-newtons-and-einsteins-theories-in-low-acceleration/)
+- [Comparing Windows uninstallers, getting upset and then deciding to make my own](https://jv16powertools.com/blog/comparing-windows-uninstallers-and-making-uninstalr/)
 - [PlayHT &lpar;YC W23&rpar; Is Hiring Senior ML Engineer &lpar;Large Language Models&rpar;](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
-- [Ask HN: Why did Microsoft, Meta, and PayPal update their ToS today?](https://news.ycombinator.com/item?id=37185461)
-- [How to Roman Republic 101, Part IIIb: Imperium](https://acoup.blog/2023/08/18/collections-how-to-roman-republic-101-part-iiib-imperium/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
