@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why old books smell so good](https://scienceswitch.com/2023/08/19/why-do-old-books-smell-so-good/)
 - [Fart Proudly – An Essay by Benjamin Franklin](https://en.wikipedia.org/wiki/Fart_Proudly)
 - [Amsterdam to use “noise cameras” against too loud cars](https://nltimes.nl/2023/08/11/amsterdam-use-noise-cameras-loud-cars)
-- [Ask HN: How to contract for US companies as EU national](https://news.ycombinator.com/item?id=37187320)
-- [Important CIA Contributions to Modern Technology](https://www.cia.gov/stories/story/cia-contributions-to-modern-technology-75-years/)
-- [PlayHT &lpar;YC W23&rpar; Is Hiring Senior ML Engineer &lpar;Large Language Models&rpar;](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
+- [Windy.com: global weather website with live filters](https://www.windy.com)
+- [Stable Diffusion in pure C/C++](https://github.com/leejet/stable-diffusion.cpp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
