@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla repossessed my car due to an extreme oversight on their end](https://old.reddit.com/r/RealTesla/comments/15u8wuv/tesla_repossessed_my_car_due_to_an_extreme/)
+- [AI-Generated Art Lacks Copyright Protection, D.C. Court Says](https://news.bloomberglaw.com/ip-law/ai-generated-art-lacks-copyright-protection-d-c-court-rules)
 - [WD refused to answer our questions about its self-wiping SanDisk SSDs](https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions)
+- [The Lost Script of Rapa Nui](https://www.historytoday.com/archive/missing-pieces/lost-script-rapa-nui)
 - [Show HN: Rivet &lpar;YC W23&rpar; – Open-Source Game Server Management with Nomad and Rust](https://github.com/rivet-gg/rivet)
-- [Not so solitary predators? Great white shark duo seem to be travelling together](https://www.cbc.ca/radio/asithappens/tracking-great-white-shark-duo-ocearch-1.6940794)
-- [Cruise Agrees to Reduce Driverless Car Fleet in San Francisco After Crash](https://www.nytimes.com/2023/08/18/technology/cruise-crash-driverless-car-san-francisco.html)
-- [Show HN: A simple, open-source Notion-like avatar generator](https://www.avatartion.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
