@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Insulin resistance after a 3-day fast](https://journals.physiology.org/doi/abs/10.1152/ajpendo.00317.2022)
+- [I Have Blocked OpenAI](https://gavinhoward.com/2023/08/i-have-blocked-openai/)
+- [High-Dosage NMN Promotes Ferroptosis to Suppress Lung Adenocarcinoma in Mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10177531/)
 - [Air Force funds ‘blended wing body’ design for long-range, fuel-efficient flight](https://www.popsci.com/technology/air-force-blended-wing-body/)
-- [New plant-based pork ribs to feature edible vegan bones](https://www.theguardian.com/food/2023/aug/17/new-plant-based-pork-ribs-to-feature-edible-vegan-bones)
 - [First Hurricane to hit California in 84 years; ‘catastrophic’ flooding feared](https://www.washingtonpost.com/weather/2023/08/19/hurricane-hilary-southern-california-rain-floods-forecast/)
-- [Flexport Is Hiring &lpar;Though not as much as before&rpar;](https://flexport.com/careers)
-- [Iraq Blocks Telegram, Leaks Blackhole BGP Routes](https://www.kentik.com/blog/iraq-blocks-telegram-leaks-blackhole-bgp-routes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
