@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NC Files More Than 400 Charges Against Shelby Nissan Dealership Employees](https://jalopnik.com/north-carolina-nissan-dealer-shelby-federal-charges-sue-1850752053)
-- [We Spent $1,500,000 on Ads Without Getting a Single Customer](https://www.briefmix.com/startup/setting-objectives-kpis)
-- [Twitter/X has removed all media posted before 2014](https://twitter.com/tomcoates/status/1692922211416334597)
-- [Speakers of different languages remember visual scenes differently](https://www.science.org/doi/10.1126/sciadv.adh0064)
-- [Cheems – The shiba inu meme dog has died](https://www.the-sun.com/news/8879390/cheems-balltze-dog-meme-cheemsburger-viral-cancer/)
+- [Flexport Is Hiring &lpar;Though not as much as before&rpar;](https://flexport.com/careers)
+- [70 years ago, an Anglo-US coup condemned Iran to decades of oppression](https://theconversation.com/70-years-ago-an-anglo-us-coup-condemned-iran-to-decades-of-oppression-but-now-the-people-are-fighting-back-211698)
+- [British Columbia declares a state of emergency amid devastating wildfires](https://www.washingtonpost.com/world/2023/08/19/canada-wildfires-british-columbia-kelowna-emergency/)
+- [NC files charges against Nissan dealership employees](https://jalopnik.com/north-carolina-nissan-dealer-shelby-federal-charges-sue-1850752053)
+- [Show HN: Aviation navigation log on $20 receipt printer](https://carloslagoa.com/blog/flipreps/flipreps.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
