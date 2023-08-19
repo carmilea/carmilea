@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“How do we pay for parking?”](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
+- [Programming Language choices: Pascal, LOGO, Forth, Prolog, C &lpar;1986&rpar; [video]](https://clp.bbcrewind.co.uk/3d15323fe870ef44784832c02f4f7992)
+- [Indie Game Dev: Assessing Risk](https://derekyu.com/makegames/risk.html)
+- [What Saved the ‘Miracle House’ in Lahaina?](https://www.civilbeat.org/2023/08/what-saved-the-miracle-house-in-lahaina/)
+- [When the Beatles Recorded “Twist and Shout”](https://lithub.com/it-conveyed-them-when-the-beatles-recorded-twist-and-shout/)
 - [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
-- [IP Address Blocking Banned After Anti-Piracy Court Order Hit Cloudflare](https://torrentfreak.com/ip-address-blocking-banned-after-anti-piracy-court-order-hit-cloudflare-230811/)
-- [The Noisy Middle Ages](https://www.medievalists.net/2016/02/the-noisy-middle-ages/)
-- [High-Dosage NMN Promotes Ferroptosis to Suppress Lung Adenocarcinoma in Mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10177531/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
