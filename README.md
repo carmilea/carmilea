@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla repossessed my car due to an extreme oversight on their end](https://old.reddit.com/r/RealTesla/comments/15u8wuv/tesla_repossessed_my_car_due_to_an_extreme/)
-- [AI-Generated Art Lacks Copyright Protection, D.C. Court Says](https://news.bloomberglaw.com/ip-law/ai-generated-art-lacks-copyright-protection-d-c-court-rules)
-- [WD refused to answer our questions about its self-wiping SanDisk SSDs](https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions)
-- [The Lost Script of Rapa Nui](https://www.historytoday.com/archive/missing-pieces/lost-script-rapa-nui)
-- [Show HN: Rivet &lpar;YC W23&rpar; – Open-Source Game Server Management with Nomad and Rust](https://github.com/rivet-gg/rivet)
+- [We Spent $1,500,000 on Ads Without Getting a Single Customer](https://www.briefmix.com/startup/setting-objectives-kpis)
+- [Show HN: Find simple open source bounties to solve and get paid](https://www.bountyfordevs.com/)
+- [Twitter/X has removed all media posted before 2014](https://twitter.com/tomcoates/status/1692922211416334597)
+- [Speakers of different languages remember visual scenes differently](https://www.science.org/doi/10.1126/sciadv.adh0064)
+- [Rust devs push back as Serde project ships precompiled binaries](https://www.bleepingcomputer.com/news/security/rust-devs-push-back-as-serde-project-ships-precompiled-binaries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
