@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi introduced the new generation robo-dog, Xiaomi CyberDog 2](https://xiaomiui.net/xiaomi-introduced-the-new-generation-robo-dog-xiaomi-cyberdog-2-49032/)
+- [The Scourge of 00UB](https://gavinhoward.com/2023/08/the-scourge-of-00ub/)
+- [Interview with Shang-Yi Chiang, Former TSMC VP of Research](https://www.computerhistory.org/collections/catalog/102792671)
 - [How to Roman Republic 101, Part IIIb: Imperium](https://acoup.blog/2023/08/18/collections-how-to-roman-republic-101-part-iiib-imperium/)
-- [TSMC – the world&#39;s most important company. And everyone wants control of it](https://www.abc.net.au/news/2023-08-19/tsmc-the-most-important-company-in-the-world/102728172)
-- [Cyberattack shutters major NSF-funded telescopes for more than 2 weeks](https://www.science.org/content/article/cyberattack-shutters-major-nsf-funded-telescopes-more-2-weeks)
-- [Metazooa](https://metazooa.com/game)
-- [2009scape](https://2009scape.org/)
+- [Chronosort](https://ledoc.itch.io/chronosort)
 <!-- BLOG-POST-LIST:END -->
 
 ---
