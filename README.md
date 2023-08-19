@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why old books smell so good](https://scienceswitch.com/2023/08/19/why-do-old-books-smell-so-good/)
-- [Fart Proudly – An Essay by Benjamin Franklin](https://en.wikipedia.org/wiki/Fart_Proudly)
-- [Amsterdam to use “noise cameras” against too loud cars](https://nltimes.nl/2023/08/11/amsterdam-use-noise-cameras-loud-cars)
-- [Windy.com: global weather website with live filters](https://www.windy.com)
-- [Stable Diffusion in pure C/C++](https://github.com/leejet/stable-diffusion.cpp)
+- [WD refused to answer our questions about its self-wiping SanDisk SSDs](https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions)
+- [Show HN: Rivet &lpar;YC W23&rpar; – Open-Source Game Server Management with Nomad and Rust](https://github.com/rivet-gg/rivet)
+- [Not so solitary predators? Great white shark duo seem to be travelling together](https://www.cbc.ca/radio/asithappens/tracking-great-white-shark-duo-ocearch-1.6940794)
+- [Cruise Agrees to Reduce Driverless Car Fleet in San Francisco After Crash](https://www.nytimes.com/2023/08/18/technology/cruise-crash-driverless-car-san-francisco.html)
+- [Show HN: A simple, open-source Notion-like avatar generator](https://www.avatartion.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
