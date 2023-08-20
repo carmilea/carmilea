@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Kris Nova passed away](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
+- [VidCutter: A program for lossless video cutting](https://github.com/ozmartian/vidcutter)
 - [Shouldn&#39;t distant objects appear magnified](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
 - [Infrequently Asked Questions in Comp.lang.c &lpar;1999&rpar;](https://www.seebs.net/faqs/c-iaq.html)
 - [A supramolecular organo-ionic electrolyte that can be liquidated for recycling](https://techxplore.com/news/2023-08-supramolecular-organo-ionic-electrolyte-liquidated-recycling.html)
-- [What Is a PID Controller in an Espresso Machine?](https://www.beanground.com/pid-controller-espresso/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
