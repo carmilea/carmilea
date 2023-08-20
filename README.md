@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oz eyes UK online bill in fight with tech over encryption &amp; child safety](https://www.theguardian.com/australia-news/2023/aug/20/australia-eyes-uk-online-bill-in-fight-with-tech-companies-over-encryption-child-safety)
+- [30 years on, Debian is at the heart of the most successful Linux distros](https://www.theregister.com/2023/08/17/debian_turns_30/)
 - [Raycast &lpar;YC W20&rpar; Is Hiring a macOS Engineer &lpar;Remote, UTC ± 3 Hours&rpar;](https://www.raycast.com/jobs/software-engineer-macos)
 - [Welcome to Datasette Cloud](https://www.datasette.cloud/blog/2023/welcome/)
 - [The ReMarkable Streaming Tool v2: Elevating Remote Work Efficiency](https://blog.owulveryck.info/2023/07/25/evolving-the-game-a-clientless-streaming-tool-for-remarkable-2.html)
-- [MacPaint and QuickDraw Source Code – CHM](https://computerhistory.org/blog/macpaint-and-quickdraw-source-code/)
-- [Gov. Newsom declares state of emergency for southern California](https://www.cnn.com/2023/08/19/weather/hurricane-hilary-california-southwest-tropical-storm-saturday/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
