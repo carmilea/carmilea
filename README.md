@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast &lpar;YC W20&rpar; Is Hiring a macOS Engineer &lpar;Remote, UTC ± 3 Hours&rpar;](https://www.raycast.com/jobs/software-engineer-macos)
 - [The ReMarkable Streaming Tool v2: Elevating Remote Work Efficiency](https://blog.owulveryck.info/2023/07/25/evolving-the-game-a-clientless-streaming-tool-for-remarkable-2.html)
 - [MacPaint and QuickDraw Source Code – CHM](https://computerhistory.org/blog/macpaint-and-quickdraw-source-code/)
 - [Gov. Newsom declares state of emergency for southern California](https://www.cnn.com/2023/08/19/weather/hurricane-hilary-california-southwest-tropical-storm-saturday/index.html)
 - [Modernity has made us allergic](https://www.noemamag.com/modernity-has-made-us-allergic/)
-- [Executive Function Theft](https://hedgehoglibrarian.com/2023/08/14/executive-function-theft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
