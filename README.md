@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RFC 9454: Update to OSPF Terminology, Changed Master/Slave to Leader/Follower](https://www.rfc-editor.org/rfc/rfc9454.html)
+- [The Pattern Language of Project Xanadu](https://maggieappleton.com/xanadu-patterns)
 - [Don’t Build a General Purpose API to Power Your Own Front End &lpar;2021&rpar;](https://max.engineer/server-informed-ui)
 - [Adobe&#39;s co-founder John Warnock dies at 82](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
-- [30 years on, Debian is at the heart of the most successful Linux distros](https://www.theregister.com/2023/08/17/debian_turns_30/)
-- [Shit Life Syndrome](https://en.wikipedia.org/wiki/Shit_life_syndrome)
-- [Raycast &lpar;YC W20&rpar; Is Hiring a macOS Engineer &lpar;Remote, UTC ± 3 Hours&rpar;](https://www.raycast.com/jobs/software-engineer-macos)
+- [Oz eyes UK online bill in fight with tech over encryption &amp; child safety](https://www.theguardian.com/australia-news/2023/aug/20/australia-eyes-uk-online-bill-in-fight-with-tech-companies-over-encryption-child-safety)
 <!-- BLOG-POST-LIST:END -->
 
 ---
