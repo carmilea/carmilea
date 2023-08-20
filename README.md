@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Infrequently Asked Questions in Comp.lang.c](https://www.seebs.net/faqs/c-iaq.html)
-- [The Stick of Jan Sloot](https://www.spronck.net/sloot.html)
-- [Why do people seem to prefer Chrome&#39;s devtools over Firefox&#39;s?](https://old.reddit.com/r/webdev/comments/15vpear/why_do_people_seem_to_prefer_chromes_devtools/)
-- [Amazon lists book on Maui wildfires that was published days after fires started](https://goodereader.com/blog/electronic-readers/amazon-bestselling-book-published-2-days-into-maui-wildfires-raising-red-flags)
-- [Without belief in a god, but never without belief in a devil](https://www.robkhenderson.com/p/without-belief-in-a-god-but-never)
+- [Kris Nova passed away](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
+- [Shouldn&#39;t distant objects appear magnified](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
+- [Infrequently Asked Questions in Comp.lang.c &lpar;1999&rpar;](https://www.seebs.net/faqs/c-iaq.html)
+- [A supramolecular organo-ionic electrolyte that can be liquidated for recycling](https://techxplore.com/news/2023-08-supramolecular-organo-ionic-electrolyte-liquidated-recycling.html)
+- [What Is a PID Controller in an Espresso Machine?](https://www.beanground.com/pid-controller-espresso/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
