@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oz eyes UK online bill in fight with tech over encryption &amp; child safety](https://www.theguardian.com/australia-news/2023/aug/20/australia-eyes-uk-online-bill-in-fight-with-tech-companies-over-encryption-child-safety)
+- [Don’t Build a General Purpose API to Power Your Own Front End &lpar;2021&rpar;](https://max.engineer/server-informed-ui)
+- [Adobe&#39;s co-founder John Warnock dies at 82](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
 - [30 years on, Debian is at the heart of the most successful Linux distros](https://www.theregister.com/2023/08/17/debian_turns_30/)
+- [Shit Life Syndrome](https://en.wikipedia.org/wiki/Shit_life_syndrome)
 - [Raycast &lpar;YC W20&rpar; Is Hiring a macOS Engineer &lpar;Remote, UTC ± 3 Hours&rpar;](https://www.raycast.com/jobs/software-engineer-macos)
-- [Welcome to Datasette Cloud](https://www.datasette.cloud/blog/2023/welcome/)
-- [The ReMarkable Streaming Tool v2: Elevating Remote Work Efficiency](https://blog.owulveryck.info/2023/07/25/evolving-the-game-a-clientless-streaming-tool-for-remarkable-2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
