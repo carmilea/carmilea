@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Infrequently Asked Questions in Comp.lang.c](https://www.seebs.net/faqs/c-iaq.html)
+- [The Stick of Jan Sloot](https://www.spronck.net/sloot.html)
 - [Why do people seem to prefer Chrome&#39;s devtools over Firefox&#39;s?](https://old.reddit.com/r/webdev/comments/15vpear/why_do_people_seem_to_prefer_chromes_devtools/)
-- [Amazon Bestselling Book Published 2 Days into Maui Wildfires Raising Red Flags](https://goodereader.com/blog/electronic-readers/amazon-bestselling-book-published-2-days-into-maui-wildfires-raising-red-flags)
-- [Without Belief in a God, but Never Without Belief in a Devil](https://www.robkhenderson.com/p/without-belief-in-a-god-but-never)
-- [Finland ends homelessness and provides shelter for all in need &lpar;2020&rpar;](https://scoop.me/housing-first-finland-homelessness/)
-- [Scripting with Go: A Modest Proposal](https://bitfieldconsulting.com/golang/scripting)
+- [Amazon lists book on Maui wildfires that was published days after fires started](https://goodereader.com/blog/electronic-readers/amazon-bestselling-book-published-2-days-into-maui-wildfires-raising-red-flags)
+- [Without belief in a god, but never without belief in a devil](https://www.robkhenderson.com/p/without-belief-in-a-god-but-never)
 <!-- BLOG-POST-LIST:END -->
 
 ---
