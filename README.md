@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kris Nova passed away](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
+- [So You Want to Learn Physics](https://www.susanrigetti.com/physics)
+- [The Maximum Tension Principle in General Relativity&lpar;2002&rpar;](https://arxiv.org/abs/hep-th/0210109)
+- [Demystifying ESIM Technology [video]](https://media.ccc.de/v/camp2023-57190-demystifying_esim_technology)
+- [Kris Nova has died](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
 - [VidCutter: A program for lossless video cutting](https://github.com/ozmartian/vidcutter)
-- [Shouldn&#39;t distant objects appear magnified](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
-- [Infrequently Asked Questions in Comp.lang.c &lpar;1999&rpar;](https://www.seebs.net/faqs/c-iaq.html)
-- [A supramolecular organo-ionic electrolyte that can be liquidated for recycling](https://techxplore.com/news/2023-08-supramolecular-organo-ionic-electrolyte-liquidated-recycling.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
