@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
-- [How to Start a Profitable Roasting Business](https://bellwethercoffee.com/blog/how-to-start-a-profitable-roasting-business/)
-- [The Mystery of an Abandoned Cabinet Full of Kodachrome Slides in San Francisco](https://petapixel.com/2023/08/16/the-mystery-of-an-abandoned-cabinet-full-of-kodachrome-slides-in-san-francisco/)
-- [It’s lambdas all the way down](https://itsbehnam.com/It-s-Lambdas-All-the-Way-Down-eb33012f54bb4708af001e0214910698)
-- [Heat your house with a mechanical windmill](https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/)
+- [JSON Schema Store](https://www.schemastore.org/json/)
+- [Two men die in Ironman Cork competition in Ireland](https://www.espn.com/olympics/story/_/id/38228423/two-men-die-ironman-cork-competition-ireland)
+- [OpenCopilot – AI Copilot &lpar;sidekick&rpar; for your own SaaS product](https://github.com/openchatai/OpenCopilot)
+- [A raid on a Kansas newspaper likely broke the law, experts say. But which one?](https://abcnews.go.com/US/wireStory/raid-kansas-newspaper-broke-law-experts-102390880)
+- [Judge who signed Kansas newspaper search warrant had 2 DUI arrests, reports say](https://www.npr.org/2023/08/17/1194392001/judge-who-signed-kansas-newspaper-search-warrant-had-2-dui-arrests-reports-say)
 <!-- BLOG-POST-LIST:END -->
 
 ---
