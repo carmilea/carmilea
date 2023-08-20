@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists trap light inside a magnet](https://www.ccny.cuny.edu/news/ccny-scientists-trap-light-inside-magnet)
 - [So You Want to Learn Physics](https://www.susanrigetti.com/physics)
 - [The Maximum Tension Principle in General Relativity&lpar;2002&rpar;](https://arxiv.org/abs/hep-th/0210109)
 - [Demystifying ESIM Technology [video]](https://media.ccc.de/v/camp2023-57190-demystifying_esim_technology)
-- [Kris Nova has died](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
-- [VidCutter: A program for lossless video cutting](https://github.com/ozmartian/vidcutter)
+- [Kris Nóva has died](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
