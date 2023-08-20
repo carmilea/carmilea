@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flash mobs invade luxury L.A. retailers with brute force, overwhelming numbers](https://www.latimes.com/california/story/2023-08-16/smash-and-grabs-flash-mob-robberies-shopper-fear-retailer-concern)
 - [Parable of the Broken Window](https://en.wikipedia.org/wiki/Parable_of_the_broken_window)
 - [AMD&#39;s 7900 XTX achieves better value for Stable Diffusion than Nvidia RTX 4080](https://wccftech.com/amd-radeon-7900-xtx-offers-higher-generative-ai-performance-per-dollar-than-nvidia-rtx-4080-after-990-speedup/)
 - [Who’s Afraid of Lorne Michaels?](https://longreads.com/2023/08/17/lorne-michaels-saturday-night-live/)
-- [W. H. Auden’s 1954 review of The Fellowship of the Ring](https://lithub.com/read-w-h-audens-1954-review-of-the-fellowship-of-the-ring/)
 - [Mousetrap.jl: a GUI library for Julia and C++ that wraps GTK4](https://github.com/Clemapfel/mousetrap.jl)
 <!-- BLOG-POST-LIST:END -->
 
