@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RFC 9454: Update to OSPF Terminology, Changed Master/Slave to Leader/Follower](https://www.rfc-editor.org/rfc/rfc9454.html)
+- [Amazon Bestselling Book Published 2 Days into Maui Wildfires Raising Red Flags](https://goodereader.com/blog/electronic-readers/amazon-bestselling-book-published-2-days-into-maui-wildfires-raising-red-flags)
+- [AI-generated art cannot be copyrighted, rules a US Federal Judge](https://www.theverge.com/2023/8/19/23838458/ai-generated-art-no-copyright-district-court)
+- [Without Belief in a God, but Never Without Belief in a Devil](https://www.robkhenderson.com/p/without-belief-in-a-god-but-never)
+- [Finland ends homelessness and provides shelter for all in need &lpar;2020&rpar;](https://scoop.me/housing-first-finland-homelessness/)
 - [The Pattern Language of Project Xanadu](https://maggieappleton.com/xanadu-patterns)
-- [Don’t Build a General Purpose API to Power Your Own Front End &lpar;2021&rpar;](https://max.engineer/server-informed-ui)
-- [Adobe&#39;s co-founder John Warnock dies at 82](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
-- [Oz eyes UK online bill in fight with tech over encryption &amp; child safety](https://www.theguardian.com/australia-news/2023/aug/20/australia-eyes-uk-online-bill-in-fight-with-tech-companies-over-encryption-child-safety)
 <!-- BLOG-POST-LIST:END -->
 
 ---
