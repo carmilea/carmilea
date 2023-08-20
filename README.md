@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming Language choices: Pascal, LOGO, Forth, Prolog, C &lpar;1986&rpar; [video]](https://clp.bbcrewind.co.uk/3d15323fe870ef44784832c02f4f7992)
-- [Indie Game Dev: Assessing Risk](https://derekyu.com/makegames/risk.html)
-- [What Saved the ‘Miracle House’ in Lahaina?](https://www.civilbeat.org/2023/08/what-saved-the-miracle-house-in-lahaina/)
-- [When the Beatles Recorded “Twist and Shout”](https://lithub.com/it-conveyed-them-when-the-beatles-recorded-twist-and-shout/)
-- [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
+- [W. H. Auden’s 1954 review of The Fellowship of the Ring](https://lithub.com/read-w-h-audens-1954-review-of-the-fellowship-of-the-ring/)
+- [Mousetrap.jl: a GUI library for Julia and C++ that fully wrap GTK4](https://github.com/Clemapfel/mousetrap.jl)
+- [CRISPR gene-editing treatment eliminates HIV-like virus from non-human primates](https://www.nature.com/articles/s41434-023-00410-4)
+- [Cellebrite asks cops to keep its phone hacking tech ‘hush hush’](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/)
+- [UCLA floor tiles decoded, pay homage to first internet message](https://newsroom.ucla.edu/stories/a-coded-message-hidden-in-floor-247232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
