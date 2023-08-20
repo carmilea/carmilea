@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The ReMarkable Streaming Tool v2: Elevating Remote Work Efficiency](https://blog.owulveryck.info/2023/07/25/evolving-the-game-a-clientless-streaming-tool-for-remarkable-2.html)
+- [MacPaint and QuickDraw Source Code – CHM](https://computerhistory.org/blog/macpaint-and-quickdraw-source-code/)
+- [Gov. Newsom declares state of emergency for southern California](https://www.cnn.com/2023/08/19/weather/hurricane-hilary-california-southwest-tropical-storm-saturday/index.html)
 - [Modernity has made us allergic](https://www.noemamag.com/modernity-has-made-us-allergic/)
 - [Executive Function Theft](https://hedgehoglibrarian.com/2023/08/14/executive-function-theft/)
-- [A Critique of the Cap&#39;n Proto Schema Language](https://zenhack.net/2019/06/25/a-critique-of-the-capnproto-schema-language.html)
-- [Project Valhalla, Simple as it can be, but not simpler](https://cr.openjdk.org/~jrose/values/larval-values.html)
-- [AMD&#39;s 7900 XTX achieves better value for Stable Diffusion than Nvidia RTX 4080](https://wccftech.com/amd-radeon-7900-xtx-offers-higher-generative-ai-performance-per-dollar-than-nvidia-rtx-4080-after-990-speedup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
