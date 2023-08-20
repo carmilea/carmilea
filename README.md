@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TimeGuessr: Guess what year a photograph was taken](https://timeguessr.com/)
 - [JSON Schema Store](https://www.schemastore.org/json/)
-- [Two men die in Ironman Cork competition in Ireland](https://www.espn.com/olympics/story/_/id/38228423/two-men-die-ironman-cork-competition-ireland)
 - [OpenCopilot – AI Copilot &lpar;sidekick&rpar; for your own SaaS product](https://github.com/openchatai/OpenCopilot)
 - [A raid on a Kansas newspaper likely broke the law, experts say. But which one?](https://abcnews.go.com/US/wireStory/raid-kansas-newspaper-broke-law-experts-102390880)
-- [Judge who signed Kansas newspaper search warrant had 2 DUI arrests, reports say](https://www.npr.org/2023/08/17/1194392001/judge-who-signed-kansas-newspaper-search-warrant-had-2-dui-arrests-reports-say)
+- [16-bit Serial Homebrew CPU – 2023](https://www.jiristepanovsky.cz/project.php?p=23cpu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
