@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s Lambdas All the Way Down](https://itsbehnam.com/It-s-Lambdas-All-the-Way-Down-eb33012f54bb4708af001e0214910698)
-- [Heat Your House with a Mechanical Windmill](https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/)
-- [The missing C++ smart pointer](https://blog.matthieud.me/2023/the-missing-cpp-smart-pointer/)
-- [Run a macOS VM on Apple Silicon from a double-click with Vimy](https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/)
-- [Scientists trap light inside a magnet](https://www.ccny.cuny.edu/news/ccny-scientists-trap-light-inside-magnet)
+- [Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
+- [How to Start a Profitable Roasting Business](https://bellwethercoffee.com/blog/how-to-start-a-profitable-roasting-business/)
+- [The Mystery of an Abandoned Cabinet Full of Kodachrome Slides in San Francisco](https://petapixel.com/2023/08/16/the-mystery-of-an-abandoned-cabinet-full-of-kodachrome-slides-in-san-francisco/)
+- [It’s lambdas all the way down](https://itsbehnam.com/It-s-Lambdas-All-the-Way-Down-eb33012f54bb4708af001e0214910698)
+- [Heat your house with a mechanical windmill](https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
