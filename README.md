@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sfmemory.org: Useful San Francisco and Bay Area History Resources](https://sfmemory.org/)
+- [My talk with Kris Nova about being homeless. See you on the other side, friend](https://kubecuddle.transistor.fm/episodes/dave-fogle-and-kris-nova)
+- [Useful San Francisco and Bay Area History Resources](https://sfmemory.org/)
+- [Changing its name tanked X&#39;s downloads in App Store and Play Store](https://daringfireball.net/linked/2023/08/19/seufert-x-downloads)
 - [Cell therapy repairs cornea damage with patient&#39;s stem cells gives trial results](https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html)
 - [TimeGuessr: Guess what year a photograph was taken](https://timeguessr.com/)
-- [JSON Schema Store](https://www.schemastore.org/json/)
-- [OpenCopilot – AI Copilot &lpar;sidekick&rpar; for your own SaaS product](https://github.com/openchatai/OpenCopilot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
