@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 has made the “clean Windows install” an oxymoron](https://arstechnica.com/gadgets/2023/08/windows-11-has-made-the-clean-windows-install-an-oxymoron/)
+- [The Ideal Viewport Doesn&#39;t Exist](https://viewports.fyi/)
 - [GNU Parallel, where have you been all my life?](https://alexplescan.com/posts/2023/08/20/gnu-parallel/)
 - [Last rites for the UK Online Safety Bill, an idea too stupid to notice it&#39;s dead](https://www.theregister.com/2023/08/21/opinion_column_monday/)
 - [Be careful of the examples you use. They stick](https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html)
