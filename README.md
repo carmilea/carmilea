@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My talk with Kris Nova about being homeless. See you on the other side, friend](https://kubecuddle.transistor.fm/episodes/dave-fogle-and-kris-nova)
-- [Useful San Francisco and Bay Area History Resources](https://sfmemory.org/)
-- [Changing its name tanked X&#39;s downloads in App Store and Play Store](https://daringfireball.net/linked/2023/08/19/seufert-x-downloads)
-- [Cell therapy repairs cornea damage with patient&#39;s stem cells gives trial results](https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html)
-- [TimeGuessr: Guess what year a photograph was taken](https://timeguessr.com/)
+- [Texas electricity prices soar 6k% as heat wave is expected to shatter records](https://desdemonadespair.net/2023/08/texas-electricity-prices-soar-6000-percent-as-a-fresh-heat-wave-is-expected-to-shatter-records-spot-electricity-prices-jumped-to-4750-per-megawatt-hour-from-the-average-of-75.html)
+- [FreeBSD replaces bubblesort with mergesort on SYSINTs, results in 100x speed](https://twitter.com/cperciva/status/1693127769901969772)
+- [Anxious brains redirect emotion regulation](https://www.nature.com/articles/s41467-023-40666-3)
+- [CLAs create different issues than making &lpar;small&rpar; open source contributions](https://utcc.utoronto.ca/~cks/space/blog/tech/CLAsImpedeContributionsII)
+- [StableVideo: Text-Driven Consistency-Aware Diffusion Video Editing](https://rese1f.github.io/StableVideo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
