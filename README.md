@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html)
 - [Why Open Source?](https://getconvoy.io/blog/why-open-source/)
+- [Top Ten Most Frequent DNS Test Failures](https://dnsinstitute.com/research/2022/ten-common-failures-202204.html)
 - [Eighteen150 A residence program for solo immigrant founders](https://www.unshackledvc.com/eighteen150)
-- [How the rich get richer &lpar;2020&rpar;](https://www.imf.org/en/Blogs/Articles/2020/11/30/how-the-rich-get-richer)
 - [What does it mean for a monad to be strong?](http://blog.sigfpe.com/2023/08/what-does-it-mean-for-monad-to-be-strong.html)
-- [Show HN: VisionScript, abstract programming language for computer vision](https://github.com/capjamesg/visionscript)
 <!-- BLOG-POST-LIST:END -->
 
 ---
