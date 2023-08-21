@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A man who can talk backwards](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)
+- [English is a pictographic language with 26 radicals](https://www.smbc-comics.com/comic/pronounce)
+- [Be careful of the examples you use. They stick](https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html)
+- [A man who can talk backwards &lpar;2017&rpar;](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)
+- [To Conference Organisers Everywhere](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/)
 - [We’re All Just Temporarily Abled](https://blog.jim-nielsen.com/2023/temporarily-abled/)
-- [Out-of-memory victim selection with BPF](https://lwn.net/SubscriberLink/941614/f873a0ec485e01c5/)
-- [Precompiled binaries removed from serde v1.0.184](https://github.com/serde-rs/serde/releases/tag/v1.0.184)
-- [FreeBSD replaces bubblesort with mergesort on SYSINTs](https://twitter.com/cperciva/status/1693127769901969772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
