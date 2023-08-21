@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Business, Not an Audience](https://jakobgreenfeld.com/build_an_audience)
+- [Namecheap to increase .COM and .XYZ prices](https://www.namecheap.com/blog/upcoming-com-and-xyz-domain-price-increase/)
+- [MacLynx beta 5: UTF-8, pull-down menus and more dialogue boxes](http://oldvcr.blogspot.com/2023/08/maclynx-beta-5-utf-8-pull-down-menus.html)
+- [I Made Stable Diffusion XL Smarter by Finetuning It on Bad AI-Generated Images](https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/)
 - [9% price increase for .COM and .XYZ domains starting Sept 1, 2023](https://i.imgur.com/5cGazrG.png)
-- [What Are FD&amp;C Dyes and Lakes &lpar;and How Do They Differ&rpar;?](https://www.madmicas.com/pages/what-are-fd-c-dyes-and-lakes-and-how-do-they-differ)
-- [Don&#39;t Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
-- [Kansas Bureau of Investigation takes lead following police raid of newspaper](https://www.kansascity.com/news/politics-government/article278253028.html)
-- [&#39;&#39;Vinegar Syndrome&#39;&#39; Decaying Archives of Cellulose Acetate Microfilm Stock](https://www.cbc.ca/news/canada/toronto/vinegar-syndrome-acetate-film-1.6939032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
