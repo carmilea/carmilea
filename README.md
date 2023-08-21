@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [5 years ago Valve released Proton forever changing Linux gaming](https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/)
+- [Latest Android Runtime &lpar;ART&rpar; update led to apps starting 30% faster](https://9to5google.com/2023/08/21/android-runtime-13-14-updates/)
+- [Critical hearing looms in battle over California’s last nuclear power plant](https://www.thenewlede.org/2023/08/critical-hearing-looms-in-battle-over-californias-last-nuclear-power-plant/)
+- [Shrinking economies don&#39;t innovate](https://www.overcomingbias.com/p/shrinking-economies-dont-innovate)
 - [Lyrebird the Linux voice changer now supports PipeWire](https://github.com/lyrebird-voice-changer/lyrebird/releases/tag/v1.2.0)
-- [US Housing Affordability Hits Worst Point in Nearly Four Decades](https://www.bloomberg.com/news/articles/2023-08-17/rising-mortgage-rates-squeeze-affordability-in-us-housing-market)
-- [SingleStoreDB for Wide Table Use Cases](https://www.singlestore.com/blog/singlestoredb-for-wide-table-use-cases/)
-- [Show HN: My husband quit his job to build a new social audio app with Flutter](https://www.bubblic.app/)
-- [‘I Was Shadowbanned:’ How Hinge&#39;s Algorithm Decides Who You Date](https://gizmodo.com/hinge-dating-app-algorithm-1850744140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
