@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [5 years ago Valve released Proton forever changing Linux gaming](https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/)
-- [Latest Android Runtime &lpar;ART&rpar; update led to apps starting 30% faster](https://9to5google.com/2023/08/21/android-runtime-13-14-updates/)
-- [Critical hearing looms in battle over California’s last nuclear power plant](https://www.thenewlede.org/2023/08/critical-hearing-looms-in-battle-over-californias-last-nuclear-power-plant/)
-- [Shrinking economies don&#39;t innovate](https://www.overcomingbias.com/p/shrinking-economies-dont-innovate)
-- [Lyrebird the Linux voice changer now supports PipeWire](https://github.com/lyrebird-voice-changer/lyrebird/releases/tag/v1.2.0)
+- [Why Open Source?](https://getconvoy.io/blog/why-open-source/)
+- [Eighteen150 A residence program for solo immigrant founders](https://www.unshackledvc.com/eighteen150)
+- [How the rich get richer &lpar;2020&rpar;](https://www.imf.org/en/Blogs/Articles/2020/11/30/how-the-rich-get-richer)
+- [What does it mean for a monad to be strong?](http://blog.sigfpe.com/2023/08/what-does-it-mean-for-monad-to-be-strong.html)
+- [Show HN: VisionScript, abstract programming language for computer vision](https://github.com/capjamesg/visionscript)
 <!-- BLOG-POST-LIST:END -->
 
 ---
