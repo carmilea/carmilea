@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ideal Viewport Doesn&#39;t Exist](https://viewports.fyi/)
-- [GNU Parallel, where have you been all my life?](https://alexplescan.com/posts/2023/08/20/gnu-parallel/)
-- [Last rites for the UK Online Safety Bill, an idea too stupid to notice it&#39;s dead](https://www.theregister.com/2023/08/21/opinion_column_monday/)
-- [Be careful of the examples you use. They stick](https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html)
-- [A man who can talk backwards &lpar;2017&rpar;](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)
+- [Duo Outage](https://status.duo.com)
+- [Study: Inflammation drives social media use](https://www.buffalo.edu/news/releases/2023/08/lee-inflammation-drives-social-media-use.html)
+- [Taos Operating System &lpar;1995&rpar;](http://www.uruk.org/emu/Taos.html)
+- [Wi-Fi sniffers strapped to drones–Mike Lindell’s odd plan to stop election fraud](https://arstechnica.com/tech-policy/2023/08/wi-fi-sniffers-strapped-to-drones-mike-lindells-odd-plan-to-stop-election-fraud/)
+- [Why Bumblebees Love Cats and Other Beautiful Relationships &lpar;2021&rpar;](https://longreads.com/2021/03/23/nation-of-plants-excerpt-stefano-mancuso/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
