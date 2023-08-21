@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sfmemory.org: Useful San Francisco and Bay Area History Resources](https://sfmemory.org/)
+- [Cell therapy repairs cornea damage with patient&#39;s stem cells gives trial results](https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html)
 - [TimeGuessr: Guess what year a photograph was taken](https://timeguessr.com/)
 - [JSON Schema Store](https://www.schemastore.org/json/)
 - [OpenCopilot – AI Copilot &lpar;sidekick&rpar; for your own SaaS product](https://github.com/openchatai/OpenCopilot)
-- [A raid on a Kansas newspaper likely broke the law, experts say. But which one?](https://abcnews.go.com/US/wireStory/raid-kansas-newspaper-broke-law-experts-102390880)
-- [16-bit Serial Homebrew CPU – 2023](https://www.jiristepanovsky.cz/project.php?p=23cpu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
