@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Business, Not an Audience](https://jakobgreenfeld.com/build_an_audience)
-- [Namecheap to increase .COM and .XYZ prices](https://www.namecheap.com/blog/upcoming-com-and-xyz-domain-price-increase/)
-- [MacLynx beta 5: UTF-8, pull-down menus and more dialogue boxes](http://oldvcr.blogspot.com/2023/08/maclynx-beta-5-utf-8-pull-down-menus.html)
-- [I Made Stable Diffusion XL Smarter by Finetuning It on Bad AI-Generated Images](https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/)
-- [9% price increase for .COM and .XYZ domains starting Sept 1, 2023](https://i.imgur.com/5cGazrG.png)
+- [Lyrebird the Linux voice changer now supports PipeWire](https://github.com/lyrebird-voice-changer/lyrebird/releases/tag/v1.2.0)
+- [US Housing Affordability Hits Worst Point in Nearly Four Decades](https://www.bloomberg.com/news/articles/2023-08-17/rising-mortgage-rates-squeeze-affordability-in-us-housing-market)
+- [SingleStoreDB for Wide Table Use Cases](https://www.singlestore.com/blog/singlestoredb-for-wide-table-use-cases/)
+- [Show HN: My husband quit his job to build a new social audio app with Flutter](https://www.bubblic.app/)
+- [‘I Was Shadowbanned:’ How Hinge&#39;s Algorithm Decides Who You Date](https://gizmodo.com/hinge-dating-app-algorithm-1850744140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
