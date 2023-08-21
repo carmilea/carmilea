@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
+- [Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)
+- [SolarPi experiment 2: Finally something that works](http://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html)
 - [Google Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html)
 - [Why Open Source?](https://getconvoy.io/blog/why-open-source/)
-- [Top Ten Most Frequent DNS Test Failures](https://dnsinstitute.com/research/2022/ten-common-failures-202204.html)
-- [Eighteen150 A residence program for solo immigrant founders](https://www.unshackledvc.com/eighteen150)
-- [What does it mean for a monad to be strong?](http://blog.sigfpe.com/2023/08/what-does-it-mean-for-monad-to-be-strong.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
