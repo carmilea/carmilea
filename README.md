@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 has made the “clean Windows install” an oxymoron](https://arstechnica.com/gadgets/2023/08/windows-11-has-made-the-clean-windows-install-an-oxymoron/)
+- [GNU Parallel, where have you been all my life?](https://alexplescan.com/posts/2023/08/20/gnu-parallel/)
+- [Last rites for the UK Online Safety Bill, an idea too stupid to notice it&#39;s dead](https://www.theregister.com/2023/08/21/opinion_column_monday/)
 - [Be careful of the examples you use. They stick](https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html)
 - [A man who can talk backwards &lpar;2017&rpar;](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)
-- [To Conference Organisers Everywhere](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/)
-- [We’re All Just Temporarily Abled](https://blog.jim-nielsen.com/2023/temporarily-abled/)
-- [Out-of-memory victim selection with BPF](https://lwn.net/SubscriberLink/941614/f873a0ec485e01c5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
