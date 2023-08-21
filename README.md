@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A man who can talk backwards](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)
 - [We’re All Just Temporarily Abled](https://blog.jim-nielsen.com/2023/temporarily-abled/)
 - [Out-of-memory victim selection with BPF](https://lwn.net/SubscriberLink/941614/f873a0ec485e01c5/)
 - [Precompiled binaries removed from serde v1.0.184](https://github.com/serde-rs/serde/releases/tag/v1.0.184)
 - [FreeBSD replaces bubblesort with mergesort on SYSINTs](https://twitter.com/cperciva/status/1693127769901969772)
-- [Anxious brains redirect emotion regulation](https://www.nature.com/articles/s41467-023-40666-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
