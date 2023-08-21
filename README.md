@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flatpak is not the future &lpar;2021&rpar;](https://ludocode.com/blog/flatpak-is-not-the-future)
-- [All of the vehicle license plates available in America](https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/)
-- [Duo Outage](https://status.duo.com)
-- [Study: Inflammation drives social media use](https://www.buffalo.edu/news/releases/2023/08/lee-inflammation-drives-social-media-use.html)
-- [Taos Operating System &lpar;1995&rpar;](http://www.uruk.org/emu/Taos.html)
+- [9% price increase for .COM and .XYZ domains starting Sept 1, 2023](https://i.imgur.com/5cGazrG.png)
+- [What Are FD&amp;C Dyes and Lakes &lpar;and How Do They Differ&rpar;?](https://www.madmicas.com/pages/what-are-fd-c-dyes-and-lakes-and-how-do-they-differ)
+- [Don&#39;t Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
+- [Kansas Bureau of Investigation takes lead following police raid of newspaper](https://www.kansascity.com/news/politics-government/article278253028.html)
+- [&#39;&#39;Vinegar Syndrome&#39;&#39; Decaying Archives of Cellulose Acetate Microfilm Stock](https://www.cbc.ca/news/canada/toronto/vinegar-syndrome-acetate-film-1.6939032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
