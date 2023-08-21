@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flatpak is not the future &lpar;2021&rpar;](https://ludocode.com/blog/flatpak-is-not-the-future)
+- [All of the vehicle license plates available in America](https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/)
 - [Duo Outage](https://status.duo.com)
 - [Study: Inflammation drives social media use](https://www.buffalo.edu/news/releases/2023/08/lee-inflammation-drives-social-media-use.html)
 - [Taos Operating System &lpar;1995&rpar;](http://www.uruk.org/emu/Taos.html)
-- [Wi-Fi sniffers strapped to drones–Mike Lindell’s odd plan to stop election fraud](https://arstechnica.com/tech-policy/2023/08/wi-fi-sniffers-strapped-to-drones-mike-lindells-odd-plan-to-stop-election-fraud/)
-- [Why Bumblebees Love Cats and Other Beautiful Relationships &lpar;2021&rpar;](https://longreads.com/2021/03/23/nation-of-plants-excerpt-stefano-mancuso/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
