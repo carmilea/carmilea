@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brazilian hacker claims Bolsonaro asked him to hack into the 2022 voting system](https://apnews.com/article/brazil-bolsonaro-hacking-inquiry-cc8f890588a5115ff77370d236b3e149)
+- [Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
+- [The Lack of Self-Deception](https://evidenceanecdotal.blogspot.com/2023/08/the-lack-of-self-deception.html)
 - [Arm Announces Public Filing for Proposed Initial Public Offering](https://www.arm.com/company/news/2023/08/arm-announces-public-filing-of-registration-statement-for-proposed-initial-public-offering)
-- [STM32 family grows to microprocessor/Linux level with STM32MP1](https://www.st.com/en/microcontrollers-microprocessors/stm32mp1-series.html)
-- [I walked across Luxembourg](https://blog.ioces.com/matt/posts/i-walked-across-luxembourg/)
-- [Manipulating Terraform states for fun, profit, and reusability](https://github.com/ergomake/layerform/blob/main/blog/terraform-states.md)
-- [Electrolyzer efficiently converts CO2 into renewable propane fuel](https://scienceswitch.com/2023/08/22/revolutionary-electrolyzer-efficiently-converts-co2-into-renewable-propane-fuel/)
+- [TermiC: Terminal C, Interactive C/C++ REPL shell created with BASH](https://github.com/hanoglu/TermiC)
 <!-- BLOG-POST-LIST:END -->
 
 ---
