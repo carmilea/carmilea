@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [STM32 family grows to microprocessor/Linux level with STM32MP1](https://www.st.com/en/microcontrollers-microprocessors/stm32mp1-series.html)
-- [I Walked Across Luxembourg – A Hike from the West to the East of the Grand Duchy](https://blog.ioces.com/matt/posts/i-walked-across-luxembourg/)
+- [I walked across Luxembourg](https://blog.ioces.com/matt/posts/i-walked-across-luxembourg/)
+- [Manipulating Terraform states for fun, profit, and reusability](https://github.com/ergomake/layerform/blob/main/blog/terraform-states.md)
 - [Revolutionary Electrolyzer Efficiently Converts CO2 into Renewable Propane Fuel](https://scienceswitch.com/2023/08/22/revolutionary-electrolyzer-efficiently-converts-co2-into-renewable-propane-fuel/)
 - [Charging capacitors from thermal fluctuations using diodes](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.024130)
-- [Impermanence](https://nixos.wiki/wiki/Impermanence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
