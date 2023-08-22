@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Atari Launches Atari 2600+](https://atari.com/products/atari-2600-plus)
+- [Inkscape possible domain compromise &lpar;2022&rpar;](https://discourse.nixos.org/t/inkscape-possible-domain-compromise/32008)
+- [Architecture diagrams enable better conversations](https://www.unravelled.dev/how-architecture-diagrams-enable-better-conversations/)
+- [Prettymapp – Create beautiful maps from OpenStreetMap data in a streamlit webapp](https://github.com/chrieke/prettymapp)
 - [Hand Coded SLisp](https://github.com/0x3444ac53/HCSL)
-- [Extend a C/C++ Project with Zig &lpar;2021&rpar;](https://zig.news/kristoff/extend-a-c-c-project-with-zig-55di)
-- [The Feds Asked TikTok for Lots of Domestic Spying Features](https://gizmodo.com/tiktok-cfius-draft-agreement-shows-spying-requests-1850759715)
-- [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
-- [Libre Office ReleaseNotes 7.6](https://wiki.documentfoundation.org/ReleaseNotes/7.6/en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
