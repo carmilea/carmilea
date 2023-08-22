@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [STM32 family grows to microprocessor/Linux level with STM32MP1](https://www.st.com/en/microcontrollers-microprocessors/stm32mp1-series.html)
+- [I Walked Across Luxembourg – A Hike from the West to the East of the Grand Duchy](https://blog.ioces.com/matt/posts/i-walked-across-luxembourg/)
 - [Revolutionary Electrolyzer Efficiently Converts CO2 into Renewable Propane Fuel](https://scienceswitch.com/2023/08/22/revolutionary-electrolyzer-efficiently-converts-co2-into-renewable-propane-fuel/)
 - [Charging capacitors from thermal fluctuations using diodes](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.024130)
 - [Impermanence](https://nixos.wiki/wiki/Impermanence)
-- [Asphalt Wasteland: Maybe parking does explain the world](https://www.commonwealmagazine.org/parking-grabar-slate-henry-paved-paradise)
-- [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
