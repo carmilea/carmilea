@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chronic Pain: Finding Relief with the Benefits of Cannabis](https://spinfuel.com/chronic-pain-in-2023-and-cannabis/)
-- [Show HN: FlakeHub – Discover and publish Nix flakes](https://flakehub.com/)
-- [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
-- [Show HN: OpenCopilot – Build Your Open-Source Copilot in a Single Day](https://github.com/opencopilotdev/opencopilot)
-- [Show HN: Cosmic Media – Search millions of stock photos and videos](https://news.ycombinator.com/item?id=37223580)
+- [Emerge &lpar;YC W21&rpar; is hiring a lead front end engineer [remote, small team]](https://www.workatastartup.com/jobs/61922/)
+- [6 Archetypes of Broken Ownership](https://blog.alexewerlof.com/p/broken-ownership)
+- [Noiszy: A browser plugin that creates meaningless web data – digital “noise.”](https://noiszy.com)
+- [Structured Logging with Slog](https://go.dev/blog/slog)
+- [Tesla asked officials to redact info of driver-assistance in use during crashes](https://www.businessinsider.com/tesla-asked-nhtsa-redact-information-autopilot-fsd-use-crashes-report-2023-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
