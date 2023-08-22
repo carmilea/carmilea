@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionary Electrolyzer Efficiently Converts CO2 into Renewable Propane Fuel](https://scienceswitch.com/2023/08/22/revolutionary-electrolyzer-efficiently-converts-co2-into-renewable-propane-fuel/)
+- [Charging capacitors from thermal fluctuations using diodes](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.024130)
+- [Impermanence](https://nixos.wiki/wiki/Impermanence)
+- [Asphalt Wasteland: Maybe parking does explain the world](https://www.commonwealmagazine.org/parking-grabar-slate-henry-paved-paradise)
 - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
-- [America’s corporate giants are getting harder to topple](https://www.economist.com/business/2023/08/21/americas-corporate-giants-are-getting-harder-to-topple)
-- [Jeff Bezos on AI, 1998](https://www.jessewright.com/jeff-bezos-on-ai-1998)
-- [Compuserve](https://www.compuserve.com/)
-- [Justpaid.io &lpar;YC W23&rpar; Is Hiring Founding Frontend Engineer](https://www.ycombinator.com/companies/justpaid-io/jobs/oCjZzPi-founding-frontend-engineer-contract-to-hire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
