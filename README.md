@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Baghdad closes LED advert screens after hacker shows porn film on a screen](https://www.iraqinews.com/iraq/baghdad-closes-led-advert-screens-after-hacker-shows-porn-film-on-a-screen/)
+- [Justpaid.io &lpar;YC W23&rpar; Is Hiring Founding Front End Engineer](https://www.ycombinator.com/companies/justpaid-io/jobs/oCjZzPi-founding-frontend-engineer-contract-to-hire)
+- [Podman Desktop celebrates 500k downloads](https://blog.podman.io/2023/08/celebrating-500k-downloads-the-podman-desktop-journey-%f0%9f%8e%89/)
+- [Growing share of Americans favor more nuclear power](https://www.pewresearch.org/short-reads/2023/08/18/growing-share-of-americans-favor-more-nuclear-power/)
+- [Ego Death](https://krisnova.net/posts/ego-death/)
 - [Associated Press clarifies standards around generative AI](https://www.niemanlab.org/2023/08/not-a-replacement-of-journalists-in-any-way-ap-clarifies-standards-around-generative-ai/)
-- [uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
-- [Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)
-- [SolarPi experiment 2: Finally something that works](http://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
