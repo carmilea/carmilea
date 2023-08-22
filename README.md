@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Libre Office ReleaseNotes 7.6](https://wiki.documentfoundation.org/ReleaseNotes/7.6/en)
+- [Airport Pianos: Find Pianos in Airports](https://airportpianos.org)
+- [Ellen Ullman wrote the most precise account of “computer culture” I have seen](https://manu.zone/books/close-to-the-machine/)
 - [GiveCampus &lpar;YC S15&rpar; Is Hiring Rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 - [Northvolt raises $1.2B convertible note from BlackRock](https://sifted.eu/articles/northvolt-1-2bn-convertible-blackrock-news)
-- [US must land astronauts on the Moon again](https://www.theregister.com/2023/08/09/nasa_artemis_2_update/)
-- [Simple PowerShell things allowing you to dig a bit deeper than usual](https://github.com/gtworek/PSBits)
-- [Prompting, realized, and unrealized bias in generative AI](http://marble.onl/posts/code_of_practice_and_bias.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
