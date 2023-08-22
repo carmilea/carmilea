@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts on Flash &lpar;2010&rpar;](https://web.archive.org/web/20170615060422/https://www.apple.com/hotnews/thoughts-on-flash/)
+- [LibreOffice 24.2 Will Succeed LibreOffice 7.6](https://www.phoronix.com/news/LibreOffice-24.2-Up-Next)
 - [Your brain on emoji](https://nautil.us/your-🧠-on-emoji-365823/)
-- [Tech jobs market normalizing as July unemployment dips](https://www.ciodive.com/news/compTIA-july-tech-jobs-report-BLS/690033/)
 - [When Trucks Fly](https://www.newyorker.com/magazine/2023/08/21/when-trucks-fly)
 - [G. Polya, How to Solve It](https://www.math.utah.edu/~alfeld/math/polya.html)
-- [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
