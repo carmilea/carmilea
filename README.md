@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hand Coded SLisp](https://github.com/0x3444ac53/HCSL)
+- [Extend a C/C++ Project with Zig &lpar;2021&rpar;](https://zig.news/kristoff/extend-a-c-c-project-with-zig-55di)
+- [The Feds Asked TikTok for Lots of Domestic Spying Features](https://gizmodo.com/tiktok-cfius-draft-agreement-shows-spying-requests-1850759715)
+- [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
 - [Libre Office ReleaseNotes 7.6](https://wiki.documentfoundation.org/ReleaseNotes/7.6/en)
-- [Airport Pianos: Find Pianos in Airports](https://airportpianos.org)
-- [Ellen Ullman wrote the most precise account of “computer culture” I have seen](https://manu.zone/books/close-to-the-machine/)
-- [GiveCampus &lpar;YC S15&rpar; Is Hiring Rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Northvolt raises $1.2B convertible note from BlackRock](https://sifted.eu/articles/northvolt-1-2bn-convertible-blackrock-news)
 <!-- BLOG-POST-LIST:END -->
 
 ---
