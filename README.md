@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
 - [America’s corporate giants are getting harder to topple](https://www.economist.com/business/2023/08/21/americas-corporate-giants-are-getting-harder-to-topple)
 - [Jeff Bezos on AI, 1998](https://www.jessewright.com/jeff-bezos-on-ai-1998)
 - [Compuserve](https://www.compuserve.com/)
 - [Justpaid.io &lpar;YC W23&rpar; Is Hiring Founding Frontend Engineer](https://www.ycombinator.com/companies/justpaid-io/jobs/oCjZzPi-founding-frontend-engineer-contract-to-hire)
-- [Podman Desktop celebrates 500k downloads](https://blog.podman.io/2023/08/celebrating-500k-downloads-the-podman-desktop-journey-%f0%9f%8e%89/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
