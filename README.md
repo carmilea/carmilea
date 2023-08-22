@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dashworks is hiring ML and fullstack engineers](https://www.dashworks.ai/company#jobs)
+- [OpenSAFELY is a secure, open-source platform for analysis of health records data](https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working)
+- [Skiff – Privacy-first end-to-end encrypted email](https://skiff.com)
 - [Thoughts on Flash &lpar;2010&rpar;](https://web.archive.org/web/20170615060422/https://www.apple.com/hotnews/thoughts-on-flash/)
 - [LibreOffice 24.2 Will Succeed LibreOffice 7.6](https://www.phoronix.com/news/LibreOffice-24.2-Up-Next)
-- [Your brain on emoji](https://nautil.us/your-🧠-on-emoji-365823/)
-- [When Trucks Fly](https://www.newyorker.com/magazine/2023/08/21/when-trucks-fly)
-- [G. Polya, How to Solve It](https://www.math.utah.edu/~alfeld/math/polya.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
