@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Atari Launches Atari 2600+](https://atari.com/products/atari-2600-plus)
-- [Inkscape possible domain compromise &lpar;2022&rpar;](https://discourse.nixos.org/t/inkscape-possible-domain-compromise/32008)
-- [Architecture diagrams enable better conversations](https://www.unravelled.dev/how-architecture-diagrams-enable-better-conversations/)
-- [Prettymapp – Create beautiful maps from OpenStreetMap data in a streamlit webapp](https://github.com/chrieke/prettymapp)
-- [Hand Coded SLisp](https://github.com/0x3444ac53/HCSL)
+- [Chronic Pain: Finding Relief with the Benefits of Cannabis](https://spinfuel.com/chronic-pain-in-2023-and-cannabis/)
+- [Show HN: FlakeHub – Discover and publish Nix flakes](https://flakehub.com/)
+- [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
+- [Show HN: OpenCopilot – Build Your Open-Source Copilot in a Single Day](https://github.com/opencopilotdev/opencopilot)
+- [Show HN: Cosmic Media – Search millions of stock photos and videos](https://news.ycombinator.com/item?id=37223580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
