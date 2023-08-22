@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New JWST data confirms, worsens the Hubble tension](https://bigthink.com/starts-with-a-bang/jwst-confirms-worsens-hubble-tension/)
-- [Why KPIs are destroying businesses](https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b?gi=aaf774f21dbb)
-- [The Uncanny Sight of Waves Breaking on a Star](https://nautil.us/the-uncanny-sight-of-waves-breaking-on-a-star-363508/)
-- [Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
-- [The Lack of Self-Deception](https://evidenceanecdotal.blogspot.com/2023/08/the-lack-of-self-deception.html)
+- [GiveCampus &lpar;YC S15&rpar; Is Hiring Rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Northvolt raises $1.2B convertible note from BlackRock](https://sifted.eu/articles/northvolt-1-2bn-convertible-blackrock-news)
+- [US must land astronauts on the Moon again](https://www.theregister.com/2023/08/09/nasa_artemis_2_update/)
+- [Simple PowerShell things allowing you to dig a bit deeper than usual](https://github.com/gtworek/PSBits)
+- [Prompting, realized, and unrealized bias in generative AI](http://marble.onl/posts/code_of_practice_and_bias.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
