@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Emerge &lpar;YC W21&rpar; is hiring a lead front end engineer [remote, small team]](https://www.workatastartup.com/jobs/61922/)
-- [6 Archetypes of Broken Ownership](https://blog.alexewerlof.com/p/broken-ownership)
+- [Figma makes 200 fixes and improvements to Dev Mode](https://figma.com/blog/dev-mode-fast-follows-200-new-features-and-fixes/)
+- [Emerge &lpar;YC W21&rpar; is hiring a lead front end engineer &lpar;remote, small team&rpar;](https://www.workatastartup.com/jobs/61922/)
+- [‘Broken’ solar panels manufactured to deter criminals in South Africa](https://dailyinvestor.com/energy/28170/broken-solar-panels-manufactured-specifically-for-south-africa/)
+- [Broken Ownership](https://blog.alexewerlof.com/p/broken-ownership)
 - [Noiszy: A browser plugin that creates meaningless web data – digital “noise.”](https://noiszy.com)
-- [Structured Logging with Slog](https://go.dev/blog/slog)
-- [Tesla asked officials to redact info of driver-assistance in use during crashes](https://www.businessinsider.com/tesla-asked-nhtsa-redact-information-autopilot-fsd-use-crashes-report-2023-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
