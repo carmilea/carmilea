@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cost of Living/Housing Crisis](https://www.metafilter.com/200377/The-Cost-of-Living-Housing-Crisis)
+- [America’s corporate giants are getting harder to topple](https://www.economist.com/business/2023/08/21/americas-corporate-giants-are-getting-harder-to-topple)
+- [Jeff Bezos on AI, 1998](https://www.jessewright.com/jeff-bezos-on-ai-1998)
+- [Compuserve](https://www.compuserve.com/)
 - [Justpaid.io &lpar;YC W23&rpar; Is Hiring Founding Frontend Engineer](https://www.ycombinator.com/companies/justpaid-io/jobs/oCjZzPi-founding-frontend-engineer-contract-to-hire)
-- [NY Times Rides in Waymo Robotaxis in SF](https://www.nytimes.com/2023/08/21/technology/waymo-driverless-cars-san-francisco.html)
 - [Podman Desktop celebrates 500k downloads](https://blog.podman.io/2023/08/celebrating-500k-downloads-the-podman-desktop-journey-%f0%9f%8e%89/)
-- [Growing share of Americans favor more nuclear power](https://www.pewresearch.org/short-reads/2023/08/18/growing-share-of-americans-favor-more-nuclear-power/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
