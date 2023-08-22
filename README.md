@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
+- [Godly – Astronomically good web design inspiration](https://godly.website/)
+- [Asyncio, twisted, tornado, gevent walk into a bar](https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk)
 - [Figma makes 200 fixes and improvements to Dev Mode](https://figma.com/blog/dev-mode-fast-follows-200-new-features-and-fixes/)
 - [Emerge &lpar;YC W21&rpar; is hiring a lead front end engineer &lpar;remote, small team&rpar;](https://www.workatastartup.com/jobs/61922/)
-- [‘Broken’ solar panels manufactured to deter criminals in South Africa](https://dailyinvestor.com/energy/28170/broken-solar-panels-manufactured-specifically-for-south-africa/)
-- [Broken Ownership](https://blog.alexewerlof.com/p/broken-ownership)
-- [Noiszy: A browser plugin that creates meaningless web data – digital “noise.”](https://noiszy.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
