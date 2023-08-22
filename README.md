@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Experian fined $650k for not letting you opt out of its spammy emails](https://www.theverge.com/2023/8/22/23841646/experian-fined-spam-emails-ftc-doj)
+- [Your brain on emoji](https://nautil.us/your-🧠-on-emoji-365823/)
+- [Tech jobs market normalizing as July unemployment dips](https://www.ciodive.com/news/compTIA-july-tech-jobs-report-BLS/690033/)
+- [When Trucks Fly](https://www.newyorker.com/magazine/2023/08/21/when-trucks-fly)
+- [G. Polya, How to Solve It](https://www.math.utah.edu/~alfeld/math/polya.html)
 - [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
-- [Godly – Astronomically good web design inspiration](https://godly.website/)
-- [Asyncio, twisted, tornado, gevent walk into a bar](https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk)
-- [Figma makes 200 fixes and improvements to Dev Mode](https://figma.com/blog/dev-mode-fast-follows-200-new-features-and-fixes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
