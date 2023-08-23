@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Life on board a British nuclear submarine &lpar;2012&rpar;](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
+- [Nvidia Announces Financial Results for Second Quarter Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024)
 - [WinRAR 0-day that uses poisoned JPG and TXT files under exploit since April](https://arstechnica.com/security/2023/08/winrar-0-day-that-uses-poisoned-jpg-and-txt-files-under-exploit-since-april/)
-- [Show HN: Dataherald AI – Natural Language to SQL Engine](https://github.com/Dataherald/dataherald)
-- [An excruciatingly detailed guide to SSH &lpar;but only the things I find useful&rpar;](https://grahamhelton.com/blog/ssh-cheatsheet/)
-- [HashiCorp switching to BSL shows a need for open charter companies](https://opencoreventures.com/blog/2023-08-23-hashicorp-switching-bsl-shows-need-for-open-charter-companies/)
-- [Common mistakes in salary negotiation](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start)
+- [The Early History of Counting](https://www.laphamsquarterly.org/roundtable/early-history-counting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
