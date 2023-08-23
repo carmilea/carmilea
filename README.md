@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Wuhan, doctors knew the truth. They were told to keep quiet](https://www.washingtonpost.com/opinions/2023/08/22/wuhan-doctors-pandemic-china-coverup/)
-- [Programmers should not call themselves engineers &lpar;2015&rpar;](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)
+- [If you’re a criminal I will not use any application you write](https://escapebigtech.info/posts/i-wont-use-applications-by-criminals/)
+- [Awk programming language 2nd edition](https://www.awk.dev/)
+- [Mastering Emacs](https://www.masteringemacs.org/)
 - [What happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
-- [Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis](https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis)
-- [I only lost 10 minutes of data, thanks to ZFS](https://mastodon.social/@chromakode/110936177254839251)
+- [OneDiffusion](https://github.com/bentoml/OneDiffusion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
