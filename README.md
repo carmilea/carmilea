@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Tornado Cash devs charged with laundering more than $1B](https://www.theverge.com/2023/8/23/23843161/tornado-cash-indictment-conspiracy-north-korea-money-laundering)
+- [Backblaze Product and Pricing Updates](https://www.backblaze.com/blog/2023-product-announcement/)
+- [Get To Know Nadeem Asghar, SingleStore’s New Head of Product Management &amp; Strategy](https://www.singlestore.com/blog/get-to-know-nadeem-asghar-singlestore-s-new-head-of-product-management-strategy/)
 - [Life on board a British nuclear submarine &lpar;2012&rpar;](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
 - [Nvidia Announces Financial Results for Second Quarter Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024)
-- [WinRAR 0-day that uses poisoned JPG and TXT files under exploit since April](https://arstechnica.com/security/2023/08/winrar-0-day-that-uses-poisoned-jpg-and-txt-files-under-exploit-since-april/)
-- [The Early History of Counting](https://www.laphamsquarterly.org/roundtable/early-history-counting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
