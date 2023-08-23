@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ridiculous captcha at GitHub to reset your password](https://github.com/orgs/community/discussions/64625)
+- [Server-Side Rendering Is a Thiel Truth &lpar;2020&rpar;](https://www.timr.co/server-side-rendering-is-a-thiel-truth/)
+- [Ask HN: Where to find open source house plans?](https://news.ycombinator.com/item?id=37234111)
 - [Why the vagus nerve is so exciting to scientists](https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists)
-- [macOS 13.5 no longer allows setting system wide ulimits](https://developer.apple.com/forums/thread/735798)
-- [Resistor–Transistor Logic &lpar;RTL&rpar;](https://en.wikipedia.org/wiki/Resistor%E2%80%93transistor_logic)
-- [Permutation iteration and random access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
-- [Enhance Rust errors with file and line details](https://crates.io/crates/wherr)
+- [Live telecast of Chandrayaan-3 Soft-landing](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
