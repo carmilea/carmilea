@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If you’re a criminal I will not use any application you write](https://escapebigtech.info/posts/i-wont-use-applications-by-criminals/)
-- [Awk programming language 2nd edition](https://www.awk.dev/)
+- [Permutation Iteration and Random Access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
+- [Enhance Rust errors with file and line details](https://crates.io/crates/wherr)
+- [zrepl: A one-stop, integrated solution for ZFS replication](https://zrepl.github.io/)
 - [Mastering Emacs](https://www.masteringemacs.org/)
-- [What happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
 - [OneDiffusion](https://github.com/bentoml/OneDiffusion)
 <!-- BLOG-POST-LIST:END -->
 
