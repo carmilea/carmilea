@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Permutation Iteration and Random Access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
+- [Resistor–Transistor Logic &lpar;RTL&rpar;](https://en.wikipedia.org/wiki/Resistor%E2%80%93transistor_logic)
+- [Permutation iteration and random access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
 - [Enhance Rust errors with file and line details](https://crates.io/crates/wherr)
-- [zrepl: A one-stop, integrated solution for ZFS replication](https://zrepl.github.io/)
-- [Mastering Emacs](https://www.masteringemacs.org/)
-- [OneDiffusion](https://github.com/bentoml/OneDiffusion)
+- [Zrepl – ZFS replication](https://zrepl.github.io/)
+- [McNealy&#39;s bittersweet memo bids good-bye to Sun &lpar;2010&rpar;](https://www.cnet.com/culture/mcnealys-bittersweet-memo-bids-good-bye-to-sun-20000017/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
