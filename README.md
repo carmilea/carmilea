@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aptible &lpar;YC S14&rpar; Is Hiring Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
+- [City-Wide IMSI-Catcher Detection](https://seaglass.cs.washington.edu/)
 - [AI Real-Time Human Full-Body Photo Generator](https://generated.photos/human-generator/)
 - [A group of Motherboard folks just spun up their own new independent outlet](https://www.404media.co/welcome-to-404-media/)
 - [A half-hour to learn Rust &lpar;2020&rpar;](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
-- [Odd and Unsafe Baby Car Seats from the Past](https://rarehistoricalphotos.com/unsafe-vintage-baby-car-seat/)
-- [WinRAR zero-day exploited since April to hack trading accounts](https://www.bleepingcomputer.com/news/security/winrar-zero-day-exploited-since-april-to-hack-trading-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
