@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Resistor–Transistor Logic &lpar;RTL&rpar;](https://en.wikipedia.org/wiki/Resistor%E2%80%93transistor_logic)
 - [Permutation iteration and random access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
+- [Unit Tests Are Overrated: Rethinking Testing Strategies](https://thenewstack.io/unit-tests-are-overrated-rethinking-testing-strategies/)
 - [Enhance Rust errors with file and line details](https://crates.io/crates/wherr)
 - [Zrepl – ZFS replication](https://zrepl.github.io/)
-- [McNealy&#39;s bittersweet memo bids good-bye to Sun &lpar;2010&rpar;](https://www.cnet.com/culture/mcnealys-bittersweet-memo-bids-good-bye-to-sun-20000017/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
