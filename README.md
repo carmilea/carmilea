@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mounting your iPhone on your motorcycle can damage its camera](https://old.reddit.com/r/motorcycles/comments/v7d6rn/learned_the_hard_way_that_mounting_your_phone_on/)
+- [What Happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
+- [AdNauseam: uBlock Origin fork silently clicking ads on behalf of users](https://github.com/dhowe/AdNauseam)
+- [Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis](https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis)
+- [My SSD suddenly died. I only lost 10 minutes of data, thanks to ZFS](https://mastodon.social/@chromakode/110936177254839251)
 - [Dashworks is hiring ML and fullstack engineers](https://www.dashworks.ai/company#jobs)
-- [OpenSAFELY is a secure, open-source platform for analysis of health records data](https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working)
-- [Skiff – Privacy-first end-to-end encrypted email](https://skiff.com)
-- [PostgreSQL Lock Conflicts](https://pglocks.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
