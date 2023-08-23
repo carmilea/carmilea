@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aptible &lpar;YC S14&rpar; Is Hiring Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
-- [City-Wide IMSI-Catcher Detection](https://seaglass.cs.washington.edu/)
-- [AI Real-Time Human Full-Body Photo Generator](https://generated.photos/human-generator/)
-- [A group of Motherboard folks just spun up their own new independent outlet](https://www.404media.co/welcome-to-404-media/)
-- [A half-hour to learn Rust &lpar;2020&rpar;](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+- [How to sabotage your salary negotiation efforts before you even start](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start)
+- [Ugly Numbers from Microsoft and ChatGPT Reveal AI Demand Is Already Shrinking](https://www.honest-broker.com/p/ugly-numbers-from-microsoft-and-chatgpt)
+- [AI Nutrition Facts](https://nutrition-facts.ai)
+- [In deadly Maui fires, those who dodged barricades survived](https://apnews.com/article/hawaii-fires-timeline-maui-lahaina-road-block-c8522222f6de587bd14b2da0020c40e9)
+- [Clearspace-1 space debris cleanup target struck by space debris – Space](https://www.space.com/space-debris-cleanup-mission-target-hit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
