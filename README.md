@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to sabotage your salary negotiation efforts before you even start](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start)
-- [Ugly Numbers from Microsoft and ChatGPT Reveal AI Demand Is Already Shrinking](https://www.honest-broker.com/p/ugly-numbers-from-microsoft-and-chatgpt)
-- [AI Nutrition Facts](https://nutrition-facts.ai)
+- [Let Go](https://xkcd.com/862/)
+- [An excruciatingly detailed guide to SSH &lpar;but only the things I find useful&rpar;](https://grahamhelton.com/blog/ssh-cheatsheet/)
+- [HashiCorp switching to BSL shows a need for open charter companies](https://opencoreventures.com/blog/2023-08-23-hashicorp-switching-bsl-shows-need-for-open-charter-companies/)
+- [AI Nutrition Fact Labels](https://nutrition-facts.ai)
 - [In deadly Maui fires, those who dodged barricades survived](https://apnews.com/article/hawaii-fires-timeline-maui-lahaina-road-block-c8522222f6de587bd14b2da0020c40e9)
-- [Clearspace-1 space debris cleanup target struck by space debris – Space](https://www.space.com/space-debris-cleanup-mission-target-hit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
