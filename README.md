@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How ‘Rich Men North of Richmond’ Reached the Top of the Charts](https://www.nytimes.com/2023/08/21/arts/music/rich-men-north-of-richmond-oliver-anthony.html)
-- [Cash payments above €3000 to be outlawed in Netherlands](https://www.rijksoverheid.nl/onderwerpen/geldzaken/vraag-en-antwoord/grote-aankopen-met-contant-geld)
-- [AI predicts certain esophageal and stomach cancers three years before diagnosis](https://www.michiganmedicine.org/health-lab/ai-can-predict-certain-forms-esophageal-and-stomach-cancer)
-- [Frank Smith was locked up for 8 decades. At 98, what would it mean to be free?](https://www.bostonglobe.com/2023/07/05/magazine/frank-smith-was-locked-up-eight-decades-98-what-would-it-mean-be-free/)
-- [Oldest Known Animation, a 5200 Year-Old Iranian Ceramic Vessel](https://www.vintag.es/2023/08/vase-animation.html)
+- [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+- [Odd and Unsafe Baby Car Seats from the Past](https://rarehistoricalphotos.com/unsafe-vintage-baby-car-seat/)
+- [Thomas Sowell&#39;s greatest insight – Konstantin Kisin [video]](https://www.youtube.com/watch?v=DvSHWaUDa7k)
+- [Wappalyzer no longer open source?](https://news.ycombinator.com/item?id=37236746)
+- [WinRAR zero-day exploited since April to hack trading accounts](https://www.bleepingcomputer.com/news/security/winrar-zero-day-exploited-since-april-to-hack-trading-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
