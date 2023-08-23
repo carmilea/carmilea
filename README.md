@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chandrayaan-3 Lands on the Moon](https://twitter.com/isro/status/1694327198394863911)
-- [Ridiculous captcha at GitHub to reset your password](https://github.com/orgs/community/discussions/64625)
-- [Server-Side Rendering Is a Thiel Truth &lpar;2020&rpar;](https://www.timr.co/server-side-rendering-is-a-thiel-truth/)
-- [Collection of stand-alone Python machine learning recipes &lpar;2021&rpar;](https://github.com/rougier/ML-Recipes)
-- [Show HN: Pip install inference, open source computer vision deployment](https://github.com/roboflow/inference)
+- [How ‘Rich Men North of Richmond’ Reached the Top of the Charts](https://www.nytimes.com/2023/08/21/arts/music/rich-men-north-of-richmond-oliver-anthony.html)
+- [Cash payments above €3000 to be outlawed in Netherlands](https://www.rijksoverheid.nl/onderwerpen/geldzaken/vraag-en-antwoord/grote-aankopen-met-contant-geld)
+- [AI predicts certain esophageal and stomach cancers three years before diagnosis](https://www.michiganmedicine.org/health-lab/ai-can-predict-certain-forms-esophageal-and-stomach-cancer)
+- [Frank Smith was locked up for 8 decades. At 98, what would it mean to be free?](https://www.bostonglobe.com/2023/07/05/magazine/frank-smith-was-locked-up-eight-decades-98-what-would-it-mean-be-free/)
+- [Oldest Known Animation, a 5200 Year-Old Iranian Ceramic Vessel](https://www.vintag.es/2023/08/vase-animation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
