@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the vagus nerve is so exciting to scientists](https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists)
+- [macOS 13.5 no longer allows setting system wide ulimits](https://developer.apple.com/forums/thread/735798)
 - [Resistor–Transistor Logic &lpar;RTL&rpar;](https://en.wikipedia.org/wiki/Resistor%E2%80%93transistor_logic)
 - [Permutation iteration and random access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
-- [Unit Tests Are Overrated: Rethinking Testing Strategies](https://thenewstack.io/unit-tests-are-overrated-rethinking-testing-strategies/)
 - [Enhance Rust errors with file and line details](https://crates.io/crates/wherr)
-- [Zrepl – ZFS replication](https://zrepl.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
