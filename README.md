@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chandrayaan-3 Lands on the Moon](https://twitter.com/isro/status/1694327198394863911)
 - [Ridiculous captcha at GitHub to reset your password](https://github.com/orgs/community/discussions/64625)
 - [Server-Side Rendering Is a Thiel Truth &lpar;2020&rpar;](https://www.timr.co/server-side-rendering-is-a-thiel-truth/)
-- [Ask HN: Where to find open source house plans?](https://news.ycombinator.com/item?id=37234111)
-- [Why the vagus nerve is so exciting to scientists](https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists)
-- [Live telecast of Chandrayaan-3 Soft-landing](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
+- [Collection of stand-alone Python machine learning recipes &lpar;2021&rpar;](https://github.com/rougier/ML-Recipes)
+- [Show HN: Pip install inference, open source computer vision deployment](https://github.com/roboflow/inference)
 <!-- BLOG-POST-LIST:END -->
 
 ---
