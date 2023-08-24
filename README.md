@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube may face billions in fines if FTC confirms child privacy violations](https://arstechnica.com/tech-policy/2023/08/youtube-may-face-billions-in-fines-if-ftc-confirms-child-privacy-violations/)
+- [Bun v0.8](https://bun.sh/blog/bun-v0.8.0)
+- [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
 - [The median return of 2022&#39;s SPAC mergers: -82%](https://pranshum.yarn.tech/24dade67-68e3-4e18-b597-94acfab46a61)
 - [Princeton ‘AI Snake Oil’ authors say GenAI hype has ‘spiraled out of control’](https://venturebeat.com/ai/princeton-university-ai-snake-oil-professors-say-generative-ai-hype-has-spiraled-out-of-control/)
-- [Show HN: Chat with GPT about medical issues, get answers from medical literature](https://github.com/clint-llm/clint-llm.github.io)
-- [Get To Know Nadeem Asghar, SingleStore’s New Head of Product Management &amp; Strategy](https://www.singlestore.com/blog/get-to-know-nadeem-asghar-singlestore-s-new-head-of-product-management-strategy/)
-- [Pytudes](https://github.com/norvig/pytudes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
