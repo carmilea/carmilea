@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Threads.net Can Go to Hell](https://lapcatsoftware.com/articles/2023/8/4.html)
-- [$528M Antarctic icebreaker too big to fit under Tasman bridge to refuel](https://www.theguardian.com/australia-news/2023/aug/24/australias-528m-antarctic-icebreaker-too-big-to-fit-under-tasman-bridge-to-refuel)
-- [Firefox users may import Chrome extensions now](https://www.ghacks.net/2023/08/23/firefox-users-may-import-chrome-extensions-now/)
-- [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
-- [A New Physics Theory of Life &lpar;2014&rpar;](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/)
+- [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
+- [Runme – Interactive Runbooks Built with Markdown](https://runme.dev/)
+- [The longest word you can type on the first row of a QWERTY keyboard](https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/)
+- [Zoom’s CEO thinks Zoom sucks for building trust, leaked audio reveals](https://arstechnica.com/tech-policy/2023/08/leaked-audio-reveals-zoom-ceo-believes-its-hard-to-build-trust-on-zoom/)
+- [Fox TV license renewal may be in jeopardy as FCC invites public response](https://arstechnica.com/tech-policy/2023/08/petition-to-deny-fox-tv-license-over-false-election-info-gains-steam-at-fcc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
