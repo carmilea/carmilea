@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kellogg’s is going to war over Mexico’s nutrition label rules](https://www.statnews.com/2023/08/21/kelloggs-mexico-nutrition-label/)
 - [Open source LLM with 32k Context Length](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)
-- [Japan starts release of Fukushima’s treated radioactive water](https://www.aljazeera.com/news/2023/8/24/japan-prepares-to-start-release-of-fukushima-radioactive-water)
+- [Show HN: Automate complicated manual business processes](https://www.tooljet.com/workflows)
 - [Bun v0.8](https://bun.sh/blog/bun-v0.8.0)
 - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
-- [Get To Know Nadeem Asghar, SingleStore’s New Head of Product Management &amp; Strategy](https://www.singlestore.com/blog/get-to-know-nadeem-asghar-singlestore-s-new-head-of-product-management-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
