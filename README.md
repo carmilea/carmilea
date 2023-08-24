@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Porn Marketplace Where Everything and Everyone Is for Sale](https://www.404media.co/inside-the-ai-porn-marketplace-where-everything-and-everyone-is-for-sale/)
-- [Most of My Instagram Ads Are for Drugs, Stolen Credit Cards, Hacked Accounts](https://www.404media.co/instagram-ads-illegal-content-drugs-guns-hackers/)
-- [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
-- [Now Available — Building an Enterprise-Grade Gen AI App Using Google Vertex AI and SingleStoreDB](https://www.singlestore.com/blog/enterprise-grade-gen-ai-google-vertex-ai-singlestoredb/)
-- [BillaBear – v1.1 – Subscription Management and Billing](https://github.com/billabear/billabear/releases/tag/v1.1.0)
+- [No app, no entry: How the digital world is failing the non tech-savvy](https://www.theguardian.com/technology/2023/aug/20/no-app-no-entry-how-the-digital-world-is-failing-the-non-tech-savvy)
+- [Microsoft’s Revocation of the Verisign Class 3 Public Primary G5 Root Cert](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
+- [Inside the AI porn marketplace](https://www.404media.co/inside-the-ai-porn-marketplace-where-everything-and-everyone-is-for-sale/)
+- [Meta launches own AI code-writing tool: Code Llama](https://www.theverge.com/2023/8/24/23843487/meta-llama-code-generation-generative-ai-llm)
+- [Hugging Face raises $235M from investors including Salesforce and Nvidia](https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
