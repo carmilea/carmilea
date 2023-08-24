@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto has amplified, not reduced, financial risks in less developed economies](https://www.ft.com/content/dc6d7505-03b5-4cc2-8fc9-6e3ea2efa63a)
-- [Climate change: Thousands of penguins die in Antarctic ice breakup](https://www.bbc.com/news/science-environment-66492767)
-- [DOJ Sues SpaceX for Discriminating Against Asylees and Refugees in Hiring](https://www.justice.gov/opa/pr/justice-department-sues-spacex-discriminating-against-asylees-and-refugees-hiring)
-- [A single weekly bout of exercise may reduce cardiovascular mortality &lpar;2006&rpar;](https://academic.oup.com/eurjpc/article/13/5/798/5933265)
-- [Modular Raises $100M](https://www.modular.com/blog/weve-raised-100m-to-fix-ai-infrastructure-for-the-worlds-developers)
+- [Show HN: Adapt Copilot to Your Goals](https://docs.flux.ai/tutorials/adapt-copilot-to-your-goals)
+- [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
+- [Build a chatbot with custom data sources, powered by LlamaIndex](https://blog.streamlit.io/build-a-chatbot-with-custom-data-sources-powered-by-llamaindex/)
+- [New Windows updates cause UNSUPPORTED_PROCESSOR blue screens](https://www.bleepingcomputer.com/news/microsoft/new-windows-updates-cause-unsupported-processor-blue-screens/)
+- [AI Business Toolkit](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fai-business.streamlit.app%2F)
 <!-- BLOG-POST-LIST:END -->
 
 ---
