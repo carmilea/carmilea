@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BioWare is laying off 50 employees](https://blog.bioware.com/2023/08/23/an-update-on-the-state-of-bioware/)
-- [Zoom CEO says employees can&#39;t be as innovative or get to know each other on Zoom](https://www.businessinsider.com/zoom-ceo-employees-return-to-office-2023-8)
-- [Tornado Cash devs charged with laundering more than $1B](https://www.theverge.com/2023/8/23/23843161/tornado-cash-indictment-conspiracy-north-korea-money-laundering)
+- [The median return of 2022&#39;s SPAC mergers: -82%](https://pranshum.yarn.tech/24dade67-68e3-4e18-b597-94acfab46a61)
+- [Princeton ‘AI Snake Oil’ authors say GenAI hype has ‘spiraled out of control’](https://venturebeat.com/ai/princeton-university-ai-snake-oil-professors-say-generative-ai-hype-has-spiraled-out-of-control/)
+- [Show HN: Chat with GPT about medical issues, get answers from medical literature](https://github.com/clint-llm/clint-llm.github.io)
 - [Get To Know Nadeem Asghar, SingleStore’s New Head of Product Management &amp; Strategy](https://www.singlestore.com/blog/get-to-know-nadeem-asghar-singlestore-s-new-head-of-product-management-strategy/)
-- [Life on board a British nuclear submarine &lpar;2012&rpar;](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
+- [Pytudes](https://github.com/norvig/pytudes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
