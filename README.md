@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apparatus for facilitating the birth of a child by centrifugal force](https://patents.google.com/patent/US3216423A/en)
 - [Dutch e-bike maker VanMoof goes bankrupt, leaving riders stranded](https://www.npr.org/2023/08/23/1195201692/vanmoof-ebikes-bankrupt-netherlands)
-- [Danish cloud host says customers ‘lost all data’ after ransomware attack](https://techcrunch.com/2023/08/23/cloudnordic-azero-cloud-host-ransomware/)
 - [Kellogg’s is going to war over Mexico’s nutrition label rules](https://www.statnews.com/2023/08/21/kelloggs-mexico-nutrition-label/)
 - [Open source LLM with 32k Context Length](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)
 - [Show HN: Automate complicated manual business processes](https://www.tooljet.com/workflows)
