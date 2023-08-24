@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An image preprocessing tool to protect artworks from AI-for-Art based mimicry](https://mist-project.github.io/index_en.html)
 - [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
+- [SQLite 3.43](https://sqlite.org/releaselog/3_43_0.html)
 - [Runme – Interactive Runbooks Built with Markdown](https://runme.dev/)
 - [The longest word you can type on the first row of a QWERTY keyboard](https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/)
-- [Zoom’s CEO thinks Zoom sucks for building trust, leaked audio reveals](https://arstechnica.com/tech-policy/2023/08/leaked-audio-reveals-zoom-ceo-believes-its-hard-to-build-trust-on-zoom/)
-- [Fox TV license renewal may be in jeopardy as FCC invites public response](https://arstechnica.com/tech-policy/2023/08/petition-to-deny-fox-tv-license-over-false-election-info-gains-steam-at-fcc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
