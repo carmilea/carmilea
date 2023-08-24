@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Shimmer – ADHD coaching for adults, now on web](https://www.shimmer.care/blog/web-launch-adhd-coaching)
+- [How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back](https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back)
+- [Show HN: Use Code Llama as Drop-In Replacement for Copilot Chat](https://continue.dev/docs/walkthroughs/codellama)
 - [Show HN: Adapt Copilot to Your Goals](https://docs.flux.ai/tutorials/adapt-copilot-to-your-goals)
 - [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
-- [Build a chatbot with custom data sources, powered by LlamaIndex](https://blog.streamlit.io/build-a-chatbot-with-custom-data-sources-powered-by-llamaindex/)
-- [New Windows updates cause UNSUPPORTED_PROCESSOR blue screens](https://www.bleepingcomputer.com/news/microsoft/new-windows-updates-cause-unsupported-processor-blue-screens/)
-- [AI Business Toolkit](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fai-business.streamlit.app%2F)
 <!-- BLOG-POST-LIST:END -->
 
 ---
