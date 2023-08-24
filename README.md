@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
+- [A New Physics Theory of Life](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/)
+- [Corrupted Blood Incident](https://en.wikipedia.org/wiki/Corrupted_Blood_incident)
 - [Show HN: Shimmer – ADHD coaching for adults, now on web](https://www.shimmer.care/blog/web-launch-adhd-coaching)
 - [How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back](https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back)
-- [Show HN: Use Code Llama as Drop-In Replacement for Copilot Chat](https://continue.dev/docs/walkthroughs/codellama)
-- [Show HN: Adapt Copilot to Your Goals](https://docs.flux.ai/tutorials/adapt-copilot-to-your-goals)
-- [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
