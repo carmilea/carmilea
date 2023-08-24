@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Apparatus for facilitating the birth of a child by centrifugal force](https://patents.google.com/patent/US3216423A/en)
-- [Dutch e-bike maker VanMoof goes bankrupt, leaving riders stranded](https://www.npr.org/2023/08/23/1195201692/vanmoof-ebikes-bankrupt-netherlands)
-- [Kellogg’s is going to war over Mexico’s nutrition label rules](https://www.statnews.com/2023/08/21/kelloggs-mexico-nutrition-label/)
 - [Open source LLM with 32k Context Length](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)
 - [Show HN: Automate complicated manual business processes](https://www.tooljet.com/workflows)
+- [Bun v0.8](https://bun.sh/blog/bun-v0.8.0)
+- [Get To Know Nadeem Asghar, SingleStore’s New Head of Product Management &amp; Strategy](https://www.singlestore.com/blog/get-to-know-nadeem-asghar-singlestore-s-new-head-of-product-management-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
