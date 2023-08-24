@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No app, no entry: How the digital world is failing the non tech-savvy](https://www.theguardian.com/technology/2023/aug/20/no-app-no-entry-how-the-digital-world-is-failing-the-non-tech-savvy)
-- [Microsoft’s Revocation of the Verisign Class 3 Public Primary G5 Root Cert](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
-- [Inside the AI porn marketplace](https://www.404media.co/inside-the-ai-porn-marketplace-where-everything-and-everyone-is-for-sale/)
-- [Meta launches own AI code-writing tool: Code Llama](https://www.theverge.com/2023/8/24/23843487/meta-llama-code-generation-generative-ai-llm)
-- [Hugging Face raises $235M from investors including Salesforce and Nvidia](https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/)
+- [Crypto has amplified, not reduced, financial risks in less developed economies](https://www.ft.com/content/dc6d7505-03b5-4cc2-8fc9-6e3ea2efa63a)
+- [Climate change: Thousands of penguins die in Antarctic ice breakup](https://www.bbc.com/news/science-environment-66492767)
+- [DOJ Sues SpaceX for Discriminating Against Asylees and Refugees in Hiring](https://www.justice.gov/opa/pr/justice-department-sues-spacex-discriminating-against-asylees-and-refugees-hiring)
+- [A single weekly bout of exercise may reduce cardiovascular mortality &lpar;2006&rpar;](https://academic.oup.com/eurjpc/article/13/5/798/5933265)
+- [Modular Raises $100M](https://www.modular.com/blog/weve-raised-100m-to-fix-ai-infrastructure-for-the-worlds-developers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
