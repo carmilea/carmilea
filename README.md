@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube may face billions in fines if FTC confirms child privacy violations](https://arstechnica.com/tech-policy/2023/08/youtube-may-face-billions-in-fines-if-ftc-confirms-child-privacy-violations/)
+- [So Long, Twitter and Reddit](https://andrewkelley.me/post/goodbye-twitter-reddit.html)
 - [Bun v0.8](https://bun.sh/blog/bun-v0.8.0)
 - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
 - [The median return of 2022&#39;s SPAC mergers: -82%](https://pranshum.yarn.tech/24dade67-68e3-4e18-b597-94acfab46a61)
