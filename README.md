@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apparatus for facilitating the birth of a child by centrifugal force](https://patents.google.com/patent/US3216423A/en)
+- [Show HN: I built this Postgres logger for you guys to check out](https://rocketgraph.io/logger-demo)
+- [Leaving Haskell Behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
+- [How Modern SQL Databases Are Changing Web Development: Part 1](https://blog.whimslab.io/how-modern-sql-databases-are-changing-web-development-4d1f15b0daea)
+- [Apparatus for facilitating the birth of a child by centrifugal force &lpar;1963&rpar;](https://patents.google.com/patent/US3216423A/en)
 - [Open source LLM with 32k Context Length](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)
-- [Show HN: Automate complicated manual business processes](https://www.tooljet.com/workflows)
-- [Bun v0.8](https://bun.sh/blog/bun-v0.8.0)
-- [Get To Know Nadeem Asghar, SingleStore’s New Head of Product Management &amp; Strategy](https://www.singlestore.com/blog/get-to-know-nadeem-asghar-singlestore-s-new-head-of-product-management-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
