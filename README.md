@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Where do I find good code to read?](https://news.ycombinator.com/item?id=37248002)
-- [Learn the basics of digital electronics with the hands-on Logic Lab kit](http://www.technoblogy.com/show?4FFY)
-- [Jacobin: Minimal JVM written in Go and capable of running Java 17 classes](https://jacobin.org/)
-- [Show HN: I built this Postgres logger for you guys to check out](https://rocketgraph.io/logger-demo)
-- [Show HN: Web App with GUI for AutoML on Tabular Data](https://github.com/mljar/automl-app)
+- [The AI Porn Marketplace Where Everything and Everyone Is for Sale](https://www.404media.co/inside-the-ai-porn-marketplace-where-everything-and-everyone-is-for-sale/)
+- [Most of My Instagram Ads Are for Drugs, Stolen Credit Cards, Hacked Accounts](https://www.404media.co/instagram-ads-illegal-content-drugs-guns-hackers/)
+- [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
+- [Now Available — Building an Enterprise-Grade Gen AI App Using Google Vertex AI and SingleStoreDB](https://www.singlestore.com/blog/enterprise-grade-gen-ai-google-vertex-ai-singlestoredb/)
+- [BillaBear – v1.1 – Subscription Management and Billing](https://github.com/billabear/billabear/releases/tag/v1.1.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
