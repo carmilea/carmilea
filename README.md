@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads.net Can Go to Hell](https://lapcatsoftware.com/articles/2023/8/4.html)
+- [$528M Antarctic icebreaker too big to fit under Tasman bridge to refuel](https://www.theguardian.com/australia-news/2023/aug/24/australias-528m-antarctic-icebreaker-too-big-to-fit-under-tasman-bridge-to-refuel)
 - [Firefox users may import Chrome extensions now](https://www.ghacks.net/2023/08/23/firefox-users-may-import-chrome-extensions-now/)
 - [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
-- [Better.com stock gets clobbered as it begins trading publicly down more than 93%](https://www.fastcompany.com/90944558/better-stock-down-public-betr-nasdaq)
 - [A New Physics Theory of Life &lpar;2014&rpar;](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/)
-- [Bram Moolenaar&#39;s programming language, Zimbu](https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
