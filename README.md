@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Slime molds are gorgeous &lpar;you just never knew it&rpar; [video]](https://www.youtube.com/watch?v=gpt9cJrEZ_Y)
+- [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
 - [Why Htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
-- [Ask HN: Down to $16, had 4 job offers rescinded; in crisis mode, where to turn?](https://news.ycombinator.com/item?id=37264893)
 - [Poly &lpar;YC S22&rpar; |Hiring Founding Platform Engineer|GenAI Design Asset Marketplace](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-developer-generative-ai-enabled-design-asset-marketplace-founding-team-at-a-yc-startup-backed-by-bloomberg-felicis-figma)
-- [The 2,500 year old history of why Python’s all&lpar;[]&rpar; returns True](https://blog.carlmjohnson.net/post/2020/python-square-of-opposition/)
 - [UBC device uses wood dust to trap up to 99.9 per cent of microplastics in water](https://news.ubc.ca/2023/08/16/microplastic-pollution-plants-could-be-the-answer/)
 <!-- BLOG-POST-LIST:END -->
 
