@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical)
+- [Bizarre Movie Posters From Africa That Are So Bad, They’re Good](https://www.dannydutch.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good)
+- [An Open Source Mobile Phone Based on the ESP32](https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/)
 - [Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
 - [The place where no humans will tread for 100k years](https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site)
-- [Naked Mole Rat’s Longevity Gene Gives Mice a Longer Life](https://scienceswitch.com/2023/08/25/naked-mole-rats-longevity-gene-gives-mice-a-longer-life/)
-- [How to Drill Your Own Water Well](https://drillyourownwell.com/)
-- [Apple supports right-to-repair bill](https://arstechnica.com/gadgets/2023/08/hell-freezes-over-as-apple-supports-right-to-repair-bill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
