@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Huawei reportedly building &#39;secret&#39; semiconductor fabs](https://www.theregister.com/2023/08/25/huawei_building_secret_fabs/)
+- [None of us are truly living off the grid](https://www.okdoomer.io/youre-not-going-to-make-it/)
+- [Making NetBSD Multiboot-Compatible &lpar;2007&rpar;](https://jmmv.dev/2007/03/making-netbsd-multiboot-compatible.html)
 - [50TB IBM tape drive more than doubles LTO-9 capacity](https://blocksandfiles.com/2023/08/23/50tb-ibm-tape/)
-- [Factorio: Space Age](https://factorio.com/blog/post/fff-373)
-- [The College Board Tells TikTok and Facebook Your SAT Scores](https://gizmodo.com/sat-college-board-tells-facebook-tiktok-your-scores-gpa-1850768077)
-- [Stable Linux mainline builds for Ubuntu](https://stgraber.org/2023/08/24/stable-linux-mainline-builds/)
-- [Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical)
+- [LuaJIT Uses Rolling Releases](https://www.freelists.org/post/luajit/LuaJIT-uses-rolling-releases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
