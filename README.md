@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Foreach Derp with Csh](http://blog.syncpup.com/posts/foreach-derp-with-csh.html)
+- [The place where no humans will tread for 100k years](https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site)
+- [Naked Mole Rat’s Longevity Gene Gives Mice a Longer Life](https://scienceswitch.com/2023/08/25/naked-mole-rats-longevity-gene-gives-mice-a-longer-life/)
 - [How to Drill Your Own Water Well](https://drillyourownwell.com/)
 - [Apple supports right-to-repair bill](https://arstechnica.com/gadgets/2023/08/hell-freezes-over-as-apple-supports-right-to-repair-bill/)
 - [Os.js – open-source JavaScript web desktop platform with a window manager](https://www.os-js.org/)
-- [Algebraic Topology for Data Scientists](https://arxiv.org/abs/2308.10825)
 <!-- BLOG-POST-LIST:END -->
 
 ---
