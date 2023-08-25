@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolution of the Gitea Downloads Site](https://blog.gitea.com/evolution-of-the-gitea-downloads-site/)
+- [Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
+- [The place where no humans will tread for 100k years](https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site)
 - [Naked Mole Rat’s Longevity Gene Gives Mice a Longer Life](https://scienceswitch.com/2023/08/25/naked-mole-rats-longevity-gene-gives-mice-a-longer-life/)
 - [How to Drill Your Own Water Well](https://drillyourownwell.com/)
 - [Apple supports right-to-repair bill](https://arstechnica.com/gadgets/2023/08/hell-freezes-over-as-apple-supports-right-to-repair-bill/)
-- [Os.js – open-source JavaScript web desktop platform with a window manager](https://www.os-js.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
