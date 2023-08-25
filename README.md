@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Throttles 404Media Investigation on Drug Ads, Continues to Advertise Drugs](https://www.404media.co/instagram-throttles-404-media-investigation-into-drug-ads-on-instagram-continues-to-let-people-advertise-drugs/)
+- [Does wearing waterproof clothing increase PFAS in our bodies?](https://molecularspec.substack.com/p/water-repellent-clothing-and-pfas)
 - [Huawei reportedly building &#39;secret&#39; semiconductor fabs](https://www.theregister.com/2023/08/25/huawei_building_secret_fabs/)
-- [None of us are truly living off the grid](https://www.okdoomer.io/youre-not-going-to-make-it/)
+- [How do domain-specific chatbots work? A retrieval augmented generation overview](https://scriv.ai/guides/retrieval-augmented-generation-overview/)
 - [Making NetBSD Multiboot-Compatible &lpar;2007&rpar;](https://jmmv.dev/2007/03/making-netbsd-multiboot-compatible.html)
-- [50TB IBM tape drive more than doubles LTO-9 capacity](https://blocksandfiles.com/2023/08/23/50tb-ibm-tape/)
-- [LuaJIT Uses Rolling Releases](https://www.freelists.org/post/luajit/LuaJIT-uses-rolling-releases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
