@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Release AI – Talk to Your Infrastructure](https://www.ycombinator.com/launches/JI1-release-ai-talk-to-your-infrastructure)
-- [Just 23% of Americans Know the US Has Failed to Pass an Internet-Era Privacy Law](https://www.techdirt.com/2023/08/25/just-23-of-americans-know-the-u-s-has-failed-to-pass-an-internet-era-privacy-law/)
-- [Changes to UK Surveillance Regime May Violate International Law](https://www.justsecurity.org/87615/changes-to-uk-surveillance-regime-may-violate-international-law/)
-- [EU’s War on Behavioral Advertising](https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising)
-- [Robert&#39;s Rules of Order](https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order)
+- [Why Htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
+- [Ask HN: Down to $16, had 4 job offers rescinded; in crisis mode, where to turn?](https://news.ycombinator.com/item?id=37264893)
+- [Poly &lpar;YC S22&rpar; |Hiring Founding Platform Engineer|GenAI Design Asset Marketplace](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-developer-generative-ai-enabled-design-asset-marketplace-founding-team-at-a-yc-startup-backed-by-bloomberg-felicis-figma)
+- [The 2,500 year old history of why Python’s all&lpar;[]&rpar; returns True](https://blog.carlmjohnson.net/post/2020/python-square-of-opposition/)
+- [UBC device uses wood dust to trap up to 99.9 per cent of microplastics in water](https://news.ubc.ca/2023/08/16/microplastic-pollution-plants-could-be-the-answer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
