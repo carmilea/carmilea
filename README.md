@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Throttles 404Media Investigation on Drug Ads, Continues to Advertise Drugs](https://www.404media.co/instagram-throttles-404-media-investigation-into-drug-ads-on-instagram-continues-to-let-people-advertise-drugs/)
-- [Does wearing waterproof clothing increase PFAS in our bodies?](https://molecularspec.substack.com/p/water-repellent-clothing-and-pfas)
-- [Huawei reportedly building &#39;secret&#39; semiconductor fabs](https://www.theregister.com/2023/08/25/huawei_building_secret_fabs/)
-- [How do domain-specific chatbots work? A retrieval augmented generation overview](https://scriv.ai/guides/retrieval-augmented-generation-overview/)
-- [Making NetBSD Multiboot-Compatible &lpar;2007&rpar;](https://jmmv.dev/2007/03/making-netbsd-multiboot-compatible.html)
+- [EU’s War on Behavioral Advertising](https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising)
+- [Why are some e-commerce business owners afraid to spend money on their website?](https://developmentfriendly.com/why-are-some-e-commerce-business-owners-afraid-to-spend-money-on-their-website/)
+- [Blocking Entire Countries from Your Website for Better Traffic – Benefits](https://developmentfriendly.com/should-i-block-entire-countries-from-accessing-my-website-for-more-qualified-traffic/)
+- [HelloSystem: A graphical OS built on FreeBSD](https://hellosystem.github.io/docs/)
+- [New York, California Lose Firms Managing an Estimated $2T in Assets](https://www.costar.com/article/420490632/new-york-california-lose-firms-managing-an-estimated-2-trillion-in-assets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
