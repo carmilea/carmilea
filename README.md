@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hell freezes over as Apple supports right-to-repair bill](https://arstechnica.com/gadgets/2023/08/hell-freezes-over-as-apple-supports-right-to-repair-bill/)
+- [Os.js – open-source JavaScript web desktop platform with a window manager](https://www.os-js.org/)
+- [Algebraic Topology for Data Scientists](https://arxiv.org/abs/2308.10825)
+- [America is building chip factories. Now to find the workers](https://www.economist.com/united-states/2023/08/05/america-is-building-chip-factories-now-to-find-the-workers)
 - [Understanding Automatic Differentiation in 30 lines of Python](https://vmartin.fr/understanding-automatic-differentiation-in-30-lines-of-python.html)
-- [Research Suggests Politicians Are More Likely to Be Psychopaths](https://www.smithsonianmag.com/smart-news/research-suggests-politicians-are-more-likely-to-be-psychopaths-11364143/)
-- [The human Y chromosome has been completely sequenced](https://www.nature.com/articles/s41586-023-06457-y)
-- [Paper and bamboo straws contain PFAS chemicals more often than plastic straws do](https://www.nbcnews.com/health/health-news/paper-bamboo-straws-contain-pfas-forever-chemicals-rcna101614)
-- [Record low sea ice led to catastrophic breeding failure of emperor penguins](https://www.nature.com/articles/s43247-023-00927-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
