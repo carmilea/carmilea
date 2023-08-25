@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Automatic Differentiation in 30 lines of Python](https://vmartin.fr/understanding-automatic-differentiation-in-30-lines-of-python.html)
+- [Research Suggests Politicians Are More Likely to Be Psychopaths](https://www.smithsonianmag.com/smart-news/research-suggests-politicians-are-more-likely-to-be-psychopaths-11364143/)
+- [The human Y chromosome has been completely sequenced](https://www.nature.com/articles/s41586-023-06457-y)
+- [Paper and bamboo straws contain PFAS chemicals more often than plastic straws do](https://www.nbcnews.com/health/health-news/paper-bamboo-straws-contain-pfas-forever-chemicals-rcna101614)
 - [Record low sea ice led to catastrophic breeding failure of emperor penguins](https://www.nature.com/articles/s43247-023-00927-x)
-- [Ig Nobel Prize Winner Higashiyama Atsuki and the “Between-Legs Effect” Mystery](https://www.nippon.com/en/japan-topics/c12403/)
-- [Dollar Tree is the latest retailer to say shoplifting is squeezing margins](https://www.marketwatch.com/story/dollar-trees-stock-slides-8-6-premarket-as-profit-falls-sharply-from-a-year-ago-c84ff785)
-- [An image preprocessing tool to protect artworks from AI-for-Art based mimicry](https://mist-project.github.io/index_en.html)
-- [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
