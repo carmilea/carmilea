@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Release AI – Talk to Your Infrastructure](https://www.ycombinator.com/launches/JI1-release-ai-talk-to-your-infrastructure)
+- [Just 23% of Americans Know the US Has Failed to Pass an Internet-Era Privacy Law](https://www.techdirt.com/2023/08/25/just-23-of-americans-know-the-u-s-has-failed-to-pass-an-internet-era-privacy-law/)
+- [Changes to UK Surveillance Regime May Violate International Law](https://www.justsecurity.org/87615/changes-to-uk-surveillance-regime-may-violate-international-law/)
 - [EU’s War on Behavioral Advertising](https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising)
-- [Why are some e-commerce business owners afraid to spend money on their website?](https://developmentfriendly.com/why-are-some-e-commerce-business-owners-afraid-to-spend-money-on-their-website/)
-- [Blocking Entire Countries from Your Website for Better Traffic – Benefits](https://developmentfriendly.com/should-i-block-entire-countries-from-accessing-my-website-for-more-qualified-traffic/)
-- [HelloSystem: A graphical OS built on FreeBSD](https://hellosystem.github.io/docs/)
-- [New York, California Lose Firms Managing an Estimated $2T in Assets](https://www.costar.com/article/420490632/new-york-california-lose-firms-managing-an-estimated-2-trillion-in-assets)
+- [Robert&#39;s Rules of Order](https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order)
 <!-- BLOG-POST-LIST:END -->
 
 ---
