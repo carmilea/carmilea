@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Slime molds are gorgeous &lpar;you just never knew it&rpar; [video]](https://www.youtube.com/watch?v=gpt9cJrEZ_Y)
+- [Tropical forests are approaching critical temperature thresholds](https://www.nature.com/articles/s41586-023-06391-z)
+- [Slime Molds [video]](https://www.youtube.com/watch?v=gpt9cJrEZ_Y)
 - [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
-- [Why Htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
-- [Poly &lpar;YC S22&rpar; |Hiring Founding Platform Engineer|GenAI Design Asset Marketplace](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-developer-generative-ai-enabled-design-asset-marketplace-founding-team-at-a-yc-startup-backed-by-bloomberg-felicis-figma)
-- [UBC device uses wood dust to trap up to 99.9 per cent of microplastics in water](https://news.ubc.ca/2023/08/16/microplastic-pollution-plants-could-be-the-answer/)
+- [Web scraping for me, but not for thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
+- [Poly &lpar;YC S22&rpar; is hiring a founding platform engineer](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-developer-generative-ai-enabled-design-asset-marketplace-founding-team-at-a-yc-startup-backed-by-bloomberg-felicis-figma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
