@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Record low sea ice led to catastrophic breeding failure of emperor penguins](https://www.nature.com/articles/s43247-023-00927-x)
+- [Ig Nobel Prize Winner Higashiyama Atsuki and the “Between-Legs Effect” Mystery](https://www.nippon.com/en/japan-topics/c12403/)
+- [Dollar Tree is the latest retailer to say shoplifting is squeezing margins](https://www.marketwatch.com/story/dollar-trees-stock-slides-8-6-premarket-as-profit-falls-sharply-from-a-year-ago-c84ff785)
 - [An image preprocessing tool to protect artworks from AI-for-Art based mimicry](https://mist-project.github.io/index_en.html)
 - [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
-- [SQLite 3.43](https://sqlite.org/releaselog/3_43_0.html)
-- [Runme – Interactive Runbooks Built with Markdown](https://runme.dev/)
-- [The longest word you can type on the first row of a QWERTY keyboard](https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
