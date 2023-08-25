@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tao of Go](https://bitfieldconsulting.com/golang/tao-of-go)
+- [Factorio: Space Age](https://factorio.com/blog/post/fff-373)
+- [The College Board Tells TikTok and Facebook Your SAT Scores](https://gizmodo.com/sat-college-board-tells-facebook-tiktok-your-scores-gpa-1850768077)
 - [Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical)
-- [Things I tried to improve sleep](https://vincelwt.com/sleep)
-- [Paper cups are just as toxic as plastic cups](https://www.gu.se/en/news/paper-cups-are-just-as-toxic-as-plastic-cups)
-- [Bizarre Movie Posters From Africa That Are So Bad, They’re Good](https://www.dannydutch.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good)
+- [An Open Source Mobile Phone Based on the ESP32](https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/)
+- [Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
