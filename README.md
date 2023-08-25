@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Casio Caleid XM-700 Mobile Navigator &lpar;1997&rpar;](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
+- [Fifth Circuit: Law Enforcement Doesn’t Need Warrants to Search Phones at Border](https://www.techdirt.com/2023/08/25/fifth-circuit-says-law-enforcement-doesnt-need-warrants-to-search-phones-at-the-border/)
+- [NASA Shares First Images from US Pollution-Monitoring Instrument](https://www.nasa.gov/press-release/nasa-shares-first-images-from-us-pollution-monitoring-instrument/)
 - [Giving up the iPad-only travel dream](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/)
 - [The Notetaking Cold War &lpar;2020&rpar;](https://every.to/superorganizers/the-notetaking-cold-war-591898)
-- [Slime Molds [video]](https://www.youtube.com/watch?v=gpt9cJrEZ_Y)
-- [Web scraping for me, but not for thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
-- [Poly &lpar;YC S22&rpar; is hiring a founding platform engineer](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-developer-generative-ai-enabled-design-asset-marketplace-founding-team-at-a-yc-startup-backed-by-bloomberg-felicis-figma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
