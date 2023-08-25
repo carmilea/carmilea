@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tropical forests are approaching critical temperature thresholds](https://www.nature.com/articles/s41586-023-06391-z)
+- [Giving up the iPad-only travel dream](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/)
+- [The Notetaking Cold War &lpar;2020&rpar;](https://every.to/superorganizers/the-notetaking-cold-war-591898)
 - [Slime Molds [video]](https://www.youtube.com/watch?v=gpt9cJrEZ_Y)
-- [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
 - [Web scraping for me, but not for thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
 - [Poly &lpar;YC S22&rpar; is hiring a founding platform engineer](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-developer-generative-ai-enabled-design-asset-marketplace-founding-team-at-a-yc-startup-backed-by-bloomberg-felicis-figma)
 <!-- BLOG-POST-LIST:END -->
