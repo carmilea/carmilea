@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Research Scientists](https://news.ycombinator.com/item?id=37268923)
-- [Sidewalk Garden: a 800 square feet garden in San Francisco&#39;s Mission District](https://zachklein.com/Sidewalk+Garden)
-- [Deep Neural Nets: 33 years ago and 33 years from now](http://karpathy.github.io/2022/03/14/lecun1989/)
-- [Why fewer university students are studying Mandarin](https://www.economist.com/china/2023/08/24/why-fewer-university-students-are-studying-mandarin)
-- [Why do cats love tuna so much? Scientists may finally know](https://www.science.org/content/article/why-do-cats-love-tuna-so-much-scientists-may-finally-know)
+- [Why the US is one of only a few countries with no paid time off](https://www.vox.com/policy-and-politics/2019/12/24/21035628/new-york-paid-time-off)
+- [Generally Intelligent &lpar;YC S17&rpar; is hiring research scientists](https://news.ycombinator.com/item?id=37268923)
+- [We are not empty: The concept of the atomic void is a mistake](https://aeon.co/essays/why-the-empty-atom-picture-misunderstands-quantum-theory)
+- [Training immune cells to remove ‘trash’ helps resolve lung inflammation](https://today.uic.edu/immune-cells-acute-lung-injury/)
+- [Sidewalk Garden](https://zachklein.com/Sidewalk+Garden)
 <!-- BLOG-POST-LIST:END -->
 
 ---
