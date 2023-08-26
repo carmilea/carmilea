@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New York Is Full. And it’s the housing market’s fault](https://www.theatlantic.com/ideas/archive/2023/08/new-york-housing-asylum-seekers-mayor-adams/675091/)
+- [Freshpaint &lpar;YC S19&rpar; Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [Attention didn’t collapse. It was stolen &lpar;2022&rpar;](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
+- [Gojekyll – 20x faster Go port of jekyll](https://github.com/osteele/gojekyll)
 - [90% of “eco-friendly” paper straws contain traces of toxic forever chemicals](https://scienceswitch.com/2023/08/27/90-of-eco-friendly-paper-straws-contain-traces-of-toxic-forever-chemicals/)
-- [Historic Algorithms Help Unlock Shortest-Path Problem Breakthrough](https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext)
-- [Modernizing Compiler Design for Carbon Toolchain [video]](https://www.youtube.com/watch?v=ZI198eFghJk)
-- [A video of the transformation of a single cell into a salamander](https://pmdvod.nationalgeographic.com/NG_Video/772/995/1442844739770_1550184269599_1442865731523_mp4_video_1024x576_1632000_primary_audio_eng_3.mp4)
-- [Never-Ending Learning of User Interfaces](https://arxiv.org/abs/2308.08726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
