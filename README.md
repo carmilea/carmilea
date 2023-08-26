@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [The Albanian town that TikTok emptied](https://www.codastory.com/authoritarian-tech/albania-tiktok-migration-uk/)
-- [The WordPress 100 Year Plan](https://wordpress.com/100-year/)
-- [The EU’s Digital Services Act is now in effect](https://www.theverge.com/23845672/eu-digital-services-act-explained)
-- [Clean mount lists in Linux](https://dbohdan.com/clean-mount-lists)
+- [‘Flat’ company structures rarely work, but some firms aim for middle ground](https://www.nytimes.com/2023/07/05/business/flat-structure-companies.html)
+- [Ask HN: What do non-technical founders need to know about software dev?](https://news.ycombinator.com/item?id=37272345)
+- [This venture-backed startup has quietly bought more than 80 mom-and-pop shops](https://techcrunch.com/2023/08/24/this-venture-backed-startup-has-quietly-bought-more-than-80-mom-and-pop-shops/)
+- [How to Search on Encrypted Data &lpar;2013&rpar;](https://esl.cs.brown.edu/blog/how-to-search-on-encrypted-data-introduction-part-1/)
+- [Wirecutter CEO Sells Top Reviews for Kickbacks a Pay to Play Strategy Exposed](https://www.xdesk.com/wirecutter-standing-desk-review-pay-to-play-model)
 <!-- BLOG-POST-LIST:END -->
 
 ---
