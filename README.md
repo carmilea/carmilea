@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Companies That Union-Bust Must Now Automatically Recognize Union, NLRB Rules](https://www.vice.com/en/article/dy3xej/companies-that-union-bust-must-now-automatically-recognize-union-nlrb-rules)
 - [Interpretable Graph Neural Networks for Tabular Data](https://arxiv.org/abs/2308.08945)
 - [Generally Intelligent &lpar;YC S17&rpar; is hiring research scientists](https://news.ycombinator.com/item?id=37268923)
 - [We are not empty: The concept of the atomic void is a mistake](https://aeon.co/essays/why-the-empty-atom-picture-misunderstands-quantum-theory)
 - [Training immune cells to remove ‘trash’ helps resolve lung inflammation](https://today.uic.edu/immune-cells-acute-lung-injury/)
-- [Sidewalk Garden](https://zachklein.com/Sidewalk+Garden)
 <!-- BLOG-POST-LIST:END -->
 
 ---
