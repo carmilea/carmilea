@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Slack’s Migration to a Cellular Architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
+- [California deploys AI-powered wildfire detection systems](https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/)
+- [UK&#39;s infrastructure is too expensive: Railways, Trams, and Roads all cost more](https://www.samdumitriu.com/p/britains-infrastructure-is-too-expensive)
 - [For many home-schoolers, parents are no longer doing the teaching](https://www.washingtonpost.com/education/interactive/2023/homeschooling-microschools-pods-esa-vouchers/)
-- [Heineken sells its Russia operations for 1 euro](https://www.cbsnews.com/news/heineken-sells-russian-business-one-euro-ukraine-war/)
-- [Silicon Valley elites revealed as buyers of $800M of land to build utopian city](https://www.theguardian.com/us-news/2023/aug/26/silicon-valley-elites-buy-800m-land-new-city)
 - [n8n.io - A powerful workflow automation tool](https://n8n.io)
-- [Google Maps is a critical dependency for nutrition facts on mcdonalds.com](https://mastodon.social/@simevidas/110956696765338181)
 <!-- BLOG-POST-LIST:END -->
 
 ---
