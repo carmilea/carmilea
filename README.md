@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [For many home-schoolers, parents are no longer doing the teaching](https://www.washingtonpost.com/education/interactive/2023/homeschooling-microschools-pods-esa-vouchers/)
+- [Heineken sells its Russia operations for 1 euro](https://www.cbsnews.com/news/heineken-sells-russian-business-one-euro-ukraine-war/)
+- [Silicon Valley elites revealed as buyers of $800M of land to build utopian city](https://www.theguardian.com/us-news/2023/aug/26/silicon-valley-elites-buy-800m-land-new-city)
+- [n8n.io - A powerful workflow automation tool](https://n8n.io)
 - [Google Maps is a critical dependency for nutrition facts on mcdonalds.com](https://mastodon.social/@simevidas/110956696765338181)
-- [Apple Pay Later: What Are the Crazy Ones Up To?](https://www.softwareplatform.net/2023/04/16/apple-pay-later-what-are-the-crazy-ones-up-to/)
-- [Let Maintainers Be Maintainers](https://graydon2.dreamwidth.org/306832.html)
-- [Armed with traffic cones, protesters are immobilizing driverless cars](https://www.npr.org/2023/08/26/1195695051/driverless-cars-san-francisco-waymo-cruise)
-- [Newly discovered black hole &#39;speed limit&#39; hints at new laws of physics](https://www.livescience.com/physics-mathematics/newly-discovered-black-hole-speed-limit-hints-at-new-laws-of-physics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
