@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [66% of Americans say they want extended European-style vacation policies at work](https://www.cnbc.com/2023/08/25/66percent-of-americans-say-they-want-extended-european-style-vacation-policies-at-work.html)
 - [Uncle Sam accuses SpaceX of not considering asylees and refugees for employment](https://www.theregister.com/2023/08/25/spacex_discrimination_lawsuit/)
 - [Gym Class VR &lpar;YC W22&rpar; is hiring a Unity animator and programmer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-animator-programmer-vr-unity)
 - [Llama2.c L2E LLM – Multi OS Binary and Unikernel Release](https://github.com/trholding/llama2.c/releases/tag/L2E_v0.1)
-- [FFmpeg Explorer](https://ffmpeg.lav.io)
-- [Interpretable graph neural networks for tabular data](https://arxiv.org/abs/2308.08945)
+- [This week in KDE: Double-click by default](https://pointieststick.com/2023/08/18/this-week-in-kde-double-click-by-default/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
