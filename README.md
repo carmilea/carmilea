@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Newly discovered black hole &#39;speed limit&#39; hints at new laws of physics](https://www.livescience.com/physics-mathematics/newly-discovered-black-hole-speed-limit-hints-at-new-laws-of-physics)
+- [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
+- [Fish – A friendly interactive shell](https://github.com/fish-shell/fish-shell)
 - [‘Flat’ company structures rarely work, but some firms aim for middle ground](https://www.nytimes.com/2023/07/05/business/flat-structure-companies.html)
-- [Ask HN: What do non-technical founders need to know about software dev?](https://news.ycombinator.com/item?id=37272345)
 - [This venture-backed startup has quietly bought more than 80 mom-and-pop shops](https://techcrunch.com/2023/08/24/this-venture-backed-startup-has-quietly-bought-more-than-80-mom-and-pop-shops/)
-- [How to Search on Encrypted Data &lpar;2013&rpar;](https://esl.cs.brown.edu/blog/how-to-search-on-encrypted-data-introduction-part-1/)
-- [Wirecutter CEO Sells Top Reviews for Kickbacks a Pay to Play Strategy Exposed](https://www.xdesk.com/wirecutter-standing-desk-review-pay-to-play-model)
 <!-- BLOG-POST-LIST:END -->
 
 ---
