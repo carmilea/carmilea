@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
-- [Casio Caleid XM-700 Mobile Navigator &lpar;1997&rpar;](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
-- [Fifth Circuit: Law Enforcement Doesn’t Need Warrants to Search Phones at Border](https://www.techdirt.com/2023/08/25/fifth-circuit-says-law-enforcement-doesnt-need-warrants-to-search-phones-at-the-border/)
-- [NASA Shares First Images from US Pollution-Monitoring Instrument](https://www.nasa.gov/press-release/nasa-shares-first-images-from-us-pollution-monitoring-instrument/)
-- [Giving up the iPad-only travel dream](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Research Scientists](https://news.ycombinator.com/item?id=37268923)
+- [Sidewalk Garden: a 800 square feet garden in San Francisco&#39;s Mission District](https://zachklein.com/Sidewalk+Garden)
+- [Deep Neural Nets: 33 years ago and 33 years from now](http://karpathy.github.io/2022/03/14/lecun1989/)
+- [Why fewer university students are studying Mandarin](https://www.economist.com/china/2023/08/24/why-fewer-university-students-are-studying-mandarin)
+- [Why do cats love tuna so much? Scientists may finally know](https://www.science.org/content/article/why-do-cats-love-tuna-so-much-scientists-may-finally-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
