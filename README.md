@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Historic Algorithms Help Unlock Shortest-Path Problem Breakthrough](https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext)
+- [A video of the transformation of a single cell into a salamander](https://pmdvod.nationalgeographic.com/NG_Video/772/995/1442844739770_1550184269599_1442865731523_mp4_video_1024x576_1632000_primary_audio_eng_3.mp4)
+- [Ford Confronts Strange, Ear-Piercing Static in F-150 Trucks](https://www.wsj.com/business/autos/ford-confronts-strange-ear-piercing-static-in-f-150-trucks-7551ba24)
 - [Slack’s Migration to a Cellular Architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
 - [California deploys AI-powered wildfire detection systems](https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/)
-- [UK&#39;s infrastructure is too expensive: Railways, Trams, and Roads all cost more](https://www.samdumitriu.com/p/britains-infrastructure-is-too-expensive)
-- [For many home-schoolers, parents are no longer doing the teaching](https://www.washingtonpost.com/education/interactive/2023/homeschooling-microschools-pods-esa-vouchers/)
-- [n8n.io - A powerful workflow automation tool](https://n8n.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
