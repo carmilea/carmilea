@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Xinjiang Victims Database](https://www.shahit.biz/eng/)
+- [Google Maps is a critical dependency for nutrition facts on mcdonalds.com](https://mastodon.social/@simevidas/110956696765338181)
+- [Apple Pay Later: What Are the Crazy Ones Up To?](https://www.softwareplatform.net/2023/04/16/apple-pay-later-what-are-the-crazy-ones-up-to/)
 - [Let Maintainers Be Maintainers](https://graydon2.dreamwidth.org/306832.html)
+- [Armed with traffic cones, protesters are immobilizing driverless cars](https://www.npr.org/2023/08/26/1195695051/driverless-cars-san-francisco-waymo-cruise)
 - [Newly discovered black hole &#39;speed limit&#39; hints at new laws of physics](https://www.livescience.com/physics-mathematics/newly-discovered-black-hole-speed-limit-hints-at-new-laws-of-physics)
-- [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
-- [Fish – A friendly interactive shell](https://github.com/fish-shell/fish-shell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
