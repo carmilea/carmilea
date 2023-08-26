@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xinjiang Victims Database](https://www.shahit.biz/eng/)
+- [Let Maintainers Be Maintainers](https://graydon2.dreamwidth.org/306832.html)
 - [Newly discovered black hole &#39;speed limit&#39; hints at new laws of physics](https://www.livescience.com/physics-mathematics/newly-discovered-black-hole-speed-limit-hints-at-new-laws-of-physics)
 - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 - [Fish – A friendly interactive shell](https://github.com/fish-shell/fish-shell)
-- [‘Flat’ company structures rarely work, but some firms aim for middle ground](https://www.nytimes.com/2023/07/05/business/flat-structure-companies.html)
-- [This venture-backed startup has quietly bought more than 80 mom-and-pop shops](https://techcrunch.com/2023/08/24/this-venture-backed-startup-has-quietly-bought-more-than-80-mom-and-pop-shops/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
