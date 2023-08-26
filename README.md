@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [East German Balloon Escape](https://en.wikipedia.org/wiki/East_German_balloon_escape)
-- [Airbnb allowing host to place cameras in the room where I would be sleeping](https://old.reddit.com/r/BestofRedditorUpdates/comments/1623v0b/airbnb_allowing_host_to_place_cameras_in_the_room/)
 - [Freshpaint &lpar;YC S19&rpar; Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 - [Thoughts about what worked in math circles](https://buttondown.email/j2kun/archive/thoughts-about-what-worked-in-math-circles/)
 - [Attention didn’t collapse. It was stolen &lpar;2022&rpar;](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
+- [Gojekyll: A fast, partially compatible Go clone of Jekyll](https://github.com/osteele/gojekyll)
+- [Show HN: Dumbar, a not so smart menubar app](https://jerrysv.xyz/blog/dumbar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
