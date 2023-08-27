@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple to Limit iPhone 15 USB-C Cables to USB 2.0 Speeds: Report](https://www.extremetech.com/mobile/apple-to-limit-iphone-15-usb-c-cables-to-usb-20-speeds-report)
+- [Silicon Valley “Pronatalists” Oppose Remote Work Despite Boosted Fertility Rates](https://www.stoppopulationdecline.org/silicon-valley-pronatalists-against-wfh/)
+- [Anger found to be the primary driver of climate activism](https://phys.org/news/2023-08-anger-primary-driver-climate.html)
+- [Python Type Hints – *args and **kwargs &lpar;2021&rpar;](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
+- [WordPress introduces 100 year domain registrations](https://wordpress.com/blog/2023/08/25/introducing-the-100-year-plan/)
 - [Moderation Strike: Results of Negotiations](https://meta.stackexchange.com/questions/391847/moderation-strike-results-of-negotiations)
-- [Social media does not cause depression in children](https://norwegianscitechnews.com/2023/08/social-media-does-not-cause-depression-in-children/)
-- [Overthewire.org](https://overthewire.org/wargames/)
-- [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
 <!-- BLOG-POST-LIST:END -->
 
 ---
