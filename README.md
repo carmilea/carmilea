@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to Contact Stripe Directly?](https://news.ycombinator.com/item?id=37278473)
+- [Scenes from the Solbourne Computer corporate video, March 1992](http://oldvcr.blogspot.com/2023/08/scenes-from-solbourne-computer.html)
+- [Linux 6.5 Last Minute Fixes a Performance Regression, 34% Drop in a Benchmark](https://www.phoronix.com/news/Linux-6.5-x86-Fix-34p-Drop)
 - [If you&#39;re interested in eye-tracking, I&#39;m interested in funding you](https://twitter.com/paulg/status/1695596853864321055)
 - [It’s not intelligent if it always halts: A critical perspective on AI approaches](https://www.lifeiscomputation.com/it-is-not-intelligent-if-it-always-halts/)
 - [Linux on a Commodore 64](https://github.com/onnokort/semu-c64)
-- [Illegal shooting along power lines a leading cause of death for bald eagles](https://www.usgs.gov/news/national-news-release/illegal-shooting-along-power-lines-a-leading-cause-death-bald-eagles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
