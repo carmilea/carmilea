@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bugzilla Celebrates 25 Years with Special Announcements](https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/)
+- [Firefox 1.0 New York Times Ad &lpar;2004&rpar;](https://www.scribd.com/document/393519605/Firefox-1-0-New-York-Times-Ad)
+- [Block YouTube Ads on AppleTV by Decrypting and Stripping Ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
 - [Scenes from the Solbourne Computer corporate video, March 1992](http://oldvcr.blogspot.com/2023/08/scenes-from-solbourne-computer.html)
 - [Linux 6.5 Last Minute Fixes a Performance Regression, 34% Drop in a Benchmark](https://www.phoronix.com/news/Linux-6.5-x86-Fix-34p-Drop)
-- [If you&#39;re interested in eye-tracking, I&#39;m interested in funding you](https://twitter.com/paulg/status/1695596853864321055)
-- [Linux on a Commodore 64](https://github.com/onnokort/semu-c64)
-- [Cody – The AI that knows your entire codebase](https://about.sourcegraph.com/cody)
 <!-- BLOG-POST-LIST:END -->
 
 ---
