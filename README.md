@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Silicon Valley “Pronatalists” Oppose Remote Work Despite Boosted Fertility Rates](https://www.stoppopulationdecline.org/silicon-valley-pronatalists-against-wfh/)
-- [Anger found to be the primary driver of climate activism](https://phys.org/news/2023-08-anger-primary-driver-climate.html)
+- [Some of the error messages produced by Apple&#39;s MPW C compiler &lpar;2006&rpar;](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
+- [Consumers complaining on X targeted by scammers after verification changes](https://www.theguardian.com/technology/2023/aug/27/consumers-complaining-x-targeted-scammers-verification-changes-twitter)
+- [Remote Work Is Here to Stay, and Employers Aren’t Happy About It](https://www.investopedia.com/remote-work-is-here-to-stay-and-employers-arent-happy-about-it-7814388)
 - [Python Type Hints – *args and **kwargs &lpar;2021&rpar;](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
 - [WordPress introduces 100 year domain registrations](https://wordpress.com/blog/2023/08/25/introducing-the-100-year-plan/)
-- [Moderation Strike: Results of Negotiations](https://meta.stackexchange.com/questions/391847/moderation-strike-results-of-negotiations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
