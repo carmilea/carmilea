@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Infiuss Health &lpar;YC S21&rpar; Is Hiring a Data Analyst](https://news.ycombinator.com/item?id=37284488)
-- [Phrack Magazine](http://phrack.org/)
-- [How to Setup a Plex Media Server on Raspberry Pi](https://www.makeuseof.com/tag/raspberry-pi-plex-media-server/)
-- [Where do fonts come from? This one business, mostly](https://thehustle.co/where-do-fonts-come-from/)
-- [Ham radio enthusiasts vs. High-frequency traders: A battle for the airwaves](https://www.wsj.com/business/entrepreneurship/ham-radio-enthusiasts-vs-high-frequency-traders-a-battle-for-the-airwaves-6d6c5c1f)
+- [Classical Music Is for Everyone](https://www.firstthings.com/web-exclusives/2023/08/classical-music-is-for-everyone)
+- [PMET: Precise Model Editing in a Transformer](https://arxiv.org/abs/2308.08742)
+- [A forum engine written in Assembly](https://asm32.info/fossil/asmbb/index)
+- [The world’s last internet cafes](https://restofworld.org/2023/internet-cafes/)
+- [Study: Carbon offsets aren’t doing their job, overstate impact](https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
