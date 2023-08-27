@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists find way to wipe a cell&#39;s memory to reprogram it as a stem cell](https://www.uwa.edu.au/news/Article/2023/August/Scientists-find-way-to-wipe-a-cells-memory-to-reprogram-it-as-a-stem-cell)
+- [Seven Sins of Writing](https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer to build future of software](https://news.ycombinator.com/item?id=37286598)
 - [OnlyFans: Who is Leonid Radvinsky, the elusive owner of a porn empire?](https://www.bbc.com/news/world-66615008)
-- [Can Vines Speed Urban Cooling? – UC Davis](https://www.ucdavis.edu/climate/what-can-i-do/blog/can-vines-speed-urban-cooling)
-- [Ukraine uses Australian drones made of cardboard](https://aircosmosinternational.com/article/ukraine-uses-australian-drones-made-of-cardboard-3664)
-- [Python proposal &lpar;inspired by Lua&rpar;](https://hachyderm.io/@nedbat/110962461917632486)
+- [Labor unions are pushing hard for better pay and hours – and winning](https://www.cnbc.com/2023/08/27/labor-unions-winning-better-pay-hours.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
