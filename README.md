@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Underrated music, books, movies?](https://news.ycombinator.com/item?id=37280933)
-- [i386 in Ubuntu Won&#39;t Die](https://popey.com/blog/2023/08/i386-in-ubuntu-wont-die/)
-- [OpenWrt Security Advisories](https://openwrt.org/advisory/start)
-- [Ubus &lpar;OpenWrt micro bus architecture&rpar;](https://openwrt.org/docs/techref/ubus)
-- [Interactive Hiragana chart with audio](https://japanesecomplete.com/hiragana-chart)
+- [Apple to Limit iPhone 15 USB-C Cables to USB 2.0 Speeds: Report](https://www.extremetech.com/mobile/apple-to-limit-iphone-15-usb-c-cables-to-usb-20-speeds-report)
+- [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
+- [Ask HN: Best WFH Purchases?](https://news.ycombinator.com/item?id=37281641)
+- [Waku: The Minimalist React Framework with Server Components](https://waku.gg/)
+- [Things that didn&#39;t age well](https://mastodon.social/@damianogerli/110677869558047692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
