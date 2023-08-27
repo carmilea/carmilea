@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Apple to Limit iPhone 15 USB-C Cables to USB 2.0 Speeds: Report](https://www.extremetech.com/mobile/apple-to-limit-iphone-15-usb-c-cables-to-usb-20-speeds-report)
+- [Moderation Strike: Results of Negotiations](https://meta.stackexchange.com/questions/391847/moderation-strike-results-of-negotiations)
+- [Social media does not cause depression in children](https://norwegianscitechnews.com/2023/08/social-media-does-not-cause-depression-in-children/)
+- [Overthewire.org](https://overthewire.org/wargames/)
 - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
-- [Ask HN: Best WFH Purchases?](https://news.ycombinator.com/item?id=37281641)
-- [Waku: The Minimalist React Framework with Server Components](https://waku.gg/)
-- [Things that didn&#39;t age well](https://mastodon.social/@damianogerli/110677869558047692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
