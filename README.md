@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bugzilla Celebrates 25 Years with Special Announcements](https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/)
-- [Firefox 1.0 New York Times Ad &lpar;2004&rpar;](https://www.scribd.com/document/393519605/Firefox-1-0-New-York-Times-Ad)
-- [Block YouTube Ads on AppleTV by Decrypting and Stripping Ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
-- [Scenes from the Solbourne Computer corporate video, March 1992](http://oldvcr.blogspot.com/2023/08/scenes-from-solbourne-computer.html)
-- [Linux 6.5 Last Minute Fixes a Performance Regression, 34% Drop in a Benchmark](https://www.phoronix.com/news/Linux-6.5-x86-Fix-34p-Drop)
+- [Interactive Hiragana chart with audio](https://japanesecomplete.com/hiragana-chart)
+- [Happy 25th Birthday to Bugzilla](https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/)
+- [Silicon Valley elites revealed as investors behind $800M Bay Area land grab](https://www.sfchronicle.com/bayarea/article/solano-new-city-investors-silicon-valley-18331296.php)
+- [Firefox 1.0 New York Times ad &lpar;2004&rpar;](https://www.scribd.com/document/393519605/Firefox-1-0-New-York-Times-Ad)
+- [Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
