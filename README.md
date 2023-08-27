@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why WhatsApp Was Able to Support 50B Messages a Day with 32 Engineers](https://newsletter.systemdesign.one/p/whatsapp-engineering)
+- [Ask HN: Underrated music, books, movies?](https://news.ycombinator.com/item?id=37280933)
+- [i386 in Ubuntu Won&#39;t Die](https://popey.com/blog/2023/08/i386-in-ubuntu-wont-die/)
 - [OpenWrt Security Advisories](https://openwrt.org/advisory/start)
 - [Ubus &lpar;OpenWrt micro bus architecture&rpar;](https://openwrt.org/docs/techref/ubus)
 - [Interactive Hiragana chart with audio](https://japanesecomplete.com/hiragana-chart)
-- [Happy 25th Birthday to Bugzilla](https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
