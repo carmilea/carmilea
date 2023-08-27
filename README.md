@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Infiuss Health &lpar;YC S21&rpar; Is Hiring a Data Analyst](https://news.ycombinator.com/item?id=37284488)
 - [I had no idea that one company basically owns every font](https://thehustle.co/where-do-fonts-come-from/)
 - [Ham radio enthusiasts vs. High-frequency traders: A battle for the airwaves](https://www.wsj.com/business/entrepreneurship/ham-radio-enthusiasts-vs-high-frequency-traders-a-battle-for-the-airwaves-6d6c5c1f)
 - [I Can Eat Glass](https://en.wikipedia.org/wiki/I_Can_Eat_Glass)
 - [Some of the error messages produced by Apple&#39;s MPW C compiler &lpar;2006&rpar;](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
-- [Sal Khan: How AI could save &lpar;not destroy&rpar; education [video]](https://www.youtube.com/watch?v=hJP5GqnTrNo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
