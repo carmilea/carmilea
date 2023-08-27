@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Freshpaint &lpar;YC S19&rpar; Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [Thoughts about what worked in math circles](https://buttondown.email/j2kun/archive/thoughts-about-what-worked-in-math-circles/)
-- [Attention didn’t collapse. It was stolen &lpar;2022&rpar;](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
-- [Gojekyll: A fast, partially compatible Go clone of Jekyll](https://github.com/osteele/gojekyll)
-- [Show HN: Dumbar, a not so smart menubar app](https://jerrysv.xyz/blog/dumbar.html)
+- [If you&#39;re interested in eye-tracking, I&#39;m interested in funding you](https://twitter.com/paulg/status/1695596853864321055)
+- [It’s not intelligent if it always halts: A critical perspective on AI approaches](https://www.lifeiscomputation.com/it-is-not-intelligent-if-it-always-halts/)
+- [Linux on a Commodore 64](https://github.com/onnokort/semu-c64)
+- [Illegal shooting along power lines a leading cause of death for bald eagles](https://www.usgs.gov/news/national-news-release/illegal-shooting-along-power-lines-a-leading-cause-death-bald-eagles)
+- [Martin Miller talks about his mother, Alice Miller &lpar;2015&rpar;](https://www.contemporarypsychotherapy.org/volume-7-issue-1-summer-2015/interview-martin-miller/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
