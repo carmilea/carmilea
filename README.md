@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenWrt Security Advisories](https://openwrt.org/advisory/start)
+- [Who is driving Germany&#39;s far-right poll surge?](https://adamtooze.substack.com/p/chartbook-235-who-is-driving-germanys)
 - [Ubus &lpar;OpenWrt micro bus architecture&rpar;](https://openwrt.org/docs/techref/ubus)
 - [Interactive Hiragana chart with audio](https://japanesecomplete.com/hiragana-chart)
 - [Happy 25th Birthday to Bugzilla](https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/)
-- [Silicon Valley elites revealed as investors behind $800M Bay Area land grab](https://www.sfchronicle.com/bayarea/article/solano-new-city-investors-silicon-valley-18331296.php)
-- [Firefox 1.0 New York Times ad &lpar;2004&rpar;](https://www.scribd.com/document/393519605/Firefox-1-0-New-York-Times-Ad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
