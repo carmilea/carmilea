@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Classical Music Is for Everyone](https://www.firstthings.com/web-exclusives/2023/08/classical-music-is-for-everyone)
+- [Ukraine uses Australian drones made of cardboard](https://aircosmosinternational.com/article/ukraine-uses-australian-drones-made-of-cardboard-3664)
+- [Python proposal &lpar;inspired by Lua&rpar;](https://hachyderm.io/@nedbat/110962461917632486)
+- [Classical music is for everyone](https://www.firstthings.com/web-exclusives/2023/08/classical-music-is-for-everyone)
 - [PMET: Precise Model Editing in a Transformer](https://arxiv.org/abs/2308.08742)
 - [A forum engine written in Assembly](https://asm32.info/fossil/asmbb/index)
-- [The world’s last internet cafes](https://restofworld.org/2023/internet-cafes/)
-- [Study: Carbon offsets aren’t doing their job, overstate impact](https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
