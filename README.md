@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I had no idea that one company basically owns every font](https://thehustle.co/where-do-fonts-come-from/)
+- [Ham radio enthusiasts vs. High-frequency traders: A battle for the airwaves](https://www.wsj.com/business/entrepreneurship/ham-radio-enthusiasts-vs-high-frequency-traders-a-battle-for-the-airwaves-6d6c5c1f)
+- [I Can Eat Glass](https://en.wikipedia.org/wiki/I_Can_Eat_Glass)
 - [Some of the error messages produced by Apple&#39;s MPW C compiler &lpar;2006&rpar;](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
-- [Consumers complaining on X targeted by scammers after verification changes](https://www.theguardian.com/technology/2023/aug/27/consumers-complaining-x-targeted-scammers-verification-changes-twitter)
-- [Remote Work Is Here to Stay, and Employers Aren’t Happy About It](https://www.investopedia.com/remote-work-is-here-to-stay-and-employers-arent-happy-about-it-7814388)
-- [Python Type Hints – *args and **kwargs &lpar;2021&rpar;](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
-- [WordPress introduces 100 year domain registrations](https://wordpress.com/blog/2023/08/25/introducing-the-100-year-plan/)
+- [Sal Khan: How AI could save &lpar;not destroy&rpar; education [video]](https://www.youtube.com/watch?v=hJP5GqnTrNo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
