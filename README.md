@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer to build future of software](https://news.ycombinator.com/item?id=37286598)
+- [OnlyFans: Who is Leonid Radvinsky, the elusive owner of a porn empire?](https://www.bbc.com/news/world-66615008)
+- [Can Vines Speed Urban Cooling? – UC Davis](https://www.ucdavis.edu/climate/what-can-i-do/blog/can-vines-speed-urban-cooling)
 - [Ukraine uses Australian drones made of cardboard](https://aircosmosinternational.com/article/ukraine-uses-australian-drones-made-of-cardboard-3664)
 - [Python proposal &lpar;inspired by Lua&rpar;](https://hachyderm.io/@nedbat/110962461917632486)
-- [Classical music is for everyone](https://www.firstthings.com/web-exclusives/2023/08/classical-music-is-for-everyone)
-- [PMET: Precise Model Editing in a Transformer](https://arxiv.org/abs/2308.08742)
-- [A forum engine written in Assembly](https://asm32.info/fossil/asmbb/index)
 <!-- BLOG-POST-LIST:END -->
 
 ---
