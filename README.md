@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why WhatsApp Was Able to Support 50B Messages a Day with 32 Engineers](https://newsletter.systemdesign.one/p/whatsapp-engineering)
 - [OpenWrt Security Advisories](https://openwrt.org/advisory/start)
 - [Ubus &lpar;OpenWrt micro bus architecture&rpar;](https://openwrt.org/docs/techref/ubus)
 - [Interactive Hiragana chart with audio](https://japanesecomplete.com/hiragana-chart)
 - [Happy 25th Birthday to Bugzilla](https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/)
-- [Silicon Valley elites revealed as investors behind $800M Bay Area land grab](https://www.sfchronicle.com/bayarea/article/solano-new-city-investors-silicon-valley-18331296.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
