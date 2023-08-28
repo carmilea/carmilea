@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vitalik Buterin on Twitter Community Notes](https://vitalik.ca/general/2023/08/16/communitynotes.html)
+- [How many years to senior engineer?](https://swizec.com/blog/how-many-years-to-senior-engineer/)
+- [We Put Half a Million Files in One Git Repository, Here&#39;s What We Learned &lpar;2022&rpar;](https://www.canva.dev/blog/engineering/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned/)
+- [The V Programming Language 0.4](https://vlang.io/)
 - [Fortran](https://fortran-lang.org/en/index.html)
-- [VanCubic Camper Modules Turn Your Cargo Van into a Modern House on Wheels in 1hr](https://www.autoevolution.com/news/vancubic-camper-modules-turn-your-cargo-van-into-a-modern-house-on-wheels-in-just-an-hour-220182.html)
-- [Polish railway system hacked, trains forced to stop by attackers](https://twitter.com/vxunderground/status/1695604752661295610)
-- [Pricing your SaaS on the demand curve using the Pareto power law](https://www.heymarketcurve.com/blog/saas-pricing)
-- [Why the AGPL is often unenforceable &lpar;2015&rpar;](https://www.devever.net/~hl/agplunenforceable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
