@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Are “theoretical” concepts being lost by new engineers?](https://news.ycombinator.com/item?id=37293143)
-- [Tesla braces for its first trial involving Autopilot fatality](https://www.reuters.com/business/autos-transportation/tesla-braces-its-first-trial-involving-autopilot-fatality-2023-08-28/)
-- [‘Oh my God’: live worm found in Australian woman’s brain in worldfirst discovery](https://www.theguardian.com/australia-news/2023/aug/28/live-worm-living-womans-brain-australia-depression-forgetfulness)
-- [Feds probing roughly 5k pilots suspected of withholding major health issues](https://www.businessinsider.com/faa-investigating-pilots-suspicion-major-health-issues-flying-veterans-benefits-2023-8)
-- [Google Gemini Eats the World](https://www.semianalysis.com/p/google-gemini-eats-the-world-gemini)
+- [We Don’t Need a New Twitter](https://calnewport.com/we-dont-need-a-new-twitter/)
+- [Wet-Bulb Temperature](https://en.wikipedia.org/wiki/Wet-bulb_temperature)
+- [E-Bike Industry Blames Consumers for Fires to Undermine Right to Repair Laws](https://www.techdirt.com/2023/08/28/e-bike-industry-blames-consumers-for-fires-in-effort-to-undermine-right-to-repair-laws/)
+- [Ohio LinuxFest 2023 Conference Speakers](https://olfconference.org/speakers/)
+- [A Harvard professor became the world’s leading alien hunter](https://www.nytimes.com/2023/08/24/magazine/avi-loeb-alien-hunter.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
