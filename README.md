@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SiPhox &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/siphox/jobs/nFufcgs-siphox-kit-team-lead-director-level)
-- [Nvidia on the Mountaintop](https://stratechery.com/2023/nvidia-on-the-mountaintop/)
-- [Fig Has Joined AWS](https://fig.io/blog/post/fig-joins-aws)
-- [Our startup received GDPR violation “notice”](https://www.jitbit.com/news/gdpr-threat/)
-- [Most cancer screenings don’t extend life, study finds](https://www.cnn.com/2023/08/28/health/cancer-screenings-extend-life-wellness/index.html)
+- [When your classmates threaten you with felony charges](https://miles.land/posts/classmates-legal-threat-fizz-defcon/)
+- [Sipeed unveils RISC-V tablet, portable Linux console, and cluster](https://www.cnx-software.com/2023/08/28/sipeed-unveils-risc-v-tablet-portable-linux-console-and-cluster/)
+- [3M is paying $5.5B to resolve 300k lawsuits over defective combat earplugs](https://qz.com/3m-is-paying-5-5-billion-to-resolve-300-000-lawsuits-o-1850780085)
+- [Charles Darwin Ate One of Everything He Discovered](https://www.thefactsite.com/charles-darwin-eating-habits/)
+- [Social media’s addictive loop compels users to share mindlessly](https://dornsife.usc.edu/news/stories/social-media-addiction-share-mindlessly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
