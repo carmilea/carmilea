@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Total data loss after botched GitOps and failed backups](https://firefish.social/notes/9iqefgi8rzfksnqc)
-- [Scrum is a cancer](https://twitter.com/svpino/status/1695806027256475777)
+- [Mastercard ends Binance card partnership in latest blow to crypto giant](https://www.cnbc.com/2023/08/25/mastercard-ends-binance-card-partnership.html)
+- [Learn GNU Awk with hundreds of examples and exercises](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
+- [Inmos and the Transputer – Parallel Ventures](https://thechipletter.substack.com/p/inmos-and-the-transputer-part-1-parallel)
+- [The Elements of Style [pdf]](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf)
 - [West Point discovers time capsule from 1828](https://www.westpoint.edu/news/press-releases/west-point-discovers-time-capsule-monument-base)
-- [Answering ambiguous questions with a database of questions, answers, revisions](https://arxiv.org/abs/2308.08661)
-- [Evergrande shares plunge as much as 87% as trading resumes after 17 months](https://www.cnbc.com/2023/08/28/china-evergrande-shares-plunge-as-trading-resumes-trade-after-17-months.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
