@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Opening of West Point time capsule reveals what cynics said it would: Nothing](https://www.freep.com/story/news/local/michigan/2023/08/28/west-point-time-capsule-kosciuszko-mystery/70697206007/)
 - [When your classmates threaten you with felony charges](https://miles.land/posts/classmates-legal-threat-fizz-defcon/)
 - [Sipeed unveils RISC-V tablet, portable Linux console, and cluster](https://www.cnx-software.com/2023/08/28/sipeed-unveils-risc-v-tablet-portable-linux-console-and-cluster/)
 - [3M is paying $5.5B to resolve 300k lawsuits over defective combat earplugs](https://qz.com/3m-is-paying-5-5-billion-to-resolve-300-000-lawsuits-o-1850780085)
 - [Charles Darwin Ate One of Everything He Discovered](https://www.thefactsite.com/charles-darwin-eating-habits/)
-- [Social media’s addictive loop compels users to share mindlessly](https://dornsife.usc.edu/news/stories/social-media-addiction-share-mindlessly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
