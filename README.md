@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vitalik Buterin on Twitter Community Notes](https://vitalik.ca/general/2023/08/16/communitynotes.html)
-- [How many years to senior engineer?](https://swizec.com/blog/how-many-years-to-senior-engineer/)
-- [We Put Half a Million Files in One Git Repository, Here&#39;s What We Learned &lpar;2022&rpar;](https://www.canva.dev/blog/engineering/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned/)
-- [The V Programming Language 0.4](https://vlang.io/)
-- [Fortran](https://fortran-lang.org/en/index.html)
+- [How to find time to learn after work &lpar;2017&rpar;](https://www.feststelltaste.de/how-to-find-time-to-learn-after-work/)
+- [Self-driving cars less likely to detect children and people of color](https://www.businessinsider.com/self-driving-cars-less-likely-detect-kids-people-of-color-2023-8)
+- [New Images and Video Confirm Austin-Made Tesla Model Y Has Cracked Front Casting](https://www.autoevolution.com/news/new-images-and-video-confirm-austin-made-tesla-model-y-has-cracked-front-casting-220165.html)
+- [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts/)
+- [AI art could enhance humanity&#39;s collective memory [video]](https://www.ted.com/talks/refik_anadol_how_ai_art_could_enhance_humanity_s_collective_memory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
