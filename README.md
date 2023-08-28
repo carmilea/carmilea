@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Design Programs &lpar;2023&rpar;](https://htdp.org/2023-8-14/Book/index.html)
-- [Mastercard ends Binance card partnership in latest blow to crypto giant](https://www.cnbc.com/2023/08/25/mastercard-ends-binance-card-partnership.html)
-- [CLI text processing with GNU awk](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
-- [Inmos and the Transputer – Parallel Ventures](https://thechipletter.substack.com/p/inmos-and-the-transputer-part-1-parallel)
-- [The Elements of Style [pdf]](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf)
+- [VanCubic Camper Modules Turn Your Cargo Van into a Modern House on Wheels in 1hr](https://www.autoevolution.com/news/vancubic-camper-modules-turn-your-cargo-van-into-a-modern-house-on-wheels-in-just-an-hour-220182.html)
+- [Polish railway system hacked, trains forced to stop by attackers](https://twitter.com/vxunderground/status/1695604752661295610)
+- [Pricing your SaaS on the demand curve using the Pareto power law](https://www.heymarketcurve.com/blog/saas-pricing)
+- [Ask HN: Is it possible to get a conversation with a CEO from here?](https://news.ycombinator.com/item?id=37291130)
+- [Why the AGPL is often unenforceable &lpar;2015&rpar;](https://www.devever.net/~hl/agplunenforceable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
