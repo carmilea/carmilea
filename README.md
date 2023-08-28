@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Design Programs &lpar;2023&rpar;](https://htdp.org/2023-8-14/Book/index.html)
 - [Mastercard ends Binance card partnership in latest blow to crypto giant](https://www.cnbc.com/2023/08/25/mastercard-ends-binance-card-partnership.html)
-- [Learn GNU Awk with hundreds of examples and exercises](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
+- [CLI text processing with GNU awk](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
 - [Inmos and the Transputer – Parallel Ventures](https://thechipletter.substack.com/p/inmos-and-the-transputer-part-1-parallel)
 - [The Elements of Style [pdf]](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf)
-- [West Point discovers time capsule from 1828](https://www.westpoint.edu/news/press-releases/west-point-discovers-time-capsule-monument-base)
 <!-- BLOG-POST-LIST:END -->
 
 ---
