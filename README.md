@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Building a Financial Analytics App Using OpenAI &amp; Langchain](https://www.youtube.com/watch?v=N7kSXyB4q8E)
 - [How to Build a Llama 2 Fully Private GenAI App](https://www.youtube.com/watch?v=F3aqTtwoj9Q)
 - [How to Build a Sentiment Analysis App with Hugging Face](https://www.youtube.com/watch?v=wUelInm-9Ro)
 - [Using Datadog to monitor the health and performance of your SingleStoreDB databases](https://www.youtube.com/watch?v=af3jZO4B7yY)
 - [How to Use Census to Connect SingleStore to All Your Downstream Business Apps](https://www.youtube.com/watch?v=0-IwVxgzukY)
-- [Getting Started with the Blazing-Fast @SingleStore Kai API](https://www.youtube.com/watch?v=IdRVKV_kBc8)
 <!-- YOUTUBE:END -->
 
 
