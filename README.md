@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What can I do as an amateur hacker to get the best programming job next year?](https://news.ycombinator.com/item?id=37296247)
-- [The golden age for neobanks and fintechs is coming](https://easilyamused.beehiiv.com/p/less-banks-banks)
-- [Show HN: Turning Websites into Animated Videos](https://www.minidemo.app/)
-- [SEC brought its first non-fungible token enforcement action](https://www.sec.gov/news/statement/peirce-uyeda-statement-nft-082823)
-- [Steel Bank Common Lisp 2.3.8 released: “a mark-region parallel GC is available”](https://www.sbcl.org/news.html#2.3.8)
+- [SiPhox &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/siphox/jobs/nFufcgs-siphox-kit-team-lead-director-level)
+- [Nvidia on the Mountaintop](https://stratechery.com/2023/nvidia-on-the-mountaintop/)
+- [Fig Has Joined AWS](https://fig.io/blog/post/fig-joins-aws)
+- [Our startup received GDPR violation “notice”](https://www.jitbit.com/news/gdpr-threat/)
+- [Most cancer screenings don’t extend life, study finds](https://www.cnn.com/2023/08/28/health/cancer-screenings-extend-life-wellness/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
