@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kodable is hiring a Senior Fullstack Engineer to help us teach kids to code](https://www.indeed.com/job/senior-full-stack-engineer-c38525c084b29fa2?_gl=1*1s9dm2h*_gcl_au*NjI1Nzg0NDk2LjE2OTE0NDA1MDE.)
+- [Bioregions 2023](https://www.oneearth.org/bioregions-2023/)
+- [A17T: Atomic Design Toolkit and Tailwind CSS Plugin](https://a17t.miles.land/)
 - [A JVM in Rust part 5 – Executing instructions](https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/)
 - [Raise Less, Build More](https://trohan.com/2023/08/20/raise-less-build-more/)
-- [Serial adapter / reboot controller for Apple M1/M2](https://www.tindie.com/products/aaafnraa/serial-adapter-reboot-controller-for-apple-m1m2/)
-- [Utopia Clicker](https://tinysubversions.com/game/utopia/)
-- [When your classmates threaten you with felony charges](https://miles.land/posts/classmates-legal-threat-fizz-defcon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
