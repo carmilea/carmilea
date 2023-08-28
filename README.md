@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [For Antarctica’s emperor penguins, ‘there is no time left’](https://www.nationalgeographic.com/premium/article/time-running-out-antarcticas-emperor-penguins-breeding-failure)
-- [Wet-Bulb Temperature](https://en.wikipedia.org/wiki/Wet-bulb_temperature)
-- [E-Bike Industry Blames Consumers for Fires to Undermine Right to Repair Laws](https://www.techdirt.com/2023/08/28/e-bike-industry-blames-consumers-for-fires-in-effort-to-undermine-right-to-repair-laws/)
-- [Hackers can get your IP through Skype by just sending a link, no click required](https://www.404media.co/hackers-find-your-skype-ip-address-microsoft-wont-fix/)
-- [Ohio LinuxFest 2023 Conference Speakers](https://olfconference.org/speakers/)
+- [What can I do as an amateur hacker to get the best programming job next year?](https://news.ycombinator.com/item?id=37296247)
+- [The golden age for neobanks and fintechs is coming](https://easilyamused.beehiiv.com/p/less-banks-banks)
+- [Show HN: Turning Websites into Animated Videos](https://www.minidemo.app/)
+- [SEC brought its first non-fungible token enforcement action](https://www.sec.gov/news/statement/peirce-uyeda-statement-nft-082823)
+- [Steel Bank Common Lisp 2.3.8 released: “a mark-region parallel GC is available”](https://www.sbcl.org/news.html#2.3.8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
