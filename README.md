@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Total data loss after botched GitOps and failed backups](https://firefish.social/notes/9iqefgi8rzfksnqc)
+- [Crumb,a New Programming Language of No Keywords, and Everything Is a Function](https://github.com/liam-ilan/crumb)
 - [Scrum is a cancer](https://twitter.com/svpino/status/1695806027256475777)
 - [West Point discovers time capsule from 1828](https://www.westpoint.edu/news/press-releases/west-point-discovers-time-capsule-monument-base)
 - [Answering ambiguous questions with a database of questions, answers, revisions](https://arxiv.org/abs/2308.08661)
-- [Evergrande shares plunge as much as 87% as trading resumes after 17 months](https://www.cnbc.com/2023/08/28/china-evergrande-shares-plunge-as-trading-resumes-trade-after-17-months.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
