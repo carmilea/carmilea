@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fortran](https://fortran-lang.org/en/index.html)
 - [VanCubic Camper Modules Turn Your Cargo Van into a Modern House on Wheels in 1hr](https://www.autoevolution.com/news/vancubic-camper-modules-turn-your-cargo-van-into-a-modern-house-on-wheels-in-just-an-hour-220182.html)
 - [Polish railway system hacked, trains forced to stop by attackers](https://twitter.com/vxunderground/status/1695604752661295610)
 - [Pricing your SaaS on the demand curve using the Pareto power law](https://www.heymarketcurve.com/blog/saas-pricing)
-- [Ask HN: Is it possible to get a conversation with a CEO from here?](https://news.ycombinator.com/item?id=37291130)
 - [Why the AGPL is often unenforceable &lpar;2015&rpar;](https://www.devever.net/~hl/agplunenforceable)
 <!-- BLOG-POST-LIST:END -->
 
