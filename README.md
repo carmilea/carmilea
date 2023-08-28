@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Don’t Need a New Twitter](https://calnewport.com/we-dont-need-a-new-twitter/)
+- [For Antarctica’s emperor penguins, ‘there is no time left’](https://www.nationalgeographic.com/premium/article/time-running-out-antarcticas-emperor-penguins-breeding-failure)
 - [Wet-Bulb Temperature](https://en.wikipedia.org/wiki/Wet-bulb_temperature)
 - [E-Bike Industry Blames Consumers for Fires to Undermine Right to Repair Laws](https://www.techdirt.com/2023/08/28/e-bike-industry-blames-consumers-for-fires-in-effort-to-undermine-right-to-repair-laws/)
+- [Hackers can get your IP through Skype by just sending a link, no click required](https://www.404media.co/hackers-find-your-skype-ip-address-microsoft-wont-fix/)
 - [Ohio LinuxFest 2023 Conference Speakers](https://olfconference.org/speakers/)
-- [A Harvard professor became the world’s leading alien hunter](https://www.nytimes.com/2023/08/24/magazine/avi-loeb-alien-hunter.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
