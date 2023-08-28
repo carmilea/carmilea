@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Total data loss after botched GitOps and failed backups](https://firefish.social/notes/9iqefgi8rzfksnqc)
+- [Scrum is a cancer](https://twitter.com/svpino/status/1695806027256475777)
+- [West Point discovers time capsule from 1828](https://www.westpoint.edu/news/press-releases/west-point-discovers-time-capsule-monument-base)
+- [Answering ambiguous questions with a database of questions, answers, revisions](https://arxiv.org/abs/2308.08661)
 - [Evergrande shares plunge as much as 87% as trading resumes after 17 months](https://www.cnbc.com/2023/08/28/china-evergrande-shares-plunge-as-trading-resumes-trade-after-17-months.html)
-- [72-Year-Old C++ Creator Bjarne Stroustrup Shares Life Advice](https://developers.slashdot.org/story/23/08/26/029217/72-year-old-c-creator-bjarne-stroustrup-shares-life-advice)
-- [Milk Bag](https://en.wikipedia.org/wiki/Milk_bag)
-- [Hacker Smacker: Friend/foe individual writers on Hacker News](https://github.com/samuelclay/hackersmacker)
-- [Writing Linux Modules in Ada – Part 1](http://www.nihamkin.com/2016/10/23/writing-linux-modules-in-ada-part-1/#writing-linux-modules-in-ada-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
