@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kodable is hiring a Senior Fullstack Engineer to help us teach kids to code](https://www.indeed.com/job/senior-full-stack-engineer-c38525c084b29fa2?_gl=1*1s9dm2h*_gcl_au*NjI1Nzg0NDk2LjE2OTE0NDA1MDE.)
+- [Water-Purifying Cup Makes Drinkable Water from Creeks and Streams](https://cockrell.utexas.edu/news/archive/9720-water-purifying-cup-makes-drinkable-water-from-creeks-and-streams-in-minutes)
+- [Kodable &lpar;YC IK12&rpar; is hiring a senior engineer to help us teach kids to code](https://www.indeed.com/job/senior-full-stack-engineer-c38525c084b29fa2?_gl=1*1s9dm2h*_gcl_au*NjI1Nzg0NDk2LjE2OTE0NDA1MDE.)
 - [Bioregions 2023](https://www.oneearth.org/bioregions-2023/)
 - [A17T: Atomic Design Toolkit and Tailwind CSS Plugin](https://a17t.miles.land/)
 - [A JVM in Rust part 5 – Executing instructions](https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/)
-- [Raise Less, Build More](https://trohan.com/2023/08/20/raise-less-build-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
