@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to find time to learn after work &lpar;2017&rpar;](https://www.feststelltaste.de/how-to-find-time-to-learn-after-work/)
-- [Self-driving cars less likely to detect children and people of color](https://www.businessinsider.com/self-driving-cars-less-likely-detect-kids-people-of-color-2023-8)
-- [New Images and Video Confirm Austin-Made Tesla Model Y Has Cracked Front Casting](https://www.autoevolution.com/news/new-images-and-video-confirm-austin-made-tesla-model-y-has-cracked-front-casting-220165.html)
-- [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts/)
-- [AI art could enhance humanity&#39;s collective memory [video]](https://www.ted.com/talks/refik_anadol_how_ai_art_could_enhance_humanity_s_collective_memory)
+- [Ask HN: Are “theoretical” concepts being lost by new engineers?](https://news.ycombinator.com/item?id=37293143)
+- [Tesla braces for its first trial involving Autopilot fatality](https://www.reuters.com/business/autos-transportation/tesla-braces-its-first-trial-involving-autopilot-fatality-2023-08-28/)
+- [‘Oh my God’: live worm found in Australian woman’s brain in worldfirst discovery](https://www.theguardian.com/australia-news/2023/aug/28/live-worm-living-womans-brain-australia-depression-forgetfulness)
+- [Feds probing roughly 5k pilots suspected of withholding major health issues](https://www.businessinsider.com/faa-investigating-pilots-suspicion-major-health-issues-flying-veterans-benefits-2023-8)
+- [Google Gemini Eats the World](https://www.semianalysis.com/p/google-gemini-eats-the-world-gemini)
 <!-- BLOG-POST-LIST:END -->
 
 ---
