@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bicyclists Deserve the Right to Free Movement](https://www.thenation.com/article/society/bicycles-cycling-bike-safety/)
+- [Popularity of DOS/4GW made Win95 game compat easier, but with higher stakes](https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661)
+- [A Deep Dive into Weaviate&#39;s Fusion Algorithms for Hybrid Search](https://weaviate.io/blog/hybrid-search-fusion-algorithms)
 - [iFixit Petitions Government for Right to Hack McDonald&#39;s Ice Cream Machine](https://www.404media.co/activists-petition-government-for-right-to-hack-mcdonalds-mcflurry-machines-to-repair-them/)
 - [FBI, Partners Dismantle Qakbot Infrastructure in Multinational Cyber Takedown](https://www.fbi.gov/news/stories/fbi-partners-dismantle-qakbot-infrastructure-in-multinational-cyber-takedown)
-- [OneSignal &lpar;YC S11. Email, SMS, Push Notification Platform&rpar; Is Hiring Engineers](https://onesignal.com/careers#section-job)
-- [Show HN: Langfuse – Open-source observability and analytics for LLM apps](https://github.com/langfuse/langfuse)
-- [MagicEdit: High-Fidelity Temporally Coherent Video Editing](https://magic-edit.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
