@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visualization of Common Algorithms](https://visualgo.net/en)
+- [Elixir Saves Pinterest $2M a Year in Server Costs](https://paraxial.io/blog/elixir-savings)
+- [Announcing the Pollen API](https://cloud.google.com/blog/products/maps-platform/announcing-pollen-api-providing-actionable-info-about-airborne-pollen-levels-worldwide)
+- [Abandoned and Little-Known Airfields](http://www.airfields-freeman.com/)
 - [Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
-- [Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)
-- [Source: Google Pixel 8 will get more Android OS updates](https://9to5google.com/2023/08/28/google-pixel-8-android-os-updates/)
-- [A note to young folks: download the things you love](https://birchtree.me/blog/a-note-to-young-folks-download-the-videos-you-love/)
-- [Alexandria: A minimalistic cross-platform eBook reader](https://github.com/btpf/Alexandria)
 <!-- BLOG-POST-LIST:END -->
 
 ---
