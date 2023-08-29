@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Asus reportedly shuts down Zenfone division, no more compact flagships](https://www.androidauthority.com/asus-reportedly-shuts-down-zenfone-division-3358431/)
-- [The Ocean Has a Fever](https://earthobservatory.nasa.gov/images/151743/the-ocean-has-a-fever)
-- [Great way to visualize “Graph Theory” and suck great volumes of time away](https://treksit.com)
+- [Amazon CEO warns remote workers: ‘It’s probably not going to work out for you’](https://nypost.com/2023/08/28/amazon-ceo-andy-jassy-warns-remote-workers-its-probably-not-going-to-work-out-for-you/)
+- [The Heart of W. Edwards Deming](https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards)
+- [Interstellar puzzle based on graph theory](https://treksit.com)
 - [Padlet &lpar;YC W13&rpar; is hiring in San Francisco and Singapore](https://padlet.jobs)
-- [WebLLM: Llama2 in the Browser](https://webllm.mlc.ai/)
+- [New research finds Late Pleistocene glaciations terminated by Earth&#39;s axis tilt](https://phys.org/news/2023-08-late-pleistocene-glaciations-terminated-earth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
