@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Water-purifying cup makes drinkable water from creeks and streams](https://cockrell.utexas.edu/news/archive/9720-water-purifying-cup-makes-drinkable-water-from-creeks-and-streams-in-minutes)
-- [Kodable &lpar;YC IK12&rpar; is hiring a senior engineer to help us teach kids to code](https://www.indeed.com/job/senior-full-stack-engineer-c38525c084b29fa2?_gl=1*1s9dm2h*_gcl_au*NjI1Nzg0NDk2LjE2OTE0NDA1MDE.)
-- [Bioregions 2023](https://www.oneearth.org/bioregions-2023/)
-- [A JVM in Rust part 5 – Executing instructions](https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/)
-- [Raise less, build more](https://trohan.com/2023/08/20/raise-less-build-more/)
+- [Padlet &lpar;YC W13&rpar; Is Hiring in San Francisco and Singapore](https://padlet.jobs)
+- [Fi now opts you into the use of your CPNI by Alphabet affiliates](https://fi.sds.modeaondemand.com/en-us/tutorial/app-googlefi-android-smartphone/latest/feature_privacy_settings_web/)
+- [Tech sector Salaries have fallen up to 15 per cent as fired talent floods market](https://www.afr.com/technology/tech-workers-take-20-000-plus-pay-cuts-as-fired-talent-floods-market-20230824-p5dz4o)
+- [Google moderates Google Collections items](https://strangeobject.space/@silvermoon82/110969122337810598)
+- [False Canopies on Fighters Work, One Almost Killed Me](https://www.thedrive.com/the-war-zone/false-canopies-on-fighters-work-one-almost-killed-me)
 <!-- BLOG-POST-LIST:END -->
 
 ---
