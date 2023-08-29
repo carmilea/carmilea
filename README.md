@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Asus reportedly shuts down Zenfone division, no more compact flagships](https://www.androidauthority.com/asus-reportedly-shuts-down-zenfone-division-3358431/)
+- [The Ocean Has a Fever](https://earthobservatory.nasa.gov/images/151743/the-ocean-has-a-fever)
+- [Great way to visualize “Graph Theory” and suck great volumes of time away](https://treksit.com)
 - [Padlet &lpar;YC W13&rpar; is hiring in San Francisco and Singapore](https://padlet.jobs)
-- [Fi now opts you into the use of your CPNI by Alphabet affiliates](https://fi.sds.modeaondemand.com/en-us/tutorial/app-googlefi-android-smartphone/latest/feature_privacy_settings_web/)
 - [WebLLM: Llama2 in the Browser](https://webllm.mlc.ai/)
-- [Gitlab Gitaly project now supports the SHA-256 hashing algorithm](https://about.gitlab.com/blog/2023/08/28/sha256-support-in-gitaly/)
-- [The sudden demise of Indian vultures killed thousands of people](https://www.economist.com/graphic-detail/2023/08/22/the-sudden-demise-of-indian-vultures-killed-thousands-of-people)
 <!-- BLOG-POST-LIST:END -->
 
 ---
