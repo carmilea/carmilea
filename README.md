@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bicyclists Deserve the Right to Free Movement](https://www.thenation.com/article/society/bicycles-cycling-bike-safety/)
-- [Popularity of DOS/4GW made Win95 game compat easier, but with higher stakes](https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661)
-- [A Deep Dive into Weaviate&#39;s Fusion Algorithms for Hybrid Search](https://weaviate.io/blog/hybrid-search-fusion-algorithms)
-- [iFixit Petitions Government for Right to Hack McDonald&#39;s Ice Cream Machine](https://www.404media.co/activists-petition-government-for-right-to-hack-mcdonalds-mcflurry-machines-to-repair-them/)
-- [FBI, Partners Dismantle Qakbot Infrastructure in Multinational Cyber Takedown](https://www.fbi.gov/news/stories/fbi-partners-dismantle-qakbot-infrastructure-in-multinational-cyber-takedown)
+- [Drumscript: A simple MIDI drum machine scripting language](https://github.com/tepreece/drumscript)
+- [I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/)
+- [Jama: Evidence does not show that common cancer screening tests extend lifetime](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2808648)
+- [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
+- [AlloyDB AI: Generative AI applications with PostgreSQL](https://cloud.google.com/blog/products/databases/helping-developers-build-gen-ai-apps-with-google-cloud-databases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
