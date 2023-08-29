@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iFixit Petitions Government for Right to Hack McDonald&#39;s Ice Cream Machine](https://www.404media.co/activists-petition-government-for-right-to-hack-mcdonalds-mcflurry-machines-to-repair-them/)
 - [FBI, Partners Dismantle Qakbot Infrastructure in Multinational Cyber Takedown](https://www.fbi.gov/news/stories/fbi-partners-dismantle-qakbot-infrastructure-in-multinational-cyber-takedown)
 - [OneSignal &lpar;YC S11. Email, SMS, Push Notification Platform&rpar; Is Hiring Engineers](https://onesignal.com/careers#section-job)
-- [Embracing Sabbaticals, Sunsetting Retirement Age](https://jacek.migdal.pl/2023/08/16/sabbaticals.html)
+- [Show HN: Langfuse – Open-source observability and analytics for LLM apps](https://github.com/langfuse/langfuse)
 - [MagicEdit: High-Fidelity Temporally Coherent Video Editing](https://magic-edit.github.io/)
-- [An End, and a Beginning](https://museapp.com/end-and-beginning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
