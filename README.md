@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to share a NumPy array between processes](https://superfastpython.com/numpy-share-array-processes/)
-- [Toyota to halt operations at all Japan assembly plants due to system failure](https://www.reuters.com/business/autos-transportation/toyota-halts-operations-12-japan-factories-due-system-failure-nhk-2023-08-29/)
-- [Grumpy Website](https://grumpy.website/)
-- [Changing my relationship with GitHub Copilot](https://ntietz.com/blog/changing-my-relationship-with-github-copilot/)
-- [The best approach I&#39;ve seen for hiring junior engineers](https://www.rubick.com/hiring-new-engineers/)
+- [Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)
+- [Source: Google Pixel 8 will get more Android OS updates](https://9to5google.com/2023/08/28/google-pixel-8-android-os-updates/)
+- [A note to young folks: download the things you love](https://birchtree.me/blog/a-note-to-young-folks-download-the-videos-you-love/)
+- [Traffic 101: Packets Mostly Flow](https://slack.engineering/traffic-101-packets-mostly-flow/)
+- [Alexandria: A minimalistic cross-platform eBook reader](https://github.com/btpf/Alexandria)
 <!-- BLOG-POST-LIST:END -->
 
 ---
