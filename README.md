@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [StarCitizen Server Meshing Architecture](https://sc-server-meshing.info/wiki)
-- [America Is Using Up Its Groundwater Like There’s No Tomorrow](https://www.nytimes.com/interactive/2023/08/28/climate/groundwater-drying-climate-change.html)
-- [I don’t buy “duplication is cheaper than the wrong abstraction” &lpar;2021&rpar;](https://www.codewithjason.com/duplication-cheaper-wrong-abstraction/)
-- [Simplifying GPU Application Development with HMM](https://developer.nvidia.com/blog/simplifying-gpu-application-development-with-heterogeneous-memory-management/)
-- [CoinTracker &lpar;YC W18&rpar; Hiring a Product Leader to Build B2B Product &lpar;Remote&rpar;](https://jobs.ashbyhq.com/cointracker/b32d47df-5650-4424-8bd7-1ec151ad9922)
+- [C.R. Rao: A Life in Statistics](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
+- [Whistleblower alleges Booz Allen was overcharging U.S. taxpayers for losses](https://www.nbcnews.com/news/investigations/marine-sarah-feinberg-whistleblower-booz-allen-69-million-rcna102098)
+- [Keystroke timing obfuscation added to SSH&lpar;1&rpar;](https://undeadly.org/cgi?action=article;sid=20230829051257)
+- [Analysis of Obfuscation Techniques Found in Apple FairPlay](https://nicolo.dev/en/blog/fairplay-apple-obfuscation/)
+- [Accessible Palette: stop using HSL for color systems](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems)
 <!-- BLOG-POST-LIST:END -->
 
 ---
