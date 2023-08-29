@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C.R. Rao: A Life in Statistics](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
-- [Whistleblower alleges Booz Allen was overcharging U.S. taxpayers for losses](https://www.nbcnews.com/news/investigations/marine-sarah-feinberg-whistleblower-booz-allen-69-million-rcna102098)
-- [Keystroke timing obfuscation added to SSH&lpar;1&rpar;](https://undeadly.org/cgi?action=article;sid=20230829051257)
-- [Analysis of Obfuscation Techniques Found in Apple FairPlay](https://nicolo.dev/en/blog/fairplay-apple-obfuscation/)
-- [Accessible Palette: stop using HSL for color systems](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems)
+- [ChatGPT web and mobile UIs unavailable](https://status.openai.com/incidents/5l07rfcr5fyn)
+- [Starlink&#39;s User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
+- [She paid husband&#39;s hospital bill. A year after his death, they wanted more money](https://text.npr.org/1194289492)
+- [Extreme poverty: How far have we come, and how far do we still have to go?](https://ourworldindata.org/extreme-poverty-in-brief)
+- [C.R. Rao: A Life in Statistics &lpar;2020&rpar;](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
