@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT web and mobile UIs unavailable](https://status.openai.com/incidents/5l07rfcr5fyn)
+- [MagicEdit: High-Fidelity Temporally Coherent Video Editing](https://magic-edit.github.io/)
+- [‘Life or Death:’ AI-Generated Mushroom Foraging Books Are All over Amazon](https://www.404media.co/ai-generated-mushroom-foraging-books-amazon/)
+- [Lesser Known Postgres Features](https://hakibenita.com/postgresql-unknown-features)
+- [Air pollution greatest global threat to human health, says benchmark study](https://phys.org/news/2023-08-air-pollution-greatest-global-threat.html)
 - [Starlink&#39;s User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
-- [She paid husband&#39;s hospital bill. A year after his death, they wanted more money](https://text.npr.org/1194289492)
-- [Extreme poverty: How far have we come, and how far do we still have to go?](https://ourworldindata.org/extreme-poverty-in-brief)
-- [C.R. Rao: A Life in Statistics &lpar;2020&rpar;](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
