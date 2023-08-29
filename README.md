@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Padlet &lpar;YC W13&rpar; Is Hiring in San Francisco and Singapore](https://padlet.jobs)
+- [Padlet &lpar;YC W13&rpar; is hiring in San Francisco and Singapore](https://padlet.jobs)
 - [Fi now opts you into the use of your CPNI by Alphabet affiliates](https://fi.sds.modeaondemand.com/en-us/tutorial/app-googlefi-android-smartphone/latest/feature_privacy_settings_web/)
-- [Tech sector Salaries have fallen up to 15 per cent as fired talent floods market](https://www.afr.com/technology/tech-workers-take-20-000-plus-pay-cuts-as-fired-talent-floods-market-20230824-p5dz4o)
-- [Google moderates Google Collections items](https://strangeobject.space/@silvermoon82/110969122337810598)
-- [False Canopies on Fighters Work, One Almost Killed Me](https://www.thedrive.com/the-war-zone/false-canopies-on-fighters-work-one-almost-killed-me)
+- [WebLLM: Llama2 in the Browser](https://webllm.mlc.ai/)
+- [Gitlab Gitaly project now supports the SHA-256 hashing algorithm](https://about.gitlab.com/blog/2023/08/28/sha256-support-in-gitaly/)
+- [The sudden demise of Indian vultures killed thousands of people](https://www.economist.com/graphic-detail/2023/08/22/the-sudden-demise-of-indian-vultures-killed-thousands-of-people)
 <!-- BLOG-POST-LIST:END -->
 
 ---
