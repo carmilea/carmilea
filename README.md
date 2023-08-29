@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI, Partners Dismantle Qakbot Infrastructure in Multinational Cyber Takedown](https://www.fbi.gov/news/stories/fbi-partners-dismantle-qakbot-infrastructure-in-multinational-cyber-takedown)
+- [OneSignal &lpar;YC S11. Email, SMS, Push Notification Platform&rpar; Is Hiring Engineers](https://onesignal.com/careers#section-job)
+- [Embracing Sabbaticals, Sunsetting Retirement Age](https://jacek.migdal.pl/2023/08/16/sabbaticals.html)
 - [MagicEdit: High-Fidelity Temporally Coherent Video Editing](https://magic-edit.github.io/)
-- [‘Life or Death:’ AI-Generated Mushroom Foraging Books Are All over Amazon](https://www.404media.co/ai-generated-mushroom-foraging-books-amazon/)
-- [Lesser Known Postgres Features](https://hakibenita.com/postgresql-unknown-features)
-- [Air pollution greatest global threat to human health, says benchmark study](https://phys.org/news/2023-08-air-pollution-greatest-global-threat.html)
-- [Starlink&#39;s User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
+- [An End, and a Beginning](https://museapp.com/end-and-beginning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
