@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 - [AI Crap – Drew Devault](https://drewdevault.com/2023/08/29/2023-08-29-AI-crap.html)
+- [Automatic Generation of Visualizations and Infographics with LLMs](https://microsoft.github.io/lida/)
 - [The Interim Computer Museum](https://icm.museum)
 - [Visualization of Common Algorithms](https://visualgo.net/en)
-- [Elixir Saves Pinterest $2M a Year in Server Costs](https://paraxial.io/blog/elixir-savings)
-- [Announcing the Pollen API](https://cloud.google.com/blog/products/maps-platform/announcing-pollen-api-providing-actionable-info-about-airborne-pollen-levels-worldwide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
