@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to share a NumPy array between processes](https://superfastpython.com/numpy-share-array-processes/)
+- [Toyota to halt operations at all Japan assembly plants due to system failure](https://www.reuters.com/business/autos-transportation/toyota-halts-operations-12-japan-factories-due-system-failure-nhk-2023-08-29/)
+- [Grumpy Website](https://grumpy.website/)
 - [Changing my relationship with GitHub Copilot](https://ntietz.com/blog/changing-my-relationship-with-github-copilot/)
 - [The best approach I&#39;ve seen for hiring junior engineers](https://www.rubick.com/hiring-new-engineers/)
-- [The Heart of W. Edwards Deming](https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards)
-- [Padlet &lpar;YC W13&rpar; is hiring in San Francisco and Singapore](https://padlet.jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
