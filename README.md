@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How far can you jump from a swing?](https://www.alexmolas.com/2023/08/18/how-far-can-you-jump.html)
+- [ISPs Should Not Police Online Speech – No Matter How Awful It Is](https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it)
 - [Drumscript: A simple MIDI drum machine scripting language](https://github.com/tepreece/drumscript)
-- [I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/)
-- [Jama: Evidence does not show that common cancer screening tests extend lifetime](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2808648)
-- [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
-- [AlloyDB AI: Generative AI applications with PostgreSQL](https://cloud.google.com/blog/products/databases/helping-developers-build-gen-ai-apps-with-google-cloud-databases)
+- [Griffin - A fully-regulated, API-driven bank, with Clojure](https://www.juxt.pro/blog/clojure-in-griffin/)
+- [The FBI Has Collected DNA Profiles for 21M People](https://theintercept.com/2023/08/29/fbi-dna-collection-surveillance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
