@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [StarCitizen Server Meshing Architecture](https://sc-server-meshing.info/wiki)
+- [America Is Using Up Its Groundwater Like There’s No Tomorrow](https://www.nytimes.com/interactive/2023/08/28/climate/groundwater-drying-climate-change.html)
+- [I don’t buy “duplication is cheaper than the wrong abstraction” &lpar;2021&rpar;](https://www.codewithjason.com/duplication-cheaper-wrong-abstraction/)
+- [Simplifying GPU Application Development with HMM](https://developer.nvidia.com/blog/simplifying-gpu-application-development-with-heterogeneous-memory-management/)
 - [CoinTracker &lpar;YC W18&rpar; Hiring a Product Leader to Build B2B Product &lpar;Remote&rpar;](https://jobs.ashbyhq.com/cointracker/b32d47df-5650-4424-8bd7-1ec151ad9922)
-- [New study finds microplastics infiltrate all systems of body, alter behaviour](https://www.sustainableplastics.com/news/microplastics-found-pass-blood-brain-barrier-even-though-ingested-drinking-water)
-- [Elevator Saga: The elevator programming game](https://play.elevatorsaga.com/index.html)
-- [Show HN: Advanced Tab Manager for Firefox](https://addons.mozilla.org/en-US/firefox/addon/grasshopper-urls/)
-- [Neutrons prove ‘Bond villain’ did not cause Arecibo telescope collapse](https://www.ornl.gov/news/neutrons-prove-bond-villain-did-not-cause-arecibo-telescope-collapse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
