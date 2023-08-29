@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon CEO warns remote workers: ‘It’s probably not going to work out for you’](https://nypost.com/2023/08/28/amazon-ceo-andy-jassy-warns-remote-workers-its-probably-not-going-to-work-out-for-you/)
+- [How to share a NumPy array between processes](https://superfastpython.com/numpy-share-array-processes/)
+- [Changing my relationship with GitHub Copilot](https://ntietz.com/blog/changing-my-relationship-with-github-copilot/)
+- [The best approach I&#39;ve seen for hiring junior engineers](https://www.rubick.com/hiring-new-engineers/)
 - [The Heart of W. Edwards Deming](https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards)
-- [Interstellar puzzle based on graph theory](https://treksit.com)
 - [Padlet &lpar;YC W13&rpar; is hiring in San Francisco and Singapore](https://padlet.jobs)
-- [New research finds Late Pleistocene glaciations terminated by Earth&#39;s axis tilt](https://phys.org/news/2023-08-late-pleistocene-glaciations-terminated-earth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
