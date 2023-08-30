@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Copyright Office wants to hear what people think about AI and copyright](https://www.theverge.com/2023/8/29/23851126/us-copyright-office-ai-public-comments)
+- [Could the Universe be a giant quantum computer?](https://www.nature.com/articles/d41586-023-02646-x)
+- [OSM River Basins](https://amandasaurus.github.io/osm-river-basins/#map=2/0/0)
 - [Understanding Llama 2 and the New Code Llama LLMs](https://magazine.sebastianraschka.com/p/ahead-of-ai-11-new-foundation-models)
 - [A DIY ‘bionic pancreas’ is changing diabetes care – what&#39;s next?](https://www.nature.com/articles/d41586-023-02648-9)
-- [Farmers Insurance Laying Off 11% of Workforce, Citing Industry Challenges](https://www.insurancejournal.com/news/national/2023/08/28/738095.htm)
-- [Microsoft is using malware-like pop-ups in Win11 to get people to ditch Chrome](https://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware)
-- [Hundreds of thousands trafficked to work as online scammers in SE Asia](https://www.ohchr.org/en/press-releases/2023/08/hundreds-thousands-trafficked-work-online-scammers-se-asia-says-un-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
