@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Green Revolution in ‘Carbon Valley’](https://www.noemamag.com/a-green-revolution-in-carbon-valley/)
+- [Intel Shows 8 Core 528 Thread Processor with Silicon Photonics](https://www.servethehome.com/intel-shows-8-core-528-thread-processor-with-silicon-photonics/)
+- [Equation Group Tools](https://github.com/x0rz/EQGRP)
 - [Pgvector 0.5.0 Feature Highlights and how tos](https://jkatz05.com/post/postgres/pgvector-overview-0.5.0/)
-- [Home – Database of Databases](https://dbdb.io/)
 - [Doas – dedicated OpenBSD application subexecutor](https://flak.tedunangst.com/post/doas)
-- [How far can you jump from a swing?](https://www.alexmolas.com/2023/08/18/how-far-can-you-jump.html)
-- [ISPs Should Not Police Online Speech – No Matter How Awful It Is](https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
