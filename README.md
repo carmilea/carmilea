@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Discovery of Spherules of Likely Extrasolar Composition in the Pacific Ocean [pdf]](https://lweb.cfa.harvard.edu/~loeb/Interstellar_Expedition.pdf)
+- [Putin’s Forever War](https://www.nytimes.com/2023/08/06/world/europe/putins-forever-war.html)
+- [Fomos: Experimental OS, built with Rust](https://github.com/Ruddle/Fomos)
 - [A Green Revolution in ‘Carbon Valley’](https://www.noemamag.com/a-green-revolution-in-carbon-valley/)
-- [Intel Shows 8 Core 528 Thread Processor with Silicon Photonics](https://www.servethehome.com/intel-shows-8-core-528-thread-processor-with-silicon-photonics/)
-- [Equation Group Tools](https://github.com/x0rz/EQGRP)
-- [Pgvector 0.5.0 Feature Highlights and how tos](https://jkatz05.com/post/postgres/pgvector-overview-0.5.0/)
-- [Doas – dedicated OpenBSD application subexecutor](https://flak.tedunangst.com/post/doas)
+- [Intel shows 8 core 528 thread processor with silicon photonics](https://www.servethehome.com/intel-shows-8-core-528-thread-processor-with-silicon-photonics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
