@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lockheed Martin is having a streetwear moment in South Korea](https://mashable.com/article/lockheed-martin-apparel-streetwear-south-korea)
-- [Google Removes ‘Pirate’ URLs from Users’ Privately Saved Links](https://torrentfreak.com/google-removes-pirate-sites-from-users-privately-saved-links-230830/)
+- [Full Speed Ahead: EV Study Reveals Impacts of Fast Charging](https://www.recurrentauto.com/research/impacts-of-fast-charging)
+- [How to Install Lima&lpar;runs command line Ubuntu&rpar; on macOS Using 9 Easy Steps](https://www.cyberithub.com/how-to-install-lima-on-macos-using-9-easy-steps/)
 - [Why do shared hospital rooms not violate HIPAA?](https://law.stackexchange.com/questions/28878/how-is-it-legal-for-a-hospital-to-put-two-patients-together-in-the-same-room-in)
 - [Mux &lpar;YC W16&rpar; is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
 - [At Taser maker Axon, ex-staffers say loyalty meant being tased or tattooed](https://www.reuters.com/investigates/special-report/axon-taser-exposures/)
