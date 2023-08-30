@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Bad Apple Font](https://blog.erk.dev/posts/anifont/)
 - [Jitsi.org has started requiring authentication](https://jitsi.org/blog/authentication-on-meet-jit-si/)
+- [Applying SRE Principles to CI/CD](https://buildkite.com/blog/applying-sre-principles-to-cicd)
 - [Discovery of spherules of likely extrasolar composition in the Pacific Ocean [pdf]](https://lweb.cfa.harvard.edu/~loeb/Interstellar_Expedition.pdf)
 - [Fomos: Experimental OS, built with Rust](https://github.com/Ruddle/Fomos)
-- [A Green Revolution in ‘Carbon Valley’](https://www.noemamag.com/a-green-revolution-in-carbon-valley/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
