@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Copyright Office wants to hear what people think about AI and copyright](https://www.theverge.com/2023/8/29/23851126/us-copyright-office-ai-public-comments)
-- [Could the Universe be a giant quantum computer?](https://www.nature.com/articles/d41586-023-02646-x)
+- [Decoupling isn&#39;t phoney – The global trading system is starting to rearrange](https://www.noahpinion.blog/p/decoupling-isnt-phoney)
+- [Honda targeting 50% weight reduction with EV solid state batteries](https://www.thedrive.com/news/honda-solid-state-batteries-will-offer-same-energy-density-at-half-the-weight)
+- [The Surprising Impact of Medium-Size Texts on PostgreSQL Performance &lpar;2020&rpar;](https://hakibenita.com/sql-medium-text-performance)
+- [Why I Traded My Smartphone for an Ax](https://www.thefp.com/p/why-i-traded-my-smartphone-for-an-ax)
 - [OSM River Basins](https://amandasaurus.github.io/osm-river-basins/#map=2/0/0)
-- [Understanding Llama 2 and the New Code Llama LLMs](https://magazine.sebastianraschka.com/p/ahead-of-ai-11-new-foundation-models)
-- [A DIY ‘bionic pancreas’ is changing diabetes care – what&#39;s next?](https://www.nature.com/articles/d41586-023-02648-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
