@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla ordered by auto regulators to provide data on ‘Elon mode’ configuration](https://www.cnbc.com/2023/08/30/tesla-ordered-by-nhtsa-to-provide-data-on-elon-mode-for-autopilot.html)
+- [California court dismisses lawsuit over nuclear power plant](https://www.thenewlede.org/2023/08/california-court-dismisses-lawsuit-over-nuclear-power-plant/)
 - [Bad Apple Font](https://blog.erk.dev/posts/anifont/)
 - [Jitsi.org has started requiring authentication](https://jitsi.org/blog/authentication-on-meet-jit-si/)
 - [Applying SRE Principles to CI/CD](https://buildkite.com/blog/applying-sre-principles-to-cicd)
-- [Discovery of spherules of likely extrasolar composition in the Pacific Ocean [pdf]](https://lweb.cfa.harvard.edu/~loeb/Interstellar_Expedition.pdf)
-- [Fomos: Experimental OS, built with Rust](https://github.com/Ruddle/Fomos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
