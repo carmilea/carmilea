@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lockheed Martin is having a streetwear moment in South Korea](https://mashable.com/article/lockheed-martin-apparel-streetwear-south-korea)
+- [Google Removes ‘Pirate’ URLs from Users’ Privately Saved Links](https://torrentfreak.com/google-removes-pirate-sites-from-users-privately-saved-links-230830/)
+- [Why do shared hospital rooms not violate HIPAA?](https://law.stackexchange.com/questions/28878/how-is-it-legal-for-a-hospital-to-put-two-patients-together-in-the-same-room-in)
 - [Mux &lpar;YC W16&rpar; is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
-- [Designing Deep Networks to Process Other Deep Networks](https://developer.nvidia.com/blog/designing-deep-networks-to-process-other-deep-networks/)
-- [Show HN: I automated 1/2 of my typing](https://github.com/eschluntz/compress)
-- [FCC refuses to scrap rule requiring ISPs to list every monthly fee](https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/)
-- [Shocks to the system: Don DeLillo’s novels of the cold war and its aftermath](https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202)
+- [At Taser maker Axon, ex-staffers say loyalty meant being tased or tattooed](https://www.reuters.com/investigates/special-report/axon-taser-exposures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
