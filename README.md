@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pharmacist says he has filled Alzheimer&#39;s prescriptions for members of Congress &lpar;2017&rpar;](https://www.vox.com/policy-and-politics/2017/10/11/16458142/congress-alzheimers-pharmacist)
-- [Tesla Could Be Fined Daily over Autopilot’s Nag-Free ‘Elon Mode’](https://www.thedrive.com/news/tesla-could-be-fined-daily-over-autopilots-secret-nag-free-elon-mode)
+- [Mux &lpar;YC W16&rpar; is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
+- [Designing Deep Networks to Process Other Deep Networks](https://developer.nvidia.com/blog/designing-deep-networks-to-process-other-deep-networks/)
 - [Show HN: I automated 1/2 of my typing](https://github.com/eschluntz/compress)
 - [FCC refuses to scrap rule requiring ISPs to list every monthly fee](https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/)
-- [Yes, people often forget to cancel monthly subscriptions – and the costs add up](https://text.npr.org/1196059950)
+- [Shocks to the system: Don DeLillo’s novels of the cold war and its aftermath](https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
