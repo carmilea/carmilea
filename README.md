@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DevTools Tips](https://devtoolstips.org/)
-- [Fairphone 5](https://shop.fairphone.com/fairphone-5)
-- [Titanium micro-spikes skewer resistant superbugs](https://www.rmit.edu.au/news/all-news/2023/aug/antifungal-titanium)
-- [Linux 6.6 to Protect Against Illicit Behavior of Nvidia Proprietary Driver](https://www.phoronix.com/news/Linux-6.6-Illicit-NVIDIA-Change)
-- [New Map APIs from Google](https://latlong.blog/2023/08/new-map-apis-from-google.html)
+- [Lago – Open-Source Stripe Billing Alternative Is Hiring a Content Lead](https://news.ycombinator.com/item?id=37320729)
+- [&lt;N&gt; Guilty Men](https://www2.law.ucla.edu/volokh/guilty.htm)
+- [Putin’s Cinema Fund Rejects Movie Piracy, Fuming Cinema Boss Demands Barbie](https://torrentfreak.com/putins-cinema-fund-rejects-movie-piracy-fuming-cinema-boss-demands-barbie-230830/)
+- [Buffer Overflows in Notepad++](https://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/)
+- [Politicians, scientists spar over alleged NIH coverup using COVID19 origin paper](https://www.science.org/content/article/politicians-scientists-spar-over-alleged-nih-cover-up-using-covid-19-origin-paper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
