@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lago – Open-Source Stripe Billing Alternative Is Hiring a Content Lead](https://news.ycombinator.com/item?id=37320729)
-- [&lt;N&gt; Guilty Men](https://www2.law.ucla.edu/volokh/guilty.htm)
-- [Putin’s Cinema Fund Rejects Movie Piracy, Fuming Cinema Boss Demands Barbie](https://torrentfreak.com/putins-cinema-fund-rejects-movie-piracy-fuming-cinema-boss-demands-barbie-230830/)
-- [Buffer Overflows in Notepad++](https://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/)
-- [Politicians, scientists spar over alleged NIH coverup using COVID19 origin paper](https://www.science.org/content/article/politicians-scientists-spar-over-alleged-nih-cover-up-using-covid-19-origin-paper)
+- [Understanding Llama 2 and the New Code Llama LLMs](https://magazine.sebastianraschka.com/p/ahead-of-ai-11-new-foundation-models)
+- [A DIY ‘bionic pancreas’ is changing diabetes care – what&#39;s next?](https://www.nature.com/articles/d41586-023-02648-9)
+- [Farmers Insurance Laying Off 11% of Workforce, Citing Industry Challenges](https://www.insurancejournal.com/news/national/2023/08/28/738095.htm)
+- [Microsoft is using malware-like pop-ups in Win11 to get people to ditch Chrome](https://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware)
+- [Hundreds of thousands trafficked to work as online scammers in SE Asia](https://www.ohchr.org/en/press-releases/2023/08/hundreds-thousands-trafficked-work-online-scammers-se-asia-says-un-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
