@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pharmacist says he has filled Alzheimer&#39;s prescriptions for members of Congress &lpar;2017&rpar;](https://www.vox.com/policy-and-politics/2017/10/11/16458142/congress-alzheimers-pharmacist)
+- [Tesla Could Be Fined Daily over Autopilot’s Nag-Free ‘Elon Mode’](https://www.thedrive.com/news/tesla-could-be-fined-daily-over-autopilots-secret-nag-free-elon-mode)
+- [Show HN: I automated 1/2 of my typing](https://github.com/eschluntz/compress)
 - [FCC refuses to scrap rule requiring ISPs to list every monthly fee](https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/)
-- [Microsoft is discontinuing Visual Studio for Mac after major overhaul](https://9to5mac.com/2023/08/30/microsoft-visual-studio-mac-discontinued/)
-- [Shocks to the System: Don DeLillo’s Novels of the Cold War and Its Aftermath](https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202)
-- [Photogrammetry on Commercial Flights &lpar;2021&rpar;](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
-- [Google kills two-year “Pixel Pass” subscription after just 22 months](https://arstechnica.com/gadgets/2023/08/google-kills-two-year-pixel-pass-subscription-after-just-22-months/)
+- [Yes, people often forget to cancel monthly subscriptions – and the costs add up](https://text.npr.org/1196059950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
