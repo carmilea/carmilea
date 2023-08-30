@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Verizon, AT&amp;T and T-Mobile Want to Access Your Bank Account](https://www.wsj.com/tech/personal-tech/why-verizon-at-t-and-t-mobile-want-to-access-your-bank-account-e62449f3)
+- [FCC refuses to scrap rule requiring ISPs to list every monthly fee](https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/)
+- [Microsoft is discontinuing Visual Studio for Mac after major overhaul](https://9to5mac.com/2023/08/30/microsoft-visual-studio-mac-discontinued/)
+- [Shocks to the System: Don DeLillo’s Novels of the Cold War and Its Aftermath](https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202)
+- [Photogrammetry on Commercial Flights &lpar;2021&rpar;](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
 - [Google kills two-year “Pixel Pass” subscription after just 22 months](https://arstechnica.com/gadgets/2023/08/google-kills-two-year-pixel-pass-subscription-after-just-22-months/)
-- [Motion &lpar;YC W20&rpar; Is Hiring React Native Engineers](https://jobs.ashbyhq.com/motion/595bd0e0-c9ce-4922-8b99-0035903c93a8?utm_source=hn)
-- [ThirdAI Uses Ray for Parallel Training of Billion-Parameter NN on Commodity CPUs](https://www.anyscale.com/blog/how-thirdai-uses-ray-for-parallel-training-of-billion-parameter-neural-networks-on-commodity-cpus)
-- [How South Korea’s Birth Rate Dropped Below Japan’s](https://www.nippon.com/en/in-depth/d00915/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
