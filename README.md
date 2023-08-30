@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Titanium micro-spikes skewer resistant superbugs](https://www.rmit.edu.au/news/all-news/2023/aug/antifungal-titanium)
+- [Why a cancer scare around aspartame is mostly unfounded](https://www.economist.com/the-economist-explains/2023/07/13/why-a-cancer-scare-around-aspartame-is-mostly-unfounded)
 - [Phind &lpar;code beating GPT4&rpar; seems to have used WizardLM&#39;s finetuned checkpoint](https://twitter.com/WizardLM_AI/status/1696527036804989171)
 - [SigNoz &lpar;YC W21, Open source Observability tool&rpar; hiring DevRel engineers &lpar;remote&rpar;](https://signoz.io/careers/devrel-engineer-in/)
-- [How to shuffle a big dataset &lpar;2018&rpar;](https://blog.janestreet.com/how-to-shuffle-a-big-dataset/)
 - [Deno 1.36](https://deno.com/blog/v1.36)
-- [Bad Apple Font](https://blog.erk.dev/posts/anifont/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
