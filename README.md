@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [So What If Google Sends Me Targetted Ads?](https://theprivacydad.com/so-what-if-google-sends-me-targetted-ads/)
-- [2023 Paid VPN Relationship and Corporate VPN Ownership Map](https://windscribe.com/vpnmap)
-- [Weight-based motor vehicle tax](https://www.skatteetaten.no/en/rates/weight-based-motor-vehicle-tax/)
-- [The End of the Googleverse](https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords)
-- [Hacking the LG Monitor&#39;s EDID](https://gist.github.com/kj800x/be3001c07c49fdb36970633b0bc6defb)
+- [Motion &lpar;YC W20&rpar; Is Hiring React Native Engineers](https://jobs.ashbyhq.com/motion/595bd0e0-c9ce-4922-8b99-0035903c93a8?utm_source=hn)
+- [Long Live the &#39;GPU Poor&#39; – Open-Source AI Grants](https://a16z.com/2023/08/30/supporting-the-open-source-ai-community/)
+- [OpenAI shatters revenue expectations, predicted to generate over $1B](https://the-decoder.com/openai-shatters-revenue-expectations-predicted-to-generate-over-1-billion/)
+- [I wrote, “Scrum is a cancer,” and the Internet had thoughts about it](https://twitter.com/svpino/status/1696869327335571833)
+- [File Attachments: Databases can now store files and images](https://xata.io/blog/file-attachments)
 <!-- BLOG-POST-LIST:END -->
 
 ---
