@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [SigNoz &lpar;YC W21, Open source Observability tool&rpar; hiring DevRel engineers &lpar;remote&rpar;](https://signoz.io/careers/devrel-engineer-in/)
+- [How to shuffle a big dataset &lpar;2018&rpar;](https://blog.janestreet.com/how-to-shuffle-a-big-dataset/)
 - [Bad Apple Font](https://blog.erk.dev/posts/anifont/)
 - [Authentication on meet.jit.si](https://jitsi.org/blog/authentication-on-meet-jit-si/)
 - [Applying SRE Principles to CI/CD](https://buildkite.com/blog/applying-sre-principles-to-cicd)
-- [Discovery of spherules of likely extrasolar composition in the Pacific Ocean [pdf]](https://lweb.cfa.harvard.edu/~loeb/Interstellar_Expedition.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
