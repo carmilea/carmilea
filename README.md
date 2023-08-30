@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Discovery of Spherules of Likely Extrasolar Composition in the Pacific Ocean [pdf]](https://lweb.cfa.harvard.edu/~loeb/Interstellar_Expedition.pdf)
-- [Putin’s Forever War](https://www.nytimes.com/2023/08/06/world/europe/putins-forever-war.html)
+- [Bad Apple Font](https://blog.erk.dev/posts/anifont/)
+- [Jitsi.org has started requiring authentication](https://jitsi.org/blog/authentication-on-meet-jit-si/)
+- [Discovery of spherules of likely extrasolar composition in the Pacific Ocean [pdf]](https://lweb.cfa.harvard.edu/~loeb/Interstellar_Expedition.pdf)
 - [Fomos: Experimental OS, built with Rust](https://github.com/Ruddle/Fomos)
 - [A Green Revolution in ‘Carbon Valley’](https://www.noemamag.com/a-green-revolution-in-carbon-valley/)
-- [Intel shows 8 core 528 thread processor with silicon photonics](https://www.servethehome.com/intel-shows-8-core-528-thread-processor-with-silicon-photonics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
