@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoupling isn&#39;t phoney – The global trading system is starting to rearrange](https://www.noahpinion.blog/p/decoupling-isnt-phoney)
-- [Honda targeting 50% weight reduction with EV solid state batteries](https://www.thedrive.com/news/honda-solid-state-batteries-will-offer-same-energy-density-at-half-the-weight)
-- [The Surprising Impact of Medium-Size Texts on PostgreSQL Performance &lpar;2020&rpar;](https://hakibenita.com/sql-medium-text-performance)
-- [Why I Traded My Smartphone for an Ax](https://www.thefp.com/p/why-i-traded-my-smartphone-for-an-ax)
-- [OSM River Basins](https://amandasaurus.github.io/osm-river-basins/#map=2/0/0)
+- [So What If Google Sends Me Targetted Ads?](https://theprivacydad.com/so-what-if-google-sends-me-targetted-ads/)
+- [2023 Paid VPN Relationship and Corporate VPN Ownership Map](https://windscribe.com/vpnmap)
+- [Weight-based motor vehicle tax](https://www.skatteetaten.no/en/rates/weight-based-motor-vehicle-tax/)
+- [The End of the Googleverse](https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords)
+- [Hacking the LG Monitor&#39;s EDID](https://gist.github.com/kj800x/be3001c07c49fdb36970633b0bc6defb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
