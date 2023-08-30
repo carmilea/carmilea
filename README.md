@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Verizon, AT&amp;T and T-Mobile Want to Access Your Bank Account](https://www.wsj.com/tech/personal-tech/why-verizon-at-t-and-t-mobile-want-to-access-your-bank-account-e62449f3)
+- [Google kills two-year “Pixel Pass” subscription after just 22 months](https://arstechnica.com/gadgets/2023/08/google-kills-two-year-pixel-pass-subscription-after-just-22-months/)
 - [Motion &lpar;YC W20&rpar; Is Hiring React Native Engineers](https://jobs.ashbyhq.com/motion/595bd0e0-c9ce-4922-8b99-0035903c93a8?utm_source=hn)
-- [Long Live the &#39;GPU Poor&#39; – Open-Source AI Grants](https://a16z.com/2023/08/30/supporting-the-open-source-ai-community/)
-- [OpenAI shatters revenue expectations, predicted to generate over $1B](https://the-decoder.com/openai-shatters-revenue-expectations-predicted-to-generate-over-1-billion/)
-- [I wrote, “Scrum is a cancer,” and the Internet had thoughts about it](https://twitter.com/svpino/status/1696869327335571833)
-- [File Attachments: Databases can now store files and images](https://xata.io/blog/file-attachments)
+- [ThirdAI Uses Ray for Parallel Training of Billion-Parameter NN on Commodity CPUs](https://www.anyscale.com/blog/how-thirdai-uses-ray-for-parallel-training-of-billion-parameter-neural-networks-on-commodity-cpus)
+- [How South Korea’s Birth Rate Dropped Below Japan’s](https://www.nippon.com/en/in-depth/d00915/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
