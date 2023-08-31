@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Managed to death: How Canada turned its forests into a carbon bomb](https://thebulletin.org/2023/08/managed-to-death-how-canada-turned-its-forests-into-a-carbon-bomb/#post-heading)
-- [It&#39;s not just you – no one is posting on social media anymore](https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8)
+- [Firezone &lpar;YC W22&rpar; is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone)
+- [NASA officials sound alarm over future of the Deep Space Network](https://arstechnica.com/space/2023/08/nasas-artemis-i-mission-nearly-broke-the-deep-space-network/)
+- [Microsoft is unbundling Teams from Office in Europe to address regulator concern](https://www.theverge.com/2023/8/31/23853517/microsoft-teams-unbundling-europe)
 - [Show HN: 99% cheaper international business transfers – fixed fee, real rate](https://atlantic.money/gb/en/business)
-- [GPS Spoofing – Pioneered in Russia &lpar;2022&rpar;](https://greydynamics.com/gps-spoofing-pioneered-in-russia/)
 - [HashiCorp silently amend Terraform Registry TOS](https://github.com/opentffoundation/roadmap/issues/24)
 <!-- BLOG-POST-LIST:END -->
 
