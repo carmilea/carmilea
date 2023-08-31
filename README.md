@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VM&#39;s and Containers I am Running – 2023](https://blog.networkprofile.org/vms-and-containers-i-am-running-2023/)
-- [Software CEO worth almost $12B says he goes to office ‘about once a quarter,’](https://fortune.com/2023/08/29/atlassian-ceo-scott-farquhar-office-once-a-quarter-remote-work/)
+- [There have been several public library bomb threats this week](https://bookriot.com/there-have-been-several-public-library-bomb-threats-this-week/)
+- [Ask HN: How to handle Asian-style “Family name first” when designing interfaces](https://news.ycombinator.com/item?id=37332126)
+- [Intuition for Probability and Likelihood](https://www.notion.so/aplaceofmind/Intuition-for-probability-and-likelihood-ab3a3ee3fe9d4013ac827a00ae144d83)
 - [Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
 - [Mux &lpar;YC W16&rpar; is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
-- [Keisan Casio is shutting down](https://keisan.casio.com/keisan/abolition.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
