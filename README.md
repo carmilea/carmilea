@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The 7th century Library of Ashurbanipal is the oldest known library in the world](https://www.worldhistory.org/Library_of_Ashurbanipal/)
-- [Money Is Pouring into AI. Skeptics Say It’s a ‘Grift Shift.’](https://www.institutionalinvestor.com/article/2c4fad0w6irk838pca3gg/portfolio/money-is-pouring-into-ai-skeptics-say-its-a-grift-shift)
-- [Hidden 3D](https://hidden-3d.com/)
-- [RyujinX – Open Source Nintendo Switch Emulator](https://ryujinx.org/)
-- [Ask HN: How to handle Asian-style “Family name first” when designing interfaces?](https://news.ycombinator.com/item?id=37332126)
+- [Sourcegraph Security Breach: Incident involving unauthorized admin access](https://about.sourcegraph.com/blog/security-update-august-2023)
+- [*@gmail.com](https://xkcd.com/2822/)
+- [Ask HN: Why hasn&#39;t the cloud killed the mainframe?](https://news.ycombinator.com/item?id=37333837)
+- [Tell HN: UC Berkeley&#39;s CS61A/B/C are the best courses to learn CS and coding](https://news.ycombinator.com/item?id=37333596)
+- [India Enable Government Surveillance, Creating ‘Backdoor’ for Surveillance](https://dovthelachman.com/indias-laws-enable-government-surveillance-creating-dangerous-backdoor-for-surveillance-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
