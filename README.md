@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Third of Japan&#39;s 18-year-olds women may never have children: study](https://www.japantimes.co.jp/news/2023/08/30/japan/society/teenagers-dont-want-children/)
-- [ChatGPT Is Down Again](https://status.openai.com/incidents/c9fzdr2cxnbq)
-- [Wireless carriers are messing with your autopay discount](https://www.theverge.com/2023/8/30/23852255/verizon-att-t-mobile-autopay-discount-debit-bank-credit-card)
-- [New antifungal therapy for fungal meningitis](https://med.umn.edu/news/u-m-research-team-successfully-tests-new-antifungal-therapy-fungal-meningitis)
-- [Usenet, the OG social network, rises again like a text-only phoenix](https://www.theregister.com/2023/08/30/usenet_revival/)
+- [Supporting people’s right to accurate and safe political discourse on X](https://blog.twitter.com/en_us/topics/company/2023/supporting-peoples-right-to-accurate-and-safe-political-discourse-on-x)
+- [Designers say only way to fix Tesla Cybertruck is to start over](https://jalopnik.com/only-way-to-fix-tesla-cybertruck-design-start-over-1850789341)
+- [Lessons from London Black Cabs](https://www.singlestore.com/blog/lessons-from-london-black-cabs/)
+- [IBM promised to back off facial recognition, then signed a $70M contract for it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
+- [Ghostfolio: Open-source wealth management software](https://ghostfol.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
