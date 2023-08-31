@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shell Quietly Shelves a Radical Plan to Shrink Its Carbon Footprint](https://www.bloomberg.com/news/features/2023-08-31/shell-silently-abandoned-its-100-million-a-year-plan-to-offset-co2-emissions)
-- [Chandrayaan-3 Confirms Presence of Sulfur and Other Elements on Lunar South Pole](https://scienceswitch.com/2023/08/31/isros-chandrayaan-3-confirms-presence-of-sulfur-and-other-elements-on-lunar-south-pole/)
-- [Docker Is Four Things](https://matthiasportzel.com/docker/)
-- [Firezone &lpar;YC W22&rpar; is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone)
-- [NASA officials sound alarm over future of the Deep Space Network](https://arstechnica.com/space/2023/08/nasas-artemis-i-mission-nearly-broke-the-deep-space-network/)
+- [Third of Japan&#39;s 18-year-olds women may never have children: study](https://www.japantimes.co.jp/news/2023/08/30/japan/society/teenagers-dont-want-children/)
+- [ChatGPT Is Down Again](https://status.openai.com/incidents/c9fzdr2cxnbq)
+- [Wireless carriers are messing with your autopay discount](https://www.theverge.com/2023/8/30/23852255/verizon-att-t-mobile-autopay-discount-debit-bank-credit-card)
+- [New antifungal therapy for fungal meningitis](https://med.umn.edu/news/u-m-research-team-successfully-tests-new-antifungal-therapy-fungal-meningitis)
+- [Usenet, the OG social network, rises again like a text-only phoenix](https://www.theregister.com/2023/08/30/usenet_revival/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
