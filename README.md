@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sourcegraph Security Breach: Incident involving unauthorized admin access](https://about.sourcegraph.com/blog/security-update-august-2023)
-- [*@gmail.com](https://xkcd.com/2822/)
-- [Ask HN: Why hasn&#39;t the cloud killed the mainframe?](https://news.ycombinator.com/item?id=37333837)
 - [Tell HN: UC Berkeley&#39;s CS61A/B/C are the best courses to learn CS and coding](https://news.ycombinator.com/item?id=37333596)
-- [India Enable Government Surveillance, Creating ‘Backdoor’ for Surveillance](https://dovthelachman.com/indias-laws-enable-government-surveillance-creating-dangerous-backdoor-for-surveillance-companies/)
+- [UTM – Virtual Machines for iOS and macOS](https://github.com/utmapp/UTM)
+- [Youtube2Webpage: Create Websites with Text from Videos](https://github.com/obra/Youtube2Webpage)
+- [Cheetah: A Lightweight Virtual Machine Manager for macOS](https://macspot.net/)
+- [Hidden 3D](https://hidden-3d.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
