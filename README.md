@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hidden 3D](https://hidden-3d.com/)
 - [RyujinX – Open Source Nintendo Switch Emulator](https://ryujinx.org/)
-- [There have been several public library bomb threats this week](https://bookriot.com/there-have-been-several-public-library-bomb-threats-this-week/)
 - [Locals have been sounding the alarm for years about Lahaina wildfire risk](https://grist.org/wildfires/maui-fire-risk-drought-grass-sound-alarm-lahaina-hawaii/)
 - [The Case for Nushell](https://www.jntrnr.com/case-for-nushell/)
-- [Intuition for Probability and Likelihood](https://www.notion.so/aplaceofmind/Intuition-for-probability-and-likelihood-ab3a3ee3fe9d4013ac827a00ae144d83)
+- [Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
