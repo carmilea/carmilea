@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Australia will not force adult websites to bring in age verification](https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law)
-- [How to Install Lima&lpar;runs command line Ubuntu&rpar; on macOS Using 9 Easy Steps](https://www.cyberithub.com/how-to-install-lima-on-macos-using-9-easy-steps/)
+- [VM&#39;s and Containers I am Running – 2023](https://blog.networkprofile.org/vms-and-containers-i-am-running-2023/)
+- [Software CEO worth almost $12B says he goes to office ‘about once a quarter,’](https://fortune.com/2023/08/29/atlassian-ceo-scott-farquhar-office-once-a-quarter-remote-work/)
+- [Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
 - [Mux &lpar;YC W16&rpar; is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
 - [Keisan Casio is shutting down](https://keisan.casio.com/keisan/abolition.php)
-- [Echo Chess: The Quest for Solvability](https://samiramly.com/chess)
 <!-- BLOG-POST-LIST:END -->
 
 ---
