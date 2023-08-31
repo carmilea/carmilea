@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The 7th century Library of Ashurbanipal is the oldest known library in the world](https://www.worldhistory.org/Library_of_Ashurbanipal/)
+- [Money Is Pouring into AI. Skeptics Say It’s a ‘Grift Shift.’](https://www.institutionalinvestor.com/article/2c4fad0w6irk838pca3gg/portfolio/money-is-pouring-into-ai-skeptics-say-its-a-grift-shift)
 - [Hidden 3D](https://hidden-3d.com/)
 - [RyujinX – Open Source Nintendo Switch Emulator](https://ryujinx.org/)
-- [Locals have been sounding the alarm for years about Lahaina wildfire risk](https://grist.org/wildfires/maui-fire-risk-drought-grass-sound-alarm-lahaina-hawaii/)
-- [The Case for Nushell](https://www.jntrnr.com/case-for-nushell/)
-- [Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
+- [Ask HN: How to handle Asian-style “Family name first” when designing interfaces?](https://news.ycombinator.com/item?id=37332126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
