@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Types versus sets &lpar;and what about categories?&rpar;](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
-- [Human ancestors nearly went extinct 900k years ago](https://www.nature.com/articles/d41586-023-02712-4)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
-- [Keep your files inside your VM](https://msimkunas.lt/2023/08/28/vm-file-sharing.html)
-- [LIBS confirms the presence of sulphur on the lunar surface](https://www.isro.gov.in/LIBSResults.html)
+- [Independent Guest Virtual Machine &lpar;IGVM&rpar; File Format](https://github.com/microsoft/igvm)
+- [Wii Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/wii/)
+- [Types versus sets &lpar;and what about categories?&rpar; &lpar;2022&rpar;](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
+- [SvelteKit View Transitions](https://svelte.dev/blog/view-transitions)
+- [Modern genetic data suggests pre-humans were a group of only 1,280 individuals](https://www.nature.com/articles/d41586-023-02712-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
