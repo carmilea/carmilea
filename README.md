@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rare oxygen isotope detected at last – and it defies expectations](https://www.nature.com/articles/d41586-023-02713-3)
+- [Teaching with AI](https://openai.com/blog/teaching-with-ai)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37340311)
 - [Why Mathematical Proof Is a Social Compact](https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/)
-- [AMD Open-Source GPU Kernel Driver Above 5M Lines, Entire Linux Kernel at 34.8M](https://www.phoronix.com/news/AMD-5-Million-Lines)
-- [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/)
-- [VanMoof acquired by e-mobility company Lavoie](https://www.bicycleretailer.com/industry-news/2023/08/31/vanmoof-acquired-e-mobility-company-lavoie)
+- [If you make less than $55K, the Labor Department wants you to get overtime pay](https://www.businessinsider.com/you-might-be-eligible-for-overtime-pay-2023-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
