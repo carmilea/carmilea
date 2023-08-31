@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Electronics Course &lpar;45 episodes, YouTube&rpar;](https://www.youtube.com/playlist?list=PL7qUW0KPfsIIOPOKL84wK_Qj9N7gvJX6v)
-- [South Korea extends natural population fall as fertility rate falls to 0.7](https://www.koreatimes.co.kr/www/nation/2023/08/113_358114.html)
-- [X wants permission to start collecting your bio data and employment history](https://www.theverge.com/2023/8/31/23853618/x-privacy-policy-update-biometrics-job-history)
-- [Lessons from London Black Cabs](https://www.singlestore.com/blog/lessons-from-london-black-cabs/)
-- [IBM promised to back off facial recognition, then signed a $70M contract for it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37340311)
+- [Why Mathematical Proof Is a Social Compact](https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/)
+- [AMD Open-Source GPU Kernel Driver Above 5M Lines, Entire Linux Kernel at 34.8M](https://www.phoronix.com/news/AMD-5-Million-Lines)
+- [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/)
+- [VanMoof acquired by e-mobility company Lavoie](https://www.bicycleretailer.com/industry-news/2023/08/31/vanmoof-acquired-e-mobility-company-lavoie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
