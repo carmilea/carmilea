@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Bans Sales of Nvidia&#39;s H100, A100 GPUs to Middle East](https://www.tomshardware.com/news/us-bans-sales-of-nvidias-h100-a100-gpus-to-middle-east)
+- [Young climate activist tells Greenpeace to drop ‘old-fashioned’ anti-nuclear](https://www.euractiv.com/section/energy-environment/news/young-climate-activist-tells-greenpeace-to-drop-old-fashioned-anti-nuclear-stance/)
+- [*@gmail.com](https://xkcd.com/2822/)
 - [Tell HN: UC Berkeley&#39;s CS61A/B/C are the best courses to learn CS and coding](https://news.ycombinator.com/item?id=37333596)
 - [UTM – Virtual Machines for iOS and macOS](https://github.com/utmapp/UTM)
-- [Youtube2Webpage: Create Websites with Text from Videos](https://github.com/obra/Youtube2Webpage)
-- [Cheetah: A Lightweight Virtual Machine Manager for macOS](https://macspot.net/)
-- [Hidden 3D](https://hidden-3d.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
