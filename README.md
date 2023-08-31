@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Types versus sets &lpar;and what about categories?&rpar;](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
+- [Human ancestors nearly went extinct 900k years ago](https://www.nature.com/articles/d41586-023-02712-4)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
 - [Keep your files inside your VM](https://msimkunas.lt/2023/08/28/vm-file-sharing.html)
-- [Why did old phone numbers start with letters? &lpar;2015&rpar;](https://www.mentalfloss.com/article/61116/why-did-old-phone-numbers-start-letters)
 - [LIBS confirms the presence of sulphur on the lunar surface](https://www.isro.gov.in/LIBSResults.html)
-- [Ad-hoc polymorphism erodes type-safety](https://cs-syd.eu/posts/2023-08-25-ad-hoc-polymorphism-erodes-type-safety)
 <!-- BLOG-POST-LIST:END -->
 
 ---
