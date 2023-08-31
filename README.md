@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Supporting people’s right to accurate and safe political discourse on X](https://blog.twitter.com/en_us/topics/company/2023/supporting-peoples-right-to-accurate-and-safe-political-discourse-on-x)
-- [Designers say only way to fix Tesla Cybertruck is to start over](https://jalopnik.com/only-way-to-fix-tesla-cybertruck-design-start-over-1850789341)
+- [Electronics Course &lpar;45 episodes, YouTube&rpar;](https://www.youtube.com/playlist?list=PL7qUW0KPfsIIOPOKL84wK_Qj9N7gvJX6v)
+- [South Korea extends natural population fall as fertility rate falls to 0.7](https://www.koreatimes.co.kr/www/nation/2023/08/113_358114.html)
+- [X wants permission to start collecting your bio data and employment history](https://www.theverge.com/2023/8/31/23853618/x-privacy-policy-update-biometrics-job-history)
 - [Lessons from London Black Cabs](https://www.singlestore.com/blog/lessons-from-london-black-cabs/)
 - [IBM promised to back off facial recognition, then signed a $70M contract for it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
-- [Ghostfolio: Open-source wealth management software](https://ghostfol.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
