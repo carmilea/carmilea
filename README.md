@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rare oxygen isotope detected at last – and it defies expectations](https://www.nature.com/articles/d41586-023-02713-3)
-- [Teaching with AI](https://openai.com/blog/teaching-with-ai)
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37340311)
-- [Why Mathematical Proof Is a Social Compact](https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/)
-- [If you make less than $55K, the Labor Department wants you to get overtime pay](https://www.businessinsider.com/you-might-be-eligible-for-overtime-pay-2023-8)
+- [AWS Icon Quiz](https://awsiconquiz.com/)
+- [Ask HN: What&#39;s your favourite hobby and how did it start?](https://news.ycombinator.com/item?id=37342013)
+- [Bay Area 2023 Maker Faire](https://makerfaire.com/bay-area/)
+- [Methodus Toolz](https://www.methodus2000.com/methodus3/)
+- [X-ray CT scans of coffee equipment: Aeropress, Fellow kettle, Moka pot](https://www.scanofthemonth.com/scans/coffee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
