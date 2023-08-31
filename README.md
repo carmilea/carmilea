@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Icon Quiz](https://awsiconquiz.com/)
-- [Ask HN: What&#39;s your favourite hobby and how did it start?](https://news.ycombinator.com/item?id=37342013)
-- [Bay Area 2023 Maker Faire](https://makerfaire.com/bay-area/)
+- [Why did old phone numbers start with letters? &lpar;2015&rpar;](https://www.mentalfloss.com/article/61116/why-did-old-phone-numbers-start-letters)
+- [LIBS confirms the presence of sulphur on the lunar surface](https://www.isro.gov.in/LIBSResults.html)
+- [Exploring and Debunking Lay Beliefs About Cynicism and Competence](https://journals.sagepub.com/doi/pdf/10.1177/0146167218783195)
+- [Nougat: Neural Optical Understanding for Academic Documents](https://facebookresearch.github.io/nougat/)
 - [Methodus Toolz](https://www.methodus2000.com/methodus3/)
-- [X-ray CT scans of coffee equipment: Aeropress, Fellow kettle, Moka pot](https://www.scanofthemonth.com/scans/coffee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
