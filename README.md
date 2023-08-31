@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RyujinX – Open Source Nintendo Switch Emulator](https://ryujinx.org/)
 - [There have been several public library bomb threats this week](https://bookriot.com/there-have-been-several-public-library-bomb-threats-this-week/)
-- [Ask HN: How to handle Asian-style “Family name first” when designing interfaces](https://news.ycombinator.com/item?id=37332126)
+- [Locals have been sounding the alarm for years about Lahaina wildfire risk](https://grist.org/wildfires/maui-fire-risk-drought-grass-sound-alarm-lahaina-hawaii/)
+- [The Case for Nushell](https://www.jntrnr.com/case-for-nushell/)
 - [Intuition for Probability and Likelihood](https://www.notion.so/aplaceofmind/Intuition-for-probability-and-likelihood-ab3a3ee3fe9d4013ac827a00ae144d83)
-- [Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
-- [Mux &lpar;YC W16&rpar; is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
