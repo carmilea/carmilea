@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
+- [Keep your files inside your VM](https://msimkunas.lt/2023/08/28/vm-file-sharing.html)
 - [Why did old phone numbers start with letters? &lpar;2015&rpar;](https://www.mentalfloss.com/article/61116/why-did-old-phone-numbers-start-letters)
 - [LIBS confirms the presence of sulphur on the lunar surface](https://www.isro.gov.in/LIBSResults.html)
-- [Exploring and Debunking Lay Beliefs About Cynicism and Competence](https://journals.sagepub.com/doi/pdf/10.1177/0146167218783195)
-- [Nougat: Neural Optical Understanding for Academic Documents](https://facebookresearch.github.io/nougat/)
-- [Methodus Toolz](https://www.methodus2000.com/methodus3/)
+- [Ad-hoc polymorphism erodes type-safety](https://cs-syd.eu/posts/2023-08-25-ad-hoc-polymorphism-erodes-type-safety)
 <!-- BLOG-POST-LIST:END -->
 
 ---
