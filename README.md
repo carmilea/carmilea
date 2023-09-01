@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Benjamin S. Bloom: Learning For Mastery &lpar;1968&rpar; [pdf]](http://www.researchforteachers.org.uk/sites/default/files/Docs/Bloom%20(1968)%20Learning%20for%20Mastery_0.pdf)
-- [Show HN: ChangeDetection, monitor any website change](https://github.com/dgtlmoon/changedetection.io)
-- [Total Commander](https://www.ghisler.com/)
+- [Learning For Mastery &lpar;1968&rpar; [pdf]](http://www.researchforteachers.org.uk/sites/default/files/Docs/Bloom%20(1968)%20Learning%20for%20Mastery_0.pdf)
+- [ChangeDetection, monitor any website change](https://github.com/dgtlmoon/changedetection.io)
 - [Ask Microsoft: Are you using our personal data to train AI?](https://foundation.mozilla.org/en/campaigns/microsoft-ai/)
 - [Organic Maps](https://organicmaps.app/)
+- [From Art Nouveau to Bauhaus: How Home Interiors Looked in Popular Art Movements](https://www.archdaily.com/1005570/from-art-nouveau-to-the-bauhaus-how-home-interiors-looked-in-popular-art-movements)
 <!-- BLOG-POST-LIST:END -->
 
 ---
