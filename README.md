@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California Forever](https://californiaforever.com/)
 - [Artificial Intelligence and Copyright: Request for comments](https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright)
 - [Driverless cars may already be safer than human drivers](https://www.understandingai.org/p/driverless-cars-may-already-be-safer)
 - [Wii Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/wii/)
 - [Types versus sets &lpar;and what about categories?&rpar; &lpar;2022&rpar;](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
-- [Modern genetic data suggests pre-humans were a group of only 1,280 individuals](https://www.nature.com/articles/d41586-023-02712-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
