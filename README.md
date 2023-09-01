@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zeno&#39;s Mice and the Logarithmic Spiral](https://mathpages.com/home/kmath492/kmath492.htm)
 - [Google Maps Testing New Apple Maps-Inspired Map Style](https://www.justinobeirne.com/google-maps-testing-new-apple-maps-inspired-map-style)
 - [MathPages: Geometry](https://mathpages.com/home/igeometr.htm)
-- [The Scourge of Airport Noise](https://askthepilot.com/airport-noise-scourge/)
 - [The Making of EP Thompson](https://www.newstatesman.com/culture/history/2023/08/making-ep-thompson)
 - [An introduction to the impact of native planting](https://marisamorby.com/native-planting-intro/)
 <!-- BLOG-POST-LIST:END -->
