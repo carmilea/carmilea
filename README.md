@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Artificial Intelligence and Copyright: Request for comments](https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright)
 - [Independent Guest Virtual Machine &lpar;IGVM&rpar; File Format](https://github.com/microsoft/igvm)
 - [Wii Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/wii/)
 - [Types versus sets &lpar;and what about categories?&rpar; &lpar;2022&rpar;](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
-- [SvelteKit View Transitions](https://svelte.dev/blog/view-transitions)
 - [Modern genetic data suggests pre-humans were a group of only 1,280 individuals](https://www.nature.com/articles/d41586-023-02712-4)
 <!-- BLOG-POST-LIST:END -->
 
