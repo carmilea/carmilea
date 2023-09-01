@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California Forever](https://californiaforever.com/)
+- [An introduction to the impact of native planting](https://marisamorby.com/native-planting-intro/)
+- [Ask HN: How would you raise $600k for a boring software co?](https://news.ycombinator.com/item?id=37346497)
+- [Animated Knots](https://www.animatedknots.com/)
+- [BoTorch – Bayesian Optimization in PyTorch](https://botorch.org/)
 - [Artificial Intelligence and Copyright: Request for comments](https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright)
-- [Driverless cars may already be safer than human drivers](https://www.understandingai.org/p/driverless-cars-may-already-be-safer)
-- [Wii Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/wii/)
-- [Types versus sets &lpar;and what about categories?&rpar; &lpar;2022&rpar;](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
