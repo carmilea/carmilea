@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Organic Maps](https://organicmaps.app/)
+- [A Journey Through Spain’s Islamic History](https://www.smithsonianmag.com/travel/fabled-palaces-ancient-medina-journey-through-spain-islamic-history-180982699/)
+- [From Art Nouveau to Bauhaus: How Home Interiors Looked in Popular Art Movements](https://www.archdaily.com/1005570/from-art-nouveau-to-the-bauhaus-how-home-interiors-looked-in-popular-art-movements)
 - [Zeno&#39;s Mice and the Logarithmic Spiral](https://mathpages.com/home/kmath492/kmath492.htm)
 - [Google Maps Testing New Apple Maps-Inspired Map Style](https://www.justinobeirne.com/google-maps-testing-new-apple-maps-inspired-map-style)
-- [MathPages: Geometry](https://mathpages.com/home/igeometr.htm)
-- [The Making of EP Thompson](https://www.newstatesman.com/culture/history/2023/08/making-ep-thompson)
-- [An introduction to the impact of native planting](https://marisamorby.com/native-planting-intro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
