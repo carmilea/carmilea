@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Total Commander](https://www.ghisler.com/)
+- [Ask Microsoft: Are you using our personal data to train AI?](https://foundation.mozilla.org/en/campaigns/microsoft-ai/)
 - [Organic Maps](https://organicmaps.app/)
-- [A Journey Through Spain’s Islamic History](https://www.smithsonianmag.com/travel/fabled-palaces-ancient-medina-journey-through-spain-islamic-history-180982699/)
 - [From Art Nouveau to Bauhaus: How Home Interiors Looked in Popular Art Movements](https://www.archdaily.com/1005570/from-art-nouveau-to-the-bauhaus-how-home-interiors-looked-in-popular-art-movements)
 - [Zeno&#39;s Mice and the Logarithmic Spiral](https://mathpages.com/home/kmath492/kmath492.htm)
-- [Google Maps Testing New Apple Maps-Inspired Map Style](https://www.justinobeirne.com/google-maps-testing-new-apple-maps-inspired-map-style)
 <!-- BLOG-POST-LIST:END -->
 
 ---
