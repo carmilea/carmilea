@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vitamins, Supplements with Antioxidants Fuel Cancer](https://studyfinds.org/dietary-supplements-help-tumors/)
+- [FYI: The problem of creeping commercial surveillance](https://elnion.com/2022/02/07/the-problem-of-creeping-commercial-surveillance/)
 - [Show HN: Merge – Connect Google Wear OS to Apple iOS](https://www.merge.watch)
 - [UpCodes is hiring SWEs, SDRs to make construction more productive](https://up.codes/careers)
 - [Farewell EC2-Classic, it’s been swell](https://www.allthingsdistributed.com/2023/09/farewell-ec2-classic.html)
-- [Are self-driving cars already safer than human drivers?](https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/)
-- [The technical merits of Wayland are mostly irrelevant](https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
