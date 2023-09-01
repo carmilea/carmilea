@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany’s radioactive boars are a bristly reminder of nuclear fallout](https://www.science.org/content/article/germany-s-radioactive-boars-are-bristly-reminder-nuclear-fallout)
-- [How to tell who your best programmer is](https://badsoftwareadvice.substack.com/p/how-to-tell-who-your-best-programmer)
-- [Factorio Friday Facts #374 – Smarter robots](https://factorio.com/blog/post/fff-374)
-- [Killed by Google](https://killedbygoogle.com)
-- [The Janus System: Multi-Paradigm Programming in Prolog and Python](https://arxiv.org/abs/2308.15893)
+- [Can Programming Languages Boost Each Other via Instruction Tuning? Yes](https://arxiv.org/abs/2308.16824)
+- [The algorithm that blew up Italy’s school system](https://algorithmwatch.org/en/algorithm-school-system-italy/)
+- [ARM wrestles assembly language guru&#39;s domains away, citing trademark issues](https://www.theregister.com/2023/08/31/a_star_star_domains/)
+- [Boaters deal with ‘modern-day pirates&#39; in the East Bay](https://www.nbcbayarea.com/news/local/east-bay/pirates-oakland-estuary/3305821/)
+- [A deep dive into Single Pair Ethernet](https://electricui.com/blog/spe-sensor-node)
 <!-- BLOG-POST-LIST:END -->
 
 ---
