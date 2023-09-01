@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bright &lpar;YC W15&rpar; Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
 - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
 - [Space travel via tether between asteroids](https://blog.cerowrt.org/post/toutatis/)
-- [AI Eng Recap: August 2023](https://www.latent.space/p/aug-2023)
-- [Higher Intakes of Potassium and Magnesium, but Not Lower Sodium, Reduce CVD Risk](https://pubmed.ncbi.nlm.nih.gov/33477824/)
-- [Hot Chips 2023: Ventana’s Unconventional Veyron V1](https://chipsandcheese.com/2023/09/01/hot-chips-2023-ventanas-unconventional-veyron-v1/)
+- [Ventana’s Unconventional Veyron V1](https://chipsandcheese.com/2023/09/01/hot-chips-2023-ventanas-unconventional-veyron-v1/)
+- [U.S. Air Force selects fast microreactor for nuclear power pilot](https://www.powermag.com/u-s-air-force-selects-fast-microreactor-for-nuclear-power-pilot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
