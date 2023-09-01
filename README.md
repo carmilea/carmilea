@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X updates Terms to allow it to use data for AI training](https://stackdiary.com/x-can-now-use-posts-for-ai-training-as-per-terms-of-service/)
+- [Why Is .US Being Used to Phish So Many of Us?](https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/)
+- [U.S. Department of Defense Launches All-Domain Anomaly Resolution Office Website](https://www.defense.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/)
+- [How the FBI took down the Qakbot botnet](https://techcrunch.com/2023/09/01/fbi-qakbot-takedown-operation-duck-hunt/)
 - [Can Programming Languages Boost Each Other via Instruction Tuning? Yes](https://arxiv.org/abs/2308.16824)
-- [The algorithm that blew up Italy’s school system](https://algorithmwatch.org/en/algorithm-school-system-italy/)
-- [ARM wrestles assembly language guru&#39;s domains away, citing trademark issues](https://www.theregister.com/2023/08/31/a_star_star_domains/)
-- [Boaters deal with ‘modern-day pirates&#39; in the East Bay](https://www.nbcbayarea.com/news/local/east-bay/pirates-oakland-estuary/3305821/)
-- [A deep dive into Single Pair Ethernet](https://electricui.com/blog/spe-sensor-node)
 <!-- BLOG-POST-LIST:END -->
 
 ---
