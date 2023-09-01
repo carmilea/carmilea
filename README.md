@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Maps Testing New Apple Maps-Inspired Map Style](https://www.justinobeirne.com/google-maps-testing-new-apple-maps-inspired-map-style)
+- [MathPages: Geometry](https://mathpages.com/home/igeometr.htm)
+- [The Scourge of Airport Noise](https://askthepilot.com/airport-noise-scourge/)
+- [The Making of EP Thompson](https://www.newstatesman.com/culture/history/2023/08/making-ep-thompson)
 - [An introduction to the impact of native planting](https://marisamorby.com/native-planting-intro/)
-- [Ask HN: How would you raise $600k for a boring software co?](https://news.ycombinator.com/item?id=37346497)
-- [Animated Knots](https://www.animatedknots.com/)
-- [BoTorch – Bayesian Optimization in PyTorch](https://botorch.org/)
-- [Artificial Intelligence and Copyright: Request for comments](https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright)
 <!-- BLOG-POST-LIST:END -->
 
 ---
