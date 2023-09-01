@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Without maintenance, most digital information will be lost in just a few decades](https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/)
+- [Philosophy of Coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
+- [Ten Sed Command Examples](https://4sysops.com/archives/ten-sed-command-examples/)
+- [Linear Algebra for Programmers](https://coffeemug.github.io/spakhm.com/posts/01-lingalg-p1/linalg-p1.html)
 - [Doug Lenat has died](https://garymarcus.substack.com/p/doug-lenat-1950-2023)
-- [Pysentation – The Python Presentation](https://github.com/mimseyedi/pysentation)
-- [Ask HN: Any LAN alternatives other than PowerLine or MOCA?](https://news.ycombinator.com/item?id=37352983)
-- [Robinhood to buy back Bankman-Fried’s stake for $605M from U.S. government](https://www.cnbc.com/2023/09/01/robinhood-to-buy-back-bankman-frieds-stake-for-605point7-mln-from-us-govt.html)
-- [Browser extensions spy on you, even if its developers don&#39;t](https://vitonsky.net/blog/2023/09/01/malware-in-browser-extensions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
