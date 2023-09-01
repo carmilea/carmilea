@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Without maintenance, most digital information will be lost in just a few decades](https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/)
-- [Philosophy of Coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
-- [Ten Sed Command Examples](https://4sysops.com/archives/ten-sed-command-examples/)
-- [Linear Algebra for Programmers](https://coffeemug.github.io/spakhm.com/posts/01-lingalg-p1/linalg-p1.html)
-- [Doug Lenat has died](https://garymarcus.substack.com/p/doug-lenat-1950-2023)
+- [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
+- [Space travel via tether between asteroids](https://blog.cerowrt.org/post/toutatis/)
+- [AI Eng Recap: August 2023](https://www.latent.space/p/aug-2023)
+- [Higher Intakes of Potassium and Magnesium, but Not Lower Sodium, Reduce CVD Risk](https://pubmed.ncbi.nlm.nih.gov/33477824/)
+- [Hot Chips 2023: Ventana’s Unconventional Veyron V1](https://chipsandcheese.com/2023/09/01/hot-chips-2023-ventanas-unconventional-veyron-v1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
