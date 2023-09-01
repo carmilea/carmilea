@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vitamins, Supplements with Antioxidants Fuel Cancer](https://studyfinds.org/dietary-supplements-help-tumors/)
-- [FYI: The problem of creeping commercial surveillance](https://elnion.com/2022/02/07/the-problem-of-creeping-commercial-surveillance/)
-- [Show HN: Merge – Connect Google Wear OS to Apple iOS](https://www.merge.watch)
-- [UpCodes is hiring SWEs, SDRs to make construction more productive](https://up.codes/careers)
-- [Farewell EC2-Classic, it’s been swell](https://www.allthingsdistributed.com/2023/09/farewell-ec2-classic.html)
+- [Germany’s radioactive boars are a bristly reminder of nuclear fallout](https://www.science.org/content/article/germany-s-radioactive-boars-are-bristly-reminder-nuclear-fallout)
+- [How to tell who your best programmer is](https://badsoftwareadvice.substack.com/p/how-to-tell-who-your-best-programmer)
+- [Factorio Friday Facts #374 – Smarter robots](https://factorio.com/blog/post/fff-374)
+- [Killed by Google](https://killedbygoogle.com)
+- [The Janus System: Multi-Paradigm Programming in Prolog and Python](https://arxiv.org/abs/2308.15893)
 <!-- BLOG-POST-LIST:END -->
 
 ---
