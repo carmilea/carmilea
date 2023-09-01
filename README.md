@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Clarifies Why It Abandoned Plan to Detect CSAM in iCloud Photos](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/)
-- [Learning For Mastery &lpar;1968&rpar; [pdf]](http://www.researchforteachers.org.uk/sites/default/files/Docs/Bloom%20(1968)%20Learning%20for%20Mastery_0.pdf)
-- [ChangeDetection, monitor any website change](https://github.com/dgtlmoon/changedetection.io)
-- [Ask Microsoft: Are you using our personal data to train AI?](https://foundation.mozilla.org/en/campaigns/microsoft-ai/)
-- [Organic Maps](https://organicmaps.app/)
+- [Show HN: Merge – Connect Google Wear OS to Apple iOS](https://www.merge.watch)
+- [UpCodes is hiring SWEs, SDRs to make construction more productive](https://up.codes/careers)
+- [Farewell EC2-Classic, it’s been swell](https://www.allthingsdistributed.com/2023/09/farewell-ec2-classic.html)
+- [Are self-driving cars already safer than human drivers?](https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/)
+- [The technical merits of Wayland are mostly irrelevant](https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
