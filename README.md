@@ -54,7 +54,7 @@
 - [Not a single emperor penguin chick survived spring in parts of Antarctica](https://www.smh.com.au/environment/climate-change/not-a-single-emperor-penguin-chick-survived-spring-in-parts-of-antarctica-20230822-p5dykw.html)
 - [Pooling and Sharing of wealth makes everyone&#39;s wealth grow faster](https://ergodicityeconomics.com/2023/08/29/for-to-withhold-is-to-perish/)
 - [A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
-- [Plan for 55,000-acre utopia dreamed by Silicon Valley elites unveiled](https://www.theguardian.com/technology/2023/sep/02/silicon-valley-elites-utopian-city-california)
+- [Become fundamentally strong in Data Science and AI](https://edu.machinelearningplus.com/s/pages/ds-career-path)
 - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
 <!-- BLOG-POST-LIST:END -->
 
