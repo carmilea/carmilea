@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
-- [Spirituality of Science: Implications for Meaning, Well-Being, and Learning](https://journals.sagepub.com/doi/10.1177/01461672231191356)
-- [WonderOS](https://wonderos.org/)
-- [RIP, WordPad](https://www.thurrott.com/windows/windows-11/288088/rip-wordpad)
-- [The US Military Is Getting Smaller, Cheaper and Smarter](https://www.bloomberg.com/opinion/articles/2023-09-01/pentagon-building-killer-drone-swarms-for-possible-war-against-china)
+- [Toml-bench – Which toml package to use in Python?](https://github.com/pwwang/toml-bench)
+- [Why the Apple phone will fail, and fail badly &lpar;2006&rpar;](https://web.archive.org/web/20070117233154/https://www.theregister.com/2006/12/23/iphone_will_fail/)
+- [Show HN: XRss: An RSS Reader and web stack demo powered by Htmx](https://xrss.infogulch.com/)
+- [Can an Artificial Kidney Finally Free Patients from Dialysis?](https://www.ucsf.edu/news/2023/08/426056/can-artificial-kidney-finally-free-patients-dialysis)
+- [ForgeFed](https://forgefed.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
