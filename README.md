@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PlayHT &lpar;YC W23&rpar; Is Hiring Senior ML Engineers &lpar;LLMs, Generative AI&rpar;](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
+- [Is the ChatGPT and Bing AI boom already over?](https://www.vox.com/technology/2023/8/19/23837705/openai-chatgpt-microsoft-bing-google-generating-less-interest)
+- [Invariants: A Better Debugger?](https://brooker.co.za/blog/2023/07/28/ds-testing.html)
 - [WAPO: Fatal Force DB](https://github.com/washingtonpost/data-police-shootings)
 - [How to edit your own lousy writing &lpar;2017&rpar;](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
-- [Csound](https://csound.com/get-started.html)
-- [Internals of async / await in JavaScript](https://akashhamirwasia.com/blog/internals-of-async-await-in-javascript/)
-- [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
