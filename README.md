@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ohio cops release bodycam vid of officer shooting dead pregnant driver](https://www.cnn.com/2023/09/01/us/takiya-young-ohio-police-shooting/index.html)
+- [Pooling and Sharing of wealth make everyone&#39;s wealth grow faster](https://ergodicityeconomics.com/2023/08/29/for-to-withhold-is-to-perish/)
+- [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
 - [PlayHT &lpar;YC W23&rpar; Is Hiring Senior ML Engineers &lpar;LLMs, Generative AI&rpar;](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
-- [Is the ChatGPT and Bing AI boom already over?](https://www.vox.com/technology/2023/8/19/23837705/openai-chatgpt-microsoft-bing-google-generating-less-interest)
 - [Invariants: A Better Debugger?](https://brooker.co.za/blog/2023/07/28/ds-testing.html)
-- [WAPO: Fatal Force DB](https://github.com/washingtonpost/data-police-shootings)
-- [How to edit your own lousy writing &lpar;2017&rpar;](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
