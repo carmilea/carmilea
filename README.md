@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rest in peace, neglected iTunes Movie Trailer app and website](https://arstechnica.com/gadgets/2023/09/rest-in-peace-neglected-itunes-movie-trailer-app-and-website/)
-- [A GPT-4 capability forecasting challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
-- [Pooling and Sharing of wealth makes everyone&#39;s wealth grow faster](https://ergodicityeconomics.com/2023/08/29/for-to-withhold-is-to-perish/)
-- [A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
-- [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
+- [Two years of Bitcoin in Bukele’s El Salvador](https://english.elpais.com/international/2023-09-02/two-years-of-bitcoin-in-bukeles-el-salvador-an-opaque-experiment-with-a-little-used-currency.html)
+- [Jimmy Buffett: Margaritaville singer dies aged 76](https://www.bbc.com/news/entertainment-arts-66694147)
+- [Samsung Unveils Industry&#39;s First 32Gbit DDR5 Memory Die: 1TB Modules Incoming](https://www.anandtech.com/show/20039/samsung-unveils-industrys-first-32gbit-ddr5-die-1tb-modules-incoming)
+- [Semantic Zoom](https://alexanderobenauer.com/labnotes/038/)
+- [Call of the Liar](https://nautil.us/call-of-the-liar-363420/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
