@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Two years of Bitcoin in Bukele’s El Salvador](https://english.elpais.com/international/2023-09-02/two-years-of-bitcoin-in-bukeles-el-salvador-an-opaque-experiment-with-a-little-used-currency.html)
-- [Jimmy Buffett: Margaritaville singer dies aged 76](https://www.bbc.com/news/entertainment-arts-66694147)
-- [Samsung Unveils Industry&#39;s First 32Gbit DDR5 Memory Die: 1TB Modules Incoming](https://www.anandtech.com/show/20039/samsung-unveils-industrys-first-32gbit-ddr5-die-1tb-modules-incoming)
-- [Semantic Zoom](https://alexanderobenauer.com/labnotes/038/)
-- [Call of the Liar](https://nautil.us/call-of-the-liar-363420/)
+- [RIP, WordPad](https://www.thurrott.com/windows/windows-11/288088/rip-wordpad)
+- [Tesla, Rivian Put on Fake Show of Support for ‘Right to Repair’](https://www.techdirt.com/2023/09/01/tesla-rivian-put-on-fake-show-of-support-for-right-to-repair/)
+- [Cops drill into chat apps, sink plot to smuggle tons of coke into Europe](https://www.theregister.com/2023/09/02/europol_balkan_cartel/)
+- [Windows NT 3.1](https://www.abortretry.fail/p/the-history-of-windows-nt-31)
+- [On Craft](https://www.drcathicks.com/post/on-craft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
