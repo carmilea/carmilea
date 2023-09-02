@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Explaining the Postgres Meme](https://avestura.dev/blog/explaining-the-postgres-meme)
+- [Explaining the Postgres iceberg](https://avestura.dev/blog/explaining-the-postgres-meme)
 - [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
 - [Bright &lpar;YC W15&rpar; Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
 - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
