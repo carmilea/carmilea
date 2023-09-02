@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Edit Your Own Lousy Writing &lpar;2017&rpar;](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
-- [Explaining the Postgres iceberg](https://avestura.dev/blog/explaining-the-postgres-meme)
+- [WAPO: Fatal Force DB](https://github.com/washingtonpost/data-police-shootings)
+- [How to edit your own lousy writing &lpar;2017&rpar;](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
+- [Csound](https://csound.com/get-started.html)
+- [Internals of async / await in JavaScript](https://akashhamirwasia.com/blog/internals-of-async-await-in-javascript/)
 - [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
-- [Bright &lpar;YC W15&rpar; Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
-- [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
