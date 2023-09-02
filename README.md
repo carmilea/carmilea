@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
+- [Spirituality of Science: Implications for Meaning, Well-Being, and Learning](https://journals.sagepub.com/doi/10.1177/01461672231191356)
+- [WonderOS](https://wonderos.org/)
 - [RIP, WordPad](https://www.thurrott.com/windows/windows-11/288088/rip-wordpad)
-- [Tesla, Rivian Put on Fake Show of Support for ‘Right to Repair’](https://www.techdirt.com/2023/09/01/tesla-rivian-put-on-fake-show-of-support-for-right-to-repair/)
-- [Cops drill into chat apps, sink plot to smuggle tons of coke into Europe](https://www.theregister.com/2023/09/02/europol_balkan_cartel/)
-- [Windows NT 3.1](https://www.abortretry.fail/p/the-history-of-windows-nt-31)
-- [On Craft](https://www.drcathicks.com/post/on-craft)
+- [The US Military Is Getting Smaller, Cheaper and Smarter](https://www.bloomberg.com/opinion/articles/2023-09-01/pentagon-building-killer-drone-swarms-for-possible-war-against-china)
 <!-- BLOG-POST-LIST:END -->
 
 ---
