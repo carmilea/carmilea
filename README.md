@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Edit Your Own Lousy Writing &lpar;2017&rpar;](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
 - [Explaining the Postgres iceberg](https://avestura.dev/blog/explaining-the-postgres-meme)
 - [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
 - [Bright &lpar;YC W15&rpar; Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
 - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
-- [Space travel via tether between asteroids](https://blog.cerowrt.org/post/toutatis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
