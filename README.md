@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Russian rocket scientist dies from ‘mushroom poisoning’](https://ptv-news.com.pk/top-russian-rocket-scientist-dies-from-mushroom-poisoning/)
 - [Toml-bench – Which toml package to use in Python?](https://github.com/pwwang/toml-bench)
-- [Why the Apple phone will fail, and fail badly &lpar;2006&rpar;](https://web.archive.org/web/20070117233154/https://www.theregister.com/2006/12/23/iphone_will_fail/)
+- [Ask HN: How to Focus Again?](https://news.ycombinator.com/item?id=37362200)
 - [Show HN: XRss: An RSS Reader and web stack demo powered by Htmx](https://xrss.infogulch.com/)
 - [Can an Artificial Kidney Finally Free Patients from Dialysis?](https://www.ucsf.edu/news/2023/08/426056/can-artificial-kidney-finally-free-patients-dialysis)
-- [ForgeFed](https://forgefed.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
