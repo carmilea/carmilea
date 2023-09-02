@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MindsDB &lpar;YC W20&rpar; Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
+- [Burning Man attendees advised to shelter in place, conserve food/water](https://www.nbcnews.com/news/us-news/burning-man-attendees-advised-shelter-place-conserve-food-water-due-he-rcna103127)
+- [Calibre Replacement Considerations &lpar;2019&rpar;](https://anarc.at/software/desktop/calibre/)
 - [DOS Game Club](https://www.dosgameclub.com/)
 - [Found in a Library Book](https://oaklandlibrary.org/found-in-a-library-book/)
-- [Show HN: Shaq, a CLI for Shazam](https://blog.yossarian.net/2023/07/27/Introducing-shaq-a-CLI-for-shazam)
-- [In-memory vs. disk-based DB: Why do you need a larger than memory architecture?](https://memgraph.com/blog/in-memory-vs-disk-based-databases-larger-than-memory-architecture)
-- [Tax prep companies: $90M lobbying against free tax-filing](https://www.opensecrets.org/news/2023/09/tax-prep-companies-lobbying-against-free-file-face-scrutiny-from-lawmakers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
