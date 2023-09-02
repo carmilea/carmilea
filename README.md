@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DOS Game Club](https://www.dosgameclub.com/)
+- [Found in a Library Book](https://oaklandlibrary.org/found-in-a-library-book/)
 - [Show HN: Shaq, a CLI for Shazam](https://blog.yossarian.net/2023/07/27/Introducing-shaq-a-CLI-for-shazam)
-- [‘Conserve food and water’: No way in or out of Burning Man after storm](https://www.sfgate.com/travel/article/no-access-after-burning-man-rain-storm-18344393.php)
 - [In-memory vs. disk-based DB: Why do you need a larger than memory architecture?](https://memgraph.com/blog/in-memory-vs-disk-based-databases-larger-than-memory-architecture)
 - [Tax prep companies: $90M lobbying against free tax-filing](https://www.opensecrets.org/news/2023/09/tax-prep-companies-lobbying-against-free-file-face-scrutiny-from-lawmakers/)
-- [Renting vs. Owning a Home, by State](https://flowingdata.com/2023/08/25/renting-vs-owning-a-home-by-state/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
