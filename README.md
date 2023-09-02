@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [MindsDB &lpar;YC W20&rpar; Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
+- [Show HN: Menu Bar Calendar on macOS](https://sindresorhus.com/menu-bar-calendar)
 - [Calibre Replacement Considerations &lpar;2019&rpar;](https://anarc.at/software/desktop/calibre/)
 - [GameRoy: JIT Compilation in High-Accuracy Game Boy Emulation](https://rodrigodd.github.io/2023/09/02/gameroy-jit.html)
 - [DOS Game Club](https://www.dosgameclub.com/)
-- [Found in a Library Book](https://oaklandlibrary.org/found-in-a-library-book/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
