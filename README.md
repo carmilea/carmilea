@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I don’t want to grow my freelance design studio into an agency](https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/)
-- [HTML Design Principles &lpar;2007&rpar;](https://www.w3.org/TR/html-design-principles/)
-- [Climate Change Tracker](https://climatechangetracker.org)
-- [Harry Browne’s 17 Golden Rules of Financial Safety &lpar;2013&rpar;](https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/)
-- [Interfaces for Prototyping Hardware](https://kevinlynagh.com/newsletter/2023_09_hardware_prototyping/)
+- [da Vinci robot surgeon removes inoperable tumor, saving patient’s life](https://bgr.com/science/da-vinci-robot-surgeon-removes-inoperable-tumor-saving-patients-life/)
+- [SF Fire Dept.: Person Dies After Cruise Robotaxi Blocked Ambulance](https://sfstandard.com/2023/09/01/person-dies-cruise-robotaxi-blocks-san-francisco-ambulance/)
+- [California tech transplants unhappy with exodus to Austin, report says](https://www.sfgate.com/local/article/california-transplants-unhappy-exodus-austin-18343754.php)
+- [Vale.sh – A Linter for Prose](https://vale.sh/)
+- [What are emerging/promising areas of tech to get into today?](https://news.ycombinator.com/item?id=37371112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
