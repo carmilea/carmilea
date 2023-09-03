@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues](https://www.nytimes.com/2023/09/02/world/americas/mexico-iguala-students-kidnapping.html)
+- [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
 - [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
 - [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
-- [Focus: A simple and fast text editor written in Jai](https://github.com/focus-editor/focus)
 - [Rescuing the lost code and stereo sound to Sinistar [video]](https://www.youtube.com/watch?v=ZRDdKZ7V54I)
-- [MindsDB &lpar;YC W20&rpar; is hiring a senior front end engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
