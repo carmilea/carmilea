@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jetbrains are offering 65% off Rider personal licenses for 65 hours](https://lp.jetbrains.com/rider-65-discount/)
 - [Replit &lpar;YC W18&rpar; Is Hiring Engineers in AI, Platform, and Product](https://replit.com/site/careers)
-- [New study suggests global warming could be mostly an urban problem](https://www.ceres-science.com/post/new-study-suggests-global-warming-could-be-mostly-an-urban-problem)
+- [The pandemic your grandparents forgot about](https://nautil.us/the-pandemic-your-grandparents-forgot-359076/)
+- [Learner drivers forced to buy tests on black market as companies blockbook slots](https://www.theguardian.com/uk-news/2023/sep/03/an-absolute-mess-learner-drivers-forced-to-buy-tests-on-black-market-as-companies-block-book-slots)
 - [The Curious Case of Hybrids in Watchmaking](https://monochrome-watches.com/a-technical-perspective-defining-and-understanding-hybrid-watches/)
-- [Why Do We Interface? &lpar;2020&rpar;](https://whydoweinterface.com)
-- [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
