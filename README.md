@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues](https://www.nytimes.com/2023/09/02/world/americas/mexico-iguala-students-kidnapping.html)
+- [Ask HN: What do you carry in your backpack?](https://news.ycombinator.com/item?id=37367051)
 - [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
 - [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
 - [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
-- [Rescuing the lost code and stereo sound to Sinistar [video]](https://www.youtube.com/watch?v=ZRDdKZ7V54I)
 <!-- BLOG-POST-LIST:END -->
 
 ---
