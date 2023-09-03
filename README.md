@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kermit Project books and articles online](https://www.kermitproject.org/booksonline.html)
-- [Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues](https://www.nytimes.com/2023/09/02/world/americas/mexico-iguala-students-kidnapping.html)
-- [Silicon Valley’s elites can’t be trusted with the future of AI](https://fortune.com/2023/09/01/silicon-valley-elite-trust-future-ai-dominance-dangers-god-complex-wadhwa-gupta/)
+- [Niri: A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
 - [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
 - [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
+- [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
+- [Rescuing the lost code and stereo sound to Sinistar [video]](https://www.youtube.com/watch?v=ZRDdKZ7V54I)
 <!-- BLOG-POST-LIST:END -->
 
 ---
