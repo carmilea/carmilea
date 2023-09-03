@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring Senior Software Engineers in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
+- [Show HN: Online Timers](https://www.timerone.com)
 - [How did Stripe come up with its name? &lpar;2015&rpar;](https://www.quora.com/How-did-Stripe-come-up-with-its-name)
 - [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
 - [UPI Payments: 10B Transactions a Month Done, Next Stop 100B](https://www.bqprime.com/business/upi-payments-10-billion-transactions-a-month-done-next-stop-100-billion)
-- [Niri: A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
-- [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
