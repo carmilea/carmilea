@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The containment of George Kennan &lpar;2022&rpar;](https://claremontreviewofbooks.com/the-containment-of-george-kennan/)
+- [How to write correct code by construction using the Coq Proof Assistant](https://betterprogramming.pub/a-taste-of-coq-and-correct-code-by-construction-111bf74d3b98)
 - [Are deep blue seas fading? Oceans turn to new hue across parts of Earth](https://phys.org/news/2023-08-deep-blue-seas-oceans-hue.html)
-- [Some veteran YouTube staff think Shorts might ruin YouTube](https://www.theverge.com/2023/9/3/23857451/youtube-shorts-tiktok-ads-short-video)
-- [Vector Search with OpenAI Embeddings: Lucene Is All You Need](https://arxiv.org/abs/2308.14963)
-- [Google Preemptively Banned Hundreds of Millions of &#39;Pirate&#39; URLs Last Year](https://torrentfreak.com/google-preemptively-banned-hundreds-of-millions-of-pirate-urls-last-year-230903/)
-- [Tesla FSD Beta tried to kill me last night](https://electrek.co/2023/09/01/tesla-fsd-beta-tried-to-kill-me-last-night/)
+- [Yenish people](https://en.wikipedia.org/wiki/Yenish_people)
+- [Cola: A text CRDT for real-time collaborative editing](https://nomad.foo/blog/cola)
 <!-- BLOG-POST-LIST:END -->
 
 ---
