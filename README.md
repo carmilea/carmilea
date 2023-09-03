@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Da Vinci robot surgeon removes inoperable tumor, saving patient’s life](https://bgr.com/science/da-vinci-robot-surgeon-removes-inoperable-tumor-saving-patients-life/)
+- [Microsoft Edge is starting to annoy me big time](https://www.dedoimedo.com/computers/microsoft-edge-personalized-web-got-it-annoyance.html)
+- [USPS Isn&#39;t Paying 45,000 Rural Postal Workers This Week](https://jalopnik.com/usps-isnt-paying-45-000-rural-postal-workers-this-week-1850797494)
 - [Air quality double whammy from domestic firelighters](https://www.nature.com/articles/s41612-023-00427-x)
-- [SF Fire Dept.: Person Dies After Cruise Robotaxi Blocked Ambulance](https://sfstandard.com/2023/09/01/person-dies-cruise-robotaxi-blocks-san-francisco-ambulance/)
 - [Vale.sh – A Linter for Prose](https://vale.sh/)
 - [Show HN: Extract RSS feed from almost anything](https://rssfeedasap.com)
 <!-- BLOG-POST-LIST:END -->
