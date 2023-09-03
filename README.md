@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit &lpar;YC W18&rpar; Is Hiring Engineers in AI, Platform, and Product](https://replit.com/site/careers)
+- [New study suggests global warming could be mostly an urban problem](https://www.ceres-science.com/post/new-study-suggests-global-warming-could-be-mostly-an-urban-problem)
 - [The Curious Case of Hybrids in Watchmaking](https://monochrome-watches.com/a-technical-perspective-defining-and-understanding-hybrid-watches/)
 - [Why Do We Interface? &lpar;2020&rpar;](https://whydoweinterface.com)
 - [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
-- [Tolkien, 50 Years On](https://thecritic.co.uk/tolkien-50-years-on/)
-- [Quantum Groups and Adelic Representations](https://chat.openai.com/share/1a9dc873-6e16-40d3-859c-6a56f5e5b6bb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
