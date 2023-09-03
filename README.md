@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Curious Case of Hybrids in Watchmaking](https://monochrome-watches.com/a-technical-perspective-defining-and-understanding-hybrid-watches/)
+- [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
 - [Tolkien, 50 Years On](https://thecritic.co.uk/tolkien-50-years-on/)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring Senior Software Engineers in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
-- [The Musaicum EU-plus 10M resolution image of Europe](https://imagico.de/blog/en/announcing-the-musaicum-eu-plus-10m-resolution-image-of-europe/)
-- [Hacking the Timex m851](https://lock.cmpxchg8b.com/timex.html)
-- [How did Stripe come up with its name? &lpar;2015&rpar;](https://www.quora.com/How-did-Stripe-come-up-with-its-name/answer/Greg-Brockman)
+- [Quantum Groups and Adelic Representations](https://chat.openai.com/share/1a9dc873-6e16-40d3-859c-6a56f5e5b6bb)
+- [Using the Wrong Dictionary &lpar;2014&rpar;](https://jsomers.net/blog/dictionary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
