@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MindsDB &lpar;YC W20&rpar; Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
-- [Show HN: Menu Bar Calendar on macOS](https://sindresorhus.com/menu-bar-calendar)
-- [Calibre Replacement Considerations &lpar;2019&rpar;](https://anarc.at/software/desktop/calibre/)
-- [GameRoy: JIT Compilation in High-Accuracy Game Boy Emulation](https://rodrigodd.github.io/2023/09/02/gameroy-jit.html)
-- [DOS Game Club](https://www.dosgameclub.com/)
+- [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
+- [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
+- [Focus: A simple and fast text editor written in Jai](https://github.com/focus-editor/focus)
+- [Rescuing the lost code and stereo sound to Sinistar [video]](https://www.youtube.com/watch?v=ZRDdKZ7V54I)
+- [MindsDB &lpar;YC W20&rpar; is hiring a senior front end engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
