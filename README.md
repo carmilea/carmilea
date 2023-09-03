@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Invented Tradition](https://en.wikipedia.org/wiki/Invented_tradition)
 - [Foxconn&#39;s Promise to Invest $10B in Wisconsin Is Now a Distant Memory](https://www.engadget.com/foxconns-promise-to-invest-10-billion-in-wisconsin-is-now-a-distant-memory-090555405.html)
-- [RadioShack’s new owner plots old comeback strategy](https://retailwire.com/discussion/radioshacks-new-owner-plots-old-comeback-strategy/)
 - [The containment of George Kennan &lpar;2022&rpar;](https://claremontreviewofbooks.com/the-containment-of-george-kennan/)
 - [How to write correct code by construction using the Coq Proof Assistant](https://betterprogramming.pub/a-taste-of-coq-and-correct-code-by-construction-111bf74d3b98)
 - [Low-latitude oceans have become greener in the past 20 years: study](https://phys.org/news/2023-08-deep-blue-seas-oceans-hue.html)
