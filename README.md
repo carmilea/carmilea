@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I don’t want to grow my freelance design studio into an agency](https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/)
+- [HTML Design Principles &lpar;2007&rpar;](https://www.w3.org/TR/html-design-principles/)
+- [Climate Change Tracker](https://climatechangetracker.org)
 - [Harry Browne’s 17 Golden Rules of Financial Safety &lpar;2013&rpar;](https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/)
 - [Interfaces for Prototyping Hardware](https://kevinlynagh.com/newsletter/2023_09_hardware_prototyping/)
-- [Sag-AFTRA votes unanimously to expand its strike to include the games industry](https://www.eurogamer.net/sag-aftra-votes-unanimously-to-expand-its-strike-to-include-the-games-industry)
-- [The Raft Consensus Algorithm](https://raft.github.io)
-- [Replit &lpar;YC W18&rpar; Is Hiring Engineers in AI, Platform, and Product](https://replit.com/site/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
