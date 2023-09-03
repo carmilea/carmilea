@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How did Stripe come up with its name? &lpar;2015&rpar;](https://www.quora.com/How-did-Stripe-come-up-with-its-name)
+- [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
+- [UPI Payments: 10B Transactions a Month Done, Next Stop 100B](https://www.bqprime.com/business/upi-payments-10-billion-transactions-a-month-done-next-stop-100-billion)
 - [Niri: A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
 - [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
-- [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
-- [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
-- [Rescuing the lost code and stereo sound to Sinistar [video]](https://www.youtube.com/watch?v=ZRDdKZ7V54I)
 <!-- BLOG-POST-LIST:END -->
 
 ---
