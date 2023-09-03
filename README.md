@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [da Vinci robot surgeon removes inoperable tumor, saving patient’s life](https://bgr.com/science/da-vinci-robot-surgeon-removes-inoperable-tumor-saving-patients-life/)
+- [Da Vinci robot surgeon removes inoperable tumor, saving patient’s life](https://bgr.com/science/da-vinci-robot-surgeon-removes-inoperable-tumor-saving-patients-life/)
+- [Air quality double whammy from domestic firelighters](https://www.nature.com/articles/s41612-023-00427-x)
 - [SF Fire Dept.: Person Dies After Cruise Robotaxi Blocked Ambulance](https://sfstandard.com/2023/09/01/person-dies-cruise-robotaxi-blocks-san-francisco-ambulance/)
-- [California tech transplants unhappy with exodus to Austin, report says](https://www.sfgate.com/local/article/california-transplants-unhappy-exodus-austin-18343754.php)
 - [Vale.sh – A Linter for Prose](https://vale.sh/)
-- [What are emerging/promising areas of tech to get into today?](https://news.ycombinator.com/item?id=37371112)
+- [Show HN: Extract RSS feed from almost anything](https://rssfeedasap.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
