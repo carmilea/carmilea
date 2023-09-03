@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tolkien, 50 Years On](https://thecritic.co.uk/tolkien-50-years-on/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Senior Software Engineers in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
-- [Show HN: Online Timers](https://www.timerone.com)
-- [How did Stripe come up with its name? &lpar;2015&rpar;](https://www.quora.com/How-did-Stripe-come-up-with-its-name)
-- [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
-- [UPI Payments: 10B Transactions a Month Done, Next Stop 100B](https://www.bqprime.com/business/upi-payments-10-billion-transactions-a-month-done-next-stop-100-billion)
+- [The Musaicum EU-plus 10M resolution image of Europe](https://imagico.de/blog/en/announcing-the-musaicum-eu-plus-10m-resolution-image-of-europe/)
+- [Hacking the Timex m851](https://lock.cmpxchg8b.com/timex.html)
+- [How did Stripe come up with its name? &lpar;2015&rpar;](https://www.quora.com/How-did-Stripe-come-up-with-its-name/answer/Greg-Brockman)
 <!-- BLOG-POST-LIST:END -->
 
 ---
