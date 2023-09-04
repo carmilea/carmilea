@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [War games: Battlefield strategy and the game of chess](https://www.thearticle.com/war-games-battlefield-strategy-and-the-game-of-chess)
+- [Google was founded 25 years ago Today](https://en.wikipedia.org/wiki/History_of_Google)
 - [Haskell mini-patterns handbook &lpar;2020&rpar;](https://kowainik.github.io/posts/haskell-mini-patterns)
 - [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
-- [Show HN: MonoDevelop](https://www.monodevelop.com/)
 - [How we know languages like proto-Indo-European existed [video]](https://www.youtube.com/watch?v=jIgoBRbfkUA)
-- [A Proposal for an asynchronous Rust GUI framework](https://notgull.github.io/async-gui/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
