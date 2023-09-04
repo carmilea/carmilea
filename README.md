@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
+- [Spectrolite – Mac app to make colorful risograph prints and zines more easily](https://spectrolite.app)
+- [Latch bio: “We work six days a week”](https://jobs.lever.co/latch/a82d61c7-63b9-481c-85ad-4ce80031a481)
 - [Home insurers cut natural disasters from policies as climate risks grow](https://www.washingtonpost.com/business/2023/09/03/natural-disaster-climate-insurance/)
 - [Tidal Energy Is Not Renewable](https://cs.stanford.edu/people/zjl/tide.html)
-- [Secret Government Telephone Numbers](https://computer.rip/2023-02-07-secret-government-telephone-numbers.html)
-- [Extreme El Niño weather switched off South American&#39;s carbon sink](https://www.leeds.ac.uk/news-environment/news/article/5391/extreme-el-ni-o-weather-switched-off-south-american-s-carbon-sink)
-- [Mechanisms of scent-tracking in humans](https://www.nature.com/articles/nn1819)
 <!-- BLOG-POST-LIST:END -->
 
 ---
