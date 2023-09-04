@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jitsi Meet Abandons Anonimity Promise](https://reclaimthenet.org/private-zoom-alternative-jitsi-meet-abandons-anonymity-promise)
-- [Ask HN: In person industry tours and site visits](https://news.ycombinator.com/item?id=37381377)
-- [Svelte is surprisingly easy to learn](https://kaviisuri.com/you-dont-need-to-learn-svelte)
-- [Antioxidants such as Vitamin C found to spur cancer growth and metastasis](https://newatlas.com/medical/antioxidants-stimulate-blood-vessel-growth-cancer-tumors/)
-- [The mobile game funding a revolution in Myanmar](https://www.bbc.com/news/world-asia-65906961)
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Couples Coaches](https://relationshiphero.com/careers?role=coach)
+- [Medical-evidence giant Cochrane battles funding cuts and closures](https://www.nature.com/articles/d41586-023-02741-z)
+- [Can We Talk to Whales?](https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales)
+- [An effort to ban caste discrimination in California has touched a nerve](https://www.politico.com/news/2023/09/04/ban-caste-discrimination-california-bill-00113817)
+- [Refact LLM: New 1.6B code model reaches 32% HumanEval and is SOTA for the size](https://refact.ai/blog/2023/introducing-refact-code-llm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
