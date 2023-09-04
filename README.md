@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
+- [Hardware Random Bit Generator](https://web.jfet.org/hw-rng.html)
+- [Cuber: Deploy your apps on Kubernetes easily](https://github.com/cuber-cloud/cuber-gem)
 - [War games: Battlefield strategy and the game of chess](https://www.thearticle.com/war-games-battlefield-strategy-and-the-game-of-chess)
 - [Plastic Money](https://computer.rip/2023-09-03-plastic-money.html)
-- [Google was founded 25 years ago Today](https://en.wikipedia.org/wiki/History_of_Google)
-- [Haskell mini-patterns handbook &lpar;2020&rpar;](https://kowainik.github.io/posts/haskell-mini-patterns)
-- [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
