@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome extensions can steal plaintext passwords from websites](https://www.bleepingcomputer.com/news/security/chrome-extensions-can-steal-plaintext-passwords-from-websites/)
+- [Reddit faces content quality concerns after its Great Mod Purge](https://arstechnica.com/gadgets/2023/09/are-reddits-replacement-mods-fit-to-fight-misinformation/)
+- [TV Museum Will Die in 48 Hours Unless Sony Retracts YouTube Copyright Strikes](https://torrentfreak.com/tv-museum-will-die-in-48-hours-unless-sony-retracts-youtube-copyright-strikes-230904/)
 - [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
 - [Hardware Random Bit Generator](https://web.jfet.org/hw-rng.html)
 - [Cuber: Deploy your apps on Kubernetes easily](https://github.com/cuber-cloud/cuber-gem)
-- [David Tolnay on the &quot;RustConf Keynote Fiasco&quot;](https://gist.github.com/dtolnay/7f5da4bf057b7c6d0d00c6bed3060b96)
 <!-- BLOG-POST-LIST:END -->
 
 ---
