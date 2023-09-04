@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Don&#39;t Need to “Learn” Svelte: Embracing the Simplicity of JavaScript](https://kaviisuri.com/you-dont-need-to-learn-svelte)
+- [Antioxidants such as Vitamin C found to spur cancer growth and metastasis](https://newatlas.com/medical/antioxidants-stimulate-blood-vessel-growth-cancer-tumors/)
+- [The mobile game funding a revolution in Myanmar](https://www.bbc.com/news/world-asia-65906961)
 - [Computing Power Used to Be Measured in &#39;Kilo-Girls&#39;](https://www.theatlantic.com/technology/archive/2013/10/computing-power-used-to-be-measured-in-kilo-girls/280633/)
 - [Titanium spikes kill superbugs drug-free by ripping them apart](https://newatlas.com/medical/titanium-spikes-effective-drug-free-kill-antibiotic-resistant-superbugs/)
-- [Is macOS’s new XProtect behavioural security preparing to go live?](https://eclecticlight.co/2023/09/04/is-macoss-new-xprotect-behavioural-security-preparing-to-go-live/)
-- [How Accurate Were EPAs Predictions of climate change from 40 years ago?](https://themessenger.com/tech/forty-years-ago-scientists-warned-about-climate-change-how-accurate-were-their-predictions)
-- [I built a Plane Spotter in 120 secs with ChatGPT](https://louison.substack.com/p/i-built-a-plane-spotter-for-my-son)
 <!-- BLOG-POST-LIST:END -->
 
 ---
