@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bigger, better, faster, more](https://blog.nearlyfreespeech.net/2023/08/22/bigger-better-faster-more/)
+- [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
+- [WiiLink – Japanese Wii channels revived](https://www.wiilink24.com/)
 - [Lego 3-axis styrofoam cutter [video]](https://www.youtube.com/watch?v=gR0SYhG76fw)
+- [He created the Katamari games, but they’re rolling on without him](https://www.nytimes.com/2023/07/28/arts/katamari-damacy-keita-takahashi.html)
 - [The Containment of George Kennan &lpar;2022&rpar;](https://claremontreviewofbooks.com/the-containment-of-george-kennan/)
-- [How to write correct code by construction using the Coq Proof Assistant](https://betterprogramming.pub/a-taste-of-coq-and-correct-code-by-construction-111bf74d3b98)
-- [Low-latitude oceans have become greener in the past 20 years: study](https://phys.org/news/2023-08-deep-blue-seas-oceans-hue.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
