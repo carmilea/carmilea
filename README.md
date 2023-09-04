@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Home insurers cut natural disasters from policies as climate risks grow](https://www.washingtonpost.com/business/2023/09/03/natural-disaster-climate-insurance/)
+- [Tidal Energy Is Not Renewable](https://cs.stanford.edu/people/zjl/tide.html)
+- [Secret Government Telephone Numbers](https://computer.rip/2023-02-07-secret-government-telephone-numbers.html)
+- [Extreme El Niño weather switched off South American&#39;s carbon sink](https://www.leeds.ac.uk/news-environment/news/article/5391/extreme-el-ni-o-weather-switched-off-south-american-s-carbon-sink)
 - [Mechanisms of scent-tracking in humans](https://www.nature.com/articles/nn1819)
-- [Nougat: Neural Optical Understanding for Academic Documents](https://arxiv.org/abs/2308.13418)
-- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Couples Coaches](https://relationshiphero.com/careers?role=coach)
-- [Medical-evidence giant Cochrane battles funding cuts and closures](https://www.nature.com/articles/d41586-023-02741-z)
-- [Can We Talk to Whales?](https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales)
 <!-- BLOG-POST-LIST:END -->
 
 ---
