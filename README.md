@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mechanisms of scent-tracking in humans](https://www.nature.com/articles/nn1819)
+- [Nougat: Neural Optical Understanding for Academic Documents](https://arxiv.org/abs/2308.13418)
 - [Relationship Hero &lpar;YC S17&rpar; Is Hiring Couples Coaches](https://relationshiphero.com/careers?role=coach)
 - [Medical-evidence giant Cochrane battles funding cuts and closures](https://www.nature.com/articles/d41586-023-02741-z)
 - [Can We Talk to Whales?](https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales)
-- [An effort to ban caste discrimination in California has touched a nerve](https://www.politico.com/news/2023/09/04/ban-caste-discrimination-california-bill-00113817)
-- [Refact LLM: New 1.6B code model reaches 32% HumanEval and is SOTA for the size](https://refact.ai/blog/2023/introducing-refact-code-llm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
