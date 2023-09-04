@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Haskell mini-patterns handbook &lpar;2020&rpar;](https://kowainik.github.io/posts/haskell-mini-patterns)
 - [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
+- [Show HN: MonoDevelop](https://www.monodevelop.com/)
 - [How we know languages like proto-Indo-European existed [video]](https://www.youtube.com/watch?v=jIgoBRbfkUA)
 - [A Proposal for an asynchronous Rust GUI framework](https://notgull.github.io/async-gui/)
-- [Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
-- [Amiga Samplers: Budget dance music in 1990](https://www.youtube.com/watch?v=i9MXYZh1jcs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
