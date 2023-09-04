@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome extensions can steal plaintext passwords from websites](https://www.bleepingcomputer.com/news/security/chrome-extensions-can-steal-plaintext-passwords-from-websites/)
 - [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
 - [Hardware Random Bit Generator](https://web.jfet.org/hw-rng.html)
 - [Cuber: Deploy your apps on Kubernetes easily](https://github.com/cuber-cloud/cuber-gem)
-- [War games: Battlefield strategy and the game of chess](https://www.thearticle.com/war-games-battlefield-strategy-and-the-game-of-chess)
-- [Plastic Money](https://computer.rip/2023-09-03-plastic-money.html)
+- [David Tolnay on the &quot;RustConf Keynote Fiasco&quot;](https://gist.github.com/dtolnay/7f5da4bf057b7c6d0d00c6bed3060b96)
 <!-- BLOG-POST-LIST:END -->
 
 ---
