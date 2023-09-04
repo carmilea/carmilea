@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aviator &lpar;YC S21&rpar; Is hiring senior eng for building the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
-- [Geoff Chappell has passed away](https://twitter.com/travisgoodspeed/status/1698715249593958560)
-- [Wine 8.15 &lpar;Dev&rpar; – Run Windows Applications on Linux, BSD, Solaris and macOS](https://www.winehq.org/announce/8.15)
-- [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
-- [Spectrolite – Mac app to make colorful risograph prints and zines more easily](https://spectrolite.app)
+- [The Lies in Your Grocery Store, and the Laywer Who Can&#39;t Stomach Them](https://www.newyorker.com/magazine/2023/09/11/the-lies-in-your-grocery-store)
+- [The Apple $2T Economy](http://www.asymco.com/2023/09/04/the-2-trillion-economy/)
+- [Aviator &lpar;YC S21&rpar; is hiring a senior engineer to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
+- [Geoff Chappell has died](https://twitter.com/travisgoodspeed/status/1698715249593958560)
+- [LLM now provides tools for working with embeddings](https://simonwillison.net/2023/Sep/4/llm-embeddings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
