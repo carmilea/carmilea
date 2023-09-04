@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You Don&#39;t Need to “Learn” Svelte: Embracing the Simplicity of JavaScript](https://kaviisuri.com/you-dont-need-to-learn-svelte)
+- [Jitsi Meet Abandons Anonimity Promise](https://reclaimthenet.org/private-zoom-alternative-jitsi-meet-abandons-anonymity-promise)
+- [Ask HN: In person industry tours and site visits](https://news.ycombinator.com/item?id=37381377)
+- [Svelte is surprisingly easy to learn](https://kaviisuri.com/you-dont-need-to-learn-svelte)
 - [Antioxidants such as Vitamin C found to spur cancer growth and metastasis](https://newatlas.com/medical/antioxidants-stimulate-blood-vessel-growth-cancer-tumors/)
 - [The mobile game funding a revolution in Myanmar](https://www.bbc.com/news/world-asia-65906961)
-- [Computing Power Used to Be Measured in &#39;Kilo-Girls&#39;](https://www.theatlantic.com/technology/archive/2013/10/computing-power-used-to-be-measured-in-kilo-girls/280633/)
-- [Titanium spikes kill superbugs drug-free by ripping them apart](https://newatlas.com/medical/titanium-spikes-effective-drug-free-kill-antibiotic-resistant-superbugs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
