@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aviator &lpar;YC S21&rpar; Is hiring senior eng for building the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
+- [Geoff Chappell has passed away](https://twitter.com/travisgoodspeed/status/1698715249593958560)
+- [Wine 8.15 &lpar;Dev&rpar; – Run Windows Applications on Linux, BSD, Solaris and macOS](https://www.winehq.org/announce/8.15)
 - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 - [Spectrolite – Mac app to make colorful risograph prints and zines more easily](https://spectrolite.app)
-- [Latch bio: “We work six days a week”](https://jobs.lever.co/latch/a82d61c7-63b9-481c-85ad-4ce80031a481)
-- [Home insurers cut natural disasters from policies as climate risks grow](https://www.washingtonpost.com/business/2023/09/03/natural-disaster-climate-insurance/)
-- [Tidal Energy Is Not Renewable](https://cs.stanford.edu/people/zjl/tide.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
