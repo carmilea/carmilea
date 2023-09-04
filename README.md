@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Computing Power Used to Be Measured in &#39;Kilo-Girls&#39;](https://www.theatlantic.com/technology/archive/2013/10/computing-power-used-to-be-measured-in-kilo-girls/280633/)
+- [Titanium spikes kill superbugs drug-free by ripping them apart](https://newatlas.com/medical/titanium-spikes-effective-drug-free-kill-antibiotic-resistant-superbugs/)
+- [Is macOS’s new XProtect behavioural security preparing to go live?](https://eclecticlight.co/2023/09/04/is-macoss-new-xprotect-behavioural-security-preparing-to-go-live/)
+- [How Accurate Were EPAs Predictions of climate change from 40 years ago?](https://themessenger.com/tech/forty-years-ago-scientists-warned-about-climate-change-how-accurate-were-their-predictions)
 - [I built a Plane Spotter in 120 secs with ChatGPT](https://louison.substack.com/p/i-built-a-plane-spotter-for-my-son)
-- [TV Museum Will Die in 48 Hours Unless Sony Retracts YouTube Copyright Strikes](https://torrentfreak.com/tv-museum-will-die-in-48-hours-unless-sony-retracts-youtube-copyright-strikes-230904/)
-- [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
-- [Hardware Random Bit Generator](https://web.jfet.org/hw-rng.html)
-- [Cuber: Deploy your apps on Kubernetes easily](https://github.com/cuber-cloud/cuber-gem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
