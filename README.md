@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Searching for “notepad” on DuckDuckGo yields zero results](https://duckduckgo.com/?t=ffab&q=notepad&ia=web)
-- [Forming an Edge](https://www.scopeofwork.net/forming-an-edge/)
-- [Google and The Online Slang Dictionary &lpar;2020&rpar;](http://onlineslangdictionary.com/pages/google-panda-penalty/)
-- [Klack – Satisfying sound with every keystroke](https://tryklack.com/)
-- [If you can use open source, you can build hardware](https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware)
+- [Emerge &lpar;YC W21&rpar; is hiring a lead front end engineer &lpar;remote, small team&rpar;](https://www.workatastartup.com/jobs/61922/)
+- [Hacking device Flipper Zero can spam nearby iPhones with Bluetooth pop-ups](https://techcrunch.com/2023/09/05/flipper-zero-hacking-iphone-flood-popups/)
+- [How Amazon uses chaos engineering to handle 80k requests per second](https://community.aws/posts/how-search-uses-chaos-engineering)
+- [deVStudio – Runs VS Code on Android](https://play.google.com/store/apps/details?id=tech.ula.devstudio&hl=en_US)
+- [When deployments are easy, code becomes simpler](https://bitbytebit.substack.com/p/when-deployments-are-easy-code-becomes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
