@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Klack – Satisfying sound with every keystroke](https://tryklack.com/)
+- [Browse Websites by Fonts](https://maxibestof.one/typefaces)
 - [Rockstar is selling cracked game copies on Steam](https://twitter.com/__silent_/status/1698345924840296801)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [GitHub Is Down](https://www.githubstatus.com/incidents/smdz34v7j8q0)
-- [Show HN: Bedframe – open-source Browser Extension Development framework](https://github.com/nyaggah/bedframe)
-- [Reading for Pleasure Helps Kids’ Brain Development](https://theconversation.com/poverty-is-linked-to-poorer-brain-development-but-reading-can-help-counteract-it-208966)
+- [Steam-on-Ampere](https://github.com/AmpereComputing/Steam-on-Ampere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
