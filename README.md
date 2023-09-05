@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Engineer’s Guide to Career Growth: Advice from My Time at Stripe and Facebook](https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook)
+- [The shrinking number of primary care physicians is reaching a tipping point](https://www.washingtonpost.com/opinions/2023/09/05/lack-primary-care-tipping-point/)
 - [HashiCorp Did It Backwards](https://galenmarchetti.substack.com/p/hashicorp-did-it-backwards)
-- [Poor people ‘surviving not living’ as UK social contract collapses, says report](https://www.theguardian.com/society/2023/sep/04/poor-people-surviving-not-living-as-uk-social-contract-collapses-says-report)
+- [Google was incorporated 25 years ago on September 4 1998](https://about.google/intl/ALL_us/our-story/)
 - [Emerge &lpar;YC W21&rpar; is hiring a lead front end engineer &lpar;remote, small team&rpar;](https://www.workatastartup.com/jobs/61922/)
-- [How Amazon uses chaos engineering to handle 80k requests per second](https://community.aws/posts/how-search-uses-chaos-engineering)
-- [deVStudio – Runs VS Code on Android](https://play.google.com/store/apps/details?id=tech.ula.devstudio&hl=en_US)
 <!-- BLOG-POST-LIST:END -->
 
 ---
