@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Meet’s new AI will be able to go to meetings for you](https://www.theverge.com/2023/8/29/23849056/google-meet-ai-duet-attend-for-me)
-- [Apple to Launch &#39;Low-Cost&#39; MacBook Series Next Year to Rival Chromebooks](https://www.macrumors.com/2023/09/05/apple-low-cost-macbook-rival-chromebook/)
-- [ZSA Voyager: Low profile split keyboard](https://www.zsa.io/voyager/)
-- [Show HN: An open source visual editor for React](https://github.com/measuredco/puck)
-- [Android 14 blocks all modification of system certificates, even as root](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
+- [Czech scientists confirm the existence of the π-hole in molecules](https://www.avcr.cz/en/news-archive/Czech-scientists-confirm-the-existence-of-the-hole-in-molecules-proving-a-decades-old-theory/)
+- [Why furniture got so bad](https://www.washingtonpost.com/home/2023/09/05/new-furniture-quality-doesnt-last/)
+- [Study shows over time, ChatGPT lost accuracy](https://fortune.com/2023/07/19/chatgpt-accuracy-stanford-study/)
+- [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+- [OpenTF Repository is now Public](https://github.com/opentffoundation/opentf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
