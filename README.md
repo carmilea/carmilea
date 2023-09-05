@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Gimmicks of Food Labeling](https://www.newyorker.com/magazine/2023/09/11/the-lies-in-your-grocery-store)
-- [Designing a cursor for augmented reality](https://ameye.dev/notes/ar-cursor/)
-- [The Apple $2T Economy](http://www.asymco.com/2023/09/04/the-2-trillion-economy/)
-- [Aviator &lpar;YC S21&rpar; is hiring a senior engineer to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
-- [LLM Python library now provides tools for working with embeddings](https://simonwillison.net/2023/Sep/4/llm-embeddings/)
+- [Videobug &lpar;YC S22, automated snapshot testing&rpar; Is Hiring its founding engineer](https://news.ycombinator.com/item?id=37386711)
+- [Get a cable modem, go to jail &lpar;1999&rpar;](http://telecom.csail.mit.edu/judy-sammel.html)
+- [Apple&#39;s Simple Strategy to Beat Burnout: Freedom](https://www.inc.com/kelly-main/apples-ridiculously-simple-strategy-to-beat-burnout-is-oddly-effective-and-employees-love-it.html)
+- [Multiple Notepad++ Flaws Let Attackers Execute Arbitrary Code](https://cybersecuritynews.com/multiple-notepad-flaw/)
+- [Oscilloscope watch ships after 10 years on kickstarter](https://www.tomshardware.com/news/oscilloscope-watch-ships-after-10-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
