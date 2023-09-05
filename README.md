@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A currently maintained fork of SSHFS](https://github.com/deadbeefsociety/sshfs)
-- [HuggingFace Training Cluster as a Service](https://huggingface.co/training-cluster)
-- [Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
-- [All About USB-C: Example Circuits](https://hackaday.com/2023/08/07/all-about-usb-c-example-circuits/)
-- [Show HN: Transform any website or eBook into a research paper &lpar;no LLM required&rpar;](https://github.com/jstrieb/paperify)
+- [Show HN: An open source visual editor for React](https://github.com/measuredco/puck)
+- [France prepares to ban vegetarian products from using meaty language](https://www.theguardian.com/world/2023/sep/05/france-prepares-to-ban-vegetarian-products-from-using-meaty-language)
+- [Android 14 blocks all modification of system certificates, even as root](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
+- [Australian MPs to lobby US to drop Julian Assange prosecution](https://www.theguardian.com/australia-news/2023/sep/05/australian-mps-to-lobby-us-to-drop-julian-assange-prosecution-or-risk-very-dangerous-precedent-for-russia-and-china)
+- [Launch HN: Nullstone &lpar;YC W22&rpar; – An easier way to deploy and manage cloud apps](https://news.ycombinator.com/item?id=37391272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
