@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft blames outage on small staff, automation failures](https://www.theregister.com/2023/09/04/microsoft_australia_outage_incident_report/)
 - [Learn COBOL in 1 Day](https://www.microfocus.com/en-us/cobol)
+- [TDD Doesn&#39;t Force Good Design](https://www.aaronbruce.com/posts/tests-dont-force-good-desgin/)
 - [All About USB-C: Example Circuits](https://hackaday.com/2023/08/07/all-about-usb-c-example-circuits/)
-- [Locking up corpses to keep them from escaping](https://www.nytimes.com/2023/09/05/science/archaeology-burial-ampires-revenants.html)
-- [Show HN: Transform any website or eBook into a research paper &lpar;no LLM required&rpar;](https://github.com/jstrieb/paperify)
+- [Turning two lives into one, or, things that worry me about Bess, after I’m gone](https://jakeseliger.com/2023/08/30/turning-two-lives-into-one-or-things-that-worry-me-about-bess-after-im-gone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
