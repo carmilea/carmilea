@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Czech scientists confirm the existence of the π-hole in molecules](https://www.avcr.cz/en/news-archive/Czech-scientists-confirm-the-existence-of-the-hole-in-molecules-proving-a-decades-old-theory/)
-- [Why furniture got so bad](https://www.washingtonpost.com/home/2023/09/05/new-furniture-quality-doesnt-last/)
-- [Study shows over time, ChatGPT lost accuracy](https://fortune.com/2023/07/19/chatgpt-accuracy-stanford-study/)
-- [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
-- [OpenTF Repository is now Public](https://github.com/opentffoundation/opentf)
+- [Rockstar is selling cracked game copies on Steam](https://twitter.com/__silent_/status/1698345924840296801)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [GitHub Is Down](https://www.githubstatus.com/incidents/smdz34v7j8q0)
+- [Show HN: Bedframe – open-source Browser Extension Development framework](https://github.com/nyaggah/bedframe)
+- [Reading for Pleasure Helps Kids’ Brain Development](https://theconversation.com/poverty-is-linked-to-poorer-brain-development-but-reading-can-help-counteract-it-208966)
 <!-- BLOG-POST-LIST:END -->
 
 ---
