@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Googles hidden penalties against websites](http://onlineslangdictionary.com/pages/google-panda-penalty/)
+- [Searching for “notepad” on DuckDuckGo yields zero results](https://duckduckgo.com/?t=ffab&q=notepad&ia=web)
+- [Forming an Edge](https://www.scopeofwork.net/forming-an-edge/)
+- [Google and The Online Slang Dictionary &lpar;2020&rpar;](http://onlineslangdictionary.com/pages/google-panda-penalty/)
 - [Klack – Satisfying sound with every keystroke](https://tryklack.com/)
 - [If you can use open source, you can build hardware](https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware)
-- [Browse Websites by Fonts](https://maxibestof.one/typefaces)
-- [Rockstar is selling cracked game copies on Steam](https://twitter.com/__silent_/status/1698345924840296801)
 <!-- BLOG-POST-LIST:END -->
 
 ---
