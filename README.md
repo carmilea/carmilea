@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft blames outage on small staff, automation failures](https://www.theregister.com/2023/09/04/microsoft_australia_outage_incident_report/)
+- [Learn COBOL in 1 Day](https://www.microfocus.com/en-us/cobol)
 - [All About USB-C: Example Circuits](https://hackaday.com/2023/08/07/all-about-usb-c-example-circuits/)
 - [Locking up corpses to keep them from escaping](https://www.nytimes.com/2023/09/05/science/archaeology-burial-ampires-revenants.html)
-- [Tech workers flocked to Austin. Now they&#39;re desperate to get out](https://www.businessinsider.com/tech-workers-moved-to-austin-regrets-2023-8)
-- [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
-- [We Do Not Know the Population of Every Country for the Past 2k Years](https://www.cambridge.org/core/journals/journal-of-economic-history/article/we-do-not-know-the-population-of-every-country-in-the-world-for-the-past-two-thousand-years/D747DDC6E499C799B0471DBE33FEB0BB)
+- [Show HN: Transform any website or eBook into a research paper &lpar;no LLM required&rpar;](https://github.com/jstrieb/paperify)
 <!-- BLOG-POST-LIST:END -->
 
 ---
