@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Meet’s new AI will be able to go to meetings for you](https://www.theverge.com/2023/8/29/23849056/google-meet-ai-duet-attend-for-me)
+- [Apple to Launch &#39;Low-Cost&#39; MacBook Series Next Year to Rival Chromebooks](https://www.macrumors.com/2023/09/05/apple-low-cost-macbook-rival-chromebook/)
+- [ZSA Voyager: Low profile split keyboard](https://www.zsa.io/voyager/)
 - [Show HN: An open source visual editor for React](https://github.com/measuredco/puck)
-- [France prepares to ban vegetarian products from using meaty language](https://www.theguardian.com/world/2023/sep/05/france-prepares-to-ban-vegetarian-products-from-using-meaty-language)
 - [Android 14 blocks all modification of system certificates, even as root](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
-- [Australian MPs to lobby US to drop Julian Assange prosecution](https://www.theguardian.com/australia-news/2023/sep/05/australian-mps-to-lobby-us-to-drop-julian-assange-prosecution-or-risk-very-dangerous-precedent-for-russia-and-china)
-- [Launch HN: Nullstone &lpar;YC W22&rpar; – An easier way to deploy and manage cloud apps](https://news.ycombinator.com/item?id=37391272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
