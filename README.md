@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You have thousands of ancestors from the 1600s](https://kayce.basqu.es/blog/ancestors/)
-- [Videobug &lpar;YC S22, automated snapshot testing&rpar; Is Hiring its founding engineer](https://news.ycombinator.com/item?id=37386711)
+- [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
+- [Non-gas giant has 73 times Earth’s mass, bewildering its discoverers](https://arstechnica.com/science/2023/08/we-dont-understand-how-a-freakishly-heavy-exoplanet-could-have-formed/)
+- [Videobug &lpar;YC S22&rpar; is hiring a founding engineer – automated snapshot testing](https://news.ycombinator.com/item?id=37386711)
 - [Farms that create habitat key to food security and biodiversity](https://news.stanford.edu/2023/09/04/farming-food-biodiversity/)
 - [Get a cable modem, go to jail &lpar;1999&rpar;](http://telecom.csail.mit.edu/judy-sammel.html)
-- [Multiple Notepad++ Flaws Let Attackers Execute Arbitrary Code](https://cybersecuritynews.com/multiple-notepad-flaw/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
