@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All About USB-C: Example Circuits](https://hackaday.com/2023/08/07/all-about-usb-c-example-circuits/)
+- [Locking up corpses to keep them from escaping](https://www.nytimes.com/2023/09/05/science/archaeology-burial-ampires-revenants.html)
+- [Tech workers flocked to Austin. Now they&#39;re desperate to get out](https://www.businessinsider.com/tech-workers-moved-to-austin-regrets-2023-8)
 - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
-- [Non-gas giant has 73 times Earth’s mass, bewildering its discoverers](https://arstechnica.com/science/2023/08/we-dont-understand-how-a-freakishly-heavy-exoplanet-could-have-formed/)
-- [Videobug &lpar;YC S22&rpar; is hiring a founding engineer – automated snapshot testing](https://news.ycombinator.com/item?id=37386711)
-- [Farms that create habitat key to food security and biodiversity](https://news.stanford.edu/2023/09/04/farming-food-biodiversity/)
-- [Get a cable modem, go to jail &lpar;1999&rpar;](http://telecom.csail.mit.edu/judy-sammel.html)
+- [We Do Not Know the Population of Every Country for the Past 2k Years](https://www.cambridge.org/core/journals/journal-of-economic-history/article/we-do-not-know-the-population-of-every-country-in-the-world-for-the-past-two-thousand-years/D747DDC6E499C799B0471DBE33FEB0BB)
 <!-- BLOG-POST-LIST:END -->
 
 ---
