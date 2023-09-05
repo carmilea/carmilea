@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Googles hidden penalties against websites](http://onlineslangdictionary.com/pages/google-panda-penalty/)
 - [Klack – Satisfying sound with every keystroke](https://tryklack.com/)
+- [If you can use open source, you can build hardware](https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware)
 - [Browse Websites by Fonts](https://maxibestof.one/typefaces)
 - [Rockstar is selling cracked game copies on Steam](https://twitter.com/__silent_/status/1698345924840296801)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Steam-on-Ampere](https://github.com/AmpereComputing/Steam-on-Ampere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
