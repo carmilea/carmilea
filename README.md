@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You have thousands of ancestors from the 1600s](https://kayce.basqu.es/blog/ancestors/)
 - [Videobug &lpar;YC S22, automated snapshot testing&rpar; Is Hiring its founding engineer](https://news.ycombinator.com/item?id=37386711)
+- [Farms that create habitat key to food security and biodiversity](https://news.stanford.edu/2023/09/04/farming-food-biodiversity/)
 - [Get a cable modem, go to jail &lpar;1999&rpar;](http://telecom.csail.mit.edu/judy-sammel.html)
-- [Apple&#39;s Simple Strategy to Beat Burnout: Freedom](https://www.inc.com/kelly-main/apples-ridiculously-simple-strategy-to-beat-burnout-is-oddly-effective-and-employees-love-it.html)
 - [Multiple Notepad++ Flaws Let Attackers Execute Arbitrary Code](https://cybersecuritynews.com/multiple-notepad-flaw/)
-- [Oscilloscope watch ships after 10 years on kickstarter](https://www.tomshardware.com/news/oscilloscope-watch-ships-after-10-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
