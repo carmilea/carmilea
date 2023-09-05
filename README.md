@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
 - [All About USB-C: Example Circuits](https://hackaday.com/2023/08/07/all-about-usb-c-example-circuits/)
 - [Show HN: Transform any website or eBook into a research paper &lpar;no LLM required&rpar;](https://github.com/jstrieb/paperify)
 - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 - [Economists typically rely on bogus population data](https://www.cambridge.org/core/journals/journal-of-economic-history/article/we-do-not-know-the-population-of-every-country-in-the-world-for-the-past-two-thousand-years/D747DDC6E499C799B0471DBE33FEB0BB)
-- [Videobug &lpar;YC S22&rpar; is hiring a founding engineer – automated snapshot testing](https://news.ycombinator.com/item?id=37386711)
 <!-- BLOG-POST-LIST:END -->
 
 ---
