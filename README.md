@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HashiCorp Did It Backwards](https://galenmarchetti.substack.com/p/hashicorp-did-it-backwards)
+- [Poor people ‘surviving not living’ as UK social contract collapses, says report](https://www.theguardian.com/society/2023/sep/04/poor-people-surviving-not-living-as-uk-social-contract-collapses-says-report)
 - [Emerge &lpar;YC W21&rpar; is hiring a lead front end engineer &lpar;remote, small team&rpar;](https://www.workatastartup.com/jobs/61922/)
-- [Hacking device Flipper Zero can spam nearby iPhones with Bluetooth pop-ups](https://techcrunch.com/2023/09/05/flipper-zero-hacking-iphone-flood-popups/)
 - [How Amazon uses chaos engineering to handle 80k requests per second](https://community.aws/posts/how-search-uses-chaos-engineering)
 - [deVStudio – Runs VS Code on Android](https://play.google.com/store/apps/details?id=tech.ula.devstudio&hl=en_US)
-- [When deployments are easy, code becomes simpler](https://bitbytebit.substack.com/p/when-deployments-are-easy-code-becomes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
