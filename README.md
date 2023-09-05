@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A currently maintained fork of SSHFS](https://github.com/deadbeefsociety/sshfs)
+- [HuggingFace Training Cluster as a Service](https://huggingface.co/training-cluster)
+- [‘I just assumed it would happen’: the unspoken grief of childless men](https://www.theguardian.com/society/2023/aug/28/unspoken-grief-childless-men)
+- [Mohamed Al-Fayed began life as a porter in Alexandria and died as a billionaire](https://www.arabnews.com/node/2366256/world)
 - [Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
-- [All About USB-C: Example Circuits](https://hackaday.com/2023/08/07/all-about-usb-c-example-circuits/)
-- [Show HN: Transform any website or eBook into a research paper &lpar;no LLM required&rpar;](https://github.com/jstrieb/paperify)
-- [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
-- [Economists typically rely on bogus population data](https://www.cambridge.org/core/journals/journal-of-economic-history/article/we-do-not-know-the-population-of-every-country-in-the-world-for-the-past-two-thousand-years/D747DDC6E499C799B0471DBE33FEB0BB)
 <!-- BLOG-POST-LIST:END -->
 
 ---
