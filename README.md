@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gcsfuse: A user-space file system for interacting with Google Cloud Storage](https://github.com/GoogleCloudPlatform/gcsfuse)
-- [Remembering Doug Lenat &lpar;1950–2023&rpar; and His Quest to Capture the World with Logic](https://writings.stephenwolfram.com/2023/09/remembering-doug-lenat-1950-2023-and-his-quest-to-capture-the-world-with-logic/)
-- [Black Hole Electron](https://en.wikipedia.org/wiki/Black_hole_electron)
-- [Molly Holzschlag has died](https://www.tucsonsentinel.com/local/report/090523_molly_holzschlag/tucsons-molly-holzschlag-known-as-the-fairy-godmother-web-dead-60/)
-- [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
+- [Double Commander – Changes in version 1.1.0](https://github.com/doublecmd/doublecmd/wiki/Changes-in-version-1.1.0)
+- [Oslo district court rules Meta is violating the right to privacy &lpar;Norwegian&rpar;](https://nrkbeta.no/2023/09/06/datatilsynet-vant-frem-i-oslo-tingrett-mot-meta/)
+- [Digital Markets Act: Commission designates six gatekeepers](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_4328)
+- [Norway court rules against Facebook owner Meta in privacy case](https://www.reuters.com/technology/norway-data-regulator-fine-meta-over-privacy-breaches-2023-08-07/)
+- [Toyota blames factory shutdown in Japan on ‘insufficient disk space’](https://www.theguardian.com/business/2023/sep/06/toyota-blames-factory-shutdown-in-japan-on-insufficient-disk-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
