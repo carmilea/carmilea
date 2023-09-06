@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Double Commander – Changes in version 1.1.0](https://github.com/doublecmd/doublecmd/wiki/Changes-in-version-1.1.0)
-- [Oslo district court rules Meta is violating the right to privacy &lpar;Norwegian&rpar;](https://nrkbeta.no/2023/09/06/datatilsynet-vant-frem-i-oslo-tingrett-mot-meta/)
-- [Digital Markets Act: Commission designates six gatekeepers](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_4328)
-- [Norway court rules against Facebook owner Meta in privacy case](https://www.reuters.com/technology/norway-data-regulator-fine-meta-over-privacy-breaches-2023-08-07/)
-- [Toyota blames factory shutdown in Japan on ‘insufficient disk space’](https://www.theguardian.com/business/2023/sep/06/toyota-blames-factory-shutdown-in-japan-on-insufficient-disk-space)
+- [The world has just experienced the hottest summer on record – significant margin](https://www.cnn.com/2023/09/06/world/hottest-summer-record-climate-intl/index.html)
+- [Big effort needed on UK diet to fight ultra-processed food, say health experts](https://www.theguardian.com/society/2023/sep/02/big-effort-needed-on-uk-diet-to-fight-ultra-processed-food-say-health-experts)
+- [If You’ve Got a New Car, It’s a Data Privacy Nightmare](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416)
+- [EU unveils package of laws to curb power of big tech firms](https://www.theguardian.com/world/2023/sep/06/eu-unveils-package-laws-curb-power-big-tech-giants)
+- [‘She played it down’: Bletchley Park codebreaker dies at 99](https://www.theguardian.com/world/2023/sep/06/she-played-it-down-bletchley-park-codebreaker-dies-at-99)
 <!-- BLOG-POST-LIST:END -->
 
 ---
