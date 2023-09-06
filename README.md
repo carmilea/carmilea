@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s Official: Cars Are the Worst Category We Have Ever Reviewed for Privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/)
-- [Milk-V Goes After the Raspberry Pi Compute Module4 with RISC-V Alternative](https://www.hackster.io/news/milk-v-goes-after-the-raspberry-pi-compute-module-4-with-a-pin-compatible-risc-v-alternative-77cdb3e6c6f1)
+- [Google Chrome pushes browser history-based ad targeting](https://www.theregister.com/2023/09/06/google_privacy_popup_chrome/)
+- [Molly Holzschlag has passes away](https://www.tucsonsentinel.com/local/report/090523_molly_holzschlag/tucsons-molly-holzschlag-known-as-the-fairy-godmother-web-dead-60/)
 - [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
 - [Writing Small CLI Programs in Common Lisp &lpar;2021&rpar;](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
-- [Fighting API Bots with Cloudflare&#39;s Invisible Turnstile](https://www.troyhunt.com/fighting-api-bots-with-cloudflares-invisible-turnstile/)
+- [Fighting API bots with Cloudflare&#39;s invisible turnstile](https://www.troyhunt.com/fighting-api-bots-with-cloudflares-invisible-turnstile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
