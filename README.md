@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Effectiveness of physical activity for improving depression, anxiety, distress](https://bjsm.bmj.com/content/early/2023/07/11/bjsports-2022-106195)
+- [China Bans iPhone Use for Government Officials at Work](https://stocks.apple.com/A01gybx6UQReBj5eQUppe8g)
 - [‘Modern cars are a privacy nightmare,’ the worst Mozilla’s seen](https://www.theverge.com/2023/9/6/23861047/car-user-privacy-report-mozilla-foundation-data-collection)
-- [Buzzy AI Startup for Generating 3D Models Used Cheap Human Labor](https://www.404media.co/kaedim-ai-startup-2d-to-3d-used-cheap-human-labor/)
-- [“Waterfall” doesn&#39;t mean what you think it means](https://changelog.com/posts/waterfall-doesnt-mean-what-you-think-it-means)
 - [Now it&#39;s PostgreSQL&#39;s turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
+- [Is this Duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension)
 <!-- BLOG-POST-LIST:END -->
 
 ---
