@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineer’s Guide to Career Growth: Advice from My Time at Stripe and Facebook](https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook)
-- [The shrinking number of primary care physicians is reaching a tipping point](https://www.washingtonpost.com/opinions/2023/09/05/lack-primary-care-tipping-point/)
-- [HashiCorp Did It Backwards](https://galenmarchetti.substack.com/p/hashicorp-did-it-backwards)
-- [Google was incorporated 25 years ago on September 4 1998](https://about.google/intl/ALL_us/our-story/)
-- [Emerge &lpar;YC W21&rpar; is hiring a lead front end engineer &lpar;remote, small team&rpar;](https://www.workatastartup.com/jobs/61922/)
+- [Can LLMs learn from a single example?](https://www.fast.ai/posts/2023-09-04-learning-jumps/)
+- [New York’s crackdown on Airbnb began Tuesday](https://www.amny.com/housing/new-york-crackdown-airbnb-begins/)
+- [Experts Fear Crooks Are Cracking Keys Stolen in LastPass Breach](https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/)
+- [When a website erases your text you can use this trick to recover it](https://merveilles.town/@j3s/110981322978284262)
+- [Wage transparency: Everyone’s happy except HR?](https://www.malaymail.com/news/opinion/2023/09/05/wage-transparency-everyones-happy-except-hr/89066)
 <!-- BLOG-POST-LIST:END -->
 
 ---
