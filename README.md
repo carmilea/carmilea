@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ten million a year die from air pollution &lpar;2021&rpar;](https://www.lrb.co.uk/the-paper/v43/n23/david-wallace-wells/ten-million-a-year)
+- [Norway rolls back EV incentives while boosting walking and cycling](https://electrek.co/2022/05/17/norway-rolls-back-ev-incentives-while-boosting-walking-and-cycling/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Bit by bit microplastics from tyres are polluting our waterways](https://news.griffith.edu.au/2023/09/06/bit-by-bit-microplastics-from-tyres-are-polluting-our-waterways/)
 - [MS-DOS v1.25 and v2.0 is now open-source &lpar;2014&rpar;](https://github.com/microsoft/MS-DOS)
-- [US broadband grant rules shut out small ISPs and municipalities, advocates say](https://arstechnica.com/tech-policy/2023/09/big-isps-will-dominate-42b-grant-fund-if-rules-arent-changed-advocates-say/)
-- [This page exists only if someone is looking at it](http://ephemeralp2p.durazo.us/2bbbf21959178ef2f935e90fc60e5b6e368d27514fe305ca7dcecc32c0134838)
-- [Constant Time Stateless Shuffling and Grouping](https://www.ea.com/seed/news/constant-time-stateless-shuffling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
