@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Results of technical investigations for Storm-0558 key acquisition](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)
+- [Early human ancestors turned stones into spheres on purpose, study suggests](https://www.theguardian.com/science/2023/sep/06/early-human-ancestors-turned-stones-into-spheres-on-purpose-study-suggests)
+- [U.K. Abandons, for Now, Legislation That Would Have Banned End-to-End Encryption](https://daringfireball.net/linked/2023/09/06/uk-encryption-win)
 - [Playing with Genetic Algorithms in Python](https://joseprupi.github.io/misc/2023/08/19/playing_with_genetic_algorithms_in_python.html)
-- [I replaced 50 lines of code with a single LLM prompt](https://www.haihai.ai/programming-with-llm/)
-- [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
-- [“Why Socialism?” By Albert Einstein, 1949](https://monthlyreview.org/2009/05/01/why-socialism/)
-- [Personal Project Management for the Burgeoning Homesteader](https://writing.bobdoto.computer/doing-what-matters-most-how-a-task-focused-personal-project-management-system-helps-us-do-the-impossible/)
+- [Device offers long-distance, low-power underwater communication](https://news.mit.edu/2023/devices-offers-battery-free-underwater-communication-0906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
