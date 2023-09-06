@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Google Chrome pushes browser history-based ad targeting](https://www.theregister.com/2023/09/06/google_privacy_popup_chrome/)
-- [Molly Holzschlag has passes away](https://www.tucsonsentinel.com/local/report/090523_molly_holzschlag/tucsons-molly-holzschlag-known-as-the-fairy-godmother-web-dead-60/)
+- [Molly Holzschlag has died](https://www.tucsonsentinel.com/local/report/090523_molly_holzschlag/tucsons-molly-holzschlag-known-as-the-fairy-godmother-web-dead-60/)
 - [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
 - [Writing Small CLI Programs in Common Lisp &lpar;2021&rpar;](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
 - [Fighting API bots with Cloudflare&#39;s invisible turnstile](https://www.troyhunt.com/fighting-api-bots-with-cloudflares-invisible-turnstile/)
