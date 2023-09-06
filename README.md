@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [MS-DOS v1.25 and v2.0 is now open-source &lpar;2014&rpar;](https://github.com/microsoft/MS-DOS)
+- [US broadband grant rules shut out small ISPs and municipalities, advocates say](https://arstechnica.com/tech-policy/2023/09/big-isps-will-dominate-42b-grant-fund-if-rules-arent-changed-advocates-say/)
+- [This page exists only if someone is looking at it](http://ephemeralp2p.durazo.us/2bbbf21959178ef2f935e90fc60e5b6e368d27514fe305ca7dcecc32c0134838)
 - [Constant Time Stateless Shuffling and Grouping](https://www.ea.com/seed/news/constant-time-stateless-shuffling)
-- [Disco Elysium and the need for collective action](https://jacobin.com/2023/09/disco-elysium-intellectual-property-video-game-industry-creative-workers-collective-action)
-- [&#39;Human Embryo Model&#39; Without Sperm or Egg](https://wis-wander.weizmann.ac.il/life-sciences/human-embryo-models-grown-stem-cells)
-- [Ask HN: Is there a data loss bug lurking in MS365 backup solutions?](https://news.ycombinator.com/item?id=37408794)
-- [Results of technical investigations for Storm-0558 key acquisition](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
