@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Effectiveness of physical activity for improving depression, anxiety, distress](https://bjsm.bmj.com/content/early/2023/07/11/bjsports-2022-106195)
-- [China Bans iPhone Use for Government Officials at Work](https://stocks.apple.com/A01gybx6UQReBj5eQUppe8g)
-- [‘Modern cars are a privacy nightmare,’ the worst Mozilla’s seen](https://www.theverge.com/2023/9/6/23861047/car-user-privacy-report-mozilla-foundation-data-collection)
-- [Now it&#39;s PostgreSQL&#39;s turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
-- [Is this Duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension)
+- [Playing with Genetic Algorithms in Python](https://joseprupi.github.io/misc/2023/08/19/playing_with_genetic_algorithms_in_python.html)
+- [I replaced 50 lines of code with a single LLM prompt](https://www.haihai.ai/programming-with-llm/)
+- [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
+- [“Why Socialism?” By Albert Einstein, 1949](https://monthlyreview.org/2009/05/01/why-socialism/)
+- [Personal Project Management for the Burgeoning Homesteader](https://writing.bobdoto.computer/doing-what-matters-most-how-a-task-focused-personal-project-management-system-helps-us-do-the-impossible/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
