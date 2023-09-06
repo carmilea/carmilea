@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Basilisk collection &lpar;2021&rpar;](https://suricrasia.online/unfiction/basilisk/)
+- [Milk-V Goes After the Raspberry Pi Compute Module4 with RISC-V Alternative](https://www.hackster.io/news/milk-v-goes-after-the-raspberry-pi-compute-module-4-with-a-pin-compatible-risc-v-alternative-77cdb3e6c6f1)
 - [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
 - [Writing Small CLI Programs in Common Lisp &lpar;2021&rpar;](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
+- [Fighting API Bots with Cloudflare&#39;s Invisible Turnstile](https://www.troyhunt.com/fighting-api-bots-with-cloudflares-invisible-turnstile/)
 - [Can LLMs learn from a single example?](https://www.fast.ai/posts/2023-09-04-learning-jumps/)
-- [Cory Doctorow: Interoperability Can Save the Open Web](https://spectrum.ieee.org/doctorow-interoperability)
 <!-- BLOG-POST-LIST:END -->
 
 ---
