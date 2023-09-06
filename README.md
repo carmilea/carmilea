@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Basilisk collection &lpar;2021&rpar;](https://suricrasia.online/unfiction/basilisk/)
 - [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
 - [Writing Small CLI Programs in Common Lisp &lpar;2021&rpar;](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
 - [Can LLMs learn from a single example?](https://www.fast.ai/posts/2023-09-04-learning-jumps/)
 - [Cory Doctorow: Interoperability Can Save the Open Web](https://spectrum.ieee.org/doctorow-interoperability)
-- [Experts fear crooks are cracking keys stolen in LastPass breach](https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
