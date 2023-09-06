@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Human Embryo Model&#39; Without Sperm or Egg](https://wis-wander.weizmann.ac.il/life-sciences/human-embryo-models-grown-stem-cells)
+- [Amazon Andy Jassy shouldn’t make RTO decisions in echo chamber of CEOs feelings](https://fortune.com/2023/09/05/amazon-andy-jassy-return-to-office-decisions-echo-chamber-ceo-feelings-work-gleb-tsipursky/)
+- [37signals Introduces &quot;Once&quot; - Buy software one time](https://once.com/)
+- [Ask HN: Is there a data loss bug lurking in MS365 backup solutions?](https://news.ycombinator.com/item?id=37408794)
 - [Results of technical investigations for Storm-0558 key acquisition](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)
-- [Early human ancestors turned stones into spheres on purpose, study suggests](https://www.theguardian.com/science/2023/sep/06/early-human-ancestors-turned-stones-into-spheres-on-purpose-study-suggests)
-- [U.K. Abandons, for Now, Legislation That Would Have Banned End-to-End Encryption](https://daringfireball.net/linked/2023/09/06/uk-encryption-win)
-- [Playing with Genetic Algorithms in Python](https://joseprupi.github.io/misc/2023/08/19/playing_with_genetic_algorithms_in_python.html)
-- [Device offers long-distance, low-power underwater communication](https://news.mit.edu/2023/devices-offers-battery-free-underwater-communication-0906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
