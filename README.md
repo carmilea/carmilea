@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The world has just experienced the hottest summer on record – significant margin](https://www.cnn.com/2023/09/06/world/hottest-summer-record-climate-intl/index.html)
+- [“Waterfall” doesn&#39;t mean what you think it means](https://changelog.com/posts/waterfall-doesnt-mean-what-you-think-it-means)
+- [Now it&#39;s PostgreSQL&#39;s turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
+- [Is this duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension)
+- [Northern summer was hottest on record by a significant margin](https://www.cnn.com/2023/09/06/world/hottest-summer-record-climate-intl/index.html)
 - [Big effort needed on UK diet to fight ultra-processed food, say health experts](https://www.theguardian.com/society/2023/sep/02/big-effort-needed-on-uk-diet-to-fight-ultra-processed-food-say-health-experts)
-- [If You’ve Got a New Car, It’s a Data Privacy Nightmare](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416)
-- [EU unveils package of laws to curb power of big tech firms](https://www.theguardian.com/world/2023/sep/06/eu-unveils-package-laws-curb-power-big-tech-giants)
-- [‘She played it down’: Bletchley Park codebreaker dies at 99](https://www.theguardian.com/world/2023/sep/06/she-played-it-down-bletchley-park-codebreaker-dies-at-99)
 <!-- BLOG-POST-LIST:END -->
 
 ---
