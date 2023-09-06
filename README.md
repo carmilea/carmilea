@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Can LLMs learn from a single example?](https://www.fast.ai/posts/2023-09-04-learning-jumps/)
-- [New York’s crackdown on Airbnb began Tuesday](https://www.amny.com/housing/new-york-crackdown-airbnb-begins/)
-- [Experts Fear Crooks Are Cracking Keys Stolen in LastPass Breach](https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/)
-- [When a website erases your text you can use this trick to recover it](https://merveilles.town/@j3s/110981322978284262)
-- [Wage transparency: Everyone’s happy except HR?](https://www.malaymail.com/news/opinion/2023/09/05/wage-transparency-everyones-happy-except-hr/89066)
+- [Experts fear crooks are cracking keys stolen in LastPass breach](https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/)
+- [Meta&#39;s Segment Anything written with C++ / GGML](https://github.com/YavorGIvanov/sam.cpp)
+- [Show HN: Fully client-side GPT2 prediction visualizer](https://perplexity.vercel.app/)
+- [Preserving trust in photojournalism through authentication technology](https://www.reutersagency.com/authenticity-poc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
