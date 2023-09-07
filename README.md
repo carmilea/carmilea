@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grindr Loses Almost Half Its Staff on 2-Day RTO Requirement](https://www.bloomberg.com/news/articles/2023-09-07/grindr-loses-nearly-half-its-staff-to-strict-return-to-office-rule)
+- [Wayland Isn&#39;t Going to Save the Linux Desktop &lpar;2022&rpar;](https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html?r)
+- [Turning a Keyboard into a Mouse with Libevdev](https://suricrasia.online/blog/turning-a-keyboard-into/)
 - [Study finds influence of smaller Jersey numbers on perception](https://www.espn.com/nfl/story/_/id/38343968/study-finds-influence-smaller-jersey-numbers-perception)
-- [YC company copied our product, what can we do?](https://news.ycombinator.com/item?id=37420669)
-- [Tailscale Has Partnered with Mullvad](https://mullvad.net/en/blog/2023/9/7/tailscale-has-partnered-with-mullvad/)
-- [Kagi Small Web](https://blog.kagi.com/small-web)
-- [Mullvad on Tailscale: Privately browse the web](https://tailscale.com/blog/mullvad-integration/)
+- [Microsoft will assume liability for legal copyright risks of Copilot](https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
