@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Depression can play direct role in developing type 2 diabetes, says study](https://www.theguardian.com/society/2023/sep/07/depression-can-play-direct-role-in-developing-type-2-diabetes-says-study)
-- [Australian regulator sues PayPal over unfair term in small business contracts](https://www.reuters.com/business/finance/australian-regulator-sues-paypal-unit-over-unfair-term-small-business-contracts-2023-09-06/)
-- [Tell HN: JPMorgan Chase forcing arbitration agreement to log in](https://twitter.com/walid/status/1697611534074011700)
+- [Chicago’s parking meter disaster](https://www.chicagotribune.com/opinion/editorials/ct-editorial-parking-meters-chicago-daley-20230430-fau3wymdevf7vknog5osrge5e4-story.html)
+- [US solar installations expected to be a record 32 GW in 2023](https://electrek.co/2023/09/06/us-solar-installations-expected-to-be-a-record-32-gw-in-2023/)
+- [Anduril Fury: Automomous Stealth Drone](https://www.anduril.com/fury/)
 - [Unreal Engine 5.3](https://www.unrealengine.com/en-US/blog/unreal-engine-5-3-is-now-available)
 - [My favorite Erlang program &lpar;2013&rpar;](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
 <!-- BLOG-POST-LIST:END -->
