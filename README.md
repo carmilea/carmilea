@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wikimedia DNS](https://meta.wikimedia.org/wiki/Wikimedia_DNS)
+- [AOL Pretends to Be the Internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
+- [National Film Board of Canada](https://www.nfb.ca/)
 - [Run ChatGPT-like LLMs on your laptop in 3 lines of code](https://github.com/amaiya/onprem)
 - [Beetle grows ‘termite’ on back to steal food](https://www.science.org/content/article/beetle-grows-termite-back-steal-food)
-- [jq 1.7 released](https://github.com/jqlang/jq/releases/tag/jq-1.7)
-- [Norway rolls back EV incentives while boosting walking and cycling](https://electrek.co/2022/05/17/norway-rolls-back-ev-incentives-while-boosting-walking-and-cycling/)
+- [jq 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
