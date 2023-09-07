@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NixOS just dropped Anduril as a NixCon sponsor](https://twitter.com/nixos_org/status/1699054958858121282)
+- [Arduino raises $22M Series B round](https://blog.arduino.cc/2023/09/06/what-will-we-do-with-an-additional-22m/)
+- [ASML to Ship First High-NA EUV Tool This Year: $300M per Scanner](https://www.tomshardware.com/news/asml-to-ship-first-high-na-euv-tool-this-year-dollar300-million-per-scanner)
+- [Nintendo demoed Switch 2 to developers at Gamescom](https://www.eurogamer.net/nintendo-demoed-switch-2-to-developers-at-gamescom)
 - [Stanford DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 - [Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
-- [Using disposable phone numbers for better security](https://shkspr.mobi/blog/2023/09/using-disposable-phone-numbers-for-better-security/)
-- [Is Google&#39;s looming monopoly trial a watershed moment for Big Tech?](https://theweek.com/google/1026299/google-doj-monopoly-antitrust-trial)
 <!-- BLOG-POST-LIST:END -->
 
 ---
