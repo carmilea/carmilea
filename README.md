@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: JPMorgan Chase forcing arbitration agreement to log in](https://twitter.com/walid/status/1697611534074011700)
+- [My favorite Erlang program &lpar;2013&rpar;](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
 - [AOL Pretends to Be the Internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
+- [Cal Newport: Overstimulation Is Ruining Your Life](https://mindmatters.ai/2023/09/cal-newport-over-stimulation-is-ruining-your-life/)
 - [National Film Board of Canada](https://www.nfb.ca/)
-- [Run ChatGPT-like LLMs on your laptop in 3 lines of code](https://github.com/amaiya/onprem)
-- [Beetle grows ‘termite’ on back to steal food](https://www.science.org/content/article/beetle-grows-termite-back-steal-food)
-- [jq 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
