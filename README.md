@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PgCompute: New PostgreSQL Client-Side Extension for Database Functions](https://www.yugabyte.com/blog/pgcompute-postgresql-extension-database-functions/)
-- [Mod kept failure of best tank quiet &lpar;2007&rpar;](https://www.telegraph.co.uk/news/uknews/1551418/MoD-kept-failure-of-best-tank-quiet.html)
-- [Running a 180B parameter LLM on a single Apple M2 Ultra](https://twitter.com/ggerganov/status/1699791226780975439)
-- [Co-founder of DeepMind on how AI threatens to reshape life as we know it](https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it)
-- [Report says PR firm has been paying Rotten Tomatoes critics for positive reviews](https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews/)
+- [Study finds influence of smaller Jersey numbers on perception](https://www.espn.com/nfl/story/_/id/38343968/study-finds-influence-smaller-jersey-numbers-perception)
+- [YC company copied our product, what can we do?](https://news.ycombinator.com/item?id=37420669)
+- [Tailscale Has Partnered with Mullvad](https://mullvad.net/en/blog/2023/9/7/tailscale-has-partnered-with-mullvad/)
+- [Kagi Small Web](https://blog.kagi.com/small-web)
+- [Mullvad on Tailscale: Privately browse the web](https://tailscale.com/blog/mullvad-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
