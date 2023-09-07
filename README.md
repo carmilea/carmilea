@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New LoRa RF distance record: 1336 km / 830 mi](https://www.thethingsnetwork.org/article/new-lora-world-record-1336-km-830-mi)
-- [Nobody&#39;s Driving](https://www.okdoomer.io/nobodys-driving/)
-- [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
-- [God writes Haskell](https://hookrace.net/blog/god-writes-haskell/)
-- [My favorite Erlang program &lpar;2013&rpar;](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
+- [Apple buys 50-year-old record label to grow Apple Music Classical app](https://arstechnica.com/gadgets/2023/09/apple-fuels-classical-music-push-with-record-label-acquisition/)
+- [I brought down a scamming operation with 15 bytes of PHP](https://www.eliseomartelli.it/blog/2023-09-06-scammer)
+- [A philosophical theory where hard determinism and panpsychism are compatible](https://chat.openai.com/share/42cc3a70-fbbf-4e3a-ba2b-6b801a10ce66)
+- [Exa Is Deprecated](https://github.com/ogham/exa)
+- [What kind of password reset scam is going on at Facebook?](https://old.reddit.com/r/facebook/comments/154goal/someone_keeps_trying_to_reset_my_facebook_password/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
