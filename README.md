@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Arduino raises $22M Series B round](https://blog.arduino.cc/2023/09/06/what-will-we-do-with-an-additional-22m/)
-- [ASML to Ship First High-NA EUV Tool This Year: $300M per Scanner](https://www.tomshardware.com/news/asml-to-ship-first-high-na-euv-tool-this-year-dollar300-million-per-scanner)
-- [Nintendo demoed Switch 2 to developers at Gamescom](https://www.eurogamer.net/nintendo-demoed-switch-2-to-developers-at-gamescom)
-- [Stanford DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
-- [Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
+- [PgCompute: New PostgreSQL Client-Side Extension for Database Functions](https://www.yugabyte.com/blog/pgcompute-postgresql-extension-database-functions/)
+- [Mod kept failure of best tank quiet &lpar;2007&rpar;](https://www.telegraph.co.uk/news/uknews/1551418/MoD-kept-failure-of-best-tank-quiet.html)
+- [Running a 180B parameter LLM on a single Apple M2 Ultra](https://twitter.com/ggerganov/status/1699791226780975439)
+- [Co-founder of DeepMind on how AI threatens to reshape life as we know it](https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it)
+- [Report says PR firm has been paying Rotten Tomatoes critics for positive reviews](https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
