@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Humanised kidneys grown inside pigs for the first time](https://www.theguardian.com/science/2023/sep/07/humanised-kidneys-grown-inside-pigs-for-the-first-time)
+- [Norway rejects Facebook owner Meta&#39;s appeal to defer ban](https://www.thelocal.no/20230906/norway-rejects-facebook-owner-metas-appeal-to-defer-ban)
+- [Bun 1.0 announcement [video]](https://www.youtube.com/watch?v=BsnCpESUEqM)
+- [Mojo: It’s Finally Here](https://www.modular.com/blog/mojo-its-finally-here)
 - [Grindr Loses Almost Half Its Staff on 2-Day RTO Requirement](https://www.bloomberg.com/news/articles/2023-09-07/grindr-loses-nearly-half-its-staff-to-strict-return-to-office-rule)
-- [Wayland Isn&#39;t Going to Save the Linux Desktop &lpar;2022&rpar;](https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html?r)
-- [Turning a Keyboard into a Mouse with Libevdev](https://suricrasia.online/blog/turning-a-keyboard-into/)
-- [Study finds influence of smaller Jersey numbers on perception](https://www.espn.com/nfl/story/_/id/38343968/study-finds-influence-smaller-jersey-numbers-perception)
-- [Microsoft will assume liability for legal copyright risks of Copilot](https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
