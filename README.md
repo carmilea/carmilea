@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BMW drops plan to charge a monthly fee for heated seats](https://www.theverge.com/2023/9/7/23863258/bmw-cancel-heated-seat-subscription-microtransaction)
+- [More than half of dilapidated English schools were refused rebuilding money](https://www.theguardian.com/education/2023/sep/05/more-than-half-of-dilapidated-english-schools-were-refused-rebuilding-money)
 - [Humanised kidneys grown inside pigs for the first time](https://www.theguardian.com/science/2023/sep/07/humanised-kidneys-grown-inside-pigs-for-the-first-time)
+- [Releasing Persimmon-8B](https://www.adept.ai/blog/persimmon-8b)
 - [Norway rejects Facebook owner Meta&#39;s appeal to defer ban](https://www.thelocal.no/20230906/norway-rejects-facebook-owner-metas-appeal-to-defer-ban)
-- [Bun 1.0 announcement [video]](https://www.youtube.com/watch?v=BsnCpESUEqM)
-- [Mojo: It’s Finally Here](https://www.modular.com/blog/mojo-its-finally-here)
-- [Grindr Loses Almost Half Its Staff on 2-Day RTO Requirement](https://www.bloomberg.com/news/articles/2023-09-07/grindr-loses-nearly-half-its-staff-to-strict-return-to-office-rule)
 <!-- BLOG-POST-LIST:END -->
 
 ---
