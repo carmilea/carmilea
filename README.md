@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NixOS just dropped Anduril as a NixCon sponsor](https://twitter.com/nixos_org/status/1699054958858121282)
+- [Stanford DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 - [Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
-- [Tell HN: Reminder that your LinkedIn profile is fully visible to site members](https://news.ycombinator.com/item?id=37417397)
-- [Move Over, Software Developers – In Cybersecurity, the Government Wants to Drive](https://www.techdirt.com/2023/09/06/move-over-software-developers-in-the-name-of-cybersecurity-the-government-wants-to-drive/)
-- [UK drops &#39;spy clause&#39; for scanning encrypted messages, admits not &#39;feasible&#39;](https://www.theregister.com/2023/09/07/uk_government_clause_online_safety_bill/)
-- [Apple buys 50-year-old record label to grow Apple Music Classical app](https://arstechnica.com/gadgets/2023/09/apple-fuels-classical-music-push-with-record-label-acquisition/)
+- [Using disposable phone numbers for better security](https://shkspr.mobi/blog/2023/09/using-disposable-phone-numbers-for-better-security/)
+- [Is Google&#39;s looming monopoly trial a watershed moment for Big Tech?](https://theweek.com/google/1026299/google-doj-monopoly-antitrust-trial)
 <!-- BLOG-POST-LIST:END -->
 
 ---
