@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Chicago’s parking meter disaster](https://www.chicagotribune.com/opinion/editorials/ct-editorial-parking-meters-chicago-daley-20230430-fau3wymdevf7vknog5osrge5e4-story.html)
 - [US solar installations expected to be a record 32 GW in 2023](https://electrek.co/2023/09/06/us-solar-installations-expected-to-be-a-record-32-gw-in-2023/)
-- [Anduril Fury: Automomous Stealth Drone](https://www.anduril.com/fury/)
-- [Unreal Engine 5.3](https://www.unrealengine.com/en-US/blog/unreal-engine-5-3-is-now-available)
+- [God writes Haskell](https://hookrace.net/blog/god-writes-haskell/)
 - [My favorite Erlang program &lpar;2013&rpar;](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
+- [National Film Board of Canada](https://www.nfb.ca/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
