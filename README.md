@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US solar installations expected to be a record 32 GW in 2023](https://electrek.co/2023/09/06/us-solar-installations-expected-to-be-a-record-32-gw-in-2023/)
+- [New LoRa RF distance record: 1336 km / 830 mi](https://www.thethingsnetwork.org/article/new-lora-world-record-1336-km-830-mi)
+- [Nobody&#39;s Driving](https://www.okdoomer.io/nobodys-driving/)
+- [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
 - [God writes Haskell](https://hookrace.net/blog/god-writes-haskell/)
-- [Unreal Engine 5.3](https://www.unrealengine.com/en-US/blog/unreal-engine-5-3-is-now-available)
 - [My favorite Erlang program &lpar;2013&rpar;](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
-- [National Film Board of Canada](https://www.nfb.ca/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
