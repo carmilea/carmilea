@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Consciousness Remains Impossible &lpar;Part 2&rpar;](https://mindmatters.ai/2023/09/artificial-consciousness-remains-impossible-part-2/)
-- [Ten million a year die from air pollution &lpar;2021&rpar;](https://www.lrb.co.uk/the-paper/v43/n23/david-wallace-wells/ten-million-a-year)
+- [Wikimedia DNS](https://meta.wikimedia.org/wiki/Wikimedia_DNS)
+- [Run ChatGPT-like LLMs on your laptop in 3 lines of code](https://github.com/amaiya/onprem)
+- [Beetle grows ‘termite’ on back to steal food](https://www.science.org/content/article/beetle-grows-termite-back-steal-food)
+- [jq 1.7 released](https://github.com/jqlang/jq/releases/tag/jq-1.7)
 - [Norway rolls back EV incentives while boosting walking and cycling](https://electrek.co/2022/05/17/norway-rolls-back-ev-incentives-while-boosting-walking-and-cycling/)
-- [Flexport CEO resigns a year after joining logistics company](https://www.geekwire.com/2023/former-amazon-exec-dave-clark-resigns-as-flexport-ceo-a-year-after-joining-logistics-company/)
-- [US broadband grant rules shut out small ISPs and municipalities, advocates say](https://arstechnica.com/tech-policy/2023/09/big-isps-will-dominate-42b-grant-fund-if-rules-arent-changed-advocates-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
