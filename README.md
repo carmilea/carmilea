@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
+- [Tell HN: Reminder that your LinkedIn profile is fully visible to site members](https://news.ycombinator.com/item?id=37417397)
+- [Move Over, Software Developers – In Cybersecurity, the Government Wants to Drive](https://www.techdirt.com/2023/09/06/move-over-software-developers-in-the-name-of-cybersecurity-the-government-wants-to-drive/)
 - [UK drops &#39;spy clause&#39; for scanning encrypted messages, admits not &#39;feasible&#39;](https://www.theregister.com/2023/09/07/uk_government_clause_online_safety_bill/)
-- [A look inside a Sharia Courtroom](https://www.newyorker.com/culture/the-new-yorker-documentary/swift-justice-looks-inside-a-sharia-courtroom)
 - [Apple buys 50-year-old record label to grow Apple Music Classical app](https://arstechnica.com/gadgets/2023/09/apple-fuels-classical-music-push-with-record-label-acquisition/)
-- [A philosophical theory where hard determinism and panpsychism are compatible](https://chat.openai.com/share/42cc3a70-fbbf-4e3a-ba2b-6b801a10ce66)
-- [Exa Is Deprecated](https://github.com/ogham/exa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
