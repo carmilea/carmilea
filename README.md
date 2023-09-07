@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK drops &#39;spy clause&#39; for scanning encrypted messages, admits not &#39;feasible&#39;](https://www.theregister.com/2023/09/07/uk_government_clause_online_safety_bill/)
+- [A look inside a Sharia Courtroom](https://www.newyorker.com/culture/the-new-yorker-documentary/swift-justice-looks-inside-a-sharia-courtroom)
 - [Apple buys 50-year-old record label to grow Apple Music Classical app](https://arstechnica.com/gadgets/2023/09/apple-fuels-classical-music-push-with-record-label-acquisition/)
-- [I brought down a scamming operation with 15 bytes of PHP](https://www.eliseomartelli.it/blog/2023-09-06-scammer)
 - [A philosophical theory where hard determinism and panpsychism are compatible](https://chat.openai.com/share/42cc3a70-fbbf-4e3a-ba2b-6b801a10ce66)
 - [Exa Is Deprecated](https://github.com/ogham/exa)
-- [What kind of password reset scam is going on at Facebook?](https://old.reddit.com/r/facebook/comments/154goal/someone_keeps_trying_to_reset_my_facebook_password/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
