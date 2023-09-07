@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Searx is no longer maintained](https://github.com/searx/searx/commit/276ffd3f01cdd823f75676c51231fad4040059d3)
+- [What it&#39;s Really Like to be an Alaskan Truck Driver](https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like)
 - [A BERT for laptops, from scratch](https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb)
-- [NASA finally admits what everyone already knows: SLS is unaffordable](https://arstechnica.com/space/2023/09/nasa-finally-admits-what-everyone-already-knows-sls-is-unaffordable/)
 - [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
 - [London Street Trees](https://apps.london.gov.uk/street-trees/)
-- [Gabor Melli’s Research Knowledge Base](https://www.gabormelli.com/RKB/HomePage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
