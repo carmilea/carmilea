@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Servo project is joining Linux Foundation Europe](https://www.igalia.com/2023/09/07/The-Servo-project-is-joining-Linux-Foundation-Europe.html)
+- [Slack AI](https://slack.com/ai?nojsmode=1)
+- [Keith Haring’s Computer Drawings](https://news.artnet.com/market/keith-haring-amiga-drawings-nfts-christies-2355175)
 - [Lean 4.0](https://github.com/leanprover/lean4/releases/tag/v4.0.0)
 - [Unpacking Elixir: Syntax](https://underjord.io/unpacking-elixir-syntax.html)
 - [Federated benchmarking of medical artificial intelligence with MedPerf](https://www.nature.com/articles/s42256-023-00652-2)
-- [We built an AI-powered Magic the Gathering card generator](https://txt.cohere.com/urzas-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
