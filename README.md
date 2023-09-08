@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
+- [Artie &lpar;YC S23&rpar; is hiring a founding engineer](https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer)
+- [SpaceX can&#39;t launch its giant rocket again until fixes are made, FAA says](https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d)
+- [Maybe Rust isn’t a good tool for massively concurrent, userspace software](https://bitbashing.io/async-rust.html)
 - [Microsoft’s Remarkably Big Bet on Carbon-Absorbing Rocks](https://heatmap.news/economy/heirloom-carbon-microsoft-removal)
 - [Move over lithium-ion: Zinc-air batteries a cheaper and safer alternative](https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative)
-- [Procreate Dreams](https://procreate.com/dreams)
-- [11,196 Years Jail Sentence for Faruk Özer, CEO of Turkish Crypto Exchange Thodex](https://www.coindesk.com/policy/2023/09/08/11196-years-in-prison-for-faruk-ozer-ceo-of-collapsed-turkish-crypto-exchange-thodex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
