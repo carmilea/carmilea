@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [More wild Atlantic salmon found in U.S. rivers than any time in the past decade](https://apnews.com/article/salmon-rivers-maine-recovering-endangered-fishing-174eb09c19652bcd54d4d9ee9dec2dae)
+- [Outage at Square prevents small businesses from accepting credit cards](https://www.sfchronicle.com/bayarea/article/outage-square-prevents-small-businesses-accepting-18353810.php)
+- [We Built an AI-Powered Magic the Gathering Card Generator](https://txt.cohere.com/urzas-ai/)
 - [California moves to decriminalize use of magic mushrooms, other psychedelics](https://www.latimes.com/california/story/2023-09-07/california-magic-mushrooms-psychedelics-scott-wiener-psilocybin)
 - [What&#39;s new in Emacs 29.1](https://www.masteringemacs.org/article/whats-new-in-emacs-29-1)
-- [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
-- [Show HN: HackYourNews – AI summaries of the top HN stories](https://hackyournews.com/)
-- [Opposites don&#39;t actually attract: meta-analysis study](https://www.colorado.edu/today/2023/08/31/news-flash-opposites-dont-actually-attract)
 <!-- BLOG-POST-LIST:END -->
 
 ---
