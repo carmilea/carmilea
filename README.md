@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PolicyFly &lpar;YC W22&rpar; Is Hiring a Senior Solutions Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer)
-- [Price shock: IBM to increase cloud costs by up to 26% in 2024 – CIO](https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html)
-- [NYPD spent millions to contract with firm banned by Meta for fake profiles](https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract)
-- [Scientific sleuths spot dishonest ChatGPT use in papers](https://www.nature.com/articles/d41586-023-02477-w)
-- [Linux on the Arm-Based ThinkPad X13S: Getting There](https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/)
+- [Flexport is rescinding a bunch of signed offer letters](https://twitter.com/typesfast/status/1700092765798048093)
+- [Emoji Generator with AI](https://emoji.fly.dev)
+- [Apple vs. Meta: The Illusion of Privacy](https://growth.design/case-studies/apple-privacy-policy)
+- [China Offers Lesson in How to Cut Plastic Waste from Food Delivery](https://www.wsj.com/world/china/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4)
+- [FCC Proposes Voluntary Security Labels for IoT Most Companies Will Likely Ignore](https://www.techdirt.com/2023/09/08/fcc-proposes-voluntary-security-labels-for-internet-of-things-devices-most-companies-will-probably-ignore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
