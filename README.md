@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Emacs: What&#39;s new in Emacs 29.1](https://www.masteringemacs.org/article/whats-new-in-emacs-29-1)
+- [California moves to decriminalize use of magic mushrooms, other psychedelics](https://www.latimes.com/california/story/2023-09-07/california-magic-mushrooms-psychedelics-scott-wiener-psilocybin)
+- [What&#39;s new in Emacs 29.1](https://www.masteringemacs.org/article/whats-new-in-emacs-29-1)
 - [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
 - [Show HN: HackYourNews – AI summaries of the top HN stories](https://hackyournews.com/)
 - [Opposites don&#39;t actually attract: meta-analysis study](https://www.colorado.edu/today/2023/08/31/news-flash-opposites-dont-actually-attract)
-- [TEMU Is Cleverly Hidden Spyware That Poses an Urgent Security Threat to U.S.](https://grizzlyreports.com/we-believe-pdd-is-a-dying-fraudulent-company-and-its-shopping-app-temu-is-cleverly-hidden-spyware-that-poses-an-urgent-security-threat-to-u-s-national-interests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
