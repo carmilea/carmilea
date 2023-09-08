@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NYPD spent millions to contract with firm banned by Meta for fake profiles](https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract)
 - [Linux on the Arm-Based ThinkPad X13S: Getting There](https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/)
-- [Coincidentally-identical waypoint names foxed UK air traffic control system](https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article)
+- [Touch Pianist](http://touchpianist.com/)
+- [Discovery shines light on Church&#39;s protection of Jews during Nazi persecution](https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html)
 - [Lean 4.0](https://github.com/leanprover/lean4/releases/tag/v4.0.0)
-- [Unpacking Elixir: Syntax](https://underjord.io/unpacking-elixir-syntax.html)
-- [Federated benchmarking of medical artificial intelligence with MedPerf](https://www.nature.com/articles/s42256-023-00652-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
