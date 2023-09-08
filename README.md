@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Servo project is joining Linux Foundation Europe](https://www.igalia.com/2023/09/07/The-Servo-project-is-joining-Linux-Foundation-Europe.html)
 - [Lean 4.0](https://github.com/leanprover/lean4/releases/tag/v4.0.0)
 - [Unpacking Elixir: Syntax](https://underjord.io/unpacking-elixir-syntax.html)
 - [Federated benchmarking of medical artificial intelligence with MedPerf](https://www.nature.com/articles/s42256-023-00652-2)
-- [Why isn&#39;t chess popular in Japan?](https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU)
 - [We built an AI-powered Magic the Gathering card generator](https://txt.cohere.com/urzas-ai/)
 <!-- BLOG-POST-LIST:END -->
 
