@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flexport is rescinding a bunch of signed offer letters](https://twitter.com/typesfast/status/1700092765798048093)
-- [Emoji Generator with AI](https://emoji.fly.dev)
-- [Apple vs. Meta: The Illusion of Privacy](https://growth.design/case-studies/apple-privacy-policy)
-- [China Offers Lesson in How to Cut Plastic Waste from Food Delivery](https://www.wsj.com/world/china/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4)
-- [FCC Proposes Voluntary Security Labels for IoT Most Companies Will Likely Ignore](https://www.techdirt.com/2023/09/08/fcc-proposes-voluntary-security-labels-for-internet-of-things-devices-most-companies-will-probably-ignore/)
+- [Bees struggle to find flowers because of air pollution](https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution)
+- [Did you know Git was originally created in 10 days?](https://community.appsmith.com/content/blog/evolution-git-dive-tech-history)
+- [Dating app Grindr loses nearly half its staff after trying to force RTO](https://www.cnn.com/2023/09/08/business/grindr-return-to-office-union/index.html)
+- [Bun v1.0.0](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0)
+- [Large Language Models as Optimizers. +50% on Big Bench Hard](https://arxiv.org/abs/2309.03409)
 <!-- BLOG-POST-LIST:END -->
 
 ---
