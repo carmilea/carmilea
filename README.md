@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI girlfriend ads are flooding Instagram and TikTok](https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547)
 - [Artie &lpar;YC S23&rpar; is hiring a founding engineer](https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer)
 - [SpaceX can&#39;t launch its giant rocket again until fixes are made, FAA says](https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d)
 - [Maybe Rust isn’t a good tool for massively concurrent, userspace software](https://bitbashing.io/async-rust.html)
-- [Microsoft’s Remarkably Big Bet on Carbon-Absorbing Rocks](https://heatmap.news/economy/heirloom-carbon-microsoft-removal)
-- [Move over lithium-ion: Zinc-air batteries a cheaper and safer alternative](https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative)
+- [Heirloom Carbon: Absorbing CO2 from the air using crushed rocks](https://heatmap.news/economy/heirloom-carbon-microsoft-removal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
