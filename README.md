@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Slack AI](https://slack.com/ai?nojsmode=1)
-- [Keith Haring’s Computer Drawings](https://news.artnet.com/market/keith-haring-amiga-drawings-nfts-christies-2355175)
+- [Linux on the Arm-Based ThinkPad X13S: Getting There](https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/)
+- [Coincidentally-identical waypoint names foxed UK air traffic control system](https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article)
 - [Lean 4.0](https://github.com/leanprover/lean4/releases/tag/v4.0.0)
 - [Unpacking Elixir: Syntax](https://underjord.io/unpacking-elixir-syntax.html)
 - [Federated benchmarking of medical artificial intelligence with MedPerf](https://www.nature.com/articles/s42256-023-00652-2)
