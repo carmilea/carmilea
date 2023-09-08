@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Learn Emacs &lpar;2012&rpar;](https://david.rothlis.net/emacs/howtolearn.html)
-- [Scammers can exploit email forwarding flaws to impersonate high-profile domains](https://today.ucsd.edu/story/forwarding_based_spoofing)
-- [Show HN: Conway&#39;s Game of Life in TypeScript&#39;s type system](https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts)
-- [Safety inspector fired for finding &#39;too many defects&#39;](https://kstp.com/kstp-news/top-news/a-track-inspector-claimed-he-was-fired-for-reporting-too-many-defects-his-secret-recordings-may-cost-bnsf-millions/)
-- [Why we didn’t get a malaria vaccine sooner](https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner)
+- [The Absence of Data Privacy Law Is a National Security Threat](https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773)
+- [Decoded: GNU Coreutils](https://maizure.org/projects/decoded-gnu-coreutils/)
+- [The rxv64 Operating System: MIT&#39;s xv6, in Rust, for SMP x86_64 machines](https://github.com/dancrossnyc/rxv64)
+- [NVIDIA introduces TensorRT-LLM for accelerating LLM inference on H100/A100 GPUs](https://developer.nvidia.com/blog/nvidia-tensorrt-llm-supercharges-large-language-model-inference-on-nvidia-h100-gpus/)
+- [Using LD_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
