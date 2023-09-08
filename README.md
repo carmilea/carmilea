@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Harvard is named worst school for free speech](https://nypost.com/2023/09/06/harvard-is-named-worst-school-for-free-speech-scoring-zero-out-of-possible-100/)
 - [BMW Is Giving Up on Heated Seat Subscriptions Because People Hated Them](https://www.thedrive.com/news/bmw-is-giving-up-on-heated-seat-subscriptions-because-people-hated-them)
 - [Federated benchmarking of medical artificial intelligence with MedPerf](https://www.nature.com/articles/s42256-023-00652-2)
 - [Why isn&#39;t chess popular in Japan?](https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU)
-- [We built an AI-powered Magic the Gathering card generator](https://txt.cohere.com/urzas-ai/)
-- [California moves to decriminalize use of magic mushrooms, other psychedelics](https://www.latimes.com/california/story/2023-09-07/california-magic-mushrooms-psychedelics-scott-wiener-psilocybin)
+- [iOS 17 sideloading support is coming, and Apple can’t stop it](https://bgr.com/tech/ios-17-sideloading-support-is-coming-and-apple-cant-stop-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
