@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Learn Emacs &lpar;2012&rpar;](https://david.rothlis.net/emacs/howtolearn.html)
+- [Scammers can exploit email forwarding flaws to impersonate high-profile domains](https://today.ucsd.edu/story/forwarding_based_spoofing)
 - [Show HN: Conway&#39;s Game of Life in TypeScript&#39;s type system](https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts)
-- [Safety Inspector Fired for Finding Too Many Defects Could Cost Railroad Millions](https://jalopnik.com/safety-inspector-fired-for-finding-too-many-defects-cou-1850817520)
+- [Safety inspector fired for finding &#39;too many defects&#39;](https://kstp.com/kstp-news/top-news/a-track-inspector-claimed-he-was-fired-for-reporting-too-many-defects-his-secret-recordings-may-cost-bnsf-millions/)
 - [Why we didn’t get a malaria vaccine sooner](https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner)
-- [CVE-2023-4809: FreeBSD pf bypass when using IPv6](https://www.enricobassetti.it/2023/09/cve-2023-4809-freebsd-pf-bypass-when-using-ipv6/)
-- [FTC judge decides Intuit’s ‘free’ TurboTax ads misled consumers](https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
