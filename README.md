@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Defcon talk shows cops are trackable, like AirTags](https://blog.dataparty.xyz/blog/snoop-unto-them/)
+- [McDonald&#39;s to retire self-service soda fountains by 2032](https://www.sj-r.com/story/entertainment/dining/2023/09/08/mcdonalds-ending-self-service-soda-fountain-drink-stations/70785168007/)
 - [The Absence of Data Privacy Law Is a National Security Threat](https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773)
 - [Decoded: GNU Coreutils](https://maizure.org/projects/decoded-gnu-coreutils/)
 - [The rxv64 Operating System: MIT&#39;s xv6, in Rust, for SMP x86_64 machines](https://github.com/dancrossnyc/rxv64)
-- [NVIDIA introduces TensorRT-LLM for accelerating LLM inference on H100/A100 GPUs](https://developer.nvidia.com/blog/nvidia-tensorrt-llm-supercharges-large-language-model-inference-on-nvidia-h100-gpus/)
-- [Using LD_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
