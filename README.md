@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PolicyFly &lpar;YC W22&rpar; Is Hiring a Senior Solutions Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer)
+- [Price shock: IBM to increase cloud costs by up to 26% in 2024 – CIO](https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html)
 - [NYPD spent millions to contract with firm banned by Meta for fake profiles](https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract)
+- [Scientific sleuths spot dishonest ChatGPT use in papers](https://www.nature.com/articles/d41586-023-02477-w)
 - [Linux on the Arm-Based ThinkPad X13S: Getting There](https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/)
-- [Touch Pianist](http://touchpianist.com/)
-- [LibreWolf – custom version of Firefox, focused on privacy, security and freedom](https://librewolf.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
