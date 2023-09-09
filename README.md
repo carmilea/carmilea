@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla](https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/)
-- [Bitwarden has been disabled in Chrome [img]](https://imgur.com/XPmU2FX)
-- [Library of Short Stories – An online library of public domain short stories](https://www.libraryofshortstories.com/)
-- [The Development of the C Language &lpar;2003&rpar;](http://cm.bell-labs.co/who/dmr/chist.html)
-- [Embeddable Common Lisp 23.9.9](https://ecl.common-lisp.dev/posts/ECL-2399-release.html)
+- [Google, Meta, Amazon hiring low-paid H1B workers after US layoffs](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/layoffs-google-microsoft-meta-amazon-hiring-low-paid-h1b-workers-after-us-layoffs-report-10605301.html)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [Appeals Court Rules White House Overstepped First Amendment on Social Media](https://www.nytimes.com/2023/09/08/business/appeals-court-first-amendment-social-media.html)
+- [Dennis Austin, the software developer of PowerPoint, dies at 76](https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/)
+- [Ask HN: Looking for a resource on Linux kernel module development](https://news.ycombinator.com/item?id=37444184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
