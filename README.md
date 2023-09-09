@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Bankman-Fried&#39;s jail conditions offer a glimpse at systemic failure](https://newsletter.mollywhite.net/p/sam-bankman-frieds-jail-conditions)
-- [Ask HN: What cool desk ideas do you have for a home office?](https://news.ycombinator.com/item?id=37447980)
-- [Block the Blue – Twitter Verified Blocker](https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn)
-- [Show HN: Productonboarding.com – Mobbin for SaaS product onboarding](https://productonboarding.com)
-- [A History of Carrying Capacity](https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a)
+- [Show HN: I built a Python web framework from scratch](https://github.com/ZeroIntensity/view.py)
+- [Zinc batteries that offer an alternative to lithium just got a big boost](https://www.technologyreview.com/2023/09/06/1079123/zinc-batteries-boost-eos/)
+- [You might want async in your project](https://notgull.net/why-you-want-async/)
+- [Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations](https://github.com/Ads-cmu/WhatsApp-Llama)
+- [Existing in an Un-Simulated Reality](https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality)
 <!-- BLOG-POST-LIST:END -->
 
 ---
