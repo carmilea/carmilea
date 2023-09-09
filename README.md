@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First female welder joins exclusive club](https://maysville-online.com/news/208895/first-female-welder-joins-exclusive-club)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Technical Interviewers](https://news.ycombinator.com/item?id=37441168)
-- [Uber CEO’s time moonlighting as a driver sparked all-hands called &#39;Why we suck.&#39;](https://www.businessinsider.com/uber-ceo-dara-khosrowshahi-company-should-have-paid-attention-drivers-2023-9)
+- [FTC judge rules Intuit broke law, must stop advertising TurboTax as “free”](https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/)
+- [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign)
+- [Generally Intelligent &lpar;YC S17&rpar; is hiring technical interviewers](https://news.ycombinator.com/item?id=37441168)
 - [LogoScale – A method for vectorizing small, crappy logos](https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0)
 - [Morphology and temporal evolution of ground-nesting bee burrows](https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040)
 <!-- BLOG-POST-LIST:END -->
