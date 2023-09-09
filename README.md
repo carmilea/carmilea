@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Public restrooms are hard to find in America. That’s a problem](https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/)
-- [Investors account for 30 per cent of home buying in Canada, data show](https://www.theglobeandmail.com/business/article-investors-account-for-30-per-cent-of-home-buying-in-canada-data-show/)
-- [Ask HN: Will Google delete inactive gmail accounts that forward email?](https://news.ycombinator.com/item?id=37445668)
-- [Running over 20 top-notch cybersecurity tools with API](https://developer.penteston.com)
-- [Comparing 60 LLMs with a set of 20 prompts](https://benchmarks.llmonitor.com)
+- [The U.S. Housing Market vs. the Canadian Housing Market](https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/)
+- [Ask HN: Who here is working on DARPA AICC challenge?](https://news.ycombinator.com/item?id=37446644)
+- [DJI Virtual Flight &lpar;iOS&rpar; has been broken for five months](https://forum.dji.com/thread-293546-1-1.html)
+- [PAROL6 Desktop Robot Arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm)
+- [Binance is facing liquidity issues on certain blockchains](https://twitter.com/coinfabrik/status/1700495960151912518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
