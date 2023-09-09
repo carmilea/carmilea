@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fifth Circuit: Some Federal Officials Violated 1A via Social Media Censorship [pdf]](https://www.ca5.uscourts.gov/opinions/pub/23/23-30445-CV0.pdf)
-- [A small-town police officer took down the largest matchfixing ring in tennis](https://www.msn.com/en-us/sports/tennis/the-unraveling-how-a-small-town-police-officer-took-down-the-largest-match-fixing-ring-in-tennis/ar-AA1gmhhx)
-- [The U.S. housing market vs. the Canadian housing market](https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/)
-- [Ask HN: Who here is working on DARPA AICC challenge?](https://news.ycombinator.com/item?id=37446644)
-- [Learning Zig](https://www.openmymind.net/learning_zig/)
+- [Sam Bankman-Fried&#39;s jail conditions offer a glimpse at systemic failure](https://newsletter.mollywhite.net/p/sam-bankman-frieds-jail-conditions)
+- [Ask HN: What cool desk ideas do you have for a home office?](https://news.ycombinator.com/item?id=37447980)
+- [Block the Blue – Twitter Verified Blocker](https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn)
+- [Show HN: Productonboarding.com – Mobbin for SaaS product onboarding](https://productonboarding.com)
+- [A History of Carrying Capacity](https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
