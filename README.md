@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Julia and Mojo &lpar;Modular&rpar; Mandelbrot Benchmark](https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638)
 - [FTC judge rules Intuit broke law, must stop advertising TurboTax as “free”](https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/)
-- [Teaching old C code new tricks with Nim](https://peterme.net/teaching-old-c-code-new-tricks-with-nim.html)
 - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign)
 - [Generally Intelligent &lpar;YC S17&rpar; is hiring technical interviewers](https://news.ycombinator.com/item?id=37441168)
+- [LogoScale – A method for vectorizing small, crappy logos](https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
