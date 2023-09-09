@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Freshpaint &lpar;YC S19&rpar; is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [Alert: No Google Topics in Vivaldi](https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/)
+- [No Google Topics in Vivaldi](https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/)
 - [English cottage where John le Carré wrote Tinker Tailor Soldier Spy is for sale](https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/)
 - [Show HN: I built a Python web framework](https://github.com/ZeroIntensity/view.py)
-- [Why you might want async in your project](https://notgull.net/why-you-want-async/)
+- [SmartKnob – Haptic input knob with software-defined endstops and virtual detents](https://github.com/scottbez1/smartknob)
 <!-- BLOG-POST-LIST:END -->
 
 ---
