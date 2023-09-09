@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Order of the Occult Hand](https://en.wikipedia.org/wiki/Order_of_the_Occult_Hand)
+- [Half of Glaciers Vanish with 1.5 Degrees of Warming](https://www.nasa.gov/feature/esnt/2023/nasa-funded-study-half-of-glaciers-vanish-with-1-point-5-degrees-of-warming/)
+- [Climate change boosts risk of explosive wildfire growth in California by 25%](https://www.latimes.com/california/story/2023-09-04/climate-change-boosts-california-wildfire-risk-by-25)
+- [Australia to give cats a curfew because they are murdering so many other animals](https://www.insider.com/australia-considers-cat-curfews-household-limits-to-protect-biodiversity-2023-9)
 - [Show HN: I built a Python web framework from scratch](https://github.com/ZeroIntensity/view.py)
-- [Zinc batteries that offer an alternative to lithium just got a big boost](https://www.technologyreview.com/2023/09/06/1079123/zinc-batteries-boost-eos/)
-- [You might want async in your project](https://notgull.net/why-you-want-async/)
-- [Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations](https://github.com/Ads-cmu/WhatsApp-Llama)
-- [Existing in an Un-Simulated Reality](https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality)
 <!-- BLOG-POST-LIST:END -->
 
 ---
