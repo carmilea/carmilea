@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The U.S. Housing Market vs. the Canadian Housing Market](https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/)
+- [Fifth Circuit: Some Federal Officials Violated 1A via Social Media Censorship [pdf]](https://www.ca5.uscourts.gov/opinions/pub/23/23-30445-CV0.pdf)
+- [A small-town police officer took down the largest matchfixing ring in tennis](https://www.msn.com/en-us/sports/tennis/the-unraveling-how-a-small-town-police-officer-took-down-the-largest-match-fixing-ring-in-tennis/ar-AA1gmhhx)
+- [The U.S. housing market vs. the Canadian housing market](https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/)
 - [Ask HN: Who here is working on DARPA AICC challenge?](https://news.ycombinator.com/item?id=37446644)
-- [DJI Virtual Flight &lpar;iOS&rpar; has been broken for five months](https://forum.dji.com/thread-293546-1-1.html)
-- [PAROL6 Desktop Robot Arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm)
-- [Binance is facing liquidity issues on certain blockchains](https://twitter.com/coinfabrik/status/1700495960151912518)
+- [Learning Zig](https://www.openmymind.net/learning_zig/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
