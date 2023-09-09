@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Technical Interviewers](https://news.ycombinator.com/item?id=37441168)
+- [Atari pulls nostalgia power move and buys homebrew community forum](https://www.theregister.com/2023/09/08/atari_snaps_up_atariage/)
 - [LogoScale – A method for vectorizing small, crappy logos](https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0)
 - [Most bees live underground. X-ray images reveal how they build their nests](https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests)
 - [Snoop unto them as they snoop unto you](https://blog.dataparty.xyz/blog/snoop-unto-them/)
-- [Decoded: GNU Coreutils &lpar;2018&rpar;](https://maizure.org/projects/decoded-gnu-coreutils/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
