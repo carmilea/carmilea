@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Defcon talk shows cops are trackable, like AirTags](https://blog.dataparty.xyz/blog/snoop-unto-them/)
-- [McDonald&#39;s to retire self-service soda fountains by 2032](https://www.sj-r.com/story/entertainment/dining/2023/09/08/mcdonalds-ending-self-service-soda-fountain-drink-stations/70785168007/)
-- [The Absence of Data Privacy Law Is a National Security Threat](https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773)
-- [Decoded: GNU Coreutils](https://maizure.org/projects/decoded-gnu-coreutils/)
-- [The rxv64 Operating System: MIT&#39;s xv6, in Rust, for SMP x86_64 machines](https://github.com/dancrossnyc/rxv64)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Technical Interviewers](https://news.ycombinator.com/item?id=37441168)
+- [LogoScale – A method for vectorizing small, crappy logos](https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0)
+- [Most bees live underground. X-ray images reveal how they build their nests](https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests)
+- [Snoop unto them as they snoop unto you](https://blog.dataparty.xyz/blog/snoop-unto-them/)
+- [Decoded: GNU Coreutils &lpar;2018&rpar;](https://maizure.org/projects/decoded-gnu-coreutils/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
