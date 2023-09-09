@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Development of the C Language](http://cm.bell-labs.co/who/dmr/chist.html)
 - [As wildfires burn across the world, what is the role of Australia&#39;s eucalyptus?](https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264)
+- [Embeddable Common Lisp 23.9.9](https://ecl.common-lisp.dev/posts/ECL-2399-release.html)
 - [Advanced NLP with SpaCy](https://course.spacy.io/en/)
 - [Julia and Mojo &lpar;Modular&rpar; Mandelbrot Benchmark](https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638)
-- [FTC judge rules Intuit broke law, must stop advertising TurboTax as “free”](https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/)
-- [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign)
 <!-- BLOG-POST-LIST:END -->
 
 ---
