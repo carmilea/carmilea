@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Republicans just saved California’s magic mushroom bill](https://www.sfgate.com/cannabis/article/3-republicans-saved-california-magic-mushroom-bill-18354895.php)
+- [U.S. Government Is Monitoring All Global Entry Members Daily](https://www.newsweek.com/government-monitors-global-entry-travelers-daily-even-if-they-arent-traveling-1825445)
+- [CRISPR used to &#39;reprogram&#39; cancer cells into healthy muscle in the lab](https://www.livescience.com/health/cancer/crispr-used-to-reprogram-cancer-cells-into-healthy-muscle-in-the-lab)
 - [Google, Meta, Amazon hiring low-paid H1B workers after US layoffs](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/layoffs-google-microsoft-meta-amazon-hiring-low-paid-h1b-workers-after-us-layoffs-report-10605301.html)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Appeals Court Rules White House Overstepped First Amendment on Social Media](https://www.nytimes.com/2023/09/08/business/appeals-court-first-amendment-social-media.html)
-- [Dennis Austin, the software developer of PowerPoint, dies at 76](https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/)
-- [Ask HN: Looking for a resource on Linux kernel module development](https://news.ycombinator.com/item?id=37444184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
