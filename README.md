@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla](https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/)
 - [Bitwarden has been disabled in Chrome [img]](https://imgur.com/XPmU2FX)
 - [X challenges California’s new transparency law as unconstitutional](https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/)
 - [The Development of the C Language &lpar;2003&rpar;](http://cm.bell-labs.co/who/dmr/chist.html)
 - [As wildfires burn across the world, what is the role of Australia&#39;s eucalyptus?](https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264)
-- [Embeddable Common Lisp 23.9.9](https://ecl.common-lisp.dev/posts/ECL-2399-release.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
