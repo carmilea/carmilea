@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Morocco earthquake kills more than 1,000](https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208)
-- [What are we calling what used to be called FAANG these days?](https://news.ycombinator.com/item?id=37445165)
-- [Why are your keyboards not wireless?](https://www.zsa.io/wireless/)
-- [CRISPR used to &#39;reprogram&#39; cancer cells into healthy muscle in the lab](https://www.livescience.com/health/cancer/crispr-used-to-reprogram-cancer-cells-into-healthy-muscle-in-the-lab)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [Public restrooms are hard to find in America. That’s a problem](https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/)
+- [Investors account for 30 per cent of home buying in Canada, data show](https://www.theglobeandmail.com/business/article-investors-account-for-30-per-cent-of-home-buying-in-canada-data-show/)
+- [Ask HN: Will Google delete inactive gmail accounts that forward email?](https://news.ycombinator.com/item?id=37445668)
+- [Running over 20 top-notch cybersecurity tools with API](https://developer.penteston.com)
+- [Comparing 60 LLMs with a set of 20 prompts](https://benchmarks.llmonitor.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
