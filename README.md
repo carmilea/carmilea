@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sci-Fi Short Film “Slaughterbots” [video] &lpar;2017&rpar;](https://www.youtube.com/watch?v=O-2tpwW0kmU)
-- [Starfield’s missing Nvidia DLSS support has been added by a free mod](https://arstechnica.com/gaming/2023/09/starfields-missing-nvidia-dlss-support-has-been-added-by-a-free-mod/)
 - [GitHub – GSA/code-gov: An informative repo for all Code.gov repos](https://github.com/GSA/code-gov)
 - [I Wrote a String Type](https://mcyoung.xyz/2023/08/09/yarns/)
 - [Coffee in a Can](https://one-from-nippon.ghost.io/coffee-in-a-can/)
+- [School of SRE: Curriculum for onboarding non-traditional hires and new grads](https://github.com/linkedin/school-of-sre)
+- [Memories from old LAN parties](https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
