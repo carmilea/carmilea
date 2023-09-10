@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Senior Engineer&#39;s Check-List](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
+- [Mistakes You Should Never Make](https://web.archive.org/web/20140803073308/http://sethbannon.com/mistakes-you-should-never-make)
+- [Why SaaS prices are still going up when companies are spending less](https://www.vendr.com/blog/price-hikes-continue)
+- [A Senior Engineer&#39;s Check-List &lpar;2019&rpar;](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
 - [KSMBD Declared Stable – No Longer “Experimental” – In Linux 6.6](https://www.phoronix.com/news/KSMBD-Stable-Linux-6.6)
 - [Linux 6.6 WQ Change May Help AMD CPUs and Other Systems with Multiple L3 Caches](https://www.phoronix.com/news/Linux-6.6-Workqueue)
-- [Goodbye to Thien-Thi Nguyen](https://lists.gnu.org/archive/html/emacs-devel/2023-09/msg00713.html)
-- [How Big Tech Got So Damn Big](https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
