@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistakes You Should Never Make](https://web.archive.org/web/20140803073308/http://sethbannon.com/mistakes-you-should-never-make)
+- [Why Is the Ocean Salty?](https://www.usgs.gov/faqs/why-ocean-salty)
+- [Battery-Electric Fishing Vessel Marks a Sea Change for Small Commercial Fishers](https://www.nrel.gov/news/program/2023/battery-electric-fishing-vessel-marks-a-sea-change-for-small-commercial-fishers.html)
+- [Mistakes You Should Never Make &lpar;2014&rpar;](https://web.archive.org/web/20140803073308/http://sethbannon.com/mistakes-you-should-never-make)
 - [Why SaaS prices are still going up when companies are spending less](https://www.vendr.com/blog/price-hikes-continue)
-- [A Senior Engineer&#39;s Check-List &lpar;2019&rpar;](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
-- [KSMBD Declared Stable – No Longer “Experimental” – In Linux 6.6](https://www.phoronix.com/news/KSMBD-Stable-Linux-6.6)
-- [Linux 6.6 WQ Change May Help AMD CPUs and Other Systems with Multiple L3 Caches](https://www.phoronix.com/news/Linux-6.6-Workqueue)
+- [The Decomposition of Rotten Tomatoes](https://longreads.com/2023/09/07/the-decomposition-of-rotten-tomatoes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
