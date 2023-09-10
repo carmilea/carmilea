@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lockheed Martin, world&#39;s largest arms dealer, getting into streetwear business](https://www.nytimes.com/2023/09/08/style/lockheed-martin-fashion.html)
+- [RISC-V SBI and the full boot process](https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/)
+- [Improving NeRF quality by progressive camera placement](https://arxiv.org/abs/2309.00014)
 - [Small prey compelled prehistoric humans to produce appropriate hunting weapons](https://phys.org/news/2023-09-small-prey-compelled-prehistoric-humans.html)
+- [Historical Objects: The Bees of Childeric I](https://justhistoryposts.com/2023/09/05/historical-objects-the-bees-of-childeric-i/)
 - [Fathom AI Notetaker &lpar;YC W21&rpar; is hiring a principal SRE &lpar;remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/L0pyU04Gs-principal-site-reliability-engineer-remote)
-- [How to pass the interview for software engineering roles in Big Tech](https://www.lambrospetrou.com/articles/big-tech-software-interviews/)
-- [$400M in assets to bankrupt in 45-minutes because of a failed deployment &lpar;2014&rpar;](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
