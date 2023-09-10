@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alaska Air Force Base Home to Mini-Nuclear Reactor Pilot Project](https://oilprice.com/Alternative-Energy/Nuclear-Power/Alaska-Air-Force-Base-Home-To-Mini-Nuclear-Reactor-Pilot-Project.html)
-- [Peredvizhnikov Engine is a fully lock-free game engine written in C++20](https://github.com/eduard-permyakov/peredvizhnikov-engine)
-- [The fear of a nuclear fire that would consume Earth](https://www.bbc.com/future/article/20230907-the-fear-of-a-nuclear-fire-that-would-consume-earth)
-- [Textual-web: Run TUIs and terminals in the browser](https://github.com/Textualize/textual-web)
-- [Training and Aligning LLMs with RLHF and RLHF Alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
+- [A Senior Engineer&#39;s Check-List](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
+- [KSMBD Declared Stable – No Longer “Experimental” – In Linux 6.6](https://www.phoronix.com/news/KSMBD-Stable-Linux-6.6)
+- [Linux 6.6 WQ Change May Help AMD CPUs and Other Systems with Multiple L3 Caches](https://www.phoronix.com/news/Linux-6.6-Workqueue)
+- [Goodbye to Thien-Thi Nguyen](https://lists.gnu.org/archive/html/emacs-devel/2023-09/msg00713.html)
+- [How Big Tech Got So Damn Big](https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
