@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Phoenix has set another heat record by hitting 110 degrees on 54 days this year](https://www.npr.org/2023/09/10/1198669796/phoenix-sets-another-heat-record)
+- [Heat Waves and Climate Change: Understanding the Link](https://mercurialtrends.com/heat-waves-and-climate-change-understanding-the-link/)
+- [It’s way past time to stop police ‘testilying’](https://knowablemagazine.org/article/society/2023/time-to-end-police-deception)
+- [How does Linux NAT a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
 - [Google no longer offers new domain registrations](https://domains.google/)
 - [Earth had hottest 3-months on record; unprecedented sea temps &amp; extreme weather](https://public.wmo.int/en/media/press-release/earth-had-hottest-three-month-period-record-unprecedented-sea-surface)
-- [Is air conditioning making cities hotter?](https://www.euronews.com/green/2023/08/30/fact-check-is-air-conditioning-making-cities-hotter)
-- [Reviewing a Dell Linux PC 23 years ago &lpar;by me in PCW magazine, Sep 2000&rpar;](https://liam-on-linux.dreamwidth.org/89116.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
