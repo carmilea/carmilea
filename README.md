@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is air conditioning making cities hotter?](https://www.euronews.com/green/2023/08/30/fact-check-is-air-conditioning-making-cities-hotter)
+- [Reviewing a Dell Linux PC 23 years ago &lpar;by me in PCW magazine, Sep 2000&rpar;](https://liam-on-linux.dreamwidth.org/89116.html)
+- [Leaked Google pay data shows how much employees report making](https://www.businessinsider.com/google-salaries-levels-locations-races-gender-leaked-data-2023-9)
 - [“Make” as a Static Site Generator](https://www.karl.berlin/static-site.html)
 - [I wired up my bike&#39;s GPS to order me pizza during a gravel race](https://steele.blue/geofence-pizza-ordering/)
-- [New JFK Assassination Revelation Could Upend the Long-Held “Lone Gunman” Theory](https://www.vanityfair.com/news/2023/09/new-jfk-assassination-revelation-upend-lone-gunman)
-- [Breathing Life Back into a Minitel 1B with the Minimit](https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html)
-- [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
