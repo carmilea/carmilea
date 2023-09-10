@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coffee in a Can](https://one-from-nippon.ghost.io/coffee-in-a-can/)
+- [Florida’s “Nub City,” Where Residents Cut Off Their Own Appendages for Insurance](https://allthatsinteresting.com/nub-city-vernon-florida)
+- [Memories from Old LAN Parties](https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html)
+- [Jakob Nielsen: The Top Web Design Mistakes of 1999 &lpar;1999&rpar;](https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/)
 - [Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
-- [Our Self-Driving Cars Will Save Lives, but They Will Kill Some of You First](https://www.mcsweeneys.net/articles/our-self-driving-cars-will-save-countless-lives-but-they-will-kill-some-of-you-first)
-- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [No Google Topics in Vivaldi](https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/)
-- [Show HN: I built a Python web framework](https://github.com/ZeroIntensity/view.py)
 <!-- BLOG-POST-LIST:END -->
 
 ---
