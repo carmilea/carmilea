@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fathom AI Notetaker &lpar;YC W21&rpar; is hiring a principal SRE &lpar;remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/L0pyU04Gs-principal-site-reliability-engineer-remote)
+- [$400M in assets to bankrupt in 45-minutes because of a failed deployment &lpar;2014&rpar;](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
 - [Why Is the Ocean Salty?](https://www.usgs.gov/faqs/why-ocean-salty)
+- [The Linux Information Project](https://www.linfo.org/)
 - [Battery-Electric Fishing Vessel Marks a Sea Change for Small Commercial Fishers](https://www.nrel.gov/news/program/2023/battery-electric-fishing-vessel-marks-a-sea-change-for-small-commercial-fishers.html)
-- [Mistakes You Should Never Make &lpar;2014&rpar;](https://web.archive.org/web/20140803073308/http://sethbannon.com/mistakes-you-should-never-make)
-- [Why SaaS prices are still going up when companies are spending less](https://www.vendr.com/blog/price-hikes-continue)
-- [The Decomposition of Rotten Tomatoes](https://longreads.com/2023/09/07/the-decomposition-of-rotten-tomatoes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
