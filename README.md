@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub – GSA/code-gov: An informative repo for all Code.gov repos](https://github.com/GSA/code-gov)
+- [I Wrote a String Type](https://mcyoung.xyz/2023/08/09/yarns/)
 - [Coffee in a Can](https://one-from-nippon.ghost.io/coffee-in-a-can/)
+- [School of SRE: Curriculum for onboarding non-traditional hires and new grads](https://github.com/linkedin/school-of-sre)
 - [Florida’s “Nub City,” Where Residents Cut Off Their Own Appendages for Insurance](https://allthatsinteresting.com/nub-city-vernon-florida)
-- [Memories from Old LAN Parties](https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html)
-- [Jakob Nielsen: The Top Web Design Mistakes of 1999 &lpar;1999&rpar;](https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/)
-- [Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
 <!-- BLOG-POST-LIST:END -->
 
 ---
