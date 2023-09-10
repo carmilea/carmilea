@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Heat Waves and Climate Change: Understanding the Link](https://mercurialtrends.com/heat-waves-and-climate-change-understanding-the-link/)
+- [Peredvizhnikov Engine is a fully lock-free game engine written in C++20](https://github.com/eduard-permyakov/peredvizhnikov-engine)
+- [The fear of a nuclear fire that would consume Earth](https://www.bbc.com/future/article/20230907-the-fear-of-a-nuclear-fire-that-would-consume-earth)
+- [Training and Aligning LLMs with RLHF and RLHF Alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
 - [It’s way past time to stop police ‘testilying’](https://knowablemagazine.org/article/society/2023/time-to-end-police-deception)
 - [How does Linux NAT a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
-- [Google no longer offers new domain registrations](https://domains.google/)
-- [Earth had hottest 3-months on record; unprecedented sea temps &amp; extreme weather](https://public.wmo.int/en/media/press-release/earth-had-hottest-three-month-period-record-unprecedented-sea-surface)
 <!-- BLOG-POST-LIST:END -->
 
 ---
