@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RestGPT](https://github.com/Yifan-Song793/RestGPT)
 - [A more dynamic software I/O TLB](https://lwn.net/Articles/940973/)
 - [Microsoft has not stopped forcing Edge on Windows 11 users](https://www.ctrl.blog/entry/windows-system-components-default-edge.html)
 - [To make dishwashers great again? &lpar;2020&rpar;](https://www.greenbuildinglawupdate.com/2020/11/articles/environmental/to-make-dishwashers-great-again/)
 - [Superbatteries will transform the performance of EVs](https://www.economist.com/science-and-technology/2023/08/23/superbatteries-will-transform-the-performance-of-evs)
-- [The Awk book’s 60-line version of Make](https://benhoyt.com/writings/awk-make/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
