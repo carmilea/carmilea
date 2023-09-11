@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [uBlock-Origin – 1.52.0](https://github.com/gorhill/uBlock/releases/tag/1.52.0)
-- [The IKEA-powered homelab on a wall](https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/)
-- [Apple should re-release Safari for Windows](https://twitter.com/cassiozen/status/1701306988611653720)
+- [Onboarding Floating-Point](https://www.altdevarts.com/p/onboarding-floating-point)
+- [YouTube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
+- [Microsoft to kill off third-party printer drivers in Windows](https://www.theregister.com/2023/09/11/go_native_or_go_home/)
 - [Advanced x86: Virtualization with  Intel VT-x](https://opensecuritytraining.info/AdvancedX86-VTX.html)
 - [Blood pressure should be measured lying down: study](https://newsroom.heart.org/news/high-blood-pressure-while-lying-down-linked-to-higher-risk-of-heart-health-complications)
 <!-- BLOG-POST-LIST:END -->
