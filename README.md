@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Domain Registrars Which Developers Recommend](https://blog.pragmaticengineer.com/domain-registrars-which-developers-recommend/)
+- [X sues Calif. to avoid revealing how it makes “controversial” content decisions](https://arstechnica.com/tech-policy/2023/09/x-sues-calif-to-avoid-revealing-how-it-makes-controversial-content-decisions/)
+- [Nvidia’s AI supremacy is only temporary](https://petewarden.com/2023/09/10/why-nvidias-ai-supremacy-is-only-temporary/)
+- [Big Tobacco’s Legacy: Pushing Hyperpalatable Foods in America](https://neurosciencenews.com/hyperpalatable-foods-big-tobacco-23906/)
 - [9/11 in Realtime](https://911realtime.org:443/)
-- [Linux 6.6 Enables Tracking Per-CPU Cgroup CPU Usage Stats](https://www.phoronix.com/news/Linux-6.6-cgroup)
-- [Unix Domain Sockets vs Loopback TCP Sockets &lpar;2014&rpar;](https://nicisdigital.wordpress.com/2014/03/03/unix-domain-sockets-vs-loopback-tcp-sockets/)
-- [Intuituvely Understanding Harris Corner Detector](https://comsci.blog/posts/intuitive-harris)
-- [Graphics card generation is over and it was mostly trash](https://www.techradar.com/computing/gpu/this-graphics-card-generation-is-over-and-it-was-mostly-trash)
 <!-- BLOG-POST-LIST:END -->
 
 ---
