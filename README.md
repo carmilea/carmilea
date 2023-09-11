@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta deletes Al Jazeera presenter’s profile after show criticising Israel](https://www.aljazeera.com/news/2023/9/10/meta-deletes-al-jazeera-presenters-profile-after-show-criticising-israel)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 engineer to build AI for testing](https://news.ycombinator.com/item?id=37463864)
 - [A group of open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com)
 - [GitHub education pack requesting real name on public profile](https://github.com/orgs/community/discussions/57851)
 - [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
-- [How could the early Unix OS comprise so few lines of code?](https://retrocomputing.stackexchange.com/questions/26083/how-could-early-unix-os-comprise-so-few-lines-of-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
