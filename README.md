@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 engineer to build AI for testing](https://news.ycombinator.com/item?id=37463864)
+- [Gen Z is giving up on college](https://www.businessinsider.nl/gen-z-is-giving-up-on-college/)
+- [A group of open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com)
+- [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
 - [A Student-Debt Bubble Fueled a Housing Bubble](https://www.wsj.com/articles/the-student-debt-bubble-fueled-a-housing-bubble-debt-income-obama-fannie-freddie-bd29b05c)
-- [Japan launches rocket carrying lunar lander and X-ray telescope](https://phys.org/news/2023-09-japan-rocket-lunar-lander-x-ray.html)
-- [Pure WASM Life 2: Optimizing WebAssembly and Canvas](https://ashen.earth/wasm-game-of-life-2)
-- [Chronic fatigue syndrome may have a post-viral infection origin](https://medicalxpress.com/news/2023-09-chronic-fatigue-syndrome-post-viral-infection.html)
-- [RestGPT](https://github.com/Yifan-Song793/RestGPT)
 <!-- BLOG-POST-LIST:END -->
 
 ---
