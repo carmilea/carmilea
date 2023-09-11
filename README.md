@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta deletes Al Jazeera presenter’s profile after show criticising Israel](https://www.aljazeera.com/news/2023/9/10/meta-deletes-al-jazeera-presenters-profile-after-show-criticising-israel)
+- [Personalization in ECommerce: 5 Instant Ways to Boost Customer Engagement](https://golpolikhi.com/personalization-in-ecommerce-5-instant-ways-to-boost-customer-engagement/)
+- [Google Chrome just rolled out a new way to track you and serve ads](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 engineer to build AI for testing](https://news.ycombinator.com/item?id=37463864)
 - [A group of open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com)
 - [GitHub education pack requesting real name on public profile](https://github.com/orgs/community/discussions/57851)
-- [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
