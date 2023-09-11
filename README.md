@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Domain Registrars Which Developers Recommend](https://blog.pragmaticengineer.com/domain-registrars-which-developers-recommend/)
-- [X sues Calif. to avoid revealing how it makes “controversial” content decisions](https://arstechnica.com/tech-policy/2023/09/x-sues-calif-to-avoid-revealing-how-it-makes-controversial-content-decisions/)
-- [Nvidia’s AI supremacy is only temporary](https://petewarden.com/2023/09/10/why-nvidias-ai-supremacy-is-only-temporary/)
-- [Big Tobacco’s Legacy: Pushing Hyperpalatable Foods in America](https://neurosciencenews.com/hyperpalatable-foods-big-tobacco-23906/)
-- [9/11 in Realtime](https://911realtime.org:443/)
+- [Show HN: Firefox addon to quarantine a tab to use offline with private data](https://news.ycombinator.com/item?id=37469321)
+- [US rejects AI copyright for famous state fair-winning Midjourney art](https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/)
+- [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
+- [MAC Address Vendor Lookup](https://maclookup.app/home2)
+- [Webb Discovers Methane, Carbon Dioxide in Atmosphere of K2-18B](https://www.nasa.gov/goddard/2023/webb-discovers-methane-carbon-dioxide-in-atmosphere-of-k2-18b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
