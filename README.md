@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You Need to Know What You Are Betting On](https://every.to/napkin-math/you-need-to-know-what-you-are-betting-on)
-- [Show HN: Free High-quality TailwindCSS Components. No attribution required](https://tailspark.co/)
-- [Removing Garbage Collection from the Rust Language &lpar;2013&rpar;](http://pcwalton.github.io/_posts/2013-06-02-removing-garbage-collection-from-the-rust-language.html)
-- [The Top Programming Languages 2023](https://spectrum.ieee.org/the-top-programming-languages-2023)
-- [Celebrate 30 years of The X-Files with our 30 favorite episodes](https://arstechnica.com/culture/2023/09/the-truth-is-out-there-celebrate-30-years-of-the-x-files-with-our-30-favorite-episodes/)
+- [Intuituvely Understanding Harris Corner Detector](https://comsci.blog/posts/intuitive-harris)
+- [Graphics card generation is over and it was mostly trash](https://www.techradar.com/computing/gpu/this-graphics-card-generation-is-over-and-it-was-mostly-trash)
+- [A LLM+OLAP Solution](https://doris.apache.org/zh-CN/blog/Tencent-LLM/)
+- [Retirement: How Fucked Are You?](https://how-f-cked-are-you-98ab6cdc8944.herokuapp.com/)
+- [Networking for Introverts: A How-To Guide](https://www.economist.com/business/2023/09/07/networking-for-introverts-a-how-to-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
