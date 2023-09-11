@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Upcoming LK-99 paper will reportedly verify the superconductor](https://technology.inquirer.net/127825/lk-99-paper)
+- [A Student-Debt Bubble Fueled a Housing Bubble](https://www.wsj.com/articles/the-student-debt-bubble-fueled-a-housing-bubble-debt-income-obama-fannie-freddie-bd29b05c)
 - [Japan launches rocket carrying lunar lander and X-ray telescope](https://phys.org/news/2023-09-japan-rocket-lunar-lander-x-ray.html)
 - [Pure WASM Life 2: Optimizing WebAssembly and Canvas](https://ashen.earth/wasm-game-of-life-2)
 - [Chronic fatigue syndrome may have a post-viral infection origin](https://medicalxpress.com/news/2023-09-chronic-fatigue-syndrome-post-viral-infection.html)
