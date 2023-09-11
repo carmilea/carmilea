@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 engineer to build AI for testing](https://news.ycombinator.com/item?id=37463864)
-- [Gen Z is giving up on college](https://www.businessinsider.nl/gen-z-is-giving-up-on-college/)
 - [A group of open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com)
+- [GitHub education pack requesting real name on public profile](https://github.com/orgs/community/discussions/57851)
 - [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
-- [A Student-Debt Bubble Fueled a Housing Bubble](https://www.wsj.com/articles/the-student-debt-bubble-fueled-a-housing-bubble-debt-income-obama-fannie-freddie-bd29b05c)
+- [How could the early Unix OS comprise so few lines of code?](https://retrocomputing.stackexchange.com/questions/26083/how-could-early-unix-os-comprise-so-few-lines-of-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
