@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You Don&#39;t Need UUID](https://henvic.dev/posts/uuid/)
-- [The Meeting of the Minds That Launched AI](https://spectrum.ieee.org/dartmouth-ai-workshop)
-- [Show HN: Firefox addon to quarantine a tab to use offline with private data](https://news.ycombinator.com/item?id=37469321)
-- [MAC Address Vendor Lookup](https://maclookup.app/home2)
-- [Webb Discovers Methane, Carbon Dioxide in Atmosphere of K2-18B](https://www.nasa.gov/goddard/2023/webb-discovers-methane-carbon-dioxide-in-atmosphere-of-k2-18b/)
+- [Justice Department Sues Google for Monopolizing Digital Advertising Technologies](https://www.justice.gov/opa/pr/justice-department-sues-google-monopolizing-digital-advertising-technologies)
+- [In Germany, 27 are in &#39;preventive detention&#39; b/c they might do climate protests](https://mastodon.energy/@Sustainable2050/111039159882536261)
+- [Germany Will Force 80% of Gas Stations to Install EV Charging, Too](https://www.thedrive.com/news/germany-will-force-80-percent-of-gas-stations-to-install-ev-charging)
+- [Ask HN: Why did Visual Basic die?](https://news.ycombinator.com/item?id=37470318)
+- [Calculate the difference and intersection of any two regexes](http://phylactery.org/antimirov/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
