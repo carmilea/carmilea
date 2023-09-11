@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Need to Know What You Are Betting On](https://every.to/napkin-math/you-need-to-know-what-you-are-betting-on)
+- [Show HN: Free High-quality TailwindCSS Components. No attribution required](https://tailspark.co/)
 - [Removing Garbage Collection from the Rust Language &lpar;2013&rpar;](http://pcwalton.github.io/_posts/2013-06-02-removing-garbage-collection-from-the-rust-language.html)
-- [1973 Chilean Coup D&#39;état](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat)
-- [Google Chrome just rolled out a new way to track you and serve ads](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
-- [The End of Cheap Europe Flights? France Proposes EU-Wide Minimum Price](https://www.forbes.com/sites/alexledsom/2023/09/07/the-end-of-cheap-europe-flights-france-proposes-eu-wide-minimum-price/)
-- [Spain’s Lessons for American Decline](https://compactmag.com/article/spain-s-lessons-for-american-decline)
+- [The Top Programming Languages 2023](https://spectrum.ieee.org/the-top-programming-languages-2023)
+- [Celebrate 30 years of The X-Files with our 30 favorite episodes](https://arstechnica.com/culture/2023/09/the-truth-is-out-there-celebrate-30-years-of-the-x-files-with-our-30-favorite-episodes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
