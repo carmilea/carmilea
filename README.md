@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Corporate Capture in California](https://prospect.org/infrastructure/transportation/2023-09-11-corporate-capture-california-waymo-robotaxies/)
 - [Onboarding Floating-Point](https://www.altdevarts.com/p/onboarding-floating-point)
-- [YouTube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
 - [Microsoft to kill off third-party printer drivers in Windows](https://www.theregister.com/2023/09/11/go_native_or_go_home/)
 - [Advanced x86: Virtualization with  Intel VT-x](https://opensecuritytraining.info/AdvancedX86-VTX.html)
 - [Blood pressure should be measured lying down: study](https://newsroom.heart.org/news/high-blood-pressure-while-lying-down-linked-to-higher-risk-of-heart-health-complications)
