@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Valley&#39;s quest to live forever now includes $2,500 full-body MRIs](https://www.washingtonpost.com/technology/2023/09/10/full-body-mri-cancer-prenuvo/)
+- [Pure WASM Life 2: Optimizing WebAssembly and Canvas](https://ashen.earth/wasm-game-of-life-2)
 - [RestGPT](https://github.com/Yifan-Song793/RestGPT)
 - [A more dynamic software I/O TLB](https://lwn.net/Articles/940973/)
 - [Microsoft has not stopped forcing Edge on Windows 11 users](https://www.ctrl.blog/entry/windows-system-components-default-edge.html)
-- [To make dishwashers great again? &lpar;2020&rpar;](https://www.greenbuildinglawupdate.com/2020/11/articles/environmental/to-make-dishwashers-great-again/)
-- [Superbatteries will transform the performance of EVs](https://www.economist.com/science-and-technology/2023/08/23/superbatteries-will-transform-the-performance-of-evs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
