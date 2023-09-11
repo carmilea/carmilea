@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Justice Department Sues Google for Monopolizing Digital Advertising Technologies](https://www.justice.gov/opa/pr/justice-department-sues-google-monopolizing-digital-advertising-technologies)
-- [In Germany, 27 are in &#39;preventive detention&#39; b/c they might do climate protests](https://mastodon.energy/@Sustainable2050/111039159882536261)
-- [Germany Will Force 80% of Gas Stations to Install EV Charging, Too](https://www.thedrive.com/news/germany-will-force-80-percent-of-gas-stations-to-install-ev-charging)
+- [Blood pressure should be measured lying down: study](https://newsroom.heart.org/news/high-blood-pressure-while-lying-down-linked-to-higher-risk-of-heart-health-complications)
+- [MGM is down, cybersecurity attack ongoing](https://www.casino.org/news/mgm-resorts-suffers-cybersecurity-attack-system-outage-reported/)
 - [Ask HN: Why did Visual Basic die?](https://news.ycombinator.com/item?id=37470318)
 - [Calculate the difference and intersection of any two regexes](http://phylactery.org/antimirov/)
+- [A Multi-Level View of LLM Intentionality](http://disagreeableme.blogspot.com/2023/05/a-multi-level-view-of-llm-intentionality.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
