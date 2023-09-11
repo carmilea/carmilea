@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Silicon Valley&#39;s quest to live forever now includes $2,500 full-body MRIs](https://www.washingtonpost.com/technology/2023/09/10/full-body-mri-cancer-prenuvo/)
+- [Upcoming LK-99 paper will reportedly verify the superconductor](https://technology.inquirer.net/127825/lk-99-paper)
+- [Japan launches rocket carrying lunar lander and X-ray telescope](https://phys.org/news/2023-09-japan-rocket-lunar-lander-x-ray.html)
 - [Pure WASM Life 2: Optimizing WebAssembly and Canvas](https://ashen.earth/wasm-game-of-life-2)
+- [Chronic fatigue syndrome may have a post-viral infection origin](https://medicalxpress.com/news/2023-09-chronic-fatigue-syndrome-post-viral-infection.html)
 - [RestGPT](https://github.com/Yifan-Song793/RestGPT)
-- [A more dynamic software I/O TLB](https://lwn.net/Articles/940973/)
-- [Microsoft has not stopped forcing Edge on Windows 11 users](https://www.ctrl.blog/entry/windows-system-components-default-edge.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
