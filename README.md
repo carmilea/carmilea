@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Personalization in ECommerce: 5 Instant Ways to Boost Customer Engagement](https://golpolikhi.com/personalization-in-ecommerce-5-instant-ways-to-boost-customer-engagement/)
+- [Removing Garbage Collection from the Rust Language &lpar;2013&rpar;](http://pcwalton.github.io/_posts/2013-06-02-removing-garbage-collection-from-the-rust-language.html)
+- [1973 Chilean Coup D&#39;état](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat)
 - [Google Chrome just rolled out a new way to track you and serve ads](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 engineer to build AI for testing](https://news.ycombinator.com/item?id=37463864)
-- [A group of open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com)
-- [GitHub education pack requesting real name on public profile](https://github.com/orgs/community/discussions/57851)
+- [The End of Cheap Europe Flights? France Proposes EU-Wide Minimum Price](https://www.forbes.com/sites/alexledsom/2023/09/07/the-end-of-cheap-europe-flights-france-proposes-eu-wide-minimum-price/)
+- [Spain’s Lessons for American Decline](https://compactmag.com/article/spain-s-lessons-for-american-decline)
 <!-- BLOG-POST-LIST:END -->
 
 ---
