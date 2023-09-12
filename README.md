@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iPhone 15’s shift to USB-C has hidden potential to streamline computing](https://techcrunch.com/2023/09/11/iphone-15-desktop-mode/)
-- [Why isn’t dotnet core popular among startups?](https://old.reddit.com/r/dotnet/login/)
-- [Physicists Create Elusive Particles That Remember Their Pasts](https://www.quantamagazine.org/physicists-create-elusive-particles-that-remember-their-pasts-20230509/)
-- [TikTok Shop](https://newsroom.tiktok.com/en-us/introducing-tiktok-shop)
-- [Google&#39;s antitrust trial is set to begin today](https://www.wsj.com/tech/google-antitrust-trial-doj-search-91d32f8f)
+- [Unity plan pricing and packaging updates](https://blog.unity.com/news/plan-pricing-and-packaging-updates)
+- [The Relativity of Wrong by Isaac Asimov](https://hermiene.net/essays-trans/relativity_of_wrong.html)
+- [My time with Rails is up &lpar;2016&rpar;](https://solnic.codes/2016/05/22/my-time-with-rails-is-up/)
+- [How large that number in the Law of Large Numbers is?](https://thepalindrome.org/p/how-large-that-number-in-the-law)
+- [Sony develops energy harvesting module from electromagnetic wave noise](https://www.sony-semicon.com/en/news/2023/2023090701.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
