@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
+- [iPhone 15 and iPhone 15 Plus](https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/)
+- [Apple iPhone 15 Pro and iPhone 15 Pro Max](https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/)
 - [Mystery ‘blue lights’ flash in sky moments before Morocco earthquake](https://www.thesun.co.uk/news/23911027/mystery-blue-lights-morocco-earthquake/)
 - [Covid patients breathe out large amounts of virus early on](https://news.northwestern.edu/stories/2023/09/covid-patients-exhale-up-to-1000-copies-of-virus-per-minute-during-first-eight-days-of-symptoms/)
-- [Finley &lpar;YC W21&rpar; Is Hiring for Customer Success Managers in Software &lpar;US Remote&rpar;](https://jobs.lever.co/FinleyTechnologies/0a143938-ef2a-47f3-a4c0-861ac68fb1b0)
-- [Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135)
-- [Blood Transfusion and Brain Amyloidosis](https://jamanetwork.com/journals/jama/article-abstract/2809443)
 <!-- BLOG-POST-LIST:END -->
 
 ---
