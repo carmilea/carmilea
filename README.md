@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [For the First Time in Years, I’m Excited by My Computer Purchase](https://changelog.complete.org/archives/10564-for-the-first-time-in-years-im-excited-by-my-computer-purchase)
+- [Truist plans &#39;sizable&#39; job cuts to save $300M in costs](https://finance.yahoo.com/news/1-truist-financial-plans-sizable-113626353.html)
+- [Don&#39;t &quot;Find&quot; Your Niche, &quot;Develop&quot; It](https://www.scottscheper.com/niche-dev)
 - [Padlet &lpar;YC W13&rpar; is hiring in Singapore and San Francisco](https://padlet.jobs)
 - [Have I Been Pwned? [video]](https://www.youtube.com/watch?v=pxPEdUFdayA)
 - [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
-- [Neopets is still around](https://www.dualshockers.com/neopets-is-still-active-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
