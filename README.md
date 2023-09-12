@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Truist plans &#39;sizable&#39; job cuts to save $300M in costs](https://finance.yahoo.com/news/1-truist-financial-plans-sizable-113626353.html)
-- [Don&#39;t &quot;Find&quot; Your Niche, &quot;Develop&quot; It](https://www.scottscheper.com/niche-dev)
+- [Why isn&#39;t dotnet core popular among startups?](https://old.reddit.com/r/dotnet/comments/16fu7o0/why_isnt_dotnet_core_popular_among_startups/)
+- [Eastern Libya authorities say 2k dead in flood, thousands missing](https://www.reuters.com/world/africa/powerful-storm-rolls-through-eastern-libya-killing-least-three-2023-09-11/)
+- [Hacking the Book8088 for better accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
 - [Padlet &lpar;YC W13&rpar; is hiring in Singapore and San Francisco](https://padlet.jobs)
-- [Have I Been Pwned? [video]](https://www.youtube.com/watch?v=pxPEdUFdayA)
-- [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
+- [How I CEO: On taking advice as a leader](https://mercury.com/blog/inside-mercury/how-i-ceo-taking-advice-as-leader)
 <!-- BLOG-POST-LIST:END -->
 
 ---
