@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Electric Cooling Could Shrink Quantum Computers](https://spectrum.ieee.org/cryogenics)
-- [Apple’s first ‘carbon neutral’ products are a red herring](https://www.theverge.com/23870317/apples-watch-series-9-carbon-neutral-climate-goal)
-- [PeerReview4All: Fair and Accurate Reviewer Assignment in Peer Review](https://arxiv.org/abs/1806.06237)
-- [The Death of Unity](https://www.gamedeveloper.com/business/the-death-of-unity)
+- [Justpaid.io &lpar;YC W23&rpar; Is Hiring for a Senior Full Stack Engineer](https://www.justpaid.io/careers)
+- [Electric cooling could shrink quantum computers](https://spectrum.ieee.org/cryogenics)
+- [The way that Jensen Huang runs Nvidia is wild: 40 direct reports, no 1:1s](https://twitter.com/danhockenmaier/status/1701608618087571787)
+- [PeerReview4All: Fair and accurate reviewer assignment in peer review](https://arxiv.org/abs/1806.06237)
 - [A small Universe](https://arxiv.org/abs/2309.03272)
 <!-- BLOG-POST-LIST:END -->
 
