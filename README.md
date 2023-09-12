@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New York City Is About to Screw Up Congestion Pricing](https://www.vice.com/en/article/dy343y/new-york-city-is-about-to-screw-up-congestion-pricing)
-- [Padlet &lpar;YC W13&rpar; Is Hiring in Singapore and San Francisco](https://padlet.jobs)
-- [A boy saw 17 doctors over 3 years for pain. ChatGPT found the right diagnosis](https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843)
-- [Hot Chips 2023: Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
-- [Deno vs. Bun vs. Node.js: A feature comparison](https://dev.hexagon.56k.guru/posts/deno-vs-bun-vs-node/)
+- [For the First Time in Years, I’m Excited by My Computer Purchase](https://changelog.complete.org/archives/10564-for-the-first-time-in-years-im-excited-by-my-computer-purchase)
+- [Padlet &lpar;YC W13&rpar; is hiring in Singapore and San Francisco](https://padlet.jobs)
+- [Have I Been Pwned? [video]](https://www.youtube.com/watch?v=pxPEdUFdayA)
+- [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
+- [Neopets is still around](https://www.dualshockers.com/neopets-is-still-active-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
