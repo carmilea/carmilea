@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I2c-USB-hub: An i2C Controllable USB 2.0 Hub](https://github.com/JimHeaney/i2c-usb-hub)
+- [Death by a Thousand Microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html)
 - [Hacking the Book8088 for better accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
 - [Padlet &lpar;YC W13&rpar; is hiring in Singapore and San Francisco](https://padlet.jobs)
 - [Have I Been Pwned? [video]](https://www.youtube.com/watch?v=pxPEdUFdayA)
-- [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
-- [Neopets is still around](https://www.dualshockers.com/neopets-is-still-active-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
