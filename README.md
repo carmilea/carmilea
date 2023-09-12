@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reasons to not use your own domain for email](https://www.bautista.dev/reasons-to-not-use-your-own-domain-for-email)
+- [What’s the Smallest Variety of CHERI? &lpar;2022&rpar;](https://msrc.microsoft.com/blog/2022/09/whats-the-smallest-variety-of-cheri/)
+- [Open source P2P alternative to Slack and Discord built on Tor and IPFS](https://github.com/TryQuiet/quiet)
 - [I2c-USB-hub: An i2C Controllable USB 2.0 Hub](https://github.com/JimHeaney/i2c-usb-hub)
-- [Death by a Thousand Microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html)
-- [Hacking the Book8088 for better accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
-- [Padlet &lpar;YC W13&rpar; is hiring in Singapore and San Francisco](https://padlet.jobs)
-- [Have I Been Pwned? [video]](https://www.youtube.com/watch?v=pxPEdUFdayA)
+- [Ask HN: How is Rust used in the Linux kernel today?](https://news.ycombinator.com/item?id=37477205)
 <!-- BLOG-POST-LIST:END -->
 
 ---
