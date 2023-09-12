@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Phoenix 1.7 for Elixir: Edit a Form in a Modal](https://blog.appsignal.com/2023/09/12/phoenix-1-7-for-elixir-edit-a-form-in-a-modal.html)
-- [CVE-2023-4863: Heap buffer overflow in WebP &lpar;Chrome&rpar;](https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html)
-- [NASA says distant exoplanet could have rare water ocean, possible hint of life](https://www.theguardian.com/science/2023/sep/11/nasa-planet-ocean-life-james-webb-telescope)
-- [Why Are Black Currants Banned in the USA](https://foodtolive.com/healthy-blog/black-currants-banned-usa/)
-- [Reasons to not use your own domain for email](https://www.bautista.dev/reasons-to-not-use-your-own-domain-for-email)
+- [Ask HN: Has anyone here learned COBOL for fun? How did it go?](https://news.ycombinator.com/item?id=37479933)
+- [Vitalik Buterin reveals X account hack was caused by SIM-swap attack](https://cointelegraph.com/news/vitalik-buterin-reveals-x-account-hack-was-caused-by-sim-swap-attack)
+- [Treble.ai &lpar;YC S19&rpar; Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
+- [Steam turns 20 today: “We had to try a lot of different things over the years”](https://www.rockpapershotgun.com/steam-turns-20-today-weve-had-to-try-a-lot-of-different-things-over-the-years)
+- [Dutch groups sue Google over alleged privacy violations](https://www.reuters.com/technology/dutch-groups-sue-google-over-alleged-privacy-violations-2023-09-12/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
