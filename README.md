@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Greatest Films of All Time](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
 - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
-- [Justpaid.io &lpar;YC W23&rpar; is hiring a senior full stack engineer](https://www.justpaid.io/careers)
+- [JustPaid.io &lpar;YC W23&rpar; is hiring a senior full stack engineer](https://www.justpaid.io/careers)
+- [Gmail and Instagram are training AI, and there’s little you can do about it](https://www.washingtonpost.com/technology/2023/09/08/gmail-instagram-facebook-trains-ai/)
 - [Electric cooling could shrink quantum computers](https://spectrum.ieee.org/cryogenics)
-- [Free Download Manager backdoored – a possible supply chain attack on Linux](https://securelist.com/backdoored-free-download-manager-linux-malware/110465/)
-- [The way that Jensen Huang runs Nvidia: 40 direct reports, no 1:1s](https://twitter.com/danhockenmaier/status/1701608618087571787)
 <!-- BLOG-POST-LIST:END -->
 
 ---
