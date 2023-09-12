@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We built the fastest CI in the world and it failed](https://earthly.dev/blog/shutting-down-earthly-ci/)
+- [How to run a competitive AI startup fundraise in 2023](https://context.ai/post/how-to-run-a-competitive-ai-startup-fundraise-in-2023)
 - [Unity plan pricing and packaging updates](https://blog.unity.com/news/plan-pricing-and-packaging-updates)
-- [The Relativity of Wrong by Isaac Asimov](https://hermiene.net/essays-trans/relativity_of_wrong.html)
-- [My time with Rails is up &lpar;2016&rpar;](https://solnic.codes/2016/05/22/my-time-with-rails-is-up/)
-- [How large that number in the Law of Large Numbers is?](https://thepalindrome.org/p/how-large-that-number-in-the-law)
-- [Sony develops energy harvesting module from electromagnetic wave noise](https://www.sony-semicon.com/en/news/2023/2023090701.html)
+- [The Relativity of Wrong &lpar;1989&rpar;](https://hermiene.net/essays-trans/relativity_of_wrong.html)
+- [Intel Introduces Thunderbolt 5 Connectivity Standard](https://www.intel.com/content/www/us/en/newsroom/news/intel-introduces-thunderbolt-5-standard.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
