@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Has anyone here learned COBOL for fun? How did it go?](https://news.ycombinator.com/item?id=37479933)
-- [Vitalik Buterin reveals X account hack was caused by SIM-swap attack](https://cointelegraph.com/news/vitalik-buterin-reveals-x-account-hack-was-caused-by-sim-swap-attack)
-- [Treble.ai &lpar;YC S19&rpar; Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
-- [Steam turns 20 today: “We had to try a lot of different things over the years”](https://www.rockpapershotgun.com/steam-turns-20-today-weve-had-to-try-a-lot-of-different-things-over-the-years)
-- [Dutch groups sue Google over alleged privacy violations](https://www.reuters.com/technology/dutch-groups-sue-google-over-alleged-privacy-violations-2023-09-12/)
+- [iPhone 15’s shift to USB-C has hidden potential to streamline computing](https://techcrunch.com/2023/09/11/iphone-15-desktop-mode/)
+- [Why isn’t dotnet core popular among startups?](https://old.reddit.com/r/dotnet/login/)
+- [Physicists Create Elusive Particles That Remember Their Pasts](https://www.quantamagazine.org/physicists-create-elusive-particles-that-remember-their-pasts-20230509/)
+- [TikTok Shop](https://newsroom.tiktok.com/en-us/introducing-tiktok-shop)
+- [Google&#39;s antitrust trial is set to begin today](https://www.wsj.com/tech/google-antitrust-trial-doj-search-91d32f8f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
