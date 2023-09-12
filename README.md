@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finley &lpar;YC W21&rpar; Is Hiring for Customer Success Managers in Software &lpar;US Remote&rpar;](https://jobs.lever.co/FinleyTechnologies/0a143938-ef2a-47f3-a4c0-861ac68fb1b0)
+- [Obsidian 1.4.10 Desktop &lpar;Public&rpar;](https://obsidian.md/changelog/2023-09-11-desktop-v1.4.10/)
 - [Blood Transfusion and Brain Amyloidosis](https://jamanetwork.com/journals/jama/article-abstract/2809443)
+- [Oxford study proves heat pumps triumph over fossil fuels in the cold](https://www.nationalobserver.com/2023/09/11/news/oxford-study-proves-heat-pumps-triumph-over-fossil-fuels-cold)
 - [New world record with an electric racing car: From 0 to 100 in 0.956 seconds](https://ethz.ch/en/news-and-events/eth-news/news/2023/09/from-zero-to-one-hundred-in-0-956-seconds.html)
-- [Specter of AI-Generated &#39;Leaked Songs&#39; Is Tearing the Harry Styles Fandom Apart](https://www.404media.co/harry-styles-one-direction-ai-leaked-songs/)
-- [Building a Blog in Django](https://til.simonwillison.net/django/building-a-blog-in-django)
-- [Super-Earths in Need for Extremly Big Rockets &lpar;2018&rpar;](https://arxiv.org/abs/1803.11384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
