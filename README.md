@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Corporate Capture in California](https://prospect.org/infrastructure/transportation/2023-09-11-corporate-capture-california-waymo-robotaxies/)
-- [Onboarding Floating-Point](https://www.altdevarts.com/p/onboarding-floating-point)
-- [Microsoft to kill off third-party printer drivers in Windows](https://www.theregister.com/2023/09/11/go_native_or_go_home/)
-- [Advanced x86: Virtualization with  Intel VT-x](https://opensecuritytraining.info/AdvancedX86-VTX.html)
-- [Blood pressure should be measured lying down: study](https://newsroom.heart.org/news/high-blood-pressure-while-lying-down-linked-to-higher-risk-of-heart-health-complications)
+- [New York City Is About to Screw Up Congestion Pricing](https://www.vice.com/en/article/dy343y/new-york-city-is-about-to-screw-up-congestion-pricing)
+- [Padlet &lpar;YC W13&rpar; Is Hiring in Singapore and San Francisco](https://padlet.jobs)
+- [A boy saw 17 doctors over 3 years for pain. ChatGPT found the right diagnosis](https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843)
+- [Hot Chips 2023: Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
+- [Deno vs. Bun vs. Node.js: A feature comparison](https://dev.hexagon.56k.guru/posts/deno-vs-bun-vs-node/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
