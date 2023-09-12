@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How to Build a ChatGPT App Using JSON Data](https://www.youtube.com/watch?v=q_JU0Aqo_Vs)
 - [How to Build an OpenAI LLM on a Private Network with AWS](https://www.youtube.com/watch?v=6LGGQERxrQo)
 - [How to Build a Sentiment Analysis App with Hugging Face](https://www.youtube.com/watch?v=58N0QfDSdhY)
 - [How to Build a NoCode LLM App with Flowise AI](https://www.youtube.com/watch?v=E4zzrBhmcuk)
 - [Building a Financial Analytics App Using OpenAI &amp; Langchain](https://www.youtube.com/watch?v=N7kSXyB4q8E)
-- [How to Build a Llama 2 Fully Private GenAI App](https://www.youtube.com/watch?v=F3aqTtwoj9Q)
 <!-- YOUTUBE:END -->
 
 
