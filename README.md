@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2023-4863: Heap buffer overflow in WebP &lpar;Chrome&rpar;](https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html)
 - [Electric vehicle battery causes fire at Sydney Airport, destroys five cars](https://www.abc.net.au/news/2023-09-12/sydney-airport-lithium-ion-battery-causes-fire/102846146)
 - [NASA says distant exoplanet could have rare water ocean, possible hint of life](https://www.theguardian.com/science/2023/sep/11/nasa-planet-ocean-life-james-webb-telescope)
 - [Reasons to not use your own domain for email](https://www.bautista.dev/reasons-to-not-use-your-own-domain-for-email)
 - [What’s the Smallest Variety of CHERI? &lpar;2022&rpar;](https://msrc.microsoft.com/blog/2022/09/whats-the-smallest-variety-of-cheri/)
-- [Open source P2P alternative to Slack and Discord built on Tor and IPFS](https://github.com/TryQuiet/quiet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
