@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mystery ‘blue lights’ flash in sky moments before Morocco earthquake](https://www.thesun.co.uk/news/23911027/mystery-blue-lights-morocco-earthquake/)
+- [Covid patients breathe out large amounts of virus early on](https://news.northwestern.edu/stories/2023/09/covid-patients-exhale-up-to-1000-copies-of-virus-per-minute-during-first-eight-days-of-symptoms/)
 - [Finley &lpar;YC W21&rpar; Is Hiring for Customer Success Managers in Software &lpar;US Remote&rpar;](https://jobs.lever.co/FinleyTechnologies/0a143938-ef2a-47f3-a4c0-861ac68fb1b0)
-- [Obsidian 1.4.10 Desktop &lpar;Public&rpar;](https://obsidian.md/changelog/2023-09-11-desktop-v1.4.10/)
+- [Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135)
 - [Blood Transfusion and Brain Amyloidosis](https://jamanetwork.com/journals/jama/article-abstract/2809443)
-- [Oxford study proves heat pumps triumph over fossil fuels in the cold](https://www.nationalobserver.com/2023/09/11/news/oxford-study-proves-heat-pumps-triumph-over-fossil-fuels-cold)
-- [New world record with an electric racing car: From 0 to 100 in 0.956 seconds](https://ethz.ch/en/news-and-events/eth-news/news/2023/09/from-zero-to-one-hundred-in-0-956-seconds.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
