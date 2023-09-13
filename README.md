@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deforestation in the Amazon rainforest continues to plunge](https://news.mongabay.com/2023/09/deforestation-in-the-amazon-rainforest-continues-to-plunge/)
+- [Patrick Collison on solar](https://patrickcollison.com/solar)
+- [Hutter Prize for compressing human knowledge](http://prize.hutter1.net/)
+- [Deforestation in the Amazon rainforest continues to decline](https://news.mongabay.com/2023/09/deforestation-in-the-amazon-rainforest-continues-to-plunge/)
 - [Don’t mess with a genius &lpar;2010&rpar;](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
 - [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
-- [When MFA isn&#39;t MFA, or how we got phished](https://retool.com/blog/mfa-isnt-mfa/)
-- [Show HN: Kr8s – a Python client library for Kubernetes](https://github.com/kr8s-org/kr8s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
