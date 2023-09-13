@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [S32 Unix Clock](https://www.da.vidbuchanan.co.uk/blog/unix-clock.html)
 - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 - [Madlad-400: A Multilingual and Document-Level Large Audited Dataset](https://github.com/google-research/google-research/tree/master/madlad_400)
 - [Lessons from YC AI Startups](https://www.ignorance.ai/p/5-lessons-from-139-yc-ai-startups)
 - [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/)
-- [How long it took different companies to find product-market fit](https://www.lennysnewsletter.com/p/finding-product-market-fit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
