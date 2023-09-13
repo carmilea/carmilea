@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stable Audio: Fast Timing-Conditioned Latent Audio Diffusion](https://stability.ai/research/stable-audio-efficient-timing-latent-diffusion)
 - [LÖVE: a framework to make 2D games in Lua](https://love2d.org/)
 - [Openmoji](https://github.com/hfg-gmuend/openmoji)
+- [What Is Wrong with TOML?](https://hitchdev.com/strictyaml/why-not/toml/)
 - [Google has been rolling out Chrome&#39;s “Enhanced Ad Privacy” via a popup](https://twitter.com/glenngabe/status/1699389973361738146)
-- [Amazon&#39;s Union-Busting Training Video](https://www.youtube.com/watch?v=AQeGBHxIyHw)
-- [A CD Spectrometer](https://www.cs.cmu.edu/~zhuxj/astro/html/spectrometer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
