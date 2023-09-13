@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SigNoz – Open-source alternative to Datadog is hiring product designers &lpar;remote&rpar;](https://signoz.io/careers/product-designer-in/)
+- [SpaceX no longer taking losses to produce Starlink satellite antennas](https://www.cnbc.com/2023/09/13/spacex-no-longer-taking-losses-to-produce-starlink-satellite-antennas.html)
+- [Why the Eddie Murphy Rule Is About More Than Orange Juice &lpar;2019&rpar;](https://econlife.com/2019/12/the-eddie-murphy-rule/)
 - [Transcoding Unicode strings at crazy speeds with AVX-512](https://lemire.me/blog/2023/09/13/transcoding-unicode-strings-at-crazy-speeds-with-avx-512/)
-- [MUNI Bus Killed San Francisco Man at Center of Robotaxi, Firefighter Dispute](https://sfstandard.com/2023/09/12/muni-bus-killed-san-francisco-man-at-center-of-robotaxi-firefighter-dispute/)
-- [A $500 DIY near-IR spectrometer that would sell for $10k](https://caoyuan.scripts.mit.edu/ir_spec.html)
-- [Bitty Engine: A tiny powerful game engine](https://paladin-t.github.io/bitty/)
-- [OpenBSD Webzine #14](https://webzine.puffy.cafe/issue-14.html)
+- [Appeals Court Upholds Public.Resource.Org’s Right to Post Public Laws Online](https://www.eff.org/press/releases/appeals-court-upholds-publicresourceorgs-right-post-public-laws-and-regulations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
