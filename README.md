@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trigger.dev &lpar;YC W23&rpar; Is Hiring a Senior Full Stack Engineer](https://trigger.dev/hiring)
+- [Here ends the story of 10K Riders Publishing](https://tumenko.com/)
+- [TSMC Arizona chip plant will be a paperweight](https://9to5mac.com/2023/09/11/tsmc-arizona-chip-plant/)
+- [Show HN: Deploying subdomain-based routing like github.io](https://github.com/xieyuheng/x-server)
 - [Stable Audio: Fast Timing-Conditioned Latent Audio Diffusion](https://stability.ai/research/stable-audio-efficient-timing-latent-diffusion)
-- [LÖVE: a framework to make 2D games in Lua](https://love2d.org/)
-- [Openmoji](https://github.com/hfg-gmuend/openmoji)
-- [What Is Wrong with TOML?](https://hitchdev.com/strictyaml/why-not/toml/)
-- [Google has been rolling out Chrome&#39;s “Enhanced Ad Privacy” via a popup](https://twitter.com/glenngabe/status/1699389973361738146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
