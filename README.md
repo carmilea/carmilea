@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Kr8s a batteries-included Python client library for Kubernetes](https://github.com/kr8s-org/kr8s)
+- [Don’t Mess with a Genius](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
+- [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
+- [When MFA isn&#39;t MFA, or how we got phished](https://retool.com/blog/mfa-isnt-mfa/)
+- [Show HN: Kr8s – a Python client library for Kubernetes](https://github.com/kr8s-org/kr8s)
 - [Earth beyond six of nine planetary boundaries](https://www.science.org/doi/10.1126/sciadv.adh2458)
-- [Unity Engine to Godot Engine Exporter](https://github.com/Zylann/unity_to_godot_converter)
-- [Hackers claim it only took a 10-minute phone call to shut down MGM Resorts](https://www.engadget.com/hackers-claim-it-only-took-a-10-minute-phone-call-to-shutdown-mgm-resorts-143147493.html)
-- [Show HN: Lantern – a PostgreSQL vector database for building AI applications](https://docs.lantern.dev/blog/2023/09/13/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
