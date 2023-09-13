@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Swedish criminal gangs using fake Spotify streams to launder money](https://www.theguardian.com/technology/2023/sep/05/swedish-criminal-gangs-using-fake-spotify-streams-to-launder-money)
 - [Trigger.dev &lpar;YC W23&rpar; Is Hiring a Senior Full Stack Engineer](https://trigger.dev/hiring)
 - [Here ends the story of 10K Riders Publishing](https://tumenko.com/)
 - [TSMC Arizona chip plant will be a paperweight](https://9to5mac.com/2023/09/11/tsmc-arizona-chip-plant/)
 - [Show HN: Deploying subdomain-based routing like github.io](https://github.com/xieyuheng/x-server)
-- [Stable Audio: Fast Timing-Conditioned Latent Audio Diffusion](https://stability.ai/research/stable-audio-efficient-timing-latent-diffusion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
