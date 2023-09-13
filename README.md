@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Greatest Films of All Time](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
-- [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
-- [JustPaid.io &lpar;YC W23&rpar; is hiring a senior full stack engineer](https://www.justpaid.io/careers)
-- [Gmail and Instagram are training AI, and there’s little you can do about it](https://www.washingtonpost.com/technology/2023/09/08/gmail-instagram-facebook-trains-ai/)
-- [Electric cooling could shrink quantum computers](https://spectrum.ieee.org/cryogenics)
+- [Breaking Through Depression](https://www.theguardian.com/books/2023/sep/10/breaking-through-depression-new-treatments-discoveries-for-healing-the-balanced-brain-science-of-mental-health-philip-gold-camilla-nord-reviews)
+- [How long it took different companies to find product-market fit](https://www.lennysnewsletter.com/p/finding-product-market-fit)
+- [Fixing Penn Station](https://commonedge.org/whats-to-become-of-the-mess-that-is-penn-station/)
+- [Credit Card Debt Collection](https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/)
+- [Why not punish families? A challenge for consequentialists](https://betonit.substack.com/p/why-not-punish-families)
 <!-- BLOG-POST-LIST:END -->
 
 ---
