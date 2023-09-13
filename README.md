@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nango.dev &lpar;YC W23&rpar; is hiring a founding back end engineer &lpar;remote&rpar;](https://nango.dev/jobs)
+- [Apple finally put USB-C in new iPhone, but limited to 23-year-old USB 2.0 speeds](https://www.pcgamer.com/apple-finally-put-usb-c-in-the-new-iphone-but-its-inexplicably-limited-to-23-year-old-usb-20-speeds/)
 - [Why people care about PostGIS and Postgres](https://pathtocituscon.transistor.fm/episodes/why-people-care-about-postgis-and-postgres-with-paul-ramsey-regina-obe/transcript)
 - [Meduza co-founder&#39;s phone infected with Pegasus](https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter)
-- [Swedish criminal gangs using fake Spotify streams to launder money](https://www.theguardian.com/technology/2023/sep/05/swedish-criminal-gangs-using-fake-spotify-streams-to-launder-money)
 - [Against LLM Maximalism](https://explosion.ai/blog/against-llm-maximalism/)
-- [VoCore – Coin-sized Linux Computer. Is there a Bluetooth varient?](https://vocore.io/#store)
 <!-- BLOG-POST-LIST:END -->
 
 ---
