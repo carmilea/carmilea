@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Einstein to Habicht, 1905](https://ecologicallyoriented.wordpress.com/2014/05/24/einstein-to-habicht-1905/)
-- [Unity rushes to clarify price increase plan, as game developers fume](https://www.axios.com/2023/09/13/unity-runtime-fee-policy-marc-whitten)
-- [Lessons from 139 YC AI Startups &lpar;YC S23&rpar;](https://www.ignorance.ai/p/5-lessons-from-139-yc-ai-startups)
+- [Madlad-400: A Multilingual and Document-Level Large Audited Dataset](https://github.com/google-research/google-research/tree/master/madlad_400)
+- [Lessons from YC AI Startups](https://www.ignorance.ai/p/5-lessons-from-139-yc-ai-startups)
+- [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/)
+- [‘We put in air conditionin’, stayed year-round, and ruined America’](https://www.politico.com/news/magazine/2023/09/12/air-conditioning-government-shutdown-00114530)
 - [How long it took different companies to find product-market fit](https://www.lennysnewsletter.com/p/finding-product-market-fit)
-- [Fixing Penn Station](https://commonedge.org/whats-to-become-of-the-mess-that-is-penn-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
