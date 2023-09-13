@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why people care about PostGIS and Postgres](https://pathtocituscon.transistor.fm/episodes/why-people-care-about-postgis-and-postgres-with-paul-ramsey-regina-obe/transcript)
+- [Meduza co-founder&#39;s phone infected with Pegasus](https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter)
 - [Swedish criminal gangs using fake Spotify streams to launder money](https://www.theguardian.com/technology/2023/sep/05/swedish-criminal-gangs-using-fake-spotify-streams-to-launder-money)
-- [Trigger.dev &lpar;YC W23&rpar; Is Hiring a Senior Full Stack Engineer](https://trigger.dev/hiring)
-- [Here ends the story of 10K Riders Publishing](https://tumenko.com/)
-- [TSMC Arizona chip plant will be a paperweight](https://9to5mac.com/2023/09/11/tsmc-arizona-chip-plant/)
-- [Show HN: Deploying subdomain-based routing like github.io](https://github.com/xieyuheng/x-server)
+- [Against LLM Maximalism](https://explosion.ai/blog/against-llm-maximalism/)
+- [VoCore – Coin-sized Linux Computer. Is there a Bluetooth varient?](https://vocore.io/#store)
 <!-- BLOG-POST-LIST:END -->
 
 ---
