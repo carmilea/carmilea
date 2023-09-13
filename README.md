@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Godot Game Engine](https://godotengine.org/)
+- [Marvel Visual Effects Workers Vote to Unionize](https://www.rollingstone.com/tv-movies/tv-movie-news/marvel-visual-effects-workers-vote-unionize-1234824215/)
+- [Hackers claim it only took a 10-minute phone call to shut down MGM Resorts](https://www.engadget.com/hackers-claim-it-only-took-a-10-minute-phone-call-to-shutdown-mgm-resorts-143147493.html)
+- [Show HN: Lantern – a PostgreSQL vector database for building AI applications](https://docs.lantern.dev/blog/2023/09/13/hello-world)
+- [Phaser: A fast, fun and free open source HTML5 game framework](https://phaser.io/)
 - [The Uselessness of Phenylephrine &lpar;2022&rpar;](https://www.science.org/content/blog-post/uselessness-phenylephrine)
-- [Amazon Ion Specification](https://amazon-ion.github.io/ion-docs/docs/spec.html)
-- [PF bug in macOS Sonoma release candidate](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/)
-- [SigNoz – Open-source alternative to Datadog is hiring product designers &lpar;remote&rpar;](https://signoz.io/careers/product-designer-in/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
