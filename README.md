@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [French regulators order Apple to halt sales of the iPhone 12](https://www.france24.com/en/europe/20230912-france-orders-apple-to-halt-iphone-12-sales-due-to-high-radiation-levels)
-- [“This Is a Disaster:” Game Developers Scramble to Deal with Unity’s New Fees](https://www.404media.co/unity-new-fees-prices/)
-- [70B Llama 2 at 35tokens/second on 4090](https://github.com/turboderp/exllamav2)
-- [There are now two types of PayPal dollars, and one is better than the other](http://jpkoning.blogspot.com/2023/09/there-are-now-two-types-of-paypal.html)
-- [S32 Unix Clock](https://www.da.vidbuchanan.co.uk/blog/unix-clock.html)
+- [Openmoji](https://github.com/hfg-gmuend/openmoji)
+- [Google has been rolling out Chrome&#39;s “Enhanced Ad Privacy” via a popup](https://twitter.com/glenngabe/status/1699389973361738146)
+- [Amazon&#39;s Union-Busting Training Video](https://www.youtube.com/watch?v=AQeGBHxIyHw)
+- [A CD Spectrometer](https://www.cs.cmu.edu/~zhuxj/astro/html/spectrometer.html)
+- [Password-stealing Linux malware served for 3 years and no one noticed](https://arstechnica.com/security/2023/09/password-stealing-linux-malware-served-for-3-years-and-no-one-noticed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
