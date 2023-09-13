@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nango.dev &lpar;YC W23&rpar; is hiring a founding back end engineer &lpar;remote&rpar;](https://nango.dev/jobs)
-- [Apple finally put USB-C in new iPhone, but limited to 23-year-old USB 2.0 speeds](https://www.pcgamer.com/apple-finally-put-usb-c-in-the-new-iphone-but-its-inexplicably-limited-to-23-year-old-usb-20-speeds/)
-- [Why people care about PostGIS and Postgres](https://pathtocituscon.transistor.fm/episodes/why-people-care-about-postgis-and-postgres-with-paul-ramsey-regina-obe/transcript)
-- [Meduza co-founder&#39;s phone infected with Pegasus](https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter)
-- [Against LLM Maximalism](https://explosion.ai/blog/against-llm-maximalism/)
+- [Transcoding Unicode strings at crazy speeds with AVX-512](https://lemire.me/blog/2023/09/13/transcoding-unicode-strings-at-crazy-speeds-with-avx-512/)
+- [MUNI Bus Killed San Francisco Man at Center of Robotaxi, Firefighter Dispute](https://sfstandard.com/2023/09/12/muni-bus-killed-san-francisco-man-at-center-of-robotaxi-firefighter-dispute/)
+- [A $500 DIY near-IR spectrometer that would sell for $10k](https://caoyuan.scripts.mit.edu/ir_spec.html)
+- [Bitty Engine: A tiny powerful game engine](https://paladin-t.github.io/bitty/)
+- [OpenBSD Webzine #14](https://webzine.puffy.cafe/issue-14.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
