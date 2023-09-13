@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Through Depression](https://www.theguardian.com/books/2023/sep/10/breaking-through-depression-new-treatments-discoveries-for-healing-the-balanced-brain-science-of-mental-health-philip-gold-camilla-nord-reviews)
+- [Einstein to Habicht, 1905](https://ecologicallyoriented.wordpress.com/2014/05/24/einstein-to-habicht-1905/)
+- [Unity rushes to clarify price increase plan, as game developers fume](https://www.axios.com/2023/09/13/unity-runtime-fee-policy-marc-whitten)
+- [Lessons from 139 YC AI Startups &lpar;YC S23&rpar;](https://www.ignorance.ai/p/5-lessons-from-139-yc-ai-startups)
 - [How long it took different companies to find product-market fit](https://www.lennysnewsletter.com/p/finding-product-market-fit)
 - [Fixing Penn Station](https://commonedge.org/whats-to-become-of-the-mess-that-is-penn-station/)
-- [Credit Card Debt Collection](https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/)
-- [Why not punish families? A challenge for consequentialists](https://betonit.substack.com/p/why-not-punish-families)
 <!-- BLOG-POST-LIST:END -->
 
 ---
