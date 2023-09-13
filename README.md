@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Godot Game Engine](https://godotengine.org/)
+- [The Uselessness of Phenylephrine &lpar;2022&rpar;](https://www.science.org/content/blog-post/uselessness-phenylephrine)
+- [Amazon Ion Specification](https://amazon-ion.github.io/ion-docs/docs/spec.html)
+- [PF bug in macOS Sonoma release candidate](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/)
 - [SigNoz – Open-source alternative to Datadog is hiring product designers &lpar;remote&rpar;](https://signoz.io/careers/product-designer-in/)
-- [SpaceX no longer taking losses to produce Starlink satellite antennas](https://www.cnbc.com/2023/09/13/spacex-no-longer-taking-losses-to-produce-starlink-satellite-antennas.html)
-- [Why the Eddie Murphy Rule Is About More Than Orange Juice &lpar;2019&rpar;](https://econlife.com/2019/12/the-eddie-murphy-rule/)
-- [Transcoding Unicode strings at crazy speeds with AVX-512](https://lemire.me/blog/2023/09/13/transcoding-unicode-strings-at-crazy-speeds-with-avx-512/)
-- [Appeals Court Upholds Public.Resource.Org’s Right to Post Public Laws Online](https://www.eff.org/press/releases/appeals-court-upholds-publicresourceorgs-right-post-public-laws-and-regulations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
