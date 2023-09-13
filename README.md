@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Marvel Visual Effects Workers Vote to Unionize](https://www.rollingstone.com/tv-movies/tv-movie-news/marvel-visual-effects-workers-vote-unionize-1234824215/)
+- [Show HN: Kr8s a batteries-included Python client library for Kubernetes](https://github.com/kr8s-org/kr8s)
+- [Earth beyond six of nine planetary boundaries](https://www.science.org/doi/10.1126/sciadv.adh2458)
+- [Unity Engine to Godot Engine Exporter](https://github.com/Zylann/unity_to_godot_converter)
 - [Hackers claim it only took a 10-minute phone call to shut down MGM Resorts](https://www.engadget.com/hackers-claim-it-only-took-a-10-minute-phone-call-to-shutdown-mgm-resorts-143147493.html)
 - [Show HN: Lantern – a PostgreSQL vector database for building AI applications](https://docs.lantern.dev/blog/2023/09/13/hello-world)
-- [Phaser: A fast, fun and free open source HTML5 game framework](https://phaser.io/)
-- [The Uselessness of Phenylephrine &lpar;2022&rpar;](https://www.science.org/content/blog-post/uselessness-phenylephrine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
