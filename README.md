@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What to expect from upvotes on Hacker News](https://antonz.org/hn-upvotes/)
+- [White Men Are Feeling Left Out of Diversity, Equity, &amp; Inclusion](https://www.forbes.com/sites/teresahopke/2022/03/30/white-men-are-feeling-left-out-of-dei-diversity-equity--inclusion-why-should-we-care-and-what-should-we-do/)
 - [The great American eye-exam scam &lpar;2019&rpar;](https://www.theatlantic.com/ideas/archive/2019/11/great-american-eye-exam-scam/602482/)
 - [Mathematics of Hurricane Modeling and Forecasting &lpar;2008, ppt&rpar; [pdf]](https://www.mdc.edu/north/math/pdf/hurricanes-math.pdf)
 - [Detecting SSH Tunnels &lpar;2017&rpar;](https://www.trisul.org/blog/detecting-ssh-tunnels/)
