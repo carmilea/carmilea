@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [XFCE Wayland Development Roadmap](https://wiki.xfce.org/releng/wayland_roadmap)
-- [Johnny Decimal: A System to Organize Projects](https://johnnydecimal.com)
-- [How mobile apps illegally share your personal data](https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data)
-- [3D printing on OpenBSD? Yes, that’s a thing](https://undeadly.org/cgi?action=article;sid=20230914075444)
-- [How Far Back in Time Can I Take My Website&#39;s Design?](https://ajxs.me/blog/How_Far_Back_in_Time_Can_I_Take_My_Websites_Design.html)
+- [Firezone &lpar;YC W22&rpar; is hiring rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone/jobs)
+- [Ask HN: A network device that doesn&#39;t exist?](https://news.ycombinator.com/item?id=37507676)
+- [Tech Workers Deserve a Union: An Interview with Ethan Marcotte](https://workerorganizing.org/tech-workers-deserve-a-union-6904/)
+- [Linux Phones &lpar;2022&rpar;](https://madaidans-insecurities.github.io/linux-phones.html)
+- [How to Build a IP Geolocation Database from Scratch?](https://ipapi.is/geolocation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
