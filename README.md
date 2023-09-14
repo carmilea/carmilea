@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Instead of collaborating or supporting me, Google stole my idea](https://github.com/google/project-gameface/issues/1)
+- [MenuetOS](https://menuetos.net)
 - [Rivers are rapidly warming, losing oxygen; aquatic life at risk, study finds](https://www.eurekalert.org/news-releases/1001268)
-- [Unity is offering a runtime fee waiver if you switch to LevelPlay](https://mobilegamer.biz/unity-is-offering-a-runtime-fee-waiver-if-you-switch-to-levelplay-as-it-tries-to-kill-applovin/)
-- [On Writing &lpar;or not&rpar;: Bad habits and why the voice in my head needs to shut up](https://bessstillman.substack.com/p/on-writing-or-not)
-- [A clever “perpetual motion” device [video]](https://www.youtube.com/watch?v=r_LG8FDt51U)
-- [In a Git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
+- [Toyota’s advanced battery technology roadmap](https://newsroom.toyota.eu/toyotas-advanced-battery-technology-roadmap/)
+- [Arm jumps 18% in market debut to notch $60B valuation](https://www.reuters.com/markets/deals/softbanks-arm-set-debut-nasdaq-after-blockbuster-ipo-2023-09-14/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
