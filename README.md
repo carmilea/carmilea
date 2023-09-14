@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Rivers are rapidly warming, losing oxygen; aquatic life at risk, study finds](https://www.eurekalert.org/news-releases/1001268)
-- [Unity will quietly waive fees if developers switch to its ad monetisation](https://www.eurogamer.net/unity-will-quietly-waive-controversial-fees-if-developers-switch-to-its-ad-monetisation-service-report)
+- [Unity is offering a runtime fee waiver if you switch to LevelPlay](https://mobilegamer.biz/unity-is-offering-a-runtime-fee-waiver-if-you-switch-to-levelplay-as-it-tries-to-kill-applovin/)
 - [On Writing &lpar;or not&rpar;: Bad habits and why the voice in my head needs to shut up](https://bessstillman.substack.com/p/on-writing-or-not)
-- [“perpetual motion” device is clever [video]](https://www.youtube.com/watch?v=r_LG8FDt51U)
-- [Google hid evidence by training workers to avoid words monopolists use, DOJ says](https://arstechnica.com/tech-policy/2023/09/google-hid-evidence-by-training-workers-to-avoid-words-monopolists-use-doj-says/)
+- [A clever “perpetual motion” device [video]](https://www.youtube.com/watch?v=r_LG8FDt51U)
+- [In a Git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
