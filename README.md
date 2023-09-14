@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patrick Collison on solar](https://patrickcollison.com/solar)
+- [Game Development Post-Unity](https://www.computerenhance.com/p/game-development-post-unity)
+- [Marvel visual effects artists unanimously vote to unionize](https://www.cnbc.com/2023/09/13/marvel-vfx-artists-unanimously-vote-to-unionize.html)
 - [Hutter Prize for compressing human knowledge](http://prize.hutter1.net/)
 - [Deforestation in the Amazon rainforest continues to decline](https://news.mongabay.com/2023/09/deforestation-in-the-amazon-rainforest-continues-to-plunge/)
 - [Don’t mess with a genius &lpar;2010&rpar;](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
-- [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
