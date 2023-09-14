@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Not Losing Fat Because You&#39;re Eating Too Damn Much](https://physiqonomics.com/eating-too-much/)
+- [On Writing &lpar;or not&rpar;: Bad habits and why the voice in my head needs to shut up](https://bessstillman.substack.com/p/on-writing-or-not)
+- [“perpetual motion” device is clever [video]](https://www.youtube.com/watch?v=r_LG8FDt51U)
+- [Unity cancels town hall over reported death threats](https://www.theverge.com/2023/9/14/23873628/unity-death-threats-john-riccitiello)
+- [Can I take ducks home from the park?](https://dynomight.net/ducks/)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37511584)
-- [Intermediate sci knowledge associated with overconfidence and negative attitudes](https://www.nature.com/articles/s41562-023-01677-8)
-- [Stolen van Gogh painting returned in an IKEA bag](https://www.smithsonianmag.com/smart-news/dutch-art-detective-recovers-a-van-gogh-stolen-in-2020-180982896/)
-- [Chromebooks will get 10 years of automatic updates](https://blog.google/outreach-initiatives/education/automatic-update-extension-chromebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
