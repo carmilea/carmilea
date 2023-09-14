@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [White Men Are Feeling Left Out of Diversity, Equity, &amp; Inclusion](https://www.forbes.com/sites/teresahopke/2022/03/30/white-men-are-feeling-left-out-of-dei-diversity-equity--inclusion-why-should-we-care-and-what-should-we-do/)
-- [The great American eye-exam scam &lpar;2019&rpar;](https://www.theatlantic.com/ideas/archive/2019/11/great-american-eye-exam-scam/602482/)
+- [How mobile apps illegally share your personal data](https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data)
+- [Open Source Windows, ReactOS, Running on a Steam Deck](https://twitter.com/reactos/status/1702071085825450052)
+- [A Comprehensive Guide for Building Rag-Based LLM Applications](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
 - [Mathematics of Hurricane Modeling and Forecasting &lpar;2008, ppt&rpar; [pdf]](https://www.mdc.edu/north/math/pdf/hurricanes-math.pdf)
 - [Detecting SSH Tunnels &lpar;2017&rpar;](https://www.trisul.org/blog/detecting-ssh-tunnels/)
-- [Restoration of an IMSAI 8080](https://retrocmp.de/imsai/imsai_p01_restoration.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
