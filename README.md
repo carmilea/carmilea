@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Release Unidentified Anomalous Phenomena Final Report [pdf]](https://science.nasa.gov/science-pink/s3fs-public/atoms/files/UAP%20Independent%20Study%20Team%20-%20Final%20Report_0.pdf)
-- [Why has a useless cold medication been allowed on shelves for years?](https://www.theatlantic.com/health/archive/2023/09/cold-medicine-decongestant-phenylephrine-ineffective/675303/)
+- [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)
+- [Tails is a portable OS that protects against surveillance and censorship](https://tails.net/)
+- [Arm IPO to kick off today with company valued at $54.5B](https://www.theregister.com/2023/09/14/arm_ipo/)
+- [Unidentified anomalous phenomena – Independent study team report [pdf]](https://science.nasa.gov/science-pink/s3fs-public/atoms/files/UAP%20Independent%20Study%20Team%20-%20Final%20Report_0.pdf)
 - [Utah officials sued over failure to save Great Salt Lake](https://www.theguardian.com/us-news/2023/sep/06/utah-great-salt-lake-lawsuit-collapse-environment)
-- [PostgreSQL 16](https://www.postgresql.org/about/news/postgresql-16-released-2715/)
-- [Client harassed by The Type founders for using Proxima Nova font on website](https://community.adobe.com/t5/type-typography-discussions/client-being-harassed-by-the-type-founders-for-using-proxima-nova-font-on-website/td-p/13992446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
