@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unity introduces per-install fee for game developers](https://unity.com/runtime-fee)
-- [FBI Hacker Dropped Stolen Airbus Data on 9/11](https://krebsonsecurity.com/2023/09/fbi-hacker-dropped-stolen-airbus-data-on-9-11/)
+- [I paid for Sublime Text](https://github.com/kapitanluffy/i-shamefully-paid-for-sublime-text)
 - [Game Development Post-Unity](https://www.computerenhance.com/p/game-development-post-unity)
-- [Cache AnyThing filesystem written in Rust](https://github.com/kahing/catfs)
-- [Marvel visual effects artists unanimously vote to unionize](https://www.cnbc.com/2023/09/13/marvel-vfx-artists-unanimously-vote-to-unionize.html)
+- [Hutter Prize for compressing human knowledge](http://prize.hutter1.net/)
+- [Don&#39;t use Discord as your Q&amp;A forum](https://kraktoos.com/posts/dont-use-discord-as-forum/)
+- [RPG in a Box: A grid-based, voxel-style game engine built on Godot](https://www.rpginabox.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
