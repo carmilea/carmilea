@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [XFCE Wayland Development Roadmap](https://wiki.xfce.org/releng/wayland_roadmap)
+- [Johnny Decimal: A System to Organize Projects](https://johnnydecimal.com)
 - [How mobile apps illegally share your personal data](https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data)
-- [Open Source Windows, ReactOS, Running on a Steam Deck](https://twitter.com/reactos/status/1702071085825450052)
+- [3D printing on OpenBSD? Yes, that’s a thing](https://undeadly.org/cgi?action=article;sid=20230914075444)
 - [A Comprehensive Guide for Building Rag-Based LLM Applications](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
-- [Mathematics of Hurricane Modeling and Forecasting &lpar;2008, ppt&rpar; [pdf]](https://www.mdc.edu/north/math/pdf/hurricanes-math.pdf)
-- [Detecting SSH Tunnels &lpar;2017&rpar;](https://www.trisul.org/blog/detecting-ssh-tunnels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
