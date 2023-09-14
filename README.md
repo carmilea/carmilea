@@ -54,8 +54,8 @@
 - [Early response to false claims in Wikipedia, 15 years later](https://firstmonday.org/ojs/index.php/fm/article/view/12912/11332)
 - [Mathematics of Hurricane Modeling and Forecasting &lpar;2008, ppt&rpar; [pdf]](https://www.mdc.edu/north/math/pdf/hurricanes-math.pdf)
 - [Detecting SSH Tunnels &lpar;2017&rpar;](https://www.trisul.org/blog/detecting-ssh-tunnels/)
-- [I paid for Sublime Text](https://github.com/kapitanluffy/i-shamefully-paid-for-sublime-text)
-- [Game Development Post-Unity](https://www.computerenhance.com/p/game-development-post-unity)
+- [Hutter Prize for compressing human knowledge](http://prize.hutter1.net/)
+- [Don&#39;t use Discord as your Q&amp;A forum](https://kraktoos.com/posts/dont-use-discord-as-forum/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
