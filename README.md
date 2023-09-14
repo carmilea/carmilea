@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firezone &lpar;YC W22&rpar; is hiring rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone/jobs)
+- [PostgreSQL 16 Released](https://www.postgresql.org/about/news/postgresql-16-released-2715/)
+- [Public exposure to BPA exceeds acceptable health safety levels](https://www.eea.europa.eu/en/newsroom/news/public-exposure-to-bisphenol-a)
+- [Using popular font Proxima Nova could get you sued](https://community.adobe.com/t5/type-typography-discussions/client-being-harassed-by-the-type-founders-for-using-proxima-nova-font-on-website/td-p/13992446)
+- [Firezone &lpar;YC W22&rpar; is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone/jobs)
 - [Ask HN: A network device that doesn&#39;t exist?](https://news.ycombinator.com/item?id=37507676)
-- [Tech Workers Deserve a Union: An Interview with Ethan Marcotte](https://workerorganizing.org/tech-workers-deserve-a-union-6904/)
-- [Linux Phones &lpar;2022&rpar;](https://madaidans-insecurities.github.io/linux-phones.html)
-- [How to Build a IP Geolocation Database from Scratch?](https://ipapi.is/geolocation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
