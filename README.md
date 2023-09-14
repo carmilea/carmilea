@@ -55,7 +55,7 @@
 - [Johnny Decimal: A System to Organize Projects](https://johnnydecimal.com)
 - [How mobile apps illegally share your personal data](https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data)
 - [3D printing on OpenBSD? Yes, that’s a thing](https://undeadly.org/cgi?action=article;sid=20230914075444)
-- [A Comprehensive Guide for Building Rag-Based LLM Applications](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
+- [How Far Back in Time Can I Take My Website&#39;s Design?](https://ajxs.me/blog/How_Far_Back_in_Time_Can_I_Take_My_Websites_Design.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
