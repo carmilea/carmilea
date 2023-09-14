@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)
-- [Tails is a portable OS that protects against surveillance and censorship](https://tails.net/)
-- [Arm IPO to kick off today with company valued at $54.5B](https://www.theregister.com/2023/09/14/arm_ipo/)
-- [Unidentified anomalous phenomena – Independent study team report [pdf]](https://science.nasa.gov/science-pink/s3fs-public/atoms/files/UAP%20Independent%20Study%20Team%20-%20Final%20Report_0.pdf)
-- [Utah officials sued over failure to save Great Salt Lake](https://www.theguardian.com/us-news/2023/sep/06/utah-great-salt-lake-lawsuit-collapse-environment)
+- [When the Homeowners Association Comes for Your Home](https://www.bloomberg.com/news/features/2023-09-14/hoa-foreclosures-continue-in-colorado-despite-reform)
+- [How I stay reasonably anonymous online &lpar;2022&rpar;](https://tmp.bearblog.dev/how-i-stay-reasonably-anonymous-online/)
+- [This post will not go viral](https://www.houseofstrauss.com/p/this-post-will-not-go-viral)
+- [Whonix – an OS focused on anonymity, privacy and security](https://www.whonix.org)
+- [The inside story of Threads](https://engineering.fb.com/2023/09/07/culture/threads-inside-story-metas-newest-social-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
