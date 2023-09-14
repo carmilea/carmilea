@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Instead of collaborating or supporting me, Google stole my idea](https://github.com/google/project-gameface/issues/1)
+- [Programming Language Inventor or Serial Killer?](https://vole.wtf/coder-serial-killer-quiz/)
+- [Utilu Standalone Internet Explorer Collection](https://utilu.com/IECollection/)
 - [MenuetOS](https://menuetos.net)
 - [Rivers are rapidly warming, losing oxygen; aquatic life at risk, study finds](https://www.eurekalert.org/news-releases/1001268)
-- [Toyota’s advanced battery technology roadmap](https://newsroom.toyota.eu/toyotas-advanced-battery-technology-roadmap/)
 - [Arm jumps 18% in market debut to notch $60B valuation](https://www.reuters.com/markets/deals/softbanks-arm-set-debut-nasdaq-after-blockbuster-ipo-2023-09-14/)
 <!-- BLOG-POST-LIST:END -->
 
