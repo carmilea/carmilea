@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What to expect from upvotes on Hacker News](https://antonz.org/hn-upvotes/)
 - [The great American eye-exam scam &lpar;2019&rpar;](https://www.theatlantic.com/ideas/archive/2019/11/great-american-eye-exam-scam/602482/)
 - [Mathematics of Hurricane Modeling and Forecasting &lpar;2008, ppt&rpar; [pdf]](https://www.mdc.edu/north/math/pdf/hurricanes-math.pdf)
 - [Detecting SSH Tunnels &lpar;2017&rpar;](https://www.trisul.org/blog/detecting-ssh-tunnels/)
 - [Restoration of an IMSAI 8080](https://retrocmp.de/imsai/imsai_p01_restoration.htm)
-- [Hutter Prize for compressing human knowledge](http://prize.hutter1.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
