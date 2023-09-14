@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unity introduces per-install fee for game developers](https://unity.com/runtime-fee)
+- [FBI Hacker Dropped Stolen Airbus Data on 9/11](https://krebsonsecurity.com/2023/09/fbi-hacker-dropped-stolen-airbus-data-on-9-11/)
 - [Game Development Post-Unity](https://www.computerenhance.com/p/game-development-post-unity)
+- [Cache AnyThing filesystem written in Rust](https://github.com/kahing/catfs)
 - [Marvel visual effects artists unanimously vote to unionize](https://www.cnbc.com/2023/09/13/marvel-vfx-artists-unanimously-vote-to-unionize.html)
-- [Hutter Prize for compressing human knowledge](http://prize.hutter1.net/)
-- [Deforestation in the Amazon rainforest continues to decline](https://news.mongabay.com/2023/09/deforestation-in-the-amazon-rainforest-continues-to-plunge/)
-- [Don’t mess with a genius &lpar;2010&rpar;](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
