@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When the Homeowners Association Comes for Your Home](https://www.bloomberg.com/news/features/2023-09-14/hoa-foreclosures-continue-in-colorado-despite-reform)
-- [How I stay reasonably anonymous online &lpar;2022&rpar;](https://tmp.bearblog.dev/how-i-stay-reasonably-anonymous-online/)
-- [This post will not go viral](https://www.houseofstrauss.com/p/this-post-will-not-go-viral)
-- [Whonix – an OS focused on anonymity, privacy and security](https://www.whonix.org)
-- [The inside story of Threads](https://engineering.fb.com/2023/09/07/culture/threads-inside-story-metas-newest-social-app/)
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37511584)
+- [Intermediate sci knowledge associated with overconfidence and negative attitudes](https://www.nature.com/articles/s41562-023-01677-8)
+- [Video-Game Company Unity Closes Offices Following Death Threat](https://www.bloomberg.com/news/articles/2023-09-14/video-game-company-unity-closes-offices-following-death-threat)
+- [Unity’s pricing is a symptom, not the cause of tougher times for the industry](https://www.gamesindustry.biz/unitys-pricing-is-a-symptom-not-the-cause-of-tougher-times-ahead-for-the-games-industry-opinion)
+- [Stolen van Gogh Painting Worth Millions Returned in an IKEA Bag](https://www.smithsonianmag.com/smart-news/dutch-art-detective-recovers-a-van-gogh-stolen-in-2020-180982896/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
