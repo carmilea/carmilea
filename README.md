@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming Language Inventor or Serial Killer?](https://vole.wtf/coder-serial-killer-quiz/)
-- [Utilu Standalone Internet Explorer Collection](https://utilu.com/IECollection/)
-- [MenuetOS](https://menuetos.net)
-- [Rivers are rapidly warming, losing oxygen; aquatic life at risk, study finds](https://www.eurekalert.org/news-releases/1001268)
-- [Arm jumps 18% in market debut to notch $60B valuation](https://www.reuters.com/markets/deals/softbanks-arm-set-debut-nasdaq-after-blockbuster-ipo-2023-09-14/)
+- [Cannabis use raises the risk of major depression, bipolar disorder and psychosis](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2804862)
+- [Blogscroll – an open-source directory of personal blogs and digital gardens](https://blogscroll.com/)
+- [Unity Silently Deletes GitHub Repo That Tracks Terms of Service Changes](https://www.gamerbraves.com/unity-silently-deletes-github-repo-that-tracks-terms-of-service-changes-and-updated-its-license/)
+- [Analyzing Starfield’s Performance on Nvidia’s 4090 and AMD’s 7900 XTX](https://chipsandcheese.com/2023/09/14/analyzing-starfields-performance-on-nvidias-4090-and-amds-7900-xtx/)
+- [iNaturalist receives $10M Grant, becomes independent 501c3](https://baynature.org/2023/09/12/inaturalist-strikes-out-on-its-own/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
