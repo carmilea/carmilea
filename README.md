@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Marginalia Search Receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
 - [Eqtble &lpar;YC W21&rpar; Is Hiring a Data Analyst](https://www.ycombinator.com/companies/eqtble/jobs/bOX2JJp-junior-data-scientist)
+- [Willingham Sends Fables into the Public Domain](https://billwillingham.substack.com/p/willingham-sends-fables-into-the)
 - [Libsodium: A modern, portable, easy to use crypto library](https://github.com/jedisct1/libsodium)
 - [United Auto Workers launches a historic strike against all Big 3 automakers](https://www.npr.org/2023/09/15/1199673197/uaw-strike-big-3-automakers)
-- [Human trials of artificial wombs could start soon. Here’s what you need to know](https://www.nature.com/articles/d41586-023-02901-1)
-- [B612 Font Family](https://b612-font.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
