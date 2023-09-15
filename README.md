@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Norway Fining Meta $98,500 per Day for User Privacy Breach](https://www.twipla.com/en/blog/norway-fining-meta-98500-per-day-for-user-privacy-breach)
+- [‘Sea is constantly dumping bodies’: fears Libya flood death toll may hit 20k](https://www.theguardian.com/world/2023/sep/13/libya-flood-death-toll)
+- [BotOrNot &lpar;2021&rpar;](https://incolumitas.com/pages/BotOrNot/)
+- [Ask HN: How do you manage your “family data warehouse”?](https://news.ycombinator.com/item?id=37520374)
 - [Delphi 11 Community Edition](https://www.embarcadero.com/products/delphi/starter)
-- [Find my cat: open-source Cat Tracker](https://www.findmycat.io/)
-- [Marginalia Search Receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
-- [MaplePad – RP2040 Dreamcast controller, VMU, and Purupuru &lpar;rumble pack&rpar; emulator](https://github.com/mackieks/MaplePad)
-- [Eqtble &lpar;YC W21&rpar; Is Hiring a Data Analyst](https://www.ycombinator.com/companies/eqtble/jobs/bOX2JJp-junior-data-scientist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
