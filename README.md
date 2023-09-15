@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Delphi 11 Community Edition](https://www.embarcadero.com/products/delphi/starter)
+- [Find my cat: open-source Cat Tracker](https://www.findmycat.io/)
 - [Marginalia Search Receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
+- [MaplePad – RP2040 Dreamcast controller, VMU, and Purupuru &lpar;rumble pack&rpar; emulator](https://github.com/mackieks/MaplePad)
 - [Eqtble &lpar;YC W21&rpar; Is Hiring a Data Analyst](https://www.ycombinator.com/companies/eqtble/jobs/bOX2JJp-junior-data-scientist)
-- [Willingham Sends Fables into the Public Domain](https://billwillingham.substack.com/p/willingham-sends-fables-into-the)
-- [Libsodium: A modern, portable, easy to use crypto library](https://github.com/jedisct1/libsodium)
-- [United Auto Workers launches a historic strike against all Big 3 automakers](https://www.npr.org/2023/09/15/1199673197/uaw-strike-big-3-automakers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
