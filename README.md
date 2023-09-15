@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How can we have a proper debate when we no longer speak the same language?](https://richarddawkins.substack.com/p/how-can-we-have-a-proper-debate-when)
+- [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
 - [A mathematical formalization of dimensional analysis](https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/)
 - [Cannabis use disorder and subsequent risk of depression and bipolar disorder](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2804862)
 - [Bluesky Exploits](https://github.com/qwell/bsky-exploits)
-- [Blogscroll – an open-source directory of personal blogs and digital gardens](https://blogscroll.com/)
-- [Godot Development Fund](https://fund.godotengine.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
