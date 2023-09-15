@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bike tire made from NASA’s shape-shifting metal are now available to buy](https://www.theverge.com/2023/9/14/23873153/nasa-bike-tire-shape-memory-price-smart-specs)
-- [Salesforce is hiring over 3k people, despite axing 10% of staff](https://www.businessinsider.com/salesforce-hire-3-000-people-brutal-job-cuts-this-year-2023-9)
+- [California lawmakers pass bill to make it easier to delete online personal data](https://www.latimes.com/politics/story/2023-09-14/california-bill-delete-online-personal-data)
+- [Google to pay $93M in settlement over deceptive location tracking](https://www.theguardian.com/technology/2023/sep/14/google-location-tracking-data-settlement)
+- [We forced our company to allow work from home again](https://old.reddit.com/r/sysadmin/comments/16j8kw4/we_forced_our_company_to_allow_work_from_home/)
+- [Ask HN: Why Don&#39;t Developers Support Open Source Maintainers?](https://news.ycombinator.com/item?id=37523188)
 - [Carrefour puts ‘shrinkflation’ price warnings on food to shame brands](https://www.theguardian.com/business/2023/sep/14/carrefour-puts-shrinkflation-price-warnings-on-food-to-shame-brands)
-- [We Think That Product Hunt Is Still a Thing – Here&#39;s Why](https://www.permit.io/blog/producthunt-howto)
-- [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
