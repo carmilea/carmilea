@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cannabis use raises the risk of major depression, bipolar disorder and psychosis](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2804862)
+- [A mathematical formalization of dimensional analysis](https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/)
+- [Cannabis use disorder and subsequent risk of depression and bipolar disorder](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2804862)
+- [Bluesky Exploits](https://github.com/qwell/bsky-exploits)
 - [Blogscroll – an open-source directory of personal blogs and digital gardens](https://blogscroll.com/)
-- [Unity Silently Deletes GitHub Repo That Tracks Terms of Service Changes](https://www.gamerbraves.com/unity-silently-deletes-github-repo-that-tracks-terms-of-service-changes-and-updated-its-license/)
-- [Analyzing Starfield’s Performance on Nvidia’s 4090 and AMD’s 7900 XTX](https://chipsandcheese.com/2023/09/14/analyzing-starfields-performance-on-nvidias-4090-and-amds-7900-xtx/)
-- [iNaturalist receives $10M Grant, becomes independent 501c3](https://baynature.org/2023/09/12/inaturalist-strikes-out-on-its-own/)
+- [Godot Development Fund](https://fund.godotengine.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
