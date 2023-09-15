@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eqtble &lpar;YC W21&rpar; Is Hiring a Data Analyst](https://www.ycombinator.com/companies/eqtble/jobs/bOX2JJp-junior-data-scientist)
+- [Libsodium: A modern, portable, easy to use crypto library](https://github.com/jedisct1/libsodium)
 - [United Auto Workers launches a historic strike against all Big 3 automakers](https://www.npr.org/2023/09/15/1199673197/uaw-strike-big-3-automakers)
-- [Show HN: I built an app that lets you create and chat with 3D AI characters](https://www.heyastrocyte.com/)
 - [Human trials of artificial wombs could start soon. Here’s what you need to know](https://www.nature.com/articles/d41586-023-02901-1)
 - [B612 Font Family](https://b612-font.com/)
-- [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
