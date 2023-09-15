@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California lawmakers pass bill to make it easier to delete online personal data](https://www.latimes.com/politics/story/2023-09-14/california-bill-delete-online-personal-data)
-- [Google to pay $93M in settlement over deceptive location tracking](https://www.theguardian.com/technology/2023/sep/14/google-location-tracking-data-settlement)
-- [We forced our company to allow work from home again](https://old.reddit.com/r/sysadmin/comments/16j8kw4/we_forced_our_company_to_allow_work_from_home/)
-- [Ask HN: Why Don&#39;t Developers Support Open Source Maintainers?](https://news.ycombinator.com/item?id=37523188)
-- [Carrefour puts ‘shrinkflation’ price warnings on food to shame brands](https://www.theguardian.com/business/2023/sep/14/carrefour-puts-shrinkflation-price-warnings-on-food-to-shame-brands)
+- [How to Store a Chess Game in 26 Bytes Using Bit-Level Magic](https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/Compressing%20chess%20positions%20for%20fun%20and%20profit%20df1fdb5364eb42fdac11eb23b25e9605.html)
+- [Optimizing LLMs from a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
+- [Artificial intelligence can revolutionise science](https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science)
+- [Repeat after me: building any new homes reduces housing costs for all](https://www.ft.com/content/86836af4-6b52-49e8-a8f0-8aec6181dbc5)
+- [Introduction to Hilbert Space &lpar;2022&rpar; [pdf]](https://www.cphysics.org/article/90771.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
