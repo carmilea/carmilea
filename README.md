@@ -55,7 +55,7 @@
 - [‘Sea is constantly dumping bodies’: fears Libya flood death toll may hit 20k](https://www.theguardian.com/world/2023/sep/13/libya-flood-death-toll)
 - [BotOrNot &lpar;2021&rpar;](https://incolumitas.com/pages/BotOrNot/)
 - [Ask HN: How do you manage your “family data warehouse”?](https://news.ycombinator.com/item?id=37520374)
-- [Delphi 11 Community Edition](https://www.embarcadero.com/products/delphi/starter)
+- [Unity’s New Pricing: A Wake-Up Call on the Importance of Open Source in Gaming](https://ramatak.com/2023/09/15/unitys-new-pricing-a-wake-up-call-on-the-importance-of-open-source-in-gaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
