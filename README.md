@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plex announced to block instances on German hosting provider Hetzner](https://forums.plex.tv/t/not-allowed-to-use-hetzner/853570)
+- [Kopia: Open-Source, Fast and Secure Open-Source Backup Software](https://kopia.io/)
+- [Bitcoin and the dangerous fantasy of ‘apolitical’ money &lpar;2013&rpar;](https://www.yanisvaroufakis.eu/2013/04/22/bitcoin-and-the-dangerous-fantasy-of-apolitical-money/)
+- [Warner Bros. CFO Thinks You Deadbeats Have Been on a Free Ride for Way Too Long](https://gizmodo.com/warner-bros-cfo-thinks-streaming-prices-need-to-go-up-1850839302)
 - [Loops &lpar;YC W22&rpar; Is Hiring a Remote Front-End Engineer](https://www.ycombinator.com/companies/loops/jobs/R5lUQcn-front-end-engineer)
-- [Why my favourite API is a zipfile on the European Central Bank&#39;s website](https://csvbase.com/blog/5)
-- [Google says it can’t fix Pixel Watches, please just buy a new one](https://arstechnica.com/gadgets/2023/09/11-months-after-launch-googles-pixel-watch-still-has-no-path-to-repair/)
-- [How to Store a Chess Game in 26 Bytes Using Bit-Level Magic &lpar;2022&rpar;](https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/Compressing%20chess%20positions%20for%20fun%20and%20profit%20df1fdb5364eb42fdac11eb23b25e9605.html)
-- [Optimizing LLMs from a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
