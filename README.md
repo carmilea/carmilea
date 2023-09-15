@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Salt Taste Is Surprisingly Mysterious](https://nautil.us/salt-taste-is-surprisingly-mysterious-382855/)
 - [Show HN: IncarnaMind-Chat with your multiple docs using LLMs](https://github.com/junruxiong/IncarnaMind)
 - [Books for Game Developers](https://mrelusive.com/books/books.html)
 - [Building an Economy Simulator from Scratch](https://thomassimon.dev/ps/4)
 - [No Sacred Masterpieces, that time I built Excel for Uber and they ditched it](https://basta.substack.com/p/no-sacred-masterpieces)
-- [Ex-Finance developers mock McKinsey&#39;s dev productivity metrics](https://www.efinancialcareers.com/news/2023/09/mckinsey-how-to-measure-software-developer-productivity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
