@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Salt Taste Is Surprisingly Mysterious](https://nautil.us/salt-taste-is-surprisingly-mysterious-382855/)
+- [“Inverse vaccine” shows potential to treat MS and other autoimmune diseases](https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases)
+- [Birds with more complex vocal skills are better problem-solvers](https://www.sciencenews.org/article/birds-complex-vocal-skills-problem-solvers)
+- [Zero Effort Private Key Compromise: Abusing SSH-Agent for Lateral Movement](https://grahamhelton.com/blog/ssh_agent/)
 - [Show HN: IncarnaMind-Chat with your multiple docs using LLMs](https://github.com/junruxiong/IncarnaMind)
 - [Books for Game Developers](https://mrelusive.com/books/books.html)
-- [Building an Economy Simulator from Scratch](https://thomassimon.dev/ps/4)
-- [No Sacred Masterpieces, that time I built Excel for Uber and they ditched it](https://basta.substack.com/p/no-sacred-masterpieces)
 <!-- BLOG-POST-LIST:END -->
 
 ---
