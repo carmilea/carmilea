@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [5:01 And Done: No One Wants to Schmooze After Work](https://www.wsj.com/lifestyle/careers/work-happy-hours-office-culture-4c901cfb)
-- [Claude and LLaMa get basic human anatomy wrong](https://hermitian.substack.com/p/claude-and-llama-get-basic-human)
 - [B612 Font Family](https://b612-font.com/)
+- [TSA officers accused of stealing from passengers](https://www.nbcmiami.com/news/local/new-surveillance-footage-shows-miami-tsa-officers-accused-of-stealing-from-passengers/3109762/)
 - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
+- [Plex to block all servers hosted at Hetzner](https://links.plex.tv/e/evib?_t=3bef3c50f13f4320a9e31b8be79c6ad2&_m=df59a9eb59db44d2a0dbdbd0ebb61ee5&_e=xDXT7pYRisN-4z7uioydETDUiISVYQQUM0Y_a8MKNPZP6DN9yUpJaWCmlnGMyQQb)
 - [A mathematical formalization of dimensional analysis](https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
