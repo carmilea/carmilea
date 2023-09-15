@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bike tire made from NASA’s shape-shifting metal are now available to buy](https://www.theverge.com/2023/9/14/23873153/nasa-bike-tire-shape-memory-price-smart-specs)
+- [Salesforce is hiring over 3k people, despite axing 10% of staff](https://www.businessinsider.com/salesforce-hire-3-000-people-brutal-job-cuts-this-year-2023-9)
+- [Carrefour puts ‘shrinkflation’ price warnings on food to shame brands](https://www.theguardian.com/business/2023/sep/14/carrefour-puts-shrinkflation-price-warnings-on-food-to-shame-brands)
+- [We Think That Product Hunt Is Still a Thing – Here&#39;s Why](https://www.permit.io/blog/producthunt-howto)
 - [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
-- [NASA says more science and less stigma are needed to understand UFOs](https://apnews.com/article/nasa-ufos-inidentified-flying-objects-8b477a5ed6a42f99bb13a4518368ce9a)
-- [The Pixel Tablet is just a few spare parts in a half-empty body](https://arstechnica.com/gadgets/2023/09/the-pixel-tablet-is-actually-just-a-few-spare-parts-in-a-half-empty-body/)
-- [TikTok fined €345M for breaking EU data law on children’s accounts](https://www.theguardian.com/technology/2023/sep/15/tiktok-fined-345m-for-breaking-eu-data-law-on-childrens-accounts)
-- [UpCodes &lpar;YC S17&rpar; is hiring remote engineers across the Americas](https://up.codes/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
