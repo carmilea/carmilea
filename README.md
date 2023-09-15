@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google nears release of Gemini AI](https://www.reuters.com/technology/google-nears-release-ai-software-gemini-information-2023-09-15/)
-- [Is Unity allowed to just change its fee structure like that?](https://arstechnica.com/gaming/2023/09/wait-is-unity-allowed-to-just-change-its-fee-structure-like-that/)
-- [The Gap in the Armor of Baldur’s Gate and 5e](https://acoup.blog/2023/09/15/collections-the-gap-in-the-armor-of-baldurs-gate-and-5e/)
-- [Kopia: Open-Source, Fast and Secure Open-Source Backup Software](https://kopia.io/)
-- [Bitcoin and the dangerous fantasy of ‘apolitical’ money &lpar;2013&rpar;](https://www.yanisvaroufakis.eu/2013/04/22/bitcoin-and-the-dangerous-fantasy-of-apolitical-money/)
+- [Show HN: IncarnaMind-Chat with your multiple docs using LLMs](https://github.com/junruxiong/IncarnaMind)
+- [Books for Game Developers](https://mrelusive.com/books/books.html)
+- [Building an Economy Simulator from Scratch](https://thomassimon.dev/ps/4)
+- [No Sacred Masterpieces, that time I built Excel for Uber and they ditched it](https://basta.substack.com/p/no-sacred-masterpieces)
+- [Ex-Finance developers mock McKinsey&#39;s dev productivity metrics](https://www.efinancialcareers.com/news/2023/09/mckinsey-how-to-measure-software-developer-productivity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
