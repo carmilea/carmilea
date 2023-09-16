@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
+- [The Meaning of Liberalism &lpar;1938&rpar;](https://www.roberthjackson.org/speech-and-writing/the-meaning-of-liberalism/)
+- [Radiohead Public Library](https://radiohead.com/)
+- [Salesforce CEO goes back to being remote](https://fortune.com/2023/09/15/marc-benioff-salesforce-says-hes-remote-worker-office-return/)
 - [A Virus for the BBC Micro](https://popey.com/blog/2023/09/a-virus-for-the-bbc-micro/)
-- [Subdomain.center – discover all subdomains for a domain](https://www.subdomain.center/)
-- [The Suspicion Machine](https://www.wired.com/story/welfare-state-algorithms/)
-- [Ask HN: What Happened to TJ Holowaychuk?](https://news.ycombinator.com/item?id=37531423)
-- [enron :: discover the power of WHY &lpar;2001&rpar;](https://enroncorp.com/corp/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
