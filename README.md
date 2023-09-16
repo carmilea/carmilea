@@ -54,8 +54,8 @@
 - [A Virus for the BBC Micro](https://popey.com/blog/2023/09/a-virus-for-the-bbc-micro/)
 - [Subdomain.center – discover all subdomains for a domain](https://www.subdomain.center/)
 - [The Suspicion Machine](https://www.wired.com/story/welfare-state-algorithms/)
+- [Ask HN: What Happened to TJ Holowaychuk?](https://news.ycombinator.com/item?id=37531423)
 - [enron :: discover the power of WHY &lpar;2001&rpar;](https://enroncorp.com/corp/index.html)
-- [Faster Than Llama 2: DeciLM LLM with Variable GQA](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
