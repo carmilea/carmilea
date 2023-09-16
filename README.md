@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Game developers turning off all IronSource and Unity Ads monetization](https://docs.google.com/document/d/16PzpX6qIwJu57jCB2fhxqKtmxA6A6QmZWifsWZBqI2w/view)
 - [Dire Warnings About Libya Dams Went Unheeded](https://www.nytimes.com/2023/09/16/world/middleeast/libya-dams-warnings.html)
-- [Activists Have One Simple Goal: Abolish the Cruise Industry](https://www.thenation.com/article/world/cruise-ships-marseille-stop-croisieres/)
-- [The Triassic-Jurassic Extinction](https://johncarlosbaez.wordpress.com/2023/09/16/the-triassic-jurassic-extinction-event/)
-- [NASA clears the air: No evidence that UFOs are aliens](https://theconversation.com/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial-213528)
-- [Observations on Credit and Lending Practices in Ur III Mesopotamia &lpar;2004&rpar; [pdf]](https://www.sfu.ca/~poitras/jesho_UR_14.pdf)
+- [Textual Adds a Command Palette](https://textual.textualize.io/blog/2023/09/15/textual-0370-adds-a-command-palette/)
+- [Homemade RC excavator from PVC [video]](https://www.youtube.com/watch?v=qam0DmWq_No)
+- [Horcrux: Split your file into encrypted fragments](https://github.com/jesseduffield/horcrux)
 <!-- BLOG-POST-LIST:END -->
 
 ---
