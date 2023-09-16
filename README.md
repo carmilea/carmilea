@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Percy Ludgate](https://en.wikipedia.org/wiki/Percy_Ludgate)
-- [The “Do Something About It” Club](https://chavanniclass.com/2023/09/16/48-the-do-something-about-it-club/)
-- [People Are Streaming Pirated Movies on TikTok, One Short Clip at a Time](https://www.wsj.com/tech/tiktok-pirated-movies-free-2cd9389a)
-- [Show HN: Android Hacker News Widget and App](https://play.google.com/store/apps/details?id=com.thirdgate.hackernews&hl=en_US)
-- [The Economic Cost of Populism](https://www.aeaweb.org/articles?id=10.1257/aer.20202045&from=f)
+- [Boring Crypto, from Daniel J. Bernstein &lpar;2012&rpar; [pdf]](https://cr.yp.to/talks/2015.10.05/slides-djb-20151005-a4.pdf)
+- [Ploomber &lpar;YC W22&rpar; Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber/jobs)
+- [Habits of top engineers](https://engineercodex.substack.com/p/7-simple-habits-of-the-top-1-of-engineers)
+- [BtrBlocks: Efficient Columnar Compression for Data Lakes [pdf]](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf)
+- [Show HN: exaequOS - a new OS running in a web browser](https://www.exaequos.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
