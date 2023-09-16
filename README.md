@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: WordPress vs. Django/Flask?](https://news.ycombinator.com/item?id=37537417)
+- [Masked &#39;boot girls&#39; are freeing booted cars in Atlanta](https://www.roadandtrack.com/news/a45123358/masked-boot-girls-are-freeing-booted-cars-all-over-atlanta/)
 - [French supermarket Carrefour puts up &#39;shrinkflation&#39; warning signs](https://www.bbc.co.uk/news/business-66809188)
+- [Epistemological problem of emergence in complex systems &lpar;2018&rpar; [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6207336/pdf/pone.0206489.pdf)
 - [Is this fraud? And if so, to what extent am I responsible?](https://workplace.stackexchange.com/questions/193234/is-this-fraud-and-if-so-to-what-extent-am-i-responsible)
-- [Vegas casinos are still reeling from a massive cyberattack](https://www.fastcompany.com/90954120/vegas-casinos-are-still-reeling-from-a-massive-cyberattack)
-- [Single-bladed floating wind turbine promises half the cost, more power](https://newatlas.com/energy/touchwind-floating-wind-turbine/)
-- [The Next Gen Database Servers Powering Let&#39;s Encrypt &lpar;2021&rpar;](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
