@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Economic Cost of Populism](https://www.aeaweb.org/articles?id=10.1257/aer.20202045&from=f)
 - [Converge &lpar;YC S23&rpar; is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
 - [Pongs](https://pippinbarr.com/pongs/info/)
 - [GPT-4 is not getting worse &lpar;tests and a long rant&rpar;](https://coagulopath.com/gpt-4-is-not-getting-worse/)
 - [How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
-- [Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
