@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [French supermarket using ‘shrinkflation’ stickers to pressure PepsiCo and others](https://www.cnn.com/2023/09/15/business-food/carrefour-shrinkflation-stickers/index.html)
-- [Wireless electrical–molecular quantum signalling for cancer cell apoptosis](https://www.nature.com/articles/s41565-023-01496-y)
-- [Bear rescued from theme park &#39;didn&#39;t understand trees,&#39; relocated to sanctuary](https://www.cbc.ca/news/canada/hamilton/bear-rescue-marineland-1.6967959)
-- [Threat from Climate Change to Some of India’s Sacred Sites Is Reshaping Beliefs](https://worldsensorium.com/threat-from-climate-change-to-some-of-indias-sacred-pilgrimage-sites-is-reshaping-religious-beliefs/)
-- [Game developers turning off all IronSource and Unity Ads monetization](https://docs.google.com/document/d/16PzpX6qIwJu57jCB2fhxqKtmxA6A6QmZWifsWZBqI2w/view)
+- [Is this fraud? And if so, to what extent am I responsible?](https://workplace.stackexchange.com/questions/193234/is-this-fraud-and-if-so-to-what-extent-am-i-responsible)
+- [Vegas casinos are still reeling from a massive cyberattack](https://www.fastcompany.com/90954120/vegas-casinos-are-still-reeling-from-a-massive-cyberattack)
+- [The Next Gen Database Servers Powering Let&#39;s Encrypt&lpar;2021&rpar;](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
+- [Peter Higgs: I wouldn&#39;t be productive enough for today&#39;s academic system &lpar;2013&rpar;](https://www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system)
+- [How to Escape the Startup Trough of Sorrow](https://www.briefmix.com/startup/positioning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
