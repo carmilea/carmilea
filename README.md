@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: WordPress vs. Django/Flask?](https://news.ycombinator.com/item?id=37537417)
-- [Masked &#39;boot girls&#39; are freeing booted cars in Atlanta](https://www.roadandtrack.com/news/a45123358/masked-boot-girls-are-freeing-booted-cars-all-over-atlanta/)
-- [French supermarket Carrefour puts up &#39;shrinkflation&#39; warning signs](https://www.bbc.co.uk/news/business-66809188)
+- [Why everything you buy is worse now [video]](https://www.youtube.com/watch?v=DHXBacEH0qo)
+- [Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
+- [Don&#39;t be afraid to be wrong](https://nlopes.dev/writing/dont-be-afraid-to-be-wrong)
 - [Epistemological problem of emergence in complex systems &lpar;2018&rpar; [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6207336/pdf/pone.0206489.pdf)
-- [Is this fraud? And if so, to what extent am I responsible?](https://workplace.stackexchange.com/questions/193234/is-this-fraud-and-if-so-to-what-extent-am-i-responsible)
+- [Single-bladed floating wind turbine promises half the cost, more power](https://newatlas.com/energy/touchwind-floating-wind-turbine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
