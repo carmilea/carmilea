@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [French supermarket using ‘shrinkflation’ stickers to pressure PepsiCo and others](https://www.cnn.com/2023/09/15/business-food/carrefour-shrinkflation-stickers/index.html)
+- [Wireless electrical–molecular quantum signalling for cancer cell apoptosis](https://www.nature.com/articles/s41565-023-01496-y)
+- [Bear rescued from theme park &#39;didn&#39;t understand trees,&#39; relocated to sanctuary](https://www.cbc.ca/news/canada/hamilton/bear-rescue-marineland-1.6967959)
+- [Threat from Climate Change to Some of India’s Sacred Sites Is Reshaping Beliefs](https://worldsensorium.com/threat-from-climate-change-to-some-of-indias-sacred-pilgrimage-sites-is-reshaping-religious-beliefs/)
 - [Game developers turning off all IronSource and Unity Ads monetization](https://docs.google.com/document/d/16PzpX6qIwJu57jCB2fhxqKtmxA6A6QmZWifsWZBqI2w/view)
-- [Dire Warnings About Libya Dams Went Unheeded](https://www.nytimes.com/2023/09/16/world/middleeast/libya-dams-warnings.html)
-- [Textual Adds a Command Palette](https://textual.textualize.io/blog/2023/09/15/textual-0370-adds-a-command-palette/)
-- [Homemade RC excavator from PVC [video]](https://www.youtube.com/watch?v=qam0DmWq_No)
-- [Horcrux: Split your file into encrypted fragments](https://github.com/jesseduffield/horcrux)
 <!-- BLOG-POST-LIST:END -->
 
 ---
