@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Could Dementia in the National Security Workforce Create a Security Threat?](https://www.rand.org/pubs/perspectives/PEA1779-1.html)
+- [A Virus for the BBC Micro](https://popey.com/blog/2023/09/a-virus-for-the-bbc-micro/)
+- [Subdomain.center – discover all subdomains for a domain](https://www.subdomain.center/)
+- [The Suspicion Machine](https://www.wired.com/story/welfare-state-algorithms/)
 - [enron :: discover the power of WHY &lpar;2001&rpar;](https://enroncorp.com/corp/index.html)
 - [Faster Than Llama 2: DeciLM LLM with Variable GQA](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/)
-- [Rule for Beneficial Ownership Reporting &lpar;2022&rpar;](https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement)
-- [Where did the Carter White House&#39;s solar panels go? &lpar;2010&rpar;](https://www.scientificamerican.com/article/carter-white-house-solar-panel-array/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
