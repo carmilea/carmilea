@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why everything you buy is worse now [video]](https://www.youtube.com/watch?v=DHXBacEH0qo)
-- [Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
-- [Don&#39;t be afraid to be wrong](https://nlopes.dev/writing/dont-be-afraid-to-be-wrong)
-- [Epistemological problem of emergence in complex systems &lpar;2018&rpar; [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6207336/pdf/pone.0206489.pdf)
-- [Single-bladed floating wind turbine promises half the cost, more power](https://newatlas.com/energy/touchwind-floating-wind-turbine/)
+- [Lantern &lpar;YC W24&rpar; – Hiring Engineers to Build PostgreSQL Vector Database for AI](https://lantern-db.notion.site/lantern-db/Lantern-is-hiring-Core-Database-Engineers-396a612dcfdb4c9eb274670680c8d8b5)
+- [Linux on a MacBook Pro &lpar;M1 Pro&rpar;: How Good Is Asahi Now?](https://www.youtube.com/watch?v=ZFx6R26aRHw)
+- [Lodash just declared issue bankruptcy and closed every issue and open PR](https://twitter.com/danielcroe/status/1703127430523703432)
+- [Layoffs.fyi](https://layoffs.fyi/)
+- [Guidance: A guidance language for controlling large language models](https://github.com/guidance-ai/guidance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
