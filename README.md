@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [French supermarket Carrefour puts up &#39;shrinkflation&#39; warning signs](https://www.bbc.co.uk/news/business-66809188)
 - [Is this fraud? And if so, to what extent am I responsible?](https://workplace.stackexchange.com/questions/193234/is-this-fraud-and-if-so-to-what-extent-am-i-responsible)
 - [Vegas casinos are still reeling from a massive cyberattack](https://www.fastcompany.com/90954120/vegas-casinos-are-still-reeling-from-a-massive-cyberattack)
-- [The Next Gen Database Servers Powering Let&#39;s Encrypt&lpar;2021&rpar;](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
-- [Peter Higgs: I wouldn&#39;t be productive enough for today&#39;s academic system &lpar;2013&rpar;](https://www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system)
-- [How to Escape the Startup Trough of Sorrow](https://www.briefmix.com/startup/positioning)
+- [Single-bladed floating wind turbine promises half the cost, more power](https://newatlas.com/energy/touchwind-floating-wind-turbine/)
+- [The Next Gen Database Servers Powering Let&#39;s Encrypt &lpar;2021&rpar;](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
