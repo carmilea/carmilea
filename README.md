@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fifteen Times Faster Than Llama 2: Introducing DeciLM LLM with Variable GQA](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/)
-- [Texas pays Bitcoin miner to not mine](https://www.texasmonthly.com/news-politics/texas-bitcoin-miner-riot-31-million-energy-credits/)
+- [Could Dementia in the National Security Workforce Create a Security Threat?](https://www.rand.org/pubs/perspectives/PEA1779-1.html)
+- [enron :: discover the power of WHY &lpar;2001&rpar;](https://enroncorp.com/corp/index.html)
+- [Faster Than Llama 2: DeciLM LLM with Variable GQA](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/)
 - [Rule for Beneficial Ownership Reporting &lpar;2022&rpar;](https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement)
-- [Record low Antarctic sea ice coverage indicates a new sea ice state](https://www.nature.com/articles/s43247-023-00961-9)
 - [Where did the Carter White House&#39;s solar panels go? &lpar;2010&rpar;](https://www.scientificamerican.com/article/carter-white-house-solar-panel-array/)
 <!-- BLOG-POST-LIST:END -->
 
