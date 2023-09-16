@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Converge &lpar;YC S23&rpar; is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
+- [How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
 - [Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
 - [The Meaning of Liberalism &lpar;1938&rpar;](https://www.roberthjackson.org/speech-and-writing/the-meaning-of-liberalism/)
 - [Radiohead Public Library](https://radiohead.com/)
-- [Salesforce CEO goes back to being remote](https://fortune.com/2023/09/15/marc-benioff-salesforce-says-hes-remote-worker-office-return/)
-- [A Virus for the BBC Micro](https://popey.com/blog/2023/09/a-virus-for-the-bbc-micro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
