@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Percy Ludgate](https://en.wikipedia.org/wiki/Percy_Ludgate)
+- [The “Do Something About It” Club](https://chavanniclass.com/2023/09/16/48-the-do-something-about-it-club/)
+- [People Are Streaming Pirated Movies on TikTok, One Short Clip at a Time](https://www.wsj.com/tech/tiktok-pirated-movies-free-2cd9389a)
+- [Show HN: Android Hacker News Widget and App](https://play.google.com/store/apps/details?id=com.thirdgate.hackernews&hl=en_US)
 - [The Economic Cost of Populism](https://www.aeaweb.org/articles?id=10.1257/aer.20202045&from=f)
-- [Converge &lpar;YC S23&rpar; is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
-- [Pongs](https://pippinbarr.com/pongs/info/)
-- [GPT-4 is not getting worse &lpar;tests and a long rant&rpar;](https://coagulopath.com/gpt-4-is-not-getting-worse/)
-- [How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
 <!-- BLOG-POST-LIST:END -->
 
 ---
