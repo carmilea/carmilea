@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America&#39;s advanced manufacturing problem and how to fix it](https://americanaffairsjournal.org/2023/08/americas-advanced-manufacturing-problem-and-how-to-fix-it/)
+- [Adobe will charge “credits” for generative AI](https://helpx.adobe.com/firefly/using/generative-credits-faq.html)
 - [Lantern &lpar;YC W24&rpar; – Hiring Engineers to Build PostgreSQL Vector Database for AI](https://lantern-db.notion.site/lantern-db/Lantern-is-hiring-Core-Database-Engineers-396a612dcfdb4c9eb274670680c8d8b5)
 - [Linux on a MacBook Pro &lpar;M1 Pro&rpar;: How Good Is Asahi Now?](https://www.youtube.com/watch?v=ZFx6R26aRHw)
 - [Lodash just declared issue bankruptcy and closed every issue and open PR](https://twitter.com/danielcroe/status/1703127430523703432)
-- [Layoffs.fyi](https://layoffs.fyi/)
-- [Guidance: A guidance language for controlling large language models](https://github.com/guidance-ai/guidance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
