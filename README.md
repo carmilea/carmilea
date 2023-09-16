@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Converge &lpar;YC S23&rpar; is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
+- [Pongs](https://pippinbarr.com/pongs/info/)
+- [GPT-4 is not getting worse &lpar;tests and a long rant&rpar;](https://coagulopath.com/gpt-4-is-not-getting-worse/)
 - [How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
 - [Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
-- [The Meaning of Liberalism &lpar;1938&rpar;](https://www.roberthjackson.org/speech-and-writing/the-meaning-of-liberalism/)
-- [Radiohead Public Library](https://radiohead.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
