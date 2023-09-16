@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing the housing crisis is not rocket science. “Minneapolis has been build](https://twitter.com/scienceisstrat1/status/1702663125613301785)
-- [Boring Crypto, from Daniel J. Bernstein &lpar;2012&rpar; [pdf]](https://cr.yp.to/talks/2015.10.05/slides-djb-20151005-a4.pdf)
-- [Ploomber &lpar;YC W22&rpar; Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber/jobs)
-- [BtrBlocks: Efficient Columnar Compression for Data Lakes [pdf]](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf)
-- [Show HN: exaequOS - a new OS running in a web browser](https://www.exaequos.com)
+- [Dire Warnings About Libya Dams Went Unheeded](https://www.nytimes.com/2023/09/16/world/middleeast/libya-dams-warnings.html)
+- [Activists Have One Simple Goal: Abolish the Cruise Industry](https://www.thenation.com/article/world/cruise-ships-marseille-stop-croisieres/)
+- [The Triassic-Jurassic Extinction](https://johncarlosbaez.wordpress.com/2023/09/16/the-triassic-jurassic-extinction-event/)
+- [NASA clears the air: No evidence that UFOs are aliens](https://theconversation.com/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial-213528)
+- [Observations on Credit and Lending Practices in Ur III Mesopotamia &lpar;2004&rpar; [pdf]](https://www.sfu.ca/~poitras/jesho_UR_14.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
