@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rule for Beneficial Ownership Reporting &lpar;2022&rpar;](https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement)
+- [Where did the Carter White House&#39;s solar panels go? &lpar;2010&rpar;](https://www.scientificamerican.com/article/carter-white-house-solar-panel-array/)
 - [“Most notorious” illegal shadow library &lpar;LibGen&rpar; sued by textbook publishers](https://arstechnica.com/tech-policy/2023/09/most-notorious-illegal-shadow-library-sued-by-textbook-publishers/)
-- [MDMA-assisted therapy for PTSD: A randomized, placebo-controlled phase 3 trial](https://www.nature.com/articles/s41591-023-02565-4)
+- [Johnny Cash Has Been Everywhere &lpar;Man&rpar;](http://www.johnnycashhasbeeneverywhere.com/)
 - [“Inverse vaccine” shows potential to treat MS and other autoimmune diseases](https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases)
-- [Birds with more complex vocal skills are better problem-solvers](https://www.sciencenews.org/article/birds-complex-vocal-skills-problem-solvers)
-- [Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
