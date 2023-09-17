@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A High Throughput B+tree for SIMD Architectures [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
 - [Are the Longevity Benefits of Acarbose Rooted in Its Role on the Gut Microbiota?](https://gethealthspan.com/blog/articles/acarbose-longevity-benefits-gut-microbiota/n3jokanbseg1f1apq7wt3/)
-- [California woman loses limbs after battling bacterial infection from tilapia](https://www.kron4.com/news/bay-area/san-jose-woman-loses-limbs-battling-bacterial-infection-from-tilapia/)
 - [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
 - [The Fossil Wrist PDA becomes a tiny Gopher client](http://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
-- [Antarctic sea-ice at &#39;mind-blowing&#39; low alarms experts](https://www.bbc.com/news/science-environment-66724246)
+- [Pirates of the Caribbean &lpar;Metric Edition&rpar; &lpar;2017&rpar;](https://www.nist.gov/blogs/taking-measure/pirates-caribbean-metric-edition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
