@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Comp.lang.c is now full of spam from Google Groups](https://groups.google.com/g/comp.lang.c)
+- [Changing the Rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
+- [Linear Book Scanner – The open-source automatic book scanner](https://linearbookscanner.org/)
+- [Qualcomm: What is RISC-V, and why we&#39;re unlocking its potential](https://www.qualcomm.com/news/onq/2023/09/what-is-risc-v-and-why-were-unlocking-its-potential)
 - [Thinking in a foreign language improves decision-making](https://www.theguardian.com/science/2023/sep/17/how-learning-thinking-in-a-foreign-language-improves-decision-making)
-- [A trip to the dried-up Kakhovka Reservoir](https://www.spiegel.de/international/world/russia-s-scorched-earth-policy-in-ukraine-a-trip-to-the-dried-up-kakhovka-reservoir-a-992aef1d-f4a7-4fbf-84a2-74c5d93b6566)
-- [Unity&#39;s Trap](https://www.pentadact.com/2023-09-16-unitys-trap/)
-- [CVE-2022-32947: I hacked macOS](https://asahilina.net/agx-exploit/)
-- [Fireball over Iceland](https://apod.nasa.gov/apod/ap230916.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
