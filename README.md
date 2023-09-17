@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s the Breakfast of Champions No More: Cereal Is in Long-Term Decline](https://www.wsj.com/finance/investing/cereal-decline-breakfast-trend-6dd591e8)
+- [Sam Bankman-Fried’s Elite Parents Enabled His Crypto Empire](https://www.bloomberg.com/news/features/2023-09-14/sam-bankman-fried-s-parents-did-they-enable-ftx-s-rise)
 - [Top VR Co &lpar;Gym Class – YC W22&rpar; Is Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
+- [California sues 5 major oil co&#39;s for campaign of deception about climate change](https://www.latimes.com/california/story/2023-09-16/california-sues-five-major-oil-companies-for-lying-about-climate-change)
 - [Spellburst: LLM–Powered Interactive Canvas](https://arxiv.org/abs/2308.03921)
-- [Insiders reveal major problems at lab-grown meat startup](https://www.wired.com/story/upside-foods-lab-grown-chicken/)
-- [Hot Chips 2023: AMD’s Phoenix SoC](https://chipsandcheese.com/2023/09/16/hot-chips-2023-amds-phoenix-soc/)
-- [Satya Nadella: “I want to use this tactically vs. GOOG/AAPL” &lpar;2022&rpar;](https://twitter.com/TechEmails/status/1703172745893404913)
 <!-- BLOG-POST-LIST:END -->
 
 ---
