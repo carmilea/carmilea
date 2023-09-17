@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Illinois to become first US state to abolish cash bail](https://www.ft.com/content/b76a7787-fd9c-44de-b411-3bd67473df54)
+- [AWS IPv4 Estate Now Worth $4.5B](https://toonk.io/index.html)
 - [Geographic ‘hot spots’ for cigarette and firearm deaths in the U.S.](https://www.fau.edu/newsdesk/articles/geographic-hot-spots-firearms-smoking.php)
 - [Hush – Noiseless Browsing for Safari](https://oblador.github.io/hush/)
 - [Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062)
