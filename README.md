@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stay Away from Politics](https://www.lrb.co.uk/the-paper/v45/n18/william-davies/stay-away-from-politics)
+- [How the fentanyl crisis&#39; fourth wave has hit every corner of the US](https://www.bbc.com/news/world-us-canada-66826895)
+- [Fireball over Iceland](https://apod.nasa.gov/apod/ap230916.html)
 - [Antarctic sea-ice at &#39;mind-blowing&#39; low alarms experts](https://www.bbc.co.uk/news/science-environment-66724246)
-- [What Silicon Valley “Gets” about Software Engineers](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
 - [A High Throughput B+tree for SIMD Architectures &lpar;2020&rpar; [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
-- [Are the Longevity Benefits of Acarbose Rooted in Its Role on the Gut Microbiota?](https://gethealthspan.com/blog/articles/acarbose-longevity-benefits-gut-microbiota/n3jokanbseg1f1apq7wt3/)
+- [Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
