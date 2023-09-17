@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Comp.lang.c is now full of spam from Google Groups](https://groups.google.com/g/comp.lang.c)
-- [Changing the Rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
-- [Linear Book Scanner – The open-source automatic book scanner](https://linearbookscanner.org/)
-- [Qualcomm: What is RISC-V, and why we&#39;re unlocking its potential](https://www.qualcomm.com/news/onq/2023/09/what-is-risc-v-and-why-were-unlocking-its-potential)
-- [Thinking in a foreign language improves decision-making](https://www.theguardian.com/science/2023/sep/17/how-learning-thinking-in-a-foreign-language-improves-decision-making)
+- [Fewer workers, higher pay, robots: aerospace suppliers push automation](https://www.seattletimes.com/business/boeing-aerospace/fewer-workers-higher-pay-robots-aerospace-suppliers-push-automation/)
+- [DeepMind cofounder: Generative AI is just a phase. What’s next is interactive AI](https://www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/)
+- [More writers sue OpenAI for copyright infringement over AI training](https://www.reuters.com/technology/more-writers-sue-openai-copyright-infringement-over-ai-training-2023-09-11/)
+- [Unity&#39;s Just Not into You, Indie Developer](https://www.gamedeveloper.com/blogs/unity-s-just-not-into-you-indie-developer)
+- [Close to 2k Environmental Activists Killed over Last Decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
