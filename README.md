@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Stripe Destroyed Our Business after 7 months of building our product](https://news.ycombinator.com/item?id=37546468)
-- [Inside the Trillion-Dollar Climate Solutions Industry](https://www.bloomberg.com/news/articles/2023-09-17/inside-the-trillion-dollar-climate-solutions-industry)
-- [DeepMind cofounder: Generative AI is just a phase. What’s next is interactive AI](https://www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/)
-- [More writers sue OpenAI for copyright infringement over AI training](https://www.reuters.com/technology/more-writers-sue-openai-copyright-infringement-over-ai-training-2023-09-11/)
-- [Close to 2k environmental activists killed over last decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
+- [CatalaLang/catala: Programming language for law specification](https://github.com/CatalaLang/catala)
+- [Things that do not exist in Dimension Apple](https://maxread.substack.com/p/a-literary-history-of-fake-texts)
+- [Browsing like it&#39;s 1994: Integrating a Mac SE, ImageWriter II into a modern LAN](https://connor.zip/posts/2023-08-04-localtalk-ethernet)
+- [The Eunuch Admiral &lpar;2011&rpar;](https://alumni.berkeley.edu/california-magazine/fall-2011-the-good-fight/eunuch-admiral/)
+- [Grabbing Dinner](https://gardenandgun.com/feature/grabbing-dinner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
