@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thinking in a foreign language improves decision-making](https://www.theguardian.com/science/2023/sep/17/how-learning-thinking-in-a-foreign-language-improves-decision-making)
 - [A trip to the dried-up Kakhovka Reservoir](https://www.spiegel.de/international/world/russia-s-scorched-earth-policy-in-ukraine-a-trip-to-the-dried-up-kakhovka-reservoir-a-992aef1d-f4a7-4fbf-84a2-74c5d93b6566)
 - [Unity&#39;s Trap](https://www.pentadact.com/2023-09-16-unitys-trap/)
-- [New York Times doesn’t want its stories archived](https://theintercept.com/2023/09/17/new-york-times-website-internet-archive/)
 - [CVE-2022-32947: I hacked macOS](https://asahilina.net/agx-exploit/)
 - [Fireball over Iceland](https://apod.nasa.gov/apod/ap230916.html)
 <!-- BLOG-POST-LIST:END -->
