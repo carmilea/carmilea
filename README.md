@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A trip to the dried-up Kakhovka Reservoir](https://www.spiegel.de/international/world/russia-s-scorched-earth-policy-in-ukraine-a-trip-to-the-dried-up-kakhovka-reservoir-a-992aef1d-f4a7-4fbf-84a2-74c5d93b6566)
+- [Unity&#39;s Trap](https://www.pentadact.com/2023-09-16-unitys-trap/)
+- [New York Times doesn’t want its stories archived](https://theintercept.com/2023/09/17/new-york-times-website-internet-archive/)
+- [CVE-2022-32947: I hacked macOS](https://asahilina.net/agx-exploit/)
 - [Fireball over Iceland](https://apod.nasa.gov/apod/ap230916.html)
-- [A High Throughput B+tree for SIMD Architectures &lpar;2020&rpar; [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
-- [Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
-- [Are the Longevity Benefits of Acarbose Rooted in Its Role on the Gut Microbiota?](https://gethealthspan.com/blog/articles/acarbose-longevity-benefits-gut-microbiota/n3jokanbseg1f1apq7wt3/)
-- [Tcherepnin: Basic Elements of My Musical Language](http://www.tcherepnin.com/alex/basic_elem3.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
