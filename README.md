@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A High Throughput B+tree for SIMD Architectures [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
+- [What Silicon Valley “Gets” about Software Engineers](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
+- [A High Throughput B+tree for SIMD Architectures &lpar;2020&rpar; [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
 - [Are the Longevity Benefits of Acarbose Rooted in Its Role on the Gut Microbiota?](https://gethealthspan.com/blog/articles/acarbose-longevity-benefits-gut-microbiota/n3jokanbseg1f1apq7wt3/)
-- [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
-- [The Fossil Wrist PDA becomes a tiny Gopher client](http://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
-- [Pirates of the Caribbean &lpar;Metric Edition&rpar; &lpar;2017&rpar;](https://www.nist.gov/blogs/taking-measure/pirates-caribbean-metric-edition)
+- [Tcherepnin: Basic Elements of My Musical Language](http://www.tcherepnin.com/alex/basic_elem3.htm)
+- [Americas richest 10% is responsible for 40% of its planet heating pollution](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000190)
 <!-- BLOG-POST-LIST:END -->
 
 ---
