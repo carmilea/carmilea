@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turkish man arrested over posting photo to Reddit with alcohol in mosque](https://www.duvarenglish.com/turkish-man-arrested-over-posting-photo-with-alcoholic-beverage-in-mosque-news-63000)
+- [NASA&#39;s OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
+- [LaTeX for publishing tabletop role-playing games](https://vladar.bearblog.dev/latex-for-tabletop/)
 - [CatalaLang/catala: Programming language for law specification](https://github.com/CatalaLang/catala)
 - [Things that do not exist in Dimension Apple](https://maxread.substack.com/p/a-literary-history-of-fake-texts)
-- [Browsing like it&#39;s 1994: Integrating a Mac SE, ImageWriter II into a modern LAN](https://connor.zip/posts/2023-08-04-localtalk-ethernet)
-- [The Eunuch Admiral &lpar;2011&rpar;](https://alumni.berkeley.edu/california-magazine/fall-2011-the-good-fight/eunuch-admiral/)
-- [Grabbing Dinner](https://gardenandgun.com/feature/grabbing-dinner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
