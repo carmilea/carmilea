@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [USA built 151 Aircraft carriers in WWII](https://en.wikipedia.org/wiki/Escort_carrier)
-- [Running Linux on Xilinx / AMD FPGA Softcore Example Design](https://www.hackster.io/adam-taylor/embedded-linux-on-microblaze-1a7573)
-- [Lead Toxicity from Ayurvedic Medicines](https://www.cmaj.ca/content/195/30/E1010)
-- [NASA&#39;s OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
-- [LaTeX for tabletop](https://vladar.bearblog.dev/latex-for-tabletop/)
+- [Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062)
+- [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
+- [The Data Science Manifesto &lpar;2020&rpar;](http://datasciencemanifesto.org/)
+- [Modder Turns Framework Laptop PCB into a Handheld Gaming PC](https://www.tomshardware.com/news/modder-turns-framework-laptop-pcb-into-a-handheld-gaming-pc)
+- [The Home Assistant Green is here](https://www.theverge.com/23875557/home-assistant-green-announcement-price-specs-ten-year-anniversary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
