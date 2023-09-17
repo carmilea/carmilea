@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Top VR Co &lpar;Gym Class – YC W22&rpar; Is Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
+- [Spellburst: LLM–Powered Interactive Canvas](https://arxiv.org/abs/2308.03921)
+- [Insiders reveal major problems at lab-grown meat startup](https://www.wired.com/story/upside-foods-lab-grown-chicken/)
+- [Hot Chips 2023: AMD’s Phoenix SoC](https://chipsandcheese.com/2023/09/16/hot-chips-2023-amds-phoenix-soc/)
 - [Satya Nadella: “I want to use this tactically vs. GOOG/AAPL” &lpar;2022&rpar;](https://twitter.com/TechEmails/status/1703172745893404913)
-- [America&#39;s advanced manufacturing problem and how to fix it](https://americanaffairsjournal.org/2023/08/americas-advanced-manufacturing-problem-and-how-to-fix-it/)
-- [Adobe will charge “credits” for generative AI](https://helpx.adobe.com/firefly/using/generative-credits-faq.html)
-- [Lantern &lpar;YC W24&rpar; – Hiring Engineers to Build PostgreSQL Vector Database for AI](https://lantern-db.notion.site/lantern-db/Lantern-is-hiring-Core-Database-Engineers-396a612dcfdb4c9eb274670680c8d8b5)
-- [Linux on a MacBook Pro &lpar;M1 Pro&rpar;: How Good Is Asahi Now?](https://www.youtube.com/watch?v=ZFx6R26aRHw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
