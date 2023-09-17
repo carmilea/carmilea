@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
+- [The Fossil Wrist PDA becomes a tiny Gopher client](http://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
 - [Pirates of the Caribbean &lpar;Metric Edition&rpar; &lpar;2017&rpar;](https://www.nist.gov/blogs/taking-measure/pirates-caribbean-metric-edition)
 - [Gym Class VR &lpar;YC W22&rpar; Is Hiring a Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
 - [Spellburst: LLM–Powered Interactive Canvas](https://arxiv.org/abs/2308.03921)
-- [AMD’s Phoenix SoC](https://chipsandcheese.com/2023/09/16/hot-chips-2023-amds-phoenix-soc/)
-- [“I want to use this tactically vs. GOOG/AAPL” &lpar;2022&rpar;](https://twitter.com/TechEmails/status/1703172745893404913)
 <!-- BLOG-POST-LIST:END -->
 
 ---
