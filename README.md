@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fewer workers, higher pay, robots: aerospace suppliers push automation](https://www.seattletimes.com/business/boeing-aerospace/fewer-workers-higher-pay-robots-aerospace-suppliers-push-automation/)
+- [Show HN: Stripe Destroyed Our Business after 7 months of building our product](https://news.ycombinator.com/item?id=37546468)
+- [Inside the Trillion-Dollar Climate Solutions Industry](https://www.bloomberg.com/news/articles/2023-09-17/inside-the-trillion-dollar-climate-solutions-industry)
 - [DeepMind cofounder: Generative AI is just a phase. What’s next is interactive AI](https://www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/)
 - [More writers sue OpenAI for copyright infringement over AI training](https://www.reuters.com/technology/more-writers-sue-openai-copyright-infringement-over-ai-training-2023-09-11/)
-- [Unity&#39;s Just Not into You, Indie Developer](https://www.gamedeveloper.com/blogs/unity-s-just-not-into-you-indie-developer)
-- [Close to 2k Environmental Activists Killed over Last Decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
+- [Close to 2k environmental activists killed over last decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
