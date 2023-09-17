@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What do we do with the Twitter-shaped hole in the internet?](https://chelseatroy.com/2023/09/15/what-do-we-do-with-the-twitter-shaped-hole-in-the-internet/)
-- [UK’s largest steelworks given £500M to decarbonise](https://eandt.theiet.org/content/articles/2023/09/uk-s-largest-steelworks-given-500m-to-decarbonise-but-3000-jobs-could-be-lost/)
+- [USA built 151 Aircraft carriers in WWII](https://en.wikipedia.org/wiki/Escort_carrier)
+- [Running Linux on Xilinx / AMD FPGA Softcore Example Design](https://www.hackster.io/adam-taylor/embedded-linux-on-microblaze-1a7573)
+- [Lead Toxicity from Ayurvedic Medicines](https://www.cmaj.ca/content/195/30/E1010)
 - [NASA&#39;s OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
-- [LaTeX for publishing tabletop role-playing games](https://vladar.bearblog.dev/latex-for-tabletop/)
-- [CatalaLang/catala: Programming language for law specification](https://github.com/CatalaLang/catala)
+- [LaTeX for tabletop](https://vladar.bearblog.dev/latex-for-tabletop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
