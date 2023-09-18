@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is Booz Allen Renting Us Back Our Own National Parks?](https://www.thebignewsletter.com/p/why-is-booz-allen-renting-us-back)
+- [So let’s talk about this Wayland thing](https://pointieststick.com/2023/09/17/so-lets-talk-about-this-wayland-thing/)
+- [A.I. and the Next Generation of Drone Warfare](https://www.newyorker.com/news/news-desk/ai-and-the-next-generation-of-drone-warfare)
 - [Hush – Noiseless Browsing for Safari](https://oblador.github.io/hush/)
 - [Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062)
 - [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
-- [Wasmer – Run, Publish and Deploy any code, anywhere](https://wasmer.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
