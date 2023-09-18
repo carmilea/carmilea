@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I asked Bard to roast my landing page. And roast it did](https://pasteboard.co/xUYfUtN6lHzZ.png)
 - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
-- [Apple CEO Tim Cook on creating a clean energy future](https://www.cbsnews.com/news/apple-ceo-tim-cook-on-creating-a-clean-energy-future/)
+- [How Jeff Geerling almost broke MrBeast&#39;s 1-100 video [video]](https://www.youtube.com/watch?v=wsV_C9cMf8A)
+- [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
 - [Pollution in 1/8 &lpar;2010&rpar;](https://labs.ripe.net/author/franz/pollution-in-18/)
-- [How FoundationDB works and why it works &lpar;2021&rpar;](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
-- [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
