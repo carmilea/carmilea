@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 - [Apple CEO Tim Cook on creating a clean energy future](https://www.cbsnews.com/news/apple-ceo-tim-cook-on-creating-a-clean-energy-future/)
-- [Pollution in 1/8](https://labs.ripe.net/author/franz/pollution-in-18/)
-- [iPhone 15 Pro facts and estimates](https://leancrew.com/all-this/2023/09/iphone-15-pro-facts-and-estimates/)
+- [Pollution in 1/8 &lpar;2010&rpar;](https://labs.ripe.net/author/franz/pollution-in-18/)
 - [How FoundationDB works and why it works &lpar;2021&rpar;](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
 <!-- BLOG-POST-LIST:END -->
