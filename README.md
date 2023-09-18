@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unix shells are generally not viable access control mechanisms any more](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/UnixShellsNoMoreAccessControl)
-- [I asked Bard to roast my landing page. And roast it did](https://pasteboard.co/xUYfUtN6lHzZ.png)
-- [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
-- [How Jeff Geerling almost broke MrBeast&#39;s 1-100 video [video]](https://www.youtube.com/watch?v=wsV_C9cMf8A)
-- [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
+- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37555031)
+- [When Zig Outshines Rust – Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
+- [Ask HN: How to do literal web searches after Google destroyed the “ ” feature?](https://news.ycombinator.com/item?id=37554736)
+- [Humans can feel empathic embarrassment towards robots, finds VR study](https://techxplore.com/news/2023-09-humans-empathic-robots-virtual-reality.html)
+- [NSA’s Backdoor Key &lpar;2002&rpar;](http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
