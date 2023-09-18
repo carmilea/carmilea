@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unix shells are generally not viable access control mechanisms any more](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/UnixShellsNoMoreAccessControl)
 - [I asked Bard to roast my landing page. And roast it did](https://pasteboard.co/xUYfUtN6lHzZ.png)
 - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 - [How Jeff Geerling almost broke MrBeast&#39;s 1-100 video [video]](https://www.youtube.com/watch?v=wsV_C9cMf8A)
 - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
-- [Pollution in 1/8 &lpar;2010&rpar;](https://labs.ripe.net/author/franz/pollution-in-18/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
