@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Striking auto workers want a 40% pay increase–the same rate their CEOs’ pay grew](https://www.cnbc.com/2023/09/15/striking-uaw-auto-workers-want-a-40percent-pay-increase-how-much-they-make-now.html)
 - [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
-- [Demands for Tips Are Up. Actual Tipping, Not So Much](https://www.wsj.com/personal-finance/demands-for-tips-are-up-actual-tipping-not-so-much-2ee1908b)
-- [Godot is not the new Unity – The anatomy of a Godot API call](https://sampruden.github.io/posts/godot-is-not-the-new-unity/)
-- [FTC Warns Pharma: May Go After Them for Sham Patents Designed to Delay Generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
-- [Citing “rapid evolution of generative AI,” Amazon limits new Kindle books](https://www.kdpcommunity.com/s/article/Update-on-KDP-Title-Creation-Limits?language=en_US&forum=KDP%20Forum)
+- [FTC warns pharma companies about sham patent listings designed to delay generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
+- [Update on KDP Title Creation Limits](https://www.kdpcommunity.com/s/article/Update-on-KDP-Title-Creation-Limits?language=en_US&forum=KDP%20Forum)
+- [UK Post Office: 700 Horizon software scandal victims to receive £600k each](https://www.theguardian.com/business/2023/sep/18/post-office-horizon-scandal-victims-compensation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
