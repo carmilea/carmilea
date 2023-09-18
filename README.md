@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Create non-game apps with Godot Engine](https://simondalvai.org/blog/godot-apps/)
+- [Godot is not the new Unity – The anatomy of a Godot API call](https://sampruden.github.io/posts/godot-is-not-the-new-unity/)
+- [Citing “rapid evolution of generative AI,” Amazon limits new Kindle books](https://www.kdpcommunity.com/s/article/Update-on-KDP-Title-Creation-Limits?language=en_US&forum=KDP%20Forum)
+- [Show HN: macOS GUI for running LLMs locally](https://www.avapls.com/)
 - [Apple TV, now with more Tailscale](https://tailscale.com/blog/apple-tv/)
-- [Trunk-based development vs. long-lived feature branches](https://ardalis.com/trunk-based-development-vs-long-lived-feature-branches/)
-- [A Bus Driver Killed a Man, the City Blamed Tech](https://www.theindustry.pw/p/cruise-sf-fire-chief)
-- [Comparing Datadog and New Relic&#39;s support for OpenTelemetry data](https://signoz.io/blog/is-opentelemetry-a-first-class-citizen-in-your-dashboard-a-datadog-and-newrelic-comparison/)
+- [Making IIIF Official at the Internet Archive](https://blog.archive.org/2023/09/18/making-iiif-official-at-the-internet-archive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
