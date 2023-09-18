@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome Feature: IP Protection](https://chromestatus.com/feature/5111460239245312)
 - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
-- [Lausd to purchase 180 electric school buses](https://www.dailynews.com/2023/05/02/lausd-to-purchase-180-electric-school-buses/)
-- [How Much Garden You Would Need to 100% Survive On](https://lifehacker.com/how-much-garden-you-would-need-to-100-survive-on-1848829190)
-- [So let’s talk about this Wayland thing](https://pointieststick.com/2023/09/17/so-lets-talk-about-this-wayland-thing/)
+- [LAUSD to purchase 180 electric school buses](https://www.dailynews.com/2023/05/02/lausd-to-purchase-180-electric-school-buses/)
+- [How much garden you would need to survive on](https://lifehacker.com/how-much-garden-you-would-need-to-100-survive-on-1848829190)
+- [Plants don’t have ears. But they can still detect sound](https://www.economist.com/science-and-technology/2023/09/06/plants-dont-have-ears-but-they-can-still-detect-sound)
+- [AWS IPv4 Estate Now Worth $4.5B](https://toonk.io/aws-ipv4-estate-now-worth-4-5-billion/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
