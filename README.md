@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Man Who Invented a Tech Used Billions of Times a Day Doesn&#39;t Get Credit for It](https://www.entrepreneur.com/science-technology/the-barcode-inventor-didnt-get-credit-now-hes/458787)
-- [No evidence for angiosperm mass extinction at the Cretaceous–Palaeogene boundary](https://royalsocietypublishing.org/doi/10.1098/rsbl.2023.0314)
-- [Slums in Delhi were flattened before the G20 summit](https://www.reuters.com/graphics/G20-SUMMIT/SLUM/zdpxrxoaypx/)
-- [Study: U.S. dietary recommendations for protein intake are too low](https://bigthink.com/health/us-dietary-protein-recommendations-too-low/)
-- [Replanting Logged Forests with Diverse Seedlings Accelerates Restoration](https://www.technologynetworks.com/applied-sciences/news/replanting-logged-forests-with-diverse-mixtures-of-seedlings-accelerates-restoration-378916)
+- [California&#39;s Delete Act will make erasing consumers&#39; data easier](https://www.techspot.com/news/100180-california-delete-act-make-erasing-consumers-data-easier.html)
+- [Creators of Argo CD Release New OSS Project Kargo for Next Gen Gitops](https://akuity.io/blog/introducing-kargo/)
+- [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
+- [TSMC tells vendors to delay chip equipment deliveries](https://www.reuters.com/technology/tsmc-tells-vendors-delay-chip-equipment-deliveries-sources-2023-09-15/)
+- [Paul McEnroe’s role in developing the UPC barcode hasn’t been fully acknowledged](https://www.entrepreneur.com/science-technology/the-barcode-inventor-didnt-get-credit-now-hes/458787)
 <!-- BLOG-POST-LIST:END -->
 
 ---
