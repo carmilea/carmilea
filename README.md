@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Holding Apple Accountable: The Future of the Internet Economy Depends on It](https://newsroom.spotify.com/2023-09-18/dustee-jenkins-holding-apple-accountable-internet-economy-fairness-digital-markets-act/)
-- [The truth about nitro-meats: my seven-year search for better bacon](https://www.theguardian.com/food/2023/sep/18/the-truth-about-nitro-meats-my-seven-year-search-for-better-bacon~)
-- [California&#39;s Delete Act will make erasing consumers&#39; data easier](https://www.techspot.com/news/100180-california-delete-act-make-erasing-consumers-data-easier.html)
-- [Creators of Argo CD Release New OSS Project Kargo for Next Gen Gitops](https://akuity.io/blog/introducing-kargo/)
-- [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
+- [Paint on Windows is getting layers and transparency support](https://blogs.windows.com/windows-insider/2023/09/18/paint-app-update-adding-support-for-layers-and-transparency-begins-rolling-out-to-windows-insiders/)
+- [iOS 17 is available today](https://www.apple.com/newsroom/2023/09/ios-17-is-available-today/)
+- [The joys of maintenance programming &lpar;2011&rpar;](https://typicalprogrammer.com/the-joys-of-maintenance-programming)
+- [Self-supervised learning: The dark matter of intelligence &lpar;2021&rpar;](https://ai.meta.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
+- [Ozempic Can Cause Major Loss of Muscle Mass and Reduce Bone Density](https://www.healthline.com/health-news/ozempic-muscle-mass-loss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
