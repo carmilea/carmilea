@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore ChatGPT Dev Day @ AWS Singapore](https://www.youtube.com/watch?v=p7Q_8ZKHsjg)
 - [Launch OpenAI ChatGPT LLM Apps in 3 Simple Steps](https://www.youtube.com/watch?v=9vAuGe51iDc)
 - [How to Build a ChatGPT App Using JSON Data](https://www.youtube.com/watch?v=q_JU0Aqo_Vs)
 - [How to Build an OpenAI LLM on a Private Network with AWS](https://www.youtube.com/watch?v=6LGGQERxrQo)
 - [How to Build a Sentiment Analysis App with Hugging Face](https://www.youtube.com/watch?v=58N0QfDSdhY)
-- [How to Build a NoCode LLM App with Flowise AI](https://www.youtube.com/watch?v=E4zzrBhmcuk)
 <!-- YOUTUBE:END -->
 
 
