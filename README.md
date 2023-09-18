@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS IPv4 Estate Now Worth $4.5B](https://toonk.io/index.html)
-- [Geographic ‘hot spots’ for cigarette and firearm deaths in the U.S.](https://www.fau.edu/newsdesk/articles/geographic-hot-spots-firearms-smoking.php)
+- [Why Is Booz Allen Renting Us Back Our Own National Parks?](https://www.thebignewsletter.com/p/why-is-booz-allen-renting-us-back)
 - [Hush – Noiseless Browsing for Safari](https://oblador.github.io/hush/)
 - [Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062)
 - [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
+- [Wasmer – Run, Publish and Deploy any code, anywhere](https://wasmer.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
