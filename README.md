@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Military Asks for Help Locating Missing F-35 Fighter Jet](https://time.com/6315261/missing-military-f35-jet/)
-- [Colorado peak linked to 1864 atrocity has been renamed Mount Blue Sky](https://www.cnn.com/2023/09/16/us/mount-blue-sky-renamed-evans-cheyenne-arapaho/index.html)
-- [“Let&#39;s build a homemade billing system”, now you have four problems](https://www.getlago.com/blog/the-4-biggest-problems-with-homemade-billing-systems)
-- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37555031)
-- [When Zig Outshines Rust – Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
+- [Man Who Invented a Tech Used Billions of Times a Day Doesn&#39;t Get Credit for It](https://www.entrepreneur.com/science-technology/the-barcode-inventor-didnt-get-credit-now-hes/458787)
+- [No evidence for angiosperm mass extinction at the Cretaceous–Palaeogene boundary](https://royalsocietypublishing.org/doi/10.1098/rsbl.2023.0314)
+- [Slums in Delhi were flattened before the G20 summit](https://www.reuters.com/graphics/G20-SUMMIT/SLUM/zdpxrxoaypx/)
+- [Study: U.S. dietary recommendations for protein intake are too low](https://bigthink.com/health/us-dietary-protein-recommendations-too-low/)
+- [Replanting Logged Forests with Diverse Seedlings Accelerates Restoration](https://www.technologynetworks.com/applied-sciences/news/replanting-logged-forests-with-diverse-mixtures-of-seedlings-accelerates-restoration-378916)
 <!-- BLOG-POST-LIST:END -->
 
 ---
