@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT 3.5 vs. Llama 2 fine-tuning: A Comprehensive Comparison](https://ragntune.com/blog/gpt3.5-vs-llama2-finetuning)
+- [Nushell and Uutils](https://www.nushell.sh/blog/2023-09-05-why-uu.html)
+- [Americans Can Barely Afford Homes](https://www.bloomberg.com/news/articles/2023-09-18/biden-2024-campaign-faces-risk-in-swing-states-with-dwindling-home-affordability)
+- [Astronomy Photographer of the Year 2023 winners](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2023)
 - [Paint on Windows is getting layers and transparency support](https://blogs.windows.com/windows-insider/2023/09/18/paint-app-update-adding-support-for-layers-and-transparency-begins-rolling-out-to-windows-insiders/)
-- [iOS 17 is available today](https://www.apple.com/newsroom/2023/09/ios-17-is-available-today/)
-- [The joys of maintenance programming &lpar;2011&rpar;](https://typicalprogrammer.com/the-joys-of-maintenance-programming)
-- [Self-supervised learning: The dark matter of intelligence &lpar;2021&rpar;](https://ai.meta.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
-- [Ozempic Can Cause Major Loss of Muscle Mass and Reduce Bone Density](https://www.healthline.com/health-news/ozempic-muscle-mass-loss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
