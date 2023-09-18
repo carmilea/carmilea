@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhone 15 Pro 10% lighter but 15% lower rotational inertia because of edge mass](https://leancrew.com/all-this/2023/09/iphone-15-pro-facts-and-estimates/)
+- [How FoundationDB works and why it works &lpar;2021&rpar;](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
 - [Plants don’t have ears. But they can still detect sound](https://www.economist.com/science-and-technology/2023/09/06/plants-dont-have-ears-but-they-can-still-detect-sound)
 - [AWS IPv4 Estate Now Worth $4.5B](https://toonk.io/aws-ipv4-estate-now-worth-4-5-billion/index.html)
-- [A.I. and the Next Generation of Drone Warfare](https://www.newyorker.com/news/news-desk/ai-and-the-next-generation-of-drone-warfare)
-- [Hush – Noiseless Browsing for Safari](https://oblador.github.io/hush/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
