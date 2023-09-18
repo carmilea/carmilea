@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome Feature: IP Protection](https://chromestatus.com/feature/5111460239245312)
+- [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
+- [Lausd to purchase 180 electric school buses](https://www.dailynews.com/2023/05/02/lausd-to-purchase-180-electric-school-buses/)
+- [How Much Garden You Would Need to 100% Survive On](https://lifehacker.com/how-much-garden-you-would-need-to-100-survive-on-1848829190)
 - [So let’s talk about this Wayland thing](https://pointieststick.com/2023/09/17/so-lets-talk-about-this-wayland-thing/)
-- [A.I. and the Next Generation of Drone Warfare](https://www.newyorker.com/news/news-desk/ai-and-the-next-generation-of-drone-warfare)
-- [Hush – Noiseless Browsing for Safari](https://oblador.github.io/hush/)
-- [Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062)
-- [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
 <!-- BLOG-POST-LIST:END -->
 
 ---
