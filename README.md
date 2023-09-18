@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
+- [Demands for Tips Are Up. Actual Tipping, Not So Much](https://www.wsj.com/personal-finance/demands-for-tips-are-up-actual-tipping-not-so-much-2ee1908b)
 - [Godot is not the new Unity – The anatomy of a Godot API call](https://sampruden.github.io/posts/godot-is-not-the-new-unity/)
+- [FTC Warns Pharma: May Go After Them for Sham Patents Designed to Delay Generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
 - [Citing “rapid evolution of generative AI,” Amazon limits new Kindle books](https://www.kdpcommunity.com/s/article/Update-on-KDP-Title-Creation-Limits?language=en_US&forum=KDP%20Forum)
-- [Show HN: macOS GUI for running LLMs locally](https://www.avapls.com/)
-- [Apple TV, now with more Tailscale](https://tailscale.com/blog/apple-tv/)
-- [Making IIIF Official at the Internet Archive](https://blog.archive.org/2023/09/18/making-iiif-official-at-the-internet-archive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
