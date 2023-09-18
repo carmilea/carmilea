@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Holding Apple Accountable: The Future of the Internet Economy Depends on It](https://newsroom.spotify.com/2023-09-18/dustee-jenkins-holding-apple-accountable-internet-economy-fairness-digital-markets-act/)
+- [The truth about nitro-meats: my seven-year search for better bacon](https://www.theguardian.com/food/2023/sep/18/the-truth-about-nitro-meats-my-seven-year-search-for-better-bacon~)
 - [California&#39;s Delete Act will make erasing consumers&#39; data easier](https://www.techspot.com/news/100180-california-delete-act-make-erasing-consumers-data-easier.html)
 - [Creators of Argo CD Release New OSS Project Kargo for Next Gen Gitops](https://akuity.io/blog/introducing-kargo/)
 - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
-- [US gov seeking comments on DCAT-US Schema v3.0](https://github.com/DOI-DO/dcat-us)
-- [TSMC tells vendors to delay chip equipment deliveries](https://www.reuters.com/technology/tsmc-tells-vendors-delay-chip-equipment-deliveries-sources-2023-09-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
