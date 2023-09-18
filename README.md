@@ -54,8 +54,8 @@
 - [California&#39;s Delete Act will make erasing consumers&#39; data easier](https://www.techspot.com/news/100180-california-delete-act-make-erasing-consumers-data-easier.html)
 - [Creators of Argo CD Release New OSS Project Kargo for Next Gen Gitops](https://akuity.io/blog/introducing-kargo/)
 - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
+- [US gov seeking comments on DCAT-US Schema v3.0](https://github.com/DOI-DO/dcat-us)
 - [TSMC tells vendors to delay chip equipment deliveries](https://www.reuters.com/technology/tsmc-tells-vendors-delay-chip-equipment-deliveries-sources-2023-09-15/)
-- [Paul McEnroe’s role in developing the UPC barcode hasn’t been fully acknowledged](https://www.entrepreneur.com/science-technology/the-barcode-inventor-didnt-get-credit-now-hes/458787)
 <!-- BLOG-POST-LIST:END -->
 
 ---
