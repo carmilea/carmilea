@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Military Asks for Help Locating Missing F-35 Fighter Jet](https://time.com/6315261/missing-military-f35-jet/)
+- [Colorado peak linked to 1864 atrocity has been renamed Mount Blue Sky](https://www.cnn.com/2023/09/16/us/mount-blue-sky-renamed-evans-cheyenne-arapaho/index.html)
+- [“Let&#39;s build a homemade billing system”, now you have four problems](https://www.getlago.com/blog/the-4-biggest-problems-with-homemade-billing-systems)
 - [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37555031)
 - [When Zig Outshines Rust – Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
-- [Ask HN: How to do literal web searches after Google destroyed the “ ” feature?](https://news.ycombinator.com/item?id=37554736)
-- [Humans can feel empathic embarrassment towards robots, finds VR study](https://techxplore.com/news/2023-09-humans-empathic-robots-virtual-reality.html)
-- [NSA’s Backdoor Key &lpar;2002&rpar;](http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
