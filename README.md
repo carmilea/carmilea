@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Starlink quietly lost over $250M in burned satellites this summer](https://tiblur.com/post/462038779695576304265368)
+- [Apple CEO Tim Cook on creating a clean energy future](https://www.cbsnews.com/news/apple-ceo-tim-cook-on-creating-a-clean-energy-future/)
+- [Pollution in 1/8](https://labs.ripe.net/author/franz/pollution-in-18/)
+- [iPhone 15 Pro facts and estimates](https://leancrew.com/all-this/2023/09/iphone-15-pro-facts-and-estimates/)
 - [How FoundationDB works and why it works &lpar;2021&rpar;](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
-- [Plants can detect sound](https://www.economist.com/science-and-technology/2023/09/06/plants-dont-have-ears-but-they-can-still-detect-sound)
-- [AWS IPv4 Estate Now Worth $4.5B](https://toonk.io/aws-ipv4-estate-now-worth-4-5-billion/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
