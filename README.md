@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I rewired my brain in six weeks](https://www.bbc.com/future/article/20230912-how-i-hacked-my-brain)
+- [How The iPhone 15 Pro camera works and why you’ll want to shoot 24MP photos](https://petapixel.com/2023/09/18/apple-explains-what-the-iphone-can-and-cant-do-and-why/)
+- [Windows Subsystem for Linux 2.0 release](https://github.com/microsoft/WSL/releases/tag/2.0.0)
 - [Tonga is running out of space for more than 30k abandoned cars](https://www.abc.net.au/news/science/2023-09-19/how-tonga-plans-to-recycle-its-mountain-of-scrap-cars/102614772)
-- [Tackling the Curse of Dimensionality with Physics-Informed Neural Networks](https://arxiv.org/abs/2307.12306)
-- [Your WiFi Can See You](https://mrereports.substack.com/p/your-wifi-can-see-you)
-- [George Orwell Complete Works](http://www.george-orwell.org/)
-- [The High Cost of Free Parking](https://en.wikipedia.org/wiki/The_High_Cost_of_Free_Parking)
+- [The Maintainer of the Nvidia Open-Source “Nouveau” Linux Kernel Driver Resigns](https://www.phoronix.com/news/Nouveau-Maintainer-Resigns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
