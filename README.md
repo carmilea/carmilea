@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [LiveRamp Finds an Innovation Partner, and the Power to Change the World, with SingleStore](https://www.youtube.com/watch?v=y7DY_GwKwO8)
 - [SingleStore ChatGPT Dev Day @ AWS Singapore](https://www.youtube.com/watch?v=p7Q_8ZKHsjg)
 - [Launch OpenAI ChatGPT LLM Apps in 3 Simple Steps](https://www.youtube.com/watch?v=9vAuGe51iDc)
 - [How to Build a ChatGPT App Using JSON Data](https://www.youtube.com/watch?v=q_JU0Aqo_Vs)
 - [How to Build an OpenAI LLM on a Private Network with AWS](https://www.youtube.com/watch?v=6LGGQERxrQo)
-- [How to Build a Sentiment Analysis App with Hugging Face](https://www.youtube.com/watch?v=58N0QfDSdhY)
 <!-- YOUTUBE:END -->
 
 
