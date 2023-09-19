@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Graph Neural Networks Use Graphs When They Shouldn&#39;t](https://arxiv.org/abs/2309.04332)
 - [Always Bump Downwards &lpar;2019&rpar;](https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html)
+- [Show HN: Graphite – Stacked Diffs on GitHub](https://news.ycombinator.com/item?id=37570929)
 - [Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
-- [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
-- [BMW&#39;s Ultimate Driving Machine, for Driving Through Gunfire and Grenades](https://www.core77.com/posts/125788/BMWs-Ultimate-Driving-Machine-for-Driving-Through-Gunfire-and-Grenades)
-- [Musk Wanted to Spy on Drivers to Defend Tesla from Lawsuits](https://cleanenergyrevolution.co/2023/09/18/musk-wanted-to-spy-on-drivers-to-defend-tesla-from-lawsuits/)
+- [The Physical Process That Powers a New Type of Generative AI](https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
