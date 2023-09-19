@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MariaDB to be acquired by Runa Cap?](https://investors.mariadb.com/news/news-details/2023/Announcement-Regarding-Possible-Offer/default.aspx)
-- [Agentscript: Agent Based Modeling in the Browser](https://agentscript.org/)
-- [iFixit – We Are Retroactively Dropping the iPhone’s Repairability Score](https://www.ifixit.com/News/82493/we-are-retroactively-dropping-the-iphones-repairability-score-en)
-- [Ivy &lpar;YC W23&rpar; Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [Show HN: Dittofeed – 1-Click deploy, self-host Mailchimp alternative](https://github.com/dittofeed/dittofeed)
+- [Circles Do Not Exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
+- [Apache Pinot 1.0](https://pinot.apache.org/blog/2023/09/19/Annoucing-Apache-Pinot-1-0/)
+- [Show HN: I&#39;m building a tool to practice numbers in Arabic](https://arabic-numbers.koljapluemer.com/)
+- [Simple Open-Source Java Virtual Machine in C](https://github.com/phillbush/jvm)
+- [Fixing for Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
