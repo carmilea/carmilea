@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UniFree: Migrate Unity projects to other engines](https://gamefromscratch.com/applovin-launch-project-unifree/)
+- [Can’t send email more than 500 miles &lpar;2002&rpar;](https://web.mit.edu/jemorris/humor/500-miles)
 - [Emerge &lpar;YC W21&rpar; is hiring a lead front end engineer &lpar;remote, small team&rpar;](https://www.workatastartup.com/jobs/61922/)
-- [Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
-- [Apache Pinot 1.0](https://pinot.apache.org/blog/2023/09/19/Annoucing-Apache-Pinot-1-0/)
-- [Show HN: I&#39;m building a tool to practice numbers in Arabic](https://arabic-numbers.koljapluemer.com/)
-- [Simple Open-Source Java Virtual Machine in C](https://github.com/phillbush/jvm)
+- [Nushell 0.85](https://www.nushell.sh/blog/2023-09-19-nushell_0_85_0.html)
+- [The Princeton researchers calling out ‘AI snake oil’](https://www.semafor.com/article/09/15/2023/the-princeton-researchers-calling-out-ai-snake-oil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
