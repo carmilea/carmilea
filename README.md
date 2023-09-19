@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Your WiFi Can See You](https://mrereports.substack.com/p/your-wifi-can-see-you)
 - [George Orwell Complete Works](http://www.george-orwell.org/)
-- [Ask HN: 6 months later. How is Bard doing?](https://news.ycombinator.com/item?id=37564768)
-- [Marine Corps orders safety stand-down of all aircraft after F-35 disappearance](https://www.nbcnews.com/news/us-news/marine-leader-orders-safety-stand-aircraft-f-35-disappearance-rcna105602)
 - [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
 - [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
+- [FTC warns pharma companies about sham patent listings designed to delay generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
