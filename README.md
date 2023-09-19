@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tonga is running out of space for more than 30k abandoned cars](https://www.abc.net.au/news/science/2023-09-19/how-tonga-plans-to-recycle-its-mountain-of-scrap-cars/102614772)
+- [Tackling the Curse of Dimensionality with Physics-Informed Neural Networks](https://arxiv.org/abs/2307.12306)
 - [Your WiFi Can See You](https://mrereports.substack.com/p/your-wifi-can-see-you)
 - [George Orwell Complete Works](http://www.george-orwell.org/)
-- [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
-- [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
-- [FTC warns pharma companies about sham patent listings designed to delay generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
+- [The High Cost of Free Parking](https://en.wikipedia.org/wiki/The_High_Cost_of_Free_Parking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
