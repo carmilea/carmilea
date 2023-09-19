@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Striking auto workers want a 40% pay increase–the same rate their CEOs’ pay grew](https://www.cnbc.com/2023/09/15/striking-uaw-auto-workers-want-a-40percent-pay-increase-how-much-they-make-now.html)
 - [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
 - [FTC warns pharma companies about sham patent listings designed to delay generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
 - [Update on KDP Title Creation Limits](https://www.kdpcommunity.com/s/article/Update-on-KDP-Title-Creation-Limits?language=en_US&forum=KDP%20Forum)
-- [UK Post Office: 700 Horizon software scandal victims to receive £600k each](https://www.theguardian.com/business/2023/sep/18/post-office-horizon-scandal-victims-compensation)
+- [Early performance results from the prototype CHERI ARM Morello microarchitecture](https://ctsrd-cheri.github.io/morello-early-performance-results/)
+- [Mwmbl: Free, open-source and non-profit search engine](https://mwmbl.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
