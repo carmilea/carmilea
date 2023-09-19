@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Apps Are Better Than No Apps](https://molodtsov.me/2023/08/web-apps-are-better-than-no-apps/)
-- [Safety Gate: the EU rapid alert system for dangerous non-food products](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10009444)
-- [Gitlab Critical Security Release: 16.3.4 and 16.2.7](https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/)
-- [I digitalized Berlin&#39;s registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
-- [U.K. finally rejoins Horizon Europe research funding scheme](https://www.science.org/content/article/uk-finally-rejoins-horizon-europe-research-funding-scheme)
+- [64-Bit Bank Balances ‘Ought to Be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
+- [The Pirate Bay Celebrates Its 20th Anniversary](https://torrentfreak.com/the-pirate-bay-celebrates-its-20th-anniversary-230919/)
+- [The path to detecting extraterrestrial life with astrophotonics](https://arxiv.org/abs/2309.08732)
+- [Lies My Calculator and Computer Told Me [pdf]](https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf)
+- [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
