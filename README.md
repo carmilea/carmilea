@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS 17](https://www.apple.com/ios/ios-17/)
+- [Georgism](https://en.wikipedia.org/wiki/Georgism)
+- [Seeking Help to Preserve Rare WWII Database on Windows 98](https://twitter.com/mtruslowstorey/status/1703781076689121556?s=46&t=E3U2EI7EXIhlBQmxg6oZ2g)
 - [I rewired my brain in six weeks](https://www.bbc.com/future/article/20230912-how-i-hacked-my-brain)
-- [How The iPhone 15 Pro camera works and why you’ll want to shoot 24MP photos](https://petapixel.com/2023/09/18/apple-explains-what-the-iphone-can-and-cant-do-and-why/)
-- [Windows Subsystem for Linux 2.0 release](https://github.com/microsoft/WSL/releases/tag/2.0.0)
-- [Tonga is running out of space for more than 30k abandoned cars](https://www.abc.net.au/news/science/2023-09-19/how-tonga-plans-to-recycle-its-mountain-of-scrap-cars/102614772)
 - [The Maintainer of the Nvidia Open-Source “Nouveau” Linux Kernel Driver Resigns](https://www.phoronix.com/news/Nouveau-Maintainer-Resigns)
 <!-- BLOG-POST-LIST:END -->
 
