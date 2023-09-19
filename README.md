@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [For migrants under 24/7 surveillance, the UK feels like ‘an outside prison’](https://www.codastory.com/authoritarian-tech/gps-ankle-tags-uk-migrants-home-office/)
-- [64-bit bank balances ‘ought to be enough for anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
-- [The Pirate Bay&#39;s 20th Anniversary](https://torrentfreak.com/the-pirate-bay-celebrates-its-20th-anniversary-230919/)
-- [Danish artist told to repay museum €67,000 after turning in blank canvasses](https://www.bbc.com/news/world-europe-66847139)
-- [The path to detecting extraterrestrial life with astrophotonics](https://arxiv.org/abs/2309.08732)
+- [Nvidia&#39;s 900 tons of GPU muscle bulks up server market, slims down wallets](https://www.theregister.com/2023/09/19/900_tons_nvidia_servers/)
+- [Historical maps probably helped cause World War I](https://resobscura.substack.com/p/historical-maps-probably-helped-cause)
+- [Larry Lessig&#39;s theory: our society is governed by four forces](https://cs.stanford.edu/people/eroberts/cs181/projects/2010-11/CodeAndRegulation/about.html)
+- [I call it the Homeless Industrial Complex](https://truthonthestreets.substack.com/p/this-is-why-i-call-it-the-homeless)
+- [Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)
 <!-- BLOG-POST-LIST:END -->
 
 ---
