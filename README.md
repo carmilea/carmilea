@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MariaDB to be acquired by Runa Cap?](https://investors.mariadb.com/news/news-details/2023/Announcement-Regarding-Possible-Offer/default.aspx)
+- [Agentscript: Agent Based Modeling in the Browser](https://agentscript.org/)
 - [iFixit – We Are Retroactively Dropping the iPhone’s Repairability Score](https://www.ifixit.com/News/82493/we-are-retroactively-dropping-the-iphones-repairability-score-en)
-- [One in 10 Japanese Now Aged over 80, Population Report Shows](https://www.bloomberg.com/news/articles/2023-09-18/one-in-10-japanese-aged-over-80-population-report-shows-on-respect-for-aged-day)
 - [Ivy &lpar;YC W23&rpar; Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 - [Show HN: Dittofeed – 1-Click deploy, self-host Mailchimp alternative](https://github.com/dittofeed/dittofeed)
-- [Google quietly raised ad prices to boost search revenue](https://www.theverge.com/2023/9/19/23880275/google-search-ads-competition-auction-prices-doj-trial-antitrust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
