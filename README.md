@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Circles Do Not Exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
+- [Emerge &lpar;YC W21&rpar; is hiring a lead front end engineer &lpar;remote, small team&rpar;](https://www.workatastartup.com/jobs/61922/)
+- [Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
 - [Apache Pinot 1.0](https://pinot.apache.org/blog/2023/09/19/Annoucing-Apache-Pinot-1-0/)
 - [Show HN: I&#39;m building a tool to practice numbers in Arabic](https://arabic-numbers.koljapluemer.com/)
 - [Simple Open-Source Java Virtual Machine in C](https://github.com/phillbush/jvm)
-- [Fixing for Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
