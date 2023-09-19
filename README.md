@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia&#39;s 900 tons of GPU muscle bulks up server market, slims down wallets](https://www.theregister.com/2023/09/19/900_tons_nvidia_servers/)
-- [Historical maps probably helped cause World War I](https://resobscura.substack.com/p/historical-maps-probably-helped-cause)
-- [Larry Lessig&#39;s theory: our society is governed by four forces](https://cs.stanford.edu/people/eroberts/cs181/projects/2010-11/CodeAndRegulation/about.html)
-- [I call it the Homeless Industrial Complex](https://truthonthestreets.substack.com/p/this-is-why-i-call-it-the-homeless)
-- [Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)
+- [Always Bump Downwards &lpar;2019&rpar;](https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html)
+- [Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
+- [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
+- [BMW&#39;s Ultimate Driving Machine, for Driving Through Gunfire and Grenades](https://www.core77.com/posts/125788/BMWs-Ultimate-Driving-Machine-for-Driving-Through-Gunfire-and-Grenades)
+- [Musk Wanted to Spy on Drivers to Defend Tesla from Lawsuits](https://cleanenergyrevolution.co/2023/09/18/musk-wanted-to-spy-on-drivers-to-defend-tesla-from-lawsuits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
