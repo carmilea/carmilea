@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [64-Bit Bank Balances ‘Ought to Be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
-- [The Pirate Bay Celebrates Its 20th Anniversary](https://torrentfreak.com/the-pirate-bay-celebrates-its-20th-anniversary-230919/)
+- [For migrants under 24/7 surveillance, the UK feels like ‘an outside prison’](https://www.codastory.com/authoritarian-tech/gps-ankle-tags-uk-migrants-home-office/)
+- [64-bit bank balances ‘ought to be enough for anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
+- [The Pirate Bay&#39;s 20th Anniversary](https://torrentfreak.com/the-pirate-bay-celebrates-its-20th-anniversary-230919/)
+- [Danish artist told to repay museum €67,000 after turning in blank canvasses](https://www.bbc.com/news/world-europe-66847139)
 - [The path to detecting extraterrestrial life with astrophotonics](https://arxiv.org/abs/2309.08732)
-- [Lies My Calculator and Computer Told Me [pdf]](https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf)
-- [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
