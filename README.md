@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I digitalized Berlin&#39;s registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
-- [Opera&#39;s browser is now available with chess baked in](https://blogs.opera.com/news/2023/09/opera-launches-custom-chess-browser/)
-- [Windows Subsystem for Linux gets new &#39;mirrored&#39; network mode](https://www.bleepingcomputer.com/news/microsoft/windows-subsystem-for-linux-gets-new-mirrored-network-mode/)
-- [GCC Preparing to Introduce “-Fhardened” Security Hardening Option](https://www.phoronix.com/news/GCC-fhardened-Hardening-Option)
-- [Forty years of GNU and the free software movement](https://www.fsf.org/news/forty-years-of-gnu-and-the-free-software-movement)
+- [Safety Gate: the EU rapid alert system for dangerous non-food products](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10009444)
+- [Ask HN: What low code platforms are worth using?](https://news.ycombinator.com/item?id=37567298)
+- [1k Met Police officers suspended or on restricted duties](https://www.bbc.co.uk/news/uk-england-london-66842521)
+- [Gitlab Critical Security Release: 16.3.4 and 16.2.7](https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/)
+- [Microsoft Nintendo acquisition hopes revealed by leaked Xbox exec email](https://www.rockpapershotgun.com/microsoft-nintendo-acquisition-hopes-revealed-by-leaked-xbox-exec-email)
 <!-- BLOG-POST-LIST:END -->
 
 ---
