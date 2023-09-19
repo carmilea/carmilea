@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GCC Preparing to Introduce “-Fhardened” Security Hardening Option](https://www.phoronix.com/news/GCC-fhardened-Hardening-Option)
 - [Forty years of GNU and the free software movement](https://www.fsf.org/news/forty-years-of-gnu-and-the-free-software-movement)
-- [Georgism](https://en.wikipedia.org/wiki/Georgism)
+- [OSS Game Engines are increasing their stars on GitHub due to Unity&#39;s missteps](https://twitter.com/OSSInsight/status/1703087927763542305)
 - [Seeking help to preserve WWII database on Windows 98](https://twitter.com/mtruslowstorey/status/1703781076689121556?s=46&t=E3U2EI7EXIhlBQmxg6oZ2g)
 - [Tackling the curse of dimensionality with physics-informed neural networks](https://arxiv.org/abs/2307.12306)
-- [Ask HN: 6 months later. How is Bard doing?](https://news.ycombinator.com/item?id=37564768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
