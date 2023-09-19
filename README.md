@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Graph Neural Networks Use Graphs When They Shouldn&#39;t](https://arxiv.org/abs/2309.04332)
-- [Always Bump Downwards &lpar;2019&rpar;](https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html)
-- [Show HN: Graphite – Stacked Diffs on GitHub](https://news.ycombinator.com/item?id=37570929)
-- [Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
-- [The Physical Process That Powers a New Type of Generative AI](https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919/)
+- [One in 10 Japanese Now Aged over 80, Population Report Shows](https://www.bloomberg.com/news/articles/2023-09-18/one-in-10-japanese-aged-over-80-population-report-shows-on-respect-for-aged-day)
+- [Ivy &lpar;YC W23&rpar; Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [MGM losing up to $8.4M a day due to cyberattack, analyist says](https://www.reviewjournal.com/business/casinos-gaming/analyst-mgm-losing-4-2m-8-4m-a-day-because-of-cyberattack-2906379/)
+- [How many medical studies are faked or flawed?](https://web.archive.org/web/20230718112821/https://www.nature.com/articles/d41586-023-02299-w)
+- [Why does water change the speed of electricity? [video]](https://www.youtube.com/watch?v=rQIg5XeIgQ0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
