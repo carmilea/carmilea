@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UniFree: Migrate Unity projects to other engines](https://gamefromscratch.com/applovin-launch-project-unifree/)
+- [Webring Technology](https://brisray.com/web/webring-tech.htm)
+- [Show HN: Spirals – Generate beautiful AI spiral art with one click](https://spirals.vercel.app/)
 - [Can’t send email more than 500 miles &lpar;2002&rpar;](https://web.mit.edu/jemorris/humor/500-miles)
 - [Emerge &lpar;YC W21&rpar; is hiring a lead front end engineer &lpar;remote, small team&rpar;](https://www.workatastartup.com/jobs/61922/)
-- [Nushell 0.85](https://www.nushell.sh/blog/2023-09-19-nushell_0_85_0.html)
-- [The Princeton researchers calling out ‘AI snake oil’](https://www.semafor.com/article/09/15/2023/the-princeton-researchers-calling-out-ai-snake-oil)
+- [Special-Use Domain Names](https://www.iana.org/assignments/special-use-domain-names/special-use-domain-names.xml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
