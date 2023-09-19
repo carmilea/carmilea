@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Apps Are Better Than No Apps](https://molodtsov.me/2023/08/web-apps-are-better-than-no-apps/)
 - [Safety Gate: the EU rapid alert system for dangerous non-food products](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10009444)
-- [Ask HN: What low code platforms are worth using?](https://news.ycombinator.com/item?id=37567298)
-- [1k Met Police officers suspended or on restricted duties](https://www.bbc.co.uk/news/uk-england-london-66842521)
 - [Gitlab Critical Security Release: 16.3.4 and 16.2.7](https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/)
-- [Microsoft Nintendo acquisition hopes revealed by leaked Xbox exec email](https://www.rockpapershotgun.com/microsoft-nintendo-acquisition-hopes-revealed-by-leaked-xbox-exec-email)
+- [I digitalized Berlin&#39;s registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
+- [U.K. finally rejoins Horizon Europe research funding scheme](https://www.science.org/content/article/uk-finally-rejoins-horizon-europe-research-funding-scheme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
