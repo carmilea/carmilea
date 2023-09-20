@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Less than half’ fresh produce sold globally makes any profit](https://www.fruitnet.com/main-navigation/less-than-half-fresh-produce-sold-globally-makes-any-profit/256025.article)
 - [OpenTF renames itself to OpenTofu](https://github.com/opentofu)
 - [SillycoValley: Write Code, Build Your Startup](https://sillycovalley.com/?myscore)
 - [Aldous Huxley&#39;s Deep Reflection](https://thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/)
 - [First automatic JPEG-XL cloud service](https://www.gumlet.com/blog/jpeg-xl/)
-- [Q-Transformer: Scalable Reinforcement Learning via Autoregressive Q-Functions](https://q-transformer.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
