@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First automatic JPEG-XL cloud service](https://www.gumlet.com/blog/jpeg-xl/)
 - [Q-Transformer: Scalable Reinforcement Learning via Autoregressive Q-Functions](https://q-transformer.github.io/)
+- [FAA authorizes Zipline to deliver commercial packages using drones](https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight)
 - [Add extra stuff to a “standard” encoding? Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
 - [100 Parking Tickets &lpar;2004&rpar;](https://100parkingtickets.com/)
-- [Ruby 3.3&#39;s YJIT Runs Shopify&#39;s Production Code 15% Faster](https://railsatscale.com/2023-09-18-ruby-3-3-s-yjit-runs-shopify-s-production-code-15-faster/)
-- [A simple web server written in Awk](https://github.com/crossbowerbt/awk-webserver)
 <!-- BLOG-POST-LIST:END -->
 
 ---
