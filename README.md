@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Q-Transformer: Scalable Reinforcement Learning via Autoregressive Q-Functions](https://q-transformer.github.io/)
+- [Add extra stuff to a “standard” encoding? Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
+- [100 Parking Tickets &lpar;2004&rpar;](https://100parkingtickets.com/)
+- [Ruby 3.3&#39;s YJIT Runs Shopify&#39;s Production Code 15% Faster](https://railsatscale.com/2023-09-18-ruby-3-3-s-yjit-runs-shopify-s-production-code-15-faster/)
 - [A simple web server written in Awk](https://github.com/crossbowerbt/awk-webserver)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
-- [Amazon limits authors to 3 books a day to combat AI-generated material](https://themessenger.com/news/amazon-limits-authors-to-self-publish-3-books-a-day-to-combat-ai-generated-material)
-- [Shaving 40% Off Google’s B-Tree Implementation with Go Generics &lpar;2022&rpar;](https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/)
-- [Webring Technology](https://brisray.com/web/webring-tech.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
