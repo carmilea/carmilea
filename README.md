@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
+- [Shaving 40% Off Google’s B-Tree Implementation with Go Generics](https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/)
+- [Google DeepMind&#39;s AI successor predicts how 71M mutations cause disease](https://endpts.com/google-deepminds-alphafold-successor-predicts-how-71m-mutations-cause-disease/)
+- [Writing Is Objectively Superior to Speaking as a Communication Method &lpar;2020&rpar;](https://koshka.love/babel/writing-superior-to-speaking.html)
 - [Webring Technology](https://brisray.com/web/webring-tech.htm)
-- [Show HN: Spirals – Generate beautiful AI spiral art with one click](https://spirals.vercel.app/)
-- [Can’t send email more than 500 miles &lpar;2002&rpar;](https://web.mit.edu/jemorris/humor/500-miles)
-- [Emerge &lpar;YC W21&rpar; is hiring a lead front end engineer &lpar;remote, small team&rpar;](https://www.workatastartup.com/jobs/61922/)
-- [Special-Use Domain Names](https://www.iana.org/assignments/special-use-domain-names/special-use-domain-names.xml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
