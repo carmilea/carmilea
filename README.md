@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A future for iPhone app stores](https://appfair.org/blog/a-future-for-app-stores.html)
 - [Harlequin: DuckDB IDE for the terminal](https://harlequin.sh/)
+- [We Are Not Sustainable](https://frame.work/nl/en/blog/we-are-not-sustainable)
 - [Show HN: Sheet Music Management App](https://github.com/Airsequel/Airsequel-Sheet-Music)
 - [Archaeologists discover oldest wooden structure](https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/)
 - [Strada – Create fully native controls, driven by your web app](https://strada.hotwired.dev/)
