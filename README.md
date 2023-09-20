@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JEP Draft: Prepare to Restrict the Use of JNI](https://openjdk.org/jeps/8307341)
 - [Why We&#39;re Pulling Our Recommendation of Wyze Security Cameras](https://www.nytimes.com/wirecutter/blog/wyze-security-breach/)
 - [Streaming Databases: Everything You Wanted to Know](https://www.risingwave.com/blog/streaming-databases-everything-you-wanted-to-know/)
 - [Cancer expert gets experimental treatment for incurable tumour,phenomenal result](https://www.abc.net.au/news/2023-09-20/melanoma-richard-scolyer-georgina-long-early-results/102879818)
-- [Car allergic to vanilla ice cream](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
-- [Svelte 5: Runes](https://svelte.dev/blog/runes)
+- [Car allergic to vanilla ice cream &lpar;2000&rpar;](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
