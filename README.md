@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cancer expert gets experimental treatment for incurable tumour,phenomenal result](https://www.abc.net.au/news/2023-09-20/melanoma-richard-scolyer-georgina-long-early-results/102879818)
+- [Car allergic to vanilla ice cream](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
 - [Svelte 5: Runes](https://svelte.dev/blog/runes)
+- [Generic trait methods and new auto traits](https://without.boats/blog/generic-trait-methods-and-new-auto-traits/)
 - [Show HN: uBlock Origin filters to remove distractions](https://github.com/mig4ng/ublock-origin-filters)
-- [Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps](https://electric-sql.com/)
-- [British journalist held by police at Luton airport for five hours without arrest](https://www.theguardian.com/media/2023/sep/20/british-journalist-held-by-police-at-luton-airport-for-five-hours-without-arrest)
-- [Gokrazy Is Cool](https://xeiaso.net/blog/gokrazy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
