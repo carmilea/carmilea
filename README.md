@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mull Browser Includes Trackers](https://forum.cktn.de/t/mull-browser-includes-trackers/3880)
 - [OpenTF renames itself to OpenTofu](https://github.com/opentofu)
 - [SillycoValley: Write Code, Build Your Startup](https://sillycovalley.com/?myscore)
 - [Aldous Huxley&#39;s Deep Reflection](https://thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/)
 - [First automatic JPEG-XL cloud service](https://www.gumlet.com/blog/jpeg-xl/)
-- [Q-Transformer: Scalable Reinforcement Learning via Autoregressive Q-Functions](https://q-transformer.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
