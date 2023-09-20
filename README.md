@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitor bandwidth usage with bandwhich &lpar;and build a snap package of it&rpar;](https://popey.com/blog/2023/09/monitor-bandwidth-usage-with-bandwhich/)
-- [Boys and Men in the United States Are Struggling. The Left Should Talk About It](https://jacobin.com/2023/09/boys-men-work-despair-struggling-wages-education/)
-- [DALL·E 3](https://openai.com/dall-e-3)
-- [The AI Content Flippening](https://www.latent.space/p/wondercraft#details)
-- [XML is better than YAML](https://changelog.com/posts/xml-better-than-yaml)
+- [Harlequin.sh DuckDB IDE for your terminal](https://harlequin.sh/)
+- [Ex-congressman convicted of insider trading before T-Mobile merger with Sprint](https://www.nbcnews.com/politics/politics-news/ex-lawmaker-convicted-insider-trading-t-mobile-merger-rcna74463)
+- [Archaeologists discover world’s oldest wooden structure](https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/)
+- [Car showed pop-up while driving](https://glitterkitten.co.uk/@ellavescent/111091652921668380)
+- [Build a Q+A Retrieval Augmented Generation System with Slack Data Using Unstructured and SingleStoreDB](https://www.singlestore.com/blog/build-a-q-a-retrieval-augmented-generation-system-unstructured-singlestoredb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
