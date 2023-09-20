@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
+- [Amazon Limits Authors to 3 Books a Day to Combat AI-Generated Material](https://themessenger.com/news/amazon-limits-authors-to-self-publish-3-books-a-day-to-combat-ai-generated-material)
 - [Shaving 40% Off Google’s B-Tree Implementation with Go Generics](https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/)
 - [Google DeepMind&#39;s AI successor predicts how 71M mutations cause disease](https://endpts.com/google-deepminds-alphafold-successor-predicts-how-71m-mutations-cause-disease/)
-- [Writing Is Objectively Superior to Speaking as a Communication Method &lpar;2020&rpar;](https://koshka.love/babel/writing-superior-to-speaking.html)
-- [Webring Technology](https://brisray.com/web/webring-tech.htm)
+- [The AI Explosion Might Never Happen](https://amistrongeryet.substack.com/p/recursive-self-improvement-foom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
