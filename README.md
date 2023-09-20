@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenTF renames itself to OpenTofu](https://github.com/opentofu)
+- [SillycoValley: Write Code, Build Your Startup](https://sillycovalley.com/?myscore)
 - [Aldous Huxley&#39;s Deep Reflection](https://thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/)
 - [First automatic JPEG-XL cloud service](https://www.gumlet.com/blog/jpeg-xl/)
 - [Q-Transformer: Scalable Reinforcement Learning via Autoregressive Q-Functions](https://q-transformer.github.io/)
-- [FAA authorizes Zipline to deliver commercial packages using drones](https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight)
-- [Add extra stuff to a “standard” encoding? Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
