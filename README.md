@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Harlequin.sh DuckDB IDE for your terminal](https://harlequin.sh/)
-- [Generative AI&#39;s Act Two](https://www.sequoiacap.com/article/generative-ai-act-two/)
+- [A future for iPhone app stores](https://appfair.org/blog/a-future-for-app-stores.html)
+- [Harlequin: DuckDB IDE for the terminal](https://harlequin.sh/)
 - [Show HN: Sheet Music Management App](https://github.com/Airsequel/Airsequel-Sheet-Music)
-- [Ex-congressman convicted of insider trading before T-Mobile merger with Sprint](https://www.nbcnews.com/politics/politics-news/ex-lawmaker-convicted-insider-trading-t-mobile-merger-rcna74463)
-- [Archaeologists discover world’s oldest wooden structure](https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/)
+- [Archaeologists discover oldest wooden structure](https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/)
+- [Strada – Create fully native controls, driven by your web app](https://strada.hotwired.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
