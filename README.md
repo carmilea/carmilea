@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JEP Draft: Prepare to Restrict the Use of JNI](https://openjdk.org/jeps/8307341)
-- [Why We&#39;re Pulling Our Recommendation of Wyze Security Cameras](https://www.nytimes.com/wirecutter/blog/wyze-security-breach/)
-- [Streaming Databases: Everything You Wanted to Know](https://www.risingwave.com/blog/streaming-databases-everything-you-wanted-to-know/)
-- [Cancer expert gets experimental treatment for incurable tumour,phenomenal result](https://www.abc.net.au/news/2023-09-20/melanoma-richard-scolyer-georgina-long-early-results/102879818)
-- [Car allergic to vanilla ice cream &lpar;2000&rpar;](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
+- [Monitor bandwidth usage with bandwhich &lpar;and build a snap package of it&rpar;](https://popey.com/blog/2023/09/monitor-bandwidth-usage-with-bandwhich/)
+- [Boys and Men in the United States Are Struggling. The Left Should Talk About It](https://jacobin.com/2023/09/boys-men-work-despair-struggling-wages-education/)
+- [DALL·E 3](https://openai.com/dall-e-3)
+- [The AI Content Flippening](https://www.latent.space/p/wondercraft#details)
+- [XML is better than YAML](https://changelog.com/posts/xml-better-than-yaml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
