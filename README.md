@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mull Browser Includes Trackers](https://forum.cktn.de/t/mull-browser-includes-trackers/3880)
-- [OpenTF renames itself to OpenTofu](https://github.com/opentofu)
+- [Google Settles Account Settings Lawsuit Less Than One Week After Being Filed [pdf]](https://oag.ca.gov/system/files/attachments/press-docs/Filed%20stamped%20Google%20Complaint.pdf)
+- [Algorithm-assisted discovery of an intrinsic order among mathematical constants](https://fermatslibrary.com/s/algorithm-assisted-discovery-of-an-intrinsic-order-among-mathematical-constants)
+- [OpenTofu](https://github.com/opentofu)
 - [SillycoValley: Write Code, Build Your Startup](https://sillycovalley.com/?myscore)
 - [Aldous Huxley&#39;s Deep Reflection](https://thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/)
-- [First automatic JPEG-XL cloud service](https://www.gumlet.com/blog/jpeg-xl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
