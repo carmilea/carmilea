@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: SeaGOAT – local, “AI-based” grep for semantic code search](https://github.com/kantord/SeaGOAT)
 - [Stellar Sleep &lpar;YC S23&rpar; Is Hiring a Senior/ Staff SWE in San Francisco](https://www.ycombinator.com/companies/stellar-sleep/jobs/Ubd4rCS-senior-staff-software-engineer)
+- [Rp2040 runs unmodified PalmOS 5.2.8](https://twitter.com/dmitrygr/status/1704350983877198013)
 - [Google Settles Account Settings Lawsuit Less Than One Week After Being Filed [pdf]](https://oag.ca.gov/system/files/attachments/press-docs/Filed%20stamped%20Google%20Complaint.pdf)
 - [Algorithm-assisted discovery of an intrinsic order among mathematical constants](https://fermatslibrary.com/s/algorithm-assisted-discovery-of-an-intrinsic-order-among-mathematical-constants)
-- [OpenTofu](https://github.com/opentofu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
