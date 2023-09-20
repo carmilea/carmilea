@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Harlequin.sh DuckDB IDE for your terminal](https://harlequin.sh/)
+- [Generative AI&#39;s Act Two](https://www.sequoiacap.com/article/generative-ai-act-two/)
+- [Show HN: Sheet Music Management App](https://github.com/Airsequel/Airsequel-Sheet-Music)
 - [Ex-congressman convicted of insider trading before T-Mobile merger with Sprint](https://www.nbcnews.com/politics/politics-news/ex-lawmaker-convicted-insider-trading-t-mobile-merger-rcna74463)
 - [Archaeologists discover world’s oldest wooden structure](https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/)
-- [Car showed pop-up while driving](https://glitterkitten.co.uk/@ellavescent/111091652921668380)
-- [Build a Q+A Retrieval Augmented Generation System with Slack Data Using Unstructured and SingleStoreDB](https://www.singlestore.com/blog/build-a-q-a-retrieval-augmented-generation-system-unstructured-singlestoredb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
