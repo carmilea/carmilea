@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sunken temple and sanctuary from ancient Egypt found](https://www.livescience.com/archaeology/ancient-egyptians/sunken-temple-and-sanctuary-from-ancient-egypt-found-brimming-with-treasures-and-secrets)
+- [Article reply “Godot is not the new Unity” from Juan Linietsky &lpar;BDFL of Godot&rpar;](https://gist.github.com/reduz/cb05fe96079e46785f08a79ec3b0ef21)
 - [AMA: We&#39;re the Researchers who looked into the privacy of the 25 top car brands](https://old.reddit.com/r/IAmA/comments/16oi17v/were_the_researchers_who_looked_into_the_privacy/)
+- [Wine’s origins](https://www.scientificamerican.com/article/wines-true-origins-are-finally-revealed/)
 - [The SEC cracks down on greenwashing](https://www.semafor.com/article/09/21/2023/the-sec-cracks-down-on-greenwashing)
-- [Cisco pulled out of SentinelOne acquisition after due diligence](https://www.calcalistech.com/ctechnews/article/b18wjfk1a)
-- [Fosstodon is now invite only](https://hub.fosstodon.org/were-invite-only)
-- [They have genetic ALS. What should clinicians do?](https://www.statnews.com/2023/09/21/als-gene-carrier-riluzole-toferson/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
