@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Organic Maps: An Open-Source Maps App That Doesn&#39;t Suck](https://hardfault.life/p/organic-maps-review)
-- [The UK Parliament Undermined the Privacy, Security, and Freedom of All Internet](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
-- [My fast JSON library in Go is now even faster and safer](https://github.com/sugawarayuuta/sonnet)
-- [FTC has named Amazon staffers accused of approving tactics designed to confuse](https://www.theregister.com/2023/09/21/ftc_amazon_prime_amended_complaint/)
-- [Terry Tao&#39;s generals](https://web.math.princeton.edu/generals/tao_terence)
+- [GNU Turns 40](https://www.theregister.com/2023/09/20/gnu_turns_40/)
+- [How Equifax Was Breached in 2017](https://blog.0x7d0.dev/history/how-equifax-was-breached-in-2017/)
+- [Organic Maps: An open-source maps app that doesn&#39;t suck](https://hardfault.life/p/organic-maps-review)
+- [UK Parliament undermined the privacy, security, freedom of all internet users](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
+- [Terry Tao: How a Near Failure Propelled Me to Succeed &lpar;2020&rpar; [pdf]](https://www.ams.org/notices/202007/rnoti-p1007.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
