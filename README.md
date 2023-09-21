@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: I&#39;m a SWE without a CS degree. Will online certs help me get into FAANG?](https://news.ycombinator.com/item?id=37594461)
+- [Total cholesterol and mortality by sex and age:study of 12.8M adults](https://www.nature.com/articles/s41598-018-38461-y)
 - [Install Windows the Arch Linux Way](https://christitus.com/install-windows-the-arch-linux-way/)
-- [GNU Turns 40](https://www.theregister.com/2023/09/20/gnu_turns_40/)
-- [Terraria developer bashes Unity, donates $200k to open source alternatives](https://lemm.ee/post/8670706)
 - [How Equifax Was Breached in 2017](https://blog.0x7d0.dev/history/how-equifax-was-breached-in-2017/)
-- [NASA’s New Shortcut to Fusion Power](https://spectrum.ieee.org/lattice-confinement-fusion)
+- [NASA’s New Shortcut to Fusion Power &lpar;2022&rpar;](https://spectrum.ieee.org/lattice-confinement-fusion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
