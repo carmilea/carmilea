@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BWXT and Crowley Developing Nuclear Power Generation Ships](https://maritime-executive.com/article/crowley-partners-with-bwxt-to-develop-nuclear-power-generation-vessels)
-- [Atlassian cripples’ Jira automation for all but enterprise customers](https://community.atlassian.com/t5/Automation-articles/Introducing-our-new-packaging-model-for-Jira-Cloud-Automation/ba-p/2446099)
-- [Telemetry](https://storybook.js.org/docs/react/configure/telemetry/)
-- [Is Fortran easier to optimize than C for heavy calculations?](https://stackoverflow.com/questions/146159/is-fortran-easier-to-optimize-than-c-for-heavy-calculations)
-- [India&#39;s biggest tech centers named as cyber crime hotspots](https://www.theregister.com/2023/09/21/india_cybercrime_trends_report/)
+- [Nippon Television has just acquired Studio Ghibli](https://www.catsuka.com/breves/2023-09-21/nippon-television-rachete-le-studio-ghibli)
+- [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
+- [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
+- [BrainTree has been down for more than 7 hours now](https://www.paypal-status.com/incident/production)
+- [Community Growth At: HashiCorp](https://community.inc/deep-dives/community-growth-hashicorp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
