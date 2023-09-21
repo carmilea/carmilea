@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
+- [Volvo to cease production of diesel cars in a few months](https://www.reuters.com/business/autos-transportation/volvo-end-diesel-car-production-by-early-2024-2023-09-19/)
+- [Rust SDR Amateur Radio Network Interface](https://github.com/hexagonal-sun/ampkt)
+- [A customer stuck due to a hurricane who needed SSH](https://rachelbythebay.com/w/2023/09/21/hurricane/)
 - [LabelContactRelationYoungerCousinMothersSiblingsDaughterOrFathersSistersDaughter](https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter)
-- [Speeding up the JavaScript ecosystem – Polyfills gone rogue](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/)
-- [NASA’s Webb finds carbon source on surface of Jupiter’s moon Europa](https://webbtelescope.org/contents/news-releases/2023/news-2023-113)
-- [React Server Components made our site a lot faster](https://frigade.com/blog/bundle-size-reduction-with-rsc-and-frigade)
-- [Developmental costs associated with early maternal withdrawal &lpar;2022&rpar;](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
