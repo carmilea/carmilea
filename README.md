@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google sued for negligence after man died following map directions](https://apnews.com/article/google-maps-lawsuit-north-carolina-death-f4707247ee3295bf51bbcb37bd0eb6c8)
-- [Show HN: Odin – the integration of LLMs with Obsidian note taking](https://github.com/memgraph/odin)
-- [Call to shut down Bristol schools’ use of app to ‘monitor’ pupils and families](https://www.theguardian.com/education/2023/sep/21/calls-to-shut-down-bristol-schools-use-of-think-family-education-app-pupils-and-families)
-- [Nippon Television has just acquired Studio Ghibli](https://www.catsuka.com/breves/2023-09-21/nippon-television-rachete-le-studio-ghibli)
-- [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
+- [AMA: We&#39;re the Researchers who looked into the privacy of the 25 top car brands](https://old.reddit.com/r/IAmA/comments/16oi17v/were_the_researchers_who_looked_into_the_privacy/)
+- [The SEC cracks down on greenwashing](https://www.semafor.com/article/09/21/2023/the-sec-cracks-down-on-greenwashing)
+- [Cisco pulled out of SentinelOne acquisition after due diligence](https://www.calcalistech.com/ctechnews/article/b18wjfk1a)
+- [Fosstodon is now invite only](https://hub.fosstodon.org/were-invite-only)
+- [They have genetic ALS. What should clinicians do?](https://www.statnews.com/2023/09/21/als-gene-carrier-riluzole-toferson/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
