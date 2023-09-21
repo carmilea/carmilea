@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Install Windows the Arch Linux Way](https://christitus.com/install-windows-the-arch-linux-way/)
 - [GNU Turns 40](https://www.theregister.com/2023/09/20/gnu_turns_40/)
+- [Terraria developer bashes Unity, donates $200k to open source alternatives](https://lemm.ee/post/8670706)
 - [How Equifax Was Breached in 2017](https://blog.0x7d0.dev/history/how-equifax-was-breached-in-2017/)
-- [Organic Maps: An open-source maps app that doesn&#39;t suck](https://hardfault.life/p/organic-maps-review)
-- [UK Parliament undermined the privacy, security, freedom of all internet users](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
-- [Terry Tao: How a Near Failure Propelled Me to Succeed &lpar;2020&rpar; [pdf]](https://www.ams.org/notices/202007/rnoti-p1007.pdf)
+- [NASA’s New Shortcut to Fusion Power](https://spectrum.ieee.org/lattice-confinement-fusion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
