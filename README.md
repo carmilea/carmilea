@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google sued for negligence after man died following map directions](https://apnews.com/article/google-maps-lawsuit-north-carolina-death-f4707247ee3295bf51bbcb37bd0eb6c8)
+- [Show HN: Odin – the integration of LLMs with Obsidian note taking](https://github.com/memgraph/odin)
+- [Call to shut down Bristol schools’ use of app to ‘monitor’ pupils and families](https://www.theguardian.com/education/2023/sep/21/calls-to-shut-down-bristol-schools-use-of-think-family-education-app-pupils-and-families)
 - [Nippon Television has just acquired Studio Ghibli](https://www.catsuka.com/breves/2023-09-21/nippon-television-rachete-le-studio-ghibli)
-- [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
-- [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
-- [BrainTree has been down for more than 7 hours now](https://www.paypal-status.com/incident/production)
-- [Community Growth At: HashiCorp](https://community.inc/deep-dives/community-growth-hashicorp)
+- [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
