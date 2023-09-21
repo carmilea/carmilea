@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Fortran easier to optimize than C for heavy calculations?](https://stackoverflow.com/questions/146159/is-fortran-easier-to-optimize-than-c-for-heavy-calculations)
 - [India&#39;s biggest tech centers named as cyber crime hotspots](https://www.theregister.com/2023/09/21/india_cybercrime_trends_report/)
 - [Erlang/OTP 26.1 Released](https://erlangforums.com/t/erlang-otp-26-1-released/2886)
-- [Ask HN: I&#39;m a SWE without a CS degree. Will online certs help me get into FAANG?](https://news.ycombinator.com/item?id=37594461)
 - [OpenBSD/ARM64 on Hetzner Cloud](https://www.undeadly.org/cgi?action=article;sid=20230921073556)
-- [Total cholesterol and mortality by sex and age:study of 12.8M adults](https://www.nature.com/articles/s41598-018-38461-y)
+- [Strong arrows: a new approach to gradual typing](https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
