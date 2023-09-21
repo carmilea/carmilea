@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT and DALL-E 3 [video]](https://twitter.com/sama/status/1704561613070893428)
+- [Finally, an open source maps app that doesn&#39;t suck](https://hardfault.life/p/organic-maps-review)
+- [My fast JSON library in Go is now even faster and safer](https://github.com/sugawarayuuta/sonnet)
 - [Terry Tao&#39;s generals](https://web.math.princeton.edu/generals/tao_terence)
-- [Confessions of a McKinsey Whistleblower](https://www.thenation.com/article/society/mckinsey-whistleblower-confessions/)
 - [Linux gives up on 6-year LTS kernels, says they’re too much work](https://arstechnica.com/gadgets/2023/09/linux-gives-up-on-6-year-lts-thats-fine-for-pcs-bad-for-android/)
 - [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
 <!-- BLOG-POST-LIST:END -->
