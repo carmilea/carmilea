@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Finally, an open source maps app that doesn&#39;t suck](https://hardfault.life/p/organic-maps-review)
+- [Organic Maps: An Open-Source Maps App That Doesn&#39;t Suck](https://hardfault.life/p/organic-maps-review)
+- [The UK Parliament Undermined the Privacy, Security, and Freedom of All Internet](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
 - [My fast JSON library in Go is now even faster and safer](https://github.com/sugawarayuuta/sonnet)
+- [FTC has named Amazon staffers accused of approving tactics designed to confuse](https://www.theregister.com/2023/09/21/ftc_amazon_prime_amended_complaint/)
 - [Terry Tao&#39;s generals](https://web.math.princeton.edu/generals/tao_terence)
-- [Linux gives up on 6-year LTS kernels, says they’re too much work](https://arstechnica.com/gadgets/2023/09/linux-gives-up-on-6-year-lts-thats-fine-for-pcs-bad-for-android/)
-- [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
 <!-- BLOG-POST-LIST:END -->
 
 ---
