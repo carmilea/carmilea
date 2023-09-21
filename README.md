@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OneSignal &lpar;YC S11&rpar;, email and push notification platform, is hiring engineers](https://onesignal.com/careers/4264311006)
-- [Show HN: My Single-File Python Script I Used to Replace Splunk in My Startup](https://github.com/Dicklesworthstone/automatic_log_collector_and_analyzer)
-- [Rag is more than just embedding search](https://jxnl.github.io/instructor/blog/2023/09/17/rag-is-more-than-just-embedding-search/)
-- [Insider trade on Splunk acquisition for 45,650% return](https://twitter.com/unusual_whales/status/1704870849831125446)
-- [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
+- [Developmental costs associated with early maternal withdrawal &lpar;2022&rpar;](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12442)
+- [Most UI Applications Are Broken Real-Time Applications](https://thelig.ht/ui-apps-are-broken/)
+- [US Cybersecurity: The Urgent Need for Memory Safety in Software Products](https://www.cisa.gov/news-events/news/urgent-need-memory-safety-software-products)
+- [India stops issuing visas to Canadians as row escalates](https://www.cnbctv18.com/india/india-suspends-visa-service-operations-in-canada-until-further-notice-bls-international-17850171.htm)
+- [USPS In-Person Identity Proofing](https://faq.usps.com/s/article/USPS-In-Person-Identity-Proofing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
