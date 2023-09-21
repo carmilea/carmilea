@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sunken temple and sanctuary from ancient Egypt found](https://www.livescience.com/archaeology/ancient-egyptians/sunken-temple-and-sanctuary-from-ancient-egypt-found-brimming-with-treasures-and-secrets)
-- [Article reply “Godot is not the new Unity” from Juan Linietsky &lpar;BDFL of Godot&rpar;](https://gist.github.com/reduz/cb05fe96079e46785f08a79ec3b0ef21)
-- [AMA: We&#39;re the Researchers who looked into the privacy of the 25 top car brands](https://old.reddit.com/r/IAmA/comments/16oi17v/were_the_researchers_who_looked_into_the_privacy/)
-- [Wine’s origins](https://www.scientificamerican.com/article/wines-true-origins-are-finally-revealed/)
-- [The SEC cracks down on greenwashing](https://www.semafor.com/article/09/21/2023/the-sec-cracks-down-on-greenwashing)
+- [OneSignal &lpar;YC S11&rpar;, email and push notification platform, is hiring engineers](https://onesignal.com/careers/4264311006)
+- [Show HN: My Single-File Python Script I Used to Replace Splunk in My Startup](https://github.com/Dicklesworthstone/automatic_log_collector_and_analyzer)
+- [Rag is more than just embedding search](https://jxnl.github.io/instructor/blog/2023/09/17/rag-is-more-than-just-embedding-search/)
+- [Insider trade on Splunk acquisition for 45,650% return](https://twitter.com/unusual_whales/status/1704870849831125446)
+- [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
