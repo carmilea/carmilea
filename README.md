@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Baldurs Gate 3 comes out on Mac tomorrow. I will not play it](https://kianpak.com/i-will-not-play-baldurs-gate-3/)
+- [Terry Tao&#39;s generals](https://web.math.princeton.edu/generals/tao_terence)
+- [Median Household Income After Taxes Fell 8.8% in 2022](https://www.census.gov/library/stories/2023/09/median-household-income.html)
+- [Linux gives up on 6-year LTS kernels, says they’re too much work](https://arstechnica.com/gadgets/2023/09/linux-gives-up-on-6-year-lts-thats-fine-for-pcs-bad-for-android/)
 - [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
-- [Alameda lost tens of millions because of a fat fingering mistake](https://www.adityabaradwaj.com/part-2-the-fat-finger/)
-- [Harlequin: DuckDB IDE for the terminal](https://harlequin.sh/)
-- [We Are Not Sustainable](https://frame.work/nl/en/blog/we-are-not-sustainable)
+- [OpenTofu](https://opentofu.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
