@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
 - [Volvo to cease production of diesel cars in a few months](https://www.reuters.com/business/autos-transportation/volvo-end-diesel-car-production-by-early-2024-2023-09-19/)
-- [Rust SDR Amateur Radio Network Interface](https://github.com/hexagonal-sun/ampkt)
+- [AMPKT – Amateur radio packet explorer](https://github.com/hexagonal-sun/ampkt)
 - [A customer stuck due to a hurricane who needed SSH](https://rachelbythebay.com/w/2023/09/21/hurricane/)
-- [LabelContactRelationYoungerCousinMothersSiblingsDaughterOrFathersSistersDaughter](https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter)
+- [Android 14 adds support for using your smartphone as a webcam](https://www.esper.io/blog/android-14-adds-support-for-using-your-smartphone-as-a-webcam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
