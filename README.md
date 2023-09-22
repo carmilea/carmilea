@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS 17 Is a Prude](https://old.reddit.com/r/iphone/comments/16nqk30/ios_17_is_a_prude/)
+- [Reasons Windows Is Going in the Wrong Direction](https://www.pcmag.com/opinions/windows-is-going-in-the-wrong-direction)
 - [Show HN: Summary Cat, a YouTube Video Summary Generator](https://www.summarycat.com)
 - [Three NorCal Tribes Announce Nation’s First Indigenous Ocean Protection Area](https://lostcoastoutpost.com/2023/sep/22/three-norcal-tribes-announce-first-us-indigenous-m/)
 - [Let&#39;s Build a FIPS-Validated Rust Crypto Library](https://briansmith.org/lets-build-a-fips-rust-crypto)
-- [NASA JPL Open Source Rover That Runs ROS 2](https://github.com/nasa-jpl/open-source-rover)
-- [CFPB kicks off rulemaking to remove medical bills from credit reports](https://www.consumerfinance.gov/about-us/newsroom/cfpb-kicks-off-rulemaking-to-remove-medical-bills-from-credit-reports/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
