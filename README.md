@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
-- [AMPKT – Amateur radio packet explorer](https://github.com/hexagonal-sun/ampkt)
-- [A customer stuck due to a hurricane who needed SSH](https://rachelbythebay.com/w/2023/09/21/hurricane/)
-- [Android 14 adds support for using your smartphone as a webcam](https://www.esper.io/blog/android-14-adds-support-for-using-your-smartphone-as-a-webcam)
-- [LabelContactRelationYoungerCousinMothersSiblingsDaughterOrFathersSistersDaughter](https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter)
+- [Nintendo 3DS Architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
+- [Outperforming LLMs with less training data and smaller model sizes](https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
+- [MGM Seeks Contractors to Repair Infra in 3 Weeks](https://www.snagajob.com/jobs/870614703)
+- [Second-Guessing the Modern Web](https://macwright.com/2020/05/10/spa-fatigue)
+- [Haskell WebAssembly in the Browser](http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
