@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All 8,291 license plates available in the U.S.](https://github.com/jonkeegan/us-license-plates)
 - [Nintendo 3DS Architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
 - [Outperforming LLMs with less training data and smaller model sizes](https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
-- [MGM Seeks Contractors to Repair Infra in 3 Weeks](https://www.snagajob.com/jobs/870614703)
-- [Second-Guessing the Modern Web](https://macwright.com/2020/05/10/spa-fatigue)
+- [Second-Guessing the Modern Web &lpar;2020&rpar;](https://macwright.com/2020/05/10/spa-fatigue)
 - [Haskell WebAssembly in the Browser](http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/)
 <!-- BLOG-POST-LIST:END -->
 
