@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Framework laptops: We are not sustainable](https://perfect-hiring-822947.framer.app/sustainability)
+- [Valve Is a Wonderful Upstream Contributor to Linux and the Open-Source Community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)
+- [Ask HN: Sites like HN on other topics?](https://news.ycombinator.com/item?id=37611708)
+- [Show HN: Learn piano without sheet music](https://jacobdoescode.com/piano-tabs)
 - [Tailscale Kubernetes Operator](https://tailscale.com/kb/1236/kubernetes-operator/)
-- [Amazon Prime Video content to start including ads next year](https://www.bbc.co.uk/news/business-66887717)
-- [Learn Rust by building real-world examples](https://www.shuttle.rs/launchpad)
-- [AnyBT: A BitTorrent Search Engine Works on ENS and IPFS](https://anybt.eth.link/#/?s=yc)
+- [Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
