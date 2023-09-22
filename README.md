@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What are some communities like HN?](https://news.ycombinator.com/item?id=37616919)
-- [Abraham Lincoln assassination Ford&#39;s Theatre tickets up for auction](https://www.rrauction.com/auctions/lot-detail/347903406696018-abraham-lincoln-assassination-2-fords-theatre-front-row-tickets-from-april-14-1865-ex-forbes-collection)
-- [CFPB begins a process to remove medical bills from Americans’ credit reports](https://www.consumerfinance.gov/about-us/newsroom/cfpb-kicks-off-rulemaking-to-remove-medical-bills-from-credit-reports/)
-- [When half a million Americans died and nobody noticed &lpar;2012&rpar;](https://theweek.com/us/46535/when-half-million-americans-died-and-nobody-noticed)
-- [Makefile Tutorial](https://makefiletutorial.com/)
+- [Show HN: Summary Cat, a YouTube Video Summary Generator](https://www.summarycat.com)
+- [Three NorCal Tribes Announce Nation’s First Indigenous Ocean Protection Area](https://lostcoastoutpost.com/2023/sep/22/three-norcal-tribes-announce-first-us-indigenous-m/)
+- [Let&#39;s Build a FIPS-Validated Rust Crypto Library](https://briansmith.org/lets-build-a-fips-rust-crypto)
+- [NASA JPL Open Source Rover That Runs ROS 2](https://github.com/nasa-jpl/open-source-rover)
+- [CFPB kicks off rulemaking to remove medical bills from credit reports](https://www.consumerfinance.gov/about-us/newsroom/cfpb-kicks-off-rulemaking-to-remove-medical-bills-from-credit-reports/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
