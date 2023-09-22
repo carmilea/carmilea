@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK Government Extends Petrol and Diesel Car Sales Until 2035](https://www.motaclarity.co.uk/news/uk-government-extends-petrol-and-diesel-car-sales-until-2035)
+- [Ask HN: What are some communities like HN?](https://news.ycombinator.com/item?id=37616919)
+- [Abraham Lincoln assassination Ford&#39;s Theatre tickets up for auction](https://www.rrauction.com/auctions/lot-detail/347903406696018-abraham-lincoln-assassination-2-fords-theatre-front-row-tickets-from-april-14-1865-ex-forbes-collection)
+- [CFPB begins a process to remove medical bills from Americans’ credit reports](https://www.consumerfinance.gov/about-us/newsroom/cfpb-kicks-off-rulemaking-to-remove-medical-bills-from-credit-reports/)
+- [When half a million Americans died and nobody noticed &lpar;2012&rpar;](https://theweek.com/us/46535/when-half-million-americans-died-and-nobody-noticed)
 - [Makefile Tutorial](https://makefiletutorial.com/)
-- [I&#39;m writing a new CLI text editor, because I can](https://github.com/boutell/tome/blob/main/README.md)
-- [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
-- [The Plan for InfluxDB 3.0 Open Source](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
