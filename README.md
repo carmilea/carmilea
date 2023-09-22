@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Age of the Grift Shift](https://tante.cc/2023/09/21/the-age-of-the-grift-shift/)
 - [Chrome feature: Compression dictionary transport with Shared Brotli](https://chromestatus.com/feature/5124977788977152)
 - [AWS Customers Cannot Escape IPv4](https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html)
 - [I&#39;m fed up with it, so I&#39;m writing a browser](https://adayinthelifeof.nl/2023/09/22/browsers.html)
 - [Publius Enigma](https://en.wikipedia.org/wiki/Publius_Enigma)
-- [Is ClickHouse Moving Away from Open Source?](https://altinity.com/blog/is-clickhouse-moving-away-from-open-source)
 <!-- BLOG-POST-LIST:END -->
 
 ---
