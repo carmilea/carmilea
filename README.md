@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m All-In on Server-Side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
-- [Show HN: Paisa – Open-Source Personal Finance Manager](https://paisa.fyi/)
-- [Java 21: The Nice, the Meh, and the Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
-- [Working Remotely Can More Than Halve an Office Employee’s Carbon Footprint](https://www.scientificamerican.com/article/working-remotely-can-more-than-halve-an-office-employees-carbon-footprint/)
-- [Final National Security Guardrails for Chips for America Incentives Program](https://www.nist.gov/news-events/news/2023/09/biden-harris-administration-announces-final-national-security-guardrails)
+- [Apple fucked us on right to repair &lpar;again&rpar;](https://pluralistic.net/2023/09/22/vin-locking/#thought-differently)
+- [How to Roman Republic, Part IV: The Senate](https://acoup.blog/2023/09/22/collections-how-to-roman-republic-part-iv-the-senate/)
+- [Show HN: Rapidpages – OSS alternative to vercel&#39;s v0](https://github.com/rapidpages/rapidpages)
+- [Kia, Hyundai Blame Mass Car Thefts on ‘Lax Policing’ in Court Defense](https://www.thedrive.com/news/kia-hyundai-blame-mass-car-thefts-on-lax-policing-in-court-defense)
+- [I&#39;m All-In on Server-Side SQLite &lpar;2022&rpar;](https://fly.io/blog/all-in-on-sqlite-litestream/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
