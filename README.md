@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Bogus CVE Problem](https://lwn.net/Articles/944209/)
+- [Modular forms, the ‘fifth fundamental operation’ of math](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
 - [French was the official language of England from 1066 till 1362](https://www.frenchleeds.co.uk/french-was-the-official-language-of-england-for-about-300-years-from-1066-till-1362)
 - [“The Poet Is a Man Who Feigns”](https://daily.jstor.org/the-poet-is-a-man-who-feigns/)
 - [Suppressing negative thoughts may be good for mental health after all](https://www.cam.ac.uk/research/news/suppressing-negative-thoughts-may-be-good-for-mental-health-after-all-study-suggests)
-- [Luiz André Barroso has died](https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/)
-- [Nintendo 3DS Architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
