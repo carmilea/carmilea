@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Android to take an “upstream first” development model for the Linux kernel](https://arstechnica.com/gadgets/2021/09/android-to-take-an-upstream-first-development-model-for-the-linux-kernel/)
-- [GitHub Actions could be so much better](https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better)
-- [Valve is a wonderful upstream contributor to Linux and the open-source community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)
-- [Tailscale Kubernetes Operator](https://tailscale.com/kb/1236/kubernetes-operator/)
-- [Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices)
+- [I&#39;m All-In on Server-Side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
+- [Show HN: Paisa – Open-Source Personal Finance Manager](https://paisa.fyi/)
+- [Java 21: The Nice, the Meh, and the Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
+- [Working Remotely Can More Than Halve an Office Employee’s Carbon Footprint](https://www.scientificamerican.com/article/working-remotely-can-more-than-halve-an-office-employees-carbon-footprint/)
+- [Final National Security Guardrails for Chips for America Incentives Program](https://www.nist.gov/news-events/news/2023/09/biden-harris-administration-announces-final-national-security-guardrails)
 <!-- BLOG-POST-LIST:END -->
 
 ---
