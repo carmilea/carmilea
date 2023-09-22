@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Valve Is a Wonderful Upstream Contributor to Linux and the Open-Source Community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)
-- [Ask HN: Sites like HN on other topics?](https://news.ycombinator.com/item?id=37611708)
-- [Show HN: Learn piano without sheet music](https://jacobdoescode.com/piano-tabs)
+- [Android to take an “upstream first” development model for the Linux kernel](https://arstechnica.com/gadgets/2021/09/android-to-take-an-upstream-first-development-model-for-the-linux-kernel/)
+- [GitHub Actions could be so much better](https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better)
+- [Valve is a wonderful upstream contributor to Linux and the open-source community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)
 - [Tailscale Kubernetes Operator](https://tailscale.com/kb/1236/kubernetes-operator/)
 - [Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices)
 <!-- BLOG-POST-LIST:END -->
