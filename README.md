@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Framework laptops: We are not sustainable](https://perfect-hiring-822947.framer.app/sustainability)
+- [Tailscale Kubernetes Operator](https://tailscale.com/kb/1236/kubernetes-operator/)
+- [Amazon Prime Video content to start including ads next year](https://www.bbc.co.uk/news/business-66887717)
+- [Learn Rust by building real-world examples](https://www.shuttle.rs/launchpad)
 - [AnyBT: A BitTorrent Search Engine Works on ENS and IPFS](https://anybt.eth.link/#/?s=yc)
-- [All the ways to capture changes in Postgres](https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/)
-- [Westinghouse/Bechtel Consortium Agreement: First Nuclear Power Plant in Poland](https://info.westinghousenuclear.com/news/westinghouse-and-bechtel-sign-consortium-agreement-for-first-nuclear-power-plant-in-poland)
-- [Signal: The Pqxdh Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/)
-- [Using enums to represent state in Rust](https://corrode.dev/blog/enums/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
