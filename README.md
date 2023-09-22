@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple fucked us on right to repair &lpar;again&rpar;](https://pluralistic.net/2023/09/22/vin-locking/#thought-differently)
+- [I&#39;m writing a new CLI text editor, because I can](https://github.com/boutell/tome/blob/main/README.md)
+- [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
+- [An open letter to our community](https://blog.unity.com/news/open-letter-on-runtime-fee)
+- [Amazon Prime Video content to start including ads next year](https://www.bbc.com/news/business-66887717)
 - [How to Roman Republic, Part IV: The Senate](https://acoup.blog/2023/09/22/collections-how-to-roman-republic-part-iv-the-senate/)
-- [Show HN: Rapidpages – OSS alternative to vercel&#39;s v0](https://github.com/rapidpages/rapidpages)
-- [Kia, Hyundai Blame Mass Car Thefts on ‘Lax Policing’ in Court Defense](https://www.thedrive.com/news/kia-hyundai-blame-mass-car-thefts-on-lax-policing-in-court-defense)
-- [I&#39;m All-In on Server-Side SQLite &lpar;2022&rpar;](https://fly.io/blog/all-in-on-sqlite-litestream/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
