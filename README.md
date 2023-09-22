@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK Government Extends Petrol and Diesel Car Sales Until 2035](https://www.motaclarity.co.uk/news/uk-government-extends-petrol-and-diesel-car-sales-until-2035)
+- [Makefile Tutorial](https://makefiletutorial.com/)
 - [I&#39;m writing a new CLI text editor, because I can](https://github.com/boutell/tome/blob/main/README.md)
 - [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
-- [An open letter to our community](https://blog.unity.com/news/open-letter-on-runtime-fee)
-- [Amazon Prime Video content to start including ads next year](https://www.bbc.com/news/business-66887717)
-- [How to Roman Republic, Part IV: The Senate](https://acoup.blog/2023/09/22/collections-how-to-roman-republic-part-iv-the-senate/)
+- [The Plan for InfluxDB 3.0 Open Source](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
