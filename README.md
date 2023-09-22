@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“The Poet Is a Man Who Feigns”](https://daily.jstor.org/the-poet-is-a-man-who-feigns/)
 - [Suppressing negative thoughts may be good for mental health after all](https://www.cam.ac.uk/research/news/suppressing-negative-thoughts-may-be-good-for-mental-health-after-all-study-suggests)
+- [Luiz André Barroso has died](https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/)
 - [Nintendo 3DS Architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
-- [Outperforming LLMs with less training data and smaller model sizes](https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
-- [Haskell WebAssembly in the Browser](http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/)
-- [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
+- [Outperforming larger language models with less training data and smaller models](https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
