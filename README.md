@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m fed up with it, so I&#39;m writing a browser](https://adayinthelifeof.nl/2023/09/22/browsers.html)
+- [Publius Enigma](https://en.wikipedia.org/wiki/Publius_Enigma)
 - [The Bogus CVE Problem](https://lwn.net/Articles/944209/)
 - [Modular forms, the ‘fifth fundamental operation’ of math](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
-- [French was the official language of England from 1066 till 1362](https://www.frenchleeds.co.uk/french-was-the-official-language-of-england-for-about-300-years-from-1066-till-1362)
 - [“The Poet Is a Man Who Feigns”](https://daily.jstor.org/the-poet-is-a-man-who-feigns/)
-- [Suppressing negative thoughts may be good for mental health after all](https://www.cam.ac.uk/research/news/suppressing-negative-thoughts-may-be-good-for-mental-health-after-all-study-suggests)
 <!-- BLOG-POST-LIST:END -->
 
 ---
