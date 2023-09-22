@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Seriously Consider Skipping the Drinks](https://www.health.harvard.edu/heart-health/want-a-healthier-heart-seriously-consider-skipping-the-drinks)
+- [AWS Customers Cannot Escape IPv4](https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html)
 - [I&#39;m fed up with it, so I&#39;m writing a browser](https://adayinthelifeof.nl/2023/09/22/browsers.html)
 - [Publius Enigma](https://en.wikipedia.org/wiki/Publius_Enigma)
 - [The Bogus CVE Problem](https://lwn.net/Articles/944209/)
-- [Modular forms, the ‘fifth fundamental operation’ of math](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
-- [“The Poet Is a Man Who Feigns”](https://daily.jstor.org/the-poet-is-a-man-who-feigns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
