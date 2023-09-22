@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [All 8,291 license plates available in the U.S.](https://github.com/jonkeegan/us-license-plates)
+- [Suppressing negative thoughts may be good for mental health after all](https://www.cam.ac.uk/research/news/suppressing-negative-thoughts-may-be-good-for-mental-health-after-all-study-suggests)
 - [Nintendo 3DS Architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
 - [Outperforming LLMs with less training data and smaller model sizes](https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
-- [Second-Guessing the Modern Web &lpar;2020&rpar;](https://macwright.com/2020/05/10/spa-fatigue)
 - [Haskell WebAssembly in the Browser](http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/)
+- [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
