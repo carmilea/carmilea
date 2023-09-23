@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [American Labor’s Real Problem: It Isn’t Productive Enough](https://www.wsj.com/economy/american-labors-real-problem-it-isnt-productive-enough-185fb9f1)
+- [MIT 6.5940: TinyML and Efficient Deep Learning Computing](https://efficientml.ai/)
 - [Teaching Software Engineering in DLang [pdf]](https://dconf.org/2023/slides/shah_and_students.pdf)
+- [Show HN: ChatGPT for Med-School and Healthcare](https://chat.radiantai.health/)
 - [Why are you better at recognizing upright faces?](https://medicalxpress.com/news/2023-09-upright-clues-person-world-differently.html)
-- [Imbue &lpar;Formerly Generally Intelligent, YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=37619709)
-- [Sidenotes in Web Design](https://gwern.net/sidenote)
-- [Croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
