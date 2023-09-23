@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do I stop overthinking personal project management?](https://news.ycombinator.com/item?id=37623086)
-- [She got famous on YouTube. Now it helps fund her research in quantum gravity](https://text.npr.org/1199469798)
-- [Linux Terminal Emulators Have the Potential of Being Much Faster](https://www.phoronix.com/news/Linux-Terminals-Could-Be-Faster)
-- [School Surveillance Tools Are Harming Kids](https://gizmodo.com/school-surveillance-harm-kids-homework-report-1850854919)
-- [Collecting and curating material is good and we should do it more](https://buttondown.email/hillelwayne/archive/in-defense-of/)
+- [Ethereum founder on U.S. crypto crackdown](https://www.cnbc.com/2023/09/22/vitalik-buterin-cnbc-interview-ethereum-founder-on-us-crypto-crackdown.html)
+- [Make Something Wonderful](https://news.ycombinator.com/item?id=37623569)
+- [Blocking Visual Studio Code embedded reverse shell before it&#39;s too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
+- [Spyware can infect your phone or computer via the ads you see online – report](https://theconversation.com/spyware-can-infect-your-phone-or-computer-via-the-ads-you-see-online-report-213685)
+- [India fails to re-establish communication with its Moon probe](https://efe.com/en/science-and-technology/2023-09-22/india-fails-to-re-establish-communication-with-its-moon-probe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
