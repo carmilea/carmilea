@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Radio Station That Bridge Built](https://www.nutsvolts.com/magazine/article/the-radio-station-that-bridge-built)
-- [Ask HN: Where Are All the Jobs At?](https://news.ycombinator.com/item?id=37617322)
-- [Three NorCal Tribes Announce Nation’s First Indigenous Ocean Protection Area](https://lostcoastoutpost.com/2023/sep/22/three-norcal-tribes-announce-first-us-indigenous-m/)
-- [NASA JPL Open Source Rover That Runs ROS 2](https://github.com/nasa-jpl/open-source-rover)
-- [CFPB kicks off rulemaking to remove medical bills from credit reports](https://www.consumerfinance.gov/about-us/newsroom/cfpb-kicks-off-rulemaking-to-remove-medical-bills-from-credit-reports/)
+- [Imbue &lpar;Formerly Generally Intelligent, YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=37619709)
+- [LastPass: ‘Horse Gone Barn Bolted’ Is Strong Password](https://krebsonsecurity.com/2023/09/lastpass-horse-gone-barn-bolted-is-strong-password/)
+- [Croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
+- [Show HN: TG – Fast geometry library for C](https://github.com/tidwall/tg)
+- [Conway Can Divide by Three, but I Can’t [pdf]](https://math.berkeley.edu/~pglutz/division_by_three.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
