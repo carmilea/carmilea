@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to enable privacy-first marketing](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [Scientists Improve Anti-Tumor Power of Car-T Cells](https://www.insideprecisionmedicine.com/topics/oncology/scientists-improve-anti-tumor-power-of-car-t-cells/)
+- [The Cambridge Law Corpus: A Corpus for Legal AI Research](https://arxiv.org/abs/2309.12269)
+- [Flowers are starting to spread in Antarctica and experts say it&#39;s not good news](https://www.unilad.com/news/world-news/antarctica-flowers-spread-climate-change-828134-20230922)
 - [Bottlerocket – Minimal, immutable Linux OS with verified boot](https://bottlerocket.dev)
-- [GNU/Linux Aviation How To](https://tldp.org/HOWTO/Aviation-HOWTO/index.html)
-- [The housing market is about to take a hit as student loan payments restart](https://markets.businessinsider.com/news/commodities/housing-market-student-loan-payments-restart-affordability-crisis-mortgage-rates-2023-8)
-- [The Matching Problem in Dating](https://eriktorenberg.substack.com/p/the-matching-problem-in-dating)
-- [Project Gutenberg has implemented one of the worst AI fears of striking actors](https://qz.com/project-gutenberg-ai-to-ebooks-audiobooks-1850856297)
 <!-- BLOG-POST-LIST:END -->
 
 ---
