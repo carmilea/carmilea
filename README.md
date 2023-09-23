@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The strange disappearance of Mrs Agatha Christie &lpar;2022&rpar;](https://blog.nationalarchives.gov.uk/20speople-investigating-the-strange-disappearance-of-mrs-agatha-christie/)
+- [The era of America’s subminimum wage for tipped restaurant workers may be ending](https://www.cnbc.com/2023/09/23/the-era-of-the-subminimum-wage-for-tipped-restaurant-workers-is-ending.html)
 - [Woman loses over $44k after downloading third-party app to buy fish](https://www.straitstimes.com/singapore/woman-loses-over-44k-after-downloading-third-party-app-to-buy-fish)
 - [iPhone 15 Pro Max vs. DSLR photos: Real world camera comparison](https://9to5mac.com/2023/09/23/iphone-15-pro-max-vs-dslr-photo-comparison/)
 - [Worm that jumps from rats to slugs to human brains has invaded Southeast US](https://arstechnica.com/health/2023/09/worm-that-jumps-from-rats-to-slugs-to-human-brains-has-invaded-southeast-us/)
-- [TSA Policy on Light Sabers](https://www.tsa.gov/travel/security-screening/whatcanibring/items/light-saber)
-- [Definitely Do Not Put Plastic in the Microwave](https://www.bonappetit.com/story/can-you-put-plastic-in-the-microwave)
 <!-- BLOG-POST-LIST:END -->
 
 ---
