@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do I stop overthinking personal project management?](https://news.ycombinator.com/item?id=37623086)
+- [She got famous on YouTube. Now it helps fund her research in quantum gravity](https://text.npr.org/1199469798)
+- [Linux Terminal Emulators Have the Potential of Being Much Faster](https://www.phoronix.com/news/Linux-Terminals-Could-Be-Faster)
 - [School Surveillance Tools Are Harming Kids](https://gizmodo.com/school-surveillance-harm-kids-homework-report-1850854919)
-- [MGM Grand hiring a RHEL SysAdmin willing to work 10 hours/day 7 days/week](https://twitter.com/LasVegasLocally/status/1704986596439941601)
-- [Coding Guidelines for Prolog &lpar;2011&rpar;](https://arxiv.org/abs/0911.2899)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Imba – The friendly full-stack language](https://imba.io/)
+- [Collecting and curating material is good and we should do it more](https://buttondown.email/hillelwayne/archive/in-defense-of/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
