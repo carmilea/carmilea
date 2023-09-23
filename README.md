@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iCloud Drive silently deletes your content](https://www.dominikmayer.com/2023/09/icloud-drive-silently-deletes-your-content/)
-- [We Fixed the iPhone 15](https://twitter.com/FrameworkPuter/status/1705458267508609052)
-- [I open-sourced Even the Ocean](https://melodicambient.substack.com/p/i-open-sourced-even-the-ocean-2016)
-- [Brainless Jellyfish Demonstrate Learning Ability](https://www.nytimes.com/2023/09/22/science/jellyfish-learning-neurons.html)
-- [The strange disappearance of Mrs Agatha Christie &lpar;2022&rpar;](https://blog.nationalarchives.gov.uk/20speople-investigating-the-strange-disappearance-of-mrs-agatha-christie/)
+- [Bottlerocket – Minimal, immutable Linux OS with verified boot](https://bottlerocket.dev)
+- [GNU/Linux Aviation How To](https://tldp.org/HOWTO/Aviation-HOWTO/index.html)
+- [The housing market is about to take a hit as student loan payments restart](https://markets.businessinsider.com/news/commodities/housing-market-student-loan-payments-restart-affordability-crisis-mortgage-rates-2023-8)
+- [The Matching Problem in Dating](https://eriktorenberg.substack.com/p/the-matching-problem-in-dating)
+- [Project Gutenberg has implemented one of the worst AI fears of striking actors](https://qz.com/project-gutenberg-ai-to-ebooks-audiobooks-1850856297)
 <!-- BLOG-POST-LIST:END -->
 
 ---
