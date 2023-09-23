@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT 6.5940: TinyML and Efficient Deep Learning Computing](https://efficientml.ai/)
+- [State of HTML 2023 now open](https://lea.verou.me/blog/2023/state-of-html-2023/)
+- [TinyML and Efficient Deep Learning Computing](https://efficientml.ai/)
 - [Teaching Software Engineering in DLang [pdf]](https://dconf.org/2023/slides/shah_and_students.pdf)
 - [FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4, 2023](https://www.fema.gov/press-release/20230803/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-2023)
 - [Show HN: ChatGPT for Med-School and Healthcare](https://chat.radiantai.health/)
-- [Why are you better at recognizing upright faces?](https://medicalxpress.com/news/2023-09-upright-clues-person-world-differently.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
