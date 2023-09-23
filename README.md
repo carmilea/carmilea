@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iCloud Drive silently deletes your content](https://www.dominikmayer.com/2023/09/icloud-drive-silently-deletes-your-content/)
+- [We Fixed the iPhone 15](https://twitter.com/FrameworkPuter/status/1705458267508609052)
+- [I open-sourced Even the Ocean](https://melodicambient.substack.com/p/i-open-sourced-even-the-ocean-2016)
+- [Brainless Jellyfish Demonstrate Learning Ability](https://www.nytimes.com/2023/09/22/science/jellyfish-learning-neurons.html)
 - [The strange disappearance of Mrs Agatha Christie &lpar;2022&rpar;](https://blog.nationalarchives.gov.uk/20speople-investigating-the-strange-disappearance-of-mrs-agatha-christie/)
-- [The era of America’s subminimum wage for tipped restaurant workers may be ending](https://www.cnbc.com/2023/09/23/the-era-of-the-subminimum-wage-for-tipped-restaurant-workers-is-ending.html)
-- [Woman loses over $44k after downloading third-party app to buy fish](https://www.straitstimes.com/singapore/woman-loses-over-44k-after-downloading-third-party-app-to-buy-fish)
-- [iPhone 15 Pro Max vs. DSLR photos: Real world camera comparison](https://9to5mac.com/2023/09/23/iphone-15-pro-max-vs-dslr-photo-comparison/)
-- [Worm that jumps from rats to slugs to human brains has invaded Southeast US](https://arstechnica.com/health/2023/09/worm-that-jumps-from-rats-to-slugs-to-human-brains-has-invaded-southeast-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
