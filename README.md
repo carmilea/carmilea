@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Woman loses over $44k after downloading third-party app to buy fish](https://www.straitstimes.com/singapore/woman-loses-over-44k-after-downloading-third-party-app-to-buy-fish)
+- [iPhone 15 Pro Max vs. DSLR photos: Real world camera comparison](https://9to5mac.com/2023/09/23/iphone-15-pro-max-vs-dslr-photo-comparison/)
+- [Worm that jumps from rats to slugs to human brains has invaded Southeast US](https://arstechnica.com/health/2023/09/worm-that-jumps-from-rats-to-slugs-to-human-brains-has-invaded-southeast-us/)
+- [TSA Policy on Light Sabers](https://www.tsa.gov/travel/security-screening/whatcanibring/items/light-saber)
 - [Definitely Do Not Put Plastic in the Microwave](https://www.bonappetit.com/story/can-you-put-plastic-in-the-microwave)
-- [Why Scalpers Can Get Olivia Rodrigo Tickets and You Can&#39;t](https://www.404media.co/why-scalpers-can-get-olivia-rodrigo-tickets-and-fans-cannot/)
-- [Make Something Wonderful](https://news.ycombinator.com/item?id=37623569)
-- [Blocking Visual Studio Code embedded reverse shell before it&#39;s too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
-- [Spyware can infect your phone or computer via the ads you see online – report](https://theconversation.com/spyware-can-infect-your-phone-or-computer-via-the-ads-you-see-online-report-213685)
 <!-- BLOG-POST-LIST:END -->
 
 ---
