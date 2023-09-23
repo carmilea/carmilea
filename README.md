@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [School Surveillance Tools Are Harming Kids](https://gizmodo.com/school-surveillance-harm-kids-homework-report-1850854919)
+- [MGM Grand hiring a RHEL SysAdmin willing to work 10 hours/day 7 days/week](https://twitter.com/LasVegasLocally/status/1704986596439941601)
+- [Coding Guidelines for Prolog &lpar;2011&rpar;](https://arxiv.org/abs/0911.2899)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Fossil versus Git](https://www.fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
-- [LLMs trained on “A is B” fail to learn “B is A”](https://paperswithcode.com/paper/the-reversal-curse-llms-trained-on-a-is-b)
-- [Re: 100k Threads? &lpar;2002&rpar;](https://lkml.iu.edu/hypermail/linux/kernel/0209.2/1153.html)
-- [Ask HN: Who is using the D language and likes/doesn&#39;t like it? Why?](https://news.ycombinator.com/item?id=37621348)
+- [Imba – The friendly full-stack language](https://imba.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
