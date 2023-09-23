@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are NFTs Dead? Trends, Predictions and Statistics 2023](https://dappgambl.com/nfts/dead-nfts/)
 - [Imbue &lpar;Formerly Generally Intelligent, YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=37619709)
-- [LastPass: ‘Horse Gone Barn Bolted’ Is Strong Password](https://krebsonsecurity.com/2023/09/lastpass-horse-gone-barn-bolted-is-strong-password/)
+- [Sidenotes in Web Design](https://gwern.net/sidenote)
 - [Croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
 - [Show HN: TG – Fast geometry library for C](https://github.com/tidwall/tg)
-- [Conway Can Divide by Three, but I Can’t [pdf]](https://math.berkeley.edu/~pglutz/division_by_three.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
