@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Unforeseen LSD Overdose of 1972](https://notsoprofound.com/the-unforeseen-lsd-overdose-of-1972/)
+- [EU fines Intel $400M for blocking AMD&#39;s market access](https://www.neowin.net/news/eu-fines-intel-400-million-for-blocking-amds-market-access-through-payments-to-pc-makers/)
 - [Ways YC has changed in the last year](https://twitter.com/snowmaker/status/1705643839443403263)
+- [Neural-Symbolic Recursive Machine for Systematic Generalization](https://arxiv.org/abs/2210.01603)
 - [Freshpaint &lpar;YC S19&rpar; is hiring engineers to enable privacy-first marketing](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [Scientists improve anti-tumor power of CAR-T cells](https://www.insideprecisionmedicine.com/topics/oncology/scientists-improve-anti-tumor-power-of-car-t-cells/)
-- [The Cambridge Law Corpus: A Corpus for Legal AI Research](https://arxiv.org/abs/2309.12269)
-- [Bottlerocket – Minimal, immutable Linux OS with verified boot](https://bottlerocket.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
