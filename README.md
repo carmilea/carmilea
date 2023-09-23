@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [Fossil versus Git](https://www.fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
 - [LLMs trained on “A is B” fail to learn “B is A”](https://paperswithcode.com/paper/the-reversal-curse-llms-trained-on-a-is-b)
 - [Re: 100k Threads? &lpar;2002&rpar;](https://lkml.iu.edu/hypermail/linux/kernel/0209.2/1153.html)
-- [Tinder Offers $500-a-Month Subscription to Its Most Active Users](https://www.bloomberg.com/news/articles/2023-09-22/tinder-offers-500-per-month-subscription-for-top-1-of-daters)
-- [Shshsh is a bridge connects Python and shell](https://github.com/zqqqqz2000/shshsh)
-- [State of HTML 2023 now open](https://lea.verou.me/blog/2023/state-of-html-2023/)
+- [Ask HN: Who is using the D language and likes/doesn&#39;t like it? Why?](https://news.ycombinator.com/item?id=37621348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
