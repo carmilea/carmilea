@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are NFTs Dead? Trends, Predictions and Statistics 2023](https://dappgambl.com/nfts/dead-nfts/)
+- [Teaching Software Engineering in DLang [pdf]](https://dconf.org/2023/slides/shah_and_students.pdf)
+- [Why are you better at recognizing upright faces?](https://medicalxpress.com/news/2023-09-upright-clues-person-world-differently.html)
 - [Imbue &lpar;Formerly Generally Intelligent, YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=37619709)
 - [Sidenotes in Web Design](https://gwern.net/sidenote)
 - [Croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
-- [Show HN: TG – Fast geometry library for C](https://github.com/tidwall/tg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
