@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse-engineering the classic MK4116 16-kilobit DRAM chip](https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
-- [Full Resolution Photo Archive](http://aurelm.com/portfolio/aurel-manea-photo-archive/)
-- [Low Tech Crypto: Solitaire &lpar;2020&rpar;](https://alicegg.tech//2020/01/03/solitaire.html)
-- [Osiris-Rex Asteroid Sample Return &lpar;Official 4K NASA Broadcast&rpar; [video]](https://www.youtube.com/watch?v=Kdwyqctp908)
-- [Hookworm gave the south a bad name &lpar;2016&rpar;](https://www.pbs.org/wgbh/nova/article/how-a-worm-gave-the-south-a-bad-name/)
+- [Workers who cut countertops are dying of silicosis](https://news.yahoo.com/california-workers-cut-countertops-dying-100021788.html)
+- [Habitually Skipping Breakfast Is Associated with the Risk of GI Cancers](https://pubmed.ncbi.nlm.nih.gov/36869181/)
+- [CoRF: Colorizing Radiance Fields Using Knowledge Distillation](https://arxiv.org/abs/2309.07668)
+- [NASA’s Osiris-Rex capsule lands in Utah with Bennu asteroid sample](https://www.theguardian.com/science/live/2023/sep/24/bennu-asteroid-sample-nasa-osiris-rex-mission-earth-updates)
+- [PiWrite – Kindle Paperwhite to Write](https://github.com/rberenguel/PiWrite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
