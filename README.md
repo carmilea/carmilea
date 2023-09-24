@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Osiris-Rex Asteroid Sample Return &lpar;Official 4K NASA Broadcast&rpar; [video]](https://www.youtube.com/watch?v=Kdwyqctp908)
+- [How A Worm Gave the South a Bad Name](https://www.pbs.org/wgbh/nova/article/how-a-worm-gave-the-south-a-bad-name/)
+- [Valley Fever Is a Growing Fungal Threat to Outdoor Workers](https://www.scientificamerican.com/article/valley-fever-is-a-growing-fungal-threat-to-outdoor-workers/)
 - [What it takes to pass a file path to a Windows API in C++](https://mastodon.gamedev.place/@AshleyGullen/111109299141510319)
 - [The myth of the myth of learning styles](https://nedbatchelder.com/blog/202309/the_myth_of_the_myth_of_learning_styles.html)
-- [Texas death row inmate at mercy of Supreme Court – and junk science](https://www.theguardian.com/world/2023/sep/24/texas-death-row-robert-roberson-supreme-court-shaken-baby-syndrome)
-- [I downgraded to an iPhone 11 Pro Max – and there’s not much I’m missing](https://9to5mac.com/2023/08/02/using-iphone-11-pro-max-in-2023/)
-- [Bus Pirate 5 Firmware](https://firmware.buspirate.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
