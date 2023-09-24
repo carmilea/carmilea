@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cavities were cured in 1985, and no one knows it yet](https://www.lanternbioworks.com)
-- [Workers who cut countertops are dying of silicosis](https://news.yahoo.com/california-workers-cut-countertops-dying-100021788.html)
-- [CoRF: Colorizing Radiance Fields Using Knowledge Distillation](https://arxiv.org/abs/2309.07668)
-- [NASA’s Osiris-Rex capsule lands in Utah with Bennu asteroid sample](https://www.theguardian.com/science/live/2023/sep/24/bennu-asteroid-sample-nasa-osiris-rex-mission-earth-updates)
-- [CSS Findings from the Threads App: Part 2](https://ishadeed.com/article/threads-app-css-part-2/)
+- [Unpacking Amazon’s stealthy mass layoff strategy in Seattle](https://www.seattletimes.com/opinion/unpacking-amazons-stealthy-mass-layoff-strategy-in-seattle/)
+- [Minecraft Wiki has decided to leave Fandom](https://twitter.com/MinecraftWikiEN/status/1706004078206103965)
+- [Brightline Orlando&#39;s First Train 125 MPH from MCO to MIA [video]](https://www.youtube.com/watch?v=Yu18ZqWgQM4)
+- [Gene-Engineered Mouth Bacteria](https://www.lanternbioworks.com)
+- [Mercenary mayhem: A technical analysis of Intellexa&#39;s PREDATOR spyware](https://blog.talosintelligence.com/mercenary-intellexa-predator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
