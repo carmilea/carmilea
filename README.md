@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unpacking Amazon’s stealthy mass layoff strategy in Seattle](https://www.seattletimes.com/opinion/unpacking-amazons-stealthy-mass-layoff-strategy-in-seattle/)
-- [Minecraft Wiki has decided to leave Fandom](https://twitter.com/MinecraftWikiEN/status/1706004078206103965)
-- [Brightline Orlando&#39;s First Train 125 MPH from MCO to MIA [video]](https://www.youtube.com/watch?v=Yu18ZqWgQM4)
-- [Gene-Engineered Mouth Bacteria](https://www.lanternbioworks.com)
-- [Mercenary mayhem: A technical analysis of Intellexa&#39;s PREDATOR spyware](https://blog.talosintelligence.com/mercenary-intellexa-predator/)
+- [Unpacking Elixir: Resilience](https://underjord.io/unpacking-elixir-resilience.html)
+- [Two photographers captured the same millisecond in time &lpar;2018&rpar;](https://www.dpreview.com/articles/7338941576/how-two-photographers-captured-the-same-millisecond-in-time)
+- [US car giants gripped by history-making strike](https://english.elpais.com/economy-and-business/2023-09-24/us-car-giants-gripped-by-history-making-strike.html)
+- [μMon: Stupid simple monitoring](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
+- [Brightline Orlando&#39;s first train: 125 mph from MCO to MIA [video]](https://www.youtube.com/watch?v=Yu18ZqWgQM4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
