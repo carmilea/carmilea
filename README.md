@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Unforeseen LSD Overdose of 1972](https://notsoprofound.com/the-unforeseen-lsd-overdose-of-1972/)
+- [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
+- [IPFS support got merged into curl](https://twitter.com/bmann/status/1705572964068930010)
+- [Spoofing Emails from +2M Domains and Virtually Becoming Satan [pdf]](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/byt3bl33d3r%20-%20SpamChannel%20Spoofing%20Emails%20From%202%20Million%20Domains%20and%20Virtually%20Becoming%20Satan.pdf)
 - [EU fines Intel $400M for blocking AMD&#39;s market access](https://www.neowin.net/news/eu-fines-intel-400-million-for-blocking-amds-market-access-through-payments-to-pc-makers/)
-- [Ways YC has changed in the last year](https://twitter.com/snowmaker/status/1705643839443403263)
 - [Neural-Symbolic Recursive Machine for Systematic Generalization](https://arxiv.org/abs/2210.01603)
-- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to enable privacy-first marketing](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
