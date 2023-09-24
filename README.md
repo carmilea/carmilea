@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why does Apple want me to expose my iPhone password to repair my screen?](https://news.ycombinator.com/item?id=37631186)
+- [Labelling soya foods as ultra-processed is unhelpful](https://www.alprofoundation.org/scientific-updates/labelling-soya-foods-as-ultra-processed-is-unhelpful/)
+- [Bus Pirate 5 Firmware](https://firmware.buspirate.com/)
 - [Why can’t Americans buy cheap Chinese EVs?](https://www.ajot.com/news/why-canat-americans-buy-cheap-chinese-evs/)
 - [A Hackers&#39; Guide to Language Models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 - [The World’s Oldest Active Torrent Turns 20 Years Old](https://torrentfreak.com/the-worlds-oldest-active-torrent-turns-20-years-old-230924/)
-- [Google is killing Gmail&#39;s Basic HTML View in early 2024](https://support.google.com/mail/answer/15049?hl=en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
