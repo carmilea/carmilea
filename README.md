@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Hackers&#39; Guide to Language Models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 - [Google is killing Gmail&#39;s Basic HTML View in early 2024](https://support.google.com/mail/answer/15049?hl=en)
 - [GPT Excel](https://gptexcel.uk/)
+- [TypeScript NPM Packages Done Right](https://blog.liblab.com/typescript-npm-packages-done-right/)
 - [Fiber in C++: Understanding the Basics](https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics/)
-- [Platform that enables Windows driver development in Rust](https://github.com/microsoft/windows-drivers-rs)
-- [Ash Framework](https://ash-hq.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
