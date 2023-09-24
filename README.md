@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Russinovich: “Working towards enabling Windows driver development in Rust”](https://github.com/microsoft/windows-drivers-rs)
+- [Fiber in C++: Understanding the Basics](https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics/)
+- [Platform that enables Windows driver development in Rust](https://github.com/microsoft/windows-drivers-rs)
 - [Modern Linux Tools vs. Unix Classics: Which Would I Choose?](https://meetryanflowers.com/modern-linux-tools-vs-unix-classics-which-would-i-choose/)
-- [Applied Materials Is a Major Reason Computers Keep Getting Faster](https://www.wsj.com/tech/personal-tech/applied-materials-chips-61bbed0e)
+- [Ash Framework](https://ash-hq.org/)
 - [Show HN: Karektar – Bitmap Font Designer](https://karektar.newtrino.ink/)
-- [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
 <!-- BLOG-POST-LIST:END -->
 
 ---
