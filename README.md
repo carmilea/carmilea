@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aurel Manea: I decided to make my photos available in full resolution for free](http://aurelm.com/portfolio/aurel-manea-photo-archive/)
+- [Reverse-engineering the classic MK4116 16-kilobit DRAM chip](https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
+- [Full Resolution Photo Archive](http://aurelm.com/portfolio/aurel-manea-photo-archive/)
 - [Low Tech Crypto: Solitaire &lpar;2020&rpar;](https://alicegg.tech//2020/01/03/solitaire.html)
 - [Osiris-Rex Asteroid Sample Return &lpar;Official 4K NASA Broadcast&rpar; [video]](https://www.youtube.com/watch?v=Kdwyqctp908)
-- [How A Worm Gave the South a Bad Name](https://www.pbs.org/wgbh/nova/article/how-a-worm-gave-the-south-a-bad-name/)
-- [Valley Fever Is a Growing Fungal Threat to Outdoor Workers](https://www.scientificamerican.com/article/valley-fever-is-a-growing-fungal-threat-to-outdoor-workers/)
+- [Hookworm gave the south a bad name &lpar;2016&rpar;](https://www.pbs.org/wgbh/nova/article/how-a-worm-gave-the-south-a-bad-name/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
