@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unpacking Elixir: Resilience](https://underjord.io/unpacking-elixir-resilience.html)
-- [Two photographers captured the same millisecond in time &lpar;2018&rpar;](https://www.dpreview.com/articles/7338941576/how-two-photographers-captured-the-same-millisecond-in-time)
-- [US car giants gripped by history-making strike](https://english.elpais.com/economy-and-business/2023-09-24/us-car-giants-gripped-by-history-making-strike.html)
-- [μMon: Stupid simple monitoring](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
-- [Brightline Orlando&#39;s first train: 125 mph from MCO to MIA [video]](https://www.youtube.com/watch?v=Yu18ZqWgQM4)
+- [LARPing and Violent Extremism](https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism)
+- [A Flesh-Eating Bacterium Is Creeping North as Oceans Warm](https://www.wired.com/story/a-flesh-eating-bacterium-is-creeping-north-as-oceans-warm/)
+- [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
+- [Our Humble Attempt at “How Much Data Is Needed to Fine-Tune](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
+- [Show HN: Get your entire ChatGPT history, in Markdown files](https://github.com/mohamed-chs/chatgpt-history-export-to-md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
