@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Applied Materials Is a Major Reason Computers Keep Getting Faster](https://www.wsj.com/tech/personal-tech/applied-materials-chips-61bbed0e)
+- [Show HN: Karektar – Bitmap Font Designer](https://karektar.newtrino.ink/)
 - [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
 - [IPFS support got merged into curl](https://twitter.com/bmann/status/1705572964068930010)
-- [Spoofing Emails from +2M Domains and Virtually Becoming Satan [pdf]](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/byt3bl33d3r%20-%20SpamChannel%20Spoofing%20Emails%20From%202%20Million%20Domains%20and%20Virtually%20Becoming%20Satan.pdf)
-- [EU fines Intel $400M for blocking AMD&#39;s market access](https://www.neowin.net/news/eu-fines-intel-400-million-for-blocking-amds-market-access-through-payments-to-pc-makers/)
-- [Neural-Symbolic Recursive Machine for Systematic Generalization](https://arxiv.org/abs/2210.01603)
+- [SpamChannel: Spoofing emails from 2M domains and virtually becoming Satan [pdf]](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/byt3bl33d3r%20-%20SpamChannel%20Spoofing%20Emails%20From%202%20Million%20Domains%20and%20Virtually%20Becoming%20Satan.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
