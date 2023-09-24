@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Corrosion: Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1?ref=thebrowser.com)
 - [LARPing and Violent Extremism](https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism)
-- [A Flesh-Eating Bacterium Is Creeping North as Oceans Warm](https://www.wired.com/story/a-flesh-eating-bacterium-is-creeping-north-as-oceans-warm/)
+- [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
 - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 - [Our Humble Attempt at “How Much Data Is Needed to Fine-Tune](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
-- [Show HN: Get your entire ChatGPT history, in Markdown files](https://github.com/mohamed-chs/chatgpt-history-export-to-md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
