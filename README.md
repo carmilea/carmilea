@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Applied Materials Is a Major Reason Computers Keep Getting Faster](https://www.wsj.com/tech/personal-tech/applied-materials-chips-61bbed0e)
+- [Modern Linux Tools vs. Unix Classics: Which Would I Choose?](https://meetryanflowers.com/modern-linux-tools-vs-unix-classics-which-would-i-choose/)
+- [The AI revolution is rotten to the core [video]](https://www.youtube.com/watch?v=-MUEXGaxFDA)
 - [Show HN: Karektar – Bitmap Font Designer](https://karektar.newtrino.ink/)
 - [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
 - [IPFS support got merged into curl](https://twitter.com/bmann/status/1705572964068930010)
-- [SpamChannel: Spoofing emails from 2M domains and virtually becoming Satan [pdf]](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/byt3bl33d3r%20-%20SpamChannel%20Spoofing%20Emails%20From%202%20Million%20Domains%20and%20Virtually%20Becoming%20Satan.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
