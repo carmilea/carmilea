@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Cavities were cured in 1985, and no one knows it yet](https://www.lanternbioworks.com)
 - [Workers who cut countertops are dying of silicosis](https://news.yahoo.com/california-workers-cut-countertops-dying-100021788.html)
-- [Habitually Skipping Breakfast Is Associated with the Risk of GI Cancers](https://pubmed.ncbi.nlm.nih.gov/36869181/)
 - [CoRF: Colorizing Radiance Fields Using Knowledge Distillation](https://arxiv.org/abs/2309.07668)
 - [NASA’s Osiris-Rex capsule lands in Utah with Bennu asteroid sample](https://www.theguardian.com/science/live/2023/sep/24/bennu-asteroid-sample-nasa-osiris-rex-mission-earth-updates)
+- [CSS Findings from the Threads App: Part 2](https://ishadeed.com/article/threads-app-css-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
