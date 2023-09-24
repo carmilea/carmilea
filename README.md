@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google is killing Gmail&#39;s Basic HTML View in early 2024](https://support.google.com/mail/answer/15049?hl=en)
+- [GPT Excel](https://gptexcel.uk/)
 - [Fiber in C++: Understanding the Basics](https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics/)
 - [Platform that enables Windows driver development in Rust](https://github.com/microsoft/windows-drivers-rs)
-- [Modern Linux Tools vs. Unix Classics: Which Would I Choose?](https://meetryanflowers.com/modern-linux-tools-vs-unix-classics-which-would-i-choose/)
 - [Ash Framework](https://ash-hq.org/)
-- [Show HN: Karektar – Bitmap Font Designer](https://karektar.newtrino.ink/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
