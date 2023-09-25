@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Customization for the Forensic Police &lpar;2018&rpar;](http://www.sweethome3d.com/blog/2018/12/10/customization_for_the_forensic_police.html)
+- [F-35A Has Flown from a Highway for the First Time](https://www.thedrive.com/the-war-zone/f-35a-has-flown-from-a-highway-for-the-first-time)
+- [Mixin suspends deposits and withdrawals after $200M cryptocurrency heist](https://www.theregister.com/2023/09/25/mixin_200m_heist/)
 - [Reclaim the Internet with Mozilla](https://blog.mozilla.org/en/mozilla/reclaim-the-internet/)
-- [Show HN: A Highly Configurable Linux-Based Desktop Notifier for RSS/Atom Feeds](https://github.com/EscherMoore/DitchTheBell)
-- [California governor vetoes bill to require human operators in autonomous trucks](https://www.engadget.com/california-governor-vetoes-bill-for-obligatory-human-operators-in-autonomous-trucks-170051289.html)
-- [Show HN: Zero-dependency Java framework out of beta](https://github.com/byronka/minum)
-- [Unity&#39;s oldest community announces dissolution](https://bostonunitygroup.s3.us-east-1.amazonaws.com/index.html)
+- [Linux from Scratch Version 12.0](https://www.linuxfromscratch.org/lfs/view/stable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
