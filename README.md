@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google killing Basic HTML version of Gmail In January 2024](https://www.theregister.com/2023/09/25/gmail_basic_html_discontinued/)
+- [How to Hide a $2T Trial](https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust)
 - [Bitwarden: Free, open-source password manager](https://bitwarden.com/)
 - [Amazon will invest up to $4B in Anthropic](https://www.anthropic.com/index/anthropic-amazon)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37640442)
