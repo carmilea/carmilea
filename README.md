@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google killing Basic HTML version of Gmail In January 2024](https://www.theregister.com/2023/09/25/gmail_basic_html_discontinued/)
+- [Bitwarden: Free, open-source password manager](https://bitwarden.com/)
+- [Amazon will invest up to $4B in Anthropic](https://www.anthropic.com/index/anthropic-amazon)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37640442)
 - [LaLiga “Talks to Google” About Deleting Piracy Apps from a Million Phones](https://torrentfreak.com/laliga-talks-to-google-about-piracy-apps-from-a-million-phones-230924/)
-- [EU proposes 10-year renewal for glyphosate herbicide](https://phys.org/news/2023-09-eu-year-renewal-glyphosate-herbicide.html)
-- [20 Years of Grml.org](https://blog.grml.org/archives/411-20-years-of-grml.org.html)
-- [WGA and the studios reach tentative deal to end writers&#39; strike](https://www.latimes.com/entertainment-arts/business/story/2023-09-24/writers-strike-over-wga-studios-reach-deal-actors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
