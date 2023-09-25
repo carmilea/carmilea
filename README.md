@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
 - [Optery &lpar;YC W22&rpar; – Full Stack Developer with Node.js Experience &lpar;Remote and Israel&rpar;](https://optery.breezy.hr/p/a95772ba7d2b-full-stack-developer-nodejs)
-- [ChatGPT can now see, hear, and speak – openai.com](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
+- [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
 - [Lego axes plan to make bricks from recycled bottles](https://www.bbc.com/news/business-66910573)
 - [Show HN: Netmaker – Netmaker Goes Open Source](https://github.com/gravitl/netmaker/blob/master/LICENSE.md)
-- [Apple will charge you way less to fix cracked back glass on an iPhone 15 Pro](https://arstechnica.com/gadgets/2023/09/apple-will-charge-you-way-less-to-fix-cracked-back-glass-on-an-iphone-15-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
