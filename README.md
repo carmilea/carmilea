@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Customization for the Forensic Police &lpar;2018&rpar;](http://www.sweethome3d.com/blog/2018/12/10/customization_for_the_forensic_police.html)
-- [F-35A Has Flown from a Highway for the First Time](https://www.thedrive.com/the-war-zone/f-35a-has-flown-from-a-highway-for-the-first-time)
-- [Mixin suspends deposits and withdrawals after $200M cryptocurrency heist](https://www.theregister.com/2023/09/25/mixin_200m_heist/)
-- [Reclaim the Internet with Mozilla](https://blog.mozilla.org/en/mozilla/reclaim-the-internet/)
-- [Linux from Scratch Version 12.0](https://www.linuxfromscratch.org/lfs/view/stable/)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Technical Lead &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [Ultra-processed food linked to higher risk of depression, research finds](https://www.theguardian.com/food/2023/sep/20/ultra-processed-food-linked-higher-risk-depression-research-finds)
+- [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
+- [Pixel 8 leak promises 7 years of OS updates](https://arstechnica.com/gadgets/2023/09/pixel-8-leak-promises-7-years-of-os-updates-even-more-than-an-iphone/)
+- [Show HN: Bigcapital - A open-source alternative to QuickBooks](https://github.com/bigcapitalhq/bigcapital)
 <!-- BLOG-POST-LIST:END -->
 
 ---
