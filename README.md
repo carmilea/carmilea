@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Review of MDMA and the Quest for Connection in a Fractured World](https://undark.org/2023/09/22/book-review-the-long-strange-history-of-mdma/)
+- [Minecraft Wiki has forked from Fandom](https://minecraft.wiki/w/Minecraft_Wiki:Moving_from_Fandom)
 - [What was behind Microsoft&#39;s layoffs of over 20k people in the last year?](https://twitter.com/TeamBlind/status/1706266044871086271)
-- [The Ministry of Defence is offering soldiers to support armed police in London](https://www.bbc.com/news/uk-66906201)
+- [Getty made an AI generator that only trained on its licensed image](https://www.theverge.com/2023/9/25/23884679/getty-ai-generative-image-platform-launch)
 - [Car industry pleads for delay to post-Brexit tariffs on EVs](https://www.theregister.com/2023/09/25/car_industry_brexit_tariff/)
-- [Show HN: KitForStartups – The Open Source SvelteKit SaaS Boilerplate](https://github.com/okupter/kitforstartups)
-- [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
