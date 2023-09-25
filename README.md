@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SR-71 Blackbird Astro-Nav System &lpar;a.k.a. R2-D2&rpar; worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
+- [EU’s Euro 7 will also consider tyre and brake particle emissions](https://www.consilium.europa.eu/en/press/press-releases/2023/09/25/euro-7-council-adopts-position-on-emissions-from-cars-vans-buses-and-trucks/)
+- [Intertwingled: Collection of videos to showcase the magic alchemy of computation](https://github.com/ahdinosaur/intertwingled)
 - [Svix &lpar;YC W21&rpar; Is Hiring a Technical Lead &lpar;US Remote&rpar;](https://www.svix.com/careers/)
 - [Ultra-processed food linked to higher risk of depression, research finds](https://www.theguardian.com/food/2023/sep/20/ultra-processed-food-linked-higher-risk-depression-research-finds)
-- [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
-- [Pixel 8 leak promises 7 years of OS updates](https://arstechnica.com/gadgets/2023/09/pixel-8-leak-promises-7-years-of-os-updates-even-more-than-an-iphone/)
-- [Show HN: Bigcapital - A open-source alternative to QuickBooks](https://github.com/bigcapitalhq/bigcapital)
 <!-- BLOG-POST-LIST:END -->
 
 ---
