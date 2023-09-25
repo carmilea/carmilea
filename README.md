@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Volkswagen cuts jobs as demand for EVs plunges](https://fortune.com/2023/09/14/vw-cutting-jobs-german-ev-factory-because-demand-plunging-china-tesla/)
+- [$700 a Month for a Bed-Sized “Pod” in Downtown SF? Techies Are Renting Them](https://sfstandard.com/2023/09/23/san-francisco-pod-house-mint-plaza/)
 - [Corrosion: Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1?ref=thebrowser.com)
+- [LARPing and Violent Extremism](https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism)
 - [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
 - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
-- [Our Humble Attempt at “How Much Data Is Needed to Fine-Tune](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
