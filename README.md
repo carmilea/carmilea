@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Review of MDMA and the Quest for Connection in a Fractured World](https://undark.org/2023/09/22/book-review-the-long-strange-history-of-mdma/)
-- [Minecraft Wiki has forked from Fandom](https://minecraft.wiki/w/Minecraft_Wiki:Moving_from_Fandom)
-- [What was behind Microsoft&#39;s layoffs of over 20k people in the last year?](https://twitter.com/TeamBlind/status/1706266044871086271)
-- [Getty made an AI generator that only trained on its licensed image](https://www.theverge.com/2023/9/25/23884679/getty-ai-generative-image-platform-launch)
-- [Car industry pleads for delay to post-Brexit tariffs on EVs](https://www.theregister.com/2023/09/25/car_industry_brexit_tariff/)
+- [Saint Helena Island Communications](http://sainthelenaisland.info/communications.htm)
+- [California workers who cut countertops are dying of an incurable disease](https://www.latimes.com/california/story/2023-09-24/silicosis-countertop-workers-engineered-stone)
+- [JDK 21 Security Enhancements](https://seanjmullan.org/blog/2023/09/22/jdk21)
+- [Kotlin Multiplatform for Android and iOS Apps](https://www.rockandnull.com/kotlin-multiplatform-compose-multiplatform-cross-platform-development/)
+- [It&#39;s time to let go, Apache Software Foundation](https://rocket9labs.com/post/its-time-to-let-go-apache-software-foundation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
