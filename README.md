@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37640442)
+- [20 Years of Grml.org](https://blog.grml.org/archives/411-20-years-of-grml.org.html)
 - [WGA and the studios reach tentative deal to end writers&#39; strike](https://www.latimes.com/entertainment-arts/business/story/2023-09-24/writers-strike-over-wga-studios-reach-deal-actors)
 - [Tell HN: There is a highlights page on HN](https://news.ycombinator.com/item?id=37639010)
-- [Show HN: Crystaldoc.info – Crystal Shards API Documentation Hosting](https://crystaldoc.info/)
-- [Why do we need modules at all? &lpar;2011&rpar;](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
-- [Type 2 diabetes rates in US youth rose 62% after Covid pandemic began](https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests)
+- [Japan pharma startup to begin human trials of tooth regrowth drug in 2024](https://english.kyodonews.net/news/2023/09/d56fb464a52b-japan-pharma-startup-developing-world-first-drug-to-grow-new-teeth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
