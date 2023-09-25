@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$700 a Month for a Bed-Sized “Pod” in Downtown SF? Techies Are Renting Them](https://sfstandard.com/2023/09/23/san-francisco-pod-house-mint-plaza/)
+- [Type 2 diabetes rates in US youth rose 62% after Covid pandemic began](https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests)
+- [Netflix prepares to send its final red envelope](https://lasvegassun.com/news/2023/sep/23/netflix-prepares-to-send-its-final-red-envelope/)
 - [Corrosion: Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1?ref=thebrowser.com)
 - [LARPing and Violent Extremism](https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism)
 - [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
-- [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
