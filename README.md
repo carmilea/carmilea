@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OnlyFans](https://onlyfans.web.cern.ch/)
-- [New York employers must include pay rates in job ads under new state law](https://english.elpais.com/economy-and-business/2023-09-17/new-york-employers-must-include-pay-rates-in-job-ads-under-new-state-law.html)
-- [Baby boomers are becoming homeless at a rate not seen since the Great Depression](https://moneywise.com/news/economy/rate-of-homeless-baby-boomers-increasing)
-- [How to Hide a $2T Trial](https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust)
-- [Bitwarden: Free, open-source password manager](https://bitwarden.com/)
+- [Optery &lpar;YC W22&rpar; – Full Stack Developer with Node.js Experience &lpar;Remote and Israel&rpar;](https://optery.breezy.hr/p/a95772ba7d2b-full-stack-developer-nodejs)
+- [ChatGPT can now see, hear, and speak – openai.com](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
+- [Lego axes plan to make bricks from recycled bottles](https://www.bbc.com/news/business-66910573)
+- [Show HN: Netmaker – Netmaker Goes Open Source](https://github.com/gravitl/netmaker/blob/master/LICENSE.md)
+- [Apple will charge you way less to fix cracked back glass on an iPhone 15 Pro](https://arstechnica.com/gadgets/2023/09/apple-will-charge-you-way-less-to-fix-cracked-back-glass-on-an-iphone-15-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
