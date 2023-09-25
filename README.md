@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What was behind Microsoft&#39;s layoffs of over 20k people in the last year?](https://twitter.com/TeamBlind/status/1706266044871086271)
+- [The Ministry of Defence is offering soldiers to support armed police in London](https://www.bbc.com/news/uk-66906201)
+- [Car industry pleads for delay to post-Brexit tariffs on EVs](https://www.theregister.com/2023/09/25/car_industry_brexit_tariff/)
+- [Show HN: KitForStartups – The Open Source SvelteKit SaaS Boilerplate](https://github.com/okupter/kitforstartups)
 - [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
-- [Optery &lpar;YC W22&rpar; – Full Stack Developer with Node.js Experience &lpar;Remote and Israel&rpar;](https://optery.breezy.hr/p/a95772ba7d2b-full-stack-developer-nodejs)
-- [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
-- [Lego axes plan to make bricks from recycled bottles](https://www.bbc.com/news/business-66910573)
-- [Show HN: Netmaker – Netmaker Goes Open Source](https://github.com/gravitl/netmaker/blob/master/LICENSE.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
