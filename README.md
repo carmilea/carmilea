@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dots &lpar;YC S21&rpar; Is Hiring for Founding Full-Stack Eningeers](https://www.ycombinator.com/companies/dots-2/jobs)
 - [Saint Helena Island Communications](http://sainthelenaisland.info/communications.htm)
+- [GitHub Passkeys are generally available](https://github.blog/2023-09-21-passkeys-are-generally-available/)
 - [California workers who cut countertops are dying of an incurable disease](https://www.latimes.com/california/story/2023-09-24/silicosis-countertop-workers-engineered-stone)
 - [JDK 21 Security Enhancements](https://seanjmullan.org/blog/2023/09/22/jdk21)
-- [Kotlin Multiplatform for Android and iOS Apps](https://www.rockandnull.com/kotlin-multiplatform-compose-multiplatform-cross-platform-development/)
-- [It&#39;s time to let go, Apache Software Foundation](https://rocket9labs.com/post/its-time-to-let-go-apache-software-foundation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
