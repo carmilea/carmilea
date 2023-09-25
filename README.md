@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel Axes Data Center GPU Max 1350, Preps New Max 1450 for &#39;Different Markets&#39;](https://www.tomshardware.com/news/intel-axes-data-center-gpu-max-1350-preps-max-1450-for-different-markets)
-- [Kafka as an Antipattern](https://joshaustin.tech/blog/kafka-as-an-antipattern/)
-- [Living Off the Land Binaries](https://github.com/LOLBAS-Project/LOLBAS/blob/master/README.md)
-- [Dots &lpar;YC S21&rpar; Is Hiring for Founding Full-Stack Eningeers](https://www.ycombinator.com/companies/dots-2/jobs)
-- [Ian&#39;s Shoelace Site](https://www.fieggen.com/shoelace/)
+- [Reclaim the Internet with Mozilla](https://blog.mozilla.org/en/mozilla/reclaim-the-internet/)
+- [Show HN: A Highly Configurable Linux-Based Desktop Notifier for RSS/Atom Feeds](https://github.com/EscherMoore/DitchTheBell)
+- [California governor vetoes bill to require human operators in autonomous trucks](https://www.engadget.com/california-governor-vetoes-bill-for-obligatory-human-operators-in-autonomous-trucks-170051289.html)
+- [Show HN: Zero-dependency Java framework out of beta](https://github.com/byronka/minum)
+- [Unity&#39;s oldest community announces dissolution](https://bostonunitygroup.s3.us-east-1.amazonaws.com/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
