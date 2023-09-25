@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel Axes Data Center GPU Max 1350, Preps New Max 1450 for &#39;Different Markets&#39;](https://www.tomshardware.com/news/intel-axes-data-center-gpu-max-1350-preps-max-1450-for-different-markets)
+- [Kafka as an Antipattern](https://joshaustin.tech/blog/kafka-as-an-antipattern/)
+- [Living Off the Land Binaries](https://github.com/LOLBAS-Project/LOLBAS/blob/master/README.md)
 - [Dots &lpar;YC S21&rpar; Is Hiring for Founding Full-Stack Eningeers](https://www.ycombinator.com/companies/dots-2/jobs)
-- [Saint Helena Island Communications](http://sainthelenaisland.info/communications.htm)
-- [GitHub Passkeys are generally available](https://github.blog/2023-09-21-passkeys-are-generally-available/)
-- [California workers who cut countertops are dying of an incurable disease](https://www.latimes.com/california/story/2023-09-24/silicosis-countertop-workers-engineered-stone)
-- [JDK 21 Security Enhancements](https://seanjmullan.org/blog/2023/09/22/jdk21)
+- [Ian&#39;s Shoelace Site](https://www.fieggen.com/shoelace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
