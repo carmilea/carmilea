@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lego Says It Won&#39;t Use Recycled Plastic Because It Doesnt Help the Planet](https://gizmodo.com.au/2023/09/lego-says-it-wont-use-recycled-plastic-for-bricks-because-it-doesnt-really-help-the-planet/)
+- [Chip War: The Fight for the Most Critical Technology [video]](https://www.youtube.com/watch?v=2tSs7aESx8s)
+- [Mammals’ time on Earth is half over, scientists predict](https://www.nytimes.com/2023/09/25/science/future-earth-warming-mammal-extinction.html)
 - [Costco now offering virtual medical care for $29](https://www.cbsnews.com/news/costco-virtual-medical-checkups-for-29/)
-- [Hotel hackers redirect guests to fake Booking.com to steal cards](https://www.bleepingcomputer.com/news/security/hotel-hackers-redirect-guests-to-fake-bookingcom-to-steal-cards/)
 - [The United States of Bed Bath &amp; Beyond](https://www.epsilontheory.com/the-united-states-of-bed-bath-beyond/)
 - [Burkey Belser, designer of the nutrition facts label, has died](https://www.washingtonpost.com/obituaries/2023/09/25/burkey-belser-designer-of-ubiquitous-nutrition-facts-label-dies-at-76/)
 <!-- BLOG-POST-LIST:END -->
