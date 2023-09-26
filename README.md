@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dark Side of Tech Culture](https://blog.lettucework.io/the-dark-side-of-culture-20a59c5229b2?gi=57aec2f4d30b)
+- [Merlin&#39;s Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)
+- [Introduction to Sysclean&lpar;8&rpar; on OpenBSD](https://kapouay.eu.org/notes/sysclean-intro/)
+- [BOOX Palma](https://shop.boox.com/products/palma)
+- [Rethinking the Luddites in the Age of A.I](https://www.newyorker.com/books/page-turner/rethinking-the-luddites-in-the-age-of-ai)
 - [All objects and some questions](https://pubs.aip.org/aapt/ajp/article/91/10/819/2911822/All-objects-and-some-questions)
-- [Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet)
-- [EU tells Apple to open everything up to its rivals](https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals)
-- [GPU.zip: side channel attack that exposes visual data processed on the GPU](https://www.hertzbleed.com/gpu.zip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
