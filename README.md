@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Prophet: library for generating forecasts from any time series data](https://github.com/facebook/prophet)
+- [EU tells Apple to open everything up to its rivals](https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals)
+- [Deep-TEMPEST: Recovering images from unintentional EM radiation of HDMI](https://twitter.com/fedelarrocca/status/1688990564576854018)
+- [Causality for Machine Learning](https://ff13.fastforwardlabs.com/)
 - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
-- [I&#39;m convinced now that “personal LLMs” are going to be a huge thing](https://old.reddit.com/r/LocalLLaMA/comments/16au3ga/im_convinced_now_that_personal_llms_are_going_to/)
-- [Vizro – toolkit for creating modular data visualization applications](https://github.com/mckinsey/vizro)
-- [macOS Sonoma is available today](https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/)
-- [Byterat &lpar;YC W23&rpar; Is Hiring a Founding Engineer &lpar;San Francisco&rpar;](https://www.ycombinator.com/companies/byterat/jobs/UtaWWqL-founding-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
