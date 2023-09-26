@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How &lpar;not&rpar; to apply for a software job](https://benhoyt.com/writings/how-to-apply/)
+- [AI is fundamentally ‘a surveillance technology’](https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/)
 - [macOS Containers v0.0.1](https://macoscontainers.org/)
-- [Are older people less innovative?](https://laetitiaatwork.substack.com/p/are-older-people-less-innovative)
+- [Control Center on macOS is always re-rendering its SwiftUI causing 1% CPU load](https://twitter.com/praeclarum/status/1706356007348343064)
 - [Quadlets might make me finally stop using Docker-compose – Major Hayden](https://major.io/p/quadlets-replace-docker-compose/)
-- [Toyota to triple EV output as it chases Tesla, BYD](https://asia.nikkei.com/Business/Automobiles/Toyota-to-triple-EV-output-as-it-chases-Tesla-BYD)
-- [iPhone 15 teardown reveals software lockdown](https://www.ifixit.com/News/82867/iphone-15-teardown-reveals-software-lockdown)
 <!-- BLOG-POST-LIST:END -->
 
 ---
