@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego Says It Won&#39;t Use Recycled Plastic Because It Doesnt Help the Planet](https://gizmodo.com.au/2023/09/lego-says-it-wont-use-recycled-plastic-for-bricks-because-it-doesnt-really-help-the-planet/)
+- [Costco now offering virtual medical care for $29](https://www.cbsnews.com/news/costco-virtual-medical-checkups-for-29/)
+- [Hotel hackers redirect guests to fake Booking.com to steal cards](https://www.bleepingcomputer.com/news/security/hotel-hackers-redirect-guests-to-fake-bookingcom-to-steal-cards/)
 - [The United States of Bed Bath &amp; Beyond](https://www.epsilontheory.com/the-united-states-of-bed-bath-beyond/)
 - [Burkey Belser, designer of the nutrition facts label, has died](https://www.washingtonpost.com/obituaries/2023/09/25/burkey-belser-designer-of-ubiquitous-nutrition-facts-label-dies-at-76/)
-- [‘All of Sony Systems’ Allegedly Hacked by New Ransomware Group](https://kotaku.com/sony-playstation-hack-breach-ransomware-ransomed-vc-1850870993)
-- [Is Math Real?](https://maa.org/press/maa-reviews/is-math-real)
-- [The SR-71 Blackbird Astro-Nav System worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
