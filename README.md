@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unity U-turns on controversial runtime fee and begs forgiveness](https://techcrunch.com/2023/09/22/unity-u-turns-on-controversial-runtime-fee-and-begs-forgiveness/)
-- [Apple exec Eddy Cue set to testify in Google trial about $19B search deal](https://www.cnbc.com/2023/09/26/apple-exec-eddy-cue-testify-google-trial-about-19-billion-search-deal.html)
-- [Google Podcasts to shut down in 2024](https://techcrunch.com/2023/09/26/google-podcasts-to-shut-down-in-2024-with-listeners-migrated-to-youtube-music/)
-- [Newly discovered deep-sea enzyme breaks down PET plastic](https://phys.org/news/2023-09-newly-deep-sea-enzyme-pet-plastic.amp)
-- [Freelancers aren’t happy with Japan’s new invoice system](https://www.japantimes.co.jp/community/2023/09/25/how-tos/freelancer-tax-system/)
+- [FTC Sues Amazon for Illegally Maintaining Monopoly Power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
+- [Ask HN: Best practices for safeguarding master password in organization?](https://news.ycombinator.com/item?id=37661163)
+- [Google Podcasts will die in 2024](https://www.androidpolice.com/google-podcasts-discontinued-announcement/)
+- [Two Thirds of American Kids Can’t Read Fluently](https://www.scientificamerican.com/article/two-thirds-of-american-kids-cant-read-fluently/)
+- [Common infections can spark psychiatric illnesses in children](https://www.economist.com/science-and-technology/2023/09/20/how-common-infections-can-spark-psychiatric-illnesses-in-children)
 <!-- BLOG-POST-LIST:END -->
 
 ---
