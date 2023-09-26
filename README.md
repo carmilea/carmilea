@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Quadlets might make me finally stop using Docker-compose – Major Hayden](https://major.io/p/quadlets-replace-docker-compose/)
-- [I was happy, sad, lost and lonely without a smartphone at the same time](https://ruky.me/2023/09/26/i-was-happy-sad-lost-and-lonely-without-a-smartphone-at-the-same-time/)
 - [John Carmack and Rich Sutton partner to accelerate development of AGI](https://www.globenewswire.com/news-release/2023/09/25/2749057/0/en/John-Carmack-and-Rich-Sutton-partner-to-accelerate-development-of-Artificial-General-Intelligence.html)
 - [iPhone 15 teardown reveals software lockdown](https://www.ifixit.com/News/82867/iphone-15-teardown-reveals-software-lockdown)
-- [The Decline of Condominium Construction in CO: Addressing Litigation Reform](https://commonsenseinstituteco.org/condominium-construction/)
+- [Amazon PillPack – Your medication, sorted and delivered](https://www.pillpack.com)
+- [Costco now offering virtual medical care for $29](https://www.cbsnews.com/news/costco-virtual-medical-checkups-for-29/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
