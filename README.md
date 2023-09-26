@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Have you been affected by layoffs?](https://news.ycombinator.com/item?id=37658410)
-- [Google is picking ChatGPT responses from Quora as correct answer](https://twitter.com/8teapi/status/1706520893621784780)
-- [Google assigns a CVE for libwebp and gives it a 10.0 score](https://stackdiary.com/heap-buffer-overflow-in-libwebp-cve-2023-5129/)
-- [We bootstrap: Hitting $1.5M ARR with a super lean team](https://www.flagsmith.com/blog/why-we-bootstrap)
-- [Who Lusts for Certainty Lusts for Lies](https://www.etymonline.com/columns/post/who-lusts-for-certainty-lusts-for-lies)
+- [Freelancers aren’t happy with Japan’s new invoice system](https://www.japantimes.co.jp/community/2023/09/25/how-tos/freelancer-tax-system/)
+- [The World’s Biggest Crypto Firm Is Melting Down](https://www.wsj.com/finance/currencies/the-worlds-biggest-crypto-firm-is-melting-down-338b8e17)
+- [Firefox 118](https://www.mozilla.org/en-US/firefox/118.0/releasenotes/)
+- [Modular Lpddr Memory Becomes a Reality: Samsung Introduces Lpcamm Memory Modules](https://www.anandtech.com/show/21069/modular-lpddr-becomes-a-reality-samsung-introduces-lpcamm-memory-modules)
+- [Poland may seek extradition of Ukrainian Nazi WW2 veteran Hunka from Canada](https://notesfrompoland.com/2023/09/26/poland-may-seek-extradition-of-ukrainian-nazi-ww2-veteran-hunka-from-canada/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
