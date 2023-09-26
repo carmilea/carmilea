@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS Containers v0.0.1](https://macoscontainers.org/)
+- [Are older people less innovative?](https://laetitiaatwork.substack.com/p/are-older-people-less-innovative)
 - [Quadlets might make me finally stop using Docker-compose – Major Hayden](https://major.io/p/quadlets-replace-docker-compose/)
-- [John Carmack and Rich Sutton partner to accelerate development of AGI](https://www.globenewswire.com/news-release/2023/09/25/2749057/0/en/John-Carmack-and-Rich-Sutton-partner-to-accelerate-development-of-Artificial-General-Intelligence.html)
+- [Toyota to triple EV output as it chases Tesla, BYD](https://asia.nikkei.com/Business/Automobiles/Toyota-to-triple-EV-output-as-it-chases-Tesla-BYD)
 - [iPhone 15 teardown reveals software lockdown](https://www.ifixit.com/News/82867/iphone-15-teardown-reveals-software-lockdown)
-- [Amazon PillPack – Your medication, sorted and delivered](https://www.pillpack.com)
-- [Costco now offering virtual medical care for $29](https://www.cbsnews.com/news/costco-virtual-medical-checkups-for-29/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
