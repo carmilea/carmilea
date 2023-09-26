@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
+- [I&#39;m convinced now that “personal LLMs” are going to be a huge thing](https://old.reddit.com/r/LocalLLaMA/comments/16au3ga/im_convinced_now_that_personal_llms_are_going_to/)
+- [Vizro – toolkit for creating modular data visualization applications](https://github.com/mckinsey/vizro)
+- [macOS Sonoma is available today](https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/)
 - [Byterat &lpar;YC W23&rpar; Is Hiring a Founding Engineer &lpar;San Francisco&rpar;](https://www.ycombinator.com/companies/byterat/jobs/UtaWWqL-founding-engineer)
-- [Digging In: Why Don’t Americans Eat Mutton?](https://modernfarmer.com/2023/09/digging-in-mutton/)
-- [Show HN: Magentic – Use LLMs as simple Python functions](https://github.com/jackmpcollins/magentic)
-- [Show HN: Ollama for Linux – Run LLMs on Linux with GPU Acceleration](https://github.com/jmorganca/ollama/releases/tag/v0.1.0)
-- [FTC files an antitrust lawsuit against Amazon](https://www.theverge.com/2023/9/26/23809817/amazon-ftc-antitrust-lawsuit-monopoly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
