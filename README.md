@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rich Sutton joins John Carmack&#39;s Keen Technologies](https://twitter.com/ID_AA_Carmack/status/1706420064956661867)
-- [Distinguishing features of Long Covid identified through immune profiling](https://www.nature.com/articles/s41586-023-06651-y)
+- [The United States of Bed Bath &amp; Beyond](https://www.epsilontheory.com/the-united-states-of-bed-bath-beyond/)
+- [Burkey Belser, designer of the nutrition facts label, has died](https://www.washingtonpost.com/obituaries/2023/09/25/burkey-belser-designer-of-ubiquitous-nutrition-facts-label-dies-at-76/)
+- [‘All of Sony Systems’ Allegedly Hacked by New Ransomware Group](https://kotaku.com/sony-playstation-hack-breach-ransomware-ransomed-vc-1850870993)
 - [Is Math Real?](https://maa.org/press/maa-reviews/is-math-real)
 - [The SR-71 Blackbird Astro-Nav System worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
-- [Fat Men&#39;s Clubs &lpar;2016&rpar;](https://www.npr.org/sections/thesalt/2016/03/07/469571114/the-forgotten-history-of-fat-men-s-clubs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
