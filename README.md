@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chip War: The Fight for the Most Critical Technology [video]](https://www.youtube.com/watch?v=2tSs7aESx8s)
-- [Mammals’ time on Earth is half over, scientists predict](https://www.nytimes.com/2023/09/25/science/future-earth-warming-mammal-extinction.html)
-- [Costco now offering virtual medical care for $29](https://www.cbsnews.com/news/costco-virtual-medical-checkups-for-29/)
-- [The United States of Bed Bath &amp; Beyond](https://www.epsilontheory.com/the-united-states-of-bed-bath-beyond/)
-- [Burkey Belser, designer of the nutrition facts label, has died](https://www.washingtonpost.com/obituaries/2023/09/25/burkey-belser-designer-of-ubiquitous-nutrition-facts-label-dies-at-76/)
+- [Quadlets might make me finally stop using Docker-compose – Major Hayden](https://major.io/p/quadlets-replace-docker-compose/)
+- [I was happy, sad, lost and lonely without a smartphone at the same time](https://ruky.me/2023/09/26/i-was-happy-sad-lost-and-lonely-without-a-smartphone-at-the-same-time/)
+- [John Carmack and Rich Sutton partner to accelerate development of AGI](https://www.globenewswire.com/news-release/2023/09/25/2749057/0/en/John-Carmack-and-Rich-Sutton-partner-to-accelerate-development-of-Artificial-General-Intelligence.html)
+- [iPhone 15 teardown reveals software lockdown](https://www.ifixit.com/News/82867/iphone-15-teardown-reveals-software-lockdown)
+- [The Decline of Condominium Construction in CO: Addressing Litigation Reform](https://commonsenseinstituteco.org/condominium-construction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
