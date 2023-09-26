@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking the Luddites in the Age of A.I](https://www.newyorker.com/books/page-turner/rethinking-the-luddites-in-the-age-of-ai)
-- [The Plot of All Objects in the Universe](https://kottke.org/23/09/the-plot-of-all-objects-in-the-universe)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Google Podcasts is going away](https://support.google.com/youtubemusic/thread/236590252/today%E2%80%99s-news-about-google-podcasts?hl=en)
+- [All objects and some questions](https://pubs.aip.org/aapt/ajp/article/91/10/819/2911822/All-objects-and-some-questions)
 - [Facebook Prophet: library for generating forecasts from any time series data](https://github.com/facebook/prophet)
 - [Causality for Machine Learning](https://ff13.fastforwardlabs.com/)
-- [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
