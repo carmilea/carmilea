@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rethinking the Luddites in the Age of A.I](https://www.newyorker.com/books/page-turner/rethinking-the-luddites-in-the-age-of-ai)
+- [The Plot of All Objects in the Universe](https://kottke.org/23/09/the-plot-of-all-objects-in-the-universe)
 - [Facebook Prophet: library for generating forecasts from any time series data](https://github.com/facebook/prophet)
-- [EU tells Apple to open everything up to its rivals](https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals)
-- [Deep-TEMPEST: Recovering images from unintentional EM radiation of HDMI](https://twitter.com/fedelarrocca/status/1688990564576854018)
 - [Causality for Machine Learning](https://ff13.fastforwardlabs.com/)
 - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
 <!-- BLOG-POST-LIST:END -->
