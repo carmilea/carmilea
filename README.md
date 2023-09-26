@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lego axes plan to make bricks from recycled bottles](https://www.bbc.co.uk/news/business-66910573)
-- [How &lpar;not&rpar; to apply for a software job](https://benhoyt.com/writings/how-to-apply/)
+- [Spanish cancels Pegasus spyware investigation because Israel is not co-operating](https://www.theguardian.com/world/2023/jul/10/spain-closes-pegasus-investigation-over-lack-of-cooperation-from-israel)
+- [NSA, FBI, and CISA Release Cybersecurity Information Sheet on Deepfake Threats](https://www.cisa.gov/news-events/alerts/2023/09/12/nsa-fbi-and-cisa-release-cybersecurity-information-sheet-deepfake-threats)
+- [UI frameworks are stuck in the last decade](https://moonthought.github.io/posts/all-your-mainstream-ui-frameworks-are-lying-to-you/)
+- [FCC Aims to Reinstate Net Neutrality After US Democrats Gain Control of Panel](https://www.bloomberg.com/news/articles/2023-09-26/fcc-aims-to-reinstate-net-neutrality-rules-as-us-democrats-gain-control-of-panel)
 - [AI is fundamentally ‘a surveillance technology’](https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/)
-- [macOS Containers v0.0.1](https://macoscontainers.org/)
-- [Control Center on macOS is always re-rendering its SwiftUI causing 1% CPU load](https://twitter.com/praeclarum/status/1706356007348343064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
