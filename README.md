@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Google Podcasts is going away](https://support.google.com/youtubemusic/thread/236590252/today%E2%80%99s-news-about-google-podcasts?hl=en)
+- [The Dark Side of Tech Culture](https://blog.lettucework.io/the-dark-side-of-culture-20a59c5229b2?gi=57aec2f4d30b)
 - [All objects and some questions](https://pubs.aip.org/aapt/ajp/article/91/10/819/2911822/All-objects-and-some-questions)
-- [Facebook Prophet: library for generating forecasts from any time series data](https://github.com/facebook/prophet)
-- [Causality for Machine Learning](https://ff13.fastforwardlabs.com/)
+- [Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet)
+- [EU tells Apple to open everything up to its rivals](https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals)
+- [GPU.zip: side channel attack that exposes visual data processed on the GPU](https://www.hertzbleed.com/gpu.zip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
