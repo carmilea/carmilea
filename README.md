@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FTC Sues Amazon for Illegally Maintaining Monopoly Power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
-- [Ask HN: Best practices for safeguarding master password in organization?](https://news.ycombinator.com/item?id=37661163)
-- [Google Podcasts will die in 2024](https://www.androidpolice.com/google-podcasts-discontinued-announcement/)
-- [Two Thirds of American Kids Can’t Read Fluently](https://www.scientificamerican.com/article/two-thirds-of-american-kids-cant-read-fluently/)
-- [Common infections can spark psychiatric illnesses in children](https://www.economist.com/science-and-technology/2023/09/20/how-common-infections-can-spark-psychiatric-illnesses-in-children)
+- [Byterat &lpar;YC W23&rpar; Is Hiring a Founding Engineer &lpar;San Francisco&rpar;](https://www.ycombinator.com/companies/byterat/jobs/UtaWWqL-founding-engineer)
+- [Digging In: Why Don’t Americans Eat Mutton?](https://modernfarmer.com/2023/09/digging-in-mutton/)
+- [Show HN: Magentic – Use LLMs as simple Python functions](https://github.com/jackmpcollins/magentic)
+- [Show HN: Ollama for Linux – Run LLMs on Linux with GPU Acceleration](https://github.com/jmorganca/ollama/releases/tag/v0.1.0)
+- [FTC files an antitrust lawsuit against Amazon](https://www.theverge.com/2023/9/26/23809817/amazon-ftc-antitrust-lawsuit-monopoly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
