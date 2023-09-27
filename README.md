@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ray-Ban Meta next generation of smart glasses](https://www.meta.com/smart-glasses/)
+- [OpenBSD PF versus FreeBSD PF](https://mwl.io/archives/23127)
 - [Meta Quest 3](https://www.meta.com/quest/quest-3/)
+- [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
 - [Linux kernel maintainers, why are they so grumpy? &lpar;2013&rpar; [pdf]](https://elinux.org/images/0/06/Lca13-gregkh-I-dont-want-your-code.pdf)
-- [A gentle introduction to static analyzers for C](https://nrk.neocities.org/articles/c-static-analyzers)
-- [KIP-932: Queues for Kafka](https://cwiki.apache.org/confluence/display/KAFKA/KIP-932%3A+Queues+for+Kafka)
-- [Synthetic opioids deadlier than fentanyl are showing up in overdose cases](https://theconversation.com/nitazenes-synthetic-opioids-more-deadly-than-fentanyl-are-starting-to-turn-up-in-overdose-cases-212589)
 <!-- BLOG-POST-LIST:END -->
 
 ---
