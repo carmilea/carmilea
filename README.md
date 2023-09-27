@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
-- [Google&#39;s 25th Birthday](https://blog.google/inside-google/company-announcements/google-25th-birthday/)
 - [Why should I care about OpenTofu?](https://opentofu.org/blog/why-should-i-care-about-opentofu/)
 - [Deconstructing Go Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
 - [Radar Maps: $0.50 per 1K map loads](https://radar.com/blog/introducing-radar-maps-platform)
+- [The Philips Hue ecosystem is collapsing into stupidity](https://rachelbythebay.com/w/2023/09/26/hue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
