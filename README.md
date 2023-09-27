@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackers are spoofing themselves as GitHub&#39;s Dependabot to steal user passwords](https://www.itpro.com/security/cyber-attacks/hackers-are-spoofing-themselves-as-githubs-dependabot-to-steal-user-passwords)
-- [GPT-4 generates simple app from Whiteboard photo](https://twitter.com/mckaywrigley/status/1707101465922453701?s=20)
-- [Ray-Ban Meta Smart Glasses](https://www.meta.com/smart-glasses/)
-- [OpenBSD PF versus FreeBSD PF](https://mwl.io/archives/23127)
-- [The Tao of Programming &lpar;1987&rpar;](https://www.mit.edu/~xela/tao.html)
+- [ChatGPT can now search the web in real time](https://www.theverge.com/2023/9/27/23892781/openai-chatgpt-live-web-results-browse-with-bing)
+- [The Llama Ecosystem: Past, Present, and Future](https://ai.meta.com/blog/llama-2-updates-connect-2023/)
+- [Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack](https://ai.meta.com/research/publications/emu-enhancing-image-generation-models-using-photogenic-needles-in-a-haystack/)
+- [Bitwig and Presonus launch open DAWproject format](https://github.com/bitwig/dawproject)
+- [Hackers are spoofing themselves as GitHub&#39;s Dependabot to steal user passwords](https://checkmarx.com/blog/surprise-when-dependabot-contributes-malicious-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
