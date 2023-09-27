@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kia, Hyundai recall over 3.3M vehicles for potential fire-related issues](https://www.usatoday.com/story/money/cars/2023/09/27/kia-hyundai-recall/70978487007/)
+- [Judge Says Google Can&#39;t Keep Hiding Its Dealings During DOJ Antitrust Trial](https://gizmodo.com/judge-says-google-cant-keep-hiding-docs-antitrust-1850877990)
 - [Live near your friends](https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends)
 - [Nucor and Helion to Develop 500 MW Fusion Power Plant by 2030](https://nucor.com/news-release/20126)
-- [Ask HN: I spent months building an app and now I don&#39;t know how to get users](https://news.ycombinator.com/item?id=37675989)
 - [Rust vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
+- [Accidents Happen: Sketches of misfortune in an insurance trade card c. 1890s](https://forgottenfiles.substack.com/p/accidents-happen-c1890s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
