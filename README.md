@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [San Francisco Shoplifting: Much More Than You Wanted to Know](https://www.applieddivinitystudies.com/sf-crime-2/)
 - [Show HN: A JavaScript function that looks and behaves like a pipe operator](https://github.com/laurentpayot/verticalize)
 - [Writing a debugger from scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
 - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
-- [Summary of the 2023 WGA MBA](https://www.wgacontract2023.org/the-campaign/summary-of-the-2023-wga-mba)
 - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
 <!-- BLOG-POST-LIST:END -->
 
