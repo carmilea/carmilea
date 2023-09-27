@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral 7B, the most powerful language model for its size to date, Apache 2.0](https://mistral.ai/news/announcing-mistral-7b/)
+- [Unions Work](https://werd.io/2023/unions-work)
+- [Y Combinator CEO Garry Tan’s War on San Francisco Politics Has Only Just Begun](https://sfstandard.com/2023/09/27/garry-tan-y-combinator-declares-war-san-francisco-politics-progressives-elon-musk/)
+- [We try out the first legal level 3 automated driving system in the US](https://arstechnica.com/cars/2023/09/mercedes-benzs-level-3-autonomous-driving-system-takes-over-in-heavy-traffic/)
 - [Rusty revenant Servo returns to render once more](https://www.theregister.com/2023/09/27/servo_returns/)
-- [The most copied StackOverflow snippet of all time is flawed](https://programming.guide/worlds-most-copied-so-snippet.html)
-- [Workers AI: serverless GPU-powered inference on Cloudflare’s global network](https://blog.cloudflare.com/workers-ai/)
-- [You can now use WebGPU in Cloudflare Workers](https://blog.cloudflare.com/webgpu-in-workers/)
-- [Lego abandons effort to make bricks from recycled plastic bottles](https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
