@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ray-Ban Meta next generation of smart glasses](https://www.meta.com/smart-glasses/)
+- [Hackers are spoofing themselves as GitHub&#39;s Dependabot to steal user passwords](https://www.itpro.com/security/cyber-attacks/hackers-are-spoofing-themselves-as-githubs-dependabot-to-steal-user-passwords)
+- [GPT-4 generates simple app from Whiteboard photo](https://twitter.com/mckaywrigley/status/1707101465922453701?s=20)
+- [Ray-Ban Meta Smart Glasses](https://www.meta.com/smart-glasses/)
 - [OpenBSD PF versus FreeBSD PF](https://mwl.io/archives/23127)
-- [Meta Quest 3](https://www.meta.com/quest/quest-3/)
-- [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
-- [Linux kernel maintainers, why are they so grumpy? &lpar;2013&rpar; [pdf]](https://elinux.org/images/0/06/Lca13-gregkh-I-dont-want-your-code.pdf)
+- [The Tao of Programming &lpar;1987&rpar;](https://www.mit.edu/~xela/tao.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
