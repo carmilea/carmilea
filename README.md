@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jony Ive and OpenAI’s Altman reportedly collaborating on mysterious AI device](https://arstechnica.com/information-technology/2023/09/jony-ive-and-openais-altman-reportedly-collaborating-on-mysterious-ai-device/)
+- [Qwen &lpar;通义千问&rpar; chat and pretrained large language model by Alibaba Cloud](https://github.com/QwenLM/Qwen)
+- [Tech CEO found dead with signs of blunt force trauma](https://www.cnn.com/2023/09/26/tech/pava-lapere-ecomap-ceo-death/index.html)
+- [War Thunder user leaks restricted military documents for AH-64D Apache Longbow](https://nichegamer.com/war-thunder-user-leaks-restricted-military-documents-for-ah-64d-apache-longbow/)
 - [ChatGPT can now search the web in real time](https://www.theverge.com/2023/9/27/23892781/openai-chatgpt-live-web-results-browse-with-bing)
-- [The Llama Ecosystem: Past, Present, and Future](https://ai.meta.com/blog/llama-2-updates-connect-2023/)
-- [Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack](https://ai.meta.com/research/publications/emu-enhancing-image-generation-models-using-photogenic-needles-in-a-haystack/)
-- [Bitwig and Presonus launch open DAWproject format](https://github.com/bitwig/dawproject)
-- [Hackers are spoofing themselves as GitHub&#39;s Dependabot to steal user passwords](https://checkmarx.com/blog/surprise-when-dependabot-contributes-malicious-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
