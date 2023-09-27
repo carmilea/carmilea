@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Arena Allocator Tips and Tricks](https://nullprogram.com/blog/2023/09/27/)
 - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
-- [Why should I care about OpenTofu?](https://opentofu.org/blog/why-should-i-care-about-opentofu/)
 - [Deconstructing Go Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
-- [Radar Maps: $0.50 per 1K map loads](https://radar.com/blog/introducing-radar-maps-platform)
-- [The Philips Hue ecosystem is collapsing into stupidity](https://rachelbythebay.com/w/2023/09/26/hue/)
+- [Radar Maps Platform](https://radar.com/blog/introducing-radar-maps-platform)
+- [Merlin&#39;s Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
