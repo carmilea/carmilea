@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistral 7B, the most powerful language model for its size to date, Apache 2.0](https://mistral.ai/news/announcing-mistral-7b/)
-- [Unions Work](https://werd.io/2023/unions-work)
-- [Y Combinator CEO Garry Tan’s War on San Francisco Politics Has Only Just Begun](https://sfstandard.com/2023/09/27/garry-tan-y-combinator-declares-war-san-francisco-politics-progressives-elon-musk/)
-- [We try out the first legal level 3 automated driving system in the US](https://arstechnica.com/cars/2023/09/mercedes-benzs-level-3-autonomous-driving-system-takes-over-in-heavy-traffic/)
-- [Rusty revenant Servo returns to render once more](https://www.theregister.com/2023/09/27/servo_returns/)
+- [Kia, Hyundai recall over 3.3M vehicles for potential fire-related issues](https://www.usatoday.com/story/money/cars/2023/09/27/kia-hyundai-recall/70978487007/)
+- [Live near your friends](https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends)
+- [Nucor and Helion to Develop 500 MW Fusion Power Plant by 2030](https://nucor.com/news-release/20126)
+- [Ask HN: I spent months building an app and now I don&#39;t know how to get users](https://news.ycombinator.com/item?id=37675989)
+- [Rust vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
 <!-- BLOG-POST-LIST:END -->
 
 ---
