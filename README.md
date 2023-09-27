@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [San Francisco Shoplifting: Much More Than You Wanted to Know](https://www.applieddivinitystudies.com/sf-crime-2/)
-- [Show HN: A JavaScript function that looks and behaves like a pipe operator](https://github.com/laurentpayot/verticalize)
+- [Ads in the OS](https://www.ng5p.com/blog/MicrosoftIrritations.html)
+- [First Impressions with GPT-4V&lpar;ision&rpar;](https://blog.roboflow.com/gpt-4-vision/)
+- [Be My Eyes’ AI assistant starts rolling out](https://www.bemyeyes.com/blog/announcing-be-my-ai)
+- [Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
 - [Writing a debugger from scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
-- [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
-- [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
