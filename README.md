@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rusty revenant Servo returns to render once more](https://www.theregister.com/2023/09/27/servo_returns/)
+- [The most copied StackOverflow snippet of all time is flawed](https://programming.guide/worlds-most-copied-so-snippet.html)
+- [Workers AI: serverless GPU-powered inference on Cloudflare’s global network](https://blog.cloudflare.com/workers-ai/)
+- [You can now use WebGPU in Cloudflare Workers](https://blog.cloudflare.com/webgpu-in-workers/)
 - [Lego abandons effort to make bricks from recycled plastic bottles](https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles)
-- [First Impressions with GPT-4V&lpar;ision&rpar;](https://blog.roboflow.com/gpt-4-vision/)
-- [Be My Eyes’ AI assistant starts rolling out](https://www.bemyeyes.com/blog/announcing-be-my-ai)
-- [An Introduction to LiteStack for Ruby on Rails](https://blog.appsignal.com/2023/09/27/an-introduction-to-litestack-for-ruby-on-rails.html)
-- [I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
