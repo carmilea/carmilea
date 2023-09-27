@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jony Ive and OpenAI’s Altman reportedly collaborating on mysterious AI device](https://arstechnica.com/information-technology/2023/09/jony-ive-and-openais-altman-reportedly-collaborating-on-mysterious-ai-device/)
+- [Inflation Bites U.S. Engineering Salaries](https://spectrum.ieee.org/electrical-engineer-salary-2023)
 - [Qwen &lpar;通义千问&rpar; chat and pretrained large language model by Alibaba Cloud](https://github.com/QwenLM/Qwen)
-- [Tech CEO found dead with signs of blunt force trauma](https://www.cnn.com/2023/09/26/tech/pava-lapere-ecomap-ceo-death/index.html)
 - [War Thunder user leaks restricted military documents for AH-64D Apache Longbow](https://nichegamer.com/war-thunder-user-leaks-restricted-military-documents-for-ah-64d-apache-longbow/)
+- [Valve releases Counter-Strike 2](https://store.steampowered.com/app/730/CounterStrike_2/)
 - [ChatGPT can now search the web in real time](https://www.theverge.com/2023/9/27/23892781/openai-chatgpt-live-web-results-browse-with-bing)
 <!-- BLOG-POST-LIST:END -->
 
