@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ads in the OS](https://www.ng5p.com/blog/MicrosoftIrritations.html)
+- [Lego abandons effort to make bricks from recycled plastic bottles](https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles)
 - [First Impressions with GPT-4V&lpar;ision&rpar;](https://blog.roboflow.com/gpt-4-vision/)
 - [Be My Eyes’ AI assistant starts rolling out](https://www.bemyeyes.com/blog/announcing-be-my-ai)
-- [Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
-- [Writing a debugger from scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
+- [An Introduction to LiteStack for Ruby on Rails](https://blog.appsignal.com/2023/09/27/an-introduction-to-litestack-for-ruby-on-rails.html)
+- [I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
