@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Judge Says Google Can&#39;t Keep Hiding Its Dealings During DOJ Antitrust Trial](https://gizmodo.com/judge-says-google-cant-keep-hiding-docs-antitrust-1850877990)
-- [Live near your friends](https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends)
-- [Nucor and Helion to Develop 500 MW Fusion Power Plant by 2030](https://nucor.com/news-release/20126)
-- [Rust vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
-- [Accidents Happen: Sketches of misfortune in an insurance trade card c. 1890s](https://forgottenfiles.substack.com/p/accidents-happen-c1890s)
+- [Meta Quest 3](https://www.meta.com/quest/quest-3/)
+- [Linux kernel maintainers, why are they so grumpy? &lpar;2013&rpar; [pdf]](https://elinux.org/images/0/06/Lca13-gregkh-I-dont-want-your-code.pdf)
+- [A gentle introduction to static analyzers for C](https://nrk.neocities.org/articles/c-static-analyzers)
+- [KIP-932: Queues for Kafka](https://cwiki.apache.org/confluence/display/KAFKA/KIP-932%3A+Queues+for+Kafka)
+- [Synthetic opioids deadlier than fentanyl are showing up in overdose cases](https://theconversation.com/nitazenes-synthetic-opioids-more-deadly-than-fentanyl-are-starting-to-turn-up-in-overdose-cases-212589)
 <!-- BLOG-POST-LIST:END -->
 
 ---
