@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing a Debugger from Scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
-- [Arena Allocator Tips and Tricks](https://nullprogram.com/blog/2023/09/27/)
+- [I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
+- [Writing a debugger from scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
+- [Ask HN: How do you manage photos, philosophically?](https://news.ycombinator.com/item?id=37670756)
+- [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
 - [Summary of the 2023 WGA MBA](https://www.wgacontract2023.org/the-campaign/summary-of-the-2023-wga-mba)
-- [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
-- [Deconstructing Go Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
