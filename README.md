@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do you store devices with Lithium-Ion batteries for long-term?](https://news.ycombinator.com/item?id=37684026)
+- [Safely open apps on your Mac](https://support.apple.com/en-us/HT202491)
 - [There&#39;s a mechanical watch feature called a “hack”. Why is it called that?](https://hachyderm.io/@danderson/111136144708450117)
-- [Tell HN: Please don&#39;t print –help to stderr in your CLI tools](https://news.ycombinator.com/item?id=37682859)
+- [AlphaDev discovers faster sorting algorithms](https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms)
 - [Open Source doesn&#39;t win by being cheaper](https://github.com/getlago/lago/wiki/Open-Source-does-not-win-by-being-cheaper)
-- [Meta spends $181M to get out of lease at vacant London offices](https://www.theregister.com/2023/09/27/meta_coughs_181m_to_exit/)
-- [Lisp Badge LE](http://www.technoblogy.com/show?3Z2Y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
