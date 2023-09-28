@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX wins first Pentagon contract for Starshield](https://www.cnbc.com/2023/09/27/spacex-wins-first-pentagon-contract-for-starshield.html)
 - [Why are websites requesting access to motion sensors on my desktop? &lpar;2019&rpar;](https://grantwinney.com/websites-requesting-access-to-motion-sensors/)
 - [Scientists unveil fire-safe fuel](https://news.ucr.edu/articles/2023/09/28/scientists-unveil-fire-safe-fuel)
 - [Iconic tree at Hadrian&#39;s Wall&#39;s &#39;Sycamore Gap&#39; has been &#39;felled&#39;](https://www.hexham-courant.co.uk/news/23819352.sycamore-gap-northumberland-damaged-storm-agnes/)
 - [WebGPU Technical Report](https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md)
+- [Ask HN: Lessons learned from implementing user-facing analytics / dashboards?](https://news.ycombinator.com/item?id=37687798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
