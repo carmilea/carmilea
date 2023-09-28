@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37692467)
+- [Universities have disinvested from their presses just as much as their libraries](https://www.publicbooks.org/publishers-and-scholars-unite/)
+- [RZK: Experimental proof assistant for synthetic ∞-categories](https://github.com/rzk-lang/rzk)
 - [What codegen is &lpar;actually&rpar; good for](https://www.figma.com/blog/what-codegen-is-actually-good-for/#aAkZ9)
-- [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
-- [Research reveals crows use statistical logic](https://arstechnica.com/p3/)
-- [Airliner Repair, 24/7 Boeing’s traveling fix-it team &lpar;2008&rpar;](https://www.smithsonianmag.com/air-space-magazine/airliner-repair-247-9974457/)
-- [Snap cuts 170 jobs after closing AR Enterprise service division](https://techcrunch.com/2023/09/27/snap-shutters-its-enterprise-services-division-after-less-than-a-year/)
+- [Why Do Nigerian Scammers Say They Are from Nigeria? [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/WhyFromNigeria.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
