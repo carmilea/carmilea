@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Do Cats Love Boxes So Much?](https://www.discovermagazine.com/planet-earth/why-do-cats-love-boxes-so-much)
+- [The German group buying ticket dodgers out of prison](https://www.bbc.com/news/world-europe-66664823)
 - [Interactive GCC &lpar;igcc&rpar; is a read-eval-print loop &lpar;REPL&rpar; for C/C++](https://github.com/alexandru-dinu/igcc)
 - [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
 - [Prophetic Perfect Tense](https://en.wikipedia.org/wiki/Prophetic_perfect_tense)
-- [Searchable Database of the 183,000 Pirated Books Meta, et al., Used to Train AI](https://www.theatlantic.com/technology/archive/2023/09/books3-database-generative-ai-training-copyright-infringement/675363/)
-- [Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?](https://retrocomputing.stackexchange.com/questions/19655/why-does-trying-to-break-into-the-nt-3-1-kernel-reboot-my-486dx4-machine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
