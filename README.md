@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are websites requesting access to motion sensors on my desktop? &lpar;2019&rpar;](https://grantwinney.com/websites-requesting-access-to-motion-sensors/)
-- [Scientists unveil fire-safe fuel](https://news.ucr.edu/articles/2023/09/28/scientists-unveil-fire-safe-fuel)
-- [Iconic tree at Hadrian&#39;s Wall&#39;s &#39;Sycamore Gap&#39; has been &#39;felled&#39;](https://www.hexham-courant.co.uk/news/23819352.sycamore-gap-northumberland-damaged-storm-agnes/)
-- [WebGPU Technical Report](https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md)
-- [Ask HN: Lessons learned from implementing user-facing analytics / dashboards?](https://news.ycombinator.com/item?id=37687798)
+- [Epic Games is laying off 16% of its staff](https://www.bloomberg.com/news/articles/2023-09-28/epic-games-is-cutting-about-900-jobs-or-16-of-staff)
+- [What if Planet 9 is a Primordial Black Hole? &lpar;2019&rpar;](https://arxiv.org/abs/1909.11090)
+- [OpenAI and Jony Ive in talks to raise $1B from SoftBank for AI device venture](https://www.ft.com/content/4c64ffc1-f57b-4e22-a4a5-f9f90a7419b7)
+- [Nuclear Engine for Rocket Vehicle Application &lpar;Nerva&rpar;](https://en.wikipedia.org/wiki/NERVA)
+- [Fairphone 4 with /e/OS by Murena now available at fairphone.com](https://shop.fairphone.com/fairphone-4-e-operating-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
