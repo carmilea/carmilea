@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Ending Support for Jamboard](https://workspaceupdates.googleblog.com/2023/09/the-next-phase-of-digital-whiteboarding-for-google-workspace.html)
-- [Microsoft executive says Google deals kept Bing small](https://www.reuters.com/technology/microsoft-executive-says-google-deals-kept-bing-small-2023-09-28/)
-- [Japanese scientists working on creating human eggs and sperm in the lab](https://www.npr.org/sections/health-shots/2023/09/28/1200105467/japanese-scientists-race-to-create-human-eggs-and-sperm-in-the-lab)
-- [To knock an elephant off balance, bring out a giant blindfold](https://www.nytimes.com/2023/09/26/science/elephants-blindfold-walking.html)
-- [DHS uses travel as pretext for search of researcher and journalist](https://papersplease.org/wp/2023/09/28/dhs-uses-travel-as-pretext-for-search-of-researcher-and-journalist/)
+- [Ask HN: How do your ML teams version datasets and models?](https://news.ycombinator.com/item?id=37694701)
+- [BingGPT is now infested with malware](https://www.bleepingcomputer.com/news/security/bing-chat-responses-infiltrated-by-ads-pushing-malware/)
+- [LibrePCB – Create electronics the easy way](https://librepcb.org/)
+- [Amtrak Explorer](https://amtrakexplorer.com/)
+- [Winklevoss twins secretely withdrew $280M in assets before crypto firm collapsed](https://nypost.com/2023/09/27/winklevoss-twins-secretly-withdrew-282m-in-gemini-assets-before-genesis-collapse-sources/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
