@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Lessons learned from implementing user-facing analytics / dashboards?](https://news.ycombinator.com/item?id=37687798)
 - [That&#39;s a Lot of YAML](https://noyaml.com/)
 - [Inhibition of fatty acid oxidation enables heart regeneration in adult mice](https://www.nature.com/articles/s41586-023-06585-5)
+- [Tao Te Ching](https://taoism.net/tao-te-ching-online-translation/)
 - [We finally know for sure what a trilobite ate. Trilobite found with full stomach](https://arstechnica.com/science/2023/09/we-finally-know-for-sure-what-a-trilobite-ate/)
-- [As We May Think &lpar;1945&rpar;](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
-- [Why Do Cats Love Boxes So Much?](https://www.discovermagazine.com/planet-earth/why-do-cats-love-boxes-so-much)
 <!-- BLOG-POST-LIST:END -->
 
 ---
