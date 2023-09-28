@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Detect Quakes with “Raspberry Shakes”](https://spectrum.ieee.org/diy-seismometer)
-- [Ask HN: How do you store devices with Lithium-Ion batteries for long-term?](https://news.ycombinator.com/item?id=37684026)
-- [The Forgotten Generation: Generation X Approaches Retirement](https://www.nirsonline.org/reports/genx/)
-- [How many animals get slaughtered every day?](https://ourworldindata.org/how-many-animals-get-slaughtered-every-day)
-- [Safely open apps on your Mac](https://support.apple.com/en-us/HT202491)
+- [Searchable Database of the 183,000 Pirated Books Meta, et al., Used to Train AI](https://www.theatlantic.com/technology/archive/2023/09/books3-database-generative-ai-training-copyright-infringement/675363/)
+- [Rasperry Pi 5 Specs and Images Leaked from Element14?](https://www.tech-knowhow.com/2023/09/rasperry-pi-5-specs-and-images-leaked-from-element14/)
+- [Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?](https://retrocomputing.stackexchange.com/questions/19655/why-does-trying-to-break-into-the-nt-3-1-kernel-reboot-my-486dx4-machine)
+- [How Washington DC Got Its Metro](https://www.construction-physics.com/p/how-washington-dc-got-its-metro)
+- [DarkBeam leaks billions of email and password combinations](https://securityaffairs.com/151566/security/darkbeam-data-leak.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
