@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inflation Bites U.S. Engineering Salaries](https://spectrum.ieee.org/electrical-engineer-salary-2023)
-- [Qwen &lpar;通义千问&rpar; chat and pretrained large language model by Alibaba Cloud](https://github.com/QwenLM/Qwen)
-- [War Thunder user leaks restricted military documents for AH-64D Apache Longbow](https://nichegamer.com/war-thunder-user-leaks-restricted-military-documents-for-ah-64d-apache-longbow/)
-- [Valve releases Counter-Strike 2](https://store.steampowered.com/app/730/CounterStrike_2/)
-- [ChatGPT can now search the web in real time](https://www.theverge.com/2023/9/27/23892781/openai-chatgpt-live-web-results-browse-with-bing)
+- [There&#39;s a mechanical watch feature called a “hack”. Why is it called that?](https://hachyderm.io/@danderson/111136144708450117)
+- [Tell HN: Please don&#39;t print –help to stderr in your CLI tools](https://news.ycombinator.com/item?id=37682859)
+- [Open Source doesn&#39;t win by being cheaper](https://github.com/getlago/lago/wiki/Open-Source-does-not-win-by-being-cheaper)
+- [Meta spends $181M to get out of lease at vacant London offices](https://www.theregister.com/2023/09/27/meta_coughs_181m_to_exit/)
+- [Lisp Badge LE](http://www.technoblogy.com/show?3Z2Y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
