@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is TED Scared of Color Blindness?](https://www.thefp.com/p/coleman-hughes-is-ted-scared-of-color-blindness)
-- [Japanese scientists race to create human eggs and sperm in the lab](https://text.npr.org/1200105467)
-- [To Knock an Elephant Off Balance, Bring Out a Giant Blindfold](https://www.nytimes.com/2023/09/26/science/elephants-blindfold-walking.html)
+- [Google Ending Support for Jamboard](https://workspaceupdates.googleblog.com/2023/09/the-next-phase-of-digital-whiteboarding-for-google-workspace.html)
+- [Microsoft executive says Google deals kept Bing small](https://www.reuters.com/technology/microsoft-executive-says-google-deals-kept-bing-small-2023-09-28/)
+- [Japanese scientists working on creating human eggs and sperm in the lab](https://www.npr.org/sections/health-shots/2023/09/28/1200105467/japanese-scientists-race-to-create-human-eggs-and-sperm-in-the-lab)
+- [To knock an elephant off balance, bring out a giant blindfold](https://www.nytimes.com/2023/09/26/science/elephants-blindfold-walking.html)
 - [DHS uses travel as pretext for search of researcher and journalist](https://papersplease.org/wp/2023/09/28/dhs-uses-travel-as-pretext-for-search-of-researcher-and-journalist/)
-- [Cloudflare and Meta Collaborate to Make Llama 2 Available Globally](https://www.cloudflare.com/press-releases/2023/cloudflare-and-meta-collaborate-to-make-llama-2-available-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
