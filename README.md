@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Epic Games is laying off 16% of its staff](https://www.bloomberg.com/news/articles/2023-09-28/epic-games-is-cutting-about-900-jobs-or-16-of-staff)
-- [What if Planet 9 is a Primordial Black Hole? &lpar;2019&rpar;](https://arxiv.org/abs/1909.11090)
-- [OpenAI and Jony Ive in talks to raise $1B from SoftBank for AI device venture](https://www.ft.com/content/4c64ffc1-f57b-4e22-a4a5-f9f90a7419b7)
-- [Nuclear Engine for Rocket Vehicle Application &lpar;Nerva&rpar;](https://en.wikipedia.org/wiki/NERVA)
-- [Fairphone 4 with /e/OS by Murena now available at fairphone.com](https://shop.fairphone.com/fairphone-4-e-operating-system)
+- [What codegen is &lpar;actually&rpar; good for](https://www.figma.com/blog/what-codegen-is-actually-good-for/#aAkZ9)
+- [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
+- [Research reveals crows use statistical logic](https://arstechnica.com/p3/)
+- [Airliner Repair, 24/7 Boeing’s traveling fix-it team &lpar;2008&rpar;](https://www.smithsonianmag.com/air-space-magazine/airliner-repair-247-9974457/)
+- [Snap cuts 170 jobs after closing AR Enterprise service division](https://techcrunch.com/2023/09/27/snap-shutters-its-enterprise-services-division-after-less-than-a-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
