@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37692467)
-- [Universities have disinvested from their presses just as much as their libraries](https://www.publicbooks.org/publishers-and-scholars-unite/)
-- [RZK: Experimental proof assistant for synthetic ∞-categories](https://github.com/rzk-lang/rzk)
-- [What codegen is &lpar;actually&rpar; good for](https://www.figma.com/blog/what-codegen-is-actually-good-for/#aAkZ9)
-- [Why Do Nigerian Scammers Say They Are from Nigeria? [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/WhyFromNigeria.pdf)
+- [Why Is TED Scared of Color Blindness?](https://www.thefp.com/p/coleman-hughes-is-ted-scared-of-color-blindness)
+- [Japanese scientists race to create human eggs and sperm in the lab](https://text.npr.org/1200105467)
+- [To Knock an Elephant Off Balance, Bring Out a Giant Blindfold](https://www.nytimes.com/2023/09/26/science/elephants-blindfold-walking.html)
+- [DHS uses travel as pretext for search of researcher and journalist](https://papersplease.org/wp/2023/09/28/dhs-uses-travel-as-pretext-for-search-of-researcher-and-journalist/)
+- [Cloudflare and Meta Collaborate to Make Llama 2 Available Globally](https://www.cloudflare.com/press-releases/2023/cloudflare-and-meta-collaborate-to-make-llama-2-available-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
