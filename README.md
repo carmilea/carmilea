@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We finally know for sure what a trilobite ate. Trilobite found with full stomach](https://arstechnica.com/science/2023/09/we-finally-know-for-sure-what-a-trilobite-ate/)
+- [As We May Think &lpar;1945&rpar;](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 - [Why Do Cats Love Boxes So Much?](https://www.discovermagazine.com/planet-earth/why-do-cats-love-boxes-so-much)
 - [The German group buying ticket dodgers out of prison](https://www.bbc.com/news/world-europe-66664823)
 - [Interactive GCC &lpar;igcc&rpar; is a read-eval-print loop &lpar;REPL&rpar; for C/C++](https://github.com/alexandru-dinu/igcc)
-- [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
-- [Prophetic Perfect Tense](https://en.wikipedia.org/wiki/Prophetic_perfect_tense)
 <!-- BLOG-POST-LIST:END -->
 
 ---
