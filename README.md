@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Ultra-Realistic Generative Fill with AI and 3D](https://github.com/fill3d/fill)
-- [CVE-2023-42793 Vulnerability in TeamCity: Post-Mortem](https://blog.jetbrains.com/teamcity/2023/09/cve-2023-42793-vulnerability-post-mortem/)
+- [New California law raises minimum wage for fast food workers to $20 per hour](https://apnews.com/article/california-minimum-wage-increase-fast-food-newsom-69c26b7f07f2647149c37677446cea30)
+- [Caps Lock Behaviour Disabled in Gnome](https://popey.com/blog/2023/09/caps-lock-behaviour-disabled-in-gnome/)
+- [Sweden turns to military to help police combat gang crime](https://www.ft.com/content/6b470a3a-178b-4f9a-95af-2d4a59b4c982)
+- [Show HN: Generative Fill with AI and 3D](https://github.com/fill3d/fill)
 - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
-- [Crux: Cross-platform app development in Rust](https://redbadger.github.io/crux/)
-- [Smartphone sales down 22 percent in Q2, the worst performance in a decade](https://arstechnica.com/google/2023/09/smartphone-sales-down-22-percent-in-q2-the-worst-performance-in-a-decade/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
