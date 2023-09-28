@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why are websites requesting access to motion sensors on my desktop?](https://grantwinney.com/websites-requesting-access-to-motion-sensors/)
+- [Scientists unveil fire-safe fuel](https://news.ucr.edu/articles/2023/09/28/scientists-unveil-fire-safe-fuel)
+- [WebGPU Technical Report](https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md)
 - [Ask HN: Lessons learned from implementing user-facing analytics / dashboards?](https://news.ycombinator.com/item?id=37687798)
-- [That&#39;s a Lot of YAML](https://noyaml.com/)
-- [Inhibition of fatty acid oxidation enables heart regeneration in adult mice](https://www.nature.com/articles/s41586-023-06585-5)
-- [Tao Te Ching](https://taoism.net/tao-te-ching-online-translation/)
-- [We finally know for sure what a trilobite ate. Trilobite found with full stomach](https://arstechnica.com/science/2023/09/we-finally-know-for-sure-what-a-trilobite-ate/)
+- [Chomsky Explains Why Nobody Is a Moral Relativist, Even Michel Foucault](https://www.openculture.com/2023/09/noam-chomsky-explains-why-nobody-is-really-a-moral-relativist-even-michel-foucault.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
