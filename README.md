@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do your ML teams version datasets and models?](https://news.ycombinator.com/item?id=37694701)
-- [BingGPT is now infested with malware](https://www.bleepingcomputer.com/news/security/bing-chat-responses-infiltrated-by-ads-pushing-malware/)
-- [LibrePCB – Create electronics the easy way](https://librepcb.org/)
-- [Amtrak Explorer](https://amtrakexplorer.com/)
-- [Winklevoss twins secretely withdrew $280M in assets before crypto firm collapsed](https://nypost.com/2023/09/27/winklevoss-twins-secretly-withdrew-282m-in-gemini-assets-before-genesis-collapse-sources/)
+- [Show HN: Ultra-Realistic Generative Fill with AI and 3D](https://github.com/fill3d/fill)
+- [CVE-2023-42793 Vulnerability in TeamCity: Post-Mortem](https://blog.jetbrains.com/teamcity/2023/09/cve-2023-42793-vulnerability-post-mortem/)
+- [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
+- [Crux: Cross-platform app development in Rust](https://redbadger.github.io/crux/)
+- [Smartphone sales down 22 percent in Q2, the worst performance in a decade](https://arstechnica.com/google/2023/09/smartphone-sales-down-22-percent-in-q2-the-worst-performance-in-a-decade/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
