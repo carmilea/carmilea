@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Interactive GCC &lpar;igcc&rpar; is a read-eval-print loop &lpar;REPL&rpar; for C/C++](https://github.com/alexandru-dinu/igcc)
+- [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
+- [Prophetic Perfect Tense](https://en.wikipedia.org/wiki/Prophetic_perfect_tense)
 - [Searchable Database of the 183,000 Pirated Books Meta, et al., Used to Train AI](https://www.theatlantic.com/technology/archive/2023/09/books3-database-generative-ai-training-copyright-infringement/675363/)
-- [Rasperry Pi 5 Specs and Images Leaked from Element14?](https://www.tech-knowhow.com/2023/09/rasperry-pi-5-specs-and-images-leaked-from-element14/)
 - [Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?](https://retrocomputing.stackexchange.com/questions/19655/why-does-trying-to-break-into-the-nt-3-1-kernel-reboot-my-486dx4-machine)
-- [How Washington DC Got Its Metro](https://www.construction-physics.com/p/how-washington-dc-got-its-metro)
-- [DarkBeam leaks billions of email and password combinations](https://securityaffairs.com/151566/security/darkbeam-data-leak.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
