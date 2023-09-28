@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [That&#39;s a Lot of YAML](https://noyaml.com/)
 - [Inhibition of fatty acid oxidation enables heart regeneration in adult mice](https://www.nature.com/articles/s41586-023-06585-5)
 - [We finally know for sure what a trilobite ate. Trilobite found with full stomach](https://arstechnica.com/science/2023/09/we-finally-know-for-sure-what-a-trilobite-ate/)
 - [As We May Think &lpar;1945&rpar;](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 - [Why Do Cats Love Boxes So Much?](https://www.discovermagazine.com/planet-earth/why-do-cats-love-boxes-so-much)
-- [The German group buying ticket dodgers out of prison](https://www.bbc.com/news/world-europe-66664823)
 <!-- BLOG-POST-LIST:END -->
 
 ---
