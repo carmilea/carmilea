@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Detect Quakes with “Raspberry Shakes”](https://spectrum.ieee.org/diy-seismometer)
 - [Ask HN: How do you store devices with Lithium-Ion batteries for long-term?](https://news.ycombinator.com/item?id=37684026)
-- [Is There Sunken Treasure Beneath Hell Gate in NYC?](https://www.atlasobscura.com/articles/sunken-treasure-hell-gate-new-york-east-river)
 - [The Forgotten Generation: Generation X Approaches Retirement](https://www.nirsonline.org/reports/genx/)
+- [How many animals get slaughtered every day?](https://ourworldindata.org/how-many-animals-get-slaughtered-every-day)
 - [Safely open apps on your Mac](https://support.apple.com/en-us/HT202491)
-- [There&#39;s a mechanical watch feature called a “hack”. Why is it called that?](https://hachyderm.io/@danderson/111136144708450117)
 <!-- BLOG-POST-LIST:END -->
 
 ---
