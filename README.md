@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Llama 2 Long](https://arxiv.org/abs/2309.16039)
 - [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)
+- [Discovery Steering Committee re Google Antitrust Litigation [pdf]](https://ia804605.us.archive.org/29/items/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.631.0.pdf)
+- [Food Delivery Robots Are Feeding Camera Footage to the LAPD](https://www.404media.co/serve-food-delivery-robots-are-feeding-camera-footage-to-the-lapd-internal-emails-show/)
 - [Ask HN: Which is the oldest software alive still in 0.x, used by many?](https://news.ycombinator.com/item?id=37698334)
-- [The Māori Genocide of the Moriori](https://www.stoneageherbalist.com/p/the-maori-genocide-of-the-moriori)
-- [US Senate’s email system melts down in face of security test and reply-all chaos](https://www.politico.com/minutes/congress/09-8-2023/senate-reply-all-mess/)
-- [The Internals of Deno](https://choubey.gitbook.io/internals-of-deno/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
