@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Localtunnel – Expose Yourself to the World](https://theboroer.github.io/localtunnel-www/)
+- [My elderly parents can&#39;t resist answering the phone](https://www.bogleheads.org/forum/viewtopic.php?t=413383)
+- [Insomnium – Local, privacy-focused fork of Insomnia API client](https://github.com/ArchGPT/insomnium)
 - [Google RealFill: Authentic Image Completion Using Diffusion Models](https://realfill.github.io/)
-- [Have a complaint about CVS? So do pharmacists: Many just walked out](https://text.npr.org/1202365487)
-- [I Tested an HDMI Adapter That Demands Your Location and Spams You with Ads](https://www.404media.co/i-tested-an-hdmi-adapter-that-demands-your-location-browsing-data-photos-and-spams-you-with-ads/)
-- [When CEOs Are Paid for Bad Performance &lpar;2005&rpar;](https://www.gsb.stanford.edu/insights/when-ceos-are-paid-bad-performance)
-- [A scientific curiosity that happened to me](https://old.reddit.com/r/Physics/comments/16v8g6e/a_scientific_curiosity_that_happened_to_me/)
+- [High-Resolution Lidar Images of Rivers and Deltas](https://kottke.org/23/09/stunning-high-resolution-lidar-images-of-rivers-deltas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
