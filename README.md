@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK quietly dismisses independent AI advisory board, alarming tech sector](https://thenextweb.com/news/uk-dismisses-independent-ai-advisory-board-alarming-tech-sector)
-- [Encrypted Client Hello – the last puzzle piece to privacy](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
-- [Senator Dianne Feinstein dies aged 90](https://www.bbc.com/news/world-us-canada-66963341)
-- [Ten weird things you can buy online](https://www.hillelwayne.com/post/weird-things-you-can-buy/)
-- [Narrow tracks forcing trains to creep at walking pace on Boston&#39;s newest subway](https://www.bostonglobe.com/2023/09/28/metro/t-chief-calls-green-line-extension-slowdown-unacceptable/)
+- [A new era for Arecibo: legendary observatory begins next phase](https://www.nature.com/articles/d41586-023-03021-6)
+- [Norway wants Facebook behavioral advertising banned across Europe](https://www.theregister.com/2023/09/29/norway_facebook_behavioral_ads/)
+- [The Kakhovka Dam Disaster Revealed an Archaeological ‘Goldmine’](https://www.atlasobscura.com/articles/kakhovka-dam-chaika-cossack-archaeology)
+- [Show HN: RISC-V assembly tabletop board game &lpar;hack your opponent&rpar;](https://punkx.org/overflow/)
+- [Redditor uses ChatGPT to fix annoying Safari UI issue on macOS](https://chat.openai.com/share/af5551c3-0a54-4cee-a7db-be689deb2f70)
 <!-- BLOG-POST-LIST:END -->
 
 ---
