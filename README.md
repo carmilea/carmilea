@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can drinking coffee lead to a healthier liver?](https://www.michiganmedicine.org/health-lab/can-drinking-coffee-lead-healthier-liver)
 - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
+- [New York City declares state of emergency amid flash floods](https://www.cnn.com/2023/09/29/weather/new-york-city-northeast-rain-flood-forecast-climate-friday/index.html)
 - [Localtunnel – Easily share a web service on your local development machine](https://theboroer.github.io/localtunnel-www/)
 - [Insomnium – Local, privacy-focused fork of Insomnia API client](https://github.com/ArchGPT/insomnium)
 - [RealFill: Image completion using diffusion models](https://realfill.github.io/)
