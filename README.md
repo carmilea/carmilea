@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, AES to help make buildings cheaper](https://up.codes/careers)
+- [Everything authenticated by Microsoft is tainted](https://graz.social/@publicvoit/111147782761723981)
+- [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
+- [Node.js – v20.8.0](https://nodejs.org/en/blog/release/v20.8.0)
 - [Generating chess puzzles with generic algorithms &lpar;2022&rpar;](https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms)
-- [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://www.bloomberg.com/news/articles/2023-09-28/microsoft-discussed-selling-bing-to-apple-as-google-replacement)
-- [CloudFlare is blocking traffic to Discord](https://discord.com/)
-- [Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
-- [Disclosure of Pirates’ Identities “Compatible with EU Privacy Laws”](https://torrentfreak.com/disclosure-of-pirates-identities-compatible-with-eu-privacy-laws-230929/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
