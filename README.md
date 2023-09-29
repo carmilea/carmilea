@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What is the least obnoxious way to ask for cookie permissions?](https://news.ycombinator.com/item?id=37703394)
+- [UK quietly dismisses independent AI advisory board, alarming tech sector](https://thenextweb.com/news/uk-dismisses-independent-ai-advisory-board-alarming-tech-sector)
+- [Encrypted Client Hello – the last puzzle piece to privacy](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
+- [Senator Dianne Feinstein dies aged 90](https://www.bbc.com/news/world-us-canada-66963341)
 - [Ten weird things you can buy online](https://www.hillelwayne.com/post/weird-things-you-can-buy/)
 - [Narrow tracks forcing trains to creep at walking pace on Boston&#39;s newest subway](https://www.bostonglobe.com/2023/09/28/metro/t-chief-calls-green-line-extension-slowdown-unacceptable/)
-- [Loadsharers: Funding the Load Bearing Internet People](https://esr.gitlab.io/loadsharers/)
-- [Rimac unveils ‘most technically advanced BESS in the world’, SineStack](https://www.energy-storage.news/rimac-unveils-most-technically-advanced-bess-in-the-world-sinestack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
