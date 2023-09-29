@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The point of a game is not to win](https://makopool.com/subgoals.html)
-- [JAX – NumPy on the CPU, GPU, and TPU, with great automatic differentiation](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
+- [German Large Language Model Released](https://laion.ai/blog/leo-lm/)
+- [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://arxiv.org/abs/2309.16058)
+- [JAX – NumPy on the CPU, GPU, and TPU](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
 - [Llama 2 Long](https://arxiv.org/abs/2309.16039)
 - [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)
-- [Discovery Steering Committee re Google Antitrust Litigation [pdf]](https://ia804605.us.archive.org/29/items/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.631.0.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
