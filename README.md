@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Timer in WatchOS 10](https://furbo.org/2023/09/28/the-timer-in-watchos-10/)
-- [Caps Lock Behaviour Disabled in Gnome](https://popey.com/blog/2023/09/caps-lock-behaviour-disabled-in-gnome/)
-- [Show HN: Generative Fill with AI and 3D](https://github.com/fill3d/fill)
-- [Jamboard Being Deprecated 2024](https://workspace.google.com/blog/product-announcements/next-phase-digital-whiteboarding)
-- [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
+- [Mozilla.social mastodon instance is live](https://mozilla.social)
+- [Ads team begging for worse search results so that ads team can hit their goals](https://twitter.com/pdrmnvd/status/1707395736458207430)
+- [Discord as a filehost will no longer be possible by the end of the year](https://this.alicorn.gay/post/729670550209937408/discord-as-a-filehost-will-no-longer-be-possible)
+- [Bloomberg: Apple held talks with Microsoft about acquiring Bing in 2020](https://9to5mac.com/2023/09/28/bloomberg-apple-held-talks-with-microsoft-about-acquiring-bing-in-2020/)
+- [The comprehensive guide to writing the best PR title of all time](https://graphite.dev/blog/the-best-pr-title-of-all-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
