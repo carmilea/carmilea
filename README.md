@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Arrows Capital co-founder Zhu arrested in Singapore airport](https://techcrunch.com/2023/09/29/three-arrows-capital-co-founder-zhu-arrested-in-singapore-airport-sentenced-four-months-in-prison/)
-- [Privacy washing: Google claims to support privacy while lobbying against it](https://proton.me/blog/google-lobbying)
-- [A new Chrome 0-day is sending the Internet into a new chapter of Groundhog Day](https://arstechnica.com/security/2023/09/new-0-day-in-chrome-and-firefox-is-likely-to-plague-other-software/)
-- [A new era for Arecibo: legendary observatory begins next phase](https://www.nature.com/articles/d41586-023-03021-6)
-- [Norway wants Facebook behavioral advertising banned across Europe](https://www.theregister.com/2023/09/29/norway_facebook_behavioral_ads/)
+- [Netflix Ships Last DVD](https://about.netflix.com/en/news/thanks-for-watching)
+- [Low-Code Programming Models](https://cacm.acm.org/magazines/2023/10/276633-low-code-programming-models/fulltext)
+- [Microsoft will stop old Windows keys from activating new Windows installs](https://arstechnica.com/gadgets/2023/09/microsoft-says-you-cant-activate-windows-10-11-with-old-windows-7-8-keys-anymore/)
+- [Facebook/Meta blocks accounts for posting link to EFF privacy tips](https://techhub.social/@kirbstr/111148950526108155)
+- [SIMD Everywhere Optimization from ARM Neon to RISC-V Vector Extensions](https://arxiv.org/abs/2309.16509)
 <!-- BLOG-POST-LIST:END -->
 
 ---
