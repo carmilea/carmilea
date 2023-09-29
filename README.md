@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
-- [New York City declares state of emergency amid flash floods](https://www.cnn.com/2023/09/29/weather/new-york-city-northeast-rain-flood-forecast-climate-friday/index.html)
-- [Localtunnel – Easily share a web service on your local development machine](https://theboroer.github.io/localtunnel-www/)
-- [Insomnium – Local, privacy-focused fork of Insomnia API client](https://github.com/ArchGPT/insomnium)
-- [RealFill: Image completion using diffusion models](https://realfill.github.io/)
+- [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162)
+- [Factorio Friday Facts #378 – Trains on another level](https://factorio.com/blog/post/fff-378)
+- [Obscura: The VPN that can&#39;t track your activity](https://obscuravpn.io/)
+- [Has a San Antonio Inventor Solved a Problem of Small-Scale Wind Power?](https://www.texasmonthly.com/news-politics/pirate-wind-turbines-inventor/)
+- [Investigating a teen’s death on an ebike and the Rad brand’s safety](https://www.bicycling.com/culture/a42690937/molly-steinsapir-lawsuit-rad-power-electric-bike/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
