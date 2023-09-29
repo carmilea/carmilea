@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Arrows Capital co-founder Zhu arrested in Singapore airport](https://techcrunch.com/2023/09/29/three-arrows-capital-co-founder-zhu-arrested-in-singapore-airport-sentenced-four-months-in-prison/)
+- [Privacy washing: Google claims to support privacy while lobbying against it](https://proton.me/blog/google-lobbying)
+- [A new Chrome 0-day is sending the Internet into a new chapter of Groundhog Day](https://arstechnica.com/security/2023/09/new-0-day-in-chrome-and-firefox-is-likely-to-plague-other-software/)
 - [A new era for Arecibo: legendary observatory begins next phase](https://www.nature.com/articles/d41586-023-03021-6)
 - [Norway wants Facebook behavioral advertising banned across Europe](https://www.theregister.com/2023/09/29/norway_facebook_behavioral_ads/)
-- [The Kakhovka Dam Disaster Revealed an Archaeological ‘Goldmine’](https://www.atlasobscura.com/articles/kakhovka-dam-chaika-cossack-archaeology)
-- [Show HN: RISC-V assembly tabletop board game &lpar;hack your opponent&rpar;](https://punkx.org/overflow/)
-- [Redditor uses ChatGPT to fix annoying Safari UI issue on macOS](https://chat.openai.com/share/af5551c3-0a54-4cee-a7db-be689deb2f70)
 <!-- BLOG-POST-LIST:END -->
 
 ---
