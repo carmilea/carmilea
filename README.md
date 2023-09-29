@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix Ships Last DVD](https://about.netflix.com/en/news/thanks-for-watching)
+- [If money rules the world – who rules money? &lpar;2008&rpar; [pdf]](http://web.archive.org/web/20200304024854if_/http://margritkennedy.de/media/art_forum_csr_international_1_2008_28.pdf)
+- [I Tested an HDMI Adapter That Demands Your Location and Spams You with Ads](https://www.404media.co/i-tested-an-hdmi-adapter-that-demands-your-location-browsing-data-photos-and-spams-you-with-ads/)
+- [When CEOs Are Paid for Bad Performance &lpar;2005&rpar;](https://www.gsb.stanford.edu/insights/when-ceos-are-paid-bad-performance)
+- [How a Four-Day Workweek Works, from the Companies Pulling It Off](https://www.wsj.com/lifestyle/careers/how-a-4-day-workweek-actually-works-from-the-companies-pulling-it-off-1a5c0e2a)
 - [Low-Code Programming Models](https://cacm.acm.org/magazines/2023/10/276633-low-code-programming-models/fulltext)
-- [Microsoft will stop old Windows keys from activating new Windows installs](https://arstechnica.com/gadgets/2023/09/microsoft-says-you-cant-activate-windows-10-11-with-old-windows-7-8-keys-anymore/)
-- [Facebook/Meta blocks accounts for posting link to EFF privacy tips](https://techhub.social/@kirbstr/111148950526108155)
-- [SIMD Everywhere Optimization from ARM Neon to RISC-V Vector Extensions](https://arxiv.org/abs/2309.16509)
 <!-- BLOG-POST-LIST:END -->
 
 ---
