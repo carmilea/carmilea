@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generating chess puzzles with generic algorithms &lpar;2022&rpar;](https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms)
+- [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://www.bloomberg.com/news/articles/2023-09-28/microsoft-discussed-selling-bing-to-apple-as-google-replacement)
+- [CloudFlare is blocking traffic to Discord](https://discord.com/)
 - [Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
 - [Disclosure of Pirates’ Identities “Compatible with EU Privacy Laws”](https://torrentfreak.com/disclosure-of-pirates-identities-compatible-with-eu-privacy-laws-230929/)
-- [Linux interop is maturing fast thanks to a games console](https://www.theregister.com/2023/09/27/osseu_steam_os_3/)
-- [Burning money on paid ads for a dev tool – what we&#39;ve learned](https://posthog.com/blog/dev-marketing-paid-ads)
-- [Supabase &lpar;YC S20&rpar; Is Hiring a Head of Data &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/4981444004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
