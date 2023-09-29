@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore - Time is Now](https://www.youtube.com/watch?v=Qq2fCtzMbD8)
 - [SingleStore ChatGPT Dev Day @ AWS Bangalore](https://www.youtube.com/watch?v=BvEl-tjz60k)
 - [Fast AI on JSON  Using OpenAI to Build a Real Time Recommendation Engine](https://www.youtube.com/watch?v=w2gCtCZ9nxE)
 - [ChatGPT for PLG Talk with Your Salesforce or Segment Data](https://www.youtube.com/watch?v=7R2EUVtHDoM)
 - [LiveRamp Finds an Innovation Partner, and the Power to Change the World, with SingleStore](https://www.youtube.com/watch?v=y7DY_GwKwO8)
-- [SingleStore ChatGPT Dev Day @ AWS Singapore](https://www.youtube.com/watch?v=p7Q_8ZKHsjg)
 <!-- YOUTUBE:END -->
 
 
