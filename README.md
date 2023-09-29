@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mozilla.social mastodon instance is live](https://mozilla.social)
-- [Ads team begging for worse search results so that ads team can hit their goals](https://twitter.com/pdrmnvd/status/1707395736458207430)
-- [Discord as a filehost will no longer be possible by the end of the year](https://this.alicorn.gay/post/729670550209937408/discord-as-a-filehost-will-no-longer-be-possible)
-- [Bloomberg: Apple held talks with Microsoft about acquiring Bing in 2020](https://9to5mac.com/2023/09/28/bloomberg-apple-held-talks-with-microsoft-about-acquiring-bing-in-2020/)
-- [The comprehensive guide to writing the best PR title of all time](https://graphite.dev/blog/the-best-pr-title-of-all-time)
+- [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)
+- [Ask HN: Which is the oldest software alive still in 0.x, used by many?](https://news.ycombinator.com/item?id=37698334)
+- [The Māori Genocide of the Moriori](https://www.stoneageherbalist.com/p/the-maori-genocide-of-the-moriori)
+- [US Senate’s email system melts down in face of security test and reply-all chaos](https://www.politico.com/minutes/congress/09-8-2023/senate-reply-all-mess/)
+- [The Internals of Deno](https://choubey.gitbook.io/internals-of-deno/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
