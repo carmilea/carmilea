@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Richard Stallman reveals he has cancer, in the GNU 40 Hacker Meeting talk](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm)
-- [German Large Language Model Released](https://laion.ai/blog/leo-lm/)
-- [Costco is selling gold bars and they are selling out within hours](https://www.cnbc.com/2023/09/27/costco-is-selling-gold-bars-and-they-are-selling-out-within-a-few-hours.html)
+- [Supabase &lpar;YC S20&rpar; Is Hiring a Head of Data &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/4981444004)
+- [Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm)
+- [LeoLM: German-Language LLM Research](https://laion.ai/blog/leo-lm/)
+- [Costco gold bars are selling out within hours](https://www.cnbc.com/2023/09/27/costco-is-selling-gold-bars-and-they-are-selling-out-within-a-few-hours.html)
 - [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://arxiv.org/abs/2309.16058)
-- [JAX – NumPy on the CPU, GPU, and TPU](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
