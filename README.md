@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, AES to help make buildings cheaper](https://up.codes/careers)
-- [Everything authenticated by Microsoft is tainted](https://graz.social/@publicvoit/111147782761723981)
-- [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
-- [Node.js – v20.8.0](https://nodejs.org/en/blog/release/v20.8.0)
-- [Generating chess puzzles with generic algorithms &lpar;2022&rpar;](https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms)
+- [Ask HN: What is the least obnoxious way to ask for cookie permissions?](https://news.ycombinator.com/item?id=37703394)
+- [Ten weird things you can buy online](https://www.hillelwayne.com/post/weird-things-you-can-buy/)
+- [Narrow tracks forcing trains to creep at walking pace on Boston&#39;s newest subway](https://www.bostonglobe.com/2023/09/28/metro/t-chief-calls-green-line-extension-slowdown-unacceptable/)
+- [Loadsharers: Funding the Load Bearing Internet People](https://esr.gitlab.io/loadsharers/)
+- [Rimac unveils ‘most technically advanced BESS in the world’, SineStack](https://www.energy-storage.news/rimac-unveils-most-technically-advanced-bess-in-the-world-sinestack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
