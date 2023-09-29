@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Localtunnel – Expose Yourself to the World](https://theboroer.github.io/localtunnel-www/)
-- [My elderly parents can&#39;t resist answering the phone](https://www.bogleheads.org/forum/viewtopic.php?t=413383)
+- [Can drinking coffee lead to a healthier liver?](https://www.michiganmedicine.org/health-lab/can-drinking-coffee-lead-healthier-liver)
+- [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
+- [Localtunnel – Easily share a web service on your local development machine](https://theboroer.github.io/localtunnel-www/)
 - [Insomnium – Local, privacy-focused fork of Insomnia API client](https://github.com/ArchGPT/insomnium)
-- [Google RealFill: Authentic Image Completion Using Diffusion Models](https://realfill.github.io/)
-- [High-Resolution Lidar Images of Rivers and Deltas](https://kottke.org/23/09/stunning-high-resolution-lidar-images-of-rivers-deltas)
+- [RealFill: Image completion using diffusion models](https://realfill.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
