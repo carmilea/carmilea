@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Devs learn rival Godot engine in a week to poke fun at Unity](https://www.theregister.com/2023/09/27/unity_install_fee_tycoon/)
 - [Trains on another level](https://factorio.com/blog/post/fff-378)
+- [Polycam released web 3D Gaussian Splatting Viewer](https://poly.cam/gaussian-splatting)
 - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
+- [Linux Kernel Hardening Checker](https://github.com/a13xp0p0v/kernel-hardening-checker)
 - [Meta in Myanmar](https://erinkissane.com/meta-in-myanmar-part-i-the-setup)
-- [Motocompacto from Honda, 3.7 inch wide Briefcase-form Electric Scooter](https://motocompacto.honda.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
