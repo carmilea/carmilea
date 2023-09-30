@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t worry about global population collapse](https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it)
+- [Drinking diet sodas daily during pregnancy linked to autism in male offspring](https://news.uthscsa.edu/drinking-diet-sodas-and-aspartame-sweetened-beverages-daily-during-pregnancy-linked-to-autism-in-male-offspring/)
+- [DOJ finally posted that “embarrassing” court doc Google wanted to hide](https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs/)
+- [CSS Solves Auto-Expanding Textareas](https://chriscoyier.net/2023/09/29/css-solves-auto-expanding-textareas-probably-eventually/)
 - [Rapid Recovery from an Autism Spectrum Disorder After Treatment of Aspergillus](https://pubmed.ncbi.nlm.nih.gov/33132781/)
-- [Daft Punk Announce Drumless Edition of Random Access Memories](https://pitchfork.com/news/daft-punk-announce-drumless-edition-of-random-access-memories/)
-- [A Revelation About Trees Is Messing with Climate Calculations](https://web.archive.org/web/20230930090902/https://www.wired.com/story/a-revelation-about-trees-is-messing-with-climate-calculations/)
-- [DOJ vs. Google evidence release that judge calls embarrassing exhibit [pdf]](https://www.justice.gov/d9/2023-09/416692.pdf)
-- [Azure dropping database support for MariaDB. Users advised to migrate to MySQL](https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
