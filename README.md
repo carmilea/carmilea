@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Devs learn rival Godot engine in a week to poke fun at Unity](https://www.theregister.com/2023/09/27/unity_install_fee_tycoon/)
-- [Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162)
 - [Trains on another level](https://factorio.com/blog/post/fff-378)
-- [Obscura: A VPN that can&#39;t track your activity](https://obscuravpn.io/)
 - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
+- [Meta in Myanmar](https://erinkissane.com/meta-in-myanmar-part-i-the-setup)
+- [Motocompacto from Honda, 3.7 inch wide Briefcase-form Electric Scooter](https://motocompacto.honda.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
