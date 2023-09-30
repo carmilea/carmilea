@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox 118 brings browser-based website translation &lpar;no cloud servers required&rpar;](https://liliputing.com/firefox-118-brings-browser-based-website-translation-no-cloud-servers-required-for-a-handful-of-supported-languages/)
-- [Ask HN: SaaS pricing pages with high prices and not “contact sales”](https://news.ycombinator.com/item?id=37717689)
-- [SigNoz &lpar;YC W21, Open Source Datadog Alternative&rpar; Is Hiring Tech Content Writer](https://signoz.io/careers/technical-content-writer-in/)
-- [Every single Onewheel is being recalled after four deaths](https://www.theverge.com/2023/9/29/23896151/onewheel-cpsc-recall-future-motion-crash-death)
-- [How Flip-flops are implemented in the Intel 8086 processor](http://www.righto.com/2023/09/8086-flip-flops.html)
+- [“Never write a database. Even if you want to, even if you think you should.”](https://twitter.com/mipsytipsy/status/1707661770687758401)
+- [LG halts production of ATSC 3.0-compatible TVs over patent concerns](https://www.lightreading.com/video-broadcast/lg-halts-production-of-atsc-3-0-compatible-tvs-over-patent-concerns)
+- [&#39;Counterfeit people&#39;: The danger posed by Meta’s AI celebrity lookalike chatbots](https://www.france24.com/en/technology/20230930-counterfeit-people-the-dangers-posed-by-meta-s-ai-celebrity-lookalike-chatbots)
+- [Google Search Is Like ‘Cigarettes or Drugs,’ Executive Said](https://www.bloomberg.com/news/articles/2023-09-29/google-search-is-like-cigarettes-or-drugs-executive-said)
+- [They Quit Their Jobs. Their Ex-Employers Sued Them for Training Costs](https://www.nytimes.com/2023/09/27/business/training-repayment-agreement-debt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
