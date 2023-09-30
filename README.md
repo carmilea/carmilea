@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DOJ vs. Google evidence release judge calls embarrassing exhibit [pdf]](https://www.justice.gov/d9/2023-09/416692.pdf)
+- [Azure dropping database support for MariaDB. Users advised to migrate to MySQL](https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/)
+- [They Studied Dishonesty. Was Their Work a Lie?](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie)
 - [Canadians have a ‘right to be forgotten’ on Google, Federal Court rules](https://www.theglobeandmail.com/canada/article-federal-court-of-appeal-opens-door-to-the-right-to-be-forgotten-in-a/)
-- [Google randomly deleted a popular YouTube channel again](https://twitter.com/3DPrintGeneral/status/1707888026351817107)
 - [PruningRadixTrie – 1000x faster Radix trie for prefix search and auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)
-- [Should Ethereum be okay with enshrining more things in the protocol?](https://vitalik.eth.limo/general/2023/09/30/enshrinement.html)
-- [Shell employees urge CEO to rethink shift from renewables in rare letter](https://www.euronews.com/green/2023/09/28/deep-concern-shell-employees-urge-ceo-to-rethink-shift-from-renewables-in-rare-letter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
