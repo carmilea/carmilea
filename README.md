@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Delphia &lpar;YC W18&rpar; Is Hiring](https://www.ycombinator.com/companies/delphia/jobs/ZhWTuyK-ai-data-science-lead)
+- [PSA: Some Pixel owners still can&#39;t dial 911 during an emergency](https://www.androidauthority.com/psa-google-pixel-911-emergency-calling-issues-3362990/)
+- [ChatGPT-4 significantly increased performance of BCG consultants](https://d3.harvard.edu/navigating-the-jagged-technological-frontier/)
 - [White House warns of ‘unprecedented’ Serbian troop buildup on Kosovo border](https://www.theguardian.com/world/2023/sep/29/kosovo-serbian-troops-buildup-us-uk)
-- [Bedbug crisis sparks political row in Paris as insect ‘scourge’ continues](https://www.theguardian.com/world/2023/sep/29/bedbug-crisis-political-row-paris-insect-scourge-continues)
 - [Show HN: kproximate – A Kubernetes node autoscaler for Proxmox](https://github.com/lupinelab/kproximate)
-- [Flexbox Froggy](https://flexboxfroggy.com/)
-- [Parasitic plant with shrunken genome convinces hosts to grow into its own flesh](https://phys.org/news/2023-09-parasitic-convinces-hosts-fleshit-extreme.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
