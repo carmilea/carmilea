@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parasitic plant with shrunken genome convinces hosts to grow into its own flesh](https://phys.org/news/2023-09-parasitic-convinces-hosts-fleshit-extreme.html)
 - [My Lobotomy: Howard Dully&#39;s Journey &lpar;2005&rpar;](https://www.npr.org/2005/11/16/5014080/my-lobotomy-howard-dullys-journey)
+- [Adding runtime benchmarks to the Rust compiler benchmark suite](https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html)
 - [Cloudflare launches new AI tools to help customers deploy and run models](https://techcrunch.com/2023/09/27/cloudflare-launches-new-ai-tools-to-help-customers-deploy-and-run-models/)
 - [How to Use Monadic Operations for `std:optional` in C++23](https://www.cppstories.com/2023/monadic-optional-ops-cpp23/)
-- [Tesla sued for severe harassment of Black workers at California plant](https://www.theguardian.com/technology/2023/sep/29/tesla-lawsuit-harassment-racism-black-employees-california)
-- [A couple of messages about changes to ianVisits: Copyright trolls](https://www.ianvisits.co.uk/articles/a-couple-of-messages-about-changes-to-ianvisits-66081/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
