@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t worry about global population collapse](https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it)
-- [Drinking diet sodas daily during pregnancy linked to autism in male offspring](https://news.uthscsa.edu/drinking-diet-sodas-and-aspartame-sweetened-beverages-daily-during-pregnancy-linked-to-autism-in-male-offspring/)
-- [DOJ finally posted that “embarrassing” court doc Google wanted to hide](https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs/)
-- [CSS Solves Auto-Expanding Textareas](https://chriscoyier.net/2023/09/29/css-solves-auto-expanding-textareas-probably-eventually/)
-- [Rapid Recovery from an Autism Spectrum Disorder After Treatment of Aspergillus](https://pubmed.ncbi.nlm.nih.gov/33132781/)
+- [SigNoz &lpar;YC W21, Open Source Datadog Alternative&rpar; Is Hiring Tech Content Writer](https://signoz.io/careers/technical-content-writer-in/)
+- [AWS Heros&#39; Re:Invent Attendee Guides](https://reinvent.awsevents.com/learn/attendee-guides/)
+- [Every single Onewheel is being recalled after four deaths](https://www.theverge.com/2023/9/29/23896151/onewheel-cpsc-recall-future-motion-crash-death)
+- [Plastic Bag Found at the Bottom of World’s Deepest Ocean Trench](https://education.nationalgeographic.org/resource/plastic-bag-found-bottom-worlds-deepest-ocean-trench/)
+- [South Korea has jailed a man for using AI to create sexual images of children](https://www.cnn.com/2023/09/27/asia/south-korea-child-abuse-ai-sentenced-intl-hnk/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
