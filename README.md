@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox 118 brings browser-based website translation &lpar;no cloud servers required&rpar;](https://liliputing.com/firefox-118-brings-browser-based-website-translation-no-cloud-servers-required-for-a-handful-of-supported-languages/)
+- [Ask HN: SaaS pricing pages with high prices and not “contact sales”](https://news.ycombinator.com/item?id=37717689)
 - [SigNoz &lpar;YC W21, Open Source Datadog Alternative&rpar; Is Hiring Tech Content Writer](https://signoz.io/careers/technical-content-writer-in/)
-- [AWS Heros&#39; Re:Invent Attendee Guides](https://reinvent.awsevents.com/learn/attendee-guides/)
 - [Every single Onewheel is being recalled after four deaths](https://www.theverge.com/2023/9/29/23896151/onewheel-cpsc-recall-future-motion-crash-death)
-- [Plastic Bag Found at the Bottom of World’s Deepest Ocean Trench](https://education.nationalgeographic.org/resource/plastic-bag-found-bottom-worlds-deepest-ocean-trench/)
-- [South Korea has jailed a man for using AI to create sexual images of children](https://www.cnn.com/2023/09/27/asia/south-korea-child-abuse-ai-sentenced-intl-hnk/index.html)
+- [How Flip-flops are implemented in the Intel 8086 processor](http://www.righto.com/2023/09/8086-flip-flops.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
