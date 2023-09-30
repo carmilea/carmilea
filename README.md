@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Delphia &lpar;YC W18&rpar; Is Hiring](https://www.ycombinator.com/companies/delphia/jobs/ZhWTuyK-ai-data-science-lead)
-- [PSA: Some Pixel owners still can&#39;t dial 911 during an emergency](https://www.androidauthority.com/psa-google-pixel-911-emergency-calling-issues-3362990/)
-- [ChatGPT-4 significantly increased performance of BCG consultants](https://d3.harvard.edu/navigating-the-jagged-technological-frontier/)
-- [White House warns of ‘unprecedented’ Serbian troop buildup on Kosovo border](https://www.theguardian.com/world/2023/sep/29/kosovo-serbian-troops-buildup-us-uk)
-- [Show HN: kproximate – A Kubernetes node autoscaler for Proxmox](https://github.com/lupinelab/kproximate)
+- [Canadians have a ‘right to be forgotten’ on Google, Federal Court rules](https://www.theglobeandmail.com/canada/article-federal-court-of-appeal-opens-door-to-the-right-to-be-forgotten-in-a/)
+- [Google randomly deleted a popular YouTube channel again](https://twitter.com/3DPrintGeneral/status/1707888026351817107)
+- [PruningRadixTrie – 1000x faster Radix trie for prefix search and auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)
+- [Should Ethereum be okay with enshrining more things in the protocol?](https://vitalik.eth.limo/general/2023/09/30/enshrinement.html)
+- [Shell employees urge CEO to rethink shift from renewables in rare letter](https://www.euronews.com/green/2023/09/28/deep-concern-shell-employees-urge-ceo-to-rethink-shift-from-renewables-in-rare-letter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
