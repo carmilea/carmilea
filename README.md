@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ferrocene update](https://ferrous-systems.com/blog/ferrocene-update/)
 - [Trains on another level](https://factorio.com/blog/post/fff-378)
-- [Polycam released web 3D Gaussian Splatting Viewer](https://poly.cam/gaussian-splatting)
+- [The fastest route to a climate turnaround is also less expensive](https://www.anthropocenemagazine.org/2023/07/the-fastest-route-to-a-climate-turnaround-is-also-less-expensive/)
 - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
 - [Linux Kernel Hardening Checker](https://github.com/a13xp0p0v/kernel-hardening-checker)
-- [Meta in Myanmar](https://erinkissane.com/meta-in-myanmar-part-i-the-setup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
