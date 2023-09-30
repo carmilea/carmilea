@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust on Espressif chips – 29-09-2023](https://mabez.dev/blog/posts/esp-rust-29-09-2023/)
+- [BlackBerry failed to respond to the iPhone](https://rubenerd.com/how-blackberry-failed-to-respond-to-the-iphone/)
 - [Ferrocene update](https://ferrous-systems.com/blog/ferrocene-update/)
 - [Trains on another level](https://factorio.com/blog/post/fff-378)
 - [The fastest route to a climate turnaround is also less expensive](https://www.anthropocenemagazine.org/2023/07/the-fastest-route-to-a-climate-turnaround-is-also-less-expensive/)
-- [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
-- [Linux Kernel Hardening Checker](https://github.com/a13xp0p0v/kernel-hardening-checker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
