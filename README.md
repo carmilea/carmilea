@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DKIM: Rotate and Publish Your Keys](https://diziet.dreamwidth.org/16025.html)
 - [Many of today’s unhealthy foods were brought to you by Big Tobacco](https://www.washingtonpost.com/wellness/2023/09/19/addiction-foods-hyperpalatable-tobacco/)
 - [&#39;Couple,&#39; &#39;Few,&#39; and &#39;Several&#39;](https://www.merriam-webster.com/grammar/couple-few-several-use)
+- [Watch a frog-like robot use tiny explosions to hop around](https://www.newscientist.com/article/2391584-watch-a-frog-like-robot-use-tiny-explosions-to-hop-around/)
 - [India’s pickle people: Decades-old culinary heirlooms, nostalgia](https://www.aljazeera.com/features/2023/9/29/indias-pickle-people-decades-old-culinary-heirlooms-nostalgia)
-- [LK-99 Research Continues, Paper Says Superconductivity Could Be Possible](https://www.tomshardware.com/news/research-on-lk-99-continues-paper-says-superconductivity-could-be-possible)
-- [Show HN: A map that tells you if a NYC cafe has WiFi, a restroom, and an outlet](https://www.octobrain.one/maps/908lqY3fV5C4v7nRvvd2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
