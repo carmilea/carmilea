@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Companies Like Amazon and JPMorgan Spy on Their Staff](https://www.businessinsider.com/how-companies-spy-on-employees-bossware-jpmorgan-amazon-monitor-rto-2023-10)
+- [Nvidia Office Raided by French Authorities](https://futurism.com/the-byte/france-raided-nvidia-office)
 - [Humane, a startup full of ex-iPhone talent, trying to make phones obsolete](https://www.inverse.com/tech/humane-projection-device-ex-apple-employees-artificial-intelligence)
 - [Learn and Test DMARC](https://www.learndmarc.com)
 - [Spatial: A high-level language for programming accelerators](https://spatial-lang.org)
-- [12,000-year-old realistic human statue was unearthed](https://themindcircle.com/new-gobeklitepe-and-karahantepe-findings/)
-- [Bing ChatGPT image jailbreak](https://twitter.com/literallydenis/status/1708283962399846459)
 <!-- BLOG-POST-LIST:END -->
 
 ---
