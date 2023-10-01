@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla&#39;s midlife crisis: from web pioneer to Google&#39;s weird neighbor](https://www.theregister.com/2023/09/29/mozilla_asleep_at_wheel/)
+- [In Digital Ocean, S3-like space keys can access all your buckets](https://ideas.digitalocean.com/storage/p/access-key-per-space)
 - [Where&#39;s My Bike Dave?](https://road.cc/content/news/bike-thief-convicted-after-mother-victim-protests-304143)
-- [DKIM: Rotate and Publish Your Keys](https://diziet.dreamwidth.org/16025.html)
-- [Decentralized Artificial Intelligence](https://www.chaos-engineering.dev/p/decentralized-artificial-intelligence)
-- [Many of today’s unhealthy foods were brought to you by Big Tobacco](https://www.washingtonpost.com/wellness/2023/09/19/addiction-foods-hyperpalatable-tobacco/)
-- [Representing Heterogeneous Data](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
+- [This is Financial Advice [video by Folding Ideas]](https://www.youtube.com/watch?v=5pYeoZaoWrA)
+- [Does anybody remember Google People](https://qntm.org/person)
 <!-- BLOG-POST-LIST:END -->
 
 ---
