@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MP3 vs. AAC vs. FLAC vs. CD](https://www.stereophile.com/features/308mp3cd/index.html)
-- [Pubs replaced banks in Ireland in 1970 and the economy was fine](https://www.businessinsider.com/pubs-replaced-banks-in-ireland-in-1970-and-the-economy-was-fine-2016-1)
-- [Influxdb made the switch from Go to Rust](https://reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/)
-- [Meta case brought to the European level](https://www.datatilsynet.no/en/news/aktuelle-nyheter-2023/meta-case-brought-to-the-european-level/)
-- [Pulsars, not dark matter, explain the Milky Way’s antimatter](https://bigthink.com/starts-with-a-bang/pulsars-dark-matter-milky-way-antimatter/)
+- [Ask HN: After 3 years of crypto trading, how to return to the normal job market?](https://news.ycombinator.com/item?id=37727067)
+- [More than 100 dolphins dead in Amazon as water hits 102 degrees Fahrenheit](https://www.cnn.com/2023/10/01/americas/amazon-river-dolphins-dead-temperatures-drought-intl-hnk/index.html)
+- [We don&#39;t have Senior Engineers anymore](https://sibelius.substack.com/p/we-dont-have-seniors-anymore)
+- [Tire Dust Makes Up the Majority of Ocean Microplastics](https://www.thedrive.com/news/tire-dust-makes-up-the-majority-of-ocean-microplastics-study-finds)
+- [Germans shrug off economic gloom at booming Oktoberfest](https://www.ft.com/content/c251bdfe-9ba3-4204-b933-b7bd6b514549)
 <!-- BLOG-POST-LIST:END -->
 
 ---
