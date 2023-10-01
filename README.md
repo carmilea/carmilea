@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FlashAttention: Fast Transformer training with long sequences](https://www.adept.ai/blog/flashier-attention)
+- [Plimpton 322 is Babylonian exact sexagesimal trigonometry](https://www.sciencedirect.com/science/article/pii/S0315086017300691)
+- [Never say “no,” but rarely say “yes.”](https://longform.asmartbear.com/say-yes/)
 - [Mozilla&#39;s midlife crisis: from web pioneer to Google&#39;s weird neighbor](https://www.theregister.com/2023/09/29/mozilla_asleep_at_wheel/)
 - [In Digital Ocean, S3-like space keys can access all your buckets](https://ideas.digitalocean.com/storage/p/access-key-per-space)
-- [Where&#39;s My Bike Dave?](https://road.cc/content/news/bike-thief-convicted-after-mother-victim-protests-304143)
-- [This is Financial Advice [video by Folding Ideas]](https://www.youtube.com/watch?v=5pYeoZaoWrA)
-- [Does anybody remember Google People](https://qntm.org/person)
 <!-- BLOG-POST-LIST:END -->
 
 ---
