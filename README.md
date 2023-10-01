@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America does not have a good food culture](https://walkingtheworld.substack.com/p/america-does-not-have-a-good-food)
-- [&#39;Couple,&#39; &#39;Few,&#39; and &#39;Several&#39;: The &lpar;Mostly&rpar; Definitive Guide](https://www.merriam-webster.com/grammar/couple-few-several-use)
+- [&#39;Couple,&#39; &#39;Few,&#39; and &#39;Several&#39;](https://www.merriam-webster.com/grammar/couple-few-several-use)
 - [India’s pickle people: Decades-old culinary heirlooms, nostalgia](https://www.aljazeera.com/features/2023/9/29/indias-pickle-people-decades-old-culinary-heirlooms-nostalgia)
 - [LK-99 Research Continues, Paper Says Superconductivity Could Be Possible](https://www.tomshardware.com/news/research-on-lk-99-continues-paper-says-superconductivity-could-be-possible)
 - [Show HN: A map that tells you if a NYC cafe has WiFi, a restroom, and an outlet](https://www.octobrain.one/maps/908lqY3fV5C4v7nRvvd2)
+- [Lowering the Cost of Anonymization &lpar;2020&rpar;](https://desfontain.es/thesis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
