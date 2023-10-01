@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DALL-E 3 is now publicly available inside Bing](https://www.bing.com/images/create/?ref=hn)
+- [MyPowerbank hacks Santander bikes so London&#39;s homeless can charge their phones](https://www.dezeen.com/2023/09/29/mypowerbank-hacks-santander-bikes-homeless-charge-phones/)
+- [Hermit &#39;scribblings&#39; of French math genius Alexander Grothendieck unveiled](https://phys.org/news/2023-09-hermit-eccentric-french-math-genius.html)
+- [Groundbreaking Study: People Experience ‘New Dimensions of Reality&#39; When Dying](https://www.vice.com/en/article/pkamgm/people-experience-new-dimensions-of-reality-when-dying-groundbreaking-study-reports)
 - [FlashAttention: Fast Transformer training with long sequences](https://www.adept.ai/blog/flashier-attention)
-- [Plimpton 322 is Babylonian exact sexagesimal trigonometry](https://www.sciencedirect.com/science/article/pii/S0315086017300691)
-- [Never say “no,” but rarely say “yes.”](https://longform.asmartbear.com/say-yes/)
-- [Mozilla&#39;s midlife crisis: from web pioneer to Google&#39;s weird neighbor](https://www.theregister.com/2023/09/29/mozilla_asleep_at_wheel/)
-- [In Digital Ocean, S3-like space keys can access all your buckets](https://ideas.digitalocean.com/storage/p/access-key-per-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
