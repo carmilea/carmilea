@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: After 3 years of crypto trading, how to return to the normal job market?](https://news.ycombinator.com/item?id=37727067)
-- [More than 100 dolphins dead in Amazon as water hits 102 degrees Fahrenheit](https://www.cnn.com/2023/10/01/americas/amazon-river-dolphins-dead-temperatures-drought-intl-hnk/index.html)
-- [We don&#39;t have Senior Engineers anymore](https://sibelius.substack.com/p/we-dont-have-seniors-anymore)
+- [Could EU force hardware manufacturers to make working drivers for Linux?](https://old.reddit.com/r/linux/comments/16wv53f/could_the_eu_force_hardware_manufacturers_to_make/)
+- [How Many Microbes Does It Take to Make You Sick?](https://www.quantamagazine.org/how-many-microbes-does-it-take-to-make-you-sick-20230927/)
+- [WFH significantly increased workforce participation from those with disabilities](https://thehill.com/opinion/technology/4228100-does-working-from-home-damage-productivity-just-look-at-the-data/)
 - [Tire Dust Makes Up the Majority of Ocean Microplastics](https://www.thedrive.com/news/tire-dust-makes-up-the-majority-of-ocean-microplastics-study-finds)
-- [Germans shrug off economic gloom at booming Oktoberfest](https://www.ft.com/content/c251bdfe-9ba3-4204-b933-b7bd6b514549)
+- [Pubs replaced banks in Ireland in 1970 and the economy was fine](https://www.businessinsider.com/pubs-replaced-banks-in-ireland-in-1970-and-the-economy-was-fine-2016-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
