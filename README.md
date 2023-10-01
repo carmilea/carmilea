@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America does not have a good food culture](https://walkingtheworld.substack.com/p/america-does-not-have-a-good-food)
+- [&#39;Couple,&#39; &#39;Few,&#39; and &#39;Several&#39;: The &lpar;Mostly&rpar; Definitive Guide](https://www.merriam-webster.com/grammar/couple-few-several-use)
 - [India’s pickle people: Decades-old culinary heirlooms, nostalgia](https://www.aljazeera.com/features/2023/9/29/indias-pickle-people-decades-old-culinary-heirlooms-nostalgia)
-- [Nvidia&#39;s RTX 5000 Ada Now Available: AD102 with 32GB of GDDR6](https://www.tomshardware.com/news/nvidias-rtx-5000-ada-now-available-ad102-with-32gb-of-gddr6)
+- [LK-99 Research Continues, Paper Says Superconductivity Could Be Possible](https://www.tomshardware.com/news/research-on-lk-99-continues-paper-says-superconductivity-could-be-possible)
 - [Show HN: A map that tells you if a NYC cafe has WiFi, a restroom, and an outlet](https://www.octobrain.one/maps/908lqY3fV5C4v7nRvvd2)
-- [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
-- [-Werror Is not your friend &lpar;2017&rpar;](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
