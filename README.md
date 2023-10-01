@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We aren’t losing all of our honeybees](https://geneticliteracyproject.org/2020/03/20/no-we-arent-losing-all-of-our-honeybees-and-neonic-seed-coatings-arent-driving-their-health-problems-heres-why/)
-- [4chan Turns 20](https://4chan.org/4channews.php)
+- [Humane, a startup full of ex-iPhone talent, trying to make phones obsolete](https://www.inverse.com/tech/humane-projection-device-ex-apple-employees-artificial-intelligence)
+- [Celebrity Flights](https://celebrityflight.com/)
+- [Varoufakis: Capitalism is dead, long live Technofeudalism](https://unherd.com/2023/09/capitalism-is-dead-long-live-technofeudalism/)
 - [Teens inundated with phone prompts day and night, research finds](https://www.nbcnews.com/health/health-news/teens-inundated-phone-prompts-day-night-research-finds-rcna108044)
-- [Whenever I buy things I try to prioritize cost per use](https://twitter.com/kepano/status/1708499101778923647)
-- [Meta in Myanmar, Part II: The Crisis](https://erinkissane.com/meta-in-myanmar-part-ii-the-crisis)
+- [2023 DevOps Is Terrible](https://abidmoon.hashnode.dev/2023-devops-is-terrible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
