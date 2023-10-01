@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta case brought to the European level](https://www.datatilsynet.no/en/news/aktuelle-nyheter-2023/meta-case-brought-to-the-european-level/)
+- [Pulsars, not dark matter, explain the Milky Way’s antimatter](https://bigthink.com/starts-with-a-bang/pulsars-dark-matter-milky-way-antimatter/)
 - [DALL-E 3 is now publicly available inside Bing](https://www.bing.com/images/create/?ref=hn)
+- [Ask HN: Whats the modern day equivalent of 80s computer for kids to explore?](https://news.ycombinator.com/item?id=37725264)
 - [MyPowerbank hacks Santander bikes so London&#39;s homeless can charge their phones](https://www.dezeen.com/2023/09/29/mypowerbank-hacks-santander-bikes-homeless-charge-phones/)
-- [Hermit &#39;scribblings&#39; of French math genius Alexander Grothendieck unveiled](https://phys.org/news/2023-09-hermit-eccentric-french-math-genius.html)
-- [Groundbreaking Study: People Experience ‘New Dimensions of Reality&#39; When Dying](https://www.vice.com/en/article/pkamgm/people-experience-new-dimensions-of-reality-when-dying-groundbreaking-study-reports)
-- [FlashAttention: Fast Transformer training with long sequences](https://www.adept.ai/blog/flashier-attention)
 <!-- BLOG-POST-LIST:END -->
 
 ---
