@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Humane, a startup full of ex-iPhone talent, trying to make phones obsolete](https://www.inverse.com/tech/humane-projection-device-ex-apple-employees-artificial-intelligence)
-- [Celebrity Flights](https://celebrityflight.com/)
-- [Varoufakis: Capitalism is dead, long live Technofeudalism](https://unherd.com/2023/09/capitalism-is-dead-long-live-technofeudalism/)
-- [Teens inundated with phone prompts day and night, research finds](https://www.nbcnews.com/health/health-news/teens-inundated-phone-prompts-day-night-research-finds-rcna108044)
-- [2023 DevOps Is Terrible](https://abidmoon.hashnode.dev/2023-devops-is-terrible)
+- [Learn and Test DMARC](https://www.learndmarc.com)
+- [Spatial: A high-level language for programming accelerators](https://spatial-lang.org)
+- [12,000-year-old realistic human statue was unearthed](https://themindcircle.com/new-gobeklitepe-and-karahantepe-findings/)
+- [Bing ChatGPT image jailbreak](https://twitter.com/literallydenis/status/1708283962399846459)
 <!-- BLOG-POST-LIST:END -->
 
 ---
