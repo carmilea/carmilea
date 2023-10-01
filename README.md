@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Japan’s toddler superstar: the baby bringing hope to a ghost village](https://www.ft.com/content/a43a9f8b-0051-492f-93a3-5332fd465785)
+- [Nvidia&#39;s RTX 5000 Ada Now Available: AD102 with 32GB of GDDR6](https://www.tomshardware.com/news/nvidias-rtx-5000-ada-now-available-ad102-with-32gb-of-gddr6)
+- [Machine Learning Mastery Series – Part 1 of 10](https://ataiva.com/machine-learning-mastery-series-part-1-introduction-to-machine-learning/)
 - [Show HN: A map that tells you if a NYC cafe has WiFi, a restroom, and an outlet](https://www.octobrain.one/maps/908lqY3fV5C4v7nRvvd2)
 - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
-- [Installing PyTorch Geometric Wrt CUDA Version](https://blog.42yeah.is/cuda/2023/09/30/torch-geometric.html)
-- [-Werror Is Not Your Friend](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
+- [-Werror Is not your friend &lpar;2017&rpar;](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
