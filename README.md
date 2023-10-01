@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The worrying democratic erosions in South Korea](https://www.newyorker.com/news/daily-comment/the-worrying-democratic-erosions-in-south-korea)
+- [The Irish Logarithm](https://blog.plover.com/math/irish-logarithm.html)
+- [Pillows to help workers snooze at desk draw attention in Japan](https://mainichi.jp/english/articles/20230928/p2a/00m/0na/023000c)
+- [Bruno – Opensource, Sustainability, Privacy, Freedom and Incentives](https://github.com/usebruno/bruno/discussions/269)
 - [Could EU force hardware manufacturers to make working drivers for Linux?](https://old.reddit.com/r/linux/comments/16wv53f/could_the_eu_force_hardware_manufacturers_to_make/)
-- [How Many Microbes Does It Take to Make You Sick?](https://www.quantamagazine.org/how-many-microbes-does-it-take-to-make-you-sick-20230927/)
-- [WFH significantly increased workforce participation from those with disabilities](https://thehill.com/opinion/technology/4228100-does-working-from-home-damage-productivity-just-look-at-the-data/)
-- [Tire Dust Makes Up the Majority of Ocean Microplastics](https://www.thedrive.com/news/tire-dust-makes-up-the-majority-of-ocean-microplastics-study-finds)
-- [Pubs replaced banks in Ireland in 1970 and the economy was fine](https://www.businessinsider.com/pubs-replaced-banks-in-ireland-in-1970-and-the-economy-was-fine-2016-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
