@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The worrying democratic erosions in South Korea](https://www.newyorker.com/news/daily-comment/the-worrying-democratic-erosions-in-south-korea)
-- [The Irish Logarithm](https://blog.plover.com/math/irish-logarithm.html)
-- [Pillows to help workers snooze at desk draw attention in Japan](https://mainichi.jp/english/articles/20230928/p2a/00m/0na/023000c)
-- [Bruno – Opensource, Sustainability, Privacy, Freedom and Incentives](https://github.com/usebruno/bruno/discussions/269)
-- [Could EU force hardware manufacturers to make working drivers for Linux?](https://old.reddit.com/r/linux/comments/16wv53f/could_the_eu_force_hardware_manufacturers_to_make/)
+- [We aren’t losing all of our honeybees](https://geneticliteracyproject.org/2020/03/20/no-we-arent-losing-all-of-our-honeybees-and-neonic-seed-coatings-arent-driving-their-health-problems-heres-why/)
+- [4chan Turns 20](https://4chan.org/4channews.php)
+- [Teens inundated with phone prompts day and night, research finds](https://www.nbcnews.com/health/health-news/teens-inundated-phone-prompts-day-night-research-finds-rcna108044)
+- [Whenever I buy things I try to prioritize cost per use](https://twitter.com/kepano/status/1708499101778923647)
+- [Meta in Myanmar, Part II: The Crisis](https://erinkissane.com/meta-in-myanmar-part-ii-the-crisis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
