@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NIR: Nim Intermediate Representation](https://github.com/nim-lang/Nim/pull/22777)
-- [The man who did not have a conversation in over 50 years](https://en.wikipedia.org/wiki/Andr%C3%A1s_Toma)
-- [AdaCore Announces Gnat Pro for Rust](https://www.adacore.com/press/adacore-announces-gnat-pro-for-rust)
-- [Bots Should Punch Up](https://www.crummy.com/2013/11/27/0)
-- [How to see bright, vivid images in your mind’s eye &lpar;2016&rpar;](https://photographyinsider.info/image-streaming-for-photographers/)
+- [Japan’s toddler superstar: the baby bringing hope to a ghost village](https://www.ft.com/content/a43a9f8b-0051-492f-93a3-5332fd465785)
+- [Show HN: A map that tells you if a NYC cafe has WiFi, a restroom, and an outlet](https://www.octobrain.one/maps/908lqY3fV5C4v7nRvvd2)
+- [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
+- [Installing PyTorch Geometric Wrt CUDA Version](https://blog.42yeah.is/cuda/2023/09/30/torch-geometric.html)
+- [-Werror Is Not Your Friend](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
