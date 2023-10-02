@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DOE: Pathways to Commercial Liftoff: Virtual Power Plants](https://liftoff.energy.gov/vpp/)
-- [Chess and solution pool with linear programming &lpar;2018&rpar;](http://yetanothermathprogrammingconsultant.blogspot.com/2018/11/chess-and-solution-pool.html)
-- [James Webb Space Telescope&#39;s first spectrum of a TRAPPIST-1 planet](https://phys.org/news/2023-09-james-webb-space-telescope-spectrum.html)
-- [Chromebook Plus](https://blog.google/products/chromebooks/chromebook-plus/)
-- [Break-a-Scene: Extracting Multiple Concepts from a Single Image](https://omriavrahami.com/break-a-scene/)
+- [Stop Arguing over Elite Schools. Just Make Public Colleges Free](https://www.thenation.com/article/society/tuition-free-public-college/)
+- [Americans Saved $1.1T Less Than Previously Thought from 2017-2022](https://www.bloomberg.com/news/articles/2023-09-28/americans-saved-1-1-trillion-less-than-thought-from-2017-2022)
+- [The CDC Awards $260M Contract for Disease Surveillance](https://reclaimthenet.org/the-cdc-awards-260-million-contract-for-disease-surveillance)
+- [Return to Office Is Bullshit and Everyone Knows It](https://soatok.blog/2023/10/02/return-to-office-is-bullshit-and-everyone-knows-it/)
+- [Ask HN: Who is hiring? &lpar;October 2023&rpar;](https://news.ycombinator.com/item?id=37739028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
