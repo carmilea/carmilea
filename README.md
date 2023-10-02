@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Shadowy Global Network Vilifying Climate Protesters](https://newrepublic.com/article/175488/meet-shadowy-global-network-vilifying-climate-protesters)
+- [Nobel Price in Medicine goes to development of mRNA vaccines](https://www.nobelprize.org/prizes/medicine/2023/press-release/)
+- [HTTP Cats](https://http.cat/)
+- [Commodore 700: “It&#39;s a picture – and it&#39;s worth a thousand words”](https://nosher.net/archives/computers/comm_002-a)
 - [People going &#39;monk mode&#39; to limit social media use](https://www.bbc.com/news/business-66934688)
 - [Nomnoml](https://nomnoml.com/)
-- [Floorp – a customisable Firefox fork from Japan](https://floorp.app/en/)
-- [Lester del Rey invented fantasy fiction as we know it](https://slate.com/culture/2023/10/lester-del-rey-invention-fantasy-book-publishing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
