@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Shadowy Global Network Vilifying Climate Protesters](https://newrepublic.com/article/175488/meet-shadowy-global-network-vilifying-climate-protesters)
+- [Amsterdam preparing to lower speed limit to 30 kilometers per hour](https://nltimes.nl/2023/10/02/amsterdam-preparing-lower-speed-limit-30-kilometers-per-hour)
+- [Nomnoml](https://nomnoml.com/)
+- [Floorp – a customisable Firefox fork from Japan](https://floorp.app/en/)
 - [Nue.js: Rethinking Reactivity](https://nuejs.org/blog/rethinking-reactivity/)
-- [On Learning to Program with LLMs](https://www.se-radio.net/2023/09/se-radio-582-leo-porter-and-daniel-zingaro-on-using-llms-in-the-classroom/)
-- [Mastodon for Apple II](https://www.colino.net/wordpress/en/mastodon-for-apple-ii/)
-- [Pg_branch: Experimental Postgres extension brings Neon-like branching](https://github.com/NAlexPear/pg_branch)
-- [New group attacking iPhone encryption backed by US political dark-money network](https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
