@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dalle-3 Examples](https://www.aidemos.info/dalle-3-examples/)
-- [Wilhelm Reich on Pleasure and the Genesis of Anxiety &lpar;2021&rpar;](https://epochemagazine.org/44/wilhelm-reich-on-pleasure-and-the-genesis-of-anxiety/)
+- [Art or Artifice? Large Language Models and the False Promise of Creativity](https://arxiv.org/abs/2309.14556)
+- [Wilhelm Reich on pleasure and the genesis of anxiety &lpar;2021&rpar;](https://epochemagazine.org/44/wilhelm-reich-on-pleasure-and-the-genesis-of-anxiety/)
 - [Show HN: Anything World – AI for 3D auto-rigging and animation](https://anything.world/)
-- [ASCII FacePalm](http://www.asciifacepalm.com/)
 - [Polymath Robotics &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
+- [Efficient streaming language models with attention sinks](https://github.com/mit-han-lab/streaming-llm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
