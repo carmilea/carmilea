@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Telescope makes &#39;JuMBO&#39; discovery of planet-like objects in Orion](https://www.bbc.co.uk/news/science-environment-66974738)
 - [Nobel Price in Medicine awarded to Katalin Karikó and Drew Weissman](https://www.nobelprize.org/prizes/medicine/2023/press-release/)
+- [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://tonsky.me/blog/unicode/)
+- [Crusty Windows](https://crustywindo.ws/Main_Page)
 - [Commodore 700: “It&#39;s a picture – and it&#39;s worth a thousand words”](https://nosher.net/archives/computers/comm_002-a)
-- [People going &#39;monk mode&#39; to limit social media use](https://www.bbc.com/news/business-66934688)
-- [Nomnoml](https://nomnoml.com/)
-- [Floorp – a customisable Firefox fork from Japan](https://floorp.app/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
