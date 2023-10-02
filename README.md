@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rewind Pendant: a wearable that captures what you say and hear](https://www.rewind.ai/pendant)
+- [Apple will no longer fix the $17,000 gold Apple Watch](https://www.theverge.com/2023/10/2/23900158/apple-watch-edition-gold-2015-obsolete-unsupported-beyonce)
+- [First Blood Test for Dozens of Hereditary Cancers Approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
+- [A Call for Developers – Jellyfin](https://jellyfin.org/posts/a-call-for-developers/)
 - [Dead grandma locket request tricks Bing Chat’s AI into solving security puzzle](https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/)
 - [Oxford &#39;explosion&#39; after lightning strike seen from A34](https://www.oxfordmail.co.uk/news/23829165.oxford-explosion-lightning-strike-seen-a34/)
-- [Art or Artifice? Large Language Models and the False Promise of Creativity](https://arxiv.org/abs/2309.14556)
-- [Local-first software: You own your data, in spite of the cloud &lpar;2019&rpar;](https://www.inkandswitch.com/local-first/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
