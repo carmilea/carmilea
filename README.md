@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [jq 1.7](https://github.com/jqlang/jq/releases)
+- [Nue.js: Rethinking Reactivity](https://nuejs.org/blog/rethinking-reactivity/)
 - [On Learning to Program with LLMs](https://www.se-radio.net/2023/09/se-radio-582-leo-porter-and-daniel-zingaro-on-using-llms-in-the-classroom/)
 - [Mastodon for Apple II](https://www.colino.net/wordpress/en/mastodon-for-apple-ii/)
-- [Pg_branch: Pre-alpha Postgres extension brings Neon-like branching](https://github.com/NAlexPear/pg_branch)
-- [New Group Attacking iPhone Encryption Backed by US Political Dark-Money Network](https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/)
+- [Pg_branch: Experimental Postgres extension brings Neon-like branching](https://github.com/NAlexPear/pg_branch)
+- [New group attacking iPhone encryption backed by US political dark-money network](https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
