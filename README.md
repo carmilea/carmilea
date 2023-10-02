@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rewind Pendant: a wearable that captures what you say and hear](https://www.rewind.ai/pendant)
+- [Dead grandma locket request tricks Bing Chat’s AI into solving security puzzle](https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/)
+- [Oxford &#39;explosion&#39; after lightning strike seen from A34](https://www.oxfordmail.co.uk/news/23829165.oxford-explosion-lightning-strike-seen-a34/)
 - [Art or Artifice? Large Language Models and the False Promise of Creativity](https://arxiv.org/abs/2309.14556)
-- [Wilhelm Reich on pleasure and the genesis of anxiety &lpar;2021&rpar;](https://epochemagazine.org/44/wilhelm-reich-on-pleasure-and-the-genesis-of-anxiety/)
-- [Show HN: Anything World – AI for 3D auto-rigging and animation](https://anything.world/)
-- [Polymath Robotics &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
-- [Efficient streaming language models with attention sinks](https://github.com/mit-han-lab/streaming-llm)
+- [Local-first software: You own your data, in spite of the cloud &lpar;2019&rpar;](https://www.inkandswitch.com/local-first/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
