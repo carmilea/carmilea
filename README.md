@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Quotes were £5000 or more’: electric vehicle owners face soaring insurance cost](https://www.theguardian.com/money/2023/sep/30/the-quotes-were-5000-or-more-electric-vehicle-owners-face-soaring-insurance-costs)
+- [Critics Furious Microsoft Is Training AI by Sucking Up Water During Drought](https://futurism.com/critics-microsoft-water-train-ai-drought)
 - [LinkedIn forcing me to disclose my phone number to log in? No thanks](https://news.ycombinator.com/item?id=37732203)
 - [Intimacy does not scale &lpar;2021&rpar;](https://archive.ph/AUpYp)
-- [Peter Thiel’s Palantir Pushed Toward the Heart of U.K. Health Care](https://www.nytimes.com/2023/09/29/world/europe/uk-nhs-palantir.html)
 - [FBI warns “phantom” hacker scams are emptying financial accounts](https://www.tomsguide.com/news/fbi-issues-warning-over-phantom-hacker-scams-dont-fall-for-this)
+- [CISA, NSA, FBI Release Advisory Warning of BlackTech, PRC-Linked Cyber Activity](https://www.cisa.gov/news-events/news/cisa-nsa-fbi-and-japan-release-advisory-warning-blacktech-prc-linked-cyber-activity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
