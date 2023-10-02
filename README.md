@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [jq 1.7](https://github.com/jqlang/jq/releases)
+- [On Learning to Program with LLMs](https://www.se-radio.net/2023/09/se-radio-582-leo-porter-and-daniel-zingaro-on-using-llms-in-the-classroom/)
 - [Mastodon for Apple II](https://www.colino.net/wordpress/en/mastodon-for-apple-ii/)
 - [Pg_branch: Pre-alpha Postgres extension brings Neon-like branching](https://github.com/NAlexPear/pg_branch)
 - [New Group Attacking iPhone Encryption Backed by US Political Dark-Money Network](https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/)
-- [Arm’s Cortex A510: Two Kids in a Trench Coat](https://chipsandcheese.com/2023/10/01/arms-cortex-a510-two-kids-in-a-trench-coat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
