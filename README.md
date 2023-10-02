@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chromebook Plus](https://blog.google/products/chromebooks/chromebook-plus/)
+- [Break-a-Scene: Extracting Multiple Concepts from a Single Image](https://omriavrahami.com/break-a-scene/)
 - [Major airline faces backlash after using ghost flights to exploit legal loophole](https://news.yahoo.com/major-airline-faces-backlash-using-220000546.html)
 - [Python 3.12](https://www.python.org/downloads/release/python-3120/)
 - [James Webb Telescope makes &#39;JuMBO&#39; discovery of planet-like objects in Orion](https://www.bbc.co.uk/news/science-environment-66974738)
-- [Nobel Price in Medicine awarded to Katalin Karikó and Drew Weissman](https://www.nobelprize.org/prizes/medicine/2023/press-release/)
-- [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://tonsky.me/blog/unicode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
