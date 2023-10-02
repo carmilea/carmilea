@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cat found after Lyft fiasco dragged on for days, Lyft to pay vet bills](https://arstechnica.com/tech-policy/2023/10/tux-the-cat-found-after-lyft-fiasco-dragged-on-for-days-lyft-to-pay-vet-bills/)
+- [ASCII FacePalm](http://www.asciifacepalm.com/)
 - [Polymath Robotics &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
 - [Streaming LLM – No limit on context length for your favourite LLM](https://github.com/mit-han-lab/streaming-llm)
-- [Microsoft Defender Flags Tor Browser as a Trojan and Removes It from the System](https://deform.co/microsoft-defender-flags-tor-browser-as-a-trojan-and-removes-it-from-the-system/)
-- [Stable LM 3B: Bringing Sustainable, High-Performance LMs to Smart Devices](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices)
-- [Stop Arguing over Elite Schools. Just Make Public Colleges Free](https://www.thenation.com/article/society/tuition-free-public-college/)
+- [Show HN: OpenStatus – Open-source monitoring with incident managements](https://www.openstatus.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
