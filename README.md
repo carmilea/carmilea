@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DOE: Pathways to Commercial Liftoff: Virtual Power Plants](https://liftoff.energy.gov/vpp/)
+- [Chess and solution pool with linear programming &lpar;2018&rpar;](http://yetanothermathprogrammingconsultant.blogspot.com/2018/11/chess-and-solution-pool.html)
+- [James Webb Space Telescope&#39;s first spectrum of a TRAPPIST-1 planet](https://phys.org/news/2023-09-james-webb-space-telescope-spectrum.html)
 - [Chromebook Plus](https://blog.google/products/chromebooks/chromebook-plus/)
 - [Break-a-Scene: Extracting Multiple Concepts from a Single Image](https://omriavrahami.com/break-a-scene/)
-- [Major airline faces backlash after using ghost flights to exploit legal loophole](https://news.yahoo.com/major-airline-faces-backlash-using-220000546.html)
-- [Python 3.12](https://www.python.org/downloads/release/python-3120/)
-- [James Webb Telescope makes &#39;JuMBO&#39; discovery of planet-like objects in Orion](https://www.bbc.co.uk/news/science-environment-66974738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
