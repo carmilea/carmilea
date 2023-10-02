@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [jq 1.7](https://github.com/jqlang/jq/releases)
+- [Mastodon for Apple II](https://www.colino.net/wordpress/en/mastodon-for-apple-ii/)
+- [Pg_branch: Pre-alpha Postgres extension brings Neon-like branching](https://github.com/NAlexPear/pg_branch)
+- [New Group Attacking iPhone Encryption Backed by US Political Dark-Money Network](https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/)
 - [Arm’s Cortex A510: Two Kids in a Trench Coat](https://chipsandcheese.com/2023/10/01/arms-cortex-a510-two-kids-in-a-trench-coat/)
-- [VeraCrypt: Free, open source, disk encryption for Windows, Mac OS X, Linux](https://www.veracrypt.fr/en/Home.html)
-- [Bye Sequence, Hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
-- [Nvidia Unveils Updated GH200 Grace Hopper with HBM3e Memory, Shipping in Q2&#39;2024](https://www.anandtech.com/show/20001/nvidia-unveils-gh200-grace-hopper-gpu-with-hbm3e-memory)
-- [Beekeeper Studio SQL editor 4.0 – Import. backup, restore, and bigquery](https://www.beekeeperstudio.io/blog/release-4.0-db-backup-restore-import-export)
 <!-- BLOG-POST-LIST:END -->
 
 ---
