@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Quotes were £5000 or more’: electric vehicle owners face soaring insurance cost](https://www.theguardian.com/money/2023/sep/30/the-quotes-were-5000-or-more-electric-vehicle-owners-face-soaring-insurance-costs)
+- [LinkedIn forcing me to disclose my phone number to log in? No thanks](https://news.ycombinator.com/item?id=37732203)
+- [Intimacy does not scale &lpar;2021&rpar;](https://archive.ph/AUpYp)
+- [Peter Thiel’s Palantir Pushed Toward the Heart of U.K. Health Care](https://www.nytimes.com/2023/09/29/world/europe/uk-nhs-palantir.html)
 - [FBI warns “phantom” hacker scams are emptying financial accounts](https://www.tomsguide.com/news/fbi-issues-warning-over-phantom-hacker-scams-dont-fall-for-this)
-- [Tom Hanks says that’s not him selling dental insurance in Instagram ads](https://www.avclub.com/tom-hanks-ai-dental-plan-instagram-ads-1850890845)
-- [My Dearest Data East: Why? Gate of Doom/Dark Seal](https://nicole.express/2023/im-gonna-open-the-doom-gate-now.html)
-- [How companies like Amazon and JPMorgan spy on their staff](https://www.businessinsider.com/how-companies-spy-on-employees-bossware-jpmorgan-amazon-monitor-rto-2023-10)
-- [Learn and Test DMARC](https://www.learndmarc.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
