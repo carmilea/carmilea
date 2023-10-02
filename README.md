@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cat found after Lyft fiasco dragged on for days, Lyft to pay vet bills](https://arstechnica.com/tech-policy/2023/10/tux-the-cat-found-after-lyft-fiasco-dragged-on-for-days-lyft-to-pay-vet-bills/)
+- [Dalle-3 Examples](https://www.aidemos.info/dalle-3-examples/)
+- [Wilhelm Reich on Pleasure and the Genesis of Anxiety &lpar;2021&rpar;](https://epochemagazine.org/44/wilhelm-reich-on-pleasure-and-the-genesis-of-anxiety/)
+- [Show HN: Anything World – AI for 3D auto-rigging and animation](https://anything.world/)
 - [ASCII FacePalm](http://www.asciifacepalm.com/)
 - [Polymath Robotics &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
-- [Streaming LLM – No limit on context length for your favourite LLM](https://github.com/mit-han-lab/streaming-llm)
-- [Show HN: OpenStatus – Open-source monitoring with incident managements](https://www.openstatus.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
