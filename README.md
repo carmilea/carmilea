@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Polymath Robotics &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
+- [Streaming LLM – No limit on context length for your favourite LLM](https://github.com/mit-han-lab/streaming-llm)
+- [Microsoft Defender Flags Tor Browser as a Trojan and Removes It from the System](https://deform.co/microsoft-defender-flags-tor-browser-as-a-trojan-and-removes-it-from-the-system/)
+- [Stable LM 3B: Bringing Sustainable, High-Performance LMs to Smart Devices](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices)
 - [Stop Arguing over Elite Schools. Just Make Public Colleges Free](https://www.thenation.com/article/society/tuition-free-public-college/)
-- [Americans Saved $1.1T Less Than Previously Thought from 2017-2022](https://www.bloomberg.com/news/articles/2023-09-28/americans-saved-1-1-trillion-less-than-thought-from-2017-2022)
-- [The CDC Awards $260M Contract for Disease Surveillance](https://reclaimthenet.org/the-cdc-awards-260-million-contract-for-disease-surveillance)
-- [Return to Office Is Bullshit and Everyone Knows It](https://soatok.blog/2023/10/02/return-to-office-is-bullshit-and-everyone-knows-it/)
-- [Ask HN: Who is hiring? &lpar;October 2023&rpar;](https://news.ycombinator.com/item?id=37739028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
