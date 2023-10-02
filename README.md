@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Critics Furious Microsoft Is Training AI by Sucking Up Water During Drought](https://futurism.com/critics-microsoft-water-train-ai-drought)
+- [Bye Sequence, Hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
+- [Nvidia Unveils Updated GH200 Grace Hopper with HBM3e Memory, Shipping in Q2&#39;2024](https://www.anandtech.com/show/20001/nvidia-unveils-gh200-grace-hopper-gpu-with-hbm3e-memory)
 - [LinkedIn forcing me to disclose my phone number to log in? No thanks](https://news.ycombinator.com/item?id=37732203)
 - [Intimacy does not scale &lpar;2021&rpar;](https://archive.ph/AUpYp)
-- [FBI warns “phantom” hacker scams are emptying financial accounts](https://www.tomsguide.com/news/fbi-issues-warning-over-phantom-hacker-scams-dont-fall-for-this)
-- [CISA, NSA, FBI Release Advisory Warning of BlackTech, PRC-Linked Cyber Activity](https://www.cisa.gov/news-events/news/cisa-nsa-fbi-and-japan-release-advisory-warning-blacktech-prc-linked-cyber-activity)
+- [Choose Boring Technology](https://boringtechnology.club/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
