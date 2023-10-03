@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What scientists must know about hardware to write fast code](https://viralinstruction.com/posts/hardware/)
+- [Ask HN: LinkedIn mysteriously banned me permanently; where to go next?](https://news.ycombinator.com/item?id=37748263)
+- [What scientists must know about hardware to write fast code &lpar;2020&rpar;](https://viralinstruction.com/posts/hardware/)
 - [Illustrated A64 SIMD Instruction List: SVE Instructions](https://dougallj.github.io/asil/)
-- [Vector database is not a separate database category](https://nextword.substack.com/p/vector-database-is-not-a-separate)
-- [Vagus nerve active during exercise, research finds](https://medicalxpress.com/news/2023-09-vagus-nerve.html)
+- [Every database will become a vector database sooner or later](https://nextword.substack.com/p/vector-database-is-not-a-separate)
 - [Learnable Programming &lpar;2012&rpar;](http://worrydream.com/LearnableProgramming/)
 <!-- BLOG-POST-LIST:END -->
 
