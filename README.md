@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The CEO of Airbnb wants you to charge less for your house](https://www.businessinsider.com/airbnb-ceo-hosts-lower-prices-competitive-hotels-brian-chesky-2023-10)
+- [What scientists must know about hardware to write fast code](https://viralinstruction.com/posts/hardware/)
+- [Illustrated A64 SIMD Instruction List: SVE Instructions](https://dougallj.github.io/asil/)
 - [Vector database is not a separate database category](https://nextword.substack.com/p/vector-database-is-not-a-separate)
-- [Redfin Is Leaving the National Association of Realtors](https://www.redfin.com/news/redfin-is-leaving-nar/)
-- [PicoCalc: A Fully-Functional Clone of VisiCalc](https://www.lexaloffle.com/bbs/?tid=41739)
-- [MotionLM: Multi-Agent Motion Forecasting as Language Modeling](https://arxiv.org/abs/2309.16534)
+- [Vagus nerve active during exercise, research finds](https://medicalxpress.com/news/2023-09-vagus-nerve.html)
+- [Learnable Programming &lpar;2012&rpar;](http://worrydream.com/LearnableProgramming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
