@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GCVR &lpar;YC W22, Top Rated on Quest&rpar; Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
+- [Woman found trapped under a driverless car. It wasn&#39;t the first car to hit her](https://www.cnn.com/2023/10/03/tech/driverless-car-pedestrian-injury/index.html)
+- [Poppler is a PDF rendering library based on the xpdf-3.0 code base](https://poppler.freedesktop.org/)
+- [Update: Lumber Prices Down 11% YoY](https://www.calculatedriskblog.com/2023/10/update-lumber-prices-down-11-yoy.html)
 - [Show HN: Bookmark in Public – Curate and Share Collections of Links Easily](https://linkcollect.io)
-- [Google removes Reviews widget when you add the word &#39;sucks&#39; to a company search](https://news.ycombinator.com/item?id=37756634)
-- [Gun-related deaths and suicides among American children soar to all-time high](https://www.dailymail.co.uk/news/article-12585743/Gun-deaths-suicides-children-time-high.html)
-- [‘Preapproved Narratives’ Corrupt Science](https://www.wsj.com/articles/how-preapproved-narratives-corrupt-science-false-studies-covid-climate-change-5bee0844)
-- [Glibc Dynamic Loader Hit by a Nasty Local Privilege Escalation Vulnerability](https://www.phoronix.com/news/Glibc-LD-Nasty-Root-Bug)
 <!-- BLOG-POST-LIST:END -->
 
 ---
