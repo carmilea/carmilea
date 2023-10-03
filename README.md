@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple will no longer fix the $17,000 gold Apple Watch](https://www.theverge.com/2023/10/2/23900158/apple-watch-edition-gold-2015-obsolete-unsupported-beyonce)
-- [First Blood Test for Dozens of Hereditary Cancers Approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
-- [A Call for Developers – Jellyfin](https://jellyfin.org/posts/a-call-for-developers/)
+- [Days of Awe: The clinical trial drug that might save my husband&#39;s life](https://bessstillman.substack.com/p/days-of-awe-the-clinical-trial-drug)
+- [First blood test for dozens of hereditary cancers approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
+- [Microsoft CEO testifies that Google’s power in search is ubiquitous](https://www.nytimes.com/2023/10/02/technology/microsoft-ceo-testifies-google-search.html)
 - [Dead grandma locket request tricks Bing Chat’s AI into solving security puzzle](https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/)
-- [Oxford &#39;explosion&#39; after lightning strike seen from A34](https://www.oxfordmail.co.uk/news/23829165.oxford-explosion-lightning-strike-seen-a34/)
+- [Local-first software: You own your data, in spite of the cloud &lpar;2019&rpar;](https://www.inkandswitch.com/local-first/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
