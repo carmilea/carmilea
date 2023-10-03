@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Binance Orderbooks Consumer in C++](https://github.com/xreptoid/viperfish)
+- [Nobel Prize in Physics Awarded to Agostini, Krausz, and L’Huillier](https://www.nobelprize.org/prizes/physics/2023/summary/)
+- [What companies offer noteworthy discounts or startup programs for bootstrappers?](https://news.ycombinator.com/item?id=37749619)
+- [Wegovy, other weight-loss drugs scrutinized over reports of suicidal thoughts](https://www.reuters.com/business/healthcare-pharmaceuticals/wegovy-other-weight-loss-drugs-scrutinized-over-reports-suicidal-thoughts-2023-09-28/)
 - [UltraRAM](https://www.tomshardware.com/news/ultraram-demos-prototype-chip-secures-funding-to-validate-commercial-potential)
-- [Crafting Self-Evident Code with D](https://dlang.org/blog/2023/10/02/crafting-self-evident-code-with-d/)
-- [Texas man sent to death row over junk science denied US Supreme Court appeal](https://www.theguardian.com/us-news/2023/oct/02/texas-robert-roberson-death-penalty-supreme-court-appeal-denied)
-- [Windows NT 3.1 on Dec Alpha AXP](https://virtuallyfun.com/2023/10/02/windows-nt-3-1-on-dec-alpha-axp/)
-- [What scientists must know about hardware to write fast code &lpar;2020&rpar;](https://viralinstruction.com/posts/hardware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
