@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inflated rents, high interest and lack of supply create European housing crisis](https://www.france24.com/en/europe/20231003-inflated-rents-high-interest-rates-and-lack-of-supply-create-european-housing-crisis)
-- [How police use location/search data to find suspects - not always the right ones](https://www.theguardian.com/technology/2023/oct/03/techscape-geofence-warrants)
-- [The Key to Rocketing Your Japanese Understanding](https://japanesecomplete.com/articles/?p=1577)
-- [Amazon Used Secret ‘Project Nessie’ Algorithm to Raise Prices](https://www.wsj.com/business/retail/amazon-used-secret-project-nessie-algorithm-to-raise-prices-6c593706)
-- [Ask HN: Where are you looking for remote jobs?](https://news.ycombinator.com/item?id=37755620)
+- [Show HN: Bookmark in Public – Curate and Share Collections of Links Easily](https://linkcollect.io)
+- [Google removes Reviews widget when you add the word &#39;sucks&#39; to a company search](https://news.ycombinator.com/item?id=37756634)
+- [Gun-related deaths and suicides among American children soar to all-time high](https://www.dailymail.co.uk/news/article-12585743/Gun-deaths-suicides-children-time-high.html)
+- [‘Preapproved Narratives’ Corrupt Science](https://www.wsj.com/articles/how-preapproved-narratives-corrupt-science-false-studies-covid-climate-change-5bee0844)
+- [Glibc Dynamic Loader Hit by a Nasty Local Privilege Escalation Vulnerability](https://www.phoronix.com/news/Glibc-LD-Nasty-Root-Bug)
 <!-- BLOG-POST-LIST:END -->
 
 ---
