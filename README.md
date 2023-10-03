@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Redfin Is Leaving the National Association of Realtors](https://www.redfin.com/news/redfin-is-leaving-nar/)
+- [MotionLM: Multi-Agent Motion Forecasting as Language Modeling](https://arxiv.org/abs/2309.16534)
 - [Days of Awe: The clinical trial drug that might save my husband&#39;s life](https://bessstillman.substack.com/p/days-of-awe-the-clinical-trial-drug)
 - [First blood test for dozens of hereditary cancers approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
 - [Microsoft CEO testifies that Google’s power in search is ubiquitous](https://www.nytimes.com/2023/10/02/technology/microsoft-ceo-testifies-google-search.html)
-- [Dead grandma locket request tricks Bing Chat’s AI into solving security puzzle](https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/)
-- [Local-first software: You own your data, in spite of the cloud &lpar;2019&rpar;](https://www.inkandswitch.com/local-first/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
