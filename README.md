@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ad-free Facebook, Instagram access planned for $14 per month in Europe](https://arstechnica.com/tech-policy/2023/10/ad-free-facebook-instagram-access-planned-for-14-per-month-in-europe/)
 - [Daktilo: Turn Your Keyboard into a Typewriter](https://github.com/orhun/daktilo)
-- [The Internet Is at Risk of Driving Women Away](https://www.wired.co.uk/article/women-internet-harassment)
-- [UK prime minister launches plan “to stop councils implementing” 15-minute cities](https://www.dezeen.com/2023/10/02/uk-plan-stop-councils-implementing-15-minute-cities/)
 - [Detroit man steals 800 gallons using Bluetooth to hack gas pumps at station](https://www.fox2detroit.com/news/detroit-man-steals-800-gallons-using-bluetooth-to-hack-gas-pumps-at-station)
+- [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 - [HMD Global Starts Manufacturing in Europe with the ‘Made in Hungary’ Nokia XR21](https://techcrunch.com/2023/10/03/nokia-hmd-global-europe-smartphone/)
 <!-- BLOG-POST-LIST:END -->
 
