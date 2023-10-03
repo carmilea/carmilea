@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The successful campaign to convince people the USA and not the USSR beat Hitler](https://www.vox.com/2014/6/16/5814270/the-successful-70-year-campaign-to-convince-people-the-usa-and-not)
 - [Redfin Is Leaving the National Association of Realtors](https://www.redfin.com/news/redfin-is-leaving-nar/)
+- [PicoCalc: A Fully-Functional Clone of VisiCalc](https://www.lexaloffle.com/bbs/?tid=41739)
 - [MotionLM: Multi-Agent Motion Forecasting as Language Modeling](https://arxiv.org/abs/2309.16534)
 - [Days of Awe: The clinical trial drug that might save my husband&#39;s life](https://bessstillman.substack.com/p/days-of-awe-the-clinical-trial-drug)
-- [First blood test for dozens of hereditary cancers approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
-- [Microsoft CEO testifies that Google’s power in search is ubiquitous](https://www.nytimes.com/2023/10/02/technology/microsoft-ceo-testifies-google-search.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
