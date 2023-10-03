@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ivy &lpar;YC W23&rpar; Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 - [Arc browser built-in AI features [video]](https://www.youtube.com/watch?v=y7koAGLf0EE)
 - [Google open-sources their graph mining library](https://github.com/google/graph-mining)
 - [I applied to 250 jobs and timed how long each one took](https://www.careerfair.io/online-maze)
 - [Predictive Policing Software Is Pretty Terrible at Predicting Crimes](https://gizmodo.com/predictive-policing-cops-law-enforcement-predpol-1850893951)
-- [Review: Framework Laptop finally gets an AMD Ryzen config–and it’s pretty good](https://arstechnica.com/gadgets/2023/10/review-framework-laptop-finally-gets-an-amd-ryzen-config-and-its-pretty-good/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
