@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WeWork Skips $95M in Interest Payments](https://www.nytimes.com/2023/10/02/business/wework-misses-interest-payments.html)
+- [US finally moves to cut $2,350 fee for renouncing citizenship](https://www.thelocal.de/20231002/americans-in-europe-us-finally-moves-to-cut-e2350-fee-for-renouncing-citizenship)
+- [As EV sales surge and cars get heavier, parking garages will have to change](https://www.cnbc.com/2023/10/03/as-ev-sales-surge-and-cars-get-heavier-parking-garages-have-to-change.html)
 - [Show HN: Binance Orderbooks Consumer in C++](https://github.com/xreptoid/viperfish)
-- [Nobel Prize in Physics Awarded to Agostini, Krausz, and L’Huillier](https://www.nobelprize.org/prizes/physics/2023/summary/)
-- [What companies offer noteworthy discounts or startup programs for bootstrappers?](https://news.ycombinator.com/item?id=37749619)
-- [Wegovy, other weight-loss drugs scrutinized over reports of suicidal thoughts](https://www.reuters.com/business/healthcare-pharmaceuticals/wegovy-other-weight-loss-drugs-scrutinized-over-reports-suicidal-thoughts-2023-09-28/)
-- [UltraRAM](https://www.tomshardware.com/news/ultraram-demos-prototype-chip-secures-funding-to-validate-commercial-potential)
+- [Amino – The Public IPFS DHT Is Getting a Facelift](https://blog.ipfs.tech/2023-09-amino-refactoring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
