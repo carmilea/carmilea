@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Meta&#39;s Mandatory Return to Office Is &#39;A Mess&#39;](https://www.businessinsider.com/meta-rto-mess-return-to-office-remote-work-2023-9)
-- [Satya Nadella Says Copilot Will Be as Significant as the PC](https://jdmeier.com/satya-nadella-on-copilot/)
+- [Texas man sent to death row over junk science denied US Supreme Court appeal](https://www.theguardian.com/us-news/2023/oct/02/texas-robert-roberson-death-penalty-supreme-court-appeal-denied)
+- [Windows NT 3.1 on Dec Alpha AXP](https://virtuallyfun.com/2023/10/02/windows-nt-3-1-on-dec-alpha-axp/)
 - [What scientists must know about hardware to write fast code &lpar;2020&rpar;](https://viralinstruction.com/posts/hardware/)
 - [Illustrated A64 SIMD Instruction List: SVE Instructions](https://dougallj.github.io/asil/)
-- [Every database will become a vector database sooner or later](https://nextword.substack.com/p/vector-database-is-not-a-separate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
