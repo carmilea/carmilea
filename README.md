@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: LinkedIn mysteriously banned me permanently; where to go next?](https://news.ycombinator.com/item?id=37748263)
+- [Meta&#39;s Mandatory Return to Office Is &#39;A Mess&#39;](https://www.businessinsider.com/meta-rto-mess-return-to-office-remote-work-2023-9)
+- [Satya Nadella Says Copilot Will Be as Significant as the PC](https://jdmeier.com/satya-nadella-on-copilot/)
 - [What scientists must know about hardware to write fast code &lpar;2020&rpar;](https://viralinstruction.com/posts/hardware/)
 - [Illustrated A64 SIMD Instruction List: SVE Instructions](https://dougallj.github.io/asil/)
 - [Every database will become a vector database sooner or later](https://nextword.substack.com/p/vector-database-is-not-a-separate)
-- [Learnable Programming &lpar;2012&rpar;](http://worrydream.com/LearnableProgramming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
