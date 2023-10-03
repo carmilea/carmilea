@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A better visual builder for complex business logic](https://www.superblocks.com/blog/introducing-control-blocks-build-any-backend-business-logic-visually)
-- [Ivy &lpar;YC W23&rpar; Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [Honey, I shrunk the NPM package · Jamie Magee](https://jamiemagee.co.uk/blog/honey-i-shrunk-the-npm-package/)
-- [Meta wants to charge EU users $14/month if they don&#39;t agree to personalized ads](https://www.businessinsider.com/meta-charges-eu-users-for-ad-free-instagram-and-facebook-2023-10)
-- [Ask HN: Best books to understand semiconductor business?](https://news.ycombinator.com/item?id=37754287)
+- [Inflated rents, high interest and lack of supply create European housing crisis](https://www.france24.com/en/europe/20231003-inflated-rents-high-interest-rates-and-lack-of-supply-create-european-housing-crisis)
+- [How police use location/search data to find suspects - not always the right ones](https://www.theguardian.com/technology/2023/oct/03/techscape-geofence-warrants)
+- [The Key to Rocketing Your Japanese Understanding](https://japanesecomplete.com/articles/?p=1577)
+- [Amazon Used Secret ‘Project Nessie’ Algorithm to Raise Prices](https://www.wsj.com/business/retail/amazon-used-secret-project-nessie-algorithm-to-raise-prices-6c593706)
+- [Ask HN: Where are you looking for remote jobs?](https://news.ycombinator.com/item?id=37755620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
