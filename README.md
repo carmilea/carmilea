@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The successful campaign to convince people the USA and not the USSR beat Hitler](https://www.vox.com/2014/6/16/5814270/the-successful-70-year-campaign-to-convince-people-the-usa-and-not)
+- [The CEO of Airbnb wants you to charge less for your house](https://www.businessinsider.com/airbnb-ceo-hosts-lower-prices-competitive-hotels-brian-chesky-2023-10)
+- [Vector database is not a separate database category](https://nextword.substack.com/p/vector-database-is-not-a-separate)
 - [Redfin Is Leaving the National Association of Realtors](https://www.redfin.com/news/redfin-is-leaving-nar/)
 - [PicoCalc: A Fully-Functional Clone of VisiCalc](https://www.lexaloffle.com/bbs/?tid=41739)
 - [MotionLM: Multi-Agent Motion Forecasting as Language Modeling](https://arxiv.org/abs/2309.16534)
-- [Days of Awe: The clinical trial drug that might save my husband&#39;s life](https://bessstillman.substack.com/p/days-of-awe-the-clinical-trial-drug)
 <!-- BLOG-POST-LIST:END -->
 
 ---
