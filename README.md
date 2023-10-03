@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A better visual builder for complex business logic](https://www.superblocks.com/blog/introducing-control-blocks-build-any-backend-business-logic-visually)
 - [Ivy &lpar;YC W23&rpar; Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [Arc browser built-in AI features [video]](https://www.youtube.com/watch?v=y7koAGLf0EE)
-- [Google open-sources their graph mining library](https://github.com/google/graph-mining)
-- [I applied to 250 jobs and timed how long each one took](https://www.careerfair.io/online-maze)
-- [Predictive Policing Software Is Pretty Terrible at Predicting Crimes](https://gizmodo.com/predictive-policing-cops-law-enforcement-predpol-1850893951)
+- [Honey, I shrunk the NPM package · Jamie Magee](https://jamiemagee.co.uk/blog/honey-i-shrunk-the-npm-package/)
+- [Meta wants to charge EU users $14/month if they don&#39;t agree to personalized ads](https://www.businessinsider.com/meta-charges-eu-users-for-ad-free-instagram-and-facebook-2023-10)
+- [Ask HN: Best books to understand semiconductor business?](https://news.ycombinator.com/item?id=37754287)
 <!-- BLOG-POST-LIST:END -->
 
 ---
