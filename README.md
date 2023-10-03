@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Has MeetUp.org been replaced by anything?](https://news.ycombinator.com/item?id=37757952)
+- [Ask HN: Has meetup.org been replaced by anything?](https://news.ycombinator.com/item?id=37757952)
 - [Show HN: Generate JSON mock data for testing/initial app development](https://www.jsongenerator.io/)
 - [Michael F. Flynn has died](http://tofspot.blogspot.com/2023/10/wonder-and-anticipation-likes-of-which.html)
-- [GCVR &lpar;YC W22, Top Rated on Quest&rpar; Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
-- [U2 at Sphere is the nightmare future of music](https://mattruby.substack.com/p/u2-at-sphere-is-the-nightmare-future)
+- [Gym Class VR &lpar;YC W22&rpar; is Hiring a Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
+- [Poppler is a PDF rendering library based on the xpdf-3.0 code base](https://poppler.freedesktop.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
