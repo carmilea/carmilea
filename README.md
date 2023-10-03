@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Daktilo: Turn Your Keyboard into a Typewriter](https://github.com/orhun/daktilo)
+- [The Internet Is at Risk of Driving Women Away](https://www.wired.co.uk/article/women-internet-harassment)
+- [UK prime minister launches plan “to stop councils implementing” 15-minute cities](https://www.dezeen.com/2023/10/02/uk-plan-stop-councils-implementing-15-minute-cities/)
+- [Detroit man steals 800 gallons using Bluetooth to hack gas pumps at station](https://www.fox2detroit.com/news/detroit-man-steals-800-gallons-using-bluetooth-to-hack-gas-pumps-at-station)
 - [HMD Global Starts Manufacturing in Europe with the ‘Made in Hungary’ Nokia XR21](https://techcrunch.com/2023/10/03/nokia-hmd-global-europe-smartphone/)
-- [WeWork Skips $95M in Interest Payments](https://www.nytimes.com/2023/10/02/business/wework-misses-interest-payments.html)
-- [Show HN: Binance Orderbooks Consumer in C++](https://github.com/xreptoid/viperfish)
-- [Amino – The Public IPFS DHT Is Getting a Facelift](https://blog.ipfs.tech/2023-09-amino-refactoring/)
-- [Nobel Prize in Physics Awarded to Agostini, Krausz, and L’Huillier](https://www.nobelprize.org/prizes/physics/2023/summary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
