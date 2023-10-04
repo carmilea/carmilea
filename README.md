@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gunung Padang](https://en.wikipedia.org/wiki/Gunung_Padang)
+- [They say I make $45K/month just by pure luck and just by posting my MRR on X](https://twitter.com/tdinh_me/status/1709116250520265164)
 - [Google User Data Is Police&#39;s Top Shortcut for Solving Crimes](https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes)
 - [Ben Fry Resigns from the Processing Foundation](https://twitter.com/ben_fry/status/1709400641456501020)
 - [Does “and” Mean “and”? Or “Or”? The Supreme Court Will Decide](https://www.motherjones.com/crime-justice/2023/10/supreme-court-pulsifer-criminal-justice-drug-definitions/)
-- [RT-X: the largest open-source robot dataset](https://robotics-transformer-x.github.io/)
-- [Pretty good career and life advice](https://moxie.org/2013/01/07/career-advice.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
