@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pixel 8 to have seven years of Android updates](https://www.theverge.com/2023/10/4/23899900/google-pixel-8-pro-android-updates-7-years-security-features)
+- [Nintendo’s Wii U and 3DS online services will shut down in April](https://www.theverge.com/2023/10/4/23902615/wii-u-nintendo-3ds-online-shut-down)
 - [OpenSSH 9.5 released with keystroke timing obfuscation](https://lwn.net/Articles/946497/)
 - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
-- [Think Before You Speak: Training Language Models with Pause Tokens](https://arxiv.org/abs/2310.02226)
-- [Strong typing, a hill I&#39;m willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
-- [FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4](https://www.fema.gov/press-release/20231003/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-test-messages-will)
+- [Choosing vector database: a side-by-side comparison](https://benchmark.vectorview.ai/vectordbs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
