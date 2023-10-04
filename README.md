@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Pedestrian Was Hit; Cruise Car Subsequently Runs Her Over and Stops on Her](https://sfist.com/2023/10/03/driver-strikes-pedestrian-near-fifth-and-market-cruise-car-subsequently-runs-her-over-and-stops-on-top-of-her/)
+- [BBC Gives Up on Threads &lpar;By Instagram&rpar;, Sticks with Mastodon](https://darnell.day/bbc-gives-up-on-threads-by-instagram-sticks-with-mastodon)
+- [Ask HN: What software did you purchase that positively impacted your family life](https://news.ycombinator.com/item?id=37759759)
+- [D.C.&#39;s ban on cashless businesses takes effect](https://www.axios.com/local/washington-dc/2023/09/29/cashless-business-ban)
 - [Daisugi, the Japanese technique of growing trees out of other trees &lpar;2020&rpar;](https://www.openculture.com/2020/10/daisugi.html)
-- [OpenCore Legacy Patcher project brings macOS Sonoma support to 16-year-old Macs](https://arstechnica.com/gadgets/2023/10/opencore-legacy-patcher-project-brings-macos-sonoma-support-to-16-year-old-macs/)
-- [Press Reviews of the AMD Ryzen 7040 Framework Laptop 13](https://frame.work/blog/reviews-of-framework-laptop-13-amd-ryzen-7040-series-are-live)
-- [Passive Solar Water Desalination](https://theness.com/neurologicablog/index.php/passive-solar-water-desalination/)
-- [Semantic Versioning 2.0 &lpar;2013&rpar;](https://semver.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
