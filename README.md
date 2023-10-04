@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Enabling IPv6 support for IPv4-only apps on Linux](https://blog.apnic.net/2023/06/21/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
 - [Extracting Hacker News Book Recommendations with the ChatGPT API](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api/)
-- [Social media traffic to top news sites craters](https://www.axios.com/2023/10/03/social-media-traffic-news-sites-decrease)
 - [Google User Data Is Police&#39;s Top Shortcut for Solving Crimes](https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes)
 - [Ben Fry Resigns from the Processing Foundation](https://twitter.com/ben_fry/status/1709400641456501020)
 - [Does “and” Mean “and”? Or “Or”? The Supreme Court Will Decide](https://www.motherjones.com/crime-justice/2023/10/supreme-court-pulsifer-criminal-justice-drug-definitions/)
