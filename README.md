@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [3D Printer Uses Magnets to Break Speed Limits, Print at a Table-Shaking 800 Mm/S](https://www.tomshardware.com/news/3d-printer-uses-magnets-to-break-speed-limits-print-at-a-table-shaking-800-mms)
+- [OpenSSH 9.5 released with keystroke timing obfuscation](https://lwn.net/Articles/946497/)
+- [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+- [Think Before You Speak: Training Language Models with Pause Tokens](https://arxiv.org/abs/2310.02226)
 - [Strong typing, a hill I&#39;m willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
 - [FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4](https://www.fema.gov/press-release/20231003/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-test-messages-will)
-- [Emerge &lpar;YC W21&rpar; is hiring a Senior Android Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-android-engineer)
-- [Show HN: Shuttle – Build and ship backends without writing infrastructure files](https://github.com/shuttle-hq/shuttle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
