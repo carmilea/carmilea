@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Classic Video Poker &lpar;Godot is awesome!&rpar;](https://lfgslots.com/classicvideopoker/)
-- [What Ghosting Says About Society &lpar;and Why It Hurts So Much&rpar;](https://www.truthdig.com/articles/what-ghosting-says-about-society-and-why-it-hurts-so-much/)
-- [Kata Containers: The speed of containers, the security of VMs](https://github.com/kata-containers/)
-- [The time Terry Pratchett’s German publisher inserted a soup ad into his novel &lpar;2011&rpar;](https://lithub.com/the-time-terry-pratchetts-german-publisher-inserted-a-soup-ad-into-his-novel/)
-- [Enabling IPv6 support for IPv4-only apps on Linux](https://blog.apnic.net/2023/06/21/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
+- [Emerge &lpar;YC W21&rpar; is hiring a Senior Android Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+- [Show HN: Shuttle – Build Back Ends Fast](https://github.com/shuttle-hq/shuttle)
+- [Richard Stallman Talks Red Hat, AI and Ethical Software Licenses at GNU Birthday](https://fossforce.com/2023/10/richard-stallman-talks-red-hat-ai-and-ethical-software-licenses-at-gnu-birthday-event/)
+- [The FTC Sues to Break Up Amazon over an Economy-Wide “Hidden Tax”](https://www.thebignewsletter.com/p/the-ftc-sues-to-break-up-amazon-over)
+- [Cloudflare 1.1.1.1 DNS resolving issues](https://www.cloudflarestatus.com/incidents/j3h00yhjyw6p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
