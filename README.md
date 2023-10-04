@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+- [The climate model approximation that could fundamentally change climate movement](https://climatewaterproject.substack.com/p/carbon-warming-water-cooling)
+- [Replit moving away from free hosting](https://blog.replit.com/hosting-changes)
 - [The Diorama Engine](https://dioragame.com/devlog/?log=3)
-- [Directional dominance on stature and cognition in human populations &lpar;2015&rpar;](https://www.nature.com/articles/nature14618)
-- [Ural Airlines Is Preparing to Fly an Airbus A320 Out of a Field](https://simpleflying.com/ural-airlines-prepares-fly-airbus-a320-from-field/)
-- [1.1.1.1 lookup failures on October 4th, 2023](https://blog.cloudflare.com/1-1-1-1-lookup-failures-on-october-4th-2023/)
+- [Effects of tea, catechins, and derivatives on Omicron COVID variatns](https://www.nature.com/articles/s41598-023-43563-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
