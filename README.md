@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Classic Video Poker &lpar;Godot is awesome!&rpar;](https://lfgslots.com/classicvideopoker/)
+- [What Ghosting Says About Society &lpar;and Why It Hurts So Much&rpar;](https://www.truthdig.com/articles/what-ghosting-says-about-society-and-why-it-hurts-so-much/)
 - [Kata Containers: The speed of containers, the security of VMs](https://github.com/kata-containers/)
 - [The time Terry Pratchett’s German publisher inserted a soup ad into his novel &lpar;2011&rpar;](https://lithub.com/the-time-terry-pratchetts-german-publisher-inserted-a-soup-ad-into-his-novel/)
 - [Enabling IPv6 support for IPv4-only apps on Linux](https://blog.apnic.net/2023/06/21/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
-- [Extracting Hacker News Book Recommendations with the ChatGPT API](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api/)
-- [Google User Data Is Police&#39;s Top Shortcut for Solving Crimes](https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
