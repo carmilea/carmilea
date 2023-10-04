@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Figma added OpenAI to a list of subprocessor companies](https://www.figma.com/sub-processors/)
+- [How the Baltic states became the hub of crypto money laundering and fraud](https://vsquare.org/tales-from-the-crypto-money-laundering-fraud-sanctions-estonia-lithuania-russia/)
 - [Stellar Sleep &lpar;YC S23&rpar; Is Hiring a Senior SWE in San Francisco](https://www.ycombinator.com/companies/stellar-sleep/jobs/Ubd4rCS-senior-software-engineer-flutter-django)
 - [Meta starts rolling out generative AI tools for all advertisers](https://www.reuters.com/technology/meta-starts-rolling-out-generative-ai-tools-all-advertisers-2023-10-04/)
 - [Intel to Set Its FPGA Unit Free to Pursue Its Own Path – The Next Platform](https://www.nextplatform.com/2023/10/04/intel-to-set-its-fpga-unit-free-to-pursue-its-own-path/)
-- [Airbnb tenant refuses to leave for more than a year](https://www.latimes.com/california/story/2023-10-04/airbnb-guest-refuse-pay-leave-luxury-rental)
-- [Sequoia Captials Puff piece on SBF just before FTX&#39;s collapse](https://web.archive.org/web/20221027181005/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
