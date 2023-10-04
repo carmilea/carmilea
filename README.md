@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma added OpenAI to a list of subprocessor companies](https://www.figma.com/sub-processors/)
-- [How the Baltic states became the hub of crypto money laundering and fraud](https://vsquare.org/tales-from-the-crypto-money-laundering-fraud-sanctions-estonia-lithuania-russia/)
-- [Stellar Sleep &lpar;YC S23&rpar; Is Hiring a Senior SWE in San Francisco](https://www.ycombinator.com/companies/stellar-sleep/jobs/Ubd4rCS-senior-software-engineer-flutter-django)
-- [Meta starts rolling out generative AI tools for all advertisers](https://www.reuters.com/technology/meta-starts-rolling-out-generative-ai-tools-all-advertisers-2023-10-04/)
-- [Intel to Set Its FPGA Unit Free to Pursue Its Own Path – The Next Platform](https://www.nextplatform.com/2023/10/04/intel-to-set-its-fpga-unit-free-to-pursue-its-own-path/)
+- [Show HN: Algora – Open source coding bounties](https://console.algora.io/hacktoberfest)
+- [MiniOS – a lightweight Linux distribution designed for USB drive](https://minios.dev)
+- [Eliminating Radio Interference from Apple Charger](https://oh8hub.substack.com/p/eliminating-radio-interference-from)
+- [Facebook’s new AI stickers can generate Mickey Mouse holding a machine gun](https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/)
+- [OpenSSH 9.5](https://www.openssh.com/txt/release-9.5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
