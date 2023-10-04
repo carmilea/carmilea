@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Bad Is Your Resume? – Get Your Resume Roasted by AI](https://roastmyresu.me/)
-- [Many scientists don’t want to tell the truth about climate change. Here’s why](https://www.wbur.org/cognoscenti/2023/10/03/1-5-degrees-celcius-un-climate-change-report-barbara-moran)
-- [Expressive Text-to-Image Generation with Rich Text](https://rich-text-to-image.github.io/)
-- [Show HN: Rust nom parsing Starcraft2 Replays into Arrow for Polars data analysis](https://github.com/sebosp/s2protocol-rs)
-- [Vespa.ai is spinning out of Yahoo as a separate company](https://blog.vespa.ai/vespa-is-becoming-its-own-company/)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+- [The Diorama Engine](https://dioragame.com/devlog/?log=3)
+- [Directional dominance on stature and cognition in human populations &lpar;2015&rpar;](https://www.nature.com/articles/nature14618)
+- [Ural Airlines Is Preparing to Fly an Airbus A320 Out of a Field](https://simpleflying.com/ural-airlines-prepares-fly-airbus-a320-from-field/)
+- [1.1.1.1 lookup failures on October 4th, 2023](https://blog.cloudflare.com/1-1-1-1-lookup-failures-on-october-4th-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
