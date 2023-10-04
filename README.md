@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Algora – Open source coding bounties](https://console.algora.io/hacktoberfest)
-- [MiniOS – a lightweight Linux distribution designed for USB drive](https://minios.dev)
-- [Eliminating Radio Interference from Apple Charger](https://oh8hub.substack.com/p/eliminating-radio-interference-from)
-- [Facebook’s new AI stickers can generate Mickey Mouse holding a machine gun](https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/)
-- [OpenSSH 9.5](https://www.openssh.com/txt/release-9.5)
+- [How Bad Is Your Resume? – Get Your Resume Roasted by AI](https://roastmyresu.me/)
+- [Many scientists don’t want to tell the truth about climate change. Here’s why](https://www.wbur.org/cognoscenti/2023/10/03/1-5-degrees-celcius-un-climate-change-report-barbara-moran)
+- [Expressive Text-to-Image Generation with Rich Text](https://rich-text-to-image.github.io/)
+- [Show HN: Rust nom parsing Starcraft2 Replays into Arrow for Polars data analysis](https://github.com/sebosp/s2protocol-rs)
+- [Vespa.ai is spinning out of Yahoo as a separate company](https://blog.vespa.ai/vespa-is-becoming-its-own-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
