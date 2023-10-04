@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google User Data Is Police&#39;s Top Shortcut for Solving Crimes](https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes)
 - [Ben Fry Resigns from the Processing Foundation](https://twitter.com/ben_fry/status/1709400641456501020)
+- [Does “and” Mean “and”? Or “Or”? The Supreme Court Will Decide](https://www.motherjones.com/crime-justice/2023/10/supreme-court-pulsifer-criminal-justice-drug-definitions/)
+- [RT-X: the largest open-source robot dataset](https://robotics-transformer-x.github.io/)
 - [Pretty good career and life advice](https://moxie.org/2013/01/07/career-advice.html)
-- [BBC gives up on Threads, sticks with Mastodon](https://darnell.day/bbc-gives-up-on-threads-by-instagram-sticks-with-mastodon)
-- [D.C.&#39;s ban on cashless businesses takes effect](https://www.axios.com/local/washington-dc/2023/09/29/cashless-business-ban)
-- [Daisugi, the Japanese technique of growing trees out of other trees &lpar;2020&rpar;](https://www.openculture.com/2020/10/daisugi.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
