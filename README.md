@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Pedestrian Was Hit; Cruise Car Subsequently Runs Her Over and Stops on Her](https://sfist.com/2023/10/03/driver-strikes-pedestrian-near-fifth-and-market-cruise-car-subsequently-runs-her-over-and-stops-on-top-of-her/)
-- [BBC Gives Up on Threads &lpar;By Instagram&rpar;, Sticks with Mastodon](https://darnell.day/bbc-gives-up-on-threads-by-instagram-sticks-with-mastodon)
-- [Ask HN: What software did you purchase that positively impacted your family life](https://news.ycombinator.com/item?id=37759759)
+- [Ben Fry Resigns from the Processing Foundation](https://twitter.com/ben_fry/status/1709400641456501020)
+- [Pretty good career and life advice](https://moxie.org/2013/01/07/career-advice.html)
+- [BBC gives up on Threads, sticks with Mastodon](https://darnell.day/bbc-gives-up-on-threads-by-instagram-sticks-with-mastodon)
 - [D.C.&#39;s ban on cashless businesses takes effect](https://www.axios.com/local/washington-dc/2023/09/29/cashless-business-ban)
 - [Daisugi, the Japanese technique of growing trees out of other trees &lpar;2020&rpar;](https://www.openculture.com/2020/10/daisugi.html)
 <!-- BLOG-POST-LIST:END -->
