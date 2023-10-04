@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Detectors: I Hate Being a Student in the Modern Age](https://twitter.com/rustykitty_/status/1709316764868153537)
+- [Pure Remote Jobs from “HN: Who Is Hiring”](https://docs.google.com/spreadsheets/d/162eraapxB6GYl1kjrv-0ZJsn-19ehFIARaM2_37PCls/edit#gid=0)
+- [How US Intelligence Agencies Hid Their Most Shameful Experiments](https://lithub.com/how-us-intelligence-agencies-hid-their-most-shameful-experiments/)
+- [Rust is not the language for you if you don&#39;t like traits](https://github.com/marshallpierce/rust-base64/issues/213)
 - [Pixel 8 to have seven years of Android updates](https://www.theverge.com/2023/10/4/23899900/google-pixel-8-pro-android-updates-7-years-security-features)
-- [Nintendo’s Wii U and 3DS online services will shut down in April](https://www.theverge.com/2023/10/4/23902615/wii-u-nintendo-3ds-online-shut-down)
-- [OpenSSH 9.5 released with keystroke timing obfuscation](https://lwn.net/Articles/946497/)
-- [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
-- [Choosing vector database: a side-by-side comparison](https://benchmark.vectorview.ai/vectordbs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
