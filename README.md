@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Has meetup.org been replaced by anything?](https://news.ycombinator.com/item?id=37757952)
-- [Show HN: Generate JSON mock data for testing/initial app development](https://www.jsongenerator.io/)
-- [Michael F. Flynn has died](http://tofspot.blogspot.com/2023/10/wonder-and-anticipation-likes-of-which.html)
-- [Gym Class VR &lpar;YC W22&rpar; is Hiring a Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
-- [Poppler is a PDF rendering library based on the xpdf-3.0 code base](https://poppler.freedesktop.org/)
+- [Daisugi, the Japanese technique of growing trees out of other trees &lpar;2020&rpar;](https://www.openculture.com/2020/10/daisugi.html)
+- [OpenCore Legacy Patcher project brings macOS Sonoma support to 16-year-old Macs](https://arstechnica.com/gadgets/2023/10/opencore-legacy-patcher-project-brings-macos-sonoma-support-to-16-year-old-macs/)
+- [Press Reviews of the AMD Ryzen 7040 Framework Laptop 13](https://frame.work/blog/reviews-of-framework-laptop-13-amd-ryzen-7040-series-are-live)
+- [Passive Solar Water Desalination](https://theness.com/neurologicablog/index.php/passive-solar-water-desalination/)
+- [Semantic Versioning 2.0 &lpar;2013&rpar;](https://semver.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
