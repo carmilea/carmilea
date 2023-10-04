@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qualcomm’s Hexagon DSP, and Now, NPU](https://chipsandcheese.com/2023/10/04/qualcomms-hexagon-dsp-and-now-npu/)
+- [Insurance companies fill their networks with ‘ghost’ therapists](https://www.seattletimes.com/seattle-news/mental-health/how-insurance-companies-fill-their-networks-with-ghost-therapists/)
+- [AI beats human sleuth at finding problematic images in research papers](https://www.nature.com/articles/d41586-023-02920-y)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-- [The climate model approximation that could fundamentally change climate movement](https://climatewaterproject.substack.com/p/carbon-warming-water-cooling)
-- [Replit moving away from free hosting](https://blog.replit.com/hosting-changes)
-- [The Diorama Engine](https://dioragame.com/devlog/?log=3)
-- [Effects of tea, catechins, and derivatives on Omicron COVID variatns](https://www.nature.com/articles/s41598-023-43563-3)
+- [Changes to Hosting on Replit](https://blog.replit.com/hosting-changes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
