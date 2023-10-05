@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
+- [Product Strategy in the Age of AI](https://www.intercom.com/blog/videos/intercom-on-product-ep21/)
 - [US startup begins producing 40%-efficient thermophotovoltaic cells](https://www.pv-magazine.com/2023/01/25/us-startup-begins-producing-40-efficient-thermophotovoltaic-cells/)
-- [How Neuralink Keeps Dead Monkey Photos Secret](https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-secret/)
 - [Celestial Reference Frame Department](https://crf.usno.navy.mil/home)
 - [Domestic cat larynges can produce purring frequencies without neural input](https://www.cell.com/current-biology/fulltext/S0960-9822(23)01230-7)
-- [Delta finds fake jet aircraft engine parts with forged airworthiness documents](https://fortune.com/2023/10/03/delta-fourth-major-us-airline-fake-jet-aircraft-engine-parts-forged-airworthiness-documents-uk-company-aog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
