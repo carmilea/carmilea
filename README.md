@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Tech Workers Are Experiencing a Drop in Salaries in the Bay Area](https://www.forbes.com/sites/jackkelly/2023/10/04/us-tech-workers-are-experiencing-a-drop-in-salaries-and-in-the-number-of-jobs-available-in-the-bay-area/)
+- [Divan: Fast and Simple Benchmarking for Rust](https://nikolaivazquez.com/blog/divan/)
+- [Tell HN: The popular Chrome extension ModHeader is injecting ads into searches](https://news.ycombinator.com/item?id=37772829)
 - [Qualcomm’s Hexagon DSP, and Now, NPU](https://chipsandcheese.com/2023/10/04/qualcomms-hexagon-dsp-and-now-npu/)
 - [AI beats human sleuth at finding problematic images in research papers](https://www.nature.com/articles/d41586-023-02920-y)
-- [Google announces plan to make Gmail “less spammy”: A checklist to help](https://www.thenewsletternewsletter.xyz/post/google-announces-plan-to-make-gmail-less-spammy-a-checklist-to-ensure-you-meet-the-new-sender-requirements)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-- [The Diorama Engine](https://dioragame.com/devlog/?log=3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
