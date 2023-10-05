@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChromeOS is Linux with Google’s desktop environment](https://www.aboutchromebooks.com/news/now-more-than-ever-chromeos-is-linux-with-googles-desktop-environment/#google_vignette)
-- [Test Anything Protocol &lpar;Tap&rpar;](https://testanything.org/)
-- [I’m not a programmer, and I used AI to build my first bot](https://blog.replit.com/building-my-first-slack-bot)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Reversal of Biological Age in Multiple Rat Organs by Young Porcine Plasma](https://www.biorxiv.org/content/10.1101/2023.08.06.552148v1)
+- [Test Anything Protocol](https://testanything.org/)
 - [Show HN: An app store just for installable web apps](https://store.app)
-- [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
+- [How fast are Linux pipes anyway? &lpar;2022&rpar;](https://mazzo.li/posts/fast-pipes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
