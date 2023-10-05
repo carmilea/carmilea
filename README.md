@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Safety vs. Performance. A case study of C, C++ and Rust sort implementations](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md)
+- [Android 14 released, source code hits AOSP](https://www.cnx-software.com/2023/10/06/android-14-released-source-code-aosp/)
+- [A Database for Game Engines](https://enginesdatabase.com/)
+- [Rerun 0.9 – a framework for visualizing streams of multimodal data](https://www.rerun.io/blog/release-0.9)
 - [PropelAuth &lpar;YC W22&rpar; Is Hiring Rust Developers](https://www.ycombinator.com/companies/propelauth/jobs/NogUaq4-backend-engineer)
-- [Searches for Noah&#39;s Ark](https://en.wikipedia.org/wiki/Searches_for_Noah%27s_Ark)
-- [Astronomers Watched a Star Disappear. Now JWST Might Have Some Answers](https://www.universetoday.com/163473/astronomers-watched-a-massive-star-just-disappear-now-jwst-might-have-some-answers/)
-- [Google agrees to reform its data terms after German antitrust intervention](https://techcrunch.com/2023/10/05/google-data-terms-fco/)
-- [OpenAI&#39;s justification for why training data is fair use, not infringement [pdf]](https://www.uspto.gov/sites/default/files/documents/OpenAI_RFC-84-FR-58141.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
