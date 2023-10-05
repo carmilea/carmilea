@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grug on Diet Soda and Autism](https://dynomight.net/grug/)
+- [PropelAuth &lpar;YC W22&rpar; Is Hiring Rust Developers](https://www.ycombinator.com/companies/propelauth/jobs/NogUaq4-backend-engineer)
+- [Searches for Noah&#39;s Ark](https://en.wikipedia.org/wiki/Searches_for_Noah%27s_Ark)
+- [Astronomers Watched a Star Disappear. Now JWST Might Have Some Answers](https://www.universetoday.com/163473/astronomers-watched-a-massive-star-just-disappear-now-jwst-might-have-some-answers/)
+- [Google agrees to reform its data terms after German antitrust intervention](https://techcrunch.com/2023/10/05/google-data-terms-fco/)
 - [OpenAI&#39;s justification for why training data is fair use, not infringement [pdf]](https://www.uspto.gov/sites/default/files/documents/OpenAI_RFC-84-FR-58141.pdf)
-- [Microsoft introduces AI meddling to your files with Copilot in OneDrive](https://www.theregister.com/2023/10/04/onedrive_to_acquire_copilot_skills/)
-- [Lenovo PC boss: 4 in 5 of our devices will be repairable by 2025](https://www.theregister.com/2023/10/05/lenovo_pc_boss_4_in/)
-- [Ron Patrick&#39;s Street-Legal Jet Powered Volkswagen Beetle &lpar;2006&rpar;](https://www.ronpatrickstuff.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
