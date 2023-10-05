@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can You Customize My Startup&#39;s Login Page?](https://ph-uhl.com/can-you-customize-my-startup-s-login-page/)
-- [Google Docs adds tracking to links in document exports](https://fosstodon.org/@Joe_0237/111145684757912952)
-- [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
-- [Product Strategy in the Age of AI](https://www.intercom.com/blog/videos/intercom-on-product-ep21/)
-- [US startup begins producing 40%-efficient thermophotovoltaic cells](https://www.pv-magazine.com/2023/01/25/us-startup-begins-producing-40-efficient-thermophotovoltaic-cells/)
+- [Whalesync &lpar;YC S21&rpar; is hiring remote full-stack software engineers](https://jobs.polymer.co/whalesync/28574)
+- [HN search engine now shows Google&#39;s 404 error page](https://hn.algolia.com/)
+- [US Government issues first-ever space debris penalty to Dish Network](https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite)
+- [Krita fund has 0 corporate support](https://fund.krita.org/)
+- [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
