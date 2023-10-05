@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pythagorean Theorem Found on Clay Tablet 1k Years Older Than Pythagoras](https://www.iflscience.com/pythagorean-theorem-found-on-clay-tablet-1000-years-older-than-pythagoras-70934)
-- [Amazon Shuts Down Amp, Its Live-Audio Streaming App](https://www.bloomberg.com/news/articles/2023-10-04/amazon-shuts-down-amp-its-live-audio-streaming-app)
+- [An updated Node-WebRTC that works with Node Stable](https://github.com/WonderInventions/node-webrtc)
+- [Pythagorean Theorem found on clay tablet 1k years older than Pythagoras](https://link.springer.com/article/10.1057/jt.2009.16)
 - [President Speaking: Spoofing Alerts in 4G LTE Networks &lpar;2019&rpar; [pdf]](https://par.nsf.gov/servlets/purl/10150578)
 - [LLMs confabulate not hallucinate](https://www.beren.io/2023-03-19-LLMs-confabulate-not-hallucinate/)
 - [A drop in salaries and in the number of jobs available in the Bay Area](https://www.forbes.com/sites/jackkelly/2023/10/04/us-tech-workers-are-experiencing-a-drop-in-salaries-and-in-the-number-of-jobs-available-in-the-bay-area/)
