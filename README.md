@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. federal price tag for the post-9/11 wars is over $8T](https://watson.brown.edu/costsofwar/figures/2021/BudgetaryCosts)
 - [Safety vs. Performance. A case study of C, C++ and Rust sort implementations](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md)
-- [Android 14 released, source code hits AOSP](https://www.cnx-software.com/2023/10/06/android-14-released-source-code-aosp/)
 - [A Database for Game Engines](https://enginesdatabase.com/)
 - [Rerun 0.9 – a framework for visualizing streams of multimodal data](https://www.rerun.io/blog/release-0.9)
-- [PropelAuth &lpar;YC W22&rpar; Is Hiring Rust Developers](https://www.ycombinator.com/companies/propelauth/jobs/NogUaq4-backend-engineer)
+- [Chatbot Hallucinations Are Poisoning Web Search](https://www.wired.com/story/fast-forward-chatbot-hallucinations-are-poisoning-web-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
