@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ray Kurzweil and Mitch Kapor’s “Long Bet” on the Turing Test](https://twitter.com/denizen_kane/status/1709800563485946156)
+- [Delta finds fake jet aircraft engine parts with forged airworthiness documents](https://fortune.com/2023/10/03/delta-fourth-major-us-airline-fake-jet-aircraft-engine-parts-forged-airworthiness-documents-uk-company-aog/)
+- [Unreal Engine change its price for non-game apps](https://gamefromscratch.com/unreal-engine-pricing-changes/)
 - [An updated Node-WebRTC that works with Node Stable](https://github.com/WonderInventions/node-webrtc)
 - [Pythagorean Theorem found on clay tablet 1k years older than Pythagoras](https://link.springer.com/article/10.1057/jt.2009.16)
-- [President Speaking: Spoofing Alerts in 4G LTE Networks &lpar;2019&rpar; [pdf]](https://par.nsf.gov/servlets/purl/10150578)
-- [LLMs confabulate not hallucinate](https://www.beren.io/2023-03-19-LLMs-confabulate-not-hallucinate/)
-- [A drop in salaries and in the number of jobs available in the Bay Area](https://www.forbes.com/sites/jackkelly/2023/10/04/us-tech-workers-are-experiencing-a-drop-in-salaries-and-in-the-number-of-jobs-available-in-the-bay-area/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
