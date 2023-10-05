@@ -55,7 +55,7 @@
 - [HN search engine now shows Google&#39;s 404 error page](https://hn.algolia.com/)
 - [US Government issues first-ever space debris penalty to Dish Network](https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite)
 - [Krita fund has 0 corporate support](https://fund.krita.org/)
-- [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
+- [International Earth Rotation and Reference Systems Service](https://www.iers.org/IERS/EN/Home/home_node.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
