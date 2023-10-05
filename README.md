@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Lenovo PC boss: 4 in 5 of our devices will be repairable by 2025](https://www.theregister.com/2023/10/05/lenovo_pc_boss_4_in/)
-- [School shooting hoaxes have terrorized kids across U.S.](https://www.washingtonpost.com/nation/2023/10/04/school-swatting-hoax-active-shooter/)
+- [Ron Patrick&#39;s Street-Legal Jet Powered Volkswagen Beetle](https://www.ronpatrickstuff.com/)
+- [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
+- [Introducing “Database Performance at Scale”: A Free, Open Source Book](https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/)
 - [Ask HN: Does your microwave interfere with Bluetooth? Mine does](https://news.ycombinator.com/item?id=37777897)
-- [Whalesync &lpar;YC S21&rpar; is hiring remote full-stack software engineers](https://jobs.polymer.co/whalesync/28574)
-- [HN search engine now shows Google&#39;s 404 error page](https://hn.algolia.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
