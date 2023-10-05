@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Reportedly Laying Off Custom Chip Staff](https://www.uploadvr.com/meta-laying-off-custom-silicon-engineers-qualcomm-partnership/)
+- [Google Pixel Watch 2](https://store.google.com/us/product/pixel_watch_2?hl=en-US)
+- [LLMs Confabulate Not Hallucinate](https://www.beren.io/2023-03-19-LLMs-confabulate-not-hallucinate/)
 - [U.S. Tech Workers Are Experiencing a Drop in Salaries in the Bay Area](https://www.forbes.com/sites/jackkelly/2023/10/04/us-tech-workers-are-experiencing-a-drop-in-salaries-and-in-the-number-of-jobs-available-in-the-bay-area/)
 - [Divan: Fast and Simple Benchmarking for Rust](https://nikolaivazquez.com/blog/divan/)
-- [Tell HN: The popular Chrome extension ModHeader is injecting ads into searches](https://news.ycombinator.com/item?id=37772829)
-- [Qualcomm’s Hexagon DSP, and Now, NPU](https://chipsandcheese.com/2023/10/04/qualcomms-hexagon-dsp-and-now-npu/)
-- [AI beats human sleuth at finding problematic images in research papers](https://www.nature.com/articles/d41586-023-02920-y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
