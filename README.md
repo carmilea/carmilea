@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [4chan users manipulate AI tools to unleash torrent of racist images](https://arstechnica.com/tech-policy/2023/10/4chan-pushing-bing-dall-e-as-quick-methods-to-spread-racist-images/)
 - [NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 - [ChromeOS is Linux with Google’s desktop environment](https://www.aboutchromebooks.com/news/now-more-than-ever-chromeos-is-linux-with-googles-desktop-environment/#google_vignette)
 - [Test Anything Protocol](https://testanything.org/)
-- [I’m not a programmer, and I used AI to build my first bot](https://blog.replit.com/building-my-first-slack-bot)
-- [Show HN: An app store just for installable web apps](https://store.app)
+- [Gaia-1 a 9B parameter generative world model for autonomous driving](https://wayve.ai/thinking/scaling-gaia-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
