@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. federal price tag for the post-9/11 wars is over $8T](https://watson.brown.edu/costsofwar/figures/2021/BudgetaryCosts)
-- [Safety vs. Performance. A case study of C, C++ and Rust sort implementations](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md)
-- [A Database for Game Engines](https://enginesdatabase.com/)
-- [Rerun 0.9 – a framework for visualizing streams of multimodal data](https://www.rerun.io/blog/release-0.9)
-- [Chatbot Hallucinations Are Poisoning Web Search](https://www.wired.com/story/fast-forward-chatbot-hallucinations-are-poisoning-web-search/)
+- [ChromeOS is Linux with Google’s desktop environment](https://www.aboutchromebooks.com/news/now-more-than-ever-chromeos-is-linux-with-googles-desktop-environment/#google_vignette)
+- [Test Anything Protocol &lpar;Tap&rpar;](https://testanything.org/)
+- [I’m not a programmer, and I used AI to build my first bot](https://blog.replit.com/building-my-first-slack-bot)
+- [Show HN: An app store just for installable web apps](https://store.app)
+- [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
