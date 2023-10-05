@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lenovo PC boss: 4 in 5 of our devices will be repairable by 2025](https://www.theregister.com/2023/10/05/lenovo_pc_boss_4_in/)
+- [School shooting hoaxes have terrorized kids across U.S.](https://www.washingtonpost.com/nation/2023/10/04/school-swatting-hoax-active-shooter/)
+- [Ask HN: Does your microwave interfere with Bluetooth? Mine does](https://news.ycombinator.com/item?id=37777897)
 - [Whalesync &lpar;YC S21&rpar; is hiring remote full-stack software engineers](https://jobs.polymer.co/whalesync/28574)
 - [HN search engine now shows Google&#39;s 404 error page](https://hn.algolia.com/)
-- [US Government issues first-ever space debris penalty to Dish Network](https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite)
-- [Krita fund has 0 corporate support](https://fund.krita.org/)
-- [International Earth Rotation and Reference Systems Service](https://www.iers.org/IERS/EN/Home/home_node.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
