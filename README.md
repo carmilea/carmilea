@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Up to tenth of Amazon shoppers in GB &#39;bribed&#39; by sellers to offer good review](https://www.theguardian.com/technology/2023/sep/28/up-to-tenth-of-amazon-shoppers-in-great-britain-bribed-by-sellers-to-offer-good-review-poll-finds)
+- [Show HN: What to read after? Personalised AI book recommendations](https://whattoreadafter.xyz/ai-librarian)
+- [US science agencies on track to hit 25-year funding low](https://www.nature.com/articles/d41586-023-03135-x)
+- [SlowLlama: Finetune llama2-70B and codellama on MacBook Air without quantization](https://github.com/okuvshynov/slowllama)
 - [Lasers Deflected Using Air](https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0)
 - [Why did the Motorola 68000 processor family fall out of use in PCs?](https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer)
-- [The Source of Readability](https://loup-vaillant.fr/articles/source-of-readability)
-- [Charles H. Bennett&#39;s Shadows &lpar;ca. 1856&rpar;](https://publicdomainreview.org/collection/shadows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
