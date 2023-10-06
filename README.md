@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Satoshi Did Not Know &lpar;2015&rpar; [pdf]](https://www.ifca.ai/pub/fc15/89750001.pdf)
-- [Exploratory Data Analysis Using Awk](https://awk.dev/eda.html)
-- [Kentucky made child care free for child care workers. It&#39;s already paying off](https://www.npr.org/2023/10/06/1203182131/kentucky-free-child-care-day-care-workers)
-- [Rag Is a Hack](https://www.latent.space/p/llamaindex#details)
-- [India&#39;s banks are making $64B from free cashless payments](https://www.bloomberg.com/opinion/articles/2023-10-05/india-s-banks-make-64-billion-from-free-cashless-payments)
+- [The ozone hole above Antarctica has grown to three times the size of Brazil](https://www.space.com/ozone-hole-antarctica-three-times-size-of-brazil)
+- [Apple put their weight behind an open HDR standard called “ISO/TS 22028-5” [video]](https://developer.apple.com/videos/play/wwdc2023/10181/?cmdf=apple+support+iso+hdr+ISO%2FTS+22028-5)
+- [Overshooting Earth’s Boundaries: An Interview with Bill Rees](https://worldsensorium.com/overshooting-earths-boundaries-an-interview-with-bill-rees/)
+- [Ozempic linked to stomach paralysis, other gastrointestinal issues: UBC study](https://globalnews.ca/news/10006543/ozempic-stomach-paralysis-ubc-study/)
+- [Open-ribbon – A Project to reverse engineer the PS1 music game Vib-Ribbon](https://github.com/open-ribbon/open-ribbon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
