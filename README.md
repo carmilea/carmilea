@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chinese Netizen Fined over 1M Yuan for Using VPN](https://here.news/post/93c46bbd-ea0d-48e2-bba6-135e58887f81/chinese-netizen-fined-over-1-million-yua)
 - [Rails 7.1 Released](https://github.com/rails/rails/releases/tag/v7.1.0)
 - [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
-- [“Google is clearly buying its way to squelch competitors“](https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way)
+- [Google&#39;s agreement with Samsung prevented Branch from launching: testimony](https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way)
 - [Show HN: Decorate Java stack traces with source code snippets](https://github.com/laech/java-stacksrc)
+- [Scientists discover the highest energy gamma-rays ever from a pulsar](https://phys.org/news/2023-10-scientists-highest-energy-gamma-rays-pulsar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
