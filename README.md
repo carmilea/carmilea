@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Casino giant MGM expects $100M hit from hack that led to data breach](https://www.reuters.com/business/mgm-expects-cybersecurity-issue-negatively-impact-third-quarter-earnings-2023-10-05/)
+- [Thread-per-core](https://without.boats/blog/thread-per-core/)
+- [Meta&#39;s new AI dating coach will kink shame you &lpar;unless you&#39;re into foot stuff&rpar;](https://gizmodo.com/metas-new-ai-dating-coach-will-kink-shame-you-1850904198)
 - [Lost your luggage? That&#39;s nothing – we just lost your whole flight](https://www.theregister.com/2023/10/02/who_me/)
 - [Thirty Years Ago: MS-DOS 6.00](https://www.pcjs.org/blog/2023/10/04/)
-- [Will workers hired as Remote all be laid off in next wave?](https://news.ycombinator.com/item?id=37790004)
-- [Long gone, DEC is still powering the world of computing](https://arstechnica.com/gadgets/2023/10/long-gone-dec-is-still-powering-the-world-of-computing/)
-- [Show HN: Another way to use an old tablet as an extra screen](https://github.com/alex028502/extra-screen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
