@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
+- [“Google is clearly buying its way to squelch competitors“](https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way)
 - [Ollama is now available as an official Docker image](https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image)
-- [US transition to clean energy is happening faster than you think, reporter says](https://www.npr.org/2023/10/05/1203846437/u-s-transition-to-clean-energy-is-happening-faster-than-you-think-reporter-says)
-- [Ring Is Cashing in on the UFO Craze to Promote Its Surveillance Dystopia](https://www.vice.com/en/article/g5y8m3/ring-is-cashing-in-on-the-ufo-craze-to-promote-its-surveillance-dystopia)
 - [Gboard Hat Version](https://landing.google.co.jp/caps/)
-- [Play Leisure Suit Larry free in DOS running in browser](https://www.retrogames.cz/play_493-DOS.php)
+- [Nine ways to break your systems code using volatile](https://blog.regehr.org/archives/28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
