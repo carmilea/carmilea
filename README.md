@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Satoshi Did Not Know &lpar;2015&rpar; [pdf]](https://www.ifca.ai/pub/fc15/89750001.pdf)
+- [Exploratory Data Analysis Using Awk](https://awk.dev/eda.html)
+- [Kentucky made child care free for child care workers. It&#39;s already paying off](https://www.npr.org/2023/10/06/1203182131/kentucky-free-child-care-day-care-workers)
+- [Rag Is a Hack](https://www.latent.space/p/llamaindex#details)
 - [India&#39;s banks are making $64B from free cashless payments](https://www.bloomberg.com/opinion/articles/2023-10-05/india-s-banks-make-64-billion-from-free-cashless-payments)
-- [Hubble’s Hitchcock Moment: An Explosion in Unexpected Place](https://scitechdaily.com/hubbles-hitchcock-moment-a-bizarre-explosion-in-unexpected-place/)
-- [Java 21 VirtualThreads vs. Clojure Lazy Seqs &lpar;from Clojure Deref 2023-10-06&rpar;](https://clojure.org/news/2023/10/06/deref)
-- [Petscii Side-Scrolling Platformer by Jimbo](https://jimbo.itch.io/petscii-side-scrolling-platformer)
-- [Google Faces Grilling over Alleged Unfair Ad Practices in Antitrust Trial](https://www.pymnts.com/cpi_posts/google-faces-grilling-over-alleged-unfair-ad-practices-in-antitrust-trial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
