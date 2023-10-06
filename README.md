@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Phishing 2FA 25 years ago](https://twitter.com/123456/status/1710359310419607976)
-- [The ozone hole above Antarctica has grown to three times the size of Brazil](https://www.space.com/ozone-hole-antarctica-three-times-size-of-brazil)
-- [Support HDR images in your app [video]](https://developer.apple.com/videos/play/wwdc2023/10181/?cmdf=apple+support+iso+hdr+ISO%2FTS+22028-5)
-- [AMD May Get Across the CUDA Moat](https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/)
-- [Overshooting Earth’s Boundaries: An Interview with Bill Rees](https://worldsensorium.com/overshooting-earths-boundaries-an-interview-with-bill-rees/)
+- [Why audio-only deepfakes are uniquely threatening to elections](https://aipoliticalpulse.substack.com/p/the-deepfake-issue)
+- [A 20MP Sensor in a Film Canister Reinvigorates Vintage Analog Cameras](https://petapixel.com/2023/10/06/a-20mp-sensor-in-a-film-canister-reinvigorates-vintage-analog-cameras/)
+- [Show HN: A simple Pastebin Clone using Deno](https://github.com/JLCarveth/nutty)
+- [Show HN: Neobrutalism components – A collection of react-tailwind components](https://github.com/ekmas/neobrutalism-components)
+- [Chicago independently abolishes subminimum wage for tipped workers](https://www.chicagotribune.com/politics/ct-chicago-council-votes-eliminate-lower-tipped-minimum-wage-20231006-xg5vpkqcxnfqhe5fqogxrpbcua-story.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
