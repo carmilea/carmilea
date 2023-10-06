@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Opening up access to GOV.UK Forms: an online form builder](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
+- [OpenAI’s ChatGPT Is the Whole Game Studio [video]](https://www.youtube.com/watch?v=Zlgkzjndpak)
+- [Jailed Iranian Activist Narges Mohammadi Wins 2023 Nobel Peace Prize](https://www.cnn.com/world/live-news/nobel-peace-prize-2023-latest-news-intl/index.html)
+- [When does an old iPhone become unsafe to use?](https://www.intego.com/mac-security-blog/when-does-an-old-iphone-become-unsafe-to-use/)
 - [CCC Invites to the 37th Chaos Communication Congress in Hamburg](https://www.ccc.de/en/updates/2023/37C3)
-- [Rails 7.1 Released](https://github.com/rails/rails/releases/tag/v7.1.0)
-- [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
-- [Google&#39;s agreement with Samsung prevented Branch from launching: testimony](https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way)
-- [Show HN: Decorate Java stack traces with source code snippets](https://github.com/laech/java-stacksrc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
