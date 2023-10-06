@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Netizen Fined over 1M Yuan for Using VPN](https://here.news/post/93c46bbd-ea0d-48e2-bba6-135e58887f81/chinese-netizen-fined-over-1-million-yua)
+- [Rails 7.1 Released](https://github.com/rails/rails/releases/tag/v7.1.0)
 - [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
 - [“Google is clearly buying its way to squelch competitors“](https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way)
 - [Ollama is now available as an official Docker image](https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image)
-- [Gboard Hat Version](https://landing.google.co.jp/caps/)
-- [Nine ways to break your systems code using volatile](https://blog.regehr.org/archives/28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
