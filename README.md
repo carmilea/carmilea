@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Phishing 2FA 25 years ago](https://twitter.com/123456/status/1710359310419607976)
 - [The ozone hole above Antarctica has grown to three times the size of Brazil](https://www.space.com/ozone-hole-antarctica-three-times-size-of-brazil)
-- [Apple put their weight behind an open HDR standard called “ISO/TS 22028-5” [video]](https://developer.apple.com/videos/play/wwdc2023/10181/?cmdf=apple+support+iso+hdr+ISO%2FTS+22028-5)
+- [Support HDR images in your app [video]](https://developer.apple.com/videos/play/wwdc2023/10181/?cmdf=apple+support+iso+hdr+ISO%2FTS+22028-5)
+- [AMD May Get Across the CUDA Moat](https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/)
 - [Overshooting Earth’s Boundaries: An Interview with Bill Rees](https://worldsensorium.com/overshooting-earths-boundaries-an-interview-with-bill-rees/)
-- [Ozempic linked to stomach paralysis, other gastrointestinal issues: UBC study](https://globalnews.ca/news/10006543/ozempic-stomach-paralysis-ubc-study/)
-- [Open-ribbon – A Project to reverse engineer the PS1 music game Vib-Ribbon](https://github.com/open-ribbon/open-ribbon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
