@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why audio-only deepfakes are uniquely threatening to elections](https://aipoliticalpulse.substack.com/p/the-deepfake-issue)
-- [A 20MP Sensor in a Film Canister Reinvigorates Vintage Analog Cameras](https://petapixel.com/2023/10/06/a-20mp-sensor-in-a-film-canister-reinvigorates-vintage-analog-cameras/)
-- [Show HN: A simple Pastebin Clone using Deno](https://github.com/JLCarveth/nutty)
-- [Show HN: Neobrutalism components – A collection of react-tailwind components](https://github.com/ekmas/neobrutalism-components)
-- [Chicago independently abolishes subminimum wage for tipped workers](https://www.chicagotribune.com/politics/ct-chicago-council-votes-eliminate-lower-tipped-minimum-wage-20231006-xg5vpkqcxnfqhe5fqogxrpbcua-story.html)
+- [Why did the Motorola 68000 processor family fall out of use in PCs?](https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer)
+- [OpenStack Unleashes Bobcat: A Leap Forward in Open-Source Cloud Infrastructure](https://opensourcewatch.beehiiv.com/p/openstack-unleashes-bobcat-leap-forward-opensource-cloud-infrastructure)
+- [Charles H. Bennett&#39;s Shadows &lpar;ca. 1856&rpar;](https://publicdomainreview.org/collection/shadows/)
+- [Redox OS Development Priorities for 2023/24](https://www.redox-os.org/news/development-priorities-2023-09/)
+- [23andMe scraping incident leaked data on 1.3M users](https://therecord.media/scraping-incident-genetic-testing-site)
 <!-- BLOG-POST-LIST:END -->
 
 ---
