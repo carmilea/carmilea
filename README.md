@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ring Is Cashing in on the UFO Craze to Promote Its Surveillance Dystopia](https://www.vice.com/en/article/g5y8m3/ring-is-cashing-in-on-the-ufo-craze-to-promote-its-surveillance-dystopia)
 - [Gboard Hat Version](https://landing.google.co.jp/caps/)
 - [Play Leisure Suit Larry free in DOS running in browser](https://www.retrogames.cz/play_493-DOS.php)
 - [NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
-- [ChromeOS is Linux with Google’s desktop environment](https://www.aboutchromebooks.com/news/now-more-than-ever-chromeos-is-linux-with-googles-desktop-environment/#google_vignette)
 - [Test Anything Protocol](https://testanything.org/)
 <!-- BLOG-POST-LIST:END -->
 
