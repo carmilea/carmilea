@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oh-My-God Particle](https://en.wikipedia.org/wiki/Oh-My-God_particle)
-- [Humans are biased. Generative AI is even worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/)
-- [EU Grabs ARM for First ExaFLOP Supercomputer, x86 Misses Out](https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/)
-- [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
-- [MGM expects $100M hit from hack that led to data breach](https://www.reuters.com/business/mgm-expects-cybersecurity-issue-negatively-impact-third-quarter-earnings-2023-10-05/)
+- [India&#39;s banks are making $64B from free cashless payments](https://www.bloomberg.com/opinion/articles/2023-10-05/india-s-banks-make-64-billion-from-free-cashless-payments)
+- [Hubble’s Hitchcock Moment: An Explosion in Unexpected Place](https://scitechdaily.com/hubbles-hitchcock-moment-a-bizarre-explosion-in-unexpected-place/)
+- [Java 21 VirtualThreads vs. Clojure Lazy Seqs &lpar;from Clojure Deref 2023-10-06&rpar;](https://clojure.org/news/2023/10/06/deref)
+- [Petscii Side-Scrolling Platformer by Jimbo](https://jimbo.itch.io/petscii-side-scrolling-platformer)
+- [Google Faces Grilling over Alleged Unfair Ad Practices in Antitrust Trial](https://www.pymnts.com/cpi_posts/google-faces-grilling-over-alleged-unfair-ad-practices-in-antitrust-trial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
