@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Slack Is Down](https://slack.com/?nojsmode=1)
+- [CCC Invites to the 37th Chaos Communication Congress in Hamburg](https://www.ccc.de/en/updates/2023/37C3)
 - [Rails 7.1 Released](https://github.com/rails/rails/releases/tag/v7.1.0)
 - [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
 - [Google&#39;s agreement with Samsung prevented Branch from launching: testimony](https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way)
-- [Show HN: Decorate Java stack traces with source code snippets](https://github.com/laech/java-stacksrc)
-- [Scientists discover the highest energy gamma-rays ever from a pulsar](https://phys.org/news/2023-10-scientists-highest-energy-gamma-rays-pulsar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
