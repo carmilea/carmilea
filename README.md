@@ -55,7 +55,7 @@
 - [Rails 7.1 Released](https://github.com/rails/rails/releases/tag/v7.1.0)
 - [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
 - [“Google is clearly buying its way to squelch competitors“](https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way)
-- [Ollama is now available as an official Docker image](https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image)
+- [Show HN: Decorate Java stack traces with source code snippets](https://github.com/laech/java-stacksrc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
