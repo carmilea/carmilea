@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Internet traffic in Israel surged 170% right after the Hamas attack](https://radar.cloudflare.com/traffic/il?dateRange=2d)
+- [Could Earth be the only planet with intelligent life?](https://bigthink.com/starts-with-a-bang/earth-only-planet-intelligent-life/)
 - [Dramatic Increase in DPRK-Russia Border Rail Traffic After Kim-Putin Summit](https://beyondparallel.csis.org/dramatic-increase-in-dprk-russia-border-rail-traffic-after-kim-putin-summit/)
-- [Israel says it is &#39;at war&#39; after Hamas surprise attack](https://edition.cnn.com/middleeast/live-news/al-aqsa-storm-militants-infiltrate-israel-after-gaza-rockets-10-07-intl-hnk/index.html)
-- [The government dug a deep hole for itself with Bills C-11 and C-18](https://www.theglobeandmail.com/opinion/article-the-government-dug-a-deep-hole-for-itself-with-bills-c-11-and-c-18-and/)
 - [The Smartest Person Who Ever Lived &lpar;2015&rpar;](https://www.realclearscience.com/blog/2015/01/the_smartest_person_to_have_ever_lived.html)
 - [Wired has removed &quot;How Google Alters Search Queries&quot; story](https://twitter.com/maldr0id/status/1710625763534201117)
 <!-- BLOG-POST-LIST:END -->
