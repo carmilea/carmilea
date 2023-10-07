@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [RISC-V chip technology emerges as new battleground in US-China tech war](https://www.reuters.com/technology/us-china-tech-war-risc-v-chip-technology-emerges-new-battleground-2023-10-06/)
-- [Half a Million Kinksters Can&#39;t Be Wrong](https://asteriskmag.com/issues/04/half-a-million-kinksters-can-t-be-wrong)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Research Scientists](https://news.ycombinator.com/item?id=37798143)
+- [Tech giants Meta, Amazon lay off more workers as cuts continue](https://www.sfchronicle.com/tech/article/tech-giants-meta-amazon-lay-workers-cuts-continue-18406560.php)
 - [Emacs and shellcheck](https://amitp.blogspot.com/2023/10/emacs-and-shellcheck.html)
 - [Braid Is Dead, Long Live Braid](https://amandapeyton.com/blog/2023/10/braid-is-dead-long-live-braid/)
-- [Android devices with backdoored firmware found in US schools](https://www.securityweek.com/android-devices-with-backdoored-firmware-found-in-us-schools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
