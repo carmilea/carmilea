@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dramatic Increase in DPRK-Russia Border Rail Traffic After Kim-Putin Summit](https://beyondparallel.csis.org/dramatic-increase-in-dprk-russia-border-rail-traffic-after-kim-putin-summit/)
+- [Israel says it is &#39;at war&#39; after Hamas surprise attack](https://edition.cnn.com/middleeast/live-news/al-aqsa-storm-militants-infiltrate-israel-after-gaza-rockets-10-07-intl-hnk/index.html)
+- [The government dug a deep hole for itself with Bills C-11 and C-18](https://www.theglobeandmail.com/opinion/article-the-government-dug-a-deep-hole-for-itself-with-bills-c-11-and-c-18-and/)
+- [The Smartest Person Who Ever Lived &lpar;2015&rpar;](https://www.realclearscience.com/blog/2015/01/the_smartest_person_to_have_ever_lived.html)
 - [Wired has removed &quot;How Google Alters Search Queries&quot; story](https://twitter.com/maldr0id/status/1710625763534201117)
-- [How Big Pharma Reaps Profits While Hurting Everyday Americans &lpar;2019&rpar;](https://www.americanprogress.org/article/big-pharma-reaps-profits-hurting-everyday-americans/)
-- [Crypto Fooled Us Once. It Will Fool Us Again](https://www.thefp.com/p/crypto-fooled-us-once-fool-us-again)
-- [Sitting all day increase dementia risk – even if you exercise](https://www.washingtonpost.com/wellness/2023/09/27/sitting-sedentary-exercise-dementia/)
-- [We Finally Have Proof That the Internet Is Worse](https://www.theatlantic.com/technology/archive/2023/10/big-tech-algorithmic-influence-antitrust-litigation/675575/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
