@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing if a port can be reached, using built-in tools other than ol&#39; telnet](https://www.carehart.org/blog/2023/10/1/testing_port_reachability_with_other_than_telnet)
+- [FTX &quot;insurance fund&quot; calculated by multiplying trading volume by random number](https://twitter.com/molly0xfff/status/1710718416724595187)
+- [Using Awk and R to parse 25tb &lpar;2019&rpar;](https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html)
 - [Doctorow – A Murder Story: Whatever Happened to Interoperability?](https://www.theamericanconservative.com/a-murder-story-whatever-happened-to-interoperability/)
-- [How can I get my engineers to accept being on call?](https://workplace.stackexchange.com/questions/193511/how-can-i-get-my-engineers-to-accept-being-on-call)
 - [Is the first cure for advanced rabies near?](https://medicalxpress.com/news/2023-09-advanced-rabies.html)
-- [ChatGPT – Dalle3 System Prompt](https://twitter.com/Suhail/status/1710653717081653712)
-- [Why companies still want in-house data centres](https://www.economist.com/business/2023/10/05/why-companies-still-want-in-house-data-centres)
 <!-- BLOG-POST-LIST:END -->
 
 ---
