@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Internet traffic in Israel surged 170% right after the Hamas attack](https://radar.cloudflare.com/traffic/il?dateRange=2d)
-- [Could Earth be the only planet with intelligent life?](https://bigthink.com/starts-with-a-bang/earth-only-planet-intelligent-life/)
-- [Dramatic Increase in DPRK-Russia Border Rail Traffic After Kim-Putin Summit](https://beyondparallel.csis.org/dramatic-increase-in-dprk-russia-border-rail-traffic-after-kim-putin-summit/)
-- [The Smartest Person Who Ever Lived &lpar;2015&rpar;](https://www.realclearscience.com/blog/2015/01/the_smartest_person_to_have_ever_lived.html)
-- [Wired has removed &quot;How Google Alters Search Queries&quot; story](https://twitter.com/maldr0id/status/1710625763534201117)
+- [&quot;Attention is all you need&quot; paper digested](https://www.youtube.com/watch?v=iDulhoQ2pro)
+- [Ask HN: How does Starlink work for IP address/ASN internationally?](https://news.ycombinator.com/item?id=37803466)
+- [Toyota Will Adopt Tesla-Style Cast Bodies That Might Be Impossible to Fix](https://www.thedrive.com/news/toyota-will-adopt-tesla-style-cast-bodies-that-might-be-impossible-to-fix)
+- [Zilog&#39;s Forgotten Operating System: Z80-Rio](https://hackaday.com/2023/10/06/zilogs-forgotten-operating-system-z80-rio/)
+- [Why NASA Chose WordPress for Revamping Its Flagship Website](https://wptavern.com/why-nasa-chose-wordpress-for-revamping-its-flagship-website)
 <!-- BLOG-POST-LIST:END -->
 
 ---
