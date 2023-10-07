@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shell Using Fortnite, TikTok, etc. to Convince Kids Fossil Fuels Are Cool](https://kotaku.com/shell-big-oil-roadtrips-fortnite-map-collab-tiktok-ign-1850907435)
 - [Subtraction Is Functionally Complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
 - [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
 - [Auto Xylophone with Homemade Solenoids](https://rachad47.github.io/rwae/Xylophone.html)
-- [What Is Appropriation in Art?](https://www.thecollector.com/what-is-appropriation-in-art/)
-- [Companies that are beating the West](https://restofworld.org/2023/rest-vs-west/)
+- [John Carmack and Rich Sutton partner to accelerate development of AGI](https://www.amii.ca/latest-from-amii/john-carmack-and-rich-sutton-agi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
