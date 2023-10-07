@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: What to read after? Personalised AI book recommendations](https://whattoreadafter.xyz/ai-librarian)
-- [US science agencies on track to hit 25-year funding low](https://www.nature.com/articles/d41586-023-03135-x)
-- [SlowLlama: Finetune llama2-70B and codellama on MacBook Air without quantization](https://github.com/okuvshynov/slowllama)
-- [Lasers Deflected Using Air](https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0)
-- [Why did the Motorola 68000 processor family fall out of use in PCs?](https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer)
+- [Emacs and shellcheck](https://amitp.blogspot.com/2023/10/emacs-and-shellcheck.html)
+- [Universal Core Gains Nvidia Support](https://universal-blue.org/blog/2023/10/06/universal-core-gains-nvidia-support/)
+- [Android devices with backdoored firmware found in US schools](https://www.securityweek.com/android-devices-with-backdoored-firmware-found-in-us-schools/)
+- [Show HN: Multiplayer game engine with 120fps and 2 second load time on the web](https://dotbigbang.com/game/1af877e9bfdb47088611f55982b7570f/prestons-diamond-wars?mp=playdw)
+- [ASP.NET Core Blazor](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
