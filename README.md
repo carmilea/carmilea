@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Attention is all you need&quot; paper digested](https://www.youtube.com/watch?v=iDulhoQ2pro)
-- [Ask HN: How does Starlink work for IP address/ASN internationally?](https://news.ycombinator.com/item?id=37803466)
-- [Toyota Will Adopt Tesla-Style Cast Bodies That Might Be Impossible to Fix](https://www.thedrive.com/news/toyota-will-adopt-tesla-style-cast-bodies-that-might-be-impossible-to-fix)
-- [Zilog&#39;s Forgotten Operating System: Z80-Rio](https://hackaday.com/2023/10/06/zilogs-forgotten-operating-system-z80-rio/)
-- [Why NASA Chose WordPress for Revamping Its Flagship Website](https://wptavern.com/why-nasa-chose-wordpress-for-revamping-its-flagship-website)
+- [Doctorow – A Murder Story: Whatever Happened to Interoperability?](https://www.theamericanconservative.com/a-murder-story-whatever-happened-to-interoperability/)
+- [How can I get my engineers to accept being on call?](https://workplace.stackexchange.com/questions/193511/how-can-i-get-my-engineers-to-accept-being-on-call)
+- [Is the first cure for advanced rabies near?](https://medicalxpress.com/news/2023-09-advanced-rabies.html)
+- [ChatGPT – Dalle3 System Prompt](https://twitter.com/Suhail/status/1710653717081653712)
+- [Why companies still want in-house data centres](https://www.economist.com/business/2023/10/05/why-companies-still-want-in-house-data-centres)
 <!-- BLOG-POST-LIST:END -->
 
 ---
