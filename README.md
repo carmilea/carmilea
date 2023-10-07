@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Subtraction Is Functionally Complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
+- [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
+- [Auto Xylophone with Homemade Solenoids](https://rachad47.github.io/rwae/Xylophone.html)
 - [What Is Appropriation in Art?](https://www.thecollector.com/what-is-appropriation-in-art/)
 - [The Honeypot Diaries: Thousands of Daily Attacks on My Home Network](https://simone.org/honeypot-diaries/)
-- [Cloudflare is free of CAPTCHAs; Turnstile is free for everyone](https://blog.cloudflare.com/turnstile-ga/)
-- [Why Git Is Hard](https://roadrunnertwice.dreamwidth.org/596185.html)
-- [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
