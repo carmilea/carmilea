@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare is free of CAPTCHAs; Turnstile is free for everyone](https://blog.cloudflare.com/turnstile-ga/)
+- [Why Git Is Hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring Research Scientists](https://news.ycombinator.com/item?id=37798143)
 - [Emacs and shellcheck](https://amitp.blogspot.com/2023/10/emacs-and-shellcheck.html)
-- [Braid is dead, long live Braid](https://amandapeyton.com/blog/2023/10/braid-is-dead-long-live-braid/)
-- [Android devices with backdoored firmware found in US schools](https://www.securityweek.com/android-devices-with-backdoored-firmware-found-in-us-schools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
