@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Reagan Judge, the First Amendment, and the Eternal War Against Pornography](https://www.techdirt.com/2023/10/06/a-reagan-judge-the-first-amendment-and-the-eternal-war-against-pornography/)
-- [The final seconds of a fatal Tesla Autopilot crash – A reconstruction](https://www.washingtonpost.com/technology/interactive/2023/tesla-autopilot-crash-analysis/)
-- [Fleurons in Unicode](https://en.wikipedia.org/wiki/Fleuron_(typography))
-- [Meta in Myanmar, Part III. The Inside View](https://erinkissane.com/meta-in-myanmar-part-iii-the-inside-view)
-- [Berry is a ultra-lightweight dynamically typed embedded scripting language](https://berry-lang.github.io/)
+- [Wired has removed &quot;How Google Alters Search Queries&quot; story](https://twitter.com/maldr0id/status/1710625763534201117)
+- [How Big Pharma Reaps Profits While Hurting Everyday Americans &lpar;2019&rpar;](https://www.americanprogress.org/article/big-pharma-reaps-profits-hurting-everyday-americans/)
+- [Crypto Fooled Us Once. It Will Fool Us Again](https://www.thefp.com/p/crypto-fooled-us-once-fool-us-again)
+- [Sitting all day increase dementia risk – even if you exercise](https://www.washingtonpost.com/wellness/2023/09/27/sitting-sedentary-exercise-dementia/)
+- [We Finally Have Proof That the Internet Is Worse](https://www.theatlantic.com/technology/archive/2023/10/big-tech-algorithmic-influence-antitrust-litigation/675575/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
