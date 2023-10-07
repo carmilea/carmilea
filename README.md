@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brave lays off 9% of its workforce](https://techcrunch.com/2023/10/06/brave-lays-off-9-of-its-workforce/)
+- [A Clutter-Free Life: Going Paperless with Paperless-Ngx](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/)
+- [At least 1k birds died from colliding with one Chicago building in one day](https://www.theguardian.com/us-news/2023/oct/07/chicago-mccormick-place-building-bird-deaths-windows)
+- [What Plants Are Saying About Us](https://worldsensorium.com/what-plants-are-saying-about-us/)
 - [Shell Using Fortnite, TikTok, etc. to Convince Kids Fossil Fuels Are Cool](https://kotaku.com/shell-big-oil-roadtrips-fortnite-map-collab-tiktok-ign-1850907435)
-- [Subtraction Is Functionally Complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
-- [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
-- [Auto Xylophone with Homemade Solenoids](https://rachad47.github.io/rwae/Xylophone.html)
-- [John Carmack and Rich Sutton partner to accelerate development of AGI](https://www.amii.ca/latest-from-amii/john-carmack-and-rich-sutton-agi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
