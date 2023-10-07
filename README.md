@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brave lays off 9% of its workforce](https://techcrunch.com/2023/10/06/brave-lays-off-9-of-its-workforce/)
-- [A Clutter-Free Life: Going Paperless with Paperless-Ngx](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/)
+- [Brave layoffs](https://techcrunch.com/2023/10/06/brave-lays-off-9-of-its-workforce/)
+- [New MIT Desalination System Produces Freshwater That&#39;s &quot;Cheaper Than Tap Water&quot;](https://scitechdaily.com/mits-new-desalination-system-produces-freshwater-that-is-cheaper-than-tap-water/)
+- [Paperless-ngx – Open source document management system](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/)
 - [At least 1k birds died from colliding with one Chicago building in one day](https://www.theguardian.com/us-news/2023/oct/07/chicago-mccormick-place-building-bird-deaths-windows)
 - [What Plants Are Saying About Us](https://worldsensorium.com/what-plants-are-saying-about-us/)
-- [Shell Using Fortnite, TikTok, etc. to Convince Kids Fossil Fuels Are Cool](https://kotaku.com/shell-big-oil-roadtrips-fortnite-map-collab-tiktok-ign-1850907435)
 <!-- BLOG-POST-LIST:END -->
 
 ---
