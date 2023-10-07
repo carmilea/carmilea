@@ -55,7 +55,7 @@
 - [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
 - [Auto Xylophone with Homemade Solenoids](https://rachad47.github.io/rwae/Xylophone.html)
 - [What Is Appropriation in Art?](https://www.thecollector.com/what-is-appropriation-in-art/)
-- [The Honeypot Diaries: Thousands of Daily Attacks on My Home Network](https://simone.org/honeypot-diaries/)
+- [Companies that are beating the West](https://restofworld.org/2023/rest-vs-west/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
