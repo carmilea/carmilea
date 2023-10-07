@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HVM updates: simplifications, finally runs on GPUs, 80x speedup on RTX 4090](https://twitter.com/VictorTaelin/status/1710766199288570079)
+- [Dockerized local and offline backing up of PostgreSQL with rotation, compression](https://github.com/efrecon/pgbackup)
 - [More than 10k pre-Columbian earthworks are still hidden throughout Amazonia](https://www.science.org/doi/10.1126/science.ade2541?adobe_mc=MCMID%3D83960885786336698153577677940677830318%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696612291)
-- [You Don&#39;t Really Own the Digital Movies You Buy &lpar;2021&rpar;](https://www.nytimes.com/wirecutter/blog/you-dont-own-your-digital-movies/)
+- [1400 year old gold foil figures found in Norwegian pagan temple](https://sciencenorway.no/archaeology-iron-age/another-gold-treasure-in-norway-1400-year-old-gold-foil-figures-found-in-pagan-temple/2253447)
 - [Testing if a port can be reached, using built-in tools other than ol&#39; telnet](https://www.carehart.org/blog/2023/10/1/testing_port_reachability_with_other_than_telnet)
-- [FTX &quot;insurance fund&quot; calculated by multiplying trading volume by random number](https://twitter.com/molly0xfff/status/1710718416724595187)
-- [Using Awk and R to parse 25tb &lpar;2019&rpar;](https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
