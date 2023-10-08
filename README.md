@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mitigations=off considered harmful or spurious SIGILL on AMD Zen4](https://forum.level1techs.com/t/mitigations-off-considered-harmful-or-spurious-sigill-on-amd-zen4/202049)
+- [New pipeline makes valuable organic acid from plants–saving money and emissions](https://phys.org/news/2023-10-pipeline-valuable-acid-plantssaving-money.html)
+- [The Era of Startups Is Over](https://acecreamu.substack.com/p/hard-time-for-startups)
+- [Alternative open firmware for your IP camera](https://github.com/OpenIPC)
 - [Zen 5&#39;s Leaked Slides](https://chipsandcheese.com/2023/10/08/zen-5s-leaked-slides/)
-- [Americans born in 2019 will spend 48% to 60% of lives on prescription medication](https://read.dukeupress.edu/demography/article/60/5/1549/382305/Life-Course-Patterns-of-Prescription-Drug-Use-in)
-- [CA Gov. Newsom vetoes bill that would have decriminalized psychedelic mushrooms](https://abcnews.go.com/US/wireStory/california-gov-gavin-newsom-vetoes-bill-decriminalized-psychedelic-103810533)
-- [Cats Are Perfect. An Evolutionary Biologist Explains Why](https://www.scientificamerican.com/article/cats-are-perfect-an-evolutionary-biologist-explains-why/)
-- [World&#39;s fastest sailboat: Two wild designs hit the water for testing](https://newatlas.com/marine/syroco-sp80-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
