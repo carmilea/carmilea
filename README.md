@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [USA paying more interest on its $33T debt than on defense – who holds the IOUs](https://finance.yahoo.com/news/america-now-paying-more-interest-113000593.html)
+- [Decomposing Language Models into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
+- [Newsom vetoes a proposed ban on caste discrimination in California](https://www.politico.com/news/2023/10/07/newsom-veto-caste-discrimination-00120495)
+- [Internet traffic impacted in Palestine after attacks. Some ISPs are offline](https://twitter.com/CloudflareRadar/status/1710796767288021225?s=20)
+- [Amazon launches its Bedrock generative AI service in general availability](https://techcrunch.com/2023/09/28/amazon-launches-its-bedrock-generative-ai-service-in-general-availability/)
 - [Permission Slip: Consumer Reports app to take back control of your data](https://permissionslipcr.com/)
-- [What Took Down Airbnb](https://www.theatlantic.com/ideas/archive/2023/10/airbnb-new-york-housing-market-can-match/675561/)
-- [HVM updates: simplifications, finally runs on GPUs, 80x speedup on RTX 4090](https://twitter.com/VictorTaelin/status/1710766199288570079)
-- [Ask HN: Track Users Without Fingerprinting](https://news.ycombinator.com/item?id=37805731)
 <!-- BLOG-POST-LIST:END -->
 
 ---
