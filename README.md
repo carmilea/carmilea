@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RedHat is closing their security mailing list](https://listman.redhat.com/archives/rhsa-announce/2023-October/012854.html)
 - [Forty Years of Programming](https://fabiensanglard.net/40/index.html)
-- [US moves closer to underground testing of nuclear weapons without any explosions](https://qz.com/us-moves-closer-to-underground-testing-of-nuclear-weapo-1850904934)
+- [Metals Fuse Together in Space](https://www.spacecentre.nz/resources/facts/physics/metals-fuse.html)
 - [Projects Innovating Around RISC-V](https://thechipletter.substack.com/p/seven-projects-innovating-around)
 - [Demo-Driven Development &lpar;2021&rpar;](https://www.rubick.com/demo-driven-development/)
-- [Thousands of young people are fleeing Toronto – economists say city will suffer](https://www.thestar.com/business/thousands-of-young-people-are-fleeing-toronto-economists-say-the-city-will-suffer-because-of/article_1bd938b4-246d-5b24-b0ac-20960d216f30.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
