@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [World EV Sales Now Equal 18% of World Auto Sales](https://cleantechnica.com/2023/10/07/world-ev-sales-now-equal-18-of-world-auto-sales/)
 - [Indoor wood burning raises women’s lung cancer risk by 43%](https://www.sciencedirect.com/science/article/pii/S0160412023004014)
 - [Strong Evidence Is Common](https://markxu.com/strong-evidence)
 - [Contour: Modern and Fast Terminal Emulator](https://github.com/contour-terminal/contour)
 - [Homebrew to deprecate and add caveat for HashiCorp](https://github.com/Homebrew/homebrew-core/pull/139538)
-- [CancelQuora](https://interestingauthors.com/blog/experience/quora/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
