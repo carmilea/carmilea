@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Things I just don&#39;t like about Git](https://cohost.org/tef/post/3009746-things-i-just-don-t)
+- [Zen 5&#39;s Leaked Slides](https://chipsandcheese.com/2023/10/08/zen-5s-leaked-slides/)
+- [Americans born in 2019 will spend 48% to 60% of lives on prescription medication](https://read.dukeupress.edu/demography/article/60/5/1549/382305/Life-Course-Patterns-of-Prescription-Drug-Use-in)
+- [CA Gov. Newsom vetoes bill that would have decriminalized psychedelic mushrooms](https://abcnews.go.com/US/wireStory/california-gov-gavin-newsom-vetoes-bill-decriminalized-psychedelic-103810533)
+- [Cats Are Perfect. An Evolutionary Biologist Explains Why](https://www.scientificamerican.com/article/cats-are-perfect-an-evolutionary-biologist-explains-why/)
 - [World&#39;s fastest sailboat: Two wild designs hit the water for testing](https://newatlas.com/marine/syroco-sp80-testing/)
-- [Indoor wood burning raises women’s lung cancer risk by 43%](https://www.sciencedirect.com/science/article/pii/S0160412023004014)
-- [Strong evidence is common &lpar;2021&rpar;](https://markxu.com/strong-evidence)
-- [Contour: Modern and Fast Terminal Emulator](https://github.com/contour-terminal/contour)
 <!-- BLOG-POST-LIST:END -->
 
 ---
