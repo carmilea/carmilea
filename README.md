@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ukraine&#39;s creative fighters are changing the face of warfarer](https://www.realcleardefense.com/articles/2023/10/07/ukraine_reminds_us_necessity_is_still_the_mother_of_invention_984556.html)
+- [Questions to ask a teenager to start an important conversation](https://www.theguardian.com/lifeandstyle/2023/oct/07/10-questions-to-ask-a-teenager-to-start-an-important-conversation)
+- [A new basic taste joins sweet, salty, sour, bitter and umami](https://newatlas.com/biology/tongue-detects-ammonium-chloride-as-a-basic-taste/)
 - [A Repairman&#39;s View of Portable Minidisc Recorders &lpar;2000&rpar;](https://www.minidisc.org/repair_info.html)
-- [Does Market Timing Work?](https://www.schwab.com/learn/story/does-market-timing-work)
-- [How far did my post go on the Fediverse?](https://shkspr.mobi/blog/2023/09/how-far-did-my-post-go-on-the-fediverse/)
 - [Numbers in Various Languages](https://www.omniglot.com/language/numbers/index.htm#google_vignette)
+- [Before Skynet and The Matrix, there was Colossus: The Forbin Project](https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
