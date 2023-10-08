@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Experts warn Letby inquiry of misreading stats to explain &#39;suspicious&#39; deaths](https://www.thejusticegap.com/experts-warn-letby-inquiry-about-misinterpreting-stats-to-explain-suspicious-clusters-of-hospitals-deaths/)
+- [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
 - [Fury: 170x faster than JDK, blazing fast serialization by JIT and Zero-copy](https://github.com/alipay/fury)
-- [Questions to ask a teenager to start an important conversation](https://www.theguardian.com/lifeandstyle/2023/oct/07/10-questions-to-ask-a-teenager-to-start-an-important-conversation)
 - [How to Compete with Patreon](https://siderea.dreamwidth.org/1824441.html)
 - [A Repairman&#39;s View of Portable Minidisc Recorders &lpar;2000&rpar;](https://www.minidisc.org/repair_info.html)
-- [Does Market Timing Work?](https://www.schwab.com/learn/story/does-market-timing-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
