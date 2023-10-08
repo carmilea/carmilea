@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Indoor wood burning raises women’s lung cancer risk by 43%](https://www.sciencedirect.com/science/article/pii/S0160412023004014)
 - [Strong Evidence Is Common](https://markxu.com/strong-evidence)
 - [Contour: Modern and Fast Terminal Emulator](https://github.com/contour-terminal/contour)
-- [The big business of bachelorette party buses](https://thehustle.co/the-big-business-of-bachelorette-party-buses/)
-- [Stephen Fry Warns About the Dangers of Voice Clones](https://jurgengravestein.substack.com/p/stephen-fry-issues-a-stark-warning)
-- [500 Lines or Less – Writing a useful program in fewer than 500 line code – AOSA](https://aosabook.org/en/index.html#500lines)
+- [Homebrew to deprecate and add caveat for HashiCorp](https://github.com/Homebrew/homebrew-core/pull/139538)
+- [CancelQuora](https://interestingauthors.com/blog/experience/quora/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
