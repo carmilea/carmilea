@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New study definitively confirms gulf stream weakening](https://phys.org/news/2023-09-definitively-gulf-stream-weakening.html)
+- [Ferrocene – Rust for Critical Systems](https://ferrous-systems.com/ferrocene/)
 - [Mitigations=off considered harmful or spurious SIGILL on AMD Zen4](https://forum.level1techs.com/t/mitigations-off-considered-harmful-or-spurious-sigill-on-amd-zen4/202049)
+- [The NYC&#39;s MTA 20 Year Needs Assessment Reminds Us They Can&#39;t Build](https://pedestrianobservations.com/2023/10/06/the-mta-20-year-needs-assessment-reminds-us-they-cant-build/)
 - [New pipeline makes valuable organic acid from plants–saving money and emissions](https://phys.org/news/2023-10-pipeline-valuable-acid-plantssaving-money.html)
-- [The Era of Startups Is Over](https://acecreamu.substack.com/p/hard-time-for-startups)
-- [Alternative open firmware for your IP camera](https://github.com/OpenIPC)
-- [Zen 5&#39;s Leaked Slides](https://chipsandcheese.com/2023/10/08/zen-5s-leaked-slides/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
