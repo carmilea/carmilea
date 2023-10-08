@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [World EV Sales Now Equal 18% of World Auto Sales](https://cleantechnica.com/2023/10/07/world-ev-sales-now-equal-18-of-world-auto-sales/)
+- [Things I just don&#39;t like about Git](https://cohost.org/tef/post/3009746-things-i-just-don-t)
+- [World&#39;s fastest sailboat: Two wild designs hit the water for testing](https://newatlas.com/marine/syroco-sp80-testing/)
 - [Indoor wood burning raises women’s lung cancer risk by 43%](https://www.sciencedirect.com/science/article/pii/S0160412023004014)
-- [Strong Evidence Is Common](https://markxu.com/strong-evidence)
+- [Strong evidence is common &lpar;2021&rpar;](https://markxu.com/strong-evidence)
 - [Contour: Modern and Fast Terminal Emulator](https://github.com/contour-terminal/contour)
-- [Homebrew to deprecate and add caveat for HashiCorp](https://github.com/Homebrew/homebrew-core/pull/139538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
