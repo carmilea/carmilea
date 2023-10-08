@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Repairman&#39;s View of Portable Minidisc Recorders &lpar;2000&rpar;](https://www.minidisc.org/repair_info.html)
+- [Does Market Timing Work?](https://www.schwab.com/learn/story/does-market-timing-work)
+- [How far did my post go on the Fediverse?](https://shkspr.mobi/blog/2023/09/how-far-did-my-post-go-on-the-fediverse/)
+- [Numbers in Various Languages](https://www.omniglot.com/language/numbers/index.htm#google_vignette)
 - [Before Skynet and The Matrix, there was Colossus: The Forbin Project](https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie)
-- [An implantable device could enable injection-free control of diabetes](https://news.mit.edu/2023/implantable-device-enable-injection-free-control-diabetes-0918)
-- [Oil-Canning](http://livingstingy.blogspot.com/2023/08/dude-wheres-my-cybertruck.html)
-- [Organization probably doesn&#39;t want to improve things](https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/)
-- [Decomposing Language Models into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
 <!-- BLOG-POST-LIST:END -->
 
 ---
