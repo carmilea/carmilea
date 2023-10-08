@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Strong Evidence Is Common](https://markxu.com/strong-evidence)
+- [Contour: Modern and Fast Terminal Emulator](https://github.com/contour-terminal/contour)
+- [The big business of bachelorette party buses](https://thehustle.co/the-big-business-of-bachelorette-party-buses/)
+- [Stephen Fry Warns About the Dangers of Voice Clones](https://jurgengravestein.substack.com/p/stephen-fry-issues-a-stark-warning)
 - [500 Lines or Less – Writing a useful program in fewer than 500 line code – AOSA](https://aosabook.org/en/index.html#500lines)
-- [Experts warn Letby inquiry of misreading stats to explain &#39;suspicious&#39; deaths](https://www.thejusticegap.com/experts-warn-letby-inquiry-about-misinterpreting-stats-to-explain-suspicious-clusters-of-hospitals-deaths/)
-- [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
-- [Fury: 170x faster than JDK, blazing fast serialization by JIT and Zero-copy](https://github.com/alipay/fury)
-- [Questions to ask a teenager to start an important conversation](https://www.theguardian.com/lifeandstyle/2023/oct/07/10-questions-to-ask-a-teenager-to-start-an-important-conversation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
