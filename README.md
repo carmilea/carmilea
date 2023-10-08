@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New study definitively confirms gulf stream weakening](https://phys.org/news/2023-09-definitively-gulf-stream-weakening.html)
-- [Ferrocene – Rust for Critical Systems](https://ferrous-systems.com/ferrocene/)
+- [Learning Nim: Write an Interpreter [video]](https://www.youtube.com/watch?v=48CsjEFzyXQ)
+- [Amazon launches Project Kuiper satellite internet prototypes](https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html)
+- [New study confirms gulf stream weakening](https://phys.org/news/2023-09-definitively-gulf-stream-weakening.html)
 - [Mitigations=off considered harmful or spurious SIGILL on AMD Zen4](https://forum.level1techs.com/t/mitigations-off-considered-harmful-or-spurious-sigill-on-amd-zen4/202049)
-- [The NYC&#39;s MTA 20 Year Needs Assessment Reminds Us They Can&#39;t Build](https://pedestrianobservations.com/2023/10/06/the-mta-20-year-needs-assessment-reminds-us-they-cant-build/)
-- [New pipeline makes valuable organic acid from plants–saving money and emissions](https://phys.org/news/2023-10-pipeline-valuable-acid-plantssaving-money.html)
+- [The NYC&#39;s MTA 20 year needs assessment reminds us they can&#39;t build](https://pedestrianobservations.com/2023/10/06/the-mta-20-year-needs-assessment-reminds-us-they-cant-build/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
