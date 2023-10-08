@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How a Social Network Fails](https://www.theatlantic.com/technology/archive/2023/10/twitter-x-decline-negative-user-experience/675570/)
+- [When 80 percent of US generals go to work for arms makers](https://responsiblestatecraft.org/pentagon-revolving-door/)
+- [Organization Probably Doesn&#39;t Want to Improve Things](https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/)
 - [Decomposing Language Models into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
 - [Newsom vetoes a proposed ban on caste discrimination in California](https://www.politico.com/news/2023/10/07/newsom-veto-caste-discrimination-00120495)
-- [Internet traffic impacted in Palestine after attacks. Some ISPs are offline](https://twitter.com/CloudflareRadar/status/1710796767288021225?s=20)
-- [Amazon launches its Bedrock generative AI service in general availability](https://techcrunch.com/2023/09/28/amazon-launches-its-bedrock-generative-ai-service-in-general-availability/)
-- [Permission Slip: Consumer Reports app to take back control of your data](https://permissionslipcr.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
