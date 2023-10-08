@@ -59,8 +59,8 @@
 - [Amazon&#39;s Alexa Telling Users That 2020 Election Was Rigged](https://themessenger.com/news/ai-alert-alexa-tells-users-2020-election-was-rigged-report)
 - [Questions to ask a teenager to start an important conversation](https://www.theguardian.com/lifeandstyle/2023/oct/07/10-questions-to-ask-a-teenager-to-start-an-important-conversation)
 - [How to Compete with Patreon](https://siderea.dreamwidth.org/1824441.html)
-- [A new basic taste joins sweet, salty, sour, bitter and umami](https://newatlas.com/biology/tongue-detects-ammonium-chloride-as-a-basic-taste/)
 - [A Repairman&#39;s View of Portable Minidisc Recorders &lpar;2000&rpar;](https://www.minidisc.org/repair_info.html)
+- [Does Market Timing Work?](https://www.schwab.com/learn/story/does-market-timing-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
