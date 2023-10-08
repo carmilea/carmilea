@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thousands of young people are fleeing Toronto, economists: city will suffer](https://www.thestar.com/business/thousands-of-young-people-are-fleeing-toronto-economists-say-the-city-will-suffer-because-of/article_1bd938b4-246d-5b24-b0ac-20960d216f30.html)
-- [Why I can no longer recommend a Mac to fellow blind computer users](https://www.applevis.com/blog/we-deserve-better-apple-why-i-can-no-longer-recommend-mac-fellow-blind-computer-users)
-- [Learning Nim: Write an Interpreter [video]](https://www.youtube.com/watch?v=48CsjEFzyXQ)
-- [Amazon launches Project Kuiper satellite internet prototypes](https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html)
-- [New study confirms gulf stream weakening](https://phys.org/news/2023-09-definitively-gulf-stream-weakening.html)
+- [Forty Years of Programming](https://fabiensanglard.net/40/index.html)
+- [US moves closer to underground testing of nuclear weapons without any explosions](https://qz.com/us-moves-closer-to-underground-testing-of-nuclear-weapo-1850904934)
+- [Projects Innovating Around RISC-V](https://thechipletter.substack.com/p/seven-projects-innovating-around)
+- [Demo-Driven Development &lpar;2021&rpar;](https://www.rubick.com/demo-driven-development/)
+- [Thousands of young people are fleeing Toronto – economists say city will suffer](https://www.thestar.com/business/thousands-of-young-people-are-fleeing-toronto-economists-say-the-city-will-suffer-because-of/article_1bd938b4-246d-5b24-b0ac-20960d216f30.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
