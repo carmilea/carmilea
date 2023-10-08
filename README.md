@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon&#39;s Alexa Telling Users That 2020 Election Was Rigged](https://themessenger.com/news/ai-alert-alexa-tells-users-2020-election-was-rigged-report)
 - [Questions to ask a teenager to start an important conversation](https://www.theguardian.com/lifeandstyle/2023/oct/07/10-questions-to-ask-a-teenager-to-start-an-important-conversation)
+- [How to Compete with Patreon](https://siderea.dreamwidth.org/1824441.html)
 - [A new basic taste joins sweet, salty, sour, bitter and umami](https://newatlas.com/biology/tongue-detects-ammonium-chloride-as-a-basic-taste/)
 - [A Repairman&#39;s View of Portable Minidisc Recorders &lpar;2000&rpar;](https://www.minidisc.org/repair_info.html)
-- [Numbers in Various Languages](https://www.omniglot.com/language/numbers/index.htm#google_vignette)
-- [Before Skynet and The Matrix, there was Colossus: The Forbin Project](https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
