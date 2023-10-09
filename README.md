@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Made Billions with Secret Change to Ad-Auction Algorithm](https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html)
-- [Financial anxiety: The alarming side effect of inflation](https://www.bbc.com/worklife/article/20231005-financial-anxiety-the-alarming-side-effect-of-inflation)
-- [Safe AI Image Generation](https://www.smbc-comics.com/comic/generation)
-- [Apple Plans Smaller, Lighter Vision Headset; Meta Works on Cheaper Quest 3](https://www.bloomberg.com/news/newsletters/2023-10-08/apple-plans-smaller-lighter-vision-headset-meta-works-on-cheaper-quest-3-ar-lnhh1ulx)
-- [Modeling CRDTs in Alloy – the importance of idempotence](https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/)
+- [The pivot table, the spreadsheet&#39;s most powerful tool &lpar;2020&rpar;](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)
+- [Lawmakers shift gears on TikTok ban](https://www.politico.com/news/2023/10/09/what-happened-to-the-tiktok-ban-00120434)
+- [Announcing Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)
+- [Are logos all starting to look the same?](https://www.creativebloq.com/news/logos-look-the-same)
+- [Mortal Computers](https://gonzoml.substack.com/p/mortal-computers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
