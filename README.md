@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark&lpar;&rpar;](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/)
+- [Study finds the gulf stream is warming and shifting closer to shore](https://www.whoi.edu/press-room/news-release/gulf-stream-is-warming-and-shifting/)
+- [Brother Printers Sending Ink Data to Amazon?](https://news.ycombinator.com/item?id=37825653)
 - [John Riccitiello steps down as CEO of Unity after pricing battle](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/)
-- [You probably shouldn&#39;t use a lookup table &lpar;2022&rpar;](https://specbranch.com/posts/lookup-tables/)
-- [Extreme Parkour with Legged Robots](https://extreme-parkour.github.io/)
-- [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
-- [Feds find &quot;substantial&#39;&#39; safety issue at SC nuclear plant](https://www.thestate.com/news/local/environment/article280228714.html)
+- [The Handbook of Rationality – MIT Press](https://direct.mit.edu/books/oa-edited-volume/5525/The-Handbook-of-Rationality)
 <!-- BLOG-POST-LIST:END -->
 
 ---
