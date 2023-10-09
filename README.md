@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 Nobel Prize in economics awarded to Claudia Goldin](https://www.nobelprize.org/prizes/economic-sciences/2023/press-release/)
+- [Stream Compression in NATS](https://qaze.app/blog/nats-stream-compression/)
+- [NixOS and Flakes Book: An unofficial book for beginners &lpar;free&rpar;](https://nixos-and-flakes.thiscute.world/)
 - [Ardour 8.0](https://ardour.org/whatsnew.html#)
-- [Show HN: I made a all-in-one web app to help me with my freelance admin tasks](https://momo.coach/index.html)
-- [Streaming service DAZN took almost five years to answer a simple access request](https://noyb.eu/en/streaming-service-dazn-took-almost-five-years-answer-simple-access-request)
-- [Blackmagic Camera for iPhone](https://www.blackmagicdesign.com/products/blackmagiccamera)
-- [Why &lpar;and How&rpar; I Write Code with Pencil and Paper](https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/)
+- [We migrated to SQL. Our biggest learning? Don&#39;t use Prisma](https://codedamn.com/news/product/dont-use-prisma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
