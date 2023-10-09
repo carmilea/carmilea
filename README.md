@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Argentina&#39;s Senate Approves Bill to Eliminate Income Tax](https://www.bloomberglinea.com/english/argentinas-senate-approves-bill-to-eliminate-income-tax/)
-- [Show HN: Baa the LLM client https://baarilliant.ai](https://reflect.site/g/baarilliant/baa-features-and-roadmap/41a6fcf7f9784ef2aae560fd89260613)
-- [Autopay Is Making Us Worse at Managing Credit-Card Bills](https://www.wsj.com/personal-finance/autopay-money-management-credit-cards-c546b62c)
-- [Asks HN: Solo founders-How to respond when customers ask how big is your company](https://news.ycombinator.com/item?id=37821939)
-- [DNS record &quot;hn.algolia.com&quot; is gone](https://www.nslookup.io/domains/hn.algolia.com/dns-records/)
+- [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
+- [Feds find &quot;substantial&#39;&#39; safety issue at SC nuclear plant](https://www.thestate.com/news/local/environment/article280228714.html)
+- [Stop Using Char in Java. and Code Points](https://horstmann.com/unblog/2023-10-03/index.html)
+- [Linuxatemyram.com](https://www.linuxatemyram.com/)
+- [Medieval staircases were not built going clockwise for the defender&#39;s advantage](https://fakehistoryhunter.net/2023/10/09/medieval-staircases-were-not-built-going-clockwise-for-the-defenders-advantage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
