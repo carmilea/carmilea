@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2023 Nobel Prize in economics awarded to Claudia Goldin](https://www.nobelprize.org/prizes/economic-sciences/2023/press-release/)
-- [Stream Compression in NATS](https://qaze.app/blog/nats-stream-compression/)
-- [NixOS and Flakes Book: An unofficial book for beginners &lpar;free&rpar;](https://nixos-and-flakes.thiscute.world/)
-- [Ardour 8.0](https://ardour.org/whatsnew.html#)
-- [We migrated to SQL. Our biggest learning? Don&#39;t use Prisma](https://codedamn.com/news/product/dont-use-prisma)
+- [The Prosecutor&#39;s Fallacy &lpar;2018&rpar;](https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy)
+- [ZeroMQ – Relicense from LGPL3 and exceptions to MPL 2.0](https://github.com/zeromq/libzmq/pull/4555)
+- [Zimaboard: The closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
+- [Warp drive&#39;s best hope dies, as antimatter falls down](https://bigthink.com/starts-with-a-bang/warp-drives-best-hope-dies/)
+- [UK Postal Address Oddities &lpar;2018&rpar;](https://paulplowman.com/stuff/uk-address-oddities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
