@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [HTTPie Desktop: cross-platform API testing client for humans](https://github.com/httpie/desktop)
+- [Coinbase Outage](https://status.coinbase.com/)
 - [Impacts of Lack of Sleep](https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html)
 - [Review of the .nz DNSSEC Chain Validation Incident on 29-30 May 2023 [pdf]](https://internetnz.nz/assets/Archives/External-report-on-nz-DNSSEC-chain-validation-incident-on-May-2023.pdf)
 - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
-- [Self-Hosting &lpar;Almost&rpar; All the Way Down [video]](https://archive.fosdem.org/2023/schedule/event/rv_selfhosting_all_the_way_down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
