@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ardour 8.0 released](https://ardour.org/whatsnew.html#)
+- [Streaming service DAZN took almost five years to answer a simple access request](https://noyb.eu/en/streaming-service-dazn-took-almost-five-years-answer-simple-access-request)
 - [Blackmagic Camera for iPhone](https://www.blackmagicdesign.com/products/blackmagiccamera)
 - [Why &lpar;and How&rpar; I Write Code with Pencil and Paper](https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/)
 - [Flexoki, an inky color scheme for prose and code](https://stephango.com/flexoki)
-- [Lenovo exec promises 80% of its devices will be consumer-repairable by 2025](https://www.theverge.com/2023/10/6/23884108/lenovo-consumer-repair-pcs-serviceability-framework)
-- [Language Agent Tree Search Unifies Reasoning Acting and Planning in LMs](https://arxiv.org/abs/2310.04406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
