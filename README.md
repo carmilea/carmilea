@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
+- [Unity Announces Leadership Transition](https://investors.unity.com/news/news-details/2023/Unity-Announces-Leadership-Transition/default.aspx)
+- [Egyptian banks suspend debit card use in foreign currency](https://www.reuters.com/markets/currencies/egyptian-banks-suspend-debit-card-use-foreign-currency-2023-10-05/)
 - [The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark&lpar;&rpar;](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/)
-- [Study finds the gulf stream is warming and shifting closer to shore](https://www.whoi.edu/press-room/news-release/gulf-stream-is-warming-and-shifting/)
-- [Brother Printers Sending Ink Data to Amazon?](https://news.ycombinator.com/item?id=37825653)
-- [John Riccitiello steps down as CEO of Unity after pricing battle](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/)
-- [The Handbook of Rationality – MIT Press](https://direct.mit.edu/books/oa-edited-volume/5525/The-Handbook-of-Rationality)
+- [Ask HN: Brother printers sending ink data to Amazon?](https://news.ycombinator.com/item?id=37825653)
 <!-- BLOG-POST-LIST:END -->
 
 ---
