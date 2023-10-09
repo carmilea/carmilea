@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney&#39;s Loki faces backlash over reported use of generative AI](https://www.theverge.com/2023/10/9/23909529/disney-marvel-loki-generative-ai-poster-backlash-season-2)
 - [The Prosecutor&#39;s Fallacy &lpar;2018&rpar;](https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy)
 - [ZeroMQ – Relicense from LGPL3 and exceptions to MPL 2.0](https://github.com/zeromq/libzmq/pull/4555)
 - [Zimaboard: The closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
 - [Warp drive&#39;s best hope dies, as antimatter falls down](https://bigthink.com/starts-with-a-bang/warp-drives-best-hope-dies/)
-- [UK Postal Address Oddities &lpar;2018&rpar;](https://paulplowman.com/stuff/uk-address-oddities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
