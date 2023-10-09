@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blackmagic Camera for iPhone](https://www.blackmagicdesign.com/products/blackmagiccamera)
+- [Bill to Ban Hidden Fees in California Signed into Law](https://oag.ca.gov/news/press-releases/attorney-general-bonta%E2%80%99s-sponsored-bill-ban-hidden-fees-california-signed-law)
+- [Why &lpar;and How&rpar; I Write Code with Pencil and Paper](https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/)
+- [Flexoki, an inky color scheme for prose and code](https://stephango.com/flexoki)
 - [Lenovo exec promises 80% of its devices will be consumer-repairable by 2025](https://www.theverge.com/2023/10/6/23884108/lenovo-consumer-repair-pcs-serviceability-framework)
-- [HTTPie Desktop: cross-platform API testing client for humans](https://github.com/httpie/desktop)
-- [Impacts of Lack of Sleep](https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html)
-- [Review of the .nz DNSSEC Chain Validation Incident on 29-30 May 2023 [pdf]](https://internetnz.nz/assets/Archives/External-report-on-nz-DNSSEC-chain-validation-incident-on-May-2023.pdf)
-- [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
