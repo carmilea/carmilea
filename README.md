@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RedHat is closing their security mailing list](https://listman.redhat.com/archives/rhsa-announce/2023-October/012854.html)
-- [Forty Years of Programming](https://fabiensanglard.net/40/index.html)
-- [Metals Fuse Together in Space](https://www.spacecentre.nz/resources/facts/physics/metals-fuse.html)
-- [Projects Innovating Around RISC-V](https://thechipletter.substack.com/p/seven-projects-innovating-around)
-- [Demo-Driven Development &lpar;2021&rpar;](https://www.rubick.com/demo-driven-development/)
+- [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
+- [Self-Hosting &lpar;Almost&rpar; All the Way Down [video]](https://archive.fosdem.org/2023/schedule/event/rv_selfhosting_all_the_way_down/)
+- [MiniDisc Hacking](https://www.sharoma.com/minidisc/hacking.htm)
+- [Epic Games Sale of Bandcamp Has Left the Artist-Friendly Music Platform in Limbo](https://www.wired.com/story/epic-games-sale-bandcamp-music-platform-limbo/)
+- [Forty years of programming](https://fabiensanglard.net/40/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
