@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You &lpar;Probably&rpar; Shouldn&#39;t Use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
-- [LLMs can&#39;t self-correct in reasoning tasks, DeepMind study finds](https://bdtechtalks.com/2023/10/09/llm-self-correction-reasoning-failures/)
+- [John Riccitiello steps down as CEO of Unity after pricing battle](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/)
+- [You probably shouldn&#39;t use a lookup table &lpar;2022&rpar;](https://specbranch.com/posts/lookup-tables/)
 - [Extreme Parkour with Legged Robots](https://extreme-parkour.github.io/)
-- [EMPShield investing $1.9B with CHIPS support to build factory in Kansas](https://www.kansascommerce.gov/2023/02/governor-kelly-announces-emp-shield-plans-to-build-1-9-billion-1200-job-computer-chip-manufacturing-facility-in-coffey-county/)
 - [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
+- [Feds find &quot;substantial&#39;&#39; safety issue at SC nuclear plant](https://www.thestate.com/news/local/environment/article280228714.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
