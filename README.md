@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
-- [Feds find &quot;substantial&#39;&#39; safety issue at SC nuclear plant](https://www.thestate.com/news/local/environment/article280228714.html)
-- [Stop Using Char in Java. and Code Points](https://horstmann.com/unblog/2023-10-03/index.html)
-- [Linuxatemyram.com](https://www.linuxatemyram.com/)
-- [Medieval staircases were not built going clockwise for the defender&#39;s advantage](https://fakehistoryhunter.net/2023/10/09/medieval-staircases-were-not-built-going-clockwise-for-the-defenders-advantage/)
+- [You &lpar;Probably&rpar; Shouldn&#39;t Use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
+- [LLMs can&#39;t self-correct in reasoning tasks, DeepMind study finds](https://bdtechtalks.com/2023/10/09/llm-self-correction-reasoning-failures/)
+- [&#39;This Is a False Advertisement&#39;: X Ads Are Being Challenged by Reader Context](https://www.wsj.com/articles/this-is-a-false-advertisement-x-ads-are-being-challenged-by-reader-context-239ef2e6)
+- [Extreme Parkour with Legged Robots](https://extreme-parkour.github.io/)
+- [EMPShield investing $1.9B with CHIPS support to build factory in Kansas](https://www.kansascommerce.gov/2023/02/governor-kelly-announces-emp-shield-plans-to-build-1-9-billion-1200-job-computer-chip-manufacturing-facility-in-coffey-county/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
