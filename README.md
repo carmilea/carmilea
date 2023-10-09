@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney&#39;s Loki faces backlash over reported use of generative AI](https://www.theverge.com/2023/10/9/23909529/disney-marvel-loki-generative-ai-poster-backlash-season-2)
-- [The Prosecutor&#39;s Fallacy &lpar;2018&rpar;](https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy)
-- [ZeroMQ – Relicense from LGPL3 and exceptions to MPL 2.0](https://github.com/zeromq/libzmq/pull/4555)
-- [Zimaboard: The closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
-- [Warp drive&#39;s best hope dies, as antimatter falls down](https://bigthink.com/starts-with-a-bang/warp-drives-best-hope-dies/)
+- [Google Made Billions with Secret Change to Ad-Auction Algorithm](https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html)
+- [Financial anxiety: The alarming side effect of inflation](https://www.bbc.com/worklife/article/20231005-financial-anxiety-the-alarming-side-effect-of-inflation)
+- [Safe AI Image Generation](https://www.smbc-comics.com/comic/generation)
+- [Apple Plans Smaller, Lighter Vision Headset; Meta Works on Cheaper Quest 3](https://www.bloomberg.com/news/newsletters/2023-10-08/apple-plans-smaller-lighter-vision-headset-meta-works-on-cheaper-quest-3-ar-lnhh1ulx)
+- [Modeling CRDTs in Alloy – the importance of idempotence](https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
