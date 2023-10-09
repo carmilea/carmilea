@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California governor vetoes bill that would have set a $35 cap for insulin](https://www.theguardian.com/us-news/2023/oct/08/gavin-newsom-california-insulin-bill-35-dollar-cap)
+- [HTTPie Desktop: cross-platform API testing client for humans](https://github.com/httpie/desktop)
+- [Impacts of Lack of Sleep](https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html)
 - [Review of the .nz DNSSEC Chain Validation Incident on 29-30 May 2023 [pdf]](https://internetnz.nz/assets/Archives/External-report-on-nz-DNSSEC-chain-validation-incident-on-May-2023.pdf)
 - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
 - [Self-Hosting &lpar;Almost&rpar; All the Way Down [video]](https://archive.fosdem.org/2023/schedule/event/rv_selfhosting_all_the_way_down/)
-- [MiniDisc Hacking](https://www.sharoma.com/minidisc/hacking.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
