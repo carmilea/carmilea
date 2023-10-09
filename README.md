@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Argentina&#39;s Senate Approves Bill to Eliminate Income Tax](https://www.bloomberglinea.com/english/argentinas-senate-approves-bill-to-eliminate-income-tax/)
+- [Show HN: Baa the LLM client https://baarilliant.ai](https://reflect.site/g/baarilliant/baa-features-and-roadmap/41a6fcf7f9784ef2aae560fd89260613)
+- [Autopay Is Making Us Worse at Managing Credit-Card Bills](https://www.wsj.com/personal-finance/autopay-money-management-credit-cards-c546b62c)
+- [Asks HN: Solo founders-How to respond when customers ask how big is your company](https://news.ycombinator.com/item?id=37821939)
 - [DNS record &quot;hn.algolia.com&quot; is gone](https://www.nslookup.io/domains/hn.algolia.com/dns-records/)
-- [The pivot table, the spreadsheet&#39;s most powerful tool &lpar;2020&rpar;](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)
-- [Lawmakers shift gears on TikTok ban](https://www.politico.com/news/2023/10/09/what-happened-to-the-tiktok-ban-00120434)
-- [Announcing Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)
-- [Text Showdown: Gap Buffers vs. Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
