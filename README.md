@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California mandates VC firms to release investments&#39; diversity information](https://techcrunch.com/2023/10/09/california-passes-law-mandating-vc-firms-to-release-investments-diversity-information/)
+- [Mercedes-Benz eActros 600 e-truck](https://www.mercedes-benz-trucks.com/en_GB/emobility/world/our-offer.html)
 - [HAProxy is not affected by the HTTP/2 Rapid Reset Attack &lpar;CVE-2023-44487&rpar;](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
 - [Show HN: I learned to code and built a crypto analytics platform all by myself](https://www.tradingdigits.io/)
 - [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
-- [You can buy teeth online](https://www.toothantique.com/)
-- [Thought Propagation: An Analogical Approach to Complex Reasoning with LLMs](https://paperswithcode.com/paper/thought-propagation-an-analogical-approach-to)
 <!-- BLOG-POST-LIST:END -->
 
 ---
