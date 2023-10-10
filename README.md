@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI hype is built on high test scores. Those tests are flawed](https://www.technologyreview.com/2023/08/30/1078670/large-language-models-arent-people-lets-stop-testing-them-like-they-were/)
-- [Do you make over 20k a month?](https://old.reddit.com/r/Entrepreneur/comments/173b8jh/do_you_make_over_20k_a_month/)
-- [350,757 coin flips show coins tend to land the same-side up they started](https://arxiv.org/abs/2310.04153)
-- [Ask HN: How do you tell if something has a keylogger implemented](https://news.ycombinator.com/item?id=37829787)
-- [The Rent Is Too Damn Algorithmic](https://washingtoncitypaper.com/article/631461/the-rent-is-too-damn-algorithmic/)
+- [Lego MRI Scanners donated to hospitals to help children cope with anxiety &lpar;2022&rpar;](https://www.lego.com/en-us/aboutus/news/2022/february/lego-foundation-donation-mri)
+- [Samsung expected to report 80% profit plunge as losses mount at chip business](https://www.cnbc.com/2023/10/10/samsung-earnings-preview-q3-2023-chip-losses-weigh-on-profit.html)
+- [Show HN: REST Alternative to GraphQL and tRPC](https://openapistack.co/docs/intro/)
+- [Wayfire &lpar;a Wayland compositor&rpar; 0.8.0 announcement](https://wayfire.org/2023/10/07/Wayfire-0-8.html)
+- [C uses &quot;&amp;&quot; for the address-operator because &#39;ampersand sounds like &quot;address&quot;&#39;](https://softwareengineering.stackexchange.com/questions/252023/why-does-c-use-the-asterisk-for-pointers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
