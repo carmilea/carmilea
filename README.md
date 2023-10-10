@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitten by the black box of iCloud](https://sixcolors.com/post/2023/10/bitten-by-the-black-box-of-icloud/)
+- [No Revenge for Nerds? Evaluating the Careers of Ivy League Athletes](https://www.nber.org/papers/w31753)
+- [ECC RAM on AMD Ryzen 7000 Desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
 - [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
-- [Unity Announces Leadership Transition](https://investors.unity.com/news/news-details/2023/Unity-Announces-Leadership-Transition/default.aspx)
-- [Egyptian banks suspend debit card use in foreign currency](https://www.reuters.com/markets/currencies/egyptian-banks-suspend-debit-card-use-foreign-currency-2023-10-05/)
 - [The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark&lpar;&rpar;](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/)
-- [Ask HN: Brother printers sending ink data to Amazon?](https://news.ycombinator.com/item?id=37825653)
 <!-- BLOG-POST-LIST:END -->
 
 ---
