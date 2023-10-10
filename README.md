@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Building a 42-inch E-Ink frame for generative art](https://eliot.blog/e-ink-frame)
-- [Engineered material can reconnect severed nerves](https://news.rice.edu/news/2023/rice-engineered-material-can-reconnect-severed-nerves)
-- [US sues eBay for allowing sale of emissions defeat devices](https://www.thedrive.com/news/us-sues-ebay-for-allowing-sale-of-more-than-300000-emissions-defeat-devices)
-- [A universal EDR bypass built in Windows 10](https://www.riskinsight-wavestone.com/en/2023/10/a-universal-edr-bypass-built-in-windows-10/)
-- [Official CLI Tool for the Internet Archive](https://archive.org/developers/internetarchive/cli.html)
+- [HAProxy is not affected by the HTTP/2 Rapid Reset Attack &lpar;CVE-2023-44487&rpar;](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
+- [Show HN: I learned to code and built a crypto analytics platform all by myself](https://www.tradingdigits.io/)
+- [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
+- [You can buy teeth online](https://www.toothantique.com/)
+- [Thought Propagation: An Analogical Approach to Complex Reasoning with LLMs](https://paperswithcode.com/paper/thought-propagation-an-analogical-approach-to)
 <!-- BLOG-POST-LIST:END -->
 
 ---
