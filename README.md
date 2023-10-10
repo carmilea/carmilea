@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitten by the black box of iCloud](https://sixcolors.com/post/2023/10/bitten-by-the-black-box-of-icloud/)
-- [No Revenge for Nerds? Evaluating the Careers of Ivy League Athletes](https://www.nber.org/papers/w31753)
 - [ECC RAM on AMD Ryzen 7000 Desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
+- [Stop EU Chat Control](https://stopchatcontrol.eu/)
 - [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
 - [The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark&lpar;&rpar;](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/)
+- [John Riccitiello steps down as CEO of Unity](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
