@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Movie Piracy Is Strongly Linked to Box Office Revenue](https://torrentfreak.com/movie-piracy-is-strongly-linked-to-box-office-revenue-231009/)
+- [Valve Says Counter-Strike 2 for macOS Not Happening, There Aren&#39;t Enough Players](https://www.macrumors.com/2023/10/10/valve-confirms-counter-strike-2-no-macos/)
+- [Ask HN: Best tools for self-authoring books in 2023?](https://news.ycombinator.com/item?id=37831175)
 - [Google mitigated the largest DDoS attack to date, peaking above 398M rps](https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/)
 - [HTTP/2 Rapid Reset: deconstructing the record-breaking attack](https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/)
-- [HTTP/2 Zero-Day Vulnerability Results in Record-Breaking DDoS Attacks](https://blog.cloudflare.com/zero-day-rapid-reset-http2-record-breaking-ddos-attack/)
-- [Lego MRI Scanners donated to hospitals to help children cope with anxiety &lpar;2022&rpar;](https://www.lego.com/en-us/aboutus/news/2022/february/lego-foundation-donation-mri)
-- [In First, Archaeologists Extract DNA of Ancient Israelites](https://www.haaretz.com/archaeology/2023-10-09/ty-article/in-first-archaeologists-extract-dna-of-ancient-israelites/0000018b-138a-d2fc-a59f-d39b21fd0000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
