@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Netflix Really Uses Java](https://www.infoq.com/news/2023/10/java-at-netflix-bakker/)
 - [Handle.com &lpar;YC W19&rpar; Is Hiring an ABM Manager](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 - [Chuck Feeney has died](https://www.cnn.com/2023/10/09/business/billionaire-duty-free-shoppers-founder-charles-feeney-dead/index.html)
 - [Firefox tooltip bug fixed after 22 years](https://bugzilla.mozilla.org/show_bug.cgi?id=148624)
-- [Canada plans to regulate search and social media use of AI](https://www.michaelgeist.ca/2023/10/canada-plans-to-regulate-search-and-social-media-use-of-artificial-intelligence-for-content-moderation-and-discoverability/)
 - [Google wins reprieve from $32M verdict in Sonos patent fight](https://www.reuters.com/legal/litigation/google-wins-reprieve-325-mln-verdict-sonos-patent-fight-2023-10-09/)
 <!-- BLOG-POST-LIST:END -->
 
