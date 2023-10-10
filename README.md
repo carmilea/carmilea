@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California mandates VC firms to release investments&#39; diversity information](https://techcrunch.com/2023/10/09/california-passes-law-mandating-vc-firms-to-release-investments-diversity-information/)
-- [Mercedes-Benz eActros 600 e-truck](https://www.mercedes-benz-trucks.com/en_GB/emobility/world/our-offer.html)
-- [HAProxy is not affected by the HTTP/2 Rapid Reset Attack &lpar;CVE-2023-44487&rpar;](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
-- [Show HN: I learned to code and built a crypto analytics platform all by myself](https://www.tradingdigits.io/)
+- [Polymathic AI](https://polymathic-ai.org/blog/announcement/)
+- [California becomes first US state to ban 4 potentially harmful chemicals in food](https://www.cnn.com/2023/10/09/health/california-governor-bans-red-dye-no-3-wellness/index.html)
+- [HAProxy is not affected by the HTTP/2 Rapid Reset Attack](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
 - [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
+- [Thought Propagation: An analogical approach to complex reasoning with LLMs](https://paperswithcode.com/paper/thought-propagation-an-analogical-approach-to)
 <!-- BLOG-POST-LIST:END -->
 
 ---
