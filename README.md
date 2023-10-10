@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google mitigated the largest DDoS attack to date, peaking above 398M rps](https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/)
+- [HTTP/2 Rapid Reset: deconstructing the record-breaking attack](https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/)
+- [HTTP/2 Zero-Day Vulnerability Results in Record-Breaking DDoS Attacks](https://blog.cloudflare.com/zero-day-rapid-reset-http2-record-breaking-ddos-attack/)
 - [Lego MRI Scanners donated to hospitals to help children cope with anxiety &lpar;2022&rpar;](https://www.lego.com/en-us/aboutus/news/2022/february/lego-foundation-donation-mri)
-- [Samsung expected to report 80% profit plunge as losses mount at chip business](https://www.cnbc.com/2023/10/10/samsung-earnings-preview-q3-2023-chip-losses-weigh-on-profit.html)
-- [Show HN: REST Alternative to GraphQL and tRPC](https://openapistack.co/docs/intro/)
-- [Wayfire &lpar;a Wayland compositor&rpar; 0.8.0 announcement](https://wayfire.org/2023/10/07/Wayfire-0-8.html)
-- [C uses &quot;&amp;&quot; for the address-operator because &#39;ampersand sounds like &quot;address&quot;&#39;](https://softwareengineering.stackexchange.com/questions/252023/why-does-c-use-the-asterisk-for-pointers)
+- [In First, Archaeologists Extract DNA of Ancient Israelites](https://www.haaretz.com/archaeology/2023-10-09/ty-article/in-first-archaeologists-extract-dna-of-ancient-israelites/0000018b-138a-d2fc-a59f-d39b21fd0000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
