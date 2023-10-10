@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI girlfriend encouraged man to attempt crossbow assassination of Queen](https://www.theregister.com/2023/10/06/ai_chatbot_kill_queen/)
-- [First of its kind material can reconnect severed nerves](https://news.rice.edu/news/2023/rice-engineered-material-can-reconnect-severed-nerves)
+- [Show HN: Building a 42-inch E-Ink frame for generative art](https://eliot.blog/e-ink-frame)
+- [Engineered material can reconnect severed nerves](https://news.rice.edu/news/2023/rice-engineered-material-can-reconnect-severed-nerves)
 - [US sues eBay for allowing sale of emissions defeat devices](https://www.thedrive.com/news/us-sues-ebay-for-allowing-sale-of-more-than-300000-emissions-defeat-devices)
 - [A universal EDR bypass built in Windows 10](https://www.riskinsight-wavestone.com/en/2023/10/a-universal-edr-bypass-built-in-windows-10/)
-- [Lit 3 Release Announcement](https://lit.dev/blog/2023-10-10-lit-3.0/)
+- [Official CLI Tool for the Internet Archive](https://archive.org/developers/internetarchive/cli.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
