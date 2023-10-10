@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2000Ad announces retirement of John M. Burns](https://2000ad.com/news/no-more-robots-no-more-trains-2000-ad-wishes-a-very-happy-retirement-to-the-legendary-john-m-burns/)
+- [Google announces passwordless by default: Make the switch to passkeys](https://blog.google/technology/safety-security/passkeys-default-google-accounts/)
+- [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/)
 - [Google Kubernetes Engine incident spanning 9 days](https://status.cloud.google.com/incidents/WMmjrixdPfBGFKCohYGd#Z6wKuSfovJCG51wpbwiB)
-- [GitHub Copilot Loses an Average of $20 per User per Month](https://www.thurrott.com/cloud/290661/report-github-copilot-loses-an-average-of-20-per-user-per-month)
-- [Movie piracy is strongly linked to box office revenue](https://torrentfreak.com/movie-piracy-is-strongly-linked-to-box-office-revenue-231009/)
-- [Small-scale magnetism leads to large-scale solar atmosphere](https://www.esa.int/ESA_Multimedia/Images/2023/10/Small-scale_magnetism_leads_to_large-scale_solar_atmosphere)
-- [Show HN: Building an app to l earn languages with short stories](https://purplehoisin.com/building-an-app-to-learn-languages-with-short-stories/)
+- [Before psychedelic therapy for wartime trauma, there was narcosynthesis](https://resobscura.substack.com/p/before-psychedelic-therapy-narcosynthesis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
