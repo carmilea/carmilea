@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI hype is built on high test scores. Those tests are flawed](https://www.technologyreview.com/2023/08/30/1078670/large-language-models-arent-people-lets-stop-testing-them-like-they-were/)
+- [Do you make over 20k a month?](https://old.reddit.com/r/Entrepreneur/comments/173b8jh/do_you_make_over_20k_a_month/)
+- [350,757 coin flips show coins tend to land the same-side up they started](https://arxiv.org/abs/2310.04153)
+- [Ask HN: How do you tell if something has a keylogger implemented](https://news.ycombinator.com/item?id=37829787)
 - [The Rent Is Too Damn Algorithmic](https://washingtoncitypaper.com/article/631461/the-rent-is-too-damn-algorithmic/)
-- [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
-- [How Netflix Really Uses Java](https://www.infoq.com/news/2023/10/java-at-netflix-bakker/)
-- [A real-time 3D digital map of Tokyo&#39;s public transport system](https://minitokyo3d.com)
-- [Handle.com &lpar;YC W19&rpar; Is Hiring an ABM Manager](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
