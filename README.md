@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Finnish president says undersea pipeline, cables damaged by &#39;external activity&#39;](https://apnews.com/article/finland-estonia-pipeline-24d6623cf2778464fdb4ef1d85c70d91)
-- [Intermediate Graphics Library, a cross-platform GPU abstraction library by Meta](https://github.com/facebook/igl)
-- [2000Ad announces retirement of John M. Burns](https://2000ad.com/news/no-more-robots-no-more-trains-2000-ad-wishes-a-very-happy-retirement-to-the-legendary-john-m-burns/)
-- [HyperAttention: Long-Context Attention in Near-Linear Time[pdf]](https://arxiv.org/abs/2310.05869)
-- [ElevenLabs Launches Voice Translation Tool to Break Down Language Barriers](https://elevenlabs.io/blog/elevenlabs-launches-voice-translation-tool-to-break-down-language-barriers-for-content/)
+- [Lit 3 Release Announcement](https://lit.dev/blog/2023-10-10-lit-3.0/)
+- [A universal EDR bypass built in Windows 10](https://www.riskinsight-wavestone.com/en/2023/10/a-universal-edr-bypass-built-in-windows-10/)
+- [Ask HN: SaaS Founders, What 3 advice would you give your younger selves?](https://news.ycombinator.com/item?id=37834908)
+- [Differences from Psycopg2](https://www.psycopg.org/psycopg3/docs/basic/from_pg2.html)
+- [Official CLI Tool for the Internet Archive](https://archive.org/developers/internetarchive/cli.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
