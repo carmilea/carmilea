@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT and other AI tools could disrupt scientific publishing](https://www.nature.com/articles/d41586-023-03144-w)
+- [Newly discovered Terry Pratchett stories published](https://www.theguardian.com/books/2023/oct/11/a-stroke-of-the-pen-by-terry-pratchett-review-newly-discovered-early-stories)
+- [Twenty-five open-source network emulators and simulators you can use in 2023](https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/)
+- [Coordinated Disclosure: 1-Click RCE on Gnome &lpar;CVE-2023-43641&rpar;](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/)
 - [You can now hail an Uber without the Uber app](https://www.businessinsider.com/how-to-request-schedule-uber-ride-over-the-phone-2023-5)
-- [RFC 1925: The Twelve Networking Truths &lpar;1996&rpar;](https://www.rfc-editor.org/rfc/rfc1925)
-- [How I Made a Heap Overflow in Curl](https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/)
-- [&quot;MP3 is dead&quot; missed the real, much better story &lpar;2017&rpar;](https://marco.org/2017/05/15/mp3-isnt-dead)
-- [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
