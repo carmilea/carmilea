@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Security pros question EU zero-day rule](https://stackdiary.com/security-experts-uneasy-about-european-zero-day-law/)
 - [ChatGPT and other AI tools could disrupt scientific publishing](https://www.nature.com/articles/d41586-023-03144-w)
 - [Newly discovered Terry Pratchett stories published](https://www.theguardian.com/books/2023/oct/11/a-stroke-of-the-pen-by-terry-pratchett-review-newly-discovered-early-stories)
 - [Twenty-five open-source network emulators and simulators you can use in 2023](https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/)
 - [Coordinated Disclosure: 1-Click RCE on Gnome &lpar;CVE-2023-43641&rpar;](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/)
-- [You can now hail an Uber without the Uber app](https://www.businessinsider.com/how-to-request-schedule-uber-ride-over-the-phone-2023-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
