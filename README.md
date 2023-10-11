@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Deep Link Equating Math Proofs and Computer Programs](https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/)
+- [Bad Speech](https://amadeuspagel.com/p/bad-speech)
+- [People are happier in a walkable neighborhood: the US community that banned cars](https://www.theguardian.com/cities/2023/oct/11/culdesac-car-free-neighborhood-tempe-arizona)
+- [RIAA Reports AI Vocal Cloning Site &#39;Voicify&#39; to the U.S. Government](https://torrentfreak.com/riaa-reports-ai-vocal-cloning-voicify-to-the-u-s-government-231010/)
 - [Modern Pascal is still in the race &lpar;2022&rpar;](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
-- [The acute suicide crisis among veterinarians: &#39;You&#39;re always failing somebody&#39;](https://www.bbc.com/worklife/article/20231010-the-acute-suicide-crisis-among-veterinarians-youre-always-going-to-be-failing-somebody)
-- [Farm in Kenya to produce fertilizer without using fossil fuels](https://e360.yale.edu/digest/small-green-ammonia-plant-farm-kenya)
-- [New Vulkan Documentation Website](https://docs.vulkan.org/)
-- [Bad Emacs Defaults](https://idiomdrottning.org/bad-emacs-defaults)
 <!-- BLOG-POST-LIST:END -->
 
 ---
