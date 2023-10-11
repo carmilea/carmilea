@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A case for the capacity to reason of GPT-4](https://lajili.com/posts/post-3/)
+- [New study will examine irritable bowel syndrome as long Covid symptom](https://healthsciences.arizona.edu/newsroom/news-releases/0923/new-study-will-examine-irritable-bowel-syndrome-long-covid-symptom)
+- [Beej&#39;s Guide to Network Programming &lpar;1994-2023&rpar;](https://beej.us/guide/bgnet/html/)
 - [Security pros question EU zero-day rule](https://stackdiary.com/security-experts-uneasy-about-european-zero-day-law/)
 - [Toxiproxy – simulate network and system conditions for chaos testing](https://github.com/Shopify/toxiproxy)
 - [Newly discovered Terry Pratchett stories published](https://www.theguardian.com/books/2023/oct/11/a-stroke-of-the-pen-by-terry-pratchett-review-newly-discovered-early-stories)
-- [Twenty-five open-source network emulators and simulators you can use in 2023](https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
