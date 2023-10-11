@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU says X hosts &quot;illegal content&quot; connected to Israel-Hamas war](https://twitter.com/ThierryBreton/status/1711808891757944866)
-- [&quot;We&#39;ll call it AI to sell it, Machine Learning to Build it&quot;](https://theaiunderwriter.substack.com/p/well-call-it-ai-to-sell-it-machine)
-- [Stockholm to ban petrol and diesel cars from centre from 2025](https://www.theguardian.com/world/2023/oct/11/stockholm-ban-petrol-and-diesel-cars-city-centre-2025-swedish-capital-pollution)
-- [Bookworm – the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/)
-- [&quot;Useless syntax sugar&quot;: Numbered block parameters in Ruby](https://zverok.space/blog/2023-10-11-syntax-sugar1-numeric-block-args.html)
+- [Modern Pascal is still in the race &lpar;2022&rpar;](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
+- [The acute suicide crisis among veterinarians: &#39;You&#39;re always failing somebody&#39;](https://www.bbc.com/worklife/article/20231010-the-acute-suicide-crisis-among-veterinarians-youre-always-going-to-be-failing-somebody)
+- [Farm in Kenya to produce fertilizer without using fossil fuels](https://e360.yale.edu/digest/small-green-ammonia-plant-farm-kenya)
+- [New Vulkan Documentation Website](https://docs.vulkan.org/)
+- [Bad Emacs Defaults](https://idiomdrottning.org/bad-emacs-defaults)
 <!-- BLOG-POST-LIST:END -->
 
 ---
