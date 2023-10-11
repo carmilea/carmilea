@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [K3s – Lightweight Kubernetes](https://k3s.io/)
 - [The Deep Link Equating Math Proofs and Computer Programs](https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/)
+- [The Third Place](https://en.wikipedia.org/wiki/Third_place)
 - [Bad Speech](https://amadeuspagel.com/p/bad-speech)
-- [People are happier in a walkable neighborhood: the US community that banned cars](https://www.theguardian.com/cities/2023/oct/11/culdesac-car-free-neighborhood-tempe-arizona)
-- [RIAA Reports AI Vocal Cloning Site &#39;Voicify&#39; to the U.S. Government](https://torrentfreak.com/riaa-reports-ai-vocal-cloning-voicify-to-the-u-s-government-231010/)
-- [Modern Pascal is still in the race &lpar;2022&rpar;](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
+- [Libraries with individually owned bookshelves spreading in Japan](https://www.japantimes.co.jp/culture/2023/10/03/libraries-individual-bookshelves/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
