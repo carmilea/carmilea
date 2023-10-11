@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RFC 1925: The Twelve Networking Truths &lpar;1996&rpar;](https://www.rfc-editor.org/rfc/rfc1925)
+- [How I Made a Heap Overflow in Curl](https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/)
 - [curl - SOCKS5 heap buffer overflow - CVE-2023-38545](https://curl.se/docs/CVE-2023-38545.html)
 - [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
 - [Curl/libcurl HIGH CVE-2023-38545 leaked early?](https://gitlab.com/redhat/centos-stream/rpms/curl/-/commit/0783247f07250043dceb74e426f16f9d46147163#57c8706b6a9132202629833e05fd961bfcc66836)
-- [Log is the &quot;Pro&quot; in iPhone 15 Pro](https://prolost.com/blog/applelog)
-- [Pantographia: 1799 specimen book of all the known alphabets](https://publicdomainreview.org/collection/pantographia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
