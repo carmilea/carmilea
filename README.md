@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Does employer have to tell if they&#39;re spying on you through your work computer?](https://theconversation.com/does-your-employer-have-to-tell-if-theyre-spying-on-you-through-your-work-computer-214857)
-- [Californians will be able to delete all personal online data in first-in-US law](https://www.theguardian.com/technology/2023/oct/10/california-delete-act-signed-newsom)
-- [Newsom signs bill that would make it easier to delete online personal data](https://www.latimes.com/california/story/2023-10-10/newsom-bill-delete-online-personal-data)
+- [Rep. Thomas Massie Designs ESP32 Debt Badge to Wear in Congress](https://twitter.com/RepThomasMassie/status/1711758465406808553)
 - [Log is the &quot;Pro&quot; in iPhone 15 Pro](https://prolost.com/blog/applelog)
 - [Pantographia: A Specimen Book of All the Alphabets Known on Earth &lpar;1799&rpar;](https://publicdomainreview.org/collection/pantographia/)
+- [CSS Is, in Fact, Awesome](https://css-tricks.com/css-is-in-fact-awesome/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
