@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New study will examine irritable bowel syndrome as long Covid symptom](https://healthsciences.arizona.edu/newsroom/news-releases/0923/new-study-will-examine-irritable-bowel-syndrome-long-covid-symptom)
-- [Beej&#39;s Guide to Network Programming &lpar;1994-2023&rpar;](https://beej.us/guide/bgnet/html/)
-- [Security pros question EU zero-day rule](https://stackdiary.com/security-experts-uneasy-about-european-zero-day-law/)
-- [Toxiproxy – simulate network and system conditions for chaos testing](https://github.com/Shopify/toxiproxy)
-- [Newly discovered Terry Pratchett stories published](https://www.theguardian.com/books/2023/oct/11/a-stroke-of-the-pen-by-terry-pratchett-review-newly-discovered-early-stories)
+- [EU says X hosts &quot;illegal content&quot; connected to Israel-Hamas war](https://twitter.com/ThierryBreton/status/1711808891757944866)
+- [&quot;We&#39;ll call it AI to sell it, Machine Learning to Build it&quot;](https://theaiunderwriter.substack.com/p/well-call-it-ai-to-sell-it-machine)
+- [Stockholm to ban petrol and diesel cars from centre from 2025](https://www.theguardian.com/world/2023/oct/11/stockholm-ban-petrol-and-diesel-cars-city-centre-2025-swedish-capital-pollution)
+- [Bookworm – the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/)
+- [&quot;Useless syntax sugar&quot;: Numbered block parameters in Ruby](https://zverok.space/blog/2023-10-11-syntax-sugar1-numeric-block-args.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
