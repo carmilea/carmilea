@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does employer have to tell if they&#39;re spying on you through your work computer?](https://theconversation.com/does-your-employer-have-to-tell-if-theyre-spying-on-you-through-your-work-computer-214857)
-- [Rep. Thomas Massie Designs ESP32 Debt Badge to Wear in Congress](https://twitter.com/RepThomasMassie/status/1711758465406808553)
+- [curl - SOCKS5 heap buffer overflow - CVE-2023-38545](https://curl.se/docs/CVE-2023-38545.html)
+- [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
+- [Curl/libcurl HIGH CVE-2023-38545 leaked early?](https://gitlab.com/redhat/centos-stream/rpms/curl/-/commit/0783247f07250043dceb74e426f16f9d46147163#57c8706b6a9132202629833e05fd961bfcc66836)
 - [Log is the &quot;Pro&quot; in iPhone 15 Pro](https://prolost.com/blog/applelog)
-- [Pantographia: A Specimen Book of All the Alphabets Known on Earth &lpar;1799&rpar;](https://publicdomainreview.org/collection/pantographia/)
-- [CSS Is, in Fact, Awesome](https://css-tricks.com/css-is-in-fact-awesome/)
+- [Pantographia: 1799 specimen book of all the known alphabets](https://publicdomainreview.org/collection/pantographia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
