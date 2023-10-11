@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Is, in Fact, Awesome](https://css-tricks.com/css-is-in-fact-awesome/)
+- [What I Learned About MP3 Encoding](https://braheezy.github.io/posts/what-i-learned-about-mp3-encoding/)
+- [GHC 9.8.1 has been released](https://discourse.haskell.org/t/ghc-9-8-1-is-now-available/7832)
 - [Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)
 - [Handle.com &lpar;YC W19&rpar; Is Hiring &lpar;ABM Manager&rpar;](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
-- [Geospatial data science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
-- [Going Faster by Duplicating Code](https://voidstar.tech/code_duplication/)
-- [Microsoft says VBScript will be ripped from Windows in a future release](https://www.theregister.com/2023/10/10/microsoft_says_vbscript_will_be/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
