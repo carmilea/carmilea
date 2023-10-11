@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink Direct to Cell](https://direct.starlink.com/)
 - [Google Cloud Spanner is now half the cost of Amazon DynamoDB](https://cloud.google.com/blog/products/databases/announcing-cloud-spanner-price-performance-updates)
-- [Amazon rainforest is on fire, this video was recorded by a friend.](https://www.youtube.com/watch?v=miR-kXE9uEQ)
 - [What Are the Benefits of Using SingleStoreDB as a Vector Database?](https://www.singlestore.com/blog/benefits-of-using-singlestoredb-as-a-vector-database/)
-- [Micro-AGI-JS Artificial General Intelligence for JavaScript](https://github.com/AlessandroAnnini/micro-agi-js)
 - [Origami-Inspired Screw-Based Propulsion on Mobile Ground Robots](https://arxiv.org/abs/2310.00184)
+- [How to legally pirate every font](https://blog.willdepue.com/how-to-legally-pirate-all-fonts-in-an-afternoon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
