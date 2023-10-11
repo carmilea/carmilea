@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grind – A first person shooter for Amiga 500](https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html)
+- [Handle.com &lpar;YC W19&rpar; Is Hiring &lpar;ABM Manager&rpar;](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
+- [SEC Filing – Microsoft Corporation](https://microsoft.gcs-web.com/node/31951/html)
+- [Unix Structured Concurrency](https://matklad.github.io/2023/10/11/unix-structured-concurrency.html)
 - [Show HN: Obligator – An OpenID Connect server for self-hosters](https://github.com/anderspitman/obligator)
-- [Asphalt-related emissions are a major missing source of air pollution &lpar;2020&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7467703/)
-- [British Sandwiches and Walking 300km of Wainwright&#39;s Coast to Coast](https://craigmod.com/ridgeline/167/)
-- [Awareness at Death](https://community.macmillanlearning.com/t5/talk-psych-blog/awareness-at-death/ba-p/19410)
-- [Julia leads Rust,Zig,Go and Java in data processing benchmark](https://github.com/jinyus/related_post_gen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
