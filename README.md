@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Teens Love LinkedIn](https://www.thecut.com/article/why-teenagers-love-linkedin.html)
-- [Europe gives Mark Zuckerberg 24 hours to respond about Israel-Hamas conflict](https://www.cnbc.com/2023/10/11/europe-gives-zuckerberg-24-hours-to-respond-about-israel-hamas-misinfo.html)
-- [So Far, AI Is a Money Pit That Isn&#39;t Paying Off](https://gizmodo.com/github-copilot-ai-microsoft-openai-chatgpt-1850915549)
-- [Living in privately rented homes linked to faster biological ageing, study finds](https://www.theguardian.com/society/2023/oct/10/living-in-privately-rented-homes-linked-to-faster-biological-ageing-study-finds)
+- [Google Cloud Spanner is now half the cost of Amazon DynamoDB](https://cloud.google.com/blog/products/databases/announcing-cloud-spanner-price-performance-updates)
+- [Amazon rainforest is on fire, this video was recorded by a friend.](https://www.youtube.com/watch?v=miR-kXE9uEQ)
+- [What Are the Benefits of Using SingleStoreDB as a Vector Database?](https://www.singlestore.com/blog/benefits-of-using-singlestoredb-as-a-vector-database/)
+- [Micro-AGI-JS Artificial General Intelligence for JavaScript](https://github.com/AlessandroAnnini/micro-agi-js)
 - [Origami-Inspired Screw-Based Propulsion on Mobile Ground Robots](https://arxiv.org/abs/2310.00184)
 <!-- BLOG-POST-LIST:END -->
 
