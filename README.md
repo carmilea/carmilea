@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [K3s – Lightweight Kubernetes](https://k3s.io/)
-- [The Deep Link Equating Math Proofs and Computer Programs](https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/)
-- [The Third Place](https://en.wikipedia.org/wiki/Third_place)
-- [Bad Speech](https://amadeuspagel.com/p/bad-speech)
-- [Libraries with individually owned bookshelves spreading in Japan](https://www.japantimes.co.jp/culture/2023/10/03/libraries-individual-bookshelves/)
+- [Teens Love LinkedIn](https://www.thecut.com/article/why-teenagers-love-linkedin.html)
+- [Europe gives Mark Zuckerberg 24 hours to respond about Israel-Hamas conflict](https://www.cnbc.com/2023/10/11/europe-gives-zuckerberg-24-hours-to-respond-about-israel-hamas-misinfo.html)
+- [So Far, AI Is a Money Pit That Isn&#39;t Paying Off](https://gizmodo.com/github-copilot-ai-microsoft-openai-chatgpt-1850915549)
+- [Living in privately rented homes linked to faster biological ageing, study finds](https://www.theguardian.com/society/2023/oct/10/living-in-privately-rented-homes-linked-to-faster-biological-ageing-study-finds)
+- [Origami-Inspired Screw-Based Propulsion on Mobile Ground Robots](https://arxiv.org/abs/2310.00184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
