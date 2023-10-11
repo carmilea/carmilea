@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Polymathic AI](https://polymathic-ai.org/blog/announcement/)
-- [California becomes first US state to ban 4 potentially harmful chemicals in food](https://www.cnn.com/2023/10/09/health/california-governor-bans-red-dye-no-3-wellness/index.html)
-- [HAProxy is not affected by the HTTP/2 Rapid Reset Attack](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
-- [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
-- [Thought Propagation: An analogical approach to complex reasoning with LLMs](https://paperswithcode.com/paper/thought-propagation-an-analogical-approach-to)
+- [Powering AI could use as much electricity as a small country](https://techxplore.com/news/2023-10-powering-ai-electricity-small-country.html)
+- [Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
+- [Going Faster by Duplicating Code](https://voidstar.tech/code_duplication/)
+- [JSONB – Request for evaluation and comment](https://sqlite.org/forum/forumpost/8687d4ad36)
+- [Isambard Kingdom Brunel](https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
