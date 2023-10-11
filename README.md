@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Snmalloc: A Message Passing Allocator](https://github.com/microsoft/snmalloc)
+- [AVX10/128 is a silly idea and should be removed from the specification](https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/)
+- [US citizens with permanent disabilities get free lifetime pass to National Parks](https://www.nps.gov/subjects/accessibility/interagency-access-pass.htm)
+- [Evolving ArangoDB&#39;s Licensing Model for a Sustainable Future](https://arangodb.com/2023/10/evolving-arangodbs-licensing-model-for-a-sustainable-future/)
 - [Why single-submission policies need to die &lpar;and what to do in the meantime&rpar;](https://www.nature.com/articles/d41586-023-03196-y)
-- [NASA finds water and organics in asteroid sample–possible clues to life&#39;s origin](https://arstechnica.com/space/2023/10/nasa-finds-water-and-organics-in-asteroid-sample-possible-clues-to-origin-of-life/)
-- [Grind – A first person shooter for Amiga 500](https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html)
-- [Railroad &quot;Time Zones&quot; of the United States &lpar;1868&rpar;](http://cprr.org/Museum/Ephemera/Comparative_TT_1868.html)
-- [Show HN: See library availabilities for your Goodreads want-to-read list](https://projecttbr.com/?goodreadsProfile=121455547-bella-vice-van-heyde&library=nypl,spl&format=ebook-kindle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
