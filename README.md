@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Starlink Direct to Cell](https://direct.starlink.com/)
-- [Google Cloud Spanner is now half the cost of Amazon DynamoDB](https://cloud.google.com/blog/products/databases/announcing-cloud-spanner-price-performance-updates)
-- [What Are the Benefits of Using SingleStoreDB as a Vector Database?](https://www.singlestore.com/blog/benefits-of-using-singlestoredb-as-a-vector-database/)
-- [Origami-Inspired Screw-Based Propulsion on Mobile Ground Robots](https://arxiv.org/abs/2310.00184)
-- [How to legally pirate every font](https://blog.willdepue.com/how-to-legally-pirate-all-fonts-in-an-afternoon)
+- [Show HN: Obligator – An OpenID Connect server for self-hosters](https://github.com/anderspitman/obligator)
+- [Asphalt-related emissions are a major missing source of air pollution &lpar;2020&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7467703/)
+- [British Sandwiches and Walking 300km of Wainwright&#39;s Coast to Coast](https://craigmod.com/ridgeline/167/)
+- [Awareness at Death](https://community.macmillanlearning.com/t5/talk-psych-blog/awareness-at-death/ba-p/19410)
+- [Julia leads Rust,Zig,Go and Java in data processing benchmark](https://github.com/jinyus/related_post_gen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
