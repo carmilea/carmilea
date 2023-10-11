@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Powering AI could use as much electricity as a small country](https://techxplore.com/news/2023-10-powering-ai-electricity-small-country.html)
-- [Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
+- [Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)
+- [Handle.com &lpar;YC W19&rpar; Is Hiring &lpar;ABM Manager&rpar;](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
+- [Geospatial data science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
 - [Going Faster by Duplicating Code](https://voidstar.tech/code_duplication/)
-- [JSONB – Request for evaluation and comment](https://sqlite.org/forum/forumpost/8687d4ad36)
-- [Isambard Kingdom Brunel](https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel)
+- [Microsoft says VBScript will be ripped from Windows in a future release](https://www.theregister.com/2023/10/10/microsoft_says_vbscript_will_be/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
