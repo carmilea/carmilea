@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube TV, which costs $73 a month, agrees to end &quot;$600 less than cable&quot; ads](https://arstechnica.com/tech-policy/2023/10/youtube-tv-which-costs-73-a-month-agrees-to-end-600-less-than-cable-ads/)
-- [Who Runs the Best U.S. Schools? It May Be the Defense Department](https://www.nytimes.com/2023/10/10/us/schools-pandemic-defense-department.html)
-- [The Midwit Smart Home](https://dynomight.substack.com/p/midwit-home)
-- [EU &quot;Chat Control&quot; and Mandatory Client Side Scanning](https://berthub.eu/articles/posts/client-side-scanning-dutch-parliament/)
-- [Can&#39;t Be Fucked: Underrated Cause of Tech Debt](https://jesseduffield.com/Can%27t-Be-Fcked/)
+- [T-Mobile switching users to more expensive plans unless they call to opt out](https://arstechnica.com/tech-policy/2023/10/t-mobile-switches-users-to-pricier-plans-and-tells-them-its-not-a-price-hike/)
+- [ACT test scores for U.S. students drop to a 30-year low](https://www.npr.org/2023/10/12/1205404298/act-test-scores-college-admissions-30-year-low)
+- [She&#39;s the star witness against Sam Bankman-Fried. Her testimony was explosive](https://text.npr.org/1205045583)
+- [Dracula – Dark theme for 300 apps](https://draculatheme.com)
+- [NASA&#39;s Bennu Asteroid Sample](https://www.nasa.gov/news-release/nasas-bennu-asteroid-sample-contains-carbon-water/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
