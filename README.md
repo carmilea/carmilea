@@ -57,9 +57,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [In Defense of Electricity Markets](https://austinvernon.site/blog/electricitymarkets.html)
-- [Metric Time](https://metric-time.com/)
+- [Armbian and Devuan = Armvuan](https://github.com/declassed-art/armvuan)
+- [The little-told story about the BART seat-slashing gang](https://www.sfgate.com/bayarea/article/bart-seat-slasher-hurwitz-service-systems-inc-14544785.php)
 - [How LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
-- [Ask HN: Has anyone gotten complete, permanent relief from tinnitus?](https://news.ycombinator.com/item?id=37852711)
 - [Handle.com &lpar;YC W19&rpar; Is Hiring &lpar;ABM Manager&rpar;](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 <!-- BLOG-POST-LIST:END -->
 
