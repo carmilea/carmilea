@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The data and puzzling history behind California&#39;s new red food dye ban](https://arstechnica.com/health/2023/10/common-red-food-dye-banned-in-calif-30-years-after-fda-found-cancer-risk-in-rats/)
-- [Atlassian to buy Loom for nearly $1B](https://www.reuters.com/markets/deals/atlassian-agrees-buy-video-messaging-provider-loom-nearly-1-bln-2023-10-12/)
-- [Support for Third U.S. Political Party Up to 63%](https://news.gallup.com/poll/512135/support-third-political-party.aspx)
-- [NASA: Capillary Cup](https://www.rit.edu/vignellicenter/product-timecapsule/nasa-capillary-cup)
-- [mAh Is an Industry Mistake](https://old.reddit.com/r/macbookair/comments/w2eqxs/whats_the_battery_capacity_in_mah_of_the_m2_air/)
+- [The Humans Who Live as Lab Rats](https://www.thefp.com/p/the-human-beings-who-live-as-lab)
+- [When XML in Word Became Illegal](https://blog.withedge.com/p/when-xml-in-word-became-illegal)
+- [New Entry-Level Lucid Air Pure RWD Starts at $78,675, Still with 410-Mile Range](https://www.thedrive.com/news/new-entry-level-lucid-air-pure-rwd-starts-at-78675-still-offers-410-mile-range)
+- [Show HN: I built a virtual tabletop for playing Dungeons and Dragons](https://www.diceright.com/)
+- [Major Breakthrough in the Vesuvius Challenge](https://twitter.com/natfriedman/status/1712470683207532906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
