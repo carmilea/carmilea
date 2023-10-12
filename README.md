@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
-- [Telegram Reveals Remote IP Address When Answering Calls](https://github.com/n0a/telegram-get-remote-ip)
-- [Using OpenBSD Relayd&lpar;8&rpar; as an Application Layer Gateway](https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/)
-- [Snmalloc: A Message Passing Allocator](https://github.com/microsoft/snmalloc)
-- [AVX10/128 is a silly idea and should be removed from the specification](https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/)
+- [In Defense of Electricity Markets](https://austinvernon.site/blog/electricitymarkets.html)
+- [Metric Time](https://metric-time.com/)
+- [How LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
+- [Ask HN: Has anyone gotten complete, permanent relief from tinnitus?](https://news.ycombinator.com/item?id=37852711)
+- [Handle.com &lpar;YC W19&rpar; Is Hiring &lpar;ABM Manager&rpar;](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
