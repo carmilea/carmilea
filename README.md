@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Humans Who Live as Lab Rats](https://www.thefp.com/p/the-human-beings-who-live-as-lab)
+- [Desmos 3D graphing calculator &lpar;beta&rpar;](https://www.desmos.com/3d)
+- [Woman&#39;s Experimental Bionic Hand Passes Major Test with Flying Colors](https://gizmodo.com/bionic-mia-hand-prosthetic-amputee-phantom-pain-1850919751)
+- [Want to get started with LLMs? Here&#39;s what you need to know](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know#what-are-llms)
 - [When XML in Word Became Illegal](https://blog.withedge.com/p/when-xml-in-word-became-illegal)
-- [New Entry-Level Lucid Air Pure RWD Starts at $78,675, Still with 410-Mile Range](https://www.thedrive.com/news/new-entry-level-lucid-air-pure-rwd-starts-at-78675-still-offers-410-mile-range)
 - [Show HN: I built a virtual tabletop for playing Dungeons and Dragons](https://www.diceright.com/)
-- [Major Breakthrough in the Vesuvius Challenge](https://twitter.com/natfriedman/status/1712470683207532906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
