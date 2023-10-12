@@ -57,9 +57,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Think that your plastic is being recycled? Think again](https://www.technologyreview.com/2023/10/12/1081129/plastic-recycling-climate-change-microplastics/)
+- [NASA: Capillary Cup](https://www.rit.edu/vignellicenter/product-timecapsule/nasa-capillary-cup)
 - [Millions of Homes Still Being Kept Vacant as Housing Costs Surge, Report Finds](https://www.vice.com/en/article/pkam9v/millions-of-homes-still-being-kept-vacant-as-housing-costs-surge-report-finds)
 - [Microsoft reveals IRS notice asking for $28.9B in back taxes](https://www.engadget.com/microsoft-reveals-irs-notice-asking-for-289-billion-in-back-taxes-055326006.html)
-- [IRS says Microsoft may owe more than $29B in back taxes; MSFT disagrees](https://apnews.com/article/microsoft-taxes-irs-96eb66abe86de19f1108209a8d57431a)
 - [47 Anime for 47 Prefectures in Japan](https://www.tokyoweekender.com/art_and_culture/entertainment-art_and_culture/47-anime-locations-47-prefectures-japan/)
 <!-- BLOG-POST-LIST:END -->
 
