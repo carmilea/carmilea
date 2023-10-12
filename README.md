@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft reveals IRS notice asking for $28.9B in back taxes](https://www.engadget.com/microsoft-reveals-irs-notice-asking-for-289-billion-in-back-taxes-055326006.html)
+- [IRS says Microsoft may owe more than $29B in back taxes; MSFT disagrees](https://apnews.com/article/microsoft-taxes-irs-96eb66abe86de19f1108209a8d57431a)
+- [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
 - [A Journey building a fast JSON parser and full JSONPath](https://github.com/ohler55/ojg/blob/develop/design.md)
-- [Mars helicopter to try for new speed record on Thursday](https://www.theregister.com/2023/10/12/mars_helicopter_speed_record_attempt/)
 - [In Defense of Electricity Markets](https://austinvernon.site/blog/electricitymarkets.html)
-- [Armbian and Devuan = Armvuan](https://github.com/declassed-art/armvuan)
-- [A BART seat-slashing gang that was part of an upholstery racket &lpar;2019&rpar;](https://www.sfgate.com/bayarea/article/bart-seat-slasher-hurwitz-service-systems-inc-14544785.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
