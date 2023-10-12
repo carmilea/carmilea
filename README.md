@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI is too cheap to beat](https://generatingconversation.substack.com/p/openai-is-too-cheap-to-beat)
-- [T-Mobile switches users to pricier plans](https://arstechnica.com/tech-policy/2023/10/t-mobile-switches-users-to-pricier-plans-and-tells-them-its-not-a-price-hike/)
-- [ACT test scores for U.S. students drop to a 30-year low](https://www.npr.org/2023/10/12/1205404298/act-test-scores-college-admissions-30-year-low)
-- [Show HN: I got tired of reading &quot;This posting has been deleted by its author.&quot;](https://clippings.june07.com)
-- [NASA&#39;s Bennu Asteroid Sample](https://www.nasa.gov/news-release/nasas-bennu-asteroid-sample-contains-carbon-water/)
+- [Nearly half a billion small tech items thrown away](https://www.bbc.com/news/business-67082005)
+- [ISS Rodent Habitat](https://spaceflight101.com/iss/rodent-habitat/)
+- [HTTP/2 rapid reset attack impacting Nginx products](https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/)
+- [Mitochondrial permeabilization promotes inflammation in aged cells: study](https://phys.org/news/2023-10-scientists-biological-secrets-aging.html)
+- [Has Play Protect removed KDE Connect from your phone? Let us know](https://old.reddit.com/r/kde/comments/175upzi/has_play_protect_removed_kde_connect_from_your/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
