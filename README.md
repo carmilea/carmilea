@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Think that your plastic is being recycled? Think again](https://www.technologyreview.com/2023/10/12/1081129/plastic-recycling-climate-change-microplastics/)
+- [The data and puzzling history behind California&#39;s new red food dye ban](https://arstechnica.com/health/2023/10/common-red-food-dye-banned-in-calif-30-years-after-fda-found-cancer-risk-in-rats/)
+- [Atlassian to buy Loom for nearly $1B](https://www.reuters.com/markets/deals/atlassian-agrees-buy-video-messaging-provider-loom-nearly-1-bln-2023-10-12/)
+- [Support for Third U.S. Political Party Up to 63%](https://news.gallup.com/poll/512135/support-third-political-party.aspx)
 - [NASA: Capillary Cup](https://www.rit.edu/vignellicenter/product-timecapsule/nasa-capillary-cup)
-- [Millions of Homes Still Being Kept Vacant as Housing Costs Surge, Report Finds](https://www.vice.com/en/article/pkam9v/millions-of-homes-still-being-kept-vacant-as-housing-costs-surge-report-finds)
-- [Microsoft reveals IRS notice asking for $28.9B in back taxes](https://www.engadget.com/microsoft-reveals-irs-notice-asking-for-289-billion-in-back-taxes-055326006.html)
-- [47 Anime for 47 Prefectures in Japan](https://www.tokyoweekender.com/art_and_culture/entertainment-art_and_culture/47-anime-locations-47-prefectures-japan/)
+- [mAh Is an Industry Mistake](https://old.reddit.com/r/macbookair/comments/w2eqxs/whats_the_battery_capacity_in_mah_of_the_m2_air/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
