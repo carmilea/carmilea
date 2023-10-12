@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A &#39;Doxxing Truck&#39; Displaying Students&#39; Faces Comes to Harvard&#39;s Campus](https://www.thecrimson.com/article/2023/10/12/doxxing-truck-students-israel-statement/)
 - [FastGPT](https://kagi.com/fastgpt)
-- [&quot;Full Self-Driving&quot; doesn&#39;t imply autonomy, Tesla engineer says](https://cleanenergyrevolution.co/2023/10/11/full-self-driving-doesnt-imply-autonomy-tesla-engineer-says/)
 - [Using OpenBSD Relayd&lpar;8&rpar; as an Application Layer Gateway](https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/)
-- [Kagi finally let me lay Google Search to rest](https://dannb.org/blog/2023/how-kagi-beats-google/)
 - [Snmalloc: A Message Passing Allocator](https://github.com/microsoft/snmalloc)
+- [AVX10/128 is a silly idea and should be removed from the specification](https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
