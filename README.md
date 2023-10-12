@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [A Journey building a fast JSON parser and full JSONPath](https://github.com/ohler55/ojg/blob/develop/design.md)
 - [Mars helicopter to try for new speed record on Thursday](https://www.theregister.com/2023/10/12/mars_helicopter_speed_record_attempt/)
-- [In Defense of Electricity Markets](https://austinvernon.site/blog/electricitymarkets.html)
 - [Armbian and Devuan = Armvuan](https://github.com/declassed-art/armvuan)
 - [The little-told story about the BART seat-slashing gang](https://www.sfgate.com/bayarea/article/bart-seat-slasher-hurwitz-service-systems-inc-14544785.php)
+- [How LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
