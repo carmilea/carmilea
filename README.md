@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox and Fastly take another step toward a privacy upgrade for the internet](https://www.fastly.com/blog/firefox-fastly-take-another-step-toward-security-upgrade)
+- [One game, by one man, on six platforms: The good, the bad and the ugly](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 - [Nearly half a billion small tech items thrown away](https://www.bbc.com/news/business-67082005)
 - [ISS Rodent Habitat](https://spaceflight101.com/iss/rodent-habitat/)
 - [HTTP/2 rapid reset attack impacting Nginx products](https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/)
-- [Mitochondrial permeabilization promotes inflammation in aged cells: study](https://phys.org/news/2023-10-scientists-biological-secrets-aging.html)
-- [Has Play Protect removed KDE Connect from your phone? Let us know](https://old.reddit.com/r/kde/comments/175upzi/has_play_protect_removed_kde_connect_from_your/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
