@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A &#39;Doxxing Truck&#39; Displaying Students&#39; Faces Comes to Harvard&#39;s Campus](https://www.thecrimson.com/article/2023/10/12/doxxing-truck-students-israel-statement/)
-- [FastGPT](https://kagi.com/fastgpt)
+- [LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
+- [Telegram Reveals Remote IP Address When Answering Calls](https://github.com/n0a/telegram-get-remote-ip)
 - [Using OpenBSD Relayd&lpar;8&rpar; as an Application Layer Gateway](https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/)
 - [Snmalloc: A Message Passing Allocator](https://github.com/microsoft/snmalloc)
 - [AVX10/128 is a silly idea and should be removed from the specification](https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/)
