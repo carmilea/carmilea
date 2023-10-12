@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [T-Mobile switching users to more expensive plans unless they call to opt out](https://arstechnica.com/tech-policy/2023/10/t-mobile-switches-users-to-pricier-plans-and-tells-them-its-not-a-price-hike/)
+- [OpenAI is too cheap to beat](https://generatingconversation.substack.com/p/openai-is-too-cheap-to-beat)
+- [T-Mobile switches users to pricier plans](https://arstechnica.com/tech-policy/2023/10/t-mobile-switches-users-to-pricier-plans-and-tells-them-its-not-a-price-hike/)
 - [ACT test scores for U.S. students drop to a 30-year low](https://www.npr.org/2023/10/12/1205404298/act-test-scores-college-admissions-30-year-low)
-- [She&#39;s the star witness against Sam Bankman-Fried. Her testimony was explosive](https://text.npr.org/1205045583)
-- [Dracula – Dark theme for 300 apps](https://draculatheme.com)
+- [Show HN: I got tired of reading &quot;This posting has been deleted by its author.&quot;](https://clippings.june07.com)
 - [NASA&#39;s Bennu Asteroid Sample](https://www.nasa.gov/news-release/nasas-bennu-asteroid-sample-contains-carbon-water/)
 <!-- BLOG-POST-LIST:END -->
 
