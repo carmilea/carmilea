@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Desmos 3D graphing calculator &lpar;beta&rpar;](https://www.desmos.com/3d)
-- [Woman&#39;s Experimental Bionic Hand Passes Major Test with Flying Colors](https://gizmodo.com/bionic-mia-hand-prosthetic-amputee-phantom-pain-1850919751)
-- [Want to get started with LLMs? Here&#39;s what you need to know](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know#what-are-llms)
-- [When XML in Word Became Illegal](https://blog.withedge.com/p/when-xml-in-word-became-illegal)
-- [Show HN: I built a virtual tabletop for playing Dungeons and Dragons](https://www.diceright.com/)
+- [YouTube TV, which costs $73 a month, agrees to end &quot;$600 less than cable&quot; ads](https://arstechnica.com/tech-policy/2023/10/youtube-tv-which-costs-73-a-month-agrees-to-end-600-less-than-cable-ads/)
+- [Who Runs the Best U.S. Schools? It May Be the Defense Department](https://www.nytimes.com/2023/10/10/us/schools-pandemic-defense-department.html)
+- [The Midwit Smart Home](https://dynomight.substack.com/p/midwit-home)
+- [EU &quot;Chat Control&quot; and Mandatory Client Side Scanning](https://berthub.eu/articles/posts/client-side-scanning-dutch-parliament/)
+- [Can&#39;t Be Fucked: Underrated Cause of Tech Debt](https://jesseduffield.com/Can%27t-Be-Fcked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
