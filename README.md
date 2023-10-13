@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google.com tests a news-filled homepage, just like Bing and Yahoo](https://arstechnica.com/gadgets/2023/10/google-com-tests-a-news-filled-homepage-just-like-bing-and-yahoo/)
+- [OpenZFS 2.2: Block Cloning, Linux Containers, BLAKE3](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
+- [Atlas of Surveillance: Documenting Police Tech in Our Communities](https://atlasofsurveillance.org/)
+- [Jesus Nut](https://en.wikipedia.org/wiki/Jesus_nut)
 - [Pump &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/pump)
-- [Roughly 80% of Grades Given at Harvard Are in the &#39;A&#39; Range](https://jonathanturley.org/2023/10/12/the-incredibles-roughly-80-percent-of-grades-given-at-harvard-are-as/)
-- [Cars are a &#39;privacy nightmare on wheels&#39;](https://theconversation.com/cars-are-a-privacy-nightmare-on-wheels-heres-how-they-get-away-with-collecting-and-sharing-your-data-214386)
-- [The EU Says Mark Zuckerberg Has 24 Hours to Respond to Censorship Demands](https://reclaimthenet.org/eu-says-zuckerberg-24-hours-respond-censorship-demands)
-- [Microsoft Closes $69B Activision Deal, Overcoming Regulators&#39; Objections](https://www.nytimes.com/2023/10/13/technology/microsoft-activision-blizzard-deal-closes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
