@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google.com tests a news-filled homepage, just like Bing and Yahoo](https://arstechnica.com/gadgets/2023/10/google-com-tests-a-news-filled-homepage-just-like-bing-and-yahoo/)
+- [&quot;Hallucinating&quot; AIs Sound Creative, but Let&#39;s Not Celebrate Being Wrong](https://thereader.mitpress.mit.edu/hallucinating-ais-sound-creative-but-lets-not-celebrate-being-wrong/)
+- [Photographer Reuben Wu Showcases the Power of iPhone 15 Pro Max](https://petapixel.com/2023/10/03/photographer-reuben-wu-showcases-the-power-of-iphone-15-pro-max/)
+- [&#39;Remarkable&#39; medical discovery for sepsis moves to next phase of human trials](https://florey.edu.au/news/2023/10/remarkable-medical-discovery-for-sepsis-moves-to-next-phase-of-human-trials/)
+- [CIA publicly acknowledges 1953 coup it backed in Iran was undemocratic](https://www.nbcnews.com/news/us-news/cia-publicly-acknowledges-1953-coup-backed-iran-was-undemocratic-revis-rcna120154)
 - [OpenZFS 2.2: Block Cloning, Linux Containers, BLAKE3](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
-- [Atlas of Surveillance: Documenting Police Tech in Our Communities](https://atlasofsurveillance.org/)
-- [Jesus Nut](https://en.wikipedia.org/wiki/Jesus_nut)
-- [Pump &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/pump)
 <!-- BLOG-POST-LIST:END -->
 
 ---
