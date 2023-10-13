@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Can&#39;t Stop Using Hard-Coded Passwords](https://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html)
+- [Finding a Tech Job Is Still a Nightmare](https://www.wired.com/story/tech-jobs-layoffs-hiring/)
 - [Our World in Data &lpar;YC W19&rpar; Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
 - [How to Download and Install Linux](https://learn.microsoft.com/en-us/linux/install)
 - [Flexport will lay off 20% of the company starting Friday, leaked memo says](https://www.businessinsider.com/flexport-layoffs-ceo-announces-20-workforce-reduction-2023-10)
-- [How to fit a large program into a small machine &lpar;1999&rpar;](https://mud.co.uk/richard/htflpism.htm)
-- [Ask HN: Anyone Using MacBook Air M2 24GB for Developement?](https://news.ycombinator.com/item?id=37867074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
