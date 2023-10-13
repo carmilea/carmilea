@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Hallucinating&quot; AIs Sound Creative, but Let&#39;s Not Celebrate Being Wrong](https://thereader.mitpress.mit.edu/hallucinating-ais-sound-creative-but-lets-not-celebrate-being-wrong/)
-- [Photographer Reuben Wu Showcases the Power of iPhone 15 Pro Max](https://petapixel.com/2023/10/03/photographer-reuben-wu-showcases-the-power-of-iphone-15-pro-max/)
-- [&#39;Remarkable&#39; medical discovery for sepsis moves to next phase of human trials](https://florey.edu.au/news/2023/10/remarkable-medical-discovery-for-sepsis-moves-to-next-phase-of-human-trials/)
-- [CIA publicly acknowledges 1953 coup it backed in Iran was undemocratic](https://www.nbcnews.com/news/us-news/cia-publicly-acknowledges-1953-coup-backed-iran-was-undemocratic-revis-rcna120154)
-- [OpenZFS 2.2: Block Cloning, Linux Containers, BLAKE3](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
+- [&#39;Dumbphones&#39; make a comeback: &#39;No one calls me anymore&#39;](https://english.elpais.com/technology/2023-10-11/dumbphones-make-a-comeback-no-one-calls-me-anymore.html)
+- [Equifax scores £11.1M slap on wrist over 2017 mega breach](https://www.theregister.com/2023/10/13/equifax_fca_fine/)
+- [Bubbles Kill Cancer – It&#39;s called histotripsy](https://news.engin.umich.edu/2023/10/these-bubbles-kill-cancer/)
+- [PC shipments decline slows in Q3 2023, but Apple plunges over 23%](https://techcrunch.com/2023/10/10/pc-shipments-decline-slows-in-q3-2023-but-apple-plunges-over-23/)
+- [Tesla workers shared sensitive images recorded by customers&#39; cars: Ex-employees](https://www.abc.net.au/news/2023-04-08/tesla-workers-shared-sensitive-images-recorded-by-customer-cars/102202382)
 <!-- BLOG-POST-LIST:END -->
 
 ---
