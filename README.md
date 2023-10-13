@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pump &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/pump)
+- [Roughly 80% of Grades Given at Harvard Are in the &#39;A&#39; Range](https://jonathanturley.org/2023/10/12/the-incredibles-roughly-80-percent-of-grades-given-at-harvard-are-as/)
+- [Cars are a &#39;privacy nightmare on wheels&#39;](https://theconversation.com/cars-are-a-privacy-nightmare-on-wheels-heres-how-they-get-away-with-collecting-and-sharing-your-data-214386)
+- [The EU Says Mark Zuckerberg Has 24 Hours to Respond to Censorship Demands](https://reclaimthenet.org/eu-says-zuckerberg-24-hours-respond-censorship-demands)
 - [Microsoft Closes $69B Activision Deal, Overcoming Regulators&#39; Objections](https://www.nytimes.com/2023/10/13/technology/microsoft-activision-blizzard-deal-closes.html)
-- [Scalar: An open-source alternative to Redocly and Swagger UI](https://github.com/scalar/scalar)
-- [Why do so many people think they are in a bullshit job?](https://psyche.co/ideas/why-do-so-many-people-think-they-are-in-a-bullshit-job)
-- [What&#39;s wrong with CVEs? Daniel Stenberg of cURL wants you to know](https://podcast.sustainoss.org/203)
-- [LoRA Fine-Tuning Efficiently Undoes Safety Training from Llama 2-Chat 70B](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from)
 <!-- BLOG-POST-LIST:END -->
 
 ---
