@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Dumbphones&#39; make a comeback: &#39;No one calls me anymore&#39;](https://english.elpais.com/technology/2023-10-11/dumbphones-make-a-comeback-no-one-calls-me-anymore.html)
-- [Equifax scores £11.1M slap on wrist over 2017 mega breach](https://www.theregister.com/2023/10/13/equifax_fca_fine/)
-- [Bubbles Kill Cancer – It&#39;s called histotripsy](https://news.engin.umich.edu/2023/10/these-bubbles-kill-cancer/)
+- [Kodable &lpar;YC IK12&rpar; is hiring a Unity game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
+- [TimeGPT-1](https://arxiv.org/abs/2310.03589)
+- [Histotripsy – a technique that harnesses soundwaves to attack cancer](https://news.engin.umich.edu/2023/10/these-bubbles-kill-cancer/)
 - [PC shipments decline slows in Q3 2023, but Apple plunges over 23%](https://techcrunch.com/2023/10/10/pc-shipments-decline-slows-in-q3-2023-but-apple-plunges-over-23/)
-- [Tesla workers shared sensitive images recorded by customers&#39; cars: Ex-employees](https://www.abc.net.au/news/2023-04-08/tesla-workers-shared-sensitive-images-recorded-by-customer-cars/102202382)
+- [Removal of Mazda Connected Services integration](https://www.home-assistant.io/blog/2023/10/13/removal-of-mazda-connected-services-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
