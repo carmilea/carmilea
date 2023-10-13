@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Malaysia&#39;s spat with Goldman about to get ugly](https://www.channelnewsasia.com/asia/malaysia-goldman-sachs-1mdb-settlement-arbitration-london-3841106)
+- [How to Fit a Large Program into a Small Machine &lpar;Zork, Z-Machine, ZIL&rpar; &lpar;1999&rpar;](https://mud.co.uk/richard/htflpism.htm)
+- [Apple Bricked my AirPods and now wants me to buy new ones](https://twitter.com/mattcantstop/status/1712680601340579891)
 - [Mathematician warns US spies may be weakening next-gen encryption](https://www.newscientist.com/article/2396510-mathematician-warns-us-spies-may-be-weakening-next-gen-encryption/)
 - [Apple AirTags stalking led to ruin and murders, lawsuit says](https://arstechnica.com/tech-policy/2023/10/apple-airtags-triggered-explosion-of-stalking-reports-nationwide-lawsuit-says/)
-- [Not setting up Find My bricked my MacBook](https://www.tokyodev.com/articles/not-setting-up-find-my-bricked-my-macbook)
-- [The Rise and Reign of Japanese VCRs [video]](https://www.youtube.com/watch?v=5CMv5V-wxT8)
-- [Higher Mushroom Consumption Associated with Lower Cancer Risk](https://www.sciencedirect.com/science/article/pii/S2161831322004641)
 <!-- BLOG-POST-LIST:END -->
 
 ---
