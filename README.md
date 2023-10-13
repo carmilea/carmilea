@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dropbox AI](https://blog.dropbox.com/topics/product/introducing-AI-powered-tools%3C)
+- [Cloudy with a Chance of Insanity: Unsticking iCloud Drive](https://tidbits.com/2023/10/12/cloudy-with-a-chance-of-insanity-unsticking-icloud-drive/)
 - [Kodable &lpar;YC IK12&rpar; is hiring a Unity game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
 - [Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
-- [Two years of raising a bilingual daughter](https://joeprevite.com/2-years-bilingual-journey/)
-- [TimeGPT-1](https://arxiv.org/abs/2310.03589)
-- [Histotripsy – a technique that harnesses soundwaves to attack cancer](https://news.engin.umich.edu/2023/10/these-bubbles-kill-cancer/)
+- [Extinct goat was cold-blooded &lpar;2009&rpar;](https://phys.org/news/2009-11-extinct-goat-cold-blooded.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
