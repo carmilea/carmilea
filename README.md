@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LoRA Fine-Tuning Efficiently Undoes Safety Training from Llama 2-Chat 70B](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from)
+- [Climate change primary driver of amphibian decline: Study](https://phys.org/news/2023-10-climate-primary-driver-amphibian-decline.html)
+- [Takeaways from Hundreds of LLM finetuning experiments with LoRA](https://lightning.ai/pages/community/lora-insights/)
+- [New AC technology uses 60% less energy](https://www.technologyreview.com/2023/10/04/1080128/2023-climate-tech-companies-blue-frontier-air-conditioning-energy-storage-climate-technology/)
 - [FTX thief cashes out millions during Bankman-Fried trial](https://www.bbc.co.uk/news/technology-67090501)
-- [Tainting the CSAM client-side scanning database](https://blog.xot.nl/2023/10/11/tainting-the-csam-client-side-scanning-database/index.html)
-- [Every app that adds AI looks like this](https://botharetrue.substack.com/p/every-app-that-adds-ai-looks-like)
-- [The Compact Calendar 2023-2024](https://davidseah.com/node/compact-calendar/)
-- [Why you shouldn&#39;t join Y Combinator](https://newsletter.smallbets.co/p/why-you-shouldnt-join-y-combinator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
