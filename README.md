@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Closes $69B Activision Deal, Overcoming Regulators&#39; Objections](https://www.nytimes.com/2023/10/13/technology/microsoft-activision-blizzard-deal-closes.html)
+- [Scalar: An open-source alternative to Redocly and Swagger UI](https://github.com/scalar/scalar)
+- [Why do so many people think they are in a bullshit job?](https://psyche.co/ideas/why-do-so-many-people-think-they-are-in-a-bullshit-job)
+- [What&#39;s wrong with CVEs? Daniel Stenberg of cURL wants you to know](https://podcast.sustainoss.org/203)
 - [LoRA Fine-Tuning Efficiently Undoes Safety Training from Llama 2-Chat 70B](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from)
-- [Climate change primary driver of amphibian decline: Study](https://phys.org/news/2023-10-climate-primary-driver-amphibian-decline.html)
-- [Takeaways from Hundreds of LLM finetuning experiments with LoRA](https://lightning.ai/pages/community/lora-insights/)
-- [New AC technology uses 60% less energy](https://www.technologyreview.com/2023/10/04/1080128/2023-climate-tech-companies-blue-frontier-air-conditioning-energy-storage-climate-technology/)
-- [FTX thief cashes out millions during Bankman-Fried trial](https://www.bbc.co.uk/news/technology-67090501)
 <!-- BLOG-POST-LIST:END -->
 
 ---
