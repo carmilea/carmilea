@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Our World in Data &lpar;YC W19&rpar; Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
+- [&#39;Start Up Nation&#39; goes to war](https://www.ft.com/content/6488b1f1-f10e-4285-931d-1b63b4bcf018)
+- [Microsoft gets green light in UK to buy Activision](https://www.bbc.co.uk/news/business-67080391)
 - [Malaysia&#39;s spat with Goldman about to get ugly](https://www.channelnewsasia.com/asia/malaysia-goldman-sachs-1mdb-settlement-arbitration-london-3841106)
-- [How to Fit a Large Program into a Small Machine &lpar;Zork, Z-Machine, ZIL&rpar; &lpar;1999&rpar;](https://mud.co.uk/richard/htflpism.htm)
-- [Apple Bricked my AirPods and now wants me to buy new ones](https://twitter.com/mattcantstop/status/1712680601340579891)
-- [Mathematician warns US spies may be weakening next-gen encryption](https://www.newscientist.com/article/2396510-mathematician-warns-us-spies-may-be-weakening-next-gen-encryption/)
-- [Apple AirTags stalking led to ruin and murders, lawsuit says](https://arstechnica.com/tech-policy/2023/10/apple-airtags-triggered-explosion-of-stalking-reports-nationwide-lawsuit-says/)
+- [How to fit a large program into a small machine &lpar;1999&rpar;](https://mud.co.uk/richard/htflpism.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
