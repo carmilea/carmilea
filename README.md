@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New brain atlases will unlock mysteries of the human mind](https://www.dw.com/en/new-brain-atlases-will-unlock-mysteries-of-the-human-mind/a-67078463)
+- [The Advice SaaS Startup Founders Would Give Their Younger Selves](https://www.justbeepit.com/post/saas-startup-founders-what-advice-would-you-give-your-younger-selves-here-s-what-they-said)
 - [Remove Half of Your Documentation](https://blog.orsinium.dev/posts/misc/docs/)
-- [Rack Attack – Rails Tricks](https://greg.molnar.io/blog/rails-tricks-issue-20/)
 - [The Interface of Kai Krause&#39;s Software](https://mprove.de/script/99/kai/)
 - [Cisco Can&#39;t Stop Using Hard-Coded Passwords](https://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html)
-- [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
