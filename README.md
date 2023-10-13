@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Higher Mushroom Consumption Associated with Lower Cancer Risk](https://www.sciencedirect.com/science/article/pii/S2161831322004641)
 - [AMD acquires Nod.ai to bolsters its AI software ecosystem](https://techcrunch.com/2023/10/11/amd-acquires-nod-ai-to-bolsters-its-ai-software-ecosystem/)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Research Scientists](https://news.ycombinator.com/item?id=37865222)
 - [Bonterms: Standard Agreements for the Enterprise](https://bonterms.com/)
 - [Framework 13 AMD 7040 Series: A Developer&#39;s First Impressions](https://zach.codes/p/a-developers-review-framework-13)
-- [Scrollbars Are Becoming a Problem](https://artemis.sh/2023/10/12/scrollbars.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
