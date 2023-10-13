@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Our World in Data &lpar;YC W19&rpar; Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
-- [&#39;Start Up Nation&#39; goes to war](https://www.ft.com/content/6488b1f1-f10e-4285-931d-1b63b4bcf018)
-- [Microsoft gets green light in UK to buy Activision](https://www.bbc.co.uk/news/business-67080391)
-- [Malaysia&#39;s spat with Goldman about to get ugly](https://www.channelnewsasia.com/asia/malaysia-goldman-sachs-1mdb-settlement-arbitration-london-3841106)
+- [How to Download and Install Linux](https://learn.microsoft.com/en-us/linux/install)
+- [Flexport will lay off 20% of the company starting Friday, leaked memo says](https://www.businessinsider.com/flexport-layoffs-ceo-announces-20-workforce-reduction-2023-10)
 - [How to fit a large program into a small machine &lpar;1999&rpar;](https://mud.co.uk/richard/htflpism.htm)
+- [Ask HN: Anyone Using MacBook Air M2 24GB for Developement?](https://news.ycombinator.com/item?id=37867074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
