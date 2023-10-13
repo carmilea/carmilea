@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple AirTags stalking led to ruin and murders, lawsuit says](https://arstechnica.com/tech-policy/2023/10/apple-airtags-triggered-explosion-of-stalking-reports-nationwide-lawsuit-says/)
+- [Not setting up Find My bricked my MacBook](https://www.tokyodev.com/articles/not-setting-up-find-my-bricked-my-macbook)
+- [The Rise and Reign of Japanese VCRs [video]](https://www.youtube.com/watch?v=5CMv5V-wxT8)
 - [Higher Mushroom Consumption Associated with Lower Cancer Risk](https://www.sciencedirect.com/science/article/pii/S2161831322004641)
-- [AMD acquires Nod.ai to bolsters its AI software ecosystem](https://techcrunch.com/2023/10/11/amd-acquires-nod-ai-to-bolsters-its-ai-software-ecosystem/)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Research Scientists](https://news.ycombinator.com/item?id=37865222)
-- [Bonterms: Standard Agreements for the Enterprise](https://bonterms.com/)
-- [Framework 13 AMD 7040 Series: A Developer&#39;s First Impressions](https://zach.codes/p/a-developers-review-framework-13)
+- [Research shows why hunting for the cheapest plane ticket is a waste of time](https://phys.org/news/2023-10-cheapest-plane-ticket.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
