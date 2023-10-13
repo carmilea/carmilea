@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Kodable &lpar;YC IK12&rpar; is hiring a Unity game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
+- [Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
+- [Two years of raising a bilingual daughter](https://joeprevite.com/2-years-bilingual-journey/)
 - [TimeGPT-1](https://arxiv.org/abs/2310.03589)
 - [Histotripsy – a technique that harnesses soundwaves to attack cancer](https://news.engin.umich.edu/2023/10/these-bubbles-kill-cancer/)
-- [PC shipments decline slows in Q3 2023, but Apple plunges over 23%](https://techcrunch.com/2023/10/10/pc-shipments-decline-slows-in-q3-2023-but-apple-plunges-over-23/)
-- [Removal of Mazda Connected Services integration](https://www.home-assistant.io/blog/2023/10/13/removal-of-mazda-connected-services-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
