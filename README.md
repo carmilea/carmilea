@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remove Half of Your Documentation](https://blog.orsinium.dev/posts/misc/docs/)
+- [Rack Attack – Rails Tricks](https://greg.molnar.io/blog/rails-tricks-issue-20/)
+- [The Interface of Kai Krause&#39;s Software](https://mprove.de/script/99/kai/)
 - [Cisco Can&#39;t Stop Using Hard-Coded Passwords](https://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html)
-- [Finding a Tech Job Is Still a Nightmare](https://www.wired.com/story/tech-jobs-layoffs-hiring/)
-- [Our World in Data &lpar;YC W19&rpar; Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
-- [How to Download and Install Linux](https://learn.microsoft.com/en-us/linux/install)
-- [Flexport will lay off 20% of the company starting Friday, leaked memo says](https://www.businessinsider.com/flexport-layoffs-ceo-announces-20-workforce-reduction-2023-10)
+- [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
