@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flexport is laying off 20% of its workforce](https://www.cnbc.com/2023/10/12/flexport-is-laying-off-20percent-of-its-workforce.html)
-- [Handle.com &lpar;YC W19&rpar; Is Hiring &lpar;ABM Manager&rpar;](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
-- [Screenshots from Windows 95](https://guidebookgallery.org/screenshots/win95)
-- [No Fakes Act wants to protect actors and singers from unauthorized AI replicas](https://www.theverge.com/2023/10/12/23914915/ai-replicas-likeness-law-no-fakes-copyright)
-- [TSMC: Ecosystem for 2nm Chip Development Is Nearing Completion](https://www.anandtech.com/show/21091/tsmc-ecosystem-for-2nm-chip-development-is-nearing-completion)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Research Scientists](https://news.ycombinator.com/item?id=37865222)
+- [Bonterms: Standard Agreements for the Enterprise](https://bonterms.com/)
+- [Scrollbars Are Becoming a Problem](https://artemis.sh/2023/10/12/scrollbars.html)
+- [REI is Laying Off 275 Employees](https://old.reddit.com/r/REI/comments/176chas/rei_is_letting_go_275_employees_today/)
+- [You Can&#39;t Currently Download Ubuntu 23.10](https://www.omgubuntu.co.uk/2023/10/ubuntu-23-10-installer-translations-hijack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
