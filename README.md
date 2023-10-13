@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Compact Calendar 2023-2024](https://davidseah.com/node/compact-calendar/)
+- [You shouldn&#39;t join Y Combinator](https://newsletter.smallbets.co/p/why-you-shouldnt-join-y-combinator)
 - [Authzed &lpar;YC W21&rpar; Is Hiring: Customer Success Engineer, Dev Evangelist](https://www.workatastartup.com/companies/authzed)
+- [Making Rust supply chain attacks harder with Cackle](https://davidlattimore.github.io/making-supply-chain-attacks-harder.html)
 - [Signal Identification Wiki](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
-- [New brain atlases will unlock mysteries of the human mind](https://www.dw.com/en/new-brain-atlases-will-unlock-mysteries-of-the-human-mind/a-67078463)
-- [The Advice SaaS Startup Founders Would Give Their Younger Selves](https://www.justbeepit.com/post/saas-startup-founders-what-advice-would-you-give-your-younger-selves-here-s-what-they-said)
-- [The Interface of Kai Krause&#39;s Software &lpar;2003&rpar;](https://mprove.de/script/99/kai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
