@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring to Build AI for Testing](https://news.ycombinator.com/item?id=37878633)
+- [Gsplat: CUDA accelerated rasterization of gaussians with Python bindings](https://docs.gsplat.studio/)
 - [OpenBSD PF-based firewalls suffer differently from denial of service attacks](https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS)
-- [Why the average lifespan of a smartphone is only three years](https://english.elpais.com/technology/2023-10-07/will-your-cellphone-work-for-a-decade-why-the-average-lifespan-of-a-smartphone-is-only-three-years.html)
-- [You are onboarding developers wrong &lpar;Featuring Ambient Game Engine&rpar;](https://dickymirrors.substack.com/p/you-are-onboarding-developers-wrong)
+- [Write Code Like You Just Learned How to Program](https://prog21.dadgum.com/87.html)
 - [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)
-- [How to cook ground meat perfectly without vision](https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
