@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [F-Droid version of KDEConnect uninstalled by PlayProtect](https://discuss.kde.org/t/f-droid-version-of-kdeconnect-uninstalled-by-playprotect/5992)
-- [Tumor-destroying sound waves receive FDA approval for liver treatment in humans](https://news.umich.edu/tumor-destroying-sound-waves-receive-fda-approval-for-liver-treatment-in-humans/)
-- [Zoltar &lpar;YC S22&rpar; Is Hiring Founding Full-Stack Engineers in NYC](https://www.ycombinator.com/companies/zoltar-labs/jobs)
-- [Petition against EU chat control](https://stopscanningme.eu/en/index.html)
-- [Kalman Filter Tutorial: Kalman Filter from the Ground Up](https://www.kalmanfilter.net/default.aspx)
+- [Mango Mail – an unlimited email host](https://mymangomail.com/)
+- [Anything longer ago than yesterday should just say the actual date](https://mjtsai.com/blog/2023/10/13/relative-time-labels/)
+- [The Banality of Genius: Notes on Peter Jackson&#39;s Get Back &lpar;2022&rpar;](https://www.ian-leslie.com/p/the-banality-of-genius-notes-on-peter)
+- [Antarctica: Ice shelves shrinking &#39;with no sign of recovery](https://www.dw.com/en/antarctica-ice-shelves-shrinking-with-no-sign-of-recovery/a-67084109)
+- [Undermining Democracy: The EU Commission&#39;s Controversial Push for Surveillance](https://dannymekic.com/202310/undermining-democracy-the-european-commissions-controversial-push-for-digital-surveillance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
