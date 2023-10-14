@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 Solar Eclipse – Oct 14](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2023/)
 - [You are onboarding developers wrong &lpar;Featuring Ambient Game Engine&rpar;](https://dickymirrors.substack.com/p/you-are-onboarding-developers-wrong)
+- [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)
 - [How to cook ground meat perfectly without vision](https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/)
 - [Kodable &lpar;YC IK12&rpar; is hiring a Unity game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
-- [Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
-- [Extinct goat was cold-blooded &lpar;2009&rpar;](https://phys.org/news/2009-11-extinct-goat-cold-blooded.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
