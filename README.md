@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zoltar &lpar;YC S22&rpar; Is Hiring Founding Full-Stack Engineers in NYC](https://www.ycombinator.com/companies/zoltar-labs/jobs)
+- [Tuning Linux for Performance](https://www.brendangregg.com/linuxperf.html)
 - [Book Review: How Our Roads Have Become an Invasive Species](https://undark.org/2023/10/13/book-review-crossings/)
 - [AMD Counter-Strikes Itself, Pulls Driver After Anti-Lag Feature Causes CS2 Bans](https://www.tomshardware.com/news/amd-pulls-drivers-that-cause-counter-strike-2-bans-after-valve-roasted-them)
 - [PostgresJs: The Fastest full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
-- [The UK&#39;s Association to Horizon Europe and Copernicus](https://ec.europa.eu/commission/presscorner/detail/en/qanda_23_4373)
-- [All of ChatGPT&#39;s System Prompts](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
