@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dropbox AI](https://blog.dropbox.com/topics/product/introducing-AI-powered-tools%3C)
-- [Cloudy with a Chance of Insanity: Unsticking iCloud Drive](https://tidbits.com/2023/10/12/cloudy-with-a-chance-of-insanity-unsticking-icloud-drive/)
+- [X illegally fired employee who publicly challenged return-to-work plans](https://www.cnbc.com/2023/10/13/elon-musks-x-illegally-fired-employee-who-challenged-rto-plans-nlrb-.html)
+- [How to cook ground meat perfectly without vision](https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/)
 - [Kodable &lpar;YC IK12&rpar; is hiring a Unity game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
 - [Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
 - [Extinct goat was cold-blooded &lpar;2009&rpar;](https://phys.org/news/2009-11-extinct-goat-cold-blooded.html)
