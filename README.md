@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [F-Droid version of KDEConnect uninstalled by PlayProtect](https://discuss.kde.org/t/f-droid-version-of-kdeconnect-uninstalled-by-playprotect/5992)
+- [Tumor-destroying sound waves receive FDA approval for liver treatment in humans](https://news.umich.edu/tumor-destroying-sound-waves-receive-fda-approval-for-liver-treatment-in-humans/)
 - [Zoltar &lpar;YC S22&rpar; Is Hiring Founding Full-Stack Engineers in NYC](https://www.ycombinator.com/companies/zoltar-labs/jobs)
-- [Tuning Linux for Performance](https://www.brendangregg.com/linuxperf.html)
-- [Walmart customers getting hostile at self-checkout – they blame anti-theft tech](https://www.businessinsider.com/walmarts-anti-theft-technology-is-effective-but-involves-confronting-customers-2023-10)
-- [The Razor Edge Book of Sharpening [pdf]](https://www.sharpeninghandbook.info/Images/Knife_Sharpening_text.pdf)
+- [Petition against EU chat control](https://stopscanningme.eu/en/index.html)
+- [Kalman Filter Tutorial: Kalman Filter from the Ground Up](https://www.kalmanfilter.net/default.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
