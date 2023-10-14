@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How did you escape homelessness?](https://news.ycombinator.com/item?id=37882607)
+- [AI Images Detectors Are Being Used to Discredit the Real Horrors of War](https://www.404media.co/ai-images-detectors-are-being-used-to-discredit-the-real-horrors-of-war/)
 - [Great Question &lpar;YC W21&rpar; Is Hiring Senior Account Executives](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
+- [Ferrari to accept crypto as payment for its cars in the US](https://www.reuters.com/business/autos-transportation/ferrari-accept-crypto-payment-its-cars-us-2023-10-14/)
 - [Bitcoin stolen from FTX being converted to cash via &quot;mixer&quot;](https://www.bbc.com/news/technology-67090501)
-- [Escape analysis hates copy elision &lpar;2021&rpar;](https://quuxplusone.github.io/blog/2021/03/07/copy-elision-borks-escape-analysis/)
-- [Examining the silicon dies of the Intel 386 processor](http://www.righto.com/2023/10/intel-386-die-versions.html)
-- [Google blocked Pixel 8 reviewers and owners from benchmarking the Tensor G3 chip](https://www.notebookcheck.net/Google-blocked-Pixel-8-Pixel-8-Pro-reviewers-from-using-popular-benchmarks-to-test-the-Tensor-G3-chip-new-owners-too.759260.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
