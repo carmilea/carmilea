@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Paper posits ultradense asteroid 33 Polyhymnia has transuranic elements](https://www.popularmechanics.com/space/solar-system/a45522962/new-element-asteroid/)
-- [IT student has to pay fine of 1500€ for calling Germany &quot;dirty state&quot; on Twitter](https://www.nius.de/Gesellschaft/student-muss-1500-euro-strafe-zahlen-weil-er-corona-deutschland-drecksstaat-nannte/9f794d5d-1693-4aeb-88d0-e9cedb29bad3)
-- [What SWE job hunting is like right now](https://news.ycombinator.com/item?id=37881072)
-- [Humid Heat Can Kill Us Much Faster Than We Thought](https://nautil.us/humid-heat-can-kill-us-much-faster-than-we-thought-415997/)
-- [Apple&#39;s new video reactions are making therapy awkward](https://www.theverge.com/2023/10/13/23916475/apple-video-reactions-telehealth-therapy-awkward-simplepractice)
+- [Great Question &lpar;YC W21&rpar; Is Hiring Senior Account Executives](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
+- [Bitcoin stolen from FTX being converted to cash via &quot;mixer&quot;](https://www.bbc.com/news/technology-67090501)
+- [Escape analysis hates copy elision &lpar;2021&rpar;](https://quuxplusone.github.io/blog/2021/03/07/copy-elision-borks-escape-analysis/)
+- [Examining the silicon dies of the Intel 386 processor](http://www.righto.com/2023/10/intel-386-die-versions.html)
+- [Google blocked Pixel 8 reviewers and owners from benchmarking the Tensor G3 chip](https://www.notebookcheck.net/Google-blocked-Pixel-8-Pixel-8-Pro-reviewers-from-using-popular-benchmarks-to-test-the-Tensor-G3-chip-new-owners-too.759260.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
