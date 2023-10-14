@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the average lifespan of a smartphone is only three years](https://english.elpais.com/technology/2023-10-07/will-your-cellphone-work-for-a-decade-why-the-average-lifespan-of-a-smartphone-is-only-three-years.html)
 - [2023 Solar Eclipse – Oct 14](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2023/)
 - [You are onboarding developers wrong &lpar;Featuring Ambient Game Engine&rpar;](https://dickymirrors.substack.com/p/you-are-onboarding-developers-wrong)
 - [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)
 - [How to cook ground meat perfectly without vision](https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/)
-- [Kodable &lpar;YC IK12&rpar; is hiring a Unity game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
