@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Meticulous &lpar;YC S21&rpar; Is Hiring to Build AI for Testing](https://news.ycombinator.com/item?id=37878633)
+- [UK&#39;s nuclear fusion site ends experiments after 40 years](https://www.bbc.co.uk/news/science-environment-67101176)
+- [Why I Eat Old Cheese &lpar;and Why You Should Too&rpar; &lpar;2020&rpar;](https://www.cheeseprofessor.com/blog/why-i-eat-old-cheese-and-why-you-should-too)
 - [Gsplat: CUDA accelerated rasterization of gaussians with Python bindings](https://docs.gsplat.studio/)
 - [OpenBSD PF-based firewalls suffer differently from denial of service attacks](https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS)
-- [Write Code Like You Just Learned How to Program](https://prog21.dadgum.com/87.html)
-- [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)
 <!-- BLOG-POST-LIST:END -->
 
 ---
