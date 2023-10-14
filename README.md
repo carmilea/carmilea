@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD Counter-Strikes Itself, Pulls Driver After Anti-Lag Feature Causes CS2 Bans](https://www.tomshardware.com/news/amd-pulls-drivers-that-cause-counter-strike-2-bans-after-valve-roasted-them)
+- [The UK&#39;s Association to Horizon Europe and Copernicus](https://ec.europa.eu/commission/presscorner/detail/en/qanda_23_4373)
+- [Fcron Is the Best Cron](https://dbohdan.com/fcron)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring to Build AI for Testing](https://news.ycombinator.com/item?id=37878633)
-- [UK&#39;s nuclear fusion site ends experiments after 40 years](https://www.bbc.co.uk/news/science-environment-67101176)
 - [Why I Eat Old Cheese &lpar;and Why You Should Too&rpar; &lpar;2020&rpar;](https://www.cheeseprofessor.com/blog/why-i-eat-old-cheese-and-why-you-should-too)
-- [Gsplat: CUDA accelerated rasterization of gaussians with Python bindings](https://docs.gsplat.studio/)
-- [OpenBSD PF-based firewalls suffer differently from denial of service attacks](https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS)
 <!-- BLOG-POST-LIST:END -->
 
 ---
