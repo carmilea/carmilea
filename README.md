@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mango Mail – an unlimited email host](https://mymangomail.com/)
-- [Anything longer ago than yesterday should just say the actual date](https://mjtsai.com/blog/2023/10/13/relative-time-labels/)
-- [The Banality of Genius: Notes on Peter Jackson&#39;s Get Back &lpar;2022&rpar;](https://www.ian-leslie.com/p/the-banality-of-genius-notes-on-peter)
-- [Antarctica: Ice shelves shrinking &#39;with no sign of recovery](https://www.dw.com/en/antarctica-ice-shelves-shrinking-with-no-sign-of-recovery/a-67084109)
-- [Undermining Democracy: The EU Commission&#39;s Controversial Push for Surveillance](https://dannymekic.com/202310/undermining-democracy-the-european-commissions-controversial-push-for-digital-surveillance)
+- [Paper posits ultradense asteroid 33 Polyhymnia has transuranic elements](https://www.popularmechanics.com/space/solar-system/a45522962/new-element-asteroid/)
+- [IT student has to pay fine of 1500€ for calling Germany &quot;dirty state&quot; on Twitter](https://www.nius.de/Gesellschaft/student-muss-1500-euro-strafe-zahlen-weil-er-corona-deutschland-drecksstaat-nannte/9f794d5d-1693-4aeb-88d0-e9cedb29bad3)
+- [What SWE job hunting is like right now](https://news.ycombinator.com/item?id=37881072)
+- [Humid Heat Can Kill Us Much Faster Than We Thought](https://nautil.us/humid-heat-can-kill-us-much-faster-than-we-thought-415997/)
+- [Apple&#39;s new video reactions are making therapy awkward](https://www.theverge.com/2023/10/13/23916475/apple-video-reactions-telehealth-therapy-awkward-simplepractice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
