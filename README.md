@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube is cracking down on consumers&#39; favorite loophole](https://www.thestreet.com/technology/youtube-is-cracking-down-on-consumers-favorite-loophole)
-- [Comcast deploys 2 Gbps symmetrical internet speeds via decades-old coaxial cable](https://www.engadget.com/comcast-starts-squeezing-2-gbps-symmetrical-internet-speeds-through-decades-old-coaxial-cables-143657830.html)
+- [Ask HN: For those trying to hire how hard is it to find people currently?](https://news.ycombinator.com/item?id=37883351)
 - [Raymond Chen – What happened to the source code for The AppleSoft Compiler? [video]](https://www.youtube.com/watch?v=z7S9S_eW94Y)
 - [Great Question &lpar;YC W21&rpar; Is Hiring Senior Account Executives](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
 - [Germany&#39;s terrible trains are no joke for a nation built on efficiency](https://www.theguardian.com/business/2023/oct/14/its-the-same-daily-misery-germanys-terrible-trains-are-no-joke-for-a-nation-built-on-efficiency)
+- [Escape analysis hates copy elision &lpar;2021&rpar;](https://quuxplusone.github.io/blog/2021/03/07/copy-elision-borks-escape-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
