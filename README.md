@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [X illegally fired employee who publicly challenged return-to-work plans](https://www.cnbc.com/2023/10/13/elon-musks-x-illegally-fired-employee-who-challenged-rto-plans-nlrb-.html)
+- [You are onboarding developers wrong &lpar;Featuring Ambient Game Engine&rpar;](https://dickymirrors.substack.com/p/you-are-onboarding-developers-wrong)
 - [How to cook ground meat perfectly without vision](https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/)
 - [Kodable &lpar;YC IK12&rpar; is hiring a Unity game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
 - [Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
