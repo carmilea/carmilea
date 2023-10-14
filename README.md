@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How did you escape homelessness?](https://news.ycombinator.com/item?id=37882607)
-- [AI Images Detectors Are Being Used to Discredit the Real Horrors of War](https://www.404media.co/ai-images-detectors-are-being-used-to-discredit-the-real-horrors-of-war/)
+- [YouTube is cracking down on consumers&#39; favorite loophole](https://www.thestreet.com/technology/youtube-is-cracking-down-on-consumers-favorite-loophole)
+- [Comcast deploys 2 Gbps symmetrical internet speeds via decades-old coaxial cable](https://www.engadget.com/comcast-starts-squeezing-2-gbps-symmetrical-internet-speeds-through-decades-old-coaxial-cables-143657830.html)
+- [Raymond Chen – What happened to the source code for The AppleSoft Compiler? [video]](https://www.youtube.com/watch?v=z7S9S_eW94Y)
 - [Great Question &lpar;YC W21&rpar; Is Hiring Senior Account Executives](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
-- [Ferrari to accept crypto as payment for its cars in the US](https://www.reuters.com/business/autos-transportation/ferrari-accept-crypto-payment-its-cars-us-2023-10-14/)
-- [Bitcoin stolen from FTX being converted to cash via &quot;mixer&quot;](https://www.bbc.com/news/technology-67090501)
+- [Germany&#39;s terrible trains are no joke for a nation built on efficiency](https://www.theguardian.com/business/2023/oct/14/its-the-same-daily-misery-germanys-terrible-trains-are-no-joke-for-a-nation-built-on-efficiency)
 <!-- BLOG-POST-LIST:END -->
 
 ---
