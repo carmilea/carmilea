@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Existential Risk of AGI](https://joscha.substack.com/p/the-existential-risk-of-agi)
+- [Anti-Anti-Adblocker uBlock filter to get rid of the annoying YouTube message](https://twitter.com/endermanch/status/1713129854818742684)
+- [Firefox accounts renamed Mozilla accounts](https://support.mozilla.org/en-US/kb/firefox-accounts-renamed-mozilla-accounts)
+- [Being Poor vs. Feeling Poor](https://moretothat.com/being-poor-vs-feeling-poor/)
 - [Skio &lpar;YC S20&rpar; Is Hiring – Subscriptions for Shopify, ReCharge Migrations](https://skio.com/careers/)
-- [Widely accepted mathematical results that were later shown to be wrong? &lpar;2010&rpar;](https://mathoverflow.net/questions/35468/widely-accepted-mathematical-results-that-were-later-shown-to-be-wrong)
-- [Solar eclipse of August 12, 2026](https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026)
-- [Comcast squeezing 2Gbps internet speeds through decades-old coaxial cables](https://www.engadget.com/comcast-starts-squeezing-2-gbps-symmetrical-internet-speeds-through-decades-old-coaxial-cables-143657830.html)
-- [Show HN: Firefox add-on to open YouTube videos in alternative front ends](https://github.com/d3vr/yt-siphon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
