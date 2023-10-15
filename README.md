@@ -59,7 +59,7 @@
 - [Google has sent internet into &#39;spiral of decline&#39;, claims DeepMind co-founder](https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Technical Docs Lead &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/4965064004)
 - [BeagleV-Ahead open-source RISC-V single board computer](https://www.beagleboard.org/boards/beaglev-ahead)
-- [The fascist state of Paw Patrol &lpar;2021&rpar;](https://thecritic.co.uk/the-fascist-state-of-paw-patrol/)
+- [Transactions and Concurrency in PostgreSQL](https://doadm-notes.blogspot.com/2023/10/transactions-and-concurrency-in.html)
 - [Sessionic: A cross-browser extension to save, manage, restore tabs and sessions](https://github.com/navorite/sessionic)
 <!-- BLOG-POST-LIST:END -->
 
