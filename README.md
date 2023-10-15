@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The UN Risks Normalizing Internet Censorship](https://www.wired.com/story/united-nations-igf-saudi-arabia-russia/)
-- [OpenEarable: A new, open-source, Arduino-based platform for ear-based sensing](https://open-earable.teco.edu/)
-- [Show HN: Pg_yregress, Structured Testing for Postgres](https://github.com/omnigres/omnigres/tree/master/pg_yregress)
-- [SSH-audit: SSH server and client security auditing](https://github.com/jtesta/ssh-audit)
-- [The Polish Election Bazaar](https://dragonscave.space/@miki/111240259192723454)
+- [Freshpaint &lpar;YC S19&rpar; Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [Yes, You Can Use Lightguns on LCDs– Sometimes](https://nicole.express/2023/bang-bang-youre-dead.html)
+- [Bytecode and the Busicom &lpar;2022&rpar;](https://thechipletter.substack.com/p/bytecode-and-the-busicom)
+- [The Sycamore Gap tree held a particularly deep place in people&#39;s hearts](https://www.economist.com/obituary/2023/10/04/the-sycamore-gap-tree-held-a-particularly-deep-place-in-peoples-hearts)
+- [Mastercard Should Stop Selling Our Data](https://www.eff.org/deeplinks/2023/10/mastercard-should-stop-selling-our-data)
 <!-- BLOG-POST-LIST:END -->
 
 ---
