@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Kraftful &lpar;YC S19&rpar; hiring a Founding Eng – we use AI to disrupt product dev](https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer)
+- [Why Async Rust?](https://without.boats/blog/why-async-rust/)
+- [Omnivore – free, open source, read-it-later App](https://omnivore.app/)
 - [Being picky about a CSS reset for fun](https://chriscoyier.net/2023/10/03/being-picky-about-a-css-reset-for-fun-pleasure/)
 - [Impureim Sandwich &lpar;2020&rpar;](https://blog.ploeh.dk/2020/03/02/impureim-sandwich/)
-- [Causal inference as a blind spot of data scientists](https://dzidas.com/ml/2023/10/15/blind-spot-ds/)
-- [Scientists begin building AI for scientific discovery using tech behind ChatGPT](https://techxplore.com/news/2023-10-scientists-ai-scientific-discovery-tech.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
