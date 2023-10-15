@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The fascist state of Paw Patrol &lpar;2021&rpar;](https://thecritic.co.uk/the-fascist-state-of-paw-patrol/)
+- [Decline in Independent Activity as a Cause of  Decline in Child Mental Health](https://cdn2.psychologytoday.com/assets/2023-02/Children%27s%20Independence%20IN%20PRESS%20.pdf)
+- [Vercel employee used customer information to pursue a personal trademark matter](https://twitter.com/vercel_support/status/1713295474998772215)
+- [FBI warns against using public USB charging ports](https://abcnews.go.com/Politics/fbi-warns-public-charging-stations/story?id=98503419)
 - [Jupe: Off-grid shelters that pop up anywhere on Earth](https://www.jupe.com/get-jupe)
-- [Gnome developer proposes removing the X11 session](https://www.theregister.com/2023/10/13/gnome_proposes_dropping_x11/)
-- [Steve&#39;s Explanation of the Viterbi Algorithm &lpar;2003&rpar;](https://www.cs.toronto.edu/~sengels/tutorials/viterbi.html)
-- [The Average New EV Costs $14,000 Less Than It Did a Year Ago: KBB](https://www.thedrive.com/news/the-average-new-ev-costs-14000-less-than-it-did-a-year-ago)
-- [Synsepalum Dulcificum &lpar;Miracle Berry&rpar;](https://en.wikipedia.org/wiki/Synsepalum_dulcificum)
 <!-- BLOG-POST-LIST:END -->
 
 ---
