@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2023 was earth&#39;s warmest September In 174 year record](https://www.noaa.gov/news/topping-charts-september-2023-was-earths-warmest-september-in-174-year-record)
-- [State of the Map EU 2023](https://stateofthemap.eu/)
-- [The Decades-Long Travesty That Made Millions of Americans Mistrust Their Schools](https://slate.com/human-interest/2023/10/reading-phonics-literacy-calkins-curriculum-public-school.html)
-- [Sieve &lpar;YC W22&rpar;, the video/audio AI cloud, is hiring systems engineers](https://www.sievedata.com/)
-- [Disney Mocked for Ludicrously Fake CGI &quot;Actors&quot; in Crowd Scene](https://futurism.com/the-byte/disney-mocked-fake-cgi-actors-crowd-scene)
+- [Ending Junk Fees, the Most Annoying Thing in American Commerce](https://www.thebignewsletter.com/p/ending-junk-fees-the-most-annoying)
+- [Do authors get paid for ad placement in novels?](https://news.ycombinator.com/item?id=37889933)
+- [What does friendship look like in America?](https://www.pewresearch.org/short-reads/2023/10/12/what-does-friendship-look-like-in-america/)
+- [Critical Ignoring as a Core Competence for Digital Citizens](https://journals.sagepub.com/doi/10.1177/09637214221121570)
+- [MariaDB ditches products and staff in restructure](https://www.theregister.com/2023/10/13/mariadb_restructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
