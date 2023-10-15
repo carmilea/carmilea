@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google has sent internet into &#39;spiral of decline&#39;, claims DeepMind co-founder](https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/)
+- [Supabase &lpar;YC S20&rpar; Is Hiring a Technical Docs Lead &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/4965064004)
+- [BeagleV-Ahead open-source RISC-V single board computer](https://www.beagleboard.org/boards/beaglev-ahead)
 - [The fascist state of Paw Patrol &lpar;2021&rpar;](https://thecritic.co.uk/the-fascist-state-of-paw-patrol/)
-- [Decline in Independent Activity as a Cause of  Decline in Child Mental Health](https://cdn2.psychologytoday.com/assets/2023-02/Children%27s%20Independence%20IN%20PRESS%20.pdf)
-- [Vercel employee used customer information to pursue a personal trademark matter](https://twitter.com/vercel_support/status/1713295474998772215)
-- [FBI warns against using public USB charging ports](https://abcnews.go.com/Politics/fbi-warns-public-charging-stations/story?id=98503419)
-- [Jupe: Off-grid shelters that pop up anywhere on Earth](https://www.jupe.com/get-jupe)
+- [Sessionic: A cross-browser extension to save, manage, restore tabs and sessions](https://github.com/navorite/sessionic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
