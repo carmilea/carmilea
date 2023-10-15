@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Extroverts more likely to resist vaccines, study shows](https://www.utep.edu/newsfeed/2023/extroverts-more-likely-to-resist-vaccines-study-shows.html)
+- [Margaret Atwood Reviews a Margaret Atwood Story by AI](https://thewalrus.ca/margaret-atwood-ai/)
+- [Teaching Apple Cyberdog 1.0 new tricks &lpar;featuring OpenDoc&rpar;](http://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
 - [Florida men scammed more than $1M out of Uber Eats](https://www.insider.com/2-florida-men-scammed-more-than-1-million-uber-eats-2023-8)
 - [GPL-3.0 licensed BIOS for Intel 8088 based computers](https://github.com/skiselev/8088_bios)
-- [The largest dam removal in history stirs hopes of restoring tribes&#39; way of life](https://www.latimes.com/environment/story/2023-10-05/klamath-dam-removal-tribes)
-- [Freshpaint &lpar;YC S19&rpar; Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [Yes, You Can Use Lightguns on LCDs– Sometimes](https://nicole.express/2023/bang-bang-youre-dead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
