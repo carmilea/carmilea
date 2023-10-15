@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Creator of Elratio language admits majority of compiler was written by ChatGPT](https://github.com/LiamSwayne/Elratio/blob/main/announcements.md)
 - [Jupe: Off-grid shelters that pop up anywhere on Earth](https://www.jupe.com/get-jupe)
 - [Gnome developer proposes removing the X11 session](https://www.theregister.com/2023/10/13/gnome_proposes_dropping_x11/)
+- [Steve&#39;s Explanation of the Viterbi Algorithm &lpar;2003&rpar;](https://www.cs.toronto.edu/~sengels/tutorials/viterbi.html)
 - [The Average New EV Costs $14,000 Less Than It Did a Year Ago: KBB](https://www.thedrive.com/news/the-average-new-ev-costs-14000-less-than-it-did-a-year-ago)
 - [Synsepalum Dulcificum &lpar;Miracle Berry&rpar;](https://en.wikipedia.org/wiki/Synsepalum_dulcificum)
 <!-- BLOG-POST-LIST:END -->
