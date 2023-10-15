@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 was earth&#39;s warmest September In 174 year record](https://www.noaa.gov/news/topping-charts-september-2023-was-earths-warmest-september-in-174-year-record)
+- [State of the Map EU 2023](https://stateofthemap.eu/)
 - [The Decades-Long Travesty That Made Millions of Americans Mistrust Their Schools](https://slate.com/human-interest/2023/10/reading-phonics-literacy-calkins-curriculum-public-school.html)
 - [Sieve &lpar;YC W22&rpar;, the video/audio AI cloud, is hiring systems engineers](https://www.sievedata.com/)
-- [&#39;Terminating Internet Access over Piracy Claims Is Drastic and Overbroad&#39;](https://torrentfreak.com/terminating-internet-access-over-piracy-claims-is-drastic-and-overbroad-231014/)
-- [Ask HN: What is your experience with Nano-Hydroxyapatite toothpaste?](https://news.ycombinator.com/item?id=37888728)
-- [Show HN: &quot;Interactive&quot; Italian Poetry for English Speakers](https://italianpoetry.it/)
+- [Disney Mocked for Ludicrously Fake CGI &quot;Actors&quot; in Crowd Scene](https://futurism.com/the-byte/disney-mocked-fake-cgi-actors-crowd-scene)
 <!-- BLOG-POST-LIST:END -->
 
 ---
