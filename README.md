@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Existential Risk of AGI](https://joscha.substack.com/p/the-existential-risk-of-agi)
-- [Anti-Anti-Adblocker uBlock filter to get rid of the annoying YouTube message](https://twitter.com/endermanch/status/1713129854818742684)
-- [Firefox accounts renamed Mozilla accounts](https://support.mozilla.org/en-US/kb/firefox-accounts-renamed-mozilla-accounts)
-- [Being Poor vs. Feeling Poor](https://moretothat.com/being-poor-vs-feeling-poor/)
-- [Skio &lpar;YC S20&rpar; Is Hiring – Subscriptions for Shopify, ReCharge Migrations](https://skio.com/careers/)
+- [Bay Area refineries to stop making gasoline](https://www.ktvu.com/news/2-of-5-of-bay-area-refineries-to-stop-making-gasoline)
+- [Linux on the Web: Getting a handle on the files in the browser](https://linuxontheweb.github.io/docs/what-it-is.html)
+- [Real-Time Research: Top Reference Systems &lpar;Design Systems and UI Libs&rpar; 2023](https://app.excalidraw.com/l/5M4i1z9oaht/2Be9A63OXZt)
+- [WordPress blogs can now be followed on Mastodon and other federated platforms](https://techcrunch.com/2023/10/11/wordpress-com-blogs-can-now-be-followed-on-mastodon-and-other-federated-platforms/)
+- [The Scientist and the Warplane That Became Britain&#39;s Most Unlikely Airliner](https://www.thedrive.com/the-war-zone/the-nuclear-scientist-and-the-warplane-that-became-britains-most-unlikely-airliner)
 <!-- BLOG-POST-LIST:END -->
 
 ---
