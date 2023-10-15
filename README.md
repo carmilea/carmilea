@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ending Junk Fees, the Most Annoying Thing in American Commerce](https://www.thebignewsletter.com/p/ending-junk-fees-the-most-annoying)
-- [Do authors get paid for ad placement in novels?](https://news.ycombinator.com/item?id=37889933)
-- [What does friendship look like in America?](https://www.pewresearch.org/short-reads/2023/10/12/what-does-friendship-look-like-in-america/)
-- [Critical Ignoring as a Core Competence for Digital Citizens](https://journals.sagepub.com/doi/10.1177/09637214221121570)
-- [MariaDB ditches products and staff in restructure](https://www.theregister.com/2023/10/13/mariadb_restructure/)
+- [Omnivore – free, open source, read-it-later App](https://omnivore.app/)
+- [Automakers Have Big Hopes for EVs; Buyers Aren&#39;t Cooperating](https://www.wsj.com/business/autos/electric-vehicle-buyer-interest-67b407cb)
+- [Being picky about a CSS reset for fun](https://chriscoyier.net/2023/10/03/being-picky-about-a-css-reset-for-fun-pleasure/)
+- [Impureim Sandwich &lpar;2020&rpar;](https://blog.ploeh.dk/2020/03/02/impureim-sandwich/)
+- [Causal inference as a blind spot of data scientists](https://dzidas.com/ml/2023/10/15/blind-spot-ds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
