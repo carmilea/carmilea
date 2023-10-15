@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gnome developer proposes removing the X11 session](https://www.theregister.com/2023/10/13/gnome_proposes_dropping_x11/)
+- [The Average New EV Costs $14,000 Less Than It Did a Year Ago: KBB](https://www.thedrive.com/news/the-average-new-ev-costs-14000-less-than-it-did-a-year-ago)
+- [Synsepalum Dulcificum &lpar;Miracle Berry&rpar;](https://en.wikipedia.org/wiki/Synsepalum_dulcificum)
 - [Show HN: 3D Binpacking Algorithm Visualized](https://skusavvy.com/bin-packing-preview)
-- [Recipes from Scratch](https://recursiverecipes.schollz.com/)
-- [The 34-year-old airline novice who thinks he&#39;s Richard Branson](https://www.thetimes.co.uk/article/james-asquith-global-airlines-transatlantic-travel-richard-branson-wkznrzhvw)
-- [Bay Area refineries to stop making gasoline](https://www.ktvu.com/news/2-of-5-of-bay-area-refineries-to-stop-making-gasoline)
-- [Linux on the Web: Getting a handle on the files in the browser](https://linuxontheweb.github.io/docs/what-it-is.html)
+- [Recursive Recipes](https://recursiverecipes.schollz.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
