@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Omnivore – free, open source, read-it-later App](https://omnivore.app/)
-- [Automakers Have Big Hopes for EVs; Buyers Aren&#39;t Cooperating](https://www.wsj.com/business/autos/electric-vehicle-buyer-interest-67b407cb)
+- [Kraftful &lpar;YC S19&rpar; hiring a Founding Eng – we use AI to disrupt product dev](https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer)
 - [Being picky about a CSS reset for fun](https://chriscoyier.net/2023/10/03/being-picky-about-a-css-reset-for-fun-pleasure/)
 - [Impureim Sandwich &lpar;2020&rpar;](https://blog.ploeh.dk/2020/03/02/impureim-sandwich/)
 - [Causal inference as a blind spot of data scientists](https://dzidas.com/ml/2023/10/15/blind-spot-ds/)
+- [Scientists begin building AI for scientific discovery using tech behind ChatGPT](https://techxplore.com/news/2023-10-scientists-ai-scientific-discovery-tech.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
