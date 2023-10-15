@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor – The AI-First Code Editor](https://cursor.sh/)
+- [Sieve &lpar;YC W22&rpar;, the video/audio AI cloud, is hiring systems engineers](https://www.sievedata.com/)
+- [&#39;Terminating Internet Access over Piracy Claims Is Drastic and Overbroad&#39;](https://torrentfreak.com/terminating-internet-access-over-piracy-claims-is-drastic-and-overbroad-231014/)
+- [Ask HN: What is your experience with Nano-Hydroxyapatite toothpaste?](https://news.ycombinator.com/item?id=37888728)
+- [Show HN: &quot;Interactive&quot; Italian Poetry for English Speakers](https://italianpoetry.it/)
 - [&quot;Hacker News&quot; for retro computing and gaming](https://blog.jgc.org/2023/10/hacker-news-for-retro-computing-and.html)
-- [Cloudflare Sippy: Incrementally Migrate Data from AWS S3 to Reduce Egress Fees](https://www.infoq.com/news/2023/10/cloudflare-sippy-migrate-s3/)
-- [Google has sent internet into &#39;spiral of decline&#39;, claims DeepMind co-founder](https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/)
-- [Supabase &lpar;YC S20&rpar; Is Hiring a Technical Docs Lead &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/4965064004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
