@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: 3D Binpacking Algorithm Visualized](https://skusavvy.com/bin-packing-preview)
+- [Recipes from Scratch](https://recursiverecipes.schollz.com/)
+- [The 34-year-old airline novice who thinks he&#39;s Richard Branson](https://www.thetimes.co.uk/article/james-asquith-global-airlines-transatlantic-travel-richard-branson-wkznrzhvw)
 - [Bay Area refineries to stop making gasoline](https://www.ktvu.com/news/2-of-5-of-bay-area-refineries-to-stop-making-gasoline)
 - [Linux on the Web: Getting a handle on the files in the browser](https://linuxontheweb.github.io/docs/what-it-is.html)
-- [Real-Time Research: Top Reference Systems &lpar;Design Systems and UI Libs&rpar; 2023](https://app.excalidraw.com/l/5M4i1z9oaht/2Be9A63OXZt)
-- [WordPress blogs can now be followed on Mastodon and other federated platforms](https://techcrunch.com/2023/10/11/wordpress-com-blogs-can-now-be-followed-on-mastodon-and-other-federated-platforms/)
-- [The Scientist and the Warplane That Became Britain&#39;s Most Unlikely Airliner](https://www.thedrive.com/the-war-zone/the-nuclear-scientist-and-the-warplane-that-became-britains-most-unlikely-airliner)
 <!-- BLOG-POST-LIST:END -->
 
 ---
