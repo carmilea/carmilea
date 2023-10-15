@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cursor – The AI-First Code Editor](https://cursor.sh/)
 - [&quot;Hacker News&quot; for retro computing and gaming](https://blog.jgc.org/2023/10/hacker-news-for-retro-computing-and.html)
 - [Cloudflare Sippy: Incrementally Migrate Data from AWS S3 to Reduce Egress Fees](https://www.infoq.com/news/2023/10/cloudflare-sippy-migrate-s3/)
 - [Google has sent internet into &#39;spiral of decline&#39;, claims DeepMind co-founder](https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Technical Docs Lead &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/4965064004)
-- [Breakelse: When Compiler Developers Get Bored](https://neat-lang.github.io/breakelse.html?)
 <!-- BLOG-POST-LIST:END -->
 
 ---
