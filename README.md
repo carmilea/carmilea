@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 12 May Require a Subscription](https://uk.pcmag.com/migrated-3765-windows-10/149004/windows-12-may-require-a-subscription)
+- [The UN Risks Normalizing Internet Censorship](https://www.wired.com/story/united-nations-igf-saudi-arabia-russia/)
+- [OpenEarable: A new, open-source, Arduino-based platform for ear-based sensing](https://open-earable.teco.edu/)
 - [Show HN: Pg_yregress, Structured Testing for Postgres](https://github.com/omnigres/omnigres/tree/master/pg_yregress)
 - [SSH-audit: SSH server and client security auditing](https://github.com/jtesta/ssh-audit)
-- [Finland to vote against the EU mass surveillance and encryption ban directive](https://dawn.fi/uutiset/2023/10/14/eu-csam-suomi-eduskunta-kanta)
-- [Centimillionaires: Elites with Investable Assets of More Than $100M](https://www.investopedia.com/new-class-of-global-elite-have-emerged-8357556)
+- [The Polish Election Bazaar](https://dragonscave.space/@miki/111240259192723454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
