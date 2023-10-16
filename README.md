@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The U.S. Government Has $5B in Bitcoin](https://www.wsj.com/finance/currencies/federal-government-bitcoin-5-billion-78ce0938)
-- [Dig near Paris unearths beginnings of urbanization dating back to 4,200 BC](https://www.lemonde.fr/en/science/article/2023/10/16/an-archaeological-dig-near-paris-unearthed-beginnings-of-urbanization-dating-back-to-4-200-b-c_6177642_10.html)
-- [AI Tinder already exists: &#39;Real people will disappoint you, but not them&#39;](https://english.elpais.com/technology/2023-10-09/ai-tinder-already-exists-real-people-will-disappoint-you-but-not-them.html)
-- [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)
-- [Snowbanks are set to get whiter – offsetting climate change&#39;s effects](https://www.nature.com/articles/d41586-023-03106-2)
+- [The real engine behind &quot;AI&quot; is the bad tech economy](https://hachyderm.io/@softwaredoug/111245545674056246)
+- [LinkedIn laying off nearly 700, mostly from core engineering teams](https://www.cnbc.com/2023/10/16/microsoft-owned-linkedin-lays-off-nearly-700-read-the-memo-here.html)
+- [The Fall of Babylon is a warning to AI unicorns](https://www.wired.com/story/babylon-health-warning-ai-unicorns/)
+- [Launch HN: Radical &lpar;YC W23&rpar; – Autonomous high-altitude solar aircraft](https://news.ycombinator.com/item?id=37901120)
+- [Goldman Sachs reportedly said Apple Card savings account was a mistake](https://9to5mac.com/2023/10/16/apple-card-savings-account-mistake/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
