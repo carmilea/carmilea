@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenBSD 7.4](https://www.openbsd.org/74.html)
-- [OpenBSD 7.4 Released](https://www.undeadly.org/cgi?action=article;sid=20231016130614)
-- [X.org Alternatives? MicroXWin, Wayland, Y, DFB, Xynth, Fresco, etc. &lpar;2009&rpar;](https://bbs.archlinux.org/viewtopic.php?id=87281)
-- [Should You Be Scared of Unix Signals?](https://jvns.ca/blog/2016/06/13/should-you-be-scared-of-signals/)
-- [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
+- [The U.S. Government Has $5B in Bitcoin](https://www.wsj.com/finance/currencies/federal-government-bitcoin-5-billion-78ce0938)
+- [Dig near Paris unearths beginnings of urbanization dating back to 4,200 BC](https://www.lemonde.fr/en/science/article/2023/10/16/an-archaeological-dig-near-paris-unearthed-beginnings-of-urbanization-dating-back-to-4-200-b-c_6177642_10.html)
+- [AI Tinder already exists: &#39;Real people will disappoint you, but not them&#39;](https://english.elpais.com/technology/2023-10-09/ai-tinder-already-exists-real-people-will-disappoint-you-but-not-them.html)
+- [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)
+- [Snowbanks are set to get whiter – offsetting climate change&#39;s effects](https://www.nature.com/articles/d41586-023-03106-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
