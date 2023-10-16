@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Motion &lpar;YC W20&rpar; Is Hiring Staff Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [Tech layoffs exceed 240k so far in 2023, 50% more than 2022](https://www.msn.com/en-us/money/companies/tech-layoffs-exceed-240000-so-far-in-2023-more-than-50-higher-than-in-all-of-2022/ar-AA1ib3AY)
-- [Hong Kong Locations in Ghost in the Shell](https://randomwire.com/recreating-ghost-in-hong-kong/comment-page-1/)
-- [Can You Hide a Child&#39;s Face from A.I.?](https://www.nytimes.com/2023/10/14/technology/artifical-intelligence-children-privacy-internet.html)
-- [Signal says there is no evidence rumored zero-day bug is real](https://www.bleepingcomputer.com/news/security/signal-says-there-is-no-evidence-rumored-zero-day-bug-is-real/)
+- [Cecilia Payne-Gaposchkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin)
+- [Ask HN: New ThinkPad battery life on Ubuntu](https://news.ycombinator.com/item?id=37903574)
+- [One of America&#39;s most corporate-crime-friendly judges forced to recuse himself](https://pluralistic.net/2023/10/16/texas-two-step/#david-jones)
+- [&quot;About half of Bandcamp was laid off today&quot;](https://twitter.com/modernistwitch/status/1713962311579234428)
+- [The Mathematician Who Sculpted the Shape of Space](https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
