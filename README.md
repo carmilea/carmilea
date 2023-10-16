@@ -59,8 +59,8 @@
 - [Google&#39;s dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
 - [Percent Jobs](https://evertpot.com/on-80-percent-jobs/)
 - [SigNoz &lpar;YC W21&rpar;, open source Datadog alternative, hiring Senior Front end Engineer](https://signoz.io/careers/senior-frontend-engineer-in/)
-- [Some iPhone 15 Pro Max users are reporting OLED screen &#39;burn in&#39;](https://www.techradar.com/phones/iphone/some-iphone-15-pro-max-users-are-reporting-oled-screen-burn-in)
 - [EU member states still cannot agree about end-to-end encryption](https://cyberlaw.stanford.edu/blog/2023/06/eu-member-states-still-cannot-agree-about-end-end-encryption)
+- [How to Build a Universe That Doesn’t Fall Apart Two Days Later](https://urbigenous.net/library/how_to_build.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
