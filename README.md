@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Roundup herbicide ingredient connected to epidemic chronic kidney disease](https://phys.org/news/2023-10-roundup-herbicide-ingredient-epidemic-chronic.html)
+- [Vercel employee threatens user over domain similar to own project, gets fired](https://twitter.com/nico_jeannen/status/1713139186474406206)
+- [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://townflex.com/tanzania-unveils-first-aircraft-skyleader-600/)
 - [LinkedIn is laying off nearly 700 employees](https://www.npr.org/2023/10/16/1206158638/linkedin-layoffs)
-- [Ask HN: How do you get out of a rut?](https://news.ycombinator.com/item?id=37904101)
-- [Hallucineted CVE against Curl: someone asked Bard to find a vulnerability](https://mastodon.social/@bagder/111245232072475867)
-- [Leaving Twitter had no effect on NPR&#39;s traffic](https://pluralistic.net/2023/10/14/freedom-of-reach/)
-- [California to require firms to reveal carbon emissions in first law of its kind](https://www.theguardian.com/us-news/2023/oct/09/california-carbon-emissions-law)
+- [If the Economy Is So Strong, Why Are Consumer Stocks Tanking?](https://www.wsj.com/finance/stocks/if-the-economy-is-so-strong-why-are-consumer-stocks-tanking-904fbe7f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
