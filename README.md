@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Steve Bell sacked by Guardian in antisemitism row over Netanyahu cartoon](https://www.bbc.co.uk/news/entertainment-arts-67122609)
+- [OpenBSD 7.4](https://www.openbsd.org/74.html)
+- [OpenBSD 7.4 Released](https://www.undeadly.org/cgi?action=article;sid=20231016130614)
+- [X.org Alternatives? MicroXWin, Wayland, Y, DFB, Xynth, Fresco, etc. &lpar;2009&rpar;](https://bbs.archlinux.org/viewtopic.php?id=87281)
+- [Should You Be Scared of Unix Signals?](https://jvns.ca/blog/2016/06/13/should-you-be-scared-of-signals/)
 - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
-- [A little-known pollution rule keeps the air dirty for millions of Americans](https://www.theguardian.com/us-news/2023/oct/16/epa-local-governments-dont-report-air-pollution-wildfire-smoke-data-across-us)
-- [Verdn &lpar;YC W22&rpar; Is Hiring Full Stack Engineers in London](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
-- [Sensorvault](https://en.wikipedia.org/wiki/Sensorvault)
 <!-- BLOG-POST-LIST:END -->
 
 ---
