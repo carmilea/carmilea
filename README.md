@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Post-truth society is near](https://www.mindprison.cc/p/post-truth-society-is-near)
+- [Peter Molyneux wants Project MOAT to represent his life&#39;s work](https://www.gamedeveloper.com/business/peter-molyneux-wants-i-project-moat-i-to-represent-his-life-s-work)
+- [Cockpit: Web-based graphical interface for servers](https://cockpit-project.org/)
+- [Semihosting with VS Code on RP2040](https://mcuoneclipse.com/2023/10/14/semihosting-with-vs-code-on-rp2040/)
 - [Apple plans to update iPhones in-store without opening the boxes](https://appleinsider.com/articles/23/10/15/apple-plans-to-update-iphones-in-store-without-opening-the-boxes)
-- [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
-- [Why decline in generalists leads to disjointed games and harms tool quality](https://gameworldobserver.com/2023/10/09/generalists-vs-specialists-gamedev-tool-quality-tim-cain)
-- [Canada Abruptly Ends Official Time Signal](https://hackaday.com/2023/10/13/canada-abruptly-ends-official-time-signal/)
+- [I Will Fucking Haymaker You If You Mention Agile Again](https://ludic.mataroa.blog/blog/i-will-fucking-haymaker-you-if-you-mention-agile-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
