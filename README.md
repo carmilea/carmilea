@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Far Does $1 from 1999 Go Today?](https://perthirtysix.com/tool/visualizing-american-inflation)
 - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
 - [Canada Abruptly Ends Official Time Signal](https://hackaday.com/2023/10/13/canada-abruptly-ends-official-time-signal/)
 - [Engineering Judgement: Ralph Peck [video]](https://peck.geoengineer.org/resources/videos/singleVideo/41)
 - [Margaret Atwood Reviews a Margaret Atwood Story by AI](https://thewalrus.ca/margaret-atwood-ai/)
+- [Teaching Apple Cyberdog 1.0 new tricks &lpar;featuring OpenDoc&rpar;](http://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
