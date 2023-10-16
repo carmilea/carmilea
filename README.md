@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Software Engineers in the US](https://onesignal.com/careers/4264311006)
+- [Ask HN: Best Tech Courses/Certifications Under $400 for a Back End Engineer?](https://news.ycombinator.com/item?id=37906206)
+- [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://guanjunwu.github.io/4dgs/)
 - [Roundup herbicide ingredient connected to epidemic chronic kidney disease](https://phys.org/news/2023-10-roundup-herbicide-ingredient-epidemic-chronic.html)
-- [Vercel employee threatens user over domain similar to own project, gets fired](https://twitter.com/nico_jeannen/status/1713139186474406206)
 - [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://townflex.com/tanzania-unveils-first-aircraft-skyleader-600/)
-- [LinkedIn is laying off nearly 700 employees](https://www.npr.org/2023/10/16/1206158638/linkedin-layoffs)
-- [If the Economy Is So Strong, Why Are Consumer Stocks Tanking?](https://www.wsj.com/finance/stocks/if-the-economy-is-so-strong-why-are-consumer-stocks-tanking-904fbe7f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
