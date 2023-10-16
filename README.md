@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Extroverts more likely to resist vaccines, study shows](https://www.utep.edu/newsfeed/2023/extroverts-more-likely-to-resist-vaccines-study-shows.html)
+- [How Far Does $1 from 1999 Go Today?](https://perthirtysix.com/tool/visualizing-american-inflation)
+- [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
+- [Canada Abruptly Ends Official Time Signal](https://hackaday.com/2023/10/13/canada-abruptly-ends-official-time-signal/)
+- [Engineering Judgement: Ralph Peck [video]](https://peck.geoengineer.org/resources/videos/singleVideo/41)
 - [Margaret Atwood Reviews a Margaret Atwood Story by AI](https://thewalrus.ca/margaret-atwood-ai/)
-- [Teaching Apple Cyberdog 1.0 new tricks &lpar;featuring OpenDoc&rpar;](http://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
-- [Florida men scammed more than $1M out of Uber Eats](https://www.insider.com/2-florida-men-scammed-more-than-1-million-uber-eats-2023-8)
-- [GPL-3.0 licensed BIOS for Intel 8088 based computers](https://github.com/skiselev/8088_bios)
 <!-- BLOG-POST-LIST:END -->
 
 ---
