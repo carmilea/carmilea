@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://africa.businessinsider.com/local/markets/tanzania-takes-flight-unveiling-its-first-ever-homemade-aircraft/lbwekdx)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Software Engineers in the US](https://onesignal.com/careers/4264311006)
 - [Ask HN: Best Tech Courses/Certifications Under $400 for a Back End Engineer?](https://news.ycombinator.com/item?id=37906206)
-- [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://guanjunwu.github.io/4dgs/)
-- [Roundup herbicide ingredient connected to epidemic chronic kidney disease](https://phys.org/news/2023-10-roundup-herbicide-ingredient-epidemic-chronic.html)
-- [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://townflex.com/tanzania-unveils-first-aircraft-skyleader-600/)
+- [Coolify – Self-Hosting with Superpowers](https://coolify.io/)
+- [About half of Bandcamp employees have been laid off](https://www.theverge.com/2023/10/16/23919551/bandcamp-layoffs-epic-songtradr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
