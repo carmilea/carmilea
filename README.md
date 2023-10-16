@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Steve Bell sacked by Guardian in antisemitism row over Netanyahu cartoon](https://www.bbc.co.uk/news/entertainment-arts-67122609)
+- [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
 - [A little-known pollution rule keeps the air dirty for millions of Americans](https://www.theguardian.com/us-news/2023/oct/16/epa-local-governments-dont-report-air-pollution-wildfire-smoke-data-across-us)
-- [Asteroids Are Hiding Never-Seen Elements from Beyond the Periodic Table](https://charmingscience.com/asteroids-are-hiding-never-seen-elements-from-beyond-the-periodic-table/)
 - [Verdn &lpar;YC W22&rpar; Is Hiring Full Stack Engineers in London](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
 - [Sensorvault](https://en.wikipedia.org/wiki/Sensorvault)
-- [Oughtred Society Archive of Slide Rule Collections](https://osgalleries.org/collectors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
