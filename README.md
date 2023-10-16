@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SigNoz &lpar;YC W21&rpar;, open source Datadog alternative, hiring Senior Front end Engineer](https://signoz.io/careers/senior-frontend-engineer-in/)
+- [Some iPhone 15 Pro Max users are reporting OLED screen &#39;burn in&#39;](https://www.techradar.com/phones/iphone/some-iphone-15-pro-max-users-are-reporting-oled-screen-burn-in)
 - [&quot;How to Build a Universe That Doesn&#39;t Fall Apart Two Days Later&quot; – Philip K Dick &lpar;1978&rpar;](https://urbigenous.net/library/how_to_build.html)
 - [Peter Molyneux wants Project MOAT to represent his life&#39;s work](https://www.gamedeveloper.com/business/peter-molyneux-wants-i-project-moat-i-to-represent-his-life-s-work)
 - [PaLI-3 Vision Language Models](https://arxiv.org/abs/2310.09199)
-- [Tech giants are hijacking the internet](https://www.dw.com/en/how-tech-giants-are-hijacking-the-internet/a-67037639)
-- [Cockpit: Web-based graphical interface for servers](https://cockpit-project.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
