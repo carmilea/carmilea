@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Peter Molyneux wants Project MOAT to represent his life&#39;s work](https://www.gamedeveloper.com/business/peter-molyneux-wants-i-project-moat-i-to-represent-his-life-s-work)
+- [PaLI-3 Vision Language Models](https://arxiv.org/abs/2310.09199)
+- [Tech giants are hijacking the internet](https://www.dw.com/en/how-tech-giants-are-hijacking-the-internet/a-67037639)
 - [Cockpit: Web-based graphical interface for servers](https://cockpit-project.org/)
 - [Semihosting with VS Code on RP2040](https://mcuoneclipse.com/2023/10/14/semihosting-with-vs-code-on-rp2040/)
-- [Apple plans to update iPhones in-store without opening the boxes](https://appleinsider.com/articles/23/10/15/apple-plans-to-update-iphones-in-store-without-opening-the-boxes)
-- [I Will Fucking Haymaker You If You Mention Agile Again](https://ludic.mataroa.blog/blog/i-will-fucking-haymaker-you-if-you-mention-agile-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
