@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why are there no open source NVMe-native key value stores in 2023?](https://news.ycombinator.com/item?id=37897921)
-- [FreeTube – The Private YouTube Client](https://github.com/FreeTubeApp/FreeTube)
-- [Zip – How not to design a file format &lpar;2021&rpar;](https://games.greggman.com/game/zip-rant/)
-- [Windows 10 warns me to use a &quot;Microsoft-verified&quot; app](https://support.mozilla.org/en-US/kb/windows-10-warns-me-use-microsoft-verified-app)
-- [Atlassian prepares to abandon on-prem server products](https://www.theregister.com/2023/10/16/atlassian_cloud_migration_server_deprecation/)
+- [A little-known pollution rule keeps the air dirty for millions of Americans](https://www.theguardian.com/us-news/2023/oct/16/epa-local-governments-dont-report-air-pollution-wildfire-smoke-data-across-us)
+- [Asteroids Are Hiding Never-Seen Elements from Beyond the Periodic Table](https://charmingscience.com/asteroids-are-hiding-never-seen-elements-from-beyond-the-periodic-table/)
+- [Verdn &lpar;YC W22&rpar; Is Hiring Full Stack Engineers in London](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
+- [Sensorvault](https://en.wikipedia.org/wiki/Sensorvault)
+- [Oughtred Society Archive of Slide Rule Collections](https://osgalleries.org/collectors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
