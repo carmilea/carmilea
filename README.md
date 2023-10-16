@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Post-truth society is near](https://www.mindprison.cc/p/post-truth-society-is-near)
+- [Apple plans to update iPhones in-store without opening the boxes](https://appleinsider.com/articles/23/10/15/apple-plans-to-update-iphones-in-store-without-opening-the-boxes)
 - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
+- [Why decline in generalists leads to disjointed games and harms tool quality](https://gameworldobserver.com/2023/10/09/generalists-vs-specialists-gamedev-tool-quality-tim-cain)
 - [Canada Abruptly Ends Official Time Signal](https://hackaday.com/2023/10/13/canada-abruptly-ends-official-time-signal/)
-- [Engineering Judgement: Ralph Peck [video]](https://peck.geoengineer.org/resources/videos/singleVideo/41)
-- [Margaret Atwood Reviews a Margaret Atwood Story by AI](https://thewalrus.ca/margaret-atwood-ai/)
-- [Teaching Apple Cyberdog 1.0 new tricks &lpar;featuring OpenDoc&rpar;](http://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
