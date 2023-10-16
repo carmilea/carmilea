@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cecilia Payne-Gaposchkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin)
-- [Ask HN: New ThinkPad battery life on Ubuntu](https://news.ycombinator.com/item?id=37903574)
-- [One of America&#39;s most corporate-crime-friendly judges forced to recuse himself](https://pluralistic.net/2023/10/16/texas-two-step/#david-jones)
-- [&quot;About half of Bandcamp was laid off today&quot;](https://twitter.com/modernistwitch/status/1713962311579234428)
-- [The Mathematician Who Sculpted the Shape of Space](https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/)
+- [LinkedIn is laying off nearly 700 employees](https://www.npr.org/2023/10/16/1206158638/linkedin-layoffs)
+- [Ask HN: How do you get out of a rut?](https://news.ycombinator.com/item?id=37904101)
+- [Hallucineted CVE against Curl: someone asked Bard to find a vulnerability](https://mastodon.social/@bagder/111245232072475867)
+- [Leaving Twitter had no effect on NPR&#39;s traffic](https://pluralistic.net/2023/10/14/freedom-of-reach/)
+- [California to require firms to reveal carbon emissions in first law of its kind](https://www.theguardian.com/us-news/2023/oct/09/california-carbon-emissions-law)
 <!-- BLOG-POST-LIST:END -->
 
 ---
