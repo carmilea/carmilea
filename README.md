@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
-- [Percent Jobs](https://evertpot.com/on-80-percent-jobs/)
+- [Zip – How not to design a file format &lpar;2021&rpar;](https://games.greggman.com/game/zip-rant/)
+- [Windows 10 warns me to use a &quot;Microsoft-verified&quot; app](https://support.mozilla.org/en-US/kb/windows-10-warns-me-use-microsoft-verified-app)
+- [Atlassian prepares to abandon on-prem server products](https://www.theregister.com/2023/10/16/atlassian_cloud_migration_server_deprecation/)
+- [Google’s dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
 - [SigNoz &lpar;YC W21&rpar;, open source Datadog alternative, hiring Senior Front end Engineer](https://signoz.io/careers/senior-frontend-engineer-in/)
-- [EU member states still cannot agree about end-to-end encryption](https://cyberlaw.stanford.edu/blog/2023/06/eu-member-states-still-cannot-agree-about-end-end-encryption)
-- [How to Build a Universe That Doesn’t Fall Apart Two Days Later](https://urbigenous.net/library/how_to_build.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
