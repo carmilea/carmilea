@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;How to Build a Universe That Doesn&#39;t Fall Apart Two Days Later&quot; – Philip K Dick &lpar;1978&rpar;](https://urbigenous.net/library/how_to_build.html)
 - [Peter Molyneux wants Project MOAT to represent his life&#39;s work](https://www.gamedeveloper.com/business/peter-molyneux-wants-i-project-moat-i-to-represent-his-life-s-work)
 - [PaLI-3 Vision Language Models](https://arxiv.org/abs/2310.09199)
 - [Tech giants are hijacking the internet](https://www.dw.com/en/how-tech-giants-are-hijacking-the-internet/a-67037639)
 - [Cockpit: Web-based graphical interface for servers](https://cockpit-project.org/)
-- [Semihosting with VS Code on RP2040](https://mcuoneclipse.com/2023/10/14/semihosting-with-vs-code-on-rp2040/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
