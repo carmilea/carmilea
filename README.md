@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google&#39;s dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
+- [Percent Jobs](https://evertpot.com/on-80-percent-jobs/)
 - [SigNoz &lpar;YC W21&rpar;, open source Datadog alternative, hiring Senior Front end Engineer](https://signoz.io/careers/senior-frontend-engineer-in/)
 - [Some iPhone 15 Pro Max users are reporting OLED screen &#39;burn in&#39;](https://www.techradar.com/phones/iphone/some-iphone-15-pro-max-users-are-reporting-oled-screen-burn-in)
-- [&quot;How to Build a Universe That Doesn&#39;t Fall Apart Two Days Later&quot; – Philip K Dick &lpar;1978&rpar;](https://urbigenous.net/library/how_to_build.html)
-- [Peter Molyneux wants Project MOAT to represent his life&#39;s work](https://www.gamedeveloper.com/business/peter-molyneux-wants-i-project-moat-i-to-represent-his-life-s-work)
-- [PaLI-3 Vision Language Models](https://arxiv.org/abs/2310.09199)
+- [EU member states still cannot agree about end-to-end encryption](https://cyberlaw.stanford.edu/blog/2023/06/eu-member-states-still-cannot-agree-about-end-end-encryption)
 <!-- BLOG-POST-LIST:END -->
 
 ---
