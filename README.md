@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS pulls plug on 3rd party re:Invent planning apps day before registration](https://twitter.com/donkersgood/status/1714161357510095292?s=46&t=LghIQ7soh6pCfjuNxdqDjQ)
-- [Leaked Microsoft pay guidelines – salary, hiring bonus, stock awards by level](https://www.businessinsider.com/microsoft-pay-guidelines-salary-hiring-bonus-stock-levels-2023-10)
-- [Unfounded concerns about photovoltaic toxicity and waste slowing decarbonization](https://www.nature.com/articles/s41567-023-02230-0)
-- [Piped – An alternative privacy-friendly YouTube front end](https://github.com/TeamPiped/Piped)
-- [SiFive Rolls Out RISC-V Cores Aimed at Generative AI and ML](https://www.allaboutcircuits.com/news/sifive-rolls-out-risc-v-cores-aimed-at-generative-ai-and-ml/)
+- [Lago &lpar;Open-Source Alternative to Stripe Billing&rpar; Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/lago/jobs/H5LnVlE-chief-of-staff-to-ceo)
+- [Interviews in the Age of AI: Ditch Leetcode – Try Code Reviews Instead](https://chrlschn.dev/blog/2023/07/interviews-age-of-ai-ditch-leetcode-try-code-reviews-instead/)
+- [Encrypt. Now.](https://blog.tripu.info/encrypt/)
+- [Canadian cannabis market struggles five years after legalisation](https://www.bbc.com/news/world-us-canada-67126243)
+- [No morphological differences between living and non-living systems are yet known](https://www.chemistryworld.com/opinion/shape-is-not-enough-to-distinguish-life-from-abiotic-systems/4017874.article)
 <!-- BLOG-POST-LIST:END -->
 
 ---
