@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is it easy to got from back end engineer to tech YouTuber? Watch Marko&#39;s journey [video]](https://www.youtube.com/watch?v=Vo4-6tEP1Ts)
-- [Five Design Principles for Building a Data Pipeline Engine](https://docs.tenzir.com/blog/five-design-principles-for-building-a-data-pipeline-engine)
-- [Ask HN: When LLMs make stuff up, call it &#39;confabulating&#39;, not &#39;hallucinating&#39;](https://news.ycombinator.com/item?id=37912421)
+- [AWS pulls plug on 3rd party re:Invent planning apps day before registration](https://twitter.com/donkersgood/status/1714161357510095292?s=46&t=LghIQ7soh6pCfjuNxdqDjQ)
+- [Leaked Microsoft pay guidelines – salary, hiring bonus, stock awards by level](https://www.businessinsider.com/microsoft-pay-guidelines-salary-hiring-bonus-stock-levels-2023-10)
 - [Unfounded concerns about photovoltaic toxicity and waste slowing decarbonization](https://www.nature.com/articles/s41567-023-02230-0)
+- [Piped – An alternative privacy-friendly YouTube front end](https://github.com/TeamPiped/Piped)
 - [SiFive Rolls Out RISC-V Cores Aimed at Generative AI and ML](https://www.allaboutcircuits.com/news/sifive-rolls-out-risc-v-cores-aimed-at-generative-ai-and-ml/)
 <!-- BLOG-POST-LIST:END -->
 
