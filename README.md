@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Nepo-homebuyers&quot;: 38% of young buyers use family money for down payments](https://www.axios.com/2023/10/16/nepo-homebuyers-housing-market-meaning-millennials)
-- [Science is bringing historic Apple varieties back to life](https://www.nature.com/articles/d41586-023-03229-6)
+- [Patlabor 2, the Movie: realistic portrayal of modern aerial combat](https://taskandpurpose.com/culture/realistic-aerial-combat-movie-patlabor-2/)
+- [AI-generating music app Riffusion turns viral success into $4M in funding](https://techcrunch.com/2023/10/17/ai-generating-music-app-riffusion-turns-viral-success-into-4m-in-funding/)
+- [Swedish union declares strike for Tesla employees](https://www.ifmetall.se/aktuellt/tesla/background-information-on-if-metalls-conflict-at-tesla/)
 - [Circulant Matrices, Eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
 - [Love After Life: Richard Feynman&#39;s Letter to His Departed Wife](https://www.themarginalian.org/2017/10/17/richard-feynman-arline-letter/)
-- [Show HN: Riffusion with Lyrics](https://www.riffusion.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
