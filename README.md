@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it easy to got from back end engineer to tech YouTuber? Watch Marko&#39;s journey [video]](https://www.youtube.com/watch?v=Vo4-6tEP1Ts)
+- [Five Design Principles for Building a Data Pipeline Engine](https://docs.tenzir.com/blog/five-design-principles-for-building-a-data-pipeline-engine)
+- [Ask HN: When LLMs make stuff up, call it &#39;confabulating&#39;, not &#39;hallucinating&#39;](https://news.ycombinator.com/item?id=37912421)
 - [Unfounded concerns about photovoltaic toxicity and waste slowing decarbonization](https://www.nature.com/articles/s41567-023-02230-0)
 - [SiFive Rolls Out RISC-V Cores Aimed at Generative AI and ML](https://www.allaboutcircuits.com/news/sifive-rolls-out-risc-v-cores-aimed-at-generative-ai-and-ml/)
-- [Finland&#39;s ChatGPT equivalent begins to think in Estonian as well](https://news.err.ee/1609120697/finland-s-chatgpt-equivalent-begins-to-think-in-estonian-as-well)
-- [Do You Need a Visit to the Confident Man Ranch?](https://www.gq.com/story/confident-man-ranch-profile)
-- [Iowa Man Files Lawsuit After Being Arrested Twice for Criticizing the Police](https://reason.com/2023/10/13/iowa-man-files-lawsuit-after-being-arrested-twice-for-criticizing-the-police-at-a-public-meeting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
