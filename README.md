@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Do You Need a Visit to the Confident Man Ranch?](https://www.gq.com/story/confident-man-ranch-profile)
 - [Iowa Man Files Lawsuit After Being Arrested Twice for Criticizing the Police](https://reason.com/2023/10/13/iowa-man-files-lawsuit-after-being-arrested-twice-for-criticizing-the-police-at-a-public-meeting/)
 - [BB&lpar;3, 3&rpar; is Hard](https://www.sligocki.com//2023/10/16/bb-3-3-is-hard.html)
 - [Antibiotic Identified by AI](https://www.nature.com/articles/s41589-023-01448-6)
 - [Ruff v0.1.0](https://astral.sh/blog/ruff-v0.1.0)
-- [Getaddrinfo&lpar;&rpar; on glibc calls getenv&lpar;&rpar;, oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
