@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37921497)
+- [How We&#39;ll build sustainable, scalable, secure infrastructure for an AI future](https://cloud.google.com/blog/topics/systems/google-systems-innovations-at-ocp-global-summit)
 - [What happened to blogging for the hell of it?](https://blog.whiona.me/what-happened-to-blogging-for-the-hell-of-it/)
-- [IRS will officially launch free online tax filing service for 2024 tax season](https://www.irs.gov/newsroom/irs-advances-innovative-direct-file-project-for-2024-tax-season-free-irs-run-pilot-option-projected-to-be-available-for-eligible-taxpayers-in-13-states)
-- [Gnome Foundation Welcomes Holly Million as Executive Director](https://foundation.gnome.org/2023/10/17/foundation-welcomes-new-executive-director/)
-- [Superlinear Returns](http://paulgraham.com/superlinear.html)
-- [ExecuTorch: Run PyTorch programs on mobile and edge devices](https://pytorch.org/executorch/stable/index.html)
+- [Raspberry Pi 5 vs. Orange Pi 5 Plus vs. Rock 5 Model B](https://picockpit.com/raspberry-pi/raspberry-pi-5-vs-orange-pi-5-plus-vs-rock-5-model-b/)
+- [Lumalabs AI](https://lumalabs.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
