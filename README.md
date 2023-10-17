@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mypy 1.6](https://mypy-lang.blogspot.com/2023/10/mypy-16-released.html)
-- [Treble.ai &lpar;YC S19&rpar; Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
-- [Google Proposes New Mseal&lpar;&rpar; Memory Sealing Syscall for Linux](https://www.phoronix.com/news/Linux-mseal-Memory-Sealing)
-- [Security Vulnerability of Switzerland&#39;s E-Voting System](https://www.schneier.com/blog/archives/2023/10/security-vulnerability-of-switzerlands-e-voting-system.html)
-- [Home Insurance Is So High in This Florida Town, Residents Are Leaving](https://www.wsj.com/real-estate/home-insurance-is-so-high-in-this-florida-town-residents-are-leaving-bb00c96f)
+- [&quot;Nepo-homebuyers&quot;: 38% of young buyers use family money for down payments](https://www.axios.com/2023/10/16/nepo-homebuyers-housing-market-meaning-millennials)
+- [Science is bringing historic Apple varieties back to life](https://www.nature.com/articles/d41586-023-03229-6)
+- [Circulant Matrices, Eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
+- [Love After Life: Richard Feynman&#39;s Letter to His Departed Wife](https://www.themarginalian.org/2017/10/17/richard-feynman-arline-letter/)
+- [Show HN: Riffusion with Lyrics](https://www.riffusion.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
