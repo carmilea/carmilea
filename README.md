@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;A Young Lady&#39;s Illustrated Primer&quot; Simulated by GPT-4](https://www.andrealyip.com/a-young-ladys-illustrated-primer)
+- [Stable Diffusion Gets a Major Boost with RTX Acceleration](https://www.nvidia.com/en-us/geforce/news/game-ready-driver-dlss-3-naraka-vermintide-rtx-vsr/)
+- [How Do We Clean Up the Scientific Record?](https://academic.oup.com/function/article/4/6/zqad055/7306462)
 - [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37921497)
 - [How We&#39;ll build sustainable, scalable, secure infrastructure for an AI future](https://cloud.google.com/blog/topics/systems/google-systems-innovations-at-ocp-global-summit)
-- [What happened to blogging for the hell of it?](https://blog.whiona.me/what-happened-to-blogging-for-the-hell-of-it/)
-- [Raspberry Pi 5 vs. Orange Pi 5 Plus vs. Rock 5 Model B](https://picockpit.com/raspberry-pi/raspberry-pi-5-vs-orange-pi-5-plus-vs-rock-5-model-b/)
-- [Lumalabs AI](https://lumalabs.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
