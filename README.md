@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In California, You Can Now Sell Your ADU](https://www.dwell.com/article/california-assembly-bill-1033-sell-your-adu-backyard-house-ab18999c)
-- [Tesla urges US to adopt much tougher fuel efficiency rules](https://www.reuters.com/business/autos-transportation/tesla-says-us-should-adopt-tougher-fuel-efficiency-rules-2023-10-17/)
+- [Superlinear Returns](http://paulgraham.com/superlinear.html)
+- [Ishkur&#39;s Guide to Electronic Music](https://music.ishkur.com/)
+- [Rayban Meta Smart Glasses](https://www.meta.com/de/smart-glasses/)
+- [Tesla owner received a $21,000 bill after the battery was damaged by rain](https://www.businessinsider.com/tesla-owners-bill-battery-damaged-ev-scotland-weather-2023-10)
 - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
-- [Marc Andreessen&#39;s AI manifesto hurts his own cause](https://www.axios.com/2023/10/17/marc-andreessens-ai-manifesto-hurts-his-own-cause)
-- [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/fz7HstY-full-stack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
