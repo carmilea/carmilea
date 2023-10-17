@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wales&#39; 20mph speed limit: How has the first month gone?](https://www.bbc.co.uk/news/uk-wales-67064306)
+- [SiFive Rolls Out RISC-V Cores Aimed at Generative AI and ML](https://www.allaboutcircuits.com/news/sifive-rolls-out-risc-v-cores-aimed-at-generative-ai-and-ml/)
+- [Craig Murray Arrested Under Terrorism Act While Returning from Iceland](https://twitter.com/khrafnsson/status/1714003661834068390)
 - [Finland&#39;s ChatGPT equivalent begins to think in Estonian as well](https://news.err.ee/1609120697/finland-s-chatgpt-equivalent-begins-to-think-in-estonian-as-well)
-- [Engineering Team Lessons from Cycling](https://benjiweber.co.uk/blog/2023/10/15/engineering-team-lessons-from-cycling/)
 - [Do You Need a Visit to the Confident Man Ranch?](https://www.gq.com/story/confident-man-ranch-profile)
-- [Iowa Man Files Lawsuit After Being Arrested Twice for Criticizing the Police](https://reason.com/2023/10/13/iowa-man-files-lawsuit-after-being-arrested-twice-for-criticizing-the-police-at-a-public-meeting/)
-- [Japan Airlines lays on extra plane after sumo wrestlers make too heavy to fly](https://www.theguardian.com/world/2023/oct/16/weighty-issue-japan-airlines-lays-on-extra-plane-after-sumo-wrestlers-make-aircraft-too-heavy-to-fly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
