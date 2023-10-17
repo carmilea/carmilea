@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lago &lpar;Open-Source Alternative to Stripe Billing&rpar; Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/lago/jobs/H5LnVlE-chief-of-staff-to-ceo)
-- [Interviews in the Age of AI: Ditch Leetcode – Try Code Reviews Instead](https://chrlschn.dev/blog/2023/07/interviews-age-of-ai-ditch-leetcode-try-code-reviews-instead/)
-- [Encrypt. Now.](https://blog.tripu.info/encrypt/)
-- [Canadian cannabis market struggles five years after legalisation](https://www.bbc.com/news/world-us-canada-67126243)
-- [No morphological differences between living and non-living systems are yet known](https://www.chemistryworld.com/opinion/shape-is-not-enough-to-distinguish-life-from-abiotic-systems/4017874.article)
+- [Mypy 1.6](https://mypy-lang.blogspot.com/2023/10/mypy-16-released.html)
+- [Treble.ai &lpar;YC S19&rpar; Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
+- [Google Proposes New Mseal&lpar;&rpar; Memory Sealing Syscall for Linux](https://www.phoronix.com/news/Linux-mseal-Memory-Sealing)
+- [Security Vulnerability of Switzerland&#39;s E-Voting System](https://www.schneier.com/blog/archives/2023/10/security-vulnerability-of-switzerlands-e-voting-system.html)
+- [Home Insurance Is So High in This Florida Town, Residents Are Leaving](https://www.wsj.com/real-estate/home-insurance-is-so-high-in-this-florida-town-residents-are-leaving-bb00c96f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
