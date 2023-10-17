@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Edinburgh couple are handed £17K bill by Tesla as they &#39;drove in rain&#39;](https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-couple-fume-handed-17k-27906242)
-- [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://africa.businessinsider.com/local/markets/tanzania-takes-flight-unveiling-its-first-ever-homemade-aircraft/lbwekdx)
-- [NY Bill Would Require Background Checks to Buy 3D Printers](https://www.tomshardware.com/news/ny-bill-bans-3d-printers)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Software Engineers in the US](https://onesignal.com/careers/4264311006)
-- [Ask HN: Best Tech Courses/Certifications Under $400 for a Back End Engineer?](https://news.ycombinator.com/item?id=37906206)
+- [Getaddrinfo&lpar;&rpar; on glibc calls getenv&lpar;&rpar;, oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
+- [Title 38, §1614: Products containing PFAS](https://www.mainelegislature.org/legis/statutes/38/title38sec1614.html)
+- [NASA&#39;s Webb captures an ethereal view of NGC 346](https://phys.org/news/2023-10-nasa-webb-captures-ethereal-view.html)
+- [Detroit wants to be the first big American city to tax land value](https://www.economist.com/united-states/2023/10/05/detroit-wants-to-be-the-first-big-american-city-to-tax-land-value)
+- [Skyvew – View and share Bluesky threads without needing a Bluesky account](https://skyview.social/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
