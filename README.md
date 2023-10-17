@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
+- [The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
+- [Detroit: magic wand makes dirty air look clean and lets polluters off the hook](https://www.theguardian.com/us-news/2023/oct/17/us-local-governments-oil-gas-lobbyists-use-millions-dollars-hiding-wildfire-climate-change-pollution)
 - [&quot;A Young Lady&#39;s Illustrated Primer&quot; Simulated by GPT-4](https://www.andrealyip.com/a-young-ladys-illustrated-primer)
-- [Stable Diffusion Gets a Major Boost with RTX Acceleration](https://www.nvidia.com/en-us/geforce/news/game-ready-driver-dlss-3-naraka-vermintide-rtx-vsr/)
-- [How Do We Clean Up the Scientific Record?](https://academic.oup.com/function/article/4/6/zqad055/7306462)
-- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37921497)
-- [How We&#39;ll build sustainable, scalable, secure infrastructure for an AI future](https://cloud.google.com/blog/topics/systems/google-systems-innovations-at-ocp-global-summit)
+- [How do we clean up the scientific record?](https://academic.oup.com/function/article/4/6/zqad055/7306462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
