@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Getaddrinfo&lpar;&rpar; on glibc calls getenv&lpar;&rpar;, oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
-- [Title 38, §1614: Products containing PFAS](https://www.mainelegislature.org/legis/statutes/38/title38sec1614.html)
-- [NASA&#39;s Webb captures an ethereal view of NGC 346](https://phys.org/news/2023-10-nasa-webb-captures-ethereal-view.html)
-- [Detroit wants to be the first big American city to tax land value](https://www.economist.com/united-states/2023/10/05/detroit-wants-to-be-the-first-big-american-city-to-tax-land-value)
-- [Skyvew – View and share Bluesky threads without needing a Bluesky account](https://skyview.social/)
+- [The Salmon on Your Plate Has a Troubling Cost. These Farms Offer Hope](https://www.nytimes.com/2023/10/16/dining/farm-raised-salmon-sustainability.html)
+- [Ford lays off 700 who were building electric version of F-150](https://www.cnn.com/2023/10/16/business/ford-f150-lightning-layoffs/index.html)
+- [Antarctic Ice Shelf Demise](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctic_ice_shelf_demise)
+- [Rite Aid Files for Bankruptcy](https://www.cbsnews.com/news/rite-aid-bankruptcy-opioids-lawsuits/)
+- [Ruff v0.1.0](https://astral.sh/blog/ruff-v0.1.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
