@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iowa Man Files Lawsuit After Being Arrested Twice for Criticizing the Police](https://reason.com/2023/10/13/iowa-man-files-lawsuit-after-being-arrested-twice-for-criticizing-the-police-at-a-public-meeting/)
 - [BB&lpar;3, 3&rpar; is Hard](https://www.sligocki.com//2023/10/16/bb-3-3-is-hard.html)
-- [Hamas Got Around Israel&#39;s Surveillance Prowess by Going Dark](https://www.bloomberg.com/news/articles/2023-10-10/hamas-outmaneuvered-israel-s-surveillance-prowess-by-going-dark)
 - [Antibiotic Identified by AI](https://www.nature.com/articles/s41589-023-01448-6)
-- [Antarctic Ice Shelf Demise](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctic_ice_shelf_demise)
-- [Rite Aid Files for Bankruptcy](https://www.cbsnews.com/news/rite-aid-bankruptcy-opioids-lawsuits/)
+- [Ruff v0.1.0](https://astral.sh/blog/ruff-v0.1.0)
+- [Getaddrinfo&lpar;&rpar; on glibc calls getenv&lpar;&rpar;, oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
