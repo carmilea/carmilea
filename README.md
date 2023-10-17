@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What happened to blogging for the hell of it?](https://blog.whiona.me/what-happened-to-blogging-for-the-hell-of-it/)
+- [IRS will officially launch free online tax filing service for 2024 tax season](https://www.irs.gov/newsroom/irs-advances-innovative-direct-file-project-for-2024-tax-season-free-irs-run-pilot-option-projected-to-be-available-for-eligible-taxpayers-in-13-states)
+- [Gnome Foundation Welcomes Holly Million as Executive Director](https://foundation.gnome.org/2023/10/17/foundation-welcomes-new-executive-director/)
 - [Superlinear Returns](http://paulgraham.com/superlinear.html)
-- [Ishkur&#39;s Guide to Electronic Music](https://music.ishkur.com/)
-- [Rayban Meta Smart Glasses](https://www.meta.com/de/smart-glasses/)
-- [Tesla owner received a $21,000 bill after the battery was damaged by rain](https://www.businessinsider.com/tesla-owners-bill-battery-damaged-ev-scotland-weather-2023-10)
-- [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
+- [ExecuTorch: Run PyTorch programs on mobile and edge devices](https://pytorch.org/executorch/stable/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
