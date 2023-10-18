@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nitrous oxide: Laughing gas possession to be illegal in three weeks](https://www.bbc.co.uk/news/uk-67141869)
+- [C++ Modules: Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
 - [Nushell 0.86](https://www.nushell.sh/blog/2023-10-17-nushell_0_86.html)
-- [When was the last time Marc Andreessen talked to a poor person?](https://techcrunch.com/2023/10/17/when-was-the-last-time-marc-andreessen-talked-to-a-poor-person/)
 - [Barnes and Noble Sets Itself Free](https://www.nytimes.com/2023/10/17/style/barnes-noble-redesign.html)
-- [Open source app to watch videos from any platform](https://gitlab.futo.org/videostreaming/grayjay)
+- [Grayjay – Follow Creators Not Platforms](https://grayjay.app/)
+- [Localization Failure: Temperature Is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
