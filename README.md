@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo Layoffs](https://sfstandard.com/2023/10/17/tech-layoffs-waymo-san-francisco-robotaxi/)
+- [Google opens Falcon, a reliable low-latency hardware transport, to the ecosystem](https://cloud.google.com/blog/topics/systems/introducing-falcon-a-reliable-low-latency-hardware-transport)
 - [AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
 - [The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
-- [Detroit: magic wand makes dirty air look clean and lets polluters off the hook](https://www.theguardian.com/us-news/2023/oct/17/us-local-governments-oil-gas-lobbyists-use-millions-dollars-hiding-wildfire-climate-change-pollution)
-- [&quot;A Young Lady&#39;s Illustrated Primer&quot; Simulated by GPT-4](https://www.andrealyip.com/a-young-ladys-illustrated-primer)
-- [How do we clean up the scientific record?](https://academic.oup.com/function/article/4/6/zqad055/7306462)
+- [Universal cancer vaccine trial shows significant improvement in overall survival](https://ultimovacs.com/investors/news/ultimovacs-announces-nipu-results-presented-at-esmo-2023-significant-and-clinically-meaningful-improvement-in-overall-survival-for-patients-receiving-uv1-cancer-vaccine-in-phase-ii-nipu-trial-in-mali)
 <!-- BLOG-POST-LIST:END -->
 
 ---
