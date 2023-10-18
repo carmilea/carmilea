@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Every member of Bandcamp United Union bargaining team was laid off – Hypebot](https://www.hypebot.com/hypebot/2023/10/every-member-of-bandcamp-united-union-bargaining-team-was-laid-off.html)
-- [The Enhanced Game – Sports, without drug testing](https://enhanced.org/)
-- [How to Scale Nuclear Power](https://a16z.com/how-to-scale-nuclear-power/)
-- [ArgoCon – Vendor-neutral Argo-focused Event](https://akuity.io/argocon/)
-- [Prequel.co &lpar;Enterprise Data Sharing&rpar; Is Hiring a Founding Marketer](https://prequelco.notion.site/Founding-Marketer-Prequel-prequel-co-1d7c0fe411fa4989a50729c014611f1c)
+- [Ask HN: Where to Host a FastAPI App](https://news.ycombinator.com/item?id=37935817)
+- [CT scanned: What&#39;s inside Apple&#39;s $129 Thunderbolt cable?](https://twitter.com/JonBruner/status/1714696044356005949)
+- [Richard Feynman explains neutron stars](https://twitter.com/1517fund/status/1714766669149532351)
+- [The game theory of the Republican speakership crisis](https://www.natesilver.net/p/the-game-theory-of-the-republican)
+- [AlmaLinux stays Red Hat Enterprise Linux compatible without Red Hat code](https://www.zdnet.com/article/how-almalinux-stays-red-hat-enterprise-linux-compatible-without-red-hat-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
