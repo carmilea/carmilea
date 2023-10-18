@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Even the FBI says you need to patch this Atlassian Confluence bug](https://www.techradar.com/pro/security/even-the-fbi-says-you-need-to-patch-this-atlassian-confluence-bug-right-now)
-- [USB-C teardown with CT scans: Thunderbolt and more](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
-- [Titanium oxide material can remove toxic dyes from wastewater](https://phys.org/news/2023-10-titanium-oxide-material-toxic-dyes.html)
-- [Shift Happens Cover Stories: guess the Shift keys of retro keyboards](https://shifthappens.site/cover-stories/)
-- [OpenAI just replaced its core values with completely different ones](https://futurism.com/the-byte/openai-core-values-agi)
+- [Launch HN: Pier &lpar;YC W23&rpar; – Stripe for Credit](https://news.ycombinator.com/item?id=37930441)
+- [Nvidia&#39;s banking on TensorRT to expand its generative AI dominance](https://www.theverge.com/2023/10/17/23920945/nvidia-gpus-tensor-llms-ai)
+- [New pill helps Covid smell and taste loss fade quickly](https://www.nature.com/articles/d41586-023-03244-7)
+- [PyTorch Edge](https://pytorch.org/blog/pytorch-edge/)
+- [Microfrontends should be your last resort](https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
