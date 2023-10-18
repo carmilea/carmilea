@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Every member of Bandcamp United Union bargaining team was laid off – Hypebot](https://www.hypebot.com/hypebot/2023/10/every-member-of-bandcamp-united-union-bargaining-team-was-laid-off.html)
+- [The Enhanced Game – Sports, without drug testing](https://enhanced.org/)
+- [How to Scale Nuclear Power](https://a16z.com/how-to-scale-nuclear-power/)
+- [ArgoCon – Vendor-neutral Argo-focused Event](https://akuity.io/argocon/)
 - [Prequel.co &lpar;Enterprise Data Sharing&rpar; Is Hiring a Founding Marketer](https://prequelco.notion.site/Founding-Marketer-Prequel-prequel-co-1d7c0fe411fa4989a50729c014611f1c)
-- [Tesla announces Cybertruck deliveries in November, with 125k production capacity](https://electrek.co/2023/10/18/tesla-cybertruck-deliveries-november-production-capacity/)
-- [Ask HN: Is anyone using Cloud Dev Environments &lpar;e.g. Codespaces/Replit&rpar; at work?](https://news.ycombinator.com/item?id=37934488)
-- [Synsepalum Dulcificum &lpar;Miracle Berry&rpar;](https://en.wikipedia.org/wiki/Synsepalum_dulcificum)
-- [An ultra-quiet electric leaf blower, powered by aerospace tech](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
