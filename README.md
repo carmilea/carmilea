@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Top law firm rescinds job offers to Ivy League students who signed Israel letter](https://www.nbcnews.com/business/corporations/harvard-letter-israel-columbia-ivy-davis-polk-law-firm-student-rcna120881)
-- [Ask HN: What&#39;s the most beautiful web game you&#39;ve seen?](https://news.ycombinator.com/item?id=37931804)
+- [An ultra-quiet electric leaf blower, powered by aerospace tech](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
+- [What is the difference between include &lt;filename&gt; and include &quot;filename&quot;?](https://stackoverflow.com/questions/21593/what-is-the-difference-between-include-filename-and-include-filename)
+- [The AI-generated porn industry](https://www.dazeddigital.com/life-culture/article/61136/1/behind-the-booming-ai-generated-porn-industry-led-by-tech-bros)
 - [Playground &lpar;YC S19&rpar; is hiring engineers to make an AI-first image editor](https://playground.com/jobs)
-- [A &#39;Godfather of AI&#39; Calls for an Organization to Defend Humanity](https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/)
-- [Hacker leaks millions more 23andMe user records on cybercrime forum](https://techcrunch.com/2023/10/18/hacker-leaks-millions-more-23andme-user-records-on-cybercrime-forum/)
+- [Yoshua Bengio: We need a humanity defense organization](https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
