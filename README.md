@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X traffic and monthly active users are in decline, report claims](https://echonewshub.com/one-year-post-acquisition-x-traffic-and-monthly-active-users-are-in-decline-report-claims/)
+- [Localization Failure: Temperature Is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/)
 - [Microsoft in talks to sign on Amazon as customer in $1B cloud tools deal](https://www.reuters.com/markets/deals/microsoft-sign-amazon-customer-1-bln-cloud-tools-deal-insider-2023-10-17/)
 - [Qualcomm to Bring RISC-V Based Wearable Platform to Wear OS by Google](https://www.qualcomm.com/news/releases/2023/10/qualcomm-to-bring-risc-v-based-wearable-platform-to--wear-os-by-)
 - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
-- [Psytrance Guide](https://psytranceguide.com/)
-- [Waymo Layoffs](https://sfstandard.com/2023/10/17/tech-layoffs-waymo-san-francisco-robotaxi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
