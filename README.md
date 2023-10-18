@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prequel.co &lpar;Enterprise Data Sharing&rpar; Is Hiring a Founding Marketer](https://prequelco.notion.site/Founding-Marketer-Prequel-prequel-co-1d7c0fe411fa4989a50729c014611f1c)
+- [Tesla announces Cybertruck deliveries in November, with 125k production capacity](https://electrek.co/2023/10/18/tesla-cybertruck-deliveries-november-production-capacity/)
+- [Ask HN: Is anyone using Cloud Dev Environments &lpar;e.g. Codespaces/Replit&rpar; at work?](https://news.ycombinator.com/item?id=37934488)
 - [Synsepalum Dulcificum &lpar;Miracle Berry&rpar;](https://en.wikipedia.org/wiki/Synsepalum_dulcificum)
 - [An ultra-quiet electric leaf blower, powered by aerospace tech](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
-- [Brave appears to install VPN Services without user consent](https://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/)
-- [Gulf Stream weakening now 99% certain, and ramifications will be global](https://www.livescience.com/planet-earth/gulf-stream-weakening-now-99-certain-and-ramifications-will-be-global)
-- [Playground &lpar;YC S19&rpar; is hiring engineers to make an AI-first image editor](https://playground.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
