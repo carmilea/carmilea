@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Low serotonin levels might explain some Long Covid symptoms, study proposes](https://www.science.org/content/article/low-serotonin-levels-might-explain-some-long-covid-symptoms-study-proposes)
 - [X begins charging new users $1 a year in New Zealand, Philippines](https://www.bbc.co.uk/news/business-67141993)
 - [Why is text of sumissions in low-contrast grey on HN?](https://news.ycombinator.com/item?id=37927480)
+- [Self-Checkout Is a Failed Experiment](https://www.theatlantic.com/technology/archive/2023/10/self-checkout-kiosks-grocery-retail-stores/675676/)
 - [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
-- [GPT-4 Vision Prompt Injection](https://blog.roboflow.com/gpt-4-vision-prompt-injection/)
-- [What is the Demoscene? An obscure but influential art form](https://onthearts.com/p/what-is-the-demoscene)
 <!-- BLOG-POST-LIST:END -->
 
 ---
