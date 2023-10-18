@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Millennium Bridge workers hang straw bales after ancient bylaw triggered](https://www.theguardian.com/uk-news/2023/oct/18/millennium-bridge-workers-forced-to-hang-straw-bales-after-ancient-bylaw-triggered)
-- [I&#39;d rather build my house with my own earth than go into debt [video]](https://www.youtube.com/watch?v=f_q1pYl80pc)
-- [Higher Quality Random Floats](https://www.corsix.org/content/higher-quality-random-floats)
-- [C++ Modules: Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
-- [Nushell 0.86](https://www.nushell.sh/blog/2023-10-17-nushell_0_86.html)
+- [X begins charging new users $1 a year in New Zealand, Philippines](https://www.bbc.co.uk/news/business-67141993)
+- [Why is text of sumissions in low-contrast grey on HN?](https://news.ycombinator.com/item?id=37927480)
+- [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
+- [GPT-4 Vision Prompt Injection](https://blog.roboflow.com/gpt-4-vision-prompt-injection/)
+- [What is the Demoscene? An obscure but influential art form](https://onthearts.com/p/what-is-the-demoscene)
 <!-- BLOG-POST-LIST:END -->
 
 ---
