@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Synsepalum Dulcificum &lpar;Miracle Berry&rpar;](https://en.wikipedia.org/wiki/Synsepalum_dulcificum)
 - [An ultra-quiet electric leaf blower, powered by aerospace tech](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
-- [What is the difference between include &lt;filename&gt; and include &quot;filename&quot;?](https://stackoverflow.com/questions/21593/what-is-the-difference-between-include-filename-and-include-filename)
-- [The AI-generated porn industry](https://www.dazeddigital.com/life-culture/article/61136/1/behind-the-booming-ai-generated-porn-industry-led-by-tech-bros)
+- [Brave appears to install VPN Services without user consent](https://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/)
+- [Gulf Stream weakening now 99% certain, and ramifications will be global](https://www.livescience.com/planet-earth/gulf-stream-weakening-now-99-certain-and-ramifications-will-be-global)
 - [Playground &lpar;YC S19&rpar; is hiring engineers to make an AI-first image editor](https://playground.com/jobs)
-- [Yoshua Bengio: We need a humanity defense organization](https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
