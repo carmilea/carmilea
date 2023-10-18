@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Higher Quality Random Floats](https://www.corsix.org/content/higher-quality-random-floats)
 - [C++ Modules: Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
+- [Tell HN: Wise froze $40k+ in funds for 10 days and counting](https://news.ycombinator.com/item?id=37925678)
 - [Nushell 0.86](https://www.nushell.sh/blog/2023-10-17-nushell_0_86.html)
 - [Barnes and Noble Sets Itself Free](https://www.nytimes.com/2023/10/17/style/barnes-noble-redesign.html)
-- [Grayjay – Follow Creators Not Platforms](https://grayjay.app/)
-- [Localization Failure: Temperature Is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
