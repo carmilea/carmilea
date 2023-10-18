@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft in talks to sign on Amazon as customer in $1B cloud tools deal](https://www.reuters.com/markets/deals/microsoft-sign-amazon-customer-1-bln-cloud-tools-deal-insider-2023-10-17/)
 - [Qualcomm to Bring RISC-V Based Wearable Platform to Wear OS by Google](https://www.qualcomm.com/news/releases/2023/10/qualcomm-to-bring-risc-v-based-wearable-platform-to--wear-os-by-)
 - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
 - [Psytrance Guide](https://psytranceguide.com/)
 - [Waymo Layoffs](https://sfstandard.com/2023/10/17/tech-layoffs-waymo-san-francisco-robotaxi/)
-- [Anti-ageing molecule boosts fertility in ageing mice](https://www.nature.com/articles/d41586-023-03224-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
