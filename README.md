@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Millennium Bridge workers hang straw bales after ancient bylaw triggered](https://www.theguardian.com/uk-news/2023/oct/18/millennium-bridge-workers-forced-to-hang-straw-bales-after-ancient-bylaw-triggered)
 - [Higher Quality Random Floats](https://www.corsix.org/content/higher-quality-random-floats)
 - [C++ Modules: Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
-- [Tell HN: Wise froze $40k+ in funds for 10 days and counting](https://news.ycombinator.com/item?id=37925678)
 - [Nushell 0.86](https://www.nushell.sh/blog/2023-10-17-nushell_0_86.html)
 - [Barnes and Noble Sets Itself Free](https://www.nytimes.com/2023/10/17/style/barnes-noble-redesign.html)
 <!-- BLOG-POST-LIST:END -->
