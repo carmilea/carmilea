@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Playground &lpar;YC S19&rpar; Is Hiring Engineerings o make an AI-first image editor](https://playground.com/jobs)
+- [Hacker leaks millions more 23andMe user records on cybercrime forum](https://techcrunch.com/2023/10/18/hacker-leaks-millions-more-23andme-user-records-on-cybercrime-forum/)
+- [What&#39;s New in Python 3.12](https://docs.python.org/3/whatsnew/3.12.html)
+- [The Fake Browser Update Scam Gets a Makeover](https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/)
 - [Launch HN: Pier &lpar;YC W23&rpar; – Stripe for Credit](https://news.ycombinator.com/item?id=37930441)
-- [Nvidia&#39;s banking on TensorRT to expand its generative AI dominance](https://www.theverge.com/2023/10/17/23920945/nvidia-gpus-tensor-llms-ai)
-- [New pill helps Covid smell and taste loss fade quickly](https://www.nature.com/articles/d41586-023-03244-7)
-- [PyTorch Edge](https://pytorch.org/blog/pytorch-edge/)
-- [Microfrontends should be your last resort](https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
