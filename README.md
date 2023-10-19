@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [United Airlines plans to board passengers with window seats first](https://www.cbsnews.com/news/united-air-window-seats-economy-class-board-first-wilma-plan/)
 - [Retroactive: Run Aperture, iPhoto and iTunes on macOS Ventura, Monterey, Big Sur](https://github.com/cormiertyshawn895/Retroactive)
 - [Consortium launched to build the largest open LLM](https://www.utu.fi/en/news/press-release/university-of-turku-and-silogen-launch-consortium-to-build-the-worlds-largest)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
-- [Ask HN: Which non-fiction books had the biggest impact on you?](https://news.ycombinator.com/item?id=37936873)
-- [Red Hat&#39;s Ex, Jim Whitehurst, Is Now Temporary CEO at Unity Software](https://fossforce.com/2023/10/red-hats-ex-jim-whitehurst-is-now-temporary-ceo-at-unity-software/)
+- [The iOS option to charge battery to &quot;80% Limit&quot; shouldn&#39;t just be for iPhone 15](https://keydiscussions.com/2023/10/19/apples-new-80-battery-limit-feature-should-not-be-limited-to-the-iphone-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
