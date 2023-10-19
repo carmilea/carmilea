@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I&#39;m banned for life from advertising on Meta. Because I teach Python.](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
+- [Google-hosted malvertising leads to fake Keepass site that looks genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/)
 - [Bandcamp&#39;s Entire Union Bargaining Team Was Laid Off](https://www.404media.co/bandcamps-entire-union-bargaining-team-was-laid-off/)
-- [Welcome to Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/issues/1)
+- [Welcome to Bypass Paywalls Chrome Clean &lpar;2021&rpar;](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/issues/1)
 - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
-- [13 States join the IRS direct-file test after tax prep firms dropped the ball](https://www.theverge.com/2023/10/18/23922150/irs-direct-file-pilot-available-13-states-income-tax-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
