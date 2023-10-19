@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Case Against AI Everything, Everywhere, All at Once](https://time.com/6302761/ai-risks-autonomy/)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Tech Lead &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [The case against AI everything, everywhere, all at once](https://time.com/6302761/ai-risks-autonomy/)
 - [Even a laptop can run RAM externally thanks to a little-known tech called CXL](https://www.techradar.com/pro/even-a-laptop-can-run-ram-externally-thanks-to-a-little-known-tech-called-cxl-but-its-not-for-sale-to-mere-mortals-who-only-want-1tb-of-ram)
 - [FCC moves ahead with Title II net neutrality rules in 3-2 party-line vote](https://arstechnica.com/tech-policy/2023/10/fcc-moves-ahead-with-title-ii-net-neutrality-rules-in-3-2-party-line-vote/)
-- [Researchers identify largest ever solar storm in 14,300-year-old tree rings](https://phys.org/news/2023-10-largest-solar-storm-ancient-year-old.html)
-- [Indonesia opens carbon trading market to both skepticism and hope](https://news.mongabay.com/2023/10/indonesia-opens-carbon-trading-market-to-both-skepticism-and-hope/)
+- [We Have to Talk About Flask](https://blog.miguelgrinberg.com/post/we-have-to-talk-about-flask)
 <!-- BLOG-POST-LIST:END -->
 
 ---
