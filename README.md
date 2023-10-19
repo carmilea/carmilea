@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Pet Projects vs. OSS Contribution](https://news.ycombinator.com/item?id=37938343)
+- [Bandcamp&#39;s Entire Union Bargaining Team Was Laid Off](https://www.404media.co/bandcamps-entire-union-bargaining-team-was-laid-off/)
 - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
 - [30-year fixed mortgage rate just hit 8% for the first time since 2000](https://www.cnbc.com/2023/10/18/30-year-fixed-mortgage-rate-just-hit-8percent-for-the-first-time-since-2000.html)
 - [DRM-free e-books are a big deal &lpar;2019&rpar;](https://www.libraryjournal.com/story/drm-free-e-books-are-now-available-heres-why-thats-a-big-deal)
