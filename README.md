@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Where to Host a FastAPI App](https://news.ycombinator.com/item?id=37935817)
-- [CT scanned: What&#39;s inside Apple&#39;s $129 Thunderbolt cable?](https://twitter.com/JonBruner/status/1714696044356005949)
-- [Richard Feynman explains neutron stars](https://twitter.com/1517fund/status/1714766669149532351)
-- [The game theory of the Republican speakership crisis](https://www.natesilver.net/p/the-game-theory-of-the-republican)
-- [AlmaLinux stays Red Hat Enterprise Linux compatible without Red Hat code](https://www.zdnet.com/article/how-almalinux-stays-red-hat-enterprise-linux-compatible-without-red-hat-code/)
+- [Retroactive: Run Aperture, iPhoto and iTunes on macOS Ventura, Monterey, Big Sur](https://github.com/cormiertyshawn895/Retroactive)
+- [Consortium launched to build the largest open LLM](https://www.utu.fi/en/news/press-release/university-of-turku-and-silogen-launch-consortium-to-build-the-worlds-largest)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
+- [Ask HN: Which non-fiction books had the biggest impact on you?](https://news.ycombinator.com/item?id=37936873)
+- [Red Hat&#39;s Ex, Jim Whitehurst, Is Now Temporary CEO at Unity Software](https://fossforce.com/2023/10/red-hats-ex-jim-whitehurst-is-now-temporary-ceo-at-unity-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
