@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Instead of YouTube, use Invidious; Instead of subscribing to channels, use RSS](https://old.reddit.com/r/palemoon/comments/uo2ux9/how_to_make_your_life_easier_with_invidious/)
+- [It is important that ebooks be sold without DRM](https://www.libraryjournal.com/story/drm-free-e-books-are-now-available-heres-why-thats-a-big-deal)
 - [United Airlines plans to board passengers with window seats first](https://www.cbsnews.com/news/united-air-window-seats-economy-class-board-first-wilma-plan/)
 - [Retroactive: Run Aperture, iPhoto and iTunes on macOS Ventura, Monterey, Big Sur](https://github.com/cormiertyshawn895/Retroactive)
-- [Consortium launched to build the largest open LLM](https://www.utu.fi/en/news/press-release/university-of-turku-and-silogen-launch-consortium-to-build-the-worlds-largest)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
-- [The iOS option to charge battery to &quot;80% Limit&quot; shouldn&#39;t just be for iPhone 15](https://keydiscussions.com/2023/10/19/apples-new-80-battery-limit-feature-should-not-be-limited-to-the-iphone-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
