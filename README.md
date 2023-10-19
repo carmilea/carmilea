@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LocalPilot: Open-source GitHub Copilot on your MacBook](https://github.com/danielgross/localpilot)
-- [Nokia to axe up to 14,000 jobs to cut costs](https://www.bbc.co.uk/news/business-67153676)
-- [Monty Python and the Holy Grail 48 1/2 year anniversary in theaters December](https://www.youtube.com/watch?v=4b52A3sKz-I)
-- [TanStack Query&lpar;a.k.a. React Query&rpar; v5 announced](https://tanstack.com/blog/announcing-tanstack-query-v5)
-- [I&#39;m banned for life from advertising on Meta. Because I teach Python.](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
+- [Tech Billionaire Peter Thiel Was an FBI Informant](https://www.businessinsider.com/peter-thiel-fbi-informant-charles-johnson-johnathan-buma-chs-genius-2023-10)
+- [Apache HTTP Server 2.4.58 &lpar;CVE fixes&rpar;](https://downloads.apache.org/httpd/CHANGES_2.4.58)
+- [Bright &lpar;YC W15&rpar; hiring a VP of eng and product](https://www.ycombinator.com/companies/bright/jobs/4WczUz5-vp-of-engineering-and-products)
+- [AMD Ryzen Threadripper Pro 7000 CPUs: Up to 96 Zen 4 Cores for Workstations](https://wccftech.com/amd-ryzen-threadripper-pro-7000-storm-peak-cpus-unveil-19th-october/)
+- [What Caroline Ellison&#39;s Testimony in SBF Trial Says on Loneliness and Workplace](https://www.forbes.com/sites/lisaconn/2023/10/16/what-caroline-ellisons-testimony-in-sam-bankman-fried-trial-says-about-loneliness-and-the-workplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
