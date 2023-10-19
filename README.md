@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Svix &lpar;YC W21&rpar; Is Hiring a Tech Lead &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [The case against AI everything, everywhere, all at once](https://time.com/6302761/ai-risks-autonomy/)
-- [Even a laptop can run RAM externally thanks to a little-known tech called CXL](https://www.techradar.com/pro/even-a-laptop-can-run-ram-externally-thanks-to-a-little-known-tech-called-cxl-but-its-not-for-sale-to-mere-mortals-who-only-want-1tb-of-ram)
-- [FCC moves ahead with Title II net neutrality rules in 3-2 party-line vote](https://arstechnica.com/tech-policy/2023/10/fcc-moves-ahead-with-title-ii-net-neutrality-rules-in-3-2-party-line-vote/)
-- [We Have to Talk About Flask](https://blog.miguelgrinberg.com/post/we-have-to-talk-about-flask)
+- [Just paying Figma $15/month because nothing else fucking works](https://fasterthanli.me/articles/just-paying-figma-15-dollars)
+- [Joining CSV Data Without SQL: An IP Geolocation Use Case](https://www.brimdata.io/blog/join-geolocation-csv-data/)
+- [Meta Plans to Grow Threads by Ramming Its Posts to Facebook](https://gizmodo.com/meta-hopes-threads-grows-by-jamming-posts-into-facebook-1850940853)
+- [Instagram Apologizes for Inserting &#39;Terrorist&#39; into Palestinian Bio Translations](https://www.404media.co/instagram-palestinian-arabic-bio-translation/)
+- [Google&#39;s 21-year deal with Apple is the &quot;heart&quot; of monopoly case, judge says](https://arstechnica.com/tech-policy/2023/10/googles-21-year-deal-with-apple-is-the-heart-of-monopoly-case-judge-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
