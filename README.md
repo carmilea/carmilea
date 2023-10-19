@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mojo is now available on Mac](https://www.modular.com/blog/mojo-is-now-available-on-mac)
+- [Nokia to erase up to 14,000 employees from payroll](https://www.theregister.com/2023/10/19/nokia_to_erase_up_to/)
 - [Is POSIX really outdated?](https://cuno.io/blog/is-posix-outdated-in-the-cloud-era/)
-- [YouTube launches new page that only shows videos from &quot;authoritative&quot; sources](https://www.niemanlab.org/2023/10/youtube-launches-new-watch-page-that-only-shows-videos-from-authoritative-news-sources/)
 - [There&#39;s a new way to flip bits in DRAM, and it works against the latest defenses](https://arstechnica.com/security/2023/10/theres-a-new-way-to-flip-bits-in-dram-and-it-works-against-the-latest-defenses/)
-- [Tech Billionaire Peter Thiel Was an FBI Informant](https://www.businessinsider.com/peter-thiel-fbi-informant-charles-johnson-johnathan-buma-chs-genius-2023-10)
-- [Thiel&#39;s Unicorn Success Is Awkward for Colleges](https://www.bloomberg.com/opinion/articles/2023-10-19/thiel-s-unicorn-success-is-awkward-for-colleges)
+- [Amazon Let Its Drivers&#39; Urine Be Sold as an Energy Drink](https://www.wired.com/story/amazon-let-its-drivers-urine-be-sold-as-an-energy-drink/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
