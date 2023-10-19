@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Laylo &lpar;YC S20&rpar; Is Hiring a Lead Growth Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
-- [Peter Thiel was reportedly an FBI informant](https://www.theverge.com/2023/10/19/23923759/peter-thiel-fbi-informant-foreign-influence-report)
-- [Amazon begins testing Agility&#39;s Digit robot for warehouse work](https://techcrunch.com/2023/10/18/amazon-begins-testing-agilitys-digit-robot-for-warehouse-work/)
-- [The Web Is for User Agency](https://berjon.com/user-agency/)
-- [Apple&#39;s use of Swift and SwiftUI in iOS 17](https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/)
+- [Americans Must Earn $114,000 a Year to Afford a Typical Home](https://www.bloomberg.com/news/articles/2023-10-19/how-much-do-i-need-to-make-to-buy-a-house-114-000-according-to-redfin)
+- [Ask HN: Did you change career paths after 30?](https://news.ycombinator.com/item?id=37949118)
+- [Ketamine&#39;s effect on depression may hinge on hope](https://med.stanford.edu/news/all-news/2023/10/ketamine.html)
+- [Product Hunt cleans house with layoffs impacting 60% of staff](https://techcrunch.com/2023/10/19/product-hunt-cleans-house-with-layoffs-impacting-60-of-staff/)
+- [Scottish couple facing $33k repair bill after driving Tesla in heavy rain](https://www.carexpert.com.au/car-news/scottish-couple-facing-33k-repair-bill-after-driving-tesla-in-heavy-rain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
