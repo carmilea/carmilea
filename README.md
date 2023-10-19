@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alzheimer&#39;s microbiota induce deficits in cognition and hippocampal neurogenesis](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awad303/7308687)
+- [My 82 year old mother found out that fraudsters had emptied her HSBC_UK account](https://twitter.com/AAMortazavi/status/1713265395388252666)
+- [Cruise&#39;s Solution to Robotaxis and Emergency Vehicles: Let Them Move the Car](https://www.thedrive.com/news/cruises-solution-to-robotaxis-blocking-emergency-vehicles-let-them-move-the-car)
 - [Signal commit Username Integration Test](https://github.com/signalapp/Signal-Server/commit/0100f0fcc982c937751446aa8228eb9756c72e81)
-- [Just paying Figma because nothing else works](https://fasterthanli.me/articles/just-paying-figma-15-dollars)
-- [Joining CSV Data Without SQL: An IP Geolocation Use Case](https://www.brimdata.io/blog/join-geolocation-csv-data/)
-- [Instagram apologizes for inserting &#39;terrorist&#39; into Palestinian bio translations](https://www.404media.co/instagram-palestinian-arabic-bio-translation/)
-- [Google&#39;s 21-year deal with Apple is the &quot;heart&quot; of monopoly case, judge says](https://arstechnica.com/tech-policy/2023/10/googles-21-year-deal-with-apple-is-the-heart-of-monopoly-case-judge-says/)
+- [Show HN: ChatAPI – PWA to Use ChatGPT by API](https://github.com/david-haerer/chatapi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
