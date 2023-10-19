@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m banned for life from advertising on Meta. Because I teach Python.](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
 - [Bandcamp&#39;s Entire Union Bargaining Team Was Laid Off](https://www.404media.co/bandcamps-entire-union-bargaining-team-was-laid-off/)
+- [Welcome to Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/issues/1)
 - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
-- [30-year fixed mortgage rate just hit 8% for the first time since 2000](https://www.cnbc.com/2023/10/18/30-year-fixed-mortgage-rate-just-hit-8percent-for-the-first-time-since-2000.html)
-- [DRM-free e-books are a big deal &lpar;2019&rpar;](https://www.libraryjournal.com/story/drm-free-e-books-are-now-available-heres-why-thats-a-big-deal)
-- [Retroactive: Run Aperture, iPhoto and iTunes on macOS Ventura, Monterey, Big Sur](https://github.com/cormiertyshawn895/Retroactive)
+- [13 States join the IRS direct-file test after tax prep firms dropped the ball](https://www.theverge.com/2023/10/18/23922150/irs-direct-file-pilot-available-13-states-income-tax-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
