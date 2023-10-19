@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is POSIX really outdated?](https://cuno.io/blog/is-posix-outdated-in-the-cloud-era/)
+- [YouTube launches new page that only shows videos from &quot;authoritative&quot; sources](https://www.niemanlab.org/2023/10/youtube-launches-new-watch-page-that-only-shows-videos-from-authoritative-news-sources/)
+- [There&#39;s a new way to flip bits in DRAM, and it works against the latest defenses](https://arstechnica.com/security/2023/10/theres-a-new-way-to-flip-bits-in-dram-and-it-works-against-the-latest-defenses/)
 - [Tech Billionaire Peter Thiel Was an FBI Informant](https://www.businessinsider.com/peter-thiel-fbi-informant-charles-johnson-johnathan-buma-chs-genius-2023-10)
-- [Apache HTTP Server 2.4.58 &lpar;CVE fixes&rpar;](https://downloads.apache.org/httpd/CHANGES_2.4.58)
-- [Bright &lpar;YC W15&rpar; hiring a VP of eng and product](https://www.ycombinator.com/companies/bright/jobs/4WczUz5-vp-of-engineering-and-products)
-- [AMD Ryzen Threadripper Pro 7000 CPUs: Up to 96 Zen 4 Cores for Workstations](https://wccftech.com/amd-ryzen-threadripper-pro-7000-storm-peak-cpus-unveil-19th-october/)
-- [What Caroline Ellison&#39;s Testimony in SBF Trial Says on Loneliness and Workplace](https://www.forbes.com/sites/lisaconn/2023/10/16/what-caroline-ellisons-testimony-in-sam-bankman-fried-trial-says-about-loneliness-and-the-workplace/)
+- [Thiel&#39;s Unicorn Success Is Awkward for Colleges](https://www.bloomberg.com/opinion/articles/2023-10-19/thiel-s-unicorn-success-is-awkward-for-colleges)
 <!-- BLOG-POST-LIST:END -->
 
 ---
