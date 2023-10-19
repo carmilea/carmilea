@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alzheimer&#39;s microbiota induce deficits in cognition and hippocampal neurogenesis](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awad303/7308687)
-- [My 82 year old mother found out that fraudsters had emptied her HSBC_UK account](https://twitter.com/AAMortazavi/status/1713265395388252666)
-- [Cruise&#39;s Solution to Robotaxis and Emergency Vehicles: Let Them Move the Car](https://www.thedrive.com/news/cruises-solution-to-robotaxis-blocking-emergency-vehicles-let-them-move-the-car)
-- [Signal commit Username Integration Test](https://github.com/signalapp/Signal-Server/commit/0100f0fcc982c937751446aa8228eb9756c72e81)
-- [Show HN: ChatAPI – PWA to Use ChatGPT by API](https://github.com/david-haerer/chatapi)
+- [Laylo &lpar;YC S20&rpar; Is Hiring a Lead Growth Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
+- [Peter Thiel was reportedly an FBI informant](https://www.theverge.com/2023/10/19/23923759/peter-thiel-fbi-informant-foreign-influence-report)
+- [Amazon begins testing Agility&#39;s Digit robot for warehouse work](https://techcrunch.com/2023/10/18/amazon-begins-testing-agilitys-digit-robot-for-warehouse-work/)
+- [The Web Is for User Agency](https://berjon.com/user-agency/)
+- [Apple&#39;s use of Swift and SwiftUI in iOS 17](https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
