@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Early Europeans Ate Seaweed for Thousands of Years](https://www.smithsonianmag.com/smart-news/early-europeans-ate-seaweed-and-aquatic-plants-180983102/)
-- [Fructose is the main culprit of the obesity epidemic, study explains](https://studyfinds.org/fructose-obesity/)
-- [Linux runtime security agent powered by eBPF](https://github.com/Exein-io/pulsar)
-- [42 is the answer to these 5 fundamental questions](https://bigthink.com/starts-with-a-bang/42-answer-fundamental-questions/)
-- [Mojo is now available on Mac](https://www.modular.com/blog/mojo-is-now-available-on-mac)
+- [The Case Against AI Everything, Everywhere, All at Once](https://time.com/6302761/ai-risks-autonomy/)
+- [Even a laptop can run RAM externally thanks to a little-known tech called CXL](https://www.techradar.com/pro/even-a-laptop-can-run-ram-externally-thanks-to-a-little-known-tech-called-cxl-but-its-not-for-sale-to-mere-mortals-who-only-want-1tb-of-ram)
+- [FCC moves ahead with Title II net neutrality rules in 3-2 party-line vote](https://arstechnica.com/tech-policy/2023/10/fcc-moves-ahead-with-title-ii-net-neutrality-rules-in-3-2-party-line-vote/)
+- [Researchers identify largest ever solar storm in 14,300-year-old tree rings](https://phys.org/news/2023-10-largest-solar-storm-ancient-year-old.html)
+- [Indonesia opens carbon trading market to both skepticism and hope](https://news.mongabay.com/2023/10/indonesia-opens-carbon-trading-market-to-both-skepticism-and-hope/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
