@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LocalPilot: Open-source GitHub Copilot on your MacBook](https://github.com/danielgross/localpilot)
 - [Nokia to axe up to 14,000 jobs to cut costs](https://www.bbc.co.uk/news/business-67153676)
 - [Monty Python and the Holy Grail 48 1/2 year anniversary in theaters December](https://www.youtube.com/watch?v=4b52A3sKz-I)
+- [TanStack Query&lpar;a.k.a. React Query&rpar; v5 announced](https://tanstack.com/blog/announcing-tanstack-query-v5)
 - [I&#39;m banned for life from advertising on Meta. Because I teach Python.](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
-- [Google-hosted malvertising leads to fake Keepass site that looks genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/)
-- [Bandcamp&#39;s Entire Union Bargaining Team Was Laid Off](https://www.404media.co/bandcamps-entire-union-bargaining-team-was-laid-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
