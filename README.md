@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nearly half of non-Tesla EV owners want to go back to ICE](https://www.spglobal.com/mobility/en/research-analysis/does-the-auto-industry-have-an-ev-loyalty-problem.html)
+- [Replit permanently moves to paid hosting after 7 years of free service](https://noreplit.com/)
+- [Toyota Adopts the North American Charging Standard](https://pressroom.toyota.com/toyota-adopts-the-north-american-charging-standard-to-expand-customer-charging-options/)
+- [Anna&#39;s Archive – LLM Training Data from Shadow Libraries](https://annas-archive.org/llm)
 - [Please Pay for a Year of Nothing](https://joe-steel.com/2023-10-19-Please-Pay-For-a-Year-of-Nothing.html)
-- [Clearview doesn&#39;t let Europeans delete themselves anymore](https://twitter.com/kashhill/status/1715048994223567281)
-- [Research repository ArXiv receives $10M for upgrades](https://news.cornell.edu/stories/2023/10/research-repository-arxiv-receives-10m-upgrades)
-- [The Fight for Fair Wages](https://www.nybooks.com/articles/2023/05/25/the-fight-for-fair-wages-essential-jamie-k-mccallum/)
-- [FCC greenlights superfast Wi-Fi tethering for AR and VR headsets](https://www.theverge.com/2023/10/19/23923015/fcc-6ghz-approval-very-low-power-devices-apple-google-meta)
 <!-- BLOG-POST-LIST:END -->
 
 ---
