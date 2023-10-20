@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Geany 2.0 Is Out](https://www.geany.org/news/geany-20-is-out/)
 - [They can and will ruin everything you love](https://www.welcometohellworld.com/they-can-and-will-ruin-everything-you-love/)
+- [World Bank Helped Cover Up Sex Abuse at For-Profit School Chain](https://theintercept.com/2023/10/17/world-bank-whistleblower-bridge-international/)
 - [Jumpstart SingleStore Kai™ With MongoDB® Replication Pipelines](https://www.singlestore.com/blog/jumpstart-singlestore-kai-with-mongodb-replication-pipelines/)
 - [OpenAI in Talks for Deal That Would Value Company at $80B](https://www.nytimes.com/2023/10/20/technology/openai-artifical-intelligence-value.html)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Show HN: No Feed? Unlimited Productivity](https://github.com/kwkr/feed-remover)
 <!-- BLOG-POST-LIST:END -->
 
 ---
