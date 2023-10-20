@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A tutorial for the sam command language &lpar;1986&rpar; [pdf]](http://doc.cat-v.org/bell_labs/sam_lang_tutorial/sam_tut.pdf)
 - [Alexei Navalny&#39;s lawyers are arrested](https://www.economist.com/europe/2023/10/19/alexei-navalnys-lawyers-are-arrested)
 - [Using extra Firefox profiles to make my life better](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack)
 - [Pepper X](https://en.wikipedia.org/wiki/Pepper_X)
 - [Does Go Have Subtyping?](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/)
-- [OS/2 Warp, PowerPC Edition](http://ps-2.kev009.com/michaln/history/os2ppc/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
