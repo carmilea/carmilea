@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;&lt;ESC&gt;[31M&quot;? ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
-- [Flappy Bird Implemented in TypeScript Types](https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/)
-- [Eclipse October 2023](https://www.gridstatus.io/dashboards/eclipse-oct-2023)
-- [Cops Are Suing a Teen for Invasion of Privacy After False Arrest Vid Goes Viral](https://www.vice.com/en/article/jg5a88/cops-sue-teen-invasion-of-privacy-false-arrest)
-- [Kyoto Statement on End-to-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [EU Commissioner as double agent of foreign interference](https://www.patrick-breyer.de/en/breyer-on-chat-control-investigative-research-eu-commissioner-as-double-agent-of-foreign-interference/)
+- [RIP to my 8-port Unifi switch after years and years of Texas outdoor temps](https://arstechnica.com/gadgets/2023/10/saying-goodbye-to-great-hardware-my-8-port-unifi-switch-finally-buys-the-farm/)
+- [Top Crypto Firms Named in $1B Fraud Lawsuit](https://www.bbc.com/news/business-67161638)
+- [Brazil police arrest two intel agents for alleged illegal surveillance](https://www.reuters.com/world/americas/brazil-police-arrest-two-intel-agents-alleged-illegal-surveillance-2023-10-20/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
