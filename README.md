@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hetzner does run a &lpar;MitM&rpar; proxy in front of my server](https://old.reddit.com/r/hetzner/comments/17ccp3i/hetzner_does_run_a_mitm_proxy_in_front_of_my/)
 - [Emerge &lpar;YC W21&rpar; is hiring a senior front end engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- [How the Creator of Alone in the Dark Came Back to Games](https://news.play.date/news/skew/)
-- [Okta&#39;s stock plunges after security breach](https://www.marketwatch.com/story/oktas-stock-plunges-after-security-breach-4b47494b)
-- [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
-- [Twenty-four hours in an invisible epidemic](https://pudding.cool/2023/09/invisible-epidemic/)
+- [How the creator of Alone in the Dark came back to games](https://news.play.date/news/skew/)
+- [How to mitigate the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
+- [DMCA Excemptions to &quot;Copyright Protection Systems&quot; Being Reconsidered](https://www.copyright.gov/1201/2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
