@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Marc Andreessen Is Wrong About Everything](https://gizmodo.com/marc-andreessen-is-wrong-about-everything-1850934367)
 - [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
-- [Replit permanently moves to paid hosting after 7 years of free service](https://noreplit.com/)
-- [Toyota Adopts the North American Charging Standard](https://pressroom.toyota.com/toyota-adopts-the-north-american-charging-standard-to-expand-customer-charging-options/)
+- [Toyota adopts the North American charging standard](https://pressroom.toyota.com/toyota-adopts-the-north-american-charging-standard-to-expand-customer-charging-options/)
+- [Ozone hole goes large again](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Ozone_hole_goes_large_again)
 - [Anna&#39;s Archive – LLM Training Data from Shadow Libraries](https://annas-archive.org/llm)
+- [Clearview doesn&#39;t let Europeans delete themselves anymore](https://twitter.com/kashhill/status/1715048994223567281)
 <!-- BLOG-POST-LIST:END -->
 
 ---
