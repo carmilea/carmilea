@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [They can and will ruin everything you love](https://www.welcometohellworld.com/they-can-and-will-ruin-everything-you-love/)
+- [Jumpstart SingleStore Kai™ With MongoDB® Replication Pipelines](https://www.singlestore.com/blog/jumpstart-singlestore-kai-with-mongodb-replication-pipelines/)
+- [OpenAI in Talks for Deal That Would Value Company at $80B](https://www.nytimes.com/2023/10/20/technology/openai-artifical-intelligence-value.html)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [EU Commissioner as double agent of foreign interference](https://www.patrick-breyer.de/en/breyer-on-chat-control-investigative-research-eu-commissioner-as-double-agent-of-foreign-interference/)
-- [RIP to my 8-port Unifi switch after years and years of Texas outdoor temps](https://arstechnica.com/gadgets/2023/10/saying-goodbye-to-great-hardware-my-8-port-unifi-switch-finally-buys-the-farm/)
-- [Top Crypto Firms Named in $1B Fraud Lawsuit](https://www.bbc.com/news/business-67161638)
-- [Brazil police arrest two intel agents for alleged illegal surveillance](https://www.reuters.com/world/americas/brazil-police-arrest-two-intel-agents-alleged-illegal-surveillance-2023-10-20/)
+- [Show HN: No Feed? Unlimited Productivity](https://github.com/kwkr/feed-remover)
 <!-- BLOG-POST-LIST:END -->
 
 ---
