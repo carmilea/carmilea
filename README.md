@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UpCodes &lpar;YC S17&rpar; is hiring remote engineers to help architects with compliance](https://up.codes/careers)
-- [Friday Factorio Facts #381 – Space Platforms](https://factorio.com/blog/post/fff-381)
-- [What&#39;s new in C# 12: overview](https://pvs-studio.com/en/blog/posts/csharp/1074/)
-- [The Unix Game](https://unixgame.io/unix50)
-- [A tutorial for the sam command language &lpar;1986&rpar; [pdf]](http://doc.cat-v.org/bell_labs/sam_lang_tutorial/sam_tut.pdf)
+- [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
+- [Qualcomm will try to have its Apple Silicon moment in PCs with &quot;Snapdragon X&quot;](https://arstechnica.com/gadgets/2023/10/qualcomm-will-try-to-have-its-apple-silicon-moment-in-pcs-with-snapdragon-x/)
+- [Find the date of your birthday in the number pi](https://www.mypiday.com/)
+- [RabbitOS](https://www.rabbit.tech/)
+- [American Employees Reinvent the Sick Day](https://www.wsj.com/lifestyle/workplace/bosses-have-a-problem-people-are-actually-using-sick-days-d45b5f9a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
