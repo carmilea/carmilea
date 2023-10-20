@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using extra Firefox profiles to make my life better](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack)
 - [Pepper X](https://en.wikipedia.org/wiki/Pepper_X)
-- [Irish privacy group files complaint against YouTube adblock detection system](https://twitter.com/alexanderhanff/status/1714944718205755483)
 - [Does Go Have Subtyping?](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/)
-- [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
-- [Ozone hole goes large again](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Ozone_hole_goes_large_again)
+- [OS/2 Warp, PowerPC Edition](http://ps-2.kev009.com/michaln/history/os2ppc/index.html)
+- [Slack is retiring its status account on X](https://www.theverge.com/2023/10/19/23924662/slack-status-account-retiring-x-twitter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
