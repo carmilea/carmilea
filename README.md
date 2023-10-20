@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Geany 2.0 Is Out](https://www.geany.org/news/geany-20-is-out/)
-- [They can and will ruin everything you love](https://www.welcometohellworld.com/they-can-and-will-ruin-everything-you-love/)
-- [World Bank Helped Cover Up Sex Abuse at For-Profit School Chain](https://theintercept.com/2023/10/17/world-bank-whistleblower-bridge-international/)
-- [Jumpstart SingleStore Kai™ With MongoDB® Replication Pipelines](https://www.singlestore.com/blog/jumpstart-singlestore-kai-with-mongodb-replication-pipelines/)
-- [OpenAI in Talks for Deal That Would Value Company at $80B](https://www.nytimes.com/2023/10/20/technology/openai-artifical-intelligence-value.html)
+- [Windows 11 Pro&#39;s On-by-Default Encryption Slows SSDs Up to 45%](https://www.tomshardware.com/news/windows-software-bitlocker-slows-performance)
+- [SBF Made $9B Disappear. This Forensic Accountant Found It](https://www.coindesk.com/policy/2023/10/18/sbf-trial-a-witness-contrasts-sam-bankman-frieds-house-testimony-with-ftxs-dangerous-secrets/)
+- [Why America Is Out of Ammunition](https://www.thebignewsletter.com/p/why-america-is-out-of-ammunition)
+- [Geany 2.0 – Flyweight IDE](https://geany.org/)
+- [Hackers stole access tokens from Okta&#39;s support unit](https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
