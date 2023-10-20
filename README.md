@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 Pro&#39;s On-by-Default Encryption Slows SSDs Up to 45%](https://www.tomshardware.com/news/windows-software-bitlocker-slows-performance)
-- [SBF Made $9B Disappear. This Forensic Accountant Found It](https://www.coindesk.com/policy/2023/10/18/sbf-trial-a-witness-contrasts-sam-bankman-frieds-house-testimony-with-ftxs-dangerous-secrets/)
-- [Why America Is Out of Ammunition](https://www.thebignewsletter.com/p/why-america-is-out-of-ammunition)
-- [Geany 2.0 – Flyweight IDE](https://geany.org/)
-- [Hackers stole access tokens from Okta&#39;s support unit](https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/)
+- [Emerge &lpar;YC W21&rpar; is hiring a senior front end engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+- [How the Creator of Alone in the Dark Came Back to Games](https://news.play.date/news/skew/)
+- [Okta&#39;s stock plunges after security breach](https://www.marketwatch.com/story/oktas-stock-plunges-after-security-breach-4b47494b)
+- [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
+- [Twenty-four hours in an invisible epidemic](https://pudding.cool/2023/09/invisible-epidemic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
