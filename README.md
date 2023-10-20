@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pepper X](https://en.wikipedia.org/wiki/Pepper_X)
 - [Irish privacy group files complaint against YouTube adblock detection system](https://twitter.com/alexanderhanff/status/1714944718205755483)
+- [Does Go Have Subtyping?](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/)
 - [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
 - [Ozone hole goes large again](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Ozone_hole_goes_large_again)
-- [Anna&#39;s Archive – LLM Training Data from Shadow Libraries](https://annas-archive.org/llm)
-- [Vectorpea: Online Tool for Vector Graphics](https://www.vectorpea.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
