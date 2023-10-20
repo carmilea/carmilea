@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
-- [Qualcomm will try to have its Apple Silicon moment in PCs with &quot;Snapdragon X&quot;](https://arstechnica.com/gadgets/2023/10/qualcomm-will-try-to-have-its-apple-silicon-moment-in-pcs-with-snapdragon-x/)
-- [Find the date of your birthday in the number pi](https://www.mypiday.com/)
-- [RabbitOS](https://www.rabbit.tech/)
-- [American Employees Reinvent the Sick Day](https://www.wsj.com/lifestyle/workplace/bosses-have-a-problem-people-are-actually-using-sick-days-d45b5f9a)
+- [Humming-Birds](https://www.c82.net/work/?id=395)
+- [Nonprofit hospitals skimp on charity while CEOs reap millions, report finds](https://arstechnica.com/health/2023/10/nonprofit-hospitals-skimp-on-charity-while-ceos-reap-millions-report-finds/)
+- [Peter Thiel was reportedly an FBI informant](https://www.theverge.com/2023/10/19/23923759/peter-thiel-fbi-informant-foreign-influence-report)
+- [AI tidies up Wikipedia&#39;s references – and boosts reliability](https://www.nature.com/articles/d41586-023-02894-x)
+- [Some advice I would give to a junior DevOps Engineer](https://oschvr.com/posts/advice-for-junior-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
