@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UpCodes &lpar;YC S17&rpar; is hiring remote engineers to help architects with compliance](https://up.codes/careers)
+- [Friday Factorio Facts #381 – Space Platforms](https://factorio.com/blog/post/fff-381)
 - [What&#39;s new in C# 12: overview](https://pvs-studio.com/en/blog/posts/csharp/1074/)
-- [Royal College considers no confidence move after Excel recruitment debacle](https://www.theregister.com/2023/10/20/royal_college_excel_blunder/)
 - [The Unix Game](https://unixgame.io/unix50)
 - [A tutorial for the sam command language &lpar;1986&rpar; [pdf]](http://doc.cat-v.org/bell_labs/sam_lang_tutorial/sam_tut.pdf)
-- [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/viewdoc.phtml?rev=5&lang=C&doc=guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
