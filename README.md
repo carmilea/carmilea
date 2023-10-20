@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Irish privacy group files complaint against YouTube adblock detection system](https://twitter.com/alexanderhanff/status/1714944718205755483)
 - [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
-- [Toyota adopts the North American charging standard](https://pressroom.toyota.com/toyota-adopts-the-north-american-charging-standard-to-expand-customer-charging-options/)
 - [Ozone hole goes large again](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Ozone_hole_goes_large_again)
 - [Anna&#39;s Archive – LLM Training Data from Shadow Libraries](https://annas-archive.org/llm)
-- [Clearview doesn&#39;t let Europeans delete themselves anymore](https://twitter.com/kashhill/status/1715048994223567281)
+- [Vectorpea: Online Tool for Vector Graphics](https://www.vectorpea.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
