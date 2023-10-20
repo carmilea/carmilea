@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nearly half of non-Tesla EV owners want to go back to ICE](https://www.spglobal.com/mobility/en/research-analysis/does-the-auto-industry-have-an-ev-loyalty-problem.html)
+- [Marc Andreessen Is Wrong About Everything](https://gizmodo.com/marc-andreessen-is-wrong-about-everything-1850934367)
+- [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
 - [Replit permanently moves to paid hosting after 7 years of free service](https://noreplit.com/)
 - [Toyota Adopts the North American Charging Standard](https://pressroom.toyota.com/toyota-adopts-the-north-american-charging-standard-to-expand-customer-charging-options/)
 - [Anna&#39;s Archive – LLM Training Data from Shadow Libraries](https://annas-archive.org/llm)
-- [Please Pay for a Year of Nothing](https://joe-steel.com/2023-10-19-Please-Pay-For-a-Year-of-Nothing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
