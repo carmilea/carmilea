@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eclipse October 2023](https://www.gridstatus.io/dashboards/eclipse-oct-2023)
+- [Cops Are Suing a Teen for Invasion of Privacy After False Arrest Vid Goes Viral](https://www.vice.com/en/article/jg5a88/cops-sue-teen-invasion-of-privacy-false-arrest)
 - [Humming-Birds](https://www.c82.net/work/?id=395)
+- [The Tech Industry Has a New Plan to Stop Proliferation of Right to Repair Laws](https://www.404media.co/the-tech-industry-has-a-new-plan-to-stop-right-to-repair-laws/)
 - [Nonprofit hospitals skimp on charity while CEOs reap millions, report finds](https://arstechnica.com/health/2023/10/nonprofit-hospitals-skimp-on-charity-while-ceos-reap-millions-report-finds/)
-- [Peter Thiel was reportedly an FBI informant](https://www.theverge.com/2023/10/19/23923759/peter-thiel-fbi-informant-foreign-influence-report)
-- [AI tidies up Wikipedia&#39;s references – and boosts reliability](https://www.nature.com/articles/d41586-023-02894-x)
-- [Some advice I would give to a junior DevOps Engineer](https://oschvr.com/posts/advice-for-junior-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
