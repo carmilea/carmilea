@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD Wants to Know If You&#39;d Like Ryzen AI Support on Linux](https://www.phoronix.com/news/Ryzen-AI-For-Linux-Requests)
-- [New Advances in Organ Transplants Are Saving Lives](https://www.scientificamerican.com/article/no-one-should-die-waiting-for-an-organ-transplant-these-doctors-want-to-ensure-that-doesnt-happen/)
-- [Instagram sorry for translation error that put &quot;terrorist&quot; in Palestinian bios](https://arstechnica.com/tech-policy/2023/10/instagram-sorry-for-erroneously-labeling-palestinian-users-as-terrorists/)
-- [The Shortest Papers Ever Published](https://paperpile.com/blog/shortest-papers/)
-- [F-Droid: Android FOSS app store](https://f-droid.org/)
+- [How to self study pure math – a step-by-step guide [video]](https://www.youtube.com/watch?v=byNaO_zn2fI)
+- [Disc Brakes Took over the Cycling World. Here&#39;s Why That Was a Mistake](https://www.outsideonline.com/culture/opinion/disc-brakes-took-over-the-cycling-world-heres-why-that-was-a-mistake/)
+- [Trojitá, a fast Qt IMAP email client](http://trojita.flaska.net/)
+- [The Polaroid SX70&#39;s unusual shutter](https://opensx70.com/posts/2018/11/sx70-shutter)
+- [Astronauts and Area 51: the Skylab Incident &lpar;2006&rpar;](https://www.thespacereview.com/article/531/1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
