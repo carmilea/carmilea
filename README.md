@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring](https://news.ycombinator.com/item?id=37968534)
-- [Strange Ways AI Disrupts Business Models](https://www.implications.com/p/strange-ways-ai-disrupts-business)
 - [Solvable statistical physics models for large neuronal populations](https://arxiv.org/abs/2310.10860)
 - [The Worlds First FPGA N64](http://www.ultrafp64.com/)
 - [Oberon System 3](https://github.com/rochus-keller/OberonSystem3)
+- [Keju, China’s difficult civil service test](https://aeon.co/essays/why-chinese-minds-still-bear-the-long-shadow-of-keju)
 <!-- BLOG-POST-LIST:END -->
 
 ---
