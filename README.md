@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Stop Using Plastic Cutting Boards](https://www.outsideonline.com/outdoor-adventure/environment/cutting-board-microplastics/)
+- [Ferrari Sued a Used Car Dealer for $2.2M over a Replica. It Didn&#39;t Go Well](https://www.carscoops.com/2023/10/ferrari-sued-a-used-car-dealer-for-2-2m-over-a-ford-cougar-based-replica-it-didnt-go-well/)
+- [Ask HN: Where Do You Sit?](https://news.ycombinator.com/item?id=37970089)
 - [Reddit mods dumped tokens hours before blockchain program termination](https://cointelegraph.com/news/reddit-mods-dumped-tokens-hours-before-blockchain-program-termination)
-- [Adtech surveillance and government surveillance are often the same](https://www.eff.org/deeplinks/2023/10/adtech-surveillance-and-government-surveillance-are-often-same-surveillance)
-- [How plants communicate with each other when in danger](https://www.washingtonpost.com/climate-environment/2023/10/21/plants-talk-warning-danger/)
-- [Nakatomi Space](https://bldgblog.com/2010/01/nakatomi-space/)
-- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring](https://news.ycombinator.com/item?id=37968534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
