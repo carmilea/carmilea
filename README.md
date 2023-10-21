@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Locked and Loaded with New Cosmic DE Updates](https://blog.system76.com/post/locked-and-loaded-with-new-cosmic-de-updates/)
 - [Canada has fewer entrepreneurs today than it did 20 years ago](https://www.cbc.ca/news/business/canada-entrepreneurs-shortage-solutions-1.7002171)
+- [Google, other search engines&#39; use of generative AI threatens $68B SEO industry](https://theconversation.com/why-google-bing-and-other-search-engines-embrace-of-generative-ai-threatens-68-billion-seo-industry-210243)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [30% of Americans have faced health data breaches this year](https://qz.com/hackers-heath-data-hospitals-california-ransom-breach-1850942235)
-- [Ferrari Sued a Used Car Dealer for $2.2M over a Replica. It Didn&#39;t Go Well](https://www.carscoops.com/2023/10/ferrari-sued-a-used-car-dealer-for-2-2m-over-a-ford-cougar-based-replica-it-didnt-go-well/)
+- [Google owes executive $1M after losing gender bias lawsuit](https://www.theverge.com/2023/10/21/23926501/google-cloud-lawsuit-ulku-rowe-verdict)
 <!-- BLOG-POST-LIST:END -->
 
 ---
