@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The exam that broke society](https://aeon.co/essays/why-chinese-minds-still-bear-the-long-shadow-of-keju)
-- [Fish Skin Can Heal Other Animals&#39; Eye Injuries](https://www.scientificamerican.com/article/fish-skin-can-heal-other-animals-eye-injuries/)
-- [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
-- [Cratering motor fuel sales in Norway show the death spiral that can end oil](https://electrek.co/2023/10/20/cratering-motor-fuel-sales-in-norway-show-the-death-spiral-that-can-end-oil/)
-- [Carbon capture pipeline nixed after widespread opposition](https://arstechnica.com/tech-policy/2023/10/carbon-capture-pipeline-nixed-after-widespread-opposition/)
+- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring](https://news.ycombinator.com/item?id=37968534)
+- [Strange Ways AI Disrupts Business Models](https://www.implications.com/p/strange-ways-ai-disrupts-business)
+- [Solvable statistical physics models for large neuronal populations](https://arxiv.org/abs/2310.10860)
+- [The Worlds First FPGA N64](http://www.ultrafp64.com/)
+- [Oberon System 3](https://github.com/rochus-keller/OberonSystem3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
