@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Town Repeatedly Surveilled Man&#39;s Yard with Drone Without a Warrant](https://www.404media.co/town-surveilled-mans-yard-without-a-warrant/)
-- [U.S. Deficit, Pegged at $1.7T, Effectively Doubled in 2023](https://www.nytimes.com/2023/10/20/business/treasury-report-shows-1-7-trillion-deficit.html)
 - [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)
 - [O3DE](https://o3de.org/)
 - [Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008](https://github.com/antonblanchard/microwatt)
+- [The 7th Guest gets VR remake using volumetric video](https://www.the7thguest-vr.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
