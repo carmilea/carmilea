@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Twitch will now let streamers simultaneously stream on any service they want](https://www.theverge.com/2023/10/20/23926013/twitch-simultaneously-stream-any-service-platform-twitchcon)
-- [Analyzing Data 180,000x Faster with Rust](https://willcrichton.net/notes/k-corrset/)
+- [Recent adventures in performance optimization with Rust](https://willcrichton.net/notes/k-corrset/)
+- [Pigging](https://en.wikipedia.org/wiki/Pigging)
 - [The next Raptor OpenPOWER systems are coming, but they won&#39;t be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
 - [Reimplementing git clone in Haskell from the bottom up](https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
-- [AI Reduces the World to Stereotypes](https://restofworld.org/2023/ai-image-stereotypes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
