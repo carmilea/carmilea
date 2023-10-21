@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008](https://github.com/antonblanchard/microwatt)
 - [Twitch will now let streamers simultaneously stream on any service they want](https://www.theverge.com/2023/10/20/23926013/twitch-simultaneously-stream-any-service-platform-twitchcon)
 - [Recent adventures in performance optimization with Rust](https://willcrichton.net/notes/k-corrset/)
 - [Pigging](https://en.wikipedia.org/wiki/Pigging)
-- [The next Raptor OpenPOWER systems are coming, but they won&#39;t be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
-- [Reimplementing git clone in Haskell from the bottom up](https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
+- [MMO Architecture: clients, sockets, threads and connection-oriented servers](https://prdeving.wordpress.com/2023/10/13/mmo-architecture-client-connections-sockets-threads-and-connection-oriented-servers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
