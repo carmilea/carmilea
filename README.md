@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fewer Californians are moving to Texas, but more are going to FL and AZ](https://www.pressdemocrat.com/article/news/fewer-californians-are-moving-to-texas-but-more-are-going-to-florida-and-a/)
 - [Reddit mods dumped tokens hours before blockchain program termination](https://cointelegraph.com/news/reddit-mods-dumped-tokens-hours-before-blockchain-program-termination)
-- [Adtech Surveillance and Government Surveillance Are Often the Same Surveillance](https://www.eff.org/deeplinks/2023/10/adtech-surveillance-and-government-surveillance-are-often-same-surveillance)
+- [Adtech surveillance and government surveillance are often the same](https://www.eff.org/deeplinks/2023/10/adtech-surveillance-and-government-surveillance-are-often-same-surveillance)
+- [How plants communicate with each other when in danger](https://www.washingtonpost.com/climate-environment/2023/10/21/plants-talk-warning-danger/)
 - [Nakatomi Space](https://bldgblog.com/2010/01/nakatomi-space/)
 - [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring](https://news.ycombinator.com/item?id=37968534)
 <!-- BLOG-POST-LIST:END -->
