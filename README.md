@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Locked and Loaded with New Cosmic DE Updates](https://blog.system76.com/post/locked-and-loaded-with-new-cosmic-de-updates/)
+- [Canada has fewer entrepreneurs today than it did 20 years ago](https://www.cbc.ca/news/business/canada-entrepreneurs-shortage-solutions-1.7002171)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Stop Using Plastic Cutting Boards](https://www.outsideonline.com/outdoor-adventure/environment/cutting-board-microplastics/)
+- [30% of Americans have faced health data breaches this year](https://qz.com/hackers-heath-data-hospitals-california-ransom-breach-1850942235)
 - [Ferrari Sued a Used Car Dealer for $2.2M over a Replica. It Didn&#39;t Go Well](https://www.carscoops.com/2023/10/ferrari-sued-a-used-car-dealer-for-2-2m-over-a-ford-cougar-based-replica-it-didnt-go-well/)
-- [Ask HN: Where Do You Sit?](https://news.ycombinator.com/item?id=37970089)
-- [Reddit mods dumped tokens hours before blockchain program termination](https://cointelegraph.com/news/reddit-mods-dumped-tokens-hours-before-blockchain-program-termination)
 <!-- BLOG-POST-LIST:END -->
 
 ---
