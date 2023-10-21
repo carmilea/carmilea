@@ -60,7 +60,7 @@
 - [Google cuts dozens of jobs in news division](https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html)
 - [We Built a Streaming SQL Engine](https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine)
 - [Town Repeatedly Surveilled Man&#39;s Yard with Drone Without a Warrant](https://www.404media.co/town-surveilled-mans-yard-without-a-warrant/)
-- [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)
+- [Go Package for Building Progressive Web Apps](https://go-app.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
