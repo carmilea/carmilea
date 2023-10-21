@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD Wants to Know If You&#39;d Like Ryzen AI Support on Linux](https://www.phoronix.com/news/Ryzen-AI-For-Linux-Requests)
+- [New Advances in Organ Transplants Are Saving Lives](https://www.scientificamerican.com/article/no-one-should-die-waiting-for-an-organ-transplant-these-doctors-want-to-ensure-that-doesnt-happen/)
+- [Instagram sorry for translation error that put &quot;terrorist&quot; in Palestinian bios](https://arstechnica.com/tech-policy/2023/10/instagram-sorry-for-erroneously-labeling-palestinian-users-as-terrorists/)
 - [The Shortest Papers Ever Published](https://paperpile.com/blog/shortest-papers/)
-- [Ask HN: Why has no one replaced Ticketmaster?](https://news.ycombinator.com/item?id=37962499)
 - [F-Droid: Android FOSS app store](https://f-droid.org/)
-- [Solving the 100GB Game Download](http://venusoft.net/)
-- [Energy, WiFi and RAM use by Android messaging apps](https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
