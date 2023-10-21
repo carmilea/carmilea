@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Analyzing Data 180,000x Faster with Rust](https://willcrichton.net/notes/k-corrset/)
 - [The next Raptor OpenPOWER systems are coming, but they won&#39;t be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
+- [Reimplementing git clone in Haskell from the bottom up](https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
 - [Dropbox handing over 25% of San Francisco HQ back to landlord](https://www.cnbc.com/2023/10/20/dropbox-hands-over-25percent-of-san-francisco-headquarters-back-to-landlord-.html)
 - [NASA&#39;s Voyager Team Focuses on Software Patch, Thrusters](https://www.jpl.nasa.gov/news/nasas-voyager-team-focuses-on-software-patch-thrusters)
-- [How to self study pure math – a step-by-step guide [video]](https://www.youtube.com/watch?v=byNaO_zn2fI)
-- [Trojitá, a fast Qt IMAP email client](http://trojita.flaska.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
