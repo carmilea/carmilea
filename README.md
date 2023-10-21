@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+- [Google cuts dozens of jobs in news division](https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html)
+- [We Built a Streaming SQL Engine](https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine)
 - [Town Repeatedly Surveilled Man&#39;s Yard with Drone Without a Warrant](https://www.404media.co/town-surveilled-mans-yard-without-a-warrant/)
 - [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)
-- [O3DE](https://o3de.org/)
-- [Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008](https://github.com/antonblanchard/microwatt)
-- [The 7th Guest gets VR remake using volumetric video](https://www.the7thguest-vr.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
