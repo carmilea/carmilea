@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cratering motor fuel sales in Norway show the death spiral that can end oil](https://electrek.co/2023/10/20/cratering-motor-fuel-sales-in-norway-show-the-death-spiral-that-can-end-oil/)
 - [Carbon capture pipeline nixed after widespread opposition](https://arstechnica.com/tech-policy/2023/10/carbon-capture-pipeline-nixed-after-widespread-opposition/)
-- [Texas employment tops 14M as state job growth tops U.S.](https://www.expressnews.com/business/article/texas-employment-tops-14-million-state-job-growth-18437689.php)
-- [It Takes 12 People to Use the 18K Sphere Camera](https://petapixel.com/2023/10/20/darren-aronofsky-says-it-takes-12-people-to-use-the-18k-sphere-camera/)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-- [Google cuts dozens of jobs in news division](https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html)
+- [Charted: 50 Years of Music Industry Revenues, by Format](https://www.visualcapitalist.com/music-industry-revenues-by-format/)
+- [The Problem with Jon Stewart cancellation highlights a problem for Apple content](https://arstechnica.com/gadgets/2023/10/report-apple-cancels-the-problem-with-jon-stewart-over-china-ai-topics/)
+- [The Pixel 8 Pro&#39;s Tensor G3 off-loads all generative AI tasks to the cloud](https://www.notebookcheck.net/MrWhosetheboss-video-reveals-Google-s-Pixel-8-Pro-Tensor-G3-off-loads-all-generative-AI-tasks-to-the-cloud.760215.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
