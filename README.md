@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Shortest Papers Ever Published](https://paperpile.com/blog/shortest-papers/)
+- [Ask HN: Why has no one replaced Ticketmaster?](https://news.ycombinator.com/item?id=37962499)
+- [F-Droid: Android FOSS app store](https://f-droid.org/)
+- [Solving the 100GB Game Download](http://venusoft.net/)
 - [Energy, WiFi and RAM use by Android messaging apps](https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d)
-- [Cloudflare mitigated yet another Okta compromise](https://blog.cloudflare.com/how-cloudflare-mitigated-yet-another-okta-compromise/)
-- [Emerge &lpar;YC W21&rpar; is hiring a senior front end engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- [How the creator of Alone in the Dark came back to games](https://news.play.date/news/skew/)
-- [Mitigating the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
 <!-- BLOG-POST-LIST:END -->
 
 ---
