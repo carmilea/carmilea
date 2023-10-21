@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [O3DE](https://o3de.org/)
 - [Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008](https://github.com/antonblanchard/microwatt)
+- [The 7th Guest gets VR remake using volumetric video](https://www.the7thguest-vr.com/)
 - [Twitch will now let streamers simultaneously stream on any service they want](https://www.theverge.com/2023/10/20/23926013/twitch-simultaneously-stream-any-service-platform-twitchcon)
 - [Recent adventures in performance optimization with Rust](https://willcrichton.net/notes/k-corrset/)
-- [Pigging](https://en.wikipedia.org/wiki/Pigging)
-- [MMO Architecture: clients, sockets, threads and connection-oriented servers](https://prdeving.wordpress.com/2023/10/13/mmo-architecture-client-connections-sockets-threads-and-connection-oriented-servers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
