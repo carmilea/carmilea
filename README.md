@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The next Raptor OpenPOWER systems are coming, but they won&#39;t be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
+- [Dropbox handing over 25% of San Francisco HQ back to landlord](https://www.cnbc.com/2023/10/20/dropbox-hands-over-25percent-of-san-francisco-headquarters-back-to-landlord-.html)
+- [NASA&#39;s Voyager Team Focuses on Software Patch, Thrusters](https://www.jpl.nasa.gov/news/nasas-voyager-team-focuses-on-software-patch-thrusters)
 - [How to self study pure math – a step-by-step guide [video]](https://www.youtube.com/watch?v=byNaO_zn2fI)
-- [Disc Brakes Took over the Cycling World. Here&#39;s Why That Was a Mistake](https://www.outsideonline.com/culture/opinion/disc-brakes-took-over-the-cycling-world-heres-why-that-was-a-mistake/)
 - [Trojitá, a fast Qt IMAP email client](http://trojita.flaska.net/)
-- [The Polaroid SX70&#39;s unusual shutter](https://opensx70.com/posts/2018/11/sx70-shutter)
-- [Astronauts and Area 51: the Skylab Incident &lpar;2006&rpar;](https://www.thespacereview.com/article/531/1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
