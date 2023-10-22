@@ -57,9 +57,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The White Furnace Test](https://lousodrome.net/blog/light/2023/10/21/the-white-furnace-test/)
+- [NVMe SSD boot with the Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5)
 - [Open Source Firmware Conference](https://www.osfc.io/)
 - [What happened to the dream of the Pan-American highway?](https://daily.jstor.org/the-pan-american-highway-and-the-darien-gap/)
-- [British Airways B789 smoke in cabin, phone stuck in seat](http://avherald.com/h?article=51002408)
 - [Nvidia Wouldn&#39;t Exist If CEO Could Turn the Clock Back 30 Years](https://www.tomshardware.com/news/nvidia-wouldnt-exist-if-ceo-could-turn-the-clock-back-30-years)
 <!-- BLOG-POST-LIST:END -->
 
