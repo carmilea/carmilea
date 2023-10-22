@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia Wouldn&#39;t Exist If CEO Could Turn the Clock Back 30 Years](https://www.tomshardware.com/news/nvidia-wouldnt-exist-if-ceo-could-turn-the-clock-back-30-years)
 - [An antiquated law rules mining in the West](https://www.hcn.org/issues/55.8/infographic-mining-an-antiquated-law-rules-mining-in-the-west)
 - [Startup CTO&#39;s Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 - [Nghttp3 1.0.0 – HTTP/3 library written in C](https://nghttp2.org/nghttp3/)
 - [Man captures &#39;weird anomaly&#39; of Storm Babet lifting forest floor in Scotland](https://www.theguardian.com/uk-news/2023/oct/21/storm-babet-forest-floor-video-mugdock-stirlingshire-scotland)
-- [HN RSS feeds per user no longer available](https://news.ycombinator.com/item?id=37971534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
