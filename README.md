@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu Linux snuck into high-end Dell laptops](https://www.zdnet.com/article/how-ubuntu-linux-snuck-into-high-end-dell-laptops-and-why-its-called-project-sputnik/)
 - [Great Male Renunciation](https://en.wikipedia.org/wiki/Great_Male_Renunciation)
-- [Facebook web desktop can not access messenger in widely experienced bug](https://old.reddit.com/r/facebook/comments/17dxw9o/anyone_know_how_to_get_rid_of_this_i_cant_see_my/)
+- [Onion Futures Act](https://en.wikipedia.org/wiki/Onion_Futures_Act)
 - [Western Digital and Kioxia to Announce Merge This Month](https://www.tomshardware.com/news/western-digital-and-kioxia-to-announce-merge-this-month-report)
-- [The Lessons of Lucasfilm&#39;s Habitat](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
-- [How to Build Your First Hardware Hacking Lab](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide)
+- [The Lessons of Lucasfilm&#39;s Habitat &lpar;1990&rpar;](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
