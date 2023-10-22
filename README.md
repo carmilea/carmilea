@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Lessons of Lucasfilm&#39;s Habitat](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
+- [How to Build Your First Hardware Hacking Lab](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide)
 - [Who profits most from America&#39;s baffling health-care system?](https://www.economist.com/business/2023/10/08/who-profits-most-from-americas-baffling-health-care-system)
 - [New Advances in Organ Transplants Are Saving Lives](https://www.scientificamerican.com/article/no-one-should-die-waiting-for-an-organ-transplant-these-doctors-want-to-ensure-that-doesnt-happen/)
 - [From the Annals of Preprocessor Hackery](http://www.os2museum.com/wp/from-the-annals-of-preprocessor-hackery/)
-- [Europe&#39;s largest copper producer is the victim of metal swindle worth $198M](https://fortune.com/2023/09/20/europe-largest-copper-producer-aurubis-victim-metal-heist-worth-198-million-insiders-involved/)
-- [Uber migrates microservices to multi-cloud platform running Kubernetes and Mesos](https://www.infoq.com/news/2023/10/uber-up-cloud-microservices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
