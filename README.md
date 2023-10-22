@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Locked and Loaded with New Cosmic DE Updates](https://blog.system76.com/post/locked-and-loaded-with-new-cosmic-de-updates/)
-- [Canada has fewer entrepreneurs today than it did 20 years ago](https://www.cbc.ca/news/business/canada-entrepreneurs-shortage-solutions-1.7002171)
-- [Google, other search engines&#39; use of generative AI threatens $68B SEO industry](https://theconversation.com/why-google-bing-and-other-search-engines-embrace-of-generative-ai-threatens-68-billion-seo-industry-210243)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Google owes executive $1M after losing gender bias lawsuit](https://www.theverge.com/2023/10/21/23926501/google-cloud-lawsuit-ulku-rowe-verdict)
+- [Nghttp3 1.0.0 – HTTP/3 library written in C](https://nghttp2.org/nghttp3/)
+- [Man captures &#39;weird anomaly&#39; of Storm Babet lifting forest floor in Scotland](https://www.theguardian.com/uk-news/2023/oct/21/storm-babet-forest-floor-video-mugdock-stirlingshire-scotland)
+- [HN RSS feeds per user no longer available](https://news.ycombinator.com/item?id=37971534)
+- [Clohe: Moving toys in the classroom &lpar;automata construction toolkit&rpar;](http://www.modernautomatamuseum.com/Clohe/00-CLOHE-EN.htm)
+- [OpenRefine](https://openrefine.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
