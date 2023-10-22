@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber Migrates 4000 Microservices to a New Multi-Cloud Platform](https://www.infoq.com/news/2023/10/uber-up-cloud-microservices/)
-- [Bifrost: A peer-to-peer communications engine with pluggable transports](https://github.com/aperturerobotics/bifrost)
-- [Astrophysicists Put All Objects in Universe into One Pedagogical Plot](https://www.sci.news/astronomy/all-objects-universe-pedagogical-plot-12372.html)
-- [Canada is considering a guaranteed universal basic income program](https://www.thestar.com/news/canada/canada-is-considering-a-guaranteed-universal-basic-income-program-here-s-what-that-means/article_98a4ee99-150c-50b5-8867-0203efc51520.html)
-- [Ask HN: What is your favorite FOSS WYSIWYG editor?](https://news.ycombinator.com/item?id=37974321)
+- [CEO of Web Summit tech conference resigns over Israel comments](https://www.npr.org/2023/10/21/1207795093/ceo-of-web-summit-tech-conference-resigns-over-israel-comments)
+- [I live in my car: Parking lots open for those who can afford a car but not rent](https://www.nytimes.com/2023/10/17/realestate/car-homeless-rent-debt-mortgage.html)
+- [$9.5B of key metals in overlooked electronic waste: UN](https://techxplore.com/news/2023-10-bn-key-metals-overlooked-electronic.html)
+- [Tell HN: DuckDuckGo Search Results have jumped the shark](https://news.ycombinator.com/item?id=37975601)
+- [Uber migrates microservices to multi-cloud platform running Kubernetes and Mesos](https://www.infoq.com/news/2023/10/uber-up-cloud-microservices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
