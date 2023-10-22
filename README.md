@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alan Kay: Doing with Images Makes Symbols [video]](https://www.youtube.com/watch?v=p2LZLYcu_JY)
 - [Atomic Rocket](https://projectrho.com/public_html/rocket/index.php)
 - [Nanofiche: Small Storage, for Forever](https://www.archmission.org/nanofiche)
 - [Marvelous Arithmetics of Distance](https://mathenchant.wordpress.com/2023/10/17/marvelous-arithmetics-of-distance/)
-- [Great Male Renunciation](https://en.wikipedia.org/wiki/Great_Male_Renunciation)
 - [EPA fast-tracking of gene-altering pesticide sparks concerns](https://www.thenewlede.org/2023/10/epa-fast-tracking-of-gene-altering-pesticide-sparks-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
