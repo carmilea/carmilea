@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://tenochtitlan.thomaskole.nl/index.html)
+- [Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/index.htm)
+- [Britsh Museum Collection Search](https://www.britishmuseum.org/collection)
+- [Amiga ASCII Art](https://blog.glyphdrawing.club/amiga-ascii-art/)
 - [The White Furnace Test](https://lousodrome.net/blog/light/2023/10/21/the-white-furnace-test/)
-- [NVMe SSD boot with the Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5)
-- [Open Source Firmware Conference](https://www.osfc.io/)
-- [What happened to the dream of the Pan-American highway?](https://daily.jstor.org/the-pan-american-highway-and-the-darien-gap/)
-- [Nvidia Wouldn&#39;t Exist If CEO Could Turn the Clock Back 30 Years](https://www.tomshardware.com/news/nvidia-wouldnt-exist-if-ceo-could-turn-the-clock-back-30-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
