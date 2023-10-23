@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD wants to know if you would like Ryzen AI support for Linux](https://github.com/amd/RyzenAI-SW/issues/2)
 - [Shopify Files Lawsuit over Illegal DMCA Takedown Abuse](https://torrentfreak.com/shopify-files-lawsuit-over-illegal-dmca-takedown-abuse-231020/)
+- [Orcas that hunted alongside humans might be extinct](https://www.livescience.com/animals/orcas-that-hunted-alongside-humans-might-be-extinct)
+- [Protomaps – A free and open source map of the world](https://protomaps.com/)
 - [Cortical Labs: &quot;Human neural networks raised in a simulation&quot;](https://corticallabs.com/)
-- [Cooler Screens](https://computer.rip/2023-10-22-cooler-screens.html)
-- [Building a unikernel that runs WebAssembly – part 1](https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/)
-- [Excel will allow certain auto data conversions to be turned off](https://insider.microsoft365.com/en-us/blog/control-data-conversions-in-excel-for-windows-and-mac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
