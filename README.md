@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
+- [Shopify Files Lawsuit over Illegal DMCA Takedown Abuse](https://torrentfreak.com/shopify-files-lawsuit-over-illegal-dmca-takedown-abuse-231020/)
 - [Cortical Labs: &quot;Human neural networks raised in a simulation&quot;](https://corticallabs.com/)
 - [Cooler Screens](https://computer.rip/2023-10-22-cooler-screens.html)
 - [Building a unikernel that runs WebAssembly – part 1](https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/)
