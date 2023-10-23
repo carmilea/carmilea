@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Most of biggest advertisers have stopped buying ads on X, new data shows](https://www.businessinsider.com/ebiquity-data-most-advertisers-stopped-spending-x-twitter-2023-10)
-- [How to run 50% faster without external energy &lpar;2020&rpar;](https://www.science.org/doi/10.1126/sciadv.aay1950)
-- [Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
-- [Reducing &quot;gate&quot; counts for Kyber-512 contradicting NIST&#39;s calculation](https://blog.cr.yp.to/20231023-clumping.html)
-- [YouTube now blocking ad block](https://old.reddit.com/r/youtube/comments/17ac0ht/megathread_ad_blockers_are_now_blocked_on_youtube/)
+- [Leaving Twitter](https://www.ben-evans.com/benedictevans/2023/10/23/leaving-twitter)
+- [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
+- [Generators are dead, long live coroutines, generators are back](https://blog.rust-lang.org/inside-rust/2023/10/23/coroutines.html)
+- [Growing AI presence is re-energizing parts of San Francisco](https://www.washingtonpost.com/technology/2023/10/23/artificial-intelligence-san-francisco/)
+- [Google pulls up the ladder on open internet, pushes unconstitutional regulation](https://www.techdirt.com/2023/10/23/google-decides-to-pull-up-the-ladder-on-the-open-internet-pushes-for-unconstitutional-regulatory-proposals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
