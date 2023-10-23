@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [1Password detects &quot;suspicious activity&quot; in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
-- [Okta Support System Incident and 1Password](https://blog.1password.com/okta-incident/)
+- [H-1B Visa Program Changes Aimed at Stopping Applicants from Gaming Lottery](https://www.wsj.com/politics/policy/h-1b-visa-program-changes-aimed-at-stopping-applicants-from-gaming-lottery-3b962fb3)
 - [Marcel the Shell](https://www.marceltheshell.org)
-- [End of an Era: Windows CE&#39;s final day](https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day)
-- [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
+- [Windows CE&#39;s final day](https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day)
+- [Tech: iCloud+ 6 and 12 Terabyte Plans and Apple One Premier Issues](https://adamchandler.me/blog/2023/09/18/tech-icloud-6-12-terabyte-plans-apple-one-premier-issues/)
+- [Tesla discloses DOJ probes over vehicle range, personal benefits and more](https://www.cnbc.com/2023/10/23/tesla-discloses-doj-probes-over-vehicle-range-personal-benefits-more.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
