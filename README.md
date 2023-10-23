@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Off-duty pilot tried to crash Alaska Airlines SFO flight, officials say](https://sfstandard.com/2023/10/23/sfo-alaska-airlines-pilot-crash-plane/)
-- [Google faces antitrust probe in Japan for pushing search default](https://english.kyodonews.net/news/2023/10/d2b4990f6c0f-japans-antitrust-watchdog-probes-google-for-pushing-search-default.html)
-- [Cleveland launches plan to provide cheap broadband](https://www.techdirt.com/2023/10/23/tired-of-being-ripped-off-by-monopolies-cleveland-launches-ambitious-plan-to-provide-citywide-dirt-cheap-broadband/)
-- [It&#39;s Time to Tax Billionaires](https://www.vice.com/en/article/qjvxk3/billionaire-tax-new-report)
-- [RankScience &lpar;YC W17&rpar; is Hiring SDRs to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
+- [Most of biggest advertisers have stopped buying ads on X, new data shows](https://www.businessinsider.com/ebiquity-data-most-advertisers-stopped-spending-x-twitter-2023-10)
+- [How to run 50% faster without external energy &lpar;2020&rpar;](https://www.science.org/doi/10.1126/sciadv.aay1950)
+- [Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
+- [Reducing &quot;gate&quot; counts for Kyber-512 contradicting NIST&#39;s calculation](https://blog.cr.yp.to/20231023-clumping.html)
+- [YouTube now blocking ad block](https://old.reddit.com/r/youtube/comments/17ac0ht/megathread_ad_blockers_are_now_blocked_on_youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
