@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RankScience &lpar;YC W17&rpar; is Hiring SDR&#39;s to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
-- [Could a $400k Australian court ruling silence Kiwi Farms?](https://www.theguardian.com/society/2023/oct/23/defamation-in-the-internet-age-could-a-400000-australian-court-ruling-silence-the-notorious-online-forum-kiwi-farms)
-- [Off-duty pilot charged with 83 counts of attempted murder after security threat](https://abcnews.go.com/US/alaska-airlines-flight-diverted-after-credible-security-threat/story?id=104223059)
-- [Common fungus candida albicans might fuel Alzheimer&#39;s onset](https://neurosciencenews.com/alzheimers-fungus-24955/)
-- [LinkedIn Issues Warning to Site Shaming Pro-Palestinian Sentiment](https://www.nytimes.com/2023/10/22/world/middleeast/anti-israel-workers-website-linkedin.html)
+- [Off-duty pilot tried to crash Alaska Airlines SFO flight, officials say](https://sfstandard.com/2023/10/23/sfo-alaska-airlines-pilot-crash-plane/)
+- [Google faces antitrust probe in Japan for pushing search default](https://english.kyodonews.net/news/2023/10/d2b4990f6c0f-japans-antitrust-watchdog-probes-google-for-pushing-search-default.html)
+- [Cleveland launches plan to provide cheap broadband](https://www.techdirt.com/2023/10/23/tired-of-being-ripped-off-by-monopolies-cleveland-launches-ambitious-plan-to-provide-citywide-dirt-cheap-broadband/)
+- [It&#39;s Time to Tax Billionaires](https://www.vice.com/en/article/qjvxk3/billionaire-tax-new-report)
+- [RankScience &lpar;YC W17&rpar; is Hiring SDRs to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
