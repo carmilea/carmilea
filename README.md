@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta reveals serverless platform processing trillions of function calls a day](https://engineercodex.substack.com/p/meta-xfaas-serverless-functions-explained)
 - [The Japanese city that dominates street food – and no, it&#39;s not Tokyo](https://www.cnn.com/travel/fukuoka-japan-street-food-yatai-intl-hnk/index.html)
-- [Ask HN: What Happened to Hackerspaces?](https://news.ycombinator.com/item?id=37981294)
 - [Thousands of programmable DNA-cutters found in algae, snails and other organisms](https://phys.org/news/2023-10-thousands-programmable-dna-cutters-algae-snails.html)
 - [Rivian R1T is the first EV to win the longest off-road competition in the US](https://techcrunch.com/2023/10/22/rivian-r1t-is-the-first-ev-to-win-the-longest-off-road-competition-in-the-us/)
 - [Alan Kay: Doing with Images Makes Symbols [video]](https://www.youtube.com/watch?v=p2LZLYcu_JY)
