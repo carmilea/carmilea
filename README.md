@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sun&#39;s Magnetic Poles Are Vanishing](https://www.scientificamerican.com/article/the-suns-magnetic-poles-are-vanishing/)
+- [Why Children of Married Parents Do Better](https://text.npr.org/1207322878)
+- [Killings in the U.S. are dropping at a historic rate](https://www.latimes.com/politics/newsletter/2023-10-20/killings-in-the-u-s-are-dropping-at-an-historic-rate-will-anyone-notice-essential-politics)
 - [A Few Laws of Getting Rich](https://collabfund.com/blog/a-few-laws-of-getting-rich/)
-- [Rivian R1T is the first EV to win the longest off-road competition in the US](https://techcrunch.com/2023/10/22/rivian-r1t-is-the-first-ev-to-win-the-longest-off-road-competition-in-the-us/)
-- [First 96-Core AMD Zen 4 Threadripper Tests Show Utter Domination over Intel](https://www.extremetech.com/computing/first-96-core-amd-zen-4-threadripper-tests-show-utter-domination-over-intel)
-- [Alan Kay: Doing with Images Makes Symbols [video]](https://www.youtube.com/watch?v=p2LZLYcu_JY)
-- [Atomic Rocket](https://projectrho.com/public_html/rocket/index.php)
+- [The Long, Sad History of American Attempts to Build High-Speed Rail, Part II](https://www.construction-physics.com/p/the-long-sad-history-of-american-971)
 <!-- BLOG-POST-LIST:END -->
 
 ---
