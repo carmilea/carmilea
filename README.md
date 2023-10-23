@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Former Google CEO Launched a Company with His Girlfriend. It&#39;s Not Going Well](https://www.forbes.com/sites/davidjeans/2023/10/23/eric-schmidt-michelle-ritter-steel-perlot/)
-- [Ask HN: Was any Starfighter postmortem ever published?](https://news.ycombinator.com/item?id=37985450)
-- [Software Disenchantment](https://tonsky.me/blog/disenchantment/)
-- [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
-- [Earth Stopped Getting Greener 20 Years Ago](https://www.scientificamerican.com/article/earth-stopped-getting-greener-20-years-ago/)
+- [1,200-km range, 10-min charge: Toyota near solid-state battery breakthrough](https://www.business-standard.com/industry/auto/1-200-km-range-10-min-charge-toyota-near-solid-state-battery-breakthrough-123102300252_1.html)
+- [Driver&#39;s failure to laugh at odd question during stop not Reasonable Suspicion](http://fourthamendment.com/?p=56109)
+- [Windows 11: The number you have dialed has been disconnected](https://www.theregister.com/2023/10/23/column/)
+- [Martin Goetz, recipient of the first software patent, logs off at 93](https://www.theregister.com/2023/10/23/martin_goetz_obit/)
+- [Yarn 4.0](https://yarnpkg.com/blog/release/4.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
