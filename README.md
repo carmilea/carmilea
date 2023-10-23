@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sun&#39;s Magnetic Poles Are Vanishing](https://www.scientificamerican.com/article/the-suns-magnetic-poles-are-vanishing/)
-- [Why Children of Married Parents Do Better](https://text.npr.org/1207322878)
+- [More Than 400k Student Loan Borrowers Had Wrong Monthly Payments](https://www.nytimes.com/2023/10/16/your-money/student-loans-save-mistakes.html)
+- [The Japanese city that dominates street food – and no, it&#39;s not Tokyo](https://www.cnn.com/travel/fukuoka-japan-street-food-yatai-intl-hnk/index.html)
+- [Ask HN: What Happened to Hackerspaces?](https://news.ycombinator.com/item?id=37981294)
+- [Ask HN: How&#39;s your job search going in this current economy?](https://news.ycombinator.com/item?id=37981149)
 - [Killings in the U.S. are dropping at a historic rate](https://www.latimes.com/politics/newsletter/2023-10-20/killings-in-the-u-s-are-dropping-at-an-historic-rate-will-anyone-notice-essential-politics)
-- [A Few Laws of Getting Rich](https://collabfund.com/blog/a-few-laws-of-getting-rich/)
-- [The Long, Sad History of American Attempts to Build High-Speed Rail, Part II](https://www.construction-physics.com/p/the-long-sad-history-of-american-971)
 <!-- BLOG-POST-LIST:END -->
 
 ---
