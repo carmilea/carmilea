@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1Password detects &quot;suspicious activity&quot; in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
+- [Okta Support System Incident and 1Password](https://blog.1password.com/okta-incident/)
+- [Marcel the Shell](https://www.marceltheshell.org)
+- [End of an Era: Windows CE&#39;s final day](https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day)
 - [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
-- [Mazda Slaps Developer with Cease-and-Desist for DIY Smart Home Integration](https://www.thedrive.com/news/mazda-slaps-developer-with-cease-and-desist-for-diy-smart-home-integration)
-- [New data poisoning tool lets artists fight back against generative AI](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
-- [NASA tweaks Voyager software to protect thrusters against gunge](https://newatlas.com/space/nasa-tweaks-voyager-software-protect-thrusters-against-gunge/)
-- [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
