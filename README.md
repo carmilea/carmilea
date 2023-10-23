@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Leaving Twitter](https://www.ben-evans.com/benedictevans/2023/10/23/leaving-twitter)
+- [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
+- [Mazda Slaps Developer with Cease-and-Desist for DIY Smart Home Integration](https://www.thedrive.com/news/mazda-slaps-developer-with-cease-and-desist-for-diy-smart-home-integration)
+- [New data poisoning tool lets artists fight back against generative AI](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
+- [NASA tweaks Voyager software to protect thrusters against gunge](https://newatlas.com/space/nasa-tweaks-voyager-software-protect-thrusters-against-gunge/)
 - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
-- [Generators are dead, long live coroutines, generators are back](https://blog.rust-lang.org/inside-rust/2023/10/23/coroutines.html)
-- [Growing AI presence is re-energizing parts of San Francisco](https://www.washingtonpost.com/technology/2023/10/23/artificial-intelligence-san-francisco/)
-- [Google pulls up the ladder on open internet, pushes unconstitutional regulation](https://www.techdirt.com/2023/10/23/google-decides-to-pull-up-the-ladder-on-the-open-internet-pushes-for-unconstitutional-regulatory-proposals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
