@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RankScience &lpar;YC W17&rpar; is Hiring SDR&#39;s to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
+- [Could a $400k Australian court ruling silence Kiwi Farms?](https://www.theguardian.com/society/2023/oct/23/defamation-in-the-internet-age-could-a-400000-australian-court-ruling-silence-the-notorious-online-forum-kiwi-farms)
+- [Off-duty pilot charged with 83 counts of attempted murder after security threat](https://abcnews.go.com/US/alaska-airlines-flight-diverted-after-credible-security-threat/story?id=104223059)
 - [Common fungus candida albicans might fuel Alzheimer&#39;s onset](https://neurosciencenews.com/alzheimers-fungus-24955/)
-- [We&#39;re entering a pretty strong El Niño–here&#39;s what that means for a US winter](https://arstechnica.com/science/2023/10/were-entering-a-pretty-strong-el-nino-heres-what-that-means-for-a-us-winter/)
-- [Martin Goetz, recipient of the first software patent, has died](https://www.theregister.com/2023/10/23/martin_goetz_obit/)
-- [Yarn 4.0](https://yarnpkg.com/blog/release/4.0)
-- [Introducing MSW 2.0](https://mswjs.io/blog/introducing-msw-2.0/)
+- [LinkedIn Issues Warning to Site Shaming Pro-Palestinian Sentiment](https://www.nytimes.com/2023/10/22/world/middleeast/anti-israel-workers-website-linkedin.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
