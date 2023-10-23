@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Are So Many Dogs on Prozac?](https://www.theatlantic.com/ideas/archive/2023/10/dog-anti-anxiety-meds-treatment/675715/)
+- [A Few Laws of Getting Rich](https://collabfund.com/blog/a-few-laws-of-getting-rich/)
 - [Rivian R1T is the first EV to win the longest off-road competition in the US](https://techcrunch.com/2023/10/22/rivian-r1t-is-the-first-ev-to-win-the-longest-off-road-competition-in-the-us/)
-- [Dismantle the Censorship-Industrial Complex: The Westminster Declaration](https://www.racket.news/p/dismantle-the-censorship-industrial)
 - [First 96-Core AMD Zen 4 Threadripper Tests Show Utter Domination over Intel](https://www.extremetech.com/computing/first-96-core-amd-zen-4-threadripper-tests-show-utter-domination-over-intel)
 - [Alan Kay: Doing with Images Makes Symbols [video]](https://www.youtube.com/watch?v=p2LZLYcu_JY)
+- [Atomic Rocket](https://projectrho.com/public_html/rocket/index.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
