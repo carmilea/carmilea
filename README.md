@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CA DMV suspends Cruise deployment and driverless testing permits](https://email.dmvonline.ca.gov/t/y-e-xnltyk-dythvudjl-m/)
+- [California suspends GM Cruise&#39;s autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
+- [Europe&#39;s CSAM-scanning plan is tipping point for democratic rights, experts warn](https://techcrunch.com/2023/10/24/eu-csam-scanning-edps-seminar/)
 - [Livedocs &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/livedocs/jobs/IqaU8e4-marketing-coordinator)
-- [Dozens of states sue Meta over youth mental health crisis](https://www.theverge.com/2023/10/24/23930408/meta-instagram-facebook-child-safety-lawsuit-states-kosa)
 - [Show HN: FollowDev, HH-like forum exclusively for software dev-related topics](https://www.followdev.com)
-- [The City of Seattle Accidentally Gave Me 32M Emails for 40 Dollars](https://mchap.io/that-time-the-city-of-seattle-accidentally-gave-me-32m-emails-for-40-dollars4997.html)
-- [Scammers posing as customer service agents on X as companies leave platform](https://nltimes.nl/2023/10/24/scammers-posing-customer-service-agents-x-companies-leave-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
