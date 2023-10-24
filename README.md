@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Your mother can now recommend matches for you on Tinder](https://www.businessinsider.com/tinder-matchmaker-feature-lets-friends-family-recommend-potential-matches-dating-2023-10)
+- [Systematic Review of the Neurocognitive Effects of Cannabis Use in Older Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7259587/)
 - [1Password detects &quot;suspicious activity&quot; in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
 - [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf)
 - [How to Build Your Own AI-Generated Images with ControlNet and Stable Diffusion](https://www.datature.io/blog/how-to-build-your-own-ai-generated-image-with-controlnet-and-stable-diffusion)
