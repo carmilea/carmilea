@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Good times create weak men](https://tonsky.me/blog/good-times-weak-men/)
+- [I Face Investigation for Terrorism](https://www.craigmurray.org.uk/archives/2023/10/incredibly-i-face-investigation-for-terrorism-defence-funds-appeal/)
 - [Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
 - [The &quot;Just One More&quot; Paradox – Kelly Criterion [video]](https://www.youtube.com/watch?v=_FuuYSM7yOo)
 - [The HP Printer USB Sticker Trick Also Works for Thermaltake PSUs](https://full.pr0gramm.com/2023/10/24/fa4df047de2f8c6f.jpg)
-- [Show HN: Paclear – A Fun Twist on the &#39;Clear&#39; Command with Pac-Man Animation](https://github.com/orangekame3/paclear)
-- [Automattic is acquiring Texts and betting big on the future of messaging](https://www.theverge.com/2023/10/24/23928685/automattic-texts-acquisition-universal-messaging)
 <!-- BLOG-POST-LIST:END -->
 
 ---
