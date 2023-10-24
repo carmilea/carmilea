@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Systematic Review of the Neurocognitive Effects of Cannabis Use in Older Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7259587/)
+- [Writerside – a new technical writing environment from JetBrains](https://www.jetbrains.com/writerside/)
+- [Psychedelic Mushrooms Hit the Market in Oregon](https://www.nytimes.com/2023/10/23/us/oregon-psychedelic-mushrooms.html)
 - [1Password detects &quot;suspicious activity&quot; in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
 - [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf)
-- [How to Build Your Own AI-Generated Images with ControlNet and Stable Diffusion](https://www.datature.io/blog/how-to-build-your-own-ai-generated-image-with-controlnet-and-stable-diffusion)
-- [Port a Unity Game to Your Own Engine: Part 1](https://www.altdevarts.com/p/port-a-unity-game-to-your-own-engine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
