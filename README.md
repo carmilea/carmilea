@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Odorant diffuser improves memory and neural functioning in older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10405466/)
-- [Meta Sued by States over Harmful Youth Marketing on Facebook, Instagram](https://www.bloomberg.com/news/articles/2023-10-24/meta-sued-by-california-states-over-harmful-youth-marketing)
-- [Server-side sandboxing: Containers and seccomp](https://www.figma.com/blog/server-side-sandboxing-containers-and-seccomp/#j1WRe)
-- [Microsoft opens early access to AI assistant for infosec, Security Copilot](https://www.theregister.com/2023/10/23/microsoft_security_copilots_early_access/)
-- [Halfsies](https://brilliant.org/challenges/halfsies/)
+- [Livedocs &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/livedocs/jobs/IqaU8e4-marketing-coordinator)
+- [Dozens of states sue Meta over youth mental health crisis](https://www.theverge.com/2023/10/24/23930408/meta-instagram-facebook-child-safety-lawsuit-states-kosa)
+- [Show HN: FollowDev, HH-like forum exclusively for software dev-related topics](https://www.followdev.com)
+- [The City of Seattle Accidentally Gave Me 32M Emails for 40 Dollars](https://mchap.io/that-time-the-city-of-seattle-accidentally-gave-me-32m-emails-for-40-dollars4997.html)
+- [Scammers posing as customer service agents on X as companies leave platform](https://nltimes.nl/2023/10/24/scammers-posing-customer-service-agents-x-companies-leave-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
