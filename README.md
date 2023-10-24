@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Train Robbery: Everything We Know So Far](https://www.flexport.com/blog/the-great-train-robbery-everything-we-know-so-far/)
-- [No federal privacy law? After the 23andMe hack, it&#39;s time to take action](https://technical.ly/civic-news/federal-privacy-laws-23andme-hack-cybersecurity/)
-- [Apple to make tools and parts to fix phones, computers available nationwide](https://www.reuters.com/technology/apple-make-tools-parts-fix-phones-computers-available-nationwide-white-house-2023-10-24/)
-- [Satya Nadella admits giving up on Windows Phone and mobile was a mistake](https://www.theverge.com/2023/10/24/23930478/microsoft-ceo-satya-nadella-mobile-windows-phone)
-- [InstallAware First and Only to Source Decentralized Setups on BitTorrent &lpar;2019&rpar;](https://www.installaware.com/download-torrent.htm)
+- [Ask HN: What&#39;s the point of automated skill assessment tests in the age of AI?](https://news.ycombinator.com/item?id=38005311)
+- [Windows 11&#39;s default mail client will show ads starting 2024](https://techcommunity.microsoft.com/t5/outlook/mail-amp-calendar-apps-will-be-replaced-with-new-outlook-for/td-p/3850309)
+- [Global Tax Evasion Report 2024 [pdf]](https://www.taxobservatory.eu/www-site/uploads/2023/10/global_tax_evasion_report_24.pdf)
+- [Are Microplastics Causing Upticks in Dementia?](https://www.earthday.org/are-microplastics-causing-upticks-in-dementia/)
+- [Gittuf – a security layer for Git using some concepts introduced by TUF](https://gittuf.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
