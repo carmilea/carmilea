@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
+- [World shift to clean energy is unstoppable, IEA report says](https://www.bbc.com/news/science-environment-67198206)
+- [&#39;Failure to act&#39; on suicide website linked to 50 UK deaths](https://www.bbc.co.uk/news/uk-67082224)
+- [Amazon&#39;s Fallout TV series gets a 2024 release date](https://arstechnica.com/gaming/2023/10/amazons-fallout-tv-series-gets-a-2024-release-date/)
 - [Show HN: Revert – open-source unified API for product integrations](https://github.com/revertinc/revert)
-- [Australian Env Scientist – Gagged and grief-stricken, but not without hope](https://www.abc.net.au/news/2023-10-24/odyssey-climate-scientists-suppress-truth-or-risk-funds-careers/102968970)
-- [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
-- [NASA just sent a software update to a spacecraft 12B miles away](https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/)
-- [Systematic Review of the Neurocognitive Effects of Cannabis Use in Older Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7259587/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
