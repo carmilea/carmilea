@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud giants sound alarm on record-breaking DDoS attacks](https://www.cybersecuritydive.com/news/ddos-attacks-novel-zero-day/696136/)
-- [Reconciliation Is a Knapsack Problem](https://www.moderntreasury.com/journal/reconciliation-is-a-knapsack-problem)
-- [Covid&#39;s Damage Lingers in the Heart](https://magazine.hms.harvard.edu/articles/covids-damage-lingers-heart)
-- [What McKinsey got wrong about developer productivity](https://leaddev.com/process/what-mckinsey-got-wrong-about-developer-productivity)
-- [Ask HN: Which DNS service do you use for your computer&#39;s network settings?](https://news.ycombinator.com/item?id=37999197)
+- [Odorant diffuser improves memory and neural functioning in older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10405466/)
+- [Meta Sued by States over Harmful Youth Marketing on Facebook, Instagram](https://www.bloomberg.com/news/articles/2023-10-24/meta-sued-by-california-states-over-harmful-youth-marketing)
+- [Server-side sandboxing: Containers and seccomp](https://www.figma.com/blog/server-side-sandboxing-containers-and-seccomp/#j1WRe)
+- [Microsoft opens early access to AI assistant for infosec, Security Copilot](https://www.theregister.com/2023/10/23/microsoft_security_copilots_early_access/)
+- [Halfsies](https://brilliant.org/challenges/halfsies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
