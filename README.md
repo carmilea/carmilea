@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What&#39;s the point of automated skill assessment tests in the age of AI?](https://news.ycombinator.com/item?id=38005311)
-- [Windows 11&#39;s default mail client will show ads starting 2024](https://techcommunity.microsoft.com/t5/outlook/mail-amp-calendar-apps-will-be-replaced-with-new-outlook-for/td-p/3850309)
-- [Global Tax Evasion Report 2024 [pdf]](https://www.taxobservatory.eu/www-site/uploads/2023/10/global_tax_evasion_report_24.pdf)
-- [Are Microplastics Causing Upticks in Dementia?](https://www.earthday.org/are-microplastics-causing-upticks-in-dementia/)
-- [Gittuf – a security layer for Git using some concepts introduced by TUF](https://gittuf.github.io/)
+- [Bitcoin miners running up Texans&#39; electricity bills](https://www.houstonchronicle.com/business/columnists/tomlinson/article/texas-bictoin-eletric-grid-higher-bills-18420115.php)
+- [Time to short Japan&#39;s &#39;bad governance&#39; stocks, hedge fund says](https://www.japantimes.co.jp/business/2023/10/16/markets/japan-stock-corporate-governance/)
+- [Snapdragon Oryon, faster than Apple&#39;s M2 chip at 30% less power](https://twitter.com/IanCutress/status/1716902706621866487)
+- [Gittuf – a security layer for Git](https://gittuf.github.io/)
+- [I wish people would do historical arguments better](https://buttondown.email/hillelwayne/archive/i-wish-people-would-do-historical-arguments-better/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
