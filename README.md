@@ -59,8 +59,8 @@
 - [Systematic Review of the Neurocognitive Effects of Cannabis Use in Older Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7259587/)
 - [Writerside – a new technical writing environment from JetBrains](https://www.jetbrains.com/writerside/)
 - [Psychedelic Mushrooms Hit the Market in Oregon](https://www.nytimes.com/2023/10/23/us/oregon-psychedelic-mushrooms.html)
+- [NASA wants the Voyagers to age gracefully, so it&#39;s time for a software patch](https://arstechnica.com/space/2023/10/nasa-wants-the-voyagers-to-age-gracefully-so-its-time-for-a-software-patch/)
 - [1Password detects &quot;suspicious activity&quot; in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
-- [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
