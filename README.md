@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin miners running up Texans&#39; electricity bills](https://www.houstonchronicle.com/business/columnists/tomlinson/article/texas-bictoin-eletric-grid-higher-bills-18420115.php)
-- [Time to short Japan&#39;s &#39;bad governance&#39; stocks, hedge fund says](https://www.japantimes.co.jp/business/2023/10/16/markets/japan-stock-corporate-governance/)
-- [Snapdragon Oryon, faster than Apple&#39;s M2 chip at 30% less power](https://twitter.com/IanCutress/status/1716902706621866487)
-- [Gittuf – a security layer for Git](https://gittuf.github.io/)
-- [I wish people would do historical arguments better](https://buttondown.email/hillelwayne/archive/i-wish-people-would-do-historical-arguments-better/)
+- [Why 10B snow crabs starved to death in the Bering Sea](https://phys.org/news/2023-10-billion-crabs-starved-death-bering.html)
+- [Bill Watterson&#39;s Life After &quot;Calvin and Hobbes&quot;](https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review)
+- [Building Text Classifiers: A New Approach with Less Data](https://mazaal.ai/no-code-text-classification)
+- [41 states sue Meta, claiming Instagram, Facebook are addictive, harm kids](https://www.washingtonpost.com/technology/2023/10/24/meta-lawsuit-facebook-instagram-children-mental-health/)
+- [CVS ditches common cold meds after FDA advisers say they&#39;re useless](https://arstechnica.com/health/2023/10/cvs-ditches-useless-cold-meds-but-not-bogus-homeopathic-products/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
