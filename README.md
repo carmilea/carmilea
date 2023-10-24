@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Good times create weak men](https://tonsky.me/blog/good-times-weak-men/)
-- [I Face Investigation for Terrorism](https://www.craigmurray.org.uk/archives/2023/10/incredibly-i-face-investigation-for-terrorism-defence-funds-appeal/)
+- [Germany to Pass Japan as Third-Largest Economy, Helped by Weak Yen](https://www.bloomberg.com/news/articles/2023-10-24/germany-to-pass-japan-as-3rd-largest-economy-helped-by-weak-yen)
+- [Good times create weak men &lpar;2019&rpar; &lpar;2019&rpar;](https://tonsky.me/blog/good-times-weak-men/)
 - [Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
 - [The &quot;Just One More&quot; Paradox – Kelly Criterion [video]](https://www.youtube.com/watch?v=_FuuYSM7yOo)
 - [The HP Printer USB Sticker Trick Also Works for Thermaltake PSUs](https://full.pr0gramm.com/2023/10/24/fa4df047de2f8c6f.jpg)
