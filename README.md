@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Population.io](https://population.io/)
-- [Nvidia to Challenge Intel with Arm-Based Processors for PCs](https://www.bloomberg.com/news/articles/2023-10-23/nvidia-to-take-on-intel-with-arm-based-pc-chips-reuters-says)
-- [Marcel the Shell](https://www.marceltheshell.org)
-- [Show HN: WebSession, a Secure Replacement for Cookies](https://websession.dev/)
-- [Tech: iCloud+ 6 and 12 Terabyte Plans and Apple One Premier Issues](https://adamchandler.me/blog/2023/09/18/tech-icloud-6-12-terabyte-plans-apple-one-premier-issues/)
+- [Mom can now recommend matches for you on Tinder](https://www.businessinsider.com/tinder-matchmaker-feature-lets-friends-family-recommend-potential-matches-dating-2023-10)
+- [1Password detects &quot;suspicious activity&quot; in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
+- [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf)
+- [How to Build Your Own AI-Generated Images with ControlNet and Stable Diffusion](https://www.datature.io/blog/how-to-build-your-own-ai-generated-image-with-controlnet-and-stable-diffusion)
+- [Show HN: Roadmap – A Personal Growth Game for Social Anxiety](https://www.roadmaptogrow.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
