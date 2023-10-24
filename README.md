@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twillio immediatly closes accounts with the word Palestine in them](https://news.ycombinator.com/item?id=38003544)
-- [California DMV suspends Cruise&#39;s driverless testing permit effective immediately](https://www.dmv.ca.gov/portal/news-and-media/dmv-statement-on-cruise-llc-suspension/)
+- [The Great Train Robbery: Everything We Know So Far](https://www.flexport.com/blog/the-great-train-robbery-everything-we-know-so-far/)
 - [No federal privacy law? After the 23andMe hack, it&#39;s time to take action](https://technical.ly/civic-news/federal-privacy-laws-23andme-hack-cybersecurity/)
 - [Apple to make tools and parts to fix phones, computers available nationwide](https://www.reuters.com/technology/apple-make-tools-parts-fix-phones-computers-available-nationwide-white-house-2023-10-24/)
-- [A11y Is Not Accessible](https://mobilea11y.com/blog/inaccessible-a11y/)
+- [Satya Nadella admits giving up on Windows Phone and mobile was a mistake](https://www.theverge.com/2023/10/24/23930478/microsoft-ceo-satya-nadella-mobile-windows-phone)
+- [InstallAware First and Only to Source Decentralized Setups on BitTorrent &lpar;2019&rpar;](https://www.installaware.com/download-torrent.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
