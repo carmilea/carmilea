@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Americans&#39; confidence in technology firms has dropped](https://www.brookings.edu/articles/how-americans-confidence-in-technology-firms-has-dropped-evidence-from-the-second-wave-of-the-american-institutional-confidence-poll/)
+- [Email Address Regular Expression That 99.99% Works](https://emailregex.com/index.html)
 - [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
 - [World shift to clean energy is unstoppable, IEA report says](https://www.bbc.com/news/science-environment-67198206)
-- [&#39;Failure to act&#39; on suicide website linked to 50 UK deaths](https://www.bbc.co.uk/news/uk-67082224)
 - [Amazon&#39;s Fallout TV series gets a 2024 release date](https://arstechnica.com/gaming/2023/10/amazons-fallout-tv-series-gets-a-2024-release-date/)
-- [Show HN: Revert – open-source unified API for product integrations](https://github.com/revertinc/revert)
 <!-- BLOG-POST-LIST:END -->
 
 ---
