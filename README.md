@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ideation Flywheel &lpar;or how to get better startup ideas&rpar;](https://www.stackfix.com/blog/the-ideation-flywheel)
-- [Animated AI](https://animatedai.github.io/)
-- [BioNTech Presents Positive Phase 1/2 Data for Car-T Cell Therapy Candidate](https://investors.biontech.de/news-releases/news-release-details/biontech-presents-positive-phase-12-data-update-car-t-cell/)
-- [Large Search Spaces Mean Magic &lpar;2005&rpar;](http://sl4.org/archive/0507/11676.html)
-- [Germany to Pass Japan as Third-Largest Economy, Helped by Weak Yen](https://www.bloomberg.com/news/articles/2023-10-24/germany-to-pass-japan-as-3rd-largest-economy-helped-by-weak-yen)
+- [Cloud giants sound alarm on record-breaking DDoS attacks](https://www.cybersecuritydive.com/news/ddos-attacks-novel-zero-day/696136/)
+- [Reconciliation Is a Knapsack Problem](https://www.moderntreasury.com/journal/reconciliation-is-a-knapsack-problem)
+- [Covid&#39;s Damage Lingers in the Heart](https://magazine.hms.harvard.edu/articles/covids-damage-lingers-heart)
+- [What McKinsey got wrong about developer productivity](https://leaddev.com/process/what-mckinsey-got-wrong-about-developer-productivity)
+- [Ask HN: Which DNS service do you use for your computer&#39;s network settings?](https://news.ycombinator.com/item?id=37999197)
 <!-- BLOG-POST-LIST:END -->
 
 ---
