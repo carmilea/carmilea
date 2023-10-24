@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Australian Env Scientist – Gagged and grief-stricken, but not without hope](https://www.abc.net.au/news/2023-10-24/odyssey-climate-scientists-suppress-truth-or-risk-funds-careers/102968970)
+- [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
+- [NASA just sent a software update to a spacecraft 12B miles away](https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/)
 - [Systematic Review of the Neurocognitive Effects of Cannabis Use in Older Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7259587/)
 - [Writerside – a new technical writing environment from JetBrains](https://www.jetbrains.com/writerside/)
-- [Psychedelic Mushrooms Hit the Market in Oregon](https://www.nytimes.com/2023/10/23/us/oregon-psychedelic-mushrooms.html)
-- [NASA wants the Voyagers to age gracefully, so it&#39;s time for a software patch](https://arstechnica.com/space/2023/10/nasa-wants-the-voyagers-to-age-gracefully-so-its-time-for-a-software-patch/)
-- [1Password detects &quot;suspicious activity&quot; in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
