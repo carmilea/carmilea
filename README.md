@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ideation Flywheel &lpar;or how to get better startup ideas&rpar;](https://www.stackfix.com/blog/the-ideation-flywheel)
+- [Animated AI](https://animatedai.github.io/)
+- [BioNTech Presents Positive Phase 1/2 Data for Car-T Cell Therapy Candidate](https://investors.biontech.de/news-releases/news-release-details/biontech-presents-positive-phase-12-data-update-car-t-cell/)
+- [Large Search Spaces Mean Magic &lpar;2005&rpar;](http://sl4.org/archive/0507/11676.html)
 - [Germany to Pass Japan as Third-Largest Economy, Helped by Weak Yen](https://www.bloomberg.com/news/articles/2023-10-24/germany-to-pass-japan-as-3rd-largest-economy-helped-by-weak-yen)
-- [Good times create weak men &lpar;2019&rpar; &lpar;2019&rpar;](https://tonsky.me/blog/good-times-weak-men/)
-- [Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
-- [The &quot;Just One More&quot; Paradox – Kelly Criterion [video]](https://www.youtube.com/watch?v=_FuuYSM7yOo)
-- [The HP Printer USB Sticker Trick Also Works for Thermaltake PSUs](https://full.pr0gramm.com/2023/10/24/fa4df047de2f8c6f.jpg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
