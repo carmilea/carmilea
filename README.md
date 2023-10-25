@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Otis: Tropical storm to category 5 hurricane in 24h](https://www.nhc.noaa.gov/archive/2023/ep18/ep182023.discus.012.shtml)
+- [Things I&#39;ve learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
+- [MAME 0.260](https://www.mamedev.org/?p=530)
 - [Heated yoga may reduce depression in adults](https://news.harvard.edu/gazette/story/2023/10/heated-yoga-may-reduce-depression-in-adults/)
 - [LIGO Surpasses the Quantum Limit](https://www.caltech.edu/about/news/ligo-surpasses-the-quantum-limit)
-- [Toyota Inks Deal to Mass Produce Solid State EV Batteries with 932-Mile Range](https://www.pcmag.com/news/toyota-inks-deal-to-mass-produce-solid-state-ev-batteries-with-932-mile)
-- [Judas Goat](https://en.wikipedia.org/wiki/Judas_goat)
+- [Judas goat](https://en.wikipedia.org/wiki/Judas_goat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
