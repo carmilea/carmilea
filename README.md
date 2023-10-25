@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toyota Inks Deal to Mass Produce Solid State EV Batteries with 932-Mile Range](https://www.pcmag.com/news/toyota-inks-deal-to-mass-produce-solid-state-ev-batteries-with-932-mile)
+- [Microsoft now demands to know why you won&#39;t use Edge when you download Chrome](https://www.techradar.com/computing/browsers/microsoft-now-demands-to-know-why-you-just-wont-use-edge-when-you-inevitably-download-chrome-using-it)
 - [Show HN: Fediverser Portal – Bring your subreddits to Lemmy](https://portal.alien.top)
-- [Why 10B snow crabs starved to death in the Bering Sea](https://phys.org/news/2023-10-billion-crabs-starved-death-bering.html)
+- [Star Citizen&#39;s Squadron 42 finally feature-complete 10 years post being revealed](https://www.xfire.com/star-citizens-squadron-42-finally-feature-complete-ten-years-after-being-announced/)
 - [Show HN: Restaurants in Peace – leave a remembrance for a closed restaurant](https://restaurants.rip/)
-- [Life After “Calvin and Hobbes”](https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review)
-- [Prototype poisoning &lpar;2019&rpar;](https://fastify.dev/docs/latest/Guides/Prototype-Poisoning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
