@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
+- [Consistency Models &lpar;2018&rpar;](https://jepsen.io/consistency)
 - [Sunflower &lpar;Mathematics&rpar;](https://en.wikipedia.org/wiki/Sunflower_(mathematics))
 - [Whirlwind I](https://en.wikipedia.org/wiki/Whirlwind_I)
 - [Things I&#39;ve learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
-- [MAME 0.260](https://www.mamedev.org/?p=530)
-- [Heated yoga may reduce depression in adults](https://news.harvard.edu/gazette/story/2023/10/heated-yoga-may-reduce-depression-in-adults/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
