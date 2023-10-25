@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sun&#39;s Magnetic Reversal is Underway [video]](https://www.youtube.com/watch?v=oSQ74zgUO44)
-- [AI Worship](https://marginalrevolution.com/marginalrevolution/2023/10/ai-worship.html)
+- [PhotoRoom Is Hiring a Senior Developer in Paris &lpar;Cross-Platform, Rust, Wgpu&rpar;](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
+- [Puncia – Subdomain and Exploit Hunter Powered by AI](https://github.com/ARPSyndicate/puncia)
+- [Show HN: GitHub Organization Analytics](https://next.ossinsight.io/analyze/vercel)
+- [Flawless – Durable execution engine for Rust](https://flawless.dev/)
 - [Tarsnap has given 2^18 dollars to open source](https://www.daemonology.net/blog/2023-10-25-2%5E18-dollars-to-open-source.html)
-- [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
-- [Consistency Models &lpar;2018&rpar;](https://jepsen.io/consistency)
 <!-- BLOG-POST-LIST:END -->
 
 ---
