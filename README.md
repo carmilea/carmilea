@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Fediverser Portal – Bring your subreddits to Lemmy](https://portal.alien.top)
 - [Why 10B snow crabs starved to death in the Bering Sea](https://phys.org/news/2023-10-billion-crabs-starved-death-bering.html)
-- [Bill Watterson&#39;s Life After &quot;Calvin and Hobbes&quot;](https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review)
-- [Building Text Classifiers: A New Approach with Less Data](https://mazaal.ai/no-code-text-classification)
-- [41 states sue Meta, claiming Instagram, Facebook are addictive, harm kids](https://www.washingtonpost.com/technology/2023/10/24/meta-lawsuit-facebook-instagram-children-mental-health/)
-- [CVS ditches common cold meds after FDA advisers say they&#39;re useless](https://arstechnica.com/health/2023/10/cvs-ditches-useless-cold-meds-but-not-bogus-homeopathic-products/)
+- [Show HN: Restaurants in Peace – leave a remembrance for a closed restaurant](https://restaurants.rip/)
+- [Life After “Calvin and Hobbes”](https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review)
+- [Prototype poisoning &lpar;2019&rpar;](https://fastify.dev/docs/latest/Guides/Prototype-Poisoning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
