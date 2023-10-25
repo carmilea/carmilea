@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What&#39;s the best way to become an independent software developer?](https://news.ycombinator.com/item?id=38008323)
+- [Otis: Tropical storm to category 5 hurricane in 24h](https://www.nhc.noaa.gov/archive/2023/ep18/ep182023.discus.012.shtml)
+- [Heated yoga may reduce depression in adults](https://news.harvard.edu/gazette/story/2023/10/heated-yoga-may-reduce-depression-in-adults/)
+- [LIGO Surpasses the Quantum Limit](https://www.caltech.edu/about/news/ligo-surpasses-the-quantum-limit)
 - [Toyota Inks Deal to Mass Produce Solid State EV Batteries with 932-Mile Range](https://www.pcmag.com/news/toyota-inks-deal-to-mass-produce-solid-state-ev-batteries-with-932-mile)
-- [Show HN: Fediverser Portal – Bring your subreddits to Lemmy](https://portal.alien.top)
-- [Show HN: Restaurants in Peace – leave a remembrance for a closed restaurant](https://restaurants.rip/)
-- [Life After “Calvin and Hobbes”](https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review)
+- [Judas Goat](https://en.wikipedia.org/wiki/Judas_goat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
