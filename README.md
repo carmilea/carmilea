@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548)
 - [Announcing the General Availability of the Shell UI for SingleStore Kai™](https://www.singlestore.com/blog/general-availability-shell-ui-singlestore-kai/)
 - [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
 - [Adding crushed rock to farmland pulls carbon out of the air](https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air)
-- [Nix Survival Mode: macOS upgrades won&#39;t break Nix anymore](https://determinate.systems/posts/nix-survival-mode-on-macos)
 - [Unpacking Elixir: Observability](https://underjord.io/unpacking-elixir-observability.html)
 <!-- BLOG-POST-LIST:END -->
 
