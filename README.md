@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft now thirstily injects a poll when you download Google Chrome](https://www.theverge.com/23930960/microsoft-edge-google-chrome-poll-why-try-another-browser)
-- [Wait, What&#39;s a Bookmarklet?](https://thehistoryoftheweb.com/postscript/wait-whats-a-bookmarklet/)
-- [SpaceX Starship Super Heavy Project at the Boca Chica Launch Site](https://www.faa.gov/space/stakeholder_engagement/spacex_starship)
-- [We should promote more personal indexing, rather than algorhythmic indexing](https://news.ycombinator.com/item?id=38013796)
-- [Apple TV Plus is getting a price hike – and other Apple subscriptions are, too](https://www.theverge.com/2023/10/25/23931577/apple-tv-plus-news-arcade-one-subscription-price-increase)
+- [Advice to a Novice Programmer](https://blog.plover.com/prog/katara-advice.html)
+- [Nile, Serverless Postgres for Modern SaaS](https://www.thenile.dev/blog/introducing-nile)
+- [Zvi Mowshowitz&#39;s Book Review: Going Infinite [Long Read on Sam Bankman-Fried]](https://thezvi.substack.com/p/book-review-going-infinite)
+- [Cloudflare API, dashboard, tunnels down](https://www.cloudflarestatus.com/incidents/s1hkh315y9s9)
+- [LAPD releases video of officers who ignored robbery to play Pokémon Go](https://www.latimes.com/california/story/2023-10-07/lapd-releases-video-of-officers-who-ignored-robbery-to-play-pokemon-go)
 <!-- BLOG-POST-LIST:END -->
 
 ---
