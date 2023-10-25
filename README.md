@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Introducing the Vercel Integration for SingleStoreDB Cloud](https://www.singlestore.com/blog/vercel-integration-for-singlestoredb-cloud/)
+- [Meta Reports Third Quarter 2023 Results](https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Third-Quarter-2023-Results/default.aspx)
 - [Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
 - [Build Resilient Transactional Apps with SingleStoreDB](https://www.singlestore.com/blog/build-resilient-transactional-apps-with-singlestoredb/)
-- [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
-- [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/)
+- [Living Papers: A Language Toolkit for Augmented Scholarly Communication](https://idl.cs.washington.edu/papers/living-papers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
