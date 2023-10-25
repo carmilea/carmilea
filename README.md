@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2023 Hugo Awards](https://www.thehugoawards.org/hugo-history/2023-hugo-awards/)
+- [The human body has 1.8T cells dedicated to defending it](https://english.elpais.com/science-tech/2023-10-25/the-human-body-has-18-trillion-cells-dedicated-to-defending-it.html)
+- [Show HN: Orbital – Dynamically Unifying APIs and Data with No Glue Code](https://github.com/orbitalapi/orbital)
+- [Loyal workers are selectively and ironically targeted for exploitation](https://www.sciencedirect.com/science/article/abs/pii/S0022103122001615)
+- [Pope Francis encourages more children to code, especially in Catholic countries](https://www.bbc.com/news/technology-67209806)
 - [Show HN: OpenAPI DevTools – Chrome ext. that generates an API spec as you browse](https://github.com/AndrewWalsh/openapi-devtools)
-- [First malaria vaccine slashes early childhood mortality – Science – AAAS](https://www.science.org/content/article/first-malaria-vaccine-slashes-early-childhood-deaths)
-- [Lichee Console 4A: Mini Laptop with a RISC-V Processor and 7 inch display](https://liliputing.com/lichee-console-4a-is-a-mini-laptop-with-a-risc-v-processor-and-7-inch-display/)
-- [Show HN: ArtistAssistApp – the web app to paint better with ease](https://artistassistapp.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
