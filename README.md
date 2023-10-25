@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the Vercel Integration for SingleStoreDB Cloud](https://www.singlestore.com/blog/vercel-integration-for-singlestoredb-cloud/)
+- [Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
+- [Build Resilient Transactional Apps with SingleStoreDB](https://www.singlestore.com/blog/build-resilient-transactional-apps-with-singlestoredb/)
 - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
 - [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/)
-- [AI &#39;breakthrough&#39;: neural net has human-like ability to generalize language](https://www.nature.com/articles/d41586-023-03272-3)
-- [What are roundabouts? The safety benefits of these circular intersections](https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412)
-- [Show HN: Mango Mail – The most affordable email host with unlimited addresses](https://mymangomail.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
