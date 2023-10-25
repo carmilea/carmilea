@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548)
-- [Announcing the General Availability of the Shell UI for SingleStore Kai™](https://www.singlestore.com/blog/general-availability-shell-ui-singlestore-kai/)
-- [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
-- [Adding crushed rock to farmland pulls carbon out of the air](https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air)
-- [Unpacking Elixir: Observability](https://underjord.io/unpacking-elixir-observability.html)
+- [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
+- [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/)
+- [AI &#39;breakthrough&#39;: neural net has human-like ability to generalize language](https://www.nature.com/articles/d41586-023-03272-3)
+- [What are roundabouts? The safety benefits of these circular intersections](https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412)
+- [Show HN: Mango Mail – The most affordable email host with unlimited addresses](https://mymangomail.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
