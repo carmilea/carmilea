@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Advice to a Novice Programmer](https://blog.plover.com/prog/katara-advice.html)
-- [Nile, Serverless Postgres for Modern SaaS](https://www.thenile.dev/blog/introducing-nile)
-- [Zvi Mowshowitz&#39;s Book Review: Going Infinite [Long Read on Sam Bankman-Fried]](https://thezvi.substack.com/p/book-review-going-infinite)
-- [Cloudflare API, dashboard, tunnels down](https://www.cloudflarestatus.com/incidents/s1hkh315y9s9)
-- [LAPD releases video of officers who ignored robbery to play Pokémon Go](https://www.latimes.com/california/story/2023-10-07/lapd-releases-video-of-officers-who-ignored-robbery-to-play-pokemon-go)
+- [Announcing the General Availability of the Shell UI for SingleStore Kai™](https://www.singlestore.com/blog/general-availability-shell-ui-singlestore-kai/)
+- [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
+- [Adding crushed rock to farmland pulls carbon out of the air](https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air)
+- [Nix Survival Mode: macOS upgrades won&#39;t break Nix anymore](https://determinate.systems/posts/nix-survival-mode-on-macos)
+- [Unpacking Elixir: Observability](https://underjord.io/unpacking-elixir-observability.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
