@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PhotoRoom Is Hiring a Senior Developer in Paris &lpar;Cross-Platform, Rust, Wgpu&rpar;](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
+- [50% smaller and 60% faster distilled Stable Diffusion XL](https://huggingface.co/segmind/SSD-1B)
 - [Puncia – Subdomain and Exploit Hunter Powered by AI](https://github.com/ARPSyndicate/puncia)
 - [Show HN: GitHub Organization Analytics](https://next.ossinsight.io/analyze/vercel)
 - [Flawless – Durable execution engine for Rust](https://flawless.dev/)
-- [Tarsnap has given 2^18 dollars to open source](https://www.daemonology.net/blog/2023-10-25-2%5E18-dollars-to-open-source.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
