@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Critically Acclaimed Horror Film of the 2010s or Your PhD Program?](https://www.mcsweeneys.net/articles/critically-acclaimed-horror-film-of-the-2010s-or-your-phd-program)
-- [Confessions of a Middle-Class Founder](https://nymag.com/intelligencer/article/venture-capital-backed-startup-founder-confessions.html)
-- [Nightshade, the new tool allowing artists to &#39;poison&#39; AI models](https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-artists-to-poison-ai-models-with-corrupted-training-data/)
-- [Desert Island Tourism](https://thehustle.co/the-wild-business-of-desert-island-tourism/)
-- [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
+- [Microsoft now thirstily injects a poll when you download Google Chrome](https://www.theverge.com/23930960/microsoft-edge-google-chrome-poll-why-try-another-browser)
+- [Wait, What&#39;s a Bookmarklet?](https://thehistoryoftheweb.com/postscript/wait-whats-a-bookmarklet/)
+- [SpaceX Starship Super Heavy Project at the Boca Chica Launch Site](https://www.faa.gov/space/stakeholder_engagement/spacex_starship)
+- [We should promote more personal indexing, rather than algorhythmic indexing](https://news.ycombinator.com/item?id=38013796)
+- [Apple TV Plus is getting a price hike – and other Apple subscriptions are, too](https://www.theverge.com/2023/10/25/23931577/apple-tv-plus-news-arcade-one-subscription-price-increase)
 <!-- BLOG-POST-LIST:END -->
 
 ---
