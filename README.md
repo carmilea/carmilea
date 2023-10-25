@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sun&#39;s Magnetic Reversal is Underway [video]](https://www.youtube.com/watch?v=oSQ74zgUO44)
+- [AI Worship](https://marginalrevolution.com/marginalrevolution/2023/10/ai-worship.html)
+- [Tarsnap has given 2^18 dollars to open source](https://www.daemonology.net/blog/2023-10-25-2%5E18-dollars-to-open-source.html)
+- [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
 - [Consistency Models &lpar;2018&rpar;](https://jepsen.io/consistency)
-- [Sunflower &lpar;Mathematics&rpar;](https://en.wikipedia.org/wiki/Sunflower_(mathematics))
-- [Whirlwind I](https://en.wikipedia.org/wiki/Whirlwind_I)
-- [Things I&#39;ve learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
-- [MAME 0.260](https://www.mamedev.org/?p=530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
