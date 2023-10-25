@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 Hugo Awards](https://www.thehugoawards.org/hugo-history/2023-hugo-awards/)
 - [Show HN: OpenAPI DevTools – Chrome ext. that generates an API spec as you browse](https://github.com/AndrewWalsh/openapi-devtools)
+- [First malaria vaccine slashes early childhood mortality – Science – AAAS](https://www.science.org/content/article/first-malaria-vaccine-slashes-early-childhood-deaths)
 - [Lichee Console 4A: Mini Laptop with a RISC-V Processor and 7 inch display](https://liliputing.com/lichee-console-4a-is-a-mini-laptop-with-a-risc-v-processor-and-7-inch-display/)
 - [Show HN: ArtistAssistApp – the web app to paint better with ease](https://artistassistapp.com/)
-- [Show HN: A note-keeping system on top of Fossil SCM](https://github.com/rguiscard/fossil-notebook-demo)
-- [Mptcp: An overlooked new feature in Go 1.21](https://www.sobyte.net/post/2023-07/mptcp-go/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
