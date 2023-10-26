@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html)
+- [UK government accused of &#39;vandalism&#39; over abolishing biometrics safeguards](https://therecord.media/uk-government-criticized-over-abolishing-ai-biometric-safeguards)
+- [U.S. GDP grew at a 4.9% annual pace in the third quarter, better than expected](https://www.cnbc.com/2023/10/26/us-gdp-grew-at-a-4point9percent-annual-pace-in-the-third-quarter-better-than-expected.html)
+- [Synth Emulation in MAME &lpar;Arcade Machine Emulator&rpar;. A New Trend?](https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/1416192-synth-emulation-mame-arcade-machine-emulator-new-trend.html)
 - [Mars has a surprise layer of molten rock inside](https://www.nature.com/articles/d41586-023-03271-4)
-- [Cold war satellite images reveal hundreds of unknown Roman forts](https://www.theguardian.com/science/2023/oct/26/cold-war-satellite-images-hundreds-unknown-roman-forts)
-- [Apple backs national right-to-repair bill, offering parts, manuals, and tools](https://arstechnica.com/gadgets/2023/10/apple-backs-national-right-to-repair-bill-offering-parts-manuals-and-tools/)
-- [Pulpatronics tackles single-use electronics with paper RFID tags](https://www.dezeen.com/2023/10/25/pulpatronics-paper-rfid-tags/)
-- [Megatsunamis: Waves over 500 meters high and devastation beyond the ocean](https://english.elpais.com/science-tech/2023-10-23/the-secrets-of-megatsunamis-waves-over-500-meters-high-and-devastation-beyond-the-ocean.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
