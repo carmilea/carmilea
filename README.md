@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT cut off date now April 2023](https://chat.openai.com/share/3b088460-86f8-4fa6-afd1-802b7f9a5e9f)
+- [Without a Trace: How to Take Your Phone Off the Grid](https://themarkup.org/levelup/2023/10/25/without-a-trace-how-to-take-your-phone-off-the-grid)
 - [Someone is trying to rebuild Friendster](https://friendster.com)
 - [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
 - [Addressing Changes to PfSense Plus Home+Lab](https://www.netgate.com/blog/addressing-changes-to-pfsense-plus-homelab)
-- [Running the &quot;Reflections on Trusting Trust&quot; Compiler](https://research.swtch.com/nih)
-- [Chaucer&#39;s works go online](https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
