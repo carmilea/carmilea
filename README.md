@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Mint Working on Wayland Support](https://blog.linuxmint.com/?p=4591)
+- [An implementation of the NTFS filesystem in a Rust crate](https://github.com/ColinFinck/ntfs)
+- [Germany set to eclipse Japan as No. 3 economy in 2023, IMF says](https://www.japantimes.co.jp/business/2023/10/24/economy/japan-gdp-biggest-economies-imf/)
 - [Bird with GPS flies into typhoon, carried 700 miles, reaching 15000 ft altitude](https://newatlas.com/biology/bird-typhoon-ride/)
-- [War Thunder game engine released under BSD license](https://github.com/GaijinEntertainment/DagorEngine)
-- [Synology MFA Fails if Internet is down](https://community.synology.com/enu/forum/2/post/145666)
-- [OpenAI Preparedness Challenge](https://openai.com/form/preparedness-challenge)
-- [Near-Earth Asteroid Is a Chunk of the Moon](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
+- [Tell HN: 0.61 USD per week for daily sprouts of grains and pulses](https://news.ycombinator.com/item?id=38030642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
