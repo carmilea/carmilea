@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kidney stone breakthrough procedure at UW called &#39;game changer&#39; for patients](https://komonews.com/news/local/uw-medicine-kidney-stone-breakthrough-procedure-treatment-nasa-mars-astronaut-research-patients-game-changer-seattle-clinical-trial-harborview-medical-center)
+- [Microsoft seeks EU Digital Market Acts exemption for underdog apps like Edge](https://www.theregister.com/2023/10/26/microsoft_dma_exemption/)
+- [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
 - [What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html)
 - [UK government accused of &#39;vandalism&#39; over abolishing biometrics safeguards](https://therecord.media/uk-government-criticized-over-abolishing-ai-biometric-safeguards)
-- [U.S. GDP grew at a 4.9% annual pace in the third quarter, better than expected](https://www.cnbc.com/2023/10/26/us-gdp-grew-at-a-4point9percent-annual-pace-in-the-third-quarter-better-than-expected.html)
-- [Synth Emulation in MAME &lpar;Arcade Machine Emulator&rpar;. A New Trend?](https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/1416192-synth-emulation-mame-arcade-machine-emulator-new-trend.html)
-- [Mars has a surprise layer of molten rock inside](https://www.nature.com/articles/d41586-023-03271-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
