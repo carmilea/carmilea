@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bird with GPS flies into typhoon, carried 700 miles, reaching 15000 ft altitude](https://newatlas.com/biology/bird-typhoon-ride/)
+- [War Thunder game engine released under BSD license](https://github.com/GaijinEntertainment/DagorEngine)
 - [Synology MFA Fails if Internet is down](https://community.synology.com/enu/forum/2/post/145666)
-- [Cities Skylines 2 runs with 20fps on an Nvidia RTX4090](https://www.dsogaming.com/pc-performance-analyses/cities-skylines-2-runs-with-20fps-on-an-nvidia-rtx4090-at-4k-high-even-on-an-empty-map/)
 - [OpenAI Preparedness Challenge](https://openai.com/form/preparedness-challenge)
-- [Next.js 14](https://nextjs.org/blog/next-14)
 - [Near-Earth Asteroid Is a Chunk of the Moon](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
 <!-- BLOG-POST-LIST:END -->
 
