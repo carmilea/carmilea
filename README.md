@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Economy Grew at 4.9% Rate This Summer, Powered by Fast-Spending Americans](https://www.wsj.com/economy/central-banking/us-gdp-economy-third-quarter-f247fa45)
+- [LA County&#39;s guaranteed income program to give some foster youth $1k per month](https://abc7.com/guaranteed-income-la-county-dcfs-foster-youth/13960280/)
+- [I2P: End-to-End encrypted and anonymous Internet](https://github.com/PurpleI2P/i2pd)
+- [Rob &#39;CmdrTaco&#39; Malda – Hacker History Podcast](https://hackerhistory.com/podcast/the-history-of-rob-cmdrtaco-malda/)
 - [Kidney stone breakthrough procedure at UW called &#39;game changer&#39; for patients](https://komonews.com/news/local/uw-medicine-kidney-stone-breakthrough-procedure-treatment-nasa-mars-astronaut-research-patients-game-changer-seattle-clinical-trial-harborview-medical-center)
-- [Microsoft seeks EU Digital Market Acts exemption for underdog apps like Edge](https://www.theregister.com/2023/10/26/microsoft_dma_exemption/)
-- [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
-- [What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html)
-- [UK government accused of &#39;vandalism&#39; over abolishing biometrics safeguards](https://therecord.media/uk-government-criticized-over-abolishing-ai-biometric-safeguards)
 <!-- BLOG-POST-LIST:END -->
 
 ---
