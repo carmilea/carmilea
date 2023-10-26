@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Someone is trying to rebuild Friendster](https://friendster.com)
 - [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
+- [Addressing Changes to PfSense Plus Home+Lab](https://www.netgate.com/blog/addressing-changes-to-pfsense-plus-homelab)
 - [Running the &quot;Reflections on Trusting Trust&quot; Compiler](https://research.swtch.com/nih)
 - [Chaucer&#39;s works go online](https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html)
-- [Jina AI launches open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
-- [Why every microwave sucks these days](https://moth.monster/blog/microwaves/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
