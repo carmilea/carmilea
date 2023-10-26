@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oxide: The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
+- [Google&#39;s Plan to Stop Apple from Getting Serious About Search](https://www.nytimes.com/2023/10/26/technology/google-apple-search-spotlight.html)
+- [The First Cyber Nation-State Recognized by a UN Member Nation](https://www.joseon.com/l/en-US/)
 - [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
 - [Addressing Changes to PfSense Plus Home+Lab](https://www.netgate.com/blog/addressing-changes-to-pfsense-plus-homelab)
-- [Running the &quot;Reflections on Trusting Trust&quot; Compiler](https://research.swtch.com/nih)
-- [Chaucer&#39;s works go online](https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html)
-- [Jina AI launches open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
