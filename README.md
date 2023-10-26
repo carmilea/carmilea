@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X Won&#39;t Demonetize Russell Brand, the Company Tells Pro-Censorship British MPs](https://reclaimthenet.org/x-wont-demonetize-russell-brand)
+- [Near-Earth Asteroid Is a Chunk of the Moon](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
 - [U.S. Economy Grew at 4.9% Rate This Summer, Powered by Fast-Spending Americans](https://www.wsj.com/economy/central-banking/us-gdp-economy-third-quarter-f247fa45)
-- [LA County&#39;s guaranteed income program to give some foster youth $1k per month](https://abc7.com/guaranteed-income-la-county-dcfs-foster-youth/13960280/)
 - [I2P: End-to-End encrypted and anonymous Internet](https://github.com/PurpleI2P/i2pd)
 - [Rob &#39;CmdrTaco&#39; Malda – Hacker History Podcast](https://hackerhistory.com/podcast/the-history-of-rob-cmdrtaco-malda/)
-- [Kidney stone breakthrough procedure at UW called &#39;game changer&#39; for patients](https://komonews.com/news/local/uw-medicine-kidney-stone-breakthrough-procedure-treatment-nasa-mars-astronaut-research-patients-game-changer-seattle-clinical-trial-harborview-medical-center)
 <!-- BLOG-POST-LIST:END -->
 
 ---
