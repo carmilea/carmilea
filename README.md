@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jina AI Launches First Open-Source 8K Text Embedding, Rivaling OpenAI](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
 - [How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
 - [Introducing the Vercel Integration for SingleStoreDB Cloud](https://www.singlestore.com/blog/vercel-integration-for-singlestoredb-cloud/)
-- [Meta Reports Third Quarter 2023 Results](https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Third-Quarter-2023-Results/default.aspx)
 - [Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
 - [Build Resilient Transactional Apps with SingleStoreDB](https://www.singlestore.com/blog/build-resilient-transactional-apps-with-singlestoredb/)
 <!-- BLOG-POST-LIST:END -->
