@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Mint Working on Wayland Support](https://blog.linuxmint.com/?p=4591)
 - [An implementation of the NTFS filesystem in a Rust crate](https://github.com/ColinFinck/ntfs)
-- [Germany set to eclipse Japan as No. 3 economy in 2023, IMF says](https://www.japantimes.co.jp/business/2023/10/24/economy/japan-gdp-biggest-economies-imf/)
-- [Bird with GPS flies into typhoon, carried 700 miles, reaching 15000 ft altitude](https://newatlas.com/biology/bird-typhoon-ride/)
-- [Tell HN: 0.61 USD per week for daily sprouts of grains and pulses](https://news.ycombinator.com/item?id=38030642)
+- [The Magical Japanese Art of Luggage Forwarding](https://craigmod.com/ridgeline/170/)
+- [Bird with GPS flies into typhoon](https://newatlas.com/biology/bird-typhoon-ride/)
+- [Dagor Engine and Tools source code from Gaijin Games KFT](https://github.com/GaijinEntertainment/DagorEngine)
+- [Roombas at the end of the world](https://spectrum.ieee.org/south-pole-roombas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
