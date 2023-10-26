@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An implementation of the NTFS filesystem in a Rust crate](https://github.com/ColinFinck/ntfs)
-- [The Magical Japanese Art of Luggage Forwarding](https://craigmod.com/ridgeline/170/)
-- [Bird with GPS flies into typhoon](https://newatlas.com/biology/bird-typhoon-ride/)
-- [Dagor Engine and Tools source code from Gaijin Games KFT](https://github.com/GaijinEntertainment/DagorEngine)
-- [Roombas at the end of the world](https://spectrum.ieee.org/south-pole-roombas)
+- [WebSDR – internet connected Software-Defined Radios](http://www.websdr.org/)
+- [Trying to make sense of why Otis exploded en route to Acapulco this week](https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/)
+- [Python Expertise Level – Self-Assessment](https://safjan.com/python-expertise-level-self-assessment/)
+- [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
+- [We need to talk about funding](https://octoprint.org/blog/2023/10/26/we-need-to-talk-about-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
