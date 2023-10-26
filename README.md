@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars has a surprise layer of molten rock inside](https://www.nature.com/articles/d41586-023-03271-4)
+- [Cold war satellite images reveal hundreds of unknown Roman forts](https://www.theguardian.com/science/2023/oct/26/cold-war-satellite-images-hundreds-unknown-roman-forts)
 - [Apple backs national right-to-repair bill, offering parts, manuals, and tools](https://arstechnica.com/gadgets/2023/10/apple-backs-national-right-to-repair-bill-offering-parts-manuals-and-tools/)
+- [Pulpatronics tackles single-use electronics with paper RFID tags](https://www.dezeen.com/2023/10/25/pulpatronics-paper-rfid-tags/)
 - [Megatsunamis: Waves over 500 meters high and devastation beyond the ocean](https://english.elpais.com/science-tech/2023-10-23/the-secrets-of-megatsunamis-waves-over-500-meters-high-and-devastation-beyond-the-ocean.html)
-- [Reality Labs has lost $11.4B during 2023 &lpar;there&#39;s still one quarter left&rpar;](https://www.gamedeveloper.com/business/reality-labs-has-lost-11-4-billion-during-2023-and-there-s-still-one-quarter-left-)
-- [Static Analysis Tools for C](https://github.com/analysis-tools-dev/static-analysis)
-- [Oxide: The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
