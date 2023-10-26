@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
 - [Running the &quot;Reflections on Trusting Trust&quot; Compiler](https://research.swtch.com/nih)
-- [California Slams San Francisco for &#39;Egregious&#39; Barriers to Housing Construction](https://www.nytimes.com/2023/10/25/us/san-francisco-housing.html)
 - [Chaucer&#39;s works go online](https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html)
 - [Jina AI launches open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
-- [How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
+- [Why every microwave sucks these days](https://moth.monster/blog/microwaves/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
