@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Running the &quot;Reflections on Trusting Trust&quot; Compiler](https://research.swtch.com/nih)
-- [Chaucer&#39;s Works Go Online](https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html)
-- [Jina AI Launches First Open-Source 8K Text Embedding, Rivaling OpenAI](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
+- [California Slams San Francisco for &#39;Egregious&#39; Barriers to Housing Construction](https://www.nytimes.com/2023/10/25/us/san-francisco-housing.html)
+- [Chaucer&#39;s works go online](https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html)
+- [Jina AI launches open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
 - [How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
-- [Introducing the Vercel Integration for SingleStoreDB Cloud](https://www.singlestore.com/blog/vercel-integration-for-singlestoredb-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
