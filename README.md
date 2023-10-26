@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Model X Owner Has Had Enough of Minimalism, Adds Physical Buttons](https://insideevs.com/news/693231/tesla-model-x-owner-has-had-enough-minimalism-adds-physical-buttons/)
+- [Synology MFA Fails if Internet is down](https://community.synology.com/enu/forum/2/post/145666)
+- [Cities Skylines 2 runs with 20fps on an Nvidia RTX4090](https://www.dsogaming.com/pc-performance-analyses/cities-skylines-2-runs-with-20fps-on-an-nvidia-rtx4090-at-4k-high-even-on-an-empty-map/)
+- [OpenAI Preparedness Challenge](https://openai.com/form/preparedness-challenge)
 - [Next.js 14](https://nextjs.org/blog/next-14)
 - [Near-Earth Asteroid Is a Chunk of the Moon](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
-- [EU parliament wants to remove chat control and safeguard secure encryption](https://www.patrick-breyer.de/en/historic-agreement-on-child-sexual-abuse-proposal-csar-european-parliament-wants-to-remove-chat-control-and-safeguard-secure-encryption/)
-- [Hysteria is a powerful, fast and censorship resistant proxy](https://github.com/apernet/hysteria)
 <!-- BLOG-POST-LIST:END -->
 
 ---
