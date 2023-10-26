@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple backs national right-to-repair bill, offering parts, manuals, and tools](https://arstechnica.com/gadgets/2023/10/apple-backs-national-right-to-repair-bill-offering-parts-manuals-and-tools/)
+- [Megatsunamis: Waves over 500 meters high and devastation beyond the ocean](https://english.elpais.com/science-tech/2023-10-23/the-secrets-of-megatsunamis-waves-over-500-meters-high-and-devastation-beyond-the-ocean.html)
+- [Reality Labs has lost $11.4B during 2023 &lpar;there&#39;s still one quarter left&rpar;](https://www.gamedeveloper.com/business/reality-labs-has-lost-11-4-billion-during-2023-and-there-s-still-one-quarter-left-)
+- [Static Analysis Tools for C](https://github.com/analysis-tools-dev/static-analysis)
 - [Oxide: The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
-- [Google&#39;s Plan to Stop Apple from Getting Serious About Search](https://www.nytimes.com/2023/10/26/technology/google-apple-search-spotlight.html)
-- [The First Cyber Nation-State Recognized by a UN Member Nation](https://www.joseon.com/l/en-US/)
-- [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
-- [Addressing Changes to PfSense Plus Home+Lab](https://www.netgate.com/blog/addressing-changes-to-pfsense-plus-homelab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
