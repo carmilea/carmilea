@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google paid $26.3B in 2021 to be the default search engine everywhere](https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion)
 - [Generate images in one second on your Mac using a latent consistency model](https://replicate.com/blog/run-latent-consistency-model-on-mac)
 - [Why America Doesn&#39;t Build](https://www.theatlantic.com/ideas/archive/2023/10/wind-farms-community-opposition/675791/)
 - [Show HN: Biblos – Semantic Bible Embedded Vector Search and Claude LLM](https://github.com/dssjon/biblos)
-- [&#39;Not of faculty quality&#39;: How Penn mistreated Nobel Prize-winning researcher](https://www.thedp.com/article/2023/10/penn-katalin-kariko-university-relationship-mistreatment)
-- [Good LLM Validation Is Just Good Validation](https://jxnl.github.io/instructor/blog/2023/10/23/good-llm-validation-is-just-good-validation/)
+- [&#39;Not of faculty quality&#39;: How Penn mistreated Katalin Karikó](https://www.thedp.com/article/2023/10/penn-katalin-kariko-university-relationship-mistreatment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
