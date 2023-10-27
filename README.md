@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EPA moves towards banning leaded aviation gas](https://www.federalregister.gov/documents/2023/10/20/2023-23247/finding-that-lead-emissions-from-aircraft-engines-that-operate-on-leaded-fuel-cause-or-contribute-to)
-- [US needs much more than the IRA to get to net zero by 2050](https://arstechnica.com/science/2023/10/national-academies-the-ira-is-nice-but-we-need-climate-policy-beyond-2030/)
-- [Automatic fraud detection is making my life hell](https://news.ycombinator.com/item?id=38038713)
-- [Food and Generative AI](https://engineering.hellofresh.com/recipes-and-generative-ai-6d74a107860c?gi=86e12b1a8c6d)
-- [Everything I&#39;ve learned building the fastest Arm desktop](https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop)
+- [18-year-old built a better computer monitor that doesn&#39;t strain your eyes](https://www.fastcompany.com/90971739/this-18-year-old-built-a-better-computer-monitor-that-doesnt-strain-your-eyes)
+- [Show HN: Pākiki Proxy – An intercepting proxy for penetration testing](https://pakikiproxy.com/)
+- [Grammarly&#39;s OAuth Mistakes](https://fusionauth.io/blog/grammarly-proves-ciam-not-optional)
+- [The Xiaomi 14 with the new Snapdragon 8 Gen 3 has a 32 to 64-bit translator](https://twitter.com/MishaalRahman/status/1717916987387469842)
+- [Unprecedented Cryptosporidium Outbreak in UK](https://arstechnica.com/health/2023/10/the-uk-is-bursting-with-diarrheal-disease-cases-3x-higher-than-usual/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
