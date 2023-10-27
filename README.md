@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s 2023, here is why your web design sucks](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/)
 - [Cruise pauses driverless operations across all cities](https://twitter.com/Cruise/status/1717707807460393022)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38033524)
-- [Ceasing Print Publication of ACM Journals and Transactions](https://www.acm.org/publications/ceasing-print)
-- [Interactive Intro to Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
-- [WebSDR – internet connected Software-Defined Radios](http://www.websdr.org/)
+- [Ceasing print publication of ACM journals and transactions](https://www.acm.org/publications/ceasing-print)
+- [Interactive intro to shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
