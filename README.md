@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why you should probably be using SQLite](https://www.epicweb.dev/why-you-should-probably-be-using-sqlite)
 - [0 To 100 kph in 1 second](https://www.youtube.com/watch?v=XQIu5tZ0vbQ)
-- [Upgradable Read Write Lock for Go](https://upstash.com/blog/upgradable-rwlock-for-go)
-- [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
-- [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
-- [How to draw beautiful software architecture diagrams &lpar;2022&rpar;](https://terrastruct.com/blog/post/draw-software-architecture-diagrams/)
+- [Some Pirate Sites Received More Visitors After Being Blocked](https://torrentfreak.com/some-pirate-sites-received-more-visitors-after-being-blocked-231027/)
+- [ECB holds key interest rate at 4%](https://www.ft.com/content/56477a7a-ac0a-454c-b690-1fb5738a7f69)
+- [The Extremist&#39;s Gambit Helps Explain Why Hamas Attacked Now](https://mosaicmagazine.com/response/israel-zionism/2023/10/the-extremists-gambit-helps-explain-why-hamas-attacked-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
