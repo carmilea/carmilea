@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yugoslavia&#39;s Digital Twin: when a country&#39;s internet domain outlives the nation](https://www.thedial.world/issue-9/yugolsav-wars-yu-domain-history-icann)
+- [Yugoslavia&#39;s Digital Twin – When a country&#39;s internet domain outlives the nation](https://www.thedial.world/issue-9/yugolsav-wars-yu-domain-history-icann)
 - [Limewash &lpar;2005&rpar; [pdf]](https://www.lime.org/documents/lime_basics/limewash.pdf)
+- [How to catch a wild triangle](https://securelist.com/operation-triangulation-catching-wild-triangle/110916/)
 - [My Left Kidney](https://www.astralcodexten.com/p/my-left-kidney)
-- [Cruise pauses driverless operations across all cities](https://twitter.com/Cruise/status/1717707807460393022)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38033524)
 <!-- BLOG-POST-LIST:END -->
 
