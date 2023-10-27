@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [18-year-old built a better computer monitor that doesn&#39;t strain your eyes](https://www.fastcompany.com/90971739/this-18-year-old-built-a-better-computer-monitor-that-doesnt-strain-your-eyes)
-- [Show HN: Pākiki Proxy – An intercepting proxy for penetration testing](https://pakikiproxy.com/)
-- [Grammarly&#39;s OAuth Mistakes](https://fusionauth.io/blog/grammarly-proves-ciam-not-optional)
-- [The Xiaomi 14 with the new Snapdragon 8 Gen 3 has a 32 to 64-bit translator](https://twitter.com/MishaalRahman/status/1717916987387469842)
-- [Unprecedented Cryptosporidium Outbreak in UK](https://arstechnica.com/health/2023/10/the-uk-is-bursting-with-diarrheal-disease-cases-3x-higher-than-usual/)
+- [Generate images in one second on your Mac using a latent consistency model](https://replicate.com/blog/run-latent-consistency-model-on-mac)
+- [Why America Doesn&#39;t Build](https://www.theatlantic.com/ideas/archive/2023/10/wind-farms-community-opposition/675791/)
+- [Show HN: Biblos – Semantic Bible Embedded Vector Search and Claude LLM](https://github.com/dssjon/biblos)
+- [&#39;Not of faculty quality&#39;: How Penn mistreated Nobel Prize-winning researcher](https://www.thedp.com/article/2023/10/penn-katalin-kariko-university-relationship-mistreatment)
+- [Good LLM Validation Is Just Good Validation](https://jxnl.github.io/instructor/blog/2023/10/23/good-llm-validation-is-just-good-validation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
