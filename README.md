@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Faces Potential Watch Import Ban After Federal Trade Ruling](https://www.wsj.com/tech/apple-faces-potential-watch-import-ban-after-federal-trade-ruling-09cdfccd)
+- [Microsoft: Require user consent before sending any telemetry](https://github.com/microsoft/vscode/issues/176269)
 - [Yugoslavia&#39;s Digital Twin – When a country&#39;s internet domain outlives the nation](https://www.thedial.world/issue-9/yugolsav-wars-yu-domain-history-icann)
 - [Limewash &lpar;2005&rpar; [pdf]](https://www.lime.org/documents/lime_basics/limewash.pdf)
 - [How to catch a wild triangle](https://securelist.com/operation-triangulation-catching-wild-triangle/110916/)
-- [My Left Kidney](https://www.astralcodexten.com/p/my-left-kidney)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38033524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
