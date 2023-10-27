@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gaza Strip internet cut off following Israeli airstrikes](https://www.theverge.com/2023/10/27/23935229/gaza-israel-internet-outage-connectivity-telecom-blackout)
-- [iPods now considered vintage tech–so of course sold out at Urban Outfitters](https://www.fastcompany.com/90974412/apple-ipods-vintage-tech-urban-outfitters-selling)
-- [Images from the 2023 Nikon Small World Photomicrography Competition](https://www.nikonsmallworld.com/galleries/2023-photomicrography-competition)
-- [Shadow: New browser engine made almost entirely in JavaScript](https://goose.icu/introducing-shadow/)
-- [The convolution empire strikes back](https://gonzoml.substack.com/p/the-convolution-empire-strikes-back)
+- [SDRangel: Explore the electromagnetic spectrum with open source SDR software](https://github.com/f4exb/sdrangel)
+- [&quot;Why Programming Languages Matter&quot; by Andrew Black [video]](https://www.youtube.com/watch?v=JqYCt9rTG8g)
+- [Apple&#39;s Scary Fast event could spell the end of its Lightning port](https://www.techradar.com/computing/macs/apples-scary-fast-event-could-spell-the-end-of-its-lightning-port-and-im-ready-for-it)
+- [Android 14&#39;s user-profile data bug seems indistinguishable from ransomware](https://arstechnica.com/gadgets/2023/10/android-14s-ransomware-data-storage-bug-locks-out-users-remains-unfixed/)
+- [YouTube Begins Blocking Users Who Use Adblock](https://support.google.com/youtube/answer/14129599?hl=en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
