@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
+- [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
 - [Apple Faces Potential Watch Import Ban After Federal Trade Ruling](https://www.wsj.com/tech/apple-faces-potential-watch-import-ban-after-federal-trade-ruling-09cdfccd)
 - [On Bus Arbitration on the Unibus and QBUS &lpar;2017&rpar;](http://www.froghouse.org/~dab/papers/bus-arbitration/bus-arbitration.html)
-- [Microsoft: Require user consent before sending any telemetry](https://github.com/microsoft/vscode/issues/176269)
-- [Yugoslavia&#39;s Digital Twin – When a country&#39;s internet domain outlives the nation](https://www.thedial.world/issue-9/yugolsav-wars-yu-domain-history-icann)
-- [Limewash &lpar;2005&rpar; [pdf]](https://www.lime.org/documents/lime_basics/limewash.pdf)
+- [Generating Well-Typed Terms that are not &quot;Useless&quot; [pdf]](https://lemonidas.github.io/pdf/NotUseless.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
