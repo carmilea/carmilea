@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft disrupts email communication across climate change community](https://newclimate.org/news/microsoft-error-or-external-attack-causing-disruption-to-email-communication-across-the)
-- [Every trick Microsoft pulled to make you browse Edge instead of Chrome](https://www.theverge.com/23935029/microsoft-edge-forced-windows-10-google-chrome-fight)
-- [Generate images in one second on your Mac using a latent consistency model](https://replicate.com/blog/run-latent-consistency-model-on-mac)
-- [Why America Doesn&#39;t Build](https://www.theatlantic.com/ideas/archive/2023/10/wind-farms-community-opposition/675791/)
-- [&#39;Not of faculty quality&#39;: How Penn mistreated Katalin Karikó](https://www.thedp.com/article/2023/10/penn-katalin-kariko-university-relationship-mistreatment)
+- [Gaza Strip internet cut off following Israeli airstrikes](https://www.theverge.com/2023/10/27/23935229/gaza-israel-internet-outage-connectivity-telecom-blackout)
+- [iPods now considered vintage tech–so of course sold out at Urban Outfitters](https://www.fastcompany.com/90974412/apple-ipods-vintage-tech-urban-outfitters-selling)
+- [Images from the 2023 Nikon Small World Photomicrography Competition](https://www.nikonsmallworld.com/galleries/2023-photomicrography-competition)
+- [Shadow: New browser engine made almost entirely in JavaScript](https://goose.icu/introducing-shadow/)
+- [The convolution empire strikes back](https://gonzoml.substack.com/p/the-convolution-empire-strikes-back)
 <!-- BLOG-POST-LIST:END -->
 
 ---
