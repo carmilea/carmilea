@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X Engineering Year Retrospective](https://twitter.com/XEng/status/1717754398410240018)
+- [Large Balloon Reflector: a potentially game-changing antenna design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
 - [SDRangel: Explore the electromagnetic spectrum with open source SDR software](https://github.com/f4exb/sdrangel)
-- [&quot;Why Programming Languages Matter&quot; by Andrew Black [video]](https://www.youtube.com/watch?v=JqYCt9rTG8g)
-- [Apple&#39;s Scary Fast event could spell the end of its Lightning port](https://www.techradar.com/computing/macs/apples-scary-fast-event-could-spell-the-end-of-its-lightning-port-and-im-ready-for-it)
-- [Android 14&#39;s user-profile data bug seems indistinguishable from ransomware](https://arstechnica.com/gadgets/2023/10/android-14s-ransomware-data-storage-bug-locks-out-users-remains-unfixed/)
-- [YouTube Begins Blocking Users Who Use Adblock](https://support.google.com/youtube/answer/14129599?hl=en)
+- [Why Programming Languages Matter [video]](https://www.youtube.com/watch?v=JqYCt9rTG8g)
+- [Visualizing quaternions &lpar;2018&rpar;](https://eater.net/quaternions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
