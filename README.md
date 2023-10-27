@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Signed locally trusted certificates with cert-manager](https://skarlso.github.io/2023/10/25/self-signed-locally-trusted-certificates-with-cert-manager/)
+- [0 To 100 kph in 1 second](https://www.youtube.com/watch?v=XQIu5tZ0vbQ)
 - [Upgradable Read Write Lock for Go](https://upstash.com/blog/upgradable-rwlock-for-go)
 - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 - [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
