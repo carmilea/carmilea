@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google paid $26.3B in 2021 to be the default search engine everywhere](https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion)
+- [Microsoft disrupts email communication across climate change community](https://newclimate.org/news/microsoft-error-or-external-attack-causing-disruption-to-email-communication-across-the)
+- [Every trick Microsoft pulled to make you browse Edge instead of Chrome](https://www.theverge.com/23935029/microsoft-edge-forced-windows-10-google-chrome-fight)
 - [Generate images in one second on your Mac using a latent consistency model](https://replicate.com/blog/run-latent-consistency-model-on-mac)
 - [Why America Doesn&#39;t Build](https://www.theatlantic.com/ideas/archive/2023/10/wind-farms-community-opposition/675791/)
-- [Show HN: Biblos – Semantic Bible Embedded Vector Search and Claude LLM](https://github.com/dssjon/biblos)
 - [&#39;Not of faculty quality&#39;: How Penn mistreated Katalin Karikó](https://www.thedp.com/article/2023/10/penn-katalin-kariko-university-relationship-mistreatment)
 <!-- BLOG-POST-LIST:END -->
 
