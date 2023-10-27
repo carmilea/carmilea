@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s 2023, here is why your web design sucks](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/)
+- [Yugoslavia&#39;s Digital Twin: when a country&#39;s internet domain outlives the nation](https://www.thedial.world/issue-9/yugolsav-wars-yu-domain-history-icann)
+- [Limewash &lpar;2005&rpar; [pdf]](https://www.lime.org/documents/lime_basics/limewash.pdf)
+- [My Left Kidney](https://www.astralcodexten.com/p/my-left-kidney)
 - [Cruise pauses driverless operations across all cities](https://twitter.com/Cruise/status/1717707807460393022)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38033524)
-- [Ceasing print publication of ACM journals and transactions](https://www.acm.org/publications/ceasing-print)
-- [Interactive intro to shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
