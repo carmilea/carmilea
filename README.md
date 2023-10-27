@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38033524)
+- [Ask HN: Uncovered a Network of Scam Websites, How Do I Report Them to Google?](https://news.ycombinator.com/item?id=38033281)
+- [Interactive Intro to Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 - [WebSDR – internet connected Software-Defined Radios](http://www.websdr.org/)
 - [Trying to make sense of why Otis exploded en route to Acapulco this week](https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/)
-- [Python Expertise Level – Self-Assessment](https://safjan.com/python-expertise-level-self-assessment/)
-- [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
-- [We need to talk about funding](https://octoprint.org/blog/2023/10/26/we-need-to-talk-about-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
