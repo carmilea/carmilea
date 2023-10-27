@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads has &quot;just under&quot; 100M monthly active users](https://9to5mac.com/2023/10/25/threads-twitter-monthly-active-users/)
 - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 - [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
+- [How to draw beautiful software architecture diagrams &lpar;2022&rpar;](https://terrastruct.com/blog/post/draw-software-architecture-diagrams/)
 - [Apple Faces Potential Watch Import Ban After Federal Trade Ruling](https://www.wsj.com/tech/apple-faces-potential-watch-import-ban-after-federal-trade-ruling-09cdfccd)
-- [On Bus Arbitration on the Unibus and QBUS &lpar;2017&rpar;](http://www.froghouse.org/~dab/papers/bus-arbitration/bus-arbitration.html)
-- [Generating Well-Typed Terms that are not &quot;Useless&quot; [pdf]](https://lemonidas.github.io/pdf/NotUseless.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
