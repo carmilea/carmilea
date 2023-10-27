@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Bankman-Fried is going to talk himself right into jail](https://www.theverge.com/2023/10/26/23934195/sam-bankman-fried-self-testimony-deleted-signal)
+- [How Soap Works: The Science Behind Handwashing](https://www.pfizer.com/news/articles/how_soap_works_the_science_behind_handwashing)
+- [Copying Is Not Theft [video]](https://www.youtube.com/watch?v=IeTybKL1pM4)
 - [The Slow Death of Authenticity in an Attention Economy](https://www.coryzue.com/writing/authenticity-and-engagement/)
-- [Robotaxis &#39;do not belong in the city of Los Angeles,&#39; lawmaker says](https://techcrunch.com/2023/10/25/robotaxis-do-not-belong-in-the-city-of-los-angeles-lawmaker-says/)
-- [Why Is the Django Admin &quot;Ugly&quot;?](https://www.coderedcorp.com/blog/why-is-the-django-admin-ugly/)
-- [Study shows antibodies against PEG in 83% of the German population](https://www.mpip-mainz.mpg.de/en/press/pr-2022-22)
-- [Why you should probably be using SQLite](https://www.epicweb.dev/why-you-should-probably-be-using-sqlite)
+- [Patching the libwebp vulnerability across the Python ecosystem](https://sethmlarson.dev/security-developer-in-residence-weekly-report-16)
 <!-- BLOG-POST-LIST:END -->
 
 ---
