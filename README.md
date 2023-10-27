@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Threads has &quot;just under&quot; 100M monthly active users](https://9to5mac.com/2023/10/25/threads-twitter-monthly-active-users/)
+- [Self-Signed locally trusted certificates with cert-manager](https://skarlso.github.io/2023/10/25/self-signed-locally-trusted-certificates-with-cert-manager/)
+- [Upgradable Read Write Lock for Go](https://upstash.com/blog/upgradable-rwlock-for-go)
 - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 - [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
 - [How to draw beautiful software architecture diagrams &lpar;2022&rpar;](https://terrastruct.com/blog/post/draw-software-architecture-diagrams/)
-- [Apple Faces Potential Watch Import Ban After Federal Trade Ruling](https://www.wsj.com/tech/apple-faces-potential-watch-import-ban-after-federal-trade-ruling-09cdfccd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
