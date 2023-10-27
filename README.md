@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cruise pauses driverless operations across all cities](https://twitter.com/Cruise/status/1717707807460393022)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38033524)
-- [Ask HN: Uncovered a Network of Scam Websites, How Do I Report Them to Google?](https://news.ycombinator.com/item?id=38033281)
+- [Ceasing Print Publication of ACM Journals and Transactions](https://www.acm.org/publications/ceasing-print)
 - [Interactive Intro to Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 - [WebSDR – internet connected Software-Defined Radios](http://www.websdr.org/)
-- [Trying to make sense of why Otis exploded en route to Acapulco this week](https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
