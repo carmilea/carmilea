@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Slow Death of Authenticity in an Attention Economy](https://www.coryzue.com/writing/authenticity-and-engagement/)
+- [Robotaxis &#39;do not belong in the city of Los Angeles,&#39; lawmaker says](https://techcrunch.com/2023/10/25/robotaxis-do-not-belong-in-the-city-of-los-angeles-lawmaker-says/)
+- [Why Is the Django Admin &quot;Ugly&quot;?](https://www.coderedcorp.com/blog/why-is-the-django-admin-ugly/)
+- [Study shows antibodies against PEG in 83% of the German population](https://www.mpip-mainz.mpg.de/en/press/pr-2022-22)
 - [Why you should probably be using SQLite](https://www.epicweb.dev/why-you-should-probably-be-using-sqlite)
-- [0 To 100 kph in 1 second](https://www.youtube.com/watch?v=XQIu5tZ0vbQ)
-- [Some Pirate Sites Received More Visitors After Being Blocked](https://torrentfreak.com/some-pirate-sites-received-more-visitors-after-being-blocked-231027/)
-- [ECB holds key interest rate at 4%](https://www.ft.com/content/56477a7a-ac0a-454c-b690-1fb5738a7f69)
-- [The Extremist&#39;s Gambit Helps Explain Why Hamas Attacked Now](https://mosaicmagazine.com/response/israel-zionism/2023/10/the-extremists-gambit-helps-explain-why-hamas-attacked-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
