@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev sets up &quot;goatse&quot; trap for sites that steal his free web game](https://arstechnica.com/gaming/2023/10/dev-sets-up-goatse-trap-for-sites-that-steal-his-free-web-game/)
-- [The Cruel Fantasies of Well-Fed People](https://www.monbiot.com/2023/10/04/the-cruel-fantasies-of-well-fed-people/)
-- [Ask HN: Why aren&#39;t Django Admin style dashboards popular in other frameworks?](https://news.ycombinator.com/item?id=38050214)
-- [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
-- [Webb discovers new feature in Jupiter&#39;s atmosphere](https://phys.org/news/2023-10-webb-feature-jupiter-atmosphere.html)
+- [Privacy advocate challenges YouTube&#39;s ad blocking detection scripts under EU law](https://www.theregister.com/2023/10/26/privacy_advocate_challenges_youtube/)
+- [Samsung disables customer phones remotely, holds data hostage [video]](https://www.youtube.com/watch?v=Ln4rsxWq3WM)
+- [Why teachers in South Korea are scared of their pupils, and their parents](https://www.cnn.com/2023/10/27/asia/south-korea-teachers-strike-analysis-intl-hnk/index.html)
+- [The copyright fight over authors and OpenAI&#39;s ChatGPT](https://www.vox.com/future-perfect/2023/10/25/23930683/openai-chatgpt-george-rr-martin-john-grisham-ai-safety-artificial-intelligence-copyright-law-chatbot)
+- [Rydberg Field Measurement System](https://www.rydbergtechnologies.com/products)
 <!-- BLOG-POST-LIST:END -->
 
 ---
