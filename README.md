@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Origins of Woke](https://www.kvetch.au/p/the-origins-of-woke)
+- [Tierra &lpar;Computer Simulation&rpar;](https://en.wikipedia.org/wiki/Tierra_(computer_simulation))
 - [Skio &lpar;YC S20&rpar; is hiring – Subscriptions for Shopify, recharge migrations](https://skio.com/careers/)
+- [Anti-ChatGPT](https://github.com/devxpy/anti-chatgpt)
+- [&#39;The early adopters have adopted&#39;: US carmakers slow their EV growth plans](https://www.ft.com/content/80d79220-612f-4c01-93b7-1d1a846e4b6d)
 - [Elixir and Phoenix can do it all](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
-- [Microsoft&#39;s CFO FIRE journey to retire at 44](https://www.rydoo.com/cfo-corner/rita-picarra-retire-44/)
-- [FCC wants to bolster amateur radio](https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
