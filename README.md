@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google agrees to invest up to $2B in OpenAI rival Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
 - [WinterJS](https://wasmer.io/posts/announcing-winterjs-service-workers)
 - [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38047790)
-- [Cortex X2: ARM aims high](https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/)
-- [New Study Says Maybe Helicopter Parenting Is Making Kids Depressed](https://www.techdirt.com/2023/10/26/new-study-in-the-journal-of-pediatrics-says-maybe-its-not-social-media-but-helicopter-parenting-thats-making-kids-depressed/)
+- [&quot;Is Zero a Number?&quot;: Interviews with a Whole Class of Kindergartners](https://jennalaib.wordpress.com/2023/09/19/is-zero-a-number-interviews-with-a-whole-class-of-kindergartners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
