@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US halts exports of most civilian firearms for 90 days](https://www.reuters.com/world/us/us-halts-exports-most-civilian-firearms-90-days-2023-10-27/)
-- [The UK&#39;s Controversial Online Safety Act Is Now Law](https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law/)
-- [Magnetically Modelling MagSafe](https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/)
-- [Google to invest up to $2B in Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
-- [Kurtosis: A composable build system for reproducible environments](https://www.kurtosis.com/)
+- [Dev sets up &quot;goatse&quot; trap for sites that steal his free web game](https://arstechnica.com/gaming/2023/10/dev-sets-up-goatse-trap-for-sites-that-steal-his-free-web-game/)
+- [The Cruel Fantasies of Well-Fed People](https://www.monbiot.com/2023/10/04/the-cruel-fantasies-of-well-fed-people/)
+- [Ask HN: Why aren&#39;t Django Admin style dashboards popular in other frameworks?](https://news.ycombinator.com/item?id=38050214)
+- [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
+- [Webb discovers new feature in Jupiter&#39;s atmosphere](https://phys.org/news/2023-10-webb-feature-jupiter-atmosphere.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
