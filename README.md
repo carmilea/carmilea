@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New York State Prisons: How to Avoid Rape in Prison – Men&#39;s Orientation [video]](https://www.youtube.com/watch?v=8zYBmsP6fes)
-- [FCC will vote on plan to remove outdated amateur radio technical restrictions](https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio)
-- [Arena Allocation in SBCL](https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt)
-- [Pope tempted by Python. Signs off on coding scheme for kids](https://www.theregister.com/2023/10/28/pope_software_python/)
-- [Charter Houses – Once you get your first $10M](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
+- [The Origins of Woke](https://www.kvetch.au/p/the-origins-of-woke)
+- [Skio &lpar;YC S20&rpar; is hiring – Subscriptions for Shopify, recharge migrations](https://skio.com/careers/)
+- [Elixir and Phoenix can do it all](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
+- [Microsoft&#39;s CFO FIRE journey to retire at 44](https://www.rydoo.com/cfo-corner/rita-picarra-retire-44/)
+- [FCC wants to bolster amateur radio](https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
