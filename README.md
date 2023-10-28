@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BP buys $100M worth of Tesla chargers](https://www.cnn.com/2023/10/26/business/bp-buys-usd100-million-worth-of-tesla-chargers/index.html)
+- [A small warning about UDP based protocols](https://boston.conman.org/2023/10/25.1)
+- [Wise is deactivating Business cards in the US on Oct. 31st](https://wise.com/help/articles/1Rygn0gaetjmjGcOvyjRZm/were-temporarily-deactivating-wise-business-cards-in-the-us)
 - [Yup, that was an earthquake outside SF](https://earthquake.usgs.gov/earthquakes/eventpage/nc73952475/executive)
 - [When Gradient Descent Is a Kernel Method](https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html)
-- [Kotlin Coroutines vs. Threads Performance Benchmark](https://www.techyourchance.com/kotlin-coroutines-vs-threads-performance-benchmark/)
-- [Bacteria enhances host insect&#39;s fertility with implications for disease control](https://news.ucsc.edu/2023/10/russell-plos-23.html)
-- [Google can turn ANC earbuds into a heart rate monitor with no extra hardware](https://9to5google.com/2023/10/27/google-anc-earbuds-heart-rate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
