@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy advocate challenges YouTube&#39;s ad blocking detection scripts under EU law](https://www.theregister.com/2023/10/26/privacy_advocate_challenges_youtube/)
-- [Samsung disables customer phones remotely, holds data hostage [video]](https://www.youtube.com/watch?v=Ln4rsxWq3WM)
-- [Why teachers in South Korea are scared of their pupils, and their parents](https://www.cnn.com/2023/10/27/asia/south-korea-teachers-strike-analysis-intl-hnk/index.html)
-- [The copyright fight over authors and OpenAI&#39;s ChatGPT](https://www.vox.com/future-perfect/2023/10/25/23930683/openai-chatgpt-george-rr-martin-john-grisham-ai-safety-artificial-intelligence-copyright-law-chatbot)
-- [Rydberg Field Measurement System](https://www.rydbergtechnologies.com/products)
+- [WireHole is a combination of WireGuard, Pi-hole, and Unbound](https://github.com/IAmStoxe/wirehole)
+- [XRDP with H.264 codec brings immense performance boost](https://old.reddit.com/r/linux/comments/17het7f/xrdp_with_h264_codec_brings_immense_performance/)
+- [Craig Murray seeks UN protection in Switzerland against British persecution](https://www.wsws.org/en/articles/2023/10/27/taez-o27.html)
+- [Quindar Tones](https://en.wikipedia.org/wiki/Quindar_tones)
+- [Killing Windows 10 in 2025 could turn PCs into eWaste](https://liliputing.com/lilbits-killing-windows-10-in-2025-could-turn-millions-of-pcs-into-ewaste-or-at-least-compromise-their-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
