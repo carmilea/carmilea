@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [McDonalds is giving free French fries in return for waiving the right to sue](https://www.mashed.com/1432093/mcdonalds-new-app-terms-conditions-reactions/)
-- [PHP 8.1.25](https://www.php.net/archive/2023.php)
-- [Fixing the Volume on My Bluetooth Earbuds](https://blog.ornx.net/post/bluetooth-volume-fix/)
-- [ESP32 Wemos D1 Mini – Sprinkler Controller Open Source](https://github.com/fellowgeek/esp32-relay-board)
-- [Sulfur Selenium Solid-State Battery from NASA Breaks Energy Storage Boundaries](https://cleantechnica.com/2023/07/14/sulfur-selenium-solid-state-battery-from-nasa-breaks-energy-storage-boundaries/)
+- [New York State Prisons: How to Avoid Rape in Prison – Men&#39;s Orientation [video]](https://www.youtube.com/watch?v=8zYBmsP6fes)
+- [FCC will vote on plan to remove outdated amateur radio technical restrictions](https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio)
+- [Arena Allocation in SBCL](https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt)
+- [Pope tempted by Python. Signs off on coding scheme for kids](https://www.theregister.com/2023/10/28/pope_software_python/)
+- [Charter Houses – Once you get your first $10M](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
