@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists Simulate Backward Time Travel Using Quantum Entanglement](https://thedebrief.org/scientists-successfully-simulate-backward-time-travel-with-a-25-chance-of-actually-changing-the-past/)
-- [King Charles III signs off on Online Safety Act with unenforceable spying clause](https://www.theregister.com/2023/10/27/online_safety_act_charles/)
+- [Google can turn ANC earbuds into a heart rate monitor with no extra hardware](https://9to5google.com/2023/10/27/google-anc-earbuds-heart-rate/)
+- [Scientists simulate backward time travel using quantum entanglement](https://thedebrief.org/scientists-successfully-simulate-backward-time-travel-with-a-25-chance-of-actually-changing-the-past/)
+- [Project Bluefin Linux](https://projectbluefin.io/)
 - [Can the language of proof assistants be used for general purpose programming?](https://proofassistants.stackexchange.com/questions/1093/can-the-language-of-proof-assistants-be-used-for-general-purpose-programming)
 - [Large Balloon Reflector: a potentially game-changing antenna design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
-- [SDRangel: Explore the electromagnetic spectrum with open source SDR software](https://github.com/f4exb/sdrangel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
