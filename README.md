@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Study Says Maybe Helicopter Parenting Is Making Kids Depressed](https://www.techdirt.com/2023/10/26/new-study-in-the-journal-of-pediatrics-says-maybe-its-not-social-media-but-helicopter-parenting-thats-making-kids-depressed/)
 - [A small warning about UDP based protocols](https://boston.conman.org/2023/10/25.1)
-- [When gradient descent is a kernel method](https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html)
-- [Kotlin Coroutines vs. Threads Performance Benchmark](https://www.techyourchance.com/kotlin-coroutines-vs-threads-performance-benchmark/)
-- [Bacteria enhances host insect&#39;s fertility with implications for disease control](https://news.ucsc.edu/2023/10/russell-plos-23.html)
-- [Google can turn ANC earbuds into a heart rate monitor with no extra hardware](https://9to5google.com/2023/10/27/google-anc-earbuds-heart-rate/)
+- [15 Years of Android Memories](https://blog.google/products/android/android-15th-anniversary-googler-highlights/)
+- [Staring at a Wall: Embracing Deliberate Boredom](https://www.ch3ngl0rd.com/staring-at-a-wall/)
+- [Wise is deactivating Business cards in the US on Oct. 31st](https://wise.com/help/articles/1Rygn0gaetjmjGcOvyjRZm/were-temporarily-deactivating-wise-business-cards-in-the-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
