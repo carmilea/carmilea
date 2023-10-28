@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ESP32 Wemos D1 Mini – Sprinkler Controller Open Source](https://github.com/fellowgeek/esp32-relay-board)
+- [Sulfur Selenium Solid-State Battery from NASA Breaks Energy Storage Boundaries](https://cleantechnica.com/2023/07/14/sulfur-selenium-solid-state-battery-from-nasa-breaks-energy-storage-boundaries/)
 - [WireHole is a combination of WireGuard, Pi-hole, and Unbound](https://github.com/IAmStoxe/wirehole)
 - [XRDP with H.264 codec brings immense performance boost](https://old.reddit.com/r/linux/comments/17het7f/xrdp_with_h264_codec_brings_immense_performance/)
 - [Craig Murray seeks UN protection in Switzerland against British persecution](https://www.wsws.org/en/articles/2023/10/27/taez-o27.html)
-- [Quindar Tones](https://en.wikipedia.org/wiki/Quindar_tones)
-- [Killing Windows 10 in 2025 could turn PCs into eWaste](https://liliputing.com/lilbits-killing-windows-10-in-2025-could-turn-millions-of-pcs-into-ewaste-or-at-least-compromise-their-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
