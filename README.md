@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WinterJS](https://wasmer.io/posts/announcing-winterjs-service-workers)
+- [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38047790)
 - [Cortex X2: ARM aims high](https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/)
 - [New Study Says Maybe Helicopter Parenting Is Making Kids Depressed](https://www.techdirt.com/2023/10/26/new-study-in-the-journal-of-pediatrics-says-maybe-its-not-social-media-but-helicopter-parenting-thats-making-kids-depressed/)
-- [A small warning about UDP based protocols](https://boston.conman.org/2023/10/25.1)
-- [15 Years of Android Memories](https://blog.google/products/android/android-15th-anniversary-googler-highlights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
