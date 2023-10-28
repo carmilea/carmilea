@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The UK&#39;s Controversial Online Safety Act Is Now Law](https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law/)
 - [Magnetically Modelling MagSafe](https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/)
 - [Google agrees to invest up to $2B in OpenAI rival Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
 - [WinterJS](https://wasmer.io/posts/announcing-winterjs-service-workers)
 - [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38047790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
