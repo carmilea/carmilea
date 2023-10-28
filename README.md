@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tierra &lpar;Computer Simulation&rpar;](https://en.wikipedia.org/wiki/Tierra_(computer_simulation))
+- [Arduino Builds a Bridge to the Raspberry Pi Ecosystem with Its New Portenta H](https://www.hackster.io/news/arduino-builds-a-bridge-to-the-raspberry-pi-ecosystem-with-its-new-portenta-hat-carrier-board-c992bd7928cd)
+- [Ask HN: Are there valid Google Search alternatives?](https://news.ycombinator.com/item?id=38053711)
+- [Electroreduction of nitrogen with almost 100% current-to-ammonia efficiency](https://www.nature.com/articles/s41586-022-05108-y)
 - [Skio &lpar;YC S20&rpar; is hiring – Subscriptions for Shopify, recharge migrations](https://skio.com/careers/)
-- [Anti-ChatGPT](https://github.com/devxpy/anti-chatgpt)
-- [&#39;The early adopters have adopted&#39;: US carmakers slow their EV growth plans](https://www.ft.com/content/80d79220-612f-4c01-93b7-1d1a846e4b6d)
-- [Elixir and Phoenix can do it all](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
+- [Shoes maketh man](https://www.wits.ac.za/news/latest-news/research-news/2023/2023-10/shoes-maketh-man.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
