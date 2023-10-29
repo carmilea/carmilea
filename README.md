@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Laid-off masses have a message for Zuckerberg, Benioff: We&#39;ll never come back](https://fortune.com/2023/10/21/meta-salesforce-layoffs-boomerang-employees/)
+- [Linux 6.7 Reworks PE Header Generation to Reduce Attack Area](https://www.phoronix.com/news/Linux-6.7-x86-boot)
 - [Apple&#39;s Blue Ocean](https://hypercritical.co/2023/10/29/apples-blue-ocean)
-- [How many billions of transistors in your iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
-- [Carl Sagan&#39;s Rules for Bullshit-Busting and Critical Thinking](https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan/)
+- [How many billions of transistors in an iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
 - [Genode – Genode on seL4 – IPC and virtual memory](https://genode.org/documentation/articles/sel4_part_2)
+- [Sieve &lpar;YC W22&rpar;, the video/audio AI cloud, is hiring AI engineers](https://sievedata.com/about/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
