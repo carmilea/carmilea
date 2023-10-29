@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alan Wake 2 Is an Unexpected Visual Marvel Even on Older GPUs](https://www.xfire.com/alan-wake-2-performing-well-low-end-pcs/)
+- [DIY IP-KVM Based on Raspberry Pi](https://github.com/pikvm/pikvm)
 - [Linux 6.7 Reworks PE Header Generation to Reduce Attack Area](https://www.phoronix.com/news/Linux-6.7-x86-boot)
-- [Apple&#39;s Blue Ocean](https://hypercritical.co/2023/10/29/apples-blue-ocean)
-- [How many billions of transistors in an iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
-- [Genode – Genode on seL4 – IPC and virtual memory](https://genode.org/documentation/articles/sel4_part_2)
-- [Sieve &lpar;YC W22&rpar;, the video/audio AI cloud, is hiring AI engineers](https://sievedata.com/about/jobs)
+- [We migrated our back end from Vercel to Fly.io and the challenges we faced](https://www.openstatus.dev/blog/migration-backend-from-vercel-to-fly)
+- [Kubernetes releases ingress2gateway tool for upcoming GA of Gateway API](https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
