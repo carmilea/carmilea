@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Arduino Builds a Bridge to the Raspberry Pi Ecosystem with Its New Portenta H](https://www.hackster.io/news/arduino-builds-a-bridge-to-the-raspberry-pi-ecosystem-with-its-new-portenta-hat-carrier-board-c992bd7928cd)
-- [Ask HN: Are there valid Google Search alternatives?](https://news.ycombinator.com/item?id=38053711)
-- [Electroreduction of nitrogen with almost 100% current-to-ammonia efficiency](https://www.nature.com/articles/s41586-022-05108-y)
-- [Skio &lpar;YC S20&rpar; is hiring – Subscriptions for Shopify, recharge migrations](https://skio.com/careers/)
-- [Shoes maketh man](https://www.wits.ac.za/news/latest-news/research-news/2023/2023-10/shoes-maketh-man.html)
+- [Friend&#39;s Chandler, Matthew Perry, died at 54](https://www.latimes.com/california/story/2023-10-28/freinds-star-matthew-perry-dead-at-56)
+- [LAPD YouTube Channel Suspended for Posting Violent Content](https://ktla.com/news/local-news/lapd-youtube-channel-suspended-for-posting-violent-content/)
+- [Panopticon](https://en.wikipedia.org/wiki/Panopticon)
+- [How to fix the disastrous new Xcode 15 console](https://lapcatsoftware.com/articles/2023/10/5.html)
+- [Star64 JH7110 RISC-V SBC: Experiments with OpenSBI &lpar;Supervisor Binary Interface&rpar;](https://lupyuen.codeberg.page/articles/sbi.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
