@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Indians Are Entering the U.S. Illegally in Record Numbers](https://www.wsj.com/world/india/indians-are-entering-the-u-s-illegally-in-record-numbers-2cf19e38)
+- [Redbean – Single-file distributable web server &lpar;with embedded Lua and SQLite&rpar;](https://justine.lol/redbean/index.html)
+- [All GB/S Without Flops – Nvidia CMP 170HX Review](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
+- [Why has America settled on colonoscopies when most of the world has not?](https://asteriskmag.com/issues/04/you-re-invited-to-a-colonoscopy?ref=thebrowser.com)
 - [Rewrites Are Waterfall](https://shermanonsoftware.com/2023/10/28/rewrites-are-waterfall/)
-- [What the KIM-1 needs is an LCD screen](http://oldvcr.blogspot.com/2023/10/what-kim-1-really-needs-is-lcd-screen.html)
-- [A literate Org doc on building Emacs from source](https://gitlab.com/spudlyo/orgdemo2)
-- [Star64 JH7110 RISC-V SBC: Experiments with OpenSBI &lpar;Supervisor Binary Interface&rpar;](https://lupyuen.codeberg.page/articles/sbi.html)
-- [Actual is going open-source &lpar;2022&rpar;](https://actualbudget.com/open-source)
 <!-- BLOG-POST-LIST:END -->
 
 ---
