@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Indians Are Entering the U.S. Illegally in Record Numbers](https://www.wsj.com/world/india/indians-are-entering-the-u-s-illegally-in-record-numbers-2cf19e38)
-- [Redbean – Single-file distributable web server &lpar;with embedded Lua and SQLite&rpar;](https://justine.lol/redbean/index.html)
+- [&#39;It&#39;s quite soul-destroying&#39;: how we fell out of love with dating apps](https://www.theguardian.com/lifeandstyle/2023/oct/28/its-quite-soul-destroying-how-we-fell-out-of-love-with-dating-apps)
+- [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
+- [PostgreSQL: Effective_io_concurrency Benchmarked](https://portavita.github.io/2019-07-19-PostgreSQL_effective_io_concurrency_benchmarked/)
+- [The Windows installer of ImageMagick will no longer be signed](https://github.com/ImageMagick/ImageMagick/discussions/6826)
 - [All GB/S Without Flops – Nvidia CMP 170HX Review](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
-- [Why has America settled on colonoscopies when most of the world has not?](https://asteriskmag.com/issues/04/you-re-invited-to-a-colonoscopy?ref=thebrowser.com)
-- [Rewrites Are Waterfall](https://shermanonsoftware.com/2023/10/28/rewrites-are-waterfall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
