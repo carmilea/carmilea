@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Great Question &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
+- [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
+- [Show HN: YCombinato – A domain-hacked &quot;Hacker News&quot; client](https://news.ycombinato.com/)
+- [Linux running on RISC-V emulated in Scratch](https://blog.adafruit.com/2023/10/25/wild-linux-running-on-risc-v-emulated-in-scratch-riscv-linux-scratch/)
 - [Nobody Understands C++: Intro &lpar;2007&rpar;](https://articles.emptycrate.com/2007/07/19/nobody_understands_c_intro.html)
-- [&quot;Advanced Tracking and Fingerprinting Protection&quot; Leaks DNS Queries to Apple](https://community.cloudflare.com/t/advanced-tracking-and-fingerprinting-protection-leaks-dns-queries-to-apple-dns-server/559364/6)
-- [Ken Burns chronicles the sad fate of the American buffalo](https://www.economist.com/culture/2023/10/25/ken-burns-chronicles-the-sad-fate-of-the-american-buffalo)
-- [AI can catalogue a forest&#39;s inhabitants simply by listening](https://www.economist.com/science-and-technology/2023/10/25/ai-can-catalogue-a-forests-inhabitants-simply-by-listening)
-- [Work only 3 hours a day, but everyday &lpar;2016&rpar;](http://plumshell.com/2016/03/10/work-for-only-3-hours-a-day-but-everyday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
