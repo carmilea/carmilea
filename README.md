@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Android 14 review: There&#39;s always next year](https://arstechnica.com/gadgets/2023/10/android-14-review-theres-always-next-year/)
+- [When Police Raid a Newspaper for No Reason](https://www.youtube.com/watch?v=-CX1aJRUzPY)
+- [Where the heck did all those structures inside complex cells come from?](https://arstechnica.com/science/2023/10/where-the-heck-did-all-those-structures-inside-complex-cells-come-from/)
 - [Great Question &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
 - [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
-- [Show HN: YCombinato – A domain-hacked &quot;Hacker News&quot; client](https://news.ycombinato.com/)
-- [Sweden &lpar;Not Switzerland&rpar;](https://visitsweden.com/sweden-not-switzerland/)
-- [Linux running on RISC-V emulated in Scratch](https://blog.adafruit.com/2023/10/25/wild-linux-running-on-risc-v-emulated-in-scratch-riscv-linux-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
