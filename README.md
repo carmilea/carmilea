@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sieve &lpar;YC W22&rpar;, the video/audio AI cloud, is hiring AI engineers](https://sievedata.com/about/jobs)
 - [Apple Watch violates patents held by Orange Co. tech company, ITC finds](https://www.latimes.com/business/technology/story/2023-10-27/apple-watches-violate-patents-held-by-orange-county-tech-company-us-international-trade-commission-finds)
 - [A Visit to the Physical Internet Archive](https://thenewstack.io/a-visit-to-the-physical-internet-archive/)
 - [Rare 2,100-year-old gold coin bears name of obscure ruler from pre-Roman Britain](https://www.livescience.com/archaeology/romans/rare-2100-year-old-gold-coin-bears-name-of-obscure-ruler-from-pre-roman-britain)
 - [Show HN: Kimchi Reader – Immersive Korean Learning with a Popup Dictionary](https://kimchi-reader.app)
-- [&lpar;Learn &#39;Scheme&rpar;](http://jaredkrinke.github.io/learn-scheme/toc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
