@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
-- [Research Unix Sixth Edition &lpar;WASM&rpar;](https://research.swtch.com/v6/)
-- [Supabase &lpar;YC S20&rpar; Is Hiring a Technical Product Marketer &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5005843004)
-- [Why are you so slow?](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
-- [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/)
+- [Emptycrate.com: Nobody Understands C++: Intro](https://articles.emptycrate.com/2007/07/19/nobody_understands_c_intro.html)
+- [&quot;Advanced Tracking and Fingerprinting Protection&quot; Leaks DNS Queries to Apple](https://community.cloudflare.com/t/advanced-tracking-and-fingerprinting-protection-leaks-dns-queries-to-apple-dns-server/559364/6)
+- [Putting ads in hardware through HDMI](https://patents.google.com/patent/US11785300B2/en)
+- [Ken Burns chronicles the sad fate of the American buffalo](https://www.economist.com/culture/2023/10/25/ken-burns-chronicles-the-sad-fate-of-the-american-buffalo)
+- [AI can catalogue a forest&#39;s inhabitants simply by listening](https://www.economist.com/science-and-technology/2023/10/25/ai-can-catalogue-a-forests-inhabitants-simply-by-listening)
 <!-- BLOG-POST-LIST:END -->
 
 ---
