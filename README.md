@@ -59,8 +59,8 @@
 - [Great Question &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
 - [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
 - [Show HN: YCombinato – A domain-hacked &quot;Hacker News&quot; client](https://news.ycombinato.com/)
+- [Sweden &lpar;Not Switzerland&rpar;](https://visitsweden.com/sweden-not-switzerland/)
 - [Linux running on RISC-V emulated in Scratch](https://blog.adafruit.com/2023/10/25/wild-linux-running-on-risc-v-emulated-in-scratch-riscv-linux-scratch/)
-- [Nobody Understands C++: Intro &lpar;2007&rpar;](https://articles.emptycrate.com/2007/07/19/nobody_understands_c_intro.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
