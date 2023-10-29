@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: If you were to build a web app today what tech stack would you choose?](https://news.ycombinator.com/item?id=38059036)
-- [Ask HN: Is Express still &quot;de-facto&quot; for building Node back ends?](https://news.ycombinator.com/item?id=38059004)
+- [Apple Watch violates patents held by Orange Co. tech company, ITC finds](https://www.latimes.com/business/technology/story/2023-10-27/apple-watches-violate-patents-held-by-orange-county-tech-company-us-international-trade-commission-finds)
+- [A Visit to the Physical Internet Archive](https://thenewstack.io/a-visit-to-the-physical-internet-archive/)
+- [Rare 2,100-year-old gold coin bears name of obscure ruler from pre-Roman Britain](https://www.livescience.com/archaeology/romans/rare-2100-year-old-gold-coin-bears-name-of-obscure-ruler-from-pre-roman-britain)
+- [Show HN: Kimchi Reader – Immersive Korean Learning with a Popup Dictionary](https://kimchi-reader.app)
 - [&lpar;Learn &#39;Scheme&rpar;](http://jaredkrinke.github.io/learn-scheme/toc.html)
-- [Which Writers Will We Remember?](https://biblioracle.substack.com/p/which-writers-will-we-remember)
-- [Mars Lost Its Magnetic Field – and Then Its Oceans](https://daily.jstor.org/how-mars-lost-its-magnetic-field-and-then-its-oceans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
