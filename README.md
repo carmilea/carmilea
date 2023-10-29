@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Friend&#39;s Chandler, Matthew Perry, died at 54](https://www.latimes.com/california/story/2023-10-28/freinds-star-matthew-perry-dead-at-56)
-- [LAPD YouTube Channel Suspended for Posting Violent Content](https://ktla.com/news/local-news/lapd-youtube-channel-suspended-for-posting-violent-content/)
+- [What the KIM-1 needs is an LCD screen](http://oldvcr.blogspot.com/2023/10/what-kim-1-really-needs-is-lcd-screen.html)
+- [Show HN: Codebuy.org – A Digital Assets Marketplace](https://codebuy.org/)
 - [Star64 JH7110 RISC-V SBC: Experiments with OpenSBI &lpar;Supervisor Binary Interface&rpar;](https://lupyuen.codeberg.page/articles/sbi.html)
 - [Arduino Builds a Bridge to the Raspberry Pi Ecosystem with Its New Portenta H](https://www.hackster.io/news/arduino-builds-a-bridge-to-the-raspberry-pi-ecosystem-with-its-new-portenta-hat-carrier-board-c992bd7928cd)
 - [Actual is going open-source &lpar;2022&rpar;](https://actualbudget.com/open-source)
