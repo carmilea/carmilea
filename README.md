@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase &lpar;YC S20&rpar; Is Hiring a Technical Product Marketer &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5005843004)
+- [Why are you so slow?](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
+- [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/)
 - [&#39;It&#39;s quite soul-destroying&#39;: how we fell out of love with dating apps](https://www.theguardian.com/lifeandstyle/2023/oct/28/its-quite-soul-destroying-how-we-fell-out-of-love-with-dating-apps)
 - [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
-- [PostgreSQL: Effective_io_concurrency Benchmarked](https://portavita.github.io/2019-07-19-PostgreSQL_effective_io_concurrency_benchmarked/)
-- [The Windows installer of ImageMagick will no longer be signed](https://github.com/ImageMagick/ImageMagick/discussions/6826)
-- [All GB/S Without Flops – Nvidia CMP 170HX Review](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
