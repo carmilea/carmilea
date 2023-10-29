@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Android 14 review: There&#39;s always next year](https://arstechnica.com/gadgets/2023/10/android-14-review-theres-always-next-year/)
-- [When Police Raid a Newspaper for No Reason](https://www.youtube.com/watch?v=-CX1aJRUzPY)
-- [Where the heck did all those structures inside complex cells come from?](https://arstechnica.com/science/2023/10/where-the-heck-did-all-those-structures-inside-complex-cells-come-from/)
-- [Great Question &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
-- [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
+- [Ask HN: If you were to build a web app today what tech stack would you choose?](https://news.ycombinator.com/item?id=38059036)
+- [Ask HN: Is Express still &quot;de-facto&quot; for building Node back ends?](https://news.ycombinator.com/item?id=38059004)
+- [&lpar;Learn &#39;Scheme&rpar;](http://jaredkrinke.github.io/learn-scheme/toc.html)
+- [Which Writers Will We Remember?](https://biblioracle.substack.com/p/which-writers-will-we-remember)
+- [Mars Lost Its Magnetic Field – and Then Its Oceans](https://daily.jstor.org/how-mars-lost-its-magnetic-field-and-then-its-oceans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
