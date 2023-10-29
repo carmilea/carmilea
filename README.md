@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rewrites Are Waterfall](https://shermanonsoftware.com/2023/10/28/rewrites-are-waterfall/)
 - [What the KIM-1 needs is an LCD screen](http://oldvcr.blogspot.com/2023/10/what-kim-1-really-needs-is-lcd-screen.html)
-- [Show HN: Codebuy.org – A Digital Assets Marketplace](https://codebuy.org/)
+- [A literate Org doc on building Emacs from source](https://gitlab.com/spudlyo/orgdemo2)
 - [Star64 JH7110 RISC-V SBC: Experiments with OpenSBI &lpar;Supervisor Binary Interface&rpar;](https://lupyuen.codeberg.page/articles/sbi.html)
-- [Arduino Builds a Bridge to the Raspberry Pi Ecosystem with Its New Portenta H](https://www.hackster.io/news/arduino-builds-a-bridge-to-the-raspberry-pi-ecosystem-with-its-new-portenta-hat-carrier-board-c992bd7928cd)
 - [Actual is going open-source &lpar;2022&rpar;](https://actualbudget.com/open-source)
 <!-- BLOG-POST-LIST:END -->
 
