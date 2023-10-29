@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Compiler Is Just Ignoring All My Comments](https://twitter.com/ESYudkowsky/status/1718654143110512741)
+- [YouTube&#39;s Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 - [How many billions of transistors in your iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
+- [Carl Sagan&#39;s Rules for Bullshit-Busting and Critical Thinking](https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan/)
 - [Sieve &lpar;YC W22&rpar;, the video/audio AI cloud, is hiring AI engineers](https://sievedata.com/about/jobs)
-- [Linear Algebra Done Right – 4th Edition](https://linear.axler.net)
-- [A Visit to the Physical Internet Archive](https://thenewstack.io/a-visit-to-the-physical-internet-archive/)
-- [Rare 2,100-year-old gold coin bears name of obscure ruler from pre-Roman Britain](https://www.livescience.com/archaeology/romans/rare-2100-year-old-gold-coin-bears-name-of-obscure-ruler-from-pre-roman-britain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
