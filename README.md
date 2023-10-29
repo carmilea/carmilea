@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Compiler Is Just Ignoring All My Comments](https://twitter.com/ESYudkowsky/status/1718654143110512741)
+- [12ft.io has been banned by Vercel](https://twitter.com/thmsmlr/status/1718663563353755982)
 - [YouTube&#39;s Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 - [How many billions of transistors in your iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
 - [Carl Sagan&#39;s Rules for Bullshit-Busting and Critical Thinking](https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan/)
