@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [12ft.io has been banned by Vercel](https://twitter.com/thmsmlr/status/1718663563353755982)
-- [YouTube&#39;s Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
+- [Laid-off masses have a message for Zuckerberg, Benioff: We&#39;ll never come back](https://fortune.com/2023/10/21/meta-salesforce-layoffs-boomerang-employees/)
+- [Apple&#39;s Blue Ocean](https://hypercritical.co/2023/10/29/apples-blue-ocean)
 - [How many billions of transistors in your iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
 - [Carl Sagan&#39;s Rules for Bullshit-Busting and Critical Thinking](https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan/)
-- [Sieve &lpar;YC W22&rpar;, the video/audio AI cloud, is hiring AI engineers](https://sievedata.com/about/jobs)
+- [Genode – Genode on seL4 – IPC and virtual memory](https://genode.org/documentation/articles/sel4_part_2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
