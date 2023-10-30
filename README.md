@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Camptown – HTML-based audio player](https://github.com/fluffy-critter/camptown)
-- [People with autism less likely to succumb to bystander effect, research finds](https://www.sciencedaily.com/releases/2023/10/231026131628.htm)
 - [Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/)
 - [The History of Microsoft Encarta](https://www.abortretry.fail/p/the-history-of-microsoft-encarta)
 - [SiFive: The road ahead &lpar;post layoffs&rpar;](https://www.sifive.com/blog/the-road-ahead--)
+- [Internal slides on the work of the Google &quot;Ads Quality&quot; team](https://twitter.com/jason_kint/status/1718830641016414657)
+- [New Apple patents have Steve Jobs credited as an inventor](https://www.greyb.com/blog/new-steve-jobs-patents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
