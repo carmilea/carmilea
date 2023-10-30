@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Python⇒Speed: Speeding Up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
+- [Private Equity Is Devouring the U.S. Economy](https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/)
 - [Raspberry Pi 5 has no hardware video encoding and only HEVC decoding](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#comment-1594055)
 - [Bakhshali Manuscript](https://en.wikipedia.org/wiki/Bakhshali_manuscript)
-- [The future of warfare: A $400 drone killing a $2M tank](https://www.politico.eu/article/future-warfare-400-army-strike-drone-unit-2m-tank/)
-- [Linux Man Pages in the &quot;Miscellaneous Information&quot; Section](https://www.man7.org/linux/man-pages/man7/)
-- [The History of Microsoft Encarta](https://www.abortretry.fail/p/the-history-of-microsoft-encarta)
+- [Microsoft says GPT 3.5 has 20B parameters?](https://arxiv.org/abs/2310.17680)
 <!-- BLOG-POST-LIST:END -->
 
 ---
