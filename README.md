@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bcachefs Pull Request Submitted for Linux 6.7](https://www.phoronix.com/news/Bcachefs-Tries-For-Linux-6.7)
+- [History Says 1918 Flu Killed the Young and Healthy. These Bones Say Otherwise](https://www.wired.com/story/history-says-the-1918-flu-killed-the-young-and-healthy-these-bones-say-otherwise/)
+- [Meta to Charge for Ad-Free Versions of Facebook and Instagram in Europe](https://www.nytimes.com/2023/10/30/technology/facebook-meta-subscription-europe.html)
 - [Razor 1911](https://en.wikipedia.org/wiki/Razor_1911)
-- [Tesla union strike fails in Sweden as workers refused to walk out](https://www.teslarati.com/tesla-union-strike-fails-sweden-workers-refuse-walkout/)
-- [New York Times Tech Workers to Strike This Afternoon](https://www.bloomberg.com/news/articles/2023-10-30/new-york-times-tech-union-to-strike-over-office-return-contract-delays)
-- [Replacing WebRTC: real-time latency with WebTransport and WebCodecs](https://quic.video/blog/replacing-webrtc/)
-- [The costs of microservices &lpar;2020&rpar;](https://robertovitillo.com/costs-of-microservices/)
+- [Snapdragon X Elite benchmarks: Impressive gains over M2 and desktop CPUs](https://www.notebookcheck.net/First-Snapdragon-X-Elite-benchmarks-Impressive-gains-over-M2-Max-Ryzen-9-7940HS-Intel-13th-gen-H-and-14th-gen-desktop-CPUs.763149.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
