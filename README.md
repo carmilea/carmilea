@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Azure CTO Headhunted for SDE II Position at Amazon](https://old.reddit.com/r/recruitinghell/comments/qr3ct1/aws_recruiter_hits_up_microsoft_azure_cto_about_a/)
-- [What&#39;s missing with American CEOs?](https://albertcory50.substack.com/p/whats-missing-with-american-ceos)
+- [GitHub Builds GitHub with GitHub [video]](https://www.youtube.com/watch?v=PMSoHPuD8G8)
+- [Apple is still getting patents under Steven Jobs name](https://www.greyb.com/blog/new-steve-jobs-patents/)
+- [The death of a public intellectual](https://thmsmlr.com/public-intellectuals)
 - [How to Move Your Google Photos](https://www.auckland.ac.nz/en/students/my-tools/googlechanges/Move-your-google-photos.html)
 - [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
-- [Spy satellites reveal undiscovered Roman forts](https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
