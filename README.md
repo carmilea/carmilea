@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
+- [Ask HN: Cloudflare Workers Are Down?](https://news.ycombinator.com/item?id=38074906)
+- [Use YouTube to improve your English pronunciation](https://youglish.com/)
 - [Real-Time Latent Consistency Model](https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model)
 - [Kart: DVC for geospatial and tabular data. Git for GIS](https://kartproject.org/)
-- [Child labor in chocolate industry: &#39;It is worse than you may realize&#39;](https://www.theguardian.com/tv-and-radio/2023/oct/30/john-oliver-last-week-tonight-chocolate-industry-child-labor)
-- [Flexport is hiring sales people](https://flexport.com/careers)
-- [Show HN: Launch a private Ethereum Testnet with all clients and MEV infra](https://github.com/kurtosis-tech/ethereum-package)
 <!-- BLOG-POST-LIST:END -->
 
 ---
