@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft Azure CTO Headhunted for SDE II Position at Amazon](https://old.reddit.com/r/recruitinghell/comments/qr3ct1/aws_recruiter_hits_up_microsoft_azure_cto_about_a/)
-- [What&#39;s Missing with American CEO&#39;s? Skin in the Game](https://albertcory50.substack.com/p/whats-missing-with-american-ceos)
+- [What&#39;s missing with American CEOs?](https://albertcory50.substack.com/p/whats-missing-with-american-ceos)
+- [How to Move Your Google Photos](https://www.auckland.ac.nz/en/students/my-tools/googlechanges/Move-your-google-photos.html)
 - [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
 - [Spy satellites reveal undiscovered Roman forts](https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html)
-- [Biomarkers to detect the heating of fatty acids in residues from pottery use](https://www.sciencedirect.com/science/article/pii/S0305440323001346)
 <!-- BLOG-POST-LIST:END -->
 
 ---
