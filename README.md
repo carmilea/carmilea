@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Builds GitHub with GitHub [video]](https://www.youtube.com/watch?v=PMSoHPuD8G8)
-- [Apple is still getting patents under Steven Jobs name](https://www.greyb.com/blog/new-steve-jobs-patents/)
-- [The death of a public intellectual](https://thmsmlr.com/public-intellectuals)
-- [How to Move Your Google Photos](https://www.auckland.ac.nz/en/students/my-tools/googlechanges/Move-your-google-photos.html)
-- [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
+- [New signs appear to ban phones from Temple Quay](https://www.bristol247.com/news-and-features/news/new-signs-appear-ban-phones-temple-quay/)
+- [Xbox&#39;s new policy – say goodbye to unofficial accessories from November](https://www.windowscentral.com/gaming/xbox/xboxs-new-policy-say-goodbye-to-unofficial-accessories-after-november)
+- [The History of Microsoft Encarta](https://www.abortretry.fail/p/the-history-of-microsoft-encarta)
+- [SiFive: The road ahead &lpar;post layoffs&rpar;](https://www.sifive.com/blog/the-road-ahead--)
+- [Show HN: I made a ChatGPT UI that looks like Slack](https://slickgpt.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
