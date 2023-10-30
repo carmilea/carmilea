@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Real-Time Latent Consistency Model](https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model)
+- [Kart: DVC for geospatial and tabular data. Git for GIS](https://kartproject.org/)
+- [Child labor in chocolate industry: &#39;It is worse than you may realize&#39;](https://www.theguardian.com/tv-and-radio/2023/oct/30/john-oliver-last-week-tonight-chocolate-industry-child-labor)
 - [Flexport is hiring sales people](https://flexport.com/careers)
-- [Autism and Responding to Authority](https://neuroclastic.com/autism-and-responding-to-authority/)
-- [Threads Software Limited gives Meta 30 days to stop using the name Threads](https://www.businesswire.com/news/home/20231030082004/en/Threads-Software-Limited-Gives-Meta%E2%80%99s-Instagram-30-Days-to-Desist-from-Using-the-Service-Name-Threads)
-- [Approximate Nearest Neighbors Oh Yeah](https://zilliz.com/learn/approximate-nearest-neighbor-oh-yeah-ANNOY)
-- [Global CO2 Levels](https://www.co2levels.org/)
+- [Show HN: Launch a private Ethereum Testnet with all clients and MEV infra](https://github.com/kurtosis-tech/ethereum-package)
 <!-- BLOG-POST-LIST:END -->
 
 ---
