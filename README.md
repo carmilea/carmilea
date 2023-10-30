@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Autoworkers Score Big Wins in New Contracts with Carmakers](https://www.nytimes.com/2023/10/30/business/economy/gm-uaw-contract-deal.html)
-- [Incus 0.2 adds NVMe, NixOS images and more](https://discuss.linuxcontainers.org/t/incus-0-2-has-been-released/18185)
-- [Apple&#39;s Safari browser is still vulnerable to Spectre attacks](https://news.rub.de/english/press-releases/2023-10-26-security-gap-apples-safari-browser-still-vulnerable-spectre-attacks)
-- [Ask HN: Is Oracle that much more evil than other big companies?](https://news.ycombinator.com/item?id=38075210)
-- [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
+- [Judge pares down artists&#39; AI copyright lawsuit against Midjourney, Stability AI](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/)
+- [The Grug Brained Developer &lpar;2022&rpar;](https://grugbrain.dev/)
+- [SEC Charges SolarWinds and CISO with Fraud, Internal Control Failures](https://www.sec.gov/news/press-release/2023-227)
+- [Drugmakers Are Set to Pay 23andMe Millions to Access Consumer DNA](https://www.bloomberg.com/news/articles/2023-10-30/23andme-will-give-gsk-access-to-consumer-dna-data)
+- [Can I remove my personal data from GenAI training datasets?](https://knowingmachines.org/knowing-legal-machines/legal-explainer/questions/can-i-remove-my-personal-data-from-genai-training-datasets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
