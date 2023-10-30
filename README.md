@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
+- [Spy satellites reveal undiscovered Roman forts](https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html)
+- [Biomarkers to detect the heating of fatty acids in residues from pottery use](https://www.sciencedirect.com/science/article/pii/S0305440323001346)
 - [How deep is the brain? The shallow brain hypothesis](https://www.nature.com/articles/s41583-023-00756-z)
-- [Book Review: Going Infinite – LessWrong](https://www.lesswrong.com/posts/AocXh6gJ9tJC2WyCL/book-review-going-infinite)
-- [The mortgage market is so bad lenders want ex-employees to give back bonuses](https://www.wsj.com/finance/banking/the-mortgage-market-is-so-bad-lenders-want-ex-employees-to-give-back-their-bonuses-52e96080)
 - [π in Other Universes](https://azeemba.com/posts/pi-in-other-universes.html)
-- [Alan Wake 2 Is an Unexpected Visual Marvel Even on Older GPUs](https://www.xfire.com/alan-wake-2-performing-well-low-end-pcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
