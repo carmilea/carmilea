@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bcachefs Pull Request Submitted for Linux 6.7](https://www.phoronix.com/news/Bcachefs-Tries-For-Linux-6.7)
-- [History Says 1918 Flu Killed the Young and Healthy. These Bones Say Otherwise](https://www.wired.com/story/history-says-the-1918-flu-killed-the-young-and-healthy-these-bones-say-otherwise/)
-- [Meta to Charge for Ad-Free Versions of Facebook and Instagram in Europe](https://www.nytimes.com/2023/10/30/technology/facebook-meta-subscription-europe.html)
-- [Razor 1911](https://en.wikipedia.org/wiki/Razor_1911)
-- [Snapdragon X Elite benchmarks: Impressive gains over M2 and desktop CPUs](https://www.notebookcheck.net/First-Snapdragon-X-Elite-benchmarks-Impressive-gains-over-M2-Max-Ryzen-9-7940HS-Intel-13th-gen-H-and-14th-gen-desktop-CPUs.763149.0.html)
+- [Flexport is hiring sales people](https://flexport.com/careers)
+- [Autism and Responding to Authority](https://neuroclastic.com/autism-and-responding-to-authority/)
+- [Threads Software Limited gives Meta 30 days to stop using the name Threads](https://www.businesswire.com/news/home/20231030082004/en/Threads-Software-Limited-Gives-Meta%E2%80%99s-Instagram-30-Days-to-Desist-from-Using-the-Service-Name-Threads)
+- [Approximate Nearest Neighbors Oh Yeah](https://zilliz.com/learn/approximate-nearest-neighbor-oh-yeah-ANNOY)
+- [Global CO2 Levels](https://www.co2levels.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
