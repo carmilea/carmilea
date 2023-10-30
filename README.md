@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How deep is the brain? The shallow brain hypothesis](https://www.nature.com/articles/s41583-023-00756-z)
+- [Book Review: Going Infinite – LessWrong](https://www.lesswrong.com/posts/AocXh6gJ9tJC2WyCL/book-review-going-infinite)
+- [The mortgage market is so bad lenders want ex-employees to give back bonuses](https://www.wsj.com/finance/banking/the-mortgage-market-is-so-bad-lenders-want-ex-employees-to-give-back-their-bonuses-52e96080)
+- [π in Other Universes](https://azeemba.com/posts/pi-in-other-universes.html)
 - [Alan Wake 2 Is an Unexpected Visual Marvel Even on Older GPUs](https://www.xfire.com/alan-wake-2-performing-well-low-end-pcs/)
-- [DIY IP-KVM Based on Raspberry Pi](https://github.com/pikvm/pikvm)
-- [Linux 6.7 Reworks PE Header Generation to Reduce Attack Area](https://www.phoronix.com/news/Linux-6.7-x86-boot)
-- [We migrated our back end from Vercel to Fly.io and the challenges we faced](https://www.openstatus.dev/blog/migration-backend-from-vercel-to-fly)
-- [Kubernetes releases ingress2gateway tool for upcoming GA of Gateway API](https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
