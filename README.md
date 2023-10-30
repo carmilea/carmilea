@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New signs appear to ban phones from Temple Quay](https://www.bristol247.com/news-and-features/news/new-signs-appear-ban-phones-temple-quay/)
 - [Xbox&#39;s new policy – say goodbye to unofficial accessories from November](https://www.windowscentral.com/gaming/xbox/xboxs-new-policy-say-goodbye-to-unofficial-accessories-after-november)
 - [The History of Microsoft Encarta](https://www.abortretry.fail/p/the-history-of-microsoft-encarta)
 - [SiFive: The road ahead &lpar;post layoffs&rpar;](https://www.sifive.com/blog/the-road-ahead--)
-- [Show HN: I made a ChatGPT UI that looks like Slack](https://slickgpt.com/)
+- [Internal slides on the work of the Google &quot;Ads Quality&quot; team](https://twitter.com/jason_kint/status/1718830641016414657)
+- [New Apple patents have Steve Jobs credited as an inventor](https://www.greyb.com/blog/new-steve-jobs-patents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
