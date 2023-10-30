@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Married Introvert](https://lukasrosenstock.net/2023/10/26/the-married-introvert.html)
 - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
 - [Ask HN: Cloudflare Workers Are Down?](https://news.ycombinator.com/item?id=38074906)
 - [Use YouTube to improve your English pronunciation](https://youglish.com/)
-- [Real-Time Latent Consistency Model](https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model)
-- [Kart: DVC for geospatial and tabular data. Git for GIS](https://kartproject.org/)
+- [Open source Datadog alternative SigNoz crosses 15K GitHub stars](https://twitter.com/pranay01/status/1719067058736955582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
