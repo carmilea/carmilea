@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Married Introvert](https://lukasrosenstock.net/2023/10/26/the-married-introvert.html)
+- [Autoworkers Score Big Wins in New Contracts with Carmakers](https://www.nytimes.com/2023/10/30/business/economy/gm-uaw-contract-deal.html)
+- [Incus 0.2 adds NVMe, NixOS images and more](https://discuss.linuxcontainers.org/t/incus-0-2-has-been-released/18185)
+- [Apple&#39;s Safari browser is still vulnerable to Spectre attacks](https://news.rub.de/english/press-releases/2023-10-26-security-gap-apples-safari-browser-still-vulnerable-spectre-attacks)
+- [Ask HN: Is Oracle that much more evil than other big companies?](https://news.ycombinator.com/item?id=38075210)
 - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
-- [Ask HN: Cloudflare Workers Are Down?](https://news.ycombinator.com/item?id=38074906)
-- [Use YouTube to improve your English pronunciation](https://youglish.com/)
-- [Open source Datadog alternative SigNoz crosses 15K GitHub stars](https://twitter.com/pranay01/status/1719067058736955582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
