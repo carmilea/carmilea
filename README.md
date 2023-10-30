@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Python⇒Speed: Speeding Up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
-- [Private Equity Is Devouring the U.S. Economy](https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/)
-- [Raspberry Pi 5 has no hardware video encoding and only HEVC decoding](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#comment-1594055)
-- [Bakhshali Manuscript](https://en.wikipedia.org/wiki/Bakhshali_manuscript)
-- [Microsoft says GPT 3.5 has 20B parameters?](https://arxiv.org/abs/2310.17680)
+- [New York Times Tech Workers to Strike This Afternoon](https://www.bloomberg.com/news/articles/2023-10-30/new-york-times-tech-union-to-strike-over-office-return-contract-delays)
+- [The costs of microservices &lpar;2020&rpar;](https://robertovitillo.com/costs-of-microservices/)
+- [Qualcomm Snapdragon X Elite Performance Preview: A First Look at What&#39;s to Come](https://www.anandtech.com/show/21112/qualcomm-snapdragon-x-elite-performance-preview-a-first-look-at-whats-to-come)
+- [Western Digital to spin off flash business](https://www.theverge.com/2023/10/30/23938334/western-digital-separating-hard-drive-flash-business)
+- [Why can&#39;t you multiply vectors? [video]](https://www.youtube.com/watch?v=htYh-Tq7ZBI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
