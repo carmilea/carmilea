@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Razor 1911](https://en.wikipedia.org/wiki/Razor_1911)
+- [Tesla union strike fails in Sweden as workers refused to walk out](https://www.teslarati.com/tesla-union-strike-fails-sweden-workers-refuse-walkout/)
 - [New York Times Tech Workers to Strike This Afternoon](https://www.bloomberg.com/news/articles/2023-10-30/new-york-times-tech-union-to-strike-over-office-return-contract-delays)
+- [Replacing WebRTC: real-time latency with WebTransport and WebCodecs](https://quic.video/blog/replacing-webrtc/)
 - [The costs of microservices &lpar;2020&rpar;](https://robertovitillo.com/costs-of-microservices/)
-- [Qualcomm Snapdragon X Elite Performance Preview: A First Look at What&#39;s to Come](https://www.anandtech.com/show/21112/qualcomm-snapdragon-x-elite-performance-preview-a-first-look-at-whats-to-come)
-- [Western Digital to spin off flash business](https://www.theverge.com/2023/10/30/23938334/western-digital-separating-hard-drive-flash-business)
-- [Why can&#39;t you multiply vectors? [video]](https://www.youtube.com/watch?v=htYh-Tq7ZBI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
