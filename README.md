@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/)
+- [Raspberry Pi 5 has no hardware video encoding and only HEVC decoding](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#comment-1594055)
+- [Bakhshali Manuscript](https://en.wikipedia.org/wiki/Bakhshali_manuscript)
+- [The future of warfare: A $400 drone killing a $2M tank](https://www.politico.eu/article/future-warfare-400-army-strike-drone-unit-2m-tank/)
+- [Linux Man Pages in the &quot;Miscellaneous Information&quot; Section](https://www.man7.org/linux/man-pages/man7/)
 - [The History of Microsoft Encarta](https://www.abortretry.fail/p/the-history-of-microsoft-encarta)
-- [SiFive: The road ahead &lpar;post layoffs&rpar;](https://www.sifive.com/blog/the-road-ahead--)
-- [Internal slides on the work of the Google &quot;Ads Quality&quot; team](https://twitter.com/jason_kint/status/1718830641016414657)
-- [New Apple patents have Steve Jobs credited as an inventor](https://www.greyb.com/blog/new-steve-jobs-patents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
