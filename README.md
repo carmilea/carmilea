@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I made a web app that tells you if your food is spicy?](https://dieornot.com/)
+- [$95 AMD CPU Becomes 16GB GPU to Run AI Software](https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software)
 - [Southern California Beyond the Freeway](https://www.nytimes.com/2023/10/30/travel/southern-california-driving-tour.html)
+- [Mistral 7B,The complete Guide of the Best 7B model](https://mistral-7b.com/)
 - [Can you use your &quot;free will&quot;? Try your hand](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
 - [NASA can&#39;t open its asteroid capsule](https://www.tortoisemedia.com/2023/10/27/nasa-cant-open-its-asteroid-capsule/)
-- [Apple unveils M3, M3 Pro, and M3 Max, the most advanced chips for a PC](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
