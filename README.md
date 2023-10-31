@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists Find Link Between Inflammation and Aging](https://knowridge.com/2023/10/scientists-find-link-between-inflammation-and-aging/)
+- [Jury Finds Realtors Conspired, Awards Nearly $1.8B in Damages](https://www.wsj.com/real-estate/jury-finds-realtors-conspired-to-keep-commissions-high-awards-nearly-1-8-billion-in-damages-b26f9c2f)
+- [macOS Sonoma Boot Failures](https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures)
+- [Copying Angry Birds with nothing but AI](https://twitter.com/javilopen/status/1719363262179938401)
 - [Upstream Linux support available for Qualcomm Snapdragon 8 Gen 3 Mobile Platform](https://www.linaro.org/blog/upstream-linux-support-now-available-for-the-the-qualcomm-snapdragon-8-gen-3-mobile-platform/)
-- [Company with a 10% lifetime employee turnover shows their real secret is trust](https://fortune.com/2023/10/31/happiest-country-world-finnish-company-lifetime-employee-turnover-shows-real-secret-trust/)
-- [Show HN: Phind Model beats GPT-4 at coding, with GPT-3.5 speed and 16k context](https://www.phind.com/phindmodelhn)
-- [In 1952, a group of three &#39;stars&#39; vanished–astronomers still can&#39;t find them](https://phys.org/news/2023-10-group-stars-vanishedastronomers.html)
-- [Mux &lpar;YC W16&rpar; is hiring a Sr Platform Engineer for distributed, scaled video infra](https://www.mux.com/jobs?j=srplatform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
