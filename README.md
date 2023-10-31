@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Achieving Scale Through Simplicity + the Future of AI](https://www.singlestore.com/blog/achieving-scale-through-simplicity-the-future-of-ai/)
-- [Home schooling&#39;s rise from fringe to fastest-growing form of education](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/)
-- [CA employers must reimburse remote workers for all necessary expenses](https://www.nolo.com/legal-encyclopedia/working-from-home-in-california-does-my-employer-have-to-reimburse-me-for-utilities-or-other-expenses.html)
-- [Penn and Teller&#39;s Lab Scam [video]](https://www.youtube.com/watch?v=fxMKuv0A6z4)
-- [.io considered harmful](https://www.beep.blog/io/)
+- [Reverse-engineering Ethernet backoff on the Intel 82586 network chip&#39;s die](http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html)
+- [Mars Cyclers – By Peter Hague – Planetocracy](https://planetocracy.substack.com/p/mars-cyclers)
+- [New wildlife GPS tracker uses kinetic energy for power](https://www.scientificamerican.com/article/new-wildlife-tracker-powers-itself-as-animals-walk-trot-and-run/)
+- [Return To Office is all about power](https://werd.io/2023/return-to-office-is-all-about-power)
+- [Copy webpage text, convert to Markdown](https://chrome.google.com/webstore/detail/copycat/jdjbiojkklnaeoanimopafmnmhldejbg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
