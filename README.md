@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Israel was removed from Baidu Maps earlier today](https://twitter.com/shaunmmaguire/status/1719200628990525595)
-- [Ohm: A library and language for building parsers, interpreters, compilers, etc.](https://github.com/ohmjs/ohm)
-- [German court declares Do Not Track to be legally binding](https://www.vzbv.de/urteile/gericht-untersagt-datenschutzverstoesse-von-linkedin)
-- [$95 AMD CPU Becomes 16GB GPU to Run AI Software](https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software)
-- [Behold the Nebulous Smear: al-Sūfī&#39;s Illustrated Book of Fixed Stars &lpar;ca. 1430&rpar;](https://publicdomainreview.org/collection/fixed-stars/)
+- [AV1 video codec gains broader hardware support](https://fullystacked.net/posts/av1/)
+- [Gen Z is lonely. Going back to the office may be the cure for some](https://www.businessinsider.com/cure-for-gen-z-loneliness-heading-returning-to-office-2023-10)
+- [Midjourney, Stability AI and DeviantArt win a victory in copyright case](https://venturebeat.com/ai/midjourney-stability-ai-and-deviantart-win-a-victory-in-copyright-case-by-artists-but-the-fight-continues/)
+- [Artists Lose First Round of AI Art Copyright Infringement Case](https://www.hollywoodreporter.com/business/business-news/artists-copyright-infringement-case-ai-art-generators-1235632929/)
+- [Bcachefs Merged into the Linux 6.7 Kernel](https://www.phoronix.com/news/Bcachefs-Merged-Linux-6.7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
