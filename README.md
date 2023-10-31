@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Judge pares down artists&#39; AI copyright lawsuit against Midjourney, Stability AI](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/)
-- [The Grug Brained Developer &lpar;2022&rpar;](https://grugbrain.dev/)
-- [SEC Charges SolarWinds and CISO with Fraud, Internal Control Failures](https://www.sec.gov/news/press-release/2023-227)
-- [Drugmakers Are Set to Pay 23andMe Millions to Access Consumer DNA](https://www.bloomberg.com/news/articles/2023-10-30/23andme-will-give-gsk-access-to-consumer-dna-data)
-- [Can I remove my personal data from GenAI training datasets?](https://knowingmachines.org/knowing-legal-machines/legal-explainer/questions/can-i-remove-my-personal-data-from-genai-training-datasets)
+- [Xbox will block third-party controllers to &quot;preserve the console experience&quot;](https://www.nme.com/news/gaming-news/xbox-will-block-third-party-controllers-to-preserve-the-console-experience-3525752)
+- [Apple unveils M3, M3 Pro, and M3 Max, the most advanced chips for a PC](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
+- [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
+- [World&#39;s most popular painter sent his followers after me because of my review](https://news.artnet.com/opinion/devon-rodriguez-parasocial-aesthetics-2380960)
+- [RedPajama v2 Open Dataset with 30T Tokens for Training LLMs](https://together.ai/blog/redpajama-data-v2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
