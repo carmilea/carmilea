@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineers develop a 96% efficient process to make formate fuel from CO2](https://news.mit.edu/2023/engineers-develop-efficient-fuel-process-carbon-dioxide-1030)
+- [A giant European telescope rises as U.S. rivals await rescue](https://www.science.org/content/article/giant-european-telescope-rises-u-s-rivals-await-rescue)
+- [Moonbase Alpha Travel Tube Details](https://catacombs.space1999.net/main/cguide/umtravel.html)
+- [ROScribe: An LLM-based robotic platform](https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-robotic-platform/34298)
+- [Engineers develop a process to make formate fuel from CO2](https://news.mit.edu/2023/engineers-develop-efficient-fuel-process-carbon-dioxide-1030)
 - [A Grand Theft Auto III Re-Implementation](https://openrw.org/)
-- [The Ten Rules of Schema Growth](https://blog.datomic.com/2017/01/the-ten-rules-of-schema-growth.html)
-- [Jury Finds Realtors Conspired, Awards Nearly $1.8B in Damages](https://www.wsj.com/real-estate/jury-finds-realtors-conspired-to-keep-commissions-high-awards-nearly-1-8-billion-in-damages-b26f9c2f)
-- [macOS Sonoma Boot Failures](https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures)
 <!-- BLOG-POST-LIST:END -->
 
 ---
