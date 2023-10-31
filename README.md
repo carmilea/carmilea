@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Engineers develop a 96% efficient process to make formate fuel from CO2](https://news.mit.edu/2023/engineers-develop-efficient-fuel-process-carbon-dioxide-1030)
+- [A Grand Theft Auto III Re-Implementation](https://openrw.org/)
 - [The Ten Rules of Schema Growth](https://blog.datomic.com/2017/01/the-ten-rules-of-schema-growth.html)
 - [Jury Finds Realtors Conspired, Awards Nearly $1.8B in Damages](https://www.wsj.com/real-estate/jury-finds-realtors-conspired-to-keep-commissions-high-awards-nearly-1-8-billion-in-damages-b26f9c2f)
 - [macOS Sonoma Boot Failures](https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures)
-- [Copying Angry Birds with nothing but AI](https://twitter.com/javilopen/status/1719363262179938401)
-- [The Configuration Complexity Clock &lpar;2012&rpar;](http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
