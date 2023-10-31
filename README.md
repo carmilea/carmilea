@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [German court declares Do Not Track to be legally binding](https://www.vzbv.de/urteile/gericht-untersagt-datenschutzverstoesse-von-linkedin)
 - [$95 AMD CPU Becomes 16GB GPU to Run AI Software](https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software)
+- [Behold the Nebulous Smear: al-Sūfī&#39;s Illustrated Book of Fixed Stars &lpar;ca. 1430&rpar;](https://publicdomainreview.org/collection/fixed-stars/)
 - [Confessions of a Tableside Flambéur](https://www.eater.com/23893292/tableside-presentation-flambee-confessions-fine-dining)
 - [Southern California Beyond the Freeway](https://www.nytimes.com/2023/10/30/travel/southern-california-driving-tour.html)
-- [Can you use your &quot;free will&quot;? Try your hand](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
