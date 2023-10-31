@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Temporarily Suspends the LAPD](https://reclaimthenet.org/youtube-temporarily-suspends-the-lapd)
-- [.US Harbors Prolific Malicious Link Shortening Service](https://krebsonsecurity.com/2023/10/us-harbors-prolific-malicious-link-shortening-service/)
-- [US-led coalition of nations agrees to end ransomware payments to hackers](https://www.itpro.com/security/ransomware/coalition-of-nations-agree-to-end-ransomware-payments-to-hackers)
-- [Windows 11 adds native support for RAR, 7-Zip, Tar and other archive formats](https://www.techspot.com/news/100663-windows-11-extends-support-archive-formats-thanks-open.html)
-- [Show HN: Light implementation of Event Sourcing using PostgreSQL as event store](https://github.com/eugene-khyst/postgresql-event-sourcing)
+- [Achieving Scale Through Simplicity + the Future of AI](https://www.singlestore.com/blog/achieving-scale-through-simplicity-the-future-of-ai/)
+- [Home schooling&#39;s rise from fringe to fastest-growing form of education](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/)
+- [CA employers must reimburse remote workers for all necessary expenses](https://www.nolo.com/legal-encyclopedia/working-from-home-in-california-does-my-employer-have-to-reimburse-me-for-utilities-or-other-expenses.html)
+- [Penn and Teller&#39;s Lab Scam [video]](https://www.youtube.com/watch?v=fxMKuv0A6z4)
+- [.io considered harmful](https://www.beep.blog/io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
