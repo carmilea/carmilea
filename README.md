@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Treble.ai &lpar;YC S19&rpar; Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
 - [AV1 video codec gains broader hardware support](https://fullystacked.net/posts/av1/)
-- [Gen Z is lonely. Going back to the office may be the cure for some](https://www.businessinsider.com/cure-for-gen-z-loneliness-heading-returning-to-office-2023-10)
+- [I&#39;ve Overlayed Stays on a Light Pollution Satellite Map](https://darkhotels.co)
+- [Thunderbird again allows insecure SHA-1 signatures for backward compatibility](https://blog.thunderbird.net/2023/10/thunderbird-115-and-signatures-using-the-obsolete-sha-1-algorithm/)
 - [Midjourney, Stability AI and DeviantArt win a victory in copyright case](https://venturebeat.com/ai/midjourney-stability-ai-and-deviantart-win-a-victory-in-copyright-case-by-artists-but-the-fight-continues/)
-- [Artists Lose First Round of AI Art Copyright Infringement Case](https://www.hollywoodreporter.com/business/business-news/artists-copyright-infringement-case-ai-art-generators-1235632929/)
-- [Bcachefs Merged into the Linux 6.7 Kernel](https://www.phoronix.com/news/Bcachefs-Merged-Linux-6.7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
