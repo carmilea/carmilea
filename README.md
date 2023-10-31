@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Treble.ai &lpar;YC S19&rpar; Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
-- [AV1 video codec gains broader hardware support](https://fullystacked.net/posts/av1/)
-- [I&#39;ve Overlayed Stays on a Light Pollution Satellite Map](https://darkhotels.co)
-- [Thunderbird again allows insecure SHA-1 signatures for backward compatibility](https://blog.thunderbird.net/2023/10/thunderbird-115-and-signatures-using-the-obsolete-sha-1-algorithm/)
-- [Midjourney, Stability AI and DeviantArt win a victory in copyright case](https://venturebeat.com/ai/midjourney-stability-ai-and-deviantart-win-a-victory-in-copyright-case-by-artists-but-the-fight-continues/)
+- [YouTube Temporarily Suspends the LAPD](https://reclaimthenet.org/youtube-temporarily-suspends-the-lapd)
+- [.US Harbors Prolific Malicious Link Shortening Service](https://krebsonsecurity.com/2023/10/us-harbors-prolific-malicious-link-shortening-service/)
+- [US-led coalition of nations agrees to end ransomware payments to hackers](https://www.itpro.com/security/ransomware/coalition-of-nations-agree-to-end-ransomware-payments-to-hackers)
+- [Windows 11 adds native support for RAR, 7-Zip, Tar and other archive formats](https://www.techspot.com/news/100663-windows-11-extends-support-archive-formats-thanks-open.html)
+- [Show HN: Light implementation of Event Sourcing using PostgreSQL as event store](https://github.com/eugene-khyst/postgresql-event-sourcing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
