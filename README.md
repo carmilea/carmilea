@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A better way to handle errors in JavaScript](https://musicq.gitbook.io/unwrapit/)
 - [$95 AMD CPU Becomes 16GB GPU to Run AI Software](https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software)
+- [Confessions of a Tableside Flambéur](https://www.eater.com/23893292/tableside-presentation-flambee-confessions-fine-dining)
 - [Southern California Beyond the Freeway](https://www.nytimes.com/2023/10/30/travel/southern-california-driving-tour.html)
-- [Mistral 7B,The complete Guide of the Best 7B model](https://mistral-7b.com/)
 - [Can you use your &quot;free will&quot;? Try your hand](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
-- [NASA can&#39;t open its asteroid capsule](https://www.tortoisemedia.com/2023/10/27/nasa-cant-open-its-asteroid-capsule/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
