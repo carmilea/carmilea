@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse-engineering Ethernet backoff on the Intel 82586 network chip&#39;s die](http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html)
-- [Mars Cyclers – By Peter Hague – Planetocracy](https://planetocracy.substack.com/p/mars-cyclers)
-- [New wildlife GPS tracker uses kinetic energy for power](https://www.scientificamerican.com/article/new-wildlife-tracker-powers-itself-as-animals-walk-trot-and-run/)
-- [Return To Office is all about power](https://werd.io/2023/return-to-office-is-all-about-power)
-- [Copy webpage text, convert to Markdown](https://chrome.google.com/webstore/detail/copycat/jdjbiojkklnaeoanimopafmnmhldejbg)
+- [Mux &lpar;YC W16&rpar; is hiring a Sr Platform Engineer for distributed, scaled video infra](https://www.mux.com/jobs?j=srplatform)
+- [Sam Bankman-Fried doesn&#39;t recall](https://www.theverge.com/2023/10/30/23939639/sam-bankman-fried-cross-exam-fraud)
+- [Firefox Got Faster for Real Users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
+- [Behind the scenes: An Apple Event shot on iPhone](https://www.apple.com/newsroom/2023/10/behind-the-scenes-at-scary-fast-apples-keynote-event-shot-on-iphone/)
+- [Bologna seals off &#39;leaning tower&#39; over fears it is tilting too far](https://www.theguardian.com/world/2023/oct/29/bologna-seals-off-leaning-tower-fears-tilting-too-far)
 <!-- BLOG-POST-LIST:END -->
 
 ---
