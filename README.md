@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Help Wanted at LWN](https://lwn.net/Articles/949461/)
-- [FCC launches inquiry to increase minimum broadband speed [pdf]](https://docs.fcc.gov/public/attachments/DOC-398168A1.pdf)
-- [How to &lpar;and how not to&rpar; design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
+- [Shipwreck Is Everywhere &lpar;2017&rpar;](https://hudsonreview.com/2017/10/shipwreck-is-everywhere/)
+- [The business of extracting knowledge from academic publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
+- [Starlink satellites are &#39;leaking&#39; signals that interfere with radio telescopes](https://theconversation.com/starlink-satellites-are-leaking-signals-that-interfere-with-our-most-sensitive-radio-telescopes-215250)
+- [Open Data Is Dead](https://databaseengineering.substack.com/p/open-data-is-dead)
 - [Wrangling Monotonic Systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
-- [US consumer spending dashboard built on data from 50M+ cards now on Snowflake](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX40/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
