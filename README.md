@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
-- [Mozilla treats Debian devotees to the raw taste of Firefox Nightly](https://www.theregister.com/2023/11/01/official_mozilla_debian_firefox/)
-- [Splunk to Cut Workforce by 7% After Cisco Deal](https://www.bloomberg.com/news/articles/2023-11-01/splunk-to-cut-workforce-by-7-after-cisco-deal)
-- [Lenovo ThinkPad T14s G4 review: Business laptop is better with AMD Zen4](https://www.notebookcheck.net/Lenovo-ThinkPad-T14s-G4-review-Business-laptop-is-better-with-AMD-Zen4.763581.0.html)
-- [Improving deep sleep may prevent dementia, study finds](https://www.monash.edu/news/articles/improving-deep-sleep-may-prevent-dementia,-study-finds)
+- [Ask HN: Who is hiring? &lpar;November 2023&rpar;](https://news.ycombinator.com/item?id=38099086)
+- [Why doctors in America earn so much](https://www.economist.com/united-states/2023/10/31/why-doctors-in-america-earn-so-much)
+- [NASA Tech Breathes Life into Potentially Game-Changing Antenna Design](https://www.eenewseurope.com/en/from-chocolate-pudding-to-new-antenna-design/)
+- [10 Reasons to Fight Cashless Contagion](https://brettscott.substack.com/p/10-reasons-to-fight-cashless-society)
+- [Architecture Considerations for platform engineering teams](https://thenewstack.io/platform-engineering/architecture-and-design-considerations-for-platform-engineering-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
