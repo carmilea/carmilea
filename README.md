@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What the Goddamn Hell Is Going on in the Tech Industry? – Ludicity](https://ludic.mataroa.blog/blog/what-the-goddamn-hell-is-going-on-in-the-tech-industry/)
 - [SQLite 3.44: Interactive release notes](https://antonz.org/sqlite-3-44/)
-- [U.S. Sugar consumption trend from 1970-2021](https://www.ers.usda.gov/webdocs/charts/105375/Sweetener-availability.png?v=2156.8)
 - [uBlock Origin 1.53](https://github.com/gorhill/uBlock/releases/tag/1.53.0)
+- [Distil-Whisper: distilled version of Whisper that is 6 times faster, 49% smaller](https://github.com/huggingface/distil-whisper)
 - [Show HN: Halloween game to show off my new Terminal](https://joel.tools/halloween/)
-- [Black 4.0](https://www.culturehustleusa.com/products/black-4-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
