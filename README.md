@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Halloween game to show off my new Terminal](https://joel.tools/halloween/)
+- [Norwegian ban on Meta behavioral advertising extended to entire EU](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2023/datatilsynets-vedtak-mot-meta-utvides-til-eueos-og-gjores-permanent/)
+- [M51: A Feast for the Eyes](https://esawebb.org/images/potm2308a/)
+- [WeWork plans to file for bankruptcy as early as next week, source says](https://www.reuters.com/markets/deals/wework-plans-file-bankruptcy-early-next-week-wsj-2023-10-31/)
 - [A giant European telescope rises as U.S. rivals await rescue](https://www.science.org/content/article/giant-european-telescope-rises-u-s-rivals-await-rescue)
-- [Moonbase Alpha Travel Tube Details](https://catacombs.space1999.net/main/cguide/umtravel.html)
-- [ROScribe: An LLM-based robotic platform](https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-robotic-platform/34298)
-- [Engineers develop a process to make formate fuel from CO2](https://news.mit.edu/2023/engineers-develop-efficient-fuel-process-carbon-dioxide-1030)
-- [A Grand Theft Auto III Re-Implementation](https://openrw.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
