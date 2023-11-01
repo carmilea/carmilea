@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Once valued at $47B, coworking-space provider WeWork nears bankruptcy](https://arstechnica.com/tech-policy/2023/11/once-valued-at-47-billion-coworking-space-provider-wework-nears-bankruptcy/)
-- [YouTube&#39;s Ad Blocker Crackdown Is Getting Harder to Dodge](https://gizmodo.com/youtube-ad-blocker-crackdown-is-getting-harder-to-dodge-1850977548)
-- [YouTube&#39;s &#39;War&#39; on Adblockers Shows How Google Controls the Internet](https://www.404media.co/youtubes-war-on-adblockers-shows-how-google-controls-the-internet/)
-- [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
-- [Asahi Linux goes from Apple Silicon port project to macOS bug hunters](https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/)
+- [Heat pumps can&#39;t take the cold? Nordics debunk the myth](https://techxplore.com/news/2023-10-cold-nordics-debunk-myth.html)
+- [State of emergency declared after lead and copper found in St. Croix tap water](https://apnews.com/article/st-croix-state-emergency-water-contaminated-lead-28a8e67a0069b08f6f7782bea6c77863)
+- [What do we mean by &quot;the foundations of mathematics&quot;?](https://lawrencecpaulson.github.io/2023/11/01/Foundations.html)
+- [WeWork nears bankruptcy](https://arstechnica.com/tech-policy/2023/11/once-valued-at-47-billion-coworking-space-provider-wework-nears-bankruptcy/)
+- [Dot by New Computer](https://new.computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
