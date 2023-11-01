@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Some thoughts about The Verge article on SEO](https://dannysullivan.com/thoughts-verge-article-seo-6558)
-- [FCC to propose a minimum 100mbps to qualify as broadband, future goal of 1gbps [pdf]](https://docs.fcc.gov/public/attachments/DOC-398168A1.pdf)
+- [Help Wanted at LWN](https://lwn.net/Articles/949461/)
+- [FCC launches inquiry to increase minimum broadband speed [pdf]](https://docs.fcc.gov/public/attachments/DOC-398168A1.pdf)
 - [How to &lpar;and how not to&rpar; design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
 - [Wrangling Monotonic Systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
 - [US consumer spending dashboard built on data from 50M+ cards now on Snowflake](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX40/)
