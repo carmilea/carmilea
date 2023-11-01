@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduc ing the .ing top-level domain](https://blog.google/products/registry/introducing-the-ing-top-level-domain/)
-- [MistralLite by Amazon Web Services](https://huggingface.co/amazon/MistralLite)
-- [The Most Dangerous Codec in the World [pdf]](https://www.usenix.org/system/files/usenixsecurity23-vasquez_1.pdf)
-- [Htmx, Rust and Shuttle: A New Rapid Prototyping Stack](https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust)
-- [Ask HN: Who is hiring? &lpar;November 2023&rpar;](https://news.ycombinator.com/item?id=38099086)
+- [IBM cancels 401k matching, replaces with proprietary pension fund RBA](https://old.reddit.com/r/IBM/login/)
+- [Asahi Linux goes from Apple Silicon port project to macOS bug hunters](https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/)
+- [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Make Product Decisions &lpar;Remote&rpar;](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
+- [SQLite 3.44.0](https://sqlite.org/releaselog/3_44_0.html)
+- [Cities Skylines II renders invividual teeth of all human models](https://twitter.com/tombomp/status/1717641500891238536)
 <!-- BLOG-POST-LIST:END -->
 
 ---
