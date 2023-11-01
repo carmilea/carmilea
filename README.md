@@ -57,7 +57,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bear Does Analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
-- [What the Goddamn Hell Is Going on in the Tech Industry? – Ludicity](https://ludic.mataroa.blog/blog/what-the-goddamn-hell-is-going-on-in-the-tech-industry/)
+- [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
 - [SQLite 3.44: Interactive release notes](https://antonz.org/sqlite-3-44/)
 - [uBlock Origin 1.53](https://github.com/gorhill/uBlock/releases/tag/1.53.0)
 - [Distil-Whisper: distilled version of Whisper that is 6 times faster, 49% smaller](https://github.com/huggingface/distil-whisper)
