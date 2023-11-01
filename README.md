@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Heat pumps can&#39;t take the cold? Nordics debunk the myth](https://techxplore.com/news/2023-10-cold-nordics-debunk-myth.html)
-- [State of emergency declared after lead and copper found in St. Croix tap water](https://apnews.com/article/st-croix-state-emergency-water-contaminated-lead-28a8e67a0069b08f6f7782bea6c77863)
-- [What do we mean by &quot;the foundations of mathematics&quot;?](https://lawrencecpaulson.github.io/2023/11/01/Foundations.html)
-- [WeWork nears bankruptcy](https://arstechnica.com/tech-policy/2023/11/once-valued-at-47-billion-coworking-space-provider-wework-nears-bankruptcy/)
-- [Dot by New Computer](https://new.computer/)
+- [FCC to propose a minimum 100mbps to qualify as broadband, future goal of 1gbps [pdf]](https://docs.fcc.gov/public/attachments/DOC-398168A1.pdf)
+- [Establishment of the U.S. Artificial Intelligence Safety Institute](https://www.commerce.gov/news/press-releases/2023/11/direction-president-biden-department-commerce-establish-us-artificial)
+- [How to &lpar;and how not to&rpar; design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
+- [Wrangling Monotonic Systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
+- [US consumer spending dashboard built on data from 50M+ cards now on Snowflake](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX40/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
