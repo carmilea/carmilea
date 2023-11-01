@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [English is the new SQL with SingleStore&#39;s ChatGPT plugin](https://www.youtube.com/watch?v=rSzWlE5vDrQ)
 - [How We Made That App - Trailer](https://www.youtube.com/watch?v=1DXyukzuc64)
 - [SingleStore - Time is Now](https://www.youtube.com/watch?v=Qq2fCtzMbD8)
 - [SingleStore ChatGPT Dev Day @ AWS Bangalore](https://www.youtube.com/watch?v=BvEl-tjz60k)
 - [Fast AI on JSON  Using OpenAI to Build a Real Time Recommendation Engine](https://www.youtube.com/watch?v=w2gCtCZ9nxE)
-- [ChatGPT for PLG Talk with Your Salesforce or Segment Data](https://www.youtube.com/watch?v=7R2EUVtHDoM)
 <!-- YOUTUBE:END -->
 
 
