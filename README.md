@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite 3.44: Interactive release notes](https://antonz.org/sqlite-3-44/)
 - [U.S. Sugar consumption trend from 1970-2021](https://www.ers.usda.gov/webdocs/charts/105375/Sweetener-availability.png?v=2156.8)
-- [uBlock-Origin – 1.53.0](https://github.com/gorhill/uBlock/releases/tag/1.53.0)
+- [uBlock Origin 1.53](https://github.com/gorhill/uBlock/releases/tag/1.53.0)
 - [Show HN: Halloween game to show off my new Terminal](https://joel.tools/halloween/)
-- [Norwegian ban on Meta behavioral advertising extended to entire EU](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2023/datatilsynets-vedtak-mot-meta-utvides-til-eueos-og-gjores-permanent/)
-- [M51: A Feast for the Eyes](https://esawebb.org/images/potm2308a/)
+- [Black 4.0](https://www.culturehustleusa.com/products/black-4-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
