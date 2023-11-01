@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lenovo ThinkPad T14s G4 review: Business laptop is better with AMD Zen4](https://www.notebookcheck.net/Lenovo-ThinkPad-T14s-G4-review-Business-laptop-is-better-with-AMD-Zen4.763581.0.html)
 - [Govly &lpar;YC S21&rpar; Is Hiring Fullstack Engineers &lpar;Ruby/React&rpar;](https://www.govly.com/careers)
 - [A bold new look for the Gov.uk homepage](https://insidegovuk.blog.gov.uk/2023/11/01/a-bold-new-look-for-the-gov-uk-homepage/)
 - [Sentry: From the Beginning](https://cra.mr/sentry-from-the-beginning/)
-- [Bear Does Analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
-- [What the Goddamn Hell Is Going on in the Tech Industry?](https://ludic.mataroa.blog/blog/what-the-goddamn-hell-is-going-on-in-the-tech-industry/)
+- [How Bear does analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
