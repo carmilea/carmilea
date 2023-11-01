@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [uBlock-Origin – 1.53.0](https://github.com/gorhill/uBlock/releases/tag/1.53.0)
 - [Show HN: Halloween game to show off my new Terminal](https://joel.tools/halloween/)
 - [Norwegian ban on Meta behavioral advertising extended to entire EU](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2023/datatilsynets-vedtak-mot-meta-utvides-til-eueos-og-gjores-permanent/)
 - [M51: A Feast for the Eyes](https://esawebb.org/images/potm2308a/)
 - [A giant European telescope rises as U.S. rivals await rescue](https://www.science.org/content/article/giant-european-telescope-rises-u-s-rivals-await-rescue)
-- [Moonbase Alpha Travel Tube Details](https://catacombs.space1999.net/main/cguide/umtravel.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
