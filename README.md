@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
+- [Mozilla treats Debian devotees to the raw taste of Firefox Nightly](https://www.theregister.com/2023/11/01/official_mozilla_debian_firefox/)
+- [Splunk to Cut Workforce by 7% After Cisco Deal](https://www.bloomberg.com/news/articles/2023-11-01/splunk-to-cut-workforce-by-7-after-cisco-deal)
 - [Lenovo ThinkPad T14s G4 review: Business laptop is better with AMD Zen4](https://www.notebookcheck.net/Lenovo-ThinkPad-T14s-G4-review-Business-laptop-is-better-with-AMD-Zen4.763581.0.html)
-- [Govly &lpar;YC S21&rpar; Is Hiring Fullstack Engineers &lpar;Ruby/React&rpar;](https://www.govly.com/careers)
-- [A bold new look for the Gov.uk homepage](https://insidegovuk.blog.gov.uk/2023/11/01/a-bold-new-look-for-the-gov-uk-homepage/)
-- [Sentry: From the Beginning](https://cra.mr/sentry-from-the-beginning/)
-- [How Bear does analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
+- [Improving deep sleep may prevent dementia, study finds](https://www.monash.edu/news/articles/improving-deep-sleep-may-prevent-dementia,-study-finds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
