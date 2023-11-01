@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduc ing the .ing top-level domain](https://blog.google/products/registry/introducing-the-ing-top-level-domain/)
+- [MistralLite by Amazon Web Services](https://huggingface.co/amazon/MistralLite)
+- [The Most Dangerous Codec in the World [pdf]](https://www.usenix.org/system/files/usenixsecurity23-vasquez_1.pdf)
+- [Htmx, Rust and Shuttle: A New Rapid Prototyping Stack](https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust)
 - [Ask HN: Who is hiring? &lpar;November 2023&rpar;](https://news.ycombinator.com/item?id=38099086)
-- [Why doctors in America earn so much](https://www.economist.com/united-states/2023/10/31/why-doctors-in-america-earn-so-much)
-- [NASA Tech Breathes Life into Potentially Game-Changing Antenna Design](https://www.eenewseurope.com/en/from-chocolate-pudding-to-new-antenna-design/)
-- [10 Reasons to Fight Cashless Contagion](https://brettscott.substack.com/p/10-reasons-to-fight-cashless-society)
-- [Architecture Considerations for platform engineering teams](https://thenewstack.io/platform-engineering/architecture-and-design-considerations-for-platform-engineering-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
