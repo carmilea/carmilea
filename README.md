@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IBM cancels 401k matching, replaces with proprietary pension fund RBA](https://old.reddit.com/r/IBM/login/)
+- [Once valued at $47B, coworking-space provider WeWork nears bankruptcy](https://arstechnica.com/tech-policy/2023/11/once-valued-at-47-billion-coworking-space-provider-wework-nears-bankruptcy/)
+- [YouTube&#39;s Ad Blocker Crackdown Is Getting Harder to Dodge](https://gizmodo.com/youtube-ad-blocker-crackdown-is-getting-harder-to-dodge-1850977548)
+- [YouTube&#39;s &#39;War&#39; on Adblockers Shows How Google Controls the Internet](https://www.404media.co/youtubes-war-on-adblockers-shows-how-google-controls-the-internet/)
+- [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 - [Asahi Linux goes from Apple Silicon port project to macOS bug hunters](https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/)
-- [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Make Product Decisions &lpar;Remote&rpar;](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
-- [SQLite 3.44.0](https://sqlite.org/releaselog/3_44_0.html)
-- [Cities Skylines II renders invividual teeth of all human models](https://twitter.com/tombomp/status/1717641500891238536)
 <!-- BLOG-POST-LIST:END -->
 
 ---
