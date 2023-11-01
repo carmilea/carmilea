@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Govly &lpar;YC S21&rpar; Is Hiring Fullstack Engineers &lpar;Ruby/React&rpar;](https://www.govly.com/careers)
+- [A bold new look for the Gov.uk homepage](https://insidegovuk.blog.gov.uk/2023/11/01/a-bold-new-look-for-the-gov-uk-homepage/)
+- [Sentry: From the Beginning](https://cra.mr/sentry-from-the-beginning/)
 - [Bear Does Analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
-- [What the Goddamn Hell Is Going on in the Tech Industry? – Ludicity](https://ludic.mataroa.blog/blog/what-the-goddamn-hell-is-going-on-in-the-tech-industry/)
-- [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
-- [SQLite 3.44: Interactive release notes](https://antonz.org/sqlite-3-44/)
-- [uBlock Origin 1.53](https://github.com/gorhill/uBlock/releases/tag/1.53.0)
+- [What the Goddamn Hell Is Going on in the Tech Industry?](https://ludic.mataroa.blog/blog/what-the-goddamn-hell-is-going-on-in-the-tech-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
