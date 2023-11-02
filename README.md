@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Could the UK&#39;s tides help wean us off fossil fuels?](https://www.bbc.com/news/science-environment-67170625)
+- [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
+- [Kotlin Multiplatform Is Stable and Production-Ready](https://blog.jetbrains.com/kotlin/2023/11/kotlin-multiplatform-stable/)
 - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
 - [Home Assistant 2023.11](https://www.home-assistant.io/blog/2023/11/01/release-202311/)
-- [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
-- [Silicon Valley doesn&#39;t understand the concept of fun](https://www.fastcompany.com/90965361/why-did-the-metaverse-die-silicon-valley-doesnt-understand-fun)
-- [CubeSigner, a refreshingly secure key manager](https://cubist.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
