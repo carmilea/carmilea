@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft is removing Maps and Movies and TV from Windows 11](https://gadgettendency.com/microsoft-is-removing-maps-and-movies-tv-from-windows-11/)
+- [Joint Statement on AI Safety and Openness](https://open.mozilla.org/letter/)
 - [Ciro &lpar;YC S22&rpar; is hiring founding engineers to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs)
 - [Martin Fowler – Current thoughts on social media](https://martinfowler.com/articles/2023-social-media.html)
 - [Millions of Fruit flies will be dropped on Los Angeles](https://ktla.com/news/local-news/millions-of-fruit-flies-will-be-dumped-on-los-angeles/)
-- [Grammarly editor writing services are malfunctioning](https://status.grammarly.com/incidents/52qjsq1fcrr3)
-- [Starlink plans to launch texting service in 2024, voice/data in 2025](https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
