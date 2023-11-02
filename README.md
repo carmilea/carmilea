@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [One sleepless night can rapidly reverse depression for several days](https://news.northwestern.edu/stories/2023/11/one-sleepless-night-can-rapidly-reverse-depression-for-several-days/)
-- [Russian Reshipping Service &#39;Swat USA Drop&#39; Exposed](https://krebsonsecurity.com/2023/11/russian-reshipping-service-swat-usa-drop-exposed/)
-- [The AI Market Is Firming Up Fast](https://www.dbreunig.com/2023/10/02/the-ai-market-is-firming-up-fast.html)
-- [Genie: Text to 3D in Seconds](https://lumalabs.ai/genie)
-- [The Morris Worm was released 35 years ago today](https://en.wikipedia.org/wiki/Morris_worm)
+- [Mint is shutting down. Thoughts from Mint&#39;s first product manager](https://www.monarchmoney.com/blog/mint-shutting-down)
+- [How Big Data Carried Graph Theory into New Dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
+- [ML Experiments Management with Git](https://github.com/iterative/dvc)
+- [Write PHP Code Within Next.js Components](https://github.com/bufferhead-code/nextjs-use-php)
+- [DoorDash manages high-availability CockroachDB clusters at scale](https://www.cockroachlabs.com/blog/doordash-cockroachdb-massive-scale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
