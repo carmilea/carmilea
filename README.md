@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Justine Bateman&#39;s Fight Against Generative AI in Hollywood](https://spectrum.ieee.org/justine-bateman-hollywood-generative-ai)
+- [Apple Patent Shows GPU Dynamic Caching Has Been in Development for Years](https://www.tomshardware.com/software/macos/apple-patent-shows-gpu-dynamic-caching-has-been-in-development-for-years)
+- [Google Adsense is Transitioning to per-impression payments for publishers](https://blog.google/products/adsense/evolving-how-publishers-monetize-with-adsense/)
+- [Uber, Lyft pay $328M for &quot;cheating drivers&quot; out of earnings, NY says](https://arstechnica.com/tech-policy/2023/11/uber-lyft-pay-328-million-for-cheating-drivers-out-of-earnings-ny-says/)
 - [Microsoft is removing Maps and Movies and TV from Windows 11](https://gadgettendency.com/microsoft-is-removing-maps-and-movies-tv-from-windows-11/)
-- [Joint Statement on AI Safety and Openness](https://open.mozilla.org/letter/)
-- [Ciro &lpar;YC S22&rpar; is hiring founding engineers to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs)
-- [Martin Fowler – Current thoughts on social media](https://martinfowler.com/articles/2023-social-media.html)
-- [Millions of Fruit flies will be dropped on Los Angeles](https://ktla.com/news/local-news/millions-of-fruit-flies-will-be-dumped-on-los-angeles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
