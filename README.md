@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yann LeCun: AI one-percenters seizing power forever is real doomsday scenario](https://www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10)
+- [M3 Max Geekbench](https://browser.geekbench.com/search?q=m3+max)
+- [Show HN: DoltgreSQL – Version-Controlled DB, Like Git and PostgreSQL had a baby](https://github.com/dolthub/doltgresql)
 - [Window-swap – open a new window somewhere in the world](https://www.window-swap.com/)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
-- [High-level emulator for iPhone OS apps](https://github.com/hikari-no-yume/touchHLE)
-- [NASA+: Our New Streaming Service](https://www.nasa.gov/plus/)
-- [Moon-forming impactor as a source of Earth&#39;s basal mantle anomalies](https://www.nature.com/articles/s41586-023-06589-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
