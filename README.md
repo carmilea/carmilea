@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Biohacking Lite](http://karpathy.github.io/2020/06/11/biohacking-lite/)
+- [GitHub Engineering: When mTLS Is Done Wrong](https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/)
+- [App: Rak – 21st century grep / find / ack / ag / rg on steroids](https://github.com/lizmat/App-Rak)
 - [M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/)
 - [Companies that use PHP and pay well](https://news.ycombinator.com/item?id=38108947)
-- [Google lays off employees working on its voice assistant](https://www.businessinsider.com/google-lay-offs-voice-assistant-bard-roles-contractors-2023-11)
-- [Yann LeCun: AI one-percenters seizing power forever is real doomsday scenario](https://www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10)
-- [M3 Max Geekbench](https://browser.geekbench.com/search?q=m3+max)
 <!-- BLOG-POST-LIST:END -->
 
 ---
