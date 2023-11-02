@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Justine Bateman&#39;s Fight Against Generative AI in Hollywood](https://spectrum.ieee.org/justine-bateman-hollywood-generative-ai)
+- [The Morris Worm was released 35 years ago today](https://en.wikipedia.org/wiki/Morris_worm)
+- [Google apparently backs off on WEI](https://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html)
+- [Free Speech Is in Trouble](https://www.natesilver.net/p/free-speech-is-in-trouble)
+- [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
 - [Apple Patent Shows GPU Dynamic Caching Has Been in Development for Years](https://www.tomshardware.com/software/macos/apple-patent-shows-gpu-dynamic-caching-has-been-in-development-for-years)
-- [Google Adsense is Transitioning to per-impression payments for publishers](https://blog.google/products/adsense/evolving-how-publishers-monetize-with-adsense/)
-- [Uber, Lyft pay $328M for &quot;cheating drivers&quot; out of earnings, NY says](https://arstechnica.com/tech-policy/2023/11/uber-lyft-pay-328-million-for-cheating-drivers-out-of-earnings-ny-says/)
-- [Microsoft is removing Maps and Movies and TV from Windows 11](https://gadgettendency.com/microsoft-is-removing-maps-and-movies-tv-from-windows-11/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
