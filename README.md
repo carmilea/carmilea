@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Window-swap – open a new window somewhere in the world](https://www.window-swap.com/)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
+- [As child care costs soar, more parents may have to exit the workforce](https://www.cbsnews.com/news/child-care-costs-us-families-exit-workforce/)
+- [High-level emulator for iPhone OS apps](https://github.com/hikari-no-yume/touchHLE)
 - [Moon-forming impactor as a source of Earth&#39;s basal mantle anomalies](https://www.nature.com/articles/s41586-023-06589-1)
-- [A shortage of teachers for computer science classes in California](https://calmatters.org/education/k-12-education/2023/10/computer-science-classes/)
-- [Lemming Suicide Myth: Disney Film Faked Bogus Behavior](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=56)
-- [Mouse experiments reveal the brain-heart connections that cause fainting](https://www.nature.com/articles/d41586-023-03450-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
