@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One sleepless night can rapidly reverse depression for several days](https://news.northwestern.edu/stories/2023/11/one-sleepless-night-can-rapidly-reverse-depression-for-several-days/)
+- [Russian Reshipping Service &#39;Swat USA Drop&#39; Exposed](https://krebsonsecurity.com/2023/11/russian-reshipping-service-swat-usa-drop-exposed/)
+- [The AI Market Is Firming Up Fast](https://www.dbreunig.com/2023/10/02/the-ai-market-is-firming-up-fast.html)
+- [Genie: Text to 3D in Seconds](https://lumalabs.ai/genie)
 - [The Morris Worm was released 35 years ago today](https://en.wikipedia.org/wiki/Morris_worm)
-- [Google apparently backs off on WEI](https://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html)
-- [Free Speech Is in Trouble](https://www.natesilver.net/p/free-speech-is-in-trouble)
-- [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
-- [Apple Patent Shows GPU Dynamic Caching Has Been in Development for Years](https://www.tomshardware.com/software/macos/apple-patent-shows-gpu-dynamic-caching-has-been-in-development-for-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
