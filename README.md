@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shipwreck Is Everywhere &lpar;2017&rpar;](https://hudsonreview.com/2017/10/shipwreck-is-everywhere/)
-- [The business of extracting knowledge from academic publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
-- [Starlink satellites are &#39;leaking&#39; signals that interfere with radio telescopes](https://theconversation.com/starlink-satellites-are-leaking-signals-that-interfere-with-our-most-sensitive-radio-telescopes-215250)
-- [Open Data Is Dead](https://databaseengineering.substack.com/p/open-data-is-dead)
-- [Wrangling Monotonic Systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
+- [Moon-forming impactor as a source of Earth&#39;s basal mantle anomalies](https://www.nature.com/articles/s41586-023-06589-1)
+- [A shortage of teachers for computer science classes in California](https://calmatters.org/education/k-12-education/2023/10/computer-science-classes/)
+- [Lemming Suicide Myth: Disney Film Faked Bogus Behavior](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=56)
+- [Mouse experiments reveal the brain-heart connections that cause fainting](https://www.nature.com/articles/d41586-023-03450-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
