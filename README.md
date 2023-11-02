@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mint is shutting down. Thoughts from Mint&#39;s first product manager](https://www.monarchmoney.com/blog/mint-shutting-down)
-- [How Big Data Carried Graph Theory into New Dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
+- [BillionToOne &lpar;YC S17&rpar; is hiring scientists and engineers to advance DNA testing](https://boards.greenhouse.io/billiontoone)
+- [In 1886, the US commissioned watercolor paintings of every known fruit &lpar;2019&rpar;](https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html)
+- [How big data carried graph theory into new dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
 - [ML Experiments Management with Git](https://github.com/iterative/dvc)
-- [Write PHP Code Within Next.js Components](https://github.com/bufferhead-code/nextjs-use-php)
-- [DoorDash manages high-availability CockroachDB clusters at scale](https://www.cockroachlabs.com/blog/doordash-cockroachdb-massive-scale/)
+- [21 Firms that will convert your classic into an EV](https://driving.ca/car-culture/vintage-collectible/21-firms-that-will-convert-your-classic-into-an-ev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
