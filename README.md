@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Biohacking Lite](http://karpathy.github.io/2020/06/11/biohacking-lite/)
-- [EU Digital Identity framework &lpar;eIDAS&rpar; another kind of chat control? – Mullvad](https://mullvad.net/en/blog/2023/11/2/eu-digital-identity-framework-eidas-another-kind-of-chat-control/)
-- [GitHub Engineering: When mTLS Is Done Wrong](https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/)
-- [App: Rak – 21st century grep / find / ack / ag / rg on steroids](https://github.com/lizmat/App-Rak)
-- [M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/)
+- [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
+- [Home Assistant 2023.11](https://www.home-assistant.io/blog/2023/11/01/release-202311/)
+- [Silicon Valley doesn&#39;t understand the concept of fun](https://www.fastcompany.com/90965361/why-did-the-metaverse-die-silicon-valley-doesnt-understand-fun)
+- [Biohacking Lite &lpar;2020&rpar;](http://karpathy.github.io/2020/06/11/biohacking-lite/)
+- [Experts criticise EU for certificate proposal that enables spying on HTTPS](https://alecmuffett.com/article/108139)
 <!-- BLOG-POST-LIST:END -->
 
 ---
