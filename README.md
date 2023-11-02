@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Toyota recalls nearly 1.9M RAV4s to fix batteries that can cause a fire](https://www.cnbc.com/2023/11/02/toyota-recalls-nearly-1point9-million-rav4s-to-fix-batteries-that-can-move-during-hard-turns-and-cause-a-fire.html)
-- [Generative AI: An Absolute Beginner’s Guide to LlamaIndex](https://www.singlestore.com/blog/generative-ai-a-guide-to-llamaindex/)
-- [Scarlett Johansson hits AI app with legal action for cloning her voice in an ad](https://www.theverge.com/2023/11/1/23942557/scarlett-johansson-ai-app-developers-lawsuit)
-- [The 8000th Busy Beaver number eludes ZF set theory &lpar;2016&rpar;](https://scottaaronson.blog/?p=2725)
-- [Ask HN: What podcasts do you listen to?](https://news.ycombinator.com/item?id=38113647)
+- [Starlink plans to launch texting service in 2024, voice/data in 2025](https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity)
+- [Starlink has achieved breakeven cash flow](https://twitter.com/elonmusk/status/1720098480037773658)
+- [Earth&#39;s blobs are remnants of an ancient planetary collision](https://news.asu.edu/20231101-asu-researchers-discover-earths-blobs-are-remnants-ancient-planetary-collision)
+- [Nokia sues Amazon, HP over video compression technology](https://www.streamtvinsider.com/video/nokia-sues-amazon-hp-over-video-compression-technology)
+- [Mint is shutting down, and it&#39;s pushing users toward Credit Karma](https://www.theverge.com/2023/11/2/23943254/mint-intuit-shutting-down-credit-karma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
