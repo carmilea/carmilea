@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ciro &lpar;YC S22&rpar; is hiring founding engineers to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs)
+- [Martin Fowler – Current thoughts on social media](https://martinfowler.com/articles/2023-social-media.html)
+- [Millions of Fruit flies will be dropped on Los Angeles](https://ktla.com/news/local-news/millions-of-fruit-flies-will-be-dumped-on-los-angeles/)
+- [Grammarly editor writing services are malfunctioning](https://status.grammarly.com/incidents/52qjsq1fcrr3)
 - [Starlink plans to launch texting service in 2024, voice/data in 2025](https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity)
-- [Starlink has achieved breakeven cash flow](https://twitter.com/elonmusk/status/1720098480037773658)
-- [Earth&#39;s blobs are remnants of an ancient planetary collision](https://news.asu.edu/20231101-asu-researchers-discover-earths-blobs-are-remnants-ancient-planetary-collision)
-- [Nokia sues Amazon, HP over video compression technology](https://www.streamtvinsider.com/video/nokia-sues-amazon-hp-over-video-compression-technology)
-- [Mint is shutting down, and it&#39;s pushing users toward Credit Karma](https://www.theverge.com/2023/11/2/23943254/mint-intuit-shutting-down-credit-karma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
