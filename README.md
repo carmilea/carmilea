@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
 - [Home Assistant 2023.11](https://www.home-assistant.io/blog/2023/11/01/release-202311/)
+- [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
 - [Silicon Valley doesn&#39;t understand the concept of fun](https://www.fastcompany.com/90965361/why-did-the-metaverse-die-silicon-valley-doesnt-understand-fun)
-- [Biohacking Lite &lpar;2020&rpar;](http://karpathy.github.io/2020/06/11/biohacking-lite/)
-- [Experts criticise EU for certificate proposal that enables spying on HTTPS](https://alecmuffett.com/article/108139)
+- [CubeSigner, a refreshingly secure key manager](https://cubist.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
