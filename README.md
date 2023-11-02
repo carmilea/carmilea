@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare API Down](https://www.cloudflarestatus.com/incidents/hm7491k53ppg)
+- [Zephr plans to create a &quot;networked GPS&quot; using cell phones](https://techcrunch.com/2023/11/02/zephr-emerges-from-stealth-with-3-5m-and-plans-to-create-a-networked-gps-using-cell-phones/)
+- [Google AI chief says there&#39;s a 50% chance we&#39;ll hit AGI in just 5 years](https://futurism.com/google-deepmind-agi-5-years)
 - [Activeloop &lpar;Database for AI – YC S18&rpar; Hiring Fullstack / ML Infrastructure Folks](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
 - [Electric mountain: the power station that shows the beauty of infrastructure](https://www.theguardian.com/news/2023/nov/02/beauty-of-infrastructure-electric-mountain-dinorwig-power-station-north-wales)
-- [EU data regulator bans personalised advertising on Facebook and Instagram](https://dig.watch/updates/eu-data-regulator-decided-to-ban-personalised-advetising-on-facebook-and-instagram)
-- [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
-- [Kotlin Multiplatform Is Stable and Production-Ready](https://blog.jetbrains.com/kotlin/2023/11/kotlin-multiplatform-stable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
