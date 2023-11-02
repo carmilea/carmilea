@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Could the UK&#39;s tides help wean us off fossil fuels?](https://www.bbc.com/news/science-environment-67170625)
+- [Activeloop &lpar;Database for AI – YC S18&rpar; Hiring Fullstack / ML Infrastructure Folks](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
+- [Electric mountain: the power station that shows the beauty of infrastructure](https://www.theguardian.com/news/2023/nov/02/beauty-of-infrastructure-electric-mountain-dinorwig-power-station-north-wales)
+- [EU data regulator bans personalised advertising on Facebook and Instagram](https://dig.watch/updates/eu-data-regulator-decided-to-ban-personalised-advetising-on-facebook-and-instagram)
 - [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
 - [Kotlin Multiplatform Is Stable and Production-Ready](https://blog.jetbrains.com/kotlin/2023/11/kotlin-multiplatform-stable/)
-- [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
-- [Home Assistant 2023.11](https://www.home-assistant.io/blog/2023/11/01/release-202311/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
