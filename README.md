@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi receives strategic investment from Arm](https://newsroom.arm.com/news/raspberry-pi-investment)
-- [Cloudflare API Down](https://www.cloudflarestatus.com/incidents/hm7491k53ppg)
-- [Zephr plans to create a &quot;networked GPS&quot; using cell phones](https://techcrunch.com/2023/11/02/zephr-emerges-from-stealth-with-3-5m-and-plans-to-create-a-networked-gps-using-cell-phones/)
-- [Activeloop &lpar;Database for AI – YC S18&rpar; Hiring Fullstack / ML Infrastructure Folks](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
-- [Electric mountain: the power station that shows the beauty of infrastructure](https://www.theguardian.com/news/2023/nov/02/beauty-of-infrastructure-electric-mountain-dinorwig-power-station-north-wales)
+- [Toyota recalls nearly 1.9M RAV4s to fix batteries that can cause a fire](https://www.cnbc.com/2023/11/02/toyota-recalls-nearly-1point9-million-rav4s-to-fix-batteries-that-can-move-during-hard-turns-and-cause-a-fire.html)
+- [Generative AI: An Absolute Beginner’s Guide to LlamaIndex](https://www.singlestore.com/blog/generative-ai-a-guide-to-llamaindex/)
+- [Scarlett Johansson hits AI app with legal action for cloning her voice in an ad](https://www.theverge.com/2023/11/1/23942557/scarlett-johansson-ai-app-developers-lawsuit)
+- [The 8000th Busy Beaver number eludes ZF set theory &lpar;2016&rpar;](https://scottaaronson.blog/?p=2725)
+- [Ask HN: What podcasts do you listen to?](https://news.ycombinator.com/item?id=38113647)
 <!-- BLOG-POST-LIST:END -->
 
 ---
