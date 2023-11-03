@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Defense of RAM](https://www.404media.co/in-defense-of-ram-on-apple-silicon/)
-- [Sam Bankman-Fried and the effective altruism delusion](https://www.newstatesman.com/long-reads/2023/11/sam-bankman-fried-crypto-king-effective-altruism)
+- [Laylo &lpar;YC S20&rpar; Is Hiring a Fullstack Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
+- [Sam Bankman-Fried Has a Savior Complex–and Maybe You Should Too &lpar;2022&rpar;](https://web.archive.org/web/20221027180943/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
+- [Diffractive Solar Sail](https://en.wikipedia.org/wiki/Diffractive_solar_sail)
+- [YouTuber Kitboga trapped 200 scammers in an Impossible Maze [video]](https://www.youtube.com/watch?v=dWzz3NeDz3E)
 - [GPT-4 Update: 32K Context Window Now for All Users](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/all_tools.md)
-- [Guide to Adopting AV1 Encoding](https://bitmovin.com/av1/av1-encoding-guide/)
-- [Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
