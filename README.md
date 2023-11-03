@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fuchsia F14](https://fuchsia.dev/whats-new/release-notes/f14)
 - [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs Across the Americas](https://up.codes/careers)
+- [BBC World Service Announces Emergency Radio Service for Gaza](https://www.bbc.com/mediacentre/2023/bbc-world-service-announces-emergency-radio-service-for-gaza)
 - [EU Tries to Slip in New Powers to Intercept Encrypted Web Traffic](https://www.techdirt.com/2023/11/03/eu-tries-to-slip-in-new-powers-to-intercept-encrypted-web-traffic-without-anyone-noticing/)
-- [Show HN: GitInsights – a weekly summary email of your team&#39;s GitHub activity](https://gitinsights.io/)
-- [Microsoft is retiring Visual Studio for Mac in 2024](https://visualstudio.microsoft.com/vs/mac/)
-- [Show HN: Chat with Garry Tan using RAG on his YouTube channel](https://gtan-chat.arguflow.ai/)
+- [Why Mozilla is betting on a decentralized social networking future](https://techcrunch.com/2023/11/03/why-mozilla-is-betting-on-a-decentralized-social-networking-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
