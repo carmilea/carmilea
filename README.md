@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube&#39;s Ad Blocker Crackdown Spurs Record Uninstalls](https://www.wired.com/story/youtubes-ad-blocker-crackdown-spurs-record-uninstalls/)
+- [UMBC team makes first-ever observation of a virus attaching to another virus](https://umbc.edu/stories/first-observed-virus-attaching-to-another/)
+- [The Anthropogenic Salt Cycle](https://www.nature.com/articles/s43017-023-00485-y)
+- [Rwanda joins Kenya to initiate visa-free travel for all Africans](https://africa.businessinsider.com/local/leaders/from-barriers-to-unity-rwanda-joins-kenya-to-initiate-visa-free-travel-for-all/hhqe29q)
 - [TrueVault &lpar;YC W14&rpar; Is Hiring Senior Software Engineers &lpar;US Remote&rpar;](https://careers.truevault.com/jobs/9007-senior-software-engineer?promotion=254-trackable-share-link-yc-jobs-post-nov-2023)
-- [Extinct Species in Audubon&#39;s Birds of North America](https://www.audubonart.com/extinct-species-in-audubons-birds-of-america/)
-- [Cloudflare outage – 24 hours now](https://news.ycombinator.com/item?id=38112515)
-- [How do you get APILayer to stop billing you?](https://news.ycombinator.com/item?id=38127264)
-- [92% of young people would sacrifice other perks for a 4-day workweek](https://www.cnbc.com/2023/11/01/what-young-people-would-give-up-for-a-4-day-workweek.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
