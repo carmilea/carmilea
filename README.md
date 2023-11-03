@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Toyota cuts 2023 EV sales forecast by nearly 40%](https://electrek.co/2023/11/01/toyota-drastically-cuts-ev-sales-forecast-amid-strategy-shift/)
-- [Show HN: Internet Speed Test](https://www.internetspeed.my)
-- [Email.radio – Free Email Domain for Licensed Ham Radio Operators](https://email.radio/)
-- [If You Plant Milkweed, They Will Come](https://www.nytimes.com/2023/10/25/realestate/gardening-milkweed-plants-butterflies.html)
-- [Audacity 3.4](https://www.audacityteam.org/blog/audacity-3-4/)
+- [Ken Mattingly, Astronaut Scrubbed from Apollo 13, Is Dead at 87](https://www.nytimes.com/2023/11/02/science/space/ken-mattingly-dead.html)
+- [Microsoft Security Bulletin MS98-010 – Critical &lpar;1998&rpar;](https://learn.microsoft.com/en-us/security-updates/securitybulletins/1998/ms98-010)
+- [TIL: man {gittutorial,giteveryday,gitglossary,gitworkflows}](https://news.ycombinator.com/item?id=38124845)
+- [An Open Letter to the FreeBSD Foundation, Core Team, Committers, and Community](https://docs.google.com/document/d/1h3UPx1MkMC-vg-kS7Di45xMG-UsEI7YU2MNVlRtYARM/edit)
+- [Translations of Russ Cox&#39;s Thompson NFA C Program to Rust](https://github.com/BurntSushi/rsc-regexp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
