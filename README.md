@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Research: Every 5min increase in CI equals 1hr longer time-to-merge](https://graphite.dev/blog/how-long-should-ci-take)
-- [No dogs were harmed in the making of this app](https://shmck.substack.com/p/no-dogs-were-harmed-in-the-making)
-- [UMBC team makes first-ever observation of a virus attaching to another virus](https://umbc.edu/stories/first-observed-virus-attaching-to-another/)
-- [The Anthropogenic Salt Cycle](https://www.nature.com/articles/s43017-023-00485-y)
-- [Rwanda joins Kenya to initiate visa-free travel for all Africans](https://africa.businessinsider.com/local/leaders/from-barriers-to-unity-rwanda-joins-kenya-to-initiate-visa-free-travel-for-all/hhqe29q)
+- [In Defense of RAM](https://www.404media.co/in-defense-of-ram-on-apple-silicon/)
+- [Sam Bankman-Fried and the effective altruism delusion](https://www.newstatesman.com/long-reads/2023/11/sam-bankman-fried-crypto-king-effective-altruism)
+- [GPT-4 Update: 32K Context Window Now for All Users](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/all_tools.md)
+- [Guide to Adopting AV1 Encoding](https://bitmovin.com/av1/av1-encoding-guide/)
+- [Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
