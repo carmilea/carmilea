@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [11% of the world’s billionaires have held or sought political office](https://news.northwestern.edu/stories/2023/10/11-of-the-worlds-billionaires-have-held-or-sought-political-office/)
+- [Federal Reserve is threatening to sue Bitcoin Mag over parody product](https://bitcoinmagazine.com/legal/federal-reserve-threatens-to-sue-bitcoin-magazine)
+- [Oxide Hiring Process](https://rfd.shared.oxide.computer/rfd/0003)
+- [DALL-E 3 Is So Good It&#39;s Stoking an Artist Revolt Against AI Scraping](https://www.bloomberg.com/news/articles/2023-11-03/dall-e-3-is-so-good-it-s-stoking-an-artist-revolt-against-ai-scraping)
 - [Laylo &lpar;YC S20&rpar; Is Hiring a Fullstack Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
-- [Sam Bankman-Fried Has a Savior Complex–and Maybe You Should Too &lpar;2022&rpar;](https://web.archive.org/web/20221027180943/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
-- [Diffractive Solar Sail](https://en.wikipedia.org/wiki/Diffractive_solar_sail)
-- [YouTuber Kitboga trapped 200 scammers in an Impossible Maze [video]](https://www.youtube.com/watch?v=dWzz3NeDz3E)
-- [GPT-4 Update: 32K Context Window Now for All Users](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/all_tools.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
