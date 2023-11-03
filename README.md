@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Coffee and Sugar Powered the Industrial Revolution and Shaped Modern Work](https://www.getchestr.com/post/sweet-stimulants-how-coffee-and-sugar-powered-the-industrial-revolution-and-shaped-modern-work)
-- [Podman Desktop v1.5 with Compose onboarding and enhanced Kubernetes pod data](https://podman-desktop.io/blog/podman-desktop-release-1.5)
-- [Wage suppression – not stagnation – is costing workers $10 an hour &lpar;2021&rpar;](https://thehill.com/opinion/finance/557798-wage-suppression-not-stagnation-is-costing-workers-10-an-hour/)
-- [We are investigating reports of degraded performance](https://www.githubstatus.com/incidents/xb30mby9fs5x)
-- [Appeals Court Denies Judicial Immunity to Judge Who Personally Searched Home](https://ij.org/press-release/victory-appeals-court-unanimously-denies-judicial-immunity-to-west-virginia-judge-who-personally-searched-home-ordered-items-removed/)
+- [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs Across the Americas](https://up.codes/careers)
+- [EU Tries to Slip in New Powers to Intercept Encrypted Web Traffic](https://www.techdirt.com/2023/11/03/eu-tries-to-slip-in-new-powers-to-intercept-encrypted-web-traffic-without-anyone-noticing/)
+- [Show HN: GitInsights – a weekly summary email of your team&#39;s GitHub activity](https://gitinsights.io/)
+- [Microsoft is retiring Visual Studio for Mac in 2024](https://visualstudio.microsoft.com/vs/mac/)
+- [Show HN: Chat with Garry Tan using RAG on his YouTube channel](https://gtan-chat.arguflow.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
