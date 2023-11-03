@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toyota cuts 2023 EV sales forecast by nearly 40%](https://electrek.co/2023/11/01/toyota-drastically-cuts-ev-sales-forecast-amid-strategy-shift/)
+- [Hearing &#39;bad grammar&#39; results in physical signs of stress – new study reveals](https://www.birmingham.ac.uk/news/2023/hearing-bad-grammar-results-in-physical-signs-of-stress-new-study-reveals)
+- [Sam Bankman-Fried: guilty on all charges](https://newsletter.mollywhite.net/p/sam-bankman-fried-guilty-on-all-charges)
 - [Show HN: Internet Speed Test](https://www.internetspeed.my)
 - [Email.radio – Free Email Domain for Licensed Ham Radio Operators](https://email.radio/)
-- [Audacity 3.4](https://www.audacityteam.org/blog/audacity-3-4/)
-- [Sam Bankman-Fried Convicted](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
-- [Google Abandons Web Environment Integrity API](https://www.theregister.com/2023/11/02/google_abandons_web_environment_integrity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
