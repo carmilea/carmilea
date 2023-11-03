@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Internet Speed Test](https://www.internetspeed.my)
+- [Email.radio – Free Email Domain for Licensed Ham Radio Operators](https://email.radio/)
 - [Audacity 3.4](https://www.audacityteam.org/blog/audacity-3-4/)
 - [Sam Bankman-Fried Convicted](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
 - [Google Abandons Web Environment Integrity API](https://www.theregister.com/2023/11/02/google_abandons_web_environment_integrity/)
-- [Hyphens, minus, and dashes in Debian man pages](https://lwn.net/Articles/947941/)
-- [BillionToOne &lpar;YC S17&rpar; is hiring scientists and engineers to advance DNA testing](https://boards.greenhouse.io/billiontoone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
