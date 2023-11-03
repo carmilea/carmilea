@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple: Android is a tracking device [pdf]](https://www.justice.gov/d9/2023-11/417532.pdf)
 - [Sam Bankman-Fried and other FTX staff allegedly had &#39;Wirefraud&#39; chat group](https://www.theguardian.com/business/2022/dec/13/sam-bankman-fried-ftx-signal-wirefraud-chat-alameda)
 - [Java JEP 461: Stream Gatherers](https://openjdk.org/jeps/461)
 - [Charm has raised $6M in funding](https://charm.sh/blog/the-next-generation/)
 - [Enable ARMv9 Memory Tagging Extension &lpar;MTE&rpar; on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
-- [The Binder Linux driver is being rewritten in Rust](https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
