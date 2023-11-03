@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Cameras Took over One Small American Town. Now They&#39;re Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/)
 - [Ken Mattingly, Astronaut Scrubbed from Apollo 13, Is Dead at 87](https://www.nytimes.com/2023/11/02/science/space/ken-mattingly-dead.html)
 - [Microsoft Security Bulletin MS98-010 – Critical &lpar;1998&rpar;](https://learn.microsoft.com/en-us/security-updates/securitybulletins/1998/ms98-010)
 - [TIL: man {gittutorial,giteveryday,gitglossary,gitworkflows}](https://news.ycombinator.com/item?id=38124845)
 - [An Open Letter to the FreeBSD Foundation, Core Team, Committers, and Community](https://docs.google.com/document/d/1h3UPx1MkMC-vg-kS7Di45xMG-UsEI7YU2MNVlRtYARM/edit)
-- [Translations of Russ Cox&#39;s Thompson NFA C Program to Rust](https://github.com/BurntSushi/rsc-regexp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
