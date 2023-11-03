@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Audacity 3.4 – New Musical Features](https://www.audacityteam.org/blog/audacity-3-4/)
-- [Sam Bankman-Fried found guilty on all charges](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
+- [Audacity 3.4](https://www.audacityteam.org/blog/audacity-3-4/)
+- [Sam Bankman-Fried Convicted](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
+- [Google Abandons Web Environment Integrity API](https://www.theregister.com/2023/11/02/google_abandons_web_environment_integrity/)
 - [Hyphens, minus, and dashes in Debian man pages](https://lwn.net/Articles/947941/)
 - [BillionToOne &lpar;YC S17&rpar; is hiring scientists and engineers to advance DNA testing](https://boards.greenhouse.io/billiontoone)
-- [In 1886, the US commissioned watercolor paintings of every known fruit &lpar;2019&rpar;](https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
