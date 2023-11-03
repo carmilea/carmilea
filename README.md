@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Toyota cuts 2023 EV sales forecast by nearly 40%](https://electrek.co/2023/11/01/toyota-drastically-cuts-ev-sales-forecast-amid-strategy-shift/)
-- [Hearing &#39;bad grammar&#39; results in physical signs of stress – new study reveals](https://www.birmingham.ac.uk/news/2023/hearing-bad-grammar-results-in-physical-signs-of-stress-new-study-reveals)
-- [Sam Bankman-Fried: guilty on all charges](https://newsletter.mollywhite.net/p/sam-bankman-fried-guilty-on-all-charges)
 - [Show HN: Internet Speed Test](https://www.internetspeed.my)
 - [Email.radio – Free Email Domain for Licensed Ham Radio Operators](https://email.radio/)
+- [If You Plant Milkweed, They Will Come](https://www.nytimes.com/2023/10/25/realestate/gardening-milkweed-plants-butterflies.html)
+- [Audacity 3.4](https://www.audacityteam.org/blog/audacity-3-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
