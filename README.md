@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [TrueVault &lpar;YC W14&rpar; Is Hiring Senior Software Engineers &lpar;US Remote&rpar;](https://careers.truevault.com/jobs/9007-senior-software-engineer?promotion=254-trackable-share-link-yc-jobs-post-nov-2023)
+- [Extinct Species in Audubon&#39;s Birds of North America](https://www.audubonart.com/extinct-species-in-audubons-birds-of-america/)
+- [Cloudflare outage – 24 hours now](https://news.ycombinator.com/item?id=38112515)
 - [How do you get APILayer to stop billing you?](https://news.ycombinator.com/item?id=38127264)
-- [HTTP 999 – the unofficial status code](https://http.dev/999)
-- [Proxima Fusion looks to take stellarators commercial](https://www.theengineer.co.uk/content/news/proxima-fusion-looks-to-take-stellarators-commercial/)
-- [AMD Unveils Ryzen Mobile 7040U Series with Zen 4c Efficiency Cores](https://www.anandtech.com/show/21111/amd-unveils-ryzen-7040u-series-with-zen-4c-smaller-cores-bigger-efficiency)
+- [92% of young people would sacrifice other perks for a 4-day workweek](https://www.cnbc.com/2023/11/01/what-young-people-would-give-up-for-a-4-day-workweek.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
