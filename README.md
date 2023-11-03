@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tiny device is sending updated iPhones into a never-ending DoS loop](https://arstechnica.com/security/2023/11/flipper-zero-gadget-that-doses-iphones-takes-once-esoteric-attacks-mainstream/)
+- [Sam Bankman-Fried and other FTX staff allegedly had &#39;Wirefraud&#39; chat group](https://www.theguardian.com/business/2022/dec/13/sam-bankman-fried-ftx-signal-wirefraud-chat-alameda)
+- [Java JEP 461: Stream Gatherers](https://openjdk.org/jeps/461)
+- [Charm has raised $6M in funding](https://charm.sh/blog/the-next-generation/)
 - [Enable ARMv9 Memory Tagging Extension &lpar;MTE&rpar; on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
 - [The Binder Linux driver is being rewritten in Rust](https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com/)
-- [Bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
-- [AI Cameras Took over One Small American Town. Now They&#39;re Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
