@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [11% of the world’s billionaires have held or sought political office](https://news.northwestern.edu/stories/2023/10/11-of-the-worlds-billionaires-have-held-or-sought-political-office/)
+- [GitHub Giving 404&#39;s for Everything](https://news.ycombinator.com/item?id=38133356)
+- [GitHub Is Down](https://news.ycombinator.com/item?id=38133287)
+- [Ploopy Adept is an open source, customizable trackball that sells for about $60](https://liliputing.com/ploopy-adept-is-an-open-source-customizable-trackball-that-sells-for-about-60/)
 - [Federal Reserve is threatening to sue Bitcoin Mag over parody product](https://bitcoinmagazine.com/legal/federal-reserve-threatens-to-sue-bitcoin-magazine)
-- [Oxide Hiring Process](https://rfd.shared.oxide.computer/rfd/0003)
-- [DALL-E 3 Is So Good It&#39;s Stoking an Artist Revolt Against AI Scraping](https://www.bloomberg.com/news/articles/2023-11-03/dall-e-3-is-so-good-it-s-stoking-an-artist-revolt-against-ai-scraping)
 - [Laylo &lpar;YC S20&rpar; Is Hiring a Fullstack Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
