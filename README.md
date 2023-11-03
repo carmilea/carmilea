@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Giving 404&#39;s for Everything](https://news.ycombinator.com/item?id=38133356)
-- [GitHub Is Down](https://news.ycombinator.com/item?id=38133287)
-- [Ploopy Adept is an open source, customizable trackball that sells for about $60](https://liliputing.com/ploopy-adept-is-an-open-source-customizable-trackball-that-sells-for-about-60/)
-- [Federal Reserve is threatening to sue Bitcoin Mag over parody product](https://bitcoinmagazine.com/legal/federal-reserve-threatens-to-sue-bitcoin-magazine)
-- [Laylo &lpar;YC S20&rpar; Is Hiring a Fullstack Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
+- [How Coffee and Sugar Powered the Industrial Revolution and Shaped Modern Work](https://www.getchestr.com/post/sweet-stimulants-how-coffee-and-sugar-powered-the-industrial-revolution-and-shaped-modern-work)
+- [Podman Desktop v1.5 with Compose onboarding and enhanced Kubernetes pod data](https://podman-desktop.io/blog/podman-desktop-release-1.5)
+- [Wage suppression – not stagnation – is costing workers $10 an hour &lpar;2021&rpar;](https://thehill.com/opinion/finance/557798-wage-suppression-not-stagnation-is-costing-workers-10-an-hour/)
+- [We are investigating reports of degraded performance](https://www.githubstatus.com/incidents/xb30mby9fs5x)
+- [Appeals Court Denies Judicial Immunity to Judge Who Personally Searched Home](https://ij.org/press-release/victory-appeals-court-unanimously-denies-judicial-immunity-to-west-virginia-judge-who-personally-searched-home-ordered-items-removed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
