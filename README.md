@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple: Android is a tracking device [pdf]](https://www.justice.gov/d9/2023-11/417532.pdf)
-- [Sam Bankman-Fried and other FTX staff allegedly had &#39;Wirefraud&#39; chat group](https://www.theguardian.com/business/2022/dec/13/sam-bankman-fried-ftx-signal-wirefraud-chat-alameda)
-- [Java JEP 461: Stream Gatherers](https://openjdk.org/jeps/461)
-- [Charm has raised $6M in funding](https://charm.sh/blog/the-next-generation/)
-- [Enable ARMv9 Memory Tagging Extension &lpar;MTE&rpar; on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
+- [TrueVault &lpar;YC W14&rpar; Is Hiring Senior Software Engineers &lpar;US Remote&rpar;](https://careers.truevault.com/jobs/9007-senior-software-engineer?promotion=254-trackable-share-link-yc-jobs-post-nov-2023)
+- [How do you get APILayer to stop billing you?](https://news.ycombinator.com/item?id=38127264)
+- [HTTP 999 – the unofficial status code](https://http.dev/999)
+- [Proxima Fusion looks to take stellarators commercial](https://www.theengineer.co.uk/content/news/proxima-fusion-looks-to-take-stellarators-commercial/)
+- [AMD Unveils Ryzen Mobile 7040U Series with Zen 4c Efficiency Cores](https://www.anandtech.com/show/21111/amd-unveils-ryzen-7040u-series-with-zen-4c-smaller-cores-bigger-efficiency)
 <!-- BLOG-POST-LIST:END -->
 
 ---
