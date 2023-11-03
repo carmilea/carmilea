@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Enable MTE on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
+- [The Binder Linux driver is being rewritten in Rust](https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com/)
+- [Bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 - [AI Cameras Took over One Small American Town. Now They&#39;re Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/)
-- [Ken Mattingly, Astronaut Scrubbed from Apollo 13, Is Dead at 87](https://www.nytimes.com/2023/11/02/science/space/ken-mattingly-dead.html)
-- [Microsoft Security Bulletin MS98-010 – Critical &lpar;1998&rpar;](https://learn.microsoft.com/en-us/security-updates/securitybulletins/1998/ms98-010)
-- [TIL: man {gittutorial,giteveryday,gitglossary,gitworkflows}](https://news.ycombinator.com/item?id=38124845)
-- [An Open Letter to the FreeBSD Foundation, Core Team, Committers, and Community](https://docs.google.com/document/d/1h3UPx1MkMC-vg-kS7Di45xMG-UsEI7YU2MNVlRtYARM/edit)
+- [Looks like Google just abandoned its &quot;Web Environment Integrity&quot; API plans](https://old.reddit.com/r/programming/comments/17me5dq/looks_like_google_has_just_abandoned_its_terrible/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
