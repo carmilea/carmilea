@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Surround sound test files for every audio format](https://drive.google.com/drive/folders/1JxmeedtAtgmoafXv9rroiDOS2vEX7N4b)
+- [It&#39;s almost showtime for SpaceX&#39;s Starship rocket](https://arstechnica.com/space/2023/11/its-almost-showtime-for-spacexs-massive-starship-rocket/)
+- [First Handset with MTE on the Market](https://googleprojectzero.blogspot.com/2023/11/first-handset-with-mte-on-market.html)
 - [Fuchsia F14](https://fuchsia.dev/whats-new/release-notes/f14)
-- [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs Across the Americas](https://up.codes/careers)
-- [BBC World Service Announces Emergency Radio Service for Gaza](https://www.bbc.com/mediacentre/2023/bbc-world-service-announces-emergency-radio-service-for-gaza)
-- [EU Tries to Slip in New Powers to Intercept Encrypted Web Traffic](https://www.techdirt.com/2023/11/03/eu-tries-to-slip-in-new-powers-to-intercept-encrypted-web-traffic-without-anyone-noticing/)
-- [Why Mozilla is betting on a decentralized social networking future](https://techcrunch.com/2023/11/03/why-mozilla-is-betting-on-a-decentralized-social-networking-future/)
+- [Wooden Game Boy](https://there.oughta.be/a/wooden-game-boy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
