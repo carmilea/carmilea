@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Council adopts new law for more recharging and refuelling stations across Europe](https://www.consilium.europa.eu/en/press/press-releases/2023/07/25/alternative-fuels-infrastructure-council-adopts-new-law-for-more-recharging-and-refuelling-stations-across-europe/)
+- [Emerge &lpar;YC W21&rpar; is hiring a Senior Android Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+- [Eleven year old honor roll student put in solitary](https://www.texasobserver.org/why-was-this-11-year-old-honor-roll-student-put-in-solitary/)
 - [GPS Receiver Circuit Board Design](https://mastodon.sdf.org/@keelan/111349948124943603)
-- [1985 Austrian diethylene glycol wine scandal](https://en.wikipedia.org/wiki/1985_Austrian_diethylene_glycol_wine_scandal)
-- [Is there anywhere in the world someone can just live for free?](https://old.reddit.com/r/NoStupidQuestions/comments/17mvukd/is_there_anywhere_in_the_world_someone_can_just/)
+- [Hinterkaifeck Murders](https://en.wikipedia.org/wiki/Hinterkaifeck_murders)
 - [How to stop turmeric from killing people](https://www.economist.com/leaders/2023/11/02/how-to-stop-turmeric-from-killing-people)
 <!-- BLOG-POST-LIST:END -->
 
