@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to stop turmeric from killing people](https://www.economist.com/leaders/2023/11/02/how-to-stop-turmeric-from-killing-people)
 - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
+- [HBO CEO Confesses to Trolling Critics with Fake Tweets: Rolling Stone](https://www.rollingstone.com/tv-movies/tv-movie-news/hbo-ceo-casey-bloys-confesses-trolling-critics-fake-twitter-accounts-dumb-idea-1234868710/)
 - [Mozilla tells extension developers to get ready to finally go mobile](https://www.theregister.com/2023/11/03/mozilla_android_extensions/)
 - [Maersk to cut 10k jobs as shipping demand drops](https://www.reuters.com/business/shipping-giant-maersk-q3-above-expectation-sees-fy-lower-end-range-2023-11-03/)
-- [Aircraft seat crushed mobile phone battery, caused a fire on passenger plane](https://avsax.com/news/how-an-aircraft-seat-crushed-a-mobile-phone-and-caused-a-lithium-battery-fire-on-board-a-british-airways-passenger-plane)
 <!-- BLOG-POST-LIST:END -->
 
 ---
