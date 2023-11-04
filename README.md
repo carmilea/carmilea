@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
+- [Cats Make Nearly 300 Different Facial Expressions](https://www.smithsonianmag.com/smart-news/cats-make-nearly-300-different-facial-expressions-180983185/)
+- [Stars Have Vanished Without a Trace. Where Did They Go?](https://www.iflscience.com/hundreds-of-stars-have-vanished-without-a-trace-where-did-they-go-71397)
+- [Interview with a Gladiatrix](https://antigonejournal.com/2023/10/modern-roman-gladiatrix/)
 - [Tesorio Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-- [The cottage industry of YouTube obituary pirates](https://www.wired.com/story/youtube-obituary-pirates/)
-- [Ask HN: Making a better world, how important is that to you?](https://news.ycombinator.com/item?id=38144709)
-- [Lapham&#39;s Quarterly Is on Hiatus](https://www.laphamsquarterly.org/roundtable/hiatus)
-- [Bevy 0.12](https://bevyengine.org/news/bevy-0-12/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
