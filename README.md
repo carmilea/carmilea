@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Emerge &lpar;YC W21&rpar; is hiring a Senior Android Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-android-engineer)
-- [Eleven year old honor roll student put in solitary](https://www.texasobserver.org/why-was-this-11-year-old-honor-roll-student-put-in-solitary/)
-- [GPS Receiver Circuit Board Design](https://mastodon.sdf.org/@keelan/111349948124943603)
+- [A 6 channel GPS receiver from 1993](https://mastodon.sdf.org/@keelan/111349948124943603)
 - [Hinterkaifeck Murders](https://en.wikipedia.org/wiki/Hinterkaifeck_murders)
-- [How to stop turmeric from killing people](https://www.economist.com/leaders/2023/11/02/how-to-stop-turmeric-from-killing-people)
+- [Is there anywhere in the world someone can just live for free?](https://reddit.com/r/NoStupidQuestions/comments/17mvukd/is_there_anywhere_in_the_world_someone_can_just/)
+- [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
