@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Historic strike called off after Klarna agrees collective bargaining agreement](https://www.thelocal.se/20231104/historic-strike-called-off-after-klarna-signs-collective-bargaining-agreement)
+- [The Great Inflation](https://www.federalreservehistory.org/essays/great-inflation)
 - [Othello Is Solved](https://arxiv.org/abs/2310.19387)
-- [Monsanto hit with $175M verdict against Roundup](https://www.ehn.org/roundup-lawsuit-2666088361.html)
+- [Always paste without formatting on macOS](https://scottswezey.com/always-paste-without-formatting-macos/)
 - [In KDE, the Desktop Cube is back](https://www.phoronix.com/news/KDE-Wayland-Color-Mgmt)
-- [Starfish bodies are just heads, new research says – CNN](https://www.cnn.com/2023/11/02/world/starfish-head-body-plan-scn/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
