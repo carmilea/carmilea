@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Secretive Industry Devouring the U.S. Economy](https://www-stage.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/)
 - [New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
 - [Cats Make Nearly 300 Different Facial Expressions](https://www.smithsonianmag.com/smart-news/cats-make-nearly-300-different-facial-expressions-180983185/)
 - [Stars Have Vanished Without a Trace. Where Did They Go?](https://www.iflscience.com/hundreds-of-stars-have-vanished-without-a-trace-where-did-they-go-71397)
-- [Interview with a Gladiatrix](https://antigonejournal.com/2023/10/modern-roman-gladiatrix/)
-- [Tesorio Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+- [Welcome to the New GamersNexus Website v5.0: A Message](https://gamersnexus.net/gn-extras/welcome-new-gamersnexus-website-v50-message)
 <!-- BLOG-POST-LIST:END -->
 
 ---
