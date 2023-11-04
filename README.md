@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+- [The cottage industry of YouTube obituary pirates](https://www.wired.com/story/youtube-obituary-pirates/)
+- [Ask HN: Making a better world, how important is that to you?](https://news.ycombinator.com/item?id=38144709)
+- [Lapham&#39;s Quarterly Is on Hiatus](https://www.laphamsquarterly.org/roundtable/hiatus)
 - [Bevy 0.12](https://bevyengine.org/news/bevy-0-12/)
-- [Discord will switch to temporary file links to block malware delivery](https://www.bleepingcomputer.com/news/security/discord-will-switch-to-temporary-file-links-to-block-malware-delivery/)
-- [C++ Sudoku Solver by Singapore PM Lee Hsien Loong](https://twitter.com/adad8m/status/1720822885496049863)
-- [AI Company Plans to Run Clusters of 10k Nvidia H100 GPUs in International Waters](https://www.extremetech.com/computing/ai-company-plans-to-run-clusters-of-10000-nvidia-h100-gpus-in-international)
-- [AI and Open Source in 2023](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
