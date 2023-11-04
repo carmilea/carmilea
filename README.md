@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Surround sound test files for every audio format](https://drive.google.com/drive/folders/1JxmeedtAtgmoafXv9rroiDOS2vEX7N4b)
-- [It&#39;s almost showtime for SpaceX&#39;s Starship rocket](https://arstechnica.com/space/2023/11/its-almost-showtime-for-spacexs-massive-starship-rocket/)
-- [First Handset with MTE on the Market](https://googleprojectzero.blogspot.com/2023/11/first-handset-with-mte-on-market.html)
-- [Fuchsia F14](https://fuchsia.dev/whats-new/release-notes/f14)
-- [Wooden Game Boy](https://there.oughta.be/a/wooden-game-boy)
+- [The U.S. economy shrugged off the tech bust](https://www.noahpinion.blog/p/the-us-economy-shrugged-off-the-tech)
+- [Has the U.S. economy reached a turning point?](https://www.fidelity.com/learning-center/trading-investing/markets-sectors/economy-outlook-turning-point)
+- [Uranium Demand Hits Decade High as Nuclear Renaissance Gains Traction](https://oilprice.com/The-Environment/Global-Warming/Uranium-Demand-Hits-Decade-High-As-Nuclear-Renaissance-Gains-Traction.html)
+- [Apple claims to have three distinct web browsers in the EU complaint](https://twitter.com/OpenWebAdvocacy/status/1720238162310758466)
+- [BBS Still Exist](https://www.telnetbbsguide.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
