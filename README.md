@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
+- [CPU-Z&#39;s Inadequate Benchmark](https://chipsandcheese.com/2023/11/03/cpu-zs-inadequate-benchmark/)
 - [Uranium Demand Hits Decade High as Nuclear Renaissance Gains Traction](https://oilprice.com/The-Environment/Global-Warming/Uranium-Demand-Hits-Decade-High-As-Nuclear-Renaissance-Gains-Traction.html)
 - [Portugal. The Man – Official Website Is a Google Sheets Document](https://www.portugaltheman.com/?frontpage=true)
-- [Apple claims to have three distinct web browsers in the EU complaint](https://twitter.com/OpenWebAdvocacy/status/1720238162310758466)
 - [BBS Still Exist](https://www.telnetbbsguide.com/)
-- [Bayer hit with $332M judgement in Roundup cancer trial](https://fortune.com/2023/11/03/bayer-332-million-judgement-trial-man-cancer-decades-monsanto-roundup-weedkiller/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
