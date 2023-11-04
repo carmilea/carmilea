@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenELA releases redhat source code on github](https://github.com/orgs/openela-main/repositories)
 - [After decades of dreams, a commercial spaceplane is almost ready to fly](https://arstechnica.com/space/2023/11/after-decades-of-dreams-a-commercial-spaceplane-is-almost-ready-to-fly/)
 - [Software that supports your body should always respect your freedom](https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom)
 - [Offshore wind has a cable problem](https://www.semafor.com/article/11/03/2023/offshore-wind-has-a-cable-problem)
 - [Hightouch &lpar;YC S19&rpar; Is Hiring](https://news.ycombinator.com/item?id=38142856)
-- [Ask HN: How would French police locate suspects by tapping their devices?](https://news.ycombinator.com/item?id=38142782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
