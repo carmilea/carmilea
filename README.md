@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Historic strike called off after Klarna agrees collective bargaining agreement](https://www.thelocal.se/20231104/historic-strike-called-off-after-klarna-signs-collective-bargaining-agreement)
-- [The Great Inflation](https://www.federalreservehistory.org/essays/great-inflation)
-- [Othello Is Solved](https://arxiv.org/abs/2310.19387)
-- [Always paste without formatting on macOS](https://scottswezey.com/always-paste-without-formatting-macos/)
-- [In KDE, the Desktop Cube is back](https://www.phoronix.com/news/KDE-Wayland-Color-Mgmt)
+- [Offshore Wind Has a Cable Problem](https://www.semafor.com/article/11/03/2023/offshore-wind-has-a-cable-problem)
+- [Hightouch &lpar;YC S19&rpar; Is Hiring](https://news.ycombinator.com/item?id=38142856)
+- [F*** Paywalls](https://1ft.io/)
+- [Ask HN: How would French police locate suspects by tapping their devices?](https://news.ycombinator.com/item?id=38142782)
+- [Searching for hidden silicon art on a microchip](https://twitter.com/microscopicture/status/1720837951238636018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
