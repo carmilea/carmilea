@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Emerge &lpar;YC W21&rpar; is hiring a Senior Android Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-android-engineer)
-- [A 6 channel GPS receiver from 1993](https://mastodon.sdf.org/@keelan/111349948124943603)
-- [Hinterkaifeck Murders](https://en.wikipedia.org/wiki/Hinterkaifeck_murders)
-- [Is there anywhere in the world someone can just live for free?](https://reddit.com/r/NoStupidQuestions/comments/17mvukd/is_there_anywhere_in_the_world_someone_can_just/)
-- [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
+- [Starfish bodies are just heads, new research says – CNN](https://www.cnn.com/2023/11/02/world/starfish-head-body-plan-scn/index.html)
+- [Toward a TypeScript for C++&quot;](https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/)
+- [Parents are teaming up to delay their children&#39;s first cell phone](https://english.elpais.com/society/2023-11-03/a-12-year-old-is-not-ready-why-thousands-of-parents-are-teaming-up-to-delay-their-childrens-first-cell-phone-use.html)
+- [Model says her face was edited with AI to look white: &#39;It&#39;s dehumanizing&#39;](https://www.theguardian.com/fashion/2023/nov/04/fashion-model-ai-image-tiktok)
+- [When the natural gas industry used the playbook from Big Tobacco](https://arstechnica.com/health/2023/11/when-the-natural-gas-industry-used-the-playbook-from-big-tobacco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
