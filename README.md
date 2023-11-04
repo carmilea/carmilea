@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The U.S. economy shrugged off the tech bust](https://www.noahpinion.blog/p/the-us-economy-shrugged-off-the-tech)
-- [Has the U.S. economy reached a turning point?](https://www.fidelity.com/learning-center/trading-investing/markets-sectors/economy-outlook-turning-point)
 - [Uranium Demand Hits Decade High as Nuclear Renaissance Gains Traction](https://oilprice.com/The-Environment/Global-Warming/Uranium-Demand-Hits-Decade-High-As-Nuclear-Renaissance-Gains-Traction.html)
+- [Portugal. The Man – Official Website Is a Google Sheets Document](https://www.portugaltheman.com/?frontpage=true)
 - [Apple claims to have three distinct web browsers in the EU complaint](https://twitter.com/OpenWebAdvocacy/status/1720238162310758466)
 - [BBS Still Exist](https://www.telnetbbsguide.com/)
+- [Bayer hit with $332M judgement in Roundup cancer trial](https://fortune.com/2023/11/03/bayer-332-million-judgement-trial-man-cancer-decades-monsanto-roundup-weedkiller/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
