@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenELA releases redhat source code on github](https://github.com/orgs/openela-main/repositories)
-- [After decades of dreams, a commercial spaceplane is almost ready to fly](https://arstechnica.com/space/2023/11/after-decades-of-dreams-a-commercial-spaceplane-is-almost-ready-to-fly/)
-- [Software that supports your body should always respect your freedom](https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom)
-- [Offshore wind has a cable problem](https://www.semafor.com/article/11/03/2023/offshore-wind-has-a-cable-problem)
-- [Hightouch &lpar;YC S19&rpar; Is Hiring](https://news.ycombinator.com/item?id=38142856)
+- [Bevy 0.12](https://bevyengine.org/news/bevy-0-12/)
+- [Discord will switch to temporary file links to block malware delivery](https://www.bleepingcomputer.com/news/security/discord-will-switch-to-temporary-file-links-to-block-malware-delivery/)
+- [C++ Sudoku Solver by Singapore PM Lee Hsien Loong](https://twitter.com/adad8m/status/1720822885496049863)
+- [AI Company Plans to Run Clusters of 10k Nvidia H100 GPUs in International Waters](https://www.extremetech.com/computing/ai-company-plans-to-run-clusters-of-10000-nvidia-h100-gpus-in-international)
+- [AI and Open Source in 2023](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
