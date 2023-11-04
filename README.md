@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Council adopts new law for more recharging and refuelling stations across Europe](https://www.consilium.europa.eu/en/press/press-releases/2023/07/25/alternative-fuels-infrastructure-council-adopts-new-law-for-more-recharging-and-refuelling-stations-across-europe/)
+- [GPS Receiver Circuit Board Design](https://mastodon.sdf.org/@keelan/111349948124943603)
+- [1985 Austrian diethylene glycol wine scandal](https://en.wikipedia.org/wiki/1985_Austrian_diethylene_glycol_wine_scandal)
+- [Is there anywhere in the world someone can just live for free?](https://old.reddit.com/r/NoStupidQuestions/comments/17mvukd/is_there_anywhere_in_the_world_someone_can_just/)
 - [How to stop turmeric from killing people](https://www.economist.com/leaders/2023/11/02/how-to-stop-turmeric-from-killing-people)
-- [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
-- [HBO CEO Confesses to Trolling Critics with Fake Tweets: Rolling Stone](https://www.rollingstone.com/tv-movies/tv-movie-news/hbo-ceo-casey-bloys-confesses-trolling-critics-fake-twitter-accounts-dumb-idea-1234868710/)
-- [Mozilla tells extension developers to get ready to finally go mobile](https://www.theregister.com/2023/11/03/mozilla_android_extensions/)
-- [Maersk to cut 10k jobs as shipping demand drops](https://www.reuters.com/business/shipping-giant-maersk-q3-above-expectation-sees-fy-lower-end-range-2023-11-03/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
