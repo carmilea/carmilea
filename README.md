@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Historic strike called off after Klarna agrees collective bargaining agreement](https://www.thelocal.se/20231104/historic-strike-called-off-after-klarna-signs-collective-bargaining-agreement)
+- [Othello Is Solved](https://arxiv.org/abs/2310.19387)
+- [Monsanto hit with $175M verdict against Roundup](https://www.ehn.org/roundup-lawsuit-2666088361.html)
+- [In KDE, the Desktop Cube is back](https://www.phoronix.com/news/KDE-Wayland-Color-Mgmt)
 - [Starfish bodies are just heads, new research says – CNN](https://www.cnn.com/2023/11/02/world/starfish-head-body-plan-scn/index.html)
-- [Toward a TypeScript for C++&quot;](https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/)
-- [Parents are teaming up to delay their children&#39;s first cell phone](https://english.elpais.com/society/2023-11-03/a-12-year-old-is-not-ready-why-thousands-of-parents-are-teaming-up-to-delay-their-childrens-first-cell-phone-use.html)
-- [Model says her face was edited with AI to look white: &#39;It&#39;s dehumanizing&#39;](https://www.theguardian.com/fashion/2023/nov/04/fashion-model-ai-image-tiktok)
-- [When the natural gas industry used the playbook from Big Tobacco](https://arstechnica.com/health/2023/11/when-the-natural-gas-industry-used-the-playbook-from-big-tobacco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
