@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Right turn on red? With pedestrian deaths rising, US cities are considering bans](https://apnews.com/article/red-light-turn-pedestrian-bicyclist-deaths-7f5bdee9c7b3f4cbf005f1844f486123)
 - [Max is taking 4K away from its legacy ad-free subscribers](https://www.theverge.com/2023/11/2/23943859/max-4k-hbo-max-ad-free-subscribers)
 - [Topic: Discord Stealer](https://github.com/topics/discord-stealer)
 - [Shadows Edge Software](https://www.shadowsedge.mil/What-We-Do/)
 - [SBF Is Headed to Prison but FTX Will Haunt the Crypto Community for Years](https://gizmodo.com/ftx-fbi-sam-bankman-fried-cryptocurrency-data-1850990825)
-- [Sam Bankman-Fried might not be the last crypto criminal](https://www.theverge.com/2023/11/4/23945602/sam-bankman-fried-guilty-verdict-ftx-crypto-industry-impact)
 <!-- BLOG-POST-LIST:END -->
 
 ---
