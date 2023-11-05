@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple hunter Tom Brown finds and saves rare Apple varieties](https://www.washingtonpost.com/lifestyle/2023/11/04/apple-hunter-tom-brown/)
+- [Developing AI models or giant GPU clusters? Uncle Sam would like a word](https://www.theregister.com/2023/11/05/biden_ai_reporting_thresholds/)
+- [Apple hunter Tom Brown finds and saves rare apple varieties](https://www.washingtonpost.com/lifestyle/2023/11/04/apple-hunter-tom-brown/)
 - [Website is hosted on ESP32 &lpar;$3 chip&rpar;](https://esp.khalsalabs.com)
+- [W3C Community Group Draft Report – WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
 - [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
-- [See the History of a Method with Git log -L](https://calebhearth.com/git-method-history)
-- [Brits make Amazon, Meta stop using third-party data to undercut rivals](https://www.theregister.com/2023/11/04/amazon_meta_cma/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
