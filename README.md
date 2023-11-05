@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel 80386, a Revolutionary CPU](https://www.xtof.info/intel80386.html)
+- [Silicon Valley is piling in to the business of snooping](https://www.economist.com/business/2023/11/05/silicon-valley-is-piling-in-to-the-business-of-snooping)
 - [Big landlords are colluding to raise rents, D.C. lawsuit alleges](https://www.axios.com/2023/11/02/dc-housing-rent-antitrust-lawsuit)
 - [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
 - [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
-- [Automata: The Extraordinary &quot;Robots&quot; Designed Hundreds of Years Ago [video]](https://www.youtube.com/watch?v=6Nt7xLAfEPs)
-- [Test browser for web tracking – EFF](https://coveryourtracks.eff.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
