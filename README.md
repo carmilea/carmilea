@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
+- [Brits make Amazon, Meta stop using third-party data to undercut rivals](https://www.theregister.com/2023/11/04/amazon_meta_cma/)
+- [Sam Bankman-Fried is a feature, not a bug](https://joanwestenberg.com/blog/sam-bankman-fried-is-a-feature-not-a-bug)
 - [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring](https://news.ycombinator.com/item?id=38152963)
-- [Montreal Built a Blueprint for Bargain Rapid Transit at C$119M per KM](https://www.bloomberg.com/news/articles/2023-10-30/how-montreal-s-new-rapid-transit-line-saved-millions-per-mile)
-- [Teflon is still toxic to birds](https://www.teflon.com/en/consumers/teflon-coatings-cookware-bakeware/safety/bird-safety)
-- [Can solar and wind power Britain? An update of David MacKay&#39;s numbers](https://www.sustainabilitybynumbers.com/p/can-solar-and-wind-power-britain)
-- [ReactOS Newsletter 103 – Late 2023 News](https://reactos.org/blogs/newsletter-103/)
+- [AI companies have all kinds of arguments against paying for copyrighted content](https://www.theverge.com/2023/11/4/23946353/generative-ai-copyright-training-data-openai-microsoft-google-meta-stabilityai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
