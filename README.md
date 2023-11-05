@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
+- [Test browser for web tracking – EFF](https://coveryourtracks.eff.org/)
+- [Consumers are paying more than ever for streaming TV each month](https://finance.yahoo.com/news/consumers-paying-more-ever-streaming-181821039.html)
 - [Developing AI models or giant GPU clusters? Uncle Sam would like a word](https://www.theregister.com/2023/11/05/biden_ai_reporting_thresholds/)
 - [Apple hunter Tom Brown finds and saves rare apple varieties](https://www.washingtonpost.com/lifestyle/2023/11/04/apple-hunter-tom-brown/)
-- [Website is hosted on ESP32 &lpar;$3 chip&rpar;](https://esp.khalsalabs.com)
-- [W3C Community Group Draft Report – WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
-- [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
