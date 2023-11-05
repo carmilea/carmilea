@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Leaf blowers are a scourge. Why is it hard to get rid of them?](https://thehustle.co/leaf-blowers-are-a-scourge-why-is-it-hard-to-get-rid-of-them/)
+- [Teflon is still toxic to birds](https://www.teflon.com/en/consumers/teflon-coatings-cookware-bakeware/safety/bird-safety)
+- [Can solar and wind power Britain? An update of David MacKay&#39;s numbers](https://www.sustainabilitybynumbers.com/p/can-solar-and-wind-power-britain)
 - [ReactOS Newsletter 103 – Late 2023 News](https://reactos.org/blogs/newsletter-103/)
+- [Windows 10 PC will soon be &#39;junk&#39;](https://www.express.co.uk/life-style/science-technology/1831239/microsoft-windows-10-end-support-petition)
 - [UN chief warns Nepal&#39;s mountains have lost one-third of their ice](https://www.euronews.com/green/2023/10/30/stop-the-madness-un-chief-warns-nepals-mountains-have-lost-one-third-of-their-ice)
-- [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
-- [Effective Neovim: An Instant IDE [video]](https://www.youtube.com/watch?v=stqUbv-5u2s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
