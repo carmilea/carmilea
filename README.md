@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Big landlords are colluding to raise rents, D.C. lawsuit alleges](https://www.axios.com/2023/11/02/dc-housing-rent-antitrust-lawsuit)
+- [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
 - [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
+- [Automata: The Extraordinary &quot;Robots&quot; Designed Hundreds of Years Ago [video]](https://www.youtube.com/watch?v=6Nt7xLAfEPs)
 - [Test browser for web tracking – EFF](https://coveryourtracks.eff.org/)
-- [Consumers are paying more than ever for streaming TV each month](https://finance.yahoo.com/news/consumers-paying-more-ever-streaming-181821039.html)
-- [Developing AI models or giant GPU clusters? Uncle Sam would like a word](https://www.theregister.com/2023/11/05/biden_ai_reporting_thresholds/)
-- [Apple hunter Tom Brown finds and saves rare apple varieties](https://www.washingtonpost.com/lifestyle/2023/11/04/apple-hunter-tom-brown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
