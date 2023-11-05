@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Toyota to begin steer-by-wire production in 2024](https://www.autocar.co.uk/car-news/new-cars/toyota-begin-steer-wire-production-2024)
 - [Email Obfuscation Rendered Almost Ineffective Against ChatGPT](https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4)
 - [Six-hour time-restricted feeding inhibits lung cancer progression](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03131-y)
 - [EPA plans to limit or eliminate salmon-killing tire chemical found in Alaska](https://alaskabeacon.com/briefs/epa-plans-to-limit-or-eliminate-salmon-killing-tire-chemical-found-preliminary-alaska-sampling/)
-- [Net neutrality is about more than just blocking and throttling](https://www.brookings.edu/articles/dont-be-fooled-net-neutrality-is-about-more-than-just-blocking-and-throttling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
