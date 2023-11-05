@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secretive Industry Devouring the U.S. Economy](https://www-stage.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/)
-- [New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
-- [Cats Make Nearly 300 Different Facial Expressions](https://www.smithsonianmag.com/smart-news/cats-make-nearly-300-different-facial-expressions-180983185/)
-- [Stars Have Vanished Without a Trace. Where Did They Go?](https://www.iflscience.com/hundreds-of-stars-have-vanished-without-a-trace-where-did-they-go-71397)
-- [Welcome to the New GamersNexus Website v5.0: A Message](https://gamersnexus.net/gn-extras/welcome-new-gamersnexus-website-v50-message)
+- [Daylight saving time can seriously affect your health](https://apnews.com/article/daylight-saving-2023-fall-back-a3738d5c74301b8068825927c49fc6b4)
+- [Soda additive linked to thyroid toxicity may finally get banned by FDA](https://arstechnica.com/health/2023/11/50-years-later-fda-proposes-banning-a-food-additive-it-said-is-not-safe/)
+- [My experience taking Tesla to court about FSD](https://teslamotorsclub.com/tmc/threads/my-experience-taking-tesla-to-court-about-fsd.315086/)
+- [Tesla strike widens as Swedish union expands blockade](https://www.thelocal.se/20231103/tesla-strike-widens-as-swedish-union-expands-blockade)
+- [Disturbed Lands &lpar;National Park Service&rpar;](https://www.nps.gov/shen/learn/nature/disturbedlands.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
