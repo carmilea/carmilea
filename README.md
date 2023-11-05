@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring](https://news.ycombinator.com/item?id=38152963)
+- [Montreal Built a Blueprint for Bargain Rapid Transit at C$119M per KM](https://www.bloomberg.com/news/articles/2023-10-30/how-montreal-s-new-rapid-transit-line-saved-millions-per-mile)
 - [Teflon is still toxic to birds](https://www.teflon.com/en/consumers/teflon-coatings-cookware-bakeware/safety/bird-safety)
 - [Can solar and wind power Britain? An update of David MacKay&#39;s numbers](https://www.sustainabilitybynumbers.com/p/can-solar-and-wind-power-britain)
 - [ReactOS Newsletter 103 – Late 2023 News](https://reactos.org/blogs/newsletter-103/)
-- [Windows 10 PC will soon be &#39;junk&#39;](https://www.express.co.uk/life-style/science-technology/1831239/microsoft-windows-10-end-support-petition)
-- [UN chief warns Nepal&#39;s mountains have lost one-third of their ice](https://www.euronews.com/green/2023/10/30/stop-the-madness-un-chief-warns-nepals-mountains-have-lost-one-third-of-their-ice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
