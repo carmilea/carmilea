@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaf blowers are a scourge. Why is it hard to get rid of them?](https://thehustle.co/leaf-blowers-are-a-scourge-why-is-it-hard-to-get-rid-of-them/)
+- [ReactOS Newsletter 103 – Late 2023 News](https://reactos.org/blogs/newsletter-103/)
+- [UN chief warns Nepal&#39;s mountains have lost one-third of their ice](https://www.euronews.com/green/2023/10/30/stop-the-madness-un-chief-warns-nepals-mountains-have-lost-one-third-of-their-ice)
 - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Toyota to begin steer-by-wire production in 2024](https://www.autocar.co.uk/car-news/new-cars/toyota-begin-steer-wire-production-2024)
-- [Email obfuscation rendered almost ineffective against ChatGPT](https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4)
-- [EPA plans to limit or eliminate salmon-killing tire chemical found in Alaska](https://alaskabeacon.com/briefs/epa-plans-to-limit-or-eliminate-salmon-killing-tire-chemical-found-preliminary-alaska-sampling/)
+- [Effective Neovim: An Instant IDE [video]](https://www.youtube.com/watch?v=stqUbv-5u2s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
