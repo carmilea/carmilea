@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple hunter Tom Brown finds and saves rare Apple varieties](https://www.washingtonpost.com/lifestyle/2023/11/04/apple-hunter-tom-brown/)
+- [Website is hosted on ESP32 &lpar;$3 chip&rpar;](https://esp.khalsalabs.com)
 - [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
+- [See the History of a Method with Git log -L](https://calebhearth.com/git-method-history)
 - [Brits make Amazon, Meta stop using third-party data to undercut rivals](https://www.theregister.com/2023/11/04/amazon_meta_cma/)
-- [Sam Bankman-Fried is a feature, not a bug](https://joanwestenberg.com/blog/sam-bankman-fried-is-a-feature-not-a-bug)
-- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring](https://news.ycombinator.com/item?id=38152963)
-- [AI companies have all kinds of arguments against paying for copyrighted content](https://www.theverge.com/2023/11/4/23946353/generative-ai-copyright-training-data-openai-microsoft-google-meta-stabilityai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
