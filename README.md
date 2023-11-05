@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Right turn on red? With pedestrian deaths rising, US cities are considering bans](https://apnews.com/article/red-light-turn-pedestrian-bicyclist-deaths-7f5bdee9c7b3f4cbf005f1844f486123)
+- [Grok](https://twitter.com/xai/status/1721027348970238035)
+- [SpaceX poised for &#39;mid-November&#39; launch of second Starship test flight](https://spaceflightnow.com/2023/11/04/spacex-poised-for-mid-november-of-second-starship-test-launch/)
+- [The world nearly adopted a calendar with 13 months of 28 days](https://www.washingtonpost.com/history/2023/11/04/battle-sabbath-13-month-calendar/)
 - [Max is taking 4K away from its legacy ad-free subscribers](https://www.theverge.com/2023/11/2/23943859/max-4k-hbo-max-ad-free-subscribers)
 - [Topic: Discord Stealer](https://github.com/topics/discord-stealer)
-- [Shadows Edge Software](https://www.shadowsedge.mil/What-We-Do/)
-- [SBF Is Headed to Prison but FTX Will Haunt the Crypto Community for Years](https://gizmodo.com/ftx-fbi-sam-bankman-fried-cryptocurrency-data-1850990825)
 <!-- BLOG-POST-LIST:END -->
 
 ---
