@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Daylight saving time can seriously affect your health](https://apnews.com/article/daylight-saving-2023-fall-back-a3738d5c74301b8068825927c49fc6b4)
-- [Soda additive linked to thyroid toxicity may finally get banned by FDA](https://arstechnica.com/health/2023/11/50-years-later-fda-proposes-banning-a-food-additive-it-said-is-not-safe/)
-- [My experience taking Tesla to court about FSD](https://teslamotorsclub.com/tmc/threads/my-experience-taking-tesla-to-court-about-fsd.315086/)
-- [Tesla strike widens as Swedish union expands blockade](https://www.thelocal.se/20231103/tesla-strike-widens-as-swedish-union-expands-blockade)
-- [Disturbed Lands &lpar;National Park Service&rpar;](https://www.nps.gov/shen/learn/nature/disturbedlands.htm)
+- [Max is taking 4K away from its legacy ad-free subscribers](https://www.theverge.com/2023/11/2/23943859/max-4k-hbo-max-ad-free-subscribers)
+- [Topic: Discord Stealer](https://github.com/topics/discord-stealer)
+- [Shadows Edge Software](https://www.shadowsedge.mil/What-We-Do/)
+- [SBF Is Headed to Prison but FTX Will Haunt the Crypto Community for Years](https://gizmodo.com/ftx-fbi-sam-bankman-fried-cryptocurrency-data-1850990825)
+- [Sam Bankman-Fried might not be the last crypto criminal](https://www.theverge.com/2023/11/4/23945602/sam-bankman-fried-guilty-verdict-ftx-crypto-industry-impact)
 <!-- BLOG-POST-LIST:END -->
 
 ---
