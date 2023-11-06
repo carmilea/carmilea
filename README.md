@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Listen to HD radio with a $30 RTL SDR dongle](https://github.com/theori-io/nrsc5)
 - [Show HN: Jeeves – A Pythonic Alternative to GNU Make](https://jeeves.sh)
 - [18.S097 Applied Category Theory: Textbook &lpar;2019&rpar;](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
+- [Show HN: Ts-Chan – Go-Like Concurrency Primitives for TypeScript/JavaScript](https://github.com/joeycumines/ts-chan)
 - [Intel 80386, a Revolutionary CPU](https://www.xtof.info/intel80386.html)
-- [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
-- [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
