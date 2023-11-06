@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding Roman Numeral Literals to Python](https://peps.python.org/pep-0313/)
+- [Tesla to build 25,000-euro car at German plant](https://www.reuters.com/business/autos-transportation/tesla-build-25000-euro-car-german-plant-source-2023-11-06/)
 - [Firefox Development Is Moving from Mercurial to Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ)
-- [On Letting Go of Spite](https://ewanvalentine.io/blog/on-letting-go-of-spite)
-- [Kai Fu Lee&#39;s New AI Company: Yi-Open Source](https://www.01.ai/en)
-- [Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
-- [milliForth](https://github.com/fuzzballcat/milliForth)
+- [Scientists Are Researching a Device That Can Induce Lucid Dreams on Demand](https://www.vice.com/en/article/m7bxdx/scientists-are-researching-a-device-that-can-induce-lucid-dreams-on-demand)
+- [01-AI/Yi: A series of large language models trained from scratch](https://github.com/01-ai/Yi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
