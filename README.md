@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Can you take more than 2 consecutive weeks of vacation?](https://news.ycombinator.com/item?id=38166112)
 - [Giga ML &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/giga-ml/jobs/d3zdZXn-founding-engineer)
 - [OpenAI DevDay, Opening Keynote Livestream [video]](https://www.youtube.com/watch?v=U9mJuUkhUzk)
 - [XAI PromptIDE](https://x.ai/prompt-ide/)
 - [Apple developer boycott of Feedback Assistant](https://lapcatsoftware.com/articles/2023/11/2.html)
-- [TCP-brutal: Congestion control algorithm that increase speed on packet lost](https://github.com/apernet/tcp-brutal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
