@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Thought Marriage Made Us Healthier, and Why We Were Wrong](https://www.nbcnews.com/think/opinion/why-we-thought-marriage-made-us-healthier-why-we-were-ncna801646)
-- [Introducing GPTs](https://openai.com/blog/introducing-gpts)
-- [New models and developer products](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
-- [Show HN: Open Source Heroes – Explore the world of Open Source](https://opensource-heroes.com)
-- [UHZ1: NASA Telescopes Discover Record-Breaking Black Hole](https://chandra.si.edu/photo/2023/uhz1/)
+- [Ariane 6 cost and delays bring European launch industry to a breaking point](https://arstechnica.com/space/2023/11/ariane-6-cost-and-delays-bring-european-launch-industry-to-a-breaking-point/)
+- [Rising pay transparency causing an employer compensation information &#39;arms race&#39;](https://www.cnbc.com/2023/11/06/rising-pay-transparency-is-causing-an-employer-information-arms-race.html)
+- [Nvidia L40S Is the Nvidia H100 AI Alternative with a Big Benefit](https://www.servethehome.com/nvidia-l40s-is-the-nvidia-h100-ai-alternative-with-a-big-benefit-supermicro/)
+- [Show HN: Inshellisense – IDE style shell autocomplete](https://github.com/microsoft/inshellisense)
+- [Show HN: Open-source model and scorecard for measuring hallucinations in LLMs](https://vectara.com/measuring-hallucinations-in-rag-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
