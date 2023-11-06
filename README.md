@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ariane 6 cost and delays bring European launch industry to a breaking point](https://arstechnica.com/space/2023/11/ariane-6-cost-and-delays-bring-european-launch-industry-to-a-breaking-point/)
 - [Rising pay transparency causing an employer compensation information &#39;arms race&#39;](https://www.cnbc.com/2023/11/06/rising-pay-transparency-is-causing-an-employer-information-arms-race.html)
+- [Parkinson&#39;s patient able to walk 6km without problems after spinal implant](https://www.theguardian.com/society/2023/nov/06/parkinsons-patient-able-to-walk-6km-without-problems-after-spinal-implant)
+- [Building a Streaming Platform in Go for Postgres](https://blog.peerdb.io/building-a-streaming-platform-in-go-for-postgres)
 - [Nvidia L40S Is the Nvidia H100 AI Alternative with a Big Benefit](https://www.servethehome.com/nvidia-l40s-is-the-nvidia-h100-ai-alternative-with-a-big-benefit-supermicro/)
-- [Show HN: Inshellisense – IDE style shell autocomplete](https://github.com/microsoft/inshellisense)
-- [Show HN: Open-source model and scorecard for measuring hallucinations in LLMs](https://vectara.com/measuring-hallucinations-in-rag-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
