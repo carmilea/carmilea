@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Who falls for fake news? Psychological and clinical profiling evidence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9450498/)
+- [Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
 - [Transmiting Power from Star to Star with Gravitational Lensing](https://www.universetoday.com/163994/civilizations-could-use-gravitational-lenses-to-transmit-power-from-star-to-star/)
 - [milliForth](https://github.com/fuzzballcat/milliForth)
-- [Listen to HD radio with a $30 RTL SDR dongle](https://github.com/theori-io/nrsc5)
-- [18.S097 Applied Category Theory: Textbook &lpar;2019&rpar;](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
+- [Nrsc5: Receive NRSC-5 digital radio stations using an RTL-SDR dongle](https://github.com/theori-io/nrsc5)
+- [Show HN: Ts-Chan – Go-Like Concurrency Primitives for TypeScript/JavaScript](https://github.com/joeycumines/ts-chan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
