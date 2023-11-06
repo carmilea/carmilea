@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DuckDB performance improvements with the latest release](https://duckdb.org/2023/11/03/db-benchmark-update.html)
-- [Impossible-Sounding Fallout 4 Speedrun Took over 2k Hours](https://kotaku.com/twitch-youtuber-streamer-vrexia-fallout-4-no-hit-run-1850966651)
-- [Create a shortcut for even lower phone brightness](https://practicalbetterments.com/create-a-shortcut-for-even-lower-phone-brightness/)
-- [Cicada – A FOSS, Cross-Platform Version of GitHub Actions and Gitlab CI](https://github.com/Cicada-Software/cicada)
-- [California wants to end Cupertino&#39;s tax deal with Apple](https://appleinsider.com/articles/23/11/04/california-wants-to-end-cupertinos-tax-deal-with-apple)
+- [Giga ML &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/giga-ml/jobs/d3zdZXn-founding-engineer)
+- [OpenAI DevDay, Opening Keynote Livestream [video]](https://www.youtube.com/watch?v=U9mJuUkhUzk)
+- [XAI PromptIDE](https://x.ai/prompt-ide/)
+- [Apple developer boycott of Feedback Assistant](https://lapcatsoftware.com/articles/2023/11/2.html)
+- [TCP-brutal: Congestion control algorithm that increase speed on packet lost](https://github.com/apernet/tcp-brutal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
