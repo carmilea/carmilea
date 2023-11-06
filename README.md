@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dating apps lose their luster with college students](https://www.axios.com/2023/11/05/dating-apps-college-students-tinder-bumble)
-- [My 1976 KIM-1](https://blog.jgc.org/2023/11/my-1976-kim-1.html)
-- [Show HN: Ladder, open source alternative to 12ft.io and 1ft.io](https://github.com/kubero-dev/ladder)
-- [Was Atlantis a Minoan Civilization on Santorini Island?](https://greekreporter.com/2023/10/29/atlantis-minoan-civilisation-santorini/)
-- [How Rust can facilitate new contributors while decreasing vulnerabilities [pdf]](https://cypherpunks.ca/~iang/pubs/gradingcurve-secdev23.pdf)
+- [The Future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
+- [Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom/)
+- [Learn Transformer models with this simple video](https://www.youtube.com/watch?v=qaWMOYf4ri8)
+- [A Video Game That Pays: Lessons Learned from Working Remotely](https://dtransposed.github.io/blog/2023/11/02/Remote-SWE/)
+- [Noam Chomsky: The five filters of the mass media](https://prruk.org/noam-chomsky-the-five-filters-of-the-mass-media-machine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
