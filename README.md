@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FFmpeg is getting better with multithreaded transcoding pipelines](https://twitter.com/FFmpeg/status/1721275669336707152)
-- [Adding Roman Numeral Literals to Python](https://peps.python.org/pep-0313/)
-- [Wikipedia admin unmasks self as sockpuppet of other admin banned in 2015](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Arbitration_report)
-- [Debian Discusses Vendoring yet Again](https://lwn.net/Articles/842319/)
-- [Firefox Development Is Moving from Mercurial to Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ)
+- [Show HN: Ladder, open source alternative to 12ft.io and 1ft.io](https://github.com/kubero-dev/ladder)
+- [Was Atlantis a Minoan Civilization on Santorini Island?](https://greekreporter.com/2023/10/29/atlantis-minoan-civilisation-santorini/)
+- [Rust newcomers are 70x less likely to create vulnerabilities than C++ newcomers [pdf]](https://cypherpunks.ca/~iang/pubs/gradingcurve-secdev23.pdf)
+- [Google Pays $21B for Search Monopoly: How &quot;Free&quot; Tech Markets Repress](https://tutanota.com/blog/google-search-monopoly)
+- [Passive SSH Key Compromise via Lattices [pdf]](https://eprint.iacr.org/2023/1711.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
