@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Can you take more than 2 consecutive weeks of vacation?](https://news.ycombinator.com/item?id=38166112)
-- [Giga ML &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/giga-ml/jobs/d3zdZXn-founding-engineer)
-- [OpenAI DevDay, Opening Keynote Livestream [video]](https://www.youtube.com/watch?v=U9mJuUkhUzk)
-- [XAI PromptIDE](https://x.ai/prompt-ide/)
-- [Apple developer boycott of Feedback Assistant](https://lapcatsoftware.com/articles/2023/11/2.html)
+- [We Thought Marriage Made Us Healthier, and Why We Were Wrong](https://www.nbcnews.com/think/opinion/why-we-thought-marriage-made-us-healthier-why-we-were-ncna801646)
+- [Introducing GPTs](https://openai.com/blog/introducing-gpts)
+- [New models and developer products](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
+- [Show HN: Open Source Heroes – Explore the world of Open Source](https://opensource-heroes.com)
+- [UHZ1: NASA Telescopes Discover Record-Breaking Black Hole](https://chandra.si.edu/photo/2023/uhz1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
