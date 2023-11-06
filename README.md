@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI fake nudes are booming. It&#39;s ruining real teens&#39; lives](https://www.washingtonpost.com/technology/2023/11/05/ai-deepfake-porn-teens-women-impact/)
+- [Who falls for fake news? Psychological and clinical profiling evidence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9450498/)
+- [Transmiting Power from Star to Star with Gravitational Lensing](https://www.universetoday.com/163994/civilizations-could-use-gravitational-lenses-to-transmit-power-from-star-to-star/)
+- [milliForth](https://github.com/fuzzballcat/milliForth)
 - [Listen to HD radio with a $30 RTL SDR dongle](https://github.com/theori-io/nrsc5)
-- [Show HN: Jeeves – A Pythonic Alternative to GNU Make](https://jeeves.sh)
 - [18.S097 Applied Category Theory: Textbook &lpar;2019&rpar;](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
-- [Show HN: Ts-Chan – Go-Like Concurrency Primitives for TypeScript/JavaScript](https://github.com/joeycumines/ts-chan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
