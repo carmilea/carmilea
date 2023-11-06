@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dating apps lose their luster with college students](https://www.axios.com/2023/11/05/dating-apps-college-students-tinder-bumble)
+- [My 1976 KIM-1](https://blog.jgc.org/2023/11/my-1976-kim-1.html)
 - [Show HN: Ladder, open source alternative to 12ft.io and 1ft.io](https://github.com/kubero-dev/ladder)
 - [Was Atlantis a Minoan Civilization on Santorini Island?](https://greekreporter.com/2023/10/29/atlantis-minoan-civilisation-santorini/)
-- [Rust newcomers are 70x less likely to create vulnerabilities than C++ newcomers [pdf]](https://cypherpunks.ca/~iang/pubs/gradingcurve-secdev23.pdf)
-- [Google Pays $21B for Search Monopoly: How &quot;Free&quot; Tech Markets Repress](https://tutanota.com/blog/google-search-monopoly)
-- [Passive SSH Key Compromise via Lattices [pdf]](https://eprint.iacr.org/2023/1711.pdf)
+- [How Rust can facilitate new contributors while decreasing vulnerabilities [pdf]](https://cypherpunks.ca/~iang/pubs/gradingcurve-secdev23.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
