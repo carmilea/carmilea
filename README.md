@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Jeeves – A Pythonic Alternative to GNU Make](https://jeeves.sh)
+- [18.S097 Applied Category Theory: Textbook &lpar;2019&rpar;](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
 - [Intel 80386, a Revolutionary CPU](https://www.xtof.info/intel80386.html)
-- [Silicon Valley is piling in to the business of snooping](https://www.economist.com/business/2023/11/05/silicon-valley-is-piling-in-to-the-business-of-snooping)
-- [Big landlords are colluding to raise rents, D.C. lawsuit alleges](https://www.axios.com/2023/11/02/dc-housing-rent-antitrust-lawsuit)
 - [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
 - [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
 <!-- BLOG-POST-LIST:END -->
