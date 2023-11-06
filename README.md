@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ariane 6 cost and delays bring European launch industry to a breaking point](https://arstechnica.com/space/2023/11/ariane-6-cost-and-delays-bring-european-launch-industry-to-a-breaking-point/)
-- [Rising pay transparency causing an employer compensation information &#39;arms race&#39;](https://www.cnbc.com/2023/11/06/rising-pay-transparency-is-causing-an-employer-information-arms-race.html)
+- [Bored Ape conference attendees wake up with eye pain, vision loss](https://www.404media.co/bored-ape-yacht-club-conference-eye-pain-vision-loss-yuga-labs/)
+- [DAK and the Golden Age of Gadget Catalogs](https://cabel.com/2023/11/06/dak-and-the-golden-age-of-gadget-catalogs/)
+- [English Wikipedia drove out fringe editors over two decades](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Recent_research)
 - [Parkinson&#39;s patient able to walk 6km without problems after spinal implant](https://www.theguardian.com/society/2023/nov/06/parkinsons-patient-able-to-walk-6km-without-problems-after-spinal-implant)
 - [Building a Streaming Platform in Go for Postgres](https://blog.peerdb.io/building-a-streaming-platform-in-go-for-postgres)
-- [Nvidia L40S Is the Nvidia H100 AI Alternative with a Big Benefit](https://www.servethehome.com/nvidia-l40s-is-the-nvidia-h100-ai-alternative-with-a-big-benefit-supermicro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
