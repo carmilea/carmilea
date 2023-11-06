@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
-- [Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom/)
-- [Learn Transformer models with this simple video](https://www.youtube.com/watch?v=qaWMOYf4ri8)
-- [A Video Game That Pays: Lessons Learned from Working Remotely](https://dtransposed.github.io/blog/2023/11/02/Remote-SWE/)
-- [Noam Chomsky: The five filters of the mass media](https://prruk.org/noam-chomsky-the-five-filters-of-the-mass-media-machine/)
+- [Why the Binding Arbitration Game Is Rigged Against Customers &lpar;2019&rpar;](https://www.gsb.stanford.edu/insights/why-binding-arbitration-game-rigged-against-customers)
+- [Berkshire Hathaway posts a 40% jump in operating earnings, cash pile of $157B](https://www.cnbc.com/2023/11/04/berkshire-hathaway-brk-earnings-q3-2023.html)
+- [USB-C cable with the bandwidth and USB type imprinted on the connector](https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato)
+- [Oceans are hugely complex: modelling marine microbes is key to climate forecasts](https://www.nature.com/articles/d41586-023-03425-4)
+- [Who&#39;s Behind the Swat USA Reshipping Service?](https://krebsonsecurity.com/2023/11/whos-behind-the-swat-usa-reshipping-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
