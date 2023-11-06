@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kai Fu Lee&#39;s New AI Company: Yi-Open Source](https://www.01.ai/en)
 - [Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
-- [Transmiting Power from Star to Star with Gravitational Lensing](https://www.universetoday.com/163994/civilizations-could-use-gravitational-lenses-to-transmit-power-from-star-to-star/)
 - [milliForth](https://github.com/fuzzballcat/milliForth)
+- [Show HN: LLaVaVision: An AI &quot;Be My Eyes&quot;-like web app with a llama.cpp backend](https://github.com/lxe/llavavision)
 - [Nrsc5: Receive NRSC-5 digital radio stations using an RTL-SDR dongle](https://github.com/theori-io/nrsc5)
-- [Show HN: Ts-Chan – Go-Like Concurrency Primitives for TypeScript/JavaScript](https://github.com/joeycumines/ts-chan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
