@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox Development Is Moving from Mercurial to Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ)
 - [On Letting Go of Spite](https://ewanvalentine.io/blog/on-letting-go-of-spite)
-- [Men&#39;s Shed](https://en.wikipedia.org/wiki/Men%27s_shed)
 - [Kai Fu Lee&#39;s New AI Company: Yi-Open Source](https://www.01.ai/en)
 - [Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
 - [milliForth](https://github.com/fuzzballcat/milliForth)
