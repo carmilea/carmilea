@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FFmpeg is getting better with multithreaded transcoding pipelines](https://twitter.com/FFmpeg/status/1721275669336707152)
 - [Adding Roman Numeral Literals to Python](https://peps.python.org/pep-0313/)
-- [Tesla to build 25,000-euro car at German plant](https://www.reuters.com/business/autos-transportation/tesla-build-25000-euro-car-german-plant-source-2023-11-06/)
+- [Wikipedia admin unmasks self as sockpuppet of other admin banned in 2015](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Arbitration_report)
+- [Debian Discusses Vendoring yet Again](https://lwn.net/Articles/842319/)
 - [Firefox Development Is Moving from Mercurial to Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ)
-- [Scientists Are Researching a Device That Can Induce Lucid Dreams on Demand](https://www.vice.com/en/article/m7bxdx/scientists-are-researching-a-device-that-can-induce-lucid-dreams-on-demand)
-- [01-AI/Yi: A series of large language models trained from scratch](https://github.com/01-ai/Yi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
