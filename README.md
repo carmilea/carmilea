@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bun &lpar;YC S19&rpar; Is Hiring Systems Engineers &lpar;C/C++ or Zig&rpar;](https://apply.workable.com/oven/j/A7A1388873/)
+- [Transformers struggle with generalizing tasks beyond pre-training data](https://arxiv.org/abs/2311.00871)
+- [Fedora 39 Released](https://fedoramagazine.org/announcing-fedora-linux-39/)
+- [A four year plan for async Rust](https://without.boats/blog/a-four-year-plan/)
 - [ICE faces heat after agents install apps, VPNs on official phones](https://www.theregister.com/2023/11/06/ice_device_security/)
-- [Real vs. fake AirPods with industrial CT](https://www.lumafield.com/article/real-vs-fake-apple-products-through-industrial-ct-airpods-pro-macbook-magsafe-charger)
-- [Google ends deal to build 15,000 Bay Area homes due to &quot;market conditions&quot;](https://arstechnica.com/tech-policy/2023/11/google-cost-cutting-ends-deal-to-build-thousands-of-affordable-housing-units/)
-- [Verizon, AT&amp;T Customers Sue to Undo T-Mobile Merger, Saying It Raised All Prices](https://www.techdirt.com/2023/11/07/verizon-att-customers-sue-to-reverse-t-mobile-merger-saying-it-raised-everybodys-prices/)
-- [Overheating datacenter stopped 2.5M bank transactions](https://www.theregister.com/2023/11/07/overheating_datacenter_singapore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
