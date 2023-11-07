@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Asahi Linux folks are doing us a solid with WPA3 fixes](https://rachelbythebay.com/w/2023/11/07/wpa3/)
-- [Ex-Meta employee says his warnings of Instagram&#39;s harm to teens were ignored](https://www.theguardian.com/technology/2023/nov/07/meta-facebook-employee-congress-testimony-instagram-child-harm-social-media)
-- [What Does and Doesn&#39;t Matter about Apple Shooting Their October Event on iPhone](https://prolost.com/blog/scarybts)
-- [Core to Core Latency Data on Large Systems](https://chipsandcheese.com/2023/11/07/core-to-core-latency-data-on-large-systems/)
-- [Writing a Compiler is Surprisingly Easy &lpar;part 1&rpar;](http://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html)
+- [Dietary restriction of isoleucine increases healthspan and lifespan in mice](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00374-1)
+- [Whisper v3](https://github.com/openai/whisper/discussions/1762)
+- [Device keeps brain alive, functioning separate from body](https://www.utsouthwestern.edu/newsroom/articles/year-2023/oct-device-keeps-brain-alive.html)
+- [Show HN: Roboco-op, a computational blackboard for efficient human/AI collab](https://observablehq.com/@tomlarkworthy/robocoop)
+- [Chopstick robot handle boxes with ease](https://spectrum.ieee.org/warehouse-robots)
 <!-- BLOG-POST-LIST:END -->
 
 ---
