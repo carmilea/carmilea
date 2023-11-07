@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First Apple M3 Pro Benchmarks Show Surprisingly Low Multi-Core Gains over M2 Pro](https://www.extremetech.com/computing/first-apple-m3-pro-benchmarks-show-surprisingly-low-multi-core-gains-over)
+- [Waze will now warn drivers about crash dangers using historical data](https://arstechnica.com/cars/2023/11/waze-will-now-warn-drivers-about-crash-dangers-using-historical-data/)
+- [How a &#39;Refund Fraud&#39; Gang Stole $700k from Amazon](https://www.404media.co/artemis-refund-group-stole-700-000-from-amazon/)
+- [Euclid&#39;s First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
 - [Maine&#39;s Constitution Has Unprintable Sections](https://www.mitsc.org/news/maine-2023-election-ballot-question-6-fact-sheet)
-- [New job has no way of coding locally?](https://old.reddit.com/r/webdev/comments/17pgbc4/new_job_has_no_way_of_coding_locally/)
-- [Judge Dismisses Copyright Claims Against AI Image Generators](https://petapixel.com/2023/10/31/judge-dismisses-copyright-claims-against-ai-image-generators/)
-- [Red Hat Developer &lpar;Author of ProtonGE&rpar; Talks at the Ubuntu Summit about Proton](https://www.youtube.com/watch?v=4puxx4kJnaQ)
-- [Potato Diet Riff Trial: Sign Up Now, Lol](https://slimemoldtimemold.com/2023/11/03/potato-diet-riff-trial-sign-up-now-lol/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
