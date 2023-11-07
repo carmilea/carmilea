@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Article 45 Will Roll Back Web Security by 12 Years](https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
+- [Northlight makes Alan Wake 2 shine](https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine)
+- [Google researchers deal a major blow to the theory AI about to outsmart humans](https://www.businessinsider.com/google-researchers-have-turned-agi-race-upside-down-with-paper-2023-11)
 - [Seeing Like a Bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)
-- [Why only 1% of the Snowden Archive will ever be published](https://www.computerweekly.com/news/366554957/Why-only-1-of-the-Snowden-Archive-will-ever-be-published)
-- [The Guardian digital design style guide](https://design.theguardian.com/)
-- [Buddhist office turns to Thai cyber police over AI-generated Facebook content](https://thethaiger.com/news/national/buddhist-office-turns-to-thai-cyber-police-over-ai-generated-facebook-content)
-- [U.S. military members&#39; personal data being sold by online brokers](https://www.axios.com/2023/11/06/military-data-sold-for-cents-cheap-privacy)
+- [FTC Chair Lina Khan on AI regulation, startup acquisitions, and more](https://www.ycombinator.com/blog/garry-tan-interviews-ftc-chair-lina-khan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
