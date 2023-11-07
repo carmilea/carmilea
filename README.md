@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy 20th Birthday to Inkscape](https://inkscape.gitlab.io/inkscape-docs/awesome-web-pages/20th_anniversary/#frame4804)
-- [OpenChat surpass ChatGPT and Grok on various benchmarks](https://github.com/imoneoi/openchat)
-- [Bored Ape conference attendees wake up with eye pain, vision loss](https://www.404media.co/bored-ape-yacht-club-conference-eye-pain-vision-loss-yuga-labs/)
-- [DAK and the Golden Age of Gadget Catalogs](https://cabel.com/2023/11/06/dak-and-the-golden-age-of-gadget-catalogs/)
-- [QUIK is a method for quantizing LLM post-training weights to 4 bit precision](https://github.com/IST-DASLab/QUIK)
+- [Playstation is cutting off X sharing options](https://www.theverge.com/2023/11/6/23949343/playstation-x-sharing-options-ps5-ps4)
+- [Bluesky migrates from pg to single-tenant SQLite](https://github.com/bluesky-social/atproto/pull/1705)
+- [Google&#39;s Web Integrity Android API could kill alternative media clients](https://arstechnica.com/google/2023/11/google-kills-web-integrity-drm-for-the-web-still-wants-an-android-version/)
+- [Still no love for WPA3 on the Raspberry Pi 5](https://rachelbythebay.com/w/2023/11/06/wpa3/)
+- [Cruise Knew Its Self-Driving Cars Had Problems Recognizing Children](https://theintercept.com/2023/11/06/cruise-self-driving-cars-children/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
