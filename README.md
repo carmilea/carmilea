@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Whole Earth Catalog 1968 [pdf]](https://monoskop.org/images/0/09/Brand_Stewart_Whole_Earth_Catalog_Fall_1968.pdf)
-- [Toxic toddler fruit pouches: &quot;high&quot; lead levels sicken 7 in 5 states](https://arstechnica.com/health/2023/11/toxic-toddler-fruit-pouches-extremely-high-lead-levels-sicken-7-in-5-states/)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers#section-job)
-- [A person who has had Parkinson&#39;s disease for 25 years can now walk again](https://english.elpais.com/science-tech/2023-11-06/a-person-who-has-had-parkinsons-disease-for-25-years-can-now-walk-again-thanks-to-a-neuroprosthesis.html)
-- [Validating Data in Elixir: Using Ecto and NimbleOptions](https://blog.appsignal.com/2023/11/07/validating-data-in-elixir-using-ecto-and-nimbleoptions.html)
+- [Maine&#39;s Constitution Has Unprintable Sections](https://www.mitsc.org/news/maine-2023-election-ballot-question-6-fact-sheet)
+- [New job has no way of coding locally?](https://old.reddit.com/r/webdev/comments/17pgbc4/new_job_has_no_way_of_coding_locally/)
+- [Judge Dismisses Copyright Claims Against AI Image Generators](https://petapixel.com/2023/10/31/judge-dismisses-copyright-claims-against-ai-image-generators/)
+- [Red Hat Developer &lpar;Author of ProtonGE&rpar; Talks at the Ubuntu Summit about Proton](https://www.youtube.com/watch?v=4puxx4kJnaQ)
+- [Potato Diet Riff Trial: Sign Up Now, Lol](https://slimemoldtimemold.com/2023/11/03/potato-diet-riff-trial-sign-up-now-lol/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
