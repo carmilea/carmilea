@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bun &lpar;YC S19&rpar; Is Hiring Systems Engineers &lpar;C/C++ or Zig&rpar;](https://apply.workable.com/oven/j/A7A1388873/)
-- [Transformers struggle with generalizing tasks beyond pre-training data](https://arxiv.org/abs/2311.00871)
-- [Fedora 39 Released](https://fedoramagazine.org/announcing-fedora-linux-39/)
-- [A four year plan for async Rust](https://without.boats/blog/a-four-year-plan/)
-- [ICE faces heat after agents install apps, VPNs on official phones](https://www.theregister.com/2023/11/06/ice_device_security/)
+- [Seeing Like a Bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)
+- [Why only 1% of the Snowden Archive will ever be published](https://www.computerweekly.com/news/366554957/Why-only-1-of-the-Snowden-Archive-will-ever-be-published)
+- [The Guardian digital design style guide](https://design.theguardian.com/)
+- [Buddhist office turns to Thai cyber police over AI-generated Facebook content](https://thethaiger.com/news/national/buddhist-office-turns-to-thai-cyber-police-over-ai-generated-facebook-content)
+- [U.S. military members&#39; personal data being sold by online brokers](https://www.axios.com/2023/11/06/military-data-sold-for-cents-cheap-privacy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
