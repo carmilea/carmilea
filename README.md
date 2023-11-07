@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Do deepfake videos undermine our epistemic trust?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291668)
+- [Tutanota Is Now Tuta](https://tuta.com/blog/tutanota-is-now-tuta)
+- [You don&#39;t need to work on hard problems](https://www.benkuhn.net/hard/)
+- [Italy to seize $835M from Airbnb in tax evasion inquiry](https://www.bbc.co.uk/news/business-67341051)
 - [Bhutan sterilised and vaccinated 100% of their street dog population](https://worldanimalnews.com/the-kingdom-of-bhutan-becomes-first-country-in-the-world-to-achieve-100-stray-dog-sterilization-vaccination/)
-- [NASA&#39;s On-Demand Streaming Service, NASA+ &lpar;Official Trailer&rpar;](https://www.youtube.com/watch?v=TJRiuF8tQJU)
 - [PostgreSQL Encryption: The Available Options](https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html)
-- [WeWork Goes Bankrupt](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall)
 <!-- BLOG-POST-LIST:END -->
 
 ---
