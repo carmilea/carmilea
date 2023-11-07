@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Night Vision vs. Darkest Room [video]](https://www.youtube.com/watch?v=UAeJHAFjwPM)
+- [Show HN: Patterns – Habit Tracker App](https://apps.apple.com/ua/app/patterns-habit-tracker/id6469007119)
 - [Tutanota Is Now Tuta](https://tuta.com/blog/tutanota-is-now-tuta)
-- [You don&#39;t need to work on hard problems](https://www.benkuhn.net/hard/)
+- [You don&#39;t need to work on hard problems &lpar;2020&rpar;](https://www.benkuhn.net/hard/)
 - [Italy to seize $835M from Airbnb in tax evasion inquiry](https://www.bbc.co.uk/news/business-67341051)
-- [Bhutan sterilised and vaccinated 100% of their street dog population](https://worldanimalnews.com/the-kingdom-of-bhutan-becomes-first-country-in-the-world-to-achieve-100-stray-dog-sterilization-vaccination/)
-- [PostgreSQL Encryption: The Available Options](https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
