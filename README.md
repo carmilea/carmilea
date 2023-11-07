@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WeWork, once valued at $47B, files for bankruptcy](https://www.cnbc.com/2023/11/07/wework-files-for-bankruptcy.html)
+- [WeWork Goes Bankrupt, Capping Co-Working Company&#39;s Downfall](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall)
 - [Tesla drivers can now disable remote access in privacy win](https://cleanenergyrevolution.co/2023/11/06/tesla-drivers-can-now-disable-remote-access-in-privacy-win/)
 - [Apple&#39;s Trademark Exploit](https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/)
-- [Bluesky migrates to single-tenant SQLite](https://github.com/bluesky-social/atproto/pull/1705)
-- [Still no love for WPA3 on the Raspberry Pi 5](https://rachelbythebay.com/w/2023/11/06/wpa3/)
-- [Online Order Has Been Delivered–and It&#39;s Teeny Tiny](https://www.wsj.com/business/retail/online-order-miniature-tiny-d9911da8)
+- [Intel BE200 WiFi 7 cards locked to 14th gen CPU and Z790 chipset](https://twitter.com/ghost_motley/status/1721646985688601023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
