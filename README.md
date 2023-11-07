@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iknowwhatyoudownload.com – Torrent Activity Checker](https://iknowwhatyoudownload.com/en/peer/)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers#section-job)
+- [Validating Data in Elixir: Using Ecto and NimbleOptions](https://blog.appsignal.com/2023/11/07/validating-data-in-elixir-using-ecto-and-nimbleoptions.html)
+- [I Know What You Download on BitTorrent](https://iknowwhatyoudownload.com/en/peer/)
 - [Best Night Vision vs. Darkest Room [video]](https://www.youtube.com/watch?v=UAeJHAFjwPM)
 - [Show HN: Patterns – Habit Tracker App](https://apps.apple.com/ua/app/patterns-habit-tracker/id6469007119)
-- [Tutanota Is Now Tuta](https://tuta.com/blog/tutanota-is-now-tuta)
-- [You don&#39;t need to work on hard problems &lpar;2020&rpar;](https://www.benkuhn.net/hard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
