@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First Apple M3 Pro Benchmarks Show Surprisingly Low Multi-Core Gains over M2 Pro](https://www.extremetech.com/computing/first-apple-m3-pro-benchmarks-show-surprisingly-low-multi-core-gains-over)
-- [Waze will now warn drivers about crash dangers using historical data](https://arstechnica.com/cars/2023/11/waze-will-now-warn-drivers-about-crash-dangers-using-historical-data/)
-- [How a &#39;Refund Fraud&#39; Gang Stole $700k from Amazon](https://www.404media.co/artemis-refund-group-stole-700-000-from-amazon/)
-- [Euclid&#39;s First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
-- [Maine&#39;s Constitution Has Unprintable Sections](https://www.mitsc.org/news/maine-2023-election-ballot-question-6-fact-sheet)
+- [ICE faces heat after agents install apps, VPNs on official phones](https://www.theregister.com/2023/11/06/ice_device_security/)
+- [Real vs. fake AirPods with industrial CT](https://www.lumafield.com/article/real-vs-fake-apple-products-through-industrial-ct-airpods-pro-macbook-magsafe-charger)
+- [Google ends deal to build 15,000 Bay Area homes due to &quot;market conditions&quot;](https://arstechnica.com/tech-policy/2023/11/google-cost-cutting-ends-deal-to-build-thousands-of-affordable-housing-units/)
+- [Verizon, AT&amp;T Customers Sue to Undo T-Mobile Merger, Saying It Raised All Prices](https://www.techdirt.com/2023/11/07/verizon-att-customers-sue-to-reverse-t-mobile-merger-saying-it-raised-everybodys-prices/)
+- [Overheating datacenter stopped 2.5M bank transactions](https://www.theregister.com/2023/11/07/overheating_datacenter_singapore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
