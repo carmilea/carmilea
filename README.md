@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Playstation is cutting off X sharing options](https://www.theverge.com/2023/11/6/23949343/playstation-x-sharing-options-ps5-ps4)
-- [Bluesky migrates from pg to single-tenant SQLite](https://github.com/bluesky-social/atproto/pull/1705)
-- [Google&#39;s Web Integrity Android API could kill alternative media clients](https://arstechnica.com/google/2023/11/google-kills-web-integrity-drm-for-the-web-still-wants-an-android-version/)
+- [Tesla drivers can now disable remote access in privacy win](https://cleanenergyrevolution.co/2023/11/06/tesla-drivers-can-now-disable-remote-access-in-privacy-win/)
+- [Apple&#39;s Trademark Exploit](https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/)
+- [Bluesky migrates to single-tenant SQLite](https://github.com/bluesky-social/atproto/pull/1705)
 - [Still no love for WPA3 on the Raspberry Pi 5](https://rachelbythebay.com/w/2023/11/06/wpa3/)
-- [Cruise Knew Its Self-Driving Cars Had Problems Recognizing Children](https://theintercept.com/2023/11/06/cruise-self-driving-cars-children/)
+- [Online Order Has Been Delivered–and It&#39;s Teeny Tiny](https://www.wsj.com/business/retail/online-order-miniature-tiny-d9911da8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
