@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Whole Earth Catalog 1968 [pdf]](https://monoskop.org/images/0/09/Brand_Stewart_Whole_Earth_Catalog_Fall_1968.pdf)
+- [Toxic toddler fruit pouches: &quot;high&quot; lead levels sicken 7 in 5 states](https://arstechnica.com/health/2023/11/toxic-toddler-fruit-pouches-extremely-high-lead-levels-sicken-7-in-5-states/)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers#section-job)
+- [A person who has had Parkinson&#39;s disease for 25 years can now walk again](https://english.elpais.com/science-tech/2023-11-06/a-person-who-has-had-parkinsons-disease-for-25-years-can-now-walk-again-thanks-to-a-neuroprosthesis.html)
 - [Validating Data in Elixir: Using Ecto and NimbleOptions](https://blog.appsignal.com/2023/11/07/validating-data-in-elixir-using-ecto-and-nimbleoptions.html)
-- [I Know What You Download on BitTorrent](https://iknowwhatyoudownload.com/en/peer/)
-- [Best Night Vision vs. Darkest Room [video]](https://www.youtube.com/watch?v=UAeJHAFjwPM)
-- [Show HN: Patterns – Habit Tracker App](https://apps.apple.com/ua/app/patterns-habit-tracker/id6469007119)
 <!-- BLOG-POST-LIST:END -->
 
 ---
