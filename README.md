@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Do deepfake videos undermine our epistemic trust?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291668)
+- [Bhutan sterilised and vaccinated 100% of their street dog population](https://worldanimalnews.com/the-kingdom-of-bhutan-becomes-first-country-in-the-world-to-achieve-100-stray-dog-sterilization-vaccination/)
 - [NASA&#39;s On-Demand Streaming Service, NASA+ &lpar;Official Trailer&rpar;](https://www.youtube.com/watch?v=TJRiuF8tQJU)
 - [PostgreSQL Encryption: The Available Options](https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html)
 - [AI App Graveyard](https://dang.ai/ai-graveyard)
-- [WeWork Goes Bankrupt](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall)
-- [Apple&#39;s Trademark Exploit](https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
