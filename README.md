@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Article 45 Will Roll Back Web Security by 12 Years](https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
-- [Northlight makes Alan Wake 2 shine](https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine)
-- [Google researchers deal a major blow to the theory AI about to outsmart humans](https://www.businessinsider.com/google-researchers-have-turned-agi-race-upside-down-with-paper-2023-11)
-- [Seeing Like a Bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)
-- [FTC Chair Lina Khan on AI regulation, startup acquisitions, and more](https://www.ycombinator.com/blog/garry-tan-interviews-ftc-chair-lina-khan/)
+- [In Switzerland, Most People Rent for Life. Is That What They Want?](https://www.nytimes.com/2023/11/06/realestate/zurich-switzerland-renting-homes.html)
+- [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
+- [Why Golang instead of Rust to develop the Krater desktop app](https://blog.moonguard.dev/why-golang-instead-of-rust-to-develop-the-krater-desktop-app)
+- [Solar Splitting of CO2 with 3D-Printed Hierarchically Channeled Ceria Structures](https://onlinelibrary.wiley.com/doi/10.1002/admi.202300452)
+- [I Got the Fed to Release Its 2011 &quot;Treasury Default&quot; Playbook](https://www.crisesnotes.com/i-got-the-fed-to-release-its-2011-treasury-default-playbook-heres-what-it-says-and-why-it-matters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
