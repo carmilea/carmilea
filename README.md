@@ -60,7 +60,7 @@
 - [Bhutan sterilised and vaccinated 100% of their street dog population](https://worldanimalnews.com/the-kingdom-of-bhutan-becomes-first-country-in-the-world-to-achieve-100-stray-dog-sterilization-vaccination/)
 - [NASA&#39;s On-Demand Streaming Service, NASA+ &lpar;Official Trailer&rpar;](https://www.youtube.com/watch?v=TJRiuF8tQJU)
 - [PostgreSQL Encryption: The Available Options](https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html)
-- [AI App Graveyard](https://dang.ai/ai-graveyard)
+- [WeWork Goes Bankrupt](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall)
 <!-- BLOG-POST-LIST:END -->
 
 ---
