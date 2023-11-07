@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FDA Proposes to Ban Food Additive, brominated vegetable oil](https://www.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals)
-- [The trouble with ingredients in sunscreens](https://www.ewg.org/sunscreen/report/the-trouble-with-sunscreen-chemicals/)
-- [&#39;Ray, This Is a Religion&#39; How the largest hedge fund lost two top hires](https://nymag.com/intelligencer/article/ray-dalio-rob-copeland-the-fund-book-excerpt.html)
-- [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
-- [Why Golang instead of Rust to develop the Krater desktop app](https://blog.moonguard.dev/why-golang-instead-of-rust-to-develop-the-krater-desktop-app)
+- [Asahi Linux folks are doing us a solid with WPA3 fixes](https://rachelbythebay.com/w/2023/11/07/wpa3/)
+- [Ex-Meta employee says his warnings of Instagram&#39;s harm to teens were ignored](https://www.theguardian.com/technology/2023/nov/07/meta-facebook-employee-congress-testimony-instagram-child-harm-social-media)
+- [What Does and Doesn&#39;t Matter about Apple Shooting Their October Event on iPhone](https://prolost.com/blog/scarybts)
+- [Core to Core Latency Data on Large Systems](https://chipsandcheese.com/2023/11/07/core-to-core-latency-data-on-large-systems/)
+- [Writing a Compiler is Surprisingly Easy &lpar;part 1&rpar;](http://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
