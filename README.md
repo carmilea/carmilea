@@ -57,9 +57,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [NASA&#39;s On-Demand Streaming Service, NASA+ &lpar;Official Trailer&rpar;](https://www.youtube.com/watch?v=TJRiuF8tQJU)
+- [PostgreSQL Encryption: The Available Options](https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html)
 - [AI App Graveyard](https://dang.ai/ai-graveyard)
 - [WeWork Goes Bankrupt](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall)
-- [Tesla drivers can now disable remote access in privacy win](https://cleanenergyrevolution.co/2023/11/06/tesla-drivers-can-now-disable-remote-access-in-privacy-win/)
 - [Apple&#39;s Trademark Exploit](https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/)
 <!-- BLOG-POST-LIST:END -->
 
