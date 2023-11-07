@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Switzerland, Most People Rent for Life. Is That What They Want?](https://www.nytimes.com/2023/11/06/realestate/zurich-switzerland-renting-homes.html)
+- [FDA Proposes to Ban Food Additive, brominated vegetable oil](https://www.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals)
+- [The trouble with ingredients in sunscreens](https://www.ewg.org/sunscreen/report/the-trouble-with-sunscreen-chemicals/)
+- [&#39;Ray, This Is a Religion&#39; How the largest hedge fund lost two top hires](https://nymag.com/intelligencer/article/ray-dalio-rob-copeland-the-fund-book-excerpt.html)
 - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
 - [Why Golang instead of Rust to develop the Krater desktop app](https://blog.moonguard.dev/why-golang-instead-of-rust-to-develop-the-krater-desktop-app)
-- [Solar Splitting of CO2 with 3D-Printed Hierarchically Channeled Ceria Structures](https://onlinelibrary.wiley.com/doi/10.1002/admi.202300452)
-- [I Got the Fed to Release Its 2011 &quot;Treasury Default&quot; Playbook](https://www.crisesnotes.com/i-got-the-fed-to-release-its-2011-treasury-default-playbook-heres-what-it-says-and-why-it-matters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
