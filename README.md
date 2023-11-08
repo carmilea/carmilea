@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bad eIDAS: Europe ready to intercept, spy on your encrypted HTTPS connections](https://www.theregister.com/2023/11/08/europe_eidas_browser/)
+- [Banning E2EE is stupid](https://github.com/davidchisnall/banning-e2ee-is-stupid)
 - [Opusmodus: Common Lisp Music Composition System](https://opusmodus.com/)
 - [Hard-to-swallow truths they won&#39;t tell you about software engineer job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/)
 - [Chamberlain blocks smart garage door opener from working with smart homes](https://arstechnica.com/gadgets/2023/11/chamberlain-blocks-smart-garage-door-opener-from-working-with-smart-homes/)
-- [Trouble Brewing for RISC-V as Issue of Technology Transfer Is Questioned](https://hackaday.com/2023/11/07/trouble-brewing-for-risc-v-as-issue-of-technology-transfer-is-questioned/)
-- [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Cross-Platform Developer in Paris &lpar;Rust, Wgpu&rpar;](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
