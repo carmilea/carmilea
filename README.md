@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Can Now Film in NYPD Precincts, Thanks to YouTuber&#39;s Lawsuit](https://hellgatenyc.com/you-can-now-film-in-nypd-precincts-thanks-to-this-youtuber)
 - [Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
+- [Ask HN: What&#39;s the most interesting &lpar;non-AI&rpar; advancement in tech in 2023?](https://news.ycombinator.com/item?id=38191285)
 - [Build a Lightweight Code Generator with TypeScript and JSON Imports](https://spin.atomicobject.com/2023/11/08/code-generator-typescript-json/)
-- [Heavy-seed origin of early supermassive black holes from a z ≈ 10 X-ray quasar](https://www.nature.com/articles/s41550-023-02111-9)
-- [Workers in Sweden Will Expand Strike Against Tesla](https://www.nytimes.com/2023/11/07/world/europe/sweden-tesla-strike.html)
-- [Major Outage Across ChatGPT and API](https://status.openai.com/incidents/00fpy0yxrx1q)
+- [The Power of Vector Databases in Anomaly Detection](https://www.singlestore.com/blog/the-power-of-vector-databases-in-anomaly-detection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
