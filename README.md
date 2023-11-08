@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
+- [Ask HN: What is your standard for judging when AGI exists?](https://news.ycombinator.com/item?id=38185925)
+- [The Software Engineer&#39;s Guidebook](https://www.engguidebook.com/)
 - [Bing Chat is so hungry for GPUs, Microsoft will rent them from Oracle](https://www.theregister.com/2023/11/07/bing_gpu_oracle/)
-- [Water-injected 2.0-liter hydrogen engine makes 410 horsepower](https://www.motor1.com/news/692276/tiny-race-engine-gas-diesel-hydrogen/)
 - [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
-- [Nature retracts controversial superconductivity paper by embattled physicist](https://www.nature.com/articles/d41586-023-03398-4)
-- [Tumble Forth](http://tumbleforth.hardcoded.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
