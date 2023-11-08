@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Cross-Platform Developer in Paris &lpar;Rust, Wgpu&rpar;](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
+- [Don&#39;t Disable Buttons](https://gomakethings.com/dont-disable-buttons/)
+- [Legendary Semiconductor Physicist Simon Sze is no more](https://www.legacy.com/us/obituaries/sfgate/name/simon-sze-obituary?id=53535445)
 - [When Linux Spooked Microsoft: Remembering 1998&#39;s Leaked &#39;Halloween Documents&#39;](https://linux.slashdot.org/story/23/11/05/046247/when-linux-spooked-microsoft-remembering-1998s-leaked-halloween-documents)
-- [EU Digital Identity Reform: The Good, Bad and Ugly in the EIDAS Regulation](https://epicenter.works/en/content/eu-digital-identity-reform-the-good-bad-ugly-in-the-eidas-regulation)
-- [The bash book to rule them all](https://fabiensanglard.net/bash/index.html)
 - [Stop making every conversation about yourself](https://thoguhts.substack.com/p/stop-making-every-conversation-about)
-- [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
