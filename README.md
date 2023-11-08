@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dietary restriction of isoleucine increases healthspan and lifespan in mice](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00374-1)
-- [Whisper v3](https://github.com/openai/whisper/discussions/1762)
-- [Device keeps brain alive, functioning separate from body](https://www.utsouthwestern.edu/newsroom/articles/year-2023/oct-device-keeps-brain-alive.html)
-- [Show HN: Roboco-op, a computational blackboard for efficient human/AI collab](https://observablehq.com/@tomlarkworthy/robocoop)
-- [Chopstick robot handle boxes with ease](https://spectrum.ieee.org/warehouse-robots)
+- [Bing Chat is so hungry for GPUs, Microsoft will rent them from Oracle](https://www.theregister.com/2023/11/07/bing_gpu_oracle/)
+- [Water-injected 2.0-liter hydrogen engine makes 410 horsepower](https://www.motor1.com/news/692276/tiny-race-engine-gas-diesel-hydrogen/)
+- [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
+- [Nature retracts controversial superconductivity paper by embattled physicist](https://www.nature.com/articles/d41586-023-03398-4)
+- [Tumble Forth](http://tumbleforth.hardcoded.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
