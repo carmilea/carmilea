@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Smartphone Shipments Decline 19% in Q3 2023 as More Americans Delay Upgrade](https://www.counterpointresearch.com/insights/us-smartphone-shipments-decline-19-yoy-in-q3-2023-as-more-americans-delay-smartphone-upgrade/)
 - [Wikipedia Became the Last Good Place on the Internet](https://www.cambridge.org/core/journals/american-political-science-review/article/rule-ambiguity-institutional-clashes-and-population-loss-how-wikipedia-became-the-last-good-place-on-the-internet/FC3F7B9CBF951DD30C2648E7DEFB65EE)
-- [Banning E2EE is stupid](https://github.com/davidchisnall/banning-e2ee-is-stupid)
-- [Opusmodus: Common Lisp Music Composition System](https://opusmodus.com/)
-- [Officially Qualified – Ferrocene](https://ferrous-systems.com/blog/officially-qualified-ferrocene/)
-- [Hard-to-swallow truths they won&#39;t tell you about software engineer job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/)
+- [Spain lives in flats: why we have built our cities vertically](https://especiales.eldiario.es/spain-lives-in-flats/)
+- [EU&#39;s concealment of secret &#39;expert list&#39; on CSAM regulation is maladministration](https://www.iccl.ie/news/ombudsman-european-commissions-concealment-of-secret-expert-list-on-csam-regulation-constitutes-maladministration/)
+- [Show HN: Modeling Berlin subway lines in graph database](https://memgraph.com/blog/ridding-the-berlin-subway-graph-database-adventure-with-memgraph-lab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
