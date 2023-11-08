@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe Is Selling AI-Generated Images of Violence in Gaza and Israel](https://www.vice.com/en/article/3akj3k/adobe-is-selling-fake-ai-generated-images-of-violence-in-gaza-and-israel)
+- [Original photo from Led Zeppelin IV album cover discovered](https://www.bbc.com/news/uk-england-wiltshire-67336495)
 - [SoftBank paid $1.5B to WeWork lenders days before bankruptcy](https://www.ft.com/content/020d78ab-c487-4586-a636-eced0368f531)
-- [An exonerated &#39;Central Park Five&#39; member will win a New York City Council seat](https://www.npr.org/2023/11/07/1211319472/exonerated-central-park-five-member-is-set-to-win-seat-on-new-york-city-council)
-- [Why has stoicism gained popularity in modern times?](https://www.thecollector.com/why-has-stoicism-gained-popularity-in-modern-times/)
 - [NYPD barred from telling people they can&#39;t film in precinct stations](https://hellgatenyc.com/you-can-now-film-in-nypd-precincts-thanks-to-this-youtuber)
-- [The problem isn&#39;t inflation. It&#39;s prices. What goes up may not come down](https://www.vox.com/money/2023/11/8/23951098/economy-inflation-prices-job-market-sticker-shock)
+- [Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
