@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Bard introduces &quot;Human reviewers,&quot; sparking privacy concerns](https://techstartups.com/2023/10/23/google-bard-now-includes-human-reviewers-who-may-read-your-conversations-dont-enter-sensitive-info-google-says/)
 - [Woman jailed after RentaHitman.com assassin turned out to be – surprise – FBI](https://www.theregister.com/2023/11/07/hitman_for_hire_jail/)
 - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
-- [Panama observes EST all year. Daylight Saving Time has never been used here](https://www.timeanddate.com/time/change/panama/panama)
+- [Interactive Examples for Learning Jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
 - [The Software Engineer&#39;s Guidebook](https://www.engguidebook.com/)
-- [Bing Chat is so hungry for GPUs, Microsoft will rent them from Oracle](https://www.theregister.com/2023/11/07/bing_gpu_oracle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
