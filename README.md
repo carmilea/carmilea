@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft won&#39;t let you close OneDrive on Windows until you explain yourself](https://www.theverge.com/2023/11/8/23952878/microsoft-onedrive-windows-close-app-notification)
-- [Understanding Dual Polarized Antenna](https://www.acceltex.com/understanding-the-awesomeness-of-dual-polarized-antennas-for-high-density/)
-- [How Bad Rails Conventions Got Me a Weekend Stay with the CEO of Airbnb](https://blog.josephofiowa.com/airbnb-weekend/)
+- [FBI and Austria&#39;s C4 Hit Z-Library with a New Wave of Domain Seizures](https://torrentfreak.com/fbi-austrias-c4-hit-z-library-with-a-massive-new-wave-of-domain-seizures-231108/)
+- [Daryl Davis Befriends KKK Members and Gets Them to Quit](https://allthatsinteresting.com/daryl-davis)
+- [Punica: Serving multiple LoRA finetuned LLM as one](https://github.com/punica-ai/punica)
 - [Interesting Bugs Caught by ESLint&#39;s no-constant-binary-expression](https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/)
 - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
 <!-- BLOG-POST-LIST:END -->
