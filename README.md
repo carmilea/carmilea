@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Bard introduces &quot;Human reviewers,&quot; sparking privacy concerns](https://techstartups.com/2023/10/23/google-bard-now-includes-human-reviewers-who-may-read-your-conversations-dont-enter-sensitive-info-google-says/)
-- [Smart garage door controller is no longer smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)
+- [The bash book to rule them all](https://fabiensanglard.net/bash/index.html)
+- [&quot;I&#39;m calling from Israeli intelligence&quot;](https://www.bbc.co.uk/news/world-middle-east-67327079)
 - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
 - [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
-- [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
+- [Ko: Easy Go Containers](https://ko.build/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
