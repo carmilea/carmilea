@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Google Bard introduces &quot;Human reviewers,&quot; sparking privacy concerns](https://techstartups.com/2023/10/23/google-bard-now-includes-human-reviewers-who-may-read-your-conversations-dont-enter-sensitive-info-google-says/)
-- [Woman jailed after RentaHitman.com assassin turned out to be – surprise – FBI](https://www.theregister.com/2023/11/07/hitman_for_hire_jail/)
+- [Smart garage door controller is no longer smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)
 - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
-- [Interactive Examples for Learning Jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
-- [The Software Engineer&#39;s Guidebook](https://www.engguidebook.com/)
+- [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
+- [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
