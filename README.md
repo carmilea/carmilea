@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Opusmodus: Common Lisp Music Composition System](https://opusmodus.com/)
+- [Hard-to-swallow truths they won&#39;t tell you about software engineer job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/)
+- [Chamberlain blocks smart garage door opener from working with smart homes](https://arstechnica.com/gadgets/2023/11/chamberlain-blocks-smart-garage-door-opener-from-working-with-smart-homes/)
+- [Trouble Brewing for RISC-V as Issue of Technology Transfer Is Questioned](https://hackaday.com/2023/11/07/trouble-brewing-for-risc-v-as-issue-of-technology-transfer-is-questioned/)
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Cross-Platform Developer in Paris &lpar;Rust, Wgpu&rpar;](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
-- [Don&#39;t Disable Buttons](https://gomakethings.com/dont-disable-buttons/)
-- [Legendary Semiconductor Physicist Simon Sze is no more](https://www.legacy.com/us/obituaries/sfgate/name/simon-sze-obituary?id=53535445)
-- [When Linux Spooked Microsoft: Remembering 1998&#39;s Leaked &#39;Halloween Documents&#39;](https://linux.slashdot.org/story/23/11/05/046247/when-linux-spooked-microsoft-remembering-1998s-leaked-halloween-documents)
-- [Stop making every conversation about yourself](https://thoguhts.substack.com/p/stop-making-every-conversation-about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
