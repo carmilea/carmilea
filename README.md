@@ -60,7 +60,7 @@
 - [EU Digital Identity Reform: The Good, Bad and Ugly in the EIDAS Regulation](https://epicenter.works/en/content/eu-digital-identity-reform-the-good-bad-ugly-in-the-eidas-regulation)
 - [The bash book to rule them all](https://fabiensanglard.net/bash/index.html)
 - [Stop making every conversation about yourself](https://thoguhts.substack.com/p/stop-making-every-conversation-about)
-- [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
+- [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
