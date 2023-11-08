@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When Linux Spooked Microsoft: Remembering 1998&#39;s Leaked &#39;Halloween Documents&#39;](https://linux.slashdot.org/story/23/11/05/046247/when-linux-spooked-microsoft-remembering-1998s-leaked-halloween-documents)
+- [EU Digital Identity Reform: The Good, Bad and Ugly in the EIDAS Regulation](https://epicenter.works/en/content/eu-digital-identity-reform-the-good-bad-ugly-in-the-eidas-regulation)
 - [The bash book to rule them all](https://fabiensanglard.net/bash/index.html)
-- [&quot;I&#39;m calling from Israeli intelligence&quot;](https://www.bbc.co.uk/news/world-middle-east-67327079)
+- [Stop making every conversation about yourself](https://thoguhts.substack.com/p/stop-making-every-conversation-about)
 - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
-- [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
-- [Ko: Easy Go Containers](https://ko.build/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
