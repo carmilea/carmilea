@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Woman jailed after RentaHitman.com assassin turned out to be – surprise – FBI](https://www.theregister.com/2023/11/07/hitman_for_hire_jail/)
 - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
-- [Ask HN: What is your standard for judging when AGI exists?](https://news.ycombinator.com/item?id=38185925)
+- [Panama observes EST all year. Daylight Saving Time has never been used here](https://www.timeanddate.com/time/change/panama/panama)
 - [The Software Engineer&#39;s Guidebook](https://www.engguidebook.com/)
 - [Bing Chat is so hungry for GPUs, Microsoft will rent them from Oracle](https://www.theregister.com/2023/11/07/bing_gpu_oracle/)
-- [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
