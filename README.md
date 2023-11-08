@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [$200M Gift Propels Scientific Research in the Search for Life Beyond Earth](https://www.seti.org/press-release/200m-gift-propels-scientific-research-search-life-beyond-earth)
 - [Humanity Just Witnessed Its First Space Battle](https://gizmodo.com/israel-houthi-missile-first-battle-in-space-1850999081)
-- [Operating systems with Rust – video lectures](https://rust-class.org/pages/classes.html)
 - [The housing market is starting to crack – Sellers are cutting prices](https://fortune.com/2023/11/06/housing-market-record-number-sellers-cut-asking-price-october-redfin/)
 - [After luring customers with low prices, Amazon stuffs Fire TVs with ads](https://arstechnica.com/gadgets/2023/11/after-luring-customers-with-low-prices-amazon-stuffs-fire-tvs-with-ads/)
 - [Gunung Padang buried prehistoric pyramid in West Java, Indonesia](https://onlinelibrary.wiley.com/doi/10.1002/arp.1912)
