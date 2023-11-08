@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe Is Selling AI-Generated Images of Violence in Gaza and Israel](https://www.vice.com/en/article/3akj3k/adobe-is-selling-fake-ai-generated-images-of-violence-in-gaza-and-israel)
-- [Original photo from Led Zeppelin IV album cover discovered](https://www.bbc.com/news/uk-england-wiltshire-67336495)
-- [SoftBank paid $1.5B to WeWork lenders days before bankruptcy](https://www.ft.com/content/020d78ab-c487-4586-a636-eced0368f531)
-- [NYPD barred from telling people they can&#39;t film in precinct stations](https://hellgatenyc.com/you-can-now-film-in-nypd-precincts-thanks-to-this-youtuber)
-- [Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
+- [Humanity Just Witnessed Its First Space Battle](https://gizmodo.com/israel-houthi-missile-first-battle-in-space-1850999081)
+- [Operating systems with Rust – video lectures](https://rust-class.org/pages/classes.html)
+- [The housing market is starting to crack – Sellers are cutting prices](https://fortune.com/2023/11/06/housing-market-record-number-sellers-cut-asking-price-october-redfin/)
+- [After luring customers with low prices, Amazon stuffs Fire TVs with ads](https://arstechnica.com/gadgets/2023/11/after-luring-customers-with-low-prices-amazon-stuffs-fire-tvs-with-ads/)
+- [Gunung Padang buried prehistoric pyramid in West Java, Indonesia](https://onlinelibrary.wiley.com/doi/10.1002/arp.1912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
