@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft won&#39;t let you close OneDrive on Windows until you explain yourself](https://www.theverge.com/2023/11/8/23952878/microsoft-onedrive-windows-close-app-notification)
+- [Understanding Dual Polarized Antenna](https://www.acceltex.com/understanding-the-awesomeness-of-dual-polarized-antennas-for-high-density/)
 - [How Bad Rails Conventions Got Me a Weekend Stay with the CEO of Airbnb](https://blog.josephofiowa.com/airbnb-weekend/)
+- [Interesting Bugs Caught by ESLint&#39;s no-constant-binary-expression](https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/)
 - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
-- [Another Major Outage Across ChatGPT and API](https://status.openai.com/incidents/21vl32gvx3hb)
-- [Google argues iMessage should be regulated by the EU&#39;s Digital Markets Act](https://arstechnica.com/gadgets/2023/11/google-argues-imessage-should-be-regulated-by-the-eus-digital-markets-act/)
-- [A picture is worth a thousand permissions requests](https://sixcolors.com/post/2023/11/a-picture-is-worth-a-thousand-permissions-requests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
