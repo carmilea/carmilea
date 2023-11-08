@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bad eIDAS: Europe ready to intercept, spy on your encrypted HTTPS connections](https://www.theregister.com/2023/11/08/europe_eidas_browser/)
+- [Wikipedia Became the Last Good Place on the Internet](https://www.cambridge.org/core/journals/american-political-science-review/article/rule-ambiguity-institutional-clashes-and-population-loss-how-wikipedia-became-the-last-good-place-on-the-internet/FC3F7B9CBF951DD30C2648E7DEFB65EE)
 - [Banning E2EE is stupid](https://github.com/davidchisnall/banning-e2ee-is-stupid)
 - [Opusmodus: Common Lisp Music Composition System](https://opusmodus.com/)
+- [Officially Qualified – Ferrocene](https://ferrous-systems.com/blog/officially-qualified-ferrocene/)
 - [Hard-to-swallow truths they won&#39;t tell you about software engineer job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/)
-- [Chamberlain blocks smart garage door opener from working with smart homes](https://arstechnica.com/gadgets/2023/11/chamberlain-blocks-smart-garage-door-opener-from-working-with-smart-homes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
