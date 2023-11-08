@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Smartphone Shipments Decline 19% in Q3 2023 as More Americans Delay Upgrade](https://www.counterpointresearch.com/insights/us-smartphone-shipments-decline-19-yoy-in-q3-2023-as-more-americans-delay-smartphone-upgrade/)
-- [Wikipedia Became the Last Good Place on the Internet](https://www.cambridge.org/core/journals/american-political-science-review/article/rule-ambiguity-institutional-clashes-and-population-loss-how-wikipedia-became-the-last-good-place-on-the-internet/FC3F7B9CBF951DD30C2648E7DEFB65EE)
-- [Spain lives in flats: why we have built our cities vertically](https://especiales.eldiario.es/spain-lives-in-flats/)
-- [EU&#39;s concealment of secret &#39;expert list&#39; on CSAM regulation is maladministration](https://www.iccl.ie/news/ombudsman-european-commissions-concealment-of-secret-expert-list-on-csam-regulation-constitutes-maladministration/)
-- [Show HN: Modeling Berlin subway lines in graph database](https://memgraph.com/blog/ridding-the-berlin-subway-graph-database-adventure-with-memgraph-lab)
+- [Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
+- [Build a Lightweight Code Generator with TypeScript and JSON Imports](https://spin.atomicobject.com/2023/11/08/code-generator-typescript-json/)
+- [Heavy-seed origin of early supermassive black holes from a z ≈ 10 X-ray quasar](https://www.nature.com/articles/s41550-023-02111-9)
+- [Workers in Sweden Will Expand Strike Against Tesla](https://www.nytimes.com/2023/11/07/world/europe/sweden-tesla-strike.html)
+- [Major Outage Across ChatGPT and API](https://status.openai.com/incidents/00fpy0yxrx1q)
 <!-- BLOG-POST-LIST:END -->
 
 ---
