@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI and Austria&#39;s C4 Hit Z-Library with a New Wave of Domain Seizures](https://torrentfreak.com/fbi-austrias-c4-hit-z-library-with-a-massive-new-wave-of-domain-seizures-231108/)
-- [Daryl Davis Befriends KKK Members and Gets Them to Quit](https://allthatsinteresting.com/daryl-davis)
-- [Punica: Serving multiple LoRA finetuned LLM as one](https://github.com/punica-ai/punica)
-- [Interesting Bugs Caught by ESLint&#39;s no-constant-binary-expression](https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/)
-- [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
+- [Omegle founder shuts down site forever?](https://www.omegle.com/)
+- [Man crushed to death by robot that mistook him for a box of vegetables](https://www.telegraph.co.uk/world-news/2023/11/08/man-crushed-to-death-south-korea-industrial-robot/)
+- [On-Crash Backtraces in Swift](https://www.swift.org/blog/swift-5.9-backtraces/)
+- [Sad clown paradox](https://en.wikipedia.org/wiki/Sad_clown_paradox)
+- [Signal Public Username Testing &lpar;Staging Environment&rpar;](https://community.signalusers.org/t/public-username-testing-staging-environment/56866)
 <!-- BLOG-POST-LIST:END -->
 
 ---
