@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m calling from Israeli intelligence. We have orders to bomb. You have 2 hours](https://www.bbc.com/news/world-middle-east-67327079)
+- [Are we doing this again? Yes, we&#39;re doing this again](https://webdevlaw.uk/2023/11/08/investigatory-powers-act-amendment-kings-speech/)
+- [Copilot for Docs](https://githubnext.com/projects/copilot-for-docs/)
 - [i386 Assembly Language trick for storing data in .text](https://ratfactor.com/cards/asm-data-in-text)
-- [A door at a Swedish library was accidentally left open](https://www.zmescience.com/science/news-science/a-door-at-a-swedish-library-was-accidentally-left-open-446-people-came-in-borrowed-245-books-every-single-one-was-returned/)
-- [Researchers uncover the fastest semiconductor yet](https://spectrum.ieee.org/semiconductor)
-- [Tested: Black 4.0, the &quot;blackest black&quot; is a lot blacker. 0f1012 vs. 272928](https://i.imgur.com/3njfTJP.jpg)
-- [Sony announces a9 III: first full-frame global shutter camera](https://www.dpreview.com/news/7271416294/sony-announces-a9-iii-world-s-first-full-frame-global-shutter-camera)
+- [Actors Strike Ends with a Deal That Will Impact AI and Streaming for Decades](https://www.wired.com/story/hollywood-actors-strike-ends-ai-streaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
