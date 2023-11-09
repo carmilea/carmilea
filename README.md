@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lobbyist says Right to Repair is bad for black people [video]](https://www.youtube.com/watch?v=W6DB0Oo81OE)
 - [S-LoRA: Serving Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285)
-- [Steve Wozniak Hospitalized in Mexico City](https://www.reuters.com/technology/apple-co-founder-hospitalized-mexico-due-possible-stroke-local-media-2023-11-09/)
-- [A Hiker Is Lucky to Be Alive After Following a Fake Trail on Google Maps](https://www.backpacker.com/news-and-events/news/a-hiker-is-lucky-to-be-alive-after-following-a-fake-trail-on-google-maps/)
+- [Sony announces a9 III: first full-frame global shutter camera](https://www.dpreview.com/news/7271416294/sony-announces-a9-iii-world-s-first-full-frame-global-shutter-camera)
 - [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378)
 - [Using GPT-4 Vision with Vimium to browse the web](https://github.com/ishan0102/vimGPT)
 <!-- BLOG-POST-LIST:END -->
