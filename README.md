@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=38207307)
+- [What I learned getting acquired by Google](https://shreyans.org/google)
+- [Python errors as values: Comparing useful patterns from Rust and Go](https://www.inngest.com/blog/python-errors-as-values)
 - [World&#39;s largest aircraft breaks cover in Silicon Valley](https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/)
 - [Commercial Plant Starts Pulling Carbon from the Air](https://www.nytimes.com/2023/11/09/climate/direct-air-capture-carbon.html)
-- [Ask HN: Should we plan for a life after HN?](https://news.ycombinator.com/item?id=38206454)
-- [Las Vegas Sphere reports $98.4M loss; CFO quits](https://lasvegassun.com/news/2023/nov/08/las-vegas-sphere-reports-984-million-loss-cfo-quit/)
-- [CLion Nova Explodes onto the C and C++ Development Scene](https://blog.jetbrains.com/clion/2023/11/clion-nova/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
