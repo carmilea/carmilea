@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jezebel to shut down after 16 years as parent company lays off staff](https://www.theguardian.com/media/2023/nov/09/jezebel-news-shut-down-layoffs-go-media)
-- [Steam Deck OLED](https://store.steampowered.com/sale/steamdeck_2023)
-- [Introducing Adept Experiments – use AI workflows to delegate repetitive tasks](https://www.adept.ai/blog/experiments)
-- [Humane AI Pin](https://hu.ma.ne/aipin)
-- [Why Rust in Production?](https://corrode.dev/why-rust/)
+- [Blue Lagoon geothermal spa in Iceland closes after series of earthquakes](https://www.theguardian.com/world/2023/nov/09/iceland-blue-lagoon-geothermal-resort-closes-seismic-storm-volcanic-eruption-fears)
+- [YouTube&#39;s Adblock detection might break the law in the EU](https://www.youtube.com/watch?v=fqhPUmyrfGI)
+- [Thomas Massie Failed to Stop &quot;Kill Switch&quot; Mandate That Could Disable Vehicles](https://reclaimthenet.org/thomas-massie-tried-but-failed-to-stop-kill-switch-mandate-that-could-disable-vehicles)
+- [A robot in South Korea mistook a man for a box of vegetables and killed him](https://www.bbc.com/news/world-asia-67354709)
+- [No bar exam required to practice law in Oregon starting next year](https://www.reuters.com/legal/government/no-bar-exam-required-practice-law-oregon-starting-next-year-2023-11-07/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
