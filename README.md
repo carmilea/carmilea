@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarking GPT-4 Turbo – A Cautionary Tale](https://blog.mentat.ai/benchmarking-gpt-4-turbo-a-cautionary-tale)
-- [Ploomber &lpar;YC W22&rpar; Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber)
-- [Steve Wozniak hospitalized after fainting at an event in Mexico City](https://www.cnn.com/2023/11/09/tech/apple-cofounder-steve-wozniak-hospitalized-intl-hnk/index.html)
-- [Thiel&#39;s Unicorn Success Is Awkward for Colleges](https://www.washingtonpost.com/business/2023/10/19/thiel-s-unicorn-success-is-awkward-for-colleges/93db4230-6e6a-11ee-b01a-f593caa04363_story.html)
-- [List of experts advising the EU in support of CSAM has been published](https://digitalcourage.social/@echo_pbreyer/111364497308411817#.)
+- [Apple and Irish Government suffer major setback in €13B EU case](https://www.irishtimes.com/business/2023/11/09/apple-and-irish-government-suffer-major-setback-in-13bn-eu-tax-case/)
+- [We Need a Revolution](https://www.fairphone.com/en/2023/11/09/we-need-a-revolution/)
+- [Servo announces grant from the NLnet Foundation](https://servo.org/blog/2023/11/06/nlgrant-announcement/)
+- [Every story has one of these six basic plots](https://www.bbc.com/culture/article/20180525-every-story-in-the-world-has-one-of-these-six-basic-plots)
+- [Microservices – State of Developer Ecosystem 2022 &lpar;JetBrains&rpar;](https://www.jetbrains.com/lp/devecosystem-2022/microservices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
