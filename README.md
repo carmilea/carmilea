@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On Medieval Cats](https://going-medieval.com/2023/05/16/on-cats/)
+- [Implementing TCP in Rust](https://github.com/Ghvstcode/Rust-Tcp)
+- [Monaspace](https://monaspace.githubnext.com/)
 - [Illinois Senate approves plan to allow new nuclear reactors](https://apnews.com/article/illinois-nuclear-small-modular-reactors-moratorium-a56a90a09185e864cdd7f5d6d24b9d48)
 - [Blue Lagoon geothermal spa in Iceland closes after series of earthquakes](https://www.theguardian.com/world/2023/nov/09/iceland-blue-lagoon-geothermal-resort-closes-seismic-storm-volcanic-eruption-fears)
-- [YouTube&#39;s Adblock detection might break the law in the EU](https://www.youtube.com/watch?v=fqhPUmyrfGI)
-- [Doctors Complete First Successful Face and Whole-Eye Transplant](https://www.scientificamerican.com/article/doctors-complete-first-successful-face-and-whole-eye-transplant/)
-- [Tumblr is reportedly on life support as its latest owner reassigns staff](https://arstechnica.com/gadgets/2023/11/tumblr-is-reportedly-on-life-support-as-its-latest-owner-reassigns-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
