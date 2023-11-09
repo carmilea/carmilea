@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jezebel to shut down after 16 years as parent company lays off staff](https://www.theguardian.com/media/2023/nov/09/jezebel-news-shut-down-layoffs-go-media)
 - [Steam Deck OLED](https://store.steampowered.com/sale/steamdeck_2023)
-- [Ask HN: Ways to make side income as a SWE?](https://news.ycombinator.com/item?id=38208296)
+- [Introducing Adept Experiments – use AI workflows to delegate repetitive tasks](https://www.adept.ai/blog/experiments)
 - [Humane AI Pin](https://hu.ma.ne/aipin)
 - [Why Rust in Production?](https://corrode.dev/why-rust/)
-- [Show HN: GPT-4V audit for your landing page](https://uxaudit.vercel.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
