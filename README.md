@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: As a first-time solopreneur how would you go about hiring the first team](https://news.ycombinator.com/item?id=38203128)
-- [Hoppscotch Desktop Application](https://hoppscotch.com/blog/introducing-hoppscotch-desktop-application)
-- [Unemployed Man Uses AI to Apply for 5k Jobs, Gets 20 Interviews](https://futurism.com/the-byte/unemployed-man-ai-apply-5000-jobs-gets-20-interviews)
-- [Show HN: I built a tool to get &quot;Your app was approved/rejected &quot; alerts on Slack](https://statused.com)
-- [Traffic collisions including cyclists in London 2022](https://github.com/Lisa-Ho/30-day-map-challenge/blob/main/2023/Day9-cyclist-accidents/london-accidents.ipynb)
+- [Ploomber &lpar;YC W22&rpar; Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber)
+- [Steve Wozniak hospitalized after fainting at an event in Mexico City](https://www.cnn.com/2023/11/09/tech/apple-cofounder-steve-wozniak-hospitalized-intl-hnk/index.html)
+- [Thiel&#39;s Unicorn Success Is Awkward for Colleges](https://www.washingtonpost.com/business/2023/10/19/thiel-s-unicorn-success-is-awkward-for-colleges/93db4230-6e6a-11ee-b01a-f593caa04363_story.html)
+- [List of experts advising the EU in support of CSAM has been published](https://digitalcourage.social/@echo_pbreyer/111364497308411817#.)
+- [The Netwide Assembler &lpar;NASM&rpar;](https://www.nasm.us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
