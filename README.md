@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Streaming TV Prices Double, Likely Driving Users Back to Piracy](https://www.techdirt.com/2023/11/09/streaming-tv-prices-double-as-enshittification-takes-root-likely-driving-users-back-to-piracy/)
+- [Olive oil soars, and thieves go after century-old trees in the Mediterranean](https://www.latimes.com/world-nation/story/2023-11-08/olive-oil-price-soars-thieves-target-old-trees)
 - [Apple and Irish Government suffer major setback in €13B EU case](https://www.irishtimes.com/business/2023/11/09/apple-and-irish-government-suffer-major-setback-in-13bn-eu-tax-case/)
-- [We Need a Revolution](https://www.fairphone.com/en/2023/11/09/we-need-a-revolution/)
-- [Servo announces grant from the NLnet Foundation](https://servo.org/blog/2023/11/06/nlgrant-announcement/)
-- [Every story has one of these six basic plots](https://www.bbc.com/culture/article/20180525-every-story-in-the-world-has-one-of-these-six-basic-plots)
-- [Microservices – State of Developer Ecosystem 2022 &lpar;JetBrains&rpar;](https://www.jetbrains.com/lp/devecosystem-2022/microservices/)
+- [Sex, Age, and Smartphone Addiction Across 41 Countries](https://link.springer.com/article/10.1007/s11469-023-01146-3)
+- [System76&#39;s Lemur Pro Laptop Is Just a Nice Linux Laptop](https://www.wired.com/review/system-76-lemur-pro-laptop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
