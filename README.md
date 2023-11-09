@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=38207307)
-- [What I learned getting acquired by Google](https://shreyans.org/google)
-- [Python errors as values: Comparing useful patterns from Rust and Go](https://www.inngest.com/blog/python-errors-as-values)
-- [World&#39;s largest aircraft breaks cover in Silicon Valley](https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/)
-- [Commercial Plant Starts Pulling Carbon from the Air](https://www.nytimes.com/2023/11/09/climate/direct-air-capture-carbon.html)
+- [Steam Deck OLED](https://store.steampowered.com/sale/steamdeck_2023)
+- [Ask HN: Ways to make side income as a SWE?](https://news.ycombinator.com/item?id=38208296)
+- [Humane AI Pin](https://hu.ma.ne/aipin)
+- [Why Rust in Production?](https://corrode.dev/why-rust/)
+- [Show HN: GPT-4V audit for your landing page](https://uxaudit.vercel.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
