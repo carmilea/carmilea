@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Steve Wozniak Hospitalized in Mexico City](https://www.reuters.com/technology/apple-co-founder-hospitalized-mexico-due-possible-stroke-local-media-2023-11-09/)
+- [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378)
 - [Using GPT-4 Vision with Vimium to browse the web](https://github.com/ishan0102/vimGPT)
 - [After a $1.8B verdict, the clock is ticking on the 6% realtor commission](https://www.cnn.com/2023/11/05/homes/nar-verdict-real-estate-commission-fee/index.html)
 - [Omegle founder shuts down site forever?](https://www.omegle.com/)
-- [First planned small nuclear reactor plant in the US has been canceled](https://arstechnica.com/science/2023/11/first-planned-small-nuclear-reactor-plant-in-the-us-has-been-canceled/)
-- [On-Crash Backtraces in Swift](https://www.swift.org/blog/swift-5.9-backtraces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
