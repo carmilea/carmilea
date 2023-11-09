@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Streaming TV Prices Double, Likely Driving Users Back to Piracy](https://www.techdirt.com/2023/11/09/streaming-tv-prices-double-as-enshittification-takes-root-likely-driving-users-back-to-piracy/)
-- [Olive oil soars, and thieves go after century-old trees in the Mediterranean](https://www.latimes.com/world-nation/story/2023-11-08/olive-oil-price-soars-thieves-target-old-trees)
-- [Apple and Irish Government suffer major setback in €13B EU case](https://www.irishtimes.com/business/2023/11/09/apple-and-irish-government-suffer-major-setback-in-13bn-eu-tax-case/)
-- [Sex, Age, and Smartphone Addiction Across 41 Countries](https://link.springer.com/article/10.1007/s11469-023-01146-3)
-- [System76&#39;s Lemur Pro Laptop Is Just a Nice Linux Laptop](https://www.wired.com/review/system-76-lemur-pro-laptop/)
+- [World&#39;s largest aircraft breaks cover in Silicon Valley](https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/)
+- [Commercial Plant Starts Pulling Carbon from the Air](https://www.nytimes.com/2023/11/09/climate/direct-air-capture-carbon.html)
+- [Ask HN: Should we plan for a life after HN?](https://news.ycombinator.com/item?id=38206454)
+- [Las Vegas Sphere reports $98.4M loss; CFO quits](https://lasvegassun.com/news/2023/nov/08/las-vegas-sphere-reports-984-million-loss-cfo-quit/)
+- [CLion Nova Explodes onto the C and C++ Development Scene](https://blog.jetbrains.com/clion/2023/11/clion-nova/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
