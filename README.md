@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Benchmarking GPT-4 Turbo – A Cautionary Tale](https://blog.mentat.ai/benchmarking-gpt-4-turbo-a-cautionary-tale)
 - [Ploomber &lpar;YC W22&rpar; Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber)
 - [Steve Wozniak hospitalized after fainting at an event in Mexico City](https://www.cnn.com/2023/11/09/tech/apple-cofounder-steve-wozniak-hospitalized-intl-hnk/index.html)
 - [Thiel&#39;s Unicorn Success Is Awkward for Colleges](https://www.washingtonpost.com/business/2023/10/19/thiel-s-unicorn-success-is-awkward-for-colleges/93db4230-6e6a-11ee-b01a-f593caa04363_story.html)
 - [List of experts advising the EU in support of CSAM has been published](https://digitalcourage.social/@echo_pbreyer/111364497308411817#.)
-- [The Netwide Assembler &lpar;NASM&rpar;](https://www.nasm.us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
