@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU Council and Parliament reach agreement for approving controversial eIDAS law](https://www.consilium.europa.eu/en/press/press-releases/2023/11/08/european-digital-identity-council-and-parliament-reach-a-provisional-agreement-on-eid/)
-- [Largest scandal in Danish Intelligence reached a new turn](https://www.theguardian.com/world/2023/oct/02/scandinavian-spy-drama-the-intelligence-chief-who-came-under-state-surveillance)
-- [Are we doing this again? Yes, we&#39;re doing this again](https://webdevlaw.uk/2023/11/08/investigatory-powers-act-amendment-kings-speech/)
-- [Copilot for Docs](https://githubnext.com/projects/copilot-for-docs/)
-- [i386 Assembly Language trick for storing data in .text](https://ratfactor.com/cards/asm-data-in-text)
+- [Ask HN: As a first-time solopreneur how would you go about hiring the first team](https://news.ycombinator.com/item?id=38203128)
+- [Hoppscotch Desktop Application](https://hoppscotch.com/blog/introducing-hoppscotch-desktop-application)
+- [Unemployed Man Uses AI to Apply for 5k Jobs, Gets 20 Interviews](https://futurism.com/the-byte/unemployed-man-ai-apply-5000-jobs-gets-20-interviews)
+- [Show HN: I built a tool to get &quot;Your app was approved/rejected &quot; alerts on Slack](https://statused.com)
+- [Traffic collisions including cyclists in London 2022](https://github.com/Lisa-Ho/30-day-map-challenge/blob/main/2023/Day9-cyclist-accidents/london-accidents.ipynb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
