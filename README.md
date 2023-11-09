@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Medieval Cats](https://going-medieval.com/2023/05/16/on-cats/)
+- [Room Temperature Superconductor Paper Retracted by Journal Nature](https://www.wsj.com/science/superconductor-paper-retracted-journal-nature-ranga-dias-c437ce6e)
+- [On medieval cats](https://going-medieval.com/2023/05/16/on-cats/)
 - [Implementing TCP in Rust](https://github.com/Ghvstcode/Rust-Tcp)
 - [Monaspace](https://monaspace.githubnext.com/)
-- [Illinois Senate approves plan to allow new nuclear reactors](https://apnews.com/article/illinois-nuclear-small-modular-reactors-moratorium-a56a90a09185e864cdd7f5d6d24b9d48)
 - [Blue Lagoon geothermal spa in Iceland closes after series of earthquakes](https://www.theguardian.com/world/2023/nov/09/iceland-blue-lagoon-geothermal-resort-closes-seismic-storm-volcanic-eruption-fears)
 <!-- BLOG-POST-LIST:END -->
 
