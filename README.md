@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [i386 Assembly Language trick for storing data in .text](https://ratfactor.com/cards/asm-data-in-text)
 - [Lobbyist says Right to Repair is bad for black people [video]](https://www.youtube.com/watch?v=W6DB0Oo81OE)
-- [S-LoRA: Serving Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285)
-- [Sony announces a9 III: first full-frame global shutter camera](https://www.dpreview.com/news/7271416294/sony-announces-a9-iii-world-s-first-full-frame-global-shutter-camera)
-- [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378)
-- [Using GPT-4 Vision with Vimium to browse the web](https://github.com/ishan0102/vimGPT)
+- [A door at a Swedish library was accidentally left open](https://www.zmescience.com/science/news-science/a-door-at-a-swedish-library-was-accidentally-left-open-446-people-came-in-borrowed-245-books-every-single-one-was-returned/)
+- [Researchers uncover the fastest semiconductor yet](https://spectrum.ieee.org/semiconductor)
+- [Tested: Black 4.0, the &quot;blackest black&quot; is a lot blacker. 0f1012 vs. 272928](https://i.imgur.com/3njfTJP.jpg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
