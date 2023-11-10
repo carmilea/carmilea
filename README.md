@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Outlook sends passwords, mails and other data to Microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft)
-- [The FCC voted to reimplement net neutrality. Now comes the hard part](https://www.nationaljournal.com/s/723252/the-fcc-voted-to-reimplement-net-neutrality-now-comes-the-hard-part/)
-- [BitTorrent Pirates Won&#39;t Receive ISP Warnings &lpar;It Will Be Something Worse&rpar;](https://torrentfreak.com/bittorrent-pirates-wont-receive-isp-warnings-it-will-be-something-worse-231110/)
-- [Cell Reprogramming for Regeneration and Repair of the Nervous System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599606/)
-- [Git cherry-pick and revert use 3-way merge](https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/)
+- [Five researchers fared after their &#39;great resignation&#39; from academia](https://www.nature.com/articles/d41586-023-03484-7)
+- [Amazon gives Apple &#39;massive preferential treatment&#39; in secret deal report claims](https://9to5mac.com/2023/11/10/amazon-apple-special-deal-online-storefront/)
+- [Ottoman-Era Bird Palaces](https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/)
+- [Generating Code Without Generating Technical Debt?](https://sourcery.ai/blog/chatgpt-maintainable-code/)
+- [Rare egg-laying mammal &lpar;echidna&rpar; rediscovered in Indonesia](https://www.cbc.ca/news/science/echidna-video-1.7024966)
 <!-- BLOG-POST-LIST:END -->
 
 ---
