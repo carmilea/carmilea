@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft briefly blocked employees from using ChatGPT over security concerns](https://www.engadget.com/microsoft-briefly-blocked-employees-from-using-chatgpt-over-security-concerns-080403177.html)
-- [Congress mandates new car technology to stop drunken driving &lpar;2021&rpar;](https://apnews.com/article/coronavirus-pandemic-joe-biden-technology-business-health-068ee87392b0cca1444053b854a514dd)
-- [Don&#39;t Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai)
-- [Dungeon KeeperFX 1.0.0 has been released](https://keeperfx.net/news/11/2023-11-10/keeperfx-100-has-been-released)
-- [New York Restaurants Fight Back Against Reservations by Bots](https://www.bloomberg.com/news/articles/2023-10-25/new-york-restaurants-bars-fight-back-against-reservations-by-bots)
+- [BitTorrent Pirates Won&#39;t Receive ISP Warnings &lpar;It Will Be Something Worse&rpar;](https://torrentfreak.com/bittorrent-pirates-wont-receive-isp-warnings-it-will-be-something-worse-231110/)
+- [Cell Reprogramming for Regeneration and Repair of the Nervous System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599606/)
+- [Git cherry-pick and revert use 3-way merge](https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/)
+- [Prominent S.F. developers charged with bribery in widening corruption scandal](https://www.sfchronicle.com/crime/article/sf-corruption-scandal-sia-tahbazof-18334456.php)
+- [Google Cloud TPU Multislice Training](https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
