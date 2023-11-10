@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursorless is alien magic from the future – Xe Iaso](https://xeiaso.net/notes/cursorless-alien-magic/)
+- [EuclideanSpace](https://euclideanspace.com/)
+- [Cursorless is alien magic from the future](https://xeiaso.net/notes/cursorless-alien-magic/)
+- [GPU advancements in M3 and A17 Pro [video]](https://developer.apple.com/videos/play/tech-talks/111375)
 - [Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
 - [Why does so much government tech investment deliver so little?](https://www.airstreet.com/blog/government-tech-investment)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38213590)
-- [Terminating an employee with a bus factor of 1](https://workplace.stackexchange.com/questions/194162/terminating-an-employee-with-a-bus-factor-of-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
