@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gigantic heat caverns in Mustikkamaa have now been filled with water &lpar;2021&rpar;](https://www.helen.fi/en/news/2021/gigantic-heat-caverns-in-mustikkamaa-filled)
-- [The Svalbard fibre optic cable connection](https://spacenorway.no/en/what-we-do/operational-infrastructure/the-svalbard-fibre-optic-cable-connection/)
-- [Jeff Geerling](https://www.raspberrypi.com/news/meet-jeff-geerling/)
-- [AWS to start charging for IPv4 usage, but critical services don&#39;t support IPv6](https://old.reddit.com/r/aws/comments/17rxig8/aws_wants_to_start_charging_for_all_allocated/)
-- [EU lawmakers scolded for concealing identities of content-scanning experts](https://www.theregister.com/2023/11/09/eu_casm_expert_identities/)
+- [Crew aboard a U.S.-bound plane discovered a missing window pane at 13,000 feet](https://www.npr.org/2023/11/10/1212144515/plane-missing-window-london-us)
+- [Dungeon KeeperFX 1.0.0 has been released](https://keeperfx.net/news/11/2023-11-10/keeperfx-100-has-been-released)
+- [8GB vs. 16GB M3 Mac](https://www.macrumors.com/2023/11/10/8gb-ram-in-m3-macbook-pro-proves-the-bottleneck/)
+- [Meta Now Charges $200 Annually for Privacy – A High Cost for User Data Security](https://www.twipla.com/en/blog/facebook-subscription-meta-to-charge-for-tracking-opt-out)
+- [Binance to terminate Russian ruble deposits](https://cointelegraph.com/news/binance-halt-russian-ruble-deposits)
 <!-- BLOG-POST-LIST:END -->
 
 ---
