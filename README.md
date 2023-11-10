@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cursorless is alien magic from the future – Xe Iaso](https://xeiaso.net/notes/cursorless-alien-magic/)
+- [Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
+- [Why does so much government tech investment deliver so little?](https://www.airstreet.com/blog/government-tech-investment)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38213590)
 - [Terminating an employee with a bus factor of 1](https://workplace.stackexchange.com/questions/194162/terminating-an-employee-with-a-bus-factor-of-1)
-- [Widespread drastic reduction of brain myelin upon prolonged endurance exercise](https://www.biorxiv.org/content/10.1101/2023.10.10.561303v1)
-- [Lemmings](https://www.leemeichin.com/posts/lemmings.html)
-- [Typing Fast Is About Latency, Not Throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
 <!-- BLOG-POST-LIST:END -->
 
 ---
