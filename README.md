@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple has a memory problem and we&#39;re all paying for it](https://www.macworld.com/article/2130071/m3-macbook-pro-8gb-memory-too-little.html)
+- [Link-Time Optimisation &lpar;LTO&rpar;](https://convolv.es/guides/lto/)
 - [EuclideanSpace](https://euclideanspace.com/)
 - [Cursorless is alien magic from the future](https://xeiaso.net/notes/cursorless-alien-magic/)
 - [Deferred scheduling for user-space critical sections](https://lwn.net/Articles/948870/)
