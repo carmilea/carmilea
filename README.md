@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Is Coed Cherry Shutting Down?](https://coedcherry.com/fuck-banks.html)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38213590)
-- [People No Longer Know How Much to Tip](https://www.wsj.com/personal-finance/people-no-longer-know-how-much-to-tip-a6ec4b66)
 - [Widespread drastic reduction of brain myelin upon prolonged endurance exercise](https://www.biorxiv.org/content/10.1101/2023.10.10.561303v1)
 - [Lemmings](https://www.leemeichin.com/posts/lemmings.html)
 - [Typing Fast Is About Latency, Not Throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
