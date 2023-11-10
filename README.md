@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Albert Einstein in 1939 composed a message for the people of AD 6939](https://www.futilitycloset.com/2023/11/10/comment-8/)
+- [I Skipped to the Ending](https://danangell.com/blog/posts/i-skipped-to-the-ending/)
 - [Rust – Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
-- [Cruise begins layoffs, starting with workers who supported driverless operations](https://techcrunch.com/2023/11/09/cruise-begins-layoffs-starting-with-workers-who-supported-driverless-operations/)
 - [Amazon props Vega to replace Android-based Fire OS on future smart devices](https://goodereader.com/blog/amazon-news/amazon-props-vega-to-replace-android-based-fire-os-on-future-smart-devices)
 - [Link-Time Optimisation &lpar;LTO&rpar;](https://convolv.es/guides/lto/)
-- [EuclideanSpace](https://euclideanspace.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
