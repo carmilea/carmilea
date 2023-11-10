@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gigantic heat caverns in Mustikkamaa have now been filled with water &lpar;2021&rpar;](https://www.helen.fi/en/news/2021/gigantic-heat-caverns-in-mustikkamaa-filled)
+- [The Svalbard fibre optic cable connection](https://spacenorway.no/en/what-we-do/operational-infrastructure/the-svalbard-fibre-optic-cable-connection/)
+- [Jeff Geerling](https://www.raspberrypi.com/news/meet-jeff-geerling/)
+- [AWS to start charging for IPv4 usage, but critical services don&#39;t support IPv6](https://old.reddit.com/r/aws/comments/17rxig8/aws_wants_to_start_charging_for_all_allocated/)
 - [EU lawmakers scolded for concealing identities of content-scanning experts](https://www.theregister.com/2023/11/09/eu_casm_expert_identities/)
-- [FreeBSD 14.0 has reached – RELEASE](https://lists.freebsd.org/archives/dev-commits-src-all/2023-November/033349.html)
-- [Microsoft lays hands on login data: Beware of the new Outlook](https://www.heise.de/news/Microsoft-lays-hands-on-login-data-Beware-of-the-new-Outlook-9358925.html)
-- [Braid, Anniversary Edition trailer [video]](https://www.youtube.com/watch?v=E1repvdGU9I)
-- [AOMedia Announces Royalty-Free IAMF Audio Container Specification](https://www.phoronix.com/news/AOMedia-IAMF-Audio-Spec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
