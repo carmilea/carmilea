@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple has a memory problem and we&#39;re all paying for it](https://www.macworld.com/article/2130071/m3-macbook-pro-8gb-memory-too-little.html)
 - [EuclideanSpace](https://euclideanspace.com/)
 - [Cursorless is alien magic from the future](https://xeiaso.net/notes/cursorless-alien-magic/)
+- [Deferred scheduling for user-space critical sections](https://lwn.net/Articles/948870/)
 - [GPU advancements in M3 and A17 Pro [video]](https://developer.apple.com/videos/play/tech-talks/111375)
-- [Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
-- [Why does so much government tech investment deliver so little?](https://www.airstreet.com/blog/government-tech-investment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
