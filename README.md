@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crew aboard a U.S.-bound plane discovered a missing window pane at 13,000 feet](https://www.npr.org/2023/11/10/1212144515/plane-missing-window-london-us)
+- [Microsoft briefly blocked employees from using ChatGPT over security concerns](https://www.engadget.com/microsoft-briefly-blocked-employees-from-using-chatgpt-over-security-concerns-080403177.html)
+- [Congress mandates new car technology to stop drunken driving &lpar;2021&rpar;](https://apnews.com/article/coronavirus-pandemic-joe-biden-technology-business-health-068ee87392b0cca1444053b854a514dd)
+- [Don&#39;t Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai)
 - [Dungeon KeeperFX 1.0.0 has been released](https://keeperfx.net/news/11/2023-11-10/keeperfx-100-has-been-released)
-- [8GB vs. 16GB M3 Mac](https://www.macrumors.com/2023/11/10/8gb-ram-in-m3-macbook-pro-proves-the-bottleneck/)
-- [Meta Now Charges $200 Annually for Privacy – A High Cost for User Data Security](https://www.twipla.com/en/blog/facebook-subscription-meta-to-charge-for-tracking-opt-out)
-- [Binance to terminate Russian ruble deposits](https://cointelegraph.com/news/binance-halt-russian-ruble-deposits)
+- [New York Restaurants Fight Back Against Reservations by Bots](https://www.bloomberg.com/news/articles/2023-10-25/new-york-restaurants-bars-fight-back-against-reservations-by-bots)
 <!-- BLOG-POST-LIST:END -->
 
 ---
