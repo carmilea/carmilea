@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Swedish painters trade union to stop all work with Tesla brand cars](https://www.malarna.nu/om-oss/nyheter/20232/pressmeddelande-malarna-stoppar-lackering-av-tesla-bilar/)
+- [AI for Good](https://www.singlestore.com/blog/ai-for-good/)
 - [At SpaceX, worker injuries soar in Elon Musk&#39;s rush to Mars](https://www.reuters.com/investigates/special-report/spacex-musk-safety/)
 - [Microsoft steals access data: Beware of the new Outlook &lpar;German&rpar;](https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html)
-- [I Skipped to the Ending](https://danangell.com/blog/posts/i-skipped-to-the-ending/)
-- [Rust – Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
-- [Amazon props Vega to replace Android-based Fire OS on future smart devices](https://goodereader.com/blog/amazon-news/amazon-props-vega-to-replace-android-based-fire-os-on-future-smart-devices)
+- [YJIT enabled by default, Active Model improvements and much more](https://rubyonrails.org/2023/11/10/this-week-in-rails-TODO)
 <!-- BLOG-POST-LIST:END -->
 
 ---
