@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust – Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
+- [Cruise begins layoffs, starting with workers who supported driverless operations](https://techcrunch.com/2023/11/09/cruise-begins-layoffs-starting-with-workers-who-supported-driverless-operations/)
+- [Amazon props Vega to replace Android-based Fire OS on future smart devices](https://goodereader.com/blog/amazon-news/amazon-props-vega-to-replace-android-based-fire-os-on-future-smart-devices)
 - [Link-Time Optimisation &lpar;LTO&rpar;](https://convolv.es/guides/lto/)
 - [EuclideanSpace](https://euclideanspace.com/)
-- [Cursorless is alien magic from the future](https://xeiaso.net/notes/cursorless-alien-magic/)
-- [Deferred scheduling for user-space critical sections](https://lwn.net/Articles/948870/)
-- [GPU advancements in M3 and A17 Pro [video]](https://developer.apple.com/videos/play/tech-talks/111375)
 <!-- BLOG-POST-LIST:END -->
 
 ---
