@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canonical shows how to use Snaps without the Snap Store](https://www.theregister.com/2023/11/10/snap_without_ubuntu_tools/)
+- [Facebook Is Ending Support for PGP Encrypted Emails](https://joltmailer.com/facebook-ends-pgp-encrypted-emails-support/)
+- [Sweden&#39;s schools minister declares charter school &#39;system failure&#39;](https://www.theguardian.com/world/2023/nov/10/swedens-schools-minister-declares-free-school-system-failure)
 - [I Skipped to the Ending](https://danangell.com/blog/posts/i-skipped-to-the-ending/)
 - [Rust – Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
-- [Amazon props Vega to replace Android-based Fire OS on future smart devices](https://goodereader.com/blog/amazon-news/amazon-props-vega-to-replace-android-based-fire-os-on-future-smart-devices)
-- [Link-Time Optimisation &lpar;LTO&rpar;](https://convolv.es/guides/lto/)
-- [EuclideanSpace](https://euclideanspace.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
