@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Swedish painters trade union to stop all work with Tesla brand cars](https://www.malarna.nu/om-oss/nyheter/20232/pressmeddelande-malarna-stoppar-lackering-av-tesla-bilar/)
-- [AI for Good](https://www.singlestore.com/blog/ai-for-good/)
-- [At SpaceX, worker injuries soar in Elon Musk&#39;s rush to Mars](https://www.reuters.com/investigates/special-report/spacex-musk-safety/)
-- [Microsoft steals access data: Beware of the new Outlook &lpar;German&rpar;](https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html)
-- [YJIT enabled by default, Active Model improvements and much more](https://rubyonrails.org/2023/11/10/this-week-in-rails-TODO)
+- [A blacklist of banks that block movements to or from Bitcoin related services](https://github.com/theDavidCoen/BanksAgainstBitcoin)
+- [Nordic Is Getting Involved in RISC-V](https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v)
+- [What If We Replace Guns and Bullets with Bows and Arrows?](https://solar.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows/)
+- [Lago – open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
+- [We used to build steel mills near cheap power. Now we build datacenters](https://danluu.com/datacenter-power/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
