@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [11/17/23 starship test 2](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
+- [Angus Deaton on inequality: &#39;The war on poverty has become a war on the poor&#39;](https://www.theguardian.com/inequality/2023/oct/07/angus-deaton-interview-book-economics-in-america)
 - [Weird Debugging Tricks the Browser Doesn&#39;t Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks)
 - [Computation of the n&#39;th digit of pi in any base in O&lpar;n^2&rpar; &lpar;1997&rpar;](https://bellard.org/pi/pi_n2/pi_n2.html)
 - [Firezone &lpar;YC W22&rpar; is hiring a Rust contractor to build a Windows client](https://www.ycombinator.com/companies/firezone/jobs/8mVSALy-rust-engineer-contract)
-- [Trading bot that buys stocks bought by politicians is up 20% since May 2022](https://www.threads.net/@quiverquantitative/post/CzcB-Gsgqow)
-- [Entire population of Maine&#39;s just had its data stolen in a ransomware attack](https://mashable.com/article/maine-moveit-ransomware-attack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
