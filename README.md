@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Now that cars are like smartphones, we don&#39;t really own them](https://www.washingtonpost.com/technology/2023/11/10/car-right-to-repair/)
+- [It&#39;s OK If Your Code Is Just Good Enough](https://shiftmag.dev/code-quality-good-enough-2034/)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 - [CTF Writeup: Abusing select&lpar;&rpar; to factor RSA](https://threadreaderapp.com/thread/1723398619313603068.html)
 - [John von Neumann Interview [video]](https://www.youtube.com/watch?v=vLbllFHBQM4)
-- [Live volcano and earthquake stream on Iceland [video]](https://www.youtube.com/watch?v=804nPrAUAxg)
-- [Yarn-Mistral-7B-128k](https://huggingface.co/NousResearch/Yarn-Mistral-7b-128k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
