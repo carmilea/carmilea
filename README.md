@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [To get off fossil fuels, America is going to need a lot more electricians](https://grist.org/energy/electrician-shortage-electrify-everything-climate-infrastructure-labor/)
-- [It&#39;s still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
-- [Twitter&#39;s onion service is serving an invalid TLS certificate since 3/6/2023](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/)
-- [Debunking the Myth of &quot;Anonymous&quot; Data](https://www.eff.org/deeplinks/2023/11/debunking-myth-anonymous-data)
-- [Is this radical redesign of GIMP possible now?](https://librearts.org/2023/11/radical-redesign-of-gimp/)
+- [Live volcano and earthquake stream on Iceland [video]](https://www.youtube.com/watch?v=804nPrAUAxg)
+- [Apple admits third-party App Stores in Europe are inevitable](https://appleinsider.com/articles/23/11/08/apple-admits-third-party-app-stores-in-europe-are-inevitable)
+- [The UBI should be inadequate](https://arnoldkling.substack.com/p/the-ubi-should-be-inadequate)
+- [New Outlook sends passwords, mails and other data to Microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft?nl=e)
+- [Men less likely than women to share negative information, says study](https://phys.org/news/2023-11-men-women-negative.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
