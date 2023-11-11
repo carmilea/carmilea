@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- [FFmpeg 6.1 released](http://www.ffmpeg.org/index.html#pr6.1)
 - [Starship’s second flight test](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
 - [Debugging tricks in the browser](https://alan.norbauer.com/articles/browser-debugging-tricks)
 - [Computation of the n&#39;th digit of pi in any base in O&lpar;n^2&rpar; &lpar;1997&rpar;](https://bellard.org/pi/pi_n2/pi_n2.html)
-- [Firezone &lpar;YC W22&rpar; is hiring a Rust contractor to build a Windows client](https://www.ycombinator.com/companies/firezone/jobs/8mVSALy-rust-engineer-contract)
-- [MOVEit global security incident](https://www.maine.gov/moveit-global-data-security-incident/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
