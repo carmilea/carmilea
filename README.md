@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 15 Websites That Changed the World &lpar;2006&rpar;](https://www.theguardian.com/technology/2006/aug/13/observerreview.onlinesupplement)
+- [Websites That Changed the World &lpar;2006&rpar;](https://www.theguardian.com/technology/2006/aug/13/observerreview.onlinesupplement)
+- [&quot;Never, ever, no matter what, go to a timeshare presentation&quot;](https://www.theatlantic.com/ideas/archive/2023/11/hawaii-timeshare/675974/)
 - [What If Psychedelics&#39; Hallucinations Are Just a Side Effect?](https://www.theatlantic.com/health/archive/2023/11/non-hallucinogenic-psychedelic-clinical-therapy/675942/)
-- [Nicotine: On the benefits and lack of demerits of nicotine](https://gwern.net/nicotine)
 - [Show HN: Flyscrape – A standalone and scriptable web scraper in Go](https://github.com/philippta/flyscrape)
 - [Show HN: Generate pdf with gitbook or mdbook url](https://github.com/lufengd3/htmlbook2pdf)
 <!-- BLOG-POST-LIST:END -->
