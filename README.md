@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BMW, Subaru and Porsche drivers &#39;more likely to cause a crash&#39;, study finds](https://www.theguardian.com/business/2023/nov/11/bmw-subaru-and-porsche-drivers-more-likely-to-cause-a-crash-study-finds)
+- [Google offered Netflix a sweetheart deal to pay just 10 percent on Google Play](https://www.theverge.com/23954852/google-netflix-app-store-deal-play-10-percent-revshare)
+- [Ripple CEO says SEC has lost sight of mission to protect investors](https://www.cnbc.com/2023/11/11/ripple-ceo-says-sec-has-lost-sight-of-mission-to-protect-investors.html)
 - [KDE Plasma 6.0 Is Enabling Wayland by Default](https://www.phoronix.com/news/Plasma-6.0-Wayland-Default)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38229560)
-- [Meta, YouTube face criminal spying complaints in Ireland](https://www.theregister.com/2023/11/11/meta_youtube_criminal_charges/)
-- [Fourteen Years of Go](https://go.dev/blog/14years)
-- [Ask HN: Top 10 Timeless Software Books That ChangedLife as Software Engineer?](https://news.ycombinator.com/item?id=38228850)
 <!-- BLOG-POST-LIST:END -->
 
 ---
