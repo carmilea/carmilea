@@ -59,8 +59,8 @@
 - [.NET 8 Standalone 50% Smaller On Linux](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 - [When NASA Used an RC Tiger II to Drill into Space Shuttle Tires](https://tankhistoria.com/experimental/tire-assault-vehicle/)
+- [FFmpeg 6.1 released](http://www.ffmpeg.org/index.html#pr6.1)
 - [Starship’s second flight test](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
-- [Google to Implement IETF&#39;s Message Layer Security &lpar;MLS&rpar; Specification RFC 9420](https://security.googleblog.com/2023/07/an-important-step-towards-secure-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
