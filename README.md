@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iceland declares state of emergency over volcanic eruption threat](https://www.theguardian.com/world/2023/nov/10/iceland-declares-state-of-emergency-over-volcanic-eruption-threat)
-- [Apple discriminated against US citizens in hiring, DOJ says](https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says/)
-- [The hijacking of $339k worth of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
-- [iOS 17.2 hints at Apple moving towards letting users sideload apps](https://9to5mac.com/2023/11/10/ios-17-2-sideload-apps/)
-- [Microsoft pulls OneDrive update that would quiz you before letting you quit](https://arstechnica.com/gadgets/2023/11/microsoft-pulls-onedrive-update-that-would-quiz-you-before-letting-you-quit/)
+- [Computation of the n&#39;th digit of pi in any base in O&lpar;n^2&rpar; &lpar;1997&rpar;](https://bellard.org/pi/pi_n2/pi_n2.html)
+- [Firezone &lpar;YC W22&rpar; is hiring a Rust contractor to build a Windows client](https://www.ycombinator.com/companies/firezone/jobs/8mVSALy-rust-engineer-contract)
+- [Trading bot that buys stocks bought by politicians is up 20% since May 2022](https://www.threads.net/@quiverquantitative/post/CzcB-Gsgqow)
+- [Entire population of Maine&#39;s just had its data stolen in a ransomware attack](https://mashable.com/article/maine-moveit-ransomware-attack)
+- [Warren Buffett Privately Traded Stocks Berkshire Hathaway Was Buying and Selling](https://www.propublica.org/article/warren-buffett-privately-traded-stocks-berkshire-hathaway-ethics-irs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
