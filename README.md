@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [KDE Plasma 6.0 Is Enabling Wayland by Default](https://www.phoronix.com/news/Plasma-6.0-Wayland-Default)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38229560)
-- [If you could only have one programming book on bookshelf what would it be?](https://softwareengineering.stackexchange.com/questions/870/if-you-could-only-have-one-programming-related-book-on-your-bookshelf-what-would)
 - [Meta, YouTube face criminal spying complaints in Ireland](https://www.theregister.com/2023/11/11/meta_youtube_criminal_charges/)
 - [Fourteen Years of Go](https://go.dev/blog/14years)
 - [Ask HN: Top 10 Timeless Software Books That ChangedLife as Software Engineer?](https://news.ycombinator.com/item?id=38228850)
