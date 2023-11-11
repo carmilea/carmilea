@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter&#39;s onion service is serving an invalid TLS certificate since 3/6/2023](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/)
+- [Debunking the Myth of &quot;Anonymous&quot; Data](https://www.eff.org/deeplinks/2023/11/debunking-myth-anonymous-data)
+- [Is this radical redesign of GIMP possible now?](https://librearts.org/2023/11/radical-redesign-of-gimp/)
+- [Qanat](https://en.wikipedia.org/wiki/Qanat)
 - [Spine AI &lpar;YC S23&rpar; Is Hiring a Founding ML Engineer](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
-- [Germany approves global minimum corporate tax](https://www.reuters.com/world/europe/germany-approves-global-minimum-corporate-tax-2023-11-10/)
-- [Song stuck in your head? Just hum to search &lpar;2020&rpar;](https://blog.google/products/search/hum-to-search/)
-- [Find Bilingual Baby Names](https://mixedname.com/)
-- [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
