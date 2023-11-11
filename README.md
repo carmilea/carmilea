@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [CTF Writeup: Abusing select&lpar;&rpar; to factor RSA](https://threadreaderapp.com/thread/1723398619313603068.html)
+- [John von Neumann Interview [video]](https://www.youtube.com/watch?v=vLbllFHBQM4)
 - [Live volcano and earthquake stream on Iceland [video]](https://www.youtube.com/watch?v=804nPrAUAxg)
-- [Apple admits third-party App Stores in Europe are inevitable](https://appleinsider.com/articles/23/11/08/apple-admits-third-party-app-stores-in-europe-are-inevitable)
-- [The UBI should be inadequate](https://arnoldkling.substack.com/p/the-ubi-should-be-inadequate)
-- [New Outlook sends passwords, mails and other data to Microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft?nl=e)
-- [Men less likely than women to share negative information, says study](https://phys.org/news/2023-11-men-women-negative.html)
+- [Yarn-Mistral-7B-128k](https://huggingface.co/NousResearch/Yarn-Mistral-7b-128k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
