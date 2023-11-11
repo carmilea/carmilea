@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET 8 Standalone 50% Smaller On Linux](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- [FFmpeg 6.1 released](http://www.ffmpeg.org/index.html#pr6.1)
+- [When NASA Used an RC Tiger II to Drill into Space Shuttle Tires](https://tankhistoria.com/experimental/tire-assault-vehicle/)
 - [Starship’s second flight test](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
-- [Debugging tricks in the browser](https://alan.norbauer.com/articles/browser-debugging-tricks)
-- [Computation of the n&#39;th digit of pi in any base in O&lpar;n^2&rpar; &lpar;1997&rpar;](https://bellard.org/pi/pi_n2/pi_n2.html)
+- [Google to Implement IETF&#39;s Message Layer Security &lpar;MLS&rpar; Specification RFC 9420](https://security.googleblog.com/2023/07/an-important-step-towards-secure-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
