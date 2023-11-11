@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gnome Receives €1M from German Government](https://www.omgubuntu.co.uk/2023/11/gnome-sovereign-tech-fund)
+- [Warner Bros Shelves Finished Coyote vs. Acme Film as Tax Write-Off](https://deadline.com/2023/11/coyote-vs-acme-shelved-warner-bros-discovery-writeoff-david-zaslav-1235598676/)
+- [Suits ignored IT&#39;s warnings, so the tech team went for the neck](https://www.theregister.com/2023/11/10/on_call/)
 - [.NET 8 Standalone 50% Smaller On Linux](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- [When NASA Used an RC Tiger II to Drill into Space Shuttle Tires](https://tankhistoria.com/experimental/tire-assault-vehicle/)
-- [FFmpeg 6.1 released](http://www.ffmpeg.org/index.html#pr6.1)
-- [Starship’s second flight test](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
