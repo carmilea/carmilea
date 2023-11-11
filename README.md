@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Now that cars are like smartphones, we don&#39;t really own them](https://www.washingtonpost.com/technology/2023/11/10/car-right-to-repair/)
+- [SpaceX will launch the X-37B on a Falcon Heavy rocket Dec. 7](https://www.space.com/space-force-x-37b-spacex-falcon-heavy-1st-launch-dec-2023)
+- [Only 15% of Californians can afford a home, new data shows](https://ktla.com/news/california/only-15-of-californians-can-afford-a-home-new-data-shows/)
+- [A Rusty CHERI – The path to hardware capabilities in Rust [video]](https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/)
 - [It&#39;s OK If Your Code Is Just Good Enough](https://shiftmag.dev/code-quality-good-enough-2034/)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [CTF Writeup: Abusing select&lpar;&rpar; to factor RSA](https://threadreaderapp.com/thread/1723398619313603068.html)
-- [John von Neumann Interview [video]](https://www.youtube.com/watch?v=vLbllFHBQM4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
