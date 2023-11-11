@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [To get off fossil fuels, America is going to need a lot more electricians](https://grist.org/energy/electrician-shortage-electrify-everything-climate-infrastructure-labor/)
+- [It&#39;s still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 - [Twitter&#39;s onion service is serving an invalid TLS certificate since 3/6/2023](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/)
 - [Debunking the Myth of &quot;Anonymous&quot; Data](https://www.eff.org/deeplinks/2023/11/debunking-myth-anonymous-data)
 - [Is this radical redesign of GIMP possible now?](https://librearts.org/2023/11/radical-redesign-of-gimp/)
-- [Qanat](https://en.wikipedia.org/wiki/Qanat)
-- [Spine AI &lpar;YC S23&rpar; Is Hiring a Founding ML Engineer](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
