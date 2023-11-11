@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [11/17/23 starship test 2](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
-- [Angus Deaton on inequality: &#39;The war on poverty has become a war on the poor&#39;](https://www.theguardian.com/inequality/2023/oct/07/angus-deaton-interview-book-economics-in-america)
-- [Weird Debugging Tricks the Browser Doesn&#39;t Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks)
+- [FFmpeg 6.1 released](http://www.ffmpeg.org/index.html#pr6.1)
+- [Starship’s second flight test](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
+- [Weird debugging tricks the browser doesn’t want you to know](https://alan.norbauer.com/articles/browser-debugging-tricks)
 - [Computation of the n&#39;th digit of pi in any base in O&lpar;n^2&rpar; &lpar;1997&rpar;](https://bellard.org/pi/pi_n2/pi_n2.html)
 - [Firezone &lpar;YC W22&rpar; is hiring a Rust contractor to build a Windows client](https://www.ycombinator.com/companies/firezone/jobs/8mVSALy-rust-engineer-contract)
 <!-- BLOG-POST-LIST:END -->
