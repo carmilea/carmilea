@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Websites That Changed the World &lpar;2006&rpar;](https://www.theguardian.com/technology/2006/aug/13/observerreview.onlinesupplement)
-- [&quot;Never, ever, no matter what, go to a timeshare presentation&quot;](https://www.theatlantic.com/ideas/archive/2023/11/hawaii-timeshare/675974/)
-- [What If Psychedelics&#39; Hallucinations Are Just a Side Effect?](https://www.theatlantic.com/health/archive/2023/11/non-hallucinogenic-psychedelic-clinical-therapy/675942/)
-- [Show HN: Flyscrape – A standalone and scriptable web scraper in Go](https://github.com/philippta/flyscrape)
-- [Show HN: Generate pdf with gitbook or mdbook url](https://github.com/lufengd3/htmlbook2pdf)
+- [Spine AI &lpar;YC S23&rpar; Is Hiring a Founding ML Engineer](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
+- [Germany approves global minimum corporate tax](https://www.reuters.com/world/europe/germany-approves-global-minimum-corporate-tax-2023-11-10/)
+- [Song stuck in your head? Just hum to search &lpar;2020&rpar;](https://blog.google/products/search/hum-to-search/)
+- [Find Bilingual Baby Names](https://mixedname.com/)
+- [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
