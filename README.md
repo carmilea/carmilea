@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman: New version of GPT-4 Turbo now live in ChatGPT](https://twitter.com/sama/status/1723480961177010597)
-- [How to attach logic probes to tiny SMD components &lpar;2021&rpar;](https://reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/)
-- [Downfall fallout lawsuit: Intel knew AVX chips were insecure and did nothing](https://www.theregister.com/2023/11/09/intel_downfall_lawsuit/)
-- [Map of Space Invader Mosaics in Paris](https://pnote.eu/projects/invaders/map.html)
-- [NetBSD 10.0 RC1](https://netbsd.org/releases/formal-10/NetBSD-10.0.html)
+- [You Paid $1k for an iPhone, but Apple Still Controls It](https://www.nytimes.com/2023/11/12/technology/iphone-repair-apple-control.html)
+- [Scary Hasty](https://eclecticlight.co/2023/11/12/last-week-on-my-mac-scary-hasty/)
+- [Upcoming changes to Rust&#39;s borrow checker](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
+- [Speaker Support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
+- [Archive Your Old Projects](https://arne.me/articles/archive-your-old-projects)
 <!-- BLOG-POST-LIST:END -->
 
 ---
