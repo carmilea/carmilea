@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Which sources cover AI developments without falling for the hype?](https://news.ycombinator.com/item?id=38242510)
+- [Lightweight Linux Distributions for Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)
+- [A truly incredible fact about the number 37](https://grossack.site/2023/11/08/37-median.html)
 - [The Conference for High Performance Computing, Networking, Storage, Analysis](https://sc23.supercomputing.org/)
-- [European digital identity: provisional agreement reached on eID](https://www.consilium.europa.eu/en/press/press-releases/2023/11/08/european-digital-identity-council-and-parliament-reach-a-provisional-agreement-on-eid/)
 - [Cars downloading text messages from phones doesn&#39;t violate state privacy law](https://arstechnica.com/tech-policy/2023/11/five-big-carmakers-beat-lawsuits-alleging-infotainment-systems-invade-privacy/)
 - [Sieve &lpar;YC W22&rpar;, a video/audio AI cloud, is hiring AI / product engineers](https://sievedata.com/about/jobs)
 <!-- BLOG-POST-LIST:END -->
