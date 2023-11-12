@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oregon Decriminalized Hard Drugs. It Isn&#39;t Working](https://www.wsj.com/us-news/oregon-decriminalized-hard-drugs-it-isnt-working-78ee7476)
 - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
-- [Tesla&#39;s Supercharger cost revealed to be just 1/5th of the competition in bid &lpar;2022&rpar;](https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/)
-- [Show HN: TopGPTs.ai – The Largest Directory of GPTs](https://www.topgpts.ai)
 - [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
+- [RISC-V Ox64 BL808 SBC: Starting Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/ox2.html)
+- [A Rusty CHERI – The path to hardware capabilities in Rust [video]](https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/)
+- [OCaml: a Rust developer&#39;s first impressions](https://pthorpe92.github.io/ocaml/ocaml-first-thoughts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
