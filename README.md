@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
+- [Are compostable coffee cups any better for the environment?](https://www.abc.net.au/news/2023-11-10/compostable-packaging-explained/102951718)
 - [Lightweight Linux Distributions for Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)
-- [A truly incredible fact about the number 37](https://grossack.site/2023/11/08/37-median.html)
-- [The Conference for High Performance Computing, Networking, Storage, Analysis](https://sc23.supercomputing.org/)
-- [Cars downloading text messages from phones doesn&#39;t violate state privacy law](https://arstechnica.com/tech-policy/2023/11/five-big-carmakers-beat-lawsuits-alleging-infotainment-systems-invade-privacy/)
-- [Sieve &lpar;YC W22&rpar;, a video/audio AI cloud, is hiring AI / product engineers](https://sievedata.com/about/jobs)
+- [37, the median value for the second prime factor of an integer](https://grossack.site/2023/11/08/37-median.html)
+- [Sieve &lpar;YC W22&rpar;, a video/audio AI cloud, is hiring AI/product engineers](https://sievedata.com/about/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
