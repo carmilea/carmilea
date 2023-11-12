@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Effective Altruism Is a Welter of Lies, Hypocrisy, and Eugenic Fantasies](https://www.truthdig.com/articles/effective-altruism-is-a-welter-of-fraud-lies-exploitation-and-eugenic-fantasies/)
 - [Porsche Open Source Platform](https://opensource.porsche.com/)
 - [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
-- [Are compostable coffee cups any better for the environment?](https://www.abc.net.au/news/2023-11-10/compostable-packaging-explained/102951718)
 - [Lightweight Linux Distributions for Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)
+- [37, the median value for the second prime factor of an integer](https://grossack.site/2023/11/08/37-median.html)
+- [Open-interpreter: OpenAI&#39;s Code Interpreter in your terminal, running locally](https://github.com/KillianLucas/open-interpreter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
