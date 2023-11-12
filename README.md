@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What are you reading these days?](https://news.ycombinator.com/item?id=38237730)
+- [Tesla will sue you if you try to flip your low-VIN Cybertruck](https://electrek.co/2023/11/11/tesla-will-sue-you-if-you-try-to-flip-your-low-vin-cybertruck/)
 - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
+- [Amazon Making Its Own Linux-Based OS to Replace Android](https://www.omgubuntu.co.uk/2023/11/amazon-vega-linux-based-os)
 - [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
-- [RISC-V Ox64 BL808 SBC: Starting Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/ox2.html)
-- [A Rusty CHERI – The path to hardware capabilities in Rust [video]](https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/)
-- [OCaml: a Rust developer&#39;s first impressions](https://pthorpe92.github.io/ocaml/ocaml-first-thoughts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
