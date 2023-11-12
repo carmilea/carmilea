@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bankman-Fried&#39;s parents could face their own legal perils, experts say](https://www.washingtonpost.com/business/2023/11/11/sam-bankman-fried-parents-ftx/)
+- [Sam Altman: New version of GPT-4 Turbo now live in ChatGPT](https://twitter.com/sama/status/1723480961177010597)
+- [How to attach logic probes to tiny SMD components &lpar;2021&rpar;](https://reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/)
 - [Downfall fallout lawsuit: Intel knew AVX chips were insecure and did nothing](https://www.theregister.com/2023/11/09/intel_downfall_lawsuit/)
 - [Map of Space Invader Mosaics in Paris](https://pnote.eu/projects/invaders/map.html)
-- [NetBSD 10.0 RC1 &lpar;Nov 5, 2023&rpar;](https://netbsd.org/releases/formal-10/NetBSD-10.0.html)
-- [The Apple Network Server&#39;s all-too-secret weapon &lpar;featuring PPC Toolbox&rpar;](http://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html)
+- [NetBSD 10.0 RC1](https://netbsd.org/releases/formal-10/NetBSD-10.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
