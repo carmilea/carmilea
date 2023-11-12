@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brian Chesky&#39;s Framework for Product Management, Inspired by Steve Jobs](https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach)
-- [Before-and-after images show how Greenland&#39;s glaciers have rapidly retreated](https://www.cnn.com/2023/11/12/climate/greenland-glaciers-before-after-climate/index.html)
-- [Globalisation is a far, far bigger deal than you think](https://edconway.substack.com/p/globalisation-is-a-far-far-bigger)
-- [Stanford Data Science Handbook](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program/data-science-handbook)
-- [You Paid $1k for an iPhone, but Apple Still Controls It](https://www.nytimes.com/2023/11/12/technology/iphone-repair-apple-control.html)
+- [GPU Survival Toolkit for the AI age: The bare minimum every developer must know](https://journal.hexmos.com/gpu-survival-toolkit/)
+- [Show HN: Executo.rs – Meet other founders weekly to talk strategy and ideas](https://executo.rs)
+- [FreeOberon cross-platform Oberon language IDE](https://free.oberon.org/en/)
+- [GitHub Actions Are a Problem](https://felix-knorr.net/posts/2023-11-11-github-actions.html)
+- [Casino-like apps have drained people of millions](https://www.nbcnews.com/tech/tech-news/addicted-losing-how-casino-apps-have-drained-people-millions-n1239604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
