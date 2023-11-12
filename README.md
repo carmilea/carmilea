@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why do we walk away from Single Page Applications?](https://news.ycombinator.com/item?id=38240874)
+- [Yadea unveils 99 MPH electric motorcycle that charges in 10 minutes](https://electrek.co/2023/11/11/yadea-unveils-99-mph-electric-motorcycle-that-charges-in-10-minutes/)
+- [Matplotlib](https://matplotlib.org/)
 - [GPU Survival Toolkit for the AI age: The bare minimum every developer must know](https://journal.hexmos.com/gpu-survival-toolkit/)
-- [Show HN: Executo.rs – Meet other founders weekly to talk strategy and ideas](https://executo.rs)
-- [FreeOberon cross-platform Oberon language IDE](https://free.oberon.org/en/)
-- [GitHub Actions Are a Problem](https://felix-knorr.net/posts/2023-11-11-github-actions.html)
-- [Casino-like apps have drained people of millions](https://www.nbcnews.com/tech/tech-news/addicted-losing-how-casino-apps-have-drained-people-millions-n1239604)
+- [Microsoft Temporarily Blocked Internal Access to ChatGPT, Citing Data Concerns](https://www.wsj.com/tech/microsoft-temporarily-blocked-internal-access-to-chatgpt-citing-data-concerns-c1ca475d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
