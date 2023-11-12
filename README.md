@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase &lpar;YC S20&rpar; Is Hiring a RevOps Lead &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5006313004)
 - [Ask HN: What are you reading these days?](https://news.ycombinator.com/item?id=38237730)
-- [Tesla will sue you if you try to flip your low-VIN Cybertruck](https://electrek.co/2023/11/11/tesla-will-sue-you-if-you-try-to-flip-your-low-vin-cybertruck/)
 - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
 - [Amazon Making Its Own Linux-Based OS to Replace Android](https://www.omgubuntu.co.uk/2023/11/amazon-vega-linux-based-os)
 - [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
