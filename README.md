@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybertruck buyers forbidden from selling for the first year](https://www.threads.net/@emperorswithoutclothes/post/CzhwpeNrIJy)
 - [Tesla&#39;s Supercharger cost revealed to be just 1/5th of the competition in bid](https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/)
 - [Formula 1 didn&#39;t realize Las Vegas would be cold in November](https://jalopnik.com/formula-1-didnt-realize-las-vegas-would-be-cold-in-nove-1851011607)
 - [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
-- [Is Threads winning the war with X?](https://www.cjr.org/the_media_today/threads_four_months_later.php)
 - [Fedora Workstation 39](https://fedoraproject.org/workstation/download/)
 <!-- BLOG-POST-LIST:END -->
 
