@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Map of Space Invader Mosaics in Paris](https://pnote.eu/projects/invaders/map.html)
 - [NetBSD 10.0 RC1 &lpar;Nov 5, 2023&rpar;](https://netbsd.org/releases/formal-10/NetBSD-10.0.html)
+- [How Apple Made the Space Black MacBook Pro Darker Than](https://www.ifixit.com/News/86128/how-apple-made-the-space-black-macbook-pro-darker-than-ever)
+- [The Apple Network Server&#39;s all-too-secret weapon &lpar;featuring PPC Toolbox&rpar;](http://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a RevOps Lead &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5006313004)
-- [Ask HN: What are you reading these days?](https://news.ycombinator.com/item?id=38237730)
-- [Go modules and the domain expiry problem](https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesAndDomainExpiry)
-- [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
