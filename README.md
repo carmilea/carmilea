@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Supabase &lpar;YC S20&rpar; Is Hiring a RevOps Lead &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5006313004)
+- [Ask HN: How many of you still have a Facebook account?](https://news.ycombinator.com/item?id=38237827)
 - [Ask HN: What are you reading these days?](https://news.ycombinator.com/item?id=38237730)
+- [Go modules and the domain expiry problem](https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesAndDomainExpiry)
 - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
-- [Amazon Making Its Own Linux-Based OS to Replace Android](https://www.omgubuntu.co.uk/2023/11/amazon-vega-linux-based-os)
-- [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
