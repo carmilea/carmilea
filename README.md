@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Which sources cover AI developments without falling for the hype?](https://news.ycombinator.com/item?id=38242510)
+- [The Conference for High Performance Computing, Networking, Storage, Analysis](https://sc23.supercomputing.org/)
 - [European digital identity: provisional agreement reached on eID](https://www.consilium.europa.eu/en/press/press-releases/2023/11/08/european-digital-identity-council-and-parliament-reach-a-provisional-agreement-on-eid/)
-- [Lockheed Martin Jets into Nuclear Electrical Spacecraft Power](https://www.lockheedmartin.com/en-us/news/features/2023/lockheed-martin-jets-into-nuclear-electrical-spacecraft-power.html)
 - [Cars downloading text messages from phones doesn&#39;t violate state privacy law](https://arstechnica.com/tech-policy/2023/11/five-big-carmakers-beat-lawsuits-alleging-infotainment-systems-invade-privacy/)
 - [Sieve &lpar;YC W22&rpar;, a video/audio AI cloud, is hiring AI / product engineers](https://sievedata.com/about/jobs)
-- [SanDisk Extreme Pro Failures Result from Design Flaw, Says Researcher](https://www.tomshardware.com/news/sandisk-extreme-pro-failures-are-due-to-design-flaw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
