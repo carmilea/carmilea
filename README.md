@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brian Chesky&#39;s Framework for Product Management, Inspired by Steve Jobs](https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach)
+- [Before-and-after images show how Greenland&#39;s glaciers have rapidly retreated](https://www.cnn.com/2023/11/12/climate/greenland-glaciers-before-after-climate/index.html)
+- [Globalisation is a far, far bigger deal than you think](https://edconway.substack.com/p/globalisation-is-a-far-far-bigger)
+- [Stanford Data Science Handbook](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program/data-science-handbook)
 - [You Paid $1k for an iPhone, but Apple Still Controls It](https://www.nytimes.com/2023/11/12/technology/iphone-repair-apple-control.html)
-- [Scary Hasty](https://eclecticlight.co/2023/11/12/last-week-on-my-mac-scary-hasty/)
-- [Upcoming changes to Rust&#39;s borrow checker](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
-- [Speaker Support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
-- [Archive Your Old Projects](https://arne.me/articles/archive-your-old-projects)
 <!-- BLOG-POST-LIST:END -->
 
 ---
