@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Formula 1 didn&#39;t realize Las Vegas would be cold in November](https://jalopnik.com/formula-1-didnt-realize-las-vegas-would-be-cold-in-nove-1851011607)
+- [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
+- [Is Threads winning the war with X?](https://www.cjr.org/the_media_today/threads_four_months_later.php)
+- [Google&#39;s New &quot;Help Me Script&quot; Automation](https://techthreedots.com/googles-new-help-me-script)
 - [SpaceX will launch the X-37B on a Falcon Heavy rocket Dec. 7](https://www.space.com/space-force-x-37b-spacex-falcon-heavy-1st-launch-dec-2023)
-- [Only 15% of Californians can afford a home, new data shows](https://ktla.com/news/california/only-15-of-californians-can-afford-a-home-new-data-shows/)
-- [A Rusty CHERI – The path to hardware capabilities in Rust [video]](https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/)
-- [It&#39;s OK If Your Code Is Just Good Enough](https://shiftmag.dev/code-quality-good-enough-2034/)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
