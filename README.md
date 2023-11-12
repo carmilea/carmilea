@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [European digital identity: provisional agreement reached on eID](https://www.consilium.europa.eu/en/press/press-releases/2023/11/08/european-digital-identity-council-and-parliament-reach-a-provisional-agreement-on-eid/)
+- [Lockheed Martin Jets into Nuclear Electrical Spacecraft Power](https://www.lockheedmartin.com/en-us/news/features/2023/lockheed-martin-jets-into-nuclear-electrical-spacecraft-power.html)
+- [Cars downloading text messages from phones doesn&#39;t violate state privacy law](https://arstechnica.com/tech-policy/2023/11/five-big-carmakers-beat-lawsuits-alleging-infotainment-systems-invade-privacy/)
 - [Sieve &lpar;YC W22&rpar;, a video/audio AI cloud, is hiring AI / product engineers](https://sievedata.com/about/jobs)
-- [HTML First – Six principles for building simple, maintainable, web software](https://html-first.com/)
-- [Google dragged to UK watchdog over Chrome&#39;s upcoming IP address cloaking](https://www.theregister.com/2023/11/11/google_proxy_plan_cma/)
-- [Yadea unveils 99 MPH electric motorcycle that charges in 10 minutes](https://electrek.co/2023/11/11/yadea-unveils-99-mph-electric-motorcycle-that-charges-in-10-minutes/)
-- [GPU Survival Toolkit for the AI age: The bare minimum every developer must know](https://journal.hexmos.com/gpu-survival-toolkit/)
+- [SanDisk Extreme Pro Failures Result from Design Flaw, Says Researcher](https://www.tomshardware.com/news/sandisk-extreme-pro-failures-are-due-to-design-flaw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
