@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [From Aristocratic to Ordinary: Shifting Modes of Elite Distinction &lpar;2020&rpar;](https://journals.sagepub.com/doi/full/10.1177/0003122420912941)
+- [10k Bounty for Rewriting Prettier in Rust](https://twitter.com/Vjeux/status/1722733472522142022)
 - [Run LLMs on my own Mac fast and efficient Only 2 MBs](https://www.secondstate.io/articles/fast-llm-inference/)
 - [More Dakka in Medicine](https://qualiacomputing.com/2019/09/06/more-dakka-in-medicine/)
 - [String theory lied to us and now science communication is hard [video]](https://www.youtube.com/watch?v=kya_LXa_y1E)
-- [Tuxedo Pulse Gen 3](https://www.tuxedocomputers.com/en/TUXEDO-Pulse-14-Gen3.tuxedo)
-- [Learn PostScript by Doing &lpar;2005&rpar; [pdf]](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
