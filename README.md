@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Panama Canal is so congested that one ship owner just paid $4M to skip the line](https://fortune.com/2023/11/08/panama-canal-congestion-record-4-million-skip-line/)
-- [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
-- [Ubuntu Pro Shenanigans](https://inteltechniques.com/blog/2023/11/12/ubuntu-pro-shenanigans/)
-- [Forests with multiple tree species are more effective as carbon sinks](https://phys.org/news/2023-11-forests-multiple-tree-species-effective.html)
-- [Show HN: Bitemporal, Binary JSON Database System and Event Store](https://news.ycombinator.com/item?id=38252963)
+- [Shopify Storefronts Are Down](https://www.shopifystatus.com/incidents)
+- [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
+- [Future is quantum: universities look to train engineers for an emerging industry](https://www.nature.com/articles/d41586-023-03511-7)
+- [Principles are products of practice, not the reverse](https://alsado.ca/posts/principles-are-products-of-practice/)
+- [Panama Canal is so congested that one ship owner paid $4M to skip the line](https://fortune.com/2023/11/08/panama-canal-congestion-record-4-million-skip-line/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
