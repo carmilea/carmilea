@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ray Dalio ran Bridgewater like the global strongmen he admired](https://www.semafor.com/article/11/06/2023/ray-dalio-ran-bridgewater-like-the-global-strongmen-he-admired)
-- [Slow-Scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
-- [Smarter Summaries with Finetuning GPT-3.5 and Chain of Density](https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density/)
-- [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
-- [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-gb/data-center/h200/)
+- [Flexport Is Hiring SDRs](https://flexport.com/careers)
+- [You need a mental model of LLMs to build or use a LLM-based product](https://about.sourcegraph.com/blog/llm-mental-models)
+- [How to Fathom Climate Change&#39;s Unfathomable Numbers](https://www.bloomberg.com/news/articles/2023-11-11/how-to-fathom-climate-change-s-unfathomable-numbers)
+- [A Revolution in Computer Graphics Is Bringing 3D Reality Capture to the Masses](https://singularityhub.com/2023/11/06/a-revolution-in-computer-graphics-is-bringing-3d-reality-capture-to-the-masses/)
+- [Hacking Google Bard – From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
