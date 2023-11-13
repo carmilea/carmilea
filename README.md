@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Life Sentence](https://isonomiaquarterly.com/archive/volume-1-issue-1/the-life-sentence/)
+- [The Diamond World Takes Radical Steps to Stop a Pricing Plunge](https://www.bloomberg.com/news/articles/2023-11-11/diamond-prices-miners-take-radical-steps-to-support-the-market)
+- [Show HN: Interactive AI Resume/LinkedIn for better networking/job hunting](https://www.protoconstruct.com/chat/652af6c4238991f5e5f2eb57)
+- [I-10 closure in California prompts state of emergency](https://www.sfgate.com/bayarea/article/i-10-closure-california-state-of-emergency-18486449.php)
 - [Geohash](https://en.wikipedia.org/wiki/Geohash)
 - [The Apollo Guidance Computer](https://www.computer.org/csdl/magazine/mi/2021/06/09623432/1yJTxgRWQgg)
-- [GM Backed &quot;Open Source Protocol&quot; for Connecting Vehicle Apps and Services](https://projects.eclipse.org/projects/automotive.uprotocol)
-- [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
 <!-- BLOG-POST-LIST:END -->
 
 ---
