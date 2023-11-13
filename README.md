@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
 - [Don&#39;t waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
 - [SRAM in AI: The Future of Memory](https://semiengineering.com/sram-in-ai-the-future-of-memory/)
 - [From Aristocratic to Ordinary: Shifting Modes of Elite Distinction &lpar;2020&rpar;](https://journals.sagepub.com/doi/full/10.1177/0003122420912941)
 - [Trip Autumn ISO C++ standards meeting](https://herbsutter.com/2023/11/11/trip-report-autumn-iso-c-standards-meeting-kona-hi-usa/)
-- [10k Bounty for Rewriting Prettier in Rust](https://twitter.com/Vjeux/status/1722733472522142022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
