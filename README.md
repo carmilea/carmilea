@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Levels of AGI: Operationalizing Progress on the Path to AGI](https://arxiv.org/abs/2311.02462)
+- [Low current around roots boosts plant growth](https://www.nature.com/articles/d44151-023-00162-5)
 - [We&#39;ve learned nothing from the SolarWinds hack](https://www.macchaffee.com/blog/2023/solarwinds-hack-lessons-learned/)
+- [Zelle finally caves after years of refusing to refund scam victims](https://arstechnica.com/tech-policy/2023/11/zelle-finally-caves-after-years-of-refusing-to-refund-scam-victims/)
 - [Discouraging the use of web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
-- [Future is quantum: universities look to train engineers for an emerging industry](https://www.nature.com/articles/d41586-023-03511-7)
-- [Principles are products of practice, not the reverse](https://alsado.ca/posts/principles-are-products-of-practice/)
-- [Reauthorizing Mass Surveillance Shouldn&#39;t Be Tied to Funding the Government](https://www.eff.org/deeplinks/2023/11/reauthorizing-mass-surveillance-shouldnt-be-tied-funding-government)
 <!-- BLOG-POST-LIST:END -->
 
 ---
