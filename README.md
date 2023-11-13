@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
+- [Loro: Reimagine state management with CRDTs](https://www.loro.dev/blog/loro-now-open-source)
 - [Google/IAC/Expedia &lpar;2019&rpar;](https://www.techemails.com/p/barry-diller-emails-google-exec)
-- [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
+- [Lessons I wish I had learned before teaching differential equations [pdf] &lpar;1997&rpar;](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
 - [Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
-- [Don&#39;t waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
-- [SRAM in AI: The Future of Memory](https://semiengineering.com/sram-in-ai-the-future-of-memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
