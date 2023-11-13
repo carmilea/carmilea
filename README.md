@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pistachio Billionaires Accused of Artwashing California&#39;s Water Crisis](https://hyperallergic.com/855658/pistachio-billionaires-lynda-stewart-resnick-accused-of-artwashing-california-water-crisis/)
 - [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
+- [YouTube May Face Criminal Complaints in EU for Using Ad-Block Detection Scripts](https://www.tomshardware.com/news/youtube-may-face-criminal-complaint-for-adblock-detecting)
 - [Loro: Reimagine state management with CRDTs](https://www.loro.dev/blog/loro-now-open-source)
 - [Google/IAC/Expedia &lpar;2019&rpar;](https://www.techemails.com/p/barry-diller-emails-google-exec)
-- [Lessons I wish I had learned before teaching differential equations [pdf] &lpar;1997&rpar;](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
-- [Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
