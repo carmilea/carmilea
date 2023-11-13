@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shopify Storefronts Are Down](https://www.shopifystatus.com/incidents)
-- [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
+- [We&#39;ve learned nothing from the SolarWinds hack](https://www.macchaffee.com/blog/2023/solarwinds-hack-lessons-learned/)
+- [Discouraging the use of web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 - [Future is quantum: universities look to train engineers for an emerging industry](https://www.nature.com/articles/d41586-023-03511-7)
 - [Principles are products of practice, not the reverse](https://alsado.ca/posts/principles-are-products-of-practice/)
-- [Panama Canal is so congested that one ship owner paid $4M to skip the line](https://fortune.com/2023/11/08/panama-canal-congestion-record-4-million-skip-line/)
+- [Reauthorizing Mass Surveillance Shouldn&#39;t Be Tied to Funding the Government](https://www.eff.org/deeplinks/2023/11/reauthorizing-mass-surveillance-shouldnt-be-tied-funding-government)
 <!-- BLOG-POST-LIST:END -->
 
 ---
