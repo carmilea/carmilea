@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flexport Is Hiring SDRs](https://flexport.com/careers)
 - [You need a mental model of LLMs to build or use a LLM-based product](https://about.sourcegraph.com/blog/llm-mental-models)
-- [How to Fathom Climate Change&#39;s Unfathomable Numbers](https://www.bloomberg.com/news/articles/2023-11-11/how-to-fathom-climate-change-s-unfathomable-numbers)
-- [A Revolution in Computer Graphics Is Bringing 3D Reality Capture to the Masses](https://singularityhub.com/2023/11/06/a-revolution-in-computer-graphics-is-bringing-3d-reality-capture-to-the-masses/)
-- [Hacking Google Bard – From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)
+- [Forests with multiple tree species are more effective as carbon sinks](https://phys.org/news/2023-11-forests-multiple-tree-species-effective.html)
+- [Show HN: Bitemporal, Binary JSON Database System and Event Store](https://news.ycombinator.com/item?id=38252963)
+- [Tell HN: LinkedIn has one of the worst dark patterns I have seen on the web](https://news.ycombinator.com/item?id=38252628)
+- [Building an occupancy sensor with a $5 ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
