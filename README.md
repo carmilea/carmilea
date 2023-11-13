@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Run LLMs on my own Mac fast and efficient Only 2 MBs](https://www.secondstate.io/articles/fast-llm-inference/)
+- [Google pulls Fitbit from almost 30 markets](https://mobilesyrup.com/2023/11/10/google-pulls-fitbit-29-markets-canada-safe/)
+- [Is capitalism dead? Yanis Varoufakis thinks it is – and he knows who killed it](https://theconversation.com/is-capitalism-dead-yanis-varoufakis-thinks-it-is-and-he-knows-who-killed-it-213992)
+- [More Dakka in Medicine](https://qualiacomputing.com/2019/09/06/more-dakka-in-medicine/)
 - [Tuxedo Pulse Gen 3](https://www.tuxedocomputers.com/en/TUXEDO-Pulse-14-Gen3.tuxedo)
-- [MLPerf training tests put Nvidia ahead, Intel close, and Google well behind](https://spectrum.ieee.org/generative-ai-training)
-- [Beg Bounties](https://www.troyhunt.com/beg-bounties/)
-- [The diamond world takes radical steps to stop a pricing plunge](https://www.bloomberg.com/news/articles/2023-11-11/diamond-prices-miners-take-radical-steps-to-support-the-market)
-- [Show HN: Interactive AI Resume/LinkedIn for better networking/job hunting](https://www.protoconstruct.com/chat/652af6c4238991f5e5f2eb57)
 <!-- BLOG-POST-LIST:END -->
 
 ---
