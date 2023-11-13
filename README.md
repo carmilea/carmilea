@@ -58,8 +58,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Run LLMs on my own Mac fast and efficient Only 2 MBs](https://www.secondstate.io/articles/fast-llm-inference/)
 - [Google pulls Fitbit from almost 30 markets](https://mobilesyrup.com/2023/11/10/google-pulls-fitbit-29-markets-canada-safe/)
-- [Is capitalism dead? Yanis Varoufakis thinks it is – and he knows who killed it](https://theconversation.com/is-capitalism-dead-yanis-varoufakis-thinks-it-is-and-he-knows-who-killed-it-213992)
 - [More Dakka in Medicine](https://qualiacomputing.com/2019/09/06/more-dakka-in-medicine/)
+- [String theory lied to us and now science communication is hard [video]](https://www.youtube.com/watch?v=kya_LXa_y1E)
 - [Tuxedo Pulse Gen 3](https://www.tuxedocomputers.com/en/TUXEDO-Pulse-14-Gen3.tuxedo)
 <!-- BLOG-POST-LIST:END -->
 
