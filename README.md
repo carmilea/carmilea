@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Porsche Open Source Platform](https://opensource.porsche.com/)
+- [The Life Sentence](https://isonomiaquarterly.com/archive/volume-1-issue-1/the-life-sentence/)
+- [Geohash](https://en.wikipedia.org/wiki/Geohash)
+- [The Apollo Guidance Computer](https://www.computer.org/csdl/magazine/mi/2021/06/09623432/1yJTxgRWQgg)
+- [GM Backed &quot;Open Source Protocol&quot; for Connecting Vehicle Apps and Services](https://projects.eclipse.org/projects/automotive.uprotocol)
 - [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
-- [Lightweight Linux Distributions for Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)
-- [37, the median value for the second prime factor of an integer](https://grossack.site/2023/11/08/37-median.html)
-- [Open-interpreter: OpenAI&#39;s Code Interpreter in your terminal, running locally](https://github.com/KillianLucas/open-interpreter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
