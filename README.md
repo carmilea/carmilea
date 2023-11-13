@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pistachio Billionaires Accused of Artwashing California&#39;s Water Crisis](https://hyperallergic.com/855658/pistachio-billionaires-lynda-stewart-resnick-accused-of-artwashing-california-water-crisis/)
-- [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
-- [YouTube May Face Criminal Complaints in EU for Using Ad-Block Detection Scripts](https://www.tomshardware.com/news/youtube-may-face-criminal-complaint-for-adblock-detecting)
-- [Loro: Reimagine state management with CRDTs](https://www.loro.dev/blog/loro-now-open-source)
-- [Google/IAC/Expedia &lpar;2019&rpar;](https://www.techemails.com/p/barry-diller-emails-google-exec)
+- [To free the Baltic grid, old technology is new again](https://spectrum.ieee.org/baltic-power-grid)
+- [Tragedy of return to hostile offices](https://benjiweber.co.uk/blog/2023/11/12/tragedy-of-return-to-hostile-offices/)
+- [Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal](https://github.com/DeadlyRedCube/Cathode-Retro)
+- [Munich court tells Netflix to stop using H.265 video coding to stream UHD](https://www.nexttv.com/news/achtung-baby-netflix-loses-patent-dispute-to-broadcom-in-germany-told-to-stop-using-hevc-to-stream-4k)
+- [Reasons to Prefer Blake3 over Sha256](https://peergos.org/posts/blake3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
