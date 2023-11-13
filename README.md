@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ray Dalio ran Bridgewater like the global strongmen he admired](https://www.semafor.com/article/11/06/2023/ray-dalio-ran-bridgewater-like-the-global-strongmen-he-admired)
+- [Slow-Scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
+- [Smarter Summaries with Finetuning GPT-3.5 and Chain of Density](https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density/)
 - [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
 - [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-gb/data-center/h200/)
-- [The NYPD Is Using Drones 3X More Than It Used To](https://gothamist.com/news/the-nypd-is-using-drones-3-times-more-than-it-did-last-year)
-- [Black goo is the new oscilloscope: Love Hultén&#39;s ferrofluid synths](https://cdm.link/2023/11/black-goo-ferrofluid-synths/)
-- [Unity announces layoffs despite increased revenue and reduced losses](https://www.gamesindustry.biz/unity-announces-layoffs-despite-increased-revenue-and-reduced-losses)
 <!-- BLOG-POST-LIST:END -->
 
 ---
