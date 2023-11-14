@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy 1700M Epoch Second](https://www.epochconverter.com/)
+- [Ara2: RVV 1.0 Compliant Open-Source Processor](https://arxiv.org/abs/2311.07493)
+- [Inko Programming Language](https://inko-lang.org)
 - [IcePanel &lpar;YC W23&rpar; is hiring in Vancouver, Canada](https://icepanel.io/careers)
 - [YouTube will show labels on videos that use AI](https://9to5google.com/2023/11/14/youtube-ai-labels-videos-shorts/)
-- [Show HN: Soccer video analysis from your match videos](https://futvis.com/)
-- [319 Leona](https://en.wikipedia.org/wiki/319_Leona)
-- [Bpftime: Userspace eBPF runtime for fast Uprobe and Syscall hook and Plugins](https://github.com/eunomia-bpf/bpftime)
 <!-- BLOG-POST-LIST:END -->
 
 ---
