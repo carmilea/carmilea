@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Without Crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
+- [EU Parliament Decides That Your Private Messages Must Not Be Scanned](https://tuta.com/blog/chat-control)
 - [Children working as riders for food delivery apps – BBC investigation](https://www.bbc.co.uk/news/uk-67371473)
 - [Truth Social reports $73M net loss since launch](https://www.reuters.com/technology/trumps-truth-social-reports-73-mln-net-loss-since-launch-2023-11-14/)
 - [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
-- [Many popular houses in 1920s L.A. were part of a scam](https://www.atlasobscura.com/articles/los-angeles-home-scam)
-- [Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
