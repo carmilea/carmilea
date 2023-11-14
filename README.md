@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IcePanel &lpar;YC W23&rpar; Is Hiring in Vancouver, Canada](https://icepanel.io/careers)
+- [IcePanel &lpar;YC W23&rpar; is hiring in Vancouver, Canada](https://icepanel.io/careers)
 - [YouTube will show labels on videos that use AI](https://9to5google.com/2023/11/14/youtube-ai-labels-videos-shorts/)
-- [But What Do We Do If Google Is Legitimately Just a Better Search Engine?](https://www.techdirt.com/2023/11/14/but-what-do-we-do-if-google-is-legitimately-just-a-better-search-engine/)
-- [Monty Python and the Holy Grail in Cinemas](https://holygrailincinemas.com/)
+- [Show HN: Soccer video analysis from your match videos](https://futvis.com/)
 - [319 Leona](https://en.wikipedia.org/wiki/319_Leona)
+- [Bpftime: Userspace eBPF runtime for fast Uprobe and Syscall hook and Plugins](https://github.com/eunomia-bpf/bpftime)
 <!-- BLOG-POST-LIST:END -->
 
 ---
