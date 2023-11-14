@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Czech news crew robbed while filming in San Francisco for Apec summit](https://www.straitstimes.com/world/united-states/czech-news-crew-robbed-while-filming-in-san-francisco-for-apec-summit)
-- [Yes, Ubuntu is withholding security patches for some software](https://www.flu0r1ne.net/logs/ubuntu_withholding_universe_security_patches)
 - [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
 - [Many popular houses in 1920s L.A. were part of a scam](https://www.atlasobscura.com/articles/los-angeles-home-scam)
 - [Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
+- [Unlogged &lpar;YC S22&rpar; Is Hiring a founding back end engineer](https://news.ycombinator.com/item?id=38257499)
+- [A coder considers the waning days of the craft](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
