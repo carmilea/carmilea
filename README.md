@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vehicles with higher, more vertical front ends pose greater risk to pedestrians](https://www.iihs.org/news/detail/vehicles-with-higher-more-vertical-front-ends-pose-greater-risk-to-pedestrians)
-- [Homage to Strong Bad](https://verydistantlands.substack.com/p/homage-to-strong-bad)
-- [Restricted Ketogenic Diet Therapy for Primary Lung Cancer with Brain Metastasis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9435310/)
-- [AI robot chemist could make oxygen on Mars](https://www.nature.com/articles/d41586-023-03522-4)
-- [Mechanism behind aspirin protective effect against colorectal cancer identified](https://www.technologynetworks.com/drug-discovery/news/mechanism-behind-aspirins-protective-effect-against-colorectal-cancer-identified-380646)
+- [CacheWarp: A new software fault attack on AMD SEV-ES and SEV-SNP](https://cachewarpattack.com/)
+- [LLMs and the End of Programming – CS50 Tech Talk with Dr. Matt Welsh [video]](https://www.youtube.com/watch?v=JhCl-GeT4jw)
+- [Ask HN: How to get back to programming Python?](https://news.ycombinator.com/item?id=38268462)
+- [&#39;Reptar&#39;, a new CPU vulnerability](https://cloud.google.com/blog/products/identity-security/google-researchers-discover-reptar-a-new-cpu-vulnerability)
+- [Music painted on wall of a Venetian orphanage will be heard 250 years later](https://theconversation.com/music-painted-on-the-wall-of-a-venetian-orphanage-will-be-heard-again-nearly-250-years-later-211995)
 <!-- BLOG-POST-LIST:END -->
 
 ---
