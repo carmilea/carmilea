@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CacheWarp: A new software fault attack on AMD SEV-ES and SEV-SNP](https://cachewarpattack.com/)
-- [LLMs and the End of Programming – CS50 Tech Talk with Dr. Matt Welsh [video]](https://www.youtube.com/watch?v=JhCl-GeT4jw)
-- [Ask HN: How to get back to programming Python?](https://news.ycombinator.com/item?id=38268462)
-- [&#39;Reptar&#39;, a new CPU vulnerability](https://cloud.google.com/blog/products/identity-security/google-researchers-discover-reptar-a-new-cpu-vulnerability)
-- [Music painted on wall of a Venetian orphanage will be heard 250 years later](https://theconversation.com/music-painted-on-the-wall-of-a-venetian-orphanage-will-be-heard-again-nearly-250-years-later-211995)
+- [IcePanel &lpar;YC W23&rpar; Is Hiring in Vancouver, Canada](https://icepanel.io/careers)
+- [YouTube will show labels on videos that use AI](https://9to5google.com/2023/11/14/youtube-ai-labels-videos-shorts/)
+- [But What Do We Do If Google Is Legitimately Just a Better Search Engine?](https://www.techdirt.com/2023/11/14/but-what-do-we-do-if-google-is-legitimately-just-a-better-search-engine/)
+- [Monty Python and the Holy Grail in Cinemas](https://holygrailincinemas.com/)
+- [319 Leona](https://en.wikipedia.org/wiki/319_Leona)
 <!-- BLOG-POST-LIST:END -->
 
 ---
