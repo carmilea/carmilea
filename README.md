@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Children working as riders for food delivery apps – BBC investigation](https://www.bbc.co.uk/news/uk-67371473)
+- [Truth Social reports $73M net loss since launch](https://www.reuters.com/technology/trumps-truth-social-reports-73-mln-net-loss-since-launch-2023-11-14/)
 - [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
 - [Many popular houses in 1920s L.A. were part of a scam](https://www.atlasobscura.com/articles/los-angeles-home-scam)
 - [Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
-- [Unlogged &lpar;YC S22&rpar; Is Hiring a founding back end engineer](https://news.ycombinator.com/item?id=38257499)
-- [A coder considers the waning days of the craft](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
