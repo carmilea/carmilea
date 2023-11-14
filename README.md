@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Prequel &lpar;YC W21&rpar; Is Hiring a Sr Engineer to Build B2B Data Sharing](https://www.workatastartup.com/jobs/43482)
-- [Mathematician Roger Penrose&#39;s Beautiful Journal](https://abakcus.com/directory/roger-penroses-beautiful-journal/)
-- [Andreessen Horowitz Invests in Civitai, Which Profits from Nonconsensual AI Porn](https://www.404media.co/andreessen-horowitz-invests-in-civitai-key-platform-for-deepfake-porn/)
-- [.NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)
-- [Fast-acting cyber gangs increasingly disabling telemetry logs](https://www.computerweekly.com/news/366559416/Fast-acting-cyber-gangs-increasingly-disabling-telemetry-logs)
+- [Restricted Ketogenic Diet Therapy for Primary Lung Cancer with Brain Metastasis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9435310/)
+- [Prices aren&#39;t just about supply and demand, but control over supply and demand](https://dougaldlamont.substack.com/p/prices-arent-just-about-supply-and)
+- [AI robot chemist could make oxygen on Mars](https://www.nature.com/articles/d41586-023-03522-4)
+- [Insanely Fast Whisper: Transcribe 300 minutes of audio in less than 98 seconds](https://github.com/chenxwh/insanely-fast-whisper)
+- [Mechanism Behind Aspirin Protective Effect Against Colorectal Cancer Identified](https://www.technologynetworks.com/drug-discovery/news/mechanism-behind-aspirins-protective-effect-against-colorectal-cancer-identified-380646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
