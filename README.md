@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prequel &lpar;YC W21&rpar; Is Hiring a Sr Engineer to Build B2B Data Sharing](https://www.workatastartup.com/jobs/43482)
+- [Mathematician Roger Penrose&#39;s Beautiful Journal](https://abakcus.com/directory/roger-penroses-beautiful-journal/)
+- [Andreessen Horowitz Invests in Civitai, Which Profits from Nonconsensual AI Porn](https://www.404media.co/andreessen-horowitz-invests-in-civitai-key-platform-for-deepfake-porn/)
 - [.NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)
 - [Fast-acting cyber gangs increasingly disabling telemetry logs](https://www.computerweekly.com/news/366559416/Fast-acting-cyber-gangs-increasingly-disabling-telemetry-logs)
-- [US Confidence in Higher Education Institutions Continues Long Decline](https://news.gallup.com/poll/508352/americans-confidence-higher-education-down-sharply.aspx)
-- [Replacing HLS/Dash – Live Mass Fanout with Media over QUIC](https://quic.video/blog/replacing-hls-dash/)
-- [Ultra-white ceramic cools buildings with record-high 99.6% reflectivity](https://newatlas.com/materials/ultra-white-ceramic-cools-buildings-record-high-reflectivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
