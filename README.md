@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If you buy a Cybertruck, Tesla says you can&#39;t sell it for a year](https://www.theverge.com/2023/11/13/23959481/if-you-buy-a-cybertruck-tesla-says-you-cant-sell-it-for-a-year)
+- [Constraints On Physical Computers In Holographic Spacetimes](https://arxiv.org/abs/2304.09900)
+- [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-us/data-center/h200/)
 - [Rust Without Crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
 - [EU Parliament Decides That Your Private Messages Must Not Be Scanned](https://tuta.com/blog/chat-control)
-- [Children working as riders for food delivery apps – BBC investigation](https://www.bbc.co.uk/news/uk-67371473)
-- [Truth Social reports $73M net loss since launch](https://www.reuters.com/technology/trumps-truth-social-reports-73-mln-net-loss-since-launch-2023-11-14/)
-- [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
