@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI offers $10M pay packages to poach Google researchers](https://www.theinformation.com/articles/openais-new-tack-in-talent-war-with-google-promising-recruits-a-quick-stock-bump)
 - [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
-- [Kai-Fu Li&#39;s Yi-34B uses exactly Llama&#39;s architecture except for 2 tensor renamed](https://huggingface.co/01-ai/Yi-34B/discussions/11)
+- [Many Popular Houses in L.A. Were Part of a Scam by a Con Artist Who Disappeared](https://www.atlasobscura.com/articles/los-angeles-home-scam)
 - [Starship will attempt a launch this weekend](https://www.fly.faa.gov/adv/adv_spt.jsp)
-- [America Is Getting Lonelier and More Indoorsy. That&#39;s Not a Coincidence](https://www.theatlantic.com/health/archive/2023/11/nature-avoidance-social-isolation-loneliness/675984/)
 - [Unlogged &lpar;YC S22&rpar; Is Hiring a founding back end engineer](https://news.ycombinator.com/item?id=38257499)
 <!-- BLOG-POST-LIST:END -->
 
