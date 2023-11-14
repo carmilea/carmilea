@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Starship will attempt a launch this weekend](https://www.fly.faa.gov/adv/adv_spt.jsp)
+- [Ask HN: How to manage autistic developer?](https://news.ycombinator.com/item?id=38257769)
+- [America Is Getting Lonelier and More Indoorsy. That&#39;s Not a Coincidence](https://www.theatlantic.com/health/archive/2023/11/nature-avoidance-social-isolation-loneliness/675984/)
 - [Unlogged &lpar;YC S22&rpar; Is Hiring a founding back end engineer](https://news.ycombinator.com/item?id=38257499)
-- [A Coder Considers the Waning Days of the Craft](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)
-- [20% of Millennials and 68% of Gen Z-ers still live with other family members](https://www.rentcafe.com/blog/rental-market/market-snapshots/multigenerational-households/)
 - [Nepal bans TikTok and says it disrupts social harmony](https://apnews.com/article/nepal-tiktok-ban-social-media-854846a42ef566fa296ddaacd0099447)
-- [Google witness accidentally blurts out that Apple gets 36% cut of Safari deal](https://arstechnica.com/tech-policy/2023/11/google-witness-accidentally-blurts-out-that-apple-gets-36-cut-of-safari-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
