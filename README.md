@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Levels of AGI: Operationalizing Progress on the Path to AGI](https://arxiv.org/abs/2311.02462)
-- [Low current around roots boosts plant growth](https://www.nature.com/articles/d44151-023-00162-5)
-- [We&#39;ve learned nothing from the SolarWinds hack](https://www.macchaffee.com/blog/2023/solarwinds-hack-lessons-learned/)
-- [Zelle finally caves after years of refusing to refund scam victims](https://arstechnica.com/tech-policy/2023/11/zelle-finally-caves-after-years-of-refusing-to-refund-scam-victims/)
-- [Discouraging the use of web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
+- [Unlogged &lpar;YC S22&rpar; Is Hiring a founding back end engineer](https://news.ycombinator.com/item?id=38257499)
+- [A Coder Considers the Waning Days of the Craft](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)
+- [20% of Millennials and 68% of Gen Z-ers still live with other family members](https://www.rentcafe.com/blog/rental-market/market-snapshots/multigenerational-households/)
+- [Nepal bans TikTok and says it disrupts social harmony](https://apnews.com/article/nepal-tiktok-ban-social-media-854846a42ef566fa296ddaacd0099447)
+- [Google witness accidentally blurts out that Apple gets 36% cut of Safari deal](https://arstechnica.com/tech-policy/2023/11/google-witness-accidentally-blurts-out-that-apple-gets-36-cut-of-safari-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
