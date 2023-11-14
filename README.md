@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tuta &lpar;formerly Tutanota&rpar; denies claim it has intelligence ties](https://www.cp24.com/news/encrypted-email-service-denies-accused-rcmp-leaker-s-claim-it-has-intelligence-ties-1.6643794)
-- [Backblaze Drive Stats for Q3 2023](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2023/)
-- [Just because you&#39;re paranoid, doesn&#39;t mean AI&#39;s not after you](https://www.theregister.com/2023/11/14/bt_horse_and_ai_are_the_same/)
-- [A Lot of Damage in Grindavík](https://icelandmonitor.mbl.is/news/news/2023/11/13/a_lot_of_damage_in_grindavik/)
-- [Show HN: SvelteKit SaaS Boilerplate to help launch your product fast](https://launchleopard.com/)
+- [.NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)
+- [Fast-acting cyber gangs increasingly disabling telemetry logs](https://www.computerweekly.com/news/366559416/Fast-acting-cyber-gangs-increasingly-disabling-telemetry-logs)
+- [US Confidence in Higher Education Institutions Continues Long Decline](https://news.gallup.com/poll/508352/americans-confidence-higher-education-down-sharply.aspx)
+- [Replacing HLS/Dash – Live Mass Fanout with Media over QUIC](https://quic.video/blog/replacing-hls-dash/)
+- [Ultra-white ceramic cools buildings with record-high 99.6% reflectivity](https://newatlas.com/materials/ultra-white-ceramic-cools-buildings-record-high-reflectivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
