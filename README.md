@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tuta &lpar;formerly Tutanota&rpar; denies claim it has intelligence ties](https://www.cp24.com/news/encrypted-email-service-denies-accused-rcmp-leaker-s-claim-it-has-intelligence-ties-1.6643794)
+- [Backblaze Drive Stats for Q3 2023](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2023/)
+- [Just because you&#39;re paranoid, doesn&#39;t mean AI&#39;s not after you](https://www.theregister.com/2023/11/14/bt_horse_and_ai_are_the_same/)
 - [A Lot of Damage in Grindavík](https://icelandmonitor.mbl.is/news/news/2023/11/13/a_lot_of_damage_in_grindavik/)
-- [48-nation bloc to crack down on using crypto assets to avoid tax](https://www.theregister.com/2023/11/13/carf_2027_adoption_set/)
-- [Ask HN: Is ChatGPT4 broken since last weekend?](https://news.ycombinator.com/item?id=38262837)
-- [Lapce Editor 0.3](https://github.com/lapce/lapce/releases/tag/v0.3.0)
-- [Treble.ai &lpar;YC S19&rpar; Is Hiring Spainish Speaking Product Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
+- [Show HN: SvelteKit SaaS Boilerplate to help launch your product fast](https://launchleopard.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
