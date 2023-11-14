@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vehicles with higher, more vertical front ends pose greater risk to pedestrians](https://www.iihs.org/news/detail/vehicles-with-higher-more-vertical-front-ends-pose-greater-risk-to-pedestrians)
+- [Homage to Strong Bad](https://verydistantlands.substack.com/p/homage-to-strong-bad)
 - [Restricted Ketogenic Diet Therapy for Primary Lung Cancer with Brain Metastasis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9435310/)
-- [Prices aren&#39;t just about supply and demand, but control over supply and demand](https://dougaldlamont.substack.com/p/prices-arent-just-about-supply-and)
 - [AI robot chemist could make oxygen on Mars](https://www.nature.com/articles/d41586-023-03522-4)
-- [Insanely Fast Whisper: Transcribe 300 minutes of audio in less than 98 seconds](https://github.com/chenxwh/insanely-fast-whisper)
-- [Mechanism Behind Aspirin Protective Effect Against Colorectal Cancer Identified](https://www.technologynetworks.com/drug-discovery/news/mechanism-behind-aspirins-protective-effect-against-colorectal-cancer-identified-380646)
+- [Mechanism behind aspirin protective effect against colorectal cancer identified](https://www.technologynetworks.com/drug-discovery/news/mechanism-behind-aspirins-protective-effect-against-colorectal-cancer-identified-380646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
