@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If you buy a Cybertruck, Tesla says you can&#39;t sell it for a year](https://www.theverge.com/2023/11/13/23959481/if-you-buy-a-cybertruck-tesla-says-you-cant-sell-it-for-a-year)
-- [Constraints On Physical Computers In Holographic Spacetimes](https://arxiv.org/abs/2304.09900)
-- [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-us/data-center/h200/)
-- [Rust Without Crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
-- [EU Parliament Decides That Your Private Messages Must Not Be Scanned](https://tuta.com/blog/chat-control)
+- [Coinbase Steals Money](https://news.ycombinator.com/item?id=38262827)
+- [Treble.ai &lpar;YC S19&rpar; Is Hiring Spainish Speaking Product Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
+- [Blender 4.0](https://wiki.blender.org/wiki/Reference/Release_Notes/4.0)
+- [US Healthcare Scam Illustrated in Impossibility of Getting Bill for 5 Stitches](https://www.techdirt.com/2023/11/13/the-us-healthcare-scam-illustrated-in-the-impossibility-of-getting-a-bill-for-five-stitches/)
+- [Google Sues Men Who Weaponized DMCA Notices to Crush Competition](https://torrentfreak.com/google-sues-men-who-weaponized-dmca-notices-to-crush-competition-231114/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
