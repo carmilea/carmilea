@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman on X: &quot;we are pausing new ChatGPT Plus sign-ups for a bit&quot;](https://twitter.com/sama/status/1724626002595471740)
 - [What If Google Wasn&#39;t the Default?](https://matt-rickard.com/what-if-google-wasnt-the-default)
 - [Gym Class VR &lpar;YC W22 – Top Sports VR Game&rpar; Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
+- [Curl on 100 Operating Systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
 - [Haiku Activity and Contract Report, October 2023](https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/)
-- [Beyond Memorization: Violating privacy via inference with LLMs](https://arxiv.org/abs/2310.07298)
-- [The Architecture of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
 <!-- BLOG-POST-LIST:END -->
 
 ---
