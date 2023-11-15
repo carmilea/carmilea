@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Principle of Least Power &lpar;2007&rpar;](https://blog.codinghorror.com/the-principle-of-least-power/)
-- [James Webb Space Telescope finds 2 of the most distant galaxies ever seen](https://www.space.com/james-webb-space-telescope-distant-galaxies)
-- [I Visited over 120 EV Chargers: Why So Many Were Broken](https://www.wsj.com/tech/i-visited-over-120-ev-chargers-three-reasons-why-so-many-were-broken-7a5d3e45)
-- [AI outperforms conventional weather forecasting for the first time: Google study](https://arstechnica.com/science/2023/11/ai-outperforms-conventional-weather-forecasting-for-the-first-time-google-study/)
-- [ChatGPT has entered the classroom: how LLMs could transform education](https://www.nature.com/articles/d41586-023-03507-3)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Amazon is blocking promotions of employees who don&#39;t comply with RTO policy](https://www.businessinsider.com/amazon-suspends-promotions-employees-not-meeting-rto-mandate-2023-11)
+- [Microsoft introduces its own chips for AI, with eye on cost](https://www.reuters.com/technology/microsoft-introduces-its-own-chips-ai-with-eye-cost-2023-11-15/)
+- [On Cultures That Build &lpar;2020&rpar;](https://scholars-stage.org/on-cultures-that-build/)
+- [Show HN: Watermelon – open-source copilot for code review](https://github.com/marketplace/watermelon-context)
 <!-- BLOG-POST-LIST:END -->
 
 ---
