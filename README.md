@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Spy EU](https://dontspy.eu/)
-- [The Python Sofware Foundation Receives Wonderfully Welcoming Award from GitHub](https://pyfound.blogspot.com/2023/11/psf-wonderfully-welcoming-award-github.html)
-- [Mux &lpar;YC W16&rpar; Is Hiring a Senior Distributed Systems Engineer](https://mux.com/jobs?j=dse)
-- [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.sciencedirect.com/science/article/pii/S0091674922014774)
-- [Use Timestamps](https://jankremer.eu/micro/timestamps/)
+- [Eyes on the Solar System/JPL](https://eyes.nasa.gov/apps/solar-system/)
+- [FBI Director: FISA Section 702 warrant requirement a &#39;de facto ban&#39;](https://www.theregister.com/2023/11/15/fbi_director_fisa_section_702/)
+- [Google paid $8B to make its apps default on Samsung phones](https://thehill.com/policy/technology/4309219-google-paid-8-billion-to-make-its-apps-default-on-samsung-phones/)
+- [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
+- [The &#39;Georgists&#39; Are Out and they want to tax your land](https://www.nytimes.com/2023/11/12/business/georgism-land-tax-housing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
