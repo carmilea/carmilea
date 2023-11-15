@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.sciencedirect.com/science/article/pii/S0091674922014774)
+- [Use Timestamps](https://jankremer.eu/micro/timestamps/)
 - [Paul Graham – Orthodox Privilege &lpar;2020&rpar;](http://www.paulgraham.com/orth.html)
-- [What If Google Wasn&#39;t the Default?](https://matt-rickard.com/what-if-google-wasnt-the-default)
 - [Gym Class VR &lpar;YC W22 – Top Sports VR Game&rpar; Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
 - [Curl on 100 Operating Systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
-- [Haiku Activity and Contract Report, October 2023](https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
