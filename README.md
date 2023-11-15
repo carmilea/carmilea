@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kodak sues Tesla for using stolen technology for Autopilot](https://cleanenergyrevolution.co/2023/11/13/kodak-sues-tesla-for-using-stolen-technology-for-autopilot/)
+- [New Toyota Camry to Be Sold Only as Hybrid](https://www.wsj.com/business/autos/new-toyota-camry-to-be-sold-only-as-hybrid-71e6c155)
 - [LLM can invade privacy through benign questions depite usual protections](https://arxiv.org/abs/2310.07298)
 - [The Architecture of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
 - [U.S. reenters the nuclear fuel game](https://spectrum.ieee.org/nuclear-power-plant-2666199640)
