@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Eyes on the Solar System/JPL](https://eyes.nasa.gov/apps/solar-system/)
-- [FBI Director: FISA Section 702 warrant requirement a &#39;de facto ban&#39;](https://www.theregister.com/2023/11/15/fbi_director_fisa_section_702/)
-- [Google paid $8B to make its apps default on Samsung phones](https://thehill.com/policy/technology/4309219-google-paid-8-billion-to-make-its-apps-default-on-samsung-phones/)
-- [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
-- [The &#39;Georgists&#39; Are Out and they want to tax your land](https://www.nytimes.com/2023/11/12/business/georgism-land-tax-housing.html)
+- [The Principle of Least Power &lpar;2007&rpar;](https://blog.codinghorror.com/the-principle-of-least-power/)
+- [James Webb Space Telescope finds 2 of the most distant galaxies ever seen](https://www.space.com/james-webb-space-telescope-distant-galaxies)
+- [I Visited over 120 EV Chargers: Why So Many Were Broken](https://www.wsj.com/tech/i-visited-over-120-ev-chargers-three-reasons-why-so-many-were-broken-7a5d3e45)
+- [AI outperforms conventional weather forecasting for the first time: Google study](https://arstechnica.com/science/2023/11/ai-outperforms-conventional-weather-forecasting-for-the-first-time-google-study/)
+- [ChatGPT has entered the classroom: how LLMs could transform education](https://www.nature.com/articles/d41586-023-03507-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
