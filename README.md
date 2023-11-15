@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside-out design solves most of the rotary engine&#39;s problems](https://arstechnica.com/cars/2023/11/this-inside-out-design-solves-most-of-the-rotary-engines-problems/)
-- [Give up 70% of the way through the hyperstitious slur cascade](https://www.astralcodexten.com/p/give-up-seventy-percent-of-the-way)
+- [Blender 16yo winner of UK younganimator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
+- [Is my toddler a stochastic parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)
+- [Price paid for offshore power to rise by 50%](https://www.bbc.co.uk/news/business-67430888)
 - [Firefox Is Going to Try and Ship with Wayland Enabled by Default](https://www.phoronix.com/news/Firefox-Change-Wayland-Release)
 - [Australia&#39;s overuse of antibiotics driving rate of drug-resistant infections](https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections)
-- [David Attenborough is now narrating my life](https://twitter.com/charliebholtz/status/1724815159590293764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
