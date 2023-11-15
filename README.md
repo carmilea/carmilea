@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman on X: &quot;we are pausing new ChatGPT Plus sign-ups for a bit&quot;](https://twitter.com/sama/status/1724626002595471740)
+- [Paul Graham – Orthodox Privilege &lpar;2020&rpar;](http://www.paulgraham.com/orth.html)
 - [What If Google Wasn&#39;t the Default?](https://matt-rickard.com/what-if-google-wasnt-the-default)
 - [Gym Class VR &lpar;YC W22 – Top Sports VR Game&rpar; Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
 - [Curl on 100 Operating Systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
