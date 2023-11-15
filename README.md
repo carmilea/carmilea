@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Silicon Valley&#39;s worldview is not just an ideology; it&#39;s a personality disorder](https://crookedtimber.org/2023/11/15/silicon-valleys-worldview-is-not-just-an-ideology-its-a-personality-disorder/)
-- [In Illinois, a Warden Tried to Fix an Abusive Prison. He Faced Death Threats](https://www.themarshallproject.org/2023/11/15/illinois-federal-prison-thomson-abuse-thomas-bergami)
-- [Microsoft producing custom &quot;Azure Cobalt&quot; chips for cloud AI workloads](https://www.tomshardware.com/news/microsoft-azure-maia-ai-accelerator-cobalt-cpu-custom)
-- [Framework 13 with AMD Ryzen 7040 Series Makes for a Great Linux Laptop](https://www.phoronix.com/review/framework-13-amd)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Android isn&#39;t cool with teenagers, and that&#39;s a big problem](https://www.androidpolice.com/android-teens-problem/)
+- [Companies with flexible remote work policies outperform on revenue growth](https://www.forbes.com/sites/jenamcgregor/2023/11/14/companies-with-flexible-remote-work-policies-outperform-on-revenue-growth-report/)
+- [Is the US&#39;s Vaccine Adverse Event Reporting System broken?](https://www.bmj.com/content/383/bmj.p2582)
+- [In illinois, a warden tried to fix an abusive prison](https://www.themarshallproject.org/2023/11/15/illinois-federal-prison-thomson-abuse-thomas-bergami)
+- [B-trees in Factorio](https://razberry.substack.com/p/btree-factorio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
