@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What If Google Wasn&#39;t the Default?](https://matt-rickard.com/what-if-google-wasnt-the-default)
 - [Gym Class VR &lpar;YC W22 – Top Sports VR Game&rpar; Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
 - [Haiku Activity and Contract Report, October 2023](https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/)
 - [Beyond Memorization: Violating privacy via inference with LLMs](https://arxiv.org/abs/2310.07298)
 - [The Architecture of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
-- [U.S. reenters the nuclear fuel game](https://spectrum.ieee.org/nuclear-power-plant-2666199640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
