@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mux &lpar;YC W16&rpar; Is Hiring a Senior Distributed Systems Engineer](https://mux.com/jobs?j=dse)
 - [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.sciencedirect.com/science/article/pii/S0091674922014774)
 - [Use Timestamps](https://jankremer.eu/micro/timestamps/)
-- [Paul Graham – Orthodox Privilege &lpar;2020&rpar;](http://www.paulgraham.com/orth.html)
-- [Gym Class VR &lpar;YC W22 – Top Sports VR Game&rpar; Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
-- [Curl on 100 Operating Systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
+- [Hacking ADHD: Strategies for the modern developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
+- [Orthodox Privilege &lpar;2020&rpar;](http://www.paulgraham.com/orth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
