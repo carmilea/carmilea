@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ARRL Hails FCC Action to Remove Symbol Rate Restrictions](https://www.arrl.org/news/arrl-hails-fcc-action-to-remove-symbol-rate-restrictions)
+- [The Architecture of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
+- [U.S. reenters the nuclear fuel game](https://spectrum.ieee.org/nuclear-power-plant-2666199640)
+- [The O-Ring Theory of Economic Development &lpar;1993&rpar;](https://www.jstor.org/stable/2118400)
+- [ARRL hails FCC action to remove symbol rate restrictions](https://www.arrl.org/news/arrl-hails-fcc-action-to-remove-symbol-rate-restrictions)
 - [Detexify LaTeX Handwriting Symbol Recognition](https://detexify.kirelabs.org/classify.html)
-- [Effective GPT-4 Programming](https://gwern.net/tla)
-- [Is the reversal curse in LLMs real?](https://andrewmayne.com/2023/11/14/is-the-reversal-curse-real/)
-- [Ara2: RVV 1.0 Compliant Open-Source Processor](https://arxiv.org/abs/2311.07493)
 <!-- BLOG-POST-LIST:END -->
 
 ---
