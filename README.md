@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Android isn&#39;t cool with teenagers, and that&#39;s a big problem](https://www.androidpolice.com/android-teens-problem/)
-- [Companies with flexible remote work policies outperform on revenue growth](https://www.forbes.com/sites/jenamcgregor/2023/11/14/companies-with-flexible-remote-work-policies-outperform-on-revenue-growth-report/)
-- [Is the US&#39;s Vaccine Adverse Event Reporting System broken?](https://www.bmj.com/content/383/bmj.p2582)
-- [In illinois, a warden tried to fix an abusive prison](https://www.themarshallproject.org/2023/11/15/illinois-federal-prison-thomson-abuse-thomas-bergami)
-- [B-trees in Factorio](https://razberry.substack.com/p/btree-factorio)
+- [Inside-out design solves most of the rotary engine&#39;s problems](https://arstechnica.com/cars/2023/11/this-inside-out-design-solves-most-of-the-rotary-engines-problems/)
+- [Give up 70% of the way through the hyperstitious slur cascade](https://www.astralcodexten.com/p/give-up-seventy-percent-of-the-way)
+- [Firefox Is Going to Try and Ship with Wayland Enabled by Default](https://www.phoronix.com/news/Firefox-Change-Wayland-Release)
+- [Australia&#39;s overuse of antibiotics driving rate of drug-resistant infections](https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections)
+- [David Attenborough is now narrating my life](https://twitter.com/charliebholtz/status/1724815159590293764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
