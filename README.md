@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy 1700M Epoch Second](https://www.epochconverter.com/)
+- [ARRL Hails FCC Action to Remove Symbol Rate Restrictions](https://www.arrl.org/news/arrl-hails-fcc-action-to-remove-symbol-rate-restrictions)
+- [Detexify LaTeX Handwriting Symbol Recognition](https://detexify.kirelabs.org/classify.html)
+- [Effective GPT-4 Programming](https://gwern.net/tla)
+- [Is the reversal curse in LLMs real?](https://andrewmayne.com/2023/11/14/is-the-reversal-curse-real/)
 - [Ara2: RVV 1.0 Compliant Open-Source Processor](https://arxiv.org/abs/2311.07493)
-- [Inko Programming Language](https://inko-lang.org)
-- [IcePanel &lpar;YC W23&rpar; is hiring in Vancouver, Canada](https://icepanel.io/careers)
-- [YouTube will show labels on videos that use AI](https://9to5google.com/2023/11/14/youtube-ai-labels-videos-shorts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
