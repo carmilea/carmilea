@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t Spy EU](https://dontspy.eu/)
+- [The Python Sofware Foundation Receives Wonderfully Welcoming Award from GitHub](https://pyfound.blogspot.com/2023/11/psf-wonderfully-welcoming-award-github.html)
 - [Mux &lpar;YC W16&rpar; Is Hiring a Senior Distributed Systems Engineer](https://mux.com/jobs?j=dse)
 - [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.sciencedirect.com/science/article/pii/S0091674922014774)
 - [Use Timestamps](https://jankremer.eu/micro/timestamps/)
-- [Hacking ADHD: Strategies for the modern developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
-- [Orthodox Privilege &lpar;2020&rpar;](http://www.paulgraham.com/orth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
