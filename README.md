@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta allows ads saying 2020 election was rigged on Facebook and Instagram](https://www.theguardian.com/technology/2023/nov/15/facebook-ads-2020-election-rigged-stolen-instagram-policy)
+- [Push ifs up and fors down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
+- [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)
 - [Blender 16yo winner of UK younganimator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
-- [Is my toddler a stochastic parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)
-- [Price paid for offshore power to rise by 50%](https://www.bbc.co.uk/news/business-67430888)
-- [Firefox Is Going to Try and Ship with Wayland Enabled by Default](https://www.phoronix.com/news/Firefox-Change-Wayland-Release)
-- [Australia&#39;s overuse of antibiotics driving rate of drug-resistant infections](https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections)
+- [Plane forced to turn back to JFK after horse breaks loose onboard](https://www.independent.co.uk/travel/news-and-advice/horse-loose-plane-flight-divert-b2447854.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
