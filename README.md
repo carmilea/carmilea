@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Valley&#39;s worldview is not just an ideology; it&#39;s a personality disorder](https://crookedtimber.org/2023/11/15/silicon-valleys-worldview-is-not-just-an-ideology-its-a-personality-disorder/)
+- [In Illinois, a Warden Tried to Fix an Abusive Prison. He Faced Death Threats](https://www.themarshallproject.org/2023/11/15/illinois-federal-prison-thomson-abuse-thomas-bergami)
+- [Microsoft producing custom &quot;Azure Cobalt&quot; chips for cloud AI workloads](https://www.tomshardware.com/news/microsoft-azure-maia-ai-accelerator-cobalt-cpu-custom)
+- [Framework 13 with AMD Ryzen 7040 Series Makes for a Great Linux Laptop](https://www.phoronix.com/review/framework-13-amd)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Amazon is blocking promotions of employees who don&#39;t comply with RTO policy](https://www.businessinsider.com/amazon-suspends-promotions-employees-not-meeting-rto-mandate-2023-11)
-- [Microsoft introduces its own chips for AI, with eye on cost](https://www.reuters.com/technology/microsoft-introduces-its-own-chips-ai-with-eye-cost-2023-11-15/)
-- [On Cultures That Build &lpar;2020&rpar;](https://scholars-stage.org/on-cultures-that-build/)
-- [Show HN: Watermelon – open-source copilot for code review](https://github.com/marketplace/watermelon-context)
 <!-- BLOG-POST-LIST:END -->
 
 ---
