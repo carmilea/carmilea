@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ohio commission approves fracking in state parks and wildlife areas](https://apnews.com/article/ohio-fracking-state-parks-8b8e73c6918e97e588d44855dc8b47eb)
-- [Running Signal Will Soon Cost $50 Million a Year](https://www.wired.com/story/signal-operating-costs/)
-- [Privacy is Priceless, but Signal is Expensive](https://signal.org/blog/signal-is-expensive/)
-- [Bad Bots Account for 73% of Internet Traffic: Analysis](https://www.securityweek.com/bad-bots-account-for-73-of-internet-traffic-analysis/)
-- [Ransomware Group Files SEC Complaint over Victim&#39;s Failure Disclose Data Breach](https://www.securityweek.com/ransomware-group-files-sec-complaint-over-victims-failure-to-disclose-data-breach/)
+- [Top 10 Questions Answered: Real-Time AI Threat Detection Using Kafka](https://www.singlestore.com/blog/webinar-recap-real-time-ai-threat-detection-using-kafka/)
+- [Migrating to OpenTelemetry](https://www.airplane.dev/blog/migrating-to-opentelemetry)
+- [std::source_location Is Broken](https://www.elbeno.com/blog/?p=1738)
+- [The impossibility of rationally analyzing partisan news](https://www.lesswrong.com/posts/uPGoNN3w2JhmrC6DE/the-impossibility-of-rationally-analyzing-partisan-news)
+- [AI-Exploits: Repo of multiple unauthenticated RCEs in AI tools](https://github.com/protectai/ai-exploits)
 <!-- BLOG-POST-LIST:END -->
 
 ---
