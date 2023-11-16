@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Plus subscriptions are being listed on eBay after OpenAI blocked signups](https://www.businessinsider.com/chatgpt-plus-subscriptions-listed-on-ebay-after-openai-blocked-signups-2023-11)
-- [Dutch gov&#39;t wants to ban officials from using AI software](https://nltimes.nl/2023/11/16/dutch-govt-wants-ban-officials-using-ai-software)
-- [OpenSubtitles is not open anymore](https://blog.opensubtitles.com/opensubtitles/saying-goodbye-to-opensubtitles-org-api-embrace-the-20-black-friday-treat)
-- [Show HN: Near-realtime cloud maps for weather visualisation, 3D models and more](https://github.com/matteason/live-cloud-maps)
-- [A mass surveillance system for national security based on advertising/RTB data](https://twitter.com/WolfieChristl/status/1724403996738171157)
+- [Bad Bots Account for 73% of Internet Traffic: Analysis](https://www.securityweek.com/bad-bots-account-for-73-of-internet-traffic-analysis/)
+- [Ransomware Group Files SEC Complaint over Victim&#39;s Failure Disclose Data Breach](https://www.securityweek.com/ransomware-group-files-sec-complaint-over-victims-failure-to-disclose-data-breach/)
+- [Zimbra 0-day used to steal email data from government organizations](https://blog.google/threat-analysis-group/zimbra-0-day-used-to-steal-email-data-from-government-organizations/)
+- [Could be bigger than Cambridge Analytica &lpar;5B people&rpar;](https://www.iccl.ie/digital-data/europes-hidden-security-crisis/)
+- [Mom and pop shops are cutting software spending, creating jitters on Wall Street](https://www.cnbc.com/2023/11/16/mom-and-pop-shops-cut-software-spending-creating-wall-street-jitters.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
