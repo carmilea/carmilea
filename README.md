@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ProtonMail is building a blockchain feature for email validation](https://joltmailer.com/protonmail-blockchain-key-feature/)
-- [Show HN: Near-realtime cloud maps for visualisations, 3D modelling and more](https://github.com/matteason/live-cloud-maps)
+- [ChatGPT Plus subscriptions are being listed on eBay after OpenAI blocked signups](https://www.businessinsider.com/chatgpt-plus-subscriptions-listed-on-ebay-after-openai-blocked-signups-2023-11)
+- [Dutch gov&#39;t wants to ban officials from using AI software](https://nltimes.nl/2023/11/16/dutch-govt-wants-ban-officials-using-ai-software)
+- [OpenSubtitles is not open anymore](https://blog.opensubtitles.com/opensubtitles/saying-goodbye-to-opensubtitles-org-api-embrace-the-20-black-friday-treat)
+- [Show HN: Near-realtime cloud maps for weather visualisation, 3D models and more](https://github.com/matteason/live-cloud-maps)
 - [A mass surveillance system for national security based on advertising/RTB data](https://twitter.com/WolfieChristl/status/1724403996738171157)
-- [Printed robots with bones, ligaments, and tendons](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/printed-robots-with-bones-ligaments-and-tendons.html)
-- [YouTube cracks down on synthetic media with AI disclosure requirement](https://arstechnica.com/information-technology/2023/11/youtube-will-require-creators-to-disclose-realistic-ai-generated-or-altered-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
