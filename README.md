@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ProtonMail is building a blockchain feature for email validation](https://joltmailer.com/protonmail-blockchain-key-feature/)
+- [Show HN: Near-realtime cloud maps for visualisations, 3D modelling and more](https://github.com/matteason/live-cloud-maps)
+- [A mass surveillance system for national security based on advertising/RTB data](https://twitter.com/WolfieChristl/status/1724403996738171157)
+- [Printed robots with bones, ligaments, and tendons](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/printed-robots-with-bones-ligaments-and-tendons.html)
 - [YouTube cracks down on synthetic media with AI disclosure requirement](https://arstechnica.com/information-technology/2023/11/youtube-will-require-creators-to-disclose-realistic-ai-generated-or-altered-content/)
-- [OiNK&#39;s Pink Palace was shut down 16 years ago](https://en.wikipedia.org/wiki/Oink%27s_Pink_Palace)
-- [I think I need to go lie down](https://twitter.com/multikev/status/1724908185361011108)
-- [Removed: Document](https://www.theguardian.com/info/2023/nov/15/removed-document)
-- [&#39;No one else is saving it&#39;: the fight to protect a historic music collection](https://www.theguardian.com/music/2023/nov/16/archive-of-contemporary-music-new-york)
 <!-- BLOG-POST-LIST:END -->
 
 ---
