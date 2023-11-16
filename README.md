@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Know Everything Is Securities Fraud](https://www.bloomberg.com/opinion/articles/2023-11-16/hackers-know-everything-is-securities-fraud)
+- [Air Accident Investigation Branch: film lights caused window damage on A321neo](https://www.flightradar24.com/blog/aaib-says-film-lights-caused-window-damage-on-titan-a321neo/)
+- [Apple to support RCS messaging standard next year](https://www.techradar.com/phones/iphone/breaking-apple-will-support-rcs-in-2024)
+- [Apple announces that RCS support is coming to iPhone next year](https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/)
 - [Top 10 Questions Answered: Real-Time AI Threat Detection Using Kafka](https://www.singlestore.com/blog/webinar-recap-real-time-ai-threat-detection-using-kafka/)
-- [Migrating to OpenTelemetry](https://www.airplane.dev/blog/migrating-to-opentelemetry)
-- [std::source_location Is Broken](https://www.elbeno.com/blog/?p=1738)
-- [The impossibility of rationally analyzing partisan news](https://www.lesswrong.com/posts/uPGoNN3w2JhmrC6DE/the-impossibility-of-rationally-analyzing-partisan-news)
-- [AI-Exploits: Repo of multiple unauthenticated RCEs in AI tools](https://github.com/protectai/ai-exploits)
 <!-- BLOG-POST-LIST:END -->
 
 ---
