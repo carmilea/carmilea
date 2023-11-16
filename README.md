@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OiNK&#39;s Pink Palace was shut down 16 years ago](https://en.wikipedia.org/wiki/Oink%27s_Pink_Palace)
+- [I think I need to go lie down](https://twitter.com/multikev/status/1724908185361011108)
+- [&#39;No one else is saving it&#39;: the fight to protect a historic music collection](https://www.theguardian.com/music/2023/nov/16/archive-of-contemporary-music-new-york)
 - [DOS_deck: Play DOS games in the browser with full controller support](https://dosdeck.com/)
 - [The push to save the Itanium architecture in Linux](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
-- [Google: Transforming the Future of Music Creation](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
-- [HHKB Studio: The New Happy Hacking Keyboard with TrackPoint](https://hhkeyboard.us/hhkb-studio/product)
-- [LLMs by Hallucination Rate](https://github.com/vectara/hallucination-leaderboard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
