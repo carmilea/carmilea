@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ohio commission approves fracking in state parks and wildlife areas](https://apnews.com/article/ohio-fracking-state-parks-8b8e73c6918e97e588d44855dc8b47eb)
+- [Running Signal Will Soon Cost $50 Million a Year](https://www.wired.com/story/signal-operating-costs/)
+- [Privacy is Priceless, but Signal is Expensive](https://signal.org/blog/signal-is-expensive/)
 - [Bad Bots Account for 73% of Internet Traffic: Analysis](https://www.securityweek.com/bad-bots-account-for-73-of-internet-traffic-analysis/)
 - [Ransomware Group Files SEC Complaint over Victim&#39;s Failure Disclose Data Breach](https://www.securityweek.com/ransomware-group-files-sec-complaint-over-victims-failure-to-disclose-data-breach/)
-- [Zimbra 0-day used to steal email data from government organizations](https://blog.google/threat-analysis-group/zimbra-0-day-used-to-steal-email-data-from-government-organizations/)
-- [Could be bigger than Cambridge Analytica &lpar;5B people&rpar;](https://www.iccl.ie/digital-data/europes-hidden-security-crisis/)
-- [Mom and pop shops are cutting software spending, creating jitters on Wall Street](https://www.cnbc.com/2023/11/16/mom-and-pop-shops-cut-software-spending-creating-wall-street-jitters.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
