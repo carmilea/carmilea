@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Solitude as the antidote to misanthropy](https://www.christopherketcham.com/?p=441)
+- [WordPress plugins are a little sad?](https://chriscoyier.net/2023/11/13/the-top-wordpress-plugins-are-a-little-sad/)
 - [Last Post, Please Read](http://zandarvts.blogspot.com/2023/11/last-post-please-read.html)
 - [C++: The most important complexities](https://www.sandordargo.com/blog/2023/11/15/most-important-complexities)
 - [Rolls-royce confirms all of its current engines can run on 100 percent SAF](https://www.flyingmag.com/rolls-royce-confirms-all-of-its-current-engines-can-run-on-100-percent-saf/)
-- [Show HN: OpenAI dev assistant GUI with local code interpreter](https://github.com/agentcasa/doda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
