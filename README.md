@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube cracks down on synthetic media with AI disclosure requirement](https://arstechnica.com/information-technology/2023/11/youtube-will-require-creators-to-disclose-realistic-ai-generated-or-altered-content/)
 - [OiNK&#39;s Pink Palace was shut down 16 years ago](https://en.wikipedia.org/wiki/Oink%27s_Pink_Palace)
 - [I think I need to go lie down](https://twitter.com/multikev/status/1724908185361011108)
+- [Removed: Document](https://www.theguardian.com/info/2023/nov/15/removed-document)
 - [&#39;No one else is saving it&#39;: the fight to protect a historic music collection](https://www.theguardian.com/music/2023/nov/16/archive-of-contemporary-music-new-york)
-- [DOS_deck: Play DOS games in the browser with full controller support](https://dosdeck.com/)
-- [The push to save the Itanium architecture in Linux](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
