@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Federated Finetuning of OpenAI&#39;s Whisper on Raspberry Pi 5](https://flower.dev/blog/2023-11-15-federated-finetuning-of-openai-whisper-with-flower/)
+- [Why thinking hard makes us feel tired](https://www.nature.com/articles/d41586-022-02161-5)
+- [Planning for Unplanned Work in Linear](https://linear.app/blog/planning-for-unplanned-work)
+- [Moving from AWS to Bare-Metal saved us 230k$ /yr](https://blog.oneuptime.com/moving-from-aws-to-bare-metal/)
+- [Federated finetuning of Whisper on Raspberry Pi 5](https://flower.dev/blog/2023-11-15-federated-finetuning-of-openai-whisper-with-flower/)
 - [Hackers know everything is securities fraud](https://www.bloomberg.com/opinion/articles/2023-11-16/hackers-know-everything-is-securities-fraud)
-- [Amazon announces online car sales for the first time, starting with Hyundai](https://www.theverge.com/2023/11/16/23964233/amazon-car-online-sale-hyundai-dealer-alexa)
-- [Air Accident Investigation Branch: film lights caused window damage on A321neo](https://www.flightradar24.com/blog/aaib-says-film-lights-caused-window-damage-on-titan-a321neo/)
-- [Apple to support RCS messaging standard next year](https://www.techradar.com/phones/iphone/breaking-apple-will-support-rcs-in-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
