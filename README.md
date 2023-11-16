@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite4: The Design of SQLite4](https://sqlite.org/src4/doc/trunk/www/design.wiki)
-- [Common pesticides in food reducing sperm count worldwide, study says](https://www.cnn.com/2023/11/15/health/sperm-damage-pesticides-wellness/index.html)
-- [The Guardian Deletes Osama Bin Laden&#39;s &#39;Letter to America&#39;](https://www.404media.co/guardian-deletes-osama-bin-ladens-letter-to-america-after-it-goes-viral-on-tiktok/)
+- [How to Build Trust as a New Engineering Manager](https://becomingaleader.substack.com/p/how-to-build-trust)
+- [The Design of SQLite4 &lpar;2014&rpar;](https://sqlite.org/src4/doc/trunk/www/design.wiki)
+- [Investigating the Impact of Cold Plunges on Brain Activity Using EEG](https://neurofusionresearchinc.notion.site/Investigating-the-Impact-of-Cold-Plunges-on-Brain-Activity-99cdaa69889542fc8ef123ee9fe5130c?pvs=4)
+- [Scintillocartography](https://ivan.sanchezortega.es/development/2023/11/13/scintillocartography.html)
 - [&quot;Grand Ball Given by the Whales,&quot; Vanity Fair, April 20, 1861](https://energyhistory.yale.edu/grand-ball-given-by-the-whales-vanity-fair-april-20-1861/)
-- [Double-Checking Dawkins &lpar;2007&rpar;](https://blog.jgc.org/2007/12/double-checking-dawkins.html?m=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
