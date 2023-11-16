@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite4: The Design of SQLite4](https://sqlite.org/src4/doc/trunk/www/design.wiki)
 - [Common pesticides in food reducing sperm count worldwide, study says](https://www.cnn.com/2023/11/15/health/sperm-damage-pesticides-wellness/index.html)
-- [We No Longer Need a Big Carrier&#39;s Wireless Plan. Discount Ones Are the Way](https://www.nytimes.com/2023/11/15/technology/personaltech/we-no-longer-need-a-big-carriers-wireless-plan-discount-ones-are-the-way.html)
-- [Push ifs up and fors down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
-- [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)
-- [Porting Stunt Car Racer to the Apple II](https://cobbpg.github.io/articles/stunt-car-racer-apple2-port.html)
+- [The Guardian Deletes Osama Bin Laden&#39;s &#39;Letter to America&#39;](https://www.404media.co/guardian-deletes-osama-bin-ladens-letter-to-america-after-it-goes-viral-on-tiktok/)
+- [&quot;Grand Ball Given by the Whales,&quot; Vanity Fair, April 20, 1861](https://energyhistory.yale.edu/grand-ball-given-by-the-whales-vanity-fair-april-20-1861/)
+- [Double-Checking Dawkins &lpar;2007&rpar;](https://blog.jgc.org/2007/12/double-checking-dawkins.html?m=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
