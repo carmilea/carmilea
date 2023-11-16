@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nolan Says Buy Oppenheimer on Blu-ray So No Evil Streaming Service Can Steal It](https://variety.com/2023/film/news/christopher-nolan-buy-oppenheimer-blu-ray-evil-streamers-1235790376/)
+- [iMessage for Android](https://nothing.community/d/2968-introducing-nothing-chats)
+- [Last Post, Please Read](http://zandarvts.blogspot.com/2023/11/last-post-please-read.html)
+- [C++: The Most Important Complexities](https://www.sandordargo.com/blog/2023/11/15/most-important-complexities)
+- [Show HN: OpenAI dev assistant GUI with local code interpreter](https://github.com/agentcasa/doda)
 - [How to build trust as a new engineering manager](https://becomingaleader.substack.com/p/how-to-build-trust)
-- [Investigating the Impact of Cold Plunges on Brain Activity Using EEG](https://neurofusionresearchinc.notion.site/Investigating-the-Impact-of-Cold-Plunges-on-Brain-Activity-99cdaa69889542fc8ef123ee9fe5130c?pvs=4)
-- [Scintillocartography](https://ivan.sanchezortega.es/development/2023/11/13/scintillocartography.html)
-- [&quot;Grand Ball Given by the Whales,&quot; Vanity Fair, April 20, 1861](https://energyhistory.yale.edu/grand-ball-given-by-the-whales-vanity-fair-april-20-1861/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
