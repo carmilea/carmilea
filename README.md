@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Failed AI Girlfriend Product, and My Lessons](https://mazzzystar.github.io/2023/11/16/ai-girlfriend-product/)
+- [DOS_deck: Play DOS games in the browser with full controller support](https://dosdeck.com/)
 - [The push to save the Itanium architecture in Linux](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
 - [Google: Transforming the Future of Music Creation](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
 - [HHKB Studio: The New Happy Hacking Keyboard with TrackPoint](https://hhkeyboard.us/hhkb-studio/product)
