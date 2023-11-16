@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford F-150 Lightning Breezes Up Obstacle Where Tesla Cybertruck Struggled](https://www.thedrive.com/news/ford-f-150-lightning-breezes-up-obstacle-where-tesla-cybertruck-struggled)
+- [Common pesticides in food reducing sperm count worldwide, study says](https://www.cnn.com/2023/11/15/health/sperm-damage-pesticides-wellness/index.html)
+- [We No Longer Need a Big Carrier&#39;s Wireless Plan. Discount Ones Are the Way](https://www.nytimes.com/2023/11/15/technology/personaltech/we-no-longer-need-a-big-carriers-wireless-plan-discount-ones-are-the-way.html)
 - [Push ifs up and fors down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 - [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)
-- [Blender 16yo winner of UK young animator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
-- [Is my toddler a stochastic parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)
+- [Porting Stunt Car Racer to the Apple II](https://cobbpg.github.io/articles/stunt-car-racer-apple2-port.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
