@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft support &#39;cracks&#39; Windows for customer after activation fails](https://www.bleepingcomputer.com/news/security/microsoft-support-cracks-windows-for-customer-after-activation-fails/)
 - [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
-- [Show HN: I made a really silly personal landing page](https://davidadler.pages.dev/)
 - [OCapN, Interoperable Capabilities over the Network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)
-- [Hyundai to Be First Automaker to Sell New Cars on Amazon](https://www.wsj.com/business/autos/hyundai-to-be-first-automaker-to-sell-new-cars-on-amazon-42861c39)
+- [Show HN: Tiny LLMs – Browser-based private AI models for a wide array of tasks](https://tinyllms.vercel.app/dashboard)
+- [Why thinking hard makes us feel tired](https://www.nature.com/articles/d41586-022-02161-5)
+- [Planning for Unplanned Work in Linear](https://linear.app/blog/planning-for-unplanned-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
