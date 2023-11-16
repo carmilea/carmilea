@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why thinking hard makes us feel tired](https://www.nature.com/articles/d41586-022-02161-5)
-- [Planning for Unplanned Work in Linear](https://linear.app/blog/planning-for-unplanned-work)
-- [Moving from AWS to Bare-Metal saved us 230k$ /yr](https://blog.oneuptime.com/moving-from-aws-to-bare-metal/)
-- [Federated finetuning of Whisper on Raspberry Pi 5](https://flower.dev/blog/2023-11-15-federated-finetuning-of-openai-whisper-with-flower/)
-- [Hackers know everything is securities fraud](https://www.bloomberg.com/opinion/articles/2023-11-16/hackers-know-everything-is-securities-fraud)
+- [Microsoft support &#39;cracks&#39; Windows for customer after activation fails](https://www.bleepingcomputer.com/news/security/microsoft-support-cracks-windows-for-customer-after-activation-fails/)
+- [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
+- [Show HN: I made a really silly personal landing page](https://davidadler.pages.dev/)
+- [OCapN, Interoperable Capabilities over the Network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)
+- [Hyundai to Be First Automaker to Sell New Cars on Amazon](https://www.wsj.com/business/autos/hyundai-to-be-first-automaker-to-sell-new-cars-on-amazon-42861c39)
 <!-- BLOG-POST-LIST:END -->
 
 ---
