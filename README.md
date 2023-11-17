@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ashby &lpar;YC W19&rpar; Is Hiring a Remote SRE to Help Us Scale](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=443ded5b-4baf-4bdc-8081-1666b4cb7ee3)
-- [With trillions at play, Pentagon fails audit for sixth year in a row](https://breakingdefense.com/2023/11/with-trillions-at-play-pentagon-fails-audit-for-sixth-year-in-a-row/)
-- [In Two Moves, AlphaGo and Lee Sedol Redefined the Future &lpar;2016&rpar;](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/)
-- [Putting the &quot;J&quot; in the RPG, Part 1: Dorakue](https://www.filfre.net/2023/11/putting-the-j-in-the-rpg-part-1-dorakue/)
-- [A game about staring into the eyes of a stranger](https://stranger.video/)
+- [Swedish dockworkers are refusing to unload Teslas at ports in broad boycott move](https://text.npr.org/1213157550)
+- [Starship lunar lander missions to require nearly 20 launches, NASA says](https://spacenews.com/starship-lunar-lander-missions-to-require-nearly-20-launches-nasa-says/)
+- [It&#39;s true – your devices are listening to you](https://mastodon.social/@Privacymatters/111422828004357808)
+- [Apostrophe Protection Society](https://www.apostrophe.org.uk)
+- [Rocket v0.5: Stable, Async, Feature-Packed](https://rocket.rs/v0.5/news/2023-11-17-version-0.5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
