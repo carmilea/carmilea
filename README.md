@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unauthorized &quot;David Attenborough&quot; AI clone narrates developer&#39;s life, goes viral](https://arstechnica.com/information-technology/2023/11/unauthorized-david-attenborough-ai-clone-narrates-developers-life-goes-viral/)
+- [Google News is shutting down purchased magazine content, offering refunds](https://arstechnica.com/gadgets/2023/11/google-news-will-stop-hosting-already-purchased-magazines-next-month/)
 - [Chrome Users Beware: Manifest V3 Is Deceitful and Threatening – EFF](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
 - [The Lack of Compensation in Open Source Software Is Unsustainable](https://trstringer.com/oss-compensation-broken/)
 - [Emacs-ng: A project to integrate Deno and WebRender into Emacs](https://github.com/emacs-ng/emacs-ng)
-- [&#39;Energy independent&#39; Uruguay runs on 100% renewables for four straight months](https://theprogressplaybook.com/2023/10/19/energy-independent-uruguay-runs-on-100-renewables-for-four-straight-months/)
-- [Google&#39;s Gemini model is delayed](https://www.theverge.com/2023/11/16/23964937/googles-next-generation-gemini-ai-model-is-reportedly-delayed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
