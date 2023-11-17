@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No Bing, no Edge, no upselling: De-crufted Windows 11 coming to Europe soon](https://arstechnica.com/gadgets/2023/11/europeans-can-soon-strip-bing-edge-other-microsoft-cruft-from-windows-11/)
+- [Google confirms they will disable uBlock Origin in Chrome in 2024](https://sh.reddit.com/r/uBlockOrigin/comments/17wu2gz/google_confirms_they_will_disable_ublock_origin/)
 - [Old Manifest V2 Chrome extensions will be disabled in 2024](https://9to5google.com/2023/11/16/chrome-extensions-disabled/)
 - [Portugal just ran on 100% renewables for six days in a row](https://www.canarymedia.com/articles/clean-energy/portugal-just-ran-on-100-renewables-for-six-days-in-a-row)
 - [The Tesla Semi from an Insider&#39;s View After One Year: &quot;Hot Mess&quot;](https://bradmunchen.substack.com/p/scoop-the-tesla-semi-from-an-insiders)
-- [Anomalous propagation and the sinking of the Russian warship Moskva](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0113.1/BAMS-D-23-0113.1.xml)
-- [Justice Dept Says Collusion Suit Against Apartment Owners Should Move Forward](https://www.wsj.com/us-news/law/justice-department-clears-the-way-for-collusion-suit-against-apartment-owners-e545f260)
 <!-- BLOG-POST-LIST:END -->
 
 ---
