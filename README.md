@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Half-Life 25th Anniversary Update](https://www.half-life.com/en/halflife25/)
 - [Swedish dockworkers are refusing to unload Teslas at ports in broad boycott move](https://text.npr.org/1213157550)
+- [Google&#39;s ChatGPT Competitor Will Have to Wait](https://gizmodo.com/google-s-chatgpt-competitor-will-have-to-wait-1851030761)
 - [Starship lunar lander missions to require nearly 20 launches, NASA says](https://spacenews.com/starship-lunar-lander-missions-to-require-nearly-20-launches-nasa-says/)
-- [It&#39;s true – your devices are listening to you](https://mastodon.social/@Privacymatters/111422828004357808)
 - [Apostrophe Protection Society](https://www.apostrophe.org.uk)
-- [Rocket v0.5: Stable, Async, Feature-Packed](https://rocket.rs/v0.5/news/2023-11-17-version-0.5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
