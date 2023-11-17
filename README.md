@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sunday Service Suspended at All NYPL Locations](https://www.nypl.org/about/service-impacts)
-- [Apple to pause advertising on X after Musk backs antisemitic post](https://www.axios.com/2023/11/17/apple-twitter-x-advertising-elon-musk-antisemitism-ads)
-- [The State of Silicon and the GPU Poors](https://www.latent.space/p/semianalysis)
-- [Google Photos Replacement](https://selfhosted.show/110?t=1198)
-- [A PCIe Coral TPU Finally Works on Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/pcie-coral-tpu-finally-works-on-raspberry-pi-5)
+- [UpCodes &lpar;YC S17&rpar; Is Hiring a Recruiter to Help Build Out Remote Team](https://up.codes/careers?utm_source=HN)
+- [OpenAI&#39;s board has fired Sam Altman](https://openai.com/blog/openai-announces-leadership-transition)
+- [The share of Americans who are mortgage-free is at an all-time high](https://www.bloomberg.com/news/articles/2023-11-17/amid-high-mortgage-rates-higher-share-of-americans-outright-own-homes)
+- [Sunday service suspended at all NYPL locations](https://www.nypl.org/about/service-impacts)
+- [Okta Security Breach: 134 Clients Impacted, Including Cloudflare and 1Password](https://www.cpomagazine.com/cyber-security/okta-security-breach-report-134-clients-impacted-including-cloudflare-and-1password/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
