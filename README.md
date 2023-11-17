@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The night train revolution has been hailed as an alternative to airplanes](https://www.cnn.com/travel/night-train-revolution-alternative-to-planes/index.html)
+- [The Changing &quot;Guarantees&quot; Given by Python&#39;s Global Interpreter Lock](https://stefan-marr.de/2023/11/python-global-interpreter-lock/)
 - [Almost No One Pays a 6% Real-Estate Commission–Except Americans](https://www.wsj.com/personal-finance/real-estate-buying-home-charts-6dc40caa)
 - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 - [YouTube Copyright ID Scammers Must Pay Artists $3.3M Restitution](https://torrentfreak.com/youtube-copyright-id-scammers-must-pay-artists-3-3m-restitution-231116/)
-- [Show HN: I made free resume enhancer with ChatGPT](https://chat.openai.com/g/g-iPOQIlHpk-resume-writer-enhance-your-resume-with-ai)
-- [Unauthorized &quot;David Attenborough&quot; AI clone narrates developer&#39;s life, goes viral](https://arstechnica.com/information-technology/2023/11/unauthorized-david-attenborough-ai-clone-narrates-developers-life-goes-viral/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
