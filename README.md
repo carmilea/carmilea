@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman tweet after being fired](https://twitter.com/sama/status/1725631621511184771)
+- [Show HN: nbi.ai – Generative Business Intelligence](https://www.narrative.bi/ai)
 - [UpCodes &lpar;YC S17&rpar; Is Hiring a Recruiter to Help Build Out Remote Team](https://up.codes/careers?utm_source=HN)
 - [OpenAI&#39;s board has fired Sam Altman](https://openai.com/blog/openai-announces-leadership-transition)
-- [The share of Americans who are mortgage-free is at an all-time high](https://www.bloomberg.com/news/articles/2023-11-17/amid-high-mortgage-rates-higher-share-of-americans-outright-own-homes)
-- [Sunday service suspended at all NYPL locations](https://www.nypl.org/about/service-impacts)
-- [Okta Security Breach: 134 Clients Impacted, Including Cloudflare and 1Password](https://www.cpomagazine.com/cyber-security/okta-security-breach-report-134-clients-impacted-including-cloudflare-and-1password/)
+- [The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster](https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
