@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
-- [Apple files legal challenge to EU&#39;s Digital Markets Act](https://www.reuters.com/legal/transactional/apple-files-legal-challenge-eus-digital-markets-act-2023-11-17/)
-- [Amazon will cut &#39;several hundred&#39; Alexa jobs as it ends unspecified initiatives](https://www.geekwire.com/2023/amazon-will-cut-several-hundred-more-jobs-on-alexa-team-as-it-discontinues-some-initiatives/)
-- [Amazon cuts &#39;several hundred&#39; jobs in Alexa division](https://www.cnbc.com/2023/11/17/amazon-cuts-several-hundred-jobs-in-alexa-division.html)
-- [Made in China 2025](https://en.wikipedia.org/wiki/Made_in_China_2025)
+- [Ashby &lpar;YC W19&rpar; Is Hiring a Remote SRE to Help Us Scale](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=443ded5b-4baf-4bdc-8081-1666b4cb7ee3)
+- [With trillions at play, Pentagon fails audit for sixth year in a row](https://breakingdefense.com/2023/11/with-trillions-at-play-pentagon-fails-audit-for-sixth-year-in-a-row/)
+- [In Two Moves, AlphaGo and Lee Sedol Redefined the Future &lpar;2016&rpar;](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/)
+- [Putting the &quot;J&quot; in the RPG, Part 1: Dorakue](https://www.filfre.net/2023/11/putting-the-j-in-the-rpg-part-1-dorakue/)
+- [A game about staring into the eyes of a stranger](https://stranger.video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
