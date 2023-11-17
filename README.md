@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Half-Life 25th Anniversary Update](https://www.half-life.com/en/halflife25/)
-- [Swedish dockworkers are refusing to unload Teslas at ports in broad boycott move](https://text.npr.org/1213157550)
-- [Google&#39;s ChatGPT Competitor Will Have to Wait](https://gizmodo.com/google-s-chatgpt-competitor-will-have-to-wait-1851030761)
-- [Starship lunar lander missions to require nearly 20 launches, NASA says](https://spacenews.com/starship-lunar-lander-missions-to-require-nearly-20-launches-nasa-says/)
-- [Apostrophe Protection Society](https://www.apostrophe.org.uk)
+- [Sunday Service Suspended at All NYPL Locations](https://www.nypl.org/about/service-impacts)
+- [Apple to pause advertising on X after Musk backs antisemitic post](https://www.axios.com/2023/11/17/apple-twitter-x-advertising-elon-musk-antisemitism-ads)
+- [The State of Silicon and the GPU Poors](https://www.latent.space/p/semianalysis)
+- [Google Photos Replacement](https://selfhosted.show/110?t=1198)
+- [A PCIe Coral TPU Finally Works on Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/pcie-coral-tpu-finally-works-on-raspberry-pi-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
