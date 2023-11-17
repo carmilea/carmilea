@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta&#39;s head of augmented reality software stepping down](https://www.reuters.com/technology/metas-head-augmented-reality-software-stepping-down-2023-11-17/)
+- [I wrote in June 2021 how Sam Altman&#39;s departure from YC had been under explored](https://twitter.com/EricNewcomer/status/1725633569056506282)
 - [Sam Altman tweet after being fired](https://twitter.com/sama/status/1725631621511184771)
 - [Show HN: nbi.ai – Generative Business Intelligence](https://www.narrative.bi/ai)
 - [UpCodes &lpar;YC S17&rpar; Is Hiring a Recruiter to Help Build Out Remote Team](https://up.codes/careers?utm_source=HN)
-- [OpenAI&#39;s board has fired Sam Altman](https://openai.com/blog/openai-announces-leadership-transition)
-- [The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster](https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
