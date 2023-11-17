@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FCC Is Trying to Stop Discrimination in Broadband Deployment. Telecoms Are Mad](https://www.techdirt.com/2023/11/17/the-fcc-is-trying-to-stop-discrimination-in-broadband-deployment-telecoms-and-republicans-are-big-mad-about-it/)
-- [The $1.5T Nuclear Weapons Program You&#39;ve Never Heard Of](https://www.scientificamerican.com/article/inside-the-1-5-trillion-nuclear-weapons-program-youve-never-heard-of/)
-- [The night train revolution has been hailed as an alternative to airplanes](https://www.cnn.com/travel/night-train-revolution-alternative-to-planes/index.html)
-- [The Changing &quot;Guarantees&quot; Given by Python&#39;s Global Interpreter Lock](https://stefan-marr.de/2023/11/python-global-interpreter-lock/)
-- [Almost No One Pays a 6% Real-Estate Commission–Except Americans](https://www.wsj.com/personal-finance/real-estate-buying-home-charts-6dc40caa)
+- [Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
+- [Apple files legal challenge to EU&#39;s Digital Markets Act](https://www.reuters.com/legal/transactional/apple-files-legal-challenge-eus-digital-markets-act-2023-11-17/)
+- [Amazon will cut &#39;several hundred&#39; Alexa jobs as it ends unspecified initiatives](https://www.geekwire.com/2023/amazon-will-cut-several-hundred-more-jobs-on-alexa-team-as-it-discontinues-some-initiatives/)
+- [Amazon cuts &#39;several hundred&#39; jobs in Alexa division](https://www.cnbc.com/2023/11/17/amazon-cuts-several-hundred-jobs-in-alexa-division.html)
+- [Made in China 2025](https://en.wikipedia.org/wiki/Made_in_China_2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
