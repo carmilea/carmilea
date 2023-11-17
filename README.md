@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Old Manifest V2 Chrome extensions will be disabled in 2024](https://9to5google.com/2023/11/16/chrome-extensions-disabled/)
 - [Portugal just ran on 100% renewables for six days in a row](https://www.canarymedia.com/articles/clean-energy/portugal-just-ran-on-100-renewables-for-six-days-in-a-row)
+- [The Tesla Semi from an Insider&#39;s View After One Year: &quot;Hot Mess&quot;](https://bradmunchen.substack.com/p/scoop-the-tesla-semi-from-an-insiders)
 - [Anomalous propagation and the sinking of the Russian warship Moskva](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0113.1/BAMS-D-23-0113.1.xml)
 - [Justice Dept Says Collusion Suit Against Apartment Owners Should Move Forward](https://www.wsj.com/us-news/law/justice-department-clears-the-way-for-collusion-suit-against-apartment-owners-e545f260)
-- [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
-- [OCapN, Interoperable Capabilities over the Network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
