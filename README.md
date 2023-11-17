@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How I optimized Portal to run on the Nintendo 64 [video]](https://www.youtube.com/watch?v=r4KGm7ixcqI)
+- [Gmail using too much RAM: 1-2GB per tab in Safari](https://discussions.apple.com/thread/253901216)
+- [I Analyzed StackOverflow for Secrets](https://matan-h.com/analyze-stackoverflow)
 - [De-crufted Windows 11 coming to Europe soon](https://arstechnica.com/gadgets/2023/11/europeans-can-soon-strip-bing-edge-other-microsoft-cruft-from-windows-11/)
 - [Arithmetic in Computer Hardware](https://thelast19digitsofpi.github.io/hardware-explorations/dist/index.html)
-- [Portugal just ran on 100% renewables for six days in a row](https://www.canarymedia.com/articles/clean-energy/portugal-just-ran-on-100-renewables-for-six-days-in-a-row)
-- [Anomalous propagation and the sinking of the Russian warship Moskva](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0113.1/BAMS-D-23-0113.1.xml)
-- [Pointer Pointer](https://pointerpointer.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
