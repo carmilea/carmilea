@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving Away from Substack](https://prakgupta.com/blog/moving_away_from_substack)
-- [I used AI to make an app to help me with my ADHD](https://github.com/timsayshey/cringe-clock/blob/main/README.md)
-- [No Bing, no Edge, no upselling: De-crufted Windows 11 coming to Europe soon](https://arstechnica.com/gadgets/2023/11/europeans-can-soon-strip-bing-edge-other-microsoft-cruft-from-windows-11/)
+- [De-crufted Windows 11 coming to Europe soon](https://arstechnica.com/gadgets/2023/11/europeans-can-soon-strip-bing-edge-other-microsoft-cruft-from-windows-11/)
 - [Arithmetic in Computer Hardware](https://thelast19digitsofpi.github.io/hardware-explorations/dist/index.html)
-- [YouTube Dream Track AI Music Experiment &lpar;clones pop stars voices&rpar;](https://blog.youtube/inside-youtube/ai-and-music-experiment/)
+- [Portugal just ran on 100% renewables for six days in a row](https://www.canarymedia.com/articles/clean-energy/portugal-just-ran-on-100-renewables-for-six-days-in-a-row)
+- [Anomalous propagation and the sinking of the Russian warship Moskva](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0113.1/BAMS-D-23-0113.1.xml)
+- [Pointer Pointer](https://pointerpointer.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
