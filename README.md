@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Portugal just ran on 100% renewables for six days in a row](https://www.canarymedia.com/articles/clean-energy/portugal-just-ran-on-100-renewables-for-six-days-in-a-row)
+- [Anomalous propagation and the sinking of the Russian warship Moskva](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0113.1/BAMS-D-23-0113.1.xml)
+- [Justice Dept Says Collusion Suit Against Apartment Owners Should Move Forward](https://www.wsj.com/us-news/law/justice-department-clears-the-way-for-collusion-suit-against-apartment-owners-e545f260)
 - [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
 - [OCapN, Interoperable Capabilities over the Network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)
-- [Show HN: Tiny LLMs – Browser-based private AI models for a wide array of tasks](https://tinyllms.vercel.app/dashboard)
-- [Why thinking hard makes us feel tired](https://www.nature.com/articles/d41586-022-02161-5)
-- [Planning for Unplanned Work in Linear](https://linear.app/blog/planning-for-unplanned-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
