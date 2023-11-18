@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe gave away it&#39;s Creative Suite 2 software 11 years ago](https://archive.org/details/Adobe-CS2)
-- [Masterpiece was hanging above an elderly French woman&#39;s hot plate](https://www.smithsonianmag.com/smart-news/forgotten-268-million-cimabue-painting-found-in-an-elderly-womans-home-heads-to-the-louvre-180983280/)
-- [Cryptographers Solve Decades-Old Privacy Problem](https://nautil.us/cryptographers-solve-decades-old-privacy-problem-444899/)
-- [Simple streetlight hack could protect astronomy from urban light pollution](https://www.space.com/astronomy-light-pollution-streetlight-hack)
-- [Screens Are Good, Actually](https://www.theverge.com/23965540/humane-ai-pin-screen-phone-ambient-computing)
+- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38321630)
+- [TV: Now What?](https://commonsware.com/blog/2023/11/18/tv-now-what.html)
+- [Google is embedding inaudible watermarks right into its AI generated music](https://www.theverge.com/2023/11/16/23963607/google-deepmind-synthid-audio-watermarks)
+- [Details emerge of surprise board coup that ousted CEO Sam Altman at OpenAI](https://arstechnica.com/information-technology/2023/11/report-sutskever-led-board-coup-at-openai-that-ousted-altman-over-ai-safety-concerns/)
+- [Show HN: Etcha – Infinite scale, serverless config management](https://etcha.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
