@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Three senior researchers have resigned from OpenAI](https://news.ycombinator.com/item?id=38316378)
-- [Show HN: Grigora.co – A Blogger&#39;s Answer to Secure, Simple Web Building](https://grigora.co)
-- [TrasHTTPandas – Trash Panda HTTP Responses](https://httpraccoons.com/)
-- [Board Members &lpar;2014&rpar;](https://blog.samaltman.com/board-members)
-- [Text adventure ported to social media](https://www.threads.net/@80snostalgia/post/CzpPPuxNgDj)
+- [GTK: Introducing Graphics Offload](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
+- [A homeless man built a life underground Hampstead Heath](https://www.theguardian.com/news/2020/mar/05/invisible-city-how-homeless-man-built-life-underground-bunker-hampstead-heath)
+- [Show HN: Open-source tool for creating courses like Duolingo](https://uneebee.com)
+- [Sam Altman&#39;s personal investments overlap with the charities](https://techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/)
+- [Eoops: An object-oriented programming system for Emacs-Lisp](https://dl.acm.org/doi/10.1145/147135.147248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
