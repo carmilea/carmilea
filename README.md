@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Religion of the Engineers; and Hayek Its True Prophet](https://crookedtimber.org/2023/11/13/the-religion-of-the-engineers-and-hayek-its-true-prophet/)
+- [Three senior researchers have resigned from OpenAI](https://news.ycombinator.com/item?id=38316378)
 - [Show HN: Grigora.co – A Blogger&#39;s Answer to Secure, Simple Web Building](https://grigora.co)
 - [TrasHTTPandas – Trash Panda HTTP Responses](https://httpraccoons.com/)
 - [Board Members &lpar;2014&rpar;](https://blog.samaltman.com/board-members)
