@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://deathbyai.gg)
+- [Ask HN: Should websites on desktop have a default font larger than 16px/1rem?](https://news.ycombinator.com/item?id=38318735)
 - [Emerge &lpar;YC W21&rpar; is hiring a Senior Front end Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+- [Why OpenAI Fired Sam Altman – and What Happens Next in the AI World](https://thealgorithmicbridge.substack.com/p/why-openai-fired-sam-altman-and-what)
 - [Show HN: ColBERT Build from Sentence Transformers](https://github.com/raphaelsty/neural-cherche)
-- [OpenVMS Account at DECUServe](https://eisner.decus.org/online/)
-- [Starship Integrated Flight Test 2 at 7 Am Central Time](https://twitter.com/i/flow/login?redirect_after_login=%2Fi%2Fbroadcasts%2F1dRKZEWQvrXxB)
-- [GTK: Introducing Graphics Offload](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
