@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happened to Sam Altman?](https://www.theverge.com/2023/11/17/23966446/what-happened-to-sam-altman-open-ai)
-- [Google plans to disable legacy V2 browser extensions next June](https://www.theregister.com/2023/11/18/google_kills_legacy_extensions/)
-- [SpaceX Loses Starship Spaceraft During Test Flight](https://www.bloomberg.com/news/articles/2023-11-18/spacex-loses-starship-spaceraft-during-test-flight)
-- [Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://deathbyai.gg)
-- [Emerge &lpar;YC W21&rpar; is hiring a Senior Front end Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+- [Adobe gave away it&#39;s Creative Suite 2 software 11 years ago](https://archive.org/details/Adobe-CS2)
+- [Masterpiece was hanging above an elderly French woman&#39;s hot plate](https://www.smithsonianmag.com/smart-news/forgotten-268-million-cimabue-painting-found-in-an-elderly-womans-home-heads-to-the-louvre-180983280/)
+- [Cryptographers Solve Decades-Old Privacy Problem](https://nautil.us/cryptographers-solve-decades-old-privacy-problem-444899/)
+- [Simple streetlight hack could protect astronomy from urban light pollution](https://www.space.com/astronomy-light-pollution-streetlight-hack)
+- [Screens Are Good, Actually](https://www.theverge.com/23965540/humane-ai-pin-screen-phone-ambient-computing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
