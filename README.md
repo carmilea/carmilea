@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Religion of the Engineers; and Hayek Its True Prophet](https://crookedtimber.org/2023/11/13/the-religion-of-the-engineers-and-hayek-its-true-prophet/)
+- [Show HN: Grigora.co – A Blogger&#39;s Answer to Secure, Simple Web Building](https://grigora.co)
 - [TrasHTTPandas – Trash Panda HTTP Responses](https://httpraccoons.com/)
 - [Board Members &lpar;2014&rpar;](https://blog.samaltman.com/board-members)
 - [Text adventure ported to social media](https://www.threads.net/@80snostalgia/post/CzpPPuxNgDj)
-- [Traitorous eight](https://en.wikipedia.org/wiki/Traitorous_eight)
-- [Sutskever: OpenAI board doing its mission to build AGI that benefits all](https://twitter.com/GaryMarcus/status/1725707548106580255)
 <!-- BLOG-POST-LIST:END -->
 
 ---
