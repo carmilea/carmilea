@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Surveillance Tech Write Press Releases for Cops; News Agencies Are Publishing It](https://www.techdirt.com/2023/11/17/surveillance-tech-companies-are-writing-press-releases-for-cops-worse-news-agencies-are-publishing-them/)
 - [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38321630)
+- [The Past and Future of Genomics](https://www.palladiummag.com/2023/11/17/genomics-has-revealed-an-age-undreamed-of/)
+- [Frigate: Open-source network video recorder with real-time AI object detection](https://frigate.video/)
 - [TV: Now What?](https://commonsware.com/blog/2023/11/18/tv-now-what.html)
-- [Google is embedding inaudible watermarks right into its AI generated music](https://www.theverge.com/2023/11/16/23963607/google-deepmind-synthid-audio-watermarks)
-- [Details emerge of surprise board coup that ousted CEO Sam Altman at OpenAI](https://arstechnica.com/information-technology/2023/11/report-sutskever-led-board-coup-at-openai-that-ousted-altman-over-ai-safety-concerns/)
-- [Show HN: Etcha – Infinite scale, serverless config management](https://etcha.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
