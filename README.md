@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why is OpenAI firing Sam Altman such a big deal?](https://news.ycombinator.com/item?id=38319543)
+- [What Happened to Sam Altman?](https://www.theverge.com/2023/11/17/23966446/what-happened-to-sam-altman-open-ai)
+- [Google plans to disable legacy V2 browser extensions next June](https://www.theregister.com/2023/11/18/google_kills_legacy_extensions/)
 - [SpaceX Loses Starship Spaceraft During Test Flight](https://www.bloomberg.com/news/articles/2023-11-18/spacex-loses-starship-spaceraft-during-test-flight)
 - [Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://deathbyai.gg)
-- [Ask HN: Should websites on desktop have a default font larger than 16px/1rem?](https://news.ycombinator.com/item?id=38318735)
 - [Emerge &lpar;YC W21&rpar; is hiring a Senior Front end Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
