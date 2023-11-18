@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge &lpar;YC W21&rpar; is hiring a Senior Front end Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+- [Show HN: ColBERT Build from Sentence Transformers](https://github.com/raphaelsty/neural-cherche)
 - [OpenVMS Account at DECUServe](https://eisner.decus.org/online/)
+- [Starship Integrated Flight Test 2 at 7 Am Central Time](https://twitter.com/i/flow/login?redirect_after_login=%2Fi%2Fbroadcasts%2F1dRKZEWQvrXxB)
 - [GTK: Introducing Graphics Offload](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
-- [A homeless man built a life underground Hampstead Heath](https://www.theguardian.com/news/2020/mar/05/invisible-city-how-homeless-man-built-life-underground-bunker-hampstead-heath)
-- [Show HN: Open-source tool for creating courses like Duolingo](https://uneebee.com)
-- [The nonprofits accelerating Sam Altman’s AI vision](https://techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
