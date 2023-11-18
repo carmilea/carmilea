@@ -59,7 +59,7 @@
 - [GTK: Introducing Graphics Offload](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
 - [A homeless man built a life underground Hampstead Heath](https://www.theguardian.com/news/2020/mar/05/invisible-city-how-homeless-man-built-life-underground-bunker-hampstead-heath)
 - [Show HN: Open-source tool for creating courses like Duolingo](https://uneebee.com)
-- [Sam Altman&#39;s personal investments overlap with the charities](https://techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/)
+- [The nonprofits accelerating Sam Altman’s AI vision](https://techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/)
 - [Eoops: An object-oriented programming system for Emacs-Lisp](https://dl.acm.org/doi/10.1145/147135.147248)
 <!-- BLOG-POST-LIST:END -->
 
