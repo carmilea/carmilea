@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ilya Sutskever &quot;at the center&quot; of Altman firing](https://twitter.com/karaswisher/status/1725702501435941294)
+- [&quot;Parental controls? What parental controls?&quot;](https://gabrielsieben.tech/2023/11/15/parental-controls-are-unusable-and-its-why-congress-is-stepping-in/)
+- [Ask HN: Are job referrals worthless now?](https://news.ycombinator.com/item?id=38313747)
 - [LMAX Disruptor – High Performance Inter-Thread Messaging Library](https://lmax-exchange.github.io/disruptor/)
 - [Yuzu Progress Report October 2023](https://yuzu-emu.org/entry/yuzu-progress-report-oct-2023/)
-- [Greg Brockman quits OpenAI](https://twitter.com/gdb/status/1725667410387378559?s=20)
-- [I Hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
-- [Who Is Mira Murati, OpenAI&#39;s New CEO?](https://www.wired.com/story/openai-new-ceo-who-is-mira-murati/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
