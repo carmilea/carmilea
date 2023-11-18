@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kara Swisher: there will be more departures of top folks at OpenAI tonight](https://twitter.com/karaswisher/status/1725678074333635028)
-- [Sam Altman was raising a VC fund when OpenAI fired him](https://www.semafor.com/article/11/17/2023/openai-board-fires-sam-altman)
+- [LMAX Disruptor – High Performance Inter-Thread Messaging Library](https://lmax-exchange.github.io/disruptor/)
 - [Yuzu Progress Report October 2023](https://yuzu-emu.org/entry/yuzu-progress-report-oct-2023/)
 - [Greg Brockman quits OpenAI](https://twitter.com/gdb/status/1725667410387378559?s=20)
-- [Your Board of Directors Is Probably Going to Fire You &lpar;2021&rpar;](https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html)
+- [I Hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
+- [Who Is Mira Murati, OpenAI&#39;s New CEO?](https://www.wired.com/story/openai-new-ceo-who-is-mira-murati/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
