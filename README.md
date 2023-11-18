@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TrasHTTPandas – Trash Panda HTTP Responses](https://httpraccoons.com/)
 - [Board Members &lpar;2014&rpar;](https://blog.samaltman.com/board-members)
-- [The Sudden Fall of Sam Altman](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-fallout/676046/)
 - [Text adventure ported to social media](https://www.threads.net/@80snostalgia/post/CzpPPuxNgDj)
 - [Traitorous eight](https://en.wikipedia.org/wiki/Traitorous_eight)
 - [Sutskever: OpenAI board doing its mission to build AGI that benefits all](https://twitter.com/GaryMarcus/status/1725707548106580255)
