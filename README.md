@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Board Members &lpar;2014&rpar;](https://blog.samaltman.com/board-members)
+- [The Sudden Fall of Sam Altman](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-fallout/676046/)
+- [Text adventure ported to social media](https://www.threads.net/@80snostalgia/post/CzpPPuxNgDj)
+- [Traitorous eight](https://en.wikipedia.org/wiki/Traitorous_eight)
 - [Sutskever: OpenAI board doing its mission to build AGI that benefits all](https://twitter.com/GaryMarcus/status/1725707548106580255)
-- [Ilya Sutskever &quot;at the center&quot; of Altman firing](https://twitter.com/karaswisher/status/1725702501435941294)
-- [&quot;Parental controls? What parental controls?&quot;](https://gabrielsieben.tech/2023/11/15/parental-controls-are-unusable-and-its-why-congress-is-stepping-in/)
-- [Ask HN: Are job referrals worthless now?](https://news.ycombinator.com/item?id=38313747)
-- [LMAX Disruptor – High Performance Inter-Thread Messaging Library](https://lmax-exchange.github.io/disruptor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
