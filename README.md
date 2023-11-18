@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Suddenly I Understand Software](https://johnwhiles.com/posts/programming-as-theory)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-- [Altman was raising billions from Middle East sovereign funds for AI chip startup](https://twitter.com/unusual_whales/status/1725945364140986796?s=20)
 - [Lockheed is now tracking phones and walkie-talkies from space](https://jackpoulson.substack.com/p/lockheed-is-now-tracking-phones-and)
 - [Mysterious &#39;Tasmanian devil&#39; space explosion baffles astronomers](https://www.nature.com/articles/d41586-023-03569-3)
-- [Nanoplastics Promote Conditions for Parkinson](https://corporate.dukehealth.org/news/nanoplastics-promote-conditions-parkinsons-across-various-lab-models)
+- [Nanoplastics promote conditions for Parkinson&#39;s across various lab models](https://corporate.dukehealth.org/news/nanoplastics-promote-conditions-parkinsons-across-various-lab-models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
