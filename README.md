@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Suddenly I Understand Software](https://johnwhiles.com/posts/programming-as-theory)
+- [OpenAI Investors Scramble to Reinstate Sam Altman as CEO](https://www.forbes.com/sites/alexkonrad/2023/11/18/openai-investors-scramble-to-reinstate-sam-altman-as-ceo/)
+- [OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
+- [A software epiphany](https://johnwhiles.com/posts/programming-as-theory)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 - [Lockheed is now tracking phones and walkie-talkies from space](https://jackpoulson.substack.com/p/lockheed-is-now-tracking-phones-and)
-- [Mysterious &#39;Tasmanian devil&#39; space explosion baffles astronomers](https://www.nature.com/articles/d41586-023-03569-3)
-- [Nanoplastics promote conditions for Parkinson&#39;s across various lab models](https://corporate.dukehealth.org/news/nanoplastics-promote-conditions-parkinsons-across-various-lab-models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
