@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta&#39;s head of augmented reality software stepping down](https://www.reuters.com/technology/metas-head-augmented-reality-software-stepping-down-2023-11-17/)
-- [I wrote in June 2021 how Sam Altman&#39;s departure from YC had been under explored](https://twitter.com/EricNewcomer/status/1725633569056506282)
-- [Sam Altman tweet after being fired](https://twitter.com/sama/status/1725631621511184771)
-- [Show HN: nbi.ai – Generative Business Intelligence](https://www.narrative.bi/ai)
-- [UpCodes &lpar;YC S17&rpar; Is Hiring a Recruiter to Help Build Out Remote Team](https://up.codes/careers?utm_source=HN)
+- [Kara Swisher: there will be more departures of top folks at OpenAI tonight](https://twitter.com/karaswisher/status/1725678074333635028)
+- [Sam Altman was raising a VC fund when OpenAI fired him](https://www.semafor.com/article/11/17/2023/openai-board-fires-sam-altman)
+- [Yuzu Progress Report October 2023](https://yuzu-emu.org/entry/yuzu-progress-report-oct-2023/)
+- [Greg Brockman quits OpenAI](https://twitter.com/gdb/status/1725667410387378559?s=20)
+- [Your Board of Directors Is Probably Going to Fire You &lpar;2021&rpar;](https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
