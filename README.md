@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman is at OpenAI &lpar;with a guest pass&rpar;](https://twitter.com/sama/status/1726345564059832609)
+- [Bootstrapping Self Awareness in GPT-4: Towards Recursive Self Inquiry](https://thewaltersfile.substack.com/p/bootstrapping-self-awareness-in-gpt)
+- [US ex-President Jimmy Carter&#39;s wife Rosalynn dies aged 96](https://www.bbc.com/news/world-us-canada-67467831)
+- [Why I Tend Not to Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
+- [The Myth of RAM &lpar;2014&rpar;](https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html)
 - [Ninth Dedekind number found by two independent groups](https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/)
-- [Rosalynn Carter, first lady who championed mental health, dies at 96](https://www.washingtonpost.com/obituaries/2023/11/19/rosalynn-carter-first-lady-jimmy-carter-dies/)
-- [Rosalynn Carter has died](https://www.nbcnews.com/news/obituaries/rosalynn-carter-former-first-lady-dies-rcna62862)
-- [Why doesn&#39;t Windows have an &quot;expert mode&quot;? &lpar;2003&rpar;](https://devblogs.microsoft.com/oldnewthing/20030728-00/?p=43043)
 <!-- BLOG-POST-LIST:END -->
 
 ---
