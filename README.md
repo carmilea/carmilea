@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Songs of Syx: A city-builder with complex mechanics](https://store.steampowered.com/app/1162750/Songs_of_Syx/)
+- [Deep Learning Course](https://fleuret.org/dlc/)
+- [FSL: A License for the Bazaar, Not the Cathedral](https://lucumr.pocoo.org/2023/11/19/cathedral-and-bazaaar-licensing/)
 - [The Big TDD Misunderstanding](https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21?gi=61ce87d573e8)
 - [A Timeline of the OpenAI Board](https://loeber.substack.com/p/a-timeline-of-the-openai-board)
-- [HandBrake 1.7.0 – The open source video transcoder](https://forum.handbrake.fr/viewtopic.php?t=43311)
-- [Ousted OpenAI CEO Sam Altman reportedly planning new AI venture](https://www.sfchronicle.com/tech/article/openai-sam-altman-18501168.php)
-- [Redlining](https://selectfromwhereand.com/posts/redlining/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
