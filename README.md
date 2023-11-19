@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Songs of Syx: A city-builder with complex mechanics](https://store.steampowered.com/app/1162750/Songs_of_Syx/)
-- [Deep Learning Course](https://fleuret.org/dlc/)
-- [FSL: A License for the Bazaar, Not the Cathedral](https://lucumr.pocoo.org/2023/11/19/cathedral-and-bazaaar-licensing/)
-- [The Big TDD Misunderstanding](https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21?gi=61ce87d573e8)
-- [A Timeline of the OpenAI Board](https://loeber.substack.com/p/a-timeline-of-the-openai-board)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Kyutai AI research lab with a $330M budget that will make everything open source](https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/)
+- [Ask HN: Any comprehensive courses on Auth?](https://news.ycombinator.com/item?id=38331501)
+- [Why dumb ideas capture smart and successful people](https://www.robkhenderson.com/p/how-dumb-ideas-capture-smart-and)
+- [Using YouTube as Unlimited Cloud Storage? [video]](https://www.youtube.com/watch?v=_w6PCHutmb4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
