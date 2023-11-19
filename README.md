@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: I can&#39;t find a job. What do I do?](https://news.ycombinator.com/item?id=38333665)
+- [Cities: Skylines 2&#39;s troubled launch, and why simulation games are freaking hard](https://arstechnica.com/gaming/2023/11/the-sad-story-of-cities-skylines-2s-launch-and-how-the-game-hopes-to-get-better/)
+- [I cancelled my Replit subscription](https://journal.paoloamoroso.com/why-i-cancelled-my-replit-subscription)
 - [Help HN: Google has blocked our entire domain for harmful programs](https://news.ycombinator.com/item?id=38333127)
-- [Should I replace my 56k modem with a 28.8K Modem? &lpar;2001&rpar;](https://forums.anandtech.com/threads/should-i-replace-my-56k-modem-with-a-28-8k-modem.437516/)
-- [Victor Mono Typeface](https://rubjo.github.io/victor-mono/)
-- [Revenge Bedtime Procrastination](https://solvingprocrastination.com/revenge-bedtime-procrastination/)
-- [The architecture of today&#39;s LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
+- [It&#39;s time for a change: datetime.utcnow&lpar;&rpar; is now deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
 <!-- BLOG-POST-LIST:END -->
 
 ---
