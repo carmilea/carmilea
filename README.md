@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Big TDD Misunderstanding](https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21?gi=61ce87d573e8)
 - [A Timeline of the OpenAI Board](https://loeber.substack.com/p/a-timeline-of-the-openai-board)
 - [HandBrake 1.7.0 – The open source video transcoder](https://forum.handbrake.fr/viewtopic.php?t=43311)
 - [Ousted OpenAI CEO Sam Altman reportedly planning new AI venture](https://www.sfchronicle.com/tech/article/openai-sam-altman-18501168.php)
-- [ASCII-Gen, a CLI tool that converts images to ASCII art](https://github.com/thed24/ascii-gen)
 - [Redlining](https://selectfromwhereand.com/posts/redlining/)
 <!-- BLOG-POST-LIST:END -->
 
