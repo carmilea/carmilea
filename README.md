@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to identify ugly mass tourism places before you visit them?](https://twitter.com/faborio/status/1725631676309463137)
+- [Underage Workers Are Training AI](https://www.wired.com/story/artificial-intelligence-data-labeling-children/)
 - [Altman Sought Billions for AI Chip Venture Before OpenAI Ouster](https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster)
 - [Ex-IBM sales veteran sues for access to health benefits](https://www.theregister.com/2023/11/19/ibm_sales_veteran_healthcare_lawsuit/)
 - [StyleTTS2 – open-source Eleven Labs quality Text To Speech](https://github.com/yl4579/StyleTTS2)
-- [Fireside Chat with Ilya Sutskever and Jensen Huang](https://www.youtube.com/watch?v=GI4Tpi48DlA)
-- [WHO – Physical Activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
