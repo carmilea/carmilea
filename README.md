@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=38334647)
-- [Fear that AI could one day destroy humanity may have led to Sam Altman&#39;s ouster](https://www.businessinsider.com/ai-dangers-effective-altruism-sam-altman-openai-2023-11)
-- [French authorities label Vitamin D as endocrine disruptor](https://www.nutraingredients.com/Article/2023/11/17/french-authorities-label-vitamin-d-as-endocrine-disruptor)
-- [From airlines to ticket sellers, companies fight U.S. to keep junk fees](https://www.washingtonpost.com/business/2023/11/19/companies-lobbyists-fight-junk-fees/)
-- [Terraform Cloud Pricing Changes Sticker Shock](https://shavingtheyak.com/2023/10/28/hashicorps-terraform-cloud-rum-pricing-sticker-shock/)
+- [Altman Sought Billions for AI Chip Venture Before OpenAI Ouster](https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster)
+- [Ex-IBM sales veteran sues for access to health benefits](https://www.theregister.com/2023/11/19/ibm_sales_veteran_healthcare_lawsuit/)
+- [StyleTTS2 – open-source Eleven Labs quality Text To Speech](https://github.com/yl4579/StyleTTS2)
+- [Fireside Chat with Ilya Sutskever and Jensen Huang](https://www.youtube.com/watch?v=GI4Tpi48DlA)
+- [WHO – Physical Activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
