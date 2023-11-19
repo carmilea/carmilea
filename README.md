@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [More advertisers halt spending on X in growing backlash against Musk](https://www.spokesman.com/stories/2023/nov/18/more-advertisers-halt-spending-on-x-in-growing-bac/)
+- [Update on the OpenAI drama: Altman and the board had till 5pm to reach a truce](https://twitter.com/alexeheath/status/1726055095341875545)
 - [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
 - [Source code to infocom&#39;s text adventure engines released &lpar;zcode interpreters&rpar;](https://github.com/erkyrath/infocom-zcode-terps)
-- [OpenAI board in discussions with Sam Altman to return as CEO](https://www.forbes.com/sites/alexkonrad/2023/11/18/openai-investors-scramble-to-reinstate-sam-altman-as-ceo/)
+- [OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
 - [An asteroid will occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
 <!-- BLOG-POST-LIST:END -->
 
