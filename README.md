@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bootstrapping Self Awareness in GPT-4: Towards Recursive Self Inquiry](https://thewaltersfile.substack.com/p/bootstrapping-self-awareness-in-gpt)
-- [US ex-President Jimmy Carter&#39;s wife Rosalynn dies aged 96](https://www.bbc.com/news/world-us-canada-67467831)
-- [Why I Tend Not to Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
+- [Windows Refund Day – When Linux users demanded their money back &lpar;2019&rpar; [video]](https://www.youtube.com/watch?v=1j9j-Ywjmbk)
+- [Practical Tips for Finetuning LLMs Using LoRA &lpar;Low-Rank Adaptation&rpar;](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
+- [Bootstrapping self awareness in GPT-4: Towards recursive self inquiry](https://thewaltersfile.substack.com/p/bootstrapping-self-awareness-in-gpt)
+- [Why I tend not to use content negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
 - [The Myth of RAM &lpar;2014&rpar;](https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html)
-- [Ninth Dedekind number found by two independent groups](https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
