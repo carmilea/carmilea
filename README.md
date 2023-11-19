@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Investors Scramble to Reinstate Sam Altman as CEO](https://www.forbes.com/sites/alexkonrad/2023/11/18/openai-investors-scramble-to-reinstate-sam-altman-as-ceo/)
-- [OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
-- [A software epiphany](https://johnwhiles.com/posts/programming-as-theory)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-- [Lockheed is now tracking phones and walkie-talkies from space](https://jackpoulson.substack.com/p/lockheed-is-now-tracking-phones-and)
+- [More advertisers halt spending on X in growing backlash against Musk](https://www.spokesman.com/stories/2023/nov/18/more-advertisers-halt-spending-on-x-in-growing-bac/)
+- [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
+- [Source code to infocom&#39;s text adventure engines released &lpar;zcode interpreters&rpar;](https://github.com/erkyrath/infocom-zcode-terps)
+- [OpenAI board in discussions with Sam Altman to return as CEO](https://www.forbes.com/sites/alexkonrad/2023/11/18/openai-investors-scramble-to-reinstate-sam-altman-as-ceo/)
+- [An asteroid will occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
