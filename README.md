@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [Kyutai AI research lab with a $330M budget that will make everything open source](https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/)
+- [Lindenmayer Systems](https://vsekar.me/blog/log_coffee/chapter_0.html)
+- [Comparing Humans, GPT-4, and GPT-4V on Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247)
 - [Ask HN: Any comprehensive courses on Auth?](https://news.ycombinator.com/item?id=38331501)
-- [Why dumb ideas capture smart and successful people](https://www.robkhenderson.com/p/how-dumb-ideas-capture-smart-and)
-- [Using YouTube as Unlimited Cloud Storage? [video]](https://www.youtube.com/watch?v=_w6PCHutmb4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
