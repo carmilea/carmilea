@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ASCII-Gen, a Rust CLI tool that converts images to ASCII art](https://github.com/thed24/ascii-gen)
+- [HandBrake 1.7.0 – The open source video transcoder](https://forum.handbrake.fr/viewtopic.php?t=43311)
+- [ASCII-Gen, a CLI tool that converts images to ASCII art](https://github.com/thed24/ascii-gen)
 - [Ask HN: How do you keep going without burning out?](https://news.ycombinator.com/item?id=38329657)
-- [Americans&#39; Trust in Scientists, Positive Views of Science Continue to Decline](https://www.pewresearch.org/science/2023/11/14/americans-trust-in-scientists-positive-views-of-science-continue-to-decline/)
-- [Facebook-parent Meta breaks up its Responsible AI team](https://www.cnbc.com/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html)
-- [HoneyPot – I Made a Text Field Only Bots Use – Heres What Happened](https://github.com/lee101/hidden-form-on-the-internet)
+- [Redlining](https://selectfromwhereand.com/posts/redlining/)
+- [Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
