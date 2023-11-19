@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sama: I love the OpenAI team so much](https://twitter.com/sama/status/1726099792600903681?s=20)
+- [Facebook-parent Meta breaks up its Responsible AI team](https://www.cnbc.com/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html)
+- [HoneyPot – I Made a Text Field Only Bots Use – Heres What Happened](https://github.com/lee101/hidden-form-on-the-internet)
+- [I cannot believe that my father&#39;s MD did not swab for staph before surgery](https://now.uiowa.edu/news/2013/06/be-gone-bacteria)
 - [Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)
-- [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
-- [Infocom-zcode-terps: Historical source code for Infocom&#39;s Z-machine interpreters](https://github.com/erkyrath/infocom-zcode-terps)
-- [AI Girlfriend Went Down After CEO Jailed for Setting His Apartment on Fire](https://themessenger.com/news/people-cant-access-their-ai-girlfriend-because-the-service-went-down-after-ceo-jailed-for-setting-his-apartment-on-fire)
-- [Why aren&#39;t motherboards mostly USB-C by now? &lpar;2021&rpar;](https://philip.greenspun.com/blog/2021/03/22/why-arent-motherboards-mostly-usb-c-by-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
