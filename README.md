@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Steven Spielberg Predicts &#39;Implosion&#39; of Film Industry &lpar;2013&rpar;](https://www.hollywoodreporter.com/news/general-news/steven-spielberg-predicts-implosion-film-567604/)
-- [How to identify ugly mass tourism places before you visit them?](https://twitter.com/faborio/status/1725631676309463137)
-- [Underage Workers Are Training AI](https://www.wired.com/story/artificial-intelligence-data-labeling-children/)
-- [Altman sought billions for AI chip venture before OpenAI ouster](https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster)
-- [Ex-IBM sales veteran sues for access to health benefits](https://www.theregister.com/2023/11/19/ibm_sales_veteran_healthcare_lawsuit/)
+- [Sam Altman is at OpenAI &lpar;with a guest pass&rpar;](https://twitter.com/sama/status/1726345564059832609)
+- [Ninth Dedekind number found by two independent groups](https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/)
+- [Rosalynn Carter, first lady who championed mental health, dies at 96](https://www.washingtonpost.com/obituaries/2023/11/19/rosalynn-carter-first-lady-jimmy-carter-dies/)
+- [Rosalynn Carter has died](https://www.nbcnews.com/news/obituaries/rosalynn-carter-former-first-lady-dies-rcna62862)
+- [Why doesn&#39;t Windows have an &quot;expert mode&quot;? &lpar;2003&rpar;](https://devblogs.microsoft.com/oldnewthing/20030728-00/?p=43043)
 <!-- BLOG-POST-LIST:END -->
 
 ---
