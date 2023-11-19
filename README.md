@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [More advertisers halt spending on X in growing backlash against Musk](https://www.spokesman.com/stories/2023/nov/18/more-advertisers-halt-spending-on-x-in-growing-bac/)
+- [Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)
 - [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
-- [Source code to infocom&#39;s text adventure engines released &lpar;zcode interpreters&rpar;](https://github.com/erkyrath/infocom-zcode-terps)
-- [OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
-- [An asteroid will occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
+- [Infocom-zcode-terps: Historical source code for Infocom&#39;s Z-machine interpreters](https://github.com/erkyrath/infocom-zcode-terps)
+- [AI Girlfriend Went Down After CEO Jailed for Setting His Apartment on Fire](https://themessenger.com/news/people-cant-access-their-ai-girlfriend-because-the-service-went-down-after-ceo-jailed-for-setting-his-apartment-on-fire)
+- [Why aren&#39;t motherboards mostly USB-C by now? &lpar;2021&rpar;](https://philip.greenspun.com/blog/2021/03/22/why-arent-motherboards-mostly-usb-c-by-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
