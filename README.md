@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Mira and Ilya – congratulations on your coup at OpenAI](https://twitter.com/varun_mathur/status/1725971418238849154)
+- [London Is Building Its Own Vegas Sphere](https://www.theb1m.com/video/london-is-building-its-own-vegas-sphere)
+- [GM Cruise CEO Resigns](https://www.cnbc.com/2023/11/20/gm-owned-robotaxi-unit-cruise-ceo-and-founder-kyle-vogt-resigns.html)
+- [How can you define a &#39;drug&#39;? Nobody knows](https://theconversation.com/how-can-you-define-a-drug-nobody-really-knows-216540)
 - [YouTube artificially slows down video load times when using Firefox](https://old.reddit.com/r/youtube/login/)
 - [Emmet Shear statement as Interim CEO of OpenAI](https://twitter.com/eshear/status/1726526112019382275?s=46&t=a8Pjw_2Gzth_zpOPBTHQaw)
-- [Z80 vs. 8088 Speed](https://groups.google.com/g/comp.os.cpm/c/OG4tTERPtto/m/yC5iUh79CQAJ)
-- [The Bluffers Guide to the Mythical Man Month](https://codemanship.wordpress.com/2023/11/20/the-bluffers-guide-to-the-mythical-man-month/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
