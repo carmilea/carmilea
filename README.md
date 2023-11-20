@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [River: A Fast, Robust Job Queue for Go and Postgres](https://brandur.org/river)
 - [OpenAI&#39;s chaos does not add up](https://builtnotfound.proseful.com/openais-chaos-does-not-add-up)
 - [Former Mozilla exec: Google has sabotaged Firefox for years &lpar;2019&rpar;](https://www.zdnet.com/article/former-mozilla-exec-google-has-sabotaged-firefox-for-years/)
 - [&quot;Et Tu, Ilya?&quot;](https://techarena.substack.com/p/et-tu-ilya)
-- [Microsoft Swallows OpenAI&#39;s Core Team – GPU Capacity, Incentives, IP](https://www.semianalysis.com/p/microsoft-swallows-openais-core-team)
-- [Microsoft Is Eating the World](https://aisupremacy.substack.com/p/microsoft-is-eating-the-world)
+- [We&#39;ve been fighting poverty all wrong](https://www.vox.com/future-perfect/23965898/child-poverty-expanded-child-tax-credit-economy-welfare-phase-ins)
 <!-- BLOG-POST-LIST:END -->
 
 ---
