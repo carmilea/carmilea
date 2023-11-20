@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Advertiser exodus expected to deeply impact X ad revenue, analysis indicates](https://techcrunch.com/2023/11/20/advertiser-exodus-expected-to-deeply-impact-x-ad-revenue-analysis-indicates/)
-- [Launch HN: Stralis &lpar;YC W23&rpar; – Hydrogen electric aircraft for medium-haul travel](https://news.ycombinator.com/item?id=38353473)
-- [LLMs cannot find reasoning errors, but can correct them](https://arxiv.org/abs/2311.08516)
-- [Venmo, Cash App users sue Apple over peer-to-peer payment fees](https://www.reuters.com/legal/transactional/venmo-cash-app-users-sue-apple-over-peer-to-peer-payment-fees-2023-11-20/)
-- [Sam Altman is still trying to return as OpenAI CEO](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft)
+- [Why TSA&#39;s Implementation of Facial Recognition Is More Dangerous Than You Think](https://epic.org/dont-take-it-at-face-value-why-tsas-implementation-of-facial-recognition-is-more-dangerous-than-you-think/)
+- [Typst – Compose Papers Faster](https://typst.app/)
+- [A guide to open-source LLM inference and performance](https://www.baseten.co/blog/llm-transformer-inference-guide/)
+- [European Telecom Body to Open-Source Radio Encryption System](https://www.bankinfosecurity.com/european-telecom-body-to-open-source-radio-encryption-system-a-23599)
+- [Misalignment and Deception by an autonomous stock trading LLM agent](https://arxiv.org/abs/2311.07590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
