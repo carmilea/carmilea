@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finley &lpar;YC W21&rpar; Is Hiring Capital Markets Team Members](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
+- [FreeBSD 14.0-Release](https://www.freebsd.org/releases/14.0R/announce/)
+- [Increasing QUIC and UDP Throughput over Tailscale](https://tailscale.com/blog/quic-udp-throughput/)
 - [Why TSA&#39;s Implementation of Facial Recognition Is More Dangerous Than You Think](https://epic.org/dont-take-it-at-face-value-why-tsas-implementation-of-facial-recognition-is-more-dangerous-than-you-think/)
 - [Typst – Compose Papers Faster](https://typst.app/)
-- [A guide to open-source LLM inference and performance](https://www.baseten.co/blog/llm-transformer-inference-guide/)
-- [European Telecom Body to Open-Source Radio Encryption System](https://www.bankinfosecurity.com/european-telecom-body-to-open-source-radio-encryption-system-a-23599)
-- [Misalignment and Deception by an autonomous stock trading LLM agent](https://arxiv.org/abs/2311.07590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
