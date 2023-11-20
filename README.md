@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft just hired Sam and Greg to lead a new advanced AI research team](https://www.axios.com/2023/11/20/microsoft-hires-sam-altman-and-greg-brockman-to-lead-new-ai-research-unit)
-- [Microsoft Hires Former OpenAI CEO Sam Altman](https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai)
+- [The Bluffers Guide to the Mythical Man Month](https://codemanship.wordpress.com/2023/11/20/the-bluffers-guide-to-the-mythical-man-month/)
+- [The Death Star and the Final Trench Run &lpar;2017&rpar;](http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html)
 - [Sam Altman, Greg Brockman and others to join Microsoft](https://twitter.com/satyanadella/status/1726509045803336122)
 - [RSS can be used to distribute all sorts of information](https://colinwalker.blog/blog/?date=2023-11-19)
-- [Emmett Shear becomes interim OpenAI CEO as Altman talks break down](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo)
+- [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
