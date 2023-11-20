@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside The Chaos at OpenAI](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/)
 - [Cosmopolitan v3.1](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)
 - [Friends don&#39;t let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends)
+- [The Domesday Duplicator](https://github.com/simoninns/DomesdayDuplicator/wiki)
 - [A Tour of the Tektronix Ceramic CRT &quot;Catacombs&quot;](https://vintagetek.org/tour-crt-catacombs/)
-- [Windows Refund Day – When Linux users demanded their money back &lpar;2019&rpar; [video]](https://www.youtube.com/watch?v=1j9j-Ywjmbk)
-- [Practical Tips for Finetuning LLMs Using LoRA &lpar;Low-Rank Adaptation&rpar;](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
