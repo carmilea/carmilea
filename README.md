@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL you could make xkcd-like plots with matplotlib](https://matplotlib.org/stable/gallery/showcase/xkcd.html)
 - [Emmett Shear becomes interim OpenAI CEO as Altman talks break down](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo)
+- [Setenv Is Not Thread Safe and C Doesn&#39;t Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
 - [Kyle Vogt resigns from Cruise](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/)
 - [Trap and test AWS SES emails locally](https://github.com/kamranahmedse/local-ses)
-- [Cosmopolitan v3.1](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)
-- [Friends don&#39;t let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends)
 <!-- BLOG-POST-LIST:END -->
 
 ---
