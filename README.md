@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Object Success&quot; now available](https://bertrandmeyer.com/2023/03/24/object-success-now-available/)
+- [Changing User-Agent to Google Chrome drastically improves YouTube load times](https://twitter.com/uwukko/status/1726625892620009501)
+- [Inhibition of ALDH2 by quercetin glucuronide to explain red wine headaches](https://www.nature.com/articles/s41598-023-46203-y)
 - [Finley &lpar;YC W21&rpar; Is Hiring Capital Markets Team Members](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
-- [FreeBSD 14.0-Release](https://www.freebsd.org/releases/14.0R/announce/)
-- [Increasing QUIC and UDP Throughput over Tailscale](https://tailscale.com/blog/quic-udp-throughput/)
-- [Why TSA&#39;s Implementation of Facial Recognition Is More Dangerous Than You Think](https://epic.org/dont-take-it-at-face-value-why-tsas-implementation-of-facial-recognition-is-more-dangerous-than-you-think/)
-- [Typst – Compose Papers Faster](https://typst.app/)
+- [FDA considers first CRISPR gene editing treatment that may cure sickle cell](https://www.cnn.com/2023/10/31/health/fda-considers-crispr-treatment-cure-sickle-cell/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
