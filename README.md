@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Today I resigned from my position as CEO of Cruise](https://twitter.com/kvogt/status/1726428099217400178)
+- [Cruise co-founder and CEO Kyle Vogt resigns](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/)
 - [Inside The Chaos at OpenAI](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/)
+- [The growing energy footprint of artificial intelligence &lpar;&quot;AI&quot;&rpar; [pdf]](https://www.cell.com/joule/pdf/S2542-4351%2823%2900365-3.pdf)
 - [Cosmopolitan v3.1](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)
-- [Friends don&#39;t let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends)
-- [The Domesday Duplicator](https://github.com/simoninns/DomesdayDuplicator/wiki)
-- [A Tour of the Tektronix Ceramic CRT &quot;Catacombs&quot;](https://vintagetek.org/tour-crt-catacombs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
