@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emmet Shear statement as Interim CEO of OpenAI](https://twitter.com/eshear/status/1726526112019382275?s=46&t=a8Pjw_2Gzth_zpOPBTHQaw)
+- [Microsoft: We remain committed to our partnership with OpenAI](https://twitter.com/satyanadella/status/1726509045803336122?s=41)
+- [Z80 vs. 8088 Speed](https://groups.google.com/g/comp.os.cpm/c/OG4tTERPtto/m/yC5iUh79CQAJ)
 - [The Bluffers Guide to the Mythical Man Month](https://codemanship.wordpress.com/2023/11/20/the-bluffers-guide-to-the-mythical-man-month/)
 - [The Death Star and the Final Trench Run &lpar;2017&rpar;](http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html)
-- [Sam Altman, Greg Brockman and others to join Microsoft](https://twitter.com/satyanadella/status/1726509045803336122)
-- [RSS can be used to distribute all sorts of information](https://colinwalker.blog/blog/?date=2023-11-19)
-- [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
