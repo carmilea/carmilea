@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Emmett Shear Becomes Interim OpenAI CEO as Altman Talks Break Down](https://www.theinformation.com/articles/breaking-sam-altman-will-not-return-as-ceo-of-openai)
-- [Ask HN: How many people on Hacker News live in rural areas?](https://news.ycombinator.com/item?id=38342297)
+- [Emmett Shear becomes interim OpenAI CEO as Altman talks break down](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo)
 - [Kyle Vogt resigns from Cruise](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/)
+- [Trap and test AWS SES emails locally](https://github.com/kamranahmedse/local-ses)
 - [Cosmopolitan v3.1](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)
 - [Friends don&#39;t let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends)
 <!-- BLOG-POST-LIST:END -->
