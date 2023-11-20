@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ilya Sutskever: I deeply regret my participation in the board&#39;s actions](https://twitter.com/ilyasut/status/1726590052392956028)
-- [Meta’s approach of ‘pay for your privacy’ is wrong](https://tuta.com/blog/meta-pay-for-privacy-illegal)
-- [London Is Building Its Own Vegas Sphere](https://www.theb1m.com/video/london-is-building-its-own-vegas-sphere)
-- [OpenAI&#39;s Misalignment and Microsoft&#39;s Gain](https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/)
-- [How can you define a &#39;drug&#39;? Nobody knows](https://theconversation.com/how-can-you-define-a-drug-nobody-really-knows-216540)
+- [Ilya Sutskever tweet: I deeply regret my participation in the board&#39;s actions](https://twitter.com/ilyasut/status/1726590052392956028?s=20)
+- [Argentina&#39;s New President Wants to Adopt the Dollar as the National Currency](https://www.wsj.com/world/americas/argentinas-new-president-wants-to-adopt-the-u-s-dollar-as-national-currency-86da3444)
+- [550 of 700 Employees OpenAI tell the board to resign](https://twitter.com/karaswisher/status/1726598360277356775)
+- [OpenAI staff threaten to quit unless board resigns](https://www.wired.com/story/openai-staff-walk-protest-sam-altman/)
+- [I deeply regret my participation in the board&#39;s actions](https://twitter.com/ilyasut/status/1726590052392956028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
