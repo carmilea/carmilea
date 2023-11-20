@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Did OpenAI&#39;s Dev Day Announcement Kill Vector-only Databases?](https://www.youtube.com/watch?v=XHibg_OXEPY)
 - [CBS Innovators &amp; Disruptors: Harnessing the Power of Real-Time AI](https://www.youtube.com/watch?v=6bQJAAS-CJ4)
 - [English is the new SQL with SingleStore&#39;s ChatGPT plugin](https://www.youtube.com/watch?v=rSzWlE5vDrQ)
 - [How We Made That App - Trailer](https://www.youtube.com/watch?v=1DXyukzuc64)
 - [SingleStore - Time is Now](https://www.youtube.com/watch?v=Qq2fCtzMbD8)
-- [SingleStore ChatGPT Dev Day @ AWS Bangalore](https://www.youtube.com/watch?v=BvEl-tjz60k)
 <!-- YOUTUBE:END -->
 
 
