@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [River: A Fast, Robust Job Queue for Go and Postgres](https://brandur.org/river)
-- [OpenAI&#39;s chaos does not add up](https://builtnotfound.proseful.com/openais-chaos-does-not-add-up)
-- [Former Mozilla exec: Google has sabotaged Firefox for years &lpar;2019&rpar;](https://www.zdnet.com/article/former-mozilla-exec-google-has-sabotaged-firefox-for-years/)
-- [&quot;Et Tu, Ilya?&quot;](https://techarena.substack.com/p/et-tu-ilya)
-- [We&#39;ve been fighting poverty all wrong](https://www.vox.com/future-perfect/23965898/child-poverty-expanded-child-tax-credit-economy-welfare-phase-ins)
+- [Freshpaint &lpar;YC S19&rpar; Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [Apple Plans to Equip MacBooks with In-House Cellular Modems](https://www.macrumors.com/2023/11/20/macbook-integrated-cellular-modem-2028/)
+- [Who Controls OpenAI?](https://www.bloomberg.com/opinion/articles/2023-11-20/who-controls-openai)
+- [GM&#39;s big bet on driverless cars turns sour](https://www.theverge.com/2023/11/20/23969039/gm-cruise-kyle-vogt-ceo-resign-driverless-bet)
+- [Airlines will make record $118B in extra fees with website dark patterns](https://www.fastcompany.com/90981005/airlines-fees-118-billion-dark-patterns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
