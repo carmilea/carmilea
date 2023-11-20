@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canada Inches Closer to &#39;Right to Repair&#39; Reform](https://www.techdirt.com/2023/11/20/canada-inches-closer-to-right-to-repair-reform/)
-- [Argentina&#39;s New President Wants to Adopt the Dollar as the National Currency](https://www.wsj.com/world/americas/argentinas-new-president-wants-to-adopt-the-u-s-dollar-as-national-currency-86da3444)
-- [550 of 700 Employees OpenAI tell the board to resign](https://twitter.com/karaswisher/status/1726598360277356775)
-- [OpenAI staff threaten to quit unless board resigns](https://www.wired.com/story/openai-staff-walk-protest-sam-altman/)
-- [I deeply regret my participation in the board&#39;s actions](https://twitter.com/ilyasut/status/1726590052392956028)
+- [OpenAI&#39;s chaos does not add up](https://builtnotfound.proseful.com/openais-chaos-does-not-add-up)
+- [Former Mozilla exec: Google has sabotaged Firefox for years &lpar;2019&rpar;](https://www.zdnet.com/article/former-mozilla-exec-google-has-sabotaged-firefox-for-years/)
+- [&quot;Et Tu, Ilya?&quot;](https://techarena.substack.com/p/et-tu-ilya)
+- [Microsoft Swallows OpenAI&#39;s Core Team – GPU Capacity, Incentives, IP](https://www.semianalysis.com/p/microsoft-swallows-openais-core-team)
+- [Microsoft Is Eating the World](https://aisupremacy.substack.com/p/microsoft-is-eating-the-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
