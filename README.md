@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tuning the Linux kernel with AI, according to ByteDance](https://www.zdnet.com/article/tuning-the-linux-kernel-with-ai-according-to-bytedance/)
-- [OpenAI: Facts from a Weekend](https://thezvi.wordpress.com/2023/11/20/openai-facts-from-a-weekend/)
-- [US Seeks More Than $4B from Binance to End Criminal Case](https://www.bloomberg.com/news/articles/2023-11-20/us-seeks-more-than-4-billion-from-binance-to-end-criminal-case)
-- [Ask HN: What&#39;s the state of the art for drawing math diagrams online?](https://news.ycombinator.com/item?id=38351370)
-- [Freshpaint &lpar;YC S19&rpar; Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [Advertiser exodus expected to deeply impact X ad revenue, analysis indicates](https://techcrunch.com/2023/11/20/advertiser-exodus-expected-to-deeply-impact-x-ad-revenue-analysis-indicates/)
+- [Launch HN: Stralis &lpar;YC W23&rpar; – Hydrogen electric aircraft for medium-haul travel](https://news.ycombinator.com/item?id=38353473)
+- [LLMs cannot find reasoning errors, but can correct them](https://arxiv.org/abs/2311.08516)
+- [Venmo, Cash App users sue Apple over peer-to-peer payment fees](https://www.reuters.com/legal/transactional/venmo-cash-app-users-sue-apple-over-peer-to-peer-payment-fees-2023-11-20/)
+- [Sam Altman is still trying to return as OpenAI CEO](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
