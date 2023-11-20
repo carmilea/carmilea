@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmopolitan v3.1](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)
+- [Friends don&#39;t let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends)
+- [A Tour of the Tektronix Ceramic CRT &quot;Catacombs&quot;](https://vintagetek.org/tour-crt-catacombs/)
 - [Windows Refund Day – When Linux users demanded their money back &lpar;2019&rpar; [video]](https://www.youtube.com/watch?v=1j9j-Ywjmbk)
 - [Practical Tips for Finetuning LLMs Using LoRA &lpar;Low-Rank Adaptation&rpar;](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
-- [Bootstrapping self awareness in GPT-4: Towards recursive self inquiry](https://thewaltersfile.substack.com/p/bootstrapping-self-awareness-in-gpt)
-- [Why I tend not to use content negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
-- [The Myth of RAM &lpar;2014&rpar;](https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
