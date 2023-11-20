@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ilya Sutskever: I deeply regret my participation in the board&#39;s actions](https://twitter.com/ilyasut/status/1726590052392956028)
+- [Meta’s approach of ‘pay for your privacy’ is wrong](https://tuta.com/blog/meta-pay-for-privacy-illegal)
 - [London Is Building Its Own Vegas Sphere](https://www.theb1m.com/video/london-is-building-its-own-vegas-sphere)
-- [GM Cruise CEO Resigns](https://www.cnbc.com/2023/11/20/gm-owned-robotaxi-unit-cruise-ceo-and-founder-kyle-vogt-resigns.html)
+- [OpenAI&#39;s Misalignment and Microsoft&#39;s Gain](https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/)
 - [How can you define a &#39;drug&#39;? Nobody knows](https://theconversation.com/how-can-you-define-a-drug-nobody-really-knows-216540)
-- [YouTube artificially slows down video load times when using Firefox](https://old.reddit.com/r/youtube/login/)
-- [Emmet Shear statement as Interim CEO of OpenAI](https://twitter.com/eshear/status/1726526112019382275?s=46&t=a8Pjw_2Gzth_zpOPBTHQaw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
