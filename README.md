@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tuning the Linux kernel with AI, according to ByteDance](https://www.zdnet.com/article/tuning-the-linux-kernel-with-ai-according-to-bytedance/)
+- [OpenAI: Facts from a Weekend](https://thezvi.wordpress.com/2023/11/20/openai-facts-from-a-weekend/)
+- [US Seeks More Than $4B from Binance to End Criminal Case](https://www.bloomberg.com/news/articles/2023-11-20/us-seeks-more-than-4-billion-from-binance-to-end-criminal-case)
+- [Ask HN: What&#39;s the state of the art for drawing math diagrams online?](https://news.ycombinator.com/item?id=38351370)
 - [Freshpaint &lpar;YC S19&rpar; Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [Apple Plans to Equip MacBooks with In-House Cellular Modems](https://www.macrumors.com/2023/11/20/macbook-integrated-cellular-modem-2028/)
-- [Who Controls OpenAI?](https://www.bloomberg.com/opinion/articles/2023-11-20/who-controls-openai)
-- [GM&#39;s big bet on driverless cars turns sour](https://www.theverge.com/2023/11/20/23969039/gm-cruise-kyle-vogt-ceo-resign-driverless-bet)
-- [Airlines will make record $118B in extra fees with website dark patterns](https://www.fastcompany.com/90981005/airlines-fees-118-billion-dark-patterns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
