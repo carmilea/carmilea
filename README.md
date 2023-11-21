@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Candela P-12 taking off – 100% electric hydrofoiling passenger vessel &lpar;YouTube&rpar; [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
-- [What questions can tech CEOs be asked, to guage their moral trustworthiness?](https://news.ycombinator.com/item?id=38364409)
-- [Kevin Scott &lpar;MSFT CTO&rpar; inviting all Open AI employees to join MSFT](https://twitter.com/kevin_scott/status/1726971608706031670)
-- [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
-- [&#39;AI&#39; Is Supercharging Our Broken Healthcare System&#39;s Worst Tendencies](https://www.techdirt.com/2023/11/21/ai-is-supercharging-our-broken-healthcare-systems-worst-tendencies/)
+- [Show HN: New visual language for teaching kids to code](https://pickcode.io)
+- [No evidence screen time is negative for child cognitive development, well-being](https://www.oii.ox.ac.uk/news-events/no-evidence-screen-time-is-negative-for-childrens-cognitive-development-and-well-being-oxford-study/)
+- [Google admits Spotify pays no Play Store fees because of a secret deal](https://techcrunch.com/2023/11/20/google-admits-spotify-pays-no-play-store-fees-because-of-a-secret-deal/)
+- [YouTube punishes ad-blocker users with slower videos on non-Chrome browsers](https://www.androidcentral.com/apps-software/youtube-loads-slower-on-firefox)
+- [Candela P-12 taking off – Electric hydrofoiling passenger vessel [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
