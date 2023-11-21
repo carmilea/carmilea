@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: New visual language for teaching kids to code](https://pickcode.io)
-- [No evidence screen time is negative for child cognitive development, well-being](https://www.oii.ox.ac.uk/news-events/no-evidence-screen-time-is-negative-for-childrens-cognitive-development-and-well-being-oxford-study/)
-- [Google admits Spotify pays no Play Store fees because of a secret deal](https://techcrunch.com/2023/11/20/google-admits-spotify-pays-no-play-store-fees-because-of-a-secret-deal/)
-- [YouTube punishes ad-blocker users with slower videos on non-Chrome browsers](https://www.androidcentral.com/apps-software/youtube-loads-slower-on-firefox)
-- [Candela P-12 taking off – Electric hydrofoiling passenger vessel [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
+- [Code Search at Google: The Story of Han-Wen and Zoekt](https://sourcegraph.com/blog/zoekt-creating-internal-tools-at-google)
+- [Patterns &lpar;YC S21&rpar; is hiring to automate analytics with LLMs](https://patterns.app/)
+- [Seven Signs of Ethical Collapse](https://www.scu.edu/ethics/focus-areas/business-ethics/resources/seven-signs-of-ethical-collapse/)
+- [Anthropic announces Claude 2.1 – 200k context, less refusals](https://www.anthropic.com/index/claude-2-1)
+- [OpenAI investors considering suing the board after CEO&#39;s abrupt firing](https://www.reuters.com/technology/openai-investors-considering-suing-board-after-ceos-abrupt-firing-sources-2023-11-20/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
