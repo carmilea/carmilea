@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI board faces growing revolt over Sam Altman&#39;s ousting](https://www.ft.com/content/54e36c93-08e5-4a9e-bda6-af673c3e9bb5)
-- [OpenAI approached Anthropic about merger](https://www.theinformation.com/articles/openai-approached-anthropic-about-merger)
-- [TinaCMS Is Now Open-Source](https://tina.io/blog/Tinacms-is-now-fully-open-source/)
-- [Tech-Company Is Building Photorealistic Models of Cities Around the World](https://www.theb1m.com/video/this-tech-company-is-building-photorealistic-models-of-cities-around-the-world)
+- [Microsoft was not a winner of the events of the last few days around OpenAI](https://twitter.com/eastdakota/status/1726735785188073726)
+- [How many jacaranda trees are there in Sydney?](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
+- [My Free Speech Means You Have to Shut Up](https://popehat.substack.com/p/my-free-speech-means-you-have-to)
 - [Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role](https://twitter.com/KateClarkTweets/status/1726732841730326862)
+- [British Library has been offline for three weeks](https://twitter.com/britishlibrary/status/1726618361398722754)
 <!-- BLOG-POST-LIST:END -->
 
 ---
