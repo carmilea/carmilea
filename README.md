@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [95% of OpenAI Employees &lpar;738/770&rpar; Threaten to Follow Sam Altman Out the Door](https://www.wired.com/story/95-percent-of-openai-employees-threaten-to-follow-sam-altman-out-the-door/)
-- [X Corp vs. Media Matters [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.txnd.383454/gov.uscourts.txnd.383454.1.0_1.pdf)
+- [OpenAI board faces growing revolt over Sam Altman&#39;s ousting](https://www.ft.com/content/54e36c93-08e5-4a9e-bda6-af673c3e9bb5)
+- [OpenAI approached Anthropic about merger](https://www.theinformation.com/articles/openai-approached-anthropic-about-merger)
+- [TinaCMS Is Now Open-Source](https://tina.io/blog/Tinacms-is-now-fully-open-source/)
+- [Tech-Company Is Building Photorealistic Models of Cities Around the World](https://www.theb1m.com/video/this-tech-company-is-building-photorealistic-models-of-cities-around-the-world)
 - [Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role](https://twitter.com/KateClarkTweets/status/1726732841730326862)
-- [Satya Nadella says OpenAI governance needs to change](https://www.cnbc.com/2023/11/20/microsoft-ceo-nadella-says-openai-governance-needs-to-change-no-matter-where-altman-ends-up.html)
-- [Cyberattack: British Library Has Been Offline for Three Weeks, No End in Sight](https://twitter.com/britishlibrary/status/1726618361398722754)
 <!-- BLOG-POST-LIST:END -->
 
 ---
