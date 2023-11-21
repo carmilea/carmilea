@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tyk AI Gateway – Robust AI Governance](https://tyk.io/blog/robust-ai-governance-is-critical-to-enterprise-adoption-and-implementation/)
+- [FBI director admits they rarely have Probable Cause for using NSA Collections](https://www.techdirt.com/2023/11/21/fbi-director-admits-agency-rarely-has-probable-cause-when-it-performs-backdoor-searches-of-nsa-collections/)
+- [Show HN: Neum AI – Open-source large-scale RAG framework](https://github.com/NeumTry/NeumAI)
 - [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
-- [Streamlining CI/CD Pipelines with Code: A Developer&#39;s Guide](https://blog.matiaspan.dev/posts/exploring-dagger-streamlining-ci-cd-pipelines-with-code/)
-- [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)
-- [Satya Nadella: &quot;We have all the rights and all the capability.&quot;](https://stackdiary.com/satya-nadella-we-have-all-the-rights-and-all-the-capability/)
-- [Binance Founder Changpeng Zhao Agrees to Step Down, Plead Guilty](https://www.wsj.com/finance/currencies/binance-ceo-changpeng-zhao-step-down-plead-guilty-01f72a40)
+- [An Attempted Taxonomy of Web Components](https://www.zachleat.com/web/a-taxonomy-of-web-component-types/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
