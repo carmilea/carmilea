@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Chrome will limit ad blockers starting June 2024](https://arstechnica.com/gadgets/2023/11/google-chrome-will-limit-ad-blockers-starting-june-2024/)
+- [OpenAI&#39;s CEO Shear left in the dark, planning to leave if evidence not provided](https://bloomberg.com/news/articles/2023-11-21/altman-openai-board-open-talks-to-negotiate-his-possible-return)
+- [Hadrius &lpar;YC W23&rpar; is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
+- [ChatGPT Voice for All Free Users Announced &lpar;By Greg Brockman&rpar;](https://twitter.com/gdb/status/1727067288740970877)
+- [Children, left behind by suburbia, need better community design](https://www.cnu.org/publicsquare/2023/11/13/children-left-behind-suburbia-need-better-community-design)
 - [I &lpar;kind of&rpar; killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
-- [OpenAI investors keep pushing for Sam Altman’s return](https://www.wsj.com/tech/openai-employees-threaten-to-quit-unless-board-resigns-bbd5cc86)
-- [FBI director admits they rarely have probable cause for using NSA collections](https://www.techdirt.com/2023/11/21/fbi-director-admits-agency-rarely-has-probable-cause-when-it-performs-backdoor-searches-of-nsa-collections/)
-- [Show HN: Neum AI – Open-source large-scale RAG framework](https://github.com/NeumTry/NeumAI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
