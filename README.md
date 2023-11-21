@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
+- [Streamlining CI/CD Pipelines with Code: A Developer&#39;s Guide](https://blog.matiaspan.dev/posts/exploring-dagger-streamlining-ci-cd-pipelines-with-code/)
 - [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)
 - [Satya Nadella: &quot;We have all the rights and all the capability.&quot;](https://stackdiary.com/satya-nadella-we-have-all-the-rights-and-all-the-capability/)
 - [Binance Founder Changpeng Zhao Agrees to Step Down, Plead Guilty](https://www.wsj.com/finance/currencies/binance-ceo-changpeng-zhao-step-down-plead-guilty-01f72a40)
-- [Code Search at Google: The Story of Han-Wen and Zoekt](https://sourcegraph.com/blog/zoekt-creating-internal-tools-at-google)
-- [Patterns &lpar;YC S21&rpar; is hiring to automate analytics with LLMs](https://patterns.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
