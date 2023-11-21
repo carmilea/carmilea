@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s New&lpar;ish&rpar; SW26010-Pro Supercomputer at SC23](https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/)
-- [RFC 9498 on the GNU Name System](https://www.rfc-editor.org/info/rfc9498)
-- [How to Escape North Korea](https://unherd.com/2023/11/how-to-escape-north-korea/)
-- [OpenAI&#39;s Board Approached Anthropic CEO About Top Job and Merger](https://slashdot.org/story/23/11/21/0458214/openais-board-approached-anthropic-ceo-about-top-job-and-merger)
-- [Earth likely briefly passed critical warming threshold on Friday and Saturday](https://www.axios.com/2023/11/20/earth-2c-warming-threshold-passed-report)
+- [My keyboard wasn&#39;t mechanical enough, so I upgraded to a rotary phone](https://twitter.com/aschmelyun/status/1726584677799272515)
+- [Find Legal Moves in Brass Birmingham with Datalog](https://blog.pzakrzewski.com/find-legal-moves-in-brass-birmingham-with-logic-programming)
+- [Show HN: Stella Nera – Maddness Hardware Accelerator](https://github.com/joennlae/halutmatmul)
+- [RFC 9498: The GNU Name System](https://www.gnunet.org/de/news/2023-11-RFC9498.html)
+- [.NET Blazor](https://dusted.codes/dotnet-blazor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
