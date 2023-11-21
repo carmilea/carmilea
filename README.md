@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)
+- [Satya Nadella: &quot;We have all the rights and all the capability.&quot;](https://stackdiary.com/satya-nadella-we-have-all-the-rights-and-all-the-capability/)
+- [Binance Founder Changpeng Zhao Agrees to Step Down, Plead Guilty](https://www.wsj.com/finance/currencies/binance-ceo-changpeng-zhao-step-down-plead-guilty-01f72a40)
 - [Code Search at Google: The Story of Han-Wen and Zoekt](https://sourcegraph.com/blog/zoekt-creating-internal-tools-at-google)
 - [Patterns &lpar;YC S21&rpar; is hiring to automate analytics with LLMs](https://patterns.app/)
-- [Seven Signs of Ethical Collapse](https://www.scu.edu/ethics/focus-areas/business-ethics/resources/seven-signs-of-ethical-collapse/)
-- [Anthropic announces Claude 2.1 – 200k context, less refusals](https://www.anthropic.com/index/claude-2-1)
-- [OpenAI investors considering suing the board after CEO&#39;s abrupt firing](https://www.reuters.com/technology/openai-investors-considering-suing-board-after-ceos-abrupt-firing-sources-2023-11-20/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
