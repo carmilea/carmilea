@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nothing&#39;s iMessage app was a security catastrophe, taken down in 24 hours](https://arstechnica.com/gadgets/2023/11/nothings-imessage-app-was-a-security-catastrophe-taken-down-in-24-hours/)
+- [11.8M CHF for clinical trials of novel arthritis repair](https://www.unibas.ch/en/University/Fundraising/Fundraising-News/12-Million-CHF-for-clinical-trials-of-novel-arthritis-repair.html)
 - [My keyboard wasn&#39;t mechanical enough, so I upgraded to a rotary phone](https://twitter.com/aschmelyun/status/1726584677799272515)
-- [Find Legal Moves in Brass Birmingham with Datalog](https://blog.pzakrzewski.com/find-legal-moves-in-brass-birmingham-with-logic-programming)
-- [Show HN: Stella Nera – Maddness Hardware Accelerator](https://github.com/joennlae/halutmatmul)
-- [RFC 9498: The GNU Name System](https://www.gnunet.org/de/news/2023-11-RFC9498.html)
-- [.NET Blazor](https://dusted.codes/dotnet-blazor)
+- [Northvolt develops state-of-the-art sodium-ion battery validated at 160 Wh/kg](https://northvolt.com/articles/northvolt-sodium-ion/)
+- [Kubernetes-Native Retro Game Streaming Written in Go](https://github.com/pod-arcade/pod-arcade)
 <!-- BLOG-POST-LIST:END -->
 
 ---
