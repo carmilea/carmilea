@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tyk AI Gateway – Robust AI Governance](https://tyk.io/blog/robust-ai-governance-is-critical-to-enterprise-adoption-and-implementation/)
-- [FBI director admits they rarely have Probable Cause for using NSA Collections](https://www.techdirt.com/2023/11/21/fbi-director-admits-agency-rarely-has-probable-cause-when-it-performs-backdoor-searches-of-nsa-collections/)
+- [Google Chrome will limit ad blockers starting June 2024](https://arstechnica.com/gadgets/2023/11/google-chrome-will-limit-ad-blockers-starting-june-2024/)
+- [I &lpar;kind of&rpar; killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
+- [OpenAI investors keep pushing for Sam Altman’s return](https://www.wsj.com/tech/openai-employees-threaten-to-quit-unless-board-resigns-bbd5cc86)
+- [FBI director admits they rarely have probable cause for using NSA collections](https://www.techdirt.com/2023/11/21/fbi-director-admits-agency-rarely-has-probable-cause-when-it-performs-backdoor-searches-of-nsa-collections/)
 - [Show HN: Neum AI – Open-source large-scale RAG framework](https://github.com/NeumTry/NeumAI)
-- [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
-- [An Attempted Taxonomy of Web Components](https://www.zachleat.com/web/a-taxonomy-of-web-component-types/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
