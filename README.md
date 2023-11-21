@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [China&#39;s New&lpar;ish&rpar; SW26010-Pro Supercomputer at SC23](https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/)
+- [RFC 9498 on the GNU Name System](https://www.rfc-editor.org/info/rfc9498)
+- [How to Escape North Korea](https://unherd.com/2023/11/how-to-escape-north-korea/)
+- [OpenAI&#39;s Board Approached Anthropic CEO About Top Job and Merger](https://slashdot.org/story/23/11/21/0458214/openais-board-approached-anthropic-ceo-about-top-job-and-merger)
 - [Earth likely briefly passed critical warming threshold on Friday and Saturday](https://www.axios.com/2023/11/20/earth-2c-warming-threshold-passed-report)
-- [New Amazon AI initiative includes scholarships, free AI courses](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)
-- [Self-Hosting Open Source LLMs: Cross Devices and Local Deployment of Mistral 7B](https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/)
-- [How many jacaranda trees are there in Sydney?](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
