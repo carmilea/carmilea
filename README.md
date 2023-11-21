@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI&#39;s board approached Anthropic CEO about top job and merger](https://www.reuters.com/technology/openais-board-approached-anthropic-ceo-about-top-job-merger-sources-2023-11-21/)
+- [Giant batteries drain economics of gas power plants](https://www.reuters.com/business/energy/giant-batteries-drain-economics-gas-power-plants-2023-11-21/)
+- [NY Federal Court: There&#39;s a Right to Record Police, Also Inside Station Lobbies](https://www.techdirt.com/2023/11/20/ny-federal-court-theres-a-right-to-record-police-officers-and-state-law-says-that-includes-inside-station-lobbies/)
+- [YouTube blames ad blockers for slow load times, not the browser](https://www.androidauthority.com/youtube-blames-ad-blockers-slow-load-times-3387523/)
+- [Easylkb: Easy Linux Kernel Builder](https://tmpout.sh/3/20.html)
 - [The Piccadilly line’s new air conditioned trains](https://www.ianvisits.co.uk/articles/cool-commutes-ahead-inside-look-at-londons-new-piccadilly-line-trains-undergo-testing-in-germany-67513/)
-- [Blogging is different from tweeting](https://markcarrigan.net/2023/05/22/how-blogging-is-different-from-tweeting/)
-- [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
-- [Nothing&#39;s iMessage app was a security catastrophe, taken down in 24 hours](https://arstechnica.com/gadgets/2023/11/nothings-imessage-app-was-a-security-catastrophe-taken-down-in-24-hours/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
