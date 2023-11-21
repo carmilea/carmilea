@@ -59,8 +59,8 @@
 - [New Amazon AI initiative includes scholarships, free AI courses](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)
 - [NYT interviews former OpenAI CEO Sam Altman &lpar;11/20/23&rpar;](https://www.nytimes.com/2023/11/20/podcasts/mayhem-at-openai-our-interview-with-sam-altman.html)
 - [The Next Power Plant Is on the Roof and in the Basement](https://www.newyorker.com/news/daily-comment/the-next-power-plant-is-on-the-roof-and-in-the-basement)
+- [Self-Hosting Open Source LLMs: Cross Devices and Local Deployment of Mistral 7B](https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/)
 - [How many jacaranda trees are there in Sydney?](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
-- [Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role](https://twitter.com/KateClarkTweets/status/1726732841730326862)
 <!-- BLOG-POST-LIST:END -->
 
 ---
