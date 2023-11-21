@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Object Success&quot; now available](https://bertrandmeyer.com/2023/03/24/object-success-now-available/)
-- [Changing User-Agent to Google Chrome drastically improves YouTube load times](https://twitter.com/uwukko/status/1726625892620009501)
-- [Inhibition of ALDH2 by quercetin glucuronide to explain red wine headaches](https://www.nature.com/articles/s41598-023-46203-y)
-- [Finley &lpar;YC W21&rpar; Is Hiring Capital Markets Team Members](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
-- [FDA considers first CRISPR gene editing treatment that may cure sickle cell](https://www.cnn.com/2023/10/31/health/fda-considers-crispr-treatment-cure-sickle-cell/index.html)
+- [95% of OpenAI Employees &lpar;738/770&rpar; Threaten to Follow Sam Altman Out the Door](https://www.wired.com/story/95-percent-of-openai-employees-threaten-to-follow-sam-altman-out-the-door/)
+- [X Corp vs. Media Matters [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.txnd.383454/gov.uscourts.txnd.383454.1.0_1.pdf)
+- [Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role](https://twitter.com/KateClarkTweets/status/1726732841730326862)
+- [Satya Nadella says OpenAI governance needs to change](https://www.cnbc.com/2023/11/20/microsoft-ceo-nadella-says-openai-governance-needs-to-change-no-matter-where-altman-ends-up.html)
+- [Cyberattack: British Library Has Been Offline for Three Weeks, No End in Sight](https://twitter.com/britishlibrary/status/1726618361398722754)
 <!-- BLOG-POST-LIST:END -->
 
 ---
