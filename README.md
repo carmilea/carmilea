@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Giant batteries drain economics of gas power plants](https://www.reuters.com/business/energy/giant-batteries-drain-economics-gas-power-plants-2023-11-21/)
-- [NY Federal Court: There&#39;s a Right to Record Police, Also Inside Station Lobbies](https://www.techdirt.com/2023/11/20/ny-federal-court-theres-a-right-to-record-police-officers-and-state-law-says-that-includes-inside-station-lobbies/)
-- [YouTube blames ad blockers for slow load times, not the browser](https://www.androidauthority.com/youtube-blames-ad-blockers-slow-load-times-3387523/)
-- [Easylkb: Easy Linux Kernel Builder](https://tmpout.sh/3/20.html)
-- [The Piccadilly line’s new air conditioned trains](https://www.ianvisits.co.uk/articles/cool-commutes-ahead-inside-look-at-londons-new-piccadilly-line-trains-undergo-testing-in-germany-67513/)
+- [Candela P-12 taking off – 100% electric hydrofoiling passenger vessel &lpar;YouTube&rpar; [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
+- [What questions can tech CEOs be asked, to guage their moral trustworthiness?](https://news.ycombinator.com/item?id=38364409)
+- [Kevin Scott &lpar;MSFT CTO&rpar; inviting all Open AI employees to join MSFT](https://twitter.com/kevin_scott/status/1726971608706031670)
+- [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
+- [&#39;AI&#39; Is Supercharging Our Broken Healthcare System&#39;s Worst Tendencies](https://www.techdirt.com/2023/11/21/ai-is-supercharging-our-broken-healthcare-systems-worst-tendencies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
