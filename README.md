@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft was not a winner of the events of the last few days around OpenAI](https://twitter.com/eastdakota/status/1726735785188073726)
-- [How many jacaranda trees are there in Sydney?](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
-- [My Free Speech Means You Have to Shut Up](https://popehat.substack.com/p/my-free-speech-means-you-have-to)
-- [Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role](https://twitter.com/KateClarkTweets/status/1726732841730326862)
-- [British Library has been offline for three weeks](https://twitter.com/britishlibrary/status/1726618361398722754)
+- [NYT interviews Sam Altman &lpar;11/20/23&rpar;](https://www.nytimes.com/2023/11/20/podcasts/mayhem-at-openai-our-interview-with-sam-altman.html)
+- [Framework Laptop prices go as low as $639 thanks to refurbs and factory seconds](https://arstechnica.com/gadgets/2023/11/framework-laptop-prices-go-as-low-as-639-thanks-to-refurbs-and-factory-seconds/)
+- [Sorry doubters, Starship had a remarkably successful flight](https://arstechnica.com/space/2023/11/heres-why-this-weekends-starship-launch-was-actually-a-huge-success/)
+- [Tesla Model 3 fault rate is the highest of any car: report](https://cleanenergyrevolution.co/2023/11/20/tesla-model-3-fault-rate-is-the-highest-of-any-car-report/)
+- [TX AG Pax­ton Opens Inves­ti­ga­tion into Media Mat­ters](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-opens-investigation-media-matters-potential-fraudulent-activity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
