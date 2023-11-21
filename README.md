@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI&#39;s CEO Shear left in the dark, planning to leave if evidence not provided](https://bloomberg.com/news/articles/2023-11-21/altman-openai-board-open-talks-to-negotiate-his-possible-return)
+- [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
+- [Genetic Algorithms for Evolution of QWOP Gaits](https://arxiv.org/abs/2311.09234)
+- [Claude 2.1 Refuses to kill a Python process](https://old.reddit.com/r/LocalLLaMA/comments/180p17f/new_claude_21_refuses_to_kill_a_python_process/)
+- [Sam Altman, OpenAI board open talks to negotiate his possible return](https://bloomberg.com/news/articles/2023-11-21/altman-openai-board-open-talks-to-negotiate-his-possible-return)
 - [Hadrius &lpar;YC W23&rpar; is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
-- [ChatGPT Voice for All Free Users Announced &lpar;By Greg Brockman&rpar;](https://twitter.com/gdb/status/1727067288740970877)
-- [Children, left behind by suburbia, need better community design](https://www.cnu.org/publicsquare/2023/11/13/children-left-behind-suburbia-need-better-community-design)
-- [I &lpar;kind of&rpar; killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
 <!-- BLOG-POST-LIST:END -->
 
 ---
