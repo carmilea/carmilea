@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta disbands Responsible AI team](https://www.computing.co.uk/news/4148616/meta-disbands-responsible-ai-team)
-- [How blogging is different from tweeting](https://markcarrigan.net/2023/05/22/how-blogging-is-different-from-tweeting/)
+- [OpenAI&#39;s board approached Anthropic CEO about top job and merger](https://www.reuters.com/technology/openais-board-approached-anthropic-ceo-about-top-job-merger-sources-2023-11-21/)
+- [The Piccadilly line’s new air conditioned trains](https://www.ianvisits.co.uk/articles/cool-commutes-ahead-inside-look-at-londons-new-piccadilly-line-trains-undergo-testing-in-germany-67513/)
+- [Blogging is different from tweeting](https://markcarrigan.net/2023/05/22/how-blogging-is-different-from-tweeting/)
 - [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
-- [Sam Altman Exposes the Charade of AI Accountability](https://www.bloomberg.com/opinion/articles/2023-11-20/openai-sam-altman-exposes-the-charade-of-ai-accountability)
 - [Nothing&#39;s iMessage app was a security catastrophe, taken down in 24 hours](https://arstechnica.com/gadgets/2023/11/nothings-imessage-app-was-a-security-catastrophe-taken-down-in-24-hours/)
 <!-- BLOG-POST-LIST:END -->
 
