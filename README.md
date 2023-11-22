@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rogue, and Other Roguelikes for Amiga](https://www.amigalove.com/viewtopic.php?t=2639)
-- [How do I become a graphics programmer? – A guide from AMD Game Engineering team](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/)
-- [McKinsey and its consulting industry peers face headwinds](https://www.bloomberg.com/news/features/2023-11-22/mckinsey-and-its-consulting-industry-peers-face-the-wildest-headwinds-in-years)
-- [Poor Charlie&#39;s Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://press.stripe.com/poor-charlies-almanack)
-- [Army ants use collective intelligence to build bridges](https://www.npr.org/2023/11/21/1214246291/army-ants-architecture-science-robots-research)
+- [Sam Altman&#39;s ouster was precipitated by letter to board about AI breakthrough](https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/)
+- [Tesla workers report explosions, concussions and robot injuries at Texas factory](https://www.theverge.com/2023/11/21/23971138/tesla-gigafactory-austin-texas-injury-reports-robot-claw-explosion)
+- [SpaceX plans to sell shares next month at $150B valuation](https://nypost.com/2023/11/22/business/spacex-plans-to-sell-shares-next-month-at-150b-valuation-sources/)
+- [Rogue, and other roguelikes for Amiga](https://www.amigalove.com/viewtopic.php?t=2639)
+- [How do I become a graphics programmer?](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
