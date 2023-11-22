@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI: The Battle of the Board](https://thezvi.substack.com/p/openai-the-battle-of-the-board)
-- [Researchers Develop a Flat Metalens That Can Change Its Focal Length](https://petapixel.com/2023/11/21/researchers-develop-a-flat-metalens-that-can-change-its-focal-length/)
-- [It&#39;s never been a better time to switch to Firefox](https://www.androidpolice.com/never-been-better-time-switch-firefox-browser/)
-- [Can of Soup &lpar;YC S23&rpar; is hiring an ML engineer](https://www.ycombinator.com/companies/can-of-soup/jobs/ehxSeWE-machine-learning-engineer)
-- [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
+- [No females on the new OpenAI board, no scientists, no ethicists](https://twitter.com/Martina_Crane/status/1727358309014081617)
+- [Fastest self-hostable open-source workflow engine](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
+- [Ford Is Killing the Explorer Hybrid Because Cops Are Buying All of Them](https://jalopnik.com/ford-is-killing-the-explorer-hybrid-because-cops-are-bu-1851039243)
+- [Gemini sued over $689M in customer withdrawals](https://nypost.com/2023/11/22/business/winklevoss-twins-crypto-firm-gemini-sued-over-689m-in-customer-withdrawals/)
+- [Big Pharma gave $9M to dark money groups to fight drug pricing reform](https://arstechnica.com/health/2023/11/big-pharma-gave-9m-to-dark-money-groups-to-fight-drug-pricing-reform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
