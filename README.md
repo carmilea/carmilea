@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What has changed in CPU cores in M3 chips?](https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/)
+- [Sony facing $7.9B mass lawsuit over Playstation Store prices](https://www.reuters.com/technology/sony-facing-79-bln-mass-lawsuit-over-playstation-store-prices-2023-11-21/)
+- [Writing and Linting Python at Scale](https://engineering.fb.com/2023/11/21/production-engineering/writing-linting-python-at-scale-meta/)
+- [Are Analytics Good?](https://www.todepond.com/wikiblogarden/social-media/analytics/)
 - [.NET 8&#39;s Best Blazor is not Blazor as we know it](https://servicestack.net/posts/net8-best-blazor)
-- [Ubuntu: ~20% More Performance Than Windows 11 on New AMD Zen 4 Threadripper](https://www.phoronix.com/review/threadripper-7995wx-windows-linux)
-- [Hemp cannabinoids may have evolved to deter insect pests](https://phys.org/news/2023-11-hemp-cannabinoids-evolved-deter-insect.html)
-- [U.S. Naval Institute Fleet Tracker](https://news.usni.org/category/fleet-tracker)
-- [Ultra Fast Bert](https://arxiv.org/abs/2311.10770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
