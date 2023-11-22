@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What has changed in CPU cores in M3 chips?](https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/)
-- [Sony facing $7.9B mass lawsuit over Playstation Store prices](https://www.reuters.com/technology/sony-facing-79-bln-mass-lawsuit-over-playstation-store-prices-2023-11-21/)
-- [Writing and Linting Python at Scale](https://engineering.fb.com/2023/11/21/production-engineering/writing-linting-python-at-scale-meta/)
-- [Are Analytics Good?](https://www.todepond.com/wikiblogarden/social-media/analytics/)
-- [.NET 8&#39;s Best Blazor is not Blazor as we know it](https://servicestack.net/posts/net8-best-blazor)
+- [ZFS 2.2.1: Block Cloning disabled due to data corruption](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.1)
+- [185,000 Individuals Impacted by MOVEit Hack at Car Parts Giant AutoZone](https://www.securityweek.com/185000-individuals-impacted-by-moveit-hack-at-car-parts-giant-autozone/)
+- [Minification Is Evil](https://www.todepond.com/wikiblogarden/better-computing/worse-computing/minification/)
+- [EP–133](https://teenage.engineering/products/ep-133)
+- [Email obfuscation: What still works in 2023?](https://spencermortensen.com/articles/email-obfuscation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
