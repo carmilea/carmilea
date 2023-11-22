@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Large pull requests slow down development](https://graphite.dev/blog/how-large-prs-slow-down-development)
+- [Before Altman’s ouster, OpenAI’s board was divided and feuding](https://www.nytimes.com/2023/11/21/technology/openai-altman-board-fight.html)
+- [In the gut&#39;s &#39;second brain,&#39; key agents of health emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
 - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
-- [Genetic Algorithms for Evolution of QWOP Gaits](https://arxiv.org/abs/2311.09234)
-- [Claude 2.1 Refuses to kill a Python process](https://old.reddit.com/r/LocalLLaMA/comments/180p17f/new_claude_21_refuses_to_kill_a_python_process/)
-- [Sam Altman, OpenAI board open talks to negotiate his possible return](https://bloomberg.com/news/articles/2023-11-21/altman-openai-board-open-talks-to-negotiate-his-possible-return)
-- [Hadrius &lpar;YC W23&rpar; is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
+- [I tested four NVMe SSDs from four vendors – half lose FLUSH&#39;d data on power loss](https://twitter.com/xenadu02/status/1495693475584557056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
