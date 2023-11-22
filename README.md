@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ridley Scott: Our Anglo-Saxon Maximus](https://unherd.com/2023/11/ridley-scott-our-anglo-saxon-maximus/)
 - [LM Studio – Discover, download, and run local LLMs](https://lmstudio.ai/)
-- [Show HN: Deepmark AI- LLM assessment tool for task-specific metrics on your data](https://github.com/IngestAI/deepmark)
+- [Just remove the Duck &lpar;2013&rpar;](https://rachelbythebay.com/w/2013/06/05/duck/)
+- [Ruby Tip – Interactive debugging without the need for gems](https://a-chacon.com/en/ruby/irb/tip/2023/11/20/ruby-tip-binding-irb.html)
 - [Running Windows 98 on the Browser](https://copy.sh/v86/?profile=windows98)
-- [Machine intelligence &lpar;2015&rpar;](https://blog.samaltman.com/machine-intelligence-part-1)
-- [TigerLab – Adversarial Testing for LLMs and Chatbots](https://www.tigerlab.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
