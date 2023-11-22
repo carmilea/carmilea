@@ -59,7 +59,7 @@
 - [LM Studio – Discover, download, and run local LLMs](https://lmstudio.ai/)
 - [Show HN: Deepmark AI- LLM assessment tool for task-specific metrics on your data](https://github.com/IngestAI/deepmark)
 - [Running Windows 98 on the Browser](https://copy.sh/v86/?profile=windows98)
-- [Sam Altman: Why You Should Fear Machine Intelligence &lpar;2015&rpar;](https://blog.samaltman.com/machine-intelligence-part-1)
+- [Machine intelligence &lpar;2015&rpar;](https://blog.samaltman.com/machine-intelligence-part-1)
 - [TigerLab – Adversarial Testing for LLMs and Chatbots](https://www.tigerlab.ai)
 <!-- BLOG-POST-LIST:END -->
 
