@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No females on the new OpenAI board, no scientists, no ethicists](https://twitter.com/Martina_Crane/status/1727358309014081617)
-- [Fastest self-hostable open-source workflow engine](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
-- [Ford Is Killing the Explorer Hybrid Because Cops Are Buying All of Them](https://jalopnik.com/ford-is-killing-the-explorer-hybrid-because-cops-are-bu-1851039243)
-- [Gemini sued over $689M in customer withdrawals](https://nypost.com/2023/11/22/business/winklevoss-twins-crypto-firm-gemini-sued-over-689m-in-customer-withdrawals/)
-- [Big Pharma gave $9M to dark money groups to fight drug pricing reform](https://arstechnica.com/health/2023/11/big-pharma-gave-9m-to-dark-money-groups-to-fight-drug-pricing-reform/)
+- [Fast self-hostable open-source workflow engine](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
+- [Microsoft&#39;s internal memo about the chaos at OpenAI](https://www.theverge.com/2023/11/22/23972572/microsoft-internal-memo-kevin-scott-openai)
+- [Researchers develop a flat metalens that can change its focal length](https://petapixel.com/2023/11/21/researchers-develop-a-flat-metalens-that-can-change-its-focal-length/)
+- [My experience trying to write human-sounding articles using Claude AI](https://idratherbewriting.com/blog/writing-full-length-articles-with-claude-ai)
+- [Can of Soup &lpar;YC S23&rpar; is hiring an ML engineer](https://www.ycombinator.com/companies/can-of-soup/jobs/ehxSeWE-machine-learning-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
