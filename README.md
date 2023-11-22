@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT4V Watches a Basketball Game](https://old.reddit.com/r/ChatGPT/comments/17ywjsv/have_a_live_conversation_about_a_basketball_game/)
-- [How Does a Cave Generator Work](https://www.boristhebrave.com/2023/11/19/how-does-cave-glade-generator-work/)
+- [How does Cave/Glade Generator Work](https://www.boristhebrave.com/2023/11/19/how-does-cave-glade-generator-work/)
 - [Bard Extensions](https://bard.google.com/extensions?hl=en)
 - [FTC authorizes compulsory process for AI-related products and services](https://www.ftc.gov/news-events/news/press-releases/2023/11/ftc-authorizes-compulsory-process-ai-related-products-services)
 - [Bacteria store memories and pass them on for generations](https://news.utexas.edu/2023/11/21/bacteria-store-memories-and-pass-them-on-for-generations/)
+- [Before Altman’s ouster, OpenAI’s board was divided and feuding](https://www.nytimes.com/2023/11/21/technology/openai-altman-board-fight.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
