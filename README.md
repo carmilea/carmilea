@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast self-hostable open-source workflow engine](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
-- [Microsoft&#39;s internal memo about the chaos at OpenAI](https://www.theverge.com/2023/11/22/23972572/microsoft-internal-memo-kevin-scott-openai)
-- [Researchers develop a flat metalens that can change its focal length](https://petapixel.com/2023/11/21/researchers-develop-a-flat-metalens-that-can-change-its-focal-length/)
-- [My experience trying to write human-sounding articles using Claude AI](https://idratherbewriting.com/blog/writing-full-length-articles-with-claude-ai)
-- [Can of Soup &lpar;YC S23&rpar; is hiring an ML engineer](https://www.ycombinator.com/companies/can-of-soup/jobs/ehxSeWE-machine-learning-engineer)
+- [McKinsey and its consulting industry peers face wild headwinds](https://www.bloomberg.com/news/features/2023-11-22/mckinsey-and-its-consulting-industry-peers-face-the-wildest-headwinds-in-years)
+- [Ask HN: Best Alternatives to OpenAI ChatGPT?](https://news.ycombinator.com/item?id=38384828)
+- [Poor Charlie&#39;s Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://press.stripe.com/poor-charlies-almanack)
+- [Is primary OS a dealbreaker for you &lpar;when taking a new job&rpar;?](https://news.ycombinator.com/item?id=38384334)
+- [For RoR, see in production every method call, parameter and return value](https://callstacking.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
