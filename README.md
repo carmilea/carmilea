@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ridley Scott: Our Anglo-Saxon Maximus](https://unherd.com/2023/11/ridley-scott-our-anglo-saxon-maximus/)
-- [LM Studio – Discover, download, and run local LLMs](https://lmstudio.ai/)
-- [Just remove the Duck &lpar;2013&rpar;](https://rachelbythebay.com/w/2013/06/05/duck/)
-- [Ruby Tip – Interactive debugging without the need for gems](https://a-chacon.com/en/ruby/irb/tip/2023/11/20/ruby-tip-binding-irb.html)
-- [Running Windows 98 on the Browser](https://copy.sh/v86/?profile=windows98)
+- [.NET 8&#39;s Best Blazor is not Blazor as we know it](https://servicestack.net/posts/net8-best-blazor)
+- [Ubuntu: ~20% More Performance Than Windows 11 on New AMD Zen 4 Threadripper](https://www.phoronix.com/review/threadripper-7995wx-windows-linux)
+- [Hemp cannabinoids may have evolved to deter insect pests](https://phys.org/news/2023-11-hemp-cannabinoids-evolved-deter-insect.html)
+- [U.S. Naval Institute Fleet Tracker](https://news.usni.org/category/fleet-tracker)
+- [Ultra Fast Bert](https://arxiv.org/abs/2311.10770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
