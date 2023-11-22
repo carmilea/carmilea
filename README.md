@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bard Extensions](https://bard.google.com/extensions?hl=en)
+- [FTC authorizes compulsory process for AI-related products and services](https://www.ftc.gov/news-events/news/press-releases/2023/11/ftc-authorizes-compulsory-process-ai-related-products-services)
 - [Large pull requests slow down development](https://graphite.dev/blog/how-large-prs-slow-down-development)
+- [Bacteria store memories and pass them on for generations](https://news.utexas.edu/2023/11/21/bacteria-store-memories-and-pass-them-on-for-generations/)
 - [Before Altman’s ouster, OpenAI’s board was divided and feuding](https://www.nytimes.com/2023/11/21/technology/openai-altman-board-fight.html)
-- [In the gut&#39;s &#39;second brain,&#39; key agents of health emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
-- [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
-- [I tested four NVMe SSDs from four vendors – half lose FLUSH&#39;d data on power loss](https://twitter.com/xenadu02/status/1495693475584557056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
