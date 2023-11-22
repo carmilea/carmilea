@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI industry turns against its favorite philosophy](https://www.semafor.com/article/11/21/2023/how-effective-altruism-led-to-a-crisis-at-openai)
+- [Inflection-2: the next step up](https://inflection.ai/inflection-2)
 - [ZFS 2.2.1: Block Cloning disabled due to data corruption](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.1)
 - [185,000 Individuals Impacted by MOVEit Hack at Car Parts Giant AutoZone](https://www.securityweek.com/185000-individuals-impacted-by-moveit-hack-at-car-parts-giant-autozone/)
-- [Minification Is Evil](https://www.todepond.com/wikiblogarden/better-computing/worse-computing/minification/)
-- [EP–133](https://teenage.engineering/products/ep-133)
-- [Email obfuscation: What still works in 2023?](https://spencermortensen.com/articles/email-obfuscation/)
+- [Fortran 2023 has been published](https://www.iso.org/standard/82170.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
