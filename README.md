@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI: The Battle of the Board](https://thezvi.substack.com/p/openai-the-battle-of-the-board)
+- [Researchers Develop a Flat Metalens That Can Change Its Focal Length](https://petapixel.com/2023/11/21/researchers-develop-a-flat-metalens-that-can-change-its-focal-length/)
+- [It&#39;s never been a better time to switch to Firefox](https://www.androidpolice.com/never-been-better-time-switch-firefox-browser/)
 - [Can of Soup &lpar;YC S23&rpar; is hiring an ML engineer](https://www.ycombinator.com/companies/can-of-soup/jobs/ehxSeWE-machine-learning-engineer)
-- [Reflecting on 18 Years at Google](https://ln.hixie.ch/)
-- [Inflection-2: the next step up](https://inflection.ai/inflection-2)
-- [GitHub Renamed Me &lpar;2014&rpar;](http://russbishop.net/github-renamed-me)
-- [ZFS 2.2.1: Block Cloning disabled due to data corruption](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.1)
+- [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
