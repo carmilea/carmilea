@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI industry turns against its favorite philosophy](https://www.semafor.com/article/11/21/2023/how-effective-altruism-led-to-a-crisis-at-openai)
+- [Can of Soup &lpar;YC S23&rpar; is hiring an ML engineer](https://www.ycombinator.com/companies/can-of-soup/jobs/ehxSeWE-machine-learning-engineer)
+- [Reflecting on 18 Years at Google](https://ln.hixie.ch/)
 - [Inflection-2: the next step up](https://inflection.ai/inflection-2)
+- [GitHub Renamed Me &lpar;2014&rpar;](http://russbishop.net/github-renamed-me)
 - [ZFS 2.2.1: Block Cloning disabled due to data corruption](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.1)
-- [185,000 Individuals Impacted by MOVEit Hack at Car Parts Giant AutoZone](https://www.securityweek.com/185000-individuals-impacted-by-moveit-hack-at-car-parts-giant-autozone/)
-- [Fortran 2023 has been published](https://www.iso.org/standard/82170.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
