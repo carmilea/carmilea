@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [McKinsey and its consulting industry peers face wild headwinds](https://www.bloomberg.com/news/features/2023-11-22/mckinsey-and-its-consulting-industry-peers-face-the-wildest-headwinds-in-years)
-- [Ask HN: Best Alternatives to OpenAI ChatGPT?](https://news.ycombinator.com/item?id=38384828)
+- [Rogue, and Other Roguelikes for Amiga](https://www.amigalove.com/viewtopic.php?t=2639)
+- [How do I become a graphics programmer? – A guide from AMD Game Engineering team](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/)
+- [McKinsey and its consulting industry peers face headwinds](https://www.bloomberg.com/news/features/2023-11-22/mckinsey-and-its-consulting-industry-peers-face-the-wildest-headwinds-in-years)
 - [Poor Charlie&#39;s Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://press.stripe.com/poor-charlies-almanack)
-- [Is primary OS a dealbreaker for you &lpar;when taking a new job&rpar;?](https://news.ycombinator.com/item?id=38384334)
-- [For RoR, see in production every method call, parameter and return value](https://callstacking.com/)
+- [Army ants use collective intelligence to build bridges](https://www.npr.org/2023/11/21/1214246291/army-ants-architecture-science-robots-research)
 <!-- BLOG-POST-LIST:END -->
 
 ---
