@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pioneer of Google&#39;s Data Centers Dies at 58](https://spectrum.ieee.org/in-memoriam-nov-2023)
+- [I discovered caching CDNs were throttling my everyday browsing](https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/)
+- [Large amounts of carbon capture as a solution is an &#39;illusion&#39;](https://electrek.co/2023/11/23/large-amounts-of-carbon-capture-as-a-solution-is-an-illusion-iea/)
+- [Rumours of SR-71 Blackbird Successor from Lockheed&#39;s Skunkworks](https://www.sandboxx.us/news/sr-72-hints-of-a-new-skunk-works-spy-plane-reignite-rumors-of-a-blackbird-successor/)
+- [Luiz André Barroso has died](https://spectrum.ieee.org/in-memoriam-nov-2023)
 - [Writing a Debugger from Scratch: Stacks](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6/)
-- [This Louisiana Town Runs Largely on Traffic Fines. The Mayor Is Your Judge.](https://www.propublica.org/article/fenton-louisiana-brought-in-1-million-through-mayors-court)
-- [Pierre de Fermat&#39;s Link to a High School Student&#39;s Prime Math Proof](https://www.quantamagazine.org/pierre-de-fermats-link-to-a-high-school-students-prime-math-proof-20231122/)
-- [Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
