@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Fediverses, One Network](https://pleromanonx86.wordpress.com/2023/11/22/two-fediverses-one-network/)
-- [Meta: Gaia - A Benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
+- [Don&#39;t Kill My App](https://dontkillmyapp.com/)
 - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+- [Why viXra not arXiv](https://vixra.org/why)
 - [Andrej Karpathy: Intro to Large Language Models [Video]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - [Auroratone, a psychedelic 1940s film that helped WWII vets overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
 <!-- BLOG-POST-LIST:END -->
