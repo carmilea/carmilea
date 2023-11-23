@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is AI safety simply the thought police?](https://news.ycombinator.com/item?id=38388400)
-- [Threat to humanity: The mystery letter that may have sparked the OpenAI chaos](https://www.smh.com.au/business/companies/threat-to-humanity-the-mystery-letter-that-may-have-sparked-the-openai-chaos-20231123-p5em8z.html)
-- [A.I. Belongs to the Capitalists Now](https://www.nytimes.com/2023/11/22/technology/openai-board-capitalists.html)
-- [Auroratone, a Psychedelic 1940s Film, That Helped WWII Vets Overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
+- [Auroratone, a psychedelic 1940s film that helped WWII vets overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
 - [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook/)
+- [A gentle introduction to two&#39;s complement](https://imapenguin.com/2023/11/a-gentle-introduction-to-twos-complement/)
+- [Test, [, and [[ &lpar;2020&rpar;](https://jmmv.dev/2020/03/test-bracket.html)
+- [The Power of Bidiagonal Matrices](https://nhigham.com/2023/11/22/the-power-of-bidiagonal-matrices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
