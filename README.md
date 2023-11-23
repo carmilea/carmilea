@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Retries – An interactive study of request retry methods](https://encore.dev/blog/retries)
-- [The Fallout from the Weirdness at OpenAI](https://www.economist.com/leaders/2023/11/22/the-fallout-from-the-weirdness-at-openai)
-- [Spotify will end service in Uruguay due to bill requiring fair pay for artists](https://mixmag.net/read/spotify-end-service-uruguay-copyright-law-change-artists-fair-pay-amendment-news)
-- [Promises Training: Practical Exercises on Promises in JavaScript](https://github.com/henriqueinonhe/promises-training)
-- [I discovered caching CDNs were throttling my everyday browsing](https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/)
+- [Git Branches: Intuition and Reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
+- [US govt pays AT&amp;T to let cops search Americans&#39; phone records without warrant](https://www.theregister.com/2023/11/22/wyden_hemisphere_letter/)
+- [Write libraries instead of services, where possible](https://catern.com/services.html)
+- [Despite just 5.8% sales, over 38% of bug reports come from the Linux community](https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)
+- [OpenSSL Announces Final Release of OpenSSL 3.2.0](https://www.openssl.org/blog/blog/2023/11/23/OpenSSL32/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
