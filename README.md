@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to &lpar;and how not to&rpar; design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs)
 - [I made a website that tells you which human foods are toxic for dogs](https://www.isittoxicformydog.com)
-- [Test, [, and [[](https://jmmv.dev/2020/03/test-bracket.html)
-- [Zoom Fatigue Is Real, According to Brain Scans](https://spectrum.ieee.org/zoom-fatigue)
-- [ChatGPT generates fake data set to support scientific hypothesis](https://www.nature.com/articles/d41586-023-03635-w)
+- [Smart Mattress CEO Reminds Everyone His Company Collects Customers&#39; Sleep Data](https://pxlnv.com/linklog/eight-sleep-ceo-tweet/)
+- [Auroratone, a Psychedelic 1940s Film, That Helped WWII Vets Overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
+- [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook/)
+- [Test, [, and [[ &lpar;2020&rpar;](https://jmmv.dev/2020/03/test-bracket.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
