@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Qt Creator 12 Released](https://www.qt.io/blog/qt-creator-12-released)
-- [C diff spores resist bleach and remain viable on surgical scrubs andgown fabrics](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001418)
-- [Enums in Rust – and why they feel better](https://www.shuttle.rs/blog/2023/11/23/enums-in-rust)
-- [Git Branches: Intuition and Reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
-- [US govt pays AT&amp;T to let cops search Americans&#39; phone records without warrant](https://www.theregister.com/2023/11/22/wyden_hemisphere_letter/)
+- [Pepper &lpar;YC S19&rpar; Is Hiring Founding Data Product Engineer](https://www.ycombinator.com/companies/pepper/jobs/HiLVjDL-founding-data-product-engineer)
+- [The Story of Titanium](https://www.construction-physics.com/p/the-story-of-titanium)
+- [Chrome pushes forward with plans to limit ad blockers in the future](https://www.malwarebytes.com/blog/news/2023/11/chrome-pushes-forward-with-plans-to-limit-ad-blockers-in-the-future)
+- [Developer account removed by Apple – $108,878 frozen](https://seraleev.notion.site/Our-developer-account-was-removed-by-Apple-and-they-haven-t-paid-out-108-878-b61192711c74487480373badc70d42c0)
+- [Dbrand Is Suing Casetify](https://twitter.com/dbrand/status/1727721586856222893)
 <!-- BLOG-POST-LIST:END -->
 
 ---
