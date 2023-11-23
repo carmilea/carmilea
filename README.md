@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After OpenAI&#39;s Blowup, It Seems Pretty Clear That &#39;AI Safety&#39; Isn&#39;t a Real Thing](https://gizmodo.com/ai-safety-openai-sam-altman-ouster-back-microsoft-1851038439)
+- [Bluetooth stack modifications to improve audio quality on headphones without AA](https://habr.com/en/articles/456476/)
+- [Shellcheck finds bugs in your shell scripts](https://www.shellcheck.net/)
+- [Snaps. Why? Please Stop](https://forums.linuxmint.com/viewtopic.php?t=288004)
+- [After OpenAI&#39;s blowup, it seems pretty clear that &#39;AI safety&#39; isn&#39;t a real thing](https://gizmodo.com/ai-safety-openai-sam-altman-ouster-back-microsoft-1851038439)
 - [Pepper &lpar;YC S19&rpar; Is Hiring Founding Data Product Engineer](https://www.ycombinator.com/companies/pepper/jobs/HiLVjDL-founding-data-product-engineer)
-- [Committing to Rust for Kernel Code](https://lwn.net/SubscriberLink/952029/412bfd44912e90b2/)
-- [The Story of Titanium](https://www.construction-physics.com/p/the-story-of-titanium)
-- [Chrome pushes forward with plans to limit ad blockers in the future](https://www.malwarebytes.com/blog/news/2023/11/chrome-pushes-forward-with-plans-to-limit-ad-blockers-in-the-future)
 <!-- BLOG-POST-LIST:END -->
 
 ---
