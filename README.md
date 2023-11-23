@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After OpenAI&#39;s Blowup, It Seems Pretty Clear That &#39;AI Safety&#39; Isn&#39;t a Real Thing](https://gizmodo.com/ai-safety-openai-sam-altman-ouster-back-microsoft-1851038439)
 - [Pepper &lpar;YC S19&rpar; Is Hiring Founding Data Product Engineer](https://www.ycombinator.com/companies/pepper/jobs/HiLVjDL-founding-data-product-engineer)
 - [Committing to Rust for Kernel Code](https://lwn.net/SubscriberLink/952029/412bfd44912e90b2/)
 - [The Story of Titanium](https://www.construction-physics.com/p/the-story-of-titanium)
 - [Chrome pushes forward with plans to limit ad blockers in the future](https://www.malwarebytes.com/blog/news/2023/11/chrome-pushes-forward-with-plans-to-limit-ad-blockers-in-the-future)
-- [Developer account removed by Apple – $108,878 frozen](https://seraleev.notion.site/Our-developer-account-was-removed-by-Apple-and-they-haven-t-paid-out-108-878-b61192711c74487480373badc70d42c0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
