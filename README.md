@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qt Creator 12 Released](https://www.qt.io/blog/qt-creator-12-released)
+- [C diff spores resist bleach and remain viable on surgical scrubs andgown fabrics](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001418)
+- [Enums in Rust – and why they feel better](https://www.shuttle.rs/blog/2023/11/23/enums-in-rust)
 - [Git Branches: Intuition and Reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
 - [US govt pays AT&amp;T to let cops search Americans&#39; phone records without warrant](https://www.theregister.com/2023/11/22/wyden_hemisphere_letter/)
-- [Write libraries instead of services, where possible](https://catern.com/services.html)
-- [Despite just 5.8% sales, over 38% of bug reports come from the Linux community](https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)
-- [OpenSSL Announces Final Release of OpenSSL 3.2.0](https://www.openssl.org/blog/blog/2023/11/23/OpenSSL32/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
