@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two Fediverses, One Network](https://pleromanonx86.wordpress.com/2023/11/22/two-fediverses-one-network/)
+- [Meta: Gaia - A Benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
+- [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+- [Andrej Karpathy: Intro to Large Language Models [Video]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - [Auroratone, a psychedelic 1940s film that helped WWII vets overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
-- [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook/)
-- [A gentle introduction to two&#39;s complement](https://imapenguin.com/2023/11/a-gentle-introduction-to-twos-complement/)
-- [Test, [, and [[ &lpar;2020&rpar;](https://jmmv.dev/2020/03/test-bracket.html)
-- [The Power of Bidiagonal Matrices](https://nhigham.com/2023/11/22/the-power-of-bidiagonal-matrices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
