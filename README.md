@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman&#39;s ouster was precipitated by letter to board about AI breakthrough](https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/)
-- [Tesla workers report explosions, concussions and robot injuries at Texas factory](https://www.theverge.com/2023/11/21/23971138/tesla-gigafactory-austin-texas-injury-reports-robot-claw-explosion)
-- [SpaceX plans to sell shares next month at $150B valuation](https://nypost.com/2023/11/22/business/spacex-plans-to-sell-shares-next-month-at-150b-valuation-sources/)
-- [Rogue, and other roguelikes for Amiga](https://www.amigalove.com/viewtopic.php?t=2639)
-- [How do I become a graphics programmer?](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/)
+- [How to &lpar;and how not to&rpar; design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs)
+- [I made a website that tells you which human foods are toxic for dogs](https://www.isittoxicformydog.com)
+- [Test, [, and [[](https://jmmv.dev/2020/03/test-bracket.html)
+- [Zoom Fatigue Is Real, According to Brain Scans](https://spectrum.ieee.org/zoom-fatigue)
+- [ChatGPT generates fake data set to support scientific hypothesis](https://www.nature.com/articles/d41586-023-03635-w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
