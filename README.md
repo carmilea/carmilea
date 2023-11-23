@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Community Contributions at GitLab](https://community.inc/deep-dives/contribution-gitlab)
+- [YouTube is now blocking Ad Blockers – So I just make ads run 16x faster](https://old.reddit.com/r/webdev/comments/181vbmk/youtube_is_now_blocking_ad_blockers_so_i_just/)
+- [The Eyes Have It, by Philip K. Dick &lpar;1953&rpar;](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
+- [The first Spanish AI model earning up to €10k per month](https://www.euronews.com/next/2023/11/22/meet-the-first-spanish-ai-model-earning-up-to-10000-per-month)
 - [Bluetooth stack modifications to improve audio quality on headphones without AA](https://habr.com/en/articles/456476/)
-- [Shellcheck finds bugs in your shell scripts](https://www.shellcheck.net/)
-- [Snaps. Why? Please Stop](https://forums.linuxmint.com/viewtopic.php?t=288004)
-- [After OpenAI&#39;s blowup, it seems pretty clear that &#39;AI safety&#39; isn&#39;t a real thing](https://gizmodo.com/ai-safety-openai-sam-altman-ouster-back-microsoft-1851038439)
-- [Pepper &lpar;YC S19&rpar; Is Hiring Founding Data Product Engineer](https://www.ycombinator.com/companies/pepper/jobs/HiLVjDL-founding-data-product-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
