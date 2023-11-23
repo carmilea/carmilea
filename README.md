@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify Will End Service in Uruguay Due to Bill Requiring Fair Pay for Artists](https://mixmag.net/read/spotify-end-service-uruguay-copyright-law-change-artists-fair-pay-amendment-news)
+- [Retries – An interactive study of request retry methods](https://encore.dev/blog/retries)
+- [The Fallout from the Weirdness at OpenAI](https://www.economist.com/leaders/2023/11/22/the-fallout-from-the-weirdness-at-openai)
+- [Spotify will end service in Uruguay due to bill requiring fair pay for artists](https://mixmag.net/read/spotify-end-service-uruguay-copyright-law-change-artists-fair-pay-amendment-news)
 - [Promises Training: Practical Exercises on Promises in JavaScript](https://github.com/henriqueinonhe/promises-training)
 - [I discovered caching CDNs were throttling my everyday browsing](https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/)
-- [Large amounts of carbon capture as a solution is an &#39;illusion&#39;](https://electrek.co/2023/11/23/large-amounts-of-carbon-capture-as-a-solution-is-an-illusion-iea/)
-- [Rumours of SR-71 Blackbird Successor from Lockheed&#39;s Skunkworks](https://www.sandboxx.us/news/sr-72-hints-of-a-new-skunk-works-spy-plane-reignite-rumors-of-a-blackbird-successor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
