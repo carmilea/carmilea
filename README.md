@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Spotify now inserts Ads to premium users as well](https://news.ycombinator.com/item?id=38400912)
+- [Odigos &lpar;YC W23&rpar; Is Hiring eBPF Engineer](https://www.ycombinator.com/companies/keyval/jobs/6pSjpry-ebpf-engineer)
+- [Flutter seems to be having bad times internally](https://twitter.com/timsneath/status/1727852099407622163)
+- [Bosque Programming Language](https://www.microsoft.com/en-us/research/project/bosque-programming-language/)
 - [Mid-old cells are a potential target for anti-aging interventions in the elderly](https://www.nature.com/articles/s41467-023-43491-w)
 - [State Dept prioritizes &#39;AI-ready workforce&#39; in its first AI strategy](https://federalnewsnetwork.com/artificial-intelligence/2023/11/state-dept-prioritizes-ai-ready-workforce-in-its-first-ai-strategy/)
-- [If somafm ever goes away I&#39;ll stop writing software](https://somafm.com/?thanksgivingwhat)
-- [The BPF-programmable network device](https://lwn.net/Articles/949960/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
