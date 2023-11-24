@@ -57,8 +57,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Grid operator to interfere in Finnish electricity market after bidding error](https://www.reuters.com/business/energy/bidding-error-sees-finnish-day-ahead-power-price-tumble-20340-eurosmwh-2023-11-23/)
+- [GIMP 3.0 finally has a release schedule](https://librearts.org/2023/11/gimp-3-0-roadmap/)
 - [Odigos &lpar;YC W23&rpar; Is Hiring eBPF Engineer](https://www.ycombinator.com/companies/keyval/jobs/6pSjpry-ebpf-engineer)
-- [Flutter seems to be having bad times internally](https://twitter.com/timsneath/status/1727852099407622163)
 - [&#39;Sunspot archipelago&#39; 15 times wider than Earth could soon bombard us](https://www.livescience.com/space/the-sun/enormous-sunspot-archipelago-15-times-wider-than-earth-could-soon-bombard-us-with-solar-flares)
 - [Bosque Programming Language](https://www.microsoft.com/en-us/research/project/bosque-programming-language/)
 <!-- BLOG-POST-LIST:END -->
