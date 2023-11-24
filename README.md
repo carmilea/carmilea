@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pokémon is no longer just a game – it&#39;s a lifestyle](https://www.theverge.com/23970890/pokemon-poketsume-transformation-games-brand)
+- [Shopify live dashboard](https://bfcm.shopify.com/)
+- [A curated list of AI assistants](https://github.com/awesome-assistants/awesome-assistants/blob/main/build/assistants.csv)
 - [Subtitle is now open-source](https://vedgupta.in/blog/subtitle-breaking-down-language-barriers-with-ai-powered-caption-generation)
-- [Ex-owners of sex work site Backpage convicted of prostitution scheme](https://www.theguardian.com/us-news/2023/nov/17/backpage-sex-work-prostitution-money-laundering)
-- [Live dashboard of Stripe systems during Black Friday](https://bfcm.stripe.dev/)
-- [I Am Sitting in a Room &lpar;1969&rpar;](https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room)
-- [User read the manual, followed instructions, still couldn&#39;t make &#39;Excel&#39; work](https://www.theregister.com/2023/11/24/on_call/)
+- [Stripe live dashboard](https://bfcm.stripe.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
