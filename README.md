@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Machine Learning](https://www.tensorflow.org/resources/learn-ml)
-- [Spinning Up in Deep RL by OpenAI](https://spinningup.openai.com/en/latest/)
+- [If somafm ever goes away I&#39;ll stop writing software](https://somafm.com/?thanksgivingwhat)
+- [Spinning Up in Deep RL &lpar;2018&rpar;](https://spinningup.openai.com/en/latest/)
 - [The BPF-programmable network device](https://lwn.net/Articles/949960/)
 - [Things you&#39;re allowed to do &lpar;2020&rpar;](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is hiring an Engineering Manager](https://news.ycombinator.com/item?id=38399650)
