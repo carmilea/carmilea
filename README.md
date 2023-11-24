@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Some observations on the final text of the European Digital Identity framework](https://blog.xot.nl/2023/11/20/some-observations-on-the-final-text-of-the-european-digital-identity-framework-eidas/index.html)
+- [Ask HN: How should I setup a phone for a newly blind relative?](https://news.ycombinator.com/item?id=38406156)
 - [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
 - [Yi-34B-Chat](https://huggingface.co/01-ai/Yi-34B-Chat)
 - [Texas officials warn of rolling blackouts to ease strain on power grid](https://www.dailymail.co.uk/news/article-12785185/Texas-officials-warn-rolling-blackouts-winter.html)
-- [PhD student bioengineers potato plant to detect gamma radiation](https://phys.org/news/2023-11-phd-student-bioengineers-potato-gamma.html)
-- [Disabling iOS Personalized Ads tells kernel to kill daemon every 3 seconds](https://twitter.com/whitetailani/status/1727576164284129654?s=20)
 <!-- BLOG-POST-LIST:END -->
 
 ---
