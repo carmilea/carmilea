@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Some observations on the final text of the European Digital Identity framework](https://blog.xot.nl/2023/11/20/some-observations-on-the-final-text-of-the-european-digital-identity-framework-eidas/index.html)
-- [Ask HN: How should I setup a phone for a newly blind relative?](https://news.ycombinator.com/item?id=38406156)
-- [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
-- [Yi-34B-Chat](https://huggingface.co/01-ai/Yi-34B-Chat)
-- [Texas officials warn of rolling blackouts to ease strain on power grid](https://www.dailymail.co.uk/news/article-12785185/Texas-officials-warn-rolling-blackouts-winter.html)
+- [Why Isn&#39;t Landfill Mining More Popular?](https://gizmodo.com/landfill-mining-metal-recovery-trash-recycling-ewaste-1850151569)
+- [Ubisoft blames &#39;technical error&#39; for showing pop-up ads in Assassin&#39;s Creed](https://www.theverge.com/2023/11/24/23974420/ubisoft-assassins-creed-odyssey-pop-up-ad-xbox-playstation-technical-error)
+- [Mail-in-a-Box: a mail server in a box](https://github.com/mail-in-a-box/mailinabox)
+- [Google Bard AI Now Has the Ability to Understand YouTube Videos](https://www.youtube.com/watch?v=Ck-0hKVT7Gg)
+- [Show HN: AI Generated SVG&#39;s](https://vectorart.ai/layout3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
