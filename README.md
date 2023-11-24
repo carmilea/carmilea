@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ex-owners of sex work site Backpage convicted of prostitution scheme](https://www.theguardian.com/us-news/2023/nov/17/backpage-sex-work-prostitution-money-laundering)
+- [I Am Sitting in a Room &lpar;1969&rpar;](https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room)
 - [User read the manual, followed instructions, still couldn&#39;t make &#39;Excel&#39; work](https://www.theregister.com/2023/11/24/on_call/)
 - [Langfuse &lpar;YC W23&rpar; is hiring a founding engineer to build LLM observability](https://www.workatastartup.com/jobs/62929)
 - [The Feds&#39; Vehicle &#39;Kill Switch&#39; Mandate Is a Gross Violation of Privacy](https://fee.org/articles/the-feds-vehicle-kill-switch-mandate-is-a-gross-and-dangerous-violation-of-privacy/)
-- [The Failed Commodification of Technical Work](https://ludic.mataroa.blog/blog/the-failed-commodification-of-technical-work/)
-- [PHP 8.3](https://www.php.net/releases/8.3/en.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
