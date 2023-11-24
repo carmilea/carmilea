@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla turns on 10k-node Nvidia H100 Cluster](https://www.techradar.com/pro/nvidia-is-powering-a-mega-tesla-supercomputer-powered-by-10000-h100-gpus)
-- [Almost half of Californians speak a non-English language at home](https://www.axios.com/local/san-francisco/2023/09/07/california-foreign-language-speakers)
+- [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
+- [Yi-34B-Chat](https://huggingface.co/01-ai/Yi-34B-Chat)
+- [Texas officials warn of rolling blackouts to ease strain on power grid](https://www.dailymail.co.uk/news/article-12785185/Texas-officials-warn-rolling-blackouts-winter.html)
+- [PhD student bioengineers potato plant to detect gamma radiation](https://phys.org/news/2023-11-phd-student-bioengineers-potato-gamma.html)
 - [Disabling iOS Personalized Ads tells kernel to kill daemon every 3 seconds](https://twitter.com/whitetailani/status/1727576164284129654?s=20)
-- [&quot;Useless Ruby sugar&quot;: Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
-- [Cats That Fetch Are an Evolutionary Mystery](https://www.theatlantic.com/science/archive/2023/11/cat-fetching-behavior/676078/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
