@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Minecraft rewritten from scratch in Kotlin, hypixel works](https://gitlab.bixilon.de/bixilon/minosoft)
+- [Kepler, Nvidia&#39;s Strong Start on 28 nm](https://chipsandcheese.com/2023/11/24/inside-kepler-nvidias-strong-start-on-28-nm/)
+- [Autonomous Excavator Constructs a Six-Metre-High Dry-Stone Wall](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html)
+- [Botlib: Telegram Bots in C by Antirez](https://github.com/antirez/botlib)
 - [Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game](https://www.perfectpitchpuzzle.com)
-- [Reality has a surprising amount of detail &lpar;2017&rpar;](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
-- [Show HN: A game to memorize scale degrees on the guitar fretboard](https://www.fretboardfly.com/FBG-201)
-- [Please ignore the deluge of complete nonsense about Q*](https://twitter.com/ylecun/status/1728126868342145481)
-- [Cicero: The first AI to play at a human level in Diplomacy &lpar;2022&rpar;](https://ai.meta.com/research/cicero/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
