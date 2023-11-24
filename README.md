@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reality has a surprising amount of detail &lpar;2017&rpar;](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
+- [Show HN: A game to memorize scale degrees on the guitar fretboard](https://www.fretboardfly.com/FBG-201)
+- [Netflix spent $55M on sci-fi series that will almost certainly never be released](https://filmstories.co.uk/news/conquest-netflix-spent-55m-on-a-sci-fi-series-that-will-almost-certainly-never-be-released/)
+- [Yann LeCun: Ignore the deluge of complete nonsense about Q*](https://twitter.com/ylecun/status/1728126868342145481)
 - [Cicero](https://ai.meta.com/research/cicero/)
-- [The Cannabis That People Are Using for Anxiety Is Probably Making It Worse](https://www.wsj.com/health/wellness/anxiety-medical-marijuana-treatment-4bfd2cc3)
-- [AI Doomers are worse than wrong – they&#39;re incompetent](https://www.infinitescroll.us/p/ai-doomers-are-worse-than-wrong-theyre)
-- [Fire TV now also displays full-screen video ads on its homescreen](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1700729070)
-- [Q* Hypothesis: Enhancing Reasoning, Rewards, and Synthetic Data](https://www.interconnects.ai/p/q-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
