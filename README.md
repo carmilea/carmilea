@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pokémon is no longer just a game – it&#39;s a lifestyle](https://www.theverge.com/23970890/pokemon-poketsume-transformation-games-brand)
-- [Shopify live dashboard](https://bfcm.shopify.com/)
-- [A curated list of AI assistants](https://github.com/awesome-assistants/awesome-assistants/blob/main/build/assistants.csv)
-- [Subtitle is now open-source](https://vedgupta.in/blog/subtitle-breaking-down-language-barriers-with-ai-powered-caption-generation)
-- [Stripe live dashboard](https://bfcm.stripe.dev/)
+- [Tesla turns on 10k-node Nvidia H100 Cluster](https://www.techradar.com/pro/nvidia-is-powering-a-mega-tesla-supercomputer-powered-by-10000-h100-gpus)
+- [Almost half of Californians speak a non-English language at home](https://www.axios.com/local/san-francisco/2023/09/07/california-foreign-language-speakers)
+- [Disabling iOS Personalized Ads tells kernel to kill daemon every 3 seconds](https://twitter.com/whitetailani/status/1727576164284129654?s=20)
+- [&quot;Useless Ruby sugar&quot;: Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
+- [Cats That Fetch Are an Evolutionary Mystery](https://www.theatlantic.com/science/archive/2023/11/cat-fetching-behavior/676078/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
