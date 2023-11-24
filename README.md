@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Spotify now inserts Ads to premium users as well](https://news.ycombinator.com/item?id=38400912)
+- [Mid-old cells are a potential target for anti-aging interventions in the elderly](https://www.nature.com/articles/s41467-023-43491-w)
+- [State Dept prioritizes &#39;AI-ready workforce&#39; in its first AI strategy](https://federalnewsnetwork.com/artificial-intelligence/2023/11/state-dept-prioritizes-ai-ready-workforce-in-its-first-ai-strategy/)
 - [If somafm ever goes away I&#39;ll stop writing software](https://somafm.com/?thanksgivingwhat)
-- [Spinning Up in Deep RL &lpar;2018&rpar;](https://spinningup.openai.com/en/latest/)
 - [The BPF-programmable network device](https://lwn.net/Articles/949960/)
-- [Things you&#39;re allowed to do &lpar;2020&rpar;](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is hiring an Engineering Manager](https://news.ycombinator.com/item?id=38399650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
