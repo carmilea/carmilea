@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is an Engineering Manager](https://news.ycombinator.com/item?id=38399650)
+- [Revival of Medley/Interlisp](https://www.theregister.com/2023/11/23/medley_interlisp_revival/)
+- [What do Apple, Meta, TikTok have in common? Fighting Europe&#39;s antitrust rules](https://www.theregister.com/2023/11/17/apple_ec_dma/)
 - [Experimental tree-based writing interface for GPT-3](https://github.com/socketteer/loom)
-- [Hot fire: Ariane 6 ready to rumble](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Hot_fire_Ariane_6_ready_to_rumble)
-- [Community Contribution at GitLab](https://community.inc/deep-dives/contribution-gitlab)
-- [YouTube is now blocking Ad Blockers – So I just make ads run 16x faster](https://old.reddit.com/r/webdev/comments/181vbmk/youtube_is_now_blocking_ad_blockers_so_i_just/)
-- [The Eyes Have It, by Philip K. Dick &lpar;1953&rpar;](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
+- [PostgreSQL on S390x](https://www.cybertec-postgresql.com/en/postgresql-on-s390x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
