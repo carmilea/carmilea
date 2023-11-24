@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [User read the manual, followed instructions, still couldn&#39;t make &#39;Excel&#39; work](https://www.theregister.com/2023/11/24/on_call/)
+- [Langfuse &lpar;YC W23&rpar; is hiring a founding engineer to build LLM observability](https://www.workatastartup.com/jobs/62929)
 - [The Feds&#39; Vehicle &#39;Kill Switch&#39; Mandate Is a Gross Violation of Privacy](https://fee.org/articles/the-feds-vehicle-kill-switch-mandate-is-a-gross-and-dangerous-violation-of-privacy/)
-- [DDG founder says Google&#39;s phone, manufacturing partnerships thwart competition](https://apnews.com/article/google-antitrust-trial-search-engine-duckduckgo-b3d81d41a5cbf8d7c2cef824663f1f8a)
-- [Training for one trillion parameter model backed by Intel and US govt has begun](https://www.techradar.com/pro/the-gpt-to-rule-them-all-training-for-one-trillion-parameter-model-backed-by-intel-and-us-government-has-just-begun)
-- [GIMP 3.0 finally has a release schedule](https://librearts.org/2023/11/gimp-3-0-roadmap/)
-- [AI system self-organises to develop features of brains of complex organisms](https://www.cam.ac.uk/research/news/ai-system-self-organises-to-develop-features-of-brains-of-complex-organisms)
+- [The Failed Commodification of Technical Work](https://ludic.mataroa.blog/blog/the-failed-commodification-of-technical-work/)
+- [PHP 8.3](https://www.php.net/releases/8.3/en.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
