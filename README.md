@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game](https://www.perfectpitchpuzzle.com)
 - [Reality has a surprising amount of detail &lpar;2017&rpar;](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 - [Show HN: A game to memorize scale degrees on the guitar fretboard](https://www.fretboardfly.com/FBG-201)
-- [Netflix spent $55M on sci-fi series that will almost certainly never be released](https://filmstories.co.uk/news/conquest-netflix-spent-55m-on-a-sci-fi-series-that-will-almost-certainly-never-be-released/)
-- [Yann LeCun: Ignore the deluge of complete nonsense about Q*](https://twitter.com/ylecun/status/1728126868342145481)
-- [Cicero](https://ai.meta.com/research/cicero/)
+- [Please ignore the deluge of complete nonsense about Q*](https://twitter.com/ylecun/status/1728126868342145481)
+- [Cicero: The first AI to play at a human level in Diplomacy &lpar;2022&rpar;](https://ai.meta.com/research/cicero/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
