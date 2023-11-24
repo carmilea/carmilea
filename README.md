@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grid operator to interfere in Finnish electricity market after bidding error](https://www.reuters.com/business/energy/bidding-error-sees-finnish-day-ahead-power-price-tumble-20340-eurosmwh-2023-11-23/)
 - [Odigos &lpar;YC W23&rpar; Is Hiring eBPF Engineer](https://www.ycombinator.com/companies/keyval/jobs/6pSjpry-ebpf-engineer)
 - [Flutter seems to be having bad times internally](https://twitter.com/timsneath/status/1727852099407622163)
+- [&#39;Sunspot archipelago&#39; 15 times wider than Earth could soon bombard us](https://www.livescience.com/space/the-sun/enormous-sunspot-archipelago-15-times-wider-than-earth-could-soon-bombard-us-with-solar-flares)
 - [Bosque Programming Language](https://www.microsoft.com/en-us/research/project/bosque-programming-language/)
-- [Mid-old cells are a potential target for anti-aging interventions in the elderly](https://www.nature.com/articles/s41467-023-43491-w)
-- [State Dept prioritizes &#39;AI-ready workforce&#39; in its first AI strategy](https://federalnewsnetwork.com/artificial-intelligence/2023/11/state-dept-prioritizes-ai-ready-workforce-in-its-first-ai-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
