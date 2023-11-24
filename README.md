@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Isn&#39;t Landfill Mining More Popular?](https://gizmodo.com/landfill-mining-metal-recovery-trash-recycling-ewaste-1850151569)
-- [Ubisoft blames &#39;technical error&#39; for showing pop-up ads in Assassin&#39;s Creed](https://www.theverge.com/2023/11/24/23974420/ubisoft-assassins-creed-odyssey-pop-up-ad-xbox-playstation-technical-error)
-- [Mail-in-a-Box: a mail server in a box](https://github.com/mail-in-a-box/mailinabox)
-- [Google Bard AI Now Has the Ability to Understand YouTube Videos](https://www.youtube.com/watch?v=Ck-0hKVT7Gg)
-- [Show HN: AI Generated SVG&#39;s](https://vectorart.ai/layout3)
+- [Cicero](https://ai.meta.com/research/cicero/)
+- [The Cannabis That People Are Using for Anxiety Is Probably Making It Worse](https://www.wsj.com/health/wellness/anxiety-medical-marijuana-treatment-4bfd2cc3)
+- [AI Doomers are worse than wrong – they&#39;re incompetent](https://www.infinitescroll.us/p/ai-doomers-are-worse-than-wrong-theyre)
+- [Fire TV now also displays full-screen video ads on its homescreen](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1700729070)
+- [Q* Hypothesis: Enhancing Reasoning, Rewards, and Synthetic Data](https://www.interconnects.ai/p/q-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
