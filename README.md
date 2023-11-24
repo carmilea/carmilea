@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is currently just glorified compression](https://twitter.com/ChombaBupe/status/1727713732359229676)
+- [Learn Machine Learning](https://www.tensorflow.org/resources/learn-ml)
+- [Spinning Up in Deep RL by OpenAI](https://spinningup.openai.com/en/latest/)
+- [The BPF-programmable network device](https://lwn.net/Articles/949960/)
 - [Things you&#39;re allowed to do &lpar;2020&rpar;](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is hiring an Engineering Manager](https://news.ycombinator.com/item?id=38399650)
-- [The Medley Interlisp Project](https://interlisp.org/)
-- [Extremely large telescopes at risk](https://www.science.org/doi/10.1126/science.adm9964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
