@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is an Engineering Manager](https://news.ycombinator.com/item?id=38399650)
-- [Revival of Medley/Interlisp](https://www.theregister.com/2023/11/23/medley_interlisp_revival/)
-- [What do Apple, Meta, TikTok have in common? Fighting Europe&#39;s antitrust rules](https://www.theregister.com/2023/11/17/apple_ec_dma/)
-- [Experimental tree-based writing interface for GPT-3](https://github.com/socketteer/loom)
-- [PostgreSQL on S390x](https://www.cybertec-postgresql.com/en/postgresql-on-s390x/)
+- [AI is currently just glorified compression](https://twitter.com/ChombaBupe/status/1727713732359229676)
+- [Things you&#39;re allowed to do &lpar;2020&rpar;](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is hiring an Engineering Manager](https://news.ycombinator.com/item?id=38399650)
+- [The Medley Interlisp Project](https://interlisp.org/)
+- [Extremely large telescopes at risk](https://www.science.org/doi/10.1126/science.adm9964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
