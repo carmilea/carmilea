@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Zoom fatigue&#39; may take toll on the brain and the heart](https://www.washingtonpost.com/health/2023/11/25/zoom-fatigue-brain-heart-effects/)
-- [Korean Smartphones Have Mandatory Shutter Sounds, 8 in 10 Want It Muted](https://petapixel.com/2023/11/06/korean-smartphones-have-mandatory-shutter-sounds-8-in-10-want-it-muted/)
+- [Nvidia sued for stealing trade secrets: blunder showed rival company&#39;s code](https://www.engadget.com/nvidia-sued-for-stealing-trade-secrets-after-screensharing-blunder-showed-rival-companys-code-063009605.html)
+- [&#39;Treasure trove&#39; of new CRISPR systems holds promise for genome editing](https://www.nature.com/articles/d41586-023-03697-w)
+- [The Dunning-Kruger Effect Is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
 - [XPAK 400](https://kustomrama.com/wiki/XPAK_400)
 - [Sqids – Generate Short Unique IDs from Numbers](https://sqids.org/)
-- [New Wave Sci-Fi: 75 Best Novels of 1964–1983](https://www.hilobrow.com/new-wave-sci-fi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
