@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ArchiveTeam is downloading and saving content from Blogger](https://wiki.archiveteam.org/index.php/Blogger)
 - [Tesla Normal Operating Sounds](https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html)
+- [The Bond villain compliance strategy](https://www.bitsaboutmoney.com/archive/bond-villain-compliance-strategy/)
 - [There are no strings on me](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
-- [Pythonicity: Composition vs. Inheritance](https://coady.github.io/posts/composition-vs-inheritance.html)
-- [Paper: You Want My Password or a Dead Patient?](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
-- [The world of Japan&#39;s PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
+- [Workarounds to Computer Access in Healthcare: Password or a Dead Patient? &lpar;2015&rpar;](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
