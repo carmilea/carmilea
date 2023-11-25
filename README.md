@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [XPAK 400](https://kustomrama.com/wiki/XPAK_400)
+- [Sqids – Generate Short Unique IDs from Numbers](https://sqids.org/)
+- [New Wave Sci-Fi: 75 Best Novels of 1964–1983](https://www.hilobrow.com/new-wave-sci-fi/)
+- [Breezy Version Control System](https://www.breezy-vcs.org)
 - [Mutable.ai &lpar;YC W22&rpar; Is Hiring AI Engineers](https://www.ycombinator.com/companies/mutable-ai/jobs/YX9awHC-founding-ai-research-engineer)
-- [Mapped: The Migration of the Millionaires in 2023](https://www.visualcapitalist.com/mapped-the-migration-of-the-worlds-millionaires-in-2023/)
-- [Why 56k is the fastest dial up modem speed](https://www.10stripe.com/articles/why-is-56k-the-fastest-dialup-modem-speed.php)
-- [Availability and Use of F-35 Fighter Aircraft: An Update](https://www.cbo.gov/publication/58942)
-- [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
