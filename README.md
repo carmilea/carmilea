@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fat OCI images are a cultural problem](https://discourse.nixos.org/t/oci-images-is-there-something-similar-to-distroless-images-built-with-nix/35957)
+- [Bandcamp support is faltering – maybe you should download your music now](https://linuximpact.com/bandcamp-support-is-faltering-download-your-music-now/)
 - [Things We Always Remind Ourselves While Coding](https://changelog.com/posts/things-we-always-remind-ourselves-while-coding)
 - [PacketMill: Toward per-Core 100-Gbps networking](https://dl.acm.org/doi/abs/10.1145/3445814.3446724)
 - [Minecraft rewritten from scratch in Kotlin, hypixel works](https://gitlab.bixilon.de/bixilon/minosoft)
-- [FastClick: A new architecture for programmable network infrastructure](https://github.com/tbarbette/fastclick)
-- [Show HN: IP Guide – info on IP addresses, Networks, and ASNs](https://ip.guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
