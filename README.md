@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring to solve e2e testing](https://news.ycombinator.com/item?id=38416633)
 - [Nvidia sued for stealing trade secrets: blunder showed rival company&#39;s code](https://www.engadget.com/nvidia-sued-for-stealing-trade-secrets-after-screensharing-blunder-showed-rival-companys-code-063009605.html)
 - [&#39;Treasure trove&#39; of new CRISPR systems holds promise for genome editing](https://www.nature.com/articles/d41586-023-03697-w)
-- [The Dunning-Kruger Effect Is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
-- [XPAK 400](https://kustomrama.com/wiki/XPAK_400)
-- [Sqids – Generate Short Unique IDs from Numbers](https://sqids.org/)
+- [Ask HN: Article on software only increasing complexity?](https://news.ycombinator.com/item?id=38415830)
+- [The Dunning-Kruger effect is autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
