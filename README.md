@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
+- [Offpunk 2.0](https://ploum.net/2023-11-25-offpunk2.html)
+- [Developers are not happy with .NET MAUI, but nobody in the team cares about it](https://github.com/dotnet/maui/issues/19018)
+- [Darktable: Crashing into the Wall in Slow-Motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/)
 - [ArchiveTeam is downloading and saving content from Blogger](https://wiki.archiveteam.org/index.php/Blogger)
-- [Normal Operating Sounds](https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html)
-- [The Bond villain compliance strategy](https://www.bitsaboutmoney.com/archive/bond-villain-compliance-strategy/)
-- [There are no strings on me](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
-- [The world of Japan&#39;s PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
