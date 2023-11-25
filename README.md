@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tesla Normal Operating Sounds](https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html)
-- [Ask HN: Has your YouTube usage decreased?](https://news.ycombinator.com/item?id=38411089)
-- [Is there something similar to “distroless” images built with Nix?](https://discourse.nixos.org/t/oci-images-is-there-something-similar-to-distroless-images-built-with-nix/35957)
+- [There are no strings on me](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
 - [Pythonicity: Composition vs. Inheritance](https://coady.github.io/posts/composition-vs-inheritance.html)
-- [PacketMill: Toward per-Core 100-Gbps networking](https://dl.acm.org/doi/abs/10.1145/3445814.3446724)
+- [Paper: You Want My Password or a Dead Patient?](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
+- [The world of Japan&#39;s PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
