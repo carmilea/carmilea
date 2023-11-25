@@ -60,7 +60,7 @@
 - [Tesla Normal Operating Sounds](https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html)
 - [The Bond villain compliance strategy](https://www.bitsaboutmoney.com/archive/bond-villain-compliance-strategy/)
 - [There are no strings on me](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
-- [Workarounds to Computer Access in Healthcare: Password or a Dead Patient? &lpar;2015&rpar;](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
+- [Pythonicity: Composition vs. Inheritance](https://coady.github.io/posts/composition-vs-inheritance.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
