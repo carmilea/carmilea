@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Things We Always Remind Ourselves While Coding](https://changelog.com/posts/things-we-always-remind-ourselves-while-coding)
+- [PacketMill: Toward per-Core 100-Gbps networking](https://dl.acm.org/doi/abs/10.1145/3445814.3446724)
 - [Minecraft rewritten from scratch in Kotlin, hypixel works](https://gitlab.bixilon.de/bixilon/minosoft)
-- [Kepler, Nvidia&#39;s Strong Start on 28 nm](https://chipsandcheese.com/2023/11/24/inside-kepler-nvidias-strong-start-on-28-nm/)
-- [Autonomous Excavator Constructs a Six-Metre-High Dry-Stone Wall](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html)
-- [Botlib: Telegram Bots in C by Antirez](https://github.com/antirez/botlib)
-- [Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game](https://www.perfectpitchpuzzle.com)
+- [FastClick: A new architecture for programmable network infrastructure](https://github.com/tbarbette/fastclick)
+- [Show HN: IP Guide – info on IP addresses, Networks, and ASNs](https://ip.guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
