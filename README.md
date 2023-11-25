@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meticulous &lpar;YC S21&rpar; Is Hiring to solve e2e testing](https://news.ycombinator.com/item?id=38416633)
-- [Nvidia sued for stealing trade secrets: blunder showed rival company&#39;s code](https://www.engadget.com/nvidia-sued-for-stealing-trade-secrets-after-screensharing-blunder-showed-rival-companys-code-063009605.html)
-- [&#39;Treasure trove&#39; of new CRISPR systems holds promise for genome editing](https://www.nature.com/articles/d41586-023-03697-w)
-- [Ask HN: Article on software only increasing complexity?](https://news.ycombinator.com/item?id=38415830)
-- [The Dunning-Kruger effect is autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
+- [Conversational AI is a great tool for education](https://twitter.com/vishnuhx/status/1728520353897460018)
+- [Fertility as Metascience](https://maximumprogress.substack.com/p/fertility-as-metascience)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring to solve end-to-end testing](https://news.ycombinator.com/item?id=38416633)
+- [Three Year Cruise for Remote Workers Canceled](https://www.cnn.com/travel/article/three-year-cruise-canceled/index.html)
+- [This page knows your battery charge level &lpar;unless you&#39;re using Firefox&rpar;](https://deepesh-01.github.io/battery_indicator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
