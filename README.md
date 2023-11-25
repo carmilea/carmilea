@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
+- [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
+- [Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://news.ycombinator.com/item?id=38412976)
 - [Offpunk 2.0](https://ploum.net/2023-11-25-offpunk2.html)
 - [Developers are not happy with .NET MAUI, but nobody in the team cares about it](https://github.com/dotnet/maui/issues/19018)
-- [Darktable: Crashing into the Wall in Slow-Motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/)
-- [ArchiveTeam is downloading and saving content from Blogger](https://wiki.archiveteam.org/index.php/Blogger)
+- [Stop using JSON Web Tokens for user sessions](https://ds-security.com/post/stop-using-jwts-for-sessions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
