@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Conversational AI is a great tool for education](https://twitter.com/vishnuhx/status/1728520353897460018)
-- [Fertility as Metascience](https://maximumprogress.substack.com/p/fertility-as-metascience)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring to solve end-to-end testing](https://news.ycombinator.com/item?id=38416633)
-- [Three Year Cruise for Remote Workers Canceled](https://www.cnn.com/travel/article/three-year-cruise-canceled/index.html)
-- [This page knows your battery charge level &lpar;unless you&#39;re using Firefox&rpar;](https://deepesh-01.github.io/battery_indicator/)
+- [Aerial refuelling without human intervention](https://www.airbus.com/en/newsroom/stories/2023-11-aerial-refuelling-without-human-intervention)
+- [Is the S&amp;P 500 Broken?](https://disciplinefunds.com/2023/11/21/is-the-sp-500-broken/)
+- [Ask HN: How to delete all Google photos so that I don&#39;t lose access to Gmail?](https://news.ycombinator.com/item?id=38417318)
+- [A chatbot that can&#39;t say anything controversial isn&#39;t worth much](https://www.theatlantic.com/ideas/archive/2023/11/ai-safety-regulations-uncensored-models/676076/)
+- [Why You Shouldn&#39;t Invest in Vector Databases?](https://blog.det.life/why-you-shouldnt-invest-in-vector-databases-c0cd3f59d23c?gi=6b9cfcb2e477)
 <!-- BLOG-POST-LIST:END -->
 
 ---
