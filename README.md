@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It Will Never Be a Good Time to Buy a House](https://www.theatlantic.com/ideas/archive/2023/11/buying-house-market-shortage/676088/)
-- [Whisky: Wine Supercharged with the Power of Apple&#39;s Game Porting Toolkit](https://getwhisky.app)
-- [Apertus – Open-Source Camera](https://www.apertus.org/en)
-- [City of Boulder Open Data](https://open-data.bouldercolorado.gov)
-- [Periodic Table of Tools](https://periodictableoftools.com/index.html)
+- [Updated a Complex Function Plotter that lets you sketch curves and see its image](https://tobylam.xyz/plotter/)
+- [Neuralink Raises an Additional $43M](https://techcrunch.com/2023/11/25/neuralink-elon-musks-brain-implant-startup-quietly-raises-an-additional-43m/)
+- [First Is the Worst: Nintendo&#39;s Color TV Game 6 and 15](https://nicole.express/2023/not-another-color-post-i-swear.html)
+- [A ChatBot for Interacting with Hacker News](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fnewsnerdhackerbot.streamlit.app%2F)
+- [Falcon Down: Breaking Falcon Signature Scheme Through Side-Channel Attacks [pdf]](https://eprint.iacr.org/2021/772.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
