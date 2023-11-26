@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Doxycycline, Azithromycin and Vitamin C &lpar;DAV&rpar;: eradicating cancer stem cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6520007/)
 - [The Flix Programming Language](https://flix.dev/)
-- [Selfhosted Email by Maddy on Oracle Cloud](https://taoshu.in/net/selfhost-email.html)
 - [We have lost access to approximately €6k in bounties](https://newpipe.net/blog/pinned/announcement/we-have-lost-access-to-bountysource/)
 - [The Curse of Docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
+- [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
