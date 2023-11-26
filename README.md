@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The history behind aspirin 81](https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/)
+- [HP says I should have known its £399 laptop bargain was too good to be true](https://www.theguardian.com/money/2023/nov/23/hp-says-i-should-have-known-its-399-laptop-bargain-was-too-good-to-be-true)
+- [Does GPT-4 Pass the Turing Test?](https://arxiv.org/abs/2310.20216)
+- [Fish – Update on the Rust Port](https://github.com/fish-shell/fish-shell/discussions/10123)
 - [PipeWire 1.0.0](https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/1.0.0)
-- [Titled Tuesday [Chess] Cheating](https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/)
-- [San Francisco Streets with Andrew Callaghan [video]](https://www.youtube.com/watch?v=URfCwT3UQy4)
-- [Wallace and Gromit studio Aardman Animations running out of clay](https://www.theguardian.com/film/2023/nov/20/wallace-and-gromit-studio-aardman-animations-running-out-of-clay)
-- [Darling: Run macOS Software on Linux](https://www.darlinghq.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
