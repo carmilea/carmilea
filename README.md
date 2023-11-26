@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Coffee Habits May Affect Brain Plasticity and Learning](https://neurosciencenews.com/caffeine-neuoplasticity-ltp-25255/)
+- [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
 - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
-- [Doxycycline, Azithromycin and Vitamin C &lpar;DAV&rpar;: eradicating cancer stem cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6520007/)
+- [Show HN: An open-source notification infrastructure](https://github.com/novuhq/)
 - [Fun with DNS TXT Records](https://thoughts.theden.sh/posts/dns-txt-record-fun/)
-- [The Flix Programming Language](https://flix.dev/)
-- [We have lost access to approximately €6k in bounties](https://newpipe.net/blog/pinned/announcement/we-have-lost-access-to-bountysource/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
