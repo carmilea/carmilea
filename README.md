@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Svix &lpar;YC W21&rpar; Is Hiring a Tech Lead &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+- [Bjarne Stroustrup Quotes](https://www.stroustrup.com/quotes.html)
+- [Ripgrep 14 Released](https://github.com/BurntSushi/ripgrep/releases/tag/14.0.0)
 - [The history behind aspirin 81](https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/)
-- [HP says I should have known its £399 laptop bargain was too good to be true](https://www.theguardian.com/money/2023/nov/23/hp-says-i-should-have-known-its-399-laptop-bargain-was-too-good-to-be-true)
-- [Does GPT-4 Pass the Turing Test?](https://arxiv.org/abs/2310.20216)
-- [Fish – Update on the Rust Port](https://github.com/fish-shell/fish-shell/discussions/10123)
-- [PipeWire 1.0.0](https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/1.0.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
