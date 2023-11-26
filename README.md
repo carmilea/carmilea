@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
+- [Debian&#39;s MIPS64EL CPU Port Is at Risk Due to Declining Hardware Access](https://www.phoronix.com/news/Debian-MIPS64EL-Risk)
 - [Aerial refuelling without human intervention](https://www.airbus.com/en/newsroom/stories/2023-11-aerial-refuelling-without-human-intervention)
-- [Is the S&amp;P 500 Broken?](https://disciplinefunds.com/2023/11/21/is-the-sp-500-broken/)
-- [Ask HN: How to delete all Google photos so that I don&#39;t lose access to Gmail?](https://news.ycombinator.com/item?id=38417318)
-- [A chatbot that can&#39;t say anything controversial isn&#39;t worth much](https://www.theatlantic.com/ideas/archive/2023/11/ai-safety-regulations-uncensored-models/676076/)
-- [Why You Shouldn&#39;t Invest in Vector Databases?](https://blog.det.life/why-you-shouldnt-invest-in-vector-databases-c0cd3f59d23c?gi=6b9cfcb2e477)
+- [Postgres: Extensions Shape the Future [pdf]](https://blog.rustprooflabs.com/static/docs/pass2023--Extensions-Shape-the-Future.pdf)
+- [Reflections on learning programming](https://blog.osm-ai.net/thinking/2023/10/26/novice-mistakes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
