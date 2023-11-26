@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Darling: Run macOS Software on Linux](https://www.darlinghq.org/)
+- [Escaping Duopoly: Best 5 Linux Smartphones Without Performance Security Excuses](https://nixsanctuary.com/escaping-the-duopoly-top-best-5-linux-smartphones-without-performance-and-security-excuses/)
+- [The Collected Stories of Vernor Vinge](https://adeeplookbydavehook.wordpress.com/2023/11/25/the-collected-stories-of-vernor-vinge-2001-tor/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring SREs and Platform Eng. &lpar;Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5013075004)
-- [Updated a Complex Function Plotter that lets you sketch curves and see its image](https://tobylam.xyz/plotter/)
-- [Neuralink Raises an Additional $43M](https://techcrunch.com/2023/11/25/neuralink-elon-musks-brain-implant-startup-quietly-raises-an-additional-43m/)
-- [First Is the Worst: Nintendo&#39;s Color TV Game 6 and 15](https://nicole.express/2023/not-another-color-post-i-swear.html)
-- [A ChatBot for Interacting with Hacker News](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fnewsnerdhackerbot.streamlit.app%2F)
+- [Reasonable GPUs](https://news.ycombinator.com/item?id=38422807)
 <!-- BLOG-POST-LIST:END -->
 
 ---
