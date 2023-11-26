@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dependencies Belong in Version Control](https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Tech Lead &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
-- [Bjarne Stroustrup Quotes](https://www.stroustrup.com/quotes.html)
-- [PCSX2 Disables Wayland Support](https://github.com/PCSX2/pcsx2/pull/10179)
+- [Ask HN: Have you made IRL friends from HN usage?](https://news.ycombinator.com/item?id=38426072)
+- [Cisco aids Ukraine defense with modified switches to counter Russian attacks](https://www.itworldcanada.com/post/cisco-aids-ukraine-in-cyber-defense-with-modified-switches-to-counter-russian-attacks)
+- [Climbing 50 steps a day can cut your risk of heart disease by 20%](https://news.tulane.edu/pr/walking-more-five-flights-stairs-day-can-cut-risk-heart-disease-20-study-says)
+- [The Death of a Relic Hunter](https://www.newyorker.com/news/letter-from-the-south/the-death-of-a-relic-hunter)
+- [Stephen Fry reads Nick Cave&#39;s stirring letter about ChatGPT and human creativity [video]](https://www.youtube.com/watch?v=iGJcF4bLKd4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
