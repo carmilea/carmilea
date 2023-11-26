@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [Hunter-gatherer childcare suggests new key to mother and child well-being](https://phys.org/news/2023-11-hunter-gatherer-approach-childcare-key-mother.html)
 - [The most powerful cosmic ray since the Oh-My-God particle puzzles scientists](https://www.nature.com/articles/d41586-023-03677-0)
-- [Can a Passenger Hack an Airplane?](https://blog.1password.com/can-you-hack-plane-ken-munro-interview/)
-- [Write Guix package definitions in a breeze: Introducing Guix Packager](https://guix.gnu.org/blog/2023/write-package-definitions-in-a-breeze/)
-- [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
+- [Formation °](https://formation.phobon.io/)
+- [mystery-o-matic.com random murder generator is open-source](https://github.com/mystery-o-matic/mystery-o-matic.github.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
