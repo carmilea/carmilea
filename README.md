@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dependencies Belong in Version Control](https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/)
 - [Svix &lpar;YC W21&rpar; Is Hiring a Tech Lead &lpar;US Remote&rpar;](https://www.svix.com/careers/)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 - [Bjarne Stroustrup Quotes](https://www.stroustrup.com/quotes.html)
-- [Ripgrep 14 Released](https://github.com/BurntSushi/ripgrep/releases/tag/14.0.0)
-- [The history behind aspirin 81](https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/)
+- [PCSX2 Disables Wayland Support](https://github.com/PCSX2/pcsx2/pull/10179)
 <!-- BLOG-POST-LIST:END -->
 
 ---
