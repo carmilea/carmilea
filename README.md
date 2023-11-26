@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Doxycycline, Azithromycin and Vitamin C &lpar;DAV&rpar;: eradicating cancer stem cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6520007/)
+- [Fun with DNS TXT Records](https://thoughts.theden.sh/posts/dns-txt-record-fun/)
 - [The Flix Programming Language](https://flix.dev/)
-- [We have lost access to approximately €6k in bounties](https://newpipe.net/blog/pinned/announcement/we-have-lost-access-to-bountysource/)
+- [After Eating, Software Will Bite the World](https://www.overcomingbias.com/p/after-eating-software-will-bite-the)
+- [Let&#39;s Write a Malloc](https://danluu.com/malloc-tutorial/)
 - [The Curse of Docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
-- [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
