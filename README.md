@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PipeWire 1.0.0](https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/1.0.0)
+- [Titled Tuesday [Chess] Cheating](https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/)
+- [San Francisco Streets with Andrew Callaghan [video]](https://www.youtube.com/watch?v=URfCwT3UQy4)
+- [Wallace and Gromit studio Aardman Animations running out of clay](https://www.theguardian.com/film/2023/nov/20/wallace-and-gromit-studio-aardman-animations-running-out-of-clay)
 - [Darling: Run macOS Software on Linux](https://www.darlinghq.org/)
-- [Escaping Duopoly: Best 5 Linux Smartphones Without Performance Security Excuses](https://nixsanctuary.com/escaping-the-duopoly-top-best-5-linux-smartphones-without-performance-and-security-excuses/)
-- [The Collected Stories of Vernor Vinge](https://adeeplookbydavehook.wordpress.com/2023/11/25/the-collected-stories-of-vernor-vinge-2001-tor/)
-- [Supabase &lpar;YC S20&rpar; Is Hiring SREs and Platform Eng. &lpar;Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5013075004)
-- [Reasonable GPUs](https://news.ycombinator.com/item?id=38422807)
 <!-- BLOG-POST-LIST:END -->
 
 ---
