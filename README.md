@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Firefox has madea lotof progress. Let the browser wars continue](https://news.ycombinator.com/item?id=38418958)
+- [The Curse of Docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
 - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
 - [Raiders of the Lost Ark Story Conference Transcript](https://indiefilmhustle.com/tag/raiders-of-the-lost-ark-story-conference-transcript/)
 - [Aerial refuelling without human intervention](https://www.airbus.com/en/newsroom/stories/2023-11-aerial-refuelling-without-human-intervention)
-- [Postgres: Extensions Shape the Future [pdf]](https://blog.rustprooflabs.com/static/docs/pass2023--Extensions-Shape-the-Future.pdf)
-- [Reflections on learning programming](https://blog.osm-ai.net/thinking/2023/10/26/novice-mistakes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
