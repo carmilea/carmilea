@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Coffee Habits May Affect Brain Plasticity and Learning](https://neurosciencenews.com/caffeine-neuoplasticity-ltp-25255/)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [The most powerful cosmic ray since the Oh-My-God particle puzzles scientists](https://www.nature.com/articles/d41586-023-03677-0)
+- [Can a Passenger Hack an Airplane?](https://blog.1password.com/can-you-hack-plane-ken-munro-interview/)
+- [Write Guix package definitions in a breeze: Introducing Guix Packager](https://guix.gnu.org/blog/2023/write-package-definitions-in-a-breeze/)
 - [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
-- [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
-- [Show HN: An open-source notification infrastructure](https://github.com/novuhq/)
-- [Fun with DNS TXT Records](https://thoughts.theden.sh/posts/dns-txt-record-fun/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
