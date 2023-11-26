@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Firefox has madea lotof progress. Let the browser wars continue](https://news.ycombinator.com/item?id=38418958)
+- [We have lost access to approximately €6k in bounties](https://newpipe.net/blog/pinned/announcement/we-have-lost-access-to-bountysource/)
 - [The Curse of Docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
 - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
 - [Raiders of the Lost Ark Story Conference Transcript](https://indiefilmhustle.com/tag/raiders-of-the-lost-ark-story-conference-transcript/)
