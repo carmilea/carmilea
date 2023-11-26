@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spanish agency created AI influencer and she&#39;s raking in up to $11,000 a month](https://fortune.com/europe/2023/11/23/spanish-influencer-agency-earned-11000-ai-model-posers/)
+- [It Will Never Be a Good Time to Buy a House](https://www.theatlantic.com/ideas/archive/2023/11/buying-house-market-shortage/676088/)
+- [Whisky: Wine Supercharged with the Power of Apple&#39;s Game Porting Toolkit](https://getwhisky.app)
+- [Apertus – Open-Source Camera](https://www.apertus.org/en)
+- [City of Boulder Open Data](https://open-data.bouldercolorado.gov)
 - [Periodic Table of Tools](https://periodictableoftools.com/index.html)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Hunter-gatherer childcare suggests new key to mother and child well-being](https://phys.org/news/2023-11-hunter-gatherer-approach-childcare-key-mother.html)
-- [When will global greenhouse gas emissions peak?](https://climateanalytics.org/publications/when-will-global-greenhouse-gas-emissions-peak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
