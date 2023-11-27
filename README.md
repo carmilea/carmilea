@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ransomware-hit British Library: Too open for business, or not open enough?](https://www.theregister.com/2023/11/27/british_library_opinion_column/)
 - [Amazon EC2 Enhances Defense in Depth with Default IMDSv2](https://www.infoq.com/news/2023/11/aws-ec2-IMDSv2/)
 - [Apple&#39;s developers reflashed Mac ROMs in the &#39;90s](https://www.downtowndougbrown.com/2023/11/how-apples-developers-reflashed-mac-roms-in-the-90s/)
-- [Why Bother with uBlock Being Blocked in Chrome? Time to Switch to Firefox](https://tuta.com/blog/best-private-browsers)
-- [Brother [printers] have gotten to where they are now, by NOT innovating](https://retro.social/@ifixcoinops/111480744130939877)
-- [No-Bullshit Games](https://nobsgames.stavros.io/)
+- [Why bother with uBlock being blocked in Chrome? Time to switch to Firefox](https://tuta.com/blog/best-private-browsers)
+- [Brother have gotten to where they are now, by not innovating](https://retro.social/@ifixcoinops/111480744130939877)
 <!-- BLOG-POST-LIST:END -->
 
 ---
