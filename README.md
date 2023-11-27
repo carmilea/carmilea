@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nutrient found in beef and dairy improves immune response to cancer](https://biologicalsciences.uchicago.edu/news/tva-nutrient-cancer-immunity)
-- [AirJet makes a MacBook Air perform like a MacBook Pro](https://www.macworld.com/article/2150862/airjet-makes-a-macbook-air-perform-like-a-macbook-pro.html)
-- [Robot Dad](https://blog.untrod.com/2023/11/robot-dad.html)
-- [Ask HN: What to Do After Burnout?](https://news.ycombinator.com/item?id=38433302)
-- [Favorite Database T-Shirts](https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html)
+- [Spine AI &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
+- [Several Piracy-Related Arrests Spark Fears of High-Level Crackdown](https://torrentfreak.com/several-piracy-related-arrests-spark-fears-of-high-level-crackdown-231127/)
+- [Prettier $20k Bounty was Claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
+- [Show HN: Trains.fyi – a live map of passenger trains in the US and Canada](https://trains.fyi/)
+- [Web Components Eliminate JavaScript Framework Lock-In](https://jakelazaroff.com/words/web-components-eliminate-javascript-framework-lock-in/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
