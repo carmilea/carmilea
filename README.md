@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Physical attractiveness and intergenerational social mobility](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13320)
-- [Download all of Wikipedia on your phone](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/)
-- [GitHub: Can no longer search code without being logged in](https://github.com/orgs/community/discussions/77046)
-- [Struggles with the Continuum](https://arxiv.org/abs/1609.01421)
-- [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
+- [Nutrient found in beef and dairy improves immune response to cancer](https://biologicalsciences.uchicago.edu/news/tva-nutrient-cancer-immunity)
+- [AirJet makes a MacBook Air perform like a MacBook Pro](https://www.macworld.com/article/2150862/airjet-makes-a-macbook-air-perform-like-a-macbook-pro.html)
+- [Robot Dad](https://blog.untrod.com/2023/11/robot-dad.html)
+- [Ask HN: What to Do After Burnout?](https://news.ycombinator.com/item?id=38433302)
+- [Favorite Database T-Shirts](https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
