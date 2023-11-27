@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why do half of Internet users think we are living in a simulation?](https://news.ycombinator.com/item?id=38428249)
+- [Orca-2-13B Runs Directly on Rust+WASM – No Python/C++ Hassles](https://www.secondstate.io/articles/orca-2-13b/)
+- [Dive into Deep Learning: Interactive deep learning book with codes and maths](https://d2l.ai/)
 - [Housing wealth is meaningless, destructive and fundamentally changing society](https://www.theguardian.com/australia-news/2023/nov/27/australian-housing-wealth-is-meaningless-destructive-and-fundamentally-changing-our-society)
 - [Google Drive has lost user data](https://support.google.com/drive/thread/245055606/google-drive-files-suddenly-disappeared-the-drive-literally-went-back-to-condition-in-may-2023?hl=en)
 - [College Sports Need Their Tax-Exempt Status Revoked](https://www.bloomberg.com/opinion/articles/2023-11-25/jimbo-fisher-is-why-college-sports-need-to-lose-tax-exemption-status)
-- [AWS debuts Amazon WorkSpaces Thin Client device for virtual desktop access](https://aws.amazon.com/blogs/aws/new-amazon-workspaces-thin-client/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
