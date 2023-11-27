@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Drive has lost user data](https://support.google.com/drive/thread/245055606/google-drive-files-suddenly-disappeared-the-drive-literally-went-back-to-condition-in-may-2023?hl=en)
+- [Americans think the American dream is dying](https://www.axios.com/2023/11/25/american-dream-poll-wealth-inequality)
+- [Beej&#39;s Guide to Interprocess Communication](https://beej.us/guide/bgipc/html/)
 - [Pixel 8 Pro owners complain about display bumps](https://me.mashable.com/mobile/35238/pixel-8-pro-owners-complain-about-display-bumps-google-says-there-is-no-functional-impact)
 - [LaTeX Talks from the Tug Conference 2023 in Bonn](https://www.latex-project.org/news/2023/11/25/TUG-online-talks-2023/)
-- [Amazon EFS now supports up to 250k IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-250000-iops-per-file-system/)
-- [World’s biggest iceberg moving beyond Antarctic waters](https://www.theguardian.com/world/2023/nov/27/worlds-biggest-iceberg-moving-beyond-antarctic-waters)
-- [Htmx Webring](https://htmx.org/webring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
