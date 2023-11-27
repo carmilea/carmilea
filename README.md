@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla sues Swedish government after worker rebellion cripples car biz](https://www.theregister.com/2023/11/27/tesla_sweden_strike_lawsuit/)
-- [Mexican ecologists start campaign to save axolotl](https://www.theguardian.com/world/2023/nov/25/axolotl-mexico-ecology-pollution-campaign)
-- [GitHub is investigating an incident with Pull Requests, Issues and Webhooks](https://www.githubstatus.com/incidents/66vhjmd266r9)
-- [Metals: Where Electricity May Flow Without Electrons](https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/)
-- [Covid-19 3rd leading cause of death among Canadians in 2022](https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1310039401)
+- [Range Energy&#39;s electric trailer can improve semi-truck mpg by 36%](https://electrek.co/2023/11/27/range-energys-electric-trailer-can-improve-semi-truck-mpg-by-36/)
+- [Amazon&#39;s $195 thin clients are repurposed Fire TV Cubes](https://arstechnica.com/information-technology/2023/11/amazons-195-thin-clients-are-repurposed-fire-tv-cubes/)
+- [God Help Us, Let&#39;s Try to Understand AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
+- [Ask HN: Tutorial on LLM / already grasp neural nets](https://news.ycombinator.com/item?id=38438202)
+- [Cheaper microscope could bring protein mapping technique to the masses](https://www.science.org/content/article/cheaper-microscope-could-bring-protein-mapping-technique-masses)
 <!-- BLOG-POST-LIST:END -->
 
 ---
