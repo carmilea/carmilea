@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Organizer invents fake women speakers for DevTernity and JDKon conferences](https://twitter.com/GergelyOrosz/status/1728177708608450705?s=20)
+- [Pinecone Open-Sources AWS Reference Architecture with Pulumi](https://www.pinecone.io/blog/aws-reference-architecture/)
+- [Learnings from fine-tuning LLM on my Telegram messages](https://asmirnov.xyz/doppelganger)
+- [Plex Users Fear New Feature Will Leak Porn Habits to Their Friends and Family](https://www.404media.co/plex-users-fear-discover-together-week-in-review-feature-will-leak-porn-habits-to-their-friends-and-family/)
 - [Spine AI &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
-- [Several Piracy-Related Arrests Spark Fears of High-Level Crackdown](https://torrentfreak.com/several-piracy-related-arrests-spark-fears-of-high-level-crackdown-231127/)
-- [Prettier $20k Bounty was Claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
-- [Show HN: Trains.fyi – a live map of passenger trains in the US and Canada](https://trains.fyi/)
-- [Web Components Eliminate JavaScript Framework Lock-In](https://jakelazaroff.com/words/web-components-eliminate-javascript-framework-lock-in/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
