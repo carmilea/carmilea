@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [World’s Biggest iceberg moving beyond Antarctic waters](https://www.theguardian.com/world/2023/nov/27/worlds-biggest-iceberg-moving-beyond-antarctic-waters)
 - [Studio One 6.5 is now available as public beta version for Ubuntu Linux](https://www.presonussoftware.com/en_US/blog/studio-one-6-5-for-linux)
-- [Cisco aids Ukraine defense with modified switches to counter Russian attacks](https://www.itworldcanada.com/post/cisco-aids-ukraine-in-cyber-defense-with-modified-switches-to-counter-russian-attacks)
-- [The Death of a Relic Hunter](https://www.newyorker.com/news/letter-from-the-south/the-death-of-a-relic-hunter)
-- [Yann LeCun on why AI must be open source [video]](https://www.youtube.com/watch?v=EGDG3hgPNp8)
-- [Build Your Own Hi-Fi Ear Defenders](https://spectrum.ieee.org/hi-fi-ear-defenders)
+- [The artificial glacier growing in the desert &lpar;2017&rpar;](https://www.cnn.com/style/article/ice-stupa-sonam-wangchuk/index.html)
+- [Getting Started with Technical Writing](https://opensource.net/get-started-with-technical-writing/)
+- [SysXCHG: Refining Privilege with Adaptive System Call Filters](https://gitlab.com/brown-ssl/sysxchg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
