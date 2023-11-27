@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Bother with uBlock Being Blocked in Chrome? Time to Switch to Firefox](https://tuta.com/blog/best-private-browsers)
+- [Brother [printers] have gotten to where they are now, by NOT innovating](https://retro.social/@ifixcoinops/111480744130939877)
+- [No-Bullshit Games](https://nobsgames.stavros.io/)
 - [Getting Started with Orca-2-13B](https://www.secondstate.io/articles/orca-2-13b/)
 - [Google Drive files suddenly disappeared](https://support.google.com/drive/thread/245055606/google-drive-files-suddenly-disappeared-the-drive-literally-went-back-to-condition-in-may-2023?hl=en)
-- [Beej&#39;s Guide to Interprocess Communication](https://beej.us/guide/bgipc/html/)
-- [Pixel 8 Pro owners complain about display bumps](https://me.mashable.com/mobile/35238/pixel-8-pro-owners-complain-about-display-bumps-google-says-there-is-no-functional-impact)
-- [Talks from the TUG Conference 2023 in Bonn](https://www.latex-project.org/news/2023/11/25/TUG-online-talks-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
