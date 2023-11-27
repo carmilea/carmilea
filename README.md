@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Have you made IRL friends from HN usage?](https://news.ycombinator.com/item?id=38426072)
+- [Studio One 6.5 is now available as public beta version for Ubuntu Linux](https://www.presonussoftware.com/en_US/blog/studio-one-6-5-for-linux)
 - [Cisco aids Ukraine defense with modified switches to counter Russian attacks](https://www.itworldcanada.com/post/cisco-aids-ukraine-in-cyber-defense-with-modified-switches-to-counter-russian-attacks)
-- [Climbing 50 steps a day can cut your risk of heart disease by 20%](https://news.tulane.edu/pr/walking-more-five-flights-stairs-day-can-cut-risk-heart-disease-20-study-says)
 - [The Death of a Relic Hunter](https://www.newyorker.com/news/letter-from-the-south/the-death-of-a-relic-hunter)
-- [Stephen Fry reads Nick Cave&#39;s stirring letter about ChatGPT and human creativity [video]](https://www.youtube.com/watch?v=iGJcF4bLKd4)
+- [Yann LeCun on why AI must be open source [video]](https://www.youtube.com/watch?v=EGDG3hgPNp8)
+- [Build Your Own Hi-Fi Ear Defenders](https://spectrum.ieee.org/hi-fi-ear-defenders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
