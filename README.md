@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Physical attractiveness and intergenerational social mobility](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13320)
+- [Download all of Wikipedia on your phone](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/)
 - [GitHub: Can no longer search code without being logged in](https://github.com/orgs/community/discussions/77046)
 - [Struggles with the Continuum](https://arxiv.org/abs/1609.01421)
 - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
-- [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)
-- [Google Drive misplaces months&#39; worth of customer data](https://www.theregister.com/2023/11/27/google_drive_files_disappearing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
