@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [World’s Biggest iceberg moving beyond Antarctic waters](https://www.theguardian.com/world/2023/nov/27/worlds-biggest-iceberg-moving-beyond-antarctic-waters)
-- [Studio One 6.5 is now available as public beta version for Ubuntu Linux](https://www.presonussoftware.com/en_US/blog/studio-one-6-5-for-linux)
-- [The artificial glacier growing in the desert &lpar;2017&rpar;](https://www.cnn.com/style/article/ice-stupa-sonam-wangchuk/index.html)
-- [Getting Started with Technical Writing](https://opensource.net/get-started-with-technical-writing/)
-- [SysXCHG: Refining Privilege with Adaptive System Call Filters](https://gitlab.com/brown-ssl/sysxchg)
+- [Pixel 8 Pro owners complain about display bumps](https://me.mashable.com/mobile/35238/pixel-8-pro-owners-complain-about-display-bumps-google-says-there-is-no-functional-impact)
+- [LaTeX Talks from the Tug Conference 2023 in Bonn](https://www.latex-project.org/news/2023/11/25/TUG-online-talks-2023/)
+- [Amazon EFS now supports up to 250k IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-250000-iops-per-file-system/)
+- [World’s biggest iceberg moving beyond Antarctic waters](https://www.theguardian.com/world/2023/nov/27/worlds-biggest-iceberg-moving-beyond-antarctic-waters)
+- [Htmx Webring](https://htmx.org/webring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
