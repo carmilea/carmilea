@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Organizer invents fake women speakers for DevTernity and JDKon conferences](https://twitter.com/GergelyOrosz/status/1728177708608450705?s=20)
+- [AI is a weapon to surpass Metal Gear](https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear/)
+- [My Toddler Loves Planes, So I Built Her a Radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
 - [Pinecone Open-Sources AWS Reference Architecture with Pulumi](https://www.pinecone.io/blog/aws-reference-architecture/)
 - [Learnings from fine-tuning LLM on my Telegram messages](https://asmirnov.xyz/doppelganger)
-- [Plex Users Fear New Feature Will Leak Porn Habits to Their Friends and Family](https://www.404media.co/plex-users-fear-discover-together-week-in-review-feature-will-leak-porn-habits-to-their-friends-and-family/)
 - [Spine AI &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
 <!-- BLOG-POST-LIST:END -->
 
