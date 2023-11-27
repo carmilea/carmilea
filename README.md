@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The official Rails job board is live](https://rubyonrails.org/2023/11/27/rails-job-board-is-live)
+- [Tesla sues Swedish government after worker rebellion cripples car biz](https://www.theregister.com/2023/11/27/tesla_sweden_strike_lawsuit/)
+- [Mexican ecologists start campaign to save axolotl](https://www.theguardian.com/world/2023/nov/25/axolotl-mexico-ecology-pollution-campaign)
+- [GitHub is investigating an incident with Pull Requests, Issues and Webhooks](https://www.githubstatus.com/incidents/66vhjmd266r9)
 - [Metals: Where Electricity May Flow Without Electrons](https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/)
-- [&#39;It gets scary&#39;: Neighbors say these Bay Area ghost kitchens are out of control](https://www.sfchronicle.com/food/restaurants/article/ghost-kitchens-neighbors-18483456.php)
-- [Sports Illustrated Published Articles by Fake, AI-Generated Writers](https://futurism.com/sports-illustrated-ai-generated-writers)
-- [Broadcom lays off many VMware employees after closing acquisition](https://www.businessinsider.com/broadcom-vmware-layoffs-employees-face-job-cuts-acquisition-2023-11)
+- [Covid-19 3rd leading cause of death among Canadians in 2022](https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1310039401)
 <!-- BLOG-POST-LIST:END -->
 
 ---
