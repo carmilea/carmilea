@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub: Can no longer search code without being logged in](https://github.com/orgs/community/discussions/77046)
+- [Struggles with the Continuum](https://arxiv.org/abs/1609.01421)
+- [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
+- [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)
 - [Google Drive misplaces months&#39; worth of customer data](https://www.theregister.com/2023/11/27/google_drive_files_disappearing/)
-- [$10M AI Mathematical Olympiad Prize](https://aimoprize.com/)
-- [Support HTTP over Unix domain sockets](https://bugzilla.mozilla.org/show_bug.cgi?id=1688774)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [Tata Consultancy Services ordered to cough up $210M in code theft trial](https://www.theregister.com/2023/11/24/tata_210m_code_theft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
