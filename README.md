@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After 151 years, Popular Science will no longer offer a magazine](https://www.theverge.com/2023/11/27/23978042/popular-science-digital-magazine-discontinued)
+- [Shein Files for U.S. IPO](https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html)
 - [Range Energy&#39;s electric trailer can improve semi-truck mpg by 36%](https://electrek.co/2023/11/27/range-energys-electric-trailer-can-improve-semi-truck-mpg-by-36/)
-- [Amazon&#39;s $195 thin clients are repurposed Fire TV Cubes](https://arstechnica.com/information-technology/2023/11/amazons-195-thin-clients-are-repurposed-fire-tv-cubes/)
-- [God Help Us, Let&#39;s Try to Understand AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
-- [Ask HN: Tutorial on LLM / already grasp neural nets](https://news.ycombinator.com/item?id=38438202)
-- [Cheaper microscope could bring protein mapping technique to the masses](https://www.science.org/content/article/cheaper-microscope-could-bring-protein-mapping-technique-masses)
+- [BYD challenges Tesla with more than 300k electric cars sold in a month](https://english.elpais.com/economy-and-business/2023-11-21/chinese-automaker-byd-goes-after-teslas-throne-with-more-than-300000-electric-cars-sold-in-a-month.html)
+- [Let&#39;s try to understand AI monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
 <!-- BLOG-POST-LIST:END -->
 
 ---
