@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is a weapon to surpass Metal Gear](https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear/)
-- [My Toddler Loves Planes, So I Built Her a Radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
-- [Pinecone Open-Sources AWS Reference Architecture with Pulumi](https://www.pinecone.io/blog/aws-reference-architecture/)
-- [Learnings from fine-tuning LLM on my Telegram messages](https://asmirnov.xyz/doppelganger)
-- [Spine AI &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
+- [The official Rails job board is live](https://rubyonrails.org/2023/11/27/rails-job-board-is-live)
+- [Metals: Where Electricity May Flow Without Electrons](https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/)
+- [&#39;It gets scary&#39;: Neighbors say these Bay Area ghost kitchens are out of control](https://www.sfchronicle.com/food/restaurants/article/ghost-kitchens-neighbors-18483456.php)
+- [Sports Illustrated Published Articles by Fake, AI-Generated Writers](https://futurism.com/sports-illustrated-ai-generated-writers)
+- [Broadcom lays off many VMware employees after closing acquisition](https://www.businessinsider.com/broadcom-vmware-layoffs-employees-face-job-cuts-acquisition-2023-11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
