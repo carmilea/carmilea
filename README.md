@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why do half of Internet users think we are living in a simulation?](https://news.ycombinator.com/item?id=38428249)
+- [Housing wealth is meaningless, destructive and fundamentally changing society](https://www.theguardian.com/australia-news/2023/nov/27/australian-housing-wealth-is-meaningless-destructive-and-fundamentally-changing-our-society)
 - [Google Drive has lost user data](https://support.google.com/drive/thread/245055606/google-drive-files-suddenly-disappeared-the-drive-literally-went-back-to-condition-in-may-2023?hl=en)
-- [Americans think the American dream is dying](https://www.axios.com/2023/11/25/american-dream-poll-wealth-inequality)
-- [Beej&#39;s Guide to Interprocess Communication](https://beej.us/guide/bgipc/html/)
-- [Pixel 8 Pro owners complain about display bumps](https://me.mashable.com/mobile/35238/pixel-8-pro-owners-complain-about-display-bumps-google-says-there-is-no-functional-impact)
-- [LaTeX Talks from the Tug Conference 2023 in Bonn](https://www.latex-project.org/news/2023/11/25/TUG-online-talks-2023/)
+- [College Sports Need Their Tax-Exempt Status Revoked](https://www.bloomberg.com/opinion/articles/2023-11-25/jimbo-fisher-is-why-college-sports-need-to-lose-tax-exemption-status)
+- [AWS debuts Amazon WorkSpaces Thin Client device for virtual desktop access](https://aws.amazon.com/blogs/aws/new-amazon-workspaces-thin-client/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
