@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Drive misplaces months&#39; worth of customer data](https://www.theregister.com/2023/11/27/google_drive_files_disappearing/)
+- [$10M AI Mathematical Olympiad Prize](https://aimoprize.com/)
+- [Support HTTP over Unix domain sockets](https://bugzilla.mozilla.org/show_bug.cgi?id=1688774)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [Tesla sues Swedish state agency over number plate blockage](https://www.thelocal.se/20231127/tesla-sues-swedish-transport-agency-over-number-plate-blockage)
-- [German Autobahn speed limit would bring €1bn in benefits](https://www.carbonbrief.org/autobahn-speed-limit-would-cut-carbon-and-bring-e1bn-in-benefits-study-says/)
 - [Tata Consultancy Services ordered to cough up $210M in code theft trial](https://www.theregister.com/2023/11/24/tata_210m_code_theft/)
-- [Ransomware-hit British Library: Too open for business, or not open enough?](https://www.theregister.com/2023/11/27/british_library_opinion_column/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
