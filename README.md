@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
+- [Tesla sues Swedish state agency over number plate blockage](https://www.thelocal.se/20231127/tesla-sues-swedish-transport-agency-over-number-plate-blockage)
+- [German Autobahn speed limit would bring €1bn in benefits](https://www.carbonbrief.org/autobahn-speed-limit-would-cut-carbon-and-bring-e1bn-in-benefits-study-says/)
+- [Tata Consultancy Services ordered to cough up $210M in code theft trial](https://www.theregister.com/2023/11/24/tata_210m_code_theft/)
 - [Ransomware-hit British Library: Too open for business, or not open enough?](https://www.theregister.com/2023/11/27/british_library_opinion_column/)
-- [Amazon EC2 Enhances Defense in Depth with Default IMDSv2](https://www.infoq.com/news/2023/11/aws-ec2-IMDSv2/)
-- [Apple&#39;s developers reflashed Mac ROMs in the &#39;90s](https://www.downtowndougbrown.com/2023/11/how-apples-developers-reflashed-mac-roms-in-the-90s/)
-- [Why bother with uBlock being blocked in Chrome? Time to switch to Firefox](https://tuta.com/blog/best-private-browsers)
-- [Brother have gotten to where they are now, by not innovating](https://retro.social/@ifixcoinops/111480744130939877)
 <!-- BLOG-POST-LIST:END -->
 
 ---
