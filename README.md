@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rustlantis: Semantic fuzzing of the Rust compiler and interpreter [pdf]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf)
-- [What happens when your AI girlfriend dies?](https://www.dazeddigital.com/life-culture/article/61432/1/what-happens-when-your-ai-girlfriend-dies-replika-forever-voices-soulmate)
-- [Treble.ai &lpar;YC S19&rpar; Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-staff-product-engineer)
-- [Eclipse ThreadX](https://eclipse-foundation.blog/2023/11/21/introducing-eclipse-threadx/)
-- [Microsoft opens sources ThreadX RTOS used in Raspberry Pis](https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/)
+- [Google&#39;s new geothermal energy project is up and running](https://www.theverge.com/2023/11/28/23972940/google-data-center-geothermal-energy)
+- [How to Read a Paper [pdf]](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
+- [Keras 3.0](https://keras.io/keras_3/)
+- [Cybertruck Is Already a Production Nightmare for Tesla](https://www.bloomberg.com/news/articles/2023-11-28/tesla-cybertruck-delivery-event-preview-musk-warns-of-production-challenges)
+- [A father didn&#39;t believe his daughter was dead. The hospital harvested her organs](https://www.theguardian.com/us-news/2023/nov/28/hospital-organ-donation-death-lawsuit-fresno-california)
 <!-- BLOG-POST-LIST:END -->
 
 ---
