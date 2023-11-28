@@ -60,7 +60,7 @@
 - [Voice-over-LTE: The Reason Why Your Phone May Soon Stop Working](https://hackaday.com/2023/11/27/voice-over-lte-the-reason-why-your-phone-may-soon-stop-working/)
 - [Google Play keeps banning the same web browser due to vague DMCA notices](https://arstechnica.com/tech-policy/2023/11/weird-dmca-takedown-google-play-bans-app-because-it-can-load-warnerbros-com/)
 - [Linexjlin/GPTs: leaked prompts of GPTs](https://github.com/linexjlin/GPTs)
-- [How could Al Bundy afford a house when he was making minimum wage?](https://old.reddit.com/r/AskHistorians/comments/ggozng/in_the_sitcom_married_with_children_protagonist/)
+- [After 151 years, Popular Science will no longer offer a magazine](https://www.theverge.com/2023/11/27/23978042/popular-science-digital-magazine-discontinued)
 <!-- BLOG-POST-LIST:END -->
 
 ---
