@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Please don&#39;t use AI to get on the global leaderboard](https://adventofcode.com/)
 - [Amazon announces Q, an AI chatbot for businesses](https://www.cnbc.com/2023/11/28/amazon-announces-q-an-ai-chatbot-for-businesses.html)
-- [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://nihalsid.github.io/mesh-gpt/)
+- [MeshGPT: Generating triangle meshes with decoder-only transformers](https://nihalsid.github.io/mesh-gpt/)
 - [Amazon Introduces Q, an A.I. Chatbot for Companies](https://www.nytimes.com/2023/11/28/technology/amazon-ai-chatbot-q.html)
 - [Section 702 surveillance reauthorization may get slipped into ‘must-pass’ NDAA](https://www.wired.com/story/section-702-reauthorization-ndaa-2023/)
-- [Sorry you feel that way: why passive aggression took over the world](https://www.economist.com/1843/2023/11/21/sorry-you-feel-that-way-why-passive-aggression-took-over-the-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
