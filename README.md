@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rustlantis: Semantic fuzzing of the Rust compiler and interpreter [pdf]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf)
+- [What happens when your AI girlfriend dies?](https://www.dazeddigital.com/life-culture/article/61432/1/what-happens-when-your-ai-girlfriend-dies-replika-forever-voices-soulmate)
 - [Treble.ai &lpar;YC S19&rpar; Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-staff-product-engineer)
-- [Badly-Compressed Images Affect CLIP&#39;s Performance, New Research Contends](https://blog.metaphysic.ai/badly-compressed-images-affect-clips-performance-new-research-contends/)
+- [Eclipse ThreadX](https://eclipse-foundation.blog/2023/11/21/introducing-eclipse-threadx/)
 - [Microsoft opens sources ThreadX RTOS used in Raspberry Pis](https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/)
-- [Modern C++ Programming Course](https://github.com/federico-busato/Modern-CPP-Programming)
-- [Half Life:25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 <!-- BLOG-POST-LIST:END -->
 
 ---
