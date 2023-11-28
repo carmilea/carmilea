@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After 151 years, Popular Science will no longer offer a magazine](https://www.theverge.com/2023/11/27/23978042/popular-science-digital-magazine-discontinued)
-- [Shein Files for U.S. IPO](https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html)
-- [Range Energy&#39;s electric trailer can improve semi-truck mpg by 36%](https://electrek.co/2023/11/27/range-energys-electric-trailer-can-improve-semi-truck-mpg-by-36/)
-- [BYD challenges Tesla with more than 300k electric cars sold in a month](https://english.elpais.com/economy-and-business/2023-11-21/chinese-automaker-byd-goes-after-teslas-throne-with-more-than-300000-electric-cars-sold-in-a-month.html)
-- [Let&#39;s try to understand AI monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
+- [Voice-over-LTE: The Reason Why Your Phone May Soon Stop Working](https://hackaday.com/2023/11/27/voice-over-lte-the-reason-why-your-phone-may-soon-stop-working/)
+- [Google Play keeps banning the same web browser due to vague DMCA notices](https://arstechnica.com/tech-policy/2023/11/weird-dmca-takedown-google-play-bans-app-because-it-can-load-warnerbros-com/)
+- [Linexjlin/GPTs: leaked prompts of GPTs](https://github.com/linexjlin/GPTs)
+- [How could Al Bundy afford a house when he was making minimum wage?](https://old.reddit.com/r/AskHistorians/comments/ggozng/in_the_sitcom_married_with_children_protagonist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
