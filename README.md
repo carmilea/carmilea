@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
 - [Semaglutide treatment associated with high reduction in Alcohol Use Disorder](https://www.eurekalert.org/news-releases/1009292)
-- [Show HN: Draw Fast – Real-time AI image generation based on drawings in a canvas](https://stablediffusionweb.com/Realtime-Scribble-Diffusion)
 - [That time Verisign typo-squatted all of .com and .net](http://rachelbythebay.com/w/2023/11/27/sitefinder/)
 - [Antirez&#39; tiny JSON selector library](https://notes.billmill.org/link_blog/2023/11/antirez__tiny_JSON_selector_library.html)
 - [San Francisco Blows Housing Deadline, Prompting Standoff with State Regulators](https://sfstandard.com/2023/11/27/san-francisco-blows-state-housing-deadline-constraints-reduction-ordinance/)
