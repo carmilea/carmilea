@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Semaglutide treatment associated with high reduction in Alcohol Use Disorder](https://www.eurekalert.org/news-releases/1009292)
+- [Show HN: Draw Fast – Real-time AI image generation based on drawings in a canvas](https://stablediffusionweb.com/Realtime-Scribble-Diffusion)
 - [That time Verisign typo-squatted all of .com and .net](http://rachelbythebay.com/w/2023/11/27/sitefinder/)
 - [Antirez&#39; tiny JSON selector library](https://notes.billmill.org/link_blog/2023/11/antirez__tiny_JSON_selector_library.html)
 - [San Francisco Blows Housing Deadline, Prompting Standoff with State Regulators](https://sfstandard.com/2023/11/27/san-francisco-blows-state-housing-deadline-constraints-reduction-ordinance/)
-- [The `hanging-punctuation property` in CSS](https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/)
-- [New Outlook is good, both for yourself and 766 third parties](https://godforsaken.website/@Shrigglepuss/111482466182637440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
