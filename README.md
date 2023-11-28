@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Outlook is good, both for yourself and 766 third parties](https://godforsaken.website/@Shrigglepuss/111482466182637440)
+- [3M, DuPont Defeat Class Action over Forever Chemicals](https://www.reuters.com/markets/commodities/3m-dupont-defeat-massive-class-action-over-forever-chemicals-2023-11-27/)
+- [Show HN: SwaraNotebook – a notation editor for Indian classical music](https://swaranotebook.com/)
+- [The Case That Could Destroy the Government](https://www.theatlantic.com/ideas/archive/2023/11/securities-and-exchange-commission-v-jarkesy-supreme-court/676059/)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
-- [Voice-over-LTE: The Reason Why Your Phone May Soon Stop Working](https://hackaday.com/2023/11/27/voice-over-lte-the-reason-why-your-phone-may-soon-stop-working/)
-- [Google Play keeps banning the same web browser due to vague DMCA notices](https://arstechnica.com/tech-policy/2023/11/weird-dmca-takedown-google-play-bans-app-because-it-can-load-warnerbros-com/)
-- [Linexjlin/GPTs: leaked prompts of GPTs](https://github.com/linexjlin/GPTs)
-- [After 151 years, Popular Science will no longer offer a magazine](https://www.theverge.com/2023/11/27/23978042/popular-science-digital-magazine-discontinued)
 <!-- BLOG-POST-LIST:END -->
 
 ---
