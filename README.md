@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The DEI backlash is here](https://www.axios.com/2023/11/27/dei-affirmative-action-supreme-court)
+- [Ask HN: Is Knuth&#39;s TAOCP worth the time and effort? &lpar;2023&rpar;](https://news.ycombinator.com/item?id=38443668)
+- [The Hunt for Life in Alpha Centauri – Jstor Daily](https://daily.jstor.org/the-hunt-for-life-in-alpha-centauri/)
 - [Noyb files GDPR complaint against Meta over &quot;Pay or Okay&quot;](https://noyb.eu/en/noyb-files-gdpr-complaint-against-meta-over-pay-or-okay)
 - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
 - [U.N. Predicts Disaster If Global Warming Not Checked &lpar;1989&rpar;](https://web.archive.org/web/20201101032435/https://apnews.com/article/bd45c372caf118ec99964ea547880cd0)
-- [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
