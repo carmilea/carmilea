@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shutting down the Matrix bridge to Libera Chat](https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/)
+- [The Case for Never Reading the Book Jacket](https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/)
+- [Berkshire Hathaway&#39;s Charlie Munger dies aged 99](https://www.ft.com/content/66124b0c-3cd1-41d4-b0b2-c2f45f4cf196)
 - [Charlie Munger has died](https://www.berkshirehathaway.com/news/nov2823.pdf)
-- [Parsing 8-bit integers quickly](https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/)
-- [The camel, the rope, and the needle&#39;s eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
-- [Hacking my filter coffee machine](https://diziet.dreamwidth.org/17079.html)
-- [Some might not see how much work it was to maintain xorg server](https://mastodon.social/@csoriano/111489425631719327)
+- [The dead children we must see](https://www.newyorker.com/news/our-columnists/the-dead-children-we-must-see)
 <!-- BLOG-POST-LIST:END -->
 
 ---
