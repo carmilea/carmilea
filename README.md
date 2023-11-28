@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [People likely to be harmed by AI don&#39;t have a seat at the table for regulation](https://english.elpais.com/technology/2023-11-27/margaret-mitchell-the-people-who-are-most-likely-to-be-harmed-by-ai-dont-have-a-seat-at-the-table-for-regulation.html)
+- [That time Verisign typo-squatted all of .com and .net](http://rachelbythebay.com/w/2023/11/27/sitefinder/)
+- [The `hanging-punctuation property` in CSS](https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/)
 - [New Outlook is good, both for yourself and 766 third parties](https://godforsaken.website/@Shrigglepuss/111482466182637440)
-- [3M, DuPont Defeat Class Action over Forever Chemicals](https://www.reuters.com/markets/commodities/3m-dupont-defeat-massive-class-action-over-forever-chemicals-2023-11-27/)
-- [Show HN: SwaraNotebook – a notation editor for Indian classical music](https://swaranotebook.com/)
-- [The Case That Could Destroy the Government](https://www.theatlantic.com/ideas/archive/2023/11/securities-and-exchange-commission-v-jarkesy-supreme-court/676059/)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
+- [RPG Engine for the Nintendo 64](https://github.com/breadbored/N64-RPG)
 <!-- BLOG-POST-LIST:END -->
 
 ---
