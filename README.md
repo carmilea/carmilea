@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI: Increased errors across API and ChatGPT](https://status.openai.com/incidents/q58417g6n5r7)
-- [Most AI startups are doomed](https://weightythoughts.com/p/most-ai-startups-are-doomed)
-- [Undercover in Saudi Arabia&#39;s secretive program to keep the world burning oil](https://climate-reporting.org/undercover-saudi-arabia-keep-burning-oil/)
-- [S3 Express Is All You Need](https://www.warpstream.com/blog/s3-express-is-all-you-need)
-- [Meditron: A suite of open-source medical Large Language Models](https://github.com/epfLLM/meditron)
+- [Charlie Munger has died](https://www.berkshirehathaway.com/news/nov2823.pdf)
+- [Parsing 8-bit integers quickly](https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/)
+- [The camel, the rope, and the needle&#39;s eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
+- [Hacking my filter coffee machine](https://diziet.dreamwidth.org/17079.html)
+- [Some might not see how much work it was to maintain xorg server](https://mastodon.social/@csoriano/111489425631719327)
 <!-- BLOG-POST-LIST:END -->
 
 ---
