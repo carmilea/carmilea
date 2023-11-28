@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pulls Plug on Goldman Credit-Card Partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45)
+- [Unity Software to cut 3.8% of staff in &#39;company reset&#39;](https://www.aol.com/unity-software-cut-3-8-221242432.html)
+- [Nobody wants U.S. Treasury bonds](https://www.semafor.com/article/11/28/2023/nobody-wants-us-treasury-bonds)
 - [Shutting down the Matrix bridge to Libera Chat](https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/)
 - [The Case for Never Reading the Book Jacket](https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/)
-- [Berkshire Hathaway&#39;s Charlie Munger dies aged 99](https://www.ft.com/content/66124b0c-3cd1-41d4-b0b2-c2f45f4cf196)
-- [Charlie Munger has died](https://www.berkshirehathaway.com/news/nov2823.pdf)
-- [The dead children we must see](https://www.newyorker.com/news/our-columnists/the-dead-children-we-must-see)
 <!-- BLOG-POST-LIST:END -->
 
 ---
