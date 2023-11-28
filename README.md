@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia&#39;s earnings are up 206% from last year as it continues riding the AI wave](https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/)
 - [Google&#39;s new geothermal energy project is up and running](https://www.theverge.com/2023/11/28/23972940/google-data-center-geothermal-energy)
 - [How to Read a Paper [pdf]](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 - [Keras 3.0](https://keras.io/keras_3/)
-- [Cybertruck Is Already a Production Nightmare for Tesla](https://www.bloomberg.com/news/articles/2023-11-28/tesla-cybertruck-delivery-event-preview-musk-warns-of-production-challenges)
-- [A father didn&#39;t believe his daughter was dead. The hospital harvested her organs](https://www.theguardian.com/us-news/2023/nov/28/hospital-organ-donation-death-lawsuit-fresno-california)
+- [Hackers spent 2 years looting secrets of chipmaker NXP before being detected](https://arstechnica.com/security/2023/11/hackers-spent-2-years-looting-secrets-of-chipmaker-nxp-before-being-detected/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
