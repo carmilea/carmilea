@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern C++ Programming Course](https://github.com/federico-busato/Modern-CPP-Programming)
+- [Half Life:25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
+- [Court: Cloudflare Is Liable for Pirate Site, but Not as a DNS Provider](https://torrentfreak.com/court-cloudflare-is-liable-for-pirate-site-but-not-as-a-dns-provider-231127/)
 - [PeerTube v6 is out, and powered by your ideas](https://framablog.org/2023/11/28/peertube-v6-is-out-and-powered-by-your-ideas/)
 - [Ask HN: Is Knuth&#39;s TAOCP worth the time and effort? &lpar;2023&rpar;](https://news.ycombinator.com/item?id=38443668)
-- [The Hunt for Life in Alpha Centauri – Jstor Daily](https://daily.jstor.org/the-hunt-for-life-in-alpha-centauri/)
-- [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
-- [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
