@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X surpasses Instagram, Facebook in driving traffic through Google by wide margin](https://finance.yahoo.com/news/guess-were-not-dead-yet-130000576.html)
+- [PeerTube v6 is out, and powered by your ideas](https://framablog.org/2023/11/28/peertube-v6-is-out-and-powered-by-your-ideas/)
 - [Ask HN: Is Knuth&#39;s TAOCP worth the time and effort? &lpar;2023&rpar;](https://news.ycombinator.com/item?id=38443668)
 - [The Hunt for Life in Alpha Centauri – Jstor Daily](https://daily.jstor.org/the-hunt-for-life-in-alpha-centauri/)
-- [Noyb files GDPR complaint against Meta over &quot;Pay or Okay&quot;](https://noyb.eu/en/noyb-files-gdpr-complaint-against-meta-over-pay-or-okay)
 - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
-- [U.N. Predicts Disaster If Global Warming Not Checked &lpar;1989&rpar;](https://web.archive.org/web/20201101032435/https://apnews.com/article/bd45c372caf118ec99964ea547880cd0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
