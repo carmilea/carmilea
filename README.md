@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The DEI backlash is here](https://www.axios.com/2023/11/27/dei-affirmative-action-supreme-court)
+- [Noyb files GDPR complaint against Meta over &quot;Pay or Okay&quot;](https://noyb.eu/en/noyb-files-gdpr-complaint-against-meta-over-pay-or-okay)
+- [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
+- [U.N. Predicts Disaster If Global Warming Not Checked &lpar;1989&rpar;](https://web.archive.org/web/20201101032435/https://apnews.com/article/bd45c372caf118ec99964ea547880cd0)
 - [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
-- [Semaglutide treatment associated with high reduction in Alcohol Use Disorder](https://www.eurekalert.org/news-releases/1009292)
-- [That time Verisign typo-squatted all of .com and .net](http://rachelbythebay.com/w/2023/11/27/sitefinder/)
-- [Antirez&#39; tiny JSON selector library](https://notes.billmill.org/link_blog/2023/11/antirez__tiny_JSON_selector_library.html)
-- [San Francisco Blows Housing Deadline, Prompting Standoff with State Regulators](https://sfstandard.com/2023/11/27/san-francisco-blows-state-housing-deadline-constraints-reduction-ordinance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
