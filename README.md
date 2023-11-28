@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How We Made That App: Episode 1 - Stan Girard, Founder, Quivr](https://www.youtube.com/watch?v=NVJrUcKYTSc)
 - [BUILD at SingleStore](https://www.youtube.com/watch?v=CH51uQsdKQA)
 - [Did OpenAI&#39;s Dev Day Announcement Kill Vector-only Databases?](https://www.youtube.com/watch?v=XHibg_OXEPY)
 - [CBS Innovators &amp; Disruptors: Harnessing the Power of Real-Time AI](https://www.youtube.com/watch?v=6bQJAAS-CJ4)
 - [English is the new SQL with SingleStore&#39;s ChatGPT plugin](https://www.youtube.com/watch?v=rSzWlE5vDrQ)
-- [How We Made That App - Trailer](https://www.youtube.com/watch?v=1DXyukzuc64)
 <!-- YOUTUBE:END -->
 
 
