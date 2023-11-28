@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shortbread.ai &lpar;YC W23&rpar; is hiring a founding engineer to build AI comics creation](https://www.workatastartup.com/jobs/61541)
+- [Sunspots could send a solar storm our way as early as Saturday](https://www.businessinsider.com/sunspots-15-times-size-of-earth-solar-storm-into-view-2023-11)
+- [Relational Deep Learning: Graph Representation Learning on Relational Databases [pdf]](https://relbench.stanford.edu/paper.pdf)
+- [Amazon Aurora Limitless Database](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-aurora-limitless-database/)
 - [Nvidia&#39;s earnings are up 206% from last year as it continues riding the AI wave](https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/)
-- [Google&#39;s new geothermal energy project is up and running](https://www.theverge.com/2023/11/28/23972940/google-data-center-geothermal-energy)
-- [How to Read a Paper [pdf]](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
-- [Keras 3.0](https://keras.io/keras_3/)
-- [Hackers spent 2 years looting secrets of chipmaker NXP before being detected](https://arstechnica.com/security/2023/11/hackers-spent-2-years-looting-secrets-of-chipmaker-nxp-before-being-detected/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
