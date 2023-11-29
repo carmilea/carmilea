@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s All Bullshit: Performing Productivity at Google](https://thebaffler.com/latest/its-all-bullshit-tan)
+- [Americans Are Pulling Cash from Their Retirement Savings to Pay Bills](https://www.bloomberg.com/news/articles/2023-11-20/consumers-pull-cash-from-retirement-accounts-amid-budget-stress)
 - [Shopify Ruby on Rails distributed monolith runs 19M queries per second on MySQL](https://twitter.com/ShopifyEng/status/1729500623773573265)
 - [Okta Says Hackers Stole Data for All Customer Support Users](https://www.bloomberg.com/news/articles/2023-11-29/okta-says-hackers-stole-data-for-all-customer-support-users)
 - [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
