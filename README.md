@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An ex-Googler&#39;s guide to dev tools](https://sourcegraph.com/blog/ex-googler-guide-dev-tools)
 - [Americans Are Pulling Cash from Their Retirement Savings to Pay Bills](https://www.bloomberg.com/news/articles/2023-11-20/consumers-pull-cash-from-retirement-accounts-amid-budget-stress)
 - [Shopify Ruby on Rails distributed monolith runs 19M queries per second on MySQL](https://twitter.com/ShopifyEng/status/1729500623773573265)
 - [Okta Says Hackers Stole Data for All Customer Support Users](https://www.bloomberg.com/news/articles/2023-11-29/okta-says-hackers-stole-data-for-all-customer-support-users)
-- [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
-- [Cyberattack – November 2023](https://www.blender.org/news/cyberattack-november-2023/)
+- [Massachusetts becomes fifth state to make prison calls free](https://www.wgbh.org/news/local/2023-11-17/massachusetts-becomes-fifth-state-in-nation-to-make-prison-calls-free)
 <!-- BLOG-POST-LIST:END -->
 
 ---
