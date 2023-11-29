@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Tolkien&#39;s Letters](https://www.tolkienguide.com/guide/letters/)
 - [Meta sued by privacy group over pay up or click OK model](https://www.theregister.com/2023/11/28/metas_eu_privacy_fee_triggers/)
-- [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
 - [Paperless-Ngx v2.0.0](https://github.com/paperless-ngx/paperless-ngx/releases/tag/v2.0.0)
 - [Convictional &lpar;YC W19&rpar; Is Hiring](https://jobs.ashbyhq.com/convictional/e96f8d12-906d-4bfb-8d87-08017ae5cc91)
-- [Show HN: GPT4 Vision for the Meta Glasses](https://github.com/dcrebbin/meta-vision-api)
+- [Dobb·E: An open-source framework for learning household robotic manipulation](https://dobb-e.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
