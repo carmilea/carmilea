@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Who makes the most reliable new cars?](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/)
+- [Write shaders for the &lpar;sim&rpar; Vegas sphere](https://whenistheweekend.com/theSphere.html)
 - [Together AI raises a $102.5M Series A](https://www.together.ai/blog/series-a)
 - [Show HN: Custom GPTs for Developers](https://chat.openai.com/g/g-91MAzeHrG-tsdoc-generator)
 - [Visualizing Pokémon Red and Blue Connections &lpar;2020&rpar;](http://peterhajas.com/blog/pokemon_rb_connections.html)
