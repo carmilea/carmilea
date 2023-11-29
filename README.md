@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple censors Robert De Niro&#39;s Gotham awards speech](https://variety.com/2023/film/news/robert-de-niro-apple-censors-trump-criticism-gotham-speech-1235810832/)
+- [QuestDB &lpar;YC S20&rpar; Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
+- [Graph Networks for Materials Exploration &lpar;GNoME&rpar;](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
 - [Show HN: Resume Matcher – An open source, free tool to improve your resume](https://github.com/srbhr/Resume-Matcher)
 - [Rolls-Royce calls off bets on electric planes, says low-carbon fuel is future](https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/)
-- [Oral History of Robert P. Colwell – Chief Architect for Intel&#39;s IA32 [pdf]](https://www.sigmicro.org/media/oralhistories/colwell.pdf)
-- [MusicXML](https://www.musicxml.com/)
-- [Show HN: Error return traces for Go, inspired by Zig](https://github.com/bracesdev/errtrace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
