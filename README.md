@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Okta Says Hackers Stole Data for All Customer Support Users](https://www.bloomberg.com/news/articles/2023-11-29/okta-says-hackers-stole-data-for-all-customer-support-users)
+- [Do You Still Have the Right to a Jury Trial?](https://reason.com/2023/11/28/do-you-still-have-the-right-to-a-jury-trial/)
+- [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
 - [Cyberattack – November 2023](https://www.blender.org/news/cyberattack-november-2023/)
 - [ONNX Model Zoo Hosted on GitHub](https://github.com/xetdata/onnx-models)
-- [Housing Costs Are So High That Divorced Couples Are Still Living Together](https://www.wsj.com/personal-finance/they-want-to-split-up-the-housing-market-wont-let-them-bafd67f0)
-- [Unity Software to cut 3.8% of staff in &#39;company reset&#39;](https://www.reuters.com/technology/unity-software-cut-38-staff-company-reset-2023-11-28/)
-- [My $500M Mars rover mistake](https://www.chrislewicki.com/articles/failurestory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
