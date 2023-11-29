@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Pulls Plug on Goldman Credit-Card Partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45)
-- [Unity Software to cut 3.8% of staff in &#39;company reset&#39;](https://www.aol.com/unity-software-cut-3-8-221242432.html)
-- [Nobody wants U.S. Treasury bonds](https://www.semafor.com/article/11/28/2023/nobody-wants-us-treasury-bonds)
-- [Shutting down the Matrix bridge to Libera Chat](https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/)
-- [The Case for Never Reading the Book Jacket](https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/)
+- [Blender Cyberattack November 2023](https://www.blender.org/news/cyberattack-november-2023/)
+- [Housing Costs Are So High That Divorced Couples Are Still Living Together](https://www.wsj.com/personal-finance/they-want-to-split-up-the-housing-market-wont-let-them-bafd67f0)
+- [How scientists are trying to save the insects that make life possible](https://www.npr.org/2023/11/28/1215513285/how-scientists-are-trying-to-save-the-insects-that-make-life-possible)
+- [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
+- [Apple pulls plug on Goldman credit-card partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45)
 <!-- BLOG-POST-LIST:END -->
 
 ---
