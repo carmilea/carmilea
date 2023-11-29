@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s All Bullshit: Performing Productivity at Google](https://thebaffler.com/latest/its-all-bullshit-tan)
+- [Shopify Ruby on Rails distributed monolith runs 19M queries per second on MySQL](https://twitter.com/ShopifyEng/status/1729500623773573265)
 - [Okta Says Hackers Stole Data for All Customer Support Users](https://www.bloomberg.com/news/articles/2023-11-29/okta-says-hackers-stole-data-for-all-customer-support-users)
-- [Do You Still Have the Right to a Jury Trial?](https://reason.com/2023/11/28/do-you-still-have-the-right-to-a-jury-trial/)
 - [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
 - [Cyberattack – November 2023](https://www.blender.org/news/cyberattack-november-2023/)
-- [ONNX Model Zoo Hosted on GitHub](https://github.com/xetdata/onnx-models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
