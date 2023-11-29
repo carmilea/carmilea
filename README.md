@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blender Cyberattack November 2023](https://www.blender.org/news/cyberattack-november-2023/)
+- [Cyberattack – November 2023](https://www.blender.org/news/cyberattack-november-2023/)
+- [ONNX Model Zoo Hosted on GitHub](https://github.com/xetdata/onnx-models)
 - [Housing Costs Are So High That Divorced Couples Are Still Living Together](https://www.wsj.com/personal-finance/they-want-to-split-up-the-housing-market-wont-let-them-bafd67f0)
-- [How scientists are trying to save the insects that make life possible](https://www.npr.org/2023/11/28/1215513285/how-scientists-are-trying-to-save-the-insects-that-make-life-possible)
-- [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
-- [Apple pulls plug on Goldman credit-card partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45)
+- [Unity Software to cut 3.8% of staff in &#39;company reset&#39;](https://www.reuters.com/technology/unity-software-cut-38-staff-company-reset-2023-11-28/)
+- [My $500M Mars rover mistake](https://www.chrislewicki.com/articles/failurestory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
