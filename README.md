@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Q* – Clues to the Puzzle? [video]](https://www.youtube.com/watch?v=ARf0WyFau0A)
 - [Guide to Tolkien&#39;s Letters](https://www.tolkienguide.com/guide/letters/)
+- [Oral History of Robert P. Colwell – Chief Architect for Intel&#39;s IA32 [pdf]](https://www.sigmicro.org/media/oralhistories/colwell.pdf)
+- [MusicXML](https://www.musicxml.com/)
 - [Meta sued by privacy group over pay up or click OK model](https://www.theregister.com/2023/11/28/metas_eu_privacy_fee_triggers/)
-- [Paperless-Ngx v2.0.0](https://github.com/paperless-ngx/paperless-ngx/releases/tag/v2.0.0)
-- [Convictional &lpar;YC W19&rpar; Is Hiring](https://jobs.ashbyhq.com/convictional/e96f8d12-906d-4bfb-8d87-08017ae5cc91)
-- [Dobb·E: An open-source framework for learning household robotic manipulation](https://dobb-e.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
