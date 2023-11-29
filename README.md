@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Backlash over fake female speakers shuts down developer conference](https://arstechnica.com/tech-policy/2023/11/backlash-over-fake-female-speakers-shuts-down-developer-conference/)
-- [Freetar – an alternative front end for ultimate-guitar.com](https://github.com/kmille/freetar)
-- [One of the greatest user interface disasters in history](https://octodon.social/@jalefkowit/111490485825183949)
-- [PgAdmin 4 v8.0](https://www.pgadmin.org/news/#92)
-- [Language and Poverty](https://www.sil.org/blog/language-and-poverty)
+- [Paperless-Ngx v2.0.0](https://github.com/paperless-ngx/paperless-ngx/releases/tag/v2.0.0)
+- [Convictional &lpar;YC W19&rpar; Is Hiring](https://jobs.ashbyhq.com/convictional/e96f8d12-906d-4bfb-8d87-08017ae5cc91)
+- [Architecture Antipatterns](https://architecture-antipatterns.tech/)
+- [Show HN: GPT4 Vision for the Meta Glasses](https://github.com/dcrebbin/meta-vision-api)
+- [Open source email pioneer Roundcube joins the Nextcloud family](https://nextcloud.com/blog/open-source-email-pioneer-roundcube-comes-aboard-nextcloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
