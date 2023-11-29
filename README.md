@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Backlash over fake female speakers shuts down developer conference](https://arstechnica.com/tech-policy/2023/11/backlash-over-fake-female-speakers-shuts-down-developer-conference/)
+- [Freetar – an alternative front end for ultimate-guitar.com](https://github.com/kmille/freetar)
 - [One of the greatest user interface disasters in history](https://octodon.social/@jalefkowit/111490485825183949)
 - [PgAdmin 4 v8.0](https://www.pgadmin.org/news/#92)
 - [Language and Poverty](https://www.sil.org/blog/language-and-poverty)
-- [A rural post office was told to prioritize Amazon packages. Chaos ensued](https://www.washingtonpost.com/technology/2023/11/28/amazon-missed-mail-rural-towns/)
-- [Show HN: Python-Type-Challenges, master Python typing with online exercises](https://python-type-challenges.zeabur.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
