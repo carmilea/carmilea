@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta sued by privacy group over pay up or click OK model](https://www.theregister.com/2023/11/28/metas_eu_privacy_fee_triggers/)
+- [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
 - [Paperless-Ngx v2.0.0](https://github.com/paperless-ngx/paperless-ngx/releases/tag/v2.0.0)
 - [Convictional &lpar;YC W19&rpar; Is Hiring](https://jobs.ashbyhq.com/convictional/e96f8d12-906d-4bfb-8d87-08017ae5cc91)
-- [Architecture Antipatterns](https://architecture-antipatterns.tech/)
 - [Show HN: GPT4 Vision for the Meta Glasses](https://github.com/dcrebbin/meta-vision-api)
-- [Open source email pioneer Roundcube joins the Nextcloud family](https://nextcloud.com/blog/open-source-email-pioneer-roundcube-comes-aboard-nextcloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
