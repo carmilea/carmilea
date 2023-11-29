@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Q* – Clues to the Puzzle? [video]](https://www.youtube.com/watch?v=ARf0WyFau0A)
-- [Guide to Tolkien&#39;s Letters](https://www.tolkienguide.com/guide/letters/)
+- [Show HN: Resume Matcher – An open source, free tool to improve your resume](https://github.com/srbhr/Resume-Matcher)
+- [Rolls-Royce calls off bets on electric planes, says low-carbon fuel is future](https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/)
 - [Oral History of Robert P. Colwell – Chief Architect for Intel&#39;s IA32 [pdf]](https://www.sigmicro.org/media/oralhistories/colwell.pdf)
 - [MusicXML](https://www.musicxml.com/)
-- [Meta sued by privacy group over pay up or click OK model](https://www.theregister.com/2023/11/28/metas_eu_privacy_fee_triggers/)
+- [Show HN: Error return traces for Go, inspired by Zig](https://github.com/bracesdev/errtrace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
