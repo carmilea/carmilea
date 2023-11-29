@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Okta hackers stole data on all customer support users in major breach](https://sec.okta.com/harfiles/)
-- [Amazon exec: it&#39;s time to &#39;disagree and commit&#39; to office return despite no data](https://fortune.com/2023/08/03/amazon-svp-mike-hopkins-office-return/)
+- [Who makes the most reliable new cars?](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/)
+- [Together AI raises a $102.5M Series A](https://www.together.ai/blog/series-a)
+- [Show HN: Custom GPTs for Developers](https://chat.openai.com/g/g-91MAzeHrG-tsdoc-generator)
+- [Visualizing Pokémon Red and Blue Connections &lpar;2020&rpar;](http://peterhajas.com/blog/pokemon_rb_connections.html)
 - [What should I do if I suspect one of the journal reviews I got is AI-generated?](https://academia.stackexchange.com/questions/204370/what-should-i-do-if-i-suspect-one-of-the-journal-reviews-i-got-is-al-generated)
-- [NPMprune: Remove unnecessary files from node_modules to optimize storage](https://github.com/xthezealot/npmprune)
-- [QuestDB &lpar;YC S20&rpar; is hiring a core database engineer](https://questdb.io/careers/core-database-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
