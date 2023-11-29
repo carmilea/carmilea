@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An ex-Googler&#39;s guide to dev tools](https://sourcegraph.com/blog/ex-googler-guide-dev-tools)
-- [Americans Are Pulling Cash from Their Retirement Savings to Pay Bills](https://www.bloomberg.com/news/articles/2023-11-20/consumers-pull-cash-from-retirement-accounts-amid-budget-stress)
+- [A rural post office was told to prioritize Amazon packages. Chaos ensued](https://www.washingtonpost.com/technology/2023/11/28/amazon-missed-mail-rural-towns/)
+- [It&#39;s Still Funny That 1k People Gave Tesla $250k for a Roadster Six Years Ago](https://jalopnik.com/its-still-very-funny-that-1-000-people-gave-tesla-250-1851038764)
+- [Unity Software with a &#39;company reset&#39; walks away from film VFX and the Wētā Deal](https://www.fxguide.com/quicktakes/unity-software-with-a-company-reset-walks-away-from-film-vfx-and-the-weta-deal/)
+- [An ex-Googler&#39;s guide to dev tools &lpar;2020&rpar;](https://sourcegraph.com/blog/ex-googler-guide-dev-tools)
 - [Shopify Ruby on Rails distributed monolith runs 19M queries per second on MySQL](https://twitter.com/ShopifyEng/status/1729500623773573265)
-- [Okta Says Hackers Stole Data for All Customer Support Users](https://www.bloomberg.com/news/articles/2023-11-29/okta-says-hackers-stole-data-for-all-customer-support-users)
-- [Massachusetts becomes fifth state to make prison calls free](https://www.wgbh.org/news/local/2023-11-17/massachusetts-becomes-fifth-state-in-nation-to-make-prison-calls-free)
 <!-- BLOG-POST-LIST:END -->
 
 ---
