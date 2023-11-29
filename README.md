@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One of the greatest user interface disasters in history](https://octodon.social/@jalefkowit/111490485825183949)
 - [PgAdmin 4 v8.0](https://www.pgadmin.org/news/#92)
-- [The Washington Post Will Pause Its Advertising on X](https://www.washingtonian.com/2023/11/28/the-washington-post-will-pause-its-advertising-on-x/)
+- [Language and Poverty](https://www.sil.org/blog/language-and-poverty)
 - [A rural post office was told to prioritize Amazon packages. Chaos ensued](https://www.washingtonpost.com/technology/2023/11/28/amazon-missed-mail-rural-towns/)
-- [BBC Basic returns on multiple platforms, open sourced](https://www.bbcbasic.co.uk/bbcsdl/index.html)
-- [Unity Software with a &#39;company reset&#39; walks away from film VFX and the Wētā Deal](https://www.fxguide.com/quicktakes/unity-software-with-a-company-reset-walks-away-from-film-vfx-and-the-weta-deal/)
+- [Show HN: Python-Type-Challenges, master Python typing with online exercises](https://python-type-challenges.zeabur.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
