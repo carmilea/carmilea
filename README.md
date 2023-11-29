@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Show HN: Oasis – A Repository of Project Ideas](https://oasis-of-ideas.github.io/)
+- [Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth](https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth)
+- [Jerry &lpar;YC S17&rpar; Is Hiring VP Product &lpar;&amp; Other Engineer and PM Roles&rpar;](https://jobs.ashbyhq.com/Jerry/921d3846-04e1-4430-a515-b91192a4993c)
 - [The Unix-Haters Handbook &lpar;1994&rpar; [pdf]](https://web.mit.edu/~simsong/www/ugh.pdf)
 - [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
-- [Reddit Sans](https://github.com/reddit/redditsans)
+- [Write shaders for the &lpar;sim&rpar; Vegas sphere](https://whenistheweekend.com/theSphere.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
