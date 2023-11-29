@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Write shaders for the &lpar;sim&rpar; Vegas sphere](https://whenistheweekend.com/theSphere.html)
-- [Together AI raises a $102.5M Series A](https://www.together.ai/blog/series-a)
-- [Show HN: Custom GPTs for Developers](https://chat.openai.com/g/g-91MAzeHrG-tsdoc-generator)
-- [Visualizing Pokémon Red and Blue Connections &lpar;2020&rpar;](http://peterhajas.com/blog/pokemon_rb_connections.html)
-- [What should I do if I suspect one of the journal reviews I got is AI-generated?](https://academia.stackexchange.com/questions/204370/what-should-i-do-if-i-suspect-one-of-the-journal-reviews-i-got-is-al-generated)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Show HN: Oasis – A Repository of Project Ideas](https://oasis-of-ideas.github.io/)
+- [The Unix-Haters Handbook &lpar;1994&rpar; [pdf]](https://web.mit.edu/~simsong/www/ugh.pdf)
+- [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
+- [Reddit Sans](https://github.com/reddit/redditsans)
 <!-- BLOG-POST-LIST:END -->
 
 ---
