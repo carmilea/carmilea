@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple censors Robert De Niro&#39;s Gotham awards speech](https://variety.com/2023/film/news/robert-de-niro-apple-censors-trump-criticism-gotham-speech-1235810832/)
-- [QuestDB &lpar;YC S20&rpar; Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
-- [Graph Networks for Materials Exploration &lpar;GNoME&rpar;](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
-- [Show HN: Resume Matcher – An open source, free tool to improve your resume](https://github.com/srbhr/Resume-Matcher)
-- [Rolls-Royce calls off bets on electric planes, says low-carbon fuel is future](https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/)
+- [Okta hackers stole data on all customer support users in major breach](https://sec.okta.com/harfiles/)
+- [Amazon exec: it&#39;s time to &#39;disagree and commit&#39; to office return despite no data](https://fortune.com/2023/08/03/amazon-svp-mike-hopkins-office-return/)
+- [What should I do if I suspect one of the journal reviews I got is AI-generated?](https://academia.stackexchange.com/questions/204370/what-should-i-do-if-i-suspect-one-of-the-journal-reviews-i-got-is-al-generated)
+- [NPMprune: Remove unnecessary files from node_modules to optimize storage](https://github.com/xthezealot/npmprune)
+- [QuestDB &lpar;YC S20&rpar; is hiring a core database engineer](https://questdb.io/careers/core-database-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
