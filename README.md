@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. GDP Grew at a 5.2% Rate in the Third Quarter, Even Stronger Than Indicated](https://www.cnbc.com/2023/11/29/us-gdp-grew-at-a-5point2percent-rate-in-the-third-quarter-even-stronger-than-first-indicated.html)
 - [Henry Kissinger Has Died](https://www.bbc.com/news/world-us-canada-67574495)
 - [Sam Altman returns as CEO, OpenAI has a new initial board](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
 - [Understanding rapid tendon regeneration in newts may one day help human athletes](https://bioengineer.org/understanding-rapid-tendon-regeneration-in-newts-may-one-day-help-human-athletes/)
 - [Ballerburg SDL – Play classical castle combat game from 1987 in the browser](https://baller.tuxfamily.org/online/)
-- [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
