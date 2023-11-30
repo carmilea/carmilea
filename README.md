@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Interview: Sam Altman on being fired and rehired by OpenAI](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired)
-- [U.S. GDP Grew at a 5.2% Rate in the Third Quarter, Even Stronger Than Indicated](https://www.cnbc.com/2023/11/29/us-gdp-grew-at-a-5point2percent-rate-in-the-third-quarter-even-stronger-than-first-indicated.html)
 - [Losing Metaphors: Zip and Paste](https://www.jefftk.com/p/losing-metaphors-zip-and-paste)
-- [Henry Kissinger Has Died](https://www.bbc.com/news/world-us-canada-67574495)
+- [Henry Kissinger Has Died](https://www.nytimes.com/2023/11/29/us/henry-kissinger-dead.html)
 - [Sam Altman returns as CEO, OpenAI has a new initial board](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
+- [Ballerburg SDL – Play classical castle combat game from 1987 in the browser](https://baller.tuxfamily.org/online/)
+- [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
