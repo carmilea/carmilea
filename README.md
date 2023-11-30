@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple and Google avoid naming ChatGPT as their &#39;app of the year&#39;](https://techcrunch.com/2023/11/29/apple-and-google-avoid-naming-chatgpt-as-their-app-of-the-year-picking-alltrails-and-imprint-instead/)
-- [Interview: Sam Altman on Being Fired and Rehired by OpenAI](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired)
+- [Show HN: Taipy – Turns Data and AI algorithms into full web applications](https://github.com/Avaiga/taipy)
+- [Saving CO2 using location and time shifting in Azure](https://devblogs.microsoft.com/ise/2023/11/09/saving-co2-using-location-and-time-shifting-in-azure/)
 - [Let&#39;s Not Flip Sides on IP Maximalism Because of AI](https://www.techdirt.com/2023/11/29/lets-not-flip-sides-on-ip-maximalism-because-of-ai/)
 - [Forbes built hall of shame for the questionable people on its 30 Under 30 lists](https://www.businessinsider.com/forbes-hall-shame-30-under-30-lists-regrets-sbf-ftx-2023-11)
 - [Edmunds EV Charging Test: How fast does each EV charge?](https://www.edmunds.com/car-news/electric-car-charging.html)
