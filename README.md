@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
 - [Brickception](https://brickception.xyz/)
-- [Show HN: Repeater – A tool which repeats CLI commands](https://github.com/baalimago/repeater)
 - [Losing Metaphors: Zip and Paste](https://www.jefftk.com/p/losing-metaphors-zip-and-paste)
-- [Henry Kissinger Has Died](https://www.nytimes.com/2023/11/29/us/henry-kissinger-dead.html)
+- [On Pneumatic Tires](https://www.scopeofwork.net/on-pneumatic-tires/)
+- [Sam Altman returns as CEO, OpenAI has a new initial board](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
 <!-- BLOG-POST-LIST:END -->
 
 ---
