@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Joon &lpar;YC W22&rpar; Is Hiring a Founder Growth Hacker](https://www.ycombinator.com/companies/joon/jobs/sKzkrxO-founding-growth-manager)
-- [Vim universe: fzf – command line fuzzy finder &lpar;2019&rpar; [video]](https://www.youtube.com/watch?v=qgG5Jhi_Els)
-- [Life Lessons from a 44 Year Old &lpar;2022&rpar;](https://www.anniemacmanus.com//articles/life-lessons-from-a-44-year-old)
-- [Telegram now has a recommendation system](https://telegram.org/blog/similar-channels)
-- [Stanisław Lem&#39;s Prescient Vision of Artificial Life](https://thereader.mitpress.mit.edu/stanislaw-lems-prescient-vision-of-artificial-life/)
+- [Storybook 7.6 Is Here](https://storybook.js.org/blog/storybook-7-6/)
+- [Is anyone using self hosted LLM day to day and training it like a new employee](https://news.ycombinator.com/item?id=38476038)
+- [Proposal on implementing permanent time zones in the European Union](https://timeuse.barcelona/projects/permanent-time-zones-eu/)
+- [How to ripen and store avocados](https://www.seriouseats.com/how-to-ripen-avocados-7377071)
+- [Google to pay Canada&#39;s &quot;link tax,&quot; drops threat of removing news from search](https://arstechnica.com/tech-policy/2023/11/google-to-pay-canadas-link-tax-drops-threat-of-removing-news-from-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
