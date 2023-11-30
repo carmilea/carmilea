@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lenovo: &quot;Best Minecraft House Ideas&quot;](https://www.lenovo.com/us/en/glossary/best-minecraft-house-ideas/)
-- [The University of California has all but dropped carbon offsets](https://www.technologyreview.com/2023/11/30/1084104/the-university-of-california-has-all-but-dropped-carbon-offsets-and-thinks-you-should-too/)
+- [Large language models lack deep insights or a theory of mind](https://arxiv.org/abs/2311.16093)
+- [Astronomers find six planets orbiting in resonance](https://www.astronomy.com/science/astronomers-find-six-planets-orbiting-in-resonance/)
+- [Proxmox VE Helper-Scripts – Scripts for Streamlining Your Homelab with Proxmox](https://tteck.github.io/Proxmox/)
 - [Yabai – A tiling window manager for macOS](https://github.com/koekeishiya/yabai)
-- [AI and the Rise of Mediocrity](https://time.com/6337835/ai-mediocrity-essay/)
-- [Edbrowse, a Command Line Editor Browser](https://edbrowse.org)
+- [Stable Diffusion XL Turbo can generate AI images as fast as you can type](https://arstechnica.com/information-technology/2023/11/stable-diffusion-turbo-xl-accelerates-image-synthesis-with-one-step-generation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
