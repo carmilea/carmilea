@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visual Anagrams: Generating Optical Illusions with Diffusion Models](https://dangeng.github.io/visual_anagrams/)
+- [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
+- [The weirdest bug I&#39;ve seen yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
+- [You do need a technical co-founder](https://www.ycombinator.com/blog/why-you-really-do-need-a-technical-co-founder/)
 - [Storybook 7.6 Is Here](https://storybook.js.org/blog/storybook-7-6/)
-- [Is anyone using self hosted LLM day to day and training it like a new employee](https://news.ycombinator.com/item?id=38476038)
-- [Proposal on implementing permanent time zones in the European Union](https://timeuse.barcelona/projects/permanent-time-zones-eu/)
-- [How to ripen and store avocados](https://www.seriouseats.com/how-to-ripen-avocados-7377071)
-- [Google to pay Canada&#39;s &quot;link tax,&quot; drops threat of removing news from search](https://arstechnica.com/tech-policy/2023/11/google-to-pay-canadas-link-tax-drops-threat-of-removing-news-from-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
