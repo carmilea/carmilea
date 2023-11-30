@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
-- [Africa Does Not Exist](https://www.rintrah.nl/africa-does-not-exist/)
-- [eBPF – Introduction, Tutorials and Community Resources](https://ebpf.io/)
+- [Don&#39;t Design Your Emails &lpar;2016&rpar;](https://www.gkogan.co/blog/dont-design-emails/)
 - [Retro.directory](http://retro.directory/)
 - [Firefox Developer Edition and Beta: Try Out Mozilla&#39;s .deb Package](https://hacks.mozilla.org/2023/11/firefox-developer-edition-and-beta-try-out-mozillas-deb-package/)
+- [Neil Gaiman on the future of the internet](https://calnewport.com/neil-gaimans-radical-vision-for-the-future-of-the-internet/)
+- [How I made Bomb Rush Cyberfunk multiplayer](https://notnite.com/blog/slop-crew)
 <!-- BLOG-POST-LIST:END -->
 
 ---
