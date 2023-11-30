@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [AWS Reinvent 2023 - The Ravit Show - Takashi Binns, Salesforce &lpar;Tableau&rpar;](https://www.youtube.com/watch?v=XlQtCYwlW5U)
 - [How We Made That App: Episode 1 - Developing Your Second Brain: How Quivr is Changing Data Storage](https://www.youtube.com/watch?v=NVJrUcKYTSc)
 - [BUILD at SingleStore](https://www.youtube.com/watch?v=CH51uQsdKQA)
 - [Did OpenAI&#39;s Dev Day Announcement Kill Vector-only Databases?](https://www.youtube.com/watch?v=XHibg_OXEPY)
 - [CBS Innovators &amp; Disruptors: Harnessing the Power of Real-Time AI](https://www.youtube.com/watch?v=6bQJAAS-CJ4)
-- [English is the new SQL with SingleStore&#39;s ChatGPT plugin](https://www.youtube.com/watch?v=rSzWlE5vDrQ)
 <!-- YOUTUBE:END -->
 
 
