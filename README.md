@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Taipy – Turns Data and AI algorithms into full web applications](https://github.com/Avaiga/taipy)
-- [Saving CO2 using location and time shifting in Azure](https://devblogs.microsoft.com/ise/2023/11/09/saving-co2-using-location-and-time-shifting-in-azure/)
-- [Let&#39;s Not Flip Sides on IP Maximalism Because of AI](https://www.techdirt.com/2023/11/29/lets-not-flip-sides-on-ip-maximalism-because-of-ai/)
-- [Forbes built hall of shame for the questionable people on its 30 Under 30 lists](https://www.businessinsider.com/forbes-hall-shame-30-under-30-lists-regrets-sbf-ftx-2023-11)
-- [Edmunds EV Charging Test: How fast does each EV charge?](https://www.edmunds.com/car-news/electric-car-charging.html)
+- [Lenovo: &quot;Best Minecraft House Ideas&quot;](https://www.lenovo.com/us/en/glossary/best-minecraft-house-ideas/)
+- [The University of California has all but dropped carbon offsets](https://www.technologyreview.com/2023/11/30/1084104/the-university-of-california-has-all-but-dropped-carbon-offsets-and-thinks-you-should-too/)
+- [Yabai – A tiling window manager for macOS](https://github.com/koekeishiya/yabai)
+- [AI and the Rise of Mediocrity](https://time.com/6337835/ai-mediocrity-essay/)
+- [Edbrowse, a Command Line Editor Browser](https://edbrowse.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
