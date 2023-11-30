@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Henry Kissinger Has Died](https://www.bbc.com/news/world-us-canada-67574495)
 - [Sam Altman returns as CEO, OpenAI has a new initial board](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
 - [Understanding rapid tendon regeneration in newts may one day help human athletes](https://bioengineer.org/understanding-rapid-tendon-regeneration-in-newts-may-one-day-help-human-athletes/)
 - [Ballerburg SDL – Play classical castle combat game from 1987 in the browser](https://baller.tuxfamily.org/online/)
 - [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
-- [Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth](https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
