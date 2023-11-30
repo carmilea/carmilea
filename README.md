@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Design Your Emails &lpar;2016&rpar;](https://www.gkogan.co/blog/dont-design-emails/)
+- [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
+- [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 - [Retro.directory](http://retro.directory/)
-- [Firefox Developer Edition and Beta: Try Out Mozilla&#39;s .deb Package](https://hacks.mozilla.org/2023/11/firefox-developer-edition-and-beta-try-out-mozillas-deb-package/)
-- [Neil Gaiman on the future of the internet](https://calnewport.com/neil-gaimans-radical-vision-for-the-future-of-the-internet/)
 - [How I made Bomb Rush Cyberfunk multiplayer](https://notnite.com/blog/slop-crew)
+- [Turbo Pascal Turns 40](https://blog.marcocantu.com/blog/2023-november-turbopascal40.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
