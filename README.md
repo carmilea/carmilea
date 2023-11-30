@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Evernote will restrict free users to 50 notes starting December 4](https://techcrunch.com/2023/11/29/its-official-evernote-will-restrict-free-users-to-50-notes/)
-- [Unity announces updates to it&#39;s web runtime support](https://blog.unity.com/engine-platform/web-runtime-updates-enhance-browser-experience)
-- [Chicken Hypnotism](https://en.wikipedia.org/wiki/Chicken_hypnotism)
-- [Visual Anagrams: Generating Optical Illusions with Diffusion Models](https://dangeng.github.io/visual_anagrams/)
-- [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
+- [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
+- [Africa Does Not Exist](https://www.rintrah.nl/africa-does-not-exist/)
+- [eBPF – Introduction, Tutorials and Community Resources](https://ebpf.io/)
+- [Retro.directory](http://retro.directory/)
+- [Firefox Developer Edition and Beta: Try Out Mozilla&#39;s .deb Package](https://hacks.mozilla.org/2023/11/firefox-developer-edition-and-beta-try-out-mozillas-deb-package/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
