@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CSAR: European Parliament rejects mass scanning of private messages](https://edri.org/our-work/csar-european-parliament-rejects-mass-scanning-of-private-messages/)
-- [Can Generalist Foundation Models Beat Special-Purpose Tuning?Medicine Case Study](https://arxiv.org/abs/2311.16452)
-- [In OpenZFS and Btrfs, everyone was just guessing](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue/page2)
-- [Ripgrep is faster than grep, ag, Git grep, ucg, pt, sift &lpar;2016&rpar;](https://blog.burntsushi.net/ripgrep/)
-- [I worked in Amazon HR and was disgusted at what I was seeing with PIP plans](https://www.businessinsider.com/amazon-hr-performance-improvement-plans-pip-pivot-had-to-quit-2023-11)
+- [Apple and Google avoid naming ChatGPT as their &#39;app of the year&#39;](https://techcrunch.com/2023/11/29/apple-and-google-avoid-naming-chatgpt-as-their-app-of-the-year-picking-alltrails-and-imprint-instead/)
+- [Interview: Sam Altman on Being Fired and Rehired by OpenAI](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired)
+- [Let&#39;s Not Flip Sides on IP Maximalism Because of AI](https://www.techdirt.com/2023/11/29/lets-not-flip-sides-on-ip-maximalism-because-of-ai/)
+- [Forbes built hall of shame for the questionable people on its 30 Under 30 lists](https://www.businessinsider.com/forbes-hall-shame-30-under-30-lists-regrets-sbf-ftx-2023-11)
+- [Edmunds EV Charging Test: How fast does each EV charge?](https://www.edmunds.com/car-news/electric-car-charging.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
