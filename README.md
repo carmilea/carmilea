@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Large language models lack deep insights or a theory of mind](https://arxiv.org/abs/2311.16093)
-- [Astronomers find six planets orbiting in resonance](https://www.astronomy.com/science/astronomers-find-six-planets-orbiting-in-resonance/)
-- [Proxmox VE Helper-Scripts – Scripts for Streamlining Your Homelab with Proxmox](https://tteck.github.io/Proxmox/)
-- [Yabai – A tiling window manager for macOS](https://github.com/koekeishiya/yabai)
-- [Stable Diffusion XL Turbo can generate AI images as fast as you can type](https://arstechnica.com/information-technology/2023/11/stable-diffusion-turbo-xl-accelerates-image-synthesis-with-one-step-generation/)
+- [Joon &lpar;YC W22&rpar; Is Hiring a Founder Growth Hacker](https://www.ycombinator.com/companies/joon/jobs/sKzkrxO-founding-growth-manager)
+- [Vim universe: fzf – command line fuzzy finder &lpar;2019&rpar; [video]](https://www.youtube.com/watch?v=qgG5Jhi_Els)
+- [Life Lessons from a 44 Year Old &lpar;2022&rpar;](https://www.anniemacmanus.com//articles/life-lessons-from-a-44-year-old)
+- [Telegram now has a recommendation system](https://telegram.org/blog/similar-channels)
+- [Stanisław Lem&#39;s Prescient Vision of Artificial Life](https://thereader.mitpress.mit.edu/stanislaw-lems-prescient-vision-of-artificial-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
