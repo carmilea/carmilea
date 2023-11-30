@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
+- [CSAR: European Parliament rejects mass scanning of private messages](https://edri.org/our-work/csar-european-parliament-rejects-mass-scanning-of-private-messages/)
+- [Can Generalist Foundation Models Beat Special-Purpose Tuning?Medicine Case Study](https://arxiv.org/abs/2311.16452)
+- [In OpenZFS and Btrfs, everyone was just guessing](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue/page2)
+- [Ripgrep is faster than grep, ag, Git grep, ucg, pt, sift &lpar;2016&rpar;](https://blog.burntsushi.net/ripgrep/)
 - [I worked in Amazon HR and was disgusted at what I was seeing with PIP plans](https://www.businessinsider.com/amazon-hr-performance-improvement-plans-pip-pivot-had-to-quit-2023-11)
-- [XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
-- [Brickception](https://brickception.xyz/)
-- [Adobe&#39;s buy of Figma is &#39;likely&#39; bad for developers, rules UK regulator](https://www.theregister.com/2023/11/29/adobes_buy_of_figma_is/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
