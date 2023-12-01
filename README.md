@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How China is tearing down Islam – FT](http://webcache.googleusercontent.com/search?q=cache:https://ig.ft.com/china-mosques/)
+- [Ask HN: Who is hiring? &lpar;December 2023&rpar;](https://news.ycombinator.com/item?id=38490811)
+- [Cloudflare Gen 12 Server: Bigger, Better, Cooler in a 2U1N Form Factor](https://blog.cloudflare.com/cloudflare-gen-12-server-bigger-better-cooler-in-a-2u1n-form-factor/)
+- [Show HN: Unofficial YouTube Wrapped 2023, see top creators and watching habits](https://videorecap.viewodyssey.com/)
+- [Llamafile is the new best way to run a LLM on your own computer](http://simonwillison.net/2023/Nov/29/llamafile/#atom-everything)
 - [Should you split that file?](https://www.pathsensitive.com/2023/12/should-you-split-that-file.html)
-- [500 Highest Paying Tech Companies &lpar;Dec 2023&rpar;](https://github.com/miketromba/highest-paying-software-companies)
-- [Billionaires amass more through inheritance than wealth creation, says UBS](https://www.ft.com/content/3944234e-e3b4-46fa-8c2f-cadec780ecb4)
-- [SQLSync – Stop Building Databases](https://sqlsync.dev/posts/stop-building-databases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
