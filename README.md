@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exactly How Much Life Is on Earth?](https://www.nytimes.com/2023/12/01/science/space/earth-biology-life.html)
+- [As We May Toast](https://kevinlynagh.com/newsletter/2023_04_as_we_may_toast/)
 - [Penguin survives on 4-second microsleeps – times a day](https://www.nature.com/articles/d41586-023-03751-7)
 - [RavynOS Finesse of macOS. Freedom of FreeBSD](https://ravynos.com/)
 - [My insulin pump controller has a bug](https://twitter.com/morganherlocker/status/1730455721815527429)
-- [10 Weird HTML Hacks That Shaped the Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
-- [99 Years of Charlie Munger Wisdom in 44 Minutes [video]](https://www.youtube.com/watch?v=ySErrOs093o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
