@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Penguin survives on 4-second microsleeps – times a day](https://www.nature.com/articles/d41586-023-03751-7)
+- [RavynOS Finesse of macOS. Freedom of FreeBSD](https://ravynos.com/)
+- [My insulin pump controller has a bug](https://twitter.com/morganherlocker/status/1730455721815527429)
 - [10 Weird HTML Hacks That Shaped the Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
 - [99 Years of Charlie Munger Wisdom in 44 Minutes [video]](https://www.youtube.com/watch?v=ySErrOs093o)
-- [Federal judge blocks Montana&#39;s TikTok ban before it takes effect](https://www.npr.org/2023/11/30/1205735647/montana-tiktok-ban-blocked-state)
-- [Segment Anything Model &lpar;Sam&rpar; Visualized](https://flowforward.simple.ink/)
-- [Show HN: Australian Acoustic Observatory Search](https://search.acousticobservatory.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
