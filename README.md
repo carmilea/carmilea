@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Australian Acoustic Observatory Search](https://search.acousticobservatory.org/)
+- [The Stroad](https://www.strongtowns.org/journal/2017/10/30/the-stroad)
 - [Anduril announces Roadrunner, jet-powered VTOL drone](https://www.anduril.com/roadrunner/)
 - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 - [How to pick more beautiful colors for your data visualizations &lpar;2020&rpar;](https://blog.datawrapper.de/beautifulcolors/)
-- [A reality bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
