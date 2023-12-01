@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Who is hiring? &lpar;December 2023&rpar;](https://news.ycombinator.com/item?id=38490811)
-- [Cloudflare Gen 12 Server: Bigger, Better, Cooler in a 2U1N Form Factor](https://blog.cloudflare.com/cloudflare-gen-12-server-bigger-better-cooler-in-a-2u1n-form-factor/)
-- [Show HN: Unofficial YouTube Wrapped 2023, see top creators and watching habits](https://videorecap.viewodyssey.com/)
-- [Llamafile is the new best way to run a LLM on your own computer](http://simonwillison.net/2023/Nov/29/llamafile/#atom-everything)
-- [Should you split that file?](https://www.pathsensitive.com/2023/12/should-you-split-that-file.html)
+- [Why Americans&#39; &#39;YOLO&#39; spending spree baffles economists](https://www.bbc.com/worklife/article/20231130-why-americans-yolo-spending-attitude-baffles-economists)
+- [Three American Climbers Solve the &#39;Last Great Problem in the Himalayas&#39;](https://www.nytimes.com/2023/12/01/us/climbing-jannu-north-face.html)
+- [What Is Retrieval-Augmented Generation a.k.a. RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
+- [Google Cloud causes another outage for customer that got ratelimited erroneously](https://twitter.com/gergelyorosz/status/1730648618401481019)
+- [Salad Fingers and the dawn of ‘weird YouTube’](https://theconversation.com/salad-fingers-wasnt-just-strange-it-was-art-heres-how-its-still-influencing-the-weird-part-of-youtube-2-decades-on-216911)
 <!-- BLOG-POST-LIST:END -->
 
 ---
