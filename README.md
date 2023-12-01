@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A reality bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography)
+- [Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
 - [ChatGPT&#39;s 1-Year Anniversary: Are Open-Source Large Language Models Catching Up?](https://arxiv.org/abs/2311.16989)
 - [Java 8 still widely used](https://www.jetbrains.com/lp/devecosystem-2023/java/)
 - [Music-Map – Find Similar Music](https://www.music-map.com)
-- [Skyfield: Elegant Astronomy for Python](https://rhodesmill.org/skyfield/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
