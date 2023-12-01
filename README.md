@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [99 Years of Charlie Munger Wisdom in 44 Minutes [video]](https://www.youtube.com/watch?v=ySErrOs093o)
 - [Federal judge blocks Montana&#39;s TikTok ban before it takes effect](https://www.npr.org/2023/11/30/1205735647/montana-tiktok-ban-blocked-state)
 - [Brazilian city enacts an ordinance that was written by ChatGPT](https://apnews.com/article/brazil-artificial-intelligence-porto-alegre-5afd1240afe7b6ac202bb0bbc45e08d4)
-- [Ask HN: Is there someone responsible for Gmail at Google? Correct pass blocked](https://news.ycombinator.com/item?id=38484314)
 - [Show HN: Australian Acoustic Observatory Search](https://search.acousticobservatory.org/)
-- [The Stroad](https://www.strongtowns.org/journal/2017/10/30/the-stroad)
+- [Anduril announces Roadrunner, jet-powered VTOL drone](https://www.anduril.com/roadrunner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
