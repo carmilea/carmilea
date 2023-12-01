@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PropelAuth &lpar;YC W22&rpar; Is Hiring Support Engineers](https://www.workatastartup.com/jobs/63193)
 - [Astronomers posit that we live in a giant void](https://phys.org/news/2023-12-giant-void-puzzle-universe-expansion.html)
+- [The Drums of War Are Growing Louder in South America](https://www.nakedcapitalism.com/2023/12/the-drums-of-war-are-growing-louder-in-south-america.html)
 - [Apple&#39;s chip lab, home to the most &#39;profound change&#39; in decades](https://www.cnbc.com/2023/12/01/how-apple-makes-its-own-chips-for-iphone-and-mac-edging-out-intel.html)
-- [Seamless: Meta&#39;s New Speech Models](https://ai.meta.com/research/seamless-communication/)
-- [The Persistent Myth That Most Americans Are Miserable at Work](https://www.theatlantic.com/ideas/archive/2023/12/great-resignation-myth-polls/676189/)
-- [Easy Stable Diffusion XL in your device, offline](https://noiselith.com/)
+- [Show HN: Generate a video to animate stars of any GitHub repository](https://scastiel.dev/github-stars?ref=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
