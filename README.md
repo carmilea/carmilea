@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A Nouveau graphics driver update](https://lwn.net/SubscriberLink/953144/b85b695d0c760692/)
+- [Paraguay official resigns after signing agreement with fictional country](https://www.theguardian.com/world/2023/nov/30/paraguay-official-resigns-agreement-fictional-country)
+- [Playstation removing previously purchased Discovery content](https://www.playstation.com/en-us/legal/psvideocontent/)
 - [80% faster, 50% less memory, 0% accuracy loss Llama finetuning](https://old.reddit.com/r/LocalLLaMA/comments/188197j/80_faster_50_less_memory_0_accuracy_loss_llama/)
 - [The Neglected Books page: Where forgotten books are remembered](https://neglectedbooks.com/)
-- [Cocoa harvested by kids as young as 5 in Ghana: CBS News investigation](https://www.cbsnews.com/news/children-harvesting-cocoa-used-by-major-corporations-ghana/)
-- [Seraph Secure: anti-scam software co-founded by Kitboga](https://www.seraphsecure.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
