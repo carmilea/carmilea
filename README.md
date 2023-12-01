@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skyfield: Elegant Astronomy for Python](https://rhodesmill.org/skyfield/)
+- [Broadcom to Cut Almost 1,300 VMware Jobs in California After Takeover](https://www.bloomberg.com/news/articles/2023-11-30/broadcom-to-cut-almost-1-300-vmware-jobs-in-california-after-takeover)
 - [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
 - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 - [Retro.directory](http://retro.directory/)
-- [How I made Bomb Rush Cyberfunk multiplayer](https://notnite.com/blog/slop-crew)
-- [Turbo Pascal Turns 40](https://blog.marcocantu.com/blog/2023-november-turbopascal40.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
