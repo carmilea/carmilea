@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A reality bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography)
+- [ChatGPT&#39;s 1-Year Anniversary: Are Open-Source Large Language Models Catching Up?](https://arxiv.org/abs/2311.16989)
+- [Java 8 still widely used](https://www.jetbrains.com/lp/devecosystem-2023/java/)
+- [Music-Map – Find Similar Music](https://www.music-map.com)
 - [Skyfield: Elegant Astronomy for Python](https://rhodesmill.org/skyfield/)
-- [Broadcom to Cut Almost 1,300 VMware Jobs in California After Takeover](https://www.bloomberg.com/news/articles/2023-11-30/broadcom-to-cut-almost-1-300-vmware-jobs-in-california-after-takeover)
-- [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
-- [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
-- [Retro.directory](http://retro.directory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
