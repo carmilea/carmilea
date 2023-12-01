@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers posit that we live in a giant void](https://phys.org/news/2023-12-giant-void-puzzle-universe-expansion.html)
+- [Apple&#39;s chip lab, home to the most &#39;profound change&#39; in decades](https://www.cnbc.com/2023/12/01/how-apple-makes-its-own-chips-for-iphone-and-mac-edging-out-intel.html)
+- [Seamless: Meta&#39;s New Speech Models](https://ai.meta.com/research/seamless-communication/)
 - [The Persistent Myth That Most Americans Are Miserable at Work](https://www.theatlantic.com/ideas/archive/2023/12/great-resignation-myth-polls/676189/)
-- [Return to office is &#39;dead,&#39; Stanford economist says](https://www.cnbc.com/2023/11/30/return-to-office-is-dead-stanford-economist-says-heres-why.html)
-- [Star neuroscientist may have manipulated data to support a major stroke trial](https://www.science.org/content/article/misconduct-concerns-possible-drug-risks-should-stop-stroke-trial-whistleblowers-say)
-- [Buggy animation in Atlassian Bitbucket is wasting half a CPU core at all times](https://thehftguy.com/2023/11/21/buggy-animation-in-atlassian-bitbucket-is-wasting-half-a-cpu-core-at-all-times/)
-- [Is the Turing Test Dead?](https://spectrum.ieee.org/turing-test)
+- [Easy Stable Diffusion XL in your device, offline](https://noiselith.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
