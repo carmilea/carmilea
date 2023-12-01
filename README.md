@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PropelAuth &lpar;YC W22&rpar; Is Hiring Support Engineers](https://www.workatastartup.com/jobs/63193)
-- [Astronomers posit that we live in a giant void](https://phys.org/news/2023-12-giant-void-puzzle-universe-expansion.html)
-- [The Drums of War Are Growing Louder in South America](https://www.nakedcapitalism.com/2023/12/the-drums-of-war-are-growing-louder-in-south-america.html)
-- [Apple&#39;s chip lab, home to the most &#39;profound change&#39; in decades](https://www.cnbc.com/2023/12/01/how-apple-makes-its-own-chips-for-iphone-and-mac-edging-out-intel.html)
-- [Show HN: Generate a video to animate stars of any GitHub repository](https://scastiel.dev/github-stars?ref=hn)
+- [How China is tearing down Islam – FT](http://webcache.googleusercontent.com/search?q=cache:https://ig.ft.com/china-mosques/)
+- [Should you split that file?](https://www.pathsensitive.com/2023/12/should-you-split-that-file.html)
+- [500 Highest Paying Tech Companies &lpar;Dec 2023&rpar;](https://github.com/miketromba/highest-paying-software-companies)
+- [Billionaires amass more through inheritance than wealth creation, says UBS](https://www.ft.com/content/3944234e-e3b4-46fa-8c2f-cadec780ecb4)
+- [SQLSync – Stop Building Databases](https://sqlsync.dev/posts/stop-building-databases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
