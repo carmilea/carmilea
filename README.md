@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Nouveau graphics driver update](https://lwn.net/SubscriberLink/953144/b85b695d0c760692/)
+- [80% faster, 50% less memory, 0% accuracy loss Llama finetuning](https://old.reddit.com/r/LocalLLaMA/comments/188197j/80_faster_50_less_memory_0_accuracy_loss_llama/)
+- [The Neglected Books page: Where forgotten books are remembered](https://neglectedbooks.com/)
+- [Cocoa harvested by kids as young as 5 in Ghana: CBS News investigation](https://www.cbsnews.com/news/children-harvesting-cocoa-used-by-major-corporations-ghana/)
 - [Seraph Secure: anti-scam software co-founded by Kitboga](https://www.seraphsecure.com/)
-- [Who is responsible for grade inflation at Yale?](https://marginalrevolution.com/marginalrevolution/2023/12/who-is-responsible-for-grade-inflation-at-yale-economists-are-meanies.html)
-- [Three American Climbers Solve the &#39;Last Great Problem in the Himalayas&#39;](https://www.nytimes.com/2023/12/01/us/climbing-jannu-north-face.html)
-- [OpenAI delays launch of custom GPT store until early 2024](https://www.axios.com/2023/12/01/openai-delays-launch-custom-gpt-store-2024)
-- [$500 a day to pretend to be a model: The big business behind OnlyFans &#39;chatters&#39;](https://english.elpais.com/international/2023-11-23/500-a-day-to-pretend-to-be-a-model-the-big-business-behind-onlyfans-chatters.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
