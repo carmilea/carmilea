@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Australian Acoustic Observatory Search](https://search.acousticobservatory.org/)
+- [Anduril announces Roadrunner, jet-powered VTOL drone](https://www.anduril.com/roadrunner/)
+- [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 - [How to pick more beautiful colors for your data visualizations &lpar;2020&rpar;](https://blog.datawrapper.de/beautifulcolors/)
 - [A reality bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography)
-- [Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
-- [ChatGPT&#39;s 1-Year Anniversary: Are Open-Source Large Language Models Catching Up?](https://arxiv.org/abs/2311.16989)
-- [Music-Map – Find Similar Music](https://www.music-map.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
