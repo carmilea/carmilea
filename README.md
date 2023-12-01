@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Star neuroscientist may have manipulated data to support a major stroke trial](https://www.science.org/content/article/misconduct-concerns-possible-drug-risks-should-stop-stroke-trial-whistleblowers-say)
+- [Buggy animation in Atlassian Bitbucket is wasting half a CPU core at all times](https://thehftguy.com/2023/11/21/buggy-animation-in-atlassian-bitbucket-is-wasting-half-a-cpu-core-at-all-times/)
+- [Chip machine maker ASML names Christophe Fouquet as new CEO](https://nltimes.nl/2023/11/30/chip-machine-maker-asml-names-christophe-fouquet-new-ceo)
 - [Exactly How Much Life Is on Earth?](https://www.nytimes.com/2023/12/01/science/space/earth-biology-life.html)
 - [As We May Toast](https://kevinlynagh.com/newsletter/2023_04_as_we_may_toast/)
-- [Penguin survives on 4-second microsleeps – times a day](https://www.nature.com/articles/d41586-023-03751-7)
-- [RavynOS Finesse of macOS. Freedom of FreeBSD](https://ravynos.com/)
-- [My insulin pump controller has a bug](https://twitter.com/morganherlocker/status/1730455721815527429)
 <!-- BLOG-POST-LIST:END -->
 
 ---
