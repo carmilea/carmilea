@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Americans&#39; &#39;YOLO&#39; spending spree baffles economists](https://www.bbc.com/worklife/article/20231130-why-americans-yolo-spending-attitude-baffles-economists)
+- [Seraph Secure: anti-scam software co-founded by Kitboga](https://www.seraphsecure.com/)
+- [Who is responsible for grade inflation at Yale?](https://marginalrevolution.com/marginalrevolution/2023/12/who-is-responsible-for-grade-inflation-at-yale-economists-are-meanies.html)
 - [Three American Climbers Solve the &#39;Last Great Problem in the Himalayas&#39;](https://www.nytimes.com/2023/12/01/us/climbing-jannu-north-face.html)
-- [What Is Retrieval-Augmented Generation a.k.a. RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
-- [Google Cloud causes another outage for customer that got ratelimited erroneously](https://twitter.com/gergelyorosz/status/1730648618401481019)
-- [Salad Fingers and the dawn of ‘weird YouTube’](https://theconversation.com/salad-fingers-wasnt-just-strange-it-was-art-heres-how-its-still-influencing-the-weird-part-of-youtube-2-decades-on-216911)
+- [OpenAI delays launch of custom GPT store until early 2024](https://www.axios.com/2023/12/01/openai-delays-launch-custom-gpt-store-2024)
+- [$500 a day to pretend to be a model: The big business behind OnlyFans &#39;chatters&#39;](https://english.elpais.com/international/2023-11-23/500-a-day-to-pretend-to-be-a-model-the-big-business-behind-onlyfans-chatters.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
