@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome&#39;s next weapon in the War on Ad Blockers: Slower extension updates](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/)
-- [Nothing Personal: How Ideas Made Derek Parfit](https://hedgehogreview.com/issues/markets-and-the-good/articles/nothing-personal)
+- [Nothing Personal: How ideas made Derek Parfit](https://hedgehogreview.com/issues/markets-and-the-good/articles/nothing-personal)
 - [Uber Joins the S&amp;P 500](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-01-2023/card/uber-technologies-joins-the-s-p-500-JUPoBf8HFZP8ZeoZRZ6x)
 - [Deep Dive into the Vision Transformers Paper &lpar;ViT&rpar;](https://blog.oxen.ai/arxiv-dives-vision-transformers-vit/)
-- [Britain&#39;s scariest libel firm can pursue anyone, anywhere](https://www.economist.com/1843/2023/12/01/britains-scariest-libel-firm-can-pursue-anyone-anywhere)
+- [A medieval Gothic monastery built using CAD / CAM](https://hackaday.com/2023/01/13/a-medieval-gothic-monastery-built-using-cad-cam/)
+- [Britain&#39;s scariest libel firm](https://www.economist.com/1843/2023/12/01/britains-scariest-libel-firm-can-pursue-anyone-anywhere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
