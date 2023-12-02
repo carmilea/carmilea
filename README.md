@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A century later, new math smooths out general relativity](https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/)
+- [Tiny Volumetric Display](https://mitxela.com/projects/candle)
 - [No new boss at NSA until it answers questions on buying location, browsing data](https://www.theregister.com/2023/12/02/nsa_held_hostage/)
-- [Things that Transport for London can figure out by using our location data](https://www.londonreconnections.com/2023/its-crazy-how-much-tfl-can-learn-about-us-from-our-mobile-data-jamesomalley/)
 - [Emerge &lpar;YC W21&rpar; is hiring a Senior Android Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-android-engineer)
-- [You don&#39;t need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
-- [Show HN: Advent of Code CLI](https://github.com/tobias-walle/advent-of-code-cli)
+- [Ancient redwoods recover from fire by sprouting 1000-year-old buds](https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
