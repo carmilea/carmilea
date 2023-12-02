@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Calling &#39;Fake&#39; on the iPhone Computational Photography Glitch](https://daringfireball.net/linked/2023/12/01/fake-iphone-computational-photography-glitch)
-- [Meta will enforce ban on AI-powered political ads in every nation, no exceptions](https://www.zdnet.com/article/meta-will-enforce-ban-on-ai-powered-political-ads-in-every-nation-no-exceptions/)
-- [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
-- [Electrocaloric Material Makes Refrigerant-Free Solid-State Fridge Scalable](https://spectrum.ieee.org/solid-state-refrigerator)
-- [Modern XMPP Server](https://docs.trueelena.org/self_hosting/modern_xmpp_server/index.html)
+- [Scalable Extraction of Training Data from &lpar;Production&rpar; Language Models](https://arxiv.org/abs/2311.17035)
+- [Review: A Dive into MikroTik&#39;s Weird SmartNIC &lpar;CCR2004-1G-2XS-PCIe&rpar;](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
+- [Researchers create humanitarian law digital emblem for the Red Cross](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/digital-emblem-for-humanitarian-law-in-cyberspace.html)
+- [COP28: Countries launch declaration to triple nuclear energy by 2050](https://www.energy.gov/articles/cop28-countries-launch-declaration-triple-nuclear-energy-capacity-2050-recognizing-key)
+- [Easy to use OpenID Connect client and server library written for Go](https://github.com/zitadel/oidc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
