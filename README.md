@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [World Bank to boost climate financing share to 45%](https://www.reuters.com/sustainability/sustainable-finance-reporting/world-bank-increases-climate-spending-45-2023-12-01/)
+- [Tiger Global&#39;s Biggest Venture Fund Has 18% Loss After Markdowns](https://www.bloomberg.com/news/articles/2023-11-30/tiger-global-s-biggest-venture-fund-has-18-loss-after-markdowns)
 - [A century later, new math smooths out general relativity](https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/)
 - [Tiny Volumetric Display](https://mitxela.com/projects/candle)
 - [No new boss at NSA until it answers questions on buying location, browsing data](https://www.theregister.com/2023/12/02/nsa_held_hostage/)
-- [Emerge &lpar;YC W21&rpar; is hiring a Senior Android Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-android-engineer)
-- [Ancient redwoods recover from fire by sprouting 1000-year-old buds](https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
