@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Maps now looks more like Apple Maps – and a lot of people aren&#39;t happy](https://www.techradar.com/computing/software/google-maps-now-looks-more-like-apple-maps-and-a-lot-of-people-arent-happy)
+- [Emerge &lpar;YC W21&rpar; is hiring a Senior Android Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+- [Add dark mode to your website with a single line of code](https://github.com/bufferhead-code/nightowl)
+- [You don&#39;t need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
+- [Show HN: Advent of Code CLI](https://github.com/tobias-walle/advent-of-code-cli)
 - [Scalable Extraction of Training Data from &lpar;Production&rpar; Language Models](https://arxiv.org/abs/2311.17035)
-- [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)
-- [Review: A Dive into MikroTik&#39;s Weird SmartNIC &lpar;CCR2004-1G-2XS-PCIe&rpar;](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
-- [Researchers create humanitarian law digital emblem for the Red Cross](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/digital-emblem-for-humanitarian-law-in-cyberspace.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
