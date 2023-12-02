@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Scalable Extraction of Training Data from &lpar;Production&rpar; Language Models](https://arxiv.org/abs/2311.17035)
+- [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)
 - [Review: A Dive into MikroTik&#39;s Weird SmartNIC &lpar;CCR2004-1G-2XS-PCIe&rpar;](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
 - [Researchers create humanitarian law digital emblem for the Red Cross](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/digital-emblem-for-humanitarian-law-in-cyberspace.html)
-- [COP28: Countries launch declaration to triple nuclear energy by 2050](https://www.energy.gov/articles/cop28-countries-launch-declaration-triple-nuclear-energy-capacity-2050-recognizing-key)
-- [Easy to use OpenID Connect client and server library written for Go](https://github.com/zitadel/oidc)
+- [Ask HN: Which Wireless Carriers Protect Against SIM Swapping &amp; Port-Out Attacks?](https://news.ycombinator.com/item?id=38496304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
