@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can&#39;t sign in with FIDO2 key on office.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1824831)
+- [Is the American Dream Dead?](https://www.ft.com/content/048d0119-b2c6-4aa1-a6bd-0b4a3549882c)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-- [Porsche summons old-school cool with the 2024 911 Sport Classic](https://arstechnica.com/cars/2023/12/porsche-summons-old-school-cool-with-the-2024-911-sport-classic/)
-- [Advent of Technical Writing: Navigation Structure &lpar;Day 1 of 24&rpar;](https://jamesg.blog/2023/12/02/advent-of-technical-writing/)
-- [Singing to babies is vital to help them learn language, say scientists](https://www.theguardian.com/science/2023/dec/01/singing-to-babies-is-vital-to-help-them-understand-language-say-scientists)
-- [Porting Hare to OpenBSD](https://harelang.org/blog/2023-12-01-porting-hare-to-openbsd/)
+- [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
+- [Scientists discover retinal cells that help stabilize our world view](https://optometry.berkeley.edu/berkeley-scientists-discover-retinal-cells-that-help-stabilize-our-world-view/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
