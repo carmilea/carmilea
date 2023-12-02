@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tinnitus Linked to Undetected Auditory Nerve Damage – A Step Towards a Cure](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
+- [Calling &#39;Fake&#39; on the iPhone Computational Photography Glitch](https://daringfireball.net/linked/2023/12/01/fake-iphone-computational-photography-glitch)
+- [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
+- [Electrocaloric Material Makes Refrigerant-Free Solid-State Fridge Scalable](https://spectrum.ieee.org/solid-state-refrigerator)
 - [Modern XMPP Server](https://docs.trueelena.org/self_hosting/modern_xmpp_server/index.html)
 - [Chrome&#39;s next weapon in the War on Ad Blockers: Slower extension updates](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/)
-- [Insanity of Modern Automotive Electronics Will Lead to a Mechanical Revolution [video]](https://www.youtube.com/watch?v=ANxhQ4wUiMQ)
-- [The Evolution of Intelligence Itself](https://metastable.org/evolution.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
