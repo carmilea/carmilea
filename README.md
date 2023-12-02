@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ozempic could change the economy as we know it](https://www.businessinsider.com/semaglutide-wegovy-ozempic-weight-loss-healthcare-airlines-economy-productivity-2023-11)
-- [To protect kids, the EPA wants total removal of lead pipes](https://www.washingtonpost.com/climate-environment/2023/11/30/lead-pipe-poisoning-biden-epa/)
-- [Nothing Personal: How ideas made Derek Parfit](https://hedgehogreview.com/issues/markets-and-the-good/articles/nothing-personal)
-- [Aging societies more vulnerable to collapse](https://santafe.edu/news-center/news/aging-societies-more-vulnerable-collapse#)
-- [A medieval Gothic monastery built using CAD / CAM](https://hackaday.com/2023/01/13/a-medieval-gothic-monastery-built-using-cad-cam/)
+- [Tinnitus Linked to Undetected Auditory Nerve Damage – A Step Towards a Cure](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
+- [Modern XMPP Server](https://docs.trueelena.org/self_hosting/modern_xmpp_server/index.html)
+- [Chrome&#39;s next weapon in the War on Ad Blockers: Slower extension updates](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/)
+- [Insanity of Modern Automotive Electronics Will Lead to a Mechanical Revolution [video]](https://www.youtube.com/watch?v=ANxhQ4wUiMQ)
+- [The Evolution of Intelligence Itself](https://metastable.org/evolution.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
