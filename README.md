@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Nouveau graphics driver update](https://lwn.net/SubscriberLink/953144/b85b695d0c760692/)
-- [Paraguay official resigns after signing agreement with fictional country](https://www.theguardian.com/world/2023/nov/30/paraguay-official-resigns-agreement-fictional-country)
-- [Playstation removing previously purchased Discovery content](https://www.playstation.com/en-us/legal/psvideocontent/)
-- [80% faster, 50% less memory, 0% accuracy loss Llama finetuning](https://old.reddit.com/r/LocalLLaMA/comments/188197j/80_faster_50_less_memory_0_accuracy_loss_llama/)
-- [The Neglected Books page: Where forgotten books are remembered](https://neglectedbooks.com/)
+- [Chrome&#39;s next weapon in the War on Ad Blockers: Slower extension updates](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/)
+- [Nothing Personal: How Ideas Made Derek Parfit](https://hedgehogreview.com/issues/markets-and-the-good/articles/nothing-personal)
+- [Uber Joins the S&amp;P 500](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-01-2023/card/uber-technologies-joins-the-s-p-500-JUPoBf8HFZP8ZeoZRZ6x)
+- [Deep Dive into the Vision Transformers Paper &lpar;ViT&rpar;](https://blog.oxen.ai/arxiv-dives-vision-transformers-vit/)
+- [Britain&#39;s scariest libel firm can pursue anyone, anywhere](https://www.economist.com/1843/2023/12/01/britains-scariest-libel-firm-can-pursue-anyone-anywhere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
