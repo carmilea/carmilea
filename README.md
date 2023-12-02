@@ -59,7 +59,7 @@
 - [Ozempic could change the economy as we know it](https://www.businessinsider.com/semaglutide-wegovy-ozempic-weight-loss-healthcare-airlines-economy-productivity-2023-11)
 - [To protect kids, the EPA wants total removal of lead pipes](https://www.washingtonpost.com/climate-environment/2023/11/30/lead-pipe-poisoning-biden-epa/)
 - [Nothing Personal: How ideas made Derek Parfit](https://hedgehogreview.com/issues/markets-and-the-good/articles/nothing-personal)
-- [Deep Dive into the Vision Transformers Paper](https://blog.oxen.ai/arxiv-dives-vision-transformers-vit/)
+- [Aging societies more vulnerable to collapse](https://santafe.edu/news-center/news/aging-societies-more-vulnerable-collapse#)
 - [A medieval Gothic monastery built using CAD / CAM](https://hackaday.com/2023/01/13/a-medieval-gothic-monastery-built-using-cad-cam/)
 <!-- BLOG-POST-LIST:END -->
 
