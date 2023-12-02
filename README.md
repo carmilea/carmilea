@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Signet App – Your digital identity and security of communications at your palm](https://signet.app/)
-- [UAW Launches Largest Organizing Drive in Modern American History](https://substack.perfectunion.us/p/uaw-launches-largest-organizing-drive)
-- [Playstation to Delete a Ton of TV Shows Users Already Paid For](https://kotaku.com/sony-ps4-ps5-discovery-mythbusters-tv-1851066164)
-- [Govdash &lpar;YC W22&rpar; Is Hiring a Full Stack Engineer in SF](https://www.ycombinator.com/companies/govdash/jobs/uI8RQW6-software-engineer-full-stack)
-- [Generative AI is killing our sense of awe](https://www.fastcompany.com/90916652/generative-ai-killing-sense-of-awe)
+- [LLMs are a revolution in open source](https://the.scapegoat.dev/llms-are-a-revolution-in-open-source/)
+- [Singing to babies is vital to help them learn language, say scientists](https://www.theguardian.com/science/2023/dec/01/singing-to-babies-is-vital-to-help-them-understand-language-say-scientists)
+- [Porting Hare to OpenBSD](https://harelang.org/blog/2023-12-01-porting-hare-to-openbsd/)
+- [Galactic Algorithm](https://en.wikipedia.org/wiki/Galactic_algorithm)
+- [Mundane emotions: Losing yourself in boredom, time and technology](https://journals.sagepub.com/doi/10.1177/14705931221138617)
 <!-- BLOG-POST-LIST:END -->
 
 ---
