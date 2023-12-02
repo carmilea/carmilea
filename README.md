@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Calling &#39;Fake&#39; on the iPhone Computational Photography Glitch](https://daringfireball.net/linked/2023/12/01/fake-iphone-computational-photography-glitch)
+- [Meta will enforce ban on AI-powered political ads in every nation, no exceptions](https://www.zdnet.com/article/meta-will-enforce-ban-on-ai-powered-political-ads-in-every-nation-no-exceptions/)
 - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
 - [Electrocaloric Material Makes Refrigerant-Free Solid-State Fridge Scalable](https://spectrum.ieee.org/solid-state-refrigerator)
 - [Modern XMPP Server](https://docs.trueelena.org/self_hosting/modern_xmpp_server/index.html)
-- [Chrome&#39;s next weapon in the War on Ad Blockers: Slower extension updates](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
