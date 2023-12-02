@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No new boss at NSA until it answers questions on buying location, browsing data](https://www.theregister.com/2023/12/02/nsa_held_hostage/)
+- [Things that Transport for London can figure out by using our location data](https://www.londonreconnections.com/2023/its-crazy-how-much-tfl-can-learn-about-us-from-our-mobile-data-jamesomalley/)
 - [Emerge &lpar;YC W21&rpar; is hiring a Senior Android Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-android-engineer)
-- [Add dark mode to your website with a single line of code](https://github.com/bufferhead-code/nightowl)
 - [You don&#39;t need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 - [Show HN: Advent of Code CLI](https://github.com/tobias-walle/advent-of-code-cli)
-- [Scalable Extraction of Training Data from &lpar;Production&rpar; Language Models](https://arxiv.org/abs/2311.17035)
 <!-- BLOG-POST-LIST:END -->
 
 ---
