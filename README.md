@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs are a revolution in open source](https://the.scapegoat.dev/llms-are-a-revolution-in-open-source/)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+- [Porsche summons old-school cool with the 2024 911 Sport Classic](https://arstechnica.com/cars/2023/12/porsche-summons-old-school-cool-with-the-2024-911-sport-classic/)
+- [Advent of Technical Writing: Navigation Structure &lpar;Day 1 of 24&rpar;](https://jamesg.blog/2023/12/02/advent-of-technical-writing/)
 - [Singing to babies is vital to help them learn language, say scientists](https://www.theguardian.com/science/2023/dec/01/singing-to-babies-is-vital-to-help-them-understand-language-say-scientists)
 - [Porting Hare to OpenBSD](https://harelang.org/blog/2023-12-01-porting-hare-to-openbsd/)
-- [Galactic Algorithm](https://en.wikipedia.org/wiki/Galactic_algorithm)
-- [Mundane emotions: Losing yourself in boredom, time and technology](https://journals.sagepub.com/doi/10.1177/14705931221138617)
 <!-- BLOG-POST-LIST:END -->
 
 ---
