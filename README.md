@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is React Native still popular?](https://news.ycombinator.com/item?id=38500146)
 - [Govdash &lpar;YC W22&rpar; Is Hiring a Full Stack Engineer in SF](https://www.ycombinator.com/companies/govdash/jobs/uI8RQW6-software-engineer-full-stack)
+- [Generative AI is killing our sense of awe](https://www.fastcompany.com/90916652/generative-ai-killing-sense-of-awe)
 - [Dark Patterns in UX Design and How to Avoid Them](https://dodonut.com/blog/10-dark-patterns-in-ux-design/)
-- [Untyped Python: The Python That Was](https://lucumr.pocoo.org/2023/12/1/the-python-that-was/)
 - [Good old-fashioned AI remains viable in spite of the rise of LLMs](https://techcrunch.com/2023/12/01/good-old-fashioned-ai-remains-viable-in-spite-of-the-rise-of-llms/)
-- [Tell HN: EmacsConf Live Now](https://emacsconf.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
