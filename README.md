@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LibreChat](https://github.com/danny-avila/LibreChat)
+- [Filmic&#39;s entire staff laid off by parent company Bending Spoons](https://petapixel.com/2023/12/01/filmics-entire-staff-laid-off-by-parent-company-bending-spoons/)
 - [Can&#39;t sign in with FIDO2 key on office.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1824831)
-- [Is the American Dream Dead?](https://www.ft.com/content/048d0119-b2c6-4aa1-a6bd-0b4a3549882c)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-- [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
-- [Scientists discover retinal cells that help stabilize our world view](https://optometry.berkeley.edu/berkeley-scientists-discover-retinal-cells-that-help-stabilize-our-world-view/)
+- [A new method to validate URLs in JavaScript &lpar;2023 edition&rpar;](https://www.stefanjudis.com/blog/validate-urls-in-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
