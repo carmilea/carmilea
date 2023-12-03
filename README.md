@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel Neural-Chat-7B Model Achieves Top Ranking on LLM Leaderboard](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-neural-chat-7b-Model-Achieves-Top-Ranking-on-LLM/post/1549386)
+- [Why Life Does Not Really Exist &lpar;2013&rpar;](https://blogs.scientificamerican.com/brainwaves/why-life-does-not-really-exist/)
+- [Show HN: Onsites.fyi - Curated Big Tech Interview Experiences](https://www.onsites.fyi/)
 - [Is technology harming our brains?](https://uxdesign.cc/is-technology-harming-our-brains-181512c76d4c)
 - [The X Prize is taking aim at aging with a new $101M award](https://www.technologyreview.com/2023/11/29/1084052/x-prize-aging-101-million-award/)
-- [OpenAI Committed to Buying $51M of AI Chips from a Startup Backed by Sam Altman](https://www.wired.com/story/openai-buy-ai-chips-startup-sam-altman/)
-- [Microsoft is planning an &#39;Advanced Windows Settings&#39; panel for power users](https://www.xda-developers.com/microsoft-advanced-windows-settings-panel-mockup/)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
