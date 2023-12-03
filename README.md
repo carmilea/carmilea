@@ -58,8 +58,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Child abduction case: How Tom and Jerry cartoons helped police identify suspects](https://www.onmanorama.com/news/kerala/2023/12/02/kollam-child-abduction-tom-and-jerry-cartoon-helped-police-identify-suspects.html)
 - [Not a real engineer &lpar;2019&rpar;](https://twitchard.github.io/posts/2019-05-29-not-a-real-engineer.html)
-- [Factory construction boom in the US](https://wolfstreet.com/2023/12/02/the-eyepopping-factory-construction-boom-in-the-us/)
 - [Performance: Adventures in Thread-per-Core Async with Redpanda and Seastar](https://www.infoq.com/presentations/high-performance-asynchronous3/)
+- [RISC-V Ox64 BL808 SBC: UART Interrupt and Platform-Level Interrupt Controller](https://lupyuen.codeberg.page/articles/plic2.html)
 - [JSON Web Proofs](https://github.com/json-web-proofs/json-web-proofs)
 <!-- BLOG-POST-LIST:END -->
 
