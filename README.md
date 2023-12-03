@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [NASA Open Source Software](https://code.nasa.gov/)
+- [Banker pays $2M for coal mine, discovers $37B rare Earth elements](https://finance.yahoo.com/news/wall-street-banker-pays-2-215927737.html)
 - [Ghostlike dusty galaxy reappears in James Webb Space Telescope image](https://www.nanowerk.com/news2/space/newsid=64160.php)
 - [UniFi Express](https://ui.com/cloud-gateways/express)
 - [Not a real engineer &lpar;2019&rpar;](https://twitchard.github.io/posts/2019-05-29-not-a-real-engineer.html)
-- [Factory construction boom in the US](https://wolfstreet.com/2023/12/02/the-eyepopping-factory-construction-boom-in-the-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
