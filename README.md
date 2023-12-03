@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft is planning an &#39;Advanced Windows Settings&#39; panel for power users](https://www.xda-developers.com/microsoft-advanced-windows-settings-panel-mockup/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [Ego, Fear and Money: How the A.I. Fuse Was Lit](https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html)
 - [1960s chatbot ELIZA beat OpenAI&#39;s GPT-3.5 in a recent Turing test study](https://arstechnica.com/information-technology/2023/12/real-humans-appeared-human-63-of-the-time-in-recent-turing-test-ai-study/)
 - [GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text](https://arxiv.org/abs/2311.18805)
-- [The last Python Architecture you will ever need?](https://davidvujic.blogspot.com/2022/11/the-last-python-architecture-you-will-ever-need.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
