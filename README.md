@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Placeholder Girlfriend](https://parhelia.conorbarnes.com/p/the-placeholder-girlfriend)
+- [Three gaming-focused Linux operating systems beat Windows 11 in gaming benchmark](https://www.tomshardware.com/software/linux/three-gaming-focused-linux-operating-systems-beat-windows-11-in-gaming-benchmarks)
+- [uBlock Origin rules for HN: removing MSM news sources reduces systemic stress](https://news.ycombinator.com/item?id=38510651)
 - [Let&#39;s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 - [Why does sleep becomes more elusive as we age? Shifts in &quot;sleep architecture&quot;](https://www.salon.com/2023/12/02/why-does-sleep-become-more-elusive-as-we-age-it-has-to-do-with-shifts-in-sleep-architecture/)
-- [Embrace, Extend, and Extinguish](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)
-- [American Librarians Helped Defeat the Nazis](https://daily.jstor.org/how-american-librarians-helped-defeat-the-nazis/)
-- [Chasquid – SMTP server focused on simplicity](https://blitiri.com.ar/p/chasquid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
