@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wise &lpar;formerly Transfer Wise&rpar; are asking me to send them photo of my ID](https://news.ycombinator.com/item?id=38508993)
+- [Pentagon says a warship and commercial ships have come under attack](https://www.npr.org/2023/12/03/1216851042/pentagon-says-a-warship-and-commercial-ships-have-come-under-attack-in-the-red-s)
+- [Steel – An embeddable and extensible scheme dialect built in Rust](https://github.com/mattwparas/steel)
+- [Run 70B LLM Inference on a Single 4GB GPU with This New Technique](https://ai.gopubby.com/unbelievable-run-70b-llm-inference-on-a-single-4gb-gpu-with-this-new-technique-93e2057c7eeb?gi=cbe7920f4cd2)
 - [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [US warship and multiple commercial ships attacked in the Red Sea](https://apnews.com/article/red-sea-houthi-yemen-ships-attack-israel-hamas-war-gaza-strip-716770f0a780160e9abed98d3c48fbde)
-- [Lobsters](https://github.com/lobsters/lobsters)
-- [S2n-TLS – A C99 implementation of the TLS/SSL protocol](https://github.com/aws/s2n-tls)
-- [Summary: On Mental Toughness by Harvard Business Review](https://www.chestergrant.com/summary-on-mental-toughness-by-harvard-business-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
