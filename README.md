@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 - [Why does sleep becomes more elusive as we age? Shifts in &quot;sleep architecture&quot;](https://www.salon.com/2023/12/02/why-does-sleep-become-more-elusive-as-we-age-it-has-to-do-with-shifts-in-sleep-architecture/)
-- [Arm Launches the Cortex-M52 for IoT; Its Smallest Processor with Helium](https://fuse.wikichip.org/news/7611/arm-launches-the-cortex-m52-for-iot-its-smallest-processor-with-helium/)
+- [Embrace, Extend, and Extinguish](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)
+- [American Librarians Helped Defeat the Nazis](https://daily.jstor.org/how-american-librarians-helped-defeat-the-nazis/)
 - [Chasquid – SMTP server focused on simplicity](https://blitiri.com.ar/p/chasquid/)
-- [GDlog: A GPU-Accelerated Deductive Engine](https://arxiv.org/abs/2311.02206)
-- [Show HN: Audio plugin for circuit-bent MP3 compression sounds](https://wildergardenaudio.com/maim/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
