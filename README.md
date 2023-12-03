@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fediverse is an opportunity learned societies can&#39;t ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)
+- [Ask HN: What side projects landed you a job?](https://news.ycombinator.com/item?id=38511280)
+- [MakeMake: Generate make files from C source code](https://github.com/quelsolaar/makemake)
+- [Gron: Make JSON greppable](https://github.com/tomnomnom/gron)
 - [The Placeholder Girlfriend](https://parhelia.conorbarnes.com/p/the-placeholder-girlfriend)
-- [Three gaming-focused Linux operating systems beat Windows 11 in gaming benchmark](https://www.tomshardware.com/software/linux/three-gaming-focused-linux-operating-systems-beat-windows-11-in-gaming-benchmarks)
-- [uBlock Origin rules for HN: removing MSM news sources reduces systemic stress](https://news.ycombinator.com/item?id=38510651)
-- [Let&#39;s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
-- [Why does sleep becomes more elusive as we age? Shifts in &quot;sleep architecture&quot;](https://www.salon.com/2023/12/02/why-does-sleep-become-more-elusive-as-we-age-it-has-to-do-with-shifts-in-sleep-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
