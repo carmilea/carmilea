@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WikiReader](https://en.wikipedia.org/wiki/WikiReader)
+- [Simple Mobile Tools suite to be acquired by Israeli adware company](https://github.com/SimpleMobileTools/General-Discussion/issues/241)
 - [A Personal History of APL &lpar;1982&rpar;](https://ed-thelen.org/comp-hist/APL-hist.html)
 - [The analog computer for the Nike missile system &lpar;2001&rpar;](https://www.ed-thelen.org/computer.html)
-- [Ghostlike dusty galaxy reappears in James Webb Space Telescope image](https://www.nanowerk.com/news2/space/newsid=64160.php)
-- [Clang now makes binaries an original Pi B+ can&#39;t run](https://rachelbythebay.com/w/2023/11/30/armv6/)
-- [UniFi Express](https://ui.com/cloud-gateways/express)
+- [A new approach to domain ranking](https://www.marginalia.nu/log/73-new-approach-to-ranking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
