@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wise &lpar;formerly Transfer Wise&rpar; are asking me to send them photo of my ID](https://news.ycombinator.com/item?id=38508993)
-- [Pentagon says a warship and commercial ships have come under attack](https://www.npr.org/2023/12/03/1216851042/pentagon-says-a-warship-and-commercial-ships-have-come-under-attack-in-the-red-s)
+- [Show HN: Audio plugin for circuit-bent MP3 compression sounds](https://wildergardenaudio.com/maim/)
+- [Medicare Advantage Popular with Seniors – But Not Hospitals and Doctors](https://kffhealthnews.org/news/article/medicare-advantage-payment-rates-friction/)
 - [Steel – An embeddable and extensible scheme dialect built in Rust](https://github.com/mattwparas/steel)
 - [Run 70B LLM Inference on a Single 4GB GPU with This New Technique](https://ai.gopubby.com/unbelievable-run-70b-llm-inference-on-a-single-4gb-gpu-with-this-new-technique-93e2057c7eeb?gi=cbe7920f4cd2)
 - [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
