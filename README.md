@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Mobile Tools suite to be acquired by Israeli adware company](https://github.com/SimpleMobileTools/General-Discussion/issues/241)
+- [1960s chatbot ELIZA beat OpenAI&#39;s GPT-3.5 in a recent Turing test study](https://arstechnica.com/information-technology/2023/12/real-humans-appeared-human-63-of-the-time-in-recent-turing-test-ai-study/)
 - [A Personal History of APL &lpar;1982&rpar;](https://ed-thelen.org/comp-hist/APL-hist.html)
 - [The analog computer for the Nike missile system &lpar;2001&rpar;](https://www.ed-thelen.org/computer.html)
 - [A new approach to domain ranking](https://www.marginalia.nu/log/73-new-approach-to-ranking/)
