@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Open Source Software](https://code.nasa.gov/)
-- [Banker pays $2M for coal mine, discovers $37B rare Earth elements](https://finance.yahoo.com/news/wall-street-banker-pays-2-215927737.html)
+- [A Personal History of APL &lpar;1982&rpar;](https://ed-thelen.org/comp-hist/APL-hist.html)
+- [The analog computer for the Nike missile system &lpar;2001&rpar;](https://www.ed-thelen.org/computer.html)
 - [Ghostlike dusty galaxy reappears in James Webb Space Telescope image](https://www.nanowerk.com/news2/space/newsid=64160.php)
+- [Clang now makes binaries an original Pi B+ can&#39;t run](https://rachelbythebay.com/w/2023/11/30/armv6/)
 - [UniFi Express](https://ui.com/cloud-gateways/express)
-- [Not a real engineer &lpar;2019&rpar;](https://twitchard.github.io/posts/2019-05-29-not-a-real-engineer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
