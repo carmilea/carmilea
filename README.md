@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Child abduction case: How Tom and Jerry cartoons helped police identify suspects](https://www.onmanorama.com/news/kerala/2023/12/02/kollam-child-abduction-tom-and-jerry-cartoon-helped-police-identify-suspects.html)
 - [Not a real engineer &lpar;2019&rpar;](https://twitchard.github.io/posts/2019-05-29-not-a-real-engineer.html)
-- [The Eyepopping Factory Construction Boom in the US](https://wolfstreet.com/2023/12/02/the-eyepopping-factory-construction-boom-in-the-us/)
+- [Factory construction boom in the US](https://wolfstreet.com/2023/12/02/the-eyepopping-factory-construction-boom-in-the-us/)
 - [Performance: Adventures in Thread-per-Core Async with Redpanda and Seastar](https://www.infoq.com/presentations/high-performance-asynchronous3/)
-- [A Survey of Graph Meets Large Language Model: Progress and Future Directions](https://arxiv.org/abs/2311.12399)
-- [One year later, the problem with social media is clear: PEBKAC](https://loudpoet.com/2023/12/02/one-year-later-the-problem-with-social-media-is-clear-pebkac/)
+- [JSON Web Proofs](https://github.com/json-web-proofs/json-web-proofs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
