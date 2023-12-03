@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel Neural-Chat-7B Model Achieves Top Ranking on LLM Leaderboard](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-neural-chat-7b-Model-Achieves-Top-Ranking-on-LLM/post/1549386)
-- [Why Life Does Not Really Exist &lpar;2013&rpar;](https://blogs.scientificamerican.com/brainwaves/why-life-does-not-really-exist/)
-- [Show HN: Onsites.fyi - Curated Big Tech Interview Experiences](https://www.onsites.fyi/)
-- [Is technology harming our brains?](https://uxdesign.cc/is-technology-harming-our-brains-181512c76d4c)
-- [The X Prize is taking aim at aging with a new $101M award](https://www.technologyreview.com/2023/11/29/1084052/x-prize-aging-101-million-award/)
+- [Signal Facing Collapse After CIA Cuts Funding](https://kitklarenberg.substack.com/p/signal-facing-collapse-after-cia)
+- [The first results from the biggest basic income experiment](https://www.vox.com/future-perfect/2023/12/1/23981194/givedirectly-basic-income-experiment-abhijit-banerjee-tavneet-suri)
+- [LLM Visualization](https://bbycroft.net/llm)
+- [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
+- [The worst thing about Jenkins is that it works](http://twitchard.github.io/posts/2019-06-21-life-is-too-short-for-jenkins.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
