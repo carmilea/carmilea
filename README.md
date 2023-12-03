@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LibreChat](https://github.com/danny-avila/LibreChat)
-- [Filmic&#39;s entire staff laid off by parent company Bending Spoons](https://petapixel.com/2023/12/01/filmics-entire-staff-laid-off-by-parent-company-bending-spoons/)
-- [Can&#39;t sign in with FIDO2 key on office.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1824831)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-- [A new method to validate URLs in JavaScript &lpar;2023 edition&rpar;](https://www.stefanjudis.com/blog/validate-urls-in-javascript/)
+- [Not a real engineer &lpar;2019&rpar;](https://twitchard.github.io/posts/2019-05-29-not-a-real-engineer.html)
+- [The Eyepopping Factory Construction Boom in the US](https://wolfstreet.com/2023/12/02/the-eyepopping-factory-construction-boom-in-the-us/)
+- [Performance: Adventures in Thread-per-Core Async with Redpanda and Seastar](https://www.infoq.com/presentations/high-performance-asynchronous3/)
+- [A Survey of Graph Meets Large Language Model: Progress and Future Directions](https://arxiv.org/abs/2311.12399)
+- [One year later, the problem with social media is clear: PEBKAC](https://loudpoet.com/2023/12/02/one-year-later-the-problem-with-social-media-is-clear-pebkac/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
