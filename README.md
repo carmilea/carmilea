@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why does sleep becomes more elusive as we age? Shifts in &quot;sleep architecture&quot;](https://www.salon.com/2023/12/02/why-does-sleep-become-more-elusive-as-we-age-it-has-to-do-with-shifts-in-sleep-architecture/)
+- [Arm Launches the Cortex-M52 for IoT; Its Smallest Processor with Helium](https://fuse.wikichip.org/news/7611/arm-launches-the-cortex-m52-for-iot-its-smallest-processor-with-helium/)
+- [Chasquid – SMTP server focused on simplicity](https://blitiri.com.ar/p/chasquid/)
+- [GDlog: A GPU-Accelerated Deductive Engine](https://arxiv.org/abs/2311.02206)
 - [Show HN: Audio plugin for circuit-bent MP3 compression sounds](https://wildergardenaudio.com/maim/)
-- [Medicare Advantage Popular with Seniors – But Not Hospitals and Doctors](https://kffhealthnews.org/news/article/medicare-advantage-payment-rates-friction/)
-- [Steel – An embeddable and extensible scheme dialect built in Rust](https://github.com/mattwparas/steel)
-- [Run 70B LLM Inference on a Single 4GB GPU with This New Technique](https://ai.gopubby.com/unbelievable-run-70b-llm-inference-on-a-single-4gb-gpu-with-this-new-technique-93e2057c7eeb?gi=cbe7920f4cd2)
-- [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
