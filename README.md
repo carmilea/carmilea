@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Signal Facing Collapse After CIA Cuts Funding](https://kitklarenberg.substack.com/p/signal-facing-collapse-after-cia)
-- [The first results from the biggest basic income experiment](https://www.vox.com/future-perfect/2023/12/1/23981194/givedirectly-basic-income-experiment-abhijit-banerjee-tavneet-suri)
-- [LLM Visualization](https://bbycroft.net/llm)
-- [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
-- [The worst thing about Jenkins is that it works](http://twitchard.github.io/posts/2019-06-21-life-is-too-short-for-jenkins.html)
+- [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [US warship and multiple commercial ships attacked in the Red Sea](https://apnews.com/article/red-sea-houthi-yemen-ships-attack-israel-hamas-war-gaza-strip-716770f0a780160e9abed98d3c48fbde)
+- [Lobsters](https://github.com/lobsters/lobsters)
+- [S2n-TLS – A C99 implementation of the TLS/SSL protocol](https://github.com/aws/s2n-tls)
+- [Summary: On Mental Toughness by Harvard Business Review](https://www.chestergrant.com/summary-on-mental-toughness-by-harvard-business-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
