@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ML system design: 300 use cases from 80 companies](https://www.evidentlyai.com/ml-system-design)
+- [Generating random terrains with Enu – a Nim lang based interactive sandbox](https://moigagoo.svbtle.com/generating-random-terrains-in-enu-0-2)
 - [Getting Started With SingleStoreDB Cloud](https://www.singlestore.com/blog/how-to-get-started-with-singlestore)
 - [Dogbolt Decompiler Explorer](https://dogbolt.org/)
-- [Are Passkeys the beginning of the end of passwords? I hope not](https://unixsheikh.com/articles/are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not.html)
 - [An easy-sounding problem yields numbers too big for our universe](https://www.quantamagazine.org/an-easy-sounding-problem-yields-numbers-too-big-for-our-universe-20231204)
+- [Sellafield: Europe’s most toxic nuclear site](https://www.theguardian.com/business/2023/dec/04/sellafield-money-europe-toxic-nuclear-site-cumbria-safety)
 <!-- BLOG-POST-LIST:END -->
 
 ---
