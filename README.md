@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating random terrains with Enu – a Nim lang based interactive sandbox](https://moigagoo.svbtle.com/generating-random-terrains-in-enu-0-2)
-- [Getting Started With SingleStoreDB Cloud](https://www.singlestore.com/blog/how-to-get-started-with-singlestore)
-- [Dogbolt Decompiler Explorer](https://dogbolt.org/)
-- [An easy-sounding problem yields numbers too big for our universe](https://www.quantamagazine.org/an-easy-sounding-problem-yields-numbers-too-big-for-our-universe-20231204)
-- [Sellafield: Europe’s most toxic nuclear site](https://www.theguardian.com/business/2023/dec/04/sellafield-money-europe-toxic-nuclear-site-cumbria-safety)
+- [No genuinely &#39;safe&#39; alternatives to engineered stone bench tops, study finds](https://www.abc.net.au/news/2023-12-05/study-finds-safety-concerns-in-engineered-stone-alternatives/103185450)
+- [Judge: Amazon &quot;cannot claim shock&quot; that bathroom spycams were used as advertised](https://arstechnica.com/tech-policy/2023/12/amazon-faces-trial-after-selling-bathroom-spycam-used-to-abuse-minor/)
+- [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
+- [A Windows Update bug is renaming everyone&#39;s printers to HP M101-M106](https://www.xda-developers.com/windows-update-bug-renaming-printers-m101-m106/)
+- [DoorDash raises minimum pay to $29.93 per hour in NYC](https://about.doordash.com/en-us/news/nyc-platform-experience)
 <!-- BLOG-POST-LIST:END -->
 
 ---
