@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: YC company Anima Health is spamming email addresses posted to HN](https://news.ycombinator.com/item?id=38517333)
-- [AI and Trust](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
-- [Building AI without a neural network](https://hivekit.io/blog/building-ai-without-a-neural-network/)
-- [Launch HN: Slauth &lpar;YC S22&rpar; – auto-generate secure IAM policies for AWS and GCP](https://news.ycombinator.com/item?id=38516795)
-- [Gobs of data &lpar;2011&rpar;](https://go.dev/blog/gob)
+- [Harvard gutted team examining Facebook Files following $500M Zuckerberg donation](https://live-whistleblower-aid.pantheonsite.io/joan-donovan-press-release/)
+- [Google takes the pain out of code reviews, with 97% dev satisfaction](https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of)
+- [A real case of Bobby Tables?](https://www.parallelparliament.co.uk/mp/alison-thewliss/bill/2022-23/economiccrimeandcorporatetransparency#9369E91A-2B4D-445F-A66B-1A5071727932)
+- [Oxford Word of the Year](https://languages.oup.com/word-of-the-year/2023/)
+- [Feds dial up another crackdown on Boston-area pirate radio stations](https://www.universalhub.com/2023/feds-dial-another-crackdown-boston-area-pirate#comments)
 <!-- BLOG-POST-LIST:END -->
 
 ---
