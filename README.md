@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Optery &lpar;YC W22&rpar; – Senior Product Manager – Data Privacy Rights Management &lpar;U.S.&rpar;](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
-- [Forecasts need to have error bars](https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/)
-- [A Decade of Have I Been Pwned](https://www.troyhunt.com/a-decade-of-have-i-been-pwned/)
-- [Harvard gutted team examining Facebook Files following $500M Zuckerberg donation](https://live-whistleblower-aid.pantheonsite.io/joan-donovan-press-release/)
-- [Google takes the pain out of code reviews, with 97% dev satisfaction](https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of)
+- [Getting Started With SingleStoreDB Cloud](https://www.singlestore.com/blog/how-to-get-started-with-singlestore)
+- [Booking.com users angry at firm&#39;s response to hacks](https://www.bbc.com/news/technology-67591310)
+- [Creators Suing AI Companies over Copyright Further Entrenches Big Tech](https://www.techdirt.com/2023/12/04/if-creators-suing-ai-companies-over-copyright-win-it-will-further-entrench-big-tech/)
+- [Eurostar Amsterdam to London trains cancelled for six months](https://www.independent.co.uk/travel/news-and-advice/eurostar-london-amsterdam-trains-cancelled-b2453340.html)
+- [Sellafield: &#39;bottomless pit of hell, money and despair&#39;](https://www.theguardian.com/business/2023/dec/04/sellafield-money-europe-toxic-nuclear-site-cumbria-safety)
 <!-- BLOG-POST-LIST:END -->
 
 ---
