@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS Sonoma is setting records for update size](https://eclecticlight.co/2023/12/04/macos-sonoma-is-setting-records-for-update-size/)
 - [Kramdown-man: A Kramdown convert for converting Markdown files into man pages](https://github.com/postmodern/kramdown-man)
 - [Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 - [VSCode LLVM Compiler Explorer](https://github.com/sunxfancy/vscode-llvm)
 - [Lack of sunlight during the day is worse than electric lighting at night](https://english.elpais.com/health/2023-12-01/chronobiologist-and-nobel-laureate-in-medicine-michael-rosbash-lack-of-sunlight-during-the-day-is-worse-than-electric-lighting-at-night.html)
-- [1962 Military Innstructional Video on Magnetic Cores](https://www.youtube.com/watch?v=HPT7Wtp3yoo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
