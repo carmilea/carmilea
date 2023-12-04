@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 - [Lack of sunlight during the day is worse than electric lighting at night](https://english.elpais.com/health/2023-12-01/chronobiologist-and-nobel-laureate-in-medicine-michael-rosbash-lack-of-sunlight-during-the-day-is-worse-than-electric-lighting-at-night.html)
-- [Outsmart Your Brain: Why Learning Is Hard and How You Can Make It Easy](https://www.kirkusreviews.com/book-reviews/daniel-t-willingham/outsmart-your-brain-learning/)
+- [D Programming Language](https://dlang.org)
 - [Tyrian purple: Ancient pigment that was more valuable than gold](https://www.bbc.com/future/article/20231122-tyrian-purple-the-lost-ancient-pigment-that-was-more-valuable-than-gold)
-- [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
-- [The Fediverse is an opportunity learned societies can&#39;t ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)
+- [A case for moving away from the cloud and embracing local storage solutions](https://blog.golivecosmos.com/embrace-independence-the-case-for-moving-away-from-the-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
