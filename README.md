@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kramdown-man: A Kramdown convert for converting Markdown files into man pages](https://github.com/postmodern/kramdown-man)
 - [Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
+- [VSCode LLVM Compiler Explorer](https://github.com/sunxfancy/vscode-llvm)
 - [Lack of sunlight during the day is worse than electric lighting at night](https://english.elpais.com/health/2023-12-01/chronobiologist-and-nobel-laureate-in-medicine-michael-rosbash-lack-of-sunlight-during-the-day-is-worse-than-electric-lighting-at-night.html)
-- [Experts revive ancient techniques to make concrete more sustainable](https://techxplore.com/news/2023-11-experts-revive-ancient-techniques-concrete.html)
-- [Stripe Press has the full, unformatted text of Poor Charlie&#39;s Almanack online](https://www.stripe.press/poor-charlies-almanack/fullbook)
-- [D Programming Language](https://dlang.org)
+- [1962 Military Innstructional Video on Magnetic Cores](https://www.youtube.com/watch?v=HPT7Wtp3yoo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
