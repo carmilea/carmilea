@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: YC company Anima Health is spamming email addresses posted to HN](https://news.ycombinator.com/item?id=38517333)
 - [AI and Trust](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
-- [&#39;Drug use is a health problem&#39;: inside one of the oldest legal consumption rooms](https://www.theguardian.com/society/2023/dec/03/drug-use-is-a-health-problem-inside-one-of-the-worlds-oldest-legal-consumption-rooms)
+- [Building AI without a neural network](https://hivekit.io/blog/building-ai-without-a-neural-network/)
 - [Launch HN: Slauth &lpar;YC S22&rpar; – auto-generate secure IAM policies for AWS and GCP](https://news.ycombinator.com/item?id=38516795)
-- [What&#39;s lost when we photograph life instead of experiencing it? &lpar;2016&rpar;](https://theconversation.com/whats-lost-when-we-photograph-life-instead-of-experiencing-it-58392)
 - [Gobs of data &lpar;2011&rpar;](https://go.dev/blog/gob)
 <!-- BLOG-POST-LIST:END -->
 
