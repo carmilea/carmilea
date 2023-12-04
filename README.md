@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini Postponed, &quot;in some respects&quot; as good as GPT-4](https://old.reddit.com/r/mlscaling/comments/189jwne/gemini_postponed_in_some_respects_as_good_as_gpt4/)
-- [Large shares of consumers use social media out of a fear of missing out](https://bfi.uchicago.edu/insight/research-summary/when-product-markets-become-collective-traps-the-case-of-social-media/)
+- [Lack of sunlight during the day is worse than electric lighting at night](https://english.elpais.com/health/2023-12-01/chronobiologist-and-nobel-laureate-in-medicine-michael-rosbash-lack-of-sunlight-during-the-day-is-worse-than-electric-lighting-at-night.html)
+- [Outsmart Your Brain: Why Learning Is Hard and How You Can Make It Easy](https://www.kirkusreviews.com/book-reviews/daniel-t-willingham/outsmart-your-brain-learning/)
+- [Tyrian purple: Ancient pigment that was more valuable than gold](https://www.bbc.com/future/article/20231122-tyrian-purple-the-lost-ancient-pigment-that-was-more-valuable-than-gold)
 - [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 - [The Fediverse is an opportunity learned societies can&#39;t ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)
-- [Ask HN: What side projects landed you a job?](https://news.ycombinator.com/item?id=38511280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
