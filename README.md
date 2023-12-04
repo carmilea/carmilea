@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No genuinely &#39;safe&#39; alternatives to engineered stone bench tops, study finds](https://www.abc.net.au/news/2023-12-05/study-finds-safety-concerns-in-engineered-stone-alternatives/103185450)
-- [Judge: Amazon &quot;cannot claim shock&quot; that bathroom spycams were used as advertised](https://arstechnica.com/tech-policy/2023/12/amazon-faces-trial-after-selling-bathroom-spycam-used-to-abuse-minor/)
+- [Reel Inequality: Charting the Vanishing Middle Class of Movies](https://www.reelinequality.com/)
+- [High blood pressure may contribute to cognitive decline](https://www.nih.gov/news-events-news-releases/salty-immune-cells-surrounding-brain-linked-hypertension-induced-dementia)
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
-- [A Windows Update bug is renaming everyone&#39;s printers to HP M101-M106](https://www.xda-developers.com/windows-update-bug-renaming-printers-m101-m106/)
+- [Minnesota middle school students &#39;seem happy&#39; after cellphone ban](https://www.newsnationnow.com/us-news/education/minnesota-middle-cellphone-ban/)
 - [DoorDash raises minimum pay to $29.93 per hour in NYC](https://about.doordash.com/en-us/news/nyc-platform-experience)
 <!-- BLOG-POST-LIST:END -->
 
