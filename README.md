@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reel Inequality: Charting the Vanishing Middle Class of Movies](https://www.reelinequality.com/)
-- [High blood pressure may contribute to cognitive decline](https://www.nih.gov/news-events-news-releases/salty-immune-cells-surrounding-brain-linked-hypertension-induced-dementia)
-- [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
-- [Minnesota middle school students &#39;seem happy&#39; after cellphone ban](https://www.newsnationnow.com/us-news/education/minnesota-middle-cellphone-ban/)
-- [DoorDash raises minimum pay to $29.93 per hour in NYC](https://about.doordash.com/en-us/news/nyc-platform-experience)
+- [40 Years of Turbo Pascal](https://www.theregister.com/2023/12/04/40_years_of_turbo_pascal/)
+- [Dietary fiber intake and all-cause and cause-specific mortality](https://clinicalnutritionjournal.com/article/S0261-5614(23)00363-1/fulltext)
+- [&quot;Swiss AI&quot; Initiative for Transparent, Open-Source AI](https://actu.epfl.ch/news/joint-initiative-for-trustworthy-ai/)
+- [YouTuber who intentionally crashed plane is sentenced to 6 months in prison](https://twitter.com/bnonews/status/1731748816250974335)
+- [An usable and maximally efficient C standard library](https://github.com/gregoryc/standardlib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
