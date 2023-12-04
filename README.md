@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [macOS Sonoma is setting records for update size](https://eclecticlight.co/2023/12/04/macos-sonoma-is-setting-records-for-update-size/)
+- [Spotify to axe 1,500 workers to save costs](https://www.bbc.com/news/business-67611361)
 - [Kramdown-man: A Kramdown convert for converting Markdown files into man pages](https://github.com/postmodern/kramdown-man)
 - [Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 - [VSCode LLVM Compiler Explorer](https://github.com/sunxfancy/vscode-llvm)
