@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 - [The Fediverse is an opportunity learned societies can&#39;t ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)
 - [Ask HN: What side projects landed you a job?](https://news.ycombinator.com/item?id=38511280)
+- [US Visual Approaches: Lessons from the LH458 Incident](https://ops.group/blog/us-visual-approaches-lh458/)
 - [MakeMake: Generate make files from C source code](https://github.com/quelsolaar/makemake)
-- [Gron: Make JSON greppable](https://github.com/tomnomnom/gron)
-- [The Placeholder Girlfriend](https://parhelia.conorbarnes.com/p/the-placeholder-girlfriend)
 <!-- BLOG-POST-LIST:END -->
 
 ---
