@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rob Pike: Gobs of data &lpar;2011&rpar;](https://go.dev/blog/gob)
-- [The 8-Bit Era: Eight Iconic Processor Designs – By Babbage](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
-- [Spotify cuts almost 1,600 jobs amid rising costs](https://www.theguardian.com/technology/2023/dec/04/spotify-cut-jobs-amid-rising)
-- [HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
-- [Leaving F-Droid](https://gist.github.com/obfusk/ec0628d1d6b6c70468079de415ad1e2d)
+- [AI and Trust](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
+- [&#39;Drug use is a health problem&#39;: inside one of the oldest legal consumption rooms](https://www.theguardian.com/society/2023/dec/03/drug-use-is-a-health-problem-inside-one-of-the-worlds-oldest-legal-consumption-rooms)
+- [Launch HN: Slauth &lpar;YC S22&rpar; – auto-generate secure IAM policies for AWS and GCP](https://news.ycombinator.com/item?id=38516795)
+- [What&#39;s lost when we photograph life instead of experiencing it? &lpar;2016&rpar;](https://theconversation.com/whats-lost-when-we-photograph-life-instead-of-experiencing-it-58392)
+- [Gobs of data &lpar;2011&rpar;](https://go.dev/blog/gob)
 <!-- BLOG-POST-LIST:END -->
 
 ---
