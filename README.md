@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Checkmate 19&quot; IPS Retro Monitor](https://www.checkmate1500plus.com/)
-- [Early On-Demand Music Streaming Required Lots of Nickels – Atlas Obscura](https://www.atlasobscura.com/articles/shyvers-multiphone)
+- [Revisiting Persistent Bitcoin Criticisms [pdf]](https://www.fidelitydigitalassets.com/sites/default/files/documents/1110227.1.0%20Fidelity%20Digital%20Assets%20-%20Revisiting%20Persistent%20Bitcoin%20Criticisms%20%2811.02%29.pdf)
+- [Unpacking Meta’s Llama 2: The Next Leap in Generative AI](https://www.singlestore.com/blog/a-complete-beginners-guide-to-llama2)
 - [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
-- [I want to convince you to have an on-premise offering](https://hivekit.io/blog/i-want-to-convince-you-to-have-an-on-premise-offering/#hn)
-- [SigNoz &lpar;YC W21, Open Source Datadog&rpar; Is Hiring SREs&lpar;Remote&rpar;](https://signoz.io/careers/site-reliability-engineer/)
+- [SigNoz &lpar;YC W21&rpar;, Open Source Datadog, Is Hiring SREs &lpar;Remote&rpar;](https://signoz.io/careers/site-reliability-engineer/)
+- [Fine-tuning Mistral 7B on Magic the Gathering Draft](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the)
 <!-- BLOG-POST-LIST:END -->
 
 ---
