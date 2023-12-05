@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I want to convince you to have an on-premise offering](https://hivekit.io/blog/i-want-to-convince-you-to-have-an-on-premise-offering/#hn)
 - [SigNoz &lpar;YC W21, Open Source Datadog&rpar; Is Hiring SREs&lpar;Remote&rpar;](https://signoz.io/careers/site-reliability-engineer/)
-- [Show HN: Desert Atlas, a Fully Self-Hosted OpenStreetMap App for Sandstorm](https://sandstorm.org/news/2023-12-05-osm-on-sandstorm)
-- [.ing TLD now generally available](https://get.ing/)
-- [Common Voice](https://commonvoice.mozilla.org/en)
-- [The challenges of supporting foreign key constraints](https://planetscale.com/blog/challenges-of-supporting-foreign-key-constraints)
+- [Cory Doctorow: Freeing Ourselves from the Clutches of Big Tech](https://www.noemamag.com/freeing-ourselves-from-the-clutches-of-big-tech/)
+- [Tampermonkey: Dev Mode will become mandatory for running userscripts in Chromium](https://www.tampermonkey.net/changelog.php?locale=en&more=false&show=dhdg)
+- [Fine Tuning Mistral 7B on Magic the Gathering Draft](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the)
 <!-- BLOG-POST-LIST:END -->
 
 ---
