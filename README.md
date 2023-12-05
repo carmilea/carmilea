@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI is paying out $51M to a chip startup that Sam Altman invested in](https://www.businessinsider.com/openai-paying-out-millions-to-chip-startup-sam-altman-invested-2023-12)
-- [When Google Fiber Abandons Your City as a Failed Experiment &lpar;2019&rpar;](https://gizmodo.com/when-google-fiber-abandons-your-city-as-a-failed-experi-1833244198)
-- [Inoculating soil with mycorrhizal fungi can increase plant yield: study](https://phys.org/news/2023-11-inoculating-soil-mycorrhizal-fungi-yield.html)
-- [Before QR Codes, there was the CueCat &lpar;2006&rpar;](https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net)
-- [Show HN: TSDiagram – Diagrams as Code with TypeScript](https://tsdiagram.com)
+- [Almost 100k Google employees are about to get a hard-fought $20](https://www.sfgate.com/tech/article/google-confidentiality-settlement-workers-pay-18532568.php)
+- [Rest in Peace, Optane – Speculative Branches](https://specbranch.com/posts/rip-optane/)
+- [Bitcoin Core 26.0](https://github.com/bitcoin/bitcoin/releases/tag/v26.0)
+- [Add oil](https://en.wikipedia.org/wiki/Add_oil)
+- [New theory claims to unite Einstein&#39;s gravity with quantum mechanics](https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
