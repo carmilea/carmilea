@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta, IBM Create Industrywide AI Alliance to Share Technology](https://www.bloomberg.com/news/articles/2023-12-05/meta-ibm-create-industrywide-ai-alliance-to-share-technology)
-- [My Fediverse use – I&#39;m hosting everything myself – PeerTube, Mastodon and Lemmy](https://tube.jeena.net/w/nivehRx8J7ZwujfS2oCoPC)
-- [A Brainfuck interpreter written in PostScript](https://github.com/nst/bfps)
-- [Toxic comments are associated with reduced volunteer editors on Wikipedia](https://academic.oup.com/pnasnexus/article/2/12/pgad385/7457939)
-- [State of Mozilla](https://stateof.mozilla.org/#)
+- [How Beeper Mini Works](https://blog.beeper.com/p/how-beeper-mini-works)
+- [BMW EV achieves 1000km in range using Dual-Chemistry batteries](https://www.forbes.com/sites/samabuelsamid/2023/11/30/our-next-energy-dual-chemistry-battery-achieves-over-600-mile-range/)
+- [Show HN: How did YOUR computer reach my server?](https://how-did-i-get-here.net/)
+- [Mtn Dew using AI to find logos on twitch streams and reward streamers [pdf]](https://www.mountaindew.com/wp-content/uploads/2023/11/MTN-DEW-RAID-QA.pdf)
+- [Termshark – A terminal UI for tshark, inspired by Wireshark](https://termshark.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
