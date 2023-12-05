@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Almost 100k Google employees are about to get a hard-fought $20](https://www.sfgate.com/tech/article/google-confidentiality-settlement-workers-pay-18532568.php)
-- [Rest in Peace, Optane – Speculative Branches](https://specbranch.com/posts/rip-optane/)
-- [Bitcoin Core 26.0](https://github.com/bitcoin/bitcoin/releases/tag/v26.0)
+- [Bits &lpar;YC S20&rpar; is hiring a finance and analytics manager in London](https://www.ycombinator.com/companies/bits/jobs/cC85dw9-finance-analytics-manager)
+- [Rest in Peace, Optane](https://specbranch.com/posts/rip-optane/)
+- [Designing a Symbol Layer &lpar;2021&rpar;](https://getreuer.info/posts/keyboards/symbol-layer/index.html)
 - [Add oil](https://en.wikipedia.org/wiki/Add_oil)
-- [New theory claims to unite Einstein&#39;s gravity with quantum mechanics](https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.html)
+- [Rage: Fast web framework compatible with Rails](https://github.com/rage-rb/rage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
