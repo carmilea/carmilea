@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GiveCampus &lpar;YC S15&rpar; Is Hiring Engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Windows users report appearance of unwanted HP app](https://www.theregister.com/2023/11/30/windows_hp_software_uninvited/)
-- [23andMe confirms hackers stole ancestry data on 6.9M users](https://techcrunch.com/2023/12/04/23andme-confirms-hackers-stole-ancestry-data-on-6-9-million-users/)
-- [Why does Gnome fingerprint unlock not unlock the keyring?](https://mjg59.dreamwidth.org/68537.html)
-- [Mounting Git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
+- [Ask HN: How are you dealing with the job market anxiety?](https://news.ycombinator.com/item?id=38530087)
+- [Phantom oscillations in principal component analysis](https://www.pnas.org/doi/10.1073/pnas.2311420120)
+- [The Time Julius Caesar Was Captured by Pirates](https://www.britannica.com/story/the-time-julius-caesar-was-captured-by-pirates)
+- [Notes on Python to Go Translation of reposurgeon &lpar;2018&rpar;](https://gitlab.com/esr/reposurgeon/-/blob/1bfa90ff8c8c7ae7e409e2de9e5f24da57e364f2/GoNotes.adoc)
+- [Supreme Court hears a case that experts say could wreak havoc on the tax code](https://www.npr.org/2023/12/05/1216859366/supreme-court-tax-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
