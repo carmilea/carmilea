@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI is paying out $51M to a chip startup that Sam Altman invested in](https://www.businessinsider.com/openai-paying-out-millions-to-chip-startup-sam-altman-invested-2023-12)
 - [When Google Fiber Abandons Your City as a Failed Experiment &lpar;2019&rpar;](https://gizmodo.com/when-google-fiber-abandons-your-city-as-a-failed-experi-1833244198)
-- [Study shows inoculating soil with mycorrhizal fungi can increase yield by 40%](https://phys.org/news/2023-11-inoculating-soil-mycorrhizal-fungi-yield.html)
+- [Inoculating soil with mycorrhizal fungi can increase plant yield: study](https://phys.org/news/2023-11-inoculating-soil-mycorrhizal-fungi-yield.html)
 - [Before QR Codes, there was the CueCat &lpar;2006&rpar;](https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net)
-- [Chrome.userScripts API requires developer mode](https://developer.chrome.com/docs/extensions/reference/api/userScripts)
 - [Show HN: TSDiagram – Diagrams as Code with TypeScript](https://tsdiagram.com)
 <!-- BLOG-POST-LIST:END -->
 
