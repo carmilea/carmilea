@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When Google Fiber Abandons Your City as a Failed Experiment &lpar;2019&rpar;](https://gizmodo.com/when-google-fiber-abandons-your-city-as-a-failed-experi-1833244198)
+- [Study shows inoculating soil with mycorrhizal fungi can increase yield by 40%](https://phys.org/news/2023-11-inoculating-soil-mycorrhizal-fungi-yield.html)
 - [Before QR Codes, there was the CueCat &lpar;2006&rpar;](https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net)
 - [Chrome.userScripts API requires developer mode](https://developer.chrome.com/docs/extensions/reference/api/userScripts)
-- [I Hacked Magic the Gathering: Arena for a 100% Win Rate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
-- [Eclipse: The Demo that Sold 3D to Nintendo](https://gamehistory.org/eclipse-the-demo-that-sold-3d-to-nintendo/)
-- [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
+- [Show HN: TSDiagram – Diagrams as Code with TypeScript](https://tsdiagram.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
