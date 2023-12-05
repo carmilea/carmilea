@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Checkmate 19&quot; IPS Retro Monitor](https://www.checkmate1500plus.com/)
+- [Early On-Demand Music Streaming Required Lots of Nickels – Atlas Obscura](https://www.atlasobscura.com/articles/shyvers-multiphone)
+- [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
 - [I want to convince you to have an on-premise offering](https://hivekit.io/blog/i-want-to-convince-you-to-have-an-on-premise-offering/#hn)
 - [SigNoz &lpar;YC W21, Open Source Datadog&rpar; Is Hiring SREs&lpar;Remote&rpar;](https://signoz.io/careers/site-reliability-engineer/)
-- [Cory Doctorow: Freeing Ourselves from the Clutches of Big Tech](https://www.noemamag.com/freeing-ourselves-from-the-clutches-of-big-tech/)
-- [Tampermonkey: Dev Mode will become mandatory for running userscripts in Chromium](https://www.tampermonkey.net/changelog.php?locale=en&more=false&show=dhdg)
-- [Fine Tuning Mistral 7B on Magic the Gathering Draft](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the)
 <!-- BLOG-POST-LIST:END -->
 
 ---
