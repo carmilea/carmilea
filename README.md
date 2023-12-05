@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How are you dealing with the job market anxiety?](https://news.ycombinator.com/item?id=38530087)
-- [Phantom oscillations in principal component analysis](https://www.pnas.org/doi/10.1073/pnas.2311420120)
-- [The Time Julius Caesar Was Captured by Pirates](https://www.britannica.com/story/the-time-julius-caesar-was-captured-by-pirates)
-- [Notes on Python to Go Translation of reposurgeon &lpar;2018&rpar;](https://gitlab.com/esr/reposurgeon/-/blob/1bfa90ff8c8c7ae7e409e2de9e5f24da57e364f2/GoNotes.adoc)
-- [Supreme Court hears a case that experts say could wreak havoc on the tax code](https://www.npr.org/2023/12/05/1216859366/supreme-court-tax-code)
+- [Meta, IBM Create Industrywide AI Alliance to Share Technology](https://www.bloomberg.com/news/articles/2023-12-05/meta-ibm-create-industrywide-ai-alliance-to-share-technology)
+- [My Fediverse use – I&#39;m hosting everything myself – PeerTube, Mastodon and Lemmy](https://tube.jeena.net/w/nivehRx8J7ZwujfS2oCoPC)
+- [A Brainfuck interpreter written in PostScript](https://github.com/nst/bfps)
+- [Toxic comments are associated with reduced volunteer editors on Wikipedia](https://academic.oup.com/pnasnexus/article/2/12/pgad385/7457939)
+- [State of Mozilla](https://stateof.mozilla.org/#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
