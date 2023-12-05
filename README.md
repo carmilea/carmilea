@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Openlayer &lpar;YC S21&rpar; – Testing and Evaluation for AI](https://news.ycombinator.com/item?id=38532593)
-- [Innovative wireless light switch could cut house wiring costs in half](https://www.ualberta.ca/folio/2023/11/innovative-light-switch-could-cut-house-wiring-costs-in-half.html)
-- [How Beeper Mini Works](https://blog.beeper.com/p/how-beeper-mini-works)
-- [BMW EV achieves 1000km in range using Dual-Chemistry batteries](https://www.forbes.com/sites/samabuelsamid/2023/11/30/our-next-energy-dual-chemistry-battery-achieves-over-600-mile-range/)
-- [Show HN: How did YOUR computer reach my server?](https://how-did-i-get-here.net/)
+- [SigNoz &lpar;YC W21, Open Source Datadog&rpar; Is Hiring SREs&lpar;Remote&rpar;](https://signoz.io/careers/site-reliability-engineer/)
+- [Show HN: Desert Atlas, a Fully Self-Hosted OpenStreetMap App for Sandstorm](https://sandstorm.org/news/2023-12-05-osm-on-sandstorm)
+- [.ing TLD now generally available](https://get.ing/)
+- [Common Voice](https://commonvoice.mozilla.org/en)
+- [The challenges of supporting foreign key constraints](https://planetscale.com/blog/challenges-of-supporting-foreign-key-constraints)
 <!-- BLOG-POST-LIST:END -->
 
 ---
