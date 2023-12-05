@@ -46,7 +46,7 @@
 - [AWS Reinvent 2023 - The Ravit Show - Wes Kennedy, SingleStore](https://www.youtube.com/watch?v=7DJ_xPImKnI)
 - [AWS Reinvent 2023 - The Ravit Show - Madhukar Kumar, CMO, SingleStore](https://www.youtube.com/watch?v=dCBDBPCB7bk)
 - [AWS Reinvent 2023 - The Ravit Show - Takashi Binns, Salesforce &lpar;Tableau&rpar;](https://www.youtube.com/watch?v=XlQtCYwlW5U)
-- [How We Made That App: Episode 1 - Developing Your Second Brain: How Quivr is Changing Data Storage](https://www.youtube.com/watch?v=NVJrUcKYTSc)
+- [How We Made That App Episode 1 - Developing Your Second Brain: How Quivr is Changing Data Storage](https://www.youtube.com/watch?v=NVJrUcKYTSc)
 - [BUILD at SingleStore](https://www.youtube.com/watch?v=CH51uQsdKQA)
 <!-- YOUTUBE:END -->
 
