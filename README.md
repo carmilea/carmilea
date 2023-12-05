@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Before QR Codes, there was the CueCat &lpar;2006&rpar;](https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net)
+- [Chrome.userScripts API requires developer mode](https://developer.chrome.com/docs/extensions/reference/api/userScripts)
 - [I Hacked Magic the Gathering: Arena for a 100% Win Rate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
-- [Ask HN: Where do you live? What&#39;s good or bad about it?](https://news.ycombinator.com/item?id=38525825)
 - [Eclipse: The Demo that Sold 3D to Nintendo](https://gamehistory.org/eclipse-the-demo-that-sold-3d-to-nintendo/)
 - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
-- [Taking low-dose aspirin is associated with 20% reduction in cancer deaths](https://www.cardiff.ac.uk/news/view/2782804-aspirin-and-treating-cancer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
