@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [40 Years of Turbo Pascal](https://www.theregister.com/2023/12/04/40_years_of_turbo_pascal/)
-- [Dietary fiber intake and all-cause and cause-specific mortality](https://clinicalnutritionjournal.com/article/S0261-5614(23)00363-1/fulltext)
-- [&quot;Swiss AI&quot; Initiative for Transparent, Open-Source AI](https://actu.epfl.ch/news/joint-initiative-for-trustworthy-ai/)
-- [YouTuber who intentionally crashed plane is sentenced to 6 months in prison](https://twitter.com/bnonews/status/1731748816250974335)
-- [An usable and maximally efficient C standard library](https://github.com/gregoryc/standardlib)
+- [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
+- [System-wide open source ad blocker for Mac, Windows, and Linux](https://github.com/anfragment/zen)
+- [Towards accurate differential diagnosis with large language models](https://arxiv.org/abs/2312.00164)
+- [2023 WebMD Wrapped](https://www.mcsweeneys.net/articles/your-2023-webmd-wrapped)
+- [The Norway Model: How the Scandinavian country became a literary powerhouse](https://www.thedial.world/issue-10/norway-literary-scene)
 <!-- BLOG-POST-LIST:END -->
 
 ---
