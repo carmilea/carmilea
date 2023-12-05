@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [San Francisco now at 35% office vacancy rate, highest ever recorded: data](https://abc7news.com/downtown-san-francisco-office-vacancy-stores-closing-crime/14125753/)
+- [Why does Gnome fingerprint unlock not unlock the keyring?](https://mjg59.dreamwidth.org/68537.html)
 - [Bits &lpar;YC S20&rpar; is hiring a finance and analytics manager in London](https://www.ycombinator.com/companies/bits/jobs/cC85dw9-finance-analytics-manager)
+- [Mounting Git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
 - [Rest in Peace, Optane](https://specbranch.com/posts/rip-optane/)
-- [Designing a Symbol Layer &lpar;2021&rpar;](https://getreuer.info/posts/keyboards/symbol-layer/index.html)
-- [Add oil](https://en.wikipedia.org/wiki/Add_oil)
-- [Rage: Fast web framework compatible with Rails](https://github.com/rage-rb/rage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
