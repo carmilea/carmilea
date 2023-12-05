@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [X is now licensed for payment processing in a dozen U.S. states](https://techcrunch.com/2023/12/05/x-is-now-licensed-for-payment-processing-in-a-dozen-u-s-states/)
-- [Mycroft](https://mycroftproject.com/)
+- [Lena &lpar;2021&rpar;](https://qntm.org/mmacevedo)
+- [Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
 - [Unpacking Meta’s Llama 2: The Next Leap in Generative AI](https://www.singlestore.com/blog/a-complete-beginners-guide-to-llama2)
 - [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
 - [SigNoz &lpar;YC W21&rpar;, Open Source Datadog, Is Hiring SREs &lpar;Remote&rpar;](https://signoz.io/careers/site-reliability-engineer/)
