@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Does uBlock Origin &lpar;uBO&rpar; currently bypass YouTube&#39;s adblock detection?](https://drhyperion451.github.io/does-uBO-bypass-yt/)
+- [StyleX – Meta&#39;s styling library](https://stylexjs.com/)
 - [Lena &lpar;2021&rpar;](https://qntm.org/mmacevedo)
 - [Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
 - [Unpacking Meta’s Llama 2: The Next Leap in Generative AI](https://www.singlestore.com/blog/a-complete-beginners-guide-to-llama2)
-- [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
-- [SigNoz &lpar;YC W21&rpar;, Open Source Datadog, Is Hiring SREs &lpar;Remote&rpar;](https://signoz.io/careers/site-reliability-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
