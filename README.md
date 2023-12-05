@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Openlayer &lpar;YC S21&rpar; – Testing and Evaluation for AI](https://news.ycombinator.com/item?id=38532593)
+- [Innovative wireless light switch could cut house wiring costs in half](https://www.ualberta.ca/folio/2023/11/innovative-light-switch-could-cut-house-wiring-costs-in-half.html)
 - [How Beeper Mini Works](https://blog.beeper.com/p/how-beeper-mini-works)
 - [BMW EV achieves 1000km in range using Dual-Chemistry batteries](https://www.forbes.com/sites/samabuelsamid/2023/11/30/our-next-energy-dual-chemistry-battery-achieves-over-600-mile-range/)
 - [Show HN: How did YOUR computer reach my server?](https://how-did-i-get-here.net/)
-- [Mtn Dew using AI to find logos on twitch streams and reward streamers [pdf]](https://www.mountaindew.com/wp-content/uploads/2023/11/MTN-DEW-RAID-QA.pdf)
-- [Termshark – A terminal UI for tshark, inspired by Wireshark](https://termshark.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
