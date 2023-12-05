@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [In SingleStore, LiveRamp found its innovation partner to solve industry challenges](https://www.youtube.com/watch?v=HCXHNGG9dhI)
-- [LiveRamp looks to SingleStore-Nvidia partnership for game-changing evolution](https://www.youtube.com/watch?v=Dpyp9RlDmJQ)
-- [SingleStore is 6sense’s big data foundational database](https://www.youtube.com/watch?v=wZm8L9rK1TM)
-- [6sense achieves 5X performance and TCO reduction with SingleStore](https://www.youtube.com/watch?v=W318GvXECSY)
-- [LiveRamp: a dream come true with SingleStore](https://www.youtube.com/watch?v=k1TmJmeCenQ)
+- [With SingleStore, COMMB and its members get the data they need from all sources in real time](https://www.youtube.com/watch?v=RZCgcEUH9FE)
+- [DAR reduces TCO 50% while managing 10X the data with SingleStore](https://www.youtube.com/watch?v=1yIjoQfcyXY)
+- [DAR can easily query 120+ billion trades with SingleStore](https://www.youtube.com/watch?v=uyBOo1uZydk)
+- [DAR manages 10,000 trades &lpar;1,000 data pipelines&rpar; per second with SingleStore](https://www.youtube.com/watch?v=WyNjeeDXbPk)
+- [SingleStore is helping LiveRamp leverage the power of Gen AI to change the world](https://www.youtube.com/watch?v=7KYzw5MXq6Y)
 <!-- YOUTUBE:END -->
 
 
