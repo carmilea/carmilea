@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [AWS Reinvent 2023 - The Ravit Show - Wes Kennedy, SingleStore](https://www.youtube.com/watch?v=7DJ_xPImKnI)
-- [AWS Reinvent 2023 - The Ravit Show - Madhukar Kumar, CMO, SingleStore](https://www.youtube.com/watch?v=dCBDBPCB7bk)
-- [AWS Reinvent 2023 - The Ravit Show - Takashi Binns, Salesforce &lpar;Tableau&rpar;](https://www.youtube.com/watch?v=XlQtCYwlW5U)
-- [How We Made That App Episode 1 - Developing Your Second Brain: How Quivr is Changing Data Storage](https://www.youtube.com/watch?v=NVJrUcKYTSc)
-- [BUILD at SingleStore](https://www.youtube.com/watch?v=CH51uQsdKQA)
+- [In SingleStore, LiveRamp found its innovation partner to solve industry challenges](https://www.youtube.com/watch?v=HCXHNGG9dhI)
+- [LiveRamp looks to SingleStore-Nvidia partnership for game-changing evolution](https://www.youtube.com/watch?v=Dpyp9RlDmJQ)
+- [SingleStore is 6sense’s big data foundational database](https://www.youtube.com/watch?v=wZm8L9rK1TM)
+- [6sense achieves 5X performance and TCO reduction with SingleStore](https://www.youtube.com/watch?v=W318GvXECSY)
+- [LiveRamp: a dream come true with SingleStore](https://www.youtube.com/watch?v=k1TmJmeCenQ)
 <!-- YOUTUBE:END -->
 
 
