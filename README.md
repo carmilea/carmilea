@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quad9 wins appeal against Sony](https://quad9.net/news/blog/quad9-turns-the-sony-case-around-in-dresden/)
+- [Wikifunctions](https://wikimediafoundation.org/news/2023/12/05/introducing-wikifunctions-first-wikimedia-project-to-launch-in-a-decade-creates-new-forms-of-knowledge/)
+- [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/)
 - [OpenAI Switch Kit: Swap OpenAI with any open-source model](https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes)
-- [W3C Leaves Twitter](https://w3c.social/@w3c/111534700276754588)
-- [Spotlight: Sentry for Development](https://spotlightjs.com/)
-- [Polymath Robotics &lpar;YC S22&rpar; is hiring a robotics safety engineer – San Francisco](https://www.ycombinator.com/companies/polymath-robotics/jobs/5icOcQK-robotics-safety-engineer-in-san-francisco)
-- [Flickypedia helps you put Flickr photos on Wikimedia Commons](https://www.flickr.org/tools/flickypedia/)
+- [Show HN: Lume – automate data mappings using AI](https://www.lume.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
