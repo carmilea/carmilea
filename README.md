@@ -57,7 +57,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [World&#39;s largest tokamak fusion reactor powers up](https://newatlas.com/energy/worlds-largest-tokamak-fusion-reactor-powers-up/)
-- [DIY 19&quot; rack mountable shallow DC output UPS built with refurbished 18650 cells](https://pop.fsck.pl/projects/secondlife-ups-MkII.html)
+- [Second Life UPS Mark II](https://pop.fsck.pl/projects/secondlife-ups-MkII.html)
 - [TornadoVM v1.0 Released](https://github.com/beehive-lab/TornadoVM/releases/tag/v1.0)
 - [Microsoft Outlook Blocking All Email from Tutanota.com Domain as Spam](https://tuta.com/blog/posts/outlook-falsely-marks-tutanota-emails-as-junk)
 - [DNS Exfiltration Tool](https://github.com/m57/dnsteal)
