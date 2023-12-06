@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini: Google&#39;s most capable AI model yet](https://blog.google/technology/ai/google-gemini-ai/)
+- [Gemini – Google DeepMind](https://deepmind.google/technologies/gemini/)
+- [Top 10 Questions Answered: Building Custom GPTs With OpenAI Functions](https://www.singlestore.com/blog/webinar-recap-building-custom-gpts-with-openai-functions)
 - [Apple Confirms Governments Using Push Notifications to Surveil Users](https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications/)
 - [Ask HN: How are quantum computing companies making money?](https://news.ycombinator.com/item?id=38543546)
-- [Nim](https://nim-lang.org/blog/2023/09/19/mastering-nim.html)
-- [Jailbroken AI Chatbots Can Jailbreak Other Chatbots](https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/)
-- [Mold Course](https://www.epa.gov/mold/mold-course-introduction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
