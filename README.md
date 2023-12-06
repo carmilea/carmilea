@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [K-Cup creator John Sylvan regrets inventing Keurig coffee pod system](https://www.cbc.ca/news/business/k-cup-creator-john-sylvan-regrets-inventing-keurig-coffee-pod-system-1.2982660)
+- [Unveiling secrets of the ESP32: creating an open-source Mac layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
 - [Spellbrush &lpar;YC W18&rpar;, Hiring AI Anime Researchers and Gamedevs &lpar;Tokyo/SF&rpar;](https://spellbrush.com/careers)
-- [AI Is Becoming a Band-Aid over Bad, Broken Tech Industry Design Choices](https://www.scientificamerican.com/article/ai-is-becoming-a-band-aid-over-bad-broken-tech-industry-design-choices/)
-- [Fukuoka court rules ban on dual nationality is constitutional](https://www.japantimes.co.jp/news/2023/12/06/japan/crime-legal/dual-nationality-fukuoka-ruling/)
-- [Donald Knuth&#39;s Annual Christmas Lecture 2023](https://learn.stanford.edu/DonKnuthXmas-2023-Registration.html)
-- [Quad9 wins appeal against Sony](https://quad9.net/news/blog/quad9-turns-the-sony-case-around-in-dresden/)
+- [Framework Laptop 16 Deep Dive – Connectors](https://frame.work/blog/framework-laptop-16-deep-dive---connectors)
+- [DiLoCo: Distributed Low-Communication Training of Language Models](https://arxiv.org/abs/2311.08105)
 <!-- BLOG-POST-LIST:END -->
 
 ---
