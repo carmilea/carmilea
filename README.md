@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spellbrush &lpar;YC W18&rpar;, Hiring AI Anime Researchers and Gamedevs &lpar;Tokyo/SF&rpar;](https://spellbrush.com/careers)
+- [AI Is Becoming a Band-Aid over Bad, Broken Tech Industry Design Choices](https://www.scientificamerican.com/article/ai-is-becoming-a-band-aid-over-bad-broken-tech-industry-design-choices/)
+- [Fukuoka court rules ban on dual nationality is constitutional](https://www.japantimes.co.jp/news/2023/12/06/japan/crime-legal/dual-nationality-fukuoka-ruling/)
+- [Donald Knuth&#39;s Annual Christmas Lecture 2023](https://learn.stanford.edu/DonKnuthXmas-2023-Registration.html)
 - [Quad9 wins appeal against Sony](https://quad9.net/news/blog/quad9-turns-the-sony-case-around-in-dresden/)
-- [Wikifunctions](https://wikimediafoundation.org/news/2023/12/05/introducing-wikifunctions-first-wikimedia-project-to-launch-in-a-decade-creates-new-forms-of-knowledge/)
-- [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/)
-- [OpenAI Switch Kit: Swap OpenAI with any open-source model](https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes)
-- [Show HN: Lume – automate data mappings using AI](https://www.lume.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
