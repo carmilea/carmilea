@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [World&#39;s largest tokamak fusion reactor powers up](https://newatlas.com/energy/worlds-largest-tokamak-fusion-reactor-powers-up/)
+- [TornadoVM v1.0 Released](https://github.com/beehive-lab/TornadoVM/releases/tag/v1.0)
+- [DNS Exfiltration Tool](https://github.com/m57/dnsteal)
 - [Why Is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
-- [JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
-- [A new quantum algorithm for classical mechanics with an exponential speedup](https://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
-- [Go Testing by Example [video]](https://research.swtch.com/testing)
-- [An update on Twitch in Korea](https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/)
+- [After the Plague: Health and History in Medieval England](https://www.aftertheplague.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
