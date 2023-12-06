@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Russ Cox: Go Testing by Example](https://research.swtch.com/testing)
-- [An Update on Twitch in Korea](https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/)
-- [Thermoelectric Heating Comes in from the Cold](https://spectrum.ieee.org/thermoelectric-heating)
-- [High-Scale AI/ML Feature Serving at Low Cost with Caching](https://www.tecton.ai/blog/high-scale-feature-serving-at-low-cost-with-caching-machine-learning/)
-- [Playstation is erasing 1,318 seasons of Discovery shows from customer libraries](https://arstechnica.com/gadgets/2023/12/playstation-is-erasing-1318-seasons-of-discovery-shows-from-customer-libraries/)
+- [A new quantum algorithm for classical mechanics with an exponential speedup](https://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
+- [Go Testing by Example [video]](https://research.swtch.com/testing)
+- [An update on Twitch in Korea](https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/)
+- [Thermoelectric heating stands at the brink of commercialization](https://spectrum.ieee.org/thermoelectric-heating)
+- [Virtual Machine as a core Android Primitive](https://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
