@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Polymath Robotics &lpar;YC S22&rpar; Is Hiring Robotics Safety Engineer – San Francisco](https://www.ycombinator.com/companies/polymath-robotics/jobs/5icOcQK-robotics-safety-engineer-in-san-francisco)
+- [W3C Leaves Twitter](https://w3c.social/@w3c/111534700276754588)
+- [Spotlight: Sentry for Development](https://spotlightjs.com/)
+- [Polymath Robotics &lpar;YC S22&rpar; is hiring a robotics safety engineer – San Francisco](https://www.ycombinator.com/companies/polymath-robotics/jobs/5icOcQK-robotics-safety-engineer-in-san-francisco)
 - [Flickypedia helps you put Flickr photos on Wikimedia Commons](https://www.flickr.org/tools/flickypedia/)
-- [Gold Prices Are Hitting Records](https://www.wsj.com/finance/commodities-futures/why-gold-prices-are-hitting-records-5772ec5f)
 - [JetBrains AI Launch Event [video]](https://www.youtube.com/watch?v=SN51H_q9wBg)
-- [JetBrains AI](https://www.jetbrains.com/ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
