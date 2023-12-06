@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Confirms Governments Using Push Notifications to Surveil Users](https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications/)
+- [Ask HN: How are quantum computing companies making money?](https://news.ycombinator.com/item?id=38543546)
+- [Nim](https://nim-lang.org/blog/2023/09/19/mastering-nim.html)
 - [Jailbroken AI Chatbots Can Jailbreak Other Chatbots](https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/)
-- [Serbia grants citizenship to Steve Wozniak](https://www.b92.net/eng/news/business.php?yyyy=2023&mm=12&dd=06&nav_id=117200)
 - [Mold Course](https://www.epa.gov/mold/mold-course-introduction)
-- [Governments spying on Apple, Google users through push notifications -US senator](https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/)
-- [Norway Joins Denmark in Swedish Tesla Strike/Blockade](https://www.svt.se/nyheter/utrikes/aven-norge-dras-in-i-teslastrejken--3vcx0b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
