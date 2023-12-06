@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New in Chrome 120 back button detection](https://developer.chrome.com/blog/new-in-chrome-120)
 - [A new quantum algorithm for classical mechanics with an exponential speedup](https://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
 - [Go Testing by Example [video]](https://research.swtch.com/testing)
 - [An update on Twitch in Korea](https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/)
 - [Thermoelectric heating stands at the brink of commercialization](https://spectrum.ieee.org/thermoelectric-heating)
-- [Virtual Machine as a core Android Primitive](https://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
