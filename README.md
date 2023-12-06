@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Winglang – a new Cloud-Oriented programming language](https://github.com/winglang/wing)
+- [Getting Started with Axum – Rust&#39;s Most Popular Web Framework](https://www.shuttle.rs/blog/2023/12/06/using-axum-rust)
+- [Show HN: CopilotKit- Build in-app AI chatbots and AI-powered Textareas](https://github.com/CopilotKit/CopilotKit)
+- [Enabling next-generation AI workloads: Announcing TPU v5p and AI Hypercomputer](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer)
 - [Gemini: Google&#39;s most capable AI model yet](https://blog.google/technology/ai/google-gemini-ai/)
-- [Gemini – Google DeepMind](https://deepmind.google/technologies/gemini/)
-- [Top 10 Questions Answered: Building Custom GPTs With OpenAI Functions](https://www.singlestore.com/blog/webinar-recap-building-custom-gpts-with-openai-functions)
-- [Apple Confirms Governments Using Push Notifications to Surveil Users](https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications/)
-- [Ask HN: How are quantum computing companies making money?](https://news.ycombinator.com/item?id=38543546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
