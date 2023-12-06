@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Warning](https://www.theatlantic.com/magazine/archive/2024/01/warning-second-trump-term/676117/)
-- [An Open Letter to the Python Software Foundation](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html)
-- [EU Integrity Watch](https://www.integritywatch.eu/)
-- [World&#39;s largest tokamak fusion reactor powers up](https://newatlas.com/energy/worlds-largest-tokamak-fusion-reactor-powers-up/)
-- [Second Life UPS Mark II](https://pop.fsck.pl/projects/secondlife-ups-MkII.html)
+- [Jailbroken AI Chatbots Can Jailbreak Other Chatbots](https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/)
+- [Serbia grants citizenship to Steve Wozniak](https://www.b92.net/eng/news/business.php?yyyy=2023&mm=12&dd=06&nav_id=117200)
+- [Mold Course](https://www.epa.gov/mold/mold-course-introduction)
+- [Governments spying on Apple, Google users through push notifications -US senator](https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/)
+- [Norway Joins Denmark in Swedish Tesla Strike/Blockade](https://www.svt.se/nyheter/utrikes/aven-norge-dras-in-i-teslastrejken--3vcx0b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
