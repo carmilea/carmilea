@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Warning](https://www.theatlantic.com/magazine/archive/2024/01/warning-second-trump-term/676117/)
+- [An Open Letter to the Python Software Foundation](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html)
 - [EU Integrity Watch](https://www.integritywatch.eu/)
 - [World&#39;s largest tokamak fusion reactor powers up](https://newatlas.com/energy/worlds-largest-tokamak-fusion-reactor-powers-up/)
 - [Second Life UPS Mark II](https://pop.fsck.pl/projects/secondlife-ups-MkII.html)
-- [TornadoVM v1.0 Released](https://github.com/beehive-lab/TornadoVM/releases/tag/v1.0)
-- [Microsoft Outlook Blocking All Email from Tutanota.com Domain as Spam](https://tuta.com/blog/posts/outlook-falsely-marks-tutanota-emails-as-junk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
