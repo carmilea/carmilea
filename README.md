@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Switch Kit: Swap OpenAI with any open-source model](https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes)
 - [W3C Leaves Twitter](https://w3c.social/@w3c/111534700276754588)
 - [Spotlight: Sentry for Development](https://spotlightjs.com/)
 - [Polymath Robotics &lpar;YC S22&rpar; is hiring a robotics safety engineer – San Francisco](https://www.ycombinator.com/companies/polymath-robotics/jobs/5icOcQK-robotics-safety-engineer-in-san-francisco)
 - [Flickypedia helps you put Flickr photos on Wikimedia Commons](https://www.flickr.org/tools/flickypedia/)
-- [JetBrains AI Launch Event [video]](https://www.youtube.com/watch?v=SN51H_q9wBg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
