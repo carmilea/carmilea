@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does uBlock Origin &lpar;uBO&rpar; currently bypass YouTube&#39;s adblock detection?](https://drhyperion451.github.io/does-uBO-bypass-yt/)
-- [StyleX – Meta&#39;s styling library](https://stylexjs.com/)
-- [Lena &lpar;2021&rpar;](https://qntm.org/mmacevedo)
-- [Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
-- [Unpacking Meta’s Llama 2: The Next Leap in Generative AI](https://www.singlestore.com/blog/a-complete-beginners-guide-to-llama2)
+- [Russ Cox: Go Testing by Example](https://research.swtch.com/testing)
+- [An Update on Twitch in Korea](https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/)
+- [Thermoelectric Heating Comes in from the Cold](https://spectrum.ieee.org/thermoelectric-heating)
+- [High-Scale AI/ML Feature Serving at Low Cost with Caching](https://www.tecton.ai/blog/high-scale-feature-serving-at-low-cost-with-caching-machine-learning/)
+- [Playstation is erasing 1,318 seasons of Discovery shows from customer libraries](https://arstechnica.com/gadgets/2023/12/playstation-is-erasing-1318-seasons-of-discovery-shows-from-customer-libraries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
