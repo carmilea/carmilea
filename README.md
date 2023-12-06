@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [K-Cup creator John Sylvan regrets inventing Keurig coffee pod system](https://www.cbc.ca/news/business/k-cup-creator-john-sylvan-regrets-inventing-keurig-coffee-pod-system-1.2982660)
-- [Unveiling secrets of the ESP32: creating an open-source Mac layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
+- [Gordon Freeman at the Olympic Games](https://moonbase.lgbt/blog/100m-accelerated-backhopping/)
+- [AMD MI300 Performance – Faster Than H100, but How Much?](https://www.semianalysis.com/p/amd-mi300-performance-faster-than)
+- [Don&#39;t Fall for Big Oil&#39;s Carbon Capture Deceptions](https://www.scientificamerican.com/article/dont-fall-for-big-oils-carbon-capture-deceptions/)
+- [Unveiling secrets of the ESP32: creating an open-source MAC layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
 - [Spellbrush &lpar;YC W18&rpar;, Hiring AI Anime Researchers and Gamedevs &lpar;Tokyo/SF&rpar;](https://spellbrush.com/careers)
-- [Framework Laptop 16 Deep Dive – Connectors](https://frame.work/blog/framework-laptop-16-deep-dive---connectors)
-- [DiLoCo: Distributed Low-Communication Training of Language Models](https://arxiv.org/abs/2311.08105)
 <!-- BLOG-POST-LIST:END -->
 
 ---
