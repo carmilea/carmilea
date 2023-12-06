@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JSONB Has Landed in SQLite](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
-- [New in Chrome 120 back button detection](https://developer.chrome.com/blog/new-in-chrome-120)
+- [Microsoft&#39;s Copilot is getting OpenAI&#39;s latest models and a new code interpreter](https://www.theverge.com/2023/12/5/23989052/microsoft-copilot-gpt-4-turbo-openai-models-code-interpreter-feature)
+- [Why Is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
+- [JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 - [A new quantum algorithm for classical mechanics with an exponential speedup](https://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
 - [Go Testing by Example [video]](https://research.swtch.com/testing)
-- [An update on Twitch in Korea](https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
