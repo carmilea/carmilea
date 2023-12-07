@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [55% of workers say their pay isn&#39;t keeping up with inflation](https://www.cnbc.com/2022/09/14/half-of-working-americans-say-their-pay-isnt-keeping-up-with-inflation.html)
-- [Robinhood launches crypto trading in the European Union](https://newsroom.aboutrobinhood.com/robinhood-launches-crypto-trading-in-the-eu/)
+- [He blew the whistle on Amazon. He&#39;s still paying the price](https://www.ft.com/content/de5fea12-2938-4c20-b394-10ca258a5fa1)
+- [Is El Salvador&#39;s Bitcoin bet paying off?](https://www.bbc.com/news/technology-67637245)
 - [Cabinets of curiosities laid the foundation for modern museums](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
 - [Tell HN: ZFS silent data corruption bugfix – my research results](https://news.ycombinator.com/item?id=38553008)
 - [Building end-to-end security for Messenger](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
