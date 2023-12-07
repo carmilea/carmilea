@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google calls Drive data loss &quot;fixed,&quot; locks forum threads saying otherwise](https://arstechnica.com/gadgets/2023/12/google-calls-drive-data-loss-fixed-locks-forum-threads-saying-otherwise/)
 - [OpenAI employees did not want to go work for Microsoft](https://www.businessinsider.com/openai-employees-did-not-want-to-work-for-microsoft-2023-12)
 - [Helen Toner shares her side](https://www.wsj.com/tech/ai/helen-toner-openai-board-2e4031ef)
-- [StableLM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)
 - [Hanukkah of Data: Practice your data skills with 8 free data puzzles](https://hanukkah.bluebird.sh/5784/)
 - [Making noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
 <!-- BLOG-POST-LIST:END -->
