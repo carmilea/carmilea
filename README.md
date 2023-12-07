@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
+- [Piracy Is Back: Piracy Statistics for 2023](https://dataprot.net/statistics/piracy-statistics/)
+- [Show HN: Cujobay – A Modern Alternative to Crunchbase](https://www.cujobay.com)
+- [Which Movies Are the Most Polarizing? A Statistical Analysis](https://www.statsignificant.com/p/which-movies-are-the-most-polarizing)
 - [Everyday performance rules for Ruby on Rails developers](https://www.rorvswild.com/blog/2023/everyday-performance-rules-for-ruby-on-rails-developers)
-- [Voidr – Cutting-edge open source alternatives to mainstream cloud services](https://github.com/voidr-team)
-- [Ploomber &lpar;YC W22&rpar; Is Hiring Software Engineers in NYC](https://www.ycombinator.com/companies/ploomber/jobs)
-- [The Qatargate Files](https://www.politico.eu/article/european-parliament-qatargate-corruption-scandal-leaked-documents-pier-antonio-panzeri-francesco-giorgi-eva-kaili/)
+- [Show HN: VideoGist – Useful YouTube video summaries](https://www.videogist.co/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
