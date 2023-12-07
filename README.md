@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Making Noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
+- [GateLoop: Data-Controlled Linear Recurrence for Sequence Modeling](https://arxiv.org/abs/2311.01927)
+- [Three Decades of HTML](https://meyerweb.com/eric/thoughts/2023/12/06/three-decades-of-html/)
 - [Sieve &lpar;YC W22&rpar;, the video/audio AI cloud, is hiring systems engineers](https://sievedata.com/about/jobs)
-- [Data Engineering Design Patterns &lpar;DEDP&rpar;](https://www.dedp.online/)
-- [Efficient Transformer Knowledge Distillation: A Performance Review](https://arxiv.org/abs/2311.13657)
-- [NASA&#39;s Psyche Delivers First Images and Other Data](https://www.jpl.nasa.gov/news/nasas-psyche-delivers-first-images-and-other-data)
-- [Nanoplastics Likely Worse Than Microplastics; We Know Almost Nothing About Them](https://www.vice.com/en/article/k7zkm3/nanoplastics-could-be-worse-than-microplastics-and-we-know-almost-nothing-about-them)
+- [A Lost X-Files Song](https://twitter.com/laurenancona/status/1731900441800155459)
 <!-- BLOG-POST-LIST:END -->
 
 ---
