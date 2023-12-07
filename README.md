@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sieve &lpar;YC W22&rpar;, the video/audio AI cloud, is hiring systems engineers](https://sievedata.com/about/jobs)
 - [Data Engineering Design Patterns &lpar;DEDP&rpar;](https://www.dedp.online/)
 - [Efficient Transformer Knowledge Distillation: A Performance Review](https://arxiv.org/abs/2311.13657)
 - [NASA&#39;s Psyche Delivers First Images and Other Data](https://www.jpl.nasa.gov/news/nasas-psyche-delivers-first-images-and-other-data)
-- [Ask HN: What other good forums are out there?](https://news.ycombinator.com/item?id=38557327)
-- [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
+- [Nanoplastics Likely Worse Than Microplastics; We Know Almost Nothing About Them](https://www.vice.com/en/article/k7zkm3/nanoplastics-could-be-worse-than-microplastics-and-we-know-almost-nothing-about-them)
 <!-- BLOG-POST-LIST:END -->
 
 ---
