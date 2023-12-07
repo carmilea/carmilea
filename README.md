@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ploomber &lpar;YC W22&rpar; Is Hiring Software Engineers in NYC](https://www.ycombinator.com/companies/ploomber/jobs)
 - [The Qatargate Files](https://www.politico.eu/article/european-parliament-qatargate-corruption-scandal-leaked-documents-pier-antonio-panzeri-francesco-giorgi-eva-kaili/)
 - [He blew the whistle on Amazon. He&#39;s still paying the price](https://www.ft.com/content/de5fea12-2938-4c20-b394-10ca258a5fa1)
 - [Cabinets of curiosities laid the foundation for modern museums](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
 - [Building end-to-end security for Messenger](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
-- [A slightly longer Lean 4 proof tour](https://terrytao.wordpress.com/2023/12/05/a-slightly-longer-lean-4-proof-tour/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
