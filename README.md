@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gordon Freeman at the Olympic Games](https://moonbase.lgbt/blog/100m-accelerated-backhopping/)
-- [AMD MI300 Performance – Faster Than H100, but How Much?](https://www.semianalysis.com/p/amd-mi300-performance-faster-than)
-- [Don&#39;t Fall for Big Oil&#39;s Carbon Capture Deceptions](https://www.scientificamerican.com/article/dont-fall-for-big-oils-carbon-capture-deceptions/)
-- [Unveiling secrets of the ESP32: creating an open-source MAC layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
-- [Spellbrush &lpar;YC W18&rpar;, Hiring AI Anime Researchers and Gamedevs &lpar;Tokyo/SF&rpar;](https://spellbrush.com/careers)
+- [Tales of Topological Qubits](https://cacm.acm.org/magazines/2023/12/278144-tales-of-topological-qubits/fulltext)
+- [Services across England now lag far behind East Germany](https://www.cam.ac.uk/research/news/services-across-england-now-lag-far-behind-east-germany-as-experts-call-for-universal-basic)
+- [Research shows mouse and primate brains mature at the same pace](https://www.anl.gov/article/when-do-brains-grow-up)
+- [Researchers have discovered magnetic monopoles](https://www.cam.ac.uk/research/news/diamonds-and-rust-help-unveil-impossible-quasi-particles)
+- [Merlin Sound ID – Identify Birds Using Your Phone &lpar;How It Works&rpar;](https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
