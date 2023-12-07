@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bungie Devs Atmosphere &#39;Soul-Crushing&#39; Amid Layoffs, Cuts, Fear of Sony Takeover](https://www.ign.com/articles/bungie-devs-say-atmosphere-is-soul-crushing-amid-layoffs-cuts-and-fear-of-total-sony-takeover)
+- [Mistral LLM on Apple Silicon Using Apple&#39;s MLX Framework Runs Instantaneously](https://github.com/ml-explore/mlx-examples/tree/main/mistral)
+- [Windows 11 is last in gaming performance tests against 3 Linux gaming distros](https://www.notebookcheck.net/Windows-11-scores-dead-last-in-gaming-performance-tests-against-3-Linux-gaming-distros.778624.0.html)
 - [Launching Default End-to-End Encryption on Messenger](https://messengernews.fb.com/2023/12/06/launching-default-end-to-end-encryption-on-messenger/)
 - [23andMe updates their TOS to force binding arbitration](https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/)
-- [Police Can Spy on Your iOS and Android Push Notifications](https://www.wired.com/story/apple-google-push-notification-surveillance/)
-- [Tales of Topological Qubits](https://cacm.acm.org/magazines/2023/12/278144-tales-of-topological-qubits/fulltext)
-- [Researchers have discovered magnetic monopoles](https://www.cam.ac.uk/research/news/diamonds-and-rust-help-unveil-impossible-quasi-particles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
