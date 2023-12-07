@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Piracy Is Back: Piracy Statistics for 2023](https://dataprot.net/statistics/piracy-statistics/)
-- [Show HN: Cujobay – A Modern Alternative to Crunchbase](https://www.cujobay.com)
-- [Which Movies Are the Most Polarizing? A Statistical Analysis](https://www.statsignificant.com/p/which-movies-are-the-most-polarizing)
-- [Everyday performance rules for Ruby on Rails developers](https://www.rorvswild.com/blog/2023/everyday-performance-rules-for-ruby-on-rails-developers)
-- [Show HN: VideoGist – Useful YouTube video summaries](https://www.videogist.co/)
+- [AMD leaps after launching AI chip that could challenge Nvidia dominance](https://www.msn.com/en-us/lifestyle/shopping/amd-leaps-after-launching-ai-chip-that-could-challenge-nvidia-dominance/ar-AA1l8RWS)
+- [Purple Llama by Meta AI](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)
+- [How the first gen iPod was reverse engineered to run Rockbox](https://mastodon.social/@bagder/111538350617290554)
+- [Lithium Price Collapsed 77% in a Year, as Demand and Production Both Surged](https://wolfstreet.com/2023/11/23/lithium-shortage-bubble-implodes-once-again-as-demand-and-production-both-surged/)
+- [Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger](https://www.recompyle.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
