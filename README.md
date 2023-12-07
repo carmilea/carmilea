@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Swedish court rules against Tesla in dispute with postal service over deliveries](https://www.reuters.com/world/europe/swedish-court-rules-against-tesla-dispute-with-postal-service-over-deliveries-2023-12-07/)
+- [StableLM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)
+- [Hanukkah of Data: Practice your data skills with 8 free data puzzles](https://hanukkah.bluebird.sh/5784/)
 - [Making Noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
-- [GateLoop: Data-Controlled Linear Recurrence for Sequence Modeling](https://arxiv.org/abs/2311.01927)
-- [Three Decades of HTML](https://meyerweb.com/eric/thoughts/2023/12/06/three-decades-of-html/)
-- [Sieve &lpar;YC W22&rpar;, the video/audio AI cloud, is hiring systems engineers](https://sievedata.com/about/jobs)
-- [A Lost X-Files Song](https://twitter.com/laurenancona/status/1731900441800155459)
+- [Gemini &quot;duck&quot; demo was not done in realtime or with voice](https://twitter.com/parmy/status/1732811357068615969)
 <!-- BLOG-POST-LIST:END -->
 
 ---
