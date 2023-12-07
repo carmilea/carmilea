@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD leaps after launching AI chip that could challenge Nvidia dominance](https://www.msn.com/en-us/lifestyle/shopping/amd-leaps-after-launching-ai-chip-that-could-challenge-nvidia-dominance/ar-AA1l8RWS)
-- [Purple Llama by Meta AI](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)
-- [How the first gen iPod was reverse engineered to run Rockbox](https://mastodon.social/@bagder/111538350617290554)
-- [Lithium Price Collapsed 77% in a Year, as Demand and Production Both Surged](https://wolfstreet.com/2023/11/23/lithium-shortage-bubble-implodes-once-again-as-demand-and-production-both-surged/)
-- [Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger](https://www.recompyle.com/)
+- [Data Engineering Design Patterns &lpar;DEDP&rpar;](https://www.dedp.online/)
+- [Efficient Transformer Knowledge Distillation: A Performance Review](https://arxiv.org/abs/2311.13657)
+- [NASA&#39;s Psyche Delivers First Images and Other Data](https://www.jpl.nasa.gov/news/nasas-psyche-delivers-first-images-and-other-data)
+- [Ask HN: What other good forums are out there?](https://news.ycombinator.com/item?id=38557327)
+- [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
