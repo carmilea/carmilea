@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [23andMe updates their TOS to force binding arbitration](https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/)
+- [Police Can Spy on Your iOS and Android Push Notifications](https://www.wired.com/story/apple-google-push-notification-surveillance/)
+- [Show HN: Launch your product within hours](https://shipped.club/)
 - [Tales of Topological Qubits](https://cacm.acm.org/magazines/2023/12/278144-tales-of-topological-qubits/fulltext)
-- [Services across England now lag far behind East Germany](https://www.cam.ac.uk/research/news/services-across-england-now-lag-far-behind-east-germany-as-experts-call-for-universal-basic)
-- [Research shows mouse and primate brains mature at the same pace](https://www.anl.gov/article/when-do-brains-grow-up)
 - [Researchers have discovered magnetic monopoles](https://www.cam.ac.uk/research/news/diamonds-and-rust-help-unveil-impossible-quasi-particles)
-- [Merlin Sound ID – Identify Birds Using Your Phone &lpar;How It Works&rpar;](https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
