@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Swedish court rules against Tesla in dispute with postal service over deliveries](https://www.reuters.com/world/europe/swedish-court-rules-against-tesla-dispute-with-postal-service-over-deliveries-2023-12-07/)
+- [95%-ile isn&#39;t that good &lpar;2020&rpar;](https://danluu.com/p95-skill/)
+- [OpenAI employees did not want to go work for Microsoft](https://www.businessinsider.com/openai-employees-did-not-want-to-work-for-microsoft-2023-12)
 - [StableLM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)
 - [Hanukkah of Data: Practice your data skills with 8 free data puzzles](https://hanukkah.bluebird.sh/5784/)
 - [Making Noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
-- [Gemini &quot;duck&quot; demo was not done in realtime or with voice](https://twitter.com/parmy/status/1732811357068615969)
 <!-- BLOG-POST-LIST:END -->
 
 ---
