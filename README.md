@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: ZFS silent data corruption bugfix – my research results](https://news.ycombinator.com/item?id=38553008)
+- [Building end-to-end security for Messenger – Engineering at Meta](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
+- [A slightly longer Lean 4 proof tour](https://terrytao.wordpress.com/2023/12/05/a-slightly-longer-lean-4-proof-tour/)
 - [Bungie Devs Atmosphere &#39;Soul-Crushing&#39; Amid Layoffs, Cuts, Fear of Sony Takeover](https://www.ign.com/articles/bungie-devs-say-atmosphere-is-soul-crushing-amid-layoffs-cuts-and-fear-of-total-sony-takeover)
 - [Mistral LLM on Apple Silicon Using Apple&#39;s MLX Framework Runs Instantaneously](https://github.com/ml-explore/mlx-examples/tree/main/mistral)
-- [Windows 11 is last in gaming performance tests against 3 Linux gaming distros](https://www.notebookcheck.net/Windows-11-scores-dead-last-in-gaming-performance-tests-against-3-Linux-gaming-distros.778624.0.html)
-- [Launching Default End-to-End Encryption on Messenger](https://messengernews.fb.com/2023/12/06/launching-default-end-to-end-encryption-on-messenger/)
-- [23andMe updates their TOS to force binding arbitration](https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
