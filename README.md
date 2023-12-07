@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cabinets of Curiosities Laid the Foundation for Modern Museums](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
+- [Robinhood launches crypto trading in the European Union](https://newsroom.aboutrobinhood.com/robinhood-launches-crypto-trading-in-the-eu/)
+- [Cabinets of curiosities laid the foundation for modern museums](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
 - [Tell HN: ZFS silent data corruption bugfix – my research results](https://news.ycombinator.com/item?id=38553008)
-- [New Legislation Proposes to Take Wall Street Out of the Housing Market](https://www.nytimes.com/2023/12/06/realestate/wall-street-housing-market.html)
-- [Building end-to-end security for Messenger – Engineering at Meta](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
+- [Building end-to-end security for Messenger](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
 - [A slightly longer Lean 4 proof tour](https://terrytao.wordpress.com/2023/12/05/a-slightly-longer-lean-4-proof-tour/)
 <!-- BLOG-POST-LIST:END -->
 
