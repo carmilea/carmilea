@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple and Google Monitor Notifications. We Need Push Notification Alternatives](https://tuta.com/blog/open-source-email-fdroid)
-- [&quot;Non-Player Character&quot;](https://www.yudkowsky.net/other/fiction/npc)
-- [Baldur&#39;s Gate 3 Wins Game of the Year at the Game Awards](https://www.nytimes.com/2023/12/07/arts/game-awards-winners-list.html)
-- [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
-- [Kagi Search – Paywalled articles indicator and improved weather widget](https://kagi.com/changelog)
+- [Rollstack &lpar;YC W23&rpar; is hiring a senior software engineer in Brazil](https://www.ycombinator.com/companies/rollstack-2/jobs)
+- [Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
+- [Tesla loses legal action in Sweden as dispute with Nordic unions escalates](https://www.theguardian.com/technology/2023/dec/07/tesla-loses-legal-action-sweden-nordic-unions-licence-plates-collective-bargaining)
+- [X.com is Twitter, but what are [a-z].com?](https://nerology.substack.com/p/xcom-is-twitter-but-what-are-a-zcom)
+- [Gaussian Head Avatar: Ultra High-Fidelity Head Avatar via Dynamic Gaussians](https://yuelangx.github.io/gaussianheadavatar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
