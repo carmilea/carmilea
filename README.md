@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [London trains see power cut as thousands stranded in dark for hours](https://metro.co.uk/2023/12/08/thousands-stranded-cold-dark-london-trains-hours-power-cut-19944985/)
+- [Hetzner is terminating contracts with all users who had a Russian postal address](https://news.ycombinator.com/item?id=38568896)
 - [No distributed quantum advantage for approximate graph coloring](https://arxiv.org/abs/2307.09444)
+- [Postgres Language Server: Implementing the Parser](https://supabase.com/blog/postgres-language-server-implementing-parser)
 - [Problems on the Galaxy Store](https://forum.developer.samsung.com/t/test-confirmation-rejected-too-expensive/28238)
-- [Rollstack &lpar;YC W23&rpar; is hiring a senior software engineer in Brazil](https://www.ycombinator.com/companies/rollstack-2/jobs)
-- [National Crime Agency response to Meta&#39;s rollout of end-to-end-encryption](https://www.nationalcrimeagency.gov.uk/news/nca-response-to-meta-s-rollout-of-end-to-end-encryption)
-- [Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
