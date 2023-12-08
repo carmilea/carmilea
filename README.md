@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FDA Approves Sickle Cell Treatments, Including One That Uses CRISPR](https://www.nytimes.com/2023/12/08/health/fda-sickle-cell-crispr.html)
+- [Scientists Have Reported a Breakthrough in Understanding Whale Language](https://www.vice.com/en/article/4a35kp/scientists-have-reported-a-breakthrough-in-understanding-whale-language)
 - [Flexport is hiring customs duty drawback specialists](https://flexport.com/careers)
 - [IA Writer in Paper](https://ia.net/topics/ia-writer-in-paper)
 - [ReconFusion: 3D Reconstruction with Diffusion Priors](https://reconfusion.github.io/)
-- [Judge Allows Major &#39;Right to Repair&#39; Lawsuit Against John Deere to Move Forward](https://www.techdirt.com/2023/12/08/judge-allows-major-right-to-repair-lawsuit-against-john-deere-to-move-forward/)
-- [Show HN: WarpBuild – x86-64 and arm GitHub Action runners for 30% faster builds](https://www.warpbuild.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
