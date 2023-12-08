@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple and Google Monitor Notifications. We Need Push Notification Alternatives](https://tuta.com/blog/open-source-email-fdroid)
 - [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
-- [Average distance to a supermarket in Amsterdam is 400 meter or 1300 feet](https://www.oozo.nl/nabije-voorzieningen/amsterdam)
 - [Kagi Search – Paywalled articles indicator and improved weather widget](https://kagi.com/changelog)
 - [Reviving decade-old Macs with antiX and MX Linux &lpar;2022&rpar;](https://sts10.github.io/2022/12/14/antix-on-2008-macbook-5-1.html)
 - [We investigated France&#39;s mass profiling machine](https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
