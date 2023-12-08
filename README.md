@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistral &quot;Mixtral&quot; 8x7B 32k model [magnet]](https://twitter.com/MistralAI/status/1733150512395038967)
-- [Spoofing DNS records abusing Microsoft DHCP server running in 40% of datacenters](https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp)
-- [The Onyx Programming Language](https://onyxlang.io/)
-- [jc: Converts the output of popular command-line tools to JSON](https://github.com/kellyjonbrazil/jc)
-- [TXR Lisp](https://www.nongnu.org/txr/txr-lisp.html)
+- [Flexport is hiring customs duty drawback specialists](https://flexport.com/careers)
+- [IA Writer in Paper](https://ia.net/topics/ia-writer-in-paper)
+- [ReconFusion: 3D Reconstruction with Diffusion Priors](https://reconfusion.github.io/)
+- [Judge Allows Major &#39;Right to Repair&#39; Lawsuit Against John Deere to Move Forward](https://www.techdirt.com/2023/12/08/judge-allows-major-right-to-repair-lawsuit-against-john-deere-to-move-forward/)
+- [Show HN: WarpBuild – x86-64 and arm GitHub Action runners for 30% faster builds](https://www.warpbuild.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
