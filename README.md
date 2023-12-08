@@ -58,7 +58,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [World of Goo 2](https://worldofgoo2.com/)
 - [Reviving decade-old Macs with antiX and MX Linux &lpar;2022&rpar;](https://sts10.github.io/2022/12/14/antix-on-2008-macbook-5-1.html)
-- [We Investigated France&#39;s Mass Profiling Machine](https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
+- [We investigated France&#39;s mass profiling machine](https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
 - [Show HN: Homebrew 16bit CPU from 74HC logic with C compiler and Unix-like OS](http://www.sol-1.org/index.php)
 - [Tolstoy: How much Land does a man need](https://www.online-literature.com/tolstoy/2738/)
 <!-- BLOG-POST-LIST:END -->
