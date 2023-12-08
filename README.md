@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Apple and Google Monitor Notifications. We Need Push Notification Alternatives](https://tuta.com/blog/open-source-email-fdroid)
+- [&quot;Non-Player Character&quot;](https://www.yudkowsky.net/other/fiction/npc)
+- [Baldur&#39;s Gate 3 Wins Game of the Year at the Game Awards](https://www.nytimes.com/2023/12/07/arts/game-awards-winners-list.html)
 - [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
 - [Kagi Search – Paywalled articles indicator and improved weather widget](https://kagi.com/changelog)
-- [Reviving decade-old Macs with antiX and MX Linux &lpar;2022&rpar;](https://sts10.github.io/2022/12/14/antix-on-2008-macbook-5-1.html)
-- [We investigated France&#39;s mass profiling machine](https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
