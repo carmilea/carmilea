@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What fuel for my data furnace?](https://news.ycombinator.com/item?id=38575120)
+- [Apple cuts off Beeper Mini&#39;s access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 - [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
 - [Paving the way to efficient architectures: StripedHyena-7B](https://www.together.ai/blog/stripedhyena-7b)
 - [American Chestnut Foundation Ceasing Distribution of Blight-Resistant Seeds](https://tacf.org/darling-58/)
-- [The pro-Israel information war](https://jackpoulson.substack.com/p/inside-the-pro-israel-information)
-- [Want to apply for YC W24? We’re opening some last-minute spots](https://news.ycombinator.com/item?id=38572504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
