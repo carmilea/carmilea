@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plan for Windows 10 End of Support](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/plan-for-windows-10-eos-with-windows-11-windows-365-and-esu/ba-p/4000414)
 - [Warning from OpenAI leaders helped trigger Sam Altman&#39;s ouster](https://www.washingtonpost.com/technology/2023/12/08/open-ai-sam-altman-complaints/)
-- [Google announces April 2024 shutdown date for Google Podcasts](https://arstechnica.com/gadgets/2023/12/google-podcasts-dies-april-2024-youtube-music-migration-tool-goes-live/)
-- [DNA companies should receive the death penalty for getting hacked](https://techcrunch.com/2023/12/08/protect-or-perish/)
 - [The pro-Israel information war](https://jackpoulson.substack.com/p/inside-the-pro-israel-information)
 - [Want to apply for YC W24? We’re opening some last-minute spots](https://news.ycombinator.com/item?id=38572504)
+- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts &lpar;2017&rpar;](https://arxiv.org/abs/1701.06538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
