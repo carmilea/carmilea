@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New year, new company – encouraging last-minute applications to YC](https://news.ycombinator.com/item?id=38572504)
-- [A Bike Lane Moved, and This San Francisco Neighborhood Erupted](https://sfstandard.com/2023/12/08/san-francisco-small-business-protests-valencia-street-bike-lane/)
-- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538)
-- [Mistral releases 8x7 MoE model via torrent](https://twitter.com/MistralAI/status/1733150512395038967?s=20)
-- [FDA Approves Sickle Cell Treatments, Including One That Uses CRISPR](https://www.nytimes.com/2023/12/08/health/fda-sickle-cell-crispr.html)
+- [Warning from OpenAI leaders helped trigger Sam Altman&#39;s ouster](https://www.washingtonpost.com/technology/2023/12/08/open-ai-sam-altman-complaints/)
+- [Google announces April 2024 shutdown date for Google Podcasts](https://arstechnica.com/gadgets/2023/12/google-podcasts-dies-april-2024-youtube-music-migration-tool-goes-live/)
+- [DNA companies should receive the death penalty for getting hacked](https://techcrunch.com/2023/12/08/protect-or-perish/)
+- [The pro-Israel information war](https://jackpoulson.substack.com/p/inside-the-pro-israel-information)
+- [Want to apply for YC W24? We’re opening some last-minute spots](https://news.ycombinator.com/item?id=38572504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
