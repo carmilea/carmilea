@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral &quot;Mixtral&quot; 8x7B 32k model [magnet]](https://twitter.com/MistralAI/status/1733150512395038967)
+- [Spoofing DNS records abusing Microsoft DHCP server running in 40% of datacenters](https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp)
+- [The Onyx Programming Language](https://onyxlang.io/)
 - [jc: Converts the output of popular command-line tools to JSON](https://github.com/kellyjonbrazil/jc)
-- [London trains see power cut as thousands stranded in dark for hours](https://metro.co.uk/2023/12/08/thousands-stranded-cold-dark-london-trains-hours-power-cut-19944985/)
-- [How to think about OpenAI&#39;s rumored &lpar;and overhyped&rpar; Q* project](https://arstechnica.com/ai/2023/12/the-real-research-behind-the-wild-rumors-about-openais-q-project/)
-- [No distributed quantum advantage for approximate graph coloring](https://arxiv.org/abs/2307.09444)
-- [Postgres Language Server: Implementing the Parser](https://supabase.com/blog/postgres-language-server-implementing-parser)
+- [TXR Lisp](https://www.nongnu.org/txr/txr-lisp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
