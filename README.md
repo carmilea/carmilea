@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No distributed quantum advantage for approximate graph coloring](https://arxiv.org/abs/2307.09444)
+- [Problems on the Galaxy Store](https://forum.developer.samsung.com/t/test-confirmation-rejected-too-expensive/28238)
 - [Rollstack &lpar;YC W23&rpar; is hiring a senior software engineer in Brazil](https://www.ycombinator.com/companies/rollstack-2/jobs)
+- [National Crime Agency response to Meta&#39;s rollout of end-to-end-encryption](https://www.nationalcrimeagency.gov.uk/news/nca-response-to-meta-s-rollout-of-end-to-end-encryption)
 - [Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
-- [Tesla loses legal action in Sweden as dispute with Nordic unions escalates](https://www.theguardian.com/technology/2023/dec/07/tesla-loses-legal-action-sweden-nordic-unions-licence-plates-collective-bargaining)
-- [X.com is Twitter, but what are [a-z].com?](https://nerology.substack.com/p/xcom-is-twitter-but-what-are-a-zcom)
-- [Gaussian Head Avatar: Ultra High-Fidelity Head Avatar via Dynamic Gaussians](https://yuelangx.github.io/gaussianheadavatar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
