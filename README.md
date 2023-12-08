@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [jc: Converts the output of popular command-line tools to JSON](https://github.com/kellyjonbrazil/jc)
 - [London trains see power cut as thousands stranded in dark for hours](https://metro.co.uk/2023/12/08/thousands-stranded-cold-dark-london-trains-hours-power-cut-19944985/)
-- [Hetzner is terminating contracts with all users who had a Russian postal address](https://news.ycombinator.com/item?id=38568896)
+- [How to think about OpenAI&#39;s rumored &lpar;and overhyped&rpar; Q* project](https://arstechnica.com/ai/2023/12/the-real-research-behind-the-wild-rumors-about-openais-q-project/)
 - [No distributed quantum advantage for approximate graph coloring](https://arxiv.org/abs/2307.09444)
 - [Postgres Language Server: Implementing the Parser](https://supabase.com/blog/postgres-language-server-implementing-parser)
-- [Problems on the Galaxy Store](https://forum.developer.samsung.com/t/test-confirmation-rejected-too-expensive/28238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
