@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Plan for Windows 10 End of Support](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/plan-for-windows-10-eos-with-windows-11-windows-365-and-esu/ba-p/4000414)
-- [Warning from OpenAI leaders helped trigger Sam Altman&#39;s ouster](https://www.washingtonpost.com/technology/2023/12/08/open-ai-sam-altman-complaints/)
+- [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
+- [Paving the way to efficient architectures: StripedHyena-7B](https://www.together.ai/blog/stripedhyena-7b)
+- [American Chestnut Foundation Ceasing Distribution of Blight-Resistant Seeds](https://tacf.org/darling-58/)
 - [The pro-Israel information war](https://jackpoulson.substack.com/p/inside-the-pro-israel-information)
 - [Want to apply for YC W24? We’re opening some last-minute spots](https://news.ycombinator.com/item?id=38572504)
-- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts &lpar;2017&rpar;](https://arxiv.org/abs/1701.06538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
