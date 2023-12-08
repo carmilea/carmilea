@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Loco: The one-person Rust framework for side-projects and startups](https://github.com/loco-rs/loco)
+- [The Omnichord will be re-produced to commemorate our 70th anniversary](https://suzukimusic-global.com/products_single.php?parent_cate_cd=3&products_cate_cd=34&products_cd=315)
 - [Google calls Drive data loss &quot;fixed,&quot; locks forum threads saying otherwise](https://arstechnica.com/gadgets/2023/12/google-calls-drive-data-loss-fixed-locks-forum-threads-saying-otherwise/)
-- [OpenAI employees did not want to go work for Microsoft](https://www.businessinsider.com/openai-employees-did-not-want-to-work-for-microsoft-2023-12)
 - [Helen Toner shares her side](https://www.wsj.com/tech/ai/helen-toner-openai-board-2e4031ef)
 - [Hanukkah of Data: Practice your data skills with 8 free data puzzles](https://hanukkah.bluebird.sh/5784/)
-- [Making noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
