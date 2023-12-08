@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [White House threatens to veto anti-EV bill just passed by US House](https://arstechnica.com/cars/2023/12/white-house-threatens-to-veto-anti-ev-bill-just-passed-by-us-house/)
+- [We Investigated France&#39;s Mass Profiling Machine](https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
 - [Show HN: Homebrew 16bit CPU from 74HC logic with C compiler and Unix-like OS](http://www.sol-1.org/index.php)
 - [Tolstoy: How much Land does a man need](https://www.online-literature.com/tolstoy/2738/)
 - [The Omnichord will be re-produced to commemorate our 70th anniversary](https://suzukimusic-global.com/products_single.php?parent_cate_cd=3&products_cate_cd=34&products_cd=315)
-- [Hanukkah of Data: Practice your data skills with 8 free data puzzles](https://hanukkah.bluebird.sh/5784/)
+- [A genetically modified bacterium that outcompetes bacteria causing tooth decay](https://www.astralcodexten.com/p/defying-cavity-lantern-bioworks-faq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
