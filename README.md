@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What fuel for my data furnace?](https://news.ycombinator.com/item?id=38575120)
-- [Apple cuts off Beeper Mini&#39;s access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
-- [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
-- [Paving the way to efficient architectures: StripedHyena-7B](https://www.together.ai/blog/stripedhyena-7b)
-- [American Chestnut Foundation Ceasing Distribution of Blight-Resistant Seeds](https://tacf.org/darling-58/)
+- [Tesla Cybertruck&#39;s stiff structure, sharp design raise safety concerns](https://www.reuters.com/business/autos-transportation/tesla-cybertrucks-stiff-structure-sharp-design-raise-safety-concerns-experts-2023-12-08/)
+- [&#39;Greedflation&#39; study finds many companies were lying to you about inflation](https://fortune.com/europe/2023/12/08/greedflation-study/)
+- [Verizon fell for fake &quot;search warrant,&quot; gave victim&#39;s phone data to stalker](https://arstechnica.com/tech-policy/2023/12/verizon-fell-for-fake-search-warrant-gave-victims-phone-data-to-stalker/)
+- [EVE Online – Down the Rabbit Hole [video]](https://www.youtube.com/watch?v=BCSeISYcoyI)
+- [QuIP#: 2-bit Quantization for LLMs](https://cornell-relaxml.github.io/quip-sharp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
