@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The U.S. Government&#39;s Most Powerful Spying Tool Is Fighting for Its Life](https://www.wsj.com/politics/national-security/the-u-s-governments-most-powerful-spying-tool-is-fighting-for-its-life-5c2516d5)
-- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers)
-- [A Cultural Critique of the Tesla Cybertruck](https://www.roadandtrack.com/car-culture/a46076478/a-cultural-critique-of-the-tesla-cybertruck/)
-- [Remembering Jon Postel and the day he hijacked the internet &lpar;2012&rpar;](https://www.wired.com/2012/10/joe-postel/)
-- [Sneakers Film Promotional Floppy](https://archive.org/details/Sneakers_Film_Promotional_Floppy)
+- [Open source alternative to ChatGPT and ChatPDF-like AI tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
+- [Three Things That LLMs Have Made Us Rethink](https://rodneybrooks.com/three-things-that-llms-have-made-us-rethink/)
+- [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
+- [Scary AI recognizes passwords by the sound of your typing](https://www.pcworld.com/article/2166661/ai-recognises-passwords-by-the-sound-of-typing.html)
+- [Firefox Keeps Getting Faster](https://blog.mozilla.org/en/products/quick-as-a-fox-firefox-keeps-getting-faster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
