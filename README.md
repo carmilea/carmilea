@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple to move key iPad engineering resources to Vietnam](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-move-key-iPad-engineering-resources-to-Vietnam)
-- [Scrambling Eggs for Spotify with Knuth&#39;s Fibonacci Hashing](https://pncnmnp.github.io/blogs/fibonacci-hashing.html)
-- [Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
-- [Advent of Technical Writing: Style](https://jamesg.blog/2023/12/09/style/)
-- [Deadweight Loss as a Service](https://unoriginal.blog/introducing-dwlaas/)
+- [Ashby &lpar;YC W19&rpar; Is Hiring a Platform Engineer to Help Us Scale](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
+- [Adolescent boys struggle with disorganization and distraction](https://www.wsj.com/tech/personal-tech/middle-schoolers-academic-success-innovation-40e8456d)
+- [If You&#39;re Not Paranoid, You&#39;re Crazy](https://www.theatlantic.com/magazine/archive/2015/11/if-youre-not-paranoid-youre-crazy/407833/)
+- [Android adds ggml lib to AICore](https://twitter.com/tarantulae/status/1733263854312825220)
+- [NeurIPS 2023 Posters Cluster Visualization](https://neurips2023.vizhub.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
