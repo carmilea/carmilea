@@ -59,8 +59,8 @@
 - [Deadweight Loss as a Service](https://unoriginal.blog/introducing-dwlaas/)
 - [Langfuse &lpar;YC W23&rpar; is hiring its first engineer](https://www.workatastartup.com/jobs/62929)
 - [The Cognitive Style of Unix &lpar;2010&rpar;](https://blog.vivekhaldar.com/post/3339907908/the-cognitive-style-of-unix)
+- [French AI startup Mistral secures €2B valuation](https://www.ft.com/content/ea29ddf8-91cb-45e8-86a0-f501ab7ad9bb)
 - [W4 Games raises $15M to drive video game development with Godot Engine](https://w4games.com/2023/12/07/w4-games-raises-15m-to-drive-video-game-development-inflection-with-godot-engine/)
-- [Spain expels two US spies for infiltrating secret service](https://english.elpais.com/spain/2023-12-08/spain-expels-two-us-spies-for-infiltrating-secret-service.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
