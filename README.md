@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- [Light No Fire – A Fantasy Game from the Makers of No Man&#39;s Sky](https://lightnofire.com/)
+- [Nebula Genomics – First to offer consumer anonymous sequencing](https://nebula.org/anonymous-seq/)
+- [Terraform module for scalable GitHub action runners on AWS](https://github.com/philips-labs/terraform-aws-github-runner)
 - [EPA orders packaging firm Inhance to stop making PFAS](https://cen.acs.org/environment/persistent-pollutants/US-EPA-orders-packaging-firm/101/web/2023/12)
-- [HashiCorp Vault Forked into OpenBao](https://www.theregister.com/2023/12/08/hashicorp_openbao_fork/)
-- [NetworkX – Network Analysis in Python](https://networkx.org/)
-- [Show HN: Open-source alternatives to tools You pay for](https://osssoftware.org/)
-- [Gaussian explosion](https://aras-p.info/blog/2023/12/08/Gaussian-explosion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
