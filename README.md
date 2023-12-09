@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Model Y 2nd in new vehicle registrations in the US, overtaking Toyota RAV4](https://twitter.com/sawyermerritt/status/1733178375353618758)
+- [1968-12-09 the mother of all demos](https://dougengelbart.org/content/view/209/)
+- [Backdoor found in secure TETRA radios](https://www.cryptomuseum.com/radio/tetra/burst.htm)
 - [Ashby &lpar;YC W19&rpar; Is Hiring a Platform Engineer to Help Us Scale](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
-- [Adolescent boys struggle with disorganization and distraction](https://www.wsj.com/tech/personal-tech/middle-schoolers-academic-success-innovation-40e8456d)
-- [If You&#39;re Not Paranoid, You&#39;re Crazy](https://www.theatlantic.com/magazine/archive/2015/11/if-youre-not-paranoid-youre-crazy/407833/)
 - [Android adds ggml lib to AICore](https://twitter.com/tarantulae/status/1733263854312825220)
-- [NeurIPS 2023 Posters Cluster Visualization](https://neurips2023.vizhub.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
