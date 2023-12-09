@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What sub $200 product improved your 2023](https://news.ycombinator.com/item?id=38585109)
+- [Is Grok Basically Just an OpenAI Wrapper?](https://twitter.com/JaxWinterbourne/status/1733360575252517001)
+- [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 - [Amazon Has an Honesty Issue](https://www.bentasker.co.uk/posts/blog/opinion/amazon-parcel-contents-get-stolen-and-then-amazon-tries-to-keep-payment.html)
 - [Mistral&#39;s mixtral-8x7B-32kseqlen on vercel](https://twitter.com/rauchg/status/1733540995546190048)
-- [Doug Engelbart’s 1968 demo](https://dougengelbart.org/content/view/209/)
-- [New QuickJS Release](https://github.com/bellard/quickjs/commit/daa35bc1e5d43192098af9b51caeb4f18f73f9f9)
-- [Backdoor found in secure TETRA radios](https://www.cryptomuseum.com/radio/tetra/burst.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
