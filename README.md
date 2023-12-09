@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wine 9.0 RC1 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://www.winehq.org/announce/9.0-rc1)
+- [Show HN: Open-source alternatives to tools You pay for](https://osssoftware.org/)
 - [Gaussian Explosion](https://aras-p.info/blog/2023/12/08/Gaussian-explosion/)
 - [Verizon fell for fake &quot;search warrant,&quot; gave victim&#39;s phone data to stalker](https://arstechnica.com/tech-policy/2023/12/verizon-fell-for-fake-search-warrant-gave-victims-phone-data-to-stalker/)
-- [EVE Online – Down the Rabbit Hole [video]](https://www.youtube.com/watch?v=BCSeISYcoyI)
 - [QuIP#: 2-bit Quantization for LLMs](https://cornell-relaxml.github.io/quip-sharp/)
-- [E.U. Agrees on Artificial Intelligence Rules with Landmark New Law](https://www.nytimes.com/2023/12/08/technology/eu-ai-act-regulation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
