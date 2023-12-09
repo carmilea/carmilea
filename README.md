@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If buying isn&#39;t owning, piracy isn&#39;t stealing](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)
+- [Turning staff into workaholics makes them way less productive, Slack finds](https://www.economist.com/graphic-detail/2022/06/22/the-worlds-most-liveable-cities)
+- [Gilles Deleuze – What is Philosophy? [audio]](https://www.philosophizethis.org/podcast/deleuze-pt-1)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 - [PysimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
-- [OpenBao – FOSS Fork of HashiCorp Vault](https://github.com/openbao/openbao/tree/development)
-- [Light No Fire – A Fantasy Game from the Makers of No Man&#39;s Sky](https://lightnofire.com/)
-- [Nebula Genomics – First to offer consumer anonymous sequencing](https://nebula.org/anonymous-seq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
