@@ -59,8 +59,8 @@
 - [EPA orders packaging firm Inhance to stop making PFAS](https://cen.acs.org/environment/persistent-pollutants/US-EPA-orders-packaging-firm/101/web/2023/12)
 - [HashiCorp Vault Forked into OpenBao](https://www.theregister.com/2023/12/08/hashicorp_openbao_fork/)
 - [NetworkX – Network Analysis in Python](https://networkx.org/)
-- [Wine 9.0 RC1 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://www.winehq.org/announce/9.0-rc1)
 - [Show HN: Open-source alternatives to tools You pay for](https://osssoftware.org/)
+- [Gaussian explosion](https://aras-p.info/blog/2023/12/08/Gaussian-explosion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
