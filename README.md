@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What sub $200 product improved your 2023](https://news.ycombinator.com/item?id=38585109)
-- [Is Grok Basically Just an OpenAI Wrapper?](https://twitter.com/JaxWinterbourne/status/1733360575252517001)
+- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers)
+- [Remembering Jon Postel and the day he hijacked the internet &lpar;2012&rpar;](https://www.wired.com/2012/10/joe-postel/)
+- [Gross value added per worker by country and area in Europe](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6974049f-7543-41a2-ae38-8a2347c99799_1240x1052.png)
+- [Sneakers Film Promotional Floppy](https://archive.org/details/Sneakers_Film_Promotional_Floppy)
 - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
-- [Amazon Has an Honesty Issue](https://www.bentasker.co.uk/posts/blog/opinion/amazon-parcel-contents-get-stolen-and-then-amazon-tries-to-keep-payment.html)
-- [Mistral&#39;s mixtral-8x7B-32kseqlen on vercel](https://twitter.com/rauchg/status/1733540995546190048)
 <!-- BLOG-POST-LIST:END -->
 
 ---
