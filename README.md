@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Model Y 2nd in new vehicle registrations in the US, overtaking Toyota RAV4](https://twitter.com/sawyermerritt/status/1733178375353618758)
-- [1968-12-09 the mother of all demos](https://dougengelbart.org/content/view/209/)
+- [Amazon Has an Honesty Issue](https://www.bentasker.co.uk/posts/blog/opinion/amazon-parcel-contents-get-stolen-and-then-amazon-tries-to-keep-payment.html)
+- [Mistral&#39;s mixtral-8x7B-32kseqlen on vercel](https://twitter.com/rauchg/status/1733540995546190048)
+- [Doug Engelbart’s 1968 demo](https://dougengelbart.org/content/view/209/)
+- [New QuickJS Release](https://github.com/bellard/quickjs/commit/daa35bc1e5d43192098af9b51caeb4f18f73f9f9)
 - [Backdoor found in secure TETRA radios](https://www.cryptomuseum.com/radio/tetra/burst.htm)
-- [Ashby &lpar;YC W19&rpar; Is Hiring a Platform Engineer to Help Us Scale](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
-- [Android adds ggml lib to AICore](https://twitter.com/tarantulae/status/1733263854312825220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
