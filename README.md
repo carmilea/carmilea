@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple to move key iPad engineering resources to Vietnam](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-move-key-iPad-engineering-resources-to-Vietnam)
+- [Scrambling Eggs for Spotify with Knuth&#39;s Fibonacci Hashing](https://pncnmnp.github.io/blogs/fibonacci-hashing.html)
+- [Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
+- [Advent of Technical Writing: Style](https://jamesg.blog/2023/12/09/style/)
 - [Deadweight Loss as a Service](https://unoriginal.blog/introducing-dwlaas/)
-- [Langfuse &lpar;YC W23&rpar; is hiring its first engineer](https://www.workatastartup.com/jobs/62929)
-- [The Cognitive Style of Unix &lpar;2010&rpar;](https://blog.vivekhaldar.com/post/3339907908/the-cognitive-style-of-unix)
-- [French AI startup Mistral secures €2B valuation](https://www.ft.com/content/ea29ddf8-91cb-45e8-86a0-f501ab7ad9bb)
-- [W4 Games raises $15M to drive video game development with Godot Engine](https://w4games.com/2023/12/07/w4-games-raises-15m-to-drive-video-game-development-inflection-with-godot-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
