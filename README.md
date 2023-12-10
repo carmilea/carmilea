@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Anyone Interested in Taking over Jsweet.org?](https://news.ycombinator.com/item?id=38592087)
-- [Tech firms failing to &#39;walk the walk&#39; on ethical AI, report says](https://www.aljazeera.com/news/2023/12/8/tech-firms-failing-to-walk-the-walk-on-ethical-ai-report-says)
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=38592947)
+- [A Warrant Showing the U.S. Government Is Monitoring Push Notifications](https://www.404media.co/us-government-warrant-monitoring-push-notifications-apple-google-yahoo/)
 - [Created a free website that simplifies stock analysis](https://stocknear.com/)
 - [Tyrannosaur&#39;s Stomach Contents Have Been Found](https://www.scientificamerican.com/article/tyrannosaurs-stomach-contents-have-been-found-for-the-first-time/)
-- [Croatia could be Europe&#39;s hidden tech haven in 2024](https://www.fastcompany.com/90995354/croatia-could-be-europes-hidden-tech-haven-in-2024)
+- [Write your own retro compiler](http://t3x.org/t3x/0/book.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
