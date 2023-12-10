@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open source alternative to ChatGPT and ChatPDF-like AI tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
-- [Three Things That LLMs Have Made Us Rethink](https://rodneybrooks.com/three-things-that-llms-have-made-us-rethink/)
+- [American workers proving they don&#39;t need to return to office to be productive](https://fortune.com/2023/12/09/what-is-fueling-productivity-boom-four-reasons/)
+- [65% increase in &quot;significant&quot; Air Traffic Control incidents in 2023](https://www.nytimes.com/2023/12/02/business/air-traffic-controllers-safety.html)
+- [Nokia Bell Labs Is Moving to Helix in New Brunswick](https://www.roi-nj.com/2023/12/08/real_estate/nokia-bell-labs-is-moving-to-helix-in-new-brunswick/)
+- [Show HN: Open source alternative to ChatGPT and ChatPDF-like AI tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
 - [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
-- [Scary AI recognizes passwords by the sound of your typing](https://www.pcworld.com/article/2166661/ai-recognises-passwords-by-the-sound-of-typing.html)
-- [Firefox Keeps Getting Faster](https://blog.mozilla.org/en/products/quick-as-a-fox-firefox-keeps-getting-faster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
