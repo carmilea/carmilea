@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to inform YouTube a video is no longer under copyright?](https://news.ycombinator.com/item?id=38591080)
+- [AST-grep&lpar;sg&rpar; is a CLI tool for code structural search, lint, and rewriting](https://github.com/ast-grep/ast-grep)
 - [Lago &lpar;Open-Source Stripe Billing&rpar; Is Hiring Back-End Ruby Engineers in EU](https://www.ycombinator.com/companies/lago/jobs/RvvzKuM-sr-back-end-ruby-engineer)
 - [Stealthy Linux rootkit found in the wild after going undetected for 2 years](https://arstechnica.com/security/2023/12/stealthy-linux-rootkit-found-in-the-wild-after-going-undetected-for-2-years/)
 - [HP printer app is installing on PCs whether they have HP printers or not](https://arstechnica.com/gadgets/2023/12/hp-printer-app-is-installing-on-pcs-whether-they-have-hp-printers-or-not/)
-- [Ask HN: Should I subscribe to ChatGPT Plus if we can get it for free on Bing?](https://news.ycombinator.com/item?id=38590313)
-- [Fuzzy Finding with Emacs Instead of Fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
