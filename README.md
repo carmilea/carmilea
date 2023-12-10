@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to inform YouTube a video is no longer under copyright?](https://news.ycombinator.com/item?id=38591080)
-- [AST-grep&lpar;sg&rpar; is a CLI tool for code structural search, lint, and rewriting](https://github.com/ast-grep/ast-grep)
-- [Lago &lpar;Open-Source Stripe Billing&rpar; Is Hiring Back-End Ruby Engineers in EU](https://www.ycombinator.com/companies/lago/jobs/RvvzKuM-sr-back-end-ruby-engineer)
-- [Stealthy Linux rootkit found in the wild after going undetected for 2 years](https://arstechnica.com/security/2023/12/stealthy-linux-rootkit-found-in-the-wild-after-going-undetected-for-2-years/)
-- [HP printer app is installing on PCs whether they have HP printers or not](https://arstechnica.com/gadgets/2023/12/hp-printer-app-is-installing-on-pcs-whether-they-have-hp-printers-or-not/)
+- [First female active-duty soldier graduates from sniper schools](https://taskandpurpose.com/news/first-female-active-duty-soldier-graduates-from-sniper-schools/)
+- [Spotify announces CFO to leave, days after he cashed in $9.3M in shares](https://www.theguardian.com/technology/2023/dec/08/spotify-announces-cfo-to-leave-days-after-he-cashed-in-shares)
+- [Tyrannosaur&#39;s Stomach Contents Have Been Found](https://www.scientificamerican.com/article/tyrannosaurs-stomach-contents-have-been-found-for-the-first-time/)
+- [Is the Texas boom town of Austin losing its luster?](https://techcrunch.com/2023/12/07/is-the-texas-boom-town-of-austin-losing-its-luster/)
+- [Write your own retro compiler](http://t3x.org/t3x/0/book.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
