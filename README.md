@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/)
-- [Rising sea levels threaten hazardous waste facilities along U.S. coast](https://www.axios.com/2023/12/10/sea-levels-hazardous-waste-climate-change)
-- [The United Arab Emirates&#39; takeover of African forests](https://www.lemonde.fr/en/le-monde-africa/article/2023/12/10/the-united-arab-emirates-takeover-of-african-forests_6328426_124.html)
-- [SSH keys stolen by stream of malicious PyPI and NPM packages](https://www.bleepingcomputer.com/news/security/ssh-keys-stolen-by-stream-of-malicious-pypi-and-npm-packages/)
-- [Sigil II, a Doom WAD from J.Romero, has been released](https://doomwiki.org/wiki/SIGIL_II)
+- [The subtleties of proper B+Tree implementation](https://ayende.com/blog/198241-B/the-subtleties-of-proper-b-tree-implementation)
+- [FFM &lpar;Foreign Function and Memory API&rpar; Goes Final](https://mail.openjdk.org/pipermail/panama-dev/2023-October/020095.html)
+- [Columbia and NYU Would Lose $327M in Tax Breaks Under Proposal](https://www.nytimes.com/2023/12/10/nyregion/columbia-nyu-property-tax-exemptions-legislation.html)
+- [You Can Select Multiple Tabs in Safari, Chrome, Firefox](https://daringfireball.net/linked/2023/12/07/safari-chrome-firebox-multiple-tab-selection)
+- [Ratatui](https://github.com/ratatui-org/ratatui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
