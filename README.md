@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cramming a Tiny Program into a Tiny ELF File: A Case Study](https://tmpout.sh/3/22.html)
 - [Fear of cheap Chinese EVs spurs automaker dash for affordable cars](https://www.reuters.com/business/autos-transportation/fear-cheap-chinese-evs-spurs-automaker-dash-affordable-cars-2023-12-08/)
 - [Factors driving a productivity explosion](https://fortune.com/2023/12/09/what-is-fueling-productivity-boom-four-reasons/)
+- [65% increase in &quot;significant&quot; Air Traffic Control incidents in 2023](https://www.nytimes.com/2023/12/02/business/air-traffic-controllers-safety.html)
 - [Nokia Bell Labs Is Moving to Helix in New Brunswick](https://www.roi-nj.com/2023/12/08/real_estate/nokia-bell-labs-is-moving-to-helix-in-new-brunswick/)
-- [Show HN: Open source alternative to ChatGPT and ChatPDF-like AI tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
-- [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
 <!-- BLOG-POST-LIST:END -->
 
 ---
