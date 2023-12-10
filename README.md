@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lago &lpar;Open-Source Stripe Billing&rpar; Is Hiring Back-End Ruby Engineers in EU](https://www.ycombinator.com/companies/lago/jobs/RvvzKuM-sr-back-end-ruby-engineer)
+- [Stealthy Linux rootkit found in the wild after going undetected for 2 years](https://arstechnica.com/security/2023/12/stealthy-linux-rootkit-found-in-the-wild-after-going-undetected-for-2-years/)
+- [HP printer app is installing on PCs whether they have HP printers or not](https://arstechnica.com/gadgets/2023/12/hp-printer-app-is-installing-on-pcs-whether-they-have-hp-printers-or-not/)
 - [Ask HN: Should I subscribe to ChatGPT Plus if we can get it for free on Bing?](https://news.ycombinator.com/item?id=38590313)
 - [Fuzzy Finding with Emacs Instead of Fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
-- [Trust-Based Moderation Systems](https://cblgh.org/trustnet/)
-- [Innovation of the Year: BYD Blade Battery](https://www.electrifying.com/blog/best-cars/innovation-of-the-year-byd-blade-battery)
-- [Is RISC-V ready for HPC? Evaluating the 64-core Sophon SG2042 RISC-V CPU](https://arxiv.org/abs/2309.00381)
 <!-- BLOG-POST-LIST:END -->
 
 ---
