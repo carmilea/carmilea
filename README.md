@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sigil II, a Doom WAD from J.Romero, has been released](https://doomwiki.org/wiki/SIGIL_II)
+- [Inert pesticide ingredients may be more toxic to bees than scientists thought](https://theconversation.com/inert-ingredients-in-pesticides-may-be-more-toxic-to-bees-than-scientists-thought-218005)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=38592947)
+- [Methane under the seabed is thawing as oceans warm – it&#39;s worse than we thought](https://theconversation.com/frozen-methane-under-the-seabed-is-thawing-as-oceans-warm-and-things-are-worse-than-we-thought-216054)
 - [A Warrant Showing the U.S. Government Is Monitoring Push Notifications](https://www.404media.co/us-government-warrant-monitoring-push-notifications-apple-google-yahoo/)
-- [Created a free website that simplifies stock analysis](https://stocknear.com/)
-- [Tyrannosaur&#39;s Stomach Contents Have Been Found](https://www.scientificamerican.com/article/tyrannosaurs-stomach-contents-have-been-found-for-the-first-time/)
-- [Write your own retro compiler](http://t3x.org/t3x/0/book.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
