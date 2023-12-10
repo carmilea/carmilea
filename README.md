@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What&#39;s the best hardware to run small/medium models locally?](https://news.ycombinator.com/item?id=38589520)
+- [Moore vs. United States: Tax Unrealized Income Case](https://taxfoundation.org/research/all/federal/moore-v-united-states-tax-unrealized-income/)
 - [Linux: Ext4 data corruption in 6.1.64-1](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
 - [What Is L4S?](https://www.theverge.com/23655762/l4s-internet-apple-comcast-latency-speed-bandwidth)
 - [Trippy – A Network Diagnostic Tool](https://trippy.cli.rs/)
-- [Cramming a tiny program into a tiny ELF file](https://tmpout.sh/3/22.html)
-- [65% increase in &quot;significant&quot; Air Traffic Control incidents in 2023](https://www.nytimes.com/2023/12/02/business/air-traffic-controllers-safety.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
