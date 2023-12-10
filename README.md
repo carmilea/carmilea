@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
 - [Meticulous.ai &lpar;YC S21&rpar; Is Hiring to make tests obsolete](https://news.ycombinator.com/item?id=38594989)
+- [PC GEOS: the multitasking DOS-based GUI OS that evolved from a C64 desktop](https://github.com/bluewaysw/pcgeos)
+- [Coherent: The affordable Unix-like PC OS from over a decade before Linux 0.01](https://github.com/gspu/Coherent)
 - [Omg.lol: An Oasis on the Internet](https://blakewatson.com/journal/omg-lol-an-oasis-on-the-internet/)
-- [Mistral-8x7B-Chat](https://huggingface.co/mattshumer/mistral-8x7b-chat)
-- [I wrote a meta mode for ChatGPT &lpar;*** see comments for correct URL&rpar;](https://www.novaspivack.com/technology/nova-mode-the-ultimate-chatgpt-custom-instruction)
-- [Applesauce lead poisoning cases in kids surge amid questions on FDA oversight](https://www.washingtonpost.com/wellness/2023/12/09/applesauce-recall-lead-poisoning-cinnamon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
