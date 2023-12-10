@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/)
+- [Rising sea levels threaten hazardous waste facilities along U.S. coast](https://www.axios.com/2023/12/10/sea-levels-hazardous-waste-climate-change)
+- [The United Arab Emirates&#39; takeover of African forests](https://www.lemonde.fr/en/le-monde-africa/article/2023/12/10/the-united-arab-emirates-takeover-of-african-forests_6328426_124.html)
+- [SSH keys stolen by stream of malicious PyPI and NPM packages](https://www.bleepingcomputer.com/news/security/ssh-keys-stolen-by-stream-of-malicious-pypi-and-npm-packages/)
 - [Sigil II, a Doom WAD from J.Romero, has been released](https://doomwiki.org/wiki/SIGIL_II)
-- [Inert pesticide ingredients may be more toxic to bees than scientists thought](https://theconversation.com/inert-ingredients-in-pesticides-may-be-more-toxic-to-bees-than-scientists-thought-218005)
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=38592947)
-- [Methane under the seabed is thawing as oceans warm – it&#39;s worse than we thought](https://theconversation.com/frozen-methane-under-the-seabed-is-thawing-as-oceans-warm-and-things-are-worse-than-we-thought-216054)
-- [A Warrant Showing the U.S. Government Is Monitoring Push Notifications](https://www.404media.co/us-government-warrant-monitoring-push-notifications-apple-google-yahoo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
