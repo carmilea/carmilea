@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral AI, a Paris-based OpenAI rival, closed its $415M funding round](https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/)
+- [The Religion of Techno-Optimism](https://www.disconnect.blog/p/the-religion-of-techno-optimism)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 - [$35 smart calculator for small shops](https://smart.tohands.in/)
 - [Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
-- [Books of 2023, as Chosen by The Economist](https://www.economist.com/culture/2023/12/01/the-best-books-of-2023-as-chosen-by-the-economist)
-- [Building a bare-metal bootable game for Raspberry Pi in C#](https://migeel.sk/blog/2023/12/08/building-bare-metal-bootable-game-for-raspberry-pi-in-csharp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
