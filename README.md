@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wasabi linked to &quot;substantial&quot; boost in memory, Japanese study finds](https://www.cbsnews.com/news/wasabi-memory-boost-japanese-study-finds/)
+- [John Carmack and John Romero reunited to talk DOOM on its 30th Anniversary](https://www.pcgamer.com/for-dooms-30th-anniversary-the-johns-romero-and-carmack-reunited-to-celebrate-the-fps-that-changed-everything-i-want-to-thank-everybody-in-the-doom-community-for-keeping-this-game-alive/)
+- [Simulatrex – LLM-Based Simulations](https://github.com/simulatrex/simulatrex)
+- [Pitivi – Free video editor with a beautiful and intuitive user interface](https://www.pitivi.org/)
+- [High school math doesn&#39;t prepare most students for their college majors](https://hechingerreport.org/proof-points-professors-say-high-school-math-doesnt-prepare-most-students-for-their-college-majors/)
 - [Please, expose your RSS](https://rknight.me/please-expose-your-rss/)
-- [The Bare Minimum Video Game: The Odyssey 100](https://nicole.express/2023/special-thanks-to-homer.html)
-- [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
-- [The surprising connection between after-hours work and decreased productivity](https://slack.com/intl/en-gb/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity?nojsmode=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
