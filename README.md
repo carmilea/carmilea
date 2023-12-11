@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-4 has Seasonal Depression](https://twitter.com/fabianstelzer/status/1734296159873536214)
-- [Fntastic announces shutdown four days after releasing &quot;The Day Before&quot;](https://www.fntastic.com)
+- [To Revive Portland, Officials Seek to Recriminalize Public Drug Use](https://www.nytimes.com/2023/12/11/us/portland-oregon-drug-laws.html)
+- [The depths of the input element](https://www.htmhell.dev/adventcalendar/2023/8/)
+- [Deep Learning – Foundations and Concepts &lpar;Chris Bishop&rpar;](https://www.bishopbook.com/)
 - [Show HN: I built an OSS alternative to Azure OpenAI services](https://github.com/bricks-cloud/BricksLLM)
-- [GigaGPT: GPT-3 sized models in 565 lines of code](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code)
-- [Web Browser Telemetry](http://sizeof.cat/post/web-browser-telemetry/)
+- [TSA introducing self-service screening technology in Las Vegas](https://upgradedpoints.com/news/tsa-self-service-screening/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
