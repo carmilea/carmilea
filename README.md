@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US lawyer who put Big Tobacco on trial takes aim at sports betting](https://www.ft.com/content/497fdb45-fe81-4b13-97d0-70abe667b94f)
+- [The best WebAssembly runtime may be no runtime](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
+- [Beeper Mini is back](https://blog.beeper.com/p/beeper-mini-is-back)
 - [Patterns &lpar;YC S21&rpar; is hiring to automate analytics with LLMs](https://patterns.app/)
-- [Who will lead the charge to a four-day work week?](https://www.politico.com/newsletters/weekly-shift/2023/12/11/who-will-lead-the-charge-to-a-four-day-work-week-00131035)
-- [Bad Science and Bad Statistics in the Courtroom Convict Innocent People](https://www.scientificamerican.com/article/bad-science-and-bad-statistics-in-the-courtroom-convict-innocent-people/)
-- [Ego killed the empowered product team](https://jeffgothelf.com/blog/ego-killed-the-empowered-product-team/)
-- [Marmot: Multi-writer distributed SQLite based on NATS](https://github.com/maxpert/marmot)
+- [&#39;Glacier mice&#39; baffle scientists](https://www.atlasobscura.com/articles/herds-of-glacier-mice-baffle-scientists)
 <!-- BLOG-POST-LIST:END -->
 
 ---
