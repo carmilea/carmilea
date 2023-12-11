@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It&#39;s Real](https://sagittarius.greg.technology/)
+- [A massive tech company exodus occurring in Austin, Texas](https://www.mysanantonio.com/business/article/austin-loses-tech-companies-18541636.php)
 - [John Carmack and John Romero reunited to talk DOOM on its 30th Anniversary](https://www.pcgamer.com/for-dooms-30th-anniversary-the-johns-romero-and-carmack-reunited-to-celebrate-the-fps-that-changed-everything-i-want-to-thank-everybody-in-the-doom-community-for-keeping-this-game-alive/)
-- [Simulatrex – LLM-Based Simulations](https://github.com/simulatrex/simulatrex)
+- [Could We Stop Yellowstone from Erupting with a Giant Geothermal Power Plant?](https://www.construction-physics.com/p/could-we-stop-yellowstone-from-erupting)
 - [Pitivi – Free video editor with a beautiful and intuitive user interface](https://www.pitivi.org/)
-- [High school math doesn&#39;t prepare most students for their college majors](https://hechingerreport.org/proof-points-professors-say-high-school-math-doesnt-prepare-most-students-for-their-college-majors/)
-- [Please, expose your RSS](https://rknight.me/please-expose-your-rss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
