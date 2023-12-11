@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI rejection letter for being born on the wrong date](https://old.reddit.com/r/antiwork/comments/18eyr87/got_an_ai_rejection_letter_forbeing_born_on_the/)
+- [Fixing Classical Cats: How I Got Tricked by 28-Year-Old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
 - [Low Latency, Low Loss, and Scalable Throughput &lpar;L4S&rpar; Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
 - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
 - [HN-comments-drawer: one line HN comments integration into sites](https://github.com/prakhar897/hn-comments-drawer)
-- [NeurIPS 2023: Expo Day](https://mlcontests.com/neurips-2023/expo-day/)
-- [Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It&#39;s Real](https://sagittarius.greg.technology/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
