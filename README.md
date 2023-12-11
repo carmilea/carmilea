@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wasabi linked to &quot;substantial&quot; boost in memory, Japanese study finds](https://www.cbsnews.com/news/wasabi-memory-boost-japanese-study-finds/)
+- [Please, expose your RSS](https://rknight.me/please-expose-your-rss/)
+- [The Bare Minimum Video Game: The Odyssey 100](https://nicole.express/2023/special-thanks-to-homer.html)
 - [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
-- [Ask HN: Why haven&#39;t we seen a race to the bottom in SaaS pricing?](https://news.ycombinator.com/item?id=38595256)
 - [The surprising connection between after-hours work and decreased productivity](https://slack.com/intl/en-gb/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity?nojsmode=1)
-- [Meticulous.ai &lpar;YC S21&rpar; Is Hiring to make tests obsolete](https://news.ycombinator.com/item?id=38594989)
-- [PC GEOS: the multitasking DOS-based GUI OS that evolved from a C64 desktop](https://github.com/bluewaysw/pcgeos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
