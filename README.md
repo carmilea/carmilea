@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-4 has Seasonal Depression](https://twitter.com/fabianstelzer/status/1734296159873536214)
+- [Fntastic announces shutdown four days after releasing &quot;The Day Before&quot;](https://www.fntastic.com)
+- [Show HN: I built an OSS alternative to Azure OpenAI services](https://github.com/bricks-cloud/BricksLLM)
 - [GigaGPT: GPT-3 sized models in 565 lines of code](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code)
 - [Web Browser Telemetry](http://sizeof.cat/post/web-browser-telemetry/)
-- [Photorealistic Video Generation with Diffusion Models](https://walt-video-diffusion.github.io/)
-- [Nvidia emerges as leading investor in AI companies](https://www.ft.com/content/25337df3-5b98-4dd1-b7a9-035dcc130d6a)
-- [US lawyer who put Big Tobacco on trial takes aim at sports betting](https://www.ft.com/content/497fdb45-fe81-4b13-97d0-70abe667b94f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
