@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Marmot: Multi-writer distributed SQLite based on NATS](https://github.com/maxpert/marmot)
+- [Anti-aging drug for dogs moves closer to gaining FDA approval](https://www.foxnews.com/health/anti-aging-drug-dogs-san-francisco-firm-moves-closer-gaining-fda-approval)
+- [Whirlygig Volumetric Display LPC1768 Demo &lpar;2014&rpar; [video]](https://www.youtube.com/watch?v=8MFhoGbUYPY)
 - [How to Warm Up Your Workspace](https://www.singlestore.com/blog/how-to-warm-up-your-workspace)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Tohands – Smart calculator for small businesses](https://smart.tohands.in/)
-- [Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
-- [Books of 2023, as Chosen by The Economist](https://www.economist.com/culture/2023/12/01/the-best-books-of-2023-as-chosen-by-the-economist)
+- [Why scientists are making transparent wood](https://arstechnica.com/science/2023/12/why-scientists-are-making-transparent-wood/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
