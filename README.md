@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Low Latency, Low Loss, and Scalable Throughput &lpar;L4S&rpar; Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
+- [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
+- [NeurIPS 2023: Expo Day](https://mlcontests.com/neurips-2023/expo-day/)
 - [Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It&#39;s Real](https://sagittarius.greg.technology/)
 - [John Carmack and John Romero reunited to talk DOOM on its 30th Anniversary](https://www.pcgamer.com/for-dooms-30th-anniversary-the-johns-romero-and-carmack-reunited-to-celebrate-the-fps-that-changed-everything-i-want-to-thank-everybody-in-the-doom-community-for-keeping-this-game-alive/)
-- [Could We Stop Yellowstone from Erupting with a Giant Geothermal Power Plant?](https://www.construction-physics.com/p/could-we-stop-yellowstone-from-erupting)
-- [Pitivi – Free video editor with a beautiful and intuitive user interface](https://www.pitivi.org/)
-- [Littlefs – a little fail-safe filesystem designed for microcontrollers](https://github.com/littlefs-project/littlefs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
