@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jedec Publishes New CAMM2 Memory Module Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-new-camm2-memory-module-standard)
-- [Why Blogging Platforms Suck](https://bannerblog.dev/why-banner-blog)
-- [Mistral: Our first AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
-- [Mistral: Mixtral of Experts](https://mistral.ai/news/mixtral-of-experts/)
-- [Fixing Classical Cats: How I Got Tricked by 28-Year-Old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [$35 smart calculator for small shops](https://smart.tohands.in/)
+- [Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
+- [Books of 2023, as Chosen by The Economist](https://www.economist.com/culture/2023/12/01/the-best-books-of-2023-as-chosen-by-the-economist)
+- [Building a bare-metal bootable game for Raspberry Pi in C#](https://migeel.sk/blog/2023/12/08/building-bare-metal-bootable-game-for-raspberry-pi-in-csharp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
