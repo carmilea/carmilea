@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ego killed the empowered product team](https://jeffgothelf.com/blog/ego-killed-the-empowered-product-team/)
+- [Attacking Journalists as Terrorists](https://www.craigmurray.org.uk/archives/2023/12/attacking-journalists-as-terrorists/)
 - [Marmot: Multi-writer distributed SQLite based on NATS](https://github.com/maxpert/marmot)
 - [Anti-aging drug for dogs moves closer to gaining FDA approval](https://www.foxnews.com/health/anti-aging-drug-dogs-san-francisco-firm-moves-closer-gaining-fda-approval)
 - [Whirlygig Volumetric Display LPC1768 Demo &lpar;2014&rpar; [video]](https://www.youtube.com/watch?v=8MFhoGbUYPY)
-- [How to Warm Up Your Workspace](https://www.singlestore.com/blog/how-to-warm-up-your-workspace)
-- [Why scientists are making transparent wood](https://arstechnica.com/science/2023/12/why-scientists-are-making-transparent-wood/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
