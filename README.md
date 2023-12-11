@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [To Revive Portland, Officials Seek to Recriminalize Public Drug Use](https://www.nytimes.com/2023/12/11/us/portland-oregon-drug-laws.html)
+- [AdaptNet: Policy Adaptation for Physics-Based Character Control](https://arxiv.org/abs/2310.00239)
+- [What if an SQL Statement Returned a Database?](https://arxiv.org/abs/2312.00638)
+- [Natl Sheriffs&#39; Assoc. letter against federal civil asset forfeiture reform [pdf]](https://www.sheriffs.org/sites/default/files/NSALetterOpposingHR1525FAIRAct.pdf)
+- [FISA &quot;Reform&quot; Bill Would Greatly Expand the Entities Forced to Surveil Users](https://www.zwillgen.com/law-enforcement/fisa-reform-bill-702-surveillance/)
 - [The depths of the input element](https://www.htmhell.dev/adventcalendar/2023/8/)
-- [Deep Learning – Foundations and Concepts &lpar;Chris Bishop&rpar;](https://www.bishopbook.com/)
-- [Show HN: I built an OSS alternative to Azure OpenAI services](https://github.com/bricks-cloud/BricksLLM)
-- [TSA introducing self-service screening technology in Las Vegas](https://upgradedpoints.com/news/tsa-self-service-screening/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
