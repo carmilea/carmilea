@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GigaGPT: GPT-3 sized models in 565 lines of code](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code)
+- [Web Browser Telemetry](http://sizeof.cat/post/web-browser-telemetry/)
+- [Photorealistic Video Generation with Diffusion Models](https://walt-video-diffusion.github.io/)
+- [Nvidia emerges as leading investor in AI companies](https://www.ft.com/content/25337df3-5b98-4dd1-b7a9-035dcc130d6a)
 - [US lawyer who put Big Tobacco on trial takes aim at sports betting](https://www.ft.com/content/497fdb45-fe81-4b13-97d0-70abe667b94f)
-- [The best WebAssembly runtime may be no runtime](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
-- [Beeper Mini is back](https://blog.beeper.com/p/beeper-mini-is-back)
-- [Patterns &lpar;YC S21&rpar; is hiring to automate analytics with LLMs](https://patterns.app/)
-- [&#39;Glacier mice&#39; baffle scientists](https://www.atlasobscura.com/articles/herds-of-glacier-mice-baffle-scientists)
 <!-- BLOG-POST-LIST:END -->
 
 ---
