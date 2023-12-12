@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AdaptNet: Policy Adaptation for Physics-Based Character Control](https://arxiv.org/abs/2310.00239)
-- [What if an SQL Statement Returned a Database?](https://arxiv.org/abs/2312.00638)
-- [Natl Sheriffs&#39; Assoc. letter against federal civil asset forfeiture reform [pdf]](https://www.sheriffs.org/sites/default/files/NSALetterOpposingHR1525FAIRAct.pdf)
-- [FISA &quot;Reform&quot; Bill Would Greatly Expand the Entities Forced to Surveil Users](https://www.zwillgen.com/law-enforcement/fisa-reform-bill-702-surveillance/)
-- [The depths of the input element](https://www.htmhell.dev/adventcalendar/2023/8/)
+- [Epic win: Jury decides Google has illegal monopoly in app store fight](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play)
+- [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
+- [The House Intelligence Committee&#39;s Surveillance &#39;Reform&#39; Bill Is a Farce](https://www.eff.org/deeplinks/2023/12/section-702-needs-reform-and-oversight-not-expansion-congress-should-oppose-hpsci)
+- [Behavior Belongs in the HTML](https://unplannedobsolescence.com/blog/behavior-belongs-in-html/)
+- [Deep in the Wilderness, the Largest Beaver Dam Endures](https://e360.yale.edu/features/worlds-largest-beaver-dam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
