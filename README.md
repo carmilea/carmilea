@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford cutting 2024 F-150 Lightning production plans by half](https://www.autonews.com/manufacturing/ford-cutting-f-150-lightning-ev-production-half-memo-says)
+- [Hardening Cellular Basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
+- [The Singularity Is Nigh!](https://www.programmablemutter.com/p/the-singularity-is-nigh-republished)
 - [What Will Enter the Public Domain in 2024?](https://publicdomainreview.org/features/entering-the-public-domain/2024/)
 - [Edge Functions: Node and native NPM compatibility](https://supabase.com/blog/edge-functions-node-npm)
-- [Bae Systems&#39; New Hampshire computer chip plant the first to get CHIPS funding](https://www.cnbc.com/2023/12/11/bae-systems-new-hampshire-computer-chip-plant-the-first-to-get-funding-from-chips-law.html)
-- [Pharmacies share medical data with police without a warrant, inquiry finds](https://www.washingtonpost.com/technology/2023/12/12/pharmacy-records-police-privacy-abortion/)
-- [VMware by Broadcom transition to subscription, end of sale of perpetual licenses](https://news.vmware.com/company/vmware-by-broadcom-business-transformation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
