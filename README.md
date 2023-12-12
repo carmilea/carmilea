@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential AI](https://essential.ai/)
-- [Canonical re-licenses LXD under AGPLv3, slaps a CLA on top](https://stgraber.org/2023/12/12/lxd-now-re-licensed-and-under-a-cla/)
+- [Smoking Causes Cancer](https://www.allendowney.com/blog/2023/12/12/smoking-causes-cancer-2/)
+- [LXD now re-licensed and under a CLA](https://stgraber.org/2023/12/12/lxd-now-re-licensed-and-under-a-cla/)
 - [Claude for Google Sheets](https://docs.anthropic.com/claude/docs/using-claude-for-sheets)
-- [Hasbro lays off nearly 20% of its workers](https://www.polygon.com/23998290/hasbro-layoffs-before-christmas)
 - [Hardening cellular basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
+- [AI’s big rift is like a religious schism](https://www.programmablemutter.com/p/the-singularity-is-nigh-republished)
 <!-- BLOG-POST-LIST:END -->
 
 ---
