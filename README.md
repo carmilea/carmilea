@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Will Enter the Public Domain in 2024?](https://publicdomainreview.org/features/entering-the-public-domain/2024/)
+- [Edge Functions: Node and native NPM compatibility](https://supabase.com/blog/edge-functions-node-npm)
+- [Bae Systems&#39; New Hampshire computer chip plant the first to get CHIPS funding](https://www.cnbc.com/2023/12/11/bae-systems-new-hampshire-computer-chip-plant-the-first-to-get-funding-from-chips-law.html)
 - [Pharmacies share medical data with police without a warrant, inquiry finds](https://www.washingtonpost.com/technology/2023/12/12/pharmacy-records-police-privacy-abortion/)
-- [Landlords Are &#39;Handing Back the Keys&#39; with Offices 23% Empty](https://www.yahoo.com/news/offices-sitting-empty-landlords-handing-150748386.html)
 - [VMware by Broadcom transition to subscription, end of sale of perpetual licenses](https://news.vmware.com/company/vmware-by-broadcom-business-transformation)
-- [Launch HN: Bracket &lpar;YC W22&rpar; – Two-Way Sync Between Salesforce and Postgres](https://news.ycombinator.com/item?id=38615232)
-- [Want to apply for YC W24? We opened some last-minute spots for the next 3 days](https://news.ycombinator.com/item?id=38614878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
