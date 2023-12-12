@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fitbit fined $11M for misleading consumers about smart watches, fitness trackers](https://www.abc.net.au/news/2023-12-12/fitbit-fined-11-million-after-misleading-consumers/103220970)
+- [Show HN: Open-source macOS AI copilot &lpar;using vision and voice&rpar;](https://github.com/elfvingralf/macOSpilot-ai-assistant)
+- [Today Is One of the Biggest Surveillance Votes. Will the FBI Stop Spying?](https://tuta.com/blog/702-open-letter-against-surveillance)
+- [Fitbit fined $11M for misleading consumers about their rights under consumer law](https://www.abc.net.au/news/2023-12-12/fitbit-fined-11-million-after-misleading-consumers/103220970)
 - [Hyundai and Kia Develop Shape Memory Alloy Integrated Snow Chain Technology](https://www.hyundai.news/eu/articles/press-releases/hyundai-and-kia-develop-shape-memory-alloy-integrated-snow-chain-technology.html)
-- [Tesla says California&#39;s Autopilot action violates its free speech rights](https://www.theregister.com/2023/12/11/tesla_california_autopilot_lawsuit/)
-- [YouTube is crippling Firefox on Asahi Linux](https://social.treehouse.systems/@marcan/111567255619206929)
-- [On a roll: Qdrant brings sparse vectors, discovery search and custom sharding](https://qdrant.tech/articles/qdrant-1.7.x/)
+- [YouTube doesn&#39;t want to take down scam ads](https://old.reddit.com/r/youtube/comments/18gjiqy/youtube_doesnt_want_to_take_down_scam_ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
