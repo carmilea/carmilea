@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VapourSynth: A video processing framework with simplicity in mind](https://www.vapoursynth.com/doc/introduction.html)
-- [Why Is Bluetooth Sound Quality Bad on My Mac](https://www.recadio.com/blog/why-is-bluetooth-sound-quality-bad-on-my-mac)
-- [Telecom Industry Is Mad Because the FCC Might Examine High Broadband Prices](https://www.techdirt.com/2023/12/12/the-telecom-industry-is-very-mad-because-the-fcc-might-examine-high-broadband-prices/)
-- [DeciLM-7B: The Fastest and Most Accurate 7B-Parameter LLM to Date](https://deci.ai/blog/introducing-decilm-7b-the-fastest-and-most-accurate-7b-large-language-model-to-date/)
-- [23andMe frantically changed its terms of service to prevent customers from suing](https://www.engadget.com/23andme-frantically-changed-its-terms-of-service-to-prevent-hacked-customers-from-suing-152434306.html)
+- [Want to apply for YC W24? We opened some last-minute spots for the next 3 days](https://news.ycombinator.com/item?id=38614878)
+- [Cloud engineer gets 2 years for wiping ex-employer&#39;s code repos](https://www.bleepingcomputer.com/news/security/cloud-engineer-gets-2-years-for-wiping-ex-employers-code-repos/)
+- [Arena Group fires CEO in wake of Sports Illustrated AI articles scandal](https://www.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles)
+- [The evolution of the On/Off power switch symbol](http://designblog.nzeldes.com/2008/05/the-evolution-of-the-onoff-power-switch-symbol/comment-page-2/)
+- [Bell Media and other Canadian brands halt ads on X amid extremism concerns](https://www.cbc.ca/news/canada/canadian-brands-advertising-x-extremism-1.7055823)
 <!-- BLOG-POST-LIST:END -->
 
 ---
