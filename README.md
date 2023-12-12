@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canada&#39;s &quot;Linked Tax&quot; Can&#39;t Replace a Real Tax](https://news.bloombergtax.com/tax-insights-and-commentary/week-in-insights-canadas-link-tax-cant-replace-a-real-tax)
-- [Navigating the Hidden Costs and Pitfalls of BigQuery](https://www.singlestore.com/blog/navigating-the-hidden-costs-and-pitfalls-of-bigquery)
-- [Show HN: Open-source macOS AI copilot &lpar;using vision and voice&rpar;](https://github.com/elfvingralf/macOSpilot-ai-assistant)
-- [Today Is One of the Biggest Surveillance Votes. Will the FBI Stop Spying?](https://tuta.com/blog/702-open-letter-against-surveillance)
-- [Fitbit fined $11M for misleading consumers about their rights under consumer law](https://www.abc.net.au/news/2023-12-12/fitbit-fined-11-million-after-misleading-consumers/103220970)
+- [VapourSynth: A video processing framework with simplicity in mind](https://www.vapoursynth.com/doc/introduction.html)
+- [Why Is Bluetooth Sound Quality Bad on My Mac](https://www.recadio.com/blog/why-is-bluetooth-sound-quality-bad-on-my-mac)
+- [Telecom Industry Is Mad Because the FCC Might Examine High Broadband Prices](https://www.techdirt.com/2023/12/12/the-telecom-industry-is-very-mad-because-the-fcc-might-examine-high-broadband-prices/)
+- [DeciLM-7B: The Fastest and Most Accurate 7B-Parameter LLM to Date](https://deci.ai/blog/introducing-decilm-7b-the-fastest-and-most-accurate-7b-large-language-model-to-date/)
+- [23andMe frantically changed its terms of service to prevent customers from suing](https://www.engadget.com/23andme-frantically-changed-its-terms-of-service-to-prevent-hacked-customers-from-suing-152434306.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
