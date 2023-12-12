@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford cutting 2024 F-150 Lightning production plans by half](https://www.autonews.com/manufacturing/ford-cutting-f-150-lightning-ev-production-half-memo-says)
+- [Claude for Google Sheets](https://docs.anthropic.com/claude/docs/using-claude-for-sheets)
+- [Hasbro lays off nearly 20% of its workers two weeks before Christmas](https://www.polygon.com/23998290/hasbro-layoffs-before-christmas)
+- [What We Watched: A Netflix Engagement Report](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
 - [Hardening Cellular Basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
 - [The Singularity Is Nigh!](https://www.programmablemutter.com/p/the-singularity-is-nigh-republished)
-- [What Will Enter the Public Domain in 2024?](https://publicdomainreview.org/features/entering-the-public-domain/2024/)
-- [Edge Functions: Node and native NPM compatibility](https://supabase.com/blog/edge-functions-node-npm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
