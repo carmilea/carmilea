@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How We Made That App Episode 2 - The Future of Parking with EasyPark](https://www.youtube.com/watch?v=PG96Ce3oALM)
 - [How 6sense is able to drive 500% faster performance using SingleStore](https://www.youtube.com/watch?v=T0XZx6AqRQI)
 - [With SingleStore, COMMB and its members get the data they need in real time](https://www.youtube.com/watch?v=ezuGeZiwdjE)
 - [Real-Time Analytics + AI in Fintech: The DAR Journey](https://www.youtube.com/watch?v=DBeU2W-NkuE)
 - [DAR reduces TCO 50% while managing 10X the data with SingleStore](https://www.youtube.com/watch?v=1yIjoQfcyXY)
-- [DAR can easily query 120+ billion trades with SingleStore](https://www.youtube.com/watch?v=uyBOo1uZydk)
 <!-- YOUTUBE:END -->
 
 
