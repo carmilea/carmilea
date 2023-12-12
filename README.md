@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BF-SYS: A fantasy computer that uses Brainfuck as its instruction set](https://brainfuck.zptr.cc/)
-- [The Professionalization of Cryptology in Sixteenth-Century Venice &lpar;2018&rpar; [pdf]](https://www.researchgate.net/publication/327847251_The_Professionalization_of_Cryptology_in_Sixteenth-Century_Venice)
-- [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
-- [The mysterious second parameter to the x86 ENTER instruction](https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126)
-- [Why Amazon Has No Profits](https://www.ben-evans.com/benedictevans/2014/9/4/why-amazon-has-no-profits-and-why-it-works)
+- [How to Warm Up Your Workspace](https://www.singlestore.com/blog/how-to-warm-up-your-workspace)
+- [Neum AI: The Secret Weapon for Real-Time RAG](https://www.singlestore.com/blog/webinar-recap-neum-ai-for-real-time-rag)
+- [How to Get Started With Elegance SDK](https://www.singlestore.com/blog/how-to-get-started-with-elegance-sdk)
+- [Top 10 Questions Answered: Building Custom GPTs With OpenAI Functions](https://www.singlestore.com/blog/webinar-recap-building-custom-gpts-with-openai-functions)
+- [Unpacking Meta’s Llama 2: The Next Leap in Generative AI](https://www.singlestore.com/blog/a-complete-beginners-guide-to-llama2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
