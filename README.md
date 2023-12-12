@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pharmacies share medical data with police without a warrant, inquiry finds](https://www.washingtonpost.com/technology/2023/12/12/pharmacy-records-police-privacy-abortion/)
+- [Landlords Are &#39;Handing Back the Keys&#39; with Offices 23% Empty](https://www.yahoo.com/news/offices-sitting-empty-landlords-handing-150748386.html)
+- [VMware by Broadcom transition to subscription, end of sale of perpetual licenses](https://news.vmware.com/company/vmware-by-broadcom-business-transformation)
+- [Launch HN: Bracket &lpar;YC W22&rpar; – Two-Way Sync Between Salesforce and Postgres](https://news.ycombinator.com/item?id=38615232)
 - [Want to apply for YC W24? We opened some last-minute spots for the next 3 days](https://news.ycombinator.com/item?id=38614878)
-- [Cloud engineer gets 2 years for wiping ex-employer&#39;s code repos](https://www.bleepingcomputer.com/news/security/cloud-engineer-gets-2-years-for-wiping-ex-employers-code-repos/)
-- [Arena Group fires CEO in wake of Sports Illustrated AI articles scandal](https://www.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles)
-- [The evolution of the On/Off power switch symbol](http://designblog.nzeldes.com/2008/05/the-evolution-of-the-onoff-power-switch-symbol/comment-page-2/)
-- [Bell Media and other Canadian brands halt ads on X amid extremism concerns](https://www.cbc.ca/news/canada/canadian-brands-advertising-x-extremism-1.7055823)
 <!-- BLOG-POST-LIST:END -->
 
 ---
