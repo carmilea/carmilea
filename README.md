@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Warm Up Your Workspace](https://www.singlestore.com/blog/how-to-warm-up-your-workspace)
-- [Neum AI: The Secret Weapon for Real-Time RAG](https://www.singlestore.com/blog/webinar-recap-neum-ai-for-real-time-rag)
-- [How to Get Started With Elegance SDK](https://www.singlestore.com/blog/how-to-get-started-with-elegance-sdk)
-- [Top 10 Questions Answered: Building Custom GPTs With OpenAI Functions](https://www.singlestore.com/blog/webinar-recap-building-custom-gpts-with-openai-functions)
-- [Unpacking Meta’s Llama 2: The Next Leap in Generative AI](https://www.singlestore.com/blog/a-complete-beginners-guide-to-llama2)
+- [YouTube is crippling Firefox on Asahi Linux](https://social.treehouse.systems/@marcan/111567255619206929)
+- [On a roll: Qdrant brings sparse vectors, discovery search and custom sharding](https://qdrant.tech/articles/qdrant-1.7.x/)
+- [Tell/Ask HN: HN WebSite is/was down. I&#39;m curious why?](https://hn.hund.io/)
+- [BF-SYS: A fantasy computer that uses Brainfuck as its instruction set](https://brainfuck.zptr.cc/)
+- [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
