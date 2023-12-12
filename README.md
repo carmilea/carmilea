@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An HTTP Status Code to Report Requester Impairment](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
 - [FTC wants Microsoft&#39;s relationship with OpenAI under the microscope](https://www.theregister.com/2023/12/11/microsoft_openai_investment_ftc/)
 - [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates#stream-entry-65d34a06-1fa5-4eab-abf6-ce450441b543)
-- [Harvard University President Claudine Gay Suspected of Plagiarism](https://freebeacon.com/campus/this-is-definitely-plagiarism-harvard-university-president-claudine-gay-copied-entire-paragraphs-from-others-academic-work-and-claimed-them-as-her-own/)
 - [The House Intelligence Committee&#39;s Surveillance &#39;Reform&#39; Bill Is a Farce](https://www.eff.org/deeplinks/2023/12/section-702-needs-reform-and-oversight-not-expansion-congress-should-oppose-hpsci)
+- [Behavior belongs in the HTML](https://unplannedobsolescence.com/blog/behavior-belongs-in-html/)
+- [Deep in the Wilderness, the Largest Beaver Dam Endures](https://e360.yale.edu/features/worlds-largest-beaver-dam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
