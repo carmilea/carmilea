@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada&#39;s &quot;Linked Tax&quot; Can&#39;t Replace a Real Tax](https://news.bloombergtax.com/tax-insights-and-commentary/week-in-insights-canadas-link-tax-cant-replace-a-real-tax)
+- [Navigating the Hidden Costs and Pitfalls of BigQuery](https://www.singlestore.com/blog/navigating-the-hidden-costs-and-pitfalls-of-bigquery)
 - [Show HN: Open-source macOS AI copilot &lpar;using vision and voice&rpar;](https://github.com/elfvingralf/macOSpilot-ai-assistant)
 - [Today Is One of the Biggest Surveillance Votes. Will the FBI Stop Spying?](https://tuta.com/blog/702-open-letter-against-surveillance)
 - [Fitbit fined $11M for misleading consumers about their rights under consumer law](https://www.abc.net.au/news/2023-12-12/fitbit-fined-11-million-after-misleading-consumers/103220970)
-- [Hyundai and Kia Develop Shape Memory Alloy Integrated Snow Chain Technology](https://www.hyundai.news/eu/articles/press-releases/hyundai-and-kia-develop-shape-memory-alloy-integrated-snow-chain-technology.html)
-- [YouTube doesn&#39;t want to take down scam ads](https://old.reddit.com/r/youtube/comments/18gjiqy/youtube_doesnt_want_to_take_down_scam_ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
