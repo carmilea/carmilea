@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Web Game in C with Raylib](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
-- [Your Code Displays Japanese Wrong](https://heistak.github.io/your-code-displays-japanese-wrong/)
+- [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
 - [Car Manufacturing Process Overview [video]](https://www.youtube.com/watch?v=zQeQWGqfFN0)
 - [FTC wants Microsoft&#39;s relationship with OpenAI under the microscope](https://www.theregister.com/2023/12/11/microsoft_openai_investment_ftc/)
 - [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates#stream-entry-65d34a06-1fa5-4eab-abf6-ce450441b543)
+- [Deep in the wilderness, the largest beaver dam endures](https://e360.yale.edu/features/worlds-largest-beaver-dam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
