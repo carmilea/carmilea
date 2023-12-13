@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to be a sovereign email user? &quot;you can&#39;t, we don&#39;t know how to do it.&quot;](https://twitter.com/lopp/status/1734911638124302596)
+- [First Impressions with Google Gemini](https://blog.roboflow.com/first-impressions-with-google-gemini/)
 - [Canary &lpar;YC S18&rpar; Is Hiring a PM for Their Digital Tipping Product](https://jobs.lever.co/canarytechnologies/6300b7f3-4f43-4b33-853b-6cb4dac473c1)
-- [Tell HN: Netflix doing mass layoffs today](https://news.ycombinator.com/item?id=38630098)
+- [A first look at the plans for our new Chicago office](https://blog.google/inside-google/life-at-google/google-chicago-office-thompson-center/)
 - [Dropbox: How to opt out of 3rd party AI partner access to your Dropbox](https://twitter.com/Werner/status/1734890651378975007)
-- [All the Carcinogens We Cannot See](https://www.newyorker.com/magazine/2023/12/18/all-the-carcinogens-we-cannot-see)
-- [Etsy is laying off 11% of its staff](https://www.cnbc.com/2023/12/13/etsy-laying-off-11percent-of-staff-citing-competitive-environment.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
