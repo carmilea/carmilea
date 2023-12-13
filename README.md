@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Origin of mysterious green &#39;ghosts&#39; in the sky has been discovered](https://english.elpais.com/science-tech/2023-12-12/the-origin-of-mysterious-green-ghosts-in-the-sky-has-been-discovered.html)
+- [Show HN: I benchmarked six Go SQLite drivers &lpar;found you don&#39;t need cgo anymore&rpar;](https://github.com/cvilsmeier/go-sqlite-bench)
 - [Vertical farming company raised $500M, and then it all but disappeared](https://sifted.eu/articles/infarm-raised-500m-and-disappeared)
-- [Why Are So Many Americans Dying Early?](https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early/)
 - [Most companies using AI are &#39;lighting money on fire,&#39; says Matthew Prince](https://fortune.com/2023/12/12/cloudflare-ceo-matthew-prince-companies-lighting-money-fire-with-ai/)
 - [Tesla claims California false-advertising law violates First Amendment](https://arstechnica.com/tech-policy/2023/12/tesla-fights-autopilot-false-advertising-claim-with-free-speech-argument/)
-- [Tesla Recalls 2M Cars to Fix Autopilot Safety Flaws](https://www.bloomberg.com/news/articles/2023-12-13/tesla-autopilot-recall-2-million-cars-need-software-fix)
 <!-- BLOG-POST-LIST:END -->
 
 ---
