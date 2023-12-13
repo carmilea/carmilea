@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla claims California false-advertising law violates First Amendment](https://arstechnica.com/tech-policy/2023/12/tesla-fights-autopilot-false-advertising-claim-with-free-speech-argument/)
+- [Tesla Recalls 2M Cars to Fix Autopilot Safety Flaws](https://www.bloomberg.com/news/articles/2023-12-13/tesla-autopilot-recall-2-million-cars-need-software-fix)
+- [Tesla FSD Timeline](https://motherfrunker.ca/fsd/)
 - [Plane, an open-source alternative to Jira, got to the #1 on GitHub](https://plane.so/blog/how-we-got-to-20k-github-stars)
 - [Arc browser launches its Windows client in beta](https://techcrunch.com/2023/12/11/arc-browser-launches-its-windows-client-in-beta/)
-- [Ask HN: What apps have you created for your own use?](https://news.ycombinator.com/item?id=38623695)
-- [Apple now requires a judge&#39;s consent to hand over push notification data](https://www.reuters.com/technology/apple-now-requires-judges-consent-hand-over-push-notification-data-2023-12-12/)
-- [GM says it&#39;s dropping Apple CarPlay and Android Auto because they&#39;re unsafe](https://jalopnik.com/gm-drops-apple-carplay-android-auto-unsafe-phone-1851093013)
 <!-- BLOG-POST-LIST:END -->
 
 ---
