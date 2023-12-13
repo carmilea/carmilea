@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You Don&#39;t Batch Cook When You&#39;re Suicidal](https://cookingonabootstrap.com/2020/07/30/the-price-of-potatoes-and-the-value-of-compassion/)
-- [US agency will not reinstate $900M subsidy for SpaceX Starlink unit](https://www.reuters.com/technology/space/us-agency-will-not-reinstate-900-mln-subsidy-spacex-starlink-unit-2023-12-13/)
-- [$7500 EV tax credit will end for Model 3 RWD and Long Range](https://twitter.com/Tesla/status/1734903337894518991)
-- [Polish Hackers that repaired DRM trains threatened by train company](https://www.404media.co/polish-hackers-repaired-trains-the-manufacturer-artificially-bricked-now-the-train-company-is-threatening-them/)
-- [Cortex A57, Nintendo Switch&#39;s CPU](https://chipsandcheese.com/2023/12/12/cortex-a57-nintendo-switchs-cpu/)
+- [Canary &lpar;YC S18&rpar; Is Hiring a PM for Their Digital Tipping Product](https://jobs.lever.co/canarytechnologies/6300b7f3-4f43-4b33-853b-6cb4dac473c1)
+- [Tell HN: Netflix doing mass layoffs today](https://news.ycombinator.com/item?id=38630098)
+- [Dropbox: How to opt out of 3rd party AI partner access to your Dropbox](https://twitter.com/Werner/status/1734890651378975007)
+- [All the Carcinogens We Cannot See](https://www.newyorker.com/magazine/2023/12/18/all-the-carcinogens-we-cannot-see)
+- [Etsy is laying off 11% of its staff](https://www.cnbc.com/2023/12/13/etsy-laying-off-11percent-of-staff-citing-competitive-environment.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
