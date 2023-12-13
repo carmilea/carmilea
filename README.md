@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Prelay &lpar;YC W20&rpar; Is Hiring](https://jobs.lever.co/prelay/832af523-bf6c-4fe0-8b9a-29084543a923)
-- [Show HN: A pure C89 implementation of Go channels, with blocking selects](https://github.com/rochus-keller/CspChan)
-- [The Long Shadow of Checks](https://www.bitsaboutmoney.com/archive/the-long-shadow-of-checks/)
-- [2nd Batch of the A16Z Open Source AI Grant](https://a16z.com/announcing-our-latest-open-source-ai-grants/)
-- [SMERF: Streamable Memory Efficient Radiance Fields](https://smerf-3d.github.io/)
+- [Show HN: Django Ninja CRUD – Rethinking CRUD Operations in Django](https://github.com/hbakri/django-ninja-crud)
+- [Phi-2](https://huggingface.co/microsoft/phi-2)
+- [Can a Transformer Represent a Kalman Filter?](https://arxiv.org/abs/2312.06937)
+- [Australia to Ban Engineered Stone](https://www.abc.net.au/news/2023-12-13/engineered-stone-ban-discussed-at-ministers-meeting/103224362)
+- [Tech Predictions for 2024 and Beyond Dr. Werner Vogels, CTO, Amazon.com](https://www.allthingsdistributed.com/2023/11/tech-predictions-for-2024-and-beyond.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
