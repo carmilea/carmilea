@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prelay &lpar;YC W20&rpar; Is Hiring](https://jobs.lever.co/prelay/832af523-bf6c-4fe0-8b9a-29084543a923)
 - [Show HN: A pure C89 implementation of Go channels, with blocking selects](https://github.com/rochus-keller/CspChan)
-- [Next Gen Game Engines](https://a16z.com/unbundling-the-game-engine/)
+- [The Long Shadow of Checks](https://www.bitsaboutmoney.com/archive/the-long-shadow-of-checks/)
+- [2nd Batch of the A16Z Open Source AI Grant](https://a16z.com/announcing-our-latest-open-source-ai-grants/)
 - [SMERF: Streamable Memory Efficient Radiance Fields](https://smerf-3d.github.io/)
-- [Lithium-ion battery pack prices hit record low](https://about.bnef.com/blog/lithium-ion-battery-pack-prices-hit-record-low-of-139-kwh/)
-- [QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models](https://arxiv.org/abs/2310.16795)
 <!-- BLOG-POST-LIST:END -->
 
 ---
