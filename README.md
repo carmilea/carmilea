@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to be a sovereign email user? &quot;you can&#39;t, we don&#39;t know how to do it.&quot;](https://twitter.com/lopp/status/1734911638124302596)
+- [Santa Cruz plans high-rise living as a fix for sky-high housing costs](https://www.latimes.com/california/story/2023-12-07/santa-cruz-plans-downtown-high-rises-to-fix-sky-high-housing-costs)
 - [First Impressions with Google Gemini](https://blog.roboflow.com/first-impressions-with-google-gemini/)
-- [Canary &lpar;YC S18&rpar; Is Hiring a PM for Their Digital Tipping Product](https://jobs.lever.co/canarytechnologies/6300b7f3-4f43-4b33-853b-6cb4dac473c1)
-- [A first look at the plans for our new Chicago office](https://blog.google/inside-google/life-at-google/google-chicago-office-thompson-center/)
+- [Canary &lpar;YC S18&rpar; is hiring a PM for our digital tipping product](https://jobs.lever.co/canarytechnologies/6300b7f3-4f43-4b33-853b-6cb4dac473c1)
 - [Dropbox: How to opt out of 3rd party AI partner access to your Dropbox](https://twitter.com/Werner/status/1734890651378975007)
+- [Carcinogens that don’t create cancer cells but rouse them](https://www.newyorker.com/magazine/2023/12/18/all-the-carcinogens-we-cannot-see)
 <!-- BLOG-POST-LIST:END -->
 
 ---
