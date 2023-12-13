@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blindsight by Peter Watts &lpar;full novel&rpar;](https://rifters.com/real/Blindsight.htm)
+- [Debugging a Failing Hotkey](https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html)
+- [Cybersecurity Isn&#39;t Special](https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/)
 - [Show HN: Django Ninja CRUD – Rethinking CRUD Operations in Django](https://github.com/hbakri/django-ninja-crud)
-- [Phi-2](https://huggingface.co/microsoft/phi-2)
-- [Can a Transformer Represent a Kalman Filter?](https://arxiv.org/abs/2312.06937)
-- [Australia to Ban Engineered Stone](https://www.abc.net.au/news/2023-12-13/engineered-stone-ban-discussed-at-ministers-meeting/103224362)
-- [Tech Predictions for 2024 and Beyond Dr. Werner Vogels, CTO, Amazon.com](https://www.allthingsdistributed.com/2023/11/tech-predictions-for-2024-and-beyond.html)
+- [The state of merging technology](https://bramcohen.com/p/the-state-of-merging-technology)
 <!-- BLOG-POST-LIST:END -->
 
 ---
