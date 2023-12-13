@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox slow to load YouTube? Just another front in Google&#39;s war on ad blockers](https://www.theregister.com/2023/11/21/ad_block_google/)
+- [E-books are fast becoming tools of corporate surveillance](https://www.fastcompany.com/90996547/e-books-are-fast-becoming-tools-of-corporate-surveillance)
 - [A human embryonic limb cell atlas resolved in space and time](https://www.nature.com/articles/s41586-023-06806-x)
 - [Professor in Jordan sues sleuth who exposed citation anomalies](https://retractionwatch.com/2023/11/29/professor-in-jordan-sues-sleuth-who-exposed-citation-anomalies/)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=38621289)
