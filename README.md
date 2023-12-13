@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Smoking Causes Cancer](https://www.allendowney.com/blog/2023/12/12/smoking-causes-cancer-2/)
-- [LXD now re-licensed and under a CLA](https://stgraber.org/2023/12/12/lxd-now-re-licensed-and-under-a-cla/)
-- [Claude for Google Sheets](https://docs.anthropic.com/claude/docs/using-claude-for-sheets)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=38621289)
+- [Seeing how fast people will probe you after you get a new TLS certificate](https://utcc.utoronto.ca/~cks/space/blog/web/WebProbeSpeedNewTLSCertificate)
+- [Tools for Learning LLVM TableGen](https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/)
+- [What We Watched: A Netflix engagement report](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
 - [Hardening cellular basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
-- [AI’s big rift is like a religious schism](https://www.programmablemutter.com/p/the-singularity-is-nigh-republished)
 <!-- BLOG-POST-LIST:END -->
 
 ---
