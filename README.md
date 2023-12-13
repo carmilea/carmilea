@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Man with No Ticket or Passport Flew from Copenhagen to Los Angeles, FBI Says](https://www.nytimes.com/2023/12/12/us/sergey-ochigava-passport-lax-flight.html)
+- [Arc browser launches its Windows client in beta](https://techcrunch.com/2023/12/11/arc-browser-launches-its-windows-client-in-beta/)
+- [Andre Braugher: Brooklyn Nine-Nine&#39;s Captain Raymond Holt Dies Aged 61](https://www.bbc.co.uk/news/world-us-canada-67700088)
 - [Ask HN: What apps have you created for your own use?](https://news.ycombinator.com/item?id=38623695)
-- [Interview: Epic CEO Tim Sweeney after Google antitrust win](https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court)
 - [Apple now requires a judge&#39;s consent to hand over push notification data](https://www.reuters.com/technology/apple-now-requires-judges-consent-hand-over-push-notification-data-2023-12-12/)
 - [GM says it&#39;s dropping Apple CarPlay and Android Auto because they&#39;re unsafe](https://jalopnik.com/gm-drops-apple-carplay-android-auto-unsafe-phone-1851093013)
 <!-- BLOG-POST-LIST:END -->
