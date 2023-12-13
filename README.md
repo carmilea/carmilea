@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [E-books are fast becoming tools of corporate surveillance](https://www.fastcompany.com/90996547/e-books-are-fast-becoming-tools-of-corporate-surveillance)
+- [Apple now requires a judge&#39;s consent to hand over push notification data](https://www.reuters.com/technology/apple-now-requires-judges-consent-hand-over-push-notification-data-2023-12-12/)
+- [GM says it&#39;s dropping Apple CarPlay and Android Auto because they&#39;re unsafe](https://jalopnik.com/gm-drops-apple-carplay-android-auto-unsafe-phone-1851093013)
+- [E-books are becoming tools of corporate surveillance](https://www.fastcompany.com/90996547/e-books-are-fast-becoming-tools-of-corporate-surveillance)
 - [A human embryonic limb cell atlas resolved in space and time](https://www.nature.com/articles/s41586-023-06806-x)
-- [Professor in Jordan sues sleuth who exposed citation anomalies](https://retractionwatch.com/2023/11/29/professor-in-jordan-sues-sleuth-who-exposed-citation-anomalies/)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=38621289)
-- [Tools for Learning LLVM TableGen](https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/)
+- [A triplet tree forms one of the most beautiful structures in math](https://www.quantamagazine.org/a-triplet-tree-forms-one-of-the-most-beautiful-structures-in-math-20231212/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
