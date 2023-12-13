@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Recalls 2M Vehicles over Autopilot Software Issue](https://www.nytimes.com/2023/12/13/business/tesla-autopilot-recall.html)
-- [Human brain cells hooked up to a chip can do speech recognition](https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/)
-- [Artificial intelligence systems found to Excel at imitation, but not innovation](https://techxplore.com/news/2023-12-artificial-intelligence-excel-imitation.html)
-- [It&#39;s weird how design systems are so rote, yet so difficult](https://quinnkeast.com/writing/its-weird-how-design-systems-are-so-rote-yet-so-difficult)
-- [Google Promises Unlimited Storage; Cancels; Tells Journalist Life&#39;s Work Deleted](https://www.techdirt.com/2023/12/12/google-promises-unlimited-cloud-storage-then-cancels-plan-then-tells-journalist-his-lifes-work-will-be-deleted-without-enough-time-to-transfer-the-data/)
+- [You Don&#39;t Batch Cook When You&#39;re Suicidal](https://cookingonabootstrap.com/2020/07/30/the-price-of-potatoes-and-the-value-of-compassion/)
+- [US agency will not reinstate $900M subsidy for SpaceX Starlink unit](https://www.reuters.com/technology/space/us-agency-will-not-reinstate-900-mln-subsidy-spacex-starlink-unit-2023-12-13/)
+- [$7500 EV tax credit will end for Model 3 RWD and Long Range](https://twitter.com/Tesla/status/1734903337894518991)
+- [Polish Hackers that repaired DRM trains threatened by train company](https://www.404media.co/polish-hackers-repaired-trains-the-manufacturer-artificially-bricked-now-the-train-company-is-threatening-them/)
+- [Cortex A57, Nintendo Switch&#39;s CPU](https://chipsandcheese.com/2023/12/12/cortex-a57-nintendo-switchs-cpu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
