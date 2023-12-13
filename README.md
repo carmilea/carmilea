@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Man with No Ticket or Passport Flew from Copenhagen to Los Angeles, FBI Says](https://www.nytimes.com/2023/12/12/us/sergey-ochigava-passport-lax-flight.html)
+- [Apple Is Holding the Final Nail for X’s Coffin](https://www.bloomberg.com/opinion/articles/2023-12-12/apple-is-holding-the-final-nail-for-x-s-coffin)
+- [Ask HN: What apps have you created for your own use?](https://news.ycombinator.com/item?id=38623695)
+- [Interview: Epic CEO Tim Sweeney after Google antitrust win](https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court)
 - [Apple now requires a judge&#39;s consent to hand over push notification data](https://www.reuters.com/technology/apple-now-requires-judges-consent-hand-over-push-notification-data-2023-12-12/)
-- [GM says it&#39;s dropping Apple CarPlay and Android Auto because they&#39;re unsafe](https://jalopnik.com/gm-drops-apple-carplay-android-auto-unsafe-phone-1851093013)
-- [E-books are becoming tools of corporate surveillance](https://www.fastcompany.com/90996547/e-books-are-fast-becoming-tools-of-corporate-surveillance)
-- [Apple&#39;s new iPhone security setting keeps thieves out of your digital accounts](https://www.theverge.com/2023/12/12/23998665/apple-stolen-device-protection-face-touch-id-icloud-account-vulnerability-ios-17-3-beta)
-- [A human embryonic limb cell atlas resolved in space and time](https://www.nature.com/articles/s41586-023-06806-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
