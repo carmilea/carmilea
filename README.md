@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Origin of mysterious green &#39;ghosts&#39; in the sky has been discovered](https://english.elpais.com/science-tech/2023-12-12/the-origin-of-mysterious-green-ghosts-in-the-sky-has-been-discovered.html)
-- [Show HN: I benchmarked six Go SQLite drivers &lpar;found you don&#39;t need cgo anymore&rpar;](https://github.com/cvilsmeier/go-sqlite-bench)
-- [Vertical farming company raised $500M, and then it all but disappeared](https://sifted.eu/articles/infarm-raised-500m-and-disappeared)
-- [Most companies using AI are &#39;lighting money on fire,&#39; says Matthew Prince](https://fortune.com/2023/12/12/cloudflare-ceo-matthew-prince-companies-lighting-money-fire-with-ai/)
-- [Tesla claims California false-advertising law violates First Amendment](https://arstechnica.com/tech-policy/2023/12/tesla-fights-autopilot-false-advertising-claim-with-free-speech-argument/)
+- [Tesla Recalls 2M Vehicles over Autopilot Software Issue](https://www.nytimes.com/2023/12/13/business/tesla-autopilot-recall.html)
+- [Human brain cells hooked up to a chip can do speech recognition](https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/)
+- [Artificial intelligence systems found to Excel at imitation, but not innovation](https://techxplore.com/news/2023-12-artificial-intelligence-excel-imitation.html)
+- [It&#39;s weird how design systems are so rote, yet so difficult](https://quinnkeast.com/writing/its-weird-how-design-systems-are-so-rote-yet-so-difficult)
+- [Google Promises Unlimited Storage; Cancels; Tells Journalist Life&#39;s Work Deleted](https://www.techdirt.com/2023/12/12/google-promises-unlimited-cloud-storage-then-cancels-plan-then-tells-journalist-his-lifes-work-will-be-deleted-without-enough-time-to-transfer-the-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
