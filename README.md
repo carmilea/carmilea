@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Jerry &lpar;YC S17&rpar; Is Hiring Sr Software Engineers and Other Roles &lpar;Remote&rpar;](https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394)
-- [The average store size in the US is the smallest it&#39;s been in at least 17 years](https://www.wsj.com/real-estate/commercial/the-american-store-is-shrinking-7603e979)
 - [Roy Kerr: Do Black Holes Have Singularities?](https://arxiv.org/abs/2312.00841)
+- [Google ad chief Jerry Dischler steps down weeks after antitrust trial testimony](https://nypost.com/2023/11/29/business/google-ad-chief-jerry-dischler-stepping-down-weeks-after-antitrust-trial-testimony/)
 - [Show HN: I scraped 25M Shopify products to build a search engine](https://www.searchagora.com/)
-- [New insights into neural end-of-life](https://neurosciencenews.com/death-brain-neuroscience-25356/)
+- [Biscuit Authorization](https://www.biscuitsec.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
