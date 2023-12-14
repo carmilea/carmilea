@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ledger&#39;s NPM account has been hacked](https://github.com/LedgerHQ/connect-kit/issues/29)
 - [Police Have Undermined the Promise of Body Cameras](https://www.propublica.org/article/how-police-undermined-promise-body-cameras)
 - [Visualizing Fighting Game Mechanics](https://janezhang.ca/work/tekken/)
-- [Proton Mail finally gets a desktop app for encrypted email and calendar](https://www.theverge.com/2023/12/14/24000696/proton-mail-desktop-app-mac-windows-encrypted)
 - [Ledger Wallet&#39;s LedgerHQ/connect-kit hit by supply chain attack](https://www.coindesk.com/business/2023/12/14/defi-protocol-sushis-cto-warns-of-possible-exploit/)
 - [Ledger library confirmed compromised and replaced with a drainer](https://twitter.com/bantg/status/1735279127752540465)
 <!-- BLOG-POST-LIST:END -->
