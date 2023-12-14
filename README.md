@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Airdraw](https://www.airdraw.io/)
-- [Medprompt+: GPT-4 vs. Gemini Ultra](https://github.com/microsoft/promptbase)
 - [Stable Zero123: Quality 3D Object Generation from Single Images](https://stability.ai/news/stable-zero123-3d-generation)
 - [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
-- [The Journal of Universal Rejection](https://universalrejection.org/)
+- [OnnxStream: Stable Diffusion XL 1.0 Base on a Raspberry Pi Zero 2](https://github.com/vitoplantamura/OnnxStream/tree/c0cb4b3d7b419e4b10129904fbe16b850ca5d385)
+- [Apple partly halts Beeper&#39;s iMessage app again, suggesting a long fight ahead](https://arstechnica.com/gadgets/2023/12/apple-partly-halts-beepers-imessage-app-again-suggesting-a-long-fight-ahead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
