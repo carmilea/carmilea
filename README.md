@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepMind AI outdoes human mathematicians on unsolved problem](https://www.nature.com/articles/d41586-023-04043-w)
-- [Japan says reason behind 1,200 tonnes of fish washing ashore is unknown](https://www.theguardian.com/world/2023/dec/14/ive-never-seen-anything-like-this-japan-says-reason-behind-1200-tonnes-of-fish-washing-ashore-is-unknown)
-- [&#39;It&#39;s all gone&#39;: CAR-T therapy forces autoimmune diseases into remission](https://www.nature.com/articles/d41586-023-03968-6)
-- [Show HN: Octopus – a directed acyclic graph for app development](https://github.com/bbsimonbb/octopus-turbo)
-- [Interviewing my mother, a mainframe COBOL programmer&lpar;2016&rpar;](https://ezali.substack.com/p/interviewing-my-mother-a-mainframe)
+- [The Journal of Universal Rejection](https://universalrejection.org/)
+- [After getting $824M in state aid, GM to cut 900 jobs at Orion Assembly](https://www.michigancapitolconfidential.com/news/after-getting-824m-in-state-aid-gm-to-cut-900-jobs-at-orion-assembly)
+- [Postfix 25 years old today](https://marc.info/?l=postfix-users&m=170256002601828&w=2)
+- [Stable Diffusion Turbo on a Raspberry Pi Zero 2 generates an image in 29 minutes](https://github.com/vitoplantamura/OnnxStream/tree/c0cb4b3d7b419e4b10129904fbe16b850ca5d385)
+- [Magic: The Gathering Is Turing Complete &lpar;2019&rpar;](https://arxiv.org/abs/1904.09828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
