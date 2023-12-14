@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [When the New York Times lost its way](https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way)
-- [The Most Dangerous Canadian Internet Bill You&#39;ve Never Heard of Is a Step Closer](https://www.michaelgeist.ca/2023/12/the-most-dangerous-canadian-internet-bill-youve-never-heard-of-is-a-step-closer-to-becoming-law/)
-- [Ubiquiti showing other users&#39; consoles](https://community.ui.com/questions/Security-Issue-Cloud-Site-Manager-presented-me-your-consoles-not-mine/376ec514-572d-476d-b089-030c4313888c)
-- [Coinbase targets financially vulnerable young adults](https://popular.info/p/coinbase-targets-financially-vulnerable)
+- [Mark Zuckerberg&#39;s Top-Secret Hawaii Compound](https://www.wired.com/story/mark-zuckerberg-inside-hawaii-compound/)
+- [Celebrated Cryptography Algorithm Gets an Upgrade](https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/)
+- [Why did older computers and OSes use UPPER case instead of lower case?](https://retrocomputing.stackexchange.com/questions/28141/why-did-older-computers-and-oses-use-upper-case-instead-of-lower-case)
+- [OpenAI Announces $10M Superalignment Grants](https://openai.com/blog/superalignment-fast-grants)
+- [Weak-to-Strong Generalization](https://openai.com/research/weak-to-strong-generalization)
 <!-- BLOG-POST-LIST:END -->
 
 ---
