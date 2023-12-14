@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Zuckerberg&#39;s Top-Secret Hawaii Compound](https://www.wired.com/story/mark-zuckerberg-inside-hawaii-compound/)
+- [Interviewing my mother, a mainframe COBOL programmer&lpar;2016&rpar;](https://ezali.substack.com/p/interviewing-my-mother-a-mainframe)
+- [Rising costs mean food companies are making snacks, sodas taste worse](https://www.businessinsider.com/inflation-high-prices-costs-making-food-snacks-sodas-worse-quality-2023-12)
+- [Intel CEO: &#39;The entire industry is motivated to eliminate the CUDA market&#39;](https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-ceo-attacks-nvidia-on-ai-the-entire-industry-is-motivated-to-eliminate-the-cuda-market)
+- [Mozilla expands extension support for Firefox for Android](https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/)
 - [Celebrated Cryptography Algorithm Gets an Upgrade](https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/)
-- [Why did older computers and OSes use UPPER case instead of lower case?](https://retrocomputing.stackexchange.com/questions/28141/why-did-older-computers-and-oses-use-upper-case-instead-of-lower-case)
-- [OpenAI Announces $10M Superalignment Grants](https://openai.com/blog/superalignment-fast-grants)
-- [Weak-to-Strong Generalization](https://openai.com/research/weak-to-strong-generalization)
 <!-- BLOG-POST-LIST:END -->
 
 ---
