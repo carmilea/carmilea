@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
+- [AMD&#39;s New Threadripper Chips Have a Hidden Fuse That Blows When Overclocking](https://www.extremetech.com/computing/amds-new-threadripper-chips-have-a-hidden-fuse-that-blows-when-overclocking)
+- [Fast Fashion Casino](https://dirt.fyi/article/2023/11/fast-fashion-casino)
 - [Trains were designed to break down after third-party repairs, hackers find](https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/)
 - [Sci-Fi Interfaces: Hackers &lpar;1995&rpar;](https://scifiinterfaces.com/2023/12/11/hackers/)
-- [Ask HN: Daily practices for building AI/ML skills?](https://news.ycombinator.com/item?id=38638373)
-- [Diffusion Models for Robotics Control](https://diffusion-policy.cs.columbia.edu/)
-- [Windows AI Studio Preview](https://github.com/microsoft/windows-ai-studio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
