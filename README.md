@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Doola a &quot;Business-in-a-Box&quot; for LLCs &lpar;YC S20&rpar; Is Hiring a Data Analyst &lpar;Remote&rpar;](https://www.ycombinator.com/companies/doola/jobs/Vt6SnyX-data-scientist-remote)
-- [Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip](https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain)
-- [Threads launches for nearly half a billion more users in Europe](https://www.theverge.com/2023/12/14/23953986/threads-european-union-launch-eu-meta-twitter-rival)
-- [Deno 1.39: The Return of WebGPU](https://deno.com/blog/v1.39)
-- [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
+- [Police Have Undermined the Promise of Body Cameras](https://www.propublica.org/article/how-police-undermined-promise-body-cameras)
+- [Visualizing Fighting Game Mechanics](https://janezhang.ca/work/tekken/)
+- [Proton Mail finally gets a desktop app for encrypted email and calendar](https://www.theverge.com/2023/12/14/24000696/proton-mail-desktop-app-mac-windows-encrypted)
+- [Ledger Wallet&#39;s LedgerHQ/connect-kit hit by supply chain attack](https://www.coindesk.com/business/2023/12/14/defi-protocol-sushis-cto-warns-of-possible-exploit/)
+- [Ledger library confirmed compromised and replaced with a drainer](https://twitter.com/bantg/status/1735279127752540465)
 <!-- BLOG-POST-LIST:END -->
 
 ---
