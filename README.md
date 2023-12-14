@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Airdraw](https://www.airdraw.io/)
+- [Medprompt+: GPT-4 vs. Gemini Ultra](https://github.com/microsoft/promptbase)
+- [Stable Zero123: Quality 3D Object Generation from Single Images](https://stability.ai/news/stable-zero123-3d-generation)
+- [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
 - [The Journal of Universal Rejection](https://universalrejection.org/)
-- [After getting $824M in state aid, GM to cut 900 jobs at Orion Assembly](https://www.michigancapitolconfidential.com/news/after-getting-824m-in-state-aid-gm-to-cut-900-jobs-at-orion-assembly)
-- [Postfix 25 years old today](https://marc.info/?l=postfix-users&m=170256002601828&w=2)
-- [Stable Diffusion Turbo on a Raspberry Pi Zero 2 generates an image in 29 minutes](https://github.com/vitoplantamura/OnnxStream/tree/c0cb4b3d7b419e4b10129904fbe16b850ca5d385)
-- [Magic: The Gathering Is Turing Complete &lpar;2019&rpar;](https://arxiv.org/abs/1904.09828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
