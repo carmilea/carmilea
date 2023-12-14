@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cruise slashes 24% of self-driving car workforce in sweeping layoffs](https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/)
-- [Intel launches Core Ultra processors, can it compete with the Apple M3?](https://www.techradar.com/computing/cpu/intel-launches-core-ultra-processors-to-power-up-your-next-laptop-with-ai)
-- [Turing Awardees Republished Key Methods and Ideas Without Credit](https://people.idsia.ch/~juergen/ai-priority-disputes.html)
-- [Pitfalls of Helm – Insights from 3 yrs with the leading K8s package manager](https://glasskube.eu/en/r/knowledge/5-helm-shortcomings/)
-- [Men should abstain from drinking at least three months prior to conceiving](https://today.tamu.edu/2023/12/13/drinking-prior-to-conceiving/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [When the New York Times lost its way](https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way)
+- [The Most Dangerous Canadian Internet Bill You&#39;ve Never Heard of Is a Step Closer](https://www.michaelgeist.ca/2023/12/the-most-dangerous-canadian-internet-bill-youve-never-heard-of-is-a-step-closer-to-becoming-law/)
+- [Ubiquiti showing other users&#39; consoles](https://community.ui.com/questions/Security-Issue-Cloud-Site-Manager-presented-me-your-consoles-not-mine/376ec514-572d-476d-b089-030c4313888c)
+- [Coinbase targets financially vulnerable young adults](https://popular.info/p/coinbase-targets-financially-vulnerable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
