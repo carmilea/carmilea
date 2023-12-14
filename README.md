@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepMind AI outdoes human mathematicians on unsolved problem](https://www.nature.com/articles/d41586-023-04043-w)
+- [Japan says reason behind 1,200 tonnes of fish washing ashore is unknown](https://www.theguardian.com/world/2023/dec/14/ive-never-seen-anything-like-this-japan-says-reason-behind-1200-tonnes-of-fish-washing-ashore-is-unknown)
+- [&#39;It&#39;s all gone&#39;: CAR-T therapy forces autoimmune diseases into remission](https://www.nature.com/articles/d41586-023-03968-6)
+- [Show HN: Octopus – a directed acyclic graph for app development](https://github.com/bbsimonbb/octopus-turbo)
 - [Interviewing my mother, a mainframe COBOL programmer&lpar;2016&rpar;](https://ezali.substack.com/p/interviewing-my-mother-a-mainframe)
-- [Rising costs mean food companies are making snacks, sodas taste worse](https://www.businessinsider.com/inflation-high-prices-costs-making-food-snacks-sodas-worse-quality-2023-12)
-- [Intel CEO: &#39;The entire industry is motivated to eliminate the CUDA market&#39;](https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-ceo-attacks-nvidia-on-ai-the-entire-industry-is-motivated-to-eliminate-the-cuda-market)
-- [Mozilla expands extension support for Firefox for Android](https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/)
-- [Celebrated Cryptography Algorithm Gets an Upgrade](https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
