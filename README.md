@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On being wrong about AI](https://scottaaronson.blog/?p=7672)
+- [Doola a &quot;Business-in-a-Box&quot; for LLCs &lpar;YC S20&rpar; Is Hiring a Data Analyst &lpar;Remote&rpar;](https://www.ycombinator.com/companies/doola/jobs/Vt6SnyX-data-scientist-remote)
+- [Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip](https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain)
+- [Threads launches for nearly half a billion more users in Europe](https://www.theverge.com/2023/12/14/23953986/threads-european-union-launch-eu-meta-twitter-rival)
+- [Deno 1.39: The Return of WebGPU](https://deno.com/blog/v1.39)
 - [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
-- [Fast Fashion Casino](https://dirt.fyi/article/2023/11/fast-fashion-casino)
-- [Trains were designed to break down after third-party repairs, hackers find](https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/)
-- [Sci-Fi Interfaces: Hackers &lpar;1995&rpar;](https://scifiinterfaces.com/2023/12/11/hackers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
