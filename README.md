@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jerry &lpar;YC S17&rpar; Is Hiring Sr Software Engineers and Other Roles &lpar;Remote&rpar;](https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394)
-- [Roy Kerr: Do Black Holes Have Singularities?](https://arxiv.org/abs/2312.00841)
-- [Google ad chief Jerry Dischler steps down weeks after antitrust trial testimony](https://nypost.com/2023/11/29/business/google-ad-chief-jerry-dischler-stepping-down-weeks-after-antitrust-trial-testimony/)
+- [Beginner&#39;s Guide to Arguing Constructively](https://liamrosen.com/arguments.html)
+- [Jerry &lpar;YC S17&rpar; is hiring senior software engineers and other roles &lpar;remote&rpar;](https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394)
+- [Do black holes have singularities?](https://arxiv.org/abs/2312.00841)
+- [Google ad chief stepping down weeks after antitrust trial testimony](https://nypost.com/2023/11/29/business/google-ad-chief-jerry-dischler-stepping-down-weeks-after-antitrust-trial-testimony/)
 - [Show HN: I scraped 25M Shopify products to build a search engine](https://www.searchagora.com/)
-- [Biscuit Authorization](https://www.biscuitsec.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
