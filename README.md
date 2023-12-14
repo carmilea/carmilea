@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Threads Is Testing ActivityPup Integration](https://mastodon.social/@Gargron/111576825980285552)
-- [High Scalability is up for sale](http://highscalability.com/blog/2023/12/11/highscalability-is-up-for-sale.html)
+- [Ask HN: Daily practices for building AI/ML skills?](https://news.ycombinator.com/item?id=38638373)
+- [Diffusion Models for Robotics Control](https://diffusion-policy.cs.columbia.edu/)
 - [Windows AI Studio Preview](https://github.com/microsoft/windows-ai-studio)
 - [Lessons from building GitHub code search [video]](https://www.youtube.com/watch?v=CqZA_KmygKw)
 - [Google&#39;s response to Reptar CPU vulnerability](https://bughunters.google.com/blog/6084781186613248/the-tale-of-google-s-response-to-reptar-cpu-vulnerability)
