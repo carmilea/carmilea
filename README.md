@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ledger&#39;s NPM account has been hacked](https://github.com/LedgerHQ/connect-kit/issues/29)
-- [Police Have Undermined the Promise of Body Cameras](https://www.propublica.org/article/how-police-undermined-promise-body-cameras)
-- [Visualizing Fighting Game Mechanics](https://janezhang.ca/work/tekken/)
-- [Ledger Wallet&#39;s LedgerHQ/connect-kit hit by supply chain attack](https://www.coindesk.com/business/2023/12/14/defi-protocol-sushis-cto-warns-of-possible-exploit/)
-- [Ledger library confirmed compromised and replaced with a drainer](https://twitter.com/bantg/status/1735279127752540465)
+- [Cruise slashes 24% of self-driving car workforce in sweeping layoffs](https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/)
+- [Intel launches Core Ultra processors, can it compete with the Apple M3?](https://www.techradar.com/computing/cpu/intel-launches-core-ultra-processors-to-power-up-your-next-laptop-with-ai)
+- [Turing Awardees Republished Key Methods and Ideas Without Credit](https://people.idsia.ch/~juergen/ai-priority-disputes.html)
+- [Pitfalls of Helm – Insights from 3 yrs with the leading K8s package manager](https://glasskube.eu/en/r/knowledge/5-helm-shortcomings/)
+- [Men should abstain from drinking at least three months prior to conceiving](https://today.tamu.edu/2023/12/13/drinking-prior-to-conceiving/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
