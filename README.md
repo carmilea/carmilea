@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blindsight by Peter Watts &lpar;full novel&rpar;](https://rifters.com/real/Blindsight.htm)
-- [Debugging a Failing Hotkey](https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html)
-- [Cybersecurity Isn&#39;t Special](https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/)
-- [Show HN: Django Ninja CRUD – Rethinking CRUD Operations in Django](https://github.com/hbakri/django-ninja-crud)
-- [The state of merging technology](https://bramcohen.com/p/the-state-of-merging-technology)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Sr Software Engineers and Other Roles &lpar;Remote&rpar;](https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394)
+- [The average store size in the US is the smallest it&#39;s been in at least 17 years](https://www.wsj.com/real-estate/commercial/the-american-store-is-shrinking-7603e979)
+- [Roy Kerr: Do Black Holes Have Singularities?](https://arxiv.org/abs/2312.00841)
+- [Show HN: I scraped 25M Shopify products to build a search engine](https://www.searchagora.com/)
+- [New insights into neural end-of-life](https://neurosciencenews.com/death-brain-neuroscience-25356/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
