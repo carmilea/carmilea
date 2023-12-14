@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner&#39;s Guide to Arguing Constructively](https://liamrosen.com/arguments.html)
+- [Lessons from building GitHub code search [video]](https://www.youtube.com/watch?v=CqZA_KmygKw)
+- [Google&#39;s Response to Reptar CPU Vulnerability](https://bughunters.google.com/blog/6084781186613248/the-tale-of-google-s-response-to-reptar-cpu-vulnerability)
+- [Ex-Facebook diversity manager pleads guilty to bilking $4M from company](https://nypost.com/2023/12/13/business/ex-facebook-diversity-manager-pleads-guilty-to-bilking-4m-from-company-in-kickback-scheme-feds/)
 - [Jerry &lpar;YC S17&rpar; is hiring senior software engineers and other roles &lpar;remote&rpar;](https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394)
-- [Do black holes have singularities?](https://arxiv.org/abs/2312.00841)
-- [Google ad chief stepping down weeks after antitrust trial testimony](https://nypost.com/2023/11/29/business/google-ad-chief-jerry-dischler-stepping-down-weeks-after-antitrust-trial-testimony/)
 - [Show HN: I scraped 25M Shopify products to build a search engine](https://www.searchagora.com/)
 <!-- BLOG-POST-LIST:END -->
 
