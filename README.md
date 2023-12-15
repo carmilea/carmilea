@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scratch Data &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/fyTdOHH-founding-software-engineer)
-- [Microsoft defends Edge&#39;s predatory practices with cringe, audacious reply on X](https://www.neowin.net/news/microsoft-defends-edges-predatory-practices-with-cringe-and-audacious-reply-on-x/)
-- [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
-- [The Stanford Prison Experiment was hugely influential. We learned it was a fraud &lpar;2018&rpar;](https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication)
-- [Show HN: Airdraw](https://www.airdraw.io/)
+- [How to Warm Up Your Workspace](https://www.singlestore.com/blog/how-to-warm-up-your-workspace)
+- [Neum AI: The Secret Weapon for Real-Time RAG](https://www.singlestore.com/blog/webinar-recap-neum-ai-for-real-time-rag)
+- [How to Get Started With Elegance SDK](https://www.singlestore.com/blog/how-to-get-started-with-elegance-sdk)
+- [Top 10 Questions Answered: Building Custom GPTs With OpenAI Functions](https://www.singlestore.com/blog/webinar-recap-building-custom-gpts-with-openai-functions)
+- [Unpacking Meta’s Llama 2: The Next Leap in Generative AI](https://www.singlestore.com/blog/a-complete-beginners-guide-to-llama2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
