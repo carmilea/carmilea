@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Godot: A Collaboration with Google and the Forge](https://godotengine.org/article/collaboration-with-google-forge-2023/)
+- [Fragmentation](http://theprogrammersparadox.blogspot.com/2023/12/fragmentation.html)
 - [AMD&#39;s Next GPU Is a 3D-Integrated Superchip](https://spectrum.ieee.org/amd-mi300)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 - [Researchers create transparent magnetic materials using laser heating](http://www.tohoku.ac.jp/en/press/new_transparent_magnetic_material_created_by_adding_heat_with_a_laser.html)
-- [Show HN: My Go SQLite driver did poorly on a benchmark, so I fixed it](https://github.com/ncruces/go-sqlite-bench)
-- [Scratch Data &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/fyTdOHH-founding-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
