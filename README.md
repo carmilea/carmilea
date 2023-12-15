@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Merriam-Webster&#39;s 404 Page](https://www.merriam-webster.com/notfound)
+- [Prince Harry wins landmark phone hacking case against Britain&#39;s major tabloids](https://text.npr.org/1219536863)
+- [McDonald&#39;s Ice Cream Machine Hackers Say They Found &#39;Smoking Gun&#39;](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/)
+- [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 - [OpenAI: Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
-- [Show HN: Ottehr is a modern, open-source EHR](https://github.com/masslight/ottehr)
-- [Mfio – Completion I/O for Rust](https://blaz.is/blog/post/mfio-release/)
-- [Fastmail Employees Form a Union](https://union.place/@fastmailunited/111563614375789166)
-- [Gym Class VR &lpar;YC W22&rpar; Is Hiring Lead AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
