@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers for It&#39;s SMS Platform Team](https://onesignal.com/careers/4303015006)
+- [WebP is so great except it&#39;s not](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
 - [The Emergence of Full-Body Gaussian Splat Deepfake Humans](https://blog.metaphysic.ai/the-emergence-of-full-body-gaussian-splat-deepfake-humans/)
+- [Oxlint – written in Rust – 50-100 Times Faster than ESLint](https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html)
 - [Interactive Tour of James Clerk Maxwell&#39;s House](https://clerkmaxwellfoundation.org/india-street/housetour.html)
-- [Let it snow in your terminal](https://pypi.org/project/snowjob/)
-- [Godot: A Collaboration with Google and the Forge](https://godotengine.org/article/collaboration-with-google-forge-2023/)
-- [AMD&#39;s Next GPU Is a 3D-Integrated Superchip](https://spectrum.ieee.org/amd-mi300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
