@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Recommendations Lead to More Extremist Content for Right-Leaning Users](https://www.ucdavis.edu/curiosity/news/youtube-video-recommendations-lead-more-extremist-content-right-leaning-users-researchers)
-- [Chobani buys coffee company La Colombe](https://www.reuters.com/markets/deals/greek-yogurt-maker-chobani-buys-coffee-company-la-colombe-900-mln-2023-12-15/)
-- [First look at asteroid dust brought to Earth offers surprises](https://www.nature.com/articles/d41586-023-03978-4)
-- [Leave work slightly unfinished for easier flow the next day](https://read.engineerscodex.com/p/simple-software-engineering-habits)
-- [The case of the missing Vega AVUM propellant tanks](https://europeanspaceflight.com/the-case-of-the-missing-vega-avum-propellant-tanks/)
+- [Tortured conference series thriving in Computer Science](https://hal.science/hal-04311585v1)
+- [New plans for self-hosted Zulip customers](https://blog.zulip.com/2023/12/15/new-plans-for-self-hosted-customers/)
+- [Cloudflare is experiencing elevated 5xx responses](https://news.ycombinator.com/item?id=38659404)
+- [Noteable.io Is Shutting Down](https://community.noteable.io/c/announcements-4da7da/noteable-is-terminating-its-platform-and-services)
+- [Secureblue: Hardened Immutable Fedora Images](https://github.com/secureblue/secureblue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
