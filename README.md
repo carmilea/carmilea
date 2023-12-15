@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Not even LinkedIn is that keen on Microsoft&#39;s cloud: Shift to Azure abandoned](https://www.theregister.com/2023/12/14/linkedin_abandons_migration_to_microsoft/)
 - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
 - [Scheme in Scheme on WASM in the Browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
 - [Cognitive Distortions That Undermine Clear Thinking](https://www.leadingsapiens.com/cognitive-distortions-leaders/)
 - [Double-Mirror Illusion](https://journalofillusion.net/index.php/joi/article/view/9839/16407)
-- [Delta Dental says data breach exposed info of 7M people](https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
