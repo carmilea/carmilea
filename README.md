@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Emergence of Full-Body Gaussian Splat Deepfake Humans](https://blog.metaphysic.ai/the-emergence-of-full-body-gaussian-splat-deepfake-humans/)
+- [Interactive Tour of James Clerk Maxwell&#39;s House](https://clerkmaxwellfoundation.org/india-street/housetour.html)
+- [Let it snow in your terminal](https://pypi.org/project/snowjob/)
 - [Godot: A Collaboration with Google and the Forge](https://godotengine.org/article/collaboration-with-google-forge-2023/)
-- [Fragmentation](http://theprogrammersparadox.blogspot.com/2023/12/fragmentation.html)
 - [AMD&#39;s Next GPU Is a 3D-Integrated Superchip](https://spectrum.ieee.org/amd-mi300)
-- [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
-- [Researchers create transparent magnetic materials using laser heating](http://www.tohoku.ac.jp/en/press/new_transparent_magnetic_material_created_by_adding_heat_with_a_laser.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
