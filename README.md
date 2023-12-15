@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scratch Data &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/fyTdOHH-founding-software-engineer)
+- [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
+- [The Stanford Prison Experiment was hugely influential. We learned it was a fraud](https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication)
 - [Show HN: Airdraw](https://www.airdraw.io/)
 - [Stable Zero123: Quality 3D Object Generation from Single Images](https://stability.ai/news/stable-zero123-3d-generation)
-- [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
-- [OnnxStream: Stable Diffusion XL 1.0 Base on a Raspberry Pi Zero 2](https://github.com/vitoplantamura/OnnxStream/tree/c0cb4b3d7b419e4b10129904fbe16b850ca5d385)
-- [Apple partly halts Beeper&#39;s iMessage app again, suggesting a long fight ahead](https://arstechnica.com/gadgets/2023/12/apple-partly-halts-beepers-imessage-app-again-suggesting-a-long-fight-ahead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
