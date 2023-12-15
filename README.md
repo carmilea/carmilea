@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI: Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+- [Show HN: Ottehr is a modern, open-source EHR](https://github.com/masslight/ottehr)
+- [Mfio – Completion I/O for Rust](https://blaz.is/blog/post/mfio-release/)
+- [Fastmail Employees Form a Union](https://union.place/@fastmailunited/111563614375789166)
 - [Gym Class VR &lpar;YC W22&rpar; Is Hiring Lead AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
-- [Pop _OS Cosmic Desktop Improving Multi-Monitor and Multi-Window Support](https://www.phoronix.com/news/COSMIC-December-2023)
-- [Do large language models need all those layers?](https://www.amazon.science/blog/do-large-language-models-really-need-all-those-layers)
-- [Not even LinkedIn is that keen on Microsoft&#39;s cloud: Shift to Azure abandoned](https://www.theregister.com/2023/12/14/linkedin_abandons_migration_to_microsoft/)
-- [Threestudio – A unified framework for 3D content generation](https://github.com/threestudio-project/threestudio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
