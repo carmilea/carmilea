@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gym Class VR &lpar;YC W22&rpar; Is Hiring Lead AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
+- [Pop _OS Cosmic Desktop Improving Multi-Monitor and Multi-Window Support](https://www.phoronix.com/news/COSMIC-December-2023)
+- [Do large language models need all those layers?](https://www.amazon.science/blog/do-large-language-models-really-need-all-those-layers)
 - [Not even LinkedIn is that keen on Microsoft&#39;s cloud: Shift to Azure abandoned](https://www.theregister.com/2023/12/14/linkedin_abandons_migration_to_microsoft/)
-- [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
-- [Scheme in Scheme on WASM in the Browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
-- [Cognitive Distortions That Undermine Clear Thinking](https://www.leadingsapiens.com/cognitive-distortions-leaders/)
-- [Double-Mirror Illusion](https://journalofillusion.net/index.php/joi/article/view/9839/16407)
+- [Threestudio – A unified framework for 3D content generation](https://github.com/threestudio-project/threestudio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
