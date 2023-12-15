@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First look at asteroid dust brought to Earth offers surprises](https://www.nature.com/articles/d41586-023-03978-4)
+- [Leave work slightly unfinished for easier flow the next day](https://read.engineerscodex.com/p/simple-software-engineering-habits)
 - [Merriam-Webster&#39;s 404 Page](https://www.merriam-webster.com/notfound)
-- [Prince Harry wins landmark phone hacking case against Britain&#39;s major tabloids](https://text.npr.org/1219536863)
-- [McDonald&#39;s Ice Cream Machine Hackers Say They Found &#39;Smoking Gun&#39;](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/)
-- [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
-- [OpenAI: Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+- [Thoughts on Threads and ActivityPub](https://anderegg.ca/2023/12/15/the-threads-invasion)
+- [Suspects can refuse to provide phone passcodes to police, court rules](https://arstechnica.com/tech-policy/2023/12/suspects-can-refuse-to-provide-phone-passcodes-to-police-court-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
