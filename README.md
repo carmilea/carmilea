@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Scratch Data &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/fyTdOHH-founding-software-engineer)
+- [Microsoft defends Edge&#39;s predatory practices with cringe, audacious reply on X](https://www.neowin.net/news/microsoft-defends-edges-predatory-practices-with-cringe-and-audacious-reply-on-x/)
 - [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
-- [The Stanford Prison Experiment was hugely influential. We learned it was a fraud](https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication)
+- [The Stanford Prison Experiment was hugely influential. We learned it was a fraud &lpar;2018&rpar;](https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication)
 - [Show HN: Airdraw](https://www.airdraw.io/)
-- [Stable Zero123: Quality 3D Object Generation from Single Images](https://stability.ai/news/stable-zero123-3d-generation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
