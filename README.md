@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
+- [Scheme in Scheme on WASM in the Browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
+- [Cognitive Distortions That Undermine Clear Thinking](https://www.leadingsapiens.com/cognitive-distortions-leaders/)
+- [Double-Mirror Illusion](https://journalofillusion.net/index.php/joi/article/view/9839/16407)
 - [Delta Dental says data breach exposed info of 7M people](https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/)
-- [What Happens in the Brain While Daydreaming?](https://hms.harvard.edu/news/what-happens-brain-while-daydreaming)
-- [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers for It&#39;s SMS Platform Team](https://onesignal.com/careers/4303015006)
-- [WebP is so great except it&#39;s not &lpar;2021&rpar;](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
