@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Best information sources to learn about VC](https://news.ycombinator.com/item?id=38653958)
 - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers for It&#39;s SMS Platform Team](https://onesignal.com/careers/4303015006)
-- [WebP is so great except it&#39;s not](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
-- [The Emergence of Full-Body Gaussian Splat Deepfake Humans](https://blog.metaphysic.ai/the-emergence-of-full-body-gaussian-splat-deepfake-humans/)
-- [Oxlint – written in Rust – 50-100 Times Faster than ESLint](https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html)
+- [WebP is so great except it&#39;s not &lpar;2021&rpar;](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
+- [EU tweaks law to allow using spyware against journalists](https://www.politico.eu/article/eu-capitals-want-media-law-carve-out-to-spy-on-reporters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
