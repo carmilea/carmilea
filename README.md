@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Best information sources to learn about VC](https://news.ycombinator.com/item?id=38653958)
+- [Delta Dental says data breach exposed info of 7M people](https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/)
+- [What Happens in the Brain While Daydreaming?](https://hms.harvard.edu/news/what-happens-brain-while-daydreaming)
 - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers for It&#39;s SMS Platform Team](https://onesignal.com/careers/4303015006)
 - [WebP is so great except it&#39;s not &lpar;2021&rpar;](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
-- [EU tweaks law to allow using spyware against journalists](https://www.politico.eu/article/eu-capitals-want-media-law-carve-out-to-spy-on-reporters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
