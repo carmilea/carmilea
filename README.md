@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Recommendations Lead to More Extremist Content for Right-Leaning Users](https://www.ucdavis.edu/curiosity/news/youtube-video-recommendations-lead-more-extremist-content-right-leaning-users-researchers)
+- [Chobani buys coffee company La Colombe](https://www.reuters.com/markets/deals/greek-yogurt-maker-chobani-buys-coffee-company-la-colombe-900-mln-2023-12-15/)
 - [First look at asteroid dust brought to Earth offers surprises](https://www.nature.com/articles/d41586-023-03978-4)
 - [Leave work slightly unfinished for easier flow the next day](https://read.engineerscodex.com/p/simple-software-engineering-habits)
-- [Merriam-Webster&#39;s 404 Page](https://www.merriam-webster.com/notfound)
-- [Thoughts on Threads and ActivityPub](https://anderegg.ca/2023/12/15/the-threads-invasion)
-- [Suspects can refuse to provide phone passcodes to police, court rules](https://arstechnica.com/tech-policy/2023/12/suspects-can-refuse-to-provide-phone-passcodes-to-police-court-rules/)
+- [The case of the missing Vega AVUM propellant tanks](https://europeanspaceflight.com/the-case-of-the-missing-vega-avum-propellant-tanks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
