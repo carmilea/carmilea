@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Americans Are Skipping Doctor Visits Due to Costs](https://www.msn.com/en-us/health/other/americans-are-skipping-doctor-visits-due-to-costs/ar-AA1lodWL)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 - [Researchers create transparent magnetic materials using laser heating](http://www.tohoku.ac.jp/en/press/new_transparent_magnetic_material_created_by_adding_heat_with_a_laser.html)
 - [Show HN: My Go SQLite driver did poorly on a benchmark, so I fixed it](https://github.com/ncruces/go-sqlite-bench)
 - [Scratch Data &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/fyTdOHH-founding-software-engineer)
-- [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
