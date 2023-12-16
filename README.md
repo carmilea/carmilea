@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the point of a public key fingerprint?](https://www.johndcook.com/blog/2023/12/15/pgp-fingerprint/)
+- [Apple makes it easier for app makers to compete for your dollars](https://www.theverge.com/2023/12/16/24004074/ios-apps-contingent-pricing-subscription-discounts)
+- [AMD FSR is the building block for Apple&#39;s hybrid MetalFX upscaling tech](https://www.tomshardware.com/pc-components/gpus/amd-fsr-is-the-building-block-for-apples-metalfx-upscaling-tech-the-apps-legal-info-references-the-usage-of-amd-fsr)
 - [Sydney man dubbed the &#39;Annihilator&#39; wins spreadsheet world championship](https://www.theguardian.com/australia-news/2023/dec/15/you-didnt-just-succeed-you-exceled-sydney-man-dubbed-the-annihilator-wins-excel-world-championship)
 - [Atree: A simple and efficient pointer-free tree implementation](https://github.com/tlack/atree)
-- [Interview: The Threat of Self-Censorship in Science](https://undark.org/2023/12/15/interview-self-censorship/)
 - [The New Essential Guide to Electronics in Shenzhen](https://www.bunniestudios.com/blog/?p=6886)
 <!-- BLOG-POST-LIST:END -->
 
