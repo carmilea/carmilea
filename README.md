@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hitchhiker&#39;s Guide to Moving from Relational Data to Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
-- [Rising Temperatures in the Netherlands](https://koenvangilst.nl/blog/rising-temperatures)
-- [Andy Matuschak – Self-Teaching, Spaced Repetition, Why Books Don&#39;t Work](https://www.dwarkeshpatel.com/p/andy-matuschak)
-- [Preparing for Missions in Difficult Places](https://www.bitecode.dev/p/preparing-for-missions-in-difficult)
-- [Emerge &lpar;YC W21&rpar; is hiring a Senior Front end Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+- [Bang&amp;Olufsen says it will defy luxury slowdown as &#39;rich will only become richer&#39;](https://www.ft.com/content/028d9968-2d6d-4e8c-affb-d36d4986cbae)
+- [Stop Planting Trees, Says Guy Who Inspired World to Plant a Trillion Trees](https://www.wired.com/story/stop-planting-trees-thomas-crowther/)
+- [How the nutritional value of staple crops dropped by 50% since the 1960s](https://jeroenvanbaar.substack.com/p/data-dispatch-4-the-falling-nutritional)
+- [SSH3: SSH using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
+- [A Beautiful library of SVG logos](https://svgl.vercel.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
