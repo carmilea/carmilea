@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California DMV Digital ID Pilot Program](https://www.dmv.ca.gov/portal/ca-dmv-wallet/)
+- [Hubless-wheel electric penny farthing is a one-of-a-kind masterpiece](https://newatlas.com/bicycles/penn-e-farthing-hubless-wheel-electric-penny-farthing/)
+- [Christmas deliveries at risk as shipping giant suspends Red Sea journeys](https://www.telegraph.co.uk/business/2023/12/15/christmas-deliveries-risk-shipping-giant-suspends-red-sea/)
 - [What This Country Needs is an 18¢ Piece [pdf]](https://cs.uwaterloo.ca/~shallit/Papers/change2.pdf)
 - [Tree plantations are not the environmental solution they’re purported to be](https://www.wired.com/story/stop-planting-trees-thomas-crowther/)
 - [The falling nutritional value of crops](https://jeroenvanbaar.substack.com/p/data-dispatch-4-the-falling-nutritional)
-- [SSH3: SSHv2 using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
