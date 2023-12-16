@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers detect almost 100 new extremely-metal poor galaxies](https://phys.org/news/2023-12-astronomers-extremely-metal-poor-galaxies.html)
 - [The music player you wish you had in the early 2000s](https://www.crowdsupply.com/cool-tech-zone/tangara)
 - [CRDT Concepts: Causal Trees](https://www.farley.ai/posts/causal)
+- [RAG to Riches](https://sourcegraph.com/blog/rag-to-riches)
 - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
-- [Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
-- [InpharmD &lpar;YC W21&rpar; Is Hiring – NLP/ML Engineer](https://www.inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
