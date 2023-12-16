@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Homelessness reaches highest reported level in the U.S. in 2023](https://www.axios.com/2023/12/15/homelessness-increase-rent-crisis-2023)
+- [Hitchhiker&#39;s Guide to Moving from Relational Data to Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
+- [Rising Temperatures in the Netherlands](https://koenvangilst.nl/blog/rising-temperatures)
 - [Andy Matuschak – Self-Teaching, Spaced Repetition, Why Books Don&#39;t Work](https://www.dwarkeshpatel.com/p/andy-matuschak)
+- [Preparing for Missions in Difficult Places](https://www.bitecode.dev/p/preparing-for-missions-in-difficult)
 - [Emerge &lpar;YC W21&rpar; is hiring a Senior Front end Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- [Structure of FTS5 Index in SQLite](https://darksi.de/13.sqlite-fts5-structure/)
-- [UK court allows ANN patent saying computer programs exclusion does not apply](https://www.bailii.org/ew/cases/EWHC/Ch/2023/2948.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
