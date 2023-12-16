@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The music player you wish you had in the early 2000s](https://www.crowdsupply.com/cool-tech-zone/tangara)
+- [CRDT Concepts: Causal Trees](https://www.farley.ai/posts/causal)
 - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
-- [CVE-2023-45866: Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
+- [Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
 - [InpharmD &lpar;YC W21&rpar; Is Hiring – NLP/ML Engineer](https://www.inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
-- [City Council Passes Bill Enabling Tenants to Report Vacant Apartments](https://www.thecity.nyc/2023/12/06/warehousing-vacant-apartments-report-council/)
-- [Location history data in Google Maps will soon be stored on user devices](https://www.businessinsider.com/google-maps-location-data-history-stored-locally-2023-12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
