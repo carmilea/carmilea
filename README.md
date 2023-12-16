@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [InpharmD &lpar;YC W21&rpar; Is Hiring – NLP/ML Engineer](https://www.inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
+- [Google will no longer hold onto people&#39;s location data in Google Maps](https://www.businessinsider.com/google-maps-location-data-history-stored-locally-2023-12)
 - [Tortured conference series thriving in computer science](https://hal.science/hal-04311585v1)
 - [New plans for self-hosted Zulip customers](https://blog.zulip.com/2023/12/15/new-plans-for-self-hosted-customers/)
 - [Noteable.io is shutting down](https://community.noteable.io/c/announcements-4da7da/noteable-is-terminating-its-platform-and-services)
-- [Secureblue: Hardened Immutable Fedora Images](https://github.com/secureblue/secureblue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
