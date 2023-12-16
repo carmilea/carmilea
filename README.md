@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubless-wheel electric penny farthing is a one-of-a-kind masterpiece](https://newatlas.com/bicycles/penn-e-farthing-hubless-wheel-electric-penny-farthing/)
-- [Christmas deliveries at risk as shipping giant suspends Red Sea journeys](https://www.telegraph.co.uk/business/2023/12/15/christmas-deliveries-risk-shipping-giant-suspends-red-sea/)
-- [What This Country Needs is an 18¢ Piece [pdf]](https://cs.uwaterloo.ca/~shallit/Papers/change2.pdf)
-- [Tree plantations are not the environmental solution they’re purported to be](https://www.wired.com/story/stop-planting-trees-thomas-crowther/)
-- [The falling nutritional value of crops](https://jeroenvanbaar.substack.com/p/data-dispatch-4-the-falling-nutritional)
+- [What is the point of a public key fingerprint?](https://www.johndcook.com/blog/2023/12/15/pgp-fingerprint/)
+- [Sydney man dubbed the &#39;Annihilator&#39; wins spreadsheet world championship](https://www.theguardian.com/australia-news/2023/dec/15/you-didnt-just-succeed-you-exceled-sydney-man-dubbed-the-annihilator-wins-excel-world-championship)
+- [Atree: A simple and efficient pointer-free tree implementation](https://github.com/tlack/atree)
+- [Interview: The Threat of Self-Censorship in Science](https://undark.org/2023/12/15/interview-self-censorship/)
+- [The New Essential Guide to Electronics in Shenzhen](https://www.bunniestudios.com/blog/?p=6886)
 <!-- BLOG-POST-LIST:END -->
 
 ---
