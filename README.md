@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ASML and Samsung seal deal on 2nm chips](https://www.koreaherald.com/view.php?ud=20231215000518)
+- [How the Feds bounced Binance: Crypto isn&#39;t &quot;incentive compatible&quot;](https://www.programmablemutter.com/p/how-the-feds-bounced-binance)
+- [US begins review that could eventually lead to PVC ban](https://phys.org/news/2023-12-pvc.amp)
+- [A guide to technical report writing [pdf]](https://ias.ieee.org/wp-content/uploads/2023/06/2020-01-16_IET_Technical_Report_Writing_Guidelines.pdf)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-- [Ask HN: Stories of political intrigue in large companies](https://news.ycombinator.com/item?id=38667509)
-- [Paris mayor plans to triple SUV parking tariffs to cut air pollution](https://www.theguardian.com/world/2023/dec/08/paris-mayor-plans-to-triple-suv-parking-tariffs-cut-air-pollution)
-- [Recent data shows AI job losses rising, but the numbers don&#39;t tell full story](https://www.cnbc.com/2023/12/16/ai-job-losses-are-rising-but-the-numbers-dont-tell-the-full-story.html)
-- [Apple workers deserve iDorms as good as the technology](https://www.ft.com/content/6f6e3e62-c06c-42b3-8b1b-a4dabbf2334c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
