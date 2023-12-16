@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bang&amp;Olufsen says it will defy luxury slowdown as &#39;rich will only become richer&#39;](https://www.ft.com/content/028d9968-2d6d-4e8c-affb-d36d4986cbae)
-- [Stop Planting Trees, Says Guy Who Inspired World to Plant a Trillion Trees](https://www.wired.com/story/stop-planting-trees-thomas-crowther/)
-- [How the nutritional value of staple crops dropped by 50% since the 1960s](https://jeroenvanbaar.substack.com/p/data-dispatch-4-the-falling-nutritional)
-- [SSH3: SSH using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
-- [A Beautiful library of SVG logos](https://svgl.vercel.app/)
+- [California DMV Digital ID Pilot Program](https://www.dmv.ca.gov/portal/ca-dmv-wallet/)
+- [What This Country Needs is an 18¢ Piece [pdf]](https://cs.uwaterloo.ca/~shallit/Papers/change2.pdf)
+- [Tree plantations are not the environmental solution they’re purported to be](https://www.wired.com/story/stop-planting-trees-thomas-crowther/)
+- [The falling nutritional value of crops](https://jeroenvanbaar.substack.com/p/data-dispatch-4-the-falling-nutritional)
+- [SSH3: SSHv2 using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
