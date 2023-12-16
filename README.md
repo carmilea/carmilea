@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple makes it easier for app makers to compete for your dollars](https://www.theverge.com/2023/12/16/24004074/ios-apps-contingent-pricing-subscription-discounts)
-- [AMD FSR is the building block for Apple&#39;s hybrid MetalFX upscaling tech](https://www.tomshardware.com/pc-components/gpus/amd-fsr-is-the-building-block-for-apples-metalfx-upscaling-tech-the-apps-legal-info-references-the-usage-of-amd-fsr)
-- [Sydney man dubbed the &#39;Annihilator&#39; wins spreadsheet world championship](https://www.theguardian.com/australia-news/2023/dec/15/you-didnt-just-succeed-you-exceled-sydney-man-dubbed-the-annihilator-wins-excel-world-championship)
-- [Atree: A simple and efficient pointer-free tree implementation](https://github.com/tlack/atree)
-- [The New Essential Guide to Electronics in Shenzhen](https://www.bunniestudios.com/blog/?p=6886)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+- [Ask HN: Stories of political intrigue in large companies](https://news.ycombinator.com/item?id=38667509)
+- [Paris mayor plans to triple SUV parking tariffs to cut air pollution](https://www.theguardian.com/world/2023/dec/08/paris-mayor-plans-to-triple-suv-parking-tariffs-cut-air-pollution)
+- [Recent data shows AI job losses rising, but the numbers don&#39;t tell full story](https://www.cnbc.com/2023/12/16/ai-job-losses-are-rising-but-the-numbers-dont-tell-the-full-story.html)
+- [Apple workers deserve iDorms as good as the technology](https://www.ft.com/content/6f6e3e62-c06c-42b3-8b1b-a4dabbf2334c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
