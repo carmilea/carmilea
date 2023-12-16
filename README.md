@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
+- [CVE-2023-45866: Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
 - [InpharmD &lpar;YC W21&rpar; Is Hiring – NLP/ML Engineer](https://www.inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
+- [City Council Passes Bill Enabling Tenants to Report Vacant Apartments](https://www.thecity.nyc/2023/12/06/warehousing-vacant-apartments-report-council/)
 - [Location history data in Google Maps will soon be stored on user devices](https://www.businessinsider.com/google-maps-location-data-history-stored-locally-2023-12)
-- [Breakthrough in &#39;detonating&#39; hypersonic propulsion](https://www.thedrive.com/the-war-zone/ges-breakthrough-in-detonating-hypersonic-propulsion-is-a-big-deal)
-- [Tortured conference series thriving in computer science](https://hal.science/hal-04311585v1)
-- [New plans for self-hosted Zulip customers](https://blog.zulip.com/2023/12/15/new-plans-for-self-hosted-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
