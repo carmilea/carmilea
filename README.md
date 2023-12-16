@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tortured conference series thriving in Computer Science](https://hal.science/hal-04311585v1)
+- [InpharmD &lpar;YC W21&rpar; Is Hiring – NLP/ML Engineer](https://www.inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
+- [Tortured conference series thriving in computer science](https://hal.science/hal-04311585v1)
 - [New plans for self-hosted Zulip customers](https://blog.zulip.com/2023/12/15/new-plans-for-self-hosted-customers/)
-- [Cloudflare is experiencing elevated 5xx responses](https://news.ycombinator.com/item?id=38659404)
-- [Noteable.io Is Shutting Down](https://community.noteable.io/c/announcements-4da7da/noteable-is-terminating-its-platform-and-services)
+- [Noteable.io is shutting down](https://community.noteable.io/c/announcements-4da7da/noteable-is-terminating-its-platform-and-services)
 - [Secureblue: Hardened Immutable Fedora Images](https://github.com/secureblue/secureblue)
 <!-- BLOG-POST-LIST:END -->
 
