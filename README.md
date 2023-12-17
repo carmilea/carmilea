@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodreads asks users to help combat &#39;review bombing&#39;](https://www.npr.org/2023/12/17/1219599404/goodreads-review-bombing-cait-corrain)
-- [Ask HN: Does anyone here use Haxe?](https://news.ycombinator.com/item?id=38673253)
-- [Ancient &#39;Dragon&#39; Unearthed in Japan Is Unlike Anything We&#39;ve Ever Seen](https://www.sciencealert.com/ancient-dragon-unearthed-in-japan-is-unlike-anything-weve-ever-seen)
-- [Show HN: I have created a free text-to-image website that supports SDXL Turbo](https://comfyuiweb.com/)
-- [Evaluating New Software Forges](https://notgull.net/finding-a-forge/)
+- [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [A bullying scandal closed a historic astronomy department](https://www.nature.com/articles/d41586-023-03953-z)
+- [BrainGPT turns thoughts into text](https://www.iflscience.com/new-mind-reading-braingpt-turns-thoughts-into-text-on-screen-72054)
+- [Becoming a go-to person gets you promoted](https://careercutler.substack.com/p/becoming-a-go-to-person-gets-you)
+- [US nuclear-fusion lab enters new era: achieving &#39;ignition&#39; over and over](https://www.nature.com/articles/d41586-023-04045-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
