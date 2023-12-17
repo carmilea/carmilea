@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why it&#39;s taking so long for Americans to get payments instantly](https://www.wsj.com/finance/banking/why-its-taking-so-long-for-americans-to-get-payments-instantly-83dc468a)
-- [Steve Jobs rigged the first iPhone demo by faking full signal strength](https://finance.yahoo.com/news/steve-jobs-rigged-first-iphone-152527272.html)
 - [Augmenting long-term memory &lpar;2018&rpar;](https://augmentingcognition.com/ltm.html)
 - [Show HN: NowDo – a super-simple todo app for procrastinators &lpar;macOS&rpar;](https://nowdo.org/)
-- [Opposed to Bill S-210, a Canadian bill that may introduce internet censorship](https://fev.al/posts/opposed-to-s210/)
+- [AMD&#39;s Response to Nvidia regarding H100 vs. MI300X on real world workloads](https://community.amd.com/t5/instinct-accelerators/competitive-performance-claims-and-industry-leading-inference/ba-p/652304)
+- [Unlogged &lpar;YC S22&rpar; is hiring to automate regression testing](https://news.ycombinator.com/item?id=38669395)
 <!-- BLOG-POST-LIST:END -->
 
 ---
