@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Yes&quot; Means &quot;No&quot;: The Curious Language of Venture Capitalists](https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious)
+- [OpenAI employee: GPT-4.5 rumor was a hallucination](https://twitter.com/willdepue/status/1736470540351950867)
 - [How to Choose Cookware &lpar;2014&rpar;](https://www.centurylife.org/how-to-choose-cookware/)
 - [Fsearch, a fast file search utility for Unix-like systems](https://github.com/cboxdoerfer/fsearch)
 - [ArtBot for Stable Diffusion](https://tinybots.net/artbot)
-- [Perl Poetry Generators in 256 Characters](https://nickm.com/poems/ppg256.html)
-- [The largest money-printing UI element ever made](https://blog.jim-nielsen.com/2023/most-profitable-ui-element-ever/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
