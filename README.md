@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A celebrated startup promised Kentuckians green jobs. It gave them hell on Earth](https://grist.org/agriculture/appharvest-indoor-farming-morehead-kentucky/)
-- [&#39;Tranq tourism&#39;: alarm in Philadelphia as TikTokers travel to film drug users](https://www.theguardian.com/society/2023/dec/17/tranq-tourism-tiktok-philadelphia-drug-use-xylazine)
-- [How Africans Are Changing French – One Joke, Rap and Book at a Time](https://www.nytimes.com/2023/12/12/world/africa/africa-french-language.html)
-- [How to maximize a free time at work?](https://news.ycombinator.com/item?id=38675794)
-- [Ask HN: How to figure out a good direction/goals for the year ahead?](https://news.ycombinator.com/item?id=38675686)
+- [How to Choose Cookware &lpar;2014&rpar;](https://www.centurylife.org/how-to-choose-cookware/)
+- [Fsearch, a fast file search utility for Unix-like systems](https://github.com/cboxdoerfer/fsearch)
+- [ArtBot for Stable Diffusion](https://tinybots.net/artbot)
+- [Perl Poetry Generators in 256 Characters](https://nickm.com/poems/ppg256.html)
+- [The largest money-printing UI element ever made](https://blog.jim-nielsen.com/2023/most-profitable-ui-element-ever/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
