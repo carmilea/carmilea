@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD&#39;s CDNA 3 Compute Architecture](https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/)
+- [Wikipedia exec salaries are sparking a debate on tech sector wages](https://www.businessinsider.com/wikipedia-wikimedia-executive-salaries-sparking-debate-tech-sector-wages-2023-12)
+- [Seven Things We Learned Analyzing 515M Wordles](https://www.nytimes.com/2023/12/17/upshot/wordle-bot-year-in-review.html)
 - [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [Today&#39;s heavy RTX 4090s GPUs plagued with cracking around PCIe slots](https://www.tomshardware.com/pc-components/gpus/todays-heavy-gpus-continue-to-be-plagued-with-cracking-around-pcie-slots-19-damaged-nvidia-rtx-4090s-most-with-cracked-pcbs-arrive-at-northbridgefix-repair)
 - [Misra C++:2023 Published](https://forum.misra.org.uk/thread-1668.html)
-- [A bullying scandal closed a historic astronomy department](https://www.nature.com/articles/d41586-023-03953-z)
-- [BrainGPT turns thoughts into text](https://www.iflscience.com/new-mind-reading-braingpt-turns-thoughts-into-text-on-screen-72054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
