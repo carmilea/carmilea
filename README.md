@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BC Supreme Court bars man from calling himself an &#39;engineer&#39;](https://www.cbc.ca/news/canada/british-columbia/bc-ppc-engineer-title-1.7061266)
 - [On the pronunciation of “fsck”](https://hachyderm.io/@robpike/111593487329402102)
 - [Evaluating New Software Forges](https://notgull.net/finding-a-forge/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Dynamic Soaring](https://en.wikipedia.org/wiki/Dynamic_soaring)
 - [Pearl: A Production-Ready Reinforcement Learning Agent](https://github.com/facebookresearch/Pearl)
 <!-- BLOG-POST-LIST:END -->
 
