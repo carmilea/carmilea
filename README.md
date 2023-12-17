@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A celebrated startup promised Kentuckians green jobs. It gave them hell on Earth](https://grist.org/agriculture/appharvest-indoor-farming-morehead-kentucky/)
+- [&#39;Tranq tourism&#39;: alarm in Philadelphia as TikTokers travel to film drug users](https://www.theguardian.com/society/2023/dec/17/tranq-tourism-tiktok-philadelphia-drug-use-xylazine)
+- [How Africans Are Changing French – One Joke, Rap and Book at a Time](https://www.nytimes.com/2023/12/12/world/africa/africa-french-language.html)
 - [How to maximize a free time at work?](https://news.ycombinator.com/item?id=38675794)
 - [Ask HN: How to figure out a good direction/goals for the year ahead?](https://news.ycombinator.com/item?id=38675686)
-- [3M knew its chemicals were harmful decades ago, but didn&#39;t tell the public](https://minnesotareformer.com/2022/12/15/toxic-3m-knew-its-chemicals-were-harmful-decades-ago-but-didnt-tell-the-public-government/)
-- [Cats Kill a Staggering Number of Species Across the World](https://www.scientificamerican.com/article/cats-kill-a-staggering-number-of-species-across-the-world/)
-- [AMD&#39;s CDNA 3 Compute Architecture](https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
