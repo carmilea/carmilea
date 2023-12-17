@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is there a black hole in the center of the Sun?](https://arxiv.org/abs/2312.07647)
-- [ASML and Samsung seal deal on 2nm chips](https://www.koreaherald.com/view.php?ud=20231215000518)
-- [How the Feds bounced Binance: Crypto isn&#39;t &quot;incentive compatible&quot;](https://www.programmablemutter.com/p/how-the-feds-bounced-binance)
-- [US begins review that could eventually lead to PVC ban](https://phys.org/news/2023-12-pvc.amp)
-- [A guide to technical report writing [pdf]](https://ias.ieee.org/wp-content/uploads/2023/06/2020-01-16_IET_Technical_Report_Writing_Guidelines.pdf)
+- [Unlogged &lpar;YC S22&rpar; Is Hiring to automate regression testing](https://news.ycombinator.com/item?id=38669395)
+- [Hasbro laying off Wizards of the Coast staff is baffling](https://www.geekwire.com/2023/hasbro-laying-off-wizards-of-the-coast-staff-is-baffling-and-could-lead-to-a-brain-drain/)
+- [Would it be possible to detect an industrial civilization in geological record?](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/silurian-hypothesis-would-it-be-possible-to-detect-an-industrial-civilization-in-the-geological-record/77818514AA6907750B8F4339F7C70EC6)
+- [Transformers on Chips](https://www.etched.ai)
+- [Intel, Samsung, and TSMC Demo 3D-Stacked Transistors](https://spectrum.ieee.org/cfet-intel-samsung-tsmc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
