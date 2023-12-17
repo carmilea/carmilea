@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Made a forum for depressed founders to confide](https://www.depressedfounders.com/)
 - [The Apollo Syndrome](https://www.teamtechnology.co.uk/tt/t-articl/apollo.htm)
-- [WyGPT: Minimal mature GPT model in C++](https://github.com/wangyi-fudan/wyGPT)
-- [Why it&#39;s taking so long for Americans to get payments instantly](https://www.wsj.com/finance/banking/why-its-taking-so-long-for-americans-to-get-payments-instantly-83dc468a)
-- [Augmenting long-term memory &lpar;2018&rpar;](https://augmentingcognition.com/ltm.html)
-- [Show HN: NowDo – a super-simple todo app for procrastinators &lpar;macOS&rpar;](https://nowdo.org/)
+- [Internet Explorer is Evil: The Story &lpar;2010&rpar;](http://toastytech.com/evil/ieisevilstory.html)
+- [Ask HN: Terrified I wont find another job](https://news.ycombinator.com/item?id=38670712)
+- [AI bots are now outperforming humans in solving CAPTCHAs](https://arxiv.org/abs/2307.12108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
