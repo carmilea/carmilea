@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to maximize a free time at work?](https://news.ycombinator.com/item?id=38675794)
+- [Ask HN: How to figure out a good direction/goals for the year ahead?](https://news.ycombinator.com/item?id=38675686)
+- [3M knew its chemicals were harmful decades ago, but didn&#39;t tell the public](https://minnesotareformer.com/2022/12/15/toxic-3m-knew-its-chemicals-were-harmful-decades-ago-but-didnt-tell-the-public-government/)
+- [Cats Kill a Staggering Number of Species Across the World](https://www.scientificamerican.com/article/cats-kill-a-staggering-number-of-species-across-the-world/)
 - [AMD&#39;s CDNA 3 Compute Architecture](https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/)
-- [Wikipedia exec salaries are sparking a debate on tech sector wages](https://www.businessinsider.com/wikipedia-wikimedia-executive-salaries-sparking-debate-tech-sector-wages-2023-12)
-- [Seven Things We Learned Analyzing 515M Wordles](https://www.nytimes.com/2023/12/17/upshot/wordle-bot-year-in-review.html)
-- [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [Misra C++:2023 Published](https://forum.misra.org.uk/thread-1668.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
