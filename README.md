@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Apollo Syndrome](https://www.teamtechnology.co.uk/tt/t-articl/apollo.htm)
+- [WyGPT: Minimal mature GPT model in C++](https://github.com/wangyi-fudan/wyGPT)
 - [Why it&#39;s taking so long for Americans to get payments instantly](https://www.wsj.com/finance/banking/why-its-taking-so-long-for-americans-to-get-payments-instantly-83dc468a)
 - [Augmenting long-term memory &lpar;2018&rpar;](https://augmentingcognition.com/ltm.html)
 - [Show HN: NowDo – a super-simple todo app for procrastinators &lpar;macOS&rpar;](https://nowdo.org/)
-- [AMD&#39;s Response to Nvidia regarding H100 vs. MI300X on real world workloads](https://community.amd.com/t5/instinct-accelerators/competitive-performance-claims-and-industry-leading-inference/ba-p/652304)
-- [Unlogged &lpar;YC S22&rpar; is hiring to automate regression testing](https://news.ycombinator.com/item?id=38669395)
 <!-- BLOG-POST-LIST:END -->
 
 ---
