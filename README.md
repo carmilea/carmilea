@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evaluating New Software Forges](https://notgull.net/finding-a-forge/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [Dynamic Soaring](https://en.wikipedia.org/wiki/Dynamic_soaring)
 - [Texas power plants have no responsibility to provide electricity in emergencies](https://www.kut.org/energy-environment/2023-12-15/texas-power-plants-have-no-responsibility-to-provide-electricity-in-emergencies-judges-rule)
-- [The origin of the law of torture: A cautionary tale](https://daviddfriedman.substack.com/p/torture)
-- [Hylomorphism](https://1000wordphilosophy.com/2023/12/04/hylomorphism/)
+- [Solopreneur rollercoaster: first $1 online to depression](https://marclou.beehiiv.com/p/solopreneur-rollercoaster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
