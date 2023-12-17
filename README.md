@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [Today&#39;s heavy RTX 4090s GPUs plagued with cracking around PCIe slots](https://www.tomshardware.com/pc-components/gpus/todays-heavy-gpus-continue-to-be-plagued-with-cracking-around-pcie-slots-19-damaged-nvidia-rtx-4090s-most-with-cracked-pcbs-arrive-at-northbridgefix-repair)
+- [Misra C++:2023 Published](https://forum.misra.org.uk/thread-1668.html)
 - [A bullying scandal closed a historic astronomy department](https://www.nature.com/articles/d41586-023-03953-z)
 - [BrainGPT turns thoughts into text](https://www.iflscience.com/new-mind-reading-braingpt-turns-thoughts-into-text-on-screen-72054)
-- [Becoming a go-to person gets you promoted](https://careercutler.substack.com/p/becoming-a-go-to-person-gets-you)
-- [US nuclear-fusion lab enters new era: achieving &#39;ignition&#39; over and over](https://www.nature.com/articles/d41586-023-04045-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
