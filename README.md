@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Freight Trains: Last Week Tonight](https://www.youtube.com/watch?v=AJ2keSJzYyY)
-- [Augmenting Long-Term Memory](https://augmentingcognition.com/ltm.html)
-- [Unlogged &lpar;YC S22&rpar; Is Hiring to automate regression testing](https://news.ycombinator.com/item?id=38669395)
-- [QuickTake for Apple II](https://www.colino.net/wordpress/en/quicktake-for-apple-ii/)
-- [Hasbro laying off Wizards of the Coast staff is baffling](https://www.geekwire.com/2023/hasbro-laying-off-wizards-of-the-coast-staff-is-baffling-and-could-lead-to-a-brain-drain/)
+- [Why It&#39;s Taking So Long for Americans to Get Payments Instantly](https://www.wsj.com/finance/banking/why-its-taking-so-long-for-americans-to-get-payments-instantly-83dc468a)
+- [Steve Jobs Rigged the First iPhone Demo by Faking Full Signal Strength](https://finance.yahoo.com/news/steve-jobs-rigged-first-iphone-152527272.html)
+- [Augmenting long-term memory &lpar;2018&rpar;](https://augmentingcognition.com/ltm.html)
+- [Show HN: NowDo – a super-simple todo app for procrastinators &lpar;macOS&rpar;](https://nowdo.org/)
+- [Empires of Light](https://www.badspacecomics.com/post/empires)
 <!-- BLOG-POST-LIST:END -->
 
 ---
