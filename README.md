@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On the pronunciation of “fsck”](https://hachyderm.io/@robpike/111593487329402102)
 - [Evaluating New Software Forges](https://notgull.net/finding-a-forge/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [Dynamic Soaring](https://en.wikipedia.org/wiki/Dynamic_soaring)
-- [Texas power plants have no responsibility to provide electricity in emergencies](https://www.kut.org/energy-environment/2023-12-15/texas-power-plants-have-no-responsibility-to-provide-electricity-in-emergencies-judges-rule)
-- [Solopreneur rollercoaster: first $1 online to depression](https://marclou.beehiiv.com/p/solopreneur-rollercoaster)
+- [Pearl: A Production-Ready Reinforcement Learning Agent](https://github.com/facebookresearch/Pearl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
