@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Where should I incoporate my business](https://news.ycombinator.com/item?id=38671072)
+- [Hylomorphism](https://1000wordphilosophy.com/2023/12/04/hylomorphism/)
 - [Show HN: Made a forum for depressed founders to confide](https://www.depressedfounders.com/)
 - [The Apollo Syndrome](https://www.teamtechnology.co.uk/tt/t-articl/apollo.htm)
 - [Internet Explorer is Evil: The Story &lpar;2010&rpar;](http://toastytech.com/evil/ieisevilstory.html)
-- [Ask HN: Terrified I wont find another job](https://news.ycombinator.com/item?id=38670712)
-- [AI bots are now outperforming humans in solving CAPTCHAs](https://arxiv.org/abs/2307.12108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
