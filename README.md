@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Freight Trains: Last Week Tonight](https://www.youtube.com/watch?v=AJ2keSJzYyY)
+- [Augmenting Long-Term Memory](https://augmentingcognition.com/ltm.html)
 - [Unlogged &lpar;YC S22&rpar; Is Hiring to automate regression testing](https://news.ycombinator.com/item?id=38669395)
+- [QuickTake for Apple II](https://www.colino.net/wordpress/en/quicktake-for-apple-ii/)
 - [Hasbro laying off Wizards of the Coast staff is baffling](https://www.geekwire.com/2023/hasbro-laying-off-wizards-of-the-coast-staff-is-baffling-and-could-lead-to-a-brain-drain/)
-- [Would it be possible to detect an industrial civilization in geological record?](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/silurian-hypothesis-would-it-be-possible-to-detect-an-industrial-civilization-in-the-geological-record/77818514AA6907750B8F4339F7C70EC6)
-- [Transformers on Chips](https://www.etched.ai)
-- [Intel, Samsung, and TSMC Demo 3D-Stacked Transistors](https://spectrum.ieee.org/cfet-intel-samsung-tsmc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
