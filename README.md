@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BC Supreme Court bars man from calling himself an &#39;engineer&#39;](https://www.cbc.ca/news/canada/british-columbia/bc-ppc-engineer-title-1.7061266)
-- [On the pronunciation of “fsck”](https://hachyderm.io/@robpike/111593487329402102)
+- [Goodreads asks users to help combat &#39;review bombing&#39;](https://www.npr.org/2023/12/17/1219599404/goodreads-review-bombing-cait-corrain)
+- [Ask HN: Does anyone here use Haxe?](https://news.ycombinator.com/item?id=38673253)
+- [Ancient &#39;Dragon&#39; Unearthed in Japan Is Unlike Anything We&#39;ve Ever Seen](https://www.sciencealert.com/ancient-dragon-unearthed-in-japan-is-unlike-anything-weve-ever-seen)
+- [Show HN: I have created a free text-to-image website that supports SDXL Turbo](https://comfyuiweb.com/)
 - [Evaluating New Software Forges](https://notgull.net/finding-a-forge/)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Pearl: A Production-Ready Reinforcement Learning Agent](https://github.com/facebookresearch/Pearl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
