@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why It&#39;s Taking So Long for Americans to Get Payments Instantly](https://www.wsj.com/finance/banking/why-its-taking-so-long-for-americans-to-get-payments-instantly-83dc468a)
-- [Steve Jobs Rigged the First iPhone Demo by Faking Full Signal Strength](https://finance.yahoo.com/news/steve-jobs-rigged-first-iphone-152527272.html)
+- [Why it&#39;s taking so long for Americans to get payments instantly](https://www.wsj.com/finance/banking/why-its-taking-so-long-for-americans-to-get-payments-instantly-83dc468a)
+- [Steve Jobs rigged the first iPhone demo by faking full signal strength](https://finance.yahoo.com/news/steve-jobs-rigged-first-iphone-152527272.html)
 - [Augmenting long-term memory &lpar;2018&rpar;](https://augmentingcognition.com/ltm.html)
 - [Show HN: NowDo – a super-simple todo app for procrastinators &lpar;macOS&rpar;](https://nowdo.org/)
-- [Empires of Light](https://www.badspacecomics.com/post/empires)
+- [Opposed to Bill S-210, a Canadian bill that may introduce internet censorship](https://fev.al/posts/opposed-to-s210/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
