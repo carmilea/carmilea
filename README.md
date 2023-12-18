@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Love Ruby](https://eliseshaffer.com/2023/12/18/i-love-ruby/)
+- [My Ordinary Life: Improvements Since the 1990s](https://gwern.net/improvement)
+- [Apple to Pause Selling New Versions of Its Watch After Losing Patent Dispute](https://www.nytimes.com/2023/12/18/technology/apple-ban-watch-sales-patent-dispute.html)
+- [Tiny Code Christmas](https://tcc.lovebyte.party/)
+- [Internet Archive appeals, says judge Koeltl &quot;misapplied the fair use factors&quot;](https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/93985-internet-archive-seeks-reversal-in-book-scanning-suit.html)
 - [Librum: Open-Source e-book platform](https://github.com/Librum-Reader/Librum)
-- [PostgREST: Providing HTML Content Using Htmx](https://postgrest.org/en/stable/how-tos/providing-html-content-using-htmx.html)
-- [Apple Loses One of the Last Remaining Designers from Jony Ive Era](https://www.bloomberg.com/news/articles/2023-12-18/apple-loses-one-of-last-remaining-designers-from-jony-ive-era)
-- [3Blue1Brown Calculus Blog Series](https://www.3blue1brown.com/topics/calculus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
