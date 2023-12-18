@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The teenager who lives like it&#39;s the 1940s](https://www.bbc.com/news/articles/crgpjpr35nko)
+- [A new world of open extensions on Firefox for Android has arrived](https://blog.mozilla.org/addons/2023/12/14/a-new-world-of-open-extensions-on-firefox-for-android-has-arrived/)
+- [How to Be Great? Just Be Good, Repeatedly &lpar;2019&rpar;](https://blog.stephsmith.io/how-to-be-great/)
+- [VW Is Putting Buttons Back in Cars Because People Complained Enough](https://www.thedrive.com/news/vw-is-putting-buttons-back-in-cars-because-people-complained-enough)
 - [Ruby 3.3&#39;s YJIT: Faster While Using Less Memory](https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/)
-- [Note G](https://en.wikipedia.org/wiki/Note_G)
-- [Apple halts US sales of Watch before Christmas after losing patent case](https://www.ft.com/content/52a15bec-8dc2-4a19-9749-8b353c53035c)
-- [Nikola founder to be sentenced for federal fraud charges](https://www.cnbc.com/2023/12/18/nikola-founder-trevor-milton-sentencing-fraud-charges.html)
-- [Carolina chemists discover eight new PFAS with novel testing method](https://research.unc.edu/2023/12/12/carolina-chemists-discover-eight-new-pfas-with-novel-testing-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
