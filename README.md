@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Love Ruby](https://eliseshaffer.com/2023/12/18/i-love-ruby/)
+- [Librum: Open-Source e-book platform](https://github.com/Librum-Reader/Librum)
+- [PostgREST: Providing HTML Content Using Htmx](https://postgrest.org/en/stable/how-tos/providing-html-content-using-htmx.html)
 - [Apple Loses One of the Last Remaining Designers from Jony Ive Era](https://www.bloomberg.com/news/articles/2023-12-18/apple-loses-one-of-last-remaining-designers-from-jony-ive-era)
-- [The teenager who lives like it&#39;s the 1940s](https://www.bbc.com/news/articles/crgpjpr35nko)
-- [To be great, be good, repeatably &lpar;2019&rpar;](https://blog.stephsmith.io/how-to-be-great/)
-- [VW is putting buttons back in cars](https://www.thedrive.com/news/vw-is-putting-buttons-back-in-cars-because-people-complained-enough)
-- [Ruby 3.3&#39;s YJIT: Faster While Using Less Memory](https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/)
+- [3Blue1Brown Calculus Blog Series](https://www.3blue1brown.com/topics/calculus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
