@@ -59,8 +59,8 @@
 - [AMD MI300X 30% higher performance than Nvidia H100, even with optimized stack](https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-with-new-mi300x-benchmarks-mi300x-shows-30-higher-performance-than-h100-even-with-an-optimized-software-stack)
 - [Mickey, Disney, and the public domain: A 95-year love triangle](https://web.law.duke.edu/cspd/mickey/)
 - [Tracking Java Native Memory with JDK Flight Recorder](https://www.morling.dev/blog/tracking-java-native-memory-with-jdk-flight-recorder/)
-- [Reindeer can see UV light](https://journals.sagepub.com/doi/full/10.1177/20416695231218520)
 - [“Yes” means “no”: The language of VCs](https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious)
+- [0% of the phrases of the original Wikipedia &quot;Ship of Theseus&quot; article remain](https://twitter.com/depthsofwiki/status/1735800801455419697)
 <!-- BLOG-POST-LIST:END -->
 
 ---
