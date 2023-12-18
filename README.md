@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Send Me to Heaven](https://en.wikipedia.org/wiki/Send_Me_To_Heaven)
-- [Beeper vs. Apple battle intensifies: Lawmakers demand DOJ investigation](https://www.androidauthority.com/beeper-vs-apple-us-senators-letter-doj-3395333/)
-- [Jarvis: A Voice Virtual Assistant in Python &lpar;OpenAI, ElevenLabs, Deepgram&rpar;](https://github.com/AlexandreSajus/JARVIS)
-- [SEC&#39;s new data breach disclosure rules take effect, here&#39;s what you need to know](https://techcrunch.com/2023/12/18/new-sec-data-breach-disclosure-rules/)
-- [Figma and Adobe are abandoning our proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
+- [Facebook Is Being Overrun with Stolen, AI-Gen Images That People Think Are Real](https://www.404media.co/facebook-is-being-overrun-with-stolen-ai-generated-images-that-people-think-are-real/)
+- [Sturgeon&#39;s law &lpar;90% of everything is crap&rpar;](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
+- [Progress toward a GCC-based Rust compiler](https://lwn.net/SubscriberLink/954787/41470c731eda02a4/)
+- [Why Are Things Expensive?](https://www.why-expensive.com/)
+- [US Steel, once the largest corporation, agrees to sell to Nippon Steel](https://www.cnn.com/2023/12/18/investing/us-steel-nippon-steel-deal/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
