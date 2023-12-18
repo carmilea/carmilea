@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Continue will generate, refactor, and explain entire sections of code](https://continue.dev/)
 - [Show HN: Microagents: Agents capable of self-editing their prompts / Python code](https://github.com/aymenfurter/microagents)
-- [The Remarkable Decline in Home Burglary Rates in Japan](https://www.tokyodev.com/articles/home-burglary-rates-in-japan)
 - [Figgie: Simulate stock trading with a deck of cards](https://figgie.com/how-to-play)
 - [Small offline large language model – TinyChatEngine from MIT](https://graphthinking.blogspot.com/2023/12/small-offline-large-language-model.html)
+- [Autonomous subs use AI to wayfind without GPS](https://spectrum.ieee.org/reinforcement-learning-autonomous-submarines)
 <!-- BLOG-POST-LIST:END -->
 
 ---
