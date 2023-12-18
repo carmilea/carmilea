@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AMD MI300X 30% higher performance than Nvidia H100, even with optimized stack](https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-with-new-mi300x-benchmarks-mi300x-shows-30-higher-performance-than-h100-even-with-an-optimized-software-stack)
-- [What can I do with Mickey Mouse as of January 1, 2024?](https://web.law.duke.edu/cspd/mickey/)
-- [The Parthenon/Elgin Marbles Debate: Return or Retain?](https://antigonejournal.com/2023/12/elgin-marbles-debate/)
+- [Mickey, Disney, and the public domain: A 95-year love triangle](https://web.law.duke.edu/cspd/mickey/)
 - [Tracking Java Native Memory with JDK Flight Recorder](https://www.morling.dev/blog/tracking-java-native-memory-with-jdk-flight-recorder/)
 - [Reindeer can see UV light](https://journals.sagepub.com/doi/full/10.1177/20416695231218520)
+- [“Yes” means “no”: The language of VCs](https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious)
 <!-- BLOG-POST-LIST:END -->
 
 ---
