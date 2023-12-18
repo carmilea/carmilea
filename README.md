@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Continue will generate, refactor, and explain entire sections of code](https://continue.dev/)
-- [Show HN: Microagents: Agents capable of self-editing their prompts / Python code](https://github.com/aymenfurter/microagents)
-- [Figgie: Simulate stock trading with a deck of cards](https://figgie.com/how-to-play)
-- [Small offline large language model – TinyChatEngine from MIT](https://graphthinking.blogspot.com/2023/12/small-offline-large-language-model.html)
-- [Autonomous subs use AI to wayfind without GPS](https://spectrum.ieee.org/reinforcement-learning-autonomous-submarines)
+- [This year in Servo: over 1000 pull requests and beyond](https://servo.org/blog/2023/12/18/this-year-in-servo/)
+- [&quot;I just bought a 2024 Chevy Tahoe for $1&quot;](https://twitter.com/ChrisJBakke/status/1736533308849443121)
+- [EU opens proceedings against X over efforts to combat information manipulation](https://www.reuters.com/technology/eu-opens-proceedings-against-x-over-its-efforts-combat-information-manipulation-2023-12-18/)
+- [MrBeast&#39;s analytics platform ViewStats is out in beta](https://www.viewstats.com/)
+- [Commission opens formal proceedings against X under the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6709)
 <!-- BLOG-POST-LIST:END -->
 
 ---
