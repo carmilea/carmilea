@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe, Figma to terminate $20B deal](https://www.theverge.com/2023/12/18/24005975/adobe-figma-merger-cma-investigation-refuse-remediations)
+- [Jarvis: A Voice Virtual Assistant in Python &lpar;OpenAI, ElevenLabs, Deepgram&rpar;](https://github.com/AlexandreSajus/JARVIS)
+- [SEC&#39;s new data breach disclosure rules take effect, here&#39;s what you need to know](https://techcrunch.com/2023/12/18/new-sec-data-breach-disclosure-rules/)
 - [Figma and Adobe are abandoning our proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
-- [Wasm3 entering a minimal maintenance phase](https://github.com/wasm3/wasm3)
-- [How artists are sabotaging AI to take revenge on image generators](https://theconversation.com/data-poisoning-how-artists-are-sabotaging-ai-to-take-revenge-on-image-generators-219335)
-- [The British Library URL has been offline due to cyberattack for 10 days](https://www.bl.uk//)
+- [Why do people feel the need to litter?](https://www.discovermagazine.com/mind/why-do-people-feel-the-need-to-litter)
+- [USB-C Cures Mosquito Bites](https://shkspr.mobi/blog/2023/12/usb-c-cures-mosquito-bites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
