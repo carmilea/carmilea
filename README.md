@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Word2Vec Received &#39;Strong Reject&#39; Four Times at ICLR2013](https://openreview.net/forum?id=idpCdOWtqXd60)
+- [Transaction Isolation in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
+- [Paged Out Issue #3](https://pagedout.institute/?page=issues.php)
 - [Facebook Is Being Overrun with Stolen, AI-Gen Images That People Think Are Real](https://www.404media.co/facebook-is-being-overrun-with-stolen-ai-generated-images-that-people-think-are-real/)
-- [Sturgeon&#39;s law &lpar;90% of everything is crap&rpar;](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
 - [Progress toward a GCC-based Rust compiler](https://lwn.net/SubscriberLink/954787/41470c731eda02a4/)
-- [Why Are Things Expensive?](https://www.why-expensive.com/)
-- [US Steel, once the largest corporation, agrees to sell to Nippon Steel](https://www.cnn.com/2023/12/18/investing/us-steel-nippon-steel-deal/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
