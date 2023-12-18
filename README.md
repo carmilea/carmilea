@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Send Me to Heaven](https://en.wikipedia.org/wiki/Send_Me_To_Heaven)
+- [Beeper vs. Apple battle intensifies: Lawmakers demand DOJ investigation](https://www.androidauthority.com/beeper-vs-apple-us-senators-letter-doj-3395333/)
 - [Jarvis: A Voice Virtual Assistant in Python &lpar;OpenAI, ElevenLabs, Deepgram&rpar;](https://github.com/AlexandreSajus/JARVIS)
 - [SEC&#39;s new data breach disclosure rules take effect, here&#39;s what you need to know](https://techcrunch.com/2023/12/18/new-sec-data-breach-disclosure-rules/)
 - [Figma and Adobe are abandoning our proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
-- [Why do people feel the need to litter?](https://www.discovermagazine.com/mind/why-do-people-feel-the-need-to-litter)
-- [USB-C Cures Mosquito Bites](https://shkspr.mobi/blog/2023/12/usb-c-cures-mosquito-bites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
