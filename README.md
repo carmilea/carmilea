@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nikola founder to be sentenced for federal fraud charges](https://www.cnbc.com/2023/12/18/nikola-founder-trevor-milton-sentencing-fraud-charges.html)
+- [Carolina chemists discover eight new PFAS with novel testing method](https://research.unc.edu/2023/12/12/carolina-chemists-discover-eight-new-pfas-with-novel-testing-method/)
+- [Fly Kubernetes](https://fly.io/blog/fks/)
 - [Word2Vec Received &#39;Strong Reject&#39; Four Times at ICLR2013](https://openreview.net/forum?id=idpCdOWtqXd60)
 - [Transaction Isolation in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
-- [Paged Out Issue #3](https://pagedout.institute/?page=issues.php)
-- [Facebook Is Being Overrun with Stolen, AI-Gen Images That People Think Are Real](https://www.404media.co/facebook-is-being-overrun-with-stolen-ai-generated-images-that-people-think-are-real/)
-- [Progress toward a GCC-based Rust compiler](https://lwn.net/SubscriberLink/954787/41470c731eda02a4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
