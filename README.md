@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ruby 3.3&#39;s YJIT: Faster While Using Less Memory](https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/)
+- [Note G](https://en.wikipedia.org/wiki/Note_G)
+- [Apple halts US sales of Watch before Christmas after losing patent case](https://www.ft.com/content/52a15bec-8dc2-4a19-9749-8b353c53035c)
 - [Nikola founder to be sentenced for federal fraud charges](https://www.cnbc.com/2023/12/18/nikola-founder-trevor-milton-sentencing-fraud-charges.html)
 - [Carolina chemists discover eight new PFAS with novel testing method](https://research.unc.edu/2023/12/12/carolina-chemists-discover-eight-new-pfas-with-novel-testing-method/)
-- [Fly Kubernetes](https://fly.io/blog/fks/)
-- [Word2Vec Received &#39;Strong Reject&#39; Four Times at ICLR2013](https://openreview.net/forum?id=idpCdOWtqXd60)
-- [Transaction Isolation in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
 <!-- BLOG-POST-LIST:END -->
 
 ---
