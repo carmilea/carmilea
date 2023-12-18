@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Microagents: Agents Capable of Self-Editing Their Prompts / Python Code](https://github.com/aymenfurter/microagents)
 - [Widespread FBI abuse of foreign spy law sets off &quot;alarm bells,&quot; tech group says](https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us/)
 - [Pilots hide mental health problems so they don&#39;t lose their licenses](https://www.washingtonpost.com/travel/2023/12/15/pilots-mental-health-faa-certification/)
+- [Small offline large language model – TinyChatEngine from MIT](https://graphthinking.blogspot.com/2023/12/small-offline-large-language-model.html)
 - [Autonomous Subs Use AI to Wayfind Without GPS](https://spectrum.ieee.org/reinforcement-learning-autonomous-submarines)
-- [Bricks Can Absorb Traffic Noise – Thesis Preso on Helmholtz Resonators [video]](https://www.youtube.com/watch?v=y9-p4AkgVU8)
-- [AMD MI300X 30% higher performance than Nvidia H100, even with optimized stack](https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-with-new-mi300x-benchmarks-mi300x-shows-30-higher-performance-than-h100-even-with-an-optimized-software-stack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
