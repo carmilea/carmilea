@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Yes&quot; Means &quot;No&quot;: The Curious Language of Venture Capitalists](https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious)
-- [OpenAI employee: GPT-4.5 rumor was a hallucination](https://twitter.com/willdepue/status/1736470540351950867)
-- [How to Choose Cookware &lpar;2014&rpar;](https://www.centurylife.org/how-to-choose-cookware/)
-- [Fsearch, a fast file search utility for Unix-like systems](https://github.com/cboxdoerfer/fsearch)
-- [ArtBot for Stable Diffusion](https://tinybots.net/artbot)
+- [AMD MI300X 30% higher performance than Nvidia H100, even with optimized stack](https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-with-new-mi300x-benchmarks-mi300x-shows-30-higher-performance-than-h100-even-with-an-optimized-software-stack)
+- [What can I do with Mickey Mouse as of January 1, 2024?](https://web.law.duke.edu/cspd/mickey/)
+- [The Parthenon/Elgin Marbles Debate: Return or Retain?](https://antigonejournal.com/2023/12/elgin-marbles-debate/)
+- [Tracking Java Native Memory with JDK Flight Recorder](https://www.morling.dev/blog/tracking-java-native-memory-with-jdk-flight-recorder/)
+- [Reindeer can see UV light](https://journals.sagepub.com/doi/full/10.1177/20416695231218520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
