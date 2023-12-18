@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [This year in Servo: over 1000 pull requests and beyond](https://servo.org/blog/2023/12/18/this-year-in-servo/)
-- [&quot;I just bought a 2024 Chevy Tahoe for $1&quot;](https://twitter.com/ChrisJBakke/status/1736533308849443121)
-- [EU opens proceedings against X over efforts to combat information manipulation](https://www.reuters.com/technology/eu-opens-proceedings-against-x-over-its-efforts-combat-information-manipulation-2023-12-18/)
-- [MrBeast&#39;s analytics platform ViewStats is out in beta](https://www.viewstats.com/)
-- [Commission opens formal proceedings against X under the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6709)
+- [Adobe, Figma to terminate $20B deal](https://www.theverge.com/2023/12/18/24005975/adobe-figma-merger-cma-investigation-refuse-remediations)
+- [Figma and Adobe are abandoning our proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
+- [Wasm3 entering a minimal maintenance phase](https://github.com/wasm3/wasm3)
+- [How artists are sabotaging AI to take revenge on image generators](https://theconversation.com/data-poisoning-how-artists-are-sabotaging-ai-to-take-revenge-on-image-generators-219335)
+- [The British Library URL has been offline due to cyberattack for 10 days](https://www.bl.uk//)
 <!-- BLOG-POST-LIST:END -->
 
 ---
