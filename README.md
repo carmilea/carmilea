@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qt 6.6 and 6.7 Make QML Faster Than Ever: A New Benchmark and Analysis](https://www.qt.io/blog/qt-6.6-and-6.7-make-qml-faster-than-ever-a-new-benchmark-and-analysis)
 - [Gokrazy – Go Appliances](https://gokrazy.org/)
 - [The Illustrated GPT-2: Visualizing Transformer Language Models &lpar;2019&rpar;](https://jalammar.github.io/illustrated-gpt2/)
+- [Why do programmers need private offices with doors? &lpar;Do Not Disturb&rpar;](https://blobstreaming.org/why-do-programmers-need-private-offices-with-doors-do-not-disturb/)
 - [3D Printer Auto Bed Leveling Mesh Visualizer](https://i.chillrain.com/index.php/3d-printer-auto-bed-leveling-mesh-visualizer/)
-- [Unbricking my MacBook took an email to Tim Cook](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
-- [Google&#39;s True Moonshot](https://stratechery.com/2023/googles-true-moonshot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
