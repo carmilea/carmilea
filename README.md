@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Lufthansa A350&#39;s Frustrating Oakland Diversion](https://onemileatatime.com/news/lufthansa-a350-oakland-diversion/)
+- [Bit banging a 3.5&quot; Floppy Drive](https://floppy.cafe/)
 - [UK plan to digitise wills and destroy paper originals &quot;insane&quot; say experts](https://www.theguardian.com/society/2023/dec/18/ministry-of-justice-plan-to-destroy-historical-wills-is-insane-say-experts)
+- [Simulating fluids, fire, and smoke in real-time](https://andrewkchan.dev/posts/fire.html)
 - [Perplexity Labs Playground](https://labs.perplexity.ai/)
-- [Google agrees to pay $700M in antitrust settlement reached with states](https://apnews.com/article/google-android-play-store-apps-antitrust-settlement-e4e2f422baa846c66deac90c7866c5fd)
-- [New York City population declined by 5.3% since 2020](https://www.osc.ny.gov/press/releases/2023/12/changing-face-post-pandemic-new-york-city)
-- [Comcast says hackers stole data of close to 36M Xfinity customers](https://techcrunch.com/2023/12/19/comcast-xfinity-hackers-36-million-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
