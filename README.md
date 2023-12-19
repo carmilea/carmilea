@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$750 a month, no questions asked, improved the lives of homeless people](https://www.latimes.com/california/story/2023-12-19/750-a-month-no-questions-asked-improved-the-lives-of-homeless-people)
-- [Tesla Drivers Have the Highest Crash Rate of Any Brand: Study](https://www.thedrive.com/news/tesla-drivers-have-the-highest-crash-rate-of-any-brand-study)
-- [Asyncio Task Cancellation Best Practices](https://superfastpython.com/asyncio-task-cancellation-best-practices/)
-- [Meta&#39;s news ban in Canada remains as Online News Act goes into effect](https://www.bbc.com/news/world-us-canada-67755133)
-- [Bit banging a 3.5&quot; Floppy Drive](https://floppy.cafe/)
+- [The Housing Shortage Is Larger Than You Think](https://kevinerdmann.substack.com/p/the-housing-shortage-is-larger-than-c65)
+- [Show HN: Wave – Modern Open-Source Terminal &lpar;macOS and Linux&rpar;](https://github.com/wavetermdev/waveterm)
+- [PowerInfer: Fast Large Language Model Serving with a Consumer-Grade GPU [pdf]](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
+- [Vulkan Video Extensions for Accelerated H.264 and H.265 Encode](https://www.khronos.org/blog/khronos-finalizes-vulkan-video-extensions-for-accelerated-h.264-and-h.265-encode)
+- [TC39: Add Object.groupBy and Map.groupBy](https://github.com/tc39/ecma262/pull/3176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
