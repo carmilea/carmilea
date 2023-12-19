@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/)
+- [The Illustrated GPT-2: Visualizing Transformer Language Models &lpar;2019&rpar;](https://jalammar.github.io/illustrated-gpt2/)
 - [3D Printer Auto Bed Leveling Mesh Visualizer](https://i.chillrain.com/index.php/3d-printer-auto-bed-leveling-mesh-visualizer/)
-- [Zombie fly fungus lures healthy male flies to mate with female corpses &lpar;2022&rpar;](https://phys.org/news/2022-07-zombie-fungus-lures-healthy-male.html)
-- [The first experimental support for LK99-type superconductivity](https://arxiv.org/abs/2312.10391)
 - [Unbricking my MacBook took an email to Tim Cook](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
+- [Google&#39;s True Moonshot](https://stratechery.com/2023/googles-true-moonshot/)
+- [Grindavik [video]](https://www.youtube.com/watch?v=hvcP4kVVOnk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
