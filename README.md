@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Due to AI, &quot;We are about to enter the era of mass spying,&quot; says Bruce Schneier](https://arstechnica.com/information-technology/2023/12/due-to-ai-we-are-about-to-enter-the-era-of-mass-spying-says-bruce-schneier/)
-- [Stupid by Choice](https://www.alexmolas.com/2023/09/18/embracing-dumbness.html)
+- [$750 a month, no questions asked, improved the lives of homeless people](https://www.latimes.com/california/story/2023-12-19/750-a-month-no-questions-asked-improved-the-lives-of-homeless-people)
+- [Tesla Drivers Have the Highest Crash Rate of Any Brand: Study](https://www.thedrive.com/news/tesla-drivers-have-the-highest-crash-rate-of-any-brand-study)
 - [Asyncio Task Cancellation Best Practices](https://superfastpython.com/asyncio-task-cancellation-best-practices/)
-- [Law enforcement took more stuff from people than burglars did last year &lpar;2015&rpar;](https://www.washingtonpost.com/news/wonk/wp/2015/11/23/cops-took-more-stuff-from-people-than-burglars-did-last-year/)
-- [Mercedes adds a new car light color: Blue for self-driving](https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html)
+- [Meta&#39;s news ban in Canada remains as Online News Act goes into effect](https://www.bbc.com/news/world-us-canada-67755133)
+- [Bit banging a 3.5&quot; Floppy Drive](https://floppy.cafe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
