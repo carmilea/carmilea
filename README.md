@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Housing Shortage Is Larger Than You Think](https://kevinerdmann.substack.com/p/the-housing-shortage-is-larger-than-c65)
-- [Show HN: Wave – Modern Open-Source Terminal &lpar;macOS and Linux&rpar;](https://github.com/wavetermdev/waveterm)
+- [VideoPoet A large language model for zero-shot video generation](https://sites.research.google/videopoet/)
 - [PowerInfer: Fast Large Language Model Serving with a Consumer-Grade GPU [pdf]](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
 - [Vulkan Video Extensions for Accelerated H.264 and H.265 Encode](https://www.khronos.org/blog/khronos-finalizes-vulkan-video-extensions-for-accelerated-h.264-and-h.265-encode)
 - [TC39: Add Object.groupBy and Map.groupBy](https://github.com/tc39/ecma262/pull/3176)
+- [Molecular jackhammers&#39; &#39;good vibrations&#39; eradicate cancer cells](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
 <!-- BLOG-POST-LIST:END -->
 
 ---
