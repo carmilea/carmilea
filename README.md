@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FOSDEM 2024 Schedule](https://fosdem.org/2024/schedule/)
+- [RFC 9518 – What can internet standards do about centralisation?](https://www.mnot.net/blog/2023/12/19/standards-and-centralization)
 - [Hardware Intrinsics in .NET 8](https://devblogs.microsoft.com/dotnet/dotnet-8-hardware-intrinsics/)
 - [Marvin Attack on RSA &lpar;Rust&rpar;: potential key recovery through timing sidechannels](https://github.com/RustCrypto/RSA/security/advisories/GHSA-c38w-74pg-36hr)
 - [Qt 6.6 and 6.7 Make QML Faster Than Ever: A New Benchmark and Analysis](https://www.qt.io/blog/qt-6.6-and-6.7-make-qml-faster-than-ever-a-new-benchmark-and-analysis)
-- [Gokrazy – Go Appliances](https://gokrazy.org/)
-- [The Illustrated GPT-2: Visualizing Transformer Language Models &lpar;2019&rpar;](https://jalammar.github.io/illustrated-gpt2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
