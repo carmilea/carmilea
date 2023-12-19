@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It Sure Looks Like Phones Are Making Students Dumber](https://www.theatlantic.com/ideas/archive/2023/12/cell-phones-student-test-scores-dropping/676889/)
+- [In 2024, Intel Hopes to Leapfrog Its Chipmaking Competitors](https://spectrum.ieee.org/intel-20a)
+- [The Hidden Secrets of Alien Resurrection on the PS1 [video]](https://www.youtube.com/watch?v=uRB7iUCX4KQ)
+- [Construct in 2023: Year in Review](https://www.construct.net/en/blogs/construct-official-blog-1/construct-2023-year-review-1874)
 - [Reflecting on 2023](https://www.singlestore.com/blog/reflecting-on-2023)
-- [Volkswagen Will Bring Back Physical Buttons in New Cars](https://insideevs.com/news/701296/vw-physical-controls-to-return/)
-- [My cat water fountain comes with a spicy USB power adapter](https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/)
-- [FOSDEM 2024 Schedule](https://fosdem.org/2024/schedule/)
-- [RFC 9518 – What can internet standards do about centralisation?](https://www.mnot.net/blog/2023/12/19/standards-and-centralization)
 <!-- BLOG-POST-LIST:END -->
 
 ---
