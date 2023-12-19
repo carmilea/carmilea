@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RAM, Tesla and Subaru Have Worst Drivers, While BMWs Have Highest DUI Rates](https://www.lendingtree.com/insurance/brand-incidents-study/)
-- [Rapid Loss of Habitat for Homo sapiens &lpar;2021&rpar; [pdf]](https://guymcpherson.com/wp-content/uploads/2021/04/Academia-Letters-Number-498-Rapid_Loss_of_Habitat_for_Homo_sapiens.pdf)
+- [Unbricking my MacBook took an email to Tim Cook &lpar;and a #1 post on Hacker News&rpar;](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
 - [Grindavik [video]](https://www.youtube.com/watch?v=hvcP4kVVOnk)
 - [Lessons from a never-ending personal project](https://siddhesh.substack.com/p/projects)
 - [Copyright claim against Tolkien estate backfires on LOTR fanfiction author](https://www.theguardian.com/books/2023/dec/18/copyright-claim-against-tolkien-estate-backfires-on-lord-of-the-rings-fanfiction-author)
+- [LLMLingua: Compressing Prompts for Faster Inferencing](https://github.com/microsoft/LLMLingua)
 <!-- BLOG-POST-LIST:END -->
 
 ---
