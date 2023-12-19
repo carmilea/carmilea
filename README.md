@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore in 2023](https://www.youtube.com/watch?v=ba5CcHAF-d8)
+- [Webinar: Rescue Your Cloud Data Warehouse](https://www.youtube.com/watch?v=1eIVcgZA91Y)
 - [Introduction to SingleStore including a Getting Started Demo](https://www.youtube.com/watch?v=1R3sl9hcpLA)
 - [Demo: Getting started on SingleStore using Stage and Notebooks](https://www.youtube.com/watch?v=eLiPRcShbjg)
 - [How We Made That App Episode 2 - The Future of Parking with EasyPark](https://www.youtube.com/watch?v=PG96Ce3oALM)
-- [How 6sense is able to drive 500% faster performance using SingleStore](https://www.youtube.com/watch?v=T0XZx6AqRQI)
-- [With SingleStore, COMMB and its members get the data they need in real time](https://www.youtube.com/watch?v=ezuGeZiwdjE)
 <!-- YOUTUBE:END -->
 
 
