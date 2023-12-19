@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The day I started believing in unit tests](https://mental-reverb.com/blog.php?id=42)
-- [&#39;Fake&#39; Seal Impression of Biblical King Jeroboam Is Authentic](https://www.haaretz.com/archaeology/2023-12-18/ty-article/fake-seal-impression-of-biblical-king-jeroboam-is-authentic-new-study-says/0000018c-7853-d98c-abef-fed7f4370000)
-- [Jepsen: MySQL 8.0.34](https://jepsen.io/analyses/mysql-8.0.34)
-- [Gemini Pro achieves accuracy slightly inferior to GPT 3.5 Turbo](https://arxiv.org/abs/2312.11444)
-- [Firefox 121 defaults to Wayland on Linux](https://www.omgubuntu.co.uk/2023/12/firefox-121-released-now-defaults-to-wayland-on-linux)
+- [Google podcasts is shutting down](https://support.google.com/youtubemusic/answer/14151168?hl=en)
+- [NASA sends cat video over laser from 80 lunar distances](https://www.jpl.nasa.gov/news/nasas-tech-demo-streams-first-video-from-deep-space-via-laser)
+- [The Inner Ring &lpar;1944&rpar;](https://www.lewissociety.org/innerring/)
+- [Improve Jupyter Notebook Reruns by Caching Cells](https://github.com/xetdata/xetcache)
+- [Fedora Asahi Remix](https://asahilinux.org/fedora/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
