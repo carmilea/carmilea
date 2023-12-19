@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Lufthansa A350&#39;s Frustrating Oakland Diversion](https://onemileatatime.com/news/lufthansa-a350-oakland-diversion/)
-- [Bit banging a 3.5&quot; Floppy Drive](https://floppy.cafe/)
-- [UK plan to digitise wills and destroy paper originals &quot;insane&quot; say experts](https://www.theguardian.com/society/2023/dec/18/ministry-of-justice-plan-to-destroy-historical-wills-is-insane-say-experts)
-- [Simulating fluids, fire, and smoke in real-time](https://andrewkchan.dev/posts/fire.html)
-- [Perplexity Labs Playground](https://labs.perplexity.ai/)
+- [Due to AI, &quot;We are about to enter the era of mass spying,&quot; says Bruce Schneier](https://arstechnica.com/information-technology/2023/12/due-to-ai-we-are-about-to-enter-the-era-of-mass-spying-says-bruce-schneier/)
+- [Stupid by Choice](https://www.alexmolas.com/2023/09/18/embracing-dumbness.html)
+- [Asyncio Task Cancellation Best Practices](https://superfastpython.com/asyncio-task-cancellation-best-practices/)
+- [Law enforcement took more stuff from people than burglars did last year &lpar;2015&rpar;](https://www.washingtonpost.com/news/wonk/wp/2015/11/23/cops-took-more-stuff-from-people-than-burglars-did-last-year/)
+- [Mercedes adds a new car light color: Blue for self-driving](https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
