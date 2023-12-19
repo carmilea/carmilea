@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Ordinary Life: Improvements Since the 1990s](https://gwern.net/improvement)
-- [Apple to Pause Selling New Versions of Its Watch After Losing Patent Dispute](https://www.nytimes.com/2023/12/18/technology/apple-ban-watch-sales-patent-dispute.html)
-- [Tiny Code Christmas](https://tcc.lovebyte.party/)
-- [Internet Archive appeals, says judge Koeltl &quot;misapplied the fair use factors&quot;](https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/93985-internet-archive-seeks-reversal-in-book-scanning-suit.html)
-- [Librum: Open-Source e-book platform](https://github.com/Librum-Reader/Librum)
+- [RAM, Tesla and Subaru Have Worst Drivers, While BMWs Have Highest DUI Rates](https://www.lendingtree.com/insurance/brand-incidents-study/)
+- [Rapid Loss of Habitat for Homo sapiens &lpar;2021&rpar; [pdf]](https://guymcpherson.com/wp-content/uploads/2021/04/Academia-Letters-Number-498-Rapid_Loss_of_Habitat_for_Homo_sapiens.pdf)
+- [Grindavik [video]](https://www.youtube.com/watch?v=hvcP4kVVOnk)
+- [Lessons from a never-ending personal project](https://siddhesh.substack.com/p/projects)
+- [Copyright claim against Tolkien estate backfires on LOTR fanfiction author](https://www.theguardian.com/books/2023/dec/18/copyright-claim-against-tolkien-estate-backfires-on-lord-of-the-rings-fanfiction-author)
 <!-- BLOG-POST-LIST:END -->
 
 ---
