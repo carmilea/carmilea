@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TSDocs.dev: type docs for any javascript library](https://tsdocs.dev)
-- [Plasmic.app – the visual builder for your tech stack](https://www.plasmic.app/)
-- [Does quantum theory imply the entire Universe is preordained?](https://www.nature.com/articles/d41586-023-04024-z)
-- [Nobody Knows What&#39;s Happening Online Anymore](https://www.theatlantic.com/technology/archive/2023/12/internet-information-trends-virality-tracking/676888/)
-- [NASA sends cat video over laser from 80 lunar distances](https://www.jpl.nasa.gov/news/nasas-tech-demo-streams-first-video-from-deep-space-via-laser)
+- [UK plan to digitise wills and destroy paper originals &quot;insane&quot; say experts](https://www.theguardian.com/society/2023/dec/18/ministry-of-justice-plan-to-destroy-historical-wills-is-insane-say-experts)
+- [Perplexity Labs Playground](https://labs.perplexity.ai/)
+- [Google agrees to pay $700M in antitrust settlement reached with states](https://apnews.com/article/google-android-play-store-apps-antitrust-settlement-e4e2f422baa846c66deac90c7866c5fd)
+- [New York City population declined by 5.3% since 2020](https://www.osc.ny.gov/press/releases/2023/12/changing-face-post-pandemic-new-york-city)
+- [Comcast says hackers stole data of close to 36M Xfinity customers](https://techcrunch.com/2023/12/19/comcast-xfinity-hackers-36-million-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
