@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Marvin Attack on RSA &lpar;Rust&rpar;: potential key recovery through timing sidechannels](https://github.com/RustCrypto/RSA/security/advisories/GHSA-c38w-74pg-36hr)
+- [I&#39;ve Misunderstood the Single Responsibility Principle](https://www.sicpers.info/2023/10/ive-vastly-misunderstood-the-single-responsibility-principle/)
 - [Qt 6.6 and 6.7 Make QML Faster Than Ever: A New Benchmark and Analysis](https://www.qt.io/blog/qt-6.6-and-6.7-make-qml-faster-than-ever-a-new-benchmark-and-analysis)
 - [Gokrazy – Go Appliances](https://gokrazy.org/)
 - [The Illustrated GPT-2: Visualizing Transformer Language Models &lpar;2019&rpar;](https://jalammar.github.io/illustrated-gpt2/)
-- [Why do programmers need private offices with doors? &lpar;Do Not Disturb&rpar;](https://blobstreaming.org/why-do-programmers-need-private-offices-with-doors-do-not-disturb/)
-- [3D Printer Auto Bed Leveling Mesh Visualizer](https://i.chillrain.com/index.php/3d-printer-auto-bed-leveling-mesh-visualizer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
