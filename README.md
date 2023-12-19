@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gokrazy – Go Appliances](https://gokrazy.org/)
 - [The Illustrated GPT-2: Visualizing Transformer Language Models &lpar;2019&rpar;](https://jalammar.github.io/illustrated-gpt2/)
 - [3D Printer Auto Bed Leveling Mesh Visualizer](https://i.chillrain.com/index.php/3d-printer-auto-bed-leveling-mesh-visualizer/)
 - [Unbricking my MacBook took an email to Tim Cook](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
 - [Google&#39;s True Moonshot](https://stratechery.com/2023/googles-true-moonshot/)
-- [Grindavik [video]](https://www.youtube.com/watch?v=hvcP4kVVOnk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
