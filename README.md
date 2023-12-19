@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It Sure Looks Like Phones Are Making Students Dumber](https://www.theatlantic.com/ideas/archive/2023/12/cell-phones-student-test-scores-dropping/676889/)
-- [In 2024, Intel Hopes to Leapfrog Its Chipmaking Competitors](https://spectrum.ieee.org/intel-20a)
-- [The Hidden Secrets of Alien Resurrection on the PS1 [video]](https://www.youtube.com/watch?v=uRB7iUCX4KQ)
-- [Construct in 2023: Year in Review](https://www.construct.net/en/blogs/construct-official-blog-1/construct-2023-year-review-1874)
-- [Reflecting on 2023](https://www.singlestore.com/blog/reflecting-on-2023)
+- [The day I started believing in unit tests](https://mental-reverb.com/blog.php?id=42)
+- [&#39;Fake&#39; Seal Impression of Biblical King Jeroboam Is Authentic](https://www.haaretz.com/archaeology/2023-12-18/ty-article/fake-seal-impression-of-biblical-king-jeroboam-is-authentic-new-study-says/0000018c-7853-d98c-abef-fed7f4370000)
+- [Jepsen: MySQL 8.0.34](https://jepsen.io/analyses/mysql-8.0.34)
+- [Gemini Pro achieves accuracy slightly inferior to GPT 3.5 Turbo](https://arxiv.org/abs/2312.11444)
+- [Firefox 121 defaults to Wayland on Linux](https://www.omgubuntu.co.uk/2023/12/firefox-121-released-now-defaults-to-wayland-on-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ---
