@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [She Gave a Hotel a Mediocre Review. Then Came the Badgering](https://www.wsj.com/business/online-reviews-positive-customers-pressured-to-leave-9efbade7)
+- [Zombie fly fungus lures healthy male flies to mate with female corpses &lpar;2022&rpar;](https://phys.org/news/2022-07-zombie-fungus-lures-healthy-male.html)
+- [The first experimental support for LK99-type superconductivity](https://arxiv.org/abs/2312.10391)
 - [Unbricking my MacBook took an email to Tim Cook &lpar;and a #1 post on Hacker News&rpar;](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
 - [Google&#39;s True Moonshot](https://stratechery.com/2023/googles-true-moonshot/)
-- [Grindavik [video]](https://www.youtube.com/watch?v=hvcP4kVVOnk)
-- [Lessons from a never-ending personal project](https://siddhesh.substack.com/p/projects)
-- [Copyright claim against Tolkien estate backfires on LOTR fanfiction author](https://www.theguardian.com/books/2023/dec/18/copyright-claim-against-tolkien-estate-backfires-on-lord-of-the-rings-fanfiction-author)
 <!-- BLOG-POST-LIST:END -->
 
 ---
