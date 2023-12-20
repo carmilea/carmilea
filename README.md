@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California Regulators Vote to Keep Diablo Canyon Nuclear Plant Open 5 More Years](https://www.powermag.com/california-regulators-vote-to-keep-diablo-canyon-nuclear-plant-open-another-five-years/)
-- [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/world/tesla-blamed-drivers-failures-parts-it-long-knew-were-defective-2023-12-20/)
+- [TigerEye &lpar;YC S22&rpar; Is Hiring an Experienced Front End Engineer](https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f)
+- [California regulators vote to keep Diablo Canyon nuclear plant open 5 more years](https://www.powermag.com/california-regulators-vote-to-keep-diablo-canyon-nuclear-plant-open-another-five-years/)
+- [Mistral 7B Fine-Tune Optimized](https://openpipe.ai/blog/mistral-7b-fine-tune-optimized)
 - [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
 - [An AI that learns about chemical reactions and designs a procedure to make them](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
-- [What&#39;s next for Tor and privacy online?](https://blog.torproject.org/tor-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
