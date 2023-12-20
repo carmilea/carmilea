@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VanJS: A 0.9KB JavaScript UI framework](https://vanjs.org/)
+- [Wayland vs. X – Overview](https://wayland.freedesktop.org/docs/html/ch01.html)
+- [SSH protects the most sensitive networks. It just got a lot weaker](https://arstechnica.com/security/2023/12/hackers-can-break-ssh-channel-integrity-using-novel-data-corruption-attack/)
+- [Laion Took Down Its Datasets After Discovery of Child Sexual Abuse Material](https://www.404media.co/laion-datasets-removed-stanford-csam-child-abuse/)
 - [Rite Aid banned from using face recognition software after false ID shoplifters](https://techcrunch.com/2023/12/20/rite-aid-facial-recognition/)
-- [There&#39;s a Concorde Engine Complete with Afterburner for Sale on eBay](https://simpleflying.com/concorde-engine-for-sale-ebay/)
-- [Pornhub, XVideos, and Stripchat hit with tough new EU safety regulations](https://www.theverge.com/2023/12/20/24009125/eu-dsa-pornhub-xvideos-stripchat-digital-services-act-age-verification)
-- [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/investigates/special-report/tesla-musk-steering-suspension/)
-- [Update tinsel bunting](https://github.com/alphagov/frontend/pull/3895)
 <!-- BLOG-POST-LIST:END -->
 
 ---
