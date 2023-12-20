@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VanJS: A 0.9KB JavaScript UI framework](https://vanjs.org/)
-- [Wayland vs. X – Overview](https://wayland.freedesktop.org/docs/html/ch01.html)
-- [SSH protects the most sensitive networks. It just got a lot weaker](https://arstechnica.com/security/2023/12/hackers-can-break-ssh-channel-integrity-using-novel-data-corruption-attack/)
-- [Laion Took Down Its Datasets After Discovery of Child Sexual Abuse Material](https://www.404media.co/laion-datasets-removed-stanford-csam-child-abuse/)
-- [Rite Aid banned from using face recognition software after false ID shoplifters](https://techcrunch.com/2023/12/20/rite-aid-facial-recognition/)
+- [Show HN: I made a dead simple logo maker](https://shipfa.st/tools/logo-fast)
+- [Podman Desktop 1.6 released: Even more Kubernetes and Containers features](https://podman-desktop.io/blog/podman-desktop-release-1.6)
+- [JP Krucker&#39;s weight shift amphibious autogyro [video]](https://www.youtube.com/watch?v=M77amKgBWOY)
+- [Netlify&#39;s disingenuous survey-based attack on Next.js &lpar;and eleventy, too&rpar;](https://www.zachleat.com/web/netlify-and-nextjs/)
+- [Minimal implementation of Mamba, the new LLM architecture, in 1 file of PyTorch](https://github.com/johnma2006/mamba-minimal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
