@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [All Our Patent Are Belong to You &lpar;2014&rpar;](https://www.tesla.com/blog/all-our-patent-are-belong-you)
-- [Rite Aid Banned from Using AI Facial Recognition for Five Years](https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without)
-- [Sam Altman got $75M from the University of Michigan for a new VC fund](https://fortune.com/2023/12/19/sam-altman-university-michigan-venture-fund/)
-- [The Private Equity Firm Tapping America&#39;s Spring Water](https://www.bloomberg.com/features/2023-california-spring-water-bluetriton/)
+- [Hn.js](https://news.ycombinator.com/hn.js)
+- [LLM in a Flash: Efficient LLM Inference with Limited Memory](https://huggingface.co/papers/2312.11514)
+- [Rite Aid banned from using AI facial recognition for five years](https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without)
+- [An underground delivery train comes to the Atlanta suburbs](https://www.bloomberg.com/news/articles/2023-12-14/are-underground-tubes-the-future-of-home-delivery-this-startup-hopes-so)
 - [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
 <!-- BLOG-POST-LIST:END -->
 
