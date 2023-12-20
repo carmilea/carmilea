@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Clear wants to scan your face at airports – privacy experts are worried](https://www.washingtonpost.com/travel/2023/12/20/clear-facial-recognition-technology-airport-security/)
+- [iMessage Key Verification](https://support.apple.com/en-gb/HT213465)
+- [How to Escape a Container](https://www.panoptica.app/research/7-ways-to-escape-a-container)
+- [Text-to-CAD](https://zoo.dev/blog/introducing-text-to-cad)
 - [The Ultimate Guide to the Vector Database Landscape: 2024 and Beyond](https://www.singlestore.com/blog/-ultimate-guide-vector-database-landscape-2024)
 - [TigerEye &lpar;YC S22&rpar; is hiring an experienced front end engineer](https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f)
-- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
-- [Null Island Tourist Shirt](https://github.com/yetzt/null-island)
 <!-- BLOG-POST-LIST:END -->
 
 ---
