@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rite Aid banned from using face recognition software after false ID shoplifters](https://techcrunch.com/2023/12/20/rite-aid-facial-recognition/)
+- [There&#39;s a Concorde Engine Complete with Afterburner for Sale on eBay](https://simpleflying.com/concorde-engine-for-sale-ebay/)
+- [Pornhub, XVideos, and Stripchat hit with tough new EU safety regulations](https://www.theverge.com/2023/12/20/24009125/eu-dsa-pornhub-xvideos-stripchat-digital-services-act-age-verification)
+- [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/investigates/special-report/tesla-musk-steering-suspension/)
 - [Update tinsel bunting](https://github.com/alphagov/frontend/pull/3895)
-- [Notesnook – open-source and zero knowledge private note taking app](https://notesnook.com/)
-- [Elite: &quot;The game that couldn&#39;t be written&quot; [video]](https://www.youtube.com/watch?v=lC4YLMLar5I)
-- [Why if TYPE_CHECKING?](https://vickiboykis.com/2023/12/11/why-if-type_checking/)
-- [Advice for new software devs who&#39;ve read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
