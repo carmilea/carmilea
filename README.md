@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I made a dead simple logo maker](https://shipfa.st/tools/logo-fast)
+- [JWST Images of 2023](https://bigthink.com/starts-with-a-bang/top-jwst-images-2023/)
+- [Show HN: Playing Telephone with GPT-4 and Dall-E-3](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fimage-telephone.streamlit.app%2F)
+- [Volkswagen, Porsche, and Audi finally say they will use Tesla&#39;s EV charging plug](https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug)
 - [Podman Desktop 1.6 released: Even more Kubernetes and Containers features](https://podman-desktop.io/blog/podman-desktop-release-1.6)
-- [JP Krucker&#39;s weight shift amphibious autogyro [video]](https://www.youtube.com/watch?v=M77amKgBWOY)
-- [Netlify&#39;s disingenuous survey-based attack on Next.js &lpar;and eleventy, too&rpar;](https://www.zachleat.com/web/netlify-and-nextjs/)
-- [Minimal implementation of Mamba, the new LLM architecture, in 1 file of PyTorch](https://github.com/johnma2006/mamba-minimal)
+- [A Record Number of Billion-Dollar Weather Disasters Hit the U.S. in 2023](https://e360.yale.edu/digest/billion-dollar-disasters-us-climate-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
