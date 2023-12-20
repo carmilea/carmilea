@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What kind of bubble is AI?](https://pluralistic.net/2023/12/19/bubblenomics/)
+- [California Regulators Vote to Keep Diablo Canyon Nuclear Plant Open 5 More Years](https://www.powermag.com/california-regulators-vote-to-keep-diablo-canyon-nuclear-plant-open-another-five-years/)
+- [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/world/tesla-blamed-drivers-failures-parts-it-long-knew-were-defective-2023-12-20/)
 - [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
 - [An AI that learns about chemical reactions and designs a procedure to make them](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
 - [What&#39;s next for Tor and privacy online?](https://blog.torproject.org/tor-in-2023/)
-- [A KDE Plasma theme that aims to replicate the look and feel of Windows 7](https://gitgud.io/wackyideas/aerothemeplasma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
