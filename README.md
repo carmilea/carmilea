@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflex &lpar;YC W23&rpar; Is Hiring: Fullstack / Open Source](https://www.workatastartup.com/jobs/63855)
-- [Uniting the Linux random-number devices](https://lwn.net/Articles/884875/)
-- [Wireflow – free, online, open source tool for creating user-flow prototypes](https://wireflow.co)
-- [JWST Images of 2023](https://bigthink.com/starts-with-a-bang/top-jwst-images-2023/)
-- [Show HN: Playing Telephone with GPT-4 and Dall-E-3](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fimage-telephone.streamlit.app%2F)
+- [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
+- [Meet &#39;Coscientist,&#39; your AI lab partner](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
+- [What&#39;s next for Tor and privacy online?](https://blog.torproject.org/tor-in-2023/)
+- [A KDE Plasma theme that aims to replicate the look and feel of Windows 7](https://gitgud.io/wackyideas/aerothemeplasma)
+- [Dear ImGui: Bloat-free Graphical User interface with minimal dependencies](https://github.com/ocornut/imgui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
