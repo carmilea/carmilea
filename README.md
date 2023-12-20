@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Update tinsel bunting](https://github.com/alphagov/frontend/pull/3895)
 - [Notesnook – open-source and zero knowledge private note taking app](https://notesnook.com/)
 - [Elite: &quot;The game that couldn&#39;t be written&quot; [video]](https://www.youtube.com/watch?v=lC4YLMLar5I)
-- [End of an era for electronics giant Toshiba](https://www.bbc.com/news/business-67757333)
-- [What seven hours in London teaches me about surveillance capitalism](https://brettscott.substack.com/p/the-war-on-informality)
-- [Show HN: I built an open source AI video search engine to learn more about AI](https://avse.vercel.app)
+- [Why if TYPE_CHECKING?](https://vickiboykis.com/2023/12/11/why-if-type_checking/)
+- [Advice for new software devs who&#39;ve read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
