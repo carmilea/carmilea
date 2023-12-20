@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [End of an era for electronics giant Toshiba](https://www.bbc.com/news/business-67757333)
 - [Show HN: I built an open source AI video search engine to learn more about AI](https://avse.vercel.app)
+- [Was an ancient bacterium awakened by an industrial accident?](https://www.economist.com/science-and-technology/2023/11/15/was-an-ancient-bacterium-awakened-by-an-industrial-accident)
 - [LLM in a Flash: Efficient LLM Inference with Limited Memory](https://huggingface.co/papers/2312.11514)
-- [Rite Aid banned from using AI facial recognition for five years](https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without)
-- [An underground delivery train comes to the Atlanta suburbs](https://www.bloomberg.com/news/articles/2023-12-14/are-underground-tubes-the-future-of-home-delivery-this-startup-hopes-so)
 - [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
 <!-- BLOG-POST-LIST:END -->
 
