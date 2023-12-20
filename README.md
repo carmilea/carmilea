@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TigerEye &lpar;YC S22&rpar; Is Hiring an Experienced Front End Engineer](https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f)
-- [California regulators vote to keep Diablo Canyon nuclear plant open 5 more years](https://www.powermag.com/california-regulators-vote-to-keep-diablo-canyon-nuclear-plant-open-another-five-years/)
-- [Mistral 7B Fine-Tune Optimized](https://openpipe.ai/blog/mistral-7b-fine-tune-optimized)
-- [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
-- [An AI that learns about chemical reactions and designs a procedure to make them](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
+- [Clear wants to scan your face at airports – privacy experts are worried](https://www.washingtonpost.com/travel/2023/12/20/clear-facial-recognition-technology-airport-security/)
+- [The Ultimate Guide to the Vector Database Landscape: 2024 and Beyond](https://www.singlestore.com/blog/-ultimate-guide-vector-database-landscape-2024)
+- [TigerEye &lpar;YC S22&rpar; is hiring an experienced front end engineer](https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f)
+- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
+- [Null Island Tourist Shirt](https://github.com/yetzt/null-island)
 <!-- BLOG-POST-LIST:END -->
 
 ---
