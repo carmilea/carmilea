@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VideoPoet A large language model for zero-shot video generation](https://sites.research.google/videopoet/)
-- [PowerInfer: Fast Large Language Model Serving with a Consumer-Grade GPU [pdf]](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
-- [Vulkan Video Extensions for Accelerated H.264 and H.265 Encode](https://www.khronos.org/blog/khronos-finalizes-vulkan-video-extensions-for-accelerated-h.264-and-h.265-encode)
-- [TC39: Add Object.groupBy and Map.groupBy](https://github.com/tc39/ecma262/pull/3176)
-- [Molecular jackhammers&#39; &#39;good vibrations&#39; eradicate cancer cells](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
+- [Shoplifting and frustrated customers plague self-checkout](https://www.fastcompany.com/91000069/shoplifting-and-frustrated-customers-plague-self-checkout-now-retailers-are-having-a-reckoning)
+- [Performance of llama.cpp on Apple Silicon A-series](https://github.com/ggerganov/llama.cpp/discussions/4508)
+- [Beeper&#39;s esoteric fix for iMessage access suggests why it&#39;s pushing politically](https://arstechnica.com/gadgets/2023/12/beepers-esoteric-fix-for-imessage-access-suggests-why-its-pushing-politically/)
+- [Tell HN: Microsoft.com added 192.168.1.1 to their DNS record](https://news.ycombinator.com/item?id=38702783)
+- [The Linux graphics stack in a nutshell](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
