@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Notesnook – open-source and zero knowledge private note taking app](https://notesnook.com/)
+- [Elite: &quot;The game that couldn&#39;t be written&quot; [video]](https://www.youtube.com/watch?v=lC4YLMLar5I)
 - [End of an era for electronics giant Toshiba](https://www.bbc.com/news/business-67757333)
+- [What seven hours in London teaches me about surveillance capitalism](https://brettscott.substack.com/p/the-war-on-informality)
 - [Show HN: I built an open source AI video search engine to learn more about AI](https://avse.vercel.app)
-- [Was an ancient bacterium awakened by an industrial accident?](https://www.economist.com/science-and-technology/2023/11/15/was-an-ancient-bacterium-awakened-by-an-industrial-accident)
-- [LLM in a Flash: Efficient LLM Inference with Limited Memory](https://huggingface.co/papers/2312.11514)
-- [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
