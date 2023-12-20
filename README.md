@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflex &lpar;YC W23&rpar; Is Hiring: Fullstack / Open Source](https://www.workatastartup.com/jobs/63855)
+- [Uniting the Linux random-number devices](https://lwn.net/Articles/884875/)
+- [Wireflow – free, online, open source tool for creating user-flow prototypes](https://wireflow.co)
 - [JWST Images of 2023](https://bigthink.com/starts-with-a-bang/top-jwst-images-2023/)
 - [Show HN: Playing Telephone with GPT-4 and Dall-E-3](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fimage-telephone.streamlit.app%2F)
-- [Volkswagen, Porsche, and Audi finally say they will use Tesla&#39;s EV charging plug](https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug)
-- [Podman Desktop 1.6 released: Even more Kubernetes and Containers features](https://podman-desktop.io/blog/podman-desktop-release-1.6)
-- [A Record Number of Billion-Dollar Weather Disasters Hit the U.S. in 2023](https://e360.yale.edu/digest/billion-dollar-disasters-us-climate-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
