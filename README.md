@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shoplifting and frustrated customers plague self-checkout](https://www.fastcompany.com/91000069/shoplifting-and-frustrated-customers-plague-self-checkout-now-retailers-are-having-a-reckoning)
+- [Sudo without a setuid binary or SSH over a Unix socket](https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/)
 - [Performance of llama.cpp on Apple Silicon A-series](https://github.com/ggerganov/llama.cpp/discussions/4508)
-- [Beeper&#39;s esoteric fix for iMessage access suggests why it&#39;s pushing politically](https://arstechnica.com/gadgets/2023/12/beepers-esoteric-fix-for-imessage-access-suggests-why-its-pushing-politically/)
 - [Tell HN: Microsoft.com added 192.168.1.1 to their DNS record](https://news.ycombinator.com/item?id=38702783)
 - [The Linux graphics stack in a nutshell](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
+- [VideoPoet A large language model for zero-shot video generation](https://sites.research.google/videopoet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
