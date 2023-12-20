@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What kind of bubble is AI?](https://pluralistic.net/2023/12/19/bubblenomics/)
 - [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
-- [Meet &#39;Coscientist,&#39; your AI lab partner](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
+- [An AI that learns about chemical reactions and designs a procedure to make them](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
 - [What&#39;s next for Tor and privacy online?](https://blog.torproject.org/tor-in-2023/)
 - [A KDE Plasma theme that aims to replicate the look and feel of Windows 7](https://gitgud.io/wackyideas/aerothemeplasma)
-- [Dear ImGui: Bloat-free Graphical User interface with minimal dependencies](https://github.com/ocornut/imgui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
