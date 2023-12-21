@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HP raising Instant Ink subscription pricing significantly](https://www.ghacks.net/2023/12/20/hp-raising-instant-ink-subscription-pricing-significantly/)
 - [A closer look at e/OS: Murena&#39;s privacy-first &#39;deGoogled&#39; Android alternative](https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/)
+- [OpenAI Begins Tackling ChatGPT Data Leak Vulnerability](https://embracethered.com/blog/posts/2023/openai-data-exfiltration-first-mitigations-implemented/)
 - [Catalyst – Tailwind CSS Application UI Kit](https://tailwindui.com/templates/catalyst)
 - [What It&#39;s Like to Be a Bee](https://press.princeton.edu/ideas/what-its-like-to-be-a-bee)
-- [Researchers uncover on/off switch for breast cancer metastasis](https://news.stanford.edu/2023/12/20/breast-cancer-metastasis-off-switch-revealed/)
-- [iMessage Key Verification](https://support.apple.com/en-gb/HT213465)
 <!-- BLOG-POST-LIST:END -->
 
 ---
