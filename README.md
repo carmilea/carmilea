@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [38% of VCs disappeared from dealmaking in 2023](https://pitchbook.com/news/articles/active-VC-investors-decline)
+- [Today I&#39;m launching Flare, a video sharing site built on Nostr Like YouTube](https://njump.me/nevent1qqs9tsvza8x5t93jtyh3ktmwsdkxpwarcwstadlr0fc0rcxfvn5umzqzyqthz7k56g8z5sjumg9zr9tzfg9y5u7y76t47943tyluslayduk4sr3946l)
 - [Fireworks: Function Calling Model and API](https://blog.fireworks.ai/fireworks-raises-the-quality-bar-with-function-calling-model-and-api-release-e7f49d1e98e9)
+- [Social media platform X suffers global outages](https://www.bbc.com/news/business-67783058)
 - [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
-- [South Korea Will Police &#39;Shrinkflation&#39; at the Supermarket](https://www.wsj.com/world/asia/this-country-will-police-shrinkflation-at-the-supermarket-aeeec892)
-- [Show HN: Talk to any ArXiv paper just by changing the URL](https://github.com/evanhu1/talk2arxiv)
-- [U.S. workers say banned weed killer in 50 countries is giving them Parkinson&#39;s](https://www.latimes.com/environment/story/2023-12-20/california-workers-say-herbicide-is-giving-them-parkinsons)
 <!-- BLOG-POST-LIST:END -->
 
 ---
