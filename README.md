@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking free of plastic pollution](https://worldsensorium.com/breaking-free-of-plastic-pollution-one-of-the-biggest-threats-to-biodiversity/)
-- [The Register looks at the first release of Fedora Asahi Remix](https://www.theregister.com/2023/12/21/fed39_asahi_remix/)
-- [Stratechery Year in Review](https://stratechery.com/2023/the-2023-stratechery-year-in-review/)
-- [Own the Problem, Not the Solution](https://blog.mangoteque.com//blog/2023/11/28/own-the-problem-not-the-solution/)
-- [38% of VCs disappeared from dealmaking in 2023](https://pitchbook.com/news/articles/active-VC-investors-decline)
+- [Why Is the Press Attacking Home Schoolers?](https://www.wsj.com/articles/why-is-the-press-attacking-home-schoolers-washington-post-teachers-unions-covid-9290468a)
+- [CC0-licensed fantasy map brushes based on historical cartography](https://kmalexander.com/free-stuff/fantasy-map-brushes/)
+- [Show HN: Hucksh – A Shell with a Very Good Memory](https://news.ycombinator.com/item?id=38720369)
+- [Splatter Image: Ultra-Fast Single-View 3D Reconstruction](https://szymanowiczs.github.io/splatter-image)
+- [Police get medical records without a warrant](https://arstechnica.com/science/2023/12/cvs-rite-aid-walgreens-hand-out-medical-records-to-cops-without-warrants/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
