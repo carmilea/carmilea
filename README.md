@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US spent more on health care in 2022 than 6 countries combined with universal](https://www.statnews.com/2023/12/19/us-healthcare-costs-government-covers-41-percent-of-total/)
+- [Breaking free of plastic pollution](https://worldsensorium.com/breaking-free-of-plastic-pollution-one-of-the-biggest-threats-to-biodiversity/)
+- [The Register looks at the first release of Fedora Asahi Remix](https://www.theregister.com/2023/12/21/fed39_asahi_remix/)
 - [Stratechery Year in Review](https://stratechery.com/2023/the-2023-stratechery-year-in-review/)
-- [The Great Cousin Decline](https://www.theatlantic.com/family/archive/2023/12/cousin-relationships-fertility-rate/676892/)
+- [Own the Problem, Not the Solution](https://blog.mangoteque.com//blog/2023/11/28/own-the-problem-not-the-solution/)
 - [38% of VCs disappeared from dealmaking in 2023](https://pitchbook.com/news/articles/active-VC-investors-decline)
-- [Today I&#39;m launching Flare, a video sharing site built on Nostr Like YouTube](https://njump.me/nevent1qqs9tsvza8x5t93jtyh3ktmwsdkxpwarcwstadlr0fc0rcxfvn5umzqzyqthz7k56g8z5sjumg9zr9tzfg9y5u7y76t47943tyluslayduk4sr3946l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
