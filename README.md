@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [1992 – Interest rate 500% – the Swedish krona floats](https://www.riksbank.se/en-gb/about-the-riksbank/history/historical-timeline/1900-1999/interest-rate-500--the-krona-floats/)
-- [A larger family worsens kids&#39; cognitive development, suggests 30-year study](https://bigthink.com/the-present/large-family-worsens-kids-cognitive-development/)
+- [Juniper &lpar;YC W21&rpar; is hiring senior software engineers to fix insurance billing](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
+- [Why is my Mac trying to force me to enroll with Expedia Group upon installation?](https://apple.stackexchange.com/questions/467625/why-is-my-mac-trying-to-force-me-to-enroll-with-expedia-group-upon-installation)
+- [NY Attorney General: SiriusXM&#39;s annoying cancellation process illegal](https://www.theverge.com/2023/12/21/24010975/siriusxm-lawsuit-new-york-tish-james-cancel)
+- [Beeper is giving up on its iMessage dream](https://www.theverge.com/2023/12/21/24010952/beeper-android-imessage-android-shut-down)
 - [PHOLED Will Transform Displays](https://spectrum.ieee.org/blue-pholed)
-- [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
-- [7.1M miles, 3 minor injuries: Waymo&#39;s safety data looks good](https://arstechnica.com/cars/2023/12/human-drivers-crash-a-lot-more-than-waymos-software-data-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
