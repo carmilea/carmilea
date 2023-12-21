@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech&#39;s DEI backlash is here](https://techcrunch.com/2023/12/21/techs-dei-backlash-is-here/)
+- [Eqtble &lpar;YC W21&rpar; Is Hiring a Software Engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
+- [The right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.sl.html)
+- [Find out who owns a nursing home with our Nursing Home Inspect tool](https://www.propublica.org/article/find-nursing-home-ownership-information)
 - [The CEO and the Three Envelopes &lpar;2010&rpar;](https://kevinkruse.com/the-ceo-and-the-three-envelopes/)
-- [Apple wants AI to run directly on its hardware instead of in the cloud](https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/)
-- [I salute everyone on call/working production support through the holidays](https://news.ycombinator.com/item?id=38725015)
-- [Introducing The New Wasmer JavaScript SDK](https://wasmer.io/posts/introducing-the-wasmer-js-sdk)
-- [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
