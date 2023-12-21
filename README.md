@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why aren&#39;t all heaters computers?](https://news.ycombinator.com/item?id=38727202)
+- [How to Turn Off Google&#39;s &quot;Privacy Sandbox&quot; Ad Tracking–and Why You Should](https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should)
+- [A Tesla owner says he got a $14,000 repair bill one day after buying a Model Y](https://www.businessinsider.com/tesla-owner-repair-bill-day-after-buying-suspension-issue-report-2023-12)
+- [What I wish someone had told me](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
+- [SMTP Smuggling – Spoofing Emails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
 - [Eqtble &lpar;YC W21&rpar; is hiring a software engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
-- [WinUAE 5.1.0](https://www.winuae.net/2023/12/08/winuae-5-1-0/)
-- [The right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.sl.html)
-- [Find out who owns a nursing home with our Nursing Home Inspect tool](https://www.propublica.org/article/find-nursing-home-ownership-information)
 <!-- BLOG-POST-LIST:END -->
 
 ---
