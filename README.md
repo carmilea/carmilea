@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikimedia Russia has been dissolved](https://mastodon.xyz/@johl/111618899554454932)
+- [US utility firms offer builders cash/trips to fit new homes with gas appliances](https://www.theguardian.com/us-news/2023/dec/21/new-home-builder-contractor-fossil-fuel-utilities-natural-gas)
+- [Faster Arxiv.org with Fastly](https://blog.arxiv.org/2023/12/18/faster-arxiv-with-fastly/)
+- [Nuclear energy is more expensive than renewables, CSIRO report finds](https://www.abc.net.au/news/2023-12-21/nuclear-energy-most-expensive-csiro-gencost-report-draft/103253678)
 - [Juniper &lpar;YC W21&rpar; is hiring senior software engineers to fix insurance billing](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
-- [Why is my Mac trying to force me to enroll with Expedia Group upon installation?](https://apple.stackexchange.com/questions/467625/why-is-my-mac-trying-to-force-me-to-enroll-with-expedia-group-upon-installation)
-- [NY Attorney General: SiriusXM&#39;s annoying cancellation process illegal](https://www.theverge.com/2023/12/21/24010975/siriusxm-lawsuit-new-york-tish-james-cancel)
-- [Beeper is giving up on its iMessage dream](https://www.theverge.com/2023/12/21/24010952/beeper-android-imessage-android-shut-down)
-- [PHOLED Will Transform Displays](https://spectrum.ieee.org/blue-pholed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
