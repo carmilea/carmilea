@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers uncover on/off switch for breast cancer metastasis](https://news.stanford.edu/2023/12/20/breast-cancer-metastasis-off-switch-revealed/)
 - [iMessage Key Verification](https://support.apple.com/en-gb/HT213465)
-- [How to Escape a Container](https://www.panoptica.app/research/7-ways-to-escape-a-container)
+- [Rolex fined $100M for preventing its watches being sold online](https://usa.watchpro.com/rolex-fined-100-million-for-preventing-its-watches-being-sold-online/)
 - [Text-to-CAD](https://zoo.dev/blog/introducing-text-to-cad)
 - [The Ultimate Guide to the Vector Database Landscape: 2024 and Beyond](https://www.singlestore.com/blog/-ultimate-guide-vector-database-landscape-2024)
-- [TigerEye &lpar;YC S22&rpar; is hiring an experienced front end engineer](https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
