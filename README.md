@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The CEO and the Three Envelopes &lpar;2010&rpar;](https://kevinkruse.com/the-ceo-and-the-three-envelopes/)
+- [Apple wants AI to run directly on its hardware instead of in the cloud](https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/)
+- [I salute everyone on call/working production support through the holidays](https://news.ycombinator.com/item?id=38725015)
+- [Introducing The New Wasmer JavaScript SDK](https://wasmer.io/posts/introducing-the-wasmer-js-sdk)
 - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
-- [Google Makes over $92B per Year by Owning Android](https://interestingcontent.substack.com/p/google-makes-over-92-billion-per)
-- [Intel plans spinoff of FPGA unit](https://www.networkworld.com/article/957338/intel-plans-spinoff-of-fpga-unit.html)
-- [Wikimedia Russia has been dissolved](https://mastodon.xyz/@johl/111618899554454932)
-- [Lapsus$: GTA 6 hacker handed indefinite hospital order](https://www.bbc.com/news/technology-67663128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
