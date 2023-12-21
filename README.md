@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fireworks: Function Calling Model and API](https://blog.fireworks.ai/fireworks-raises-the-quality-bar-with-function-calling-model-and-api-release-e7f49d1e98e9)
 - [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
 - [South Korea Will Police &#39;Shrinkflation&#39; at the Supermarket](https://www.wsj.com/world/asia/this-country-will-police-shrinkflation-at-the-supermarket-aeeec892)
 - [Show HN: Talk to any ArXiv paper just by changing the URL](https://github.com/evanhu1/talk2arxiv)
 - [U.S. workers say banned weed killer in 50 countries is giving them Parkinson&#39;s](https://www.latimes.com/environment/story/2023-12-20/california-workers-say-herbicide-is-giving-them-parkinsons)
-- [A closer look at e/OS: Murena&#39;s privacy-first &#39;deGoogled&#39; Android alternative](https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
