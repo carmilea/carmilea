@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is the Press Attacking Home Schoolers?](https://www.wsj.com/articles/why-is-the-press-attacking-home-schoolers-washington-post-teachers-unions-covid-9290468a)
-- [CC0-licensed fantasy map brushes based on historical cartography](https://kmalexander.com/free-stuff/fantasy-map-brushes/)
-- [Show HN: Hucksh – A Shell with a Very Good Memory](https://news.ycombinator.com/item?id=38720369)
-- [Splatter Image: Ultra-Fast Single-View 3D Reconstruction](https://szymanowiczs.github.io/splatter-image)
-- [Police get medical records without a warrant](https://arstechnica.com/science/2023/12/cvs-rite-aid-walgreens-hand-out-medical-records-to-cops-without-warrants/)
+- [7.1M miles, 3 minor injuries: Waymo&#39;s safety data looks good](https://arstechnica.com/cars/2023/12/human-drivers-crash-a-lot-more-than-waymos-software-data-shows/)
+- [Nvidia CEO: We bet the farm on AI and no one knew it](https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/)
+- [Apple allows applications to track user locations without authorization](https://wingu.se/2023/11/30/only-apple-can-do-allow-apps-tracking-users-location-without-consensus.html)
+- [Cisco to Acquire Cloud Native Networking and Security Leader Isovalent](https://isovalent.com/blog/post/cisco-acquires-isovalent/)
+- [Google OAuth is broken &lpar;sort of&rpar;](https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
