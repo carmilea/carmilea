@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
+- [Google Makes over $92B per Year by Owning Android](https://interestingcontent.substack.com/p/google-makes-over-92-billion-per)
+- [Intel plans spinoff of FPGA unit](https://www.networkworld.com/article/957338/intel-plans-spinoff-of-fpga-unit.html)
 - [Wikimedia Russia has been dissolved](https://mastodon.xyz/@johl/111618899554454932)
-- [US utility firms offer builders cash/trips to fit new homes with gas appliances](https://www.theguardian.com/us-news/2023/dec/21/new-home-builder-contractor-fossil-fuel-utilities-natural-gas)
-- [Faster Arxiv.org with Fastly](https://blog.arxiv.org/2023/12/18/faster-arxiv-with-fastly/)
-- [Nuclear energy is more expensive than renewables, CSIRO report finds](https://www.abc.net.au/news/2023-12-21/nuclear-energy-most-expensive-csiro-gencost-report-draft/103253678)
-- [Juniper &lpar;YC W21&rpar; is hiring senior software engineers to fix insurance billing](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
+- [Lapsus$: GTA 6 hacker handed indefinite hospital order](https://www.bbc.com/news/technology-67663128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
