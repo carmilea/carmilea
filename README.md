@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A closer look at e/OS: Murena&#39;s privacy-first &#39;deGoogled&#39; Android alternative](https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/)
+- [Catalyst – Tailwind CSS Application UI Kit](https://tailwindui.com/templates/catalyst)
+- [What It&#39;s Like to Be a Bee](https://press.princeton.edu/ideas/what-its-like-to-be-a-bee)
 - [Researchers uncover on/off switch for breast cancer metastasis](https://news.stanford.edu/2023/12/20/breast-cancer-metastasis-off-switch-revealed/)
 - [iMessage Key Verification](https://support.apple.com/en-gb/HT213465)
-- [Rolex fined $100M for preventing its watches being sold online](https://usa.watchpro.com/rolex-fined-100-million-for-preventing-its-watches-being-sold-online/)
-- [Text-to-CAD](https://zoo.dev/blog/introducing-text-to-cad)
-- [The Ultimate Guide to the Vector Database Landscape: 2024 and Beyond](https://www.singlestore.com/blog/-ultimate-guide-vector-database-landscape-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
