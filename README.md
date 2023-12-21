@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech&#39;s DEI backlash is here](https://techcrunch.com/2023/12/21/techs-dei-backlash-is-here/)
-- [Eqtble &lpar;YC W21&rpar; Is Hiring a Software Engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
+- [Ask HN: Why aren&#39;t all heaters computers?](https://news.ycombinator.com/item?id=38727202)
+- [Eqtble &lpar;YC W21&rpar; is hiring a software engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
+- [WinUAE 5.1.0](https://www.winuae.net/2023/12/08/winuae-5-1-0/)
 - [The right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.sl.html)
 - [Find out who owns a nursing home with our Nursing Home Inspect tool](https://www.propublica.org/article/find-nursing-home-ownership-information)
-- [The CEO and the Three Envelopes &lpar;2010&rpar;](https://kevinkruse.com/the-ceo-and-the-three-envelopes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
