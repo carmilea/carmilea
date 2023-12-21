@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Twitter/X Down](https://twitter.com/home)
 - [Show HN: Talk to any ArXiv paper just by changing the URL](https://github.com/evanhu1/talk2arxiv)
 - [U.S. workers say banned weed killer in 50 countries is giving them Parkinson&#39;s](https://www.latimes.com/environment/story/2023-12-20/california-workers-say-herbicide-is-giving-them-parkinsons)
 - [A closer look at e/OS: Murena&#39;s privacy-first &#39;deGoogled&#39; Android alternative](https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/)
 - [OpenAI Begins Tackling ChatGPT Data Leak Vulnerability](https://embracethered.com/blog/posts/2023/openai-data-exfiltration-first-mitigations-implemented/)
+- [Catalyst – Tailwind CSS Application UI Kit](https://tailwindui.com/templates/catalyst)
 <!-- BLOG-POST-LIST:END -->
 
 ---
