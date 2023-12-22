@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Polish DRMed trains stop as predicted due to date-based logic-bomb](https://social.hackerspace.pl/@q3k/111618420373868285)
+- [Some Mexican pharmacies are selling full bottles of Adderall. But it&#39;s meth](https://www.latimes.com/world-nation/story/2023-12-21/counterfeit-adderall-in-mexico)
+- [Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
+- [Food price hikes are no longer outpacing overall inflation](https://www.cnn.com/2023/12/12/economy/food-inflation-november-cpi/index.html)
 - [How to Turn Off Google&#39;s &quot;Privacy Sandbox&quot; Ad Tracking–and Why You Should](https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should)
-- [A Tesla owner says he got a $14,000 repair bill one day after buying a Model Y](https://www.businessinsider.com/tesla-owner-repair-bill-day-after-buying-suspension-issue-report-2023-12)
-- [What I wish someone had told me](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
-- [SMTP Smuggling – Spoofing Emails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
-- [Eqtble &lpar;YC W21&rpar; is hiring a software engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
