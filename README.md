@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Searches can, and will, be held against you](https://twitter.com/alanfeuer/status/1737845283126730858)
+- [AI Can Diagnose Childhood Autism from Retinal Photos with &#39;100% Accuracy&#39;](https://petapixel.com/2023/12/20/ai-can-diagnose-childhood-autism-in-eye-photos-with-100-accuracy/)
+- [Warner Eyes Paramount; Its Last Two Disastrous Mergers Weren&#39;t Disastrous Enough](https://www.techdirt.com/2023/12/22/warner-bros-discovery-eyes-paramount-merger-because-its-last-two-disastrous-mergers-apparently-werent-disastrous-enough/)
+- [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/)
 - [Direct initialization of transformers using larger pretrained ones](https://arxiv.org/abs/2312.09299)
-- [Shitflation, Shrinkflation, Inflation Database](https://jonatron.github.io/shitflation/)
-- [WebGPU now available for testing in Safari Technology Preview](https://webkit.org/blog/14879/webgpu-now-available-for-testing-in-safari-technology-preview/)
-- [Granting Pardon for the Offense of Simple Possession of or Use of Marijuana](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/22/a-proclamation-on-granting-pardon-for-the-offense-of-simple-possession-of-marijuana-attempted-simple-possession-of-marijuana-or-use-of-marijuana/)
+- [Delicious Vegan and Vegetarian Recipes – The Fiery Vegetarian](https://www.thefieryvegetarian.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
