@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Emu2 – A Gemini-like open-source 37B Multimodal Model](https://news.ycombinator.com/item?id=38730143)
+- [NLP Research in the Era of LLMs](https://nlpnewsletter.substack.com/p/nlp-research-in-the-era-of-llms)
 - [Meccano Build of Leonardo da Vinci&#39;s Self-Powered Cart](https://selmec.org.uk/articles/112-leonardo-da-vinci-s-self-powered-cart)
+- [What Is OIDC?](https://fusionauth.io/articles/identity-basics/what-is-oidc)
 - [WARC&#39;in the Crawler](https://www.marginalia.nu/log/94_warc_warc/)
-- [Modern C for Fedora &lpar;and the World&rpar;](https://lwn.net/Articles/954018/)
-- [Polish DRMed trains stop as predicted due to date-based logic-bomb](https://social.hackerspace.pl/@q3k/111618420373868285)
-- [Deep cloning objects in JavaScript](https://www.builder.io/blog/structured-clone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
