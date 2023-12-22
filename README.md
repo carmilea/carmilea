@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SymbOS – Crazy Preemptive Multitasking OS for Z80](http://www.symbos.de/)
-- [Twitter Now Showing Ads for Nonconsensual &#39;AI Undress&#39; Apps](https://www.404media.co/twitter-x-now-showing-ads-for-nonconsensual-ai-undress-apps/)
-- [Scientists Finally Find Mysterious Mesospheric Ghosts](https://www.atlasobscura.com/articles/mesospheric-ghosts)
-- [From Nand to Tetris: Building a Modern Computer from First Principles](https://www.nand2tetris.org)
-- [Interoperability, Privacy, &amp; Security](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/12/interoperability-privacy-security)
+- [LLMs break the internet with Simon Willison](https://changelog.com/podcast/534)
+- [Texas A&amp;M Team Develops Polymers That Can Kill Bacteria](https://today.tamu.edu/2023/12/21/texas-am-team-develops-polymers-that-can-kill-bacteria/)
+- [Ask HN: Best modern file transfer/synchronization protocol?](https://news.ycombinator.com/item?id=38736625)
+- [Chevrolet Blazer first drive: GM&#39;s EV platform goes mainstream](https://arstechnica.com/cars/2023/12/the-2024-chevrolet-blazer-first-drive-gms-ev-platform-goes-mainstream/)
+- [3,500 arrested, $300M seized in global cybercrime crackdown](https://www.scmagazine.com/news/3500-arrested-300m-seized-in-global-cybercrime-crackdown)
 <!-- BLOG-POST-LIST:END -->
 
 ---
