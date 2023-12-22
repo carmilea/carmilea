@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2023: A year of groundbreaking advances in AI and computing](https://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html)
-- [Google search overwhelmed by spam attack](https://www.searchenginejournal.com/google-search-overwhelmed-by-massive-spam-attack/504527/)
-- [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/)
-- [Direct initialization of transformers using larger pretrained ones](https://arxiv.org/abs/2312.09299)
-- [Detecting Unwanted Location Trackers](https://datatracker.ietf.org/doc/draft-detecting-unwanted-location-trackers/01/)
+- [God Is Dead So They Are Building a New One](https://thealgorithmicbridge.substack.com/p/god-is-dead-so-they-are-building)
+- [OpenAI Is in Talks to Raise New Funding at Valuation of $100B or More](https://www.bloomberg.com/news/articles/2023-12-22/openai-in-talks-to-raise-new-funding-at-100-billion-valuation)
+- [Seven Years of Factorio Friday Facts &lpar;2020&rpar;](https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts)
+- [Groqchat](https://chat.groq.com/)
+- [Bluesky makes web view public, login no longer required to read posts](https://bsky.app/profile/bsky.app/post/3kh5rbndrjd2x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
