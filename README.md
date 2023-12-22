@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs break the internet with Simon Willison](https://changelog.com/podcast/534)
-- [Texas A&amp;M Team Develops Polymers That Can Kill Bacteria](https://today.tamu.edu/2023/12/21/texas-am-team-develops-polymers-that-can-kill-bacteria/)
-- [Ask HN: Best modern file transfer/synchronization protocol?](https://news.ycombinator.com/item?id=38736625)
-- [Chevrolet Blazer first drive: GM&#39;s EV platform goes mainstream](https://arstechnica.com/cars/2023/12/the-2024-chevrolet-blazer-first-drive-gms-ev-platform-goes-mainstream/)
-- [3,500 arrested, $300M seized in global cybercrime crackdown](https://www.scmagazine.com/news/3500-arrested-300m-seized-in-global-cybercrime-crackdown)
+- [&quot;Nightmare Tenant&quot; Story Amplified by Seattle Times Crumbles Under Scrutiny](https://publicola.com/2023/12/22/nightmare-tenant-story-amplified-by-seattle-times-right-wing-media-crumbles-under-scrutiny/)
+- [Shitflation, Shrinkflation, Inflation Database](https://jonatron.github.io/shitflation/)
+- [WebGPU now available for testing in Safari Technology Preview](https://webkit.org/blog/14879/webgpu-now-available-for-testing-in-safari-technology-preview/)
+- [Granting Pardon for the Offense of Simple Possession of or Use of Marijuana](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/22/a-proclamation-on-granting-pardon-for-the-offense-of-simple-possession-of-marijuana-attempted-simple-possession-of-marijuana-or-use-of-marijuana/)
+- [Database Isolation Is Broken and You Should Care](https://materializedview.io/p/database-isolation-is-broken-you-should-care)
 <!-- BLOG-POST-LIST:END -->
 
 ---
