@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SymbOS – Crazy Preemptive Multitasking OS for Z80](http://www.symbos.de/)
+- [Twitter Now Showing Ads for Nonconsensual &#39;AI Undress&#39; Apps](https://www.404media.co/twitter-x-now-showing-ads-for-nonconsensual-ai-undress-apps/)
+- [Scientists Finally Find Mysterious Mesospheric Ghosts](https://www.atlasobscura.com/articles/mesospheric-ghosts)
 - [From Nand to Tetris: Building a Modern Computer from First Principles](https://www.nand2tetris.org)
-- [The Hyperloop was always a scam](https://www.disconnect.blog/p/the-hyperloop-was-always-a-scam)
-- [Show HN: Heynote – A Dedicated Scratchpad for Developers](https://heynote.com/)
-- [How to Install Windows 11 On A Device That Does Not Meet Windows 11 Requirements](https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e)
-- [In the long run, we&#39;re all Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
+- [Interoperability, Privacy, &amp; Security](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/12/interoperability-privacy-security)
 <!-- BLOG-POST-LIST:END -->
 
 ---
