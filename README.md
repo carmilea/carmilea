@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NewPipe v0.26.0 Released](https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.26.0)
+- [Mindustry: Open-source automation tower defense game](https://mindustrygame.github.io/)
+- [Maze Generator](https://mazegenerator.net/)
+- [Rough.js: Create graphics with a hand-drawn, sketchy, appearance](https://roughjs.com/)
 - [What We Need Instead of &quot;Web Components&quot;](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
-- [A structured note-taking app for personal use](https://github.com/penxio/penx)
-- [FreeBasic](https://www.freebasic.net/)
-- [Open-source AI knowledge database with web UI and Enterprise SSO](https://github.com/casibase/casibase)
-- [3D-GPT: Procedural 3D Modeling with Large Language Models](https://chuny1.github.io/3DGPT/3dgpt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
