@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NewPipe v0.26.0 Released](https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.26.0)
-- [Mindustry: Open-source automation tower defense game](https://mindustrygame.github.io/)
-- [Maze Generator](https://mazegenerator.net/)
-- [Rough.js: Create graphics with a hand-drawn, sketchy, appearance](https://roughjs.com/)
-- [What We Need Instead of &quot;Web Components&quot;](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
+- [The Richest Countries in 2023](https://www.economist.com/graphic-detail/2023/12/15/the-worlds-richest-countries-in-2023)
+- [Sieve &lpar;YC W22&rpar;, the video/audio AI cloud, is hiring ML infrastructure engineers](https://sievedata.com/about/jobs)
+- [Anthropocene traps that challenge global sustainability](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0261)
+- [Ask HN: What&#39;s your &quot;it&#39;s not stupid if it works&quot; story?](https://news.ycombinator.com/item?id=38733282)
+- [Visualize Mixtral Moe](https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
