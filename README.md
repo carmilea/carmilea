@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Interoperability, Privacy, &amp; Security](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/12/interoperability-privacy-security)
+- [From Nand to Tetris: Building a Modern Computer from First Principles](https://www.nand2tetris.org)
+- [The Hyperloop was always a scam](https://www.disconnect.blog/p/the-hyperloop-was-always-a-scam)
 - [Show HN: Heynote – A Dedicated Scratchpad for Developers](https://heynote.com/)
-- [Midjourney v6](https://mid-journey.ai/midjourney-v6-release/)
 - [How to Install Windows 11 On A Device That Does Not Meet Windows 11 Requirements](https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e)
 - [In the long run, we&#39;re all Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
 <!-- BLOG-POST-LIST:END -->
