@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New bill to bar wealthy colleges in the US from accepting federal student loans](https://www.theatlantic.com/ideas/archive/2023/12/threat-diversity-elite-colleges-affirmative-action-student-loans/676356/)
+- [Post-affirmative action,Asian Americans are stressed about college admissions](https://www.latimes.com/california/story/2023-11-26/post-affirmative-action-asian-american-students-stress-college-admissions)
+- [Show HN: Heynote – A Dedicated Scratchpad for Developers](https://heynote.com/)
+- [How to Install Windows 11 On A Device That Does Not Meet Windows 11 Requirements](https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e)
 - [In the Long Run, We&#39;re All Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
-- [The Richest Countries in 2023](https://www.economist.com/graphic-detail/2023/12/15/the-worlds-richest-countries-in-2023)
 - [African Ports Overwhelmed by Red Sea Reroutings](https://gcaptain.com/african-ports-overwhelmed-by-red-sea-reroutings/)
-- [Sieve &lpar;YC W22&rpar;, the video/audio AI cloud, is hiring ML infrastructure engineers](https://sievedata.com/about/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
