@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meccano Build of Leonardo da Vinci&#39;s Self-Powered Cart](https://selmec.org.uk/articles/112-leonardo-da-vinci-s-self-powered-cart)
+- [WARC&#39;in the Crawler](https://www.marginalia.nu/log/94_warc_warc/)
 - [Polish DRMed trains stop as predicted due to date-based logic-bomb](https://social.hackerspace.pl/@q3k/111618420373868285)
-- [Some Mexican pharmacies are selling full bottles of Adderall. But it&#39;s meth](https://www.latimes.com/world-nation/story/2023-12-21/counterfeit-adderall-in-mexico)
-- [Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
 - [Food price hikes are no longer outpacing overall inflation](https://www.cnn.com/2023/12/12/economy/food-inflation-november-cpi/index.html)
 - [How to Turn Off Google&#39;s &quot;Privacy Sandbox&quot; Ad Tracking–and Why You Should](https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should)
 <!-- BLOG-POST-LIST:END -->
