@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New bill to bar wealthy colleges in the US from accepting federal student loans](https://www.theatlantic.com/ideas/archive/2023/12/threat-diversity-elite-colleges-affirmative-action-student-loans/676356/)
+- [In the Long Run, We&#39;re All Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
 - [The Richest Countries in 2023](https://www.economist.com/graphic-detail/2023/12/15/the-worlds-richest-countries-in-2023)
+- [African Ports Overwhelmed by Red Sea Reroutings](https://gcaptain.com/african-ports-overwhelmed-by-red-sea-reroutings/)
 - [Sieve &lpar;YC W22&rpar;, the video/audio AI cloud, is hiring ML infrastructure engineers](https://sievedata.com/about/jobs)
-- [Anthropocene traps that challenge global sustainability](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0261)
-- [Ask HN: What&#39;s your &quot;it&#39;s not stupid if it works&quot; story?](https://news.ycombinator.com/item?id=38733282)
-- [Visualize Mixtral Moe](https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
