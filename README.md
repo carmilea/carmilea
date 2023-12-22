@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Can Diagnose Childhood Autism from Retinal Photos with &#39;100% Accuracy&#39;](https://petapixel.com/2023/12/20/ai-can-diagnose-childhood-autism-in-eye-photos-with-100-accuracy/)
-- [Warner Eyes Paramount; Its Last Two Disastrous Mergers Weren&#39;t Disastrous Enough](https://www.techdirt.com/2023/12/22/warner-bros-discovery-eyes-paramount-merger-because-its-last-two-disastrous-mergers-apparently-werent-disastrous-enough/)
+- [2023: A year of groundbreaking advances in AI and computing](https://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html)
+- [Google search overwhelmed by spam attack](https://www.searchenginejournal.com/google-search-overwhelmed-by-massive-spam-attack/504527/)
 - [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/)
 - [Direct initialization of transformers using larger pretrained ones](https://arxiv.org/abs/2312.09299)
-- [Delicious Vegan and Vegetarian Recipes – The Fiery Vegetarian](https://www.thefieryvegetarian.com/)
+- [Detecting Unwanted Location Trackers](https://datatracker.ietf.org/doc/draft-detecting-unwanted-location-trackers/01/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
