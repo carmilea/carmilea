@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What We Need Instead of &quot;Web Components&quot;](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
 - [A structured note-taking app for personal use](https://github.com/penxio/penx)
 - [FreeBasic](https://www.freebasic.net/)
 - [Open-source AI knowledge database with web UI and Enterprise SSO](https://github.com/casibase/casibase)
 - [3D-GPT: Procedural 3D Modeling with Large Language Models](https://chuny1.github.io/3DGPT/3dgpt.html)
-- [Guidance on man pages for the GNU project is wild](https://social.jvns.ca/@b0rk/111607416578693170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
