@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Post-affirmative action,Asian Americans are stressed about college admissions](https://www.latimes.com/california/story/2023-11-26/post-affirmative-action-asian-american-students-stress-college-admissions)
+- [Interoperability, Privacy, &amp; Security](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/12/interoperability-privacy-security)
 - [Show HN: Heynote – A Dedicated Scratchpad for Developers](https://heynote.com/)
+- [Midjourney v6](https://mid-journey.ai/midjourney-v6-release/)
 - [How to Install Windows 11 On A Device That Does Not Meet Windows 11 Requirements](https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e)
-- [In the Long Run, We&#39;re All Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
-- [African Ports Overwhelmed by Red Sea Reroutings](https://gcaptain.com/african-ports-overwhelmed-by-red-sea-reroutings/)
+- [In the long run, we&#39;re all Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
