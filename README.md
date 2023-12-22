@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Emu2 – A Gemini-like open-source 37B Multimodal Model](https://news.ycombinator.com/item?id=38730143)
-- [NLP Research in the Era of LLMs](https://nlpnewsletter.substack.com/p/nlp-research-in-the-era-of-llms)
-- [Meccano Build of Leonardo da Vinci&#39;s Self-Powered Cart](https://selmec.org.uk/articles/112-leonardo-da-vinci-s-self-powered-cart)
-- [What Is OIDC?](https://fusionauth.io/articles/identity-basics/what-is-oidc)
-- [WARC&#39;in the Crawler](https://www.marginalia.nu/log/94_warc_warc/)
+- [A structured note-taking app for personal use](https://github.com/penxio/penx)
+- [Open-source AI knowledge database with web UI and Enterprise SSO](https://github.com/casibase/casibase)
+- [3D-GPT: Procedural 3D Modeling with Large Language Models](https://chuny1.github.io/3DGPT/3dgpt.html)
+- [Humans have driven more than 1,400 bird species to extinction](https://english.elpais.com/science-tech/2023-12-20/humans-have-driven-more-than-1400-bird-species-to-extinction-double-what-was-previously-thought.html)
+- [Guidance on man pages for the GNU project is wild](https://social.jvns.ca/@b0rk/111607416578693170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
