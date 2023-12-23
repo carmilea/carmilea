@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Story-driven adventure set in a hard sci-fi world by Stanisław Lem](https://store.steampowered.com/app/731040/The_Invincible/)
 - [Vocode &lpar;YC W23&rpar; is hiring to build realistic voice bots](https://vocode.notion.site/Vocode-Careers-47f27748419d48f9bcc3bbbb54118afa)
 - [Sniffing women&#39;s tears reduces male aggression by 44%, study finds](https://newatlas.com/science/chemosignals-womens-tears-reduces-male-aggression-decreases-brain-activity/)
 - [Show HN: 4d-Modeller – R library to make Bayesian spatiotemporal modeling easy](https://4dmodeller.github.io/fdmr/)
 - [DIY ventilation heat exchanger &lpar;2010&rpar;](https://ecorenovator.org/forum/showthread.php?s=41c17447383e29b03903f4e0136e55be&p=5792)
-- [Pinterest&#39;s simple tech stack to scale to 11M monthly users](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
 <!-- BLOG-POST-LIST:END -->
 
 ---
