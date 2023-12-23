@@ -59,8 +59,8 @@
 - [Researchers discover neuronal biomarkers of schizophrenia in the blood](https://hmri.org.au/news-article/researchers-discover-neuronal-biomarkers-schizophrenia-blood)
 - [Using sequences of life-events to predict human lives](https://arxiv.org/abs/2306.03009)
 - [How big is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
-- [Seven Years of Factorio Friday Facts &lpar;2020&rpar;](https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts)
 - [Groqchat](https://chat.groq.com/)
+- [Posts, profiles, and user search are now available without login](https://bsky.app/profile/bsky.app/post/3kh5rbndrjd2x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
