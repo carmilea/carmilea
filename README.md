@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
 - [Ask HN: What&#39;s the coolest non standard application of LLMs you&#39;ve seen?](https://news.ycombinator.com/item?id=38742311)
 - [They want you to forget what a film looks like](https://aftermath.site/true-lies-4k-uhd-blu-ray-james-cameron-peter-jackson-park-road-post)
 - [Is Tetr.io Legal?](https://blog.osk.sh/post.php?p=643dbb578e1ba3.57021842)
 - [Researchers discover neuronal biomarkers of schizophrenia in the blood](https://hmri.org.au/news-article/researchers-discover-neuronal-biomarkers-schizophrenia-blood)
-- [How big is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
