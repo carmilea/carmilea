@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beeper Mini is now open-source](https://github.com/beeper/imessage)
+- [Cummins pickup truck engines systematically tricked air pollution controls](https://www.usatoday.com/story/news/nation/2023/12/22/cummins-truck-engines-defeat-devices-feds-say/72013430007/)
+- [The Rise of the Forever Renters](https://www.wsj.com/economy/housing/the-rise-of-the-forever-renters-5538c249)
 - [Another Hit Piece on Open-Source AI [video]](https://www.youtube.com/watch?v=bXYLyDhcyWY)
+- [NLP Course – For You](https://lena-voita.github.io/nlp_course.html)
 - [First Images of Spaceship Neptune&#39;s Capsule Structure](https://latteluxurynews.com/2023/12/15/space-perspective-capsule-structure/)
-- [Show HN: Open-source superhuman like email client](https://github.com/curdinc/skylar-email)
-- [Rumble Turns Off Access in Brazil Because of Government&#39;s Censorship Demands](https://reclaimthenet.org/rumble-challenges-brazil-censorship-demands)
 <!-- BLOG-POST-LIST:END -->
 
 ---
