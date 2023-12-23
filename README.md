@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How does B-tree make your queries fast?](https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html)
+- [The Art of Electronics &lpar;3rd Edition&rpar;](https://artofelectronics.net/)
+- [2TB microSD card is on the way early next year](https://overkill.wtf/2tb-microsd-card-on-the-way/)
 - [Cummins pickup truck engines systematically tricked air pollution controls](https://www.usatoday.com/story/news/nation/2023/12/22/cummins-truck-engines-defeat-devices-feds-say/72013430007/)
-- [The Rise of the Forever Renters](https://www.wsj.com/economy/housing/the-rise-of-the-forever-renters-5538c249)
-- [Another Hit Piece on Open-Source AI [video]](https://www.youtube.com/watch?v=bXYLyDhcyWY)
 - [NLP Course – For You](https://lena-voita.github.io/nlp_course.html)
-- [First Images of Spaceship Neptune&#39;s Capsule Structure](https://latteluxurynews.com/2023/12/15/space-perspective-capsule-structure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
