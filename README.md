@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [God Is Dead So They Are Building a New One](https://thealgorithmicbridge.substack.com/p/god-is-dead-so-they-are-building)
-- [OpenAI Is in Talks to Raise New Funding at Valuation of $100B or More](https://www.bloomberg.com/news/articles/2023-12-22/openai-in-talks-to-raise-new-funding-at-100-billion-valuation)
-- [Seven Years of Factorio Friday Facts &lpar;2020&rpar;](https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts)
-- [Groqchat](https://chat.groq.com/)
-- [Bluesky makes web view public, login no longer required to read posts](https://bsky.app/profile/bsky.app/post/3kh5rbndrjd2x)
+- [Researchers discover neuronal biomarkers of schizophrenia in the blood](https://hmri.org.au/news-article/researchers-discover-neuronal-biomarkers-schizophrenia-blood)
+- [Using Sequences of Life-Events to Predict Human Lives](https://arxiv.org/abs/2306.03009)
+- [Teslas Have a Minor Issue Where the Wheels Fly Off While Driving, Documents Show](https://futurism.com/tesla-flaws-failures-blame-drivers)
+- [Scientists have 20-minute &quot;conversation&quot; with a humpback whale named Twain](https://www.earth.com/news/scientists-have-20-minute-conversation-with-a-humpback-whale-named-twain/)
+- [How Big Is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
