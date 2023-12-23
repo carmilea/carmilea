@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Gibiru attempts to take the canvas image data of my browser?](https://gibiru.com/)
-- [Cummins Fined $1.6B for Diesel Defeat Devices in 630K RAM Trucks](https://www.thedrive.com/news/cummins-fined-1-67-billion-for-diesel-defeat-devices-in-630000-ram-pickups)
+- [Beeper Mini is now open-source](https://github.com/beeper/imessage)
+- [Another Hit Piece on Open-Source AI [video]](https://www.youtube.com/watch?v=bXYLyDhcyWY)
+- [First Images of Spaceship Neptune&#39;s Capsule Structure](https://latteluxurynews.com/2023/12/15/space-perspective-capsule-structure/)
+- [Show HN: Open-source superhuman like email client](https://github.com/curdinc/skylar-email)
 - [Rumble Turns Off Access in Brazil Because of Government&#39;s Censorship Demands](https://reclaimthenet.org/rumble-challenges-brazil-censorship-demands)
-- [BBS: The Documentary](http://www.bbsdocumentary.com/)
-- [In 2023 Organic Maps got its first million users](https://organicmaps.app/news/2023-12-23/in-2023-organic-maps-got-its-first-million-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
