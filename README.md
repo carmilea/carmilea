@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Neoliberal Transition in Intellectual and Economic History](https://muse.jhu.edu/article/901494)
-- [Polar bear fur-inspired sweater is thinner than a down jacket – and just as warm](https://www.nature.com/articles/d41586-023-04145-5)
+- [AI companies required to disclose copyrighted training data under new bill](https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation)
 - [The unfortunate math behind consulting companies &lpar;2011&rpar;](https://longform.asmartbear.com/consulting-company-accounting/)
-- [2,300-year-old mosaic made of shells and coral has been found buried under Rome](https://www.cnn.com/style/rome-palatine-hill-archaeology-discovery/index.html)
-- [Understanding Every Byte in a WASM Module](https://danielmangum.com/posts/every-byte-wasm-module/)
+- [I stopped cosmonauts from carrying guns &lpar;2014&rpar;](https://spectrum.ieee.org/how-i-stop-cosmonauts-carrying-guns)
+- [2,300-year-old mosaic made of shells and coral found under Rome](https://www.cnn.com/style/rome-palatine-hill-archaeology-discovery/index.html)
+- [Understanding every byte in a WASM module](https://danielmangum.com/posts/every-byte-wasm-module/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
