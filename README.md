@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta censors pro-Palestinian views on a global scale, report claims](https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report)
+- [Rumble Turns Off Access in Brazil Because of Government&#39;s Censorship Demands](https://reclaimthenet.org/rumble-challenges-brazil-censorship-demands)
+- [Substack on Nazi Views](https://substack.com/@hamish/note/c-45811343)
+- [BBS: The Documentary](http://www.bbsdocumentary.com/)
+- [Quantum Computing&#39;s Hard, Cold Reality Check](https://spectrum.ieee.org/quantum-computing-skeptics)
 - [Xmas.c, winner of the 1988 International Obfuscated C Code Contest](https://udel.edu/~mm/xmas/)
-- [The end of Windows 10 support could turn 240M PCs into e-waste](https://www.canalys.com/insights/end-of-windows-10-support-could-turn-240-million-pcs-into-e-waste)
-- [Ferret: An End-to-End MLLM by Apple](https://github.com/apple/ml-ferret)
-- [Whatever happened to the zero waste movement?](https://www.nationalgeographic.com/environment/article/zero-waste-movement-plastic-straw-bans-evolution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
