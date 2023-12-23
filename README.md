@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scammers Are Ruining Facebook Marketplace](https://www.wired.com/story/zelle-scammers-are-ruining-facebook-marketplace/)
+- [Vancouver EV owner shares cautionary tale after car deemed &#39;total loss&#39;](https://vancouver.citynews.ca/2023/12/11/hyundai-ev-battery-icbc-cost/)
 - [They want you to forget what a film looks like](https://aftermath.site/true-lies-4k-uhd-blu-ray-james-cameron-peter-jackson-park-road-post)
 - [Researchers discover neuronal biomarkers of schizophrenia in the blood](https://hmri.org.au/news-article/researchers-discover-neuronal-biomarkers-schizophrenia-blood)
 - [How big is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
-- [Groqchat](https://chat.groq.com/)
+- [Posts, profiles, and user search are now available without login](https://bsky.app/profile/bsky.app/post/3kh5rbndrjd2x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
