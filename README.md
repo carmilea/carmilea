@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How does B-tree make your queries fast?](https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html)
+- [How does a B-tree make queries fast?](https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html)
 - [The Art of Electronics &lpar;3rd Edition&rpar;](https://artofelectronics.net/)
+- [Circl Unveils Festive Nostalgic Initiatives – Gopher Protocol and BBS Revival](https://www.circl.lu/pub/tr-567d30/)
+- [Par: Paragraph reformatter, vaguely similar to fmt, but better](http://www.nicemice.net/par/)
 - [2TB microSD card is on the way early next year](https://overkill.wtf/2tb-microsd-card-on-the-way/)
-- [Cummins pickup truck engines systematically tricked air pollution controls](https://www.usatoday.com/story/news/nation/2023/12/22/cummins-truck-engines-defeat-devices-feds-say/72013430007/)
-- [NLP Course – For You](https://lena-voita.github.io/nlp_course.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
