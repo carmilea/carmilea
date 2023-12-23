@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter violated contract by failing to pay millions in bonuses, US judge rules](https://www.reuters.com/legal/twitter-violated-contract-by-failing-pay-millions-bonuses-us-judge-rules-2023-12-23/)
-- [They Want You to Forget What a Film Looks Like](https://aftermath.site/true-lies-4k-uhd-blu-ray-james-cameron-peter-jackson-park-road-post)
+- [Scammers Are Ruining Facebook Marketplace](https://www.wired.com/story/zelle-scammers-are-ruining-facebook-marketplace/)
+- [They want you to forget what a film looks like](https://aftermath.site/true-lies-4k-uhd-blu-ray-james-cameron-peter-jackson-park-road-post)
 - [Researchers discover neuronal biomarkers of schizophrenia in the blood](https://hmri.org.au/news-article/researchers-discover-neuronal-biomarkers-schizophrenia-blood)
 - [How big is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
 - [Groqchat](https://chat.groq.com/)
