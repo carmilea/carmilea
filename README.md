@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Was BASIC that horrible or better?](https://retrofun.pl/2023/12/18/was-basic-that-horrible-or-better/)
 - [DIY ventilation heat exchanger &lpar;2010&rpar;](https://ecorenovator.org/forum/showthread.php?s=41c17447383e29b03903f4e0136e55be&p=5792)
 - [Pinterest&#39;s simple tech stack to scale to 11M monthly users](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
+- [How to Become a Great Software Engineer](https://newsletter.techworld-with-milan.com/p/how-to-become-a-great-software-engineer)
 - [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
-- [They want you to forget what a film looks like](https://aftermath.site/true-lies-4k-uhd-blu-ray-james-cameron-peter-jackson-park-road-post)
-- [Is Tetr.io Legal?](https://blog.osk.sh/post.php?p=643dbb578e1ba3.57021842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
