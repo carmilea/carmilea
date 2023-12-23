@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;King of the Cannibals&quot;: How Sam Altman Took over Silicon Valley](https://www.washingtonpost.com/technology/2023/12/23/sam-altman-openai-peter-thiel-silicon-valley/)
-- [The Johnson Solids &lpar;2019&rpar;](https://www.qfbox.info/4d/johnson)
-- [Story-driven adventure set in a hard sci-fi world by Stanisław Lem](https://store.steampowered.com/app/731040/The_Invincible/)
-- [Vocode &lpar;YC W23&rpar; is hiring to build realistic voice bots](https://vocode.notion.site/Vocode-Careers-47f27748419d48f9bcc3bbbb54118afa)
-- [Show HN: 4d-Modeller – R library to make Bayesian spatiotemporal modeling easy](https://4dmodeller.github.io/fdmr/)
+- [The Neoliberal Transition in Intellectual and Economic History](https://muse.jhu.edu/article/901494)
+- [Polar bear fur-inspired sweater is thinner than a down jacket – and just as warm](https://www.nature.com/articles/d41586-023-04145-5)
+- [The unfortunate math behind consulting companies &lpar;2011&rpar;](https://longform.asmartbear.com/consulting-company-accounting/)
+- [2,300-year-old mosaic made of shells and coral has been found buried under Rome](https://www.cnn.com/style/rome-palatine-hill-archaeology-discovery/index.html)
+- [Understanding Every Byte in a WASM Module](https://danielmangum.com/posts/every-byte-wasm-module/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
