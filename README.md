@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI companies required to disclose copyrighted training data under new bill](https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation)
-- [The unfortunate math behind consulting companies &lpar;2011&rpar;](https://longform.asmartbear.com/consulting-company-accounting/)
-- [I stopped cosmonauts from carrying guns &lpar;2014&rpar;](https://spectrum.ieee.org/how-i-stop-cosmonauts-carrying-guns)
-- [2,300-year-old mosaic made of shells and coral found under Rome](https://www.cnn.com/style/rome-palatine-hill-archaeology-discovery/index.html)
-- [Understanding every byte in a WASM module](https://danielmangum.com/posts/every-byte-wasm-module/)
+- [Meta censors pro-Palestinian views on a global scale, report claims](https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report)
+- [Xmas.c, winner of the 1988 International Obfuscated C Code Contest](https://udel.edu/~mm/xmas/)
+- [The end of Windows 10 support could turn 240M PCs into e-waste](https://www.canalys.com/insights/end-of-windows-10-support-could-turn-240-million-pcs-into-e-waste)
+- [Ferret: An End-to-End MLLM by Apple](https://github.com/apple/ml-ferret)
+- [Whatever happened to the zero waste movement?](https://www.nationalgeographic.com/environment/article/zero-waste-movement-plastic-straw-bans-evolution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
