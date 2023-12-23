@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Gibiru attempts to take the canvas image data of my browser?](https://gibiru.com/)
+- [Cummins Fined $1.6B for Diesel Defeat Devices in 630K RAM Trucks](https://www.thedrive.com/news/cummins-fined-1-67-billion-for-diesel-defeat-devices-in-630000-ram-pickups)
 - [Rumble Turns Off Access in Brazil Because of Government&#39;s Censorship Demands](https://reclaimthenet.org/rumble-challenges-brazil-censorship-demands)
-- [Substack on Nazi Views](https://substack.com/@hamish/note/c-45811343)
 - [BBS: The Documentary](http://www.bbsdocumentary.com/)
-- [Quantum Computing&#39;s Hard, Cold Reality Check](https://spectrum.ieee.org/quantum-computing-skeptics)
-- [Xmas.c, winner of the 1988 International Obfuscated C Code Contest](https://udel.edu/~mm/xmas/)
+- [In 2023 Organic Maps got its first million users](https://organicmaps.app/news/2023-12-23/in-2023-organic-maps-got-its-first-million-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
