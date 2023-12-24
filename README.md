@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta&#39;s new Threads, a rival for X, is now Apple&#39;s most downloaded app](https://www.businessinsider.com/threads-a-rival-for-x-now-apple-most-downloaded-app-2023-12)
+- [How the Weak Win Wars: A Theory of Asymmetric Conflict – Ivan Arreguín](https://web.archive.org/web/20210827053020id_/https://watermark.silverchair.com/016228801753212868.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtAwggLMBgkqhkiG9w0BBwagggK9MIICuQIBADCCArIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMsFx_L4GNlU2N202gAgEQgIICg0JcfB_c0FpMcWGV1VmX2fx4NNs5ndOi5wzFx9l8AWBAd_KVbp5AuElpYXEUZSE8F28zUGJJ_pUhQ4dEjJfL8dH2EjaBPxsbstLCOyMPeXUuRQmDLLAPu5_cFf_NlscYvuanjGvnS3TpcYzjA6FHJaP9Y9OnjKkDpejzsEQeFy_aBOGujlgKU94alIeBgxrvxgXAFpLfHYsk3F4LNvKuWPw-AFvADltfKSnF77-4hJFj2oJOUsKSWIiLYmGnPRbP_kvawXfdyhg5W_Rt8KogNPKq4oLodfOokuGEoVdzLEmaX0FcOv_0Zz5LTrbWVG0NufNTglqp6XG3bG29XcXq-Zn5h4QzCudPhaj0_wps0WCgzM5SUjeGevsbRmLtkRHAY2xYrQDivd8RmF7cw3tucjBDxt8l-11KEEp9j5UANFhn5lQDObRsQcbaBGdNXO1SrYRwblxUFzSqgz160x05gFfdfipS1-xxbq2appUBYwS72GmFFROzKRToZy4MbNliSX-KCqXhJW6a6wz4RaL9z-38Xp0pIeYWn1pibF7vj6WF6eLSAU6u-95ufNY7o4aL83JJuhPJLeaowmfWnF4TsOaPNcYr6CfYgh0WAd-SK7gjoAxkZXWV9QpgOInzhgT9DNiD6CxK3UjJRQPxCyQrGUehvwRKmIwMbLrwViTGU60fJcCJxl-ZYbCsUAD8LqRnsDeMY40DE0h9pBQ-AlS5GEfwHmsKXiPgx04LEBz97wt-bEjL6RKBTrzGftTNlHPWpRXQ2QNGMVTtzSyUNUU-3Ci43zjcila8kT298HrAc8wGbX3gWzPMiEGBD8h4bCxToe8xLBH2NZ1jlsETYAsUqWJc9Ds)
+- [Half of US Buick dealers chose buyouts over selling EVs in 2023](https://electrek.co/2023/12/20/half-of-us-buick-dealers-chose-buyouts-over-selling-evs-in-2023/)
+- [Cosma Shalizi on Attention and Transformers](http://bactra.org/notebooks/nn-attention-and-transformers.html)
 - [Meticulous &lpar;YC S21&rpar; is hiring to make tests obsolete](https://news.ycombinator.com/item?id=38756804)
-- [Toyota&#39;s Daihatsu to halt all vehicle shipments as safety scandal widens](https://www.cnbc.com/2023/12/20/toyotas-daihatsu-to-halt-vehicle-shipments-as-safety-scandal-widens.html)
-- [Costs of running a macOS app studio business](https://notes.alinpanaitiu.com/Costs-of-running-a-macOS-app-studio-business)
-- [Philips recalls 340 MRI machines because they may explode in an emergency](https://www.theregister.com/2023/12/21/philips_exploding_mri/)
-- [Windows 12: Savior of PC makers, or just an apology for Windows 11?](https://www.theregister.com/2023/12/23/windows_12_analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
