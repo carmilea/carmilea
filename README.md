@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You don&#39;t need analytics on your blog](https://blog.yossarian.net/2023/12/24/You-dont-need-analytics-on-your-blog)
+- [Did English ever have a formal version of &quot;you&quot;?](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
+- [Uncontrolled chemical reactions fuel crises at LA County&#39;s two largest landfills](https://phys.org/news/2023-12-uncontrolled-chemical-reactions-fuel-crises.html)
+- [If only someone told me this before my first startup](https://news.ycombinator.com/item?id=38755180)
+- [Sam Altman&#39;s knack for dodging bullets with a little help from bigshot friends](https://www.wsj.com/tech/ai/sam-altman-openai-protected-by-silicon-valley-friends-f3efcf68)
 - [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring](https://news.ycombinator.com/item?id=38754785)
-- [Study: TikTok Global Platform Anomalies Align with CCP Geostrategic Objectives [pdf]](https://networkcontagion.us/wp-content/uploads/A-Tik-Tok-ing-Timebomb_12.21.23.pdf)
-- [America Lost the Chestnut, Its One Perfect Tree](https://www.theatlantic.com/science/archive/2023/12/american-chestnut-perfect-tree-restoration/676927/)
-- [A circular 3D-printed concrete bridge](https://informedinfrastructure.com/91930/holcim-launches-phoenix-the-first-of-its-kind-circular-3d-printed-concrete-bridge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
