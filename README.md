@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Unveiling the big leap in Ruby 3.3&#39;s IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
 - [Can Microsoft Flight Simulator help me learn to fly &lpar;or make me a better pilot&rpar;?](https://aviation.stackexchange.com/questions/738/can-microsoft-flight-simulator-help-me-learn-to-fly-or-make-me-a-better-pilot)
+- [The Limits to Growth–Now Available to Read Online](https://donellameadows.org/the-limits-to-growth-now-available-to-read-online/)
 - [San Francisco’s rent prices have never returned to pre-2020 levels](https://www.sfchronicle.com/realestate/article/sf-rent-prices-18534829.php)
 - [Ask yourself dumb questions and answer them &lpar;2020&rpar;](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
-- [StreamDiffusion: A pipeline-level solution for real-time interactive generation](https://github.com/cumulo-autumn/StreamDiffusion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
