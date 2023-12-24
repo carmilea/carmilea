@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Holcim launches Phoenix, the first-of-its-kind 3D-printed concrete bridge](https://informedinfrastructure.com/91930/holcim-launches-phoenix-the-first-of-its-kind-circular-3d-printed-concrete-bridge/)
+- [The End of Retirement](https://thewalrus.ca/the-end-of-retirement/)
+- [Should we tell people it&#39;s too late to save civilization?](https://www.collapsemusings.com/should-we-tell-people-its-too-late-to-save-civilization/)
+- [OpenAI in talks to raise new funding at $100B valuation](https://www.reuters.com/technology/openai-talks-raise-new-funding-100-bln-valuation-bloomberg-news-2023-12-22/)
 - [Enlightenment 0.26.0 Release](https://www.enlightenment.org/news/2022-12-23-enlightenment-0.26.0)
-- [North America: Hand-Drawn Portrait of a Continent](https://www.antonthomasart.com/the-north-american-continent.html)
-- [Is Bach the greatest achiever of all time?](https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html)
-- [Pixelating Live with SVG](https://meyerweb.com/eric/thoughts/2023/12/21/pixelating-live-with-svg/)
-- [Resetting the Timer in My Toothbrush](https://nonnullish.pages.dev/posts/resetting-the-timer-in-my-toothbrush/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
