@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Has a Design Problem](https://www.feedme.design/tesla-has-a-design-problem/)
+- [North America: Hand-Drawn Portrait of a Continent](https://www.antonthomasart.com/the-north-american-continent.html)
+- [Is Bach the greatest achiever of all time?](https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html)
+- [Pixelating Live with SVG](https://meyerweb.com/eric/thoughts/2023/12/21/pixelating-live-with-svg/)
+- [Generals.io – Capture enemy generals to defeat them](https://generals.io/)
 - [Meilisearch Expands Search Power with Arroy&#39;s Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
-- [Langfuse &lpar;YC W23&rpar; is hiring a founding engineer in Berlin](https://www.workatastartup.com/jobs/62929)
-- [Preparedness Framework](https://openai.com/safety/preparedness)
-- [Bill Watterson Commencement Speech &lpar;1990&rpar;](https://web.mit.edu/jmorzins/www/C-H-speech.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
