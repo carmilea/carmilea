@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [San Francisco rent has dropped 16% since 2019](https://www.sfchronicle.com/realestate/article/sf-rent-prices-18534829.php)
+- [Unveiling the big leap in Ruby 3.3&#39;s IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
+- [Can Microsoft Flight Simulator help me learn to fly &lpar;or make me a better pilot&rpar;?](https://aviation.stackexchange.com/questions/738/can-microsoft-flight-simulator-help-me-learn-to-fly-or-make-me-a-better-pilot)
+- [San Francisco’s rent prices have never returned to pre-2020 levels](https://www.sfchronicle.com/realestate/article/sf-rent-prices-18534829.php)
 - [Ask yourself dumb questions and answer them &lpar;2020&rpar;](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
 - [StreamDiffusion: A pipeline-level solution for real-time interactive generation](https://github.com/cumulo-autumn/StreamDiffusion)
-- [Crown shyness](https://en.wikipedia.org/wiki/Crown_shyness)
-- [NY Governor vetoes ban on noncompete clauses, waters down LLC transparency bill](https://gothamist.com/news/ny-gov-hochul-vetoes-ban-on-noncompete-clauses-waters-down-llc-transparency-bill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
