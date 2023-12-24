@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Has a Design Problem](https://www.feedme.design/tesla-has-a-design-problem/)
 - [Meilisearch Expands Search Power with Arroy&#39;s Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
-- [Beeper Mini removed from Google Play?](https://play.google.com/store/apps/details?id=com.beeper.ima)
 - [Langfuse &lpar;YC W23&rpar; is hiring a founding engineer in Berlin](https://www.workatastartup.com/jobs/62929)
 - [Preparedness Framework](https://openai.com/safety/preparedness)
 - [Bill Watterson Commencement Speech &lpar;1990&rpar;](https://web.mit.edu/jmorzins/www/C-H-speech.html)
