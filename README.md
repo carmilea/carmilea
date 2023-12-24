@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Did English ever have a formal version of &quot;you&quot;?](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
-- [Uncontrolled chemical reactions fuel crises at LA County&#39;s two largest landfills](https://phys.org/news/2023-12-uncontrolled-chemical-reactions-fuel-crises.html)
-- [If only someone told me this before my first startup](https://news.ycombinator.com/item?id=38755180)
-- [Sam Altman&#39;s knack for dodging bullets with a little help from bigshot friends](https://www.wsj.com/tech/ai/sam-altman-openai-protected-by-silicon-valley-friends-f3efcf68)
-- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring](https://news.ycombinator.com/item?id=38754785)
+- [Toyota&#39;s Daihatsu to halt all vehicle shipments as safety scandal widens](https://www.cnbc.com/2023/12/20/toyotas-daihatsu-to-halt-vehicle-shipments-as-safety-scandal-widens.html)
+- [Costs of running a macOS app studio business](https://notes.alinpanaitiu.com/Costs-of-running-a-macOS-app-studio-business)
+- [Philips recalls 340 MRI machines because they may explode in an emergency](https://www.theregister.com/2023/12/21/philips_exploding_mri/)
+- [Let the &lpar;terminal&rpar; bells ring out](https://muxup.com/2023q4/let-the-terminal-bells-ring-out)
+- [How can Santa keep his lists when the GDPR is around?](https://worldbuilding.stackexchange.com/questions/114033/how-can-santa-keep-his-lists-when-the-gdpr-is-around)
 <!-- BLOG-POST-LIST:END -->
 
 ---
