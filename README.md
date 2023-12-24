@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; is hiring to make tests obsolete](https://news.ycombinator.com/item?id=38756804)
 - [Toyota&#39;s Daihatsu to halt all vehicle shipments as safety scandal widens](https://www.cnbc.com/2023/12/20/toyotas-daihatsu-to-halt-vehicle-shipments-as-safety-scandal-widens.html)
 - [Costs of running a macOS app studio business](https://notes.alinpanaitiu.com/Costs-of-running-a-macOS-app-studio-business)
 - [Philips recalls 340 MRI machines because they may explode in an emergency](https://www.theregister.com/2023/12/21/philips_exploding_mri/)
-- [Let the &lpar;terminal&rpar; bells ring out](https://muxup.com/2023q4/let-the-terminal-bells-ring-out)
-- [How can Santa keep his lists when the GDPR is around?](https://worldbuilding.stackexchange.com/questions/114033/how-can-santa-keep-his-lists-when-the-gdpr-is-around)
+- [Windows 12: Savior of PC makers, or just an apology for Windows 11?](https://www.theregister.com/2023/12/23/windows_12_analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
