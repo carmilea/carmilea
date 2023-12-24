@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring](https://news.ycombinator.com/item?id=38754785)
+- [Declinism](https://en.wikipedia.org/wiki/Declinism)
+- [America Lost the Chestnut, Its One Perfect Tree](https://www.theatlantic.com/science/archive/2023/12/american-chestnut-perfect-tree-restoration/676927/)
+- [Show HN: I made a Fallout inspired PIP-Boy portfolio](https://purplecandy.github.io/kibibyte-pipboy/)
 - [Putting the &quot;J&quot; in the RPG, Part 3: Playing Final Fantasy VII](https://www.filfre.net/2023/12/putting-the-j-in-the-rpg-part-3-playing-final-fantasy-vii-or-old-man-yells-at-jrpg/)
-- [A circular 3D-printed concrete bridge](https://informedinfrastructure.com/91930/holcim-launches-phoenix-the-first-of-its-kind-circular-3d-printed-concrete-bridge/)
-- [2024 Quadrantid meteor shower to peak January 3-4](https://earthsky.org/astronomy-essentials/everything-you-need-to-know-quadrantid-meteor-shower/)
-- [Germany hits 80 GW milestone](https://www.pv-magazine.com/2023/12/21/germany-hits-80-gw-milestone/)
-- [Dolphin-2_6-Phi-2](https://huggingface.co/cognitivecomputations/dolphin-2_6-phi-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
