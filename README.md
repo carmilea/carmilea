@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Langfuse &lpar;YC W23&rpar; Is Hiring a Founding Engineer in Berlin, Germany](https://www.workatastartup.com/jobs/62929)
+- [Beeper Mini Removed from Google Play](https://play.google.com/store/apps/details?id=com.beeper.ima)
+- [Langfuse &lpar;YC W23&rpar; is hiring a founding engineer in Berlin](https://www.workatastartup.com/jobs/62929)
 - [Bill Watterson Commencement Speech &lpar;1990&rpar;](https://web.mit.edu/jmorzins/www/C-H-speech.html)
 - [When the Power Macintosh Ran NetWare &lpar;Featuring Wormhole and Cyberpunk&rpar;](http://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
 - [Unveiling the big leap in Ruby 3.3&#39;s IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
-- [Can Microsoft Flight Simulator help me learn to fly or make me a better pilot?](https://aviation.stackexchange.com/questions/738/can-microsoft-flight-simulator-help-me-learn-to-fly-or-make-me-a-better-pilot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
