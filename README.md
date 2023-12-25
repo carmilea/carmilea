@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Most people think the U.S. crime rate is rising. They&#39;re wrong](https://www.nbcnews.com/news/us-news/people-think-crime-rate-up-actually-down-rcna129585)
+- [Flu deaths in the US &lpar;2017-2023&rpar; per week](https://old.reddit.com/r/dataisbeautiful/comments/18q3fi8/oc_flu_deaths_in_the_us_20172023/)
 - [The Star – Arthur C. Clarke &lpar;1967&rpar; [pdf]](https://sites.uni.edu/morgans/astro/course/TheStar.pdf)
 - [GTA 5 source code leaks online](https://www.sportskeeda.com/gta/news-gta-5-source-code-leaks-online-giving-rockstar-huge-blow-christmas-report)
 - [Post-apocalyptic life in American health care](https://metarationality.com/post-apocalyptic-health-care)
