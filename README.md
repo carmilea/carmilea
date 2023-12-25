@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flu deaths in the US &lpar;2017-2023&rpar; per week](https://old.reddit.com/r/dataisbeautiful/comments/18q3fi8/oc_flu_deaths_in_the_us_20172023/)
+- [Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023?](https://news.ycombinator.com/item?id=38759877)
+- [Welcome to the Chata Programming Language](https://github.com/Slackadays/Chata)
 - [The Star – Arthur C. Clarke &lpar;1967&rpar; [pdf]](https://sites.uni.edu/morgans/astro/course/TheStar.pdf)
 - [GTA 5 source code leaks online](https://www.sportskeeda.com/gta/news-gta-5-source-code-leaks-online-giving-rockstar-huge-blow-christmas-report)
 - [Post-apocalyptic life in American health care](https://metarationality.com/post-apocalyptic-health-care)
-- [Retro-Computing Society of Rhode Island](https://rcsri.org/rcs-info.shtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
