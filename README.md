@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Woman pregnant in each of her two uteruses gives birth to twins](https://www.cnn.com/2023/12/24/health/woman-two-uteruses-birth-twins/index.html)
+- [GTA 5 source code reportedly leaked online a year after RockStar hack](https://www.bleepingcomputer.com/news/security/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack/)
+- [Japan&#39;s SLIM &#39;moon sniper&#39; lander arrives in lunar orbit for Christmas](https://www.space.com/japan-slim-moon-lander-arrives-lunar-orbit)
+- [The Neat Programming Language](https://neat-lang.github.io/)
 - [Is Software Getting Worse?](https://stackoverflow.blog/2023/12/25/is-software-getting-worse/)
-- [Patterns &lpar;YC S21&rpar; is hiring to automate analytics with LLMs](https://www.patterns.app/)
-- [Progressively Enhanced WebGL Lens Refraction](https://tympanus.net/codrops/2023/10/10/progressively-enhanced-webgl-lens-refraction/)
-- [B&amp;H Photo Published an AI-Generated Guide Written by a Fake Person](https://petapixel.com/2023/12/14/bh-photo-published-an-ai-generated-guide-written-by-a-fake-person/)
-- [Matter, set to fix smart home standards in 2023, stumbled in the real market](https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
