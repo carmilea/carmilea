@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to practice data analytics skills?](https://news.ycombinator.com/item?id=38765862)
-- [Stirling-PDF: local web application to perform various operations on PDFs](https://github.com/Frooodle/Stirling-PDF)
-- [DIY Night Clock Projector &lpar;2018&rpar;](https://microengineer.eu/2018/05/01/diy-night-clock-projector/)
-- [2023: The Year of AI](https://journal.everypixel.com/2023-the-year-of-ai)
-- [Japan&#39;s SLIM &#39;moon sniper&#39; lander arrives in lunar orbit for Christmas](https://www.space.com/japan-slim-moon-lander-arrives-lunar-orbit)
+- [The Chevy Blazer EV Launch Has Gone from Rough to Worse as GM Issues Stop-Sale](https://www.thedrive.com/news/the-chevy-blazer-ev-launch-has-gone-from-rough-to-worse-as-gm-issues-stop-sale)
+- [How many legs do ten elephants have, if two of them are legless?](https://bard.google.com/share/038d1dc14e78?hl=en)
+- [Has gratuity culture reached a tipping point?](https://www.newyorker.com/magazine/2023/01/01/has-gratuity-culture-reached-a-tipping-point)
+- [Zapping municipal waste helps recover valuable phosphorus fertilizer](https://phys.org/news/2023-06-zapping-municipal-recover-valuable-phosphorus.html)
+- [A recent software update was not successful. Your vehicle cannot be driven](https://twitter.com/danluu/status/1739387245034139692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
