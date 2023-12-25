@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
+- [Why British chocolate tastes the way it does](https://www.bbc.com/future/article/20231221-why-british-chocolate-tastes-the-way-it-does)
 - [Electricity That&#39;s Too Cheap to Meter](https://shkspr.mobi/blog/2023/12/electricity-thats-too-cheap-to-meter/)
 - [Goodbye Windows Mixed Reality, we hardly knew Microsoft&#39;s VR software](https://liliputing.com/goodbye-windows-mixed-reality-we-hardly-knew-microsofts-vr-software/)
 - [I told the flight attendant &quot;the WiFi isn&#39;t working&quot;](https://x.com/erratarob/status/1739132876732674539?s=46&t=FFxXRm_qmWG4nJwsccRUbA)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
