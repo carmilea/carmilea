@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to practice data analytics skills?](https://news.ycombinator.com/item?id=38765862)
 - [Stirling-PDF: local web application to perform various operations on PDFs](https://github.com/Frooodle/Stirling-PDF)
-- [Most homes for sale in 2023 were not affordable for a typical U.S. household](https://text.npr.org/1221480443)
-- [DIY Night Clock Projector](https://microengineer.eu/2018/05/01/diy-night-clock-projector/)
+- [DIY Night Clock Projector &lpar;2018&rpar;](https://microengineer.eu/2018/05/01/diy-night-clock-projector/)
 - [2023: The Year of AI](https://journal.everypixel.com/2023-the-year-of-ai)
-- [Woman pregnant in each of her two uteruses gives birth to twins](https://www.cnn.com/2023/12/24/health/woman-two-uteruses-birth-twins/index.html)
+- [Japan&#39;s SLIM &#39;moon sniper&#39; lander arrives in lunar orbit for Christmas](https://www.space.com/japan-slim-moon-lander-arrives-lunar-orbit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
