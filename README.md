@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cray-1 vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
-- [x86-64 Assembly Language Programming with Ubuntu &lpar;2022&rpar;](http://www.egr.unlv.edu/~ed/x86.html)
-- [The era of American computer magazines has drawn to a close](https://bytecellar.com/2023/12/23/the-era-of-american-computer-magazines-has-drawn-to-a-close/)
-- [The History of Xenix](https://www.abortretry.fail/p/the-history-of-xenix)
-- [Ask HN: What are you grateful for?](https://news.ycombinator.com/item?id=38757555)
+- [Most people think the U.S. crime rate is rising. They&#39;re wrong](https://www.nbcnews.com/news/us-news/people-think-crime-rate-up-actually-down-rcna129585)
+- [The Star – Arthur C. Clarke &lpar;1967&rpar; [pdf]](https://sites.uni.edu/morgans/astro/course/TheStar.pdf)
+- [GTA 5 source code leaks online](https://www.sportskeeda.com/gta/news-gta-5-source-code-leaks-online-giving-rockstar-huge-blow-christmas-report)
+- [Post-apocalyptic life in American health care](https://metarationality.com/post-apocalyptic-health-care)
+- [Retro-Computing Society of Rhode Island](https://rcsri.org/rcs-info.shtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
