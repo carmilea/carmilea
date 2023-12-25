@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stirling-PDF: local web application to perform various operations on PDFs](https://github.com/Frooodle/Stirling-PDF)
+- [Most homes for sale in 2023 were not affordable for a typical U.S. household](https://text.npr.org/1221480443)
+- [DIY Night Clock Projector](https://microengineer.eu/2018/05/01/diy-night-clock-projector/)
+- [2023: The Year of AI](https://journal.everypixel.com/2023-the-year-of-ai)
 - [Woman pregnant in each of her two uteruses gives birth to twins](https://www.cnn.com/2023/12/24/health/woman-two-uteruses-birth-twins/index.html)
-- [GTA 5 source code reportedly leaked online a year after RockStar hack](https://www.bleepingcomputer.com/news/security/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack/)
-- [Japan&#39;s SLIM &#39;moon sniper&#39; lander arrives in lunar orbit for Christmas](https://www.space.com/japan-slim-moon-lander-arrives-lunar-orbit)
-- [The Neat Programming Language](https://neat-lang.github.io/)
-- [Is Software Getting Worse?](https://stackoverflow.blog/2023/12/25/is-software-getting-worse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
