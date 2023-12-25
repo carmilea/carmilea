@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads is blocking servers on the Fediverse. Here&#39;s how we unblocked ourselves.](https://soapbox.pub/blog/threads-server-blocking/)
+- [2024 could be the year the PC dumps x86 for Arm, thanks to Windows 12](https://www.pcgamer.com/2024-could-be-the-year-the-pc-finally-dumps-x86-for-arm-all-thanks-to-windows-12-and-qualcomms-new-chip/)
 - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 - [Why British chocolate tastes the way it does](https://www.bbc.com/future/article/20231221-why-british-chocolate-tastes-the-way-it-does)
-- [Electricity That&#39;s Too Cheap to Meter](https://shkspr.mobi/blog/2023/12/electricity-thats-too-cheap-to-meter/)
 - [Goodbye Windows Mixed Reality, we hardly knew Microsoft&#39;s VR software](https://liliputing.com/goodbye-windows-mixed-reality-we-hardly-knew-microsofts-vr-software/)
-- [I told the flight attendant &quot;the WiFi isn&#39;t working&quot;](https://x.com/erratarob/status/1739132876732674539?s=46&t=FFxXRm_qmWG4nJwsccRUbA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
