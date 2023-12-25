@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Threads is blocking servers on the Fediverse. Here&#39;s how we unblocked ourselves.](https://soapbox.pub/blog/threads-server-blocking/)
-- [2024 could be the year the PC dumps x86 for Arm, thanks to Windows 12](https://www.pcgamer.com/2024-could-be-the-year-the-pc-finally-dumps-x86-for-arm-all-thanks-to-windows-12-and-qualcomms-new-chip/)
+- [Unblocking User Freedom: the right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.en.html)
 - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
-- [Why British chocolate tastes the way it does](https://www.bbc.com/future/article/20231221-why-british-chocolate-tastes-the-way-it-does)
-- [Goodbye Windows Mixed Reality, we hardly knew Microsoft&#39;s VR software](https://liliputing.com/goodbye-windows-mixed-reality-we-hardly-knew-microsofts-vr-software/)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [A nano like text editor built with pure C](https://github.com/proh14/ptext)
+- [Breakdown of AV1 Video Codec](https://github.com/QuPengfei/Technical-Overview-Of-AV1-Spec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
