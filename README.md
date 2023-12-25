@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What is 10x better than Calendly?](https://news.ycombinator.com/item?id=38761243)
+- [T-Mobile introduce fines from Jan 1 for &quot;Code of Conduct&quot; violations](https://support.bandwidth.com/hc/en-us/articles/19939626519575-New-non-compliance-fees-on-January-1)
 - [Breakdown of faults by car brand: Tesla has replaced Dacia at the bottom](https://www.tuvsud.com/en/press-and-media/2023/november/regular-servicing-makes-all-the-difference)
+- [Serving the web with 6 lines of Rust](https://jeffmitchelldev.wordpress.com/2023/12/24/serving-the-web-with-6-lines-of-rust/)
 - [Zotero for Android available for beta tests](https://forums.zotero.org/discussion/110371/available-for-beta-testing-zotero-for-android)
-- [OpenAI Engineers Earning $800k a Year Turn Rare Skillset into Leverage](https://finance.yahoo.com/news/openai-engineers-earning-800-000-183139353.html)
-- [Ruby 3.3](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
-- [Petrov: A man who lived in the woods of Mendocino County](https://www.ukiahdailyjournal.com/2022/08/02/petrov-the-man-who-lived-in-the-woods/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
