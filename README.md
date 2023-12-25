@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pro-Israel tech group&#39;s &#39;witch hunt&#39; in US targets critics of Gaza war](https://www.aa.com.tr/en/middle-east/pro-israel-tech-groups-witch-hunt-in-us-targets-critics-of-gaza-war/3084033)
+- [NFTs died a slow, painful death in 2023 as most are now worthless](https://www.newscientist.com/article/2406198-nfts-died-a-slow-painful-death-in-2023-as-most-are-now-worthless/)
 - [Cray-1 vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
-- [x86-64 Assembly Language Programming with Ubuntu by Ed Jorgensen](http://www.egr.unlv.edu/~ed/x86.html)
-- [The Era of American Computer Magazines Has Drawn to a Close](https://bytecellar.com/2023/12/23/the-era-of-american-computer-magazines-has-drawn-to-a-close/)
+- [x86-64 Assembly Language Programming with Ubuntu &lpar;2022&rpar;](http://www.egr.unlv.edu/~ed/x86.html)
+- [The era of American computer magazines has drawn to a close](https://bytecellar.com/2023/12/23/the-era-of-american-computer-magazines-has-drawn-to-a-close/)
 - [Mexico is now the 12th largest economy in the world](https://mexiconewsdaily.com/business/mexico-is-now-the-12th-largest-economy-in-the-world/)
 <!-- BLOG-POST-LIST:END -->
 
