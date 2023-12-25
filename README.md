@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unblocking User Freedom: the right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.en.html)
-- [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [A nano like text editor built with pure C](https://github.com/proh14/ptext)
-- [Breakdown of AV1 Video Codec](https://github.com/QuPengfei/Technical-Overview-Of-AV1-Spec)
+- [Patterns &lpar;YC S21&rpar; is hiring to automate analytics with LLMs](https://www.patterns.app/)
+- [War of the workstations: How the lowest bidders shaped today&#39;s tech landscape](https://www.theregister.com/2023/12/25/the_war_of_the_workstations/)
+- [B&amp;H Photo Published an AI-Generated Guide Written by a Fake Person](https://petapixel.com/2023/12/14/bh-photo-published-an-ai-generated-guide-written-by-a-fake-person/)
+- [Matter, set to fix smart home standards in 2023, stumbled in the real market](https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/)
+- [Stupid Patent of the Month: Selfie Contests](https://www.eff.org/deeplinks/2023/12/stupid-patent-month-selfie-contests)
 <!-- BLOG-POST-LIST:END -->
 
 ---
