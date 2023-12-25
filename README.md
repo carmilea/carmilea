@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
+- [Electricity That&#39;s Too Cheap to Meter](https://shkspr.mobi/blog/2023/12/electricity-thats-too-cheap-to-meter/)
+- [Goodbye Windows Mixed Reality, we hardly knew Microsoft&#39;s VR software](https://liliputing.com/goodbye-windows-mixed-reality-we-hardly-knew-microsofts-vr-software/)
+- [I told the flight attendant &quot;the WiFi isn&#39;t working&quot;](https://x.com/erratarob/status/1739132876732674539?s=46&t=FFxXRm_qmWG4nJwsccRUbA)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [T-Mobile introduce fines from Jan 1 for &quot;Code of Conduct&quot; violations](https://support.bandwidth.com/hc/en-us/articles/19939626519575-New-non-compliance-fees-on-January-1)
-- [Breakdown of faults by car brand: Tesla has replaced Dacia at the bottom](https://www.tuvsud.com/en/press-and-media/2023/november/regular-servicing-makes-all-the-difference)
-- [Zotero for Android available for beta tests](https://forums.zotero.org/discussion/110371/available-for-beta-testing-zotero-for-android)
-- [Ruby 3.3](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
