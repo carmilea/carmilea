@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NFTs died a slow, painful death in 2023 as most are now worthless](https://www.newscientist.com/article/2406198-nfts-died-a-slow-painful-death-in-2023-as-most-are-now-worthless/)
 - [Cray-1 vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
 - [x86-64 Assembly Language Programming with Ubuntu &lpar;2022&rpar;](http://www.egr.unlv.edu/~ed/x86.html)
 - [The era of American computer magazines has drawn to a close](https://bytecellar.com/2023/12/23/the-era-of-american-computer-magazines-has-drawn-to-a-close/)
-- [Mexico is now the 12th largest economy in the world](https://mexiconewsdaily.com/business/mexico-is-now-the-12th-largest-economy-in-the-world/)
+- [The History of Xenix](https://www.abortretry.fail/p/the-history-of-xenix)
+- [Ask HN: What are you grateful for?](https://news.ycombinator.com/item?id=38757555)
 <!-- BLOG-POST-LIST:END -->
 
 ---
