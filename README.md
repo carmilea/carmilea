@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After a brutal stretch, cryptocurrencies are surging](https://www.npr.org/2023/12/26/1220603847/crypto-cryptocurrency-bitcoin-ftx-binance-cz-bankman-fried)
+- [Deploying the Octothorpe &lpar;#&rpar;](https://exchanges.warwick.ac.uk/index.php/exchanges/article/download/837/831)
+- [With 1 Sentence, Patagonia Just Gave a Masterclass on How to Treat Your People](https://www.inc.com/jason-aten/with-1-sentence-patagonia-just-gave-a-masterclass-on-how-to-treat-your-people.html)
+- [Holiday Spending Increased, Defying Fears of a Decline](https://www.nytimes.com/2023/12/26/business/economy/christmas-holiday-spending-retail.html)
+- [Shelf life: novelist Hanya Yanagihara on living with 12,000 books &lpar;2017&rpar;](https://www.theguardian.com/books/2017/aug/12/homes-author-hanya-yanagihara-new-york-12000-books)
 - [Obsidian 1.5 Desktop &lpar;Public&rpar;](https://obsidian.md/changelog/2023-12-26-desktop-v1.5.3/)
-- [Website Search Hurts My Feelings](https://www.openmymind.net/Your-Website-Search-Hurts-My-Feelings/)
-- [Ask HN: How are you using ChatGPT for yourself?](https://news.ycombinator.com/item?id=38771488)
-- [Why Prusa is floundering, and how you can avoid their fate](https://drewdevault.com/2023/12/26/2023-12-26-Prusa-is-floundering.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
