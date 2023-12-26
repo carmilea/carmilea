@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After a brutal stretch, cryptocurrencies are surging](https://www.npr.org/2023/12/26/1220603847/crypto-cryptocurrency-bitcoin-ftx-binance-cz-bankman-fried)
+- [Obsidian 1.5 Desktop &lpar;Public&rpar;](https://obsidian.md/changelog/2023-12-26-desktop-v1.5.3/)
 - [Website Search Hurts My Feelings](https://www.openmymind.net/Your-Website-Search-Hurts-My-Feelings/)
+- [Ask HN: How are you using ChatGPT for yourself?](https://news.ycombinator.com/item?id=38771488)
 - [Why Prusa is floundering, and how you can avoid their fate](https://drewdevault.com/2023/12/26/2023-12-26-Prusa-is-floundering.html)
-- [Extinguishing the EV Battery Fire Hype](https://spectrum.ieee.org/lithium-ion-battery-fires)
-- [The effects of grounding &lpar;earthing&rpar; on inflammation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378297/)
-- [Gas utilities used tobacco tactics to avoid gas stove regulations](https://www.npr.org/2023/10/17/1183551603/gas-stove-utility-tobacco)
 <!-- BLOG-POST-LIST:END -->
 
 ---
