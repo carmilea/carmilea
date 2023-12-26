@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
+- [Challenging projects every programmer should try &lpar;2019&rpar;](https://austinhenley.com/blog/challengingprojects.html)
 - [Let it snow&lpar;&rpar;](https://discourse.julialang.org/t/let-it-snow/72950)
-- [The hunter-gather brain is closer to the ADHD brain](https://www.londonpsychiatry.clinic/blog/hunter-gatherers-to-modern-biohackers)
+- [Not All Exercise Is Beneficial: The Physical Activity Paradox Explained](https://www.medscape.com/viewarticle/998772)
 - [High school student allegedly uses device to turn off nearby iPhones](https://www.arlnow.com/2023/12/19/__trashed-8/)
 - [What are farm animals thinking?](https://www.science.org/content/article/not-dumb-creatures-livestock-surprise-scientists-their-complex-emotional-minds/?src=longreads)
 <!-- BLOG-POST-LIST:END -->
