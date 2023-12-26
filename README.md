@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A List of Hacker News&#39;s Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
+- [Colorado wolf reintroduction to move forward as ranchers&#39; legal effort fails](https://phys.org/news/2023-12-colorado-wolf-reintroduction-ranchers-legal.html)
+- [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
+- [How to Perfectly Crack an Egg &lpar;With One Hand&rpar; [video]](https://www.youtube.com/watch?v=AE-XeZ3R98U)
+- [A list of Hacker News&#39;s undocumented features and behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
 - [12VO power standard appears to be gaining steam, will reduce PC cabling, costs](https://www.tomshardware.com/pc-components/power-supplies/the-12vo-power-standard-appears-to-be-gaining-steam-new-standard-will-reduce-pc-cabling-and-costs)
-- [The Invisible Screen – An E-Paper Smart Display](https://shop.invisible-computers.com/products/invisible-calendar)
-- [Positive News for 2023](https://www.gapminder.org/news/100-positive-news-from-2023/)
-- [Japan to crack down on Apple and Google app store monopolies](https://asia.nikkei.com/Business/Technology/Japan-to-crack-down-on-Apple-and-Google-app-store-monopolies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
