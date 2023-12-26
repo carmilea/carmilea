@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wealthy Americans say it&#39;s harder than ever to build and protect wealth](https://www.investmentnews.com/industry-news/news/wealthy-americans-say-its-harder-than-ever-to-build-and-protect-wealth-247363)
+- [History of Alice and Bob](http://cryptocouple.com/)
+- [Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
 - [Women from privileged backgrounds pursue prestigious professions over lucrative](https://phys.org/news/2023-12-women-privileged-backgrounds-pursue-prestigious.html)
 - [30 years of Donald Knuth&#39;s &#39;Christmas Lectures&#39; are online – including 2023&#39;s](https://science.slashdot.org/story/23/12/23/0516244/30-years-of-donald-knuths-christmas-lectures-go-online---including-2023s)
-- [FUSE-T is a kext-less implementation of FUSE for macOS that uses NFSv4](https://github.com/macos-fuse-t/fuse-t)
-- [Moderna&#39;s mRNA cancer vaccine works even better than thought](https://www.freethink.com/health/cancer-vaccine)
-- [There is a misconception that if something&#39;s on the internet it&#39;ll last for](https://www.theguardian.com/media/2023/nov/18/giulia-carla-rossi-british-library-digital-curator-preserving-internet-publications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
