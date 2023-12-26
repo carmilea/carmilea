@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Women from privileged backgrounds pursue prestigious professions over lucrative](https://phys.org/news/2023-12-women-privileged-backgrounds-pursue-prestigious.html)
+- [30 years of Donald Knuth&#39;s &#39;Christmas Lectures&#39; are online – including 2023&#39;s](https://science.slashdot.org/story/23/12/23/0516244/30-years-of-donald-knuths-christmas-lectures-go-online---including-2023s)
+- [FUSE-T is a kext-less implementation of FUSE for macOS that uses NFSv4](https://github.com/macos-fuse-t/fuse-t)
+- [Moderna&#39;s mRNA cancer vaccine works even better than thought](https://www.freethink.com/health/cancer-vaccine)
 - [There is a misconception that if something&#39;s on the internet it&#39;ll last for](https://www.theguardian.com/media/2023/nov/18/giulia-carla-rossi-british-library-digital-curator-preserving-internet-publications)
-- [Colorado wolf reintroduction to move forward as ranchers&#39; legal effort fails](https://phys.org/news/2023-12-colorado-wolf-reintroduction-ranchers-legal.html)
-- [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
-- [How to Perfectly Crack an Egg &lpar;With One Hand&rpar; [video]](https://www.youtube.com/watch?v=AE-XeZ3R98U)
-- [A list of Hacker News&#39;s undocumented features and behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
