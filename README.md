@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Croquet: Live, network-transparent 3D gaming](https://www.theregister.com/2023/03/23/croquet_for_unity/)
 - [Steve Jobs emails Eric Schmidt &lpar;2007&rpar;](https://twitter.com/TechEmails/status/1443263744906305543)
 - [All I want for Christmas is 1TW of solar deployed annually](https://pv-magazine-usa.com/2023/12/25/all-i-want-for-christmas-is-one-terawatt-of-solar-deployed-annually/)
 - [The life and death of open source companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
 - [Challenging projects every programmer should try &lpar;2019&rpar;](https://austinhenley.com/blog/challengingprojects.html)
-- [Let it snow&lpar;&rpar;](https://discourse.julialang.org/t/let-it-snow/72950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
