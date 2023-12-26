@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
+- [Let it snow&lpar;&rpar;](https://discourse.julialang.org/t/let-it-snow/72950)
+- [High school student allegedly uses device to turn off nearby iPhones](https://www.arlnow.com/2023/12/19/__trashed-8/)
 - [Maildir-utils: index, search and manage Maildir mailboxes](https://www.djcbsoftware.nl/code/mu/)
 - [What are farm animals thinking?](https://www.science.org/content/article/not-dumb-creatures-livestock-surprise-scientists-their-complex-emotional-minds/?src=longreads)
-- [&quot;Simple Made Easy&quot; – Rich Hickey &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=SxdOUGdseq4)
-- [Fed court rules for retired engineer told by state to not talk about math](https://www.wect.com/2023/12/20/federal-court-decides-favor-retired-engineer-told-by-state-not-talk-about-math-public/)
-- [DreamCoder: Growing Generalizable, Interpretable Knowledge](https://arxiv.org/abs/2006.08381)
 <!-- BLOG-POST-LIST:END -->
 
 ---
