@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A List of Hacker News&#39;s Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
+- [12VO power standard appears to be gaining steam, will reduce PC cabling, costs](https://www.tomshardware.com/pc-components/power-supplies/the-12vo-power-standard-appears-to-be-gaining-steam-new-standard-will-reduce-pc-cabling-and-costs)
+- [The Invisible Screen – An E-Paper Smart Display](https://shop.invisible-computers.com/products/invisible-calendar)
+- [Positive News for 2023](https://www.gapminder.org/news/100-positive-news-from-2023/)
 - [Japan to crack down on Apple and Google app store monopolies](https://asia.nikkei.com/Business/Technology/Japan-to-crack-down-on-Apple-and-Google-app-store-monopolies)
-- [Quality of care declines after private equity takes over hospitals](https://medicalxpress.com/news/2023-12-quality-declines-private-equity-hospitals.html)
-- [How to Run Hackathons in 2024](https://gitroom.com/blog/run-hackathons-2024)
-- [Apple appeals US ban on Apple Watch](https://www.theverge.com/2023/12/26/24015238/apple-watch-ban-response-store-appeal-stay-court)
-- [No last-minute reprieve, US ban on some Apple Watch sales now in effect](https://arstechnica.com/apple/2023/12/no-last-minute-reprieve-us-ban-on-some-apple-watch-sales-now-in-effect/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
