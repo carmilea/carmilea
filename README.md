@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The effects of grounding &lpar;earthing&rpar; on inflammation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378297/)
+- [Gas utilities used tobacco tactics to avoid gas stove regulations](https://www.npr.org/2023/10/17/1183551603/gas-stove-utility-tobacco)
 - [UK becomes first G20 country to halve its carbon emissions](https://www.spectator.co.uk/article/uk-becomes-first-g20-country-to-halve-its-carbon-emissions/)
 - [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
 - [A copy-and-patch JIT compiler for CPython](https://github.com/python/cpython/pull/113465)
-- [Croquet: Live, network-transparent 3D gaming](https://www.theregister.com/2023/03/23/croquet_for_unity/)
-- [Cathedral, Mountain, Moon](https://apod.nasa.gov/apod/ap231225.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
