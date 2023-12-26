@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [There is a misconception that if something&#39;s on the internet it&#39;ll last for](https://www.theguardian.com/media/2023/nov/18/giulia-carla-rossi-british-library-digital-curator-preserving-internet-publications)
 - [Colorado wolf reintroduction to move forward as ranchers&#39; legal effort fails](https://phys.org/news/2023-12-colorado-wolf-reintroduction-ranchers-legal.html)
 - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
 - [How to Perfectly Crack an Egg &lpar;With One Hand&rpar; [video]](https://www.youtube.com/watch?v=AE-XeZ3R98U)
 - [A list of Hacker News&#39;s undocumented features and behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
-- [12VO power standard appears to be gaining steam, will reduce PC cabling, costs](https://www.tomshardware.com/pc-components/power-supplies/the-12vo-power-standard-appears-to-be-gaining-steam-new-standard-will-reduce-pc-cabling-and-costs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
