@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying the Octothorpe &lpar;#&rpar;](https://exchanges.warwick.ac.uk/index.php/exchanges/article/download/837/831)
-- [With 1 Sentence, Patagonia Just Gave a Masterclass on How to Treat Your People](https://www.inc.com/jason-aten/with-1-sentence-patagonia-just-gave-a-masterclass-on-how-to-treat-your-people.html)
-- [Holiday Spending Increased, Defying Fears of a Decline](https://www.nytimes.com/2023/12/26/business/economy/christmas-holiday-spending-retail.html)
-- [Shelf life: novelist Hanya Yanagihara on living with 12,000 books &lpar;2017&rpar;](https://www.theguardian.com/books/2017/aug/12/homes-author-hanya-yanagihara-new-york-12000-books)
-- [Obsidian 1.5 Desktop &lpar;Public&rpar;](https://obsidian.md/changelog/2023-12-26-desktop-v1.5.3/)
+- [Japan to crack down on Apple and Google app store monopolies](https://asia.nikkei.com/Business/Technology/Japan-to-crack-down-on-Apple-and-Google-app-store-monopolies)
+- [Quality of care declines after private equity takes over hospitals](https://medicalxpress.com/news/2023-12-quality-declines-private-equity-hospitals.html)
+- [How to Run Hackathons in 2024](https://gitroom.com/blog/run-hackathons-2024)
+- [Apple appeals US ban on Apple Watch](https://www.theverge.com/2023/12/26/24015238/apple-watch-ban-response-store-appeal-stay-court)
+- [No last-minute reprieve, US ban on some Apple Watch sales now in effect](https://arstechnica.com/apple/2023/12/no-last-minute-reprieve-us-ban-on-some-apple-watch-sales-now-in-effect/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
