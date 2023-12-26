@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
+- [It&#39;s All Bullshit](https://thebaffler.com/latest/its-all-bullshit-tan)
 - [A copy-and-patch JIT compiler for CPython](https://github.com/python/cpython/pull/113465)
-- [All I want for Christmas is 1TW of solar deployed annually](https://pv-magazine-usa.com/2023/12/25/all-i-want-for-christmas-is-one-terawatt-of-solar-deployed-annually/)
+- [Croquet: Live, network-transparent 3D gaming](https://www.theregister.com/2023/03/23/croquet_for_unity/)
 - [Cathedral, Mountain, Moon](https://apod.nasa.gov/apod/ap231225.html)
-- [The life and death of open source companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
