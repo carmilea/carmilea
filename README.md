@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A copy-and-patch JIT compiler for CPython](https://github.com/python/cpython/pull/113465)
 - [Croquet: Live, network-transparent 3D gaming](https://www.theregister.com/2023/03/23/croquet_for_unity/)
 - [Steve Jobs emails Eric Schmidt &lpar;2007&rpar;](https://twitter.com/TechEmails/status/1443263744906305543)
 - [All I want for Christmas is 1TW of solar deployed annually](https://pv-magazine-usa.com/2023/12/25/all-i-want-for-christmas-is-one-terawatt-of-solar-deployed-annually/)
-- [The life and death of open source companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
-- [Challenging projects every programmer should try &lpar;2019&rpar;](https://austinhenley.com/blog/challengingprojects.html)
+- [Cathedral, Mountain, Moon](https://apod.nasa.gov/apod/ap231225.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
