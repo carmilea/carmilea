@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolving Reservoirs for Meta Reinforcement Learning](https://arxiv.org/abs/2312.06695)
-- [The dark side of social media on youth mental health](https://www.psypost.org/2023/12/the-dark-side-of-social-media-on-youth-mental-health-215179)
-- [Zapping municipal waste helps recover valuable phosphorus fertilizer](https://phys.org/news/2023-06-zapping-municipal-recover-valuable-phosphorus.html)
-- [Data scientists need to learn about significant digits](https://lemire.me/blog/2019/01/29/data-scientists-need-to-learn-about-significant-digits/)
-- [Stirling-PDF: local web application to perform various operations on PDFs](https://github.com/Frooodle/Stirling-PDF)
+- [Live in Cook County Jail](https://en.wikipedia.org/wiki/Live_in_Cook_County_Jail)
+- [Electronic soil boosts crop growth by over 50%](https://www.earth.com/news/electronic-soil-boosts-crop-growth-by-over-50/)
+- [Mystery of missing MH370 could be solved in a matter of &quot;days&quot;](https://www.news.com.au/travel/travel-updates/new-claim-mh370-hijacked-by-experienced-pilot-before-disappearance/news-story/fde7cda0991c581cafcf504f12090362)
+- [NYU Student Owns a $6M Crypto Mine. His Secret Is Out](https://www.nytimes.com/2023/12/25/technology/bitrush-bitcoin-cryptocurrency-china.html)
+- [Emulating an iPod Touch 2G using QEMU](https://devos50.github.io/blog/2023/ipod-touch-2g-qemu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
