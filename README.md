@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Simple Made Easy&quot; – Rich Hickey &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=SxdOUGdseq4)
+- [Fed court rules for retired engineer told by state to not talk about math](https://www.wect.com/2023/12/20/federal-court-decides-favor-retired-engineer-told-by-state-not-talk-about-math-public/)
+- [DreamCoder: Growing Generalizable, Interpretable Knowledge](https://arxiv.org/abs/2006.08381)
 - [Live in Cook County Jail](https://en.wikipedia.org/wiki/Live_in_Cook_County_Jail)
 - [Electronic soil boosts crop growth by over 50%](https://www.earth.com/news/electronic-soil-boosts-crop-growth-by-over-50/)
-- [Mystery of missing MH370 could be solved in a matter of &quot;days&quot;](https://www.news.com.au/travel/travel-updates/new-claim-mh370-hijacked-by-experienced-pilot-before-disappearance/news-story/fde7cda0991c581cafcf504f12090362)
-- [NYU Student Owns a $6M Crypto Mine. His Secret Is Out](https://www.nytimes.com/2023/12/25/technology/bitrush-bitcoin-cryptocurrency-china.html)
-- [Emulating an iPod Touch 2G using QEMU](https://devos50.github.io/blog/2023/ipod-touch-2g-qemu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
