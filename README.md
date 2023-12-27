@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists Destroy 99% of Cancer Cells in the Lab Using Vibrating Molecules](https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules)
-- [Change of Name: Coq –&gt; The Rocq Prover](https://github.com/coq/ceps/blob/coq-roadmap/text/069-coq-roadmap.md)
+- [37c3 Live Streams](https://streaming.media.ccc.de/37c3)
+- [2023: Focusing on a single product pays off](https://maxrozen.com/2023-focus-single-product-pays-off)
+- [Show HN: I&#39;ve built a tool that summarizes 3-hour YouTube videos](https://voxweave.xyz/)
+- [Light-induced whole-molecule vibration can rupture melanoma cells’ membrane](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
 - [Reminiscing CGI Scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
-- [A programming language coding in a grid](https://github.com/SPLWare/esProc/wiki/A-programming-language-coding-in-a-grid)
-- [Apollo 11 vs. USB-C Chargers &lpar;2020&rpar;](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
