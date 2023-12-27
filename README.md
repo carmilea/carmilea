@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What comes after open source? Bruce Perens is working on it](https://www.theregister.com/2023/12/27/bruce_perens_post_open/)
-- [Injection of &quot;smart insulin&quot; regulates blood glucose levels for one week](https://arstechnica.com/health/2023/12/injection-of-smart-insulin-regulates-blood-glucose-levels-for-one-week/)
-- [A National Evil – the curse of the goitre in Switzerland](https://www.lrb.co.uk/the-paper/v45/n23/jonah-goodman/a-national-evil)
-- [We Turned the Tide in the Roach Wars](https://www.theatlantic.com/podcasts/archive/2023/11/cockroach-bait-invention-combat/676167/)
-- [Reindeer Sleep and Eat Simultaneously](https://www.smithsonianmag.com/science-nature/reindeer-sleep-and-eat-simultaneously-saving-precious-time-in-the-short-arctic-summer-180983495/)
+- [&#39;A business model based on mass copyright infringement&#39;](https://www.theregister.com/2023/12/27/the_new_york_times_files/)
+- [4-year campaign backdoored iPhones using possibly most advanced exploit ever](https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/)
+- [Julia 1.10 Released](https://docs.julialang.org/en/v1/NEWS/)
+- [Apple wins bid to pause Apple Watch ban at US appeals court](https://www.reuters.com/legal/apple-wins-bid-pause-apple-watch-ban-us-appeals-court-2023-12-27/)
+- [The ghost of a colonial road on the eastern side of the Chrysler Building](https://ephemeralnewyork.wordpress.com/tag/building-the-chrysler-building/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
