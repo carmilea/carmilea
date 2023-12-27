@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
+- [Why We Sleep: a tale of institutional failure &lpar;2020&rpar;](https://yngve.hoiseth.net/articles/why-we-sleep-institutional-failure/)
 - [The Curse of the Excluded Middle &lpar;2014&rpar;](https://queue.acm.org/detail.cfm?id=2611829)
-- [Scientists Destroy 99% of Cancer Cells in the Lab Using Vibrating Molecules](https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules)
 - [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
-- [Show HN: Scan QR codes to check-in guests registered via Google Forms™](https://workspace.google.com/marketplace/app/qr_code_ticket_for_attendance/9398047938)
+- [PartCAD the first package manager for CAD models](https://github.com/openvmp/partcad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
