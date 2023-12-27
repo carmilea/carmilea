@@ -58,7 +58,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [37c3 Live Streams](https://streaming.media.ccc.de/37c3)
 - [2023: Focusing on a single product pays off](https://maxrozen.com/2023-focus-single-product-pays-off)
-- [Show HN: I&#39;ve built a tool that summarizes 3-hour YouTube videos](https://voxweave.xyz/)
+- [Hrvach/Deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
 - [Light-induced whole-molecule vibration can rupture melanoma cells’ membrane](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
 - [Reminiscing CGI Scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 <!-- BLOG-POST-LIST:END -->
