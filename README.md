@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Schedule 37th Chaos Communication Congress](https://fahrplan.events.ccc.de/congress/2023/fahrplan/timeline.html)
-- [History of Alice and Bob](http://cryptocouple.com/)
-- [Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
-- [30 years of Donald Knuth&#39;s &#39;Christmas Lectures&#39; are online – including 2023&#39;s](https://science.slashdot.org/story/23/12/23/0516244/30-years-of-donald-knuths-christmas-lectures-go-online---including-2023s)
-- [Putting the &quot;J&quot; in the RPG, Part 2: Playstation for the Win](https://www.filfre.net/2023/12/putting-the-j-in-the-rpg-part-2-playstation-for-the-win/)
+- [Imbue &lpar;FKA Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Technical Interviewer](https://news.ycombinator.com/item?id=38777908)
+- [Things Software Developers Should Learn about Learning](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)
+- [Amazon Prime Video Will Start Showing Ads on January 29](https://www.theverge.com/2023/12/26/24015595/amazon-prime-video-ads-coming-january-29)
+- [A SimCity Interactive Map of Chicago&#39;s Zoning](https://secondcityzoning.org)
+- [Reckless DMCA Deindexing Pushes NASA&#39;s Artemis Towards Black Hole](https://torrentfreak.com/reckless-dmca-deindexing-pushes-nasas-artemis-towards-black-hole-231226/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
