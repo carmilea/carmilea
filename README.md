@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s up Python? Epic CPython commit, Django 5 and 2FA for PyPI](https://www.bitecode.dev/p/whats-up-python-epic-cpython-commit)
-- [&#39;A business model based on mass copyright infringement&#39;](https://www.theregister.com/2023/12/27/the_new_york_times_files/)
-- [4-year campaign backdoored iPhones using possibly most advanced exploit ever](https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/)
-- [Julia 1.10 Released](https://docs.julialang.org/en/v1/NEWS/)
-- [Apple wins bid to pause Apple Watch ban at US appeals court](https://www.reuters.com/legal/apple-wins-bid-pause-apple-watch-ban-us-appeals-court-2023-12-27/)
+- [The Curse of the Excluded Middle](https://queue.acm.org/detail.cfm?id=2611829)
+- [California Pizza Huts lay off all delivery drivers ahead of minimum wage increas](https://www.usatoday.com/story/money/2023/12/26/pizza-hut-layoffs-california-minimum-wage/72033582007/)
+- [Scientists Destroy 99% of Cancer Cells in the Lab Using Vibrating Molecules](https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules)
+- [Show HN: Scan QR codes to check-in guests registered via Google Forms™](https://workspace.google.com/marketplace/app/qr_code_ticket_for_attendance/9398047938)
+- [HyperRogue, a open-source non-Euclidean roguelike: new weapons](http://zenorogue.blogspot.com/2023/12/hyperrogue-130.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
