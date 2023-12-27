@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists discover the first new antibiotics in over 60 years using AI](https://www.euronews.com/next/2023/12/20/scientists-discover-the-first-new-antibiotics-in-over-60-years-using-ai)
+- [Swiss Privacy and Honest Competition](https://proton.me/blog/swiss-privacy-honest-competition)
 - [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
 - [Will scaling work?](https://www.dwarkeshpatel.com/p/will-scaling-work)
 - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
-- [Tell HN: Hacker News dataset on BigQuery hasn&#39;t been updated since Nov 2022](https://news.ycombinator.com/item?id=38781031)
-- [2023: Focusing on a single product pays off](https://maxrozen.com/2023-focus-single-product-pays-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
