@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlock Complex Time Series Analysis in SQL with Range Queries](https://greptime.com/blogs/2023-12-26-range-query)
+- [History-making SpaceX booster mostly destroyed in post-flight topple](http://www.collectspace.com/news/news-122623a-spacex-falcon-9-first-stage-1058-lost-recovery.html)
 - [Apollo 11 vs. USB-C Chargers](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
 - [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
 - [Open Source Clones of Games](https://osgameclones.com/)
-- [Hubble sights a galaxy with &#39;forbidden&#39; light](https://phys.org/news/2023-12-hubble-sights-galaxy-forbidden.html)
-- [Optimizing Raku Programs with Zig](https://raku-advent.blog/2023/12/23/day-23-optimizing-raku-programs-with-zig/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
