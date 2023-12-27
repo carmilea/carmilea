@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apollo 11 vs. USB-C Chargers](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
 - [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
-- [Ask HN: Best offline LLM in case OpenAI goes rogue?](https://news.ycombinator.com/item?id=38778330)
-- [Imbue &lpar;FKA Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Technical Interviewer](https://news.ycombinator.com/item?id=38777908)
-- [Things software developers should learn about learning](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)
-- [Amazon Prime Video Will Start Showing Ads on January 29](https://www.theverge.com/2023/12/26/24015595/amazon-prime-video-ads-coming-january-29)
+- [Open Source Clones of Games](https://osgameclones.com/)
+- [Hubble sights a galaxy with &#39;forbidden&#39; light](https://phys.org/news/2023-12-hubble-sights-galaxy-forbidden.html)
+- [Optimizing Raku Programs with Zig](https://raku-advent.blog/2023/12/23/day-23-optimizing-raku-programs-with-zig/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
