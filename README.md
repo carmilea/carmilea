@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
+- [Will scaling work?](https://www.dwarkeshpatel.com/p/will-scaling-work)
 - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
+- [Tell HN: Hacker News dataset on BigQuery hasn&#39;t been updated since Nov 2022](https://news.ycombinator.com/item?id=38781031)
 - [2023: Focusing on a single product pays off](https://maxrozen.com/2023-focus-single-product-pays-off)
-- [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
-- [CSS Is Fun Again](https://pdx.su/blog/2023-10-25-css-is-fun-again/)
-- [Light-induced whole-molecule vibration can rupture melanoma cells’ membrane](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
 <!-- BLOG-POST-LIST:END -->
 
 ---
