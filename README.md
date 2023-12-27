@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reminiscing CGI Scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 - [A programming language coding in a grid](https://github.com/SPLWare/esProc/wiki/A-programming-language-coding-in-a-grid)
 - [History-making SpaceX booster mostly destroyed in post-flight topple](http://www.collectspace.com/news/news-122623a-spacex-falcon-9-first-stage-1058-lost-recovery.html)
 - [Apollo 11 vs. USB-C Chargers &lpar;2020&rpar;](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
 - [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
-- [Open Source Game Clones](https://osgameclones.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
