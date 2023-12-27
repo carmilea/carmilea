@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists discover the first new antibiotics in over 60 years using AI](https://www.euronews.com/next/2023/12/20/scientists-discover-the-first-new-antibiotics-in-over-60-years-using-ai)
-- [Swiss Privacy and Honest Competition](https://proton.me/blog/swiss-privacy-honest-competition)
-- [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
-- [Will scaling work?](https://www.dwarkeshpatel.com/p/will-scaling-work)
-- [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
+- [Injection of &quot;smart insulin&quot; regulates blood glucose levels for one week](https://arstechnica.com/health/2023/12/injection-of-smart-insulin-regulates-blood-glucose-levels-for-one-week/)
+- [A National Evil – the curse of the goitre in Switzerland](https://www.lrb.co.uk/the-paper/v45/n23/jonah-goodman/a-national-evil)
+- [We Turned the Tide in the Roach Wars](https://www.theatlantic.com/podcasts/archive/2023/11/cockroach-bait-invention-combat/676167/)
+- [Reindeer Sleep and Eat Simultaneously](https://www.smithsonianmag.com/science-nature/reindeer-sleep-and-eat-simultaneously-saving-precious-time-in-the-short-arctic-summer-180983495/)
+- [Pushing ChatGPT&#39;s Structured Data Support to Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
