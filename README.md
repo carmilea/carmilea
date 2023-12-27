@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Curse of the Excluded Middle](https://queue.acm.org/detail.cfm?id=2611829)
-- [California Pizza Huts lay off all delivery drivers ahead of minimum wage increas](https://www.usatoday.com/story/money/2023/12/26/pizza-hut-layoffs-california-minimum-wage/72033582007/)
+- [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
+- [The Curse of the Excluded Middle &lpar;2014&rpar;](https://queue.acm.org/detail.cfm?id=2611829)
 - [Scientists Destroy 99% of Cancer Cells in the Lab Using Vibrating Molecules](https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules)
+- [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
 - [Show HN: Scan QR codes to check-in guests registered via Google Forms™](https://workspace.google.com/marketplace/app/qr_code_ticket_for_attendance/9398047938)
-- [HyperRogue, a open-source non-Euclidean roguelike: new weapons](http://zenorogue.blogspot.com/2023/12/hyperrogue-130.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
