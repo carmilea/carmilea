@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Rem: Remember Everything &lpar;open source&rpar;](https://github.com/jasonjmcghee/rem)
+- [Apple Watch Series 9 and Ultra 2 returning to select Apple Stores](https://9to5mac.com/2023/12/27/apple-watch-series-9-and-ultra-2-returning-to-select-apple-stores-today-online-tomorrow/)
 - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
-- [Why We Sleep: a tale of institutional failure &lpar;2020&rpar;](https://yngve.hoiseth.net/articles/why-we-sleep-institutional-failure/)
 - [The Curse of the Excluded Middle &lpar;2014&rpar;](https://queue.acm.org/detail.cfm?id=2611829)
 - [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
-- [PartCAD the first package manager for CAD models](https://github.com/openvmp/partcad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
