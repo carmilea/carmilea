@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Docs Deserve More Respect](https://www.ramijames.com/thoughts/docs-deserve-more-respect)
 - [Jerry &lpar;YC S17&rpar; Is Hiring PMs, Engineers, Data Roles &lpar;Remote&rpar;](https://getjerry.com/careers)
 - [Game-icons.net: Free icons for your games](https://game-icons.net/)
 - [Breaking &quot;DRM&quot; in Polish trains [video] – 37c3 presentation](https://streaming.media.ccc.de/37c3/relive/12142)
 - [Valetudo – Cloud replacement for vacuum robots enabling local-only operation](https://valetudo.cloud/)
-- [No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability](https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities)
 <!-- BLOG-POST-LIST:END -->
 
 ---
