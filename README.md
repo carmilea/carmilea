@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Are EU banks just mass surveillance devices?](https://news.ycombinator.com/item?id=38798242)
+- [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
 - [Dark Visitors – A list of known AI agents on the internet](https://darkvisitors.com)
-- [Original Sling&#39;n&#39;shoot Worms Game](http://www.liero.be/)
-- [Ask HN: What are ethical companies like Patagonia and some digital counterparts?](https://news.ycombinator.com/item?id=38796842)
-- [Doola a &quot;Business-in-a-Box&quot; &lpar;YC S20&rpar; Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
-- [Details on Xiaomi EV](https://www.engadget.com/xiaomi-says-its-su7-ev-can-outperform-porsche-and-has-more-tech-than-tesla-095637762.html)
+- [Liero – Sling&#39;n&#39;shoot Worms Game](http://www.liero.be/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
