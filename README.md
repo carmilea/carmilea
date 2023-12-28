@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nothing I Buy Works](https://walterkirn.substack.com/p/generation-junk)
+- [Unix as IDE &lpar;2012&rpar;](https://blog.sanctum.geek.nz/series/unix-as-ide/)
+- [The Smothers Brothers Comedy Hour](https://tvtropes.org/pmwiki/pmwiki.php/Series/TheSmothersBrothersComedyHour)
+- [Generation Junk](https://walterkirn.substack.com/p/generation-junk)
 - [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists)
 - [Docs Deserve More Respect](https://www.ramijames.com/thoughts/docs-deserve-more-respect)
-- [Jerry &lpar;YC S17&rpar; Is Hiring PMs, Engineers, Data Roles &lpar;Remote&rpar;](https://getjerry.com/careers)
-- [Game-icons.net: Free icons for your games](https://game-icons.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
