@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Are EU banks just mass surveillance devices?](https://news.ycombinator.com/item?id=38798242)
-- [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
+- [Kagi – Sourcing from Brave Search, improved image search, and new Safari ext](https://kagi.com/changelog#2793)
+- [You can&#39;t do that because I hate you](https://bvisness.me/you-cant/)
 - [Dark Visitors – A list of known AI agents on the internet](https://darkvisitors.com)
+- [Hexcodle](https://hexcodle.com/)
 - [Liero – Sling&#39;n&#39;shoot Worms Game](http://www.liero.be/)
 <!-- BLOG-POST-LIST:END -->
 
