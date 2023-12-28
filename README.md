@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How random is Xkcd? &lpar;2015&rpar;](https://hardmath123.github.io/xkcd-random.html)
+- [Lode Runner &lpar;HTML5 Remake&rpar;](https://loderunnerwebgame.com/game/)
+- [How random is xkcd? &lpar;2015&rpar;](https://hardmath123.github.io/xkcd-random.html)
 - [Ashby &lpar;YC W19&rpar; Hiring Eng Managers to Rethink Eng Culture &lpar;EMEA and Americas&rpar;](https://www.ashbyhq.com/careers?utm_source=hn)
 - [IDEs we had 30 years ago](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 - [37C3 Video List](https://media.ccc.de/b/congress/2023)
-- [Outlook/Hotmail is no longer blocking my mail server](https://taoshu.in/net/outlook-delist.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
