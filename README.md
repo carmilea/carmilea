@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kagi – Sourcing from Brave Search, improved image search, and new Safari ext](https://kagi.com/changelog#2793)
+- [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
+- [BCHS software stack: BSD, C, httpd, SQLite](https://learnbchs.org/)
 - [You can&#39;t do that because I hate you](https://bvisness.me/you-cant/)
 - [Dark Visitors – A list of known AI agents on the internet](https://darkvisitors.com)
 - [Hexcodle](https://hexcodle.com/)
-- [Liero – Sling&#39;n&#39;shoot Worms Game](http://www.liero.be/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
