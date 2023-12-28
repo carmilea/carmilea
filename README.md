@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New U.S. immigration rules spur more visa approvals for STEM workers](https://www.science.org/content/article/new-u-s-immigration-rules-spur-more-visa-approvals-stem-workers)
+- [The Most Compelling Reason to Use Firefox Is Sync That Works](https://www.howtogeek.com/the-best-reason-to-use-firefox-is-sync-that-actually-works/)
+- [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
 - [I am the fold &lpar;2015&rpar;](https://iamthefold.com)
 - [Lode Runner &lpar;HTML5 Remake&rpar;](https://loderunnerwebgame.com/game/)
-- [How random is xkcd? &lpar;2015&rpar;](https://hardmath123.github.io/xkcd-random.html)
-- [Ashby &lpar;YC W19&rpar; Hiring Eng Managers to Rethink Eng Culture &lpar;EMEA and Americas&rpar;](https://www.ashbyhq.com/careers?utm_source=hn)
-- [IDEs we had 30 years ago](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 <!-- BLOG-POST-LIST:END -->
 
 ---
