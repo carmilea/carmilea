@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Little File Explorer – ~40KB File Manager for Android 1.0 and above](https://github.com/martinmimigames/little-file-explorer)
 - [Unix as IDE &lpar;2012&rpar;](https://blog.sanctum.geek.nz/series/unix-as-ide/)
 - [The Smothers Brothers Comedy Hour](https://tvtropes.org/pmwiki/pmwiki.php/Series/TheSmothersBrothersComedyHour)
 - [Generation Junk](https://walterkirn.substack.com/p/generation-junk)
 - [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists)
-- [Docs Deserve More Respect](https://www.ramijames.com/thoughts/docs-deserve-more-respect)
 <!-- BLOG-POST-LIST:END -->
 
 ---
