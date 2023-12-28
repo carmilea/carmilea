@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark Visitors – A list of known AI agents on the internet](https://darkvisitors.com)
 - [Original Sling&#39;n&#39;shoot Worms Game](http://www.liero.be/)
-- [Lapce: Fast and Powerful Code Editor Written in Rust](https://github.com/lapce/lapce)
+- [Ask HN: What are ethical companies like Patagonia and some digital counterparts?](https://news.ycombinator.com/item?id=38796842)
 - [Doola a &quot;Business-in-a-Box&quot; &lpar;YC S20&rpar; Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
-- [Mozilla &#39;23 Ann. Report: CEO pay skyrockets while Firefox Marketshare nosedives](https://lunduke.locals.com/post/5053290/mozilla-2023-annual-report-ceo-pay-skyrockets-while-firefox-marketshare-nosedives)
 - [Details on Xiaomi EV](https://www.engadget.com/xiaomi-says-its-su7-ev-can-outperform-porsche-and-has-more-tech-than-tesla-095637762.html)
 <!-- BLOG-POST-LIST:END -->
 
