@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How random is Xkcd? &lpar;2015&rpar;](https://hardmath123.github.io/xkcd-random.html)
+- [Ashby &lpar;YC W19&rpar; Hiring Eng Managers to Rethink Eng Culture &lpar;EMEA and Americas&rpar;](https://www.ashbyhq.com/careers?utm_source=hn)
+- [IDEs we had 30 years ago](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 - [37C3 Video List](https://media.ccc.de/b/congress/2023)
-- [You&#39;ve just been fucked by psyops [video]](https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops)
 - [Outlook/Hotmail is no longer blocking my mail server](https://taoshu.in/net/outlook-delist.html)
-- [Para-infectious brain injury in Covid-19 persists at follow-up](https://www.nature.com/articles/s41467-023-42320-4)
-- [I created an ephemeral group chat app for strangers](https://www.commonroom.chat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
