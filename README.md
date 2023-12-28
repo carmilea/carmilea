@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Particle Life](https://github.com/hunar4321/particle-life)
+- [Show HN: Vocab Miner – find new words in Spanish from texts](https://vocabminer.com/)
+- [Amazon receives FDA warning letter for supplements with undeclared ingredients](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/amazoncom-inc-662503-12202023)
 - [New U.S. immigration rules spur more visa approvals for STEM workers](https://www.science.org/content/article/new-u-s-immigration-rules-spur-more-visa-approvals-stem-workers)
 - [The Most Compelling Reason to Use Firefox Is Sync That Works](https://www.howtogeek.com/the-best-reason-to-use-firefox-is-sync-that-actually-works/)
-- [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
-- [I am the fold &lpar;2015&rpar;](https://iamthefold.com)
-- [Lode Runner &lpar;HTML5 Remake&rpar;](https://loderunnerwebgame.com/game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
