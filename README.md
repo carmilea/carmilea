@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After self-hosting email for 23 years I have thrown in the towel &lpar;2022&rpar;](https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html)
 - [Doola a &quot;Business-in-a-Box&quot; &lpar;YC S20&rpar; Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
+- [Mozilla &#39;23 Ann. Report: CEO pay skyrockets while Firefox Marketshare nosedives](https://lunduke.locals.com/post/5053290/mozilla-2023-annual-report-ceo-pay-skyrockets-while-firefox-marketshare-nosedives)
 - [Details on Xiaomi EV](https://www.engadget.com/xiaomi-says-its-su7-ev-can-outperform-porsche-and-has-more-tech-than-tesla-095637762.html)
 - [The New York Times Company vs. Microsoft Corporation](https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation)
-- [Knowledge Graph Reasoning Based on Attention GCN](https://arxiv.org/abs/2312.10049)
-- [Particle Life](https://github.com/hunar4321/particle-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
