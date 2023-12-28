@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Doola a &quot;Business-in-a-Box&quot; &lpar;YC S20&rpar; Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
+- [Details on Xiaomi EV](https://www.engadget.com/xiaomi-says-its-su7-ev-can-outperform-porsche-and-has-more-tech-than-tesla-095637762.html)
+- [The New York Times Company vs. Microsoft Corporation](https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation)
+- [Knowledge Graph Reasoning Based on Attention GCN](https://arxiv.org/abs/2312.10049)
 - [Particle Life](https://github.com/hunar4321/particle-life)
-- [Show HN: Vocab Miner – find new words in Spanish from texts](https://vocabminer.com/)
-- [Amazon receives FDA warning letter for supplements with undeclared ingredients](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/amazoncom-inc-662503-12202023)
-- [New U.S. immigration rules spur more visa approvals for STEM workers](https://www.science.org/content/article/new-u-s-immigration-rules-spur-more-visa-approvals-stem-workers)
-- [The Most Compelling Reason to Use Firefox Is Sync That Works](https://www.howtogeek.com/the-best-reason-to-use-firefox-is-sync-that-actually-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
