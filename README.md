@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;No inventions; no innovations&quot; A History of US Steel](https://www.construction-physics.com/p/no-inventions-no-innovations-a-history)
+- [Chemicals of &quot;Concern&quot; Found in Philips Breathing Machines](https://www.propublica.org/article/philips-recall-machines-chemicals-of-concern)
+- [Travel Routers Improve Your Life [video]](https://www.youtube.com/watch?v=szqme3j7h10)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers#section-job)
 - [UK announces commercial operations of longest land/subsea interconnector](https://www.nationalgrid.com/national-grid-announces-commercial-operations-viking-link-worlds-longest-land-and-subsea)
-- [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
-- [Derinkuyu: Mysterious underground city in Turkey found in man&#39;s basement](https://bigthink.com/strange-maps/derinkuyu-underground-city/)
-- [Strawberry Case Study: What If Farmers Had to Pay for Water?](https://www.nytimes.com/interactive/2023/12/29/climate/california-farmers-water-tax.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
