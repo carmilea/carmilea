@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [40% of US electricity is now emissions-free](https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free/)
+- [Ideal Monitor Rotation for Programmers &lpar;2021&rpar;](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
 - [Autorize – Authorization enforcement detection extension for Burp Suite](https://github.com/Quitten/Autorize)
 - [Linux is the only OS to support diagonal PC monitor mode](https://www.tomshardware.com/monitors/linux-is-the-only-os-to-support-diagonal-pc-monitor-mode-dev-champions-the-case-for-22-degree-rotation-computing)
 - [Novel helmet liner made from carbon nanotubes](https://newatlas.com/medical/carbon-nanotube-foam-helmet-liner-concussion/)
-- [Sticking to 8192 signatures per slot post-SSF: how and why](https://ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989)
-- [Make Ethereum Cypherpunk Again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
