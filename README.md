@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers#section-job)
+- [UK announces commercial operations of longest land/subsea interconnector](https://www.nationalgrid.com/national-grid-announces-commercial-operations-viking-link-worlds-longest-land-and-subsea)
 - [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
 - [Derinkuyu: Mysterious underground city in Turkey found in man&#39;s basement](https://bigthink.com/strange-maps/derinkuyu-underground-city/)
-- [Every Major Pharmacy Chain Giving Government Warrantless Medical Record Access](https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/)
-- [One man saved a generation of premature babies &lpar;2016&rpar;](https://www.bbc.com/news/magazine-36321692)
-- [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
+- [Strawberry Case Study: What If Farmers Had to Pay for Water?](https://www.nytimes.com/interactive/2023/12/29/climate/california-farmers-water-tax.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
