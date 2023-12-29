@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Novel helmet liner 30 times better at stopping concussions](https://newatlas.com/medical/carbon-nanotube-foam-helmet-liner-concussion/)
 - [Kaspersky discloses iPhone hardware feature vital in Operation Triangulation](https://www.kaspersky.com/about/press-releases/2023_kaspersky-discloses-iphone-hardware-feature-vital-in-operation-triangulation-case)
 - [Smallest Typeface](http://luc.devroye.org/fonts-51468.html)
 - [Electronics Flea Market](https://www.electronicsfleamarket.com)
 - [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
-- [Multiplayer Online Science](http://mmos.ch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
