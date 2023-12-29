@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Novel helmet liner 30 times better at stopping concussions](https://newatlas.com/medical/carbon-nanotube-foam-helmet-liner-concussion/)
+- [Autorize – Authorization enforcement detection extension for Burp Suite](https://github.com/Quitten/Autorize)
+- [Novel helmet liner made from carbon nanotubes](https://newatlas.com/medical/carbon-nanotube-foam-helmet-liner-concussion/)
 - [Kaspersky discloses iPhone hardware feature vital in Operation Triangulation](https://www.kaspersky.com/about/press-releases/2023_kaspersky-discloses-iphone-hardware-feature-vital-in-operation-triangulation-case)
+- [Sticking to 8192 signatures per slot post-SSF: how and why](https://ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989)
 - [Smallest Typeface](http://luc.devroye.org/fonts-51468.html)
-- [Electronics Flea Market](https://www.electronicsfleamarket.com)
-- [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
