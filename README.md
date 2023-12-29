@@ -58,8 +58,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [U.S. Government Database of Dad Jokes](https://fatherhood.gov:443/for-dads/dad-jokes)
 - [The Linux graphics stack in a nutshell, part 2](https://lwn.net/SubscriberLink/955708/d024fd20cb3c0ff2/)
-- [Vim users are encouraged to make a donation to ICCF](https://vimhelp.org/uganda.txt.html)
-- [Smallest Typeface &lpar;3x3&rpar;](http://luc.devroye.org/fonts-51468.html)
+- [Smallest Typeface](http://luc.devroye.org/fonts-51468.html)
+- [One of the Most Controversial US Spy Programs Just Got Renewed](https://www.motherjones.com/politics/2023/12/one-of-the-most-controversial-us-spy-programs-just-got-quietly-renewed/)
 - [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
 <!-- BLOG-POST-LIST:END -->
 
