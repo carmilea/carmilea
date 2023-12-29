@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [40% of US electricity is now emissions-free](https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free/)
-- [The Dark Arts – LessWrong](https://www.lesswrong.com/posts/djWftXndJ7iMPsjrp/the-dark-arts)
+- [Ask HN: What are good books/blogs to read for a first time CTO](https://news.ycombinator.com/item?id=38803092)
+- [The Worst Kind of Programmer](http://mikhailian.mova.org/node/284)
+- [Unexpected Ways Memory Subsystem Interacts with Branch Prediction](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/)
 - [Ideal Monitor Rotation for Programmers &lpar;2021&rpar;](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
 - [Autorize – Authorization enforcement detection extension for Burp Suite](https://github.com/Quitten/Autorize)
-- [Sticking to 8192 signatures per slot post-SSF: how and why](https://ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989)
 <!-- BLOG-POST-LIST:END -->
 
 ---
