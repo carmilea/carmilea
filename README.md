@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How the append-only btree works](https://www.bzero.se/ldapd/btree.html)
-- [Nuclear Power Gets New Push in U.S., Winning Converts &lpar;2022&rpar;](https://www.nytimes.com/2022/07/05/business/energy-environment/nuclear-energy-politics.html)
-- [Don&#39;t Say Velcro &lpar;2017&rpar;](https://www.velcro.com/original-thinking/the-velcro-brand-trademark-guidelines/dont-say-velcro/)
-- [Ask HN: Programming Courses for Experienced Coders?](https://news.ycombinator.com/item?id=38804603)
-- [2023 was the year that GPUs stood still](https://arstechnica.com/gadgets/2023/12/2023-was-the-year-that-gpus-stood-still/)
+- [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
+- [Derinkuyu: Mysterious underground city in Turkey found in man&#39;s basement](https://bigthink.com/strange-maps/derinkuyu-underground-city/)
+- [Every Major Pharmacy Chain Giving Government Warrantless Medical Record Access](https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/)
+- [One man saved a generation of premature babies &lpar;2016&rpar;](https://www.bbc.com/news/magazine-36321692)
+- [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
