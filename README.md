@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Berlin researchers hacked Tesla autopilot to unlock &quot;Elon mode&quot;](https://cybernews.com/tech/berlin-researchers-hacked-tesla-autopilot/)
-- [5G Considered Tired Already](https://www.theregister.com/2023/12/29/mobile_industry_looks_to_6g/)
-- [Gentoo Linux Goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
-- [It&#39;s &quot;shakeout&quot; time as losses of Netflix rivals top $5B](https://arstechnica.com/culture/2023/12/its-shakeout-time-as-losses-of-netflix-rivals-top-5-billion/)
-- [&quot;I&#39;m a world champion pea thrower&quot;](https://www.theguardian.com/lifeandstyle/2023/dec/29/experience-im-a-world-champion-pea-thrower)
+- [Google Voice goes US only](https://news.ycombinator.com/item?id=38804841)
+- [Why are the elites suddenly terrified of AI?](https://www.spiked-online.com/2023/12/28/why-are-the-elites-suddenly-so-terrified-about-ai/)
+- [Don&#39;t Say Velcro](https://www.velcro.com/original-thinking/the-velcro-brand-trademark-guidelines/dont-say-velcro/)
+- [Ask HN: Programming Courses for Experienced Coders?](https://news.ycombinator.com/item?id=38804603)
+- [Korea to welcome &#39;digital nomads&#39; with new visa starting Jan. 1](https://koreajoongangdaily.joins.com/news/2023-12-29/national/kcampus/Korea-to-welcome-digital-nomads-with-new-visa-starting-Jan-1/1947155)
 <!-- BLOG-POST-LIST:END -->
 
 ---
