@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Social media companies made $11B in US ad revenue from minors](https://apnews.com/article/tiktok-meta-instagram-revenue-teens-harvard-cc9bf875d6f7259ba2aee8805ccdaf3d)
-- [Increasing customer purchases at farmers markets using POS scanner data](https://onlinelibrary.wiley.com/doi/10.1002/jaa2.96)
-- [They&#39;re Paid Billions to Root Out Child Labor in the U.S. Why Do They Fail?](https://www.nytimes.com/2023/12/28/us/migrant-child-labor-audits.html)
-- [Open Source Liability Is Coming](https://developersalliance.org/open-source-liability-is-coming/)
-- [&quot;No inventions; no innovations&quot; A History of US Steel](https://www.construction-physics.com/p/no-inventions-no-innovations-a-history)
+- [Why large companies and fast-moving startups are banning merge commits](https://graphite.dev/blog/why-ban-merge-commits)
+- [The companies employees don&#39;t want to leave in 2023](https://resume.io/blog/the-companies-employees-dont-want-to-leave-in-2023)
+- [Toyota-owned automaker tampered with safety tests for 30 years](https://www.cnn.com/2023/12/27/business/daihatsu-japan-production-halt-safety-tests-intl-hnk/index.html)
+- [Blot turns a folder into a website](https://blot.im/how)
+- [Homicides in U.S. set to drop by record numbers this year](https://www.axios.com/2023/12/28/us-murder-violent-crime-rates-drop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
