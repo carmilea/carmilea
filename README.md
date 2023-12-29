@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dyte &lpar;YC W21&rpar; Is Hiring a Support Engineer &lpar;Latin America&rpar;](https://jobs.lever.co/dyte-io/e8c32043-b478-4c91-ab5e-634c15690236)
 - [Copyright is not a moral right, it&#39;s a monetization strategy](https://twitter.com/Plinz/status/1740597001652461895)
+- [Salt and salary: were Roman soldiers paid in salt? &lpar;2017&rpar;](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
 - [Why are Apple Silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
 - [Ask HN: What are good books/blogs to read for a first time CTO](https://news.ycombinator.com/item?id=38803092)
-- [Unexpected Ways Memory Subsystem Interacts with Branch Prediction](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/)
-- [Ideal Monitor Rotation for Programmers &lpar;2021&rpar;](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
