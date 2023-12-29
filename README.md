@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Voice goes US only](https://news.ycombinator.com/item?id=38804841)
-- [Why are the elites suddenly terrified of AI?](https://www.spiked-online.com/2023/12/28/why-are-the-elites-suddenly-so-terrified-about-ai/)
-- [Don&#39;t Say Velcro](https://www.velcro.com/original-thinking/the-velcro-brand-trademark-guidelines/dont-say-velcro/)
+- [How the append-only btree works](https://www.bzero.se/ldapd/btree.html)
+- [Nuclear Power Gets New Push in U.S., Winning Converts &lpar;2022&rpar;](https://www.nytimes.com/2022/07/05/business/energy-environment/nuclear-energy-politics.html)
+- [Don&#39;t Say Velcro &lpar;2017&rpar;](https://www.velcro.com/original-thinking/the-velcro-brand-trademark-guidelines/dont-say-velcro/)
 - [Ask HN: Programming Courses for Experienced Coders?](https://news.ycombinator.com/item?id=38804603)
-- [Korea to welcome &#39;digital nomads&#39; with new visa starting Jan. 1](https://koreajoongangdaily.joins.com/news/2023-12-29/national/kcampus/Korea-to-welcome-digital-nomads-with-new-visa-starting-Jan-1/1947155)
+- [2023 was the year that GPUs stood still](https://arstechnica.com/gadgets/2023/12/2023-was-the-year-that-gpus-stood-still/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
