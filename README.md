@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Government Database of Dad Jokes](https://fatherhood.gov:443/for-dads/dad-jokes)
+- [The Linux graphics stack in a nutshell, part 2](https://lwn.net/SubscriberLink/955708/d024fd20cb3c0ff2/)
+- [Vim users are encouraged to make a donation to ICCF](https://vimhelp.org/uganda.txt.html)
+- [Smallest Typeface &lpar;3x3&rpar;](http://luc.devroye.org/fonts-51468.html)
 - [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
-- [BCHS software stack: BSD, C, httpd, SQLite](https://learnbchs.org/)
-- [You can&#39;t do that because I hate you](https://bvisness.me/you-cant/)
-- [Dark Visitors – A list of known AI agents on the internet](https://darkvisitors.com)
-- [Hexcodle](https://hexcodle.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
