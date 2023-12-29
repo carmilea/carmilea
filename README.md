@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Social media companies made $11B in US ad revenue from minors](https://apnews.com/article/tiktok-meta-instagram-revenue-teens-harvard-cc9bf875d6f7259ba2aee8805ccdaf3d)
+- [Increasing customer purchases at farmers markets using POS scanner data](https://onlinelibrary.wiley.com/doi/10.1002/jaa2.96)
+- [They&#39;re Paid Billions to Root Out Child Labor in the U.S. Why Do They Fail?](https://www.nytimes.com/2023/12/28/us/migrant-child-labor-audits.html)
+- [Open Source Liability Is Coming](https://developersalliance.org/open-source-liability-is-coming/)
 - [&quot;No inventions; no innovations&quot; A History of US Steel](https://www.construction-physics.com/p/no-inventions-no-innovations-a-history)
-- [Chemicals of &quot;Concern&quot; Found in Philips Breathing Machines](https://www.propublica.org/article/philips-recall-machines-chemicals-of-concern)
-- [Travel Routers Improve Your Life [video]](https://www.youtube.com/watch?v=szqme3j7h10)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers#section-job)
-- [UK announces commercial operations of longest land/subsea interconnector](https://www.nationalgrid.com/national-grid-announces-commercial-operations-viking-link-worlds-longest-land-and-subsea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
