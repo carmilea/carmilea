@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intentionally buggy commits for fame–and papers](https://lwn.net/Articles/853717/)
+- [Wi-Fi 7 Signals the Industry&#39;s New Priority: Stability](https://spectrum.ieee.org/wi-fi-7)
+- [Intentionally buggy commits for fame and papers &lpar;2021&rpar;](https://lwn.net/Articles/853717/)
+- [Who made millions trading the October 7th attacks?](https://www.economist.com/finance-and-economics/2023/12/05/did-hamas-make-millions-trading-the-october-7th-attacks)
 - [What makes cheddar cheese taste so good?](https://www.smithsonianmag.com/smart-news/what-makes-cheddar-cheese-taste-so-good-180983506/)
 - [Show HN: Intuitive nutrition information](https://spe.lt/)
-- [Toyota-owned automaker tampered with safety tests for 30 years](https://www.cnn.com/2023/12/27/business/daihatsu-japan-production-halt-safety-tests-intl-hnk/index.html)
-- [Blot turns a folder into a website](https://blot.im/how)
 <!-- BLOG-POST-LIST:END -->
 
 ---
