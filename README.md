@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dyte &lpar;YC W21&rpar; Is Hiring a Support Engineer &lpar;Latin America&rpar;](https://jobs.lever.co/dyte-io/e8c32043-b478-4c91-ab5e-634c15690236)
-- [Copyright is not a moral right, it&#39;s a monetization strategy](https://twitter.com/Plinz/status/1740597001652461895)
-- [Salt and salary: were Roman soldiers paid in salt? &lpar;2017&rpar;](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
-- [Why are Apple Silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
-- [Ask HN: What are good books/blogs to read for a first time CTO](https://news.ycombinator.com/item?id=38803092)
+- [Berlin researchers hacked Tesla autopilot to unlock &quot;Elon mode&quot;](https://cybernews.com/tech/berlin-researchers-hacked-tesla-autopilot/)
+- [5G Considered Tired Already](https://www.theregister.com/2023/12/29/mobile_industry_looks_to_6g/)
+- [Gentoo Linux Goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
+- [It&#39;s &quot;shakeout&quot; time as losses of Netflix rivals top $5B](https://arstechnica.com/culture/2023/12/its-shakeout-time-as-losses-of-netflix-rivals-top-5-billion/)
+- [&quot;I&#39;m a world champion pea thrower&quot;](https://www.theguardian.com/lifeandstyle/2023/dec/29/experience-im-a-world-champion-pea-thrower)
 <!-- BLOG-POST-LIST:END -->
 
 ---
