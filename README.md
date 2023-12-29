@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why large companies and fast-moving startups are banning merge commits](https://graphite.dev/blog/why-ban-merge-commits)
-- [The companies employees don&#39;t want to leave in 2023](https://resume.io/blog/the-companies-employees-dont-want-to-leave-in-2023)
+- [Intentionally buggy commits for fame–and papers](https://lwn.net/Articles/853717/)
+- [What makes cheddar cheese taste so good?](https://www.smithsonianmag.com/smart-news/what-makes-cheddar-cheese-taste-so-good-180983506/)
+- [Show HN: Intuitive nutrition information](https://spe.lt/)
 - [Toyota-owned automaker tampered with safety tests for 30 years](https://www.cnn.com/2023/12/27/business/daihatsu-japan-production-halt-safety-tests-intl-hnk/index.html)
 - [Blot turns a folder into a website](https://blot.im/how)
-- [Homicides in U.S. set to drop by record numbers this year](https://www.axios.com/2023/12/28/us-murder-violent-crime-rates-drop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
