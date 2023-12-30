@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ScummVM officially released in the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
+- [Show HN: LinuxDAW – Quality audio software for Linux](https://linuxdaw.org/)
 - [New theory seeks to unite Einstein&#39;s gravity with quantum mechanics](https://www.ucl.ac.uk/news/2023/dec/new-theory-seeks-unite-einsteins-gravity-quantum-mechanics)
 - [Driverless cars immune from traffic tickets in California under current laws](https://www.nbcnews.com/business/business-news/can-driverless-cars-get-tickets-california-law-rcna131538)
 - [The art of high performance computing](https://theartofhpc.com/)
-- [Fake Trees: Using Indents for Simpler UIs](https://ratfactor.com/cards/fake-trees)
-- [Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings](https://latentdictionary.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
