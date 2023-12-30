@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The value of canonicity – Building Nubank](https://building.nubank.com.br/the-value-of-canonicity/)
 - [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
 - [Wikipedia daily most viewed pages](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
+- [How the Ancient Egyptians Raise Their Obelisks?](https://historicaleve.com/how-the-ancient-egyptians-raise-their-colossal-obelisks/)
 - [Show HN: FreshTube – show latest videos from YouTube channels](https://github.com/porjo/freshtube)
-- [Show HN: I built ContainerCVE – a web tool to scan public Docker images](https://containercve.com)
-- [The Art and Science of PCB Design](https://pcb.mit.edu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
