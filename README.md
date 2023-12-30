@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Stoßlüften: Shock Ventilation](https://www.thelocal.de/20190117/stolften)
-- [The value of canonicity – Building Nubank](https://building.nubank.com.br/the-value-of-canonicity/)
+- [Biggest layoffs of 2023: Firms fired employees in jaw-dropping numbers](https://www.peoplematters.in/article/strategic-hr/the-biggest-layoffs-of-2023-amazon-to-microsoft-firms-fired-employees-in-jaw-dropping-numbers-39753)
+- [The value of canonicity &lpar;2020&rpar;](https://building.nubank.com.br/the-value-of-canonicity/)
 - [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
 - [Wikipedia daily most viewed pages](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
-- [How the Ancient Egyptians Raise Their Obelisks?](https://historicaleve.com/how-the-ancient-egyptians-raise-their-colossal-obelisks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
