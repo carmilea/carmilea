@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon&#39;s Silent Sacking](https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking/)
+- [The High Price of Empty Office Space: Billions in Tax Breaks, with More to Come](https://www.thecity.nyc/2023/12/19/tax-breaks-pilot-office-space-nyc/)
+- [The Google 0-day all Infostealer groups are exploiting](https://www.infostealers.com/article/the-0-day-all-infostealer-groups-are-exploiting/)
 - [Spain confirms nuclear power phase-out, extends renewable projects deadlines](https://www.reuters.com/business/energy/spain-confirms-nuclear-power-phase-out-extends-renewable-projects-deadlines-2023-12-27/)
-- [Photographs of out-of-copyright images are not copyrightable](https://www.theartnewspaper.com/2023/12/29/court-of-appeal-ruling-will-prevent-uk-museums-from-charging-reproduction-feesat-last)
-- [The Downfall of Amazon: Top Ranking Electrical Fuses Show Dangerous Results [video]](https://www.youtube.com/watch?v=B90_SNNbcoU)
-- [Club Pilates, Pure Barre owners say Xponential left them bankrupt](https://www.bloomberg.com/news/features/2023-12-07/club-pilates-pure-barre-owners-say-xponential-left-them-bankrupt)
-- [DRµGS: Deep Random Micro-Glitch Sampling](https://github.com/EGjoni/DRUGS)
+- [Show HN: dextk - Android dex file parser in Go](https://github.com/csnewman/dextk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
