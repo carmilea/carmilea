@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NFL, Fanatics Face New Antitrust Claims over Licensed Merchandise Sales](https://www.law.com/newyorklawjournal/2022/03/22/nfl-fanatics-faces-new-antitrust-claims-over-licensed-merchandise-sales/?slreturn=20231130001211)
 - [GDScript – Custom scripting language to be used with the Godot game engine](https://gdscript.com/)
 - [Show HN: I built ContainerCVE – a web tool to scan public Docker images](https://containercve.com)
 - [The Art and Science of PCB Design](https://pcb.mit.edu/)
 - [Understanding Parquet, Iceberg and Data Lakehouses](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
-- [Using linear programming to assess spatial access](https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
