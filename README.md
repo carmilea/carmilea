@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CBC cancels New Year&#39;s Eve broadcast special due to &#39;financial pressures&#39;](https://www.cbc.ca/news/canada/cbc-cancels-new-year-eve-broadcast-1.7071478)
-- [Emerge &lpar;YC W21&rpar; is hiring a Senior Android Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-android-engineer)
-- [Things are about to get a lot worse for Generative AI](https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse)
-- [Economic downturn and the influence of AI are claiming numerous jobs](https://www.peoplematters.in/article/strategic-hr/the-biggest-layoffs-of-2023-amazon-to-microsoft-firms-fired-employees-in-jaw-dropping-numbers-39753)
-- [The value of canonicity &lpar;2020&rpar;](https://building.nubank.com.br/the-value-of-canonicity/)
+- [New theory seeks to unite Einstein&#39;s gravity with quantum mechanics](https://www.ucl.ac.uk/news/2023/dec/new-theory-seeks-unite-einsteins-gravity-quantum-mechanics)
+- [Driverless cars immune from traffic tickets in California under current laws](https://www.nbcnews.com/business/business-news/can-driverless-cars-get-tickets-california-law-rcna131538)
+- [The art of high performance computing](https://theartofhpc.com/)
+- [Fake Trees: Using Indents for Simpler UIs](https://ratfactor.com/cards/fake-trees)
+- [Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings](https://latentdictionary.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
