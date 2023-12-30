@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge &lpar;YC W21&rpar; is hiring a Senior Android Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+- [Things are about to get a lot worse for Generative AI](https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse)
 - [Stoßlüften: Shock Ventilation](https://www.thelocal.de/20190117/stolften)
-- [Biggest layoffs of 2023: Firms fired employees in jaw-dropping numbers](https://www.peoplematters.in/article/strategic-hr/the-biggest-layoffs-of-2023-amazon-to-microsoft-firms-fired-employees-in-jaw-dropping-numbers-39753)
 - [The value of canonicity &lpar;2020&rpar;](https://building.nubank.com.br/the-value-of-canonicity/)
 - [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
-- [Wikipedia daily most viewed pages](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
 <!-- BLOG-POST-LIST:END -->
 
 ---
