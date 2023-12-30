@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spain confirms nuclear power phase-out, extends renewable projects deadlines](https://www.reuters.com/business/energy/spain-confirms-nuclear-power-phase-out-extends-renewable-projects-deadlines-2023-12-27/)
 - [Photographs of out-of-copyright images are not copyrightable](https://www.theartnewspaper.com/2023/12/29/court-of-appeal-ruling-will-prevent-uk-museums-from-charging-reproduction-feesat-last)
 - [The Downfall of Amazon: Top Ranking Electrical Fuses Show Dangerous Results [video]](https://www.youtube.com/watch?v=B90_SNNbcoU)
-- [BYD Overtakes Tesla as Most Popular EV Maker](https://www.bloomberg.com/news/features/2023-12-27/elon-musk-s-tesla-is-losing-ev-race-to-china-s-byd)
-- [Microsoft&#39;s Copilot AI chatbot app arrives on iOS](https://www.engadget.com/microsofts-copilot-ai-chatbot-app-arrives-on-ios-112559129.html)
-- [Sam Bankman-Fried: Convicted &#39;Crypto King&#39; will not face second trial](https://www.bbc.com/news/world-us-canada-67846711)
+- [Club Pilates, Pure Barre owners say Xponential left them bankrupt](https://www.bloomberg.com/news/features/2023-12-07/club-pilates-pure-barre-owners-say-xponential-left-them-bankrupt)
+- [DRµGS: Deep Random Micro-Glitch Sampling](https://github.com/EGjoni/DRUGS)
 <!-- BLOG-POST-LIST:END -->
 
 ---
