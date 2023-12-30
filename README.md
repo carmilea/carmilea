@@ -58,7 +58,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: I built ContainerCVE – a web tool to scan public Docker images](https://containercve.com)
 - [The Art and Science of PCB Design](https://pcb.mit.edu/)
-- [Getting Started with Fail2Ban on Linux](https://ittavern.com/getting-started-with-fail2ban-on-linux/)
+- [Understanding Parquet, Iceberg and Data Lakehouses](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 - [Using linear programming to assess spatial access](https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/)
 - [SETI at FAST in China](https://arxiv.org/abs/2312.16847)
 <!-- BLOG-POST-LIST:END -->
