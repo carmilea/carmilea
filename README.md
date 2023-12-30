@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CBC cancels New Year&#39;s Eve broadcast special due to &#39;financial pressures&#39;](https://www.cbc.ca/news/canada/cbc-cancels-new-year-eve-broadcast-1.7071478)
 - [Emerge &lpar;YC W21&rpar; is hiring a Senior Android Engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 - [Things are about to get a lot worse for Generative AI](https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse)
-- [Stoßlüften: Shock Ventilation](https://www.thelocal.de/20190117/stolften)
 - [Economic downturn and the influence of AI are claiming numerous jobs](https://www.peoplematters.in/article/strategic-hr/the-biggest-layoffs-of-2023-amazon-to-microsoft-firms-fired-employees-in-jaw-dropping-numbers-39753)
 - [The value of canonicity &lpar;2020&rpar;](https://building.nubank.com.br/the-value-of-canonicity/)
 <!-- BLOG-POST-LIST:END -->
