@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
+- [Wikipedia daily most viewed pages](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
 - [Show HN: FreshTube – show latest videos from YouTube channels](https://github.com/porjo/freshtube)
-- [GDScript – Custom scripting language to be used with the Godot game engine](https://gdscript.com/)
 - [Show HN: I built ContainerCVE – a web tool to scan public Docker images](https://containercve.com)
 - [The Art and Science of PCB Design](https://pcb.mit.edu/)
-- [A modern data stack for startups &lpar;2022&rpar;](https://incident.io/blog/data-stack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
