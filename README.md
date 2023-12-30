@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Drugs](https://github.com/EGjoni/DRUGS)
-- [SolarPunk Cities: Our Last Hope?](https://www.youtube.com/watch?v=UVlBmdvIC6s)
-- [ScummVM officially released in the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
-- [The Subscription Trap](https://sufyaan.me/subs/)
-- [Show HN: LinuxDAW – Quality audio software for Linux](https://linuxdaw.org/)
+- [Photographs of out-of-copyright images are not copyrightable](https://www.theartnewspaper.com/2023/12/29/court-of-appeal-ruling-will-prevent-uk-museums-from-charging-reproduction-feesat-last)
+- [The Downfall of Amazon: Top Ranking Electrical Fuses Show Dangerous Results [video]](https://www.youtube.com/watch?v=B90_SNNbcoU)
+- [BYD Overtakes Tesla as Most Popular EV Maker](https://www.bloomberg.com/news/features/2023-12-27/elon-musk-s-tesla-is-losing-ev-race-to-china-s-byd)
+- [Microsoft&#39;s Copilot AI chatbot app arrives on iOS](https://www.engadget.com/microsofts-copilot-ai-chatbot-app-arrives-on-ios-112559129.html)
+- [Sam Bankman-Fried: Convicted &#39;Crypto King&#39; will not face second trial](https://www.bbc.com/news/world-us-canada-67846711)
 <!-- BLOG-POST-LIST:END -->
 
 ---
