@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [More fun with Apple&#39;s internal tools: creating a PDS card](https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/)
+- [Ugrep – a more powerful, ultra fast, user-friendly, compatible grep](https://ugrep.com/)
+- [LIPS: Powerful Scheme based Lisp interpreter in JavaScript](https://lips.js.org/)
 - [Claude Bragdon: Drawings of the Fourth Dimension &lpar;2022&rpar;](https://socks-studio.com/2022/10/23/claude-bragdon-drawings/)
 - [EU Cyber Resilience Act: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
-- [Thinking About Internet History](https://content.cooperate.com/post/internet_history/)
-- [Amazon allegedly resells damaged books](https://twitter.com/joabaldwin/status/1741145625809559933)
-- [Amazon&#39;s Silent Sacking](https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
