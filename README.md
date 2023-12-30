@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using linear programming to assess spatial access](https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/)
+- [The Year of Ozempic](https://www.newyorker.com/culture/2023-in-review/the-year-of-ozempic)
 - [Show HN: Vowl daily word guessing game](https://vowlgame.com)
 - [Natural Language Corpus Data: Beautiful Data &lpar;2009&rpar;](https://norvig.com/ngrams/)
 - [Koka: Strongly typed functional-style language with effect types and handlers](https://koka-lang.github.io/koka/doc/index.html)
-- [Intentionally buggy commits for fame and papers &lpar;2021&rpar;](https://lwn.net/Articles/853717/)
-- [Show HN: Inbox Zero – open-source email assistant](https://www.getinboxzero.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
