@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Bragdon: Drawings of the Fourth Dimension &lpar;2022&rpar;](https://socks-studio.com/2022/10/23/claude-bragdon-drawings/)
+- [EU Cyber Resilience Act: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
+- [Thinking About Internet History](https://content.cooperate.com/post/internet_history/)
+- [Amazon allegedly resells damaged books](https://twitter.com/joabaldwin/status/1741145625809559933)
 - [Amazon&#39;s Silent Sacking](https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking/)
-- [The High Price of Empty Office Space: Billions in Tax Breaks, with More to Come](https://www.thecity.nyc/2023/12/19/tax-breaks-pilot-office-space-nyc/)
-- [The Google 0-day all Infostealer groups are exploiting](https://www.infostealers.com/article/the-0-day-all-infostealer-groups-are-exploiting/)
-- [Spain confirms nuclear power phase-out, extends renewable projects deadlines](https://www.reuters.com/business/energy/spain-confirms-nuclear-power-phase-out-extends-renewable-projects-deadlines-2023-12-27/)
-- [Show HN: dextk - Android dex file parser in Go](https://github.com/csnewman/dextk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
