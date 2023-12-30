@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Drugs](https://github.com/EGjoni/DRUGS)
+- [SolarPunk Cities: Our Last Hope?](https://www.youtube.com/watch?v=UVlBmdvIC6s)
 - [ScummVM officially released in the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
+- [The Subscription Trap](https://sufyaan.me/subs/)
 - [Show HN: LinuxDAW – Quality audio software for Linux](https://linuxdaw.org/)
-- [New theory seeks to unite Einstein&#39;s gravity with quantum mechanics](https://www.ucl.ac.uk/news/2023/dec/new-theory-seeks-unite-einsteins-gravity-quantum-mechanics)
-- [Driverless cars immune from traffic tickets in California under current laws](https://www.nbcnews.com/business/business-news/can-driverless-cars-get-tickets-california-law-rcna131538)
-- [The art of high performance computing](https://theartofhpc.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
