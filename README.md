@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Instant Messaging: Protocols Are &quot;Commons&quot;, Let&#39;s Take Them Seriously](https://www.process-one.net/blog/instant-messaging-protocols-are-commons-lets-take-them-seriously/)
+- [Email addresses are not good &#39;permanent&#39; identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs)
 - [Bun, JavaScript, and TCO](https://www.onsclom.net/posts/javascript-tco)
+- [The Forecasting Fallacy](https://www.alexmurrell.co.uk/articles/the-forecasting-fallacy)
 - [Sweden Solar System](https://en.wikipedia.org/wiki/Sweden_Solar_System)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [A 1690s Peanut is Reborn](https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/)
-- [Emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
