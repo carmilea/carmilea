@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Car Is Tracking You. Abusive Partners May Be, Too.](https://www.nytimes.com/2023/12/31/technology/car-trackers-gps-abuse.html)
+- [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [iOS Wi-Fi Profile Generator](https://daduckmsft.github.io/WiFiProfileGenerator/)
 - [Farewell, Java stingaree: Scientist declare the first marine fish extinction](https://news.mongabay.com/2023/12/farewell-java-stingaree-scientist-declare-the-first-marine-fish-extinction/)
-- [Instant Messaging: Protocols Are &quot;Commons&quot;, Let&#39;s Take Them Seriously](https://www.process-one.net/blog/instant-messaging-protocols-are-commons-lets-take-them-seriously/)
+- [Genuary 2024: Generative Art / Creative Coding Month](https://genuary.art)
 - [Email addresses are not good &#39;permanent&#39; identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs)
-- [The Forecasting Fallacy](https://www.alexmurrell.co.uk/articles/the-forecasting-fallacy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
