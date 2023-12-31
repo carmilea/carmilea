@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bun, JavaScript, and TCO](https://www.onsclom.net/posts/javascript-tco)
+- [Sweden Solar System](https://en.wikipedia.org/wiki/Sweden_Solar_System)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Sell your micro startup for less than 25k dollars](https://www.buymicrostartups.com/)
-- [Ask HN: What low risk passive income makes you feel secure?](https://news.ycombinator.com/item?id=38823433)
 - [A 1690s Peanut is Reborn](https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/)
 - [Emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
 <!-- BLOG-POST-LIST:END -->
