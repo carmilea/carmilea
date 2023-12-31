@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to run a small social network](https://runyourown.social/)
-- [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [Beep Beep](https://daringfireball.net/2023/12/beep_beep)
-- [Logistic Regression for Image Classification Using OpenCV](https://machinelearningmastery.com/logistic-regression-for-image-classification-using-opencv/)
-- [iOS Wi-Fi Profile Generator](https://daduckmsft.github.io/WiFiProfileGenerator/)
+- [I want a city, not a museum](https://www.nytimes.com/2023/12/30/opinion/new-york-housing-costs.html)
+- [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283)
+- [WWII heroics of &#39;Bazooka Charlie&#39; doubted until daughter sets record straight](https://www.dispatch.com/story/news/local/2023/12/31/bazooka-charlies-granville-daughter-shares-wwii-heroics-in-new-book/72033226007/)
+- [Sony software updates breaks movie theater projectors](https://bsky.app/profile/donohoe.dev/post/3khu7w2kz7l2b)
+- [How to run a small social network &lpar;2019&rpar;](https://runyourown.social/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
