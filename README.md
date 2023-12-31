@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Pascal in Forth &lpar;1983&rpar;](http://tangentstorm.github.io/winfield-pascal-83.html)
-- [The Downsides of Go&#39;s Goroutines](https://blog.djha.skin/blog/the-down-sides-of-gos-goroutines/)
-- [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+- [Design Principles Behind Smalltalk &lpar;1981&rpar;](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 - [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 - [Show HN: Spindle, a cross between Wordle and a Rubik&#39;s Cube made in PHP](https://playspindle.com/)
+- [Cuis-Smalltalk](https://cuis.st/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
