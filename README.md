@@ -57,7 +57,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Maersk ship hit by missile in the Red Sea](https://gcaptain.com/maersk-ship-hit-by-missile-in-the-red-sea/)
-- [How bad are search results? Compare Google, Bing, Marginalia, Kagi, and ChatGPT](https://danluu.com/seo-spam/)
+- [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 - [Building ColdFusion for the Web](https://thehistoryoftheweb.com/building-coldfusion-for-the-web/)
 - [Show HN: Spindle, a cross between Wordle and a Rubik&#39;s Cube made in PHP](https://playspindle.com/)
 - [Cuis-Smalltalk](https://cuis.st/)
