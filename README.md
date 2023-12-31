@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2023: Year in Review](https://jvns.ca/blog/2023/12/31/2023--year-in-review/)
-- [Test Smarter, Not Harder: Focus on Outcomes, Not Outputs](https://markus.oberlehner.net/blog/test-smarter-not-harder-focus-on-outcomes-not-outputs/)
+- [Bazzite – a Steam0S-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
+- [Molecular jackhammers eradicate cancer cells by vibronic-driven action](https://www.nature.com/articles/s41557-023-01383-y)
 - [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283)
 - [Interesting double-poly latches inside AMD&#39;s vintage LANCE Ethernet chip](https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html)
 - [WWII heroics of &#39;Bazooka Charlie&#39; doubted until daughter sets record straight](https://www.dispatch.com/story/news/local/2023/12/31/bazooka-charlies-granville-daughter-shares-wwii-heroics-in-new-book/72033226007/)
