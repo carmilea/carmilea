@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Jaw-Dropping News: Boeing and Lockheed Just Matched SpaceX&#39;s Prices](https://www.fool.com/investing/2023/12/30/jaw-dropping-news-boeing-and-lockheed-just-matched/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article)
 - [Cuis-Smalltalk](https://cuis.st/)
+- [The Heart of a Language Server](https://rust-analyzer.github.io//blog/2023/12/26/the-heart-of-a-language-server.html)
 - [Show HN: Common Lisp Vim Compiler Plug-In](https://git.sr.ht/~skin/roswell-sbcl.vim)
 - [20 years of Mars Express](https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/20_years_of_Mars_Express_Mars_as_never_seen_before)
-- [Android data encryption in depth](https://blog.quarkslab.com/android-data-encryption-in-depth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
