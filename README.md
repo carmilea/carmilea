@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What has quantum computing achieved so far?](https://news.ycombinator.com/item?id=38822569)
-- [The X220 ThinkPad Is the Best Laptop in the World](https://bt.ht/posts/x220/)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Sell your micro startup for less than 25k dollars](https://www.buymicrostartups.com/)
+- [Ask HN: What low risk passive income makes you feel secure?](https://news.ycombinator.com/item?id=38823433)
+- [A 1690s Peanut is Reborn](https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/)
 - [Emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
-- [Pascal in Forth &lpar;1983&rpar;](http://tangentstorm.github.io/winfield-pascal-83.html)
-- [Design Principles Behind Smalltalk &lpar;1981&rpar;](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
