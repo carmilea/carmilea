@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [More fun with Apple&#39;s internal tools: creating a PDS card](https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/)
-- [Ugrep – a more powerful, fast, user-friendly, compatible grep](https://ugrep.com/)
-- [LIPS: Scheme based Lisp interpreter in JavaScript](https://lips.js.org/)
-- [Silent Flyer – A Birdlike Drone](https://www.silentflyer.tech/)
-- [Claude Bragdon: Drawings of the Fourth Dimension &lpar;2022&rpar;](https://socks-studio.com/2022/10/23/claude-bragdon-drawings/)
+- [Jaw-Dropping News: Boeing and Lockheed Just Matched SpaceX&#39;s Prices](https://www.fool.com/investing/2023/12/30/jaw-dropping-news-boeing-and-lockheed-just-matched/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article)
+- [Cuis-Smalltalk](https://cuis.st/)
+- [Show HN: Common Lisp Vim Compiler Plug-In](https://git.sr.ht/~skin/roswell-sbcl.vim)
+- [20 years of Mars Express](https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/20_years_of_Mars_Express_Mars_as_never_seen_before)
+- [Android data encryption in depth](https://blog.quarkslab.com/android-data-encryption-in-depth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
