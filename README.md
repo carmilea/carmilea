@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Maersk ship hit by missile in the Red Sea](https://gcaptain.com/maersk-ship-hit-by-missile-in-the-red-sea/)
 - [How bad are search results? Compare Google, Bing, Marginalia, Kagi, and ChatGPT](https://danluu.com/seo-spam/)
 - [Building ColdFusion for the Web](https://thehistoryoftheweb.com/building-coldfusion-for-the-web/)
-- [ECS, Finally](https://www.mark-pekala.dev/posts/ecs-finally)
+- [Show HN: Spindle, a cross between Wordle and a Rubik&#39;s Cube made in PHP](https://playspindle.com/)
 - [Cuis-Smalltalk](https://cuis.st/)
-- [The Heart of a Language Server](https://rust-analyzer.github.io//blog/2023/12/26/the-heart-of-a-language-server.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
