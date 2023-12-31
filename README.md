@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What has quantum computing achieved so far?](https://news.ycombinator.com/item?id=38822569)
+- [The X220 ThinkPad Is the Best Laptop in the World](https://bt.ht/posts/x220/)
 - [Emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
 - [Pascal in Forth &lpar;1983&rpar;](http://tangentstorm.github.io/winfield-pascal-83.html)
 - [Design Principles Behind Smalltalk &lpar;1981&rpar;](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
-- [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
