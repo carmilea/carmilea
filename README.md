@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bazzite – a Steam0S-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
-- [Molecular jackhammers eradicate cancer cells by vibronic-driven action](https://www.nature.com/articles/s41557-023-01383-y)
-- [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283)
-- [Interesting double-poly latches inside AMD&#39;s vintage LANCE Ethernet chip](https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html)
-- [WWII heroics of &#39;Bazooka Charlie&#39; doubted until daughter sets record straight](https://www.dispatch.com/story/news/local/2023/12/31/bazooka-charlies-granville-daughter-shares-wwii-heroics-in-new-book/72033226007/)
+- [Man Thrown Off Delta Flight for Offering to Fix Broken Inflight Entertainment](https://www.paddleyourownkanoo.com/2023/12/30/man-says-he-was-thrown-off-delta-air-flight-because-he-offered-to-fix-broken-inflight-entertainment-system/)
+- [Blockbuster Alzheimer&#39;s paper retracted by former Stanford president](https://stanforddaily.com/2023/12/31/blockbuster-alzheimers-paper-retracted-by-former-stanford-president-after-a-decade-of-resistance/)
+- [Will we be addicted to our phones forever? An optimistic outlook](https://www.getclearspace.com/blog/post/optimistic-future-digital-wellbeing)
+- [A Cypherpunk&#39;s Manifesto &lpar;1993&rpar;](https://www.activism.net/cypherpunk/manifesto.html)
+- [Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
