@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Happens When You Quit Sugar? [video]](https://www.youtube.com/watch?v=86uC5fgraiI)
+- [Tom Scott: After ten years, it&#39;s time to stop making videos [video]](https://www.youtube.com/watch?v=7DKv5H5Frt0)
 - [Archaeologists reconstructed the burning of Jerusalem in 586 BCE](https://arstechnica.com/science/2023/12/how-archaeologists-reconstructed-the-burning-of-jerusalem-in-586-bce/)
 - [OpenVoice: Versatile Instant Voice Cloning](https://arxiv.org/abs/2312.01479)
 - [Show HN: Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost](https://github.com/html5-ninja/page-replica)
-- [Generative AI flooding online crocheting spaces with unrealistic amigurumi pics](https://twitter.com/LauraRbnsn/status/1741494511849578753)
-- [Show HN: I made TV Sort, a web-based game for ranking TV show episodes](https://tvsort.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
