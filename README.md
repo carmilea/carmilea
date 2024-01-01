@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Merkle Town: Explore the certificate transparency ecosystem](https://ct.cloudflare.com/)
-- [I Vote on Plagiarism Cases at Harvard College. Gay&#39;s Getting Off Easy](https://www.thecrimson.com/article/2023/12/31/honor-council-member-gay/)
 - [Ask HN: Is there a data set for GitHub repos associated with academic papers?](https://news.ycombinator.com/item?id=38828739)
 - [A Cypherpunk&#39;s Manifesto &lpar;1993&rpar;](https://www.activism.net/cypherpunk/manifesto.html)
 - [Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
+- [Molecular jackhammers eradicate cancer cells by vibronic-driven action](https://www.nature.com/articles/s41557-023-01383-y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
