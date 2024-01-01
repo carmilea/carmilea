@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Taligent&#39;s Guide to Designing Programs [pdf]](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)
 - [Show HN: Durdraw – a modern ANSI art editor for modern Unix terminals](https://github.com/cmang/durdraw)
-- [Saxo Bank&#39;s Outrageous Predictions 2024](https://www.home.saxo/insights/news-and-research/thought-leadership/outrageous-predictions)
+- [Use any web browser as GUI, with Zig in the back end and HTML5 in the front end](https://github.com/webui-dev/zig-webui)
 - [Magnitude 7.4 earthquake stikes Japan, major tsunami warning issued for Ishikawa](https://www3.nhk.or.jp/nhkworld/en/news/20240101_15/)
 - [Disney&#39;s Mickey Mouse enter public domain](https://www.bbc.com/news/entertainment-arts-67833411)
-- [Steamboat Willie [video]](https://www.youtube.com/watch?v=hmzO--ox7X0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
