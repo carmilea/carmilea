@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made TV Sort, a web-based game for ranking TV show episodes](https://tvsort.com/)
 - [Procrastination is connected to perfectionism](https://solvingprocrastination.com/perfectionism/)
 - [Orange Site Hit](https://blog.davep.org/2024/01/01/oshit.html)
-- [Japan issues tsunami warnings after a series of strong earthquakes](https://english.elpais.com/international/2024-01-01/japan-issues-tsunami-warnings-after-a-series-of-strong-earthquakes-on-sea-of-japan-coast.html)
 - [Fixing Annoying Blue Standby Lights](https://www.fullcircuit.com/blog/fixing-annoying-blue-standby-lights)
-- [Taligent&#39;s Guide to Designing Programs [pdf]](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)
+- [Show HN: Durdraw – a modern ANSI art editor for modern Unix terminals](https://github.com/cmang/durdraw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
