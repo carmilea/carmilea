@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Man Thrown Off Delta Flight for Offering to Fix Broken Inflight Entertainment](https://www.paddleyourownkanoo.com/2023/12/30/man-says-he-was-thrown-off-delta-air-flight-because-he-offered-to-fix-broken-inflight-entertainment-system/)
-- [Blockbuster Alzheimer&#39;s paper retracted by former Stanford president](https://stanforddaily.com/2023/12/31/blockbuster-alzheimers-paper-retracted-by-former-stanford-president-after-a-decade-of-resistance/)
-- [Will we be addicted to our phones forever? An optimistic outlook](https://www.getclearspace.com/blog/post/optimistic-future-digital-wellbeing)
+- [Merkle Town: Explore the certificate transparency ecosystem](https://ct.cloudflare.com/)
+- [I Vote on Plagiarism Cases at Harvard College. Gay&#39;s Getting Off Easy](https://www.thecrimson.com/article/2023/12/31/honor-council-member-gay/)
+- [Ask HN: Is there a data set for GitHub repos associated with academic papers?](https://news.ycombinator.com/item?id=38828739)
 - [A Cypherpunk&#39;s Manifesto &lpar;1993&rpar;](https://www.activism.net/cypherpunk/manifesto.html)
 - [Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
 <!-- BLOG-POST-LIST:END -->
