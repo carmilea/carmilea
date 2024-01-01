@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Archaeologists reconstructed the burning of Jerusalem in 586 BCE](https://arstechnica.com/science/2023/12/how-archaeologists-reconstructed-the-burning-of-jerusalem-in-586-bce/)
+- [OpenVoice: Versatile Instant Voice Cloning](https://arxiv.org/abs/2312.01479)
+- [Show HN: Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost](https://github.com/html5-ninja/page-replica)
 - [Generative AI flooding online crocheting spaces with unrealistic amigurumi pics](https://twitter.com/LauraRbnsn/status/1741494511849578753)
-- [Subject-First Commit Messages](https://github.com/aaronjensen/software-development/blob/master/commit-messages.md)
-- [Japan&#39;s 18-year-olds at record-low 1.06 million](https://www.japantimes.co.jp/news/2023/12/31/japan/society/japans-18-yr-olds/)
 - [Show HN: I made TV Sort, a web-based game for ranking TV show episodes](https://tvsort.com/)
-- [Procrastination is connected to perfectionism](https://solvingprocrastination.com/perfectionism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
