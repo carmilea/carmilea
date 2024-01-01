@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How I destroyed the company&#39;s DB &lpar;a stupid SQL mistake&rpar;](https://zaidesanton.substack.com/p/how-i-destroyed-the-companys-db)
-- [Fish shell 3.7.0 released, the last release branch before the full Rust rewrite](https://github.com/fish-shell/fish-shell/releases/tag/3.7.0)
-- [The quality of your life is the quality of the people you get to know](https://jakeseliger.com/2023/11/28/the-quality-of-your-life-is-the-quality-of-the-people-you-get-to-know-illuminating-the-david-brooks-way/)
-- [Woman plugging in electric car &lpar;1912&rpar;](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/35/)
-- [Ant Completes Process of Removing Jack Ma&#39;s Control](https://www.bloomberg.com/news/articles/2023-12-30/ant-completes-process-of-removing-billionaire-jack-ma-s-control)
+- [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)
+- [Microdot: Yet Another Python Web Framework](https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework)
+- [The changing economics of open-source software](https://siliconangle.com/2023/12/31/changing-economics-open-source-software/)
+- [2024&#39;s public domain is a banger](https://pluralistic.net/2023/12/20/em-oh-you-ess-ee/)
+- [A* Tricks for Videogame Path Finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
