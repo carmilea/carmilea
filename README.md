@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch out, Fly.io suddenly charging for IPv4 addresses](https://community.fly.io/t/we-are-going-to-start-charging-for-dedicated-ipv4-in-january-1st/15970)
+- [Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)
+- [Record Number of Tornadoes in the NWS Chicago Forecast Area in 2023](https://www.weather.gov/lot/2023tornadoes)
 - [Show HN: Pokemon prototype game made with JavaScript and p5.js](https://github.com/JSLegendDev/Pokemon-p5js)
 - [Merkle Town: Explore the certificate transparency ecosystem](https://ct.cloudflare.com/)
 - [Show HN: Raiseto – Discover and Share Ideas](https://raiseto.com/)
-- [Ask HN: Is there a data set for GitHub repos associated with academic papers?](https://news.ycombinator.com/item?id=38828739)
 <!-- BLOG-POST-LIST:END -->
 
 ---
