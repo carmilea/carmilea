@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Durdraw – a modern ANSI art editor for modern Unix terminals](https://github.com/cmang/durdraw)
+- [Saxo Bank&#39;s Outrageous Predictions 2024](https://www.home.saxo/insights/news-and-research/thought-leadership/outrageous-predictions)
 - [Magnitude 7.4 earthquake stikes Japan, major tsunami warning issued for Ishikawa](https://www3.nhk.or.jp/nhkworld/en/news/20240101_15/)
 - [Disney&#39;s Mickey Mouse enter public domain](https://www.bbc.com/news/entertainment-arts-67833411)
 - [Steamboat Willie [video]](https://www.youtube.com/watch?v=hmzO--ox7X0)
-- [Git Things](https://matklad.github.io/2023/12/31/git-things.html#Git-Things)
-- [Website Impersonating a Desktop Environment](https://dustinbrett.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
