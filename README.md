@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI flooding online crocheting spaces with unrealistic amigurumi pics](https://twitter.com/LauraRbnsn/status/1741494511849578753)
+- [Subject-First Commit Messages](https://github.com/aaronjensen/software-development/blob/master/commit-messages.md)
+- [Japan&#39;s 18-year-olds at record-low 1.06 million](https://www.japantimes.co.jp/news/2023/12/31/japan/society/japans-18-yr-olds/)
 - [Show HN: I made TV Sort, a web-based game for ranking TV show episodes](https://tvsort.com/)
 - [Procrastination is connected to perfectionism](https://solvingprocrastination.com/perfectionism/)
-- [Orange Site Hit](https://blog.davep.org/2024/01/01/oshit.html)
-- [Fixing Annoying Blue Standby Lights](https://www.fullcircuit.com/blog/fixing-annoying-blue-standby-lights)
-- [Show HN: Durdraw – a modern ANSI art editor for modern Unix terminals](https://github.com/cmang/durdraw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
