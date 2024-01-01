@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When You Quit Sugar? [video]](https://www.youtube.com/watch?v=86uC5fgraiI)
-- [Tom Scott: After ten years, it&#39;s time to stop making videos [video]](https://www.youtube.com/watch?v=7DKv5H5Frt0)
-- [Archaeologists reconstructed the burning of Jerusalem in 586 BCE](https://arstechnica.com/science/2023/12/how-archaeologists-reconstructed-the-burning-of-jerusalem-in-586-bce/)
-- [OpenVoice: Versatile Instant Voice Cloning](https://arxiv.org/abs/2312.01479)
-- [Show HN: Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost](https://github.com/html5-ninja/page-replica)
+- [How I destroyed the company&#39;s DB &lpar;a stupid SQL mistake&rpar;](https://zaidesanton.substack.com/p/how-i-destroyed-the-companys-db)
+- [Fish shell 3.7.0 released, the last release branch before the full Rust rewrite](https://github.com/fish-shell/fish-shell/releases/tag/3.7.0)
+- [The quality of your life is the quality of the people you get to know](https://jakeseliger.com/2023/11/28/the-quality-of-your-life-is-the-quality-of-the-people-you-get-to-know-illuminating-the-david-brooks-way/)
+- [Woman plugging in electric car &lpar;1912&rpar;](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/35/)
+- [Ant Completes Process of Removing Jack Ma&#39;s Control](https://www.bloomberg.com/news/articles/2023-12-30/ant-completes-process-of-removing-billionaire-jack-ma-s-control)
 <!-- BLOG-POST-LIST:END -->
 
 ---
