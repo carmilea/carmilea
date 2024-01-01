@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [27 Years Ago, Steve Jobs Said the Best Employees Focus on Content, Not Process](https://www.inc.com/jeff-haden/27-years-ago-steve-jobs-said-best-employees-focus-on-content-not-process-workplace-research-shows-he-was-right.html)
+- [Beginner dev looks at how YouTube sends videos](https://vincentsg.dev/dec31?)
 - [Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)
 - [Record Number of Tornadoes in the NWS Chicago Forecast Area in 2023](https://www.weather.gov/lot/2023tornadoes)
 - [Show HN: Pokemon prototype game made with JavaScript and p5.js](https://github.com/JSLegendDev/Pokemon-p5js)
-- [Merkle Town: Explore the certificate transparency ecosystem](https://ct.cloudflare.com/)
-- [Show HN: Raiseto – Discover and Share Ideas](https://raiseto.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
