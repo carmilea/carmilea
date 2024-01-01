@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NERV Disaster Prevention](https://nerv.app/en/)
 - [PyPy has moved to Git, GitHub](https://www.pypy.org/posts/2023/12/pypy-moved-to-git-github.html)
+- [Displaying Content as a Graph](https://thisisimportant.net/posts/content-as-a-graph/)
 - [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)
-- [Microdot: Yet Another Python Web Framework](https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework)
 - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
-- [A* tricks for videogame path finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
