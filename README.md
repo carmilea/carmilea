@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fireworks are probable cause of perchlorate contaminant in groundwater &lpar;2016&rpar;](https://www.usgs.gov/news/national-news-release/fireworks-likely-caused-water-contamination-mount-rushmore)
+- [List of Animals That Have Passed the Mirror Test](https://www.animalcognition.org/2015/04/15/list-of-animals-that-have-passed-the-mirror-test/)
 - [NERV Disaster Prevention](https://nerv.app/en/)
-- [PyPy has moved to Git, GitHub](https://www.pypy.org/posts/2023/12/pypy-moved-to-git-github.html)
 - [Displaying Content as a Graph](https://thisisimportant.net/posts/content-as-a-graph/)
-- [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)
-- [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
+- [Fail2ban Sucks](https://j3s.sh/thought/fail2ban-sux.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
