@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VW wouldn&#39;t help locate car with abducted child because GPS subscription expired](https://arstechnica.com/tech-policy/2023/02/vw-wouldnt-help-locate-car-with-abducted-child-because-gps-subscription-expired/)
+- [PyPy has moved to Git, GitHub](https://www.pypy.org/posts/2023/12/pypy-moved-to-git-github.html)
 - [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)
 - [Microdot: Yet Another Python Web Framework](https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework)
-- [2024&#39;s public domain is a banger](https://pluralistic.net/2023/12/20/em-oh-you-ess-ee/)
 - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
+- [A* tricks for videogame path finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
