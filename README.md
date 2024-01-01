@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney&#39;s Mickey Mouse enter public domain](https://www.bbc.com/news/entertainment-arts-67833411)
+- [Steamboat Willie [video]](https://www.youtube.com/watch?v=hmzO--ox7X0)
 - [Website Impersonating a Desktop Environment](https://dustinbrett.com/)
 - [27 Years Ago, Steve Jobs Said the Best Employees Focus on Content, Not Process](https://www.inc.com/jeff-haden/27-years-ago-steve-jobs-said-best-employees-focus-on-content-not-process-workplace-research-shows-he-was-right.html)
 - [Beginner dev looks at how YouTube sends videos](https://vincentsg.dev/dec31?)
-- [Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
-- [Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
