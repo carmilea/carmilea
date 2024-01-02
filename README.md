@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Support in MySQL](https://blogs.oracle.com/mysql/post/introducing-javascript-support-in-mysql)
 - [Can We Imagine a World Without Work?](https://www.bostonreview.net/articles/can-we-imagine-a-world-without-work/)
-- [Spotify starts divesting from France in response to new music-streaming tax](https://techcrunch.com/2023/12/22/spotify-france-tax-festivals/)
+- [Why Is There a &#39;Strand of DNA&#39; on Massachusetts License Plates?](https://www.wgbh.org/lifestyle/2018-03-06/why-is-there-a-strand-of-dna-on-massachusetts-license-plates)
+- [2024](https://xkcd.com/2875/)
 - [E621, Pornhub, and others block North Carolina residents](https://www.foxcarolina.com/2023/12/29/major-pornographic-blocks-users-nc-response-new-law/)
-- [Odin Programming Language](https://odin-lang.org/)
-- [Codebreaker Cracks 135 Year Old Message [video]](https://www.youtube.com/watch?v=wu9o3vSYtl4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
