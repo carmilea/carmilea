@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reductive Thinking and the Unfairness of Spotify Payments](https://shkspr.mobi/blog/2024/01/the-unfairness-of-spotify-payments-and-reductive-thinking/)
-- [South Sudan&#39;s first female gynaecologist, Dr Idyoro Ojukwu](https://nation.africa/kenya/news/gender/meet-south-sudan-s-first-female-gynaecologist-dr-idyoro-ojukwu-4471456)
-- [How do we stop Meta in 2024? We fix the information loop](https://www.fromjason.xyz/p/notebook/how-do-we-stop-meta-in-2024-we-fix-the-information-loop/)
-- [Miracle escape as burning plane lands at Tokyo airport after collision](https://www.afr.com/world/asia/miracle-escape-as-burning-plane-lands-at-tokyo-airport-after-collision-20240102-p5eut4)
+- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38842297)
+- [A New Blog for 2024](https://chrisnicholas.dev/blog/a-new-blog-for-2024)
+- [Reductive thinking and the unfairness of Spotify payments](https://shkspr.mobi/blog/2024/01/the-unfairness-of-spotify-payments-and-reductive-thinking/)
+- [After 34 Years, Someone Beat Tetris [video]](https://www.youtube.com/watch?v=GuJ5UuknsHU)
 - [LLMs and Programming in the first days of 2024](http://antirez.com/news/140)
 <!-- BLOG-POST-LIST:END -->
 
