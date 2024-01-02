@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BYD overtakes Tesla&#39;s electric car sales in last quarter of 2023](https://www.bbc.com/news/business-67860232)
-- [I Hate AI Licenses](https://ihateailicense.eu/)
-- [Text Editors Should Be Worse](https://www.da.vidbuchanan.co.uk/blog/annoying-text-editors.html)
-- [Hospitals ask courts to force cloud storage firm to return stolen data](https://www.bleepingcomputer.com/news/security/hospitals-ask-courts-to-force-cloud-storage-firm-to-return-stolen-data/)
-- [Homelab: Running Postgres on Kubernetes](https://ryan-schachte.com/blog/ha_postgres_zolando/)
+- [I&#39;ve Implemented a RSS Reader](https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere&hl=en_US)
+- [Was JavaScript made in 10 days?](https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/)
+- [Do It Yourself Blind Repair](https://fixmyblinds.com/)
+- [Git Branches Have No Rules](https://wizardzines.com/comics/branches-have-no-rules/)
+- [Online Job Posts Contain Little Wage Information [pdf]](https://www.nber.org/system/files/working_papers/w31984/w31984.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
