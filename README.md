@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blueprint health protocol – Bryan Johnson &lpar;founder braintree/Venmo&rpar;](https://protocol.bryanjohnson.com/)
+- [Nvidia RTX 5000 Ada 32GB Workstation GPU Review](https://www.servethehome.com/nvidia-rtx-5000-ada-32gb-workstation-gpu-review/)
+- [Vermont Attorney General&#39;s dog sniffs out electronic storage devices](https://vtdigger.org/2023/12/24/in-his-final-years-on-the-job-mojo-the-dog-sniffs-out-illicit-material-and-brings-immeasurable-joy-to-vermonts-internet-crimes-unit/)
+- [Microsoft keeps shooting itself in the foot with Edge](https://www.xda-developers.com/microsoft-shooting-itself-foot-edge/)
 - [Eating fewer calories can ward off ageing](https://www.economist.com/technology-quarterly/2023/09/25/eating-fewer-calories-can-ward-off-ageing)
-- [Push Notifications – What to Push, What Not to Push, and How Often](https://eugeneyan.com/writing/push/)
-- [Creative Destruction in Small Business Bankruptcy](https://www.creditslips.org/creditslips/2023/08/creative-destruction-in-small-business-bankruptcy.html)
-- [New Ultra Fast Lossless Audio Codec &lpar;HALAC&rpar;](https://hydrogenaud.io/index.php/topic,125248.0.html?PHPSESSID=su12fvq4ar7cordpr8p1uoa7p0)
-- [Sodium&#39;s high-pressure transformation shows the interiors of stars, planets](https://phys.org/news/2023-12-sodium-high-pressure-interiors-stars-planets.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
