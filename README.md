@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
+- [Apple II Emulation Evaluation &lpar;2022&rpar;](https://juiced.gs/emulators/)
+- [Images altered to trick machine vision can influence humans too](https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/)
 - [CGA in 1024 colors – a new mode &lpar;2015&rpar;](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)
-- [Realtime annotations and visualizations in live coding performance &lpar;2018&rpar;](https://charlieroberts.github.io/annotationsAndVisualizations/)
 - [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
-- [Improving Text Embeddings with Large Language Models](https://arxiv.org/abs/2401.00368)
-- [First do it, then do it right, then do it better](https://twitter.com/addyosmani/status/1739052802314539371)
 <!-- BLOG-POST-LIST:END -->
 
 ---
