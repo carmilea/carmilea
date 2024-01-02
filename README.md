@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What are your founder&#39;s resolutions for 2024?](https://news.ycombinator.com/item?id=38840007)
+- [Japan Airlines plane catches fire while landing at Tokyo airport runway](https://www.mirror.co.uk/news/world-news/breaking-plane-catches-fire-taking-31786520)
 - [Salim Kara stole $2M in coins with a magnet and a car antenna](https://www.nofreelunch.co.uk/blog/salim-kara-lrt-scam/)
 - [What I&#39;ve learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
-- [Blueprint health protocol – Bryan Johnson &lpar;founder braintree/Venmo&rpar;](https://protocol.bryanjohnson.com/)
-- [Nvidia RTX 5000 Ada 32GB Workstation GPU Review](https://www.servethehome.com/nvidia-rtx-5000-ada-32gb-workstation-gpu-review/)
-- [Vermont Attorney General&#39;s dog sniffs out electronic storage devices](https://vtdigger.org/2023/12/24/in-his-final-years-on-the-job-mojo-the-dog-sniffs-out-illicit-material-and-brings-immeasurable-joy-to-vermonts-internet-crimes-unit/)
+- [Blueprint health protocol](https://protocol.bryanjohnson.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
