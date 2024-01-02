@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can We Imagine a World Without Work?](https://www.bostonreview.net/articles/can-we-imagine-a-world-without-work/)
 - [Spotify starts divesting from France in response to new music-streaming tax](https://techcrunch.com/2023/12/22/spotify-france-tax-festivals/)
+- [E621, Pornhub, and others block North Carolina residents](https://www.foxcarolina.com/2023/12/29/major-pornographic-blocks-users-nc-response-new-law/)
 - [Odin Programming Language](https://odin-lang.org/)
 - [Codebreaker Cracks 135 Year Old Message [video]](https://www.youtube.com/watch?v=wu9o3vSYtl4)
-- [Musings on the C Charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)
-- [Fireworks likely caused water contamination at Mount Rushmore &lpar;2016&rpar;](https://www.usgs.gov/news/national-news-release/fireworks-likely-caused-water-contamination-mount-rushmore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
