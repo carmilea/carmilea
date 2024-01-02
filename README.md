@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fireworks are probable cause of perchlorate contaminant in groundwater &lpar;2016&rpar;](https://www.usgs.gov/news/national-news-release/fireworks-likely-caused-water-contamination-mount-rushmore)
-- [List of Animals That Have Passed the Mirror Test](https://www.animalcognition.org/2015/04/15/list-of-animals-that-have-passed-the-mirror-test/)
-- [NERV Disaster Prevention](https://nerv.app/en/)
-- [Displaying Content as a Graph](https://thisisimportant.net/posts/content-as-a-graph/)
-- [Fail2ban Sucks](https://j3s.sh/thought/fail2ban-sux.html)
+- [Spotify starts divesting from France in response to new music-streaming tax](https://techcrunch.com/2023/12/22/spotify-france-tax-festivals/)
+- [Odin Programming Language](https://odin-lang.org/)
+- [Codebreaker Cracks 135 Year Old Message [video]](https://www.youtube.com/watch?v=wu9o3vSYtl4)
+- [Musings on the C Charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)
+- [Fireworks likely caused water contamination at Mount Rushmore &lpar;2016&rpar;](https://www.usgs.gov/news/national-news-release/fireworks-likely-caused-water-contamination-mount-rushmore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
