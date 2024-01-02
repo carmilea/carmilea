@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrultrabook Docs](https://docs.chrultrabook.com/)
-- [Plan9/ThinkPad T420s &lpar;2021&rpar;](https://9lab.org/plan9/thinkpad-t420s/)
-- [Show HN: I&#39;ve Implemented a RSS Reader](https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere&hl=en_US)
-- [In L.A., a new vision of incarceration proves rehabilitation works](https://www.latimes.com/california/story/2023-12-26/chabria-column-los-angeles-state-prison-re-entry-facility-rehabilitation)
-- [Was Javascript really made in 10 days?](https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/)
+- [LLM spews nonsense in CVE report for curl](https://hackerone.com/reports/2298307)
+- [Show HN: Better Seater: Wedding Seating Chart Optimizer](https://seater.steam-oven.net/)
+- [Realtime Annotations and Visualizations in Live Coding Performance](https://charlieroberts.github.io/annotationsAndVisualizations/)
+- [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
+- [Improving Text Embeddings with Large Language Models](https://arxiv.org/abs/2401.00368)
 <!-- BLOG-POST-LIST:END -->
 
 ---
