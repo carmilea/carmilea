@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM spews nonsense in CVE report for curl](https://hackerone.com/reports/2298307)
-- [Show HN: Better Seater: Wedding Seating Chart Optimizer](https://seater.steam-oven.net/)
-- [Realtime Annotations and Visualizations in Live Coding Performance](https://charlieroberts.github.io/annotationsAndVisualizations/)
+- [CGA in 1024 colors – a new mode &lpar;2015&rpar;](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)
+- [Realtime annotations and visualizations in live coding performance &lpar;2018&rpar;](https://charlieroberts.github.io/annotationsAndVisualizations/)
 - [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
 - [Improving Text Embeddings with Large Language Models](https://arxiv.org/abs/2401.00368)
+- [First do it, then do it right, then do it better](https://twitter.com/addyosmani/status/1739052802314539371)
 <!-- BLOG-POST-LIST:END -->
 
 ---
