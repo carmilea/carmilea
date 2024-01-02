@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Infinite/Eternal Jukebox has been revived](https://jukebox.davi.gq/jukebox_search.html)
-- [What It&#39;s Like to Use Apple&#39;s Lockdown Mode](https://www.wired.com/story/apple-lockdown-mode-hands-on/)
-- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38842297)
-- [A New Blog for 2024](https://chrisnicholas.dev/blog/a-new-blog-for-2024)
-- [Built and Android app that uses LLMs to learn stuff](https://play.google.com/store/apps/details?id=app.vercel.pagunt.twa&hl=en_US)
+- [BYD overtakes Tesla&#39;s electric car sales in last quarter of 2023](https://www.bbc.com/news/business-67860232)
+- [I Hate AI Licenses](https://ihateailicense.eu/)
+- [Text Editors Should Be Worse](https://www.da.vidbuchanan.co.uk/blog/annoying-text-editors.html)
+- [Hospitals ask courts to force cloud storage firm to return stolen data](https://www.bleepingcomputer.com/news/security/hospitals-ask-courts-to-force-cloud-storage-firm-to-return-stolen-data/)
+- [Homelab: Running Postgres on Kubernetes](https://ryan-schachte.com/blog/ha_postgres_zolando/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
