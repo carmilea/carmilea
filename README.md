@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Build your startup or side project faster with these SaaS templates](https://hackerstartup.com)
+- [Litestream – Opensource disaster recovery and continuous replication for SQLite](https://litestream.io/)
 - [Zig cookbook: collection of simple Zig programs that demonstrate good practices](https://github.com/zigcc/zig-cookbook)
-- [$450 for a School Bag?](https://one-from-nippon.ghost.io/randoseru/)
 - [Why Is There a &#39;Strand of DNA&#39; on Massachusetts License Plates?](https://www.wgbh.org/lifestyle/2018-03-06/why-is-there-a-strand-of-dna-on-massachusetts-license-plates)
 - [Odin Programming Language](https://odin-lang.org/)
-- [Calculating Logarithms by Hand [pdf]](https://fiziko.bureau42.com/teaching_tidbits/manual_logarithms.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
