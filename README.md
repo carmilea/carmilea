@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After 34 Years, Someone Beat Tetris [video]](https://www.youtube.com/watch?v=GuJ5UuknsHU)
+- [Meet South Sudan&#39;s first female gynaecologist, Dr Idyoro Ojukwu](https://nation.africa/kenya/news/gender/meet-south-sudan-s-first-female-gynaecologist-dr-idyoro-ojukwu-4471456)
+- [Miracle escape as burning plane lands at Tokyo airport after collision](https://www.afr.com/world/asia/miracle-escape-as-burning-plane-lands-at-tokyo-airport-after-collision-20240102-p5eut4)
 - [LLMs and Programming in the first days of 2024](http://antirez.com/news/140)
 - [Elizabeth line testing ways of banishing its &quot;ghosts in the walls&quot;](https://www.ianvisits.co.uk/articles/elizabeth-line-testing-ways-of-banishing-its-ghosts-in-the-walls-68642/)
-- [Why does integer representation of a floating point approximate its logarithm?](https://stackoverflow.com/questions/75772363/why-does-the-integer-representation-of-a-floating-point-number-offer-a-piecewise)
-- [Ask HN: What are your founder&#39;s resolutions for 2024?](https://news.ycombinator.com/item?id=38840007)
-- [Japan Airlines plane catches fire while landing at Tokyo airport runway](https://www.mirror.co.uk/news/world-news/breaking-plane-catches-fire-taking-31786520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
