@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
-- [Apple II Emulation Evaluation &lpar;2022&rpar;](https://juiced.gs/emulators/)
-- [Images altered to trick machine vision can influence humans too](https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/)
-- [CGA in 1024 colors – a new mode &lpar;2015&rpar;](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)
-- [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
+- [Coal and fossil fuel use in Germany at a record low for electricity in 2023](https://www.energy-charts.info/charts/energy/chart.htm?l=en&c=DE&interval=year&year=2023)
+- [Delete or hide life-wasting apps](https://practicalbetterments.com/delete-or-hide-life-wasting-apps/)
+- [Jonathan Katz: Thoughts on PostgreSQL in 2024](https://jkatz05.com/post/postgres/postgresql-2024/)
+- [Ask HN: Has the tech recession affected you?](https://news.ycombinator.com/item?id=38847978)
+- [Show HN: Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
