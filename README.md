@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Creative Destruction in Small Business Bankruptcy](https://www.creditslips.org/creditslips/2023/08/creative-destruction-in-small-business-bankruptcy.html)
 - [New Ultra Fast Lossless Audio Codec &lpar;HALAC&rpar;](https://hydrogenaud.io/index.php/topic,125248.0.html?PHPSESSID=su12fvq4ar7cordpr8p1uoa7p0)
-- [We Could Fix Everything, We Just Don&#39;t](https://erikmcclure.com/blog/we-could-fix-everything-we-just-dont/)
-- [Show HN: Build your startup or side project faster with these SaaS templates](https://hackerstartup.com)
-- [Litestream – Opensource disaster recovery and continuous replication for SQLite](https://litestream.io/)
-- [Zig cookbook: collection of simple Zig programs that demonstrate good practices](https://github.com/zigcc/zig-cookbook)
+- [Sodium&#39;s high-pressure transformation shows the interiors of stars, planets](https://phys.org/news/2023-12-sodium-high-pressure-interiors-stars-planets.html)
+- [Constraining dynamics of rotating black holes via the gauge symmetry principle](https://phys.org/news/2023-12-constraining-dynamics-rotating-black-holes.html)
+- [Running 9front on an emulated SGI Indy via MAME](https://posixcafe.org/blogs/2024/01/01/0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
