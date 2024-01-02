@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Ultra Fast Lossless Audio Codec &lpar;HALAC&rpar;](https://hydrogenaud.io/index.php/topic,125248.0.html?PHPSESSID=su12fvq4ar7cordpr8p1uoa7p0)
+- [We Could Fix Everything, We Just Don&#39;t](https://erikmcclure.com/blog/we-could-fix-everything-we-just-dont/)
 - [Show HN: Build your startup or side project faster with these SaaS templates](https://hackerstartup.com)
 - [Litestream – Opensource disaster recovery and continuous replication for SQLite](https://litestream.io/)
 - [Zig cookbook: collection of simple Zig programs that demonstrate good practices](https://github.com/zigcc/zig-cookbook)
-- [Why Is There a &#39;Strand of DNA&#39; on Massachusetts License Plates?](https://www.wgbh.org/lifestyle/2018-03-06/why-is-there-a-strand-of-dna-on-massachusetts-license-plates)
-- [Odin Programming Language](https://odin-lang.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
