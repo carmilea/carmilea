@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Infinite/Eternal Jukebox has been revived](https://jukebox.davi.gq/jukebox_search.html)
+- [What It&#39;s Like to Use Apple&#39;s Lockdown Mode](https://www.wired.com/story/apple-lockdown-mode-hands-on/)
 - [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38842297)
 - [A New Blog for 2024](https://chrisnicholas.dev/blog/a-new-blog-for-2024)
-- [Reductive thinking and the unfairness of Spotify payments](https://shkspr.mobi/blog/2024/01/the-unfairness-of-spotify-payments-and-reductive-thinking/)
-- [After 34 Years, Someone Beat Tetris [video]](https://www.youtube.com/watch?v=GuJ5UuknsHU)
-- [LLMs and Programming in the first days of 2024](http://antirez.com/news/140)
+- [Built and Android app that uses LLMs to learn stuff](https://play.google.com/store/apps/details?id=app.vercel.pagunt.twa&hl=en_US)
 <!-- BLOG-POST-LIST:END -->
 
 ---
