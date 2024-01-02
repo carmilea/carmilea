@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Salim Kara stole $2M in coins with a magnet and a car antenna](https://www.nofreelunch.co.uk/blog/salim-kara-lrt-scam/)
+- [What I&#39;ve learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
 - [Blueprint health protocol – Bryan Johnson &lpar;founder braintree/Venmo&rpar;](https://protocol.bryanjohnson.com/)
 - [Nvidia RTX 5000 Ada 32GB Workstation GPU Review](https://www.servethehome.com/nvidia-rtx-5000-ada-32gb-workstation-gpu-review/)
 - [Vermont Attorney General&#39;s dog sniffs out electronic storage devices](https://vtdigger.org/2023/12/24/in-his-final-years-on-the-job-mojo-the-dog-sniffs-out-illicit-material-and-brings-immeasurable-joy-to-vermonts-internet-crimes-unit/)
-- [Microsoft keeps shooting itself in the foot with Edge](https://www.xda-developers.com/microsoft-shooting-itself-foot-edge/)
-- [Eating fewer calories can ward off ageing](https://www.economist.com/technology-quarterly/2023/09/25/eating-fewer-calories-can-ward-off-ageing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
