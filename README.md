@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK 2022 rail station flow images](https://github.com/anisotropi4/kingfisher/blob/main/station.md)
+- [Making the Micropipette](https://press.asimov.com/resources/making-the-micropipette)
+- [Britain&#39;s got some of Europe&#39;s toughest surveillance laws. Now it wants more](https://www.politico.eu/article/uk-bulking-up-spying-regime-breakneck-speed/)
+- [Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
 - [Driverless cars swerve traffic tickets in California even if they break the law](https://www.theregister.com/2024/01/02/driverless_cars_tickets/)
-- [Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
-- [Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models](https://arxiv.org/abs/2312.17661)
-- [A lightweight Lisp interpreter in Malbolge Unshackled](https://github.com/kspalaiologos/malbolge-lisp)
-- [GCC Specs: An Introduction](https://wozniak.ca/blog/2024/01/02/1/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
