@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Not a single person living in the moment](https://twitter.com/HumansNoContext/status/1741853474705330461)
-- [Grow and Keep Big Muscles](https://todaypurpose.com/posts/big-muscles/)
-- [Provision &lpar;YC S22&rpar; Is Hiring a Fullstack Software Engineer](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
-- [UK 2022 rail station flow images](https://github.com/anisotropi4/kingfisher/blob/main/station.md)
-- [Making the Micropipette](https://press.asimov.com/resources/making-the-micropipette)
+- [Solomon Shereshevsky](https://en.wikipedia.org/wiki/Solomon_Shereshevsky)
+- [Linux hits nearly 4% desktop user share on Statcounter](https://www.gamingonlinux.com/2024/01/linux-hits-nearly-4-desktop-user-share-on-statcounter/)
+- [Possible Meissner effect near room temperature: copper-substituted lead apatite](https://arxiv.org/abs/2401.00999)
+- [OpenBSD Workstation Hardening](https://dataswamp.org/~solene/2023-12-31-hardened-openbsd-workstation.html)
+- [Reasons to grow and keep big muscles](https://todaypurpose.com/posts/big-muscles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
