@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GCC Specs: An Introduction](https://wozniak.ca/blog/2024/01/02/1/index.html)
+- [More Americans can now get insulin for $35](https://www.cnn.com/2024/01/01/politics/insulin-price-cap/index.html)
 - [Suicide Rates Are Up for Gen Z Across the Anglosphere, Especially for Girls](https://www.afterbabel.com/p/anglo-teen-suicide)
-- [With revenue and users declining, Mozilla CEO gets a 20% raise](https://www.theregister.com/2024/01/02/mozilla_in_2024_ai_privacy/)
 - [Can a pill prevent deaths from venomous snakebites?](https://www.latimes.com/environment/story/2023-12-24/can-a-pill-prevent-deaths-from-venomous-snake-bites)
 - [Show HN: Hacker News Year in Review: 2023](https://public.tableau.com/app/profile/isna/viz/HackerNewsDashboard_17042353296150/HackerNewsYearinReview2023)
-- [QEMU AioContext removal and how it was done](http://blog.vmsplice.net/2024/01/qemu-aiocontext-removal-and-how-it-was.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
