@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chief executive of collapsed crypto fund Hyperverse does not appear to exist](https://www.theguardian.com/technology/2024/jan/04/chief-executive-of-collapsed-crypto-fund-hyperverse-does-not-appear-to-exist)
 - [Xerox to cut 15% of its workforce](https://www.cnbc.com/2024/01/03/xerox-layoffs-company-to-cut-15percent-of-workforce.html)
-- [U.S. cities opt to ditch their off-street parking minimums](https://www.npr.org/2024/01/02/1221366173/u-s-cities-drop-parking-space-minimums-development)
 - [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
-- [Cancer Plagued the Dinosaurs &lpar;2023&rpar;](https://www.bbc.com/future/article/20230214-could-dinosaurs-get-cancer)
+- [Ancient diseases that plagued the dinosaurs &lpar;2023&rpar;](https://www.bbc.com/future/article/20230214-could-dinosaurs-get-cancer)
 - [Operation Triangulation What You Get When Attack iPhones of Researchers [video]](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers)
 <!-- BLOG-POST-LIST:END -->
 
