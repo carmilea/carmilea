@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chief executive of collapsed crypto fund Hyperverse does not appear to exist](https://www.theguardian.com/technology/2024/jan/04/chief-executive-of-collapsed-crypto-fund-hyperverse-does-not-appear-to-exist)
-- [Xerox to cut 15% of its workforce](https://www.cnbc.com/2024/01/03/xerox-layoffs-company-to-cut-15percent-of-workforce.html)
-- [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
-- [Ancient diseases that plagued the dinosaurs &lpar;2023&rpar;](https://www.bbc.com/future/article/20230214-could-dinosaurs-get-cancer)
-- [Operation Triangulation What You Get When Attack iPhones of Researchers [video]](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers)
+- [Show HN: Ambiphone, no-nonsense ambient music and white noise](https://ambiph.one?hn)
+- [How a New Orleans group is using AI to counteract city surveillance expansion](https://eyeonsurveillance.org/blog/rag-for-new-orleans-city-council-transparency)
+- [C and C++ Hot-Reload/Live Coding](https://liveplusplus.tech/)
+- [The Quadrantid meteor shower 2024 peaks tonight alongside a bright moon](https://www.space.com/quarantid-meteor-shower-bright-moon-2024)
+- [Magnetic tunnel junction-based computational random-access memory](https://arxiv.org/abs/2312.14264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
