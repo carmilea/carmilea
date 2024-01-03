@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Coal and fossil fuel use in Germany at a record low for electricity in 2023](https://www.energy-charts.info/charts/energy/chart.htm?l=en&c=DE&interval=year&year=2023)
-- [Delete or hide life-wasting apps](https://practicalbetterments.com/delete-or-hide-life-wasting-apps/)
-- [Jonathan Katz: Thoughts on PostgreSQL in 2024](https://jkatz05.com/post/postgres/postgresql-2024/)
-- [Ask HN: Has the tech recession affected you?](https://news.ycombinator.com/item?id=38847978)
-- [Show HN: Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
+- [Lambdasort: Quicksort written in Python only using lambdas](https://lucasoshiro.github.io/software-en/2020-06-06-lambdasort/)
+- [Can a pill prevent deaths from venomous snakebites?](https://www.latimes.com/environment/story/2023-12-24/can-a-pill-prevent-deaths-from-venomous-snake-bites)
+- [Thoughts on PostgreSQL in 2024](https://jkatz05.com/post/postgres/postgresql-2024/)
+- [QEMU AioContext removal and how it was done](http://blog.vmsplice.net/2024/01/qemu-aiocontext-removal-and-how-it-was.html)
+- [Browsers are the most likely disruptor of the mobile duopoly](https://infrequently.org/2024/01/the-web-is-the-app-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
