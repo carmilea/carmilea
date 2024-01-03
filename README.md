@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lambdasort: Quicksort written in Python only using lambdas](https://lucasoshiro.github.io/software-en/2020-06-06-lambdasort/)
+- [With revenue and users declining, Mozilla CEO gets a 20% raise](https://www.theregister.com/2024/01/02/mozilla_in_2024_ai_privacy/)
 - [Can a pill prevent deaths from venomous snakebites?](https://www.latimes.com/environment/story/2023-12-24/can-a-pill-prevent-deaths-from-venomous-snake-bites)
+- [Show HN: Hacker News Year in Review: 2023](https://public.tableau.com/app/profile/isna/viz/HackerNewsDashboard_17042353296150/HackerNewsYearinReview2023)
 - [Thoughts on PostgreSQL in 2024](https://jkatz05.com/post/postgres/postgresql-2024/)
 - [QEMU AioContext removal and how it was done](http://blog.vmsplice.net/2024/01/qemu-aiocontext-removal-and-how-it-was.html)
-- [Browsers are the most likely disruptor of the mobile duopoly](https://infrequently.org/2024/01/the-web-is-the-app-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
