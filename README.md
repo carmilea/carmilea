@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Provision &lpar;YC S22&rpar; Is Hiring a Fullstack Software Engineer](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
 - [UK 2022 rail station flow images](https://github.com/anisotropi4/kingfisher/blob/main/station.md)
 - [Making the Micropipette](https://press.asimov.com/resources/making-the-micropipette)
 - [Britain&#39;s got some of Europe&#39;s toughest surveillance laws. Now it wants more](https://www.politico.eu/article/uk-bulking-up-spying-regime-breakneck-speed/)
 - [Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
-- [Driverless cars swerve traffic tickets in California even if they break the law](https://www.theregister.com/2024/01/02/driverless_cars_tickets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
