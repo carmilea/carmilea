@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Who is hiring justice-impacted engineers?](https://news.ycombinator.com/item?id=38858075)
+- [Niklaus Wirth Passed Away](https://twitter.com/Bertrand_Meyer/status/1742613897675178347)
+- [Porsche Design System v3](https://designsystem.porsche.com/v3/)
+- [The drive stats of Backblaze storage pods](https://www.backblaze.com/blog/the-drive-stats-of-backblaze-storage-pods/)
 - [Show HN: Ambiphone, no-nonsense ambient music and white noise](https://ambiph.one?hn)
-- [How a New Orleans group is using AI to counteract city surveillance expansion](https://eyeonsurveillance.org/blog/rag-for-new-orleans-city-council-transparency)
-- [C and C++ Hot-Reload/Live Coding](https://liveplusplus.tech/)
-- [The Quadrantid meteor shower 2024 peaks tonight alongside a bright moon](https://www.space.com/quarantid-meteor-shower-bright-moon-2024)
-- [Magnetic tunnel junction-based computational random-access memory](https://arxiv.org/abs/2312.14264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
