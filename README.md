@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Someone was breaking into Orange Spain RIPE account &lpar;and break their /12&rpar;](https://benjojo.co.uk/u/benjojo/h/r1zj333N4L6cF7P1xv)
-- [Show HN: A Who is Hiring app with AI filters](https://bernawil.github.io/hn-who-is-hiring/)
-- [Niklaus Wirth has died](https://twitter.com/Bertrand_Meyer/status/1742613897675178347)
-- [Porsche Design System v3](https://designsystem.porsche.com/v3/)
-- [The drive stats of Backblaze storage pods](https://www.backblaze.com/blog/the-drive-stats-of-backblaze-storage-pods/)
+- [The crazy market for the most expensive pet fish](https://thehustle.co/asian-arowana-most-expensive-fish/)
+- [Laylo Is Hiring a Live Events and Music Account Executive](https://www.ycombinator.com/companies/laylo/jobs/x3d7mtv-live-events-music-account-executive)
+- [TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones](https://github.com/DLYuanGod/TinyGPT-V)
+- [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
+- [My 3-year experiment as a digital nomad](https://www.kapwing.com/blog/digital-nomad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
