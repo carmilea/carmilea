@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Who is hiring justice-impacted engineers?](https://news.ycombinator.com/item?id=38858075)
-- [Niklaus Wirth Passed Away](https://twitter.com/Bertrand_Meyer/status/1742613897675178347)
+- [Someone was breaking into Orange Spain RIPE account &lpar;and break their /12&rpar;](https://benjojo.co.uk/u/benjojo/h/r1zj333N4L6cF7P1xv)
+- [Show HN: A Who is Hiring app with AI filters](https://bernawil.github.io/hn-who-is-hiring/)
+- [Niklaus Wirth has died](https://twitter.com/Bertrand_Meyer/status/1742613897675178347)
 - [Porsche Design System v3](https://designsystem.porsche.com/v3/)
 - [The drive stats of Backblaze storage pods](https://www.backblaze.com/blog/the-drive-stats-of-backblaze-storage-pods/)
-- [Show HN: Ambiphone, no-nonsense ambient music and white noise](https://ambiph.one?hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
