@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FTC Continues to Wade into Copyright Issues in AI Without Understanding Anything](https://www.techdirt.com/2024/01/02/ftc-continues-to-wade-into-copyright-issues-in-ai-without-understanding-anything/)
-- [Revealed: Almost half of British teens feel addicted to social media, study says](https://www.theguardian.com/lifeandstyle/2024/jan/02/social-media-addiction-teenagers-study-phones)
-- [Farnborough airport&#39;s biggest critic silenced as expansion plans continue](https://www.theguardian.com/uk-news/2024/jan/03/farnborough-airports-biggest-critic-silenced-as-expansion-plans-continue)
-- [Linux hits nearly 4% desktop user share on Statcounter](https://www.gamingonlinux.com/2024/01/linux-hits-nearly-4-desktop-user-share-on-statcounter/)
-- [Possible Meissner effect near room temperature: copper-substituted lead apatite](https://arxiv.org/abs/2401.00999)
+- [Xerox to cut 15% of its workforce](https://www.cnbc.com/2024/01/03/xerox-layoffs-company-to-cut-15percent-of-workforce.html)
+- [U.S. cities opt to ditch their off-street parking minimums](https://www.npr.org/2024/01/02/1221366173/u-s-cities-drop-parking-space-minimums-development)
+- [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
+- [Cancer Plagued the Dinosaurs &lpar;2023&rpar;](https://www.bbc.com/future/article/20230214-could-dinosaurs-get-cancer)
+- [Operation Triangulation What You Get When Attack iPhones of Researchers [video]](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
