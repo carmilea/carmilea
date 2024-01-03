@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Solomon Shereshevsky](https://en.wikipedia.org/wiki/Solomon_Shereshevsky)
+- [FTC Continues to Wade into Copyright Issues in AI Without Understanding Anything](https://www.techdirt.com/2024/01/02/ftc-continues-to-wade-into-copyright-issues-in-ai-without-understanding-anything/)
+- [Revealed: Almost half of British teens feel addicted to social media, study says](https://www.theguardian.com/lifeandstyle/2024/jan/02/social-media-addiction-teenagers-study-phones)
+- [Farnborough airport&#39;s biggest critic silenced as expansion plans continue](https://www.theguardian.com/uk-news/2024/jan/03/farnborough-airports-biggest-critic-silenced-as-expansion-plans-continue)
 - [Linux hits nearly 4% desktop user share on Statcounter](https://www.gamingonlinux.com/2024/01/linux-hits-nearly-4-desktop-user-share-on-statcounter/)
 - [Possible Meissner effect near room temperature: copper-substituted lead apatite](https://arxiv.org/abs/2401.00999)
-- [OpenBSD Workstation Hardening](https://dataswamp.org/~solene/2023-12-31-hardened-openbsd-workstation.html)
-- [Reasons to grow and keep big muscles](https://todaypurpose.com/posts/big-muscles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
