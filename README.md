@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Awesome Cold Showers](https://github.com/hwayne/awesome-cold-showers)
+- [Vox: Upcoming open-source browser engine in V](https://vox.sx/)
+- [OpenAI&#39;s GPT Store Launches Next Week](https://adsby.co/blog/openai-s-gpt-store-launches-next-week/)
+- [Cold showers on overhyped topics &lpar;2017&rpar;](https://github.com/hwayne/awesome-cold-showers)
 - [Lower Obesity Rate During Residence at High Altitude Among a Military Population](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093493)
 - [AMD Proposes an FPGA Subsystem User-Space Interface for Linux](https://www.phoronix.com/news/FPGA-User-Space-Interface-AMD)
-- [GPT Store Launch](https://news.ycombinator.com/item?id=38870249)
-- [Making the Web Fun Again](https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again)
 <!-- BLOG-POST-LIST:END -->
 
 ---
