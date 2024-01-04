@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iPhone physical keyboard from ex-Crackberry guy](https://www.clicks.tech/)
+- [Poor Charlie&#39;s Almanack](https://www.stripe.press/poor-charlies-almanack)
+- [Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
+- [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
 - [Minimum Wage Clock](https://moonbase.lgbt/blog/minimum-wage-clock/)
-- [Vox: Alpha open-source browser engine in V](https://vox.sx/)
-- [Cold showers on overhyped topics &lpar;2017&rpar;](https://github.com/hwayne/awesome-cold-showers)
-- [AMD Proposes an FPGA Subsystem User-Space Interface for Linux](https://www.phoronix.com/news/FPGA-User-Space-Interface-AMD)
+- [GPUI 2 is now in production – Zed](https://zed.dev/blog/gpui-2-on-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
