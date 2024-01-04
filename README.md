@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CAS 761: Generative Programming &lpar;Winter 2024&rpar;](http://www.cas.mcmaster.ca/~carette/CAS761/W2024/index.html)
+- [Think more about what to focus on](https://www.henrikkarlsson.xyz/p/multi-armed-bandit)
+- [The Curious Case of MD5](https://katelynsills.com/law/the-curious-case-of-md5/)
 - [Understand how transformers work by demystifying the math behind them](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/)
 - [Asian Arowana: The most expensive pet fish](https://thehustle.co/asian-arowana-most-expensive-fish/)
-- [Laylo &lpar;YC S20&rpar; is hiring a live events and music account executive](https://www.ycombinator.com/companies/laylo/jobs/x3d7mtv-live-events-music-account-executive)
-- [TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones](https://github.com/DLYuanGod/TinyGPT-V)
-- [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1](https://mahaloz.re/dec-history-pt1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
