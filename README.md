@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Room-Temperature Superconductor Replicated](https://x.com/pronounced_kyle/status/1742588127628361809)
 - [&#39;Giant&#39; predator worm more than half a billion years old discovered in Greenland](https://www.bristol.ac.uk/news/2024/january/giant-worm-fossils-.html)
-- [Military action against land-based targets in Yemen moves a step closer](https://splash247.com/military-action-against-land-based-targets-in-yemen-moves-a-step-closer/)
-- [Power over Fibre &lpar;3v 180mA&rpar;](https://chaos.social/@f4grx/111697027153656114)
+- [Power over fiber](https://chaos.social/@f4grx/111697027153656114)
 - [AI and satellite imagery used to create clearest map of human activity at sea](https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil)
 - [Software Technical Writing: A Guidebook [pdf]](https://jamesg.blog/book.pdf)
 <!-- BLOG-POST-LIST:END -->
