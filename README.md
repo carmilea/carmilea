@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Those jobs you&#39;re applying to? They might not be real](https://www.marketplace.org/2024/01/03/those-jobs-youre-applying-to-they-might-not-be-real/)
 - [Why a toaster from 1949 is still smarter than any sold today](https://www.theverge.com/22801890/sunbeam-radiant-control-toaster-t20-t35-vista)
+- [How Open ID Connect Works](https://blog.digger.dev/how-open-id-connect-works-illustrated/)
+- [AMD&#39;s 22 year old GPUs are still getting updates](https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/26816)
 - [Launch HN: Rosebud &lpar;YC S19&rpar; – Turn game descriptions into browser games](https://news.ycombinator.com/item?id=38868185)
-- [Iggy.rs – building message streaming in Rust](https://blog.iggy.rs/posts/building-message-streaming-in-rust/)
-- [SpaceX launches first phone service satellites](https://www.theguardian.com/science/2024/jan/03/spacex-elon-musk-phone-starlink-satellites)
-- [What went wrong with Horizon: learning from the Post Office Trial](https://www.benthamsgaze.org/2021/07/15/what-went-wrong-with-horizon-learning-from-the-post-office-trial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
