@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Poor Charlie&#39;s Almanack](https://www.stripe.press/poor-charlies-almanack)
-- [Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
+- [Go: What we got right, what we got wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
 - [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
-- [Minimum Wage Clock](https://moonbase.lgbt/blog/minimum-wage-clock/)
-- [GPUI 2 is now in production – Zed](https://zed.dev/blog/gpui-2-on-preview)
+- [Databases in 2023: A Year in Review](https://ottertune.com/blog/2023-databases-retrospective)
+- [AMD proposes an FPGA subsystem user-space interface for Linux](https://www.phoronix.com/news/FPGA-User-Space-Interface-AMD)
+- [Audio2Photoreal](https://github.com/facebookresearch/audio2photoreal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
