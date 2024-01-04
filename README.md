@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alan Turing – The Delilah Project](https://www.bonhams.com/auction/28322/lot/45/turing-alan-the-delilah-project-the-papers-of-alan-turing-and-donald-bayley-relating-to-the-delilah-project/)
+- [SpaceX Illegally Fired Workers Critical of Musk, Federal Agency Says](https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html)
 - [CAS 761: Generative Programming &lpar;Winter 2024&rpar;](http://www.cas.mcmaster.ca/~carette/CAS761/W2024/index.html)
 - [Think more about what to focus on](https://www.henrikkarlsson.xyz/p/multi-armed-bandit)
-- [The Curious Case of MD5](https://katelynsills.com/law/the-curious-case-of-md5/)
-- [Understand how transformers work by demystifying the math behind them](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/)
-- [Asian Arowana: The most expensive pet fish](https://thehustle.co/asian-arowana-most-expensive-fish/)
+- [Airtable acquires Airplane](https://www.airplane.dev/blog/airtable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
