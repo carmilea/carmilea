@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Police Drone Footage Is Not Exempt from California Public Records Act](https://www.eff.org/deeplinks/2024/01/victory-police-drone-footage-not-categorically-exempt-californias-public-records)
+- [Digitization Puts Many at a Disadvantage](https://cacm.acm.org/blogs/blog-cacm/279026-digitization-puts-many-at-a-disadvantage/fulltext)
 - [A Science of Concurrent Programs by *the* Leslie Lamport [pdf]](https://lamport.azurewebsites.net/tla/science.pdf)
 - [Lilygo T-Deck: 2.8-inch IPS LCD display, mini keyboard, and ESP32 processor](https://www.lilygo.cc/products/t-deck)
 - [Patriot Missile Floating Point Software Problem Led to Deaths of 28 Americans](https://www.cs.unc.edu/%7Esmp/COMP205/LECTURES/ERROR/lec23/node4.html)
-- [Alan Turing – The Delilah Project](https://www.bonhams.com/auction/28322/lot/45/turing-alan-the-delilah-project-the-papers-of-alan-turing-and-donald-bayley-relating-to-the-delilah-project/)
-- [SpaceX Illegally Fired Workers Critical of Musk, Federal Agency Says](https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
