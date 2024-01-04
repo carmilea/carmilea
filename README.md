@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software Technical Writing: A Guidebook [pdf]](https://jamesg.blog/book.pdf)
 - [&quot;Anna&#39;s Archive&quot; Shadow Library Blocked Following Publishers&#39; Complaint](https://torrentfreak.com/silenzio-annas-archive-shadow-library-blocked-following-publishers-complaint-240104/)
+- [Late 70s and 80s: forget BASIC, we had Pascal and C](https://retrofun.pl/2024/01/03/70s-and-80s-forget-basic-we-had-pascal-and-c/)
 - [How to Control JavaScript&#39;s Strict Mode](https://jskatas.org/blog/2023/10/16-control-strict-mode/)
 - [Ten years isn&#39;t long enough for maximum age settings](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TenYearsNotLongEnough)
-- [A Science of Concurrent Programs [pdf]](https://lamport.azurewebsites.net/tla/science.pdf)
-- [Lilygo T-Deck: 2.8-inch IPS LCD display, mini keyboard, and ESP32 processor](https://www.lilygo.cc/products/t-deck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
