@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What went wrong with Horizon: learning from the Post Office Trial](https://www.benthamsgaze.org/2021/07/15/what-went-wrong-with-horizon-learning-from-the-post-office-trial/)
+- [Fossil evidence of photosynthesis gets a billion years older](https://arstechnica.com/science/2024/01/fossil-evidence-of-photosynthesis-from-1-7-billion-years-ago/)
+- [Zuckerberg&#39;s Bunker Plans Fuel Speculation on Billionaires Building Bunkers](https://decodetoday.com/zuckerbergs-bunker-plans-fuel-speculation-on-billionaires-building-bunkers/)
+- [BitTorrent Tracker Blocks &#39;Infringing&#39; Hashes](https://torrentfreak.com/bittorrent-tracker-blocks-thousands-of-infringing-hashes-240103/)
 - [Origins of J](https://github.com/kelas/ooj)
-- [75% of the world’s industrial fishing vessels are hidden from public view](https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/)
-- [Google Is Finally Killing Cookies. Advertisers Still Aren&#39;t Ready](https://www.wsj.com/tech/google-is-finally-killing-cookies-advertisers-still-arent-ready-7582fcac)
-- [Room-Temperature Superconductor Replicated](https://x.com/pronounced_kyle/status/1742588127628361809)
-- [&#39;Giant&#39; predator worm more than half a billion years old discovered in Greenland](https://www.bristol.ac.uk/news/2024/january/giant-worm-fossils-.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
