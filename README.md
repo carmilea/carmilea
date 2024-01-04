@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Those jobs you&#39;re applying to? They might not be real](https://www.marketplace.org/2024/01/03/those-jobs-youre-applying-to-they-might-not-be-real/)
-- [Why a toaster from 1949 is still smarter than any sold today](https://www.theverge.com/22801890/sunbeam-radiant-control-toaster-t20-t35-vista)
-- [How Open ID Connect Works](https://blog.digger.dev/how-open-id-connect-works-illustrated/)
-- [AMD&#39;s 22 year old GPUs are still getting updates](https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/26816)
-- [Launch HN: Rosebud &lpar;YC S19&rpar; – Turn game descriptions into browser games](https://news.ycombinator.com/item?id=38868185)
+- [Making the Web Fun Again](https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again)
+- [Show HN: Bring phone calls into the browser &lpar;sip-to-WebRTC&rpar;](https://github.com/pion/example-webrtc-applications/tree/master/sip-to-webrtc)
+- [23andMe risks public relations disaster as it blames customers for data breach](https://www.itpro.com/security/data-breaches/23andme-risks-public-relations-disaster-as-it-blames-customers-for-data-breach)
+- [Project Oberon the Design of an Operating System, a Compiler, and a Computer Pdf](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
+- [Show HN: Sit](https://sit.sonnet.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
