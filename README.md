@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Giant&#39; predator worm more than half a billion years old discovered in Greenland](https://www.bristol.ac.uk/news/2024/january/giant-worm-fossils-.html)
+- [Military action against land-based targets in Yemen moves a step closer](https://splash247.com/military-action-against-land-based-targets-in-yemen-moves-a-step-closer/)
+- [Power over Fibre &lpar;3v 180mA&rpar;](https://chaos.social/@f4grx/111697027153656114)
+- [AI and satellite imagery used to create clearest map of human activity at sea](https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil)
 - [Software Technical Writing: A Guidebook [pdf]](https://jamesg.blog/book.pdf)
-- [&quot;Anna&#39;s Archive&quot; Shadow Library Blocked Following Publishers&#39; Complaint](https://torrentfreak.com/silenzio-annas-archive-shadow-library-blocked-following-publishers-complaint-240104/)
-- [Late 70s and 80s: forget BASIC, we had Pascal and C](https://retrofun.pl/2024/01/03/70s-and-80s-forget-basic-we-had-pascal-and-c/)
-- [How to Control JavaScript&#39;s Strict Mode](https://jskatas.org/blog/2023/10/16-control-strict-mode/)
-- [Ten years isn&#39;t long enough for maximum age settings](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TenYearsNotLongEnough)
 <!-- BLOG-POST-LIST:END -->
 
 ---
