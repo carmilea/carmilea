@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Control JavaScript&#39;s Strict Mode](https://jskatas.org/blog/2023/10/16-control-strict-mode/)
 - [Ten years isn&#39;t long enough for maximum age settings](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TenYearsNotLongEnough)
 - [A Science of Concurrent Programs [pdf]](https://lamport.azurewebsites.net/tla/science.pdf)
 - [Lilygo T-Deck: 2.8-inch IPS LCD display, mini keyboard, and ESP32 processor](https://www.lilygo.cc/products/t-deck)
 - [Alan Turing – The Delilah Project](https://www.bonhams.com/auction/28322/lot/45/turing-alan-the-delilah-project-the-papers-of-alan-turing-and-donald-bayley-relating-to-the-delilah-project/)
-- [Think more about what to focus on](https://www.henrikkarlsson.xyz/p/multi-armed-bandit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
