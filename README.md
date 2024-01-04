@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vox: Upcoming open-source browser engine in V](https://vox.sx/)
-- [OpenAI&#39;s GPT Store Launches Next Week](https://adsby.co/blog/openai-s-gpt-store-launches-next-week/)
+- [iPhone physical keyboard from ex-Crackberry guy](https://www.clicks.tech/)
+- [Minimum Wage Clock](https://moonbase.lgbt/blog/minimum-wage-clock/)
+- [Vox: Alpha open-source browser engine in V](https://vox.sx/)
 - [Cold showers on overhyped topics &lpar;2017&rpar;](https://github.com/hwayne/awesome-cold-showers)
-- [Lower Obesity Rate During Residence at High Altitude Among a Military Population](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093493)
 - [AMD Proposes an FPGA Subsystem User-Space Interface for Linux](https://www.phoronix.com/news/FPGA-User-Space-Interface-AMD)
 <!-- BLOG-POST-LIST:END -->
 
