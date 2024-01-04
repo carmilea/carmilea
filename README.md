@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Awesome Cold Showers](https://github.com/hwayne/awesome-cold-showers)
+- [Lower Obesity Rate During Residence at High Altitude Among a Military Population](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093493)
+- [AMD Proposes an FPGA Subsystem User-Space Interface for Linux](https://www.phoronix.com/news/FPGA-User-Space-Interface-AMD)
+- [GPT Store Launch](https://news.ycombinator.com/item?id=38870249)
 - [Making the Web Fun Again](https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again)
-- [Show HN: Bring phone calls into the browser &lpar;sip-to-WebRTC&rpar;](https://github.com/pion/example-webrtc-applications/tree/master/sip-to-webrtc)
-- [23andMe risks public relations disaster as it blames customers for data breach](https://www.itpro.com/security/data-breaches/23andme-risks-public-relations-disaster-as-it-blames-customers-for-data-breach)
-- [Project Oberon the Design of an Operating System, a Compiler, and a Computer Pdf](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
-- [Show HN: Sit](https://sit.sonnet.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
