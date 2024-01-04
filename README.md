@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Origins of J](https://github.com/kelas/ooj)
+- [75% of the world’s industrial fishing vessels are hidden from public view](https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/)
+- [Google Is Finally Killing Cookies. Advertisers Still Aren&#39;t Ready](https://www.wsj.com/tech/google-is-finally-killing-cookies-advertisers-still-arent-ready-7582fcac)
 - [Room-Temperature Superconductor Replicated](https://x.com/pronounced_kyle/status/1742588127628361809)
 - [&#39;Giant&#39; predator worm more than half a billion years old discovered in Greenland](https://www.bristol.ac.uk/news/2024/january/giant-worm-fossils-.html)
-- [Power over fiber](https://chaos.social/@f4grx/111697027153656114)
-- [AI and satellite imagery used to create clearest map of human activity at sea](https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil)
-- [Software Technical Writing: A Guidebook [pdf]](https://jamesg.blog/book.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
