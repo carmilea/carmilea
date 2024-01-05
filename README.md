@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blood, Guns, and Broken Scooters: Inside the Chaotic Rise and Fall of Bird](https://www.wired.com/story/blood-guns-scooters-bird/)
 - [Hard disk LEDs and noisy machines](https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines)
 - [U.S. moves closer to filing antitrust case against Apple](https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html)
 - [In Europe, Trains Are Full, and More Are on the Way](https://www.nytimes.com/2024/01/04/travel/europe-new-trains.html)
-- [A rocket a day keeps the high costs away &lpar;1993&rpar;](https://www.fourmilab.ch/documents/aRocketAday.txt)
-- [How to build a thinking AI](https://aithought.com/)
+- [SSH-Snake: Automated SSH-Based Network Traversal](https://github.com/MegaManSec/SSH-Snake)
 <!-- BLOG-POST-LIST:END -->
 
 ---
