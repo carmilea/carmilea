@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CellLVM: A proof-of-concept LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
-- [Thoughts on Testing](https://www.brandons.me/blog/thoughts-on-testing)
-- [Apple&#39;s classic Pascal poster, remade as a vector image [pdf]](http://www.danamania.com/print/Apple%20Pascal%20Poster/PascalPosterV3%20A1.pdf)
-- [WebRTC for the Curious &lpar;2020&rpar;](https://webrtcforthecurious.com/)
-- [Learning bimanual mobile manipulation with low-cost whole-body teleoperation](https://mobile-aloha.github.io)
+- [Bodycams for civilians](https://www.core77.com/posts/126756/Hell-in-a-Handbasket-Bodycams-for-Civilians)
+- [Portable Efficient Assembly Code-Generator in Higher-Level Python &lpar;PeachPy&rpar;](https://github.com/Maratyszcza/PeachPy)
+- [Australian woman used her BYD electric car to power her son&#39;s dialysis machine](https://www.businessinsider.com/byd-electric-car-powers-life-saving-machine-during-blackout-2024-1)
+- [Not all automated testing tools support Shadow DOM in web components](https://matuzo.at/blog/2024/automated-testing-tools-and-web-components)
+- [Sentry new TOS to use data to train AI with no opt-out](https://sentry.io/legal/changelog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
