@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [CellLVM: A proof-of-concept LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
 - [Thoughts on Testing](https://www.brandons.me/blog/thoughts-on-testing)
-- [Did you compare the cost of using a GPT plus subscription and use GPT by API?](https://news.ycombinator.com/item?id=38876419)
 - [Apple&#39;s classic Pascal poster, remade as a vector image [pdf]](http://www.danamania.com/print/Apple%20Pascal%20Poster/PascalPosterV3%20A1.pdf)
 - [WebRTC for the Curious &lpar;2020&rpar;](https://webrtcforthecurious.com/)
+- [Learning bimanual mobile manipulation with low-cost whole-body teleoperation](https://mobile-aloha.github.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
