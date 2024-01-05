@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Looo.lol – a binary math site](https://looo.lol/)
+- [Dennis Ritchie on the priorities of &amp;&amp; || vs. == etc. &lpar;1982&rpar;](https://www.lysator.liu.se/c/dmr-on-or.html)
 - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
 - [TinyLlama: An Open-Source Small Language Model](https://arxiv.org/abs/2401.02385)
 - [Kurt Gödel, his mother and the argument for life after death](https://aeon.co/essays/kurt-godel-his-mother-and-the-argument-for-life-after-death)
-- [M3 CPU cores have become more versatile](https://eclecticlight.co/2024/01/05/m3-cpu-cores-have-become-more-versatile/)
-- [Blood, Guns, and Broken Scooters: Inside the Chaotic Rise and Fall of Bird](https://www.wired.com/story/blood-guns-scooters-bird/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
