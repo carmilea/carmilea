@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is the latest near-room-temperature superconductor legit?](https://techcrunch.com/2024/01/04/yet-another-superconductor-claim/)
+- [CellLVM: A proof-of-concept LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
+- [Thoughts on Testing](https://www.brandons.me/blog/thoughts-on-testing)
+- [Did you compare the cost of using a GPT plus subscription and use GPT by API?](https://news.ycombinator.com/item?id=38876419)
 - [Apple&#39;s classic Pascal poster, remade as a vector image [pdf]](http://www.danamania.com/print/Apple%20Pascal%20Poster/PascalPosterV3%20A1.pdf)
 - [WebRTC for the Curious &lpar;2020&rpar;](https://webrtcforthecurious.com/)
-- [Learning bimanual mobile manipulation with low-cost whole-body teleoperation](https://mobile-aloha.github.io)
-- [Don&#39;t pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
