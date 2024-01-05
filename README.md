@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the latest near-room-temperature superconductor legit?](https://techcrunch.com/2024/01/04/yet-another-superconductor-claim/)
 - [Apple&#39;s classic Pascal poster, remade as a vector image [pdf]](http://www.danamania.com/print/Apple%20Pascal%20Poster/PascalPosterV3%20A1.pdf)
 - [WebRTC for the Curious &lpar;2020&rpar;](https://webrtcforthecurious.com/)
 - [Learning bimanual mobile manipulation with low-cost whole-body teleoperation](https://mobile-aloha.github.io)
 - [Don&#39;t pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
-- [How Australia’s ‘Bluey’ conquered children’s entertainment](https://www.ft.com/content/0a3c9806-8b0f-4cca-a4e5-e1e6dd6d395b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
