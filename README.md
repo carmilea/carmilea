@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hard disk LEDs and noisy machines](https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines)
+- [U.S. moves closer to filing antitrust case against Apple](https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html)
 - [In Europe, Trains Are Full, and More Are on the Way](https://www.nytimes.com/2024/01/04/travel/europe-new-trains.html)
 - [A rocket a day keeps the high costs away &lpar;1993&rpar;](https://www.fourmilab.ch/documents/aRocketAday.txt)
-- [How to Build a Thinking AI](https://aithought.com/)
-- [Best 7B LLM on leaderboards made by an amateur following a medium tutorial](https://huggingface.co/CultriX/MistralTrix-v1)
-- [Boeing wants FAA to exempt MAX 7 from safety rules to get it in the air](https://www.seattletimes.com/business/boeing-aerospace/boeing-wants-faa-to-exempt-max-7-from-safety-rules-to-get-it-in-the-air/)
+- [How to build a thinking AI](https://aithought.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
