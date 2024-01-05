@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;everything&#39; blocks devs from removing their own NPM packages](https://www.bleepingcomputer.com/news/security/everything-blocks-devs-from-removing-their-own-npm-packages/)
+- [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
+- [23andMe told victims of data breach that suing is futile](https://arstechnica.com/tech-policy/2024/01/23andme-shamelessly-blaming-users-for-data-breach-lawyer-says/)
 - [Google illegally refusing to bargain with employee union, says NLRB](https://www.theregister.com/2024/01/04/google_illegally_refusing_to_bargain/)
 - [You shouldn&#39;t run NSA-grade Wi-Fi at home. Here&#39;s how to do it](https://smallstep.com/blog/home-network-eap-tls-wifi/)
 - [Go: What we got right, what we got wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
-- [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
