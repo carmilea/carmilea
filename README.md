@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Standard Ebooks Serves millions of Requests per Month with a 2GB VPS &lpar;2022&rpar;](https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech)
-- [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
-- [&#39;everything&#39; blocks devs from removing their own NPM packages](https://www.bleepingcomputer.com/news/security/everything-blocks-devs-from-removing-their-own-npm-packages/)
-- [WPA3 Enterprise 192-bit mode at home](https://smallstep.com/blog/home-network-eap-tls-wifi/)
-- [Go: What we got right, what we got wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
+- [Apple&#39;s classic Pascal poster, remade as a nice clean vector image [pdf]](http://www.danamania.com/print/Apple%20Pascal%20Poster/PascalPosterV3%20A1.pdf)
+- [WebRTC for the Curious](https://webrtcforthecurious.com/)
+- [Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation](https://mobile-aloha.github.io)
+- [Speed up your code: don&#39;t pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
+- [Modern Java/JVM Build Practices](https://github.com/binkley/modern-java-practices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
