@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zeiss holographic camera turns any window into an invisible camera](https://www.digitalcameraworld.com/news/this-holographic-camera-turns-any-window-into-an-invisible-camera)
-- [Microsoft is adding a new key to PC keyboards for the first time  since 1994](https://arstechnica.com/gadgets/2024/01/ai-comes-for-your-pcs-keyboard-as-microsoft-adds-dedicated-copilot-key/)
-- [We Don&#39;t Need a DAC – ESP32 PDM Audio](https://atomic14.substack.com/p/esp32-s3-no-dac)
-- [Facebook incorrectly reports personal blog to DigitalOcean for phishing](https://social.lol/@robb/111704215593992932)
-- [Cheap and They Don&#39;t Snitch: Drones Are the New Drug Mules](https://www.vice.com/en/article/qjvma7/drug-trafficking-smugglers-using-drones)
+- [In Europe, Trains Are Full, and More Are on the Way](https://www.nytimes.com/2024/01/04/travel/europe-new-trains.html)
+- [A rocket a day keeps the high costs away &lpar;1993&rpar;](https://www.fourmilab.ch/documents/aRocketAday.txt)
+- [How to Build a Thinking AI](https://aithought.com/)
+- [Best 7B LLM on leaderboards made by an amateur following a medium tutorial](https://huggingface.co/CultriX/MistralTrix-v1)
+- [Boeing wants FAA to exempt MAX 7 from safety rules to get it in the air](https://www.seattletimes.com/business/boeing-aerospace/boeing-wants-faa-to-exempt-max-7-from-safety-rules-to-get-it-in-the-air/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
