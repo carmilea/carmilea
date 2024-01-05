@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;everything&#39; blocks devs from removing their own NPM packages](https://www.bleepingcomputer.com/news/security/everything-blocks-devs-from-removing-their-own-npm-packages/)
+- [Google illegally refusing to bargain with employee union, says NLRB](https://www.theregister.com/2024/01/04/google_illegally_refusing_to_bargain/)
+- [You shouldn&#39;t run NSA-grade Wi-Fi at home. Here&#39;s how to do it](https://smallstep.com/blog/home-network-eap-tls-wifi/)
 - [Go: What we got right, what we got wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
 - [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
-- [Databases in 2023: A Year in Review](https://ottertune.com/blog/2023-databases-retrospective)
-- [AMD proposes an FPGA subsystem user-space interface for Linux](https://www.phoronix.com/news/FPGA-User-Space-Interface-AMD)
-- [Audio2Photoreal](https://github.com/facebookresearch/audio2photoreal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
