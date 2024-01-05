@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
+- [TinyLlama: An Open-Source Small Language Model](https://arxiv.org/abs/2401.02385)
+- [Kurt Gödel, his mother and the argument for life after death](https://aeon.co/essays/kurt-godel-his-mother-and-the-argument-for-life-after-death)
+- [M3 CPU cores have become more versatile](https://eclecticlight.co/2024/01/05/m3-cpu-cores-have-become-more-versatile/)
 - [Blood, Guns, and Broken Scooters: Inside the Chaotic Rise and Fall of Bird](https://www.wired.com/story/blood-guns-scooters-bird/)
-- [Hard disk LEDs and noisy machines](https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines)
-- [U.S. moves closer to filing antitrust case against Apple](https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html)
-- [In Europe, Trains Are Full, and More Are on the Way](https://www.nytimes.com/2024/01/04/travel/europe-new-trains.html)
-- [SSH-Snake: Automated SSH-Based Network Traversal](https://github.com/MegaManSec/SSH-Snake)
 <!-- BLOG-POST-LIST:END -->
 
 ---
