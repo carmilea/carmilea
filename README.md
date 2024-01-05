@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/)
+- [YouTube demonetizes public domain &#39;Steamboat Willie&#39; video after copyright claim](https://mashable.com/article/youtube-demontizes-public-domain-steamboat-willie-disney-copyright-claim)
 - [Bodycams for civilians](https://www.core77.com/posts/126756/Hell-in-a-Handbasket-Bodycams-for-Civilians)
 - [Portable Efficient Assembly Code-Generator in Higher-Level Python &lpar;PeachPy&rpar;](https://github.com/Maratyszcza/PeachPy)
-- [Australian woman used her BYD electric car to power her son&#39;s dialysis machine](https://www.businessinsider.com/byd-electric-car-powers-life-saving-machine-during-blackout-2024-1)
-- [Not all automated testing tools support Shadow DOM in web components](https://matuzo.at/blog/2024/automated-testing-tools-and-web-components)
-- [Sentry new TOS to use data to train AI with no opt-out](https://sentry.io/legal/changelog/)
+- [&#39;Rich Dad, Poor Dad&#39; author Robert Kiyosaki reveals he&#39;s $1B in debt](https://fortune.com/2024/01/04/robert-kiyosaki-rich-dad-poor-dad-author-debt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
