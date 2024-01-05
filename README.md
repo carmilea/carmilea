@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/)
+- [RR – Railroad Diagram Generator](https://github.com/GuntherRademacher/rr)
 - [YouTube demonetizes public domain &#39;Steamboat Willie&#39; video after copyright claim](https://mashable.com/article/youtube-demontizes-public-domain-steamboat-willie-disney-copyright-claim)
-- [Bodycams for civilians](https://www.core77.com/posts/126756/Hell-in-a-Handbasket-Bodycams-for-Civilians)
 - [Portable Efficient Assembly Code-Generator in Higher-Level Python &lpar;PeachPy&rpar;](https://github.com/Maratyszcza/PeachPy)
-- [&#39;Rich Dad, Poor Dad&#39; author Robert Kiyosaki reveals he&#39;s $1B in debt](https://fortune.com/2024/01/04/robert-kiyosaki-rich-dad-poor-dad-author-debt/)
+- [Not all automated testing tools support Shadow DOM in web components](https://matuzo.at/blog/2024/automated-testing-tools-and-web-components)
 <!-- BLOG-POST-LIST:END -->
 
 ---
