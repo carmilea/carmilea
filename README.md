@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/)
-- [RR – Railroad Diagram Generator](https://github.com/GuntherRademacher/rr)
-- [YouTube demonetizes public domain &#39;Steamboat Willie&#39; video after copyright claim](https://mashable.com/article/youtube-demontizes-public-domain-steamboat-willie-disney-copyright-claim)
-- [Portable Efficient Assembly Code-Generator in Higher-Level Python &lpar;PeachPy&rpar;](https://github.com/Maratyszcza/PeachPy)
-- [Not all automated testing tools support Shadow DOM in web components](https://matuzo.at/blog/2024/automated-testing-tools-and-web-components)
+- [Researchers Create First Functional Semiconductor Made from Graphene](https://research.gatech.edu/feature/researchers-create-first-functional-semiconductor-made-graphene)
+- [Duty to Document](https://nicolasbouliane.com/blog/duty-to-document)
+- [Consumer Reports finds &#39;widespread&#39; presence of plastics in food](https://www.reuters.com/business/healthcare-pharmaceuticals/consumer-reports-finds-widespread-presence-plastics-food-2024-01-04/)
+- [Everything will be alright in Iceland](https://memoirsandrambles.substack.com/p/everything-will-be-alright-in-iceland)
+- [Now Blocking 56,037,235 IP Addresses, and Counting](https://cheapskatesguide.org/articles/now-blocking.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
