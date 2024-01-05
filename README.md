@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If Money Doesn&#39;t Make You Happy Then You Probably Aren&#39;t Spending It Right [pdf]](https://scholar.harvard.edu/files/danielgilbert/files/if-money-doesnt-make-you-happy.nov-12-20101.pdf)
-- [Labor Misconduct Complaint Response: SpaceX Claims Fed Agency Unconstitutional](https://gizmodo.com/spacex-elon-musk-sues-federal-labor-regulator-1851143219)
-- [Meta-analysis: On average undergraduate students intelligence is merely average](https://www.frontiersin.org/articles/10.3389/fpsyg.2024.1309142/abstract)
-- [Show HN: I made a game to improve my typing speed](https://keysmash.no)
+- [A week with a Ford F-150 Lightning: This truck is too big for city life](https://arstechnica.com/cars/2024/01/a-week-with-a-ford-f-150-lightning-this-truck-is-too-big-for-city-life/)
+- [Facebook incorrectly reports personal blog to DigitalOcean for phishing](https://social.lol/@robb/111704215593992932)
 - [Archiving Steam games for fun and profit](https://lorendb.dev/posts/archiving-steam-games-for-fun-and-profit/)
+- [Researchers Create First Functional Semiconductor Made from Graphene](https://research.gatech.edu/feature/researchers-create-first-functional-semiconductor-made-graphene)
+- [Duty to Document](https://nicolasbouliane.com/blog/duty-to-document)
 <!-- BLOG-POST-LIST:END -->
 
 ---
