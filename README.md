@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Multigenerational Living Often Makes Sense. That Doesn&#39;t Make It Easy](https://thewalrus.ca/multigenerational-living-often-makes-sense-that-doesnt-make-it-easy/)
+- [Show HN: I made a game to improve my typing speed](https://keysmash.no)
+- [Archiving Steam games for fun and profit](https://lorendb.dev/posts/archiving-steam-games-for-fun-and-profit/)
 - [Researchers Create First Functional Semiconductor Made from Graphene](https://research.gatech.edu/feature/researchers-create-first-functional-semiconductor-made-graphene)
 - [Duty to Document](https://nicolasbouliane.com/blog/duty-to-document)
-- [Consumer Reports finds &#39;widespread&#39; presence of plastics in food](https://www.reuters.com/business/healthcare-pharmaceuticals/consumer-reports-finds-widespread-presence-plastics-food-2024-01-04/)
-- [Everything will be alright in Iceland](https://memoirsandrambles.substack.com/p/everything-will-be-alright-in-iceland)
-- [Now Blocking 56,037,235 IP Addresses, and Counting](https://cheapskatesguide.org/articles/now-blocking.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
