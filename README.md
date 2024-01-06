@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Search Technique Used by Police Draws New Legal Challenge](https://www.bnnbloomberg.ca/google-search-technique-used-by-police-draws-new-legal-challenge-1.2018433)
-- [The Dubious Economics of Deep-Sea Mining](https://nautil.us/the-dubious-economics-of-deep-sea-mining-309597/)
-- [Chromium bug bounty money tree browser](https://lyra.horse/misc/chromium_vrp_tree.html)
-- [Csvlens: Command line CSV file viewer. Like less but made for CSV](https://github.com/YS-L/csvlens)
-- [Alaska Airlines grounds Boeing 737 Max 9 planes after mid-air window blowout](https://www.theguardian.com/us-news/2024/jan/06/alaska-airlines-grounds-boeing-737-max-9-planes-after-mid-air-window-blowout)
+- [Royal Navy forced to recruit for tob job on social media](https://www.independent.co.uk/news/uk/home-news/royal-navy-job-linkedin-b2473868.html)
+- [Red Tortoise Architecture](https://mattkaras.info/?p=139)
+- [Fortran vs Python: The counter-intuitive rise of Python in scientific computing](https://fortran-lang.discourse.group/t/the-counter-intuitive-rise-of-python-in-scientific-computing/469)
+- [In-Browser Code Playgrounds](https://antonz.org/in-browser-code-playgrounds/)
+- [AI Is Already Killing Books](https://matduggan.com/ai-is-gonna-kill-books/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
