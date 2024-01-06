@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ultima](https://www.filfre.net/2012/02/ultima-part-1/)
+- [LLaMA-Pro-8B](https://huggingface.co/TencentARC/LLaMA-Pro-8B)
+- [LinkedIn Isn&#39;t Just for Jobs Anymore. It&#39;s Now a Dating App Too](https://www.businessinsider.com/linkedin-is-a-dating-app-remote-work-online-romance-2024-1)
 - [FAA orders grounding of more than 170 Boeing 737 Max 9s](https://www.cnbc.com/2024/01/06/boeing-737-max-9-grounding-after-alaska-airlines-door-blows-midflight.html)
 - [FAA grounds 171 Boeing planes after mid-air blowout](https://www.bbc.com/news/world-us-canada-67903655)
-- [Universities Are Not on the Level](https://www.joshbarro.com/p/universities-are-not-on-the-level)
-- [Diesel-Electric Conversion Kits for Old Pickups](https://www.thedrive.com/news/diesel-electric-semi-maker-edison-wants-to-sell-pickup-truck-conversion-kits)
-- [BYD&#39;s YangWang U8 launched, can float on water for 30 minutes and sail 3km/h](https://carnewschina.com/2023/09/20/byds-yangwang-u8-launched-can-float-on-water-for-30-minutes-and-sail-3km-h/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
