@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google shares update on next step toward phasing out third-party cookies](https://blog.google/products/chrome/privacy-sandbox-tracking-protection/)
+- [Alaska Airlines grounds Boeing 737 Max 9 planes after mid-air window blowout](https://www.theguardian.com/us-news/2024/jan/06/alaska-airlines-grounds-boeing-737-max-9-planes-after-mid-air-window-blowout)
+- [Microsoft Phi-2 model changes licence to MIT](https://huggingface.co/microsoft/phi-2/commit/7e10f3ea09c0ebd373aebc73bc6e6ca58204628d)
 - [Do we think of Git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
-- [Alaska Airlines Boeing 737-Max suffers window blowout after taking off](https://www.dailymail.co.uk/news/article-12932631/Brand-new-Alaska-Airlines-Boeing-737-Max-suffers-mid-air-window-BLOW-causing-depressurization-ripped-childs-shirt-jet-returned-Portland-Airport-High-tech-jet-suffered-two-deadly-crashes.html)
 - [Focus and Flow: trade-offs in programmer productivity &lpar;2021&rpar;](https://www.aaronbuxbaum.com/focus-and-flow/)
-- [HortusFox – A self-hosted collaborative plant management system](https://github.com/danielbrendel/hortusfox-web)
+- [Alaska Airlines 737 Max makes emergency landing due to depressurization](https://www.reddit.com/r/aviation/comments/18znz5p/as_1282_kpdx_to_kont_diverted_for_rapid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
