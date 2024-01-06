@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Do we think of Git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
+- [Alaska Airlines Boeing 737-Max suffers window blowout after taking off](https://www.dailymail.co.uk/news/article-12932631/Brand-new-Alaska-Airlines-Boeing-737-Max-suffers-mid-air-window-BLOW-causing-depressurization-ripped-childs-shirt-jet-returned-Portland-Airport-High-tech-jet-suffered-two-deadly-crashes.html)
+- [Focus and Flow: trade-offs in programmer productivity &lpar;2021&rpar;](https://www.aaronbuxbaum.com/focus-and-flow/)
 - [HortusFox – A self-hosted collaborative plant management system](https://github.com/danielbrendel/hortusfox-web)
-- [Nitro: A fast, lightweight 3MB inference server with OpenAI-Compatible API](https://nitro.jan.ai/)
-- [2024-01-01 Emacs News](https://sachachua.com/blog/2024/01/2024-01-01-emacs-news/)
-- [Teaching C &lpar;2016&rpar;](https://blog.regehr.org/archives/1393)
-- [Fixing Macs door to door](https://matduggan.com/fixing-macs-door-to-door/)
+- [Nitro: A fast, lightweight inference server with OpenAI-Compatible API](https://nitro.jan.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
