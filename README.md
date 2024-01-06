@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sounds of Cologne – Story of the WDR Studio for Electronic Music](https://artsandculture.google.com/story/sounds-of-cologne-wdr/gQWRzsVclcCYPA?hl=en)
-- [My history of economic thought reading list](https://marginalrevolution.com/marginalrevolution/2024/01/my-history-of-economic-thought-reading-list.html)
+- [Universities Are Not on the Level](https://www.joshbarro.com/p/universities-are-not-on-the-level)
+- [BYD&#39;s YangWang U8 launched, can float on water for 30 minutes and sail 3km/h](https://carnewschina.com/2023/09/20/byds-yangwang-u8-launched-can-float-on-water-for-30-minutes-and-sail-3km-h/)
+- [Sounds of Cologne – The WDR Studio for Electronic Music](https://artsandculture.google.com/story/sounds-of-cologne-wdr/gQWRzsVclcCYPA?hl=en)
 - [Tex-Oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
-- [Live Map of Swiss Trains](https://maps.vasile.ch/transit-sbb/)
-- [Red Tortoise Architecture](https://mattkaras.info/?p=139)
+- [IRS to Begin Trial of Its Own Free Tax-Filing System](https://www.nytimes.com/2024/01/05/your-money/irs-tax-filing-free-online.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
