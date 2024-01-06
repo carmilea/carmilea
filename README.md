@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Live Map of Swiss Trains](https://maps.vasile.ch/transit-sbb/)
+- [Alan Sokal&#39;s Joke Is on Us as Postmoderism Comes to Science](https://www.wsj.com/articles/alan-sokals-joke-is-on-us-as-postmoderism-comes-to-science-23a9383c)
 - [Royal Navy forced to recruit for tob job on social media](https://www.independent.co.uk/news/uk/home-news/royal-navy-job-linkedin-b2473868.html)
+- [Alaska Airlines Grounds Fleet of Boeing 737 Max 9 Jets After Midair ‘Incident’](https://www.nytimes.com/2024/01/05/business/alaska-airlines-flight-portland-landing.html)
 - [Red Tortoise Architecture](https://mattkaras.info/?p=139)
-- [Fortran vs Python: The counter-intuitive rise of Python in scientific computing](https://fortran-lang.discourse.group/t/the-counter-intuitive-rise-of-python-in-scientific-computing/469)
-- [In-Browser Code Playgrounds](https://antonz.org/in-browser-code-playgrounds/)
-- [AI Is Already Killing Books](https://matduggan.com/ai-is-gonna-kill-books/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
