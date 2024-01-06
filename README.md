@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My history of economic thought reading list](https://marginalrevolution.com/marginalrevolution/2024/01/my-history-of-economic-thought-reading-list.html)
+- [Tex-Oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
+- [Ask HN: Experience Starting a Blog](https://news.ycombinator.com/item?id=38892150)
 - [Live Map of Swiss Trains](https://maps.vasile.ch/transit-sbb/)
-- [Alan Sokal&#39;s Joke Is on Us as Postmoderism Comes to Science](https://www.wsj.com/articles/alan-sokals-joke-is-on-us-as-postmoderism-comes-to-science-23a9383c)
-- [Royal Navy forced to recruit for tob job on social media](https://www.independent.co.uk/news/uk/home-news/royal-navy-job-linkedin-b2473868.html)
-- [Alaska Airlines Grounds Fleet of Boeing 737 Max 9 Jets After Midair ‘Incident’](https://www.nytimes.com/2024/01/05/business/alaska-airlines-flight-portland-landing.html)
 - [Red Tortoise Architecture](https://mattkaras.info/?p=139)
 <!-- BLOG-POST-LIST:END -->
 
