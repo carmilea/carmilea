@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Hashmap.me – Simple HTTP-Based Data Storage and Retrieval](https://hashmap.me)
 - [Carta doing unsolicited tender offer outreach to their customers&#39; investors](https://twitter.com/karrisaarinen/status/1743398553500971331)
-- [Age Verification Is Incompatible with the Internet](https://www.jonaharagon.com/posts/age-verification-is-incompatible-with-the-internet/)
-- [Teaching C](https://blog.regehr.org/archives/1393)
+- [2024-01-01 Emacs News](https://sachachua.com/blog/2024/01/2024-01-01-emacs-news/)
+- [Teaching C &lpar;2016&rpar;](https://blog.regehr.org/archives/1393)
 - [Show HN: Seedling – A Decentralised Medium](https://seedling-d.app)
-- [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
