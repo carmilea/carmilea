@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alaska Airlines 737 Max Makes Emergency Landing Due to Depressurization](https://twitter.com/flightradar24/status/1743460035135476030)
 - [Nitro: A fast, lightweight 3MB inference server with OpenAI-Compatible API](https://nitro.jan.ai/)
 - [Show HN: Hashmap.me – Simple HTTP-Based Data Storage and Retrieval](https://hashmap.me)
 - [Carta doing unsolicited tender offer outreach to their customers&#39; investors](https://twitter.com/karrisaarinen/status/1743398553500971331)
 - [2024-01-01 Emacs News](https://sachachua.com/blog/2024/01/2024-01-01-emacs-news/)
-- [Teaching C &lpar;2016&rpar;](https://blog.regehr.org/archives/1393)
 <!-- BLOG-POST-LIST:END -->
 
 ---
