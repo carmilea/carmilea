@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Studies suggest that relying on will power is hopeless to eliminate bad habits](https://www.newyorker.com/magazine/2019/10/28/can-brain-science-help-us-break-bad-habits)
+- [Show HN: Hacker News User Information on Hover](https://github.com/ConsoleScript/hnuser)
+- [UIDesignDaily 4 years later, 1600 open-source designs](https://www.uidesigndaily.com/)
+- [Studies suggest that relying on will power to break habits is hopeless &lpar;2019&rpar;](https://www.newyorker.com/magazine/2019/10/28/can-brain-science-help-us-break-bad-habits)
 - [Thorium – The first browser to score over 600 speedometer points on a Mac M3 Pro](https://github.com/Alex313031/Thorium-MacOS/releases/tag/M119.0.6045.214)
 - [Lancet journal retracts article on hearing aids and dementia after prodding](https://retractionwatch.com/2024/01/04/we-should-have-followed-up-lancet-journal-retracts-article-on-hearing-aids-and-dementia-after-prodding/)
-- [NuScale Lays off 40% of its Staff](https://neutronbytes.com/2024/01/05/nuscale-lays-off-40-of-its-staff/)
-- [The Light Herder and the Fractal Time Machine](https://www.thelightherder.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
