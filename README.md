@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Looo.lol – a binary math site](https://looo.lol/)
-- [Dennis Ritchie on the priorities of &amp;&amp; || vs. == etc. &lpar;1982&rpar;](https://www.lysator.liu.se/c/dmr-on-or.html)
-- [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
-- [TinyLlama: An Open-Source Small Language Model](https://arxiv.org/abs/2401.02385)
-- [Kurt Gödel, his mother and the argument for life after death](https://aeon.co/essays/kurt-godel-his-mother-and-the-argument-for-life-after-death)
+- [Carta doing unsolicited tender offer outreach to their customers&#39; investors](https://twitter.com/karrisaarinen/status/1743398553500971331)
+- [Age Verification Is Incompatible with the Internet](https://www.jonaharagon.com/posts/age-verification-is-incompatible-with-the-internet/)
+- [Teaching C](https://blog.regehr.org/archives/1393)
+- [Show HN: Seedling – A Decentralised Medium](https://seedling-d.app)
+- [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
