@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sounds of Cologne – Story of the WDR Studio for Electronic Music](https://artsandculture.google.com/story/sounds-of-cologne-wdr/gQWRzsVclcCYPA?hl=en)
 - [My history of economic thought reading list](https://marginalrevolution.com/marginalrevolution/2024/01/my-history-of-economic-thought-reading-list.html)
 - [Tex-Oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
-- [Ask HN: Experience Starting a Blog](https://news.ycombinator.com/item?id=38892150)
 - [Live Map of Swiss Trains](https://maps.vasile.ch/transit-sbb/)
 - [Red Tortoise Architecture](https://mattkaras.info/?p=139)
 <!-- BLOG-POST-LIST:END -->
