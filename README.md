@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA orders grounding of more than 170 Boeing 737 Max 9s](https://www.cnbc.com/2024/01/06/boeing-737-max-9-grounding-after-alaska-airlines-door-blows-midflight.html)
+- [FAA grounds 171 Boeing planes after mid-air blowout](https://www.bbc.com/news/world-us-canada-67903655)
 - [Universities Are Not on the Level](https://www.joshbarro.com/p/universities-are-not-on-the-level)
+- [Diesel-Electric Conversion Kits for Old Pickups](https://www.thedrive.com/news/diesel-electric-semi-maker-edison-wants-to-sell-pickup-truck-conversion-kits)
 - [BYD&#39;s YangWang U8 launched, can float on water for 30 minutes and sail 3km/h](https://carnewschina.com/2023/09/20/byds-yangwang-u8-launched-can-float-on-water-for-30-minutes-and-sail-3km-h/)
-- [Sounds of Cologne – The WDR Studio for Electronic Music](https://artsandculture.google.com/story/sounds-of-cologne-wdr/gQWRzsVclcCYPA?hl=en)
-- [Tex-Oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
-- [IRS to Begin Trial of Its Own Free Tax-Filing System](https://www.nytimes.com/2024/01/05/your-money/irs-tax-filing-free-online.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
