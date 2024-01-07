@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Nvidia Unveils RTX 5880 Graphics Card with 14,080 CUDA Cores and 48GB VRAM](https://www.nvidia.com/en-us/design-visualization/rtx-5880/)
-- [The Unhinged Nature of GTA V Source Code [video]](https://www.youtube.com/watch?v=QZ6rLbu4LQw)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
 - [A Planet of Parasites and the Problem with God](https://www.joyfulpessimism.com/p/planet-of-parasites-problem-with-god)
 - [Parable of the Polygons](https://ncase.me/polygons/)
+- [Source code for a 1977 version of Zork](https://github.com/MITDDC/zork)
 <!-- BLOG-POST-LIST:END -->
 
 ---
