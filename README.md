@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI or Ain&#39;t: Eliza](https://zserge.com/posts/ai-eliza/)
 - [SpaceX Has Launched Starlink&#39;s First Direct-to-Smartphone Satellites](https://m.slashdot.org/story/423439)
 - [Someone bought 26.9 BTC on Binance and sent it to Satoshi&#39;s dead wallet](https://www.blockchain.com/explorer/transactions/btc/d7db4f96a4059c8906b953677ce533493d7b9da0f854a21b99f5772910dd0a31)
 - [Americans living in their cars are finding refuge in &#39;safe parking lots&#39;](https://www.theguardian.com/us-news/2024/jan/05/safe-overnight-parking-lot-sleep-in-car-rv-homelessness-housing-shelter)
 - [DNS Toys &lpar;2022&rpar;](https://www.dns.toys/)
-- [Langfuse &lpar;YC W23&rpar; Is Hiring a Founding Engineer in Berlin, Germany](https://www.workatastartup.com/jobs/62929)
 <!-- BLOG-POST-LIST:END -->
 
 ---
