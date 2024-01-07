@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When Random Numbers Are Too Random: Low Discrepancy Sequences](https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/)
-- [A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
-- [Mouse secretly filmed tidying man&#39;s shed every night](https://www.theguardian.com/world/2024/jan/07/mouse-secretly-filmed-tidying-mans-shed-every-night)
-- [Meticulous &lpar;YC S21&rpar; is hiring to replace UI testing](https://news.ycombinator.com/item?id=38905095)
-- [GitUI](https://github.com/extrawurst/gitui)
+- [What Does the Cerebellum Do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
+- [The optimal amount of fraud is not zero &lpar;2022&rpar;](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/)
+- [When random numbers are too random: Low discrepancy sequences &lpar;2017&rpar;](https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/)
+- [Shecc: A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
+- [Mouse filmed tidying man&#39;s shed every night](https://www.theguardian.com/world/2024/jan/07/mouse-secretly-filmed-tidying-mans-shed-every-night)
 <!-- BLOG-POST-LIST:END -->
 
 ---
