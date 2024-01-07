@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla lowers Model Y, S, X range estimations following exaggeration complaints](https://www.theverge.com/2024/1/5/24026367/tesla-lowers-range-estimations-model-x-s-y-mileage-exaggeration)
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- [I was addicted to my smartphone, so I switched to a flip phone for a month](https://www.nytimes.com/2024/01/06/technology/smartphone-addiction-flip-phone.html)
 - [Parable of the Polygons](https://ncase.me/polygons/)
-- [Carta CEO&#39;s response to the unsolicited outreach to their customers&#39; investors](https://twitter.com/henrysward/status/1743794996732735679)
-- [Original Age of Empires 2 dev talks about its usage of assembly code](https://old.reddit.com/r/aoe2/comments/18ysttu/aoe_is_written_in_assembly_is_this_actually_true_o/)
-- [On building a semantic search engine](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
-- [Dimensional Analysis and Black Holes [pdf]](https://hapax.github.io/assets/dimensional-analysis.pdf)
+- [Source code for a 1977 version of Zork](https://github.com/MITDDC/zork)
 <!-- BLOG-POST-LIST:END -->
 
 ---
