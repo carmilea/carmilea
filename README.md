@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DNS Toys &lpar;2022&rpar;](https://www.dns.toys/)
 - [Langfuse &lpar;YC W23&rpar; Is Hiring a Founding Engineer in Berlin, Germany](https://www.workatastartup.com/jobs/62929)
-- [Linear CEO Alleges Carta Mishandled Sensitive Cap Table Data](https://twitter.com/karrisaarinen/status/1743824345334714587)
+- [Linear CEO alleges Carta mishandled sensitive cap table data](https://twitter.com/karrisaarinen/status/1743824345334714587)
 - [Nvidia Unveils RTX 5880 Graphics Card with 14,080 CUDA Cores and 48GB VRAM](https://www.nvidia.com/en-us/design-visualization/rtx-5880/)
-- [Teachable Machine](https://teachablemachine.withgoogle.com/)
-- [A Planet of Parasites and the Problem with God](https://www.joyfulpessimism.com/p/planet-of-parasites-problem-with-god)
+- [Teachable Machine &lpar;2017&rpar;](https://teachablemachine.withgoogle.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
