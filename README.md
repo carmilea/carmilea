@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring](https://news.ycombinator.com/item?id=38902864)
 - [Behind the scenes: the struggle for each paper](https://jeffhuang.com/struggle_for_each_paper/)
 - [How Does FreeBSD Compare to Linux on a Raspberry Pi?](https://m.slashdot.org/story/423462)
 - [Deep Beneath Earth&#39;s Surface, Clues to Life&#39;s Origins](https://www.quantamagazine.org/deep-beneath-earths-surface-clues-to-lifes-origins-20240104/)
 - [Transputer.net](http://transputer.net/)
-- [Show HN: I made an app that consolidated 18 apps &lpar;doc, sheet, form, site, chat…&rpar;](https://nino.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
