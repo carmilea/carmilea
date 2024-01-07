@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First new vax in 30 years? &lpar;2021&rpar;](https://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html)
 - [One year ago we flooded a forest [video]](https://www.youtube.com/watch?v=-q7z8sm5UaM)
+- [Show HN: I built a tool to send 10k emails for $1 via AWS](https://maillayer.com/)
+- [MozillaSocial](https://github.com/MozillaSocial/mozilla-social-android)
 - [Things engineers believe about Web development](https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/)
-- [AI or Ain&#39;t: Eliza](https://zserge.com/posts/ai-eliza/)
-- [SpaceX Has Launched Starlink&#39;s First Direct-to-Smartphone Satellites](https://m.slashdot.org/story/423439)
-- [Someone bought 26.9 BTC on Binance and sent it to Satoshi&#39;s dead wallet](https://www.blockchain.com/explorer/transactions/btc/d7db4f96a4059c8906b953677ce533493d7b9da0f854a21b99f5772910dd0a31)
 <!-- BLOG-POST-LIST:END -->
 
 ---
