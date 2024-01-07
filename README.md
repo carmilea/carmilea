@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US unemployment has been under 4% for the longest streak since the Vietnam War](https://www.npr.org/2024/01/05/1222714145/jobs-report-december-labor-wages)
 - [Original Age of Empires 2 dev talks about its usage of assembly code](https://old.reddit.com/r/aoe2/comments/18ysttu/aoe_is_written_in_assembly_is_this_actually_true_o/)
 - [On building a semantic search engine](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
 - [Dimensional Analysis and Black Holes [pdf]](https://hapax.github.io/assets/dimensional-analysis.pdf)
 - [Libwebsockets: pure C library for http, websockets, MQTT](https://github.com/warmcat/libwebsockets)
-- [Ten Noteworthy AI Research Papers of 2023](https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
