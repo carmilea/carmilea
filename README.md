@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring](https://news.ycombinator.com/item?id=38902864)
-- [Behind the scenes: the struggle for each paper](https://jeffhuang.com/struggle_for_each_paper/)
-- [How Does FreeBSD Compare to Linux on a Raspberry Pi?](https://m.slashdot.org/story/423462)
-- [Deep Beneath Earth&#39;s Surface, Clues to Life&#39;s Origins](https://www.quantamagazine.org/deep-beneath-earths-surface-clues-to-lifes-origins-20240104/)
-- [Transputer.net](http://transputer.net/)
+- [Windows XP 2024 Edition is everything I want from a new OS](https://overclock3d.net/news/software/windows-xp-2024-edition-is-everything-i-want-from-a-new-os/)
+- [The Erlang Ecosystem [video]](https://www.youtube.com/watch?v=7AJR66p5E4s)
+- [Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/)
+- [Xreal&#39;s new AR glasses are aimed at the Apple Vision Pro](https://www.theverge.com/2024/1/7/24024442/xreal-air-2-ultra-developer-ar-glasses-6dof-tracking-pricing-availability)
+- [NHS to investigate Palantir influencer campaign as possible contract breach](https://goodlawproject.org/nhs-to-investigate-palantir-influencer-campaign-as-possible-contract-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
