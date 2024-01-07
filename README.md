@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made an app that consolidated 18 apps &lpar;doc, sheet, form, site, chat…&rpar;](https://nino.app)
+- [Apple Starts Sending &#39;Batterygate&#39; Settlement Payments](https://www.macrumors.com/2024/01/06/apple-starts-iphone-batterygate-payouts/)
+- [Brain &quot;wakes up&quot; more than 100 times each night – that&#39;s normal](https://bigthink.com/neuropsych/brain-wake-up-sleep/)
+- [Figure 01 has learned to make coffee](https://twitter.com/Figure_robot/status/1743985067989352827)
 - [First new vax in 30 years? &lpar;2021&rpar;](https://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html)
-- [One year ago we flooded a forest [video]](https://www.youtube.com/watch?v=-q7z8sm5UaM)
-- [Show HN: I built a tool to send 10k emails for $1 via AWS](https://maillayer.com/)
-- [MozillaSocial](https://github.com/MozillaSocial/mozilla-social-android)
-- [Things engineers believe about Web development](https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
