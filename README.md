@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Behind the scenes: the struggle for each paper](https://jeffhuang.com/struggle_for_each_paper/)
+- [How Does FreeBSD Compare to Linux on a Raspberry Pi?](https://m.slashdot.org/story/423462)
+- [Deep Beneath Earth&#39;s Surface, Clues to Life&#39;s Origins](https://www.quantamagazine.org/deep-beneath-earths-surface-clues-to-lifes-origins-20240104/)
+- [Transputer.net](http://transputer.net/)
 - [Show HN: I made an app that consolidated 18 apps &lpar;doc, sheet, form, site, chat…&rpar;](https://nino.app)
-- [Apple Starts Sending &#39;Batterygate&#39; Settlement Payments](https://www.macrumors.com/2024/01/06/apple-starts-iphone-batterygate-payouts/)
-- [Brain &quot;wakes up&quot; more than 100 times each night – that&#39;s normal](https://bigthink.com/neuropsych/brain-wake-up-sleep/)
-- [Figure 01 has learned to make coffee](https://twitter.com/Figure_robot/status/1743985067989352827)
-- [First new vax in 30 years? &lpar;2021&rpar;](https://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
