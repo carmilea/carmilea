@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Hacker News User Information on Hover](https://github.com/ConsoleScript/hnuser)
-- [UIDesignDaily 4 years later, 1600 open-source designs](https://www.uidesigndaily.com/)
-- [Studies suggest that relying on will power to break habits is hopeless &lpar;2019&rpar;](https://www.newyorker.com/magazine/2019/10/28/can-brain-science-help-us-break-bad-habits)
-- [Thorium – The first browser to score over 600 speedometer points on a Mac M3 Pro](https://github.com/Alex313031/Thorium-MacOS/releases/tag/M119.0.6045.214)
-- [Lancet journal retracts article on hearing aids and dementia after prodding](https://retractionwatch.com/2024/01/04/we-should-have-followed-up-lancet-journal-retracts-article-on-hearing-aids-and-dementia-after-prodding/)
+- [Original Age of Empires 2 dev talks about its usage of assembly code](https://old.reddit.com/r/aoe2/comments/18ysttu/aoe_is_written_in_assembly_is_this_actually_true_o/)
+- [On building a semantic search engine](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
+- [Dimensional Analysis and Black Holes [pdf]](https://hapax.github.io/assets/dimensional-analysis.pdf)
+- [Libwebsockets: pure C library for http, websockets, MQTT](https://github.com/warmcat/libwebsockets)
+- [Ten Noteworthy AI Research Papers of 2023](https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
