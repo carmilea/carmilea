@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Higher fees, more ads: streaming cashes in by using the old tactics of cable TV](https://theconversation.com/with-higher-fees-and-more-ads-streaming-services-like-netflix-disney-and-hulu-are-cashing-in-by-using-the-old-tactics-of-cable-tv-215048)
-- [Tiny Computers from Texas: The Early History of the Microcontroller](https://thechipletter.substack.com/p/tiny-computers-from-texas)
-- [Isomorphic labs deals with pharma companies](https://endpts.com/alphabets-ai-unit-isomorphic-inks-drug-discovery-deals-with-eli-lilly-novartis-for-up-to-3b/)
-- [How the first fourth-generation nuclear power plant works](https://news.cgtn.com/news/2024-01-06/How-the-world-s-first-fourth-generation-nuclear-power-plant-works-1q8JzrGNrj2/p.html)
-- [Windows XP 2024 Edition is everything I want from a new OS](https://overclock3d.net/news/software/windows-xp-2024-edition-is-everything-i-want-from-a-new-os/)
+- [Meticulous &lpar;YC S21&rpar; is hiring to replace UI testing](https://news.ycombinator.com/item?id=38905095)
+- [Why Tech Needs a Rational, Humanistic &quot;Third Way&quot;](https://cosmosinstitute.substack.com/p/existential-pessimism-vs-accelerationism)
+- [GitUI](https://github.com/extrawurst/gitui)
+- [LiteLlama-460M-1T has 460M parameters trained with 1T tokens](https://huggingface.co/ahxt/LiteLlama-460M-1T)
+- [The Future of Nuclear Energy in a Carbon-Constrained World](https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
