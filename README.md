@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When Random Numbers Are Too Random: Low Discrepancy Sequences](https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/)
+- [A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
+- [Mouse secretly filmed tidying man&#39;s shed every night](https://www.theguardian.com/world/2024/jan/07/mouse-secretly-filmed-tidying-mans-shed-every-night)
 - [Meticulous &lpar;YC S21&rpar; is hiring to replace UI testing](https://news.ycombinator.com/item?id=38905095)
-- [Why Tech Needs a Rational, Humanistic &quot;Third Way&quot;](https://cosmosinstitute.substack.com/p/existential-pessimism-vs-accelerationism)
 - [GitUI](https://github.com/extrawurst/gitui)
-- [LiteLlama-460M-1T has 460M parameters trained with 1T tokens](https://huggingface.co/ahxt/LiteLlama-460M-1T)
-- [The Future of Nuclear Energy in a Carbon-Constrained World](https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
