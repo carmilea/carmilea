@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IT Employment Grew by Just 700 Jobs in 2023, Down From 267,000 in 2022](https://www.wsj.com/articles/it-employment-grew-by-just-700-jobs-in-2023-down-from-267-000-in-2022-adbd8a61)
-- [How Google perfected the web](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
-- [What Progressive Web App &lpar;PWA&rpar; Can Do Today](https://whatpwacando.today)
-- [Why Aren&#39;t We Sieve-Ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
-- [Music streaming service SoundCloud tunes up for sale](https://news.sky.com/story/music-streaming-service-soundcloud-tunes-up-for-sale-13043602)
+- [&quot;95% of container ships are now going around the Southern Tip of Africa&quot;](https://twitter.com/typesfast/status/1743654060673093754)
+- [Almost never use a pie chart for data](https://theconversation.com/heres-why-you-should-almost-never-use-a-pie-chart-for-your-data-214576)
+- [Jeff Lawson Steps Down as CEO of Twilio](https://investors.twilio.com/news/news-details/2024/Twilio-Announces-CEO-Transition/default.aspx)
+- [k on pdp11](https://ktye.github.io/pdp11/index.html)
+- [Apple Vision Pro available in the U.S. on February 2](https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
