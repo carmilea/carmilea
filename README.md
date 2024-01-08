@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Value of life](https://en.wikipedia.org/wiki/Value_of_life)
-- [Tesla Model Y: My 6 months impressions](https://arslan.io/2024/01/08/tesla-model-y-my-6-months-impressions/)
 - [Why use strace in 2023? [video]](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
 - [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
 - [iPhone that fell from hole in Alaska 737 MAX flight is found, still open to Mail](https://twitter.com/SeanSafyre/status/1744138937239822685)
+- [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
 <!-- BLOG-POST-LIST:END -->
 
 ---
