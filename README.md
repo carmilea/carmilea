@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Database of 16,000 Artists Used to Train Midjourney AI Goes Viral](https://www.artnews.com/art-news/news/midjourney-ai-artists-database-1234691955/)
+- [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
 - [iPhone that fell from hole in Alaska 737 MAX flight is found, still open to Mail](https://twitter.com/SeanSafyre/status/1744138937239822685)
 - [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
+- [Programming as Theory Building &lpar;1985&rpar;](https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1)
 - [Show HN: I made a HTMX Playground 100% in the browser](https://lassebomh.github.io/htmx-playground/)
-- [I made an app that runs Mistral 7B 0.2 LLM locally on iPhone Pros](https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941)
 <!-- BLOG-POST-LIST:END -->
 
 ---
