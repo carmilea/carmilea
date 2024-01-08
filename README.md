@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mario Maker 2 API](https://tgrcode.com/posts/mario_maker_2_api)
+- [OpenBSD KDE Plasma Desktop](https://rsadowski.de/posts/2024-01-09-openbsd-kde/)
 - [Patterns &lpar;YC S21&rpar; Is Hiring to Automate Analytics with LLMs](https://www.ycombinator.com/companies/patterns)
 - [Today we celebrate by announcing that Elixir is a gradually typed language](https://twitter.com/josevalim/status/1744395345872683471)
-- [Nvidia Announces New GeForce RTX 4080 Super, RTX 4070 Ti Super, RTX 4070 Super](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-4080-4070-ti-4070-super-gpu/)
 - [Peregrine moon lander suffers anomaly after launch](https://spacenews.com/peregrine-lander-suffers-anomaly-after-launch/)
-- [Tuna species popular in sashimi and poke bowls in sharp decline](https://phys.org/news/2024-01-tuna-species-popular-sashimi-bowls.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
