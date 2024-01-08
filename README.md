@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a HTMX Playground 100% in the browser](https://lassebomh.github.io/htmx-playground/)
 - [I made an app that runs Mistral 7B 0.2 LLM locally on iPhone Pros](https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941)
 - [The California Town Owned by a New York Investment Firm](https://www.newyorker.com/news/us-journal/scotia-the-california-town-owned-by-a-new-york-investment-firm)
+- [Machine Learning Helps Fuzzing Find Hardware Bugs](https://spectrum.ieee.org/hardware-hacking)
 - [Buffett once bet $1M that he could beat a group of hedge funds over 10 years](https://finance.yahoo.com/news/warren-buffett-once-bet-1m-113000485.html)
-- [Minuteman III Missiles Are Too Old to Upgrade Anymore, Stratcom Chief Says](https://www.military.com/daily-news/2021/01/06/minuteman-iii-missiles-are-too-old-upgrade-anymore-stratcom-chief-says.html)
-- [MK1 Flywheel Unlocks the Full Potential of AMD Instinct for LLM Inference](https://mkone.ai/blog/mk1-flywheel-amd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
