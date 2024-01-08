@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Database of 16,000 Artists Used to Train Midjourney AI Goes Viral](https://www.artnews.com/art-news/news/midjourney-ai-artists-database-1234691955/)
+- [iPhone that fell from hole in Alaska 737 MAX flight is found, still open to Mail](https://twitter.com/SeanSafyre/status/1744138937239822685)
 - [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
 - [Show HN: I made a HTMX Playground 100% in the browser](https://lassebomh.github.io/htmx-playground/)
 - [I made an app that runs Mistral 7B 0.2 LLM locally on iPhone Pros](https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941)
-- [The California Town Owned by a New York Investment Firm](https://www.newyorker.com/news/us-journal/scotia-the-california-town-owned-by-a-new-york-investment-firm)
-- [&quot;LibreOffice is better at reading old Word files than Word&quot;](https://eldritch.cafe/@sfwrtr/111716610017454919)
 <!-- BLOG-POST-LIST:END -->
 
 ---
