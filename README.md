@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patterns &lpar;YC S21&rpar; Is Hiring to Automate Analytics with LLMs](https://www.ycombinator.com/companies/patterns)
+- [Today we celebrate by announcing that Elixir is a gradually typed language](https://twitter.com/josevalim/status/1744395345872683471)
+- [Nvidia Announces New GeForce RTX 4080 Super, RTX 4070 Ti Super, RTX 4070 Super](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-4080-4070-ti-4070-super-gpu/)
 - [Peregrine moon lander suffers anomaly after launch](https://spacenews.com/peregrine-lander-suffers-anomaly-after-launch/)
 - [Tuna species popular in sashimi and poke bowls in sharp decline](https://phys.org/news/2024-01-tuna-species-popular-sashimi-bowls.html)
-- [Dive: A tool for exploring a Docker image, layer contents and more](https://github.com/wagoodman/dive)
-- [Alaska 737 cockpit voice recorder data erasure renews safety debate](https://www.reuters.com/business/aerospace-defense/alaska-737-cockpit-voice-recorder-data-erasure-renews-industry-safety-debate-2024-01-08/)
-- [Web CGI programs aren&#39;t particularly slow these days](https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
