@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Value of life](https://en.wikipedia.org/wiki/Value_of_life)
-- [Why use strace in 2023? [video]](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
-- [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
-- [iPhone that fell from hole in Alaska 737 MAX flight is found, still open to Mail](https://twitter.com/SeanSafyre/status/1744138937239822685)
-- [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [Wix employee sacked over criticism of Israel files unfair dismissal claim](https://www.irishtimes.com/business/work/2024/01/08/wix-employee-sacked-over-criticism-of-israel-files-unfair-dismissal-claim/)
+- [Big Tech has already made enough money in 2024 to pay all its 2023 fines](https://proton.me/blog/big-tech-2023-fines-vs-revenue)
+- [&quot;Dutch engineer carried out Iranian nuclear sabotage&quot;: VK](https://www.dutchnews.nl/2024/01/dutch-engineer-carried-out-iranian-nuclear-sabotage-vk/)
+- [Show HN: I&#39;ve updated my food delivery repo. Feedback Welcome](https://github.com/ninjas-code-official/food-delivery-multivendor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
