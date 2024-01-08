@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BigForth](https://bernd-paysan.de/bigforth.html)
-- [&#39;Greener, cheaper, much warmer&#39; – heat pump owners laud their new system](https://www.theguardian.com/business/2024/jan/08/greener-cheaper-much-warmer-heat-pump-owners-laud-their-new-system)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Big Tech has already made enough money in 2024 to pay all its 2023 fines](https://proton.me/blog/big-tech-2023-fines-vs-revenue)
-- [Show HN: I&#39;ve updated my food delivery repo. Feedback Welcome](https://github.com/ninjas-code-official/food-delivery-multivendor)
+- [IT Employment Grew by Just 700 Jobs in 2023, Down From 267,000 in 2022](https://www.wsj.com/articles/it-employment-grew-by-just-700-jobs-in-2023-down-from-267-000-in-2022-adbd8a61)
+- [How Google perfected the web](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
+- [What Progressive Web App &lpar;PWA&rpar; Can Do Today](https://whatpwacando.today)
+- [Why Aren&#39;t We Sieve-Ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
+- [Music streaming service SoundCloud tunes up for sale](https://news.sky.com/story/music-streaming-service-soundcloud-tunes-up-for-sale-13043602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
