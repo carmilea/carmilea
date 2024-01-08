@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unity Software cutting 25% of staff in &#39;company reset&#39; continuation](https://www.reuters.com/technology/unity-software-cutting-25-staff-company-reset-continuation-2024-01-08/)
+- [UniFi U7 Pro](https://store.ui.com/us/en/products/u7-pro)
 - [A Rail Cart for the Space Conscious Passenger &lpar;2022&rpar;](https://hackaday.com/2022/10/08/a-rail-cart-for-the-space-conscious-passenger/)
-- [totally_safe_transmute, Line-by-Line](https://blog.yossarian.net/2021/03/16/totally_safe_transmute-line-by-line)
+- [totally_safe_transmute, Line-by-Line &lpar;2021&rpar;](https://blog.yossarian.net/2021/03/16/totally_safe_transmute-line-by-line)
 - [Thousands of AI Authors on the Future of AI](https://arxiv.org/abs/2401.02843)
-- [United Airlines inspections find loose bolts on several 737 Max 9 aircraft](https://www.cnbc.com/2024/01/08/united-airlines-737-max-9-inspections-turn-up-loose-bolts.html)
-- [Duolingo Cuts 10% of Contractors as It Uses More AI to Create App Content](https://www.bloomberg.com/news/articles/2024-01-08/duolingo-cuts-10-of-contractors-in-move-to-greater-use-of-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
