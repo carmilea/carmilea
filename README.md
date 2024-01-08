@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Does the Cerebellum Do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
-- [The optimal amount of fraud is not zero &lpar;2022&rpar;](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/)
-- [When random numbers are too random: Low discrepancy sequences &lpar;2017&rpar;](https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/)
-- [Shecc: A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
-- [Mouse filmed tidying man&#39;s shed every night](https://www.theguardian.com/world/2024/jan/07/mouse-secretly-filmed-tidying-mans-shed-every-night)
+- [I made an app that runs Mistral 7B 0.2 LLM locally on iPhone Pros](https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941)
+- [The California Town Owned by a New York Investment Firm](https://www.newyorker.com/news/us-journal/scotia-the-california-town-owned-by-a-new-york-investment-firm)
+- [Buffett once bet $1M that he could beat a group of hedge funds over 10 years](https://finance.yahoo.com/news/warren-buffett-once-bet-1m-113000485.html)
+- [Minuteman III Missiles Are Too Old to Upgrade Anymore, Stratcom Chief Says](https://www.military.com/daily-news/2021/01/06/minuteman-iii-missiles-are-too-old-upgrade-anymore-stratcom-chief-says.html)
+- [MK1 Flywheel Unlocks the Full Potential of AMD Instinct for LLM Inference](https://mkone.ai/blog/mk1-flywheel-amd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
