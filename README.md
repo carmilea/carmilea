@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;95% of container ships are now going around the Southern Tip of Africa&quot;](https://twitter.com/typesfast/status/1743654060673093754)
-- [Almost never use a pie chart for data](https://theconversation.com/heres-why-you-should-almost-never-use-a-pie-chart-for-your-data-214576)
-- [Jeff Lawson Steps Down as CEO of Twilio](https://investors.twilio.com/news/news-details/2024/Twilio-Announces-CEO-Transition/default.aspx)
-- [k on pdp11](https://ktye.github.io/pdp11/index.html)
-- [Apple Vision Pro available in the U.S. on February 2](https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/)
+- [Peregrine moon lander suffers anomaly after launch](https://spacenews.com/peregrine-lander-suffers-anomaly-after-launch/)
+- [Tuna species popular in sashimi and poke bowls in sharp decline](https://phys.org/news/2024-01-tuna-species-popular-sashimi-bowls.html)
+- [Dive: A tool for exploring a Docker image, layer contents and more](https://github.com/wagoodman/dive)
+- [Alaska 737 cockpit voice recorder data erasure renews safety debate](https://www.reuters.com/business/aerospace-defense/alaska-737-cockpit-voice-recorder-data-erasure-renews-industry-safety-debate-2024-01-08/)
+- [Web CGI programs aren&#39;t particularly slow these days](https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
