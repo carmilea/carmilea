@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [United finds loose bolts on plug doors during 737 Max 9 inspections](https://theaircurrent.com/feed/dispatches/united-finds-loose-bolts-on-plug-doors-during-737-max-9-inspections/)
-- [Cells Across the Body Talk to Each Other About Aging](https://www.quantamagazine.org/cells-across-the-body-talk-to-each-other-about-aging-20240108/)
-- [Which Airlines Are Not Flying the Boeing 737 Max?](https://www.alternativeairlines.com/airlines-not-flying-boeing-737-max)
-- [AMD 8000G APUs launch Jan 31, $329 8700G competes with desktop GTX1650 in gaming](https://videocardz.com/newz/amd-ryzen-8000g-zen4-apu-series-launch-january-31-ryzen-7-8700g-competes-with-desktop-geforce-gtx-1650-in-gaming)
-- [How does one patch KDE2 under FreeBSD? &lpar;2012&rpar;](https://knowyourmeme.com/memes/how-does-one-patch-kde2-under-freebsd)
+- [A Rail Cart for the Space Conscious Passenger &lpar;2022&rpar;](https://hackaday.com/2022/10/08/a-rail-cart-for-the-space-conscious-passenger/)
+- [totally_safe_transmute, Line-by-Line](https://blog.yossarian.net/2021/03/16/totally_safe_transmute-line-by-line)
+- [Thousands of AI Authors on the Future of AI](https://arxiv.org/abs/2401.02843)
+- [United Airlines inspections find loose bolts on several 737 Max 9 aircraft](https://www.cnbc.com/2024/01/08/united-airlines-737-max-9-inspections-turn-up-loose-bolts.html)
+- [Duolingo Cuts 10% of Contractors as It Uses More AI to Create App Content](https://www.bloomberg.com/news/articles/2024-01-08/duolingo-cuts-10-of-contractors-in-move-to-greater-use-of-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
