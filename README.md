@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BigForth](https://bernd-paysan.de/bigforth.html)
+- [&#39;Greener, cheaper, much warmer&#39; – heat pump owners laud their new system](https://www.theguardian.com/business/2024/jan/08/greener-cheaper-much-warmer-heat-pump-owners-laud-their-new-system)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Wix employee sacked over criticism of Israel files unfair dismissal claim](https://www.irishtimes.com/business/work/2024/01/08/wix-employee-sacked-over-criticism-of-israel-files-unfair-dismissal-claim/)
 - [Big Tech has already made enough money in 2024 to pay all its 2023 fines](https://proton.me/blog/big-tech-2023-fines-vs-revenue)
-- [&quot;Dutch engineer carried out Iranian nuclear sabotage&quot;: VK](https://www.dutchnews.nl/2024/01/dutch-engineer-carried-out-iranian-nuclear-sabotage-vk/)
 - [Show HN: I&#39;ve updated my food delivery repo. Feedback Welcome](https://github.com/ninjas-code-official/food-delivery-multivendor)
 <!-- BLOG-POST-LIST:END -->
 
