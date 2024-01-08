@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The curious case of the Raspberry Pi in the network closet](https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html)
+- [What is a standard error? [pdf]](http://www.stat.columbia.edu/~gelman/research/published/standarderror.pdf)
+- [Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
+- [Async file IO in Java is not truly async [Resource, Tech blog]](https://cmhteixeira.com/concurrency/asyncfileio.html)
 - [Solver Performance: 1989 vs. 2024](https://www.solvermax.com/blog/solver-performance-1989-vs-2024)
-- [Show HN: Auto Wiki – Turn your codebase into a Wiki](https://wiki.mutable.ai)
-- [Peregrine Mission One: Critical Loss of Propellant](https://twitter.com/astrobotic/status/1744419692813443333)
-- [Mario Maker 2 API](https://tgrcode.com/posts/mario_maker_2_api)
-- [OpenBSD KDE Plasma Desktop](https://rsadowski.de/posts/2024-01-09-openbsd-kde/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
