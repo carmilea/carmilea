@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why would you still want to use strace in 2023? [video]](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
 - [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
 - [iPhone that fell from hole in Alaska 737 MAX flight is found, still open to Mail](https://twitter.com/SeanSafyre/status/1744138937239822685)
 - [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
-- [Programming as Theory Building &lpar;1985&rpar;](https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1)
 - [Show HN: I made a HTMX Playground 100% in the browser](https://lassebomh.github.io/htmx-playground/)
 <!-- BLOG-POST-LIST:END -->
 
