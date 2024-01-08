@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The curious case of the Raspberry Pi in the network closet](https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html)
-- [What is a standard error? [pdf]](http://www.stat.columbia.edu/~gelman/research/published/standarderror.pdf)
-- [Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
-- [Async file IO in Java is not truly async [Resource, Tech blog]](https://cmhteixeira.com/concurrency/asyncfileio.html)
-- [Solver Performance: 1989 vs. 2024](https://www.solvermax.com/blog/solver-performance-1989-vs-2024)
+- [United finds loose bolts on plug doors during 737 Max 9 inspections](https://theaircurrent.com/feed/dispatches/united-finds-loose-bolts-on-plug-doors-during-737-max-9-inspections/)
+- [Cells Across the Body Talk to Each Other About Aging](https://www.quantamagazine.org/cells-across-the-body-talk-to-each-other-about-aging-20240108/)
+- [Which Airlines Are Not Flying the Boeing 737 Max?](https://www.alternativeairlines.com/airlines-not-flying-boeing-737-max)
+- [AMD 8000G APUs launch Jan 31, $329 8700G competes with desktop GTX1650 in gaming](https://videocardz.com/newz/amd-ryzen-8000g-zen4-apu-series-launch-january-31-ryzen-7-8700g-competes-with-desktop-geforce-gtx-1650-in-gaming)
+- [How does one patch KDE2 under FreeBSD? &lpar;2012&rpar;](https://knowyourmeme.com/memes/how-does-one-patch-kde2-under-freebsd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
