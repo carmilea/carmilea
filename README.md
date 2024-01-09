@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ex-Google CEO Eric Schmidt Is Working on a Secret Military Drone Project](https://www.forbes.com/sites/sarahemerson/2024/01/09/ex-google-ceo-eric-schmidt-is-working-on-a-secret-military-drone-project/)
+- [Ancient Stars Made Extraordinarily Heavy Elements &lpar;2023&rpar;](https://news.ncsu.edu/2023/12/ancient-stars-made-extraordinarily-heavy-elements/)
 - [YouTube Bans True Crime Videos That Reanimate Dead Children with AI](https://gizmodo.com/youtube-bans-ai-reanimated-dead-kids-true-crime-videos-1851150159)
-- [Why is my LG Washing Machine using 3.6GB of data/day?](https://twitter.com/Johnie/status/1744556503183585471)
-- [Rabbit: LLM-First Mobile Phone](https://www.rabbit.tech/keynote)
-- [Ex Post Office CEO hands back award after IT failures lead to false convictions](https://www.bbc.com/news/uk-67925304)
-- [DeepFlow – open-source eBPF Distributed Tracing](https://deepflow.io/)
+- [Aim, fire, scan: the 80/20 of executing on big projects](https://www.indiehackers.com/post/aim-fire-scan-the-80-20-of-executing-on-big-projects-571580cd0a)
+- [The Book of Shaders &lpar;2015&rpar;](https://thebookofshaders.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
