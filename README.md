@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Structured, Semi-structured and Unstructured Data?](https://www.singlestore.com/blog/what-is-structured-semi-structured-and-unstructured-data)
-- [2024 AI Predictions](https://www.singlestore.com/blog/2024-ai-predictions)
-- [2023 in Review: SingleStoreDB Cloud](https://www.singlestore.com/blog/2023-in-review-singlestoredb-cloud)
-- [Optimizing Our Keycloak Theme&#39;s Bundle Size: A Deep Dive](https://www.singlestore.com/blog/optimizing-our-keycloak-theme-bundle)
-- [The Ultimate Guide to the Vector Database Landscape: 2024 and Beyond](https://www.singlestore.com/blog/-ultimate-guide-vector-database-landscape-2024)
+- [YouTube Bans True Crime Videos That Reanimate Dead Children with AI](https://gizmodo.com/youtube-bans-ai-reanimated-dead-kids-true-crime-videos-1851150159)
+- [Why is my LG Washing Machine using 3.6GB of data/day?](https://twitter.com/Johnie/status/1744556503183585471)
+- [Rabbit: LLM-First Mobile Phone](https://www.rabbit.tech/keynote)
+- [Ex Post Office CEO hands back award after IT failures lead to false convictions](https://www.bbc.com/news/uk-67925304)
+- [DeepFlow – open-source eBPF Distributed Tracing](https://deepflow.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
