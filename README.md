@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Heat Pumps, More Than You Wanted to Know](https://calv.info/heat-pumps)
+- [Apple pays out over claims it deliberately slowed down iPhones](https://www.bbc.co.uk/news/technology-67911517)
+- [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 - [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/)
-- [Picking the Widevine Locks: Acquiring and Using an L3 CDM](https://www.ismailzai.com/blog/picking-the-widevine-locks)
 - [DARPA Moves Forward on X-65: Plane with no moving control surfaces](https://www.darpa.mil/news-events/2024-01-03)
-- [Mixtral 8x7B: A sparse Mixture of Experts language model](https://arxiv.org/abs/2401.04088)
-- [Mode7 Graphics Library for Playdate](https://github.com/risolvipro/playdate-mode7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
