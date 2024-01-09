@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/)
+- [Picking the Widevine Locks: Acquiring and Using an L3 CDM](https://www.ismailzai.com/blog/picking-the-widevine-locks)
 - [DARPA Moves Forward on X-65: Plane with no moving control surfaces](https://www.darpa.mil/news-events/2024-01-03)
 - [Mixtral 8x7B: A sparse Mixture of Experts language model](https://arxiv.org/abs/2401.04088)
 - [Mode7 Graphics Library for Playdate](https://github.com/risolvipro/playdate-mode7)
-- [Why does holding a key fob to your head increase its range?](https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body)
-- [Macs can now inform Apple if any liquids have been detected in the USB-C ports](https://9to5mac.com/2023/11/03/macs-liquids-detected-in-usb-c-ports/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
