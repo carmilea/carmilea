@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [X Purges Prominent Journalists, Leftists with No Explanation](https://www.vice.com/en/article/5d948x/x-purges-prominent-journalists-leftists-with-no-explanation)
-- [GenAI could make KYC effectively useless](https://techcrunch.com/2024/01/08/gen-ai-could-make-kyc-effectively-useless/)
-- [Nielsen&#39;s Ten Usability Heuristics [pdf]](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
-- [NASA Peregrine 1: US lander will not make it to moon&#39;s surface due to fuel leak](https://www.theguardian.com/science/2024/jan/09/nasa-peregrine-1-us-lander-will-not-make-it-to-the-moons-surface-due-to-fuel-leak)
-- [Apple tells EU it has five different App Stores, not just one](https://9to5mac.com/2024/01/09/five-different-app-stores/)
+- [Roboflow &lpar;YC S20&rpar; is hiring an engineer focused on their open source projects](https://roboflow.com/careers)
+- [Non-PC compatible x86 computers &lpar;Deleted Wikipedia article I wrote in 2007&rpar;](https://lproven.livejournal.com/189791.html)
+- [Building an e-ink picture frame that displays an iCloud photo album](https://ben.page/eink)
+- [You Don&#39;t Need More Resilience. You Need Friends. and Money](https://www.bloomberg.com/opinion/articles/2024-01-09/what-you-ve-heard-about-resilience-is-probably-wrong)
+- [Launch HN: Corgea &lpar;YC S23&rpar; – Auto fix vulnerable code](https://news.ycombinator.com/item?id=38928064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
