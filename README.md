@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ugliest Airplane: An Appreciation of the Transavia AirTruk](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/)
+- [Is my plane a 737 Max?](https://www.ismyplanea737max.com/)
+- [Discord Serves 15M Users on One Server](https://blog.bytebytego.com/p/how-discord-serves-15-million-users)
 - [Roboflow &lpar;YC S20&rpar; is hiring an engineer focused on their open source projects](https://roboflow.com/careers)
-- [Non-PC compatible x86 computers &lpar;Deleted Wikipedia article I wrote in 2007&rpar;](https://lproven.livejournal.com/189791.html)
-- [Building an e-ink picture frame that displays an iCloud photo album](https://ben.page/eink)
-- [You Don&#39;t Need More Resilience. You Need Friends. and Money](https://www.bloomberg.com/opinion/articles/2024-01-09/what-you-ve-heard-about-resilience-is-probably-wrong)
-- [Launch HN: Corgea &lpar;YC S23&rpar; – Auto fix vulnerable code](https://news.ycombinator.com/item?id=38928064)
+- [Non-PC compatible x86 computers &lpar;2007&rpar;](https://lproven.livejournal.com/189791.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
