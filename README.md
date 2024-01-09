@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X Purges Prominent Journalists, Leftists with No Explanation](https://www.vice.com/en/article/5d948x/x-purges-prominent-journalists-leftists-with-no-explanation)
+- [GenAI could make KYC effectively useless](https://techcrunch.com/2024/01/08/gen-ai-could-make-kyc-effectively-useless/)
+- [Nielsen&#39;s Ten Usability Heuristics [pdf]](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
+- [NASA Peregrine 1: US lander will not make it to moon&#39;s surface due to fuel leak](https://www.theguardian.com/science/2024/jan/09/nasa-peregrine-1-us-lander-will-not-make-it-to-the-moons-surface-due-to-fuel-leak)
 - [Apple tells EU it has five different App Stores, not just one](https://9to5mac.com/2024/01/09/five-different-app-stores/)
-- [Moai in Video Games](https://moai.games/)
-- [Nebula is an open-source and free-to-use modern C++ game engine](https://github.com/gscept/nebula)
-- [AI Toolkit: Give a brain to your game&#39;s NPCs, a header-only C++ library](https://github.com/linkdd/aitoolkit)
-- [GitHub having issues today](https://www.githubstatus.com/incidents/pxg3dz4yg7lp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
