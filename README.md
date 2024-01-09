@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unity Software cutting 25% of staff in &#39;company reset&#39; continuation](https://www.reuters.com/technology/unity-software-cutting-25-staff-company-reset-continuation-2024-01-08/)
-- [UniFi U7 Pro](https://store.ui.com/us/en/products/u7-pro)
+- [Polars](https://pola.rs/)
+- [Turing Complete Transformers: Two Transformers Are More Powerful Than One](https://openreview.net/forum?id=MGWsPGogLH)
+- [OpenBSD Release Songs](https://www.openbsd.org/lyrics.html)
+- [Show HN: Merkdir – create Merkle trees from your directories](https://github.com/makew0rld/merkdir)
 - [A Rail Cart for the Space Conscious Passenger &lpar;2022&rpar;](https://hackaday.com/2022/10/08/a-rail-cart-for-the-space-conscious-passenger/)
-- [totally_safe_transmute, Line-by-Line &lpar;2021&rpar;](https://blog.yossarian.net/2021/03/16/totally_safe_transmute-line-by-line)
-- [Thousands of AI Authors on the Future of AI](https://arxiv.org/abs/2401.02843)
 <!-- BLOG-POST-LIST:END -->
 
 ---
