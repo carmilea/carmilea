@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ex-Google CEO Eric Schmidt Is Working on a Secret Military Drone Project](https://www.forbes.com/sites/sarahemerson/2024/01/09/ex-google-ceo-eric-schmidt-is-working-on-a-secret-military-drone-project/)
+- [SEC&#39;s X Account Hacked, Bitcoin Spot ETFs Not yet Approved](https://en.bitcoinsistemi.com/breaking-gary-gensler-says-secs-x-account-hacked-bitcoin-spot-etfs-not-yet-approved/)
+- [Rabbit R1, Designed by Teenage Engineering](https://www.rabbit.tech/?r1)
+- [SEC Says It Has Not yet Granted Approval of Bitcoin ETFs: Gensler blames hack](https://www.bloomberg.com/news/articles/2024-01-09/sec-says-has-not-yet-granted-approval-of-spot-bitcoin-etfs)
+- [&#39;Magical&#39; Error Correction Scheme Proved Inherently Inefficient](https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/)
 - [Ancient Stars Made Extraordinarily Heavy Elements &lpar;2023&rpar;](https://news.ncsu.edu/2023/12/ancient-stars-made-extraordinarily-heavy-elements/)
-- [YouTube Bans True Crime Videos That Reanimate Dead Children with AI](https://gizmodo.com/youtube-bans-ai-reanimated-dead-kids-true-crime-videos-1851150159)
-- [Aim, fire, scan: the 80/20 of executing on big projects](https://www.indiehackers.com/post/aim-fire-scan-the-80-20-of-executing-on-big-projects-571580cd0a)
-- [The Book of Shaders &lpar;2015&rpar;](https://thebookofshaders.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
