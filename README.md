@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon&#39;s Twitch to Cut 500 Employees, About 35% of Staff](https://www.bloomberg.com/news/articles/2024-01-09/amazon-s-twitch-to-cut-500-employees-about-35-of-staff)
+- [Wikihouse: Open-Source Houses](https://www.wikihouse.cc/)
 - [SEC&#39;s X Account Hacked, Bitcoin Spot ETFs Not yet Approved](https://en.bitcoinsistemi.com/breaking-gary-gensler-says-secs-x-account-hacked-bitcoin-spot-etfs-not-yet-approved/)
 - [Rabbit R1, Designed by Teenage Engineering](https://www.rabbit.tech/?r1)
 - [SEC Says It Has Not yet Granted Approval of Bitcoin ETFs: Gensler blames hack](https://www.bloomberg.com/news/articles/2024-01-09/sec-says-has-not-yet-granted-approval-of-spot-bitcoin-etfs)
-- [&#39;Magical&#39; Error Correction Scheme Proved Inherently Inefficient](https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/)
-- [Ancient Stars Made Extraordinarily Heavy Elements &lpar;2023&rpar;](https://news.ncsu.edu/2023/12/ancient-stars-made-extraordinarily-heavy-elements/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
