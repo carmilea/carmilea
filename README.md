@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mixtral 8x7B: A Sparse Mixture of Experts language model](https://arxiv.org/abs/2401.04088)
+- [Mode7 Graphics Library for Playdate](https://github.com/risolvipro/playdate-mode7)
+- [Why does holding a key fob to your head increase its range?](https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body)
 - [Polars](https://pola.rs/)
 - [Turing Complete Transformers: Two Transformers Are More Powerful Than One](https://openreview.net/forum?id=MGWsPGogLH)
-- [OpenBSD Release Songs](https://www.openbsd.org/lyrics.html)
-- [Show HN: Merkdir – create Merkle trees from your directories](https://github.com/makew0rld/merkdir)
-- [Asking people to &quot;do the research&quot; on fake news makes it more believable](https://www.niemanlab.org/2024/01/asking-people-to-do-the-research-on-fake-news-stories-makes-them-seem-more-believable-not-less/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
