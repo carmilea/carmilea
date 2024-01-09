@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ugliest Airplane: An Appreciation of the Transavia AirTruk](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/)
-- [Is my plane a 737 Max?](https://www.ismyplanea737max.com/)
-- [Discord Serves 15M Users on One Server](https://blog.bytebytego.com/p/how-discord-serves-15-million-users)
-- [Roboflow &lpar;YC S20&rpar; is hiring an engineer focused on their open source projects](https://roboflow.com/careers)
-- [Non-PC compatible x86 computers &lpar;2007&rpar;](https://lproven.livejournal.com/189791.html)
+- [What Is Structured, Semi-structured and Unstructured Data?](https://www.singlestore.com/blog/what-is-structured-semi-structured-and-unstructured-data)
+- [2024 AI Predictions](https://www.singlestore.com/blog/2024-ai-predictions)
+- [2023 in Review: SingleStoreDB Cloud](https://www.singlestore.com/blog/2023-in-review-singlestoredb-cloud)
+- [Optimizing Our Keycloak Theme&#39;s Bundle Size: A Deep Dive](https://www.singlestore.com/blog/optimizing-our-keycloak-theme-bundle)
+- [The Ultimate Guide to the Vector Database Landscape: 2024 and Beyond](https://www.singlestore.com/blog/-ultimate-guide-vector-database-landscape-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
