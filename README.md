@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Having Issues Today](https://www.githubstatus.com/incidents/pxg3dz4yg7lp)
+- [It&#39;s Not a Cigarette. It&#39;s Not a Vape. and It&#39;s Big in Japan](https://reason.com/2024/01/09/its-not-a-cigarette-its-not-a-vape-and-its-big-in-japan/)
+- [Startup Founders Fret over Getting Fired Like Sam Altman](https://www.wsj.com/business/entrepreneurship/startup-founders-fret-over-getting-fired-like-sam-altman-1c91917c)
+- [Turing Complete is a game about computer science](https://turingcomplete.game/)
 - [The Magnitude of the AI Bubble](https://apolloacademy.com/the-magnitude-of-the-ai-bubble/)
-- [Finley &lpar;YC W21&rpar; Is Hiring for Business Operations and Strategy](https://jobs.lever.co/FinleyTechnologies/f3b6fed8-795f-433e-a3f8-7fdec5e85745)
-- [Practising Programming](https://tratt.net/laurie/blog/2022/practising_programming.html)
-- [Google breaks search for Firefox users because of bad UA string sniffing](https://github.com/webcompat/web-bugs/issues/131916)
-- [Heat pumps, more than you wanted to know &lpar;2023&rpar;](https://calv.info/heat-pumps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
