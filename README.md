@@ -60,7 +60,7 @@
 - [Turing Complete Transformers: Two Transformers Are More Powerful Than One](https://openreview.net/forum?id=MGWsPGogLH)
 - [OpenBSD Release Songs](https://www.openbsd.org/lyrics.html)
 - [Show HN: Merkdir – create Merkle trees from your directories](https://github.com/makew0rld/merkdir)
-- [A Rail Cart for the Space Conscious Passenger &lpar;2022&rpar;](https://hackaday.com/2022/10/08/a-rail-cart-for-the-space-conscious-passenger/)
+- [Asking people to &quot;do the research&quot; on fake news makes it more believable](https://www.niemanlab.org/2024/01/asking-people-to-do-the-research-on-fake-news-stories-makes-them-seem-more-believable-not-less/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
