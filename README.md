@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple tells EU it has five different App Stores, not just one](https://9to5mac.com/2024/01/09/five-different-app-stores/)
+- [Moai in Video Games](https://moai.games/)
 - [Nebula is an open-source and free-to-use modern C++ game engine](https://github.com/gscept/nebula)
-- [SF streets were clean for APEC, here&#39;s what Tenderloin and SoMa look like now](https://www.sfchronicle.com/bayarea/article/sf-homeless-crisis-apec-clean-streets-drug-crisis-18509955.php)
-- [GitHub Having Issues Today](https://www.githubstatus.com/incidents/pxg3dz4yg7lp)
-- [AMD Unveils AMD Radeon RX 7600 XT Graphics Card](https://www.amd.com/en/newsroom/press-releases/2024-1-8-amd-unveils-amd-radeon-rx-7600-xt-graphics-card--.html)
-- [Startup Founders Fret over Getting Fired Like Sam Altman](https://www.wsj.com/business/entrepreneurship/startup-founders-fret-over-getting-fired-like-sam-altman-1c91917c)
+- [AI Toolkit: Give a brain to your game&#39;s NPCs, a header-only C++ library](https://github.com/linkdd/aitoolkit)
+- [GitHub having issues today](https://www.githubstatus.com/incidents/pxg3dz4yg7lp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
