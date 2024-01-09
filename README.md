@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [United Airlines finds loose bolts on multiple Boeing 737 Max 9 planes](https://www.theguardian.com/world/2024/jan/08/united-finds-loose-bolts-boeing-737-max-planes)
-- [The &quot;10k-hour rule&quot; was debunked again](https://www.vox.com/science-and-health/2019/8/23/20828597/the-10000-hour-rule-debunked)
+- [The Magnitude of the AI Bubble](https://apolloacademy.com/the-magnitude-of-the-ai-bubble/)
+- [Finley &lpar;YC W21&rpar; Is Hiring for Business Operations and Strategy](https://jobs.lever.co/FinleyTechnologies/f3b6fed8-795f-433e-a3f8-7fdec5e85745)
+- [Practising Programming](https://tratt.net/laurie/blog/2022/practising_programming.html)
 - [Google breaks search for Firefox users because of bad UA string sniffing](https://github.com/webcompat/web-bugs/issues/131916)
-- [Heat Pumps, More Than You Wanted to Know](https://calv.info/heat-pumps)
-- [Apple pays out over claims it deliberately slowed down iPhones](https://www.bbc.co.uk/news/technology-67911517)
+- [Heat pumps, more than you wanted to know &lpar;2023&rpar;](https://calv.info/heat-pumps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
