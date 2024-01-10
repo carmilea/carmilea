@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [Snapdocs &lpar;YC W14&rpar; Is Hiring](https://boards.greenhouse.io/snapdocs/jobs/5053815004)
 - [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
 - [Vcc – The Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
 - [Linkhut: A Social Bookmarking Site](https://ln.ht/)
