@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Glucoboy](https://shonumi.github.io/articles/art33.html)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=38934809)
 - [Show HN: Peer-to-peer mini r/place with Proof of Work](https://tropical.pages.dev/pow/)
 - [Error handling in Go web apps shouldn&#39;t be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
 - [How I pwned half of America&#39;s fast food chains, simultaneously](https://mrbruh.com/chattr/)
-- [Amazon&#39;s Twitch to Cut 500 Employees, About 35% of Staff](https://www.bloomberg.com/news/articles/2024-01-09/amazon-s-twitch-to-cut-500-employees-about-35-of-staff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
