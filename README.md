@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Flo Control Project &lpar;2000&rpar;](https://web.archive.org/web/20000229222350/http://www.quantumpicture.com/Flo_Control/flo_control.htm)
+- [Free MIT Course: Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/)
+- [A theory of the modern exclamation point!](https://annehelen.substack.com/p/a-theory-of-the-modern-exclamation)
 - [Introducing SingleStore Free Shared Tier](https://www.singlestore.com/blog/introducing-singlestore-free-shared-tier)
-- [Snapdocs &lpar;YC W14&rpar; Is Hiring](https://boards.greenhouse.io/snapdocs/jobs/5053815004)
-- [How We Designed and Built Our Free Shared Tier](https://www.singlestore.com/blog/how-we-designed-and-built-our-free-shared-tier)
-- [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
-- [Vcc – The Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
+- [Invisible Ink: At the CIA&#39;s Creative Writing Group](https://www.theparisreview.org/blog/2024/01/09/invisible-ink-at-the-cias-creative-writing-group/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
