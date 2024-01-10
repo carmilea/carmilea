@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeTaxUSA](https://www.freetaxusa.com/)
+- [Valve asked Portal 64 developer to take the project down](https://twitter.com/SteamDB/status/1745190618781962662)
+- [US transportation grounds Boeing 737 MAX 9](https://www.theguardian.com/world/2024/jan/10/flights-canceled-alaska-airlines-boeing-737-1282-door)
 - [Metahead – An enterprise-grade, Git-based metarepo](https://www.metahead.dev/)
-- [OpenWrt One – celebrating 20 years of OpenWrt](https://lists.openwrt.org/pipermail/openwrt-devel/2024-January/042018.html)
-- [Tiny nuclear battery be commercialised?](https://slguardian.org/chinese-firm-developed-nuclear-battery-that-can-produce-power-for-50-years/)
 - [Automatic Syntax Error Recovery &lpar;2020&rpar;](https://tratt.net/laurie/blog/2020/automatic_syntax_error_recovery.html)
-- [Show HN: Dbeel – A distributed thread-per-core db](https://github.com/tontinton/dbeel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
