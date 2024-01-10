@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Teen Mental Illness Epidemic Is International](https://www.afterbabel.com/p/international-mental-illness-part-one)
-- [How Corruption and Greed Led to the Downfall of Rock Music](https://starsafterstarsafterstars.substack.com/p/investigating-rock-radio-with-rick)
+- [Linkhut: A Social Bookmarking Site](https://ln.ht/)
+- [The teen mental illness epidemic is international](https://www.afterbabel.com/p/international-mental-illness-part-one)
+- [Investigating Rock Radio with Rick Beato](https://starsafterstarsafterstars.substack.com/p/investigating-rock-radio-with-rick)
 - [Mariposa – A programming language with time-travel](https://github.com/ambulancja/mariposa)
 - [If Carpenters Were Hired Like Programmers](https://jasonbock.substack.com/p/if-carpenters-were-hired-like-programmers)
-- [Let&#39;s make the indie web easier](https://gilest.org/indie-easy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
