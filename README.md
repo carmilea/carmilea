@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Swiss federal surveillance monitoring nearly everything! Impact on Proton e.g.?](https://news.ycombinator.com/item?id=38937352)
+- [Supabase &lpar;YC S20&rpar; Is Hiring a Product Marketer &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5005843004)
+- [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
+- [British Post Office Scandal](https://en.wikipedia.org/wiki/British_Post_Office_scandal)
 - [Vcc – The Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
 - [How to defend your website with ZIP bombs &lpar;2017&rpar;](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html)
-- [Linkhut: A Social Bookmarking Site](https://ln.ht/)
-- [The teen mental illness epidemic is international](https://www.afterbabel.com/p/international-mental-illness-part-one)
 <!-- BLOG-POST-LIST:END -->
 
 ---
