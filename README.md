@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Teen Mental Illness Epidemic Is International](https://www.afterbabel.com/p/international-mental-illness-part-one)
+- [How Corruption and Greed Led to the Downfall of Rock Music](https://starsafterstarsafterstars.substack.com/p/investigating-rock-radio-with-rick)
+- [Mariposa – A programming language with time-travel](https://github.com/ambulancja/mariposa)
+- [If Carpenters Were Hired Like Programmers](https://jasonbock.substack.com/p/if-carpenters-were-hired-like-programmers)
 - [Let&#39;s make the indie web easier](https://gilest.org/indie-easy.html)
-- [I quit my job to work full time on my open source project [Atuin]](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project)
-- [DMARC required by Gmail and Yahoo from Feb 2024](https://www.mailgun.com/blog/deliverability/gmail-and-yahoo-inbox-updates-2024/)
-- [Glucoboy](https://shonumi.github.io/articles/art33.html)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=38934809)
 <!-- BLOG-POST-LIST:END -->
 
 ---
