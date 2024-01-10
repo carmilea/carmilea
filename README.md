@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Eclipses in the Saturn System &lpar;2017&rpar;](https://science.nasa.gov/missions/cassini/spectacular-eclipses-in-the-saturn-system/)
-- [Austerity Is an Antidemocratic Strategy to Boost Capital](https://catalyst-journal.com/2023/11/capital-order-clara-mattei-book-review)
-- [Supabase &lpar;YC S20&rpar; Is Hiring a Product Marketer &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5005843004)
-- [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
-- [British Post Office Scandal](https://en.wikipedia.org/wiki/British_Post_Office_scandal)
+- [What Is Structured, Semi-structured and Unstructured Data?](https://www.singlestore.com/blog/what-is-structured-semi-structured-and-unstructured-data)
+- [2024 AI Predictions](https://www.singlestore.com/blog/2024-ai-predictions)
+- [2023 in Review: SingleStoreDB Cloud](https://www.singlestore.com/blog/2023-in-review-singlestoredb-cloud)
+- [Optimizing Our Keycloak Theme&#39;s Bundle Size: A Deep Dive](https://www.singlestore.com/blog/optimizing-our-keycloak-theme-bundle)
+- [The Ultimate Guide to the Vector Database Landscape: 2024 and Beyond](https://www.singlestore.com/blog/-ultimate-guide-vector-database-landscape-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
