@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- [Austerity Is an Antidemocratic Strategy to Boost Capital](https://catalyst-journal.com/2023/11/capital-order-clara-mattei-book-review)
-- [Bottled water has &#39;up to 100 times&#39; more bits of plastic than previously feared](https://www.theregister.com/2024/01/10/water_nanoplastic_pollution/)
 - [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
-- [British Post Office Scandal](https://en.wikipedia.org/wiki/British_Post_Office_scandal)
+- [Vcc – The Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
+- [Linkhut: A Social Bookmarking Site](https://ln.ht/)
+- [The teen mental illness epidemic is international](https://www.afterbabel.com/p/international-mental-illness-part-one)
 <!-- BLOG-POST-LIST:END -->
 
 ---
