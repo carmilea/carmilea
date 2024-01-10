@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Flo Control Project &lpar;2000&rpar;](https://web.archive.org/web/20000229222350/http://www.quantumpicture.com/Flo_Control/flo_control.htm)
-- [Free MIT Course: Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/)
-- [A theory of the modern exclamation point!](https://annehelen.substack.com/p/a-theory-of-the-modern-exclamation)
-- [Introducing SingleStore Free Shared Tier](https://www.singlestore.com/blog/introducing-singlestore-free-shared-tier)
-- [Invisible Ink: At the CIA&#39;s Creative Writing Group](https://www.theparisreview.org/blog/2024/01/09/invisible-ink-at-the-cias-creative-writing-group/)
+- [Automatic Syntax Error Recovery &lpar;2020&rpar;](https://tratt.net/laurie/blog/2020/automatic_syntax_error_recovery.html)
+- [Show HN: Dbeel – A distributed thread-per-core db](https://github.com/tontinton/dbeel)
+- [The Big Dummy&#39;s Guide to Fidonet &lpar;1992&rpar;](http://www.fidonet.us/dummyguide.html)
+- [The case for better watch typography &lpar;2021&rpar;](https://www.hodinkee.com/articles/the-case-for-better-watch-typography)
+- [An Approach to Sound Synthesis with L-Systems](https://nathan.ho.name/posts/sound-synthesis-with-l-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
