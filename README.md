@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=38934809)
+- [Show HN: Peer-to-peer mini r/place with Proof of Work](https://tropical.pages.dev/pow/)
+- [Error handling in Go web apps shouldn&#39;t be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
+- [How I pwned half of America&#39;s fast food chains, simultaneously](https://mrbruh.com/chattr/)
 - [Amazon&#39;s Twitch to Cut 500 Employees, About 35% of Staff](https://www.bloomberg.com/news/articles/2024-01-09/amazon-s-twitch-to-cut-500-employees-about-35-of-staff)
-- [Wikihouse: Open-Source Houses](https://www.wikihouse.cc/)
-- [SEC&#39;s X Account Hacked, Bitcoin Spot ETFs Not yet Approved](https://en.bitcoinsistemi.com/breaking-gary-gensler-says-secs-x-account-hacked-bitcoin-spot-etfs-not-yet-approved/)
-- [Rabbit R1, Designed by Teenage Engineering](https://www.rabbit.tech/?r1)
-- [SEC Says It Has Not yet Granted Approval of Bitcoin ETFs: Gensler blames hack](https://www.bloomberg.com/news/articles/2024-01-09/sec-says-has-not-yet-granted-approval-of-spot-bitcoin-etfs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
