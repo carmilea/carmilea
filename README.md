@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Structured, Semi-structured and Unstructured Data?](https://www.singlestore.com/blog/what-is-structured-semi-structured-and-unstructured-data)
-- [2024 AI Predictions](https://www.singlestore.com/blog/2024-ai-predictions)
-- [2023 in Review: SingleStoreDB Cloud](https://www.singlestore.com/blog/2023-in-review-singlestoredb-cloud)
-- [Optimizing Our Keycloak Theme&#39;s Bundle Size: A Deep Dive](https://www.singlestore.com/blog/optimizing-our-keycloak-theme-bundle)
-- [The Ultimate Guide to the Vector Database Landscape: 2024 and Beyond](https://www.singlestore.com/blog/-ultimate-guide-vector-database-landscape-2024)
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [AWS cancels serverless Postgres service that scales to zero](https://www.datanami.com/2024/01/08/aws-cancels-serverless-postgres-service-that-scales-to-zero/)
+- [Eclipses in the Saturn System &lpar;2017&rpar;](https://science.nasa.gov/missions/cassini/spectacular-eclipses-in-the-saturn-system/)
+- [Austerity Is an Antidemocratic Strategy to Boost Capital](https://catalyst-journal.com/2023/11/capital-order-clara-mattei-book-review)
+- [Bottled water has &#39;up to 100 times&#39; more bits of plastic than previously feared](https://www.theregister.com/2024/01/10/water_nanoplastic_pollution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
