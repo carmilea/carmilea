@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s make the indie web easier](https://gilest.org/indie-easy.html)
+- [I quit my job to work full time on my open source project [Atuin]](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project)
+- [DMARC required by Gmail and Yahoo from Feb 2024](https://www.mailgun.com/blog/deliverability/gmail-and-yahoo-inbox-updates-2024/)
 - [Glucoboy](https://shonumi.github.io/articles/art33.html)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=38934809)
-- [Show HN: Peer-to-peer mini r/place with Proof of Work](https://tropical.pages.dev/pow/)
-- [Error handling in Go web apps shouldn&#39;t be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
-- [How I pwned half of America&#39;s fast food chains, simultaneously](https://mrbruh.com/chattr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
