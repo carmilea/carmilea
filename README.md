@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Metahead – An enterprise-grade, Git-based metarepo](https://www.metahead.dev/)
+- [OpenWrt One – celebrating 20 years of OpenWrt](https://lists.openwrt.org/pipermail/openwrt-devel/2024-January/042018.html)
+- [Tiny nuclear battery be commercialised?](https://slguardian.org/chinese-firm-developed-nuclear-battery-that-can-produce-power-for-50-years/)
 - [Automatic Syntax Error Recovery &lpar;2020&rpar;](https://tratt.net/laurie/blog/2020/automatic_syntax_error_recovery.html)
 - [Show HN: Dbeel – A distributed thread-per-core db](https://github.com/tontinton/dbeel)
-- [The Big Dummy&#39;s Guide to Fidonet &lpar;1992&rpar;](http://www.fidonet.us/dummyguide.html)
-- [The case for better watch typography &lpar;2021&rpar;](https://www.hodinkee.com/articles/the-case-for-better-watch-typography)
-- [An Approach to Sound Synthesis with L-Systems](https://nathan.ho.name/posts/sound-synthesis-with-l-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
