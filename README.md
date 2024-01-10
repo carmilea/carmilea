@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;I Contribute to the Windows Kernel. We Are Slower Than Other Operating Systems&quot;](http://blog.zorinaq.com/i-contribute-to-the-windows-kernel-we-are-slower-than-other-oper/)
 - [Linkhut: A Social Bookmarking Site](https://ln.ht/)
 - [Atuin replaces your existing shell history with a SQLite database](https://github.com/atuinsh/atuin)
 - [The teen mental illness epidemic is international](https://www.afterbabel.com/p/international-mental-illness-part-one)
 - [Investigating Rock Radio with Rick Beato](https://starsafterstarsafterstars.substack.com/p/investigating-rock-radio-with-rick)
-- [Mariposa – A programming language with time-travel](https://github.com/ambulancja/mariposa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
