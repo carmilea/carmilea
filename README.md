@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Iranian cyber army&#39; blamed as Wikipedia deletes atrocities](https://www.theaustralian.com.au/world/the-times/iranian-cyber-army-blamed-as-wikipedia-deletes-atrocities/news-story/3947931532816bc4f1a9c5eca7df5f71)
 - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
-- [Tokyo&#39;s &#39;oldest man&#39; had been dead for 30 years &lpar;2010&rpar;](https://www.bbc.com/news/world-asia-pacific-10809128.amp)
 - [HTML Spirograph &lpar;2021&rpar;](http://htmlspirograph.com/)
 - [Google Cuts Jobs in Engineering and Other Divisions](https://www.nytimes.com/2024/01/11/technology/google-layoffs.html)
-- [The golden age of Kotlin and its uncertain future](https://shiftmag.dev/kotlin-vs-java-2392/)
+- [epoll: The API that powers the modern internet &lpar;2022&rpar;](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
