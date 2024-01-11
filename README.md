@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: The Turing.com hiring platform is complete nonsense](https://news.ycombinator.com/item?id=38958143)
+- [Engineer Used Water Pump to Get $1B Stuxnet Malware into Iranian Nuclear Plant](https://www.securityweek.com/dutch-engineer-used-water-pump-to-get-billion-dollar-stuxnet-malware-into-iranian-nuclear-facility-report/)
+- [A Philosophical Introduction to Language Models](https://arxiv.org/abs/2401.03910)
+- [Wi-Fi 7 took off while everyone was looking at AI](https://www.theverge.com/2024/1/11/24033022/wi-fi-7-laptops-gaming-ces-2024-lenovo-alienware-razer-msi-asus)
 - [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
-- [Incompetent Middle Management Killed Google](https://andrewzuo.com/how-incompetent-middle-management-killed-google-0e3bf56924ac)
-- [Discord is laying off 17 percent of employees](https://www.theverge.com/2024/1/11/24034705/discord-layoffs-17-percent-employees)
-- [Feynman: I am burned out and I&#39;ll never accomplish anything &lpar;1985&rpar;](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html)
-- [Stop Building Stingy Apps](https://blog.usmanity.com/stop-building-stingy-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
