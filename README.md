@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
+- [Tokyo&#39;s &#39;oldest man&#39; had been dead for 30 years &lpar;2010&rpar;](https://www.bbc.com/news/world-asia-pacific-10809128.amp)
 - [HTML Spirograph &lpar;2021&rpar;](http://htmlspirograph.com/)
+- [Google Cuts Jobs in Engineering and Other Divisions](https://www.nytimes.com/2024/01/11/technology/google-layoffs.html)
 - [The golden age of Kotlin and its uncertain future](https://shiftmag.dev/kotlin-vs-java-2392/)
-- [Jerry &lpar;YC S17&rpar; Is Hiring PMs, Engs, Data, BizOps &lpar;Remote&rpar;](https://getjerry.com/careers)
-- [Drawing.garden](https://drawing.garden/)
-- [Franz Morat KG TV-computersystem 6800](https://randoc.wordpress.com/2024/01/03/franz-morat-kg-tv-computersystem-6800/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
