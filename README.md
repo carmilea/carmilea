@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [More Teens Who Use Marijuana Are Suffering from Psychosis](https://www.wsj.com/us-news/marijuana-depression-psychosis-869490d1)
+- [Google lays off hundreds working on its voice-activated assistant – Semafor](https://www.semafor.com/article/01/10/2024/google-lays-off-hundreds-working-on-its-voice-activated-assistant)
+- [ChatGPT Team](https://openai.com/blog/introducing-chatgpt-team)
 - [How to get coworkers to stop giving me ChatGPT-generated suggestions?](https://workplace.stackexchange.com/questions/194969/how-to-get-coworkers-to-stop-giving-me-chatgpt-generated-suggestions)
 - [Jerry &lpar;YC S17&rpar; Is Hiring PMs, Engs, Data, BizOps &lpar;Remote&rpar;](https://getjerry.com/careers)
-- [Super Mario 64 on the Web](https://probablykam.github.io/Mario64webgl/)
-- [Drawing.garden](https://drawing.garden/)
-- [Franz Morat KG TV-computersystem 6800](https://randoc.wordpress.com/2024/01/03/franz-morat-kg-tv-computersystem-6800/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
