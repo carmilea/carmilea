@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: The Turing.com hiring platform is complete nonsense](https://news.ycombinator.com/item?id=38958143)
+- [Let&#39;s Block It](https://letsblock.it/)
+- [All the Types of Science Fiction](https://www.mcsweeneys.net/articles/all-the-types-of-science-fiction)
+- [93% of U.S. households&#39; stock market wealth is held by the top 10%](https://www.axios.com/2024/01/10/wealthy-own-record-share-stock-market)
+- [How Virtualisation came to Apple Silicon Macs](https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/)
 - [Engineer Used Water Pump to Get $1B Stuxnet Malware into Iranian Nuclear Plant](https://www.securityweek.com/dutch-engineer-used-water-pump-to-get-billion-dollar-stuxnet-malware-into-iranian-nuclear-facility-report/)
-- [A Philosophical Introduction to Language Models](https://arxiv.org/abs/2401.03910)
-- [Wi-Fi 7 took off while everyone was looking at AI](https://www.theverge.com/2024/1/11/24033022/wi-fi-7-laptops-gaming-ces-2024-lenovo-alienware-razer-msi-asus)
-- [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
