@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hertz selling 20k EVs, will replace with gas-powered vehicles](https://www.autoblog.com/2024/01/11/hertz-sells-electric-cars-tesla-polestar/)
+- [Hertz is selling 20k EVs and replacing them with gas cars](https://techcrunch.com/2024/01/11/hertz-sell-evs-tesla-fleet-gm-polestar-gas/)
+- [Solar Will Supply Almost All Growth in U.S. Electricity Generation Through 2025](https://cleantechnica.com/2024/01/09/u-s-eia-solar-will-supply-almost-all-growth-in-u-s-electricity-generation-through-2025/)
 - [Optery &lpar;YC W22&rpar; – Full Stack Developer W Node.js Experience &lpar;Latin America&rpar;](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
-- [Cancer Is Striking More Young People, and Doctors Are Alarmed and Baffled](https://www.wsj.com/health/healthcare/cancer-young-people-doctors-baffled-49c766ed)
-- [Show HN: Business ideas twice a week – newsletter](https://ideavault.framer.website/)
-- [Outlook is Microsoft&#39;s new data collection service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
-- [Meetup has been acquired by Bending Spoons](https://www.meetup.com/blog/a-new-home-for-meetup/)
+- [A Technical Dive into PostgreSQL&#39;s replication mechanisms](https://airbyte.com/blog/a-guide-to-logical-replication-and-cdc-in-postgresql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
