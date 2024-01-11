@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hertz to Sell 20k EVs in Shift Back to Gas-Powered Cars](https://www.bloomberg.com/news/articles/2024-01-11/hertz-to-sell-20-000-evs-in-shift-back-to-gas-powered-cars)
+- [The Internet Is Full of AI Dogshit](https://aftermath.site/the-internet-is-full-of-ai-dogshit)
+- [Analysis of 200M newspaper pages: Sentiment has collapsed over the past 50 years](https://www.ft.com/content/af78f86d-13d2-429d-ad55-a11947989c8f)
+- [Why Would I Buy This Useless, Evil Thing?](https://aftermath.site/why-would-i-buy-this-useless-evil-thing)
 - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
-- [Twitch layoffs: Amazon-owned livestreaming platform cutting workforce by 35%](https://www.usatoday.com/story/money/2024/01/10/twitch-layoffs-job-cuts/72174329007/)
-- [OpenSSH: Timeline to remove DSA support in OpenSSH](https://lists.mindrot.org/pipermail/openssh-unix-announce/2024-January/000156.html)
-- [A TV Show Forced Britain&#39;s Devastating Post Office Scandal into the Light](https://www.nytimes.com/2024/01/10/world/europe/uk-itv-mr-bates-vs-post-office.html)
-- [Hackers can infect network-connected wrenches to install ransomware](https://arstechnica.com/security/2024/01/network-connected-wrenches-used-in-factories-can-be-hacked-for-sabotage-or-ransomware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
