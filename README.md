@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hertz to Sell 20k EVs in Shift Back to Gas-Powered Cars](https://www.bloomberg.com/news/articles/2024-01-11/hertz-to-sell-20-000-evs-in-shift-back-to-gas-powered-cars)
+- [Florida School District Bans Dictionaries Under DeSantis Law](https://www.commondreams.org/news/florida-bans-dictionaries)
+- [Outlook is Microsoft&#39;s new data collection service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
+- [Meetup has been acquired by Bending Spoons](https://www.meetup.com/blog/a-new-home-for-meetup/)
 - [The Internet Is Full of AI Dogshit](https://aftermath.site/the-internet-is-full-of-ai-dogshit)
-- [Analysis of 200M newspaper pages: Sentiment has collapsed over the past 50 years](https://www.ft.com/content/af78f86d-13d2-429d-ad55-a11947989c8f)
-- [Why Would I Buy This Useless, Evil Thing?](https://aftermath.site/why-would-i-buy-this-useless-evil-thing)
 - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
 <!-- BLOG-POST-LIST:END -->
 
