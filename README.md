@@ -57,7 +57,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Demonstrating Cybertruck&#39;s dangerous lack of pinch sensors](https://www.threads.net/@hoon_kim/post/C17YnVWvaJ6)
-- [Valve now allows the &quot;vast majority&quot; of AI-powered games on Steam](https://arstechnica.com/gaming/2024/01/valve-most-games-made-with-ai-tools-are-now-welcome-on-steam/)
+- [Meta unlawfully ignores the users&#39; right to easily withdraw consent](https://noyb.eu/en/meta-ignores-users-right-easily-withdraw-consent)
 - [&#39;Iranian cyber army&#39; blamed as Wikipedia deletes atrocities](https://www.theaustralian.com.au/world/the-times/iranian-cyber-army-blamed-as-wikipedia-deletes-atrocities/news-story/3947931532816bc4f1a9c5eca7df5f71)
 - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
 - [HTML Spirograph &lpar;2021&rpar;](http://htmlspirograph.com/)
