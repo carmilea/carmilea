@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Block It](https://letsblock.it/)
-- [All the Types of Science Fiction](https://www.mcsweeneys.net/articles/all-the-types-of-science-fiction)
+- [Ask HN: Are tech layoffs happening abroad?](https://news.ycombinator.com/item?id=38959617)
+- [The Concorde was different from other aircraft in many ways](https://twitter.com/Rainmaker1973/status/1745421959989457206)
+- [Google confirms it just laid off around a thousand employees](https://www.theverge.com/2024/1/11/24034124/google-layoffs-engineering-assistant-hardware)
+- [eBay agrees to $3M fine over couple&#39;s harassment case, civil suit continues](https://www.universalhub.com/2024/ebay-agrees-3-million-fine-trying-destroy-lives)
 - [93% of U.S. households&#39; stock market wealth is held by the top 10%](https://www.axios.com/2024/01/10/wealthy-own-record-share-stock-market)
-- [How Virtualisation came to Apple Silicon Macs](https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/)
-- [Engineer Used Water Pump to Get $1B Stuxnet Malware into Iranian Nuclear Plant](https://www.securityweek.com/dutch-engineer-used-water-pump-to-get-billion-dollar-stuxnet-malware-into-iranian-nuclear-facility-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
