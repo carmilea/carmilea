@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FreeTaxUSA](https://www.freetaxusa.com/)
-- [Valve asked Portal 64 developer to take the project down](https://twitter.com/SteamDB/status/1745190618781962662)
-- [US transportation grounds Boeing 737 MAX 9](https://www.theguardian.com/world/2024/jan/10/flights-canceled-alaska-airlines-boeing-737-1282-door)
+- [Jerry &lpar;YC S17&rpar; Is Hiring PMs, Engs, Data, BizOps &lpar;Remote&rpar;](https://getjerry.com/careers)
+- [Drawing.garden](https://drawing.garden/)
+- [Franz Morat KG TV-computersystem 6800](https://randoc.wordpress.com/2024/01/03/franz-morat-kg-tv-computersystem-6800/)
+- [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
 - [Metahead – An enterprise-grade, Git-based metarepo](https://www.metahead.dev/)
-- [Automatic Syntax Error Recovery &lpar;2020&rpar;](https://tratt.net/laurie/blog/2020/automatic_syntax_error_recovery.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
