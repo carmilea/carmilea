@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta layoffs: all TPMs in Instagram laidoff today](https://www.teamblind.com/post/Meta-layoffs-all-TPMs-in-Instagram-laidoff-today-2MQcPFcy)
 - [Google Lays Off Hundreds in Hardware, Voice Assistant Teams](https://www.bloomberg.com/news/articles/2024-01-11/google-lays-off-hundreds-in-hardware-voice-assistant-teams)
-- [More Teens Who Use Marijuana Are Suffering from Psychosis](https://www.wsj.com/us-news/marijuana-depression-psychosis-869490d1)
-- [Google lays off hundreds working on its voice-activated assistant – Semafor](https://www.semafor.com/article/01/10/2024/google-lays-off-hundreds-working-on-its-voice-activated-assistant)
+- [Tell HN: Google-Wide Layoffs](https://news.ycombinator.com/item?id=38947580)
 - [Jerry &lpar;YC S17&rpar; Is Hiring PMs, Engs, Data, BizOps &lpar;Remote&rpar;](https://getjerry.com/careers)
-- [Super Mario 64 on the Web](https://probablykam.github.io/Mario64webgl/)
+- [Drawing.garden](https://drawing.garden/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
