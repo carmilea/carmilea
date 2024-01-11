@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Florida School District Bans Dictionaries Under DeSantis Law](https://www.commondreams.org/news/florida-bans-dictionaries)
+- [Optery &lpar;YC W22&rpar; – Full Stack Developer W Node.js Experience &lpar;Latin America&rpar;](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
+- [Cancer Is Striking More Young People, and Doctors Are Alarmed and Baffled](https://www.wsj.com/health/healthcare/cancer-young-people-doctors-baffled-49c766ed)
+- [Show HN: Business ideas twice a week – newsletter](https://ideavault.framer.website/)
 - [Outlook is Microsoft&#39;s new data collection service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
 - [Meetup has been acquired by Bending Spoons](https://www.meetup.com/blog/a-new-home-for-meetup/)
-- [The Internet Is Full of AI Dogshit](https://aftermath.site/the-internet-is-full-of-ai-dogshit)
-- [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
