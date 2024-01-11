@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hertz selling 20k EVs, will replace with gas-powered vehicles](https://www.autoblog.com/2024/01/11/hertz-sells-electric-cars-tesla-polestar/)
-- [Hertz is selling 20k EVs and replacing them with gas cars](https://techcrunch.com/2024/01/11/hertz-sell-evs-tesla-fleet-gm-polestar-gas/)
-- [Solar Will Supply Almost All Growth in U.S. Electricity Generation Through 2025](https://cleantechnica.com/2024/01/09/u-s-eia-solar-will-supply-almost-all-growth-in-u-s-electricity-generation-through-2025/)
-- [Optery &lpar;YC W22&rpar; – Full Stack Developer W Node.js Experience &lpar;Latin America&rpar;](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
-- [A Technical Dive into PostgreSQL&#39;s replication mechanisms](https://airbyte.com/blog/a-guide-to-logical-replication-and-cdc-in-postgresql)
+- [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
+- [Incompetent Middle Management Killed Google](https://andrewzuo.com/how-incompetent-middle-management-killed-google-0e3bf56924ac)
+- [Discord is laying off 17 percent of employees](https://www.theverge.com/2024/1/11/24034705/discord-layoffs-17-percent-employees)
+- [Feynman: I am burned out and I&#39;ll never accomplish anything &lpar;1985&rpar;](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html)
+- [Stop Building Stingy Apps](https://blog.usmanity.com/stop-building-stingy-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
