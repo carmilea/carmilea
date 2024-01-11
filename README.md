@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Are tech layoffs happening abroad?](https://news.ycombinator.com/item?id=38959617)
-- [The Concorde was different from other aircraft in many ways](https://twitter.com/Rainmaker1973/status/1745421959989457206)
-- [Google confirms it just laid off around a thousand employees](https://www.theverge.com/2024/1/11/24034124/google-layoffs-engineering-assistant-hardware)
+- [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
+- [Ask HN: How can I make local dev with containers hurt less?](https://news.ycombinator.com/item?id=38959668)
+- [Google lays off Bay Area workers, closes Mtn View child care center](https://www.sfgate.com/tech/article/google-layoffs-child-care-center-engineering-18602833.php)
+- [Executives at eBay sent live spiders and cockroaches to critical bloggers](https://www.bbc.com/news/world-us-canada-67951113)
 - [eBay agrees to $3M fine over couple&#39;s harassment case, civil suit continues](https://www.universalhub.com/2024/ebay-agrees-3-million-fine-trying-destroy-lives)
-- [93% of U.S. households&#39; stock market wealth is held by the top 10%](https://www.axios.com/2024/01/10/wealthy-own-record-share-stock-market)
 <!-- BLOG-POST-LIST:END -->
 
 ---
