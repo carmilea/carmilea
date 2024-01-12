@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
-- [Ask HN: How can I make local dev with containers hurt less?](https://news.ycombinator.com/item?id=38959668)
-- [Google lays off Bay Area workers, closes Mtn View child care center](https://www.sfgate.com/tech/article/google-layoffs-child-care-center-engineering-18602833.php)
-- [Executives at eBay sent live spiders and cockroaches to critical bloggers](https://www.bbc.com/news/world-us-canada-67951113)
-- [eBay agrees to $3M fine over couple&#39;s harassment case, civil suit continues](https://www.universalhub.com/2024/ebay-agrees-3-million-fine-trying-destroy-lives)
+- [US, UK launch large-scale strikes against Iran-backed Houthi militants in Yemen](https://abcnews.go.com/Politics/us-retaliates-iranian-backed-houthi-militants-yemen/story?id=106300275)
+- [I built an offline smart home, and why you should too](https://www.androidauthority.com/offline-smart-home-3398608/)
+- [Postgres Incremental Backup](https://pganalyze.com/blog/5mins-postgres-17-incremental-backups)
+- [Tree.fm: Tune in to Forests Around the World](https://www.tree.fm/)
+- [A Love Letter to Tinkerable Software](https://www.trevoragilbert.com/posts/a-love-letter-to-tinkerable-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
