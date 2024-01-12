@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How can I get out of tech?](https://news.ycombinator.com/item?id=38974330)
-- [Axle &lpar;YC S22&rpar; – Hiring for Senior Product Engineer](https://news.ycombinator.com/item?id=38973998)
+- [Xbox Multiplayer Analysis Tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool)
+- [Axle &lpar;YC S22&rpar; is hiring a senior product engineer](https://news.ycombinator.com/item?id=38973998)
 - [Google&#39;s Tensor Processing Units could have been developed using stolen designs](https://www.theregister.com/2024/01/10/google_tpu_patent_dispute/)
 - [On non-technical video-games cheat mitigations](https://dustri.org/b/on-non-technical-video-games-cheat-mitigations.html)
 - [OpenAI deletes ban on using ChatGPT for &quot;military and warfare&quot;](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
