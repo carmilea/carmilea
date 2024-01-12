@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Post Office lied and threatened BBC over Fujitsu dev whistleblower](https://www.bbc.co.uk/news/uk-67884743)
+- [CLI user experience case study](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/)
 - [IAC sold 17 apps to Bending Spoons. $100M deal, all 330 employees fired](https://twitter.com/rjonesy/status/1745567200600076531)
-- [Is Fortran &quot;A Dead Language&quot;?](https://cpufun.substack.com/p/is-fortran-a-dead-language)
 - [Statement regarding the ongoing Sourcehut outage](https://outage.sr.ht/)
-- [YouTube strikes again, it seems](https://old.reddit.com/r/youtube/comments/194aqmm/youtube_strikes_again_it_seems/)
-- [We removed advertising cookies, here&#39;s what happened](https://blog.sentry.io/we-removed-advertising-cookies-heres-what-happened/)
+- [Is the Reproducibility Crisis Reproducible?](https://www.argmin.net/p/is-the-reproducibility-crisis-reproducible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
