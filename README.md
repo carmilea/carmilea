@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The planet&#39;s got 99 problems, but exponential growth isn&#39;t one](https://www.ft.com/content/ba6c010e-b8b4-4225-a024-03cc886eaa4d)
+- [Ask HN: Got a /22, cool things to do with it?](https://news.ycombinator.com/item?id=38967494)
+- [Airbus Shatters Record for Jet Orders as Demand Soars](https://www.wsj.com/business/airlines/airbus-shatters-record-for-jet-orders-as-demand-soars-a9f75750)
 - [Post Office lied and threatened BBC over Fujitsu dev whistleblower](https://www.bbc.co.uk/news/uk-67884743)
 - [CLI user experience case study](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/)
-- [Statement regarding the ongoing Sourcehut outage](https://outage.sr.ht/)
-- [Is the Reproducibility Crisis Reproducible?](https://www.argmin.net/p/is-the-reproducibility-crisis-reproducible)
-- [Partitioning Postgres tables by timestamp based UUIDs](https://elixirforum.com/t/partitioning-postgres-tables-by-timestamp-based-uuids/60916)
 <!-- BLOG-POST-LIST:END -->
 
 ---
