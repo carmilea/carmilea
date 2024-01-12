@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CircuitHub &lpar;YC W12&rpar; Is Hiring – Haskell / Robotics / Remote](https://discourse.haskell.org/t/circuithub-is-hiring-haskell-engineers-remote/8519)
-- [The United States Just Grew by 1M Square Kilometers in Size](https://www.iflscience.com/the-united-states-just-grew-by-1-million-kilometers-in-size-72412)
-- [Pharmacology of Hallucinations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4065763/)
-- [Principality of Hutt River](http://www.principality-hutt-river.com/)
-- [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]](https://users.cs.utah.edu/~regehr/papers/cgo24.pdf)
+- [Inner Speech](https://plato.stanford.edu/entries/inner-speech/)
+- [Ring of galaxies challenges thinking on cosmos](https://www.bbc.co.uk/news/science-environment-67950749)
+- [CurlyQ: Command line helper for curl and web scraping](https://github.com/ttscoff/curlyq)
+- [Fly through your shell history](https://github.com/cantino/mcfly)
+- [Ancient City Found in the Amazon](https://www.bbc.com/news/science-environment-67940671)
 <!-- BLOG-POST-LIST:END -->
 
 ---
