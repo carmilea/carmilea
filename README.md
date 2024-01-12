@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Gains an Open File Server for Tractors and Agriculture Machinery](https://www.phoronix.com/news/Open-ISOBUS-File-Server)
+- [Trilinear Point Splatting for Real-Time Radiance Field Rendering](https://lfranke.github.io/trips/)
+- [Features and Benefits of Bluetooth Mesh 1.1 for Wireless Mesh Networking](https://www.bluetooth.com/bluetooth-resources/features-benefits-bluetooth-mesh/)
+- [OpenSSH announces DSA-removal timeline](https://lwn.net/Articles/958048/)
 - [A vision for the alleviation of water scarcity in the US Southwest](https://caseyhandmer.wordpress.com/2024/01/09/a-vision-for-the-alleviation-of-water-scarcity-in-the-us-southwest-and-the-revitalization-of-the-salton-sea/)
-- [ESP32-C61: Delivering Affordable Wi-Fi 6 Connectivity](https://www.espressif.com/en/news/ESP32-C61_SoC)
-- [Epistemic Learned Helplessness](https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/)
-- [We need technology that is less immersive, not more](https://filiph.net/text/we-need-technology-that-is-less-immersive,-not-more.html)
-- [On the Pleb Filter &lpar;2023&rpar;](https://fantasticanachronism.com/2023/02/06/on-the-pleb-filter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
