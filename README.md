@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CircuitHub &lpar;YC W12&rpar; Is Hiring – Haskell / Robotics / Remote](https://discourse.haskell.org/t/circuithub-is-hiring-haskell-engineers-remote/8519)
+- [The United States Just Grew by 1M Square Kilometers in Size](https://www.iflscience.com/the-united-states-just-grew-by-1-million-kilometers-in-size-72412)
+- [Pharmacology of Hallucinations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4065763/)
 - [Principality of Hutt River](http://www.principality-hutt-river.com/)
-- [OpenWrt One/AP-24.XY: new open source router board by OpenWrt and Banana Pi](https://www.cnx-software.com/2024/01/12/openwrt-one-ap-24-xy-router-board-openwrt-banana-pi/)
-- [Bare Bones Software – BBEdit 15 is here](https://www.barebones.com/products/bbedit/bbedit15.html)
 - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]](https://users.cs.utah.edu/~regehr/papers/cgo24.pdf)
-- [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
