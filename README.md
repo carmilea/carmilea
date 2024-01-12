@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an offline smart home, and why you should too](https://www.androidauthority.com/offline-smart-home-3398608/)
-- [Cloudflare lays off new hires](https://i.imgur.com/9A3LZIB.png)
-- [Postgres Incremental Backup](https://pganalyze.com/blog/5mins-postgres-17-incremental-backups)
-- [Tree.fm: Tune in to Forests Around the World](https://www.tree.fm/)
-- [A Love Letter to Tinkerable Software](https://www.trevoragilbert.com/posts/a-love-letter-to-tinkerable-software/)
+- [Introducing Exploit Observer — More than Shodan Exploits, Less than Vulners](https://blog.arpsyndicate.io/introducing-exploit-observer-more-than-shodan-exploits-less-than-vulners-23eaea466e4a)
+- [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]](https://users.cs.utah.edu/~regehr/papers/cgo24.pdf)
+- [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
+- [Private equity piling on debt like never before](https://www.pionline.com/private-equity/private-equity-piling-debt-never)
+- [Google Cloud Spanner, Cloud Bigtable and Cloud SQL All Undergoing Outage](https://status.cloud.google.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
