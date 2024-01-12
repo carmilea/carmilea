@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Post Office lied and threatened BBC over Fujitsu dev whistleblower](https://www.bbc.co.uk/news/uk-67884743)
 - [CLI user experience case study](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/)
-- [IAC sold 17 apps to Bending Spoons. $100M deal, all 330 employees fired](https://twitter.com/rjonesy/status/1745567200600076531)
 - [Statement regarding the ongoing Sourcehut outage](https://outage.sr.ht/)
 - [Is the Reproducibility Crisis Reproducible?](https://www.argmin.net/p/is-the-reproducibility-crisis-reproducible)
+- [Partitioning Postgres tables by timestamp based UUIDs](https://elixirforum.com/t/partitioning-postgres-tables-by-timestamp-based-uuids/60916)
 <!-- BLOG-POST-LIST:END -->
 
 ---
