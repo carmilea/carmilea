@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inner Speech](https://plato.stanford.edu/entries/inner-speech/)
+- [Is Fortran &quot;A Dead Language&quot;?](https://cpufun.substack.com/p/is-fortran-a-dead-language)
+- [Statement regarding the ongoing Sourcehut outage](https://outage.sr.ht/)
+- [We removed advertising cookies, here&#39;s what happened](https://blog.sentry.io/we-removed-advertising-cookies-heres-what-happened/)
 - [Ring of galaxies challenges thinking on cosmos](https://www.bbc.co.uk/news/science-environment-67950749)
 - [CurlyQ: Command line helper for curl and web scraping](https://github.com/ttscoff/curlyq)
-- [Fly through your shell history](https://github.com/cantino/mcfly)
-- [Ancient City Found in the Amazon](https://www.bbc.com/news/science-environment-67940671)
 <!-- BLOG-POST-LIST:END -->
 
 ---
