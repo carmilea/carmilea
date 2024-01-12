@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare employee posts layoff call with HR and goes viral [video]](https://www.tiktok.com/@brittanypeachhh/video/7322301313134415134?_r=1&_t=8ix9BpBqady)
+- [Principality of Hutt River](http://www.principality-hutt-river.com/)
+- [OpenWrt One/AP-24.XY: new open source router board by OpenWrt and Banana Pi](https://www.cnx-software.com/2024/01/12/openwrt-one-ap-24-xy-router-board-openwrt-banana-pi/)
 - [Bare Bones Software – BBEdit 15 is here](https://www.barebones.com/products/bbedit/bbedit15.html)
-- [Introducing Exploit Observer — More than Shodan Exploits, Less than Vulners](https://blog.arpsyndicate.io/introducing-exploit-observer-more-than-shodan-exploits-less-than-vulners-23eaea466e4a)
 - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]](https://users.cs.utah.edu/~regehr/papers/cgo24.pdf)
 - [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
 <!-- BLOG-POST-LIST:END -->
