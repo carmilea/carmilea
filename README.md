@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The planet&#39;s got 99 problems, but exponential growth isn&#39;t one](https://www.ft.com/content/ba6c010e-b8b4-4225-a024-03cc886eaa4d)
+- [&#39;Meditations&#39; by Marcus Aurelius – Stoicism in Modern Language [video]](https://www.youtube.com/watch?v=f3hLZCuh8yM)
+- [Citigroup Plans to Cut 20k Jobs](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-bank-earnings-01-12-2024/card/citigroup-plans-to-cut-20-000-jobs-KCIfucmQx18qn9TfDESs)
+- [Show HN: I made an extension to keep Twitter from losing my scroll position](https://chrome.google.com/webstore/detail/keep-twitter-scroll-posit/ohikllclmilbneljmbnkikjciogdhgfo)
+- [Show HN: Run Stable Diffusion Directly on iPhone](https://apps.apple.com/us/app/amazing-ai/id1660147028?platform=iphone)
 - [Ask HN: Got a /22, cool things to do with it?](https://news.ycombinator.com/item?id=38967494)
-- [Airbus Shatters Record for Jet Orders as Demand Soars](https://www.wsj.com/business/airlines/airbus-shatters-record-for-jet-orders-as-demand-soars-a9f75750)
-- [Post Office lied and threatened BBC over Fujitsu dev whistleblower](https://www.bbc.co.uk/news/uk-67884743)
-- [CLI user experience case study](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
