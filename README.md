@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US, UK launch large-scale strikes against Iran-backed Houthi militants in Yemen](https://abcnews.go.com/Politics/us-retaliates-iranian-backed-houthi-militants-yemen/story?id=106300275)
 - [I built an offline smart home, and why you should too](https://www.androidauthority.com/offline-smart-home-3398608/)
+- [Cloudflare lays off new hires](https://i.imgur.com/9A3LZIB.png)
 - [Postgres Incremental Backup](https://pganalyze.com/blog/5mins-postgres-17-incremental-backups)
 - [Tree.fm: Tune in to Forests Around the World](https://www.tree.fm/)
 - [A Love Letter to Tinkerable Software](https://www.trevoragilbert.com/posts/a-love-letter-to-tinkerable-software/)
