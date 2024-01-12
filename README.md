@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X Announces Peer-to-Peer Payment Service Will Launch in 2024](https://www.forbes.com/sites/zacharyfolk/2024/01/09/x-announces-peer-to-peer-payment-service-will-launch-in-2024/)
+- [Bare Bones Software – BBEdit 15 is here](https://www.barebones.com/products/bbedit/bbedit15.html)
 - [Introducing Exploit Observer — More than Shodan Exploits, Less than Vulners](https://blog.arpsyndicate.io/introducing-exploit-observer-more-than-shodan-exploits-less-than-vulners-23eaea466e4a)
 - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]](https://users.cs.utah.edu/~regehr/papers/cgo24.pdf)
 - [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
-- [Private equity piling on debt like never before](https://www.pionline.com/private-equity/private-equity-piling-debt-never)
-- [Google Cloud Spanner, Cloud Bigtable and Cloud SQL All Undergoing Outage](https://status.cloud.google.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
