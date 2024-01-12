@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IAC sold 17 apps to Bending Spoons. $100M deal, all 330 employees fired](https://twitter.com/rjonesy/status/1745567200600076531)
 - [Is Fortran &quot;A Dead Language&quot;?](https://cpufun.substack.com/p/is-fortran-a-dead-language)
 - [Statement regarding the ongoing Sourcehut outage](https://outage.sr.ht/)
+- [YouTube strikes again, it seems](https://old.reddit.com/r/youtube/comments/194aqmm/youtube_strikes_again_it_seems/)
 - [We removed advertising cookies, here&#39;s what happened](https://blog.sentry.io/we-removed-advertising-cookies-heres-what-happened/)
-- [Ring of galaxies challenges thinking on cosmos](https://www.bbc.co.uk/news/science-environment-67950749)
-- [CurlyQ: Command line helper for curl and web scraping](https://github.com/ttscoff/curlyq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
