@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Axle &lpar;YC S22&rpar; – Hiring for Senior Product Engineer](https://news.ycombinator.com/item?id=38973998)
+- [Centralized or Decentralized There Is No Question](https://puri.sm/posts/centralized-or-decentralized-there-is-no-question/)
+- [On non-technical video-games cheat mitigations](https://dustri.org/b/on-non-technical-video-games-cheat-mitigations.html)
 - [New evidence that polar bears survived 1,600 years of ice-free Holocene summers](https://polarbearscience.com/2023/06/16/new-evidence-that-polar-bears-survived-1600-years-of-ice-free-summers-in-the-early-holocene/)
 - [OpenAI Deletes Ban on Using ChatGPT for &quot;Military and Warfare&quot;](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
-- [There has never been a better time to game on Linux](https://tildes.net/~games/1dcj/there_has_never_been_a_better_time_to_game_on_linux)
-- [Show HN: RemoteStorage – sync localStorage across devices and browsers](https://github.com/FrigadeHQ/remote-storage)
-- [DevDocs](https://devdocs.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
