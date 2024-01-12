@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bean Soup](https://freerecipenetwork.com/13-bean-soup/)
-- [Show HN: Marimo – an open-source reactive notebook for Python](https://github.com/marimo-team/marimo)
-- [Apple knew AirDrop users could be identified and tracked as early as 2019](https://edition.cnn.com/2024/01/12/tech/china-apple-airdrop-user-encryption-vulnerability-hnk-intl/index.html)
-- [Vector Databases: A Technical Primer [pdf]](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
-- [The current state of OpenTelemetry](https://signoz.io/blog/opentelemetry-roundup-2023/)
+- [New evidence that polar bears survived 1,600 years of ice-free Holocene summers](https://polarbearscience.com/2023/06/16/new-evidence-that-polar-bears-survived-1600-years-of-ice-free-summers-in-the-early-holocene/)
+- [OpenAI Deletes Ban on Using ChatGPT for &quot;Military and Warfare&quot;](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
+- [There has never been a better time to game on Linux](https://tildes.net/~games/1dcj/there_has_never_been_a_better_time_to_game_on_linux)
+- [Show HN: RemoteStorage – sync localStorage across devices and browsers](https://github.com/FrigadeHQ/remote-storage)
+- [DevDocs](https://devdocs.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
