@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Meditations&#39; by Marcus Aurelius – Stoicism in Modern Language [video]](https://www.youtube.com/watch?v=f3hLZCuh8yM)
-- [Citigroup Plans to Cut 20k Jobs](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-bank-earnings-01-12-2024/card/citigroup-plans-to-cut-20-000-jobs-KCIfucmQx18qn9TfDESs)
-- [Show HN: I made an extension to keep Twitter from losing my scroll position](https://chrome.google.com/webstore/detail/keep-twitter-scroll-posit/ohikllclmilbneljmbnkikjciogdhgfo)
-- [Show HN: Run Stable Diffusion Directly on iPhone](https://apps.apple.com/us/app/amazing-ai/id1660147028?platform=iphone)
-- [Ask HN: Got a /22, cool things to do with it?](https://news.ycombinator.com/item?id=38967494)
+- [A vision for the alleviation of water scarcity in the US Southwest](https://caseyhandmer.wordpress.com/2024/01/09/a-vision-for-the-alleviation-of-water-scarcity-in-the-us-southwest-and-the-revitalization-of-the-salton-sea/)
+- [ESP32-C61: Delivering Affordable Wi-Fi 6 Connectivity](https://www.espressif.com/en/news/ESP32-C61_SoC)
+- [Epistemic Learned Helplessness](https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/)
+- [We need technology that is less immersive, not more](https://filiph.net/text/we-need-technology-that-is-less-immersive,-not-more.html)
+- [On the Pleb Filter &lpar;2023&rpar;](https://fantasticanachronism.com/2023/02/06/on-the-pleb-filter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
