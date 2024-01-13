@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ternary circuits: why R=3 is not the Optimal Radix for Computation](https://arxiv.org/abs/1908.06841)
-- [Trayd &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/trayd/jobs/kr4Mx7E-founding-engineer)
-- [Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
-- [FAA grounds B737 Max 9 for the time being](https://www.faa.gov/newsroom/updates-grounding-boeing-737-max-9-aircraft)
-- [GoatCounter creator is hoping to raise at least €1k for basic living expense](https://github.com/arp242/goatcounter/releases/tag/v2.5.0)
+- [Test Can Tell How Likely a Young Driver Is to Crash](https://www.wsj.com/tech/personal-tech/this-test-can-tell-how-likely-a-young-driver-is-to-crash-4eb692bf)
+- [Open-Source AI Is Uniquely Dangerous](https://spectrum.ieee.org/open-source-ai-2666932122)
+- [Don&#39;t Fire People for Making Pornography in Their Free Time](https://www.theatlantic.com/ideas/archive/2024/01/wisconsin-joe-gow-fired/677097/)
+- [Pinker was right, I was wrong](https://statmodeling.stat.columbia.edu/2024/01/13/pinker-was-right-i-was-wrong/)
+- [Japan ANA Boeing 737-800 flight turns back due to cockpit window crack](https://www.channelnewsasia.com/asia/japan-all-nippon-airways-flight-1182-boeing-737-cockpit-window-crack-4045796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
