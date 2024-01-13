@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AsmBB – a lightweight web forum engine written in assembly language](https://asmbb.org/what-is-asmbb.1/)
 - [Ask HN: Who else is working on nothing?](https://news.ycombinator.com/item?id=38983067)
 - [Peer review is an honor-based system](https://lemire.me/blog/2008/08/21/peer-review-is-an-honor-based-system/)
+- [European Remote Worker Index](https://www.brother.co.uk/business-solutions/hybrid-working/european-remote-worker-index)
 - [Ping: the atomized social media network](https://ping.hz.tn/p/ca285985-c181-41b6-aacf-2a7b78fe858d/)
-- [Starlink Successfully Tests Space Direct to Cell Mobile Service](https://www.ispreview.co.uk/index.php/2024/01/starlink-successfully-tests-space-direct-to-cell-mobile-service.html)
-- [Bosses are using RTO mandates as a way to blame employees as a scapegoat](https://fortune.com/2024/01/13/managers-scapegoating-workers-return-to-office/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
