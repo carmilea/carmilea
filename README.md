@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A tiny radioactive battery could keep your future phone running for 50 years](https://www.techradar.com/phones/a-tiny-radioactive-battery-could-keep-your-phone-running-for-50-years)
-- [A site that tracks the price of a Big Mac in every US McDonald&#39;s](https://pantryandlarder.com/mccheapest)
-- [Rogue Worlds Throw Planetary Ideas Out of Orbit](https://www.quantamagazine.org/rogue-worlds-throw-planetary-ideas-out-of-orbit-20231113/)
-- [Test Can Tell How Likely a Young Driver Is to Crash](https://www.wsj.com/tech/personal-tech/this-test-can-tell-how-likely-a-young-driver-is-to-crash-4eb692bf)
-- [Japan ANA Boeing 737-800 flight turns back due to cockpit window crack](https://www.channelnewsasia.com/asia/japan-all-nippon-airways-flight-1182-boeing-737-cockpit-window-crack-4045796)
+- [Woman will suffer diarrhea forever after Ozempic caused horror bowel injury](https://www.dailymail.co.uk/health/article-12952757/Ozempic-Novo-Nordisk-lawsuits-gastroparesis-stomach-paralysis.html)
+- [Emerge &lpar;YC W21&rpar; is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+- [Incels need more mental health help, have &quot;fundamental thinking errors&quot;](https://www.bbc.com/news/uk-wales-67770178)
+- [Thinking in an Array Language](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
+- [George Orwell: Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
