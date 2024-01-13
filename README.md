@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Can Design &lpar;EMEA Remote&rpar;](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
-- [Shadcn: Components that you can copy-paste into your apps](https://ui.shadcn.com/)
-- [Triplit: Open-source DB that syncs data between server and browser in real-time](https://github.com/aspen-cloud/triplit)
-- [A decade-old Steam bug](https://blog.freudenjmp.com/posts/no-user-logon/)
-- [Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
+- [M1 Macs may lag behind](https://eclecticlight.co/2024/01/13/how-m1-macs-may-lag-behind/)
+- [Show HN: The most beautiful ABAP report](https://ritschmaster.github.io/2023/09/25/The-most-beautiful-ABAP-report.html)
+- [Show HN: I made a site to simplify recommending talented people to others](https://www.youshouldworkwith.com)
+- [A first dip into OS kernel development with xv6 and the 6.1810 labs](https://jannestimm.com/posts/xv6/)
+- [Kenyan University introduces degree in witchcraft.](https://iharare.com/kenya-university-introduces-a-degree-program-in-witchcraft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
