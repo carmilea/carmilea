@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A tiny radioactive battery could keep your future phone running for 50 years](https://www.techradar.com/phones/a-tiny-radioactive-battery-could-keep-your-phone-running-for-50-years)
+- [A site that tracks the price of a Big Mac in every US McDonald&#39;s](https://pantryandlarder.com/mccheapest)
+- [Rogue Worlds Throw Planetary Ideas Out of Orbit](https://www.quantamagazine.org/rogue-worlds-throw-planetary-ideas-out-of-orbit-20231113/)
 - [Test Can Tell How Likely a Young Driver Is to Crash](https://www.wsj.com/tech/personal-tech/this-test-can-tell-how-likely-a-young-driver-is-to-crash-4eb692bf)
-- [Open-Source AI Is Uniquely Dangerous](https://spectrum.ieee.org/open-source-ai-2666932122)
-- [Don&#39;t Fire People for Making Pornography in Their Free Time](https://www.theatlantic.com/ideas/archive/2024/01/wisconsin-joe-gow-fired/677097/)
-- [Pinker was right, I was wrong](https://statmodeling.stat.columbia.edu/2024/01/13/pinker-was-right-i-was-wrong/)
 - [Japan ANA Boeing 737-800 flight turns back due to cockpit window crack](https://www.channelnewsasia.com/asia/japan-all-nippon-airways-flight-1182-boeing-737-cockpit-window-crack-4045796)
 <!-- BLOG-POST-LIST:END -->
 
