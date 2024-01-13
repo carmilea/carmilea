@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmic: The Road to Alpha](https://blog.system76.com/post/cosmic-the-road-to-alpha/)
+- [LG washing machine sending 3.7GB of data a day](https://www.tomshardware.com/networking/your-washing-machine-could-be-sending-37-gb-of-data-a-day)
 - [Spine AI &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs)
+- [The Exciting History of Carbon Paper! &lpar;1995&rpar;](http://www.kevinlaurence.net/essays/cc.php)
 - [Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
-- [Weather intelligence and cutting-edge tech is boosting grid capacity by 30%](https://electrek.co/2023/12/07/heimdall-power-meteomatics-grid-capacity-30-percent/)
-- [AsmBB – a lightweight web forum engine written in assembly language](https://asmbb.org/what-is-asmbb.1/)
-- [Exposed RSS](https://chriscoyier.net/2024/01/13/exposed-rss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
