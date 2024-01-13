@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Decker – A HyperCard Replacement](https://beyondloom.com/decker/)
+- [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
+- [Celestia: Real-time 3D visualization of space](https://github.com/CelestiaProject/Celestia)
 - [Cosmic: The Road to Alpha](https://blog.system76.com/post/cosmic-the-road-to-alpha/)
 - [LG washing machine sending 3.7GB of data a day](https://www.tomshardware.com/networking/your-washing-machine-could-be-sending-37-gb-of-data-a-day)
-- [Spine AI &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs)
-- [The Exciting History of Carbon Paper! &lpar;1995&rpar;](http://www.kevinlaurence.net/essays/cc.php)
-- [Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
