@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Are More Boys Than Girls Retarded in School? &lpar;1928&rpar;](https://www.jstor.org/stable/995446)
+- [Apple hiring compiler developers for improving Swift / C++ interoperability](https://jobs.apple.com/en-us/details/200531386/compiler-frontend-engineer)
 - [M1 Macs may lag behind](https://eclecticlight.co/2024/01/13/how-m1-macs-may-lag-behind/)
-- [Show HN: The most beautiful ABAP report](https://ritschmaster.github.io/2023/09/25/The-most-beautiful-ABAP-report.html)
 - [Show HN: I made a site to simplify recommending talented people to others](https://www.youshouldworkwith.com)
 - [A first dip into OS kernel development with xv6 and the 6.1810 labs](https://jannestimm.com/posts/xv6/)
-- [Kenyan University introduces degree in witchcraft.](https://iharare.com/kenya-university-introduces-a-degree-program-in-witchcraft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
