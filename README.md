@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Woman will suffer diarrhea forever after Ozempic caused horror bowel injury](https://www.dailymail.co.uk/health/article-12952757/Ozempic-Novo-Nordisk-lawsuits-gastroparesis-stomach-paralysis.html)
+- [It&#39;s Time to Nationalize and Then Break Up Boeing](https://www.thebignewsletter.com/p/its-time-to-nationalize-and-then)
 - [Emerge &lpar;YC W21&rpar; is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
-- [Incels need more mental health help, have &quot;fundamental thinking errors&quot;](https://www.bbc.com/news/uk-wales-67770178)
+- [Exploring Podman: A More Secure Docker Alternative](https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/)
 - [Thinking in an Array Language](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
 - [George Orwell: Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit)
 <!-- BLOG-POST-LIST:END -->
