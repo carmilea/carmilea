@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trying to use Firebase is the most horrible experience in my life](https://news.ycombinator.com/item?id=38976827)
 - [People have been buried behind a Mississippi jail since 2016, attorney says](https://www.npr.org/2024/01/12/1224449631/mississippi-jail-graves-investigation)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London or San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
 - [K-Means Clustering](https://github.com/derrickburns/generalized-kmeans-clustering)
 - [AWS Libcrypto for Rust](https://github.com/aws/aws-lc-rs)
-- [Hidden Changes in GPT-4, Uncovered](https://dmicz.github.io/machine-learning/openai-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
