@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Can Design &lpar;EMEA Remote&rpar;](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
-- [Shadcn: Beautifully designed components that you can copy-paste into your apps](https://ui.shadcn.com/)
+- [Shadcn: Components that you can copy-paste into your apps](https://ui.shadcn.com/)
+- [Triplit: Open-source DB that syncs data between server and browser in real-time](https://github.com/aspen-cloud/triplit)
 - [A decade-old Steam bug](https://blog.freudenjmp.com/posts/no-user-logon/)
 - [Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
-- [K-Means Clustering](https://github.com/derrickburns/generalized-kmeans-clustering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
