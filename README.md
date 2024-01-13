@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Features in Fedora Asahi Remix](https://asahilinux.org/2024/01/fedora-asahi-new/)
+- [Shadcn: Beautifully designed components that you can copy-paste into your apps](https://ui.shadcn.com/)
 - [A decade-old Steam bug](https://blog.freudenjmp.com/posts/no-user-logon/)
 - [Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London or San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
