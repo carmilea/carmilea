@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Can Design &lpar;EMEA Remote&rpar;](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
 - [Shadcn: Beautifully designed components that you can copy-paste into your apps](https://ui.shadcn.com/)
 - [A decade-old Steam bug](https://blog.freudenjmp.com/posts/no-user-logon/)
 - [Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London or San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
 - [K-Means Clustering](https://github.com/derrickburns/generalized-kmeans-clustering)
 <!-- BLOG-POST-LIST:END -->
 
