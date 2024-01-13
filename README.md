@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trayd &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/trayd/jobs/kr4Mx7E-founding-engineer)
 - [Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
+- [GoatCounter creator is hoping to raise at least €1k for basic living expense](https://github.com/arp242/goatcounter/releases/tag/v2.5.0)
 - [YouTransfer: Self-hosted file transfer and sharing solution](https://github.com/YouTransfer/YouTransfer)
 - [Cloudflare Termination Video: A Master Class in How Not to Terminate Someone](https://www.inc.com/suzanne-lucas/viral-cloudflare-termination-video-masterclass-how-not-terminate.html)
-- [Apple hiring compiler developers for improving Swift / C++ interoperability](https://jobs.apple.com/en-us/details/200531386/compiler-frontend-engineer)
-- [Live record of being fired from Cloudflare during a redundancy plan [video]](https://twitter.com/svpino/status/1745971021654503778)
 <!-- BLOG-POST-LIST:END -->
 
 ---
