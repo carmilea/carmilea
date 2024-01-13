@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s Time to Nationalize and Then Break Up Boeing](https://www.thebignewsletter.com/p/its-time-to-nationalize-and-then)
-- [Emerge &lpar;YC W21&rpar; is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
-- [Exploring Podman: A More Secure Docker Alternative](https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/)
-- [Thinking in an Array Language](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
-- [George Orwell: Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit)
+- [Ask HN: Who else is working on nothing?](https://news.ycombinator.com/item?id=38983067)
+- [Peer review is an honor-based system](https://lemire.me/blog/2008/08/21/peer-review-is-an-honor-based-system/)
+- [Ping: the atomized social media network](https://ping.hz.tn/p/ca285985-c181-41b6-aacf-2a7b78fe858d/)
+- [Starlink Successfully Tests Space Direct to Cell Mobile Service](https://www.ispreview.co.uk/index.php/2024/01/starlink-successfully-tests-space-direct-to-cell-mobile-service.html)
+- [Bosses are using RTO mandates as a way to blame employees as a scapegoat](https://fortune.com/2024/01/13/managers-scapegoating-workers-return-to-office/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
