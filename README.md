@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Features in Fedora Asahi Remix](https://asahilinux.org/2024/01/fedora-asahi-new/)
+- [A decade-old Steam bug](https://blog.freudenjmp.com/posts/no-user-logon/)
 - [Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London or San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
 - [K-Means Clustering](https://github.com/derrickburns/generalized-kmeans-clustering)
-- [AWS Libcrypto for Rust](https://github.com/aws/aws-lc-rs)
-- [HashLife – A memoized algorithm for Conway&#39;s Game of Life and cellular automata](https://en.wikipedia.org/wiki/Hashlife)
 <!-- BLOG-POST-LIST:END -->
 
 ---
