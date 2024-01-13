@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [People have been buried behind a Mississippi jail since 2016, attorney says](https://www.npr.org/2024/01/12/1224449631/mississippi-jail-graves-investigation)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London or San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
-- [Tesla Cybertruck Is *Not* Faster Than Porsche &lpar;While Towing&rpar; [video]](https://www.youtube.com/watch?v=HRYS5VWXZts)
-- [Cancer Is Striking More Young People, and Doctors Are Alarmed and Baffled](https://www.msn.com/en-us/health/other/cancer-is-striking-more-young-people-and-doctors-are-alarmed-and-baffled/ar-AA1mOBuf)
+- [K-Means Clustering](https://github.com/derrickburns/generalized-kmeans-clustering)
 - [AWS Libcrypto for Rust](https://github.com/aws/aws-lc-rs)
 - [Hidden Changes in GPT-4, Uncovered](https://dmicz.github.io/machine-learning/openai-changes/)
 <!-- BLOG-POST-LIST:END -->
