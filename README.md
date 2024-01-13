@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ternary circuits: why R=3 is not the Optimal Radix for Computation](https://arxiv.org/abs/1908.06841)
 - [Trayd &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/trayd/jobs/kr4Mx7E-founding-engineer)
 - [Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
+- [FAA grounds B737 Max 9 for the time being](https://www.faa.gov/newsroom/updates-grounding-boeing-737-max-9-aircraft)
 - [GoatCounter creator is hoping to raise at least €1k for basic living expense](https://github.com/arp242/goatcounter/releases/tag/v2.5.0)
-- [YouTransfer: Self-hosted file transfer and sharing solution](https://github.com/YouTransfer/YouTransfer)
-- [Cloudflare Termination Video: A Master Class in How Not to Terminate Someone](https://www.inc.com/suzanne-lucas/viral-cloudflare-termination-video-masterclass-how-not-terminate.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
