@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Open Source Community Is Still Maintaining Flash Player Support in 2024](https://www.phoronix.com/news/Adobe-Flash-Ruffle-2024)
-- [Unlocking the truth about diabetes: &#39;The science has been pretty awful&#39;](https://www.theguardian.com/society/2024/jan/14/unlocking-the-truth-about-diabetes-is-it-time-for-a-diet-based-treatment)
-- [How to delete your data from data brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
-- [Coding Self-Attention, Multi-Head Attention, Cross-Attention, Causal-Attention](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention)
-- [Show HN: A no-frills CV template using Typst and YAML to version control CV data](https://github.com/jskherman/cv.typ)
+- [Electric buses withdrawn in south London after fire](https://www.bbc.com/news/uk-england-london-67967421)
+- [Project Bluefin: an immutable, developer-focused, Cloud-native Linux](https://www.ypsidanger.com/announcing-project-bluefin/)
+- [Confessions of a Country Parson](https://unherd.com/?p=495758)
+- [Cosmic: SETI Institute Is Unlocking the Mysteries of the Universe](https://www.seti.org/press-release/cosmic-seti-institute-unlocking-mysteries-universe-breakthrough-technology-karl-g-jansky-very-large)
+- [The Flappie AI cat door stops your pet from gifting you dead mice](https://www.engadget.com/the-flappie-ai-cat-door-stops-your-pet-from-gifting-you-dead-mice-033237654.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
