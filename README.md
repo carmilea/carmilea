@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Material Files – Open Source Material Design File Manager for Android](https://github.com/zhanghai/MaterialFiles)
+- [Vanna.ai: Chat with your SQL database](https://github.com/vanna-ai/vanna)
 - [Electric buses withdrawn in south London after fire](https://www.bbc.com/news/uk-england-london-67967421)
 - [Project Bluefin: an immutable, developer-focused, Cloud-native Linux](https://www.ypsidanger.com/announcing-project-bluefin/)
 - [Confessions of a Country Parson](https://unherd.com/?p=495758)
-- [Cosmic: SETI Institute Is Unlocking the Mysteries of the Universe](https://www.seti.org/press-release/cosmic-seti-institute-unlocking-mysteries-universe-breakthrough-technology-karl-g-jansky-very-large)
-- [The Flappie AI cat door stops your pet from gifting you dead mice](https://www.engadget.com/the-flappie-ai-cat-door-stops-your-pet-from-gifting-you-dead-mice-033237654.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
