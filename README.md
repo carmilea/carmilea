@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NixOS: Declarative Builds and Deployments](https://nixos.org/)
 - [When Random Isn&#39;t](https://orlp.net/blog/when-random-isnt/)
 - [Emails I Received, the Collection](https://daniel.haxx.se/blog/2024/01/12/emails-i-received-the-collection/)
 - [Skiff: Various Privacy Failures](https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures)
-- [Show HN: EXT – an easy way to build cross-platform desktop software](https://ext.store)
 - [Fast RISC-V-based scripting back end for game engines](https://github.com/fwsGonzo/rvscript)
 <!-- BLOG-POST-LIST:END -->
 
