@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Material Files – Open Source Material Design File Manager for Android](https://github.com/zhanghai/MaterialFiles)
-- [Vanna.ai: Chat with your SQL database](https://github.com/vanna-ai/vanna)
-- [Electric buses withdrawn in south London after fire](https://www.bbc.com/news/uk-england-london-67967421)
-- [Project Bluefin: an immutable, developer-focused, Cloud-native Linux](https://www.ypsidanger.com/announcing-project-bluefin/)
-- [Confessions of a Country Parson](https://unherd.com/?p=495758)
+- [Peregrine lunar lander on Earth reentry trajectory](https://spacenews.com/peregrine-lunar-lander-on-earth-reentry-trajectory/)
+- [Skiff: Various Privacy Failures](https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures)
+- [Dutch designer drives his car on the plastic waste he collects](https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/)
+- [Fast RISC-V-based scripting back end for game engines](https://github.com/fwsGonzo/rvscript)
+- [Ancestry to paywall formerly free features included with DNA kit](https://easygenie.org/blogs/news/ancestrydna-plus-adds-new-fees-for-formerly-free-features)
 <!-- BLOG-POST-LIST:END -->
 
 ---
