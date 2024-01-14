@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
+- [&#39;This Has Been Going on for Years.&#39; Inside Boeing&#39;s Manufacturing Mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
 - [Nitter.net Has Disappeared](https://github.com/zedeus/nitter/issues/1150)
 - [OpenD, a D language fork that is open to your contributions](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
 - [Lupus Trigger Discovered](https://www.mpg.de/21374791/lupus-trigger)
-- [Ask HN: Does Cloudflare block HN comments if you have code blocks in a reply?](https://news.ycombinator.com/item?id=38986187)
-- [John Michell: Country Parson Described Black Holes in 1783 &lpar;2000&rpar;](https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/john-michell-black-holes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
