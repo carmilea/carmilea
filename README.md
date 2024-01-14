@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cars Suck, Man](https://petargyurov.com/2024-01-14/cars-suck-man)
+- [Ask HN: Who Is Looking for a Cofounder?](https://news.ycombinator.com/item?id=38990016)
 - [Nuclear battery produces power for 50 years without needing to charge](https://www.independent.co.uk/tech/nuclear-battery-betavolt-atomic-china-b2476979.html)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [When &quot;blocked indefinitely&quot; is not indefinite](https://well-typed.com/blog/2024/01/when-blocked-indefinitely-is-not-indefinite/)
-- [All PyCon 2023 talks sorted by the view count](https://techtalksweekly.substack.com/p/all-pycon-2023-talks-sorted-by-views)
-- [Type information for faster Python C extensions](https://bernsteinbear.com//blog/typed-c-extensions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
