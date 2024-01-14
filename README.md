@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a DevOps/SRE/Cloud/Security Newsfeed](https://devops-scanner.com/)
+- [OnnxStream running TinyLlama and Mistral 7B, with CUDA support](https://github.com/vitoplantamura/OnnxStream/blob/master/assets/LLM.md)
 - [How to Delete Your Data from Data Brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
+- [Coding Self-Attention, Multi-Head Attention, Cross-Attention, Causal-Attention](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention)
 - [AMD Unveils Ryzen 8000G Series Processors: Zen 4 APUs for Desktop with Ryzen AI](https://www.anandtech.com/show/21208/amd-unveils-ryzen-8000g-series-processors-zen-4-apus-for-desktop-with-ryzen-ai)
-- [When am I &quot;allowed&quot; to quit and not be labeled a quitter?](https://ognjen.io/when-am-i-allowed-to-quit/)
-- [Gas pumps freeze at Calgary gas stations – Video – CityNews Calgary](https://calgary.citynews.ca/video/2024/01/12/gas-pumps-freeze-at-calgary-gas-stations/)
+- [Ask HN: AI that allows you to make phone calls in a language you don&#39;t speak?](https://news.ycombinator.com/item?id=38990148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
