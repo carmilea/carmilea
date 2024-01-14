@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Towards Modern Development of Cloud Applications &lpar;2023&rpar;](https://dl.acm.org/doi/10.1145/3593856.3595909)
+- [Citadel, a Calibre-compatible eBook management app](https://github.com/every-day-things/citadel)
 - [Posthog is closing their Slack community in favor of forum](https://posthog.com/blog/slack-closure)
 - [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
-- [&#39;This Has Been Going on for Years.&#39; Inside Boeing&#39;s Manufacturing Mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
-- [OpenD, a D language fork that is open to your contributions](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
-- [Researchers trace a form of lupus back to a single mutation](https://www.mpg.de/21374791/lupus-trigger)
+- [Inside Boeing’s manufacturing mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
 <!-- BLOG-POST-LIST:END -->
 
 ---
