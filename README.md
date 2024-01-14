@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenD, a D language fork that is open to your contributions](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
+- [Lupus Trigger Discovered](https://www.mpg.de/21374791/lupus-trigger)
 - [John Michell: Country Parson Described Black Holes in 1783 &lpar;2000&rpar;](https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/john-michell-black-holes)
 - [Decker – A HyperCard Replacement](https://beyondloom.com/decker/)
-- [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
-- [Celestia: Real-time 3D visualization of space](https://github.com/CelestiaProject/Celestia)
-- [Water microdroplets have potential to produce hydrogen peroxide](https://www.chemistryworld.com/news/water-surprise-microdroplets-have-potential-to-produce-h2o2/3010950.article)
+- [A math professor who objects to diversity statements](https://www.theatlantic.com/ideas/archive/2023/12/professor-american-academia-parallels-soviet-union/676305/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
