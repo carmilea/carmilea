@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OnnxStream running TinyLlama and Mistral 7B, with CUDA support](https://github.com/vitoplantamura/OnnxStream/blob/master/assets/LLM.md)
-- [How to Delete Your Data from Data Brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
+- [The Open Source Community Is Still Maintaining Flash Player Support in 2024](https://www.phoronix.com/news/Adobe-Flash-Ruffle-2024)
+- [Unlocking the truth about diabetes: &#39;The science has been pretty awful&#39;](https://www.theguardian.com/society/2024/jan/14/unlocking-the-truth-about-diabetes-is-it-time-for-a-diet-based-treatment)
+- [How to delete your data from data brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
 - [Coding Self-Attention, Multi-Head Attention, Cross-Attention, Causal-Attention](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention)
-- [AMD Unveils Ryzen 8000G Series Processors: Zen 4 APUs for Desktop with Ryzen AI](https://www.anandtech.com/show/21208/amd-unveils-ryzen-8000g-series-processors-zen-4-apus-for-desktop-with-ryzen-ai)
-- [Ask HN: AI that allows you to make phone calls in a language you don&#39;t speak?](https://news.ycombinator.com/item?id=38990148)
+- [Show HN: A no-frills CV template using Typst and YAML to version control CV data](https://github.com/jskherman/cv.typ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
