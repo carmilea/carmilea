@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [When &quot;blocked indefinitely&quot; is not indefinite](https://well-typed.com/blog/2024/01/when-blocked-indefinitely-is-not-indefinite/)
 - [All PyCon 2023 talks sorted by the view count](https://techtalksweekly.substack.com/p/all-pycon-2023-talks-sorted-by-views)
 - [Type information for faster Python C extensions](https://bernsteinbear.com//blog/typed-c-extensions/)
 - [The Ultimate Docker Cheat Sheet](https://devopscycle.com/blog/the-ultimate-docker-cheat-sheet/)
-- [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
-- [ICO fines HelloFresh £140k for spam texts and emails](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/01/ico-fines-hellofresh-140-000-for-spam-texts-and-emails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
