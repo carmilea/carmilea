@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ICO fines HelloFresh £140k for spam texts and emails](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/01/ico-fines-hellofresh-140-000-for-spam-texts-and-emails/)
 - [Towards Modern Development of Cloud Applications &lpar;2023&rpar;](https://dl.acm.org/doi/10.1145/3593856.3595909)
 - [Citadel, a Calibre-compatible eBook management app](https://github.com/every-day-things/citadel)
 - [Posthog is closing their Slack community in favor of forum](https://posthog.com/blog/slack-closure)
 - [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
-- [Inside Boeing’s manufacturing mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
 <!-- BLOG-POST-LIST:END -->
 
 ---
