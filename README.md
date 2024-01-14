@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cars Suck, Man](https://petargyurov.com/2024-01-14/cars-suck-man)
-- [Ask HN: Who Is Looking for a Cofounder?](https://news.ycombinator.com/item?id=38990016)
-- [Nuclear battery produces power for 50 years without needing to charge](https://www.independent.co.uk/tech/nuclear-battery-betavolt-atomic-china-b2476979.html)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [When &quot;blocked indefinitely&quot; is not indefinite](https://well-typed.com/blog/2024/01/when-blocked-indefinitely-is-not-indefinite/)
+- [I Built a DevOps/SRE/Cloud/Security Newsfeed](https://devops-scanner.com/)
+- [How to Delete Your Data from Data Brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
+- [AMD Unveils Ryzen 8000G Series Processors: Zen 4 APUs for Desktop with Ryzen AI](https://www.anandtech.com/show/21208/amd-unveils-ryzen-8000g-series-processors-zen-4-apus-for-desktop-with-ryzen-ai)
+- [When am I &quot;allowed&quot; to quit and not be labeled a quitter?](https://ognjen.io/when-am-i-allowed-to-quit/)
+- [Gas pumps freeze at Calgary gas stations – Video – CityNews Calgary](https://calgary.citynews.ca/video/2024/01/12/gas-pumps-freeze-at-calgary-gas-stations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
