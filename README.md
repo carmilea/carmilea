@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Germany Is Rich but Germans Are Poor and Angry](https://www.bloomberg.com/opinion/articles/2024-01-15/why-germany-is-rich-but-germans-are-poor-and-angry)
-- [Vision isn&#39;t what you think it is – see for yourself [video]](https://www.youtube.com/watch?v=JTKwpqE9fsc)
-- [Cat Drop](https://en.wikipedia.org/wiki/Operation_Cat_Drop)
-- [Scrum Sucks](https://blog.mb-consulting.dev/scrum-sucks-9960011fc5cf)
-- [Microsoft is working on a Copilot Pro subscription &lpar;APK Teardown&rpar;](https://www.androidauthority.com/microsoft-copilot-pro-edge-3403043/)
+- [What&#39;s Gone Wrong at Boeing](https://www.theatlantic.com/ideas/archive/2024/01/boeing-737-max-corporate-culture/677120/)
+- [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
+- [App Store to Be &#39;Split in Two&#39; Ahead of EU iPhone Sideloading Deadline](https://www.macrumors.com/2024/01/15/app-store-to-be-split-in-two/)
+- [Japan&#39;s Comfort Food: The Onigiri](https://one-from-nippon.ghost.io/onigiri/)
+- [Evidence of human influence on Northern Hemisphere snow loss](https://www.nature.com/articles/s41586-023-06794-y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
