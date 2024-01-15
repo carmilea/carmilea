@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A universal lowering strategy for control effects in Rust – Abubalay](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
-- [Google is no longer bringing the full Chrome browser to Fuchsia](https://9to5google.com/2024/01/15/google-is-no-longer-bringing-the-full-chrome-browser-to-fuchsia/)
+- [Immediate Mode GUI Programming](https://eliasnaur.com/blog/immediate-mode-gui-programming)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Technical Content Marketer &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [A lowering strategy for control effects in Rust](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
+- [Haiku OS: The Open Source BeOS You Can Daily Drive in 2024](https://hackaday.com/2024/01/15/haiku-os-the-open-source-beos-you-can-daily-drive-in-2024/)
 - [Our language, our world](https://aeon.co/essays/does-language-mirror-the-mind-an-intellectual-history)
-- [&quot;The Girls in Their Summer Dresses&quot; – Irwin Shaw &lpar;1939&rpar;](https://www.classicshorts.com/stories/dresses.html)
-- [Verizon to keep charging controversial fee despite $100M settlement](https://arstechnica.com/tech-policy/2024/01/verizon-wont-stop-charging-3-30-telco-recovery-fee-may-raise-it-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
