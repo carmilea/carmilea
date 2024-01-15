@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kind of annoyed at React](https://blog.cassidoo.co/post/annoyed-at-react/)
 - [NixOS: Declarative Builds and Deployments](https://nixos.org/)
 - [When Random Isn&#39;t](https://orlp.net/blog/when-random-isnt/)
-- [Emails I Received, the Collection](https://daniel.haxx.se/blog/2024/01/12/emails-i-received-the-collection/)
+- [Leaving Arizona – the Story of the Motorola 6800 part 2 and creation of the 6502](https://thechipletter.substack.com/p/leaving-arizona)
 - [Skiff: Various Privacy Failures](https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures)
-- [Fast RISC-V-based scripting back end for game engines](https://github.com/fwsGonzo/rvscript)
 <!-- BLOG-POST-LIST:END -->
 
 ---
