@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Incredible Shrinking Podcast Industry](https://www.semafor.com/article/01/14/2024/the-incredible-shrinking-podcast-industry)
+- [Tell HN: HMD Global might not be the exclusive licensee of Nokia phones anymore](https://news.ycombinator.com/item?id=39000203)
 - [Get a Windows 11 development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
-- [YouTube is loading slower for users with ad blockers yet again](https://www.tomsguide.com/news/youtube-is-loading-slower-for-users-with-ad-blockers-yet-again)
-- [Heads up – effectively offline for now](https://lkml.iu.edu/hypermail/linux/kernel/2401.1/06297.html)
+- [Ask HN: Why am I suddenly unemployable?](https://news.ycombinator.com/item?id=38999485)
 - [Beaver Drop](https://en.wikipedia.org/wiki/Beaver_drop)
+- [Order/license chaos for VMware products after Broadcom takeover](https://borncity.com/win/2024/01/13/order-license-chaos-for-vmware-products-after-broadcom-takeover-jan-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
