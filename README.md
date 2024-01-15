@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What would be the single piece of advice you&#39;d give a non-programmer?](https://news.ycombinator.com/item?id=38997842)
-- [FedEx launches new e-commerce platform](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
-- [Could inflammation be the cause of myriad chronic conditions? &lpar;2019&rpar;](https://www.harvardmagazine.com/2019/04/inflammation-disease-diet)
-- [Tracking and mapping the data broker ecosystem](https://databrokerswatch.org/)
-- [When Random Isn&#39;t](https://orlp.net/blog/when-random-isnt/)
+- [Why the M2 is more advanced that it seemed](https://eclecticlight.co/2024/01/15/why-the-m2-is-more-advanced-that-it-seemed/)
+- [A periodic table of visualization methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
+- [Git Branches as a Social Construct](https://utcc.utoronto.ca/~cks/space/blog/programming/GitBranchesSocialConstructs)
+- [The Swimmer &lpar;1964&rpar;](https://www.newyorker.com/magazine/1964/07/18/the-swimmer)
+- [The US grid battery fleet is about to double – again](https://www.canarymedia.com/articles/energy-storage/chart-the-us-grid-battery-fleet-is-about-to-double-again)
 <!-- BLOG-POST-LIST:END -->
 
 ---
