@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How OpenAI is approaching 2024 worldwide elections](https://openai.com/blog/how-openai-is-approaching-2024-worldwide-elections)
+- [A universal lowering strategy for control effects in Rust – Abubalay](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
+- [Google is no longer bringing the full Chrome browser to Fuchsia](https://9to5google.com/2024/01/15/google-is-no-longer-bringing-the-full-chrome-browser-to-fuchsia/)
+- [Our language, our world](https://aeon.co/essays/does-language-mirror-the-mind-an-intellectual-history)
+- [&quot;The Girls in Their Summer Dresses&quot; – Irwin Shaw &lpar;1939&rpar;](https://www.classicshorts.com/stories/dresses.html)
 - [Verizon to keep charging controversial fee despite $100M settlement](https://arstechnica.com/tech-policy/2024/01/verizon-wont-stop-charging-3-30-telco-recovery-fee-may-raise-it-again/)
-- [SQLite 3.45 released with JSONB support](https://www.sqlite.org/changes.html#version_3_45_0)
-- [Going declarative on macOS with Nix and Nix-Darwin](https://nixcademy.com/2024/01/15/nix-on-macos/)
-- [Ask HN: OCR for 100 year old &lpar;German&rpar; handwritten cursive script?](https://news.ycombinator.com/item?id=39004755)
 <!-- BLOG-POST-LIST:END -->
 
 ---
