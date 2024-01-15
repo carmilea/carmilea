@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grindavík residents face uncertain future after volcano erupts again](https://www.theguardian.com/world/2024/jan/15/grindavik-residents-face-uncertain-future-after-volcano-erupts-again-iceland)
-- [Houthi ballistic missile strikes US-owned and operated ship: US Central Command](https://www.cnn.com/2024/01/15/politics/houthi-missile-strikes-us-owned-ship/index.html)
-- [Boeing to increase quality inspections of 737 MAX production](https://www.bbc.co.uk/news/business-67984035)
-- [Teach Yourself Programming in Ten Years &lpar;1998&rpar;](https://norvig.com/21-days.html)
-- [YouTube begins new wave of slowdowns for users with ad blockers enabled](https://9to5google.com/2024/01/13/youtube-new-wave-slow-downs-ad-blocker/)
+- [Why Germany Is Rich but Germans Are Poor and Angry](https://www.bloomberg.com/opinion/articles/2024-01-15/why-germany-is-rich-but-germans-are-poor-and-angry)
+- [Vision isn&#39;t what you think it is – see for yourself [video]](https://www.youtube.com/watch?v=JTKwpqE9fsc)
+- [Cat Drop](https://en.wikipedia.org/wiki/Operation_Cat_Drop)
+- [Scrum Sucks](https://blog.mb-consulting.dev/scrum-sucks-9960011fc5cf)
+- [Microsoft is working on a Copilot Pro subscription &lpar;APK Teardown&rpar;](https://www.androidauthority.com/microsoft-copilot-pro-edge-3403043/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
