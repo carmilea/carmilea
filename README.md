@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI to hit 40% of jobs and worsen inequality, IMF says](https://www.bbc.co.uk/news/business-67977967)
 - [FedEx launches new e-commerce platform](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
 - [Could inflammation be the cause of myriad chronic conditions? &lpar;2019&rpar;](https://www.harvardmagazine.com/2019/04/inflammation-disease-diet)
 - [Tracking and mapping the data broker ecosystem](https://databrokerswatch.org/)
 - [When Random Isn&#39;t](https://orlp.net/blog/when-random-isnt/)
-- [Leaving Arizona – the Story of the Motorola 6800 part 2 and creation of the 6502](https://thechipletter.substack.com/p/leaving-arizona)
 <!-- BLOG-POST-LIST:END -->
 
 ---
