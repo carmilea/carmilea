@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Heads up – effectively offline for now](https://lkml.iu.edu/hypermail/linux/kernel/2401.1/06297.html)
+- [Five richest men double their money as poorest get poorer](https://www.theguardian.com/inequality/2024/jan/15/worlds-five-richest-men-double-their-money-as-poorest-get-poorer)
+- [Beaver Drop](https://en.wikipedia.org/wiki/Beaver_drop)
 - [Order/license chaos for VMware products after Broadcom takeover](https://borncity.com/win/2024/01/13/order-license-chaos-for-vmware-products-after-broadcom-takeover-jan-2024/)
 - [Slashing Data Transfer Costs in AWS by 99%](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
-- [ChatGPT does Advent of Code 2023](https://www.themotte.org/post/797/chatgpt-vs-advent-of-code)
-- [A periodic table of visualization methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
-- [Git Branches as a Social Construct](https://utcc.utoronto.ca/~cks/space/blog/programming/GitBranchesSocialConstructs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
