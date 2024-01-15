@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Paste this post into ChatGPT 4&quot;](https://twitter.com/goodside/status/1746685366952735034)
-- [Ask HN: Learn React or Vue?](https://news.ycombinator.com/item?id=39003942)
-- [The Most Toxic Plant in North America](https://www.atlasobscura.com/articles/spotted-water-hemlock-toxic-plant)
-- [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
-- [Japan&#39;s Comfort Food: The Onigiri](https://one-from-nippon.ghost.io/onigiri/)
+- [How OpenAI is approaching 2024 worldwide elections](https://openai.com/blog/how-openai-is-approaching-2024-worldwide-elections)
+- [Verizon to keep charging controversial fee despite $100M settlement](https://arstechnica.com/tech-policy/2024/01/verizon-wont-stop-charging-3-30-telco-recovery-fee-may-raise-it-again/)
+- [SQLite 3.45 released with JSONB support](https://www.sqlite.org/changes.html#version_3_45_0)
+- [Going declarative on macOS with Nix and Nix-Darwin](https://nixcademy.com/2024/01/15/nix-on-macos/)
+- [Ask HN: OCR for 100 year old &lpar;German&rpar; handwritten cursive script?](https://news.ycombinator.com/item?id=39004755)
 <!-- BLOG-POST-LIST:END -->
 
 ---
