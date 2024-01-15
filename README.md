@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Free Online Documentaries](https://ihavenotv.com/)
+- [Oppo Find X7 Ultra: smartphone features the first dual periscope zooms](https://everyonegaming.com/oppo-find-x7-ultra-flagship-smartphone-features-the-worlds-first-dual-periscope-zooms/)
+- [Amazon R&amp;D spending is more than that of all companies and government of France](https://twitter.com/emollick/status/1746254000914092480)
 - [Immediate Mode GUI Programming](https://eliasnaur.com/blog/immediate-mode-gui-programming)
 - [Svix &lpar;YC W21&rpar; Is Hiring a Technical Content Marketer &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [A lowering strategy for control effects in Rust](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
-- [Haiku OS: The Open Source BeOS You Can Daily Drive in 2024](https://hackaday.com/2024/01/15/haiku-os-the-open-source-beos-you-can-daily-drive-in-2024/)
-- [Our language, our world](https://aeon.co/essays/does-language-mirror-the-mind-an-intellectual-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
