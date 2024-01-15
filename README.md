@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI to hit 40% of jobs and worsen inequality, IMF says](https://www.bbc.co.uk/news/business-67977967)
+- [Ask HN: What would be the single piece of advice you&#39;d give a non-programmer?](https://news.ycombinator.com/item?id=38997842)
 - [FedEx launches new e-commerce platform](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
 - [Could inflammation be the cause of myriad chronic conditions? &lpar;2019&rpar;](https://www.harvardmagazine.com/2019/04/inflammation-disease-diet)
 - [Tracking and mapping the data broker ecosystem](https://databrokerswatch.org/)
