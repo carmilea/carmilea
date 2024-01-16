@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Passwordless: A Different Kind of Hell](https://jcarlosroldan.com/post/315/passwordless-a-different-kind-of-hell)
+- [OpenSUSE Leap 15.6 to Be the Last in Its Current Form](https://linuxiac.com/opensuse-leap-15-6-to-be-the-last-in-its-current-form/)
+- [Critical Gitlab vulnerability exposes 2FA-less users to account takeovers](https://www.theregister.com/2024/01/15/critical_gitlab_vulnerability/)
 - [Speedbump – a TCP proxy to simulate variable network latency](https://github.com/kffl/speedbump)
-- [Ask HN: Where can I find good legal documents?](https://news.ycombinator.com/item?id=39012544)
-- [Std: Clamp generates less efficient assembly than std:min&lpar;max,std:max&lpar;min,v&rpar;&rpar;](https://1f6042.blogspot.com/2024/01/stdclamp-still-generates-less-efficient.html)
-- [PID Controllers in Unity3D](https://vazgriz.com/621/pid-controllers/)
-- [The &#39;Startling&#39; Link Between Low Interest Rates and Low Crime &lpar;2016&rpar;](https://thecrimereport.org/2016/12/06/the-startling-link-between-low-interest-rates-and-low-crime/)
+- [Rust-Written Linux Scheduler Showing Promising Results for Gaming Performance](https://www.phoronix.com/news/Rust-Linux-Scheduler-Experiment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
