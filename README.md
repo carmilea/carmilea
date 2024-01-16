@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pornography feels better without tech-giants](https://www.youtube.com/watch?v=evUhcaweCyY)
+- [Java virtual threads caused a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
+- [The Beauty and Danger in Victorian Glass Fire Grenades](https://museumcrush.org/the-beauty-and-danger-in-victorian-glass-fire-grenades/)
+- [Bluesky has launched RSS feeds](https://openrss.org/blog/bluesky-has-launched-rss-feeds)
 - [Watch Free Online Documentaries](https://ihavenotv.com/)
-- [Oppo Find X7 Ultra: smartphone features the first dual periscope zooms](https://everyonegaming.com/oppo-find-x7-ultra-flagship-smartphone-features-the-worlds-first-dual-periscope-zooms/)
-- [Amazon R&amp;D spending is more than that of all companies and government of France](https://twitter.com/emollick/status/1746254000914092480)
-- [Immediate Mode GUI Programming](https://eliasnaur.com/blog/immediate-mode-gui-programming)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Technical Content Marketer &lpar;US Remote&rpar;](https://www.svix.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
