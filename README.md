@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Does airport fingerprinting compromise my biometric security?](https://news.ycombinator.com/item?id=39010768)
+- [The failure of self-checkout technology](https://www.bbc.com/worklife/article/20240111-it-hasnt-delivered-the-spectacular-failure-of-self-checkout-technology)
+- [The &#39;Startling&#39; Link Between Low Interest Rates and Low Crime &lpar;2016&rpar;](https://thecrimereport.org/2016/12/06/the-startling-link-between-low-interest-rates-and-low-crime/)
 - [Open-Source Detector of CISA&#39;s Known Exploitable Vulnerabilities](https://github.com/Ostorlab/KEV)
 - [86-DOS Revisited](http://www.os2museum.com/wp/86-dos-revisited/)
 - [Prison. Bankruptcy. Suicide. How a software glitch ruined lives](https://www.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html)
-- [Many AI safety orgs have tried to criminalize currently-existing open-source AI](https://1a3orn.com/sub/machine-learning-bans.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
