@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Are Western Europeans? New Study Reveals True Origins](https://www.haaretz.com/archaeology/2024-01-16/ty-article/who-are-western-europeans-new-study-reveals-true-origins/0000018d-0dfa-de9c-a3df-6ffb44030000)
+- [Speedbump – a TCP proxy to simulate variable network latency](https://github.com/kffl/speedbump)
+- [Ask HN: Where can I find good legal documents?](https://news.ycombinator.com/item?id=39012544)
+- [Std: Clamp generates less efficient assembly than std:min&lpar;max,std:max&lpar;min,v&rpar;&rpar;](https://1f6042.blogspot.com/2024/01/stdclamp-still-generates-less-efficient.html)
+- [PID Controllers in Unity3D](https://vazgriz.com/621/pid-controllers/)
 - [The &#39;Startling&#39; Link Between Low Interest Rates and Low Crime &lpar;2016&rpar;](https://thecrimereport.org/2016/12/06/the-startling-link-between-low-interest-rates-and-low-crime/)
-- [Show HN: Indiebackers – Back indie projects and earn rewards](https://indiebackers.dev/)
-- [Open-Source Detector of CISA&#39;s Known Exploitable Vulnerabilities](https://github.com/Ostorlab/KEV)
-- [86-DOS Revisited](http://www.os2museum.com/wp/86-dos-revisited/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
