@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Passwordless: A Different Kind of Hell](https://jcarlosroldan.com/post/315/passwordless-a-different-kind-of-hell)
-- [OpenSUSE Leap 15.6 to Be the Last in Its Current Form](https://linuxiac.com/opensuse-leap-15-6-to-be-the-last-in-its-current-form/)
-- [Critical Gitlab vulnerability exposes 2FA-less users to account takeovers](https://www.theregister.com/2024/01/15/critical_gitlab_vulnerability/)
-- [Speedbump – a TCP proxy to simulate variable network latency](https://github.com/kffl/speedbump)
-- [Rust-Written Linux Scheduler Showing Promising Results for Gaming Performance](https://www.phoronix.com/news/Rust-Linux-Scheduler-Experiment)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+- [Why Y is pronounced as &quot;igrek&quot;](https://en.wikipedia.org/wiki/Y)
+- [Filecoin Foundation Successfully Deploys IPFS in Space](https://fil.org/blog/filecoin-foundation-successfully-deploys-interplanetary-file-system-ipfs-in-space/)
+- [Using the ZBar barcode scanning suite in the browser with WebAssembly](https://barkeywolf.consulting/posts/barcode-scanner-webassembly/#meet-zbar)
+- [Passwordless: a different kind of hell?](https://jcarlosroldan.com/post/315/passwordless-a-different-kind-of-hell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
