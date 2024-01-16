@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Benchmarks and comparison of LLM AI models and API hosting providers](https://artificialanalysis.ai)
+- [US Supreme Court Snubs Apple-Epic Games Legal Battle](https://www.reuters.com/legal/us-supreme-court-snubs-epic-games-legal-battle-with-apple-2024-01-16/)
+- [The Mad Scientist&#39;s Club &lpar;book series&rpar;](http://www.madscientistsclub.com/books.html)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-- [Why Y is pronounced as &quot;igrek&quot;](https://en.wikipedia.org/wiki/Y)
 - [Filecoin Foundation Successfully Deploys IPFS in Space](https://fil.org/blog/filecoin-foundation-successfully-deploys-interplanetary-file-system-ipfs-in-space/)
-- [Using the ZBar barcode scanning suite in the browser with WebAssembly](https://barkeywolf.consulting/posts/barcode-scanner-webassembly/#meet-zbar)
-- [Passwordless: a different kind of hell?](https://jcarlosroldan.com/post/315/passwordless-a-different-kind-of-hell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
