@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Y Combinator Needs Another Infrastructure Software Engineer](https://news.ycombinator.com/item?id=39019063)
-- [At 93, he&#39;s as fit as a 40-year-old. His body offers lessons on aging](https://www.washingtonpost.com/wellness/2024/01/16/fitness-aging-richard-morgan/)
+- [Stable Code 3B: Coding on the Edge](https://stability.ai/news/stable-code-2024-llm-code-completion-release)
+- [Space Solar Power Demonstrator ends first in-space mission](https://www.caltech.edu/about/news/space-solar-power-project-ends-first-in-space-mission-with-successes-and-lessons)
+- [Kagi outage post-mortem](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
+- [Y Combinator needs another infrastructure software engineer](https://news.ycombinator.com/item?id=39019063)
 - [6174](https://en.wikipedia.org/wiki/6174)
-- [Transformers Are Multi-State RNNs](https://arxiv.org/abs/2401.06104)
-- [The mechanical Bendix Air Data Computer, part 3: pressure transducers](https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
