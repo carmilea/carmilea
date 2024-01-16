@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: Does airport fingerprinting compromise my biometric security?](https://news.ycombinator.com/item?id=39010768)
+- [Open-Source Detector of CISA&#39;s Known Exploitable Vulnerabilities](https://github.com/Ostorlab/KEV)
 - [86-DOS Revisited](http://www.os2museum.com/wp/86-dos-revisited/)
 - [Prison. Bankruptcy. Suicide. How a software glitch ruined lives](https://www.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html)
 - [Many AI safety orgs have tried to criminalize currently-existing open-source AI](https://1a3orn.com/sub/machine-learning-bans.html)
-- [Lichee Console 4A – RISC-V mini laptop: Review, benchmarks and early issues](https://3.14.by/en/read/RISC-V-Sipeed-Lichee-Console-4A-Alibaba-T-Head-TH1520-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
