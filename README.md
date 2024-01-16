@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Benchmarks and comparison of LLM AI models and API hosting providers](https://artificialanalysis.ai)
-- [US Supreme Court Snubs Apple-Epic Games Legal Battle](https://www.reuters.com/legal/us-supreme-court-snubs-epic-games-legal-battle-with-apple-2024-01-16/)
-- [The Mad Scientist&#39;s Club &lpar;book series&rpar;](http://www.madscientistsclub.com/books.html)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-- [Filecoin Foundation Successfully Deploys IPFS in Space](https://fil.org/blog/filecoin-foundation-successfully-deploys-interplanetary-file-system-ipfs-in-space/)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- [Why Is Everything an Orchid?](https://worldsensorium.com/why-is-everything-an-orchid/)
+- [A NetBSD/amd64 guest can now boot in 18ms](https://old.reddit.com/r/BSD/comments/197vfmq/a_netbsdamd64_guest_can_now_boot_in_40ms_details/)
+- [TinyML: Ultra-low power Machine Learning](https://www.ikkaro.net/what-tinyml-is/)
+- [A Theory of Grift](https://www.thediff.co/archive/a-theory-of-grift/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
