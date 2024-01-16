@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber is closing alcohol delivery service Drizly three years after acquistion](https://techcrunch.com/2024/01/16/uber-is-closing-alcohol-delivery-service-drizly-three-years-after-acquistion/)
+- [Y Combinator Needs Another Infrastructure Software Engineer](https://news.ycombinator.com/item?id=39019063)
+- [At 93, he&#39;s as fit as a 40-year-old. His body offers lessons on aging](https://www.washingtonpost.com/wellness/2024/01/16/fitness-aging-richard-morgan/)
+- [6174](https://en.wikipedia.org/wiki/6174)
+- [Transformers Are Multi-State RNNs](https://arxiv.org/abs/2401.06104)
 - [The mechanical Bendix Air Data Computer, part 3: pressure transducers](https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
-- [Supercharge Web AI Model Testing: WebGPU, WebGL, and Headless Chrome](https://developer.chrome.com/blog/supercharge-web-ai-testing)
-- [Infowars and Goop sell the same exact pseudoscientific &quot;wellness&quot; products](https://qz.com/1010684/all-the-wellness-products-american-love-to-buy-are-sold-on-both-infowars-and-goop)
-- [LeftoverLocals: A vulnerability that allows data recovery from GPU memory](https://leftoverlocals.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
