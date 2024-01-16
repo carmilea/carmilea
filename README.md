@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stable Code 3B: Coding on the Edge](https://stability.ai/news/stable-code-2024-llm-code-completion-release)
-- [Space Solar Power Demonstrator ends first in-space mission](https://www.caltech.edu/about/news/space-solar-power-project-ends-first-in-space-mission-with-successes-and-lessons)
-- [Kagi outage post-mortem](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
-- [Y Combinator needs another infrastructure software engineer](https://news.ycombinator.com/item?id=39019063)
-- [6174](https://en.wikipedia.org/wiki/6174)
+- [Canon grows large fluorite lens elements](https://global.canon/en/c-museum/special/exhibition2.html)
+- [Against Learning from Dramatic Events](https://www.astralcodexten.com/p/against-learning-from-dramatic-events)
+- [Masters of the Ice: Charles Rabot&#39;s Arctic Photographs &lpar;Ca. 1881&rpar;](https://publicdomainreview.org/collection/rabot-photographs-of-the-arctic/)
+- [What SoundCloud Created Can Never Die](https://www.wired.com/story/what-soundcloud-created-can-never-die/)
+- [Wikipedia Is Here to Stay](https://wikimediafoundation.org/news/2024/01/16/wikipedia-is-here-to-stay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
