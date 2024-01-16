@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Being Listed as an Artist Whose Work Was Used to Train Midjourney](https://catandgirl.com/4000-of-my-closest-friends/)
-- [The M.B.A.s Who Can&#39;t Find Jobs](https://www.wsj.com/lifestyle/careers/the-m-b-a-s-who-cant-find-jobs-669cc1fa)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-- [Understanding x86_64 Paging](https://zolutal.github.io/understanding-paging/)
-- [Raspberry Pi Compute Module 5 Is in Development](https://www.tomshardware.com/raspberry-pi/raspberry-pi-compute-module-5-confirmed-by-ceo-eben-upton)
+- [Infowars and Goop sell the same exact pseudoscientific &quot;wellness&quot; products](https://qz.com/1010684/all-the-wellness-products-american-love-to-buy-are-sold-on-both-infowars-and-goop)
+- [LeftoverLocals: A vulnerability that allows data recovery from GPU memory](https://leftoverlocals.com/)
+- [On being listed as an artist whose work was used to train Midjourney](https://catandgirl.com/4000-of-my-closest-friends/)
+- [Lilygo T-Keyboard: An ESP32 Bluetooth Blackberry keyboard](https://www.lilygo.cc/products/t-keyboard)
+- [V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/abs/2312.14135)
 <!-- BLOG-POST-LIST:END -->
 
 ---
