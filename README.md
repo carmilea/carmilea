@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Why new hires often get paid more than existing employees](https://bloomberry.com/why-new-hires-often-get-paid-more-than-existing-employees/)
 - [Modeless Vim](https://github.com/SebastianMuskalla/ModelessVim)
-- [Ask HN: Why aren&#39;t there more hearing aid startups?](https://news.ycombinator.com/item?id=39008529)
 - [Ask HN: Should I try to manufacture toasters?](https://news.ycombinator.com/item?id=39008165)
 - [We switched to Java 21 virtual threads and got a deadlock in TPC-C for Postgres](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
+- [Victorian Glass Fire Grenades](https://museumcrush.org/the-beauty-and-danger-in-victorian-glass-fire-grenades/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
