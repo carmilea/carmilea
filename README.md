@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The failure of self-checkout technology](https://www.bbc.com/worklife/article/20240111-it-hasnt-delivered-the-spectacular-failure-of-self-checkout-technology)
 - [The &#39;Startling&#39; Link Between Low Interest Rates and Low Crime &lpar;2016&rpar;](https://thecrimereport.org/2016/12/06/the-startling-link-between-low-interest-rates-and-low-crime/)
+- [Show HN: Indiebackers – Back indie projects and earn rewards](https://indiebackers.dev/)
 - [Open-Source Detector of CISA&#39;s Known Exploitable Vulnerabilities](https://github.com/Ostorlab/KEV)
 - [86-DOS Revisited](http://www.os2museum.com/wp/86-dos-revisited/)
 - [Prison. Bankruptcy. Suicide. How a software glitch ruined lives](https://www.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html)
