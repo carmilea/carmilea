@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pornography feels better without tech-giants](https://www.youtube.com/watch?v=evUhcaweCyY)
 - [Java virtual threads caused a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
-- [The Beauty and Danger in Victorian Glass Fire Grenades](https://museumcrush.org/the-beauty-and-danger-in-victorian-glass-fire-grenades/)
+- [Victorian Glass Fire Grenades](https://museumcrush.org/the-beauty-and-danger-in-victorian-glass-fire-grenades/)
 - [Bluesky has launched RSS feeds](https://openrss.org/blog/bluesky-has-launched-rss-feeds)
 - [Watch Free Online Documentaries](https://ihavenotv.com/)
+- [Amazon R&amp;D spending is more than that of all companies and government of France](https://twitter.com/emollick/status/1746254000914092480)
 <!-- BLOG-POST-LIST:END -->
 
 ---
