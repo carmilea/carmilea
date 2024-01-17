@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canon grows large fluorite lens elements](https://global.canon/en/c-museum/special/exhibition2.html)
-- [Against Learning from Dramatic Events](https://www.astralcodexten.com/p/against-learning-from-dramatic-events)
-- [Masters of the Ice: Charles Rabot&#39;s Arctic Photographs &lpar;Ca. 1881&rpar;](https://publicdomainreview.org/collection/rabot-photographs-of-the-arctic/)
-- [What SoundCloud Created Can Never Die](https://www.wired.com/story/what-soundcloud-created-can-never-die/)
-- [Wikipedia Is Here to Stay](https://wikimediafoundation.org/news/2024/01/16/wikipedia-is-here-to-stay/)
+- [Growing income inequality is driving public mistrust](https://www.ft.com/content/3e1b5f36-6c10-4a28-842c-2831ff89e5c2)
+- [JEP Draft: Deprecate memory-access methods in sun.misc.unsafe for removal](https://openjdk.org/jeps/8323072)
+- [OpenAI drops ban on military tools to partner with The Pentagon](https://www.semafor.com/article/01/16/2024/openai-is-working-with-the-pentagon-on-cybersecurity-projects)
+- [&quot;Amazonian dark earth&quot; was the work of ancient humans](https://www.bbc.com/future/article/20240116-the-dark-earth-revealing-the-amazons-secrets)
+- [US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
