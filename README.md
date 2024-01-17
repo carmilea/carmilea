@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers confirm what we already knew: Google results are getting worse](https://www.theregister.com/2024/01/17/google_search_results_spam/)
+- [Apple Must Stop Selling Watches with Blood Oxygen Feature](https://www.bloomberg.com/news/articles/2024-01-17/apple-must-stop-selling-watches-with-blood-oxygen-feature)
+- [Doom Released Under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
+- [Cancer Alley](https://en.wikipedia.org/wiki/Cancer_Alley)
+- [MRISC32 – An Open 32-Bit RISC/Vector ISA &lpar;Suitable for FPGA CPU&rpar;](https://mrisc32.bitsnbites.eu/)
 - [Benchmarking Postgres Vector Search Approaches: Pgvector vs. Lantern](https://tembo.io/blog/postgres-vector-search-pgvector-and-lantern/)
-- [Machine embroidery of light-emitting textiles with electroluminescent threads](https://www.science.org/doi/10.1126/sciadv.adk4295)
-- [John Lasseter drew the BSD daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
-- [If you can&#39;t reproduce the model then it&#39;s not open-source](https://twitter.com/amasad/status/1747666962749284468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
