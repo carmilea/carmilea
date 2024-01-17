@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why is Bluetooth still so unreliable?](https://news.ycombinator.com/item?id=39028440)
+- [AI poisoning could turn open models into destructive &quot;sleeper agents&quot;](https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic/)
+- [The Naz.API Credential Stuffing List](https://www.troyhunt.com/inside-the-massive-naz-api-credential-stuffing-list/)
 - [Electric Car Owners Confront a Harsh Foe: Cold Weather](https://www.nytimes.com/2024/01/17/business/tesla-charging-chicago-cold-weather.html)
-- [Possible Room Temperature Superconductor Replicated by Two Independent Labs](https://twitter.com/andercot/status/1742650506559005158)
-- [Why I Like Obsidian](https://www.ddanieltan.com/posts/obsidian/)
-- [The Rust project has a burnout problem](https://jyn.dev/2024/01/16/the-rust-project-has-a-burnout-problem.html)
-- [Willow Protocol](https://willowprotocol.org/)
+- [Show HN: htmldocs - Typeset and Generate PDFs with HTML/CSS](https://htmldocs.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
