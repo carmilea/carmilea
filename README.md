@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Notion Calendar](https://www.notion.so/blog/introducing-notion-calendar)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Hacking into a Toyota insurance company by exploiting their premium calculator](https://eaton-works.com/2024/01/17/ttibi-email-hack/)
-- [Quebec man who blamed wildfires on government pleads guilty to setting 14 fires](https://www.cbc.ca/news/canada/montreal/brian-pare-pleads-guilty-to-setting-quebec-wildfires-1.7084669)
-- [Ask HN: What is the state of art approximate k-NN search algorithm today?](https://news.ycombinator.com/item?id=39029979)
+- [The Director of &quot;Toy Story&quot; Also Drew the BSD Daemon Logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
+- [If you can&#39;t reproduce the model then it&#39;s not open-source](https://twitter.com/amasad/status/1747666962749284468)
+- [Universities Bend over Backwards to Accommodate Food Delivery Robots](https://www.404media.co/student-should-have-a-healthy-looking-bmi-how-universities-bend-over-backwards-to-accommodate-starship-food-delivery-robots/)
+- [Show HN: Shadeup – A language that makes WebGPU easier](https://shadeup.dev/)
+- [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
