@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bad stuff going down at the American Sociological Association](https://statmodeling.stat.columbia.edu/2024/01/17/bad-stuff-going-down-at-the-american-sociological-association/)
-- [Apple built iCloud to store billions of databases](https://read.engineerscodex.com/p/how-apple-built-icloud-to-store-billions)
-- [Ask HN: What local machines are people using to train LLMs?](https://news.ycombinator.com/item?id=39028370)
-- [AI poisoning could turn open models into destructive &quot;sleeper agents&quot;](https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic/)
-- [The Naz.API Credential Stuffing List](https://www.troyhunt.com/inside-the-massive-naz-api-credential-stuffing-list/)
+- [Notion Calendar](https://www.notion.so/blog/introducing-notion-calendar)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Hacking into a Toyota insurance company by exploiting their premium calculator](https://eaton-works.com/2024/01/17/ttibi-email-hack/)
+- [Quebec man who blamed wildfires on government pleads guilty to setting 14 fires](https://www.cbc.ca/news/canada/montreal/brian-pare-pleads-guilty-to-setting-quebec-wildfires-1.7084669)
+- [Ask HN: What is the state of art approximate k-NN search algorithm today?](https://news.ycombinator.com/item?id=39029979)
 <!-- BLOG-POST-LIST:END -->
 
 ---
