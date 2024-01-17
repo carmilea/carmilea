@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers#section-job)
+- [Why don&#39;t schools teach debugging, or, more fundamentally, fundamentals?](https://jakeseliger.com/2024/01/16/why-dont-schools-teach-debugging-or-more-fundamentally-fundamentals/)
+- [At 93, he&#39;s as fit as a 40-year-old. His body offers lessons on aging](https://www.msn.com/en-us/health/other/at-93-he-s-as-fit-as-a-40-year-old-his-body-offers-lessons-on-aging/ar-AA1n3CkD)
 - [My New Computer](https://blog.taoetc.org/)
 - [PixieFail: Nine Vulnerabilities UEFI Implementations](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
-- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39024215)
-- [Cloned rhesus monkey lives to adulthood for first time](https://www.nature.com/articles/d41586-024-00136-2)
-- [Technitium DNS Server: Self host a DNS server for privacy and security](https://technitium.com/dns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
