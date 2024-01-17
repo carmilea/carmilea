@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coming to Grips with Apple&#39;s Seemingly Unshakable Sense of Entitlement](https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement)
+- [FAQ on Leaving Google](https://social.clawhammer.net/blog/posts/2024-01-10-GoogleExitLetter/)
+- [Which word begins with &quot;y&quot; and looks like an axe in this picture? &lpar;2021&rpar;](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture)
+- [How Monopolists drive the power and wealth divide](https://www.globaljustice.org.uk/resource/taken-not-earned-how-monopolists-drive-the-worlds-power-and-wealth-divide/)
 - [Computer Engineering for Babies &lpar;2021&rpar;](https://computerengineeringforbabies.com/products/computer-engineering-for-babies)
-- [Fathom AI Meeting Assistant &lpar;YC W21&rpar; is hiring full-stack engineers &lpar;remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
-- [OpenAI is working with the US military now](https://www.bloomberg.com/news/articles/2024-01-16/openai-working-with-us-military-on-cybersecurity-tools-for-veterans)
-- [Use Plaintext Email](https://useplaintext.email/)
-- [Cancer Alley](https://en.wikipedia.org/wiki/Cancer_Alley)
 <!-- BLOG-POST-LIST:END -->
 
 ---
