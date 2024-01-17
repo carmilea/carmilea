@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why is Bluetooth still so unreliable?](https://news.ycombinator.com/item?id=39028440)
+- [Bad stuff going down at the American Sociological Association](https://statmodeling.stat.columbia.edu/2024/01/17/bad-stuff-going-down-at-the-american-sociological-association/)
+- [Apple built iCloud to store billions of databases](https://read.engineerscodex.com/p/how-apple-built-icloud-to-store-billions)
+- [Ask HN: What local machines are people using to train LLMs?](https://news.ycombinator.com/item?id=39028370)
 - [AI poisoning could turn open models into destructive &quot;sleeper agents&quot;](https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic/)
 - [The Naz.API Credential Stuffing List](https://www.troyhunt.com/inside-the-massive-naz-api-credential-stuffing-list/)
-- [Electric Car Owners Confront a Harsh Foe: Cold Weather](https://www.nytimes.com/2024/01/17/business/tesla-charging-chicago-cold-weather.html)
-- [Show HN: htmldocs - Typeset and Generate PDFs with HTML/CSS](https://htmldocs.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
