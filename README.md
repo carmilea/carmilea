@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [From Vexing Uncertainty to Intellectual Humility](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbad173/7517011)
+- [BBC BASIC raytracer in 432 characters](https://mastodon.me.uk/@bbcmicrobot/111762132859648345)
+- [ALOHA robot learns from humans to cook, clean, do laundry](https://venturebeat.com/automation/stanfords-mobile-aloha-robot-learns-from-humans-to-cook-clean-do-laundry/)
+- [Show HN: I made a website to find best bus seat to avoid the sun while traveling](https://sitinshade.com)
 - [JW Player suffers traffic loss after dynamic piracy blocking blunder](https://torrentfreak.com/jwplayer-suffers-severe-traffic-loss-after-dynamic-piracy-blocking-blunder-240116/)
-- [Judge blocks JetBlue from acquiring Spirit Airlines](https://www.nytimes.com/2024/01/16/business/jetblue-spirit-airlines-ruling-merger.html)
-- [JEP Draft: Deprecate memory-access methods in sun.misc.unsafe for removal](https://openjdk.org/jeps/8323072)
-- [OpenAI drops ban on military tools to partner with The Pentagon](https://www.semafor.com/article/01/16/2024/openai-is-working-with-the-pentagon-on-cybersecurity-projects)
-- [&quot;Amazonian dark earth&quot; was the work of ancient humans](https://www.bbc.com/future/article/20240116-the-dark-earth-revealing-the-amazons-secrets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
