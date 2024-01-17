@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Electric vehicles will need &#39;battery passports&#39; to enter EU from 2027](https://www.autocar.co.uk/car-news/electric-cars/battery-passports)
+- [The Mating Psychology of Incels – The Journal of Sex Research](https://www.tandfonline.com/doi/full/10.1080/00224499.2023.2248096)
 - [PixieFail: Nine Vulnerabilities UEFI Implementations](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
 - [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39024215)
 - [Cloned rhesus monkey lives to adulthood for first time](https://www.nature.com/articles/d41586-024-00136-2)
-- [Technitium DNS Server: Self host a DNS server for privacy and security](https://technitium.com/dns/)
-- [Technitium: Secure, anonymous, P2P, open source, instant messenger](https://technitium.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
