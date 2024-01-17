@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fujitsu says it will pay compensation in UK Post Office scandal](https://www.japantimes.co.jp/business/2024/01/17/companies/fujitsu-compensation-post-office-scandal/)
+- [Flowblade: Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
 - [From Vexing Uncertainty to Intellectual Humility](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbad173/7517011)
 - [BBC BASIC raytracer in 432 characters](https://mastodon.me.uk/@bbcmicrobot/111762132859648345)
 - [ALOHA robot learns from humans to cook, clean, do laundry](https://venturebeat.com/automation/stanfords-mobile-aloha-robot-learns-from-humans-to-cook-clean-do-laundry/)
-- [Show HN: I made a website to find best bus seat to avoid the sun while traveling](https://sitinshade.com)
-- [JW Player suffers traffic loss after dynamic piracy blocking blunder](https://torrentfreak.com/jwplayer-suffers-severe-traffic-loss-after-dynamic-piracy-blocking-blunder-240116/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
