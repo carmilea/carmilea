@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PixieFail: Nine Vulnerabilities UEFI Implementations](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
 - [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39024215)
 - [Cloned rhesus monkey lives to adulthood for first time](https://www.nature.com/articles/d41586-024-00136-2)
-- [Is There Any Benefit to Multivitamins?](https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins)
-- [I regret selling my startup](https://www.nothingeasyaboutthis.com/i-regret-selling-my-startup/)
-- [Flowblade: Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
+- [Technitium DNS Server: Self host a DNS server for privacy and security](https://technitium.com/dns/)
+- [Technitium: Secure, anonymous, P2P, open source, instant messenger](https://technitium.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
