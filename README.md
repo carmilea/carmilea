@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [South Korea launches digital nomad visa to boost remote work options in 2024](https://techsauce.co/en/special-guests/southkorea-launches-digitalnomad-visa)
+- [JW Player suffers traffic loss after dynamic piracy blocking blunder](https://torrentfreak.com/jwplayer-suffers-severe-traffic-loss-after-dynamic-piracy-blocking-blunder-240116/)
+- [Judge Blocks JetBlue from Acquiring Spirit Airlines](https://www.nytimes.com/2024/01/16/business/jetblue-spirit-airlines-ruling-merger.html)
 - [JEP Draft: Deprecate memory-access methods in sun.misc.unsafe for removal](https://openjdk.org/jeps/8323072)
 - [OpenAI drops ban on military tools to partner with The Pentagon](https://www.semafor.com/article/01/16/2024/openai-is-working-with-the-pentagon-on-cybersecurity-projects)
 - [&quot;Amazonian dark earth&quot; was the work of ancient humans](https://www.bbc.com/future/article/20240116-the-dark-earth-revealing-the-amazons-secrets)
-- [US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
