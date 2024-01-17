@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Build an Enterprise-Grade Gen AI App Using Google Vertex AI and SingleStore](https://www.youtube.com/watch?v=lsM0D7TEbXw)
 - [How We Made That App Episode 3 - AutoCAD Evolution: From 2D to AI with Autodesk’s Marcus O’Brien](https://www.youtube.com/watch?v=wKc9JSBQKwE)
 - [SingleStore in 2023](https://www.youtube.com/watch?v=ba5CcHAF-d8)
 - [Webinar: Rescue Your Cloud Data Warehouse](https://www.youtube.com/watch?v=1eIVcgZA91Y)
 - [Introduction to SingleStore including a Getting Started Demo](https://www.youtube.com/watch?v=1R3sl9hcpLA)
-- [Demo: Getting started on SingleStore using Stage and Notebooks](https://www.youtube.com/watch?v=eLiPRcShbjg)
 <!-- YOUTUBE:END -->
 
 
