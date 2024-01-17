@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Director of &quot;Toy Story&quot; Also Drew the BSD Daemon Logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
+- [Researchers confirm what we already knew: Google results are getting worse](https://www.theregister.com/2024/01/17/google_search_results_spam/)
+- [Benchmarking Postgres Vector Search Approaches: Pgvector vs. Lantern](https://tembo.io/blog/postgres-vector-search-pgvector-and-lantern/)
+- [Machine embroidery of light-emitting textiles with electroluminescent threads](https://www.science.org/doi/10.1126/sciadv.adk4295)
+- [John Lasseter drew the BSD daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
 - [If you can&#39;t reproduce the model then it&#39;s not open-source](https://twitter.com/amasad/status/1747666962749284468)
-- [Universities Bend over Backwards to Accommodate Food Delivery Robots](https://www.404media.co/student-should-have-a-healthy-looking-bmi-how-universities-bend-over-backwards-to-accommodate-starship-food-delivery-robots/)
-- [Show HN: Shadeup – A language that makes WebGPU easier](https://shadeup.dev/)
-- [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
