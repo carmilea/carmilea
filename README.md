@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Must Stop Selling Watches with Blood Oxygen Feature](https://www.bloomberg.com/news/articles/2024-01-17/apple-must-stop-selling-watches-with-blood-oxygen-feature)
+- [Fathom AI Meeting Assistant &lpar;YC W21&rpar; is hiring full-stack engineers &lpar;remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
+- [OpenAI is working with the US military now](https://www.bloomberg.com/news/articles/2024-01-16/openai-working-with-us-military-on-cybersecurity-tools-for-veterans)
+- [We have surpassed 6 of the 9 planetary boundaries that sustain human life &lpar;2023&rpar;](https://www.stockholmresilience.org/research/planetary-boundaries.html)
+- [Most STEM grads don&#39;t work in STEM jobs](https://www.tampabay.com/opinion/2024/01/17/did-you-know-that-most-stem-grads-dont-work-stem-jobs/)
 - [Doom Released Under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
-- [Cancer Alley](https://en.wikipedia.org/wiki/Cancer_Alley)
-- [MRISC32 – An Open 32-Bit RISC/Vector ISA &lpar;Suitable for FPGA CPU&rpar;](https://mrisc32.bitsnbites.eu/)
-- [Benchmarking Postgres Vector Search Approaches: Pgvector vs. Lantern](https://tembo.io/blog/postgres-vector-search-pgvector-and-lantern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
