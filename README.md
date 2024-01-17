@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The rust project has a burnout problem](https://jyn.dev/2024/01/16/the-rust-project-has-a-burnout-problem.html)
+- [Electric Car Owners Confront a Harsh Foe: Cold Weather](https://www.nytimes.com/2024/01/17/business/tesla-charging-chicago-cold-weather.html)
+- [Possible Room Temperature Superconductor Replicated by Two Independent Labs](https://twitter.com/andercot/status/1742650506559005158)
+- [Why I Like Obsidian](https://www.ddanieltan.com/posts/obsidian/)
+- [The Rust project has a burnout problem](https://jyn.dev/2024/01/16/the-rust-project-has-a-burnout-problem.html)
 - [Willow Protocol](https://willowprotocol.org/)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers#section-job)
-- [Tell HN: How an elderly couple I know had their computer &#39;stop working&#39;](https://news.ycombinator.com/item?id=39026521)
-- [Why don&#39;t schools teach debugging, or, more fundamentally, fundamentals?](https://jakeseliger.com/2024/01/16/why-dont-schools-teach-debugging-or-more-fundamentally-fundamentals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
