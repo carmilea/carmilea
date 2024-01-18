@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Live: Axiom Mission 3 Launches to the International Space Station [video]](https://www.youtube.com/watch?v=1nXlbgjIoP4)
-- [VMware Kills Off 56 Products](https://www.thestack.technology/vmware-is-killing-off-56-products-including-vsphere-hypervisor-and-nsx/)
+- [My AI costs went from $100 to less than $1/day: Fine-tuning Mixtral with GPT4](https://twitter.com/wenquai/status/1748016021808595242)
+- [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
 - [Noisy brain may underlie some of autism&#39;s sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
-- [Cracking the Code of Linear B](https://antigonejournal.com/2024/01/decipherment-linear-b/)
-- [Norwegian youth win climate court case against the Norwegian State](https://www.greenpeace.org/international/press-release/64831/environmental-youth-groups-win-climate-court-case-against-norwegian-state/)
+- [Cracking the code of Linear B](https://antigonejournal.com/2024/01/decipherment-linear-b/)
+- [Show HN: Auto-generate load tests/synthetic test data from OpenAPI spec/HAR file](https://docs.multiple.dev/how-it-works/ai-test-gen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
