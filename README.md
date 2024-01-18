@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remote Work Doesn&#39;t Seem to Affect Productivity, Fed Study Finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
+- [Peter Schickele, Composer and Gleeful Sire of PDQ Bach, Dies at 88](https://www.nytimes.com/2024/01/17/arts/music/peter-schickele-dead.html)
 - [Losing my son – Lars Doucet](https://www.fortressofdoors.com/i-lost-my-son/)
-- [Is Kim Jong Un Preparing for War?](https://www.38north.org/2024/01/is-kim-jong-un-preparing-for-war/)
+- [WhisperSpeech – An Open Source text-to-speech system built by inverting Whisper](https://github.com/collabora/WhisperSpeech)
 - [Portable Web Documents – An Alternative to PDF Based on HTML5 and Web Standards](https://getpolarized.io/2019/05/11/portable-web-documents.html)
-- [Htmx and Web Components: A Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
-- [Drought impacting traffic in Panama Canal disrupts global trade](https://www.westerninvestor.com/national-business/a-drought-has-forced-authorities-to-further-slash-traffic-in-panama-canal-disrupting-global-trade-8126368)
 <!-- BLOG-POST-LIST:END -->
 
 ---
