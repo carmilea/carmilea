@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Escaping Surveillance Capitalism, at Scale](https://ergaster.org/posts/2024/01/18-escaping-surveillance-capitalism-at-scale/)
 - [Scrooge McDuck: The first image on the first Macintosh &lpar;1980&rpar;](https://folklore.org/Scrooge_McDuck.html?sort=date)
 - [IBM scraps rewards program for staff inventions, wipes away cash points](https://www.theregister.com/2024/01/17/ibm_inventor_reward_program/)
-- [Hans Reiser on ReiserFS deprecation in the Linux kernel](https://ftp.mfek.org/Reiser/Letters/№2%20Hans→Fred/reiser_response.html)
-- [PostgreSQL Operations Cheat Sheet: featuring security, scaling, structure, etc.](https://wiki.postgresql.org/wiki/Operations_cheat_sheet)
-- [Examples of AI rip-offs making their way into Google News](https://www.404media.co/google-news-is-boosting-garbage-ai-generated-articles/)
+- [Query History in SingleStore](https://www.singlestore.com/blog/query-history-in-singlestore)
+- [Flying kites deliver container-sized power generation](https://spectrum.ieee.org/micro-wind-power-kitepower)
 <!-- BLOG-POST-LIST:END -->
 
 ---
