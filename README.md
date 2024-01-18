@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Fixing Horizon bugs would have been too costly, Post Office inquiry told](https://www.theguardian.com/uk-news/2024/jan/17/post-office-inquiry-fixing-horizon-bugs-fujitsu-developer-gerald-barnes)
-- [Electric cars suffer &#39;unsustainable&#39; depreciation in secondhand market](https://www.telegraph.co.uk/business/2024/01/18/used-electric-cars-lose-half-value-after-three-years/)
 - [A Million Ways to Die on the Web](https://wiki.archiveteam.org/index.php/A_Million_Ways_to_Die_on_the_Web)
 - [EU NGI TALER will bring private and secure online payments to the Eurozone](https://taler.net/en/news/2024-02.html)
 - [Self-Consuming Generative Models Go MAD](https://arxiv.org/abs/2307.01850)
+- [Wasmer &lpar;YC S19&rpar; Is Hiring Rust and Compiler Engineers](https://www.ycombinator.com/companies/wasmer/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
