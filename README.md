@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A new kind of climate denial has taken over on YouTube](https://www.theverge.com/2024/1/16/24040015/youtube-google-climate-change-new-denial-advertising-report)
-- [Queues Don&#39;t Fix Overload](https://ferd.ca/queues-don-t-fix-overload.html)
-- [Bing Gained Less Than 1% Market Share Since Adding Bing Chat](https://www.seroundtable.com/bing-market-share-chatgpt-36751.html)
-- [Researcher uncovers one of the biggest password dumps in recent history](https://arstechnica.com/security/2024/01/71-million-passwords-for-facebook-coinbase-and-others-found-for-sale/)
-- [Study: Field Drug Tests Generate Nearly 30k Bogus Arrests a Year](https://www.techdirt.com/2024/01/17/study-field-drug-tests-generate-nearly-30000-bogus-arrests-a-year/)
+- [PostgreSQL Operations Cheat Sheet: featuring security, scaling, structure, etc.](https://wiki.postgresql.org/wiki/Operations_cheat_sheet)
+- [Google News Is Boosting Garbage AI-Generated Articles](https://www.404media.co/google-news-is-boosting-garbage-ai-generated-articles/)
+- [Spotify attacks Apple&#39;s &#39;outrageous&#39; 27% commission](https://www.bbc.com/news/technology-68018618)
+- [Launch HN: Talc AI &lpar;YC S23&rpar; – Test Sets for AI](https://news.ycombinator.com/item?id=39042093)
+- [Identifying Rust&#39;s collect:&lt;Vec&lt;_&gt;&gt;&lpar;&rpar; memory leak footgun](https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
