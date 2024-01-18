@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Remote Work Doesn&#39;t Seem to Affect Productivity, Fed Study Finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
-- [Peter Schickele, Composer and Gleeful Sire of PDQ Bach, Dies at 88](https://www.nytimes.com/2024/01/17/arts/music/peter-schickele-dead.html)
-- [Losing my son – Lars Doucet](https://www.fortressofdoors.com/i-lost-my-son/)
-- [WhisperSpeech – An Open Source text-to-speech system built by inverting Whisper](https://github.com/collabora/WhisperSpeech)
-- [Portable Web Documents – An Alternative to PDF Based on HTML5 and Web Standards](https://getpolarized.io/2019/05/11/portable-web-documents.html)
+- [Remote work doesn&#39;t seem to affect productivity, Fed study finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
+- [Peter Schickele, composer and gleeful sire of P.D.Q. Bach, dies at 88](https://www.nytimes.com/2024/01/17/arts/music/peter-schickele-dead.html)
+- [Open table formats are inevitable for analytical datasets](https://ensembleanalytics.io/blog/open-table-formats-inevitable)
+- [Losing my son](https://www.fortressofdoors.com/i-lost-my-son/)
+- [WhisperSpeech – An open source text-to-speech system built by inverting Whisper](https://github.com/collabora/WhisperSpeech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
