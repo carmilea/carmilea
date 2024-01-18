@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Escaping Surveillance Capitalism, at Scale](https://ergaster.org/posts/2024/01/18-escaping-surveillance-capitalism-at-scale/)
-- [Scrooge McDuck: The first image on the first Macintosh &lpar;1980&rpar;](https://folklore.org/Scrooge_McDuck.html?sort=date)
-- [IBM scraps rewards program for staff inventions, wipes away cash points](https://www.theregister.com/2024/01/17/ibm_inventor_reward_program/)
-- [Query History in SingleStore](https://www.singlestore.com/blog/query-history-in-singlestore)
-- [Flying kites deliver container-sized power generation](https://spectrum.ieee.org/micro-wind-power-kitepower)
+- [Meta will have a stockpile of almost 600k GPUs by the end of 2024](https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview)
+- [New cancer drug kinder than chemotherapy](https://www.bbc.com/news/health-67793887)
+- [A Disney Imagineer Will Join the Inventors Hall of Fame](https://thewaltdisneycompany.com/lanny-smoot-to-be-the-first-disney-imagineer-inducted-into-the-national-inventors-hall-of-fame/)
+- [What happened to the US machine tool industry?](https://www.construction-physics.com/p/what-happened-to-the-us-machine-tool)
+- [Jake Archibald on the web browser event loop, setTimeout, micro tasks [video]](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
