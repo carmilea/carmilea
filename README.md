@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scrooge McDuck: The first image on the first Macintosh &lpar;1980&rpar;](https://folklore.org/Scrooge_McDuck.html?sort=date)
+- [IBM scraps rewards program for staff inventions, wipes away cash points](https://www.theregister.com/2024/01/17/ibm_inventor_reward_program/)
+- [Hans Reiser on ReiserFS deprecation in the Linux kernel](https://ftp.mfek.org/Reiser/Letters/№2%20Hans→Fred/reiser_response.html)
 - [PostgreSQL Operations Cheat Sheet: featuring security, scaling, structure, etc.](https://wiki.postgresql.org/wiki/Operations_cheat_sheet)
-- [Google News Is Boosting Garbage AI-Generated Articles](https://www.404media.co/google-news-is-boosting-garbage-ai-generated-articles/)
-- [Spotify attacks Apple&#39;s &#39;outrageous&#39; 27% commission](https://www.bbc.com/news/technology-68018618)
-- [Launch HN: Talc AI &lpar;YC S23&rpar; – Test Sets for AI](https://news.ycombinator.com/item?id=39042093)
-- [Identifying Rust&#39;s collect:&lt;Vec&lt;_&gt;&gt;&lpar;&rpar; memory leak footgun](https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html)
+- [Examples of AI rip-offs making their way into Google News](https://www.404media.co/google-news-is-boosting-garbage-ai-generated-articles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
