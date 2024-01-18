@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tembo Operator: a Rust-Based Kubernetes Operator for Postgres](https://tembo.io/blog/tembo-operator/)
+- [Djgpp](https://www.delorie.com/djgpp/)
 - [Remote work doesn&#39;t seem to affect productivity, Fed study finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
 - [Peter Schickele, composer and gleeful sire of P.D.Q. Bach, dies at 88](https://www.nytimes.com/2024/01/17/arts/music/peter-schickele-dead.html)
 - [Open table formats are inevitable for analytical datasets](https://ensembleanalytics.io/blog/open-table-formats-inevitable)
-- [Losing my son](https://www.fortressofdoors.com/i-lost-my-son/)
-- [WhisperSpeech – An open source text-to-speech system built by inverting Whisper](https://github.com/collabora/WhisperSpeech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
