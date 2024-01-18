@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canadian Citizen Gets Phone Back from Police](https://www.schneier.com/blog/archives/2024/01/canadian-citizen-gets-phone-back-from-police.html)
+- [Bing Gained Less Than 1% Market Share Since Adding Bing Chat](https://www.seroundtable.com/bing-market-share-chatgpt-36751.html)
 - [Serious incident to the 777-300ER on 5 April 2022 at CDG [pdf]](https://bea.aero/fileadmin/user_upload/F-GSQJ_finalreport_EN.pdf)
 - [&#39;No AI Fraud Act&#39; Could Outlaw Parodies, Political Cartoons, and More](https://reason.com/2024/01/17/ai-fraud-act-could-outlaw-parodies-political-cartoons-and-more/)
 - [Gym Class VR &lpar;YC W22&rpar; Is Hiring Lead Applied AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
-- [Flattr is closing down](https://flattr.com/)
-- [Fixing Horizon bugs would have been too costly, Post Office inquiry told](https://www.theguardian.com/uk-news/2024/jan/17/post-office-inquiry-fixing-horizon-bugs-fujitsu-developer-gerald-barnes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
