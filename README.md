@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta will have a stockpile of almost 600k GPUs by the end of 2024](https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview)
+- [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
 - [New cancer drug kinder than chemotherapy](https://www.bbc.com/news/health-67793887)
-- [A Disney Imagineer Will Join the Inventors Hall of Fame](https://thewaltdisneycompany.com/lanny-smoot-to-be-the-first-disney-imagineer-inducted-into-the-national-inventors-hall-of-fame/)
+- [Haier hits Home Assistant plugin dev with takedown notice](https://www.bleepingcomputer.com/news/security/haier-hits-home-assistant-plugin-dev-with-takedown-notice/)
 - [What happened to the US machine tool industry?](https://www.construction-physics.com/p/what-happened-to-the-us-machine-tool)
-- [Jake Archibald on the web browser event loop, setTimeout, micro tasks [video]](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+- [Setback in the &quot;American Chestnut Project&quot;](https://www.biowisskomm.de/en/2023/08/eco-gene-technology-the-american-chestnut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
