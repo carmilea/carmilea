@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Coming to Grips with Apple&#39;s Seemingly Unshakable Sense of Entitlement](https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement)
-- [FAQ on Leaving Google](https://social.clawhammer.net/blog/posts/2024-01-10-GoogleExitLetter/)
-- [Which word begins with &quot;y&quot; and looks like an axe in this picture? &lpar;2021&rpar;](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture)
-- [How Monopolists drive the power and wealth divide](https://www.globaljustice.org.uk/resource/taken-not-earned-how-monopolists-drive-the-worlds-power-and-wealth-divide/)
-- [Computer Engineering for Babies &lpar;2021&rpar;](https://computerengineeringforbabies.com/products/computer-engineering-for-babies)
+- [Carta&#39;s Scandal Continues – Jerry Talton &lpar;Ex. CTO of Carta&rpar;](https://twitter.com/itspuru/status/1747778873935213028)
+- [Samsung Extends Android and Security Updates to 7 Years](https://www.cnet.com/tech/mobile/samsung-extends-android-and-security-updates-to-7-years/)
+- [48,000 companies sent Facebook data on a single person](https://www.theverge.com/2024/1/17/24041897/facebook-meta-targeted-advertising-data-mining-study-privacy)
+- [Ex-Hertz Tesla Model 3s Cost as Little as $14,000. Would You Buy One?](https://www.thedrive.com/news/ex-hertz-tesla-model-3s-cost-as-little-as-14000-would-you-buy-one)
+- [Sheryl Sandberg to Leave Meta Platforms Board After 12 Years](https://www.wsj.com/tech/sheryl-sandberg-to-leave-meta-platforms-board-after-12-years-dda56828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
