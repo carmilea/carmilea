@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canadian Citizen Gets Phone Back from Police](https://www.schneier.com/blog/archives/2024/01/canadian-citizen-gets-phone-back-from-police.html)
+- [A new kind of climate denial has taken over on YouTube](https://www.theverge.com/2024/1/16/24040015/youtube-google-climate-change-new-denial-advertising-report)
+- [Queues Don&#39;t Fix Overload](https://ferd.ca/queues-don-t-fix-overload.html)
 - [Bing Gained Less Than 1% Market Share Since Adding Bing Chat](https://www.seroundtable.com/bing-market-share-chatgpt-36751.html)
-- [Serious incident to the 777-300ER on 5 April 2022 at CDG [pdf]](https://bea.aero/fileadmin/user_upload/F-GSQJ_finalreport_EN.pdf)
-- [&#39;No AI Fraud Act&#39; Could Outlaw Parodies, Political Cartoons, and More](https://reason.com/2024/01/17/ai-fraud-act-could-outlaw-parodies-political-cartoons-and-more/)
-- [Gym Class VR &lpar;YC W22&rpar; Is Hiring Lead Applied AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
+- [Researcher uncovers one of the biggest password dumps in recent history](https://arstechnica.com/security/2024/01/71-million-passwords-for-facebook-coinbase-and-others-found-for-sale/)
+- [Study: Field Drug Tests Generate Nearly 30k Bogus Arrests a Year](https://www.techdirt.com/2024/01/17/study-field-drug-tests-generate-nearly-30000-bogus-arrests-a-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
