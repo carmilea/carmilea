@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hospitals owned by private equity are harming patients, reports find](https://arstechnica.com/health/2024/01/hospitals-slash-staff-services-quality-of-care-when-private-equity-takes-over/)
-- [Linear Transformers Are Faster After All](https://manifestai.com/blogposts/faster-after-all/)
-- [Everyone always talks about AI girlfriends. What about AI boyfriends?](https://default.blog/p/ai-girlfriends-what-about-ai-boyfriends)
-- [Carta&#39;s Scandal Continues – Jerry Talton &lpar;Ex. CTO of Carta&rpar;](https://twitter.com/itspuru/status/1747778873935213028)
-- [Samsung Extends Android and Security Updates to 7 Years](https://www.cnet.com/tech/mobile/samsung-extends-android-and-security-updates-to-7-years/)
+- [Losing my son – Lars Doucet](https://www.fortressofdoors.com/i-lost-my-son/)
+- [Is Kim Jong Un Preparing for War?](https://www.38north.org/2024/01/is-kim-jong-un-preparing-for-war/)
+- [Portable Web Documents – An Alternative to PDF Based on HTML5 and Web Standards](https://getpolarized.io/2019/05/11/portable-web-documents.html)
+- [Htmx and Web Components: A Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
+- [Drought impacting traffic in Panama Canal disrupts global trade](https://www.westerninvestor.com/national-business/a-drought-has-forced-authorities-to-further-slash-traffic-in-panama-canal-disrupting-global-trade-8126368)
 <!-- BLOG-POST-LIST:END -->
 
 ---
