@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Serious incident to the 777-300ER on 5 April 2022 at CDG [pdf]](https://bea.aero/fileadmin/user_upload/F-GSQJ_finalreport_EN.pdf)
+- [&#39;No AI Fraud Act&#39; Could Outlaw Parodies, Political Cartoons, and More](https://reason.com/2024/01/17/ai-fraud-act-could-outlaw-parodies-political-cartoons-and-more/)
+- [Gym Class VR &lpar;YC W22&rpar; Is Hiring Lead Applied AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
+- [Flattr is closing down](https://flattr.com/)
 - [Fixing Horizon bugs would have been too costly, Post Office inquiry told](https://www.theguardian.com/uk-news/2024/jan/17/post-office-inquiry-fixing-horizon-bugs-fujitsu-developer-gerald-barnes)
-- [A Million Ways to Die on the Web](https://wiki.archiveteam.org/index.php/A_Million_Ways_to_Die_on_the_Web)
-- [EU NGI TALER will bring private and secure online payments to the Eurozone](https://taler.net/en/news/2024-02.html)
-- [Self-Consuming Generative Models Go MAD](https://arxiv.org/abs/2307.01850)
-- [Wasmer &lpar;YC S19&rpar; Is Hiring Rust and Compiler Engineers](https://www.ycombinator.com/companies/wasmer/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
