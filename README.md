@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Live: Axiom Mission 3 Launches to the International Space Station [video]](https://www.youtube.com/watch?v=1nXlbgjIoP4)
+- [VMware Kills Off 56 Products](https://www.thestack.technology/vmware-is-killing-off-56-products-including-vsphere-hypervisor-and-nsx/)
+- [Noisy brain may underlie some of autism&#39;s sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
+- [Cracking the Code of Linear B](https://antigonejournal.com/2024/01/decipherment-linear-b/)
 - [Norwegian youth win climate court case against the Norwegian State](https://www.greenpeace.org/international/press-release/64831/environmental-youth-groups-win-climate-court-case-against-norwegian-state/)
-- [The Problem Is Not Plagiarism, but Cargo Cult Science](https://unfashionable.blog/p/cargo-cult-science)
-- [Show HN: Auto-generate load tests/synthetic test data from OpenAPI spec/HAR file](https://docs.multiple.dev/how-it-works/ai-test-gen)
-- [German developer guilty of &#39;hacking&#39; for exposing hardcoded credentials in app](https://infosec.exchange/@WPalant/111776937550399546)
-- [Venture Backed or Bootstrapped? There&#39;s a Third Way. Just Raise One Round](https://www.saastr.com/venture-backed-theres-a-third-way-just-raise-one-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
