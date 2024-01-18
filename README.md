@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hospitals owned by private equity are harming patients, reports find](https://arstechnica.com/health/2024/01/hospitals-slash-staff-services-quality-of-care-when-private-equity-takes-over/)
+- [Linear Transformers Are Faster After All](https://manifestai.com/blogposts/faster-after-all/)
+- [Everyone always talks about AI girlfriends. What about AI boyfriends?](https://default.blog/p/ai-girlfriends-what-about-ai-boyfriends)
 - [Carta&#39;s Scandal Continues – Jerry Talton &lpar;Ex. CTO of Carta&rpar;](https://twitter.com/itspuru/status/1747778873935213028)
 - [Samsung Extends Android and Security Updates to 7 Years](https://www.cnet.com/tech/mobile/samsung-extends-android-and-security-updates-to-7-years/)
-- [48,000 companies sent Facebook data on a single person](https://www.theverge.com/2024/1/17/24041897/facebook-meta-targeted-advertising-data-mining-study-privacy)
-- [Ex-Hertz Tesla Model 3s Cost as Little as $14,000. Would You Buy One?](https://www.thedrive.com/news/ex-hertz-tesla-model-3s-cost-as-little-as-14000-would-you-buy-one)
-- [Sheryl Sandberg to Leave Meta Platforms Board After 12 Years](https://www.wsj.com/tech/sheryl-sandberg-to-leave-meta-platforms-board-after-12-years-dda56828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
