@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Norwegian youth win climate court case against the Norwegian State](https://www.greenpeace.org/international/press-release/64831/environmental-youth-groups-win-climate-court-case-against-norwegian-state/)
+- [The Problem Is Not Plagiarism, but Cargo Cult Science](https://unfashionable.blog/p/cargo-cult-science)
+- [Show HN: Auto-generate load tests/synthetic test data from OpenAPI spec/HAR file](https://docs.multiple.dev/how-it-works/ai-test-gen)
+- [German developer guilty of &#39;hacking&#39; for exposing hardcoded credentials in app](https://infosec.exchange/@WPalant/111776937550399546)
 - [Venture Backed or Bootstrapped? There&#39;s a Third Way. Just Raise One Round](https://www.saastr.com/venture-backed-theres-a-third-way-just-raise-one-round/)
-- [Cells Across the Body Talk to Each Other About Aging](https://nautil.us/cells-across-the-body-talk-to-each-other-about-aging-494209/)
-- [The Miele Dialog: cook a fish in ice without melting the ice](https://www.miele.com/brand/en/revolutionary-excellence-38683.htm)
-- [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
 <!-- BLOG-POST-LIST:END -->
 
 ---
