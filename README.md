@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tembo Operator: a Rust-Based Kubernetes Operator for Postgres](https://tembo.io/blog/tembo-operator/)
+- [Self-Consuming Generative Models Go Mad](https://arxiv.org/abs/2307.01850)
+- [Wasmer &lpar;YC S19&rpar; Is Hiring Rust and Compiler Engineers](https://www.ycombinator.com/companies/wasmer/jobs)
+- [Show HN: I Built an AI-Powered Headshot Generator](https://magickimg.com/headshot/)
+- [Automatic class sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 - [Djgpp](https://www.delorie.com/djgpp/)
-- [Remote work doesn&#39;t seem to affect productivity, Fed study finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
-- [Peter Schickele, composer and gleeful sire of P.D.Q. Bach, dies at 88](https://www.nytimes.com/2024/01/17/arts/music/peter-schickele-dead.html)
-- [Open table formats are inevitable for analytical datasets](https://ensembleanalytics.io/blog/open-table-formats-inevitable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
