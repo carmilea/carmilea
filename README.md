@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Consuming Generative Models Go Mad](https://arxiv.org/abs/2307.01850)
+- [EU NGI TALER will bring private and secure online payments to the Eurozone](https://taler.net/en/news/2024-02.html)
+- [Self-Consuming Generative Models Go MAD](https://arxiv.org/abs/2307.01850)
 - [Wasmer &lpar;YC S19&rpar; Is Hiring Rust and Compiler Engineers](https://www.ycombinator.com/companies/wasmer/jobs)
-- [Show HN: I Built an AI-Powered Headshot Generator](https://magickimg.com/headshot/)
 - [Automatic class sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 - [Djgpp](https://www.delorie.com/djgpp/)
 <!-- BLOG-POST-LIST:END -->
