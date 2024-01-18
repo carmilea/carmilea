@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Norwegian youth win climate court case against the Norwegian State](https://www.greenpeace.org/international/press-release/64831/environmental-youth-groups-win-climate-court-case-against-norwegian-state/)
+- [Venture Backed or Bootstrapped? There&#39;s a Third Way. Just Raise One Round](https://www.saastr.com/venture-backed-theres-a-third-way-just-raise-one-round/)
+- [Cells Across the Body Talk to Each Other About Aging](https://nautil.us/cells-across-the-body-talk-to-each-other-about-aging-494209/)
+- [The Miele Dialog: cook a fish in ice without melting the ice](https://www.miele.com/brand/en/revolutionary-excellence-38683.htm)
 - [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
-- [New cancer drug kinder than chemotherapy](https://www.bbc.com/news/health-67793887)
-- [Haier hits Home Assistant plugin dev with takedown notice](https://www.bleepingcomputer.com/news/security/haier-hits-home-assistant-plugin-dev-with-takedown-notice/)
-- [What happened to the US machine tool industry?](https://www.construction-physics.com/p/what-happened-to-the-us-machine-tool)
-- [Setback in the &quot;American Chestnut Project&quot;](https://www.biowisskomm.de/en/2023/08/eco-gene-technology-the-american-chestnut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
