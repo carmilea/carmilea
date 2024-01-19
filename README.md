@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nango &lpar;YC W23&rpar; Is Hiring Back End Engineers &lpar;Remote&rpar;](https://nango.dev/jobs)
+- [Saving Linux](https://cheapskatesguide.org/articles/saving-linux.html)
 - [Driver hack lets you run Linux after Windows BSODs, no reboot required](https://www.tomshardware.com/software/operating-systems/driver-hack-lets-you-run-linux-after-windows-bsods-no-reboot-required)
 - [Microsoft limits institutional cloud storage space for environmental reasons](https://scholar.social/@researchfairy/111778617625312456)
 - [LoaderShip – CSS-Only Loaders](https://www.loadership.com/)
-- [Google will disable all but OAuth for IMAP, SMTP and POP starting Sept. 30](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
-- [David Mills&#39; Fuzzball](https://github.com/pdp11/fuzzball-operating-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
