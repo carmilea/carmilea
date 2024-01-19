@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thailand: Man jailed for 50 years for defaming monarchy](https://www.bbc.com/news/world-asia-68020494)
+- [C and returning values quickly or safely. But not both](https://subethasoftware.com/2024/01/18/c-and-returning-values-quickly-or-safely-but-not-both/)
+- [Lèse-Majesté in Thailand](https://en.wikipedia.org/wiki/L%C3%A8se-majest%C3%A9_in_Thailand)
+- [Culture Change at Google](https://social.clawhammer.net/blog/posts/2024-01-19-CultureChange/)
+- [Orthic Shorthand – Write as fast as you type](https://orthic.shorthand.fun/)
 - [Dave Mills has died](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
-- [Assistant Dictator Book Club: America Against America](https://www.astralcodexten.com/p/assistant-dictator-book-club-america)
-- [Show HN: Quetta – A privacy-first web browser with enhanced ad blocker inside](https://www.quetta.net/)
-- [Show HN: Lightweight Productivity Tool](https://zlinky.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
