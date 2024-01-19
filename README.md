@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C and returning values quickly or safely. But not both](https://subethasoftware.com/2024/01/18/c-and-returning-values-quickly-or-safely-but-not-both/)
-- [Lèse-Majesté in Thailand](https://en.wikipedia.org/wiki/L%C3%A8se-majest%C3%A9_in_Thailand)
+- [Google will disable all but OAuth for IMAP, SMTP and POP starting Sept. 30](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
+- [David Mills&#39; Fuzzball](https://github.com/pdp11/fuzzball-operating-system)
+- [Hans Reiser on ReiserFS Deprecation](https://lore.kernel.org/lkml/b98b29cf-27d9-49e0-b10b-1848399badfd@kittens.ph/T/#u)
 - [Culture Change at Google](https://social.clawhammer.net/blog/posts/2024-01-19-CultureChange/)
 - [Orthic Shorthand – Write as fast as you type](https://orthic.shorthand.fun/)
-- [Dave Mills has died](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
