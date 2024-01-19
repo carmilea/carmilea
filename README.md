@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan&#39;s SLIM spacecraft lands on the moon but is not generating power](https://spacenews.com/japan-makes-history-with-tense-successful-moon-landing/)
+- [Surf the web like it&#39;s 1999](https://billsworld.neocities.org/)
 - [Phind &lpar;YC S22&rpar; is hiring machine learning and front end engineers](https://www.ycombinator.com/companies/phind/jobs)
 - [A lot of us are in &quot;status limbo&quot;](https://www.workingtheorys.com/p/status-limbo)
 - [Thailand finds 14.8M tonnes of lithium](https://www.malaymail.com/news/money/2024/01/19/thailand-discovers-nearly-15-million-tonnes-of-lithium/113414)
-- [Calculus on Computational Graphs: Backpropagation](https://colah.github.io/posts/2015-08-Backprop/)
-- [The 37signals Employee Handbook](https://basecamp.com/handbook)
 <!-- BLOG-POST-LIST:END -->
 
 ---
