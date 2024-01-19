@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
-- [Nango &lpar;YC W23&rpar; Is Hiring Back End Engineers &lpar;Remote&rpar;](https://nango.dev/jobs)
-- [Saving Linux](https://cheapskatesguide.org/articles/saving-linux.html)
-- [Driver hack lets you run Linux after Windows BSODs, no reboot required](https://www.tomshardware.com/software/operating-systems/driver-hack-lets-you-run-linux-after-windows-bsods-no-reboot-required)
-- [LoaderShip – CSS-Only Loaders](https://www.loadership.com/)
+- [Rumors Circulating That James Webb Has Discovered Life on Another World](https://futurism.com/the-byte/rumors-james-webb-life)
+- [What Explains the Fibonacci Sequence?](https://bigthink.com/starts-with-a-bang/what-explains-fibonacci-sequence/)
+- [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
+- [Delta Lake vs. Parquet: A Comparison](https://delta.io/blog/delta-lake-vs-parquet-comparison/)
+- [Apple Vision Pro available for pre-order](https://www.apple.com/shop/buy-vision/apple-vision-pro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
