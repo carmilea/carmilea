@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yann LeCun:&#39;Human-level artificial intelligence is going to take a long time&#39;](https://english.elpais.com/technology/2024-01-19/yann-lecun-chief-ai-scientist-at-meta-human-level-artificial-intelligence-is-going-to-take-a-long-time.html)
+- [HP&#39;s CEO spells it out: You&#39;re a &#39;bad investment&#39; if you don&#39;t buy HP supplies](https://www.theregister.com/2024/01/19/hps_ceo_spells_it_out/)
+- [US government opens 22M acres of federal lands to solar](https://electrek.co/2024/01/18/us-govt-opens-22-million-acres-federal-lands-solar/)
+- [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 - [Shots: Create Mockups](https://shots.so/)
 - [Roadmap for the Xilem back end in 2024](https://linebender.org/blog/xilem-backend-roadmap/)
-- [Boeing Emergency Landing in Miami After &#39;Engine Malfunction&#39;](https://www.nytimes.com/2024/01/19/us/miami-boeing-plane-engine-fire.html)
-- [New York Times Flash-based visualizations work again](https://flowingdata.com/2024/01/10/nyt-flash-based-visualizations-work-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
