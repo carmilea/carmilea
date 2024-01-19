@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HP&#39;s CEO spells it out: You&#39;re a &#39;bad investment&#39; if you don&#39;t buy HP supplies](https://www.theregister.com/2024/01/19/hps_ceo_spells_it_out/)
+- [Microsoft Actions Following Attack by Nation State Actor Midnight Blizzard](https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
+- [Knockoff Iranian Drone Sold on Alibaba Was Meant for War, Documents Show](https://www.vice.com/en/article/3akeqk/knockoff-iranian-drone-sold-on-alibaba-was-meant-for-war-documents-show)
+- [Google DeepMind Scientists in Talks to Leave and Form AI Startup](https://www.bloomberg.com/news/articles/2024-01-19/google-deepmind-ai-scientists-in-talks-to-leave-for-french-stealth-startup)
 - [US government opens 22M acres of federal lands to solar](https://electrek.co/2024/01/18/us-govt-opens-22-million-acres-federal-lands-solar/)
 - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
-- [Shots: Create Mockups](https://shots.so/)
-- [Roadmap for the Xilem back end in 2024](https://linebender.org/blog/xilem-backend-roadmap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
