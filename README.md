@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VMs on macOS using Apple&#39;s native Virtualization.Framework](https://tart.run/)
-- [Mistral looks set to challenge AI frontrunners Google and OpenAI](https://www.ft.com/content/bc4cd6ff-446d-4a47-9382-bb622460a681)
-- [Germany Reforms Citizenship Law](https://www.dw.com/en/germanys-parliament-approves-easing-dual-citizenship/a-68030714)
-- [Japan&#39;s SLIM spacecraft lands on the moon but is not generating power](https://spacenews.com/japan-makes-history-with-tense-successful-moon-landing/)
-- [Surveillance-by-Design in Proposed Amendments to the UK Investigatory Powers Act](https://www.lawfaremedia.org/article/surveillance-by-design-in-proposed-amendments-to-the-u.k.-investigatory-powers-act)
+- [Yann LeCun:&#39;Human-level artificial intelligence is going to take a long time&#39;](https://english.elpais.com/technology/2024-01-19/yann-lecun-chief-ai-scientist-at-meta-human-level-artificial-intelligence-is-going-to-take-a-long-time.html)
+- [Shots: Create Mockups](https://shots.so/)
+- [Roadmap for the Xilem back end in 2024](https://linebender.org/blog/xilem-backend-roadmap/)
+- [Boeing Emergency Landing in Miami After &#39;Engine Malfunction&#39;](https://www.nytimes.com/2024/01/19/us/miami-boeing-plane-engine-fire.html)
+- [New York Times Flash-based visualizations work again](https://flowingdata.com/2024/01/10/nyt-flash-based-visualizations-work-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
