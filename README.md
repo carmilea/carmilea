@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Vision Pro Weighs Almost as Much as a 12.9-Inch iPad Pro](https://www.macrumors.com/2024/01/19/vision-pro-weighs-almost-as-much-as-ipad-pro/)
-- [Sourcehut network outage post-mortem](https://sourcehut.org/blog/2024-01-19-outage-post-mortem/)
-- [Marcus Aurelius: The Man Who Solved the Universe [video]](https://www.youtube.com/watch?v=tv6W0Nv5ev0)
-- [Canadian man stuck in triangle of e-commerce fraud](https://krebsonsecurity.com/2024/01/canadian-man-stuck-in-triangle-of-e-commerce-fraud/)
-- [Live: Japan&#39;s first-ever soft lunar landing attempt with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
+- [Phind &lpar;YC S22&rpar; is hiring machine learning and front end engineers](https://www.ycombinator.com/companies/phind/jobs)
+- [A lot of us are in &quot;status limbo&quot;](https://www.workingtheorys.com/p/status-limbo)
+- [Thailand finds 14.8M tonnes of lithium](https://www.malaymail.com/news/money/2024/01/19/thailand-discovers-nearly-15-million-tonnes-of-lithium/113414)
+- [Calculus on Computational Graphs: Backpropagation](https://colah.github.io/posts/2015-08-Backprop/)
+- [The 37signals Employee Handbook](https://basecamp.com/handbook)
 <!-- BLOG-POST-LIST:END -->
 
 ---
