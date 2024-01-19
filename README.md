@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Holes at the Bottom of the Ocean Disappear and Reappear](https://www.atlasobscura.com/articles/ocean-floor-holes-purposes-eels)
 - [Meta documents show 100k children sexually harassed daily on its platforms](https://www.theguardian.com/technology/2024/jan/18/instagram-facebook-child-sexual-harassment)
 - [AlphaFold Found Possible Psychedelics](https://www.nature.com/articles/d41586-024-00130-8)
 - [Second Teleportation](https://upollo.ai/blog/10-second-teleportation)
 - [My AI costs went from $100 to less than $1/day: Fine-tuning Mixtral with GPT4](https://twitter.com/wenquai/status/1748016021808595242)
-- [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
