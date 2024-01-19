@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [File Formats Debunk – Why you should stop rendering to PNG &lpar;and use EXR instead&rpar;](https://skientia.co/cgi/image-formats)
 - [Google will disable all but OAuth for IMAP, SMTP and POP starting Sept. 30](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
+- [The Movement to &#39;Make America Rake Again&#39;](https://reasonstobecheerful.world/make-america-rake-again-leaf-blower-bans/)
 - [David Mills&#39; Fuzzball](https://github.com/pdp11/fuzzball-operating-system)
-- [Hans Reiser on ReiserFS Deprecation](https://lore.kernel.org/lkml/b98b29cf-27d9-49e0-b10b-1848399badfd@kittens.ph/T/#u)
 - [Culture Change at Google](https://social.clawhammer.net/blog/posts/2024-01-19-CultureChange/)
-- [Orthic Shorthand – Write as fast as you type](https://orthic.shorthand.fun/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
