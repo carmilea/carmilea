@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Vision Pro Weighs Almost as Much as a 12.9-Inch iPad Pro](https://www.macrumors.com/2024/01/19/vision-pro-weighs-almost-as-much-as-ipad-pro/)
+- [Sourcehut network outage post-mortem](https://sourcehut.org/blog/2024-01-19-outage-post-mortem/)
+- [Marcus Aurelius: The Man Who Solved the Universe [video]](https://www.youtube.com/watch?v=tv6W0Nv5ev0)
+- [Canadian man stuck in triangle of e-commerce fraud](https://krebsonsecurity.com/2024/01/canadian-man-stuck-in-triangle-of-e-commerce-fraud/)
 - [Live: Japan&#39;s first-ever soft lunar landing attempt with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
-- [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
-- [Delta Lake vs. Parquet: A Comparison](https://delta.io/blog/delta-lake-vs-parquet-comparison/)
-- [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
-- [Nango &lpar;YC W23&rpar; Is Hiring Back End Engineers &lpar;Remote&rpar;](https://nango.dev/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
