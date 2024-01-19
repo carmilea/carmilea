@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rumors Circulating That James Webb Has Discovered Life on Another World](https://futurism.com/the-byte/rumors-james-webb-life)
-- [What Explains the Fibonacci Sequence?](https://bigthink.com/starts-with-a-bang/what-explains-fibonacci-sequence/)
+- [Live: Japan&#39;s first-ever soft lunar landing attempt with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
 - [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
 - [Delta Lake vs. Parquet: A Comparison](https://delta.io/blog/delta-lake-vs-parquet-comparison/)
-- [Apple Vision Pro available for pre-order](https://www.apple.com/shop/buy-vision/apple-vision-pro)
+- [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
+- [Nango &lpar;YC W23&rpar; Is Hiring Back End Engineers &lpar;Remote&rpar;](https://nango.dev/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
