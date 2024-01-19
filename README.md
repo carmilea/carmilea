@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VMs on macOS using Apple&#39;s native Virtualization.Framework](https://tart.run/)
+- [Mistral looks set to challenge AI frontrunners Google and OpenAI](https://www.ft.com/content/bc4cd6ff-446d-4a47-9382-bb622460a681)
+- [Germany Reforms Citizenship Law](https://www.dw.com/en/germanys-parliament-approves-easing-dual-citizenship/a-68030714)
 - [Japan&#39;s SLIM spacecraft lands on the moon but is not generating power](https://spacenews.com/japan-makes-history-with-tense-successful-moon-landing/)
-- [Surf the web like it&#39;s 1999](https://billsworld.neocities.org/)
-- [Phind &lpar;YC S22&rpar; is hiring machine learning and front end engineers](https://www.ycombinator.com/companies/phind/jobs)
-- [A lot of us are in &quot;status limbo&quot;](https://www.workingtheorys.com/p/status-limbo)
-- [Thailand finds 14.8M tonnes of lithium](https://www.malaymail.com/news/money/2024/01/19/thailand-discovers-nearly-15-million-tonnes-of-lithium/113414)
+- [Surveillance-by-Design in Proposed Amendments to the UK Investigatory Powers Act](https://www.lawfaremedia.org/article/surveillance-by-design-in-proposed-amendments-to-the-u.k.-investigatory-powers-act)
 <!-- BLOG-POST-LIST:END -->
 
 ---
