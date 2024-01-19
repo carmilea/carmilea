@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dave Mills has passed away](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
+- [Thailand: Man jailed for 50 years for defaming monarchy](https://www.bbc.com/news/world-asia-68020494)
+- [Dave Mills has died](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
 - [Assistant Dictator Book Club: America Against America](https://www.astralcodexten.com/p/assistant-dictator-book-club-america)
 - [Show HN: Quetta – A privacy-first web browser with enhanced ad blocker inside](https://www.quetta.net/)
 - [Show HN: Lightweight Productivity Tool](https://zlinky.com/)
-- [One-Pedal Driving Explained](https://www.energy.gov/energysaver/one-pedal-driving-explained)
 <!-- BLOG-POST-LIST:END -->
 
 ---
