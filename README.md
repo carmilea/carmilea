@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nightshade: A Defensive Tool for Artists Against AI Art Generators](https://nightshade.cs.uchicago.edu/whatis.html)
 - [Lee Kuan Yew on Malta](https://www.karlsnotes.com/lee-kuan-yew-on-malta/)
-- [Why strive? Stephen Fry reads Nick Cave&#39;s letter on the threat of AI [video]](https://aeon.co/videos/why-strive-stephen-fry-reads-nick-caves-letter-on-the-threat-of-computed-creativity)
+- [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn)
 - [Russia has started indiscriminately blocking all OpenVPN/WireGuard connections](https://news.ycombinator.com/item?id=39067213)
-- [Thousands of small businesses  are struggling because of R&amp;D amortization](https://twitter.com/mjwhansen/status/1748345492998696961)
-- [The Knowledge Economy Is Over. Welcome to the Allocation Economy](https://every.to/chain-of-thought/the-knowledge-economy-is-over-welcome-to-the-allocation-economy#)
+- [Tesla Employees Using Vehicle Cameras to Spy on &#39;Private Scenes;&#39; Owners Suing](https://www.motorbiscuit.com/tesla-employees-using-vehicle-cameras-to-spy-on-private-scenes-owners-suing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
