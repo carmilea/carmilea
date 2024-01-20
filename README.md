@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung Joins Apple and Adobe in Supporting JPEG XL](https://r2.community.samsung.com/t5/CamCyclopedia/Introducing-the-Galaxy-S24-Camera-Gallery/ba-p/15350511)
+- [An American helped Iceland fix its teen substance abuse problem](https://www.wbur.org/hereandnow/2017/03/09/iceland-teen-substance-abuse)
+- [On Leibniz Notation](https://math.stackexchange.com/questions/3266639/notation-for-partial-derivative-of-functions-of-functions)
 - [Starlite](https://en.wikipedia.org/wiki/Starlite)
 - [Most Earth system models are missing element of future climate puzzle](https://phys.org/news/2024-01-earth-key-piece-future-climate.html)
 - [Vint Cerf is accumulating Dave Mills stories](https://docs.google.com/document/d/1XU6Fn5rFeJLO4mIBSa9e8V8BIDwafI0Lvlmi4gQwcmE/edit?usp=sharing)
-- [We saw a Pi running underwater at CES in Las Vegas](https://www.raspberrypi.com/news/we-saw-a-pi-running-underwater-at-ces-in-las-vegas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
