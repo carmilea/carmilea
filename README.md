@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Retired teacher&#39;s pension stopped as provider refuses to believe she is not dead](https://www.theguardian.com/money/2024/jan/20/retired-teachers-pension-stopped-as-provider-refuses-to-believe-she-is-not-dead)
 - [Pipeline-Oriented Programming [video]](https://www.youtube.com/watch?v=ipceTuJlw-M)
-- [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
-- [VNote: A pleasant note-taking platform](https://app.vnote.fun/en_us/)
-- [On Leibniz Notation](https://math.stackexchange.com/questions/3266639/notation-for-partial-derivative-of-functions-of-functions)
-- [Starlite](https://en.wikipedia.org/wiki/Starlite)
+- [Why are Teslas&#39; batteries dying in the cold?](https://www.theguardian.com/technology/2024/jan/19/tesla-battery-dying-cold-weather-charging-winter)
+- [The revenge of Unicode](https://eclecticlight.co/2024/01/20/the-revenge-of-unicode/)
+- [Show HN: FaceSwap.Beauty – a face swap tool online](https://www.faceswap.beauty)
 <!-- BLOG-POST-LIST:END -->
 
 ---
