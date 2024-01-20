@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How fast can you validate UTF-8 strings in JavaScript?](https://lemire.me/blog/2023/12/05/how-fast-can-you-validate-utf-8-strings-in-javascript/)
+- [GraphQL and the Beads on a String](https://blog.luccasiau.com/p/graphql-and-the-beads-on-a-string)
+- [Show HN: Checkmate Champ – a training tool for chess tactics](https://www.checkmatechamp.net/)
 - [1,100 Declassified U.S. Nuclear Targets](https://futureoflife.org/resource/us-nuclear-targets/)
-- [Companies Make It Too Easy for Thieves to Impersonate Police and Steal Our Data](https://www.eff.org/deeplinks/2024/01/companies-make-it-too-easy-thieves-impersonate-police-and-steal-our-data)
-- [Non-explosive demolition agents](https://en.wikipedia.org/wiki/Non-explosive_demolition_agents)
-- [The possibility of making money from shredded banknotes using computer vision](https://arxiv.org/abs/2401.06133)
+- [Companies make it too easy for thieves to impersonate police and steal data](https://www.eff.org/deeplinks/2024/01/companies-make-it-too-easy-thieves-impersonate-police-and-steal-our-data)
+- [The insides of pro bowling balls &lpar;2020&rpar;](https://www.popsci.com/story/technology/bowling-ball-insides-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
