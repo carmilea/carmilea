@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pipeline-Oriented Programming [video]](https://www.youtube.com/watch?v=ipceTuJlw-M)
 - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 - [VNote: A pleasant note-taking platform](https://app.vnote.fun/en_us/)
 - [On Leibniz Notation](https://math.stackexchange.com/questions/3266639/notation-for-partial-derivative-of-functions-of-functions)
 - [Starlite](https://en.wikipedia.org/wiki/Starlite)
-- [Most Earth system models are missing element of future climate puzzle](https://phys.org/news/2024-01-earth-key-piece-future-climate.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
