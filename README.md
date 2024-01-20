@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open source Spotify client that doesn&#39;t require Premium nor uses Electron](https://github.com/KRTirtho/spotube)
-- [Convicted murderer, filesystem creator writes of regrets to Linux list](https://arstechnica.com/gadgets/2024/01/convicted-murderer-filesystem-creator-writes-of-regrets-to-linux-list/)
-- [Retired teacher&#39;s pension stopped as provider refuses to believe she is not dead](https://www.theguardian.com/money/2024/jan/20/retired-teachers-pension-stopped-as-provider-refuses-to-believe-she-is-not-dead)
-- [Pipeline-Oriented Programming [video]](https://www.youtube.com/watch?v=ipceTuJlw-M)
-- [Why are Teslas&#39; batteries dying in the cold?](https://www.theguardian.com/technology/2024/jan/19/tesla-battery-dying-cold-weather-charging-winter)
+- [Thousands of small businesses  are struggling because of R&amp;D amortization](https://twitter.com/mjwhansen/status/1748345492998696961)
+- [Pratt Parsers: Expression Parsing Made Easy &lpar;2011&rpar;](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
+- [TSMC 2nm Update: Two Fabs in Construction, One Awaiting Government Approval](https://www.anandtech.com/show/21241/tsmc-2nm-update-two-fabs-in-construction-one-awaiting-government-approval)
+- [Amazon has taken down the Sad Bastard Cookbook](https://wandering.shop/@youseeatortoise/111782434593735690)
+- [Tour of new custom M1 macOS runners racks with Christina Warren [video]](https://www.youtube.com/watch?v=I2J2MzKjcqY)
 <!-- BLOG-POST-LIST:END -->
 
 ---
