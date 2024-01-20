@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Please don&#39;t make me use another QR code restaurant menu](https://thewalrus.ca/qr-code-restaurant-menu/)
+- [Old&#39;aVista, a Guide to the Old Internet](https://oldavista.com/)
+- [Netflix Documentaries Are Hits. Scientists Hate Them](https://www.wsj.com/science/netflix-ancient-apocalypse-cave-of-bones-science-documentary-debate-df63f403)
+- [Efficient LLM inference solution on Intel GPU](https://arxiv.org/abs/2401.05391)
 - [Strada &lpar;YC S23&rpar; Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/strada/jobs/aqkxghT-founding-engineer-full-stack)
-- [The web will be Vision Pro&#39;s killer app](https://www.theverge.com/2024/1/20/24044343/apple-vision-pro-safari-killer-app)
-- [For a moment there, Lotus Notes appeared to do everything a company needed](https://www.theregister.com/2024/01/19/remembering_lotus_notes/)
-- [I literally spoke with Nvidia&#39;s AI-powered video game NPCs](https://www.theverge.com/24031687/nvidia-ai-npcs-convai-ces-2023)
-- [Emergency-Hired Teachers Without Degrees as Effective as Licensed Educators](https://www.the74million.org/article/emergency-hired-teachers-do-just-as-well-as-those-who-go-through-normal-training/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
