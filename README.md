@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Strada &lpar;YC S23&rpar; Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/strada/jobs/aqkxghT-founding-engineer-full-stack)
+- [The web will be Vision Pro&#39;s killer app](https://www.theverge.com/2024/1/20/24044343/apple-vision-pro-safari-killer-app)
+- [For a moment there, Lotus Notes appeared to do everything a company needed](https://www.theregister.com/2024/01/19/remembering_lotus_notes/)
+- [I literally spoke with Nvidia&#39;s AI-powered video game NPCs](https://www.theverge.com/24031687/nvidia-ai-npcs-convai-ces-2023)
 - [Emergency-Hired Teachers Without Degrees as Effective as Licensed Educators](https://www.the74million.org/article/emergency-hired-teachers-do-just-as-well-as-those-who-go-through-normal-training/)
-- [Ubisoft Says Out Loud: We Want People to Get Used to Not Owning What They Bought](https://www.techdirt.com/2024/01/19/ubisoft-says-it-out-loud-we-want-people-to-get-used-to-not-owning-what-theyve-bought/)
-- [Google search is losing the fight with SEO spam](https://arstechnica.com/gadgets/2024/01/google-search-is-losing-the-fight-with-seo-spam-study-says/)
-- [Lee Kuan Yew on Malta](https://www.karlsnotes.com/lee-kuan-yew-on-malta/)
-- [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
