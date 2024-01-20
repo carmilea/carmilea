@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lee Kuan Yew on Malta](https://www.karlsnotes.com/lee-kuan-yew-on-malta/)
+- [Why strive? Stephen Fry reads Nick Cave&#39;s letter on the threat of AI [video]](https://aeon.co/videos/why-strive-stephen-fry-reads-nick-caves-letter-on-the-threat-of-computed-creativity)
+- [Russia has started indiscriminately blocking all OpenVPN/WireGuard connections](https://news.ycombinator.com/item?id=39067213)
 - [Thousands of small businesses  are struggling because of R&amp;D amortization](https://twitter.com/mjwhansen/status/1748345492998696961)
-- [Pratt Parsers: Expression Parsing Made Easy &lpar;2011&rpar;](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
-- [TSMC 2nm Update: Two Fabs in Construction, One Awaiting Government Approval](https://www.anandtech.com/show/21241/tsmc-2nm-update-two-fabs-in-construction-one-awaiting-government-approval)
-- [Amazon has taken down the Sad Bastard Cookbook](https://wandering.shop/@youseeatortoise/111782434593735690)
-- [Tour of new custom M1 macOS runners racks with Christina Warren [video]](https://www.youtube.com/watch?v=I2J2MzKjcqY)
+- [The Knowledge Economy Is Over. Welcome to the Allocation Economy](https://every.to/chain-of-thought/the-knowledge-economy-is-over-welcome-to-the-allocation-economy#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
