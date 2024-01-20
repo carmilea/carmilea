@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An American helped Iceland fix its teen substance abuse problem](https://www.wbur.org/hereandnow/2017/03/09/iceland-teen-substance-abuse)
+- [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 - [On Leibniz Notation](https://math.stackexchange.com/questions/3266639/notation-for-partial-derivative-of-functions-of-functions)
 - [Starlite](https://en.wikipedia.org/wiki/Starlite)
 - [Most Earth system models are missing element of future climate puzzle](https://phys.org/news/2024-01-earth-key-piece-future-climate.html)
