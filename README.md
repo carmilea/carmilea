@@ -59,8 +59,8 @@
 - [Ask HN: Can the black border atop the HN mourning header link to who died?](https://news.ycombinator.com/item?id=39063870)
 - [Vint Cerf is accumulating Dave Mills stories](https://docs.google.com/document/d/1XU6Fn5rFeJLO4mIBSa9e8V8BIDwafI0Lvlmi4gQwcmE/edit?usp=sharing)
 - [We saw a Pi running underwater at CES in Las Vegas](https://www.raspberrypi.com/news/we-saw-a-pi-running-underwater-at-ces-in-las-vegas/)
+- [Textart.sh](https://textart.sh)
 - [Snowcraft – Building a Lego Snowfort from giant Lego snow-bricks](https://www.verandavikings.com/blog/building-lego-iglos)
-- [What&#39;s that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
