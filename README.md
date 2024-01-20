@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nightshade: A Defensive Tool for Artists Against AI Art Generators](https://nightshade.cs.uchicago.edu/whatis.html)
+- [Emergency-Hired Teachers Without Degrees as Effective as Licensed Educators](https://www.the74million.org/article/emergency-hired-teachers-do-just-as-well-as-those-who-go-through-normal-training/)
+- [Ubisoft Says Out Loud: We Want People to Get Used to Not Owning What They Bought](https://www.techdirt.com/2024/01/19/ubisoft-says-it-out-loud-we-want-people-to-get-used-to-not-owning-what-theyve-bought/)
+- [Google search is losing the fight with SEO spam](https://arstechnica.com/gadgets/2024/01/google-search-is-losing-the-fight-with-seo-spam-study-says/)
 - [Lee Kuan Yew on Malta](https://www.karlsnotes.com/lee-kuan-yew-on-malta/)
 - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn)
-- [Russia has started indiscriminately blocking all OpenVPN/WireGuard connections](https://news.ycombinator.com/item?id=39067213)
-- [Tesla Employees Using Vehicle Cameras to Spy on &#39;Private Scenes;&#39; Owners Suing](https://www.motorbiscuit.com/tesla-employees-using-vehicle-cameras-to-spy-on-private-scenes-owners-suing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
