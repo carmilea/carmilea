@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
+- [VNote: A pleasant note-taking platform](https://app.vnote.fun/en_us/)
 - [On Leibniz Notation](https://math.stackexchange.com/questions/3266639/notation-for-partial-derivative-of-functions-of-functions)
 - [Starlite](https://en.wikipedia.org/wiki/Starlite)
 - [Most Earth system models are missing element of future climate puzzle](https://phys.org/news/2024-01-earth-key-piece-future-climate.html)
-- [Vint Cerf is accumulating Dave Mills stories](https://docs.google.com/document/d/1XU6Fn5rFeJLO4mIBSa9e8V8BIDwafI0Lvlmi4gQwcmE/edit?usp=sharing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
