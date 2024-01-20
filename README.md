@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source Spotify client that doesn&#39;t require Premium nor uses Electron](https://github.com/KRTirtho/spotube)
+- [Convicted murderer, filesystem creator writes of regrets to Linux list](https://arstechnica.com/gadgets/2024/01/convicted-murderer-filesystem-creator-writes-of-regrets-to-linux-list/)
 - [Retired teacher&#39;s pension stopped as provider refuses to believe she is not dead](https://www.theguardian.com/money/2024/jan/20/retired-teachers-pension-stopped-as-provider-refuses-to-believe-she-is-not-dead)
 - [Pipeline-Oriented Programming [video]](https://www.youtube.com/watch?v=ipceTuJlw-M)
 - [Why are Teslas&#39; batteries dying in the cold?](https://www.theguardian.com/technology/2024/jan/19/tesla-battery-dying-cold-weather-charging-winter)
-- [The revenge of Unicode](https://eclecticlight.co/2024/01/20/the-revenge-of-unicode/)
-- [Show HN: FaceSwap.Beauty – a face swap tool online](https://www.faceswap.beauty)
 <!-- BLOG-POST-LIST:END -->
 
 ---
