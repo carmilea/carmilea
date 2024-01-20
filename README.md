@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Many AI researchers think fakes will become undetectable](https://www.economist.com/science-and-technology/2024/01/17/many-ai-researchers-think-fakes-will-become-undetectable)
-- [Investigating a Vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
-- [NASA has lost contact with the Ingenuity helicopter on Mars](https://www.space.com/nasa-loses-contact-ingenuity-mars-helicopter)
-- [Please don&#39;t make me use another QR code restaurant menu](https://thewalrus.ca/qr-code-restaurant-menu/)
-- [Challenging the credibility of two recent Netflix documentaries](https://www.wsj.com/science/netflix-ancient-apocalypse-cave-of-bones-science-documentary-debate-df63f403)
+- [Qualcomm&#39;s Adreno 530, a Small Mobile iGPU](https://chipsandcheese.com/2024/01/20/inside-qualcomms-adreno-530-a-small-mobile-igpu/)
+- [Companies Make It Too Easy for Thieves to Impersonate Police and Steal Our Data](https://www.eff.org/deeplinks/2024/01/companies-make-it-too-easy-thieves-impersonate-police-and-steal-our-data)
+- [A proposal for the next version of C [pdf]](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3176.pdf)
+- [Can one make $138,000 HK from shredded banknote pieces using computer vision?](https://arxiv.org/abs/2401.06133)
+- [Top Cybersecurity watchdog issues emergency Ivanti directive to federal agencies](https://www.nbcnews.com/tech/security/cisa-issues-emergency-directive-federal-agencies-connect-secure-softwa-rcna134844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
