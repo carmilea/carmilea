@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Qualcomm&#39;s Adreno 530, a Small Mobile iGPU](https://chipsandcheese.com/2024/01/20/inside-qualcomms-adreno-530-a-small-mobile-igpu/)
+- [How fast can you validate UTF-8 strings in JavaScript?](https://lemire.me/blog/2023/12/05/how-fast-can-you-validate-utf-8-strings-in-javascript/)
+- [1,100 Declassified U.S. Nuclear Targets](https://futureoflife.org/resource/us-nuclear-targets/)
 - [Companies Make It Too Easy for Thieves to Impersonate Police and Steal Our Data](https://www.eff.org/deeplinks/2024/01/companies-make-it-too-easy-thieves-impersonate-police-and-steal-our-data)
-- [A proposal for the next version of C [pdf]](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3176.pdf)
-- [Can one make $138,000 HK from shredded banknote pieces using computer vision?](https://arxiv.org/abs/2401.06133)
-- [Top Cybersecurity watchdog issues emergency Ivanti directive to federal agencies](https://www.nbcnews.com/tech/security/cisa-issues-emergency-directive-federal-agencies-connect-secure-softwa-rcna134844)
+- [Non-explosive demolition agents](https://en.wikipedia.org/wiki/Non-explosive_demolition_agents)
+- [The possibility of making money from shredded banknotes using computer vision](https://arxiv.org/abs/2401.06133)
 <!-- BLOG-POST-LIST:END -->
 
 ---
