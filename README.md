@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Many AI researchers think fakes will become undetectable](https://www.economist.com/science-and-technology/2024/01/17/many-ai-researchers-think-fakes-will-become-undetectable)
+- [Investigating a Vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
+- [NASA has lost contact with the Ingenuity helicopter on Mars](https://www.space.com/nasa-loses-contact-ingenuity-mars-helicopter)
 - [Please don&#39;t make me use another QR code restaurant menu](https://thewalrus.ca/qr-code-restaurant-menu/)
-- [Old&#39;aVista, a Guide to the Old Internet](https://oldavista.com/)
-- [Netflix Documentaries Are Hits. Scientists Hate Them](https://www.wsj.com/science/netflix-ancient-apocalypse-cave-of-bones-science-documentary-debate-df63f403)
-- [Efficient LLM inference solution on Intel GPU](https://arxiv.org/abs/2401.05391)
-- [Strada &lpar;YC S23&rpar; Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/strada/jobs/aqkxghT-founding-engineer-full-stack)
+- [Challenging the credibility of two recent Netflix documentaries](https://www.wsj.com/science/netflix-ancient-apocalypse-cave-of-bones-science-documentary-debate-df63f403)
 <!-- BLOG-POST-LIST:END -->
 
 ---
