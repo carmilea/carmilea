@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
+- [Hackers breached Microsoft to find out what Microsoft knows about them](https://techcrunch.com/2024/01/19/hackers-breached-microsoft-to-find-out-what-microsoft-knows-about-them/)
 - [The bane of my existence: Supporting both async and sync code in Rust](https://nullderef.com/blog/rust-async-sync/)
-- [Knockoff Iranian drone sold on Alibaba was meant for war, documents show](https://www.vice.com/en/article/3akeqk/knockoff-iranian-drone-sold-on-alibaba-was-meant-for-war-documents-show)
-- [A pair of DeepMind scientists talking with investors about forming an AI startup](https://www.bloomberg.com/news/articles/2024-01-19/google-deepmind-ai-scientists-in-talks-to-leave-for-french-stealth-startup)
+- [Platform issues which disadvantage Firefox compared to first-party browsers](https://mozilla.github.io/platform-tilt/)
 - [US government opens 22M acres of federal lands to solar](https://electrek.co/2024/01/18/us-govt-opens-22-million-acres-federal-lands-solar/)
-- [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
