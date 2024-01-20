@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Will Meta-frameworks kill normal frameworks?](https://news.ycombinator.com/item?id=39073295)
+- [Harvard morgue theft ring stole body parts, sold brains, flesh-&gt;leather](https://www.nbcnews.com/news/us-news/4-charged-stealing-selling-human-body-parts-harvard-medical-school-mor-rcna89357)
+- [Show HN: I built presently.live for better weekend planning and insights](https://presently.live/)
 - [GraphQL and the Beads on a String](https://blog.luccasiau.com/p/graphql-and-the-beads-on-a-string)
-- [Show HN: Checkmate Champ – a training tool for chess tactics](https://www.checkmatechamp.net/)
-- [1,100 Declassified U.S. Nuclear Targets](https://futureoflife.org/resource/us-nuclear-targets/)
-- [Companies make it too easy for thieves to impersonate police and steal data](https://www.eff.org/deeplinks/2024/01/companies-make-it-too-easy-thieves-impersonate-police-and-steal-our-data)
-- [The insides of pro bowling balls &lpar;2020&rpar;](https://www.popsci.com/story/technology/bowling-ball-insides-photos/)
+- [Neatroff – a new implementation of the Troff typesetting system [pdf]](http://litcave.rudi.ir/neatroff.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
