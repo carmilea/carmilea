@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Can the black border atop the HN mourning header link to who died?](https://news.ycombinator.com/item?id=39063870)
+- [The Final Nail in Psychiatry&#39;s Antidepressant Coffin](https://www.counterpunch.org/2024/01/17/scientific-misconduct-and-fraud-the-final-nail-in-psychiatrys-antidepressant-coffin/)
+- [Americans are feeling much better about the economy thanks to slowing inflation](https://www.cnn.com/2024/01/19/economy/americans-are-feeling-much-better-thanks-to-slowing-inflation/index.html)
+- [Starlite](https://en.wikipedia.org/wiki/Starlite)
+- [Most Earth system models are missing element of future climate puzzle](https://phys.org/news/2024-01-earth-key-piece-future-climate.html)
 - [Vint Cerf is accumulating Dave Mills stories](https://docs.google.com/document/d/1XU6Fn5rFeJLO4mIBSa9e8V8BIDwafI0Lvlmi4gQwcmE/edit?usp=sharing)
-- [We saw a Pi running underwater at CES in Las Vegas](https://www.raspberrypi.com/news/we-saw-a-pi-running-underwater-at-ces-in-las-vegas/)
-- [Textart.sh](https://textart.sh)
-- [Snowcraft – Building a Lego Snowfort from giant Lego snow-bricks](https://www.verandavikings.com/blog/building-lego-iglos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
