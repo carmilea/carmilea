@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Will Meta-frameworks kill normal frameworks?](https://news.ycombinator.com/item?id=39073295)
-- [Harvard morgue theft ring stole body parts, sold brains, flesh-&gt;leather](https://www.nbcnews.com/news/us-news/4-charged-stealing-selling-human-body-parts-harvard-medical-school-mor-rcna89357)
-- [Show HN: I built presently.live for better weekend planning and insights](https://presently.live/)
-- [GraphQL and the Beads on a String](https://blog.luccasiau.com/p/graphql-and-the-beads-on-a-string)
-- [Neatroff – a new implementation of the Troff typesetting system [pdf]](http://litcave.rudi.ir/neatroff.pdf)
+- [Anime is a $25B industry that pays its animators pennies](https://hitregbroke.com/anime/)
+- [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/)
+- [Brig: A user interface toolkit for Node.js, which is based on Qt for rendering](https://github.com/BrigJS/brig)
+- [How the placenta evolved from an ancient virus &lpar;2020&rpar;](https://whyy.org/segments/the-placenta-went-viral-and-protomammals-were-born/)
+- [What Happened to David Graeber?](https://lareviewofbooks.org/article/what-happened-to-david-graeber/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
