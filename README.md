@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon plans to charge for Alexa in June–unless internal conflict delays revamp](https://arstechnica.com/gadgets/2024/01/alexa-is-in-trouble-paid-for-alexa-gives-inaccurate-answers-in-early-demos/)
 - [Potential Microbiome Links to Skin Aging](https://today.ucsd.edu/story/researchers-discover-potential-microbiome-links-to-skin-aging)
-- [Adult ADHD Is the Wild West of Psychiatry](https://www.theatlantic.com/health/archive/2023/04/adult-adhd-diagnosis-treatment-adderall-shortage/673719/)
+- [Vistex CEO Sanjay Shah dies on stage after freak accident](https://www.news.com.au/finance/work/leaders/tech-boss-sanjay-shah-plunges-to-his-death-after-freak-accident-on-stage/news-story/751f3f155fb58a9c349974bbcf0f9764)
+- [Houthi anti-ship missile systems: getting better all the time](https://www.iiss.org/online-analysis/military-balance/2024/01/houthi-anti-ship-missile-systems-getting-better-all-the-time/)
 - [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
-- [Common Lisp&#39;s Block / Return-From and Unwind-Protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
-- [Anime is a $25B industry that pays its animators pennies](https://hitregbroke.com/anime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
