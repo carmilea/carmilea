@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Potential Microbiome Links to Skin Aging](https://today.ucsd.edu/story/researchers-discover-potential-microbiome-links-to-skin-aging)
+- [Adult ADHD Is the Wild West of Psychiatry](https://www.theatlantic.com/health/archive/2023/04/adult-adhd-diagnosis-treatment-adderall-shortage/673719/)
 - [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
 - [Common Lisp&#39;s Block / Return-From and Unwind-Protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
-- [&#39;I Almost Sound Like a Crazy Person, but I Think It Is a Superconductor&#39;](https://nymag.com/intelligencer/2024/01/theres-a-new-superconductor-claim-out-of-china-is-it-real.html)
 - [Anime is a $25B industry that pays its animators pennies](https://hitregbroke.com/anime/)
-- [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
