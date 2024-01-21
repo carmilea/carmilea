@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI suspends bot developer for presidential hopeful Dean Phillips](https://www.washingtonpost.com/technology/2024/01/20/openai-dean-phillips-ban-chatgpt/)
-- [FreeBSD evaluating Rust&#39;s adoption into base system](https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers)
-- [American society wasn&#39;t always so car-centric. Our future doesn&#39;t have to be](https://yaleclimateconnections.org/2023/10/american-society-wasnt-always-so-car-centric-our-future-doesnt-have-to-be-either/)
+- [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
+- [Military interests are pushing new nuclear power; UK gov finally admits it](https://theconversation.com/military-interests-are-pushing-new-nuclear-power-and-the-uk-government-has-finally-admitted-it-216118)
+- [The Case for Rust in the base system](https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers)
+- [The lazy technologist&#39;s guide to weight loss](https://dberkholz.com/2024/01/17/the-lazy-technologists-guide-to-weight-loss/)
 - [Huawei claims HarmonyOS NEXT kernel is more efficient than Linux](https://www.notebookcheck.net/Huawei-claims-HarmonyOS-NEXT-kernel-is-3x-more-efficient-than-Linux.795125.0.html)
-- [&#39;Cozy&#39; relationship between Boeing and U.S. draws scrutiny amid 737 MAX 9 mess](https://text.npr.org/1225466035)
 <!-- BLOG-POST-LIST:END -->
 
 ---
