@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Bitcoin Social Network](https://bitcointalk.org/index.php?topic=5482476.0)
 - [Meticulous &lpar;YC S21&rpar; is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
 - [Textanalysistool.net](https://textanalysistool.github.io/)
-- [DeepMind Co-Founder: AI Is Fundamentally a &quot;Labor Replacing Tool&quot;](https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340)
 - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
 - [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
 <!-- BLOG-POST-LIST:END -->
