@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
-- [Startups tend to have 3 generations of employees](https://twitter.com/Carnage4Life/status/1748830596284195238)
+- [Common Lisp&#39;s Block / Return-From and Unwind-Protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
+- [&#39;I Almost Sound Like a Crazy Person, but I Think It Is a Superconductor&#39;](https://nymag.com/intelligencer/2024/01/theres-a-new-superconductor-claim-out-of-china-is-it-real.html)
 - [Anime is a $25B industry that pays its animators pennies](https://hitregbroke.com/anime/)
 - [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/)
-- [The Underhanded C Contest](http://www.underhanded-c.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
