@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Langfuse &lpar;YC W23&rpar; Is Hiring a Founding Engineer in Berlin &lpar;LLM Observability&rpar;](https://www.workatastartup.com/jobs/62929)
-- [Research: The Growing Inequality of Who Gets to Work from Home](https://hbr.org/2023/12/research-the-growing-inequality-of-who-gets-to-work-from-home)
-- [Amazon plans to charge for Alexa in June–unless internal conflict delays revamp](https://arstechnica.com/gadgets/2024/01/alexa-is-in-trouble-paid-for-alexa-gives-inaccurate-answers-in-early-demos/)
-- [Collision Detection](https://www.jeffreythompson.org/collision-detection/index.php)
+- [The growing inequality of who gets to work from home](https://hbr.org/2023/12/research-the-growing-inequality-of-who-gets-to-work-from-home)
+- [Collision Detection &lpar;2015&rpar;](https://www.jeffreythompson.org/collision-detection/index.php)
 - [Use Midnight Commander like a pro &lpar;2015&rpar;](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/)
+- [Vistex CEO Sanjay Shah dies on stage after freak accident](https://www.news.com.au/finance/work/leaders/tech-boss-sanjay-shah-plunges-to-his-death-after-freak-accident-on-stage/news-story/751f3f155fb58a9c349974bbcf0f9764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
