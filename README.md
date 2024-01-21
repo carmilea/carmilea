@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
+- [Startups tend to have 3 generations of employees](https://twitter.com/Carnage4Life/status/1748830596284195238)
 - [Anime is a $25B industry that pays its animators pennies](https://hitregbroke.com/anime/)
 - [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/)
-- [Brig: A user interface toolkit for Node.js, which is based on Qt for rendering](https://github.com/BrigJS/brig)
-- [How the placenta evolved from an ancient virus &lpar;2020&rpar;](https://whyy.org/segments/the-placenta-went-viral-and-protomammals-were-born/)
-- [What Happened to David Graeber?](https://lareviewofbooks.org/article/what-happened-to-david-graeber/)
+- [The Underhanded C Contest](http://www.underhanded-c.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
