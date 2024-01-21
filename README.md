@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Augmenting the Markdown Language for Great Python Graphical Interfaces](https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces)
 - [Marketing for Product-Obsessed Developers](https://marclou.beehiiv.com/p/marketing-for-product-obsessed-developers)
+- [Which command did you run 1731 days ago?](https://registerspill.thorstenball.com/p/which-command-did-you-run-1731-days)
 - [Langfuse &lpar;YC W23&rpar; Is Hiring a Founding Engineer in Berlin &lpar;LLM Observability&rpar;](https://www.workatastartup.com/jobs/62929)
-- [The growing inequality of who gets to work from home](https://hbr.org/2023/12/research-the-growing-inequality-of-who-gets-to-work-from-home)
 - [Collision Detection &lpar;2015&rpar;](https://www.jeffreythompson.org/collision-detection/index.php)
-- [Use Midnight Commander like a pro &lpar;2015&rpar;](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
