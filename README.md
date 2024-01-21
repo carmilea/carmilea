@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Google Is Tracking You Even in Incognito Mode, New Disclaimer Is Up](https://news.abplive.com/technology/google-incognito-new-disclaimer-canary-version-you-are-being-tracked-even-in-google-incognito-mode-new-disclaimer-is-up-privacy-lawsuit-1658159)
-- [Password may not contain: select, insert, update, delete, drop](https://id.uni-lj.si/DigitalnaIdentiteta/PonastavitevGesla?culture=en-GB)
-- [&#39;Canada Is a Video Piracy Hotspot While Brazil Sees Piracy in Decline&#39;](https://torrentfreak.com/canada-is-a-video-piracy-hotspot-while-brazil-shows-positive-signs-240121/)
 - [Some fish live beyond 100 – and get healthier as they age](https://www.nationalgeographic.com/premium/article/buffalofish-oldest-hundred-years-mystery)
 - [Lessons learned from bringing promotional sweets to a conference](https://shkspr.mobi/blog/2024/01/lessons-learned-from-bringing-promotional-sweets-to-a-conference/)
+- [Remembering Bell Labs as legendary idea factory prepares to leave N.J. home](https://www.nj.com/essex/2024/01/remembering-bell-labs-as-legendary-idea-factory-prepares-to-leave-nj-home.html)
+- [PU-239](https://electricliterature.com/pu-239-ken-kalfus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
