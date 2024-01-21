@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Non-London Universities in London](http://diamondgeezer.blogspot.com/2024/01/non-london-universities-in-london.html)
 - [Augmenting the Markdown Language for Great Python Graphical Interfaces](https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces)
 - [Marketing for Product-Obsessed Developers](https://marclou.beehiiv.com/p/marketing-for-product-obsessed-developers)
 - [Which command did you run 1731 days ago?](https://registerspill.thorstenball.com/p/which-command-did-you-run-1731-days)
 - [Langfuse &lpar;YC W23&rpar; Is Hiring a Founding Engineer in Berlin &lpar;LLM Observability&rpar;](https://www.workatastartup.com/jobs/62929)
-- [Collision Detection &lpar;2015&rpar;](https://www.jeffreythompson.org/collision-detection/index.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
