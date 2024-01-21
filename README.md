@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
+- [Google has no visionary leaders and a pervasive sense of nihilism](https://twitter.com/buccocapital/status/1749083246091026457)
 - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
-- [Military interests are pushing new nuclear power; UK gov finally admits it](https://theconversation.com/military-interests-are-pushing-new-nuclear-power-and-the-uk-government-has-finally-admitted-it-216118)
+- [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
 - [The Case for Rust in the base system](https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers)
-- [The lazy technologist&#39;s guide to weight loss](https://dberkholz.com/2024/01/17/the-lazy-technologists-guide-to-weight-loss/)
-- [Huawei claims HarmonyOS NEXT kernel is more efficient than Linux](https://www.notebookcheck.net/Huawei-claims-HarmonyOS-NEXT-kernel-is-3x-more-efficient-than-Linux.795125.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
