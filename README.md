@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Is Tracking You Even in Incognito Mode, New Disclaimer Is Up](https://news.abplive.com/technology/google-incognito-new-disclaimer-canary-version-you-are-being-tracked-even-in-google-incognito-mode-new-disclaimer-is-up-privacy-lawsuit-1658159)
-- [Some fish live beyond 100 – and get healthier as they age](https://www.nationalgeographic.com/premium/article/buffalofish-oldest-hundred-years-mystery)
-- [Lessons learned from bringing promotional sweets to a conference](https://shkspr.mobi/blog/2024/01/lessons-learned-from-bringing-promotional-sweets-to-a-conference/)
-- [Remembering Bell Labs as legendary idea factory prepares to leave N.J. home](https://www.nj.com/essex/2024/01/remembering-bell-labs-as-legendary-idea-factory-prepares-to-leave-nj-home.html)
-- [PU-239](https://electricliterature.com/pu-239-ken-kalfus/)
+- [Free and Open Source Alternative to Airdrop](https://www.sharedrop.io/)
+- [A Woman Who Spent Five Hundred Days in a Cave](https://www.newyorker.com/magazine/2024/01/29/the-woman-who-spent-five-hundred-days-in-a-cave)
+- [&#39;God&#39; is the average opinion of your tribe](https://shunyaekam.com/essays/god-is-the-mean-opinion-of-your-tribe)
+- [A QA engineer walks into a bar](https://twitter.com/brenankeller/status/1068615953989087232)
+- [NASA regains contact with mini-helicopter on Mars](https://phys.org/news/2024-01-nasa-regains-contact-mini-helicopter.amp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
