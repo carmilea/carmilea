@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Meticulous &lpar;YC S21&rpar; is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
-- [Google has no visionary leaders and a pervasive sense of nihilism](https://twitter.com/buccocapital/status/1749083246091026457)
+- [Textanalysistool.net](https://textanalysistool.github.io/)
+- [DeepMind Co-Founder: AI Is Fundamentally a &quot;Labor Replacing Tool&quot;](https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340)
 - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
 - [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
-- [The Case for Rust in the base system](https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
