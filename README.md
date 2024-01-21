@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Non-London Universities in London](http://diamondgeezer.blogspot.com/2024/01/non-london-universities-in-london.html)
-- [Augmenting the Markdown Language for Great Python Graphical Interfaces](https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces)
-- [Marketing for Product-Obsessed Developers](https://marclou.beehiiv.com/p/marketing-for-product-obsessed-developers)
-- [Which command did you run 1731 days ago?](https://registerspill.thorstenball.com/p/which-command-did-you-run-1731-days)
-- [Langfuse &lpar;YC W23&rpar; Is Hiring a Founding Engineer in Berlin &lpar;LLM Observability&rpar;](https://www.workatastartup.com/jobs/62929)
+- [Why is everything so ugly?](https://www.nplusonemag.com/issue-44/the-intellectual-situation/why-is-everything-so-ugly/#rf1-34098)
+- [Show HN: Pfuzz, a web fuzzer following the Unix philosophy](https://github.com/codesoap/pfuzz)
+- [Boehm-Demers-Weiser conservative C/C++ Garbage Collector](https://hboehm.info/gc/)
+- [Show HN: Nutrient insights through your grocery receipts](https://nutri.adrianstobbe.com/)
+- [I believe bestselling author Mark Dawson is a serial plagiarist](https://old.reddit.com/r/books/comments/18n30jn/i_believe_bestselling_author_mark_dawson_is_a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
