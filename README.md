@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gamers at risk of irreversible hearing loss and tinnitus, study suggests](https://www.bbc.com/news/technology-68004968)
-- [All the garbage I found on Substack in 1 hour](https://badnewsletter.substack.com/p/all-the-garbage-i-found-on-substack)
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39080224)
-- [The Ozempic Plateau](https://www.theatlantic.com/health/archive/2024/01/why-you-will-stop-losing-weight-ozempic/677148/)
-- [On the Dimensionality of Spacetime [pdf]](https://space.mit.edu/home/tegmark/dimensions.pdf)
+- [OpenAI suspends bot developer for presidential hopeful Dean Phillips](https://www.washingtonpost.com/technology/2024/01/20/openai-dean-phillips-ban-chatgpt/)
+- [FreeBSD evaluating Rust&#39;s adoption into base system](https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers)
+- [American society wasn&#39;t always so car-centric. Our future doesn&#39;t have to be](https://yaleclimateconnections.org/2023/10/american-society-wasnt-always-so-car-centric-our-future-doesnt-have-to-be-either/)
+- [Huawei claims HarmonyOS NEXT kernel is more efficient than Linux](https://www.notebookcheck.net/Huawei-claims-HarmonyOS-NEXT-kernel-is-3x-more-efficient-than-Linux.795125.0.html)
+- [&#39;Cozy&#39; relationship between Boeing and U.S. draws scrutiny amid 737 MAX 9 mess](https://text.npr.org/1225466035)
 <!-- BLOG-POST-LIST:END -->
 
 ---
