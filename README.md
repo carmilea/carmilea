@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Amazon plans to charge for Alexa in June–unless internal conflict delays revamp](https://arstechnica.com/gadgets/2024/01/alexa-is-in-trouble-paid-for-alexa-gives-inaccurate-answers-in-early-demos/)
+- [Use Midnight Commander like a pro &lpar;2015&rpar;](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/)
 - [Potential Microbiome Links to Skin Aging](https://today.ucsd.edu/story/researchers-discover-potential-microbiome-links-to-skin-aging)
 - [Vistex CEO Sanjay Shah dies on stage after freak accident](https://www.news.com.au/finance/work/leaders/tech-boss-sanjay-shah-plunges-to-his-death-after-freak-accident-on-stage/news-story/751f3f155fb58a9c349974bbcf0f9764)
-- [Houthi anti-ship missile systems: getting better all the time](https://www.iiss.org/online-analysis/military-balance/2024/01/houthi-anti-ship-missile-systems-getting-better-all-the-time/)
-- [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
+- [Why do we have right-on-red, and is it time to get rid of it?](https://abc7.com/red-light-right-on-traffic-turn/14343661/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
