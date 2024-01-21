@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gamers at risk of irreversible hearing loss and tinnitus, study suggests](https://www.bbc.com/news/technology-68004968)
+- [All the garbage I found on Substack in 1 hour](https://badnewsletter.substack.com/p/all-the-garbage-i-found-on-substack)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39080224)
-- [Artists can poison their pics with deadly Nightshade to deter AI scrapers](https://www.theregister.com/2024/01/20/nightshade_ai_images/)
-- [Learn Datalog Today](https://www.learndatalogtoday.org/)
-- [SVG images can contain JavaScript](https://github.com/berthubert/trifecta/issues/38)
-- [Recommendations for videos/documentaries about building things](https://news.ycombinator.com/item?id=39079542)
+- [The Ozempic Plateau](https://www.theatlantic.com/health/archive/2024/01/why-you-will-stop-losing-weight-ozempic/677148/)
+- [On the Dimensionality of Spacetime [pdf]](https://space.mit.edu/home/tegmark/dimensions.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
