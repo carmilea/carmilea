@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Free and Open Source Alternative to Airdrop](https://www.sharedrop.io/)
-- [A Woman Who Spent Five Hundred Days in a Cave](https://www.newyorker.com/magazine/2024/01/29/the-woman-who-spent-five-hundred-days-in-a-cave)
-- [&#39;God&#39; is the average opinion of your tribe](https://shunyaekam.com/essays/god-is-the-mean-opinion-of-your-tribe)
-- [A QA engineer walks into a bar](https://twitter.com/brenankeller/status/1068615953989087232)
-- [NASA regains contact with mini-helicopter on Mars](https://phys.org/news/2024-01-nasa-regains-contact-mini-helicopter.amp)
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39080224)
+- [Artists can poison their pics with deadly Nightshade to deter AI scrapers](https://www.theregister.com/2024/01/20/nightshade_ai_images/)
+- [Learn Datalog Today](https://www.learndatalogtoday.org/)
+- [SVG images can contain JavaScript](https://github.com/berthubert/trifecta/issues/38)
+- [Recommendations for videos/documentaries about building things](https://news.ycombinator.com/item?id=39079542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
