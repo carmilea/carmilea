@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Doesn&#39;t Require Providing Builds](https://codeengineered.com/blog/2024/open-source-not-builds/)
+- [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
+- [Boeing faces new safety alert over earlier generation of 737s](https://lite.cnn.com/2024/01/22/business/boeing-737-earlier-generation-faa/index.html)
 - [Financial Markets Microstructure Introduction](https://quantfinance.substack.com/p/financial-markets-microstructure)
-- [British man appears in court over bomb joke sent in private message](https://www.bbc.com/news/world-europe-68056421)
-- [My Toddler Still Loves Planes, So I Upgraded Her Radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
+- [My toddler still loves planes, so I upgraded her radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
 - [Performance Analysis of Python&#39;s Dict&lpar;&rpar; and {}](https://madebyme.today/blog/python-dict-vs-curly-brackets/)
 <!-- BLOG-POST-LIST:END -->
 
