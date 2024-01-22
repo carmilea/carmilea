@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Expensive fridges are dying young. Owners are suing, claiming fraud](https://www.nbcbayarea.com/investigations/consumer/expensive-fridges-dying-fraud-claims/3428989/)
-- [New Theory Suggests LLMs Can Understand Text](https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/)
-- [David Graeber: Caring too much. That&#39;s the curse of the working classes](https://theanarchistlibrary.org/library/david-graeber-caring-too-much-that-s-the-curse-of-the-working-classes)
+- [The Forum Interviews: The Future and Ethical Use of AI](https://www.singlestore.com/blog/the-forum-interviews-the-future-and-ethical-use-of-ai)
+- [New theory suggests LLMs can understand text](https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/)
+- [Building a fair multi-tenant queuing system](https://www.inngest.com/blog/building-the-inngest-queue-pt-i-fairness-multi-tenancy)
+- [Cervical Cancer incidence drops 65% in women who benefited from HPV vaccine](https://www.nbcnews.com/health/womens-health/hpv-vaccine-cervical-cancer-rising-women-research-rcna134224)
 - [ThoughtSpot and SingleStore Transform Real-Time Analytics](https://www.singlestore.com/blog/thoughtspot-and-singlestore-transform-real-time-analytics)
-- [Evolution of AI and Amara&#39;s Law](https://n9o.xyz/posts/202401-evolution-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
