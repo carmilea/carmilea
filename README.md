@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI suspends developer over bot that impersonated presidential candidate](https://www.engadget.com/openai-suspends-developer-over-chatgpt-bot-that-impersonated-a-presidential-candidate-214854456.html)
+- [Why isn&#39;t Bluesky a peer-to-peer network?](https://www.pfrazee.com/blog/why-not-p2p)
 - [GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
+- [CSS3D Clouds](https://spite.github.io/CSS3DClouds/)
 - [Boulder VC firm Foundry to shutter after 18 years, 200 investments](https://www.bizjournals.com/denver/news/2024/01/19/boulder-vc-firm-foundry-to-close.html)
 - [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
-- [Substack won&#39;t make you rich](https://albertcory50.substack.com/p/substack-wont-make-you-rich)
 <!-- BLOG-POST-LIST:END -->
 
 ---
