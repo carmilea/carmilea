@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US home sales see worst year since 1995](https://www.bbc.com/news/business-68035274)
+- [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
+- [Substack Won&#39;t Make You Rich](https://albertcory50.substack.com/p/substack-wont-make-you-rich)
+- [Why George Washington&#39;s Statue in London Doesn&#39;t Touch British Soil](https://www.military.com/history/george-washington-statue-london-british-soil.html)
+- [Games don&#39;t need venture capitalism &lpar;or: give Pokemon guns, not term sheets&rpar;](https://iatia.substack.com/p/games-dont-need-venture-capitalism)
 - [Helium is essential but nonrenewable and difficult to recycle](https://theconversation.com/helium-is-an-essential-material-for-research-and-medical-equipment-but-its-nonrenewable-and-difficult-to-recycle-218668)
-- [Scientists discovered perfectly preserved dinosaur embryo inside fossilized egg](https://www.unilad.com/news/world-news/dinosaur-egg-embryo-fossil-213524-20231107)
-- [Fujitsu will not bid for UK.gov business until Post Office inquiry closes](https://www.theregister.com/2024/01/19/fujitsu_pauses_uk_public_sector_contracts/)
-- [Office politics is not optional: learn to play the game or you&#39;ll be its victim](https://www.ft.com/content/a84327c6-f939-480c-925d-19d3f41062bf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
