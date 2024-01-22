@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bitcoin Social Network](https://bitcointalk.org/index.php?topic=5482476.0)
-- [Meticulous &lpar;YC S21&rpar; is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
-- [Textanalysistool.net](https://textanalysistool.github.io/)
-- [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
-- [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
+- [AI Art Is the New Stock Image](https://ia.net/topics/ai-art-is-the-new-stock-image)
+- [Apple to Developers: Heads I win, tails you lose &lpar;part 2&rpar;](https://mobiledevmemo.com/apple-to-developers-heads-i-win-tails-you-lose-part-2/)
+- [Scientists tame chaotic protein fueling 75% of cancers](https://phys.org/news/2024-01-scientists-chaotic-protein-fueling-cancers.html)
+- [Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
+- [Trunk-Based Development](https://trunkbaseddevelopment.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
