@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patterns &lpar;YC S21&rpar; Is Hiring to Automate Analytics with LLMs](https://patterns.app/)
-- [Toronto man uses AirTags to track stolen SUV to Dubai [video]](https://www.youtube.com/watch?v=A3eG8ZbeXeQ)
-- [Woolly mammoth movements tied to earliest Alaska hunting camps](https://www.uaf.edu/news/woolly-mammoth-movements-tied-to-earliest-alaska-hunting-camps.php)
-- [Cutting down AWS cost by $150k per year simply by shutting things off](https://tuananh.net/2024/01/21/cloud-cost-optimization-at-scale-part-1/)
-- [Google cites &#39;durable cost savings&#39; as CEO Sundar Pichai warns of more layoffs](https://nypost.com/2024/01/22/business/google-cites-durable-cost-savings-as-2024-goal-amid-layoffs/)
+- [Expensive fridges are dying young. Owners are suing, claiming fraud](https://www.nbcbayarea.com/investigations/consumer/expensive-fridges-dying-fraud-claims/3428989/)
+- [New Theory Suggests LLMs Can Understand Text](https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/)
+- [David Graeber: Caring too much. That&#39;s the curse of the working classes](https://theanarchistlibrary.org/library/david-graeber-caring-too-much-that-s-the-curse-of-the-working-classes)
+- [ThoughtSpot and SingleStore Transform Real-Time Analytics](https://www.singlestore.com/blog/thoughtspot-and-singlestore-transform-real-time-analytics)
+- [Evolution of AI and Amara&#39;s Law](https://n9o.xyz/posts/202401-evolution-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
