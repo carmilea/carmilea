@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What happens when an astronaut in orbit says he&#39;s not coming back?](https://arstechnica.com/space/2024/01/solving-a-nasa-mystery-why-did-space-shuttle-commanders-lock-the-hatch/)
+- [Let Detroit Go Bankrupt &lpar;2008&rpar;](https://www.nytimes.com/2008/11/19/opinion/19romney.html)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 - [Launch HN: Diversion &lpar;YC S22&rpar; – Cloud-Native Git Alternative](https://news.ycombinator.com/item?id=39088551)
-- [Western firms are quaking as China&#39;s electric-car industry speeds up](https://www.economist.com/briefing/2024/01/11/western-firms-are-quaking-as-chinas-electric-car-industry-speeds-up)
 - [Have the Boomers Pinched Their Children&#39;s Futures? [video]](https://www.youtube.com/watch?v=ZuXzvjBYW8A)
-- [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company)
 <!-- BLOG-POST-LIST:END -->
 
 ---
