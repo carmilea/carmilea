@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Hierarchy Is Fragile and Anarchy Is Antifragile](https://www.youtube.com/watch?v=CZ-FRyUZ3ok)
 - [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company)
+- [Haier Europe Eases Off on Legal Threat and Seeks Dialogue](https://hackaday.com/2024/01/22/haier-europe-eases-off-on-legal-threat-and-seeks-dialogue/)
 - [Reading QR codes without a computer](https://qr.blinry.org/)
 - [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
-- [The Last Days of the Barcode](https://www.theatlantic.com/podcasts/archive/2024/01/the-last-days-of-the-barcode/677185/)
-- [Kayak&#39;s New Flight Filter Allows You to Exclude Aircraft Models](https://www.reddit.com/r/aviation/s/kb3WBpHMFL)
 <!-- BLOG-POST-LIST:END -->
 
 ---
