@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI suspends developer over bot that impersonated presidential candidate](https://www.engadget.com/openai-suspends-developer-over-chatgpt-bot-that-impersonated-a-presidential-candidate-214854456.html)
+- [GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
+- [Boulder VC firm Foundry to shutter after 18 years, 200 investments](https://www.bizjournals.com/denver/news/2024/01/19/boulder-vc-firm-foundry-to-close.html)
 - [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
-- [Substack Won&#39;t Make You Rich](https://albertcory50.substack.com/p/substack-wont-make-you-rich)
-- [Why George Washington&#39;s Statue in London Doesn&#39;t Touch British Soil](https://www.military.com/history/george-washington-statue-london-british-soil.html)
-- [Games don&#39;t need venture capitalism &lpar;or: give Pokemon guns, not term sheets&rpar;](https://iatia.substack.com/p/games-dont-need-venture-capitalism)
-- [Helium is essential but nonrenewable and difficult to recycle](https://theconversation.com/helium-is-an-essential-material-for-research-and-medical-equipment-but-its-nonrenewable-and-difficult-to-recycle-218668)
+- [Substack won&#39;t make you rich](https://albertcory50.substack.com/p/substack-wont-make-you-rich)
 <!-- BLOG-POST-LIST:END -->
 
 ---
