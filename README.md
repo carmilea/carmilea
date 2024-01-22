@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
+- [How to Win Friends and Influence People: The Sam Altman Edition](https://www.businessinsider.com/how-to-win-friends-and-influence-people-sam-altman-edition-2024-1)
 - [Battery-free self-powered sensor harvests magnetic energy](https://news.mit.edu/2024/self-powered-sensor-harvests-magnetic-energy-0118)
 - [Why isn&#39;t Bluesky a peer-to-peer network?](https://www.pfrazee.com/blog/why-not-p2p)
 - [GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
-- [CSS3D Clouds](https://spite.github.io/CSS3DClouds/)
-- [Boulder VC firm Foundry to shutter after 18 years, 200 investments](https://www.bizjournals.com/denver/news/2024/01/19/boulder-vc-firm-foundry-to-close.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
