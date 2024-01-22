@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Native Data Integration Services](https://www.singlestore.com/blog/introducing-native-data-integration-services)
+- [Apple Music will now pay 10% higher royalties to artists for Spatial Audio music](https://9to5mac.com/2024/01/22/apple-music-spatial-audio-bonus/)
 - [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
-- [Boeing faces new safety alert over earlier generation of 737s](https://lite.cnn.com/2024/01/22/business/boeing-737-earlier-generation-faa/index.html)
-- [Financial Markets Microstructure Introduction](https://quantfinance.substack.com/p/financial-markets-microstructure)
+- [Right to Repair: The Price Is Not Right](https://repair.eu/news/the-price-is-not-right/)
 - [My toddler still loves planes, so I upgraded her radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
-- [Performance Analysis of Python&#39;s Dict&lpar;&rpar; and {}](https://madebyme.today/blog/python-dict-vs-curly-brackets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
