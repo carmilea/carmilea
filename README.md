@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The ancient history of &#39;forgotten crops&#39;](https://www.arch.cam.ac.uk/news/orphan-crops)
+- [Fossils Are Neither Plant nor Animal, but a &#39;Weird Fusion&#39; of Life](https://www.sciencealert.com/bizarre-fossils-are-neither-plant-nor-animal-but-a-weird-fusion-of-life)
+- [Google News searches ranked AI-generated ripoffs above real articles](https://nypost.com/2024/01/22/business/google-news-searches-ranked-ai-generated-ripoffs-above-real-articles-including-a-post-exclusive/)
 - [Introducing Native Data Integration Services](https://www.singlestore.com/blog/introducing-native-data-integration-services)
-- [Apple Music will now pay 10% higher royalties to artists for Spatial Audio music](https://9to5mac.com/2024/01/22/apple-music-spatial-audio-bonus/)
 - [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
-- [Right to Repair: The Price Is Not Right](https://repair.eu/news/the-price-is-not-right/)
-- [My toddler still loves planes, so I upgraded her radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
 <!-- BLOG-POST-LIST:END -->
 
 ---
