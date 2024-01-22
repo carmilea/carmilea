@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Hierarchy Is Fragile and Anarchy Is Antifragile](https://www.youtube.com/watch?v=CZ-FRyUZ3ok)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [Launch HN: Diversion &lpar;YC S22&rpar; – Cloud-Native Git Alternative](https://news.ycombinator.com/item?id=39088551)
+- [Western firms are quaking as China&#39;s electric-car industry speeds up](https://www.economist.com/briefing/2024/01/11/western-firms-are-quaking-as-chinas-electric-car-industry-speeds-up)
+- [Have the Boomers Pinched Their Children&#39;s Futures? [video]](https://www.youtube.com/watch?v=ZuXzvjBYW8A)
 - [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company)
-- [Haier Europe Eases Off on Legal Threat and Seeks Dialogue](https://hackaday.com/2024/01/22/haier-europe-eases-off-on-legal-threat-and-seeks-dialogue/)
-- [Reading QR codes without a computer](https://qr.blinry.org/)
-- [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
 <!-- BLOG-POST-LIST:END -->
 
 ---
