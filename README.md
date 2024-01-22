@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When America First Dropped Acid](https://www.newyorker.com/magazine/2024/01/29/tripping-on-utopia-margaret-mead-the-cold-war-and-the-troubled-birth-of-psychedelic-science-benjamin-breen-book-review)
-- [Ford&#39;s new 48-inch digital dashboard is a lot of Android for one car](https://www.theverge.com/2024/1/22/24045932/ford-android-screen-display-size-os-apps-gaming-lincoln)
-- [BiomeJS 2024 Roadmap](https://biomejs.dev/blog/roadmap-2024/)
-- [Extreme Value Theory &lpar;2009&rpar; [pdf]](https://rls.sites.oasis.unc.edu/s890/evtclass.pdf)
-- [Jazelle DBX: Allow ARM processors to execute Java bytecode in hardware](https://en.wikipedia.org/wiki/Jazelle)
+- [Patterns &lpar;YC S21&rpar; Is Hiring to Automate Analytics with LLMs](https://patterns.app/)
+- [Toronto man uses AirTags to track stolen SUV to Dubai [video]](https://www.youtube.com/watch?v=A3eG8ZbeXeQ)
+- [Woolly mammoth movements tied to earliest Alaska hunting camps](https://www.uaf.edu/news/woolly-mammoth-movements-tied-to-earliest-alaska-hunting-camps.php)
+- [Cutting down AWS cost by $150k per year simply by shutting things off](https://tuananh.net/2024/01/21/cloud-cost-optimization-at-scale-part-1/)
+- [Google cites &#39;durable cost savings&#39; as CEO Sundar Pichai warns of more layoffs](https://nypost.com/2024/01/22/business/google-cites-durable-cost-savings-as-2024-goal-amid-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
