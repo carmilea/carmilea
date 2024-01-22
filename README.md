@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WiFi 7 is officially here, but routers are pricey. Do you need it yet](https://www.houstonchronicle.com/business/tech/article/switch-to-wifi-7-from-wifi-6-18612832.php?sid=5b0231962ddf9c12eaeac904&ss=A&st_rid=ba565903-0389-4060-a5c2-560760d46479&utm_source=marketing&utm_medium=copy-url-link&utm_term=&utm_campaign=article-share&hash=aHR0cHM6Ly93d3cuaG91c3RvbmNocm9uaWNsZS5jb20vYnVzaW5lc3MvdGVjaC9hcnRpY2xlL3N3aXRjaC10by13aWZpLTctZnJvbS13aWZpLTYtMTg2MTI4MzIucGhw&time=MTcwNTkyNjE5MjY3MA%3D%3D&rid=YmE1NjU5MDMtMDM4OS00MDYwLWE1YzItNTYwNzYwZDQ2NDc5&sharecount=Mw%3D%3D)
+- [When America First Dropped Acid](https://www.newyorker.com/magazine/2024/01/29/tripping-on-utopia-margaret-mead-the-cold-war-and-the-troubled-birth-of-psychedelic-science-benjamin-breen-book-review)
+- [Ford&#39;s new 48-inch digital dashboard is a lot of Android for one car](https://www.theverge.com/2024/1/22/24045932/ford-android-screen-display-size-os-apps-gaming-lincoln)
+- [BiomeJS 2024 Roadmap](https://biomejs.dev/blog/roadmap-2024/)
 - [Extreme Value Theory &lpar;2009&rpar; [pdf]](https://rls.sites.oasis.unc.edu/s890/evtclass.pdf)
 - [Jazelle DBX: Allow ARM processors to execute Java bytecode in hardware](https://en.wikipedia.org/wiki/Jazelle)
-- [What happens when an astronaut in orbit says he&#39;s not coming back?](https://arstechnica.com/space/2024/01/solving-a-nasa-mystery-why-did-space-shuttle-commanders-lock-the-hatch/)
-- [Restoring audio from the B-58 &quot;Hustler&quot; Voice Warning System](http://www.hydrogen18.com/blog/restoring-audio-b58-hustler-voice-warning-system.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
