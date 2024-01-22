@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Art Is the New Stock Image](https://ia.net/topics/ai-art-is-the-new-stock-image)
-- [Apple to Developers: Heads I win, tails you lose &lpar;part 2&rpar;](https://mobiledevmemo.com/apple-to-developers-heads-i-win-tails-you-lose-part-2/)
-- [Scientists tame chaotic protein fueling 75% of cancers](https://phys.org/news/2024-01-scientists-chaotic-protein-fueling-cancers.html)
-- [Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
-- [Trunk-Based Development](https://trunkbaseddevelopment.com/)
+- [Ozempic Is Making People Buy Less Food, Walmart Says](https://www.bloomberg.com/news/articles/2023-10-04/walmart-says-ozempic-weight-loss-drugs-causing-slight-pullback-by-shoppers)
+- [US home sales see worst year since 1995](https://www.bbc.com/news/business-68035274)
+- [Helium is essential but nonrenewable and difficult to recycle](https://theconversation.com/helium-is-an-essential-material-for-research-and-medical-equipment-but-its-nonrenewable-and-difficult-to-recycle-218668)
+- [Scientists discovered perfectly preserved dinosaur embryo inside fossilized egg](https://www.unilad.com/news/world-news/dinosaur-egg-embryo-fossil-213524-20231107)
+- [Beverly Clock](https://en.wikipedia.org/wiki/Beverly_Clock)
 <!-- BLOG-POST-LIST:END -->
 
 ---
