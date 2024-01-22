@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Forum Interviews: The Future and Ethical Use of AI](https://www.singlestore.com/blog/the-forum-interviews-the-future-and-ethical-use-of-ai)
-- [New theory suggests LLMs can understand text](https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/)
-- [Building a fair multi-tenant queuing system](https://www.inngest.com/blog/building-the-inngest-queue-pt-i-fairness-multi-tenancy)
-- [Cervical Cancer incidence drops 65% in women who benefited from HPV vaccine](https://www.nbcnews.com/health/womens-health/hpv-vaccine-cervical-cancer-rising-women-research-rcna134224)
-- [ThoughtSpot and SingleStore Transform Real-Time Analytics](https://www.singlestore.com/blog/thoughtspot-and-singlestore-transform-real-time-analytics)
+- [Open Source Doesn&#39;t Require Providing Builds](https://codeengineered.com/blog/2024/open-source-not-builds/)
+- [Financial Markets Microstructure Introduction](https://quantfinance.substack.com/p/financial-markets-microstructure)
+- [British man appears in court over bomb joke sent in private message](https://www.bbc.com/news/world-europe-68056421)
+- [My Toddler Still Loves Planes, So I Upgraded Her Radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
+- [Performance Analysis of Python&#39;s Dict&lpar;&rpar; and {}](https://madebyme.today/blog/python-dict-vs-curly-brackets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
