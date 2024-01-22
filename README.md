@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Extreme Value Theory &lpar;2009&rpar; [pdf]](https://rls.sites.oasis.unc.edu/s890/evtclass.pdf)
+- [Jazelle DBX: Allow ARM processors to execute Java bytecode in hardware](https://en.wikipedia.org/wiki/Jazelle)
 - [What happens when an astronaut in orbit says he&#39;s not coming back?](https://arstechnica.com/space/2024/01/solving-a-nasa-mystery-why-did-space-shuttle-commanders-lock-the-hatch/)
-- [Let Detroit Go Bankrupt &lpar;2008&rpar;](https://www.nytimes.com/2008/11/19/opinion/19romney.html)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 - [Launch HN: Diversion &lpar;YC S22&rpar; – Cloud-Native Git Alternative](https://news.ycombinator.com/item?id=39088551)
-- [Have the Boomers Pinched Their Children&#39;s Futures? [video]](https://www.youtube.com/watch?v=ZuXzvjBYW8A)
 <!-- BLOG-POST-LIST:END -->
 
 ---
