@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fossils Are Neither Plant nor Animal, but a &#39;Weird Fusion&#39; of Life](https://www.sciencealert.com/bizarre-fossils-are-neither-plant-nor-animal-but-a-weird-fusion-of-life)
 - [Why isn&#39;t Bluesky a peer-to-peer network?](https://www.pfrazee.com/blog/why-not-p2p)
 - [GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
 - [CSS3D Clouds](https://spite.github.io/CSS3DClouds/)
 - [Boulder VC firm Foundry to shutter after 18 years, 200 investments](https://www.bizjournals.com/denver/news/2024/01/19/boulder-vc-firm-foundry-to-close.html)
-- [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
