@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fossils Are Neither Plant nor Animal, but a &#39;Weird Fusion&#39; of Life](https://www.sciencealert.com/bizarre-fossils-are-neither-plant-nor-animal-but-a-weird-fusion-of-life)
+- [Battery-free self-powered sensor harvests magnetic energy](https://news.mit.edu/2024/self-powered-sensor-harvests-magnetic-energy-0118)
 - [Why isn&#39;t Bluesky a peer-to-peer network?](https://www.pfrazee.com/blog/why-not-p2p)
 - [GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
 - [CSS3D Clouds](https://spite.github.io/CSS3DClouds/)
