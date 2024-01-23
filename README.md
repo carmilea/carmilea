@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brex Layoffs](https://www.brex.com/journal/a-message-from-our-founder)
-- [Finding unreachable functions with deadcode – The Go Programming Language](https://go.dev/blog/deadcode)
+- [Direct Pixel-Space Megapixel Image Generation with Diffusion Models](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
+- [Show HN: Atlas – GIS and interactive maps in the browser](https://atlas.co)
+- [Deadcode: Finding unreachable functions in Go](https://go.dev/blog/deadcode)
 - [Chrome experimental AI features](https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/)
 - [From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
-- [Higher vehicle hoods significantly increase pedestrian deaths, study finds](https://arstechnica.com/cars/2024/01/higher-vehicle-hoods-significantly-increase-pedestrian-deaths-study-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
