@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is machine learning &#39;hard&#39;?](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
-- [Introducing SingleStore Job Service](https://www.singlestore.com/blog/singlestore-job-service)
-- [Why I Love Tailwind CSS](https://ben.page/tailwind)
-- [Spotting LLMs with Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)
-- [Open Infrastructure Map](https://openinframap.org)
+- [Ask HN: Those making $500/month on side projects in 2024 – Show and tell](https://news.ycombinator.com/item?id=39110194)
+- [How to install Firefox on a Chromebook the easy way](https://www.aboutchromebooks.com/how-to/how-to-install-firefox-on-a-chromebook-the-easy-way/)
+- [Oxxcu, converting CO₂ into fuels, chemicals and plastics](https://www.maddyness.com/uk/2024/01/17/oxccu-converting-co₂-into-fuels-chemicals-and-plastics/)
+- [Future power systems with today&#39;s weather](https://model.energy/future/)
+- [Why is machine learning &#39;hard&#39;? &lpar;2016&rpar;](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
