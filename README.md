@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sex, aggression, and humour: responses to unicycling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151169/)
+- [Ask HN: Are height adjustable desks worth it?](https://news.ycombinator.com/item?id=39103997)
+- [Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)
+- [Hanging by a Strand: Worker dissent brews at an iconic New York bookstore &lpar;2020&rpar;](https://thebaffler.com/latest/hanging-by-a-strand-oconnor)
+- [Proposed Oklahoma skyscraper gets redesign to become USA&#39;s new tallest building](https://newatlas.com/architecture/legends-tower-ao/)
 - [Introduction to Loro&#39;s Rich Text CRDT](https://www.loro.dev/blog/loro-richtext)
-- [Another Mysterious Roman Dodecahedron Has Been Unearthed in England](https://www.smithsonianmag.com/smart-news/another-of-ancient-romes-mysterious-12-sided-objects-has-been-found-in-england-180983632/)
-- [Boeing Whistleblower: Max 9 Production Line Has &quot;Enormous Volume of Defects&quot;](https://viewfromthewing.com/boeing-whistleblower-production-line-has-enormous-volume-of-defects-bolts-on-max-9-werent-installed/)
-- [Free Godot Engine for Official Switch Developers](https://www.rawrlab.com/godot_nintendo_switch_free_port.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
