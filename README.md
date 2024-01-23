@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Direct Pixel-Space Megapixel Image Generation with Diffusion Models](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
-- [Show HN: Atlas – GIS and interactive maps in the browser](https://atlas.co)
-- [Deadcode: Finding unreachable functions in Go](https://go.dev/blog/deadcode)
-- [Chrome experimental AI features](https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/)
-- [From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
+- [Why is machine learning &#39;hard&#39;?](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
+- [Introducing SingleStore Job Service](https://www.singlestore.com/blog/singlestore-job-service)
+- [Why I Love Tailwind CSS](https://ben.page/tailwind)
+- [Spotting LLMs with Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)
+- [Open Infrastructure Map](https://openinframap.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
