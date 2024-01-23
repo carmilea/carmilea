@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Are height adjustable desks worth it?](https://news.ycombinator.com/item?id=39103997)
+- [macOS Sonoma Forced Installs](https://www.macintouch.com/post/37381/macos-sonoma-forced-installs/)
+- [Framework Laptop 16 review: two weeks with the ultimate modular laptop](https://www.theverge.com/24047424/framework-laptop-16-review)
+- [Framework Laptop 16 Delivers Great Linux Support and Performance](https://www.phoronix.com/review/framework-laptop-16)
 - [Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)
-- [Hanging by a Strand: Worker dissent brews at an iconic New York bookstore &lpar;2020&rpar;](https://thebaffler.com/latest/hanging-by-a-strand-oconnor)
-- [Proposed Oklahoma skyscraper gets redesign to become USA&#39;s new tallest building](https://newatlas.com/architecture/legends-tower-ao/)
-- [Introduction to Loro&#39;s Rich Text CRDT](https://www.loro.dev/blog/loro-richtext)
+- [Sex, aggression, and humour: responses to unicycling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151169/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
