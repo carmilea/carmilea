@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The ancient history of &#39;forgotten crops&#39;](https://www.arch.cam.ac.uk/news/orphan-crops)
-- [Fossils Are Neither Plant nor Animal, but a &#39;Weird Fusion&#39; of Life](https://www.sciencealert.com/bizarre-fossils-are-neither-plant-nor-animal-but-a-weird-fusion-of-life)
-- [Google News searches ranked AI-generated ripoffs above real articles](https://nypost.com/2024/01/22/business/google-news-searches-ranked-ai-generated-ripoffs-above-real-articles-including-a-post-exclusive/)
-- [Introducing Native Data Integration Services](https://www.singlestore.com/blog/introducing-native-data-integration-services)
-- [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
+- [Keep Your Kid&#39;s Personal Info Off the Internet](https://themarkup.org/gentle-january/2024/01/22/keep-your-kids-personal-info-off-the-internet)
+- [Trello leaked 15M email addresses](https://haveibeenpwned.com/Error/PageNotFound)
+- [ML Engineering Online Book](https://github.com/stas00/ml-engineering)
+- [FTC bans TurboTax from advertising &#39;free&#39; services, calls deceptive advertising](https://www.cnn.com/2024/01/22/business/ftc-turbotax-free-services/index.html)
+- [Czech republic sets IPv4 end date](https://konecipv4.cz/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
