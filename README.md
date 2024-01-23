@@ -59,8 +59,8 @@
 - [Tell HN: Hacker News now supports IPv6](https://news.ycombinator.com/item?id=39099065)
 - [German Court Fines Security Researcher for Reporting Company&#39;s Vulnerabilities](https://socket.dev/blog/ethical-hacking-on-trial-german-court-fines-security-researcher)
 - [The end of &quot;Useless Ruby sugar&quot;: On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
+- [Cheating scandal rocks Harvard Ivy League teaching hospital from top researchers](https://forbetterscience.com/2024/01/02/dana-farberications-at-harvard-university/)
 - [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
-- [Ask HN: Best country to run a boostrapped startup from? &lpar;After Section 174&rpar;](https://news.ycombinator.com/item?id=39098371)
 <!-- BLOG-POST-LIST:END -->
 
 ---
