@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Those making $500/month on side projects in 2024 – Show and tell](https://news.ycombinator.com/item?id=39110194)
-- [How to install Firefox on a Chromebook the easy way](https://www.aboutchromebooks.com/how-to/how-to-install-firefox-on-a-chromebook-the-easy-way/)
+- [Waterway Map](https://waterwaymap.org)
+- [Hair Sample That Put a Man in Prison Turned Out to Be Dog Hair](https://reason.com/2024/01/18/center-for-integrity-in-forensic-sciences-junk-hair-arson-bite/)
 - [Oxxcu, converting CO₂ into fuels, chemicals and plastics](https://www.maddyness.com/uk/2024/01/17/oxccu-converting-co₂-into-fuels-chemicals-and-plastics/)
 - [Future power systems with today&#39;s weather](https://model.energy/future/)
 - [Why is machine learning &#39;hard&#39;? &lpar;2016&rpar;](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
