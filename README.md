@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep Your Kid&#39;s Personal Info Off the Internet](https://themarkup.org/gentle-january/2024/01/22/keep-your-kids-personal-info-off-the-internet)
-- [Trello leaked 15M email addresses](https://haveibeenpwned.com/Error/PageNotFound)
-- [ML Engineering Online Book](https://github.com/stas00/ml-engineering)
-- [FTC bans TurboTax from advertising &#39;free&#39; services, calls deceptive advertising](https://www.cnn.com/2024/01/22/business/ftc-turbotax-free-services/index.html)
-- [Czech republic sets IPv4 end date](https://konecipv4.cz/en/)
+- [Scientists report fundamental asymmetry between heating and cooling](https://phys.org/news/2024-01-efficiency-asymmetry-scientists-fundamental-cooling.html)
+- [Apple Maps wrongly lists restaurant permanently closed, costing owner thousands](https://www.abc.net.au/news/2024-01-23/apple-maps-error-costs-local-business-pums-kitchen/103364008)
+- [Show HN: Sendenv, a CLI tool to share environment variables](https://github.com/viraniaman94/sendenv)
+- [SaberVM](https://ryanbrewer.dev/posts/announcing-svm.html)
+- [Self-contained Linux applications with lone Lisp](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
