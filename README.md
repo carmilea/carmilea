@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoid Async Rust at All Cost](https://blog.hugpoint.tech/avoid_async_rust.html)
+- [Boeing Whistleblower: Max 9 Production Line Has &quot;Enormous Volume of Defects&quot;](https://viewfromthewing.com/boeing-whistleblower-production-line-has-enormous-volume-of-defects-bolts-on-max-9-werent-installed/)
 - [Why the fuck are we templating YAML? &lpar;2019&rpar;](https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml)
-- [Sonic: Towards a Sea-of-Nodes Inlining Compiler for Smalltalk in Smalltalk [video]](https://www.youtube.com/watch?v=tcnN7yWCPGM)
-- [Oh My Zsh](https://ohmyz.sh/)
-- [Show HN: Built a self hosted clean status page and batteries](https://github.com/rajnandan1/kener)
-- [The Hawai&#39;I Seaglider Initiative – A New Approach to Travel Between the Islands](https://www.hawaiiseaglider.org/)
+- [Qdrant, the Vector Search Database, raised $28M in a Series A round](https://qdrant.tech/blog/series-a-funding-round/)
+- [The Humble Brilliance of Italy&#39;s Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
