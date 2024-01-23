@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoid Async Rust at All Cost](https://blog.hugpoint.tech/avoid_async_rust.html)
+- [Another Mysterious Roman Dodecahedron Has Been Unearthed in England](https://www.smithsonianmag.com/smart-news/another-of-ancient-romes-mysterious-12-sided-objects-has-been-found-in-england-180983632/)
 - [Boeing Whistleblower: Max 9 Production Line Has &quot;Enormous Volume of Defects&quot;](https://viewfromthewing.com/boeing-whistleblower-production-line-has-enormous-volume-of-defects-bolts-on-max-9-werent-installed/)
+- [Free Godot Engine for Official Switch Developers](https://www.rawrlab.com/godot_nintendo_switch_free_port.html)
 - [Why the fuck are we templating YAML? &lpar;2019&rpar;](https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml)
 - [Qdrant, the Vector Search Database, raised $28M in a Series A round](https://qdrant.tech/blog/series-a-funding-round/)
-- [The Humble Brilliance of Italy&#39;s Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
