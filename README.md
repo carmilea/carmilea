@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [macOS Sonoma Forced Installs](https://www.macintouch.com/post/37381/macos-sonoma-forced-installs/)
-- [Framework Laptop 16 review: two weeks with the ultimate modular laptop](https://www.theverge.com/24047424/framework-laptop-16-review)
-- [Framework Laptop 16 Delivers Great Linux Support and Performance](https://www.phoronix.com/review/framework-laptop-16)
-- [Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)
-- [Sex, aggression, and humour: responses to unicycling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151169/)
+- [Americans don&#39;t believe middle class can afford homes](https://www.newsweek.com/americans-dont-believe-middle-class-can-afford-homes-1862973)
+- [Hightouch &lpar;YC S19&rpar; Is Hiring a Lead Front End Engineer](https://news.ycombinator.com/item?id=39106050)
+- [DB Cooper Case Could Close Soon Thanks to Particle Evidence](https://hackaday.com/2024/01/23/db-cooper-case-could-close-soon-thanks-to-particle-evidence/)
+- [Mozilla&#39;s new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
+- [Meta-Learning Is All You Need](https://jameskle.com/writes/meta-learning-is-all-you-need)
 <!-- BLOG-POST-LIST:END -->
 
 ---
