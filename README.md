@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibrating belt that treats low bone density gets FDA approval](https://www.engadget.com/vibrating-belt-that-treats-low-bone-density-gets-fda-approval-181552362.html)
+- [The Humble Brilliance of Italy&#39;s Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
+- [Oh My Zsh](https://ohmyz.sh/)
+- [Show HN: Built a self hosted clean status page and batteries](https://github.com/rajnandan1/kener)
 - [The Hawai&#39;I Seaglider Initiative – A New Approach to Travel Between the Islands](https://www.hawaiiseaglider.org/)
 - [Tell HN: Hacker News now supports IPv6](https://news.ycombinator.com/item?id=39099065)
-- [The end of &quot;Useless Ruby sugar&quot;: On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
-- [Dana-Farberications at Harvard University](https://forbetterscience.com/2024/01/02/dana-farberications-at-harvard-university/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
