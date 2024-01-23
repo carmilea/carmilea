@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sex, aggression, and humour: responses to unicycling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151169/)
+- [Introduction to Loro&#39;s Rich Text CRDT](https://www.loro.dev/blog/loro-richtext)
 - [Another Mysterious Roman Dodecahedron Has Been Unearthed in England](https://www.smithsonianmag.com/smart-news/another-of-ancient-romes-mysterious-12-sided-objects-has-been-found-in-england-180983632/)
 - [Boeing Whistleblower: Max 9 Production Line Has &quot;Enormous Volume of Defects&quot;](https://viewfromthewing.com/boeing-whistleblower-production-line-has-enormous-volume-of-defects-bolts-on-max-9-werent-installed/)
 - [Free Godot Engine for Official Switch Developers](https://www.rawrlab.com/godot_nintendo_switch_free_port.html)
-- [Why the fuck are we templating YAML? &lpar;2019&rpar;](https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml)
-- [Qdrant, the Vector Search Database, raised $28M in a Series A round](https://qdrant.tech/blog/series-a-funding-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
