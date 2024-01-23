@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Humble Brilliance of Italy&#39;s Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
+- [Why the fuck are we templating YAML? &lpar;2019&rpar;](https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml)
+- [Sonic: Towards a Sea-of-Nodes Inlining Compiler for Smalltalk in Smalltalk [video]](https://www.youtube.com/watch?v=tcnN7yWCPGM)
 - [Oh My Zsh](https://ohmyz.sh/)
 - [Show HN: Built a self hosted clean status page and batteries](https://github.com/rajnandan1/kener)
 - [The Hawai&#39;I Seaglider Initiative – A New Approach to Travel Between the Islands](https://www.hawaiiseaglider.org/)
-- [Tell HN: Hacker News now supports IPv6](https://news.ycombinator.com/item?id=39099065)
 <!-- BLOG-POST-LIST:END -->
 
 ---
