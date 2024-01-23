@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibrating belt that treats low bone density gets FDA approval](https://www.engadget.com/vibrating-belt-that-treats-low-bone-density-gets-fda-approval-181552362.html)
 - [The Hawai&#39;I Seaglider Initiative – A New Approach to Travel Between the Islands](https://www.hawaiiseaglider.org/)
 - [Tell HN: Hacker News now supports IPv6](https://news.ycombinator.com/item?id=39099065)
 - [The end of &quot;Useless Ruby sugar&quot;: On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
 - [Dana-Farberications at Harvard University](https://forbetterscience.com/2024/01/02/dana-farberications-at-harvard-university/)
-- [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
