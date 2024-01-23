@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists report fundamental asymmetry between heating and cooling](https://phys.org/news/2024-01-efficiency-asymmetry-scientists-fundamental-cooling.html)
-- [Apple Maps wrongly lists restaurant permanently closed, costing owner thousands](https://www.abc.net.au/news/2024-01-23/apple-maps-error-costs-local-business-pums-kitchen/103364008)
-- [Show HN: Sendenv, a CLI tool to share environment variables](https://github.com/viraniaman94/sendenv)
-- [SaberVM](https://ryanbrewer.dev/posts/announcing-svm.html)
-- [Self-contained Linux applications with lone Lisp](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
+- [Tell HN: Hacker News now supports IPv6](https://news.ycombinator.com/item?id=39099065)
+- [German Court Fines Security Researcher for Reporting Company&#39;s Vulnerabilities](https://socket.dev/blog/ethical-hacking-on-trial-german-court-fines-security-researcher)
+- [The end of &quot;Useless Ruby sugar&quot;: On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
+- [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
+- [Ask HN: Best country to run a boostrapped startup from? &lpar;After Section 174&rpar;](https://news.ycombinator.com/item?id=39098371)
 <!-- BLOG-POST-LIST:END -->
 
 ---
