@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Americans don&#39;t believe middle class can afford homes](https://www.newsweek.com/americans-dont-believe-middle-class-can-afford-homes-1862973)
+- [Ask HN: Any legal way against forced software upgrades and feature removal](https://news.ycombinator.com/item?id=39106799)
+- [United Airlines CEO says the airline will consider alternatives to Boeing](https://apnews.com/article/united-airlines-ceo-boeing-manufacturing-problems-4090ea6176ef59e382dd18e9522596bc)
+- [The &quot;notorious&quot; NSA Furby documents](https://www.404media.co/these-are-the-notorious-nsa-furby-documents-showing-spy-agency-freaking-out-about-childrens-toy/)
+- [Amazon Fined $35M in France over &#39;Overly Intrusive&#39; Surveillance](https://uk.pcmag.com/news/150577/amazon-fined-35-million-in-france-over-overly-intrusive-employee-surveillance-in-its-warehouses)
 - [Hightouch &lpar;YC S19&rpar; Is Hiring a Lead Front End Engineer](https://news.ycombinator.com/item?id=39106050)
-- [DB Cooper Case Could Close Soon Thanks to Particle Evidence](https://hackaday.com/2024/01/23/db-cooper-case-could-close-soon-thanks-to-particle-evidence/)
-- [Mozilla&#39;s new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
-- [Meta-Learning Is All You Need](https://jameskle.com/writes/meta-learning-is-all-you-need)
 <!-- BLOG-POST-LIST:END -->
 
 ---
