@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Men are going to brutal boot camps to reclaim their masculinity](https://www.usatoday.com/story/life/health-wellness/2024/01/22/modern-day-knight-project-videos-men-man-camps/72290454007/)
+- [Balancing Engineering Cultures: Debate Everything vs. Just Tell Me What to Build](https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do)
+- [Farm owners bewildered after Apple Maps removes business and street from app](https://www.abc.net.au/news/2024-01-24/apple-maps-removes-farm-business-and-street-from-app-victoria/103375288)
+- [Fix: Hong Kong is not in China](https://github.com/goplus/gop/pull/1397)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=39112346)
-- [Creator of everynoise.com laid off from Spotify](https://everynoise.com/#updates)
-- [Google cancels contract with an AI data firm that&#39;s helped train Bard](https://www.theverge.com/2024/1/23/24048429/google-appen-cancel-contract-ai-training-bard)
-- [Appeals Court: FBI&#39;s Safe-Deposit Box Seizures Violated Fourth Amendment](https://reason.com/2024/01/23/appeals-court-fbis-safe-deposit-box-seizures-violated-fourth-amendment/)
-- [Hardware-Accelerated Similarity Metrics and Distance Functions &lpar;200x Faster&rpar;](https://github.com/ashvardanian/SimSIMD)
 <!-- BLOG-POST-LIST:END -->
 
 ---
