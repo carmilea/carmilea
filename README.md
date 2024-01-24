@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Patreon: Blocking platforms from sharing user video data is unconstitutional](https://arstechnica.com/tech-policy/2024/01/patreon-attacks-law-that-keeps-platforms-from-sharing-your-video-views/)
 - [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
-- [New York City plans to wipe out $2B in medical debt for 500k residents](https://abcnews.go.com/US/wireStory/new-york-city-plans-wipe-2-billion-medical-106570030)
 - [Balancing engineering cultures: Debate everything vs. just tell me what to build](https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=39112346)
+- [Appeals Court: FBI&#39;s Safe-Deposit Box Seizures Violated Fourth Amendment](https://reason.com/2024/01/23/appeals-court-fbis-safe-deposit-box-seizures-violated-fourth-amendment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
