@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Q4 2023 Earnings Report [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2023-Update.pdf)
+- [Majority of America&#39;s underground water stores are drying up, study finds](https://thehill.com/policy/equilibrium-sustainability/4426143-majority-of-americas-underground-water-stores-are-drying-up-study-finds/)
+- [How many high school stars make it in the NBA? &lpar;2019&rpar;](https://pudding.cool/2019/03/hype/)
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- [BLIS: A new BLAS-like framework for basic linear algebra routines](https://github.com/flame/blis)
-- [Inside A Global Phone Spy Tool Monitoring Billions](https://www.404media.co/inside-global-phone-spy-tool-patternz-nuviad-real-time-bidding/)
-- [CRT Manufacturing](https://vintagetek.org/crt-manufacturing/)
-- [OpenAI scrapped a promise to disclose key documents to the public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
+- [BLIS: A BLAS-like framework for basic linear algebra routines](https://github.com/flame/blis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
