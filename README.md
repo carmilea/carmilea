@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Waterway Map](https://waterwaymap.org)
-- [Hair Sample That Put a Man in Prison Turned Out to Be Dog Hair](https://reason.com/2024/01/18/center-for-integrity-in-forensic-sciences-junk-hair-arson-bite/)
-- [Oxxcu, converting CO₂ into fuels, chemicals and plastics](https://www.maddyness.com/uk/2024/01/17/oxccu-converting-co₂-into-fuels-chemicals-and-plastics/)
-- [Future power systems with today&#39;s weather](https://model.energy/future/)
-- [Why is machine learning &#39;hard&#39;? &lpar;2016&rpar;](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=39112346)
+- [eBay to slash about 1,000 roles, or approximately 9% of full-time employees](https://www.cnbc.com/2024/01/23/ebay-to-slash-about-1000-roles-or-approximately-9percent-of-full-time-employees.html)
+- [Creator of everynoise.com laid off from Spotify](https://everynoise.com/#updates)
+- [Google cancels contract with an AI data firm that&#39;s helped train Bard](https://www.theverge.com/2024/1/23/24048429/google-appen-cancel-contract-ai-training-bard)
+- [Appeals Court: FBI&#39;s Safe-Deposit Box Seizures Violated Fourth Amendment](https://reason.com/2024/01/23/appeals-court-fbis-safe-deposit-box-seizures-violated-fourth-amendment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
