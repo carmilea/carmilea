@@ -59,8 +59,8 @@
 - [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
 - [The juror who found herself guilty](https://www.texasmonthly.com/news-politics/the-juror-who-found-herself-guilty/)
 - [Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)
-- [Tesla plans to build new electric vehicles in mid-2025 -sources](https://www.reuters.com/business/autos-transportation/tesla-plans-build-new-electric-vehicles-mid-2025-sources-2024-01-24/)
 - [Ask HN: Does &lpar;or why does&rpar; anyone use MapReduce anymore?](https://news.ycombinator.com/item?id=39113583)
+- [Overpass Turbo: A Web Based Data Mining Tool for OpenStreetMap](https://overpass-turbo.eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
