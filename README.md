@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
-- [The juror who found herself guilty](https://www.texasmonthly.com/news-politics/the-juror-who-found-herself-guilty/)
-- [Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)
-- [Ask HN: Does &lpar;or why does&rpar; anyone use MapReduce anymore?](https://news.ycombinator.com/item?id=39113583)
-- [Overpass Turbo: A Web Based Data Mining Tool for OpenStreetMap](https://overpass-turbo.eu/)
+- [Exxon throws a fit over shareholders exercising their rights](https://techcrunch.com/2024/01/22/exxon-sues-activist-investors/)
+- [I bought mysqldump.com and built this, what ya think?](https://mysqldump.com/)
+- [Learn How to Build Your Own Max for Live Devices](https://elphnt.io/build-your-own-max-for-live-devices/)
+- [CGI programs have an attractive one step deployment model](https://utcc.utoronto.ca/~cks/space/blog/web/CGIOneStepDeployment)
+- [The United States is producing more oil than any country in history](https://www.cnn.com/2023/12/19/business/us-production-oil-reserves-crude/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
