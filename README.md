@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Illustrated Guide to Post-Orwellian Censorship &lpar;2021&rpar;](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-post-orwellian-censorship/)
+- [Show HN: Startup funding simulator](https://www.fundingsimulator.com/)
 - [LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)
 - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
-- [HP CEO: &quot;Our long-term objective is to make printing a subscription.&quot;](https://arstechnica.com/gadgets/2024/01/hp-ceo-blocking-third-party-ink-from-printers-fights-viruses/)
-- [IRS Free File is now available for the 2024 filing season](https://www.irs.gov/newsroom/irs-free-file-is-now-available-for-the-2024-filing-season)
-- [Mutable.ai &lpar;YC W22&rpar; is hiring engineers to build Auto Wiki v2](https://www.workatastartup.com/companies/mutable-ai)
+- [Ultralight, strong, and self-reprogrammable mechanical metamaterials](https://www.science.org/doi/10.1126/scirobotics.adi2746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
