@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patreon: Blocking platforms from sharing user video data is unconstitutional](https://arstechnica.com/tech-policy/2024/01/patreon-attacks-law-that-keeps-platforms-from-sharing-your-video-views/)
-- [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
-- [Balancing engineering cultures: Debate everything vs. just tell me what to build](https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=39112346)
-- [Appeals Court: FBI&#39;s Safe-Deposit Box Seizures Violated Fourth Amendment](https://reason.com/2024/01/23/appeals-court-fbis-safe-deposit-box-seizures-violated-fourth-amendment/)
+- [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
+- [The juror who found herself guilty](https://www.texasmonthly.com/news-politics/the-juror-who-found-herself-guilty/)
+- [Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)
+- [Tesla plans to build new electric vehicles in mid-2025 -sources](https://www.reuters.com/business/autos-transportation/tesla-plans-build-new-electric-vehicles-mid-2025-sources-2024-01-24/)
+- [Ask HN: Does &lpar;or why does&rpar; anyone use MapReduce anymore?](https://news.ycombinator.com/item?id=39113583)
 <!-- BLOG-POST-LIST:END -->
 
 ---
