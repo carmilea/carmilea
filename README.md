@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exxon throws a fit over shareholders exercising their rights](https://techcrunch.com/2024/01/22/exxon-sues-activist-investors/)
-- [Learn How to Build Your Own Max for Live Devices](https://elphnt.io/build-your-own-max-for-live-devices/)
+- [AI &#39;hallucinated&#39; fake legal cases filed to B.C. court in Canadian first](https://globalnews.ca/news/10238699/fake-legal-case-bc-ai/)
 - [Lumiere: A Space-Time Diffusion Model for Realistic Video Generation](https://lumiere-video.github.io/)
 - [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
 - [Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)
+- [Ask HN: Does &lpar;or why does&rpar; anyone use MapReduce anymore?](https://news.ycombinator.com/item?id=39113583)
 <!-- BLOG-POST-LIST:END -->
 
 ---
