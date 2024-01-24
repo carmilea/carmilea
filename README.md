@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: GitHub no longer readable without JavaScript](https://news.ycombinator.com/item?id=39116556)
-- [23andMe is reportedly turning the blame back on its customers](https://www.businessinsider.com/23andme-data-breach-victims-responsibility-not-updating-passwords-2024-1)
+- [Security researchers collect awards for Tesla exploits at Pwn2Own Automotive](https://www.bleepingcomputer.com/news/security/tesla-hacked-24-zero-days-demoed-at-pwn2own-automotive-2024/)
+- [Dutch Police regularly force people to give up footage from doorbell cameras](https://nltimes.nl/2024/01/23/police-regularly-force-people-give-footage-doorbell-cameras-report)
 - [Jamsocket &lpar;YC W22&rpar; is hiring a senior Rust systems engineer &lpar;NYC/remote&rpar;](https://jamsocket.com/blog/senior-rust-engineer)
 - [eBay is laying off 9 percent of its workforce](https://www.engadget.com/ebay-is-laying-off-9-percent-of-its-workforce-035136287.html)
 - [All arabica coffee is genetically similar: how can beans taste so different?](https://www.nature.com/articles/d41586-024-00165-x)
