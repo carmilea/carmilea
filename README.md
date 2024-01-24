@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An open-source browser engine written in Rust](https://github.com/servo/servo)
-- [Just Bribe Everyone – It&#39;s Only the Scientific Record](https://www.science.org/content/blog-post/just-bribe-everyone-it-s-only-scientific-record)
-- [AMD Radeon RX 7600 XT Linux Performance](https://www.phoronix.com/review/amd-radeon-rx-7600-xt-linux)
-- [The scam YouTube ads are getting better](https://old.reddit.com/r/ChatGPT/comments/19dv1dg/the_scam_youtube_ads_are_getting_better/)
-- [Security researchers collect awards for Tesla exploits at Pwn2Own Automotive](https://www.bleepingcomputer.com/news/security/tesla-hacked-24-zero-days-demoed-at-pwn2own-automotive-2024/)
+- [Experimental use of pig liver to filter blood offers hope for patients](https://www.theguardian.com/science/2024/jan/18/pig-liver-animal-to-human-transplants)
+- [Forensics Gone Wrong: When DNA Snares the Innocent](https://www.science.org/content/article/forensics-gone-wrong-when-dna-snares-innocent)
+- [Boeing 757 loses nose wheel while preparing for takeoff in Atlanta](https://www.reuters.com/business/aerospace-defense/boeing-757-loses-nose-wheel-while-preparing-takeoff-atlanta-2024-01-24/)
+- [Today&#39;s architects can learn from a 19th century&#39;s lost ventilation system](https://techxplore.com/news/2024-01-today-architects-lost-ventilation-19th.html)
+- [How Euler did it? &lpar;by Ed Sandifer&rpar;](http://eulerarchive.maa.org/hedi/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
