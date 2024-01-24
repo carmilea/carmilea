@@ -58,7 +58,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Tesla Q4 2023 Earnings Report [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2023-Update.pdf)
 - [Majority of America&#39;s underground water stores are drying up, study finds](https://thehill.com/policy/equilibrium-sustainability/4426143-majority-of-americas-underground-water-stores-are-drying-up-study-finds/)
-- [How many high school stars make it in the NBA? &lpar;2019&rpar;](https://pudding.cool/2019/03/hype/)
+- [San Francisco Tried to Build a $1.7M Toilet. It&#39;s Still Not Done](https://www.nytimes.com/2024/01/24/us/san-francisco-toilet.html)
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 - [BLIS: A BLAS-like framework for basic linear algebra routines](https://github.com/flame/blis)
 <!-- BLOG-POST-LIST:END -->
