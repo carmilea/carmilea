@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Illustrated Guide to Post-Orwellian Censorship &lpar;2021&rpar;](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-post-orwellian-censorship/)
-- [Show HN: Startup funding simulator](https://www.fundingsimulator.com/)
-- [LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)
-- [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
-- [Ultralight, strong, and self-reprogrammable mechanical metamaterials](https://www.science.org/doi/10.1126/scirobotics.adi2746)
+- [CRT Manufacturing](https://vintagetek.org/crt-manufacturing/)
+- [The White House has a pharmacy – and it was a mess, a new investigation found](https://www.statnews.com/2024/01/23/white-house-pharmacy/)
+- [OpenAI scrapped a promise to disclose key documents to the public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
+- [How we made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb)
+- [Standards for Software Liability: Jim Dempsey, Lawfare, UC Berkeley Law](https://www.lawfaremedia.org/article/standards-for-software-liability-focus-on-the-product-for-liability-focus-on-the-process-for-safe-harbor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
