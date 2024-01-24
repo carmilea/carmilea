@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [BLIS: A new BLAS-like framework for basic linear algebra routines](https://github.com/flame/blis)
+- [Inside A Global Phone Spy Tool Monitoring Billions](https://www.404media.co/inside-global-phone-spy-tool-patternz-nuviad-real-time-bidding/)
 - [CRT Manufacturing](https://vintagetek.org/crt-manufacturing/)
-- [The White House has a pharmacy – and it was a mess, a new investigation found](https://www.statnews.com/2024/01/23/white-house-pharmacy/)
 - [OpenAI scrapped a promise to disclose key documents to the public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
-- [How we made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb)
-- [Standards for Software Liability: Jim Dempsey, Lawfare, UC Berkeley Law](https://www.lawfaremedia.org/article/standards-for-software-liability-focus-on-the-product-for-liability-focus-on-the-process-for-safe-harbor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
