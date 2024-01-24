@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Men are going to brutal boot camps to reclaim their masculinity](https://www.usatoday.com/story/life/health-wellness/2024/01/22/modern-day-knight-project-videos-men-man-camps/72290454007/)
-- [Balancing Engineering Cultures: Debate Everything vs. Just Tell Me What to Build](https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do)
-- [Farm owners bewildered after Apple Maps removes business and street from app](https://www.abc.net.au/news/2024-01-24/apple-maps-removes-farm-business-and-street-from-app-victoria/103375288)
-- [Fix: Hong Kong is not in China](https://github.com/goplus/gop/pull/1397)
+- [Patreon: Blocking platforms from sharing user video data is unconstitutional](https://arstechnica.com/tech-policy/2024/01/patreon-attacks-law-that-keeps-platforms-from-sharing-your-video-views/)
+- [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
+- [New York City plans to wipe out $2B in medical debt for 500k residents](https://abcnews.go.com/US/wireStory/new-york-city-plans-wipe-2-billion-medical-106570030)
+- [Balancing engineering cultures: Debate everything vs. just tell me what to build](https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=39112346)
 <!-- BLOG-POST-LIST:END -->
 
