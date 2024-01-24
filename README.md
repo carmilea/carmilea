@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)
+- [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
+- [HP CEO: &quot;Our long-term objective is to make printing a subscription.&quot;](https://arstechnica.com/gadgets/2024/01/hp-ceo-blocking-third-party-ink-from-printers-fights-viruses/)
+- [IRS Free File is now available for the 2024 filing season](https://www.irs.gov/newsroom/irs-free-file-is-now-available-for-the-2024-filing-season)
 - [Mutable.ai &lpar;YC W22&rpar; is hiring engineers to build Auto Wiki v2](https://www.workatastartup.com/companies/mutable-ai)
-- [Amazon&#39;s Ring to Stop Letting Police Request Doorbell Video from Users](https://www.bloomberg.com/news/articles/2024-01-24/amazon-s-ring-to-stop-letting-police-request-video-from-users)
-- [Offline Chat with Marcus Aurelius](https://uneven-macaw-bef2.hony.ai/app/chat/Answer%20like%20you%20are%20Marcus%20Aurelius)
-- [Good DevEx increases productivity. Here is the data](https://github.blog/2024-01-23-good-devex-increases-productivity/)
-- [Birdwatch: Crowd Wisdom and Algorithms to Understand and Reduce Misinformation](https://arxiv.org/abs/2210.15723)
 <!-- BLOG-POST-LIST:END -->
 
 ---
