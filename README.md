@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Experimental use of pig liver to filter blood offers hope for patients](https://www.theguardian.com/science/2024/jan/18/pig-liver-animal-to-human-transplants)
-- [Forensics Gone Wrong: When DNA Snares the Innocent](https://www.science.org/content/article/forensics-gone-wrong-when-dna-snares-innocent)
-- [Boeing 757 loses nose wheel while preparing for takeoff in Atlanta](https://www.reuters.com/business/aerospace-defense/boeing-757-loses-nose-wheel-while-preparing-takeoff-atlanta-2024-01-24/)
-- [Today&#39;s architects can learn from a 19th century&#39;s lost ventilation system](https://techxplore.com/news/2024-01-today-architects-lost-ventilation-19th.html)
-- [How Euler did it? &lpar;by Ed Sandifer&rpar;](http://eulerarchive.maa.org/hedi/index.html)
+- [Mutable.ai &lpar;YC W22&rpar; is hiring engineers to build Auto Wiki v2](https://www.workatastartup.com/companies/mutable-ai)
+- [Amazon&#39;s Ring to Stop Letting Police Request Doorbell Video from Users](https://www.bloomberg.com/news/articles/2024-01-24/amazon-s-ring-to-stop-letting-police-request-video-from-users)
+- [Offline Chat with Marcus Aurelius](https://uneven-macaw-bef2.hony.ai/app/chat/Answer%20like%20you%20are%20Marcus%20Aurelius)
+- [Good DevEx increases productivity. Here is the data](https://github.blog/2024-01-23-good-devex-increases-productivity/)
+- [Birdwatch: Crowd Wisdom and Algorithms to Understand and Reduce Misinformation](https://arxiv.org/abs/2210.15723)
 <!-- BLOG-POST-LIST:END -->
 
 ---
