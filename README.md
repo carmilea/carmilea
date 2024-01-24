@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI &#39;hallucinated&#39; fake legal cases filed to B.C. court in Canadian first](https://globalnews.ca/news/10238699/fake-legal-case-bc-ai/)
 - [Lumiere: A Space-Time Diffusion Model for Realistic Video Generation](https://lumiere-video.github.io/)
 - [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
 - [Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)
 - [Ask HN: Does &lpar;or why does&rpar; anyone use MapReduce anymore?](https://news.ycombinator.com/item?id=39113583)
+- [Overpass Turbo: A Web Based Data Mining Tool for OpenStreetMap](https://overpass-turbo.eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
