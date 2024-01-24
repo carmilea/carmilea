@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An open-source browser engine written in Rust](https://github.com/servo/servo)
+- [Just Bribe Everyone – It&#39;s Only the Scientific Record](https://www.science.org/content/blog-post/just-bribe-everyone-it-s-only-scientific-record)
+- [AMD Radeon RX 7600 XT Linux Performance](https://www.phoronix.com/review/amd-radeon-rx-7600-xt-linux)
+- [The scam YouTube ads are getting better](https://old.reddit.com/r/ChatGPT/comments/19dv1dg/the_scam_youtube_ads_are_getting_better/)
 - [Security researchers collect awards for Tesla exploits at Pwn2Own Automotive](https://www.bleepingcomputer.com/news/security/tesla-hacked-24-zero-days-demoed-at-pwn2own-automotive-2024/)
-- [Dutch Police regularly force people to give up footage from doorbell cameras](https://nltimes.nl/2024/01/23/police-regularly-force-people-give-footage-doorbell-cameras-report)
-- [Jamsocket &lpar;YC W22&rpar; is hiring a senior Rust systems engineer &lpar;NYC/remote&rpar;](https://jamsocket.com/blog/senior-rust-engineer)
-- [eBay is laying off 9 percent of its workforce](https://www.engadget.com/ebay-is-laying-off-9-percent-of-its-workforce-035136287.html)
-- [All arabica coffee is genetically similar: how can beans taste so different?](https://www.nature.com/articles/d41586-024-00165-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
