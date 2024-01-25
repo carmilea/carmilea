@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Manara &lpar;YC W21&rpar; Is Hiring](https://manara.breezy.hr/p/2c46c063355c-senior-founding-product-designer)
-- [Fabrication of Uniform and Rounded Closed-Cell Aluminum Foams](https://www.mdpi.com/2075-4701/14/1/120)
-- [The rise and fall of the standard user interface](https://www.theregister.com/2024/01/24/rise_and_fall_of_cua/)
-- [Hugging Face and Google partner for AI collaboration](https://huggingface.co/blog/gcp-partnership)
-- [PRQL as a DuckDB Extension](https://github.com/ywelsch/duckdb-prql)
+- [Apple is allowing alternative browser engines in iOS 17.4 – but only in the EU](https://www.theverge.com/2024/1/25/24050478/apple-ios-17-4-browser-engines-eu)
+- [Apple Overhauls App Store, iPhone Features in EU to Appease Regulators](https://www.bloomberg.com/news/articles/2024-01-25/apple-aapl-overhauls-app-store-iphone-features-in-eu-to-appease-regulators)
+- [Apple Announces Changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
+- [Do Elephants Have Souls?](https://www.thenewatlantis.com/publications/do-elephants-have-souls)
+- [Social Media, AI, and the Battle for Your Brain](https://proto.life/2023/12/social-media-artificial-intelligence-and-the-battle-for-your-brain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
