@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Which shows got their finale right, and which didn&#39;t?](https://www.statsignificant.com/p/which-shows-got-their-finale-right)
+- [NYC plans to wipe out $2B in medical debt for 500k residents](https://apnews.com/article/rip-medical-debt-new-york-city-adams-1f39530cd79937ced52f47ab4749fb58)
+- [NASA System Predicts Impact of a Small Asteroid over Germany](https://www.nasa.gov/solar-system/asteroids/nasa-system-predicts-impact-of-a-very-small-asteroid-over-germany/)
 - [Crusty, the Indestructible Mac](https://geocities.ws/rehasoft/crusty.html)
-- [Lucidrains/self-rewarding-lm-PyTorch: Self-Rewarding Language Model, from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
+- [Self-rewarding-lm-PyTorch: Self-Rewarding Language Model from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
 - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
-- [Forkrun: Runs multiple inputs through a command in parallel using bash coprocs](https://github.com/jkool702/forkrun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
