@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Lucidrains/self-rewarding-lm-PyTorch: Self-Rewarding Language Model, from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
 - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
+- [A Leaked Memo from Google CEO Sundar Pichai Comes Amidst Employee Discontent](https://www.inc.com/nick-hobson/a-leaked-memo-from-google-ceo-sundar-pichai-comes-amidst-employee-discontent-no-ceo-wants-this-for-their-company.html)
 - [Forkrun: Runs multiple inputs through a command in parallel using bash coprocs](https://github.com/jkool702/forkrun)
 - [Jerry &lpar;YC S17&rpar; Is Hiring Eng, PM, Data, Cos, Ops etc. &lpar;Remote&rpar;](https://getjerry.com/careers)
-- [Show HN: Integer Map Data Structure](https://github.com/billziss-gh/imap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
