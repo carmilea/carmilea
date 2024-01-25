@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS: Using alternative browser engines in the European Union](https://developer.apple.com/support/alternative-browser-engines/)
 - [Due to blade damage, Mars Helicopter Ingenuity will not fly again](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
-- [Two New Reasoning Methods from Google Research: COSP and USP](https://thesequence.substack.com/p/about-cosp-and-usp-two-new-llm-reasoning)
-- [Universal Self-Adaptive Prompting](https://arxiv.org/abs/2305.14926)
+- [COSP and USP: New methods to advance reasoning in LLMs](https://pub.towardsai.net/inside-cosp-and-usp-google-research-new-methods-to-advance-reasoning-in-llms-07338b323dfd)
 - [The new architecture wars](https://aeon.co/essays/the-architectural-style-wars-have-started-all-over-again)
 - [The lithium revolution has arrived at California&#39;s Salton Sea](https://www.latimes.com/environment/newsletter/2024-01-25/column-the-lithium-revolution-has-arrived-at-californias-salton-sea-boiling-point)
 <!-- BLOG-POST-LIST:END -->
