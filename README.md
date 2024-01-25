@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Projections &lpar;Secondary sort key/ secondary shard keys&rpar;, Database Branching, Smart Disaster Recovery!](https://www.youtube.com/watch?v=RfjSQBhbKBk)
 - [How We Made That App Episode 4 - The Revolution of AI and Databases in App Development](https://www.youtube.com/watch?v=G6VyYiNYBZc)
 - [SingleStore: Demo- Query History!](https://www.youtube.com/watch?v=ANIgPe9mr7c)
 - [Getting Started On SingleStore&#39;s Free Shared Tier!](https://www.youtube.com/watch?v=QirqEbW-yBc)
 - [Build an Enterprise-Grade Gen AI App Using Google Vertex AI and SingleStore](https://www.youtube.com/watch?v=lsM0D7TEbXw)
-- [How We Made That App Episode 3 - AutoCAD Evolution: From 2D to AI with Autodesk’s Marcus O’Brien](https://www.youtube.com/watch?v=wKc9JSBQKwE)
 <!-- YOUTUBE:END -->
 
 
