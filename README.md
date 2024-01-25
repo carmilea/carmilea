@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Asbestos in drinking water: An overlooked health risk?](https://www.bbc.com/future/article/20240124-asbestos-in-drinking-water-an-overlooked-health-risk)
 - [Jerry &lpar;YC S17&rpar; Is Hiring Eng, PM, Data, Cos, Ops etc. &lpar;Remote&rpar;](https://getjerry.com/careers)
-- [The Link Between Birth Control Pills and Sex Drive](https://www.nytimes.com/2024/01/23/well/live/birth-control-sex-drive-libido.html)
 - [Show HN: Integer Map Data Structure](https://github.com/billziss-gh/imap)
-- [Boeing Reinstalled Panel That Later Blew Out of 737 MAX Jet](https://www.nytimes.com/2024/01/24/business/boeing-max-9-door-plug.html)
-- [Kagi search reached 20k paying members](https://blog.kagi.com/celebrating-20k)
+- [A minimal-part-count way to connect an SD card to a 68K](http://dmitry.gr/?r=05.Projects&proj=34.%20springSD)
+- [Researchers find signs of intelligence among jumping spiders](https://knowablemagazine.org/content/article/mind/2021/are-spiders-intelligent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
