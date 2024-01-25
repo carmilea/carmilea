@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)
 - [iPhone Apps Harvest Data When They Send You Notifications, Researchers Find](https://gizmodo.com/iphone-apps-can-harvest-data-from-notifications-1851194537)
 - [Sports Illustrated Implosion Shows the Ugly, Ongoing Collapse of U.S. Journalism](https://www.techdirt.com/2024/01/24/sports-illustrated-implosion-perfectly-encapsulates-the-ugly-ongoing-collapse-of-u-s-journalism/)
 - [Proposed UN cybercrime treaty has evolved into an expansive surveillance tool](https://www.eff.org/deeplinks/2024/01/eff-and-more-100-ngos-set-non-negotiable-redlines-ahead-un-cybercrime-treaty)
 - [Faircamp Is a Free Bandcamp Alternative](https://wedistribute.org/2023/11/introducing-faircamp/)
-- [Japan&#39;s precision moon lander has hit its target, but appears to be upside-down](https://phys.org/news/2024-01-japan-craft-successful-pin-moon.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
