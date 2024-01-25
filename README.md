@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inventor of NTP protocol that keeps time on billions of devices dies at age 85](https://arstechnica.com/gadgets/2024/01/inventor-of-ntp-protocol-that-keeps-time-on-billions-of-devices-dies-at-age-85/)
+- [Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues](https://www.usenix.org/conference/usenixsecurity23/presentation/schepers)
+- [The Intellectual We Deserve](https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve)
 - [How AI is changing gymnastics judging](https://www.technologyreview.com/2024/01/16/1086498/ai-gymnastics-judging-jss-world-championships-antwerp-paris-olympics/)
 - [Only 90s Web Developers Remember This &lpar;2014&rpar;](https://zachholman.com/posts/only-90s-developers/)
-- [Idea for a new hand tool: Automatic Wire Twisting Pliers](https://docs.sweeting.me/s/ih75iZv2o)
-- [Brains are not required to think or solve problems – simple cells can do it](https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/)
-- [Placemark is now open source – web-based geospatial data editor](https://github.com/placemark/placemark)
 <!-- BLOG-POST-LIST:END -->
 
 ---
