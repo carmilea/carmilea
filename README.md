@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The shared persuasion tactics of politics and startups](https://www.june.so/blog/the-shared-persuasion-tactics-of-politics-and-startups)
-- [Tesla shares tumble as analyst decries &#39;train wreck&#39; investor call](https://www.washingtonpost.com/business/2024/01/25/tesla-share-price-earnings/)
+- [Manara &lpar;YC W21&rpar; Is Hiring](https://manara.breezy.hr/p/2c46c063355c-senior-founding-product-designer)
+- [Fabrication of Uniform and Rounded Closed-Cell Aluminum Foams](https://www.mdpi.com/2075-4701/14/1/120)
 - [The rise and fall of the standard user interface](https://www.theregister.com/2024/01/24/rise_and_fall_of_cua/)
 - [Hugging Face and Google partner for AI collaboration](https://huggingface.co/blog/gcp-partnership)
 - [PRQL as a DuckDB Extension](https://github.com/ywelsch/duckdb-prql)
