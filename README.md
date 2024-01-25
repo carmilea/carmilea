@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NYC plans to wipe out $2B in medical debt for 500k residents](https://apnews.com/article/rip-medical-debt-new-york-city-adams-1f39530cd79937ced52f47ab4749fb58)
+- [Brains are not required to think or solve problems – simple cells can do it](https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/)
 - [NASA System Predicts Impact of a Small Asteroid over Germany](https://www.nasa.gov/solar-system/asteroids/nasa-system-predicts-impact-of-a-very-small-asteroid-over-germany/)
+- [Placemark is now open source – web-based geospatial data editor](https://github.com/placemark/placemark)
 - [Crusty, the Indestructible Mac](https://geocities.ws/rehasoft/crusty.html)
 - [Self-rewarding-lm-PyTorch: Self-Rewarding Language Model from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
-- [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
 <!-- BLOG-POST-LIST:END -->
 
 ---
