@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Asbestos in drinking water: An overlooked health risk?](https://www.bbc.com/future/article/20240124-asbestos-in-drinking-water-an-overlooked-health-risk)
+- [Lucidrains/self-rewarding-lm-PyTorch: Self-Rewarding Language Model, from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
+- [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
+- [Forkrun: Runs multiple inputs through a command in parallel using bash coprocs](https://github.com/jkool702/forkrun)
 - [Jerry &lpar;YC S17&rpar; Is Hiring Eng, PM, Data, Cos, Ops etc. &lpar;Remote&rpar;](https://getjerry.com/careers)
 - [Show HN: Integer Map Data Structure](https://github.com/billziss-gh/imap)
-- [A minimal-part-count way to connect an SD card to a 68K](http://dmitry.gr/?r=05.Projects&proj=34.%20springSD)
-- [Researchers find signs of intelligence among jumping spiders](https://knowablemagazine.org/content/article/mind/2021/are-spiders-intelligent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
