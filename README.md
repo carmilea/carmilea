@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Q4 2023 Earnings Report [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2023-Update.pdf)
-- [Majority of America&#39;s underground water stores are drying up, study finds](https://thehill.com/policy/equilibrium-sustainability/4426143-majority-of-americas-underground-water-stores-are-drying-up-study-finds/)
-- [San Francisco Tried to Build a $1.7M Toilet. It&#39;s Still Not Done](https://www.nytimes.com/2024/01/24/us/san-francisco-toilet.html)
-- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- [BLIS: A BLAS-like framework for basic linear algebra routines](https://github.com/flame/blis)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Eng, PM, Data, Cos, Ops etc. &lpar;Remote&rpar;](https://getjerry.com/careers)
+- [The Link Between Birth Control Pills and Sex Drive](https://www.nytimes.com/2024/01/23/well/live/birth-control-sex-drive-libido.html)
+- [Show HN: Integer Map Data Structure](https://github.com/billziss-gh/imap)
+- [Boeing Reinstalled Panel That Later Blew Out of 737 MAX Jet](https://www.nytimes.com/2024/01/24/business/boeing-max-9-door-plug.html)
+- [Kagi search reached 20k paying members](https://blog.kagi.com/celebrating-20k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
