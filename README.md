@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Boeing, not Spirit &lpar;supplier&rpar;, mis-installed piece that blew off Alaska MAX 9](https://www.seattletimes.com/business/boeing-aerospace/boeing-not-spirit-mis-installed-piece-that-blew-off-alaska-max-9-jet/)
-- [Which Shows Got Their Finale Right, and Which Didn&#39;t? A Statistical Analysis](https://www.statsignificant.com/p/which-shows-got-their-finale-right)
+- [Which shows got their finale right, and which didn&#39;t?](https://www.statsignificant.com/p/which-shows-got-their-finale-right)
+- [Crusty, the Indestructible Mac](https://geocities.ws/rehasoft/crusty.html)
 - [Lucidrains/self-rewarding-lm-PyTorch: Self-Rewarding Language Model, from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
 - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
 - [Forkrun: Runs multiple inputs through a command in parallel using bash coprocs](https://github.com/jkool702/forkrun)
