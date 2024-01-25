@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clear Shadows &lpar;1867&rpar;](https://publicdomainreview.org/collection/kumanaki-kage/)
+- [Show HN: Qwertle, yet another daily word game](https://qwertle.friedman.in)
+- [Improbable Island, one of the largest and longest-running online text adventures](https://www.improbableisland.com)
+- [Unsafe at Any Speed: Tradeoffs and Values in the Rust Ecosystem](https://bitbashing.io/rust-http.html)
 - [Two sides of software testing: Checking and exploring &lpar;2011&rpar;](https://www.agileconnection.com/article/two-sides-software-testing-checking-and-exploring)
-- [Due to blade damage, Mars Helicopter Ingenuity will not fly again](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
-- [The new architecture wars](https://aeon.co/essays/the-architectural-style-wars-have-started-all-over-again)
-- [The lithium revolution has arrived at California&#39;s Salton Sea](https://www.latimes.com/environment/newsletter/2024-01-25/column-the-lithium-revolution-has-arrived-at-californias-salton-sea-boiling-point)
-- [New embedding models and API updates](https://openai.com/blog/new-embedding-models-and-api-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
