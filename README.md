@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple is allowing alternative browser engines in iOS 17.4 – but only in the EU](https://www.theverge.com/2024/1/25/24050478/apple-ios-17-4-browser-engines-eu)
-- [Apple Overhauls App Store, iPhone Features in EU to Appease Regulators](https://www.bloomberg.com/news/articles/2024-01-25/apple-aapl-overhauls-app-store-iphone-features-in-eu-to-appease-regulators)
+- [HPV vaccine study finds zero cases of cervical cancer among women vaccinated &lt;14](https://www.statnews.com/2024/01/25/hpv-vaccine-prevent-cervical-cancer-cervarix-gardasil-study/)
+- [Framework: We don&#39;t want to have to make a printer, but wow](https://twitter.com/FrameworkPuter/status/1750545558765519344)
+- [OpenAI: New embedding models and API updates](https://openai.com/blog/new-embedding-models-and-api-updates)
 - [Apple Announces Changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
-- [Do Elephants Have Souls?](https://www.thenewatlantis.com/publications/do-elephants-have-souls)
-- [Social Media, AI, and the Battle for Your Brain](https://proto.life/2023/12/social-media-artificial-intelligence-and-the-battle-for-your-brain/)
+- [The Uncomfortable – a collection of deliberately inconvenient objects](https://www.theuncomfortable.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
