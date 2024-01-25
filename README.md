@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS: Using alternative browser engines in the European Union](https://developer.apple.com/support/alternative-browser-engines/)
+- [Two sides of software testing: Checking and exploring &lpar;2011&rpar;](https://www.agileconnection.com/article/two-sides-software-testing-checking-and-exploring)
 - [Due to blade damage, Mars Helicopter Ingenuity will not fly again](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
-- [COSP and USP: New methods to advance reasoning in LLMs](https://pub.towardsai.net/inside-cosp-and-usp-google-research-new-methods-to-advance-reasoning-in-llms-07338b323dfd)
 - [The new architecture wars](https://aeon.co/essays/the-architectural-style-wars-have-started-all-over-again)
 - [The lithium revolution has arrived at California&#39;s Salton Sea](https://www.latimes.com/environment/newsletter/2024-01-25/column-the-lithium-revolution-has-arrived-at-californias-salton-sea-boiling-point)
+- [New embedding models and API updates](https://openai.com/blog/new-embedding-models-and-api-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
