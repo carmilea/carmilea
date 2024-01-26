@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California&#39;s solar &quot;duck curve&quot; near neutral](https://www.eia.gov/todayinenergy/detail.php?id=56880)
-- [Phones Track Everything but Their Role in Car Wrecks](https://www.nytimes.com/2024/01/26/health/cars-phones-accidents.html)
-- [The Rise of Batteries in Six Charts](https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers/)
-- [Servo Engine Updates Bring CSS Tables and Its Browser Gets Back/Forward Buttons](https://www.phoronix.com/news/Servo-Updates-2024-Start)
-- [Jane Street&#39;s &quot;Figgie&quot; Card Game](https://quantfinance.substack.com/p/jane-streets-figgie-card-game)
+- [PC Magazine, PC World, and Macworld&#39;s Origins, as Told by David Bunnell](https://technologizer.com/2024/01/20/the-inside-story-of-pc-magazine-pc-world-and-macworlds-origins-as-told-by-david-bunnell/)
+- [Show HN: PHP API Bindings for Open Brewery DB](https://github.com/JoeyMckenzie/openbrewerydb-php-api)
+- [The blogger who spotted problems in Dana-Farber cancer papers](https://www.nature.com/articles/d41586-024-00202-9)
+- [PinePhone review after a month of daily driving](https://yaky.dev/2024-01-25-pinephone-post-daily-driver-review/)
+- [Google&#39;s Bard shows big leap on LLM performance leaderboard](https://twitter.com/lmsysorg/status/1750921228012122526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
