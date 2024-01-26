@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Post Office plan to sack Horizon IT reviewer kept secret, documents reveal](https://www.bbc.co.uk/news/business-68079300)
+- [The ADHD Exercise Solution &lpar;2023&rpar;](https://www.additudemag.com/the-adhd-exercise-solution/)
+- [Why Tailwind Isn&#39;t for Me](https://www.spicyweb.dev/why-tailwind-isnt-for-me/)
 - [BrowserEngineKit – Apple Developer Documentation](https://developer.apple.com/documentation/BrowserEngineKit?changes=latest_minor)
-- [C Is the Greenest Programming Language](https://hackaday.com/2021/11/18/c-is-the-greenest-programming-language/)
-- [Balancing Outdoor Risky Play and Injury Prevention in Childhood Development](https://cps.ca/en/documents/position/outdoor-risky-play)
-- [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
-- [I don&#39;t always use LaTeX, but when I do, I compile to HTML &lpar;2013&rpar;](https://www.peterkrautzberger.org/0136/)
+- [Induce Lucid Dreaming](https://propheticai.co/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
