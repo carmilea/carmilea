@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BrowserEngineKit – Apple Developer Documentation](https://developer.apple.com/documentation/BrowserEngineKit?changes=latest_minor)
+- [C Is the Greenest Programming Language](https://hackaday.com/2021/11/18/c-is-the-greenest-programming-language/)
 - [Balancing Outdoor Risky Play and Injury Prevention in Childhood Development](https://cps.ca/en/documents/position/outdoor-risky-play)
 - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
 - [I don&#39;t always use LaTeX, but when I do, I compile to HTML &lpar;2013&rpar;](https://www.peterkrautzberger.org/0136/)
-- [Doctor Droid &lpar;YC W23&rpar; Is Hiring in Bangalore](https://www.ycombinator.com/companies/doctor-droid/jobs/YhEZ6dZ-nlp-engineer)
-- [AMD Publishes XDNA Linux Driver: Support for Ryzen AI on Linux](https://www.phoronix.com/news/AMD-XDNA-Linux-Driver-Ryzen-AI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
