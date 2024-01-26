@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lossy CSS compression for fun and loss &lpar;or profit&rpar;](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
+- [Reflections from the World Economic Forum Annual Meeting: Raj Verma](https://www.singlestore.com/blog/reflections-from-wef)
 - [WASI 0.2.0 and Why It Matters](https://wasmcloud.com/blog/wasi-preview-2-officially-launches)
-- [How to Build a Simple Sentiment Analyzer Using Hugging Face Transformer](https://www.turingtalks.ai/p/how-to-build-a-simple-sentiment-analyzer)
 - [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
 - [TinySA – small spectrum analyzer and signal generator](https://www.tinysa.org/wiki/)
-- [Show HN: Alzheimer&#39;s Buddy: Use Flashing Light and Sound at 40Hz](https://alzheimersbuddy.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
