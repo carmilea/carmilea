@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Clear Shadows &lpar;1867&rpar;](https://publicdomainreview.org/collection/kumanaki-kage/)
-- [Show HN: Qwertle, yet another daily word game](https://qwertle.friedman.in)
-- [Improbable Island, one of the largest and longest-running online text adventures](https://www.improbableisland.com)
-- [Unsafe at Any Speed: Tradeoffs and Values in the Rust Ecosystem](https://bitbashing.io/rust-http.html)
-- [Two sides of software testing: Checking and exploring &lpar;2011&rpar;](https://www.agileconnection.com/article/two-sides-software-testing-checking-and-exploring)
+- [Doctor Droid &lpar;YC W23&rpar; Is Hiring in Bangalore](https://www.ycombinator.com/companies/doctor-droid/jobs/YhEZ6dZ-nlp-engineer)
+- [Ask HN: Lenovo encouraging Chromebook users to install Linux?](https://news.ycombinator.com/item?id=39137451)
+- [LTSE shutters cap table management business &lpar;formerly captable.io&rpar;](https://equity.ltse.com/lp/important-updates)
+- [You&#39;re Too Old for That: Age Discrimination in Japan Tech](https://www.tokyodev.com/articles/age-discrimination-in-japan-tech)
+- [Show HN: NativeVision, helping React Native devs to build XR apps for any device](https://github.com/NativeVision/viro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
