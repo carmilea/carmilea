@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Balancing Outdoor Risky Play and Injury Prevention in Childhood Development](https://cps.ca/en/documents/position/outdoor-risky-play)
 - [The U.S. just sold its helium stockpile](https://www.nbcnews.com/health/health-news/us-just-sold-helium-stockpile-s-medical-world-worried-rcna134785)
 - [&#39;They&#39;re knowingly addicting kids&#39;: the attorney challenging social media firms](https://www.theguardian.com/us-news/2024/jan/25/kids-addicted-social-media-congress-meta-tiktok-snap)
 - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
 - [I don&#39;t always use LaTeX, but when I do, I compile to HTML &lpar;2013&rpar;](https://www.peterkrautzberger.org/0136/)
-- [Doctor Droid &lpar;YC W23&rpar; Is Hiring in Bangalore](https://www.ycombinator.com/companies/doctor-droid/jobs/YhEZ6dZ-nlp-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
