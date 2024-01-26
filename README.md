@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mozilla says Apple&#39;s new browser rules are &#39;as painful as possible&#39; for Firefox](https://www.theverge.com/2024/1/26/24052067/mozilla-apple-ios-browser-rules-firefox)
+- [Dangerous chemicals found in recycled plastics, making them unsafe for use](https://theconversation.com/dangerous-chemicals-found-in-recycled-plastics-making-them-unsafe-for-use-experts-explain-the-hazards-220498)
 - [Netflix Hammers the Last Nail into Linear TV&#39;s Coffin](https://www.bloomberg.com/opinion/articles/2024-01-26/netflix-offers-subscribers-a-whole-cable-bundle)
 - [Modern Treasury &lpar;YC S18&rpar; Is Hiring a Design Engineer](https://jobs.ashbyhq.com/moderntreasury/279437f2-0671-403c-b9f5-716ed9a54845)
-- [Google TPU v5p beats Nvidia H100](https://www.techradar.com/pro/google-is-rapidly-turning-into-a-formidable-opponent-to-bff-nvidia-the-tpu-v5p-ai-chip-powering-its-hypercomputer-is-faster-and-has-more-memory-and-bandwidth-than-ever-before-beating-even-the-mighty-h100)
-- [Ask HN: Is it really so dull to work in huge company?](https://news.ycombinator.com/item?id=39148513)
+- [Ask HN: Working with ineffective volunteers at non profit as a solo entrepreneur](https://news.ycombinator.com/item?id=39148577)
+- [The Economist who wants the field to account for nature](https://www.technologyreview.com/2023/12/26/1084603/gretchen-daily-economist-environment-accounting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
