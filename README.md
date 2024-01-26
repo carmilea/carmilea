@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Horizon IT system was 100% reliable&#39;](https://www.bbc.co.uk/news/uk-northern-ireland-68103946)
-- [Netflix CEO says Apple Vision Pro market is too insignificant to bother with](https://appleinsider.com/articles/24/01/25/netflix-ceo-says-apple-vision-pro-market-is-too-insignificant-to-bother-with)
-- [Head of the USAF Is Jumping on the F-22 Production Re-Start Bandwagon &lpar;2020&rpar;](https://www.thedrive.com/the-war-zone/3687/now-the-head-of-the-usaf-is-jumping-on-the-f-22-production-re-start-bandwagon)
-- [Google&#39;s New AI-Powered Browser Could Mark the End of the Human Internet](https://nymag.com/intelligencer/2024/01/new-ai-powered-google-chrome-browser-end-of-human-internet.html)
-- [Tesla Cybertruck Owner Gets &#39;Coming Soon&#39; Message When Trying to Lock Diff](https://www.thedrive.com/news/tesla-cybertruck-owner-gets-coming-soon-message-when-trying-to-lock-diff)
+- [Mozilla says Apple&#39;s new browser rules are &#39;as painful as possible&#39; for Firefox](https://www.theverge.com/2024/1/26/24052067/mozilla-apple-ios-browser-rules-firefox)
+- [Netflix Hammers the Last Nail into Linear TV&#39;s Coffin](https://www.bloomberg.com/opinion/articles/2024-01-26/netflix-offers-subscribers-a-whole-cable-bundle)
+- [Modern Treasury &lpar;YC S18&rpar; Is Hiring a Design Engineer](https://jobs.ashbyhq.com/moderntreasury/279437f2-0671-403c-b9f5-716ed9a54845)
+- [Google TPU v5p beats Nvidia H100](https://www.techradar.com/pro/google-is-rapidly-turning-into-a-formidable-opponent-to-bff-nvidia-the-tpu-v5p-ai-chip-powering-its-hypercomputer-is-faster-and-has-more-memory-and-bandwidth-than-ever-before-beating-even-the-mighty-h100)
+- [Ask HN: Is it really so dull to work in huge company?](https://news.ycombinator.com/item?id=39148513)
 <!-- BLOG-POST-LIST:END -->
 
 ---
