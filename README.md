@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [About Apt-Get Install](https://abhaikollara.substack.com/p/about-apt-get-install)
+- [Don&#39;t Talk to People Like They&#39;re Chatbots](https://www.schneier.com/essays/archives/2024/01/dont-talk-to-people-like-theyre-chatbots.html)
+- [ArVid: Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
 - [Post Office plan to sack Horizon IT reviewer kept secret, documents reveal](https://www.bbc.co.uk/news/business-68079300)
-- [The ADHD Exercise Solution &lpar;2023&rpar;](https://www.additudemag.com/the-adhd-exercise-solution/)
-- [Why Tailwind Isn&#39;t for Me](https://www.spicyweb.dev/why-tailwind-isnt-for-me/)
 - [BrowserEngineKit – Apple Developer Documentation](https://developer.apple.com/documentation/BrowserEngineKit?changes=latest_minor)
-- [Induce Lucid Dreaming](https://propheticai.co/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
