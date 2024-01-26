@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lossy CSS compression for fun and loss &lpar;or profit&rpar;](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
-- [Reflections from the World Economic Forum Annual Meeting: Raj Verma](https://www.singlestore.com/blog/reflections-from-wef)
-- [WASI 0.2.0 and Why It Matters](https://wasmcloud.com/blog/wasi-preview-2-officially-launches)
-- [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
-- [TinySA – small spectrum analyzer and signal generator](https://www.tinysa.org/wiki/)
+- [Google Pixel phones unusable after January 2024 system update](https://www.bleepingcomputer.com/news/google/google-pixel-phones-unusable-after-january-2024-system-update/)
+- [Untranslatable](https://untranslatable.co/)
+- [I abandoned OpenLiteSpeed and went back to good ol&#39; Nginx](https://arstechnica.com/gadgets/2024/01/i-abandoned-openlitespeed-and-went-back-to-good-ol-nginx/)
+- [This Japanese Town Sorts Their Waste Into These 45 Categories](https://www.core77.com/posts/125980/This-Japanese-Town-Sorts-Their-Waste-Into-These-45-Categories)
+- [2013 Airbus A-380 can be yours at &#39;just&#39; $25M](https://www.controller.com/listing/for-sale/224908431/2013-airbus-a380-jet-aircraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
