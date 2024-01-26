@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [About Apt-Get Install](https://abhaikollara.substack.com/p/about-apt-get-install)
+- [Optery &lpar;YC W22&rpar; is hiring a full-stack dev with Node experience &lpar;Latin America&rpar;](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
+- [Dungeons and Dragons turns 50 today](http://grognardia.blogspot.com/2024/01/fifty-years-ago-today.html)
 - [Don&#39;t Talk to People Like They&#39;re Chatbots](https://www.schneier.com/essays/archives/2024/01/dont-talk-to-people-like-theyre-chatbots.html)
 - [ArVid: Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
-- [Post Office plan to sack Horizon IT reviewer kept secret, documents reveal](https://www.bbc.co.uk/news/business-68079300)
-- [BrowserEngineKit – Apple Developer Documentation](https://developer.apple.com/documentation/BrowserEngineKit?changes=latest_minor)
+- [The Japanese philosophy for a no-waste world](https://www.bbc.com/travel/article/20240125-mottainai-in-japan-creativity-is-key-to-a-no-waste-ideal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
