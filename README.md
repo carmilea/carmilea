@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to Get into Quantitative Trading?](https://news.ycombinator.com/item?id=39146654)
-- [Microsoft Teams outage causes connection issues, message delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-causes-connection-issues-message-delays/)
-- [PC Magazine, PC World, and Macworld&#39;s Origins, as Told by David Bunnell](https://technologizer.com/2024/01/20/the-inside-story-of-pc-magazine-pc-world-and-macworlds-origins-as-told-by-david-bunnell/)
-- [Show HN: PHP API Bindings for Open Brewery DB](https://github.com/JoeyMckenzie/openbrewerydb-php-api)
-- [The blogger who spotted problems in Dana-Farber cancer papers](https://www.nature.com/articles/d41586-024-00202-9)
+- [&#39;Horizon IT system was 100% reliable&#39;](https://www.bbc.co.uk/news/uk-northern-ireland-68103946)
+- [Netflix CEO says Apple Vision Pro market is too insignificant to bother with](https://appleinsider.com/articles/24/01/25/netflix-ceo-says-apple-vision-pro-market-is-too-insignificant-to-bother-with)
+- [Head of the USAF Is Jumping on the F-22 Production Re-Start Bandwagon &lpar;2020&rpar;](https://www.thedrive.com/the-war-zone/3687/now-the-head-of-the-usaf-is-jumping-on-the-f-22-production-re-start-bandwagon)
+- [Google&#39;s New AI-Powered Browser Could Mark the End of the Human Internet](https://nymag.com/intelligencer/2024/01/new-ai-powered-google-chrome-browser-end-of-human-internet.html)
+- [Tesla Cybertruck Owner Gets &#39;Coming Soon&#39; Message When Trying to Lock Diff](https://www.thedrive.com/news/tesla-cybertruck-owner-gets-coming-soon-message-when-trying-to-lock-diff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
