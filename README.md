@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to Get into Quantitative Trading?](https://news.ycombinator.com/item?id=39146654)
+- [Microsoft Teams outage causes connection issues, message delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-causes-connection-issues-message-delays/)
 - [PC Magazine, PC World, and Macworld&#39;s Origins, as Told by David Bunnell](https://technologizer.com/2024/01/20/the-inside-story-of-pc-magazine-pc-world-and-macworlds-origins-as-told-by-david-bunnell/)
 - [Show HN: PHP API Bindings for Open Brewery DB](https://github.com/JoeyMckenzie/openbrewerydb-php-api)
 - [The blogger who spotted problems in Dana-Farber cancer papers](https://www.nature.com/articles/d41586-024-00202-9)
-- [PinePhone review after a month of daily driving](https://yaky.dev/2024-01-25-pinephone-post-daily-driver-review/)
-- [Google&#39;s Bard shows big leap on LLM performance leaderboard](https://twitter.com/lmsysorg/status/1750921228012122526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
