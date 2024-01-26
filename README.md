@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An ideological divide is emerging between young men and women around the world](https://twitter.com/jburnmurdoch/status/1750849189834022932)
+- [Show HN: Alzheimer&#39;s Buddy: Use Flashing Light and Sound at 40Hz](https://alzheimersbuddy.com/)
 - [Artist trained rats to take selfies to make a point about social media](https://www.cbc.ca/radio/asithappens/rat-selfies-1.7093886)
 - [Optery &lpar;YC W22&rpar; is hiring a full-stack dev with Node experience &lpar;Latin America&rpar;](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
 - [Dungeons and Dragons turns 50 today](http://grognardia.blogspot.com/2024/01/fifty-years-ago-today.html)
-- [ArVid: Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
-- [The Japanese philosophy for a no-waste world](https://www.bbc.com/travel/article/20240125-mottainai-in-japan-creativity-is-key-to-a-no-waste-ideal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
