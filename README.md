@@ -44,7 +44,7 @@
 
 <!-- YOUTUBE:START -->
 - [Demo- Indexed vector search and Retrieval Augmented Generation!](https://www.youtube.com/watch?v=rKrKC9Wl7Pg)
-- [Product Launch SingleStore Pro Max, the platform for real-time applications, analytics and AI](https://www.youtube.com/watch?v=_aUBckAsV_8)
+- [Product Launch- SingleStore Pro Max, the data platform for real-time applications, analytics and AI](https://www.youtube.com/watch?v=_aUBckAsV_8)
 - [Projections &lpar;Secondary sort key/ secondary shard keys&rpar;, Database Branching, Smart Disaster Recovery!](https://www.youtube.com/watch?v=RfjSQBhbKBk)
 - [How We Made That App Episode 4 - The Revolution of AI and Databases in App Development](https://www.youtube.com/watch?v=G6VyYiNYBZc)
 - [SingleStore: Demo- Query History!](https://www.youtube.com/watch?v=ANIgPe9mr7c)
