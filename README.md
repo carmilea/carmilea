@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ICANN picks the domain it will never, ever release](https://domainincite.com/29381-icann-picks-the-domain-it-will-never-ever-release)
+- [Proposed top-level domain string for private use: &quot;.internal&quot;](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
 - [Rclone syncs your files to cloud storage](https://rclone.org/)
-- [Something peculiar in my 2yo&#39;s bedroom led me to a revelation about our universe](https://m.twitter.com/latifnasser/status/1750952860131729544)
 - [NMAP-formatter: convert NMAP results to HTML, CSV, JSON, graphviz &lpar;dot&rpar;, SQLite](https://github.com/vdjagilev/nmap-formatter)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
+- [Etleap &lpar;YC W13&rpar; is hiring a software engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
+- [Stem, a stack-based language with metaprogramming and a C FLI](https://ret2pop.nullring.xyz/blog/stem.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
