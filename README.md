@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The indie web](https://jamesg.blog/2024/01/27/the-indie-web/)
-- [&quot;It&#39;s Like You&#39;re a Space Explorer Encountering Aliens&quot;](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
+- [Rising Leqembi Prescriptions Are Straining Clinic Capacity](https://www.alzforum.org/news/community-news/rising-leqembi-prescriptions-are-straining-clinic-capacity)
+- [The 100MHz 6502 &lpar;2022&rpar;](https://www.e-basteln.de/computing/65f02/65f02/)
+- [Studying species in the deepest parts of the ocean: A new method of analysis](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
 - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
-- [The Invention of a New Pasta Shape](https://kottke.org/21/03/the-invention-of-a-new-pasta-shape)
-- [Solar is a market for &lpar;financial&rpar; lemons](https://pluralistic.net/2024/01/27/here-comes-the-sun-king/#sign-here)
+- [Hello IPv6: a minimal tutorial for IPv4 users](https://metebalci.com/blog/hello-ipv6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
