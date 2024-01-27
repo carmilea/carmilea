@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The indie web](https://jamesg.blog/2024/01/27/the-indie-web/)
+- [&quot;It&#39;s Like You&#39;re a Space Explorer Encountering Aliens&quot;](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
 - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
 - [The Invention of a New Pasta Shape](https://kottke.org/21/03/the-invention-of-a-new-pasta-shape)
 - [Solar is a market for &lpar;financial&rpar; lemons](https://pluralistic.net/2024/01/27/here-comes-the-sun-king/#sign-here)
-- [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
-- [Mozilla thinks Apple, Google, Microsoft should play fair](https://www.theregister.com/2024/01/25/mozilla_apple_google_browser_wars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
