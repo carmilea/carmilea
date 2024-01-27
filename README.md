@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dangerous chemicals found in recycled plastics, making them unsafe for use](https://theconversation.com/dangerous-chemicals-found-in-recycled-plastics-making-them-unsafe-for-use-experts-explain-the-hazards-220498)
-- [Netflix Hammers the Last Nail into Linear TV&#39;s Coffin](https://www.bloomberg.com/opinion/articles/2024-01-26/netflix-offers-subscribers-a-whole-cable-bundle)
-- [Modern Treasury &lpar;YC S18&rpar; Is Hiring a Design Engineer](https://jobs.ashbyhq.com/moderntreasury/279437f2-0671-403c-b9f5-716ed9a54845)
-- [Ask HN: Working with ineffective volunteers at non profit as a solo entrepreneur](https://news.ycombinator.com/item?id=39148577)
-- [The Economist who wants the field to account for nature](https://www.technologyreview.com/2023/12/26/1084603/gretchen-daily-economist-environment-accounting/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
+- [Apple&#39;s plan to allow browser competition dubbed unworkable](https://open-web-advocacy.org/blog/apple-dma-changes/)
+- [The things nobody wants to pay for in open source](https://lwn.net/SubscriberLink/959069/24c0b18e9fc1b073/)
+- [A New Hampshire cafe owner sued Meta for deleting his account and won](https://www.seacoastonline.com/story/news/2024/01/26/teatotaller-cafe-owner-wins-instagram-case-nh-supreme-court/72345276007/)
+- [2024 IEEE Medal of Honor Goes to Bob Kahn](https://spectrum.ieee.org/medal-of-honor-bob-kahn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
