@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In major gaffe, hacked Microsoft test account was assigned admin privileges](https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/)
+- [Microsoft Teams went down around the world for over eight hours](https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage)
+- [Apple&#39;s punitive compliance will burn its political and developer goodwill](https://techcrunch.com/2024/01/26/apples-reluctant-punitive-compliance-with-regulators-will-burn-its-political-and-developer-goodwill/)
 - [Emerge &lpar;YC W21&rpar; is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 - [Vectorizing Unicode conversions on real RISC-V hardware](https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html)
-- [I used to not worry about climate change. Now I do](http://backreaction.blogspot.com/2024/01/i-used-to-not-worry-about-climate.html)
-- [Implementing a ChatGPT-like LLM from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch)
-- [Scale of methane leaks from fossil fuel production and landfills exposed](https://news.sky.com/story/vast-scale-of-methane-leaks-from-fossil-fuel-production-and-landfill-sites-exposed-13023354)
 <!-- BLOG-POST-LIST:END -->
 
 ---
