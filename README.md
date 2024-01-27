@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cruise wasn&#39;t hiding accident video from regulators – it had bad internet](https://www.theverge.com/2024/1/25/24050791/cruise-pedestrian-dragging-video-driverless-report)
+- [The FCC Is Taking Steps to Wind Down the Affordable Connectivity Program](https://www.fcc.gov/fcc-taking-steps-wind-down-affordable-connectivity-program)
 - [Proposed top-level domain string for private use: &quot;.internal&quot;](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
 - [Rclone syncs your files to cloud storage](https://rclone.org/)
 - [NMAP-formatter: convert NMAP results to HTML, CSV, JSON, graphviz &lpar;dot&rpar;, SQLite](https://github.com/vdjagilev/nmap-formatter)
-- [Etleap &lpar;YC W13&rpar; is hiring a software engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
-- [Stem, a stack-based language with metaprogramming and a C FLI](https://ret2pop.nullring.xyz/blog/stem.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
