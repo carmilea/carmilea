@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify calls Apple&#39;s DMA compliance plan &#39;extortion&#39;&#39;complete and total farce&#39;](https://techcrunch.com/2024/01/26/spotify-calls-apples-dma-compliance-plan-extortion-and-a-complete-and-total-farce/)
-- [Disney Unveils the HoloTile Floor, Inching Us Closer to a Real-Life Holodeck](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
-- [Alan Watts, for all his faults, was an imaginative and provocative thinker](https://aeon.co/essays/how-alan-watts-re-imagined-religion-desire-and-life-itself)
-- [Beeper pulls the plug on iMessage in response to Apple banning users](https://www.androidpolice.com/beeper-imessage-shutting-down/)
-- [Opening night at the Apollo Theater, 90 years ago](https://untappedcities.com/2024/01/26/opening-night-apollo-theater/)
+- [Emerge &lpar;YC W21&rpar; is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+- [Vectorizing Unicode conversions on real RISC-V hardware](https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html)
+- [I used to not worry about climate change. Now I do](http://backreaction.blogspot.com/2024/01/i-used-to-not-worry-about-climate.html)
+- [Implementing a ChatGPT-like LLM from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch)
+- [Scale of methane leaks from fossil fuel production and landfills exposed](https://news.sky.com/story/vast-scale-of-methane-leaks-from-fossil-fuel-production-and-landfill-sites-exposed-13023354)
 <!-- BLOG-POST-LIST:END -->
 
 ---
