@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Today&#39;s Regional Conflicts Resemble the Ones That Produced World War II](https://www.foreignaffairs.com/united-states/next-global-war)
+- [IFTTT is killing its pay-what-you-want Legacy Pro plan &lpar;2023&rpar;](https://www.techhive.com/article/1940144/ifttt-killing-pay-what-you-want-legacy-pro-plan.html)
+- [ExifTool CVE-2021-22204 – Arbitrary Code Execution](https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html)
 - [Building a Password Cracker in 2024](https://www.sevnx.com/blog/post/building-a-password-cracker)
-- [Zig Roadmap 2024 [video]](https://www.youtube.com/watch?v=5eL_LcxwwHg)
-- [All 7 planets could fit between Earth and the Moon](https://old.reddit.com/r/woahdude/comments/26i61g/our_seven_fellow_planets_could_fit_end_to_end/)
 - [Brave Leo now uses Mixtral 8x7B as default](https://brave.com/leo-mixtral/)
-- [The FCC Is Taking Steps to Wind Down the Affordable Connectivity Program](https://www.fcc.gov/fcc-taking-steps-wind-down-affordable-connectivity-program)
 <!-- BLOG-POST-LIST:END -->
 
 ---
