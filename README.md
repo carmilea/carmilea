@@ -60,7 +60,7 @@
 - [All 7 planets could fit between Earth and the Moon](https://old.reddit.com/r/woahdude/comments/26i61g/our_seven_fellow_planets_could_fit_end_to_end/)
 - [Android now lets you transfer eSIMs between your phones](https://www.androidpolice.com/android-esim-transfer-tool/)
 - [Cruise wasn&#39;t hiding accident video from regulators – it had bad internet](https://www.theverge.com/2024/1/25/24050791/cruise-pedestrian-dragging-video-driverless-report)
-- [The FCC Is Taking Steps to Wind Down the Affordable Connectivity Program](https://www.fcc.gov/fcc-taking-steps-wind-down-affordable-connectivity-program)
+- [Brave Leo now uses Mixtral 8x7B as default](https://brave.com/leo-mixtral/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
