@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nesizm: NES emulator for Casio Prizm calculators](https://github.com/tswilliamson/nesizm)
+- [Accuracy of Commercial Sleep-Trackers Compared to Research-Grade Tools](https://www.mdpi.com/1424-8220/24/2/635)
+- [Ask HN: Dystopian Sci-fi books that take place in San Francisco to recommend?](https://news.ycombinator.com/item?id=39155528)
 - [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
-- [Why Is Game Writing So Terrible? &lpar;2021&rpar;](https://www.shamusyoung.com/twentysidedtale/?p=52945)
 - [I am the cheapest bastard in indie games &lpar;2019&rpar;](http://jeff-vogel.blogspot.com/2019/08/i-am-cheapest-bastard-in-indie-games.html)
-- [ExifTool CVE-2021-22204 – Arbitrary Code Execution &lpar;2021&rpar;](https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html)
-- [Ask HN: What happened to startups, why is everything so polished?](https://news.ycombinator.com/item?id=39154380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
