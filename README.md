@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Schools are using surveillance tech to catch students vaping](https://apnews.com/article/vaping-surveillance-technology-schools-982128348c683b9d54c7a307c5b1fdc6)
+- [ICANN picks the domain it will never, ever release](https://domainincite.com/29381-icann-picks-the-domain-it-will-never-ever-release)
+- [Rclone syncs your files to cloud storage](https://rclone.org/)
+- [Something peculiar in my 2yo&#39;s bedroom led me to a revelation about our universe](https://m.twitter.com/latifnasser/status/1750952860131729544)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
 - [Stem, a stack-based language with metaprogramming and a C FLI](https://ret2pop.nullring.xyz/blog/stem.html)
-- [Developmental timing of trauma associated with depressive symptoms in adulthood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479490/)
-- [A New Hampshire cafe owner sued Meta for deleting his account and won](https://www.seacoastonline.com/story/news/2024/01/26/teatotaller-cafe-owner-wins-instagram-case-nh-supreme-court/72345276007/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
