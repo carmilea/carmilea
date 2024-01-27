@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Needless Bullshit of Having a &#39;Mission&#39;](https://shubhamjain.co/2024/01/27/needless-bullshit-having-mission/)
+- [All 7 planets could fit between Earth and the Moon](https://old.reddit.com/r/woahdude/comments/26i61g/our_seven_fellow_planets_could_fit_end_to_end/)
+- [Android now lets you transfer eSIMs between your phones](https://www.androidpolice.com/android-esim-transfer-tool/)
 - [Cruise wasn&#39;t hiding accident video from regulators – it had bad internet](https://www.theverge.com/2024/1/25/24050791/cruise-pedestrian-dragging-video-driverless-report)
 - [The FCC Is Taking Steps to Wind Down the Affordable Connectivity Program](https://www.fcc.gov/fcc-taking-steps-wind-down-affordable-connectivity-program)
-- [Proposed top-level domain string for private use: &quot;.internal&quot;](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
-- [Rclone syncs your files to cloud storage](https://rclone.org/)
-- [NMAP-formatter: convert NMAP results to HTML, CSV, JSON, graphviz &lpar;dot&rpar;, SQLite](https://github.com/vdjagilev/nmap-formatter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
