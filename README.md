@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Today&#39;s Regional Conflicts Resemble the Ones That Produced World War II](https://www.foreignaffairs.com/united-states/next-global-war)
-- [IFTTT is killing its pay-what-you-want Legacy Pro plan &lpar;2023&rpar;](https://www.techhive.com/article/1940144/ifttt-killing-pay-what-you-want-legacy-pro-plan.html)
-- [ExifTool CVE-2021-22204 – Arbitrary Code Execution](https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html)
-- [Building a Password Cracker in 2024](https://www.sevnx.com/blog/post/building-a-password-cracker)
-- [Brave Leo now uses Mixtral 8x7B as default](https://brave.com/leo-mixtral/)
+- [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
+- [Why Is Game Writing So Terrible? &lpar;2021&rpar;](https://www.shamusyoung.com/twentysidedtale/?p=52945)
+- [I am the cheapest bastard in indie games &lpar;2019&rpar;](http://jeff-vogel.blogspot.com/2019/08/i-am-cheapest-bastard-in-indie-games.html)
+- [ExifTool CVE-2021-22204 – Arbitrary Code Execution &lpar;2021&rpar;](https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html)
+- [Ask HN: What happened to startups, why is everything so polished?](https://news.ycombinator.com/item?id=39154380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
