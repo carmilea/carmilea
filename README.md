@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What happened to startups, why is everything so polished?](https://news.ycombinator.com/item?id=39154380)
 - [Building a Password Cracker in 2024](https://www.sevnx.com/blog/post/building-a-password-cracker)
 - [Zig Roadmap 2024 [video]](https://www.youtube.com/watch?v=5eL_LcxwwHg)
-- [Cruise wasn&#39;t hiding accident video from regulators – it had bad internet](https://www.theverge.com/2024/1/25/24050791/cruise-pedestrian-dragging-video-driverless-report)
+- [All 7 planets could fit between Earth and the Moon](https://old.reddit.com/r/woahdude/comments/26i61g/our_seven_fellow_planets_could_fit_end_to_end/)
 - [Brave Leo now uses Mixtral 8x7B as default](https://brave.com/leo-mixtral/)
+- [The FCC Is Taking Steps to Wind Down the Affordable Connectivity Program](https://www.fcc.gov/fcc-taking-steps-wind-down-affordable-connectivity-program)
 <!-- BLOG-POST-LIST:END -->
 
 ---
