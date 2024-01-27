@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nesizm: NES emulator for Casio Prizm calculators](https://github.com/tswilliamson/nesizm)
-- [Accuracy of Commercial Sleep-Trackers Compared to Research-Grade Tools](https://www.mdpi.com/1424-8220/24/2/635)
-- [Ask HN: Dystopian Sci-fi books that take place in San Francisco to recommend?](https://news.ycombinator.com/item?id=39155528)
-- [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
-- [I am the cheapest bastard in indie games &lpar;2019&rpar;](http://jeff-vogel.blogspot.com/2019/08/i-am-cheapest-bastard-in-indie-games.html)
+- [Spotify calls Apple&#39;s DMA compliance plan &#39;extortion&#39;&#39;complete and total farce&#39;](https://techcrunch.com/2024/01/26/spotify-calls-apples-dma-compliance-plan-extortion-and-a-complete-and-total-farce/)
+- [Disney Unveils the HoloTile Floor, Inching Us Closer to a Real-Life Holodeck](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
+- [Alan Watts, for all his faults, was an imaginative and provocative thinker](https://aeon.co/essays/how-alan-watts-re-imagined-religion-desire-and-life-itself)
+- [Beeper pulls the plug on iMessage in response to Apple banning users](https://www.androidpolice.com/beeper-imessage-shutting-down/)
+- [Opening night at the Apollo Theater, 90 years ago](https://untappedcities.com/2024/01/26/opening-night-apollo-theater/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
