@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [In major gaffe, hacked Microsoft test account was assigned admin privileges](https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/)
+- [Is it insider trading if I bought Boeing puts while inside the wrecked airplane?](https://law.stackexchange.com/questions/98706/is-it-insider-trading-if-i-bought-boeing-puts-while-i-am-inside-the-wrecked-airp)
+- [LoMA: Lossless Compressed Memory Attention](https://arxiv.org/abs/2401.09486)
 - [Microsoft Teams went down around the world for over eight hours](https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage)
-- [Apple&#39;s punitive compliance will burn its political and developer goodwill](https://techcrunch.com/2024/01/26/apples-reluctant-punitive-compliance-with-regulators-will-burn-its-political-and-developer-goodwill/)
 - [Emerge &lpar;YC W21&rpar; is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
-- [Vectorizing Unicode conversions on real RISC-V hardware](https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
