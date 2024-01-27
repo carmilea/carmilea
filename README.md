@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gitlab password reset bug leaves more than 5.3K servers up for grabs](https://www.scmagazine.com/news/gitlab-password-reset-bug-leaves-more-than-5-3k-servers-up-for-grabs)
-- [Android Studio for Platform](https://developer.android.com/studio/platform)
-- [Using AI to teach how to code, remember you still need to think for yourself](https://www.theregister.com/2024/01/27/ai_coding_automatic/)
-- [In major gaffe, hacked Microsoft test account was assigned admin privileges](https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/)
-- [Is it insider trading if I bought Boeing puts while inside the wrecked airplane?](https://law.stackexchange.com/questions/98706/is-it-insider-trading-if-i-bought-boeing-puts-while-i-am-inside-the-wrecked-airp)
+- [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
+- [The Invention of a New Pasta Shape](https://kottke.org/21/03/the-invention-of-a-new-pasta-shape)
+- [Solar is a market for &lpar;financial&rpar; lemons](https://pluralistic.net/2024/01/27/here-comes-the-sun-king/#sign-here)
+- [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
+- [Mozilla thinks Apple, Google, Microsoft should play fair](https://www.theregister.com/2024/01/25/mozilla_apple_google_browser_wars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
