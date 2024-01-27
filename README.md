@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Needless Bullshit of Having a &#39;Mission&#39;](https://shubhamjain.co/2024/01/27/needless-bullshit-having-mission/)
+- [Zig Roadmap 2024 [video]](https://www.youtube.com/watch?v=5eL_LcxwwHg)
 - [All 7 planets could fit between Earth and the Moon](https://old.reddit.com/r/woahdude/comments/26i61g/our_seven_fellow_planets_could_fit_end_to_end/)
 - [Android now lets you transfer eSIMs between your phones](https://www.androidpolice.com/android-esim-transfer-tool/)
 - [Cruise wasn&#39;t hiding accident video from regulators – it had bad internet](https://www.theverge.com/2024/1/25/24050791/cruise-pedestrian-dragging-video-driverless-report)
