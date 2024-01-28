@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the FBI Targeted Camus, and Then Sartre After the JFK Assassination &lpar;2013&rpar;](https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html)
+- [General purpose MCUs built in to LEDs emulate candle flicker](https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/)
+- [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
+- [Fungi survives outside international space station](https://www.agenciasinc.es/en/News/Antarctic-fungi-survive-Martian-conditions-on-the-International-Space-Station)
 - [Milwaukee reporter investigates cousin&#39;s 1978 car bombing death](https://www.jsonline.com/story/news/investigations/2024/01/17/milwaukee-reporter-investigates-cousins-1978-car-bombing-death/71883074007/)
-- [Law for Computer Scientists &lpar;2020&rpar;](https://lawforcomputerscientists.pubpub.org/)
-- [German train company are looking for a Windows 3.11 Administrator](https://www.gulp.de/gulp2/g/projekte/agentur/C00929028)
-- [New GitHub Copilot Research Finds &#39;Downward Pressure on Code Quality&#39;](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
-- [The missing apex of Maslow&#39;s hierarchy: self-transcendence](https://bigthink.com/personal-growth/the-missing-apex-of-maslows-hierarchy-could-save-us-all/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
