@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How the FBI Targeted Camus, and Then Sartre After the JFK Assassination &lpar;2013&rpar;](https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html)
+- [US State Sales Tax Rates Chart](https://www.salestaxinstitute.com/resources/rates)
+- [What makes switching to GNU Linux almost impossible for many?](https://nixsanctuary.com/when-and-where-it-gets-impossible-to-use-gnu-linux/)
+- [How the FBI targeted Camus, and then Sartre after the JFK assassination &lpar;2013&rpar;](https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html)
 - [General purpose MCUs built in to LEDs emulate candle flicker](https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/)
 - [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
-- [Fungi survives outside international space station](https://www.agenciasinc.es/en/News/Antarctic-fungi-survive-Martian-conditions-on-the-International-Space-Station)
-- [Milwaukee reporter investigates cousin&#39;s 1978 car bombing death](https://www.jsonline.com/story/news/investigations/2024/01/17/milwaukee-reporter-investigates-cousins-1978-car-bombing-death/71883074007/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
