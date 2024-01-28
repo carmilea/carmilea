@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Electric-Vehicle Cheating Scandal](https://www.wsj.com/articles/the-electric-car-cheating-scandal-subsidy-rule-efficiency-falsehood-2798b4ab)
+- [Harvesting Electricity from High-Voltage Transmission Lines Using Fences](https://hackaday.com/2024/01/27/harvesting-electricity-from-high-voltage-transmission-lines-using-fences/)
 - [Remembering Unix Desktops – and What We Can Learn from Them](https://www.theregister.com/2024/01/27/opinion_column/)
 - [C_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
 - [I built my own 16-Bit CPU in Excel [video]](https://www.youtube.com/watch?v=5rg7xvTJ8SU)
