@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Army Drops Requirement for High School Diploma Amid Recruiting Crisis](https://www.military.com/daily-news/2022/06/24/army-drops-requirement-high-school-diploma-amid-recruiting-crisis.html)
-- [Are we past peak IPv4?](https://www.sidn.nl/en/news-and-blogs/are-we-past-peak-ipv4)
+- [Garry Tan tech CEO and campaign donor wishes death upon SF politicians](https://missionlocal.org/2024/01/garry-tan-death-wish-sf-supervisors/)
+- [Building a DIY CT/CAT scanner for $200 [video]](https://www.youtube.com/watch?v=zj7YjFDt2WY)
 - [Solid-state EV batteries now face &quot;production hell&quot;](https://spectrum.ieee.org/solid-state-battery-production-challenges)
-- [Hermit crabs are using trash as shells](https://www.bbc.com/news/science-environment-68071695.amp)
 - [So long and thanks for all the fish](https://nitter.d420.de)
+- [Rising Leqembi Prescriptions Are Straining Clinic Capacity](https://www.alzforum.org/news/community-news/rising-leqembi-prescriptions-are-straining-clinic-capacity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
