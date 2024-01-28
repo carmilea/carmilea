@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I looked through attacks in my access logs. Here&#39;s what I found](https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/)
-- [Rowhammer Resistant Coding in Sudo](https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac6029309e4f)
-- [&#39;I don&#39;t see how it ends&#39;: expert sounds alarm on new wave of US opioids crisis](https://www.theguardian.com/us-news/2024/jan/28/us-opioids-crisis-fentanyl-appalachia)
-- [Bartkira: The Simpsons and Akira](http://www.bartkira.com)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Show HN: Apple II clock using interrupts from physical pendulum clock](https://github.com/wkjagt/apple2_pendulum_clock/blob/main/README.md)
+- [In case you missed it: America got much bigger continental shelf](https://bigthink.com/strange-maps/extended-continental-shelf/)
+- [When the &quot;R&quot; goes missing from R&amp;D &lpar;2021&rpar;](https://madned.substack.com/p/when-the-r-goes-missing-from-r-and)
+- [Protesters hurl soup at the Mona Lisa painting in Paris](https://edition.cnn.com/2024/01/28/europe/soup-thrown-mona-lisa-louvre-paris-intl/index.html)
+- [Apple and Goldman Sachs: A timeline of the messy partnership that will soon fall](https://9to5mac.com/2024/01/26/apple-card-goldman-sachs-deal-ending-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
