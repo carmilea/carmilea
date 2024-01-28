@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Solid-State EV Batteries Now Face &quot;Production Hell&quot;](https://spectrum.ieee.org/solid-state-battery-production-challenges)
+- [U.S. Army Drops Requirement for High School Diploma Amid Recruiting Crisis](https://www.military.com/daily-news/2022/06/24/army-drops-requirement-high-school-diploma-amid-recruiting-crisis.html)
+- [Are we past peak IPv4?](https://www.sidn.nl/en/news-and-blogs/are-we-past-peak-ipv4)
+- [Solid-state EV batteries now face &quot;production hell&quot;](https://spectrum.ieee.org/solid-state-battery-production-challenges)
 - [Hermit crabs are using trash as shells](https://www.bbc.com/news/science-environment-68071695.amp)
-- [Nitter Shutting Down](https://nitter.d420.de)
-- [Rising Leqembi Prescriptions Are Straining Clinic Capacity](https://www.alzforum.org/news/community-news/rising-leqembi-prescriptions-are-straining-clinic-capacity)
-- [Philadelphia Jury Hits Monsanto with $2.25B Roundup Verdict](https://www.law.com/thelegalintelligencer/2024/01/26/philadelphia-jury-hits-monsanto-with-2-25b-roundup-verdict/)
+- [So long and thanks for all the fish](https://nitter.d420.de)
 <!-- BLOG-POST-LIST:END -->
 
 ---
