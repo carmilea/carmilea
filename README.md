@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US State Sales Tax Rates Chart](https://www.salestaxinstitute.com/resources/rates)
-- [What makes switching to GNU Linux almost impossible for many?](https://nixsanctuary.com/when-and-where-it-gets-impossible-to-use-gnu-linux/)
+- [GitHub Spam is out of control](https://djanes.xyz/spam-on-github-is-getting-crazy-these-days/)
 - [How the FBI targeted Camus, and then Sartre after the JFK assassination &lpar;2013&rpar;](https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html)
 - [General purpose MCUs built in to LEDs emulate candle flicker](https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/)
 - [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
+- [Fungi survives outside international space station](https://www.agenciasinc.es/en/News/Antarctic-fungi-survive-Martian-conditions-on-the-International-Space-Station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
