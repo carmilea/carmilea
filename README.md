@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Milwaukee reporter investigates cousin&#39;s 1978 car bombing death](https://www.jsonline.com/story/news/investigations/2024/01/17/milwaukee-reporter-investigates-cousins-1978-car-bombing-death/71883074007/)
+- [Law for Computer Scientists &lpar;2020&rpar;](https://lawforcomputerscientists.pubpub.org/)
+- [German train company are looking for a Windows 3.11 Administrator](https://www.gulp.de/gulp2/g/projekte/agentur/C00929028)
 - [New GitHub Copilot Research Finds &#39;Downward Pressure on Code Quality&#39;](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
 - [The missing apex of Maslow&#39;s hierarchy: self-transcendence](https://bigthink.com/personal-growth/the-missing-apex-of-maslows-hierarchy-could-save-us-all/)
-- [Following lawsuit, rep admits &quot;AI&quot; George Carlin was human-written](https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/)
-- [Michael Lewis&#39;s Blind Side](https://asteriskmag.com/issues/05/michael-lewis-s-blind-side)
-- [New exoplanets identified that could potentially harbor life](https://www.earth.com/news/scientists-have-identified-85-new-exoplanets-that-could-harbor-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
