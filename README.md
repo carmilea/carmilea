@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New exoplanets identified that could potentially harbor life](https://www.earth.com/news/scientists-have-identified-85-new-exoplanets-that-could-harbor-life/)
 - [Show HN: Apple II clock using interrupts from physical pendulum clock](https://github.com/wkjagt/apple2_pendulum_clock/blob/main/README.md)
 - [In case you missed it: America got much bigger continental shelf](https://bigthink.com/strange-maps/extended-continental-shelf/)
 - [When the &quot;R&quot; goes missing from R&amp;D &lpar;2021&rpar;](https://madned.substack.com/p/when-the-r-goes-missing-from-r-and)
-- [Protesters hurl soup at the Mona Lisa painting in Paris](https://edition.cnn.com/2024/01/28/europe/soup-thrown-mona-lisa-louvre-paris-intl/index.html)
 - [Apple and Goldman Sachs: A timeline of the messy partnership that will soon fall](https://9to5mac.com/2024/01/26/apple-card-goldman-sachs-deal-ending-report/)
 <!-- BLOG-POST-LIST:END -->
 
