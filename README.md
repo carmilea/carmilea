@@ -58,8 +58,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Electric-Vehicle Cheating Scandal](https://www.wsj.com/articles/the-electric-car-cheating-scandal-subsidy-rule-efficiency-falsehood-2798b4ab)
 - [Remembering Unix Desktops – and What We Can Learn from Them](https://www.theregister.com/2024/01/27/opinion_column/)
+- [C_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
 - [I built my own 16-Bit CPU in Excel [video]](https://www.youtube.com/watch?v=5rg7xvTJ8SU)
-- [Ask HN: Why Keybase?](https://news.ycombinator.com/item?id=39162436)
 - [Building a DIY CT/CAT scanner for $200 [video]](https://www.youtube.com/watch?v=zj7YjFDt2WY)
 <!-- BLOG-POST-LIST:END -->
 
