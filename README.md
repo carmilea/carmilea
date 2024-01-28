@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New GitHub Copilot Research Finds &#39;Downward Pressure on Code Quality&#39;](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
+- [The missing apex of Maslow&#39;s hierarchy: self-transcendence](https://bigthink.com/personal-growth/the-missing-apex-of-maslows-hierarchy-could-save-us-all/)
+- [Following lawsuit, rep admits &quot;AI&quot; George Carlin was human-written](https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/)
+- [Michael Lewis&#39;s Blind Side](https://asteriskmag.com/issues/05/michael-lewis-s-blind-side)
 - [New exoplanets identified that could potentially harbor life](https://www.earth.com/news/scientists-have-identified-85-new-exoplanets-that-could-harbor-life/)
-- [Show HN: Apple II clock using interrupts from physical pendulum clock](https://github.com/wkjagt/apple2_pendulum_clock/blob/main/README.md)
-- [In case you missed it: America got much bigger continental shelf](https://bigthink.com/strange-maps/extended-continental-shelf/)
-- [When the &quot;R&quot; goes missing from R&amp;D &lpar;2021&rpar;](https://madned.substack.com/p/when-the-r-goes-missing-from-r-and)
-- [Apple and Goldman Sachs: A timeline of the messy partnership that will soon fall](https://9to5mac.com/2024/01/26/apple-card-goldman-sachs-deal-ending-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
