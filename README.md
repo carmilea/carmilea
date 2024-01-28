@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Curl HTTP/3 Performance](https://github.com/icing/blog/blob/main/curl-h3-performance.md)
+- [I Hacked a Train Toilet](https://www.devever.net/~hl/traintoilet)
+- [Over 2k shell companies have directors aged 123 years or older](https://fortune.com/2024/01/22/moodys-red-flags-shell-companies-directors-123-years-old/)
+- [Ask HN: Best open source and/or free EDA tooling](https://news.ycombinator.com/item?id=39163522)
 - [Harvesting Electricity from High-Voltage Transmission Lines Using Fences](https://hackaday.com/2024/01/27/harvesting-electricity-from-high-voltage-transmission-lines-using-fences/)
-- [Remembering Unix Desktops – and What We Can Learn from Them](https://www.theregister.com/2024/01/27/opinion_column/)
-- [C_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
-- [I built my own 16-Bit CPU in Excel [video]](https://www.youtube.com/watch?v=5rg7xvTJ8SU)
-- [Building a DIY CT/CAT scanner for $200 [video]](https://www.youtube.com/watch?v=zj7YjFDt2WY)
 <!-- BLOG-POST-LIST:END -->
 
 ---
