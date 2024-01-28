@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Garry Tan tech CEO and campaign donor wishes death upon SF politicians](https://missionlocal.org/2024/01/garry-tan-death-wish-sf-supervisors/)
+- [I built my own 16-Bit CPU in Excel [video]](https://www.youtube.com/watch?v=5rg7xvTJ8SU)
 - [Building a DIY CT/CAT scanner for $200 [video]](https://www.youtube.com/watch?v=zj7YjFDt2WY)
 - [Solid-state EV batteries now face &quot;production hell&quot;](https://spectrum.ieee.org/solid-state-battery-production-challenges)
 - [So long and thanks for all the fish](https://nitter.d420.de)
