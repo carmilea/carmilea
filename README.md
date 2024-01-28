@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rowhammer Resistant Coding in Sudo](https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac6029309e4f)
 - [&#39;I don&#39;t see how it ends&#39;: expert sounds alarm on new wave of US opioids crisis](https://www.theguardian.com/us-news/2024/jan/28/us-opioids-crisis-fentanyl-appalachia)
 - [Bartkira: The Simpsons and Akira](http://www.bartkira.com)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Hacker News&#39; favorite Xkcd comics &lpar;2022&rpar;](https://www.quaxio.com/hackernews_xkcd_citations/)
-- [Google Chrome goes native for Windows on Arm](https://www.theverge.com/2024/1/26/24051485/google-chrome-windows-arm-support-canary-channel-test)
+- [Hacker Newsy: a pretty Hacker News client](https://github.com/cotyhamilton/hacker-newsy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
