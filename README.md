@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hermit crabs are using trash as shells](https://www.bbc.com/news/science-environment-68071695.amp)
+- [Nitter Shutting Down](https://nitter.d420.de)
 - [Rising Leqembi Prescriptions Are Straining Clinic Capacity](https://www.alzforum.org/news/community-news/rising-leqembi-prescriptions-are-straining-clinic-capacity)
-- [The 100MHz 6502 &lpar;2022&rpar;](https://www.e-basteln.de/computing/65f02/65f02/)
-- [Studying species in the deepest parts of the ocean: A new method of analysis](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
-- [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
-- [Hello IPv6: a minimal tutorial for IPv4 users](https://metebalci.com/blog/hello-ipv6/)
+- [Philadelphia Jury Hits Monsanto with $2.25B Roundup Verdict](https://www.law.com/thelegalintelligencer/2024/01/26/philadelphia-jury-hits-monsanto-with-2-25b-roundup-verdict/)
+- [Microsoft explains how Russian hackers spied on its executives](https://www.theverge.com/2024/1/26/24051708/microsoft-hack-russian-security-attack-senior-leadership-emails)
 <!-- BLOG-POST-LIST:END -->
 
 ---
