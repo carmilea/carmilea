@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There&#39;s No Good Reason to Buy a Carbon Bike](https://www.outsideonline.com/culture/opinion/theres-no-good-reason-to-buy-a-carbon-bike/)
-- [FAA gave secret code words to students in the Black Caucus of FAA Employees](https://twitter.com/austen/status/1752026149624959041)
+- [OpenAI: Copy, Steal, Paste](https://www.computerworld.com/article/3712540/openai-copy-steal-paste.html)
+- [Walmart Store Managers Can Make Up to $400k](https://www.bloomberg.com/news/articles/2024-01-29/walmart-to-offer-store-managers-up-to-20-000-in-stock-grants)
 - [Show HN: Boardzilla, a framework for making web-based board games](https://www.boardzilla.io/)
 - [Darknetlive Sold to Incognito Market](https://darkdot.com/articles/darknetlive-sold/)
 - [Evergrande, once China&#39;s biggest property developer, ordered to liquidate](https://www.wsj.com/articles/evergrande-faces-imminent-liquidation-after-talks-with-top-creditors-break-down-4af5f657)
