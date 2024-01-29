@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There Is No Planet B &lpar;For Worldbuilding&rpar;](https://etiennefd.substack.com/p/there-is-no-planet-b-for-worldbuilding)
-- [Florida House of Representatives approves bill to ban social media for kids &lt; 16](https://abcnews.go.com/GMA/Family/florida-house-representatives-approves-bill-ban-social-media/story?id=106672586)
-- [—-libcurl](https://everything.curl.dev/libcurl/libcurl)
-- [Streetview scraper v1: cheap, arbitrary sized streetview images](https://loichovon.com/posts/streetview-scraper.html)
-- [One Billion Row Challenge Shows Java Can Process 1B Rows File in 2 Seconds](https://www.infoq.com/news/2024/01/1brc-fast-java-processing/)
+- [Why focus on AI meeting transcripts if the real problem is bad meeting prep?](https://www.meetrics.ai/)
+- [Coding on Copilot: 2023 Data Suggests Downward Pressure on Code Quality](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
+- [The Apple Vision Pro&#39;s Missing Apps](https://stratechery.com/2024/the-apple-vision-pros-missing-apps/)
+- [Dr Strangelove turns 60 today](https://www.bbc.com/culture/article/20240129-dr-strangelove-at-60-the-mystery-behind-kubricks-cold-war-masterpiece)
+- [Show HN: WhisperFusion – Ultra-low latency conversations with an AI chatbot](https://github.com/collabora/WhisperFusion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
