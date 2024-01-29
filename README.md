@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Aviation Herald needs your help to recover from advertising failure](https://avherald.com/h?nyh=)
+- [Nix-direnv is a quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
 - [Online Use Car Seller Vroom Collapses as Sales Fall, Losses Mount](https://www.thedrive.com/news/online-use-car-seller-vroom-collapses-as-sales-fall-losses-mount)
-- [Ask HN: Those who&#39;ve joined a friend&#39;s startup as an employee, how did that go?](https://news.ycombinator.com/item?id=39171079)
 - [GitHub Spam](https://djanes.xyz/spam-on-github-is-getting-crazy-these-days/)
 - [How the FBI targeted Camus, and then Sartre after the JFK assassination &lpar;2013&rpar;](https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html)
-- [General purpose MCUs built in to LEDs emulate candle flicker](https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
