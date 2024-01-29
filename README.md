@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Watching Ads on Amazon Prime Video Is a Deal Breaker for Some](https://www.wsj.com/business/media/amazon-is-now-charging-prime-members-extra-for-ad-free-streaming-for-some-thats-a-deal-breaker-068d4896)
-- [Vape-o-nomics: Why Everything is Addictive Now [video]](https://www.youtube.com/watch?v=XuTQbOo3Y30)
-- [Viewing Illegal Streams: No Cautions, Fines or Arrests Say GM Police](https://torrentfreak.com/viewing-illegal-streams-no-cautions-fines-or-arrests-say-gm-police-240129/)
-- [Show HN: Phrasing – learn every language, to any level](https://phrasing.app/playground)
-- [How we had our Nectar Points stolen, and this is how yours will be too](https://www.kiphakes.com/2024/01/how-we-had-our-nectar-points-stolen-and-this-is-how-yours-will-be-too/)
+- [Hollywood keeps reminding us why we need physical media more than](https://www.ign.com/articles/hollywood-keeps-reminding-us-why-we-need-physical-media-more-than-ever)
+- [How the U.S. Government Could Lower Food Prices for Everyone](https://www.vice.com/en/article/88x783/how-the-us-government-could-lower-food-prices-for-everyone)
+- [Thaddeus Cahill&#39;s Teleharmonium](https://www.synthmuseum.com/magazine/0102jw.html)
+- [Car ownership in the US is becoming more expensive](https://www.theguardian.com/business/2024/jan/29/us-car-costs-insurance-unaffordable)
+- [An Air Force officer who spent $11M searching Earhart&#39;s plane may have found it](https://www.businessinsider.com/sonar-image-pilot-amelia-earhart-plane-found-pacific-ocean-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
