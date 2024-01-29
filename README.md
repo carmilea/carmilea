@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Watching Ads on Amazon Prime Video Is a Deal Breaker for Some](https://www.wsj.com/business/media/amazon-is-now-charging-prime-members-extra-for-ad-free-streaming-for-some-thats-a-deal-breaker-068d4896)
+- [Vape-o-nomics: Why Everything is Addictive Now [video]](https://www.youtube.com/watch?v=XuTQbOo3Y30)
+- [Viewing Illegal Streams: No Cautions, Fines or Arrests Say GM Police](https://torrentfreak.com/viewing-illegal-streams-no-cautions-fines-or-arrests-say-gm-police-240129/)
 - [Show HN: Phrasing – learn every language, to any level](https://phrasing.app/playground)
 - [How we had our Nectar Points stolen, and this is how yours will be too](https://www.kiphakes.com/2024/01/how-we-had-our-nectar-points-stolen-and-this-is-how-yours-will-be-too/)
-- [Paintings of the Traditional Porcelain Process](https://www.derekau.net/blog/2019/07/10/paintings-of-the-traditional-porcelain-process)
-- [Why focus on AI meeting transcripts if the real problem is bad meeting prep?](https://www.meetrics.ai/)
-- [Coding on Copilot: Data suggests downward pressure on code quality](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
 <!-- BLOG-POST-LIST:END -->
 
 ---
