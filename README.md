@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China Evergrande ordered to liquidate, owing $300B](https://www.reuters.com/business/embattled-china-evergrande-back-court-liquidation-hearing-2024-01-28)
+- [Why is Maxwell&#39;s theory so hard to understand? &lpar;2007&rpar; [pdf]](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
+- [Passenger flight flying over Pacific reaches 822 MPH in jet stream](https://www.washingtonpost.com/weather/2024/01/26/airplane-flight-record-speed-pacific-jetstream/)
 - [Hell is other people: performance management at Big Tech](https://lcamtuf.substack.com/p/hell-is-other-people-performance)
+- [Online used car seller Vroom collapses as sales fall, losses mount](https://www.thedrive.com/news/online-use-car-seller-vroom-collapses-as-sales-fall-losses-mount)
 - [Show HN: Librarian - Semantic Bookmark Search Using Transformers](https://github.com/oto-labs/librarian)
-- [Ask HN: Those who&#39;ve joined a friend&#39;s startup as an employee, how did that go?](https://news.ycombinator.com/item?id=39171079)
-- [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
