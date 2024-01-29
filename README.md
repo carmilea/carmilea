@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why is Maxwell&#39;s theory so hard to understand? &lpar;2007&rpar; [pdf]](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
+- [California Bill Wants to Mandate Electronic &#39;Speed Limiters&#39; in Cars](https://www.caranddriver.com/news/a46554218/new-car-regulated-speed-limit-california-bill/)
+- [Eagle 7B: Soaring past Transformers](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
 - [Passenger flight flying over Pacific reaches 822 MPH in jet stream](https://www.washingtonpost.com/weather/2024/01/26/airplane-flight-record-speed-pacific-jetstream/)
 - [Hell is other people: performance management at Big Tech](https://lcamtuf.substack.com/p/hell-is-other-people-performance)
-- [Online used car seller Vroom collapses as sales fall, losses mount](https://www.thedrive.com/news/online-use-car-seller-vroom-collapses-as-sales-fall-losses-mount)
-- [Show HN: Librarian - Semantic Bookmark Search Using Transformers](https://github.com/oto-labs/librarian)
 <!-- BLOG-POST-LIST:END -->
 
 ---
