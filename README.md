@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ubuntu Looking at Applying Low-Latency Optimizations to Its Generic Kernel](https://www.phoronix.com/news/Ubuntu-Low-Lat-Generic-Kernel)
 - [Global Room-Temperature Superconductivity in Graphite](https://onlinelibrary.wiley.com/doi/10.1002/qute.202300230)
-- [Google Crimes](http://xahlee.info/w/google_index.html)
 - [Why is Maxwell&#39;s theory so hard to understand? &lpar;2007&rpar; [pdf]](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
 - [Eagle 7B: Soaring past Transformers](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
+- [New Renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
