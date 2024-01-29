@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI: Copy, Steal, Paste](https://www.computerworld.com/article/3712540/openai-copy-steal-paste.html)
-- [Walmart Store Managers Can Make Up to $400k](https://www.bloomberg.com/news/articles/2024-01-29/walmart-to-offer-store-managers-up-to-20-000-in-stock-grants)
+- [Scientists document first-ever transmitted Alzheimer&#39;s cases](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
+- [HP CEO Makes Up a Whole Lot of Bullshit to Defend Crippling Printers](https://www.techdirt.com/2024/01/29/hp-ceo-makes-up-a-whole-lot-of-bullshit-to-defend-crippling-printers-that-use-cheaper-ink/)
+- [Ask HN: How can I back up an old vBulletin forum without admin access?](https://news.ycombinator.com/item?id=39182738)
+- [A Tour of Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
 - [Show HN: Boardzilla, a framework for making web-based board games](https://www.boardzilla.io/)
-- [Darknetlive Sold to Incognito Market](https://darkdot.com/articles/darknetlive-sold/)
-- [Evergrande, once China&#39;s biggest property developer, ordered to liquidate](https://www.wsj.com/articles/evergrande-faces-imminent-liquidation-after-talks-with-top-creditors-break-down-4af5f657)
 <!-- BLOG-POST-LIST:END -->
 
 ---
