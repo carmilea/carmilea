@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists document first-ever transmitted Alzheimer&#39;s cases](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
-- [HP CEO Makes Up a Whole Lot of Bullshit to Defend Crippling Printers](https://www.techdirt.com/2024/01/29/hp-ceo-makes-up-a-whole-lot-of-bullshit-to-defend-crippling-printers-that-use-cheaper-ink/)
+- [An Introduction to the WARC File](https://archive-it.org/post/the-stack-warc-file/)
+- [Alzheimer’s cases tied to no-longer-used medical procedure](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
 - [Ask HN: How can I back up an old vBulletin forum without admin access?](https://news.ycombinator.com/item?id=39182738)
 - [A Tour of Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
 - [Show HN: Boardzilla, a framework for making web-based board games](https://www.boardzilla.io/)
