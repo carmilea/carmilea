@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu Looking at Applying Low-Latency Optimizations to Its Generic Kernel](https://www.phoronix.com/news/Ubuntu-Low-Lat-Generic-Kernel)
+- [Global Room-Temperature Superconductivity in Graphite](https://onlinelibrary.wiley.com/doi/10.1002/qute.202300230)
+- [Google Crimes](http://xahlee.info/w/google_index.html)
 - [Why is Maxwell&#39;s theory so hard to understand? &lpar;2007&rpar; [pdf]](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
-- [California Bill Wants to Mandate Electronic &#39;Speed Limiters&#39; in Cars](https://www.caranddriver.com/news/a46554218/new-car-regulated-speed-limit-california-bill/)
 - [Eagle 7B: Soaring past Transformers](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
-- [Passenger flight flying over Pacific reaches 822 MPH in jet stream](https://www.washingtonpost.com/weather/2024/01/26/airplane-flight-record-speed-pacific-jetstream/)
-- [Hell is other people: performance management at Big Tech](https://lcamtuf.substack.com/p/hell-is-other-people-performance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
