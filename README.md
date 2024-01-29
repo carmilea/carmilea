@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Several Truths Regarding Success](https://risingthumb.xyz/Writing/Blog/TruthsAboutSuccess)
+- [Harmonics Explorer](https://teropa.info/harmonics-explorer/)
 - [Japan: Moon lander Slim comes back to life and resumes mission](https://www.bbc.co.uk/news/world-asia-68125589)
 - [Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/)
 - [Ubuntu Looking at Applying Low-Latency Optimizations to Its Generic Kernel](https://www.phoronix.com/news/Ubuntu-Low-Lat-Generic-Kernel)
-- [Global Room-Temperature Superconductivity in Graphite](https://onlinelibrary.wiley.com/doi/10.1002/qute.202300230)
-- [Why is Maxwell&#39;s theory so hard to understand? &lpar;2007&rpar; [pdf]](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
