@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Update Reveals AI Will Read All Your Private Messages](https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/)
-- [Harmonics Explorer](https://teropa.info/harmonics-explorer/)
-- [Japan: Moon lander Slim comes back to life and resumes mission](https://www.bbc.co.uk/news/world-asia-68125589)
-- [linefont: Font for rendering line chart data](https://github.com/dy/linefont)
-- [Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/)
+- [There Is No Planet B &lpar;For Worldbuilding&rpar;](https://etiennefd.substack.com/p/there-is-no-planet-b-for-worldbuilding)
+- [Florida House of Representatives approves bill to ban social media for kids &lt; 16](https://abcnews.go.com/GMA/Family/florida-house-representatives-approves-bill-ban-social-media/story?id=106672586)
+- [—-libcurl](https://everything.curl.dev/libcurl/libcurl)
+- [Streetview scraper v1: cheap, arbitrary sized streetview images](https://loichovon.com/posts/streetview-scraper.html)
+- [One Billion Row Challenge Shows Java Can Process 1B Rows File in 2 Seconds](https://www.infoq.com/news/2024/01/1brc-fast-java-processing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
