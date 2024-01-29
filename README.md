@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What are some homeless shelter innovations?](https://news.ycombinator.com/item?id=39180155)
-- [Thaddeus Cahill&#39;s Teleharmonium](https://www.synthmuseum.com/magazine/0102jw.html)
-- [Experiments on a $50 DIY air purifier you can make in 30s](https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/)
-- [An Air Force officer who spent $11M searching Earhart&#39;s plane may have found it](https://www.businessinsider.com/sonar-image-pilot-amelia-earhart-plane-found-pacific-ocean-2024)
-- [How We Built a Real-Time RAG Application for Free With SingleStore and Vercel](https://www.singlestore.com/blog/real-time-rag-app-with-singlestore-and-vercel)
+- [There&#39;s No Good Reason to Buy a Carbon Bike](https://www.outsideonline.com/culture/opinion/theres-no-good-reason-to-buy-a-carbon-bike/)
+- [FAA gave secret code words to students in the Black Caucus of FAA Employees](https://twitter.com/austen/status/1752026149624959041)
+- [Show HN: Boardzilla, a framework for making web-based board games](https://www.boardzilla.io/)
+- [Darknetlive Sold to Incognito Market](https://darkdot.com/articles/darknetlive-sold/)
+- [Evergrande, once China&#39;s biggest property developer, ordered to liquidate](https://www.wsj.com/articles/evergrande-faces-imminent-liquidation-after-talks-with-top-creditors-break-down-4af5f657)
 <!-- BLOG-POST-LIST:END -->
 
 ---
