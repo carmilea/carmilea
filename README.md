@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle extends Solaris 11.4 support until 2037](https://www.theregister.com/2024/01/29/oracle_extends_solaris_support/)
-- [Enemy drone that killed US troops in Jordan seemingly mistaken for US drone](https://apnews.com/article/jordan-drone-attack-attack-confusion-f175962e058b9b6f668303faf248d8e6)
-- [Ask HN: Are full-page Google Ads more frequent now?](https://news.ycombinator.com/item?id=39184408)
-- [Deus Ex title killed after Embracer Group&#39;s cuts at Eidos](https://arstechnica.com/gaming/2024/01/report-embracers-ongoing-layoffs-kill-a-new-deus-ex-game-after-2-years-work/)
+- [Dracula Theme for Hacker News](https://draculatheme.com/hacker-news)
+- [Linear Programming - Researchers Approach New Speed Limit for Seminal Problem](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
+- [A Mouse Becomes a Camera](https://hackaday.com/2024/01/29/a-mouse-becomes-a-camera/)
 - [Ask HN: Are you using a GPT to prompt-engineer another GPT?](https://news.ycombinator.com/item?id=39184149)
+- [An Introduction to the WARC File](https://archive-it.org/post/the-stack-warc-file/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
