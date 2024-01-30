@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US marshals lure fugitive killer of Texas cyclist out of hiding with yoga ad](https://www.theguardian.com/us-news/2024/jan/29/texas-cyclist-killer-caught-yoga-ad-costa-rica)
+- [Protecting Secrets from Computers &lpar;2023&rpar;](https://dl.acm.org/doi/10.1145/3623614)
 - [Dracula Theme for Hacker News](https://draculatheme.com/hacker-news)
-- [Linear Programming - Researchers Approach New Speed Limit for Seminal Problem](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
+- [Researchers have found a faster way to do integer linear programming](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
 - [A Mouse Becomes a Camera](https://hackaday.com/2024/01/29/a-mouse-becomes-a-camera/)
-- [Ask HN: Are you using a GPT to prompt-engineer another GPT?](https://news.ycombinator.com/item?id=39184149)
-- [An Introduction to the WARC File](https://archive-it.org/post/the-stack-warc-file/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
