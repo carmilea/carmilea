@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CEOs Are Using Return to Office Mandates to Mask Poor Management](https://www.forbes.com/sites/qhamirani/2024/01/26/ceos-are-using-return-to-office-mandates-to-mask-poor-management/)
-- [Birth rates are falling in the Nordics. Are natalist policies no longer enough?](https://www.ft.com/content/500c0fb7-a04a-4f87-9b93-bf65045b9401)
-- [Hoover Free Flights Promotion](https://en.wikipedia.org/wiki/Hoover_free_flights_promotion)
-- [Covid Test Data Breach: 1.3M Patient Records Exposed Online](https://www.vpnmentor.com/news/report-coronalab-breach/)
-- [Safetyism Killed Playtime](https://unherd.com/2024/01/how-safetyism-killed-playtime/)
+- [Python HTTP library &#39;urllib3&#39; now works in the browser](https://github.com/urllib3/urllib3/releases/tag/2.2.0)
+- [Daily Driving the PinePhone Pro](https://zerwuerfnis.org/daily-driving-the-pinephone-pro)
+- [Playground &lpar;YC S19&rpar; Is Hiring a Product Engineer &lpar;Remote&rpar;](https://playground.com/jobs)
+- [Russian TLD .RU fails DNSSEC validation](https://dnsviz.net/d/cctld.ru/dnssec/)
+- [&#39;Do not drive&#39;: Toyota recalls some 50k older vehicles](https://scrippsnews.com/stories/do-not-drive-toyota-recalls-some-50-000-older-vehicles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
