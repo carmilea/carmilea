@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The disastrous communication from Apple to apps developers](https://www.carette.xyz/posts/dont_be_evil_apple/)
+- [Seven Indicators of Shell Company Risk](https://www.moodys.com/web/en/us/about/insights/data-stories/kyc-innovation-shell-company-indicator.html)
+- [What the The end of 0% interest rates means for software engineers](https://newsletter.pragmaticengineer.com/p/zirp-software-engineers)
 - [Tractor cab look like a space ship [video]](https://www.youtube.com/watch?v=ubl5BEuqzL8)
 - [Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
-- [A South Carolina lawmaker is suing Instagram after his son died by suicide](https://www.cnn.com/2024/01/30/us/rep-brandon-guffey-instagram-lawsuit-cec/index.html)
-- [Python HTTP library &#39;urllib3&#39; now works in the browser](https://github.com/urllib3/urllib3/releases/tag/2.2.0)
+- [Profiling Your Numba Code](https://pythonspeed.com/articles/numba-profiling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
