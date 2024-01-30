@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The disastrous communication from Apple to apps developers](https://www.carette.xyz/posts/dont_be_evil_apple/)
+- [Tractor cab look like a space ship [video]](https://www.youtube.com/watch?v=ubl5BEuqzL8)
+- [Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
+- [A South Carolina lawmaker is suing Instagram after his son died by suicide](https://www.cnn.com/2024/01/30/us/rep-brandon-guffey-instagram-lawsuit-cec/index.html)
 - [Python HTTP library &#39;urllib3&#39; now works in the browser](https://github.com/urllib3/urllib3/releases/tag/2.2.0)
-- [Daily Driving the PinePhone Pro](https://zerwuerfnis.org/daily-driving-the-pinephone-pro)
-- [Playground &lpar;YC S19&rpar; Is Hiring a Product Engineer &lpar;Remote&rpar;](https://playground.com/jobs)
-- [Russian TLD .RU fails DNSSEC validation](https://dnsviz.net/d/cctld.ru/dnssec/)
-- [&#39;Do not drive&#39;: Toyota recalls some 50k older vehicles](https://scrippsnews.com/stories/do-not-drive-toyota-recalls-some-50-000-older-vehicles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
