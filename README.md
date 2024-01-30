@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI companies will need to start reporting their safety tests to DoC](https://apnews.com/article/biden-ai-artificial-intelligence-safe-395591bcde523416db88767fa54f30f5)
-- [Senator Wyden Letter Confirms NSA Is Buying US Persons&#39; Data from Data Brokers](https://www.techdirt.com/2024/01/29/well-thats-everyone-senator-wyden-letter-confirms-the-nsa-is-buying-us-persons-data-from-data-brokers/)
-- [Launch HN: Univerbal &lpar;YC W23&rpar; – Language learning with a conversational AI tutor](https://news.ycombinator.com/item?id=39188760)
-- [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
-- [Ryzen 8000G review: An integrated GPU that can beat a graphics card, for a price](https://arstechnica.com/gadgets/2024/01/ryzen-8000g-review-an-integrated-gpu-that-can-beat-a-graphics-card-for-a-price/)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+- [Apple Vision Pro review: magic, until it&#39;s not](https://www.theverge.com/24054862/apple-vision-pro-review-vr-ar-headset-features-price)
+- [The Rise of Technoauthoritarianism](https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/)
+- [Show HN: Wren – simple yet extensible task management with CLI, Telegram, HTTP](https://github.com/bjesus/wren)
+- [The original magic Emacs garbage collection hack &lpar;2019&rpar;](https://akrl.sdf.org/#orgc15a10d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
