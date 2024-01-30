@@ -58,7 +58,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Google Announces Fourth Quarter and Fiscal Year 2023 Results [pdf]](https://abc.xyz/assets/95/eb/9cef90184e09bac553796896c633/2023q4-alphabet-earnings-release.pdf)
 - [Relationship Hero &lpar;YC S17&rpar; Is Hiring Relationship Coaches](https://relationshiphero.com/careers?role=coach)
-- [YouTube-dl has been taken down](https://news.ycombinator.com/item?id=39195529)
+- [Secure Access: SingleStore Helios Cloud OIDC and SAML Authentication](https://www.singlestore.com/blog/singlestore-oidc-and-saml-authentication)
 - [Small biz owners scale back their office space or go remote altogether](https://www.cp24.com/world/small-biz-owners-scale-back-their-office-space-or-go-remote-altogether-some-move-to-the-suburbs-1.6747552)
 - [Gitstr: Send and receive Git patches over Nostr](https://github.com/fiatjaf/gitstr)
 <!-- BLOG-POST-LIST:END -->
