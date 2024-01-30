@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: TLD Squatting](https://captnemo.in/tld-squatting/)
+- [Patients say keto helps with mental illness. Science is racing to understand why](https://www.npr.org/sections/health-shots/2024/01/27/1227062470/keto-ketogenic-diet-mental-illness-bipolar-depression)
 - [Periodontal Disease Promotes Alzheimer&#39;s in Mice](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-023-02821-x)
 - [Everyone hates the electronic medical record](https://logicmag.io/policy/why-everyone-hates-the-electronic-medical-record/)
 - [Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
-- [Boeing withdraws bid for safety exemption for Boeing 737 MAX 7](https://www.reuters.com/business/aerospace-defense/boeing-withdraws-bid-safety-exemption-boeing-737-max-7-2024-01-30/)
-- [When did cold, carbonated beer become the standard, and was there pushback?](https://old.reddit.com/r/AskHistorians/comments/1adzsfg/when_did_cold_carbonated_beer_become_the_standard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
