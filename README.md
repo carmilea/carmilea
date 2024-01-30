@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prisoners in the US are part of a hidden workforce linked to popular food brands](https://apnews.com/article/prison-to-plate-inmate-labor-investigation-c6f0eb4747963283316e494eadf08c4e)
+- [Inside the Music Industry&#39;s High-Stakes A.I. Experiments](https://www.newyorker.com/magazine/2024/02/05/inside-the-music-industrys-high-stakes-ai-experiments)
 - [Show HN: TLD Squatting](https://captnemo.in/tld-squatting/)
 - [Patients say keto helps with mental illness. Science is racing to understand why](https://www.npr.org/sections/health-shots/2024/01/27/1227062470/keto-ketogenic-diet-mental-illness-bipolar-depression)
 - [Periodontal Disease Promotes Alzheimer&#39;s in Mice](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-023-02821-x)
-- [Everyone hates the electronic medical record](https://logicmag.io/policy/why-everyone-hates-the-electronic-medical-record/)
-- [Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
