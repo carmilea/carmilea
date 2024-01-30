@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The five Gaits of the Icelandic horse](https://islandshestar.is/the-five-gaits-of-the-icelandic-horse/)
+- [Google Announces Fourth Quarter and Fiscal Year 2023 Results [pdf]](https://abc.xyz/assets/95/eb/9cef90184e09bac553796896c633/2023q4-alphabet-earnings-release.pdf)
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Relationship Coaches](https://relationshiphero.com/careers?role=coach)
+- [YouTube-dl has been taken down](https://news.ycombinator.com/item?id=39195529)
+- [Small biz owners scale back their office space or go remote altogether](https://www.cp24.com/world/small-biz-owners-scale-back-their-office-space-or-go-remote-altogether-some-move-to-the-suburbs-1.6747552)
 - [Gitstr: Send and receive Git patches over Nostr](https://github.com/fiatjaf/gitstr)
-- [Why the AI Boom Is a Windfall for Tiny Anguilla](https://spectrum.ieee.org/ai-domains)
-- [The Soviet 1801VM2 LSI-11 Processor &lpar;2021&rpar;](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/)
-- [Tear up unused parking lots and plant trees](https://danrodricks.com/2024/01/29/tear-up-unused-parking-lots-plant-trees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
