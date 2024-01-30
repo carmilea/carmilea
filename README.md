@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US marshals lure fugitive killer of Texas cyclist out of hiding with yoga ad](https://www.theguardian.com/us-news/2024/jan/29/texas-cyclist-killer-caught-yoga-ad-costa-rica)
+- [Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
+- [Boeing withdraws bid for safety exemption for Boeing 737 MAX 7](https://www.reuters.com/business/aerospace-defense/boeing-withdraws-bid-safety-exemption-boeing-737-max-7-2024-01-30/)
 - [Protecting Secrets from Computers &lpar;2023&rpar;](https://dl.acm.org/doi/10.1145/3623614)
 - [Dracula Theme for Hacker News](https://draculatheme.com/hacker-news)
 - [Researchers have found a faster way to do integer linear programming](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
-- [A Mouse Becomes a Camera](https://hackaday.com/2024/01/29/a-mouse-becomes-a-camera/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
