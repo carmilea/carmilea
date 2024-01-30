@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Seven Indicators of Shell Company Risk](https://www.moodys.com/web/en/us/about/insights/data-stories/kyc-innovation-shell-company-indicator.html)
-- [What the The end of 0% interest rates means for software engineers](https://newsletter.pragmaticengineer.com/p/zirp-software-engineers)
-- [Tractor cab look like a space ship [video]](https://www.youtube.com/watch?v=ubl5BEuqzL8)
-- [Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
-- [Profiling Your Numba Code](https://pythonspeed.com/articles/numba-profiling/)
+- [The five Gaits of the Icelandic horse](https://islandshestar.is/the-five-gaits-of-the-icelandic-horse/)
+- [Gitstr: Send and receive Git patches over Nostr](https://github.com/fiatjaf/gitstr)
+- [Why the AI Boom Is a Windfall for Tiny Anguilla](https://spectrum.ieee.org/ai-domains)
+- [The Soviet 1801VM2 LSI-11 Processor &lpar;2021&rpar;](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/)
+- [Tear up unused parking lots and plant trees](https://danrodricks.com/2024/01/29/tear-up-unused-parking-lots-plant-trees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
