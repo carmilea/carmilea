@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The business of check cashing](https://www.bitsaboutmoney.com/archive/the-business-of-check-cashing/)
+- [Proton, a fast and lightweight alternative to Apache Flink](https://github.com/timeplus-io/proton)
+- [NASA&#39;s Webb depicts structure in 19 nearby spiral galaxies](https://webbtelescope.org/contents/news-releases/2024/news-2024-105?news=true)
 - [Google Announces Fourth Quarter and Fiscal Year 2023 Results [pdf]](https://abc.xyz/assets/95/eb/9cef90184e09bac553796896c633/2023q4-alphabet-earnings-release.pdf)
 - [Relationship Hero &lpar;YC S17&rpar; Is Hiring Relationship Coaches](https://relationshiphero.com/careers?role=coach)
-- [Secure Access: SingleStore Helios Cloud OIDC and SAML Authentication](https://www.singlestore.com/blog/singlestore-oidc-and-saml-authentication)
-- [Small biz owners scale back their office space or go remote altogether](https://www.cp24.com/world/small-biz-owners-scale-back-their-office-space-or-go-remote-altogether-some-move-to-the-suburbs-1.6747552)
-- [Gitstr: Send and receive Git patches over Nostr](https://github.com/fiatjaf/gitstr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
