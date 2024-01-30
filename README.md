@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JetBrains CEO Transition](https://blog.jetbrains.com/blog/2024/01/30/jetbrains-ceo-transition/)
+- [Ask HN: Would doing a coding bootcamp be a horrible idea?](https://news.ycombinator.com/item?id=39188657)
+- [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
 - [Men hand over Bitcoins worth two billion euros to German federal police](https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt-a-66a34b4a-a01b-4edf-b622-cdbff14596dd)
 - [Ryzen 8000G review: An integrated GPU that can beat a graphics card, for a price](https://arstechnica.com/gadgets/2024/01/ryzen-8000g-review-an-integrated-gpu-that-can-beat-a-graphics-card-for-a-price/)
 - [How Will the Golden Age of &quot;Making It Worse&quot; End?](https://defector.com/how-will-the-golden-age-of-making-it-worse-end)
-- [Raspberry Pi Picks Banks for IPO, Choosing London over New York](https://www.bloomberg.com/news/articles/2024-01-29/raspberry-pi-picks-banks-for-ipo-choosing-london-over-new-york)
 <!-- BLOG-POST-LIST:END -->
 
 ---
