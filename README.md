@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek Coder: Let the Code Write Itself](https://deepseekcoder.github.io/)
-- [Generating Fantasy Maps &lpar;2016&rpar;](http://mewo2.com/notes/terrain/)
-- [Non-deterministic execution of Python functions](https://gitlab.inria.fr/cpaperma/nondet)
-- [Comcast reluctantly agrees to stop its misleading &quot;10G Network&quot; claims](https://arstechnica.com/tech-policy/2024/01/comcast-to-stop-calling-entire-network-10g-as-name-is-ruled-misleading/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Ars Technica used in malware campaign with never-before-seen obfuscation](https://arstechnica.com/security/2024/01/ars-technica-used-in-malware-campaign-with-never-before-seen-obfuscation/)
+- [Making a PDF that&#39;s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
+- [MobileDiffusion: Rapid text-to-image generation on-device](https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html)
+- [Visual Analysis of Binary Files](http://binvis.io/#/)
+- [Tried Vision Pro. Here&#39;s what I thought](https://old.reddit.com/r/OculusQuest/comments/1aetqks/long_posttried_vision_pro_heres_what_i_thought/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
