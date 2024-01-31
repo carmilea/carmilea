@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk&#39;s $56B Tesla compensation voided by judge](https://www.cnbc.com/amp/2024/01/30/tesla-shares-slide-after-judge-voids-elon-musks-56-billion-compensation.html)
-- [Gaming is now Microsoft&#39;s third largest business, bigger than Windows](https://twitter.com/tomwarren/status/1752452485116018704)
-- [Instagram Threads triples downloads in December, reaching top; X falls to #36](https://techcrunch.com/2024/01/30/instagram-threads-triples-downloads-in-december-reaching-the-top-10-x-falls-to-no-36/)
+- [No One Should Be the Second Person to Die on a Dangerous Street](https://www.strongtowns.org/journal/2024/1/26/no-one-should-be-the-second-person-to-die-on-a-dangerous-street)
+- [The Average American Spends $3.3M over Their Lifetime](https://www.nasdaq.com/articles/the-average-american-spends-$3.3-million-over-their-lifetime:-see-how-that-breaks-down)
 - [A Trojan approach to guide and trap light beams via Lagrange points](https://phys.org/news/2024-01-trojan-approach-lagrange.html)
 - [Google Search Drops Cache Link from Search Results](https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html)
+- [Intel&#39;s Humbling](https://stratechery.com/2024/intels-humbling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
