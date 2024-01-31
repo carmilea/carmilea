@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
-- [Reverse-Engineering a Scoreboard Display](https://hardfault.life/p/big-seven-segment)
-- [Ask HN: Any good Silicon Valley Photo coffee table books?](https://news.ycombinator.com/item?id=39203916)
-- [A Bad Day for Tech: 31,000 Jobs Slashed &lpar;2001&rpar;](https://www.latimes.com/archives/la-xpm-2001-jul-27-mn-27155-story.html)
-- [Japan will no longer require floppy disks for submitting some official documents](https://www.engadget.com/japan-will-no-longer-require-floppy-disks-for-submitting-some-official-documents-212048844.html)
+- [Infinite Craft](https://neal.fun/infinite-craft/)
+- [Lottie is now a part of the Linux foundation](https://www.lottielab.com/blog/lottie-joins-linux-foundation)
+- [Jones Act Contributions to Offshore Wind Difficulties](https://www.cato.org/blog/jones-act-contributes-offshore-wind-growing-pains)
+- [Adobe Gives Up on Web-Design Product to Rival Figma After Deal Collapse](https://www.bloomberg.com/news/articles/2024-01-30/adobe-gives-up-on-xd-after-figma-deal-collapse)
+- [RavenDB 6.0.2 &lpar;A Jepsen Report&rpar;](https://jepsen.io/analyses/ravendb-6.0.2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
