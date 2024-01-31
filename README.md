@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
+- [Could our Universe be a simulation? How would we even tell?](https://arstechnica.com/science/2024/01/could-our-universe-be-a-simulation-how-would-we-even-tell/)
+- [23andMe&#39;s Fall from $6B to Nearly $0](https://www.wsj.com/health/healthcare/23andme-anne-wojcicki-healthcare-stock-913468f4)
 - [The Pentagon Tried to Hide That It Bought Americans&#39; Data Without a Warrant](https://www.wired.com/story/pentagon-data-purchases-wyden-letter/)
 - [Gitlab&#39;s ActivityPub architecture blueprint](https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/)
-- [Microsoft Edge ignores user wishes, slurps tabs from Chrome without permission](https://www.theregister.com/2024/01/30/microsoft_edge_tabs/)
-- [Microsoft Edge now steals your data from Google Chrome after an update](https://9to5google.com/2024/01/30/microsoft-edge-chrome-data-update-windows/)
-- [Show HN: ChatGPT prompt builder – the simplest prompt builder](https://mitenmit.github.io/gpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
