@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Trojan approach to guide and trap light beams via Lagrange points](https://phys.org/news/2024-01-trojan-approach-lagrange.html)
-- [Google search drops cache link from search results](https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html)
-- [165 m private submersible superyacht](https://www.migaloo-submarines.com/m5-1-of-1/)
-- [Intel&#39;s Humbling](https://stratechery.com/2024/intels-humbling/)
-- [USCIS announces strengthened integrity measures for H-1B program](https://www.uscis.gov/newsroom/news-releases/uscis-announces-strengthened-integrity-measures-for-h-1b-program)
+- [It turns out the six-feet social-distancing rule had no scientific basis](https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850)
+- [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
+- [Satellites Are Becoming the New Cellphone Towers](https://spectrum.ieee.org/satellite-cellphone-starlink)
+- [Epitaph – Fermi Paradox Simulator](https://mkremins.github.io/epitaph/)
+- [Why Custom GPTs are better than plugins](https://moveit.substack.com/p/why-custom-gpts-are-better-than-plugins)
 <!-- BLOG-POST-LIST:END -->
 
 ---
