@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
+- [Reverse-Engineering a Scoreboard Display](https://hardfault.life/p/big-seven-segment)
 - [Ask HN: Any good Silicon Valley Photo coffee table books?](https://news.ycombinator.com/item?id=39203916)
-- [Does fermion doubling make the universe not a computer?](https://scottaaronson.blog/?p=7705)
-- [Don&#39;t use NameCheap for the .fr TLD](https://reddit.com/r/webdev/comments/1aesrm3/dont_use_namecheap_for_the_fr_tld/)
+- [A Bad Day for Tech: 31,000 Jobs Slashed &lpar;2001&rpar;](https://www.latimes.com/archives/la-xpm-2001-jul-27-mn-27155-story.html)
 - [Japan will no longer require floppy disks for submitting some official documents](https://www.engadget.com/japan-will-no-longer-require-floppy-disks-for-submitting-some-official-documents-212048844.html)
-- [There&#39;s More Proof That Return to Office Is Pointless](https://gizmodo.com/more-proof-that-return-to-office-is-pointless-1851209231)
 <!-- BLOG-POST-LIST:END -->
 
 ---
