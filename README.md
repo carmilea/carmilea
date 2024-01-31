@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Changes in Windows to Comply with the Digital Markets Act in the EEA](https://blogs.windows.com/windows-insider/2023/11/16/previewing-changes-in-windows-to-comply-with-the-digital-markets-act-in-the-european-economic-area/)
-- [The Youth Mental Health Crisis Is International Part 4: Europe](https://www.afterbabel.com/p/international-crisis-europe)
-- [Intel&#39;s Humbling](https://stratechery.com/2024/intels-humbling/)
-- [USCIS Announces Strengthened Integrity Measures for H-1B Program](https://www.uscis.gov/newsroom/news-releases/uscis-announces-strengthened-integrity-measures-for-h-1b-program)
-- [The business of check cashing](https://www.bitsaboutmoney.com/archive/the-business-of-check-cashing/)
+- [Instagram Threads triples downloads in December, reaching top; X falls to #36](https://techcrunch.com/2024/01/30/instagram-threads-triples-downloads-in-december-reaching-the-top-10-x-falls-to-no-36/)
+- [Framework DIY 13 Gen AMD Review](https://tylercipriani.com/blog/2024/01/22/framework-13-amd-diy/)
+- [A Trojan approach to guide and trap light beams via Lagrange points](https://phys.org/news/2024-01-trojan-approach-lagrange.html)
+- [Google Search Drops Cache Link from Search Results](https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html)
+- [165 m Private Submersible Superyacht](https://www.migaloo-submarines.com/m5-1-of-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
