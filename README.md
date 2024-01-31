@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kando: The Cross-Platform Pie Menu](https://github.com/kando-menu/kando)
+- [Hearing aids slow cognitive decline in people at high risk](https://www.nih.gov/news-events/nih-research-matters/hearing-aids-slow-cognitive-decline-people-high-risk)
+- [ICANN proposes creating .INTERNAL domain to do the same job as 192.168.x.x](https://www.theregister.com/2024/01/29/icann_internal_tld/)
+- [Lawmakers Seeking to Outlaw Rent Price Fixing Reported by Propublica](https://www.propublica.org/article/senators-introduce-legislation-stop-landlords-algorithm-price-fixing)
 - [Justpaid.io &lpar;YC W23&rpar; Account Executive](https://news.ycombinator.com/item?id=39206169)
-- [Ask HN: How would you approach mastering a skill ASAP?](https://news.ycombinator.com/item?id=39205885)
-- [Apple is turning developers against Vision Pro before it even arrives](https://www.macworld.com/article/2220841/app-store-fees-maliciious-compliance-vision-pro.html)
-- [Differ: Tool for testing and validating transformed programs](https://blog.trailofbits.com/2024/01/31/introducing-differ-a-new-tool-for-testing-and-validating-transformed-programs/)
-- [Launch HN: Encord &lpar;YC W21&rpar; – Unit testing for computer vision models](https://news.ycombinator.com/item?id=39205725)
 <!-- BLOG-POST-LIST:END -->
 
 ---
