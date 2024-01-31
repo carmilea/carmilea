@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Area Codes](https://dougsillars.github.io/httpareacodes/)
 - [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
 - [Satellites Are Becoming the New Cellphone Towers](https://spectrum.ieee.org/satellite-cellphone-starlink)
 - [Epitaph – Fermi Paradox Simulator](https://mkremins.github.io/epitaph/)
-- [Why Custom GPTs are better than plugins](https://moveit.substack.com/p/why-custom-gpts-are-better-than-plugins)
-- [OWA&#39;s Review of Apple&#39;s DMA Compliance Proposal for the Web](https://open-web-advocacy.org/blog/owa-review-apple-dma-compliance-for-web/)
+- [Getting fitter can reduce prostate cancer risk by 35%, study finds](https://www.theguardian.com/society/2024/jan/30/getting-fitter-can-reduce-prostate-cancer-risk-by-35-study-finds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
