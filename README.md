@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek Coder: Let the Code Write Itself](https://deepseekcoder.github.io/)
+- [Generating Fantasy Maps &lpar;2016&rpar;](http://mewo2.com/notes/terrain/)
+- [Non-deterministic execution of Python functions](https://gitlab.inria.fr/cpaperma/nondet)
+- [Comcast reluctantly agrees to stop its misleading &quot;10G Network&quot; claims](https://arstechnica.com/tech-policy/2024/01/comcast-to-stop-calling-entire-network-10g-as-name-is-ruled-misleading/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [One Glass of Wine or Beer Daily May Cause Brain to Shrink &lpar;2022&rpar;](https://www.usatoday.com/story/news/health/2022/03/09/beer-glass-wine-daily-brain-shrink/9425508002/)
-- [Buggy software is dogging the switch to electric cars](https://www.axios.com/2024/01/31/gm-ev-electric-vehicle-error-software)
-- [I Moved My Blog from IPFS to a Server](https://neimanslab.org/2024-01-31/why-i-moved-my-blog-ipfs-to-server.html)
-- [Fighting Infomania: Why 80% of Your Reading Is a Waste of Time](https://www.nateliason.com/blog/infomania)
 <!-- BLOG-POST-LIST:END -->
 
 ---
