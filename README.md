@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Infinite Craft](https://neal.fun/infinite-craft/)
-- [Lottie is now a part of the Linux foundation](https://www.lottielab.com/blog/lottie-joins-linux-foundation)
-- [Jones Act Contributions to Offshore Wind Difficulties](https://www.cato.org/blog/jones-act-contributes-offshore-wind-growing-pains)
-- [Adobe Gives Up on Web-Design Product to Rival Figma After Deal Collapse](https://www.bloomberg.com/news/articles/2024-01-30/adobe-gives-up-on-xd-after-figma-deal-collapse)
-- [RavenDB 6.0.2 &lpar;A Jepsen Report&rpar;](https://jepsen.io/analyses/ravendb-6.0.2)
+- [Justpaid.io &lpar;YC W23&rpar; Account Executive](https://news.ycombinator.com/item?id=39206169)
+- [Ask HN: How would you approach mastering a skill ASAP?](https://news.ycombinator.com/item?id=39205885)
+- [Apple is turning developers against Vision Pro before it even arrives](https://www.macworld.com/article/2220841/app-store-fees-maliciious-compliance-vision-pro.html)
+- [Differ: Tool for testing and validating transformed programs](https://blog.trailofbits.com/2024/01/31/introducing-differ-a-new-tool-for-testing-and-validating-transformed-programs/)
+- [Launch HN: Encord &lpar;YC W21&rpar; – Unit testing for computer vision models](https://news.ycombinator.com/item?id=39205725)
 <!-- BLOG-POST-LIST:END -->
 
 ---
