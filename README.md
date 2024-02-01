@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FOSDEM 2024 – NetBSD 10: Thirty years, still going strong [video]](https://fosdem.org/2024/schedule/event/fosdem-2024-3508-netbsd-10-thirty-years-still-going-strong-/)
+- [Nasopharyngeal Lymphatics Found to Be Crucial for Cerebrospinal Fluid Outflow](https://www.ibs.re.kr/cop/bbs/BBSMSTR_000000000738/selectBoardArticle.do?nttId=24483&pageIndex=1&searchCnd=&searchWrd=)
+- [What Is an Electronic Sackbut?](https://spectrum.ieee.org/electronic-music)
+- [240-Gbit/s sub-THz wireless communications using ultra-low phase noise receiver](https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_20.20230584/_article)
 - [CyberChef from GCHQ: The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
-- [Starlink&#39;s Laser System Is Beaming 42 Petabytes of Data per Day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
-- [Watch a 7k-LB Rivian R1T Destroy a Guardrail in Eyebrow-Raising Test](https://www.thedrive.com/news/rivian-r1t-destroys-guardrail-ev-safety-crash-test-video)
-- [A SQLite extension that brings column-oriented tables to SQLite](https://github.com/dgllghr/stanchion)
-- [Analysts Estimate Nvidia Owns 98% of the Data Center GPU Market](https://www.extremetech.com/computing/analysts-estimate-nvidia-owns-98-of-the-data-center-gpu-market)
 <!-- BLOG-POST-LIST:END -->
 
 ---
