@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Looking for a project to volunteer on? &lpar;February 2024&rpar;](https://news.ycombinator.com/item?id=39217231)
-- [Los Angeles Becomes First US City to Outlaw Digital Discrimination](https://themarkup.org/still-loading/2024/02/01/los-angeles-becomes-first-us-city-to-outlaw-digital-discrimination)
-- [My favourite Git commit &lpar;2019&rpar;](https://dhwthompson.com/2019/my-favourite-git-commit)
-- [Bard&#39;s latest updates: Access Gemini Pro globally and generate images](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/)
-- [When the Mac Was a Munition](https://newsletter.pessimistsarchive.org/p/when-the-mac-was-a-munition)
+- [HyperDX &lpar;YC S22&rpar; Is Hiring a Founding Engineer – Open-Source Observability &lpar;SF&rpar;](https://www.ycombinator.com/companies/hyperdx/jobs/1Ja2psR-founding-software-engineer-backend)
+- [It&#39;s Fair to Describe Schizophrenia as Probably Mostly Genetic](https://www.astralcodexten.com/p/its-fair-to-describe-schizophrenia)
+- [US designates more Chinese tech companies as military collaborators](https://www.theregister.com/2024/02/01/us_china_military_collaborators/)
+- [Show HN: ML Blocks – Deploy multimodal AI workflows without code](https://www.mlblocks.com/)
+- [Quadratic – Open-Source Spreadsheet Is Now Multiplayer](https://www.quadratichq.com/blog/2024-01-28-the-multiplayer-spreadsheet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
