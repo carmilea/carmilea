@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD 4 Bug may be present in Playstation 4/5](https://wololo.net/2024/02/01/is-an-18-year-old-vulnerability-the-key-to-the-next-ps5-ps4-jailbreak/)
+- [The VAE Used for Stable Diffusion Is Flawed](https://old.reddit.com/r/StableDiffusion/comments/1ag5h5s/the_vae_used_for_stable_diffusion_1x2x_and_other/)
+- [Think of your home as &lpar;small&rpar; profitable power plant](https://www.bostonglobe.com/2024/01/30/science/net-zero-home-renovation/)
 - [Gary Bowser and gaming&#39;s most infamous piracy case](https://www.theguardian.com/games/2024/feb/01/the-man-who-owes-nintendo-14m-gary-bowser-and-gamings-most-infamous-piracy-case)
 - [Show HN: filippo.io/mlkem768 – Post-Quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
-- [Across the country, houses of worship are going solar](https://grist.org/buildings/more-churches-plugging-solar-power/)
-- [UK Wind Farms Are Overstating Their Output](https://www.bloomberg.com/graphics/2024-uk-wind-farms-overstate-output/)
-- [PhotoRoom &lpar;YC S20&rpar; Is Hiring an API Designer in Paris &lpar;Node, Rust&rpar;](https://news.ycombinator.com/item?id=39213421)
 <!-- BLOG-POST-LIST:END -->
 
 ---
