@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lifestance: A mental health rollup headed for a breakdown](https://hindenburgresearch.com/lifestance/)
 - [&#39;I should not have written &#39;A Clockwork Orange&#39;&#39;](https://english.elpais.com/culture/2024-01-29/i-should-not-have-written-a-clockwork-orange-how-anthony-burgess-came-to-disown-his-own-novel.html)
 - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
-- [Oil firms forced to consider climate effects of new drilling, rules Norway court](https://theconversation.com/oil-firms-forced-to-consider-full-climate-effects-of-new-drilling-following-landmark-norwegian-court-ruling-221810)
 - [Launch HN: Escape &lpar;YC W23&rpar; – Discover and secure all your APIs](https://news.ycombinator.com/item?id=39215779)
 - [Neanderthals and humans lived side by side in Northern Europe 45,000 years ago](https://phys.org/news/2024-01-neanderthals-humans-side-northern-europe.html)
 <!-- BLOG-POST-LIST:END -->
