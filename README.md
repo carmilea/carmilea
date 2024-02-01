@@ -57,9 +57,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Meta is the &#39;single largest market for paedophiles&#39;, says New Mexico AG](https://www.theguardian.com/global-development/2024/jan/31/meta-worlds-single-largest-marketplace-for-paedophiles-new-mexico-attorney-general-facebook-instagram)
+- [Study finds that once people use cargo bikes, they like their cars much less](https://arstechnica.com/cars/2024/01/study-finds-that-once-people-use-cargo-bikes-they-like-their-cars-much-less/)
 - [UK Wind Farms Are Overstating Their Output](https://www.bloomberg.com/graphics/2024-uk-wind-farms-overstate-output/)
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring an API Designer in Paris &lpar;Node, Rust&rpar;](https://news.ycombinator.com/item?id=39213421)
-- [Ask HN: What are your thoughts on ChatGPT as a professional?](https://news.ycombinator.com/item?id=39213359)
 - [EU chip goal &#39;unrealistic&#39; says ASML CEO](https://www.electronicsweekly.com/news/business/eu-chip-goal-totally-unrealistic-2024-01/)
 <!-- BLOG-POST-LIST:END -->
 
