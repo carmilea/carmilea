@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How Adobe built its user-facing app, Workfront, with SingleStore](https://www.youtube.com/watch?v=B0GmZHO7CsU)
 - [Technology Partnerships + Product Vision Summary](https://www.youtube.com/watch?v=Pay6HeCzSnY)
 - [Demo- SingleStore Compute Service, Scheduled Jobs and Free Shared Tier](https://www.youtube.com/watch?v=zJeE8HMsr-Y)
 - [Product Vision for Cloud Services](https://www.youtube.com/watch?v=-95u-3UoM1U)
 - [Demo- SingleStore Hybrid Cloud deployment using native CDC Out Capabilities](https://www.youtube.com/watch?v=XwSN-nb623g)
-- [Demo- SingleStore Kai and CDC in from MongoDB](https://www.youtube.com/watch?v=p5H8uCFA5LI)
 <!-- YOUTUBE:END -->
 
 
