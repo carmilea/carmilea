@@ -60,7 +60,7 @@
 - [EU chip goal &#39;unrealistic&#39; says ASML CEO](https://www.electronicsweekly.com/news/business/eu-chip-goal-totally-unrealistic-2024-01/)
 - [Marlon Brando Was a Secret Tech Geek and Photoshop Ace](https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html)
 - [Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147)
-- [Pivotal Mental States](https://journals.sagepub.com/doi/full/10.1177/0269881120959637)
+- [Pivotal Mental States &lpar;2020&rpar;](https://journals.sagepub.com/doi/full/10.1177/0269881120959637)
 <!-- BLOG-POST-LIST:END -->
 
 ---
