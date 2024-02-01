@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PhotoRoom &lpar;YC S20&rpar; Is Hiring an API Designer in Paris &lpar;Node, Rust&rpar;](https://news.ycombinator.com/item?id=39213421)
+- [EU chip goal &#39;unrealistic&#39; says ASML CEO](https://www.electronicsweekly.com/news/business/eu-chip-goal-totally-unrealistic-2024-01/)
+- [Marlon Brando Was a Secret Tech Geek and Photoshop Ace](https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html)
+- [Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147)
 - [Pivotal Mental States](https://journals.sagepub.com/doi/full/10.1177/0269881120959637)
-- [How Boeing Put Profits over Planes](https://www.vox.com/money/24052245/boeing-corporate-culture-737-airplane-safety-door-plug)
-- [Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
-- [Gnuplotlib: Non-Painful Plotting for NumPy](https://github.com/dkogan/gnuplotlib)
-- [Making a PDF that&#39;s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
