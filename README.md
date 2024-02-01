@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Pataphysics](https://en.wikipedia.org/wiki/%27Pataphysics)
 - [Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
 - [The End of My Childhood](https://vitalik.eth.limo/general/2024/01/31/end.html)
 - [Gnuplotlib: Non-Painful Plotting for NumPy](https://github.com/dkogan/gnuplotlib)
 - [Making a PDF that&#39;s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
+- [MobileDiffusion: Rapid text-to-image generation on-device](https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
