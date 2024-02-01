@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring an API Designer in Paris &lpar;Node, Rust&rpar;](https://news.ycombinator.com/item?id=39213421)
 - [EU chip goal &#39;unrealistic&#39; says ASML CEO](https://www.electronicsweekly.com/news/business/eu-chip-goal-totally-unrealistic-2024-01/)
-- [Marlon Brando Was a Secret Tech Geek and Photoshop Ace](https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html)
+- [Marlon Brando Was a Secret Tech Geek and Photoshop Ace &lpar;2015&rpar;](https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html)
+- [RFC: Rust Has Provenance](https://github.com/rust-lang/rfcs/pull/3559)
 - [Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147)
-- [Pivotal Mental States &lpar;2020&rpar;](https://journals.sagepub.com/doi/full/10.1177/0269881120959637)
 <!-- BLOG-POST-LIST:END -->
 
 ---
