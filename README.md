@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In a &#39;Dark Dimension,&#39; Physicists Search for the Universe&#39;s Missing Matter](https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/)
+- [We need motivation &lpar;good managers&rpar;](https://www.ethanalter.com/blog/motivation)
 - [Apple reports first quarter results](https://www.apple.com/newsroom/2024/02/apple-reports-first-quarter-results/)
+- [Show HN: The Super Programmer – A colorful introduction to engineering](https://keyvan.me/tsp)
 - [Genetic autopsies to unravel the mystery of sudden deaths](https://english.elpais.com/health/2024-01-25/genetic-autopsies-to-unravel-the-mystery-of-sudden-deaths.html)
-- [Meta Reports Fourth Quarter and Full Year 2023 Results](https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-Fourth-Quarter-and-Full-Year-2023-Results-Initiates-Quarterly-Dividend/default.aspx)
-- [Sorry Appin, We&#39;re Not Taking Down Our Article About Your Attempts to Silence](https://www.techdirt.com/2024/02/01/sorry-appin-were-not-taking-down-our-article-about-your-attempts-to-silence-reporters/)
-- [A Startup Allegedly &#39;Hacked the World.&#39; Then Came the Censorship, and Backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
