@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nassim Taleb says the U.S. is in a ‘death spiral’ over government debt](https://fortune.com/2024/01/31/nassim-nicholas-taleb-black-swan-author-national-debt-death-spiral/)
+- [The End of My Childhood](https://vitalik.eth.limo/general/2024/01/31/end.html)
 - [Ars Technica used in malware campaign with never-before-seen obfuscation](https://arstechnica.com/security/2024/01/ars-technica-used-in-malware-campaign-with-never-before-seen-obfuscation/)
 - [Making a PDF that&#39;s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
 - [MobileDiffusion: Rapid text-to-image generation on-device](https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html)
-- [Visual Analysis of Binary Files](http://binvis.io/#/)
-- [Tried Vision Pro. Here&#39;s what I thought](https://old.reddit.com/r/OculusQuest/comments/1aetqks/long_posttried_vision_pro_heres_what_i_thought/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
