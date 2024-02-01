@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CISA directs federal agencies to disconnect Ivanti products by Friday midnight](https://www.cisa.gov/news-events/directives/supplemental-direction-v1-ed-24-01-mitigate-ivanti-connect-secure-and-ivanti-policy-secure)
+- [Google Maps is getting &#39;supercharged&#39; with generative AI](https://www.theverge.com/2024/2/1/24057994/google-maps-generative-ai-llm-local-guide-search)
+- [Solving SAT via Positive Supercompilation](https://hirrolot.github.io/posts/sat-supercompilation.html)
 - [HyperDX &lpar;YC S22&rpar; Is Hiring a Founding Engineer – Open-Source Observability &lpar;SF&rpar;](https://www.ycombinator.com/companies/hyperdx/jobs/1Ja2psR-founding-software-engineer-backend)
-- [It&#39;s Fair to Describe Schizophrenia as Probably Mostly Genetic](https://www.astralcodexten.com/p/its-fair-to-describe-schizophrenia)
-- [US designates more Chinese tech companies as military collaborators](https://www.theregister.com/2024/02/01/us_china_military_collaborators/)
 - [Show HN: ML Blocks – Deploy multimodal AI workflows without code](https://www.mlblocks.com/)
-- [Quadratic – Open-Source Spreadsheet Is Now Multiplayer](https://www.quadratichq.com/blog/2024-01-28-the-multiplayer-spreadsheet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
