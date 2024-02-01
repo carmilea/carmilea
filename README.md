@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FOSDEM 2024 – NetBSD 10: Thirty years, still going strong [video]](https://fosdem.org/2024/schedule/event/fosdem-2024-3508-netbsd-10-thirty-years-still-going-strong-/)
+- [Sorry Appin, We&#39;re Not Taking Down Our Article About Your Attempts to Silence](https://www.techdirt.com/2024/02/01/sorry-appin-were-not-taking-down-our-article-about-your-attempts-to-silence-reporters/)
+- [Cloudflare Thanksgiving 2023 Security Incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident)
 - [Nasopharyngeal Lymphatics Found to Be Crucial for Cerebrospinal Fluid Outflow](https://www.ibs.re.kr/cop/bbs/BBSMSTR_000000000738/selectBoardArticle.do?nttId=24483&pageIndex=1&searchCnd=&searchWrd=)
 - [What Is an Electronic Sackbut?](https://spectrum.ieee.org/electronic-music)
 - [240-Gbit/s sub-THz wireless communications using ultra-low phase noise receiver](https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_20.20230584/_article)
-- [CyberChef from GCHQ: The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
