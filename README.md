@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FreeBSD 4 Bug may be present in Playstation 4/5](https://wololo.net/2024/02/01/is-an-18-year-old-vulnerability-the-key-to-the-next-ps5-ps4-jailbreak/)
-- [The VAE Used for Stable Diffusion Is Flawed](https://old.reddit.com/r/StableDiffusion/comments/1ag5h5s/the_vae_used_for_stable_diffusion_1x2x_and_other/)
-- [Think of your home as &lpar;small&rpar; profitable power plant](https://www.bostonglobe.com/2024/01/30/science/net-zero-home-renovation/)
-- [Gary Bowser and gaming&#39;s most infamous piracy case](https://www.theguardian.com/games/2024/feb/01/the-man-who-owes-nintendo-14m-gary-bowser-and-gamings-most-infamous-piracy-case)
-- [Show HN: filippo.io/mlkem768 – Post-Quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
+- [&#39;I should not have written &#39;A Clockwork Orange&#39;&#39;](https://english.elpais.com/culture/2024-01-29/i-should-not-have-written-a-clockwork-orange-how-anthony-burgess-came-to-disown-his-own-novel.html)
+- [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
+- [Oil firms forced to consider climate effects of new drilling, rules Norway court](https://theconversation.com/oil-firms-forced-to-consider-full-climate-effects-of-new-drilling-following-landmark-norwegian-court-ruling-221810)
+- [Launch HN: Escape &lpar;YC W23&rpar; – Discover and secure all your APIs](https://news.ycombinator.com/item?id=39215779)
+- [Neanderthals and humans lived side by side in Northern Europe 45,000 years ago](https://phys.org/news/2024-01-neanderthals-humans-side-northern-europe.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
