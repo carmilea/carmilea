@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lifestance: A mental health rollup headed for a breakdown](https://hindenburgresearch.com/lifestance/)
-- [&#39;I should not have written &#39;A Clockwork Orange&#39;&#39;](https://english.elpais.com/culture/2024-01-29/i-should-not-have-written-a-clockwork-orange-how-anthony-burgess-came-to-disown-his-own-novel.html)
-- [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
-- [Launch HN: Escape &lpar;YC W23&rpar; – Discover and secure all your APIs](https://news.ycombinator.com/item?id=39215779)
-- [Neanderthals and humans lived side by side in Northern Europe 45,000 years ago](https://phys.org/news/2024-01-neanderthals-humans-side-northern-europe.html)
+- [Ask HN: Looking for a project to volunteer on? &lpar;February 2024&rpar;](https://news.ycombinator.com/item?id=39217231)
+- [Los Angeles Becomes First US City to Outlaw Digital Discrimination](https://themarkup.org/still-loading/2024/02/01/los-angeles-becomes-first-us-city-to-outlaw-digital-discrimination)
+- [My favourite Git commit &lpar;2019&rpar;](https://dhwthompson.com/2019/my-favourite-git-commit)
+- [Bard&#39;s latest updates: Access Gemini Pro globally and generate images](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/)
+- [When the Mac Was a Munition](https://newsletter.pessimistsarchive.org/p/when-the-mac-was-a-munition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
