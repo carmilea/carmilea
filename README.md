@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore Projections, Database Branching and Smart DR](https://www.youtube.com/watch?v=EB4CYEGDt5g)
+- [SingleStore Data Platform- Product Vision + Strategy](https://www.youtube.com/watch?v=oH7fMU9DN18)
+- [Indexed Vector Search with SingleStore](https://www.youtube.com/watch?v=IshkFb1nA1w)
+- [SingleStore&#39;s Product Vision for SingleStore Core Database and Helios Cloud Service](https://www.youtube.com/watch?v=8HYbAValn3g)
 - [How Adobe built its user-facing app Workfront with SingleStore](https://www.youtube.com/watch?v=fgOMhN3husY)
-- [SingleStore Pro Max Demo- Database Branching](https://www.youtube.com/watch?v=X0AtxwkECBM)
-- [Demo- Indexed vector search and Retrieval Augmented Generation!](https://www.youtube.com/watch?v=rKrKC9Wl7Pg)
-- [Product Launch- SingleStore Pro Max, the data platform for real-time applications, analytics and AI](https://www.youtube.com/watch?v=_aUBckAsV_8)
-- [Projections &lpar;Secondary sort key/ secondary shard keys&rpar;, Database Branching, Smart Disaster Recovery!](https://www.youtube.com/watch?v=RfjSQBhbKBk)
 <!-- YOUTUBE:END -->
 
 
