@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pivotal Mental States](https://journals.sagepub.com/doi/full/10.1177/0269881120959637)
 - [Amazon left Roomba with a huge mess to clean up](https://www.theverge.com/2024/1/31/24057077/irobot-amazon-deal-collapse-roomba-uncertain-future)
-- [Photoshop&#39;s &quot;generative expand&quot; tool may have expanded bust and exposed midriff](https://www.abc.net.au/news/2024-02-01/georgie-purcell-ai-image-nine-news-apology-digital-ethics/103408440)
 - [Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
 - [Gnuplotlib: Non-Painful Plotting for NumPy](https://github.com/dkogan/gnuplotlib)
 - [Making a PDF that&#39;s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
