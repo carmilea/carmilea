@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nassim Taleb says the U.S. is in a ‘death spiral’ over government debt](https://fortune.com/2024/01/31/nassim-nicholas-taleb-black-swan-author-national-debt-death-spiral/)
+- [&#39;Pataphysics](https://en.wikipedia.org/wiki/%27Pataphysics)
+- [Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
 - [The End of My Childhood](https://vitalik.eth.limo/general/2024/01/31/end.html)
-- [Ars Technica used in malware campaign with never-before-seen obfuscation](https://arstechnica.com/security/2024/01/ars-technica-used-in-malware-campaign-with-never-before-seen-obfuscation/)
+- [Gnuplotlib: Non-Painful Plotting for NumPy](https://github.com/dkogan/gnuplotlib)
 - [Making a PDF that&#39;s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
-- [MobileDiffusion: Rapid text-to-image generation on-device](https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
