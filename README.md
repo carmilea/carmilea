@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Stupid,&#39; &#39;shameful:&#39; Tech workers on Y Combinator CEO Garry Tan&#39;s rant](https://missionlocal.org/2024/01/stupid-shameful-say-tech-workers-of-y-combinator-ceo-garry-tans-rant/)
 - [Unlogged &lpar;YC S22&rpar; Is Hiring a Founding Engineer](https://news.ycombinator.com/item?id=39223649)
 - [Harvard Faces New Threat of State Tax on $51B Endowment](https://www.bloomberg.com/news/articles/2024-02-01/harvard-faces-new-threat-of-state-tax-on-51-billion-endowment)
 - [OLMo: Accelerating the Science of Language Models [pdf]](https://allenai.org/olmo/olmo-paper.pdf)
-- [Two Mindsets That Can Create Rude or Polite Coworkers](https://journals.aom.org/doi/10.5465/amd.2022.0069.summary)
+- [Opt Out of Hulu&#39;s New Binding Arbitration Clause](https://honeypot.net/post/opt-out-of-hulus-new-binding-arbitration-clause/)
+- [Khronos Releases AV1 Decode in Vulkan Video with SDK Support for H.264/H.265](https://www.khronos.org/blog/khronos-releases-vulkan-video-av1-decode-extension-vulkan-sdk-now-supports-h.264-h.265-encode)
 <!-- BLOG-POST-LIST:END -->
 
 ---
