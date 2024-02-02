@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Juice – Oberon JIT browser plugin &lpar;1996&rpar;](https://www.modulaware.com/mdlt69.htm)
+- [Five tube stations now have new circular tube maps](https://www.ianvisits.co.uk/articles/five-tube-stations-have-new-circular-tube-maps-69881/)
 - [Bloop &lpar;YC S21&rpar; is hiring Rust engineers interested in compilers, in London](https://bloop.jobs.personio.com/job/1410410)
 - [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
 - [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
-- [The medieval habit of &#39;two sleeps&#39;](https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep)
-- [The FCC wants to criminalize AI robocall spam](https://www.theregister.com/2024/02/02/fcc_ai_robocall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
