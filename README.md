@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Limitarianism: The Case Against Extreme Wealth: Ingrid Robeyns](https://www.hive.co.uk/Product/Ingrid-Robeyns/Limitarianism--The-Case-Against-Extreme-Wealth/28866492)
-- [New Super Secret Surveillance Court Covering Old Super Secret Surveillance Court](https://www.techdirt.com/2024/02/02/we-shouldnt-allow-a-new-super-secret-surveillance-court-cover-up-the-civil-liberties-problems-of-the-old-super-secret-surveillance-court/)
-- [Never Retire](https://www.economist.com/business/2024/01/25/why-you-should-never-retire)
-- [Over 2 percent of the US&#39;s electricity generation now goes to Bitcoin](https://arstechnica.com/science/2024/02/over-2-percent-of-the-uss-electricity-generation-now-goes-to-bitcoin/)
-- [Multi-channel Audio Part 2](https://computer.rip/2024-01-31-multi-channel-audio-part-2.html)
+- [Kodable is hiring a Full Stack Engineer to help teach kids to code](https://www.ziprecruiter.com/jobs/kodable-fd6f1626/senior-full-stack-software-engineer-c215f839)
+- [OpenBSD System-Call Pinning](https://lwn.net/SubscriberLink/959562/0578b8e463f790c1/)
+- [David Kahn Has Died](https://www.schneier.com/blog/archives/2024/02/david-kahn.html)
+- [Where Will Virtual Reality Take Us?](https://www.newyorker.com/tech/annals-of-technology/where-will-virtual-reality-take-us)
+- [Joe Rogan&#39;s new &#39;multiyear&#39; Spotify deal worth as much as $250M: report](https://nypost.com/2024/02/02/media/joe-rogans-new-spotify-deal-reportedly-valued-up-to-250m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
