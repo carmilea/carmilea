@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m Done Punching Trees and Grabbing Rocks in Video Games](https://kotaku.com/palworld-valheim-minecraft-punch-trees-survival-games-1851193458)
+- [Total nonfarm payroll employment rose by 353,000 in January](https://www.bls.gov/news.release/empsit.nr0.htm)
+- [Payroll employment rises by 353K in January; unemployment rate remains at 3.7%](https://www.bls.gov/news.release/archives/empsit_02022024.htm)
+- [A Partisan Solution to Partisan Gerrymandering: The Define–Combine Procedure](https://www.cambridge.org/core/journals/political-analysis/article/partisan-solution-to-partisan-gerrymandering-the-definecombine-procedure/B0792DD0A49332944F2AF5FF6828E275)
 - [Tailwind Color Palette Generator](https://www.tints.dev/)
-- [Homemade Pasta Now Is the Time &lpar;2021&rpar;](https://ruhlman.com/homemade-pasta/)
-- [NASA Workmanship Guide for wire splicing](https://workmanship.nasa.gov/lib/insp/2%20books/links/sections/407%20Splices.html)
-- [Yakhchāl](https://en.wikipedia.org/wiki/Yakhch%C4%81l)
-- [The European regulators listened to the Open Source communities](https://blog.opensource.org/the-european-regulators-listened-to-the-open-source-communities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
