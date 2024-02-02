@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind Color Palette Generator](https://www.tints.dev/)
+- [Homemade Pasta Now Is the Time &lpar;2021&rpar;](https://ruhlman.com/homemade-pasta/)
+- [NASA Workmanship Guide for wire splicing](https://workmanship.nasa.gov/lib/insp/2%20books/links/sections/407%20Splices.html)
+- [Yakhchāl](https://en.wikipedia.org/wiki/Yakhch%C4%81l)
 - [The European regulators listened to the Open Source communities](https://blog.opensource.org/the-european-regulators-listened-to-the-open-source-communities/)
-- [Juice – Oberon JIT browser plugin &lpar;1996&rpar;](https://www.modulaware.com/mdlt69.htm)
-- [Bloop &lpar;YC S21&rpar; is hiring Rust engineers interested in compilers, in London](https://bloop.jobs.personio.com/job/1410410)
-- [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
-- [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
