@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [American Ornithological Society changing the names of birds named after people](https://slate.com/technology/2024/01/renaming-birds-eponyms-american-ornithological-society.html)
-- [When should you give up on a project that doesn&#39;t work?](https://www.preethamrn.com/posts/when-should-you-give-up)
-- [How is a binary executable organized? Let&#39;s explore it](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/)
-- [Print off a QR code for guests to join your WiFi network](https://practicalbetterments.com/print-off-a-qr-code-for-guests-to-join-your-wifi-network/)
-- [SelectIQ &lpar;YC W23&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/selectiq/jobs/4aRBMcX-founding-engineer-full-stack-employee-1)
+- [Limitarianism: The Case Against Extreme Wealth: Ingrid Robeyns](https://www.hive.co.uk/Product/Ingrid-Robeyns/Limitarianism--The-Case-Against-Extreme-Wealth/28866492)
+- [New Super Secret Surveillance Court Covering Old Super Secret Surveillance Court](https://www.techdirt.com/2024/02/02/we-shouldnt-allow-a-new-super-secret-surveillance-court-cover-up-the-civil-liberties-problems-of-the-old-super-secret-surveillance-court/)
+- [Never Retire](https://www.economist.com/business/2024/01/25/why-you-should-never-retire)
+- [Over 2 percent of the US&#39;s electricity generation now goes to Bitcoin](https://arstechnica.com/science/2024/02/over-2-percent-of-the-uss-electricity-generation-now-goes-to-bitcoin/)
+- [Multi-channel Audio Part 2](https://computer.rip/2024-01-31-multi-channel-audio-part-2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
