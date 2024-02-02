@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When should you give up on a project that doesn&#39;t work?](https://www.preethamrn.com/posts/when-should-you-give-up)
+- [Why Don&#39;t We Teach People How to Parent?](https://www.theatlantic.com/family/archive/2024/02/intensive-parenting-learn-classes/677329/)
+- [Meta&#39;s Reality Labs loses record $4.65B ahead of Apple&#39;s Vision Pro launch](https://www.cnbc.com/2024/02/01/metas-reality-labs-loses-4point65-billion-in-q4-ahead-of-vision-pro.html)
+- [Print off a QR code for guests to join your WiFi network](https://practicalbetterments.com/print-off-a-qr-code-for-guests-to-join-your-wifi-network/)
 - [SelectIQ &lpar;YC W23&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/selectiq/jobs/4aRBMcX-founding-engineer-full-stack-employee-1)
-- [Researchers develop novel &#39;bone bandage&#39; material for cracked bones](https://phys.org/news/2024-02-bone-bandage-material-bones.html)
-- [Stories removed from the Hacker News Front Page, updated in real time](https://github.com/vitoplantamura/HackerNewsRemovals)
-- [The EPA is proposing that &#39;forever chemicals&#39; be considered hazardous substances](https://www.npr.org/2024/02/02/1228540721/forever-chemicals-pfas-epa-hazardous)
-- [Pinball Map: Crowd-sourced worldwide map of public pinball machines](https://pinballmap.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
