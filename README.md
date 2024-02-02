@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to prevent Apple Vision Pro users from filming you?](https://news.ycombinator.com/item?id=39230148)
-- [Open Source color palettes generator in HSLuv color space](https://github.com/saneef/color-color)
-- [An alternative cause for the Great Stagnation: the cargo cult company](https://www.shyamsankar.com/p/technology-is-the-problem)
-- [AWS charge for using IPv4 expected to bring $1B/year and speed up IPv6 adoption](https://www.tomshardware.com/networking/amazons-aws-new-charge-for-using-ipv4-is-expected-to-rake-in-up-to-dollar1b-per-year-change-should-speed-ipv6-adoption)
-- [Messenger Implosion Shows Journalism Lead by Visionless, Fail-Upward Brunchlords](https://www.techdirt.com/2024/02/02/the-messenger-implosion-once-again-shows-the-real-problem-with-u-s-journalism-is-shitty-management-by-visionless-fail-upward-brunchlords/)
+- [SelectIQ &lpar;YC W23&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/selectiq/jobs/4aRBMcX-founding-engineer-full-stack-employee-1)
+- [Researchers develop novel &#39;bone bandage&#39; material for cracked bones](https://phys.org/news/2024-02-bone-bandage-material-bones.html)
+- [Stories removed from the Hacker News Front Page, updated in real time](https://github.com/vitoplantamura/HackerNewsRemovals)
+- [The EPA is proposing that &#39;forever chemicals&#39; be considered hazardous substances](https://www.npr.org/2024/02/02/1228540721/forever-chemicals-pfas-epa-hazardous)
+- [Pinball Map: Crowd-sourced worldwide map of public pinball machines](https://pinballmap.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
