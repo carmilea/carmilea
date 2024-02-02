@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [American Ornithological Society changing the names of birds named after people](https://slate.com/technology/2024/01/renaming-birds-eponyms-american-ornithological-society.html)
 - [When should you give up on a project that doesn&#39;t work?](https://www.preethamrn.com/posts/when-should-you-give-up)
-- [Why Don&#39;t We Teach People How to Parent?](https://www.theatlantic.com/family/archive/2024/02/intensive-parenting-learn-classes/677329/)
-- [Meta&#39;s Reality Labs loses record $4.65B ahead of Apple&#39;s Vision Pro launch](https://www.cnbc.com/2024/02/01/metas-reality-labs-loses-4point65-billion-in-q4-ahead-of-vision-pro.html)
+- [How is a binary executable organized? Let&#39;s explore it](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/)
 - [Print off a QR code for guests to join your WiFi network](https://practicalbetterments.com/print-off-a-qr-code-for-guests-to-join-your-wifi-network/)
 - [SelectIQ &lpar;YC W23&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/selectiq/jobs/4aRBMcX-founding-engineer-full-stack-employee-1)
 <!-- BLOG-POST-LIST:END -->
