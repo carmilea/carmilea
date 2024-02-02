@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Done Punching Trees and Grabbing Rocks in Video Games](https://kotaku.com/palworld-valheim-minecraft-punch-trees-survival-games-1851193458)
-- [Total nonfarm payroll employment rose by 353,000 in January](https://www.bls.gov/news.release/empsit.nr0.htm)
-- [Payroll employment rises by 353K in January; unemployment rate remains at 3.7%](https://www.bls.gov/news.release/archives/empsit_02022024.htm)
-- [A Partisan Solution to Partisan Gerrymandering: The Define–Combine Procedure](https://www.cambridge.org/core/journals/political-analysis/article/partisan-solution-to-partisan-gerrymandering-the-definecombine-procedure/B0792DD0A49332944F2AF5FF6828E275)
-- [Tailwind Color Palette Generator](https://www.tints.dev/)
+- [Messenger Implosion Shows Journalism Lead by Visionless, Fail-Upward Brunchlords](https://www.techdirt.com/2024/02/02/the-messenger-implosion-once-again-shows-the-real-problem-with-u-s-journalism-is-shitty-management-by-visionless-fail-upward-brunchlords/)
+- [Japan to introduce six-month residency visa for &#39;digital nomads&#39;](https://asia.nikkei.com/Spotlight/Japan-immigration/Japan-to-introduce-six-month-residency-visa-for-digital-nomads)
+- [You Shouldn&#39;t Start with an SPA](https://simonhamp.me/blog/you-shouldnt-start-with-an-spa/)
+- [Show HN: Glasskube v0.0.1 Technical Preview for a New Kubernetes Package Manager](https://glasskube.dev/blog/technical-preview/)
+- [U.S. Hiring Accelerated in January](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-02-02-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
