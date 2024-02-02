@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bloop &lpar;YC S21&rpar; is hiring Rust engineers interested in compilers, in London](https://bloop.jobs.personio.com/job/1410410)
+- [Philips hid CPAP machine problems from FDA and patients for years](https://www.propublica.org/article/philips-kept-warnings-about-dangerous-cpaps-secret-profits-soared)
 - [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
 - [NTP Timelord Dies](https://www.i-programmer.info/news/82-heritage/16929-ntp-timelord-dies.html)
 - [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
-- [The medieval habit of &#39;two sleeps&#39;](https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep)
-- [The FCC wants to criminalize AI robocall spam](https://www.theregister.com/2024/02/02/fcc_ai_robocall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
