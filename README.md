@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to prevent Apple Vision Pro users from filming you?](https://news.ycombinator.com/item?id=39230148)
+- [Open Source color palettes generator in HSLuv color space](https://github.com/saneef/color-color)
+- [An alternative cause for the Great Stagnation: the cargo cult company](https://www.shyamsankar.com/p/technology-is-the-problem)
+- [AWS charge for using IPv4 expected to bring $1B/year and speed up IPv6 adoption](https://www.tomshardware.com/networking/amazons-aws-new-charge-for-using-ipv4-is-expected-to-rake-in-up-to-dollar1b-per-year-change-should-speed-ipv6-adoption)
 - [Messenger Implosion Shows Journalism Lead by Visionless, Fail-Upward Brunchlords](https://www.techdirt.com/2024/02/02/the-messenger-implosion-once-again-shows-the-real-problem-with-u-s-journalism-is-shitty-management-by-visionless-fail-upward-brunchlords/)
-- [Japan to introduce six-month residency visa for &#39;digital nomads&#39;](https://asia.nikkei.com/Spotlight/Japan-immigration/Japan-to-introduce-six-month-residency-visa-for-digital-nomads)
-- [You Shouldn&#39;t Start with an SPA](https://simonhamp.me/blog/you-shouldnt-start-with-an-spa/)
-- [Show HN: Glasskube v0.0.1 Technical Preview for a New Kubernetes Package Manager](https://glasskube.dev/blog/technical-preview/)
-- [U.S. Hiring Accelerated in January](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-02-02-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
