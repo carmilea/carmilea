@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
+- [NTP Timelord Dies](https://www.i-programmer.info/news/82-heritage/16929-ntp-timelord-dies.html)
 - [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
 - [The medieval habit of &#39;two sleeps&#39;](https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep)
 - [The FCC wants to criminalize AI robocall spam](https://www.theregister.com/2024/02/02/fcc_ai_robocall/)
-- [FDA says 561 deaths tied to recalled Philips sleep apnea machines](https://www.cbsnews.com/news/fda-sleep-apnea-philips-recall-cpap/)
-- [&#39;Stupid,&#39; &#39;shameful:&#39; Tech workers on Y Combinator CEO Garry Tan&#39;s rant](https://missionlocal.org/2024/01/stupid-shameful-say-tech-workers-of-y-combinator-ceo-garry-tans-rant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
