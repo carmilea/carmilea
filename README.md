@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
 - [SeaweedFS fast distributed storage system for blobs, objects, files and datalake](https://github.com/seaweedfs/seaweedfs)
 - [Carl Weathers, Apollo Creed from Rocky movies, dies aged 76](https://www.bbc.co.uk/news/world-us-canada-68188746)
 - [Rice scientists pull off quantum coup](https://news.rice.edu/news/2024/rice-scientists-pull-quantum-coup)
 - [Why Isn&#39;t the &lt;html&gt; Element 100% Supported on CanIUse.com?](https://anderegg.ca/2024/02/02/why-isnt-the-html-element-100-supported)
-- [US investigation of Tesla steering problems is now one step closer to a recall](https://apnews.com/article/tesla-investigation-steering-control-lost-f29be580500a4ca97a280d6090259f05)
 <!-- BLOG-POST-LIST:END -->
 
 ---
