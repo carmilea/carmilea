@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Quora Died](https://slate.com/technology/2024/02/quora-what-happened-ai-decline.html)
-- [Native Exchange Support is coming to Thunderbird](https://linuxiac.com/thunderbirds-devs-rust-is-coming/)
+- [Ciro &lpar;YC S22&rpar; hiring a Founding Engineer to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs/13ThLWT-founding-full-stack-engineer)
+- [Folk Computer](https://folk.computer/)
+- [How Quora died](https://slate.com/technology/2024/02/quora-what-happened-ai-decline.html)
+- [Over the Edge - Microsoft’s Design Tactics Compromise Free Browser Choice [pdf]](https://research.mozilla.org/files/2024/01/Over-the-Edge-Report-January-2024.pdf)
 - [A 1.55 R⊕ habitable-zone planet hosted by TOI-715](https://academic.oup.com/mnras/article/527/1/35/7172075)
-- [Video: Doom Running on Gut Bacteria](https://www.engadget.com/heres-a-video-of-doom-running-on-gut-bacteria-proving-you-really-can-play-the-game-on-anything-184629896.html)
-- [Current Software Engineers Have No Deep Knowledge &lpar;Jonathan Blow&rpar; [video]](https://www.youtube.com/watch?v=Z0SJNkzOiq4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
