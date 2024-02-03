@@ -60,7 +60,7 @@
 - [Goodbye Non-Kiss Appliances](https://willbush.dev/blog/complex-appliances/)
 - [Over the Edge: The Use of Design Tactics to Undermine Browser Choice](https://research.mozilla.org/browser-competition/over-the-edge-the-use-of-design-tactics-to-undermine-browser-choice/)
 - [Full $71M breakdown for The Village by M. Night Shyamalan &lpar;2003&rpar; [pdf]](https://wlmager.com/wp-content/uploads/2012/10/Budget-The-Village-Shyamalan-copy.pdf)
-- [Designer News is dead](https://solomon.io/designer-news-is-dead/)
+- [History of Vietnamese Typography](https://vietnamesetypography.com/history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
