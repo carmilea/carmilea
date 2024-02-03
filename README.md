@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Superionic Water](https://en.wikipedia.org/wiki/Superionic_water)
-- [I reduced the size of my Docker image by 40% – Dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
-- [The worst users come from referral programs, free trials, coupons](https://andrewchen.com/worst-users-referral-trials-coupons-gamification/)
-- [Microsoft seeks Rust developers to rewrite core C# code](https://www.theregister.com/2024/01/31/microsoft_seeks_rust_developers/)
-- [Physical cash is dying–and you don&#39;t need to be a conspiracist to worry](https://www.prospectmagazine.co.uk/ideas/economics/64492/the-end-of-money-cashless-society)
+- [How Quora Died](https://slate.com/technology/2024/02/quora-what-happened-ai-decline.html)
+- [Native Exchange Support is coming to Thunderbird](https://linuxiac.com/thunderbirds-devs-rust-is-coming/)
+- [A 1.55 R⊕ habitable-zone planet hosted by TOI-715](https://academic.oup.com/mnras/article/527/1/35/7172075)
+- [Video: Doom Running on Gut Bacteria](https://www.engadget.com/heres-a-video-of-doom-running-on-gut-bacteria-proving-you-really-can-play-the-game-on-anything-184629896.html)
+- [Current Software Engineers Have No Deep Knowledge &lpar;Jonathan Blow&rpar; [video]](https://www.youtube.com/watch?v=Z0SJNkzOiq4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
