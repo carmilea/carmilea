@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Did Apple Just Break Web Apps in iOS 17.4 Beta &lpar;EU&rpar;? – Open Web Advocacy](https://open-web-advocacy.org/blog/did-apple-just-break-web-apps-in-ios17.4-beta-eu/)
 - [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
+- [Python-based pinball software framework](https://missionpinball.org/)
 - [SeaweedFS fast distributed storage system for blobs, objects, files and datalake](https://github.com/seaweedfs/seaweedfs)
-- [Carl Weathers, Apollo Creed from Rocky movies, dies aged 76](https://www.bbc.co.uk/news/world-us-canada-68188746)
-- [Rice scientists pull off quantum coup](https://news.rice.edu/news/2024/rice-scientists-pull-quantum-coup)
-- [Why Isn&#39;t the &lt;html&gt; Element 100% Supported on CanIUse.com?](https://anderegg.ca/2024/02/02/why-isnt-the-html-element-100-supported)
+- [Daunting papers/books and how to read them](https://mathoverflow.net/questions/463287/daunting-papers-books-and-how-to-finally-read-them)
 <!-- BLOG-POST-LIST:END -->
 
 ---
