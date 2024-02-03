@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It begins: Ethiopia set to become first country to ban internal combustion cars](https://electrek.co/2024/02/02/it-begins-ethiopia-set-to-become-first-country-to-ban-internal-combustion-cars/)
-- [Los Angeles Passes Rule Banning Broadband Deployment Discrimination](https://www.techdirt.com/2024/02/02/los-angeles-passes-rule-banning-broadband-deployment-discrimination/)
-- [Paris Vote Targets SUV Drivers with Parking Fees Set to Triple](https://www.bloomberg.com/news/articles/2024-02-03/paris-vote-targets-suv-drivers-with-parking-fees-set-to-triple)
-- [Show HN: Simple demo of a cold boot attack using a Raspberry Pi](https://github.com/anfractuosity/ramrecovery)
-- [Ciro &lpar;YC S22&rpar; hiring a Founding Engineer to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs/13ThLWT-founding-full-stack-engineer)
+- [A brief history of the U.S. trying to add backdoors into encrypted data &lpar;2016&rpar;](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
+- [Researchers uncover potential non-opioid treatment for chronic pain in mice](https://news.utexas.edu/2024/01/30/researchers-uncover-potential-non-opioid-treatment-for-chronic-pain/)
+- [Dance mat-style game helps stop older people falling](https://www.newscientist.com/article/2414826-dance-mat-style-game-helps-stop-older-people-falling/)
+- [Cork Is Displacing Plastics and Creating a Billion-Dollar Industry](https://www.washingtonpost.com/climate-solutions/2024/02/03/cork-sustainable-material/)
+- [Global cancer cases will jump 77% by 2050, WHO report estimates](https://www.cnn.com/2024/02/02/health/who-cancer-estimates/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
