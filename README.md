@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The scientists fighting the epidemic of fraudulent science research](https://www.analystnews.org/posts/plagiarism-paper-mills-and-profit-these-scientists-are-fighting-the-epidemic-of-fraudulent-science-research)
+- [Researchers taking on fraudulent science](https://www.analystnews.org/posts/plagiarism-paper-mills-and-profit-these-scientists-are-fighting-the-epidemic-of-fraudulent-science-research)
 - [A brief history of the U.S. trying to add backdoors into encrypted data &lpar;2016&rpar;](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
-- [Researchers uncover potential non-opioid treatment for chronic pain in mice](https://news.utexas.edu/2024/01/30/researchers-uncover-potential-non-opioid-treatment-for-chronic-pain/)
+- [Cork is displacing plastics and creating a billion-dollar industry](https://www.washingtonpost.com/climate-solutions/2024/02/03/cork-sustainable-material/)
 - [How much bigger could Earth be before rockets wouldn&#39;t work?](https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work)
 - [Breaking Bitlocker – Bypassing the Windows Disk Encryption [video]](https://www.youtube.com/watch?v=wTl4vEednkQ)
 <!-- BLOG-POST-LIST:END -->
