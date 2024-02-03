@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why car insurance in America is too cheap](https://www.economist.com/united-states/2024/01/18/why-car-insurance-in-america-is-actually-too-cheap)
 - [French Bulldog puppy spontaneously regrows jaw that was removed due to cancer](https://www.earth.com/news/french-bulldog-puppy-spontaneously-regrows-jaw-that-was-removed-due-to-cancer/)
+- [Full $71M breakdown for The Village by M. Night Shyamalan &lpar;2003&rpar; [pdf]](https://wlmager.com/wp-content/uploads/2012/10/Budget-The-Village-Shyamalan-copy.pdf)
 - [Designer News is dead](https://solomon.io/designer-news-is-dead/)
 - [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
 - [SeaweedFS fast distributed storage system for blobs, objects, files and datalake](https://github.com/seaweedfs/seaweedfs)
