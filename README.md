@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The scientists fighting the epidemic of fraudulent science research](https://www.analystnews.org/posts/plagiarism-paper-mills-and-profit-these-scientists-are-fighting-the-epidemic-of-fraudulent-science-research)
 - [A brief history of the U.S. trying to add backdoors into encrypted data &lpar;2016&rpar;](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
 - [Researchers uncover potential non-opioid treatment for chronic pain in mice](https://news.utexas.edu/2024/01/30/researchers-uncover-potential-non-opioid-treatment-for-chronic-pain/)
 - [Dance mat-style game helps stop older people falling](https://www.newscientist.com/article/2414826-dance-mat-style-game-helps-stop-older-people-falling/)
-- [Cork Is Displacing Plastics and Creating a Billion-Dollar Industry](https://www.washingtonpost.com/climate-solutions/2024/02/03/cork-sustainable-material/)
-- [Global cancer cases will jump 77% by 2050, WHO report estimates](https://www.cnn.com/2024/02/02/health/who-cancer-estimates/index.html)
+- [Cork is displacing plastics and creating a billion-dollar industry](https://www.washingtonpost.com/climate-solutions/2024/02/03/cork-sustainable-material/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
