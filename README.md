@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paris Vote Targets SUV Drivers with Parking Fees Set to Triple](https://www.bloomberg.com/news/articles/2024-02-03/paris-vote-targets-suv-drivers-with-parking-fees-set-to-triple)
+- [Show HN: Simple demo of a cold boot attack using a Raspberry Pi](https://github.com/anfractuosity/ramrecovery)
 - [Ciro &lpar;YC S22&rpar; hiring a Founding Engineer to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs/13ThLWT-founding-full-stack-engineer)
+- [The engineering behind Figma&#39;s vector networks &lpar;2019&rpar;](https://alexharri.com/blog/vector-networks)
 - [Folk Computer](https://folk.computer/)
-- [How Quora died](https://slate.com/technology/2024/02/quora-what-happened-ai-decline.html)
-- [Over the Edge - Microsoft’s Design Tactics Compromise Free Browser Choice [pdf]](https://research.mozilla.org/files/2024/01/Over-the-Edge-Report-January-2024.pdf)
-- [A 1.55 R⊕ habitable-zone planet hosted by TOI-715](https://academic.oup.com/mnras/article/527/1/35/7172075)
 <!-- BLOG-POST-LIST:END -->
 
 ---
