@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [French Bulldog puppy spontaneously regrows jaw that was removed due to cancer](https://www.earth.com/news/french-bulldog-puppy-spontaneously-regrows-jaw-that-was-removed-due-to-cancer/)
+- [AT&amp;T applies to end obligation to service landlines in California](https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/)
+- [Goodbye Non-Kiss Appliances](https://willbush.dev/blog/complex-appliances/)
+- [Over the Edge: The Use of Design Tactics to Undermine Browser Choice](https://research.mozilla.org/browser-competition/over-the-edge-the-use-of-design-tactics-to-undermine-browser-choice/)
 - [Full $71M breakdown for The Village by M. Night Shyamalan &lpar;2003&rpar; [pdf]](https://wlmager.com/wp-content/uploads/2012/10/Budget-The-Village-Shyamalan-copy.pdf)
 - [Designer News is dead](https://solomon.io/designer-news-is-dead/)
-- [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
-- [SeaweedFS fast distributed storage system for blobs, objects, files and datalake](https://github.com/seaweedfs/seaweedfs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
