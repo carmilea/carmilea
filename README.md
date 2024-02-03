@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Physical cash is dying–and you don&#39;t need to be a conspiracist to worry](https://www.prospectmagazine.co.uk/ideas/economics/64492/the-end-of-money-cashless-society)
+- [Ofsted inspectors &#39;make up evidence&#39; about a school&#39;s performance when IT fails](https://www.theguardian.com/education/2024/feb/03/ofsted-inspectors-make-up-evidence-about-a-schools-performance-when-it-fails)
+- [Apple releases Pkl – configuration as code language](https://pkl-lang.org/index.html)
 - [FOSDEM 2024 Live Streams](https://fosdem.org/2024/schedule/streaming/)
-- [Ede – An Fltk based desktop environment](https://edeproject.org/)
-- [AT&amp;T applies to end obligation to service landlines in California](https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/)
-- [Goodbye Non-Kiss Appliances](https://willbush.dev/blog/complex-appliances/)
-- [Over the Edge: The Use of Design Tactics to Undermine Browser Choice](https://research.mozilla.org/browser-competition/over-the-edge-the-use-of-design-tactics-to-undermine-browser-choice/)
+- [JetBrains&#39; unremovable AI assistant meets irresistible outcry](https://www.theregister.com/2024/02/01/jetbrains_unremovable_ai_assistant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
