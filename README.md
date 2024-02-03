@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First Apple Vision Pro Kernel Exploit](https://twitter.com/0xjprx/status/1753575170101461266)
+- [FOSDEM 2024 Live Streams](https://fosdem.org/2024/schedule/streaming/)
 - [Ede – An Fltk based desktop environment](https://edeproject.org/)
 - [AT&amp;T applies to end obligation to service landlines in California](https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/)
 - [Goodbye Non-Kiss Appliances](https://willbush.dev/blog/complex-appliances/)
