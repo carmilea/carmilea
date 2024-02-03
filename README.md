@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Twitter API Wrapper for Python – No API Keys Needed](https://github.com/d60/twikit)
+- [Superionic Water](https://en.wikipedia.org/wiki/Superionic_water)
+- [I reduced the size of my Docker image by 40% – Dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
 - [The worst users come from referral programs, free trials, coupons](https://andrewchen.com/worst-users-referral-trials-coupons-gamification/)
+- [Microsoft seeks Rust developers to rewrite core C# code](https://www.theregister.com/2024/01/31/microsoft_seeks_rust_developers/)
 - [Physical cash is dying–and you don&#39;t need to be a conspiracist to worry](https://www.prospectmagazine.co.uk/ideas/economics/64492/the-end-of-money-cashless-society)
-- [Ofsted inspectors &#39;make up evidence&#39; about a school&#39;s performance when IT fails](https://www.theguardian.com/education/2024/feb/03/ofsted-inspectors-make-up-evidence-about-a-schools-performance-when-it-fails)
-- [Apple releases Pkl – configuration as code language](https://pkl-lang.org/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
