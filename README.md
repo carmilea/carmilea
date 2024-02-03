@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [First Apple Vision Pro Kernel Exploit](https://twitter.com/0xjprx/status/1753575170101461266)
+- [Ede – An Fltk based desktop environment](https://edeproject.org/)
 - [AT&amp;T applies to end obligation to service landlines in California](https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/)
 - [Goodbye Non-Kiss Appliances](https://willbush.dev/blog/complex-appliances/)
 - [Over the Edge: The Use of Design Tactics to Undermine Browser Choice](https://research.mozilla.org/browser-competition/over-the-edge-the-use-of-design-tactics-to-undermine-browser-choice/)
-- [Full $71M breakdown for The Village by M. Night Shyamalan &lpar;2003&rpar; [pdf]](https://wlmager.com/wp-content/uploads/2012/10/Budget-The-Village-Shyamalan-copy.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
