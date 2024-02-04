@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Interpreting Neural Networks Through the Polytope Lens &lpar;2022&rpar;](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)
-- [Linux has reached 4% for the partial Feburary 2024 data on StatCounter](https://github.com/OpenStatsLab/statcounterdata/blob/main/parsed/os/desktop.json)
-- [Empirical Failures of the Claim That Autistic People Lack a Theory of Mind](https://psycnet.apa.org/fulltext/2019-75285-001.html)
-- [ProofWiki is an online compendium of mathematical proofs](https://proofwiki.org/wiki/Main_Page)
-- [Digitopia is ruining our lives](https://deeshee.io/2024/02/04/digitopia-is-ruining.html)
+- [Compiling Rust Is Testing](https://kobzol.github.io/rust/2024/02/04/compiling-rust-is-testing.html)
+- [Introduction to Thompson Sampling: The Bernoulli Bandit &lpar;2017&rpar;](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
+- [Magnetic launching of black hole jets in Perseus A](https://www.mpifr-bonn.mpg.de/pressreleases/2024/4)
+- [Is Open Source a diversion from what users want?](https://discourse.ardour.org/t/is-open-source-a-diversion-from-what-users-really-want/102665)
+- [Interpreting neural networks through the polytope lens &lpar;2022&rpar;](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)
 <!-- BLOG-POST-LIST:END -->
 
 ---
