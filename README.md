@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is the $139 Amazon Prime Subscription Still Worth It?](https://www.wsj.com/tech/personal-tech/is-the-139-amazon-prime-subscription-still-worth-it-83a597c7)
-- [Response to protein ingestion during recovery from exercise has no upper limit](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00540-2)
+- [Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)
 - [The first amateur radio station on the moon](https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting)
-- [Melanoma doctor&#39;s high-stakes gamble to treat his brain cancer](https://www.bbc.com/news/world-australia-67870595)
 - [AvaloniaUI: Create Multi-Platform Apps with .NET](https://www.avaloniaui.net/)
+- [In 1950, a U.S. troop plane vanished without a trace in the Yukon](https://www.cbc.ca/documentaries/in-1950-a-u-s-troop-plane-carrying-44-passengers-vanished-without-a-trace-in-the-yukon-1.7063704)
+- [How Doom didn&#39;t kill the Amiga](https://www.datagubbe.se/afb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
