@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vision Pro Teardown–Why Those Fake Eyes Look So Weird](https://www.ifixit.com/News/90137/vision-pro-teardown-why-those-fake-eyes-look-so-weird)
+- [Bernoulli&#39;s Principle Applied to Firefighting – Box Alarm Training](https://www.boxalarmtraining.com/blog/bernoullis-principle-applied-to-firefighting-box-alarm-training)
 - [The DIY Diggers Who Can&#39;t Stop Making &#39;Hobby Tunnels&#39;](https://www.bloomberg.com/news/features/2024-02-03/dig-if-you-will-the-underground-world-of-hobby-tunneling)
 - [TCC RISC-V Compiler Runs in the Web Browser &lpar;Thanks to Zig Compiler&rpar;](https://lupyuen.codeberg.page/articles/tcc.html)
-- [Researchers taking on fraudulent science](https://www.analystnews.org/posts/plagiarism-paper-mills-and-profit-these-scientists-are-fighting-the-epidemic-of-fraudulent-science-research)
-- [A brief history of the U.S. trying to add backdoors into encrypted data &lpar;2016&rpar;](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
-- [Cork is displacing plastics and creating a billion-dollar industry](https://www.washingtonpost.com/climate-solutions/2024/02/03/cork-sustainable-material/)
+- [The King of Curcumin: a case study in consequences of large-scale research fraud](https://reeserichardson.blog/2024/01/30/the-king-of-curcumin-a-case-study-in-the-consequences-of-large-scale-research-fraud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
