@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The First Amateur Radio Station on the Moon, JS1YMG, Is Now Transmitting](https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting)
 - [A Brief History of NSA Backdoors &lpar;2013&rpar;](https://www.ethanheilman.com/x/12/index.html)
-- [Richard Scolyer: Melanoma doctor&#39;s high-stakes gamble to treat his brain cancer](https://www.bbc.com/news/world-australia-67870595)
+- [Melanoma doctor&#39;s high-stakes gamble to treat his brain cancer](https://www.bbc.com/news/world-australia-67870595)
 - [AvaloniaUI: Create Multi-Platform Apps with .NET](https://www.avaloniaui.net/)
 - [How Doom didn&#39;t kill the Amiga](https://www.datagubbe.se/afb/)
-- [Vision Pro Teardown–Why Those Fake Eyes Look So Weird](https://www.ifixit.com/News/90137/vision-pro-teardown-why-those-fake-eyes-look-so-weird)
 <!-- BLOG-POST-LIST:END -->
 
 ---
