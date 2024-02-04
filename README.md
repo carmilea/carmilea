@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DNA damage and mutations in cells after irradiation with a nail polish dryer](https://www.nature.com/articles/s41467-023-35876-8)
-- [Apple fixes zero-day bug in Apple Vision Pro that &#39;may have been exploited&#39;](https://techcrunch.com/2024/01/31/apple-vision-pro-zero-day-security-bug-exploited/)
-- [Psychology, a Failed Discipline: Flawed Paradigms, Methodology, and Epistemology](https://unfashionable.blog/p/psychology)
-- [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [Oxford PV sets new solar panel efficiency world record](https://www.oxfordpv.com/news/oxford-pv-sets-new-solar-panel-efficiency-world-record-0)
+- [Interpreting Neural Networks Through the Polytope Lens &lpar;2022&rpar;](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)
+- [Linux has reached 4% for the partial Feburary 2024 data on StatCounter](https://github.com/OpenStatsLab/statcounterdata/blob/main/parsed/os/desktop.json)
+- [Empirical Failures of the Claim That Autistic People Lack a Theory of Mind](https://psycnet.apa.org/fulltext/2019-75285-001.html)
+- [ProofWiki is an online compendium of mathematical proofs](https://proofwiki.org/wiki/Main_Page)
+- [Digitopia is ruining our lives](https://deeshee.io/2024/02/04/digitopia-is-ruining.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
