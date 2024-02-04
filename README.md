@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The DIY Diggers Who Can&#39;t Stop Making &#39;Hobby Tunnels&#39;](https://www.bloomberg.com/news/features/2024-02-03/dig-if-you-will-the-underground-world-of-hobby-tunneling)
+- [TCC RISC-V Compiler Runs in the Web Browser &lpar;Thanks to Zig Compiler&rpar;](https://lupyuen.codeberg.page/articles/tcc.html)
 - [Researchers taking on fraudulent science](https://www.analystnews.org/posts/plagiarism-paper-mills-and-profit-these-scientists-are-fighting-the-epidemic-of-fraudulent-science-research)
 - [A brief history of the U.S. trying to add backdoors into encrypted data &lpar;2016&rpar;](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
 - [Cork is displacing plastics and creating a billion-dollar industry](https://www.washingtonpost.com/climate-solutions/2024/02/03/cork-sustainable-material/)
-- [How much bigger could Earth be before rockets wouldn&#39;t work?](https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work)
-- [Breaking Bitlocker – Bypassing the Windows Disk Encryption [video]](https://www.youtube.com/watch?v=wTl4vEednkQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
