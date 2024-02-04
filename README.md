@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: USD 0.99/TB/month cloud storage](https://earthcompute.com/)
+- [How Inuit Parents Teach Kids To Control Their Anger &lpar;2019&rpar;](https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger)
+- [We just launched Sketch Logo AI](https://www.sketchlogo.ai/)
 - [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
-- [Duncan Campbell](https://www.duncancampbell.org/content/biography)
-- [Highland hermit makes surprise film festival visit &lpar;2022&rpar;](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-60632608)
-- [Association of long-term exposure to air pollution w retinal neurodegeneration](https://www.sciencedirect.com/science/article/abs/pii/S0013935123011684)
-- [#include &lt;rules&gt;](https://zeux.io/2010/11/15/include-rules/)
+- [Duncan Campbell – Investigative journalist and forensic expert](https://www.duncancampbell.org/content/biography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
