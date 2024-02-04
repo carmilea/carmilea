@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What are you reading Feb 2024](https://news.ycombinator.com/item?id=39248780)
 - [Finance worker pays out $25M after VC with deepfake CFO](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html)
 - [How to Replace Your CPAP in Only 666 Days](https://aphyr.com/posts/368-how-to-replace-your-cpap-in-only-666-days)
 - [Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)
 - [The first amateur radio station on the moon](https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting)
-- [AvaloniaUI: Create Multi-Platform Apps with .NET](https://www.avaloniaui.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
