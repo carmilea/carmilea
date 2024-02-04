@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: USD 0.99/TB/month cloud storage](https://earthcompute.com/)
-- [How Inuit Parents Teach Kids To Control Their Anger &lpar;2019&rpar;](https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger)
-- [We just launched Sketch Logo AI](https://www.sketchlogo.ai/)
-- [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
-- [Duncan Campbell – Investigative journalist and forensic expert](https://www.duncancampbell.org/content/biography)
+- [macOS Sonoma 14.4 removes critical functions from the fileproviderctl command](https://forums.macrumors.com/threads/fileproviderctl-on-sonoma-14-4-here-we-f-ng-go-again.2418353/)
+- [Still no love for JPEG XL: Browser maker love-in snubs next-gen image format](https://www.theregister.com/2024/02/03/jpeg_xl_interop_2024/)
+- [Humans are living longer than ever no matter where they come from](https://arstechnica.com/science/2024/02/humans-are-living-longer-than-ever-no-matter-where-they-come-from/)
+- [Rolling Airframe Missile](https://www.navalgazing.net/RAM)
+- [Gentoo x86-64-v3 binary packages available](https://www.gentoo.org/news/2024/02/04/x86-64-v3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
