@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [Oxford PV sets new solar panel efficiency world record](https://www.oxfordpv.com/news/oxford-pv-sets-new-solar-panel-efficiency-world-record-0)
+- [Why buying tickets to a game has become so unaffordable](https://lite.cnn.com/2024/02/04/business/its-not-just-the-super-bowl-going-to-a-game-is-becoming-unaffordable/index.html)
 - [macOS Sonoma 14.4 removes critical functions from the fileproviderctl command](https://forums.macrumors.com/threads/fileproviderctl-on-sonoma-14-4-here-we-f-ng-go-again.2418353/)
-- [Still no love for JPEG XL: Browser maker love-in snubs next-gen image format](https://www.theregister.com/2024/02/03/jpeg_xl_interop_2024/)
-- [Humans are living longer than ever no matter where they come from](https://arstechnica.com/science/2024/02/humans-are-living-longer-than-ever-no-matter-where-they-come-from/)
-- [Rolling Airframe Missile](https://www.navalgazing.net/RAM)
-- [Gentoo x86-64-v3 binary packages available](https://www.gentoo.org/news/2024/02/04/x86-64-v3.html)
+- [Browser extensions are underrated: the promise of hackable software](https://www.geoffreylitt.com/2019/07/29/browser-extensions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
