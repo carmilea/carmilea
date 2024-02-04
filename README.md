@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI testing](https://news.ycombinator.com/item?id=39254438)
-- [Autism, Through the Eyes of a Computer](https://www.spectrumnews.org/features/deep-dive/autism-through-the-eyes-of-a-computer/)
+- [Autism, through the eyes of a computer &lpar;2019&rpar;](https://www.spectrumnews.org/features/deep-dive/autism-through-the-eyes-of-a-computer/)
 - [Mr. Difficult: William Gaddis and the Problem of Hard-to-Read Books &lpar;2002&rpar;](https://adilegian.com/FranzenGaddis.htm)
-- [Stract: Open-Souce, Non-Profit Search Engine](https://stract.com/)
-- [Banning Private Jets and Going to a 4-Day Work Week Are Radical – and Popular](https://gizmodo.com/banning-private-jets-and-going-to-a-4-day-work-week-are-1851221050)
+- [Stract: Open-souce, non-profit search engine](https://stract.com/)
+- [Dijkstra&#39;s interview on Dutch TV &lpar;2000&rpar;](https://pncnmnp.github.io/blogs/translating-dijakstra.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
