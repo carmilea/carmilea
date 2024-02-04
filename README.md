@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Compiling Rust Is Testing](https://kobzol.github.io/rust/2024/02/04/compiling-rust-is-testing.html)
-- [Introduction to Thompson Sampling: The Bernoulli Bandit &lpar;2017&rpar;](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
-- [Magnetic launching of black hole jets in Perseus A](https://www.mpifr-bonn.mpg.de/pressreleases/2024/4)
-- [Is Open Source a diversion from what users want?](https://discourse.ardour.org/t/is-open-source-a-diversion-from-what-users-really-want/102665)
-- [Interpreting neural networks through the polytope lens &lpar;2022&rpar;](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI testing](https://news.ycombinator.com/item?id=39254438)
+- [Autism, Through the Eyes of a Computer](https://www.spectrumnews.org/features/deep-dive/autism-through-the-eyes-of-a-computer/)
+- [Mr. Difficult: William Gaddis and the Problem of Hard-to-Read Books &lpar;2002&rpar;](https://adilegian.com/FranzenGaddis.htm)
+- [Stract: Open-Souce, Non-Profit Search Engine](https://stract.com/)
+- [Banning Private Jets and Going to a 4-Day Work Week Are Radical – and Popular](https://gizmodo.com/banning-private-jets-and-going-to-a-4-day-work-week-are-1851221050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
