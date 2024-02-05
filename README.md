@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yandex &lpar;Russian Google&rpar; sells all of its Russian businesses](https://ir.yandex/press-releases?year=2024)
 - [Top workers more likely to want to quit when companies have strict RTO mandates](https://www.businessinsider.com/strict-return-to-office-mandates-could-drive-away-top-workers-2024-2)
-- [Vanguard economic and market outlook 2024: Global summary](https://www.nl.vanguard/professional/insights/macro-economics/vanguard-economic-and-market-outlook-2024-global-summary)
 - [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
+- [How does Sidekiq really work?](https://dansvetlov.me/sidekiq-internals/)
 - [DEF CON 32 Was Canceled. We Un-Canceled it](https://forum.defcon.org/node/248360)
-- [Apple iPod Shuffle USB interface pinout](https://pinoutguide.com/PortableDevices/ipod_shuffle_pinout.shtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
