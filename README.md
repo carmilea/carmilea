@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Working in the Vision Pro [video]](https://www.youtube.com/watch?v=BV9Xy6L_rlM)
+- [Tenstorrent Engineers Talk Open-Sourced Bare-Metal Stack](https://www.eetimes.com/tenstorrent-engineers-talk-open-sourced-bare-metal-stack/)
+- [Vesuvius Challenge 2023 Grand Prize awarded: we can read the first scroll](https://scrollprize.org/grandprize)
 - [Remote access giant AnyDesk resets passwords and revokes certificates after hack](https://techcrunch.com/2024/02/05/remote-access-giant-anydesk-resets-passwords-and-revokes-certificates-after-hack/)
-- [Show HN: Natural-SQL-7B, a strong open-source text-to-SQL model](https://github.com/cfahlgren1/natural-sql)
-- [Programming in 1969, by Emilk](https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html)
-- [Tell me your most exotic selfhosted solution](https://old.reddit.com/r/selfhosted/comments/187d7m2/tell_me_your_most_exotic_selfhosted_solution_the/)
-- [PostgreSQL UUID v7 support](https://commitfest.postgresql.org/47/4388/)
+- [Cable Companies, Automakers Try to Derail FTC, FCC Quest to Kill Misleading Fees](https://www.techdirt.com/2024/02/05/cable-companies-automakers-try-to-derail-ftc-fcc-quest-to-kill-misleading-fees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
