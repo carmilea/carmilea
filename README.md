@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NetBSD 10: Thirty Years, Still Going Strong](https://bentsukun.ch/talks/fosdem2024/)
 - [Caesars abruptly cancels contract with DEF CON](https://forum.defcon.org/node/248360)
 - [Apple iPod Shuffle USB interface pinout](https://pinoutguide.com/PortableDevices/ipod_shuffle_pinout.shtml)
 - [The IRS has all our tax data. Why doesn&#39;t its new website use it?](https://www.washingtonpost.com/business/2024/02/04/direct-file-irs-taxes/)
 - [Apple Ramped Up Autonomous Vehicle Testing Last Year, Filings Show](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
-- [How to Quit Your Smartphone](https://www.nytimes.com/2024/02/01/technology/iphone-mental-health-flip-phone.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
