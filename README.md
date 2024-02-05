@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub is preparing for IPv6 support for Github.com](https://www.githubstatus.com/incidents/5y8b8lsqbbyq)
+- [Top workers more likely to want to quit when companies have strict RTO mandates](https://www.businessinsider.com/strict-return-to-office-mandates-could-drive-away-top-workers-2024-2)
+- [Vanguard economic and market outlook 2024: Global summary](https://www.nl.vanguard/professional/insights/macro-economics/vanguard-economic-and-market-outlook-2024-global-summary)
 - [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
 - [DEF CON 32 Was Canceled. We Un-Canceled it](https://forum.defcon.org/node/248360)
 - [Apple iPod Shuffle USB interface pinout](https://pinoutguide.com/PortableDevices/ipod_shuffle_pinout.shtml)
-- [A practical guide to quitting your smartphone](https://www.nytimes.com/2024/02/01/technology/iphone-mental-health-flip-phone.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
