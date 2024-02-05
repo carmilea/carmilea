@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yandex &lpar;Russian Google&rpar; sells all of its Russian businesses](https://ir.yandex/press-releases?year=2024)
-- [Top workers more likely to want to quit when companies have strict RTO mandates](https://www.businessinsider.com/strict-return-to-office-mandates-could-drive-away-top-workers-2024-2)
-- [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
-- [How does Sidekiq really work?](https://dansvetlov.me/sidekiq-internals/)
-- [DEF CON 32 Was Canceled. We Un-Canceled it](https://forum.defcon.org/node/248360)
+- [Gin, Television, and Social Surplus &lpar;2008&rpar;](https://gist.github.com/jm3/6724931)
+- [The New Work-Life Balance: Don&#39;t Have Kids](https://www.bloomberg.com/opinion/articles/2024-02-04/career-demands-meager-leave-policies-drive-down-birth-rate)
+- [Deno in 2023](https://deno.com/blog/deno-in-2023)
+- [Zellij – A terminal workspace with batteries included &lpar;tmux alternative&rpar;](https://zellij.dev/screencasts/)
+- [Running Open-Source AI Models Locally with Ruby](https://reinteractive.com/articles/running-open-source-AI-models-locally-with-ruby)
 <!-- BLOG-POST-LIST:END -->
 
 ---
