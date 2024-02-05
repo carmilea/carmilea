@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UUIDv7 is coming in PostgreSQL 17](https://commitfest.postgresql.org/47/4388/)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 - [The fastest-growing countries for software development, according to GitHub](https://restofworld.org/2024/github-developer-bangladesh-nigeria-pakistan/)
-- [Ask HN: How many of you are self employed?](https://news.ycombinator.com/item?id=39259602)
 - [How I&#39;m able to take notes in mathematics lectures using LaTeX and Vim &lpar;2019&rpar;](https://castel.dev/post/lecture-notes-1/)
 - [Gin, Television, and Social Surplus &lpar;2008&rpar;](https://gist.github.com/jm3/6724931)
 <!-- BLOG-POST-LIST:END -->
