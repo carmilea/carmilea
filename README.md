@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Apple Vision Pro Is Spectacular and Sad](https://www.theatlantic.com/technology/archive/2024/02/apple-vision-pro-headset-review/677347/)
 - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
+- [Netflix: Piracy is difficult to compete against and growing rapidly](https://torrentfreak.com/netflix-piracy-is-difficult-to-compete-against-and-growing-rapidly-240204/)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI testing](https://news.ycombinator.com/item?id=39254438)
-- [Solving the Darknet Riddle](https://sizeof.life/posts/darknet-riddle/)
-- [Mr. Difficult: William Gaddis and the Problem of Hard-to-Read Books &lpar;2002&rpar;](https://adilegian.com/FranzenGaddis.htm)
+- [Solving the darknet riddle &lpar;2022&rpar;](https://sizeof.life/posts/darknet-riddle/)
+- [Stract: Open-souce, non-profit search engine](https://stract.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
