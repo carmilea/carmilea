@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Working in the Vision Pro [video]](https://www.youtube.com/watch?v=BV9Xy6L_rlM)
+- [Ashby &lpar;YC W19&rpar; Hiring a Product Engineering Manager in Americas &lpar;Remote&rpar;](https://www.ashbyhq.com/careers?ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
+- [Weaveworks Is Shuting Down](https://twitter.com/monadic/status/1754530336120140116)
+- [Without software right to repair, your devices are not secure](https://sfconservancy.org/blog/2024/feb/03/ccirt-security-and-software-right-to-repair/)
+- [SAT &lpar;and ACT&rpar; scores are highly predictive of academic achievement at Dartmouth [pdf]](https://home.dartmouth.edu/sites/home/files/2024-02/sat-undergrad-admissions.pdf)
 - [Tenstorrent Engineers Talk Open-Sourced Bare-Metal Stack](https://www.eetimes.com/tenstorrent-engineers-talk-open-sourced-bare-metal-stack/)
-- [Vesuvius Challenge 2023 Grand Prize awarded: we can read the first scroll](https://scrollprize.org/grandprize)
-- [Remote access giant AnyDesk resets passwords and revokes certificates after hack](https://techcrunch.com/2024/02/05/remote-access-giant-anydesk-resets-passwords-and-revokes-certificates-after-hack/)
-- [Cable Companies, Automakers Try to Derail FTC, FCC Quest to Kill Misleading Fees](https://www.techdirt.com/2024/02/05/cable-companies-automakers-try-to-derail-ftc-fcc-quest-to-kill-misleading-fees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
