@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Out-of-bounds read and write in the glibc&#39;s qsort&lpar;&rpar; 1992-2024](https://www.openwall.com/lists/oss-security/2024/01/30/7)
+- [Ask HN: How did yall meet your SO?](https://news.ycombinator.com/item?id=39265275)
+- [Out-of-bounds read and write in the glibc&#39;s qsort&lpar;&rpar;](https://www.openwall.com/lists/oss-security/2024/01/30/7)
 - [WA House bill would make it illegal for police to lie during interrogations](https://www.seattletimes.com/seattle-news/politics/wa-house-would-make-it-illegal-for-police-to-lie-during-interrogations/)
-- [Tesla driver pulled over after wearing new Apple vision headset on highway](https://www.the-express.com/tech/tech-news/126783/tesla-Apple-Vision-pro-driver-pulled-over)
-- [Bootstrap or VC?](https://www.ycombinator.com/blog/bootstrap-or-vc/)
+- [Bootstrap or VC? [video]](https://www.youtube.com/watch?v=D81y-kh11oI)
 - [Show HN: Atopile – Design circuit boards with code](https://news.ycombinator.com/item?id=39263854)
 <!-- BLOG-POST-LIST:END -->
 
