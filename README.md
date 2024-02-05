@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub is preparing for IPv6 support for Github.com](https://www.githubstatus.com/incidents/5y8b8lsqbbyq)
 - [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
-- [NetBSD 10: Thirty Years, Still Going Strong](https://bentsukun.ch/talks/fosdem2024/)
-- [Caesars abruptly cancels contract with DEF CON](https://forum.defcon.org/node/248360)
+- [DEF CON 32 Was Canceled. We Un-Canceled it](https://forum.defcon.org/node/248360)
 - [Apple iPod Shuffle USB interface pinout](https://pinoutguide.com/PortableDevices/ipod_shuffle_pinout.shtml)
-- [The IRS has all our tax data. Why doesn&#39;t its new website use it?](https://www.washingtonpost.com/business/2024/02/04/direct-file-irs-taxes/)
+- [A practical guide to quitting your smartphone](https://www.nytimes.com/2024/02/01/technology/iphone-mental-health-flip-phone.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
