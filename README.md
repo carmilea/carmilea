@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Apple Ramped Up Autonomous Vehicle Testing Last Year, Filings Show](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
 - [How to Quit Your Smartphone](https://www.nytimes.com/2024/02/01/technology/iphone-mental-health-flip-phone.html)
+- [Optimistic thinking linked with lower cognitive abilities](https://www.bath.ac.uk/announcements/optimistic-thinking-linked-with-lower-cognitive-abilities-new-research/)
 - [Small Business and Mid Market Is Not Easier Than Enterprise](https://www.jjellyfish.com/articles/debunking-the-myth-smbmid-market-is-not-easier-than-enterprise)
 - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
-- [Netflix: Piracy is difficult to compete against and growing rapidly](https://torrentfreak.com/netflix-piracy-is-difficult-to-compete-against-and-growing-rapidly-240204/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
