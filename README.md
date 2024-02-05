@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chris Wanstrath &quot;defunkt&quot; GitHub cofounder and former CEO is banned on GitHub](https://twitter.com/defunkt/status/1754610843361362360)
+- [Meta cuts off third-party access to Facebook Groups](https://techcrunch.com/2024/02/05/meta-cuts-off-third-party-access-to-facebook-groups-leaving-developers-and-customers-in-disarray/)
 - [Want to build a sequencer? 454.bio opens up their plans](http://omicsomics.blogspot.com/2024/02/want-to-build-sequencer-454bio-opens-up.html)
 - [Relativistic Spaceship](https://dmytry.github.io/space/)
 - [Gates&#39; Law: How progress compounds and why it matters &lpar;2018&rpar;](https://fs.blog/gates-law/)
