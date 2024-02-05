@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UUIDv7 is coming in PostgreSQL 17](https://commitfest.postgresql.org/47/4388/)
+- [Google&#39;s Once Happy Offices Feel the Chill of Layoffs](https://www.nytimes.com/2024/02/05/technology/google-layoffs-work-culture.html)
+- [Exotic selfhosted solutions for personal usage](https://old.reddit.com/r/selfhosted/comments/187d7m2/tell_me_your_most_exotic_selfhosted_solution_the/)
+- [PostgreSQL UUID v7 support](https://commitfest.postgresql.org/47/4388/)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 - [The fastest-growing countries for software development, according to GitHub](https://restofworld.org/2024/github-developer-bangladesh-nigeria-pakistan/)
-- [How I&#39;m able to take notes in mathematics lectures using LaTeX and Vim &lpar;2019&rpar;](https://castel.dev/post/lecture-notes-1/)
-- [Gin, Television, and Social Surplus &lpar;2008&rpar;](https://gist.github.com/jm3/6724931)
 <!-- BLOG-POST-LIST:END -->
 
 ---
