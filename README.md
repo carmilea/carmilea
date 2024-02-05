@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Parisians vote in favour of tripling parking costs for SUVs](https://www.theguardian.com/world/2024/feb/04/parisians-vote-in-favour-of-tripling-parking-costs-for-suvs)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [The fastest-growing countries for software development, according to GitHub](https://restofworld.org/2024/github-developer-bangladesh-nigeria-pakistan/)
+- [Ask HN: How many of you are self employed?](https://news.ycombinator.com/item?id=39259602)
+- [How I&#39;m able to take notes in mathematics lectures using LaTeX and Vim &lpar;2019&rpar;](https://castel.dev/post/lecture-notes-1/)
 - [Gin, Television, and Social Surplus &lpar;2008&rpar;](https://gist.github.com/jm3/6724931)
-- [Deno in 2023](https://deno.com/blog/deno-in-2023)
-- [Zellij – A terminal workspace with batteries included &lpar;tmux alternative&rpar;](https://zellij.dev/screencasts/)
-- [Yandex to Divest its Russia-based Businesses](https://ir.yandex/press-releases?year=2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
