@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How did yall meet your SO?](https://news.ycombinator.com/item?id=39265275)
-- [Out-of-bounds read and write in the glibc&#39;s qsort&lpar;&rpar;](https://www.openwall.com/lists/oss-security/2024/01/30/7)
-- [WA House bill would make it illegal for police to lie during interrogations](https://www.seattletimes.com/seattle-news/politics/wa-house-would-make-it-illegal-for-police-to-lie-during-interrogations/)
-- [Bootstrap or VC? [video]](https://www.youtube.com/watch?v=D81y-kh11oI)
-- [Show HN: Atopile – Design circuit boards with code](https://news.ycombinator.com/item?id=39263854)
+- [Htmx deep dive with carson gross [video]](https://www.youtube.com/watch?v=javGxN-h9VQ)
+- [Show HN: The HTTP Garden – A Parser Vulnerability Research Tool](https://github.com/narfindustries/http-garden)
+- [Gates, Bezos-backed KoBold Metals says Zambia copper find largest in a century](https://www.mining.com/gates-bezos-backed-kobold-says-zambia-copper-find-largest-in-a-century/)
+- [Show HN: CLI for generating beautiful PDF for offline reading](https://github.com/dvcoolarun/web2pdf)
+- [Ask HN: How to find time to learn after full-time job?](https://news.ycombinator.com/item?id=39264751)
 <!-- BLOG-POST-LIST:END -->
 
 ---
