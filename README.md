@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Ramped Up Autonomous Vehicle Testing Last Year, Filings Show](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
+- [How to Quit Your Smartphone](https://www.nytimes.com/2024/02/01/technology/iphone-mental-health-flip-phone.html)
+- [Small Business and Mid Market Is Not Easier Than Enterprise](https://www.jjellyfish.com/articles/debunking-the-myth-smbmid-market-is-not-easier-than-enterprise)
 - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 - [Netflix: Piracy is difficult to compete against and growing rapidly](https://torrentfreak.com/netflix-piracy-is-difficult-to-compete-against-and-growing-rapidly-240204/)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI testing](https://news.ycombinator.com/item?id=39254438)
-- [Solving the darknet riddle &lpar;2022&rpar;](https://sizeof.life/posts/darknet-riddle/)
-- [Stract: Open-souce, non-profit search engine](https://stract.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
