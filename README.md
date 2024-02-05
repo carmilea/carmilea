@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Htmx deep dive with carson gross [video]](https://www.youtube.com/watch?v=javGxN-h9VQ)
+- [Chris Wanstrath &quot;defunkt&quot; GitHub cofounder and former CEO is banned on GitHub](https://twitter.com/defunkt/status/1754610843361362360)
+- [Want to build a sequencer? 454.bio opens up their plans](http://omicsomics.blogspot.com/2024/02/want-to-build-sequencer-454bio-opens-up.html)
+- [Relativistic Spaceship](https://dmytry.github.io/space/)
+- [Gates&#39; Law: How progress compounds and why it matters &lpar;2018&rpar;](https://fs.blog/gates-law/)
 - [Show HN: The HTTP Garden – A Parser Vulnerability Research Tool](https://github.com/narfindustries/http-garden)
-- [Gates, Bezos-backed KoBold Metals says Zambia copper find largest in a century](https://www.mining.com/gates-bezos-backed-kobold-says-zambia-copper-find-largest-in-a-century/)
-- [Show HN: CLI for generating beautiful PDF for offline reading](https://github.com/dvcoolarun/web2pdf)
-- [Ask HN: How to find time to learn after full-time job?](https://news.ycombinator.com/item?id=39264751)
 <!-- BLOG-POST-LIST:END -->
 
 ---
