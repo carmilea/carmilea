@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ashby &lpar;YC W19&rpar; Hiring a Product Engineering Manager in Americas &lpar;Remote&rpar;](https://www.ashbyhq.com/careers?ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
-- [Weaveworks Is Shuting Down](https://twitter.com/monadic/status/1754530336120140116)
-- [Without software right to repair, your devices are not secure](https://sfconservancy.org/blog/2024/feb/03/ccirt-security-and-software-right-to-repair/)
-- [SAT &lpar;and ACT&rpar; scores are highly predictive of academic achievement at Dartmouth [pdf]](https://home.dartmouth.edu/sites/home/files/2024-02/sat-undergrad-admissions.pdf)
-- [Tenstorrent Engineers Talk Open-Sourced Bare-Metal Stack](https://www.eetimes.com/tenstorrent-engineers-talk-open-sourced-bare-metal-stack/)
+- [Out-of-bounds read and write in the glibc&#39;s qsort&lpar;&rpar; 1992-2024](https://www.openwall.com/lists/oss-security/2024/01/30/7)
+- [WA House bill would make it illegal for police to lie during interrogations](https://www.seattletimes.com/seattle-news/politics/wa-house-would-make-it-illegal-for-police-to-lie-during-interrogations/)
+- [Tesla driver pulled over after wearing new Apple vision headset on highway](https://www.the-express.com/tech/tech-news/126783/tesla-Apple-Vision-pro-driver-pulled-over)
+- [Bootstrap or VC?](https://www.ycombinator.com/blog/bootstrap-or-vc/)
+- [Show HN: Atopile – Design circuit boards with code](https://news.ycombinator.com/item?id=39263854)
 <!-- BLOG-POST-LIST:END -->
 
 ---
