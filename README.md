@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL for Data Scientists in 100 Queries](https://gvwilson.github.io/sql-tutorial/)
+- [Apple to EU: &quot;Go fuck yourself&quot;](https://pluralistic.net/2024/02/06/spoil-the-bunch/#dma)
+- [SQL for data scientists in 100 queries](https://gvwilson.github.io/sql-tutorial/)
 - [Alaska Airlines flight 1282 NTSB preliminary report [pdf]](https://www.ntsb.gov/investigations/Documents/DCA24MA063%20Preliminary%20report.pdf)
 - [Spine AI &lpar;YC S23&rpar; Is Hiring a Lead ML Scientist](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
-- [High coffee consumption, brain volume and risk of dementia and stroke](https://www.tandfonline.com/doi/full/10.1080/1028415X.2021.1945858)
-- [New IBM LinuxONE 4 Express – Rack-mounted pre-configured Linux mainframe](https://newsroom.ibm.com/2024-02-06-New-IBM-LinuxONE-4-Express-to-Offer-Cost-Savings-and-Client-Value-through-a-Cyber-Resilient-Hybrid-Cloud-and-AI-Platform)
+- [Show HN: Geppetto, an open source AI companion for your Slack teams](https://github.com/Deeptechia/geppetto)
 <!-- BLOG-POST-LIST:END -->
 
 ---
