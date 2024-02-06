@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads now reaches more than 130M monthly users, up 30M from Q3](https://techcrunch.com/2024/02/01/threads-now-reaches-more-130-million-monthly-users-says-meta-up-30m-from-q3/)
+- [The Tragedy of Mathematics in Russia](http://old.math.nsc.ru/LBRT/g2/english/ssk/case_e.html#contents)
 - [New viruslike entities found in human gut microbes](https://www.science.org/content/article/it-s-insane-new-viruslike-entities-found-human-gut-microbes)
 - [Panda CSS: build time and type-safe CSS-in-JS](https://panda-css.com/)
 - [Companies embracing SMS for account logins should be blamed for SIM-swap attacks](https://keydiscussions.com/2024/02/05/sim-swap-attacks-can-be-blamed-on-companies-embracing-sms-based-password-resets/)
-- [I worked 80 hour weeks to deliver a platform for a hedge fund,then they fired me](https://www.efinancialcareers.com/news/i-worked-80-hour-weeks-to-deliver-a-platform-for-a-hedge-fund-then-they-fired-me)
-- [Organ playing 639-year-long piece changes chord](https://www.bbc.com/news/world-europe-68209691)
 <!-- BLOG-POST-LIST:END -->
 
 ---
