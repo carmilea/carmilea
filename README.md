@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toyota Cashes in on Booming Hybrid Sales](https://www.wsj.com/business/earnings/toyota-motor-reports-rise-in-quarterly-net-profit-as-sales-grew-5324042e)
+- [TikTok Is Destroying Itself from the Inside Out](https://gizmodo.com/tiktok-is-destroying-itself-from-the-inside-out-1851227491)
+- [Oceans May Have Already Seen 1.7°C of Warming](https://eos.org/articles/oceans-may-have-already-seen-1-7c-of-warming)
+- [Better Call GPT, Comparing Large Language Models Against Lawyers [pdf]](https://arxiv.org/abs/2401.16212)
 - [Review: Framework&#39;s Laptop 16 is unique, laudable and flawed](https://arstechnica.com/gadgets/2024/01/review-frameworks-laptop-16-is-unique-laudable-fascinating-and-flawed/)
-- [Bluesky has publicly launched &lpar;no invite required&rpar;](https://bsky.social/about/blog/02-06-2024-join-bluesky)
-- [Hal Finney was the designer of Bitcoin](https://yro.slashdot.org/comments.pl?sid=23217056&cid=64218342)
-- [Mozilla Monitor Plus: automatically remove your personal info from data brokers](https://blog.mozilla.org/en/mozilla/introducing-mozilla-monitor-plus-a-new-tool-to-automatically-remove-your-personal-information-from-data-broker-sites/)
-- [The Dean of Engineering at UofNevada wrote a paper so bad, you can&#39;t believe it](https://statmodeling.stat.columbia.edu/2024/02/06/its-bezzle-time-the-dean-of-engineering-at-the-university-of-nevada-gets-paid-372127-a-year-and-wrote-a-paper-thats-so-bad-you-cant-believe-it-i-mean-really-you-have-to-take-a-look-at-t/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
