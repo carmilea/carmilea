@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The world is awful. The world is much better. The world can be much better](https://ourworldindata.org/much-better-awful-can-be-better)
+- [Three million malware-infected smart toothbrushes used in Swiss DDoS attacks](https://www.tomshardware.com/networking/three-million-malware-infected-smart-toothbrushes-used-in-swiss-ddos-attacks-botnet-causes-millions-of-euros-in-damages)
 - [&quot;Fake Chinese Income&quot; Mortgages Fuel Toronto Real Estate Bubble: HSBC Bank Leaks](https://www.thebureau.news/p/fake-chinese-income-mortgages-fuel)
 - [Spotify CEO Daniel Ek tells investors Apple&#39;s DMA rules are a &#39;farce&#39;](https://techcrunch.com/2024/02/06/spotify-ceo-daniel-ek-tells-investors-apples-dma-rules-are-a-farce-but-says-there-are-future-upsides-too/)
 - [China spied on Dutch Cyber Intelligence through FortiGate backdoors](https://www.defensie.nl/actueel/nieuws/2024/02/06/mivd-onthult-werkwijze-chinese-spionage-in-nederland)
-- [BuildKit in depth: Docker&#39;s build engine explained](https://depot.dev/blog/buildkit-in-depth)
-- [Cannabis use linked to anxiety diagnoses, worsened anxiety disorders](https://globalnews.ca/news/10275463/cannabis-anxiety-ontario-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
