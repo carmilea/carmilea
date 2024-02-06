@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CERN aims to build €20B collider to unlock secrets of universe](https://www.theguardian.com/science/2024/feb/05/cern-atom-smasher-unlock-secrets-universe-large-hadron-collider)
+- [Browsers Are Weird](https://tylersticka.com/journal/browsers-are-weird-right-now/)
 - [Vision 1993](https://www.tbray.org/ongoing/When/202x/2024/02/02/Vision-1993)
+- [LineageOS is currently installed on 1.5M Android devices](https://9to5google.com/2023/11/20/lineageos-number-of-devices/)
 - [The tragedy of mathematics in Russia &lpar;2013&rpar;](http://old.math.nsc.ru/LBRT/g2/english/ssk/case_e.html#contents)
-- [New viruslike entities found in human gut microbes](https://www.science.org/content/article/it-s-insane-new-viruslike-entities-found-human-gut-microbes)
-- [Panda CSS: build time and type-safe CSS-in-JS](https://panda-css.com/)
-- [Companies embracing SMS for account logins should be blamed for SIM-swap attacks](https://keydiscussions.com/2024/02/05/sim-swap-attacks-can-be-blamed-on-companies-embracing-sms-based-password-resets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
