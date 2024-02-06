@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU right to repair: Sellers liable for 1 year after products are fixed](https://arstechnica.com/tech-policy/2024/02/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/)
 - [Six Spongy Sea Creatures Suggest Warming Might Be Worse Than Thought](https://www.nytimes.com/2024/02/05/climate/global-warming-sponges.html)
 - [Destruction of nuclear bombs using ultra-high energy neutrino beam &lpar;2003&rpar; [pdf]](https://arxiv.org/pdf/hep-ph/0305062.pdf)
 - [OKRs Are Bullshit](https://blog.appliedcomputing.io/p/okrs-are-bullshit)
 - [Vision 1993](https://www.tbray.org/ongoing/When/202x/2024/02/02/Vision-1993)
-- [LineageOS is currently installed on 1.5M Android devices](https://9to5google.com/2023/11/20/lineageos-number-of-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
