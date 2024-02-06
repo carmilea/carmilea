@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Toyota Cashes in on Booming Hybrid Sales](https://www.wsj.com/business/earnings/toyota-motor-reports-rise-in-quarterly-net-profit-as-sales-grew-5324042e)
+- [PlayHT &lpar;YC W23&rpar; Is Hiring a Founding LLM Engineer and Researcher](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
+- [Runs on your OpenWrt box: AdGuard Home is network-wide blocking ads and tracking](https://github.com/AdguardTeam/AdGuardHome)
+- [The Perverse Policies That Fuel Wildfires](https://www.newyorker.com/magazine/2024/02/05/the-perverse-policies-that-fuel-wildfires)
 - [TikTok Is Destroying Itself from the Inside Out](https://gizmodo.com/tiktok-is-destroying-itself-from-the-inside-out-1851227491)
-- [Oceans May Have Already Seen 1.7°C of Warming](https://eos.org/articles/oceans-may-have-already-seen-1-7c-of-warming)
-- [Better Call GPT, Comparing Large Language Models Against Lawyers [pdf]](https://arxiv.org/abs/2401.16212)
-- [Review: Framework&#39;s Laptop 16 is unique, laudable and flawed](https://arstechnica.com/gadgets/2024/01/review-frameworks-laptop-16-is-unique-laudable-fascinating-and-flawed/)
+- [Instruction-Based Image Editing via LLM](https://github.com/apple/ml-mgie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
