@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nassim Taleb: U.S. is in a &#39;death spiral&#39; over government debt](https://finance.yahoo.com/news/black-swan-author-nassim-taleb-112918333.html)
-- [Mozilla&#39;s new service removes your personal info from data brokers](https://techcrunch.com/2024/02/06/mozilla-monitors-new-service-removes-your-personal-info-from-data-broker-sites-automatically/)
+- [Spine AI &lpar;YC S23&rpar; Is Hiring a Lead ML Scientist](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
+- [High coffee consumption, brain volume and risk of dementia and stroke](https://www.tandfonline.com/doi/full/10.1080/1028415X.2021.1945858)
 - [New IBM LinuxONE 4 Express – Rack-mounted pre-configured Linux mainframe](https://newsroom.ibm.com/2024-02-06-New-IBM-LinuxONE-4-Express-to-Offer-Cost-Savings-and-Client-Value-through-a-Cyber-Resilient-Hybrid-Cloud-and-AI-Platform)
 - [Why I Live in IRC &lpar;2015&rpar;](https://aaronparecki.com/2015/08/29/8/why-i-live-in-irc)
-- [Amazon is chopping jobs at its One Medical and Pharmacy units](https://www.businessinsider.com/amazon-one-medical-pharmacy-layoffs-broader-cost-cutting-campaign-2024-2)
+- [The world is awful. The world is much better. The world can be much better](https://ourworldindata.org/much-better-awful-can-be-better)
 <!-- BLOG-POST-LIST:END -->
 
 ---
