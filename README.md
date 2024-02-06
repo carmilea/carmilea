@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Six Spongy Sea Creatures Suggest Warming Might Be Worse Than Thought](https://www.nytimes.com/2024/02/05/climate/global-warming-sponges.html)
 - [Destruction of nuclear bombs using ultra-high energy neutrino beam &lpar;2003&rpar; [pdf]](https://arxiv.org/pdf/hep-ph/0305062.pdf)
-- [CERN aims to build €20B collider](https://www.theguardian.com/science/2024/feb/05/cern-atom-smasher-unlock-secrets-universe-large-hadron-collider)
 - [OKRs Are Bullshit](https://blog.appliedcomputing.io/p/okrs-are-bullshit)
 - [Vision 1993](https://www.tbray.org/ongoing/When/202x/2024/02/02/Vision-1993)
 - [LineageOS is currently installed on 1.5M Android devices](https://9to5google.com/2023/11/20/lineageos-number-of-devices/)
