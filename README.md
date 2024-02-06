@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A method to unilaterally disable all nuclear bombs on Earth [pdf]](https://arxiv.org/pdf/hep-ph/0305062.pdf)
 - [CERN aims to build €20B collider to unlock secrets of universe](https://www.theguardian.com/science/2024/feb/05/cern-atom-smasher-unlock-secrets-universe-large-hadron-collider)
-- [Browsers Are Weird](https://tylersticka.com/journal/browsers-are-weird-right-now/)
+- [OKRs Are Bullshit](https://blog.appliedcomputing.io/p/okrs-are-bullshit)
 - [Vision 1993](https://www.tbray.org/ongoing/When/202x/2024/02/02/Vision-1993)
 - [LineageOS is currently installed on 1.5M Android devices](https://9to5google.com/2023/11/20/lineageos-number-of-devices/)
-- [The tragedy of mathematics in Russia &lpar;2013&rpar;](http://old.math.nsc.ru/LBRT/g2/english/ssk/case_e.html#contents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
