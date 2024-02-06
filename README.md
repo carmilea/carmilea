@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Prisoners in the US are part of a hidden workforce linked to popular food brands](https://english.elpais.com/usa/2024-01-29/prisoners-in-the-us-are-part-of-a-hidden-workforce-linked-to-hundreds-of-popular-food-brands.html)
-- [NetBox.dev: the source of truth for everything on your network](https://netbox.dev/)
-- [PostgreSQL Is Enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
-- [Command Line Interface Guidelines](https://clig.dev/)
-- [AI can now master your music](https://arstechnica.com/ai/2024/02/mastering-music-is-hard-can-one-click-ai-make-it-easy/)
+- [Review: Framework&#39;s Laptop 16 is unique, laudable and flawed](https://arstechnica.com/gadgets/2024/01/review-frameworks-laptop-16-is-unique-laudable-fascinating-and-flawed/)
+- [Bluesky has publicly launched &lpar;no invite required&rpar;](https://bsky.social/about/blog/02-06-2024-join-bluesky)
+- [Hal Finney was the designer of Bitcoin](https://yro.slashdot.org/comments.pl?sid=23217056&cid=64218342)
+- [Mozilla Monitor Plus: automatically remove your personal info from data brokers](https://blog.mozilla.org/en/mozilla/introducing-mozilla-monitor-plus-a-new-tool-to-automatically-remove-your-personal-information-from-data-broker-sites/)
+- [The Dean of Engineering at UofNevada wrote a paper so bad, you can&#39;t believe it](https://statmodeling.stat.columbia.edu/2024/02/06/its-bezzle-time-the-dean-of-engineering-at-the-university-of-nevada-gets-paid-372127-a-year-and-wrote-a-paper-thats-so-bad-you-cant-believe-it-i-mean-really-you-have-to-take-a-look-at-t/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
