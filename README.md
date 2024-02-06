@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The world has warmed 1.5 °C, according to 300-year-old sponges](https://www.nature.com/articles/d41586-024-00281-8)
-- [Seattle Ordinance Backfires on Delivery Workers](https://www.king5.com/article/news/local/seattle-ordinance-intended-app-delivery-workers-hurting-them/281-9516c79c-3161-41f3-a662-798b9db16d3f)
-- [Meta cuts off third-party access to Facebook Groups](https://techcrunch.com/2024/02/05/meta-cuts-off-third-party-access-to-facebook-groups-leaving-developers-and-customers-in-disarray/)
-- [Want to build a sequencer? 454.bio opens up their plans](http://omicsomics.blogspot.com/2024/02/want-to-build-sequencer-454bio-opens-up.html)
-- [Relativistic Spaceship](https://dmytry.github.io/space/)
+- [I worked 80 hour weeks to deliver a platform for a hedge fund,then they fired me](https://www.efinancialcareers.com/news/i-worked-80-hour-weeks-to-deliver-a-platform-for-a-hedge-fund-then-they-fired-me)
+- [Towards Sustainable Workplace Mental Health: Early Intervention and Support](https://arxiv.org/abs/2402.01592)
+- [Organ playing 639-year-long piece changes chord](https://www.bbc.com/news/world-europe-68209691)
+- [The little SSH that sometimes couldn&#39;t &lpar;2012&rpar;](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
+- [My business card runs Linux and Ultrix &lpar;2022&rpar;](https://dmitry.gr/?r=05.Projects&proj=33.+LinuxCard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
