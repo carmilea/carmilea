@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How We Made That App Episode 5: Expanding Education Through Tech with Numerade Co-Founder Alex Lee](https://www.youtube.com/watch?v=uV04sIqfDbQ)
 - [4G Capital Leaps Forward with SingleStore](https://www.youtube.com/watch?v=gFihC2Okrmc)
 - [How Adobe built its user-facing app, Workfront, with SingleStore](https://www.youtube.com/watch?v=B0GmZHO7CsU)
 - [Technology Partnerships + Product Vision Summary](https://www.youtube.com/watch?v=Pay6HeCzSnY)
 - [Demo- SingleStore Compute Service, Scheduled Jobs and Free Shared Tier](https://www.youtube.com/watch?v=zJeE8HMsr-Y)
-- [Product Vision for Cloud Services](https://www.youtube.com/watch?v=-95u-3UoM1U)
 <!-- YOUTUBE:END -->
 
 
