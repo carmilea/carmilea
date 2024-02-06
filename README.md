@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Six Spongy Sea Creatures Suggest Warming Might Be Worse Than Thought](https://www.nytimes.com/2024/02/05/climate/global-warming-sponges.html)
-- [A Teen&#39;s Fatal Plunge into the London Underworld](https://www.newyorker.com/magazine/2024/02/12/a-teens-fatal-plunge-into-the-london-underworld)
-- [Destruction of nuclear bombs using ultra-high energy neutrino beam &lpar;2003&rpar; [pdf]](https://arxiv.org/pdf/hep-ph/0305062.pdf)
-- [OKRs Are Bullshit](https://blog.appliedcomputing.io/p/okrs-are-bullshit)
-- [Vision 1993](https://www.tbray.org/ongoing/When/202x/2024/02/02/Vision-1993)
+- [AI can now master your music](https://arstechnica.com/ai/2024/02/mastering-music-is-hard-can-one-click-ai-make-it-easy/)
+- [Lago: Open-Source Alternative to Stripe Is Hiring a Solution Engineer](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
+- [Some Rare, Real Talk from a Utility About Competition with Rooftop Solar](https://insideclimatenews.org/news/21092023/inside-clean-energy-utilities-rooftop-solar-competition-profits/)
+- [We might want to regularly keep track of how important each server is](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance)
+- [Will Satellite Megaconstellations Weaken Earth&#39;s Magnetic Field?](https://spaceweatherarchive.com/2024/02/01/will-satellite-megaconstellations-weaken-earths-magnetic-field/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
