@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PlayHT &lpar;YC W23&rpar; Is Hiring a Founding LLM Engineer and Researcher](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
-- [Runs on your OpenWrt box: AdGuard Home is network-wide blocking ads and tracking](https://github.com/AdguardTeam/AdGuardHome)
-- [The Perverse Policies That Fuel Wildfires](https://www.newyorker.com/magazine/2024/02/05/the-perverse-policies-that-fuel-wildfires)
-- [TikTok Is Destroying Itself from the Inside Out](https://gizmodo.com/tiktok-is-destroying-itself-from-the-inside-out-1851227491)
-- [Instruction-Based Image Editing via LLM](https://github.com/apple/ml-mgie)
+- [&quot;Fake Chinese Income&quot; Mortgages Fuel Toronto Real Estate Bubble: HSBC Bank Leaks](https://www.thebureau.news/p/fake-chinese-income-mortgages-fuel)
+- [Spotify CEO Daniel Ek tells investors Apple&#39;s DMA rules are a &#39;farce&#39;](https://techcrunch.com/2024/02/06/spotify-ceo-daniel-ek-tells-investors-apples-dma-rules-are-a-farce-but-says-there-are-future-upsides-too/)
+- [China spied on Dutch Cyber Intelligence through FortiGate backdoors](https://www.defensie.nl/actueel/nieuws/2024/02/06/mivd-onthult-werkwijze-chinese-spionage-in-nederland)
+- [BuildKit in depth: Docker&#39;s build engine explained](https://depot.dev/blog/buildkit-in-depth)
+- [Cannabis use linked to anxiety diagnoses, worsened anxiety disorders](https://globalnews.ca/news/10275463/cannabis-anxiety-ontario-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
