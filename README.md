@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New viruslike entities found in human gut microbes](https://www.science.org/content/article/it-s-insane-new-viruslike-entities-found-human-gut-microbes)
+- [Panda CSS: build time and type-safe CSS-in-JS](https://panda-css.com/)
+- [Companies embracing SMS for account logins should be blamed for SIM-swap attacks](https://keydiscussions.com/2024/02/05/sim-swap-attacks-can-be-blamed-on-companies-embracing-sms-based-password-resets/)
 - [I worked 80 hour weeks to deliver a platform for a hedge fund,then they fired me](https://www.efinancialcareers.com/news/i-worked-80-hour-weeks-to-deliver-a-platform-for-a-hedge-fund-then-they-fired-me)
-- [Towards Sustainable Workplace Mental Health: Early Intervention and Support](https://arxiv.org/abs/2402.01592)
 - [Organ playing 639-year-long piece changes chord](https://www.bbc.com/news/world-europe-68209691)
-- [The little SSH that sometimes couldn&#39;t &lpar;2012&rpar;](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
-- [My business card runs Linux and Ultrix &lpar;2022&rpar;](https://dmitry.gr/?r=05.Projects&proj=33.+LinuxCard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
