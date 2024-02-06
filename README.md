@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The world is awful. The world is much better. The world can be much better](https://ourworldindata.org/much-better-awful-can-be-better)
-- [Three million malware-infected smart toothbrushes used in Swiss DDoS attacks](https://www.tomshardware.com/networking/three-million-malware-infected-smart-toothbrushes-used-in-swiss-ddos-attacks-botnet-causes-millions-of-euros-in-damages)
-- [&quot;Fake Chinese Income&quot; Mortgages Fuel Toronto Real Estate Bubble: HSBC Bank Leaks](https://www.thebureau.news/p/fake-chinese-income-mortgages-fuel)
-- [Spotify CEO Daniel Ek tells investors Apple&#39;s DMA rules are a &#39;farce&#39;](https://techcrunch.com/2024/02/06/spotify-ceo-daniel-ek-tells-investors-apples-dma-rules-are-a-farce-but-says-there-are-future-upsides-too/)
-- [China spied on Dutch Cyber Intelligence through FortiGate backdoors](https://www.defensie.nl/actueel/nieuws/2024/02/06/mivd-onthult-werkwijze-chinese-spionage-in-nederland)
+- [Nassim Taleb: U.S. is in a &#39;death spiral&#39; over government debt](https://finance.yahoo.com/news/black-swan-author-nassim-taleb-112918333.html)
+- [Mozilla&#39;s new service removes your personal info from data brokers](https://techcrunch.com/2024/02/06/mozilla-monitors-new-service-removes-your-personal-info-from-data-broker-sites-automatically/)
+- [New IBM LinuxONE 4 Express – Rack-mounted pre-configured Linux mainframe](https://newsroom.ibm.com/2024-02-06-New-IBM-LinuxONE-4-Express-to-Offer-Cost-Savings-and-Client-Value-through-a-Cyber-Resilient-Hybrid-Cloud-and-AI-Platform)
+- [Why I Live in IRC &lpar;2015&rpar;](https://aaronparecki.com/2015/08/29/8/why-i-live-in-irc)
+- [Amazon is chopping jobs at its One Medical and Pharmacy units](https://www.businessinsider.com/amazon-one-medical-pharmacy-layoffs-broader-cost-cutting-campaign-2024-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
