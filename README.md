@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia surges about $500B in 6 wks, nearly much as Tesla is worth](https://markets.businessinsider.com/news/stocks/nvidia-tesla-stock-price-market-cap-huang-musk-ai-microchips-2024-2)
+- [Prisoners in the US are part of a hidden workforce linked to popular food brands](https://english.elpais.com/usa/2024-01-29/prisoners-in-the-us-are-part-of-a-hidden-workforce-linked-to-hundreds-of-popular-food-brands.html)
+- [NetBox.dev: the source of truth for everything on your network](https://netbox.dev/)
+- [PostgreSQL Is Enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
+- [Command Line Interface Guidelines](https://clig.dev/)
 - [AI can now master your music](https://arstechnica.com/ai/2024/02/mastering-music-is-hard-can-one-click-ai-make-it-easy/)
-- [Lago: Open-Source Alternative to Stripe Is Hiring a Solution Engineer](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
-- [Ask HN: Looking for lightweight personal blogging platform](https://news.ycombinator.com/item?id=39272953)
-- [We might want to regularly keep track of how important each server is](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
