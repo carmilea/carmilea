@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Maine becomes fourth State to abolish civil asset forfeiture &lpar;2021&rpar;](https://news.ycombinator.com/item?id=39288999)
+- [Latest ChatGPT 4 System prompt &lpar;1,700 tokens&rpar;](https://pastebin.com/vnxJ7kQk)
+- [SQLite Isn&#39;t Enough](https://ente.io/blog/tech/sqlite-objectbox-isar/)
 - [States, including CA and NY, sign heat pump memorandum to reduce air pollution](https://www.theverge.com/2024/2/7/24063751/heat-pump-mou-nine-states-california-new-york)
 - [The ideal PR is 50 lines long](https://graphite.dev/blog/the-ideal-pr-is-50-lines-long)
 - [How to hire low experience, high potential people](https://worktopia.substack.com/p/how-to-hire-low-experience-high-potential)
-- [Paperwall: Chinese Sites Mimic Local News, Promote Pro-Beijing Agenda Globally](https://citizenlab.ca/2024/02/paperwall-chinese-websites-posing-as-local-news-outlets-with-pro-beijing-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
