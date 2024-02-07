@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How would you build an operating system? &lpar;SerenityOS with Andreas Kling&rpar;](https://corecursive.com/serenity-os-with-andreas-kling/)
+- [RustPython](https://rustpython.github.io/)
+- [Mozilla&#39;s new service tries to wipe your data off the web](https://www.theverge.com/2024/2/6/24062765/mozilla-monitor-plus-firefox-paid-subscription-privacy-data-broker-removal-requests)
+- [Rocky Linux, Reflections on Three Years of Growth](https://rockylinux.org/news/happy-birthday-rocky/)
 - [Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
-- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build ChatGPT for data &lpar;Europe&rpar;](https://deepnote.com/join-us)
-- [jQuery v4.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
-- [Don&#39;t Steal; Government Hates Competition: The Problem with Asset Forfeiture](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959039)
-- [Go 1.22](https://go.dev/doc/go1.22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
