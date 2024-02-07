@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A conspiracy to kill IE6 &lpar;2019&rpar;](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+- [Adaptive Cards: Platform-agnostic snippets of UI, authored in JSON](https://adaptivecards.io/)
+- [Microsoft&#39;s Fast](https://www.fast.design/)
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- [Ask HN: Recommendation for Intermediate CSS Course?](https://news.ycombinator.com/item?id=39293101)
-- [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
-- [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos)
-- [Lawsuit accuses Anna&#39;s Archive of hacking WorldCat](https://torrentfreak.com/lawsuit-accuses-annas-archive-of-hacking-worldcat-stealing-2-2-tb-data-240207/)
+- [Adult Komodo teeth are similar to those of theropod dinosaurs: new research](https://phys.org/news/2024-02-adult-komodo-teeth-similar-theropod.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
