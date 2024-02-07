@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fathom AI Meeting Assistant &lpar;YC W21&rpar; Is Hiring a Senior Data Analyst &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/xOM0Nfl-senior-data-analyst-remote-utc-8-to-13)
 - [jQuery v4.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
 - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
 - [Making steel without emitting CO2](https://www.science.org/content/article/electrifying-new-ironmaking-method-could-slash-carbon-emissions)
 - [The leadership myth in replicated databases &lpar;2023&rpar;](https://maheshba.bitbucket.io/blog/2023/05/06/Leadership.html)
-- [Setting up a secondary Pi-Hole on my home network](https://www.dzombak.com/blog/2024/02/Setting-up-a-secondary-Pi-Hole-on-my-home-network.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
