@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
-- [Should Error Messages Apologize?](https://ux.stackexchange.com/questions/31359/should-error-messages-apologize)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build ChatGPT for data &lpar;Europe&rpar;](https://deepnote.com/join-us)
-- [What if you threw a baseball at nearly light speed? [video]](https://www.youtube.com/watch?v=3EI08o-IGYk)
 - [jQuery v4.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
+- [Don&#39;t Steal; Government Hates Competition: The Problem with Asset Forfeiture](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959039)
+- [Go 1.22](https://go.dev/doc/go1.22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
