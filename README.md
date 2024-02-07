@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple to EU: &quot;Go fuck yourself&quot;](https://pluralistic.net/2024/02/06/spoil-the-bunch/#dma)
-- [SQL for data scientists in 100 queries](https://gvwilson.github.io/sql-tutorial/)
-- [Alaska Airlines flight 1282 NTSB preliminary report [pdf]](https://www.ntsb.gov/investigations/Documents/DCA24MA063%20Preliminary%20report.pdf)
-- [Spine AI &lpar;YC S23&rpar; Is Hiring a Lead ML Scientist](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
-- [Show HN: Geppetto, an open source AI companion for your Slack teams](https://github.com/Deeptechia/geppetto)
+- [Ask HN: Best Preventative for Aging Parents?](https://news.ycombinator.com/item?id=39283113)
+- [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
+- [Making steel without emitting CO2](https://www.science.org/content/article/electrifying-new-ironmaking-method-could-slash-carbon-emissions)
+- [The three million toothbrush botnet story isn&#39;t true](https://cyberplace.social/@GossiTheDog/111886558855943676)
+- [Setting up a secondary Pi-Hole on my home network](https://www.dzombak.com/blog/2024/02/Setting-up-a-secondary-Pi-Hole-on-my-home-network.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
