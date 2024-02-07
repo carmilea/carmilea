@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Latest ChatGPT 4 System prompt &lpar;1,700 tokens&rpar;](https://pastebin.com/vnxJ7kQk)
-- [SQLite Isn&#39;t Enough](https://ente.io/blog/tech/sqlite-objectbox-isar/)
-- [States, including CA and NY, sign heat pump memorandum to reduce air pollution](https://www.theverge.com/2024/2/7/24063751/heat-pump-mou-nine-states-california-new-york)
-- [The ideal PR is 50 lines long](https://graphite.dev/blog/the-ideal-pr-is-50-lines-long)
-- [How to hire low experience, high potential people](https://worktopia.substack.com/p/how-to-hire-low-experience-high-potential)
+- [SigNoz &lpar;YC W21&rpar; Is Hiring Technical Writer – Open-Source Observability&lpar;Remote&rpar;](https://signoz.io/careers/technical-content-writer-in/)
+- [Woman Got Cremation Ads in the Mail After Getting Chemotherapy](https://www.404media.co/woman-got-cremation-ads-in-the-mail-after-getting-chemotherapy/)
+- [Vision Pro Teardown Part 2](https://www.ifixit.com/News/90409/vision-pro-teardown-part-2-whats-the-display-resolution)
+- [The web is mostly links and forms](https://gomakethings.com/the-web-is-mostly-links-and-forms/)
+- [Raspberry Pi Pico cracks BitLocker in under a minute](https://www.theregister.com/2024/02/07/breaking_bitlocker_pi_pico/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
