@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Localllm lets you develop gen AI apps on local CPUs](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
+- [Disney to take $1.5B stake in Epic Games](https://www.cnbc.com/2024/02/07/disney-to-take-1point5-billion-stake-in-epic-games-maker-of-fortnite.html)
+- [Nvidia&#39;s &quot;Grace&quot; Arm CPU holds its own against x86 for HPC](https://www.nextplatform.com/2024/02/06/nvidias-grace-arm-cpu-holds-its-own-against-x86-for-hpc/)
 - [A conspiracy to kill IE6 &lpar;2019&rpar;](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 - [Adaptive Cards: Platform-agnostic snippets of UI, authored in JSON](https://adaptivecards.io/)
-- [Microsoft&#39;s Fast](https://www.fast.design/)
-- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- [Adult Komodo teeth are similar to those of theropod dinosaurs: new research](https://phys.org/news/2024-02-adult-komodo-teeth-similar-theropod.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
