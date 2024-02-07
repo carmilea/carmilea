@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paperwall: Chinese Sites Mimic Local News, Promote Pro-Beijing Agenda Globally](https://citizenlab.ca/2024/02/paperwall-chinese-websites-posing-as-local-news-outlets-with-pro-beijing-content/)
+- [Show HN: Improve cognitive focus in 1 minute](https://oneminutefocus.com)
+- [Toyota to invest $1.3B in Kentucky factory to build battery packs and new EV](https://apnews.com/article/toyota-investment-georgetown-kentucky-factory-9d8142fb9d92ead0f895dd6f3d9fe215)
 - [Neal Stephenson&#39;s Most Stunning Prediction](https://www.theatlantic.com/technology/archive/2024/02/chatbots-ai-neal-stephenson-diamond-age/677364/)
-- [&quot;Wherever you get your podcasts&quot; is a statement](https://www.anildash.com//2024/02/06/wherever-you-get-podcasts/)
-- [Show HN: YTPics – Download pictures from YouTube videos](https://www.ytpics.com/)
-- [Orange Pi Neo Coming as a Ryzen 7 and Linux Powered Handheld Device](https://www.phoronix.com/news/Orange-Pi-Neo-Console)
-- [How would you build an operating system? &lpar;SerenityOS with Andreas Kling&rpar;](https://corecursive.com/serenity-os-with-andreas-kling/)
+- [“Wherever you get your podcasts” is a radical statement](https://www.anildash.com//2024/02/06/wherever-you-get-podcasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
