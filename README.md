@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Best Preventative for Aging Parents?](https://news.ycombinator.com/item?id=39283113)
 - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
 - [Making steel without emitting CO2](https://www.science.org/content/article/electrifying-new-ironmaking-method-could-slash-carbon-emissions)
+- [The leadership myth in replicated databases &lpar;2023&rpar;](https://maheshba.bitbucket.io/blog/2023/05/06/Leadership.html)
 - [The three million toothbrush botnet story isn&#39;t true](https://cyberplace.social/@GossiTheDog/111886558855943676)
 - [Setting up a secondary Pi-Hole on my home network](https://www.dzombak.com/blog/2024/02/Setting-up-a-secondary-Pi-Hole-on-my-home-network.html)
 <!-- BLOG-POST-LIST:END -->
