@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Orange Pi Neo Coming as a Ryzen 7 and Linux Powered Handheld Device](https://www.phoronix.com/news/Orange-Pi-Neo-Console)
 - [How would you build an operating system? &lpar;SerenityOS with Andreas Kling&rpar;](https://corecursive.com/serenity-os-with-andreas-kling/)
 - [RustPython](https://rustpython.github.io/)
 - [Mozilla&#39;s new service tries to wipe your data off the web](https://www.theverge.com/2024/2/6/24062765/mozilla-monitor-plus-firefox-paid-subscription-privacy-data-broker-removal-requests)
-- [Rocky Linux, Reflections on Three Years of Growth](https://rockylinux.org/news/happy-birthday-rocky/)
-- [Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
+- [Danish schools will no longer be allowed to use Chromebooks and Google platforms](https://theprivacydad.com/final-decision-on-chromebook-case-in-denmark/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
