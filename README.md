@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SigNoz &lpar;YC W21&rpar; Is Hiring Technical Writer – Open-Source Observability&lpar;Remote&rpar;](https://signoz.io/careers/technical-content-writer-in/)
-- [Woman Got Cremation Ads in the Mail After Getting Chemotherapy](https://www.404media.co/woman-got-cremation-ads-in-the-mail-after-getting-chemotherapy/)
-- [Vision Pro Teardown Part 2](https://www.ifixit.com/News/90409/vision-pro-teardown-part-2-whats-the-display-resolution)
-- [The web is mostly links and forms](https://gomakethings.com/the-web-is-mostly-links-and-forms/)
-- [Raspberry Pi Pico cracks BitLocker in under a minute](https://www.theregister.com/2024/02/07/breaking_bitlocker_pi_pico/)
+- [Arlington&#39;s first guaranteed income pilot boosted QoL for poorest residents](https://www.arlnow.com/2024/02/06/report-arlingtons-first-guaranteed-income-pilot-boosted-quality-of-life-for-poorest-residents/)
+- [Ford EV Drivers Will Get Free Tesla Supercharger Adapters](https://www.thedrive.com/news/ford-ev-drivers-will-get-free-tesla-supercharger-adapters)
+- [AMD Ryzen 5 8500G: A Surprisingly Sub-$200 CPU](https://www.phoronix.com/review/amd-ryzen-5-8500g)
+- [Kraken: Privacy Is Not a Crime](https://twitter.com/krakenfx/status/1754891973062697235)
+- [I got scammed on Facebook Marketplace &lpar;2023&rpar;](https://ben.page/scammed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
