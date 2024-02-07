@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unison File Synchronizer](https://github.com/bcpierce00/unison)
-- [AMD Ryzen 5 8500G: A surprisingly fascinating sub-$200 CPU](https://www.phoronix.com/review/amd-ryzen-5-8500g)
-- [How I got scammed on Facebook Marketplace &lpar;2023&rpar;](https://ben.page/scammed)
-- [Apple releases MGIE, an AI-based image editing model](https://appleinsider.com/articles/24/02/07/apple-throws-its-hat-into-the-ai-generated-image-ring)
-- [SigNoz &lpar;YC W21&rpar; Is Hiring Technical Writer – Open-Source Observability&lpar;Remote&rpar;](https://signoz.io/careers/technical-content-writer-in/)
+- [Struggling 23andMe Is Exploring Splitting the DNA Company in Two](https://www.bloomberg.com/news/articles/2024-02-07/23andme-ceo-explores-splitting-dna-company-in-two)
+- [JavaScript in SVGs](https://www.devdailydigest.tech/javascript-in-svgs/)
+- [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
+- [Nix-shell shebang: run any script with arbitrary packages, self-contained](https://nixos.wiki/wiki/Nix-shell_shebang)
+- [A record number of Americans can&#39;t afford rent](https://apnews.com/article/affordable-housing-rent-eviction-price-harvard-congress-f5411012e10fa78d0257c137e60c1be3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
