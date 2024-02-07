@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Arlington&#39;s first guaranteed income pilot boosted QoL for poorest residents](https://www.arlnow.com/2024/02/06/report-arlingtons-first-guaranteed-income-pilot-boosted-quality-of-life-for-poorest-residents/)
-- [Ford EV Drivers Will Get Free Tesla Supercharger Adapters](https://www.thedrive.com/news/ford-ev-drivers-will-get-free-tesla-supercharger-adapters)
-- [AMD Ryzen 5 8500G: A Surprisingly Sub-$200 CPU](https://www.phoronix.com/review/amd-ryzen-5-8500g)
-- [Kraken: Privacy Is Not a Crime](https://twitter.com/krakenfx/status/1754891973062697235)
-- [I got scammed on Facebook Marketplace &lpar;2023&rpar;](https://ben.page/scammed)
+- [Unison File Synchronizer](https://github.com/bcpierce00/unison)
+- [AMD Ryzen 5 8500G: A surprisingly fascinating sub-$200 CPU](https://www.phoronix.com/review/amd-ryzen-5-8500g)
+- [How I got scammed on Facebook Marketplace &lpar;2023&rpar;](https://ben.page/scammed)
+- [Apple releases MGIE, an AI-based image editing model](https://appleinsider.com/articles/24/02/07/apple-throws-its-hat-into-the-ai-generated-image-ring)
+- [SigNoz &lpar;YC W21&rpar; Is Hiring Technical Writer – Open-Source Observability&lpar;Remote&rpar;](https://signoz.io/careers/technical-content-writer-in/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
