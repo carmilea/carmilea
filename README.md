@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Struggling 23andMe Is Exploring Splitting the DNA Company in Two](https://www.bloomberg.com/news/articles/2024-02-07/23andme-ceo-explores-splitting-dna-company-in-two)
-- [JavaScript in SVGs](https://www.devdailydigest.tech/javascript-in-svgs/)
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [Ask HN: Recommendation for Intermediate CSS Course?](https://news.ycombinator.com/item?id=39293101)
 - [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
-- [Nix-shell shebang: run any script with arbitrary packages, self-contained](https://nixos.wiki/wiki/Nix-shell_shebang)
-- [A record number of Americans can&#39;t afford rent](https://apnews.com/article/affordable-housing-rent-eviction-price-harvard-congress-f5411012e10fa78d0257c137e60c1be3)
+- [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos)
+- [Lawsuit accuses Anna&#39;s Archive of hacking WorldCat](https://torrentfreak.com/lawsuit-accuses-annas-archive-of-hacking-worldcat-stealing-2-2-tb-data-240207/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
