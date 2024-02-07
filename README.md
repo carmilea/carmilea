@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Maine becomes fourth State to abolish civil asset forfeiture &lpar;2021&rpar;](https://news.ycombinator.com/item?id=39288999)
+- [States, including CA and NY, sign heat pump memorandum to reduce air pollution](https://www.theverge.com/2024/2/7/24063751/heat-pump-mou-nine-states-california-new-york)
+- [The ideal PR is 50 lines long](https://graphite.dev/blog/the-ideal-pr-is-50-lines-long)
+- [How to hire low experience, high potential people](https://worktopia.substack.com/p/how-to-hire-low-experience-high-potential)
 - [Paperwall: Chinese Sites Mimic Local News, Promote Pro-Beijing Agenda Globally](https://citizenlab.ca/2024/02/paperwall-chinese-websites-posing-as-local-news-outlets-with-pro-beijing-content/)
-- [Show HN: Improve cognitive focus in 1 minute](https://oneminutefocus.com)
-- [Toyota to invest $1.3B in Kentucky factory to build battery packs and new EV](https://apnews.com/article/toyota-investment-georgetown-kentucky-factory-9d8142fb9d92ead0f895dd6f3d9fe215)
-- [Neal Stephenson&#39;s Most Stunning Prediction](https://www.theatlantic.com/technology/archive/2024/02/chatbots-ai-neal-stephenson-diamond-age/677364/)
-- [“Wherever you get your podcasts” is a radical statement](https://www.anildash.com//2024/02/06/wherever-you-get-podcasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
