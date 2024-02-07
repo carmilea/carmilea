@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
+- [Should Error Messages Apologize?](https://ux.stackexchange.com/questions/31359/should-error-messages-apologize)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build ChatGPT for data &lpar;Europe&rpar;](https://deepnote.com/join-us)
-- [EU coal and gas collapse as wind and solar ascend](https://electrek.co/2024/02/06/eu-coal-and-gas-collapse-wind-and-solar-ascend/)
-- [BitLocker encryption broken in 43 seconds with sub-$10 Raspberry Pi Pico](https://www.tomshardware.com/pc-components/cpus/youtuber-breaks-bitlocker-encryption-in-less-than-43-seconds-with-sub-dollar10-raspberry-pi-pico)
-- [hx-pod, the HTMX Podcast](https://hx-pod.transistor.fm/)
-- [Oslo acquires ChatGPT for 110k students and teachers](https://www.digi.no/artikler/oslo-kjoper-chat-gpt-til-110-000-elever-og-laerere/543339)
+- [What if you threw a baseball at nearly light speed? [video]](https://www.youtube.com/watch?v=3EI08o-IGYk)
+- [jQuery v4.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
