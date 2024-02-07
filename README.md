@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neal Stephenson&#39;s Most Stunning Prediction](https://www.theatlantic.com/technology/archive/2024/02/chatbots-ai-neal-stephenson-diamond-age/677364/)
+- [&quot;Wherever you get your podcasts&quot; is a statement](https://www.anildash.com//2024/02/06/wherever-you-get-podcasts/)
+- [Show HN: YTPics – Download pictures from YouTube videos](https://www.ytpics.com/)
 - [Orange Pi Neo Coming as a Ryzen 7 and Linux Powered Handheld Device](https://www.phoronix.com/news/Orange-Pi-Neo-Console)
 - [How would you build an operating system? &lpar;SerenityOS with Andreas Kling&rpar;](https://corecursive.com/serenity-os-with-andreas-kling/)
-- [RustPython](https://rustpython.github.io/)
-- [Mozilla&#39;s new service tries to wipe your data off the web](https://www.theverge.com/2024/2/6/24062765/mozilla-monitor-plus-firefox-paid-subscription-privacy-data-broker-removal-requests)
-- [Danish schools will no longer be allowed to use Chromebooks and Google platforms](https://theprivacydad.com/final-decision-on-chromebook-case-in-denmark/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
