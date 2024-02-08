@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iceland: Eruption on the Reykjanes Peninsula](https://www.ruv.is/english/2024-02-08-eruption-on-the-reykjanes-peninsula-404272)
+- [Ask HN: Does anyone care about OpenPOWER?](https://news.ycombinator.com/item?id=39305464)
+- [Sudo for Windows](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
+- [Eruption on the Reykjanes Peninsula](https://www.ruv.is/english/2024-02-08-eruption-on-the-reykjanes-peninsula-404272)
+- [FCC rules AI-generated voices in robocalls illegal](https://www.fcc.gov/document/fcc-makes-ai-generated-voices-robocalls-illegal)
 - [J.G. Ballard: My Favorite Books](https://thereader.mitpress.mit.edu/j-g-ballard-my-favorite-books/)
-- [GiveCampus &lpar;YC S15&rpar; Is Hiring US Engineers who care about education](https://givecampus.breezy.hr/p/66fd8f39ab4c-senior-software-engineer)
-- [Daily Price Tracking for Trader Joes](https://traderjoesprices.com)
-- [Pakistan cuts off phone and internet services on election day](https://techcrunch.com/2024/02/07/pakistan-suspends-mobile-phone-services-on-election-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
