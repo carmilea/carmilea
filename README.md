@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Vision Pro review: Eyes on the future](https://sixcolors.com/post/2024/02/apple-vision-pro-review-eyes-on-the-future/)
-- [Reuse of aging fronds in tropical mountain forest tree ferns: Zombie leaves](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4248)
-- [Days Since Incident](https://neal.fun/days-since-incident/)
-- [I Accidentally Blender VSE](https://aras-p.info/blog/2024/02/06/I-accidentally-Blender-VSE/)
-- [Physics for Mathematicians – Introduction](https://nicf.net/articles/physics-for-mathematicians/)
+- [Reflex &lpar;YC W23&rpar; Founding Developer Advocate](https://www.ycombinator.com/companies/reflex/jobs/lLd7KYY-founding-developer-advocate)
+- [Ollama releases OpenAI API compatibility](https://ollama.ai/blog/openai-compatibility)
+- [After Its $20B Windfall Evaporated, a Startup Picks Up the Pieces](https://www.nytimes.com/2024/02/08/technology/figma-adobe-.html)
+- [Days Since Incident &lpar;2022&rpar;](https://neal.fun/days-since-incident/)
+- [Baruch Spinoza and the art of thinking in dangerous times](https://www.newyorker.com/magazine/2024/02/12/baruch-spinoza-and-the-art-of-thinking-in-dangerous-times)
 <!-- BLOG-POST-LIST:END -->
 
 ---
