@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Localllm lets you develop gen AI apps on local CPUs](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
-- [Disney to take $1.5B stake in Epic Games](https://www.cnbc.com/2024/02/07/disney-to-take-1point5-billion-stake-in-epic-games-maker-of-fortnite.html)
-- [Nvidia&#39;s &quot;Grace&quot; Arm CPU holds its own against x86 for HPC](https://www.nextplatform.com/2024/02/06/nvidias-grace-arm-cpu-holds-its-own-against-x86-for-hpc/)
-- [A conspiracy to kill IE6 &lpar;2019&rpar;](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
-- [Adaptive Cards: Platform-agnostic snippets of UI, authored in JSON](https://adaptivecards.io/)
+- [Jerry &lpar;YC S17&rpar; Is Hiring PMs, Engs, Data &lpar;Remote&rpar;](https://getjerry.com/careers)
+- [The Rural Ski Slope Caught Up in an International Scam](https://www.newyorker.com/magazine/2024/02/05/the-rural-ski-slope-caught-up-in-an-international-scam)
+- [Morale plummets at Google as workers complain bosses are &#39;inept&#39; and &#39;boring&#39;](https://www.sfgate.com/tech/article/google-workers-company-culture-pichai-18653877.php)
+- [Europe&#39;s deepest mine to become giant gravity battery](https://www.independent.co.uk/tech/gravity-battery-mine-renewable-energy-b2492087.html)
+- [Execute any JavaScript from any browser tab on any browser tabs](https://github.com/devidw/tabgod)
 <!-- BLOG-POST-LIST:END -->
 
 ---
