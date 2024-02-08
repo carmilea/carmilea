@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Radio station baffled after 200-foot radio tower disappears without a trace](https://nypost.com/2024/02/07/news/radio-station-baffled-after-200-foot-radio-tower-disappears/)
+- [Launch HN: AgentHub &lpar;YC W24&rpar; – A no-code automation platform](https://news.ycombinator.com/item?id=39302870)
+- [Mozilla names new CEO as it pivots to data privacy](https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/)
+- [Show HN: Lookup the school district associated with a street address](https://github.com/codebyamir/school-district-locator)
+- [Painlessly Analyze Your S3 Access Logs With SingleStore](https://www.singlestore.com/blog/painlessly-analyze-your-s3-access-logs-with-singlestore)
 - [Dutch Police intelligence services unlawfully spied on whole population groups](https://nltimes.nl/2024/02/08/police-intelligence-services-unlawfully-spied-whole-population-groups)
-- [The seedy underbelly of the life coaching industry](https://www.bbc.com/worklife/article/20240206-life-coaching-industry-scams)
-- [Show HN: SnapCode – a real Java IDE in the browser](https://reportmill.com/SnapCode/)
-- [AMD Athlon K7 Easter egg has a revolver and map of Texas etched onto the chip](https://www.pcgamer.com/an-old-amd-athlon-k7-easter-egg-has-a-revolver-and-map-of-texas-etched-onto-the-chip-they-dont-make-em-like-that-anymore-eh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
