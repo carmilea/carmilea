@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Men on Viagra may reduce their Alzheimer&#39;s risk – study](https://www.bbc.co.uk/news/health-68232649)
 - [Simple Precision Time Protocol at Meta](https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/)
 - [When &quot;letting it crash&quot; is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
 - [Concrete.css](https://concrete.style)
 - [SQLite-Web: Web-based SQLite database browser written in Python](https://github.com/coleifer/sqlite-web)
-- [Direct Language Model Alignment from Online AI Feedback](https://arxiv.org/abs/2402.04792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
