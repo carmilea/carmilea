@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Vision Pro – Why Monitor Replacement Is Ridiculous](https://kguttag.com/2023/08/09/apple-vision-pro-part-5b-more-on-monitor-replacement-is-ridiculous/)
+- [McDonald&#39;s pushed customers to the brink on price. They&#39;re starting to push back](https://www.cnn.com/2024/02/06/business/mcdonalds-prices/index.html)
+- [Asciinema 3.0 will be rewritten in Rust](https://github.com/asciinema/asciinema/pull/579)
+- [As Much as You Ever Wanted to Know About 155M Artillery Shell Production](https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know)
 - [Jerry &lpar;YC S17&rpar; Is Hiring PMs, Engs, Data &lpar;Remote&rpar;](https://getjerry.com/careers)
-- [The Rural Ski Slope Caught Up in an International Scam](https://www.newyorker.com/magazine/2024/02/05/the-rural-ski-slope-caught-up-in-an-international-scam)
-- [Morale plummets at Google as workers complain bosses are &#39;inept&#39; and &#39;boring&#39;](https://www.sfgate.com/tech/article/google-workers-company-culture-pichai-18653877.php)
-- [Europe&#39;s deepest mine to become giant gravity battery](https://www.independent.co.uk/tech/gravity-battery-mine-renewable-energy-b2492087.html)
-- [Execute any JavaScript from any browser tab on any browser tabs](https://github.com/devidw/tabgod)
 <!-- BLOG-POST-LIST:END -->
 
 ---
