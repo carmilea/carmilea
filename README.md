@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Does anyone care about OpenPOWER?](https://news.ycombinator.com/item?id=39305464)
-- [Sudo for Windows](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
-- [Eruption on the Reykjanes Peninsula](https://www.ruv.is/english/2024-02-08-eruption-on-the-reykjanes-peninsula-404272)
-- [FCC rules AI-generated voices in robocalls illegal](https://www.fcc.gov/document/fcc-makes-ai-generated-voices-robocalls-illegal)
-- [J.G. Ballard: My Favorite Books](https://thereader.mitpress.mit.edu/j-g-ballard-my-favorite-books/)
+- [Apple Vision Pro review: Eyes on the future](https://sixcolors.com/post/2024/02/apple-vision-pro-review-eyes-on-the-future/)
+- [Reuse of aging fronds in tropical mountain forest tree ferns: Zombie leaves](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4248)
+- [Days Since Incident](https://neal.fun/days-since-incident/)
+- [I Accidentally Blender VSE](https://aras-p.info/blog/2024/02/06/I-accidentally-Blender-VSE/)
+- [Physics for Mathematicians – Introduction](https://nicf.net/articles/physics-for-mathematicians/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
