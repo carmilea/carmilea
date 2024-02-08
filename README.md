@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lonely, but Not Always Alone](https://www.bps.org.uk/research-digest/lonely-not-always-alone)
-- [Doorway effect](https://en.wikipedia.org/wiki/Doorway_effect)
-- [Reflex &lpar;YC W23&rpar; Is Hiring a Founding Developer Advocate](https://www.ycombinator.com/companies/reflex/jobs/lLd7KYY-founding-developer-advocate)
-- [How to &lpar;seriously&rpar; read a scientific paper &lpar;2016&rpar;](https://www.science.org/content/article/how-seriously-read-scientific-paper)
-- [OpenAI compatibility](https://ollama.ai/blog/openai-compatibility)
+- [Lonely, but not always alone](https://www.bps.org.uk/research-digest/lonely-not-always-alone)
+- [Multics and AS400：DPS8M on IBM PASE for I &lpar;OS/400&rpar;](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
+- [Show HN: Open-source coding assistant with terminal access](https://docs.sweep.dev/assistant)
+- [Fake app masquerading as password manager LastPass just pulled from App Store](https://techcrunch.com/2024/02/08/a-fake-app-masquerading-as-password-manager-lastpass-just-got-pulled-from-the-app-store/)
+- [TransTroj: Transferable Backdoor Attacks to Pre-Trained Models](https://arxiv.org/abs/2401.15883)
 <!-- BLOG-POST-LIST:END -->
 
 ---
