@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When &quot;letting it crash&quot; is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
 - [Concrete.css](https://concrete.style)
+- [SQLite-Web: Web-based SQLite database browser written in Python](https://github.com/coleifer/sqlite-web)
 - [Google DeepMind Alignment with Online AI Feedback &lpar;OAIF&rpar;](https://arxiv.org/abs/2402.04792)
 - [John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
-- [Novel drug could protect brains from damage after repeat concussions](https://medicalxpress.com/news/2024-02-drug-brains-concussions.html)
-- [Mimas&#39; surprise: Tiny moon holds young ocean beneath icy shell](https://phys.org/news/2024-02-mimas-tiny-moon-young-ocean.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
