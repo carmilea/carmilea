@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: AgentHub &lpar;YC W24&rpar; – A no-code automation platform](https://news.ycombinator.com/item?id=39302870)
-- [Mozilla names new CEO as it pivots to data privacy](https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/)
-- [Show HN: Lookup the school district associated with a street address](https://github.com/codebyamir/school-district-locator)
-- [Painlessly Analyze Your S3 Access Logs With SingleStore](https://www.singlestore.com/blog/painlessly-analyze-your-s3-access-logs-with-singlestore)
-- [Dutch Police intelligence services unlawfully spied on whole population groups](https://nltimes.nl/2024/02/08/police-intelligence-services-unlawfully-spied-whole-population-groups)
+- [GiveCampus &lpar;YC S15&rpar; Is Hiring US Engineers who care about education](https://givecampus.breezy.hr/p/66fd8f39ab4c-senior-software-engineer)
+- [Daily Price Tracking for Trader Joes](https://traderjoesprices.com)
+- [A seafood firm wants to farm octopus. Activists say they&#39;re too smart for that](https://www.npr.org/2024/02/07/1229233837/octopus-farm-spain-controversy)
+- [Pakistan cuts off phone and internet services on election day](https://techcrunch.com/2024/02/07/pakistan-suspends-mobile-phone-services-on-election-day/)
+- [A distributed systems reading list](https://ferd.ca/a-distributed-systems-reading-list.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
