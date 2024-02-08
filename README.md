@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD Athlon K7 Easter egg has a revolver and map of Texas etched onto the chip](https://www.pcgamer.com/an-old-amd-athlon-k7-easter-egg-has-a-revolver-and-map-of-texas-etched-onto-the-chip-they-dont-make-em-like-that-anymore-eh/)
+- [Iran-backed hackers interrupt UAE TV streaming services with deepfake news](https://www.theguardian.com/technology/2024/feb/08/iran-backed-hackers-interrupt-uae-tv-streaming-services-with-deepfake-news)
+- [Web Design Inspiration](https://www.curated.design/)
 - [Nimbus &lpar;YC W21&rpar; Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/TgQFIkz-founding-engineer)
-- [On whether we&#39;re living in a simulation](https://scottaaronson.blog/?p=7774)
-- [Gemini Ultra Released](https://one.google.com/explore-plan/gemini-advanced)
-- [3M electric toothbrushes were not used in a DDoS attack](https://www.bleepingcomputer.com/news/security/no-3-million-electric-toothbrushes-were-not-used-in-a-ddos-attack/)
-- [VirtualBox KVM Public Release](https://cyberus-technology.de/articles/vbox-kvm-public-release)
+- [How iTunes Is Changing on PC](https://support.apple.com/guide/itunes/how-itunes-is-changing-itns5ecc4f3c/windows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
