@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflex &lpar;YC W23&rpar; Founding Developer Advocate](https://www.ycombinator.com/companies/reflex/jobs/lLd7KYY-founding-developer-advocate)
-- [Ollama releases OpenAI API compatibility](https://ollama.ai/blog/openai-compatibility)
-- [After Its $20B Windfall Evaporated, a Startup Picks Up the Pieces](https://www.nytimes.com/2024/02/08/technology/figma-adobe-.html)
-- [Days Since Incident &lpar;2022&rpar;](https://neal.fun/days-since-incident/)
-- [Baruch Spinoza and the art of thinking in dangerous times](https://www.newyorker.com/magazine/2024/02/12/baruch-spinoza-and-the-art-of-thinking-in-dangerous-times)
+- [Lonely, but Not Always Alone](https://www.bps.org.uk/research-digest/lonely-not-always-alone)
+- [Doorway effect](https://en.wikipedia.org/wiki/Doorway_effect)
+- [Reflex &lpar;YC W23&rpar; Is Hiring a Founding Developer Advocate](https://www.ycombinator.com/companies/reflex/jobs/lLd7KYY-founding-developer-advocate)
+- [How to &lpar;seriously&rpar; read a scientific paper &lpar;2016&rpar;](https://www.science.org/content/article/how-seriously-read-scientific-paper)
+- [OpenAI compatibility](https://ollama.ai/blog/openai-compatibility)
 <!-- BLOG-POST-LIST:END -->
 
 ---
