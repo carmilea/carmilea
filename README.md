@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [John Walker, founder of Autodesk, dead at 75](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
-- [Asciinema 3.0 will be rewritten in Rust](https://github.com/asciinema/asciinema/pull/579)
-- [As Much as You Ever Wanted to Know About 155M Artillery Shell Production](https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know)
-- [Jerry &lpar;YC S17&rpar; Is Hiring PMs, Engs, Data &lpar;Remote&rpar;](https://getjerry.com/careers)
-- [Loungy: An Application Launcher Written with GPUI, the Zed GPU UI Framework](https://github.com/MatthiasGrandl/loungy)
+- [Vision Pro Review: Apple&#39;s First Headset Lacks Polish and Purpose](https://www.nytimes.com/2024/02/07/technology/personaltech/apple-vision-pro-review.html)
+- [Google DeepMind Alignment with Online AI Feedback &lpar;OAIF&rpar;](https://arxiv.org/abs/2402.04792)
+- [John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
+- [Novel drug could protect brains from damage after repeat concussions](https://medicalxpress.com/news/2024-02-drug-brains-concussions.html)
+- [Mimas&#39; surprise: Tiny moon holds young ocean beneath icy shell](https://phys.org/news/2024-02-mimas-tiny-moon-young-ocean.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
