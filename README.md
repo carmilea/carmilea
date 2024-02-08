@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dutch Police intelligence services unlawfully spied on whole population groups](https://nltimes.nl/2024/02/08/police-intelligence-services-unlawfully-spied-whole-population-groups)
+- [The seedy underbelly of the life coaching industry](https://www.bbc.com/worklife/article/20240206-life-coaching-industry-scams)
+- [Gemini Ultra now available in Google Bard](https://blog.google/products/gemini/bard-gemini-advanced-app/)
 - [AMD Athlon K7 Easter egg has a revolver and map of Texas etched onto the chip](https://www.pcgamer.com/an-old-amd-athlon-k7-easter-egg-has-a-revolver-and-map-of-texas-etched-onto-the-chip-they-dont-make-em-like-that-anymore-eh/)
 - [Iran-backed hackers interrupt UAE TV streaming services with deepfake news](https://www.theguardian.com/technology/2024/feb/08/iran-backed-hackers-interrupt-uae-tv-streaming-services-with-deepfake-news)
-- [Web Design Inspiration](https://www.curated.design/)
-- [Nimbus &lpar;YC W21&rpar; Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/TgQFIkz-founding-engineer)
-- [How iTunes Is Changing on PC](https://support.apple.com/guide/itunes/how-itunes-is-changing-itns5ecc4f3c/windows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
