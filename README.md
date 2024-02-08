@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nimbus &lpar;YC W21&rpar; Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/TgQFIkz-founding-engineer)
+- [On whether we&#39;re living in a simulation](https://scottaaronson.blog/?p=7774)
+- [Gemini Ultra Released](https://one.google.com/explore-plan/gemini-advanced)
+- [3M electric toothbrushes were not used in a DDoS attack](https://www.bleepingcomputer.com/news/security/no-3-million-electric-toothbrushes-were-not-used-in-a-ddos-attack/)
 - [VirtualBox KVM Public Release](https://cyberus-technology.de/articles/vbox-kvm-public-release)
-- [Men on Viagra may reduce their Alzheimer&#39;s risk – study](https://www.bbc.co.uk/news/health-68232649)
-- [Simple Precision Time Protocol at Meta](https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/)
-- [When &quot;letting it crash&quot; is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
-- [Concrete.css](https://concrete.style)
 <!-- BLOG-POST-LIST:END -->
 
 ---
