@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iceland: Eruption on the Reykjanes Peninsula](https://www.ruv.is/english/2024-02-08-eruption-on-the-reykjanes-peninsula-404272)
+- [J.G. Ballard: My Favorite Books](https://thereader.mitpress.mit.edu/j-g-ballard-my-favorite-books/)
 - [GiveCampus &lpar;YC S15&rpar; Is Hiring US Engineers who care about education](https://givecampus.breezy.hr/p/66fd8f39ab4c-senior-software-engineer)
 - [Daily Price Tracking for Trader Joes](https://traderjoesprices.com)
-- [A seafood firm wants to farm octopus. Activists say they&#39;re too smart for that](https://www.npr.org/2024/02/07/1229233837/octopus-farm-spain-controversy)
 - [Pakistan cuts off phone and internet services on election day](https://techcrunch.com/2024/02/07/pakistan-suspends-mobile-phone-services-on-election-day/)
-- [A distributed systems reading list](https://ferd.ca/a-distributed-systems-reading-list.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
