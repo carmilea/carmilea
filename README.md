@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Vision Pro – Why Monitor Replacement Is Ridiculous](https://kguttag.com/2023/08/09/apple-vision-pro-part-5b-more-on-monitor-replacement-is-ridiculous/)
-- [McDonald&#39;s pushed customers to the brink on price. They&#39;re starting to push back](https://www.cnn.com/2024/02/06/business/mcdonalds-prices/index.html)
+- [John Walker, founder of Autodesk, dead at 75](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
 - [Asciinema 3.0 will be rewritten in Rust](https://github.com/asciinema/asciinema/pull/579)
 - [As Much as You Ever Wanted to Know About 155M Artillery Shell Production](https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know)
 - [Jerry &lpar;YC S17&rpar; Is Hiring PMs, Engs, Data &lpar;Remote&rpar;](https://getjerry.com/careers)
+- [Loungy: An Application Launcher Written with GPUI, the Zed GPU UI Framework](https://github.com/MatthiasGrandl/loungy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
