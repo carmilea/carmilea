@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Russian troops use Starlink licensed and imported from Dubai](https://bulgarianmilitary.com/2024/02/08/russian-troops-use-starlink-licensed-and-imported-from-dubai/)
 - [Gemini can&#39;t show me the fastest way to copy memory in C# because it&#39;s unethical](https://twitter.com/garrynewman/status/1755851884047303012)
 - [Figure out who&#39;s leaving the company: dump, diff, repeat](https://rachelbythebay.com/w/2024/02/08/ldap/)
 - [What&#39;s new in the Postgres 16 query planner](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
 - [The Triumph and Terror of Wang Huning](https://letter.palladiummag.com/p/the-triumph-and-terror-of-wang-huning-3b0)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring](https://news.ycombinator.com/item?id=39310059)
 <!-- BLOG-POST-LIST:END -->
 
 ---
