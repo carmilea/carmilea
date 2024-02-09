@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Vision Pro Owners Are Struggling to Figure Out What They Just Bought](https://nymag.com/intelligencer/article/apple-vision-pro-owners-are-wondering-what-they-bought.html)
+- [Figure out who&#39;s leaving the company: dump, diff, repeat](https://rachelbythebay.com/w/2024/02/08/ldap/)
 - [What&#39;s new in the Postgres 16 query planner &lpar;a.k.a. optimizer&rpar;](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
 - [The Triumph and Terror of Wang Huning](https://letter.palladiummag.com/p/the-triumph-and-terror-of-wang-huning-3b0)
-- [Sam Altman Seeks Trillions of Dollars to Reshape Business of Chips and AI](https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring](https://news.ycombinator.com/item?id=39310059)
+- [The &lpar;history of&rpar; spice must flow](https://resobscura.substack.com/p/the-history-of-spice-must-flow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
