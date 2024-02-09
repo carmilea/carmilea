@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Is Lobbying Against Right to Repair 6 Months After Supporting It](https://www.404media.co/apple-is-lobbying-against-right-to-repair-again/)
-- [FAA says 737 MAX operator discovered loose bolts in rudder control system](https://thehill.com/regulation/transportation/4458220-faa-says-737-max-operator-discovered-loose-bolts-in-rudder-control-system-on-plane/)
-- [American VC Firms Investing Billions into PRC Companies Fueling the CCP Military](https://selectcommitteeontheccp.house.gov/media/press-releases/committee-report-american-vc-firms-investing-billions-prc-companies-fueling)
-- [I don&#39;t care about memory safety](https://www.linkedin.com/pulse/i-dont-care-memory-safety-david-chisnall)
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39317100)
+- [I Taught My Cat to Play the Piano [video]](https://www.youtube.com/watch?v=ZtoMiK4ywOU)
+- [Why we can’t build family-sized apartments in North America](https://www.centerforbuilding.org/blog/we-we-cant-build-family-sized-apartments-in-north-america)
+- [A lost hiker ignored rescuers&#39; phone calls, thinking they were spam &lpar;2021&rpar;](https://www.npr.org/2021/10/26/1049252333/lost-hiker-mount-elbert-colorado-ignored-rescuers-phone-calls)
+- [I don&#39;t care about memory safety &lpar;2023&rpar;](https://www.linkedin.com/pulse/i-dont-care-memory-safety-david-chisnall)
+- [Telecom Fraud Detection Through CDR Using SingleStore Vector Functions](https://www.singlestore.com/blog/telecom-fraud-detection-through-cdr-using-singlestore-vector-functions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
