@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [These states are basically begging you to get a heat pump](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
+- [What Turned Earth into a Giant Snowball 700M Years Ago?](https://astrobiology.com/2024/02/what-turned-earth-into-a-giant-snowball-700m-years-ago.html)
+- [Jury awards climate scientist Michael Mann $1M in defamation lawsuit](https://apnews.com/article/climate-change-defamation-michael-mann-penn-state-61289ee2d8d2143768d28995c83899ef)
+- [VR porn a no go for Apple Vision Pro users as capability blocked by Apple](https://www.notebookcheck.net/VR-porn-a-no-go-for-Apple-Vision-Pro-users-as-capability-blocked-by-Apple.801282.0.html)
 - [Mysterious, higher energy yields in vertical PV systems](https://www.pv-magazine.com/2023/11/10/researchers-shed-light-on-mysterious-higher-energy-yields-in-vertical-pv-systems/)
-- [Circle Medical &lpar;YC S15&rpar; Is Hiring Ruby Engineers in Montreal](https://www.ycombinator.com/companies/circle-medical/jobs/2RM7yFC-senior-backend-engineer)
-- [Hono v4.0.0](https://github.com/honojs/hono/releases/tag/v4.0.0)
-- [Permutation City &lpar;1994&rpar;](https://www.gregegan.net/PERMUTATION/Permutation.html)
-- [Figure out who&#39;s leaving the company: dump, diff, repeat](https://rachelbythebay.com/w/2024/02/08/ldap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
