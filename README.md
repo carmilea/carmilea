@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring](https://news.ycombinator.com/item?id=39310059)
+- [The &lpar;history of&rpar; spice must flow](https://resobscura.substack.com/p/the-history-of-spice-must-flow)
 - [Funimation End of Services](https://help.funimation.com/hc/en-us/articles/23103586580244-Funimation-End-of-services)
+- [React has grown beyond its original promise and it&#39;s causing more harm than good](https://md.jtmn.dev/blog/💻+Programming/PR-007+-+Why+you+don%27t+need+React)
 - [What Does &quot;With Continuation&quot; Mean?](https://forum.snap.berkeley.edu/t/what-does-with-continuation-mean/1518/2)
-- [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
-- [Canadian government banning Flipper Zero to combat auto theft](https://www.canada.ca/en/public-safety-canada/news/2024/02/federal-action-on-combatting-auto-theft.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
