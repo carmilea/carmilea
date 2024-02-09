@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Circle Medical &lpar;YC S15&rpar; Is Hiring Ruby Engineers in Montreal](https://www.ycombinator.com/companies/circle-medical/jobs/2RM7yFC-senior-backend-engineer)
+- [Hono v4.0.0](https://github.com/honojs/hono/releases/tag/v4.0.0)
+- [Permutation City](https://www.gregegan.net/PERMUTATION/Permutation.html)
+- [World surpasses key warming threshold across an entire year](https://www.cnbc.com/2024/02/08/climate-world-surpasses-key-warming-threshold-across-an-entire-year.html)
 - [Russian troops use Starlink licensed and imported from Dubai](https://bulgarianmilitary.com/2024/02/08/russian-troops-use-starlink-licensed-and-imported-from-dubai/)
-- [Gemini can&#39;t show me the fastest way to copy memory in C# because it&#39;s unethical](https://twitter.com/garrynewman/status/1755851884047303012)
-- [Figure out who&#39;s leaving the company: dump, diff, repeat](https://rachelbythebay.com/w/2024/02/08/ldap/)
-- [What&#39;s new in the Postgres 16 query planner](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
-- [The Triumph and Terror of Wang Huning](https://letter.palladiummag.com/p/the-triumph-and-terror-of-wang-huning-3b0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
