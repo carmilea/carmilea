@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON Parsing: Intel Sapphire Rapids versus AMD Zen 4](https://lemire.me/blog/2024/02/09/json-parsing-intel-sapphire-rapids-versus-amd-zen-4/)
+- [Modern Treasury &lpar;YC S18&rpar; Is Hiring an Enterprise PM](https://jobs.ashbyhq.com/moderntreasury/7d1f8b2e-e151-48b1-a6fc-c02780aa78a4)
 - [Reddit beats film industry again, won&#39;t have to reveal pirates&#39; IP addresses](https://arstechnica.com/tech-policy/2024/02/reddit-beats-film-industry-again-wont-have-to-reveal-pirates-ip-addresses/)
-- [Mozilla places Microsoft under fire for using deceptive tricks in Edge](https://www.windowscentral.com/software-apps/browsing/hi-microsoft-please-stop-using-harmful-designs-and-deceptive-tactics-to-give-edge-the-competitive-advantage-over-other-browsers-on-windows-says-mozilla)
+- [Brplot – plotting app/lib in C](https://github.com/branc116/brplot)
 - [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 - [Spreadsheet &quot;breaks&quot; Apple Vision Pro eye-tracking](https://kguttag.com/2024/02/05/spreadsheet-breaks-the-apple-vision-pros-avp-eye-tracking-foveation-the-first-through-the-optics-pictures/)
 <!-- BLOG-POST-LIST:END -->
