@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Just 137 crypto miners use 2.3% of total U.S. power](https://www.tomshardware.com/tech-industry/cryptomining/just-137-crypto-miners-use-23-of-total-us-power-government-now-requiring-commercial-miners-to-report-energy-consumption)
-- [Add coffee stains to LaTeX documents](https://ctan.org/pkg/coffeestains)
-- [Goody-2, the world&#39;s most responsible AI model](https://www.goody2.ai/chat)
-- [Fedora Atomic Desktops](https://fedoramagazine.org/introducing-fedora-atomic-desktops/)
-- [Sam Altman seeks to raise up to $7T for new chip project](https://www.reuters.com/technology/openais-altman-talks-raise-funds-chips-ai-initiative-wsj-2024-02-09/)
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39317100)
+- [Inflation in December was even lower than first reported, the government says](https://www.cnbc.com/2024/02/09/-inflation-in-december-was-even-lower-than-first-reported-the-government-says.html)
+- [Another &#39;Great Retirement&#39; Wave Hits the US After Stocks Rally](https://www.bloomberg.com/news/articles/2024-02-09/another-great-retirement-wave-hits-the-us-after-stocks-rally)
+- [I&#39;m an engineer that needs to sell my services. Any good books on sales?](https://news.ycombinator.com/item?id=39316653)
+- [A Case for the Preservation of Abandoned Places](https://www.atlasobscura.com/articles/column-preservation-of-abandoned-places)
 <!-- BLOG-POST-LIST:END -->
 
 ---
