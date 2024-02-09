@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lonely, but not always alone](https://www.bps.org.uk/research-digest/lonely-not-always-alone)
-- [Multics and AS400：DPS8M on IBM PASE for I &lpar;OS/400&rpar;](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
-- [Show HN: Open-source coding assistant with terminal access](https://docs.sweep.dev/assistant)
-- [Fake app masquerading as password manager LastPass just pulled from App Store](https://techcrunch.com/2024/02/08/a-fake-app-masquerading-as-password-manager-lastpass-just-got-pulled-from-the-app-store/)
-- [TransTroj: Transferable Backdoor Attacks to Pre-Trained Models](https://arxiv.org/abs/2401.15883)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring](https://news.ycombinator.com/item?id=39310059)
+- [Funimation End of Services](https://help.funimation.com/hc/en-us/articles/23103586580244-Funimation-End-of-services)
+- [What Does &quot;With Continuation&quot; Mean?](https://forum.snap.berkeley.edu/t/what-does-with-continuation-mean/1518/2)
+- [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
+- [Canadian government banning Flipper Zero to combat auto theft](https://www.canada.ca/en/public-safety-canada/news/2024/02/federal-action-on-combatting-auto-theft.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
