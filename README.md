@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [These states are basically begging you to get a heat pump](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
-- [What Turned Earth into a Giant Snowball 700M Years Ago?](https://astrobiology.com/2024/02/what-turned-earth-into-a-giant-snowball-700m-years-ago.html)
-- [Jury awards climate scientist Michael Mann $1M in defamation lawsuit](https://apnews.com/article/climate-change-defamation-michael-mann-penn-state-61289ee2d8d2143768d28995c83899ef)
-- [VR porn a no go for Apple Vision Pro users as capability blocked by Apple](https://www.notebookcheck.net/VR-porn-a-no-go-for-Apple-Vision-Pro-users-as-capability-blocked-by-Apple.801282.0.html)
-- [Mysterious, higher energy yields in vertical PV systems](https://www.pv-magazine.com/2023/11/10/researchers-shed-light-on-mysterious-higher-energy-yields-in-vertical-pv-systems/)
+- [Just 137 crypto miners use 2.3% of total U.S. power](https://www.tomshardware.com/tech-industry/cryptomining/just-137-crypto-miners-use-23-of-total-us-power-government-now-requiring-commercial-miners-to-report-energy-consumption)
+- [Add coffee stains to LaTeX documents](https://ctan.org/pkg/coffeestains)
+- [Goody-2, the world&#39;s most responsible AI model](https://www.goody2.ai/chat)
+- [Fedora Atomic Desktops](https://fedoramagazine.org/introducing-fedora-atomic-desktops/)
+- [Sam Altman seeks to raise up to $7T for new chip project](https://www.reuters.com/technology/openais-altman-talks-raise-funds-chips-ai-initiative-wsj-2024-02-09/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
