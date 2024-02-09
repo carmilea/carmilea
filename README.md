@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s new in the Postgres 16 query planner &lpar;a.k.a. optimizer&rpar;](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
+- [Quartz – PKM Oriented SSG for Markdown](https://github.com/jackyzha0/quartz)
+- [The Triumph and Terror of Wang Huning](https://letter.palladiummag.com/p/the-triumph-and-terror-of-wang-huning-3b0)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring](https://news.ycombinator.com/item?id=39310059)
 - [The &lpar;history of&rpar; spice must flow](https://resobscura.substack.com/p/the-history-of-spice-must-flow)
-- [Funimation End of Services](https://help.funimation.com/hc/en-us/articles/23103586580244-Funimation-End-of-services)
-- [React has grown beyond its original promise and it&#39;s causing more harm than good](https://md.jtmn.dev/blog/💻+Programming/PR-007+-+Why+you+don%27t+need+React)
-- [What Does &quot;With Continuation&quot; Mean?](https://forum.snap.berkeley.edu/t/what-does-with-continuation-mean/1518/2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
