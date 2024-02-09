@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Taught My Cat to Play the Piano [video]](https://www.youtube.com/watch?v=ZtoMiK4ywOU)
-- [Why we can’t build family-sized apartments in North America](https://www.centerforbuilding.org/blog/we-we-cant-build-family-sized-apartments-in-north-america)
-- [A lost hiker ignored rescuers&#39; phone calls, thinking they were spam &lpar;2021&rpar;](https://www.npr.org/2021/10/26/1049252333/lost-hiker-mount-elbert-colorado-ignored-rescuers-phone-calls)
-- [I don&#39;t care about memory safety &lpar;2023&rpar;](https://www.linkedin.com/pulse/i-dont-care-memory-safety-david-chisnall)
-- [Telecom Fraud Detection Through CDR Using SingleStore Vector Functions](https://www.singlestore.com/blog/telecom-fraud-detection-through-cdr-using-singlestore-vector-functions)
+- [JSON Parsing: Intel Sapphire Rapids versus AMD Zen 4](https://lemire.me/blog/2024/02/09/json-parsing-intel-sapphire-rapids-versus-amd-zen-4/)
+- [Reddit beats film industry again, won&#39;t have to reveal pirates&#39; IP addresses](https://arstechnica.com/tech-policy/2024/02/reddit-beats-film-industry-again-wont-have-to-reveal-pirates-ip-addresses/)
+- [Mozilla places Microsoft under fire for using deceptive tricks in Edge](https://www.windowscentral.com/software-apps/browsing/hi-microsoft-please-stop-using-harmful-designs-and-deceptive-tactics-to-give-edge-the-competitive-advantage-over-other-browsers-on-windows-says-mozilla)
+- [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
+- [Spreadsheet &quot;Breaks&quot; Apple Vision Pro Eye-Tracking](https://kguttag.com/2024/02/05/spreadsheet-breaks-the-apple-vision-pros-avp-eye-tracking-foveation-the-first-through-the-optics-pictures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
