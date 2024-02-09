@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Is Lobbying Against Right to Repair 6 Months After Supporting It](https://www.404media.co/apple-is-lobbying-against-right-to-repair-again/)
+- [FAA says 737 MAX operator discovered loose bolts in rudder control system](https://thehill.com/regulation/transportation/4458220-faa-says-737-max-operator-discovered-loose-bolts-in-rudder-control-system-on-plane/)
+- [American VC Firms Investing Billions into PRC Companies Fueling the CCP Military](https://selectcommitteeontheccp.house.gov/media/press-releases/committee-report-american-vc-firms-investing-billions-prc-companies-fueling)
+- [I don&#39;t care about memory safety](https://www.linkedin.com/pulse/i-dont-care-memory-safety-david-chisnall)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39317100)
-- [Inflation in December was even lower than first reported, the government says](https://www.cnbc.com/2024/02/09/-inflation-in-december-was-even-lower-than-first-reported-the-government-says.html)
-- [Another &#39;Great Retirement&#39; Wave Hits the US After Stocks Rally](https://www.bloomberg.com/news/articles/2024-02-09/another-great-retirement-wave-hits-the-us-after-stocks-rally)
-- [I&#39;m an engineer that needs to sell my services. Any good books on sales?](https://news.ycombinator.com/item?id=39316653)
-- [A Case for the Preservation of Abandoned Places](https://www.atlasobscura.com/articles/column-preservation-of-abandoned-places)
 <!-- BLOG-POST-LIST:END -->
 
 ---
