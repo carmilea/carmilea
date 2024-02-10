@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Go can only read 1GiB per Read call](https://kgrz.io/go-file-read-max-size-buffer.html)
 - [Google ZX – A tool for writing better scripts](https://github.com/google/zx)
 - [Skiff is shutting down in six months](https://skiff.com/data-migration)
 - [RSS related tools, services, communities and tutorials](https://github.com/AboutRSS/ALL-about-RSS)
 - [BirdLingo: A birdsong learning game](https://jessicalieb.itch.io/birdlingo)
-- [LubeLogger: Self-hosted, open-source vehicle service records and tracker](https://github.com/hargata/lubelog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
