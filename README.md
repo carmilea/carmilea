@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In 2023 operations for the .GOV TLD transitioned from Verisign to Cloudflare](https://indico.dns-oarc.net/event/48/contributions/1038/)
+- [Man who died in Alabama prison was reportedly returned to family without organs](https://www.theguardian.com/us-news/2024/jan/11/alabama-prison-missing-organs)
+- [How to Be Someone People Love to Talk to &lpar;2015&rpar;](https://bakadesuyo.com/2015/02/love-to-talk/)
 - [Sad Clown Paradox: Why You Should Check in on Your Funny Friends](https://www.iflscience.com/sad-clown-paradox-why-you-should-check-in-on-your-funny-friends-66845)
 - [Dyte &lpar;YC W21&rpar; Is Hiring Support Engineers &lpar;Latin America&rpar;](https://news.ycombinator.com/item?id=39325531)
-- [UK to replace physical biometric immigration cards with e-visas](https://www.bleepingcomputer.com/news/security/uk-to-replace-physical-biometric-immigration-cards-with-e-visas/)
-- [Unscrambling the Hidden Secrets of Superpermutations](https://www.quantamagazine.org/unscrambling-the-hidden-secrets-of-superpermutations-20190116/)
-- [OPML Is Underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
