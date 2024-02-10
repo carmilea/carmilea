@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Telecom Fraud Detection Through CDR Using SingleStore Vector Functions](https://www.singlestore.com/blog/telecom-fraud-detection-through-cdr-using-singlestore-vector-functions)
-- [Accelerate Insights: Oracle to SingleStore Data Replication With CData Sync](https://www.singlestore.com/blog/oracle-to-singlestore-data-replication-with-cdata-sync)
-- [Painlessly Analyze Your S3 Access Logs With SingleStore](https://www.singlestore.com/blog/painlessly-analyze-your-s3-access-logs-with-singlestore)
-- [How We Used SingleStore Job Service to Streamline Our Monitoring + Telemetry](https://www.singlestore.com/blog/singlestore-job-service-to-streamline-monitoring-telemetry)
-- [Using Visual Profile in SingleStore for Performance Tuning](https://www.singlestore.com/blog/singlestore-visual-profile-performance-tuning)
+- [Sad Clown Paradox: Why You Should Check in on Your Funny Friends](https://www.iflscience.com/sad-clown-paradox-why-you-should-check-in-on-your-funny-friends-66845)
+- [Dyte &lpar;YC W21&rpar; Is Hiring Support Engineers &lpar;Latin America&rpar;](https://news.ycombinator.com/item?id=39325531)
+- [UK to replace physical biometric immigration cards with e-visas](https://www.bleepingcomputer.com/news/security/uk-to-replace-physical-biometric-immigration-cards-with-e-visas/)
+- [Unscrambling the Hidden Secrets of Superpermutations](https://www.quantamagazine.org/unscrambling-the-hidden-secrets-of-superpermutations-20190116/)
+- [OPML Is Underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
