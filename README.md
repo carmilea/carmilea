@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the Media Prepared for an Extinction-Level Event?](https://www.newyorker.com/news/the-weekend-essay/is-the-media-prepared-for-an-extinction-level-event)
+- [Broken to BBS: A Dell 286 Restoration](https://www.youtube.com/watch?v=3wgiQDmeFQU)
 - [In 2023 operations for the .GOV TLD transitioned from Verisign to Cloudflare](https://indico.dns-oarc.net/event/48/contributions/1038/)
-- [Man who died in Alabama prison was reportedly returned to family without organs](https://www.theguardian.com/us-news/2024/jan/11/alabama-prison-missing-organs)
-- [How to Be Someone People Love to Talk to &lpar;2015&rpar;](https://bakadesuyo.com/2015/02/love-to-talk/)
-- [Sad Clown Paradox: Why You Should Check in on Your Funny Friends](https://www.iflscience.com/sad-clown-paradox-why-you-should-check-in-on-your-funny-friends-66845)
-- [Dyte &lpar;YC W21&rpar; Is Hiring Support Engineers &lpar;Latin America&rpar;](https://news.ycombinator.com/item?id=39325531)
+- [Memray – A Memory Profiler for Python](https://github.com/bloomberg/memray)
+- [Sad clown paradox: Why you should check in on your funny friends](https://www.iflscience.com/sad-clown-paradox-why-you-should-check-in-on-your-funny-friends-66845)
 <!-- BLOG-POST-LIST:END -->
 
 ---
