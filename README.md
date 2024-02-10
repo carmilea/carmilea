@@ -59,8 +59,8 @@
 - [Patterns &lpar;YC S21&rpar; is hiring to automate analytics with LLMs](https://www.ycombinator.com/companies/patterns)
 - [How to Study &lpar;2023&rpar;](https://cse.buffalo.edu/~rapaport/howtostudy.html)
 - [Niagara Launcher](https://niagaralauncher.app/)
-- [46% of Americans didn&#39;t read a book in 2023](https://nathanbransford.com/blog/2024/01/46-of-americans-didnt-read-a-book-in-2023-this-week-in-books)
 - [The French village that voted to ban scrolling in public](https://www.theguardian.com/world/2024/feb/10/fighting-the-smartphone-invasion-the-french-village-that-voted-to-ban-scrolling-in-public)
+- [Aho – a Git implementation in Awk](https://github.com/djanderson/aho)
 <!-- BLOG-POST-LIST:END -->
 
 ---
