@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Emerge &lpar;YC W21&rpar; is hiring a Growth Engineer &lpar;small team,fully remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
-- [Canada declares Flipper Zero public enemy No. 1 in car-theft crackdown](https://arstechnica.com/security/2024/02/canada-vows-to-ban-flipper-zero-device-in-crackdown-on-car-theft/)
-- [50 Years of Prolog: Becoming More Declarative [video]](https://www.youtube.com/watch?v=Ru2oZGRJTQg)
-- [Grand-Master Level Chess Without Search: Modeling Choices and Their Implications](https://gist.github.com/yoavg/8b98bbd70eb187cf1852b3485b8cda4f)
-- [Nvidia pursues $30B custom chip opportunity with new unit](https://www.reuters.com/technology/nvidia-chases-30-billion-custom-chip-market-with-new-unit-sources-2024-02-09/)
+- [Eugène-François Vidocq and the Birth of the Detective](https://publicdomainreview.org/essay/eugene-francois-vidocq-and-the-birth-of-the-detective/)
+- [Fourays: A Tribute to the AY-3-8910](https://doug.lon.dev/blog/2024/fourays/tribute/)
+- [Demoscene and Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl/)
+- [Emerge &lpar;YC W21&rpar; is hiring a growth engineer &lpar;small team, fully remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
+- [The Benefits of Mangroves &lpar;2023&rpar;](https://www.wlrn.org/environment/2023-10-12/floridas-coastal-savior-the-benefits-of-mangroves)
 <!-- BLOG-POST-LIST:END -->
 
 ---
