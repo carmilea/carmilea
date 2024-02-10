@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [50 Years of Prolog: Becoming More Declarative – David S. Warren [video]](https://www.youtube.com/watch?v=Ru2oZGRJTQg)
+- [Nvidia pursues $30B custom chip opportunity with new unit](https://www.reuters.com/technology/nvidia-chases-30-billion-custom-chip-market-with-new-unit-sources-2024-02-09/)
 - [Patterns &lpar;YC S21&rpar; is hiring to automate analytics with LLMs](https://www.ycombinator.com/companies/patterns)
 - [How to Study &lpar;2023&rpar;](https://cse.buffalo.edu/~rapaport/howtostudy.html)
 - [Niagara Launcher](https://niagaralauncher.app/)
-- [The French village that voted to ban scrolling in public](https://www.theguardian.com/world/2024/feb/10/fighting-the-smartphone-invasion-the-french-village-that-voted-to-ban-scrolling-in-public)
-- [Aho – a Git implementation in Awk](https://github.com/djanderson/aho)
 <!-- BLOG-POST-LIST:END -->
 
 ---
