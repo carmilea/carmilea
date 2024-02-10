@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OPML Is Underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
-- [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
-- [Mixed reality gone in Windows 11 Insider Preview Build 26052](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-26052-canary-and-dev-channels/)
-- [ZX – A tool for writing better scripts](https://github.com/google/zx)
-- [BirdLingo: A birdsong learning game](https://jessicalieb.itch.io/birdlingo)
+- [Telecom Fraud Detection Through CDR Using SingleStore Vector Functions](https://www.singlestore.com/blog/telecom-fraud-detection-through-cdr-using-singlestore-vector-functions)
+- [Accelerate Insights: Oracle to SingleStore Data Replication With CData Sync](https://www.singlestore.com/blog/oracle-to-singlestore-data-replication-with-cdata-sync)
+- [Painlessly Analyze Your S3 Access Logs With SingleStore](https://www.singlestore.com/blog/painlessly-analyze-your-s3-access-logs-with-singlestore)
+- [How We Used SingleStore Job Service to Streamline Our Monitoring + Telemetry](https://www.singlestore.com/blog/singlestore-job-service-to-streamline-monitoring-telemetry)
+- [Using Visual Profile in SingleStore for Performance Tuning](https://www.singlestore.com/blog/singlestore-visual-profile-performance-tuning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
