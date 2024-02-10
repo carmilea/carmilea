@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge &lpar;YC W21&rpar; is hiring a Growth Engineer &lpar;small team,fully remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
+- [Canada declares Flipper Zero public enemy No. 1 in car-theft crackdown](https://arstechnica.com/security/2024/02/canada-vows-to-ban-flipper-zero-device-in-crackdown-on-car-theft/)
 - [50 Years of Prolog: Becoming More Declarative [video]](https://www.youtube.com/watch?v=Ru2oZGRJTQg)
 - [Grand-Master Level Chess Without Search: Modeling Choices and Their Implications](https://gist.github.com/yoavg/8b98bbd70eb187cf1852b3485b8cda4f)
 - [Nvidia pursues $30B custom chip opportunity with new unit](https://www.reuters.com/technology/nvidia-chases-30-billion-custom-chip-market-with-new-unit-sources-2024-02-09/)
-- [Xist ribonucleoproteins promote female sex-biased autoimmunity](https://www.cell.com/cell/fulltext/S0092-8674(24)00002-3)
-- [Becoming a dungeon master for an interview](https://www.propelauth.com/post/interview-dungeon-master)
 <!-- BLOG-POST-LIST:END -->
 
 ---
