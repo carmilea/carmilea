@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is the Media Prepared for an Extinction-Level Event?](https://www.newyorker.com/news/the-weekend-essay/is-the-media-prepared-for-an-extinction-level-event)
-- [Broken to BBS: A Dell 286 Restoration](https://www.youtube.com/watch?v=3wgiQDmeFQU)
-- [In 2023 operations for the .GOV TLD transitioned from Verisign to Cloudflare](https://indico.dns-oarc.net/event/48/contributions/1038/)
-- [Memray – A Memory Profiler for Python](https://github.com/bloomberg/memray)
-- [Sad clown paradox: Why you should check in on your funny friends](https://www.iflscience.com/sad-clown-paradox-why-you-should-check-in-on-your-funny-friends-66845)
+- [Short history of all Windows UI frameworks and libraries](https://irrlicht3d.org/index.php?t=1626)
+- [A rent-stabilized 1 bedroom apartment for $1,100 In NYC? broker&#39;s fee is $15K](https://gothamist.com/news/a-rent-stabilized-1-bedroom-apartment-for-1100-in-nyc-the-brokers-fee-is-15k)
+- [I Was Illegally Fired by Amazon for Speaking Out About a Coworker&#39;s Death &lpar;2023&rpar;](https://jacobin.com/2023/11/i-was-illegally-fired-by-amazon-for-speaking-out-about-a-coworkers-death/)
+- [Show HN: Now my pet programming language can run in the browser](https://nbittich.github.io/adana/)
+- [The &#39;Unthinkable&#39; New Reality About Bedbugs](https://knowablemagazine.org/content/article/health-disease/2024/where-did-bed-bugs-come-from-how-to-get-rid-of-them)
 <!-- BLOG-POST-LIST:END -->
 
 ---
