@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Should I use a pie chart?](https://www.shouldiuseapiechart.com/)
+- [Creeped Out [pdf]](https://philpapers.org/archive/BERCOY-2.pdf)
+- [All my thoughts after 40 hours in the Vision Pro](https://waitbutwhy.com/2024/02/vision-pro.html)
+- [Thinking about high-quality human data](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/)
+- [Are you sure you want to use MMAP in your DBMS?](https://www.symas.com/post/are-you-sure-you-want-to-use-mmap-in-your-dbms)
 - [Modern Treasury &lpar;YC S18&rpar; Is Hiring an Enterprise PM](https://jobs.ashbyhq.com/moderntreasury/7d1f8b2e-e151-48b1-a6fc-c02780aa78a4)
-- [Reddit beats film industry again, won&#39;t have to reveal pirates&#39; IP addresses](https://arstechnica.com/tech-policy/2024/02/reddit-beats-film-industry-again-wont-have-to-reveal-pirates-ip-addresses/)
-- [Brplot – plotting app/lib in C](https://github.com/branc116/brplot)
-- [A glaring error in methane flaring &lpar;2022&rpar;](https://arstechnica.com/science/2022/09/oil-industry-flaring-less-effective-than-thought-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
