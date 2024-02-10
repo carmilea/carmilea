@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LubeLogger: Self-hosted, open-source vehicle service records and tracker](https://github.com/hargata/lubelog)
+- [Shell closes all of its hydrogen refuelling stations for cars in California](https://www.hydrogeninsight.com/transport/shell-permanently-closes-all-of-its-hydrogen-refuelling-stations-for-cars-in-california/2-1-1596104?zephr_sso_ott=ynOWoF)
 - [Carl Griffith&#39;s 1847 Oregon Trail Sourdough Starter](https://carlsfriends.net/source.html)
 - [Espressif ESP32: Breaking HW AES with Power Analysis &lpar;2023&rpar;](https://raelize.com/blog/espressif-systems-esp32-breaking-hw-aes-with-power-analysis/)
 - [Privacy focused platform Skiff is joining Notion, Skiff to be sunset.](https://www.notion.so/blog/meet-skiff-the-newest-member-of-the-notion-family)
-- [Creeped Out [pdf]](https://philpapers.org/archive/BERCOY-2.pdf)
-- [Somewhere There&#39;s Cheese](https://www.brightwalldarkroom.com/2024/02/08/a-grand-day-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
