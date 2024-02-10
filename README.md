@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [50 Years of Prolog: Becoming More Declarative – David S. Warren [video]](https://www.youtube.com/watch?v=Ru2oZGRJTQg)
+- [50 Years of Prolog: Becoming More Declarative [video]](https://www.youtube.com/watch?v=Ru2oZGRJTQg)
+- [Grand-Master Level Chess Without Search: Modeling Choices and Their Implications](https://gist.github.com/yoavg/8b98bbd70eb187cf1852b3485b8cda4f)
 - [Nvidia pursues $30B custom chip opportunity with new unit](https://www.reuters.com/technology/nvidia-chases-30-billion-custom-chip-market-with-new-unit-sources-2024-02-09/)
-- [Patterns &lpar;YC S21&rpar; is hiring to automate analytics with LLMs](https://www.ycombinator.com/companies/patterns)
-- [How to Study &lpar;2023&rpar;](https://cse.buffalo.edu/~rapaport/howtostudy.html)
-- [Niagara Launcher](https://niagaralauncher.app/)
+- [Xist ribonucleoproteins promote female sex-biased autoimmunity](https://www.cell.com/cell/fulltext/S0092-8674(24)00002-3)
+- [Becoming a dungeon master for an interview](https://www.propelauth.com/post/interview-dungeon-master)
 <!-- BLOG-POST-LIST:END -->
 
 ---
