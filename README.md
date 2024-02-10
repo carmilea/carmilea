@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google ZX – A tool for writing better scripts](https://github.com/google/zx)
 - [Skiff is shutting down in six months](https://skiff.com/data-migration)
+- [RSS related tools, services, communities and tutorials](https://github.com/AboutRSS/ALL-about-RSS)
 - [BirdLingo: A birdsong learning game](https://jessicalieb.itch.io/birdlingo)
 - [LubeLogger: Self-hosted, open-source vehicle service records and tracker](https://github.com/hargata/lubelog)
-- [How engineers test Moon landers on Earth](https://nature.com/articles/d41586-024-00352-w)
-- [Shell closes all of its hydrogen refuelling stations for cars in California](https://www.hydrogeninsight.com/transport/shell-permanently-closes-all-of-its-hydrogen-refuelling-stations-for-cars-in-california/2-1-1596104?zephr_sso_ott=ynOWoF)
 <!-- BLOG-POST-LIST:END -->
 
 ---
