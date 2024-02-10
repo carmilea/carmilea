@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Short history of all Windows UI frameworks and libraries](https://irrlicht3d.org/index.php?t=1626)
-- [A rent-stabilized 1 bedroom apartment for $1,100 In NYC? broker&#39;s fee is $15K](https://gothamist.com/news/a-rent-stabilized-1-bedroom-apartment-for-1100-in-nyc-the-brokers-fee-is-15k)
-- [I Was Illegally Fired by Amazon for Speaking Out About a Coworker&#39;s Death &lpar;2023&rpar;](https://jacobin.com/2023/11/i-was-illegally-fired-by-amazon-for-speaking-out-about-a-coworkers-death/)
-- [Show HN: Now my pet programming language can run in the browser](https://nbittich.github.io/adana/)
-- [The &#39;Unthinkable&#39; New Reality About Bedbugs](https://knowablemagazine.org/content/article/health-disease/2024/where-did-bed-bugs-come-from-how-to-get-rid-of-them)
+- [Patterns &lpar;YC S21&rpar; is hiring to automate analytics with LLMs](https://www.ycombinator.com/companies/patterns)
+- [How to Study &lpar;2023&rpar;](https://cse.buffalo.edu/~rapaport/howtostudy.html)
+- [Niagara Launcher](https://niagaralauncher.app/)
+- [46% of Americans didn&#39;t read a book in 2023](https://nathanbransford.com/blog/2024/01/46-of-americans-didnt-read-a-book-in-2023-this-week-in-books)
+- [The French village that voted to ban scrolling in public](https://www.theguardian.com/world/2024/feb/10/fighting-the-smartphone-invasion-the-french-village-that-voted-to-ban-scrolling-in-public)
 <!-- BLOG-POST-LIST:END -->
 
 ---
