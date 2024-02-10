@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenTTD](https://www.openttd.org/about)
+- [Has LA cracked the code for building affordable housing?](https://benjaminschneider.substack.com/p/has-la-cracked-the-code-for-building)
 - [Eugène-François Vidocq and the Birth of the Detective](https://publicdomainreview.org/essay/eugene-francois-vidocq-and-the-birth-of-the-detective/)
-- [Fourays: A Tribute to the AY-3-8910](https://doug.lon.dev/blog/2024/fourays/tribute/)
-- [Demoscene and Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl/)
-- [Emerge &lpar;YC W21&rpar; is hiring a growth engineer &lpar;small team, fully remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
-- [The Benefits of Mangroves &lpar;2023&rpar;](https://www.wlrn.org/environment/2023-10-12/floridas-coastal-savior-the-benefits-of-mangroves)
+- [New adhesive tape picks up and sticks down 2D materials easily](https://phys.org/news/2024-02-adhesive-tape-2d-materials-easily.html)
+- [Global study: Wild megafauna shape ecosystem properties](https://phys.org/news/2024-02-global-wild-megafauna-ecosystem-properties.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
