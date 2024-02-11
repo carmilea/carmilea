@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RLHF a LLM in &lt;50 lines of Python](https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html)
+- [Sleeping Our Way to Being Productive](https://www.nakedcapitalism.com/2024/02/sleeping-our-way-to-being-productive.html)
 - [Are we visible to advanced alien civilizations?](https://arxiv.org/abs/2308.08689)
-- [The meathead margin: how lifting weights might have saved my life](https://jakeseliger.com/2024/02/06/the-meathead-margin-how-lifting-weights-might-have-saved-my-life/)
 - [I Know What Your Password Was Last Summer](https://labs.lares.com/password-analysis/)
 - [Javalin – a simple web framework for Java and Kotlin](https://javalin.io/)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
