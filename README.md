@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why is Google search unusable lately?](https://news.ycombinator.com/item?id=39337118)
-- [Immich is changing its license from MIT to AGPLv3](https://github.com/immich-app/immich/discussions/7023)
-- [Ask HN: What are the best articles on managing people you&#39;ve ever read?](https://news.ycombinator.com/item?id=39336840)
-- [Cross My Heart – A Frogger Demake in 256 Bytes of HTML/JS](https://killedbyapixel.github.io/TinyCode/games/CrossMyHeart/)
-- [Jamsocket &lpar;YC W22&rpar; is hiring a senior Rust engineer for a WebSocket PaaS &lpar;NYC&rpar;](https://jamsocket.com/blog/senior-rust-engineer)
+- [Notes on My Remarkable Tablet](https://tomcritchlow.com/2024/02/09/remarkable-notes/)
+- [The Empire Strikes Back First Draft by Leigh Brackett &lpar;1978&rpar; [pdf]](https://starwarz.com/tbone/wp-content/uploads/Star-Wars-Sequel-Brackett.pdf)
+- [Investors in Airbnb arbitrage business allege they were defrauded in scheme](https://www.cnbc.com/2024/02/11/investors-in-airbnb-arbitrage-business-allege-they-were-defrauded.html)
+- [Finding a New Software Developer Job](https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/)
+- [Brazil&#39;s hydro power adds to global gas surplus](https://www.reuters.com/markets/commodities/brazils-hydro-power-adds-global-gas-surplus-kemp-2024-02-09/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
