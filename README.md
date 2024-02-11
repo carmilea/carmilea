@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Deleting and Destroying Finished Movies Should Be a Crime](https://www.rogerebert.com/mzs/coyote-vs-acme-canceled)
-- [It&#39;s time to break free from Corporate Agile](https://bits.danielrothmann.com/corporate-agile)
-- [How Boeing Lost Its Way [video]](https://www.youtube.com/watch?v=URoVKPVDKPU)
-- [Notes on my Remarkable tablet](https://tomcritchlow.com/2024/02/09/remarkable-notes/)
-- [The Empire Strikes Back First Draft by Leigh Brackett &lpar;1978&rpar; [pdf]](https://starwarz.com/tbone/wp-content/uploads/Star-Wars-Sequel-Brackett.pdf)
+- [Spec Ops: The Line permanently removed from Steam and other digital stores](https://www.theverge.com/2024/1/30/24055807/spec-ops-the-line-delisting-licensing-2k)
+- [Disney&#39;s newest robot demonstrates collaborative cuteness](https://spectrum.ieee.org/disney-robot-2666681104)
+- [2024: The year of the OpenStreetMap vector maps](https://blog.openstreetmap.org/2024/02/11/2024-announcing-the-year-of-the-openstreetmap-vector-maps/)
+- [Deleting and destroying finished movies](https://www.rogerebert.com/mzs/coyote-vs-acme-canceled)
+- [Is the &quot;modern data stack&quot; still a useful idea?](https://roundup.getdbt.com/p/is-the-modern-data-stack-still-a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
