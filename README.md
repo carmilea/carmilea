@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jamsocket &lpar;YC W22&rpar; is hiring a senior Rust engineer for a WebSocket PaaS &lpar;NYC&rpar;](https://jamsocket.com/blog/senior-rust-engineer)
+- [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
+- [&#39;Baby Bust&#39;: Why Fewer Young People Expect to Become Parents &lpar;2013&rpar;](https://knowledge.wharton.upenn.edu/article/stew-friedman-new-work-family-choices-men-women/)
+- [Social networks are getting stingy with their data, closing their doors to devs](https://techcrunch.com/2024/02/09/social-network-api-apps-twitter-reddit-threads-mastodon-bluesky/)
 - [RLHF a LLM in &lt;50 lines of Python](https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html)
-- [Sleeping Our Way to Being Productive](https://www.nakedcapitalism.com/2024/02/sleeping-our-way-to-being-productive.html)
-- [Are we visible to advanced alien civilizations?](https://arxiv.org/abs/2308.08689)
-- [I Know What Your Password Was Last Summer](https://labs.lares.com/password-analysis/)
-- [Javalin – a simple web framework for Java and Kotlin](https://javalin.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
