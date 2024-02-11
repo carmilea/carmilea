@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No data? No problem. Undisclosed tinkering in Excel behind economics paper](https://retractionwatch.com/2024/02/05/no-data-no-problem-undisclosed-tinkering-in-excel-behind-economics-paper/)
+- [No job? No shame. Younger workers are opening up about unemployment](https://www.washingtonpost.com/business/2024/02/10/gen-z-layoffs-tiktok-younger-workers/)
+- [Undisclosed tinkering in Excel behind economics paper](https://retractionwatch.com/2024/02/05/no-data-no-problem-undisclosed-tinkering-in-excel-behind-economics-paper/)
 - [A man has been swatted 47 times for making a joke about Norm Macdonald](https://www.independent.co.uk/news/world/americas/crime/swatting-nikki-haley-trump-fbi-stalkers-b2494097.html)
 - [ForceGen: End-to-end de novo protein generation](https://www.science.org/doi/10.1126/sciadv.adl4000)
 - [Show HN: A platform for remote piano lessons based on the Web MIDI API](https://keyboardconnect.com/)
-- [OpenTTD](https://www.openttd.org/about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
