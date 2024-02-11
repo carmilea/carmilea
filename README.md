@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brain&#39;s Drainage System Provides New Insights into Aging and Immunity](https://neurosciencenews.com/immunity-aging-brain-drainage-25573/)
+- [Stop using gitlab.com for projects – Credit card required for new registrations](https://old.reddit.com/r/opensource/comments/1alxjom/stop_using_gitlabcom_for_projects_credit_card/)
 - [A man has been swatted 47 times for making a joke about Norm Macdonald](https://www.independent.co.uk/news/world/americas/crime/swatting-nikki-haley-trump-fbi-stalkers-b2494097.html)
 - [ForceGen: End-to-end de novo protein generation](https://www.science.org/doi/10.1126/sciadv.adl4000)
 - [Show HN: A platform for remote piano lessons based on the Web MIDI API](https://keyboardconnect.com/)
