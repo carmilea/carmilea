@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A man has been swatted 47 times for making a joke about Norm Macdonald](https://www.independent.co.uk/news/world/americas/crime/swatting-nikki-haley-trump-fbi-stalkers-b2494097.html)
+- [Apple argues against right-to-repair bill that would reduce its control](https://www.theverge.com/2024/2/9/24067957/apple-right-to-repair-oregon-bill-parts-pairing-ban)
 - [ForceGen: End-to-end de novo protein generation](https://www.science.org/doi/10.1126/sciadv.adl4000)
 - [Show HN: A platform for remote piano lessons based on the Web MIDI API](https://keyboardconnect.com/)
 - [OpenTTD](https://www.openttd.org/about)
