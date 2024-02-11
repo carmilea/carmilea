@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Notes on My Remarkable Tablet](https://tomcritchlow.com/2024/02/09/remarkable-notes/)
+- [Gemini lying about having data until 2021](https://twitter.com/Malix_off/status/1756784386958135437)
+- [How Boeing Lost Its Way [video]](https://www.youtube.com/watch?v=URoVKPVDKPU)
+- [Notes on my Remarkable tablet](https://tomcritchlow.com/2024/02/09/remarkable-notes/)
 - [The Empire Strikes Back First Draft by Leigh Brackett &lpar;1978&rpar; [pdf]](https://starwarz.com/tbone/wp-content/uploads/Star-Wars-Sequel-Brackett.pdf)
 - [Investors in Airbnb arbitrage business allege they were defrauded in scheme](https://www.cnbc.com/2024/02/11/investors-in-airbnb-arbitrage-business-allege-they-were-defrauded.html)
-- [Finding a New Software Developer Job](https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/)
-- [Brazil&#39;s hydro power adds to global gas surplus](https://www.reuters.com/markets/commodities/brazils-hydro-power-adds-global-gas-surplus-kemp-2024-02-09/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
