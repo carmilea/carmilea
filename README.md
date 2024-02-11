@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A platform for remote piano lessons based on the Web MIDI API](https://keyboardconnect.com/)
 - [OpenTTD](https://www.openttd.org/about)
-- [Has LA cracked the code for building affordable housing?](https://benjaminschneider.substack.com/p/has-la-cracked-the-code-for-building)
 - [Eugène-François Vidocq and the Birth of the Detective](https://publicdomainreview.org/essay/eugene-francois-vidocq-and-the-birth-of-the-detective/)
 - [New adhesive tape picks up and sticks down 2D materials easily](https://phys.org/news/2024-02-adhesive-tape-2d-materials-easily.html)
 - [Global study: Wild megafauna shape ecosystem properties](https://phys.org/news/2024-02-global-wild-megafauna-ecosystem-properties.html)
