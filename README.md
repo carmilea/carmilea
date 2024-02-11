@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No job? No shame. Younger workers are opening up about unemployment](https://www.washingtonpost.com/business/2024/02/10/gen-z-layoffs-tiktok-younger-workers/)
+- [What it was like working for Gitlab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
+- [TurboTax maker Intuit spent millions in record lobbying blitz](https://www.opensecrets.org/news/2024/02/turbotax-maker-intuit-spent-millions-in-record-lobbying-blitz-amid-threats-to-tax-prep-industry/)
+- [Waymo car vandalized and lit on fire in San Francisco](https://twitter.com/michael_vandi/status/1756550257851449372)
 - [Undisclosed tinkering in Excel behind economics paper](https://retractionwatch.com/2024/02/05/no-data-no-problem-undisclosed-tinkering-in-excel-behind-economics-paper/)
 - [A man has been swatted 47 times for making a joke about Norm Macdonald](https://www.independent.co.uk/news/world/americas/crime/swatting-nikki-haley-trump-fbi-stalkers-b2494097.html)
-- [ForceGen: End-to-end de novo protein generation](https://www.science.org/doi/10.1126/sciadv.adl4000)
-- [Show HN: A platform for remote piano lessons based on the Web MIDI API](https://keyboardconnect.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
