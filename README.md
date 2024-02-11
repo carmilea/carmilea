@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini lying about having data until 2021](https://twitter.com/Malix_off/status/1756784386958135437)
+- [Why Deleting and Destroying Finished Movies Should Be a Crime](https://www.rogerebert.com/mzs/coyote-vs-acme-canceled)
+- [It&#39;s time to break free from Corporate Agile](https://bits.danielrothmann.com/corporate-agile)
 - [How Boeing Lost Its Way [video]](https://www.youtube.com/watch?v=URoVKPVDKPU)
 - [Notes on my Remarkable tablet](https://tomcritchlow.com/2024/02/09/remarkable-notes/)
 - [The Empire Strikes Back First Draft by Leigh Brackett &lpar;1978&rpar; [pdf]](https://starwarz.com/tbone/wp-content/uploads/Star-Wars-Sequel-Brackett.pdf)
-- [Investors in Airbnb arbitrage business allege they were defrauded in scheme](https://www.cnbc.com/2024/02/11/investors-in-airbnb-arbitrage-business-allege-they-were-defrauded.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
