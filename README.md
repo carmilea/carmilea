@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why is Google search unusable lately?](https://news.ycombinator.com/item?id=39337118)
+- [Immich is changing its license from MIT to AGPLv3](https://github.com/immich-app/immich/discussions/7023)
 - [Ask HN: What are the best articles on managing people you&#39;ve ever read?](https://news.ycombinator.com/item?id=39336840)
 - [Cross My Heart – A Frogger Demake in 256 Bytes of HTML/JS](https://killedbyapixel.github.io/TinyCode/games/CrossMyHeart/)
 - [Jamsocket &lpar;YC W22&rpar; is hiring a senior Rust engineer for a WebSocket PaaS &lpar;NYC&rpar;](https://jamsocket.com/blog/senior-rust-engineer)
-- [100% User-Supported](https://stephango.com/vcware)
-- [XFCE 4.20 Aiming for Usable Wayland Support While Maintaining X11 Compatibility](https://www.phoronix.com/news/Xfce-4.20-Wayland-Roadmap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
