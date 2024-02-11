@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are we visible to advanced alien civilizations?](https://arxiv.org/abs/2308.08689)
 - [The meathead margin: how lifting weights might have saved my life](https://jakeseliger.com/2024/02/06/the-meathead-margin-how-lifting-weights-might-have-saved-my-life/)
-- [CSS Is Logical](https://geoffgraham.me/css-is-logical/)
+- [I Know What Your Password Was Last Summer](https://labs.lares.com/password-analysis/)
+- [Javalin – a simple web framework for Java and Kotlin](https://javalin.io/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Show HN: Tweening web visualisation, in Rust – &lpar;WASM&rpar;](https://rustween.mtassoumt.uk/)
-- [Minimal Linux Bootloader debugging story](https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
