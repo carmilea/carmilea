@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Sold Only One Car in Korea in January](https://www.bloomberg.com/news/articles/2024-02-07/tesla-sold-only-one-car-in-korea-in-january-as-ev-demand-weakens)
-- [Crowd sets Waymo self-driving vehicle ablaze in San Francisco](https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/)
+- [US Employers Brace for 16M Super Bowl Sick Days](https://www.bloomberg.com/news/articles/2024-02-12/what-time-is-the-super-bowl-not-the-right-time-for-many-workers)
+- [Ask HN: Alternatives to the Pomodoro Technique?](https://news.ycombinator.com/item?id=39348500)
+- [On the Proposed California SB 1047](https://thezvi.substack.com/p/on-the-proposed-california-sb-1047)
+- [Evolution: Fast or Slow? Lizards Help Resolve a Paradox](https://www.quantamagazine.org/evolution-fast-or-slow-lizards-help-resolve-a-paradox-20240102/)
 - [Nango &lpar;YC W23, open-source product integrations&rpar; is hiring a back end engineer](https://www.nango.dev/jobs)
-- [Atmospheric river storms are getting stronger, and deadlier](https://www.theguardian.com/science/2024/feb/11/atmospheric-river-pacific-storms-climate-crisis)
-- [The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
 <!-- BLOG-POST-LIST:END -->
 
 ---
