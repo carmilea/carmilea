@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It Can Be Done](https://multicians.org/andre.html)
-- [A crowd destroyed a driverless Waymo car in San Francisco](https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town)
-- [The Nasdaq is in an A.I.-led bubble](https://www.philoinvestor.com/p/downside-at-nvidia-and-the-nasdaq)
+- [It Can Be Done &lpar;2003&rpar;](https://multicians.org/andre.html)
 - [A celebrated cryptography-breaking algorithm just got an upgrade](https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/)
 - [The Brennan self-balancing monorail [video]](https://www.youtube.com/watch?v=kUYzuAJeg3M)
+- [Cousins are disappearing. Is this reshaping the experience of childhood?](https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338)
+- [Questioning &quot;The Value of Open Source Software&quot;](https://openpath.chadwhitacre.com/2024/questioning-the-value-of-open-source-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
