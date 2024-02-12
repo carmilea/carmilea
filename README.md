@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Employers Brace for 16M Super Bowl Sick Days](https://www.bloomberg.com/news/articles/2024-02-12/what-time-is-the-super-bowl-not-the-right-time-for-many-workers)
-- [Ask HN: Alternatives to the Pomodoro Technique?](https://news.ycombinator.com/item?id=39348500)
+- [FCC gets tough: Telcos must now tell you when your personal info is stolen](https://www.theregister.com/2024/02/12/fcc_gets_tough_on_telcos/)
+- [US rail safety legislation stalled one year after East Palestine Ohio disaster](https://www.wlbt.com/2024/02/02/rail-safety-legislation-still-stalled-one-year-after-east-palestine-disaster/)
+- [The myth of big salaries &lpar;it&#39;s all marketing&rpar;](https://seths.blog/2009/03/the-myth-of-big-salaries-its-all-marketing/)
+- [VDPA: Support for block devices in Linux and QEMU](https://stefano-garzarella.github.io/posts/2024-02-12-vdpa-blk/)
 - [On the Proposed California SB 1047](https://thezvi.substack.com/p/on-the-proposed-california-sb-1047)
-- [Evolution: Fast or Slow? Lizards Help Resolve a Paradox](https://www.quantamagazine.org/evolution-fast-or-slow-lizards-help-resolve-a-paradox-20240102/)
-- [Nango &lpar;YC W23, open-source product integrations&rpar; is hiring a back end engineer](https://www.nango.dev/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
