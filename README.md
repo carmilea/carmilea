@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Is Starting to Threaten White-Collar Jobs](https://www.wsj.com/lifestyle/careers/ai-is-starting-to-threaten-white-collar-jobs-few-industries-are-immune-9cdbcb90)
+- [US Government makes $42M bet on open cell networks: Open RAN dream stays alive](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)
+- [Mornington Crescent](https://www.isihac.net/mornington_crescent.php)
+- [Brazil Hits 92% Renewable Energy Milestone](https://old.reddit.com/r/technology/comments/1aoe9so/brazil_hits_92_renewable_energy_milestone/)
 - [FCC gets tough: Telcos must now tell you when your personal info is stolen](https://www.theregister.com/2024/02/12/fcc_gets_tough_on_telcos/)
-- [US rail safety legislation stalled one year after East Palestine Ohio disaster](https://www.wlbt.com/2024/02/02/rail-safety-legislation-still-stalled-one-year-after-east-palestine-disaster/)
-- [The myth of big salaries &lpar;it&#39;s all marketing&rpar;](https://seths.blog/2009/03/the-myth-of-big-salaries-its-all-marketing/)
-- [VDPA: Support for block devices in Linux and QEMU](https://stefano-garzarella.github.io/posts/2024-02-12-vdpa-blk/)
-- [On the Proposed California SB 1047](https://thezvi.substack.com/p/on-the-proposed-california-sb-1047)
 <!-- BLOG-POST-LIST:END -->
 
 ---
