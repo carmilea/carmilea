@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The idea that AI will just augment jobs never replace them](http://donaldclarkplanb.blogspot.com/2024/02/this-is-why-idea-that-ai-will-just.html)
+- [Developers Are in Open Revolt over Apple&#39;s New App Store Rules](https://www.wired.com/story/developers-revolt-apple-dma/)
+- [The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
+- [Slut-onomics: How the scarcity of sluts tears the social fabric apart](https://woodfromeden.substack.com/p/slut-onomics-how-the-scarcity-of)
 - [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
 - [AMD Funded a Drop-In CUDA Implementation Built on ROCm: It&#39;s Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
-- [I was wrong to ignore Zigbee and Z-Wave. They&#39;re the best part of my smart home](https://arstechnica.com/gadgets/2024/02/i-was-wrong-to-ignore-zigbee-and-z-wave-theyre-the-best-part-of-my-smart-home/)
-- [&#39;I have not seen one cent&#39;: billions stolen in wage theft from US workers](https://www.theguardian.com/us-news/2023/jun/15/wage-theft-us-workers-employees)
 <!-- BLOG-POST-LIST:END -->
 
 ---
