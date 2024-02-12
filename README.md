@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crowd Attacks Waymo, Sets It on Fire](https://www.forbes.com/sites/bradtempleton/2024/02/11/crowd-attacks-waymo-sets-it-on-fire/)
-- [OpenZFS bug reports for native encryption](https://docs.google.com/spreadsheets/d/1OfRSXibZ2nIE9DGK6swwBZXgXwdCPKgp4SbPZwTexCg/htmlview)
-- [Famous Solopreneurs Who Accomplished Nothing by Age 30](https://solounicornsclub.beehiiv.com/p/5-famous-solopreneurs-who-accomplished-nothing-by-age-30)
-- [Cousins are disappearing. Is this reshaping the experience of childhood?](https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338)
-- [The Value of Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148)
+- [It Can Be Done](https://multicians.org/andre.html)
+- [A crowd destroyed a driverless Waymo car in San Francisco](https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town)
+- [The Nasdaq is in an A.I.-led bubble](https://www.philoinvestor.com/p/downside-at-nvidia-and-the-nasdaq)
+- [A celebrated cryptography-breaking algorithm just got an upgrade](https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/)
+- [The Brennan self-balancing monorail [video]](https://www.youtube.com/watch?v=kUYzuAJeg3M)
 <!-- BLOG-POST-LIST:END -->
 
 ---
