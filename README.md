@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I was wrong to ignore Zigbee and Z-Wave. They&#39;re the best part of my smart home](https://arstechnica.com/gadgets/2024/02/i-was-wrong-to-ignore-zigbee-and-z-wave-theyre-the-best-part-of-my-smart-home/)
+- [&#39;I have not seen one cent&#39;: billions stolen in wage theft from US workers](https://www.theguardian.com/us-news/2023/jun/15/wage-theft-us-workers-employees)
 - [Smartphone screens are about to become speakers](https://spectrum.ieee.org/piezoelectric-speakers)
-- [SCSI isn&#39;t dead yet – new SSD for old or obsolete systems](https://www.tomshardware.com/pc-components/storage/scsi-isnt-dead-yet-new-ssd-for-old-or-obsolete-systems-is-a-boon-for-retro-computing-fans)
-- [Should toggle button show its current state or the state to which it&#39;ll change?](https://ux.stackexchange.com/questions/1318/should-a-toggle-button-show-its-current-state-or-the-state-to-which-it-will-chan)
-- [28-ton, 1.2-megawatt tidal kite is now exporting power to the grid](https://newatlas.com/energy/minesto-tidal-kite/)
-- [It Can Be Done &lpar;2003&rpar;](https://multicians.org/andre.html)
+- [Native macOS fix for applications hiding under the MacBook Pro notch](https://flaky.build/native-fix-for-applications-hiding-under-the-macbook-pro-notch)
+- [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
