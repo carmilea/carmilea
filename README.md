@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cruelty of Crypto](https://aeon.co/essays/the-cruelty-of-crypto-in-its-promise-to-revive-the-american-dream)
-- [Google/orbit – C/C++ Performance Profiler](https://github.com/google/orbit)
-- [Show HN: Aurora- a comprehensive set of Statistics and Machine Learning tools](https://github.com/MariusNea/Aurora)
+- [Cousins are disappearing. Is this reshaping the experience of childhood?](https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338)
+- [The Value of Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148)
+- [Man who shoveled new channel into Lake Michigan convicted](https://www.msn.com/en-us/news/us/man-who-shoveled-new-channel-into-lake-michigan-convicted/ar-BB1i0t7P)
+- [Orbit: C/C++ Performance Profiler](https://github.com/google/orbit)
 - [Spec Ops: The Line permanently removed from Steam and other digital stores](https://www.theverge.com/2024/1/30/24055807/spec-ops-the-line-delisting-licensing-2k)
-- [Disney&#39;s newest robot demonstrates collaborative cuteness](https://spectrum.ieee.org/disney-robot-2666681104)
 <!-- BLOG-POST-LIST:END -->
 
 ---
