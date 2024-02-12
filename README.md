@@ -57,7 +57,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Crowd Attacks Waymo, Sets It on Fire](https://www.forbes.com/sites/bradtempleton/2024/02/11/crowd-attacks-waymo-sets-it-on-fire/)
-- [New York&#39;s new credit card surcharge mandate takes effect: What to know](https://www.nbcnewyork.com/news/local/new-yorks-new-credit-card-surcharge-mandate-takes-effect-what-to-know/5126087/)
+- [OpenZFS bug reports for native encryption](https://docs.google.com/spreadsheets/d/1OfRSXibZ2nIE9DGK6swwBZXgXwdCPKgp4SbPZwTexCg/htmlview)
 - [Famous Solopreneurs Who Accomplished Nothing by Age 30](https://solounicornsclub.beehiiv.com/p/5-famous-solopreneurs-who-accomplished-nothing-by-age-30)
 - [Cousins are disappearing. Is this reshaping the experience of childhood?](https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338)
 - [The Value of Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148)
