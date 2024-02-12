@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Smartphone screens are about to become speakers](https://spectrum.ieee.org/piezoelectric-speakers)
+- [SCSI isn&#39;t dead yet – new SSD for old or obsolete systems](https://www.tomshardware.com/pc-components/storage/scsi-isnt-dead-yet-new-ssd-for-old-or-obsolete-systems-is-a-boon-for-retro-computing-fans)
+- [Should toggle button show its current state or the state to which it&#39;ll change?](https://ux.stackexchange.com/questions/1318/should-a-toggle-button-show-its-current-state-or-the-state-to-which-it-will-chan)
 - [28-ton, 1.2-megawatt tidal kite is now exporting power to the grid](https://newatlas.com/energy/minesto-tidal-kite/)
-- [We need to talk about parentheses](https://andreyor.st/posts/2020-12-03-we-need-to-talk-about-parentheses/)
 - [It Can Be Done &lpar;2003&rpar;](https://multicians.org/andre.html)
-- [FOSDEM 2024: my experience, some notes and tech tips](https://ounapuu.ee/posts/2024/02/12/fosdem-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
