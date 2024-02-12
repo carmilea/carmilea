@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Sold Only One Car in Korea in January](https://www.bloomberg.com/news/articles/2024-02-07/tesla-sold-only-one-car-in-korea-in-january-as-ev-demand-weakens)
+- [Crowd sets Waymo self-driving vehicle ablaze in San Francisco](https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/)
 - [Nango &lpar;YC W23, open-source product integrations&rpar; is hiring a back end engineer](https://www.nango.dev/jobs)
-- [Developers Are in Open Revolt over Apple&#39;s New App Store Rules](https://www.wired.com/story/developers-revolt-apple-dma/)
 - [Atmospheric river storms are getting stronger, and deadlier](https://www.theguardian.com/science/2024/feb/11/atmospheric-river-pacific-storms-climate-crisis)
 - [The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
-- [The Annotated S4](https://srush.github.io/annotated-s4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
