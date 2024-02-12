@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Starting to Threaten White-Collar Jobs](https://www.wsj.com/lifestyle/careers/ai-is-starting-to-threaten-white-collar-jobs-few-industries-are-immune-9cdbcb90)
+- [Prime Video cuts Dolby Vision, Atmos support from ad tier–and didn&#39;t tell subs](https://arstechnica.com/gadgets/2024/02/prime-video-cuts-dolby-vision-atmos-support-from-ad-tier-and-didnt-tell-subs/)
+- [Nvidia CEO: Every Country Needs Sovereign AI](https://blogs.nvidia.com/blog/world-governments-summit/)
+- [First Arrests Under Florida&#39;s New DNA Law, Pennsylvania Also Considers Testing](https://www.forensicmag.com/610912-First-Arrests-Under-Florida-s-New-DNA-Law-Pennsylvania-Considers-Post-arrest-Testing/)
 - [US Government makes $42M bet on open cell networks: Open RAN dream stays alive](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)
 - [Mornington Crescent](https://www.isihac.net/mornington_crescent.php)
-- [Brazil Hits 92% Renewable Energy Milestone](https://old.reddit.com/r/technology/comments/1aoe9so/brazil_hits_92_renewable_energy_milestone/)
-- [FCC gets tough: Telcos must now tell you when your personal info is stolen](https://www.theregister.com/2024/02/12/fcc_gets_tough_on_telcos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
