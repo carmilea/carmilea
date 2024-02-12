@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cruelty of Crypto](https://aeon.co/essays/the-cruelty-of-crypto-in-its-promise-to-revive-the-american-dream)
 - [Google/orbit – C/C++ Performance Profiler](https://github.com/google/orbit)
 - [Show HN: Aurora- a comprehensive set of Statistics and Machine Learning tools](https://github.com/MariusNea/Aurora)
 - [Spec Ops: The Line permanently removed from Steam and other digital stores](https://www.theverge.com/2024/1/30/24055807/spec-ops-the-line-delisting-licensing-2k)
 - [Disney&#39;s newest robot demonstrates collaborative cuteness](https://spectrum.ieee.org/disney-robot-2666681104)
-- [Ｂｉｔｗｉｓｅ Ｌｉｍｉｎａｌ – A Short Film in 256 Bytes of Code](https://killedbyapixel.github.io/TinyCode/256B/BitwiseLiminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
