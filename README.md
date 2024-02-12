@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nango &lpar;YC W23, open-source product integrations&rpar; is hiring a back end engineer](https://www.nango.dev/jobs)
 - [Developers Are in Open Revolt over Apple&#39;s New App Store Rules](https://www.wired.com/story/developers-revolt-apple-dma/)
+- [Atmospheric river storms are getting stronger, and deadlier](https://www.theguardian.com/science/2024/feb/11/atmospheric-river-pacific-storms-climate-crisis)
 - [The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
-- [Slut-onomics: How the scarcity of sluts tears the social fabric apart](https://woodfromeden.substack.com/p/slut-onomics-how-the-scarcity-of)
-- [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
-- [AMD Funded a Drop-In CUDA Implementation Built on ROCm: It&#39;s Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
+- [The Annotated S4](https://srush.github.io/annotated-s4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
