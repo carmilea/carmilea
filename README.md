@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smartphone screens are about to become speakers](https://spectrum.ieee.org/piezoelectric-speakers)
 - [28-ton, 1.2-megawatt tidal kite is now exporting power to the grid](https://newatlas.com/energy/minesto-tidal-kite/)
 - [We need to talk about parentheses](https://andreyor.st/posts/2020-12-03-we-need-to-talk-about-parentheses/)
 - [It Can Be Done &lpar;2003&rpar;](https://multicians.org/andre.html)
 - [FOSDEM 2024: my experience, some notes and tech tips](https://ounapuu.ee/posts/2024/02/12/fosdem-2024/)
-- [The boring technology behind a one-person Internet company](https://www.listennotes.com/blog/the-boring-technology-behind-a-one-person-23/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
