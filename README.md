@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla worker killed in fiery crash may be first &#39;Full Self-Driving&#39; fatality](https://www.washingtonpost.com/technology/interactive/2024/tesla-full-self-driving-fatal-crash/)
-- [Mastering Programming - by Kent Beck &lpar;2016&rpar;](https://tidyfirst.substack.com/p/mastering-programming)
-- [Show HN: Statusduck – Website monitoring tool where the data is public](https://statusduck.io/)
-- [Industry veterans get candid on ageism in gaming](https://kotaku.com/activision-ageism-video-games-cliffy-b-warren-spector-1851220345)
-- [Apple&#39;s iMessage Avoids EU&#39;s Digital Markets Act Regulation](https://www.macrumors.com/2024/02/13/imessage-avoids-eu-regulation/)
+- [Roboflow &lpar;YC S20&rpar; is hiring a new leader for its machine learning team](https://www.ycombinator.com/companies/roboflow/jobs/3esJuI0-machine-learning-lead)
+- [Nvidia Chat with RTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/)
+- [Smart Terminals: Personal Computing&#39;s True Origin? – The History of How We Play](https://thehistoryofhowweplay.wordpress.com/2023/10/23/smart-terminals-personal-computings-true-origin/)
+- [SafeTest: A Novel Approach to Front End Testing](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d?gi=eae52dc83daf)
+- [Show HN: 10 times faster LLM evaluation with Bayesian optimization](https://github.com/rentruewang/bocoel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
