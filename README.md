@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Implement Tcl in Tcl &lpar;2007&rpar;](https://wiki.tcl-lang.org/page/Implement+tcl+in+tcl)
 - [They gave local news away for free. Virtually nobody wanted it](https://www.cjr.org/business_of_news/they-gave-local-news-away-for-free-virtually-nobody-wanted-it.php)
 - [What great American cities looked like a century ago, in video &lpar;thread&rpar;](https://twitter.com/Culture_Crit/status/1755293706184208631)
 - [A Git client for simultaneous branches on top of your existing workflow](https://gitbutler.com)
 - [Sparkle: A software update framework for macOS](https://github.com/sparkle-project/Sparkle)
-- [Is Something Bugging You?](https://antithesis.com/blog/is_something_bugging_you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
