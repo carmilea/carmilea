@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It Is Somebody&#39;s Moral Imperative to Leak &quot;Coyote vs. Acme&quot; to the World](https://aftermath.site/coyote-vs-acme-fuck-david-zaslav)
 - [Nvidia is now more valuable than Amazon and Google](https://www.forbes.com/sites/dereksaul/2024/02/12/nvidia-is-now-more-valuable-than-amazon-and-google/)
 - [Cautionary Fables for Darwin&#39;s Birthday &lpar;2018&rpar;](https://3quarksdaily.com/3quarksdaily/2018/02/cautionary-fables-for-darwins-birthday.html)
+- [United Just Grounded Fleet of Planes Because Its No Smoking Signs Don&#39;t Turn Off](https://viewfromthewing.com/united-airlines-just-grounded-a-fleet-of-planes-because-its-no-smoking-signs-dont-turn-off/)
 - [Abandoned villages of Hong Kong](https://www.cnn.com/2024/02/13/style/hong-kong-abandoned-villages-stefan-irvine-photographer-hnk/index.html)
-- [Unicomp&#39;s &quot;New&quot; Model M Keyboard](https://www.pckeyboard.com/page/product/NEW_M)
-- [PEP 701 – Syntactic formalization of f-strings](https://peps.python.org/pep-0701/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
