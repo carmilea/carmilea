@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia is now more valuable than Amazon and Google](https://www.forbes.com/sites/dereksaul/2024/02/12/nvidia-is-now-more-valuable-than-amazon-and-google/)
+- [Cautionary Fables for Darwin&#39;s Birthday &lpar;2018&rpar;](https://3quarksdaily.com/3quarksdaily/2018/02/cautionary-fables-for-darwins-birthday.html)
+- [Abandoned villages of Hong Kong](https://www.cnn.com/2024/02/13/style/hong-kong-abandoned-villages-stefan-irvine-photographer-hnk/index.html)
 - [Unicomp&#39;s &quot;New&quot; Model M Keyboard](https://www.pckeyboard.com/page/product/NEW_M)
-- [Spotify&#39;s layoffs put an end to Every Noise at Once](https://techcrunch.com/2024/02/12/every-noise-shut-down-spotify-layoffs/)
-- [Planito: A 9-day week for a balanced life](https://sprain.ch/planito/)
-- [What If I’m Wrong? &lpar;2023&rpar;](https://behavioralscientist.org/ive-been-thinking-daniel-dennett-what-if-im-wrong/)
-- [Security flaws in an SSO plugin for Caddy](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)
+- [PEP 701 – Syntactic formalization of f-strings](https://peps.python.org/pep-0701/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
