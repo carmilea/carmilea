@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I threw away your resume &lpar;from the crankiest recruiter&rpar;](https://bloomberry.com/why-i-threw-away-your-resume-from-the-worlds-crankiest-recruiter/)
+- [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions)
+- [&quot;PayPal took $80k from me and banned me&quot;](https://twitter.com/dannypostmaa/status/1757343318239813730)
 - [The Catalogue of UK Entrances to Hell](https://www.entrances2hell.co.uk/)
 - [So You Think You Know Git – Git Tips and Tricks by Scott Chacon](https://blog.gitbutler.com/git-tips-and-tricks/)
 - [StreamingLLM: tiny tweak to KV LRU improves long conversations](https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213)
-- [Nokia Made Too Many Phones](https://textquery.app/2024/02/06/nokia-made-too-many-phones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
