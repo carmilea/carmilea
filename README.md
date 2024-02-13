@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla worker killed in fiery crash may be first &#39;Full Self-Driving&#39; fatality](https://www.washingtonpost.com/technology/interactive/2024/tesla-full-self-driving-fatal-crash/)
+- [Mastering Programming - by Kent Beck &lpar;2016&rpar;](https://tidyfirst.substack.com/p/mastering-programming)
 - [Show HN: Statusduck – Website monitoring tool where the data is public](https://statusduck.io/)
-- [How were photos transmitted by wire in 1937?](https://thekidshouldseethis.com/post/wired-photo-transmission-news-1937)
+- [Industry veterans get candid on ageism in gaming](https://kotaku.com/activision-ageism-video-games-cliffy-b-warren-spector-1851220345)
 - [Apple&#39;s iMessage Avoids EU&#39;s Digital Markets Act Regulation](https://www.macrumors.com/2024/02/13/imessage-avoids-eu-regulation/)
-- [The Dating App Paradox](https://www.npr.org/sections/money/2024/02/13/1228749143/the-dating-app-paradox-why-dating-apps-may-be-worse-than-ever)
-- [Original WWW proposal is a Word for Macintosh 4 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
