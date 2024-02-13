@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Someone is going to dim the sun, and it will be soon](https://climate.benjames.io/someone-is-going-to-dim-the-sun/)
+- [Switching from S3 to Tigris on Fly.io](https://benhoyt.com/writings/flyio-and-tigris/)
+- [How to Center a Div in CSS](https://www.joshwcomeau.com/css/center-a-div/)
+- [OpenAI: Memory and New Controls for ChatGPT](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 - [End of Life for Twilio Authy Desktop App](https://help.twilio.com/articles/22771146070299-End-user-guide-End-of-Life-EOL-for-Twilio-Authy-Desktop-app)
-- [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
-- [Stable Cascade](https://github.com/Stability-AI/StableCascade)
-- [Wi-Fi jamming to knock out cameras suspected in nine Minnesota burglaries](https://www.tomshardware.com/networking/wi-fi-jamming-to-knock-out-cameras-suspected-in-nine-minnesota-burglaries-smart-security-systems-vulnerable-as-tech-becomes-cheaper-and-easier-to-acquire)
-- [Filtering the noise created by vague business advice](https://crnkovic.me/filtering-out-vague-business-advice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
