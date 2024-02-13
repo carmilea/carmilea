@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Memfault &lpar;YC W19&rpar; Is Hiring a Firmware Engineer in NYC/Boston](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)
-- [Drowning in code: The ever-growing problem of ever-growing codebases](https://www.theregister.com/2024/02/12/drowning_in_code/)
-- [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions)
-- [&quot;PayPal took $80k from me and banned me&quot;](https://twitter.com/dannypostmaa/status/1757343318239813730)
-- [The Catalogue of UK Entrances to Hell](https://www.entrances2hell.co.uk/)
+- [They gave local news away for free. Virtually nobody wanted it](https://www.cjr.org/business_of_news/they-gave-local-news-away-for-free-virtually-nobody-wanted-it.php)
+- [What great American cities looked like a century ago, in video &lpar;thread&rpar;](https://twitter.com/Culture_Crit/status/1755293706184208631)
+- [A Git client for simultaneous branches on top of your existing workflow](https://gitbutler.com)
+- [Sparkle: A software update framework for macOS](https://github.com/sparkle-project/Sparkle)
+- [Is Something Bugging You?](https://antithesis.com/blog/is_something_bugging_you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
