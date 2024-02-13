@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Someone is going to dim the sun, and it will be soon](https://climate.benjames.io/someone-is-going-to-dim-the-sun/)
+- [Ask HN: How do you come up with side project ideas in 2024?](https://news.ycombinator.com/item?id=39361661)
+- [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://depth-anything.github.io/)
 - [Switching from S3 to Tigris on Fly.io](https://benhoyt.com/writings/flyio-and-tigris/)
-- [How to Center a Div in CSS](https://www.joshwcomeau.com/css/center-a-div/)
-- [OpenAI: Memory and New Controls for ChatGPT](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
-- [End of Life for Twilio Authy Desktop App](https://help.twilio.com/articles/22771146070299-End-user-guide-End-of-Life-EOL-for-Twilio-Authy-Desktop-app)
+- [How to center a div in CSS](https://www.joshwcomeau.com/css/center-a-div/)
+- [Memory and new controls for ChatGPT](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
