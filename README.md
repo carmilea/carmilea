@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Cybertruck May Have a Rust Problem](https://www.carsdirect.com/automotive-news/green-technology/tesla-cybertruck-may-have-a-rust-problem)
+- [Math as a habit](https://kidswholovemath.substack.com/p/math-as-a-habit)
 - [Stable-Audio-Demo](https://stability-ai.github.io/stable-audio-demo/)
-- [No CMS? Writing Our Blog in React](https://getwaitlist.com/blog/blogging_software)
-- [Twenty years of work with the ARM architecture](https://marcin.juszkiewicz.com.pl/2024/02/12/twenty-years-of-my-work-with-arm-architecture/)
-- [Induced demand is not a useful concept](https://www.bensouthwood.co.uk/p/why-induced-demand-is-fake)
+- [No CMS? Writing Our Blog in React &lpar;2023&rpar;](https://getwaitlist.com/blog/blogging_software)
+- [Twenty years of my work with Arm architecture](https://marcin.juszkiewicz.com.pl/2024/02/12/twenty-years-of-my-work-with-arm-architecture/)
+- [OOHtml – Object-Oriented HTML Implementation](https://github.com/webqit/oohtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
