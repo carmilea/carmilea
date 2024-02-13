@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I threw away your resume &lpar;from the crankiest recruiter&rpar;](https://bloomberry.com/why-i-threw-away-your-resume-from-the-worlds-crankiest-recruiter/)
+- [The Catalogue of UK Entrances to Hell](https://www.entrances2hell.co.uk/)
+- [So You Think You Know Git – Git Tips and Tricks by Scott Chacon](https://blog.gitbutler.com/git-tips-and-tricks/)
 - [StreamingLLM: tiny tweak to KV LRU improves long conversations](https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213)
-- [AMD&#39;s Mild Hybrid Strategy: Ryzen Z1 in Asus&#39;s ROG Ally](https://chipsandcheese.com/2024/02/12/amds-mild-hybrid-strategy-ryzen-z1-in-asuss-rog-ally/)
-- [Supabase &lpar;YC S20&rpar; Is Hiring a Growth Marketer](https://boards.greenhouse.io/supabase/jobs/5072984004)
-- [John Locke&#39;s recipe for Pancakes &lpar;2021&rpar;](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
-- [Math as a habit](https://kidswholovemath.substack.com/p/math-as-a-habit)
+- [Nokia Made Too Many Phones](https://textquery.app/2024/02/06/nokia-made-too-many-phones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
