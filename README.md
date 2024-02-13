@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you come up with side project ideas in 2024?](https://news.ycombinator.com/item?id=39361661)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infrastructure &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
+- [Cloudflare DNS Updates Delayed](https://www.cloudflarestatus.com/incidents/byhy098jxck6)
 - [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://depth-anything.github.io/)
 - [Switching from S3 to Tigris on Fly.io](https://benhoyt.com/writings/flyio-and-tigris/)
 - [How to center a div in CSS](https://www.joshwcomeau.com/css/center-a-div/)
-- [Memory and new controls for ChatGPT](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
