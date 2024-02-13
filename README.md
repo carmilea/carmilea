@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase &lpar;YC S20&rpar; Is Hiring a Growth Marketer](https://boards.greenhouse.io/supabase/jobs/5072984004)
+- [John Locke&#39;s recipe for Pancakes &lpar;2021&rpar;](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
 - [Math as a habit](https://kidswholovemath.substack.com/p/math-as-a-habit)
 - [Stable-Audio-Demo](https://stability-ai.github.io/stable-audio-demo/)
 - [No CMS? Writing Our Blog in React &lpar;2023&rpar;](https://getwaitlist.com/blog/blogging_software)
-- [Twenty years of my work with Arm architecture](https://marcin.juszkiewicz.com.pl/2024/02/12/twenty-years-of-my-work-with-arm-architecture/)
-- [OOHtml – Object-Oriented HTML Implementation](https://github.com/webqit/oohtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
