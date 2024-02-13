@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Daniel Dennett: What If I&#39;m Wrong?](https://behavioralscientist.org/ive-been-thinking-daniel-dennett-what-if-im-wrong/)
-- [Prime Video cuts Dolby Vision, Atmos support from ad tier–and didn&#39;t tell subs](https://arstechnica.com/gadgets/2024/02/prime-video-cuts-dolby-vision-atmos-support-from-ad-tier-and-didnt-tell-subs/)
-- [Time Series Forecasting vs. Regression](https://www.amorphousdata.com/blog/time-series-vs-regression)
-- [AI Needs So Much Power That Old Coal Plants Are Sticking Around](https://www.bloomberg.com/news/articles/2024-01-25/ai-needs-so-much-power-that-old-coal-plants-are-sticking-around)
-- [First Arrests Under Florida&#39;s New DNA Law, Pennsylvania Also Considers Testing](https://www.forensicmag.com/610912-First-Arrests-Under-Florida-s-New-DNA-Law-Pennsylvania-Considers-Post-arrest-Testing/)
+- [Unicomp&#39;s &quot;New&quot; Model M Keyboard](https://www.pckeyboard.com/page/product/NEW_M)
+- [Spotify&#39;s layoffs put an end to Every Noise at Once](https://techcrunch.com/2024/02/12/every-noise-shut-down-spotify-layoffs/)
+- [Planito: A 9-day week for a balanced life](https://sprain.ch/planito/)
+- [What If I’m Wrong? &lpar;2023&rpar;](https://behavioralscientist.org/ive-been-thinking-daniel-dennett-what-if-im-wrong/)
+- [Security flaws in an SSO plugin for Caddy](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
