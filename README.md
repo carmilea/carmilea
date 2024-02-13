@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [StreamingLLM: tiny tweak to KV LRU improves long conversations](https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213)
 - [AMD&#39;s Mild Hybrid Strategy: Ryzen Z1 in Asus&#39;s ROG Ally](https://chipsandcheese.com/2024/02/12/amds-mild-hybrid-strategy-ryzen-z1-in-asuss-rog-ally/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Growth Marketer](https://boards.greenhouse.io/supabase/jobs/5072984004)
 - [John Locke&#39;s recipe for Pancakes &lpar;2021&rpar;](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
 - [Math as a habit](https://kidswholovemath.substack.com/p/math-as-a-habit)
-- [Stable-Audio-Demo](https://stability-ai.github.io/stable-audio-demo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
