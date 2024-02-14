@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Argument over a Long-Standing Autism Intervention](https://www.newyorker.com/science/annals-of-medicine/the-argument-over-a-long-standing-autism-intervention)
-- [AI Girlfriend Is a Data-Harvesting Horror Show](https://gizmodo.com/your-ai-girlfriend-is-a-data-harvesting-horror-show-1851253284)
-- [Ask HN: How do you organize software documentation at work?](https://news.ycombinator.com/item?id=39370226)
-- [Walmart in talks to buy TV maker Vizio for more than $2B](https://www.theverge.com/2024/2/13/24072191/walmart-vizio-smart-tv-acquisition-rumor)
-- [The Golden Age of Cordless Power Tools](https://toolguyd.com/golden-age-of-cordless-power-tools/)
+- [US Military notifies 20k of data breach after cloud email leak](https://techcrunch.com/2024/02/14/department-defense-data-breach-microsoft-cloud-email/)
+- [OpenAI experiments with giving ChatGPT a long-term conversation memory](https://arstechnica.com/information-technology/2024/02/amnesia-begone-soon-chatgpt-will-remember-what-you-tell-it-between-sessions/)
+- [Only real people can patent inventions – not AI – US Government says](https://www.cnn.com/2024/02/14/tech/billions-in-ai-patents-get-new-regulations/index.html)
+- [Your AI Girlfriend Is a Data-Harvesting Horror Show](https://gizmodo.com/your-ai-girlfriend-is-a-data-harvesting-horror-show-1851253284)
+- [Tai chi reduces blood pressure better than aerobic exercise](https://www.npr.org/sections/health-shots/2024/02/14/1231232197/tai-chi-aerobics-exercise-blood-pressure-hypertension-mindfulness)
 <!-- BLOG-POST-LIST:END -->
 
 ---
