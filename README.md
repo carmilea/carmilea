@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Pursuit of Simplicity](https://quiltro.org/notes/simplicity.html)
-- [Polars – A bird&#39;s eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
+- [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full)
+- [A bird&#39;s eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
 - [A 1.9 solar mass neutron star candidate in a 2-year orbit](https://arxiv.org/abs/2402.06722)
 - [Fly.io Has GPUs Now](https://fly.io/blog/fly-io-has-gpus-now/)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infrastructure &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
+- [The Sneaky Standard – Intel PCI Standardization History](https://tedium.co/2024/02/09/intel-pci-standardization-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
