@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Florida Cop Empties His Gun, Runs for Cover After Acorn Falls on Car](https://jalopnik.com/florida-cop-empties-his-gun-runs-for-cover-after-acorn-1851255383)
+- [Canadian federal government will stop investing in new road infrastructure](https://www.cbc.ca/news/politics/guilbeault-no-new-roads-1.7114867)
+- [Reverse-engineering an encrypted IoT protocol](https://smlx.dev/posts/goodwe-sems-protocol-teardown/)
+- [Show HN: You don&#39;t need to adopt new tools for LLM observability](https://github.com/traceloop/openllmetry-js)
 - [US Military notifies 20k of data breach after cloud email leak](https://techcrunch.com/2024/02/14/department-defense-data-breach-microsoft-cloud-email/)
-- [OpenAI experiments with giving ChatGPT a long-term conversation memory](https://arstechnica.com/information-technology/2024/02/amnesia-begone-soon-chatgpt-will-remember-what-you-tell-it-between-sessions/)
-- [Only real people can patent inventions – not AI – US Government says](https://www.cnn.com/2024/02/14/tech/billions-in-ai-patents-get-new-regulations/index.html)
-- [Your AI Girlfriend Is a Data-Harvesting Horror Show](https://gizmodo.com/your-ai-girlfriend-is-a-data-harvesting-horror-show-1851253284)
-- [Tai chi reduces blood pressure better than aerobic exercise](https://www.npr.org/sections/health-shots/2024/02/14/1231232197/tai-chi-aerobics-exercise-blood-pressure-hypertension-mindfulness)
 <!-- BLOG-POST-LIST:END -->
 
 ---
