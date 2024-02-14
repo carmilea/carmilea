@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Proton, the &#39;Most Complicated Thing You Could Possibly Imagine](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
-- [Duolingo Sucks, Now What?](https://ruhua-langblr.tumblr.com/post/739086003139149824/duolingo-sucks-now-what-a-guide)
-- [BASE TTS &lpar;Amazon&rpar;: The largest text-to-speech model to-date](https://amazon-ltts-paper.com/)
-- [Show HN: FoldMation – Interactive origami learning and creation](https://foldmation.com)
-- [Ask HN: What are some actual use cases of AI Agents right now?](https://news.ycombinator.com/item?id=39373662)
+- [I Fucking Hate Jira &lpar;2022&rpar;](https://ifuckinghatejira.com)
+- [Amazon Sued over Prime Video Ads: Class-Action Suit Alleges Deception](https://variety.com/2024/digital/news/amazon-prime-video-ads-lawsuit-class-action-1235910694/)
+- [Nanoplastics in water – surprisingly large amounts discovered and its not good](https://molecularspec.substack.com/p/nanoplastics-in-water-surprisingly)
+- [The happiest kids in the world have social safety nets](https://www.mother.ly/parenting/social-safety-net/)
+- [Inside the proton, the ‘most complicated thing you could possibly imagine’](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
