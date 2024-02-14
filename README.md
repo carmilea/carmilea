@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Proton, the &#39;Most Complicated Thing You Could Possibly Imagine](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+- [Duolingo Sucks, Now What?](https://ruhua-langblr.tumblr.com/post/739086003139149824/duolingo-sucks-now-what-a-guide)
+- [BASE TTS &lpar;Amazon&rpar;: The largest text-to-speech model to-date](https://amazon-ltts-paper.com/)
 - [Show HN: FoldMation – Interactive origami learning and creation](https://foldmation.com)
 - [Ask HN: What are some actual use cases of AI Agents right now?](https://news.ycombinator.com/item?id=39373662)
-- [Nginx Security Advisory](https://mailman.nginx.org/pipermail/nginx-announce/2024/NW6MNW34VZ6HDIHH5YFBIJYZJN7FGNAV.html)
-- [Carbon capture tech a &#39;complete falsehood&#39;, says Fortescue Metals chairman](https://www.reuters.com/business/energy/carbon-capture-tech-complete-falsehood-says-fortescue-metals-chairman-2024-02-13/)
-- [Core Nginx developer announces fork, freenginx](https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
