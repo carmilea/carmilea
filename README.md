@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What made Earth a giant snowball 700M years ago? Scientists have an answer](https://www.sydney.edu.au/news-opinion/news/2024/02/08/geoscientists-discover-what-turned-snowball-earth-sturtian-ice-age-earthbyte.html)
+- [The history of Digital Research&#39;s Gemdos for the Atari ST](http://cd.textfiles.com/crawlycrypt1/program/books/progem/gemdos.15)
 - [Lightdash &lpar;YC S20&rpar; Is hiring an analytics engineering advocate](https://www.ycombinator.com/companies/hubble/jobs/IZ0giSa-analytics-engineering-advocate)
+- [Grade Inflation at UC Riverside, and Institutional Pressures for Easier Grading](http://schwitzsplinters.blogspot.com/2024/02/grade-inflation-at-uc-riverside-and.html)
 - [Xonsh: Python-powered, cross-platform, Unix-gazing shell](https://github.com/xonsh/xonsh)
-- [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
-- [I Grew My Substack from 439 to 451 Free Subscribers in Just 11 Months](https://shadesofgreaves.substack.com/p/how-i-grew-my-substack-from-439-to)
-- [Popular XMPP App &quot;Conversations&quot; Removed from PlayStore by Google](https://gultsch.social/@daniel/111929074071688694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
