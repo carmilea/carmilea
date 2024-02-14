@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta&#39;s big vision for face computers might be better than Apple&#39;s](https://www.theverge.com/2024/2/14/24070729/ray-ban-meta-smart-glasses-apple-vision-pro-ar-vr)
-- [Things We Didn&#39;t Know About Ourselves](https://kk.org/thetechnium/things-we-didnt-know-about-ourselves/)
-- [Show HN: Reor – An AI note-taking app that runs models locally](https://github.com/reorproject/reor)
-- [Reverse-engineering an encrypted IoT protocol](https://smlx.dev/posts/goodwe-sems-protocol-teardown/)
-- [YC: Requests for Startups](https://www.ycombinator.com/rfs)
+- [Show HN: FoldMation – Interactive origami learning and creation](https://foldmation.com)
+- [Ask HN: What are some actual use cases of AI Agents right now?](https://news.ycombinator.com/item?id=39373662)
+- [Nginx Security Advisory](https://mailman.nginx.org/pipermail/nginx-announce/2024/NW6MNW34VZ6HDIHH5YFBIJYZJN7FGNAV.html)
+- [Carbon capture tech a &#39;complete falsehood&#39;, says Fortescue Metals chairman](https://www.reuters.com/business/energy/carbon-capture-tech-complete-falsehood-says-fortescue-metals-chairman-2024-02-13/)
+- [Core Nginx developer announces fork, freenginx](https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
