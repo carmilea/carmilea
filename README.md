@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [San Francisco staged a surprising comeback](https://www.economist.com/finance-and-economics/2024/02/12/san-franciscos-surprising-comeback)
-- [Andrej Karpathy Departs OpenAI](https://www.theinformation.com/articles/openai-researcher-andrej-karpathy-departs)
+- [Andrej Karpathy: I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
 - [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
 - [Bioluminescent petunias now available for U.S. market](https://lgrmag.com/news/light-bio-to-introduce-bioluminescent-petunias-into-u-s-market/)
 - [Show HN: Instantly play the game I&#39;m developing directly on its website](https://athenacrisis.com)
+- [Protein biomarkers predict dementia 15 years before diagnosis in new study](https://warwick.ac.uk/newsandevents/pressreleases/?newsItem=8a17841a8d79730b018d9e2bbb0e054b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
