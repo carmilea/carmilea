@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full)
-- [A bird&#39;s eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
-- [A 1.9 solar mass neutron star candidate in a 2-year orbit](https://arxiv.org/abs/2402.06722)
-- [Fly.io Has GPUs Now](https://fly.io/blog/fly-io-has-gpus-now/)
-- [The Sneaky Standard – Intel PCI Standardization History](https://tedium.co/2024/02/09/intel-pci-standardization-history/)
+- [San Francisco staged a surprising comeback](https://www.economist.com/finance-and-economics/2024/02/12/san-franciscos-surprising-comeback)
+- [Andrej Karpathy Departs OpenAI](https://www.theinformation.com/articles/openai-researcher-andrej-karpathy-departs)
+- [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
+- [Bioluminescent petunias now available for U.S. market](https://lgrmag.com/news/light-bio-to-introduce-bioluminescent-petunias-into-u-s-market/)
+- [Show HN: Instantly play the game I&#39;m developing directly on its website](https://athenacrisis.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
