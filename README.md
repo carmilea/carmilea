@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PySimpleGUI 4 will be sunsetted in Q2 2024](https://docs.PySimpleGUI.com/en/latest/readme/sunset/)
-- [Australian Federal Police would repeat undercover operation on autistic teenager](https://www.abc.net.au/news/2024-02-14/afp-says-it-would-repeat-undercover-terror-operation-on-autistic/103467546)
-- [What made Earth a giant snowball 700M years ago? Scientists have an answer](https://www.sydney.edu.au/news-opinion/news/2024/02/08/geoscientists-discover-what-turned-snowball-earth-sturtian-ice-age-earthbyte.html)
-- [The history of Digital Research&#39;s Gemdos for the Atari ST](http://cd.textfiles.com/crawlycrypt1/program/books/progem/gemdos.15)
-- [Lightdash &lpar;YC S20&rpar; Is hiring an analytics engineering advocate](https://www.ycombinator.com/companies/hubble/jobs/IZ0giSa-analytics-engineering-advocate)
+- [The Argument over a Long-Standing Autism Intervention](https://www.newyorker.com/science/annals-of-medicine/the-argument-over-a-long-standing-autism-intervention)
+- [AI Girlfriend Is a Data-Harvesting Horror Show](https://gizmodo.com/your-ai-girlfriend-is-a-data-harvesting-horror-show-1851253284)
+- [Ask HN: How do you organize software documentation at work?](https://news.ycombinator.com/item?id=39370226)
+- [Walmart in talks to buy TV maker Vizio for more than $2B](https://www.theverge.com/2024/2/13/24072191/walmart-vizio-smart-tv-acquisition-rumor)
+- [The Golden Age of Cordless Power Tools](https://toolguyd.com/golden-age-of-cordless-power-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
