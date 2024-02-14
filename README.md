@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple, Microsoft win exemptions for iMessage, Bing from EU rules](https://www.reuters.com/markets/europe/eu-says-several-apple-microsoft-platforms-dont-qualify-gatekeepers-2024-02-13/)
+- [What&#39;s Happening with the Evergrande Liquidation](https://www.npr.org/2024/02/12/1197961810/whats-really-happening-with-the-evergrande-liquidation?ft=nprml&f=93559255)
 - [Hi everyone yes, I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
 - [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
 - [Bioluminescent petunias now available for U.S. market](https://lgrmag.com/news/light-bio-to-introduce-bioluminescent-petunias-into-u-s-market/)
