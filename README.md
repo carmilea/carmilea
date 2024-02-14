@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Is Common Lisp Not the Most Popular Programming Language?](https://daninus14.github.io/posts/Why-is-Common-Lisp-not-the-Most-Popular-Programming-Language.html)
+- [I Went to FOSDEM](https://leejo.github.io/2024/02/14/fosdem/)
 - [I Fucking Hate Jira &lpar;2022&rpar;](https://ifuckinghatejira.com)
 - [Amazon Sued over Prime Video Ads: Class-Action Suit Alleges Deception](https://variety.com/2024/digital/news/amazon-prime-video-ads-lawsuit-class-action-1235910694/)
 - [Nanoplastics in water – surprisingly large amounts discovered and its not good](https://molecularspec.substack.com/p/nanoplastics-in-water-surprisingly)
-- [The happiest kids in the world have social safety nets](https://www.mother.ly/parenting/social-safety-net/)
-- [Inside the proton, the ‘most complicated thing you could possibly imagine’](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
