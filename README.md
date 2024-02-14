@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [X-ray survey bolsters prevailing theory of universe&#39;s expansion](https://www.science.org/content/article/x-ray-survey-bolsters-prevailing-theory-of-universes-expansion)
-- [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
-- [How to summarize YouTube videos using artificial intelligence](https://implementing.substack.com/p/how-to-summarize-youtube-video-using)
-- [UC Berkley: World Model on Million-Length Video and Language with RingAttention](https://largeworldmodel.github.io/)
-- [Quarto](https://quarto.org/)
+- [Lightdash &lpar;YC S20&rpar; Is hiring an analytics engineering advocate](https://www.ycombinator.com/companies/hubble/jobs/IZ0giSa-analytics-engineering-advocate)
+- [Xonsh: Python-powered, cross-platform, Unix-gazing shell](https://github.com/xonsh/xonsh)
+- [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
+- [I Grew My Substack from 439 to 451 Free Subscribers in Just 11 Months](https://shadesofgreaves.substack.com/p/how-i-grew-my-substack-from-439-to)
+- [Popular XMPP App &quot;Conversations&quot; Removed from PlayStore by Google](https://gultsch.social/@daniel/111929074071688694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
