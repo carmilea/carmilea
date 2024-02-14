@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PySimpleGUI 4 will be sunsetted in Q2 2024](https://docs.PySimpleGUI.com/en/latest/readme/sunset/)
+- [Australian Federal Police would repeat undercover operation on autistic teenager](https://www.abc.net.au/news/2024-02-14/afp-says-it-would-repeat-undercover-terror-operation-on-autistic/103467546)
 - [What made Earth a giant snowball 700M years ago? Scientists have an answer](https://www.sydney.edu.au/news-opinion/news/2024/02/08/geoscientists-discover-what-turned-snowball-earth-sturtian-ice-age-earthbyte.html)
 - [The history of Digital Research&#39;s Gemdos for the Atari ST](http://cd.textfiles.com/crawlycrypt1/program/books/progem/gemdos.15)
 - [Lightdash &lpar;YC S20&rpar; Is hiring an analytics engineering advocate](https://www.ycombinator.com/companies/hubble/jobs/IZ0giSa-analytics-engineering-advocate)
-- [Grade Inflation at UC Riverside, and Institutional Pressures for Easier Grading](http://schwitzsplinters.blogspot.com/2024/02/grade-inflation-at-uc-riverside-and.html)
-- [Xonsh: Python-powered, cross-platform, Unix-gazing shell](https://github.com/xonsh/xonsh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
