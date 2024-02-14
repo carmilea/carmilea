@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X-ray survey bolsters prevailing theory of universe&#39;s expansion](https://www.science.org/content/article/x-ray-survey-bolsters-prevailing-theory-of-universes-expansion)
 - [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
 - [How to summarize YouTube videos using artificial intelligence](https://implementing.substack.com/p/how-to-summarize-youtube-video-using)
 - [UC Berkley: World Model on Million-Length Video and Language with RingAttention](https://largeworldmodel.github.io/)
 - [Quarto](https://quarto.org/)
-- [Hi everyone yes, I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
