@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Andrej Karpathy: I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
+- [Mark Zuckerberg on Apple Vision Pro](https://www.instagram.com/zuck/reel/C3TkhmivNzt/)
+- [Broadcom-owned VMware kills the free version of ESXi virtualization software](https://arstechnica.com/information-technology/2024/02/broadcom-owned-vmware-kills-the-free-version-of-esxi-virtualization-software/)
 - [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
 - [Bioluminescent petunias now available for U.S. market](https://lgrmag.com/news/light-bio-to-introduce-bioluminescent-petunias-into-u-s-market/)
-- [Show HN: Instantly play the game I&#39;m developing directly on its website](https://athenacrisis.com)
-- [Protein biomarkers predict dementia 15 years before diagnosis in new study](https://warwick.ac.uk/newsandevents/pressreleases/?newsItem=8a17841a8d79730b018d9e2bbb0e054b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
