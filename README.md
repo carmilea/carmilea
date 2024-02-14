@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Florida Cop Empties His Gun, Runs for Cover After Acorn Falls on Car](https://jalopnik.com/florida-cop-empties-his-gun-runs-for-cover-after-acorn-1851255383)
-- [Canadian federal government will stop investing in new road infrastructure](https://www.cbc.ca/news/politics/guilbeault-no-new-roads-1.7114867)
+- [Meta&#39;s big vision for face computers might be better than Apple&#39;s](https://www.theverge.com/2024/2/14/24070729/ray-ban-meta-smart-glasses-apple-vision-pro-ar-vr)
+- [Things We Didn&#39;t Know About Ourselves](https://kk.org/thetechnium/things-we-didnt-know-about-ourselves/)
+- [Show HN: Reor – An AI note-taking app that runs models locally](https://github.com/reorproject/reor)
 - [Reverse-engineering an encrypted IoT protocol](https://smlx.dev/posts/goodwe-sems-protocol-teardown/)
-- [Show HN: You don&#39;t need to adopt new tools for LLM observability](https://github.com/traceloop/openllmetry-js)
-- [US Military notifies 20k of data breach after cloud email leak](https://techcrunch.com/2024/02/14/department-defense-data-breach-microsoft-cloud-email/)
+- [YC: Requests for Startups](https://www.ycombinator.com/rfs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
