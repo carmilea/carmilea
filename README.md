@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fella Health &lpar;YC W20&rpar; Is Hiring](https://www.ycombinator.com/companies/fella-health/jobs/DgPldJf-lifecycle-marketing-lead)
-- [Google enables OS upgrades for older PCs post-Windows 10 support cutoff](https://www.reuters.com/technology/google-enables-os-upgrades-older-pcs-post-windows-10-support-cutoff-2024-02-14/)
-- [Four SpaceX rockets on four launch pads in Florida, California, and Texas](https://twitter.com/SpaceX/status/1757880623115714837)
-- [Indian government moves to ban ProtonMail after bomb threat](https://www.androidcentral.com/apps-software/indian-government-moves-to-ban-protonmail-after-bomb-threat)
-- [Goodbye Auth0](https://www.joshcanhelp.com/goodbye-auth0/)
+- [Managing mutable data in Elixir with Rust](https://www.lambdafunctions.com/articles/elixir-and-rust)
+- [&quot;I&#39;m sorry, Dave. I&#39;m afraid that computation is too carbon intensive.&quot;](https://shkspr.mobi/blog/2024/02/im-sorry-dave-im-afraid-that-computation-is-too-carbon-intensive/)
+- [Google is making a map of methane leaks for the whole world to see](https://www.businessinsider.com/google-map-methane-leaks-world-can-see-2024-2)
+- [Why the Serverless Revolution Has Stalled](https://www.infoq.com/articles/serverless-stalled/)
+- [UK Fell into Recession in 2023](https://www.bbc.co.uk/news/business-52986863)
 <!-- BLOG-POST-LIST:END -->
 
 ---
