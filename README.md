@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Internal tools often make bad startup ideas](https://philosophicalhacker.substack.com/p/internal-tools-often-make-bad-startup)
-- [Why is Common Lisp not the most popular programming language?](https://daninus14.github.io/posts/Why-is-Common-Lisp-not-the-Most-Popular-Programming-Language.html)
-- [I Went to FOSDEM](https://leejo.github.io/2024/02/14/fosdem/)
-- [Inside the proton, the ‘most complicated thing you could possibly imagine’](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
-- [Holepunch Unveils P2P Platform &quot;Pear Runtime&quot;](https://pears.com/news/holepunch-unveils-groundbreaking-open-source-peer-to-peer-app-development-platform-pear-runtime/)
+- [Show HN: Gitlab Meeting Simulator 2024](https://benjamin-brady.github.io/gitlab-simulator/)
+- [Tesla&#39;s Cybertrucks are rusting despite stainless steel](https://jalopnik.com/why-tesla-cybertrucks-are-rusting-despite-being-made-of-1851257091)
+- [How to copy a file between devices?](https://grdw.nl/2022/10/03/how-to-copy-a-file-between-devices.html)
+- [Terence Tao, &quot;Machine Assisted Proof&quot; [video]](https://www.youtube.com/watch?v=AayZuuDDKP0)
+- [Researchers have developed a beef-rice hybrid](https://www.scimex.org/newsfeed/youve-heard-of-lab-grown-meat-are-you-ready-for-rice-grown-beef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
