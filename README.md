@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Vision Nope: Why I returned mine](https://www.jorgeherskovic.net/apple-vision-nope/)
+- [Chlormequat in food and urine from adults in the United States from 2017 to 2023](https://www.nature.com/articles/s41370-024-00643-4)
+- [Gemini 1.5 Pro](https://twitter.com/JeffDean/status/1758146022726041615)
 - [Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
-- [How I got scammed out of $50k](https://www.thecut.com/article/amazon-scam-call-ftc-arrest-warrants.html)
 - [Show HN: Dstack – an open-source engine for running GPU workloads](https://dstack.ai/)
-- [GitHub now officially supports polar.sh as a funding platform](https://twitter.com/birk/status/1758087210211909649)
-- [How deceptive design is used to compromise your privacy and how to fight back](https://consciousdigital.org/deceptive-design-patterns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
