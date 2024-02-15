@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
+- [How I got scammed out of $50k](https://www.thecut.com/article/amazon-scam-call-ftc-arrest-warrants.html)
+- [Show HN: Dstack – an open-source engine for running GPU workloads](https://dstack.ai/)
 - [GitHub now officially supports polar.sh as a funding platform](https://twitter.com/birk/status/1758087210211909649)
 - [How deceptive design is used to compromise your privacy and how to fight back](https://consciousdigital.org/deceptive-design-patterns/)
-- [Why software &#39;security debt&#39; is becoming a serious problem for developers](https://www.itpro.com/security/why-software-security-debt-is-becoming-a-serious-problem-for-developers)
-- [Managing mutable data in Elixir with Rust](https://www.lambdafunctions.com/articles/elixir-and-rust)
-- [“I&#39;m sorry, Dave. I&#39;m afraid that computation is too carbon intensive”](https://shkspr.mobi/blog/2024/02/im-sorry-dave-im-afraid-that-computation-is-too-carbon-intensive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
