@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Problem solving across 100,633 lines of code – Gemini 1.5 Pro Demo [video]](https://www.youtube.com/watch?v=SSnsmqIj1MI)
-- [EU DMA requirements have killed iPhone progressive web apps](https://appleinsider.com/articles/24/02/15/apple-blames-new-law-for-why-progressive-web-apps-dont-work-right-in-the-eu)
-- [Apple confirms iOS 17.4 removes Home Screen web apps in the EU](https://9to5mac.com/2024/02/15/ios-17-4-web-apps-european-union/)
-- [The reasons people are sending back their Apple Vision Pro headsets](https://www.techradar.com/computing/virtual-reality-augmented-reality/the-3-reasons-people-are-sending-back-their-apple-vision-pro-headsets)
-- [Sora: Creating video from text](https://openai.com/sora)
+- [uv: Python Packaging in Rust](https://astral.sh/blog/uv)
+- [Sam Altman owns OpenAI&#39;s venture capital fund](https://www.axios.com/2024/02/15/sam-altman-openai-startup-fund)
+- [Hello world: meet قلب &lpar;Qalb&rpar; a programming language based on Arabic script](https://www.theverge.com/2013/1/25/3914150/alb-programming-language-based-on-arabic-script)
+- [Plastics producers deceived public about recycling, report reveals](https://www.theguardian.com/us-news/2024/feb/15/recycling-plastics-producers-report)
+- [PWAs wont replace native iOS apps](https://app.campsite.co/campsite/p/notes/rengvq2txami)
 <!-- BLOG-POST-LIST:END -->
 
 ---
