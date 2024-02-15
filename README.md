@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring an API Designer in Paris &lpar;Node, Rust&rpar;](https://news.ycombinator.com/item?id=39379882)
 - [Greybeard&#39;s tomb: the lost treasure of language design &lpar;2019&rpar;](https://michael.orlitzky.com/articles/greybeards_tomb:_the_lost_treasure_of_language_design.xhtml)
+- [Reverse engineering a forgotten 1970s Intel dual core beast: 8271, a new ISA](https://scarybeastsecurity.blogspot.com/2020/11/reverse-engineering-forgotten-1970s.html)
 - [Show HN: Aldi Price Map](https://www.aldipricemap.com/navel_oranges.html)
 - [Anonymous Block Forwarding in Ruby](https://www.writesoftwarewell.com/anonymous-block-forwarding-in-ruby/)
-- [Show HN: NeuralFlow – Visualize the intermediate output of Mistral 7B](https://github.com/valine/NeuralFlow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
