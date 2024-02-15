@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Netflix Logo with Yarn was a lie](https://kevinparry.tv/blog/i-lied-about-recreating-the-netflix-intro)
+- [Free Nginx](https://freenginx.org/)
+- [Show HN: Aldi&#39;s Price Map](https://www.aldipricemap.com/navel_oranges.html)
+- [Anonymous Block Forwarding in Ruby](https://www.writesoftwarewell.com/anonymous-block-forwarding-in-ruby/)
 - [Show HN: NeuralFlow – Visualize the intermediate output of Mistral 7B](https://github.com/valine/NeuralFlow)
 - [Antagonistic AI](https://arxiv.org/abs/2402.07350)
-- [Nobel Prize winner Gregg Semenza tallies tenth retraction](https://retractionwatch.com/2023/10/02/nobel-prize-winner-gregg-semenza-tallies-tenth-retraction/)
-- [What you&#39;ve got is in fact a people problem](https://blog.glyph.im/2024/02/let-me-tell-you-a-secret.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
