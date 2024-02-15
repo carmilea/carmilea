@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fella Health &lpar;YC W20&rpar; Is Hiring](https://www.ycombinator.com/companies/fella-health/jobs/DgPldJf-lifecycle-marketing-lead)
+- [Google enables OS upgrades for older PCs post-Windows 10 support cutoff](https://www.reuters.com/technology/google-enables-os-upgrades-older-pcs-post-windows-10-support-cutoff-2024-02-14/)
+- [Four SpaceX rockets on four launch pads in Florida, California, and Texas](https://twitter.com/SpaceX/status/1757880623115714837)
+- [Indian government moves to ban ProtonMail after bomb threat](https://www.androidcentral.com/apps-software/indian-government-moves-to-ban-protonmail-after-bomb-threat)
 - [Goodbye Auth0](https://www.joshcanhelp.com/goodbye-auth0/)
-- [Why the EU needs more integrated electricity markets](https://www.bruegel.org/policy-brief/unity-power-power-unity-why-eu-needs-more-integrated-electricity-markets)
-- [Apple fans are starting to return their Vision Pros](https://www.theverge.com/2024/2/14/24072792/apple-vision-pro-early-adopters-returns)
-- [OpenAI – Application for US trademark &quot;GPT&quot; has failed](https://tsdr.uspto.gov/documentviewer?caseId=sn97733259&docId=FREF20240206125856&linkId=1#docIndex=0&page=1)
-- [PhotoRoom &lpar;YC S20&rpar; Is Hiring an API Designer in Paris &lpar;Node, Rust&rpar;](https://news.ycombinator.com/item?id=39379882)
 <!-- BLOG-POST-LIST:END -->
 
 ---
