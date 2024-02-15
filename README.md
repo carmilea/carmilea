@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Goodbye Auth0](https://www.joshcanhelp.com/goodbye-auth0/)
 - [Why the EU needs more integrated electricity markets](https://www.bruegel.org/policy-brief/unity-power-power-unity-why-eu-needs-more-integrated-electricity-markets)
+- [Apple fans are starting to return their Vision Pros](https://www.theverge.com/2024/2/14/24072792/apple-vision-pro-early-adopters-returns)
 - [OpenAI – Application for US trademark &quot;GPT&quot; has failed](https://tsdr.uspto.gov/documentviewer?caseId=sn97733259&docId=FREF20240206125856&linkId=1#docIndex=0&page=1)
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring an API Designer in Paris &lpar;Node, Rust&rpar;](https://news.ycombinator.com/item?id=39379882)
-- [DockGuard: The easiest way to backup your Docker containers](https://github.com/daanschenkel/DockGuard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
