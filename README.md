@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Antagonistic AI](https://arxiv.org/abs/2402.07350)
 - [Nobel Prize winner Gregg Semenza tallies tenth retraction](https://retractionwatch.com/2023/10/02/nobel-prize-winner-gregg-semenza-tallies-tenth-retraction/)
 - [What you&#39;ve got is in fact a people problem](https://blog.glyph.im/2024/02/let-me-tell-you-a-secret.html)
-- [Why Americans Suddenly Stopped Hanging Out](https://www.theatlantic.com/ideas/archive/2024/02/america-decline-hanging-out/677451/)
 - [Air Canada is responsible for chatbot&#39;s mistake: B.C. tribunal](https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454)
-- [gpulist – Craigslist for GPUs](https://gpulist.ai/)
+- [Gpulist – Craigslist for GPUs](https://gpulist.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
