@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU to make AI generated child abuse material criminal](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_631)
-- [Bitcoin could support renewable energy development](https://news.cornell.edu/stories/2023/11/bitcoin-could-support-renewable-energy-development)
-- [Finley &lpar;YC W21&rpar; Is a Fintech Hiring Software Engineers &lpar;US Remote&rpar;](https://www.finleycms.com/careers/)
-- [I&#39;m eating raw chicken every day for 100 days – or until I&#39;m hospitalized](https://nypost.com/2024/02/13/lifestyle/florida-man-eating-raw-chicken-every-day-for-100-days/)
-- [Air Force OKs Autonomous Cargo Flights Across California After Successful Test](https://timesofsandiego.com/military/2024/02/14/air-force-oks-autonomous-cargo-flights-across-california-after-successful-test/)
+- [Sora: Creating video from text](https://openai.com/sora)
+- [Senate Poised to Pass Kids Online Safety Act KOSA](https://www.washingtonpost.com/technology/2024/02/15/kids-online-safety-act-kosa-senate/)
+- [University of Michigan selling student speech and papers as LLM training data](https://llm-academic-speech-data.catalystresearch.io/)
+- [Launch HN: Zenfetch &lpar;YC W23&rpar; – Turn notes/browser history into a GPT assistant](https://news.ycombinator.com/item?id=39385635)
+- [Feds want to ban the Flipper Zero – Experts say it&#39;s a scapegoat](https://www.vice.com/en/article/4a388g/flipper-zero-ban-canada-hacking-car-thefts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
