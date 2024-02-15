@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Americans Suddenly Stopped Hanging Out](https://www.theatlantic.com/ideas/archive/2024/02/america-decline-hanging-out/677451/)
+- [Air Canada liable for misleading information provided by service chatbot](https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454)
+- [gpulist – Craigslist for GPUs](https://gpulist.ai/)
 - [Show HN: Gitlab Meeting Simulator 2024](https://benjamin-brady.github.io/gitlab-simulator/)
-- [Tesla&#39;s Cybertrucks are rusting despite stainless steel](https://jalopnik.com/why-tesla-cybertrucks-are-rusting-despite-being-made-of-1851257091)
 - [How to copy a file between devices?](https://grdw.nl/2022/10/03/how-to-copy-a-file-between-devices.html)
-- [Terence Tao, &quot;Machine Assisted Proof&quot; [video]](https://www.youtube.com/watch?v=AayZuuDDKP0)
-- [Researchers have developed a beef-rice hybrid](https://www.scimex.org/newsfeed/youve-heard-of-lab-grown-meat-are-you-ready-for-rice-grown-beef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
