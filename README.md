@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem solving across 100,633 lines of code – Gemini 1.5 Pro Demo [video]](https://www.youtube.com/watch?v=SSnsmqIj1MI)
+- [EU DMA requirements have killed iPhone progressive web apps](https://appleinsider.com/articles/24/02/15/apple-blames-new-law-for-why-progressive-web-apps-dont-work-right-in-the-eu)
+- [Apple confirms iOS 17.4 removes Home Screen web apps in the EU](https://9to5mac.com/2024/02/15/ios-17-4-web-apps-european-union/)
+- [The reasons people are sending back their Apple Vision Pro headsets](https://www.techradar.com/computing/virtual-reality-augmented-reality/the-3-reasons-people-are-sending-back-their-apple-vision-pro-headsets)
 - [Sora: Creating video from text](https://openai.com/sora)
-- [Senate Poised to Pass Kids Online Safety Act KOSA](https://www.washingtonpost.com/technology/2024/02/15/kids-online-safety-act-kosa-senate/)
-- [University of Michigan selling student speech and papers as LLM training data](https://llm-academic-speech-data.catalystresearch.io/)
-- [Launch HN: Zenfetch &lpar;YC W23&rpar; – Turn notes/browser history into a GPT assistant](https://news.ycombinator.com/item?id=39385635)
-- [Feds want to ban the Flipper Zero – Experts say it&#39;s a scapegoat](https://www.vice.com/en/article/4a388g/flipper-zero-ban-canada-hacking-car-thefts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
