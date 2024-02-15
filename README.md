@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Vision Nope: Why I returned mine](https://www.jorgeherskovic.net/apple-vision-nope/)
-- [Chlormequat in food and urine from adults in the United States from 2017 to 2023](https://www.nature.com/articles/s41370-024-00643-4)
-- [Gemini 1.5 Pro](https://twitter.com/JeffDean/status/1758146022726041615)
-- [Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
-- [Show HN: Dstack – an open-source engine for running GPU workloads](https://dstack.ai/)
+- [EU to make AI generated child abuse material criminal](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_631)
+- [Bitcoin could support renewable energy development](https://news.cornell.edu/stories/2023/11/bitcoin-could-support-renewable-energy-development)
+- [Finley &lpar;YC W21&rpar; Is a Fintech Hiring Software Engineers &lpar;US Remote&rpar;](https://www.finleycms.com/careers/)
+- [I&#39;m eating raw chicken every day for 100 days – or until I&#39;m hospitalized](https://nypost.com/2024/02/13/lifestyle/florida-man-eating-raw-chicken-every-day-for-100-days/)
+- [Air Force OKs Autonomous Cargo Flights Across California After Successful Test](https://timesofsandiego.com/military/2024/02/14/air-force-oks-autonomous-cargo-flights-across-california-after-successful-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
