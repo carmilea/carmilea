@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub now officially supports polar.sh as a funding platform](https://twitter.com/birk/status/1758087210211909649)
+- [How deceptive design is used to compromise your privacy and how to fight back](https://consciousdigital.org/deceptive-design-patterns/)
+- [Why software &#39;security debt&#39; is becoming a serious problem for developers](https://www.itpro.com/security/why-software-security-debt-is-becoming-a-serious-problem-for-developers)
 - [Managing mutable data in Elixir with Rust](https://www.lambdafunctions.com/articles/elixir-and-rust)
-- [&quot;I&#39;m sorry, Dave. I&#39;m afraid that computation is too carbon intensive.&quot;](https://shkspr.mobi/blog/2024/02/im-sorry-dave-im-afraid-that-computation-is-too-carbon-intensive/)
-- [Google is making a map of methane leaks for the whole world to see](https://www.businessinsider.com/google-map-methane-leaks-world-can-see-2024-2)
-- [Why the Serverless Revolution Has Stalled](https://www.infoq.com/articles/serverless-stalled/)
-- [UK Fell into Recession in 2023](https://www.bbc.co.uk/news/business-52986863)
+- [“I&#39;m sorry, Dave. I&#39;m afraid that computation is too carbon intensive”](https://shkspr.mobi/blog/2024/02/im-sorry-dave-im-afraid-that-computation-is-too-carbon-intensive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
