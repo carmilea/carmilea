@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Georgia Attorney-General claims that not having a phone makes you a criminal](https://georgiarecorder.com/2024/02/12/georgia-ag-claims-not-having-a-phone-makes-you-a-criminal/)
+- [Coinbase swings to profit on interest income strength](https://www.nasdaq.com/articles/coinbase-swings-to-profit-on-interest-income-strength)
 - [Build your own 3D printed Hexapod](https://github.com/MakeYourPet/hexapod)
 - [Apple confirms it&#39;s breaking iPhone web apps in the EU on purpose](https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/)
 - [Building an LLM from Scratch: Automatic Differentiation](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
