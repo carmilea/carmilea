@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The U.S. Government Will Soon Spend More on Interest Payments Than Defense](https://www.wsj.com/finance/the-u-s-government-will-soon-spend-more-on-interest-payments-than-defense-ee6fbeec)
+- [Forgetting the history of Unix is coding us into a corner](https://www.theregister.com/2024/02/16/what_is_unix/)
+- [Data Structures as Topological Spaces &lpar;2002&rpar; [pdf]](http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf)
 - [Nvidia GeForce RTX 2080 Ti with 22GB Memory Appears on eBay for USD500](https://www.tomshardware.com/pc-components/gpus/chinese-workshops-recondition-nvidias-old-flagship-gaming-gpu-for-ai-rtx-2080-ti-upgraded-to-22gb-for-dollar499)
 - [Alexei Navalny has died – authorities](https://www.reuters.com/world/europe/jailed-russian-opposition-leader-navalny-dead-prison-service-2024-02-16/)
 - [Guix on the Framework 13 AMD](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
-- [German credit agency earns millions through unlawful customer manipulation](https://noyb.eu/en/german-credit-agency-earns-millions-through-unlawful-customer-manipulation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
