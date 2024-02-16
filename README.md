@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon joins companies arguing US labor board is unconstitutional](https://www.reuters.com/technology/amazon-joins-companies-arguing-us-labor-board-is-unconstitutional-2024-02-16/)
-- [Did You Know: Burger King Had a Windows 7 Whopper with 7 Stacked Beef Patties](https://news.softpedia.com/news/did-you-know-burger-king-had-a-windows-7-whopper-with-7-stacked-beef-patties-529410.shtml)
+- [Training LLMs to Generate Text with Citations via Fine-Grained Rewards](https://arxiv.org/abs/2402.04315)
+- [How to keep engineers out of meeting hell](https://morethancoding.com/2024/02/16/how-to-keep-engineers-out-of-meeting-hell/)
+- [We stopped building cut and cover](https://worksinprogress.co/issue/why-we-stopped-building-cut-and-cover/)
+- [LWM – Open LLM with 1M Tokens Context Window](https://github.com/LargeWorldModel/LWM)
 - [My Sixth Year as a Bootstrapped Founder](https://mtlynch.io/solo-developer-year-6/)
-- [$5 device accurately tests for breast cancer in under 5 seconds](https://studyfinds.org/device-breast-cancer-5-seconds/)
-- [The Emacsen family, the design of an Emacs and the importance of Lisp &lpar;2023&rpar;](https://emacsconf.org/2023/talks/emacsen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
