@@ -60,7 +60,7 @@
 - [EFF&#39;s &lpar;Extended&rpar; Guide to the Internet circa 1994](https://www.whitman.edu/mathematics/eegtti/eeg_toc.html)
 - [Orgzly Revived: a community-maintained version of Orgzly](https://github.com/orgzly-revived/orgzly-android-revived)
 - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
-- [Firefly III: A free and open source personal finance manager](https://www.firefly-iii.org/)
+- [Show HN: I made a Pinterest clone using SigLIP image embeddings](https://mood-amber.vercel.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
