@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
+- [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
+- [It Was 33 Years Ago Today: Happy Birthday Lemmings](https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/)
 - [Show HN: Galactic Compass – an app that points to the galactic center](https://interconnected.org/home/2024/02/15/galactic-compass)
 - [Remote user impersonation and takeover via cache poisoning in Mastodon](https://arcanican.is/excerpts/cve-2024-23832/discovery.htm)
-- [Breaking BFT: Quantifying the cost to attack Bitcoin and Ethereum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4727999)
-- [Passing stars changed the orbits of planets in the solar system](https://www.universetoday.com/165727/passing-stars-changed-the-orbits-of-planets-in-the-solar-system/)
-- [Build your own 3D printed Hexapod](https://github.com/MakeYourPet/hexapod)
 <!-- BLOG-POST-LIST:END -->
 
 ---
