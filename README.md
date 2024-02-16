@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Corruption Pervades Police Forces in Australia and the United Kingdom &lpar;2023&rpar;](https://www.sydneycriminallawyers.com.au/blog/corruption-pervades-police-forces-in-australia-and-the-united-kingdom/)
 - [GPU synchronization in Godot 4.3 is getting a major upgrade](https://godotengine.org/article/rendering-acyclic-graph/)
-- [I Regret My $46k Website Redesign](https://mtlynch.io/tinypilot-redesign/)
-- [Air Canada must honor refund policy invented by airline&#39;s chatbot](https://arstechnica.com/tech-policy/2024/02/air-canada-must-honor-refund-policy-invented-by-airlines-chatbot/)
-- [Why do military personnel wear watches upside down?](https://smithandbradley.com/blogs/blog/why-do-military-personnel-wear-watches-upside-down)
-- [Dear writers: Delete your Findaway Voices account NOW](https://mwl.io/archives/23448)
+- [Findaway&#39;s new terms of service are unacceptable](https://mwl.io/archives/23448)
+- [Training LLMs to generate text with citations via fine-grained rewards](https://arxiv.org/abs/2402.04315)
+- [UI = F&lpar;statesⁿ&rpar;](https://daverupert.com/2024/02/ui-states/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
