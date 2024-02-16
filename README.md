@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Corruption Pervades Police Forces in Australia and the United Kingdom &lpar;2023&rpar;](https://www.sydneycriminallawyers.com.au/blog/corruption-pervades-police-forces-in-australia-and-the-united-kingdom/)
+- [The seventh most popular easily understood unsolved problem on MathOverflow](https://mathstodon.xyz/@johncarlosbaez/111942324712561452)
 - [GPU synchronization in Godot 4.3 is getting a major upgrade](https://godotengine.org/article/rendering-acyclic-graph/)
+- [Popular Git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
 - [Findaway&#39;s new terms of service are unacceptable](https://mwl.io/archives/23448)
 - [Training LLMs to generate text with citations via fine-grained rewards](https://arxiv.org/abs/2402.04315)
-- [UI = F&lpar;statesⁿ&rpar;](https://daverupert.com/2024/02/ui-states/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
