@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Tesla&#39;s Stainless Steel Cybertrucks May Be Rusting](https://www.wired.com/story/this-is-why-teslas-stainless-steel-cybertrucks-may-be-rusting/)
+- [Coding in Vision Pro](https://willem.com/blog/2024-02-16_vision-pro/)
 - [Plastic industry knew recycling was a farce for decades](https://www.euronews.com/green/2024/02/16/plastic-industry-knew-recycling-was-a-farce-for-decades-yet-deceived-the-public-report-rev)
 - [The majority of traffic from X may have been fake during the Super Bowl](https://mashable.com/article/x-twitter-elon-musk-bots-fake-traffic)
 - [Recording and visualising the 20k system calls it takes to &quot;import seaborn&quot;](http://blog.mattstuchlik.com/2024/02/16/counting-syscalls-in-python.html)
