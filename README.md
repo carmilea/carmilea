@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [German credit agency earns millions through unlawful customer manipulation](https://noyb.eu/en/german-credit-agency-earns-millions-through-unlawful-customer-manipulation)
+- [Trading Trust](https://seths.blog/2024/02/trading-trust/)
 - [Kagi Changelog 2/13: Faster and more accurate instant answers and Wikipedia page](https://kagi.com/changelog#3179)
 - [EFF&#39;s &lpar;Extended&rpar; Guide to the Internet circa 1994](https://www.whitman.edu/mathematics/eegtti/eeg_toc.html)
 - [Orgzly Revived: a community-maintained version of Orgzly](https://github.com/orgzly-revived/orgzly-android-revived)
-- [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
-- [Show HN: I made a Pinterest clone using SigLIP image embeddings](https://mood-amber.vercel.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
