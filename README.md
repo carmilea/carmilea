@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kagi Changelog 2/13: Faster and more accurate instant answers and Wikipedia page](https://kagi.com/changelog#3179)
+- [EFF&#39;s &lpar;Extended&rpar; Guide to the Internet circa 1994](https://www.whitman.edu/mathematics/eegtti/eeg_toc.html)
 - [Orgzly Revived: a community-maintained version of Orgzly](https://github.com/orgzly-revived/orgzly-android-revived)
-- [YouTube Introduces Remixes](https://blog.youtube/news-and-events/youtube-shorts-remix/)
 - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
-- [Show HN: I made a Pinterest clone using SigLIP image embeddings](https://mood-amber.vercel.app)
 - [Firefly III: A free and open source personal finance manager](https://www.firefly-iii.org/)
 <!-- BLOG-POST-LIST:END -->
 
