@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon joins companies arguing US labor board is unconstitutional](https://www.reuters.com/technology/amazon-joins-companies-arguing-us-labor-board-is-unconstitutional-2024-02-16/)
+- [Did You Know: Burger King Had a Windows 7 Whopper with 7 Stacked Beef Patties](https://news.softpedia.com/news/did-you-know-burger-king-had-a-windows-7-whopper-with-7-stacked-beef-patties-529410.shtml)
+- [My Sixth Year as a Bootstrapped Founder](https://mtlynch.io/solo-developer-year-6/)
 - [$5 device accurately tests for breast cancer in under 5 seconds](https://studyfinds.org/device-breast-cancer-5-seconds/)
 - [The Emacsen family, the design of an Emacs and the importance of Lisp &lpar;2023&rpar;](https://emacsconf.org/2023/talks/emacsen/)
-- [You Sound Like a Bot](https://www.theverge.com/24067999/ai-bot-chatgpt-chatbot-dungeon)
-- [Erlang/OTP 27.0 Release Candidate 1](https://www.erlang.org/news/167)
-- [How much electricity does AI consume?](https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption)
 <!-- BLOG-POST-LIST:END -->
 
 ---
