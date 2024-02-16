@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cybertruck Owners Say They&#39;re Already Rusting](https://futurism.com/cybertruck-owners-already-rusting)
+- [Orgzly Revived: a community-maintained version of Orgzly](https://github.com/orgzly-revived/orgzly-android-revived)
+- [YouTube Introduces Remixes](https://blog.youtube/news-and-events/youtube-shorts-remix/)
 - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
-- [Air Canada must pay damages – chatbot lies to grieving passenger about discount](https://www.theregister.com/2024/02/15/air_canada_chatbot_fine/)
 - [Show HN: I made a Pinterest clone using SigLIP image embeddings](https://mood-amber.vercel.app)
 - [Firefly III: A free and open source personal finance manager](https://www.firefly-iii.org/)
 <!-- BLOG-POST-LIST:END -->
