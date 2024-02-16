@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybertruck Owners Say They&#39;re Already Rusting](https://futurism.com/cybertruck-owners-already-rusting)
+- [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
+- [Air Canada must pay damages – chatbot lies to grieving passenger about discount](https://www.theregister.com/2024/02/15/air_canada_chatbot_fine/)
 - [Show HN: I made a Pinterest clone using SigLIP image embeddings](https://mood-amber.vercel.app)
 - [Firefly III: A free and open source personal finance manager](https://www.firefly-iii.org/)
-- [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
-- [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
-- [Happy Birthday Lemmings](https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
