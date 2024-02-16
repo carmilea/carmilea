@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The majority of traffic from X may have been fake during the Super Bowl](https://mashable.com/article/x-twitter-elon-musk-bots-fake-traffic)
+- [Show HN: Driftmania – an open source PICO-8 racing game](https://frenchie14.itch.io/driftmania)
+- [Paying people to work on open source is good](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/)
+- [If you&#39;re just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
 - [The seventh most popular easily understood unsolved problem on MathOverflow](https://mathstodon.xyz/@johncarlosbaez/111942324712561452)
-- [GPU synchronization in Godot 4.3 is getting a major upgrade](https://godotengine.org/article/rendering-acyclic-graph/)
-- [Popular Git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
-- [Findaway&#39;s new terms of service are unacceptable](https://mwl.io/archives/23448)
-- [Training LLMs to generate text with citations via fine-grained rewards](https://arxiv.org/abs/2402.04315)
 <!-- BLOG-POST-LIST:END -->
 
 ---
