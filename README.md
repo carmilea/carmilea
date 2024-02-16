@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Training LLMs to Generate Text with Citations via Fine-Grained Rewards](https://arxiv.org/abs/2402.04315)
-- [How to keep engineers out of meeting hell](https://morethancoding.com/2024/02/16/how-to-keep-engineers-out-of-meeting-hell/)
-- [We stopped building cut and cover](https://worksinprogress.co/issue/why-we-stopped-building-cut-and-cover/)
-- [LWM – Open LLM with 1M Tokens Context Window](https://github.com/LargeWorldModel/LWM)
-- [My Sixth Year as a Bootstrapped Founder](https://mtlynch.io/solo-developer-year-6/)
+- [GPU synchronization in Godot 4.3 is getting a major upgrade](https://godotengine.org/article/rendering-acyclic-graph/)
+- [I Regret My $46k Website Redesign](https://mtlynch.io/tinypilot-redesign/)
+- [Air Canada must honor refund policy invented by airline&#39;s chatbot](https://arstechnica.com/tech-policy/2024/02/air-canada-must-honor-refund-policy-invented-by-airlines-chatbot/)
+- [Why do military personnel wear watches upside down?](https://smithandbradley.com/blogs/blog/why-do-military-personnel-wear-watches-upside-down)
+- [Dear writers: Delete your Findaway Voices account NOW](https://mwl.io/archives/23448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
