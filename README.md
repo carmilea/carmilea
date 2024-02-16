@@ -60,7 +60,7 @@
 - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 - [It Was 33 Years Ago Today: Happy Birthday Lemmings](https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/)
 - [Show HN: Galactic Compass – an app that points to the galactic center](https://interconnected.org/home/2024/02/15/galactic-compass)
-- [Remote user impersonation and takeover via cache poisoning in Mastodon](https://arcanican.is/excerpts/cve-2024-23832/discovery.htm)
+- [What you need to know about the future of Mozilla Hubs](https://hubs.mozilla.com/labs/sunset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
