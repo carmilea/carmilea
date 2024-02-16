@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Publisher will no longer be supported after October 2026](https://support.microsoft.com/en-us/office/microsoft-publisher-will-no-longer-be-supported-after-october-2026-ee6302a2-4bc7-4841-babf-8e9be3acbfd7)
+- [Foods You Didn&#39;t Know You Could Freeze](https://menuaid.co.nz/blog/can-you-freeze/)
 - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 - [It Was 33 Years Ago Today: Happy Birthday Lemmings](https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/)
-- [Show HN: Galactic Compass – an app that points to the galactic center](https://interconnected.org/home/2024/02/15/galactic-compass)
-- [What you need to know about the future of Mozilla Hubs](https://hubs.mozilla.com/labs/sunset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
