@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My MacBook Setup &lpar;the 2024 version&rpar;](https://github.com/maoxiaoke/setup-a-mac-for-frontend-dev)
-- [Reddit signs $60M content licensing deal with AI company](https://www.reuters.com/technology/reddit-signs-content-licensing-deal-with-ai-company-ahead-ipo-bloomberg-reports-2024-02-16/)
+- [I Ended Up with Just 0.15% of My Own Startup](https://news.ycombinator.com/item?id=39410364)
+- [Show HN: macOS-cross-compiler – Compile binaries for macOS on Linux](https://github.com/shepherdjerred/macos-cross-compiler)
+- [The Ute Tribe will construct one of the largest solar farms in the US for $1B+](https://www.ksut.org/news/2024-02-15/ute-mountain-ute-tribe-will-construct-one-of-the-largest-solar-farms-in-the-u-s)
 - [The game theory of seduction and marriage with Jane Austen](https://www.optimallyirrational.com/p/the-game-theory-of-seduction-and)
 - [Greenmask: PostgreSQL Dump and Obfuscation Tool](https://github.com/GreenmaskIO/greenmask)
-- [Visualize Latent Spaces](https://github.com/enjalot/latent-scope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
