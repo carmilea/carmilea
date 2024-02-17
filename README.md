@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [From engineer to manager: what I love, what I hate](https://thoughtspile.github.io/2024/02/16/eng-to-em/)
 - [Raising Children on the Eve of AI](https://juliawise.net/raising-children-on-the-eve-of-ai/)
 - [Progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
+- [Agile Is a Tainted Term](https://www.pcloadletter.dev/blog/agile/)
 - [Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
-- [Why diets backfire: A year after weight loss, the desire to eat grows &lpar;2018&rpar;](https://www.latimes.com/science/sciencenow/la-sci-sn-weight-loss-hunger-20180202-story.html)
-- [Big Pharma spends billions more on executives and stockholders than on R&amp;D](https://arstechnica.com/science/2024/02/big-pharma-spends-billions-more-on-executives-and-stockholders-than-on-rd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
