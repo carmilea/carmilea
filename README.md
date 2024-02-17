@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raising Children on the Eve of AI](https://juliawise.net/raising-children-on-the-eve-of-ai/)
 - [Progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
-- [Three Six Mafia: A silly look at the value of an inch downstairs](https://divingintheshallowend.com/three-six-mafia/)
 - [Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
 - [Why diets backfire: A year after weight loss, the desire to eat grows &lpar;2018&rpar;](https://www.latimes.com/science/sciencenow/la-sci-sn-weight-loss-hunger-20180202-story.html)
-- [The adult consequences of being bullied in childhood](https://www.sciencedirect.com/science/article/pii/S0277953624001345)
+- [Big Pharma spends billions more on executives and stockholders than on R&amp;D](https://arstechnica.com/science/2024/02/big-pharma-spends-billions-more-on-executives-and-stockholders-than-on-rd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
