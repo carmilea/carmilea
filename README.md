@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Releasing my tools under the MIT License was probably a mistake](https://donatstudios.com/License-Grumbles)
+- [Signal v7.0.0 with phone number privacy](https://github.com/signalapp/Signal-Android/compare/v6.47.4...v7.0.0)
 - [Hitchhiking cancer vaccine makes progress in the clinic](https://news.mit.edu/2024/hitchhiking-cancer-vaccine-makes-progress-in-clinic-0215)
-- [Bevy 0.13: ECS-driven game engine built in Rust](https://bevyengine.org/news/bevy-0-13/)
-- [Unreal Engine 5 can now run in a web browser](https://www.pcgameshardware.de/Unreal-Engine-Software-239301/News/5-Entwickler-zeigt-Spiel-im-Browser-dank-WebGPU-1440861/)
-- [Inner Platform Effect](https://en.wikipedia.org/wiki/Inner-platform_effect)
-- [Headphone and Amp Impedance &lpar;2011&rpar;](http://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html)
+- [OS-Copilot Friday](https://os-copilot.github.io/)
+- [Run Llama 2 uncensored locally](https://ollama.com/blog/run-llama2-uncensored-locally)
 <!-- BLOG-POST-LIST:END -->
 
 ---
