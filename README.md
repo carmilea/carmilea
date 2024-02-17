@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Releasing my tools under the MIT License was probably a mistake](https://donatstudios.com/License-Grumbles)
+- [My Notes on Gitlab&#39;s Postgres Schema Design &lpar;2022&rpar;](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
+- [JSR first impressions: a JavaScript package manager by the Deno team](https://www.kitsonkelly.com/posts/jsr-first-impressions)
+- [Releasing my tools under the MIT License was probably a mistake &lpar;2023&rpar;](https://donatstudios.com/License-Grumbles)
 - [Signal v7.0.0 with phone number privacy](https://github.com/signalapp/Signal-Android/compare/v6.47.4...v7.0.0)
 - [Hitchhiking cancer vaccine makes progress in the clinic](https://news.mit.edu/2024/hitchhiking-cancer-vaccine-makes-progress-in-clinic-0215)
-- [OS-Copilot Friday](https://os-copilot.github.io/)
-- [Run Llama 2 uncensored locally](https://ollama.com/blog/run-llama2-uncensored-locally)
 <!-- BLOG-POST-LIST:END -->
 
 ---
