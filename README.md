@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The US military is embedded in the gaming world. Its target: teen recruits](https://www.theguardian.com/us-news/2024/feb/14/us-military-recruiting-video-games-targeting-teenagers)
+- [My MacBook Setup &lpar;the 2024 version&rpar;](https://github.com/maoxiaoke/setup-a-mac-for-frontend-dev)
+- [Reddit signs $60M content licensing deal with AI company](https://www.reuters.com/technology/reddit-signs-content-licensing-deal-with-ai-company-ahead-ipo-bloomberg-reports-2024-02-16/)
+- [The game theory of seduction and marriage with Jane Austen](https://www.optimallyirrational.com/p/the-game-theory-of-seduction-and)
 - [Greenmask: PostgreSQL Dump and Obfuscation Tool](https://github.com/GreenmaskIO/greenmask)
-- [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
-- [It’s Official, Apple Kills Web Apps in the EU](https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/)
-- [&quot;Stolen&quot; radio tower missing for at least a year](https://www.radiodiscussions.com/threads/wjlx-wjbe-and-werh-oh-my.769948/#post-6697751)
+- [Visualize Latent Spaces](https://github.com/enjalot/latent-scope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
