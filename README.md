@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to work 100 hours per week](https://drive.google.com/file/d/1WvUXLII8ffYXFN4Cjn19YKYyU_RrJV42/view?pli=1)
+- [OpenAI Completes Deal That Values the Company at $80B](https://www.nytimes.com/2024/02/16/technology/openai-artificial-intelligence-deal-valuation.html)
 - [Air Canada ordered to pay customer who was misled by airline&#39;s chatbot](https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit)
 - [GPlates: Open-source software for interactive visualisation of plate tectonics](https://www.gplates.org/)
 - [Pro CCP &#39;spamouflage&#39; network pivoting to focus on US election](https://www.isdglobal.org/digital_dispatches/pro-ccp-spamouflage-net-work-focuses-on-us-election/)
-- [Plastic industry knew recycling was a farce for decades](https://www.euronews.com/green/2024/02/16/plastic-industry-knew-recycling-was-a-farce-for-decades-yet-deceived-the-public-report-rev)
-- [How did humans survive alone for 1000 years on desert islands off Africa?](https://www.science.org/content/article/humans-survive-alone-1000-years-desert-islands-off-africa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
