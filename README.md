@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding in Vision Pro](https://willem.com/blog/2024-02-16_vision-pro/)
+- [Air Canada ordered to pay customer who was misled by airline&#39;s chatbot](https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit)
+- [GPlates: Open-source software for interactive visualisation of plate tectonics](https://www.gplates.org/)
+- [Pro CCP &#39;spamouflage&#39; network pivoting to focus on US election](https://www.isdglobal.org/digital_dispatches/pro-ccp-spamouflage-net-work-focuses-on-us-election/)
 - [Plastic industry knew recycling was a farce for decades](https://www.euronews.com/green/2024/02/16/plastic-industry-knew-recycling-was-a-farce-for-decades-yet-deceived-the-public-report-rev)
-- [The majority of traffic from X may have been fake during the Super Bowl](https://mashable.com/article/x-twitter-elon-musk-bots-fake-traffic)
-- [Recording and visualising the 20k system calls it takes to &quot;import seaborn&quot;](http://blog.mattstuchlik.com/2024/02/16/counting-syscalls-in-python.html)
-- [Show HN: Driftmania – an open source PICO-8 racing game](https://frenchie14.itch.io/driftmania)
+- [How did humans survive alone for 1000 years on desert islands off Africa?](https://www.science.org/content/article/humans-survive-alone-1000-years-desert-islands-off-africa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
