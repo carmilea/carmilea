@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The US military is embedded in the gaming world. Its target: teen recruits](https://www.theguardian.com/us-news/2024/feb/14/us-military-recruiting-video-games-targeting-teenagers)
+- [Greenmask: PostgreSQL Dump and Obfuscation Tool](https://github.com/GreenmaskIO/greenmask)
 - [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
 - [It’s Official, Apple Kills Web Apps in the EU](https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/)
 - [&quot;Stolen&quot; radio tower missing for at least a year](https://www.radiodiscussions.com/threads/wjlx-wjbe-and-werh-oh-my.769948/#post-6697751)
-- [Show HN: AI Generated &lpar;Not-Real&rpar; User Avatar Images for Development Needs](https://avatars.tzador.com/)
-- [Microsoft bets on Germany in 3.2B euro AI push](https://www.reuters.com/technology/microsoft-invest-32-bln-eur-germany-ai-push-2024-02-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
