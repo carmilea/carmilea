@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IPissed: Apple is after web capabilities to protect close-to-100B App Store Tax](https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/)
 - [&quot;Stolen&quot; radio tower missing for at least a year](https://www.radiodiscussions.com/threads/wjlx-wjbe-and-werh-oh-my.769948/#post-6697751)
+- [Show HN: AI Generated &lpar;Not-Real&rpar; User Avatar Images for Development Needs](https://avatars.tzador.com/)
 - [Microsoft bets on Germany in 3.2B euro AI push](https://www.reuters.com/technology/microsoft-invest-32-bln-eur-germany-ai-push-2024-02-15/)
 - [Spnec fast-tracks ₱200B solar farm in Central Luzon](https://businessmirror.com.ph/2024/01/03/spnec-fast-tracks-p200-b-solar-farm-in-central-luzon/)
 - [Show HN: Simple tool to generate mock APIs for testing](https://endpts.io/tools/mock-api)
