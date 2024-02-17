@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kremlin runs disinformation campaign to undermine Zelensky, documents show](https://www.washingtonpost.com/world/2024/02/16/russian-disinformation-zelensky-zaluzhny/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring SWEs to work on robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/MiQeDgi-senior-robotics-software-engineer)
-- [I Ended Up with Just 0.15% of My Own Startup](https://news.ycombinator.com/item?id=39410364)
 - [Show HN: macOS-cross-compiler – Compile binaries for macOS on Linux](https://github.com/shepherdjerred/macos-cross-compiler)
 - [The Ute Tribe will construct one of the largest solar farms in the US for $1B+](https://www.ksut.org/news/2024-02-15/ute-mountain-ute-tribe-will-construct-one-of-the-largest-solar-farms-in-the-u-s)
-- [The game theory of seduction and marriage with Jane Austen](https://www.optimallyirrational.com/p/the-game-theory-of-seduction-and)
+- [Ollama is now available on Windows in preview](https://ollama.com/blog/windows-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
