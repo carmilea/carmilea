@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Wirebonding is here to stay](https://semiengineering.com/wirebonding-is-here-to-stay/)
 - [The adult consequences of being bullied in childhood](https://www.sciencedirect.com/science/article/pii/S0277953624001345)
+- [Big Pharma spends billions more on executives and stockholders than on R&amp;D](https://arstechnica.com/science/2024/02/big-pharma-spends-billions-more-on-executives-and-stockholders-than-on-rd/)
 - [GPlates: Open-source software for interactive visualisation of plate tectonics](https://www.gplates.org/)
 - [Coding in Vision Pro](https://willem.com/blog/2024-02-16_vision-pro/)
-- [How did the settlers of the Canary Islands survive a millennium of isolation?](https://www.science.org/content/article/humans-survive-alone-1000-years-desert-islands-off-africa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
