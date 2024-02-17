@@ -58,8 +58,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Mark Zuckerberg explains why so many tech companies are doing layoffs](https://www.businessinsider.com/mark-zuckerberg-comments-tech-company-layoffs-2024-2)
 - [Considerations for a long-running Raspberry Pi](https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html)
+- [New chip opens door to AI computing at light speed](https://phys.org/news/2024-02-chip-door-ai.html)
 - [From engineer to manager: what I love, what I hate](https://thoughtspile.github.io/2024/02/16/eng-to-em/)
-- [Raising Children on the Eve of AI](https://juliawise.net/raising-children-on-the-eve-of-ai/)
 - [Progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
 <!-- BLOG-POST-LIST:END -->
 
