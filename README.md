@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI hiring tools may be filtering out the best job applicants](https://www.bbc.com/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination)
+- [Headphone and Amp Impedance &lpar;2011&rpar;](http://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html)
+- [I worry our Copilot is leaving some passengers behind](https://joshcollinsworth.com/blog/copilot)
+- [Amazon argues that national labor board is unconstitutional](https://apnews.com/article/amazon-nlrb-unconstitutional-union-labor-459331e9b77f5be0e5202c147654993e)
 - [Kremlin runs disinformation campaign to undermine Zelensky, documents show](https://www.washingtonpost.com/world/2024/02/16/russian-disinformation-zelensky-zaluzhny/)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring SWEs to work on robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/MiQeDgi-senior-robotics-software-engineer)
-- [Show HN: macOS-cross-compiler – Compile binaries for macOS on Linux](https://github.com/shepherdjerred/macos-cross-compiler)
-- [The Ute Tribe will construct one of the largest solar farms in the US for $1B+](https://www.ksut.org/news/2024-02-15/ute-mountain-ute-tribe-will-construct-one-of-the-largest-solar-farms-in-the-u-s)
-- [Ollama is now available on Windows in preview](https://ollama.com/blog/windows-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
