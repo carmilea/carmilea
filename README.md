@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bevy 0.13: ECS-driven game engine built in Rust](https://bevyengine.org/news/bevy-0-13/)
+- [Unreal Engine 5 can now run in a web browser](https://www.pcgameshardware.de/Unreal-Engine-Software-239301/News/5-Entwickler-zeigt-Spiel-im-Browser-dank-WebGPU-1440861/)
+- [Inner Platform Effect](https://en.wikipedia.org/wiki/Inner-platform_effect)
 - [AI hiring tools may be filtering out the best job applicants](https://www.bbc.com/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination)
 - [Headphone and Amp Impedance &lpar;2011&rpar;](http://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html)
-- [I worry our Copilot is leaving some passengers behind](https://joshcollinsworth.com/blog/copilot)
-- [Amazon argues that national labor board is unconstitutional](https://apnews.com/article/amazon-nlrb-unconstitutional-union-labor-459331e9b77f5be0e5202c147654993e)
-- [Kremlin runs disinformation campaign to undermine Zelensky, documents show](https://www.washingtonpost.com/world/2024/02/16/russian-disinformation-zelensky-zaluzhny/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
