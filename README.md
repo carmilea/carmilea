@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Notes on Gitlab&#39;s Postgres Schema Design &lpar;2022&rpar;](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
-- [JSR first impressions: a JavaScript package manager by the Deno team](https://www.kitsonkelly.com/posts/jsr-first-impressions)
-- [Releasing my tools under the MIT License was probably a mistake &lpar;2023&rpar;](https://donatstudios.com/License-Grumbles)
-- [Signal v7.0.0 with phone number privacy](https://github.com/signalapp/Signal-Android/compare/v6.47.4...v7.0.0)
-- [Hitchhiking cancer vaccine makes progress in the clinic](https://news.mit.edu/2024/hitchhiking-cancer-vaccine-makes-progress-in-clinic-0215)
+- [Disconnecting the Playstation 5 from Internet installs DVD games faster](https://old.reddit.com/r/PS5/comments/t6nfyl/question_how_long_does_your_disk_installations/)
+- [AI Restaurant Menu with RAG](https://wandb.ai/byyoung3/ml-news/reports/Building-a-RAG-Based-Digital-Restaurant-Menu-with-LlamaIndex-and-W-B-Weave--Vmlldzo2NjE5Njkw)
+- [Basic proxy implementation using io_uring](https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c)
+- [Representation Engineering: Mistral-7B on Acid](https://vgel.me/posts/representation-engineering/)
+- [TrueType Fonts for OpenTTD](https://www.openttd.org/news/2024/02/17/openttd-truetype-fonts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
