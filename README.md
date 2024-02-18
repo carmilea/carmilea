@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Science fiction authors were excluded from awards for fear of offending China](https://www.nbcnews.com/news/world/science-fiction-authors-excluded-hugo-awards-china-rcna139134)
 - [Disconnecting the Playstation 5 from Internet installs DVD games faster](https://old.reddit.com/r/PS5/comments/t6nfyl/question_how_long_does_your_disk_installations/)
 - [AI Restaurant Menu with RAG](https://wandb.ai/byyoung3/ml-news/reports/Building-a-RAG-Based-Digital-Restaurant-Menu-with-LlamaIndex-and-W-B-Weave--Vmlldzo2NjE5Njkw)
 - [Basic proxy implementation using io_uring](https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c)
-- [Representation Engineering: Mistral-7B on Acid](https://vgel.me/posts/representation-engineering/)
-- [TrueType Fonts for OpenTTD](https://www.openttd.org/news/2024/02/17/openttd-truetype-fonts)
+- [Welding of Plutonium &lpar;1958&rpar; [pdf]](https://sgp.fas.org/othergov/doe/lanl/lib-www/la-pubs/00414797.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
