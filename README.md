@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [She Wanted to Make Her Frank Lloyd Wright House Greener](https://www.wsj.com/story/she-wanted-to-make-her-frank-lloyd-wright-house-greener-heres-how-it-went-45eaf89e)
-- [She Stole $54M from Her Town. Then Something Unexpected Happened](https://www.politico.com/news/magazine/2023/05/12/dixon-illinois-city-fraud-betrayal-00075869)
-- [No focus, no fights, and a bad back – 16 ways technology has ruined my life](https://www.theguardian.com/technology/2024/feb/17/no-focus-no-fights-and-a-bad-back-16-ways-technology-has-ruined-my-life-tim-dowling)
-- [Access over 181,000 USGS Historical Topographic Maps](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/)
-- [SPAD: Spatially Aware Multiview Diffusers](https://yashkant.github.io/spad/)
+- [Israel uses new remote sniping weapon on teen who threw rocks](https://twitter.com/QudsNen/status/1759179087967297897)
+- [I Taught the Iliad to Chinese Teenagers](https://scholars-stage.org/how-i-taught-the-iliad-to-chinese-teenagers/)
+- [Foldit](https://en.wikipedia.org/wiki/Foldit)
+- [Climate experts sound alarm over thriving plant life at Greenland ice sheet](https://www.theguardian.com/world/2024/feb/13/flourishing-vegetation-greenland-ice-sheet-alarm-climate-crisis)
+- [How China Built BYD, Its Tesla Killer](https://www.nytimes.com/2024/02/12/business/byd-china-electric-vehicle.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
