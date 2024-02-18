@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the fun in writing on the internet anymore?](https://jamesshelley.com/blog/writing-on-the-internet.html)
+- [Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
+- [Ask HN: Which Python type checker should I use?](https://news.ycombinator.com/item?id=39416443)
+- [Carbon Capture Facility in World Creates 25x More CO2 from Use of Product](https://cleantechnica.com/2024/02/15/ccs-redux-best-carbon-capture-facility-in-world-creates-25x-more-co2-from-use-of-product/)
 - [Science fiction authors were excluded from awards for fear of offending China](https://www.nbcnews.com/news/world/science-fiction-authors-excluded-hugo-awards-china-rcna139134)
 - [Berkeley&#39;s upzoning would be among nation&#39;s largest](https://darrellowens.substack.com/p/berkeleys-upzoning-would-be-among)
-- [Disconnecting the Playstation 5 from Internet installs DVD games faster](https://old.reddit.com/r/PS5/comments/t6nfyl/question_how_long_does_your_disk_installations/)
-- [Basic proxy implementation using io_uring](https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
