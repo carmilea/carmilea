@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
 - [Ask HN: Which Python type checker should I use?](https://news.ycombinator.com/item?id=39416443)
+- [&#39;Zombie Fires&#39; burning at an alarming rate in Canada](https://www.bbc.com/news/world-us-canada-68228943)
 - [Carbon Capture Facility in World Creates 25x More CO2 from Use of Product](https://cleantechnica.com/2024/02/15/ccs-redux-best-carbon-capture-facility-in-world-creates-25x-more-co2-from-use-of-product/)
 - [Science fiction authors were excluded from awards for fear of offending China](https://www.nbcnews.com/news/world/science-fiction-authors-excluded-hugo-awards-china-rcna139134)
-- [Berkeley&#39;s upzoning would be among nation&#39;s largest](https://darrellowens.substack.com/p/berkeleys-upzoning-would-be-among)
 <!-- BLOG-POST-LIST:END -->
 
 ---
