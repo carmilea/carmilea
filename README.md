@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the fun in writing on the internet anymore?](https://jamesshelley.com/blog/writing-on-the-internet.html)
 - [Science fiction authors were excluded from awards for fear of offending China](https://www.nbcnews.com/news/world/science-fiction-authors-excluded-hugo-awards-china-rcna139134)
-- [Berkeley&#39;s Upzoning Would Be Among Nation&#39;s Largest](https://darrellowens.substack.com/p/berkeleys-upzoning-would-be-among)
+- [Berkeley&#39;s upzoning would be among nation&#39;s largest](https://darrellowens.substack.com/p/berkeleys-upzoning-would-be-among)
 - [Disconnecting the Playstation 5 from Internet installs DVD games faster](https://old.reddit.com/r/PS5/comments/t6nfyl/question_how_long_does_your_disk_installations/)
 - [Basic proxy implementation using io_uring](https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c)
-- [Welding of Plutonium &lpar;1958&rpar; [pdf]](https://sgp.fas.org/othergov/doe/lanl/lib-www/la-pubs/00414797.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
