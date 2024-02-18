@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Wddbfs – Mount a SQLite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
-- [Laughing Off the Dark Mode Lobby](https://www.lloydatkinson.net/posts/2024/the-dark-mode-lobby/)
 - [Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
 - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
 - [&#39;Zombie Fires&#39; burning at an alarming rate in Canada](https://www.bbc.com/news/world-us-canada-68228943)
+- [Science fiction authors were excluded from awards for fear of offending China](https://www.nbcnews.com/news/world/science-fiction-authors-excluded-hugo-awards-china-rcna139134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
