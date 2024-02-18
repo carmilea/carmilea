@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Israel uses new remote sniping weapon on teen who threw rocks](https://twitter.com/QudsNen/status/1759179087967297897)
-- [I Taught the Iliad to Chinese Teenagers](https://scholars-stage.org/how-i-taught-the-iliad-to-chinese-teenagers/)
-- [Foldit](https://en.wikipedia.org/wiki/Foldit)
-- [Climate experts sound alarm over thriving plant life at Greenland ice sheet](https://www.theguardian.com/world/2024/feb/13/flourishing-vegetation-greenland-ice-sheet-alarm-climate-crisis)
-- [How China Built BYD, Its Tesla Killer](https://www.nytimes.com/2024/02/12/business/byd-china-electric-vehicle.html)
+- [Why Some of Apple&#39;s Biggest Fans Are Returning Their Vision Pros](https://www.bloomberg.com/news/newsletters/2024-02-18/apple-vision-pro-returning-3-500-device-over-comfort-lack-of-apps-and-price-lsrk88mq)
+- [Lapce](https://lapce.dev/)
+- [A small Rust binary indeed &lpar;2022&rpar;](https://darkcoding.net/software/a-very-small-rust-binary-indeed/)
+- [Show HN: Domino Fit – Domino Tiling Puzzle](https://dominofit.isotropic.us/)
+- [With the rise of AI, web crawlers are suddenly controversial](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
