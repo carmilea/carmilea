@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Questions about DuckDuckGo&#39;s Future](https://thejollyteapot.com/2024/02/17/questions-about-duckduckgos-future)
+- [A steep rise of Hackernews in Google rankings](https://jonathanpagel.com/the-steep-rise-of-hackernews-in-google-rankings/)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI end-to-end tests](https://news.ycombinator.com/item?id=39423303)
 - [Haskell is Useless &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=iSmkqocn0oQ)
 - [Earth-1217: where every CSV file has two header rows: column names and units](https://hachyderm.io/deck/@gvwilson@mastodon.social/111954365835588784)
-- [The Internet Scheme Repository](https://legacy.cs.indiana.edu/scheme-repository/)
-- [Ask HN: Best resources on starting a lifestyle business?](https://news.ycombinator.com/item?id=39422417)
 <!-- BLOG-POST-LIST:END -->
 
 ---
