@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The hottest trend in U.S. cities? Changing zoning rules to allow more housing](https://www.npr.org/2024/02/17/1229867031/housing-shortage-zoning-reform-cities)
-- [Scientists Censoring Science](https://www.stevestewartwilliams.com/p/scientists-censoring-science)
+- [She Wanted to Make Her Frank Lloyd Wright House Greener](https://www.wsj.com/story/she-wanted-to-make-her-frank-lloyd-wright-house-greener-heres-how-it-went-45eaf89e)
+- [She Stole $54M from Her Town. Then Something Unexpected Happened](https://www.politico.com/news/magazine/2023/05/12/dixon-illinois-city-fraud-betrayal-00075869)
+- [No focus, no fights, and a bad back – 16 ways technology has ruined my life](https://www.theguardian.com/technology/2024/feb/17/no-focus-no-fights-and-a-bad-back-16-ways-technology-has-ruined-my-life-tim-dowling)
 - [Access over 181,000 USGS Historical Topographic Maps](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/)
 - [SPAD: Spatially Aware Multiview Diffusers](https://yashkant.github.io/spad/)
-- [Show HN: Hacker News Outliers](https://hn.moritz.pm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
