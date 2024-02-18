@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU to hit Apple with first ever fine in €500M penalty over music streaming](https://www.ft.com/content/1e677a7e-9494-4f5b-a724-9e58ef26b34f)
+- [CorsixTH: Open-source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
+- [Why the Web Won&#39;t Be Nirvana &lpar;1995&rpar;](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
 - [Wddbfs – Mount a SQLite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
-- [Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
-- [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
-- [&#39;Zombie Fires&#39; burning at an alarming rate in Canada](https://www.bbc.com/news/world-us-canada-68228943)
-- [Science fiction authors were excluded from awards for fear of offending China](https://www.nbcnews.com/news/world/science-fiction-authors-excluded-hugo-awards-china-rcna139134)
+- [Pimp Your Board Games](https://brainbaking.com/post/2024/02/pimp-your-boardgame/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
