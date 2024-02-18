@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Some of Apple&#39;s Biggest Fans Are Returning Their Vision Pros](https://www.bloomberg.com/news/newsletters/2024-02-18/apple-vision-pro-returning-3-500-device-over-comfort-lack-of-apps-and-price-lsrk88mq)
+- [Implementing the Successor to LoRA &lpar;Low-Rank Adaptation&rpar; from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
+- [Airline Takes Revenge After Bad Review, Posts Passenger&#39;s Passport Online](https://viewfromthewing.com/airline-takes-revenge-after-bad-review-posts-passengers-passport-online/)
 - [Lapce](https://lapce.dev/)
 - [A small Rust binary indeed &lpar;2022&rpar;](https://darkcoding.net/software/a-very-small-rust-binary-indeed/)
 - [Show HN: Domino Fit – Domino Tiling Puzzle](https://dominofit.isotropic.us/)
-- [With the rise of AI, web crawlers are suddenly controversial](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
