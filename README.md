@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
-- [Tailwind CSS marketing and misinformation engine](https://nuejs.org/blog/tailwind-misinformation-engine/)
 - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
 - [Ask HN: Which Python type checker should I use?](https://news.ycombinator.com/item?id=39416443)
-- [Why You&#39;re Still Single &lpar;2023&rpar;](https://thezvi.substack.com/p/dating-roundup-1-this-is-why-youre)
+- [&#39;Zombie Fires&#39; burning at an alarming rate in Canada](https://www.bbc.com/news/world-us-canada-68228943)
+- [Jeffrey Katzenberg Says A.I. Will Eliminate 90% of Artist Jobs on Animated Films](https://www.indiewire.com/news/business/jeffrey-katzenberg-ai-will-take-90-percent-animation-jobs-1234924809/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
