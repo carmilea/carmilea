@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
+- [Tailwind CSS marketing and misinformation engine](https://nuejs.org/blog/tailwind-misinformation-engine/)
+- [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
 - [Ask HN: Which Python type checker should I use?](https://news.ycombinator.com/item?id=39416443)
-- [&#39;Zombie Fires&#39; burning at an alarming rate in Canada](https://www.bbc.com/news/world-us-canada-68228943)
-- [Carbon Capture Facility in World Creates 25x More CO2 from Use of Product](https://cleantechnica.com/2024/02/15/ccs-redux-best-carbon-capture-facility-in-world-creates-25x-more-co2-from-use-of-product/)
-- [Science fiction authors were excluded from awards for fear of offending China](https://www.nbcnews.com/news/world/science-fiction-authors-excluded-hugo-awards-china-rcna139134)
+- [Why You&#39;re Still Single &lpar;2023&rpar;](https://thezvi.substack.com/p/dating-roundup-1-this-is-why-youre)
 <!-- BLOG-POST-LIST:END -->
 
 ---
