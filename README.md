@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The hottest trend in U.S. cities? Changing zoning rules to allow more housing](https://www.npr.org/2024/02/17/1229867031/housing-shortage-zoning-reform-cities)
+- [Scientists Censoring Science](https://www.stevestewartwilliams.com/p/scientists-censoring-science)
+- [Access over 181,000 USGS Historical Topographic Maps](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/)
+- [SPAD: Spatially Aware Multiview Diffusers](https://yashkant.github.io/spad/)
 - [Show HN: Hacker News Outliers](https://hn.moritz.pm)
-- [The Linux Kernel Prepares for Rust 1.77 Upgrade](https://www.phoronix.com/news/Linux-Kernel-To-Rust-1.77)
-- [WASM Instructions](https://webassembly.github.io/spec/core/binary/instructions.html)
-- [Mercury: Council and Parliament strike a deal to phase out mercury in the EU](https://www.consilium.europa.eu/en/press/press-releases/2024/02/08/mercury-council-and-parliament-strike-a-deal-to-completely-phase-out-mercury-in-the-eu/)
-- [Why is everything based on likelihoods even though likelihoods are so small?](https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small)
 <!-- BLOG-POST-LIST:END -->
 
 ---
