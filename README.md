@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing the Successor to LoRA &lpar;Low-Rank Adaptation&rpar; from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
-- [Airline Takes Revenge After Bad Review, Posts Passenger&#39;s Passport Online](https://viewfromthewing.com/airline-takes-revenge-after-bad-review-posts-passengers-passport-online/)
-- [Lapce](https://lapce.dev/)
-- [A small Rust binary indeed &lpar;2022&rpar;](https://darkcoding.net/software/a-very-small-rust-binary-indeed/)
-- [Show HN: Domino Fit – Domino Tiling Puzzle](https://dominofit.isotropic.us/)
+- [The AI Bullshit Singularity](https://successfulsoftware.net/2024/02/18/the-ai-bullshit-singularity/)
+- [Poland&#39;s PM says authorities in the previous gov widely used Pegasus spyware](https://apnews.com/article/poland-government-pegasus-spyware-tusk-duda-78420fc7099401926d28b5be98669192)
+- [Sora could ruin peoples lives](https://community.openai.com/t/sora-could-ruin-peoples-lifes/635220)
+- [KYC. No, Thanks](https://blog.kycnot.me/p/kyc-no-thanks)
+- [Implementing Weight-Decomposed Low-Rank Adaptation &lpar;DoRA&rpar; from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
