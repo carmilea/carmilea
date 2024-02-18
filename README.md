@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI e2e tests](https://news.ycombinator.com/item?id=39423303)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI end-to-end tests](https://news.ycombinator.com/item?id=39423303)
+- [Haskell is Useless &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=iSmkqocn0oQ)
 - [Earth-1217: where every CSV file has two header rows: column names and units](https://hachyderm.io/deck/@gvwilson@mastodon.social/111954365835588784)
 - [The Internet Scheme Repository](https://legacy.cs.indiana.edu/scheme-repository/)
-- [Poland&#39;s PM says authorities in the previous gov widely used Pegasus spyware](https://apnews.com/article/poland-government-pegasus-spyware-tusk-duda-78420fc7099401926d28b5be98669192)
-- [Everyone Wants Your Email Address. Think Twice Before Sharing It](https://www.nytimes.com/2023/01/25/technology/personaltech/email-address-digital-tracking.html)
+- [Ask HN: Best resources on starting a lifestyle business?](https://news.ycombinator.com/item?id=39422417)
 <!-- BLOG-POST-LIST:END -->
 
 ---
