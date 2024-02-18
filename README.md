@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is everything based on likelihoods even though likelihoods are so small?](https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small)
+- [Apple broke iPhone web apps in the EU for anticompetitive reasons – Tim Sweeney](https://techcrunch.com/2024/02/16/epic-games-ceo-suggests-apple-broke-iphone-web-apps-in-the-eu-for-anticompetitive-reasons/)
 - [EU to hit Apple with first ever fine in €500M penalty over music streaming](https://www.ft.com/content/1e677a7e-9494-4f5b-a724-9e58ef26b34f)
 - [CorsixTH: Open-source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
-- [Why the Web Won&#39;t Be Nirvana &lpar;1995&rpar;](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
-- [Wddbfs – Mount a SQLite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
-- [Pimp Your Board Games](https://brainbaking.com/post/2024/02/pimp-your-boardgame/)
+- [The web won&#39;t be nirvana &lpar;1995&rpar;](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
