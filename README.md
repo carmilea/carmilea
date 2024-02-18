@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Bullshit Singularity](https://successfulsoftware.net/2024/02/18/the-ai-bullshit-singularity/)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI e2e tests](https://news.ycombinator.com/item?id=39423303)
+- [Earth-1217: where every CSV file has two header rows: column names and units](https://hachyderm.io/deck/@gvwilson@mastodon.social/111954365835588784)
+- [The Internet Scheme Repository](https://legacy.cs.indiana.edu/scheme-repository/)
 - [Poland&#39;s PM says authorities in the previous gov widely used Pegasus spyware](https://apnews.com/article/poland-government-pegasus-spyware-tusk-duda-78420fc7099401926d28b5be98669192)
-- [Sora could ruin peoples lives](https://community.openai.com/t/sora-could-ruin-peoples-lifes/635220)
-- [KYC. No, Thanks](https://blog.kycnot.me/p/kyc-no-thanks)
-- [Implementing Weight-Decomposed Low-Rank Adaptation &lpar;DoRA&rpar; from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
+- [Everyone Wants Your Email Address. Think Twice Before Sharing It](https://www.nytimes.com/2023/01/25/technology/personaltech/email-address-digital-tracking.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
