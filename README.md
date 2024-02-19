@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [endgame-exploit – A modern dashboard exploit for the original Microsoft Xbox](https://github.com/XboxDev/endgame-exploit)
-- [Michigan Becomes First State in 6 Decades to Scrap an Infamous Anti-Union Law](https://www.thenation.com/article/politics/michigan-right-to-work-law/)
-- [Building a Hybrid Native Application with Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
-- [The Story of Curl](https://un.curl.dev/mine/curl)
-- [Measuring energy usage: regular code vs. SIMD code](https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/)
+- [Reverse graffiti](https://en.wikipedia.org/wiki/Reverse_graffiti)
+- [Sony&#39;s Playstation Portal hacked, can now emulate PSP games](https://overkill.wtf/sony-playstation-portal-hacked-emulate-psp-games/)
+- [Endgame: A dashboard exploit for the original Xbox](https://github.com/XboxDev/endgame-exploit)
+- [Job posts for workers without degrees are booming, but not the hiring](https://www.cnbc.com/2024/02/19/job-posts-for-workers-without-degrees-are-booming-but-not-the-hiring.html)
+- [Jeff Dean: Trends in Machine Learning [video]](https://www.youtube.com/watch?v=oSCRZkSQ1CE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
