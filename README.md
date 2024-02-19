@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Union, intersection, difference, and more are coming to JavaScript Sets](https://www.sonarsource.com/blog/union-intersection-difference-javascript-sets/)
+- [AMD Zen 5 CPUs Reportedly Made on TSMC&#39;s 3nm Process, Mass Production in Q3](https://wccftech.com/amd-zen-5-cpus-reportedly-made-on-tsmc-3nm-process-q2-mass-production-q3-2024/amp/)
 - [The case against caffeine](https://zantafakari.substack.com/p/the-case-against-caffeine)
-- [What if public housing were for everyone?](https://www.vox.com/policy/2024/2/10/24065342/social-housing-public-housing-affordable-crisis)
 - [AstraZeneca unveils successes in treatment of lung cancer](https://www.ft.com/content/b845e8ab-9cbc-482c-aa22-0b5c020be099)
-- [2/16/24 Wyze Security Incident Update](https://forums.wyze.com/t/update-on-investigation-of-2-16-24-security-issue/291002)
-- [Porting to GCC 14: C language issues](https://gcc.gnu.org/gcc-14/porting_to.html#c)
+- [Wyze security incident update](https://forums.wyze.com/t/update-on-investigation-of-2-16-24-security-issue/291002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
