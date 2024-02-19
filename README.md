@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [French telecom company Orange fined €650k for violation of GPL license](https://web.archive.org/web/20240216164701/https://www.legalis.net/actualite/orange-condamne-a-650-000-e-pour-non-respect-de-la-licence-gpl/)
-- [The day I canceled my Spotify subscription](https://blog.raed.dev/posts/goodbye_spotify)
-- [AI is making critical health care decisions, but is unregulated](https://www.politico.com/news/2024/02/18/artificial-intelligence-health-care-fda-00141768)
-- [Largest natural gas leak from Nord Stream pipeline](https://doi.org/10.1016/j.isci.2023.108772)
-- [Biologists discover four new octopus species](https://www.smithsonianmag.com/smart-news/biologists-discover-four-new-octopus-species-deep-ocean-costa-rica-180983631/)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [GoPro Ride Through an Electron Beam Irradiator at Full Beam Power [video]](https://www.youtube.com/watch?v=Uf4Ux4SlyT4)
+- [GlobalFoundries wins $3.1B in CHIPS Act subsidies for NY, Vermont](https://www.syracuse.com/business/2024/02/globalfoundries-wins-31-billion-in-chips-act-subsidies-for-upstate-ny-vermont-expansion.html)
+- [Tell HN: Hard to change default search engine in Chrome to DuckDuckGo](https://news.ycombinator.com/item?id=39428633)
+- [Show HN: PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
