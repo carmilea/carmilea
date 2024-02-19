@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are shopping carts always broken?](https://www.cnn.com/2024/02/17/business/shopping-carts-wonky-wheel-explained/index.html)
+- [Who&#39;s winning in Sarah Silverman&#39;s copyright suit against OpenAI?](https://www.msn.com/en-us/news/crime/column-who-s-really-winning-in-sarah-silverman-s-copyright-suit-against-openai/ar-BB1inelI)
+- [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/17/vpp-freebsd-2.html)
+- [Serving a Website from a Git Repo Without Cloning It](https://mediocregopher.com/posts/git-proxy)
 - [Google Cloud&#39;s New Assured Open Source Software Service &lpar;2022&rpar;](https://cloud.google.com/blog/products/identity-security/introducing-assured-open-source-software-service)
-- [Mac Virtual Display on Vision Pro Requires Same Apple ID](https://blog.pinola.co/blog/apple-has-been-augmenting-reality-for-years/)
 - [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
-- [Open Source Games](https://project-awesome.org/michelpereira/awesome-open-source-games)
 <!-- BLOG-POST-LIST:END -->
 
 ---
