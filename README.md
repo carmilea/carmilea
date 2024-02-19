@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Are LLMs So Gullible?](https://amistrongeryet.substack.com/p/why-are-llms-so-gullible)
+- [How Google is killing independent sites like ours](https://housefresh.com/david-vs-digital-goliaths/)
+- [Show HN: Qoord, a simple quantum circuit simulator](https://github.com/scottmckuen/qoord)
+- [Latest GPT-4 training data updated to December 2023](https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo)
 - [Show HN: I made a simple daily word puzzle](https://triword.net)
-- [The Empty Adderall Factory](https://nymag.com/intelligencer/article/adderall-shortage-adhd-medication-ascent-pharmaceuticals.html)
-- [My productivity app is a never-ending .txt file](https://jeffhuang.com/productivity_text_file/)
-- [EU opens formal investigation into TikTok over possible online content breaches](https://www.reuters.com/technology/eu-opens-formal-proceedings-against-tiktok-under-digital-services-act-2024-02-19/)
-- [OTP at a High Level &lpar;2019&rpar;](https://adoptingerlang.org/docs/development/otp_high_level/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
