@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Air Canada chatbot promised a discount. Now the airline has to pay it](https://www.washingtonpost.com/travel/2024/02/18/air-canada-airline-chatbot-ruling/)
-- [&quot;Rabbit Test&quot; Unwins the Hugo Award](https://samtasticbooks.com/2024/02/17/rabbit-test-unwins-the-hugo/)
+- [Gemini 1.5 outshines GPT-4-Turbo-128K on long code prompts, HVM author](https://old.reddit.com/r/singularity/comments/1atjz9v/ive_put_a_complex_codebase_into_a_single/)
+- [Show HN: Searchbase – Plug-n-play semantic/fuzzy search for your data](https://searchbase.dev/)
+- [Show HN: I built a vector database API on Cloudflare](https://github.com/TimeSurgeLabs/athenadb)
 - [The Mutant Wolves of Chernobyl Have Evolved to Survive Cancer](https://www.popularmechanics.com/science/animals/a46799706/mutant-wolves-of-chernobyl/)
-- [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/17/vpp-freebsd-2.html)
-- [Serving a Website from a Git Repo Without Cloning It](https://mediocregopher.com/posts/git-proxy)
+- [Show HN: RAM Prices](https://ramstickprices.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
