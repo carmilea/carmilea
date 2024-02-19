@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [About Y Combinator&#39;s Software Team](https://news.ycombinator.com/item?id=39432015)
-- [Why do so many big tech companies have awful apps and many indie apps are great?](https://old.reddit.com/r/androiddev/comments/1auiume/why_do_so_many_large_tech_companies_have_awful/)
+- [EU opens formal investigation into TikTok over possible online content breaches](https://www.reuters.com/technology/eu-opens-formal-proceedings-against-tiktok-under-digital-services-act-2024-02-19/)
+- [OTP at a High Level &lpar;2019&rpar;](https://adoptingerlang.org/docs/development/otp_high_level/)
+- [About Y Combinator&#39;s software team &lpar;which is currently hiring&rpar;](https://news.ycombinator.com/item?id=39432015)
+- [Hip to be square – 70 years of the Citroën H Van](https://www.adrianflux.co.uk/influx/culture/hip-square-70-years-citroen-h-van/)
 - [Union, intersection, difference, and more are coming to JavaScript Sets](https://www.sonarsource.com/blog/union-intersection-difference-javascript-sets/)
-- [AMD Zen 5 CPUs Reportedly Made on TSMC&#39;s 3nm Process, Mass Production in Q3](https://wccftech.com/amd-zen-5-cpus-reportedly-made-on-tsmc-3nm-process-q2-mass-production-q3-2024/amp/)
-- [Wyze says camera breach let 13,000 customers see into other people&#39;s homes](https://www.theverge.com/2024/2/19/24077233/wyze-security-camera-breach-13000-customers-events)
 <!-- BLOG-POST-LIST:END -->
 
 ---
