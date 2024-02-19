@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bits Credit Card &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/bits/jobs/jJ4l3dY-senior-software-engineer-backend)
-- [&quot;A Plea for Lean Software&quot; by Prof. Niklaus Wirth](https://liam-on-linux.dreamwidth.org/88032.html)
+- [Josh: Just One Single History](https://josh-project.github.io/josh/)
+- [A Plea for Lean Software](https://liam-on-linux.dreamwidth.org/88032.html)
 - [Castle Engine – free, os, x-platform, 2D/3D game engine using modern Pascal](https://castle-engine.io/)
 - [Gemini 1.5 outshines GPT-4-Turbo-128K on long code prompts, HVM author](https://old.reddit.com/r/singularity/comments/1atjz9v/ive_put_a_complex_codebase_into_a_single/)
-- [Show HN: Searchbase – Plug-n-play semantic/fuzzy search for your data](https://searchbase.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
