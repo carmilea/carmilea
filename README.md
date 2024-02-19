@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [French telecom company Orange fined €650k for violation of GPL license](https://web.archive.org/web/20240216164701/https://www.legalis.net/actualite/orange-condamne-a-650-000-e-pour-non-respect-de-la-licence-gpl/)
 - [The day I canceled my Spotify subscription](https://blog.raed.dev/posts/goodbye_spotify)
-- [The EU Wants Its Own DNS Resolver That Can Block &#39;Unlawful&#39; Traffic,TorrentFreak](https://torrentfreak.com/the-eu-wants-its-own-dns-resolver-that-can-block-unlawful-traffic-220119/)
+- [AI is making critical health care decisions, but is unregulated](https://www.politico.com/news/2024/02/18/artificial-intelligence-health-care-fda-00141768)
+- [Largest natural gas leak from Nord Stream pipeline](https://doi.org/10.1016/j.isci.2023.108772)
 - [Biologists discover four new octopus species](https://www.smithsonianmag.com/smart-news/biologists-discover-four-new-octopus-species-deep-ocean-costa-rica-180983631/)
-- [Oxide reimagines private cloud as a 3k-pound blade server](https://www.theregister.com/2024/02/16/oxide_3000lb_blade_server/)
-- [Bits Credit Card &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/bits/jobs/jJ4l3dY-senior-software-engineer-backend)
 <!-- BLOG-POST-LIST:END -->
 
 ---
