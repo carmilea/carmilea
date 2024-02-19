@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Star Trek: Borg – Remastered](https://borgremastered.com/)
-- [Qualcomm Hardware Support Increasingly in Good Shape with Linux Kernel](https://www.phoronix.com/news/Qualcomm-Mainline-Linux-2024)
-- [Peter Norvig: New Python Operators](https://betterprogramming.pub/new-python-operators-9f31b56ddcc7?gi=7918b2c3ccf0)
-- [Free SVG generators, color tools and web design tools](https://fffuel.co/)
+- [endgame-exploit – A modern dashboard exploit for the original Microsoft Xbox](https://github.com/XboxDev/endgame-exploit)
+- [Michigan Becomes First State in 6 Decades to Scrap an Infamous Anti-Union Law](https://www.thenation.com/article/politics/michigan-right-to-work-law/)
+- [Building a Hybrid Native Application with Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
+- [The Story of Curl](https://un.curl.dev/mine/curl)
+- [Measuring energy usage: regular code vs. SIMD code](https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
