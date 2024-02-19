@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Questions about DuckDuckGo&#39;s Future](https://thejollyteapot.com/2024/02/17/questions-about-duckduckgos-future)
+- [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
+- [FTC Obtains $195M Judgment and Ban on Simple Health for Sham Insurance Offering](https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-obtains-195-million-judgment-permanent-ban-telemarketing-selling-healthcare-products-against)
+- [Why are amplitudes complex numbers? &lpar;2018&rpar;](https://scottaaronson.blog/?p=4021)
 - [A steep rise of Hackernews in Google rankings](https://jonathanpagel.com/the-steep-rise-of-hackernews-in-google-rankings/)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI end-to-end tests](https://news.ycombinator.com/item?id=39423303)
-- [Haskell is Useless &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=iSmkqocn0oQ)
-- [Earth-1217: where every CSV file has two header rows: column names and units](https://hachyderm.io/deck/@gvwilson@mastodon.social/111954365835588784)
 <!-- BLOG-POST-LIST:END -->
 
 ---
