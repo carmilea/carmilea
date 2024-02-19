@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California&#39;s war on plastic bag use seems to have backfired](https://www.latimes.com/environment/story/2024-02-12/californias-war-on-plastic-bag-use-seems-to-have-backfired)
-- [Show HN: htmz – a low power tool for HTML](https://leanrada.com/htmz/)
-- [Ask HN: My company went bankrupt today and I have 2 options](https://news.ycombinator.com/item?id=39429299)
-- [Amiga Emulator: WinUAE 5.2.0](https://www.winuae.net/2024/02/19/winuae-5-2-0/)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [The case against caffeine](https://zantafakari.substack.com/p/the-case-against-caffeine)
+- [What if public housing were for everyone?](https://www.vox.com/policy/2024/2/10/24065342/social-housing-public-housing-affordable-crisis)
+- [AstraZeneca unveils successes in treatment of lung cancer](https://www.ft.com/content/b845e8ab-9cbc-482c-aa22-0b5c020be099)
+- [2/16/24 Wyze Security Incident Update](https://forums.wyze.com/t/update-on-investigation-of-2-16-24-security-issue/291002)
+- [Porting to GCC 14: C language issues](https://gcc.gnu.org/gcc-14/porting_to.html#c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
