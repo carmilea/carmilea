@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Air Canada chatbot promised a discount. Now the airline has to pay it](https://www.washingtonpost.com/travel/2024/02/18/air-canada-airline-chatbot-ruling/)
-- [Who&#39;s winning in Sarah Silverman&#39;s copyright suit against OpenAI?](https://www.msn.com/en-us/news/crime/column-who-s-really-winning-in-sarah-silverman-s-copyright-suit-against-openai/ar-BB1inelI)
+- [&quot;Rabbit Test&quot; Unwins the Hugo Award](https://samtasticbooks.com/2024/02/17/rabbit-test-unwins-the-hugo/)
+- [The Mutant Wolves of Chernobyl Have Evolved to Survive Cancer](https://www.popularmechanics.com/science/animals/a46799706/mutant-wolves-of-chernobyl/)
 - [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/17/vpp-freebsd-2.html)
 - [Serving a Website from a Git Repo Without Cloning It](https://mediocregopher.com/posts/git-proxy)
-- [Google Cloud&#39;s New Assured Open Source Software Service &lpar;2022&rpar;](https://cloud.google.com/blog/products/identity-security/introducing-assured-open-source-software-service)
 <!-- BLOG-POST-LIST:END -->
 
 ---
