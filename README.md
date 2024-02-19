@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California&#39;s war on plastic bag use seems to have backfired](https://www.latimes.com/environment/story/2024-02-12/californias-war-on-plastic-bag-use-seems-to-have-backfired)
+- [Show HN: htmz – a low power tool for HTML](https://leanrada.com/htmz/)
+- [Ask HN: My company went bankrupt today and I have 2 options](https://news.ycombinator.com/item?id=39429299)
 - [Amiga Emulator: WinUAE 5.2.0](https://www.winuae.net/2024/02/19/winuae-5-2-0/)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [GoPro Ride Through an Electron Beam Irradiator at Full Beam Power [video]](https://www.youtube.com/watch?v=Uf4Ux4SlyT4)
-- [GlobalFoundries wins $3.1B in CHIPS Act subsidies for NY, Vermont](https://www.syracuse.com/business/2024/02/globalfoundries-wins-31-billion-in-chips-act-subsidies-for-upstate-ny-vermont-expansion.html)
-- [Show HN: PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
