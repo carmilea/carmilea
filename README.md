@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a simple daily word puzzle](https://triword.net)
+- [The Empty Adderall Factory](https://nymag.com/intelligencer/article/adderall-shortage-adhd-medication-ascent-pharmaceuticals.html)
+- [My productivity app is a never-ending .txt file](https://jeffhuang.com/productivity_text_file/)
 - [EU opens formal investigation into TikTok over possible online content breaches](https://www.reuters.com/technology/eu-opens-formal-proceedings-against-tiktok-under-digital-services-act-2024-02-19/)
 - [OTP at a High Level &lpar;2019&rpar;](https://adoptingerlang.org/docs/development/otp_high_level/)
-- [About Y Combinator&#39;s software team &lpar;which is currently hiring&rpar;](https://news.ycombinator.com/item?id=39432015)
-- [Hip to be square – 70 years of the Citroën H Van](https://www.adrianflux.co.uk/influx/culture/hip-square-70-years-citroen-h-van/)
-- [Union, intersection, difference, and more are coming to JavaScript Sets](https://www.sonarsource.com/blog/union-intersection-difference-javascript-sets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
