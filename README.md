@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why are shopping carts always broken?](https://www.cnn.com/2024/02/17/business/shopping-carts-wonky-wheel-explained/index.html)
+- [Google Cloud&#39;s New Assured Open Source Software Service &lpar;2022&rpar;](https://cloud.google.com/blog/products/identity-security/introducing-assured-open-source-software-service)
+- [Mac Virtual Display on Vision Pro Requires Same Apple ID](https://blog.pinola.co/blog/apple-has-been-augmenting-reality-for-years/)
 - [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
-- [FTC Obtains $195M Judgment and Ban on Simple Health for Sham Insurance Offering](https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-obtains-195-million-judgment-permanent-ban-telemarketing-selling-healthcare-products-against)
-- [Why are amplitudes complex numbers? &lpar;2018&rpar;](https://scottaaronson.blog/?p=4021)
-- [A steep rise of Hackernews in Google rankings](https://jonathanpagel.com/the-steep-rise-of-hackernews-in-google-rankings/)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI end-to-end tests](https://news.ycombinator.com/item?id=39423303)
+- [Open Source Games](https://project-awesome.org/michelpereira/awesome-open-source-games)
 <!-- BLOG-POST-LIST:END -->
 
 ---
