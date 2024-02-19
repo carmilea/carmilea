@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [About Y Combinator&#39;s Software Team](https://news.ycombinator.com/item?id=39432015)
+- [Why do so many big tech companies have awful apps and many indie apps are great?](https://old.reddit.com/r/androiddev/comments/1auiume/why_do_so_many_large_tech_companies_have_awful/)
 - [Union, intersection, difference, and more are coming to JavaScript Sets](https://www.sonarsource.com/blog/union-intersection-difference-javascript-sets/)
 - [AMD Zen 5 CPUs Reportedly Made on TSMC&#39;s 3nm Process, Mass Production in Q3](https://wccftech.com/amd-zen-5-cpus-reportedly-made-on-tsmc-3nm-process-q2-mass-production-q3-2024/amp/)
-- [The case against caffeine](https://zantafakari.substack.com/p/the-case-against-caffeine)
-- [AstraZeneca unveils successes in treatment of lung cancer](https://www.ft.com/content/b845e8ab-9cbc-482c-aa22-0b5c020be099)
-- [Wyze security incident update](https://forums.wyze.com/t/update-on-investigation-of-2-16-24-security-issue/291002)
+- [Wyze says camera breach let 13,000 customers see into other people&#39;s homes](https://www.theverge.com/2024/2/19/24077233/wyze-security-camera-breach-13000-customers-events)
 <!-- BLOG-POST-LIST:END -->
 
 ---
