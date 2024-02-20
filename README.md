@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alexei Navalny&#39;s wife Yulia Navalnaya has X social media account suspended](https://news.sky.com/story/alexei-navalnys-wife-yulia-navalnaya-has-x-social-media-account-suspended-13076185)
+- [Bad property debt exceeds reserves at largest US banks](https://www.ft.com/content/4114454c-a924-4929-85f4-5360b2b871c6)
+- [I was deliberately infected with Zika to test a vaccine](https://worksinprogress.co/issue/life-in-the-time-of-zika/)
 - [Hetzner GPU Server](https://robot.hetzner.com/order/index/culture/en_GB)
 - [UI Is a Function of Your Organization](https://blog.jim-nielsen.com/2024/ui-fn-org/)
-- [Rotten Apple](https://adactio.com/journal/20888)
-- [China is building more coal plants but might burn less coal](https://www.sustainabilitybynumbers.com/p/china-coal-plants)
+- [Walmart to buy TV maker Vizio for $2.3B](https://www.cnbc.com/2024/02/20/walmart-agrees-to-buy-vizio-to-grow-ad-business.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
