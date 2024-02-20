@@ -60,7 +60,7 @@
 - [Moore&#39;s Scofflaws](https://oxide.computer/blog/moores-scofflaws)
 - [A response to &quot;Erlang – overhyped or underestimated&quot; &lpar;2010&rpar;](http://jlouisramblings.blogspot.com/2010/12/response-to-erlang-overhyped-or.html)
 - [Martin Kleppmann talk on local-first &lpar;LoFi&rpar;](https://bsky.app/profile/martin.kleppmann.com/post/3kltpvnts622e)
-- [Signal: Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
+- [Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
