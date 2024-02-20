@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LKML discusses merging Rust access to filesystem APIs](https://lwn.net/Articles/958072/)
 - [WebKit switching to Skia for 2d graphics rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
+- [DJI – The Art of Obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
 - [GALA3D: Towards Text-to-3D Complex Scene Generation](https://gala3d.github.io/)
 - [Why is Prettier rock solid?](https://mrmr.io/til/prettier/)
-- [Cake – C23 and Beyond &lpar;2023&rpar;](http://thradams.com/cake/ownership.html)
-- [How to Fold a Julia Fractal &lpar;2013&rpar;](https://acko.net/blog/how-to-fold-a-julia-fractal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
