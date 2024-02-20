@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Towards memory safety with ownership checks for C](http://thradams.com/cake/ownership.html)
+- [Steam Audio SDK and all included plugins now available under Apache-2.0 license](https://steamcommunity.com/games/596420/announcements/detail/7745698166044243233)
+- [Tiny, tamper-proof ID tag can authenticate almost anything](https://news.mit.edu/2024/tiny-tamper-proof-id-tag-can-authenticate-almost-anything-0218)
+- [E2EE on the web: is the web that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
 - [Reverse graffiti](https://en.wikipedia.org/wiki/Reverse_graffiti)
-- [Sony&#39;s Playstation Portal hacked, can now emulate PSP games](https://overkill.wtf/sony-playstation-portal-hacked-emulate-psp-games/)
-- [Endgame: A dashboard exploit for the original Xbox](https://github.com/XboxDev/endgame-exploit)
-- [Job posts for workers without degrees are booming, but not the hiring](https://www.cnbc.com/2024/02/19/job-posts-for-workers-without-degrees-are-booming-but-not-the-hiring.html)
-- [Jeff Dean: Trends in Machine Learning [video]](https://www.youtube.com/watch?v=oSCRZkSQ1CE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
