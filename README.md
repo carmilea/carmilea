@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dead Internet Theory](https://old.reddit.com/r/webdev/comments/1auxufd/dead_internet_theory/)
+- [Pulsar, the best code editor since Atom](https://optimizedbyotto.com/post/pulsar-best-text-file-and-code-editor/)
 - [Towards memory safety with ownership checks for C](http://thradams.com/cake/ownership.html)
+- [How to Fold a Julia Fractal](https://acko.net/blog/how-to-fold-a-julia-fractal/)
 - [Steam Audio SDK and all included plugins now available under Apache-2.0 license](https://steamcommunity.com/games/596420/announcements/detail/7745698166044243233)
-- [Tiny, tamper-proof ID tag can authenticate almost anything](https://news.mit.edu/2024/tiny-tamper-proof-id-tag-can-authenticate-almost-anything-0218)
-- [E2EE on the web: is the web that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
-- [Reverse graffiti](https://en.wikipedia.org/wiki/Reverse_graffiti)
 <!-- BLOG-POST-LIST:END -->
 
 ---
