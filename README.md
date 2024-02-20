@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Is Spying on Users of Its AI Tools](https://www.schneier.com/blog/archives/2024/02/microsoft-is-spying-on-users-of-its-ai-tools.html)
-- [Writing a scheduler for Linux in Rust that runs in user-space](http://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)
-- [Launch HN: Dart &lpar;YC W22&rpar; – Project management with automatic report generation](https://news.ycombinator.com/item?id=39442368)
-- [Vietnam to collect biometrics – even DNA – for new ID cards](https://www.theregister.com/2024/02/20/vietnam_id_cards_dna/)
-- [Fingerprints can be recreated from the sounds made when you swipe a screen](https://www.tomshardware.com/tech-industry/cyber-security/your-fingerprints-can-be-recreated-from-the-sounds-made-when-you-swipe-on-a-touchscreen-researchers-new-side-channel-attack-can-reproduce-partial-fingerprints-to-enable-attacks)
+- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39443695)
+- [SSDs Have Become Fast, Except in the Cloud](http://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
+- [Faculty group calls on Yale to make teaching &#39;distinct from activism&#39;](https://yaledailynews.com/blog/2024/02/19/faculty-group-calls-on-yale-to-make-teaching-distinct-from-activism/)
+- [Valve Makes All Steam Audio SDK Source Code Available Under Apache 2.0 License](https://www.phoronix.com/news/Steam-Audio-SDK-Fully-Open)
+- [Ask HN: Help, any US-based companies that allow you to work from Europe?](https://news.ycombinator.com/item?id=39443207)
 <!-- BLOG-POST-LIST:END -->
 
 ---
