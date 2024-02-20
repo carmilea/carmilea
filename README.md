@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yes Prime Minister, questionnaire design matters](https://www.ipsos.com/en-uk/yes-prime-minister-questionnaire-design-matters)
+- [Moore&#39;s Scofflaws](https://oxide.computer/blog/moores-scofflaws)
+- [A response to &quot;Erlang – overhyped or underestimated&quot; &lpar;2010&rpar;](http://jlouisramblings.blogspot.com/2010/12/response-to-erlang-overhyped-or.html)
+- [Martin Kleppmann talk on local-first &lpar;LoFi&rpar;](https://bsky.app/profile/martin.kleppmann.com/post/3kltpvnts622e)
 - [Signal: Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
-- [Why is no one making a new version of old Facebook?](https://12challenges.substack.com/p/why-is-no-one-making-a-new-version)
-- [Ask HN: How are you finding Gemini Ultra?](https://news.ycombinator.com/item?id=39444144)
-- [Introducing LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)
-- [Let&#39;s Build the GPT Tokenizer &lpar;by Andrej Karpathy&rpar; [video]](https://www.youtube.com/watch?v=zduSFxRajkE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
