@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patent Absurdity](https://queue.acm.org/detail.cfm?id=3489047)
+- [A collection of learning resources for curious software engineers](https://github.com/charlax/professional-programming)
+- [Patent Absurdity &lpar;2021&rpar;](https://queue.acm.org/detail.cfm?id=3489047)
 - [Why is Prettier rock solid?](https://mrmr.io/til/prettier/)
 - [Capital One to buy Discover Financial in $35.3B all-stock deal](https://www.reuters.com/markets/deals/capital-one-considers-acquisition-discover-financial-bloomberg-says-2024-02-19/)
-- [Dead Internet Theory](https://old.reddit.com/r/webdev/comments/1auxufd/dead_internet_theory/)
-- [Towards memory safety with ownership checks for C](http://thradams.com/cake/ownership.html)
+- [Cake – C23 and Beyond &lpar;2023&rpar;](http://thradams.com/cake/ownership.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
