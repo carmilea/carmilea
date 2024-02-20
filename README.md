@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Presenting TOC &lpar;Theory of Constraints&rpar; [video]](https://www.youtube.com/watch?v=DQoO8y3En3w)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers#section-job)
-- [In Defense of Simple Architectures](https://danluu.com/simple-architectures/)
-- [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
-- [Adding Keyboard Shortcuts to a 24 Year Old Government Website with Userscripts](https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts/)
+- [Alexei Navalny&#39;s wife Yulia Navalnaya has X social media account suspended](https://news.sky.com/story/alexei-navalnys-wife-yulia-navalnaya-has-x-social-media-account-suspended-13076185)
+- [Hetzner GPU Server](https://robot.hetzner.com/order/index/culture/en_GB)
+- [UI Is a Function of Your Organization](https://blog.jim-nielsen.com/2024/ui-fn-org/)
+- [Rotten Apple](https://adactio.com/journal/20888)
+- [China is building more coal plants but might burn less coal](https://www.sustainabilitybynumbers.com/p/china-coal-plants)
 <!-- BLOG-POST-LIST:END -->
 
 ---
