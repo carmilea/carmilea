@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US will relax pollution-limiting rules for vehicle emissions](https://www.theverge.com/2024/2/18/24076585/biden-emission-rules-relaxed-pollution-auto-industry-evs)
+- [Understanding Oracle’s Real-Time Ingestion Overhead With Kafka, and How SingleStore Is Better](https://www.singlestore.com/blog/oracle-real-time-ingestion-overhead-with-kafka)
 - [Bad property debt exceeds reserves at largest US banks](https://www.ft.com/content/4114454c-a924-4929-85f4-5360b2b871c6)
 - [I was deliberately infected with Zika to test a vaccine](https://worksinprogress.co/issue/life-in-the-time-of-zika/)
 - [Hetzner GPU Server](https://robot.hetzner.com/order/index/culture/en_GB)
-- [UI Is a Function of Your Organization](https://blog.jim-nielsen.com/2024/ui-fn-org/)
-- [Walmart to buy TV maker Vizio for $2.3B](https://www.cnbc.com/2024/02/20/walmart-agrees-to-buy-vizio-to-grow-ad-business.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
