@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kagi Sidekick &lpar;Alpha&rpar;](https://sidekick.kagi.com/)
+- [Show HN: Enumerate Office365/Azure Domains](https://azure-enum.lolware.net/)
 - [Spine AI &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
-- [Exodus Bitcoin Wallet: $490k swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
-- [LED Matrix Earrings](https://mitxela.com/projects/ledstud)
-- [Study suggests a &#39;dark mirror&#39; universe within ours where atoms failed to form](https://www.livescience.com/space/cosmology/there-may-be-a-dark-mirror-universe-within-ours-where-atoms-failed-to-form-new-study-suggests)
-- [Saturn&#39;s largest moon most likely uninhabitable](https://phys.org/news/2024-02-saturn-largest-moon-uninhabitable.html)
+- [The asteroid that wiped out dinosaurs didn&#39;t impact bird evolution: new study](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)
+- [Warning: $14k BigQuery charge in 2 hours](https://discuss.httparchive.org/t/warning-14-000-bigquery-charge-in-2-hours/2715)
 <!-- BLOG-POST-LIST:END -->
 
 ---
