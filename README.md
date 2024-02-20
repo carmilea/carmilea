@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI your home on street view](https://googlemapsmania.blogspot.com/2024/02/ai-your-home-on-street-view.html)
-- [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
-- [LKML discusses merging Rust access to filesystem APIs](https://lwn.net/Articles/958072/)
-- [WebKit switching to Skia for 2d graphics rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
-- [DJI – The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
+- [Presenting TOC &lpar;Theory of Constraints&rpar; [video]](https://www.youtube.com/watch?v=DQoO8y3En3w)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers#section-job)
+- [In Defense of Simple Architectures](https://danluu.com/simple-architectures/)
+- [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
+- [Adding Keyboard Shortcuts to a 24 Year Old Government Website with Userscripts](https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
