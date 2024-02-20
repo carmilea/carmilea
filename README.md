@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Multiple Time Dimensions](https://en.wikipedia.org/wiki/Multiple_time_dimensions)
 - [LKML discusses merging Rust access to filesystem APIs](https://lwn.net/Articles/958072/)
 - [WebKit switching to Skia for 2d graphics rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
-- [DJI – The Art of Obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
+- [DJI – The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
 - [GALA3D: Towards Text-to-3D Complex Scene Generation](https://gala3d.github.io/)
-- [Why is Prettier rock solid?](https://mrmr.io/til/prettier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
