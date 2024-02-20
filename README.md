@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning resources for curious software engineers](https://github.com/charlax/professional-programming)
+- [WebKit switching to Skia for 2d graphics rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
 - [GALA3D: Towards Text-to-3D Complex Scene Generation](https://gala3d.github.io/)
-- [Patent Absurdity &lpar;2021&rpar;](https://queue.acm.org/detail.cfm?id=3489047)
 - [Why is Prettier rock solid?](https://mrmr.io/til/prettier/)
 - [Cake – C23 and Beyond &lpar;2023&rpar;](http://thradams.com/cake/ownership.html)
+- [How to Fold a Julia Fractal &lpar;2013&rpar;](https://acko.net/blog/how-to-fold-a-julia-fractal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
