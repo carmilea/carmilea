@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yes Prime Minister, questionnaire design matters](https://www.ipsos.com/en-uk/yes-prime-minister-questionnaire-design-matters)
-- [Moore&#39;s Scofflaws](https://oxide.computer/blog/moores-scofflaws)
-- [A response to &quot;Erlang – overhyped or underestimated&quot; &lpar;2010&rpar;](http://jlouisramblings.blogspot.com/2010/12/response-to-erlang-overhyped-or.html)
-- [Martin Kleppmann talk on local-first &lpar;LoFi&rpar;](https://bsky.app/profile/martin.kleppmann.com/post/3kltpvnts622e)
-- [Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
+- [Spine AI &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
+- [Exodus Bitcoin Wallet: $490k swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
+- [LED Matrix Earrings](https://mitxela.com/projects/ledstud)
+- [Study suggests a &#39;dark mirror&#39; universe within ours where atoms failed to form](https://www.livescience.com/space/cosmology/there-may-be-a-dark-mirror-universe-within-ours-where-atoms-failed-to-form-new-study-suggests)
+- [Saturn&#39;s largest moon most likely uninhabitable](https://phys.org/news/2024-02-saturn-largest-moon-uninhabitable.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
