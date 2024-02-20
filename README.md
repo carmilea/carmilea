@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US will relax pollution-limiting rules for vehicle emissions](https://www.theverge.com/2024/2/18/24076585/biden-emission-rules-relaxed-pollution-auto-industry-evs)
-- [Understanding Oracle’s Real-Time Ingestion Overhead With Kafka, and How SingleStore Is Better](https://www.singlestore.com/blog/oracle-real-time-ingestion-overhead-with-kafka)
-- [Bad property debt exceeds reserves at largest US banks](https://www.ft.com/content/4114454c-a924-4929-85f4-5360b2b871c6)
-- [I was deliberately infected with Zika to test a vaccine](https://worksinprogress.co/issue/life-in-the-time-of-zika/)
-- [Hetzner GPU Server](https://robot.hetzner.com/order/index/culture/en_GB)
+- [Microsoft Is Spying on Users of Its AI Tools](https://www.schneier.com/blog/archives/2024/02/microsoft-is-spying-on-users-of-its-ai-tools.html)
+- [Writing a scheduler for Linux in Rust that runs in user-space](http://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)
+- [Launch HN: Dart &lpar;YC W22&rpar; – Project management with automatic report generation](https://news.ycombinator.com/item?id=39442368)
+- [Vietnam to collect biometrics – even DNA – for new ID cards](https://www.theregister.com/2024/02/20/vietnam_id_cards_dna/)
+- [Fingerprints can be recreated from the sounds made when you swipe a screen](https://www.tomshardware.com/tech-industry/cyber-security/your-fingerprints-can-be-recreated-from-the-sounds-made-when-you-swipe-on-a-touchscreen-researchers-new-side-channel-attack-can-reproduce-partial-fingerprints-to-enable-attacks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
