@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39443695)
-- [SSDs Have Become Fast, Except in the Cloud](http://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
-- [Faculty group calls on Yale to make teaching &#39;distinct from activism&#39;](https://yaledailynews.com/blog/2024/02/19/faculty-group-calls-on-yale-to-make-teaching-distinct-from-activism/)
-- [Valve Makes All Steam Audio SDK Source Code Available Under Apache 2.0 License](https://www.phoronix.com/news/Steam-Audio-SDK-Fully-Open)
-- [Ask HN: Help, any US-based companies that allow you to work from Europe?](https://news.ycombinator.com/item?id=39443207)
+- [Signal: Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
+- [Why is no one making a new version of old Facebook?](https://12challenges.substack.com/p/why-is-no-one-making-a-new-version)
+- [Ask HN: How are you finding Gemini Ultra?](https://news.ycombinator.com/item?id=39444144)
+- [Introducing LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)
+- [Let&#39;s Build the GPT Tokenizer &lpar;by Andrej Karpathy&rpar; [video]](https://www.youtube.com/watch?v=zduSFxRajkE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
