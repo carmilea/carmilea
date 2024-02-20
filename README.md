@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Multiple Time Dimensions](https://en.wikipedia.org/wiki/Multiple_time_dimensions)
+- [AI your home on street view](https://googlemapsmania.blogspot.com/2024/02/ai-your-home-on-street-view.html)
+- [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
 - [LKML discusses merging Rust access to filesystem APIs](https://lwn.net/Articles/958072/)
 - [WebKit switching to Skia for 2d graphics rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
 - [DJI – The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
-- [GALA3D: Towards Text-to-3D Complex Scene Generation](https://gala3d.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
