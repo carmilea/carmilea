@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kagi Sidekick &lpar;Alpha&rpar;](https://sidekick.kagi.com/)
+- [YouTube&#39;s search function is atrocious now [video]](https://www.youtube.com/watch?v=Z3dSkkEr-wk)
+- [The Windows Context Menu – Is It a Lost Cause?](https://enderman.ch/blog/the-windows-context-menu)
+- [Kagi Sidekick &lpar;alpha&rpar;](https://sidekick.kagi.com/)
 - [Show HN: Enumerate Office365/Azure Domains](https://azure-enum.lolware.net/)
 - [Spine AI &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
-- [The asteroid that wiped out dinosaurs didn&#39;t impact bird evolution: new study](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)
-- [Warning: $14k BigQuery charge in 2 hours](https://discuss.httparchive.org/t/warning-14-000-bigquery-charge-in-2-hours/2715)
 <!-- BLOG-POST-LIST:END -->
 
 ---
