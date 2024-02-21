@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neural Network Diffusion](https://arxiv.org/abs/2402.13144)
+- [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
+- [Boeing ousts 737 MAX chief](https://www.seattletimes.com/business/boeing-aerospace/boeing-ousts-head-of-737-max-program-reshuffles-leadership-team/)
+- [AI behavior guardrails should be public](https://twitter.com/ID_AA_Carmack/status/1760360183945965853)
 - [Useful Uses of Cat](https://two-wrongs.com/useful-uses-of-cat)
-- [Webhooks suck, but here are alternatives](https://deno.com/blog/webhooks-suck)
-- [Embedded Real-Time Analytics with Explo and SingleStore](https://www.singlestore.com/blog/embedded-real-time-analytics-explo-and-singlestore)
-- [Unconventional Strategies to Get Unstuck from a Creative Rut](https://www.holloway.com/s/cd-three-exercises-for-getting-unstuck)
-- [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
