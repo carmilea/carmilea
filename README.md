@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s New Horizons Discovered a Large Surprise in the Kuiper Belt](https://www.sciencealert.com/nasas-new-horizons-discovered-a-large-surprise-in-the-kuiper-belt)
+- [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://junzhan2000.github.io/AnyGPT.github.io/)
+- [The data is in: RTO policies don&#39;t improve employee performance or company value](https://www.businessinsider.com/rto-policies-dont-improve-employee-performance-company-value-controlling-bosses-2024-1)
+- [Launch HN: Retell AI &lpar;YC W24&rpar; – Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402)
 - [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
-- [Tech has graduated from the Star Trek era to the Douglas Adams age](https://interconnected.org/home/2024/02/21/adams)
-- [XL: An Extensible Programming Language](https://xlr.sourceforge.io/)
-- [Open-Source Nvidia Driver Moving to NVK and Zink for OpenGL on Newer GPUs](https://www.phoronix.com/news/Zink-NVK-For-NVIDIA-OpenGL)
-- [What is going on in Argentina?](https://memoirsandrambles.substack.com/p/what-the-fuck-is-going-on-in-argentina)
 <!-- BLOG-POST-LIST:END -->
 
 ---
