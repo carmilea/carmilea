@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LaTeX and Neovim for technical note-taking](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
-- [How smart do you have to be to get a degree?](https://www.cremieux.xyz/p/education-isnt-what-it-used-to-be)
-- [BT Tower is to be turned into a HOTEL](https://www.ianvisits.co.uk/articles/bt-tower-is-to-be-turned-into-a-hotel-70413/)
-- [Trident missile test fails for a second time in a row](https://www.bbc.co.uk/news/uk-68355395)
-- [Game Programming Patterns &lpar;2014&rpar;](https://gameprogrammingpatterns.com/)
+- [Open-Source Nvidia Driver Moving to NVK and Zink for OpenGL on Newer GPUs](https://www.phoronix.com/news/Zink-NVK-For-NVIDIA-OpenGL)
+- [What the fuck is going on in Argentina?](https://memoirsandrambles.substack.com/p/what-the-fuck-is-going-on-in-argentina)
+- [Rust and Htmx: Making a Slack/campfire clone](https://github.com/gamedolphin/speakwith)
+- [Top reasons to move from CentOS to RHEL &lpar;according to Red Hat&rpar; are a 404 page](https://www.theregister.com/2024/02/20/red_hat_rhel_reasons/)
+- [Pijul is a free and open source &lpar;GPL2&rpar; distributed version control system](https://pijul.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
