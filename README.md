@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Was Sora Trained On? Creatives Demand Answers](https://in.mashable.com/tech/69813/what-was-sora-trained-on-creatives-demand-answers)
+- [Japan Bets $67B to Become a Global Chip Powerhouse Once Again](https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html)
 - [The Lifespan of Large Appliances Is Shrinking](https://www.wsj.com/personal-finance/the-lifespan-of-large-appliances-is-shrinking-e5fb205b)
-- [The Average New Yorker Spends $10,454 in Upfront Costs for a Rental](https://streeteasy.com/blog/new-yorkers-spend-over-10k-in-upfront-rental-costs/)
+- [If Architects had to work like Programmers](http://www.gksoft.com/a/fun/architects.html)
 - [Court blocks $1B copyright ruling that punished ISP for its users&#39; piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
-- [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
-- [Kagi Sidekick &lpar;alpha&rpar;](https://sidekick.kagi.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
