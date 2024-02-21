@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trident missile test fails for a second time in a row](https://www.bbc.co.uk/news/uk-68355395)
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
-- [So You Want to Ship a Command-Line Tool for macOS](https://becca.ooo/blog/so-you-want-to-ship-a-command-line-tool-for-macos/)
+- [So You Want to Ship a Command-Line Tool for macOS &lpar;2022&rpar;](https://becca.ooo/blog/so-you-want-to-ship-a-command-line-tool-for-macos/)
 - [ChatGPT Has Gone Berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
 - [100kHz to 6GHz 2 port USB based VNA](https://github.com/jankae/LibreVNA)
-- [DeepComputing ROMA RISC-V Laptop](https://store.deepcomputing.io/products/dc-roma-risc-v-laptop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
