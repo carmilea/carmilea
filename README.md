@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia Announces Financial Results for Fourth Quarter and Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2024)
+- [An Introduction to the Theory and Practice of Poker &lpar;2020&rpar;](https://hopkinspokercourse.com/)
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [Show HN: Wiwo – Find events happening around you. Google Maps, but for events.](https://www.wiwo.world/map)
 - [Updated user interface for signing in to or signing up for your Google Account](https://workspaceupdates.googleblog.com/2024/02/new-google-sign-in-page.html)
-- [Moving a billion Postgres rows on a $100 budget](https://blog.peerdb.io/moving-a-billion-postgres-rows-on-a-100-budget)
-- [Neural Network Diffusion](https://arxiv.org/abs/2402.13144)
-- [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
