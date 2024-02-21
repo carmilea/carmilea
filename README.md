@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [Updated user interface for signing in to or signing up for your Google Account](https://workspaceupdates.googleblog.com/2024/02/new-google-sign-in-page.html)
+- [Moving a billion Postgres rows on a $100 budget](https://blog.peerdb.io/moving-a-billion-postgres-rows-on-a-100-budget)
 - [Neural Network Diffusion](https://arxiv.org/abs/2402.13144)
 - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
-- [Boeing ousts 737 MAX chief](https://www.seattletimes.com/business/boeing-aerospace/boeing-ousts-head-of-737-max-program-reshuffles-leadership-team/)
-- [AI behavior guardrails should be public](https://twitter.com/ID_AA_Carmack/status/1760360183945965853)
-- [Useful Uses of Cat](https://two-wrongs.com/useful-uses-of-cat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
