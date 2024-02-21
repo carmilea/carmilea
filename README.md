@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Game Programming Patterns](https://gameprogrammingpatterns.com/)
+- [So You Want to Ship a Command-Line Tool for macOS](https://becca.ooo/blog/so-you-want-to-ship-a-command-line-tool-for-macos/)
 - [ChatGPT Has Gone Berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
+- [100kHz to 6GHz 2 port USB based VNA](https://github.com/jankae/LibreVNA)
 - [DeepComputing ROMA RISC-V Laptop](https://store.deepcomputing.io/products/dc-roma-risc-v-laptop)
-- [Would von Braun&#39;s Mars Landers Have Worked?](https://raypatrick.xyz/blog/2023/11/24/would-von-brauns-mars-landers-have-worked/)
-- [Walmart buying TV-brand Vizio for its ad-fueling customer data](https://arstechnica.com/gadgets/2024/02/walmart-buying-tv-brand-vizio-for-its-ad-fueling-customer-data/)
-- [Japan Bets $67B to Become a Global Chip Powerhouse Once Again](https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
