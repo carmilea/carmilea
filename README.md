@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Teen Subcultures Are Fading. Pity the Poor Kids](https://www.nytimes.com/2024/02/21/magazine/aesthetics-tiktok-teens.html)
+- [RFC 9512: YAML Media Type](https://www.rfc-editor.org/rfc/rfc9512.html)
 - [NASA&#39;s New Horizons Discovered a Large Surprise in the Kuiper Belt](https://www.sciencealert.com/nasas-new-horizons-discovered-a-large-surprise-in-the-kuiper-belt)
+- [Remix Vite Is Now Stable](https://remix.run/blog/remix-vite-stable)
 - [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://junzhan2000.github.io/AnyGPT.github.io/)
-- [The data is in: RTO policies don&#39;t improve employee performance or company value](https://www.businessinsider.com/rto-policies-dont-improve-employee-performance-company-value-controlling-bosses-2024-1)
-- [Launch HN: Retell AI &lpar;YC W24&rpar; – Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402)
-- [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
