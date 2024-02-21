@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Teen Subcultures Are Fading. Pity the Poor Kids](https://www.nytimes.com/2024/02/21/magazine/aesthetics-tiktok-teens.html)
-- [RFC 9512: YAML Media Type](https://www.rfc-editor.org/rfc/rfc9512.html)
-- [NASA&#39;s New Horizons Discovered a Large Surprise in the Kuiper Belt](https://www.sciencealert.com/nasas-new-horizons-discovered-a-large-surprise-in-the-kuiper-belt)
-- [Remix Vite Is Now Stable](https://remix.run/blog/remix-vite-stable)
-- [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://junzhan2000.github.io/AnyGPT.github.io/)
+- [Parsing: The Solved Problem That Isn&#39;t &lpar;2011&rpar;](https://tratt.net/laurie/blog/2011/parsing_the_solved_problem_that_isnt.html)
+- [Air Canada Has to Honor a Refund Policy Its Chatbot Made Up](https://www.wired.com/story/air-canada-chatbot-refund-policy)
+- [Coffee machine camera at Amazon warehouse raises concerns about surveillance](https://sahanjournal.com/business-work/amazon-coffee-machine-camera-surveillance/)
+- [The Ruby on Rails Podcast Episode 508: YJIT with Maxime Chevalier-Boisvert](https://www.therubyonrailspodcast.com/508)
+- [ADHD linked to evolutionary success in ancient humans](https://newatlas.com/science/adhd-evolutionary-benefits-foraging-explore-exploit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
