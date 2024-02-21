@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Lifespan of Large Appliances Is Shrinking](https://www.wsj.com/personal-finance/the-lifespan-of-large-appliances-is-shrinking-e5fb205b)
+- [The Average New Yorker Spends $10,454 in Upfront Costs for a Rental](https://streeteasy.com/blog/new-yorkers-spend-over-10k-in-upfront-rental-costs/)
 - [Court blocks $1B copyright ruling that punished ISP for its users&#39; piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
 - [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
 - [Kagi Sidekick &lpar;alpha&rpar;](https://sidekick.kagi.com/)
-- [Spine AI &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
-- [An asteroid wiped out dinosaurs – did it help birds flourish?](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
