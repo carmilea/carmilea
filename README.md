@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Useful Uses of Cat](https://two-wrongs.com/useful-uses-of-cat)
+- [Webhooks suck, but here are alternatives](https://deno.com/blog/webhooks-suck)
+- [Embedded Real-Time Analytics with Explo and SingleStore](https://www.singlestore.com/blog/embedded-real-time-analytics-explo-and-singlestore)
 - [Unconventional Strategies to Get Unstuck from a Creative Rut](https://www.holloway.com/s/cd-three-exercises-for-getting-unstuck)
-- [Google Reneged on the Monopolistic Bargain](https://pluralistic.net/2024/02/21/im-feeling-unlucky/#not-up-to-the-task)
 - [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [Strawberry Pop-Tart Blow-Torches &lpar;1994&rpar;](https://www.pmichaud.com/toast/)
-- [Algebraic Effects, Ownership, and Borrowing](https://antelang.org/blog/effects_ownership_and_borrowing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
