@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LaTeX and Neovim for technical note-taking](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
+- [How smart do you have to be to get a degree?](https://www.cremieux.xyz/p/education-isnt-what-it-used-to-be)
+- [BT Tower is to be turned into a HOTEL](https://www.ianvisits.co.uk/articles/bt-tower-is-to-be-turned-into-a-hotel-70413/)
 - [Trident missile test fails for a second time in a row](https://www.bbc.co.uk/news/uk-68355395)
 - [Game Programming Patterns &lpar;2014&rpar;](https://gameprogrammingpatterns.com/)
-- [So You Want to Ship a Command-Line Tool for macOS &lpar;2022&rpar;](https://becca.ooo/blog/so-you-want-to-ship-a-command-line-tool-for-macos/)
-- [ChatGPT has gone berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
-- [100kHz to 6GHz 2 port USB based VNA](https://github.com/jankae/LibreVNA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
