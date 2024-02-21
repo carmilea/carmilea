@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube&#39;s search function is atrocious now [video]](https://www.youtube.com/watch?v=Z3dSkkEr-wk)
-- [The Windows Context Menu – Is It a Lost Cause?](https://enderman.ch/blog/the-windows-context-menu)
+- [Court blocks $1B copyright ruling that punished ISP for its users&#39; piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
+- [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
 - [Kagi Sidekick &lpar;alpha&rpar;](https://sidekick.kagi.com/)
-- [Show HN: Enumerate Office365/Azure Domains](https://azure-enum.lolware.net/)
 - [Spine AI &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
+- [Exodus Bitcoin Wallet: $490k swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
