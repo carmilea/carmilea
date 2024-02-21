@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Has Gone Berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
+- [DeepComputing ROMA RISC-V Laptop](https://store.deepcomputing.io/products/dc-roma-risc-v-laptop)
 - [Would von Braun&#39;s Mars Landers Have Worked?](https://raypatrick.xyz/blog/2023/11/24/would-von-brauns-mars-landers-have-worked/)
 - [Walmart buying TV-brand Vizio for its ad-fueling customer data](https://arstechnica.com/gadgets/2024/02/walmart-buying-tv-brand-vizio-for-its-ad-fueling-customer-data/)
 - [Japan Bets $67B to Become a Global Chip Powerhouse Once Again](https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html)
-- [If Architects had to work like Programmers &lpar;1995&rpar;](http://www.gksoft.com/a/fun/architects.html)
-- [Court blocks $1B copyright ruling that punished ISP for its users&#39; piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
