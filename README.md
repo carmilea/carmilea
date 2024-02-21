@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia Announces Financial Results for Fourth Quarter and Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2024)
+- [Tell HN: To be honest.. GPT copilots aren&#39;t that great for programming](https://news.ycombinator.com/item?id=39460788)
+- [Go Run](https://breadchris.com/blog/go-run/)
+- [Atuin – Magical Shell History](https://atuin.sh)
 - [An Introduction to the Theory and Practice of Poker &lpar;2020&rpar;](https://hopkinspokercourse.com/)
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- [Show HN: Wiwo – Find events happening around you. Google Maps, but for events.](https://www.wiwo.world/map)
-- [Updated user interface for signing in to or signing up for your Google Account](https://workspaceupdates.googleblog.com/2024/02/new-google-sign-in-page.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
