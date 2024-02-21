@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Parsing: The Solved Problem That Isn&#39;t &lpar;2011&rpar;](https://tratt.net/laurie/blog/2011/parsing_the_solved_problem_that_isnt.html)
-- [Air Canada Has to Honor a Refund Policy Its Chatbot Made Up](https://www.wired.com/story/air-canada-chatbot-refund-policy)
-- [Coffee machine camera at Amazon warehouse raises concerns about surveillance](https://sahanjournal.com/business-work/amazon-coffee-machine-camera-surveillance/)
-- [The Ruby on Rails Podcast Episode 508: YJIT with Maxime Chevalier-Boisvert](https://www.therubyonrailspodcast.com/508)
-- [ADHD linked to evolutionary success in ancient humans](https://newatlas.com/science/adhd-evolutionary-benefits-foraging-explore-exploit/)
+- [Unconventional Strategies to Get Unstuck from a Creative Rut](https://www.holloway.com/s/cd-three-exercises-for-getting-unstuck)
+- [Google Reneged on the Monopolistic Bargain](https://pluralistic.net/2024/02/21/im-feeling-unlucky/#not-up-to-the-task)
+- [Motion &lpar;YC W20&rpar; Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [Strawberry Pop-Tart Blow-Torches &lpar;1994&rpar;](https://www.pmichaud.com/toast/)
+- [Algebraic Effects, Ownership, and Borrowing](https://antelang.org/blog/effects_ownership_and_borrowing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
