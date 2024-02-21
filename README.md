@@ -60,7 +60,7 @@
 - [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
 - [Kagi Sidekick &lpar;alpha&rpar;](https://sidekick.kagi.com/)
 - [Spine AI &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
-- [Exodus Bitcoin Wallet: $490k swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
+- [An asteroid wiped out dinosaurs – did it help birds flourish?](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
