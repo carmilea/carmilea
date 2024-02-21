@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
+- [Tech has graduated from the Star Trek era to the Douglas Adams age](https://interconnected.org/home/2024/02/21/adams)
+- [XL: An Extensible Programming Language](https://xlr.sourceforge.io/)
 - [Open-Source Nvidia Driver Moving to NVK and Zink for OpenGL on Newer GPUs](https://www.phoronix.com/news/Zink-NVK-For-NVIDIA-OpenGL)
-- [What the fuck is going on in Argentina?](https://memoirsandrambles.substack.com/p/what-the-fuck-is-going-on-in-argentina)
-- [Rust and Htmx: Making a Slack/campfire clone](https://github.com/gamedolphin/speakwith)
-- [Top reasons to move from CentOS to RHEL &lpar;according to Red Hat&rpar; are a 404 page](https://www.theregister.com/2024/02/20/red_hat_rhel_reasons/)
-- [Pijul is a free and open source &lpar;GPL2&rpar; distributed version control system](https://pijul.org/)
+- [What is going on in Argentina?](https://memoirsandrambles.substack.com/p/what-the-fuck-is-going-on-in-argentina)
 <!-- BLOG-POST-LIST:END -->
 
 ---
