@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflex &lpar;YC W23&rpar; is hiring SWEs to work on open-source Python web apps](https://news.ycombinator.com/item?id=39473170)
+- [Nobody Ever Gets Credit for Fixing Problems That Never Happened &lpar;2001&rpar; [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
 - [Google Secures $60M Deal for Real-Time Access to Reddit Data](https://www.theverge.com/2024/2/22/24080165/google-reddit-ai-training-data)
 - [Sweeping chronic fatigue study brings clues, not clarity to mysterious syndrome](https://www.science.org/content/article/sweeping-chronic-fatigue-study-brings-clues-not-clarity-mysterious-syndrome)
 - [Our Company Is Doing So Well That You&#39;re All Fired](https://www.mcsweeneys.net/articles/our-company-is-doing-so-well-that-youre-all-fired)
-- [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
-- [Expanding Our Partnership with Google](https://www.redditinc.com/blog/reddit-and-google-expand-partnership)
 <!-- BLOG-POST-LIST:END -->
 
 ---
