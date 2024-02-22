@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube dominates TV streaming in US, per Nielsen&#39;s latest report](https://techcrunch.com/2024/02/20/youtube-dominates-tv-streaming-in-u-s-per-nielsens-latest-report/)
+- [Show HN: Sapling is a business-ready TypeScript, Express.js, React boilerplate](https://sapling.bumpkin.solutions)
+- [A Python Library to 6-7x the inference speed of your HF models](https://github.com/MDK8888/GPTFast)
 - [Blue Origin has emerged as the likely buyer for United Launch Alliance](https://arstechnica.com/space/2024/02/blue-origin-has-emerged-as-the-likely-buyer-for-united-launch-alliance/)
 - [Things Unexpectedly Named After People](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
-- [Japan&#39;s Nikkei surpasses 1989 all-time high](https://www.cnbc.com/2024/02/22/japans-nikkei-hits-all-time-high-on-reforms-robust-corporate-earnings.html)
-- [OpenAI postmortem – Unexpected responses from ChatGPT](https://status.openai.com/incidents/ssg8fh7sfyz3)
-- [Go Run](https://breadchris.com/blog/go-run/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
