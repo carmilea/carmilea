@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AT&amp;T customers hit by widespread cellular outages in U.S.](https://www.nbcnews.com/news/us-news/t-verizon-t-mobile-customers-hit-widespread-cellular-outages-us-rcna139938)
+- [AT&amp;T customers report nationwide service disruptions](https://www.theverge.com/2024/2/22/24079910/att-network-outage-sos-mode)
+- [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
 - [Reading a Programmer&#39;s Guide to Common Lisp](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
-- [Replacement PCB Replicates Early 80s Modem](https://tempestfpga.com/)
-- [Bridging empirical-theoretical gap in neural network formal language learning](https://arxiv.org/abs/2402.10013)
-- [SN Pro Typeface](https://supernotes.app/open-source/sn-pro/)
-- [Stepful &lpar;YC S21&rpar; is hiring a product engineer in New York](https://www.ycombinator.com/companies/stepful/jobs/iLjGDJ0-product-engineer)
+- [A Plastic Tsunami Is Taking over Farms. What Will Stop Plasticulture?](https://modernfarmer.com/2024/02/plastic-farms-stop-plasticulture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
