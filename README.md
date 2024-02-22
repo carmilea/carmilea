@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reading a Programmer&#39;s Guide to Common Lisp](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
+- [Replacement PCB Replicates Early 80s Modem](https://tempestfpga.com/)
+- [Bridging empirical-theoretical gap in neural network formal language learning](https://arxiv.org/abs/2402.10013)
+- [SN Pro Typeface](https://supernotes.app/open-source/sn-pro/)
 - [Stepful &lpar;YC S21&rpar; is hiring a product engineer in New York](https://www.ycombinator.com/companies/stepful/jobs/iLjGDJ0-product-engineer)
-- [The mothers fighting a scandal bigger than thalidomide](https://www.theguardian.com/society/2024/feb/22/the-mothers-fighting-a-scandal-bigger-than-thalidomide-we-were-told-the-medication-was-safe)
-- [How to optimally trap points in high-dimensional spaces inside ellipsoids](https://www.adrianriv.com/blog/2024/02/19/minimum_volume_ellipsoid/)
-- [Auth0 OSS alternative Ory Kratos now with passwordless and SMS support](https://github.com/ory/kratos/releases/tag/v1.1.0)
-- [GIMP 2.99.18: The last development preview before 3.0](https://www.gimp.org/news/2024/02/21/gimp-2-99-18-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
