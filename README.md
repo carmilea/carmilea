@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: 3,800 Beautiful Icons – React, SVG, NPM but Free](https://hugeicons.com/)
+- [Codeweavers released CrossOver 24 today](https://www.codeweavers.com/store/?)
+- [Did fermented foods fuel brain growth?](https://news.harvard.edu/gazette/story/2024/02/did-fermented-foods-fuel-brain-growth)
 - [Nimbus: Automatic Observability Optimization Is Hiring Founding Engineer](https://www.ycombinator.com/companies/nimbus-3/jobs/TgQFIkz-founding-engineer)
 - [YouTube addiction, one month sober](https://www.sophiajt.com/youtube-addiction-one-month-sober/)
-- [Math, Physics, and Engineering Applets](http://falstad.com/mathphysics.html)
-- [The Mystery of the Garage](https://www.strangeloopcanon.com/p/the-mystery-of-the-garage)
-- [Hybrid Search: Vector + Full-Text Search](https://www.singlestore.com/blog/hybrid-search-vector-full-text-search)
 <!-- BLOG-POST-LIST:END -->
 
 ---
