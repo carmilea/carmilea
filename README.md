@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google to fix AI picture bot after &#39;woke&#39; criticism](https://www.bbc.com/news/business-68364690)
+- [Japan&#39;s Nikkei surpasses 1989 all-time high](https://www.cnbc.com/2024/02/22/japans-nikkei-hits-all-time-high-on-reforms-robust-corporate-earnings.html)
+- [ChatGPT Is Funnier Than You](https://nautil.us/chatgpt-is-funnier-than-you-517984/)
 - [OpenAI postmortem – Unexpected responses from ChatGPT](https://status.openai.com/incidents/ssg8fh7sfyz3)
-- [&quot;Corolla killer:&quot; BYD launches $US15,000 EV in direct attack on legacy makers](https://thedriven.io/2024/02/22/corolla-killer-byd-launches-us15000-ev-in-direct-attack-on-legacy-makers/)
 - [Go Run](https://breadchris.com/blog/go-run/)
-- [Atuin – Magical Shell History](https://atuin.sh)
-- [An Introduction to the Theory and Practice of Poker &lpar;2020&rpar;](https://hopkinspokercourse.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
