@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Htmx vs. React: A Complete Comparison – Semaphore](https://semaphoreci.com/blog/htmx-react)
+- [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)
+- [I recorded a screen capture of a task. Gemini generated code to replicate it](https://twitter.com/DynamicWebPaige/status/1760537379369304309)
 - [Google Pay app will no longer be available](https://support.google.com/googlepay/answer/14555219?hl=en)
 - [Apple Pkl](https://github.com/apple/pkl)
-- [SQL Reunion: People, Projects, and Politics &lpar;1995&rpar;](https://www.mcjones.org/System_R/SQL_Reunion_95/sqlr95.html)
-- [Reflex &lpar;YC W23&rpar; is hiring SWEs to work on open-source Python web apps](https://news.ycombinator.com/item?id=39473170)
-- [Xerion: Neural Network Simulator &lpar;1995&rpar;](https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/neural/systems/xerion/0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
