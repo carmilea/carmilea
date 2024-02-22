@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Pay app will no longer be available](https://support.google.com/googlepay/answer/14555219?hl=en)
+- [Apple Pkl](https://github.com/apple/pkl)
+- [SQL Reunion: People, Projects, and Politics &lpar;1995&rpar;](https://www.mcjones.org/System_R/SQL_Reunion_95/sqlr95.html)
 - [Reflex &lpar;YC W23&rpar; is hiring SWEs to work on open-source Python web apps](https://news.ycombinator.com/item?id=39473170)
-- [Nobody Ever Gets Credit for Fixing Problems That Never Happened &lpar;2001&rpar; [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
-- [Google Secures $60M Deal for Real-Time Access to Reddit Data](https://www.theverge.com/2024/2/22/24080165/google-reddit-ai-training-data)
-- [Sweeping chronic fatigue study brings clues, not clarity to mysterious syndrome](https://www.science.org/content/article/sweeping-chronic-fatigue-study-brings-clues-not-clarity-mysterious-syndrome)
-- [Our Company Is Doing So Well That You&#39;re All Fired](https://www.mcsweeneys.net/articles/our-company-is-doing-so-well-that-youre-all-fired)
+- [Xerion: Neural Network Simulator &lpar;1995&rpar;](https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/neural/systems/xerion/0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
