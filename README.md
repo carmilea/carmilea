@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Secures $60M Deal for Real-Time Access to Reddit Data](https://www.theverge.com/2024/2/22/24080165/google-reddit-ai-training-data)
+- [Sweeping chronic fatigue study brings clues, not clarity to mysterious syndrome](https://www.science.org/content/article/sweeping-chronic-fatigue-study-brings-clues-not-clarity-mysterious-syndrome)
+- [Our Company Is Doing So Well That You&#39;re All Fired](https://www.mcsweeneys.net/articles/our-company-is-doing-so-well-that-youre-all-fired)
 - [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
-- [New code for SIGILL faults to help identify misbranches on OpenBSD](https://www.undeadly.org/cgi?action=article;sid=20240222183703)
-- [Linaro at FOSDEM 2024](https://www.linaro.org/blog/linaro-fosdem-2024/)
-- [Bluesky announces data federation for self hosters](https://bsky.social/about/blog/02-22-2024-open-social-web)
-- [Codeweavers released CrossOver 24 today](https://www.codeweavers.com/store/?)
+- [Expanding Our Partnership with Google](https://www.redditinc.com/blog/reddit-and-google-expand-partnership)
 <!-- BLOG-POST-LIST:END -->
 
 ---
