@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google to Pause Gemini Image Generation of People After Issues](https://twitter.com/Google_Comms/status/1760603321944121506)
+- [Google to Pause Gemini Image Generation of People After Issues](https://www.bloomberg.com/news/articles/2024-02-22/google-to-pause-gemini-image-generation-of-people-after-issues-lsx286rh)
 - [YouTube dominates TV streaming in US, per Nielsen&#39;s latest report](https://techcrunch.com/2024/02/20/youtube-dominates-tv-streaming-in-u-s-per-nielsens-latest-report/)
 - [What went wrong at Techstars](https://www.founderscoop.com/2024/what-went-wrong-at-techstars/)
-- [A Python Library to 6-7x the inference speed of your HF models](https://github.com/MDK8888/GPTFast)
 - [Blue Origin has emerged as the likely buyer for United Launch Alliance](https://arstechnica.com/space/2024/02/blue-origin-has-emerged-as-the-likely-buyer-for-united-launch-alliance/)
-- [Things unexpectedly named after people &lpar;2020&rpar;](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
