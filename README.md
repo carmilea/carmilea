@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;It has gotten out of hand&#39;: wage theft rampant in US construction](https://www.theguardian.com/us-news/2024/feb/14/construction-worker-unions-wage-theft)
+- [What Can You Do with a &#39;Failed&#39; Postmodern Utopia?](https://www.atlasobscura.com/articles/gibellina-failed-modernist-utopia)
+- [Show HN: Released Chartbrew v3.0 an open source client reporting platform](https://github.com/chartbrew/chartbrew/releases/tag/v3.0.0)
 - [Polypane 18: Introducing Polypane Portal](https://polypane.app/blog/polypane-18-introducing-polypane-portal/)
-- [Yale will again require standardized test scores for admission](https://www.washingtonpost.com/education/2024/02/22/yale-sat-act-admissions-requirement-reinstated/)
-- [Launch HN: Danswer &lpar;YC W24&rpar; – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
-- [Show HN: Pages CMS – A CMS for GitHub](https://pagescms.org)
+- [The Billion Row Challenge &lpar;1BRC&rpar; – Step-by-Step from 71s to 1.7s](https://questdb.io/blog/billion-row-challenge-step-by-step/)
+- [Why Is California the Way It Is?](https://unchartedterritories.tomaspueyo.com/p/why-is-california-the-way-it-is)
 <!-- BLOG-POST-LIST:END -->
 
 ---
