@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google to fix AI picture bot after &#39;woke&#39; criticism](https://www.bbc.com/news/business-68364690)
+- [Blue Origin has emerged as the likely buyer for United Launch Alliance](https://arstechnica.com/space/2024/02/blue-origin-has-emerged-as-the-likely-buyer-for-united-launch-alliance/)
+- [Things Unexpectedly Named After People](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
 - [Japan&#39;s Nikkei surpasses 1989 all-time high](https://www.cnbc.com/2024/02/22/japans-nikkei-hits-all-time-high-on-reforms-robust-corporate-earnings.html)
-- [ChatGPT Is Funnier Than You](https://nautil.us/chatgpt-is-funnier-than-you-517984/)
 - [OpenAI postmortem – Unexpected responses from ChatGPT](https://status.openai.com/incidents/ssg8fh7sfyz3)
 - [Go Run](https://breadchris.com/blog/go-run/)
 <!-- BLOG-POST-LIST:END -->
