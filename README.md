@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Can You Do with a &#39;Failed&#39; Postmodern Utopia?](https://www.atlasobscura.com/articles/gibellina-failed-modernist-utopia)
-- [Show HN: Released Chartbrew v3.0 an open source client reporting platform](https://github.com/chartbrew/chartbrew/releases/tag/v3.0.0)
-- [Polypane 18: Introducing Polypane Portal](https://polypane.app/blog/polypane-18-introducing-polypane-portal/)
-- [The Billion Row Challenge &lpar;1BRC&rpar; – Step-by-Step from 71s to 1.7s](https://questdb.io/blog/billion-row-challenge-step-by-step/)
-- [Why Is California the Way It Is?](https://unchartedterritories.tomaspueyo.com/p/why-is-california-the-way-it-is)
+- [Nimbus: Automatic Observability Optimization Is Hiring Founding Engineer](https://www.ycombinator.com/companies/nimbus-3/jobs/TgQFIkz-founding-engineer)
+- [YouTube addiction, one month sober](https://www.sophiajt.com/youtube-addiction-one-month-sober/)
+- [Math, Physics, and Engineering Applets](http://falstad.com/mathphysics.html)
+- [The Mystery of the Garage](https://www.strangeloopcanon.com/p/the-mystery-of-the-garage)
+- [Hybrid Search: Vector + Full-Text Search](https://www.singlestore.com/blog/hybrid-search-vector-full-text-search)
 <!-- BLOG-POST-LIST:END -->
 
 ---
