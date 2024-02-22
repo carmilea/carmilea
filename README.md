@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: To be honest.. GPT copilots aren&#39;t that great for programming](https://news.ycombinator.com/item?id=39460788)
+- [Apple reverses course: app must pay 30% App Store fee on tips sent to teachers](https://9to5mac.com/2024/02/21/insight-timer-meditation-app-store-rules/)
 - [Go Run](https://breadchris.com/blog/go-run/)
 - [Atuin – Magical Shell History](https://atuin.sh)
 - [An Introduction to the Theory and Practice of Poker &lpar;2020&rpar;](https://hopkinspokercourse.com/)
