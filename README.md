@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple reverses course: app must pay 30% App Store fee on tips sent to teachers](https://9to5mac.com/2024/02/21/insight-timer-meditation-app-store-rules/)
+- [OpenAI postmortem – Unexpected responses from ChatGPT](https://status.openai.com/incidents/ssg8fh7sfyz3)
+- [&quot;Corolla killer:&quot; BYD launches $US15,000 EV in direct attack on legacy makers](https://thedriven.io/2024/02/22/corolla-killer-byd-launches-us15000-ev-in-direct-attack-on-legacy-makers/)
 - [Go Run](https://breadchris.com/blog/go-run/)
 - [Atuin – Magical Shell History](https://atuin.sh)
 - [An Introduction to the Theory and Practice of Poker &lpar;2020&rpar;](https://hopkinspokercourse.com/)
-- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
