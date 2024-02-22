@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [YouTube dominates TV streaming in US, per Nielsen&#39;s latest report](https://techcrunch.com/2024/02/20/youtube-dominates-tv-streaming-in-u-s-per-nielsens-latest-report/)
+- [What went wrong at Techstars](https://www.founderscoop.com/2024/what-went-wrong-at-techstars/)
 - [A Python Library to 6-7x the inference speed of your HF models](https://github.com/MDK8888/GPTFast)
 - [Blue Origin has emerged as the likely buyer for United Launch Alliance](https://arstechnica.com/space/2024/02/blue-origin-has-emerged-as-the-likely-buyer-for-united-launch-alliance/)
-- [Things unexpectedly named after people](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
-- [Japan&#39;s Nikkei surpasses 1989 all-time high](https://www.cnbc.com/2024/02/22/japans-nikkei-hits-all-time-high-on-reforms-robust-corporate-earnings.html)
+- [Things unexpectedly named after people &lpar;2020&rpar;](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
