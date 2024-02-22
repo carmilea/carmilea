@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: 3,800 Beautiful Icons – React, SVG, NPM but Free](https://hugeicons.com/)
+- [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
+- [New code for SIGILL faults to help identify misbranches on OpenBSD](https://www.undeadly.org/cgi?action=article;sid=20240222183703)
+- [Linaro at FOSDEM 2024](https://www.linaro.org/blog/linaro-fosdem-2024/)
+- [Bluesky announces data federation for self hosters](https://bsky.social/about/blog/02-22-2024-open-social-web)
 - [Codeweavers released CrossOver 24 today](https://www.codeweavers.com/store/?)
-- [Did fermented foods fuel brain growth?](https://news.harvard.edu/gazette/story/2024/02/did-fermented-foods-fuel-brain-growth)
-- [Nimbus: Automatic Observability Optimization Is Hiring Founding Engineer](https://www.ycombinator.com/companies/nimbus-3/jobs/TgQFIkz-founding-engineer)
-- [YouTube addiction, one month sober](https://www.sophiajt.com/youtube-addiction-one-month-sober/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
