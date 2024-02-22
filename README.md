@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AT&amp;T customers hit by widespread cellular outages in U.S.](https://www.nbcnews.com/news/us-news/t-verizon-t-mobile-customers-hit-widespread-cellular-outages-us-rcna139938)
-- [AT&amp;T customers report nationwide service disruptions](https://www.theverge.com/2024/2/22/24079910/att-network-outage-sos-mode)
-- [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
-- [Reading a Programmer&#39;s Guide to Common Lisp](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
-- [A Plastic Tsunami Is Taking over Farms. What Will Stop Plasticulture?](https://modernfarmer.com/2024/02/plastic-farms-stop-plasticulture/)
+- [&#39;It has gotten out of hand&#39;: wage theft rampant in US construction](https://www.theguardian.com/us-news/2024/feb/14/construction-worker-unions-wage-theft)
+- [Polypane 18: Introducing Polypane Portal](https://polypane.app/blog/polypane-18-introducing-polypane-portal/)
+- [Yale will again require standardized test scores for admission](https://www.washingtonpost.com/education/2024/02/22/yale-sat-act-admissions-requirement-reinstated/)
+- [Launch HN: Danswer &lpar;YC W24&rpar; – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
+- [Show HN: Pages CMS – A CMS for GitHub](https://pagescms.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
