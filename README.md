@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Salient &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/salient/jobs/aFIMuS5-founding-engineer)
+- [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/)
+- [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)
+- [What Happens to Your Sensitive Data When a Data Broker Goes Bankrupt?](https://themarkup.org/privacy/2024/02/23/what-happens-to-your-sensitive-data-when-a-data-broker-goes-bankrupt)
 - [Handful of Apple Vision Pro Units Develop Identical Crack in Cover Glass](https://www.macrumors.com/2024/02/23/apple-vision-pro-front-glass-cracked-reports/)
-- [Fixed-Point Combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
-- [I Spent a Week with Gemini Pro 1.5–It&#39;s Fantastic](https://every.to/chain-of-thought/i-spent-a-week-with-gemini-pro-1-5-it-s-fantastic)
-- [Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models](https://github.com/google/gemma.cpp)
-- [German Bundestag Passes Cannabis Legalization](https://www.bundestag.de/dokumente/textarchiv/2024/kw08-de-cannabis-990684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
