@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=39475552)
-- [Hey, looks like Spreadsheet.com is shutting down](https://sheetcast.com//articles/customers-scramble-for-alternatives-as-spreadsheetcom-shuts-down)
-- [Relationships: Start with Several](https://lukebechtel.com/blog/relationships-start-with-several)
-- [US achieves first moon landing in half century with private spacecraft](https://www.reuters.com/technology/space/us-nears-attempt-first-moon-landing-half-century-with-private-robot-spacecraft-2024-02-22/)
-- [Apple Vision Pro users reporting cracked outer surfaces](https://old.reddit.com/r/VisionPro/comments/1axj5sp/comment/kror2jt/)
+- [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
+- [Kagi Smallweb [a directory of small/personal websites]](https://kagi.com/smallweb/)
+- [The Fed Is Behind the Capital One/Discover Merger](https://www.thebignewsletter.com/p/the-fed-is-behind-the-capital-onediscover)
+- [FOSDEM 2024: PineTime Talk](https://blog.mlich.cz/2024/02/fosdem-2024/)
+- [Tyler Perry Puts $800M Studio Expansion on Hold After Seeing OpenAI&#39;s Sora](https://www.hollywoodreporter.com/business/business-news/tyler-perry-ai-alarm-1235833276/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
