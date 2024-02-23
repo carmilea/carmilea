@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beautiful Probability](https://www.readthesequences.com/Beautiful-Probability)
-- [AMD ROCm Software Blogs](https://rocm.blogs.amd.com/)
-- [What&#39;s Wrong with Google Drive, Dropbox, and OneDrive? More Than You Think](https://www.backblaze.com/blog/whats-wrong-with-google-drive-dropbox-and-onedrive-more-than-you-think/)
-- [3D-printable tissue adhesive sets a new standard in biomedical technology](https://medicalxpress.com/news/2024-02-3d-printable-tissue-adhesive-standard.html)
-- [Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere](https://ok-robot.github.io/)
+- [Curl HTTP/3 security audit](https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/)
+- [Scuttlebutt social network: a decentralised platform](https://scuttlebutt.nz/)
+- [Forum reactions to Satoshi&#39;s Bitcoin paper](https://www.mail-archive.com/search?l=cryptography%40metzdowd.com&q=subject%3A%22Bitcoin+P2P+e%5C-cash+paper%22&o=oldest&f=1&ref=blog.lopp.net)
+- [Nvidia open source driver to use NVK and Zink for OpenGL on newer GPUs](https://www.gamingonlinux.com/2024/02/nvidia-open-source-driver-to-use-nvk-zink-for-opengl-on-newer-gpus/)
+- [Show HN: Little Fixes – a spatial forum to improve your city](https://littlefixes.xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
