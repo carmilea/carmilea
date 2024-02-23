@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: GPU Prices on eBay](https://gpupricecompare.com)
-- [The Windows Ubuntu Operating System](https://www.wubuntu.org/)
 - [Resend – Incident report for February 21st, 2024](https://resend.com/blog/incident-report-for-february-21-2024)
 - [Facial recognition error message on vending machine sparks concern at University](https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835)
 - [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
+- [A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes](https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
