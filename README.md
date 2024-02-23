@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FlutterFlow &lpar;YC W21&rpar; Is Hiring](https://news.ycombinator.com/item?id=39479522)
+- [Hiroshima fallout debris linked to first solar system condensates](https://phys.org/news/2024-02-hiroshima-fallout-debris-linked-solar.html)
 - [Thanks FedEx, This Is Why We Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
-- [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
-- [Show HN: GPU Prices on eBay](https://gpupricecompare.com)
-- [Incident report for February 21st, 2024](https://resend.com/blog/incident-report-for-february-21-2024)
-- [Facial recognition error message on vending machine sparks concern at University](https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835)
+- [Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow)
+- [Brave&#39;s AI assistant now integrates with PDFs and Google Drive](https://brave.com/leo-docsupport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
