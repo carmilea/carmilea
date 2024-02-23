@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Handful of Apple Vision Pro Units Develop Identical Crack in Cover Glass](https://www.macrumors.com/2024/02/23/apple-vision-pro-front-glass-cracked-reports/)
+- [Fixed-Point Combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
+- [I Spent a Week with Gemini Pro 1.5–It&#39;s Fantastic](https://every.to/chain-of-thought/i-spent-a-week-with-gemini-pro-1-5-it-s-fantastic)
+- [Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models](https://github.com/google/gemma.cpp)
 - [German Bundestag Passes Cannabis Legalization](https://www.bundestag.de/dokumente/textarchiv/2024/kw08-de-cannabis-990684)
-- [Nvidia hits $2T valuation as AI frenzy grips Wall Street](https://www.reuters.com/technology/global-markets-marketcap-pix-2024-02-23/)
-- [Work for you? Again? After you lied about the job and stole my stuff? No thanks](https://www.theregister.com/2024/02/23/on_call/)
-- [I don&#39;t think the cheapest APC Back-UPS units can be monitored except in Windows](https://strugglers.net/~andy/blog/2024/02/23/i-dont-think-the-cheapest-apc-back-ups-units-can-be-monitored-except-in-windows/)
-- [Tyler Perry halts $800M studio expansion after being shocked by AI](https://www.theguardian.com/technology/2024/feb/23/tyler-perry-halts-800m-studio-expansion-after-being-shocked-by-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
