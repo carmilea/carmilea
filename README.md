@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Curl HTTP/3 security audit](https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/)
-- [Scuttlebutt social network: a decentralised platform](https://scuttlebutt.nz/)
-- [Forum reactions to Satoshi&#39;s Bitcoin paper](https://www.mail-archive.com/search?l=cryptography%40metzdowd.com&q=subject%3A%22Bitcoin+P2P+e%5C-cash+paper%22&o=oldest&f=1&ref=blog.lopp.net)
-- [Nvidia open source driver to use NVK and Zink for OpenGL on newer GPUs](https://www.gamingonlinux.com/2024/02/nvidia-open-source-driver-to-use-nvk-zink-for-opengl-on-newer-gpus/)
-- [Show HN: Little Fixes – a spatial forum to improve your city](https://littlefixes.xyz/)
+- [Avast ordered to stop selling browsing data from its browsing privacy apps](https://arstechnica.com/tech-policy/2024/02/avast-ordered-to-stop-selling-browsing-data-from-its-browsing-privacy-apps/)
+- [The Angel, Islington](https://diamondgeezer.blogspot.com/2024/02/the-angel-islington.html)
+- [Populist Backlash Against Globalization: A Meta-Analysis of the Causal Evidence](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/populist-backlash-against-globalization-a-metaanalysis-of-the-causal-evidence/A672BE773701512F9F4E0B171049E4DF)
+- [Tell HN: Equifax free credit report dark patterns](https://news.ycombinator.com/item?id=39485259)
+- [Tauri 2.0 tries to make mobile apps crossplatform](https://beta.tauri.app/guides/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
