@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thanks FedEx, This Is Why We Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 - [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
 - [Show HN: GPU Prices on eBay](https://gpupricecompare.com)
-- [Resend – Incident report for February 21st, 2024](https://resend.com/blog/incident-report-for-february-21-2024)
+- [Incident report for February 21st, 2024](https://resend.com/blog/incident-report-for-february-21-2024)
 - [Facial recognition error message on vending machine sparks concern at University](https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835)
-- [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
 <!-- BLOG-POST-LIST:END -->
 
 ---
