@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Avast ordered to stop selling browsing data from its browsing privacy apps](https://arstechnica.com/tech-policy/2024/02/avast-ordered-to-stop-selling-browsing-data-from-its-browsing-privacy-apps/)
+- [Glass Health &lpar;YC W23&rpar; is hiring across multiple engineering roles](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
+- [Reconductoring: An easy way to expand the grid](https://heatmap.news/climate/clean-energy-grid-reconductoring)
 - [The Angel, Islington](https://diamondgeezer.blogspot.com/2024/02/the-angel-islington.html)
-- [Populist Backlash Against Globalization: A Meta-Analysis of the Causal Evidence](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/populist-backlash-against-globalization-a-metaanalysis-of-the-causal-evidence/A672BE773701512F9F4E0B171049E4DF)
+- [FDA stands against using smartwatches to monitor blood glucose](https://9to5mac.com/2024/02/21/fda-smartwatches-blood-glucose/)
 - [Tell HN: Equifax free credit report dark patterns](https://news.ycombinator.com/item?id=39485259)
-- [Tauri 2.0 tries to make mobile apps crossplatform](https://beta.tauri.app/guides/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
