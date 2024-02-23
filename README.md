@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
 - [Kagi Smallweb [a directory of small/personal websites]](https://kagi.com/smallweb/)
+- [A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes](https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage)
 - [The Fed Is Behind the Capital One/Discover Merger](https://www.thebignewsletter.com/p/the-fed-is-behind-the-capital-onediscover)
 - [FOSDEM 2024: PineTime Talk](https://blog.mlich.cz/2024/02/fosdem-2024/)
-- [Tyler Perry Puts $800M Studio Expansion on Hold After Seeing OpenAI&#39;s Sora](https://www.hollywoodreporter.com/business/business-news/tyler-perry-ai-alarm-1235833276/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
