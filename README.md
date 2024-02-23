@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generative Models: What do they know? Do they know things? Let&#39;s find out](https://intrinsic-lora.github.io/)
+- [Open Source Motion Capture for Autonomous Drones &lpar;2023&rpar;](https://joshuabird.com/blog/post/mocap-drones)
+- [Meta&#39;s new LLM-based test generator is a sneak peek to the future of development](https://read.engineerscodex.com/p/metas-new-llm-based-test-generator)
 - [Glass Health &lpar;YC W23&rpar; is hiring across multiple engineering roles](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 - [Reconductoring: An easy way to expand the grid](https://heatmap.news/climate/clean-energy-grid-reconductoring)
-- [The Angel, Islington](https://diamondgeezer.blogspot.com/2024/02/the-angel-islington.html)
-- [FDA stands against using smartwatches to monitor blood glucose](https://9to5mac.com/2024/02/21/fda-smartwatches-blood-glucose/)
-- [Tell HN: Equifax free credit report dark patterns](https://news.ycombinator.com/item?id=39485259)
 <!-- BLOG-POST-LIST:END -->
 
 ---
