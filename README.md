@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [60% of OpenAI model&#39;s responses contain plagiarism](https://www.axios.com/2024/02/22/copyleaks-openai-chatgpt-plagiarism)
-- [Rye Grows with UV](https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/)
+- [Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
 - [Resend – Incident report for February 21st, 2024](https://resend.com/blog/incident-report-for-february-21-2024)
 - [Facial recognition error message on vending machine sparks concern at University](https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835)
 - [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
+- [A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes](https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
