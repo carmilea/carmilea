@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [FlutterFlow &lpar;YC W21&rpar; Is Hiring](https://news.ycombinator.com/item?id=39479522)
+- [Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083)
+- [Ask HN: Does procrastination advice help you?](https://news.ycombinator.com/item?id=39479361)
+- [American drivers even more distracted by phones. Pedestrian deaths are soaring](https://www.vox.com/24078289/us-drivers-distracted-driving-cellphone-road-deaths-pedestrians)
 - [Hiroshima fallout debris linked to first solar system condensates](https://phys.org/news/2024-02-hiroshima-fallout-debris-linked-solar.html)
-- [Thanks FedEx, This Is Why We Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
-- [Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow)
-- [Brave&#39;s AI assistant now integrates with PDFs and Google Drive](https://brave.com/leo-docsupport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
