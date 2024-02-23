@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tumblr CEO publicly spars with trans user over account ban](https://techcrunch.com/2024/02/22/tumblr-ceo-publicly-spars-with-trans-user-over-account-ban-revealing-private-account-names-in-the-process/)
+- [Rye Grows with UV](https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/)
 - [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
 - [Kagi Smallweb [a directory of small/personal websites]](https://kagi.com/smallweb/)
 - [A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes](https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage)
-- [The Fed Is Behind the Capital One/Discover Merger](https://www.thebignewsletter.com/p/the-fed-is-behind-the-capital-onediscover)
-- [FOSDEM 2024: PineTime Talk](https://blog.mlich.cz/2024/02/fosdem-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
