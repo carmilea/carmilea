@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Htmx vs. React: A Complete Comparison – Semaphore](https://semaphoreci.com/blog/htmx-react)
-- [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)
-- [I recorded a screen capture of a task. Gemini generated code to replicate it](https://twitter.com/DynamicWebPaige/status/1760537379369304309)
-- [Google Pay app will no longer be available](https://support.google.com/googlepay/answer/14555219?hl=en)
-- [Apple Pkl](https://github.com/apple/pkl)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=39475552)
+- [Hey, looks like Spreadsheet.com is shutting down](https://sheetcast.com//articles/customers-scramble-for-alternatives-as-spreadsheetcom-shuts-down)
+- [Relationships: Start with Several](https://lukebechtel.com/blog/relationships-start-with-several)
+- [US achieves first moon landing in half century with private spacecraft](https://www.reuters.com/technology/space/us-nears-attempt-first-moon-landing-half-century-with-private-robot-spacecraft-2024-02-22/)
+- [Apple Vision Pro users reporting cracked outer surfaces](https://old.reddit.com/r/VisionPro/comments/1axj5sp/comment/kror2jt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
