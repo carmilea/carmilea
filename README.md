@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tumblr CEO publicly spars with trans user over account ban](https://techcrunch.com/2024/02/22/tumblr-ceo-publicly-spars-with-trans-user-over-account-ban-revealing-private-account-names-in-the-process/)
 - [Rye Grows with UV](https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/)
+- [Resend – Incident report for February 21st, 2024](https://resend.com/blog/incident-report-for-february-21-2024)
+- [Facial recognition error message on vending machine sparks concern at University](https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835)
 - [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
 - [Kagi Smallweb [a directory of small/personal websites]](https://kagi.com/smallweb/)
-- [A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes](https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
