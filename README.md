@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [High Interest Savings Leaderboard](https://www.highinterest.io/)
-- [Jim Keller criticizes Nvidia CUDA, x86 – &#39;CUDA&#39;s a swamp, not a moat, like x86&#39;](https://www.tomshardware.com/tech-industry/artificial-intelligence/jim-keller-criticizes-nvidias-cuda-and-x86-cudas-a-swamp-not-a-moat-x86-was-a-swamp-too)
-- [FlutterFlow &lpar;YC W21&rpar; Is Hiring](https://news.ycombinator.com/item?id=39479522)
-- [Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083)
-- [Thanks FedEx, This Is Why We Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
+- [German Bundestag Passes Cannabis Legalization](https://www.bundestag.de/dokumente/textarchiv/2024/kw08-de-cannabis-990684)
+- [Nvidia hits $2T valuation as AI frenzy grips Wall Street](https://www.reuters.com/technology/global-markets-marketcap-pix-2024-02-23/)
+- [Work for you? Again? After you lied about the job and stole my stuff? No thanks](https://www.theregister.com/2024/02/23/on_call/)
+- [I don&#39;t think the cheapest APC Back-UPS units can be monitored except in Windows](https://strugglers.net/~andy/blog/2024/02/23/i-dont-think-the-cheapest-apc-back-ups-units-can-be-monitored-except-in-windows/)
+- [Tyler Perry halts $800M studio expansion after being shocked by AI](https://www.theguardian.com/technology/2024/feb/23/tyler-perry-halts-800m-studio-expansion-after-being-shocked-by-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
