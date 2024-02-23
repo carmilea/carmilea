@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify HiFi is still MIA after three years, and now so is my subscription](https://www.theverge.com/24080999/spotify-hifi-lossless-high-res-audio-three-years-rip)
+- [Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere](https://ok-robot.github.io/)
+- [US judge says FTX can sell its Anthropic shares; FTX invested $500M in 2021](https://www.reuters.com/technology/crypto-exchange-ftx-sell-shares-ai-startup-anthropic-2024-02-22/)
 - [Salient &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/salient/jobs/aFIMuS5-founding-engineer)
 - [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/)
-- [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)
-- [What Happens to Your Sensitive Data When a Data Broker Goes Bankrupt?](https://themarkup.org/privacy/2024/02/23/what-happens-to-your-sensitive-data-when-a-data-broker-goes-bankrupt)
-- [Handful of Apple Vision Pro Units Develop Identical Crack in Cover Glass](https://www.macrumors.com/2024/02/23/apple-vision-pro-front-glass-cracked-reports/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
