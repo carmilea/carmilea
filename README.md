@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quality is a hard sell in big tech](https://www.pcloadletter.dev/blog/big-tech-quality/)
 - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 - [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
 - [Show HN: Consol3 – A 3D engine for the terminal that executes on the CPU](https://github.com/Victormeriqui/Consol3)
-- [That Time America Outlawed Pinball &lpar;2016&rpar;](https://www.history.com/news/that-time-america-outlawed-pinball)
-- [A former Gizmodo writer changed name to &#39;Slackbot&#39;, stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
+- [DVD&#39;s New Cousin Can Store More Than a Petabit](https://spectrum.ieee.org/data-storage-petabit-optical-disc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
