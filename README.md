@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spreadsheets are all you need: Understanding GPT2 and Transformers](https://spreadsheets-are-all-you-need.ai/)
+- [Never-Repeating Tiles Can Safeguard Quantum Information](https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/)
 - [Quality is a hard sell in big tech](https://www.pcloadletter.dev/blog/big-tech-quality/)
 - [Please make your table headings sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 - [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
-- [Show HN: Consol3 – A 3D engine for the terminal that executes on the CPU](https://github.com/Victormeriqui/Consol3)
-- [DVD&#39;s New Cousin Can Store More Than a Petabit](https://spectrum.ieee.org/data-storage-petabit-optical-disc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
