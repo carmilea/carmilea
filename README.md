@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Not Die by a Thousand Cuts. Or How to Think About Software Quality &lpar;2022&rpar;](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
-- [Almost an open-source boot chain for Rockchip&#39;s RK3588](https://www.collabora.com/news-and-blog/blog/2024/02/21/almost-a-fully-open-source-boot-chain-for-rockchips-rk3588/)
-- [Notes from an Interviewer](https://devwithahammer.wordpress.com/2024/02/23/notes-from-an-interviewer/)
-- [Geospatial Nix – create, use and deploy today](https://geospatial-nix.today/)
-- [A modest update to Qubes OS](https://lwn.net/SubscriberLink/962787/35f1ff3af9031437/)
+- [Peter Thiel&#39;s $100k offer to skip college is more popular than ever](https://www.wsj.com/finance/peter-thiels-100-000-offer-to-skip-college-is-more-popular-than-ever-162e281b)
+- [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
+- [Understanding, Using, and Finetuning Gemma](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
+- [Lawyer fined for legal filings that included &#39;hallucinated&#39; AI citations](https://www.universalhub.com/2024/lawyer-learns-hard-way-ai-still-sucks-fined-legal)
+- [Microsoft Joins the MapLibre Sponsorship Program](https://maplibre.org/news/2024-02-20-msft-announcement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
