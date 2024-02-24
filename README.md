@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyone seems to forget why GNOME and GNOME 3 and Unity happened](https://liam-on-linux.dreamwidth.org/85359.html)
 - [How to Not Die by a Thousand Cuts. Or How to Think About Software Quality &lpar;2022&rpar;](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
+- [Almost an open-source boot chain for Rockchip&#39;s RK3588](https://www.collabora.com/news-and-blog/blog/2024/02/21/almost-a-fully-open-source-boot-chain-for-rockchips-rk3588/)
 - [Notes from an Interviewer](https://devwithahammer.wordpress.com/2024/02/23/notes-from-an-interviewer/)
 - [Geospatial Nix – create, use and deploy today](https://geospatial-nix.today/)
 - [A modest update to Qubes OS](https://lwn.net/SubscriberLink/962787/35f1ff3af9031437/)
