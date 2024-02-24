@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Herr Bischoff&#39;s Spam Blocklists](https://ipbl.herrbischoff.com/)
+- [Contributing Scrutiny to Nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
 - [Considering then abandoning JSX for structured YAML config](https://kirbysayshi.com/2020/03/21/considering-then-abandoning-jsx-for-structured-yaml-config.html)
 - [Power Metal: is it really about dragons? &lpar;2018&rpar;](https://notes.atomutek.org/power-metal-and-dragons.html)
 - [Never-Repeating Tiles Can Safeguard Quantum Information](https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/)
-- [Quality is a hard sell in big tech](https://www.pcloadletter.dev/blog/big-tech-quality/)
-- [Please make your table headings sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
