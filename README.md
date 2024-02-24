@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Two More Cases of Hallucinated Citations in Court Filings Leading to Sanctions](https://www.lawnext.com/2024/02/not-again-two-more-cases-just-this-week-of-hallucinated-citations-in-court-filings-leading-to-sanctions.html)
-- [Analysis: Does Offering ChatGPT a Tip Cause It to Generate Better Text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
+- [iOS and Wi-Fi Direct](https://forums.developer.apple.com/forums/thread/12885)
+- [&quot;The issue was detected by our new AI-powered vulnerability scanner&quot;](https://mastodon.social/@bagder/111988660459265387)
+- [Does offering ChatGPT a tip cause it to generate better text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
 - [Emerge &lpar;YC W21&rpar; is hiring a growth engineer &lpar;small team remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
-- [Python Generators Are Underutilized](https://www.slashtmp.io/posts/generators/)
-- [Simple script to generate RSS feeds](https://www.zoraster.org/blog/script-to-generate-rss-feed)
+- [Architecture.md &lpar;2021&rpar;](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
