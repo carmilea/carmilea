@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39493068)
 - [Some OpenBSD features that aren&#39;t widely known](https://dataswamp.org/~solene/2024-02-20-rarely-known-openbsd-features.html)
-- [Problems in Gemini&#39;s Approach to Diversity](https://www.noahpinion.blog/p/this-is-not-a-good-way-to-fight-racism)
+- [Ledger](https://lock.cmpxchg8b.com/ledger.html)
+- [V Language Review &lpar;2023&rpar;](https://n-skvortsov-1997.github.io/reviews/)
 - [Ask HN: Anyone use a code to mindmap/flowchart tool?](https://news.ycombinator.com/item?id=39491889)
-- [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
