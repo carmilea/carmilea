@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;KeyTrap&quot; DNS Vulnerability](https://lwn.net/Articles/962924/#Comments)
-- [Unidentified balloon belongs to amateur balloonist: US official](https://www.nbcnews.com/politics/national-security/us-monitoring-high-altitude-balloon-west-rcna140275)
-- [Google helped destroy adoption of RSS feeds &lpar;2023&rpar;](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
-- [U.S. rice exports to Haiti have unhealthy levels of arsenic, study finds](https://www.reuters.com/world/americas/us-rice-exports-haiti-have-unhealthy-levels-arsenic-study-finds-2024-02-24/)
-- [Mass Retraction of unethical Chinese Forensic Genetics Papers](https://www.science.org/content/article/ethics-not-checkbox-exercise-bioinformatician-yves-moreau-reacts-mass-retraction-papers)
+- [Emerge &lpar;YC W21&rpar; is hiring a growth engineer &lpar;small team remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
+- [Simple script to generate RSS feeds](https://www.zoraster.org/blog/script-to-generate-rss-feed)
+- [We were not accepted into Google Summer of Code. So, we started our own](https://qdrant.tech/blog/qdrant-summer-of-code-24/)
+- [Long-lasting plasticity from patterned ultrasound-induced brainwave entrainment](https://www.science.org/doi/10.1126/sciadv.adk3198)
+- [Portugal eased its opioid epidemic, while U.S. drug deaths skyrocketed](https://text.npr.org/1230188789)
 <!-- BLOG-POST-LIST:END -->
 
 ---
