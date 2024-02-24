@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everyone seems to forget why GNOME and GNOME 3 and Unity happened](https://liam-on-linux.dreamwidth.org/85359.html)
+- [How to Not Die by a Thousand Cuts. Or How to Think About Software Quality &lpar;2022&rpar;](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
+- [Notes from an Interviewer](https://devwithahammer.wordpress.com/2024/02/23/notes-from-an-interviewer/)
 - [Geospatial Nix – create, use and deploy today](https://geospatial-nix.today/)
-- [Herr Bischoff&#39;s Spam Blocklists](https://ipbl.herrbischoff.com/)
-- [Contributing Scrutiny to Nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
-- [Power Metal: is it really about dragons? &lpar;2018&rpar;](https://notes.atomutek.org/power-metal-and-dragons.html)
-- [Never-Repeating Tiles Can Safeguard Quantum Information](https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/)
+- [A modest update to Qubes OS](https://lwn.net/SubscriberLink/962787/35f1ff3af9031437/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
