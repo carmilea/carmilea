@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two More Cases of Hallucinated Citations in Court Filings Leading to Sanctions](https://www.lawnext.com/2024/02/not-again-two-more-cases-just-this-week-of-hallucinated-citations-in-court-filings-leading-to-sanctions.html)
+- [Analysis: Does Offering ChatGPT a Tip Cause It to Generate Better Text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
 - [Emerge &lpar;YC W21&rpar; is hiring a growth engineer &lpar;small team remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
+- [Python Generators Are Underutilized](https://www.slashtmp.io/posts/generators/)
 - [Simple script to generate RSS feeds](https://www.zoraster.org/blog/script-to-generate-rss-feed)
-- [We were not accepted into Google Summer of Code. So, we started our own](https://qdrant.tech/blog/qdrant-summer-of-code-24/)
-- [Long-lasting plasticity from patterned ultrasound-induced brainwave entrainment](https://www.science.org/doi/10.1126/sciadv.adk3198)
-- [Portugal eased its opioid epidemic, while U.S. drug deaths skyrocketed](https://text.npr.org/1230188789)
 <!-- BLOG-POST-LIST:END -->
 
 ---
