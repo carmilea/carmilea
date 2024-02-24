@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39493068)
+- [Some OpenBSD features that aren&#39;t widely known](https://dataswamp.org/~solene/2024-02-20-rarely-known-openbsd-features.html)
 - [Problems in Gemini&#39;s Approach to Diversity](https://www.noahpinion.blog/p/this-is-not-a-good-way-to-fight-racism)
+- [Ask HN: Anyone use a code to mindmap/flowchart tool?](https://news.ycombinator.com/item?id=39491889)
 - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
-- [Understanding, Using, and Finetuning Gemma](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
-- [Lawyer fined for legal filings that included &#39;hallucinated&#39; AI citations](https://www.universalhub.com/2024/lawyer-learns-hard-way-ai-still-sucks-fined-legal)
-- [Microsoft Joins the MapLibre Sponsorship Program](https://maplibre.org/news/2024-02-20-msft-announcement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
