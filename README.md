@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Thiel&#39;s $100k offer to skip college is more popular than ever](https://www.wsj.com/finance/peter-thiels-100-000-offer-to-skip-college-is-more-popular-than-ever-162e281b)
+- [Problems in Gemini&#39;s Approach to Diversity](https://www.noahpinion.blog/p/this-is-not-a-good-way-to-fight-racism)
 - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 - [Understanding, Using, and Finetuning Gemma](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
 - [Lawyer fined for legal filings that included &#39;hallucinated&#39; AI citations](https://www.universalhub.com/2024/lawyer-learns-hard-way-ai-still-sucks-fined-legal)
