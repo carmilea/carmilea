@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Geospatial Nix – create, use and deploy today](https://geospatial-nix.today/)
 - [Herr Bischoff&#39;s Spam Blocklists](https://ipbl.herrbischoff.com/)
 - [Contributing Scrutiny to Nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
-- [Considering then abandoning JSX for structured YAML config](https://kirbysayshi.com/2020/03/21/considering-then-abandoning-jsx-for-structured-yaml-config.html)
 - [Power Metal: is it really about dragons? &lpar;2018&rpar;](https://notes.atomutek.org/power-metal-and-dragons.html)
 - [Never-Repeating Tiles Can Safeguard Quantum Information](https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/)
 <!-- BLOG-POST-LIST:END -->
