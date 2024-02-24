@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google helped destroy adoption of RSS feeds](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
+- [The &quot;KeyTrap&quot; DNS Vulnerability](https://lwn.net/Articles/962924/#Comments)
+- [Unidentified balloon belongs to amateur balloonist: US official](https://www.nbcnews.com/politics/national-security/us-monitoring-high-altitude-balloon-west-rcna140275)
+- [Google helped destroy adoption of RSS feeds &lpar;2023&rpar;](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
 - [U.S. rice exports to Haiti have unhealthy levels of arsenic, study finds](https://www.reuters.com/world/americas/us-rice-exports-haiti-have-unhealthy-levels-arsenic-study-finds-2024-02-24/)
-- [Quantifying the diva-ness of national anthem performances](https://pudding.cool/2024/02/anthems/)
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39493068)
-- [Some OpenBSD features that aren&#39;t widely known](https://dataswamp.org/~solene/2024-02-20-rarely-known-openbsd-features.html)
+- [Mass Retraction of unethical Chinese Forensic Genetics Papers](https://www.science.org/content/article/ethics-not-checkbox-exercise-bioinformatician-yves-moreau-reacts-mass-retraction-papers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
