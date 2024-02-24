@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google helped destroy adoption of RSS feeds](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
+- [U.S. rice exports to Haiti have unhealthy levels of arsenic, study finds](https://www.reuters.com/world/americas/us-rice-exports-haiti-have-unhealthy-levels-arsenic-study-finds-2024-02-24/)
+- [Quantifying the diva-ness of national anthem performances](https://pudding.cool/2024/02/anthems/)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39493068)
 - [Some OpenBSD features that aren&#39;t widely known](https://dataswamp.org/~solene/2024-02-20-rarely-known-openbsd-features.html)
-- [Ledger](https://lock.cmpxchg8b.com/ledger.html)
-- [V Language Review &lpar;2023&rpar;](https://n-skvortsov-1997.github.io/reviews/)
-- [Ask HN: Anyone use a code to mindmap/flowchart tool?](https://news.ycombinator.com/item?id=39491889)
 <!-- BLOG-POST-LIST:END -->
 
 ---
