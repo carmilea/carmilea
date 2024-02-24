@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [That Time America Outlawed Pinball](https://www.history.com/news/that-time-america-outlawed-pinball)
 - [Undefined Behavior in C and C++](https://lumagraph.ie/undefined-behavior)
 - [A former Gizmodo writer changed name to &#39;Slackbot&#39;, stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
 - [Generative Models: What do they know? Do they know things? Let&#39;s find out](https://intrinsic-lora.github.io/)
 - [Open Source Motion Capture for Autonomous Drones &lpar;2023&rpar;](https://joshuabird.com/blog/post/mocap-drones)
-- [Meta&#39;s new LLM-based test generator is a sneak peek to the future of development](https://read.engineerscodex.com/p/metas-new-llm-based-test-generator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
