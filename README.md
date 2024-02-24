@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Undefined Behavior in C and C++](https://lumagraph.ie/undefined-behavior)
+- [A former Gizmodo writer changed name to &#39;Slackbot&#39;, stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
 - [Generative Models: What do they know? Do they know things? Let&#39;s find out](https://intrinsic-lora.github.io/)
 - [Open Source Motion Capture for Autonomous Drones &lpar;2023&rpar;](https://joshuabird.com/blog/post/mocap-drones)
 - [Meta&#39;s new LLM-based test generator is a sneak peek to the future of development](https://read.engineerscodex.com/p/metas-new-llm-based-test-generator)
-- [Glass Health &lpar;YC W23&rpar; is hiring across multiple engineering roles](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
-- [Reconductoring: An easy way to expand the grid](https://heatmap.news/climate/clean-energy-grid-reconductoring)
 <!-- BLOG-POST-LIST:END -->
 
 ---
