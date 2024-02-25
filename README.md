@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When homes hit 40°C inside, it&#39;s better to draw on residents&#39; local know-how](https://theconversation.com/when-homes-already-hit-40-c-inside-its-better-to-draw-on-residents-local-know-how-than-plan-for-climate-change-from-above-221870)
-- [One of the biggest cities may be just months away from running out of water](https://www.cnn.com/2024/02/25/climate/mexico-city-water-crisis-climate-intl/index.html)
-- [Is Emacs Dying?](https://irreal.org/blog/?p=11995)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [The Top of the DNS Hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
+- [How do startups building to detect deepfakes even compete?](https://news.ycombinator.com/item?id=39499974)
 - [I&#39;m confused: what&#39;s with the project descriptions at HTTPS://pkgx.dev/pkgs/?](https://github.com/pkgxdev/pantry/issues/5358)
+- [Hallucination is inevitable: An innate limitation of large language models](https://arxiv.org/abs/2401.11817)
+- [A Face Is Exposed for AOL Searcher No. 4417749 &lpar;2006&rpar;](https://www.nytimes.com/2006/08/09/technology/09aol.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
