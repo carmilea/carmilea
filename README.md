@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bought a Prison Laptop on eBay](https://twitter.com/zephray_wenting/status/1761548861896606014)
 - [Why you, personally, should want a larger human population](https://rootsofprogress.org/why-a-larger-population)
-- [Im Coder](https://www.fellipe.com/apps/im-coder/)
-- [Festival with 1k-year history ends in northeastern Japan](https://www.japantimes.co.jp/news/2024/02/18/japan/festival-with-1000-year-history-ends/)
-- [SF&#39;s Millennium Tower now may be sinking in the center](https://www.nbcbayarea.com/investigations/series/millennium-tower/san-francisco-millennium-tower-foundation-sinking/3460782/)
+- [I&#39;m Coder](https://www.fellipe.com/apps/im-coder/)
 - [Asynchronous clean-up](https://without.boats/blog/asynchronous-clean-up/)
+- [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
