@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth just experienced its hottest 12 months in recorded history](https://www.theweathernetwork.com/en/news/climate/impacts/january-2024-hottest-on-record-tops-warmest-12-month-period-in-history)
+- [Respawn Studio Reportedly Developing FPS Bounty Hunting Mandolorian Game](https://playstationcouch.com/post.php?id=160)
+- [Documentation for the JSON Lines text file format](https://jsonlines.org/)
 - [Bought a Prison Laptop on eBay](https://twitter.com/zephray_wenting/status/1761548861896606014)
-- [Why you, personally, should want a larger human population](https://rootsofprogress.org/why-a-larger-population)
 - [I&#39;m Coder](https://www.fellipe.com/apps/im-coder/)
-- [Asynchronous clean-up](https://without.boats/blog/asynchronous-clean-up/)
-- [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
