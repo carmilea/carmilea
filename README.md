@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Falsehoods Junior Developers believe about becoming Senior](https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/)
 - [Patterns &lpar;YC S21&rpar; is hiring to automate analytics with LLMs](https://patterns.app/)
 - [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
-- [It is hard to avoid JavaScript](https://alexkutas.com/posts/it-is-hard-to-avoid-javascript)
-- [Mamba Explained: The State Space Model Taking On Transformers](https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
-- [China is quietly reducing its reliance on foreign chip technology](https://www.economist.com/business/2024/02/13/china-is-quietly-reducing-its-reliance-on-foreign-chip-technology)
+- [Breakthrough discovery extracting 97% of EV battery cobalt with common chemicals](https://pubs.acs.org/doi/10.1021/acsomega.2c07780)
+- [Windows in a Docker Container](https://github.com/dockur/windows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
