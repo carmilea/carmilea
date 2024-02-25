@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google and Meta Function as Extensions of the US Intelligence Community](https://threadreaderapp.com/thread/1761567080988676256.html)
-- [Facebook and Instagram are platforming sexually exploitative parents](https://www.theverge.com/2024/2/23/24080856/instagram-facebook-meta-platforming-parents-sexually-exploiting-children)
-- [Meta Staff Found Instagram Tool Enabled Child Exploitation. They Did It Anyway](https://www.wsj.com/tech/meta-staff-found-instagram-subscription-tool-enabled-child-exploitation-the-company-pressed-ahead-anyway-a18e81e6)
-- [So Google&#39;s Gemini Doesn&#39;t Like Python Programming and Sanskrit?](https://new.pythonforengineers.com/blog/so-evidently/)
+- [Consumers are increasingly pushing back against price increases – and winning](https://thegrio.com/2024/02/25/consumers-respond-to-price-increases/)
+- [Polymaths Are Late Bloomers](https://www.overcomingbias.com/p/polymaths-are-late-bloomers)
 - [Ask HN: Do LLMs get &quot;better&quot; with more processing power and or time per request?](https://news.ycombinator.com/item?id=39504780)
+- [Killing VMware](https://www.computerworld.com/article/3713242/killing-vmware.html)
+- [Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
