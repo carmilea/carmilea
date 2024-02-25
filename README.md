@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
+- [Anyone else using ChatGPT to make music?](https://community.openai.com/t/anyone-else-using-chatgpt-to-make-music/200103)
 - [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
+- [Korea slaps $327,067 fine on Twitch for suspending service](https://www.koreatimes.co.kr/www/tech/2024/02/129_369371.html)
 - [Science Fiction Short: Hijack](https://spectrum.ieee.org/hard-science-fiction-computer)
-- [Does offering ChatGPT a tip cause it to generate better text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
-- [How Does Bluesky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
-- [Emerge &lpar;YC W21&rpar; is hiring a growth engineer &lpar;remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
