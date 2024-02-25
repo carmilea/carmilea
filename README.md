@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous Clean-Up &lpar;in Rust&rpar;](https://without.boats/blog/asynchronous-clean-up/)
-- [Proposition E and Why San Francisco Voters Should Oppose It](https://www.eff.org/deeplinks/2024/02/what-proposition-e-and-why-should-san-francisco-voters-oppose-it)
-- [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
-- [Every Model Learned by Gradient Descent Is Approximately a Kernel Machine](https://arxiv.org/abs/2012.00152)
-- [Utility Classes Aren&#39;t the Same as Inline Styles](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
+- [Why you, personally, should want a larger human population](https://rootsofprogress.org/why-a-larger-population)
+- [Im Coder](https://www.fellipe.com/apps/im-coder/)
+- [Festival with 1k-year history ends in northeastern Japan](https://www.japantimes.co.jp/news/2024/02/18/japan/festival-with-1000-year-history-ends/)
+- [SF&#39;s Millennium Tower now may be sinking in the center](https://www.nbcbayarea.com/investigations/series/millennium-tower/san-francisco-millennium-tower-foundation-sinking/3460782/)
+- [Asynchronous clean-up](https://without.boats/blog/asynchronous-clean-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
