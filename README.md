@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patterns &lpar;YC S21&rpar; is hiring to automate analytics with LLMs](https://patterns.app/)
+- [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
+- [It is hard to avoid JavaScript](https://alexkutas.com/posts/it-is-hard-to-avoid-javascript)
+- [Mamba Explained: The State Space Model Taking On Transformers](https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
 - [China is quietly reducing its reliance on foreign chip technology](https://www.economist.com/business/2024/02/13/china-is-quietly-reducing-its-reliance-on-foreign-chip-technology)
-- [Why it took the US 51 years to get back on the moon](https://phys.org/news/2024-02-years-moon.html)
-- [Deepest Dive Under Antarctica Reveals a Vibrant World](https://www.nationalgeographic.com/magazine/article/under-antarctica-frozen-beauty-exotic-creatures-penguins)
-- [Egypt announces $35B deal with UAE to buy premium Mediterranean area](https://www.middleeasteye.net/news/egypt-announces-massive-35-billion-deal-uae-develop-ras-el-hekma-north-coast)
-- [Zero-Rupee Note](https://en.wikipedia.org/wiki/Zero-rupee_note)
 <!-- BLOG-POST-LIST:END -->
 
 ---
