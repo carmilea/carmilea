@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Starving to Death on a Full Stomach](https://slothconservation.org/starving-death-full-stomach/)
-- [Java virtual threads hit with pinning issue](https://www.infoworld.com/article/3713220/java-virtual-threads-hit-with-pinning-issue.html)
-- [Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://usoldering.com/switch-lite/)
-- [Marginalia: 3 Years](https://www.marginalia.nu/log/a_101_marginalia-3-years/)
-- [The Top of the DNS Hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
+- [China is quietly reducing its reliance on foreign chip technology](https://www.economist.com/business/2024/02/13/china-is-quietly-reducing-its-reliance-on-foreign-chip-technology)
+- [Why it took the US 51 years to get back on the moon](https://phys.org/news/2024-02-years-moon.html)
+- [Deepest Dive Under Antarctica Reveals a Vibrant World](https://www.nationalgeographic.com/magazine/article/under-antarctica-frozen-beauty-exotic-creatures-penguins)
+- [Egypt announces $35B deal with UAE to buy premium Mediterranean area](https://www.middleeasteye.net/news/egypt-announces-massive-35-billion-deal-uae-develop-ras-el-hekma-north-coast)
+- [Zero-Rupee Note](https://en.wikipedia.org/wiki/Zero-rupee_note)
 <!-- BLOG-POST-LIST:END -->
 
 ---
