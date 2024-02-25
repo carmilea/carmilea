@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Career Advice Ryan Holiday Wishes He&#39;d Known Earlier](https://ryanholiday.net/37-pieces-of-career-advice-i-wish-id-known-earlier/)
 - [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
-- [Anyone else using ChatGPT to make music?](https://community.openai.com/t/anyone-else-using-chatgpt-to-make-music/200103)
-- [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
-- [Korea slaps $327,067 fine on Twitch for suspending service](https://www.koreatimes.co.kr/www/tech/2024/02/129_369371.html)
-- [Science Fiction Short: Hijack](https://spectrum.ieee.org/hard-science-fiction-computer)
+- [Every Model Learned by Gradient Descent Is Approximately a Kernel Machine](https://arxiv.org/abs/2012.00152)
+- [Utility Classes Aren&#39;t the Same as Inline Styles](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
+- [Miracle of Wörgl](https://www.alexstonethinkingstrings.com/446414233)
 <!-- BLOG-POST-LIST:END -->
 
 ---
