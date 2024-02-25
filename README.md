@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Starving to Death on a Full Stomach](https://slothconservation.org/starving-death-full-stomach/)
+- [Java virtual threads hit with pinning issue](https://www.infoworld.com/article/3713220/java-virtual-threads-hit-with-pinning-issue.html)
+- [Show HN: Reverse-Engineering a Switch Lite with 1,917 wires](https://usoldering.com/switch-lite/)
+- [Marginalia: 3 Years](https://www.marginalia.nu/log/a_101_marginalia-3-years/)
 - [The Top of the DNS Hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
-- [How do startups building to detect deepfakes even compete?](https://news.ycombinator.com/item?id=39499974)
-- [I&#39;m confused: what&#39;s with the project descriptions at HTTPS://pkgx.dev/pkgs/?](https://github.com/pkgxdev/pantry/issues/5358)
-- [Hallucination is inevitable: An innate limitation of large language models](https://arxiv.org/abs/2401.11817)
-- [A Face Is Exposed for AOL Searcher No. 4417749 &lpar;2006&rpar;](https://www.nytimes.com/2006/08/09/technology/09aol.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
