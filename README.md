@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
+- [Microsoft Is Driving Users Away](https://christitus.com/microsoft-is-driving-users-away/)
+- [Ask HN: How to Overcome the Trough of Sorrow?](https://news.ycombinator.com/item?id=39504470)
+- [Pleasures by Aldous Huxley &lpar;1920&rpar;](https://hackneybooks.co.uk/books/364/686/Pleasures.html)
 - [Console.delight](https://frontendmasters.com/blog/console-delight/)
-- [Write Dumb Code &lpar;2018&rpar;](https://matthewrocklin.com/write-dumb-code.html)
-- [Readability.js](https://github.com/mozilla/readability)
-- [Vega-Altair: Declarative Visualization in Python](https://altair-viz.github.io/index.html)
-- [Patterns &lpar;YC S21&rpar; is hiring to automate analytics with LLMs](https://patterns.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
