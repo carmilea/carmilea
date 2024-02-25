@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Earth just experienced its hottest 12 months in recorded history](https://www.theweathernetwork.com/en/news/climate/impacts/january-2024-hottest-on-record-tops-warmest-12-month-period-in-history)
-- [Respawn Studio Reportedly Developing FPS Bounty Hunting Mandolorian Game](https://playstationcouch.com/post.php?id=160)
+- [Ubisoft Employees In France have gone on a Stike](https://playstationcouch.com/post.php?id=161)
+- [Microsoft tried to sell Bing to Apple in 2018, according to Google court filings](https://9to5mac.com/2024/02/24/microsoft-sell-bing-to-apple/)
 - [Documentation for the JSON Lines text file format](https://jsonlines.org/)
 - [Bought a Prison Laptop on eBay](https://twitter.com/zephray_wenting/status/1761548861896606014)
-- [I&#39;m Coder](https://www.fellipe.com/apps/im-coder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
