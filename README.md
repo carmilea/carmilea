@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Estimating association between Facebook adoption and well-being in 72 countries](https://royalsocietypublishing.org/doi/10.1098/rsos.221451)
-- [AAC and Debian](https://tookmund.com/2024/02/aac-and-debian)
-- [Parasite Infection is Associated with Entrepreneurship &lpar;2020&rpar;](https://journals.sagepub.com/doi/full/10.1177/1042258719890992)
+- [Console.delight](https://frontendmasters.com/blog/console-delight/)
+- [Write Dumb Code &lpar;2018&rpar;](https://matthewrocklin.com/write-dumb-code.html)
+- [Readability.js](https://github.com/mozilla/readability)
+- [Vega-Altair: Declarative Visualization in Python](https://altair-viz.github.io/index.html)
 - [Patterns &lpar;YC S21&rpar; is hiring to automate analytics with LLMs](https://patterns.app/)
-- [Coroutines in C &lpar;2000&rpar;](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
