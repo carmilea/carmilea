@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Forget About Overpopulation, Soon There Will Be Too Few Humans](https://maartenboudry.be/2023/11/forget-about-overpopulation-soon-there-will-be-too-few-humans.html)
+- [Hallucination is inevitable: An innate limitation of large language models](https://arxiv.org/abs/2401.11817)
 - [A Face Is Exposed for AOL Searcher No. 4417749 &lpar;2006&rpar;](https://www.nytimes.com/2006/08/09/technology/09aol.html)
 - [Why fake research is rampant in China](https://www.economist.com/china/2024/02/22/why-fake-research-is-rampant-in-china)
-- [Ubisoft Employees In France have gone on a Stike](https://playstationcouch.com/post.php?id=161)
-- [Microsoft tried to sell Bing to Apple in 2018, according to Google court filings](https://9to5mac.com/2024/02/24/microsoft-sell-bing-to-apple/)
-- [Documentation for the JSON Lines text file format](https://jsonlines.org/)
+- [Selfish reasons to want more humans](https://rootsofprogress.org/why-a-larger-population)
 <!-- BLOG-POST-LIST:END -->
 
 ---
