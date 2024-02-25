@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
-- [Microsoft Is Driving Users Away](https://christitus.com/microsoft-is-driving-users-away/)
-- [Ask HN: How to Overcome the Trough of Sorrow?](https://news.ycombinator.com/item?id=39504470)
-- [Pleasures by Aldous Huxley &lpar;1920&rpar;](https://hackneybooks.co.uk/books/364/686/Pleasures.html)
-- [Console.delight](https://frontendmasters.com/blog/console-delight/)
+- [Google and Meta Function as Extensions of the US Intelligence Community](https://threadreaderapp.com/thread/1761567080988676256.html)
+- [Facebook and Instagram are platforming sexually exploitative parents](https://www.theverge.com/2024/2/23/24080856/instagram-facebook-meta-platforming-parents-sexually-exploiting-children)
+- [Meta Staff Found Instagram Tool Enabled Child Exploitation. They Did It Anyway](https://www.wsj.com/tech/meta-staff-found-instagram-subscription-tool-enabled-child-exploitation-the-company-pressed-ahead-anyway-a18e81e6)
+- [So Google&#39;s Gemini Doesn&#39;t Like Python Programming and Sanskrit?](https://new.pythonforengineers.com/blog/so-evidently/)
+- [Ask HN: Do LLMs get &quot;better&quot; with more processing power and or time per request?](https://news.ycombinator.com/item?id=39504780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
