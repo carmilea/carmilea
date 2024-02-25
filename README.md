@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS and Wi-Fi Direct](https://forums.developer.apple.com/forums/thread/12885)
-- [&quot;The issue was detected by our new AI-powered vulnerability scanner&quot;](https://mastodon.social/@bagder/111988660459265387)
+- [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
+- [Science Fiction Short: Hijack](https://spectrum.ieee.org/hard-science-fiction-computer)
 - [Does offering ChatGPT a tip cause it to generate better text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
-- [Emerge &lpar;YC W21&rpar; is hiring a growth engineer &lpar;small team remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
-- [Architecture.md &lpar;2021&rpar;](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html)
+- [How Does Bluesky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
+- [Emerge &lpar;YC W21&rpar; is hiring a growth engineer &lpar;remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
