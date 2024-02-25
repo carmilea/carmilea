@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When homes hit 40°C inside, it&#39;s better to draw on residents&#39; local know-how](https://theconversation.com/when-homes-already-hit-40-c-inside-its-better-to-draw-on-residents-local-know-how-than-plan-for-climate-change-from-above-221870)
+- [One of the biggest cities may be just months away from running out of water](https://www.cnn.com/2024/02/25/climate/mexico-city-water-crisis-climate-intl/index.html)
+- [Is Emacs Dying?](https://irreal.org/blog/?p=11995)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [I&#39;m confused: what&#39;s with the project descriptions at HTTPS://pkgx.dev/pkgs/?](https://github.com/pkgxdev/pantry/issues/5358)
-- [Why the world stopped having sex](https://www.telegraph.co.uk/news/2024/02/10/france-sex-lives-lowest-level-britain-japan-korea/)
-- [What is preventing Bing or Google to copy the techniques marginalia or kagi uses](https://news.ycombinator.com/item?id=39499308)
-- [Hallucination is inevitable: An innate limitation of large language models](https://arxiv.org/abs/2401.11817)
 <!-- BLOG-POST-LIST:END -->
 
 ---
