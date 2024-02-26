@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Consumers are increasingly pushing back against price increases – and winning](https://thegrio.com/2024/02/25/consumers-respond-to-price-increases/)
-- [Polymaths Are Late Bloomers](https://www.overcomingbias.com/p/polymaths-are-late-bloomers)
-- [Ask HN: Do LLMs get &quot;better&quot; with more processing power and or time per request?](https://news.ycombinator.com/item?id=39504780)
-- [Killing VMware](https://www.computerworld.com/article/3713242/killing-vmware.html)
+- [gifcities.org by Internet Archive – search for GIFs scraped off geocities sites](https://gifcities.org/)
+- [Profiteering Hampers U.S. Grid Expansion](https://spectrum.ieee.org/transmission-expansion)
+- [Inside North Korea&#39;s Forced Labor Program](https://www.newyorker.com/magazine/2024/03/04/inside-north-koreas-forced-labor-program-in-china)
+- [Drawing and illustrating in the pre-digital time &lpar;2019&rpar;](https://www.daube.ch/docu/glossary/drawingtools.html)
 - [Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
 <!-- BLOG-POST-LIST:END -->
 
