@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: AboutIdeasNow – search /about, /ideas, /now pages of 7k+ personal sites](https://aboutideasnow.com/)
-- [Apache Superset](https://superset.apache.org/)
-- [Microsoft strikes deal with Mistral in push beyond OpenAI](https://www.ft.com/content/cd6eb51a-3276-450f-87fd-97e8410db9eb)
-- [Mistral Large](https://mistral.ai/news/mistral-large/)
-- [Plex Accounts Getting Disabled](https://old.reddit.com/r/PleX/comments/1b07kvc/accounts_getting_disabled/)
+- [Launch HN: Delve &lpar;YC W24&rpar; – HIPAA compliance as a service](https://news.ycombinator.com/item?id=39513054)
+- [&quot;Coding&quot; was never the source of value](https://twitter.com/id_aa_carmack/status/1762110222321975442)
+- [A bad day at the office](https://airminded.org/2024/02/20/a-bad-day-at-the-office/)
+- [What lengths will Chinese companies go to get an Nvidia A100 chip?](https://chinai.substack.com/p/chinai-255-panic-buying-speculative)
+- [Final images of Ingenuity reveal an entire blade broke off the helicopter](https://arstechnica.com/space/2024/02/final-images-of-ingenuity-reveal-an-entire-blade-broke-off-the-helicopter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
