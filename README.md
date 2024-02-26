@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [$500 drone live calculates position with camera, Google Maps. No GPS](https://dronenr.com.au/2024/02/19/drone-position-gps-camera-google-maps/)
+- [Submarine cables cut in the Red Sea.Authorities looking at potential terrorism](https://twitter.com/tagaresunil/status/1761859936617959443)
+- [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
 - [Stress Reduction Techniques for High Stress Operations](https://health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Real-Warriors-Campaign/Articles/Stress-Reduction-Techniques-for-High-Stress-Operations)
-- [gifcities.org by Internet Archive – search for GIFs scraped off geocities sites](https://gifcities.org/)
 - [PID Without a PhD [pdf]](http://manuals.chudov.com/Servo-Tuning/PID-without-a-PhD.pdf)
-- [Profiteering Hampers U.S. Grid Expansion](https://spectrum.ieee.org/transmission-expansion)
-- [Inside North Korea&#39;s Forced Labor Program](https://www.newyorker.com/magazine/2024/03/04/inside-north-koreas-forced-labor-program-in-china)
 <!-- BLOG-POST-LIST:END -->
 
 ---
