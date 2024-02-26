@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Jalapeño Peppers Are Less Spicy Than Ever](https://www.dmagazine.com/food-drink/2023/05/why-jalapeno-peppers-less-spicy-blame-aggies/)
+- [Why Jalapeño Peppers Are Less Spicy Than Ever &lpar;2023&rpar;](https://www.dmagazine.com/food-drink/2023/05/why-jalapeno-peppers-less-spicy-blame-aggies/)
 - [New York medical school eliminates tuition after $1B gift](https://www.bbc.com/news/world-us-canada-68407453)
-- [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
-- [A new phase of matter: Physicists show non-Abelian anyons in quantum processor](https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html)
-- [Ryzen Z1&#39;s Tiny iGPU](https://chipsandcheese.com/2024/02/25/ryzen-z1s-tiny-igpu/)
+- [Odysseus has less than a day left on the Moon before it freezes to death](https://arstechnica.com/space/2024/02/nasa-found-the-private-lander-on-the-moon-but-its-lifetime-is-running-short/)
+- [Goodhart&#39;s Law](https://xkcd.com/2899/)
+- [Why Isn&#39;t Taxpayer-Funded U.S. Broadband Mapping Data Owned by the Public?](https://www.techdirt.com/2024/02/26/why-isnt-taxpayer-funded-u-s-broadband-mapping-data-owned-by-the-public/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
