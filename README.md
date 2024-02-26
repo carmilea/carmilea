@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stress Reduction Techniques for High Stress Operations](https://health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Real-Warriors-Campaign/Articles/Stress-Reduction-Techniques-for-High-Stress-Operations)
 - [gifcities.org by Internet Archive – search for GIFs scraped off geocities sites](https://gifcities.org/)
+- [PID Without a PhD [pdf]](http://manuals.chudov.com/Servo-Tuning/PID-without-a-PhD.pdf)
 - [Profiteering Hampers U.S. Grid Expansion](https://spectrum.ieee.org/transmission-expansion)
 - [Inside North Korea&#39;s Forced Labor Program](https://www.newyorker.com/magazine/2024/03/04/inside-north-koreas-forced-labor-program-in-china)
-- [Drawing and illustrating in the pre-digital time &lpar;2019&rpar;](https://www.daube.ch/docu/glossary/drawingtools.html)
-- [Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
