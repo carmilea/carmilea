@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [For Car Thieves, Toronto Is a &#39;Candy Store,&#39; and Drivers Are Fed Up](https://www.nytimes.com/2024/02/24/world/canada/toronto-car-theft-epidemic.html)
-- [The Disappointing Tea.xyz](https://connortumbleson.com/2024/02/26/the-disappointing-tea-xyz/)
-- [The 14 pains of building your own billing system](https://arnon.dk/the-14-pains-of-billing/)
-- [Let&#39;s compile like it&#39;s 1992 &lpar;2014&rpar;](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
-- [Genie: Generative Interactive Environments](https://sites.google.com/view/genie-2024)
+- [Show HN: AboutIdeasNow – search /about, /ideas, /now pages of 7k+ personal sites](https://aboutideasnow.com/)
+- [Apache Superset](https://superset.apache.org/)
+- [Microsoft strikes deal with Mistral in push beyond OpenAI](https://www.ft.com/content/cd6eb51a-3276-450f-87fd-97e8410db9eb)
+- [Mistral Large](https://mistral.ai/news/mistral-large/)
+- [Plex Accounts Getting Disabled](https://old.reddit.com/r/PleX/comments/1b07kvc/accounts_getting_disabled/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
