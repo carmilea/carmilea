@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Twist on Wadler&#39;s Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
 - [Home Screen Advantage](https://infrequently.org/2024/02/home-screen-advantage/)
 - [Ask HN: What do I do with my side projects?](https://news.ycombinator.com/item?id=39507831)
-- [Business Narrative Strategy](https://tomcritchlow.com/2024/02/16/narrative-strategy/)
-- [New car buying guide: the algorithm](https://github.com/kutinden/buyingacar/blob/main/README.md)
-- [$500 drone live calculates position with camera, Google Maps. No GPS](https://dronenr.com.au/2024/02/19/drone-position-gps-camera-google-maps/)
+- [New car buying guide: the algorithm &lpar;2021&rpar;](https://github.com/kutinden/buyingacar/blob/main/README.md)
+- [A drone that calculates GPS coordinates using a camera and Google Maps](https://twitter.com/ilaffey2/status/1759353732075294766)
 <!-- BLOG-POST-LIST:END -->
 
 ---
