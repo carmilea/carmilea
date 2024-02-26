@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [For Car Thieves, Toronto Is a &#39;Candy Store,&#39; and Drivers Are Fed Up](https://www.nytimes.com/2024/02/24/world/canada/toronto-car-theft-epidemic.html)
+- [The Disappointing Tea.xyz](https://connortumbleson.com/2024/02/26/the-disappointing-tea-xyz/)
 - [The 14 pains of building your own billing system](https://arnon.dk/the-14-pains-of-billing/)
 - [Let&#39;s compile like it&#39;s 1992 &lpar;2014&rpar;](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
 - [Genie: Generative Interactive Environments](https://sites.google.com/view/genie-2024)
-- [Porting Sweet 16 &lpar;2004&rpar;](http://www.6502.org/source/interpreters/sweet16.htm)
-- [Handedness as a determinant of lateral bias in human functional cradling &lpar;2023&rpar;](https://onlinelibrary.wiley.com/doi/10.1111/infa.12572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
