@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A new phase of matter: Physicists show non-Abelian anyons in quantum processor](https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html)
+- [Press Release: Future Software Should Be Memory Safe](https://www.whitehouse.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/)
 - [Show HN: Darwin – Automate Your GitHub Project with AI](https://darwin-ai.dev)
 - [Show HN: Sqlbind a Python library to compose raw SQL](https://github.com/baverman/sqlbind)
-- [Firearms vs. armour in the late Middle Ages and Renaissance](https://thefatefulforce.com/firearms-vs-armour-in-the-late-middle-ages-and-renaissance/)
-- [JSTOR is Now Available in 1k Prisons](https://about.jstor.org/news/jstor-available-in-1000-prisons/)
-- [Ending the Ivy League&#39;s Tax Dodge](https://www.levernews.com/ending-the-ivy-leagues-tax-dodge/)
+- [&quot;The incomprehensible should cause suspicion rather than admiration&quot;](https://computerhistory.org/profile/niklaus-wirth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
