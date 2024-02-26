@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firsty.app – free 300kbit/s eSIM for US/EU](https://www.firsty.app/)
+- [Can confirm a current Broadcom VMware customer went from $8M renewal to $100M](https://twitter.com/cioontherun/status/1760770717040115988)
+- [An interactive guide to Fourier series](https://injuly.in/blog/fourier-series/index.html)
 - [Xkcd: Greenhouse Effect](https://xkcd.com/2889/)
-- [AI Infrastructure Landscape](https://ai-infra.fun/)
-- [CRE vet says 30% of office buildings are &#39;basically worth nothing&#39;](https://fortune.com/2024/02/25/office-commercial-real-estate-crisis-doom-loop-conversion-housing-subsidies-demolition/)
-- [A Twist on Wadler&#39;s Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
-- [Doom rendered via console.log&lpar;&rpar; in a web browser](https://github.com/MattCozendey/doom-console-log)
+- [All Aboard the Bureaucracy Train](https://asteriskmag.com/issues/05/all-aboard-the-bureaucracy-train)
 <!-- BLOG-POST-LIST:END -->
 
 ---
