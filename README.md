@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firearms vs. Armour in the Late Middle Ages and Renaissance](https://thefatefulforce.com/firearms-vs-armour-in-the-late-middle-ages-and-renaissance/)
+- [Jstor is Now Available in 1k Prisons](https://about.jstor.org/news/jstor-available-in-1000-prisons/)
+- [Ottawa to create regulator to hold platforms accountable for harmful content](https://www.cbc.ca/news/politics/online-harms-legislation-new-regulator-1.7125289)
+- [Ending the Ivy League&#39;s Tax Dodge](https://www.levernews.com/ending-the-ivy-leagues-tax-dodge/)
 - [Launch HN: Delve &lpar;YC W24&rpar; – HIPAA compliance as a service](https://news.ycombinator.com/item?id=39513054)
-- [&quot;Coding&quot; was never the source of value](https://twitter.com/id_aa_carmack/status/1762110222321975442)
-- [A bad day at the office](https://airminded.org/2024/02/20/a-bad-day-at-the-office/)
-- [What lengths will Chinese companies go to get an Nvidia A100 chip?](https://chinai.substack.com/p/chinai-255-panic-buying-speculative)
-- [Final images of Ingenuity reveal an entire blade broke off the helicopter](https://arstechnica.com/space/2024/02/final-images-of-ingenuity-reveal-an-entire-blade-broke-off-the-helicopter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
