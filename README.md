@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xkcd: Greenhouse Effect](https://xkcd.com/2889/)
+- [AI Infrastructure Landscape](https://ai-infra.fun/)
+- [CRE vet says 30% of office buildings are &#39;basically worth nothing&#39;](https://fortune.com/2024/02/25/office-commercial-real-estate-crisis-doom-loop-conversion-housing-subsidies-demolition/)
 - [A Twist on Wadler&#39;s Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
-- [Home Screen Advantage](https://infrequently.org/2024/02/home-screen-advantage/)
-- [console.log&lpar;DOOM&rpar;](https://github.com/MattCozendey/doom-console-log)
-- [New car buying guide: the algorithm &lpar;2021&rpar;](https://github.com/kutinden/buyingacar/blob/main/README.md)
-- [A drone that calculates coordinates using a camera and Google Maps](https://twitter.com/ilaffey2/status/1759353732075294766)
+- [Doom rendered via console.log&lpar;&rpar; in a web browser](https://github.com/MattCozendey/doom-console-log)
 <!-- BLOG-POST-LIST:END -->
 
 ---
