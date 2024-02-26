@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What do I do with my side projects?](https://news.ycombinator.com/item?id=39507831)
+- [Disillusioned with Deno](https://www.baldurbjarnason.com/2024/disillusioned-with-deno/)
 - [Business Narrative Strategy](https://tomcritchlow.com/2024/02/16/narrative-strategy/)
-- [Best Rain Jackets in the World Will Soon Be Illegal](https://www.outsideonline.com/outdoor-adventure/environment/forever-chemicals-pfas/)
-- [FDA Approves First Medication to Reduce Allergic Reactions to Multiple Foods](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-help-reduce-allergic-reactions-multiple-foods-after-accidental)
-- [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
-- [Stress Reduction Techniques for High Stress Operations](https://health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Real-Warriors-Campaign/Articles/Stress-Reduction-Techniques-for-High-Stress-Operations)
+- [New car buying guide: the algorithm](https://github.com/kutinden/buyingacar/blob/main/README.md)
+- [FDA approves first medication to reduce allergic reactions to multiple foods](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-help-reduce-allergic-reactions-multiple-foods-after-accidental)
 <!-- BLOG-POST-LIST:END -->
 
 ---
