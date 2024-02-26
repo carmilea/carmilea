@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple&#39;s decision to drop iPhone web apps comes under scrutiny in the EU](https://www.theverge.com/2024/2/26/24083511/apple-eu-investigation-web-app-support)
+- [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 - [A new phase of matter: Physicists show non-Abelian anyons in quantum processor](https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html)
-- [Press Release: Future Software Should Be Memory Safe](https://www.whitehouse.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/)
+- [Ryzen Z1&#39;s Tiny iGPU](https://chipsandcheese.com/2024/02/25/ryzen-z1s-tiny-igpu/)
 - [Show HN: Darwin – Automate Your GitHub Project with AI](https://darwin-ai.dev)
-- [Show HN: Sqlbind a Python library to compose raw SQL](https://github.com/baverman/sqlbind)
-- [&quot;The incomprehensible should cause suspicion rather than admiration&quot;](https://computerhistory.org/profile/niklaus-wirth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
