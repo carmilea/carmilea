@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Home Screen Advantage](https://infrequently.org/2024/02/home-screen-advantage/)
 - [Ask HN: What do I do with my side projects?](https://news.ycombinator.com/item?id=39507831)
-- [Disillusioned with Deno](https://www.baldurbjarnason.com/2024/disillusioned-with-deno/)
 - [Business Narrative Strategy](https://tomcritchlow.com/2024/02/16/narrative-strategy/)
 - [New car buying guide: the algorithm](https://github.com/kutinden/buyingacar/blob/main/README.md)
-- [FDA approves first medication to reduce allergic reactions to multiple foods](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-help-reduce-allergic-reactions-multiple-foods-after-accidental)
+- [$500 drone live calculates position with camera, Google Maps. No GPS](https://dronenr.com.au/2024/02/19/drone-position-gps-camera-google-maps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
