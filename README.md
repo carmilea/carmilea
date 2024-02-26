@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$500 drone live calculates position with camera, Google Maps. No GPS](https://dronenr.com.au/2024/02/19/drone-position-gps-camera-google-maps/)
+- [Business Narrative Strategy](https://tomcritchlow.com/2024/02/16/narrative-strategy/)
+- [Best Rain Jackets in the World Will Soon Be Illegal](https://www.outsideonline.com/outdoor-adventure/environment/forever-chemicals-pfas/)
 - [FDA Approves First Medication to Reduce Allergic Reactions to Multiple Foods](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-help-reduce-allergic-reactions-multiple-foods-after-accidental)
 - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
 - [Stress Reduction Techniques for High Stress Operations](https://health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Real-Warriors-Campaign/Articles/Stress-Reduction-Techniques-for-High-Stress-Operations)
-- [PID Without a PhD [pdf]](http://manuals.chudov.com/Servo-Tuning/PID-without-a-PhD.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
