@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firsty.app – free 300kbit/s eSIM for US/EU](https://www.firsty.app/)
-- [Can confirm a current Broadcom VMware customer went from $8M renewal to $100M](https://twitter.com/cioontherun/status/1760770717040115988)
-- [An interactive guide to Fourier series](https://injuly.in/blog/fourier-series/index.html)
-- [Xkcd: Greenhouse Effect](https://xkcd.com/2889/)
-- [All Aboard the Bureaucracy Train](https://asteriskmag.com/issues/05/all-aboard-the-bureaucracy-train)
+- [The 14 pains of building your own billing system](https://arnon.dk/the-14-pains-of-billing/)
+- [Let&#39;s compile like it&#39;s 1992 &lpar;2014&rpar;](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
+- [Genie: Generative Interactive Environments](https://sites.google.com/view/genie-2024)
+- [Porting Sweet 16 &lpar;2004&rpar;](http://www.6502.org/source/interpreters/sweet16.htm)
+- [Handedness as a determinant of lateral bias in human functional cradling &lpar;2023&rpar;](https://onlinelibrary.wiley.com/doi/10.1111/infa.12572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
