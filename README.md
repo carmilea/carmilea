@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US judge halts government effort to monitor crypto mining energy use](https://www.theguardian.com/technology/2024/feb/27/crypto-mining-electricity-use)
-- [Testing the F-35C Tailhook](https://the-engi-nerd.github.io/posts/welcome/)
-- [OpenAI: &#39;The New York Times Paid Someone to Hack Us&#39;](https://torrentfreak.com/openai-the-new-york-times-paid-someone-to-hack-us-240227/)
-- [Show HN: I built an open-source data copy tool called ingestr](https://github.com/bruin-data/ingestr)
-- [Show HN: Mountaineer – Webapps in Python and React](https://github.com/piercefreeman/mountaineer)
+- [RankScience &lpar;YC W17&rpar; is hiring to automate SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+- [Buying a Home Near Nvidia&#39;s Headquarters Is Nearly Impossible Right Now](https://www.wsj.com/real-estate/luxury-homes/nvidia-headquarters-santa-clara-california-d2634941)
+- [How Netflix Uses Java](https://www.infoq.com/presentations/netflix-java/)
+- [Rise of fast-fashion Shein, Temu roils global air cargo industry](https://www.japantimes.co.jp/business/2024/02/22/companies/fast-fashion-shein-temu-global-cargo/)
+- [Deploying Web Apps with Caddy: A Beginner&#39;s Guide Caddy](https://betterstack.com/community/guides/web-servers/caddy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
