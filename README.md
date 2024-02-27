@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Gemini invented fake reviews smearing book on Big Tech&#39;s political bias](https://www.foxnews.com/politics/google-gemini-invented-fake-reviews-smearing-my-book-about-big-techs-political-biases)
-- [Calculating the Distance Between Vectors](https://www.singlestore.com/blog/distance-metrics-in-machine-learning-simplfied)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infrastructure &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
+- [SuperTux](https://github.com/SuperTux/supertux)
+- [Understanding + Calculating the Distance Between Vectors](https://www.singlestore.com/blog/distance-metrics-in-machine-learning-simplfied)
 - [Xiaomi bets big on its new electric vehicle – targets 20M premium users](https://www.cnbc.com/2024/02/26/xiaomi-bets-on-new-ev-su7-targets-potential-20-million-premium-users.html)
 - [Synthetic data generation for tabular data](https://github.com/sdv-dev/SDV)
-- [Apple cancels work on electric car, shifts team to generative AI](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
