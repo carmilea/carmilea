@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s Gemini Headaches Spur $90B Selloff](https://www.forbes.com/sites/dereksaul/2024/02/26/googles-gemini-headaches-spur-90-billion-selloff/)
-- [Forgejo makes a full break from Gitea](https://lwn.net/SubscriberLink/963095/85db4f864c060d22/)
-- [Dad died in 2022. Since 2023, things he selfhosted have slowly begun breaking](https://old.reddit.com/r/selfhosted/comments/1b0rdft/dad_died_in_2022_since_2023_things_he_selfhosted/)
+- [Apple Cancels Work on Electric Car, Shifts Team to Generative AI](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai)
+- [Powers of Ten &lpar;1977&rpar; [video]](https://www.youtube.com/watch?v=0fKBhvDjuy0)
+- [Amazon lobbyists face ban from European Parliament](https://www.politico.eu/article/amazon-lobbyists-face-ban-from-european-parliament/)
 - [The /unblock API from Browserless: dodging bot detection as a service](https://www.browserless.io/blog/2024/02/26/unblock-api/?apcid=00620de59ffc742367908900&utm_campaign=unblock-api-announcement&utm_content=unblock-api-announcement&utm_medium=email&utm_source=ortto)
 - [The business of winding down startups is booming](https://pitchbook.com/news/articles/startup-shutdown-services-vc)
 <!-- BLOG-POST-LIST:END -->
