@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Into the SingleVerse: An Inside Look at Insight with Lonne Jaffe &amp; Teddie Wardi](https://www.youtube.com/watch?v=J-Vc6nl41dg)
 - [How We Made That App Episode 6:Data Dreams and AI Realities with 6Sense co-founder Premal Shah](https://www.youtube.com/watch?v=4mA13rG89Cg)
 - [Build Real-Time Document:Image Analytics with GPT-4 Vision.](https://www.youtube.com/watch?v=cOcJWHUPFGY)
 - [Virtual AI Deployment Summit: Modernize Enterprise Data for Real-Time AI Using CDC and OpenAI](https://www.youtube.com/watch?v=NW0HwHbQm8Q)
-- [Into the SingleVerse S2 E1: Harnessing Technology to Benefit Society with Van Jones](https://www.youtube.com/watch?v=7tGVcSz3lHc)
-- [How We Made That App Episode 5: Expanding Education Through Tech with Numerade Co-Founder Alex Lee](https://www.youtube.com/watch?v=uV04sIqfDbQ)
+- [Into the SingleVerse: Harnessing Technology to Benefit Society with Van Jones](https://www.youtube.com/watch?v=7tGVcSz3lHc)
 <!-- YOUTUBE:END -->
 
 
