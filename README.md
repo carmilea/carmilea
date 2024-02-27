@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI commented the entire Spring Boot codebase](https://github.com/spring-projects/spring-boot/pull/39754/)
+- [Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
+- [Ask HN: People who switched from GPT to their own models. How was it?](https://news.ycombinator.com/item?id=39519692)
+- [On Alcohol](https://aksui.com/alcohol)
 - [A Font that Renders 14 types of Charts](https://www.vectrotype.com/chartwell)
 - [Bpftop: Streamlining eBPF performance optimization](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771)
-- [Breakdown products of niacin may spur vascular inflammation](https://arstechnica.com/science/2024/02/surprising-link-found-between-niacin-and-risk-of-heart-attack-and-stroke/)
-- [Segmenting Comic book Frames](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
