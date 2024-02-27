@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral Le Chat](https://mistral.ai/fr/news/le-chat-mistral/)
 - [Bemlo &lpar;YC W22&rpar; Is Hiring React devs to change how healthcare shifts are filled](https://www.ycombinator.com/companies/bemlo/jobs/6QWqjSn-senior-frontend-fullstack-developer-ts-node-react)
 - [On the importance to make games during the game engine&#39;s development](https://www.team-nutshell.dev/nutshellengine/articles/making-games-during-development.html)
 - [Netlify just sent me a $104K bill for a simple static site](https://reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/)
 - [B.C. lawyer reprimanded for citing fake cases invented by ChatGPT](https://www.cbc.ca/news/canada/british-columbia/lawyer-chatgpt-fake-precedent-1.7126393)
-- [The creator economy can&#39;t rely on Patreon](https://joanwestenberg.com/blog/the-creator-economy-cant-rely-on-patreon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
