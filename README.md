@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blender Open Movies. Featuring all the production files, assets, and artwork](https://studio.blender.org/films/)
 - [React Labs: What We&#39;ve Been Working On – February 2024 – React Compiler](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
 - [Shittier: Code formatting tool that makes your code look terrible](https://github.com/rohitdhas/shittier)
 - [I Backup](https://sive.rs/backup)
 - [Balancing Optimization While Coding](https://breadchris.com/thinkies/finding-a-balance-while-coding/)
-- [Berlin TYPE: The official type for the city of Berlin](https://www.hvdfonts.com/custom-cases/berlin-type)
 <!-- BLOG-POST-LIST:END -->
 
 ---
