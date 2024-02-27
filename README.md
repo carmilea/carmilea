@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RankScience &lpar;YC W17&rpar; is hiring to automate SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
-- [Buying a Home Near Nvidia&#39;s Headquarters Is Nearly Impossible Right Now](https://www.wsj.com/real-estate/luxury-homes/nvidia-headquarters-santa-clara-california-d2634941)
-- [How Netflix Uses Java](https://www.infoq.com/presentations/netflix-java/)
-- [Rise of fast-fashion Shein, Temu roils global air cargo industry](https://www.japantimes.co.jp/business/2024/02/22/companies/fast-fashion-shein-temu-global-cargo/)
-- [Deploying Web Apps with Caddy: A Beginner&#39;s Guide Caddy](https://betterstack.com/community/guides/web-servers/caddy/)
+- [Google&#39;s Gemini Headaches Spur $90B Selloff](https://www.forbes.com/sites/dereksaul/2024/02/26/googles-gemini-headaches-spur-90-billion-selloff/)
+- [Forgejo makes a full break from Gitea](https://lwn.net/SubscriberLink/963095/85db4f864c060d22/)
+- [Dad died in 2022. Since 2023, things he selfhosted have slowly begun breaking](https://old.reddit.com/r/selfhosted/comments/1b0rdft/dad_died_in_2022_since_2023_things_he_selfhosted/)
+- [The /unblock API from Browserless: dodging bot detection as a service](https://www.browserless.io/blog/2024/02/26/unblock-api/?apcid=00620de59ffc742367908900&utm_campaign=unblock-api-announcement&utm_content=unblock-api-announcement&utm_medium=email&utm_source=ortto)
+- [The business of winding down startups is booming](https://pitchbook.com/news/articles/startup-shutdown-services-vc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
