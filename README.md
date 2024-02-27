@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stock markets are booming but the good times are unlikely to last](https://www.economist.com/finance-and-economics/2024/02/25/stockmarkets-are-booming-but-the-good-times-are-unlikely-to-last)
-- [Expedia to Eliminate 1,500 Jobs as Travel Growth Moderates](https://www.bloomberg.com/news/articles/2024-02-26/expedia-to-eliminate-1-500-jobs-as-travel-growth-moderates)
-- [Segmenting Comic Books Using SAM &lpar;Segment-Anything&rpar;](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
-- [Cactus – A Modern Diablo II Version Switcher, Character Isolator, &amp; Mod Manager](https://github.com/fearedbliss/Cactus)
-- [Why Jalapeño Peppers Are Less Spicy Than Ever &lpar;2023&rpar;](https://www.dmagazine.com/food-drink/2023/05/why-jalapeno-peppers-less-spicy-blame-aggies/)
+- [AI commented the entire Spring Boot codebase](https://github.com/spring-projects/spring-boot/pull/39754/)
+- [A Font that Renders 14 types of Charts](https://www.vectrotype.com/chartwell)
+- [Bpftop: Streamlining eBPF performance optimization](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771)
+- [Breakdown products of niacin may spur vascular inflammation](https://arstechnica.com/science/2024/02/surprising-link-found-between-niacin-and-risk-of-heart-attack-and-stroke/)
+- [Segmenting Comic book Frames](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
