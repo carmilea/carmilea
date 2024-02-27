@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US judge halts government effort to monitor crypto mining energy use](https://www.theguardian.com/technology/2024/feb/27/crypto-mining-electricity-use)
+- [Testing the F-35C Tailhook](https://the-engi-nerd.github.io/posts/welcome/)
+- [OpenAI: &#39;The New York Times Paid Someone to Hack Us&#39;](https://torrentfreak.com/openai-the-new-york-times-paid-someone-to-hack-us-240227/)
+- [Show HN: I built an open-source data copy tool called ingestr](https://github.com/bruin-data/ingestr)
 - [Show HN: Mountaineer – Webapps in Python and React](https://github.com/piercefreeman/mountaineer)
-- [Blazer: Business Intelligence Made Simple](https://github.com/ankane/blazer)
-- [Botanical gardens can cool city air by an average of 5°C](https://newatlas.com/environment/surrey-cooling-effects-green-spaces-waterways/)
-- [Boeing Missing Key Elements of Safety Culture: FAA Report](https://www.ainonline.com/aviation-news/air-transport/2024-02-26/boeing-missing-key-elements-safety-culture-faa-report)
-- [Consider the Pawpaw](https://beltmag.com/consider-the-pawpaw/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
