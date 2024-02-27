@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Promoted.ai &lpar;YC W21&rpar; Is Hiring – Flink Expert](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-apache-flink-expert)
+- [Rainwater everywhere on the planet is unsafe to drink due to chemicals &lpar;2022&rpar;](https://phys.org/news/2022-08-rainwater-unsafe-due-chemicals.html)
+- [Software Infrastructure 2.0: A Wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
 - [Blender Open Movies. Featuring all the production files, assets, and artwork](https://studio.blender.org/films/)
-- [React Labs: What We&#39;ve Been Working On – February 2024 – React Compiler](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
-- [Shittier: Code formatting tool that makes your code look terrible](https://github.com/rohitdhas/shittier)
-- [I Backup](https://sive.rs/backup)
-- [Balancing Optimization While Coding](https://breadchris.com/thinkies/finding-a-balance-while-coding/)
+- [I turned my open-source project into a full-time business](https://docs.emailengine.app/how-i-turned-my-open-source-project-into/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
