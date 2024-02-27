@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apollo calls AI a &#39;bubble&#39; worse than even the dotcom era](https://fortune.com/2024/02/26/nvidia-ai-bubble-apollo-asset-manager-dotcom-artificial-intelligence/)
+- [URLs Make ChatGPT Stupid](https://www.acco.io/urls-make-chatgpt-stupid)
 - [Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
 - [Ask HN: People who switched from GPT to their own models. How was it?](https://news.ycombinator.com/item?id=39519692)
-- [On Alcohol](https://aksui.com/alcohol)
-- [A Font that Renders 14 types of Charts](https://www.vectrotype.com/chartwell)
 - [Bpftop: Streamlining eBPF performance optimization](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771)
 <!-- BLOG-POST-LIST:END -->
 
