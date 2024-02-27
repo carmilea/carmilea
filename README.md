@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [React Is the New IBM](https://chrlschn.dev/blog/2023/02/react-is-the-new-ibm/)
+- [SpaceX discloses cause of Starship anomalies as it clears an FAA hurdle](https://arstechnica.com/space/2024/02/faa-closes-starship-inquiry-and-spacex-details-causes-of-november-accidents/)
+- [Apple Vision Pro&#39;s components cost $1,542–but that&#39;s not the full story](https://arstechnica.com/gadgets/2024/02/apple-vision-pros-components-cost-1542-but-thats-not-the-full-story/)
+- [Swiss Maps Are Full of Hidden Secrets](https://www.atlasobscura.com/articles/swiss-map-secrets)
 - [Promoted.ai &lpar;YC W21&rpar; Is Hiring – Flink Expert](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-apache-flink-expert)
-- [Rainwater everywhere on the planet is unsafe to drink due to chemicals &lpar;2022&rpar;](https://phys.org/news/2022-08-rainwater-unsafe-due-chemicals.html)
-- [Software Infrastructure 2.0: A Wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
-- [Blender Open Movies. Featuring all the production files, assets, and artwork](https://studio.blender.org/films/)
-- [I turned my open-source project into a full-time business](https://docs.emailengine.app/how-i-turned-my-open-source-project-into/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
