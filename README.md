@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Launches Antitrust Investigation of UnitedHealth](https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2)
+- [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
+- [Does this 8088 code in the Leisure Suit Larry 2 game do anything?](https://retrocomputing.stackexchange.com/questions/29565/does-this-8088-code-in-the-leisure-suit-larry-2-game-actually-do-anything)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infrastructure &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [SuperTux](https://github.com/SuperTux/supertux)
-- [Understanding + Calculating the Distance Between Vectors](https://www.singlestore.com/blog/distance-metrics-in-machine-learning-simplfied)
-- [Xiaomi bets big on its new electric vehicle – targets 20M premium users](https://www.cnbc.com/2024/02/26/xiaomi-bets-on-new-ev-su7-targets-potential-20-million-premium-users.html)
-- [Synthetic data generation for tabular data](https://github.com/sdv-dev/SDV)
+- [All you need is Wide Events, not &quot;Metrics, Logs and Traces&quot;](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
