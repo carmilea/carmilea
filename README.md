@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sky High Sabotage: Major Airlines Are Using TSA to Shut Down Competitor](https://viewfromthewing.com/sky-high-sabotage-major-airlines-are-using-tsa-to-secretly-shut-down-a-competitor/)
+- [Stock markets are booming but the good times are unlikely to last](https://www.economist.com/finance-and-economics/2024/02/25/stockmarkets-are-booming-but-the-good-times-are-unlikely-to-last)
+- [Expedia to Eliminate 1,500 Jobs as Travel Growth Moderates](https://www.bloomberg.com/news/articles/2024-02-26/expedia-to-eliminate-1-500-jobs-as-travel-growth-moderates)
 - [Segmenting Comic Books Using SAM &lpar;Segment-Anything&rpar;](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
 - [Cactus – A Modern Diablo II Version Switcher, Character Isolator, &amp; Mod Manager](https://github.com/fearedbliss/Cactus)
 - [Why Jalapeño Peppers Are Less Spicy Than Ever &lpar;2023&rpar;](https://www.dmagazine.com/food-drink/2023/05/why-jalapeno-peppers-less-spicy-blame-aggies/)
-- [New York medical school eliminates tuition after $1B gift](https://www.bbc.com/news/world-us-canada-68407453)
 <!-- BLOG-POST-LIST:END -->
 
 ---
