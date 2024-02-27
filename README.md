@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Cancels Work on Electric Car, Shifts Team to Generative AI](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai)
-- [Powers of Ten &lpar;1977&rpar; [video]](https://www.youtube.com/watch?v=0fKBhvDjuy0)
-- [Amazon lobbyists face ban from European Parliament](https://www.politico.eu/article/amazon-lobbyists-face-ban-from-european-parliament/)
-- [The /unblock API from Browserless: dodging bot detection as a service](https://www.browserless.io/blog/2024/02/26/unblock-api/?apcid=00620de59ffc742367908900&utm_campaign=unblock-api-announcement&utm_content=unblock-api-announcement&utm_medium=email&utm_source=ortto)
-- [The business of winding down startups is booming](https://pitchbook.com/news/articles/startup-shutdown-services-vc)
+- [Google Gemini invented fake reviews smearing book on Big Tech&#39;s political bias](https://www.foxnews.com/politics/google-gemini-invented-fake-reviews-smearing-my-book-about-big-techs-political-biases)
+- [Calculating the Distance Between Vectors](https://www.singlestore.com/blog/distance-metrics-in-machine-learning-simplfied)
+- [Xiaomi bets big on its new electric vehicle – targets 20M premium users](https://www.cnbc.com/2024/02/26/xiaomi-bets-on-new-ev-su7-targets-potential-20-million-premium-users.html)
+- [Synthetic data generation for tabular data](https://github.com/sdv-dev/SDV)
+- [Apple cancels work on electric car, shifts team to generative AI](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
