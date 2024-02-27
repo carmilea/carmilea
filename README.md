@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sky High Sabotage: Major Airlines Are Using TSA to Shut Down Competitor](https://viewfromthewing.com/sky-high-sabotage-major-airlines-are-using-tsa-to-secretly-shut-down-a-competitor/)
+- [Segmenting Comic Books Using SAM &lpar;Segment-Anything&rpar;](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
+- [Cactus – A Modern Diablo II Version Switcher, Character Isolator, &amp; Mod Manager](https://github.com/fearedbliss/Cactus)
 - [Why Jalapeño Peppers Are Less Spicy Than Ever &lpar;2023&rpar;](https://www.dmagazine.com/food-drink/2023/05/why-jalapeno-peppers-less-spicy-blame-aggies/)
 - [New York medical school eliminates tuition after $1B gift](https://www.bbc.com/news/world-us-canada-68407453)
-- [Odysseus has less than a day left on the Moon before it freezes to death](https://arstechnica.com/space/2024/02/nasa-found-the-private-lander-on-the-moon-but-its-lifetime-is-running-short/)
-- [Goodhart&#39;s Law](https://xkcd.com/2899/)
-- [Why Isn&#39;t Taxpayer-Funded U.S. Broadband Mapping Data Owned by the Public?](https://www.techdirt.com/2024/02/26/why-isnt-taxpayer-funded-u-s-broadband-mapping-data-owned-by-the-public/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
