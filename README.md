@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [React Is the New IBM](https://chrlschn.dev/blog/2023/02/react-is-the-new-ibm/)
-- [SpaceX discloses cause of Starship anomalies as it clears an FAA hurdle](https://arstechnica.com/space/2024/02/faa-closes-starship-inquiry-and-spacex-details-causes-of-november-accidents/)
-- [Apple Vision Pro&#39;s components cost $1,542–but that&#39;s not the full story](https://arstechnica.com/gadgets/2024/02/apple-vision-pros-components-cost-1542-but-thats-not-the-full-story/)
-- [Swiss Maps Are Full of Hidden Secrets](https://www.atlasobscura.com/articles/swiss-map-secrets)
-- [Promoted.ai &lpar;YC W21&rpar; Is Hiring – Flink Expert](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-apache-flink-expert)
+- [Honda&#39;s first US-market EV is here–the 2024 Prologue, driven](https://arstechnica.com/cars/2024/02/heres-the-first-drive-of-hondas-new-ev-crossover-the-2024-prologue/)
+- [Sony Interactive Entertainment – Difficult News About Our Workforce](https://sonyinteractive.com/en/news/blog/difficult-news-about-our-workforce/)
+- [Boeing Missing Key Elements of Safety Culture: FAA Report](https://www.ainonline.com/aviation-news/air-transport/2024-02-26/boeing-missing-key-elements-safety-culture-faa-report)
+- [Consider the Pawpaw](https://beltmag.com/consider-the-pawpaw/)
+- [Ants Geopolitics](https://aeon.co/essays/the-strange-and-turbulent-global-world-of-ant-geopolitics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
