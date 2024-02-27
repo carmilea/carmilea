@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Honda&#39;s first US-market EV is here–the 2024 Prologue, driven](https://arstechnica.com/cars/2024/02/heres-the-first-drive-of-hondas-new-ev-crossover-the-2024-prologue/)
-- [Sony Interactive Entertainment – Difficult News About Our Workforce](https://sonyinteractive.com/en/news/blog/difficult-news-about-our-workforce/)
+- [Show HN: Mountaineer – Webapps in Python and React](https://github.com/piercefreeman/mountaineer)
+- [Blazer: Business Intelligence Made Simple](https://github.com/ankane/blazer)
+- [Botanical gardens can cool city air by an average of 5°C](https://newatlas.com/environment/surrey-cooling-effects-green-spaces-waterways/)
 - [Boeing Missing Key Elements of Safety Culture: FAA Report](https://www.ainonline.com/aviation-news/air-transport/2024-02-26/boeing-missing-key-elements-safety-culture-faa-report)
 - [Consider the Pawpaw](https://beltmag.com/consider-the-pawpaw/)
-- [Ants Geopolitics](https://aeon.co/essays/the-strange-and-turbulent-global-world-of-ant-geopolitics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
