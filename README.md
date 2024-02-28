@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Qualcomm has open sourced more than 80 AI models](https://huggingface.co/qualcomm)
-- [Rewrite the VP9 codec library in Rust](https://lore.kernel.org/lkml/20240227215146.46487-1-daniel.almeida@collabora.com/)
-- [Why I use Firefox](https://xn--ime-zza.eu/3)
-- [SymPy: Symbolic Mathematics in Python](https://www.sympy.org/en/index.html)
-- [The leap year is February 29, not December 32 due to a Roman calendar quirk](https://theconversation.com/the-leap-year-is-february-29-not-december-32-due-to-a-roman-calendar-quirk-and-fastidious-medieval-monks-224433)
+- [Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
+- [Leaving Everything Behind For Elixir [Theo – t3․gg] [video]](https://www.youtube.com/watch?v=u2WciH6rAFg)
+- [I&#39;m Funded](https://roe.dev/blog/funding)
+- [Wear OS &quot;Hybrid&quot; design has two OSes, two CPUs, &quot;100 hour&quot; battery life](https://arstechnica.com/gadgets/2024/02/wear-os-hybrid-design-has-two-oses-two-cpus-100-hour-battery-life/)
+- [Wendy&#39;s will experiment with dynamic surge pricing for food in 2025](https://arstechnica.com/information-technology/2024/02/wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
