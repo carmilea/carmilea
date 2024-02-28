@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Launches Antitrust Investigation of UnitedHealth](https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2)
-- [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
-- [Does this 8088 code in the Leisure Suit Larry 2 game do anything?](https://retrocomputing.stackexchange.com/questions/29565/does-this-8088-code-in-the-leisure-suit-larry-2-game-actually-do-anything)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infrastructure &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [All you need is Wide Events, not &quot;Metrics, Logs and Traces&quot;](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
+- [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
+- [Digital Audio Songbook: A Love Letter to My Unfinished Songs](https://echoes.prototape.fm/p/digital-audio-songbook-a-love-letter)
+- [JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
+- [Testcontainers](https://testcontainers.com/)
+- [Dealing with surprising human emotions: desk moves &lpar;2017&rpar;](https://larahogan.me/blog/desk-moves/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
