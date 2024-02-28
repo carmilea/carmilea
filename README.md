@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [HDMI Forum Rejects Open-Source HDMI 2.1 Driver Support Sought by AMD](https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected)
-- [Apple Orders &#39;Neuromancer&#39; Series](https://variety.com/2024/tv/news/apple-neurmancer-series-william-gibson-1235925640/)
-- [How the Media Industry Keeps Losing the Future](https://www.nytimes.com/2024/02/28/technology/news-media-industry-dying.html)
-- [AI Terms Explained](https://glossarytech.com/terms/artificial-intelligence-ai)
-- [Why Is Panera Exempted from California&#39;s New Minimum Wage Law?](https://reason.com/2024/02/28/why-is-panera-exempted-from-californias-new-minimum-wage-law/)
+- [Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
+- [How the media industry keeps losing the future](https://www.nytimes.com/2024/02/28/technology/news-media-industry-dying.html)
+- [EU countries already hitting some of their sustainable energy targets for 2030](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297856)
+- [Julius Caesar&#39;s Year of Confusion](https://www.bbc.com/future/article/20240227-how-julius-caesar-made-the-longest-year-in-history-and-brought-us-leap-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
