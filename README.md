@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Unorthodox Deep Learning GPU Machines](https://www.kyleboddy.com/2024/01/28/building-deep-learning-machines-unorthodox-gpus/)
 - [GoboLinux](https://www.gobolinux.org/)
 - [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
 - [Digital Audio Songbook: A Love Letter to My Unfinished Songs](https://echoes.prototape.fm/p/digital-audio-songbook-a-love-letter)
 - [JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
-- [Testcontainers](https://testcontainers.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
