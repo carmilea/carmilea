@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Majority of workers at Mercedes plant in Alabama sign UAW authorization cards](https://www.detroitnews.com/story/business/autos/foreign/2024/02/27/mercedes-benz-uaw-organizing-autoworkers-alabama/72750019007/)
+- [New FCC standards should consider latency](https://broadbandbreakfast.com/untitled-12/)
+- [Generating Expressive Portrait Videos with Audio2Video](https://humanaigc.github.io/emote-portrait-alive/)
 - [Building Unorthodox Deep Learning GPU Machines](https://www.kyleboddy.com/2024/01/28/building-deep-learning-machines-unorthodox-gpus/)
 - [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
-- [Digital Audio Songbook: A Love Letter to My Unfinished Songs](https://echoes.prototape.fm/p/digital-audio-songbook-a-love-letter)
-- [JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
-- [Testcontainers](https://testcontainers.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
