@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenCollective Shutting Down](https://daniel-lange.com/archives/186-Opencollective-shutting-down.html)
 - [Aviator &lpar;YC S21&rpar; is hiring a part-time developer advocate](https://www.ycombinator.com/companies/aviator/jobs/yrtnjnp-developer-marketing-part-time-social)
 - [2024 MIT Integration Bee – Finals [video]](https://www.youtube.com/watch?v=dyfLMHGnPR0)
+- [Open Collective Official Statement – OCF Dissolution](https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/)
 - [MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
-- [How The Pentagon Learned to Use Targeted Ads to Find Its Targets](https://www.wired.com/story/how-pentagon-learned-targeted-ads-to-find-targets-and-vladimir-putin/)
-- [Show HN: Kalosm an embeddable framework for pre-trained models in Rust](https://floneum.com/blog/kalosm_0_2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
