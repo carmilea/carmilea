@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists find genetic signature of Down syndrome in ancient bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
 - [HDMI Forum Rejects Open-Source HDMI 2.1 Driver Support Sought by AMD](https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected)
 - [Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
-- [How the media industry keeps losing the future](https://www.nytimes.com/2024/02/28/technology/news-media-industry-dying.html)
 - [EU countries already hitting some of their sustainable energy targets for 2030](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297856)
 - [Julius Caesar&#39;s Year of Confusion](https://www.bbc.com/future/article/20240227-how-julius-caesar-made-the-longest-year-in-history-and-brought-us-leap-years)
 <!-- BLOG-POST-LIST:END -->
