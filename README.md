@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Manuals](https://xkcd.com/1343/)
-- [Learn to Read Korean in 15 Minutes](https://www.ryanestrada.com/learntoreadkoreanin15minutes/)
-- [Pingora: HTTP Server and Proxy Library, in Rust, by Cloudflare, Released](https://github.com/cloudflare/pingora)
-- [Mistral: The 9-Month-Old AI Startup Challenging Silicon Valley&#39;s Giants](https://www.wsj.com/tech/ai/the-9-month-old-ai-startup-challenging-silicon-valleys-giants-ee2e4c48)
-- [A cross platform level editor for Quake-engine based games](https://trenchbroom.github.io/)
+- [Europe probes Microsoft&#39;s €15M stake in AI upstart Mistral](https://www.theregister.com/2024/02/28/eu_microsoft_mistral/)
+- [Google pays publishers to test AI tool that scrapes sites to craft new content](https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/)
+- [Pingora: build fast, reliable and programmable networked systems](https://github.com/cloudflare/pingora)
+- [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
+- [TrenchBroom: A cross platform level editor for Quake-engine based games](https://trenchbroom.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
