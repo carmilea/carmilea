@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Man Convicted for Trying to Help Undercover Game Wardens Recover a Deer Drone](https://www.outdoorlife.com/hunting/pennsylvania-drone-sting-conviction/)
+- [US Government Buying Legally Available Consumer Data on US Citizens](https://www.politico.com/news/magazine/2024/02/28/government-buying-your-data-00143742)
+- [Call-Center Firm Sinks on Klarna Claims AI Is Doing Agents&#39; Jobs](https://www.bloomberg.com/news/articles/2024-02-28/teleperformance-sinks-as-klarna-fuels-worries-over-impact-of-ai)
 - [Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
-- [Leaving Everything Behind For Elixir [Theo – t3․gg] [video]](https://www.youtube.com/watch?v=u2WciH6rAFg)
-- [I&#39;m Funded](https://roe.dev/blog/funding)
-- [Wear OS &quot;Hybrid&quot; design has two OSes, two CPUs, &quot;100 hour&quot; battery life](https://arstechnica.com/gadgets/2024/02/wear-os-hybrid-design-has-two-oses-two-cpus-100-hour-battery-life/)
-- [Wendy&#39;s will experiment with dynamic surge pricing for food in 2025](https://arstechnica.com/information-technology/2024/02/wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather/)
+- [Leaving Everything Behind For Elixir [video]](https://www.youtube.com/watch?v=u2WciH6rAFg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
