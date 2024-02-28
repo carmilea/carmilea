@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aviator &lpar;YC S21&rpar; is hiring an extrovert hacker](https://www.ycombinator.com/companies/aviator/jobs/yrtnjnp-developer-marketing-part-time-social)
+- [Aviator &lpar;YC S21&rpar; is hiring a part-time developer advocate](https://www.ycombinator.com/companies/aviator/jobs/yrtnjnp-developer-marketing-part-time-social)
 - [2024 MIT Integration Bee – Finals [video]](https://www.youtube.com/watch?v=dyfLMHGnPR0)
-- [Epic Games hit by 189GB hack, including login and payment info](https://www.rockpapershotgun.com/epic-games-reportedly-hit-by-200gb-ransomware-attack-including-login-and-payment-info)
-- [Americans to Get $5k to Shop Under New Bill](https://www.newsweek.com/american-tax-credit-bill-boost-domestic-consumption-khanna-dingell-manufacturing-support-1873835)
 - [MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
+- [How The Pentagon Learned to Use Targeted Ads to Find Its Targets](https://www.wired.com/story/how-pentagon-learned-targeted-ads-to-find-targets-and-vladimir-putin/)
+- [Show HN: Kalosm an embeddable framework for pre-trained models in Rust](https://floneum.com/blog/kalosm_0_2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
