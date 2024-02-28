@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Man Convicted for Trying to Help Undercover Game Wardens Recover a Deer Drone](https://www.outdoorlife.com/hunting/pennsylvania-drone-sting-conviction/)
-- [US Government Buying Legally Available Consumer Data on US Citizens](https://www.politico.com/news/magazine/2024/02/28/government-buying-your-data-00143742)
-- [Call-Center Firm Sinks on Klarna Claims AI Is Doing Agents&#39; Jobs](https://www.bloomberg.com/news/articles/2024-02-28/teleperformance-sinks-as-klarna-fuels-worries-over-impact-of-ai)
-- [Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
-- [Leaving Everything Behind For Elixir [video]](https://www.youtube.com/watch?v=u2WciH6rAFg)
+- [Show HN: Kalosm an embeddable framework for pre-trained models in Rust](https://floneum.com/blog/kalosm_0_2/)
+- [Why Google&#39;s &#39;woke&#39; AI problem won&#39;t be an easy fix](https://www.bbc.com/news/technology-68412620)
+- [Vyxal: A code-golfing language experience](https://github.com/Vyxal/Vyxal)
+- [Man in remission from blood cancer and HIV after remarkable treatment](https://www.theguardian.com/us-news/2024/feb/28/blood-cancer-hiv-treatment)
+- [Two Chinese Supercomputers &lpar;With Mystery Hardware Components&rpar; Go Online](https://www.oodaloop.com/archive/2024/02/27/two-chinese-supercomputers-with-mystery-hardware-components-go-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
