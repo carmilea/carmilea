@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [46yr-old man claims to have a teen&#39;s body, wants to build nation of immortals](https://www.theatlantic.com/technology/archive/2024/02/bryan-johnson-dont-die-event/677535/)
 - [Europe probes Microsoft&#39;s €15M stake in AI upstart Mistral](https://www.theregister.com/2024/02/28/eu_microsoft_mistral/)
 - [Google pays publishers to test AI tool that scrapes sites to craft new content](https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/)
-- [Pingora: build fast, reliable and programmable networked systems](https://github.com/cloudflare/pingora)
-- [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
-- [TrenchBroom: A cross platform level editor for Quake-engine based games](https://trenchbroom.github.io/)
+- [Klarna AI assistant handles two-thirds of customer service chats in first month](https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/)
+- [The Era of 1-Bit LLMs: All Large Language Models Are in 1.58 Bits](https://synthical.com/article/56b9c006-6221-43a1-9678-79b1f1d9c7bc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
