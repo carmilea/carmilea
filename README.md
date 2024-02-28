@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenCollective Shutting Down](https://daniel-lange.com/archives/186-Opencollective-shutting-down.html)
-- [Aviator &lpar;YC S21&rpar; is hiring a part-time developer advocate](https://www.ycombinator.com/companies/aviator/jobs/yrtnjnp-developer-marketing-part-time-social)
-- [2024 MIT Integration Bee – Finals [video]](https://www.youtube.com/watch?v=dyfLMHGnPR0)
-- [Open Collective Official Statement – OCF Dissolution](https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/)
-- [MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
+- [HDMI Forum Rejects Open-Source HDMI 2.1 Driver Support Sought by AMD](https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected)
+- [Apple Orders &#39;Neuromancer&#39; Series](https://variety.com/2024/tv/news/apple-neurmancer-series-william-gibson-1235925640/)
+- [How the Media Industry Keeps Losing the Future](https://www.nytimes.com/2024/02/28/technology/news-media-industry-dying.html)
+- [AI Terms Explained](https://glossarytech.com/terms/artificial-intelligence-ai)
+- [Why Is Panera Exempted from California&#39;s New Minimum Wage Law?](https://reason.com/2024/02/28/why-is-panera-exempted-from-californias-new-minimum-wage-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
