@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Kalosm an embeddable framework for pre-trained models in Rust](https://floneum.com/blog/kalosm_0_2/)
-- [Why Google&#39;s &#39;woke&#39; AI problem won&#39;t be an easy fix](https://www.bbc.com/news/technology-68412620)
-- [Vyxal: A code-golfing language experience](https://github.com/Vyxal/Vyxal)
-- [Man in remission from blood cancer and HIV after remarkable treatment](https://www.theguardian.com/us-news/2024/feb/28/blood-cancer-hiv-treatment)
-- [Two Chinese Supercomputers &lpar;With Mystery Hardware Components&rpar; Go Online](https://www.oodaloop.com/archive/2024/02/27/two-chinese-supercomputers-with-mystery-hardware-components-go-online/)
+- [Aviator &lpar;YC S21&rpar; is hiring an extrovert hacker](https://www.ycombinator.com/companies/aviator/jobs/yrtnjnp-developer-marketing-part-time-social)
+- [2024 MIT Integration Bee – Finals [video]](https://www.youtube.com/watch?v=dyfLMHGnPR0)
+- [Epic Games hit by 189GB hack, including login and payment info](https://www.rockpapershotgun.com/epic-games-reportedly-hit-by-200gb-ransomware-attack-including-login-and-payment-info)
+- [Americans to Get $5k to Shop Under New Bill](https://www.newsweek.com/american-tax-credit-bill-boost-domestic-consumption-khanna-dingell-manufacturing-support-1873835)
+- [MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
