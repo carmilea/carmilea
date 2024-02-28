@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Manuals](https://xkcd.com/1343/)
+- [Learn to Read Korean in 15 Minutes](https://www.ryanestrada.com/learntoreadkoreanin15minutes/)
 - [Pingora: HTTP Server and Proxy Library, in Rust, by Cloudflare, Released](https://github.com/cloudflare/pingora)
 - [Mistral: The 9-Month-Old AI Startup Challenging Silicon Valley&#39;s Giants](https://www.wsj.com/tech/ai/the-9-month-old-ai-startup-challenging-silicon-valleys-giants-ee2e4c48)
 - [A cross platform level editor for Quake-engine based games](https://trenchbroom.github.io/)
-- [European summer weather linked to North Atlantic freshwater anomalies](https://wcd.copernicus.org/articles/5/109/2024/)
-- [Don&#39;t Mock Machine Learning Models In Unit Tests](https://eugeneyan.com/writing/unit-testing-ml/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
