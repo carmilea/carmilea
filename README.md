@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GoboLinux](https://www.gobolinux.org/)
 - [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
 - [Digital Audio Songbook: A Love Letter to My Unfinished Songs](https://echoes.prototape.fm/p/digital-audio-songbook-a-love-letter)
 - [JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
 - [Testcontainers](https://testcontainers.com/)
-- [Dealing with surprising human emotions: desk moves &lpar;2017&rpar;](https://larahogan.me/blog/desk-moves/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
