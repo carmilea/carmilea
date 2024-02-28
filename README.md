@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google CEO calls Gemini completely unacceptable, vows to make structural changes](https://www.semafor.com/article/02/27/2024/google-ceo-sundar-pichai-calls-ai-tools-responses-completely-unacceptable)
 - [Blind, Alone, and Confused for 24 Hours Challenge &lpar;2020&rpar;](https://mattlakeman.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/)
-- [Majority of workers at Mercedes plant in Alabama sign UAW authorization cards](https://www.detroitnews.com/story/business/autos/foreign/2024/02/27/mercedes-benz-uaw-organizing-autoworkers-alabama/72750019007/)
 - [Tea.xyz causes a flood of spam pull requests to open source projects](https://www.web3isgoinggreat.com/?id=teaxyz-spam)
 - [New FCC standards should consider latency](https://broadbandbreakfast.com/untitled-12/)
 - [Building Unorthodox Deep Learning GPU Machines](https://www.kyleboddy.com/2024/01/28/building-deep-learning-machines-unorthodox-gpus/)
