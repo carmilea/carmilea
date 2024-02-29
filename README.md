@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hetzner switches to new billing model](https://docs.hetzner.com/general/others/new-billing-model/)
 - [CT scans show how Heinz&#39;s new ketchup cap depends on shear-thinning principles](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
 - [New jet engine enables efficiency at every speed for cheaper orbital launches](https://twitter.com/k2pilot/status/1763007610993991722)
 - [I keep making things out of checkboxes &lpar;2021&rpar;](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
-- [An overseas experience with hypertext and packet switching [pdf]](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/view-publication.php?selected-id=884)
 - [Starlink terminal revision 4: overview and tests](https://olegkutkov.me/2024/02/12/starlink-terminal-revision-4-overview-and-tests/)
 <!-- BLOG-POST-LIST:END -->
 
