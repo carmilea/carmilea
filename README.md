@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
+- [Doom Running on a Toothbrush](https://twitter.com/atc1441/status/1762974846487531834)
+- [Ask HN: Why is HN so often down?](https://news.ycombinator.com/item?id=39548058)
+- [Amazon lobbyists to be barred from European parliament](https://www.techradar.com/pro/amazon-lobbyists-to-be-barred-from-european-parliament)
 - [Hetzner switches to new billing model](https://docs.hetzner.com/general/others/new-billing-model/)
-- [CT scans show how Heinz&#39;s new ketchup cap depends on shear-thinning principles](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
-- [New jet engine enables efficiency at every speed for cheaper orbital launches](https://twitter.com/k2pilot/status/1763007610993991722)
-- [I keep making things out of checkboxes &lpar;2021&rpar;](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
-- [Starlink terminal revision 4: overview and tests](https://olegkutkov.me/2024/02/12/starlink-terminal-revision-4-overview-and-tests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
