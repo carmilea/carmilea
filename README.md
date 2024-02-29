@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Defcon: Meta&#39;s system for preventing overload with graceful feature degradation &lpar;2023&rpar;](https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html)
-- [GGUF, the Long Way Around](https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/)
-- [Financial systems take a holiday](https://www.bitsaboutmoney.com/archive/financial-systems-take-a-holiday/)
-- [Big Post About Big Context](https://gonzoml.substack.com/p/big-post-about-big-context)
-- [Ford EVs gain access to Tesla Superchargers starting today](https://arstechnica.com/cars/2024/02/ford-evs-gain-access-to-tesla-superchargers-starting-today/)
+- [Retinal degeneration is dependent on bacterial translocation from the gut](https://www.cell.com/cell/abstract/S0092-8674(24)00108-9)
+- [HP wants you to pay up to $36/month to rent a printer that it monitors](https://arstechnica.com/gadgets/2024/02/hp-wants-you-to-pay-up-to-36-month-to-rent-a-printer-that-it-monitors/)
+- [Ask HN: Nobody interested in an open hardware iPod Nano?](https://news.ycombinator.com/item?id=39556206)
+- [Functional ownership through fractional uniqueness](https://arxiv.org/abs/2310.18166)
+- [Things You Should Never Do, Part I &lpar;2000&rpar;](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
