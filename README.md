@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Defcon: Meta&#39;s system for preventing overload with graceful feature degradation](https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html)
-- [Ask HN: Did you encounter any leap year bugs today?](https://news.ycombinator.com/item?id=39554539)
+- [Defcon: Meta&#39;s system for preventing overload with graceful feature degradation &lpar;2023&rpar;](https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html)
 - [GGUF, the Long Way Around](https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/)
 - [Financial systems take a holiday](https://www.bitsaboutmoney.com/archive/financial-systems-take-a-holiday/)
-- [Money bubble](https://www.tbray.org/ongoing/When/202x/2024/02/25/Money-AI-Bubble)
+- [Big Post About Big Context](https://gonzoml.substack.com/p/big-post-about-big-context)
+- [Ford EVs gain access to Tesla Superchargers starting today](https://arstechnica.com/cars/2024/02/ford-evs-gain-access-to-tesla-superchargers-starting-today/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
