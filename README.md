@@ -57,7 +57,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CT scans show how Heinz&#39;s new ketchup cap depends on shear-thinning principles](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
-- [TIGForums Independent Gaming and Gamedev Discussions](https://forums.tigsource.com/)
+- [SEC Investigating Whether OpenAI Investors Were Misled](https://www.wsj.com/tech/sec-investigating-whether-openai-investors-were-misled-9d90b411)
 - [New jet engine enables efficiency at every speed for cheaper orbital launches](https://twitter.com/k2pilot/status/1763007610993991722)
 - [I keep making things out of checkboxes &lpar;2021&rpar;](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
 - [An overseas experience with hypertext and packet switching [pdf]](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/view-publication.php?selected-id=884)
