@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An overseas experience with hypertext and packet switching](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/download.php?selected-id=884)
+- [SEC Investigating Whether OpenAI Investors Were Misled](https://www.wsj.com/tech/sec-investigating-whether-openai-investors-were-misled-9d90b411)
+- [New jet engine enables efficiency at every speed for cheaper orbital launches](https://twitter.com/k2pilot/status/1763007610993991722)
+- [An overseas experience with hypertext and packet switching [pdf]](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/view-publication.php?selected-id=884)
 - [Talc – A fast and flexible allocator for no_std and WebAssembly](https://github.com/SFBdragon/talc)
 - [The Claro Programming Language](https://docs.clarolang.com/)
-- [Saturn&#39;s Hexagon](https://en.wikipedia.org/wiki/Saturn%27s_hexagon)
-- [Scientists find genetic signature of Down syndrome in ancient bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
