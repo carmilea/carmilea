@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The internet feels fake now. It&#39;s all just staged videos and marketing](https://old.reddit.com/r/Millennials/comments/1b301qj/the_internet_feels_fake_now_its_all_just_staged/)
-- [Amazon&#39;s Big Secret &lpar;which divisions are profitable&rpar;](https://www.theatlantic.com/ideas/archive/2024/02/amazon-profits-antitrust-ftc/677580/)
-- [Why a White House Plan to Fund Office-to-Housing Conversions Isn&#39;t Working](https://www.bloomberg.com/news/features/2024-02-29/white-house-funds-to-convert-offices-to-housing-find-few-takers)
-- [Memory Safe TLS Library Now Has AWS Crypto and FIPS](https://www.memorysafety.org/blog/rustls-with-aws-crypto-back-end-and-fips/)
-- [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/)
+- [Neurosurgeon pioneers Alzheimer&#39;s, addiction treatments using ultrasound [video]](https://www.youtube.com/watch?v=7BGtVJ3lBdE)
+- [Cloudflare Makes Pingora Rust Framework Open-Source](https://www.phoronix.com/news/Cloudflare-Pingora-Open-Source)
+- [Show HN: We Built the Fastest Spreadsheet](https://rowzero.io)
+- [Scientists get closer to solving chemical puzzle of the origin of life](https://www.washingtonpost.com/climate-environment/2024/02/29/life-earth-origin-chemistry/)
+- [Niklaus Wirth, software developer who saw power in simplicity, dies at 89](https://www.washingtonpost.com/obituaries/2024/02/28/niklaus-wirth-pascal-software-dies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
