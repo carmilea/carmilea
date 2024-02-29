@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dune: Part Two Is the Best Sci-Fi Film of the Decade](https://www.esquire.com/entertainment/movies/a46885292/dune-part-two-review/)
+- [Are We Wayland Yet?](https://arewewaylandyet.com/)
+- [Money Bubble](https://www.tbray.org/ongoing/When/202x/2024/02/25/Money-AI-Bubble)
 - [The Board of Directors Is in Charge](https://www.bloomberg.com/opinion/articles/2024-02-29/the-board-of-directors-is-in-charge)
-- [Show HN: Marimo – open-source reactive Python notebook – running in WASM](https://marimo.app/l/c7h6pz)
 - [Google Brings Stack Overflow&#39;s Knowledge Base to Gemini for Google Cloud](https://techcrunch.com/2024/02/29/google-brings-stack-overflows-knowledge-base-to-gemini/)
-- [Ford EVs gain access to Tesla Superchargers starting today](https://arstechnica.com/cars/2024/02/ford-evs-gain-access-to-tesla-superchargers-starting-today/)
+- [Overwhelmed? Just Say &#39;No.&#39;](https://www.theatlantic.com/ideas/archive/2024/02/saying-no-science-happiness/677579/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
