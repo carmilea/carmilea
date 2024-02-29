@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Neurosurgeon pioneers Alzheimer&#39;s, addiction treatments using ultrasound [video]](https://www.youtube.com/watch?v=7BGtVJ3lBdE)
-- [Cloudflare Makes Pingora Rust Framework Open-Source](https://www.phoronix.com/news/Cloudflare-Pingora-Open-Source)
-- [Show HN: We Built the Fastest Spreadsheet](https://rowzero.io)
-- [Scientists get closer to solving chemical puzzle of the origin of life](https://www.washingtonpost.com/climate-environment/2024/02/29/life-earth-origin-chemistry/)
-- [Niklaus Wirth, software developer who saw power in simplicity, dies at 89](https://www.washingtonpost.com/obituaries/2024/02/28/niklaus-wirth-pascal-software-dies/)
+- [US spends billions on roads rather than public transport in &#39;climate time bomb&#39;](https://www.theguardian.com/business/2024/feb/29/biden-spending-highways-public-transport-climate-crisis)
+- [Ford EVs gain access to Tesla Superchargers starting today](https://arstechnica.com/cars/2024/02/ford-evs-gain-access-to-tesla-superchargers-starting-today/)
+- [Malicious AI models on Hugging Face backdoor users&#39; machines](https://www.bleepingcomputer.com/news/security/malicious-ai-models-on-hugging-face-backdoor-users-machines/)
+- [Alright then keep your secrets](https://old.reddit.com/r/LocalLLaMA/comments/1b2wron/alright_then_keep_your_secrets/)
+- [The Buckland Review of Autism Employment: Report and Recommendations](https://www.gov.uk/government/publications/the-buckland-review-of-autism-employment-report-and-recommendations/the-buckland-review-of-autism-employment-report-and-recommendations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
