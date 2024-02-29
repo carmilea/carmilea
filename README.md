@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A lock-free ring-buffer with contiguous reservations &lpar;2019&rpar;](https://ferrous-systems.com/blog/lock-free-ring-buffer/)
-- [Async Rust in a Nutshell](https://www.shuttle.rs/blog/2024/02/29/async-rust)
-- [Rendering protein structures inside cells at the atomic level with Unreal Engine](https://www.biorxiv.org/content/10.1101/2023.12.08.570879v1)
-- [Esperanto, Toki Pona, Swahili, Indonesian](https://sive.rs/esperanto)
-- [Apple is turning William Gibson&#39;s Neuromancer into a TV series](https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson)
+- [The internet feels fake now. It&#39;s all just staged videos and marketing](https://old.reddit.com/r/Millennials/comments/1b301qj/the_internet_feels_fake_now_its_all_just_staged/)
+- [Amazon&#39;s Big Secret &lpar;which divisions are profitable&rpar;](https://www.theatlantic.com/ideas/archive/2024/02/amazon-profits-antitrust-ftc/677580/)
+- [Why a White House Plan to Fund Office-to-Housing Conversions Isn&#39;t Working](https://www.bloomberg.com/news/features/2024-02-29/white-house-funds-to-convert-offices-to-housing-find-few-takers)
+- [Memory Safe TLS Library Now Has AWS Crypto and FIPS](https://www.memorysafety.org/blog/rustls-with-aws-crypto-back-end-and-fips/)
+- [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
