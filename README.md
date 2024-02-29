@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Environmental risks of car tyre microplastics and other road pollution runoff](https://microplastics.springeropen.com/articles/10.1186/s43591-021-00008-w)
 - [SEC Investigating Whether OpenAI Investors Were Misled](https://www.wsj.com/tech/sec-investigating-whether-openai-investors-were-misled-9d90b411)
 - [New jet engine enables efficiency at every speed for cheaper orbital launches](https://twitter.com/k2pilot/status/1763007610993991722)
+- [I keep making things out of checkboxes &lpar;2021&rpar;](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
 - [An overseas experience with hypertext and packet switching [pdf]](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/view-publication.php?selected-id=884)
-- [Talc – A fast and flexible allocator for no_std and WebAssembly](https://github.com/SFBdragon/talc)
-- [The Claro Programming Language](https://docs.clarolang.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
