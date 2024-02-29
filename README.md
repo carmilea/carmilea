@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A lock-free ring-buffer with contiguous reservations &lpar;2019&rpar;](https://ferrous-systems.com/blog/lock-free-ring-buffer/)
+- [Async Rust in a Nutshell](https://www.shuttle.rs/blog/2024/02/29/async-rust)
+- [Rendering protein structures inside cells at the atomic level with Unreal Engine](https://www.biorxiv.org/content/10.1101/2023.12.08.570879v1)
+- [Esperanto, Toki Pona, Swahili, Indonesian](https://sive.rs/esperanto)
 - [Apple is turning William Gibson&#39;s Neuromancer into a TV series](https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson)
-- [Billionaire-Fueled Lobbying Group Behind the State Bills to Ban UBI Experiments](https://www.scottsantens.com/billionaire-fueled-lobbying-group-behind-the-state-bills-to-ban-universal-basic-income-experiments-ubi/)
-- [Shave and a Haircut](https://en.wikipedia.org/wiki/Shave_and_a_Haircut)
-- [Can We Get More Decentralised Than the Fediverse?](https://gist.github.com/loreanvictor/bddd8824c744024d338e935bd7e96707)
-- [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
