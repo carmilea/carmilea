@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [StarCoder 2 is a code-generating AI that runs on most GPUs](https://techcrunch.com/2024/02/28/starcoder-2-is-a-code-generating-ai-that-runs-on-most-gpus/)
+- [The financial value of open source software](https://lemire.me/blog/2014/04/14/the-financial-value-of-open-source-software/)
 - [Scientists find genetic signature of Down syndrome in ancient bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
-- [HDMI Forum Rejects Open-Source HDMI 2.1 Driver Support Sought by AMD](https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected)
 - [Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
-- [EU countries already hitting some of their sustainable energy targets for 2030](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297856)
 - [Julius Caesar&#39;s Year of Confusion](https://www.bbc.com/future/article/20240227-how-julius-caesar-made-the-longest-year-in-history-and-brought-us-leap-years)
 <!-- BLOG-POST-LIST:END -->
 
