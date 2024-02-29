@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Winklevoss Twins&#39; Startup Gemini Will Pay Burned Customers $1B](https://www.thedailybeast.com/winklevoss-twins-crypto-start-up-gemini-will-pay-burned-customers-dollar11-billion)
 - [Talc – A fast and flexible allocator for no_std and WebAssembly](https://github.com/SFBdragon/talc)
+- [The Claro Programming Language](https://docs.clarolang.com/)
 - [Saturn&#39;s Hexagon](https://en.wikipedia.org/wiki/Saturn%27s_hexagon)
 - [Scientists find genetic signature of Down syndrome in ancient bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
-- [Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
