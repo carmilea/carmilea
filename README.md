@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [StarCoder 2 is a code-generating AI that runs on most GPUs](https://techcrunch.com/2024/02/28/starcoder-2-is-a-code-generating-ai-that-runs-on-most-gpus/)
-- [The financial value of open source software](https://lemire.me/blog/2014/04/14/the-financial-value-of-open-source-software/)
+- [Winklevoss Twins&#39; Startup Gemini Will Pay Burned Customers $1B](https://www.thedailybeast.com/winklevoss-twins-crypto-start-up-gemini-will-pay-burned-customers-dollar11-billion)
+- [Talc – A fast and flexible allocator for no_std and WebAssembly](https://github.com/SFBdragon/talc)
+- [Saturn&#39;s Hexagon](https://en.wikipedia.org/wiki/Saturn%27s_hexagon)
 - [Scientists find genetic signature of Down syndrome in ancient bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
 - [Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
-- [Julius Caesar&#39;s Year of Confusion](https://www.bbc.com/future/article/20240227-how-julius-caesar-made-the-longest-year-in-history-and-brought-us-leap-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
