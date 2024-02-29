@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google announced Genie AI can generate platform video games](https://mashable.com/article/google-genie-can-create-video-games-2d-platformers)
+- [Shave and a Haircut](https://en.wikipedia.org/wiki/Shave_and_a_Haircut)
+- [Implementing RSA from Scratch in JavaScript](https://coderoasis.com/implementing-rsa-from-scratch-in-javascript/)
 - [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
 - [Doom Running on a Toothbrush](https://twitter.com/atc1441/status/1762974846487531834)
-- [Ask HN: Why is HN so often down?](https://news.ycombinator.com/item?id=39548058)
-- [Amazon lobbyists to be barred from European parliament](https://www.techradar.com/pro/amazon-lobbyists-to-be-barred-from-european-parliament)
-- [Hetzner switches to new billing model](https://docs.hetzner.com/general/others/new-billing-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
