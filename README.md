@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are We Wayland Yet?](https://arewewaylandyet.com/)
-- [Money Bubble](https://www.tbray.org/ongoing/When/202x/2024/02/25/Money-AI-Bubble)
-- [The Board of Directors Is in Charge](https://www.bloomberg.com/opinion/articles/2024-02-29/the-board-of-directors-is-in-charge)
-- [Google Brings Stack Overflow&#39;s Knowledge Base to Gemini for Google Cloud](https://techcrunch.com/2024/02/29/google-brings-stack-overflows-knowledge-base-to-gemini/)
-- [Overwhelmed? Just Say &#39;No.&#39;](https://www.theatlantic.com/ideas/archive/2024/02/saying-no-science-happiness/677579/)
+- [Defcon: Meta&#39;s system for preventing overload with graceful feature degradation](https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html)
+- [Ask HN: Did you encounter any leap year bugs today?](https://news.ycombinator.com/item?id=39554539)
+- [GGUF, the Long Way Around](https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/)
+- [Financial systems take a holiday](https://www.bitsaboutmoney.com/archive/financial-systems-take-a-holiday/)
+- [Money bubble](https://www.tbray.org/ongoing/When/202x/2024/02/25/Money-AI-Bubble)
 <!-- BLOG-POST-LIST:END -->
 
 ---
