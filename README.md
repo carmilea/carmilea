@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google announced Genie AI can generate platform video games](https://mashable.com/article/google-genie-can-create-video-games-2d-platformers)
+- [Apple is turning William Gibson&#39;s Neuromancer into a TV series](https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson)
+- [Billionaire-Fueled Lobbying Group Behind the State Bills to Ban UBI Experiments](https://www.scottsantens.com/billionaire-fueled-lobbying-group-behind-the-state-bills-to-ban-universal-basic-income-experiments-ubi/)
 - [Shave and a Haircut](https://en.wikipedia.org/wiki/Shave_and_a_Haircut)
-- [Implementing RSA from Scratch in JavaScript](https://coderoasis.com/implementing-rsa-from-scratch-in-javascript/)
+- [Can We Get More Decentralised Than the Fediverse?](https://gist.github.com/loreanvictor/bddd8824c744024d338e935bd7e96707)
 - [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
-- [Doom Running on a Toothbrush](https://twitter.com/atc1441/status/1762974846487531834)
 <!-- BLOG-POST-LIST:END -->
 
 ---
