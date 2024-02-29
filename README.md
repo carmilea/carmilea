@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Winklevoss Twins&#39; Startup Gemini Will Pay Burned Customers $1B](https://www.thedailybeast.com/winklevoss-twins-crypto-start-up-gemini-will-pay-burned-customers-dollar11-billion)
+- [An overseas experience with hypertext and packet switching](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/download.php?selected-id=884)
 - [Talc – A fast and flexible allocator for no_std and WebAssembly](https://github.com/SFBdragon/talc)
 - [The Claro Programming Language](https://docs.clarolang.com/)
 - [Saturn&#39;s Hexagon](https://en.wikipedia.org/wiki/Saturn%27s_hexagon)
