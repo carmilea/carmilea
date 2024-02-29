@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US spends billions on roads rather than public transport in &#39;climate time bomb&#39;](https://www.theguardian.com/business/2024/feb/29/biden-spending-highways-public-transport-climate-crisis)
+- [Dune: Part Two Is the Best Sci-Fi Film of the Decade](https://www.esquire.com/entertainment/movies/a46885292/dune-part-two-review/)
+- [The Board of Directors Is in Charge](https://www.bloomberg.com/opinion/articles/2024-02-29/the-board-of-directors-is-in-charge)
+- [Show HN: Marimo – open-source reactive Python notebook – running in WASM](https://marimo.app/l/c7h6pz)
+- [Google Brings Stack Overflow&#39;s Knowledge Base to Gemini for Google Cloud](https://techcrunch.com/2024/02/29/google-brings-stack-overflows-knowledge-base-to-gemini/)
 - [Ford EVs gain access to Tesla Superchargers starting today](https://arstechnica.com/cars/2024/02/ford-evs-gain-access-to-tesla-superchargers-starting-today/)
-- [Malicious AI models on Hugging Face backdoor users&#39; machines](https://www.bleepingcomputer.com/news/security/malicious-ai-models-on-hugging-face-backdoor-users-machines/)
-- [Alright then keep your secrets](https://old.reddit.com/r/LocalLLaMA/comments/1b2wron/alright_then_keep_your_secrets/)
-- [The Buckland Review of Autism Employment: Report and Recommendations](https://www.gov.uk/government/publications/the-buckland-review-of-autism-employment-report-and-recommendations/the-buckland-review-of-autism-employment-report-and-recommendations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
