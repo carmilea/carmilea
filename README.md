@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Regurgitating Propaganda](https://mastodon.ie/@Eralea@mastodon.art/112012449057175121)
+- [La Bougie Du Sapeur](https://en.wikipedia.org/wiki/La_Bougie_du_Sapeur)
 - [Photoroom &lpar;YC S20&rpar; Is Hiring a Frontend State Architect in Paris &lpar;Mobx, React&rpar;](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
+- [Streaming HTML out of order without JavaScript](https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/)
 - [Company forgets why they exist after 11-week migration to Kubernetes](https://www.theolognion.com/p/company-forgets-why-they-exist-after-11-week-migration-to-kubernetes)
-- [Kappa Beta Phi](https://en.wikipedia.org/wiki/Kappa_Beta_Phi)
-- [If You&#39;re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
-- [CACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
