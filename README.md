@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
+- [Ask HN: Who is hiring? &lpar;March 2024&rpar;](https://news.ycombinator.com/item?id=39562986)
 - [Study: 61 UK firms tried a 4-day workweek and after a year, they still love it](https://www.npr.org/2024/02/27/1234271434/4-day-workweek-successful-a-year-later-in-uk)
 - [Meta rebuffs Google&#39;s virtual reality tie-up proposal](https://www.reuters.com/technology/meta-rebuffed-google-proposal-virtual-reality-tie-up-information-reports-2024-03-01/)
-- [Old vs. New Growth Trees and the Wood Products They Make](https://hullworks.com/wood/)
-- [How we applied advanced fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
-- [On the Ocean Conditions of Hycean Worlds](https://arxiv.org/abs/2402.12330)
+- [Clock Made Power Grids Possible](https://spectrum.ieee.org/history-of-power-grid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
