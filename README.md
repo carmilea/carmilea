@@ -59,8 +59,8 @@
 - [Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy](https://theins.ru/en/politics/269612)
 - [The Lithium-Ion Battery May Not Be the Best Bet for EVs](https://spectrum.ieee.org/ev-batteries-environment)
 - [Where I&#39;m at on the whole CSS-Tricks thing](https://chriscoyier.net/2024/02/28/where-im-at-on-the-whole-css-tricks-thing/)
-- [La Bougie Du Sapeur](https://en.wikipedia.org/wiki/La_Bougie_du_Sapeur)
 - [Photoroom &lpar;YC S20&rpar; Is Hiring a Frontend State Architect in Paris &lpar;Mobx, React&rpar;](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
+- [Streaming HTML out of order without JavaScript](https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
