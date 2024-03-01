@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First Colecovision BASIC compiler &lpar;Z80&rpar; now available](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
+- [ChatGPT and Google Gemini Are Both Doomed](https://nymag.com/intelligencer/article/chatgpt-and-google-gemini-are-both-doomed.html)
+- [Go Enums Suck](https://www.zarl.dev/articles/enums)
+- [How I Accidentally Made My Link Shortener into a Malware Honeypot](https://app.y.gy/blog/honeypot)
+- [Colecovision BASIC compiler: CVBasic v0.1.0](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
 - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
-- [Correlation Statistics in SingleStore](https://www.singlestore.com/blog/correlation-statistics-in-singlestore)
-- [Ask HN: Who is hiring? &lpar;March 2024&rpar;](https://news.ycombinator.com/item?id=39562986)
-- [Study: 61 UK firms tried a 4-day workweek and after a year, they still love it](https://www.npr.org/2024/02/27/1234271434/4-day-workweek-successful-a-year-later-in-uk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
