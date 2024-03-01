@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Revealed: The names linked to ClothOff, the deepfake pornography app](https://www.theguardian.com/technology/2024/feb/29/clothoff-deepfake-ai-pornography-app-names-linked-revealed)
-- [Flexible Schemas Are the Mindkiller – Ludicity](https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/)
-- [Docusign just admitted that they use customer data to train AI](https://twitter.com/nixcraft/status/1763124892986474689)
+- [Flexible schemas are the mindkiller](https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/)
 - [Nokia is replacing Huawei at Deutsche Telekom sites in Germany](https://www.lightreading.com/open-ran/nokia-is-replacing-huawei-at-deutsche-telekom-sites-in-germany)
 - [Show HN: Struct – A Feed-Centric Chat Platform](https://struct.ai/blog/introducing-the-struct-chat-platform)
+- [Show HN: OfflineLLM – a Vision Pro app running TinyLlama on device](https://apps.apple.com/us/app/offlinellm/id6478590762)
+- [Sparrow: Distributed, Low Latency Scheduling &lpar;2013&rpar; [pdf]](https://people.eecs.berkeley.edu/~matei/papers/2013/sosp_sparrow.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
