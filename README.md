@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Washers and dryers are about to get a whole lot more efficient](https://grist.org/energy/washers-and-dryers-are-about-to-get-a-whole-lot-more-efficient/)
-- [Spotify pays out 70% of its revenue to record labels](https://twitter.com/carnage4life/status/1763347523509670357)
-- [Opening Up the Matrix.org Foundation](https://matrix.org/blog/2024/02/opening-up-foundation/)
+- [Study finds link between marijuana use and cardiovascular disease](https://arstechnica.com/science/2024/02/marijuana-use-linked-to-increased-risk-of-heart-attack-stroke-study-finds/)
+- [Nokia is replacing Huawei at Deutsche Telekom sites in Germany](https://www.lightreading.com/open-ran/nokia-is-replacing-huawei-at-deutsche-telekom-sites-in-germany)
 - [Show HN: Struct – A Feed-Centric Chat Platform](https://struct.ai/blog/introducing-the-struct-chat-platform)
 - [Show HN: OfflineLLM – a Vision Pro app running TinyLlama on device](https://apps.apple.com/us/app/offlinellm/id6478590762)
+- [Functional ownership through fractional uniqueness](https://arxiv.org/abs/2310.18166)
 <!-- BLOG-POST-LIST:END -->
 
 ---
