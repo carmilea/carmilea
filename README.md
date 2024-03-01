@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Photoroom &lpar;YC S20&rpar; Is Hiring a Frontend State Architect in Paris &lpar;Mobx, React&rpar;](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
+- [Company forgets why they exist after 11-week migration to Kubernetes](https://www.theolognion.com/p/company-forgets-why-they-exist-after-11-week-migration-to-kubernetes)
 - [Kappa Beta Phi](https://en.wikipedia.org/wiki/Kappa_Beta_Phi)
+- [If You&#39;re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
 - [CACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
-- [You can&#39;t make an open source HDMI 2.1 driver](https://arstechnica.com/gadgets/2024/02/hdmi-forum-to-amd-no-you-cant-make-an-open-source-hdmi-2-1-driver/)
-- [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
-- [Flexible schemas are the mindkiller](https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
