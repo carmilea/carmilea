@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT and Google Gemini Are Both Doomed](https://nymag.com/intelligencer/article/chatgpt-and-google-gemini-are-both-doomed.html)
+- [A Letter to the European Commission on Apple&#39;s Lack of DMA Compliance](https://newsroom.spotify.com/2024-03-01/a-letter-to-the-european-commission-on-apples-lack-of-dma-compliance/)
+- [Learn and Test DMARC](https://www.dmarctester.com)
+- [Dell share price jumps 16% on mention of AI server backlog](https://www.theregister.com/2024/03/01/dell_share_price_jumps_16/)
 - [Go Enums Suck](https://www.zarl.dev/articles/enums)
-- [How I Accidentally Made My Link Shortener into a Malware Honeypot](https://app.y.gy/blog/honeypot)
-- [Colecovision BASIC compiler: CVBasic v0.1.0](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
-- [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
+- [I accidentally made my link shortener into a malware honeypot](https://app.y.gy/blog/honeypot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
