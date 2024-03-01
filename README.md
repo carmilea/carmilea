@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Challenging programming projects you should try](https://jamesg.blog/2024/02/28/programming-projects/)
-- [Colony Graphs: Visualizing the Cloud](https://www.brendangregg.com/ColonyGraphs/cloud.html)
-- [Seismology of rubble-pile asteroids in binary systems](https://academic.oup.com/mnras/article/528/4/6568/7596572)
-- [JSR: The JavaScript Registry](https://jsr.io)
-- [A daddy-longlegs possesses six eyes, including two vestigial pairs](https://www.nytimes.com/2024/03/01/science/daddy-long-legs-eyes.html)
+- [Study: 61 UK firms tried a 4-day workweek and after a year, they still love it](https://www.npr.org/2024/02/27/1234271434/4-day-workweek-successful-a-year-later-in-uk)
+- [Meta rebuffs Google&#39;s virtual reality tie-up proposal](https://www.reuters.com/technology/meta-rebuffed-google-proposal-virtual-reality-tie-up-information-reports-2024-03-01/)
+- [Old vs. New Growth Trees and the Wood Products They Make](https://hullworks.com/wood/)
+- [How we applied advanced fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
+- [On the Ocean Conditions of Hycean Worlds](https://arxiv.org/abs/2402.12330)
 <!-- BLOG-POST-LIST:END -->
 
 ---
