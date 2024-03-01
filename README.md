@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Washers and dryers are about to get a whole lot more efficient](https://grist.org/energy/washers-and-dryers-are-about-to-get-a-whole-lot-more-efficient/)
+- [Spotify pays out 70% of its revenue to record labels](https://twitter.com/carnage4life/status/1763347523509670357)
+- [Opening Up the Matrix.org Foundation](https://matrix.org/blog/2024/02/opening-up-foundation/)
 - [Show HN: Struct – A Feed-Centric Chat Platform](https://struct.ai/blog/introducing-the-struct-chat-platform)
-- [Show HN: A curated list of tech related to Autism Spectrum Disorder&lpar;ASD&rpar;](https://github.com/hbcondo/awesome-autism-tech)
-- [The True Rate of Unemployment](https://www.lisep.org/tru)
-- [California&#39;s fast food law exempts Panera Gov. Newsom&#39;s relationship](https://www.kcra.com/article/report-california-fast-food-law-panera-newsoms-relationship-with-billionaire-franchisee/60014966)
-- [Functional ownership through fractional uniqueness](https://arxiv.org/abs/2310.18166)
+- [Show HN: OfflineLLM – a Vision Pro app running TinyLlama on device](https://apps.apple.com/us/app/offlinellm/id6478590762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
