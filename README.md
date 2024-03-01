@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First Colecovision BASIC compiler &lpar;Z80&rpar; now available](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
 - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
+- [Correlation Statistics in SingleStore](https://www.singlestore.com/blog/correlation-statistics-in-singlestore)
 - [Ask HN: Who is hiring? &lpar;March 2024&rpar;](https://news.ycombinator.com/item?id=39562986)
 - [Study: 61 UK firms tried a 4-day workweek and after a year, they still love it](https://www.npr.org/2024/02/27/1234271434/4-day-workweek-successful-a-year-later-in-uk)
-- [Meta rebuffs Google&#39;s virtual reality tie-up proposal](https://www.reuters.com/technology/meta-rebuffed-google-proposal-virtual-reality-tie-up-information-reports-2024-03-01/)
-- [Clock Made Power Grids Possible](https://spectrum.ieee.org/history-of-power-grid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
