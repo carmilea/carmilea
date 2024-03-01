@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Retinal degeneration is dependent on bacterial translocation from the gut](https://www.cell.com/cell/abstract/S0092-8674(24)00108-9)
-- [HP wants you to pay up to $36/month to rent a printer that it monitors](https://arstechnica.com/gadgets/2024/02/hp-wants-you-to-pay-up-to-36-month-to-rent-a-printer-that-it-monitors/)
-- [Ask HN: Nobody interested in an open hardware iPod Nano?](https://news.ycombinator.com/item?id=39556206)
+- [Show HN: Struct – A Feed-Centric Chat Platform](https://struct.ai/blog/introducing-the-struct-chat-platform)
+- [Show HN: A curated list of tech related to Autism Spectrum Disorder&lpar;ASD&rpar;](https://github.com/hbcondo/awesome-autism-tech)
+- [The True Rate of Unemployment](https://www.lisep.org/tru)
+- [California&#39;s fast food law exempts Panera Gov. Newsom&#39;s relationship](https://www.kcra.com/article/report-california-fast-food-law-panera-newsoms-relationship-with-billionaire-franchisee/60014966)
 - [Functional ownership through fractional uniqueness](https://arxiv.org/abs/2310.18166)
-- [Things You Should Never Do, Part I &lpar;2000&rpar;](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
