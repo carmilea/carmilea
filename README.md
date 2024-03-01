@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California Approves Waymo Expansion to Los Angeles and SF Peninsula [pdf]](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/waymo-al-2-disposition-letter-20240301_signed.pdf)
 - [WhatsApp forces Pegasus spyware maker to share its secret code](https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/)
+- [FastUI: Build Better UIs Faster](https://github.com/pydantic/FastUI)
 - [Lazarus and the FudModule rootkit: Beyond BYOVD with an admin-to-kernel zero-day](https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/)
-- [I accidentally made my link shortener into a malware honeypot](https://app.y.gy/blog/honeypot)
-- [Colecovision BASIC compiler: CVBasic v0.1.0](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
-- [The Cosmonaut of Potsdam](https://digitalcosmonaut.com/the-cosmonaut-of-potsdam/)
+- [Measuring GitHub Copilot&#39;s impact on productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
