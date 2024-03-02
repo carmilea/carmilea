@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oregon Is Recriminalizing Drugs, Dealing Setback to Reform Movement](https://www.nytimes.com/2024/03/01/us/oregon-drug-decriminalization-rollback-measure-110.html)
+- [EV LFP Battery Price War at Less Than $56 per KWh Within Six Months](https://www.nextbigfuture.com/2024/01/ev-lfp-battery-price-war-w-55-in-six-months.html)
 - [Don&#39;t Use Discord for FOSS &lpar;2021&rpar;](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
 - [Phrack 71 Call for Papers](http://www.phrack.org/)
 - [The Myth of Scarcity and Its Threats to Human Society [pdf] &lpar;2023&rpar;](https://kemendo.com/Myth.pdf)
-- [Remaking Super Mario World in Godot](https://www.youtube.com/watch?v=u2fwxuHZXIA)
-- [K8s Service Meshes: The Bill Comes Due](https://matduggan.com/k8s-service-meshes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
