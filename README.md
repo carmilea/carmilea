@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Judge holds journalist in civil contempt for refusing to divulge source](https://apnews.com/article/catherine-herridge-journalist-contempt-fox-news-cbs-63f6b2cde67fceae192daebe5d11b1a1)
-- [Linux from Scratch v12.1 Released](https://www.linuxfromscratch.org/)
-- [We Can&#39;t Have Serious Discussions About Section 230 If People Misrepresent It](https://www.techdirt.com/2024/03/01/we-cant-have-serious-discussions-about-section-230-if-people-keep-misrepresenting-it/)
-- [Clang accepts MSVC arguments and targets Windows if its binary is named clang-cl](https://github.com/llvm/llvm-project/blob/8ec28af8eaff5acd0df3e53340159c034f08533d/clang/lib/Driver/Driver.cpp)
-- [Ask HN: Is it normal that Mistral answers he&#39;s GPT?](https://news.ycombinator.com/item?id=39575326)
+- [EFF argues DMCA section 1201&lpar;a&rpar; violates First Amendment](https://www.eff.org/press/releases/licensing-scheme-fair-uses-and-other-speech-violates-first-amendment-eff-argues)
+- [Windows Kernel bug fixed last month exploited as zero-day since August](https://www.bleepingcomputer.com/news/security/windows-kernel-bug-fixed-last-month-exploited-as-zero-day-since-august/)
+- [Price fixing by algorithm is still price fixing](https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing)
+- [Sorting the Self: Assessments and the Cult of Personality](https://hedgehogreview.com/issues/missing-character/articles/sorting-the-self)
+- [How User Groups Made Software Reuse a Reality](https://ztoz.blog/posts/user-group-reuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
