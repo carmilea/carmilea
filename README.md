@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CO2 emissions reached record high in 2023 – IEA](https://www.dw.com/en/co2-emissions-reached-record-high-in-2023-iea/a-68413363)
-- [MyHeritage debuts OldNews.com, offering access to myriad historical newspapers](https://techcrunch.com/2024/03/01/myheritage-launches-oldnews-com-a-website-with-access-to-millions-of-historical-newspaper-pages/)
-- [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf)
-- [Minimal phone gets back to basics with E Ink display and real keyboard](https://newatlas.com/mobile-technology/minimal-phone-eink-keyboard/)
-- [Show HN: DanGPT–Dan Abramov as a GenAI with RAG](https://dangpt.vercel.app/)
+- [Judge holds journalist in civil contempt for refusing to divulge source](https://apnews.com/article/catherine-herridge-journalist-contempt-fox-news-cbs-63f6b2cde67fceae192daebe5d11b1a1)
+- [Linux from Scratch v12.1 Released](https://www.linuxfromscratch.org/)
+- [We Can&#39;t Have Serious Discussions About Section 230 If People Misrepresent It](https://www.techdirt.com/2024/03/01/we-cant-have-serious-discussions-about-section-230-if-people-keep-misrepresenting-it/)
+- [Clang accepts MSVC arguments and targets Windows if its binary is named clang-cl](https://github.com/llvm/llvm-project/blob/8ec28af8eaff5acd0df3e53340159c034f08533d/clang/lib/Driver/Driver.cpp)
+- [Ask HN: Is it normal that Mistral answers he&#39;s GPT?](https://news.ycombinator.com/item?id=39575326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
