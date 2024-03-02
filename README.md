@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Could Modified Gravity Kill Planet Nine?](https://nautil.us/could-modified-gravity-kill-planet-nine-521271/)
+- [What is Truth in this new AI world and how to make sense of it](https://news.ycombinator.com/item?id=39571593)
 - [R: Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
 - [Cowsay](https://en.wikipedia.org/wiki/Cowsay)
 - [Weather.gov 2.0](https://github.com/weather-gov/weather.gov)
-- [Text UIs != Terminal UIs](https://aartaka.me/tui-is-not-tui)
-- [Use KeePassXC to sign your Git commits](https://code.mendhak.com/keepassxc-sign-git-commit-with-ssh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
