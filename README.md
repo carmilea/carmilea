@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t Use Discord for FOSS &lpar;2021&rpar;](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
 - [Phrack 71 Call for Papers](http://www.phrack.org/)
+- [The Myth of Scarcity and Its Threats to Human Society [pdf] &lpar;2023&rpar;](https://kemendo.com/Myth.pdf)
 - [Remaking Super Mario World in Godot](https://www.youtube.com/watch?v=u2fwxuHZXIA)
-- [Stephen Covey Quotes](https://blog.hptbydts.com/30-of-the-best-stephen-covey-quotes)
 - [K8s Service Meshes: The Bill Comes Due](https://matduggan.com/k8s-service-meshes/)
-- [Bash Debugging](https://wizardzines.com/comics/bash-debugging/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
