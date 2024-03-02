@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Every genetic mutation that could exist, does exist](https://twitter.com/richardfuisz/status/1763591765620121990)
+- [Mathematicians prove Pólya&#39;s conjecture for the eigenvalues of a disk](https://phys.org/news/2024-03-mathematicians-plya-conjecture-eigenvalues-disk.html)
 - [Could Modified Gravity Kill Planet Nine?](https://nautil.us/could-modified-gravity-kill-planet-nine-521271/)
+- [TextAdept](https://orbitalquark.github.io/textadept/)
 - [R: Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
-- [Cowsay](https://en.wikipedia.org/wiki/Cowsay)
 - [Weather.gov 2.0](https://github.com/weather-gov/weather.gov)
 <!-- BLOG-POST-LIST:END -->
 
