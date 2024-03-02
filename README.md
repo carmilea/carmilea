@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [R: Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
+- [Cowsay](https://en.wikipedia.org/wiki/Cowsay)
 - [Weather.gov 2.0](https://github.com/weather-gov/weather.gov)
 - [Text UIs != Terminal UIs](https://aartaka.me/tui-is-not-tui)
-- [How did the viral Willy Wonka experience go so wrong?](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68431728)
 - [Use KeePassXC to sign your Git commits](https://code.mendhak.com/keepassxc-sign-git-commit-with-ssh/)
-- [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
