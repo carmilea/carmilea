@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Japan sees rise of &#39;ramen girls&#39;](https://asia.nikkei.com/Life-Arts/Life/Japan-sees-rise-of-ramen-girls)
-- [Lawyers who voided Elon Musk&#39;s pay as excessive want $6B fee](https://ca.news.yahoo.com/legal-team-voided-musks-tesla-230039948.html)
+- [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf)
 - [Bob Heil, K9EID, Silent Key](https://www.arrl.org/news/bob-heil-k9eid-silent-key)
 - [Wintergatan Marble Machine &lpar;2016&rpar;](https://www.youtube.com/watch?v=IvUU8joBb1Q)
 - [On the Trail of the Denisovans](https://www.nytimes.com/2024/03/02/science/denisovan-neanderthal-dna.html)
+- [Avoiding fusion plasma tearing instability with deep reinforcement learning](https://www.nature.com/articles/s41586-024-07024-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
