@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Messages RCS is blocked on rooted, custom ROM Android phones](https://9to5google.com/2024/02/29/google-messages-rcs-rooted/)
+- [IRS is going after Americans who earn more $400k but don&#39;t file tax returns](https://fortune.com/2024/03/01/irs-125000-americans-earn-over-400000-no-file-tax-returns/)
+- [Spotify, Epic Games pen letter to EC, claiming Apple has made a &#39;mockery&#39; of DMA](https://techcrunch.com/2024/03/01/spotify-epic-games-and-others-pen-letter-to-ec-claiming-apple-has-made-a-mockery-of-the-dma/)
 - [Bash Debugging](https://wizardzines.com/comics/bash-debugging/)
-- [California Approves Waymo Expansion to Los Angeles and SF Peninsula [pdf]](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/waymo-al-2-disposition-letter-20240301_signed.pdf)
-- [WhatsApp forces Pegasus spyware maker to share its secret code](https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/)
-- [FastUI: Build Better UIs Faster](https://github.com/pydantic/FastUI)
-- [Lazarus and the FudModule rootkit: Beyond BYOVD with an admin-to-kernel zero-day](https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/)
+- [ArtPrompt: ASCII Art-Based Jailbreak Attacks Against Aligned LLMs](https://arxiv.org/abs/2402.11753)
 <!-- BLOG-POST-LIST:END -->
 
 ---
