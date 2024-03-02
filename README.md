@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Badssl.com](https://badssl.com/)
 - [Wintergatan Marble Machine &lpar;2016&rpar;](https://www.youtube.com/watch?v=IvUU8joBb1Q)
-- [Meta will delete all unmigrated Oculus accounts at the end of March](https://www.theverge.com/2024/3/1/24087855/meta-delete-oculus-accounts)
+- [NASA satellite, Russian spacecraft crossed within 65 ft &lpar;20M&rpar; of each other](https://www.space.com/near-collision-nasa-timed-satellite-russian-space-junk)
 - [Avoiding fusion plasma tearing instability with deep reinforcement learning](https://www.nature.com/articles/s41586-024-07024-9)
 - [Writing a Minecraft server from scratch in Bash &lpar;2022&rpar;](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
-- [Scenes from the last operational Morse-code radio station in North America](https://www.theatlantic.com/magazine/archive/2024/04/ann-hermes-morse-code/677468/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
