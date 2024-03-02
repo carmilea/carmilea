@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Every genetic mutation that could exist, does exist](https://twitter.com/richardfuisz/status/1763591765620121990)
 - [Could Modified Gravity Kill Planet Nine?](https://nautil.us/could-modified-gravity-kill-planet-nine-521271/)
-- [What is Truth in this new AI world and how to make sense of it](https://news.ycombinator.com/item?id=39571593)
 - [R: Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
 - [Cowsay](https://en.wikipedia.org/wiki/Cowsay)
 - [Weather.gov 2.0](https://github.com/weather-gov/weather.gov)
