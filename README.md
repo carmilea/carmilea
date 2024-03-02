@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EFF argues DMCA section 1201&lpar;a&rpar; violates First Amendment](https://www.eff.org/press/releases/licensing-scheme-fair-uses-and-other-speech-violates-first-amendment-eff-argues)
-- [Windows Kernel bug fixed last month exploited as zero-day since August](https://www.bleepingcomputer.com/news/security/windows-kernel-bug-fixed-last-month-exploited-as-zero-day-since-august/)
+- [Generative AI&#39;s environmental costs are soaring – and mostly secret](https://www.nature.com/articles/d41586-024-00478-x)
+- [Apple Vision Pro&#39;s Optics Blurrier and Lower Contrast Than Meta Quest 3](https://kguttag.com/2024/03/01/apple-vision-pros-optics-blurrier-lower-contrast-than-meta-quest-3/)
 - [Price fixing by algorithm is still price fixing](https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing)
-- [Sorting the Self: Assessments and the Cult of Personality](https://hedgehogreview.com/issues/missing-character/articles/sorting-the-self)
-- [How User Groups Made Software Reuse a Reality](https://ztoz.blog/posts/user-group-reuse/)
+- [Inside the miracle of modern chip manufacturing](https://ig.ft.com/microchips/)
+- [Researchers create AI worms that can spread from one system to another](https://arstechnica.com/ai/2024/03/researchers-create-ai-worms-that-can-spread-from-one-system-to-another/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
