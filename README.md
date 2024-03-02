@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Weather.gov 2.0](https://github.com/weather-gov/weather.gov)
+- [Text UIs != Terminal UIs](https://aartaka.me/tui-is-not-tui)
 - [How did the viral Willy Wonka experience go so wrong?](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68431728)
 - [Use KeePassXC to sign your Git commits](https://code.mendhak.com/keepassxc-sign-git-commit-with-ssh/)
 - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
-- [EV LFP Battery Price War at Less Than $56 per KWh Within Six Months](https://www.nextbigfuture.com/2024/01/ev-lfp-battery-price-war-w-55-in-six-months.html)
-- [Don&#39;t Use Discord for FOSS &lpar;2021&rpar;](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
