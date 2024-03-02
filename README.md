@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CO2 emissions reached record high in 2023 – IEA](https://www.dw.com/en/co2-emissions-reached-record-high-in-2023-iea/a-68413363)
+- [MyHeritage debuts OldNews.com, offering access to myriad historical newspapers](https://techcrunch.com/2024/03/01/myheritage-launches-oldnews-com-a-website-with-access-to-millions-of-historical-newspaper-pages/)
 - [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf)
-- [Bob Heil, K9EID, Silent Key](https://www.arrl.org/news/bob-heil-k9eid-silent-key)
-- [Wintergatan Marble Machine &lpar;2016&rpar;](https://www.youtube.com/watch?v=IvUU8joBb1Q)
-- [On the Trail of the Denisovans](https://www.nytimes.com/2024/03/02/science/denisovan-neanderthal-dna.html)
-- [Avoiding fusion plasma tearing instability with deep reinforcement learning](https://www.nature.com/articles/s41586-024-07024-9)
+- [Minimal phone gets back to basics with E Ink display and real keyboard](https://newatlas.com/mobile-technology/minimal-phone-eink-keyboard/)
+- [Show HN: DanGPT–Dan Abramov as a GenAI with RAG](https://dangpt.vercel.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
