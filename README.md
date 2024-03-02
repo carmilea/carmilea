@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Badssl.com](https://badssl.com/)
+- [Japan sees rise of &#39;ramen girls&#39;](https://asia.nikkei.com/Life-Arts/Life/Japan-sees-rise-of-ramen-girls)
+- [Lawyers who voided Elon Musk&#39;s pay as excessive want $6B fee](https://ca.news.yahoo.com/legal-team-voided-musks-tesla-230039948.html)
+- [Bob Heil, K9EID, Silent Key](https://www.arrl.org/news/bob-heil-k9eid-silent-key)
 - [Wintergatan Marble Machine &lpar;2016&rpar;](https://www.youtube.com/watch?v=IvUU8joBb1Q)
-- [NASA satellite, Russian spacecraft crossed within 65 ft &lpar;20M&rpar; of each other](https://www.space.com/near-collision-nasa-timed-satellite-russian-space-junk)
-- [Avoiding fusion plasma tearing instability with deep reinforcement learning](https://www.nature.com/articles/s41586-024-07024-9)
-- [Writing a Minecraft server from scratch in Bash &lpar;2022&rpar;](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
+- [On the Trail of the Denisovans](https://www.nytimes.com/2024/03/02/science/denisovan-neanderthal-dna.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
