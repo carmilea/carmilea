@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mathematicians prove Pólya&#39;s conjecture for the eigenvalues of a disk](https://phys.org/news/2024-03-mathematicians-plya-conjecture-eigenvalues-disk.html)
-- [Could Modified Gravity Kill Planet Nine?](https://nautil.us/could-modified-gravity-kill-planet-nine-521271/)
-- [TextAdept](https://orbitalquark.github.io/textadept/)
-- [R: Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
-- [Weather.gov 2.0](https://github.com/weather-gov/weather.gov)
+- [Wintergatan Marble Machine &lpar;2016&rpar;](https://www.youtube.com/watch?v=IvUU8joBb1Q)
+- [Meta will delete all unmigrated Oculus accounts at the end of March](https://www.theverge.com/2024/3/1/24087855/meta-delete-oculus-accounts)
+- [Avoiding fusion plasma tearing instability with deep reinforcement learning](https://www.nature.com/articles/s41586-024-07024-9)
+- [Writing a Minecraft server from scratch in Bash &lpar;2022&rpar;](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
+- [Scenes from the last operational Morse-code radio station in North America](https://www.theatlantic.com/magazine/archive/2024/04/ann-hermes-morse-code/677468/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
