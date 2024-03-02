@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Messages RCS is blocked on rooted, custom ROM Android phones](https://9to5google.com/2024/02/29/google-messages-rcs-rooted/)
-- [IRS is going after Americans who earn more $400k but don&#39;t file tax returns](https://fortune.com/2024/03/01/irs-125000-americans-earn-over-400000-no-file-tax-returns/)
-- [Spotify, Epic Games pen letter to EC, claiming Apple has made a &#39;mockery&#39; of DMA](https://techcrunch.com/2024/03/01/spotify-epic-games-and-others-pen-letter-to-ec-claiming-apple-has-made-a-mockery-of-the-dma/)
+- [Phrack 71 Call for Papers](http://www.phrack.org/)
+- [Remaking Super Mario World in Godot](https://www.youtube.com/watch?v=u2fwxuHZXIA)
+- [Stephen Covey Quotes](https://blog.hptbydts.com/30-of-the-best-stephen-covey-quotes)
+- [K8s Service Meshes: The Bill Comes Due](https://matduggan.com/k8s-service-meshes/)
 - [Bash Debugging](https://wizardzines.com/comics/bash-debugging/)
-- [ArtPrompt: ASCII Art-Based Jailbreak Attacks Against Aligned LLMs](https://arxiv.org/abs/2402.11753)
 <!-- BLOG-POST-LIST:END -->
 
 ---
