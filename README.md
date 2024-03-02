@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Leap year: French readers enjoy only four-year newspaper](https://www.bbc.com/news/world-europe-68423991)
 - [California Approves Waymo Expansion to Los Angeles and SF Peninsula [pdf]](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/waymo-al-2-disposition-letter-20240301_signed.pdf)
 - [WhatsApp forces Pegasus spyware maker to share its secret code](https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/)
 - [FastUI: Build Better UIs Faster](https://github.com/pydantic/FastUI)
 - [Lazarus and the FudModule rootkit: Beyond BYOVD with an admin-to-kernel zero-day](https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/)
+- [Ask HN: How do you find employment opportunities in 2024?](https://news.ycombinator.com/item?id=39565788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
