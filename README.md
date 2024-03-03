@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Please, Enough with the Dead Butterflies](https://www.emilydamstra.com/please-enough-dead-butterflies/)
+- [Using a solar oven as a radiant refrigerator at night](http://solarcooking.org/radiant-fridge.htm)
 - [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
 - [French artists in 1899 envisioned what life would look like in the year 2000](https://www.openculture.com/2024/02/how-french-artists-in-1899-envisioned-what-life-would-look-like-in-the-year-2000.html)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=39584532)
-- [Show HN: Pipedream now has 1800 integrated APIs](https://pipedream.com/explore)
-- [Combating olive oil fraud with nuclear innovations](https://www.iaea.org/newscenter/news/combating-olive-oil-fraud-with-nuclear-innovations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
