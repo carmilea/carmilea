@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Who fakes cancer research? Apparently, lots of people](https://www.vox.com/future-perfect/24086809/fake-cancer-research-data-scientific-fraud)
+- [What do insanely wealthy people buy, that ordinary people know nothing about?](https://old.reddit.com/r/AskReddit/comments/2s9u0s/what_do_insanely_wealthy_people_buy_that_ordinary/)
+- [The People&#39;s Peace Treaty of 1971](https://www.larrysworld.com/peoples-peace-treaty/)
+- [I&#39;ll refrain from providing code that involve concepts as you&#39;re under 18](https://gemini.google.com/share/238032386438?hl=en)
 - [Separating a particle&#39;s mass from its momentum](https://arxiv.org/abs/2401.10408)
 - [&quot;AI will cure cancer&quot; misunderstands both AI and medicine](https://rachel.fast.ai/posts/2024-02-20-ai-medicine/)
-- [How Did REST Come to Mean the Opposite of REST? &lpar;2022&rpar;](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
-- [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
