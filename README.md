@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Top AIs still fail IQ tests](https://www.maximumtruth.org/p/top-ais-still-fail-iq-tests)
+- [The Hater&#39;s Guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
+- [Joplin is an open source note-taking app](https://joplinapp.org/)
+- [Why Women Outnumber Men in South Korea&#39;s Sports Stadiums](https://www.nytimes.com/2024/02/20/world/asia/women-sports-fans-south-korea.html)
 - [Bug in std:shared_mutex on Windows](https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/)
-- [TikTok is finally on the decline](https://slate.com/technology/2024/02/tiktok-declining-finally-why-universal-ads-search.html)
-- [The Classic Adventures Solution Archive](https://www.solutionarchive.com/)
-- [AI startups require new strategies: This time it&#39;s different](https://longform.asmartbear.com/ai-startups/)
-- [Supermium – Chromium fork for Win 2003/XP and newer](https://win32subsystem.live/supermium/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
