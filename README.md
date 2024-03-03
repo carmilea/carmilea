@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What do insanely wealthy people buy, that ordinary people know nothing about?](https://old.reddit.com/r/AskReddit/comments/2s9u0s/what_do_insanely_wealthy_people_buy_that_ordinary/)
-- [The People&#39;s Peace Treaty of 1971](https://www.larrysworld.com/peoples-peace-treaty/)
-- [I&#39;ll refrain from providing code that involve concepts as you&#39;re under 18](https://gemini.google.com/share/238032386438?hl=en)
-- [Separating a particle&#39;s mass from its momentum](https://arxiv.org/abs/2401.10408)
-- [&quot;AI will cure cancer&quot; misunderstands both AI and medicine](https://rachel.fast.ai/posts/2024-02-20-ai-medicine/)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=39584532)
+- [Combating olive oil fraud with nuclear innovations](https://www.iaea.org/newscenter/news/combating-olive-oil-fraud-with-nuclear-innovations)
+- [People’s Peace Treaty of 1971 &lpar;2021&rpar;](https://www.larrysworld.com/peoples-peace-treaty/)
+- [U.S. seeks to revive idled shipyards with help of Japan, South Korea](https://asia.nikkei.com/Politics/Defense/U.S.-seeks-to-revive-idled-shipyards-with-help-of-Japan-South-Korea)
+- [Organic Maps is a free Android and iOS offline maps app for travelers](https://github.com/organicmaps/organicmaps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
