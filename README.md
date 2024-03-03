@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How do I stop being such a doomer?](https://news.ycombinator.com/item?id=39578616)
+- [Known Meta Sites](https://gitlab.com/J4YC33/metablock/-/blob/main/Meta.txt)
 - [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
 - [The &#39;banned&#39; Star Trek episode that promised a united Ireland](https://www.bbc.co.uk/news/entertainment-arts-68342135)
-- [US prescription market hamstrung for 9 days &lpar;so far&rpar; by ransomware attack](https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/)
-- [Homeless Mortality Data](https://calmatters.org/housing/homelessness/2024/02/homeless-mortality-report/)
-- [Algorithmic Thinking &lpar;2nd Edition&rpar;](https://nostarch.com/algorithmic-thinking-2nd-edition)
+- [SpaceX just achieved speed of 17Mb/s from satellite to stock Android phone](https://twitter.com/elonmusk/status/1764032892663906313)
 <!-- BLOG-POST-LIST:END -->
 
 ---
