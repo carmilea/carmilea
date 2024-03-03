@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing AI and LLM on Rockchip RK3588 Using Mixtile Blade 3 SBC with 32GB RAM](https://taoofmac.com/space/links/2024/03/01/0116)
+- [Laurie Anderson on making AI chatbot of Lou Reed: 100%, sadly addicted](https://www.theguardian.com/music/2024/feb/28/laurie-anderson-ai-chatbot-lou-reed-ill-be-your-mirror-exhibition-adelaide-festival)
+- [Zoomable, translated version of the 15th century Mappa Mundi](https://mostre.museogalileo.it/framauro/en/interactive-exploration/explore.html)
+- [I Was a Heretic at the New York Times](https://www.theatlantic.com/ideas/archive/2024/02/tom-cotton-new-york-times/677546/)
 - [Feature: Morphcat Games, the New-Gen NES Devs Pushing the 8-Bit Envelope](https://www.nintendolife.com/features/meet-morphcat-games-the-new-gen-nes-devs-pushing-the-8-bit-envelope)
-- [Known Meta Sites](https://gitlab.com/J4YC33/metablock/-/blob/main/Meta.txt)
-- [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
-- [SpaceX just achieved speed of 17Mb/s from satellite to stock Android phone](https://twitter.com/elonmusk/status/1764032892663906313)
-- [US prescription market hamstrung for 9 days &lpar;so far&rpar; by ransomware attack](https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
