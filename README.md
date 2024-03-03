@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Top AIs still fail IQ tests](https://www.maximumtruth.org/p/top-ais-still-fail-iq-tests)
-- [The Hater&#39;s Guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
-- [Joplin is an open source note-taking app](https://joplinapp.org/)
-- [Why Women Outnumber Men in South Korea&#39;s Sports Stadiums](https://www.nytimes.com/2024/02/20/world/asia/women-sports-fans-south-korea.html)
-- [Bug in std:shared_mutex on Windows](https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/)
+- [&quot;AI will cure cancer&quot; misunderstands both AI and medicine](https://rachel.fast.ai/posts/2024-02-20-ai-medicine/)
+- [How Did REST Come to Mean the Opposite of REST? &lpar;2022&rpar;](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
+- [Better PC Cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
+- [3D printed titanium structure shows supernatural strength](https://www.rmit.edu.au/news/all-news/2024/feb/titanium-lattice)
+- [What It&#39;s Like to Staff the Home of a Billionaire](https://www.thecut.com/article/staffing-billionaires.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
