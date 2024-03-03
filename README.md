@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
+- [French artists in 1899 envisioned what life would look like in the year 2000](https://www.openculture.com/2024/02/how-french-artists-in-1899-envisioned-what-life-would-look-like-in-the-year-2000.html)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=39584532)
+- [Show HN: Pipedream now has 1800 integrated APIs](https://pipedream.com/explore)
 - [Combating olive oil fraud with nuclear innovations](https://www.iaea.org/newscenter/news/combating-olive-oil-fraud-with-nuclear-innovations)
-- [People’s Peace Treaty of 1971 &lpar;2021&rpar;](https://www.larrysworld.com/peoples-peace-treaty/)
-- [U.S. seeks to revive idled shipyards with help of Japan, South Korea](https://asia.nikkei.com/Politics/Defense/U.S.-seeks-to-revive-idled-shipyards-with-help-of-Japan-South-Korea)
-- [Organic Maps is a free Android and iOS offline maps app for travelers](https://github.com/organicmaps/organicmaps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
