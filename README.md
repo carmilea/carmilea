@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Correlation Statistics in SingleStore](https://www.singlestore.com/blog/correlation-statistics-in-singlestore)
-- [A Beginner’s Guide to Vector Embeddings](https://www.singlestore.com/blog/beginner-guide-to-vector-embeddings)
-- [Understanding + Calculating the Distance Between Vectors](https://www.singlestore.com/blog/distance-metrics-in-machine-learning-simplfied)
-- [Sparse JSON](https://www.singlestore.com/blog/sparse-json)
-- [Hybrid Search: Vector + Full-Text Search](https://www.singlestore.com/blog/hybrid-search-vector-full-text-search)
+- [US prescription market hamstrung for 9 days &lpar;so far&rpar; by ransomware attack](https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/)
+- [Binance: Nigeria orders cryptocurrency firm to pay $10B](https://www.bbc.com/news/world-africa-68451238)
+- [Homeless Mortality Data](https://calmatters.org/housing/homelessness/2024/02/homeless-mortality-report/)
+- [How to convert Node.js stream callback functions into an Async Iterator](https://www.jbernier.com/p?id=nodejs-stream-async-iterator)
+- [Algorithmic Thinking &lpar;2nd Edition&rpar;](https://nostarch.com/algorithmic-thinking-2nd-edition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
