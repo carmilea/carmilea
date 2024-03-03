@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who fakes cancer research? Apparently, lots of people](https://www.vox.com/future-perfect/24086809/fake-cancer-research-data-scientific-fraud)
+- [Separating a particle&#39;s mass from its momentum](https://arxiv.org/abs/2401.10408)
 - [&quot;AI will cure cancer&quot; misunderstands both AI and medicine](https://rachel.fast.ai/posts/2024-02-20-ai-medicine/)
 - [How Did REST Come to Mean the Opposite of REST? &lpar;2022&rpar;](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
-- [Better PC Cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
-- [3D printed titanium structure shows supernatural strength](https://www.rmit.edu.au/news/all-news/2024/feb/titanium-lattice)
-- [What It&#39;s Like to Staff the Home of a Billionaire](https://www.thecut.com/article/staffing-billionaires.html)
+- [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
