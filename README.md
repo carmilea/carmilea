@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI&#39;s environmental costs are soaring – and mostly secret](https://www.nature.com/articles/d41586-024-00478-x)
-- [Apple Vision Pro&#39;s Optics Blurrier and Lower Contrast Than Meta Quest 3](https://kguttag.com/2024/03/01/apple-vision-pros-optics-blurrier-lower-contrast-than-meta-quest-3/)
-- [Price fixing by algorithm is still price fixing](https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing)
-- [Inside the miracle of modern chip manufacturing](https://ig.ft.com/microchips/)
-- [Researchers create AI worms that can spread from one system to another](https://arstechnica.com/ai/2024/03/researchers-create-ai-worms-that-can-spread-from-one-system-to-another/)
+- [Ask HN: Any advice on navigating this job market or pivoting out of tech? &lpar;US&rpar;](https://news.ycombinator.com/item?id=39577198)
+- [Generating Transparent Images Using Stable Diffusion XL](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
+- [ShotSpotter: listening in on the neighborhood](https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html)
+- [Colombia&#39;s Special Word for &quot;You&quot;](https://www.nytimes.com/2024/03/02/world/americas/colombia-sumerce-mothers-mercy.html)
+- [Where Is All of the Fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
 <!-- BLOG-POST-LIST:END -->
 
 ---
