@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
+- [The &#39;banned&#39; Star Trek episode that promised a united Ireland](https://www.bbc.co.uk/news/entertainment-arts-68342135)
 - [US prescription market hamstrung for 9 days &lpar;so far&rpar; by ransomware attack](https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/)
-- [Binance: Nigeria orders cryptocurrency firm to pay $10B](https://www.bbc.com/news/world-africa-68451238)
 - [Homeless Mortality Data](https://calmatters.org/housing/homelessness/2024/02/homeless-mortality-report/)
-- [How to convert Node.js stream callback functions into an Async Iterator](https://www.jbernier.com/p?id=nodejs-stream-async-iterator)
 - [Algorithmic Thinking &lpar;2nd Edition&rpar;](https://nostarch.com/algorithmic-thinking-2nd-edition)
 <!-- BLOG-POST-LIST:END -->
 
