@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How do I stop being such a doomer?](https://news.ycombinator.com/item?id=39578616)
+- [Feature: Morphcat Games, the New-Gen NES Devs Pushing the 8-Bit Envelope](https://www.nintendolife.com/features/meet-morphcat-games-the-new-gen-nes-devs-pushing-the-8-bit-envelope)
 - [Known Meta Sites](https://gitlab.com/J4YC33/metablock/-/blob/main/Meta.txt)
 - [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
-- [The &#39;banned&#39; Star Trek episode that promised a united Ireland](https://www.bbc.co.uk/news/entertainment-arts-68342135)
 - [SpaceX just achieved speed of 17Mb/s from satellite to stock Android phone](https://twitter.com/elonmusk/status/1764032892663906313)
+- [US prescription market hamstrung for 9 days &lpar;so far&rpar; by ransomware attack](https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
