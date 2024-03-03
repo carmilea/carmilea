@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Any advice on navigating this job market or pivoting out of tech? &lpar;US&rpar;](https://news.ycombinator.com/item?id=39577198)
-- [Generating Transparent Images Using Stable Diffusion XL](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
+- [Generating transparent images using Stable Diffusion XL](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
 - [ShotSpotter: listening in on the neighborhood](https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html)
 - [Colombia&#39;s Special Word for &quot;You&quot;](https://www.nytimes.com/2024/03/02/world/americas/colombia-sumerce-mothers-mercy.html)
-- [Where Is All of the Fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
+- [Where is all of the Fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
+- [Byte Interviews the Apple Lisa Dev Team &lpar;1983&rpar;](https://computeradsfromthepast.substack.com/p/byte-interviews-the-apple-lisa-dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
