@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How I decide if your website is worth a revisit](https://cd.is-a.dev/posts/how-i-decide-if-your-website-is-worth-a-revisit/)
+- [Rust for Embedded Systems: Current state, challenges and open problems](https://arxiv.org/abs/2311.05063)
+- [Show HN: Astro App](https://astro.sshh.io/)
+- [&#39;Your pay is still – not – going up too fast&#39;](https://www.nominalnews.com/p/your-pay-is-still-not-going-up-too-fast)
 - [Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
-- [More than 2M research papers have disappeared from the Internet](https://www.nature.com/articles/d41586-024-00616-5)
-- [Apple hit with over 1.8B euro EU antitrust fine in Spotify case](https://www.reuters.com/technology/apple-hit-with-over-18-bln-euro-eu-antitrust-fine-spotify-case-2024-03-04/)
-- [I made a bad camera lens from some old glasses [video]](https://www.youtube.com/watch?v=-C6AcRnUmbE)
+- [Apple unveils the new 13- and 15‑inch MacBook Air with the powerful M3 chip](https://www.apple.com/newsroom/2024/03/apple-unveils-the-new-13-and-15-inch-macbook-air-with-the-powerful-m3-chip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
