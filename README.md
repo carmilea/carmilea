@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Breakthrough in predicting chaotic outcomes in three body systems](https://phys.org/news/2024-02-breakthrough-chaotic-outcomes-body.html)
+- [How I keep myself Alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
+- [Show HN: 3 years and 1M users later, I just open-sourced my &quot;Internet OS&quot;](https://github.com/HeyPuter/puter)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [3DS Emulator Citra is closing up shop and removing all their sites/code](https://twitter.com/citraemu/status/1764747696538046766)
-- [Sigmoid Loss for Language Image Pre-Training &lpar;2023&rpar;](https://arxiv.org/abs/2303.15343)
 - [GTPDOOR – A novel backdoor tailored for covert access over the roaming exchange](https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR)
-- [Borrow checking without lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
