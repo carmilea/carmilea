@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PG&amp;E claims no connection between rate increases and $2.2B jump in earnings](https://abc7news.com/pge-rate-increase-2023-earning-2-billion-dollar-profit/14483425/)
-- [Bring Back Private Offices](https://albertcory50.substack.com/p/bring-back-private-offices)
+- [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
+- [Bring back private offices](https://albertcory50.substack.com/p/bring-back-private-offices)
 - [Motion blur all the way down &lpar;2022&rpar;](https://www.osar.fr/notes/motionblur/)
-- [&quot;Noah&quot;: Naturally Occurring Affordable Housing](https://www.granolashotgun.com/granolashotguncom/madison-iii)
-- [Smashmallow, Silicon Valley&#39;s Failed Marshmallow Startup](https://www.businessinsider.com/smashmallow-lawsuit-marshmallow-failure-silicon-valley-business-growth-2024-1)
+- [Nearly all of California&#39;s reservoir&#39;s are above their historical averages](https://cdec.water.ca.gov/resapp/RescondMain)
+- [Varda&#39;s drug-cooking Winnebago will be remembered as a space pioneer](https://arstechnica.com/space/2024/02/vardas-drug-cooking-winnebago-will-be-remembered-as-a-space-pioneer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
