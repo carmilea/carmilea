@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mercury – Compiler optimized, private Firefox fork](https://thorium.rocks/mercury)
+- [The Theorist Who Sees Math in Art, Music and Writing](https://www.quantamagazine.org/the-theorist-who-sees-math-in-art-music-and-writing-20240112/)
+- [A windowed graph Fourier transform &lpar;2012&rpar;](https://ieeexplore.ieee.org/abstract/document/6319640)
+- [What Is a Schur Decomposition?](https://nhigham.com/2022/05/11/what-is-a-schur-decomposition/)
+- [The Singapore Airlines Concorde: The full story](https://mainlymiles.com/2024/03/03/singapore-airlines-concorde-full-story/)
 - [Twenty Years Is Nothing](https://deprogrammaticaipsum.com/twenty-years-is-nothing/)
-- [Scientists put Jared Diamond&#39;s continental axis hypothesis to the test](https://www.psypost.org/scientists-put-jared-diamonds-continental-axis-hypothesis-to-the-test-heres-what-they-found/)
-- [Film Companies Seek &#39;Torrenting History&#39; Related to Redditor](https://torrentfreak.com/film-companies-seek-torrenting-history-related-to-redditor-240220/)
-- [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
