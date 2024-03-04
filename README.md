@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PG&amp;E claims no connection between rate increases and $2.2B jump in earnings](https://abc7news.com/pge-rate-increase-2023-earning-2-billion-dollar-profit/14483425/)
 - [Bring Back Private Offices](https://albertcory50.substack.com/p/bring-back-private-offices)
 - [Motion blur all the way down &lpar;2022&rpar;](https://www.osar.fr/notes/motionblur/)
+- [&quot;Noah&quot;: Naturally Occurring Affordable Housing](https://www.granolashotgun.com/granolashotguncom/madison-iii)
 - [Smashmallow, Silicon Valley&#39;s Failed Marshmallow Startup](https://www.businessinsider.com/smashmallow-lawsuit-marshmallow-failure-silicon-valley-business-growth-2024-1)
-- [Scientists announce a new &#39;organoid intelligence&#39; field](https://edition.cnn.com/2023/03/02/world/brain-computer-organoids-scn/index.html)
-- [SuperKalam &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/kalam/jobs/R4P4ZvJ-product-analyst)
 <!-- BLOG-POST-LIST:END -->
 
 ---
