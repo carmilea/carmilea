@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aho-Corasick Algorithm](https://cp-algorithms.com/string/aho_corasick.html)
-- [How the Valley treats its experienced people &lpar;2018&rpar;](https://rachelbythebay.com/w/2018/12/29/age/)
+- [Bring Back Private Offices](https://albertcory50.substack.com/p/bring-back-private-offices)
+- [Motion blur all the way down &lpar;2022&rpar;](https://www.osar.fr/notes/motionblur/)
+- [Smashmallow, Silicon Valley&#39;s Failed Marshmallow Startup](https://www.businessinsider.com/smashmallow-lawsuit-marshmallow-failure-silicon-valley-business-growth-2024-1)
+- [Scientists announce a new &#39;organoid intelligence&#39; field](https://edition.cnn.com/2023/03/02/world/brain-computer-organoids-scn/index.html)
 - [SuperKalam &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/kalam/jobs/R4P4ZvJ-product-analyst)
-- [A woman named &quot;Steve&quot; – IT pioneer, entrepreneur, philanthropist &lpar;2019&rpar;](https://www.computer.org/publications/tech-news/research/dame-stephanie-steve-shirley-computer-pioneer)
-- [Surrealism Is 100. The World&#39;s Still Surreal](https://www.nytimes.com/2024/02/28/arts/design/surrealism-centennial-pompidou-brussels.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
