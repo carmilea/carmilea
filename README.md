@@ -59,8 +59,8 @@
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [3DS Emulator Citra is closing up shop and removing all their sites/code](https://twitter.com/citraemu/status/1764747696538046766)
 - [Sigmoid Loss for Language Image Pre-Training &lpar;2023&rpar;](https://arxiv.org/abs/2303.15343)
+- [GTPDOOR – A novel backdoor tailored for covert access over the roaming exchange](https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR)
 - [Borrow checking without lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
-- [There are only 12 binaries in Talos Linux](https://www.siderolabs.com/blog/there-are-only-12-binaries-in-talos-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
