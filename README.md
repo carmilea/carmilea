@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aho-Corasick Algorithm](https://cp-algorithms.com/string/aho_corasick.html)
+- [How the Valley treats its experienced people &lpar;2018&rpar;](https://rachelbythebay.com/w/2018/12/29/age/)
 - [SuperKalam &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/kalam/jobs/R4P4ZvJ-product-analyst)
-- [Reclaim your focus with ~12 lines of bash](https://www.autodidacts.io/coldturkey-selfcontrol-freedom-leechblock-alternative-in-bash/)
 - [A woman named &quot;Steve&quot; – IT pioneer, entrepreneur, philanthropist &lpar;2019&rpar;](https://www.computer.org/publications/tech-news/research/dame-stephanie-steve-shirley-computer-pioneer)
-- [California rains resurrect a long-dead lake in dry Death Valley](https://www.washingtonpost.com/nation/2024/03/01/death-valley-lake-california-rain/)
-- [Enough with the dead butterflies &lpar;2017&rpar;](https://www.emilydamstra.com/please-enough-dead-butterflies/)
+- [Surrealism Is 100. The World&#39;s Still Surreal](https://www.nytimes.com/2024/02/28/arts/design/surrealism-centennial-pompidou-brussels.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
