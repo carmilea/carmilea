@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Opus 1.5 Released: Opus Gets a Serious Machine Learning Upgrade](https://opus-codec.org/demo/opus-1.5/)
-- [Java is becoming more like Rust, and I am here for it](https://joshaustin.tech/blog/java-is-becoming-rust/)
-- [The woman who coined the expression &#39;Surfing the Internet&#39;](https://www.surfertoday.com/surfing/the-woman-who-coined-the-expression-surfing-the-internet)
-- [Improving Network Performance with Linux Flowtables](https://www.ubicloud.com/blog/improving-network-performance-with-linux-flowtables)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [Borrow Checking Without Lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
+- [Comparing Postgres Managed Services: AWS, Azure, GCP and Supabase](https://blog.peerdb.io/comparing-postgres-managed-services-aws-azure-gcp-and-supabase)
+- [Opus 1.5 released: Opus gets a machine learning upgrade](https://opus-codec.org/demo/opus-1.5/)
+- [Show HN: Workflow orchestrator in Golang](https://github.com/harshadmanglani/polaris)
+- [The women who coined the expression &#39;surfing the internet&#39; &lpar;2019&rpar;](https://www.surfertoday.com/surfing/the-woman-who-coined-the-expression-surfing-the-internet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
