@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Borrow Checking Without Lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
-- [Comparing Postgres Managed Services: AWS, Azure, GCP and Supabase](https://blog.peerdb.io/comparing-postgres-managed-services-aws-azure-gcp-and-supabase)
-- [Opus 1.5 released: Opus gets a machine learning upgrade](https://opus-codec.org/demo/opus-1.5/)
-- [Show HN: Workflow orchestrator in Golang](https://github.com/harshadmanglani/polaris)
-- [The women who coined the expression &#39;surfing the internet&#39; &lpar;2019&rpar;](https://www.surfertoday.com/surfing/the-woman-who-coined-the-expression-surfing-the-internet)
+- [Sigmoid Loss for Language Image Pre-Training &lpar;2023&rpar;](https://arxiv.org/abs/2303.15343)
+- [GTPDOOR – A novel backdoor tailored for covert access over the roaming exchange](https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR)
+- [Borrow checking without lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
+- [There are only 12 binaries in Talos Linux](https://www.siderolabs.com/blog/there-are-only-12-binaries-in-talos-linux/)
+- [Le Grand K &lpar;2018&rpar;](https://www.atlasobscura.com/places/le-grand-k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
