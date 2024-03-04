@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mercury – Compiler optimized, private Firefox fork](https://thorium.rocks/mercury)
+- [Twenty Years Is Nothing](https://deprogrammaticaipsum.com/twenty-years-is-nothing/)
+- [Scientists put Jared Diamond&#39;s continental axis hypothesis to the test](https://www.psypost.org/scientists-put-jared-diamonds-continental-axis-hypothesis-to-the-test-heres-what-they-found/)
+- [Film Companies Seek &#39;Torrenting History&#39; Related to Redditor](https://torrentfreak.com/film-companies-seek-torrenting-history-related-to-redditor-240220/)
 - [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
-- [Bring back private offices](https://albertcory50.substack.com/p/bring-back-private-offices)
-- [Motion blur all the way down &lpar;2022&rpar;](https://www.osar.fr/notes/motionblur/)
-- [Nearly all of California&#39;s reservoir&#39;s are above their historical averages](https://cdec.water.ca.gov/resapp/RescondMain)
-- [Varda&#39;s drug-cooking Winnebago will be remembered as a space pioneer](https://arstechnica.com/space/2024/02/vardas-drug-cooking-winnebago-will-be-remembered-as-a-space-pioneer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
