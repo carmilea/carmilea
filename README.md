@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How I decide if your website is worth a revisit](https://cd.is-a.dev/posts/how-i-decide-if-your-website-is-worth-a-revisit/)
+- [Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
 - [More than 2M research papers have disappeared from the Internet](https://www.nature.com/articles/d41586-024-00616-5)
 - [Apple hit with over 1.8B euro EU antitrust fine in Spotify case](https://www.reuters.com/technology/apple-hit-with-over-18-bln-euro-eu-antitrust-fine-spotify-case-2024-03-04/)
 - [I made a bad camera lens from some old glasses [video]](https://www.youtube.com/watch?v=-C6AcRnUmbE)
-- [Artisan AI &lpar;YC W24&rpar; Is Hiring a VP of E](https://www.ycombinator.com/companies/artisan-ai/jobs/TXSbyeS-founding-vp-of-engineering)
-- [A mathematician who finds poetry in math and math in poetry](https://www.quantamagazine.org/the-theorist-who-sees-math-in-art-music-and-writing-20240112/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
