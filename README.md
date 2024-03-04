@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust for Embedded Systems: Current state, challenges and open problems](https://arxiv.org/abs/2311.05063)
-- [Show HN: Astro App](https://astro.sshh.io/)
-- [&#39;Your pay is still – not – going up too fast&#39;](https://www.nominalnews.com/p/your-pay-is-still-not-going-up-too-fast)
-- [Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
-- [Apple unveils the new 13- and 15‑inch MacBook Air with the powerful M3 chip](https://www.apple.com/newsroom/2024/03/apple-unveils-the-new-13-and-15-inch-macbook-air-with-the-powerful-m3-chip/)
+- [Improving Network Performance with Linux Flowtables](https://www.ubicloud.com/blog/improving-network-performance-with-linux-flowtables)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [The hunt for the missing data type](https://www.hillelwayne.com/post/graph-types/)
+- [Effect of gut microbiome modulation on muscle function and cognition](https://www.nature.com/articles/s41467-024-46116-y)
+- [MacPad: I Created the Hybrid Mac-iPad Laptop and Tablet That Apple Won&#39;t Make](https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
