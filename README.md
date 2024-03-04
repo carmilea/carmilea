@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please, Enough with the Dead Butterflies](https://www.emilydamstra.com/please-enough-dead-butterflies/)
-- [Using a solar oven as a radiant refrigerator at night](http://solarcooking.org/radiant-fridge.htm)
-- [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
-- [French artists in 1899 envisioned what life would look like in the year 2000](https://www.openculture.com/2024/02/how-french-artists-in-1899-envisioned-what-life-would-look-like-in-the-year-2000.html)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=39584532)
+- [SuperKalam &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/kalam/jobs/R4P4ZvJ-product-analyst)
+- [Reclaim your focus with ~12 lines of bash](https://www.autodidacts.io/coldturkey-selfcontrol-freedom-leechblock-alternative-in-bash/)
+- [A woman named &quot;Steve&quot; – IT pioneer, entrepreneur, philanthropist &lpar;2019&rpar;](https://www.computer.org/publications/tech-news/research/dame-stephanie-steve-shirley-computer-pioneer)
+- [California rains resurrect a long-dead lake in dry Death Valley](https://www.washingtonpost.com/nation/2024/03/01/death-valley-lake-california-rain/)
+- [Enough with the dead butterflies &lpar;2017&rpar;](https://www.emilydamstra.com/please-enough-dead-butterflies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
