@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Opus 1.5 Released: Opus Gets a Serious Machine Learning Upgrade](https://opus-codec.org/demo/opus-1.5/)
+- [Java is becoming more like Rust, and I am here for it](https://joshaustin.tech/blog/java-is-becoming-rust/)
+- [The woman who coined the expression &#39;Surfing the Internet&#39;](https://www.surfertoday.com/surfing/the-woman-who-coined-the-expression-surfing-the-internet)
 - [Improving Network Performance with Linux Flowtables](https://www.ubicloud.com/blog/improving-network-performance-with-linux-flowtables)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [The hunt for the missing data type](https://www.hillelwayne.com/post/graph-types/)
-- [Effect of gut microbiome modulation on muscle function and cognition](https://www.nature.com/articles/s41467-024-46116-y)
-- [MacPad: I Created the Hybrid Mac-iPad Laptop and Tablet That Apple Won&#39;t Make](https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
