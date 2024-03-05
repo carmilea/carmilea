@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [France enshrines &#39;freedom&#39; to abortion in Constitution, in world first](https://www.lemonde.fr/en/politics/article/2024/03/04/france-enshrines-freedom-to-abortion-in-constitution-in-world-first_6584252_5.html)
+- [Cloudflare Announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
 - [I spend £8,500 a year to live on a train](https://metro.co.uk/2024/03/03/spend-8-500-a-year-live-a-train-20388001/)
 - [Hetzner GEX44 with Nvidia GPU](https://www.hetzner.com/dedicated-rootserver/matrix-gpu/)
-- [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
-- [Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
-- [Protecting paths in macro expansions by extending UTF-8](https://nullprogram.com/blog/2024/03/05/)
+- [Library of Juggling](http://libraryofjuggling.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
