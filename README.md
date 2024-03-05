@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JEDEC Publishes GDDR7 Graphics Memory Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
+- [Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling](https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll)
 - [Tell HN: Pivotal Tracker removes non-enterprise price tiers](https://news.ycombinator.com/item?id=39607630)
-- [Gender gap in tech jobs narrows across advanced economies](https://www.ft.com/content/f37f3af3-2c3a-4082-84c3-e6fe7fe53252)
+- [This Is Knuth 3:16 &lpar;2002&rpar;](http://www.larry.denenberg.com/Knuth-3-16/)
 - [JetBrains TeamCity Multiple Authentication Bypass Vulnerabilities &lpar;Fixed&rpar;](https://www.rapid7.com/blog/post/2024/03/04/etr-cve-2024-27198-and-cve-2024-27199-jetbrains-teamcity-multiple-authentication-bypass-vulnerabilities-fixed/)
-- [Microsoft is ending support for the Windows Subsystem for Android &lpar;WSA&rpar;](https://learn.microsoft.com/en-us/windows/android/wsa/)
-- [How to generate uniformly random points on n-spheres and in n-balls](https://extremelearning.com.au/how-to-generate-uniformly-random-points-on-n-spheres-and-n-balls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
