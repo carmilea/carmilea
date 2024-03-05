@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [A moment of financial clarification &lpar;2013&rpar;](https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/)
 - [Investigating immune response of a man who received 217 Covid vaccines](https://www.fau.eu/2024/03/05/news/research/researchers-investigate-immune-response-of-a-man-who-received-217-covid-vaccinations/)
-- [Sell your startup for half a billion and get nothing](https://www.fundablestartups.com/blog/half-a-billion)
+- [Sell your startup for half a billion and get nothing &lpar;2021&rpar;](https://www.fundablestartups.com/blog/half-a-billion)
 - [Ubicloud: Open, Free, and Portable Cloud](https://www.ubicloud.com/)
-- [Natron: Open-source alternative to Adobe After Effects](https://www.linuxtechmore.com/2024/03/linux-apps-tour-unveiling-natron-your-open-source-alternative-to-adobe-after-effects.html)
+- [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
