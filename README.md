@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ace of Aces: or, why you should Do Maths as a game designer](https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/)
+- [Cracking Meta&#39;s Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
+- [Array Languages vs. the Curse of the Spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
 - [JEDEC Publishes GDDR7 Graphics Memory Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
 - [Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling](https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll)
-- [Tell HN: Pivotal Tracker removes non-enterprise price tiers](https://news.ycombinator.com/item?id=39607630)
-- [This Is Knuth 3:16 &lpar;2002&rpar;](http://www.larry.denenberg.com/Knuth-3-16/)
-- [The &quot;missing&quot; graph datatype already exists. It was invented in the &#39;70s](https://tylerhou.com/posts/datalog-go-brrr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
