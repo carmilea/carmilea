@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I spend £8,500 a year to live on a train](https://metro.co.uk/2024/03/03/spend-8-500-a-year-live-a-train-20388001/)
+- [Hetzner GEX44 with Nvidia GPU](https://www.hetzner.com/dedicated-rootserver/matrix-gpu/)
 - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
-- [Dell exec reveals Nvidia has a 1,000-watt GPU in the works](https://www.theregister.com/2024/03/05/nvidias_b100_gpu_1000w/)
 - [Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
-- [A moment of financial clarification &lpar;2013&rpar;](https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/)
-- [Sell for half a billion and get nothing &lpar;2021&rpar;](https://www.fundablestartups.com/blog/half-a-billion)
+- [Protecting paths in macro expansions by extending UTF-8](https://nullprogram.com/blog/2024/03/05/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
