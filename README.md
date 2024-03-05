@@ -60,7 +60,7 @@
 - [Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling](https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll)
 - [Tell HN: Pivotal Tracker removes non-enterprise price tiers](https://news.ycombinator.com/item?id=39607630)
 - [This Is Knuth 3:16 &lpar;2002&rpar;](http://www.larry.denenberg.com/Knuth-3-16/)
-- [JetBrains TeamCity Multiple Authentication Bypass Vulnerabilities &lpar;Fixed&rpar;](https://www.rapid7.com/blog/post/2024/03/04/etr-cve-2024-27198-and-cve-2024-27199-jetbrains-teamcity-multiple-authentication-bypass-vulnerabilities-fixed/)
+- [The &quot;missing&quot; graph datatype already exists. It was invented in the &#39;70s](https://tylerhou.com/posts/datalog-go-brrr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
