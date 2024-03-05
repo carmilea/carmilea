@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Crosses 4% Market Share Worldwide](https://linuxiac.com/linux-crosses-four-percent-market-share-worldwide/)
 - [A moment of financial clarification &lpar;2013&rpar;](https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/)
 - [Sell for half a billion and get nothing &lpar;2021&rpar;](https://www.fundablestartups.com/blog/half-a-billion)
 - [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
 - [CodeCrafters &lpar;YC S22&rpar; is hiring an influencer manager &lpar;interns welcome&rpar;](https://www.ycombinator.com/companies/codecrafters/jobs/M2ELjtC-influencer-partnerships-manager)
-- [Based: Simple linear attention language models](https://www.together.ai/blog/based)
 <!-- BLOG-POST-LIST:END -->
 
 ---
