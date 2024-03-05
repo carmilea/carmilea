@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why desktop Linux is finally growing in popularity](https://www.zdnet.com/article/5-reasons-why-desktop-linux-is-finally-growing-in-popularity/)
+- [Nissan drops app support for the original Leaf](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/nissan-drops-app-support-for-the-original-leaf-are-evs-now-as-disposable-as-iphones)
+- [Microsoft is ending support for the Windows Subsystem for Android &lpar;WSA&rpar;](https://learn.microsoft.com/en-us/windows/android/wsa/)
 - [Keeper &lpar;YC S21&rpar; hiring engineers to build AI tax prep](https://www.workatastartup.com/jobs/64643)
-- [Doks – Build a Docs Site](https://getdoks.org/)
-- [Ask HN: How&#39;s the current state of hiring in the LLM field?](https://news.ycombinator.com/item?id=39605588)
-- [Why are there so many methane satellites?](https://heatmap.news/technology/methanesat-edf-satellite-gosat)
-- [Prompt injection and jailbreaking are not the same thing](https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/)
+- [Ancient Counterfeiters and Their Fake Coins](https://coinweek.com/bad-money-ancient-counterfeiters-and-their-fake-coins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
