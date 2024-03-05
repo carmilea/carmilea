@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Demands That We Censor Our Content](https://www.nakedcapitalism.com/2024/03/google-demands-that-we-censor-our-content.html)
-- [Sergey Brin says in rare appearance that company &#39;messed up&#39; Gemini image launch](https://www.cnbc.com/2024/03/04/sergey-brin-says-google-definitely-messed-up-with-gemini-launch-.html)
+- [IDF &#39;using spyware and AI targeting&#39; to target journalists in Gaza](https://pressgazette.co.uk/news/gaza-journalists-targeted-spyware/)
+- [Rapid7 throws JetBrains under the bus for uncoordinated vulnerability disclosure](https://www.theregister.com/2024/03/05/rapid7_jetbrains_vuln_disclosure_dispute/)
+- [The Shen Programming Language](https://shenlanguage.org/)
 - [Facing reality about the EU is a core requirement for good management](https://www.baldurbjarnason.com/2024/facing-reality-in-the-eu-and-tech/)
-- [France enshrines &#39;freedom&#39; to abortion in Constitution, in world first](https://www.lemonde.fr/en/politics/article/2024/03/04/france-enshrines-freedom-to-abortion-in-constitution-in-world-first_6584252_5.html)
-- [Cloudflare Announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
+- [LibraryBox](https://jasongriffey.net/librarybox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
