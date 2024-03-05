@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IDF &#39;using spyware and AI targeting&#39; to target journalists in Gaza](https://pressgazette.co.uk/news/gaza-journalists-targeted-spyware/)
+- [Show HN: Accessibility Aid – Fixed Price WCAG and ADA Compliance](https://accessibilityaid.com/)
+- [Likelihood functions, p-values, and the replication crisis](https://arbital.com/p/likelihoods_not_pvalues/?l=4xx)
+- [Generative AI and the widening software developer knowledge gap](https://leaddev.com/team/generative-ai-and-widening-software-developer-knowledge-gap)
 - [Rapid7 throws JetBrains under the bus for uncoordinated vulnerability disclosure](https://www.theregister.com/2024/03/05/rapid7_jetbrains_vuln_disclosure_dispute/)
-- [The Shen Programming Language](https://shenlanguage.org/)
-- [Facing reality about the EU is a core requirement for good management](https://www.baldurbjarnason.com/2024/facing-reality-in-the-eu-and-tech/)
-- [LibraryBox](https://jasongriffey.net/librarybox/)
+- [Show HN: Hacker News Badges &lpar;Unofficial&rpar;](https://hnbadges.com/?retry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
