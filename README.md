@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Accessibility Aid – Fixed Price WCAG and ADA Compliance](https://accessibilityaid.com/)
-- [Likelihood functions, p-values, and the replication crisis](https://arbital.com/p/likelihoods_not_pvalues/?l=4xx)
+- [Launch HN: Greptile &lpar;YC W24&rpar; - RAG on codebases that actually works](https://news.ycombinator.com/item?id=39604961)
+- [Open-source project ZLUDA lets CUDA apps run on AMD GPUs](https://www.cgchannel.com/2024/02/open-source-project-zluda-lets-cuda-apps-run-on-amd-gpus/)
+- [Meta outage](https://metastatus.com/)
 - [Generative AI and the widening software developer knowledge gap](https://leaddev.com/team/generative-ai-and-widening-software-developer-knowledge-gap)
-- [Rapid7 throws JetBrains under the bus for uncoordinated vulnerability disclosure](https://www.theregister.com/2024/03/05/rapid7_jetbrains_vuln_disclosure_dispute/)
-- [Show HN: Hacker News Badges &lpar;Unofficial&rpar;](https://hnbadges.com/?retry)
+- [The Shen Programming Language](https://shenlanguage.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
