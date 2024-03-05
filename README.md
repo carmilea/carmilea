@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Greptile &lpar;YC W24&rpar; - RAG on codebases that actually works](https://news.ycombinator.com/item?id=39604961)
-- [Open-source project ZLUDA lets CUDA apps run on AMD GPUs](https://www.cgchannel.com/2024/02/open-source-project-zluda-lets-cuda-apps-run-on-amd-gpus/)
-- [Meta outage](https://metastatus.com/)
-- [Generative AI and the widening software developer knowledge gap](https://leaddev.com/team/generative-ai-and-widening-software-developer-knowledge-gap)
-- [The Shen Programming Language](https://shenlanguage.org/)
+- [Keeper &lpar;YC S21&rpar; hiring engineers to build AI tax prep](https://www.workatastartup.com/jobs/64643)
+- [Doks – Build a Docs Site](https://getdoks.org/)
+- [Ask HN: How&#39;s the current state of hiring in the LLM field?](https://news.ycombinator.com/item?id=39605588)
+- [Why are there so many methane satellites?](https://heatmap.news/technology/methanesat-edf-satellite-gosat)
+- [Prompt injection and jailbreaking are not the same thing](https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
