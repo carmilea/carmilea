@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Breakthrough in predicting chaotic outcomes in three body systems](https://phys.org/news/2024-02-breakthrough-chaotic-outcomes-body.html)
-- [How I keep myself Alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
-- [Show HN: 3 years and 1M users later, I just open-sourced my &quot;Internet OS&quot;](https://github.com/HeyPuter/puter)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [GTPDOOR – A novel backdoor tailored for covert access over the roaming exchange](https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR)
+- [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
+- [CodeCrafters &lpar;YC S22&rpar; is hiring an influencer manager &lpar;interns welcome&rpar;](https://www.ycombinator.com/companies/codecrafters/jobs/M2ELjtC-influencer-partnerships-manager)
+- [Based: Simple linear attention language models](https://www.together.ai/blog/based)
+- [Miles Davis and the recording of Kind of Blue](https://www.esquire.com/entertainment/music/a46871755/james-kaplan-miles-davis-3-shades-of-blue-excerpt/)
+- [AWS acquires Talen&#39;s 960MW nuclear data center campus in Pennsylvania](https://www.datacenterdynamics.com/en/news/aws-acquires-talens-nuclear-data-center-campus-in-pennsylvania/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
