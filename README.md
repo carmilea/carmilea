@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
+- [Dell exec reveals Nvidia has a 1,000-watt GPU in the works](https://www.theregister.com/2024/03/05/nvidias_b100_gpu_1000w/)
+- [Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
 - [A moment of financial clarification &lpar;2013&rpar;](https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/)
 - [Sell for half a billion and get nothing &lpar;2021&rpar;](https://www.fundablestartups.com/blog/half-a-billion)
-- [Screen time robs average toddler of hearing 1,000 words spoken by adult a day](https://www.theguardian.com/australia-news/2024/mar/04/does-children-toddlers-kids-watching-tv-impact-development-learning)
-- [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
-- [CodeCrafters &lpar;YC S22&rpar; is hiring an influencer manager &lpar;interns welcome&rpar;](https://www.ycombinator.com/companies/codecrafters/jobs/M2ELjtC-influencer-partnerships-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
