@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 to lose official support for Android apps](https://techcrunch.com/2024/03/05/windows-11-to-lose-official-support-for-android-apps/)
-- [Ice-free summers in Arctic possible within next decade, scientists say](https://www.theguardian.com/world/2024/mar/05/ice-free-summers-in-arctic-possible-within-next-decade-scientists-say)
+- [GPS Antenna Mods Make Starlink Terminal Immune to Jammers](https://hackaday.com/2024/03/06/gps-antenna-mods-make-starlink-terminal-immune-to-jammers/)
+- [You Might Not Need a CRDT: Document Sync in the Wild [video]](https://www.youtube.com/watch?v=0d73MdQkJOk)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Full Stack and Back End Engineers](https://onesignal.com/careers#section-job)
 - [Dada, an Experiement by the Creators of Rust](https://dada-lang.org/)
-- [Pg_vectorize: The simplest way to do vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)
+- [Pg_vectorize: Vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)
 <!-- BLOG-POST-LIST:END -->
 
 ---
