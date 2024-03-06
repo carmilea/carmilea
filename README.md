@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [World War II &#39;Rumor Clinics&#39; Helped America Battle Wild Gossip](https://www.smithsonianmag.com/history/world-war-ii-rumor-clinics-helped-america-battle-wild-gossip-180983883/)
 - [GPS Antenna Mods Make Starlink Terminal Immune to Jammers](https://hackaday.com/2024/03/06/gps-antenna-mods-make-starlink-terminal-immune-to-jammers/)
+- [How likely are chance resemblances between languages? &lpar;2002&rpar;](https://www.zompist.com/chance.htm)
+- [Early American Fire Alarm Systems &lpar;2022&rpar;](https://www.ffam.org/2022/09/17/early-american-fire-alarm-systems/)
 - [You Might Not Need a CRDT: Document Sync in the Wild [video]](https://www.youtube.com/watch?v=0d73MdQkJOk)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Full Stack and Back End Engineers](https://onesignal.com/careers#section-job)
-- [Dada, an Experiement by the Creators of Rust](https://dada-lang.org/)
-- [Pg_vectorize: Vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)
 <!-- BLOG-POST-LIST:END -->
 
 ---
