@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Piping logs, visualizing in a web app – just suffix &quot;| npx logscreen&quot;](https://github.com/soorajshankar/logScreen)
 - [Alan Kay&#39;s talk at UCLA – Feb 21, 2024 [video]](https://www.youtube.com/watch?v=dZQ7x0-MZcI)
-- [Derek Lowe&#39;s Things I Won&#39;t Work With &lpar;Index&rpar;](https://www.science.org/topic/blog-category/things-i-wont-work-with)
 - [Free data transfer out to internet when moving out of AWS](https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/)
 - [Fonts are still a Helvetica of a Problem](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
 - [Leaving LinkedIn: Choosing Engineering Excellence over Expediency](https://corecursive.com/leaving-linkedin-with-chris-krycho/)
