@@ -59,8 +59,8 @@
 - [Ice-free summers in Arctic possible within next decade, scientists say](https://www.theguardian.com/world/2024/mar/05/ice-free-summers-in-arctic-possible-within-next-decade-scientists-say)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Full Stack and Back End Engineers](https://onesignal.com/careers#section-job)
 - [Dada, an Experiement by the Creators of Rust](https://dada-lang.org/)
-- [Welcome to MARCHintosh](https://www.marchintosh.com/)
 - [Pg_vectorize: The simplest way to do vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)
+- [Network Tunneling with QEMU](https://securelist.com/network-tunneling-with-qemu/111803/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
