@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Hacked Google A.I. for $50k](https://www.landh.tech/blog/20240304-google-hack-50000/)
+- [Eqtble &lpar;YC W21&rpar; Is Hiring a Founding Account Executive](https://app.dover.io/apply/8dad4c3d-075e-4164-9a75-6e8f4f9f9902/8d97d6d2-d770-478b-93f3-113431385411/?rs=15190316)
+- [We hacked Google A.I.](https://www.landh.tech/blog/20240304-google-hack-50000/)
+- [Show HN: dockerc – Docker image to static executable &quot;compiler&quot;](https://github.com/NilsIrl/dockerc)
 - [The Law of Leaky Abstractions &lpar;2002&rpar;](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 - [Detect when your installed Chrome extensions have changed owners](https://github.com/classvsoftware/under-new-management)
-- [You Don&#39;t Need a Dedicated Cache Service – PostgreSQL as a Cache &lpar;2023&rpar;](https://martinheinz.dev/blog/105)
-- [Ultra Librarian joins Flux to take the hard out of hardware](https://www.flux.ai/blog/ultra-librarian-joins-flux-to-take-the-hard-out-of-hardware)
 <!-- BLOG-POST-LIST:END -->
 
 ---
