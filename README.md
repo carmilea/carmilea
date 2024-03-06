@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple EU Antitrust Protest a Weird Thing to Do Just as the DMA Is Taking Effect](https://www.techdirt.com/2024/03/06/apple-doth-protest-too-much-regarding-eu-antitrust-fine-but-its-a-weird-thing-to-do-just-as-the-dma-is-taking-effect/)
-- [Launch HN: Circleback &lpar;YC W24&rpar; – Tooling to make meetings more efficient](https://news.ycombinator.com/item?id=39618640)
-- [U.S. students will take the SAT online](https://www.npr.org/2024/03/05/1235891530/sat-online-digital-test-college)
-- [&#39;We had to educate Oracle about our contract,&#39; CIO says after Big Red audit](https://www.theregister.com/2024/03/06/oracle_audits/)
-- [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring a Platform Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-platform-engineer-remote)
+- [You Don&#39;t Need a Dedicated Cache Service – PostgreSQL as a Cache &lpar;2023&rpar;](https://martinheinz.dev/blog/105)
+- [Ultra Librarian Joins Flux to Take the Hard Out of Hardware](https://www.flux.ai/blog/ultra-librarian-joins-flux-to-take-the-hard-out-of-hardware)
+- [Show HN: Fructose, LLM calls as strongly typed functions](https://github.com/bananaml/fructose)
+- [The end of Airplane.dev](https://yolken.net/blog/end-of-airplanedev)
+- [FDA clears first over-the-counter continuous glucose monitor](https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
