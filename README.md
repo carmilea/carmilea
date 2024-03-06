@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Psychopolitics of Trauma](https://www.astralcodexten.com/p/the-psychopolitics-of-trauma)
+- [Pg_vectorize: The simplest way to do vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)
+- [Tesla halts production at German factory after attack claimed by far-left group](https://www.france24.com/en/europe/20240305-tesla-halts-production-at-german-factory-after-attack-claimed-by-far-left-group)
+- [Network Tunneling with QEMU](https://securelist.com/network-tunneling-with-qemu/111803/)
 - [Birmingham council&#39;s &#39;equal pay&#39; bankruptcy provided cover for Oracle disaster](https://theconversation.com/how-birmingham-city-councils-equal-pay-bankruptcy-provided-cover-for-ongoing-oracle-it-disaster-224416)
 - [Show HN: Piping logs, visualizing in a web app – just suffix &quot;| npx logscreen&quot;](https://github.com/soorajshankar/logScreen)
-- [YaCy, a distributed Web Search Engine, based on a peer-to-peer network](https://yacy.net/)
-- [Alan Kay&#39;s talk at UCLA – Feb 21, 2024 [video]](https://www.youtube.com/watch?v=dZQ7x0-MZcI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
