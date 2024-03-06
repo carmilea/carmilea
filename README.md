@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Psychopolitics of Trauma](https://www.astralcodexten.com/p/the-psychopolitics-of-trauma)
+- [Birmingham council&#39;s &#39;equal pay&#39; bankruptcy provided cover for Oracle disaster](https://theconversation.com/how-birmingham-city-councils-equal-pay-bankruptcy-provided-cover-for-ongoing-oracle-it-disaster-224416)
 - [Show HN: Piping logs, visualizing in a web app – just suffix &quot;| npx logscreen&quot;](https://github.com/soorajshankar/logScreen)
+- [YaCy, a distributed Web Search Engine, based on a peer-to-peer network](https://yacy.net/)
 - [Alan Kay&#39;s talk at UCLA – Feb 21, 2024 [video]](https://www.youtube.com/watch?v=dZQ7x0-MZcI)
-- [Free data transfer out to internet when moving out of AWS](https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/)
-- [Fonts are still a Helvetica of a Problem](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
-- [Leaving LinkedIn: Choosing Engineering Excellence over Expediency](https://corecursive.com/leaving-linkedin-with-chris-krycho/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
