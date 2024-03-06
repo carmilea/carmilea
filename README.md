@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [70 years ago, an H-bomb test went awry. We must never forget the fallout](https://www.washingtonpost.com/opinions/2024/03/05/fallout-nuclear-test-70-years-marshall-islands/)
+- [Donald Knuth – The Patron Saint of Yak Shaves](https://yakshav.es/the-patron-saint-of-yakshaves/)
+- [Sora: Review on Background, Tech, Limits, and Opportunities of Vision Models](https://arxiv.org/abs/2402.17177)
+- [Sugar: An activity-focused, open-source software learning platform for children](https://www.sugarlabs.org/)
 - [The propagation of error in classical geometry constructions &lpar;2018&rpar;](https://jdh.hamkins.org/propagation-of-error-in-classical-geometry-constructions/)
-- [OpenAI and Elon Musk](https://openai.com/blog/openai-elon-musk)
-- [Embedded Swift on the Raspberry Pi Pico](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
-- [Accenture to Acquire Udacity](https://techcrunch.com/2024/03/05/accenture-to-acquire-udacity-to-build-a-learning-platform-focused-on-ai/)
-- [BlackCat ransomware group implodes after apparent payment by Change Healthcare](https://krebsonsecurity.com/2024/03/blackcat-ransomware-group-implodes-after-apparent-22m-ransom-payment-by-change-healthcare/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
