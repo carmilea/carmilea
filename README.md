@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [70 years ago, an H-bomb test went awry. We must never forget the fallout](https://www.washingtonpost.com/opinions/2024/03/05/fallout-nuclear-test-70-years-marshall-islands/)
-- [Donald Knuth – The Patron Saint of Yak Shaves](https://yakshav.es/the-patron-saint-of-yakshaves/)
-- [Sora: Review on Background, Tech, Limits, and Opportunities of Vision Models](https://arxiv.org/abs/2402.17177)
-- [Sugar: An activity-focused, open-source software learning platform for children](https://www.sugarlabs.org/)
-- [The propagation of error in classical geometry constructions &lpar;2018&rpar;](https://jdh.hamkins.org/propagation-of-error-in-classical-geometry-constructions/)
+- [Alan Kay&#39;s talk at UCLA – Feb 21, 2024 [video]](https://www.youtube.com/watch?v=dZQ7x0-MZcI)
+- [Derek Lowe&#39;s Things I Won&#39;t Work With &lpar;Index&rpar;](https://www.science.org/topic/blog-category/things-i-wont-work-with)
+- [Free data transfer out to internet when moving out of AWS](https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/)
+- [Fonts are still a Helvetica of a Problem](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
+- [Leaving LinkedIn: Choosing Engineering Excellence over Expediency](https://corecursive.com/leaving-linkedin-with-chris-krycho/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
