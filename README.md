@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AIs ranked by IQ; AI passes 100 IQ for first time, with release of Claude-3](https://www.maximumtruth.org/p/ais-ranked-by-iq-ai-passes-100-iq)
 - [Tell HN: &quot;Default&quot; FileZilla download bundled with adware](https://filezilla-project.org/)
 - [Welcome to MARCHintosh](https://www.marchintosh.com/)
 - [Pg_vectorize: The simplest way to do vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)
 - [SpaceX just showed us what every day could be like in spaceflight](https://arstechnica.com/space/2024/03/in-less-than-24-hours-spacex-launched-3-rockets-and-tested-another/)
+- [The Psychopolitics of Trauma](https://www.astralcodexten.com/p/the-psychopolitics-of-trauma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
