@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [World War II &#39;Rumor Clinics&#39; Helped America Battle Wild Gossip](https://www.smithsonianmag.com/history/world-war-ii-rumor-clinics-helped-america-battle-wild-gossip-180983883/)
-- [GPS Antenna Mods Make Starlink Terminal Immune to Jammers](https://hackaday.com/2024/03/06/gps-antenna-mods-make-starlink-terminal-immune-to-jammers/)
-- [How likely are chance resemblances between languages? &lpar;2002&rpar;](https://www.zompist.com/chance.htm)
-- [Early American Fire Alarm Systems &lpar;2022&rpar;](https://www.ffam.org/2022/09/17/early-american-fire-alarm-systems/)
-- [You Might Not Need a CRDT: Document Sync in the Wild [video]](https://www.youtube.com/watch?v=0d73MdQkJOk)
+- [&#39;We had to educate Oracle about our contract,&#39; CIO says after Big Red audit](https://www.theregister.com/2024/03/06/oracle_audits/)
+- [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring a Platform Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-platform-engineer-remote)
+- [Worldcoin hit with temporary ban in Spain over privacy concerns](https://techcrunch.com/2024/03/06/worldcoin-spain-ban/)
+- [Worldcoin is now banned in Spain](https://www.elmundo.es/economia/empresas/2024/03/06/65e86b14e9cf4a11128b456f.html)
+- [Medellín&#39;s Green Corridors Are a Breath of Fresh, Cool Air](https://reasonstobecheerful.world/green-corridors-medellin-colombia-urban-heat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
