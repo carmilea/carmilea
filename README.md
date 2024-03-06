@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Hacked Google A.I. for $50k](https://www.landh.tech/blog/20240304-google-hack-50000/)
+- [The Law of Leaky Abstractions &lpar;2002&rpar;](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
+- [Detect when your installed Chrome extensions have changed owners](https://github.com/classvsoftware/under-new-management)
 - [You Don&#39;t Need a Dedicated Cache Service – PostgreSQL as a Cache &lpar;2023&rpar;](https://martinheinz.dev/blog/105)
-- [Ultra Librarian Joins Flux to Take the Hard Out of Hardware](https://www.flux.ai/blog/ultra-librarian-joins-flux-to-take-the-hard-out-of-hardware)
-- [Show HN: Fructose, LLM calls as strongly typed functions](https://github.com/bananaml/fructose)
-- [The end of Airplane.dev](https://yolken.net/blog/end-of-airplanedev)
-- [FDA clears first over-the-counter continuous glucose monitor](https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor)
+- [Ultra Librarian joins Flux to take the hard out of hardware](https://www.flux.ai/blog/ultra-librarian-joins-flux-to-take-the-hard-out-of-hardware)
 <!-- BLOG-POST-LIST:END -->
 
 ---
