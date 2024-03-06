@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple EU Antitrust Protest a Weird Thing to Do Just as the DMA Is Taking Effect](https://www.techdirt.com/2024/03/06/apple-doth-protest-too-much-regarding-eu-antitrust-fine-but-its-a-weird-thing-to-do-just-as-the-dma-is-taking-effect/)
+- [Launch HN: Circleback &lpar;YC W24&rpar; – Tooling to make meetings more efficient](https://news.ycombinator.com/item?id=39618640)
+- [U.S. students will take the SAT online](https://www.npr.org/2024/03/05/1235891530/sat-online-digital-test-college)
 - [&#39;We had to educate Oracle about our contract,&#39; CIO says after Big Red audit](https://www.theregister.com/2024/03/06/oracle_audits/)
 - [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring a Platform Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-platform-engineer-remote)
-- [Worldcoin hit with temporary ban in Spain over privacy concerns](https://techcrunch.com/2024/03/06/worldcoin-spain-ban/)
-- [Worldcoin is now banned in Spain](https://www.elmundo.es/economia/empresas/2024/03/06/65e86b14e9cf4a11128b456f.html)
-- [Medellín&#39;s Green Corridors Are a Breath of Fresh, Cool Air](https://reasonstobecheerful.world/green-corridors-medellin-colombia-urban-heat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
