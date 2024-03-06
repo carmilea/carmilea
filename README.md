@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AIs ranked by IQ; AI passes 100 IQ for first time, with release of Claude-3](https://www.maximumtruth.org/p/ais-ranked-by-iq-ai-passes-100-iq)
+- [Tell HN: &quot;Default&quot; FileZilla download bundled with adware](https://filezilla-project.org/)
+- [Welcome to MARCHintosh](https://www.marchintosh.com/)
 - [Pg_vectorize: The simplest way to do vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)
-- [Tesla halts production at German factory after attack claimed by far-left group](https://www.france24.com/en/europe/20240305-tesla-halts-production-at-german-factory-after-attack-claimed-by-far-left-group)
-- [Network Tunneling with QEMU](https://securelist.com/network-tunneling-with-qemu/111803/)
-- [Birmingham council&#39;s &#39;equal pay&#39; bankruptcy provided cover for Oracle disaster](https://theconversation.com/how-birmingham-city-councils-equal-pay-bankruptcy-provided-cover-for-ongoing-oracle-it-disaster-224416)
-- [Show HN: Piping logs, visualizing in a web app – just suffix &quot;| npx logscreen&quot;](https://github.com/soorajshankar/logScreen)
+- [SpaceX just showed us what every day could be like in spaceflight](https://arstechnica.com/space/2024/03/in-less-than-24-hours-spacex-launched-3-rockets-and-tested-another/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
