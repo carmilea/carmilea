@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9](https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz)
 - [Show HN: Elodin – A better framework for physics simulation](https://github.com/elodin-sys/elodin)
-- [Eqtble &lpar;YC W21&rpar; Is Hiring a Founding Account Executive](https://app.dover.io/apply/8dad4c3d-075e-4164-9a75-6e8f4f9f9902/8d97d6d2-d770-478b-93f3-113431385411/?rs=15190316)
-- [Google and xPrize launch $5M prize to find actual uses for quantum computers](https://www.newscientist.com/article/2420137-google-launches-5m-prize-to-find-actual-uses-for-quantum-computers/)
+- [Eqtble &lpar;YC W21&rpar; is hiring a founding account executive](https://app.dover.io/apply/8dad4c3d-075e-4164-9a75-6e8f4f9f9902/8d97d6d2-d770-478b-93f3-113431385411/?rs=15190316)
 - [We hacked Google A.I.](https://www.landh.tech/blog/20240304-google-hack-50000/)
 - [Show HN: dockerc – Docker image to static executable &quot;compiler&quot;](https://github.com/NilsIrl/dockerc)
 <!-- BLOG-POST-LIST:END -->
