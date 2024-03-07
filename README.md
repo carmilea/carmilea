@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The fastest tool for measuring anything on your screen](https://getpixelsnap.com/)
-- [Signs you&#39;re about to be acquired &lpar;2020&rpar;](https://yolken.net/blog/youre-about-to-be-acquired)
-- [PFAS &#39;forever chemicals&#39; to officially be removed from food packaging, FDA says](https://www.livescience.com/health/food-diet/pfas-forever-chemicals-to-officially-be-removed-from-food-packaging-fda-says)
-- [Minuteman Weapons System History [pdf]](https://minutemanmissile.com/documents/MinutemanWeaponSystemHistoryAndDescription.pdf)
-- [Bob_cassette_rewinder: Renew and Refill Bob Cassettes for 98% Cost Saving](https://github.com/dekuNukem/bob_cassette_rewinder)
+- [BYD launches cheaper Seagull EV with $9,700 starting price tag](https://electrek.co/2024/03/06/byd-launches-cheaper-seagull-ev-9700-price/)
+- [Australian Net Guide magazines – Issue 1, March 1996](https://blog.decryption.net.au/t/australian-net-guide-issue-1-march-1996-cybersex-indigenous-internet-rights-lgbt-resources/152)
+- [S.3819 – Shrinkflation Prevention Act of 2024](https://www.congress.gov/bill/118th-congress/senate-bill/3819/text)
+- [What if AGI is not coming?](https://www.mindprison.cc/p/what-if-agi-is-not-coming)
+- [Japan to revise official romanization rules for first time in 70 years](https://www.japantimes.co.jp/news/2024/03/02/japan/society/japan-romanization-rules-revise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
