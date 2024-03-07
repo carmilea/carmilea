@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ex-Google engineer charged with stealing AI trade secrets](https://apnews.com/article/china-google-justice-department-63156ade1e564d15d92adbef91e9c5da)
-- [The Brotherhood of Morons](https://ludic.mataroa.blog/blog/the-brotherhood-of-morons/)
-- [Fedora Workstation 41 to No Longer Install Gnome X.org Session by Default](https://www.phoronix.com/news/Fedora-41-No-GNOME-Xorg-Install)
-- [Show HN: Flyde – an open-source visual programming language](https://github.com/flydelabs/flyde)
-- [On DMA eve, Google whines, Apple sounds alarms, and TikTok wants out](https://arstechnica.com/tech-policy/2024/03/on-dma-eve-google-whines-apple-sounds-alarms-and-tiktok-wants-out/)
+- [Law enforcement doesn&#39;t want to be &quot;customer service&quot; reps for Meta any more](https://www.wired.com/story/meta-hacked-users-draining-resources/)
+- [Amid explosive demand, America is running out of power](https://www.washingtonpost.com/business/2024/03/07/ai-data-centers-power/)
+- [Hurried Thoughts: You&#39;re Wrong About Tidal-Locking](https://worldbuildingpasta.blogspot.com/2024/03/hurried-thoughts-youre-wrong-about.html)
+- [Eloquent JavaScript 4th edition &lpar;2024&rpar;](https://eloquentjavascript.net/)
+- [The Magic of Bird Brains](https://www.newyorker.com/science/elements/the-magic-of-bird-brains)
 <!-- BLOG-POST-LIST:END -->
 
 ---
