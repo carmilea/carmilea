@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ex-Google engineer charged with stealing AI trade secrets](https://apnews.com/article/china-google-justice-department-63156ade1e564d15d92adbef91e9c5da)
+- [The Brotherhood of Morons](https://ludic.mataroa.blog/blog/the-brotherhood-of-morons/)
+- [Fedora Workstation 41 to No Longer Install Gnome X.org Session by Default](https://www.phoronix.com/news/Fedora-41-No-GNOME-Xorg-Install)
 - [Show HN: Flyde – an open-source visual programming language](https://github.com/flydelabs/flyde)
 - [On DMA eve, Google whines, Apple sounds alarms, and TikTok wants out](https://arstechnica.com/tech-policy/2024/03/on-dma-eve-google-whines-apple-sounds-alarms-and-tiktok-wants-out/)
-- [Total Functional Programming &lpar;2004&rpar; [pdf]](https://ncatlab.org/ufias2012/files/turner.pdf)
-- [Snapdragon 8 Gen 1&#39;s iGPU: Adreno Gets Big](https://chipsandcheese.com/2024/03/05/inside-snapdragon-8-gen-1s-igpu-adreno-gets-big/)
-- [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
 <!-- BLOG-POST-LIST:END -->
 
 ---
