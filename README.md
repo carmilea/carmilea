@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Flyde – an open-source visual programming language](https://github.com/flydelabs/flyde)
+- [On DMA eve, Google whines, Apple sounds alarms, and TikTok wants out](https://arstechnica.com/tech-policy/2024/03/on-dma-eve-google-whines-apple-sounds-alarms-and-tiktok-wants-out/)
 - [Total Functional Programming &lpar;2004&rpar; [pdf]](https://ncatlab.org/ufias2012/files/turner.pdf)
+- [Snapdragon 8 Gen 1&#39;s iGPU: Adreno Gets Big](https://chipsandcheese.com/2024/03/05/inside-snapdragon-8-gen-1s-igpu-adreno-gets-big/)
 - [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
-- [ECJ finds IAB Europe responsible for TCF consent spam popups across the Internet](https://www.iccl.ie/digital-data/european-court-of-justice-finds-iab-europe-responsible-for-tcf-consent-spam-popups-across-the-internet/)
-- [Beautiful SAR images of the ocean reveal shipping lanes, wind farms](https://blog.datadesk.eco/p/sky-lapse-in-two-tone)
-- [Debian 12 is now the base operating system of Bitnami packages](https://blog.bitnami.com/2024/02/debian-12-is-now-base-operating-system.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
