@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Law enforcement doesn&#39;t want to be &quot;customer service&quot; reps for Meta any more](https://www.wired.com/story/meta-hacked-users-draining-resources/)
-- [Amid explosive demand, America is running out of power](https://www.washingtonpost.com/business/2024/03/07/ai-data-centers-power/)
+- [My co-founder wants to bring his wife as a late joining co-founder](https://news.ycombinator.com/item?id=39630722)
+- [The Berkeley Software Distribution](https://www.abortretry.fail/p/the-berkley-software-distribution)
 - [Hurried Thoughts: You&#39;re Wrong About Tidal-Locking](https://worldbuildingpasta.blogspot.com/2024/03/hurried-thoughts-youre-wrong-about.html)
-- [Eloquent JavaScript 4th edition &lpar;2024&rpar;](https://eloquentjavascript.net/)
-- [The Magic of Bird Brains](https://www.newyorker.com/science/elements/the-magic-of-bird-brains)
+- [Source Code for Area 51 &lpar;2005&rpar; by Midway Studios Austin Found at Garage Sale](https://github.com/ProjectDreamland/area51)
+- [Superformula](https://en.wikipedia.org/wiki/Superformula)
 <!-- BLOG-POST-LIST:END -->
 
 ---
