@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bike lanes are good for business](https://www.businessinsider.com/bike-lanes-good-for-business-studies-better-streets-2024-3)
-- [Google Photos and iCloud Photos Alternative Ente Open Sources Its Server Code](https://reclaimthenet.org/google-photos-and-icloud-photos-alternative-ente-open-sources-its-server-code)
-- [The Pile is a 825 GiB diverse, open source language modelling data set](https://pile.eleuther.ai/)
-- [HP Tries Desperately to Make &#39;Printer as a Subscription&#39; a Thing](https://www.techdirt.com/2024/03/07/hp-tries-desperately-to-make-printer-as-a-subscription-a-thing/)
+- [How do computers calculate sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
+- [TikTok users bombard Congressional offices over bill that could ban app](https://www.politico.com/live-updates/2024/03/07/congress/tiktok-users-revolt-00145633)
+- [Launch HN: SiLogy &lpar;YC W24&rpar; – Chip design and verification in the cloud](https://silogy.io/)
+- [The Pile is a 825 GiB diverse, open-source language modelling data set](https://pile.eleuther.ai/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.workatastartup.com/jobs/64008)
 <!-- BLOG-POST-LIST:END -->
 
