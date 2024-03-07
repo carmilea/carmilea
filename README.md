@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dumber Side of Smart People](https://collabfund.com/blog/the-dumber-side-of-smart-people/)
 - [Nikon to acquire RED](https://www.nikon.com/company/news/2024/0307_01.html)
 - [Fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
 - [On the Double-Slit Experiment and Quantum Interference in the Wolfram Model](https://www.wolframphysics.org/bulletins/2020/08/a-short-note-on-the-double-slit-experiment-and-other-quantum-interference-effects-in-the-wolfram-model/)
-- [Australian Net Guide magazines – Issue 1, March 1996](https://blog.decryption.net.au/t/australian-net-guide-issue-1-march-1996-cybersex-indigenous-internet-rights-lgbt-resources/152)
-- [S.3819 – Shrinkflation Prevention Act of 2024](https://www.congress.gov/bill/118th-congress/senate-bill/3819/text)
+- [Australian Net Guide – Issue 1, March 1996](https://blog.decryption.net.au/t/australian-net-guide-issue-1-march-1996-cybersex-indigenous-internet-rights-lgbt-resources/152)
 <!-- BLOG-POST-LIST:END -->
 
 ---
