@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My co-founder wants to bring his wife as a late joining co-founder](https://news.ycombinator.com/item?id=39630722)
-- [The Berkeley Software Distribution](https://www.abortretry.fail/p/the-berkley-software-distribution)
-- [Hurried Thoughts: You&#39;re Wrong About Tidal-Locking](https://worldbuildingpasta.blogspot.com/2024/03/hurried-thoughts-youre-wrong-about.html)
-- [Source Code for Area 51 &lpar;2005&rpar; by Midway Studios Austin Found at Garage Sale](https://github.com/ProjectDreamland/area51)
-- [Superformula](https://en.wikipedia.org/wiki/Superformula)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.workatastartup.com/jobs/64008)
+- [Sweden Is a NATO Member](https://www.government.se/press-releases/2024/03/sweden-is-a-nato-member/)
+- [&quot;AI, no ads please&quot;: 4 words to wipe out $1T](https://12challenges.substack.com/p/ai-no-ads-please-4-words-to-wipe)
+- [You can not simply publicly access private secure links, can you?](https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html)
+- [How the Great Green Wall Is Holding Back the Sahara Desert](https://kottke.org/24/03/how-the-great-green-wall-is-holding-back-the-sahara-desert)
 <!-- BLOG-POST-LIST:END -->
 
 ---
