@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Maria Sibylla Merian&#39;s Metamorphosis Insectorum Surinamensium &lpar;1705&rpar;](https://publicdomainreview.org/collection/merian-metamorphosis/)
 - [How do computers calculate sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
-- [TikTok users bombard Congressional offices over bill that could ban app](https://www.politico.com/live-updates/2024/03/07/congress/tiktok-users-revolt-00145633)
 - [Launch HN: SiLogy &lpar;YC W24&rpar; – Chip design and verification in the cloud](https://silogy.io/)
 - [The Pile is a 825 GiB diverse, open-source language modelling data set](https://pile.eleuther.ai/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.workatastartup.com/jobs/64008)
