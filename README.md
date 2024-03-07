@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Linux Kernel CNA, What Have You Done?](https://amanitasecurity.com/posts/dear-linux-kernel-cna-what-have-you-done/)
+- [EU Probes Apple&#39;s Decision to Shut Down Epic&#39;s Developer Account](https://www.macrumors.com/2024/03/07/eu-probes-apple-termination-epic-account/)
+- [Apple calls Epic &#39;verifiably untrustworthy&#39; and blocks Fortnite and App store](https://www.gamesindustry.biz/apple-calls-epic-verifiably-untrustworthy-and-blocks-bid-to-launch-fortnite-and-mobile-store-on-ios)
 - [Apple&#39;s exclusionary app store scheme: An existential moment for the DMA](https://cepr.org/voxeu/columns/apples-exclusionary-app-store-scheme-existential-moment-digital-markets-act)
 - [OpenAI&#39;s &quot;Own Goal&quot;](https://garymarcus.substack.com/p/openais-own-goal)
-- [The Digital Markets Act is in force What happens now?](https://open-web-advocacy.org/blog/the-digital-markets-act-is-in-force-what-happens-now/)
-- [The Dumber Side of Smart People](https://collabfund.com/blog/the-dumber-side-of-smart-people/)
-- [Nikon to acquire RED](https://www.nikon.com/company/news/2024/0307_01.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
