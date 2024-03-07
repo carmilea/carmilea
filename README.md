@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [Researchers jailbreak AI chatbots with ASCII art](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-jailbreak-ai-chatbots-with-ascii-art-artprompt-bypasses-safety-measures-to-unlock-malicious-queries)
+- [WhatsApp Messaging Interoperability](https://developers.facebook.com/m/messaging-interoperability/)
+- [Ask HN: What is the, currently, best Programming LLM &lpar;copilot&rpar; subscription?](https://news.ycombinator.com/item?id=39633626)
 - [Maria Sibylla Merian&#39;s Metamorphosis Insectorum Surinamensium &lpar;1705&rpar;](https://publicdomainreview.org/collection/merian-metamorphosis/)
-- [How do computers calculate sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
-- [Launch HN: SiLogy &lpar;YC W24&rpar; – Chip design and verification in the cloud](https://silogy.io/)
-- [The Pile is a 825 GiB diverse, open-source language modelling data set](https://pile.eleuther.ai/)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.workatastartup.com/jobs/64008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
