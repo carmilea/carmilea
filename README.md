@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Carl Newport on his PhD experience at MIT: How I learn to concentrate](https://www.newyorker.com/culture/office-space/how-i-learned-to-concentrate)
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- [Researchers jailbreak AI chatbots with ASCII art](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-jailbreak-ai-chatbots-with-ascii-art-artprompt-bypasses-safety-measures-to-unlock-malicious-queries)
+- [Epic access to an Apple developer account was granted through a &quot;click through&quot;](https://arstechnica.com/gaming/2024/03/dma-be-damned-apple-cuts-off-path-to-epic-games-store-fortnite-on-eu-iphones/)
+- [The EU Digital Markets Act Is Here](https://element.io/blog/the-eu-digital-markets-act-is-here/)
 - [WhatsApp Messaging Interoperability](https://developers.facebook.com/m/messaging-interoperability/)
-- [Ask HN: What is the, currently, best Programming LLM &lpar;copilot&rpar; subscription?](https://news.ycombinator.com/item?id=39633626)
-- [Maria Sibylla Merian&#39;s Metamorphosis Insectorum Surinamensium &lpar;1705&rpar;](https://publicdomainreview.org/collection/merian-metamorphosis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
