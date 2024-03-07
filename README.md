@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A &#39;cowboy ski town&#39; where high earners can&#39;t afford a home faces housing battle](https://www.nbcnews.com/politics/economics/cowboy-ski-town-high-earners-cant-afford-home-faces-housing-battle-rcna140429)
-- [Apple Terminated Epic&#39;s Developer Account](https://twitter.com/gergelyorosz/status/1765439068966412591)
+- [PFAS &#39;forever chemicals&#39; to officially be removed from food packaging, FDA says](https://www.livescience.com/health/food-diet/pfas-forever-chemicals-to-officially-be-removed-from-food-packaging-fda-says)
 - [Minuteman Weapons System History [pdf]](https://minutemanmissile.com/documents/MinutemanWeaponSystemHistoryAndDescription.pdf)
 - [NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9](https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz)
-- [Show HN: Known – Semi-smart plant labels](https://www.knownplants.com/)
+- [The Art and History of Lettering Comics](https://kleinletters.com/Blog/the-art-and-history-of-lettering-comics/)
+- [Show HN: Elodin – A better framework for physics simulation](https://github.com/elodin-sys/elodin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
