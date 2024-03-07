@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Carl Newport on his PhD experience at MIT: How I learn to concentrate](https://www.newyorker.com/culture/office-space/how-i-learned-to-concentrate)
+- [Grats: A More Pleasant Way to Build TypeScript GraphQL Servers](https://jordaneldredge.com/blog/grats/)
+- [Genesis of a New Programming Model](https://stealthrocket.tech/blog/genesis-of-a-new-programming-model/)
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- [Epic access to an Apple developer account was granted through a &quot;click through&quot;](https://arstechnica.com/gaming/2024/03/dma-be-damned-apple-cuts-off-path-to-epic-games-store-fortnite-on-eu-iphones/)
-- [The EU Digital Markets Act Is Here](https://element.io/blog/the-eu-digital-markets-act-is-here/)
 - [WhatsApp Messaging Interoperability](https://developers.facebook.com/m/messaging-interoperability/)
+- [Social learning: Collaborative learning with large language models](https://blog.research.google/2024/03/social-learning-collaborative-learning.html?m=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
