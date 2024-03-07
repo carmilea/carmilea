@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Linux Kernel CNA, What Have You Done?](https://amanitasecurity.com/posts/dear-linux-kernel-cna-what-have-you-done/)
-- [EU Probes Apple&#39;s Decision to Shut Down Epic&#39;s Developer Account](https://www.macrumors.com/2024/03/07/eu-probes-apple-termination-epic-account/)
-- [Apple calls Epic &#39;verifiably untrustworthy&#39; and blocks Fortnite and App store](https://www.gamesindustry.biz/apple-calls-epic-verifiably-untrustworthy-and-blocks-bid-to-launch-fortnite-and-mobile-store-on-ios)
-- [Apple&#39;s exclusionary app store scheme: An existential moment for the DMA](https://cepr.org/voxeu/columns/apples-exclusionary-app-store-scheme-existential-moment-digital-markets-act)
-- [OpenAI&#39;s &quot;Own Goal&quot;](https://garymarcus.substack.com/p/openais-own-goal)
+- [Total Functional Programming &lpar;2004&rpar; [pdf]](https://ncatlab.org/ufias2012/files/turner.pdf)
+- [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
+- [ECJ finds IAB Europe responsible for TCF consent spam popups across the Internet](https://www.iccl.ie/digital-data/european-court-of-justice-finds-iab-europe-responsible-for-tcf-consent-spam-popups-across-the-internet/)
+- [Beautiful SAR images of the ocean reveal shipping lanes, wind farms](https://blog.datadesk.eco/p/sky-lapse-in-two-tone)
+- [Debian 12 is now the base operating system of Bitnami packages](https://blog.bitnami.com/2024/02/debian-12-is-now-base-operating-system.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
