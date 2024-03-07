@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PFAS &#39;forever chemicals&#39; to officially be removed from food packaging, FDA says](https://www.livescience.com/health/food-diet/pfas-forever-chemicals-to-officially-be-removed-from-food-packaging-fda-says)
 - [Minuteman Weapons System History [pdf]](https://minutemanmissile.com/documents/MinutemanWeaponSystemHistoryAndDescription.pdf)
+- [Bob_cassette_rewinder: Renew and Refill Bob Cassettes for 98% Cost Saving](https://github.com/dekuNukem/bob_cassette_rewinder)
 - [NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9](https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz)
 - [The Art and History of Lettering Comics](https://kleinletters.com/Blog/the-art-and-history-of-lettering-comics/)
 - [Show HN: Elodin – A better framework for physics simulation](https://github.com/elodin-sys/elodin)
