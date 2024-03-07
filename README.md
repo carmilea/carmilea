@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bike lanes are good for business](https://www.businessinsider.com/bike-lanes-good-for-business-studies-better-streets-2024-3)
+- [Google Photos and iCloud Photos Alternative Ente Open Sources Its Server Code](https://reclaimthenet.org/google-photos-and-icloud-photos-alternative-ente-open-sources-its-server-code)
+- [The Pile is a 825 GiB diverse, open source language modelling data set](https://pile.eleuther.ai/)
+- [HP Tries Desperately to Make &#39;Printer as a Subscription&#39; a Thing](https://www.techdirt.com/2024/03/07/hp-tries-desperately-to-make-printer-as-a-subscription-a-thing/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.workatastartup.com/jobs/64008)
-- [Sweden Is a NATO Member](https://www.government.se/press-releases/2024/03/sweden-is-a-nato-member/)
-- [&quot;AI, no ads please&quot;: 4 words to wipe out $1T](https://12challenges.substack.com/p/ai-no-ads-please-4-words-to-wipe)
-- [You can not simply publicly access private secure links, can you?](https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html)
-- [How the Great Green Wall Is Holding Back the Sahara Desert](https://kottke.org/24/03/how-the-great-green-wall-is-holding-back-the-sahara-desert)
 <!-- BLOG-POST-LIST:END -->
 
 ---
