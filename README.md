@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Self Learners](https://iamautodidact.com)
+- [The Ruin of Mumbai–Asterisk](https://asteriskmag.com/issues/05/the-ruin-of-mumbai)
+- [Show HN: A directory of open source alternatives to proprietary software](https://openalternative.co)
 - [Thierry Breton: Under DMA, there is no room for threats by gatekeepers](https://twitter.com/ThierryBreton/status/1765793776692326891)
+- [The Man in Seat 61](https://www.seat61.com)
 - [Chlorpyrifos: Pesticide tied to brain damage in children](https://usrtk.org/pesticides/chlorpyrifos/)
-- [Show HN: Cylinder HN – View Trending Hacker News and Search Everything](https://cylinder.doforce.xyz)
-- [OpenGFW: an open source implementation of China&#39;s Great Firewall](https://github.com/apernet/OpenGFW)
 <!-- BLOG-POST-LIST:END -->
 
 ---
