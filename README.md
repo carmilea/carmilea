@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;No way to prevent this&quot; say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-22252/)
+- [Reentry of International Space Station Batteries into Earth&#39;s Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39636569)
-- [iPhone owners can leave EU for 30 days before they lose third-party app stores](https://www.imore.com/iphone/apple-confirms-iphone-owners-can-travel-outside-the-eu-for-30-days-before-they-lose-access-to-third-party-app-stores)
-- [Don&#39;t Fuck with Paste](https://github.com/aaronraimist/DontFuckWithPaste)
-- [Inflection-2.5: meet the best personal AI](https://inflection.ai/inflection-2-5)
-- [Gemini and Claudes are killing RAG?](https://zilliz.com/blog/will-retrieval-augmented-generation-RAG-be-killed-by-long-context-LLMs)
+- [Show HN: Manta – A tool for FPGA Debugging and Rapid Prototyping](https://fischermoseley.github.io/manta/)
+- [Metro Stations and Transfers](http://stations.albertguillaumes.cat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
