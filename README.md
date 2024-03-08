@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WWII: Failed novelist becomes a spy for Germany, makes up a fake spy network](https://en.wikipedia.org/wiki/Juan_Pujol_Garc%C3%ADa)
+- [Ribbon Health &lpar;YC S17&rpar; Is Hiring a Web Scraping Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
+- [Learning Lessons From The Cyber-Attack: British Library cyber incident review [pdf]](https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf)
 - [The Ruin of Mumbai–Asterisk](https://asteriskmag.com/issues/05/the-ruin-of-mumbai)
-- [Show HN: A directory of open source alternatives to proprietary software](https://openalternative.co)
-- [Thierry Breton: Under DMA, there is no room for threats by gatekeepers](https://twitter.com/ThierryBreton/status/1765793776692326891)
-- [The Man in Seat 61](https://www.seat61.com)
-- [Chlorpyrifos: Pesticide tied to brain damage in children](https://usrtk.org/pesticides/chlorpyrifos/)
+- [Rolldown: Rollup compatible bundler written in Rust](https://rolldown.rs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
