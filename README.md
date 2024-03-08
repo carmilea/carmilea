@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rathole – A lightweight reverse proxy in Rust like frp and ngrok](https://github.com/rapiz1/rathole)
+- [Why does the `reset` command include a delay?](https://unix.stackexchange.com/questions/335648/why-does-the-reset-command-include-a-delay)
+- [The Greatest Meme Template](https://www.readtrung.com/p/the-greatest-meme-template-ever-ad8)
 - [After Astra loses 99 percent of its value, founders take rocket firm private](https://arstechnica.com/space/2024/03/after-astra-loses-99-percent-of-its-value-founders-take-rocket-firm-private/)
 - [My favourite animation trick: exponential smoothing](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
-- [Akira Toriyama has died](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/)
-- [Fasting-mimicking diet causes markers indicating reduced age and disease risk](https://www.nature.com/articles/s41467-024-45260-9)
-- [Reentry of International Space Station Batteries into Earth&#39;s Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
