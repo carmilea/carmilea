@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Companies continue to export chlorpyrifos from the EU to poorer countries](https://unearthed.greenpeace.org/2023/03/28/eu-banned-pesticide-global-south/)
 - [WWII: Failed novelist becomes a spy for Germany, makes up a fake spy network](https://en.wikipedia.org/wiki/Juan_Pujol_Garc%C3%ADa)
 - [Ribbon Health &lpar;YC S17&rpar; Is Hiring a Web Scraping Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
-- [Learning Lessons From The Cyber-Attack: British Library cyber incident review [pdf]](https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf)
-- [The Ruin of Mumbai–Asterisk](https://asteriskmag.com/issues/05/the-ruin-of-mumbai)
-- [Rolldown: Rollup compatible bundler written in Rust](https://rolldown.rs/)
+- [British Library cyber incident review [pdf]](https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf)
+- [The Ruin of Mumbai](https://asteriskmag.com/issues/05/the-ruin-of-mumbai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
