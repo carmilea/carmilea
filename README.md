@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Companies continue to export chlorpyrifos from the EU to poorer countries](https://unearthed.greenpeace.org/2023/03/28/eu-banned-pesticide-global-south/)
-- [WWII: Failed novelist becomes a spy for Germany, makes up a fake spy network](https://en.wikipedia.org/wiki/Juan_Pujol_Garc%C3%ADa)
-- [Ribbon Health &lpar;YC S17&rpar; Is Hiring a Web Scraping Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
-- [British Library cyber incident review [pdf]](https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf)
-- [The Ruin of Mumbai](https://asteriskmag.com/issues/05/the-ruin-of-mumbai)
+- [Harnessing chaos in Cloudflare offices](https://blog.cloudflare.com/harnessing-office-chaos)
+- [Build Initramfs Rootless](https://blog.izissise.net/posts/initramfs/)
+- [Fishing for oil and meat drives extinction of deepwater sharks and rays](https://www.science.org/doi/10.1126/science.ade9121)
+- [Launch HN: Relari &lpar;YC W24&rpar; – Identify the root cause of problems in LLM apps](https://news.ycombinator.com/item?id=39641105)
+- [Home Lab Beginners guide](https://linuxblog.io/home-lab-beginners-guide-hardware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
