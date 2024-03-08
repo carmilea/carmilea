@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Electronic Arts frags 5% of staff &#39;to grow fandom&#39;](https://www.theregister.com/2024/02/29/ea_bumble_layoffs/)
+- [Superconductivity scandal: the inside story of deception in a physics lab](https://www.nature.com/articles/d41586-024-00716-2)
+- [Impostor Syndrome vs. the Dunning-Kruger Effect](https://raptori.dev/blog/impostor-syndrome-vs-the-dunning-kruger-effect/)
 - [Harnessing chaos in Cloudflare offices](https://blog.cloudflare.com/harnessing-office-chaos)
 - [Build Initramfs Rootless](https://blog.izissise.net/posts/initramfs/)
-- [Fishing for oil and meat drives extinction of deepwater sharks and rays](https://www.science.org/doi/10.1126/science.ade9121)
-- [Launch HN: Relari &lpar;YC W24&rpar; – Identify the root cause of problems in LLM apps](https://news.ycombinator.com/item?id=39641105)
-- [Home Lab Beginners guide](https://linuxblog.io/home-lab-beginners-guide-hardware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
