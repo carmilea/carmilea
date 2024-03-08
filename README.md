@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After Astra loses 99 percent of its value, founders take rocket firm private](https://arstechnica.com/space/2024/03/after-astra-loses-99-percent-of-its-value-founders-take-rocket-firm-private/)
+- [My favourite animation trick: exponential smoothing](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
+- [Akira Toriyama has died](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/)
 - [Fasting-mimicking diet causes markers indicating reduced age and disease risk](https://www.nature.com/articles/s41467-024-45260-9)
 - [Reentry of International Space Station Batteries into Earth&#39;s Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39636569)
-- [Show HN: Manta – A tool for FPGA Debugging and Rapid Prototyping](https://fischermoseley.github.io/manta/)
-- [Metro Stations and Transfers](http://stations.albertguillaumes.cat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
