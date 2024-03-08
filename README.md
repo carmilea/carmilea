@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux 6.9 Set to Drop the Old NTFS File-System Driver](https://www.phoronix.com/news/Linux-6.9-Dropping-Old-NTFS)
-- [Boeing 737 MAX suffers landing gear failure, rolls off runway](https://www.theguardian.com/world/2024/mar/08/boeing-plane-off-runway-houston-texas)
-- [The First Dune Game 32 Years Later: An LGR Retrospective [video]](https://www.youtube.com/watch?v=JvP3d3QB-4k)
-- [Epic says Apple will reinstate developer account](https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/)
-- [NIST staffers revolt against expected appointment of Paul Cristiano to NIST](https://venturebeat.com/ai/nist-staffers-revolt-against-potential-appointment-of-effective-altruist-ai-researcher-to-us-ai-safety-institute/)
+- [Finley &lpar;YC W21&rpar; Is Hiring for Capital Markets Technologists](https://www.finleycms.com/careers/)
+- [Iterate over Parameter Packs in Swift 6.0](https://www.swift.org/blog/pack-iteration/)
+- [Uber must pay wheelchair user $35,000, provide accessible rides](https://vancouversun.com/news/local-news/bc-uber-human-rights-tribunal-ruling)
+- [New York Times is targeting Wordle clones with DMCA takedowns](https://www.theverge.com/2024/3/8/24094234/ny-times-wordle-clones-files-dmca-copyright-takedowns-knockoffs)
+- [How to Design a Tabletop Game](https://stonemaiergames.com/kickstarter/how-to-design-a-tabletop-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
