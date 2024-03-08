@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grats: A More Pleasant Way to Build TypeScript GraphQL Servers](https://jordaneldredge.com/blog/grats/)
-- [Genesis of a New Programming Model](https://stealthrocket.tech/blog/genesis-of-a-new-programming-model/)
-- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- [WhatsApp Messaging Interoperability](https://developers.facebook.com/m/messaging-interoperability/)
-- [Social learning: Collaborative learning with large language models](https://blog.research.google/2024/03/social-learning-collaborative-learning.html?m=1)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39636569)
+- [iPhone owners can leave EU for 30 days before they lose third-party app stores](https://www.imore.com/iphone/apple-confirms-iphone-owners-can-travel-outside-the-eu-for-30-days-before-they-lose-access-to-third-party-app-stores)
+- [Don&#39;t Fuck with Paste](https://github.com/aaronraimist/DontFuckWithPaste)
+- [Inflection-2.5: meet the best personal AI](https://inflection.ai/inflection-2-5)
+- [Gemini and Claudes are killing RAG?](https://zilliz.com/blog/will-retrieval-augmented-generation-RAG-be-killed-by-long-context-LLMs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
