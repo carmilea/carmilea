@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple planning default navigation app setting in iOS 18 for EU users](https://9to5mac.com/2024/03/07/apple-planning-default-navigation-app-setting-in-ios-18-for-eu-users/)
+- [Self Learners](https://iamautodidact.com)
+- [Thierry Breton: Under DMA, there is no room for threats by gatekeepers](https://twitter.com/ThierryBreton/status/1765793776692326891)
+- [Chlorpyrifos: Pesticide tied to brain damage in children](https://usrtk.org/pesticides/chlorpyrifos/)
 - [Show HN: Cylinder HN – View Trending Hacker News and Search Everything](https://cylinder.doforce.xyz)
-- [The AI Gold Rush](https://digitopoly.org/2024/03/07/the-ai-gold-rush/)
 - [OpenGFW: an open source implementation of China&#39;s Great Firewall](https://github.com/apernet/OpenGFW)
-- [Why does the `reset` command include a delay? &lpar;2017&rpar;](https://unix.stackexchange.com/questions/335648/why-does-the-reset-command-include-a-delay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
