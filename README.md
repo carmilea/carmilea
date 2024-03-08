@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Finley &lpar;YC W21&rpar; is hiring capital markets technologists](https://www.finleycms.com/careers/)
-- [Iterate over Parameter Packs in Swift 6.0](https://www.swift.org/blog/pack-iteration/)
-- [New York Times is targeting Wordle clones with DMCA takedowns](https://www.theverge.com/2024/3/8/24094234/ny-times-wordle-clones-files-dmca-copyright-takedowns-knockoffs)
-- [Epic says Apple will reinstate developer account](https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/)
-- [Show HN: Wallstreetlocal – View investments from America&#39;s biggest companies](https://github.com/bruhbruhroblox/wallstreetlocal)
+- [OpenAI: OpenAI announces new members to board of directors](https://openai.com/blog/openai-announces-new-members-to-board-of-directors)
+- [Review completed and Altman, Brockman to continue to lead OpenAI](https://openai.com/blog/review-completed-altman-brockman-to-continue-to-lead-openai)
+- [Tests show high-temperature superconducting magnets are ready for fusion](https://news.mit.edu/2024/tests-show-high-temperature-superconducting-magnets-fusion-ready-0304)
+- [OpenAI board reappoints Altman and adds three other directors](https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/)
+- [Coroutines in JavaScript for Web Components](https://lorenzofox.dev/posts/component-as-infinite-loop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
