@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Electronic Arts frags 5% of staff &#39;to grow fandom&#39;](https://www.theregister.com/2024/02/29/ea_bumble_layoffs/)
+- [Doctor Replied to Your Email. That&#39;ll Cost $25](https://www.wsj.com/health/wellness/doctor-medical-bills-email-37005e32)
+- [Who Still Works from Home?](https://www.nytimes.com/interactive/2024/03/08/business/economy/remote-work-home.html)
+- [NASA Unveils Design for Message Heading to Jupiter&#39;s Moon Europa](https://www.jpl.nasa.gov/news/nasa-unveils-design-for-message-heading-to-jupiters-moon-europa)
 - [Superconductivity scandal: the inside story of deception in a physics lab](https://www.nature.com/articles/d41586-024-00716-2)
-- [Impostor Syndrome vs. the Dunning-Kruger Effect](https://raptori.dev/blog/impostor-syndrome-vs-the-dunning-kruger-effect/)
 - [Harnessing chaos in Cloudflare offices](https://blog.cloudflare.com/harnessing-office-chaos)
-- [Build Initramfs Rootless](https://blog.izissise.net/posts/initramfs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
