@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: wallstreetlocal – View investments from America&#39;s biggest companies](https://github.com/bruhbruhroblox/wallstreetlocal)
-- [Apple restores Epic&#39;s account in the EU](https://twitter.com/TimSweeneyEpic/status/1766158416093798866)
-- [What Luddites can teach us about resisting an automated future](https://www.technologyreview.com/2024/02/28/1088262/luddites-resisting-automated-future-technology/)
-- [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
-- [VS Code: Prompt Editor for LLMs &lpar;GPT4, Llama, Mistral, etc.&rpar;](https://marketplace.visualstudio.com/items?itemName=lastmile-ai.vscode-aiconfig)
+- [Linux 6.9 Set to Drop the Old NTFS File-System Driver](https://www.phoronix.com/news/Linux-6.9-Dropping-Old-NTFS)
+- [Boeing 737 MAX suffers landing gear failure, rolls off runway](https://www.theguardian.com/world/2024/mar/08/boeing-plane-off-runway-houston-texas)
+- [The First Dune Game 32 Years Later: An LGR Retrospective [video]](https://www.youtube.com/watch?v=JvP3d3QB-4k)
+- [Epic says Apple will reinstate developer account](https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/)
+- [NIST staffers revolt against expected appointment of Paul Cristiano to NIST](https://venturebeat.com/ai/nist-staffers-revolt-against-potential-appointment-of-effective-altruist-ai-researcher-to-us-ai-safety-institute/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
