@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The GPT-4 barrier has been smashed](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
-- [Airbnb&#39;s Devastating Effect on Canadian Housing](https://thewalrus.ca/airbnbs-canadian-housing/)
-- [Can We Just Throw in the Towel on Airport Security Theater Already?](https://jalopnik.com/can-we-just-throw-in-the-towel-on-airport-security-thea-1851317340)
+- [Show HN: wallstreetlocal – View investments from America&#39;s biggest companies](https://github.com/bruhbruhroblox/wallstreetlocal)
+- [Apple restores Epic&#39;s account in the EU](https://twitter.com/TimSweeneyEpic/status/1766158416093798866)
 - [What Luddites can teach us about resisting an automated future](https://www.technologyreview.com/2024/02/28/1088262/luddites-resisting-automated-future-technology/)
 - [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
+- [VS Code: Prompt Editor for LLMs &lpar;GPT4, Llama, Mistral, etc.&rpar;](https://marketplace.visualstudio.com/items?itemName=lastmile-ai.vscode-aiconfig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
