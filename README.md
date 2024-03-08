@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Finley &lpar;YC W21&rpar; Is Hiring for Capital Markets Technologists](https://www.finleycms.com/careers/)
+- [Finley &lpar;YC W21&rpar; is hiring capital markets technologists](https://www.finleycms.com/careers/)
 - [Iterate over Parameter Packs in Swift 6.0](https://www.swift.org/blog/pack-iteration/)
-- [Uber must pay wheelchair user $35,000, provide accessible rides](https://vancouversun.com/news/local-news/bc-uber-human-rights-tribunal-ruling)
 - [New York Times is targeting Wordle clones with DMCA takedowns](https://www.theverge.com/2024/3/8/24094234/ny-times-wordle-clones-files-dmca-copyright-takedowns-knockoffs)
-- [How to Design a Tabletop Game](https://stonemaiergames.com/kickstarter/how-to-design-a-tabletop-game/)
+- [Epic says Apple will reinstate developer account](https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/)
+- [Show HN: Wallstreetlocal – View investments from America&#39;s biggest companies](https://github.com/bruhbruhroblox/wallstreetlocal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
