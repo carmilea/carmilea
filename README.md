@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rathole – A lightweight reverse proxy in Rust like frp and ngrok](https://github.com/rapiz1/rathole)
-- [Why does the `reset` command include a delay?](https://unix.stackexchange.com/questions/335648/why-does-the-reset-command-include-a-delay)
-- [The Greatest Meme Template](https://www.readtrung.com/p/the-greatest-meme-template-ever-ad8)
+- [The AI Gold Rush](https://digitopoly.org/2024/03/07/the-ai-gold-rush/)
+- [The Terrifying A.I. Scam That Uses Your Loved One&#39;s Voice](https://www.newyorker.com/science/annals-of-artificial-intelligence/the-terrifying-ai-scam-that-uses-your-loved-ones-voice)
+- [Why does the `reset` command include a delay? &lpar;2017&rpar;](https://unix.stackexchange.com/questions/335648/why-does-the-reset-command-include-a-delay)
 - [After Astra loses 99 percent of its value, founders take rocket firm private](https://arstechnica.com/space/2024/03/after-astra-loses-99-percent-of-its-value-founders-take-rocket-firm-private/)
 - [My favourite animation trick: exponential smoothing](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
 <!-- BLOG-POST-LIST:END -->
