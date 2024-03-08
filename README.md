@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Doctor Replied to Your Email. That&#39;ll Cost $25](https://www.wsj.com/health/wellness/doctor-medical-bills-email-37005e32)
-- [Who Still Works from Home?](https://www.nytimes.com/interactive/2024/03/08/business/economy/remote-work-home.html)
-- [NASA Unveils Design for Message Heading to Jupiter&#39;s Moon Europa](https://www.jpl.nasa.gov/news/nasa-unveils-design-for-message-heading-to-jupiters-moon-europa)
-- [Superconductivity scandal: the inside story of deception in a physics lab](https://www.nature.com/articles/d41586-024-00716-2)
-- [Harnessing chaos in Cloudflare offices](https://blog.cloudflare.com/harnessing-office-chaos)
+- [The GPT-4 barrier has been smashed](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
+- [Airbnb&#39;s Devastating Effect on Canadian Housing](https://thewalrus.ca/airbnbs-canadian-housing/)
+- [Can We Just Throw in the Towel on Airport Security Theater Already?](https://jalopnik.com/can-we-just-throw-in-the-towel-on-airport-security-thea-1851317340)
+- [What Luddites can teach us about resisting an automated future](https://www.technologyreview.com/2024/02/28/1088262/luddites-resisting-automated-future-technology/)
+- [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
