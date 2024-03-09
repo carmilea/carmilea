@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Rust is good for working with Strings](https://old.reddit.com/r/rust/comments/1ba4d6p/why_is_rust_good_for_working_with_strings/)
 - [Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
 - [Planet Vulcan](https://en.wikipedia.org/wiki/Vulcan_(hypothetical_planet))
-- [RC4 with a Deck of Cards](https://www.mail-archive.com/cryptography@wasabisystems.com/msg00065.html)
 - [Sycamore Gap: New life springs from rescued tree](https://www.bbc.com/news/science-environment-68497720)
 - [Differential: Type safe RPC that feels like local functions](https://www.differential.dev)
 <!-- BLOG-POST-LIST:END -->
