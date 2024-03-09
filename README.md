@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude 3 System Prompt](https://twitter.com/amandaaskell/status/1765207842993434880)
+- [Don&#39;t Invent XML Languages &lpar;2006&rpar;](http://www.tbray.org/ongoing/When/200x/2006/01/08/No-New-XML-Languages)
 - [Differential: Type safe RPC that feels like local functions](https://www.differential.dev)
 - [Self-Retrieval: Building an information retrieval system with one LLM](https://arxiv.org/abs/2403.00801)
 - [The Existential Relief of Having Children](https://thelivingfossils.substack.com/p/the-existential-relief-of-having)
