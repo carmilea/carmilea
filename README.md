@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [M3 MacBook Air Peak CPU Temperature Can Reach 114 Degrees Celcius, 33% Slower](https://wccftech.com/m3-macbook-air-severely-throttles-under-load/)
+- [Chinese hacking documents dump offers window into pervasive state surveillance](https://apnews.com/article/china-cybersecurity-leak-document-dump-spying-aac38c75f268b72910a94881ccbb77cb)
+- [Toyota&#39;s Hybrid-First Strategy Is Delivering Big Profits](https://www.nytimes.com/2024/03/09/business/toyotas-hybrid-electric-vehicles.html)
 - [A helicopter and boats to perform a rare ceremony at the Tower of London](https://www.ianvisits.co.uk/articles/a-helicopter-and-boats-to-perform-a-rare-ceremony-at-the-tower-of-london-70761/)
-- [New Research: Are Well-Being Apps Harming Us?](https://foundation.mozilla.org/en/blog/new-research-are-well-being-apps-actually-harming-us/)
 - [Sieve &lpar;YC W22&rpar; Is hiring ML engineers to build AI video models](https://www.sievedata.com/)
-- [STM32 MCU family goes 64-bit with the STM32MP2x &lpar;Cortex-A35&rpar;](https://www.hackster.io/news/stmicro-s-stm32-family-makes-the-64-bit-jump-with-new-edge-ai-3d-capable-stm32mp-parts-2a470d8eb2cb)
-- [SuperC: Parsing All of C by Taming the Preprocessor [pdf]](https://paulgazzillo.com/papers/pldi12.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
