@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Top US cybersecurity agency hacked and forced to take some systems offline](https://www.cnn.com/2024/03/08/politics/top-us-cybersecurity-agency-cisa-hacked/index.html)
-- [Building an Information Retrieval System with One Large Language Model](https://arxiv.org/abs/2403.00801)
-- [Open-Source Screen Recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
-- [A simple dice game shines a bit of light on the psychology of regret](https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/)
-- [Tests show high-temperature superconducting magnets are ready for fusion](https://news.mit.edu/2024/tests-show-high-temperature-superconducting-magnets-fusion-ready-0304)
+- [Claude 3 System Prompt](https://twitter.com/amandaaskell/status/1765207842993434880)
+- [Differential: Type safe RPC that feels like local functions](https://www.differential.dev)
+- [Self-Retrieval: Building an information retrieval system with one LLM](https://arxiv.org/abs/2403.00801)
+- [The Existential Relief of Having Children](https://thelivingfossils.substack.com/p/the-existential-relief-of-having)
+- [TimeLapze: Open-source screen recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
