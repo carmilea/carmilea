@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Head Works in Git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)
-- [Apple will cut off 3rd-party appstore updates if iPhone is not in EU for a month](https://www.theverge.com/2024/3/7/24093437/apple-iphone-third-party-app-store-dma-eu)
+- [Top US cybersecurity agency hacked and forced to take some systems offline](https://www.cnn.com/2024/03/08/politics/top-us-cybersecurity-agency-cisa-hacked/index.html)
+- [Building an Information Retrieval System with One Large Language Model](https://arxiv.org/abs/2403.00801)
+- [How HEAD works in Git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)
 - [Open-Source Screen Recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
 - [Motorola&#39;s legal terms claim to strip owners of their right to sell their device](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a)
-- [Tesla starts shipping $3k Cybertruck tent, looks nothing like what was unveiled](https://electrek.co/2024/03/08/tesla-shipping-cybertruck-tent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
