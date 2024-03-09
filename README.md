@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started as an alternative app marketplace in the European Union](https://developer.apple.com/support/alternative-app-marketplace-in-the-eu/)
-- [Bruno](https://www.usebruno.com/)
-- [Digital Audio Mixer Pt.2](https://blog.brixit.nl/digital-audio-mixer-pt-2/)
+- [Rigid Body Physics in Minecraft without mods [video]](https://www.youtube.com/watch?v=DhCBCudKJTs)
+- [Bruno: Fast and Git-friendly open-source API client &lpar;Postman alternative&rpar;](https://www.usebruno.com/)
 - [Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
 - [What Monks Know about Focus](https://www.millersbookreview.com/p/jamie-kreiner-how-to-focus)
+- [Essential Tremor Linked to Tripled Risk of Dementia, Study Finds](https://scienceblog.com/542898/essential-tremor-linked-to-tripled-risk-of-dementia-study-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
