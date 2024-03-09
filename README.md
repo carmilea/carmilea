@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FDA Designates MM120 &lpar;LSD&rpar; Breakthrough Therapy for Generalized Anxiety Disorder](https://www.businesswire.com/news/home/20240307733599/en/MindMed-Receives-FDA-Breakthrough-Therapy-Designation-and-Announces-Positive-12-Week-Durability-Data-From-Phase-2B-Study-of-MM120-for-Generalized-Anxiety-Disorder)
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39652986)
-- [Show HN: bef – a tool that encodes/decodes interleaved erasure coded streams](https://github.com/gbletr42/bef)
-- [Why star dunes are rarely recognised in the rock record](https://www.nature.com/articles/s41598-024-53485-3)
-- [An ALS Drug Fails. Again](https://www.science.org/content/blog-post/als-drug-fails-again)
+- [Getting started as an alternative app marketplace in the European Union](https://developer.apple.com/support/alternative-app-marketplace-in-the-eu/)
+- [Bruno](https://www.usebruno.com/)
+- [Digital Audio Mixer Pt.2](https://blog.brixit.nl/digital-audio-mixer-pt-2/)
+- [Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
+- [What Monks Know about Focus](https://www.millersbookreview.com/p/jamie-kreiner-how-to-focus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
