@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Generated Data Can Poison Future AI Models](https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/)
-- [Killer drones pioneered in Ukraine are the weapons of the future](https://www.economist.com/leaders/2024/02/08/killer-drones-pioneered-in-ukraine-are-the-weapons-of-the-future)
-- [Will a four-day work week solve Germany&#39;s labour shortage?](https://www.aljazeera.com/economy/2024/3/9/will-a-four-day-work-week-solve-germanys-labour-shortage)
-- [An All-Optical General-Purpose CPU and Optical Computer Architecture](https://arxiv.org/abs/2403.00045)
-- [&quot;I Miss My Liver.&quot; Nonmedical Sources in the History of Hepatocentrism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078213/)
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39652986)
+- [One fan spent three years saving a Final Fantasy game before it shut down](https://www.theverge.com/24094441/final-fantasy-opera-omnia-mobile-game-preservation-square-enix)
+- [A Mistake in a Tesla and a Panicked Final Call: The Death of Angela Chao](https://www.wsj.com/real-estate/angela-chao-death-texas-tesla-safety-c435daa0)
+- [An ALS Drug Fails. Again](https://www.science.org/content/blog-post/als-drug-fails-again)
+- [How to Lose Control of Your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
