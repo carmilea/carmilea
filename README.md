@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rigid Body Physics in Minecraft without mods [video]](https://www.youtube.com/watch?v=DhCBCudKJTs)
+- [Emerge &lpar;YC W21&rpar; is hiring a Growth Engineer &lpar;remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
+- [The Programmer&#39;s Apprentice Project: A Research Overview &lpar;1987&rpar; [pdf]](http://www.semdesigns.com/Company/Publications/ProgrammersApprentice-AIM-1004.pdf)
+- [Scientists built their own Stone Age tools to figure out how they were used](https://arstechnica.com/science/2024/03/these-scientists-built-their-own-stone-age-tools-to-figure-out-how-they-were-used/)
+- [I&#39;m Betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 - [Bruno: Fast and Git-friendly open-source API client &lpar;Postman alternative&rpar;](https://www.usebruno.com/)
-- [Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
-- [What Monks Know about Focus](https://www.millersbookreview.com/p/jamie-kreiner-how-to-focus)
-- [Essential Tremor Linked to Tripled Risk of Dementia, Study Finds](https://scienceblog.com/542898/essential-tremor-linked-to-tripled-risk-of-dementia-study-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
