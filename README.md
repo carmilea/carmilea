@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Top US cybersecurity agency hacked and forced to take some systems offline](https://www.cnn.com/2024/03/08/politics/top-us-cybersecurity-agency-cisa-hacked/index.html)
 - [Building an Information Retrieval System with One Large Language Model](https://arxiv.org/abs/2403.00801)
-- [How HEAD works in Git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)
 - [Open-Source Screen Recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
-- [Motorola&#39;s legal terms claim to strip owners of their right to sell their device](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a)
+- [A simple dice game shines a bit of light on the psychology of regret](https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/)
+- [Tests show high-temperature superconducting magnets are ready for fusion](https://news.mit.edu/2024/tests-show-high-temperature-superconducting-magnets-fusion-ready-0304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
