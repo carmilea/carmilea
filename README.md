@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A helicopter and boats to perform a rare ceremony at the Tower of London](https://www.ianvisits.co.uk/articles/a-helicopter-and-boats-to-perform-a-rare-ceremony-at-the-tower-of-london-70761/)
+- [New Research: Are Well-Being Apps Harming Us?](https://foundation.mozilla.org/en/blog/new-research-are-well-being-apps-actually-harming-us/)
 - [Sieve &lpar;YC W22&rpar; Is hiring ML engineers to build AI video models](https://www.sievedata.com/)
+- [STM32 MCU family goes 64-bit with the STM32MP2x &lpar;Cortex-A35&rpar;](https://www.hackster.io/news/stmicro-s-stm32-family-makes-the-64-bit-jump-with-new-edge-ai-3d-capable-stm32mp-parts-2a470d8eb2cb)
 - [SuperC: Parsing All of C by Taming the Preprocessor [pdf]](https://paulgazzillo.com/papers/pldi12.pdf)
-- [Anomalous contribution to galactic rotation curves due to stochastic spacetime](https://arxiv.org/abs/2402.19459)
-- [Sycamore Gap: New life springs from rescued tree](https://www.bbc.com/news/science-environment-68497720)
-- [Differential: Type safe RPC that feels like local functions](https://www.differential.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
