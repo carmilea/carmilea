@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Obscene Energy Demands of A.I](https://www.newyorker.com/news/daily-comment/the-obscene-energy-demands-of-ai)
-- [Korean researchers&#39; neural AI chip: 625 times less power draw, 41 times smaller](https://www.tomshardware.com/tech-industry/artificial-intelligence/korean-researchers-power-shame-nvidia-with-new-neural-ai-chip-claim-625-times-less-power-41-times-smaller)
-- [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
-- [Gallery of Simple Websites](https://deadsimplesites.com/)
-- [Google/Rulesofthumb](https://nonint.com/2024/01/06/go-rulesofthumb/)
+- [AI-Generated Data Can Poison Future AI Models](https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/)
+- [Killer drones pioneered in Ukraine are the weapons of the future](https://www.economist.com/leaders/2024/02/08/killer-drones-pioneered-in-ukraine-are-the-weapons-of-the-future)
+- [Will a four-day work week solve Germany&#39;s labour shortage?](https://www.aljazeera.com/economy/2024/3/9/will-a-four-day-work-week-solve-germanys-labour-shortage)
+- [An All-Optical General-Purpose CPU and Optical Computer Architecture](https://arxiv.org/abs/2403.00045)
+- [&quot;I Miss My Liver.&quot; Nonmedical Sources in the History of Hepatocentrism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078213/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
