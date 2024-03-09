@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Job interview descended into sweary shouting match, candidate got the gig anyway](https://www.theregister.com/2024/03/08/on_call/)
+- [MKBHD, Fisker, and &quot;the worst car ever reviewed&quot;](https://twitter.com/MorningBrew/status/1766231831345541571)
 - [Sycamore Gap: New life springs from rescued tree](https://www.bbc.com/news/science-environment-68497720)
-- [Don&#39;t Invent XML Languages &lpar;2006&rpar;](http://www.tbray.org/ongoing/When/200x/2006/01/08/No-New-XML-Languages)
 - [Differential: Type safe RPC that feels like local functions](https://www.differential.dev)
 - [Self-Retrieval: Building an information retrieval system with one LLM](https://arxiv.org/abs/2403.00801)
+- [TimeLapze: Open-source screen recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
