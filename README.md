@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MKBHD, Fisker, and &quot;the worst car ever reviewed&quot;](https://twitter.com/MorningBrew/status/1766231831345541571)
 - [Sycamore Gap: New life springs from rescued tree](https://www.bbc.com/news/science-environment-68497720)
 - [Differential: Type safe RPC that feels like local functions](https://www.differential.dev)
 - [Self-Retrieval: Building an information retrieval system with one LLM](https://arxiv.org/abs/2403.00801)
 - [TimeLapze: Open-source screen recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
+- [A simple dice game shines a bit of light on the psychology of regret](https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
