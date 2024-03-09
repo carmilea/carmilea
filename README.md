@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Mystery of Sudden Genius](https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius)
 - [100 Years of Rent Control in Sweden](https://www.betonit.ai/p/100-years-of-rent-control-in-sweden)
 - [Emerge &lpar;YC W21&rpar; is hiring a Growth Engineer &lpar;remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
+- [The Purple Streetscape](https://computer.rip/2024-03-09-the-purple-streetscape.html)
 - [The Programmer&#39;s Apprentice Project: A Research Overview &lpar;1987&rpar; [pdf]](http://www.semdesigns.com/Company/Publications/ProgrammersApprentice-AIM-1004.pdf)
-- [Scientists built their own Stone Age tools to figure out how they were used](https://arstechnica.com/science/2024/03/these-scientists-built-their-own-stone-age-tools-to-figure-out-how-they-were-used/)
-- [Cells from Pregnancy Fluid Used to Grow Mini Lungs, Organs](https://apnews.com/article/mini-organs-organoids-amniotic-fluid-fetus-f5a48564368d2cf383a7eac1371d67cf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
