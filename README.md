@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
+- [Planet Vulcan](https://en.wikipedia.org/wiki/Vulcan_(hypothetical_planet))
+- [RC4 with a Deck of Cards](https://www.mail-archive.com/cryptography@wasabisystems.com/msg00065.html)
 - [Sycamore Gap: New life springs from rescued tree](https://www.bbc.com/news/science-environment-68497720)
 - [Differential: Type safe RPC that feels like local functions](https://www.differential.dev)
-- [Self-Retrieval: Building an information retrieval system with one LLM](https://arxiv.org/abs/2403.00801)
-- [TimeLapze: Open-source screen recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
-- [A simple dice game shines a bit of light on the psychology of regret](https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
