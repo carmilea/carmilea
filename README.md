@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI: OpenAI announces new members to board of directors](https://openai.com/blog/openai-announces-new-members-to-board-of-directors)
-- [Review completed and Altman, Brockman to continue to lead OpenAI](https://openai.com/blog/review-completed-altman-brockman-to-continue-to-lead-openai)
+- [Apple will cut off 3rd-party appstore updates if iPhone is not in EU for a month](https://www.theverge.com/2024/3/7/24093437/apple-iphone-third-party-app-store-dma-eu)
+- [Motorola&#39;s legal terms claim to strip owners of their right to sell their device](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a)
+- [Fear of regret influences our decisions](https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/)
 - [Tests show high-temperature superconducting magnets are ready for fusion](https://news.mit.edu/2024/tests-show-high-temperature-superconducting-magnets-fusion-ready-0304)
 - [OpenAI board reappoints Altman and adds three other directors](https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/)
-- [Coroutines in JavaScript for Web Components](https://lorenzofox.dev/posts/component-as-infinite-loop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
