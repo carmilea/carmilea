@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [M3 MacBook Air Peak CPU Temperature Can Reach 114 Degrees Celcius, 33% Slower](https://wccftech.com/m3-macbook-air-severely-throttles-under-load/)
-- [Chinese hacking documents dump offers window into pervasive state surveillance](https://apnews.com/article/china-cybersecurity-leak-document-dump-spying-aac38c75f268b72910a94881ccbb77cb)
-- [Toyota&#39;s Hybrid-First Strategy Is Delivering Big Profits](https://www.nytimes.com/2024/03/09/business/toyotas-hybrid-electric-vehicles.html)
-- [A helicopter and boats to perform a rare ceremony at the Tower of London](https://www.ianvisits.co.uk/articles/a-helicopter-and-boats-to-perform-a-rare-ceremony-at-the-tower-of-london-70761/)
-- [Sieve &lpar;YC W22&rpar; Is hiring ML engineers to build AI video models](https://www.sievedata.com/)
+- [The Obscene Energy Demands of A.I](https://www.newyorker.com/news/daily-comment/the-obscene-energy-demands-of-ai)
+- [Korean researchers&#39; neural AI chip: 625 times less power draw, 41 times smaller](https://www.tomshardware.com/tech-industry/artificial-intelligence/korean-researchers-power-shame-nvidia-with-new-neural-ai-chip-claim-625-times-less-power-41-times-smaller)
+- [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
+- [Gallery of Simple Websites](https://deadsimplesites.com/)
+- [Google/Rulesofthumb](https://nonint.com/2024/01/06/go-rulesofthumb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
