@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bell Labs: An Institute of Creative Technology &lpar;2015&rpar;](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
 - [E-Bikes Overtake Buggies for Some Amish &lpar;2021&rpar;](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
+- [Justice Dept. opens criminal probe of mid-flight blowout on 737 MAX plane](https://www.washingtonpost.com/transportation/2024/03/09/justice-department-investigation-boeing-max-accident/)
 - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 - [My Clients, the Liars](https://www.lesswrong.com/posts/h99tRkpQGxwtb9Dpv/my-clients-the-liars)
-- [Argentina inflation seen cooling as Milei austerity tempers food prices](https://www.reuters.com/world/americas/argentina-inflation-seen-cooling-milei-austerity-tempers-food-prices-2024-03-08/)
-- [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
