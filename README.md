@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Did you turn off Google activity tracking?](https://myactivity.google.com/?continue=https://myactivity.google.com/myactivity)
-- [Yi: Open Foundation Models by 01.ai](https://arxiv.org/abs/2403.04652)
+- [Yi: Open Foundation Models by 01.AI](https://arxiv.org/abs/2403.04652)
+- [Profession by Isaac Asimov &lpar;1957&rpar;](https://www.abelard.org/asimov.php)
+- [Icelandic Approved Names – Nordic Names](https://www.nordicnames.de/wiki/Icelandic_Approved_Names)
 - [Tenstorrent unveils Grayskull, its RISC-V answer to GPUs](https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus)
 - [Kākāpō – A web bundler for Nix strings with context](https://github.com/adisbladis/kakapo)
-- [Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning](https://github.com/KhoomeiK/LlamaGym)
 <!-- BLOG-POST-LIST:END -->
 
 ---
