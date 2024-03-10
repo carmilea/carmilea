@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacker News Stats: 2007–2022](https://my.causal.app/models/214226)
+- [Man behind viral fake currency shocked by its success](https://www.bbc.com/news/world-africa-68499438)
+- [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
 - [Both pilots of an A320 fell asleep in the cockpit for 28 minutes](https://airlive.net/reports/2024/03/09/report-both-pilots-of-an-a320-fall-asleep-in-the-cockpit-for-28-minutes/)
 - [The Mystery of Sudden Genius](https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius)
-- [Emerge &lpar;YC W21&rpar; is hiring a Growth Engineer &lpar;remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
-- [The Purple Streetscape](https://computer.rip/2024-03-09-the-purple-streetscape.html)
-- [The Programmer&#39;s Apprentice Project: A Research Overview &lpar;1987&rpar; [pdf]](http://www.semdesigns.com/Company/Publications/ProgrammersApprentice-AIM-1004.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
