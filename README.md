@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Numbers every programmer should know](https://samwho.dev/numbers/?fo)
-- [Insurance Buys the Wheelchair, but Not the App to Run It](https://hackaday.com/2024/03/09/the-insurance-buys-the-wheelchair-but-not-the-app-to-run-it/)
 - [Bell Labs: An Institute of Creative Technology &lpar;2015&rpar;](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
 - [E-Bikes Overtake Buggies for Some Amish &lpar;2021&rpar;](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
-- [Justice Dept. opens criminal probe of mid-flight blowout on 737 MAX plane](https://www.washingtonpost.com/transportation/2024/03/09/justice-department-investigation-boeing-max-accident/)
+- [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
+- [My Clients, the Liars](https://www.lesswrong.com/posts/h99tRkpQGxwtb9Dpv/my-clients-the-liars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
