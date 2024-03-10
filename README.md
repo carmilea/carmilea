@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yi: Open Foundation Models by 01.AI](https://arxiv.org/abs/2403.04652)
-- [Profession by Isaac Asimov &lpar;1957&rpar;](https://www.abelard.org/asimov.php)
-- [Icelandic Approved Names – Nordic Names](https://www.nordicnames.de/wiki/Icelandic_Approved_Names)
-- [Tenstorrent unveils Grayskull, its RISC-V answer to GPUs](https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus)
-- [Kākāpō – A web bundler for Nix strings with context](https://github.com/adisbladis/kakapo)
+- [How Far Are We from Intelligent Visual Deductive Reasoning?](https://arxiv.org/abs/2403.04732)
+- [Development of a Low-Density Waste-Based Geopolymer Construction Material](https://www.mdpi.com/2075-5309/14/3/684)
+- [The FT&#39;s chief executive on AI, &quot;loyalist&quot; readers, and its U.S. expansion](https://www.niemanlab.org/2024/03/dont-expect-help-from-the-disruptors-the-fts-chief-executive-on-ai-loyalist-readers-and-its-u-s-expansion/)
+- [Canada faces a series of crises that will test it in the coming years, RCMP warn](https://www.cbc.ca/news/politics/rcmp-police-future-trends-1.7138046)
+- [Technical Skills Are Overrated. Focus on Your Attitude](https://www.scarletink.com/p/technical-skills-are-overrated-focus-on-your-attitude)
 <!-- BLOG-POST-LIST:END -->
 
 ---
