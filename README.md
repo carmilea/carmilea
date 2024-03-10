@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Both pilots of an A320 fell asleep in the cockpit for 28 minutes](https://airlive.net/reports/2024/03/09/report-both-pilots-of-an-a320-fall-asleep-in-the-cockpit-for-28-minutes/)
 - [The Mystery of Sudden Genius](https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius)
-- [100 Years of Rent Control in Sweden](https://www.betonit.ai/p/100-years-of-rent-control-in-sweden)
 - [Emerge &lpar;YC W21&rpar; is hiring a Growth Engineer &lpar;remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
 - [The Purple Streetscape](https://computer.rip/2024-03-09-the-purple-streetscape.html)
 - [The Programmer&#39;s Apprentice Project: A Research Overview &lpar;1987&rpar; [pdf]](http://www.semdesigns.com/Company/Publications/ProgrammersApprentice-AIM-1004.pdf)
