@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Man behind viral fake currency shocked by its success](https://www.bbc.com/news/world-africa-68499438)
 - [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
 - [Iris &lpar;Infra-Red, in Situ&rpar; Project Updates](https://www.bunniestudios.com/blog/?p=6937)
 - [The Mystery of Sudden Genius](https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius)
 - [Emerge &lpar;YC W21&rpar; is hiring a Growth Engineer &lpar;remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
+- [The Purple Streetscape](https://computer.rip/2024-03-09-the-purple-streetscape.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
