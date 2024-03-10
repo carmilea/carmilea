@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PaperMC/Paper: The most widely used, high performance Minecraft server](https://github.com/PaperMC/Paper)
-- [The Fashion Police in 16th-century Italy](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
-- [Rebuilding Memchess.com from Its Archive](https://grondilu.github.io/memchess/)
-- [Show HN: Timelock.dev – Send a secret into the future using timelock encryption](https://timelock.dev/)
-- [How far are we from intelligent visual deductive reasoning?](https://arxiv.org/abs/2403.04732)
+- [The 1970s Computer: A Slice of Computing](https://hackaday.com/2024/03/06/the-1970s-computer-a-slice-of-computing/)
+- [Controlling 3.6kW of Solar EV Charging with an Arduino GIGA R1 WiFi](https://blog.arduino.cc/2024/03/04/controlling-3-6kw-of-solar-ev-charging-with-an-arduino-giga-r1-wifi/)
+- [The Fashion Police in 16th-century Italy &lpar;2014&rpar;](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
+- [Rebuilding memchess.com from its archive](https://grondilu.github.io/memchess/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
