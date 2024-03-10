@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PaperMC/Paper: The most widely used, high performance Minecraft server](https://github.com/PaperMC/Paper)
+- [The Fashion Police in 16th-century Italy](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
 - [Rebuilding Memchess.com from Its Archive](https://grondilu.github.io/memchess/)
-- [A.I. Is Learning What It Means to Be Alive](https://www.nytimes.com/2024/03/10/science/ai-learning-biology.html)
+- [Show HN: Timelock.dev – Send a secret into the future using timelock encryption](https://timelock.dev/)
 - [How far are we from intelligent visual deductive reasoning?](https://arxiv.org/abs/2403.04732)
-- [Development of a Low-Density Waste-Based Geopolymer Construction Material](https://www.mdpi.com/2075-5309/14/3/684)
-- [The FT&#39;s chief executive on AI, &quot;loyalist&quot; readers, and its U.S. expansion](https://www.niemanlab.org/2024/03/dont-expect-help-from-the-disruptors-the-fts-chief-executive-on-ai-loyalist-readers-and-its-u-s-expansion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
