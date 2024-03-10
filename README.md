@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Windows 1.0 site – everything there is to know about the first Windows version](https://win1.krnl386.com/)
 - [Numbers every programmer should know](https://samwho.dev/numbers/?fo)
+- [SQLite on macOS: Not ACID compliant with the bundled version &lpar;2022&rpar;](https://bonsaidb.io/blog/acid-on-apple/)
 - [Bell Labs: An Institute of Creative Technology &lpar;2015&rpar;](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
-- [E-Bikes Overtake Buggies for Some Amish &lpar;2021&rpar;](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
-- [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
-- [My Clients, the Liars](https://www.lesswrong.com/posts/h99tRkpQGxwtb9Dpv/my-clients-the-liars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
