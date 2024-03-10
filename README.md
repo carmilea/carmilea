@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: When will LLMs be able to interrupt or interject?](https://news.ycombinator.com/item?id=39659087)
-- [Refuted papers continue to be cited more than their failed replications](https://statmodeling.stat.columbia.edu/2024/03/10/refuted-papers-continue-to-be-cited-more-than-their-failed-replications-can-a-new-search-engine-be-built-that-will-fix-this-problem/)
+- [Ask HN: Did you turn off Google activity tracking?](https://myactivity.google.com/?continue=https://myactivity.google.com/myactivity)
+- [Yi: Open Foundation Models by 01.ai](https://arxiv.org/abs/2403.04652)
 - [Tenstorrent unveils Grayskull, its RISC-V answer to GPUs](https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus)
 - [Kākāpō – A web bundler for Nix strings with context](https://github.com/adisbladis/kakapo)
 - [Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning](https://github.com/KhoomeiK/LlamaGym)
