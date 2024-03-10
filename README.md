@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
+- [Numbers every programmer should know](https://samwho.dev/numbers/?fo)
 - [Insurance Buys the Wheelchair, but Not the App to Run It](https://hackaday.com/2024/03/09/the-insurance-buys-the-wheelchair-but-not-the-app-to-run-it/)
 - [Bell Labs: An Institute of Creative Technology &lpar;2015&rpar;](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
 - [E-Bikes Overtake Buggies for Some Amish &lpar;2021&rpar;](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
