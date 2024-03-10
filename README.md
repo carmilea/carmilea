@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US not hiding aliens or UFO technology from the public, Pentagon says](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)
+- [Cannabis use associated with 96% decreased odds of subjective cognitive decline](https://www.eurekaselect.com/article/138726)
+- [Tenstorrent unveils Grayskull, its RISC-V answer to GPUs](https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus)
+- [Proton AG of ProtonMail can provide FBI with your account recovery email](https://fxtwitter.com/monetaryreset/status/1691446834655535105)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Windows 1.0 site – everything there is to know about the first Windows version](https://win1.krnl386.com/)
-- [Iris &lpar;Infra-Red, in Situ&rpar; Silicon Verification Project Updates](https://www.bunniestudios.com/blog/?p=6937)
-- [Numbers every programmer should know](https://samwho.dev/numbers/?fo)
+- [Sixty Four is a beautiful system design toy that reveals something rather dark](https://arstechnica.com/gaming/2024/03/sixty-four-is-an-idle-clicker-a-factory-sim-and-a-dark-extractive-journey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
