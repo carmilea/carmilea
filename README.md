@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
+- [The Best Essay](https://paulgraham.com/best.html)
+- [My Guide to Software Engineering Contracting in UK](https://codedeepdives.com/blog/guide-to-software-engineer-contracting-in-uk)
+- [Using PostgreSQL for military geoanalytics tasks](https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)
 - [PaperMC/Paper: The most widely used, high performance Minecraft server](https://github.com/PaperMC/Paper)
-- [The 1970s Computer: A Slice of Computing](https://hackaday.com/2024/03/06/the-1970s-computer-a-slice-of-computing/)
-- [Controlling 3.6kW of Solar EV Charging with an Arduino GIGA R1 WiFi](https://blog.arduino.cc/2024/03/04/controlling-3-6kw-of-solar-ev-charging-with-an-arduino-giga-r1-wifi/)
-- [The Fashion Police in 16th-century Italy &lpar;2014&rpar;](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
-- [Rebuilding memchess.com from its archive](https://grondilu.github.io/memchess/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
