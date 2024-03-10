@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cannabis use associated with 96% decreased odds of subjective cognitive decline](https://www.eurekaselect.com/article/138726)
+- [Ask HN: When will LLMs be able to interrupt or interject?](https://news.ycombinator.com/item?id=39659087)
+- [Refuted papers continue to be cited more than their failed replications](https://statmodeling.stat.columbia.edu/2024/03/10/refuted-papers-continue-to-be-cited-more-than-their-failed-replications-can-a-new-search-engine-be-built-that-will-fix-this-problem/)
 - [Tenstorrent unveils Grayskull, its RISC-V answer to GPUs](https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus)
-- [Proton AG of ProtonMail can provide FBI with your account recovery email](https://fxtwitter.com/monetaryreset/status/1691446834655535105)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Sixty Four is a beautiful system design toy that reveals something rather dark](https://arstechnica.com/gaming/2024/03/sixty-four-is-an-idle-clicker-a-factory-sim-and-a-dark-extractive-journey/)
+- [Kākāpō – A web bundler for Nix strings with context](https://github.com/adisbladis/kakapo)
+- [Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning](https://github.com/KhoomeiK/LlamaGym)
 <!-- BLOG-POST-LIST:END -->
 
 ---
