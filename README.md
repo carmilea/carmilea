@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
+- [Nvidia is sued by authors over AI use of copyrighted works](https://www.reuters.com/technology/nvidia-is-sued-by-authors-over-ai-use-copyrighted-works-2024-03-10/)
 - [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 - [The Best Essay](https://paulgraham.com/best.html)
 - [My Guide to Software Engineering Contracting in UK](https://codedeepdives.com/blog/guide-to-software-engineer-contracting-in-uk)
-- [Using PostgreSQL for military geoanalytics tasks](https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)
-- [PaperMC/Paper: The most widely used, high performance Minecraft server](https://github.com/PaperMC/Paper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
