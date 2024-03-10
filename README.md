@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [E-Bikes Overtake Buggies for Some Amish &lpar;2021&rpar;](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
+- [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
+- [My Clients, the Liars](https://www.lesswrong.com/posts/h99tRkpQGxwtb9Dpv/my-clients-the-liars)
+- [Argentina inflation seen cooling as Milei austerity tempers food prices](https://www.reuters.com/world/americas/argentina-inflation-seen-cooling-milei-austerity-tempers-food-prices-2024-03-08/)
 - [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
-- [The Mystery of Sudden Genius](https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius)
-- [Emerge &lpar;YC W21&rpar; is hiring a Growth Engineer &lpar;remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
-- [The Purple Streetscape](https://computer.rip/2024-03-09-the-purple-streetscape.html)
-- [The Programmer&#39;s Apprentice Project: A Research Overview &lpar;1987&rpar; [pdf]](http://www.semdesigns.com/Company/Publications/ProgrammersApprentice-AIM-1004.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
