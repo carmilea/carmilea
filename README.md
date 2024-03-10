@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US not hiding aliens or UFO technology from the public, Pentagon says](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [Windows 1.0 site – everything there is to know about the first Windows version](https://win1.krnl386.com/)
+- [Iris &lpar;Infra-Red, in Situ&rpar; Silicon Verification Project Updates](https://www.bunniestudios.com/blog/?p=6937)
 - [Numbers every programmer should know](https://samwho.dev/numbers/?fo)
-- [SQLite on macOS: Not ACID compliant with the bundled version &lpar;2022&rpar;](https://bonsaidb.io/blog/acid-on-apple/)
-- [Bell Labs: An Institute of Creative Technology &lpar;2015&rpar;](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
