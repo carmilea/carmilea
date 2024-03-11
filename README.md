@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Alexandre-Théophile Vandermonde &lpar;2001&rpar;](https://mathshistory.st-andrews.ac.uk/Biographies/Vandermonde/)
+- [Is Delphi a Memory Safe Language?](https://blogs.embarcadero.com/is-delphi-a-memory-safe-language/)
 - [Jupiter&#39;s ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
+- [Roku&#39;s New TOS Makes It Nearly Impossible to Sue the Company](https://www.lifewire.com/roku-tos-update-8606211)
 - [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
-- [Of course AI is extractive, everything is lately](https://coryd.dev/posts/2024/of-course-ai-is-extractive-everything-is-lately/)
-- [LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
