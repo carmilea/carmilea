@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [See &#39;horned&#39; comet 12P/Pons-Brooks in the night sky](https://www.space.com/comet-12p-pons-brooks-march-2024)
+- [Roku Confirms Data Breach of 15,000 Customers](https://www.claimdepot.com/data-breach/roku)
+- [A Swimming Dinosaur? Maybe Not, Study Says](https://www.nytimes.com/2024/03/06/science/spinosaurus-dinosaur-fossil-dive.html)
 - [Webb and Hubble confirm Universe&#39;s expansion rate](https://www.esa.int/ESA_Multimedia/Images/2024/03/Webb_Hubble_confirm_Universe_s_expansion_rate)
 - [OpenPlotter](https://openmarine.net/openplotter)
-- [Google&#39;s Threat Model for Post-Quantum Cryptography](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography)
-- [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
-- [The later we meet someone in a sequence, the more negatively we describe them](https://suchscience.org/people-encountered-later-in-a-sequence-described-more-negatively/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
