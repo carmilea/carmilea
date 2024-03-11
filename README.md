@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microplastics linked to heart attack, stroke and death](https://www.scientificamerican.com/article/microplastics-linked-to-heart-attack-stroke-and-death/)
+- [Another open-core project rejecting PR citing paid feature](https://github.com/ToolJet/ToolJet/pull/2303)
+- [The Zayed Sustainability Prize has launched a US$600K award for Climate Action](https://www.wired.com/sponsored/story/zayed-sustainability-prize/)
+- [Radical idea to protect &#39;doomsday&#39; Thwaites Glacier with 62-mile long curtain](https://news.sky.com/story/scientists-on-radical-idea-to-protect-doomsday-thwaites-glacier-with-62-mile-long-curtain-13088357)
+- [Open-source Rust-based RAG](https://github.com/devflowinc/trieve)
 - [Jupiter&#39;s ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
-- [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
-- [LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
-- [Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
