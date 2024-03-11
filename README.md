@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
+- [How to Speak [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
+- [The GIL can now be disabled in Python&#39;s main branch](https://github.com/python/cpython/pull/116338)
+- [Improving Performance in Firefox and Across the Web with Speedometer 3](https://hacks.mozilla.org/2024/03/improving-performance-in-firefox-and-across-the-web-with-speedometer-3/)
 - [How we engineer feedback at Figma with eng crits](https://www.figma.com/blog/how-we-run-eng-crits-at-figma/)
-- [Airbnb is banning indoor security cameras](https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban)
-- [Intel Gaudi2 chips outperform Nvidia H100 on diffusion transformers](https://stability.ai/news/putting-the-ai-supercomputer-to-work)
-- [Launch HN: Onedoc &lpar;YC W24&rpar; – A better way to create PDFs](https://news.ycombinator.com/item?id=39668962)
-- [Execute formulas stored in database fields with almost standard SQL](https://www.colbert.nl/formulas-in-fields/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
