@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EDPS: European Commission&#39;s use of Microsoft 365 infringes data protection law [pdf]](https://www.edps.europa.eu/system/files/2024-03/EDPS-2024-05-European-Commission_s-use-of-M365-infringes-data-protection-rules-for-EU-institutions-and-bodies_EN.pdf)
-- [Latam Airlines: 12 treated in New Zealand after mid-air &#39;technical&#39; issue](https://www.bbc.com/news/world-asia-68488418)
-- [AI chatbots found to use racist stereotypes even after anti-racism training](https://techxplore.com/news/2024-03-ai-chatbots-racist-stereotypes-anti.html)
-- [A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
-- [Maybe Functions](https://blog.benwinding.com/maybe-functions/)
+- [The new croissant taking Paris by storm](https://www.bbc.com/travel/article/20240305-the-surprisingly-complicated-history-of-the-croissant)
+- [Fern &lpar;YC W23&rpar; is hiring a deployed engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/6J4HE6G-deployed-engineer)
+- [Automakers Are Sharing Consumers&#39; Driving Behavior with Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html)
+- [Flowers for Algernon &lpar;1965&rpar; [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
+- [SQLPage – Building a full web application with nothing but SQL queries [video]](https://www.youtube.com/watch?v=mXdgmSdaXkg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
