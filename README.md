@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How we engineer feedback at Figma with eng crits](https://www.figma.com/blog/how-we-run-eng-crits-at-figma/)
+- [Airbnb is banning indoor security cameras](https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban)
+- [Intel Gaudi2 chips outperform Nvidia H100 on diffusion transformers](https://stability.ai/news/putting-the-ai-supercomputer-to-work)
 - [Launch HN: Onedoc &lpar;YC W24&rpar; – A better way to create PDFs](https://news.ycombinator.com/item?id=39668962)
 - [Execute formulas stored in database fields with almost standard SQL](https://www.colbert.nl/formulas-in-fields/)
-- [The Secret Life of XY Monitors](https://www.jmargolin.com/xy/xymon.htm)
-- [What Extropic Is Building](https://www.extropic.ai/future)
-- [GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
 <!-- BLOG-POST-LIST:END -->
 
 ---
