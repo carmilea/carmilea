@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kate image withdrawn by three news agencies amid &#39;manipulation&#39; concerns](https://www.bbc.com/news/uk-68526972)
+- [Alexandre-Théophile Vandermonde &lpar;2001&rpar;](https://mathshistory.st-andrews.ac.uk/Biographies/Vandermonde/)
+- [Jupiter&#39;s ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
 - [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
-- [Lead in gasoline blunted IQ of half the U.S. population, study says](https://www.nbcnews.com/health/health-news/lead-gasoline-blunted-iq-half-us-population-study-rcna19028)
 - [Of course AI is extractive, everything is lately](https://coryd.dev/posts/2024/of-course-ai-is-extractive-everything-is-lately/)
 - [LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
 <!-- BLOG-POST-LIST:END -->
