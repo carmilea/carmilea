@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: RE3 – Reversed Engineered GTA3 Source Code](https://github.com/halpz/re3)
+- [Pirate IPTV Co. &amp; Seven Workers Fined After Raids Eight Years Ago](https://torrentfreak.com/pirate-iptv-co-7-workers-fined-after-massive-raids-8-years-ago-240306/)
+- [How to Write a &lpar;Lisp&rpar; Interpreter &lpar;In Python&rpar; &lpar;2010&rpar;](https://www.norvig.com/lispy.html)
 - [Speech and Language Processing &lpar;3rd ed. draft&rpar;](https://web.stanford.edu/~jurafsky/slp3/)
-- [Use the Index, Luke](https://use-the-index-luke.com/)
 - [AMD announces the Spartan UltraScale+ FPGA family](https://www.cnx-software.com/2024/03/08/amd-announces-the-spartan-ultrascale-fpga-family-for-cost-sensitive-and-io-intensive-applications/)
 - [Jupiter&#39;s ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
 <!-- BLOG-POST-LIST:END -->
