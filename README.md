@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding &quot;before:2023&quot; improves Google web searches](https://mastodon.social/@gulovsen/112051692995026577)
+- [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
+- [Show HN: I made Vinlo – Spinning artwork video for your music](https://vinlo.co)
 - [Kdenlive 24.02 open source video editor released](https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/)
 - [Rnote – An open-source vector-based drawing app](https://rnote.flxzt.net/)
 - [Gemma doesn&#39;t suck anymore – 8 bug fixes](https://colab.research.google.com/drive/1fxDWAfPIbC-bHwDSVj5SBmEJ6KG3bUu5?usp=sharing)
-- [JSON Canvas – An open file format for infinite canvas data](https://jsoncanvas.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
