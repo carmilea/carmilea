@@ -57,8 +57,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: RE3 – Reversed Engineered GTA3 Source Code](https://github.com/halpz/re3)
+- [Speech and Language Processing &lpar;3rd ed. draft&rpar;](https://web.stanford.edu/~jurafsky/slp3/)
 - [The Zayed Sustainability Prize has launched a US$600K award for Climate Action](https://www.wired.com/sponsored/story/zayed-sustainability-prize/)
-- [Radical idea to protect &#39;doomsday&#39; Thwaites Glacier with 62-mile long curtain](https://news.sky.com/story/scientists-on-radical-idea-to-protect-doomsday-thwaites-glacier-with-62-mile-long-curtain-13088357)
 - [Open-source Rust-based RAG](https://github.com/devflowinc/trieve)
 - [AMD announces the Spartan UltraScale+ FPGA family](https://www.cnx-software.com/2024/03/08/amd-announces-the-spartan-ultrascale-fpga-family-for-cost-sensitive-and-io-intensive-applications/)
 <!-- BLOG-POST-LIST:END -->
