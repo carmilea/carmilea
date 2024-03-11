@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
-- [How to Speak [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
-- [The GIL can now be disabled in Python&#39;s main branch](https://github.com/python/cpython/pull/116338)
-- [Improving Performance in Firefox and Across the Web with Speedometer 3](https://hacks.mozilla.org/2024/03/improving-performance-in-firefox-and-across-the-web-with-speedometer-3/)
-- [How we engineer feedback at Figma with eng crits](https://www.figma.com/blog/how-we-run-eng-crits-at-figma/)
+- [Kdenlive 24.02 open source video editor released](https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/)
+- [Rnote – An open-source vector-based drawing app](https://rnote.flxzt.net/)
+- [The Anarchists of Dune](https://theanarchistlibrary.org/library/the-transmetropolitan-review-the-anarchists-of-dune)
+- [JSON Canvas – An open file format for infinite canvas data](https://jsoncanvas.org/)
+- [Are We Watching the Internet Die?](https://www.wheresyoured.at/are-we-watching-the-internet-die/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
