@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kate image withdrawn by three news agencies amid &#39;manipulation&#39; concerns](https://www.bbc.com/news/uk-68526972)
 - [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
-- [Nvidia is sued by authors over AI use of copyrighted works](https://www.reuters.com/technology/nvidia-is-sued-by-authors-over-ai-use-copyrighted-works-2024-03-10/)
-- [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
-- [The Best Essay](https://paulgraham.com/best.html)
-- [My Guide to Software Engineering Contracting in UK](https://codedeepdives.com/blog/guide-to-software-engineer-contracting-in-uk)
+- [Lead in gasoline blunted IQ of half the U.S. population, study says](https://www.nbcnews.com/health/health-news/lead-gasoline-blunted-iq-half-us-population-study-rcna19028)
+- [Of course AI is extractive, everything is lately](https://coryd.dev/posts/2024/of-course-ai-is-extractive-everything-is-lately/)
+- [LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
