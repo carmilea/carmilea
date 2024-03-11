@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Did the whole pairdrop repo just vanished? #356](https://github.com/fm-sys/snapdrop-android/issues/356)
 - [Show HN: RE3 – Reversed Engineered GTA3 Source Code](https://github.com/halpz/re3)
 - [Speech and Language Processing &lpar;3rd ed. draft&rpar;](https://web.stanford.edu/~jurafsky/slp3/)
-- [The Zayed Sustainability Prize has launched a US$600K award for Climate Action](https://www.wired.com/sponsored/story/zayed-sustainability-prize/)
-- [Open-source Rust-based RAG](https://github.com/devflowinc/trieve)
+- [Use the Index, Luke](https://use-the-index-luke.com/)
+- [AMD announces the Spartan UltraScale+ FPGA family](https://www.cnx-software.com/2024/03/08/amd-announces-the-spartan-ultrascale-fpga-family-for-cost-sensitive-and-io-intensive-applications/)
+- [Jupiter&#39;s ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
