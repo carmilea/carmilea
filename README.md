@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding &quot;before:2023&quot; improves Google web searches](https://mastodon.social/@gulovsen/112051692995026577)
 - [Kdenlive 24.02 open source video editor released](https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/)
 - [Rnote – An open-source vector-based drawing app](https://rnote.flxzt.net/)
-- [The Anarchists of Dune](https://theanarchistlibrary.org/library/the-transmetropolitan-review-the-anarchists-of-dune)
+- [Gemma doesn&#39;t suck anymore – 8 bug fixes](https://colab.research.google.com/drive/1fxDWAfPIbC-bHwDSVj5SBmEJ6KG3bUu5?usp=sharing)
 - [JSON Canvas – An open file format for infinite canvas data](https://jsoncanvas.org/)
-- [Are We Watching the Internet Die?](https://www.wheresyoured.at/are-we-watching-the-internet-die/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
