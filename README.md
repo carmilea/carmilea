@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to know if a job makes a difference](https://probablygood.org/core-concepts/self-framework/)
-- [WeTransfer is having issues](https://status.wetransfer.com)
 - [Webb and Hubble confirm Universe&#39;s expansion rate](https://www.esa.int/ESA_Multimedia/Images/2024/03/Webb_Hubble_confirm_Universe_s_expansion_rate)
 - [OpenPlotter](https://openmarine.net/openplotter)
+- [Google&#39;s Threat Model for Post-Quantum Cryptography](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography)
 - [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
+- [The later we meet someone in a sequence, the more negatively we describe them](https://suchscience.org/people-encountered-later-in-a-sequence-described-more-negatively/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
