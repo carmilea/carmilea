@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to know if a job makes a difference](https://probablygood.org/core-concepts/self-framework/)
+- [WeTransfer is having issues](https://status.wetransfer.com)
+- [Webb and Hubble confirm Universe&#39;s expansion rate](https://www.esa.int/ESA_Multimedia/Images/2024/03/Webb_Hubble_confirm_Universe_s_expansion_rate)
+- [OpenPlotter](https://openmarine.net/openplotter)
 - [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
-- [Show HN: I made Vinlo – Spinning artwork video for your music](https://vinlo.co)
-- [Kdenlive 24.02 open source video editor released](https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/)
-- [Rnote – An open-source vector-based drawing app](https://rnote.flxzt.net/)
-- [Gemma doesn&#39;t suck anymore – 8 bug fixes](https://colab.research.google.com/drive/1fxDWAfPIbC-bHwDSVj5SBmEJ6KG3bUu5?usp=sharing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
