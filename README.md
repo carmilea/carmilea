@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pirate IPTV Co. &amp; Seven Workers Fined After Raids Eight Years Ago](https://torrentfreak.com/pirate-iptv-co-7-workers-fined-after-massive-raids-8-years-ago-240306/)
-- [How to Write a &lpar;Lisp&rpar; Interpreter &lpar;In Python&rpar; &lpar;2010&rpar;](https://www.norvig.com/lispy.html)
-- [Speech and Language Processing &lpar;3rd ed. draft&rpar;](https://web.stanford.edu/~jurafsky/slp3/)
-- [AMD announces the Spartan UltraScale+ FPGA family](https://www.cnx-software.com/2024/03/08/amd-announces-the-spartan-ultrascale-fpga-family-for-cost-sensitive-and-io-intensive-applications/)
-- [Jupiter&#39;s ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
+- [EDPS: European Commission&#39;s use of Microsoft 365 infringes data protection law [pdf]](https://www.edps.europa.eu/system/files/2024-03/EDPS-2024-05-European-Commission_s-use-of-M365-infringes-data-protection-rules-for-EU-institutions-and-bodies_EN.pdf)
+- [Latam Airlines: 12 treated in New Zealand after mid-air &#39;technical&#39; issue](https://www.bbc.com/news/world-asia-68488418)
+- [AI chatbots found to use racist stereotypes even after anti-racism training](https://techxplore.com/news/2024-03-ai-chatbots-racist-stereotypes-anti.html)
+- [A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
+- [Maybe Functions](https://blog.benwinding.com/maybe-functions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
