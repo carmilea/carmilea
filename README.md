@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google before:2008 image search comes up empty](https://circumstances.run/@davidgerard/112076256957361939)
-- [Brits left baffled by Brexit&#39;s &#39;not for EU&#39; food labels](https://www.politico.eu/article/uk-brexit-not-for-eu-food-label/)
-- [With Unusual Speed, Hong Kong Pushes Strict New Security Law](https://www.nytimes.com/2024/03/07/world/asia/hong-kong-security-law.html)
+- [EV Charging Points in America Are Finally Making Money](https://oilprice.com/Latest-Energy-News/World-News/EV-Charging-Points-in-America-Are-Finally-Making-Money.html)
+- [Is This &#39;Magic&#39; Roundabout Made of 5 Mini-Roundabouts?](https://www.snopes.com/fact-check/magic-roundabout-photo/)
 - [Fern &lpar;YC W23&rpar; is hiring a deployed engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/6J4HE6G-deployed-engineer)
-- [Reddit: Return of the Junk Stock IPO](https://www.forbes.com/sites/greatspeculations/2024/03/06/reddit-return-of-the-junk-stock-ipo/)
+- [Building an Open Source Decentralized E-Book Search Engine](https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md)
+- [Flowers for Algernon &lpar;1965&rpar; [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
