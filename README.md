@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EV Charging Points in America Are Finally Making Money](https://oilprice.com/Latest-Energy-News/World-News/EV-Charging-Points-in-America-Are-Finally-Making-Money.html)
-- [Is This &#39;Magic&#39; Roundabout Made of 5 Mini-Roundabouts?](https://www.snopes.com/fact-check/magic-roundabout-photo/)
-- [Fern &lpar;YC W23&rpar; is hiring a deployed engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/6J4HE6G-deployed-engineer)
-- [Building an Open Source Decentralized E-Book Search Engine](https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md)
-- [Flowers for Algernon &lpar;1965&rpar; [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
+- [Launch HN: Onedoc &lpar;YC W24&rpar; – A better way to create PDFs](https://news.ycombinator.com/item?id=39668962)
+- [Execute formulas stored in database fields with almost standard SQL](https://www.colbert.nl/formulas-in-fields/)
+- [The Secret Life of XY Monitors](https://www.jmargolin.com/xy/xymon.htm)
+- [What Extropic Is Building](https://www.extropic.ai/future)
+- [GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
 <!-- BLOG-POST-LIST:END -->
 
 ---
