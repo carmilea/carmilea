@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alexandre-Théophile Vandermonde &lpar;2001&rpar;](https://mathshistory.st-andrews.ac.uk/Biographies/Vandermonde/)
-- [Is Delphi a Memory Safe Language?](https://blogs.embarcadero.com/is-delphi-a-memory-safe-language/)
+- [Microplastics linked to heart attack, stroke and death](https://www.scientificamerican.com/article/microplastics-linked-to-heart-attack-stroke-and-death/)
 - [Jupiter&#39;s ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
-- [Roku&#39;s New TOS Makes It Nearly Impossible to Sue the Company](https://www.lifewire.com/roku-tos-update-8606211)
 - [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
+- [LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
+- [Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
