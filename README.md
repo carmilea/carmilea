@@ -58,7 +58,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Lie to Children](https://en.wikipedia.org/wiki/Lie-to-children)
 - [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
-- [Apple&#39;s hysterics over new EU antitrust law have led to two climbdowns already](https://finance.yahoo.com/news/apple-hysterics-over-eu-antitrust-153713345.html)
+- [C++ Safety, in Context](https://herbsutter.com/2024/03/11/safety-in-context/)
 - [An Introduction to Knowledge Graphs](https://textmine.com/post/an-introduction-to-knowledge-graphs)
 - [Using Promise Theory to solve the distributed consensus problem](https://mark-burgess-oslo-mb.medium.com/using-promise-theory-to-solve-the-distributed-consensus-problem-4cc2116f24e1)
 <!-- BLOG-POST-LIST:END -->
