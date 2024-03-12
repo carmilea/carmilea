@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineers &lpar;&amp; Many Other Roles&rpar;](https://jobs.ashbyhq.com/Jerry/20a6cc2e-7d2b-4931-9ec1-397ead0c9a6a)
-- [Key Boeing Whistleblower Found Dead from Apparent Suicide](https://thehill.com/policy/transportation/4524968-boeing-whistleblower-found-dead-in-apparent-suicide/)
-- [Major medical provider drops patient for not having a Android or iOS device](https://mastodon.social/@lrvick/112079059323905912)
-- [Elon Musk Has a Giant Charity. Its Money Stays Close to Home](https://www.nytimes.com/2024/03/10/us/elon-musk-charity.html)
-- [Why and how to write things on the Internet](https://www.benkuhn.net/writing/)
+- [Breaking Down Tasks](https://jacobian.org/2024/mar/11/breaking-down-tasks/)
+- [The New Science on What Ultra-Processed Food Does to Your Brain](https://www.wsj.com/health/wellness/ultra-processed-food-brain-health-7a3f9827)
+- [Nobel laureate economist savages his own profession](https://www.imf.org/en/Publications/fandd/issues/2024/03/Symposium-Rethinking-Economics-Angus-Deaton)
+- [Using my new Raspberry Pi to run an existing GitHub Action](https://blog.frankel.ch/raspberry-pi-github-action/)
+- [Create More, Consume Less &lpar;2021&rpar;](https://www.omaritani.com/blog/create-more-consume-less)
 <!-- BLOG-POST-LIST:END -->
 
 ---
