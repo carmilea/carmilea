@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vehicle brakes produce charged particles that may harm public health](https://news.uci.edu/2024/03/12/uc-irvine-study-vehicle-brakes-produce-charged-particles-that-may-harm-public-health/)
 - [Boeing whistleblower John Barnett found dead](https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead)
 - [Quantum Soccer &lpar;2009&rpar;](https://www.gregegan.net/BORDER/Soccer/Soccer.html)
+- [Astro DB](https://astro.build/db/)
 - [Google paid $10M in bug bounty rewards last year](https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/)
-- [Launch HN: Glide &lpar;YC W24&rpar; – AI-assisted technical design docs](https://news.ycombinator.com/item?id=39682183)
-- [The NYPD sent a warrantless subpoena for a copwatcher&#39;s Twitter account](https://hellgatenyc.com/nypd-warrantless-subpoena-copwatcher-social-media)
 <!-- BLOG-POST-LIST:END -->
 
 ---
