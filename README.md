@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Infisical &lpar;YC W23&rpar; Is Hiring to Build the Open Source Secret Management Platform](https://www.ycombinator.com/companies/infisical/jobs/MteMdIQ-full-stack-engineer)
-- [Vulkan Foliage rendering using GPU Instancing](https://www.thegeeko.me/blog/foliage-rendering)
-- [California State University system sees unprecedented decline in enrollment](https://www.msn.com/en-us/money/careers/california-state-university-system-sees-unprecedented-decline-in-enrollment/ar-BB1jJy2i)
-- [Differential Storage: A Key Building Block for a DuckDB-Based Data Warehouse](https://motherduck.com/blog/differential-storage-building-block-for-data-warehouse/)
-- [Two-thirds of young Dutch say influencers affect their financial decisions](https://nltimes.nl/2024/03/12/two-thirds-young-dutch-people-say-influencers-affect-financial-decisions)
+- [Boeing whistleblower John Barnett found dead](https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead)
+- [Quantum Soccer &lpar;2009&rpar;](https://www.gregegan.net/BORDER/Soccer/Soccer.html)
+- [Google paid $10M in bug bounty rewards last year](https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/)
+- [Launch HN: Glide &lpar;YC W24&rpar; – AI-assisted technical design docs](https://news.ycombinator.com/item?id=39682183)
+- [The NYPD sent a warrantless subpoena for a copwatcher&#39;s Twitter account](https://hellgatenyc.com/nypd-warrantless-subpoena-copwatcher-social-media)
 <!-- BLOG-POST-LIST:END -->
 
 ---
