@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lie to Children](https://en.wikipedia.org/wiki/Lie-to-children)
 - [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
 - [Apple&#39;s hysterics over new EU antitrust law have led to two climbdowns already](https://finance.yahoo.com/news/apple-hysterics-over-eu-antitrust-153713345.html)
 - [An Introduction to Knowledge Graphs](https://textmine.com/post/an-introduction-to-knowledge-graphs)
-- [No installation required: how WebAssembly is changing scientific computing](https://www.nature.com/articles/d41586-024-00725-1)
-- [Show HN: I made a free animator. Think Adobe Illustrator but for animation](https://www.trangram.com)
+- [Using Promise Theory to solve the distributed consensus problem](https://mark-burgess-oslo-mb.medium.com/using-promise-theory-to-solve-the-distributed-consensus-problem-4cc2116f24e1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
