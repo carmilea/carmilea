@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Announces Ability to Download Apps Directly from Websites in EU](https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/)
+- [On reddit: Someone in IT trolled me for over a decade](https://old.reddit.com/r/LegalAdviceUK/comments/1bcvj6f/someone_in_it_trolled_me_for_over_a_decade_have_i/)
+- [More options for apps distributed in the European Union](https://developer.apple.com/news/?id=8c1m8hqt)
 - [I no longer maintain my Emacs projects on Sourcehut](https://protesilaos.com/codelog/2024-01-27-sourcehut-no-more/)
+- [DMCA Notices Took Down 20,517 GitHub Projects Last Year](https://torrentfreak.com/dmca-notices-took-down-20517-github-projects-last-year-240308/)
 - [A glimpse into the universe where Windows died with the 1980s](https://www.theregister.com/2024/03/11/trying_ms_prerelease_os2_2/)
-- [Ultratec Technology Timeline](https://www.ultratec.com/about/timeline/)
-- [The internet is slipping out of our reach](https://injuly.in/blog/darker-internet/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
