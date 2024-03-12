@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Breaking Down Tasks](https://jacobian.org/2024/mar/11/breaking-down-tasks/)
+- [Nature Conformable to Herself &lpar;1992&rpar;](https://www.sfipress.org/4-nature-conformable-to-herself)
 - [The New Science on What Ultra-Processed Food Does to Your Brain](https://www.wsj.com/health/wellness/ultra-processed-food-brain-health-7a3f9827)
-- [Nobel laureate economist savages his own profession](https://www.imf.org/en/Publications/fandd/issues/2024/03/Symposium-Rethinking-Economics-Angus-Deaton)
+- [Rethinking my economics](https://www.imf.org/en/Publications/fandd/issues/2024/03/Symposium-Rethinking-Economics-Angus-Deaton)
 - [Using my new Raspberry Pi to run an existing GitHub Action](https://blog.frankel.ch/raspberry-pi-github-action/)
-- [Create More, Consume Less &lpar;2021&rpar;](https://www.omaritani.com/blog/create-more-consume-less)
 <!-- BLOG-POST-LIST:END -->
 
 ---
