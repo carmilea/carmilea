@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Detect when your installed Firefox addons have changed owners](https://github.com/maxtheaxe/under-new-management-firefox)
-- [Pilot of Boeing flight says he lost control after instrument failure](https://www.cnn.com/2024/03/12/australia/latam-airlines-flight-injuries-new-zealand-tuesday-intl-hnk/index.html)
-- [737 Max anti-ice system fix is slow going](https://theaircurrent.com/aviation-safety/737-max-anti-ice-fix-slow-going/)
-- [Crypto &#39;Mixer&#39; Convicted of Money Laundering on Bitcoin Fog](https://www.bloomberg.com/news/articles/2024-03-12/crypto-mixer-convicted-of-money-laundering-on-bitcoin-fog)
-- [The Accidental Discovery of a New Vulnerability in Google&#39;s OAuth Implementatio [video]](https://www.youtube.com/watch?v=77doS9hCe8A)
+- [Infisical &lpar;YC W23&rpar; Is Hiring to Build the Open Source Secret Management Platform](https://www.ycombinator.com/companies/infisical/jobs/MteMdIQ-full-stack-engineer)
+- [Vulkan Foliage rendering using GPU Instancing](https://www.thegeeko.me/blog/foliage-rendering)
+- [California State University system sees unprecedented decline in enrollment](https://www.msn.com/en-us/money/careers/california-state-university-system-sees-unprecedented-decline-in-enrollment/ar-BB1jJy2i)
+- [Differential Storage: A Key Building Block for a DuckDB-Based Data Warehouse](https://motherduck.com/blog/differential-storage-building-block-for-data-warehouse/)
+- [Two-thirds of young Dutch say influencers affect their financial decisions](https://nltimes.nl/2024/03/12/two-thirds-young-dutch-people-say-influencers-affect-financial-decisions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
