@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
+- [The Spreadsheet Is a Simulation Machine](https://arbesman.substack.com/p/the-spreadsheet-is-a-simulation-machine)
+- [Dutch gov. proudly announces it will tap Europe&#39;s largest internet exchanges](https://berthub.eu/articles/posts/dutch-intelligence-and-security-law/)
 - [Fig Is Sunsetting](https://fig.io/blog/post/fig-is-sunsetting)
 - [FloatCompMandelbrot: What impact does floating point precision have on Mandelbr](https://github.com/ProfJski/FloatCompMandelbrot)
-- [Quantum Soccer &lpar;2009&rpar;](https://www.gregegan.net/BORDER/Soccer/Soccer.html)
-- [Astro DB](https://astro.build/db/)
-- [Launch HN: Glide &lpar;YC W24&rpar; – AI-assisted technical design docs](https://news.ycombinator.com/item?id=39682183)
 <!-- BLOG-POST-LIST:END -->
 
 ---
