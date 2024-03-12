@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Announces Ability to Download Apps Directly from Websites in EU](https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/)
+- [I no longer maintain my Emacs projects on Sourcehut](https://protesilaos.com/codelog/2024-01-27-sourcehut-no-more/)
+- [A glimpse into the universe where Windows died with the 1980s](https://www.theregister.com/2024/03/11/trying_ms_prerelease_os2_2/)
 - [Ultratec Technology Timeline](https://www.ultratec.com/about/timeline/)
 - [The internet is slipping out of our reach](https://injuly.in/blog/darker-internet/index.html)
-- [Google Announces Stealing Part of a Production Language Model](https://twitter.com/_akhaliq/status/1767384751269150828)
-- [Shields up: New ideas might make active shielding viable](https://arstechnica.com/science/2024/03/shields-up-new-ideas-might-make-active-shielding-viable/)
-- [The Bevy Foundation](https://bevyengine.org/news/bevy-foundation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
