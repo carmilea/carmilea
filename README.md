@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
-- [The Spreadsheet Is a Simulation Machine](https://arbesman.substack.com/p/the-spreadsheet-is-a-simulation-machine)
-- [Dutch gov. proudly announces it will tap Europe&#39;s largest internet exchanges](https://berthub.eu/articles/posts/dutch-intelligence-and-security-law/)
-- [Fig Is Sunsetting](https://fig.io/blog/post/fig-is-sunsetting)
-- [FloatCompMandelbrot: What impact does floating point precision have on Mandelbr](https://github.com/ProfJski/FloatCompMandelbrot)
+- [The spreadsheet is a simulation machine](https://arbesman.substack.com/p/the-spreadsheet-is-a-simulation-machine)
+- [On the new Dutch intelligence and security law](https://berthub.eu/articles/posts/dutch-intelligence-and-security-law/)
+- [Fig is sunsetting](https://fig.io/blog/post/fig-is-sunsetting)
+- [How Mandelbrot set images are affected by floating point precision](https://github.com/ProfJski/FloatCompMandelbrot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
