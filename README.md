@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ultratec Technology Timeline](https://www.ultratec.com/about/timeline/)
+- [The internet is slipping out of our reach](https://injuly.in/blog/darker-internet/index.html)
 - [Google Announces Stealing Part of a Production Language Model](https://twitter.com/_akhaliq/status/1767384751269150828)
 - [Shields up: New ideas might make active shielding viable](https://arstechnica.com/science/2024/03/shields-up-new-ideas-might-make-active-shielding-viable/)
-- [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
-- [C++ Safety, in Context](https://herbsutter.com/2024/03/11/safety-in-context/)
-- [An Introduction to Knowledge Graphs](https://textmine.com/post/an-introduction-to-knowledge-graphs)
+- [The Bevy Foundation](https://bevyengine.org/news/bevy-foundation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
