@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [See &#39;horned&#39; comet 12P/Pons-Brooks in the night sky](https://www.space.com/comet-12p-pons-brooks-march-2024)
-- [Roku Confirms Data Breach of 15,000 Customers](https://www.claimdepot.com/data-breach/roku)
-- [A Swimming Dinosaur? Maybe Not, Study Says](https://www.nytimes.com/2024/03/06/science/spinosaurus-dinosaur-fossil-dive.html)
-- [Webb and Hubble confirm Universe&#39;s expansion rate](https://www.esa.int/ESA_Multimedia/Images/2024/03/Webb_Hubble_confirm_Universe_s_expansion_rate)
-- [OpenPlotter](https://openmarine.net/openplotter)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineers &lpar;&amp; Many Other Roles&rpar;](https://jobs.ashbyhq.com/Jerry/20a6cc2e-7d2b-4931-9ec1-397ead0c9a6a)
+- [Key Boeing Whistleblower Found Dead from Apparent Suicide](https://thehill.com/policy/transportation/4524968-boeing-whistleblower-found-dead-in-apparent-suicide/)
+- [Major medical provider drops patient for not having a Android or iOS device](https://mastodon.social/@lrvick/112079059323905912)
+- [Elon Musk Has a Giant Charity. Its Money Stays Close to Home](https://www.nytimes.com/2024/03/10/us/elon-musk-charity.html)
+- [Why and how to write things on the Internet](https://www.benkuhn.net/writing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
