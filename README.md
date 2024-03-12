@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
-- [The spreadsheet is a simulation machine](https://arbesman.substack.com/p/the-spreadsheet-is-a-simulation-machine)
-- [On the new Dutch intelligence and security law](https://berthub.eu/articles/posts/dutch-intelligence-and-security-law/)
-- [Fig is sunsetting](https://fig.io/blog/post/fig-is-sunsetting)
-- [How Mandelbrot set images are affected by floating point precision](https://github.com/ProfJski/FloatCompMandelbrot)
+- [Detect Caps Lock with JavaScript](https://davidwalsh.name/detect-caps-lock)
+- [Wow Signal](https://en.wikipedia.org/wiki/Wow!_signal)
+- [On Migraine Scintillating Scotomas](https://clairelevans.substack.com/p/brighter-than-a-cloud)
+- [Scammed by the top result for &#39;Bitcoin wallet&#39; in Apple App Store](https://news.ycombinator.com/item?id=39685272)
+- [40 Years of Programming](https://liw.fi/40/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
