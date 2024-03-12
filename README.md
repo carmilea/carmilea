@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How much to charge for an API call?](https://news.ycombinator.com/item?id=39679574)
 - [Show HN: Comma Separated Values &lpar;CSV&rpar; to Unicode Separated Values &lpar;USV&rpar;](https://crates.io/crates/csv-to-usv)
 - [The $100M Deal for Kickstarter to use Blockchain](https://fortune.com/crypto/2024/03/11/kickstarter-blockchain-a16z-crypto-secret-investment-chris-dixon/)
+- [Ask HN: Problems worth solving with a low-code back end?](https://news.ycombinator.com/item?id=39678929)
 - [More options for apps distributed in the European Union](https://developer.apple.com/news/?id=8c1m8hqt)
-- [I no longer maintain my Emacs projects on Sourcehut](https://protesilaos.com/codelog/2024-01-27-sourcehut-no-more/)
+- [DMCA Notices Took Down 20,517 GitHub Projects Last Year](https://torrentfreak.com/dmca-notices-took-down-20517-github-projects-last-year-240308/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
