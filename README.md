@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Comma Separated Values &lpar;CSV&rpar; to Unicode Separated Values &lpar;USV&rpar;](https://crates.io/crates/csv-to-usv)
-- [The $100M Deal for Kickstarter to use Blockchain](https://fortune.com/crypto/2024/03/11/kickstarter-blockchain-a16z-crypto-secret-investment-chris-dixon/)
-- [Ask HN: Problems worth solving with a low-code back end?](https://news.ycombinator.com/item?id=39678929)
-- [More options for apps distributed in the European Union](https://developer.apple.com/news/?id=8c1m8hqt)
-- [DMCA Notices Took Down 20,517 GitHub Projects Last Year](https://torrentfreak.com/dmca-notices-took-down-20517-github-projects-last-year-240308/)
+- [Detect when your installed Firefox addons have changed owners](https://github.com/maxtheaxe/under-new-management-firefox)
+- [Pilot of Boeing flight says he lost control after instrument failure](https://www.cnn.com/2024/03/12/australia/latam-airlines-flight-injuries-new-zealand-tuesday-intl-hnk/index.html)
+- [737 Max anti-ice system fix is slow going](https://theaircurrent.com/aviation-safety/737-max-anti-ice-fix-slow-going/)
+- [Crypto &#39;Mixer&#39; Convicted of Money Laundering on Bitcoin Fog](https://www.bloomberg.com/news/articles/2024-03-12/crypto-mixer-convicted-of-money-laundering-on-bitcoin-fog)
+- [The Accidental Discovery of a New Vulnerability in Google&#39;s OAuth Implementatio [video]](https://www.youtube.com/watch?v=77doS9hCe8A)
 <!-- BLOG-POST-LIST:END -->
 
 ---
