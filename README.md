@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a FREE animator think of Adobe Illustrator but for animation](https://www.trangram.com)
 - [Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634)
 - [Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/abs/2403.05440)
 - [Breaking Down Tasks](https://jacobian.org/2024/mar/11/breaking-down-tasks/)
-- [Incognito Darknet Market Mass-Extorts Buyers, Sellers](https://krebsonsecurity.com/2024/03/incognito-darknet-market-mass-extorts-buyers-sellers/)
 - [Nature Conformable to Herself &lpar;1992&rpar;](https://www.sfipress.org/4-nature-conformable-to-herself)
 <!-- BLOG-POST-LIST:END -->
 
