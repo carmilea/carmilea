@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Technical Manual TM 11-410: The Homing Pigeon &lpar;1945&rpar;](https://www.gutenberg.org/files/55084/55084-h/55084-h.htm)
-- [The New Audi A3 Is Amess with In-Car Subscriptions](https://www.motor1.com/news/711957/2025-audi-a3-in-car-subscriptions/)
-- [Apple cider vinegar for weight management](https://nutrition.bmj.com/content/early/2024/01/18/bmjnph-2023-000823)
-- [Japan&#39;s Space One rocket explodes seconds after liftoff](https://twitter.com/BNONews/status/1767735668262752601/video/1)
+- [Show HN: Creating custom coloring pages from photos. Great for parents/teachers](https://portraitart.app/photo-to-coloring-page)
 - [Nvtop: Linux Task Monitor for Nvidia, AMD and Intel GPUs](https://github.com/Syllo/nvtop)
+- [Direct File officially opens in 12 pilot states](https://www.irs.gov/newsroom/direct-file-officially-opens-in-12-pilot-states-following-positive-early-reviews-eligible-taxpayers-can-file-online-directly-with-the-irs-for-free)
+- [A ragtag band of internet friends became the best at forecasting world events](https://www.vox.com/future-perfect/2024/2/13/24070864/samotsvety-forecasting-superforecasters-tetlock)
 <!-- BLOG-POST-LIST:END -->
 
 ---
