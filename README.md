@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [United Airlines tells Boeing to stop building Max 10s and to switch to max 9s](https://simpleflying.com/major-blow-united-airlines-tells-boeing-stop-building-max-10s-switch-max-9s/)
+- [Physical Intelligence Is Building a Brain for Robots](https://www.bloomberg.com/news/articles/2024-03-12/physical-intelligence-is-building-ai-for-robots-backed-by-openai)
+- [IRS has launched its free tax filing service, Direct File, in 12 states](https://arstechnica.com/tech-policy/2024/03/irs-free-tax-filing-service-now-available-but-most-people-dont-qualify/)
+- [Show HN: A user-friendly UI for viewing and editing Markdown files](https://marker.pages.dev/)
 - [Show HN: I3wm Alt+Tab Workspace Switcher](https://news.ycombinator.com/item?id=39690368)
-- [Giant sequoias are a rapidly growing feature of the UK landscape](https://phys.org/news/2024-03-giant-sequoias-rapidly-feature-uk.html)
-- [Show HN: Query Your Sheets with SheetSQL](https://sheetsql.io/)
-- [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
-- [Insult Passphrase Generator](https://cheswick.com/insults)
 <!-- BLOG-POST-LIST:END -->
 
 ---
