@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenDevin](https://twitter.com/JustinLin610/status/1767769034186211557)
+- [Give some new links a chance](https://news.ycombinator.com/newest)
+- [Google&#39;s Ban on Election Queries in Gemini AI Sparks Debate](https://www.cryptopolitan.com/googles-ban-election-queries-in-gemini-ai/)
 - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 - [Insult Passphrase Generator](https://cheswick.com/insults)
-- [Freenginx: Core Nginx Developer Announces Fork of Popular Web Server](https://www.infoq.com/news/2024/03/freenginx-ngnix-web-server/)
-- [Technical Manual TM 11-410: The Homing Pigeon &lpar;1945&rpar;](https://www.gutenberg.org/files/55084/55084-h/55084-h.htm)
-- [Show HN: Creating custom coloring pages from photos. Great for parents/teachers](https://portraitart.app/photo-to-coloring-page)
 <!-- BLOG-POST-LIST:END -->
 
 ---
