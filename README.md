@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I3wm Alt+Tab Workspace Switcher](https://news.ycombinator.com/item?id=39690368)
 - [Giant sequoias are a rapidly growing feature of the UK landscape](https://phys.org/news/2024-03-giant-sequoias-rapidly-feature-uk.html)
-- [The Cordic Algorithm, Theory and FPGA Uses](https://www.adiuvoengineering.com/post/microzed-chronicles-the-cordic-algorithm)
 - [Show HN: Query Your Sheets with SheetSQL](https://sheetsql.io/)
 - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 - [Insult Passphrase Generator](https://cheswick.com/insults)
