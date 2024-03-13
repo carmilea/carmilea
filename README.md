@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: PromptFox, high quality Midjourney prompts](https://www.promptfox.io/)
-- [Star Trek TNG Captain&#39;s Chair Heads to Auction in March](https://blog.trekcore.com/2024/03/star-trek-the-next-generation-captains-chair-heads-auction/)
-- [Tell Congress: Stop the TikTok Ban. Instead, Protect Our Data No Matter Who](https://act.eff.org/action/tell-congress-stop-the-tiktok-ban)
-- [UN experts find &#39;no harmful effects&#39; from Fukushima](https://www.dw.com/en/un-experts-find-no-harmful-effects-from-fukushima-nuclear-disaster/a-56820805)
-- [Intel Continues Prepping the Linux Kernel for X86S](https://www.phoronix.com/news/Linux-6.9-More-X86S)
+- [House passes bill that could ban TikTok](https://www.theverge.com/2024/3/13/24097125/house-bill-vote-tiktok-ban-china-bytedance-divestment)
+- [SnapMagic &lpar;YC S15&rpar; the AI Copilot for electronics is hiring full-stack engineers](https://careers.snapmagic.com/o/senior-full-stack-engineer-snapmagic-copilot-2)
+- [Lemonade Stand](https://possiblywrong.wordpress.com/2024/03/12/lemonade-stand/)
+- [Giant Volcano Discovered on Mars](https://phys.org/news/2024-03-giant-volcano-mars.html)
+- [4,000,000,000,000 Transistors, One Giant Chip &lpar;Cerebras WSE-3&rpar; [video]](https://www.youtube.com/watch?v=f4Dly8I8lMY)
 <!-- BLOG-POST-LIST:END -->
 
 ---
