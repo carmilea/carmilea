@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenDevin](https://twitter.com/JustinLin610/status/1767769034186211557)
-- [Give some new links a chance](https://news.ycombinator.com/newest)
-- [Google&#39;s Ban on Election Queries in Gemini AI Sparks Debate](https://www.cryptopolitan.com/googles-ban-election-queries-in-gemini-ai/)
+- [Tor&#39;s new WebTunnel bridges mimic HTTPS traffic to evade censorship](https://www.bleepingcomputer.com/news/security/tors-new-webtunnel-bridges-mimic-https-traffic-to-evade-censorship/#google_vignette)
+- [Google restricts Gemini chatbot election answers](https://www.bbc.co.uk/news/business-68551206)
+- [Simplicity of IRC &lpar;2022&rpar;](https://susam.net/simplicity-of-irc.html)
 - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 - [Insult Passphrase Generator](https://cheswick.com/insults)
 <!-- BLOG-POST-LIST:END -->
