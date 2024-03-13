@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [United Airlines tells Boeing to stop building Max 10s and to switch to max 9s](https://simpleflying.com/major-blow-united-airlines-tells-boeing-stop-building-max-10s-switch-max-9s/)
-- [Physical Intelligence Is Building a Brain for Robots](https://www.bloomberg.com/news/articles/2024-03-12/physical-intelligence-is-building-ai-for-robots-backed-by-openai)
-- [IRS has launched its free tax filing service, Direct File, in 12 states](https://arstechnica.com/tech-policy/2024/03/irs-free-tax-filing-service-now-available-but-most-people-dont-qualify/)
-- [Show HN: A user-friendly UI for viewing and editing Markdown files](https://marker.pages.dev/)
-- [Show HN: I3wm Alt+Tab Workspace Switcher](https://news.ycombinator.com/item?id=39690368)
+- [Family Dollar to close almost 1,000 stores](https://www.nbcnews.com/business/business-news/family-dollar-closing-nearly-1000-stores-where-why-rcna143148)
+- [So you want to abolish time zones &lpar;2015&rpar;](https://qntm.org/abolish)
+- [Family dollar to close 1000 stores in 2024](https://www.forbes.com/sites/anafaguy/2024/03/13/nearly-1000-family-dollar-stores-will-close-in-2024-owner-announces)
+- [Auto Makers Are Selling Data on Your Driving Habits to Your Insurer](https://www.techdirt.com/2024/03/13/auto-makers-are-selling-data-on-your-driving-habits-to-your-insurer-without-properly-informing-you/)
+- [What to Do If Your Car Is Submerged in Water](https://www.wsj.com/business/autos/what-to-do-if-your-car-is-submerged-in-water-9755c28c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
