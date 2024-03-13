@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [House passes bill that could ban TikTok](https://www.theverge.com/2024/3/13/24097125/house-bill-vote-tiktok-ban-china-bytedance-divestment)
+- [IBM and NASA build language models to make scientific knowledge more accessible](https://research.ibm.com/blog/science-expert-LLM)
+- [As heat becomes a national threat, who will be protected?](https://grist.org/extreme-heat/extreme-heat-protection-florida-law-athletes-workers/)
+- [Ageism Haunts Some Tech Workers in the Race to Get Hired](https://www.wired.com/story/ageism-haunts-tech-workers-layoffs-race-to-get-hired/)
+- [Silicon Valley is pricing academics out of AI research](https://www.washingtonpost.com/technology/2024/03/10/big-tech-companies-ai-research/)
 - [SnapMagic &lpar;YC S15&rpar; the AI Copilot for electronics is hiring full-stack engineers](https://careers.snapmagic.com/o/senior-full-stack-engineer-snapmagic-copilot-2)
-- [Lemonade Stand](https://possiblywrong.wordpress.com/2024/03/12/lemonade-stand/)
-- [Giant Volcano Discovered on Mars](https://phys.org/news/2024-03-giant-volcano-mars.html)
-- [4,000,000,000,000 Transistors, One Giant Chip &lpar;Cerebras WSE-3&rpar; [video]](https://www.youtube.com/watch?v=f4Dly8I8lMY)
 <!-- BLOG-POST-LIST:END -->
 
 ---
