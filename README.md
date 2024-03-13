@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Any Technology Indistinguishable from Magic Is Hiding Something](https://www.fromjason.xyz/p/notebook/any-technology-indistinguishable-from-magic-is-hiding-something/)
 - [Technical Manual TM 11-410: The Homing Pigeon &lpar;1945&rpar;](https://www.gutenberg.org/files/55084/55084-h/55084-h.htm)
 - [Show HN: Creating custom coloring pages from photos. Great for parents/teachers](https://portraitart.app/photo-to-coloring-page)
 - [Nvtop: Linux Task Monitor for Nvidia, AMD and Intel GPUs](https://github.com/Syllo/nvtop)
 - [Direct File officially opens in 12 pilot states](https://www.irs.gov/newsroom/direct-file-officially-opens-in-12-pilot-states-following-positive-early-reviews-eligible-taxpayers-can-file-online-directly-with-the-irs-for-free)
-- [A ragtag band of internet friends became the best at forecasting world events](https://www.vox.com/future-perfect/2024/2/13/24070864/samotsvety-forecasting-superforecasters-tetlock)
 <!-- BLOG-POST-LIST:END -->
 
 ---
