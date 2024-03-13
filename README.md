@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan&#39;s Space One rocket explodes shortly after launch](https://www.japantimes.co.jp/news/2024/03/13/japan/science-health/space-one-launch/)
+- [The Cordic Algorithm, Theory and FPGA Uses](https://www.adiuvoengineering.com/post/microzed-chronicles-the-cordic-algorithm)
+- [Show HN: Query Your Sheets with SheetSQL](https://sheetsql.io/)
 - [15 Clicks to install an app from the web using the newly proposed Apple flow](https://twitter.com/xroissance/status/1767570083038081069)
 - [Tor&#39;s new WebTunnel bridges mimic HTTPS traffic to evade censorship](https://www.bleepingcomputer.com/news/security/tors-new-webtunnel-bridges-mimic-https-traffic-to-evade-censorship/#google_vignette)
-- [Google restricts Gemini chatbot election answers](https://www.bbc.co.uk/news/business-68551206)
-- [Simplicity of IRC &lpar;2022&rpar;](https://susam.net/simplicity-of-irc.html)
-- [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
