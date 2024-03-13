@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [4,000,000,000,000 Transistors, One Giant Chip &lpar;Cerebras WSE-3&rpar; [video]](https://www.youtube.com/watch?v=f4Dly8I8lMY)
-- [Pi 5 overclocking: Silicon Lottery](https://www.jeffgeerling.com/blog/2024/important-consideration-about-pi-5-overclocking)
-- [Show HN: Flox 1.0 – Open-source dev env as code with Nix](https://github.com/flox/flox)
-- [Nvidia founder tells Stanford students their high expectations is a hindrance](https://fortune.com/2024/03/13/nvidia-founder-ceo-jensen_huang-stanford-students-genz-grads-low-expectations-successful/)
-- [Google SIMA](https://twitter.com/GoogleDeepMind/status/1767918515585994818)
+- [Show HN: PromptFox, high quality Midjourney prompts](https://www.promptfox.io/)
+- [Star Trek TNG Captain&#39;s Chair Heads to Auction in March](https://blog.trekcore.com/2024/03/star-trek-the-next-generation-captains-chair-heads-auction/)
+- [Tell Congress: Stop the TikTok Ban. Instead, Protect Our Data No Matter Who](https://act.eff.org/action/tell-congress-stop-the-tiktok-ban)
+- [UN experts find &#39;no harmful effects&#39; from Fukushima](https://www.dw.com/en/un-experts-find-no-harmful-effects-from-fukushima-nuclear-disaster/a-56820805)
+- [Intel Continues Prepping the Linux Kernel for X86S](https://www.phoronix.com/news/Linux-6.9-More-X86S)
 <!-- BLOG-POST-LIST:END -->
 
 ---
