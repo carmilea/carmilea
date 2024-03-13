@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Family Dollar to close almost 1,000 stores](https://www.nbcnews.com/business/business-news/family-dollar-closing-nearly-1000-stores-where-why-rcna143148)
-- [So you want to abolish time zones &lpar;2015&rpar;](https://qntm.org/abolish)
-- [Family dollar to close 1000 stores in 2024](https://www.forbes.com/sites/anafaguy/2024/03/13/nearly-1000-family-dollar-stores-will-close-in-2024-owner-announces)
-- [Auto Makers Are Selling Data on Your Driving Habits to Your Insurer](https://www.techdirt.com/2024/03/13/auto-makers-are-selling-data-on-your-driving-habits-to-your-insurer-without-properly-informing-you/)
-- [What to Do If Your Car Is Submerged in Water](https://www.wsj.com/business/autos/what-to-do-if-your-car-is-submerged-in-water-9755c28c)
+- [Show HN: Flox 1.0 – Open-source dev env as code with Nix](https://github.com/flox/flox)
+- [Google SIMA](https://twitter.com/GoogleDeepMind/status/1767918515585994818)
+- [:syntax off &lpar;2016&rpar;](https://dudzik.co/digress-into-development/syntax-off/)
+- [US House passes bill to force ByteDance to divest TikTok or face ban](https://www.reuters.com/technology/us-house-vote-force-bytedance-divest-tiktok-or-face-ban-2024-03-13/)
+- [Figure 01 robot demos its OpenAI integration](https://twitter.com/figure_robot/status/1767913661253984474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
