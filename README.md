@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bluesky starts letting users pick their own moderation filters](https://www.theverge.com/2024/3/12/24098920/bluesky-custom-moderation-filters-ozone)
+- [Japan&#39;s Space One rocket explodes seconds after liftoff](https://twitter.com/BNONews/status/1767735668262752601/video/1)
 - [Nvtop: Linux Task Monitor for Nvidia, AMD and Intel GPUs](https://github.com/Syllo/nvtop)
-- [Features lost across versions of macOS](https://talk.tidbits.com/t/features-lost-across-versions-of-macos/27037)
 - [Direct File officially opens in 12 pilot states](https://www.irs.gov/newsroom/direct-file-officially-opens-in-12-pilot-states-following-positive-early-reviews-eligible-taxpayers-can-file-online-directly-with-the-irs-for-free)
 - [A ragtag band of internet friends became the best at forecasting world events](https://www.vox.com/future-perfect/2024/2/13/24070864/samotsvety-forecasting-superforecasters-tetlock)
+- [LOCS: Language developed at age 9 in Z80 machine code &lpar;1988&rpar;](https://nanochess.org/locs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
