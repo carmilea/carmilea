@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Giant &#39;sand battery&#39; holds a week&#39;s heat for a whole town](https://newatlas.com/energy/sand-battery-finland/)
+- [Death by Neti Pot](https://arstechnica.com/science/2024/03/death-by-neti-pot-why-you-shouldnt-use-tap-water-to-clean-your-sinuses/)
 - [Linux TTY font for Chinese, but treat it as a syllabic writing](https://github.com/oldherl/syllazh)
-- [I like automations for inclusive development](https://blog.lmorchard.com/2024/03/13/github-actions-for-didthis/)
-- [The Programmers of the Future](https://basedmeditations.substack.com/p/the-programmers-of-the-future)
-- [Prostate cancer includes two different evotypes](https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease)
-- [How Arnold Schoenberg changed Hollywood](https://www.newyorker.com/magazine/2024/03/18/how-arnold-schoenberg-changed-hollywood)
+- [March 14, 7:00 a.m. CT: Starship&#39;s third flight test](https://twitter.com/SpaceX/status/1768004039680426406)
+- [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
