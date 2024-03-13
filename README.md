@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Airlines Colluded to Ensure Onboard Food Would Be Awful](https://viewfromthewing.com/airlines-colluded-bad-food/)
+- [A ragtag band of internet friends became the best at forecasting world events](https://www.vox.com/future-perfect/2024/2/13/24070864/samotsvety-forecasting-superforecasters-tetlock)
 - [Detect Caps Lock with JavaScript](https://davidwalsh.name/detect-caps-lock)
-- [Wow Signal](https://en.wikipedia.org/wiki/Wow!_signal)
 - [On Migraine Scintillating Scotomas](https://clairelevans.substack.com/p/brighter-than-a-cloud)
-- [Scammed by the top result for &#39;Bitcoin wallet&#39; in Apple App Store](https://news.ycombinator.com/item?id=39685272)
-- [40 Years of Programming](https://liw.fi/40/)
+- [LOCS: Language developed at age 9 in Z80 machine code &lpar;1988&rpar;](https://nanochess.org/locs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
