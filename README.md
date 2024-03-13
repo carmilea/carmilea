@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [4,000,000,000,000 Transistors, One Giant Chip &lpar;Cerebras WSE-3&rpar; [video]](https://www.youtube.com/watch?v=f4Dly8I8lMY)
+- [Pi 5 overclocking: Silicon Lottery](https://www.jeffgeerling.com/blog/2024/important-consideration-about-pi-5-overclocking)
 - [Show HN: Flox 1.0 – Open-source dev env as code with Nix](https://github.com/flox/flox)
+- [Nvidia founder tells Stanford students their high expectations is a hindrance](https://fortune.com/2024/03/13/nvidia-founder-ceo-jensen_huang-stanford-students-genz-grads-low-expectations-successful/)
 - [Google SIMA](https://twitter.com/GoogleDeepMind/status/1767918515585994818)
-- [:syntax off &lpar;2016&rpar;](https://dudzik.co/digress-into-development/syntax-off/)
-- [US House passes bill to force ByteDance to divest TikTok or face ban](https://www.reuters.com/technology/us-house-vote-force-bytedance-divest-tiktok-or-face-ban-2024-03-13/)
-- [Figure 01 robot demos its OpenAI integration](https://twitter.com/figure_robot/status/1767913661253984474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
