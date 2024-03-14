@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Swirling Forces, Crushing Pressures Measured in the Proton](https://www.quantamagazine.org/swirling-forces-crushing-pressures-measured-in-the-proton-20240314/)
-- [Ask an Algo Dev – 6 HRT quants answer common questions about their role [video]](https://www.youtube.com/watch?v=VRpxqtA_Nlk)
-- [Winning a hackathon, losing my sanity](https://jero.zone/posts/meal-plan-wrapped)
-- [The neuroscientist formerly known as Prince&#39;s audio engineer](https://www.nature.com/articles/d41586-024-00791-5)
-- [SingleStore Free Tier: Here for Good](https://www.singlestore.com/blog/singlestore-free-tier-here-for-good)
+- [How Nintendo&#39;s destruction of Yuzu is rocking the emulator world](https://www.theverge.com/24098640/nintendo-emulator-yuzu-lawsuit-switch-aftermath)
+- [Most HR Data Is Bad Data](https://hbr.org/2015/02/most-hr-data-is-bad-data)
+- [Australian computer scientist is not Bitcoin creator Nakamoto, high court rules](https://www.theguardian.com/technology/2024/mar/14/australian-craig-wright-not-bitcoin-creator-satoshi-nakamoto-high-court-rules)
+- [The &#39;drinking bird&#39; makes a comeback and could power gadgets with clean energy](https://www.cnn.com/2024/03/14/climate/drinking-bird-energy-power-gadgets-climate-intl/index.html)
+- [Voyager 1 starts making sense again after months of babble](https://www.theregister.com/2024/03/14/voyager_1_not_dead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
