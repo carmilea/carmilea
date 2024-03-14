@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google prevents Gemini AI from answering questions about upcoming elections](https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/)
 - [Learning From DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
 - [How Figma&#39;s databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
+- [Parsing the Postgres protocol – logging executed statements](https://kviklet.dev/blog/parsing-the-postgres-protocol/)
 - [Cicadas&#39; unique urination unlocks new understanding of fluid dynamics](https://phys.org/news/2024-03-cicadas-unique-urination-fluid-dynamics.html)
 - [Show HN: A fast HNSW implementation in Rust](https://github.com/swapneel/hnsw-rust)
 <!-- BLOG-POST-LIST:END -->
