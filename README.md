@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nicolas Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki)
+- [Chasing Passive Income, Americans Turn to Vending Machines](https://www.wsj.com/personal-finance/passive-income-money-vending-machines-41800d11)
 - [Care](https://johan.hal.se/wrote/2024/02/28/care/)
 - [Nanos – A Unikernel](https://nanos.org)
-- [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
-- [Giant &#39;sand battery&#39; holds a week&#39;s heat for a whole town](https://newatlas.com/energy/sand-battery-finland/)
-- [Spinkube: Running WASM in Kubernetes](https://www.fermyon.com/blog/introducing-spinkube-fermyon-platform-for-k8s)
+- [The Median Down Payment for a House, by U.S. State](https://www.visualcapitalist.com/cp/median-down-payment-for-a-house-by-state/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
