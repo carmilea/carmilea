@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Meticulate &lpar;YC W24&rpar; – LLM pipelines for business research](https://news.ycombinator.com/item?id=39706253)
-- [South Africa Internet Hit by Multiple Subsea Cable Breaks](https://subtelforum.com/south-africa-internet-hit-by-multiple-subsea-cable-breaks/)
-- [Show HN: Skyvern – Browser automation using LLMs and computer vision](https://github.com/Skyvern-AI/skyvern)
-- [Time to delete your Glassdoor account](https://cellio.dreamwidth.org/2024/03/12/glassdoor-violates-privacy.html)
-- [Most HR Data Is Bad Data](https://hbr.org/2015/02/most-hr-data-is-bad-data)
+- [Google prevents Gemini AI from answering questions about upcoming elections](https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/)
+- [Learning From DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
+- [How Figma&#39;s databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
+- [Cicadas&#39; unique urination unlocks new understanding of fluid dynamics](https://phys.org/news/2024-03-cicadas-unique-urination-fluid-dynamics.html)
+- [Show HN: A fast HNSW implementation in Rust](https://github.com/swapneel/hnsw-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
