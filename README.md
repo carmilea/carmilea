@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Nintendo&#39;s destruction of Yuzu is rocking the emulator world](https://www.theverge.com/24098640/nintendo-emulator-yuzu-lawsuit-switch-aftermath)
+- [Launch HN: Meticulate &lpar;YC W24&rpar; – LLM pipelines for business research](https://news.ycombinator.com/item?id=39706253)
+- [South Africa Internet Hit by Multiple Subsea Cable Breaks](https://subtelforum.com/south-africa-internet-hit-by-multiple-subsea-cable-breaks/)
+- [Show HN: Skyvern – Browser automation using LLMs and computer vision](https://github.com/Skyvern-AI/skyvern)
+- [Time to delete your Glassdoor account](https://cellio.dreamwidth.org/2024/03/12/glassdoor-violates-privacy.html)
 - [Most HR Data Is Bad Data](https://hbr.org/2015/02/most-hr-data-is-bad-data)
-- [Australian computer scientist is not Bitcoin creator Nakamoto, high court rules](https://www.theguardian.com/technology/2024/mar/14/australian-craig-wright-not-bitcoin-creator-satoshi-nakamoto-high-court-rules)
-- [The &#39;drinking bird&#39; makes a comeback and could power gadgets with clean energy](https://www.cnn.com/2024/03/14/climate/drinking-bird-energy-power-gadgets-climate-intl/index.html)
-- [Voyager 1 starts making sense again after months of babble](https://www.theregister.com/2024/03/14/voyager_1_not_dead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
