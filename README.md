@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Judge rules Craig Wright is not Satoshi Nakamoto](https://cointelegraph.com/news/craig-wright-not-satoshi-nakamoto)
+- [Swirling Forces, Crushing Pressures Measured in the Proton](https://www.quantamagazine.org/swirling-forces-crushing-pressures-measured-in-the-proton-20240314/)
+- [Ask an Algo Dev – 6 HRT quants answer common questions about their role [video]](https://www.youtube.com/watch?v=VRpxqtA_Nlk)
+- [Winning a hackathon, losing my sanity](https://jero.zone/posts/meal-plan-wrapped)
 - [The neuroscientist formerly known as Prince&#39;s audio engineer](https://www.nature.com/articles/d41586-024-00791-5)
-- [Sam Altman rejoins OpenAI&#39;s board after investigation into sudden firing](https://www.theverge.com/2024/3/8/24094885/openai-sam-altman-investigation-board-results)
-- [The Importance of Women in Tech](https://www.singlestore.com/blog/the-importance-of-women-in-tech)
-- [Chainguard Images now available on Docker Hub](https://www.chainguard.dev/unchained/chainguard-images-now-available-on-docker-hub)
+- [SingleStore Free Tier: Here for Good](https://www.singlestore.com/blog/singlestore-free-tier-here-for-good)
 <!-- BLOG-POST-LIST:END -->
 
 ---
