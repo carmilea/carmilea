@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI’s Sora made me crazy AI videos then the CTO answered most of my questions](https://www.youtube.com/watch?v=mAUpxN-EIgU)
+- [I summarized my understanding of Linux systems](https://github.com/lsc4719/MyViewOfLinuxSystems)
+- [SXSW Tried to Silence Critics with Bogus Trademark and Copyright Claims](https://www.eff.org/deeplinks/2024/03/sxsw-tried-silence-critics-bogus-trademark-and-copyright-claims-eff-fought-back)
+- [Vancouver&#39;s New Mega-Development](https://macleans.ca/society/sen%cc%93a%e1%b8%b5w-vancouver/)
 - [Resolume](https://www.resolume.com/)
-- [Bastion Fort](https://en.wikipedia.org/wiki/Bastion_fort)
 - [BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender](https://blenderbim.org/)
-- [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
