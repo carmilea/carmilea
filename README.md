@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Giant &#39;sand battery&#39; holds a week&#39;s heat for a whole town](https://newatlas.com/energy/sand-battery-finland/)
-- [Death by Neti Pot](https://arstechnica.com/science/2024/03/death-by-neti-pot-why-you-shouldnt-use-tap-water-to-clean-your-sinuses/)
-- [Linux TTY font for Chinese, but treat it as a syllabic writing](https://github.com/oldherl/syllazh)
-- [March 14, 7:00 a.m. CT: Starship&#39;s third flight test](https://twitter.com/SpaceX/status/1768004039680426406)
-- [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
+- [Care](https://johan.hal.se/wrote/2024/02/28/care/)
+- [Linux 6.9 Makes a Change to Satisfy Microsoft for EFI x86 Shim Loader Signing](https://www.phoronix.com/news/Linux-6.9-EFI-Updates)
+- [Nanos – A Unikernel](https://nanos.org)
+- [Unreleased preview of Microsoft&#39;s OS/2 2.0 is a glimpse down a road not taken](https://arstechnica.com/gadgets/2024/03/unreleased-preview-version-of-microsofts-os-2-2-0-posted-to-internet-archive/)
+- [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
 <!-- BLOG-POST-LIST:END -->
 
 ---
