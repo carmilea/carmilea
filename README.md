@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/index.html)
+- [Write for Others but Mostly for Yourself &lpar;2022&rpar;](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself)
 - [Nicolas Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki)
 - [Chasing Passive Income, Americans Turn to Vending Machines](https://www.wsj.com/personal-finance/passive-income-money-vending-machines-41800d11)
 - [Care](https://johan.hal.se/wrote/2024/02/28/care/)
-- [Nanos – A Unikernel](https://nanos.org)
-- [The Median Down Payment for a House, by U.S. State](https://www.visualcapitalist.com/cp/median-down-payment-for-a-house-by-state/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
