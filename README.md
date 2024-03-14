@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Violence of Relentless Positivity in the Workplace](https://ludic.mataroa.blog/blog/the-violent-role-of-relentless-positivity-in-the-workplace/)
-- [For God&#39;s Sake, Follow the Lean Startup Method](https://www.june.so/blog/lean-startup-method-2024)
-- [March 14 &lpar;3/14&rpar;: Pi Day](https://en.wikipedia.org/wiki/Pi_Day)
-- [British spy had governments on both sides of the war paying for his girlfriends](https://en.wikipedia.org/wiki/Eddie_Chapman)
-- [Reverse engineering a car key fob signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
+- [Tesorio Is Hiring a Head of Cloud Infrastructure and Operations &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
+- [Interview with Robert Garner, Lead Designer of SPARC at Sun Microsystems](https://www.youtube.com/watch?v=fcP07Rx7TVM)
+- [Campus free speech was in trouble in 2018, and the data shows worsening](https://greglukianoff.substack.com/p/the-skeptics-were-wrong-part-1)
+- [Oregon Passes Right to Repair Law Apple Lobbied to Kill](https://www.techdirt.com/2024/03/13/oregon-passes-right-to-repair-law-apple-lobbied-to-kill/)
+- [Starship&#39;s Third Flight Test](https://twitter.com/i/broadcasts/1LyxBnOvzvOxN)
 <!-- BLOG-POST-LIST:END -->
 
 ---
