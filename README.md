@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bastion Fort](https://en.wikipedia.org/wiki/Bastion_fort)
+- [BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender](https://blenderbim.org/)
 - [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/index.html)
 - [Write for Others but Mostly for Yourself &lpar;2022&rpar;](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself)
 - [Nicolas Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki)
-- [Chasing Passive Income, Americans Turn to Vending Machines](https://www.wsj.com/personal-finance/passive-income-money-vending-machines-41800d11)
-- [Care](https://johan.hal.se/wrote/2024/02/28/care/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
