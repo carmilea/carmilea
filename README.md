@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s Hearty, It&#39;s Meaty, It&#39;s Mold](https://newscenter.lbl.gov/2024/03/14/its-hearty-its-meaty-its-mold/)
+- [Ban on same-sex marriage unconstitutional, Sapporo High Court rules](https://www.japantimes.co.jp/news/2024/03/14/japan/crime-legal/same-sex-marriage-ruling/)
 - [CEO of data privacy company Onerep.com founded dozens of people-search firms](https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/)
 - [FCC Officially Raises Minimum Broadband Metric from 25Mbps to 100Mbps](https://www.pcmag.com/news/fcc-officially-raises-minimum-broadband-metric-from-25mbps-to-100mbps)
-- [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
-- [Learning From DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
-- [How Figma&#39;s databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
+- [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
