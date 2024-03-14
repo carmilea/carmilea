@@ -58,7 +58,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [I summarized my understanding of Linux systems](https://github.com/lsc4719/MyViewOfLinuxSystems)
 - [SXSW Tried to Silence Critics with Bogus Trademark and Copyright Claims](https://www.eff.org/deeplinks/2024/03/sxsw-tried-silence-critics-bogus-trademark-and-copyright-claims-eff-fought-back)
-- [Vancouver&#39;s New Mega-Development](https://macleans.ca/society/sen%cc%93a%e1%b8%b5w-vancouver/)
+- [Vancouver’s new mega-development is big, ambitious and undeniably Indigenous](https://macleans.ca/society/sen%cc%93a%e1%b8%b5w-vancouver/)
 - [Resolume](https://www.resolume.com/)
 - [BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender](https://blenderbim.org/)
 <!-- BLOG-POST-LIST:END -->
