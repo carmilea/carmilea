@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pornhub Blocked in Texas](https://variety.com/2024/digital/news/pornhub-texas-blocked-age-verification-law-1235942280/)
+- [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
 - [Learning From DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
 - [How Figma&#39;s databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
 - [Parsing the Postgres protocol – logging executed statements](https://kviklet.dev/blog/parsing-the-postgres-protocol/)
-- [Cicadas&#39; unique urination unlocks new understanding of fluid dynamics](https://phys.org/news/2024-03-cicadas-unique-urination-fluid-dynamics.html)
-- [Show HN: A fast HNSW implementation in Rust](https://github.com/swapneel/hnsw-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
