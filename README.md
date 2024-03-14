@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI CTO Doesn&#39;t Know What Data Was Used to Train Sora [video]](https://www.youtube.com/watch?v=mAUpxN-EIgU)
+- [Resolume](https://www.resolume.com/)
+- [Boeing employee proposes fixes to the company](https://old.reddit.com/r/boeing/comments/1be2oyr/responsibility_for_boeings_poor_performance/)
 - [Bastion Fort](https://en.wikipedia.org/wiki/Bastion_fort)
 - [BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender](https://blenderbim.org/)
-- [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/index.html)
-- [Write for Others but Mostly for Yourself &lpar;2022&rpar;](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself)
-- [Nicolas Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki)
 <!-- BLOG-POST-LIST:END -->
 
 ---
