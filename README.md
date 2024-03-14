@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare mitigates AI side channel attack](https://blog.cloudflare.com/ai-side-channel-attack-mitigated)
+- [I Always Knew I Was Different. I Just Didn&#39;t Know I Was a Sociopath](https://www.wsj.com/health/wellness/i-always-knew-i-was-different-i-just-didnt-know-i-was-a-sociopath-68ebe08b)
 - [Tesorio Is Hiring a Head of Cloud Infrastructure and Operations &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [Interview with Robert Garner, Lead Designer of SPARC at Sun Microsystems](https://www.youtube.com/watch?v=fcP07Rx7TVM)
-- [Campus free speech was in trouble in 2018, and the data shows worsening](https://greglukianoff.substack.com/p/the-skeptics-were-wrong-part-1)
-- [Oregon Passes Right to Repair Law Apple Lobbied to Kill](https://www.techdirt.com/2024/03/13/oregon-passes-right-to-repair-law-apple-lobbied-to-kill/)
-- [Starship&#39;s Third Flight Test](https://twitter.com/i/broadcasts/1LyxBnOvzvOxN)
+- [Boeing overwrote security camera footage of repair work on Alaska door plug](https://www.axios.com/2024/03/13/boeing-video-footage-overwrite-erased-door-plug-alaska)
+- [Adobe Firefly repeats the same AI blunders as Google Gemini](https://www.semafor.com/article/03/13/2024/adobe-firefly-repeats-the-same-ai-blunders-as-google-gemini)
 <!-- BLOG-POST-LIST:END -->
 
 ---
