@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare mitigates AI side channel attack](https://blog.cloudflare.com/ai-side-channel-attack-mitigated)
-- [I Always Knew I Was Different. I Just Didn&#39;t Know I Was a Sociopath](https://www.wsj.com/health/wellness/i-always-knew-i-was-different-i-just-didnt-know-i-was-a-sociopath-68ebe08b)
-- [Tesorio Is Hiring a Head of Cloud Infrastructure and Operations &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [Boeing overwrote security camera footage of repair work on Alaska door plug](https://www.axios.com/2024/03/13/boeing-video-footage-overwrite-erased-door-plug-alaska)
-- [Adobe Firefly repeats the same AI blunders as Google Gemini](https://www.semafor.com/article/03/13/2024/adobe-firefly-repeats-the-same-ai-blunders-as-google-gemini)
+- [Judge rules Craig Wright is not Satoshi Nakamoto](https://cointelegraph.com/news/craig-wright-not-satoshi-nakamoto)
+- [The neuroscientist formerly known as Prince&#39;s audio engineer](https://www.nature.com/articles/d41586-024-00791-5)
+- [Sam Altman rejoins OpenAI&#39;s board after investigation into sudden firing](https://www.theverge.com/2024/3/8/24094885/openai-sam-altman-investigation-board-results)
+- [The Importance of Women in Tech](https://www.singlestore.com/blog/the-importance-of-women-in-tech)
+- [Chainguard Images now available on Docker Hub](https://www.chainguard.dev/unchained/chainguard-images-now-available-on-docker-hub)
 <!-- BLOG-POST-LIST:END -->
 
 ---
