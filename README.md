@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [12 months of record ocean heat has scientists puzzled and concerned](https://www.nbcnews.com/science/environment/oceans-record-hot-rcna143179)
-- [Boeing Whistleblower Before Death: &quot;If Anything Happens, It&#39;s Not Suicide&quot;](https://futurism.com/the-byte/boeing-whistleblower-warning-not-suicide)
+- [Norfolk County Council beats Apple in £385M iPhone row](https://www.bbc.co.uk/news/technology-68580235)
+- [Open Source Alternatives to Popular Cloud Services](https://degooglisons-internet.org/en/)
+- [A developer portfolio as a 2D top-down walking simulator](https://jslegenddev.github.io/portfolio/)
+- [Supreme Court Sets Rules for Blocking Citizens from Officials&#39; Accounts](https://www.nytimes.com/2024/03/15/us/supreme-court-social-media-free-speech.html)
 - [Ollama now supports AMD graphics cards](https://ollama.com/blog/amd-preview)
-- [What&#39;s worked in Computer Science: 1999 vs. 2015 &lpar;2015&rpar;](http://danluu.com/butler-lampson-1999/)
-- [Tiny bitfield based text renderer &lpar;2022&rpar;](https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
