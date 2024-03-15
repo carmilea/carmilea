@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Structured Generation Improves LLM Performance: GSM8K Benchmark](https://blog.dottxt.co/performance-gsm8k.html)
-- [The Miss Julie](https://aeon.co/essays/the-woman-behind-strindbergs-miss-julie-and-her-male-alter-ego)
-- [CIA launched covert influence operation against China](https://www.reuters.com/world/us/trump-launched-cia-covert-influence-operation-against-china-2024-03-14/)
+- [A new technique to work out a corpse&#39;s time of death](https://www.economist.com/science-and-technology/2024/03/06/a-new-technique-to-work-out-a-corpses-time-of-death)
+- [Reversing for dummies – x86 assembly and C code &lpar;Beginner/ADHD friendly&rpar;](https://0x44.cc/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
+- [The Montreal Problem: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
 - [Show HN: Matrix Multiplication with Half the Multiplications](https://github.com/trevorpogue/algebraic-nnhw)
 - [Britain&#39;s decade of Art Deco densification](https://www.worksinprogress.news/p/britains-interwar-apartment-boom)
 <!-- BLOG-POST-LIST:END -->
