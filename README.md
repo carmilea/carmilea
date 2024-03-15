@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A new technique to work out a corpse&#39;s time of death](https://www.economist.com/science-and-technology/2024/03/06/a-new-technique-to-work-out-a-corpses-time-of-death)
+- [America&#39;s Plumber Deficit Isn&#39;t Good for the Economy](https://www.bloomberg.com/news/articles/2024-03-14/plumber-jobs-have-high-demand-in-us-with-competitive-salary)
+- [Former telecom manager admits to doing SIM swaps for $1k](https://www.bleepingcomputer.com/news/security/former-telecom-manager-admits-to-doing-sim-swaps-for-1-000/)
+- [Do It Now](https://stevepavlina.com/blog/2005/11/do-it-now/)
 - [Reversing for dummies – x86 assembly and C code &lpar;Beginner/ADHD friendly&rpar;](https://0x44.cc/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
-- [The Montreal Problem: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
-- [Show HN: Matrix Multiplication with Half the Multiplications](https://github.com/trevorpogue/algebraic-nnhw)
-- [Britain&#39;s decade of Art Deco densification](https://www.worksinprogress.news/p/britains-interwar-apartment-boom)
+- [The Miss Julie](https://aeon.co/essays/the-woman-behind-strindbergs-miss-julie-and-her-male-alter-ego)
 <!-- BLOG-POST-LIST:END -->
 
 ---
