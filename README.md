@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Norfolk County Council beats Apple in £385M iPhone row](https://www.bbc.co.uk/news/technology-68580235)
-- [Open Source Alternatives to Popular Cloud Services](https://degooglisons-internet.org/en/)
-- [A developer portfolio as a 2D top-down walking simulator](https://jslegenddev.github.io/portfolio/)
-- [Supreme Court Sets Rules for Blocking Citizens from Officials&#39; Accounts](https://www.nytimes.com/2024/03/15/us/supreme-court-social-media-free-speech.html)
-- [Ollama now supports AMD graphics cards](https://ollama.com/blog/amd-preview)
+- [Show HN: Implementation of the &quot;Self-Rewarding Language Models&quot; Paper by MetaAI](https://github.com/Oxen-AI/Self-Rewarding-Language-Models)
+- [GhostRace: Exploiting and Mitigating Speculative Race Conditions](https://www.vusec.net/projects/ghostrace/)
+- [CS251: Great Ideas in Theoretical Computer Science &lpar;CMU&rpar;](https://www.cs251.com)
+- [Sheng Liang&#39;s Acorn Labs Drops Its Runtime for GPTScript](https://fossforce.com/2024/03/sheng-liangs-acorn-labs-drops-its-runtime-for-gptscript/)
+- [Boeing cockpit seat switch mishap reportedly led to Latam flight incident](https://www.theguardian.com/business/2024/mar/15/boeing-cockpit-seat-switch-latam-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
