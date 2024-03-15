@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Walmart begins selling the Mac for the first time: M1 MacBook Air for $699](https://9to5mac.com/2024/03/15/walmart-m1-macbook-air-launch/)
+- [12 months of record ocean heat has scientists puzzled and concerned](https://www.nbcnews.com/science/environment/oceans-record-hot-rcna143179)
 - [Boeing Whistleblower Before Death: &quot;If Anything Happens, It&#39;s Not Suicide&quot;](https://futurism.com/the-byte/boeing-whistleblower-warning-not-suicide)
 - [Ollama now supports AMD graphics cards](https://ollama.com/blog/amd-preview)
-- [Deadly morel mushroom outbreak highlights big gaps in fungi knowledge](https://arstechnica.com/science/2024/03/deadly-morel-mushroom-outbreak-highlights-big-gaps-in-fungi-knowledge/)
 - [What&#39;s worked in Computer Science: 1999 vs. 2015 &lpar;2015&rpar;](http://danluu.com/butler-lampson-1999/)
+- [Tiny bitfield based text renderer &lpar;2022&rpar;](https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
