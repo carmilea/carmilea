@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists Discovered a &#39;Fear Switch&#39; in the Brain, and How to Turn It Off](https://www.sciencealert.com/scientists-discovered-a-fear-switch-in-the-brain-and-how-to-turn-it-off)
-- [Not so quickly extending QUIC](https://lwn.net/Articles/964377/)
-- [New York Disbars Infamous Copyright Troll](https://abovethelaw.com/2024/03/new-york-disbars-infamous-copyright-troll/)
-- [The Getty Makes Nearly 88,000 Art Images Free to Use However You Like](https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html)
+- [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
+- [CA train project needs another $100B to complete route from San Fran to LA](https://www.kcra.com/article/california-bullet-train-project-funding-san-francisco-los-angeles/60181448)
+- [New York disbars infamous copyright troll](https://abovethelaw.com/2024/03/new-york-disbars-infamous-copyright-troll/)
+- [The Getty makes nearly 88k art images free to use](https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html)
 - [Class Action Against General Motors LLC, OnStar LLC, LexisNexis Risk Solutions [pdf]](https://static01.nyt.com/newsgraphics/documenttools/0a813fc8e0ac1b6c/6c03d310-full.pdf)
 <!-- BLOG-POST-LIST:END -->
 
