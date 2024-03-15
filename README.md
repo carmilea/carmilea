@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Win against Facebook. Giant not allowed to censor content at will](https://en.panoptykon.org/sin-wins-against-facebook)
+- [Doola &lpar;YC S20&rpar; Is Hiring a Director of Finance $$$$$](https://www.workatastartup.com/jobs/55496)
+- [The United States has its first large offshore wind farm, with more to come](https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384)
 - [GhostRace: Exploiting and Mitigating Speculative Race Conditions](https://www.vusec.net/projects/ghostrace/)
 - [Great Ideas in Theoretical Computer Science](https://www.cs251.com)
-- [ArXiv Papers as Audiobooks](https://github.com/imelnyk/ArxivPapers)
-- [Building a dynamic Canvas rendering engine using JSX](https://www.aha.io/engineering/articles/canvasx)
-- [Ollama now supports AMD graphics cards](https://ollama.com/blog/amd-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
