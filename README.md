@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IAM Is the Worst](https://matduggan.com/iam-is-the-worst/)
+- [Structured Generation Improves LLM Performance: GSM8K Benchmark](https://blog.dottxt.co/performance-gsm8k.html)
+- [The Miss Julie](https://aeon.co/essays/the-woman-behind-strindbergs-miss-julie-and-her-male-alter-ego)
+- [CIA launched covert influence operation against China](https://www.reuters.com/world/us/trump-launched-cia-covert-influence-operation-against-china-2024-03-14/)
 - [Show HN: Matrix Multiplication with Half the Multiplications](https://github.com/trevorpogue/algebraic-nnhw)
-- [Photoroom &lpar;YC S20&rpar; Is Hiring a Front End State Architect in Paris &lpar;Mobx, React&rpar;](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
-- [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
-- [Everest 2024: Nepal&#39;s &quot;GPS Chip&quot; Plan Has Major Problems](https://www.alanarnette.com/blog/2024/03/05/everest-2024-nepals-gps-chip-plan-has-major-problems/)
+- [Britain&#39;s decade of Art Deco densification](https://www.worksinprogress.news/p/britains-interwar-apartment-boom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
