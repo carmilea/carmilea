@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RSS was released 25 years ago today](https://en.wikipedia.org/wiki/RSS)
 - [Postgres is eating the database world](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
 - [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
 - [Deleting Software I Wrote Upon Leaving Employment of a Company](https://law.stackexchange.com/questions/101283/deleting-software-i-wrote-upon-leaving-employment-of-a-company)
 - [New York disbars infamous copyright troll](https://abovethelaw.com/2024/03/new-york-disbars-infamous-copyright-troll/)
-- [The Getty makes nearly 88k art images free to use](https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
