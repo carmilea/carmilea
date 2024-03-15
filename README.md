@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John Barnett before death &quot;if anything happens, it&#39;s not suicide&quot;, claims friend](https://abcnews4.com/news/local/if-anything-happens-its-not-suicide-boeing-whistleblowers-prediction-before-death-south-carolina-abc-news-4-2024)
 - [Harvard Probe Finds Honesty Researcher Engaged in Scientific Misconduct](https://www.wsj.com/us-news/education/harvard-investigation-francesa-gino-documents-9e334ffe)
 - [Postgres is eating the database world](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
 - [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
 - [Weak rules allow ultra-processed foods like Lunchables on school menus &lpar;2023&rpar;](https://www.washingtonpost.com/health/interactive/2023/lunchables-school-lunch-ultraprocessed-foods/)
-- [Deleting Software I Wrote Upon Leaving Employment of a Company](https://law.stackexchange.com/questions/101283/deleting-software-i-wrote-upon-leaving-employment-of-a-company)
 <!-- BLOG-POST-LIST:END -->
 
 ---
