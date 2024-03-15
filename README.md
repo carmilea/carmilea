@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google asks me daily for my location to improve connectivity even if I say no](https://news.ycombinator.com/item?id=39712637)
-- [John Barnett before death &quot;if anything happens, it&#39;s not suicide&quot;, claims friend](https://abcnews4.com/news/local/if-anything-happens-its-not-suicide-boeing-whistleblowers-prediction-before-death-south-carolina-abc-news-4-2024)
-- [Harvard concluded that a dishonesty expert committed misconduct](https://www.chronicle.com/article/heres-the-unsealed-report-showing-how-harvard-concluded-that-a-dishonesty-expert-committed-misconduct)
+- [McDonald&#39;s customers unable to order after systems outage](https://www.bbc.co.uk/news/business-68573106)
+- [Everest 2024: Nepal&#39;s &quot;GPS Chip&quot; Plan Has Major Problems](https://www.alanarnette.com/blog/2024/03/05/everest-2024-nepals-gps-chip-plan-has-major-problems/)
+- [What Every User Should Know About Mixed Precision Training in PyTorch](https://pytorch.org/blog/what-every-user-should-know-about-mixed-precision-training-in-pytorch/)
+- [A friend of John Barnett said he predicted he might wind up dead](https://abcnews4.com/news/local/if-anything-happens-its-not-suicide-boeing-whistleblowers-prediction-before-death-south-carolina-abc-news-4-2024)
 - [Harvard Probe Finds Honesty Researcher Engaged in Scientific Misconduct](https://www.wsj.com/us-news/education/harvard-investigation-francesa-gino-documents-9e334ffe)
-- [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
 <!-- BLOG-POST-LIST:END -->
 
 ---
