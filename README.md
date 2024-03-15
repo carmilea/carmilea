@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America&#39;s Plumber Deficit Isn&#39;t Good for the Economy](https://www.bloomberg.com/news/articles/2024-03-14/plumber-jobs-have-high-demand-in-us-with-competitive-salary)
-- [Former telecom manager admits to doing SIM swaps for $1k](https://www.bleepingcomputer.com/news/security/former-telecom-manager-admits-to-doing-sim-swaps-for-1-000/)
-- [Do It Now](https://stevepavlina.com/blog/2005/11/do-it-now/)
-- [Reversing for dummies – x86 assembly and C code &lpar;Beginner/ADHD friendly&rpar;](https://0x44.cc/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
-- [The Miss Julie](https://aeon.co/essays/the-woman-behind-strindbergs-miss-julie-and-her-male-alter-ego)
+- [What&#39;s worked in Computer Science: 1999 vs. 2015 &lpar;2015&rpar;](http://danluu.com/butler-lampson-1999/)
+- [Tiny bitfield based text renderer](https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/)
+- [Compressing Chess Moves for Fun and Profit](https://mbuffett.com/posts/compressing-chess-moves/)
+- [FTC and DOJ want to free McDonald&#39;s ice cream machines from DMCA repair rules](https://arstechnica.com/tech-policy/2024/03/ftc-and-doj-want-to-free-mcdonalds-ice-cream-machines-from-dmca-repair-rules/)
+- [NPM Install Everything, and the Complete and Utter Chaos That Follows](https://boehs.org/node/npm-everything)
 <!-- BLOG-POST-LIST:END -->
 
 ---
