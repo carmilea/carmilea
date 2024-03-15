@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s Hearty, It&#39;s Meaty, It&#39;s Mold](https://newscenter.lbl.gov/2024/03/14/its-hearty-its-meaty-its-mold/)
-- [Ban on same-sex marriage unconstitutional, Sapporo High Court rules](https://www.japantimes.co.jp/news/2024/03/14/japan/crime-legal/same-sex-marriage-ruling/)
-- [CEO of data privacy company Onerep.com founded dozens of people-search firms](https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/)
-- [FCC Officially Raises Minimum Broadband Metric from 25Mbps to 100Mbps](https://www.pcmag.com/news/fcc-officially-raises-minimum-broadband-metric-from-25mbps-to-100mbps)
-- [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
+- [New York Disbars Infamous Copyright Troll](https://abovethelaw.com/2024/03/new-york-disbars-infamous-copyright-troll/)
+- [The Getty Makes Nearly 88,000 Art Images Free to Use However You Like](https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html)
+- [Class Action Against General Motors LLC, OnStar LLC, LexisNexis Risk Solutions [pdf]](https://static01.nyt.com/newsgraphics/documenttools/0a813fc8e0ac1b6c/6c03d310-full.pdf)
+- [Oregon Outback is now the largest Dark Sky Sanctuary in the world](https://www.hereisoregon.com/experiences/2024/03/oregon-outback-is-now-the-largest-dark-sky-sanctuary-in-the-world.html)
+- [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
