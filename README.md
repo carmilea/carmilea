@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgres is eating the database world](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
 - [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
-- [CA train project needs another $100B to complete route from San Fran to LA](https://www.kcra.com/article/california-bullet-train-project-funding-san-francisco-los-angeles/60181448)
+- [Deleting Software I Wrote Upon Leaving Employment of a Company](https://law.stackexchange.com/questions/101283/deleting-software-i-wrote-upon-leaving-employment-of-a-company)
 - [New York disbars infamous copyright troll](https://abovethelaw.com/2024/03/new-york-disbars-infamous-copyright-troll/)
 - [The Getty makes nearly 88k art images free to use](https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html)
-- [Class Action Against General Motors LLC, OnStar LLC, LexisNexis Risk Solutions [pdf]](https://static01.nyt.com/newsgraphics/documenttools/0a813fc8e0ac1b6c/6c03d310-full.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
