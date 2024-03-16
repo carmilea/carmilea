@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: deptry 0.14.0 – detect unused Python dependencies up to 10 times faster](https://github.com/fpgmaas/deptry/releases/tag/0.14.0)
 - [Brain Waves Appear to Wash Out Waste During Sleep](https://jamanetwork.com/journals/jama/fullarticle/2816616)
 - [Abnormal brain structure seen in children with developmental language issues](https://medicalxpress.com/news/2024-03-abnormal-brain-children-developmental-language.html)
-- [Reddit&#39;s Sale of User Data for AI Training Draws FTC Investigation](https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/)
+- [What part of Rust compilation is the bottleneck?](https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html)
 - [Titanosaurs were the biggest land animals Earth&#39;s ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
-- [Doola &lpar;YC S20&rpar; Is Hiring a Director of Finance](https://www.workatastartup.com/jobs/55496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
