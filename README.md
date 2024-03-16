@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT prompt reply copy-pasted in a published research paper](https://twitter.com/Saboo_Shubham_/status/1768714521340752093)
-- [AI versions of deceased loved ones could be a serious threat to mental health](https://theconversation.com/ghostbots-ai-versions-of-deceased-loved-ones-could-be-a-serious-threat-to-mental-health-224984)
+- [Two-Thirds of U.S. Adults Would Rather Wait to Watch Movies on Streaming](https://www.indiewire.com/news/analysis/movies-on-streaming-not-in-theaters-1234964413/)
 - [Titanosaurs were the biggest land animals Earth&#39;s ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
 - [Doola &lpar;YC S20&rpar; Is Hiring a Director of Finance](https://www.workatastartup.com/jobs/55496)
 - [The End of the Dark Universe?](https://nautil.us/the-end-of-the-dark-universe-531983/)
+- [The United States has its first large offshore wind farm, with more to come](https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
