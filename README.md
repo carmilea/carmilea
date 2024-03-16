@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gut bacteria–derived serotonin promotes immune tolerance in early life](https://www.science.org/doi/10.1126/sciimmunol.adj4775)
-- [Ask HN: Books that gave you different perspective on religion](https://news.ycombinator.com/item?id=39729307)
+- [The language you speak changes your perception of time](https://www.popsci.com/language-time-perception/)
+- [CXL Is Dead in the AI Era](https://www.semianalysis.com/p/cxl-is-dead-in-the-ai-era)
+- [What the Gardasil Testing May Have Missed](https://slate.com/health-and-science/2017/12/flaws-in-the-clinical-trials-for-gardasil-made-it-harder-to-properly-assess-safety.html)
 - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 - [IBM 360 in UK need a home](https://www.ibm360.co.uk/)
-- [20 Years in the Making, GnuCOBOL Is Ready for Industry](https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
