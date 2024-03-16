@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapdragon X Elite Multi-Core Superiority Claims over Apple&#39;s M3 Were Right](https://wccftech.com/snapdragon-x-elite-vs-m3-single-core-multi-core-early-comparison/)
+- [Delusions Shape Our Reality](https://iai.tv/articles/delusions-shape-our-reality-auid-2772)
 - [Mozilla will be retiring the Mozilla Location Service](https://github.com/mozilla/ichnaea/issues/2065)
+- [AutoDev: Automated AI-driven development by Microsoft](https://arxiv.org/abs/2403.08299)
 - [ASCII art elicits harmful responses from 5 major AI chatbots](https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/)
-- [Ad agency boss owned two Ferraris but wouldn&#39;t buy a real server](https://www.theregister.com/2024/03/15/on_call/)
-- [Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)
-- [Affordable Wheel Based Refreshable Braille Display](https://jacquesmattheij.com/refreshablebraille/BrailleDisplayProject.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
