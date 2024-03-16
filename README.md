@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Printing Machine Code &lpar;2005&rpar;](https://susam.net/self-printing-machine-code.html)
-- [Show HN: deptry 0.14.0 – detect unused Python dependencies up to 10 times faster](https://github.com/fpgmaas/deptry/releases/tag/0.14.0)
-- [Brain Waves Appear to Wash Out Waste During Sleep](https://jamanetwork.com/journals/jama/fullarticle/2816616)
-- [Abnormal brain structure seen in children with developmental language issues](https://medicalxpress.com/news/2024-03-abnormal-brain-children-developmental-language.html)
-- [What part of Rust compilation is the bottleneck?](https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html)
+- [ASCII art elicits harmful responses from 5 major AI chatbots](https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/)
+- [Ad agency boss owned two Ferraris but wouldn&#39;t buy a real server](https://www.theregister.com/2024/03/15/on_call/)
+- [Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)
+- [Affordable Wheel Based Refreshable Braille Display](https://jacquesmattheij.com/refreshablebraille/BrailleDisplayProject.html)
+- [Researchers, please replace SQLite with DuckDB now](https://dirk-petersen.medium.com/researchers-please-replace-sqlite-with-duckdb-now-f038044a2702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
