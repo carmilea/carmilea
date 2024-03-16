@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evangelicals Use Digital Surveillance to Target the Unconverted](https://newrepublic.com/article/179397/evangelical-app-targeting-immigrants-surveillance)
+- [JWT confirms something is seriously wrong with our understanding of the universe](https://www.livescience.com/space/cosmology/james-webb-telescope-confirms-there-is-something-seriously-wrong-with-our-understanding-of-the-universe)
+- [My new System76 Thelio is hands-down the best desktop PC I&#39;ve ever tested](https://www.zdnet.com/home-and-office/my-new-system76-thelio-is-hands-down-the-best-desktop-pc-ive-ever-tested/)
 - [Snapdragon X Elite Multi-Core Superiority Claims over Apple&#39;s M3 Were Right](https://wccftech.com/snapdragon-x-elite-vs-m3-single-core-multi-core-early-comparison/)
 - [Delusions Shape Our Reality](https://iai.tv/articles/delusions-shape-our-reality-auid-2772)
-- [Mozilla will be retiring the Mozilla Location Service](https://github.com/mozilla/ichnaea/issues/2065)
-- [AutoDev: Automated AI-driven development by Microsoft](https://arxiv.org/abs/2403.08299)
-- [ASCII art elicits harmful responses from 5 major AI chatbots](https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
