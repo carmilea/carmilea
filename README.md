@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why can&#39;t image generation models spell?](https://news.ycombinator.com/item?id=39727376)
-- [Show HN: Flash Attention in ~100 lines of CUDA](https://github.com/tspeterkim/flash-attention-minimal)
-- [&quot;It&#39;s a Silent Fire&quot;: Decaying Digital Movie and TV Shows Are a Hollywood Crisis](https://www.hollywoodreporter.com/business/digital/digital-preservation-film-tv-shows-archives-1235851957/)
-- [Loongson 3A6000: A Star Among Chinese CPUs](https://chipsandcheese.com/2024/03/13/loongson-3a6000-a-star-among-chinese-cpus/)
-- [How to feed all the power-hungry AI data centers](https://caseyhandmer.wordpress.com/2024/03/12/how-to-feed-the-ais/)
+- [Why African startups don&#39;t always need to expand across the continent](https://restofworld.org/2024/3-minutes-with-odun-eweniyi/)
+- [TV Station Launches Multiple 4K Broadcasts OTA on ATSC 1.0 [video]](https://www.youtube.com/watch?v=e_94q9TCCDY)
+- [Georg Cantor and His Heritage](https://arxiv.org/abs/math/0209244)
+- [The Future of the Monetary System [pdf]](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/csri-future-of-the-monetary-system.pdf)
+- [Research shows that people who BS are more likely to fall for BS &lpar;2021&rpar;](https://uwaterloo.ca/news/media/research-shows-people-who-bs-are-more-likely-fall-bs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
