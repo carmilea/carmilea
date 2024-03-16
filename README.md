@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Win against Facebook. Giant not allowed to censor content at will](https://en.panoptykon.org/sin-wins-against-facebook)
-- [Doola &lpar;YC S20&rpar; Is Hiring a Director of Finance $$$$$](https://www.workatastartup.com/jobs/55496)
+- [Titanosaurs were the biggest land animals Earth&#39;s ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
+- [Doola &lpar;YC S20&rpar; Is Hiring a Director of Finance](https://www.workatastartup.com/jobs/55496)
+- [The End of the Dark Universe?](https://nautil.us/the-end-of-the-dark-universe-531983/)
 - [The United States has its first large offshore wind farm, with more to come](https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384)
-- [GhostRace: Exploiting and Mitigating Speculative Race Conditions](https://www.vusec.net/projects/ghostrace/)
-- [Great Ideas in Theoretical Computer Science](https://www.cs251.com)
+- [Hathora&#39;s Bare Metal Journey](https://blog.hathora.dev/our-bare-metal-journey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
