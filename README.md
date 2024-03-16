@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla will be retiring the Mozilla Location Service](https://github.com/mozilla/ichnaea/issues/2065)
 - [ASCII art elicits harmful responses from 5 major AI chatbots](https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/)
 - [Ad agency boss owned two Ferraris but wouldn&#39;t buy a real server](https://www.theregister.com/2024/03/15/on_call/)
 - [Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)
 - [Affordable Wheel Based Refreshable Braille Display](https://jacquesmattheij.com/refreshablebraille/BrailleDisplayProject.html)
-- [Researchers, please replace SQLite with DuckDB now](https://dirk-petersen.medium.com/researchers-please-replace-sqlite-with-duckdb-now-f038044a2702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
