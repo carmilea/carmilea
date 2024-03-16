@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Expensive EV repairs and low resale prices following purchase of 100,000 Teslas](https://fortune.com/2024/03/15/ceo-steps-down-prices-following-purchase-teslas/)
+- [Gut bacteria–derived serotonin promotes immune tolerance in early life](https://www.science.org/doi/10.1126/sciimmunol.adj4775)
+- [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
+- [Deep-sea hiatus record reveals orbital 2.4 Myr paced eccentricity grand cycles](https://www.nature.com/articles/s41467-024-46171-5)
 - [How to Win Friends and Hustle People](https://www.nytimes.com/2024/03/14/style/superiority-burger-ashwin-deshmukh.html)
-- [20 Years in the Making, GnuCOBOL Is Ready for Industry](https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/)
-- [Hackintosh Is Almost Dead](https://aplus.rs/2024/hackintosh-almost-dead/)
-- [Lambda on hard mode: serverless HTTP in Rust](https://modal.com/blog/serverless-http)
-- [Why African startups don&#39;t always need to expand across the continent](https://restofworld.org/2024/3-minutes-with-odun-eweniyi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
