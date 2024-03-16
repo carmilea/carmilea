@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Abnormal brain structure seen in children with developmental language issues](https://medicalxpress.com/news/2024-03-abnormal-brain-children-developmental-language.html)
+- [Reddit&#39;s Sale of User Data for AI Training Draws FTC Investigation](https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/)
+- [Amazon violated workers&#39; rights at crucial air hub, labor regulators allege](https://www.washingtonpost.com/technology/2024/03/14/amazon-labor-law-violation-workers/)
 - [Titanosaurs were the biggest land animals Earth&#39;s ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
 - [Doola &lpar;YC S20&rpar; Is Hiring a Director of Finance](https://www.workatastartup.com/jobs/55496)
-- [The end of the dark universe?](https://nautil.us/the-end-of-the-dark-universe-531983/)
-- [The United States has its first large offshore wind farm, with more to come](https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
