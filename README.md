@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackintosh Is Almost Dead](https://aplus.rs/2024/hackintosh-almost-dead/)
 - [Why African startups don&#39;t always need to expand across the continent](https://restofworld.org/2024/3-minutes-with-odun-eweniyi/)
 - [TV Station Launches Multiple 4K Broadcasts OTA on ATSC 1.0 [video]](https://www.youtube.com/watch?v=e_94q9TCCDY)
 - [Georg Cantor and His Heritage](https://arxiv.org/abs/math/0209244)
 - [The Future of the Monetary System [pdf]](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/csri-future-of-the-monetary-system.pdf)
-- [Research shows that people who BS are more likely to fall for BS &lpar;2021&rpar;](https://uwaterloo.ca/news/media/research-shows-people-who-bs-are-more-likely-fall-bs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
