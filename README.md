@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why can&#39;t image generation models spell?](https://news.ycombinator.com/item?id=39727376)
 - [Show HN: Flash Attention in ~100 lines of CUDA](https://github.com/tspeterkim/flash-attention-minimal)
-- [Ask HN: How do you use AI for software engineering?](https://news.ycombinator.com/item?id=39726632)
 - [&quot;It&#39;s a Silent Fire&quot;: Decaying Digital Movie and TV Shows Are a Hollywood Crisis](https://www.hollywoodreporter.com/business/digital/digital-preservation-film-tv-shows-archives-1235851957/)
 - [Loongson 3A6000: A Star Among Chinese CPUs](https://chipsandcheese.com/2024/03/13/loongson-3a6000-a-star-among-chinese-cpus/)
-- [Thebroken &lpar;2003&rpar;](https://archive.org/details/thebroken_xvid/)
+- [How to feed all the power-hungry AI data centers](https://caseyhandmer.wordpress.com/2024/03/12/how-to-feed-the-ais/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
