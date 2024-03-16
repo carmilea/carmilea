@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Win Friends and Hustle People](https://www.nytimes.com/2024/03/14/style/superiority-burger-ashwin-deshmukh.html)
+- [20 Years in the Making, GnuCOBOL Is Ready for Industry](https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/)
 - [Hackintosh Is Almost Dead](https://aplus.rs/2024/hackintosh-almost-dead/)
+- [Lambda on hard mode: serverless HTTP in Rust](https://modal.com/blog/serverless-http)
 - [Why African startups don&#39;t always need to expand across the continent](https://restofworld.org/2024/3-minutes-with-odun-eweniyi/)
-- [TV Station Launches Multiple 4K Broadcasts OTA on ATSC 1.0 [video]](https://www.youtube.com/watch?v=e_94q9TCCDY)
-- [Georg Cantor and His Heritage](https://arxiv.org/abs/math/0209244)
-- [The Future of the Monetary System [pdf]](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/csri-future-of-the-monetary-system.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
