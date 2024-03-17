@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Return of the Frame Pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
+- [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
+- [A JavaScript Nightmare](https://blog.ignaciobrasca.com/opinion/2024/03/15/javascript-nightmare.html)
+- [We were wizards – a foreword to Learning Perl](https://jwgoerlich.com/we-were-wizards-learning-perl/)
+- [The return of the frame pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
 - [In Cleveland, mushrooms digest entire houses](https://www.bbc.com/future/article/20240314-fungi-can-be-used-to-clean-pollution-and-combat-climate-change)
-- [Losing Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
-- [Debloat non-rooted Android devices](https://github.com/0x192/universal-android-debloater)
-- [Low-tech Magazine underscores the potential of past technologies](https://solar.lowtechmagazine.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
