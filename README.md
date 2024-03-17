@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple&#39;s New CarPlay Becomes Last Hope to Crack the Auto Industry](https://www.bloomberg.com/news/newsletters/2024-03-17/apple-aapl-revamped-carplay-becomes-last-hope-after-apple-car-is-canceled-ltvif8zt)
+- [Why Are There Suddenly So Many Car Washes?](https://www.bloomberg.com/news/features/2024-02-21/car-washes-are-taking-over-the-us-here-s-why)
 - [Ahead of IPO, Reddit blends advertising into user posts](https://www.theregister.com/2024/03/16/reddit_promoted_posts/)
-- [The News Business Is Cratering](https://www.politico.com/news/magazine/2024/01/27/is-the-journalism-death-spasm-finally-here-00138187)
 - [Mars Has Influence on Earth&#39;s Oceans and Climate, Repeating Every 2.4M Years](https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/)
-- [How to mess with your roommate &lpar;2018&rpar;](https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/)
+- [Plentiful, high-paying jobs in the age of AI](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the)
+- [Imitation Learning &lpar;2023&rpar;](https://geohot.github.io//blog/jekyll/update/2023/11/18/imitation-learning.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
