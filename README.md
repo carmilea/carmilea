@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux 6.9 Change Allows Old Macs Using Firewire to Enjoy Virtualization Support](https://www.phoronix.com/news/Linux-6.9-PCI)
+- [The Luddite&#39;s Guide to Defending Cash &lpar;Part 1&rpar;](https://www.asomo.co/p/the-luddites-guide-to-defending-physical-cash)
 - [When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips)
 - [Nanofont3x4: Smallest readable 3x4 font with lowercase](https://github.com/Michaelangel007/nanofont3x4)
-- [F-35 Cleared for Full-Rate Production 17 Years After Its First Flight](https://www.twz.com/air/f-35-cleared-for-full-rate-production-17-years-after-its-first-flight)
 - [The High-Risk Refactoring](https://webup.org/blog/the-high-risk-refactoring/)
+- [A cheap, generic drug became a darling of longevity enthusiasts](https://www.washingtonpost.com/business/2024/03/15/rapamycin-longevity-drug/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
