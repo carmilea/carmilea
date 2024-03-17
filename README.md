@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Imitation Learning &lpar;2023&rpar;](https://geohot.github.io//blog/jekyll/update/2023/11/18/imitation-learning.html)
 - [Google Scholar search: &quot;certainly, here is&quot; -chatgpt -llm](https://simonwillison.net/2024/Mar/15/certainly-here-is-google-scholar/)
+- [America&#39;s affordable house of the future failed](https://thehustle.co/originals/how-americas-affordable-house-of-the-future-failed)
 - [HashiCorp Exploring Potential Sale](https://www.reuters.com/technology/cloud-software-company-hashicorp-exploring-potential-sale-bloomberg-news-reports-2024-03-15/)
 - [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
-- [Liebreich: Net Zero Will Be Harder Than You Think – and Easier. Part II: Easier](https://about.bnef.com/blog/liebreich-net-zero-will-be-harder-than-you-think-and-easier-part-ii-easier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
