@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Are There Suddenly So Many Car Washes?](https://www.bloomberg.com/news/features/2024-02-21/car-washes-are-taking-over-the-us-here-s-why)
-- [Ahead of IPO, Reddit blends advertising into user posts](https://www.theregister.com/2024/03/16/reddit_promoted_posts/)
-- [Mars Has Influence on Earth&#39;s Oceans and Climate, Repeating Every 2.4M Years](https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/)
-- [Plentiful, high-paying jobs in the age of AI](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the)
-- [Imitation Learning &lpar;2023&rpar;](https://geohot.github.io//blog/jekyll/update/2023/11/18/imitation-learning.html)
+- [Linux 6.9 Change Allows Old Macs Using Firewire to Enjoy Virtualization Support](https://www.phoronix.com/news/Linux-6.9-PCI)
+- [When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips)
+- [Nanofont3x4: Smallest readable 3x4 font with lowercase](https://github.com/Michaelangel007/nanofont3x4)
+- [F-35 Cleared for Full-Rate Production 17 Years After Its First Flight](https://www.twz.com/air/f-35-cleared-for-full-rate-production-17-years-after-its-first-flight)
+- [The High-Risk Refactoring](https://webup.org/blog/the-high-risk-refactoring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
