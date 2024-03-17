@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok](https://github.com/xai-org/grok)
+- [Superiority by Arthur C. Clarke](https://metallicman.com/laoban4site/superiority-by-arthur-c-clarke-full-text/)
 - [Compressing Images with Neural Networks](https://mlumiste.com/technical/compression-deep-learning/)
-- [Uber Australia Is Creating a Yellow Union to Head Off Reform](https://jacobin.com/2024/03/uber-australia-worker-committee-union)
 - [When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips)
 - [Nanofont3x4: Smallest readable 3x4 font with lowercase](https://github.com/Michaelangel007/nanofont3x4)
-- [Optimize CSS with SAT Solving](https://github.com/matthewhague/sat-css-tool)
 <!-- BLOG-POST-LIST:END -->
 
 ---
