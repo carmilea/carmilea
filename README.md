@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Luddite&#39;s Guide to Defending Cash &lpar;Part 1&rpar;](https://www.asomo.co/p/the-luddites-guide-to-defending-physical-cash)
+- [Compressing Images with Neural Networks](https://mlumiste.com/technical/compression-deep-learning/)
+- [Uber Australia Is Creating a Yellow Union to Head Off Reform](https://jacobin.com/2024/03/uber-australia-worker-committee-union)
 - [When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips)
 - [Nanofont3x4: Smallest readable 3x4 font with lowercase](https://github.com/Michaelangel007/nanofont3x4)
-- [The High-Risk Refactoring](https://webup.org/blog/the-high-risk-refactoring/)
-- [A cheap, generic drug became a darling of longevity enthusiasts](https://www.washingtonpost.com/business/2024/03/15/rapamycin-longevity-drug/)
+- [Optimize CSS with SAT Solving](https://github.com/matthewhague/sat-css-tool)
 <!-- BLOG-POST-LIST:END -->
 
 ---
