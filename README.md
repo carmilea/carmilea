@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In Cleveland, mushrooms digest entire houses](https://www.bbc.com/future/article/20240314-fungi-can-be-used-to-clean-pollution-and-combat-climate-change)
 - [Losing Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
-- [Bar exam will no longer be required to become attorney in Washington State](https://www.spokesman.com/stories/2024/mar/15/supreme-court-bar-exam-will-no-longer-be-required-/)
+- [CitizenX: Invest in Citizenship](https://citizenx.com/)
 - [Debloat non-rooted Android devices](https://github.com/0x192/universal-android-debloater)
 - [US prosecutors are investigating how Meta played a part in illegal drug sales](https://www.theverge.com/2024/3/16/24103027/us-investigation-meta-drug-sales-profits)
-- [How a Solar Revolution in Farming Is Depleting Groundwater](https://e360.yale.edu/features/solar-water-pumps-groundwater-crops)
 <!-- BLOG-POST-LIST:END -->
 
 ---
