@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth Received a Message Laser-Beamed from 10M Miles Away in NASA Test](https://www.sciencealert.com/earth-received-a-message-laser-beamed-from-10-million-miles-away-in-nasa-test)
 - [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
-- [A JavaScript Nightmare](https://blog.ignaciobrasca.com/opinion/2024/03/15/javascript-nightmare.html)
 - [We were wizards – a foreword to Learning Perl](https://jwgoerlich.com/we-were-wizards-learning-perl/)
 - [The return of the frame pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
 - [In Cleveland, mushrooms digest entire houses](https://www.bbc.com/future/article/20240314-fungi-can-be-used-to-clean-pollution-and-combat-climate-change)
