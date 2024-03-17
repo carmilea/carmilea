@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Losing Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
 - [Bar exam will no longer be required to become attorney in Washington State](https://www.spokesman.com/stories/2024/mar/15/supreme-court-bar-exam-will-no-longer-be-required-/)
+- [Debloat non-rooted Android devices](https://github.com/0x192/universal-android-debloater)
+- [US prosecutors are investigating how Meta played a part in illegal drug sales](https://www.theverge.com/2024/3/16/24103027/us-investigation-meta-drug-sales-profits)
 - [How a Solar Revolution in Farming Is Depleting Groundwater](https://e360.yale.edu/features/solar-water-pumps-groundwater-crops)
-- [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
-- [Application.garden – a platform for hosting small web apps written in Clojure](https://application.garden/signup)
-- [The language you speak changes your perception of time](https://www.popsci.com/language-time-perception/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
