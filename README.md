@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bar exam will no longer be required to become attorney in Washington State](https://www.spokesman.com/stories/2024/mar/15/supreme-court-bar-exam-will-no-longer-be-required-/)
 - [How a Solar Revolution in Farming Is Depleting Groundwater](https://e360.yale.edu/features/solar-water-pumps-groundwater-crops)
-- [Loblaw facing backlash as it tests receipt scanners at self-checkout](https://www.cbc.ca/news/business/loblaw-receipt-scanners-1.7141850)
 - [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
 - [Application.garden – a platform for hosting small web apps written in Clojure](https://application.garden/signup)
 - [The language you speak changes your perception of time](https://www.popsci.com/language-time-perception/)
