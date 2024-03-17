@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How a Solar Revolution in Farming Is Depleting Groundwater](https://e360.yale.edu/features/solar-water-pumps-groundwater-crops)
+- [Loblaw facing backlash as it tests receipt scanners at self-checkout](https://www.cbc.ca/news/business/loblaw-receipt-scanners-1.7141850)
+- [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
+- [Application.garden – a platform for hosting small web apps written in Clojure](https://application.garden/signup)
 - [The language you speak changes your perception of time](https://www.popsci.com/language-time-perception/)
-- [CXL Is Dead in the AI Era](https://www.semianalysis.com/p/cxl-is-dead-in-the-ai-era)
-- [What the Gardasil Testing May Have Missed](https://slate.com/health-and-science/2017/12/flaws-in-the-clinical-trials-for-gardasil-made-it-harder-to-properly-assess-safety.html)
-- [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
-- [IBM 360 in UK need a home](https://www.ibm360.co.uk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
