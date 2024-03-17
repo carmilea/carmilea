@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Return of the Frame Pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
 - [In Cleveland, mushrooms digest entire houses](https://www.bbc.com/future/article/20240314-fungi-can-be-used-to-clean-pollution-and-combat-climate-change)
 - [Losing Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
-- [CitizenX: Invest in Citizenship](https://citizenx.com/)
 - [Debloat non-rooted Android devices](https://github.com/0x192/universal-android-debloater)
-- [US prosecutors are investigating how Meta played a part in illegal drug sales](https://www.theverge.com/2024/3/16/24103027/us-investigation-meta-drug-sales-profits)
+- [Low-tech Magazine underscores the potential of past technologies](https://solar.lowtechmagazine.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
