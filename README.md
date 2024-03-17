@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Imitation Learning &lpar;2023&rpar;](https://geohot.github.io//blog/jekyll/update/2023/11/18/imitation-learning.html)
-- [Google Scholar search: &quot;certainly, here is&quot; -chatgpt -llm](https://simonwillison.net/2024/Mar/15/certainly-here-is-google-scholar/)
-- [America&#39;s affordable house of the future failed](https://thehustle.co/originals/how-americas-affordable-house-of-the-future-failed)
-- [HashiCorp Exploring Potential Sale](https://www.reuters.com/technology/cloud-software-company-hashicorp-exploring-potential-sale-bloomberg-news-reports-2024-03-15/)
-- [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
+- [Apple&#39;s New CarPlay Becomes Last Hope to Crack the Auto Industry](https://www.bloomberg.com/news/newsletters/2024-03-17/apple-aapl-revamped-carplay-becomes-last-hope-after-apple-car-is-canceled-ltvif8zt)
+- [Ahead of IPO, Reddit blends advertising into user posts](https://www.theregister.com/2024/03/16/reddit_promoted_posts/)
+- [The News Business Is Cratering](https://www.politico.com/news/magazine/2024/01/27/is-the-journalism-death-spasm-finally-here-00138187)
+- [Mars Has Influence on Earth&#39;s Oceans and Climate, Repeating Every 2.4M Years](https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/)
+- [How to mess with your roommate &lpar;2018&rpar;](https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
