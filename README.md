@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Targeting of IT Experts in Gaza](https://euromedmonitor.org/en/article/6228)
+- [Nvidia in talks to acquire AI infrastructure platform Run:AI](https://www.calcalistech.com/ctechnews/article/rkmbe9e0p)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39738042)
 - [Pine64 March update: making waves](https://pine64.org/2024/03/17/march-update-making-waves/)
-- [Grok](https://github.com/xai-org/grok)
-- [Vector: A high-performance observability data pipeline](https://github.com/vectordotdev/vector)
-- [Superiority by Arthur C. Clarke](https://metallicman.com/laoban4site/superiority-by-arthur-c-clarke-full-text/)
+- [2600.network Dialup Service](https://2600.network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
