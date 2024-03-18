@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Is in Talks to Let Google&#39;s Gemini Power iPhone Generative AI Features](https://www.bloomberg.com/news/articles/2024-03-18/apple-in-talks-to-license-google-gemini-for-iphone-ios-18-generative-ai-tools)
+- [Don Knuth letter about libraries increasingly unable to afford prices [pdf]](https://cs.stanford.edu/~knuth/joalet.pdf)
 - [Bats of the Midnight Sun](https://hakaimagazine.com/features/bats-of-the-midnight-sun/)
 - [Ask HN: Do You Also Marvel at the Complexity of Everyday Objects?](https://news.ycombinator.com/item?id=39740518)
 - [Upside-Down-Ternet](http://pete.ex-parrot.com/upside-down-ternet.html)
