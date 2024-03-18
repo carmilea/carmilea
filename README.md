@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
-- [Dear Paul Graham, there is no cookie banner law](https://www.amazingcto.com/cookie-banners-are-not-needed/)
-- [900 Sites, 125M accounts, 1 Vulnerability](https://env.fail/posts/firewreck-1/)
-- [Take Ownership of Your Future Self](https://hbr.org/2020/08/take-ownership-of-your-future-self)
-- [In Economics Do We Know What We&#39;re Doing? Nobel Prize winner grows disenchanted](https://www.chronicle.com/article/in-economics-do-we-know-what-were-doing)
+- [Running late for college, and the scooter is stuck in an update](https://old.reddit.com/r/indianbikes/comments/1bhi2ok/what_the_fck_is_this_i_m_running_late_for_my/)
+- [Tick-killing pill shows promising results in human trial](https://arstechnica.com/science/2024/03/tick-killing-pill-shows-promising-results-in-human-trial/)
+- [Ask HN: What are your oldest &quot;online&quot; accounts still in use?](https://news.ycombinator.com/item?id=39743483)
+- [Tata joins hands with PSMC to build India&#39;s first 12-inch fab](https://www.powerchip.com/en-global/insights/press-releases/content/20240229)
+- [Look ma, I wrote a new JIT compiler for PostgreSQL](https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
