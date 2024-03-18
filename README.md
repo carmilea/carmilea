@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing the Particle Life: From 400 to 4M particles](https://programmingattack.com/articles/optimizing-the-article-life-from-a-thousand-to-a-milion-particles)
-- [Paris cycling numbers double in one year thanks to investment](https://momentummag.com/paris-cycling-numbers-double/)
-- [Empty Frames and Other Oddities from the Unsolved Gardner Museum Heist](https://www.nytimes.com/2024/03/18/arts/design/unsolved-gardner-museum-heist.html)
-- [Tick-killing pill shows promising results in human trial](https://arstechnica.com/science/2024/03/tick-killing-pill-shows-promising-results-in-human-trial/)
-- [Look ma, I wrote a new JIT compiler for PostgreSQL](https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/)
+- [Scratch Data &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/ZWGfZWg-open-source-golang-freelancer)
+- [From anxiety to cancer, the evidence against ultra-processed food piles up](https://text.npr.org/1238939706)
+- [Apple TV+ Cornered the Market on &quot;Prestige Dad TV&quot;](https://www.gq.com/story/apple-tv-plus-prestige-dad-tv)
+- [European Union AI Act](https://goodcomputer.substack.com/p/european-union-ai-act)
+- [RP2040 Boot Sequence](https://vanhunteradams.com/Pico/Bootloader/Boot_sequence.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
