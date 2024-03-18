@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oh shit, my app is successful and I didn&#39;t think about accessibility](https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i)
 - [Scratch Data &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/ZWGfZWg-open-source-golang-freelancer)
-- [From anxiety to cancer, the evidence against ultra-processed food piles up](https://text.npr.org/1238939706)
-- [Apple TV+ Cornered the Market on &quot;Prestige Dad TV&quot;](https://www.gq.com/story/apple-tv-plus-prestige-dad-tv)
-- [European Union AI Act](https://goodcomputer.substack.com/p/european-union-ai-act)
+- [EPA bans asbestos, a deadly carcinogen still in use decades after partial ban](https://apnews.com/article/epa-asbestos-cancer-brakes-biden-72b0fa8b36adedaff6000034d35c2acd)
 - [RP2040 Boot Sequence](https://vanhunteradams.com/Pico/Bootloader/Boot_sequence.html)
+- [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
