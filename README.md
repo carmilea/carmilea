@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple exploring a partnership with Google for Gemini-powered feature on iPhones](https://techcrunch.com/2024/03/17/apple-is-reportedly-exploring-a-partnership-with-google-for-gemini-powered-feature-on-iphones/)
+- [Harvard has halted its long-planned atmospheric geoengineering experiment](https://www.technologyreview.com/2024/03/18/1089879/harvard-halts-its-long-planned-atmospheric-geoengineering-experiment/)
+- [Paris cycling numbers double in one year thanks to investment](https://momentummag.com/paris-cycling-numbers-double/)
+- [Our bacteria are more personal than we thought, new study shows](https://phys.org/news/2024-03-bacteria-personal-thought.html)
+- [Empty Frames and Other Oddities from the Unsolved Gardner Museum Heist](https://www.nytimes.com/2024/03/18/arts/design/unsolved-gardner-museum-heist.html)
 - [I&#39;m So Old: Web Edition](https://davidwalsh.name/im-so-old-1)
-- [Tick-killing pill shows promising results in human trial](https://arstechnica.com/science/2024/03/tick-killing-pill-shows-promising-results-in-human-trial/)
-- [Tata joins hands with PSMC to build India&#39;s first 12-inch fab](https://www.powerchip.com/en-global/insights/press-releases/content/20240229)
-- [Look ma, I wrote a new JIT compiler for PostgreSQL](https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
