@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Over 35,000 startups shut down in India in 2023](https://indiadispatch.xyz/2024/03/18/over-35000-startups-shut-down-in-india-in-2023/)
+- [Apple Is in Talks to Let Google&#39;s Gemini Power iPhone Generative AI Features](https://www.bloomberg.com/news/articles/2024-03-18/apple-in-talks-to-license-google-gemini-for-iphone-ios-18-generative-ai-tools)
+- [Bats of the Midnight Sun](https://hakaimagazine.com/features/bats-of-the-midnight-sun/)
 - [Ask HN: Do You Also Marvel at the Complexity of Everyday Objects?](https://news.ycombinator.com/item?id=39740518)
+- [Upside-Down-Ternet](http://pete.ex-parrot.com/upside-down-ternet.html)
 - [Experience with an Uncommon Lisp &lpar;1986&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/319838.319849)
-- [What I wish I knew about ESPP and RSUs sooner](https://blog.demofox.org/2024/03/17/what-i-wish-i-knew-about-espp-and-rsus-sooner-company-stock-benefits-2024-usa-california/)
-- [Show HN: 3DGS.cpp – performant, cross platform Gaussian Splatting with Vulkan](https://github.com/shg8/3DGS.cpp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
