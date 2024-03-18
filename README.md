@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IBM Research: Experience with an Uncommon Lisp &lpar;1986&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/319838.319849)
+- [Over 35,000 startups shut down in India in 2023](https://indiadispatch.xyz/2024/03/18/over-35000-startups-shut-down-in-india-in-2023/)
+- [Ask HN: Do You Also Marvel at the Complexity of Everyday Objects?](https://news.ycombinator.com/item?id=39740518)
+- [Experience with an Uncommon Lisp &lpar;1986&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/319838.319849)
+- [What I wish I knew about ESPP and RSUs sooner](https://blog.demofox.org/2024/03/17/what-i-wish-i-knew-about-espp-and-rsus-sooner-company-stock-benefits-2024-usa-california/)
 - [Show HN: 3DGS.cpp – performant, cross platform Gaussian Splatting with Vulkan](https://github.com/shg8/3DGS.cpp)
-- [Mysterious Drones Swarmed Langley AFB for Weeks](https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39738042)
-- [Terminal Latency](https://beuke.org/terminal-latency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
