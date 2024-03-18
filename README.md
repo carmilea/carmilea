@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [From anxiety to cancer, the evidence against ultra-processed food piles up](https://www.npr.org/sections/health-shots/2024/03/18/1238939706/ultra-processed-food-junk-food-disease-cancer-anxiety-depression-diet)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [Compiling with Constraints](https://www.philipzucker.com/compile_constraints/)
+- [Nvidia announces its most powerful AI chip as it seeks to become a platform co.](https://www.cnbc.com/2024/03/18/nvidia-announces-gb200-blackwell-ai-chip-launching-later-this-year.html)
 - [Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
 - [Wrangling 2000 Git Repos at Reddit](https://old.reddit.com/r/RedditEng/comments/1bdtrjq/wrangling_2000_git_repos_at_reddit/)
-- [How is a company that sells canned water worth $1.4B?](https://www.theatlantic.com/technology/archive/2024/03/liquid-death-canned-water-marketing/677752/)
-- [Waffle House&#39;s Magic Marker System](https://kottke.org/24/03/waffle-houses-magic-marker-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
