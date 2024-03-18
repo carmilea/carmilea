@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oh shit, my app is successful and I didn&#39;t think about accessibility](https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i)
-- [Scratch Data &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/ZWGfZWg-open-source-golang-freelancer)
-- [EPA bans asbestos, a deadly carcinogen still in use decades after partial ban](https://apnews.com/article/epa-asbestos-cancer-brakes-biden-72b0fa8b36adedaff6000034d35c2acd)
-- [RP2040 Boot Sequence](https://vanhunteradams.com/Pico/Bootloader/Boot_sequence.html)
-- [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/)
+- [From anxiety to cancer, the evidence against ultra-processed food piles up](https://www.npr.org/sections/health-shots/2024/03/18/1238939706/ultra-processed-food-junk-food-disease-cancer-anxiety-depression-diet)
+- [Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
+- [Wrangling 2000 Git Repos at Reddit](https://old.reddit.com/r/RedditEng/comments/1bdtrjq/wrangling_2000_git_repos_at_reddit/)
+- [How is a company that sells canned water worth $1.4B?](https://www.theatlantic.com/technology/archive/2024/03/liquid-death-canned-water-marketing/677752/)
+- [Waffle House&#39;s Magic Marker System](https://kottke.org/24/03/waffle-houses-magic-marker-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
