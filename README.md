@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber agrees $178M payout to Australia taxi drivers](https://www.bbc.com/news/business-68594134)
-- [Poseidona is removing invasive algae from oceans and turning it into food](https://techcrunch.com/2024/03/17/poseidona-seaweed-protein-food/)
+- [Microsoft again bothers Chrome users with Bing popup ads in Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-again-bothers-chrome-users-with-bing-popup-ads-in-windows/)
+- [Microsoft pushes Bing, GPT-4 in Chrome pop-up adverts](https://www.theregister.com/2024/03/15/chrome_bing_microsoft_pop_ups/)
 - [AWS Makes Cloud Formation Stack Creation Up to 40% Faster](https://www.infoq.com/news/2024/03/aws-cloud-formation-faster/)
 - [macOS Sonoma 14.4 might break Java on your machine](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue)
 - [Don Knuth letter about libraries increasingly unable to afford prices &lpar;2003&rpar; [pdf]](https://cs.stanford.edu/~knuth/joalet.pdf)
