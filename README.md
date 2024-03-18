@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning Points: A meeting with Enrico Fermi &lpar;2004&rpar;](https://lilith.fisica.ufmg.br/~dsoares/fdyson.htm)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Compiling with Constraints](https://www.philipzucker.com/compile_constraints/)
-- [Nvidia announces its most powerful AI chip as it seeks to become a platform co.](https://www.cnbc.com/2024/03/18/nvidia-announces-gb200-blackwell-ai-chip-launching-later-this-year.html)
-- [Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
+- [Spent brewer&#39;s yeast as a biosorbent for metal recovery from polymetallic waste](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1345112/full)
+- [C++ creator rebuts White House warning](https://www.infoworld.com/article/3714401/c-plus-plus-creator-rebuts-white-house-warning.amp.html)
+- [Ask HN: What books have you found understandable during serious depression?](https://news.ycombinator.com/item?id=39750894)
+- [Report on the Censorship-Industrial Complex: The Top Organizations to Know](https://www.racket.news/p/report-on-the-censorship-industrial-74b)
+- [The Brewintosh, a 3D Printed Full-Size Macintosh [video]](https://www.youtube.com/watch?v=7N9oz4Ylzm4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
