@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Running late for college, and the scooter is stuck in an update](https://old.reddit.com/r/indianbikes/comments/1bhi2ok/what_the_fck_is_this_i_m_running_late_for_my/)
+- [Apple exploring a partnership with Google for Gemini-powered feature on iPhones](https://techcrunch.com/2024/03/17/apple-is-reportedly-exploring-a-partnership-with-google-for-gemini-powered-feature-on-iphones/)
+- [I&#39;m So Old: Web Edition](https://davidwalsh.name/im-so-old-1)
 - [Tick-killing pill shows promising results in human trial](https://arstechnica.com/science/2024/03/tick-killing-pill-shows-promising-results-in-human-trial/)
-- [Ask HN: What are your oldest &quot;online&quot; accounts still in use?](https://news.ycombinator.com/item?id=39743483)
 - [Tata joins hands with PSMC to build India&#39;s first 12-inch fab](https://www.powerchip.com/en-global/insights/press-releases/content/20240229)
 - [Look ma, I wrote a new JIT compiler for PostgreSQL](https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/)
 <!-- BLOG-POST-LIST:END -->
