@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don Knuth letter about libraries increasingly unable to afford prices [pdf]](https://cs.stanford.edu/~knuth/joalet.pdf)
+- [AWS Makes Cloud Formation Stack Creation Up to 40% Faster](https://www.infoq.com/news/2024/03/aws-cloud-formation-faster/)
+- [macOS Sonoma 14.4 might break Java on your machine](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue)
+- [Don Knuth letter about libraries increasingly unable to afford prices &lpar;2003&rpar; [pdf]](https://cs.stanford.edu/~knuth/joalet.pdf)
 - [Bats of the Midnight Sun](https://hakaimagazine.com/features/bats-of-the-midnight-sun/)
-- [Ask HN: Do You Also Marvel at the Complexity of Everyday Objects?](https://news.ycombinator.com/item?id=39740518)
 - [Upside-Down-Ternet](http://pete.ex-parrot.com/upside-down-ternet.html)
-- [Experience with an Uncommon Lisp &lpar;1986&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/319838.319849)
 <!-- BLOG-POST-LIST:END -->
 
 ---
