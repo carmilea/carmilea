@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What I wish I knew about ESPP and RSUs sooner &lpar;2024, USA, California&rpar;](https://blog.demofox.org/2024/03/17/what-i-wish-i-knew-about-espp-and-rsus-sooner-company-stock-benefits-2024-usa-california/)
+- [IBM Research: Experience with an Uncommon Lisp &lpar;1986&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/319838.319849)
+- [American News Lost Its Nerve](https://www.semafor.com/article/03/17/2024/very-few-have-balls-how-american-news-lost-its-nerve)
+- [6.2 GHz Intel Core I9-14900KS Review](https://www.tomshardware.com/pc-components/cpus/intel-core-i9-14900ks-cpu-review)
 - [Mysterious Drones Swarmed Langley AFB for Weeks](https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39738042)
-- [Pine64 March update: making waves](https://pine64.org/2024/03/17/march-update-making-waves/)
-- [2600.network Dialup Service](https://2600.network/)
+- [OpenSora Releases its first trained checkpoints &lpar;2-5 SEC, 512x512 T2V&rpar;](https://github.com/hpcaitech/Open-Sora)
 <!-- BLOG-POST-LIST:END -->
 
 ---
