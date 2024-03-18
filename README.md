@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Harvard has halted its long-planned atmospheric geoengineering experiment](https://www.technologyreview.com/2024/03/18/1089879/harvard-halts-its-long-planned-atmospheric-geoengineering-experiment/)
+- [Optimizing the Particle Life: From 400 to 4M particles](https://programmingattack.com/articles/optimizing-the-article-life-from-a-thousand-to-a-milion-particles)
 - [Paris cycling numbers double in one year thanks to investment](https://momentummag.com/paris-cycling-numbers-double/)
-- [Our bacteria are more personal than we thought, new study shows](https://phys.org/news/2024-03-bacteria-personal-thought.html)
 - [Empty Frames and Other Oddities from the Unsolved Gardner Museum Heist](https://www.nytimes.com/2024/03/18/arts/design/unsolved-gardner-museum-heist.html)
-- [I&#39;m So Old: Web Edition](https://davidwalsh.name/im-so-old-1)
+- [Tick-killing pill shows promising results in human trial](https://arstechnica.com/science/2024/03/tick-killing-pill-shows-promising-results-in-human-trial/)
+- [Look ma, I wrote a new JIT compiler for PostgreSQL](https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
