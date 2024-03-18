@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turning Points: A meeting with Enrico Fermi &lpar;2004&rpar;](https://lilith.fisica.ufmg.br/~dsoares/fdyson.htm)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 - [Compiling with Constraints](https://www.philipzucker.com/compile_constraints/)
 - [Nvidia announces its most powerful AI chip as it seeks to become a platform co.](https://www.cnbc.com/2024/03/18/nvidia-announces-gb200-blackwell-ai-chip-launching-later-this-year.html)
 - [Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
-- [Wrangling 2000 Git Repos at Reddit](https://old.reddit.com/r/RedditEng/comments/1bdtrjq/wrangling_2000_git_repos_at_reddit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
