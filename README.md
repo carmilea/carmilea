@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
+- [Dear Paul Graham, there is no cookie banner law](https://www.amazingcto.com/cookie-banners-are-not-needed/)
+- [900 Sites, 125M accounts, 1 Vulnerability](https://env.fail/posts/firewreck-1/)
 - [Take Ownership of Your Future Self](https://hbr.org/2020/08/take-ownership-of-your-future-self)
-- [Microsoft again bothers Chrome users with Bing popup ads in Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-again-bothers-chrome-users-with-bing-popup-ads-in-windows/)
-- [Hypothesis That Universe Has No Dark Matter and Is 27B Years Old](https://www.sciencealert.com/physicist-claims-universe-has-no-dark-matter-and-is-27-billion-years-old)
-- [Boeing 737 MAX engine issue will take up to a year to fix](https://nypost.com/2024/03/16/us-news/boeing-737-max-engine-issue-will-take-up-to-a-year-to-fix/)
-- [Don&#39;t upgrade to macOS Sonoma 14.4 yet: plug-in compatibility issues](https://cdm.link/2024/03/ffs-pace/)
+- [In Economics Do We Know What We&#39;re Doing? Nobel Prize winner grows disenchanted](https://www.chronicle.com/article/in-economics-do-we-know-what-were-doing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
