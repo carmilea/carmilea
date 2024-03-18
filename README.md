@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NIH Study Provides Long-Awaited Insight into Myalgic Encephalomyelitis/CFS](https://jamanetwork.com/journals/jama/fullarticle/2816614)
 - [IBM Research: Experience with an Uncommon Lisp &lpar;1986&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/319838.319849)
-- [American News Lost Its Nerve](https://www.semafor.com/article/03/17/2024/very-few-have-balls-how-american-news-lost-its-nerve)
 - [6.2 GHz Intel Core I9-14900KS Review](https://www.tomshardware.com/pc-components/cpus/intel-core-i9-14900ks-cpu-review)
+- [Show HN: 3DGS.cpp – performant, cross platform Gaussian Splatting with Vulkan](https://github.com/shg8/3DGS.cpp)
 - [Mysterious Drones Swarmed Langley AFB for Weeks](https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks)
-- [OpenSora Releases its first trained checkpoints &lpar;2-5 SEC, 512x512 T2V&rpar;](https://github.com/hpcaitech/Open-Sora)
 <!-- BLOG-POST-LIST:END -->
 
 ---
