@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/)
 - [20 Years of &quot;Not Even Wrong&quot;](https://www.math.columbia.edu/~woit/wordpress/?p=13864)
 - [Twstalker.com as a Twitter alternative front end](https://twstalker.com/EFF)
+- [Show HN: Directories Where You Can Submit Your Product](https://github.com/BossChow/ultimate-submit-list)
 - [Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
-- [An exploding star nova is due to show up in our skies soon. Here&#39;s how to view](https://blogs.nasa.gov/Watch_the_Skies/2024/02/27/view-nova-explosion-new-star-in-northern-crown/)
-- [Vehicle Privacy Report](https://vehicleprivacyreport.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
