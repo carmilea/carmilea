@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What does Alan Kay think about LLMs?](https://www.quora.com/What-does-Alan-Kay-think-about-programming-and-teaching-programming-with-copilots-and-LLMs-of-today)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Northrop Grumman to Develop Concept for Lunar Railroad](https://news.northropgrumman.com/news/releases/northrop-grumman-to-develop-concept-for-lunar-railroad)
-- [MacBook charger teardown: The surprising complexity inside Apple&#39;s power adapter](https://www.righto.com/2015/11/macbook-charger-teardown-surprising.html)
+- [MacBook charger teardown: The surprising complexity inside Apple&#39;s power adapter &lpar;2015&rpar;](https://www.righto.com/2015/11/macbook-charger-teardown-surprising.html)
 - [The New Inflection](https://inflection.ai/the-new-inflection)
-- [Mustafa Suleyman of Inflection AI Joins Microsoft](https://blogs.microsoft.com/blog/2024/03/19/mustafa-suleyman-deepmind-and-inflection-co-founder-joins-microsoft-to-lead-copilot/)
+- [Quantum Weirdness in New Metals Bends the Rules of Physics](https://www.scientificamerican.com/article/quantum-weirdness-in-new-strange-metals-bends-the-rules-of-physics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
