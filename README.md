@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel 8080 emulator. 19th IOCCC. Best of Show](https://nanochess.org/emulator.html)
-- [8 years later: A world Go champion&#39;s reflections on AlphaGo](https://blog.google/around-the-globe/google-asia/8-years-later-a-world-go-champions-reflections-on-alphago/)
-- [What does Alan Kay think about LLMs?](https://www.quora.com/What-does-Alan-Kay-think-about-programming-and-teaching-programming-with-copilots-and-LLMs-of-today)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Natural language instructions induce generalization in networks of neurons](https://www.nature.com/articles/s41593-024-01607-5)
+- [Dual-Clutch Transmission: Wet or Dry?](https://www.transmissiondigest.com/dct-dual-clutch-transmission-wet-or-dry/)
+- [The end of landlords: the surprisingly simple solution to the UK housing crisis](https://www.theguardian.com/lifeandstyle/2024/mar/19/end-of-landlords-surprisingly-simple-solution-to-uk-housing-crisis)
+- [Lego price per part over the years – Brick Insights](https://brickinsights.com/statistics/ppp)
+- [Retina – eBPF distributed networking observability tool for Kubernetes](https://github.com/microsoft/retina)
+- [PostgreSQL is eating the database world](https://pigsty.io/blog/pg/pg-eat-db-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
