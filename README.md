@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
+- [Is Tesla more valuable than Toyota?](https://calpaterson.com/singleton.html)
 - [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/)
 - [20 Years of &quot;Not Even Wrong&quot;](https://www.math.columbia.edu/~woit/wordpress/?p=13864)
-- [Twstalker.com as a Twitter alternative front end](https://twstalker.com/EFF)
 - [Show HN: Directories Where You Can Submit Your Product](https://github.com/BossChow/ultimate-submit-list)
-- [Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
