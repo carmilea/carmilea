@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmic cleaners: the scientists scouring English cathedral roofs for space dust](https://www.theguardian.com/science/2024/mar/17/cosmic-cathedrals-dust-rooftops-planetary-secrets-asteroids-comets)
+- [The Toxic Effects of Electronic Waste in Accra, Ghana](https://www.bloomberg.com/news/articles/2019-05-29/the-rich-world-s-electronic-waste-dumped-in-ghana)
+- [The Mechanics of Proof](https://hrmacbeth.github.io/math2001/index.html)
 - [Dual-Clutch Transmission: Wet or Dry?](https://www.transmissiondigest.com/dct-dual-clutch-transmission-wet-or-dry/)
-- [The end of landlords: the surprisingly simple solution to the UK housing crisis](https://www.theguardian.com/lifeandstyle/2024/mar/19/end-of-landlords-surprisingly-simple-solution-to-uk-housing-crisis)
-- [Lego price per part over the years – Brick Insights](https://brickinsights.com/statistics/ppp)
-- [Retina – eBPF distributed networking observability tool for Kubernetes](https://github.com/microsoft/retina)
-- [PostgreSQL is eating the database world](https://pigsty.io/blog/pg/pg-eat-db-world/)
+- [New algorithm unlocks high-resolution insights for computer vision](https://news.mit.edu/2024/featup-algorithm-unlocks-high-resolution-insights-computer-vision-0318)
 <!-- BLOG-POST-LIST:END -->
 
 ---
