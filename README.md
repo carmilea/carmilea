@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US standards body says ByteDance researcher wrongly added to AI safety groupchat](https://www.reuters.com/technology/us-standards-body-says-bytedance-researcher-wrongly-added-ai-safety-groupchat-2024-03-18/)
 - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
 - [Dead Air on the Incident Call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)
-- [Project GR00T by Nvidia](https://twitter.com/DrJimFan/status/1769860044324319658)
 - [Spent brewer&#39;s yeast as a biosorbent for metal recovery from polymetallic waste](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1345112/full)
 - [Turning Points: A meeting with Enrico Fermi &lpar;2020&rpar;](https://lilith.fisica.ufmg.br/~dsoares/fdyson.htm)
 <!-- BLOG-POST-LIST:END -->
