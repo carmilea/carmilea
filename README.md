@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Encrypt has new intermediate certificates](https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html)
-- [Marc Andreessen Lists Silicon Valley Compound After $250M Malibu Spending Spree](https://www.wsj.com/real-estate/luxury-homes/billionaire-marc-andreessen-lists-silicon-valley-compound-following-250-million-malibu-spending-spree-bc88dea2)
+- [Figma removed `window.figma` on view-only pages today](https://forum.figma.com/t/figma-removed-window-figma-on-view-only-pages-today/67292)
+- [How to Start Google](https://paulgraham.com/google.html)
+- [New Intermediate Certificates](https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html)
+- [Understanding Google&#39;s File System &lpar;2020&rpar;](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html)
 - [Launch HN: Okapi &lpar;YC W24&rpar; – A new, flexible CRM with good UX](https://news.ycombinator.com/item?id=39755927)
-- [The rise and fall of a Halifax man&#39;s illegal TV streaming empire](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-man-illegal-streaming-empire-1.7112573)
-- [Nokia Tells Reddit It Infringes Some Patents in Lead-Up to IPO](https://www.bloomberg.com/news/articles/2024-03-19/nokia-tells-reddit-it-infringes-some-patents-in-lead-up-to-ipo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
