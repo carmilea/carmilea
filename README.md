@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Hypersplit – Like Infinite Craft but in Reverse](https://lantto.github.io/hypersplit/)
+- [Let&#39;s Encrypt has new intermediate certificates](https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html)
+- [Marc Andreessen Lists Silicon Valley Compound After $250M Malibu Spending Spree](https://www.wsj.com/real-estate/luxury-homes/billionaire-marc-andreessen-lists-silicon-valley-compound-following-250-million-malibu-spending-spree-bc88dea2)
+- [Launch HN: Okapi &lpar;YC W24&rpar; – A new, flexible CRM with good UX](https://news.ycombinator.com/item?id=39755927)
 - [The rise and fall of a Halifax man&#39;s illegal TV streaming empire](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-man-illegal-streaming-empire-1.7112573)
-- [Simplify Development of AI Applications Leveraging SingleStore and Confluent Cloud for Apache Flink®](https://www.singlestore.com/blog/singlestore-confluent-real-time-ai)
-- [USB hubs, printers, Java, and more seemingly broken by macOS 14.4 update](https://arstechnica.com/gadgets/2024/03/usb-hubs-printers-java-and-more-seemingly-broken-by-macos-14-4-update/)
-- [Astronaut Thomas Stafford has died](https://apnews.com/article/apollo-10-astronaut-tom-stafford-18600e218bd145ce99a3605b35df7b8c)
+- [Nokia Tells Reddit It Infringes Some Patents in Lead-Up to IPO](https://www.bloomberg.com/news/articles/2024-03-19/nokia-tells-reddit-it-infringes-some-patents-in-lead-up-to-ipo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
