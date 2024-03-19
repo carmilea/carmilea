@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Titanfall is still EA&#39;s most innovative shooter ten years later](https://kotaku.com/titanfall-1-2-game-ea-xbox-shooter-apex-legends-1851329476)
+- [Astronaut Thomas Stafford, commander of Apollo 10, dies at 93](https://apnews.com/article/apollo-10-astronaut-tom-stafford-18600e218bd145ce99a3605b35df7b8c)
+- [Show HN: Not sure you&#39;re talking to a human? Create a human check](https://r-u-human.com/)
 - [ESA&#39; Euclid Telescope Has an Ice Problem](https://europeanspaceflight.com/esa-euclid-telescope-has-an-ice-problem/)
+- [Inside the Massive Alleged AT&amp;T Data Breach](https://www.troyhunt.com/inside-the-massive-alleged-att-data-breach/)
 - [The Timeless Parable of Mr. Market](https://fs.blog/mr-market/)
-- [Japan ends negative interest rate policy in historic pivot](https://www.cnn.com/2024/03/18/business/japan-boj-negative-interest-rate-ended-intl-hnk/index.html)
-- [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
