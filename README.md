@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
+- [Dead Air on the Incident Call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)
 - [Project GR00T by Nvidia](https://twitter.com/DrJimFan/status/1769860044324319658)
-- [Cisco Acquires Splunk](https://www.cisco.com/site/us/en/about/corporate-strategy-office/acquisitions/splunk/index.html)
 - [Spent brewer&#39;s yeast as a biosorbent for metal recovery from polymetallic waste](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1345112/full)
-- [Open Source Robotics Alliance: New Funding and Governance Model for ROS / Gazebo](https://osralliance.org/)
 - [Turning Points: A meeting with Enrico Fermi &lpar;2020&rpar;](https://lilith.fisica.ufmg.br/~dsoares/fdyson.htm)
 <!-- BLOG-POST-LIST:END -->
 
