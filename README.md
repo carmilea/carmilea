@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Wikipedia page is being deleted because I&#39;m no longer notable enough](https://techbroiler.net/my-wikipedia-page-is-being-deleted-because-im-not-notable-enough/)
-- [China&#39;s bonds boom as investors face &#39;asset famine&#39;](https://www.reuters.com/markets/rates-bonds/chinas-bonds-boom-investors-face-asset-famine-2024-03-19/)
 - [The Timeless Parable of Mr. Market](https://fs.blog/mr-market/)
 - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
 - [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/)
+- [20 Years of &quot;Not Even Wrong&quot;](https://www.math.columbia.edu/~woit/wordpress/?p=13864)
+- [Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
