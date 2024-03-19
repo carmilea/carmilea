@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET Developers Begging for Ecosystem Destruction](https://aaronstannard.com/dotnet-eventing-backslide/)
 - [20 Years of &quot;Not Even Wrong&quot;](https://www.math.columbia.edu/~woit/wordpress/?p=13864)
 - [Twstalker.com as a Twitter alternative front end](https://twstalker.com/EFF)
 - [Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
-- [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
+- [An exploding star nova is due to show up in our skies soon. Here&#39;s how to view](https://blogs.nasa.gov/Watch_the_Skies/2024/02/27/view-nova-explosion-new-star-in-northern-crown/)
+- [Vehicle Privacy Report](https://vehicleprivacyreport.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
