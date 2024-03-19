@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Project GR00T by Nvidia](https://twitter.com/DrJimFan/status/1769860044324319658)
+- [Cisco Acquires Splunk](https://www.cisco.com/site/us/en/about/corporate-strategy-office/acquisitions/splunk/index.html)
 - [Spent brewer&#39;s yeast as a biosorbent for metal recovery from polymetallic waste](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1345112/full)
-- [C++ creator rebuts White House warning](https://www.infoworld.com/article/3714401/c-plus-plus-creator-rebuts-white-house-warning.amp.html)
-- [Ask HN: What books have you found understandable during serious depression?](https://news.ycombinator.com/item?id=39750894)
-- [Report on the Censorship-Industrial Complex: The Top Organizations to Know](https://www.racket.news/p/report-on-the-censorship-industrial-74b)
-- [The Brewintosh, a 3D Printed Full-Size Macintosh [video]](https://www.youtube.com/watch?v=7N9oz4Ylzm4)
+- [Open Source Robotics Alliance: New Funding and Governance Model for ROS / Gazebo](https://osralliance.org/)
+- [Turning Points: A meeting with Enrico Fermi &lpar;2020&rpar;](https://lilith.fisica.ufmg.br/~dsoares/fdyson.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
