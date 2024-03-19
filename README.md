@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Titanfall is still EA&#39;s most innovative shooter ten years later](https://kotaku.com/titanfall-1-2-game-ea-xbox-shooter-apex-legends-1851329476)
+- [ESA&#39; Euclid Telescope Has an Ice Problem](https://europeanspaceflight.com/esa-euclid-telescope-has-an-ice-problem/)
 - [The Timeless Parable of Mr. Market](https://fs.blog/mr-market/)
+- [Japan ends negative interest rate policy in historic pivot](https://www.cnn.com/2024/03/18/business/japan-boj-negative-interest-rate-ended-intl-hnk/index.html)
 - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
-- [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/)
-- [20 Years of &quot;Not Even Wrong&quot;](https://www.math.columbia.edu/~woit/wordpress/?p=13864)
-- [Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
