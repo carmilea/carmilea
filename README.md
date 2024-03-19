@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronaut Thomas Stafford, commander of Apollo 10, dies at 93](https://apnews.com/article/apollo-10-astronaut-tom-stafford-18600e218bd145ce99a3605b35df7b8c)
-- [Show HN: Not sure you&#39;re talking to a human? Create a human check](https://r-u-human.com/)
-- [ESA&#39; Euclid Telescope Has an Ice Problem](https://europeanspaceflight.com/esa-euclid-telescope-has-an-ice-problem/)
-- [Inside the Massive Alleged AT&amp;T Data Breach](https://www.troyhunt.com/inside-the-massive-alleged-att-data-breach/)
-- [The Timeless Parable of Mr. Market](https://fs.blog/mr-market/)
+- [Show HN: Hypersplit – Like Infinite Craft but in Reverse](https://lantto.github.io/hypersplit/)
+- [The rise and fall of a Halifax man&#39;s illegal TV streaming empire](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-man-illegal-streaming-empire-1.7112573)
+- [Simplify Development of AI Applications Leveraging SingleStore and Confluent Cloud for Apache Flink®](https://www.singlestore.com/blog/singlestore-confluent-real-time-ai)
+- [USB hubs, printers, Java, and more seemingly broken by macOS 14.4 update](https://arstechnica.com/gadgets/2024/03/usb-hubs-printers-java-and-more-seemingly-broken-by-macos-14-4-update/)
+- [Astronaut Thomas Stafford has died](https://apnews.com/article/apollo-10-astronaut-tom-stafford-18600e218bd145ce99a3605b35df7b8c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
