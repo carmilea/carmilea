@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cosmic cleaners: the scientists scouring English cathedral roofs for space dust](https://www.theguardian.com/science/2024/mar/17/cosmic-cathedrals-dust-rooftops-planetary-secrets-asteroids-comets)
-- [The Toxic Effects of Electronic Waste in Accra, Ghana](https://www.bloomberg.com/news/articles/2019-05-29/the-rich-world-s-electronic-waste-dumped-in-ghana)
-- [The Mechanics of Proof](https://hrmacbeth.github.io/math2001/index.html)
-- [Dual-Clutch Transmission: Wet or Dry?](https://www.transmissiondigest.com/dct-dual-clutch-transmission-wet-or-dry/)
-- [New algorithm unlocks high-resolution insights for computer vision](https://news.mit.edu/2024/featup-algorithm-unlocks-high-resolution-insights-computer-vision-0318)
+- [Simplify Development of AI Applications Leveraging SingleStore and Confluent Cloud for Apache Flink®](https://www.singlestore.com/blog/singlestore-confluent-real-time-ai)
+- [SingleStore Free Tier: Here for Good](https://www.singlestore.com/blog/singlestore-free-tier-here-for-good)
+- [The Importance of Women in Tech](https://www.singlestore.com/blog/the-importance-of-women-in-tech)
+- [Multimodal Models: A Definitive Guide](https://www.singlestore.com/blog/guide-to-multimodal-models)
+- [Understanding the Softmax Activation Function: A Comprehensive Guide](https://www.singlestore.com/blog/a-guide-to-softmax-activation-function)
 <!-- BLOG-POST-LIST:END -->
 
 ---
