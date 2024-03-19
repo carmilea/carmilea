@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma removed `window.figma` on view-only pages today](https://forum.figma.com/t/figma-removed-window-figma-on-view-only-pages-today/67292)
-- [How to Start Google](https://paulgraham.com/google.html)
-- [New Intermediate Certificates](https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html)
-- [Understanding Google&#39;s File System &lpar;2020&rpar;](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html)
-- [Launch HN: Okapi &lpar;YC W24&rpar; – A new, flexible CRM with good UX](https://news.ycombinator.com/item?id=39755927)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Northrop Grumman to Develop Concept for Lunar Railroad](https://news.northropgrumman.com/news/releases/northrop-grumman-to-develop-concept-for-lunar-railroad)
+- [MacBook charger teardown: The surprising complexity inside Apple&#39;s power adapter](https://www.righto.com/2015/11/macbook-charger-teardown-surprising.html)
+- [The New Inflection](https://inflection.ai/the-new-inflection)
+- [Mustafa Suleyman of Inflection AI Joins Microsoft](https://blogs.microsoft.com/blog/2024/03/19/mustafa-suleyman-deepmind-and-inflection-co-founder-joins-microsoft-to-lead-copilot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
