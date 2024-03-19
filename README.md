@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET Developers Begging for Ecosystem Destruction](https://aaronstannard.com/dotnet-eventing-backslide/)
+- [20 Years of &quot;Not Even Wrong&quot;](https://www.math.columbia.edu/~woit/wordpress/?p=13864)
+- [Twstalker.com as a Twitter alternative front end](https://twstalker.com/EFF)
 - [Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
-- [An exploding star nova is due to show up in our skies soon. Here&#39;s how to view](https://www.businessinsider.com/how-to-see-exploding-star-nova-nasa-says-expect-soon-2024-3)
 - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
-- [Dead Air on the Incident Call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)
-- [Spent brewer&#39;s yeast as a biosorbent for metal recovery from polymetallic waste](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1345112/full)
 <!-- BLOG-POST-LIST:END -->
 
 ---
