@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DNA Tests Are Uncovering the True Prevalence of Incest](https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/)
-- [How Does Paris Stay Paris? By Pouring Billions into Public Housing](https://www.nytimes.com/2024/03/17/realestate/paris-france-housing-costs.html)
-- [PFAS in blood are ubiquitous and associated with risk of cardiovascular diseases](https://medicalxpress.com/news/2024-03-pfas-blood-ubiquitous-cardiovascular-diseases.html)
-- [Banning the purchase of sex increases cases of rape: evidence from Sweden](https://link.springer.com/article/10.1007/s00148-024-00984-2)
-- [Lago Is Hiring to Scale the Open-Source Alternative to Stripe Billing](https://news.ycombinator.com/item?id=39765287)
+- [Focus by Automation](https://myme.no/posts/2024-03-19-focus-by-automation.html)
+- [Farmed salmon leads to loss of nutrients, instead eat &#39;feed fishes&#39; directly](https://www.lancaster.ac.uk/news/fish-fed-to-farmed-salmon-should-be-part-of-our-diet-too-study-suggests)
+- [8 Google Employees Invented Modern AI. Here&#39;s the Inside Story](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
+- [First beta of Nintendo Switch emulator Suyu goes live](https://overkill.wtf/nintendo-switch-emulator-suyu-beta/)
+- [Intel to Receive $8.5B in Grants to Build Chip Plants](https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
