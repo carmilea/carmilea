@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [More than 50,000 Americans died by suicide in 2023–more than any year on record](https://www.nbcnews.com/meet-the-press/video/more-than-50-000-americans-died-by-suicide-in-2023-more-than-any-year-on-record-201161285832)
+- [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)
+- [Governor signs bills creating EV charging station network across Wisconsin](https://apnews.com/article/wisconsin-electric-vehicles-charging-stations-8f240084670b7b210d162f83b22168d9)
+- [Valve Built An Orb: The making of the Steam Deck OLED launch trailer](https://store.steampowered.com/news/app/593110/view/4118051100641390121)
 - [Neuralink patient controls games by thinking during interview](https://twitter.com/neuralink/status/1770563939413496146)
-- [JITX – The Fastest Way to Design Circuit Boards](https://www.jitx.com)
-- [Blocklist that contain AI generated content for uBlock Origin and uBlacklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
-- [The Starship or the Canoe: Where Will Our Future Adaptations Be? &lpar;2017&rpar;](https://alumni.berkeley.edu/california-magazine/summer-2017-adaptation/starship-or-canoe-where-will-our-future-adaptations-be/)
-- [Show HN: GritQL, a Rust CLI for rewriting source code](https://github.com/getgrit/gritql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
