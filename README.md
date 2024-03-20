@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inserting 100k rows 66 times faster](https://xnacly.me/posts/2024/faster-inserts/)
+- [DNA Tests Are Uncovering the True Prevalence of Incest](https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/)
+- [How Does Paris Stay Paris? By Pouring Billions into Public Housing](https://www.nytimes.com/2024/03/17/realestate/paris-france-housing-costs.html)
+- [PFAS in blood are ubiquitous and associated with risk of cardiovascular diseases](https://medicalxpress.com/news/2024-03-pfas-blood-ubiquitous-cardiovascular-diseases.html)
+- [Banning the purchase of sex increases cases of rape: evidence from Sweden](https://link.springer.com/article/10.1007/s00148-024-00984-2)
 - [Lago Is Hiring to Scale the Open-Source Alternative to Stripe Billing](https://news.ycombinator.com/item?id=39765287)
-- [People Hate the Idea of Car-Free Cities–Until They Live in One](https://www.wired.com/story/car-free-cities-opposition/)
-- [Google fined €250M in France for breaching intellectual property deal](https://www.theguardian.com/technology/2024/mar/20/google-fined-250m-euros-in-france-for-breaching-intellectual-property-rules)
-- [Trusting Content on the KDE Store](https://blog.davidedmundson.co.uk/blog/kde-store-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
