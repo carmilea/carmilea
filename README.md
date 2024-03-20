@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Crime Rings Stealing Everything from Purses to Power Tools](https://www.newyorker.com/magazine/2024/03/25/the-crime-rings-stealing-everything-from-purses-to-power-tools)
 - [Launch HN: CamelQA &lpar;YC W24&rpar; – AI that tests mobile apps](https://news.ycombinator.com/item?id=39769412)
 - [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring a Senior SRE &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-senior-site-reliability-engineer-remote)
-- [Glassdoor is now adding real names to user profiles without consent](https://www.teamblind.com/post/Glassdoor-is-now-adding-real-names-and-personal-info-to-user-profiles-without-consent-Delete-your-account-ASAP-TGx0k5mo)
-- [Suspicious Discontinuities](https://danluu.com/discontinuities/)
-- [Flightradar24&#39;s new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
+- [Introducing GNOME 46, &quot;Kathmandu&quot;](https://release.gnome.org/46/)
+- [Suspicious discontinuities &lpar;2020&rpar;](https://danluu.com/discontinuities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
