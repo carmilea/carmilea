@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Focus by Automation](https://myme.no/posts/2024-03-19-focus-by-automation.html)
-- [Farmed salmon leads to loss of nutrients, instead eat &#39;feed fishes&#39; directly](https://www.lancaster.ac.uk/news/fish-fed-to-farmed-salmon-should-be-part-of-our-diet-too-study-suggests)
-- [8 Google Employees Invented Modern AI. Here&#39;s the Inside Story](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
-- [First beta of Nintendo Switch emulator Suyu goes live](https://overkill.wtf/nintendo-switch-emulator-suyu-beta/)
-- [Intel to Receive $8.5B in Grants to Build Chip Plants](https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html)
+- [I used ChatGPT as a reporting assistant. It didn&#39;t go well](https://www.niemanlab.org/2024/03/i-used-chatgpt-as-a-reporting-assistant-it-didnt-go-well/)
+- [&#39;Britain&#39;s Pompeii&#39; reveals Bronze Age village frozen in time](https://www.cnn.com/2024/03/20/europe/must-farm-bronze-age-britain-pompeii-scn/index.html)
+- [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
+- [US Media Is Collapsing](https://jacobin.com/2024/02/us-media-journalism-layoffs-policy)
+- [How OpenAI&#39;s Sora Model Works](https://www.factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works)
 <!-- BLOG-POST-LIST:END -->
 
 ---
