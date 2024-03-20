@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Soul: A SQLite REST and Realtime Server](https://thevahidal.github.io/soul/)
-- [Show HN: Iteratively Building Virtual Creatures in Minecraft](https://github.com/cfusting/conditional-growth)
-- [Unpowered cargo gliders on tow ropes promise 65% cheaper air freight](https://newatlas.com/aircraft/towed-cargo-gliders/)
-- [Memories from when you were a baby might not be gone](https://www.nature.com/articles/d41586-024-00844-9)
-- [HomeRoom &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/homeroom/jobs/ZvE5E8b-customer-success-manager)
+- [Dissent – A GTK4 Discord client written in Go](https://github.com/diamondburned/dissent)
+- [I Improved My Rust Compile Times by 75%](https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent)
+- [Long Covid brain fog may be due to damaged blood vessels in the brain](https://www.sciencenews.org/article/long-covid-brain-fog-blood-brain-barrier-damage)
+- [Study Puts Fermented Foods, Not Fire, as Pivotal Moment in Human Brain Growth](https://plantbasednews.org/news/science/fermented-foods-human-brain-growth/)
+- [Let&#39;s create a Tree-sitter grammar](https://www.jonashietala.se/blog/2024/03/19/lets_create_a_tree-sitter_grammar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
