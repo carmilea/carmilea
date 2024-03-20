@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Private GitHub repos may have been used for an AI dataset](https://post.lurk.org/@emenel/112111014479288871)
-- [The AMD tinybox is on hold until we can build and run the firmware on our GPUs](https://twitter.com/__tinygrad__/status/1770151484363354195)
+- [Show HN: GritQL, a Rust CLI for rewriting source code](https://github.com/getgrit/gritql)
+- [Claim: Private GitHub repos included in AI dataset](https://post.lurk.org/@emenel/112111014479288871)
+- [5GSimWaveform: Open Source Common Waveform Simulator for 5G Physical Layer](https://www.qamcom.com/look-into-qamcoms-research-on-5g/)
 - [OpenAI&#39;s chatbot store is filling up with spam](https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/)
 - [Launch HN: CamelQA &lpar;YC W24&rpar; – AI that tests mobile apps](https://news.ycombinator.com/item?id=39769412)
-- [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring a Senior SRE &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-senior-site-reliability-engineer-remote)
 <!-- BLOG-POST-LIST:END -->
 
 ---
