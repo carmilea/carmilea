@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ashby &lpar;YC W19&rpar; Is Hiring Engineering Managers in EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=7458d4e9-da2e-47bd-98cb-adfda43d42b2)
+- [Lenovo announced ThinkPads for &#39;better sustainability and extended repairabilty&#39;](https://news.lenovo.com/pressroom/press-releases/unleashing-innovation-and-better-sustainability-of-lenovos-latest-thinkpad-l-series-and-x-series-laptops/)
+- [EFF: Tell Congress: We Can&#39;t Afford More Bad Patents](https://act.eff.org/action/tell-congress-we-can-t-afford-more-bad-patents)
 - [Dissent – A GTK4 Discord client written in Go](https://github.com/diamondburned/dissent)
 - [I Improved My Rust Compile Times by 75%](https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent)
-- [Long Covid brain fog may be due to damaged blood vessels in the brain](https://www.sciencenews.org/article/long-covid-brain-fog-blood-brain-barrier-damage)
-- [Study Puts Fermented Foods, Not Fire, as Pivotal Moment in Human Brain Growth](https://plantbasednews.org/news/science/fermented-foods-human-brain-growth/)
-- [Let&#39;s create a Tree-sitter grammar](https://www.jonashietala.se/blog/2024/03/19/lets_create_a_tree-sitter_grammar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
