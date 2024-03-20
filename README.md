@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Long-term leisure computer use &#39;linked to increased erectile dysfunction risk&#39;](https://www.independent.co.uk/news/science/uk-biobank-studies-china-university-of-manchester-b2515459.html)
 - [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
 - [Regex character &quot;$&quot; doesn&#39;t mean &quot;end-of-string&quot;](https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline)
 - [Ashby &lpar;YC W19&rpar; Is Hiring Engineering Managers in EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=7458d4e9-da2e-47bd-98cb-adfda43d42b2)
-- [EFF: Tell Congress: We Can&#39;t Afford More Bad Patents](https://act.eff.org/action/tell-congress-we-can-t-afford-more-bad-patents)
+- [Build systems a la carte: theory and practice &lpar;2020&rpar;](https://simon.peytonjones.org/build-systems-a-la-carte-theory-and-practice/)
+- [Dissent – A GTK4 Discord client written in Go](https://github.com/diamondburned/dissent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
