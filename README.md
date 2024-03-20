@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple could be in trouble over security warnings, as well as Core Technology Fee](https://9to5mac.com/2024/03/20/core-technology-fee-and-security-warnings/)
+- [Blocklist that contain AI generated content for uBlock Origin and uBlacklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+- [The Starship or the Canoe: Where Will Our Future Adaptations Be?](https://alumni.berkeley.edu/california-magazine/summer-2017-adaptation/starship-or-canoe-where-will-our-future-adaptations-be/)
 - [Show HN: GritQL, a Rust CLI for rewriting source code](https://github.com/getgrit/gritql)
 - [Claim: Private GitHub repos included in AI dataset](https://post.lurk.org/@emenel/112111014479288871)
-- [5GSimWaveform: Open Source Common Waveform Simulator for 5G Physical Layer](https://www.qamcom.com/look-into-qamcoms-research-on-5g/)
-- [OpenAI&#39;s chatbot store is filling up with spam](https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/)
-- [Launch HN: CamelQA &lpar;YC W24&rpar; – AI that tests mobile apps](https://news.ycombinator.com/item?id=39769412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
