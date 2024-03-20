@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Crime Rings Stealing Everything from Purses to Power Tools](https://www.newyorker.com/magazine/2024/03/25/the-crime-rings-stealing-everything-from-purses-to-power-tools)
+- [Private GitHub repos may have been used for an AI dataset](https://post.lurk.org/@emenel/112111014479288871)
+- [The AMD tinybox is on hold until we can build and run the firmware on our GPUs](https://twitter.com/__tinygrad__/status/1770151484363354195)
+- [OpenAI&#39;s chatbot store is filling up with spam](https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/)
 - [Launch HN: CamelQA &lpar;YC W24&rpar; – AI that tests mobile apps](https://news.ycombinator.com/item?id=39769412)
 - [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring a Senior SRE &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-senior-site-reliability-engineer-remote)
-- [Introducing GNOME 46, &quot;Kathmandu&quot;](https://release.gnome.org/46/)
-- [Suspicious discontinuities &lpar;2020&rpar;](https://danluu.com/discontinuities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
