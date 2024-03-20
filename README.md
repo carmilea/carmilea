@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: CamelQA &lpar;YC W24&rpar; – AI that tests mobile apps](https://news.ycombinator.com/item?id=39769412)
+- [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring a Senior SRE &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/TArBVR8-senior-site-reliability-engineer-remote)
+- [Glassdoor is now adding real names to user profiles without consent](https://www.teamblind.com/post/Glassdoor-is-now-adding-real-names-and-personal-info-to-user-profiles-without-consent-Delete-your-account-ASAP-TGx0k5mo)
+- [Suspicious Discontinuities](https://danluu.com/discontinuities/)
 - [Flightradar24&#39;s new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
-- [Key Stable Diffusion Researchers Leave Stability AI as Company Flounders](https://www.forbes.com/sites/iainmartin/2024/03/20/key-stable-diffusion-researchers-leave-stability-ai-as-company-flounders)
-- [Multiple Stability AI researchers are departing, CEO says](https://twitter.com/kenrickcai/status/1770474370278035775)
-- [US Gov announces $8.5B preliminary CHIPS investment agreement with Intel](https://www.commerce.gov/news/press-releases/2024/03/biden-harris-administration-announces-preliminary-terms-intel-support)
-- [United Arab Emirates is using cloud seeding tech to make it rain](https://www.cnbc.com/2024/03/18/united-arab-emirates-is-using-cloud-seeding-tech-to-make-it-rain.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
