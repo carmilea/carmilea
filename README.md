@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
-- [Regex character &quot;$&quot; doesn&#39;t mean &quot;end-of-string&quot;](https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline)
-- [Ashby &lpar;YC W19&rpar; Is Hiring Engineering Managers in EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=7458d4e9-da2e-47bd-98cb-adfda43d42b2)
-- [Build systems a la carte: theory and practice &lpar;2020&rpar;](https://simon.peytonjones.org/build-systems-a-la-carte-theory-and-practice/)
-- [Dissent – A GTK4 Discord client written in Go](https://github.com/diamondburned/dissent)
+- [Inserting 100k rows 66 times faster](https://xnacly.me/posts/2024/faster-inserts/)
+- [Lago Is Hiring to Scale the Open-Source Alternative to Stripe Billing](https://news.ycombinator.com/item?id=39765287)
+- [People Hate the Idea of Car-Free Cities–Until They Live in One](https://www.wired.com/story/car-free-cities-opposition/)
+- [Google fined €250M in France for breaching intellectual property deal](https://www.theguardian.com/technology/2024/mar/20/google-fined-250m-euros-in-france-for-breaching-intellectual-property-rules)
+- [Trusting Content on the KDE Store](https://blog.davidedmundson.co.uk/blog/kde-store-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
