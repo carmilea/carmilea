@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Empowering Tomorrow&#39;s AI: SingleStore Now - The Real-Time AI Conference [Recap]](https://www.youtube.com/watch?v=Yn_Ef8yGgQQ)
 - [How We Made That App Episode 7: Revolutionizing Language Models and Data Processing with LlamaIndex](https://www.youtube.com/watch?v=snpZI8LsESA)
 - [Into the SingleVerse: Visionary to Venture Capitalist: Vinod Khosla’s Technology Journey](https://www.youtube.com/watch?v=yeUlYt3ErUg)
 - [Into the SingleVerse: An Inside Look at Insight with Lonne Jaffe &amp; Teddie Wardi](https://www.youtube.com/watch?v=J-Vc6nl41dg)
 - [How We Made That App Episode 6:Data Dreams and AI Realities with 6Sense co-founder Premal Shah](https://www.youtube.com/watch?v=4mA13rG89Cg)
-- [Build Real-Time Document:Image Analytics with GPT-4 Vision.](https://www.youtube.com/watch?v=cOcJWHUPFGY)
 <!-- YOUTUBE:END -->
 
 
