@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If gravity isn&#39;t a force, then why does it &quot;need&quot; a boson?](https://old.reddit.com/r/Physics/comments/1bii6h4/if_gravity_isnt_a_force_then_why_does_it_need_a/)
-- [Show HN: Iteratively Building Virtual Creatures](https://github.com/cfusting/conditional-growth)
+- [Soul: A SQLite REST and Realtime Server](https://thevahidal.github.io/soul/)
+- [Show HN: Iteratively Building Virtual Creatures in Minecraft](https://github.com/cfusting/conditional-growth)
 - [Unpowered cargo gliders on tow ropes promise 65% cheaper air freight](https://newatlas.com/aircraft/towed-cargo-gliders/)
 - [Memories from when you were a baby might not be gone](https://www.nature.com/articles/d41586-024-00844-9)
 - [HomeRoom &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/homeroom/jobs/ZvE5E8b-customer-success-manager)
