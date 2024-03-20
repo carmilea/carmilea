@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I used ChatGPT as a reporting assistant. It didn&#39;t go well](https://www.niemanlab.org/2024/03/i-used-chatgpt-as-a-reporting-assistant-it-didnt-go-well/)
-- [&#39;Britain&#39;s Pompeii&#39; reveals Bronze Age village frozen in time](https://www.cnn.com/2024/03/20/europe/must-farm-bronze-age-britain-pompeii-scn/index.html)
-- [Rive Renderer for real-time vector graphics is now open source](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
-- [US Media Is Collapsing](https://jacobin.com/2024/02/us-media-journalism-layoffs-policy)
-- [How OpenAI&#39;s Sora Model Works](https://www.factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works)
+- [Flightradar24&#39;s new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/)
+- [Key Stable Diffusion Researchers Leave Stability AI as Company Flounders](https://www.forbes.com/sites/iainmartin/2024/03/20/key-stable-diffusion-researchers-leave-stability-ai-as-company-flounders)
+- [Multiple Stability AI researchers are departing, CEO says](https://twitter.com/kenrickcai/status/1770474370278035775)
+- [US Gov announces $8.5B preliminary CHIPS investment agreement with Intel](https://www.commerce.gov/news/press-releases/2024/03/biden-harris-administration-announces-preliminary-terms-intel-support)
+- [United Arab Emirates is using cloud seeding tech to make it rain](https://www.cnbc.com/2024/03/18/united-arab-emirates-is-using-cloud-seeding-tech-to-make-it-rain.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
