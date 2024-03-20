@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Development of AI Applications Leveraging SingleStore and Confluent Cloud for Apache Flink®](https://www.singlestore.com/blog/singlestore-confluent-real-time-ai)
-- [SingleStore Free Tier: Here for Good](https://www.singlestore.com/blog/singlestore-free-tier-here-for-good)
-- [The Importance of Women in Tech](https://www.singlestore.com/blog/the-importance-of-women-in-tech)
-- [Multimodal Models: A Definitive Guide](https://www.singlestore.com/blog/guide-to-multimodal-models)
-- [Understanding the Softmax Activation Function: A Comprehensive Guide](https://www.singlestore.com/blog/a-guide-to-softmax-activation-function)
+- [HomeRoom &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/homeroom/jobs/ZvE5E8b-customer-success-manager)
+- [Job boards are still rife with &#39;ghost jobs&#39;. What&#39;s the point?](https://www.bbc.com/worklife/article/20240315-ghost-jobs-digital-job-boards)
+- [Pen plotting SVGs at a small scale](https://adamfuhrer.com/small-scale-pen-plotting/)
+- [First &#39;cyberflasher&#39; convicted under UK&#39;s new law, gets more than 5 years prison](https://apnews.com/article/first-cyber-flasher-imprisoned-new-english-law-2cec412fa58c15223b3d4734413d1390)
+- [MindEye2: Shared-Subject Models Enable fMRI-to-Image with 1 Hour of Data](https://arxiv.org/abs/2403.11207)
 <!-- BLOG-POST-LIST:END -->
 
 ---
