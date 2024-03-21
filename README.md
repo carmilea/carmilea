@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The London office where swinging pendulums keep cyber threats at bay](https://www.ianvisits.co.uk/articles/inside-the-london-office-where-swinging-pendulums-keep-cyber-threats-at-bay-71054/)
+- [Reddit CEO defends $193M compensation following backlash from unpaid moderators](https://fortune.com/2024/03/19/reddit-ceo-steve-huffman-defends-193-million-compensation-following-backlash-unpaid-moderators/)
 - [Redis License Changed](https://github.com/redis/redis/blob/unstable/LICENSE.txt)
 - [Vernor Vinge &lpar;1944-2024&rpar;](https://file770.com/vernor-vinge-1944-2024/)
-- [Ask HN: How is the Spotify app so bad?](https://news.ycombinator.com/item?id=39775011)
 - [Why did we wait so long for the bicycle? &lpar;2019&rpar;](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
-- [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
