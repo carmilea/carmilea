@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is the Job Market Dying?](https://rachdele.substack.com/p/is-the-job-market-dying)
+- [72% of U.S. Teens Feel Peaceful Without Smartphones.](https://www.pewresearch.org/internet/2024/03/11/how-teens-and-parents-approach-screen-time/)
 - [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
 - [Electric car battery prices are going back down faster than expected](https://electrek.co/2023/11/20/electric-car-battery-prices-are-going-back-down-faster/)
 - [The Physics of Languages](https://physicsworld.com/a/the-physics-of-languages/)
