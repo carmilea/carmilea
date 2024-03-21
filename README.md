@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Found a Way to Open Any of 3M Hotel Keycard Locks in Seconds](https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/)
+- [Introducing pgzx: create PostgreSQL extensions using Zig](https://xata.io/blog/introducing-pgzx)
+- [U.S. sues Apple, accusing it of maintaining an iPhone monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html)
+- [Daily Maps of GPS Interference](https://gpsjam.org/)
 - [The Reddits](https://www.ycombinator.com/blog/the-reddits)
-- [Show HN: Dropflow, a CSS layout engine for node or &lt;canvas&gt;](https://github.com/chearon/dropflow)
-- [Surgeons Transplant Pig Kidney into a Patient](https://www.nytimes.com/2024/03/21/health/pig-kidney-organ-transplant.html)
-- [Difftastic, a structural diff tool that understands syntax](https://difftastic.wilfred.me.uk/)
-- [Hyperscript](https://hyperscript.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
