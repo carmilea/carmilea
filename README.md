@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The London office where swinging pendulums keep cyber threats at bay](https://www.ianvisits.co.uk/articles/inside-the-london-office-where-swinging-pendulums-keep-cyber-threats-at-bay-71054/)
-- [Reddit CEO defends $193M compensation following backlash from unpaid moderators](https://fortune.com/2024/03/19/reddit-ceo-steve-huffman-defends-193-million-compensation-following-backlash-unpaid-moderators/)
-- [Redis License Changed](https://github.com/redis/redis/blob/unstable/LICENSE.txt)
+- [Declines in global fertility to transform global population patterns by 2100](https://www.healthdata.org/news-events/newsroom/news-releases/lancet-dramatic-declines-global-fertility-rates-set-transform)
+- [On how I got my first ten customers](https://onlineornot.com/how-to-get-your-first-ten-customers)
+- [End the Phone-Based Childhood Now](https://www.theatlantic.com/technology/archive/2024/03/teen-childhood-smartphone-use-mental-health-effects/)
+- [Ludic: New framework for Python with seamless Htmx support](https://github.com/paveldedik/ludic)
 - [Vernor Vinge &lpar;1944-2024&rpar;](https://file770.com/vernor-vinge-1944-2024/)
-- [Why did we wait so long for the bicycle? &lpar;2019&rpar;](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
