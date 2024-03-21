@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Am I Flying Boeing?](https://www.amiflyingonaboeing.com/)
+- [Jan: An open source alternative to ChatGPT that runs on the desktop](https://jan.ai/)
+- [Launch HN: Soundry AI &lpar;YC W24&rpar; – Music sample generator for music creators](https://soundry.ai/)
 - [Show HN: DaLMatian – Text2sql that works](https://www.dalmatian.ai/download)
 - [Together &lpar;YC S19&rpar; interviewing engineers that can solve this algorithm problem](https://news.ycombinator.com/item?id=39781248)
-- [VitePress 1.0](https://blog.vuejs.org/posts/vitepress-1.0)
 - [Show HN: Ragas – Open-source library for evaluating RAG pipelines](https://github.com/explodinggradients/ragas)
 <!-- BLOG-POST-LIST:END -->
 
