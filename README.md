@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Redis License Changed](https://github.com/redis/redis/blob/unstable/LICENSE.txt)
 - [Vernor Vinge &lpar;1944-2024&rpar;](https://file770.com/vernor-vinge-1944-2024/)
 - [Guiding Principles for the Mormon Church&#39;s Use of AI](https://newsroom.churchofjesuschrist.org/article/church-jesus-christ-artificial-intelligence)
 - [Why did we wait so long for the bicycle? &lpar;2019&rpar;](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
 - [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
-- [Teler: Real-Time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
 <!-- BLOG-POST-LIST:END -->
 
 ---
