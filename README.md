@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Memories, FOSS Google Photos alternative built for high performance](https://memories.gallery/)
-- [OpenSplat – 3D gaussian splatting in C++ with CPU and GPU support](https://github.com/pierotofy/OpenSplat)
-- [Jan: An open source alternative to ChatGPT that runs on the desktop](https://jan.ai/)
-- [Launch HN: Soundry AI &lpar;YC W24&rpar; – Music sample generator for music creators](https://soundry.ai/)
-- [Show HN: DaLMatian – Text2sql that works](https://www.dalmatian.ai/download)
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [Motorola spoiled a good budget phone with bloatware](https://www.theverge.com/24105894/motorola-moto-g-power-2024-review-specs-features-apps-bloatware)
+- [A type of bacteria that causes dental plaque was found in 50% of colon cancers](https://www.nbcnews.com/health/cancer/aggressive-colon-cancer-newly-identified-bacteria-found-half-tumors-ma-rcna144164)
+- [Actual Uses for Near-Term Quantum Computers](https://spectrum.ieee.org/what-are-quantum-computers-used-for)
+- [Show HN: Memories – FOSS Google Photos alternative built for high performance](https://memories.gallery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
