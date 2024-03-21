@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Declines in global fertility to transform global population patterns by 2100](https://www.healthdata.org/news-events/newsroom/news-releases/lancet-dramatic-declines-global-fertility-rates-set-transform)
-- [On how I got my first ten customers](https://onlineornot.com/how-to-get-your-first-ten-customers)
-- [End the Phone-Based Childhood Now](https://www.theatlantic.com/technology/archive/2024/03/teen-childhood-smartphone-use-mental-health-effects/)
-- [Ludic: New framework for Python with seamless Htmx support](https://github.com/paveldedik/ludic)
-- [Vernor Vinge &lpar;1944-2024&rpar;](https://file770.com/vernor-vinge-1944-2024/)
+- [Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today](https://themeisle.com/blog/we-are-open-sourcing-our-ai-site-builder/)
+- [Trayd &lpar;YC S23&rpar; Is Growing Hiring Solutions Engineer](https://www.ycombinator.com/companies/trayd/jobs/diovYI2-solutions-engineer)
+- [Scotland&#39;s Hate Speech Act and Abuse of Process](https://www.craigmurray.org.uk/archives/2024/03/scotlands-hate-speech-act-and-abuse-of-process/)
+- [Google: Angular and Wiz Are Merging](https://twitter.com/sarah_edo/status/1770478763253379488)
+- [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
