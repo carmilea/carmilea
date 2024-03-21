@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FreeCAD Project Association 2023 Annual report and 2024 plans](https://fpa.freecad.org/annualreports/2024.html)
+- [Why did we wait so long for the bicycle? &lpar;2019&rpar;](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
 - [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
-- [Kids are not okay. New data shows Canadians under-30 &#39;unhappy&#39;](https://globalnews.ca/news/10372813/canada-world-happiness-report-2024/)
 - [The Physics of Languages](https://physicsworld.com/a/the-physics-of-languages/)
 - [Teler: Real-Time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
+- [Show HN: Personal Knowledge Base Visualization](https://github.com/raphaelsty/knowledge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
