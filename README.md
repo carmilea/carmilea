@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Return to Office Is a Mistake](https://www.infoworld.com/article/3714660/return-to-office-is-a-mistake.html)
 - [Why did we wait so long for the bicycle? &lpar;2019&rpar;](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
 - [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
 - [The Physics of Languages](https://physicsworld.com/a/the-physics-of-languages/)
 - [Teler: Real-Time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
-- [Show HN: Personal Knowledge Base Visualization](https://github.com/raphaelsty/knowledge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
