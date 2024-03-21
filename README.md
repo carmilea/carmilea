@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [72% of U.S. Teens Feel Peaceful Without Smartphones.](https://www.pewresearch.org/internet/2024/03/11/how-teens-and-parents-approach-screen-time/)
+- [FreeCAD Project Association 2023 Annual report and 2024 plans](https://fpa.freecad.org/annualreports/2024.html)
 - [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
-- [Electric car battery prices are going back down faster than expected](https://electrek.co/2023/11/20/electric-car-battery-prices-are-going-back-down-faster/)
+- [Kids are not okay. New data shows Canadians under-30 &#39;unhappy&#39;](https://globalnews.ca/news/10372813/canada-world-happiness-report-2024/)
 - [The Physics of Languages](https://physicsworld.com/a/the-physics-of-languages/)
 - [Teler: Real-Time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
 <!-- BLOG-POST-LIST:END -->
