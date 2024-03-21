@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics)
-- [List of formerly open-source or free software](https://en.wikipedia.org/wiki/List_of_formerly_open-source_or_free_software)
-- [Glassdoor added real names to supposedly anonymous profiles](https://www.techradar.com/pro/glassdoor-added-real-names-to-supposedly-anonymous-profiles)
-- [SUSE Upgrades Its Rancher Kubernetes Management Family](https://thenewstack.io/suse-upgrades-its-rancher-kubernetes-management-family/)
-- [ExFAT Driver Boasts Much Faster &quot;Dirsync&quot; Performance with Linux 6.9](https://www.phoronix.com/news/Linux-6.9-Faster-exFAT-dirsync)
+- [The Reddits](https://www.ycombinator.com/blog/the-reddits)
+- [Show HN: Dropflow, a CSS layout engine for node or &lt;canvas&gt;](https://github.com/chearon/dropflow)
+- [Surgeons Transplant Pig Kidney into a Patient](https://www.nytimes.com/2024/03/21/health/pig-kidney-organ-transplant.html)
+- [Difftastic, a structural diff tool that understands syntax](https://difftastic.wilfred.me.uk/)
+- [Hyperscript](https://hyperscript.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
