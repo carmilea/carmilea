@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today](https://themeisle.com/blog/we-are-open-sourcing-our-ai-site-builder/)
-- [Trayd &lpar;YC S23&rpar; Is Growing Hiring Solutions Engineer](https://www.ycombinator.com/companies/trayd/jobs/diovYI2-solutions-engineer)
-- [Scotland&#39;s Hate Speech Act and Abuse of Process](https://www.craigmurray.org.uk/archives/2024/03/scotlands-hate-speech-act-and-abuse-of-process/)
-- [Google: Angular and Wiz Are Merging](https://twitter.com/sarah_edo/status/1770478763253379488)
-- [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
+- [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics)
+- [List of formerly open-source or free software](https://en.wikipedia.org/wiki/List_of_formerly_open-source_or_free_software)
+- [Glassdoor added real names to supposedly anonymous profiles](https://www.techradar.com/pro/glassdoor-added-real-names-to-supposedly-anonymous-profiles)
+- [SUSE Upgrades Its Rancher Kubernetes Management Family](https://thenewstack.io/suse-upgrades-its-rancher-kubernetes-management-family/)
+- [ExFAT Driver Boasts Much Faster &quot;Dirsync&quot; Performance with Linux 6.9](https://www.phoronix.com/news/Linux-6.9-Faster-exFAT-dirsync)
 <!-- BLOG-POST-LIST:END -->
 
 ---
