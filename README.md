@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Allegations of criminality by Boeing in deceased whistleblower complaint](https://www.wsws.org/en/articles/2024/03/21/dbis-m21.html)
+- [Microsoft Launches Surface Laptop 6 for Business and Surface Pro 10](https://blogs.windows.com/devices/2024/03/21/introducing-surface-pro-10-for-business-and-surface-laptop-6-for-business/)
+- [Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
+- [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=39786370)
-- [New studies suggest millions with mild cognitive impairment go undiagnosed](https://theconversation.com/new-studies-suggest-millions-with-mild-cognitive-impairment-go-undiagnosed-often-until-its-too-late-216892)
 - [The Origins of the Generic Mapping Tools](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023CN000231)
-- [18F: CSS Coding Styleguide](https://guides.18f.gov/engineering/languages-runtimes/css/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
