@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bulma CSS framework reaches 1.0](https://github.com/jgthms/bulma/releases/tag/1.0.0)
-- [Show HN: Free Plain-Text Bookmarking](https://webtag.io)
-- [Why is it so hard to build an airport?](https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport)
-- [Aviator &lpar;YC S21&rpar; is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
-- [My grandfather Paul Tillich, the unbelieving theologian](https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian)
+- [GCC Compiler Adds Support for Device Offloading with AMD RDNA3 APUs](https://www.phoronix.com/news/GCC-AMDGCN-GFX1103-RDNA3-APUs)
+- [How the Most Expensive Swords in the World Are Made](https://www.youtube.com/watch?v=Tt6WQYtefXA)
+- [Show HN: Leaping – Debug Python tests instantly with an LLM debugger](https://github.com/leapingio/leaping)
+- [&#39;Backpacks&#39; attached to neutrophils activate the immune system against cancer](https://medicalxpress.com/news/2024-03-backpacks-neutrophils-immune-cancer.html)
+- [Tennessee becomes the first state to protect musicians against AI](https://www.npr.org/2024/03/22/1240114159/tennessee-protect-musicians-artists-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
