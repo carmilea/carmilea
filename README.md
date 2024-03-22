@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude thinks it&#39;s a tumor, radiologists disagree](https://twitter.com/misha_saul/status/1771019329737462232)
 - [Empirical &lpar;YC S23&rpar; is hiring interns to build AI-enabled primary care](https://www.workatastartup.com/jobs/65500)
 - [Finding Little Albert &lpar;2011&rpar;](https://www.bps.org.uk/psychologist/looking-back-finding-little-albert)
 - [OpenCat: Open-source robotic pet quadruped framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
 - [Pack: A new container format for compressed files](https://pack.ac/note/pack)
+- [Mozilla Drops Onerep After CEO Admits to Running People-Search Networks](https://krebsonsecurity.com/2024/03/mozilla-drops-onerep-after-ceo-admits-to-running-people-search-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
