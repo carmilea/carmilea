@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gitlab confirms it&#39;s removed Suyu, a fork of Nintendo Switch emulator Yuzu](https://www.theverge.com/2024/3/21/24108191/gitlab-suyu-nintendo-switch-emulator-takedown)
+- [Users say Glassdoor added real names to user profiles without their consent](https://techcrunch.com/2024/03/20/glassdoor-added-real-names-profiles-without-consent/)
 - [Amazon Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
 - [Ask HN: Anyone looking for contributors for their open source projects](https://news.ycombinator.com/item?id=39787165)
 - [Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
-- [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=39786370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
