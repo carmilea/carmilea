@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crime stories drove readers to GoFundMe campaigns, only the victims didn&#39;t exist](https://www.nbcnews.com/news/crime-stories-drove-readers-gofundme-campaigns-only-victims-didnt-exis-rcna144167)
 - [Why is it so hard to build an airport?](https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport)
 - [Aviator &lpar;YC S21&rpar; is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
-- [VideoLAN unable to update VLC on Android](https://twitter.com/videolan/status/1771102415279763909)
-- [Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
-- [Ask HN: How to run an old-school mailing list?](https://news.ycombinator.com/item?id=39788649)
+- [My grandfather Paul Tillich, the unbelieving theologian Essays](https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian)
+- [Show HN: Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
