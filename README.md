@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=39786370)
+- [FDA says marijuana has a legitimate medicinal purpose](https://www.abcactionnews.com/news/national/fda-says-marijuana-has-a-legitimate-medicinal-purpose)
+- [Improving OKRs – By Daniel Walters](https://wioota.substack.com/p/improving-okrs)
+- [Introduction to Algorithmic Art](http://xahlee.info/math/algorithmic_math_art.html)
 - [Apollo Data Uncovers Lunar Seismic Events](https://essopenarchive.org/users/527743/articles/673415-new-views-of-lunar-seismicity-brought-by-analysis-of-newly-discovered-moonquakes-in-apollo-short-period-seismic-data)
-- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- [A type of bacteria that causes dental plaque was found in 50% of colon cancers](https://www.nbcnews.com/health/cancer/aggressive-colon-cancer-newly-identified-bacteria-found-half-tumors-ma-rcna144164)
-- [Show HN: Memories – FOSS Google Photos alternative built for high performance](https://memories.gallery/)
-- [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
