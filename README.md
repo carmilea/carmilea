@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crime stories drove readers to GoFundMe campaigns, only the victims didn&#39;t exist](https://www.nbcnews.com/news/crime-stories-drove-readers-gofundme-campaigns-only-victims-didnt-exis-rcna144167)
+- [The Bulma CSS framework reaches 1.0](https://github.com/jgthms/bulma/releases/tag/1.0.0)
+- [Show HN: Free Plain-Text Bookmarking](https://webtag.io)
 - [Why is it so hard to build an airport?](https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport)
 - [Aviator &lpar;YC S21&rpar; is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
-- [My grandfather Paul Tillich, the unbelieving theologian Essays](https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian)
-- [Show HN: Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
+- [My grandfather Paul Tillich, the unbelieving theologian](https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian)
 <!-- BLOG-POST-LIST:END -->
 
 ---
