@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Police, Prosecutors Used Junk Science to Decide 911 Callers Were Liars &lpar;2022&rpar;](https://www.propublica.org/article/911-call-analysis-fbi-police-courts)
+- [Empirical &lpar;YC S23&rpar; is hiring interns to build AI-enabled primary care](https://www.workatastartup.com/jobs/65500)
+- [Finding Little Albert &lpar;2011&rpar;](https://www.bps.org.uk/psychologist/looking-back-finding-little-albert)
+- [OpenCat](https://github.com/PetoiCamp/OpenCat)
 - [OpenCat the Open Source Quadruped Robotic Pet Framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
-- [Cable ISP fined $10k for lying to FCC about where it offers broadband](https://arstechnica.com/tech-policy/2024/03/cable-isp-fined-10000-for-lying-to-fcc-about-where-it-offers-broadband/)
-- [Pack: A New Container Format for Compressed Files](https://pack.ac/note/pack)
-- [The antitrust case against Apple](https://pluralistic.net/2024/03/22/reality-distortion-field/#three-trillion-here-three-trillion-there-pretty-soon-youre-talking-real-money)
+- [Mozilla Drops Onerep After CEO Admits to Running People-Search Networks](https://krebsonsecurity.com/2024/03/mozilla-drops-onerep-after-ceo-admits-to-running-people-search-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
