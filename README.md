@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GCC Compiler Adds Support for Device Offloading with AMD RDNA3 APUs](https://www.phoronix.com/news/GCC-AMDGCN-GFX1103-RDNA3-APUs)
-- [How the Most Expensive Swords in the World Are Made](https://www.youtube.com/watch?v=Tt6WQYtefXA)
+- [Raycast &lpar;YC W20&rpar; is hiring Rust engineer &lpar;Remote, Europe, €104k – €160k&rpar;](https://www.raycast.com/jobs/software-engineer-rust)
+- [2K earthquakes in 1 day off Canada coast suggest ocean floor is ripping apart](https://www.livescience.com/planet-earth/earthquakes/2000-earthquakes-in-1-day-off-canada-coast-suggest-the-ocean-floor-is-ripping-apart-scientists-say)
+- [Launch HN: DryMerge &lpar;YC W24&rpar; – Automate Workflows with Plain English](https://news.ycombinator.com/item?id=39792136)
 - [Show HN: Leaping – Debug Python tests instantly with an LLM debugger](https://github.com/leapingio/leaping)
 - [&#39;Backpacks&#39; attached to neutrophils activate the immune system against cancer](https://medicalxpress.com/news/2024-03-backpacks-neutrophils-immune-cancer.html)
-- [Tennessee becomes the first state to protect musicians against AI](https://www.npr.org/2024/03/22/1240114159/tennessee-protect-musicians-artists-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
