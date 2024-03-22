@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Boom Announces Successful Flight of XB-1 Demonstrator Aircraft](https://boomsupersonic.com/flyby/inaugural-first-flight-xb1-supersonic-demonstrator)
 - [Raycast &lpar;YC W20&rpar; is hiring Rust engineer &lpar;Remote, Europe, €104k – €160k&rpar;](https://www.raycast.com/jobs/software-engineer-rust)
-- [2K earthquakes in 1 day off Canada coast suggest ocean floor is ripping apart](https://www.livescience.com/planet-earth/earthquakes/2000-earthquakes-in-1-day-off-canada-coast-suggest-the-ocean-floor-is-ripping-apart-scientists-say)
+- [2K earthquakes in 1 day off Canada coast](https://www.livescience.com/planet-earth/earthquakes/2000-earthquakes-in-1-day-off-canada-coast-suggest-the-ocean-floor-is-ripping-apart-scientists-say)
 - [Launch HN: DryMerge &lpar;YC W24&rpar; – Automate Workflows with Plain English](https://news.ycombinator.com/item?id=39792136)
 - [Show HN: Leaping – Debug Python tests instantly with an LLM debugger](https://github.com/leapingio/leaping)
-- [&#39;Backpacks&#39; attached to neutrophils activate the immune system against cancer](https://medicalxpress.com/news/2024-03-backpacks-neutrophils-immune-cancer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
