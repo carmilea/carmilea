@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
-- [Boom Announces Successful Flight of XB-1 Demonstrator Aircraft](https://boomsupersonic.com/flyby/inaugural-first-flight-xb1-supersonic-demonstrator)
-- [Raycast &lpar;YC W20&rpar; is hiring Rust engineer &lpar;Remote, Europe, €104k – €160k&rpar;](https://www.raycast.com/jobs/software-engineer-rust)
-- [Why You Hear Voices in Your White Noise Machine](https://www.wired.com/story/why-you-hear-voices-white-noise/)
-- [2K earthquakes in 1 day off Canada coast](https://www.livescience.com/planet-earth/earthquakes/2000-earthquakes-in-1-day-off-canada-coast-suggest-the-ocean-floor-is-ripping-apart-scientists-say)
+- [Police, Prosecutors Used Junk Science to Decide 911 Callers Were Liars &lpar;2022&rpar;](https://www.propublica.org/article/911-call-analysis-fbi-police-courts)
+- [OpenCat the Open Source Quadruped Robotic Pet Framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
+- [Cable ISP fined $10k for lying to FCC about where it offers broadband](https://arstechnica.com/tech-policy/2024/03/cable-isp-fined-10000-for-lying-to-fcc-about-where-it-offers-broadband/)
+- [Pack: A New Container Format for Compressed Files](https://pack.ac/note/pack)
+- [The antitrust case against Apple](https://pluralistic.net/2024/03/22/reality-distortion-field/#three-trillion-here-three-trillion-there-pretty-soon-youre-talking-real-money)
 <!-- BLOG-POST-LIST:END -->
 
 ---
