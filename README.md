@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI GPT-4 vs. Groq Mistral-8x7B](https://serpapi.com/blog/openai-gpt-4-vs-groq-mistral/)
 - [New vuln in Apple M-series allowing secret keys extraction can&#39;t be patched](https://twitter.com/kimzetter/status/1770869722760061195)
 - [Show HN: Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
 - [Hacker News Rankings. Graphs of HN posts rank on timeline](https://hnrankings.info)
-- [Gitlab confirms it&#39;s removed Suyu, a fork of Nintendo Switch emulator Yuzu](https://www.theverge.com/2024/3/21/24108191/gitlab-suyu-nintendo-switch-emulator-takedown)
-- [Users say Glassdoor added real names to user profiles without their consent](https://techcrunch.com/2024/03/20/glassdoor-added-real-names-profiles-without-consent/)
+- [Amazon Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
 <!-- BLOG-POST-LIST:END -->
 
 ---
