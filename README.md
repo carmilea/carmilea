@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How to Migrate from PlanetScale to SingleStore Free Tier in 5 Mins](https://www.youtube.com/watch?v=8b7t8uKAYN4)
 - [How ZoomInfo Drives 24x Faster Intent Into Action with SingleStore](https://www.youtube.com/watch?v=uUvVmV123KI)
 - [Empowering Tomorrow&#39;s AI: SingleStore Now - The Real-Time AI Conference [Recap]](https://www.youtube.com/watch?v=Yn_Ef8yGgQQ)
 - [How We Made That App Episode 7: Revolutionizing Language Models and Data Processing with LlamaIndex](https://www.youtube.com/watch?v=snpZI8LsESA)
 - [Into the SingleVerse: Visionary to Venture Capitalist: Vinod Khosla’s Technology Journey](https://www.youtube.com/watch?v=yeUlYt3ErUg)
-- [Into the SingleVerse: An Inside Look at Insight with Lonne Jaffe &amp; Teddie Wardi](https://www.youtube.com/watch?v=J-Vc6nl41dg)
 <!-- YOUTUBE:END -->
 
 
