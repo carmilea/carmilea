@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is it so hard to build an airport?](https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport)
 - [Aviator &lpar;YC S21&rpar; is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
+- [VideoLAN unable to update VLC on Android](https://twitter.com/videolan/status/1771102415279763909)
+- [Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
 - [Ask HN: How to run an old-school mailing list?](https://news.ycombinator.com/item?id=39788649)
-- [Show HN: Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
-- [Hacker News Rankings. Graphs of HN posts rank on timeline](https://hnrankings.info)
-- [Amazon Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
 <!-- BLOG-POST-LIST:END -->
 
 ---
