@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What are some of the best user experiences with AI?](https://news.ycombinator.com/item?id=39789250)
+- [UN adopts first global artificial intelligence resolution](https://www.reuters.com/technology/cybersecurity/un-adopts-first-global-artificial-intelligence-resolution-2024-03-21/)
+- [Ask HN: How to run an old-school mailing list?](https://news.ycombinator.com/item?id=39788649)
 - [OpenAI GPT-4 vs. Groq Mistral-8x7B](https://serpapi.com/blog/openai-gpt-4-vs-groq-mistral/)
 - [New vuln in Apple M-series allowing secret keys extraction can&#39;t be patched](https://twitter.com/kimzetter/status/1770869722760061195)
-- [Show HN: Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
-- [Hacker News Rankings. Graphs of HN posts rank on timeline](https://hnrankings.info)
-- [Amazon Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
 <!-- BLOG-POST-LIST:END -->
 
 ---
