@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Spark Extinguished](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)
 - [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
 - [Feedle: A search engine for blogs and podcasts](https://feedle.world/)
 - [Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
 - [Promoted.ai &lpar;YC W21&rpar; Is Hiring Enterprise AE &lpar;Sales&rpar;](https://www.ycombinator.com/companies/promoted/jobs/zfeEVCT-account-executive-sales)
-- [Show HN: FXYT – Tiny, esoteric, stack-based, postfix, canvas colouring language](https://github.com/susam/fxyt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
