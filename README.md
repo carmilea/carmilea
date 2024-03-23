@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyprland Crash Course](https://xd1.dev/2024/03/hyprland-crash-course)
+- [Marimo: Interactive Fluffy Ball](https://oimo.io/works/marimo/)
 - [Ant queens cannibalise infected brood to limit disease spread, recycle nutrients](https://www.researchgate.net/publication/378986659_Ant_queens_cannibalise_infected_brood_to_contain_disease_spread_and_recycle_nutrients)
 - [The man who bought Pine Bluff, Arkansas &lpar;2022&rpar;](https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas)
 - [Show HN: Wirequery – Full-stack session replay and more](https://github.com/wirequery/wirequery)
-- [Show HN: Rotary Phone Project](https://github.com/mnutt/rotary)
-- [The Intel 8088 processor&#39;s instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
