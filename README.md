@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google will start showing AI-powered search results for users who didn&#39;t opt-in](https://searchengineland.com/google-starts-testing-ai-overviews-from-sge-in-main-google-search-interface-438680)
+- [The &quot;Reitoff principle&quot;: Why you should add &quot;nothing&quot; to your work-life schedule](https://bigthink.com/business/the-reitoff-principle-why-you-should-add-nothing-to-your-work-life-schedule/)
 - [A Spark Extinguished](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)
+- [NIST: Personal Identity Verification &lpar;PIV&rpar; of Federal Employees and Contractors](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-3.pdf)
 - [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
-- [Feedle: A search engine for blogs and podcasts](https://feedle.world/)
-- [Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
-- [Promoted.ai &lpar;YC W21&rpar; Is Hiring Enterprise AE &lpar;Sales&rpar;](https://www.ycombinator.com/companies/promoted/jobs/zfeEVCT-account-executive-sales)
 <!-- BLOG-POST-LIST:END -->
 
 ---
