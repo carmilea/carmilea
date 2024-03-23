@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unify &lpar;YC W23&rpar; Is Hiring](https://apply.unify.ai/)
+- [If You Don&#39;t Change the UI, Nobody Notices &lpar;2009&rpar;](https://blog.codinghorror.com/if-you-dont-change-the-ui-nobody-notices/)
 - [Google will start showing AI-powered search results for users who didn&#39;t opt-in](https://searchengineland.com/google-starts-testing-ai-overviews-from-sge-in-main-google-search-interface-438680)
 - [The &quot;Reitoff principle&quot;: Why you should add &quot;nothing&quot; to your work-life schedule](https://bigthink.com/business/the-reitoff-principle-why-you-should-add-nothing-to-your-work-life-schedule/)
 - [A Spark Extinguished](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)
-- [NIST: Personal Identity Verification &lpar;PIV&rpar; of Federal Employees and Contractors](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-3.pdf)
-- [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
