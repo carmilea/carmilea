@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jasmin Paris Becomes First Woman to Finish Hardest Race](https://run.outsideonline.com/news/barkley-marathons-2024-results/)
+- [Redis Renamed to Redict](https://andrewkelley.me/post/redis-renamed-to-redict.html)
 - [SigNoz &lpar;YC W21, Open Source Datadog&rpar; Is Hiring Developer Advocate](https://jobs.gem.com/signoz/am9icG9zdDpFuMuTUJDOYgsO29-QrAIM)
+- [Fundamentals of Object Storage in Elixir](https://underjord.io/fundamentals-of-object-storage.html)
 - [-2000 Lines of Code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
-- [SceneScript, a novel approach for 3D scene reconstruction](https://ai.meta.com/blog/scenescript-3d-scene-reconstruction-reality-labs-research/)
-- [Who Owns What in NYC?](https://whoownswhat.justfix.org/)
-- [Stability AI Announcement](https://stability.ai/news/stabilityai-announcement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
