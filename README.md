@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visiting Scarfolk, the Most Spectacular Dystopia of the 1970s](https://www.collectorsweekly.com/articles/visiting-scarfolk/)
+- [Micron Samples 256 GB DDR5-8800 MCR DIMMs: Modules for Servers](https://www.anandtech.com/show/21320/micron-samples-256-gb-ddr58800-mcr-dimms-massive-modules-for-massive-servers)
 - [Empirical &lpar;YC S23&rpar; is hiring interns to build AI-enabled primary care](https://www.workatastartup.com/jobs/65500)
 - [Finding Little Albert &lpar;2011&rpar;](https://www.bps.org.uk/psychologist/looking-back-finding-little-albert)
 - [OpenCat: Open-source robotic pet quadruped framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
-- [Pack: A new container format for compressed files](https://pack.ac/note/pack)
-- [Mozilla Drops Onerep After CEO Admits to Running People-Search Networks](https://krebsonsecurity.com/2024/03/mozilla-drops-onerep-after-ceo-admits-to-running-people-search-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
