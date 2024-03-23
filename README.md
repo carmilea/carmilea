@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SigNoz &lpar;YC W21, Open Source Datadog&rpar; Is Hiring Developer Advocate](https://jobs.gem.com/signoz/am9icG9zdDpFuMuTUJDOYgsO29-QrAIM)
+- [-2000 Lines of Code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
+- [SceneScript, a novel approach for 3D scene reconstruction](https://ai.meta.com/blog/scenescript-3d-scene-reconstruction-reality-labs-research/)
 - [Who Owns What in NYC?](https://whoownswhat.justfix.org/)
 - [Stability AI Announcement](https://stability.ai/news/stabilityai-announcement)
-- [Soupault: A static website management tool](https://soupault.app/)
-- [High-speed microscale 3D printing](https://news.stanford.edu/2024/03/13/high-speed-microscale-3d-printing/)
-- [Google Ordered to Identify Who Watched Certain YouTube Videos](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
