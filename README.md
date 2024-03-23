@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Jasmin Paris Becomes First Woman to Finish Hardest Race](https://run.outsideonline.com/news/barkley-marathons-2024-results/)
-- [Redis Renamed to Redict](https://andrewkelley.me/post/redis-renamed-to-redict.html)
+- [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
 - [SigNoz &lpar;YC W21, Open Source Datadog&rpar; Is Hiring Developer Advocate](https://jobs.gem.com/signoz/am9icG9zdDpFuMuTUJDOYgsO29-QrAIM)
 - [Fundamentals of Object Storage in Elixir](https://underjord.io/fundamentals-of-object-storage.html)
-- [-2000 Lines of Code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
+- [India&#39;s TikTok Ban Is a Cautionary Tale for the U.S.](https://www.wsj.com/world/india/india-tiktok-ban-cautionary-tale-us-congress-e014fc28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
