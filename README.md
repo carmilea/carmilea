@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [He quit heading The Pentagon&#39;s UFO office. Now his report has shaken up ufology](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)
-- [Stability AI: Emad Mostaque resigned from his role as CEO](https://stability.ai/news/stabilityai-announcement)
+- [Who Owns What in NYC?](https://whoownswhat.justfix.org/)
+- [Stability AI Announcement](https://stability.ai/news/stabilityai-announcement)
 - [Soupault: A static website management tool](https://soupault.app/)
 - [High-speed microscale 3D printing](https://news.stanford.edu/2024/03/13/high-speed-microscale-3d-printing/)
 - [Google Ordered to Identify Who Watched Certain YouTube Videos](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying/)
