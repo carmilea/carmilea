@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stability AI: Emad Mostaque resigned from his role as CEO](https://stability.ai/news/stabilityai-announcement)
 - [Soupault: A static website management tool](https://soupault.app/)
 - [High-speed microscale 3D printing](https://news.stanford.edu/2024/03/13/high-speed-microscale-3d-printing/)
 - [Google Ordered to Identify Who Watched Certain YouTube Videos](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying/)
-- [Post-quantum cryptography is too damn big](https://dadrian.io/blog/posts/pqc-signatures-2024/)
-- [Visiting Scarfolk, the Most Spectacular Dystopia of the 1970s &lpar;2016&rpar;](https://www.collectorsweekly.com/articles/visiting-scarfolk/)
+- [Arginine Peptides Induce Nucleolar Stress, Ribosomopathy and Aging in Mice](https://www.cell.com/molecular-cell/abstract/S1097-2765(24)00173-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
