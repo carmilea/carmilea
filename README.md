@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Doom and Gloom but financial markets doing well?](https://news.ycombinator.com/item?id=39799406)
+- [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
+- [Feedle: A search engine for blogs and podcasts](https://feedle.world/)
 - [Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
 - [Promoted.ai &lpar;YC W21&rpar; Is Hiring Enterprise AE &lpar;Sales&rpar;](https://www.ycombinator.com/companies/promoted/jobs/zfeEVCT-account-executive-sales)
-- [Doubts grow about the biosignature approach to alien-hunting](https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/)
 - [Show HN: FXYT – Tiny, esoteric, stack-based, postfix, canvas colouring language](https://github.com/susam/fxyt)
 <!-- BLOG-POST-LIST:END -->
 
