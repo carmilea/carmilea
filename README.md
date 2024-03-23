@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ahrefs Saved US$400M in 3 Years by Not Going to the Cloud &lpar;2023&rpar;](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8?gi=10fa74faaed3)
-- [VLC: App Stores Were a Mistake](https://twitter.com/videolan/status/1771104206872555660)
-- [BYD&#39;s new EV, starting under $10K, is stoking fear among rivals](https://electrek.co/2024/03/22/byds-new-ev-starting-under-10000-stoking-fear-rivals/)
+- [Promoted.ai &lpar;YC W21&rpar; Is Hiring Enterprise AE &lpar;Sales&rpar;](https://www.ycombinator.com/companies/promoted/jobs/zfeEVCT-account-executive-sales)
+- [Doubts Grow About the Biosignature Approach to Alien-Hunting](https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/)
+- [Show HN: FXYT – Tiny, esoteric, stack-based, postfix, canvas colouring language](https://github.com/susam/fxyt)
 - [Vasopressin deficiency: driver of social impairment and fluid imbalance in ASD? [pdf]](https://med.stanford.edu/content/dam/sm/parkerlab/documents/da035ad7-7c80-41bd-a9a6-ee03a8bcc58d.pdf)
 - [Jasmin Paris Becomes First Woman to Finish Hardest Race](https://run.outsideonline.com/news/barkley-marathons-2024-results/)
 <!-- BLOG-POST-LIST:END -->
