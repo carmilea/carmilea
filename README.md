@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ahrefs Saved US$400M in 3 Years by Not Going to the Cloud &lpar;2023&rpar;](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8?gi=10fa74faaed3)
+- [Anonymous crypto wallets now illegal in the EU](https://finbold.com/anonymous-crypto-wallets-now-illegal-in-the-eu/)
+- [Vasopressin deficiency: driver of social impairment and fluid imbalance in ASD? [pdf]](https://med.stanford.edu/content/dam/sm/parkerlab/documents/da035ad7-7c80-41bd-a9a6-ee03a8bcc58d.pdf)
 - [Jasmin Paris Becomes First Woman to Finish Hardest Race](https://run.outsideonline.com/news/barkley-marathons-2024-results/)
 - [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
-- [SigNoz &lpar;YC W21, Open Source Datadog&rpar; Is Hiring Developer Advocate](https://jobs.gem.com/signoz/am9icG9zdDpFuMuTUJDOYgsO29-QrAIM)
-- [Fundamentals of Object Storage in Elixir](https://underjord.io/fundamentals-of-object-storage.html)
-- [India&#39;s TikTok Ban Is a Cautionary Tale for the U.S.](https://www.wsj.com/world/india/india-tiktok-ban-cautionary-tale-us-congress-e014fc28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
