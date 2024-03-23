@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Rotary Phone Project](https://github.com/mnutt/rotary)
+- [The Intel 8088 processor&#39;s instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)
 - [Bunk beds in aircraft cabins: the realistic prospects](https://www.aircraftinteriorsinternational.com/features/bunk-beds-in-aircraft-cabins-the-realistic-prospects.html)
-- [The bike collection of Robin Williams](https://www.sterba-bike.cz/album/1926/category/museumsfoto?lang=EN)
 - [Show HN: Lapdev, a new open-source remote dev environment management software](https://github.com/lapce/lapdev)
 - [Unify &lpar;YC W23&rpar; Is Hiring](https://apply.unify.ai/)
-- [Efinix Titanium Ti375 FPGA offers quad-core hardened RISC-V, PCIe Gen 4, 10GbE](https://www.cnx-software.com/2024/03/22/efinix-titanium-ti375-fpga-quad-core-hardened-risc-v-block-pcie-gen-4-10gbe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
