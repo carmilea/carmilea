@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Do Men Dominate Chess?](https://quillette.com/2024/03/22/why-do-men-dominate-chess/)
+- [Ant queens cannibalise infected brood to limit disease spread, recycle nutrients](https://www.researchgate.net/publication/378986659_Ant_queens_cannibalise_infected_brood_to_contain_disease_spread_and_recycle_nutrients)
+- [A Man Who Bought Pine Bluff, Arkansas &lpar;On Hacker News&rpar; &lpar;2022&rpar;](https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas)
 - [Show HN: Rotary Phone Project](https://github.com/mnutt/rotary)
 - [The Intel 8088 processor&#39;s instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)
-- [Bunk beds in aircraft cabins: the realistic prospects](https://www.aircraftinteriorsinternational.com/features/bunk-beds-in-aircraft-cabins-the-realistic-prospects.html)
-- [Show HN: Lapdev, a new open-source remote dev environment management software](https://github.com/lapce/lapdev)
-- [Unify &lpar;YC W23&rpar; Is Hiring](https://apply.unify.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
