@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Doom and Gloom but financial markets doing well?](https://news.ycombinator.com/item?id=39799406)
+- [Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
 - [Promoted.ai &lpar;YC W21&rpar; Is Hiring Enterprise AE &lpar;Sales&rpar;](https://www.ycombinator.com/companies/promoted/jobs/zfeEVCT-account-executive-sales)
-- [Doubts Grow About the Biosignature Approach to Alien-Hunting](https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/)
+- [Doubts grow about the biosignature approach to alien-hunting](https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/)
 - [Show HN: FXYT – Tiny, esoteric, stack-based, postfix, canvas colouring language](https://github.com/susam/fxyt)
-- [Vasopressin deficiency: driver of social impairment and fluid imbalance in ASD? [pdf]](https://med.stanford.edu/content/dam/sm/parkerlab/documents/da035ad7-7c80-41bd-a9a6-ee03a8bcc58d.pdf)
-- [Jasmin Paris Becomes First Woman to Finish Hardest Race](https://run.outsideonline.com/news/barkley-marathons-2024-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
