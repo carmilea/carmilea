@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bunk beds in aircraft cabins: the realistic prospects](https://www.aircraftinteriorsinternational.com/features/bunk-beds-in-aircraft-cabins-the-realistic-prospects.html)
+- [The bike collection of Robin Williams](https://www.sterba-bike.cz/album/1926/category/museumsfoto?lang=EN)
+- [Show HN: Lapdev, a new open-source remote dev environment management software](https://github.com/lapce/lapdev)
 - [Unify &lpar;YC W23&rpar; Is Hiring](https://apply.unify.ai/)
-- [If You Don&#39;t Change the UI, Nobody Notices &lpar;2009&rpar;](https://blog.codinghorror.com/if-you-dont-change-the-ui-nobody-notices/)
-- [Google will start showing AI-powered search results for users who didn&#39;t opt-in](https://searchengineland.com/google-starts-testing-ai-overviews-from-sge-in-main-google-search-interface-438680)
-- [The &quot;Reitoff principle&quot;: Why you should add &quot;nothing&quot; to your work-life schedule](https://bigthink.com/business/the-reitoff-principle-why-you-should-add-nothing-to-your-work-life-schedule/)
-- [A Spark Extinguished](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)
+- [Efinix Titanium Ti375 FPGA offers quad-core hardened RISC-V, PCIe Gen 4, 10GbE](https://www.cnx-software.com/2024/03/22/efinix-titanium-ti375-fpga-quad-core-hardened-risc-v-block-pcie-gen-4-10gbe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
