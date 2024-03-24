@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Sieve &lpar;YC W22&rpar; Is hiring ML engineers to build the future of video AI](https://sievedata.com/about/jobs)
-- [LLM pricing comparison tool – [free]](https://www.botgenuity.com/tools/llm-pricing)
 - [Tinyssh](https://tinyssh.org/)
 - [Reactive Programming Without Functions](https://programming-journal.org/2024/8/11/)
-- [Scythians Between Russia and Ukraine](https://languagelog.ldc.upenn.edu/nll/?p=63123)
+- [The data model behind Notion&#39;s flexibility](https://www.notion.so/blog/data-model-behind-notion)
+- [Why don&#39;t humans have tails?](https://www.cnn.com/2024/03/23/world/humans-tails-genetic-mutation-junk-dna-scn/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
