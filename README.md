@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unplug Your Laptop Now, or It Will Stay Plugged in Forever](https://gizmodo.com/unplug-your-laptop-now-it-will-stay-plugged-in-forever-1851320725)
+- [Fans quitting Spotify to save their love of music &lpar;2022&rpar;](https://www.theguardian.com/music/2022/sep/27/theres-endless-choice-but-youre-not-listening-fans-quitting-spotify-to-save-their-love-of-music)
 - [Scythians Between Russia and Ukraine](https://languagelog.ldc.upenn.edu/nll/?p=63123)
-- [The Biggest Crisis Is the End of Scarcity](https://foreignpolicy.com/2024/03/16/end-of-scarcity-crisis-growth-war/)
 - [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
 - [A nostalgic look back at when the Internet still felt joyful](https://www.cnn.com/2024/03/14/style/lan-party-online-gamers-photos/index.html)
-- [Core I9 14900KF Breaks World Record, Almost Achieves 9.1GHz &lpar;2023&rpar;](https://www.tomshardware.com/news/core-i9-14900kf-breaks-world-record-almost-achieves-91ghz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
