@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [State Farm won&#39;t renew 72,000 insurance policies in California](https://www.latimes.com/california/story/2024-03-23/state-farm-wont-renew-72-000-insurance-policies-in-california-worsening-the-states-insurance-crisis)
 - [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Bootcamps Partnership Manager](https://www.ycombinator.com/companies/codecrafters/jobs/tH6WSC3-bootcamps-partnerships-manager)
+- [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
-- [Cancer under age 50 increased 80% from 1990 to 2019](https://bmjoncology.bmj.com/content/2/1/e000049#DC1)
-- [Why &quot;Freakonomics&quot; failed to transform economics](https://www.economist.com/finance-and-economics/2024/03/21/why-freakonomics-failed-to-transform-economics)
-- [An approach to design high-power lithium sulfur batteries](https://phys.org/news/2024-03-approach-high-power-lithium-sulfur.html)
+- [Oxide Cloud Computer. No Cables. No Assembly. Just Cloud](https://oxide.computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
