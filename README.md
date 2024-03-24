@@ -59,8 +59,8 @@
 - [Sieve &lpar;YC W22&rpar; Is hiring ML engineers to build the future of video AI](https://sievedata.com/about/jobs)
 - [TinySSH is a small SSH server using NaCl, TweetNaCl](https://github.com/janmojzis/tinyssh)
 - [Reactive Programming Without Functions](https://programming-journal.org/2024/8/11/)
-- [Sure. Let Adobe AI scan all of your documents. What could go wrong?](https://infosec.exchange/@briankrebs/111965550971762920)
 - [D2 Playground](https://play.d2lang.com/)
+- [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
