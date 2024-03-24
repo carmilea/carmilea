@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Sieve &lpar;YC W22&rpar; Is hiring ML engineers to build the future of video AI](https://sievedata.com/about/jobs)
-- [Tinyssh](https://tinyssh.org/)
+- [TinySSH is a small SSH server using NaCl, TweetNaCl](https://github.com/janmojzis/tinyssh)
 - [Reactive Programming Without Functions](https://programming-journal.org/2024/8/11/)
-- [The data model behind Notion&#39;s flexibility](https://www.notion.so/blog/data-model-behind-notion)
-- [Why don&#39;t humans have tails?](https://www.cnn.com/2024/03/23/world/humans-tails-genetic-mutation-junk-dna-scn/index.html)
+- [Sure. Let Adobe AI scan all of your documents. What could go wrong?](https://infosec.exchange/@briankrebs/111965550971762920)
+- [D2 Playground](https://play.d2lang.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
