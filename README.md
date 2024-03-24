@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Only Walking for Exercise?](https://theconversation.com/only-walking-for-exercise-heres-how-to-get-the-most-out-of-it-224159)
 - [GoGoGrandparent &lpar;YC S16&rpar; is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39808425)
-- [Ten years of selling web data: a personal perspective](https://substack.thewebscraping.club/p/selling-web-scraped-data)
 - [What Happens When a Fifteen Year Old Pumps and Dumps with a Net Profit of $800k? &lpar;2002&rpar;](http://www.kentlaw.edu/faculty/rwarner/classes/legalaspects_ukraine/securities/case_studies/ledbed.htm)
+- [Be more lucky](https://newsletter.pnote.eu/p/be-more-lucky)
 - [Show HN: Glossarie – a new, immersive way to learn a language](https://glossarie.app/)
-- [Condvars and atomics do not mix](https://zeux.io/2024/03/23/condvars-atomic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
