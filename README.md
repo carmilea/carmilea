@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sieve &lpar;YC W22&rpar; Is hiring ML engineers to build the future of video AI](https://sievedata.com/about/jobs)
+- [LLM pricing comparison tool – [free]](https://www.botgenuity.com/tools/llm-pricing)
 - [Tinyssh](https://tinyssh.org/)
 - [Reactive Programming Without Functions](https://programming-journal.org/2024/8/11/)
-- [Dead Man&#39;s Switch](https://www.deadmansswitch.net/)
-- [Fans quitting Spotify to save their love of music &lpar;2022&rpar;](https://www.theguardian.com/music/2022/sep/27/theres-endless-choice-but-youre-not-listening-fans-quitting-spotify-to-save-their-love-of-music)
 - [Scythians Between Russia and Ukraine](https://languagelog.ldc.upenn.edu/nll/?p=63123)
 <!-- BLOG-POST-LIST:END -->
 
