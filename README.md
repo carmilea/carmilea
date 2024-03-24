@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unplug Your Laptop Now, or It Will Stay Plugged in Forever](https://gizmodo.com/unplug-your-laptop-now-it-will-stay-plugged-in-forever-1851320725)
+- [Tinyssh](https://tinyssh.org/)
+- [Reactive Programming Without Functions](https://programming-journal.org/2024/8/11/)
+- [Dead Man&#39;s Switch](https://www.deadmansswitch.net/)
 - [Fans quitting Spotify to save their love of music &lpar;2022&rpar;](https://www.theguardian.com/music/2022/sep/27/theres-endless-choice-but-youre-not-listening-fans-quitting-spotify-to-save-their-love-of-music)
 - [Scythians Between Russia and Ukraine](https://languagelog.ldc.upenn.edu/nll/?p=63123)
-- [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
-- [A nostalgic look back at when the Internet still felt joyful](https://www.cnn.com/2024/03/14/style/lan-party-online-gamers-photos/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
