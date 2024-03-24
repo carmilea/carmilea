@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Biggest Crisis Is the End of Scarcity](https://foreignpolicy.com/2024/03/16/end-of-scarcity-crisis-growth-war/)
 - [Startup Founder Wants to Sell Cocaine](https://www.thedailybeast.com/safe-supply-founder-bill-panagiotakopoulos-wants-to-sell-cocaine)
 - [A nostalgic look back at when the Internet still felt joyful](https://www.cnn.com/2024/03/14/style/lan-party-online-gamers-photos/index.html)
-- [Core I9 14900KF Breaks World Record, Almost Achieves 9.1GHz](https://www.tomshardware.com/news/core-i9-14900kf-breaks-world-record-almost-achieves-91ghz)
+- [Core I9 14900KF Breaks World Record, Almost Achieves 9.1GHz &lpar;2023&rpar;](https://www.tomshardware.com/news/core-i9-14900kf-breaks-world-record-almost-achieves-91ghz)
 - [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Bootcamps Partnership Manager](https://www.ycombinator.com/companies/codecrafters/jobs/tH6WSC3-bootcamps-partnerships-manager)
-- [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
