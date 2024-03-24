@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
-- [Hyprland Crash Course](https://xd1.dev/2024/03/hyprland-crash-course)
-- [Marimo: Interactive Fluffy Ball](https://oimo.io/works/marimo/)
-- [What Happens to Google Maps When Tectonic Plates Move?](https://nautil.us/what-happens-to-google-maps-when-tectonic-plates-move-237678/)
-- [Interval Parsing Grammars for File Format Parsing &lpar;2023&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/3591264)
+- [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Bootcamps Partnership Manager](https://www.ycombinator.com/companies/codecrafters/jobs/tH6WSC3-bootcamps-partnerships-manager)
+- [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
+- [Cancer under age 50 increased 80% from 1990 to 2019](https://bmjoncology.bmj.com/content/2/1/e000049#DC1)
+- [Why &quot;Freakonomics&quot; failed to transform economics](https://www.economist.com/finance-and-economics/2024/03/21/why-freakonomics-failed-to-transform-economics)
+- [An approach to design high-power lithium sulfur batteries](https://phys.org/news/2024-03-approach-high-power-lithium-sulfur.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
