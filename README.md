@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scythians Between Russia and Ukraine](https://languagelog.ldc.upenn.edu/nll/?p=63123)
 - [The Biggest Crisis Is the End of Scarcity](https://foreignpolicy.com/2024/03/16/end-of-scarcity-crisis-growth-war/)
-- [Startup Founder Wants to Sell Cocaine](https://www.thedailybeast.com/safe-supply-founder-bill-panagiotakopoulos-wants-to-sell-cocaine)
+- [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
 - [A nostalgic look back at when the Internet still felt joyful](https://www.cnn.com/2024/03/14/style/lan-party-online-gamers-photos/index.html)
 - [Core I9 14900KF Breaks World Record, Almost Achieves 9.1GHz &lpar;2023&rpar;](https://www.tomshardware.com/news/core-i9-14900kf-breaks-world-record-almost-achieves-91ghz)
-- [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Bootcamps Partnership Manager](https://www.ycombinator.com/companies/codecrafters/jobs/tH6WSC3-bootcamps-partnerships-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
