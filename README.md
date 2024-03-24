@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Only Walking for Exercise?](https://theconversation.com/only-walking-for-exercise-heres-how-to-get-the-most-out-of-it-224159)
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39808425)
-- [What Happens When a Fifteen Year Old Pumps and Dumps with a Net Profit of $800k? &lpar;2002&rpar;](http://www.kentlaw.edu/faculty/rwarner/classes/legalaspects_ukraine/securities/case_studies/ledbed.htm)
-- [Be more lucky](https://newsletter.pnote.eu/p/be-more-lucky)
-- [Show HN: Glossarie – a new, immersive way to learn a language](https://glossarie.app/)
+- [If you watched certain YouTube videos, investigators demanded your data](https://mashable.com/article/google-ordered-to-hand-over-viewer-data-privacy-concerns)
+- [Why isn&#39;t preprint review being adopted?](https://www.theroadgoeson.com/why-isnt-preprint-review-being-adopted)
+- [Aegis v3.0 – a free, secure and open source 2FA app for Android](https://github.com/beemdevelopment/Aegis/releases/tag/v3.0)
+- [China blocks use of Intel and AMD chips in government computers: Report](https://www.channelnewsasia.com/business/china-blocks-use-intel-and-amd-chips-government-computers-report-4218101)
+- [Only walking for exercise?](https://theconversation.com/only-walking-for-exercise-heres-how-to-get-the-most-out-of-it-224159)
 <!-- BLOG-POST-LIST:END -->
 
 ---
