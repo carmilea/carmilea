@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39808425)
+- [Ten years of selling web data: a personal perspective](https://substack.thewebscraping.club/p/selling-web-scraped-data)
+- [What Happens When a Fifteen Year Old Pumps and Dumps with a Net Profit of $800k? &lpar;2002&rpar;](http://www.kentlaw.edu/faculty/rwarner/classes/legalaspects_ukraine/securities/case_studies/ledbed.htm)
+- [Show HN: Glossarie – a new, immersive way to learn a language](https://glossarie.app/)
 - [Condvars and atomics do not mix](https://zeux.io/2024/03/23/condvars-atomic/)
-- [Type-Safe Printf&lpar;&rpar; in TypeScript](https://www.typescriptlang.org/play?#code/C4TwDgpgBAypDGUC8UDkATVUA+aDOqA3AFCiSwIAq4EAPDFBAB7AQB26eFE8AfMrEYt2nNJigB+KGwCuAWwBGEAE5QAXIOasOXVAUlQ8wZQEs2Ac3XSIANxUlSNKAAVTbYADMAgsvN5aAGJywPxIxFARUEHAQtqiAAYApAAkAN5mHiqawjrc8AC+aRlZAEoQRvnxBgDacDzUkPS8ADRQAHQdrmaePn60ZUa8ALrq4ZHRsSJc8UVsmaoA+vkp6XNZDFpTeYWr81ADwJU1dfANdDAt7Z1uPb7+B8OjkVDVQw4eMmzwwCYA9mxQMA3DyBYKTXJGNzmXgACg8wQ00VaHTaAEM7houu5vHdQSEAJRQVJjCLwf54X4AGwgbUpv3MMPiZXgEBMdnQUHhMUhZnMGgARGkufl+VBURwxRioGl0X5KviSPliMQAPQqqAASWAeigZGgeFRmQAhMQgd0PDD+QAJCCUumtRJ4NpQRIcgDULo5KFdbX5rX5AHVfspKeg-VAAKytAAsrQAnAqgA)
-- [Antimatter Propulsion [pdf]](https://ntrs.nasa.gov/api/citations/20200001904/downloads/20200001904.pdf)
-- [ARM64EC &lpar;and ARM64X&rpar; Explained](http://www.emulators.com/docs/abc_arm64ec_explained.htm)
-- [Sieve &lpar;YC W22&rpar; Is hiring ML engineers to build the future of video AI](https://sievedata.com/about/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
