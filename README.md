@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The new Windows update made me think I&#39;d installed malware](https://www.pcgamer.com/software/windows/the-new-windows-update-made-me-think-id-installed-malware-but-it-was-just-microsofts-latest-attempt-to-try-and-fool-me-into-using-bing/)
+- [Scientists traced a mysterious Covid case back to six toilets](https://www.technologyreview.com/2024/03/22/1090059/how-scientists-traced-a-mysterious-covid-case-back-to-six-toilets/)
+- [Majority of web apps could just run on a single server](https://old.reddit.com/r/webdev/comments/1bmfrjm/majority_of_web_apps_could_just_run_on_a_single/)
+- [GPT-4, without specialized training, beat a GPT-3.5 class model that cost $10M](https://www.threads.net/@ethan_mollick/post/C46AfItO8RS)
 - [If you watched certain YouTube videos, investigators demanded your data](https://mashable.com/article/google-ordered-to-hand-over-viewer-data-privacy-concerns)
-- [Why isn&#39;t preprint review being adopted?](https://www.theroadgoeson.com/why-isnt-preprint-review-being-adopted)
-- [Aegis v3.0 – a free, secure and open source 2FA app for Android](https://github.com/beemdevelopment/Aegis/releases/tag/v3.0)
-- [China blocks use of Intel and AMD chips in government computers: Report](https://www.channelnewsasia.com/business/china-blocks-use-intel-and-amd-chips-government-computers-report-4218101)
-- [Only walking for exercise?](https://theconversation.com/only-walking-for-exercise-heres-how-to-get-the-most-out-of-it-224159)
 <!-- BLOG-POST-LIST:END -->
 
 ---
