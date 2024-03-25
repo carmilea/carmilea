@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ZenHammer: Rowhammer Attacks on AMD Zen-Based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
+- [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
 - [Solving Crew Battle Strategy with Math](https://www.alexirpan.com/2024/03/23/crew-battle.html)
 - [Patterns &lpar;YC S21&rpar; is hiring to automate data reporting with LLMs](https://patterns.app/)
 - [Hotel Hotspot Hijinks](https://peateasea.de/hotel-hotspot-hijinks/)
-- [Show HN: Versatile email infrastructure on AWS serverless](https://github.com/harryzcy/mailbox)
-- [The semiconductor industry hinges on a quartz factory in North Carolina](https://www.tomshardware.com/tech-industry/semiconductors/the-worlds-semiconductor-industry-hinges-on-a-quartz-factory-in-north-carolina)
 <!-- BLOG-POST-LIST:END -->
 
 ---
