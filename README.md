@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spine AI &lpar;YC S23&rpar; Is Hiring for a Senior Back End Engineer](https://www.ycombinator.com/companies/spine-ai/jobs/ak6G8jk-senior-backend-engineer)
+- [SPQR 1.3.0: a production-ready system for horizontal scaling of PostgreSQL](https://github.com/pg-sharding/spqr/discussions/569)
 - [EU Launches Probes into Apple, Meta, Google Under New Digital Competition Law](https://www.wsj.com/tech/eu-launches-probes-into-apple-meta-google-under-new-digital-competition-law-4d383201)
-- [It&#39;s a SpaceX World &lpar;Everyone Else Is Playing Catch-Up&rpar;](https://www.astralytical.com/insights/its-a-spacex-world-everyone-else-is-playing-catch-up)
 - [Pyenv – lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring a Senior SW Engineer C/C++ in Berlin](https://bitmovin.com/careers/senior-software-engineer-c-7093093002)
 - [Why choose async/await over threads?](https://notgull.net/why-not-threads/)
 <!-- BLOG-POST-LIST:END -->
 
