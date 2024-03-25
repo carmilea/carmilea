@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU Launches Probes into Apple, Meta, Google Under New Digital Competition Law](https://www.wsj.com/tech/eu-launches-probes-into-apple-meta-google-under-new-digital-competition-law-4d383201)
+- [It&#39;s a SpaceX World &lpar;Everyone Else Is Playing Catch-Up&rpar;](https://www.astralytical.com/insights/its-a-spacex-world-everyone-else-is-playing-catch-up)
 - [Pyenv – lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv)
-- [GDPR Enforcement Tracker – list of GDPR fines](https://www.enforcementtracker.com/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring a Senior SW Engineer C/C++ in Berlin](https://bitmovin.com/careers/senior-software-engineer-c-7093093002)
-- [Windows 98 Icons](https://win98icons.alexmeub.com/)
-- [Best engineering interview question I&#39;ve gotten](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
+- [Why choose async/await over threads?](https://notgull.net/why-not-threads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
