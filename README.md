@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anglo-Italian company says it has cracked Bitcoin. People have questions](https://www.ft.com/content/8aa731a0-5456-4121-a2f7-828ae90ed199)
+- [CFEngine&#39;s Star Trek and AI Origins &lpar;2023&rpar;](https://mark-burgess-oslo-mb.medium.com/cfengines-star-trek-and-ai-origins-e99096fe845b)
+- [United States vs. Apple](https://stratechery.com/2024/united-states-v-apple/)
 - [Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
 - [Show HN: Detecting adblock, without JavaScript, by abusing HTTP 103 responses](https://github.com/Mechazawa/103-early-anti-adblock)
-- [Show HN: Flatito, grep for YAML and JSON files](https://github.com/ceritium/flatito)
-- [Sexualized culture on livestreaming platforms: a content analysis of Twitch.tv](https://www.nature.com/articles/s41599-024-02724-z)
-- [For Brilliant Color: Packaging the First LSD Blotter](https://thereader.mitpress.mit.edu/for-brilliant-color-packaging-the-first-lsd-blotter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
