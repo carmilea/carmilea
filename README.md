@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mutt on Windows Without WSL](https://blog.djhaskin.com/blog/mutt-on-windows-without-wsl/)
+- [Northern lights forecasted to be visible into upper United States tonight](https://www.swpc.noaa.gov/products/aurora-viewline-tonight-and-tomorrow-night-experimental)
+- [Symbolics Sunstone Development Plan &lpar;1987&rpar; [pdf]](https://wiki.unix-haters.org/lib/exe/fetch.php?media=smbx:1987-sunstone.pdf)
 - [The Format Dialog in Windows NT](https://twitter.com/davepl1968/status/1772042158046146792)
-- [Do artifacts have politics? [pdf]](https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf)
-- [Explorer: Exploration-Guided Reasoning for Textual Reinforcement Learning](https://arxiv.org/abs/2403.10692)
-- [Large Language Models&#39; Emergent Abilities Are a Mirage](https://www.wired.com/story/how-quickly-do-large-language-models-learn-unexpected-skills/)
-- [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
+- [Moving Back to London and 2023 Review](https://mccormick.cx/news/entries/moving-back-to-london-2023-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
