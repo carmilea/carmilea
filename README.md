@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Barcelona’s Sagrada Familia will be completed in 2026](https://www.cnn.com/2024/03/25/travel/sagrada-familia-barcelona-completion-scli-intl/index.html)
-- [Germany&#39;s Solar Panel Industry, Once a Leader, Is Getting Squeezed](https://www.nytimes.com/2024/03/25/business/germany-solar-panels-china-protectionism.html)
-- [Boeing CEO Calhoun to step down at end of 2024](https://www.reuters.com/business/aerospace-defense/boeing-ceo-calhoun-step-down-2024-03-25/)
-- [Spine AI &lpar;YC S23&rpar; Is Hiring for a Senior Back End Engineer](https://www.ycombinator.com/companies/spine-ai/jobs/ak6G8jk-senior-backend-engineer)
-- [SPQR 1.3.0: a production-ready system for horizontal scaling of PostgreSQL](https://github.com/pg-sharding/spqr/discussions/569)
+- [Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
+- [Show HN: Detecting adblock, without JavaScript, by abusing HTTP 103 responses](https://github.com/Mechazawa/103-early-anti-adblock)
+- [Show HN: Flatito, grep for YAML and JSON files](https://github.com/ceritium/flatito)
+- [Sexualized culture on livestreaming platforms: a content analysis of Twitch.tv](https://www.nature.com/articles/s41599-024-02724-z)
+- [For Brilliant Color: Packaging the First LSD Blotter](https://thereader.mitpress.mit.edu/for-brilliant-color-packaging-the-first-lsd-blotter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
