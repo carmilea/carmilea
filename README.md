@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GDPR Enforcement Tracker – list of GDPR fines](https://www.enforcementtracker.com/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring a Senior SW Engineer C/C++ in Berlin](https://bitmovin.com/careers/senior-software-engineer-c-7093093002)
 - [Windows 98 Icons](https://win98icons.alexmeub.com/)
 - [Best engineering interview question I&#39;ve gotten](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
 - [GM stops sharing driver data with brokers amid backlash](https://arstechnica.com/cars/2024/03/gm-stops-sharing-driver-data-with-brokers-amid-backlash/)
-- [EVGA power supply kills 22TB of customer storage then denies responsibility](https://www.tomshardware.com/pc-components/power-supplies/evga-power-supply-allegedly-blows-up-22tb-of-customer-storage-revised-model-from-rma-had-a-different-pin-layout-and-killed-all-sata-powered-devices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
