@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 - [Show HN: Invertornot.com – API to enhance your images in dark-mode](https://invertornot.com)
 - [Hacker fakes German minister&#39;s fingerprints using photos of her hands &lpar;2014&rpar;](https://www.theguardian.com/technology/2014/dec/30/hacker-fakes-german-ministers-fingerprints-using-photos-of-her-hands)
-- [Is GPT-4 a Good Data Analyst?](https://arxiv.org/abs/2305.15038)
-- [Speeding up Azure development by not using Terraform](https://nitric.io/blog/terraform-comparison-demo)
-- [Inclusive Sans: Text font designed for accessibility and readability](https://www.oliviaking.com/inclusive-sans)
+- [Fisker Trading Suspended by NYSE](https://techcrunch.com/2024/03/25/fisker-trading-suspended-by-nyse/)
+- [As AI booms, land near nuclear power plants becomes hot real estate](https://www.theregister.com/2024/03/25/ai_boom_nuclear/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
