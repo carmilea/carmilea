@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Barcelona&#39;s famous Sagrada Familia will be completed in 2026](https://www.cnn.com/2024/03/25/travel/sagrada-familia-barcelona-completion-scli-intl/index.html)
+- [Barcelona’s Sagrada Familia will be completed in 2026](https://www.cnn.com/2024/03/25/travel/sagrada-familia-barcelona-completion-scli-intl/index.html)
 - [Germany&#39;s Solar Panel Industry, Once a Leader, Is Getting Squeezed](https://www.nytimes.com/2024/03/25/business/germany-solar-panels-china-protectionism.html)
 - [Boeing CEO Calhoun to step down at end of 2024](https://www.reuters.com/business/aerospace-defense/boeing-ceo-calhoun-step-down-2024-03-25/)
 - [Spine AI &lpar;YC S23&rpar; Is Hiring for a Senior Back End Engineer](https://www.ycombinator.com/companies/spine-ai/jobs/ak6G8jk-senior-backend-engineer)
