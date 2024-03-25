@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [ZenHammer: Rowhammer Attacks on AMD Zen-Based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
 - [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
+- [SingleStore Cloud Performance Troubleshooting Notebook](https://www.singlestore.com/blog/singlestore-cloud-performance-troubleshooting-notebook)
 - [Solving Crew Battle Strategy with Math](https://www.alexirpan.com/2024/03/23/crew-battle.html)
 - [Patterns &lpar;YC S21&rpar; is hiring to automate data reporting with LLMs](https://patterns.app/)
-- [Hotel Hotspot Hijinks](https://peateasea.de/hotel-hotspot-hijinks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
