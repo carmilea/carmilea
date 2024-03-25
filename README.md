@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Build a Customer Engagement Platform](https://onesignal.com/careers#section-job)
+- [The Lost Worlds of Telnet &lpar;2019&rpar;](https://thenewstack.io/the-lost-worlds-of-telnet/)
 - [Supervision: Reusable Computer Vision](https://github.com/roboflow/supervision)
-- [Revert &quot;video: Prefer Wayland over X11 &lpar;take 2&rpar;&quot;](https://github.com/libsdl-org/SDL/pull/9345)
 - [Mutt on Windows Without WSL](https://blog.djhaskin.com/blog/mutt-on-windows-without-wsl/)
 - [Northern lights forecasted to be visible into upper United States tonight](https://www.swpc.noaa.gov/products/aurora-viewline-tonight-and-tomorrow-night-experimental)
-- [Symbolics Sunstone Development Plan &lpar;1987&rpar; [pdf]](https://wiki.unix-haters.org/lib/exe/fetch.php?media=smbx:1987-sunstone.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
