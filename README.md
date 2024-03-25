@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving Crew Battle Strategy with Math](https://www.alexirpan.com/2024/03/23/crew-battle.html)
 - [Patterns &lpar;YC S21&rpar; is hiring to automate data reporting with LLMs](https://patterns.app/)
+- [Hotel Hotspot Hijinks](https://peateasea.de/hotel-hotspot-hijinks/)
+- [Show HN: Versatile email infrastructure on AWS serverless](https://github.com/harryzcy/mailbox)
 - [The semiconductor industry hinges on a quartz factory in North Carolina](https://www.tomshardware.com/tech-industry/semiconductors/the-worlds-semiconductor-industry-hinges-on-a-quartz-factory-in-north-carolina)
-- [Houdini and the Art of Escape &lpar;2020&rpar;](https://www.newyorker.com/magazine/2020/03/30/harry-houdini-and-the-art-of-escape)
-- [&#39;Is monetary policy even working?&#39;](https://www.ft.com/content/78aecb9f-a2bb-48bb-b868-0e11ef68eddf)
-- [CFEngine&#39;s Star Trek and AI Origins &lpar;2023&rpar;](https://mark-burgess-oslo-mb.medium.com/cfengines-star-trek-and-ai-origins-e99096fe845b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
