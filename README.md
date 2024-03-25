@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Supervision: Reusable Computer Vision](https://github.com/roboflow/supervision)
+- [Revert &quot;video: Prefer Wayland over X11 &lpar;take 2&rpar;&quot;](https://github.com/libsdl-org/SDL/pull/9345)
 - [Mutt on Windows Without WSL](https://blog.djhaskin.com/blog/mutt-on-windows-without-wsl/)
 - [Northern lights forecasted to be visible into upper United States tonight](https://www.swpc.noaa.gov/products/aurora-viewline-tonight-and-tomorrow-night-experimental)
 - [Symbolics Sunstone Development Plan &lpar;1987&rpar; [pdf]](https://wiki.unix-haters.org/lib/exe/fetch.php?media=smbx:1987-sunstone.pdf)
-- [The Format Dialog in Windows NT](https://twitter.com/davepl1968/status/1772042158046146792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
