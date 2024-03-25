@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vast Archive of Rare Japanese Textbooks Now Online to Explore Free](https://mymodernmet.com/historic-japanese-textbooks-online/)
+- [Speeding up Azure development by not using Terraform](https://nitric.io/blog/terraform-comparison-demo)
 - [ZenHammer: Rowhammer Attacks on AMD Zen-Based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
 - [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
-- [SingleStore Cloud Performance Troubleshooting Notebook](https://www.singlestore.com/blog/singlestore-cloud-performance-troubleshooting-notebook)
-- [Solving Crew Battle Strategy with Math](https://www.alexirpan.com/2024/03/23/crew-battle.html)
-- [Patterns &lpar;YC S21&rpar; is hiring to automate data reporting with LLMs](https://patterns.app/)
+- [Two open source projects with great architecture documentation](https://johnjago.com/great-docs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
