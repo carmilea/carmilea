@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed](https://twitter.com/sentdefender/status/1772514015790477667)
 - [Kapa.ai &lpar;YC S23&rpar; is hiring a full stack engineer &lpar;with LLM focus&rpar;](https://www.ycombinator.com/companies/kapa-ai/jobs/Mt1W4Mj-full-stack-engineer)
-- [I asked ChatGPT to write the code to print &quot;Hello, world &quot; as a junior developer](https://hachyderm.io/@vnglst/112135583244850791)
+- [Crypto Had Its Chance](https://joanwestenberg.com/blog/crypto-had-its-chance)
+- [Telegram&#39;s peer-to-peer SMS login service is a privacy nightmare](https://techcrunch.com/2024/03/25/telegrams-peer-to-peer-sms-login-service-is-a-privacy-nightmare/)
 - [Packet-Editing Games in Golang &lpar;2021&rpar;](https://remyhax.xyz/posts/golang-packet-editing/)
-- [Chess puzzle, but you are what you capture](https://echochess.com)
-- [Canva acquires Affinity, its biggest acquisition, to compete with Adobe](https://finance.yahoo.com/news/canva-acquires-affinity-design-suite-004813952.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
