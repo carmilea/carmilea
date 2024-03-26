@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Unlocking the Secrets of Myelin Repair](https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair)
+- [Lifelong Disadvantage: How Socioeconomics Affect Brain Function](https://www.jneurosci.org/content/early/2024/03/07/JNEUROSCI.1231-23.2024)
 - [Publishers Secure Widespread Support in Copyright Battle with Internet Archive](https://torrentfreak.com/publishers-secure-widespread-support-in-landmark-copyright-battle-with-internet-archive-240324/)
 - [Moirai: A Time Series Foundation Model for Universal Forecasting](https://blog.salesforceairesearch.com/moirai/)
 - [Computational Astronomy: Exploring the Cosmos with Wolfram](https://blog.wolfram.com/2024/03/25/computational-astronomy-exploring-the-cosmos-with-wolfram/)
-- [Inkjets are for more than just printing](https://spectrum.ieee.org/inkjet-printer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
