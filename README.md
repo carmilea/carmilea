@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
+- [Facebook snooped on users&#39; Snapchat traffic in secret project, documents reveal](https://techcrunch.com/2024/03/26/facebook-secret-project-snooped-snapchat-user-traffic/)
 - [OneText &lpar;YC W23&rpar; Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
-- [The Bayesian Cringe &lpar;2021&rpar;](https://statmodeling.stat.columbia.edu/2021/09/15/the-bayesian-cringe/)
 - [The closure of a Methodist chapel on Tyneside](https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion)
-- [Hacking the genome of fungi for smart foods of the future](https://www.sciencedaily.com/releases/2024/03/240314122135.htm)
-- [Launch HN: Aqua Voice &lpar;YC W24&rpar; – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
+- [Ask HN: What non-AI products are you working on?](https://news.ycombinator.com/item?id=39829695)
 <!-- BLOG-POST-LIST:END -->
 
 ---
