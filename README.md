@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Secrets of Myelin Repair](https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair)
-- [Lifelong Disadvantage: How Socioeconomics Affect Brain Function](https://www.jneurosci.org/content/early/2024/03/07/JNEUROSCI.1231-23.2024)
-- [Publishers Secure Widespread Support in Copyright Battle with Internet Archive](https://torrentfreak.com/publishers-secure-widespread-support-in-landmark-copyright-battle-with-internet-archive-240324/)
-- [Moirai: A Time Series Foundation Model for Universal Forecasting](https://blog.salesforceairesearch.com/moirai/)
-- [Computational Astronomy: Exploring the Cosmos with Wolfram](https://blog.wolfram.com/2024/03/25/computational-astronomy-exploring-the-cosmos-with-wolfram/)
+- [Ask HN: What do y&#39;all make of Netflix&#39;s 3 Body problem?](https://news.ycombinator.com/item?id=39824057)
+- [Nonlinearsolve.jl: Fast and Robust Solvers for Nonlinear Equations in Julia](https://arxiv.org/abs/2403.16341)
+- [Nix at Scale](https://lwn.net/SubscriberLink/965631/f3db6d3dde3f83cb/)
+- [Unlocking the secrets of myelin repair](https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair)
+- [Deej: An open-source hardware volume mixer for Windows and Linux](https://github.com/omriharel/deej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
