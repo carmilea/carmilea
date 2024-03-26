@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VLC can&#39;t update on Android without giving Google private signing keys](https://social.treehouse.systems/@Aissen/112139649840297169)
+- [Tech Debt: My Rust Library Is Now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
+- [Grafana Labs Observability Survey 2024](https://grafana.com/observability-survey/)
+- [Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat](https://github.com/DoMusic/Hybrid-Net)
 - [Florida&#39;s DeSantis signs law restricting social media for people under 16](https://www.reuters.com/world/us/floridas-desantis-signs-law-restricting-social-media-people-under-16-2024-03-25)
-- [Good news: HMRC offers a Linux version of Basic PAYE Tools. Bad news: It broke](https://www.theregister.com/2024/03/26/hmrc_linux_paye_tools/)
-- [Nimbus &lpar;YC W21&rpar; Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/SqMcSqM-founding-full-stack-engineer)
-- [Canva acquires Affinity to fill the Adobe-sized holes in its design suite](https://www.theverge.com/2024/3/26/24112277/canva-affinity-acquisition-design-software-suite-adobe-rival)
-- [Julian Assange granted permission to appeal against extradition to US](https://www.theguardian.com/media/2024/mar/26/julian-assange-granted-permission-to-appeal-against-extradition-to-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
