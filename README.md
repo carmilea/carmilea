@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One of the Most Anticipated AI Gadgets Now Has a Release Date](https://www.inverse.com/tech/rabbit-r1-release-date)
+- [The closure of a Methodist chapel on Tyneside](https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion)
 - [Banner &lpar;YC S19&rpar; Is Hiring](https://www.ycombinator.com/companies/banner/jobs/4zQRxcM-data-product-manager)
+- [Hacking the genome of fungi for smart foods of the future](https://www.sciencedaily.com/releases/2024/03/240314122135.htm)
 - [Updates to the OpenVMS Community Program](https://vmssoftware.com/about/news/2024-03-25-community-license-update/)
-- [Neorg – organize your life in Neovim](https://github.com/nvim-neorg/neorg)
-- [Launch HN: Aqua Voice &lpar;YC W24&rpar; – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
-- [Generating music in the waveform domain &lpar;2020&rpar;](https://sander.ai/2020/03/24/audio-generation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
