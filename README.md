@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nimbus &lpar;YC W21&rpar; Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/SqMcSqM-founding-full-stack-engineer)
+- [Julian Assange granted permission to appeal against extradition to US](https://www.theguardian.com/media/2024/mar/26/julian-assange-granted-permission-to-appeal-against-extradition-to-us)
 - [Sega Saturn Architecture – A practical analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
 - [The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed](https://twitter.com/sentdefender/status/1772514015790477667)
-- [Kapa.ai &lpar;YC S23&rpar; is hiring a full stack engineer &lpar;with LLM focus&rpar;](https://www.ycombinator.com/companies/kapa-ai/jobs/Mt1W4Mj-full-stack-engineer)
 - [Packet-Editing Games in Golang &lpar;2021&rpar;](https://remyhax.xyz/posts/golang-packet-editing/)
-- [Show HN: Charcoal – Faster utf8.Valid using multi-byte processing without SIMD](https://github.com/sugawarayuuta/charcoal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
