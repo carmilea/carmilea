@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Illness Impacting Dairy Cattle Is Confirmed as Highly Pathogenic Avian Flu](https://www.agweb.com/news/livestock/dairy/breaking-mystery-illness-impacting-texas-kansas-dairy-cattle-confirmed-highly)
+- [Unlocking the Secrets of Myelin Repair](https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair)
+- [Publishers Secure Widespread Support in Copyright Battle with Internet Archive](https://torrentfreak.com/publishers-secure-widespread-support-in-landmark-copyright-battle-with-internet-archive-240324/)
+- [Moirai: A Time Series Foundation Model for Universal Forecasting](https://blog.salesforceairesearch.com/moirai/)
+- [Computational Astronomy: Exploring the Cosmos with Wolfram](https://blog.wolfram.com/2024/03/25/computational-astronomy-exploring-the-cosmos-with-wolfram/)
 - [Inkjets are for more than just printing](https://spectrum.ieee.org/inkjet-printer)
-- [Google&#39;s First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
-- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
-- [Show HN: Invertornot.com – API to enhance your images in dark-mode](https://invertornot.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
