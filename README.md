@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Google failed to make GPT-3](https://www.latent.space/p/adept)
-- [Mathematics for Computer Science – MIT Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
+- [Researchers Discover 40k-Strong EOL Router, IoT Botnet](https://www.securityweek.com/researchers-discover-40000-strong-eol-router-iot-botnet/)
+- [GPT-4V&lpar;ision&rpar; Unsuitable for Clinical Care and Education: An Evaluation](https://arxiv.org/abs/2403.12046)
 - [Weird new electron behaviour in stacked graphene thrills physicists](https://www.nature.com/articles/d41586-024-00832-z)
-- [Rust data structures with circular references](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/)
 - [The closure of a Methodist chapel on Tyneside](https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion)
+- [Banner &lpar;YC S19&rpar; Is Hiring](https://www.ycombinator.com/companies/banner/jobs/4zQRxcM-data-product-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
