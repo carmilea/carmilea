@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Florida&#39;s DeSantis signs law restricting social media for people under 16](https://www.reuters.com/world/us/floridas-desantis-signs-law-restricting-social-media-people-under-16-2024-03-25)
+- [Good news: HMRC offers a Linux version of Basic PAYE Tools. Bad news: It broke](https://www.theregister.com/2024/03/26/hmrc_linux_paye_tools/)
 - [Nimbus &lpar;YC W21&rpar; Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/SqMcSqM-founding-full-stack-engineer)
+- [Canva acquires Affinity to fill the Adobe-sized holes in its design suite](https://www.theverge.com/2024/3/26/24112277/canva-affinity-acquisition-design-software-suite-adobe-rival)
 - [Julian Assange granted permission to appeal against extradition to US](https://www.theguardian.com/media/2024/mar/26/julian-assange-granted-permission-to-appeal-against-extradition-to-us)
-- [Sega Saturn Architecture – A practical analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
-- [The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed](https://twitter.com/sentdefender/status/1772514015790477667)
-- [Packet-Editing Games in Golang &lpar;2021&rpar;](https://remyhax.xyz/posts/golang-packet-editing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
