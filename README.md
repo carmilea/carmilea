@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VLC can&#39;t update on Android without giving Google private signing keys](https://social.treehouse.systems/@Aissen/112139649840297169)
-- [Tech Debt: My Rust Library Is Now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
-- [Grafana Labs Observability Survey 2024](https://grafana.com/observability-survey/)
-- [Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat](https://github.com/DoMusic/Hybrid-Net)
-- [Florida&#39;s DeSantis signs law restricting social media for people under 16](https://www.reuters.com/world/us/floridas-desantis-signs-law-restricting-social-media-people-under-16-2024-03-25)
+- [Generating music in the waveform domain &lpar;2020&rpar;](https://sander.ai/2020/03/24/audio-generation.html)
+- [Debian/Ubuntu privilege escalation PoC exploit for CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086)
+- [Visa, Mastercard Agree to Lower Swipe Fees, Settling Long-Running Lawsuit](https://www.wsj.com/finance/banking/visa-mastercard-agree-to-lower-swipe-fees-settling-long-running-lawsuit-d6e5f0a8)
+- [Launch HN: CommodityAI &lpar;YC W24&rpar; – Shipment management for commodity traders](https://news.ycombinator.com/item?id=39828058)
+- [Pinnacle – a modern tribute to the 1986 classic, The Sentinel](https://viperfish.com.au/games/pinnacle.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
