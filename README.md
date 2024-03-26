@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Banner &lpar;YC S19&rpar; Is Hiring](https://www.ycombinator.com/companies/banner/jobs/4zQRxcM-data-product-manager)
+- [Updates to the OpenVMS Community Program](https://vmssoftware.com/about/news/2024-03-25-community-license-update/)
 - [Neorg – organize your life in Neovim](https://github.com/nvim-neorg/neorg)
 - [Launch HN: Aqua Voice &lpar;YC W24&rpar; – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
 - [Generating music in the waveform domain &lpar;2020&rpar;](https://sander.ai/2020/03/24/audio-generation.html)
-- [Debian/Ubuntu privilege escalation PoC exploit for CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086)
-- [Visa, Mastercard Agree to Lower Swipe Fees, Settling Long-Running Lawsuit](https://www.wsj.com/finance/banking/visa-mastercard-agree-to-lower-swipe-fees-settling-long-running-lawsuit-d6e5f0a8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
