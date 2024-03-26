@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What do y&#39;all make of Netflix&#39;s 3 Body problem?](https://news.ycombinator.com/item?id=39824057)
+- [Debian&#39;s ROCm Continuous Integration](https://ci.rocm.debian.net/)
+- [Canva acquires Affinity, its biggest acquisition, to compete with Adobe](https://finance.yahoo.com/news/canva-acquires-affinity-design-suite-004813952.html)
 - [Nonlinearsolve.jl: Fast and Robust Solvers for Nonlinear Equations in Julia](https://arxiv.org/abs/2403.16341)
-- [Nix at Scale](https://lwn.net/SubscriberLink/965631/f3db6d3dde3f83cb/)
 - [Unlocking the secrets of myelin repair](https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair)
 - [Deej: An open-source hardware volume mixer for Windows and Linux](https://github.com/omriharel/deej)
 <!-- BLOG-POST-LIST:END -->
