@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Debian&#39;s ROCm Continuous Integration](https://ci.rocm.debian.net/)
+- [Chess puzzle, but you are what you capture](https://echochess.com)
 - [Canva acquires Affinity, its biggest acquisition, to compete with Adobe](https://finance.yahoo.com/news/canva-acquires-affinity-design-suite-004813952.html)
 - [Nonlinearsolve.jl: Fast and Robust Solvers for Nonlinear Equations in Julia](https://arxiv.org/abs/2403.16341)
 - [Unlocking the secrets of myelin repair](https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair)
