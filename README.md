@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
+- [Sega Saturn Architecture – A practical analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
 - [The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed](https://twitter.com/sentdefender/status/1772514015790477667)
 - [Kapa.ai &lpar;YC S23&rpar; is hiring a full stack engineer &lpar;with LLM focus&rpar;](https://www.ycombinator.com/companies/kapa-ai/jobs/Mt1W4Mj-full-stack-engineer)
-- [Telegram&#39;s peer-to-peer SMS login service is a privacy nightmare](https://techcrunch.com/2024/03/25/telegrams-peer-to-peer-sms-login-service-is-a-privacy-nightmare/)
 - [Packet-Editing Games in Golang &lpar;2021&rpar;](https://remyhax.xyz/posts/golang-packet-editing/)
+- [Show HN: Charcoal – Faster utf8.Valid using multi-byte processing without SIMD](https://github.com/sugawarayuuta/charcoal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
