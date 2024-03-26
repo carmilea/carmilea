@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers Discover 40k-Strong EOL Router, IoT Botnet](https://www.securityweek.com/researchers-discover-40000-strong-eol-router-iot-botnet/)
+- [OneText &lpar;YC W23&rpar; Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
+- [Accumulation of Lewy-Related Pathology: The Tampere Sudden Death Study](https://onlinelibrary.wiley.com/doi/10.1002/ana.26912)
+- [The Bayesian Cringe &lpar;2021&rpar;](https://statmodeling.stat.columbia.edu/2021/09/15/the-bayesian-cringe/)
 - [GPT-4V&lpar;ision&rpar; Unsuitable for Clinical Care and Education: An Evaluation](https://arxiv.org/abs/2403.12046)
 - [Weird new electron behaviour in stacked graphene thrills physicists](https://www.nature.com/articles/d41586-024-00832-z)
-- [The closure of a Methodist chapel on Tyneside](https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion)
-- [Banner &lpar;YC S19&rpar; Is Hiring](https://www.ycombinator.com/companies/banner/jobs/4zQRxcM-data-product-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
