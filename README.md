@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecticut, USA wants to penalize insurers for backing fossil-fuel projects](https://grist.org/regulation/connecticut-disaster-insurance-fossil-fuels/)
-- [Fisker lost track of millions of dollars in customer payments for months](https://techcrunch.com/2024/03/27/fisker-misplaced-payments-internal-audit-bankruptcy/)
-- [Launch HN: PointOne &lpar;YC W24&rpar; – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
-- [Engineering household robots to have a little common sense](https://news.mit.edu/2024/engineering-household-robots-have-little-common-sense-0325)
-- [Schiphol conducts trial with self-driving buses on airside](https://news.schiphol.com/schiphol-conducts-trial-with-self-driving-buses-on-airside/)
+- [Finley &lpar;YC W21&rpar; is hiring to remake the $1T private credit space](https://www.finleycms.com/careers/)
+- [Want to start a startup? Meet all the YC partners in Boston – Apr 20th](https://www.ycombinator.com/blog/startup-school-east-boston/)
+- [Cliff Stoll, the mad scientist who wrote the book on how to hunt hackers](https://www.wired.com/story/meet-the-mad-scientist-who-wrote-the-book-on-how-to-hunt-hackers/)
+- [Infinite Mac: Turning to the dark side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html)
+- [Show HN: A &lpar;marginally&rpar; useful x86-64 ELF executable in 466 bytes](https://github.com/meribold/btry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
