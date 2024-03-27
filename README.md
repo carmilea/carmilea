@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD EPYC 7C13 Is a Surprisingly Cheap and Good CPU](https://www.servethehome.com/amd-epyc-7c13-is-a-surprisingly-cheap-and-good-cpu/)
-- [Daniel Kahneman has died](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
-- [Thames Tideway Tunnel super sewer completed](https://www.bbc.com/news/science-environment-68464798)
-- [Flatpak builds are not reproducible and why that&#39;s a practical problem &lpar;2022&rpar;](https://ranfdev.com/blog/flatpak-builds-are-not-reproducible/)
-- [Canada&#39;s maple syrup reserve hits 16-year low](https://www.bbc.com/news/world-us-canada-68657703)
+- [Spice &lpar;YC S19&rpar; Is Hiring a Founding Product Associate](https://www.ycombinator.com/companies/spice/jobs/QwfZ6Qw-founding-product-associate)
+- [Amazon spends $2.7B on startup Anthropic in largest venture investment](https://www.cnbc.com/2024/03/27/amazon-spends-2point7b-on-startup-anthropic-in-largest-venture-investment.html)
+- [My Apple Vision Pro Nightmare](https://www.businessinsider.com/my-apple-vision-pro-nightmare-surveillance-privacy-2024-3)
+- [JetZero: Ultra-Efficient Blended Wing Body Jet](https://www.jetzero.aero/why-jetzero)
+- [&quot;The king is dead&quot;–Claude 3 surpasses GPT-4 on Chatbot Arena](https://arstechnica.com/information-technology/2024/03/the-king-is-dead-claude-3-surpasses-gpt-4-on-chatbot-arena-for-the-first-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
