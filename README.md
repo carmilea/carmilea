@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers gave AI an &#39;inner monologue&#39; and it improved its performance](https://www.livescience.com/technology/artificial-intelligence/researchers-gave-ai-an-inner-monologue-and-it-massively-improved-its-performance)
+- [Connecticut, USA wants to penalize insurers for backing fossil-fuel projects](https://grist.org/regulation/connecticut-disaster-insurance-fossil-fuels/)
+- [Fisker lost track of millions of dollars in customer payments for months](https://techcrunch.com/2024/03/27/fisker-misplaced-payments-internal-audit-bankruptcy/)
 - [Launch HN: PointOne &lpar;YC W24&rpar; – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
 - [Engineering household robots to have a little common sense](https://news.mit.edu/2024/engineering-household-robots-have-little-common-sense-0325)
 - [Schiphol conducts trial with self-driving buses on airside](https://news.schiphol.com/schiphol-conducts-trial-with-self-driving-buses-on-airside/)
-- [Ask HN: Do you feel scummy making AI products?](https://news.ycombinator.com/item?id=39842148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
