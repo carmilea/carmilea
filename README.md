@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Laudspeaker hiring senior engineer to build open source customer engagement](https://news.ycombinator.com/item?id=39836316)
+- [Antitrust suit could force Apple to reveal its secrets](https://www.axios.com/2024/03/24/apple-secrets-antitrust-suit)
 - [How &lpar;and why&rpar; to run SQLite in production](https://fractaledmind.github.io/2023/12/23/rubyconftw/)
 - [How I would automate monitoring DNS queries in basic Prometheus](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusAutomatingDNSChecks)
 - [Nomic](http://legacy.earlham.edu/~peters/nomic.htm)
-- [MIT Unveils Gen AI Tool That Generates High Res Images 30 Times Faster](https://hothardware.com/news/mit-dmd-image-diffusion)
-- [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
