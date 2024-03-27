@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 - [Finley &lpar;YC W21&rpar; is hiring to remake the $1T private credit space](https://www.finleycms.com/careers/)
 - [Want to start a startup? Meet all the YC partners in Boston – Apr 20th](https://www.ycombinator.com/blog/startup-school-east-boston/)
-- [Cliff Stoll, the mad scientist who wrote the book on how to hunt hackers](https://www.wired.com/story/meet-the-mad-scientist-who-wrote-the-book-on-how-to-hunt-hackers/)
+- [Cliff Stoll, the mad scientist who wrote the book on how to hunt hackers &lpar;2019&rpar;](https://www.wired.com/story/meet-the-mad-scientist-who-wrote-the-book-on-how-to-hunt-hackers/)
 - [Infinite Mac: Turning to the dark side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html)
-- [Show HN: A &lpar;marginally&rpar; useful x86-64 ELF executable in 466 bytes](https://github.com/meribold/btry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
