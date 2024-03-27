@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Perpetual Stew](https://en.wikipedia.org/wiki/Perpetual_stew)
 - [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
-- [Facebook snooped on users&#39; Snapchat traffic in secret project, documents reveal](https://techcrunch.com/2024/03/26/facebook-secret-project-snooped-snapchat-user-traffic/)
 - [OneText &lpar;YC W23&rpar; Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
-- [The closure of a Methodist chapel on Tyneside](https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion)
-- [Ask HN: What non-AI products are you working on?](https://news.ycombinator.com/item?id=39829695)
+- [After Appalachian Hospitals Merged into a Monopoly, Their ERs Slowed to a Crawl](https://kffhealthnews.org/news/article/ballad-health-er-wait-times-copa-monopoly-appalachia-hospitals/)
+- [Death and typos: my six years screening online obituary comments](https://www.theguardian.com/lifeandstyle/2024/mar/26/online-sympathy-condolence-notes-screening)
 <!-- BLOG-POST-LIST:END -->
 
 ---
