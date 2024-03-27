@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Elixir &lpar;2014&rpar;](https://www.theerlangelist.com/article/why_elixir)
 - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
 - [Boeing chief must have engineering background, Emirates boss says](https://www.ft.com/content/fcacc767-5f05-414e-bebc-61c737764e7b)
-- [My Partner Is Messy. Help](https://www.nytimes.com/2024/03/23/well/family/organization-mess-relationships.html)
-- [Japan nappy maker shifts from babies to adults](https://www.bbc.com/news/business-68672186)
-- [Facebook Accused of Using Your Phone to Wiretap Snapchat](https://gizmodo.com/project-ghostbusters-facebook-meta-wiretap-snapchat-1851366093)
+- [Show HN: I made a cheap alternative to college-level math &amp; physics tutoring](https://news.ycombinator.com/item?id=39836630)
+- [Happy birthday APFS, 7 years old today](https://eclecticlight.co/2024/03/27/happy-birthday-apfs-7-years-old-today/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
