@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Accused of Using Your Phone to Wiretap Snapchat](https://gizmodo.com/project-ghostbusters-facebook-meta-wiretap-snapchat-1851366093)
+- [Vultr is now claiming full perpetual commercial rights over all hosted content](https://old.reddit.com/r/selfhosted/login/)
+- [Recent &#39;MFA Bombing&#39; Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
 - [Laudspeaker hiring senior engineer to build open source customer engagement](https://news.ycombinator.com/item?id=39836316)
 - [Antitrust suit could force Apple to reveal its secrets](https://www.axios.com/2024/03/24/apple-secrets-antitrust-suit)
-- [How &lpar;and why&rpar; to run SQLite in production](https://fractaledmind.github.io/2023/12/23/rubyconftw/)
-- [How I would automate monitoring DNS queries in basic Prometheus](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusAutomatingDNSChecks)
-- [Nomic](http://legacy.earlham.edu/~peters/nomic.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
