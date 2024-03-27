@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Perpetual Stew](https://en.wikipedia.org/wiki/Perpetual_stew)
+- [$20 RISC-V KVM Device with PiKVM Compatibility, 100M Ethernet and ATX Support](https://lunar.computer/news/sipeed-announces-new-20-risc-v-kvm-device/)
+- [Dealerships Rip You Off With The “Four-Square”, Here’s How To Beat It](https://www.consumerreports.org/consumerist/dealerships-rip-you-off-with-the-four-square-heres-how-to-beat-it/)
 - [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
 - [OneText &lpar;YC W23&rpar; Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 - [After Appalachian Hospitals Merged into a Monopoly, Their ERs Slowed to a Crawl](https://kffhealthnews.org/news/article/ballad-health-er-wait-times-copa-monopoly-appalachia-hospitals/)
-- [Death and typos: my six years screening online obituary comments](https://www.theguardian.com/lifeandstyle/2024/mar/26/online-sympathy-condolence-notes-screening)
 <!-- BLOG-POST-LIST:END -->
 
 ---
