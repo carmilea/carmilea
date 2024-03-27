@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$20 RISC-V KVM Device with PiKVM Compatibility, 100M Ethernet and ATX Support](https://lunar.computer/news/sipeed-announces-new-20-risc-v-kvm-device/)
-- [Dealerships Rip You Off With The “Four-Square”, Here’s How To Beat It](https://www.consumerreports.org/consumerist/dealerships-rip-you-off-with-the-four-square-heres-how-to-beat-it/)
+- [MIT Unveils Gen AI Tool That Generates High Res Images 30 Times Faster](https://hothardware.com/news/mit-dmd-image-diffusion)
+- [Dealerships Rip You Off With The “Four-Square,” Here’s How To Beat It &lpar;2007&rpar;](https://www.consumerreports.org/consumerist/dealerships-rip-you-off-with-the-four-square-heres-how-to-beat-it/)
 - [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
 - [OneText &lpar;YC W23&rpar; Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
-- [After Appalachian Hospitals Merged into a Monopoly, Their ERs Slowed to a Crawl](https://kffhealthnews.org/news/article/ballad-health-er-wait-times-copa-monopoly-appalachia-hospitals/)
+- [After Appalachian hospitals merged, their ERs became much slower](https://kffhealthnews.org/news/article/ballad-health-er-wait-times-copa-monopoly-appalachia-hospitals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
