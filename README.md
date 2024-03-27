@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flatpak builds are not reproducible and why that&#39;s a practical problem](https://ranfdev.com/blog/flatpak-builds-are-not-reproducible/)
-- [The Pentagon&#39;s Silicon Valley Problem](https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/)
-- [The window for great-grandmothers is closing](https://memoirsandrambles.substack.com/p/the-window-for-great-grandmothers)
-- [The Last Crimes of Caravaggio](https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio)
-- [&#39;Operation 404&#39; Results in First Prison Sentence for Pirate IPTV Operator](https://torrentfreak.com/operation-404-results-in-first-prison-sentence-for-pirate-iptv-operator-240327/)
+- [AMD EPYC 7C13 Is a Surprisingly Cheap and Good CPU](https://www.servethehome.com/amd-epyc-7c13-is-a-surprisingly-cheap-and-good-cpu/)
+- [Daniel Kahneman has died](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
+- [Thames Tideway Tunnel super sewer completed](https://www.bbc.com/news/science-environment-68464798)
+- [Flatpak builds are not reproducible and why that&#39;s a practical problem &lpar;2022&rpar;](https://ranfdev.com/blog/flatpak-builds-are-not-reproducible/)
+- [Canada&#39;s maple syrup reserve hits 16-year low](https://www.bbc.com/news/world-us-canada-68657703)
 <!-- BLOG-POST-LIST:END -->
 
 ---
