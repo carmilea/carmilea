@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Austria is sleepwalking toward a far-right victory](https://www.politico.eu/article/austria-sleepwalking-far-right-victory-european-election-freedom-party-fpo-nazis-herbert-kickl/)
-- [Two nights of broken sleep can make people feel years older, finds study](https://www.theguardian.com/science/2024/mar/27/two-nights-of-broken-sleep-can-make-people-feel-years-older-finds-study)
-- [Younger Generations Have Larger Brains. Is That Healthier?](https://www.sciencealert.com/younger-generations-have-larger-brains-is-that-healthier)
-- [Serious security breach hits EU police agency](https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/)
-- [Show HN: A static site generator that prettifies the output HTML](https://github.com/jdeanwallace/jinjabread)
+- [Israel Deploys Expansive Facial Recognition Program in Gaza](https://www.nytimes.com/2024/03/27/technology/israel-facial-recognition-gaza.html)
+- [Claude 3 beats GPT-4 on Aider&#39;s code editing benchmark](https://aider.chat/2024/03/08/claude-3.html)
+- [Cows in Texas and Kansas test positive for highly pathogenic bird flu](https://arstechnica.com/science/2024/03/cows-in-texas-and-kansas-test-positive-for-highly-pathogenic-bird-flu/)
+- [DOJ compares AAPL share buybacks with R&amp;D as &#39;evidence&#39; of lack of competition](https://9to5mac.com/2024/03/27/aapl-share-buybacks-verses-rd-spend/)
+- [Introducing DBRX: A New State-of-the-Art Open LLM by Databricks](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
