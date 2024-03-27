@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
+- [Boeing chief must have engineering background, Emirates boss says](https://www.ft.com/content/fcacc767-5f05-414e-bebc-61c737764e7b)
+- [My Partner Is Messy. Help](https://www.nytimes.com/2024/03/23/well/family/organization-mess-relationships.html)
+- [Japan nappy maker shifts from babies to adults](https://www.bbc.com/news/business-68672186)
 - [Facebook Accused of Using Your Phone to Wiretap Snapchat](https://gizmodo.com/project-ghostbusters-facebook-meta-wiretap-snapchat-1851366093)
-- [Vultr is now claiming full perpetual commercial rights over all hosted content](https://old.reddit.com/r/selfhosted/login/)
-- [Recent &#39;MFA Bombing&#39; Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
-- [Laudspeaker hiring senior engineer to build open source customer engagement](https://news.ycombinator.com/item?id=39836316)
-- [Antitrust suit could force Apple to reveal its secrets](https://www.axios.com/2024/03/24/apple-secrets-antitrust-suit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
