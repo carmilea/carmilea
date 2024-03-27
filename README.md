@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Winner of the SF Mistral AI Hackathon: Automated Test Driven Prompting](https://prompting.flyflow.dev)
+- [Pythagoras was wrong: there are no universal musical harmonies, study finds](https://www.cam.ac.uk/research/news/pythagoras-was-wrong-there-are-no-universal-musical-harmonies-study-finds)
+- [Launch HN: Patchwork &lpar;YC W24&rpar; – Team communication based on feeds, not chat](https://news.ycombinator.com/item?id=39841956)
 - [Spice &lpar;YC S19&rpar; Is Hiring a Founding Product Associate](https://www.ycombinator.com/companies/spice/jobs/QwfZ6Qw-founding-product-associate)
-- [Amazon spends $2.7B on startup Anthropic in largest venture investment](https://www.cnbc.com/2024/03/27/amazon-spends-2point7b-on-startup-anthropic-in-largest-venture-investment.html)
-- [My Apple Vision Pro Nightmare](https://www.businessinsider.com/my-apple-vision-pro-nightmare-surveillance-privacy-2024-3)
-- [JetZero: Ultra-Efficient Blended Wing Body Jet](https://www.jetzero.aero/why-jetzero)
-- [&quot;The king is dead&quot;–Claude 3 surpasses GPT-4 on Chatbot Arena](https://arstechnica.com/information-technology/2024/03/the-king-is-dead-claude-3-surpasses-gpt-4-on-chatbot-arena-for-the-first-time/)
+- [Amazon spends another $2.7B on Anthropic](https://www.cnbc.com/2024/03/27/amazon-spends-2point7b-on-startup-anthropic-in-largest-venture-investment.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
