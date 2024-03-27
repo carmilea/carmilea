@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Austria is sleepwalking toward a far-right victory](https://www.politico.eu/article/austria-sleepwalking-far-right-victory-european-election-freedom-party-fpo-nazis-herbert-kickl/)
+- [Two nights of broken sleep can make people feel years older, finds study](https://www.theguardian.com/science/2024/mar/27/two-nights-of-broken-sleep-can-make-people-feel-years-older-finds-study)
+- [Younger Generations Have Larger Brains. Is That Healthier?](https://www.sciencealert.com/younger-generations-have-larger-brains-is-that-healthier)
 - [Serious security breach hits EU police agency](https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/)
 - [Show HN: A static site generator that prettifies the output HTML](https://github.com/jdeanwallace/jinjabread)
-- [How Radicle Works Under the Hood](https://radicle.xyz/guides/protocol)
-- [Egui 0.27 – easy-to-use immediate mode GUI for Rust](https://github.com/emilk/egui/releases/tag/0.27.0)
-- [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
