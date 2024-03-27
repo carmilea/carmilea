@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deficiencies in GCC&#39;s Code Generator and Optimiser](https://skanthak.hier-im-netz.de/gcc.html)
 - [How &lpar;and why&rpar; to run SQLite in production](https://fractaledmind.github.io/2023/12/23/rubyconftw/)
 - [How I would automate monitoring DNS queries in basic Prometheus](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusAutomatingDNSChecks)
 - [Nomic](http://legacy.earlham.edu/~peters/nomic.htm)
 - [MIT Unveils Gen AI Tool That Generates High Res Images 30 Times Faster](https://hothardware.com/news/mit-dmd-image-diffusion)
+- [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
