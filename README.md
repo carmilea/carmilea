@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Israel Deploys Expansive Facial Recognition Program in Gaza](https://www.nytimes.com/2024/03/27/technology/israel-facial-recognition-gaza.html)
+- [&#39;Operation 404&#39; Results in First Prison Sentence for Pirate IPTV Operator](https://torrentfreak.com/operation-404-results-in-first-prison-sentence-for-pirate-iptv-operator-240327/)
+- [Boeing&#39;s Dead Whistleblower Spoke the Truth](https://www.thefp.com/p/boeings-dead-whistleblower-spoke-the-truth)
+- [Fresno High tracks student bathroom visits with app. Not everyone likes it](https://www.fresnobee.com/news/local/article286882795.html)
+- [Sun Microsystems co-founder charged with insider trading](https://www.theregister.com/2024/03/26/sun_microsystems_insider_trading/)
 - [Claude 3 beats GPT-4 on Aider&#39;s code editing benchmark](https://aider.chat/2024/03/08/claude-3.html)
-- [Cows in Texas and Kansas test positive for highly pathogenic bird flu](https://arstechnica.com/science/2024/03/cows-in-texas-and-kansas-test-positive-for-highly-pathogenic-bird-flu/)
-- [DOJ compares AAPL share buybacks with R&amp;D as &#39;evidence&#39; of lack of competition](https://9to5mac.com/2024/03/27/aapl-share-buybacks-verses-rd-spend/)
-- [Introducing DBRX: A New State-of-the-Art Open LLM by Databricks](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
