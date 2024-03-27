@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flatpak builds are not reproducible and why that&#39;s a practical problem](https://ranfdev.com/blog/flatpak-builds-are-not-reproducible/)
+- [The Pentagon&#39;s Silicon Valley Problem](https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/)
+- [The window for great-grandmothers is closing](https://memoirsandrambles.substack.com/p/the-window-for-great-grandmothers)
+- [The Last Crimes of Caravaggio](https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio)
 - [&#39;Operation 404&#39; Results in First Prison Sentence for Pirate IPTV Operator](https://torrentfreak.com/operation-404-results-in-first-prison-sentence-for-pirate-iptv-operator-240327/)
-- [Boeing&#39;s Dead Whistleblower Spoke the Truth](https://www.thefp.com/p/boeings-dead-whistleblower-spoke-the-truth)
-- [Fresno High tracks student bathroom visits with app. Not everyone likes it](https://www.fresnobee.com/news/local/article286882795.html)
-- [Sun Microsystems co-founder charged with insider trading](https://www.theregister.com/2024/03/26/sun_microsystems_insider_trading/)
-- [Claude 3 beats GPT-4 on Aider&#39;s code editing benchmark](https://aider.chat/2024/03/08/claude-3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
