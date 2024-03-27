@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Elixir &lpar;2014&rpar;](https://www.theerlangelist.com/article/why_elixir)
-- [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
-- [Boeing chief must have engineering background, Emirates boss says](https://www.ft.com/content/fcacc767-5f05-414e-bebc-61c737764e7b)
-- [Show HN: I made a cheap alternative to college-level math &amp; physics tutoring](https://news.ycombinator.com/item?id=39836630)
-- [Happy birthday APFS, 7 years old today](https://eclecticlight.co/2024/03/27/happy-birthday-apfs-7-years-old-today/)
+- [Serious security breach hits EU police agency](https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/)
+- [Show HN: A static site generator that prettifies the output HTML](https://github.com/jdeanwallace/jinjabread)
+- [How Radicle Works Under the Hood](https://radicle.xyz/guides/protocol)
+- [Egui 0.27 – easy-to-use immediate mode GUI for Rust](https://github.com/emilk/egui/releases/tag/0.27.0)
+- [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
