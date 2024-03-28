@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit insiders have been selling stock after the IPO](https://twitter.com/unusual_whales/status/1773141452022809078)
-- [Ask HN: Who&#39;s getting their job applications rejected?](https://news.ycombinator.com/item?id=39851136)
-- [Visa and Mastercard agree to $30B settlement that will lower merchant fees](https://www.cnn.com/2024/03/26/economy/visa-mastercard-swipe-fee-settlement/index.html)
+- [Show HN: I scraped all of OpenAI&#39;s Community Forum](https://julep-ai.github.io/)
+- [New open source GPU is free to all](https://www.tomshardware.com/pc-components/gpus/new-open-source-gpu-is-free-to-all-supports-modern-windows-software-stack-runs-on-an-fpga-with-custom-pcb)
+- [Dioxus 0.5: Web, Desktop, Mobile Apps in Rust](https://dioxuslabs.com/blog/release-050/)
+- [LLMs use a surprisingly simple mechanism to retrieve some stored knowledge](https://news.mit.edu/2024/large-language-models-use-surprisingly-simple-mechanism-retrieve-stored-knowledge-0325)
 - [EpiPen For Heart Attacks? Idorsia Launches Phase III Study Of Selatogrel &lpar;2021&rpar;](https://scrip.citeline.com:443/SC144926/An-EpiPen-For-Heart-Attacks-Idorsia-Launches-Phase-III-Study-Of-Selatogrel)
-- [Show HN: I taught ChatGPT to find cool domain names – with availability check](https://huehive.co/tools/domain_search)
 <!-- BLOG-POST-LIST:END -->
 
 ---
