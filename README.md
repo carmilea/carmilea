@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Bankman-Fried sentenced to 25 years in prison](https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html)
-- [What Do You Do If a Hacker Takes Control of Your Ship? &lpar;2023&rpar;](https://maritime-executive.com/editorials/what-do-you-do-if-a-hacker-takes-control-of-your-ship)
-- [Kubernetes and back – Why I don&#39;t run distributed systems](https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/)
-- [How We’ll Reach a 1 Trillion Transistor GPU](https://spectrum.ieee.org/trillion-transistor-gpu)
-- [Show HN: I scraped all of OpenAI&#39;s Community Forum](https://julep-ai.github.io/)
+- [ECJ rules that four specific safety standards must be freely available](https://curia.europa.eu/juris/document/document.jsf?text=&docid=283443&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=6361468)
+- [RankScience &lpar;YC W17&rpar; is hiring to automate SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+- [NotepadNext – a cross-platform, reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
+- [Reading and Writing WAV Files in Python](https://realpython.com/python-wav-files/)
+- [Launch HN: Eggnog &lpar;YC W24&rpar; – AI videos with consistent characters](https://news.ycombinator.com/item?id=39853474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
