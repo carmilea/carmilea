@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EpiPen For Heart Attacks? Idorsia Launches Phase III Study Of Selatogrel &lpar;2021&rpar;](https://scrip.citeline.com:443/SC144926/An-EpiPen-For-Heart-Attacks-Idorsia-Launches-Phase-III-Study-Of-Selatogrel)
+- [Show HN: I taught ChatGPT to find cool domain names – with availability check](https://huehive.co/tools/domain_search)
+- [Why Scientists Are Calling for the Moon to Be Better Protected from Development](https://www.smithsonianmag.com/smart-news/why-scientists-are-calling-for-the-moon-to-be-better-protected-from-development-180984026/)
 - [AI-Shunning robots.txt](https://github.com/ai-robots-txt/ai.robots.txt)
 - [Addressing Visibility Challenges with TLS 1.3 Within the Enterprise](https://www.nist.gov/news-events/news/2024/01/new-nccoe-guide-helps-major-industries-observe-incoming-data-while-using)
-- [Intel Brags of $152B in Stock Buybacks. Why Does It Need an $8B Subsidy?](https://www.commondreams.org/opinion/intel-subsidy-chips-act-stock-buyback)
-- [A near 100pct renewable grid for Australia is feasible and affordable](https://reneweconomy.com.au/a-near-100pct-renewable-grid-for-australia-is-feasible-and-affordable-with-just-a-few-hours-of-storage/)
-- [What is DECT-2020 New Radio &lpar;NR&rpar;, and how big a deal is it?](https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
