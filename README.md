@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Keeling Labs &lpar;YC W23&rpar; Is Hiring a Sr Data Engineer for Applied ML in the Grid](https://www.ycombinator.com/companies/keeling-labs/jobs/YWFbAh6-senior-data-engineer)
+- [Babylon 7.0 Is Out](https://babylonjs.medium.com/introducing-babylon-js-7-0-a141cd7ede0d)
+- [PyPI halted new users and projects while it fended off supply-chain attack](https://arstechnica.com/security/2024/03/pypi-halted-new-users-and-projects-while-it-fended-off-supply-chain-attack/)
 - [What Boeing did to all the guys who remember how to build a plane](https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/)
-- [How A.I. chatbots become political](https://www.nytimes.com/interactive/2024/03/28/opinion/ai-political-bias.html?unlocked_article_code=1.gE0.4mlz.Yf7_amfNGgmx)
-- [The Next Big Step in Mojo Open Source](https://www.modular.com/blog/the-next-big-step-in-mojo-open-source)
-- [Edgar, build a Dyson swarm](https://playedgar.netlify.app/)
-- [Launch HN: Thorntale &lpar;YC W24&rpar; – Presentation software that works with your data](https://news.ycombinator.com/item?id=39854921)
+- [SingleStore Announces Exclusive Partnership with Agile Platform to Develop the Korea Market](https://www.singlestore.com/blog/singlestore-agile-platform-exclusive-partnership)
 <!-- BLOG-POST-LIST:END -->
 
 ---
