@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What things are happening in ML that we can&#39;t hear oer the din of LLMs?](https://news.ycombinator.com/item?id=39848847)
+- [AI hallucinates software packages and devs download them](https://www.theregister.com/2024/03/28/ai_bots_hallucinate_software_packages/)
+- [Treemap of World GDP by Purchasing Power Parity &lpar;PPP&rpar; 2020](https://treemap-world-economy.pages.dev)
 - [We&#39;ve been here before: AI promised humanlike machines – in 1958](https://theconversation.com/weve-been-here-before-ai-promised-humanlike-machines-in-1958-222700)
 - [ST-DOS](http://sininenankka.dy.fi/~sami/fdshell/doskernel.php)
-- [Digital signs in Brookline are collecting data from your phone as you walk by](https://brookline.news/digital-signs-around-brookline-are-collecting-data-from-your-phone-as-you-walk-by/)
-- [Share Openly](https://werd.io/2024/share-openly)
-- [A step beyond Rust&#39;s pattern matching](https://radiki.dev/posts/match-and-bind-patterns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
