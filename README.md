@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [For young people, the job search has never been so miserable](https://www.ft.com/content/4b16c325-8758-4b90-bdb5-15536b401606)
+- [We&#39;ve been here before: AI promised humanlike machines – in 1958](https://theconversation.com/weve-been-here-before-ai-promised-humanlike-machines-in-1958-222700)
 - [ST-DOS](http://sininenankka.dy.fi/~sami/fdshell/doskernel.php)
 - [Digital signs in Brookline are collecting data from your phone as you walk by](https://brookline.news/digital-signs-around-brookline-are-collecting-data-from-your-phone-as-you-walk-by/)
+- [Share Openly](https://werd.io/2024/share-openly)
 - [A step beyond Rust&#39;s pattern matching](https://radiki.dev/posts/match-and-bind-patterns/)
-- [Astronomers discover a rare eclipsing X-ray binary](https://phys.org/news/2024-03-astronomers-rare-eclipsing-ray-binary.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
