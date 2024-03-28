@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Next Big Step in Mojo Open Source](https://www.modular.com/blog/the-next-big-step-in-mojo-open-source)
+- [Edgar, Build a Dyson Swarm](https://playedgar.netlify.app/)
 - [Launch HN: Thorntale &lpar;YC W24&rpar; – Presentation software that works with your data](https://news.ycombinator.com/item?id=39854921)
 - [Banana prices to go up as temperatures rise, says expert](https://www.bbc.com/news/science-environment-68534309)
-- [How a Windows shake-up could position Microsoft to capitalize on AI PCs](https://www.theverge.com/2024/3/28/24114362/microsoft-windows-surface-reorg-ai-pcs-report)
-- [RankScience &lpar;YC W17&rpar; is hiring to automate SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
-- [NotepadNext – a cross-platform, reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
+- [Show HN: Spice.ai – materialize, accelerate, and query SQL data from any source](https://github.com/spiceai/spiceai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
