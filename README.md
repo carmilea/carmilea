@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Share Openly](https://werd.io/2024/share-openly)
 - [The Lord of the Rings Family Tree](http://lotrproject.com/)
 - [NASA&#39;s Europa Clipper Survives and Thrives in &#39;Outer Space&#39; on Earth](https://www.jpl.nasa.gov/news/nasas-europa-clipper-survives-and-thrives-in-outer-space-on-earth)
+- [BeagleY-AI: a 4 TOPS-capable $70 board from Beagleboard](https://www.beagleboard.org/boards/beagley-ai)
 - [Digital wallets and the &quot;only Apple Pay does this&quot; mythology](https://birchtree.me/blog/digital-wallets-and-the-only-apple-pay-does-this-mythology/)
-- [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
-- [Finley &lpar;YC W21&rpar; is hiring to remake the $1T private credit space](https://www.finleycms.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
