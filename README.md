@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Share Openly](https://werd.io/2024/share-openly)
+- [A step beyond Rust&#39;s pattern matching](https://radiki.dev/posts/match-and-bind-patterns/)
 - [The Lord of the Rings Family Tree](http://lotrproject.com/)
 - [NASA&#39;s Europa Clipper Survives and Thrives in &#39;Outer Space&#39; on Earth](https://www.jpl.nasa.gov/news/nasas-europa-clipper-survives-and-thrives-in-outer-space-on-earth)
 - [BeagleY-AI: a 4 TOPS-capable $70 board from Beagleboard](https://www.beagleboard.org/boards/beagley-ai)
-- [Digital wallets and the &quot;only Apple Pay does this&quot; mythology](https://birchtree.me/blog/digital-wallets-and-the-only-apple-pay-does-this-mythology/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
