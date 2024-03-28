@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Learning in JavaScript](https://github.com/eduardoleao052/js-torch)
+- [Secret papers reveal Post Office knew its court defence was false](https://www.bbc.co.uk/news/uk-68663750)
 - [Why are so many people being hit with £5 fines for &#39;counterfeit&#39; stamps?](https://www.thisismoney.co.uk/money/bills/article-13244469/Why-people-hit-5-fines-counterfeit-stamps.html)
+- [Cloud host Vultr rips user data ownership clause from ToS after web outrage](https://www.theregister.com/2024/03/28/vultr_content_controversy/)
 - [You can&#39;t leak users&#39; data if you don&#39;t hold it](https://seancoates.com/blogs/matter-and-privacy)
-- [Keeling Labs &lpar;YC W23&rpar; Is Hiring a Sr Data Engineer for Applied ML in the Grid](https://www.ycombinator.com/companies/keeling-labs/jobs/YWFbAh6-senior-data-engineer)
-- [Babylon 7.0 Is Out](https://babylonjs.medium.com/introducing-babylon-js-7-0-a141cd7ede0d)
-- [PyPI halted new users and projects while it fended off supply-chain attack](https://arstechnica.com/security/2024/03/pypi-halted-new-users-and-projects-while-it-fended-off-supply-chain-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
