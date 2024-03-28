@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Bankman-Fried sentenced to 25 years in prison](https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html)
+- [What Do You Do If a Hacker Takes Control of Your Ship? &lpar;2023&rpar;](https://maritime-executive.com/editorials/what-do-you-do-if-a-hacker-takes-control-of-your-ship)
+- [Kubernetes and back – Why I don&#39;t run distributed systems](https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/)
+- [How We’ll Reach a 1 Trillion Transistor GPU](https://spectrum.ieee.org/trillion-transistor-gpu)
 - [Show HN: I scraped all of OpenAI&#39;s Community Forum](https://julep-ai.github.io/)
-- [New open source GPU is free to all](https://www.tomshardware.com/pc-components/gpus/new-open-source-gpu-is-free-to-all-supports-modern-windows-software-stack-runs-on-an-fpga-with-custom-pcb)
-- [Dioxus 0.5: Web, Desktop, Mobile Apps in Rust](https://dioxuslabs.com/blog/release-050/)
-- [LLMs use a surprisingly simple mechanism to retrieve some stored knowledge](https://news.mit.edu/2024/large-language-models-use-surprisingly-simple-mechanism-retrieve-stored-knowledge-0325)
-- [EpiPen For Heart Attacks? Idorsia Launches Phase III Study Of Selatogrel &lpar;2021&rpar;](https://scrip.citeline.com:443/SC144926/An-EpiPen-For-Heart-Attacks-Idorsia-Launches-Phase-III-Study-Of-Selatogrel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
