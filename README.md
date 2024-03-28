@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-Shunning robots.txt](https://github.com/ai-robots-txt/ai.robots.txt)
+- [Addressing Visibility Challenges with TLS 1.3 Within the Enterprise](https://www.nist.gov/news-events/news/2024/01/new-nccoe-guide-helps-major-industries-observe-incoming-data-while-using)
+- [Intel Brags of $152B in Stock Buybacks. Why Does It Need an $8B Subsidy?](https://www.commondreams.org/opinion/intel-subsidy-chips-act-stock-buyback)
+- [A near 100pct renewable grid for Australia is feasible and affordable](https://reneweconomy.com.au/a-near-100pct-renewable-grid-for-australia-is-feasible-and-affordable-with-just-a-few-hours-of-storage/)
 - [What is DECT-2020 New Radio &lpar;NR&rpar;, and how big a deal is it?](https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it)
-- [Go Enums Still Suck](https://www.zarl.dev/articles/enums-take-two)
-- [Memories are made by breaking DNA – and fixing it](https://www.nature.com/articles/d41586-024-00930-y)
-- [J&amp;J can contest evidence linking its talc to cancer, US judge rules](https://www.mvariety.com/business/j-j-can-contest-evidence-linking-its-talc-to-cancer-us-judge-rules/article_76600956-ecd3-11ee-b136-e36d19197d61.html)
-- [What things are happening in ML that we can&#39;t hear oer the din of LLMs?](https://news.ycombinator.com/item?id=39848847)
 <!-- BLOG-POST-LIST:END -->
 
 ---
