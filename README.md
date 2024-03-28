@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Demo- Getting started with SingleStore Data Platform](https://www.youtube.com/watch?v=5cCiQGPdRW8)
 - [Into the SingleVerse From Burnout to Breakthrough: A Conversation with Dr. Neha Sangwan](https://www.youtube.com/watch?v=xOn9OOg9jfA)
 - [Migrate from PlanetScale to SingleStore Free Tier in Just 5 Mins!](https://www.youtube.com/watch?v=8b7t8uKAYN4)
 - [How ZoomInfo Drives 24x Faster Intent Into Action with SingleStore](https://www.youtube.com/watch?v=uUvVmV123KI)
 - [Empowering Tomorrow&#39;s AI: SingleStore Now - The Real-Time AI Conference [Recap]](https://www.youtube.com/watch?v=Yn_Ef8yGgQQ)
-- [How We Made That App Episode 7: Revolutionizing Language Models and Data Processing with LlamaIndex](https://www.youtube.com/watch?v=snpZI8LsESA)
 <!-- YOUTUBE:END -->
 
 
