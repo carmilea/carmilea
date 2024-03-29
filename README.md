@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Learning in JavaScript](https://github.com/eduardoleao052/js-torch)
-- [Secret papers reveal Post Office knew its court defence was false](https://www.bbc.co.uk/news/uk-68663750)
-- [Why are so many people being hit with £5 fines for &#39;counterfeit&#39; stamps?](https://www.thisismoney.co.uk/money/bills/article-13244469/Why-people-hit-5-fines-counterfeit-stamps.html)
-- [Cloud host Vultr rips user data ownership clause from ToS after web outrage](https://www.theregister.com/2024/03/28/vultr_content_controversy/)
-- [You can&#39;t leak users&#39; data if you don&#39;t hold it](https://seancoates.com/blogs/matter-and-privacy)
+- [The rev.ng decompiler goes open source](https://rev.ng/blog/open-sourcing-renvg-decompiler-ui-closed-beta)
+- [Utah Passes Artificial Intelligence Legislation](https://www.jdsupra.com/legalnews/utah-passes-artificial-intelligence-1386840/)
+- [Facebook let Netflix see user DMs, quit streaming to keep Netflix happy](https://arstechnica.com/gadgets/2024/03/netflix-ad-spend-led-to-facebook-dm-access-end-of-facebook-streaming-biz-lawsuit/)
+- [Doom Captcha](https://vivirenremoto.github.io/doomcaptcha/)
+- [A Camel Through the Eye of a Needle, and Other Wild Tales of Translation &lpar;2018&rpar;](https://stantlitore.com/2018/06/01/a-camel-through-the-eye-of-a-needle-and-other-wild-tales-of-translation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
