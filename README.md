@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When New Hires Get Paid More, Top Performers Resign First](https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first)
-- [Gemini is a dual-screen e-reader and is coming out soon [video]](https://www.youtube.com/watch?v=FfFaz832pUA)
-- [Navigating the Challenges and Opportunities of Synthetic Voices](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices)
-- [Overlay networks based on WebRTC](https://github.com/pojntfx/weron)
-- [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
+- [Launch HN: Lumona &lpar;YC W24&rpar; – Product Search Based on Reddit and YouTube Reviews](https://news.ycombinator.com/item?id=39867757)
+- [Banner Blindness](https://en.wikipedia.org/wiki/Banner_blindness)
+- [How to fix CSV: make it even more U+1F4A9 PILE OF POO](https://www.getgrist.com/blog/how-to-fix-csv-make-it-even-more-💩/)
+- [A muon collider could revolutionize particle physics, if it can be built](https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built)
+- [Fuchsia 2024 Roadmap](https://fuchsia.dev/fuchsia-src/contribute/roadmap/2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
