@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Lumona &lpar;YC W24&rpar; – Product Search Based on Reddit and YouTube Reviews](https://news.ycombinator.com/item?id=39867757)
+- [Yamaha and Lola pair up to enter Formula E next season](https://arstechnica.com/cars/2024/03/yamaha-and-lola-pair-up-to-enter-formula-e-next-season/)
+- [Launch HN: Lumona &lpar;YC W24&rpar; – Product search based on Reddit and YouTube reviews](https://news.ycombinator.com/item?id=39867757)
+- [Apache Guacamole: a clientless remote desktop gateway](https://guacamole.apache.org/)
 - [Banner Blindness](https://en.wikipedia.org/wiki/Banner_blindness)
-- [How to fix CSV: make it even more U+1F4A9 PILE OF POO](https://www.getgrist.com/blog/how-to-fix-csv-make-it-even-more-💩/)
-- [A muon collider could revolutionize particle physics, if it can be built](https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built)
-- [Fuchsia 2024 Roadmap](https://fuchsia.dev/fuchsia-src/contribute/roadmap/2024)
+- [Porting the GCLC to the Web](https://blog.ubavic.rs/9/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
