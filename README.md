@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software vendors dump open source, go for the cash grab](https://www.computerworld.com/article/3714821/software-vendors-dump-open-source-go-for-the-cash-grab.html)
 - [PostgreSQL maintainer Simon Riggs has died in a small airplane crash](https://m6n.io/@fuzzychef/112172393647826741)
 - [OpenVoice: Versatile Instant Voice Cloning](https://research.myshell.ai/open-voice)
 - [Managing Linux Servers with Cockpit](https://lwn.net//Articles/965434/)
 - [Capi Money &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
-- [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
 <!-- BLOG-POST-LIST:END -->
 
 ---
