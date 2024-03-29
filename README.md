@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Capi Money &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
+- [Money corrupts; Bitcoin corrupts absolutely](https://www.cynicusrex.com/file/cryptocultscience.html)
+- [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
+- [Vultr Just Betrayed Us](https://mwl.io/archives/23498)
 - [Arraymancer – Deep Learning Nim Library](https://github.com/mratsim/Arraymancer)
-- [Equinix: Major Accounting Manipulation, Core Business Decay](https://hindenburgresearch.com/equinix/)
-- [Math writing is dull when it neglects the human dimension](https://golem.ph.utexas.edu/category/2024/03/why_mathematics_is_boring_1.html)
-- [Monogon: A Linux userland in pure Go](https://github.com/monogon-dev/monogon)
-- [Thirty Seven](http://thirty-seven.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
