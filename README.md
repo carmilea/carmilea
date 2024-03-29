@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s economy is not in a Great Decline but a Great Transition](https://think.ing.com/downloads/pdf/article/china-economy-not-in-a-great-decline-but-in-a-great-transition)
+- [Bartók&#39;s Monster – Stalking the dead composer through Transylvania &lpar;2013&rpar;](https://harpers.org/archive/2013/10/bartoks-monster/)
+- [Online Gambling Is Changing Sports for the Worse](https://www.newyorker.com/news/fault-lines/online-gambling-is-changing-sports-for-the-worse)
 - [School absences have ‘exploded’ almost everywhere](https://www.nytimes.com/interactive/2024/03/29/us/chronic-absences.html)
 - [Thin, bacteria-coated fibers could lead to self-healing concrete](https://theconversation.com/thin-bacteria-coated-fibers-could-lead-to-self-healing-concrete-that-fills-in-its-own-cracks-220190)
-- [Software vendors dump open source, go for the cash grab](https://www.computerworld.com/article/3714821/software-vendors-dump-open-source-go-for-the-cash-grab.html)
 - [Simon Riggs has died](https://m6n.io/@fuzzychef/112172393647826741)
 <!-- BLOG-POST-LIST:END -->
 
