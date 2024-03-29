@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yamaha and Lola pair up to enter Formula E next season](https://arstechnica.com/cars/2024/03/yamaha-and-lola-pair-up-to-enter-formula-e-next-season/)
+- [Project Wayfield – The JDK Wayland Desktop on Linux [video]](https://inside.java/2024/03/24/openjdk-wakefield/)
+- [EEG channels with low-cost PiEEG device](https://pieeg.com/)
 - [Launch HN: Lumona &lpar;YC W24&rpar; – Product search based on Reddit and YouTube reviews](https://news.ycombinator.com/item?id=39867757)
 - [Apache Guacamole: a clientless remote desktop gateway](https://guacamole.apache.org/)
-- [Banner Blindness](https://en.wikipedia.org/wiki/Banner_blindness)
-- [Porting the GCLC to the Web](https://blog.ubavic.rs/9/)
+- [Banner blindness](https://en.wikipedia.org/wiki/Banner_blindness)
 <!-- BLOG-POST-LIST:END -->
 
 ---
