@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook: We install a root CA on the device and MitM all SSL traffic](https://www.documentcloud.org/documents/24514262-discovery-brief-in-facebook-case)
+- [Hay for cattle consumes nearly half the water drawn from Colorado River, study](https://www.latimes.com/environment/story/2024-03-28/alfalfa-hay-beef-water-colorado-river)
 - [Arraymancer – Deep Learning Nim Library](https://github.com/mratsim/Arraymancer)
 - [Equinix: Major Accounting Manipulation, Core Business Decay](https://hindenburgresearch.com/equinix/)
 - [Math writing is dull when it neglects the human dimension](https://golem.ph.utexas.edu/category/2024/03/why_mathematics_is_boring_1.html)
-- [Monogon: A Linux userland in pure Go](https://github.com/monogon-dev/monogon)
-- [Thirty Seven](http://thirty-seven.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
