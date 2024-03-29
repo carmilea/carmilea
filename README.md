@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing Linux Servers with Cockpit](https://lwn.net//Articles/965434/)
 - [Capi Money &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
-- [Money corrupts; Bitcoin corrupts absolutely](https://www.cynicusrex.com/file/cryptocultscience.html)
 - [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
+- [The Chandler Visual Programming Model](https://github.com/EternityForest/KaithemAutomation/wiki/The-Chandler-Visual-Programming-Model)
 - [Vultr Just Betrayed Us](https://mwl.io/archives/23498)
-- [Arraymancer – Deep Learning Nim Library](https://github.com/mratsim/Arraymancer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
