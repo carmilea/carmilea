@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Song lyrics getting simpler, more repetitive, angry and self-obsessed – study](https://www.theguardian.com/music/2024/mar/29/song-lyrics-getting-simpler-more-repetitive-angry-and-self-obsessed-study)
+- [Two hundred reasons to not use Azure](https://mastodon.social/@azureshit)
 - [Software vendors dump open source, go for the cash grab](https://www.computerworld.com/article/3714821/software-vendors-dump-open-source-go-for-the-cash-grab.html)
 - [PostgreSQL maintainer Simon Riggs has died in a small airplane crash](https://m6n.io/@fuzzychef/112172393647826741)
 - [OpenVoice: Versatile Instant Voice Cloning](https://research.myshell.ai/open-voice)
-- [Managing Linux Servers with Cockpit](https://lwn.net//Articles/965434/)
-- [Capi Money &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
