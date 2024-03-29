@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When New Hires Get Paid More, Top Performers Resign First](https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first)
+- [Gemini is a dual-screen e-reader and is coming out soon [video]](https://www.youtube.com/watch?v=FfFaz832pUA)
+- [Navigating the Challenges and Opportunities of Synthetic Voices](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices)
+- [Overlay networks based on WebRTC](https://github.com/pojntfx/weron)
 - [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
-- [A Chronicle reporter went undercover in high school](https://www.sfchronicle.com/vault/article/undercover-reporter-high-school-18677915.php)
-- [Group buys up large tracts of land in Romania to create &#39;European Yellowstone&#39;](https://english.elpais.com/international/2024-03-29/philanthropist-group-buys-up-large-tracts-of-land-in-romania-to-create-european-yellowstone.html)
-- [Detailed maps of offshore wind installations with electrical interconnections](https://map.4coffshore.com/offshorewind/)
-- [Professor Ross Anderson Died, RIP](https://alecmuffett.com/article/109513)
 <!-- BLOG-POST-LIST:END -->
 
 ---
