@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Colon Cancer Is Rising in Young People: What to Know About Causes and Symptoms](https://www.nytimes.com/2024/03/27/well/colon-cancer-symptoms-treatment.html)
-- [VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://jasonppy.github.io/VoiceCraft_web/)
+- [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 - [A Chronicle reporter went undercover in high school](https://www.sfchronicle.com/vault/article/undercover-reporter-high-school-18677915.php)
 - [Group buys up large tracts of land in Romania to create &#39;European Yellowstone&#39;](https://english.elpais.com/international/2024-03-29/philanthropist-group-buys-up-large-tracts-of-land-in-romania-to-create-european-yellowstone.html)
-- [Fiber-optic data transfer speeds hit a rapid 301 Tbps](https://www.livescience.com/technology/communications/fiber-optic-data-transfer-speeds-hit-a-rapid-301-tbps-12-million-times-faster-than-your-home-broadband-connection)
+- [Detailed maps of offshore wind installations with electrical interconnections](https://map.4coffshore.com/offshorewind/)
+- [Professor Ross Anderson Died, RIP](https://alecmuffett.com/article/109513)
 <!-- BLOG-POST-LIST:END -->
 
 ---
