@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bartók&#39;s Monster – Stalking the dead composer through Transylvania &lpar;2013&rpar;](https://harpers.org/archive/2013/10/bartoks-monster/)
-- [Online Gambling Is Changing Sports for the Worse](https://www.newyorker.com/news/fault-lines/online-gambling-is-changing-sports-for-the-worse)
-- [School absences have ‘exploded’ almost everywhere](https://www.nytimes.com/interactive/2024/03/29/us/chronic-absences.html)
-- [Thin, bacteria-coated fibers could lead to self-healing concrete](https://theconversation.com/thin-bacteria-coated-fibers-could-lead-to-self-healing-concrete-that-fills-in-its-own-cracks-220190)
-- [Simon Riggs has died](https://m6n.io/@fuzzychef/112172393647826741)
+- [Too many labs run like this](https://www.science.org/content/blog-post/too-many-labs-run)
+- [A Chronicle reporter went undercover in high school](https://www.sfchronicle.com/vault/article/undercover-reporter-high-school-18677915.php)
+- [Group buys up large tracts of land in Romania to create &#39;European Yellowstone&#39;](https://english.elpais.com/international/2024-03-29/philanthropist-group-buys-up-large-tracts-of-land-in-romania-to-create-european-yellowstone.html)
+- [Scientists Put Tardigrade Proteins into Human Cells. Here&#39;s What Happened](https://www.sciencealert.com/scientists-put-tardigrade-proteins-into-human-cells-heres-what-happened)
+- [A 173-year-old law for wooden ships could complicate rebuilding in Baltimore](https://fortune.com/2024/03/28/maritime-law-francis-scott-key-bridge-collapse-baltimore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
