@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Building $100B &#39;Stargate&#39; to Transport OpenAI into the Future](https://gizmodo.com/microsoft-building-stargate-transport-openai-future-1851375210)
+- [TnT-LLM: Text Mining at Scale with Large Language Models](https://arxiv.org/abs/2403.12173)
 - [Project Wayfield – The JDK Wayland Desktop on Linux [video]](https://inside.java/2024/03/24/openjdk-wakefield/)
-- [Everything I Know About the XZ Backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor)
 - [EEG channels with low-cost PiEEG device](https://pieeg.com/)
 - [Launch HN: Lumona &lpar;YC W24&rpar; – Product search based on Reddit and YouTube reviews](https://news.ycombinator.com/item?id=39867757)
+- [Apache Guacamole: a clientless remote desktop gateway](https://guacamole.apache.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
