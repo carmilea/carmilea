@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why School Absences Have &#39;Exploded&#39; Almost Everywhere](https://www.nytimes.com/interactive/2024/03/29/us/chronic-absences.html)
-- [SSPL Is Bad](https://ssplisbad.com/)
-- [Song lyrics getting simpler, more repetitive, angry and self-obsessed – study](https://www.theguardian.com/music/2024/mar/29/song-lyrics-getting-simpler-more-repetitive-angry-and-self-obsessed-study)
-- [Two hundred reasons to not use Azure](https://mastodon.social/@azureshit)
+- [China&#39;s economy is not in a Great Decline but a Great Transition](https://think.ing.com/downloads/pdf/article/china-economy-not-in-a-great-decline-but-in-a-great-transition)
+- [School absences have ‘exploded’ almost everywhere](https://www.nytimes.com/interactive/2024/03/29/us/chronic-absences.html)
+- [Thin, bacteria-coated fibers could lead to self-healing concrete](https://theconversation.com/thin-bacteria-coated-fibers-could-lead-to-self-healing-concrete-that-fills-in-its-own-cracks-220190)
 - [Software vendors dump open source, go for the cash grab](https://www.computerworld.com/article/3714821/software-vendors-dump-open-source-go-for-the-cash-grab.html)
+- [Simon Riggs has died](https://m6n.io/@fuzzychef/112172393647826741)
 <!-- BLOG-POST-LIST:END -->
 
 ---
