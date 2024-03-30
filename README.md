@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [1 in every 13 bridges in America is in &#39;poor&#39; condition](https://www.cnn.com/2024/03/30/business/americas-bridges-climate-infrastructure/index.html)
-- [How the Atlantic Went from Broke to Profitable in Three Years](https://www.wsj.com/business/media/how-the-atlantic-went-from-broke-to-profitable-in-three-years-03cc3b18)
-- [US appeals court kills ban on plastic containers contaminated with PFAS](https://www.theguardian.com/us-news/2024/mar/30/pfas-ban-plastic-containers-court)
-- [How GitHub replaced SourceForge as the dominant code hosting platform](https://graphite.dev/blog/github-monopoly-on-code-hosting)
-- [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
+- [About the Tailscale.com outage on March 7, 2024](https://tailscale.com/blog/tls-outage-20240307)
+- [DeWitt and Stonebraker&#39;s &quot;MapReduce: A major step backwards&quot; &lpar;2009&rpar;](http://craig-henderson.blogspot.com/2009/11/dewitt-and-stonebrakers-mapreduce-major.html)
+- [Ask HN: Anybody Using Htmx on the Job?](https://news.ycombinator.com/item?id=39875374)
+- [Helix: Release 24.03 Highlights](https://helix-editor.com/news/release-24-03-highlights/)
+- [Headless, dog-sized robot to patrol Alaska airport to prevent bird strikes](https://news.sky.com/story/headless-dog-sized-robot-to-patrol-alaska-airport-to-prevent-bird-strikes-13104283)
 <!-- BLOG-POST-LIST:END -->
 
 ---
