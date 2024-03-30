@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Police are tagging fleeing cars with GPS darts to avoid dangerous pursuits](https://www.thedrive.com/news/police-tag-fleeing-cars-with-gps-tracking-darts-to-avoid-dangerous-pursuits)
+- [GitHub Disabled the Xz Repo](https://pony.social/@cadey/112182224209533198)
+- [Tesla starts using &#39;Supervised Full Self-Driving&#39; language](https://electrek.co/2024/03/28/tesla-supervised-full-self-driving-language/)
+- [A Seemingly Fake Person Was Running OpenAI&#39;s $175M Startup Fund](https://www.businessinsider.com/who-is-running-openais-startup-fund-2024-3)
 - [Paint.net](https://www.getpaint.net/)
 - [Full-scale file system acceleration on GPU [pdf]](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
-- [World of Spectrum 404 Page](https://worldofspectrum.org/404.html)
-- [Engineers find a new way to convert carbon dioxide into useful products](https://news.mit.edu/2024/engineers-find-new-way-convert-carbon-dioxide-useful-products-0327)
 <!-- BLOG-POST-LIST:END -->
 
 ---
