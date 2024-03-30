@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [X confirms plans for NSFW Communities](https://techcrunch.com/2024/03/29/x-confirms-plans-for-nsfw-communities/)
-- [Proteins let cells remember how well their last division went](https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/)
-- [20 Years of Gmail](https://www.theverge.com/24113616/gmail-email-20-years-old-internet)
-- [App scans your pile of Lego and uses ML to suggest projects](https://boingboing.net/2024/03/29/app-can-scan-your-huge-pile-of-random-lego-bricks-identify-each-one-and-suggest-a-building-project.html)
-- [KasmVNC – WASM Based VNC Server and Client](https://github.com/kasmtech/KasmVNC)
+- [US appeals court kills ban on plastic containers contaminated with PFAS](https://www.theguardian.com/us-news/2024/mar/30/pfas-ban-plastic-containers-court)
+- [How GitHub replaced SourceForge as the dominant code hosting platform](https://graphite.dev/blog/github-monopoly-on-code-hosting)
+- [Return-to-Office Mandates: How to Lose Your Best Performers](https://sloanreview.mit.edu/article/return-to-office-mandates-how-to-lose-your-best-performers/)
+- [The Ken Thompson Hack](https://wiki.c2.com/?TheKenThompsonHack)
+- [Brilliant Pebbles](https://www.llnl.gov/archives/1980s/brilliant-pebbles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
