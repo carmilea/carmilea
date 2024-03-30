@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NetBSD 10.0 Released](https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html)
+- [Novo Nordisk facing pressure as study finds $1k drug can be made for $5](https://fortune.com/europe/2024/03/28/ozempic-maker-novo-nordisk-facing-pressure-as-study-finds-1000-appetite-suppressant-can-be-made-for-just-5/)
+- [Fraudulent studies are undermining the reliability of systematic reviews](https://www.biorxiv.org/content/10.1101/2024.02.13.580196v1)
+- [Toni Morrison&#39;s Rejection Letters](https://lareviewofbooks.org/article/there-is-no-point-in-my-being-other-than-honest-with-you-on-toni-morrisons-rejection-letters/)
 - [Roll-Invert-Unroll: An easier way to replace a duvet cover](https://danverbraganza.com/writings/an-easier-way-to-replace-a-duvet-cover)
-- [Git as a debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)
-- [Running OCR against PDFs and images directly in the browser](https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/)
-- [Contributing to Postgres 101: A Beginner&#39;s Experience](https://www.crunchydata.com/blog/contributing-to-postgres-101-a-beginners-experience)
-- [Kolmogorov Complexity and Compression Distance](https://smunshi.net/kolmogorov-complexity-and-compression-distance.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
