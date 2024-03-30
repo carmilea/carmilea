@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1 in every 13 bridges in America is in &#39;poor&#39; condition](https://www.cnn.com/2024/03/30/business/americas-bridges-climate-infrastructure/index.html)
+- [How the Atlantic Went from Broke to Profitable in Three Years](https://www.wsj.com/business/media/how-the-atlantic-went-from-broke-to-profitable-in-three-years-03cc3b18)
 - [US appeals court kills ban on plastic containers contaminated with PFAS](https://www.theguardian.com/us-news/2024/mar/30/pfas-ban-plastic-containers-court)
 - [How GitHub replaced SourceForge as the dominant code hosting platform](https://graphite.dev/blog/github-monopoly-on-code-hosting)
-- [Return-to-Office Mandates: How to Lose Your Best Performers](https://sloanreview.mit.edu/article/return-to-office-mandates-how-to-lose-your-best-performers/)
-- [The Ken Thompson Hack](https://wiki.c2.com/?TheKenThompsonHack)
-- [Brilliant Pebbles](https://www.llnl.gov/archives/1980s/brilliant-pebbles)
+- [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
