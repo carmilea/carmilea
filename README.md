@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AT&amp;T confirms data breach and resets customer passcodes](https://www.theverge.com/2024/3/30/24116515/att-data-leak-passcode-reset-cybersecurity-privacy)
+- [Hadrius &lpar;YC W23&rpar; – Founding Engineer for fastest growing compliance software](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
+- [Benchmarking LLMs against human expert-curated biomedical knowledge graphs](https://www.sciencedirect.com/science/article/pii/S2667318524000023)
+- [Mamba Explained](https://thegradient.pub/mamba-explained/)
 - [About the Tailscale.com outage on March 7, 2024](https://tailscale.com/blog/tls-outage-20240307)
-- [DeWitt and Stonebraker&#39;s &quot;MapReduce: A major step backwards&quot; &lpar;2009&rpar;](http://craig-henderson.blogspot.com/2009/11/dewitt-and-stonebrakers-mapreduce-major.html)
-- [Ask HN: Anybody Using Htmx on the Job?](https://news.ycombinator.com/item?id=39875374)
-- [Helix: Release 24.03 Highlights](https://helix-editor.com/news/release-24-03-highlights/)
-- [Headless, dog-sized robot to patrol Alaska airport to prevent bird strikes](https://news.sky.com/story/headless-dog-sized-robot-to-patrol-alaska-airport-to-prevent-bird-strikes-13104283)
 <!-- BLOG-POST-LIST:END -->
 
 ---
