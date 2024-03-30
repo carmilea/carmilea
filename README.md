@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China uses foreign firms to turbocharge its industry](https://www.high-capacity.com/p/how-china-uses-foreign-firms-to-turbocharge)
+- [California fast-food workers will get $20 minimum wage, starting Monday](https://www.npr.org/2024/03/30/1241451631/california-fast-food-20-minimum-wage)
+- [Kolmogorov Complexity and Compression Distance](https://smunshi.net/kolmogorov-complexity-and-compression-distance.html)
+- [XZ backdoor: &quot;It&#39;s RCE, not auth bypass, and gated/unreplayable.&quot;](https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b)
+- [The federal government promised to plant two billion trees. How&#39;s that going?](https://www.cbc.ca/newsinteractives/features/two-billion-trees)
 - [An unusual 7400-series chip implemented with a gate array](https://www.righto.com/2024/03/idt-gate-array.html)
-- [Type Inference Was a Mistake](https://borretti.me/article/type-inference-was-a-mistake)
-- [AT&amp;T Says Personal Information from 73M Customers Leaked on the Dark Web](https://www.forbes.com/sites/tylerroush/2024/03/30/att-says-personal-information-from-73-million-customers-leaked-on-the-dark-web-including-social-security-numbers/)
-- [AT&amp;T confirms data breach and resets customer passcodes](https://www.theverge.com/2024/3/30/24116515/att-data-leak-passcode-reset-cybersecurity-privacy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
