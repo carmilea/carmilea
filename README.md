@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Playboy image from 1972 gets ban from IEEE computer journals](https://arstechnica.com/information-technology/2024/03/playboy-image-from-1972-gets-ban-from-ieee-computer-journals/)
-- [America&#39;s Drivers Agree: LED Headlights Are Just Too Bright](https://www.wsj.com/lifestyle/car-led-headlights-too-bright-safety-driving-df0dd05e)
+- [20 years ago Far Cry was released](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
+- [We are under DDoS attack and we do nothing](https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html)
+- [He Turned 55. Then He Started the Most Important Company. [TSMC]](https://www.wsj.com/tech/tsmc-morris-chang-taiwan-semiconductor-chips-entrepreneurship-506fcbc4)
 - [Show HN: AI for researching personal health issues](https://www.agenthost.ai/chat/wellness-wise)
 - [Xz format inadequate for long-term archiving &lpar;2022-02-02&rpar;](https://www.nongnu.org/lzip/xz_inadequate.html)
-- [Why Has Figma Reinvented the Wheel with PostgreSQL?](https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
