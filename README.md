@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [20 years ago Far Cry was released](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
-- [We are under DDoS attack and we do nothing](https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html)
-- [He Turned 55. Then He Started the Most Important Company. [TSMC]](https://www.wsj.com/tech/tsmc-morris-chang-taiwan-semiconductor-chips-entrepreneurship-506fcbc4)
-- [Show HN: AI for researching personal health issues](https://www.agenthost.ai/chat/wellness-wise)
-- [Xz format inadequate for long-term archiving &lpar;2022-02-02&rpar;](https://www.nongnu.org/lzip/xz_inadequate.html)
+- [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
+- [Missouri AG sues Media Matters over its X research, demands donor names](https://arstechnica.com/tech-policy/2024/03/missouri-ag-sues-media-matters-in-lawsuit-echoing-elon-musks-complaints/)
+- [Some notes on Firefox&#39;s media autoplay settings in practice as of Firefox 124](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV)
+- [Rustic UI: Crafting the Future of UX](https://blog.dragonscale.ai/rustic-ui-crafting-the-future-of-ux/)
+- [Debian on xz-utils: revert to version that does not contain changes by bad actor](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
