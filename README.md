@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [X confirms plans for NSFW Communities](https://techcrunch.com/2024/03/29/x-confirms-plans-for-nsfw-communities/)
-- [NYC AI Chatbot Touted by Adams Tells Businesses to Break the Law](https://www.thecity.nyc/2024/03/29/ai-chat-false-information-small-business/)
+- [Proteins let cells remember how well their last division went](https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/)
 - [20 Years of Gmail](https://www.theverge.com/24113616/gmail-email-20-years-old-internet)
-- [OpenAI says it can clone a voice from just 15 seconds of audio](https://www.engadget.com/openai-says-it-can-clone-a-voice-from-just-15-seconds-of-audio-190356431.html)
 - [App scans your pile of Lego and uses ML to suggest projects](https://boingboing.net/2024/03/29/app-can-scan-your-huge-pile-of-random-lego-bricks-identify-each-one-and-suggest-a-building-project.html)
+- [KasmVNC – WASM Based VNC Server and Client](https://github.com/kasmtech/KasmVNC)
 <!-- BLOG-POST-LIST:END -->
 
 ---
