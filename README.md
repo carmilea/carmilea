@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TnT-LLM: Text Mining at Scale with Large Language Models](https://arxiv.org/abs/2403.12173)
-- [Project Wayfield – The JDK Wayland Desktop on Linux [video]](https://inside.java/2024/03/24/openjdk-wakefield/)
-- [EEG channels with low-cost PiEEG device](https://pieeg.com/)
-- [Launch HN: Lumona &lpar;YC W24&rpar; – Product search based on Reddit and YouTube reviews](https://news.ycombinator.com/item?id=39867757)
-- [Apache Guacamole: a clientless remote desktop gateway](https://guacamole.apache.org/)
+- [Iowa fertilizer spill kills nearly all fish across 60-mile stretch of rivers](https://www.nytimes.com/2024/03/29/us/iowa-spill-fish-kill.html)
+- [Can We Get Kids Off Smartphones?](https://www.newyorker.com/books/under-review/can-we-get-kids-off-smartphones)
+- [Engineers find a new way to convert carbon dioxide into useful products](https://news.mit.edu/2024/engineers-find-new-way-convert-carbon-dioxide-useful-products-0327)
+- [Suppressing boredom at work hurts future productivity](https://phys.org/news/2024-03-suppressing-boredom-future-productivity.html)
+- [Running a Raspberry Pi with a read-only root filesystem](https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
