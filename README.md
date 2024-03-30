@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Playboy image from 1972 gets ban from IEEE computer journals](https://arstechnica.com/information-technology/2024/03/playboy-image-from-1972-gets-ban-from-ieee-computer-journals/)
 - [America&#39;s Drivers Agree: LED Headlights Are Just Too Bright](https://www.wsj.com/lifestyle/car-led-headlights-too-bright-safety-driving-df0dd05e)
 - [Show HN: AI for researching personal health issues](https://www.agenthost.ai/chat/wellness-wise)
-- [Wayland breaks your bad software](https://orowith2os.gitlab.io/posts/wayland-breaks-your-bad-software/)
-- [British water company dumps sewage, claims &quot;no right to swim in the sea&quot;](https://inews.co.uk/news/environment/public-no-right-swim-sea-firm-dumped-sewage-2981778)
+- [Xz format inadequate for long-term archiving &lpar;2022-02-02&rpar;](https://www.nongnu.org/lzip/xz_inadequate.html)
 - [Why Has Figma Reinvented the Wheel with PostgreSQL?](https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c)
 <!-- BLOG-POST-LIST:END -->
 
