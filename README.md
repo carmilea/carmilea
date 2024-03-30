@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California fast-food workers will get $20 minimum wage, starting Monday](https://www.npr.org/2024/03/30/1241451631/california-fast-food-20-minimum-wage)
+- [Roll-Invert-Unroll: An easier way to replace a duvet cover](https://danverbraganza.com/writings/an-easier-way-to-replace-a-duvet-cover)
+- [Git as a debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)
+- [Running OCR against PDFs and images directly in the browser](https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/)
+- [Contributing to Postgres 101: A Beginner&#39;s Experience](https://www.crunchydata.com/blog/contributing-to-postgres-101-a-beginners-experience)
 - [Kolmogorov Complexity and Compression Distance](https://smunshi.net/kolmogorov-complexity-and-compression-distance.html)
-- [XZ backdoor: &quot;It&#39;s RCE, not auth bypass, and gated/unreplayable.&quot;](https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b)
-- [The federal government promised to plant two billion trees. How&#39;s that going?](https://www.cbc.ca/newsinteractives/features/two-billion-trees)
-- [An unusual 7400-series chip implemented with a gate array](https://www.righto.com/2024/03/idt-gate-array.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
