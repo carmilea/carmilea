@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The jobs being replaced by AI – an analysis of 5M freelancing jobs](https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/)
+- [Xz/liblzma: Bash-stage Obfuscation Explained](https://gynvael.coldwind.pl/?lang=en&id=782)
 - [NetBSD 10.0 Released](https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html)
-- [Novo Nordisk facing pressure as study finds $1k drug can be made for $5](https://fortune.com/europe/2024/03/28/ozempic-maker-novo-nordisk-facing-pressure-as-study-finds-1000-appetite-suppressant-can-be-made-for-just-5/)
-- [Fraudulent studies are undermining the reliability of systematic reviews](https://www.biorxiv.org/content/10.1101/2024.02.13.580196v1)
+- [&#39;Shear sound waves&#39; provide the magic for linking ultrasound and magnetic waves](https://phys.org/news/2024-03-magic-linking-ultrasound-magnetic.html)
 - [Toni Morrison&#39;s Rejection Letters](https://lareviewofbooks.org/article/there-is-no-point-in-my-being-other-than-honest-with-you-on-toni-morrisons-rejection-letters/)
-- [Roll-Invert-Unroll: An easier way to replace a duvet cover](https://danverbraganza.com/writings/an-easier-way-to-replace-a-duvet-cover)
 <!-- BLOG-POST-LIST:END -->
 
 ---
