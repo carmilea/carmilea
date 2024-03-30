@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X confirms plans for NSFW Communities](https://techcrunch.com/2024/03/29/x-confirms-plans-for-nsfw-communities/)
+- [NYC AI Chatbot Touted by Adams Tells Businesses to Break the Law](https://www.thecity.nyc/2024/03/29/ai-chat-false-information-small-business/)
+- [20 Years of Gmail](https://www.theverge.com/24113616/gmail-email-20-years-old-internet)
+- [OpenAI says it can clone a voice from just 15 seconds of audio](https://www.engadget.com/openai-says-it-can-clone-a-voice-from-just-15-seconds-of-audio-190356431.html)
 - [App scans your pile of Lego and uses ML to suggest projects](https://boingboing.net/2024/03/29/app-can-scan-your-huge-pile-of-random-lego-bricks-identify-each-one-and-suggest-a-building-project.html)
-- [Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)
-- [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
-- [Some notes on Firefox&#39;s media autoplay settings in practice as of Firefox 124](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxMediaAutoplaySettingsIV)
-- [Rustic UI: Crafting the Future of UX](https://blog.dragonscale.ai/rustic-ui-crafting-the-future-of-ux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
