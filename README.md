@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iowa fertilizer spill kills nearly all fish across 60-mile stretch of rivers](https://www.nytimes.com/2024/03/29/us/iowa-spill-fish-kill.html)
-- [Can We Get Kids Off Smartphones?](https://www.newyorker.com/books/under-review/can-we-get-kids-off-smartphones)
+- [Building the first highway segment in the U.S. that can charge electric vehicles](https://www.purdue.edu/newsroom/releases/2024/Q1/building-the-first-highway-segment-in-the-u.s-that-can-charge-electric-vehicles-big-and-small-as-they-drive.html)
+- [GPU4FS: A filesystem runs on GPU to accelerate data access](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
+- [World of Spectrum 404 Page](https://worldofspectrum.org/404.html)
+- [Jails banned visits in &quot;quid pro quo&quot; with prison phone companies, lawsuits say](https://arstechnica.com/tech-policy/2024/03/jails-banned-family-visits-to-make-more-money-on-video-calls-lawsuits-claim/)
 - [Engineers find a new way to convert carbon dioxide into useful products](https://news.mit.edu/2024/engineers-find-new-way-convert-carbon-dioxide-useful-products-0327)
-- [Suppressing boredom at work hurts future productivity](https://phys.org/news/2024-03-suppressing-boredom-future-productivity.html)
-- [Running a Raspberry Pi with a read-only root filesystem](https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
