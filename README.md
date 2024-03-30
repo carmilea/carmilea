@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Disabled the Xz Repo](https://pony.social/@cadey/112182224209533198)
 - [Tesla starts using &#39;Supervised Full Self-Driving&#39; language](https://electrek.co/2024/03/28/tesla-supervised-full-self-driving-language/)
-- [A Seemingly Fake Person Was Running OpenAI&#39;s $175M Startup Fund](https://www.businessinsider.com/who-is-running-openais-startup-fund-2024-3)
+- [Why Has Figma Reinvented the Wheel with PostgreSQL?](https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c)
 - [Paint.net](https://www.getpaint.net/)
 - [Full-scale file system acceleration on GPU [pdf]](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
+- [World of Spectrum 404 Page](https://worldofspectrum.org/404.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
