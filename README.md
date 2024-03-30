@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [China uses foreign firms to turbocharge its industry](https://www.high-capacity.com/p/how-china-uses-foreign-firms-to-turbocharge)
+- [An unusual 7400-series chip implemented with a gate array](https://www.righto.com/2024/03/idt-gate-array.html)
+- [Type Inference Was a Mistake](https://borretti.me/article/type-inference-was-a-mistake)
+- [AT&amp;T Says Personal Information from 73M Customers Leaked on the Dark Web](https://www.forbes.com/sites/tylerroush/2024/03/30/att-says-personal-information-from-73-million-customers-leaked-on-the-dark-web-including-social-security-numbers/)
 - [AT&amp;T confirms data breach and resets customer passcodes](https://www.theverge.com/2024/3/30/24116515/att-data-leak-passcode-reset-cybersecurity-privacy)
-- [Hadrius &lpar;YC W23&rpar; – Founding Engineer for fastest growing compliance software](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
-- [Benchmarking LLMs against human expert-curated biomedical knowledge graphs](https://www.sciencedirect.com/science/article/pii/S2667318524000023)
-- [Mamba Explained](https://thegradient.pub/mamba-explained/)
-- [About the Tailscale.com outage on March 7, 2024](https://tailscale.com/blog/tls-outage-20240307)
 <!-- BLOG-POST-LIST:END -->
 
 ---
