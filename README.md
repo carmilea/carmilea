@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is anybody getting value from AI Agents? How so?](https://news.ycombinator.com/item?id=39886178)
+- [IEEE no longer accepts Lena image containing submissions from 4/1 onward](https://www.theguardian.com/technology/2024/mar/31/tech-publisher-bans-playboy-centrefold-test-image-from-its-journals)
 - [Daylight Saving Time is a perfect test for UI designer](https://tonsky.me/blog/dst/)
-- [2023 goes down as one of the safest years in commercial aviation history](https://askthepilot.com/safest-year-2023/)
-- [Indian Investigators Ask Apple to Access Delhi Chief Minister&#39;s Phones](https://indianexpress.com/article/cities/delhi/ed-asks-apple-to-help-access-cm-arvind-kejriwals-phone-questioning-for-5-hours-daily-9242553/)
-- [Robinhood&#39;s new, attractive and expensive credit card](https://onepercentamonth.com/2024/03/27/robinhoods-new-attractive-very-expensive-credit-card/)
-- [How do TV detector vans work?](https://www.theguardian.com/notesandqueries/query/0,5753,-22440,00.html)
+- [It&#39;s time to stop using SMS &lpar;2021&rpar;](https://lucky225.medium.com/its-time-to-stop-using-sms-for-anything-203c41361c80)
+- [Tell HN: Windows 3D Pinball &lpar;Space Cadet&rpar;](https://github.com/k4zmu2a/SpaceCadetPinball)
 <!-- BLOG-POST-LIST:END -->
 
 ---
