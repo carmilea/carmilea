@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39888057)
-- [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
-- [Fired Americans Say Indian Firm Gave Their Jobs to H-1B Visa Holders](https://www.msn.com/en-us/money/careers/fired-americans-say-indian-firm-gave-their-jobs-to-h-1b-visa-holders/ar-BB1kIVHE)
-- [Dan Lynch Has Died &lpar;SRI, Arpanet, Internet&rpar;](https://www.nytimes.com/2024/03/31/technology/daniel-c-lynch-dead.html)
-- [Llamafile 0.7 Brings AVX-512 Support: 10x Faster Prompt Eval Times for AMD Zen 4](https://www.phoronix.com/news/Llamafile-0.7)
+- [Tesla stock drops 29% in first quarter as global dominance wanes](https://www.cnbc.com/2024/03/29/tesla-stock-drops-29percent-in-first-quarter-as-global-dominance-wanes.html)
+- [Upcoming email service provider guidelines](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
+- [Is social media behind an epidemic of teenage mental illness?](https://www.nature.com/articles/d41586-024-00902-2)
+- [Cpp2 and cppfront – An experimental &#39;C++ syntax 2&#39; and its first compiler](https://hsutter.github.io/cppfront/)
+- [The xz backdoor thing reminds me of a story](https://rigor-mortis.nmrc.org/@simplenomad/112184869681420177)
 <!-- BLOG-POST-LIST:END -->
 
 ---
