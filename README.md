@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Illusion of Being Stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
+- [How to graduate your PhD when you have no hope](https://huiwenn.github.io/feynman)
 - [Tell HN: Reddit now blocks VPN access via browser, &#39;old&#39; subdomain included](https://news.ycombinator.com/item?id=39883747)
 - [Silicon spikes take out 96% of virus particles](https://www.rmit.edu.au/news/all-news/2024/mar/silicon-nanospikes)
 - [What is a coder&#39;s worst nightmare? &lpar;2016&rpar;](https://www.quora.com/What-is-a-coders-worst-nightmare)
-- [Zoomable Circles, a Svelte component for hierarchical data](https://www.npmjs.com/package/svelte-zoomable-circles)
-- [Shutting down the letsblock.it project and its official instance](https://github.com/letsblockit/letsblockit/discussions/663)
 <!-- BLOG-POST-LIST:END -->
 
 ---
