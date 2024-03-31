@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First Council of Nicaea](https://en.wikipedia.org/wiki/First_Council_of_Nicaea)
+- [The end of Pepper&amp;Carrot and my next project](https://www.davidrevoy.com/article1020/the-end-of-peppercarrot-and-my-next-project)
 - [Dr. Katalin Karikó](https://www.glamour.com/story/katalin-kariko-biontech-women-of-year-2021)
-- [Giphy is sharing your IP address and private data to 816 partners](https://twitter.com/illyism/status/1774425117117788223)
 - [The Illusion of Being Stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
 - [How to graduate your PhD when you have no hope](https://huiwenn.github.io/feynman)
+- [Apple TV&#39;s Fantastic &quot;Silo&quot; Plays Out Like Great Sci-Fi Literature &lpar;2023&rpar;](https://www.rogerebert.com/streaming/silo-tv-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
