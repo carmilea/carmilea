@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla stock drops 29% in first quarter as global dominance wanes](https://www.cnbc.com/2024/03/29/tesla-stock-drops-29percent-in-first-quarter-as-global-dominance-wanes.html)
-- [Upcoming email service provider guidelines](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
+- [Technical debt is an invisible $1.52T problem](https://www.wsj.com/tech/personal-tech/the-invisible-1-52-trillion-problem-clunky-old-software-f5cbba27)
+- [Smart devices are turning out to be a poor investment](https://www.androidpolice.com/smart-devices-poor-investment/)
+- [A deep dive into email deliverability in 2024](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
 - [Is social media behind an epidemic of teenage mental illness?](https://www.nature.com/articles/d41586-024-00902-2)
-- [Cpp2 and cppfront – An experimental &#39;C++ syntax 2&#39; and its first compiler](https://hsutter.github.io/cppfront/)
-- [The xz backdoor thing reminds me of a story](https://rigor-mortis.nmrc.org/@simplenomad/112184869681420177)
+- [Overview: What are Cpp2 and cppfront? How do I get and build cppfront?](https://hsutter.github.io/cppfront/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
