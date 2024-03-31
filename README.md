@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BYD Rolls Off Its 7Mth New Energy Vehicle](https://cleantechnica.com/2024/03/27/byd-rolls-off-its-7-millionth-new-energy-vehicle/)
+- [Guess My RGB](https://susam.net/myrgb.html)
 - [Layout of Rust&#39;s u128 and i128 changed](https://blog.rust-lang.org/2024/03/30/i128-layout-update.html)
 - [Meta&#39;s Onavo VPN removed SSL encryption of competitor&#39;s analytics traffic](https://www.documentcloud.org/documents/24520332-merged-fb)
 - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
-- [Show HN: Ragdoll Studio &lpar;fka Arthas.AI&rpar; is the FOSS alternative to character.ai](https://ragdoll-studio.vercel.app/)
-- [World Backup Day](https://www.worldbackupday.com/en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
