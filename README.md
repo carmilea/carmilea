@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the California forest that was Endor in &#39;Return of the Jedi&#39; was obliterated](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)
 - [A Microsoft Excel Spreadsheet from Hell Slowed Williams&#39; F1 Cars for Years](https://www.thedrive.com/news/how-a-microsoft-excel-spreadsheet-from-hell-slowed-williams-f1-cars-for-years)
-- [A Person Who Was in Charge of OpenAI&#39;s $175M Fund Appears to Be Fake](https://futurism.com/the-byte/fake-person-openai-fund)
 - [Nvidia Is Simulating a Copy of the Earth](https://futurism.com/the-byte/nvidia-simulating-copy-earth)
 - [Notes on El Salvador](https://mattlakeman.org/2024/03/30/notes-on-el-salvador/)
 - [Significant performance and correctness improvements to the kernel](https://www.redox-os.org/news/kernel-10/)
