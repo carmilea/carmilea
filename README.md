@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Picohsm, a $5 open-source hsm](https://www.picokeys.com/pico-hsm/)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39888057)
 - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
-- [Dan Lynch Has Died &lpar;SRI, Arpanet, Internet&rpar;](https://www.internethalloffame.org/2021/04/19/dan-lynchs-love-brilliant-complexity-fuels-early-internet-development-growth/)
+- [Fired Americans Say Indian Firm Gave Their Jobs to H-1B Visa Holders](https://www.msn.com/en-us/money/careers/fired-americans-say-indian-firm-gave-their-jobs-to-h-1b-visa-holders/ar-BB1kIVHE)
+- [Dan Lynch Has Died &lpar;SRI, Arpanet, Internet&rpar;](https://www.nytimes.com/2024/03/31/technology/daniel-c-lynch-dead.html)
 - [Llamafile 0.7 Brings AVX-512 Support: 10x Faster Prompt Eval Times for AMD Zen 4](https://www.phoronix.com/news/Llamafile-0.7)
-- [Kia recalls over 427K Telluride SUVs because they might roll away while parked](https://abcnews.go.com/Technology/wireStory/kia-recalls-427000-telluride-suvs-roll-parked-108695466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
