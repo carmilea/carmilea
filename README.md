@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Layout of Rust&#39;s u128 and i128 changed](https://blog.rust-lang.org/2024/03/30/i128-layout-update.html)
 - [Meta&#39;s Onavo VPN removed SSL encryption of competitor&#39;s analytics traffic](https://www.documentcloud.org/documents/24520332-merged-fb)
 - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
 - [Show HN: Ragdoll Studio &lpar;fka Arthas.AI&rpar; is the FOSS alternative to character.ai](https://ragdoll-studio.vercel.app/)
 - [World Backup Day](https://www.worldbackupday.com/en)
-- [How the California forest that was Endor in &#39;Return of the Jedi&#39; was obliterated](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
