@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The end of Pepper&amp;Carrot and my next project](https://www.davidrevoy.com/article1020/the-end-of-peppercarrot-and-my-next-project)
-- [Dr. Katalin Karikó](https://www.glamour.com/story/katalin-kariko-biontech-women-of-year-2021)
-- [The Illusion of Being Stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
-- [How to graduate your PhD when you have no hope](https://huiwenn.github.io/feynman)
-- [Apple TV&#39;s Fantastic &quot;Silo&quot; Plays Out Like Great Sci-Fi Literature &lpar;2023&rpar;](https://www.rogerebert.com/streaming/silo-tv-review)
+- [Daylight Saving Time is a perfect test for UI designer](https://tonsky.me/blog/dst/)
+- [2023 goes down as one of the safest years in commercial aviation history](https://askthepilot.com/safest-year-2023/)
+- [Indian Investigators Ask Apple to Access Delhi Chief Minister&#39;s Phones](https://indianexpress.com/article/cities/delhi/ed-asks-apple-to-help-access-cm-arvind-kejriwals-phone-questioning-for-5-hours-daily-9242553/)
+- [Robinhood&#39;s new, attractive and expensive credit card](https://onepercentamonth.com/2024/03/27/robinhoods-new-attractive-very-expensive-credit-card/)
+- [How do TV detector vans work?](https://www.theguardian.com/notesandqueries/query/0,5753,-22440,00.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
