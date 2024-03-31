@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A proposal to add signals to JavaScript](https://github.com/proposal-signals/proposal-signals)
-- [A. K. Dewdney has died](https://lfpress.remembering.ca/obituary/alexander-dewdney-1089463499)
-- [It&#39;s time to stop using SMS &lpar;2021&rpar;](https://lucky225.medium.com/its-time-to-stop-using-sms-for-anything-203c41361c80)
-- [2023 was one of the safest years in commercial aviation](https://askthepilot.com/safest-year-2023/)
-- [The end of Pepper&amp;Carrot and my next project](https://www.davidrevoy.com/article1020/the-end-of-peppercarrot-and-my-next-project)
+- [Show HN: Picohsm, a $5 open-source hsm](https://www.picokeys.com/pico-hsm/)
+- [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
+- [Dan Lynch Has Died &lpar;SRI, Arpanet, Internet&rpar;](https://www.internethalloffame.org/2021/04/19/dan-lynchs-love-brilliant-complexity-fuels-early-internet-development-growth/)
+- [Llamafile 0.7 Brings AVX-512 Support: 10x Faster Prompt Eval Times for AMD Zen 4](https://www.phoronix.com/news/Llamafile-0.7)
+- [Kia recalls over 427K Telluride SUVs because they might roll away while parked](https://abcnews.go.com/Technology/wireStory/kia-recalls-427000-telluride-suvs-roll-parked-108695466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
