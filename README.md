@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Microsoft Excel Spreadsheet from Hell Slowed Williams&#39; F1 Cars for Years](https://www.thedrive.com/news/how-a-microsoft-excel-spreadsheet-from-hell-slowed-williams-f1-cars-for-years)
 - [Nvidia Is Simulating a Copy of the Earth](https://futurism.com/the-byte/nvidia-simulating-copy-earth)
-- [Average worker now logs off at 4 p.m. on Fridays](https://www.axios.com/2024/03/30/work-log-off-early-fridays-early-weekend)
 - [Notes on El Salvador](https://mattlakeman.org/2024/03/30/notes-on-el-salvador/)
 - [Significant performance and correctness improvements to the kernel](https://www.redox-os.org/news/kernel-10/)
 - [The Set-Up-to-Fail Syndrome &lpar;1998&rpar;](https://hbr.org/1998/03/the-set-up-to-fail-syndrome)
