@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How read-intensive is Linux&#39;s use of RCU? &lpar;And what is its latency?&rpar;](https://paulmck.livejournal.com/67547.html)
+- [Cognition Labs Seeks $2B Valuation](https://www.wsj.com/tech/ai/a-peter-thiel-backed-ai-startup-cognition-labs-seeks-2-billion-valuation-998fa39d)
+- [How Read-Intensive is The Kernel&#39;s Use of RCU?](https://paulmck.livejournal.com/67547.html)
 - [Show HN: Truncate, a word-based strategy game](https://truncate.town/)
-- [BYD Rolls Off Its 7Mth New Energy Vehicle](https://cleantechnica.com/2024/03/27/byd-rolls-off-its-7-millionth-new-energy-vehicle/)
+- [Python for Everyday, Everyone, Everywhere](https://leanpub.com/python-everyday)
 - [Guess My RGB](https://susam.net/myrgb.html)
-- [Layout of Rust&#39;s u128 and i128 changed](https://blog.rust-lang.org/2024/03/30/i128-layout-update.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
