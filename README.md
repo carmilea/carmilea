@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cognition Labs Seeks $2B Valuation](https://www.wsj.com/tech/ai/a-peter-thiel-backed-ai-startup-cognition-labs-seeks-2-billion-valuation-998fa39d)
-- [How Read-Intensive is The Kernel&#39;s Use of RCU?](https://paulmck.livejournal.com/67547.html)
-- [Show HN: Truncate, a word-based strategy game](https://truncate.town/)
-- [Python for Everyday, Everyone, Everywhere](https://leanpub.com/python-everyday)
-- [Guess My RGB](https://susam.net/myrgb.html)
+- [Tell HN: Reddit now blocks VPN access via browser, &#39;old&#39; subdomain included](https://news.ycombinator.com/item?id=39883747)
+- [Silicon spikes take out 96% of virus particles](https://www.rmit.edu.au/news/all-news/2024/mar/silicon-nanospikes)
+- [What is a coder&#39;s worst nightmare? &lpar;2016&rpar;](https://www.quora.com/What-is-a-coders-worst-nightmare)
+- [Zoomable Circles, a Svelte component for hierarchical data](https://www.npmjs.com/package/svelte-zoomable-circles)
+- [Shutting down the letsblock.it project and its official instance](https://github.com/letsblockit/letsblockit/discussions/663)
 <!-- BLOG-POST-LIST:END -->
 
 ---
