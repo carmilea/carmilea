@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First Council of Nicaea](https://en.wikipedia.org/wiki/First_Council_of_Nicaea)
+- [Dr. Katalin Karikó](https://www.glamour.com/story/katalin-kariko-biontech-women-of-year-2021)
+- [Giphy is sharing your IP address and private data to 816 partners](https://twitter.com/illyism/status/1774425117117788223)
 - [The Illusion of Being Stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
 - [How to graduate your PhD when you have no hope](https://huiwenn.github.io/feynman)
-- [Tell HN: Reddit now blocks VPN access via browser, &#39;old&#39; subdomain included](https://news.ycombinator.com/item?id=39883747)
-- [Silicon spikes take out 96% of virus particles](https://www.rmit.edu.au/news/all-news/2024/mar/silicon-nanospikes)
-- [What is a coder&#39;s worst nightmare? &lpar;2016&rpar;](https://www.quora.com/What-is-a-coders-worst-nightmare)
 <!-- BLOG-POST-LIST:END -->
 
 ---
