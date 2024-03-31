@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
 - [How the California forest that was Endor in &#39;Return of the Jedi&#39; was obliterated](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)
 - [Nvidia Is Simulating a Copy of the Earth](https://futurism.com/the-byte/nvidia-simulating-copy-earth)
+- [xz: A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 - [Mathematician Who Made Sense of the Universe&#39;s Randomness Wins Math&#39;s Top Prize](https://www.smithsonianmag.com/smart-news/mathematician-who-made-sense-of-the-universes-randomness-wins-maths-top-prize-180984020/)
-- [Notes on El Salvador](https://mattlakeman.org/2024/03/30/notes-on-el-salvador/)
-- [Significant performance and correctness improvements to the kernel](https://www.redox-os.org/news/kernel-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
