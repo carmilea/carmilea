@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is anybody getting value from AI Agents? How so?](https://news.ycombinator.com/item?id=39886178)
-- [IEEE no longer accepts Lena image containing submissions from 4/1 onward](https://www.theguardian.com/technology/2024/mar/31/tech-publisher-bans-playboy-centrefold-test-image-from-its-journals)
-- [Daylight Saving Time is a perfect test for UI designer](https://tonsky.me/blog/dst/)
+- [A proposal to add signals to JavaScript](https://github.com/proposal-signals/proposal-signals)
+- [A. K. Dewdney has died](https://lfpress.remembering.ca/obituary/alexander-dewdney-1089463499)
 - [It&#39;s time to stop using SMS &lpar;2021&rpar;](https://lucky225.medium.com/its-time-to-stop-using-sms-for-anything-203c41361c80)
-- [Tell HN: Windows 3D Pinball &lpar;Space Cadet&rpar;](https://github.com/k4zmu2a/SpaceCadetPinball)
+- [2023 was one of the safest years in commercial aviation](https://askthepilot.com/safest-year-2023/)
+- [The end of Pepper&amp;Carrot and my next project](https://www.davidrevoy.com/article1020/the-end-of-peppercarrot-and-my-next-project)
 <!-- BLOG-POST-LIST:END -->
 
 ---
