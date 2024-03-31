@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX&#39;s Gwynne Shotwell on the future of space travel [video]](https://www.youtube.com/watch?v=PqUoBaO7mzM)
-- [The jobs being replaced by AI – an analysis of 5M freelancing jobs](https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/)
-- [Xz/liblzma: Bash-stage Obfuscation Explained](https://gynvael.coldwind.pl/?lang=en&id=782)
-- [&#39;Shear sound waves&#39; provide the magic for linking ultrasound and magnetic waves](https://phys.org/news/2024-03-magic-linking-ultrasound-magnetic.html)
-- [Models all the way down](https://knowingmachines.org/models-all-the-way)
+- [Nvidia Is Simulating a Copy of the Earth](https://futurism.com/the-byte/nvidia-simulating-copy-earth)
+- [Average worker now logs off at 4 p.m. on Fridays](https://www.axios.com/2024/03/30/work-log-off-early-fridays-early-weekend)
+- [Notes on El Salvador](https://mattlakeman.org/2024/03/30/notes-on-el-salvador/)
+- [Significant performance and correctness improvements to the kernel](https://www.redox-os.org/news/kernel-10/)
+- [The Set-Up-to-Fail Syndrome &lpar;1998&rpar;](https://hbr.org/1998/03/the-set-up-to-fail-syndrome)
 <!-- BLOG-POST-LIST:END -->
 
 ---
