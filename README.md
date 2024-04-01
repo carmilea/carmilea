@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turkish local elections: Opposition stuns Erdogan with historic victory](https://www.bbc.com/news/world-europe-68704375)
+- [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
+- [Self-driving semi-trucks are coming to America&#39;s highways](https://www.washingtonpost.com/technology/2024/03/31/autonomous-semi-truck-jobs-regulation/)
+- [Unraveling Havana syndrome: New evidence implicates the GRU&#39;s assassination unit](https://theins.ru/en/politics/270425)
 - [Programming Beyond Paradigms](https://www.micahcantor.com/blog/programming-beyond-paradigms/)
-- [Amazon Bets $150B on Data Centers Required for AI Boom](https://www.bnnbloomberg.ca/amazon-bets-150-billion-on-data-centers-required-for-ai-boom-1.2052777)
-- [XZ Backdoor: Times, damned times, and scams](https://rheaeve.substack.com/p/xz-backdoor-times-damned-times-and)
-- [Free shipping isn’t really free &lpar;2020&rpar;](https://www.theatlantic.com/magazine/archive/2020/01/the-myth-of-free-shipping/603031/)
-- [Adaptive RAG – dynamic retrieval methods adjustment](https://arxiv.org/abs/2403.14403)
 <!-- BLOG-POST-LIST:END -->
 
 ---
