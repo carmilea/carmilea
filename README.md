@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Climate Pulse](https://pulse.climate.copernicus.eu/)
+- [Killing the Messenger: My Final Days Working at a Disaster](https://nymag.com/intelligencer/2024/02/killing-the-messenger-my-final-days-working-at-a-disaster.html)
 - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
+- [LLM Paper on Mamba MoE: Jamba Technical Report from AI2](https://arxiv.org/abs/2403.19887)
 - [Materialious – A Modern Interface for Invidious](https://github.com/WardPearce/Materialious)
-- [Self-driving semi-trucks are coming to America&#39;s highways](https://www.washingtonpost.com/technology/2024/03/31/autonomous-semi-truck-jobs-regulation/)
-- [Programming Beyond Paradigms](https://www.micahcantor.com/blog/programming-beyond-paradigms/)
-- [InternLM2](https://arxiv.org/abs/2403.17297)
 <!-- BLOG-POST-LIST:END -->
 
 ---
