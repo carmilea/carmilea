@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/)
+- [There were no ancient computers and it&#39;s fine](https://lcamtuf.substack.com/p/there-were-no-ancient-computers-and)
+- [Ask HN: What is the current &lpar;Apr. 2024&rpar; gold standard of running an LLM locally?](https://news.ycombinator.com/item?id=39893142)
+- [Century-Old Stone &quot;Tsunami Stones&quot; Dot Japan&#39;s Coastline](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
+- [Chrome Feature: ZSTD Content-Encoding](https://chromestatus.com/feature/6186023867908096)
 - [Headline Driven Development](https://www.spakhm.com/headline-development)
-- [Smoking cannabis is now legal in Germany](https://www.theguardian.com/world/2024/apr/01/germany-legal-cannabis-weed-laws-personal-use)
-- [Not so fast, Mr. Fourier](https://lcamtuf.substack.com/p/not-so-fast-mr-fourier)
-- [Will Any Crap We Put into Graphene Increase Its Electrocatalytic Effect? &lpar;2020&rpar;](https://pubs.acs.org/doi/pdf/10.1021/acsnano.9b00184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
