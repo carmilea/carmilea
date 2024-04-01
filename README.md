@@ -59,8 +59,8 @@
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 - [OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
 - [Google to delete records from Incognito tracking](https://www.bbc.com/news/business-68709119)
-- [AI used well can restore middle class jobs [pdf]](https://www.nber.org/system/files/working_papers/w32140/w32140.pdf)
 - [What even is a JSON number?](https://blog.trl.sn/blog/what-is-a-json-number/)
+- [3Blue1Brown: But what is a GPT? [video]](https://www.youtube.com/watch?v=wjZofJX0v4M)
 <!-- BLOG-POST-LIST:END -->
 
 ---
