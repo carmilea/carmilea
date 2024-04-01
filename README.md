@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Turkish local elections: Opposition stuns Erdogan with historic victory](https://www.bbc.com/news/world-europe-68704375)
 - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
+- [Materialious – A Modern Interface for Invidious](https://github.com/WardPearce/Materialious)
 - [Self-driving semi-trucks are coming to America&#39;s highways](https://www.washingtonpost.com/technology/2024/03/31/autonomous-semi-truck-jobs-regulation/)
-- [Unraveling Havana syndrome: New evidence implicates the GRU&#39;s assassination unit](https://theins.ru/en/politics/270425)
 - [Programming Beyond Paradigms](https://www.micahcantor.com/blog/programming-beyond-paradigms/)
+- [InternLM2](https://arxiv.org/abs/2403.17297)
 <!-- BLOG-POST-LIST:END -->
 
 ---
