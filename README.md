@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First human case of avian flu in Texas](https://www.politico.com/news/2024/04/01/first-human-avian-flu-case-texas-00149949)
+- [Could the cosmos, in fact, be conscious?](https://www.heraldscotland.com/business_hq/24222253.mind-blowing-theory-god-may-spark-radical-new-21st-century-religion/)
+- [Ketogenic Diet Intervention on Metabolic and Psychiatric Health](https://www.sciencedirect.com/science/article/pii/S0165178124001513)
 - [The Wi-Fi only works when it&#39;s raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 - [OpenAI removes Sam Altman&#39;s ownership of its Startup Fund](https://www.reuters.com/technology/openai-removes-sam-altmans-ownership-its-startup-fund-2024-04-01/)
-- [Demographics Professor Warns That by 2531, Everyone in Japan Will Be Named Sato](https://www.spoon-tamago.com/2531-sato-surname-problem/)
-- [Ask HN: Which tools are the best for internet safety for kids?](https://news.ycombinator.com/item?id=39895644)
-- [Show HN: DN$ – an innovative, ad-supported DNS resolver](https://github.com/tedkim97/adcache)
 <!-- BLOG-POST-LIST:END -->
 
 ---
