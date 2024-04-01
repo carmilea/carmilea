@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Xzbot: Notes, honeypot, and exploit demo for the xz backdoor &lpar;CVE-2024-3094&rpar;](https://github.com/amlweems/xzbot)
-- [Why Vim uses hjkl keys as arrow keys](https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys)
-- [Error Handling in Baby Toys](https://brainbaking.com/post/2024/04/error-handling-in-baby-toys/)
-- [What Caused the Red Sea Submarine Cable Cuts?](https://www.kentik.com/blog/what-caused-the-red-sea-submarine-cable-cuts/)
-- [The Tale of Daniel](https://www.hillelwayne.com/post/tale-of-daniel/)
+- [The Wi-Fi only works when it&#39;s raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
+- [OpenAI removes Sam Altman&#39;s ownership of its Startup Fund](https://www.reuters.com/technology/openai-removes-sam-altmans-ownership-its-startup-fund-2024-04-01/)
+- [Demographics Professor Warns That by 2531, Everyone in Japan Will Be Named Sato](https://www.spoon-tamago.com/2531-sato-surname-problem/)
+- [Ask HN: Which tools are the best for internet safety for kids?](https://news.ycombinator.com/item?id=39895644)
+- [Show HN: DN$ – an innovative, ad-supported DNS resolver](https://github.com/tedkim97/adcache)
 <!-- BLOG-POST-LIST:END -->
 
 ---
