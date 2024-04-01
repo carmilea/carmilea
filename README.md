@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Technical debt is an invisible $1.52T problem](https://www.wsj.com/tech/personal-tech/the-invisible-1-52-trillion-problem-clunky-old-software-f5cbba27)
-- [Smart devices are turning out to be a poor investment](https://www.androidpolice.com/smart-devices-poor-investment/)
-- [A deep dive into email deliverability in 2024](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
-- [Is social media behind an epidemic of teenage mental illness?](https://www.nature.com/articles/d41586-024-00902-2)
-- [Overview: What are Cpp2 and cppfront? How do I get and build cppfront?](https://hsutter.github.io/cppfront/)
+- [Programming Beyond Paradigms](https://www.micahcantor.com/blog/programming-beyond-paradigms/)
+- [Amazon Bets $150B on Data Centers Required for AI Boom](https://www.bnnbloomberg.ca/amazon-bets-150-billion-on-data-centers-required-for-ai-boom-1.2052777)
+- [XZ Backdoor: Times, damned times, and scams](https://rheaeve.substack.com/p/xz-backdoor-times-damned-times-and)
+- [Free shipping isn’t really free &lpar;2020&rpar;](https://www.theatlantic.com/magazine/archive/2020/01/the-myth-of-free-shipping/603031/)
+- [Adaptive RAG – dynamic retrieval methods adjustment](https://arxiv.org/abs/2403.14403)
 <!-- BLOG-POST-LIST:END -->
 
 ---
