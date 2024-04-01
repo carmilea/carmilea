@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m Too Old](https://www.amazingcto.com/im-too-old/)
+- [Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/)
 - [Headline Driven Development](https://www.spakhm.com/headline-development)
 - [Smoking cannabis is now legal in Germany](https://www.theguardian.com/world/2024/apr/01/germany-legal-cannabis-weed-laws-personal-use)
 - [Not so fast, Mr. Fourier](https://lcamtuf.substack.com/p/not-so-fast-mr-fourier)
-- [Will Any Crap We Put into Graphene Increase Its Electrocatalytic Effect? &lpar;2020&rpar;](https://pubs.acs.org/doi/pdf/10.1021/acsnano.9b00184)
-- [What we know about the xz Utils backdoor that almost infected the world](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
