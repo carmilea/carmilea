@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [April Fools Day Request for Comments](https://en.wikipedia.org/wiki/April_Fools%27_Day_Request_for_Comments)
-- [Battle of the Redis Forks?](https://www.thestack.technology/battle-of-the-redis-forks-begins/)
-- [Postgres vs. File Systems: A Performance Comparison &lpar;2022&rpar;](https://www.enterprisedb.com/blog/postgres-vs-file-systems-performance-comparison)
-- [What someone learnt when they replaced their Pi 5 with a Amazon mini desktop](https://arstechnica.com/gadgets/2024/04/what-i-learned-when-i-replaced-my-cheap-pi-5-pc-with-a-no-name-amazon-mini-desktop/)
-- [Wait, does America suddenly have a record number of bees?](https://www.washingtonpost.com/business/2024/03/29/bees-boom-colony-collapse/)
+- [Xzbot: Notes, honeypot, and exploit demo for the xz backdoor &lpar;CVE-2024-3094&rpar;](https://github.com/amlweems/xzbot)
+- [Why Vim uses hjkl keys as arrow keys](https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys)
+- [Error Handling in Baby Toys](https://brainbaking.com/post/2024/04/error-handling-in-baby-toys/)
+- [What Caused the Red Sea Submarine Cable Cuts?](https://www.kentik.com/blog/what-caused-the-red-sea-submarine-cable-cuts/)
+- [The Tale of Daniel](https://www.hillelwayne.com/post/tale-of-daniel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
