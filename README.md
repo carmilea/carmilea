@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AT&amp;T Addresses Recent Data Set Released on the Dark Web](https://about.att.com/story/2024/addressing-data-set-released-on-dark-web.html)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
+- [Google to delete records from Incognito tracking](https://www.bbc.com/news/business-68709119)
 - [AI used well can restore middle class jobs [pdf]](https://www.nber.org/system/files/working_papers/w32140/w32140.pdf)
-- [&#39;Vaccine lettuce&#39; bill &lpar;food containing a vaccine is a drug&rpar; passes in Tennessee](https://www.wsmv.com/2024/03/29/vaccine-lettuce-bill-aiming-classify-food-containing-vaccine-drug-passes-tennessee/)
-- [The Pirate Bay&#39;s Oldest Torrent Is Now 20 Years Old](https://torrentfreak.com/the-pirate-bays-oldest-torrent-is-now-20-years-old-240401/)
-- [A biased test kept Black people from getting a kidney transplant](https://apnews.com/article/kidney-transplant-race-black-inequity-bias-d4fabf2f3a47aab2fe8e18b2a5432135)
+- [What even is a JSON number?](https://blog.trl.sn/blog/what-is-a-json-number/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
