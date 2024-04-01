@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Headline Driven Development](https://www.spakhm.com/headline-development)
+- [Smoking cannabis is now legal in Germany](https://www.theguardian.com/world/2024/apr/01/germany-legal-cannabis-weed-laws-personal-use)
+- [Not so fast, Mr. Fourier](https://lcamtuf.substack.com/p/not-so-fast-mr-fourier)
+- [Will Any Crap We Put into Graphene Increase Its Electrocatalytic Effect? &lpar;2020&rpar;](https://pubs.acs.org/doi/pdf/10.1021/acsnano.9b00184)
 - [What we know about the xz Utils backdoor that almost infected the world](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/)
-- [U.S. Navy Submarine First in World Fitted with Silent Caterpillar Drive](https://www.navalnews.com/naval-news/2024/04/u-s-navy-submarine-first-in-world-fitted-with-silent-caterpillar-drive/)
-- [First-in-human implantation of bionic device to halt Crohn&#39;s disease](https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/)
-- [Hosting a Public Website on MS-DOS](https://fsturmat.net/blog/04202022/)
-- [The Hearts of the Super Nintendo](https://fabiensanglard.net/snes_hearts/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
