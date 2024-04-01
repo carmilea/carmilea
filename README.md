@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Climate Pulse](https://pulse.climate.copernicus.eu/)
 - [Killing the Messenger: My Final Days Working at a Disaster](https://nymag.com/intelligencer/2024/02/killing-the-messenger-my-final-days-working-at-a-disaster.html)
+- [I upgraded my iBook G4 to have an SSD](https://boredzo.org/blog/archives/2024-03-31/i-upgraded-my-ibook-g4-to-have-an-ssd)
 - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
 - [LLM Paper on Mamba MoE: Jamba Technical Report from AI2](https://arxiv.org/abs/2403.19887)
-- [Materialious – A Modern Interface for Invidious](https://github.com/WardPearce/Materialious)
 <!-- BLOG-POST-LIST:END -->
 
 ---
