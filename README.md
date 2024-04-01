@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Beam.cloud &lpar;YC W22&rpar; is hiring engineers to build a GPU container runtime](https://www.ycombinator.com/companies/beam/jobs/9fKNUsT-software-engineer)
+- [Ask HN: Freelance website builders/maintainers, what&#39;s in your 2024 toolkit?](https://news.ycombinator.com/item?id=39893160)
 - [Ask HN: What is the current &lpar;Apr. 2024&rpar; gold standard of running an LLM locally?](https://news.ycombinator.com/item?id=39893142)
 - [Century-Old Stone &quot;Tsunami Stones&quot; Dot Japan&#39;s Coastline](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
 - [Chrome Feature: ZSTD Content-Encoding](https://chromestatus.com/feature/6186023867908096)
-- [Headline Driven Development](https://www.spakhm.com/headline-development)
 <!-- BLOG-POST-LIST:END -->
 
 ---
