@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [People liked AI art – when they thought it was made by humans](https://www.sciencenorway.no/art-artificial-intelligence/people-liked-ai-art-when-they-thought-it-was-made-by-humans/2337417)
-- [Has Trust in the U.S. Intelligence Community Eroded?](https://www.rand.org/pubs/research_reports/RRA864-1.html)
-- [FuryGpu – Hello](https://www.furygpu.com/blog/hello)
-- [Good information still pollutes the epistemic ecosystem](https://ronghosh.substack.com/p/good-information-still-pollutes-the)
-- [First human case of avian flu in Texas](https://www.politico.com/news/2024/04/01/first-human-avian-flu-case-texas-00149949)
+- [AT&amp;T Addresses Recent Data Set Released on the Dark Web](https://about.att.com/story/2024/addressing-data-set-released-on-dark-web.html)
+- [AI used well can restore middle class jobs [pdf]](https://www.nber.org/system/files/working_papers/w32140/w32140.pdf)
+- [&#39;Vaccine lettuce&#39; bill &lpar;food containing a vaccine is a drug&rpar; passes in Tennessee](https://www.wsmv.com/2024/03/29/vaccine-lettuce-bill-aiming-classify-food-containing-vaccine-drug-passes-tennessee/)
+- [The Pirate Bay&#39;s Oldest Torrent Is Now 20 Years Old](https://torrentfreak.com/the-pirate-bays-oldest-torrent-is-now-20-years-old-240401/)
+- [A biased test kept Black people from getting a kidney transplant](https://apnews.com/article/kidney-transplant-race-black-inequity-bias-d4fabf2f3a47aab2fe8e18b2a5432135)
 <!-- BLOG-POST-LIST:END -->
 
 ---
