@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [People liked AI art – when they thought it was made by humans](https://www.sciencenorway.no/art-artificial-intelligence/people-liked-ai-art-when-they-thought-it-was-made-by-humans/2337417)
+- [Has Trust in the U.S. Intelligence Community Eroded?](https://www.rand.org/pubs/research_reports/RRA864-1.html)
+- [FuryGpu – Hello](https://www.furygpu.com/blog/hello)
+- [Good information still pollutes the epistemic ecosystem](https://ronghosh.substack.com/p/good-information-still-pollutes-the)
 - [First human case of avian flu in Texas](https://www.politico.com/news/2024/04/01/first-human-avian-flu-case-texas-00149949)
-- [Could the cosmos, in fact, be conscious?](https://www.heraldscotland.com/business_hq/24222253.mind-blowing-theory-god-may-spark-radical-new-21st-century-religion/)
-- [Ketogenic Diet Intervention on Metabolic and Psychiatric Health](https://www.sciencedirect.com/science/article/pii/S0165178124001513)
-- [The Wi-Fi only works when it&#39;s raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
-- [OpenAI removes Sam Altman&#39;s ownership of its Startup Fund](https://www.reuters.com/technology/openai-removes-sam-altmans-ownership-its-startup-fund-2024-04-01/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
