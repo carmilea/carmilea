@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Climate Pulse](https://pulse.climate.copernicus.eu/)
-- [Killing the Messenger: My Final Days Working at a Disaster](https://nymag.com/intelligencer/2024/02/killing-the-messenger-my-final-days-working-at-a-disaster.html)
-- [I upgraded my iBook G4 to have an SSD](https://boredzo.org/blog/archives/2024-03-31/i-upgraded-my-ibook-g4-to-have-an-ssd)
-- [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
-- [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
+- [What we know about the xz Utils backdoor that almost infected the world](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/)
+- [U.S. Navy Submarine First in World Fitted with Silent Caterpillar Drive](https://www.navalnews.com/naval-news/2024/04/u-s-navy-submarine-first-in-world-fitted-with-silent-caterpillar-drive/)
+- [First-in-human implantation of bionic device to halt Crohn&#39;s disease](https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/)
+- [Hosting a Public Website on MS-DOS](https://fsturmat.net/blog/04202022/)
+- [The Hearts of the Super Nintendo](https://fabiensanglard.net/snes_hearts/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
