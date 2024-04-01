@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beam.cloud &lpar;YC W22&rpar; is hiring engineers to build a GPU container runtime](https://www.ycombinator.com/companies/beam/jobs/9fKNUsT-software-engineer)
-- [Ask HN: Freelance website builders/maintainers, what&#39;s in your 2024 toolkit?](https://news.ycombinator.com/item?id=39893160)
-- [Ask HN: What is the current &lpar;Apr. 2024&rpar; gold standard of running an LLM locally?](https://news.ycombinator.com/item?id=39893142)
-- [Century-Old Stone &quot;Tsunami Stones&quot; Dot Japan&#39;s Coastline](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
-- [Chrome Feature: ZSTD Content-Encoding](https://chromestatus.com/feature/6186023867908096)
+- [April Fools Day Request for Comments](https://en.wikipedia.org/wiki/April_Fools%27_Day_Request_for_Comments)
+- [Battle of the Redis Forks?](https://www.thestack.technology/battle-of-the-redis-forks-begins/)
+- [Postgres vs. File Systems: A Performance Comparison &lpar;2022&rpar;](https://www.enterprisedb.com/blog/postgres-vs-file-systems-performance-comparison)
+- [What someone learnt when they replaced their Pi 5 with a Amazon mini desktop](https://arstechnica.com/gadgets/2024/04/what-i-learned-when-i-replaced-my-cheap-pi-5-pc-with-a-no-name-amazon-mini-desktop/)
+- [Wait, does America suddenly have a record number of bees?](https://www.washingtonpost.com/business/2024/03/29/bees-boom-colony-collapse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
