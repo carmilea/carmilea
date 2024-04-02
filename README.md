@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microchess for the Kim-1 &lpar;2006&rpar;](http://www.benlo.com/microchess/index.html)
 - [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
-- [Banning Open Weight Models Would Be a Disaster](https://rbren.substack.com/p/banning-open-weight-models-would)
+- [Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs](https://allenai.github.io/lumos/)
+- [Banning open weight models would be a disaster](https://rbren.substack.com/p/banning-open-weight-models-would)
 - [Building GCC 1.27 &lpar;first GCC with x86 support&rpar; &lpar;2019&rpar;](http://kristerw.blogspot.com/2019/01/building-gcc-127.html)
-- [A16Z blogs are just glorified marketing](https://frankzliu.com/blog/a16z-blogs-are-just-glorified-marketing)
-- [Get a person at the IRS](https://gist.github.com/getaaron/323466af3f489f0e5c55411c930d43a2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
