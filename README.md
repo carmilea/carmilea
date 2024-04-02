@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Copilot pane as annoying as Clippy may pop up in Windows 11](https://www.theregister.com/2024/03/05/copilot_update_windows_11_beta_build/)
 - [Microchess for the Kim-1 &lpar;2006&rpar;](http://www.benlo.com/microchess/index.html)
 - [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
 - [Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs](https://allenai.github.io/lumos/)
 - [Banning open weight models would be a disaster](https://rbren.substack.com/p/banning-open-weight-models-would)
-- [Building GCC 1.27 &lpar;first GCC with x86 support&rpar; &lpar;2019&rpar;](http://kristerw.blogspot.com/2019/01/building-gcc-127.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
