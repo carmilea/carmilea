@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vision Transformers Are Overrated](https://frankzliu.com/blog/vision-transformers-are-overrated)
+- [A path out of bloat: A Linux built for VMs](https://www.theregister.com/2024/02/23/linux_built_for_a_vm/)
+- [WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
+- [OpenAI&#39;s comment to the NTIA on open model weights](https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
-- [Google to delete records from Incognito tracking](https://www.bbc.com/news/business-68709119)
-- [What even is a JSON number?](https://blog.trl.sn/blog/what-is-a-json-number/)
-- [But what is a GPT?  Visual intro to Transformers [video]](https://www.youtube.com/watch?v=wjZofJX0v4M)
 <!-- BLOG-POST-LIST:END -->
 
 ---
