@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to stream PostgreSQL CDC to Kafka and use Propel to get an instant API](https://www.propeldata.com/blog/postgresql-cdc-to-kafka)
-- [Artificio de Juanelo](https://en.wikipedia.org/wiki/Artificio_de_Juanelo)
-- [Konrad Zuse](http://www.xn--plankalkl-x9a.de/)
-- [Amazon Ditches &#39;Just Walk Out&#39; Checkouts at Its Grocery Stores](https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116)
-- [The secret world of competitive bass fishing cheaters &lpar;2014&rpar;](https://grantland.com/features/bass-fishing-cheaters/)
+- [Hunterbrook Media Launch](https://hntrbrk.com/dear-reader/)
+- [GPT Chats with T-Mobile Support to get discounts](https://home.chat4u.io/)
+- [ComfyUI workflows from prototype to production](https://modal.com/blog/comfyui-prototype-to-production)
+- [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
+- [Study uses wearables to show that physical activity lengthens REM latency](https://news.utexas.edu/2024/04/01/move-more-sleep-better-ut-study-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
