@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Redis&#39; license change and forking are a mess that everybody can feel bad about](https://arstechnica.com/information-technology/2024/04/redis-license-change-and-forking-are-a-mess-that-everybody-can-feel-bad-about/)
-- [GNU Make Standard Library v1.2.2 released](https://github.com/jgrahamc/gmsl/releases/tag/v1.2.2)
 - [The Disarray Inside Boeing&#39;s 737 Factory Before the Door Plug Blowout](https://www.wsj.com/business/airlines/disarray-boeing-factory-door-plug-blowout-f063e27e)
 - [Ask HN: Is AngelList Legit?](https://news.ycombinator.com/item?id=39903773)
 - [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
+- [Show HN: OneUptime – open-source Datadog Alternative](https://github.com/OneUptime/oneuptime)
 <!-- BLOG-POST-LIST:END -->
 
 ---
