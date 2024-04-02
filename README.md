@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The end of Google Podcasts is in June if you&#39;re not in the US](https://notes.ghed.in/posts/2024/end-google-podcast-rest-of-world/)
 - [Emerge &lpar;YC W21&rpar; is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 - [Ask HN: Is AngelList Legit?](https://news.ycombinator.com/item?id=39903773)
 - [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
 - [Show HN: OneUptime – open-source Datadog Alternative](https://github.com/OneUptime/oneuptime)
-- [KraftCloud](https://github.com/unikraft/unikraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
