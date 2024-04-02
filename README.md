@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Creo &lpar;YC W24&rpar; – Build Internal Tools with React/NextJS](https://news.ycombinator.com/item?id=39907073)
-- [Canoo spent double its annual revenue on the CEO&#39;s private jet](https://techcrunch.com/2024/04/01/canoo-spent-double-its-annual-revenue-on-the-ceos-private-jet-in-2023/)
-- [Snottite](https://en.wikipedia.org/wiki/Snottite)
-- [Ask HN: Is a masters in ML worth it?](https://news.ycombinator.com/item?id=39906536)
-- [Building a Compiler in 25 Days [video]](https://www.youtube.com/watch?v=l3AeN4wQirE)
+- [Everything I Know About SSDs &lpar;2019&rpar;](https://kcall.co.uk/ssd/index.html)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [CityGaussian: Real-Time High-Quality Large-Scale Scene Rendering with Gaussians](https://dekuliutesla.github.io/citygs/)
+- [Population tipping point could arrive by 2030](https://www.science.org/content/article/population-tipping-point-could-arrive-2030)
+- [3D + 2D: Testing out my cross-platform graphics engine](https://news.ycombinator.com/item?id=39907845)
 <!-- BLOG-POST-LIST:END -->
 
 ---
