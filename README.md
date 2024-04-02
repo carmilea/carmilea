@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [XZ: Repo maintainer Lasse Collin responding on LKML](https://lkml.org/lkml/2024/3/30/188)
 - [Microchess for the Kim-1 &lpar;2006&rpar;](http://www.benlo.com/microchess/index.html)
 - [Myscaledb: Open-source SQL vector database to build AI apps using SQL](https://github.com/myscale/myscaledb)
 - [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
 - [Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs](https://allenai.github.io/lumos/)
-- [Banning open weight models would be a disaster](https://rbren.substack.com/p/banning-open-weight-models-would)
 <!-- BLOG-POST-LIST:END -->
 
 ---
