@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis&#39; license change and forking are a mess that everybody can feel bad about](https://arstechnica.com/information-technology/2024/04/redis-license-change-and-forking-are-a-mess-that-everybody-can-feel-bad-about/)
-- [The Disarray Inside Boeing&#39;s 737 Factory Before the Door Plug Blowout](https://www.wsj.com/business/airlines/disarray-boeing-factory-door-plug-blowout-f063e27e)
+- [Emerge &lpar;YC W21&rpar; is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 - [Ask HN: Is AngelList Legit?](https://news.ycombinator.com/item?id=39903773)
 - [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
 - [Show HN: OneUptime – open-source Datadog Alternative](https://github.com/OneUptime/oneuptime)
+- [KraftCloud](https://github.com/unikraft/unikraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
