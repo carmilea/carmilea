@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla releases Q1 2024 deliveries: disastrous results](https://electrek.co/2024/04/02/tesla-releases-q1-2024-deliveries-disastrous-results/)
-- [South Africa aims to be global supplier of HTR fuel](https://www.world-nuclear-news.org/Articles/South-Africa-aims-to-be-global-supplier-of-HTR-fue?feed=feed)
-- [DECT NR+: A technical dive into non-cellular 5G](https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/dect-nr-a-technical-dive-into-non-cellular-5g)
-- [Trusting Trust: Ken Thompson on supply chain security &lpar;1984&rpar;](https://dl.acm.org/doi/pdf/10.1145/358198.358210)
-- [Yahoo is buying Artifact, the AI news app from the Instagram co-founders](https://www.theverge.com/2024/4/2/24118436/yahoo-news-artifact-acquisition)
+- [Launch HN: Creo &lpar;YC W24&rpar; – Build Internal Tools with React/NextJS](https://news.ycombinator.com/item?id=39907073)
+- [Canoo spent double its annual revenue on the CEO&#39;s private jet](https://techcrunch.com/2024/04/01/canoo-spent-double-its-annual-revenue-on-the-ceos-private-jet-in-2023/)
+- [Snottite](https://en.wikipedia.org/wiki/Snottite)
+- [Ask HN: Is a masters in ML worth it?](https://news.ycombinator.com/item?id=39906536)
+- [Building a Compiler in 25 Days [video]](https://www.youtube.com/watch?v=l3AeN4wQirE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
