@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Roe AI &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer)
 - [Anonymous public voicemail inbox](https://afterthebeep.tel/)
 - [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
-- [Botswana threatens to deport 20k elephants to Germany](https://www.politico.eu/article/botswana-president-mokgweetsi-masisi-threatens-deport-20000-elephants-germany/)
 - [Prototype to production with ComfyUI](https://modal.com/blog/comfyui-prototype-to-production)
 - [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
 <!-- BLOG-POST-LIST:END -->
