@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to choose the desktop platform and tech for desktop app development?](https://news.ycombinator.com/item?id=39911674)
+- [Show HN: A Product Hunt Alternative for Indie Makers](https://www.indiehunting.com/)
+- [Discovering Devin, Devika, and OpenDevin](https://news.opensauced.pizza/open-source-projects-that-are-gaining-steam-that-you-havent-heard-of/)
+- [Science Fiction and the Death of the Sun](https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/)
 - [Roe AI &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer)
-- [Anonymous public voicemail inbox](https://afterthebeep.tel/)
-- [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
-- [Prototype to production with ComfyUI](https://modal.com/blog/comfyui-prototype-to-production)
-- [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
