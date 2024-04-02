@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything I Know About SSDs &lpar;2019&rpar;](https://kcall.co.uk/ssd/index.html)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [CityGaussian: Real-Time High-Quality Large-Scale Scene Rendering with Gaussians](https://dekuliutesla.github.io/citygs/)
-- [Population tipping point could arrive by 2030](https://www.science.org/content/article/population-tipping-point-could-arrive-2030)
-- [3D + 2D: Testing out my cross-platform graphics engine](https://news.ycombinator.com/item?id=39907845)
+- [How to stream PostgreSQL CDC to Kafka and use Propel to get an instant API](https://www.propeldata.com/blog/postgresql-cdc-to-kafka)
+- [Artificio de Juanelo](https://en.wikipedia.org/wiki/Artificio_de_Juanelo)
+- [Konrad Zuse](http://www.xn--plankalkl-x9a.de/)
+- [Amazon Ditches &#39;Just Walk Out&#39; Checkouts at Its Grocery Stores](https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116)
+- [The secret world of competitive bass fishing cheaters &lpar;2014&rpar;](https://grantland.com/features/bass-fishing-cheaters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
