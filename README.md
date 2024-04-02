@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Managing Hallucinations in Your LLM Apps](https://www.youtube.com/watch?v=0SI8Q5qX3zA)
 - [Beginner&#39;s Guide to Vector Embeddings - SingleStore](https://www.youtube.com/watch?v=cwiMxi3M9QU)
 - [Demo- Getting started with SingleStore Data Platform](https://www.youtube.com/watch?v=5cCiQGPdRW8)
 - [Into the SingleVerse From Burnout to Breakthrough: A Conversation with Dr. Neha Sangwan](https://www.youtube.com/watch?v=xOn9OOg9jfA)
 - [Migrate from PlanetScale to SingleStore Free Tier in Just 5 Mins!](https://www.youtube.com/watch?v=8b7t8uKAYN4)
-- [How ZoomInfo Drives 24x Faster Intent Into Action with SingleStore](https://www.youtube.com/watch?v=uUvVmV123KI)
 <!-- YOUTUBE:END -->
 
 
