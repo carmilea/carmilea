@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hunterbrook Media Launch](https://hntrbrk.com/dear-reader/)
-- [GPT Chats with T-Mobile Support to get discounts](https://home.chat4u.io/)
-- [ComfyUI workflows from prototype to production](https://modal.com/blog/comfyui-prototype-to-production)
+- [Anonymous public voicemail inbox](https://afterthebeep.tel/)
+- [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
+- [Botswana threatens to deport 20k elephants to Germany](https://www.politico.eu/article/botswana-president-mokgweetsi-masisi-threatens-deport-20000-elephants-germany/)
+- [Prototype to production with ComfyUI](https://modal.com/blog/comfyui-prototype-to-production)
 - [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
-- [Study uses wearables to show that physical activity lengthens REM latency](https://news.utexas.edu/2024/04/01/move-more-sleep-better-ut-study-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
