@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [XZ: Repo maintainer Lasse Collin responding on LKML](https://lkml.org/lkml/2024/3/30/188)
-- [Microchess for the Kim-1 &lpar;2006&rpar;](http://www.benlo.com/microchess/index.html)
-- [Myscaledb: Open-source SQL vector database to build AI apps using SQL](https://github.com/myscale/myscaledb)
-- [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
-- [Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs](https://allenai.github.io/lumos/)
+- [Redis&#39; license change and forking are a mess that everybody can feel bad about](https://arstechnica.com/information-technology/2024/04/redis-license-change-and-forking-are-a-mess-that-everybody-can-feel-bad-about/)
+- [GNU Make Standard Library v1.2.2 released](https://github.com/jgrahamc/gmsl/releases/tag/v1.2.2)
+- [The Disarray Inside Boeing&#39;s 737 Factory Before the Door Plug Blowout](https://www.wsj.com/business/airlines/disarray-boeing-factory-door-plug-blowout-f063e27e)
+- [Ask HN: Is AngelList Legit?](https://news.ycombinator.com/item?id=39903773)
+- [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
