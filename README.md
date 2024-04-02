@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla releases Q1 2024 deliveries: disastrous results](https://electrek.co/2024/04/02/tesla-releases-q1-2024-deliveries-disastrous-results/)
+- [South Africa aims to be global supplier of HTR fuel](https://www.world-nuclear-news.org/Articles/South-Africa-aims-to-be-global-supplier-of-HTR-fue?feed=feed)
+- [DECT NR+: A technical dive into non-cellular 5G](https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/dect-nr-a-technical-dive-into-non-cellular-5g)
+- [Trusting Trust: Ken Thompson on supply chain security &lpar;1984&rpar;](https://dl.acm.org/doi/pdf/10.1145/358198.358210)
 - [Yahoo is buying Artifact, the AI news app from the Instagram co-founders](https://www.theverge.com/2024/4/2/24118436/yahoo-news-artifact-acquisition)
-- [Python Cloudflare Workers](https://blog.cloudflare.com/python-workers)
-- [Emerge &lpar;YC W21&rpar; is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
-- [Ask HN: Is AngelList Legit?](https://news.ycombinator.com/item?id=39903773)
-- [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
