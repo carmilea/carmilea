@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is it safe to use __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED?](https://github.com/reactjs/react.dev/issues/3896)
-- [Why will my device lose access to Libby &amp; OverDrive April 15, 2024?](https://help.overdrive.com/en-us/2271.htm)
+- [The Rise and Fall of 3M&#39;s Floppy Disk](https://spectrum.ieee.org/3m-floppy)
+- [Eight U.S. States Now Have Plans to Ban Sales of Gas-Powered Cars](https://money.com/states-banning-gas-powered-cars/)
 - [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
 - [The Threat of Discontinued Software &lpar;2021&rpar;](https://almy.us/softwaredeath.html)
 - [7.4 earthquake in Taiwan, 34km depth](https://earthquake.usgs.gov/earthquakes/map/?extent=16.34123,-246.42334&extent=28.51697,-223.43994)
