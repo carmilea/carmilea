@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HP Disables Printer Functionality Until You Install the HP Smart App](https://twitter.com/Schappi/status/1775384892970533208/photo/1)
-- [Annin Robotics AR4, open plan low cost 6DOF desktop industrial robot](https://www.anninrobotics.com)
 - [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)
 - [The Rise and Fall of 3M&#39;s Floppy Disk](https://spectrum.ieee.org/3m-floppy)
 - [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
+- [7.4 earthquake in Taiwan, 34km depth](https://earthquake.usgs.gov/earthquakes/map/?extent=16.34123,-246.42334&extent=28.51697,-223.43994)
+- [ReALM: Reference Resolution as Language Modeling](https://arxiv.org/abs/2403.20329)
 <!-- BLOG-POST-LIST:END -->
 
 ---
