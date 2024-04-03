@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is observability so expensive?](https://mattklein123.dev/2024/04/03/observability-cost-crisis/)
+- [Land Use Policies Make Urban Childcare Expensive and Rare](https://www.ryanpuzycki.com/p/who-cares-about-childcare)
+- [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
+- [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
+- [Is Economic Deprivation the Real Cause of the Adolescent Mental Health Crisis?](https://www.afterbabel.com/p/financial-crisis)
 - [WhatsApp Outage](https://downdetector.in/status/whatsapp/)
-- [John Barth, writer who pushed storytelling limits, dies at 93](https://www.nytimes.com/2024/04/02/books/john-barth-dead.html)
-- [Unreal Engine 5 multi-threaded rendering in the browser with WASM](https://temple.tiwsamples.com/)
-- [Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
