@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Long-term nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages)
-- [Every Dunder Method in Python](https://www.pythonmorsels.com/every-dunder-method/)
-- [PyTorch Library for Running LLM on Intel CPU and GPU](https://github.com/intel-analytics/ipex-llm)
-- [Redict 7.3.0, a copyleft fork of Redis, is now available](https://redict.io/posts/2024-04-03-redict-7.3.0-released/)
-- [Show HN: I made a site to find top YouTube courses, bypassing expensive courses](https://www.eduhunt.be/)
+- [Blood, sweat, and water: paper analytical devices track health and environment](https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html)
+- [Judge Sides with Tech Billionaires in CA Forever Case Against Family Ranchers](https://gizmodo.com/judge-sides-tech-billionaires-california-forever-case-1851381794)
+- [Opera becomes the first major browser with built-in access to local AI models](https://press.opera.com/2024/04/03/ai-feature-drops-local-llms/)
+- [The Solution of the Zodiac Killer&#39;s 340-Character Cipher](https://arxiv.org/abs/2403.17350)
+- [LiveView Is Best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
