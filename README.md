@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YC&#39;s Winter 2024 Demo Day confirms that we are indeed in an AI bubble](https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/)
-- [Discord obliterated a YouTube view count record. It may have been an accident](https://mashable.com/article/discord-loot-boxes-april-fools-youtube-video-record-breaking)
-- [Land Use Policies Make Urban Childcare Expensive and Rare](https://www.ryanpuzycki.com/p/who-cares-about-childcare)
-- [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
-- [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
+- [&#39;HR is not your friend&#39;: why frustrated workers are hiring reps of their own](https://www.theguardian.com/money/2024/apr/03/human-resources-hr-departments-us-workers)
+- [How to hack the Jacksonville Jaguars&#39; jumbotron](https://arstechnica.com/security/2024/04/how-to-hack-the-jacksonville-jaguars-jumbotron-and-end-up-in-jail-for-220-years/)
+- [The Triumph of Philanthropy &lpar;2018&rpar;](https://www.laphamsquarterly.org/roundtable/triumph-philanthropy)
+- [Pitcairn Island Immigration &lpar;current population ~ 50&rpar;](https://www.immigration.pn)
+- [Logik: Open-source FPGA toolchain by Zero ASIC](https://github.com/zeroasiccorp/logik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
