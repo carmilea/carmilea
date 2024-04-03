@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Cheat Sheet to Database Access Control: PostgreSQL](https://thenewstack.io/a-cheat-sheet-to-database-access-control-postgresql/)
+- [Russian influence network in Europe: list of promoted politicians](https://insightnews.media/russian-influence-network-in-europe-list-of-promoted-politicians/)
+- [Redict 7.3.0, a copyleft fork of Redis, is now available](https://redict.io/posts/2024-04-03-redict-7.3.0-released/)
+- [Cups vs. grams: why can&#39;t American and British cooks agree on food measurements?](https://www.theguardian.com/food/2024/apr/02/cups-v-grams-why-cant-american-and-british-cooks-agree-on-food-measurements)
 - [Reflections on Distrusting xz](https://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
 - [Dali owner file petition to cap liability in Baltimore bridge collapse at $43.7M](https://www.mdd.uscourts.gov/news/matter-petition-grace-ocean-private-limited-et-al-exoneration-or-limitation-liability-2024-04)
-- [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)
-- [The Rise and Fall of 3M&#39;s Floppy Disk](https://spectrum.ieee.org/3m-floppy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
