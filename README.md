@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YC&#39;s Winter 2024 Demo Day confirms that we are indeed in an AI bubble](https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/)
+- [Discord obliterated a YouTube view count record. It may have been an accident](https://mashable.com/article/discord-loot-boxes-april-fools-youtube-video-record-breaking)
 - [Land Use Policies Make Urban Childcare Expensive and Rare](https://www.ryanpuzycki.com/p/who-cares-about-childcare)
 - [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
 - [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
-- [Is Economic Deprivation the Real Cause of the Adolescent Mental Health Crisis?](https://www.afterbabel.com/p/financial-crisis)
-- [WhatsApp Outage](https://downdetector.in/status/whatsapp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
