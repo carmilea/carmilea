@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTofu may be showing us the wrong way to fork](https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html)
-- [An EMP or Solar Incident Could Result in Blackout Warfare](https://www.usni.org/magazines/proceedings/2023/february/emp-or-solar-incident-could-result-blackout-warfare)
-- [Iowa sysadmin pleads guilty to 33-year identity theft of former co-worker](https://www.theregister.com/2024/04/03/sysadmin_33_year_id_theft/)
-- [Billie Eilish, Pearl Jam, 200 artists say AI poses threat to their livelihoods](https://arstechnica.com/information-technology/2024/04/billie-eilish-pearl-jam-200-artists-say-ai-poses-existential-threat-to-their-livelihoods/)
-- [Oregon governor signs bill recriminalizing drug possession into law](https://apnews.com/article/oregon-drug-recriminalization-law-signed-governor-96e36ed60e999572bbf47c160b412a73)
+- [Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
+- [NASA, Lockheed Martin Working to Resolve Artemis II Orion Issues](https://www.nasaspaceflight.com/2024/04/resolving-artemis-ii-issues/)
+- [Putting an xz Backdoor Payload in a Valid RSA Key](https://rya.nc/xz-valid-n.html)
+- [The Texas Triangle: A rising megaregion unlike all others](https://kinder.rice.edu/urbanedge/texas-triangle-rising-megaregion-unlike-all-others)
+- [The Quintic, the Icosahedron, and Elliptic Curves [pdf]](https://www.ams.org/journals/notices/202404/rnoti-p444.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
