@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Cheat Sheet to Database Access Control: PostgreSQL](https://thenewstack.io/a-cheat-sheet-to-database-access-control-postgresql/)
+- [Reflections on Distrusting xz](https://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
 - [Dali owner file petition to cap liability in Baltimore bridge collapse at $43.7M](https://www.mdd.uscourts.gov/news/matter-petition-grace-ocean-private-limited-et-al-exoneration-or-limitation-liability-2024-04)
-- [OpenTelemetry Is Too Complicated](https://www.datanami.com/2024/04/01/opentelemetry-is-too-complicated-victoriametrics-says/)
 - [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)
 - [The Rise and Fall of 3M&#39;s Floppy Disk](https://spectrum.ieee.org/3m-floppy)
-- [Python Project-Local Virtualenv Management Redux](https://hynek.me/articles/python-virtualenv-redux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
