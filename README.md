@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is observability so expensive?](https://mattklein123.dev/2024/04/03/observability-cost-crisis/)
+- [WhatsApp Outage](https://downdetector.in/status/whatsapp/)
+- [John Barth, writer who pushed storytelling limits, dies at 93](https://www.nytimes.com/2024/04/02/books/john-barth-dead.html)
+- [Unreal Engine 5 multi-threaded rendering in the browser with WASM](https://temple.tiwsamples.com/)
 - [Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
-- [NASA, Lockheed Martin Working to Resolve Artemis II Orion Issues](https://www.nasaspaceflight.com/2024/04/resolving-artemis-ii-issues/)
-- [Putting an xz Backdoor Payload in a Valid RSA Key](https://rya.nc/xz-valid-n.html)
-- [The Texas Triangle: A rising megaregion unlike all others](https://kinder.rice.edu/urbanedge/texas-triangle-rising-megaregion-unlike-all-others)
-- [The Quintic, the Icosahedron, and Elliptic Curves [pdf]](https://www.ams.org/journals/notices/202404/rnoti-p444.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
