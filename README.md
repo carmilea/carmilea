@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
+- [Choose your weapon: Survival strategies for depressed AI academics](https://ar5iv.labs.arxiv.org/html/2304.06035)
 - [7.4 earthquake in Taiwan, 34km depth](https://earthquake.usgs.gov/earthquakes/map/?extent=16.34123,-246.42334&extent=28.51697,-223.43994)
 - [ReALM: Reference Resolution as Language Modeling](https://arxiv.org/abs/2403.20329)
-- [Science Fiction and the Death of the Sun](https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/)
-- [Roe AI &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer)
-- [Anonymous public voicemail inbox](https://afterthebeep.tel/)
+- [Show HN: Generate admin apps without writing a single line of code](https://github.com/dashpresshq/dashpress)
 <!-- BLOG-POST-LIST:END -->
 
 ---
