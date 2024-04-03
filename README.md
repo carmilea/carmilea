@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ХУЯ – A Russian Programming Language](https://github.com/tsoding/good_training_language)
+- [Fisker&#39;s Ocean SUV investigated for doors that won&#39;t open](https://techcrunch.com/2024/04/03/fisker-ocean-suv-federal-investigation-safety-doors/)
+- [GCC 14 Boasts Nice ASCII Art for Visualizing Buffer Overflows](https://www.phoronix.com/news/GCC-14-fanalyzer-Enhancements)
 - [Truemetrics &lpar;YC S23&rpar; Hiring a Back End Engineer](https://www.ycombinator.com/companies/truemetrics/jobs/rZNg2Ai-backend-engineer-with-strong-python-and-aws-skills)
-- [&#39;Lavender&#39;: The AI machine directing Israel&#39;s bombing spree in Gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza/)
-- [&#39;Mini liver&#39; will grow in person&#39;s own lymph node in bold new trial](https://www.nature.com/articles/d41586-024-00975-z)
-- [Blood, sweat, and water: paper analytical devices track health and environment](https://phys.org/news/2024-03-blood-paper-analytical-devices-easily.html)
-- [&#39;The Manipulaters&#39; Improve Phishing, Still Fail at Opsec](https://krebsonsecurity.com/2024/04/the-manipulaters-improve-phishing-still-fail-at-opsec/)
+- [Workspace Auto Suspend](https://www.singlestore.com/blog/workspace-auto-suspend)
 <!-- BLOG-POST-LIST:END -->
 
 ---
