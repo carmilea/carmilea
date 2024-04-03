@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ХУЯ – A Russian Programming Language](https://github.com/tsoding/good_training_language)
-- [Fisker&#39;s Ocean SUV investigated for doors that won&#39;t open](https://techcrunch.com/2024/04/03/fisker-ocean-suv-federal-investigation-safety-doors/)
-- [GCC 14 Boasts Nice ASCII Art for Visualizing Buffer Overflows](https://www.phoronix.com/news/GCC-14-fanalyzer-Enhancements)
-- [Truemetrics &lpar;YC S23&rpar; Hiring a Back End Engineer](https://www.ycombinator.com/companies/truemetrics/jobs/rZNg2Ai-backend-engineer-with-strong-python-and-aws-skills)
-- [Workspace Auto Suspend](https://www.singlestore.com/blog/workspace-auto-suspend)
+- [OpenTofu may be showing us the wrong way to fork](https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html)
+- [An EMP or Solar Incident Could Result in Blackout Warfare](https://www.usni.org/magazines/proceedings/2023/february/emp-or-solar-incident-could-result-blackout-warfare)
+- [Iowa sysadmin pleads guilty to 33-year identity theft of former co-worker](https://www.theregister.com/2024/04/03/sysadmin_33_year_id_theft/)
+- [Billie Eilish, Pearl Jam, 200 artists say AI poses threat to their livelihoods](https://arstechnica.com/information-technology/2024/04/billie-eilish-pearl-jam-200-artists-say-ai-poses-existential-threat-to-their-livelihoods/)
+- [Oregon governor signs bill recriminalizing drug possession into law](https://apnews.com/article/oregon-drug-recriminalization-law-signed-governor-96e36ed60e999572bbf47c160b412a73)
 <!-- BLOG-POST-LIST:END -->
 
 ---
