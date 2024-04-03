@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it safe to use __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED?](https://github.com/reactjs/react.dev/issues/3896)
+- [Why will my device lose access to Libby &amp; OverDrive April 15, 2024?](https://help.overdrive.com/en-us/2271.htm)
 - [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
 - [The Threat of Discontinued Software &lpar;2021&rpar;](https://almy.us/softwaredeath.html)
-- [Choose your weapon: Survival strategies for depressed AI academics](https://ar5iv.labs.arxiv.org/html/2304.06035)
 - [7.4 earthquake in Taiwan, 34km depth](https://earthquake.usgs.gov/earthquakes/map/?extent=16.34123,-246.42334&extent=28.51697,-223.43994)
-- [ReALM: Reference Resolution as Language Modeling](https://arxiv.org/abs/2403.20329)
 <!-- BLOG-POST-LIST:END -->
 
 ---
