@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Full EU chat control proposal attack on digital privacy and encryption](https://www.patrick-breyer.de/en/full-chat-control-proposal-leaked-attack-on-digital-privacy-of-correspondence-and-secure-encryption/)
+- [HP Disables Printer Functionality Until You Install the HP Smart App](https://twitter.com/Schappi/status/1775384892970533208/photo/1)
+- [Annin Robotics AR4, open plan low cost 6DOF desktop industrial robot](https://www.anninrobotics.com)
 - [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)
 - [The Rise and Fall of 3M&#39;s Floppy Disk](https://spectrum.ieee.org/3m-floppy)
 - [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
-- [The Threat of Discontinued Software &lpar;2021&rpar;](https://almy.us/softwaredeath.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
