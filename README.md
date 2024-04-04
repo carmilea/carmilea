@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD Unveils Their Embedded+ Architecture, Ryzen Embedded with Versal Together](https://www.anandtech.com/show/21254/amd-unveils-their-embedded-architecture-ryzen-embedded-with-versal-together)
-- [Radxa&#39;s SATA HAT makes compact Pi 5 NAS](https://www.jeffgeerling.com/blog/2024/radxas-sata-hat-makes-compact-pi-5-nas)
-- [PFAS Used in Grease-Proofing Agents for Food Packaging No Longer Sold](https://www.fda.gov/food/cfsan-constituent-updates/fda-announces-pfas-used-grease-proofing-agents-food-packaging-no-longer-being-sold-us)
-- [HTTP/2 Continuation Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
-- [The Great American Rail-Trail](https://www.railstotrails.org/site/greatamericanrailtrail/content/route/)
+- [Markprompt &lpar;YC W24&rpar; – Stripe for customer support – is hiring an engineer in SF](https://markprompt.com/jobs)
+- [Vercel: Improved Infrastructure Pricing](https://vercel.com/blog/improved-infrastructure-pricing)
+- [PfSense Software Embraces Change: A Strategic Migration to the Linux Kernel](https://www.netgate.com/blog/pfsense-software-embraces-change-a-strategic-migration-to-the-linux-kernel)
+- [Open Source Infrastructure must be a publicly funded service](https://matrix.org/blog/2024/04/open-source-publicly-funded-service/)
+- [Kelsey Hightower: Developers, what marketing strategies work on you?](https://twitter.com/kelseyhightower/status/1775913633064894669)
 <!-- BLOG-POST-LIST:END -->
 
 ---
