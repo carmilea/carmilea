@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cally: Accessibility Statement](https://simonwillison.net/2024/Apr/2/cally-accessibility-statement/)
+- [Washington State judge blocks use of AI-enhanced video as evidence](https://www.nbcnews.com/news/us-news/washington-state-judge-blocks-use-ai-enhanced-video-evidence-rcna141932)
 - [Sei &lpar;YC W22&rpar; Is Hiring Principal Engineers &lpar;On-Site, India&rpar;](https://www.ycombinator.com/companies/sei/jobs/EjEA2P9-lead-principal-software-engineer)
-- [Australian lab-grown meat cultured from quail cells hits the market in Singapore](https://www.abc.net.au/news/2024-04-04/australian-lab-grown-meat-from-quail-cells-in-singapore/103667178)
-- [Tired of late messages from your boss? A new bill aims to make it illegal](https://www.msn.com/en-us/news/other/tired-of-late-messages-from-your-boss-a-new-bill-aims-to-make-it-illegal/ar-BB1l2niL)
+- [Oh, Cool, Our $69K Fisker Ocean Is Only Worth $21K Now](https://www.edmunds.com/car-news/fisker-ocean-appraisal-long-term-update.html)
 - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
-- [Ask HN: Has Anyone Trained a personal LLM using their personal notes?](https://news.ycombinator.com/item?id=39925316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
