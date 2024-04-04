@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uv saves Home Assistant 215 compute hours per month](https://developers.home-assistant.io/blog/2024/04/03/build-images-with-uv/)
+- [macOS Finder is still bad at network file copies](https://www.jeffgeerling.com/blog/2024/macos-finder-still-bad-network-file-copies)
+- [Henry Darger](https://www.moma.org/artists/28600)
 - [Show HN: I&#39;ve built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
-- [Pitcairn Island Immigration](https://www.immigration.pn)
-- [YC&#39;s Winter 2024 Demo Day confirms that we are indeed in an AI bubble](https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/)
 - [Logik: Open-source FPGA toolchain by Zero ASIC](https://github.com/zeroasiccorp/logik)
-- [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
