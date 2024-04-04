@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Seattle shuts down gifted program for having too many white and Asian students](https://nypost.com/2024/04/03/us-news/seattle-public-schools-shuts-down-gifted-and-talented-program/)
+- [GenZ software engineers, according to older colleagues](https://newsletter.pragmaticengineer.com/p/genz)
 - [Cally: Accessibility Statement](https://simonwillison.net/2024/Apr/2/cally-accessibility-statement/)
 - [Washington State judge blocks use of AI-enhanced video as evidence](https://www.nbcnews.com/news/us-news/washington-state-judge-blocks-use-ai-enhanced-video-evidence-rcna141932)
 - [Sei &lpar;YC W22&rpar; Is Hiring Principal Engineers &lpar;On-Site, India&rpar;](https://www.ycombinator.com/companies/sei/jobs/EjEA2P9-lead-principal-software-engineer)
-- [Oh, Cool, Our $69K Fisker Ocean Is Only Worth $21K Now](https://www.edmunds.com/car-news/fisker-ocean-appraisal-long-term-update.html)
-- [Online Encyclopedia of Integer Sequences](https://oeis.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
