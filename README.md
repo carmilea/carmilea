@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uv saves Home Assistant 215 compute hours per month](https://developers.home-assistant.io/blog/2024/04/03/build-images-with-uv/)
-- [macOS Finder is still bad at network file copies](https://www.jeffgeerling.com/blog/2024/macos-finder-still-bad-network-file-copies)
+- [7 out of every 10 Fentanyl pills seized by DEA contain a lethal dose](https://www.dea.gov/onepill)
+- [Andres Freund and the xz backdoor](https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html)
+- [A disk so full, it couldn&#39;t be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
 - [Henry Darger](https://www.moma.org/artists/28600)
-- [Show HN: I&#39;ve built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
-- [Logik: Open-source FPGA toolchain by Zero ASIC](https://github.com/zeroasiccorp/logik)
+- [PHP: The Right Way](https://phptherightway.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
