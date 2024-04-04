@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deaths at a California skydiving center, but the jumps go on](https://www.sfgate.com/bayarea/article/deaths-california-lodi-skydiving-center-19361603.php)
-- [&#39;AI-assisted genocide&#39;: Israel reportedly used database for Gaza kill lists](https://www.aljazeera.com/news/2024/4/4/ai-assisted-genocide-israel-reportedly-used-database-for-gaza-kill-lists)
+- [AMD Unveils Their Embedded+ Architecture, Ryzen Embedded with Versal Together](https://www.anandtech.com/show/21254/amd-unveils-their-embedded-architecture-ryzen-embedded-with-versal-together)
+- [Radxa&#39;s SATA HAT makes compact Pi 5 NAS](https://www.jeffgeerling.com/blog/2024/radxas-sata-hat-makes-compact-pi-5-nas)
 - [PFAS Used in Grease-Proofing Agents for Food Packaging No Longer Sold](https://www.fda.gov/food/cfsan-constituent-updates/fda-announces-pfas-used-grease-proofing-agents-food-packaging-no-longer-being-sold-us)
-- [The V8 Sandbox](https://v8.dev/blog/sandbox)
-- [Vigilante Hacker Took Down North Korea&#39;s Internet. Now He&#39;s Taking Off His Mask](https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/)
+- [HTTP/2 Continuation Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
+- [The Great American Rail-Trail](https://www.railstotrails.org/site/greatamericanrailtrail/content/route/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
