@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Government funds pilot project for heated sand energy storage](https://www.pv-magazine.com/2024/04/04/us-government-funds-pilot-project-for-heated-sand-energy-storage/)
 - [Washington&#39;s Lottery forced to pull site after creating AI porn of lotto user](https://mynorthwest.com/3956403/rantz-washingtons-lottery-ai-porn-user/)
 - [HOPE Deepfakes](https://hope.net/deepfakes.html)
 - [US court blocks EPA order to eliminate PFAS in plastic containers](https://www.thenewlede.org/2024/03/us-court-blocks-epa-order-to-eliminate-pfas-in-plastic-containers/)
 - [SableDb – a key/value store that uses RocksDB and Redis API &lpar;written in Rust&rpar;](https://github.com/sabledb-io/sabledb)
-- [Ask HN: Happy 404 Day. Whats your favorite 404 error page?](https://news.ycombinator.com/item?id=39928950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
