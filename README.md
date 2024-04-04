@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sei &lpar;YC W22&rpar; Is Hiring Principal Engineers &lpar;On-Site, India&rpar;](https://www.ycombinator.com/companies/sei/jobs/EjEA2P9-lead-principal-software-engineer)
+- [Australian lab-grown meat cultured from quail cells hits the market in Singapore](https://www.abc.net.au/news/2024-04-04/australian-lab-grown-meat-from-quail-cells-in-singapore/103667178)
 - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
 - [Ask HN: Has Anyone Trained a personal LLM using their personal notes?](https://news.ycombinator.com/item?id=39925316)
 - [A disk so full, it couldn&#39;t be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
-- [The Software Architecture of Palia](https://www.singularity6.com/news/software-architecture-of-palia)
-- [Henry Darger](https://www.moma.org/artists/28600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
