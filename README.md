@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DataStax has acquired Langflow to accelerate generative AI development](https://www.datastax.com/blog/datastax-acquires-langflow-to-accelerate-generative-ai-app-development)
-- [Rule-Based NLP System Beats LLM for Analysis of Psychiatric Clinical Notes](https://arxiv.org/abs/2403.17199)
-- [Roblox Boss: We Don&#39;t Exploit Child Labor, We&#39;re Giving Kids in &quot;The Slum&quot; a Job](https://kotaku.com/roblox-boss-kids-child-labor-exploit-indonesia-slum-1851387795)
-- [The Design Philosophy of Great Tables &lpar;Python&rpar;](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
-- [Reaching LLaMA2 Performance with 0.1M Dollars](https://research.myshell.ai/jetmoe)
+- [Amazon&#39;s &quot;Just Walk Out&quot; checkout turns out to be 1000 workers watching you shop](https://boingboing.net/2024/04/03/amazons-ai-powered-just-walk-outcheckout-option-turns-out-to-be-1000-workers-watching-you-shop.html)
+- [Language Models as Compilers](https://arxiv.org/abs/2404.02575)
+- [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift)
+- [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
+- [Ask HN: Most efficient way to fine-tune an LLM in 2024?](https://news.ycombinator.com/item?id=39934480)
 <!-- BLOG-POST-LIST:END -->
 
 ---
