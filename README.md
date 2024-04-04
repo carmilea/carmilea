@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DataStax has acquired Langflow to accelerate generative AI development](https://www.datastax.com/blog/datastax-acquires-langflow-to-accelerate-generative-ai-app-development)
+- [Rule-Based NLP System Beats LLM for Analysis of Psychiatric Clinical Notes](https://arxiv.org/abs/2403.17199)
+- [Roblox Boss: We Don&#39;t Exploit Child Labor, We&#39;re Giving Kids in &quot;The Slum&quot; a Job](https://kotaku.com/roblox-boss-kids-child-labor-exploit-indonesia-slum-1851387795)
 - [The Design Philosophy of Great Tables &lpar;Python&rpar;](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
-- [Coding agent in the IDE: Generate task plan and get plan-aware code completion](https://twitter.com/itamar_mar/status/1775888498220028041)
-- [DataStax just bought our startup Langflow](https://medium.com/logspace/langflow-datastax-better-together-1b7462cebc4d)
-- [Markprompt &lpar;YC W24&rpar; – Stripe for customer support – is hiring an engineer in SF](https://markprompt.com/jobs)
-- [Open Source Infrastructure must be a publicly funded service](https://matrix.org/blog/2024/04/open-source-publicly-funded-service/)
+- [Reaching LLaMA2 Performance with 0.1M Dollars](https://research.myshell.ai/jetmoe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
