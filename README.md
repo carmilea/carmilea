@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A universal Helm Chart for deploying applications into K8s/OpenShift](https://github.com/nixys/nxs-universal-chart)
+- [Keeping your data from Apple is harder than expected](https://www.aalto.fi/en/news/keeping-your-data-from-apple-is-harder-than-expected)
+- [Dark Star at 50: How a micro-budget student film changed sci-fi forever](https://www.bbc.com/culture/article/20240403-dark-star-at-50-how-a-micro-budget-student-film-changed-sci-fi-forever)
 - [Sei &lpar;YC W22&rpar; Is Hiring Principal Engineers &lpar;On-Site, India&rpar;](https://www.ycombinator.com/companies/sei/jobs/EjEA2P9-lead-principal-software-engineer)
 - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
-- [Show HN: Logfmtxx – Header only C++23 structured logging library using logfmt](https://github.com/linkdd/logfmtxx)
-- [Ask HN: Has Anyone Trained a personal LLM using their personal notes?](https://news.ycombinator.com/item?id=39925316)
-- [A disk so full, it couldn&#39;t be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
