@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Government funds pilot project for heated sand energy storage](https://www.pv-magazine.com/2024/04/04/us-government-funds-pilot-project-for-heated-sand-energy-storage/)
-- [Washington&#39;s Lottery forced to pull site after creating AI porn of lotto user](https://mynorthwest.com/3956403/rantz-washingtons-lottery-ai-porn-user/)
-- [HOPE Deepfakes](https://hope.net/deepfakes.html)
-- [US court blocks EPA order to eliminate PFAS in plastic containers](https://www.thenewlede.org/2024/03/us-court-blocks-epa-order-to-eliminate-pfas-in-plastic-containers/)
-- [SableDb – a key/value store that uses RocksDB and Redis API &lpar;written in Rust&rpar;](https://github.com/sabledb-io/sabledb)
+- [Deaths at a California skydiving center, but the jumps go on](https://www.sfgate.com/bayarea/article/deaths-california-lodi-skydiving-center-19361603.php)
+- [&#39;AI-assisted genocide&#39;: Israel reportedly used database for Gaza kill lists](https://www.aljazeera.com/news/2024/4/4/ai-assisted-genocide-israel-reportedly-used-database-for-gaza-kill-lists)
+- [PFAS Used in Grease-Proofing Agents for Food Packaging No Longer Sold](https://www.fda.gov/food/cfsan-constituent-updates/fda-announces-pfas-used-grease-proofing-agents-food-packaging-no-longer-being-sold-us)
+- [The V8 Sandbox](https://v8.dev/blog/sandbox)
+- [Vigilante Hacker Took Down North Korea&#39;s Internet. Now He&#39;s Taking Off His Mask](https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
