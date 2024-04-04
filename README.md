@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [7 out of every 10 Fentanyl pills seized by DEA contain a lethal dose](https://www.dea.gov/onepill)
-- [Andres Freund and the xz backdoor](https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html)
+- [Online Encyclopedia of Integer Sequences](https://oeis.org/)
+- [Ask HN: Has Anyone Trained a personal LLM using their personal notes?](https://news.ycombinator.com/item?id=39925316)
 - [A disk so full, it couldn&#39;t be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
+- [The Software Architecture of Palia](https://www.singularity6.com/news/software-architecture-of-palia)
 - [Henry Darger](https://www.moma.org/artists/28600)
-- [PHP: The Right Way](https://phptherightway.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
