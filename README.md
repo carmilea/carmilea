@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [German state ditches Microsoft for Linux and LibreOffice](https://www.zdnet.com/article/german-state-ditches-microsoft-for-linux-and-libreoffice/)
+- [Roku files patent to inject ads via HDMI](https://patents.google.com/patent/US20230388589A1/en)
 - [Reclaim Protocol &lpar;YC W21&rpar; Is Hiring BDRs](https://www.workatastartup.com/jobs/65710)
-- [Apple Explores Home Robotics as Potential &#39;Next Big Thing&#39;](https://www.bloomberg.com/news/articles/2024-04-03/apple-explores-home-robots-after-abandoning-car-efforts)
+- [Apple explores home robotics as potential &#39;next big thing&#39;](https://www.bloomberg.com/news/articles/2024-04-03/apple-explores-home-robots-after-abandoning-car-efforts)
 - [Roblox executive says children making money on the platform is &#39;a gift&#39;](https://www.theverge.com/2024/4/4/24121420/roblox-child-exploitation-robux-child-labor)
-- [Language models as compilers: Simulating pseudocode execution](https://arxiv.org/abs/2404.02575)
-- [Fake AI law firms are sending fake DMCA threats to generate fake SEO gains](https://arstechnica.com/gadgets/2024/04/fake-ai-law-firms-are-sending-fake-dmca-threats-to-generate-fake-seo-gains/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
