@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Design Philosophy of Great Tables &lpar;Python&rpar;](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
+- [Coding agent in the IDE: Generate task plan and get plan-aware code completion](https://twitter.com/itamar_mar/status/1775888498220028041)
+- [DataStax just bought our startup Langflow](https://medium.com/logspace/langflow-datastax-better-together-1b7462cebc4d)
 - [Markprompt &lpar;YC W24&rpar; – Stripe for customer support – is hiring an engineer in SF](https://markprompt.com/jobs)
-- [Vercel: Improved Infrastructure Pricing](https://vercel.com/blog/improved-infrastructure-pricing)
-- [PfSense Software Embraces Change: A Strategic Migration to the Linux Kernel](https://www.netgate.com/blog/pfsense-software-embraces-change-a-strategic-migration-to-the-linux-kernel)
 - [Open Source Infrastructure must be a publicly funded service](https://matrix.org/blog/2024/04/open-source-publicly-funded-service/)
-- [Kelsey Hightower: Developers, what marketing strategies work on you?](https://twitter.com/kelseyhightower/status/1775913633064894669)
 <!-- BLOG-POST-LIST:END -->
 
 ---
