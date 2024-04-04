@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to take down production with a single Helm command](https://ounapuu.ee/posts/2024/04/04/helm-rollbljat/)
 - [Sei &lpar;YC W22&rpar; Is Hiring Principal Engineers &lpar;On-Site, India&rpar;](https://www.ycombinator.com/companies/sei/jobs/EjEA2P9-lead-principal-software-engineer)
 - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
 - [Show HN: Logfmtxx – Header only C++23 structured logging library using logfmt](https://github.com/linkdd/logfmtxx)
+- [Ask HN: Has Anyone Trained a personal LLM using their personal notes?](https://news.ycombinator.com/item?id=39925316)
 - [A disk so full, it couldn&#39;t be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
 <!-- BLOG-POST-LIST:END -->
 
