@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon&#39;s &quot;Just Walk Out&quot; checkout turns out to be 1000 workers watching you shop](https://boingboing.net/2024/04/03/amazons-ai-powered-just-walk-outcheckout-option-turns-out-to-be-1000-workers-watching-you-shop.html)
-- [Language Models as Compilers](https://arxiv.org/abs/2404.02575)
-- [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift)
-- [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
-- [Ask HN: Most efficient way to fine-tune an LLM in 2024?](https://news.ycombinator.com/item?id=39934480)
+- [Reclaim Protocol &lpar;YC W21&rpar; Is Hiring BDRs](https://www.workatastartup.com/jobs/65710)
+- [Apple Explores Home Robotics as Potential &#39;Next Big Thing&#39;](https://www.bloomberg.com/news/articles/2024-04-03/apple-explores-home-robots-after-abandoning-car-efforts)
+- [Roblox executive says children making money on the platform is &#39;a gift&#39;](https://www.theverge.com/2024/4/4/24121420/roblox-child-exploitation-robux-child-labor)
+- [Language models as compilers: Simulating pseudocode execution](https://arxiv.org/abs/2404.02575)
+- [Fake AI law firms are sending fake DMCA threats to generate fake SEO gains](https://arstechnica.com/gadgets/2024/04/fake-ai-law-firms-are-sending-fake-dmca-threats-to-generate-fake-seo-gains/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
