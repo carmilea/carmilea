@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [C but Safe](https://xr0.dev/)
 - [German state ditches Microsoft for Linux and LibreOffice](https://www.zdnet.com/article/german-state-ditches-microsoft-for-linux-and-libreoffice/)
-- [Roku files patent to inject ads via HDMI](https://patents.google.com/patent/US20230388589A1/en)
+- [Mario meets Pareto: multi-objective optimization of Mario Kart builds](https://www.mayerowitz.io/blog/mario-meets-pareto)
+- [The Crescendo Multi-Turn LLM Jailbreak Attack](https://crescendo-the-multiturn-jailbreak.github.io//)
 - [Reclaim Protocol &lpar;YC W21&rpar; Is Hiring BDRs](https://www.workatastartup.com/jobs/65710)
-- [Apple explores home robotics as potential &#39;next big thing&#39;](https://www.bloomberg.com/news/articles/2024-04-03/apple-explores-home-robots-after-abandoning-car-efforts)
-- [Roblox executive says children making money on the platform is &#39;a gift&#39;](https://www.theverge.com/2024/4/4/24121420/roblox-child-exploitation-robux-child-labor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
