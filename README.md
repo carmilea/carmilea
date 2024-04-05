@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wine 9.6 Adds Support for Advanced AVX Features in Register Contexts](https://www.phoronix.com/news/Wine-9.6-Released)
-- [Breakthrough drug trial saw cancer vanish in every patient](https://www.euronews.com/health/2022/06/07/this-breakthrough-drug-trial-saw-cancer-vanish-in-every-patient)
-- [Angular and Wiz](https://blog.angular.io/angular-and-wiz-are-better-together-91e633d8cd5a?gi=a136e0cac466)
+- [Apple Updates App Store Guidelines to Permit Game Emulators, EU Music App Links](https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/)
+- [AI and the Problem of Knowledge Collapse](https://arxiv.org/abs/2404.03502)
+- [Breakthrough drug trial saw cancer vanish in every patient &lpar;2022&rpar;](https://www.euronews.com/health/2022/06/07/this-breakthrough-drug-trial-saw-cancer-vanish-in-every-patient)
 - [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
-- [BeeTrove – OpenAI GPTs Open-Source Dataset](https://beetrove.com/)
+- [Autonomous Overhead Powerline Recharging for Uninterrupted Drone Operations [video]](https://www.youtube.com/watch?v=C-uekD6VTIQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
