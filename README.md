@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Surveillance by the New Microsoft Outlook App](https://www.schneier.com/blog/archives/2024/04/surveillance-by-the-new-microsoft-outlook-app.html)
-- [Scientists investigate dead Antarctic penguins for bird flu](https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-investigate-thousands-dead-antarctic-penguins-bird-flu-2024-04-04/)
+- [Alcohol Use and Mortality Among Couples in US: Individual and Partner Effects](https://academic.oup.com/gerontologist/article-abstract/64/2/gnad101/7230161)
 - [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
 - [She slept with a violin on her pillow](https://www.nytimes.com/2024/04/04/arts/violin-italy-antonio-stradivari-ayoung-an.html)
 - [A Japanese hikikomori released a game after 6 years of development [video]](https://www.youtube.com/watch?v=LJBv_hvvbBg)
+- [OpenBSD 7.5 Released](https://www.openbsd.org/75.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
