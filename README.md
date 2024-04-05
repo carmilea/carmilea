@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Former University of Iowa Hospital employee used fake identity for 35 years](https://www.thegazette.com/crime-courts/former-university-of-iowa-hospital-employee-used-fake-identity-for-35-years/)
-- [Prostate cancer cases worldwide likely to double by 2040, analysis finds](https://www.theguardian.com/society/2024/apr/04/prostate-cancer-cases-worldwide-diagnoses-deaths-2040-study)
-- [C++ Coroutines Do Not Spark Joy](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39937666)
-- [Big Tech Is Trying to Prevent Debate About Its Social Harms](https://foreignpolicy.com/2024/04/04/big-tech-digital-trade-regulation/)
+- [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
+- [She Slept with a Violin on Her Pillow. Her Dreams Came True in Italy](https://www.nytimes.com/2024/04/04/arts/violin-italy-antonio-stradivari-ayoung-an.html)
+- [A Japanese Hikikomori &lpar;Shut in&rpar; Released a Game After 6 Years of Development [video]](https://www.youtube.com/watch?v=LJBv_hvvbBg)
+- [Former University of Iowa hospital employee used fake identity for 35 years](https://www.thegazette.com/crime-courts/former-university-of-iowa-hospital-employee-used-fake-identity-for-35-years/)
+- [C++ coroutines do not spark joy &lpar;2021&rpar;](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
