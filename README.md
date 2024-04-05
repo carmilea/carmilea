@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Would You Turn This Dial to Make the Freezer Colder?](https://kottke.org/24/03/how-would-you-turn-this-dial-to-make-the-freezer-colder)
-- [Facebook caught snooping on Snapchat users. What is going on?](https://tuta.com/blog/what-is-going-on-at-facebook)
+- [GitHub is down](https://www.githubstatus.com/incidents/bnkkbj90yhz6)
 - [Alcohol Use and Mortality Among Couples in US: Individual and Partner Effects](https://academic.oup.com/gerontologist/article-abstract/64/2/gnad101/7230161)
 - [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
 - [She slept with a violin on her pillow](https://www.nytimes.com/2024/04/04/arts/violin-italy-antonio-stradivari-ayoung-an.html)
+- [A Japanese hikikomori released a game after 6 years of development [video]](https://www.youtube.com/watch?v=LJBv_hvvbBg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
