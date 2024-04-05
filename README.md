@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Qwen1.5-32B: Fitting the Capstone of the Qwen1.5 Language Model Series](https://qwenlm.github.io/blog/qwen1.5-32b/)
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [The Rise and Fall of Silicon Graphics](https://www.abortretry.fail/p/the-rise-and-fall-of-silicon-graphics)
+- [Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
 - [Excellent succinct breakdown of the xz mess, from an OpenBSD developer](https://marc.info/?l=openbsd-misc&m=171227941117852&w=2)
 - [M 4.7 Earthquake 7 km N of Whitehouse Station, New Jersey – USGS](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
-- [Unleash Your Poetic Creativity with SingleStore](https://www.singlestore.com/blog/unleash-your-poetic-creativity-with-singlestore)
-- [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
 <!-- BLOG-POST-LIST:END -->
 
 ---
