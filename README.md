@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple cuts 600 jobs after dropping self-driving car plans](https://www.bbc.com/news/articles/c98rz9nq9rvo)
-- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- [Almost no one cares if your site is not on social media](https://notes.ghed.in/posts/2024/no-one-cares-site-on-social-media/)
-- [FFmpeg 7.0](https://ffmpeg.org//index.html#pr7.0)
-- [Shenzhen Issues Plan to Promote Development of HarmonyOS Operating System](http://chinascope.org/archives/34811)
+- [Amazon increased US plastic packaging despite global phase-out](https://www.theguardian.com/technology/2024/apr/04/amazon-increases-plastic-packaging-us)
+- [RubyGems is not vulnerable to the xz/liblzma backdoor](https://blog.rubygems.org/2024/03/31/rubygems-and-xz.html)
+- [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
+- [WindCon2024: A Joke Too Far for Many](https://blog.windscribe.com/a-joke-too-far/)
+- [Top Israeli spy chief exposes his true identity in online security lapse](https://www.theguardian.com/world/2024/apr/05/top-israeli-spy-chief-exposes-his-true-identity-in-online-security-lapse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
