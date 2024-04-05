@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple cuts 600 jobs after dropping self-driving car plans](https://www.bbc.com/news/articles/c98rz9nq9rvo)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- [The economics of American lotteries &lpar;poorest 1% zip codes spends 5% of income&rpar;](https://www.economist.com/graphic-detail/2024/04/02/the-economics-of-american-lotteries)
 - [Almost no one cares if your site is not on social media](https://notes.ghed.in/posts/2024/no-one-cares-site-on-social-media/)
-- [Infrastructure as code is not the answer &lpar;2022&rpar;](https://lukeshaughnessy.medium.com/infrastructure-as-code-is-not-the-answer-cfaf4882dcba)
-- [Ask HN: I want to put free WiFi in schools in my city, how do I go about it?](https://news.ycombinator.com/item?id=39940541)
+- [FFmpeg 7.0](https://ffmpeg.org//index.html#pr7.0)
+- [Shenzhen Issues Plan to Promote Development of HarmonyOS Operating System](http://chinascope.org/archives/34811)
 <!-- BLOG-POST-LIST:END -->
 
 ---
