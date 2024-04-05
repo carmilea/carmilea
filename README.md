@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Bourbon](https://www.seriouseats.com/serious-eats-guide-to-bourbon-what-is-bourbon-history-whiskey-cocktails)
-- [Zimbabwe launches a new currency again](https://www.wsj.com/world/africa/zimbabwe-launches-a-new-currencyagain-0696a104)
-- [Some Colleges Will Soon Charge $100k a Year. How Did This Happen?](https://www.nytimes.com/2024/04/05/your-money/paying-for-college/100k-college-cost-vanderbilt.html)
-- [Themes from &lpar;and Beyond&rpar; Altitude Cyber&#39;s 2023 Cybersecurity Year in Review](https://strategyofsecurity.com/themes-from-and-beyond-altitude-cybers-2023-cybersecurity-year-in-review/)
+- [Wine 9.6 Adds Support for Advanced AVX Features in Register Contexts](https://www.phoronix.com/news/Wine-9.6-Released)
+- [Breakthrough drug trial saw cancer vanish in every patient](https://www.euronews.com/health/2022/06/07/this-breakthrough-drug-trial-saw-cancer-vanish-in-every-patient)
+- [Angular and Wiz](https://blog.angular.io/angular-and-wiz-are-better-together-91e633d8cd5a?gi=a136e0cac466)
+- [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
 - [BeeTrove – OpenAI GPTs Open-Source Dataset](https://beetrove.com/)
 <!-- BLOG-POST-LIST:END -->
 
