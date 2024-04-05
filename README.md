@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qwen1.5-32B: Fitting the Capstone of the Qwen1.5 Language Model Series](https://qwenlm.github.io/blog/qwen1.5-32b/)
+- [Excellent succinct breakdown of the xz mess, from an OpenBSD developer](https://marc.info/?l=openbsd-misc&m=171227941117852&w=2)
 - [M 4.7 Earthquake 7 km N of Whitehouse Station, New Jersey – USGS](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
 - [Unleash Your Poetic Creativity with SingleStore](https://www.singlestore.com/blog/unleash-your-poetic-creativity-with-singlestore)
-- [RubyGems is not vulnerable to the xz/liblzma backdoor](https://blog.rubygems.org/2024/03/31/rubygems-and-xz.html)
 - [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
-- [Big Tech&#39;s underground race to buy AI training data](https://www.reuters.com/technology/inside-big-techs-underground-race-buy-ai-training-data-2024-04-05/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
