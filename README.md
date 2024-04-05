@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C but Safe](https://xr0.dev/)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39937666)
+- [Why You Shouldn&#39;t Use SQLite](https://www.hendrik-erz.de/post/why-you-shouldnt-use-sqlite)
+- [Executives Get Rich Making Poor Decisions – Cold Take [video]](https://www.youtube.com/watch?v=vuIitYcoSiE)
 - [German state ditches Microsoft for Linux and LibreOffice](https://www.zdnet.com/article/german-state-ditches-microsoft-for-linux-and-libreoffice/)
 - [Mario meets Pareto: multi-objective optimization of Mario Kart builds](https://www.mayerowitz.io/blog/mario-meets-pareto)
-- [The Crescendo Multi-Turn LLM Jailbreak Attack](https://crescendo-the-multiturn-jailbreak.github.io//)
-- [Reclaim Protocol &lpar;YC W21&rpar; Is Hiring BDRs](https://www.workatastartup.com/jobs/65710)
 <!-- BLOG-POST-LIST:END -->
 
 ---
