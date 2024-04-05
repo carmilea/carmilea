@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Source 4WD AI Robot Kit Compatible with Raspberry Pi Models 4 and 5](https://linuxgizmos.com/open-source-4wd-ai-robot-kit-compatible-with-raspberry-pi-models-4-and-5/)
-- [How does DNS work](https://cr.yp.to/djbdns/intro-dns.html)
-- [German state gov. ditching Windows for Linux, 30K workers migrating](https://arstechnica.com/information-technology/2024/04/german-state-gov-ditching-windows-for-linux-30k-workers-migrating/)
-- [Do Kwon and Terraform Labs found liable for $40B fraud](https://www.web3isgoinggreat.com/?id=do-kwon-and-terraform-labs-found-liable-for-40-billion-fraud)
-- [Roku looks into serving you ads on whatever you plug into its TVs](https://www.engadget.com/roku-looks-into-serving-you-ads-on-whatever-you-plug-into-its-tvs-120016754.html)
+- [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
+- [EV bargains to be found as Hertz sells off some of its electric cars](https://arstechnica.com/cars/2024/03/looking-for-cheap-evs-try-hertzs-ex-rental-cars/)
+- [Why the Arabic World Turned Away from Science &lpar;2011&rpar;](https://www.thenewatlantis.com/publications/why-the-arabic-world-turned-away-from-science)
+- [A stealth attack came close to compromising the Internet](https://www.economist.com/science-and-technology/2024/04/02/a-stealth-attack-came-close-to-compromising-the-worlds-computers)
+- [Data brokers are gearing up to fight privacy bills](https://www.theverge.com/2024/4/5/24122079/data-brokers-fisa-extension-nsa-section-702-surveillance-lexis-nexis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
