@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Childhood Trauma Can Help Us Be More Resilient](https://time.com/6962700/childhood-trauma-resilience-essay/)
+- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- [The economics of American lotteries &lpar;poorest 1% zip codes spends 5% of income&rpar;](https://www.economist.com/graphic-detail/2024/04/02/the-economics-of-american-lotteries)
+- [Almost no one cares if your site is not on social media](https://notes.ghed.in/posts/2024/no-one-cares-site-on-social-media/)
+- [Infrastructure as code is not the answer &lpar;2022&rpar;](https://lukeshaughnessy.medium.com/infrastructure-as-code-is-not-the-answer-cfaf4882dcba)
 - [Ask HN: I want to put free WiFi in schools in my city, how do I go about it?](https://news.ycombinator.com/item?id=39940541)
-- [Features I wish PostgreSQL had as a developer](https://www.bytebase.com/blog/features-i-wish-postgres-had/)
-- [Proton Mail says Outlook for Windows is Microsoft&#39;s new data collection service](https://www.ghacks.net/2024/01/12/proton-mail-says-that-the-new-outlook-app-for-windows-is-microsofts-new-data-collection-service/)
-- [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
