@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Updates App Store Guidelines to Permit Game Emulators, EU Music App Links](https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/)
-- [AI and the Problem of Knowledge Collapse](https://arxiv.org/abs/2404.03502)
-- [Breakthrough drug trial saw cancer vanish in every patient &lpar;2022&rpar;](https://www.euronews.com/health/2022/06/07/this-breakthrough-drug-trial-saw-cancer-vanish-in-every-patient)
-- [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
-- [Autonomous Overhead Powerline Recharging for Uninterrupted Drone Operations [video]](https://www.youtube.com/watch?v=C-uekD6VTIQ)
+- [Open-Source 4WD AI Robot Kit Compatible with Raspberry Pi Models 4 and 5](https://linuxgizmos.com/open-source-4wd-ai-robot-kit-compatible-with-raspberry-pi-models-4-and-5/)
+- [How does DNS work](https://cr.yp.to/djbdns/intro-dns.html)
+- [German state gov. ditching Windows for Linux, 30K workers migrating](https://arstechnica.com/information-technology/2024/04/german-state-gov-ditching-windows-for-linux-30k-workers-migrating/)
+- [Do Kwon and Terraform Labs found liable for $40B fraud](https://www.web3isgoinggreat.com/?id=do-kwon-and-terraform-labs-found-liable-for-40-billion-fraud)
+- [Roku looks into serving you ads on whatever you plug into its TVs](https://www.engadget.com/roku-looks-into-serving-you-ads-on-whatever-you-plug-into-its-tvs-120016754.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
