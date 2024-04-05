@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Themes from &lpar;and Beyond&rpar; Altitude Cyber&#39;s 2023 Cybersecurity Year in Review](https://strategyofsecurity.com/themes-from-and-beyond-altitude-cybers-2023-cybersecurity-year-in-review/)
+- [BeeTrove – OpenAI GPTs Open-Source Dataset](https://beetrove.com/)
+- [Favorites from our prompt engineering tournament](https://blog.promptlayer.com/our-favorite-prompts-from-the-tournament-b9d99464c1dc?gi=3dcc2105be1e)
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 - [The Rise and Fall of Silicon Graphics](https://www.abortretry.fail/p/the-rise-and-fall-of-silicon-graphics)
-- [Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
-- [Excellent succinct breakdown of the xz mess, from an OpenBSD developer](https://marc.info/?l=openbsd-misc&m=171227941117852&w=2)
-- [M 4.7 Earthquake 7 km N of Whitehouse Station, New Jersey – USGS](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
