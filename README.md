@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Surveillance by the New Microsoft Outlook App](https://www.schneier.com/blog/archives/2024/04/surveillance-by-the-new-microsoft-outlook-app.html)
+- [Scientists investigate dead Antarctic penguins for bird flu](https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-investigate-thousands-dead-antarctic-penguins-bird-flu-2024-04-04/)
 - [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
-- [She Slept with a Violin on Her Pillow. Her Dreams Came True in Italy](https://www.nytimes.com/2024/04/04/arts/violin-italy-antonio-stradivari-ayoung-an.html)
-- [A Japanese Hikikomori &lpar;Shut in&rpar; Released a Game After 6 Years of Development [video]](https://www.youtube.com/watch?v=LJBv_hvvbBg)
-- [Former University of Iowa hospital employee used fake identity for 35 years](https://www.thegazette.com/crime-courts/former-university-of-iowa-hospital-employee-used-fake-identity-for-35-years/)
-- [C++ coroutines do not spark joy &lpar;2021&rpar;](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
+- [She slept with a violin on her pillow](https://www.nytimes.com/2024/04/04/arts/violin-italy-antonio-stradivari-ayoung-an.html)
+- [A Japanese hikikomori released a game after 6 years of development [video]](https://www.youtube.com/watch?v=LJBv_hvvbBg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
