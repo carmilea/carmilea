@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After shooting, MSU promised safety. It delivered surveillance](https://statenews.com/article/2024/04/after-shooting-msu-promised-safety-it-delivered-surveillance?ct=content_open&cv=cbox_featured)
+- [Tridge Returns to Rsync](https://lwn.net/Articles/968732/)
 - [Trademark bully&#39;: Momofuku turns up heat on others selling &#39;chili crunch&#39;](https://www.theguardian.com/food/2024/apr/04/chili-crunch-trademark-momofuku-david-chang)
 - [Porn restrictions are leading to a VPN boom](https://www.popsci.com/technology/vpn-boom/)
-- [Do loud pipes save lives? &lpar;2021&rpar;](https://www.autoweek.com/news/industry-news/a35952569/loud-pipes-do-not-save-lives/)
 - [Ask HN: Which low-budget camera would you recommend for recording podcasts?](https://news.ycombinator.com/item?id=39954881)
+- [Teachers are using AI to grade essays. Some experts are raising ethical concerns](https://www.cnn.com/2024/04/06/tech/teachers-grading-ai/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
