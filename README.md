@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The 37signals Guide to Internal Communication](https://37signals.com/how-we-communicate)
 - [Why AWS Supports Valkey](https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/)
-- [Support for Windows 10 will end in October 2025](https://www.microsoft.com/en-sg/windows/end-of-support)
 - [What I think about when I edit](https://evaparish.com/blog/how-i-edit)
 - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 - [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust)
