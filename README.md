@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft blocks even more customization apps in Windows 11 version 24H2](https://www.neowin.net/news/microsoft-blocks-even-more-customization-apps-in-windows-11-version-24h2/)
 - [The &quot;Eisenhower matrix&quot; productivity hack](https://bigthink.com/the-learning-curve/why-the-eisenhower-matrix-is-a-fantastic-productivity-hack/)
-- [How Often Have You Seen Mostly or 100% AWOL Managers?](https://news.ycombinator.com/item?id=39949853)
 - [NASA knows what knocked Voyager 1 offline, but it will take a while to fix](https://arstechnica.com/space/2024/04/the-diagnosis-is-in-bad-memory-knocked-nasas-aging-voyager-1-offline/)
 - [Twenty years maintaining the WiX Toolset](https://robmensching.com/blog/posts/2024/04/05/twenty-years-maintaining-the-wix-toolset/)
 - [NIST researchers use cellphone compass to measure glucose](https://www.nist.gov/news-events/news/2024/04/nist-researchers-use-cellphone-compass-measure-tiny-concentrations)
