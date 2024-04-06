@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Brutalist Hacker News – A HN reader inspired by brutalist web design](https://brutalisthackernews.com)
+- [Engineers Pinpoint Cause of Voyager 1 Issue, Are Working on Solution](https://blogs.nasa.gov/voyager/2024/04/04/engineers-pinpoint-cause-of-voyager-1-issue-are-working-on-solution/)
+- [Ask HN: Which low-budget camera would you recommend for recording podcasts?](https://news.ycombinator.com/item?id=39954881)
+- [What is the most useful project you have worked on?](https://news.ycombinator.com/item?id=39954849)
 - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
-- [Facebook Is Censoring Stories about Climate Change and Illegal Raid](https://changelog.complete.org/archives/10657-facebook-is-censoring-stories-about-illegal-raid-in-marion-kansas)
-- [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting)
-- [A Theory of Composing Protocols](https://programming-journal.org/2023/7/6/)
-- [Zep AI &lpar;YC W24&rpar; Is Hiring a Founding Go Engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
