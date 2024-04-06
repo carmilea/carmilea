@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Doctors say children have been targeted by Israeli snipers in Gaza](https://www.theguardian.com/world/2024/apr/02/gaza-palestinian-children-killed-idf-israel-war)
-- [Micronics Announces Desktop SLS 3D Printer, Starting at $2,999 [video]](https://www.youtube.com/watch?v=hLqSaEiXzIU)
+- [NIST researchers use cellphone compass to measure glucose](https://www.nist.gov/news-events/news/2024/04/nist-researchers-use-cellphone-compass-measure-tiny-concentrations)
 - [Why CockroachDB doesn&#39;t use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
 - [C++ Insights – See your source code with the eyes of a compiler](https://github.com/andreasfertig/cppinsights)
 - [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
+- [Emacs bug: describe-key and lambda too poetic](https://yhetil.org/emacs-bugs/874jcgbekr.fsf@gmail.com/T/#u)
 <!-- BLOG-POST-LIST:END -->
 
 ---
