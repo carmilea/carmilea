@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What was an interesting project you started and finished over a weekend?](https://news.ycombinator.com/item?id=39951422)
 - [The 37signals Guide to Internal Communication](https://37signals.com/how-we-communicate)
 - [Why AWS Supports Valkey](https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/)
-- [What I think about when I edit](https://evaparish.com/blog/how-i-edit)
+- [What I think about when I edit &lpar;2019&rpar;](https://evaparish.com/blog/how-i-edit)
 - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
-- [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
