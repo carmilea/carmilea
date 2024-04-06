@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Long-form factuality in large language models](https://arxiv.org/abs/2403.18802)
 - [Zep AI &lpar;YC W24&rpar; Is Hiring a Founding Go Engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
+- [Citizen scientist has measured Rockies snowfall for 50 years](https://apnews.com/article/citizen-scientist-snow-rocky-mountains-drought-water-3a4e053d7db9be3eb22aa6809eab57c0)
+- [The One Piece of Tech That Would Make the New York City Subway Safer: Barriers](https://themarkup.org/hello-world/2024/04/06/the-one-piece-of-tech-that-would-make-the-new-york-city-subway-much-safer)
 - [PiVPN v4.6.0: The End](https://github.com/pivpn/pivpn/releases/tag/v4.6.0)
-- [Language Models Are Super Mario: Absorbing Abilities from Homologous Models](https://arxiv.org/abs/2311.03099)
-- [eC Programming Language](https://ec-lang.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
