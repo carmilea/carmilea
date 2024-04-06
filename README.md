@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Long-form factuality in large language models](https://arxiv.org/abs/2403.18802)
+- [Zep AI &lpar;YC W24&rpar; Is Hiring a Founding Go Engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
 - [PiVPN v4.6.0: The End](https://github.com/pivpn/pivpn/releases/tag/v4.6.0)
 - [Language Models Are Super Mario: Absorbing Abilities from Homologous Models](https://arxiv.org/abs/2311.03099)
 - [eC Programming Language](https://ec-lang.org)
-- [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
-- [Photoshop for Text &lpar;2022&rpar;](https://stephango.com/photoshop-for-text)
 <!-- BLOG-POST-LIST:END -->
 
 ---
