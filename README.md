@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the &quot;Eisenhower matrix&quot; is a fantastic productivity hack](https://bigthink.com/the-learning-curve/why-the-eisenhower-matrix-is-a-fantastic-productivity-hack/)
+- [Amazon Fresh kills &quot;Just Walk Out&quot; shopping tech–it never worked](https://arstechnica.com/gadgets/2024/04/amazon-ends-ai-powered-store-checkout-which-needed-1000-video-reviewers/)
 - [NIST researchers use cellphone compass to measure glucose](https://www.nist.gov/news-events/news/2024/04/nist-researchers-use-cellphone-compass-measure-tiny-concentrations)
 - [Why CockroachDB doesn&#39;t use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
 - [C++ Insights – See your source code with the eyes of a compiler](https://github.com/andreasfertig/cppinsights)
-- [Roku explores taking over HDMI feeds with ads](https://www.lowpass.cc/p/roku-hdmi-ad-insertion-patent)
-- [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
