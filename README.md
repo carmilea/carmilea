@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Doctors say children have been targeted by Israeli snipers in Gaza](https://www.theguardian.com/world/2024/apr/02/gaza-palestinian-children-killed-idf-israel-war)
+- [Micronics Announces Desktop SLS 3D Printer, Starting at $2,999 [video]](https://www.youtube.com/watch?v=hLqSaEiXzIU)
+- [Why CockroachDB doesn&#39;t use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
+- [C++ Insights – See your source code with the eyes of a compiler](https://github.com/andreasfertig/cppinsights)
 - [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
-- [EV bargains to be found as Hertz sells off some of its electric cars](https://arstechnica.com/cars/2024/03/looking-for-cheap-evs-try-hertzs-ex-rental-cars/)
-- [Why the Arabic World Turned Away from Science &lpar;2011&rpar;](https://www.thenewatlantis.com/publications/why-the-arabic-world-turned-away-from-science)
-- [A stealth attack came close to compromising the Internet](https://www.economist.com/science-and-technology/2024/04/02/a-stealth-attack-came-close-to-compromising-the-worlds-computers)
-- [Data brokers are gearing up to fight privacy bills](https://www.theverge.com/2024/4/5/24122079/data-brokers-fisa-extension-nsa-section-702-surveillance-lexis-nexis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
