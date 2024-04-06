@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tridge Returns to Rsync](https://lwn.net/Articles/968732/)
-- [Trademark bully&#39;: Momofuku turns up heat on others selling &#39;chili crunch&#39;](https://www.theguardian.com/food/2024/apr/04/chili-crunch-trademark-momofuku-david-chang)
+- [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
+- [Show HN: Online database diagram editor](https://github.com/drawdb-io/drawdb)
 - [Porn restrictions are leading to a VPN boom](https://www.popsci.com/technology/vpn-boom/)
+- [Show HN: Brutalist Hacker News – A HN reader inspired by brutalist web design](https://brutalisthackernews.com)
 - [Ask HN: Which low-budget camera would you recommend for recording podcasts?](https://news.ycombinator.com/item?id=39954881)
-- [Teachers are using AI to grade essays. Some experts are raising ethical concerns](https://www.cnn.com/2024/04/06/tech/teachers-grading-ai/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
