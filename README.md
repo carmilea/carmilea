@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA spacecraft films crazy vortex while flying through sun&#39;s atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
+- [Hacked](https://pbfcomics.com/comics/hacked/)
 - [Let&#39;s Make a DOS BBS in an offensively modern way [video]](https://www.youtube.com/watch?v=wLVHXn79l8M)
 - [Promoted.ai &lpar;YC W21&rpar; Is Hiring AI Sales Engineer &lpar;New Grad OK&rpar;](https://www.ycombinator.com/companies/promoted/jobs/5moymju-ai-sales-engineer-new-grad)
-- [503 days working full-time on FOSS: lessons learned](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned)
-- [The 37signals Guide to Internal Communication](https://37signals.com/how-we-communicate)
-- [What I think about when I edit &lpar;2019&rpar;](https://evaparish.com/blog/how-i-edit)
+- [Asus refunds Zenfone buyer for failing to provide bootloader unlock tools](https://www.androidauthority.com/asus-bootloader-unlock-settlement-3431818/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
