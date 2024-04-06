@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Long-form factuality in large language models](https://arxiv.org/abs/2403.18802)
+- [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
+- [Facebook Is Censoring Stories about Climate Change and Illegal Raid](https://changelog.complete.org/archives/10657-facebook-is-censoring-stories-about-illegal-raid-in-marion-kansas)
+- [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting)
+- [A Theory of Composing Protocols](https://programming-journal.org/2023/7/6/)
 - [Zep AI &lpar;YC W24&rpar; Is Hiring a Founding Go Engineer](https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp)
-- [Citizen scientist has measured Rockies snowfall for 50 years](https://apnews.com/article/citizen-scientist-snow-rocky-mountains-drought-water-3a4e053d7db9be3eb22aa6809eab57c0)
-- [The One Piece of Tech That Would Make the New York City Subway Safer: Barriers](https://themarkup.org/hello-world/2024/04/06/the-one-piece-of-tech-that-would-make-the-new-york-city-subway-much-safer)
-- [PiVPN v4.6.0: The End](https://github.com/pivpn/pivpn/releases/tag/v4.6.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
