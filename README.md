@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What was an interesting project you started and finished over a weekend?](https://news.ycombinator.com/item?id=39951422)
+- [Let&#39;s Make a DOS BBS in an offensively modern way [video]](https://www.youtube.com/watch?v=wLVHXn79l8M)
+- [Promoted.ai &lpar;YC W21&rpar; Is Hiring AI Sales Engineer &lpar;New Grad OK&rpar;](https://www.ycombinator.com/companies/promoted/jobs/5moymju-ai-sales-engineer-new-grad)
+- [503 days working full-time on FOSS: lessons learned](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned)
 - [The 37signals Guide to Internal Communication](https://37signals.com/how-we-communicate)
-- [Why AWS Supports Valkey](https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/)
 - [What I think about when I edit &lpar;2019&rpar;](https://evaparish.com/blog/how-i-edit)
-- [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
