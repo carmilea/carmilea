@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do I find a job, in this market with ADHD](https://news.ycombinator.com/item?id=39952299)
+- [HashiCorp: OpenTofu was not respecting the terms of its BSL license](https://twitter.com/OpenTofuOrg/status/1776398008558493991)
+- [Language Models Are Super Mario: Absorbing Abilities from Homologous Models](https://arxiv.org/abs/2311.03099)
+- [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
 - [NASA spacecraft films crazy vortex while flying through sun&#39;s atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
 - [Promoted.ai &lpar;YC W21&rpar; Is Hiring AI Sales Engineer &lpar;New Grad OK&rpar;](https://www.ycombinator.com/companies/promoted/jobs/5moymju-ai-sales-engineer-new-grad)
-- [Asus refunds Zenfone buyer for failing to provide bootloader unlock tools](https://www.androidauthority.com/asus-bootloader-unlock-settlement-3431818/)
-- [503 days working full-time on FOSS: lessons learned](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned)
 <!-- BLOG-POST-LIST:END -->
 
 ---
