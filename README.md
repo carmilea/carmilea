@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HashiCorp: OpenTofu was not respecting the terms of its BSL license](https://twitter.com/OpenTofuOrg/status/1776398008558493991)
+- [PiVPN v4.6.0: The End](https://github.com/pivpn/pivpn/releases/tag/v4.6.0)
 - [Language Models Are Super Mario: Absorbing Abilities from Homologous Models](https://arxiv.org/abs/2311.03099)
+- [eC Programming Language](https://ec-lang.org)
 - [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
-- [NASA spacecraft films crazy vortex while flying through sun&#39;s atmosphere](https://mashable.com/article/nasa-sun-footage-parker-solar-probe)
-- [Promoted.ai &lpar;YC W21&rpar; Is Hiring AI Sales Engineer &lpar;New Grad OK&rpar;](https://www.ycombinator.com/companies/promoted/jobs/5moymju-ai-sales-engineer-new-grad)
+- [Photoshop for Text &lpar;2022&rpar;](https://stephango.com/photoshop-for-text)
 <!-- BLOG-POST-LIST:END -->
 
 ---
