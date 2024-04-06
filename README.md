@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What I think about when I edit](https://evaparish.com/blog/how-i-edit)
 - [Microsoft blocks even more customization apps in Windows 11 version 24H2](https://www.neowin.net/news/microsoft-blocks-even-more-customization-apps-in-windows-11-version-24h2/)
+- [Working with Qubes OS at the Guardian](https://www.theguardian.com/info/2024/apr/04/when-security-matters-working-with-qubes-os-at-the-guardian)
 - [The &quot;Eisenhower matrix&quot; productivity hack](https://bigthink.com/the-learning-curve/why-the-eisenhower-matrix-is-a-fantastic-productivity-hack/)
 - [NASA knows what knocked Voyager 1 offline, but it will take a while to fix](https://arstechnica.com/space/2024/04/the-diagnosis-is-in-bad-memory-knocked-nasas-aging-voyager-1-offline/)
-- [Twenty years maintaining the WiX Toolset](https://robmensching.com/blog/posts/2024/04/05/twenty-years-maintaining-the-wix-toolset/)
-- [NIST researchers use cellphone compass to measure glucose](https://www.nist.gov/news-events/news/2024/04/nist-researchers-use-cellphone-compass-measure-tiny-concentrations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
