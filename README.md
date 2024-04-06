@@ -59,8 +59,8 @@
 - [NIST researchers use cellphone compass to measure glucose](https://www.nist.gov/news-events/news/2024/04/nist-researchers-use-cellphone-compass-measure-tiny-concentrations)
 - [Why CockroachDB doesn&#39;t use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
 - [C++ Insights – See your source code with the eyes of a compiler](https://github.com/andreasfertig/cppinsights)
+- [Roku explores taking over HDMI feeds with ads](https://www.lowpass.cc/p/roku-hdmi-ad-insertion-patent)
 - [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
-- [Emacs bug: describe-key and lambda too poetic](https://yhetil.org/emacs-bugs/874jcgbekr.fsf@gmail.com/T/#u)
 <!-- BLOG-POST-LIST:END -->
 
 ---
