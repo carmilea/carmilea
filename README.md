@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adventures Making Vegemite](https://daveon.design/adventures-making-vegemite.html)
+- [NASA direct coverage of the 2024 eclipse](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/live/)
 - [Bright &lpar;YC W15&rpar; Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
 - [Google Public DNS&#39;s approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
 - [Command Injection and Backdoor Account in D-Link NAS Devices](https://github.com/netsecfish/dlink)
-- [Court approves 3M multi-billion dollar settlement over PFAS in drinking water](https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/)
-- [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
