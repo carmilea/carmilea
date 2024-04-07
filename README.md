@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [AI is not your friend](https://gerrymcgovern.com/ai-is-not-your-friend/)
+- [Eclipse 2024](https://andywoodruff.com/posts/2023/eclipse-2024/)
+- [Xkcd 1928: Seven Years &lpar;2017&rpar;](https://xkcd.com/1928/)
+- [Why is software quality worse than a decado ago](https://bitheap.tech/why-is-software-quality-worse-than-a-decado-ago/)
 - [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
-- [The Bulgarian Computer&#39;s Global Reach: On Victor Petrov&#39;s &quot;Balkan Cyberia&quot;](https://lareviewofbooks.org/article/the-bulgarian-computers-global-reach-on-victor-petrovs-balkan-cyberia/)
-- [Diffoscope – In-depth comparison of files, archives, and directories](https://diffoscope.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
