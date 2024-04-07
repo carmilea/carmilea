@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neurons in the Brain Appear to Follow a Distinct Mathematical Pattern](https://www.msn.com/en-us/health/other/neurons-in-the-brain-appear-to-follow-a-distinct-mathematical-pattern/ar-AA1mhCzO)
+- [Blind internet users struggle with error-prone AI aids](https://www.ft.com/content/3c877c55-b698-43da-a222-8ae183f53078)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Eclipse 2024](https://andywoodruff.com/posts/2023/eclipse-2024/)
-- [Xkcd 1928: Seven Years &lpar;2017&rpar;](https://xkcd.com/1928/)
-- [Why is software quality worse than a decado ago](https://bitheap.tech/why-is-software-quality-worse-than-a-decado-ago/)
+- [Landfills Leak More Planet-Baking Methane Than We Thought](https://grist.org/science/us-landfills-emit-far-more-methane-than-previously-known/)
 - [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
 <!-- BLOG-POST-LIST:END -->
 
