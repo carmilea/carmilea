@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
+- [The Bulgarian Computer&#39;s Global Reach: On Victor Petrov&#39;s &quot;Balkan Cyberia&quot;](https://lareviewofbooks.org/article/the-bulgarian-computers-global-reach-on-victor-petrovs-balkan-cyberia/)
+- [Facebook banned website that links to critical article, claims phishing](https://bsky.app/profile/mosseri.bsky.social/post/3kpimfpxjkh2r)
 - [ActivityPub/Nostr/At-Bluesky Compared](https://nate.mecca1.net/posts/2024-01-30_microblogging-protocols/)
-- [Trudeau Unveils $1.8B Plan to Boost AI Sector in Canada](https://www.bloomberg.com/news/articles/2024-04-07/trudeau-unveils-1-8-billion-plan-to-boost-ai-sector-in-canada)
 - [Xemu: Original Xbox Emulator](https://xemu.app/)
-- [Greptile &lpar;YC W24&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/greptile/jobs/4MY7eZL-founding-engineer)
-- [AI assists clinicians in responding to patient messages at Stanford Medicine](https://med.stanford.edu/news/all-news/2024/03/ai-patient-messages.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
