@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Justin Trudeau announces $2.4B for AI investments in Canada](https://www.cbc.ca/news/politics/federal-government-ai-investment-1.7166234)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [AI is not your friend](https://gerrymcgovern.com/ai-is-not-your-friend/)
 - [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
 - [The Bulgarian Computer&#39;s Global Reach: On Victor Petrov&#39;s &quot;Balkan Cyberia&quot;](https://lareviewofbooks.org/article/the-bulgarian-computers-global-reach-on-victor-petrovs-balkan-cyberia/)
-- [Xemu: Original Xbox Emulator](https://xemu.app/)
-- [Greptile &lpar;YC W24&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/greptile/jobs/4MY7eZL-founding-engineer)
+- [Diffoscope – In-depth comparison of files, archives, and directories](https://diffoscope.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
