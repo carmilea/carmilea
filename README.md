@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to the VAIO Library](https://vaiolibrary.com/index.php/Welcome_to_the_VAIO_Library)
+- [Boeing put Wall Street first, safety second ahead of Alaska Air blowout](https://www.seattletimes.com/business/boeing-aerospace/boeings-long-fall-and-how-it-might-recover/)
 - [Adventures Making Vegemite](https://daveon.design/adventures-making-vegemite.html)
-- [Bright &lpar;YC W15&rpar; Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
-- [Google Public DNS&#39;s approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
-- [Command Injection and Backdoor Account in D-Link NAS Devices](https://github.com/netsecfish/dlink)
-- [Court approves 3M multi-billion dollar settlement over PFAS in drinking water](https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/)
+- [Mixture-of-Depths: Dynamically allocating compute in transformers](https://arxiv.org/abs/2404.02258)
+- [Blog Posts, Sorted by Sleep](https://breckyunits.com/sleepWriting.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
