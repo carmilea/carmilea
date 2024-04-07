@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT might get its own dedicated personal AI device – with Jony Ive&#39;s help](https://www.techradar.com/computing/artificial-intelligence/chatgpt-might-get-its-own-dedicated-personal-device-with-jony-ives-help)
 - [Lago, Open-Source Stripe Alternative, banks $22M in funding](https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/)
 - [How not to write an async runtime in Rust](https://github.com/arun11299/How-not-to-async-rs)
 - [Ibiza locals living in cars as party island sees rents soar](https://www.bbc.com/news/business-68730891)
 - [A canonical Hamiltonian formulation of the Navier–Stokes problem](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6)
-- [The xz sshd backdoor rabbithole goes quite a bit deeper](https://twitter.com/bl4sty/status/1776691497506623562)
 <!-- BLOG-POST-LIST:END -->
 
 ---
