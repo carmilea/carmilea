@@ -59,8 +59,8 @@
 - [ElephantSQL Is Shutting Down](https://www.elephantsql.com/blog/end-of-life-announcement.html)
 - [Exposure therapy for arachnophobia can benefit unrelated fears, study finds](https://www.psypost.org/exposure-therapy-for-arachnophobia-can-benefit-unrelated-fears-study-finds/)
 - [Autodafe: Tools for freeing your project from the clammy grip of autotools](https://gitlab.com/esr/autodafe)
-- [Best Buy Geek Squad employees report mass layoffs](https://www.theverge.com/2024/4/5/24122542/best-buy-geek-squad-layoffs-ai-restructuring)
 - [Is the frequency domain a real place?](https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place)
+- [PM2: Production Process Manager with a Built-In Load Balancer](https://github.com/Unitech/pm2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
