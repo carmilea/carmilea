@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sophia: Scalable Stochastic 2nd-Order Optimizer for Language Model Pre-Training](https://arxiv.org/abs/2305.14342)
-- [ElephantSQL Is Shutting Down](https://www.elephantsql.com/blog/end-of-life-announcement.html)
-- [Exposure therapy for arachnophobia can benefit unrelated fears, study finds](https://www.psypost.org/exposure-therapy-for-arachnophobia-can-benefit-unrelated-fears-study-finds/)
-- [Is the frequency domain a real place?](https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place)
-- [PM2: Production Process Manager with a Built-In Load Balancer](https://github.com/Unitech/pm2)
+- [Bright &lpar;YC W15&rpar; Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
+- [Command Injection and Backdoor Account in D-Link NAS Devices](https://github.com/netsecfish/dlink)
+- [Court approves 3M multi-billion dollar settlement over PFAS in drinking water](https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/)
+- [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
+- [SentenceTransformers: Python framework for sentence, text and image embeddings](https://www.sbert.net/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
