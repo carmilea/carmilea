@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT might get its own dedicated personal AI device – with Jony Ive&#39;s help](https://www.techradar.com/computing/artificial-intelligence/chatgpt-might-get-its-own-dedicated-personal-device-with-jony-ives-help)
-- [Lago, Open-Source Stripe Alternative, banks $22M in funding](https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/)
-- [How not to write an async runtime in Rust](https://github.com/arun11299/How-not-to-async-rs)
-- [Ibiza locals living in cars as party island sees rents soar](https://www.bbc.com/news/business-68730891)
-- [A canonical Hamiltonian formulation of the Navier–Stokes problem](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6)
+- [ESR&#39;s Autodafe: &quot;freeing your project from the clammy grip of autotools.&quot;](https://gitlab.com/esr/autodafe)
+- [Best Buy Geek Squad employees report mass layoffs](https://www.theverge.com/2024/4/5/24122542/best-buy-geek-squad-layoffs-ai-restructuring)
+- [Is the frequency domain a real place?](https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place)
+- [Glory is only 11MB/SEC away](https://thmsmlr.com/cheap-infra)
+- [What Makes Housing So Expensive?](https://www.construction-physics.com/p/what-makes-housing-so-expensive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
