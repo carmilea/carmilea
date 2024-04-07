@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ibiza locals living in cars as party island sees rents soar](https://www.bbc.com/news/business-68730891)
+- [A canonical Hamiltonian formulation of the Navier–Stokes problem](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6)
+- [The xz sshd backdoor rabbithole goes quite a bit deeper](https://twitter.com/bl4sty/status/1776691497506623562)
 - [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
 - [Show HN: Online database diagram editor](https://github.com/drawdb-io/drawdb)
-- [Porn restrictions are leading to a VPN boom](https://www.popsci.com/technology/vpn-boom/)
-- [Show HN: Brutalist Hacker News – A HN reader inspired by brutalist web design](https://brutalisthackernews.com)
-- [Ask HN: Which low-budget camera would you recommend for recording podcasts?](https://news.ycombinator.com/item?id=39954881)
 <!-- BLOG-POST-LIST:END -->
 
 ---
