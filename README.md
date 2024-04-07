@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to the VAIO Library](https://vaiolibrary.com/index.php/Welcome_to_the_VAIO_Library)
-- [Boeing put Wall Street first, safety second ahead of Alaska Air blowout](https://www.seattletimes.com/business/boeing-aerospace/boeings-long-fall-and-how-it-might-recover/)
+- [Greptile &lpar;YC W24&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/greptile/jobs/4MY7eZL-founding-engineer)
+- [Passage Du Gois](https://en.wikipedia.org/wiki/Passage_du_Gois)
 - [Adventures Making Vegemite](https://daveon.design/adventures-making-vegemite.html)
 - [Mixture-of-Depths: Dynamically allocating compute in transformers](https://arxiv.org/abs/2404.02258)
-- [Blog Posts, Sorted by Sleep](https://breckyunits.com/sleepWriting.html)
+- [Blog posts, sorted by sleep](https://breckyunits.com/sleepWriting.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
