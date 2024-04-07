@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bright &lpar;YC W15&rpar; Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
+- [Google Public DNS&#39;s approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
 - [Command Injection and Backdoor Account in D-Link NAS Devices](https://github.com/netsecfish/dlink)
 - [Court approves 3M multi-billion dollar settlement over PFAS in drinking water](https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/)
 - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
-- [SentenceTransformers: Python framework for sentence, text and image embeddings](https://www.sbert.net/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
