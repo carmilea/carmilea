@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flame retardants found in consumer products linked to cancer](https://www.cnn.com/2024/04/01/health/flame-retardant-pbdes-cancer-wellness/index.html)
-- [Framework laptop DongleHider Expansion Card for hiding up to three dongles](https://www.tomshardware.com/laptops/donglehider-is-a-cunning-new-framework-laptop-expansion-card-for-hiding-up-to-three-dongles)
+- [Canadians are asking their government to federate](https://www.theverge.com/2024/4/6/24122765/canadians-are-asking-their-government-to-federate)
 - [Show HN: AutoMQ - A Cost-Effective Kafka Distro That Can Autoscale in Seconds](https://github.com/AutoMQ/automq)
 - [High Definition CSS Color Guide](https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide)
-- [Infant microbes and metabolites point to childhood neurodevelopmental disorders](https://medicalxpress.com/news/2024-04-autism-adhd-linked-disturbed-gut.html)
+- [Phytomining – Extracting Minerals via Plants](https://arpa-e.energy.gov/news-and-media/press-releases/us-department-energy-announces-10-million-explore-using-plants)
+- [When a black hole and a neutron star merge](https://www.mpg.de/21778967/0404-grav-mysterious-object-in-the-gap-152520-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
