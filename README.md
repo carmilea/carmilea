@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cultivating Minds: The Psychological Consequences of Rice versus Wheat Farming](https://marginalrevolution.com/marginalrevolution/2024/04/cultivating-minds-the-psychological-consequences-of-rice-versus-wheat-farming.html)
-- [Sieve &lpar;YC W22&rpar; Is Hiring ML engineers &lpar;small team, high revenue, AI infra&rpar;](https://sievedata.com/about/jobs)
-- [Notepad++: Help us to take down the parasite website](https://notepad-plus-plus.org/news/help-to-take-down-parasite-site/)
-- [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
-- [Blocky – a DNS proxy and ad-blocker for the local network](https://0xerr0r.github.io/blocky/)
+- [Haskell Security Response Team – 2024 January–March Report](https://discourse.haskell.org/t/haskell-security-response-team-2024-january-march-report/9285)
+- [Paying Off People&#39;s Medical Debt Has Little Impact on Their Lives, Study Finds](https://www.nytimes.com/2024/04/08/science/rip-medical-debt.html)
+- [Using your phone to pay can mean you&#39;ll spend more](https://www.npr.org/2024/04/07/1241841908/apple-pay-phone-credit-spending-frictionless-payments)
+- [USPS jumps to first place as most imitated brand in phishing attacks](https://guard.io/blog/most-imitated-brand-in-phishing-attacks-for-q1-2024)
+- [Twitter/X to defy Brazilian court&#39;s order, and lift all restrictions](https://twitter.com/shellenberger/status/1776776372351836642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
