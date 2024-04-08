@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After AI beat them, professional Go players got better and more creative](https://www.henrikkarlsson.xyz/p/go)
-- [Direct Nash Optimization: Teaching Language Models to Self-Improve](https://arxiv.org/abs/2404.03715)
-- [Japanese American Bird Pins](https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/)
-- [The 6502 instruction set as a database](https://gitlab.com/Screwtapello/isa65xx)
-- [Nightfall: Can Kalgash Exist &lpar;2014&rpar;](https://arxiv.org/abs/1407.4895)
+- [France has a military drone radar everyone&#39;s desperate to get](https://www.politico.eu/article/soar-demand-france-military-radars-ground-master-air-surveillance-thales-war-ukraine/)
+- [karpathy/llm.c](https://github.com/karpathy/llm.c)
+- [Deeply scammy looking zsh plugin manager called &quot;zi&quot;](https://recurse.social/@dylnuge/112224580867240812)
+- [GNU Stow needs a co-maintainer](https://savannah.gnu.org/bugs/index.php?65569)
+- [Shorebird 1.0 – Update your Flutter apps instantly](https://shorebird.dev/blogs/1.0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
