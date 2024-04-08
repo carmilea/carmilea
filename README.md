@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Groq CEO: &#39;We No Longer Sell Hardware&#39;](https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware/)
+- [Autonomous Weapons: The False Promise of Civilian Protection &lpar;2022&rpar;](https://www.cigionline.org/articles/autonomous-weapons-the-false-promise-of-civilian-protection/)
 - [Neurons in the Brain Appear to Follow a Distinct Mathematical Pattern](https://www.msn.com/en-us/health/other/neurons-in-the-brain-appear-to-follow-a-distinct-mathematical-pattern/ar-AA1mhCzO)
 - [Blind internet users struggle with error-prone AI aids](https://www.ft.com/content/3c877c55-b698-43da-a222-8ae183f53078)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Landfills Leak More Planet-Baking Methane Than We Thought](https://grist.org/science/us-landfills-emit-far-more-methane-than-previously-known/)
-- [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
+- [Navy cancels ship briefings after damning internal report](https://www.politico.com/news/2024/04/07/navy-cancels-ship-briefings-internal-report-00150879)
 <!-- BLOG-POST-LIST:END -->
 
 ---
