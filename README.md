@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring a Full Stack Engineer in Austria](https://bitmovin.com/careers/full-stack-engineer-7260509002)
-- [Just How Much Faster Are the Gnome 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
-- [Spotify demonetizes all tracks under 1k streams](https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams)
-- [Show HN: Beyond text splitting – improved file parsing for LLM&#39;s](https://github.com/Filimoa/open-parse)
-- [Decentralized exchange Uniswap tops $2T in all-time trading volume](https://www.techmeme.com/m/240407/p1#a240407p1)
+- [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
+- [Working from home isn&#39;t going away, even if some CEOs wish it would](https://techcrunch.com/2024/04/07/working-from-home-isnt-going-away-even-if-some-ceos-wish-it-would/)
+- [Blocky – a DNS proxy and ad-blocker for the local network](https://0xerr0r.github.io/blocky/)
+- [TSMC Gets $11.6B in US Grants, Loans for Three Chip Fabs](https://www.bloomberg.com/news/articles/2024-04-08/tsmc-gets-11-6-billion-in-us-grants-loans-for-three-chip-fabs)
+- [Building a Managed Postgres Service in Rust](https://tembo.io/blog/managed-postgres-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
