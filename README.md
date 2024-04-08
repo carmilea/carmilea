@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canadians are asking their government to federate](https://www.theverge.com/2024/4/6/24122765/canadians-are-asking-their-government-to-federate)
-- [Show HN: AutoMQ - A Cost-Effective Kafka Distro That Can Autoscale in Seconds](https://github.com/AutoMQ/automq)
-- [High Definition CSS Color Guide](https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide)
-- [Phytomining – Extracting Minerals via Plants](https://arpa-e.energy.gov/news-and-media/press-releases/us-department-energy-announces-10-million-explore-using-plants)
-- [When a black hole and a neutron star merge](https://www.mpg.de/21778967/0404-grav-mysterious-object-in-the-gap-152520-x)
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring a Full Stack Engineer in Austria](https://bitmovin.com/careers/full-stack-engineer-7260509002)
+- [What Neuralink Is Missing](https://www.theatlantic.com/technology/archive/2024/04/neuralink-bci-implant/677996/)
+- [Spotify demonetizes all tracks under 1k streams](https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams)
+- [Show HN: Beyond text splitting – improved file parsing for LLM&#39;s](https://github.com/Filimoa/open-parse)
+- [Awesome-Code-AI – A list of of AI coding tools &lpar;assistants, completions, etc.&rpar;](https://github.com/sourcegraph/awesome-code-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
