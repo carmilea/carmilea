@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
-- [I looking into an apparently scammy looking zsh plugin manager called “zi”](https://recurse.social/@dylnuge/112224580867240812)
-- [GNU Stow needs a co-maintainer](https://savannah.gnu.org/bugs/index.php?65569)
-- [Shorebird 1.0 – Update your Flutter apps instantly](https://shorebird.dev/blogs/1.0/)
-- [After AI beat them, professional Go players got better and more creative](https://www.henrikkarlsson.xyz/p/go)
+- [Endless Censorship Demands from Brazil](https://twitter.com/ggreenwald/status/1777392222851240334)
+- [UpCodes &lpar;YC S17&rpar; hiring devs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+- [Nintendo&#39;s online servers for Wii U and 3DS shut down today](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63227/~/announcement-of-discontinuation-of-online-services-for-nintendo-3ds-and-wii-u)
+- [French company ramps up production to meet demand for its military drone radar](https://www.politico.eu/article/soar-demand-france-military-radars-ground-master-air-surveillance-thales-war-ukraine/)
+- [Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
