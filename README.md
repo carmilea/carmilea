@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Haskell Security Response Team – 2024 January–March Report](https://discourse.haskell.org/t/haskell-security-response-team-2024-january-march-report/9285)
-- [Paying Off People&#39;s Medical Debt Has Little Impact on Their Lives, Study Finds](https://www.nytimes.com/2024/04/08/science/rip-medical-debt.html)
-- [Using your phone to pay can mean you&#39;ll spend more](https://www.npr.org/2024/04/07/1241841908/apple-pay-phone-credit-spending-frictionless-payments)
+- [Exploring Batch Caching of Trees](https://blog.julik.nl/2024/04/batch-caching-of-trees)
+- [Was Thunderbird 3.0 Worth the Wait?](https://blog.thunderbird.net/2024/04/thunderbird-time-machine-thunderbird-3-0-title-tbd/)
 - [USPS jumps to first place as most imitated brand in phishing attacks](https://guard.io/blog/most-imitated-brand-in-phishing-attacks-for-q1-2024)
-- [Twitter/X to defy Brazilian court&#39;s order, and lift all restrictions](https://twitter.com/shellenberger/status/1776776372351836642)
+- [Vala Programming Language](https://vala.dev/)
+- [Obsolete satellite antennas in Swiss Alps are being repurposed with solar panels](https://www.reuters.com/sustainability/climate-energy/swiss-satellite-antennas-make-comeback-solar-powerhouses-2023-10-19/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
