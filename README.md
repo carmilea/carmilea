@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [She Built a Microcomputer Empire from Her Suburban Home](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
+- [Long Covid blood clues could prompt future trials](https://www.bbc.co.uk/news/health-68762171)
+- [SingleStore Cloud SmartDR](https://www.singlestore.com/blog/singlestore-cloud-smartdr)
+- [Reverst: Reverse Tunnels in Go over HTTP/3 and QUIC](https://github.com/flipt-io/reverst)
 - [Exploring Batch Caching of Trees](https://blog.julik.nl/2024/04/batch-caching-of-trees)
-- [Was Thunderbird 3.0 Worth the Wait?](https://blog.thunderbird.net/2024/04/thunderbird-time-machine-thunderbird-3-0-title-tbd/)
-- [USPS jumps to first place as most imitated brand in phishing attacks](https://guard.io/blog/most-imitated-brand-in-phishing-attacks-for-q1-2024)
-- [Vala Programming Language](https://vala.dev/)
-- [Obsolete satellite antennas in Swiss Alps are being repurposed with solar panels](https://www.reuters.com/sustainability/climate-energy/swiss-satellite-antennas-make-comeback-solar-powerhouses-2023-10-19/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
