@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GoGoGrandparent &lpar;YC S16&rpar; is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39971645)
+- [Cake shop worker remains dream job for many children starting school](https://www.japantimes.co.jp/news/2024/04/08/japan/society/japan-children-dream-jobs/)
 - [She Built a Microcomputer Empire from Her Suburban Home](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
-- [Long Covid blood clues could prompt future trials](https://www.bbc.co.uk/news/health-68762171)
+- [Poor Predictors: Job Interviews Are Useless and Unfair](https://www.psychologytoday.com/us/blog/insight-therapy/202008/poor-predictors-job-interviews-are-useless-and-unfair)
 - [SingleStore Cloud SmartDR](https://www.singlestore.com/blog/singlestore-cloud-smartdr)
-- [Reverst: Reverse Tunnels in Go over HTTP/3 and QUIC](https://github.com/flipt-io/reverst)
-- [Exploring Batch Caching of Trees](https://blog.julik.nl/2024/04/batch-caching-of-trees)
 <!-- BLOG-POST-LIST:END -->
 
 ---
