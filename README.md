@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Infant microbes and metabolites point to childhood neurodevelopmental disorders](https://medicalxpress.com/news/2024-04-autism-adhd-linked-disturbed-gut.html)
 - [Phytomining – Extracting Minerals via Plants](https://arpa-e.energy.gov/news-and-media/press-releases/us-department-energy-announces-10-million-explore-using-plants)
+- [When a black hole and a neutron star merge](https://www.mpg.de/21778967/0404-grav-mysterious-object-in-the-gap-152520-x)
+- [Groq CEO: &#39;We No Longer Sell Hardware&#39;](https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware/)
 - [Autonomous Weapons: The False Promise of Civilian Protection &lpar;2022&rpar;](https://www.cigionline.org/articles/autonomous-weapons-the-false-promise-of-civilian-protection/)
-- [Neurons in the Brain Appear to Follow a Distinct Mathematical Pattern](https://www.msn.com/en-us/health/other/neurons-in-the-brain-appear-to-follow-a-distinct-mathematical-pattern/ar-AA1mhCzO)
-- [Blind internet users struggle with error-prone AI aids](https://www.ft.com/content/3c877c55-b698-43da-a222-8ae183f53078)
-- [ReAMP, a Winamp Remake in Swift](https://re-amp.ru/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
