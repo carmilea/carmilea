@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After AI beat them, professional Go players got better and more creative](https://www.henrikkarlsson.xyz/p/go)
+- [Direct Nash Optimization: Teaching Language Models to Self-Improve](https://arxiv.org/abs/2404.03715)
+- [Japanese American Bird Pins](https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/)
+- [The 6502 instruction set as a database](https://gitlab.com/Screwtapello/isa65xx)
 - [Nightfall: Can Kalgash Exist &lpar;2014&rpar;](https://arxiv.org/abs/1407.4895)
-- [ESLint v9.0](https://eslint.org/blog/2024/04/eslint-v9.0.0-released/)
-- [Show HN: Colab Notebook to create Magic cards from image with Claude](https://colab.research.google.com/drive/1h5WIzhvT-GJCL3LHxMCLnc9qyOIqHubY?usp=sharing)
-- [Live NASA telescope feed for today&#39;s solar eclipse [video]](https://www.youtube.com/watch?v=J5j95RUSLd8)
-- [Find My Device on Android](https://blog.google/products/android/android-find-my-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
