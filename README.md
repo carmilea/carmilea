@@ -57,8 +57,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Nightfall: Can Kalgash Exist &lpar;2014&rpar;](https://arxiv.org/abs/1407.4895)
-- [Anthropic&#39;s Haiku Beats GPT-4 Turbo in Tool Use](https://docs.parea.ai/blog/benchmarking-anthropic-beta-tool-use)
-- [Engine part falls off Boeing plane during as Southwest Airlines flight takes off](https://www.independent.co.uk/travel/news-and-advice/boeing-plane-accident-southwest-houston-b2525200.html)
+- [ESLint v9.0](https://eslint.org/blog/2024/04/eslint-v9.0.0-released/)
+- [Show HN: Colab Notebook to create Magic cards from image with Claude](https://colab.research.google.com/drive/1h5WIzhvT-GJCL3LHxMCLnc9qyOIqHubY?usp=sharing)
 - [Live NASA telescope feed for today&#39;s solar eclipse [video]](https://www.youtube.com/watch?v=J5j95RUSLd8)
 - [Find My Device on Android](https://blog.google/products/android/android-find-my-device/)
 <!-- BLOG-POST-LIST:END -->
