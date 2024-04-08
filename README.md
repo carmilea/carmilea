@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Groq CEO: &#39;We No Longer Sell Hardware&#39;](https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware/)
+- [Autism and ADHD are linked to disturbed gut flora early in life](https://medicalxpress.com/news/2024-04-autism-adhd-linked-disturbed-gut.html)
+- [Phytomining – Extracting Minerals via Plants](https://arpa-e.energy.gov/news-and-media/press-releases/us-department-energy-announces-10-million-explore-using-plants)
+- [New theory on Satoshi Nakamoto](https://old.reddit.com/r/CryptoCurrency/comments/1bxqnpq/new_theory_on_satoshi_nakamoto/)
+- [Kuto, a Reverse JavaScript Bundler](https://samthor.au/2024/kuto/)
 - [Autonomous Weapons: The False Promise of Civilian Protection &lpar;2022&rpar;](https://www.cigionline.org/articles/autonomous-weapons-the-false-promise-of-civilian-protection/)
-- [Neurons in the Brain Appear to Follow a Distinct Mathematical Pattern](https://www.msn.com/en-us/health/other/neurons-in-the-brain-appear-to-follow-a-distinct-mathematical-pattern/ar-AA1mhCzO)
-- [Blind internet users struggle with error-prone AI aids](https://www.ft.com/content/3c877c55-b698-43da-a222-8ae183f53078)
-- [Navy cancels ship briefings after damning internal report](https://www.politico.com/news/2024/04/07/navy-cancels-ship-briefings-internal-report-00150879)
 <!-- BLOG-POST-LIST:END -->
 
 ---
