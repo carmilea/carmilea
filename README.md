@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GoGoGrandparent &lpar;YC S16&rpar; is hiring senior/staff back end and lead engineers](https://news.ycombinator.com/item?id=39971645)
-- [Cake shop worker remains dream job for many children starting school](https://www.japantimes.co.jp/news/2024/04/08/japan/society/japan-children-dream-jobs/)
-- [She Built a Microcomputer Empire from Her Suburban Home](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
-- [Poor Predictors: Job Interviews Are Useless and Unfair](https://www.psychologytoday.com/us/blog/insight-therapy/202008/poor-predictors-job-interviews-are-useless-and-unfair)
-- [SingleStore Cloud SmartDR](https://www.singlestore.com/blog/singlestore-cloud-smartdr)
+- [Nightfall: Can Kalgash Exist &lpar;2014&rpar;](https://arxiv.org/abs/1407.4895)
+- [Anthropic&#39;s Haiku Beats GPT-4 Turbo in Tool Use](https://docs.parea.ai/blog/benchmarking-anthropic-beta-tool-use)
+- [Engine part falls off Boeing plane during as Southwest Airlines flight takes off](https://www.independent.co.uk/travel/news-and-advice/boeing-plane-accident-southwest-houston-b2525200.html)
+- [Live NASA telescope feed for today&#39;s solar eclipse [video]](https://www.youtube.com/watch?v=J5j95RUSLd8)
+- [Find My Device on Android](https://blog.google/products/android/android-find-my-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
