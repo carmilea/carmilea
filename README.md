@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [France has a military drone radar everyone&#39;s desperate to get](https://www.politico.eu/article/soar-demand-france-military-radars-ground-master-air-surveillance-thales-war-ukraine/)
-- [karpathy/llm.c](https://github.com/karpathy/llm.c)
-- [Deeply scammy looking zsh plugin manager called &quot;zi&quot;](https://recurse.social/@dylnuge/112224580867240812)
+- [llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
+- [I looking into an apparently scammy looking zsh plugin manager called “zi”](https://recurse.social/@dylnuge/112224580867240812)
 - [GNU Stow needs a co-maintainer](https://savannah.gnu.org/bugs/index.php?65569)
 - [Shorebird 1.0 – Update your Flutter apps instantly](https://shorebird.dev/blogs/1.0/)
+- [After AI beat them, professional Go players got better and more creative](https://www.henrikkarlsson.xyz/p/go)
 <!-- BLOG-POST-LIST:END -->
 
 ---
