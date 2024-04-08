@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sieve &lpar;YC W22&rpar; Is Hiring ML engineers &lpar;small team, high revenue, AI infra&rpar;](https://sievedata.com/about/jobs)
+- [Notepad++: Help us to take down the parasite website](https://notepad-plus-plus.org/news/help-to-take-down-parasite-site/)
 - [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
-- [Working from home isn&#39;t going away, even if some CEOs wish it would](https://techcrunch.com/2024/04/07/working-from-home-isnt-going-away-even-if-some-ceos-wish-it-would/)
 - [Blocky – a DNS proxy and ad-blocker for the local network](https://0xerr0r.github.io/blocky/)
 - [TSMC Gets $11.6B in US Grants, Loans for Three Chip Fabs](https://www.bloomberg.com/news/articles/2024-04-08/tsmc-gets-11-6-billion-in-us-grants-loans-for-three-chip-fabs)
-- [Building a Managed Postgres Service in Rust](https://tembo.io/blog/managed-postgres-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
