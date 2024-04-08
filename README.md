@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring a Full Stack Engineer in Austria](https://bitmovin.com/careers/full-stack-engineer-7260509002)
-- [What Neuralink Is Missing](https://www.theatlantic.com/technology/archive/2024/04/neuralink-bci-implant/677996/)
+- [Just How Much Faster Are the Gnome 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 - [Spotify demonetizes all tracks under 1k streams](https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams)
 - [Show HN: Beyond text splitting – improved file parsing for LLM&#39;s](https://github.com/Filimoa/open-parse)
-- [Awesome-Code-AI – A list of of AI coding tools &lpar;assistants, completions, etc.&rpar;](https://github.com/sourcegraph/awesome-code-ai)
+- [A list of AI coding tools](https://github.com/sourcegraph/awesome-code-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
