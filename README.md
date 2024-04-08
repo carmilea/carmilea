@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Southwest Boeing 737-800 flight from Denver loses engine cover](https://www.cnn.com/2024/04/07/business/southwest-boeing-737-800-engine/index.html)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring a Full Stack Engineer in Austria](https://bitmovin.com/careers/full-stack-engineer-7260509002)
 - [Just How Much Faster Are the Gnome 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 - [Spotify demonetizes all tracks under 1k streams](https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams)
 - [Show HN: Beyond text splitting – improved file parsing for LLM&#39;s](https://github.com/Filimoa/open-parse)
-- [A list of AI coding tools](https://github.com/sourcegraph/awesome-code-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
