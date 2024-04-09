@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Distributed SQLite: Paradigm shift or hype?](https://kerkour.com/distributed-sqlite)
+- [DRAM mfgrs stop publishing contract DRAM prices after quake, price hike expected](https://www.tomshardware.com/tech-industry/memory-makers-reportedly-stop-publishing-contract-dram-prices-following-taiwan-earthquake-further-price-hikes-are-expected)
+- [Genesis of the “Golfball” Selectric](https://oztypewriter.blogspot.com/2011/08/on-this-day-in-typewriter-history_14.html)
+- [TSAC: Low Bitrate Audio Compression](https://bellard.org/tsac/)
 - [1.18k drawings of plant root systems](https://images.wur.nl/digital/collection/coll13/search)
-- [Hello OLMo: A truly open LLM](https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962)
-- [UpCodes &lpar;YC S17&rpar; hiring devs to automate construction compliance](https://up.codes/careers?utm_source=HN)
-- [Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
-- [Looking into an apparently scammy looking zsh plugin manager called “zi”](https://recurse.social/@dylnuge/112224580867240812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
