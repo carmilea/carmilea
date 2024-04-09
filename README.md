@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Endless Censorship Demands from Brazil](https://twitter.com/ggreenwald/status/1777392222851240334)
+- [1.18k drawings of plant root systems](https://images.wur.nl/digital/collection/coll13/search)
+- [Hello OLMo: A truly open LLM](https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962)
 - [UpCodes &lpar;YC S17&rpar; hiring devs to automate construction compliance](https://up.codes/careers?utm_source=HN)
-- [Nintendo&#39;s online servers for Wii U and 3DS shut down today](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63227/~/announcement-of-discontinuation-of-online-services-for-nintendo-3ds-and-wii-u)
-- [French company ramps up production to meet demand for its military drone radar](https://www.politico.eu/article/soar-demand-france-military-radars-ground-master-air-surveillance-thales-war-ukraine/)
 - [Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
+- [Looking into an apparently scammy looking zsh plugin manager called “zi”](https://recurse.social/@dylnuge/112224580867240812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
