@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [India&#39;s electric rickshaws are leaving EVs in the dust, like YC Electric](https://restofworld.org/2024/e-rickshaw-yc-electric-india/)
+- [What makes a great software engineer [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/Paul-Li-MSR-Tech-Report.pdf)
+- [FCC chair rejects call to impose Universal Service fees on broadband](https://arstechnica.com/tech-policy/2024/04/fcc-chair-rejects-call-to-impose-universal-service-fees-on-broadband/)
 - [Penpot 2.0 Released](https://community.penpot.app/t/penpot-2-0-a-major-milestone-in-our-journey-is-now-yours-to-explore-and-enjoy/4906)
-- [The Eclipse via Satellite](https://kieranhealy.org/blog/archives/2024/04/09/the-eclipse-via-satellite/)
-- [Why do airlines charge so much for checked bags? The tax code](https://theconversation.com/why-do-airlines-charge-so-much-for-checked-bags-this-obscure-rule-helps-explain-why-225857)
-- [Google Axion Processors – Arm-based CPUs designed for the data center](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu/)
-- [Social Skill Training with Large Language Models](https://arxiv.org/abs/2404.04204)
+- [Google CodeGemma: Open Code Models Based on Gemma [pdf]](https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
