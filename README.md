@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [European court rules human rights violated by climate inaction](https://www.bbc.co.uk/news/science-environment-68768598)
+- [SSSL – Hackless SSL bypass for the Wii U](https://github.com/PretendoNetwork/SSSL)
+- [Switzerland faces landmark climate-human rights ruling](https://www.swissinfo.ch/eng/science/historic-verdict-could-link-climate-crisis-and-human-rights/75321434)
 - [Sqlime: Online SQLite Playground](https://github.com/nalgeon/sqlime)
 - [Interview with Yanis Varoufakis on Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)
-- [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
-- [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
-- [MapSCII – A Braille and ASCII world map renderer for the console](https://github.com/rastapasta/mapscii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
