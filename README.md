@@ -59,8 +59,8 @@
 - [Sqlime: Online SQLite Playground](https://github.com/nalgeon/sqlime)
 - [Interview with Yanis Varoufakis on Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)
 - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
-- [How might software development have unfolded if CPU speeds were 20x slower?](https://news.ycombinator.com/item?id=39976387)
 - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
+- [MapSCII – A Braille and ASCII world map renderer for the console](https://github.com/rastapasta/mapscii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
