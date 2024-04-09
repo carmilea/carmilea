@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cow Magnets](https://www.stanfordmagnets.com/cow-magnets.html)
-- [PS1 Programming Course with MIPS Assembly and C](https://pikuma.com/courses/ps1-programming-mips-assembly-language)
-- [Zed Decoded: Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
-- [ScreenAI: A visual LLM for UI and visually-situated language understanding](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
-- [Fairbuds: In-ear with replaceable batteries](https://shop.fairphone.com/fairbuds)
+- [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
+- [GPT-4 Turbo with Vision Generally Available](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)
+- [Complexity Is the Enemy](https://neugierig.org/software/blog/2011/04/complexity.html)
+- [Evaluating faithfulness and content selection of LLMs in book-length summaries](https://arxiv.org/abs/2404.01261)
+- [The Collapse of Small Press Distribution](https://lithub.com/the-small-press-world-is-about-to-fall-apart-on-the-collapse-of-small-press-distribution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
