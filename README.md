@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Google Axion Processors, our new Arm-based CPUs](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu/)
+- [Penpot 2.0 Released](https://community.penpot.app/t/penpot-2-0-a-major-milestone-in-our-journey-is-now-yours-to-explore-and-enjoy/4906)
+- [The Eclipse via Satellite](https://kieranhealy.org/blog/archives/2024/04/09/the-eclipse-via-satellite/)
+- [Why do airlines charge so much for checked bags? The tax code](https://theconversation.com/why-do-airlines-charge-so-much-for-checked-bags-this-obscure-rule-helps-explain-why-225857)
+- [Google Axion Processors – Arm-based CPUs designed for the data center](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu/)
 - [Social Skill Training with Large Language Models](https://arxiv.org/abs/2404.04204)
-- [Total eclipse of the Internet: traffic impacts in Mexico, the US, and Canada](https://blog.cloudflare.com/total-eclipse-internet-traffic-impacts-mexico-us-canada)
-- [How to use my science-based color wheel](https://www.youtube.com/watch?v=alrdClpGHvY)
-- [BYD is launching its next-gen Blade EV battery – more range and even lower cost](https://electrek.co/2024/04/08/byd-launch-next-gen-ev-battery-more-range-lower-price/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
