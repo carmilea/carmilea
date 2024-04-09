@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Higgs Has Died](https://mailings.ed.ac.uk/cr/AQiw9w4Q29loGLayuDKygkUHzYdbMkJ3l7YZR220i7qIV4A2vPfu2ywkdzGpOQ)
-- [The Open Secret about Confidential Computing](https://stiankri.substack.com/p/the-open-secret-about-confidential)
-- [San Francisco-to-L.A. overnight train inches closer to reality](https://ktla.com/news/california/san-francisco-to-l-a-overnight-train-inches-closer-to-reality/)
-- [Peter Higgs, physicist who discovered Higgs boson, has died](https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94)
-- [Intel Gaudi 3 AI Accelerator](https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html)
+- [Cow Magnets](https://www.stanfordmagnets.com/cow-magnets.html)
+- [PS1 Programming Course with MIPS Assembly and C](https://pikuma.com/courses/ps1-programming-mips-assembly-language)
+- [Zed Decoded: Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
+- [ScreenAI: A visual LLM for UI and visually-situated language understanding](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
+- [Fairbuds: In-ear with replaceable batteries](https://shop.fairphone.com/fairbuds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
