@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [European court rules human rights violated by climate inaction](https://www.bbc.co.uk/news/science-environment-68768598)
-- [SSSL – Hackless SSL bypass for the Wii U](https://github.com/PretendoNetwork/SSSL)
-- [Switzerland faces landmark climate-human rights ruling](https://www.swissinfo.ch/eng/science/historic-verdict-could-link-climate-crisis-and-human-rights/75321434)
-- [Sqlime: Online SQLite Playground](https://github.com/nalgeon/sqlime)
-- [Interview with Yanis Varoufakis on Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)
+- [Introducing Google Axion Processors, our new Arm-based CPUs](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu/)
+- [Social Skill Training with Large Language Models](https://arxiv.org/abs/2404.04204)
+- [Total eclipse of the Internet: traffic impacts in Mexico, the US, and Canada](https://blog.cloudflare.com/total-eclipse-internet-traffic-impacts-mexico-us-canada)
+- [How to use my science-based color wheel](https://www.youtube.com/watch?v=alrdClpGHvY)
+- [BYD is launching its next-gen Blade EV battery – more range and even lower cost](https://electrek.co/2024/04/08/byd-launch-next-gen-ev-battery-more-range-lower-price/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
