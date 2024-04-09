@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BART to offer final rides on original equipment on April 20](https://www.trains.com/trn/news-reviews/news-wire/bart-to-offer-final-rides-on-original-equipment-on-april-20/)
 - [Distributed SQLite: Paradigm shift or hype?](https://kerkour.com/distributed-sqlite)
 - [DRAM mfgrs stop publishing contract DRAM prices after quake, price hike expected](https://www.tomshardware.com/tech-industry/memory-makers-reportedly-stop-publishing-contract-dram-prices-following-taiwan-earthquake-further-price-hikes-are-expected)
 - [Genesis of the “Golfball” Selectric](https://oztypewriter.blogspot.com/2011/08/on-this-day-in-typewriter-history_14.html)
 - [TSAC: Low Bitrate Audio Compression](https://bellard.org/tsac/)
-- [1.18k drawings of plant root systems](https://images.wur.nl/digital/collection/coll13/search)
 <!-- BLOG-POST-LIST:END -->
 
 ---
