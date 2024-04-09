@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google&#39;s Chrome Antitrust Paradox](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718)
 - [Beeper acquired by Automattic &lpar;WordPress&rpar;](https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/)
 - [With Vids, Google thinks it has the next big productivity tool for work](https://www.theverge.com/2024/4/9/24124168/google-vids-video-ai-workspace-app)
 - [New Grafana Loki UI: No LogQL Required](https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/)
 - [FCC chair rejects call to impose Universal Service fees on broadband](https://arstechnica.com/tech-policy/2024/04/fcc-chair-rejects-call-to-impose-universal-service-fees-on-broadband/)
-- [Supreme Commander Graphics Study &lpar;2015&rpar;](http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
