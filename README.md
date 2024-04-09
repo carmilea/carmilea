@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Reliable Systems Out of Unreliable Agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
+- [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
+- [Making an RISC-V OS &lpar;Part 3&rpar;: Managing free memory](https://traxys.me/riscv_os_buddy.html)
 - [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
 - [GPT-4 Turbo with Vision Generally Available](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)
-- [Complexity Is the Enemy](https://neugierig.org/software/blog/2011/04/complexity.html)
-- [Evaluating faithfulness and content selection of LLMs in book-length summaries](https://arxiv.org/abs/2404.01261)
-- [The Collapse of Small Press Distribution](https://lithub.com/the-small-press-world-is-about-to-fall-apart-on-the-collapse-of-small-press-distribution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
