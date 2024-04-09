@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TSMC will build third Arizona fab after winning $6.6B in CHIPS funding](https://arstechnica.com/tech-policy/2024/04/tsmc-will-build-third-arizona-fab-after-winning-6-6b-in-chips-funding/)
+- [Welcome to the Age of Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)
 - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
-- [Viewing the 2024 Solar Eclipse with Commodore 64&#39;s 1984 Sky Travel [video]](https://www.youtube.com/watch?v=gipFvhEMB0I)
 - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
 - [Show HN: I created automatic subtitling app to boost short videos](https://videofa.st/en/short-video/automatic-subtitles/)
-- [MapSCII – ASCII world map renderer for your console – enter =&gt; telnet mapscii.me](https://github.com/rastapasta/mapscii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
