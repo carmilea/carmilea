@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [India&#39;s electric rickshaws are leaving EVs in the dust, like YC Electric](https://restofworld.org/2024/e-rickshaw-yc-electric-india/)
-- [What makes a great software engineer [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/Paul-Li-MSR-Tech-Report.pdf)
+- [Beeper acquired by Automattic &lpar;WordPress&rpar;](https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/)
+- [With Vids, Google thinks it has the next big productivity tool for work](https://www.theverge.com/2024/4/9/24124168/google-vids-video-ai-workspace-app)
+- [New Grafana Loki UI: No LogQL Required](https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/)
 - [FCC chair rejects call to impose Universal Service fees on broadband](https://arstechnica.com/tech-policy/2024/04/fcc-chair-rejects-call-to-impose-universal-service-fees-on-broadband/)
-- [Penpot 2.0 Released](https://community.penpot.app/t/penpot-2-0-a-major-milestone-in-our-journey-is-now-yours-to-explore-and-enjoy/4906)
-- [Google CodeGemma: Open Code Models Based on Gemma [pdf]](https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf)
+- [Supreme Commander Graphics Study &lpar;2015&rpar;](http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
