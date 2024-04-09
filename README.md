@@ -59,8 +59,8 @@
 - [Building Reliable Systems Out of Unreliable Agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
 - [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
 - [Making an RISC-V OS &lpar;Part 3&rpar;: Managing free memory](https://traxys.me/riscv_os_buddy.html)
-- [How we built the Find My Device network with user security and privacy in mind](https://security.googleblog.com/2024/04/find-my-device-network-security-privacy-protections.html)
 - [Reflections of a bird collision monitor](https://www.audubon.org/es/node/149317)
+- [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
 <!-- BLOG-POST-LIST:END -->
 
 ---
