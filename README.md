@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bay Area Workers Charged for Building Secret Apartments Inside Train Stations](https://therealdeal.com/sanfrancisco/2024/04/06/two-bay-area-railway-workers-charged-for-building-secret-apartments-inside-train-stations/)
-- [Don&#39;t require people to change &#39;source code&#39; to configure your programs](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges)
+- [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
+- [Viewing the 2024 Solar Eclipse with Commodore 64&#39;s 1984 Sky Travel [video]](https://www.youtube.com/watch?v=gipFvhEMB0I)
 - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
 - [Show HN: I created automatic subtitling app to boost short videos](https://videofa.st/en/short-video/automatic-subtitles/)
 - [MapSCII – ASCII world map renderer for your console – enter =&gt; telnet mapscii.me](https://github.com/rastapasta/mapscii)
