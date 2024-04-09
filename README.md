@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [XZ Utils Attack: A Threat Actor Spent 2 Years to Implement Linux Backdoor](https://www.techrepublic.com/article/xz-backdoor-linux/)
+- [Bay Area Workers Charged for Building Secret Apartments Inside Train Stations](https://therealdeal.com/sanfrancisco/2024/04/06/two-bay-area-railway-workers-charged-for-building-secret-apartments-inside-train-stations/)
+- [Don&#39;t require people to change &#39;source code&#39; to configure your programs](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges)
+- [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
 - [Show HN: I created automatic subtitling app to boost short videos](https://videofa.st/en/short-video/automatic-subtitles/)
-- [BART to offer final rides on original equipment on April 20](https://www.trains.com/trn/news-reviews/news-wire/bart-to-offer-final-rides-on-original-equipment-on-april-20/)
-- [Distributed SQLite: Paradigm shift or hype?](https://kerkour.com/distributed-sqlite)
-- [DRAM mfgrs stop publishing contract DRAM prices after quake, price hike expected](https://www.tomshardware.com/tech-industry/memory-makers-reportedly-stop-publishing-contract-dram-prices-following-taiwan-earthquake-further-price-hikes-are-expected)
+- [MapSCII – ASCII world map renderer for your console – enter =&gt; telnet mapscii.me](https://github.com/rastapasta/mapscii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
