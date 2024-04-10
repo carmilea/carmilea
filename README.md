@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mixtral-8x22B on HuggingFace](https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1)
+- [Nimble: A new columnar file format by Meta [video]](https://www.youtube.com/watch?v=bISBNVtXZ6M)
+- [Libgourou: A Free Implementation of Adobe&#39;s Adept DRM on ePub/PDF Files](https://forge.soutade.fr/soutade/libgourou)
+- [Lens sort, a masked pixel sort glitch effect](https://github.com/BernardZhao/lenssort)
 - [Code Search Is Hard](https://blog.val.town/blog/search-notes/)
 - [Udio: Generate music in your favorite styles with a text prompt](https://twitter.com/udiomusic/status/1778045322654003448)
-- [Implementation of Google&#39;s Griffin Architecture – RNN LLM](https://github.com/google-deepmind/recurrentgemma)
-- [Google Photos&#39; enhanced editing tools will no longer require a subscription](https://www.engadget.com/google-photos-enhanced-editing-tools-will-no-longer-require-a-subscription-160015336.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
