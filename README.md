@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Meta Used Monolithic Architecture to Ship Threads in Only Five Months](https://www.infoq.com/news/2024/04/meta-threads-instagram-5-months/)
+- [New details on F-16, drone collision in banned Arizona airspace](https://dronedj.com/2024/04/09/new-details-on-f-16-drone-collision-in-banned-arizona-airspace/)
+- [EU&#39;s new tech laws are working – small browsers gain market share](https://www.forth.news/threads/66161a684e6a1465f62f6a3b)
 - [Alibaba founder Jack Ma steps out from shadows with long internal post](https://www.reuters.com/business/retail-consumer/alibaba-founder-jack-ma-steps-out-shadows-with-long-internal-post-2024-04-10/)
-- [A science fiction obsession led me to psychological war](https://buttondown.email/thehypothesis/archive/how-a-science-fiction-obsession-led-me-to/)
-- [Why does part of the Windows 98 Setup program look older than the rest? &lpar;2020&rpar;](https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest)
-- [GPT-4 Turbo with Vision is a step backwards for coding](https://aider.chat/2024/04/09/gpt-4-turbo.html)
+- [PHP in 2024](https://stitcher.io/blog/php-in-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
