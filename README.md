@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Do You Need IPv4 Anymore?](https://blog.daknob.net/do-you-really-need-ipv4-anymore/)
+- [EPA Says &#39;Forever Chemicals&#39; Must Be Removed from Tap Water](https://www.nytimes.com/2024/04/10/climate/epa-pfas-drinking-water.html)
+- [World&#39;s Smallest CSV Parser &lpar;C#&rpar;](https://github.com/kjpgit/SmallestCSVParser)
 - [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
 - [Mux &lpar;YC W16&rpar; is hiring a Senior Product Designer that&#39;s excited about devtools](https://mux.com/jobs?j=product-designer)
-- [Gentoo Linux becomes an SPI associated project](https://www.gentoo.org/news/2024/04/10/SPI-associated-project.html)
-- [Nimble: A new columnar file format by Meta [video]](https://www.youtube.com/watch?v=bISBNVtXZ6M)
-- [Libgourou: A Free Implementation of Adobe&#39;s Adept DRM on ePub/PDF Files](https://forge.soutade.fr/soutade/libgourou)
 <!-- BLOG-POST-LIST:END -->
 
 ---
