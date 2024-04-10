@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ronda Rousey: &#39;I never wanted to talk about concussion. It felt like a weakness&#39;](https://www.theguardian.com/sport/2024/mar/31/ronda-rousey-i-never-wanted-to-talk-about-concussion-it-felt-like-a-weakness)
+- [Kobo announces color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
+- [Meta MTIA v2](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/)
 - [Twitter&#39;s pivot to x.com is a gift to phishers](https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/)
 - [Show HN: Ads-B Visualizer](https://adsb.exposed/)
-- [WebAssembly Adoption: Is Slow and Steady Winning the Race?](https://thenewstack.io/webassembly-adoption-is-slow-and-steady-winning-the-race/)
-- [2023 ACM Turing Prize awarded to Avi Wigderson](https://awards.acm.org/about/2023-turing)
-- [Show HN: QR Builder](https://qr-builder.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
