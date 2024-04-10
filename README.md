@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rural Americans Are Dying at Increasingly Higher Rates Than City Dwellers](https://kffhealthnews.org/news/article/rural-urban-mortality-gap-widening/)
+- [The greatest bug I never fixed &lpar;2010&rpar;](https://blog.makandra.com/2010/04/the-greatest-bug-i-never-fixed/)
+- [Show HN: Ads-B Visualizer](https://adsb.exposed/)
+- [2023 ACM Turing Prize awarded to Avi Wigderson](https://awards.acm.org/about/2023-turing)
 - [Lago – Open-Source Stripe Alternative Is Hiring a Post-Sales Solution Eng&lpar;EU&rpar;](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
-- [Redis is not &quot;open core&quot; &lpar;2021&rpar;](http://antirez.com/news/121)
 - [Animal-free egg protein startup Onego Bio is closer to cracking the egg market](https://techcrunch.com/2024/04/01/animal-free-egg-protein-onego-bio-40m/)
-- [AzerothCore: Self-Hosted World of Warcraft 3.3.5a Server](https://github.com/azerothcore/azerothcore-wotlk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
