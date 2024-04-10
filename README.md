@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The greatest bug I never fixed &lpar;2010&rpar;](https://blog.makandra.com/2010/04/the-greatest-bug-i-never-fixed/)
+- [Twitter&#39;s pivot to x.com is a gift to phishers](https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/)
 - [Show HN: Ads-B Visualizer](https://adsb.exposed/)
+- [WebAssembly Adoption: Is Slow and Steady Winning the Race?](https://thenewstack.io/webassembly-adoption-is-slow-and-steady-winning-the-race/)
 - [2023 ACM Turing Prize awarded to Avi Wigderson](https://awards.acm.org/about/2023-turing)
-- [Lago – Open-Source Stripe Alternative Is Hiring a Post-Sales Solution Eng&lpar;EU&rpar;](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
-- [Animal-free egg protein startup Onego Bio is closer to cracking the egg market](https://techcrunch.com/2024/04/01/animal-free-egg-protein-onego-bio-40m/)
+- [Show HN: QR Builder](https://qr-builder.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
