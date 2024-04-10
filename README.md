@@ -60,7 +60,7 @@
 - [New details on F-16, drone collision in banned Arizona airspace](https://dronedj.com/2024/04/09/new-details-on-f-16-drone-collision-in-banned-arizona-airspace/)
 - [EU&#39;s new tech laws are working – small browsers gain market share](https://www.forth.news/threads/66161a684e6a1465f62f6a3b)
 - [Alibaba founder Jack Ma steps out from shadows with long internal post](https://www.reuters.com/business/retail-consumer/alibaba-founder-jack-ma-steps-out-shadows-with-long-internal-post-2024-04-10/)
-- [PHP in 2024](https://stitcher.io/blog/php-in-2024)
+- [A science fiction obsession led me to psychological war](https://buttondown.email/thehypothesis/archive/how-a-science-fiction-obsession-led-me-to/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
