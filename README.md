@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Used Monolithic Architecture to Ship Threads in Only Five Months](https://www.infoq.com/news/2024/04/meta-threads-instagram-5-months/)
+- [Alibaba founder Jack Ma steps out from shadows with long internal post](https://www.reuters.com/business/retail-consumer/alibaba-founder-jack-ma-steps-out-shadows-with-long-internal-post-2024-04-10/)
+- [A science fiction obsession led me to psychological war](https://buttondown.email/thehypothesis/archive/how-a-science-fiction-obsession-led-me-to/)
 - [Why does part of the Windows 98 Setup program look older than the rest? &lpar;2020&rpar;](https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest)
 - [GPT-4 Turbo with Vision is a step backwards for coding](https://aider.chat/2024/04/09/gpt-4-turbo.html)
-- [Building reliable systems out of unreliable agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
-- [Making an RISC-V OS &lpar;Part 3&rpar;: Managing free memory](https://traxys.me/riscv_os_buddy.html)
-- [Reflections of a bird collision monitor](https://www.audubon.org/es/node/149317)
 <!-- BLOG-POST-LIST:END -->
 
 ---
