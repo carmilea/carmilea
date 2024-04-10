@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise and Impending Fall of the Dental Cavity](https://www.cremieux.xyz/p/the-rise-and-impending-fall-of-the)
 - [Why does part of the Windows 98 Setup program look older than the rest? &lpar;2020&rpar;](https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest)
+- [GPT-4 Turbo with Vision is a step backwards for coding](https://aider.chat/2024/04/09/gpt-4-turbo.html)
 - [Building reliable systems out of unreliable agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
 - [Making an RISC-V OS &lpar;Part 3&rpar;: Managing free memory](https://traxys.me/riscv_os_buddy.html)
 - [Reflections of a bird collision monitor](https://www.audubon.org/es/node/149317)
