@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rural Americans Are Dying at Increasingly Higher Rates Than City Dwellers](https://kffhealthnews.org/news/article/rural-urban-mortality-gap-widening/)
 - [Lago – Open-Source Stripe Alternative Is Hiring a Post-Sales Solution Eng&lpar;EU&rpar;](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
+- [Redis is not &quot;open core&quot; &lpar;2021&rpar;](http://antirez.com/news/121)
 - [Animal-free egg protein startup Onego Bio is closer to cracking the egg market](https://techcrunch.com/2024/04/01/animal-free-egg-protein-onego-bio-40m/)
 - [AzerothCore: Self-Hosted World of Warcraft 3.3.5a Server](https://github.com/azerothcore/azerothcore-wotlk)
-- [RIP Peter Higgs, who laid foundation for the Higgs boson in the 1960s](https://arstechnica.com/science/2024/04/nobel-prize-winning-physicist-peter-higgs-of-higgs-boson-fame-dies-at-94/)
-- [Canonical partners with Qualcom for Snapdragon X](https://www.phoronix.com/news/Ubuntu-Qualcomm-2024-Partners)
 <!-- BLOG-POST-LIST:END -->
 
 ---
