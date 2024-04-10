@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mux &lpar;YC W16&rpar; is hiring a Senior Product Designer that&#39;s excited about devtools](https://mux.com/jobs?j=product-designer)
+- [Toward Inference-Optimal Mixture-of-Expert Large Language Models](https://arxiv.org/abs/2404.02852)
 - [Nimble: A new columnar file format by Meta [video]](https://www.youtube.com/watch?v=bISBNVtXZ6M)
+- [Funkwhale might be the most overlooked Fediverse project](https://raphael.lullis.net/funkwhale/)
 - [Libgourou: A Free Implementation of Adobe&#39;s Adept DRM on ePub/PDF Files](https://forge.soutade.fr/soutade/libgourou)
-- [Lens sort, a masked pixel sort glitch effect](https://github.com/BernardZhao/lenssort)
-- [Code Search Is Hard](https://blog.val.town/blog/search-notes/)
-- [Udio: Generate music in your favorite styles with a text prompt](https://twitter.com/udiomusic/status/1778045322654003448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
