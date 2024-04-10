@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
 - [Mux &lpar;YC W16&rpar; is hiring a Senior Product Designer that&#39;s excited about devtools](https://mux.com/jobs?j=product-designer)
-- [Toward Inference-Optimal Mixture-of-Expert Large Language Models](https://arxiv.org/abs/2404.02852)
+- [Gentoo Linux becomes an SPI associated project](https://www.gentoo.org/news/2024/04/10/SPI-associated-project.html)
 - [Nimble: A new columnar file format by Meta [video]](https://www.youtube.com/watch?v=bISBNVtXZ6M)
-- [Funkwhale might be the most overlooked Fediverse project](https://raphael.lullis.net/funkwhale/)
 - [Libgourou: A Free Implementation of Adobe&#39;s Adept DRM on ePub/PDF Files](https://forge.soutade.fr/soutade/libgourou)
 <!-- BLOG-POST-LIST:END -->
 
