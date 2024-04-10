@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. imposes first-ever national drinking water limits on PFAS](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51)
-- [Deep Bug](https://www.marginalia.nu/log/a_104_dep_bug/)
-- [Three major LLM releases in 24 hours](https://simonwillison.net/2024/Apr/10/weeknotes-llm-releases/)
-- [New details on F-16, drone collision in banned Arizona airspace](https://dronedj.com/2024/04/09/new-details-on-f-16-drone-collision-in-banned-arizona-airspace/)
-- [A science fiction obsession led me to psychological war](https://buttondown.email/thehypothesis/archive/how-a-science-fiction-obsession-led-me-to/)
+- [Lago – Open-Source Stripe Alternative Is Hiring a Post-Sales Solution Eng&lpar;EU&rpar;](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
+- [Animal-free egg protein startup Onego Bio is closer to cracking the egg market](https://techcrunch.com/2024/04/01/animal-free-egg-protein-onego-bio-40m/)
+- [AzerothCore: Self-Hosted World of Warcraft 3.3.5a Server](https://github.com/azerothcore/azerothcore-wotlk)
+- [RIP Peter Higgs, who laid foundation for the Higgs boson in the 1960s](https://arstechnica.com/science/2024/04/nobel-prize-winning-physicist-peter-higgs-of-higgs-boson-fame-dies-at-94/)
+- [Canonical partners with Qualcom for Snapdragon X](https://www.phoronix.com/news/Ubuntu-Qualcomm-2024-Partners)
 <!-- BLOG-POST-LIST:END -->
 
 ---
