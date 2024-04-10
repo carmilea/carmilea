@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral AI Launches New 8x22B MOE Model](https://twitter.com/MistralAI)
+- [Mixtral 8x22B Model](https://twitter.com/MistralAI/status/1777869263778291896)
 - [Why does part of the Windows 98 Setup program look older than the rest? &lpar;2020&rpar;](https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest)
-- [Building Reliable Systems Out of Unreliable Agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
+- [Building reliable systems out of unreliable agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
 - [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
-- [Making an RISC-V OS &lpar;Part 3&rpar;: Managing free memory](https://traxys.me/riscv_os_buddy.html)
-- [Reflections of a bird collision monitor](https://www.audubon.org/es/node/149317)
 <!-- BLOG-POST-LIST:END -->
 
 ---
