@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [KPMG Fined Record $25M in Exam-Cheating Scandal](https://www.wsj.com/articles/kpmg-fined-25-million-over-alleged-netherlands-exam-cheating-a4dcba2a)
 - [OfOne &lpar;YC W23&rpar; – voice AI for drive-thrus – is hiring a founding engineer in SF](https://www.ycombinator.com/companies/ofone/jobs/u2E2fCX-founding-software-engineer)
-- [ADHD linked with proclivity to explore while foraging](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2022.2584)
-- [5.25-inch floppy disks expected to help run San Francisco trains until 2030](https://arstechnica.com/gadgets/2024/04/5-25-inch-floppy-disks-expected-to-help-run-san-francisco-trains-until-2030/)
-- [Rents are soaring. Is a popular software tool to blame?](https://www.businessinsider.com/apartment-rent-increases-landlords-antitrust-lawsuits-real-estate-software-realpage-2024-4)
-- [996 working hour system](https://en.wikipedia.org/wiki/996_working_hour_system)
+- [Show HN: Sonauto – a more controllable AI music creator](https://sonauto.ai/)
+- [Ronda Rousey: &quot;I never wanted to talk about concussion&quot;](https://www.theguardian.com/sport/2024/mar/31/ronda-rousey-i-never-wanted-to-talk-about-concussion-it-felt-like-a-weakness)
+- [Kobo announces color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
 <!-- BLOG-POST-LIST:END -->
 
 ---
