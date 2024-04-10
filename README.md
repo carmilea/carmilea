@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [KPMG Fined Record $25M in Exam-Cheating Scandal](https://www.wsj.com/articles/kpmg-fined-25-million-over-alleged-netherlands-exam-cheating-a4dcba2a)
-- [OfOne &lpar;YC W23&rpar; – voice AI for drive-thrus – is hiring a founding engineer in SF](https://www.ycombinator.com/companies/ofone/jobs/u2E2fCX-founding-software-engineer)
-- [Show HN: Sonauto – a more controllable AI music creator](https://sonauto.ai/)
-- [Ronda Rousey: &quot;I never wanted to talk about concussion&quot;](https://www.theguardian.com/sport/2024/mar/31/ronda-rousey-i-never-wanted-to-talk-about-concussion-it-felt-like-a-weakness)
-- [Kobo announces color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
+- [Mixtral-8x22B on HuggingFace](https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1)
+- [Code Search Is Hard](https://blog.val.town/blog/search-notes/)
+- [Udio: Generate music in your favorite styles with a text prompt](https://twitter.com/udiomusic/status/1778045322654003448)
+- [Implementation of Google&#39;s Griffin Architecture – RNN LLM](https://github.com/google-deepmind/recurrentgemma)
+- [Google Photos&#39; enhanced editing tools will no longer require a subscription](https://www.engadget.com/google-photos-enhanced-editing-tools-will-no-longer-require-a-subscription-160015336.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
