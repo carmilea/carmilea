@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Humane AI Pin review: not even close](https://www.theverge.com/24126502/humane-ai-pin-review)
-- [Show HN: CNDI – DevOps for Data Teams](https://github.com/polyseam/cndi)
+- [Anyone got a contact at OpenAI. They have a spider problem](https://mailman.nanog.org/pipermail/nanog/2024-April/225407.html)
+- [Herman Goldstine and the IAS Machine: Unveiling the Modern Computer](https://thechipletter.substack.com/p/unveiling-the-modern-computer)
+- [Stacking Triangles for Fun and Profit](https://www.oranlooney.com/post/angle-addition/)
 - [Fern &lpar;YC W23&rpar; Is Hiring a Front End Engineer in Brooklyn, NY](https://www.ycombinator.com/companies/fern/jobs/BfXHkk5-frontend-engineer)
-- [Transformers.js: State-of-the-art Machine Learning for the web](https://github.com/xenova/transformers.js)
-- [Mental Health in Software Engineering](https://vadimkravcenko.com/shorts/mental-health-in-software-engineering/)
+- [Transformers.js –  Run Transformers directly in the browser](https://github.com/xenova/transformers.js)
 <!-- BLOG-POST-LIST:END -->
 
 ---
