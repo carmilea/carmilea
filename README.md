@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Computer scientist wins Turing Award for seminal work on randomness](https://arstechnica.com/science/2024/04/computer-scientist-wins-turing-award-for-seminal-work-on-randomness/)
+- [ESA Satellites to Test Razor-Sharp Formation Flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
+- [Ukraine Is the First &quot;Hackers&#39; War&quot;](https://spectrum.ieee.org/ukraine-hackers-war)
 - [Continuous Social Media Scrolling Negatively Impacts Eye Movement](https://www.optometryadvisor.com/home/meetings/aaopt-2021/social-media-scrolling-detrimental-to-ocular-health/)
 - [AI-generated sad girl with piano performs the text of the MIT License](https://suno.com/song/da6d4a83-1001-4694-8c28-648a6e8bad0a/)
-- [End of the Line? Saudi Arabia to scale back plans for desert megacity](https://www.theguardian.com/world/2024/apr/10/the-line-saudi-arabia-scaling-back-plans-105-mile-long-desert-megacity-crown-prince)
-- [Going in circles without a real-time clock](https://rachelbythebay.com/w/2024/04/10/rtc/)
-- [Building an AI Coach to Tame My Monkey Mind](https://eugeneyan.com/writing/ai-coach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
