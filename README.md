@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Naismith&#39;s Rule](https://en.wikipedia.org/wiki/Naismith%27s_rule)
 - [Amazon owes $525M in cloud-storage patent fight, US jury says](https://www.reuters.com/legal/amazon-owes-525-mln-cloud-storage-patent-fight-us-jury-says-2024-04-11/)
 - [MixRank &lpar;YC S11&rpar; is hiring global remote software engineers](https://news.ycombinator.com/item?id=39997376)
 - [Replacing Wires Could Double How Much Electricity the US Grid Can Handle](https://cleantechnica.com/2024/04/10/replacing-wires-could-double-how-much-electricity-the-us-grid-can-handle/)
 - [ETag and HTTP Caching](https://rednafi.com/misc/etag_and_http_caching/)
-- [When teaching computer architecture, why are universities using obscure CPUs?](https://academia.stackexchange.com/questions/209300/when-teaching-computer-architecture-why-are-universities-using-obscure-or-even)
 <!-- BLOG-POST-LIST:END -->
 
 ---
