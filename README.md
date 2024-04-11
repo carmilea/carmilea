@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Evidence &lpar;YC S21&rpar; Is Hiring an Analytics Intern](https://www.ycombinator.com/companies/evidence/jobs/Lu29GmN-analytics-intern)
-- [The Camorra Never Sleeps &lpar;2012&rpar;](https://www.vanityfair.com/culture/2012/05/naples-mob-paolo-di-lauro-italy)
-- [Vortex: OpenCL Compatible RISC-V Gpgpu](https://vortex.cc.gatech.edu/)
-- [Why Is README Capitalized? &lpar;2015&rpar;](https://softwareengineering.stackexchange.com/questions/301691/readme-txt-vs-readme-txt)
-- [Show HN: I made a new sensor out of 3D printer filament for my PhD](https://paulbupejr.com/developing-the-optigap-sensor-system/)
+- [Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
+- [Holodeck: Language Guided Generation of 3D Embodied AI Environments](https://yueyang1996.github.io/holodeck/)
+- [Caching is often enough &lpar;2003&rpar;](https://www.mnot.net/blog/2003/06/28/caching_is_often_enough)
+- [Why birds survived and dinosaurs went extinct after an asteroid hit earth &lpar;2020&rpar;](https://www.smithsonianmag.com/science-nature/why-birds-survived-and-dinosaurs-went-extinct-after-asteroid-hit-earth-180975801/)
+- [Storm: An LLM system that researches a topic and generates a full-length report](https://github.com/stanford-oval/storm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
