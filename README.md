@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Macs to Get AI-Focused M4 Chips Starting in Late 2024](https://www.macrumors.com/2024/04/11/m4-ai-chips-late-2024/)
 - [Etleap &lpar;YC W13&rpar; is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
-- [Discovering the xz backdoor with Andres Freund [audio]](https://oxide.computer/podcasts/oxide-and-friends/1843393)
+- [Spectrum of Covid-19: From Asymptomatic Organ Damage to Long Covid Syndrome](https://whn.global/scientific/spectrum-of-covid-19-from-asymptomatic-organ-damage-to-long-covid-syndrome/)
 - [Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
-- [Holodeck: Language Guided Generation of 3D Embodied AI Environments](https://yueyang1996.github.io/holodeck/)
 - [Why birds survived and dinosaurs went extinct after an asteroid hit earth &lpar;2020&rpar;](https://www.smithsonianmag.com/science-nature/why-birds-survived-and-dinosaurs-went-extinct-after-asteroid-hit-earth-180975801/)
 <!-- BLOG-POST-LIST:END -->
 
