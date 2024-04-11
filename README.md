@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Interview with Google Cloud CEO Thomas Kurian on Google&#39;s Enterprise AI Strategy](https://stratechery.com/2024/an-interview-with-google-cloud-ceo-thomas-kurian-about-googles-enterprise-ai-strategy/)
-- [The DDoS Attack of Academic Bullshit](https://www.benlandautaylor.com/p/the-ddos-attack-of-academic-bullshit)
+- [The DDoS attack of academic bullshit](https://www.benlandautaylor.com/p/the-ddos-attack-of-academic-bullshit)
 - [Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
 - [Holodeck: Language Guided Generation of 3D Embodied AI Environments](https://yueyang1996.github.io/holodeck/)
 - [Why birds survived and dinosaurs went extinct after an asteroid hit earth &lpar;2020&rpar;](https://www.smithsonianmag.com/science-nature/why-birds-survived-and-dinosaurs-went-extinct-after-asteroid-hit-earth-180975801/)
+- [Storm: LLM system that researches a topic and generates full-length wiki article](https://github.com/stanford-oval/storm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
