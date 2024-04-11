@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Humane AI Pin review: not even close](https://www.theverge.com/24126502/humane-ai-pin-review)
+- [Show HN: CNDI – DevOps for Data Teams](https://github.com/polyseam/cndi)
 - [Fern &lpar;YC W23&rpar; Is Hiring a Front End Engineer in Brooklyn, NY](https://www.ycombinator.com/companies/fern/jobs/BfXHkk5-frontend-engineer)
-- [Conscientious Unbelievers](https://aeon.co/essays/how-scots-freethinkers-managed-to-loosen-christianitys-grip)
-- [ESA Satellites to Test Razor-Sharp Formation Flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
-- [Show HN: Snake-inspired FOSS game Dungeon Rush playable in the browser](https://midzer.de/wasm/dungeonrush/)
-- [Continuous Social Media Scrolling Negatively Impacts Eye Movement](https://www.optometryadvisor.com/home/meetings/aaopt-2021/social-media-scrolling-detrimental-to-ocular-health/)
+- [Transformers.js: State-of-the-art Machine Learning for the web](https://github.com/xenova/transformers.js)
+- [Mental Health in Software Engineering](https://vadimkravcenko.com/shorts/mental-health-in-software-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
