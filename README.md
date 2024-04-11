@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Need IPv4 Anymore?](https://blog.daknob.net/do-you-really-need-ipv4-anymore/)
-- [EPA Says &#39;Forever Chemicals&#39; Must Be Removed from Tap Water](https://www.nytimes.com/2024/04/10/climate/epa-pfas-drinking-water.html)
-- [World&#39;s Smallest CSV Parser &lpar;C#&rpar;](https://github.com/kjpgit/SmallestCSVParser)
-- [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
-- [Mux &lpar;YC W16&rpar; is hiring a Senior Product Designer that&#39;s excited about devtools](https://mux.com/jobs?j=product-designer)
+- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39997376)
+- [Replacing Wires Could Double How Much Electricity the US Grid Can Handle](https://cleantechnica.com/2024/04/10/replacing-wires-could-double-how-much-electricity-the-us-grid-can-handle/)
+- [ETag and HTTP Caching](https://rednafi.com/misc/etag_and_http_caching/)
+- [Introducing Kagi Search&#39;s New Design](https://kagi.com/changelog#3750)
+- [Why Can&#39;t My Mom Email Me?](https://matduggan.com/why-cant-my-mom-email-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
