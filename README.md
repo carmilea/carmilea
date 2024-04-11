@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evidence &lpar;YC S21&rpar; Is Hiring an Analytics Intern](https://www.ycombinator.com/companies/evidence/jobs/Lu29GmN-analytics-intern)
+- [The Camorra Never Sleeps &lpar;2012&rpar;](https://www.vanityfair.com/culture/2012/05/naples-mob-paolo-di-lauro-italy)
+- [Vortex: OpenCL Compatible RISC-V Gpgpu](https://vortex.cc.gatech.edu/)
+- [Why Is README Capitalized? &lpar;2015&rpar;](https://softwareengineering.stackexchange.com/questions/301691/readme-txt-vs-readme-txt)
 - [Show HN: I made a new sensor out of 3D printer filament for my PhD](https://paulbupejr.com/developing-the-optigap-sensor-system/)
-- [Harvard will require test scores for admission again](https://www.washingtonpost.com/education/2024/04/11/harvard-reinstates-sat-act-admissions-requirement/)
-- [Pompeii: Breathtaking new paintings found at ancient city](https://www.bbc.com/news/science-environment-68777741)
-- [Apple alerts users in 92 nations to mercenary spyware attacks](https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/)
-- [NYC Rat Sightings &lpar;Daily&rpar; – Interactive Chart](https://realtime.org/data/nyc-rat-sightings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
