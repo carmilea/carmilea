@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NYC Rat Sightings &lpar;Daily&rpar; – Interactive Chart](https://realtime.org/data/nyc-rat-sightings)
 - [Anyone got a contact at OpenAI. They have a spider problem](https://mailman.nanog.org/pipermail/nanog/2024-April/225407.html)
 - [Herman Goldstine and the IAS Machine: Unveiling the Modern Computer](https://thechipletter.substack.com/p/unveiling-the-modern-computer)
 - [Stacking Triangles for Fun and Profit](https://www.oranlooney.com/post/angle-addition/)
 - [Fern &lpar;YC W23&rpar; Is Hiring a Front End Engineer in Brooklyn, NY](https://www.ycombinator.com/companies/fern/jobs/BfXHkk5-frontend-engineer)
-- [Transformers.js –  Run Transformers directly in the browser](https://github.com/xenova/transformers.js)
 <!-- BLOG-POST-LIST:END -->
 
 ---
