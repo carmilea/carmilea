@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a new sensor out of 3D printer filament for my PhD](https://paulbupejr.com/developing-the-optigap-sensor-system/)
+- [Harvard will require test scores for admission again](https://www.washingtonpost.com/education/2024/04/11/harvard-reinstates-sat-act-admissions-requirement/)
+- [Pompeii: Breathtaking new paintings found at ancient city](https://www.bbc.com/news/science-environment-68777741)
+- [Apple alerts users in 92 nations to mercenary spyware attacks](https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/)
 - [NYC Rat Sightings &lpar;Daily&rpar; – Interactive Chart](https://realtime.org/data/nyc-rat-sightings)
-- [Anyone got a contact at OpenAI. They have a spider problem](https://mailman.nanog.org/pipermail/nanog/2024-April/225407.html)
-- [Herman Goldstine and the IAS Machine: Unveiling the Modern Computer](https://thechipletter.substack.com/p/unveiling-the-modern-computer)
-- [Stacking Triangles for Fun and Profit](https://www.oranlooney.com/post/angle-addition/)
-- [Fern &lpar;YC W23&rpar; Is Hiring a Front End Engineer in Brooklyn, NY](https://www.ycombinator.com/companies/fern/jobs/BfXHkk5-frontend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
