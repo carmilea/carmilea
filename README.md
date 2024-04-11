@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39997376)
+- [Amazon owes $525M in cloud-storage patent fight, US jury says](https://www.reuters.com/legal/amazon-owes-525-mln-cloud-storage-patent-fight-us-jury-says-2024-04-11/)
+- [MixRank &lpar;YC S11&rpar; is hiring global remote software engineers](https://news.ycombinator.com/item?id=39997376)
 - [Replacing Wires Could Double How Much Electricity the US Grid Can Handle](https://cleantechnica.com/2024/04/10/replacing-wires-could-double-how-much-electricity-the-us-grid-can-handle/)
 - [ETag and HTTP Caching](https://rednafi.com/misc/etag_and_http_caching/)
 - [When teaching computer architecture, why are universities using obscure CPUs?](https://academia.stackexchange.com/questions/209300/when-teaching-computer-architecture-why-are-universities-using-obscure-or-even)
-- [Why Can&#39;t My Mom Email Me?](https://matduggan.com/why-cant-my-mom-email-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
