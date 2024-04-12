@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Threads on Mastodon and the Bright Future of the Fediverse](https://www.augment.ink/threads-on-mastodon/)
+- [Threads on Mastodon and the bright future of the Fediverse](https://www.augment.ink/threads-on-mastodon/)
 - [Abstract Methods and NotImplementedError in Ruby](https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/)
-- [Boaty McBoatface](https://en.wikipedia.org/wiki/Boaty_McBoatface)
-- [Building a Linux Container Using Namespaces: Part – 1](https://www.polarsparc.com/xhtml/Containers-1.html)
-- [DwarFS – The Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
+- [Building a Linux Container Using Namespaces: Part – 1 &lpar;2020&rpar;](https://www.polarsparc.com/xhtml/Containers-1.html)
+- [DwarFS – Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
+- [Pacific castaways&#39; &#39;HELP&#39; sign sparks rescue mission and family reunion](https://www.msn.com/en-us/news/us/pacific-castaways-help-sign-sparks-us-rescue-mission-and-an-unexpected-family-reunion/ar-BB1lqNYE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
