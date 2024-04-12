@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Suicide is on the rise for young Americans, with no clear answers](https://www.bbc.com/news/world-us-canada-68782177)
-- [What happens when we pay public high school teachers based on performance](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20200295)
-- [Unit Tests Considered Harmful](https://www.shaiyallin.com/post/unit-tests-considered-harmful)
+- [96% of US hospital websites share visitor info with Meta, Google, data brokers](https://www.theregister.com/2024/04/11/hospital_website_data_sharing/)
+- [Childhood Loneliness Linked to Later Psychosis](https://neurosciencenews.com/childhood-loneliness-psychosis-25891/)
+- [DOE Announces $75M to Advance Desalination and Water Reuse Tech](https://www.energy.gov/eere/articles/department-energy-announces-75-million-national-alliance-water-innovation-advance)
 - [Unpkg CDN down causing dependent website outages](https://github.com/mjackson/unpkg/issues/384)
 - [Researchers find a new organelle evolving](https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/)
 <!-- BLOG-POST-LIST:END -->
