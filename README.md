@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=40014087)
-- [How we built JSR](https://deno.com/blog/how-we-built-jsr)
-- [Childhood Loneliness Linked to Later Psychosis](https://neurosciencenews.com/childhood-loneliness-psychosis-25891/)
-- [China Tells Telecom Carriers to Phase Out Foreign Chips in Blow to Intel, AMD](https://www.wsj.com/tech/china-telecom-intel-amd-chips-99ae99a9)
-- [Researchers find a new organelle evolving](https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/)
+- [Artisan AI &lpar;YC W24&rpar; Is Hiring a Senior Back End Engineer](https://www.ycombinator.com/companies/artisan-ai/jobs/QNttgQ2-senior-backend-engineer)
+- [Show HN: 5 Years Ago I made the Recovery Kit, I just made the RK2](https://www.doscher.com/recovery-kit-version-2/)
+- [Systemd minimizing required dependencies for libsystemd](https://mastodon.social/@pid_eins/112256363180973672)
+- [Led Zeppelin had a working fireplace in their plane &lpar;2018&rpar;](http://justacarguy.blogspot.com/2018/04/led-zeppelin-had-fireplace-in-their.html)
+- [DuckDuckGo Privacy Pro](https://spreadprivacy.com/meetprivacypro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
