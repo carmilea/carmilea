@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fine-Tuning Increases LLM Vulnerabilities and Risk](https://arxiv.org/abs/2404.04392)
-- [How Did American Capitalism Mutate into American Corporatism?](https://brownstone.org/articles/how-did-american-capitalism-mutate-into-american-corporatism/)
-- [Seven seconds: the Tower Bridge Hawker Hunter incident &lpar;2016&rpar;](https://www.aerialcombat.co.uk/2016/04/seven-seconds-the-tower-bridge-hawker-hunter-incident.html)
+- [Dr. Andrew Ng Appointed to Amazon&#39;s Board of Directors](https://www.aboutamazon.com/news/company-news/dr-andrew-ng-joins-amazon-board-of-directors)
+- [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
+- [Amazon virtually kills efforts to develop Alexa Skills, disappointing dozens](https://arstechnica.com/gadgets/2024/04/amazon-virtually-kills-efforts-to-develop-alexa-skills-disappointing-dozens/)
 - [Etleap &lpar;YC W13&rpar; is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
 - [Why CISA Is Warning CISOs About a Breach at Sisense](https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/)
 <!-- BLOG-POST-LIST:END -->
