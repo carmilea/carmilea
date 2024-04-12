@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [96% of US hospital websites share visitor info with Meta, Google, data brokers](https://www.theregister.com/2024/04/11/hospital_website_data_sharing/)
+- [How we built JSR](https://deno.com/blog/how-we-built-jsr)
+- [FSRS is one of the most accurate spaced repetition algorithms in the world](https://old.reddit.com/r/Anki/comments/1c29775/fsrs_is_one_of_the_most_accurate_spaced/)
 - [Childhood Loneliness Linked to Later Psychosis](https://neurosciencenews.com/childhood-loneliness-psychosis-25891/)
-- [DOE Announces $75M to Advance Desalination and Water Reuse Tech](https://www.energy.gov/eere/articles/department-energy-announces-75-million-national-alliance-water-innovation-advance)
-- [Unpkg CDN down causing dependent website outages](https://github.com/mjackson/unpkg/issues/384)
 - [Researchers find a new organelle evolving](https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/)
+- [Show HN: tu – Convert natural language date/time to UTC](https://github.com/ad-si/tu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
