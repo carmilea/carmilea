@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hawaii Moves to Ban Short-Term Rentals to Address Housing Crisis](https://substack.perfectunion.us/p/hawaii-moves-to-ban-short-term-rentals)
+- [ULIDs and Primary Keys](https://blog.daveallie.com/ulid-primary-keys)
 - [Ford&#39;s Battery Flagship Socked by Mold Sickness, Workers Say](https://labornotes.org/2024/02/fords-battery-flagship-socked-mold-sickness-workers-say)
 - [Google blocks some California news as fight over online journalism bill escalate](https://www.politico.com/news/2024/04/12/google-california-news-journalism-00151873)
-- [&quot;Strong focus on aesthetics&quot; contributed to collapse of Norway timber bridge](https://www.dezeen.com/2024/04/11/tretten-bridge-collapse-norway-timber/)
-- [Haunting photos of the bison extermination in 19th century America](https://rarehistoricalphotos.com/american-bison-extinction-photos/)
-- [Artisan AI &lpar;YC W24&rpar; Is Hiring a Senior Back End Engineer](https://www.ycombinator.com/companies/artisan-ai/jobs/QNttgQ2-senior-backend-engineer)
+- [Bypass Paywalls repository is gone](https://news.ycombinator.com/item?id=40015961)
 <!-- BLOG-POST-LIST:END -->
 
 ---
