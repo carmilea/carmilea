@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Haunting photos of the bison extermination in 19th century America](https://rarehistoricalphotos.com/american-bison-extinction-photos/)
 - [Artisan AI &lpar;YC W24&rpar; Is Hiring a Senior Back End Engineer](https://www.ycombinator.com/companies/artisan-ai/jobs/QNttgQ2-senior-backend-engineer)
 - [Show HN: 5 Years Ago I made the Recovery Kit, I just made the RK2](https://www.doscher.com/recovery-kit-version-2/)
-- [Systemd minimizing required dependencies for libsystemd](https://mastodon.social/@pid_eins/112256363180973672)
-- [Led Zeppelin had a working fireplace in their plane &lpar;2018&rpar;](http://justacarguy.blogspot.com/2018/04/led-zeppelin-had-fireplace-in-their.html)
-- [DuckDuckGo Privacy Pro](https://spreadprivacy.com/meetprivacypro/)
+- [Google threatens to cut off news after California proposes paying media outlets](https://www.theverge.com/2024/4/12/24128363/google-cjpa-news-removal-california)
+- [Systemd replacing ELF dependencies with dlopen](https://mastodon.social/@pid_eins/112256363180973672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
