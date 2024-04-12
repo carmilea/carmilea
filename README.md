@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford&#39;s Battery Flagship Socked by Mold Sickness, Workers Say](https://labornotes.org/2024/02/fords-battery-flagship-socked-mold-sickness-workers-say)
+- [Google blocks some California news as fight over online journalism bill escalate](https://www.politico.com/news/2024/04/12/google-california-news-journalism-00151873)
+- [&quot;Strong focus on aesthetics&quot; contributed to collapse of Norway timber bridge](https://www.dezeen.com/2024/04/11/tretten-bridge-collapse-norway-timber/)
 - [Haunting photos of the bison extermination in 19th century America](https://rarehistoricalphotos.com/american-bison-extinction-photos/)
 - [Artisan AI &lpar;YC W24&rpar; Is Hiring a Senior Back End Engineer](https://www.ycombinator.com/companies/artisan-ai/jobs/QNttgQ2-senior-backend-engineer)
-- [Show HN: 5 Years Ago I made the Recovery Kit, I just made the RK2](https://www.doscher.com/recovery-kit-version-2/)
-- [Google threatens to cut off news after California proposes paying media outlets](https://www.theverge.com/2024/4/12/24128363/google-cjpa-news-removal-california)
-- [Systemd replacing ELF dependencies with dlopen](https://mastodon.social/@pid_eins/112256363180973672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
