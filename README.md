@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [B.C. to require hospitals have designated spaces for patient illicit drug use](https://www.theglobeandmail.com/canada/british-columbia/article-bc-to-require-hospitals-to-have-designated-space-for-substance-use/)
+- [Unpkg CDN down causing dependent website outages](https://github.com/mjackson/unpkg/issues/384)
+- [Researchers find a new organelle evolving](https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/)
+- [I Lost Faith in Kagi](https://d-shoot.net/kagi.html)
 - [Fast, Declarative, Reproduble and Composable Developer Environments Using Nix](https://devenv.sh/)
-- [Tinygrad: Hacked 4090 driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
-- [An open source initiative to share and compare heat pump performance data](https://heatpumpmonitor.org/)
-- [Webb – Space Telescope Live. What Is Webb Observing Now?](https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1)
-- [&quot;Here&#39;s a puzzle game. I call it Reverse the List of Integers.&quot;](https://mathstodon.xyz/@two_star/112242224494626411)
 <!-- BLOG-POST-LIST:END -->
 
 ---
