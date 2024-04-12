@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dr. Andrew Ng Appointed to Amazon&#39;s Board of Directors](https://www.aboutamazon.com/news/company-news/dr-andrew-ng-joins-amazon-board-of-directors)
+- [Boaty McBoatface](https://en.wikipedia.org/wiki/Boaty_McBoatface)
+- [Building a Linux Container Using Namespaces: Part – 1](https://www.polarsparc.com/xhtml/Containers-1.html)
+- [Andrew Ng Appointed to Amazon&#39;s Board of Directors](https://www.aboutamazon.com/news/company-news/dr-andrew-ng-joins-amazon-board-of-directors)
+- [DwarFS – The Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
 - [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
-- [Amazon virtually kills efforts to develop Alexa Skills, disappointing dozens](https://arstechnica.com/gadgets/2024/04/amazon-virtually-kills-efforts-to-develop-alexa-skills-disappointing-dozens/)
-- [Etleap &lpar;YC W13&rpar; is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
-- [Why CISA Is Warning CISOs About a Breach at Sisense](https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
