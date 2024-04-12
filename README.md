@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=40014087)
 - [How we built JSR](https://deno.com/blog/how-we-built-jsr)
-- [FSRS is one of the most accurate spaced repetition algorithms in the world](https://old.reddit.com/r/Anki/comments/1c29775/fsrs_is_one_of_the_most_accurate_spaced/)
 - [Childhood Loneliness Linked to Later Psychosis](https://neurosciencenews.com/childhood-loneliness-psychosis-25891/)
+- [China Tells Telecom Carriers to Phase Out Foreign Chips in Blow to Intel, AMD](https://www.wsj.com/tech/china-telecom-intel-amd-chips-99ae99a9)
 - [Researchers find a new organelle evolving](https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/)
-- [Show HN: tu – Convert natural language date/time to UTC](https://github.com/ad-si/tu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
