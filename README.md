@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An open source initiative to share and compare heat pump performance data](https://heatpumpmonitor.org/)
+- [Explaining Llm.c in Layman Terms](https://nitter.poast.org/karpathy/status/1778153659106533806)
 - [Webb – Space Telescope Live. What Is Webb Observing Now?](https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1)
 - [&quot;Here&#39;s a puzzle game. I call it Reverse the List of Integers.&quot;](https://mathstodon.xyz/@two_star/112242224494626411)
 - [Organizing OpenStreetMap Mapping Parties](https://contrapunctus.codeberg.page/blog/mapping-party-tips.html)
-- [There&#39;s a 30-year old dead rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
-- [Fivefold Slower Compared to Go? Optimizing Rust&#39;s Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
