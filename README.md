@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Another Boeing whistleblower says he faced retaliation for reporting &#39;shortcuts&#39;](https://www.npr.org/2024/04/12/1244147895/boeing-whistleblower-retaliation-shortcuts-787-dreamliner)
+- [Fast, Declarative, Reproduble and Composable Developer Environments Using Nix](https://devenv.sh/)
+- [Tinygrad: Hacked 4090 driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
 - [An open source initiative to share and compare heat pump performance data](https://heatpumpmonitor.org/)
-- [H-1B visa fraud alive and well amid anti-abuse efforts](https://www.theregister.com/2024/04/09/h1b_visa_fraud/)
 - [Webb – Space Telescope Live. What Is Webb Observing Now?](https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1)
 - [&quot;Here&#39;s a puzzle game. I call it Reverse the List of Integers.&quot;](https://mathstodon.xyz/@two_star/112242224494626411)
 <!-- BLOG-POST-LIST:END -->
