@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Highly capable&quot; hackers root corporate networks by exploiting firewall 0-day](https://arstechnica.com/security/2024/04/highly-capable-hackers-root-corporate-networks-by-exploiting-firewall-0-day/)
 - [Show HN: Mazelit - My wife and I released our first game](https://news.ycombinator.com/item?id=40017180)
+- [Palo Alto Networks PAN-OS Zero-Day Exploitation](https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/)
 - [Shiakaku of the Day](https://shikakuofthe.day/)
 - [Green&#39;s Dictionary of Slang](https://greensdictofslang.com/)
-- [Cipherleaks is the first demonstrated attack against AMD SEV-SNP](https://cipherleaks.com/)
+- [Show HN: Facelessvideos.ai – An app to create viral TikTok videos with AI](https://www.facelessvideos.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
