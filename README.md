@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [House Votes to Extend–and Expand–A Major US Spy Program](https://www.wired.com/story/house-section-702-vote/)
+- [&quot;Highly capable&quot; hackers root corporate networks by exploiting firewall 0-day](https://arstechnica.com/security/2024/04/highly-capable-hackers-root-corporate-networks-by-exploiting-firewall-0-day/)
+- [Show HN: Mazelit - My wife and I released our first game](https://news.ycombinator.com/item?id=40017180)
+- [Shiakaku of the Day](https://shikakuofthe.day/)
+- [Green&#39;s Dictionary of Slang](https://greensdictofslang.com/)
 - [Cipherleaks is the first demonstrated attack against AMD SEV-SNP](https://cipherleaks.com/)
-- [ULIDs and Primary Keys](https://blog.daveallie.com/ulid-primary-keys)
-- [Ford&#39;s battery flagship socked by mold sickness, workers say](https://labornotes.org/2024/02/fords-battery-flagship-socked-mold-sickness-workers-say)
-- [Google blocks some California news as fight over online journalism bill escalate](https://www.politico.com/news/2024/04/12/google-california-news-journalism-00151873)
 <!-- BLOG-POST-LIST:END -->
 
 ---
