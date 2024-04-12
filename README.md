@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads on Mastodon and the Bright Future of the Fediverse](https://www.augment.ink/threads-on-mastodon/)
+- [Abstract Methods and NotImplementedError in Ruby](https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/)
 - [Boaty McBoatface](https://en.wikipedia.org/wiki/Boaty_McBoatface)
 - [Building a Linux Container Using Namespaces: Part – 1](https://www.polarsparc.com/xhtml/Containers-1.html)
-- [Andrew Ng Appointed to Amazon&#39;s Board of Directors](https://www.aboutamazon.com/news/company-news/dr-andrew-ng-joins-amazon-board-of-directors)
 - [DwarFS – The Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
-- [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
