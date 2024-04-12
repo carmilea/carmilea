@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Here&#39;s a puzzle game. I call it Reverse the List of Integers.&quot;](https://mathstodon.xyz/@two_star/112242224494626411)
+- [There&#39;s a 30-year old dead rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
+- [Fivefold Slower Compared to Go? Optimizing Rust&#39;s Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)
 - [Threads on Mastodon and the bright future of the Fediverse](https://www.augment.ink/threads-on-mastodon/)
 - [Abstract Methods and NotImplementedError in Ruby](https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/)
-- [Building a Linux Container Using Namespaces: Part – 1 &lpar;2020&rpar;](https://www.polarsparc.com/xhtml/Containers-1.html)
-- [DwarFS – Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
-- [Pacific castaways&#39; &#39;HELP&#39; sign sparks rescue mission and family reunion](https://www.msn.com/en-us/news/us/pacific-castaways-help-sign-sparks-us-rescue-mission-and-an-unexpected-family-reunion/ar-BB1lqNYE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
