@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [B.C. to require hospitals have designated spaces for patient illicit drug use](https://www.theglobeandmail.com/canada/british-columbia/article-bc-to-require-hospitals-to-have-designated-space-for-substance-use/)
+- [Suicide is on the rise for young Americans, with no clear answers](https://www.bbc.com/news/world-us-canada-68782177)
+- [What happens when we pay public high school teachers based on performance](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20200295)
+- [Unit Tests Considered Harmful](https://www.shaiyallin.com/post/unit-tests-considered-harmful)
 - [Unpkg CDN down causing dependent website outages](https://github.com/mjackson/unpkg/issues/384)
 - [Researchers find a new organelle evolving](https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/)
-- [I Lost Faith in Kagi](https://d-shoot.net/kagi.html)
-- [Fast, Declarative, Reproduble and Composable Developer Environments Using Nix](https://devenv.sh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
