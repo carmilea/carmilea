@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+- [Harmful 5G Fast Lanes Are Coming; the FCC Needs to Stop Them](https://cyberlaw.stanford.edu/blog/2024/04/harmful-5g-fast-lanes-are-coming-fcc-needs-stop-them)
 - [Tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
 - [350 tons of of chocolate and wine arrive on world’s largest cargo sailboat](https://untappedcities.com/2024/04/12/grain-de-sail-ll/)
 - [A disgruntled federal employee&#39;s 1980s desk calendar &lpar;2018&rpar;](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
-- [Why do some people always get lost?](https://knowablemagazine.org/content/article/society/2024/why-do-some-people-always-get-lost-but-others-dont)
-- [Shape Typing in Python](https://jameshfisher.com/2024/04/12/shape-typing-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
