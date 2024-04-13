@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: ZSV &lpar;Zip Separated Values&rpar; columnar data format](https://github.com/Hafthor/zsvutil)
+- [The Stacks Project: A Wikipedia of algebraic geometry &lpar;2022&rpar;](https://news.columbia.edu/news/stacks-project-johan-dejong)
 - [Summers: Inflation Reached 18% in 2022 Using the Government&#39;s Previous Formula](https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/)
-- [For Go programmers, a cheap CGo pattern to give Jia Tan a headache](https://gist.github.com/christoofar/880b4bcf3018f4681bb71bfdf1c16a6a)
+- [Device stopped working because your medical prescription has expired](https://olympicophthalmics.com/itear-100/faqs/)
 - [The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
-- [Why drivers risk tickets instead of parking in their garages](https://sfstandard.com/2024/04/13/parking-in-driveway-blocking-sidewalk-garage/)
-- [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
