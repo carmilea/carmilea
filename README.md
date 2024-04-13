@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grok-1.5 Vision Preview](https://x.ai/blog/grok-1.5v)
+- [EVs are lowering Bay Area&#39;s carbon footprint](https://news.berkeley.edu/2024/04/04/evs-are-lowering-bay-area-s-carbon-footprint)
 - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
 - [Japanese Police Arrest Man for Tampering with Pokémon Violet Save Data](https://www.ign.com/articles/japanese-police-arrest-36-year-old-man-on-suspicion-of-tampering-with-pokemon-violet-save-data)
 - [I Continue to No Longer Attend Vintage Computer Festivals](http://ascii.textfiles.com/archives/5591)
-- [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://open-eqa.github.io/)
+- [Employing Others Is Linked to Wealth and Wellbeing](https://news.gallup.com/poll/643268/employing-others-linked-wealth-wellbeing.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
