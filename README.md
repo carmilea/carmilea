@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beware of EuroDNS](https://ivdl.co.za/2024/04/14/beware-of-eurodns/)
+- [Kerodon – an online resource for homotopy-coherent mathematics](https://kerodon.net/)
+- [Open Circuits Book](https://opencircuitsbook.com/)
+- [Who is hiring interns &lpar;April 2024&rpar;](https://news.ycombinator.com/item?id=40025783)
 - [Show HN: ZSV &lpar;Zip Separated Values&rpar; columnar data format](https://github.com/Hafthor/zsvutil)
-- [The Stacks Project: A Wikipedia of algebraic geometry &lpar;2022&rpar;](https://news.columbia.edu/news/stacks-project-johan-dejong)
-- [Summers: Inflation Reached 18% in 2022 Using the Government&#39;s Previous Formula](https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/)
-- [Device stopped working because your medical prescription has expired](https://olympicophthalmics.com/itear-100/faqs/)
-- [The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
