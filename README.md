@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Gemini 1.5 read all the Harry Potter books at once?](https://twitter.com/deedydas/status/1778621375592485076/photo/1)
+- [Huawei building chip equipment R&amp;D center in Shanghai](https://asia.nikkei.com/Business/Tech/Semiconductors/Huawei-building-vast-chip-equipment-R-D-center-in-Shanghai)
 - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
 - [Japanese police arrest man for tampering with Pokémon Violet save data](https://www.ign.com/articles/japanese-police-arrest-36-year-old-man-on-suspicion-of-tampering-with-pokemon-violet-save-data)
+- [DES/3DES Algorithm Illustration](https://hereket.com/tiny/des-algorithm/)
 - [I continue to no longer attend vintage computer festivals](http://ascii.textfiles.com/archives/5591)
-- [Employing Others Is Linked to Wealth and Wellbeing](https://news.gallup.com/poll/643268/employing-others-linked-wealth-wellbeing.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
