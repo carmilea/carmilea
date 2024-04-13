@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EVs are lowering Bay Area&#39;s carbon footprint](https://news.berkeley.edu/2024/04/04/evs-are-lowering-bay-area-s-carbon-footprint)
+- [Can Gemini 1.5 read all the Harry Potter books at once?](https://twitter.com/deedydas/status/1778621375592485076/photo/1)
 - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
-- [Japanese Police Arrest Man for Tampering with Pokémon Violet Save Data](https://www.ign.com/articles/japanese-police-arrest-36-year-old-man-on-suspicion-of-tampering-with-pokemon-violet-save-data)
-- [I Continue to No Longer Attend Vintage Computer Festivals](http://ascii.textfiles.com/archives/5591)
+- [Japanese police arrest man for tampering with Pokémon Violet save data](https://www.ign.com/articles/japanese-police-arrest-36-year-old-man-on-suspicion-of-tampering-with-pokemon-violet-save-data)
+- [I continue to no longer attend vintage computer festivals](http://ascii.textfiles.com/archives/5591)
 - [Employing Others Is Linked to Wealth and Wellbeing](https://news.gallup.com/poll/643268/employing-others-linked-wealth-wellbeing.aspx)
 <!-- BLOG-POST-LIST:END -->
 
