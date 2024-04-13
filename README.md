@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Mazelit - My wife and I released our first game](https://news.ycombinator.com/item?id=40017180)
-- [Palo Alto Networks PAN-OS Zero-Day Exploitation](https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/)
-- [Shiakaku of the Day](https://shikakuofthe.day/)
-- [Green&#39;s Dictionary of Slang](https://greensdictofslang.com/)
-- [Show HN: Facelessvideos.ai – An app to create viral TikTok videos with AI](https://www.facelessvideos.ai/)
+- [Japanese Police Arrest Man for Tampering with Pokémon Violet Save Data](https://www.ign.com/articles/japanese-police-arrest-36-year-old-man-on-suspicion-of-tampering-with-pokemon-violet-save-data)
+- [Microsoft starts testing ads in the Windows 11 Start menu](https://www.theverge.com/2024/4/12/24128640/microsoft-windows-11-start-menu-ads-app-recommendations)
+- [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://open-eqa.github.io/)
+- [YouTube has a new design on desktop and everyone is mad about it](https://www.androidpolice.com/youtube-new-desktop-design-nobody-likes/)
+- [Defeated CEOs are now conceding hybrid working is here to stay](https://fortune.com/2024/04/12/kpmg-study-us-ceos-accept-hybrid-working-employee-return-to-office/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
