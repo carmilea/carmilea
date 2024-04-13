@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Send an SMS in Haskell &lpar;2017&rpar;](https://www.twilio.com/en-us/blog/setting-up-your-haskell-developer-environment-with-twilio-html)
-- [Self-Hosted Is Awesome](https://pixeljets.com/blog/self-hosted-is-awesome/)
-- [Open Source, Supply Chains, and Bears](https://scottarc.blog/2024/04/04/open-source-supply-chains-and-bears-oh-my/)
+- [A disgruntled federal employee&#39;s 1980s desk calendar &lpar;2018&rpar;](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
+- [The First Beta of Android 15](https://android-developers.googleblog.com/2024/04/the-first-beta-of-android-15.html)
+- [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
 - [DES/3DES Algorithm Illustration](https://hereket.com/tiny/des-algorithm/)
-- [I continue to no longer attend vintage computer festivals](http://ascii.textfiles.com/archives/5591)
+- [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://open-eqa.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
