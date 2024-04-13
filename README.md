@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is .NET just miles ahead or am I delusional?](https://old.reddit.com/r/dotnet/comments/18gpl24/is_net_just_miles_ahead_or_am_i_delusional/)
-- [Germanwings Flight 9525](https://en.wikipedia.org/wiki/Germanwings_Flight_9525)
-- [Huawei building chip equipment R&amp;D center in Shanghai](https://asia.nikkei.com/Business/Tech/Semiconductors/Huawei-building-vast-chip-equipment-R-D-center-in-Shanghai)
+- [How to Send an SMS in Haskell &lpar;2017&rpar;](https://www.twilio.com/en-us/blog/setting-up-your-haskell-developer-environment-with-twilio-html)
+- [Self-Hosted Is Awesome](https://pixeljets.com/blog/self-hosted-is-awesome/)
 - [Open Source, Supply Chains, and Bears](https://scottarc.blog/2024/04/04/open-source-supply-chains-and-bears-oh-my/)
-- [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
+- [DES/3DES Algorithm Illustration](https://hereket.com/tiny/des-algorithm/)
+- [I continue to no longer attend vintage computer festivals](http://ascii.textfiles.com/archives/5591)
 <!-- BLOG-POST-LIST:END -->
 
 ---
