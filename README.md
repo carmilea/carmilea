@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Work-from-Home Era Is Bad for Burglars](https://www.bloomberg.com/opinion/articles/2024-04-13/working-from-home-claims-another-victim-burglars)
-- [Hey, does anyone remember the BBS game my dad wrote? It was called Buccaneer ...](https://hackers.town/@CyberpunkLibrarian/112046696080448828)
+- [Tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
+- [Fortran-lang joins NumFOCUS as a sponsored project](https://twitter.com/fortranlang/status/1778953864458174941)
+- [350 tons of of chocolate and wine arrive on world’s largest cargo sailboat](https://untappedcities.com/2024/04/12/grain-de-sail-ll/)
 - [A disgruntled federal employee&#39;s 1980s desk calendar &lpar;2018&rpar;](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
-- [15 Note Poly Tempo Pendulum [video]](https://www.youtube.com/watch?v=lTwg4mFF32E)
-- [Identical twins both grew up with autism, but took different paths](https://www.npr.org/sections/health-shots/2024/04/04/1242264274/siblings-science-identical-twin-brothers-autism-spectrum)
+- [Why do some people always get lost?](https://knowablemagazine.org/content/article/society/2024/why-do-some-people-always-get-lost-but-others-dont)
 <!-- BLOG-POST-LIST:END -->
 
 ---
