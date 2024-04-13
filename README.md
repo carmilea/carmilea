@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;The Tourists Have Taken Everything&quot; Laments Japanese Resident as Retro Runs Dry](https://www.timeextension.com/news/2024/04/the-tourists-have-taken-everything-laments-japanese-resident-as-retro-runs-dry)
 - [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
-- [Physically attractive attorneys tend to have greater success in federal court](https://www.psypost.org/physically-attractive-attorneys-tend-to-have-greater-success-in-federal-court/)
 - [AI-Startup Launches Ever-Expanding Library of Free Stock Photos and Music](https://torrentfreak.com/ai-startup-launches-ever-expanding-library-of-free-stock-photos-and-music-240413/)
-- [Harmful 5G Fast Lanes Are Coming; the FCC Needs to Stop Them](https://cyberlaw.stanford.edu/blog/2024/04/harmful-5g-fast-lanes-are-coming-fcc-needs-stop-them)
-- [Tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
+- [The FCC needs to stop 5G fast lanes](https://cyberlaw.stanford.edu/blog/2024/04/harmful-5g-fast-lanes-are-coming-fcc-needs-stop-them)
+- [Show HN: CTRL-F for YouTube Videos](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO)
 <!-- BLOG-POST-LIST:END -->
 
 ---
