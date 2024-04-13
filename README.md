@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beware of EuroDNS](https://ivdl.co.za/2024/04/14/beware-of-eurodns/)
+- [We ensure Cloudflare customers aren&#39;t affected by LE&#39;s certificate chain change](https://blog.cloudflare.com/shortening-lets-encrypt-change-of-trust-no-impact-to-cloudflare-customers)
+- [Ford Mustang Mach-E Using BlueCruise at Time of Crash: NTSB](https://fordauthority.com/2024/04/ford-mustang-mach-e-using-bluecruise-at-time-of-crash-ntsb/)
 - [Kerodon – an online resource for homotopy-coherent mathematics](https://kerodon.net/)
-- [Open Circuits Book](https://opencircuitsbook.com/)
 - [Who is hiring interns &lpar;April 2024&rpar;](https://news.ycombinator.com/item?id=40025783)
 - [Show HN: ZSV &lpar;Zip Separated Values&rpar; columnar data format](https://github.com/Hafthor/zsvutil)
 <!-- BLOG-POST-LIST:END -->
