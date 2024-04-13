@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Work-from-Home Era Is Bad for Burglars](https://www.bloomberg.com/opinion/articles/2024-04-13/working-from-home-claims-another-victim-burglars)
+- [Hey, does anyone remember the BBS game my dad wrote? It was called Buccaneer ...](https://hackers.town/@CyberpunkLibrarian/112046696080448828)
 - [A disgruntled federal employee&#39;s 1980s desk calendar &lpar;2018&rpar;](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
-- [The First Beta of Android 15](https://android-developers.googleblog.com/2024/04/the-first-beta-of-android-15.html)
-- [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
-- [DES/3DES Algorithm Illustration](https://hereket.com/tiny/des-algorithm/)
-- [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://open-eqa.github.io/)
+- [15 Note Poly Tempo Pendulum [video]](https://www.youtube.com/watch?v=lTwg4mFF32E)
+- [Identical twins both grew up with autism, but took different paths](https://www.npr.org/sections/health-shots/2024/04/04/1242264274/siblings-science-identical-twin-brothers-autism-spectrum)
 <!-- BLOG-POST-LIST:END -->
 
 ---
