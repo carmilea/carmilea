@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+- [Physically attractive attorneys tend to have greater success in federal court](https://www.psypost.org/physically-attractive-attorneys-tend-to-have-greater-success-in-federal-court/)
+- [AI-Startup Launches Ever-Expanding Library of Free Stock Photos and Music](https://torrentfreak.com/ai-startup-launches-ever-expanding-library-of-free-stock-photos-and-music-240413/)
 - [Harmful 5G Fast Lanes Are Coming; the FCC Needs to Stop Them](https://cyberlaw.stanford.edu/blog/2024/04/harmful-5g-fast-lanes-are-coming-fcc-needs-stop-them)
 - [Tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
-- [350 tons of of chocolate and wine arrive on world’s largest cargo sailboat](https://untappedcities.com/2024/04/12/grain-de-sail-ll/)
-- [A disgruntled federal employee&#39;s 1980s desk calendar &lpar;2018&rpar;](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
