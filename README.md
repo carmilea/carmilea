@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I made a site that lets you make interactive demos for free](https://www.demopond.com/)
-- [I ported thousands apps to Windows 95 [video]](https://www.youtube.com/watch?v=CTUMNtKQLl8)
-- [Godot as an Embeddable Game Engine](https://tirania.org/blog/archive/2024/Apr-23.html)
-- [Getting into way too much detail with the Z80 netlist simulation &lpar;2021&rpar;](https://floooh.github.io/2021/12/06/z80-instruction-timing.html#table-of-content)
-- [Problem with selling developer tools is that devs have no purchasing authority](https://twitter.com/d_feldman/status/1779203622351339955)
+- [Fedora 41 will unify bin and sbin](https://fedoraproject.org/wiki/Changes/Unify_bin_and_sbin)
+- [Roku Says Hackers Gained Access to 576,000 Accounts in Data-Breach Incident](https://www.wsj.com/tech/roku-says-hackers-gained-access-to-576-000-accounts-in-latest-data-breach-incident-8f73ab15)
+- [Broadcom has willingly dug its VMware hole, says cloud CEO [video]](https://www.theregister.com/2024/04/08/broadcom_vmware_civo/)
+- [Wikipedia Abuse Filter](https://en.wikipedia.org/wiki/Special:AbuseFilter/?deletedfilters=hide&furtheroptions%5B%5D=hideprivate&furtheroptions%5B%5D=hidedisabled&limit=500)
+- [The Guide to Stock Options Conversations](https://zaidesanton.substack.com/p/the-guide-to-stock-options-conversations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
