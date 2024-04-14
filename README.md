@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We ensure Cloudflare customers aren&#39;t affected by LE&#39;s certificate chain change](https://blog.cloudflare.com/shortening-lets-encrypt-change-of-trust-no-impact-to-cloudflare-customers)
-- [Ford Mustang Mach-E Using BlueCruise at Time of Crash: NTSB](https://fordauthority.com/2024/04/ford-mustang-mach-e-using-bluecruise-at-time-of-crash-ntsb/)
-- [Kerodon – an online resource for homotopy-coherent mathematics](https://kerodon.net/)
-- [Who is hiring interns &lpar;April 2024&rpar;](https://news.ycombinator.com/item?id=40025783)
+- [Super Mario 64&#39;s Invisible Walls Explained Once and for All](https://www.youtube.com/watch?v=YsXCVsDFiXA)
+- [Ford Mustang Mach-E using BlueCruise at time of crash: NTSB](https://fordauthority.com/2024/04/ford-mustang-mach-e-using-bluecruise-at-time-of-crash-ntsb/)
 - [Show HN: ZSV &lpar;Zip Separated Values&rpar; columnar data format](https://github.com/Hafthor/zsvutil)
+- [The Stacks Project: A Wikipedia of algebraic geometry &lpar;2022&rpar;](https://news.columbia.edu/news/stacks-project-johan-dejong)
+- [Summers: Inflation Reached 18% in 2022 Using the Government&#39;s Previous Formula](https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
