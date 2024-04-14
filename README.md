@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Super Mario 64&#39;s Invisible Walls Explained Once and for All](https://www.youtube.com/watch?v=YsXCVsDFiXA)
+- [Show HN: Comprehensive inter-process communication &lpar;IPC&rpar; toolkit in modern C++](https://github.com/Flow-IPC)
+- [US finalizes rules for &#39;forever chemicals&#39; in drinking water](https://www.theverge.com/2024/4/10/24125488/epa-pfas-forever-chemicals-drinking-water-standards)
+- [Dano is a wrapper for FFmpeg that checksums the internal file streams](https://github.com/kimono-koans/dano)
+- [Super Mario 64&#39;s invisible walls explained [video]](https://www.youtube.com/watch?v=YsXCVsDFiXA)
 - [Ford Mustang Mach-E using BlueCruise at time of crash: NTSB](https://fordauthority.com/2024/04/ford-mustang-mach-e-using-bluecruise-at-time-of-crash-ntsb/)
-- [Show HN: ZSV &lpar;Zip Separated Values&rpar; columnar data format](https://github.com/Hafthor/zsvutil)
-- [The Stacks Project: A Wikipedia of algebraic geometry &lpar;2022&rpar;](https://news.columbia.edu/news/stacks-project-johan-dejong)
-- [Summers: Inflation Reached 18% in 2022 Using the Government&#39;s Previous Formula](https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
