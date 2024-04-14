@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1,800-year-old Roman statue discovered in parking lot](https://www.cnn.com/2024/03/19/style/roman-statue-parking-lot-intl-scn-scli/index.html)
 - [Show HN: Comprehensive inter-process communication &lpar;IPC&rpar; toolkit in modern C++](https://github.com/Flow-IPC)
-- [US finalizes rules for &#39;forever chemicals&#39; in drinking water](https://www.theverge.com/2024/4/10/24125488/epa-pfas-forever-chemicals-drinking-water-standards)
+- [Show HN: PostgreSQL index advisor](https://github.com/supabase/index_advisor)
 - [Dano is a wrapper for FFmpeg that checksums the internal file streams](https://github.com/kimono-koans/dano)
-- [Super Mario 64&#39;s invisible walls explained [video]](https://www.youtube.com/watch?v=YsXCVsDFiXA)
 - [Ford Mustang Mach-E using BlueCruise at time of crash: NTSB](https://fordauthority.com/2024/04/ford-mustang-mach-e-using-bluecruise-at-time-of-crash-ntsb/)
 <!-- BLOG-POST-LIST:END -->
 
