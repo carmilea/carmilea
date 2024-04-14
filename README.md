@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Obituary for a Quiet Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 - [1,800-year-old Roman statue discovered in parking lot](https://www.cnn.com/2024/03/19/style/roman-statue-parking-lot-intl-scn-scli/index.html)
 - [Show HN: Comprehensive inter-process communication &lpar;IPC&rpar; toolkit in modern C++](https://github.com/Flow-IPC)
 - [Show HN: PostgreSQL index advisor](https://github.com/supabase/index_advisor)
-- [Dano is a wrapper for FFmpeg that checksums the internal file streams](https://github.com/kimono-koans/dano)
-- [Ford Mustang Mach-E using BlueCruise at time of crash: NTSB](https://fordauthority.com/2024/04/ford-mustang-mach-e-using-bluecruise-at-time-of-crash-ntsb/)
+- [Fast and secure translation on your local machine with a GUI](https://github.com/XapaJIaMnu/translateLocally)
 <!-- BLOG-POST-LIST:END -->
 
 ---
