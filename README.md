@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a site that lets you make interactive demos for free](https://www.demopond.com/)
+- [I ported thousands apps to Windows 95 [video]](https://www.youtube.com/watch?v=CTUMNtKQLl8)
+- [Godot as an Embeddable Game Engine](https://tirania.org/blog/archive/2024/Apr-23.html)
+- [Getting into way too much detail with the Z80 netlist simulation &lpar;2021&rpar;](https://floooh.github.io/2021/12/06/z80-instruction-timing.html#table-of-content)
 - [Problem with selling developer tools is that devs have no purchasing authority](https://twitter.com/d_feldman/status/1779203622351339955)
-- [Obituary for a Quiet Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
-- [1,800-year-old Roman statue discovered in parking lot](https://www.cnn.com/2024/03/19/style/roman-statue-parking-lot-intl-scn-scli/index.html)
-- [Show HN: Comprehensive inter-process communication &lpar;IPC&rpar; toolkit in modern C++](https://github.com/Flow-IPC)
-- [Show HN: PostgreSQL index advisor](https://github.com/supabase/index_advisor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
