@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem with selling developer tools is that devs have no purchasing authority](https://twitter.com/d_feldman/status/1779203622351339955)
 - [Obituary for a Quiet Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 - [1,800-year-old Roman statue discovered in parking lot](https://www.cnn.com/2024/03/19/style/roman-statue-parking-lot-intl-scn-scli/index.html)
 - [Show HN: Comprehensive inter-process communication &lpar;IPC&rpar; toolkit in modern C++](https://github.com/Flow-IPC)
 - [Show HN: PostgreSQL index advisor](https://github.com/supabase/index_advisor)
-- [Fast and secure translation on your local machine with a GUI](https://github.com/XapaJIaMnu/translateLocally)
 <!-- BLOG-POST-LIST:END -->
 
 ---
