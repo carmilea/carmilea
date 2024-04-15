@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Citizenship Privilege Harms Science](https://www.nature.com/articles/d41586-024-01080-x)
-- [Tesla Cybertruck Production Halted Due to Unintended Acceleration](https://www.barrons.com/articles/tesla-cybertruck-production-halted-ac750c17)
-- [Medium bans AI-generated content from its paid Partner Program](https://www.bleepingcomputer.com/news/technology/medium-bans-ai-generated-content-from-its-paid-partner-program/)
-- [Getting the Grid to Net Zero](https://spectrum.ieee.org/electric-inverter)
-- [Open source versus Microsoft: The new rebellion begins](https://www.theregister.com/2024/04/15/opinion_microsoft_sovereignty/)
+- [Deliberative Consensus Protocols](https://social-protocols.org/deliberative-consensus-protocols/)
+- [Yagi–Uda Antenna](https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna)
+- [20 years ago Gmail revolutionized email. It&#39;s time for a new revolution](https://tuta.com/blog/gmail-20-years-old)
+- [Fortran Standard Library: release v0.5.0](https://fortran-lang.discourse.group/t/fortran-standard-library-release-v0-5-0/7827)
+- [TwitchAdSolutions – Blocking Twitch Ads](https://github.com/pixeltris/TwitchAdSolutions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
