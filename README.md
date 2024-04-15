@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Degen Communism](https://vitalik.eth.limo/general/2024/04/01/dc.html)
+- [From L3 to seL4 what have we learnt in 20 years of L4 microkernels? [video]](https://www.youtube.com/watch?v=RdoaFc5-1Rk)
 - [Sleep apnea: Mouthguards less invasive, just as effective as CPAP](https://newatlas.com/medical/sleep-apnea-mouthguard-cpap-blood-pressure/)
 - [DMCA Notice Targeting &#39;Bypass Paywalls Clean&#39; Isn&#39;t the Thing to Get Angry About](https://torrentfreak.com/dmca-targetting-bypass-paywalls-clean-isnt-what-people-should-be-angry-about-240414/)
 - [The Wallis Annenberg Wildlife Crossing](https://101wildlifecrossing.org/)
