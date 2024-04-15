@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Citizenship Privilege Harms Science](https://www.nature.com/articles/d41586-024-01080-x)
+- [Tesla Cybertruck Production Halted Due to Unintended Acceleration](https://www.barrons.com/articles/tesla-cybertruck-production-halted-ac750c17)
+- [Medium bans AI-generated content from its paid Partner Program](https://www.bleepingcomputer.com/news/technology/medium-bans-ai-generated-content-from-its-paid-partner-program/)
 - [Getting the Grid to Net Zero](https://spectrum.ieee.org/electric-inverter)
-- [FBI Opens Criminal Investigation into Baltimore Bridge Collapse](https://apnews.com/article/baltimore-bridge-collapse-fbi-investiagation-58188d524035c756872603055f309c78)
-- [Tesla lays off more than 10% of its workforce](https://www.bbc.co.uk/news/technology-68818113)
-- [Framework&#39;s software and firmware have been a mess, but it&#39;s working on them](https://arstechnica.com/gadgets/2024/04/frameworks-software-and-firmware-have-been-a-mess-but-its-working-on-them/)
-- [Recall.ai &lpar;YC W20&rpar; Is Hiring Engineer #4 &lpar;Rust and Large Scale Infra&rpar;](https://www.workatastartup.com/jobs/63615)
+- [Open source versus Microsoft: The new rebellion begins](https://www.theregister.com/2024/04/15/opinion_microsoft_sovereignty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
