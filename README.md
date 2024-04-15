@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Papa Johns closest to The Pentagon is far busier than usual](https://twitter.com/lbjfancamcoop/status/1779262898314903675)
-- [Asking BigTech to police AI is like asking oil companies to solve climate change](https://fortune.com/2024/04/15/openai-google-microsoft-responsobile-societal-questions-government-responsibility/)
-- [Apple&#39;s APFS Migration: A Feat of Engineering](https://registerspill.thorstenball.com/p/a-feat-of-engineering)
-- [50% discount on OpenAI pricing if you submit a batch and give them up to 24h](https://twitter.com/simonw/status/1779932174592167965)
+- [An old rail track in Northern California could become a 300-mile hiking trail](https://www.latimes.com/environment/story/2024-04-06/northern-california-rail-track-could-become-hiking-trail)
+- [Ramanujan&#39;s Lost Notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
+- [Open-source passive radar taken down for regulatory reasons &lpar;2022&rpar;](https://hackaday.com/2022/11/19/open-source-passive-radar-taken-down-for-regulatory-reasons/)
+- [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 - [Streamline Data Integration With SingleStore and Fivetran](https://www.singlestore.com/blog/streamline-data-integration-singlestore-fivetran)
 <!-- BLOG-POST-LIST:END -->
 
