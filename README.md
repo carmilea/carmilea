@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Degen Communism](https://vitalik.eth.limo/general/2024/04/01/dc.html)
+- [Sleep apnea: Mouthguards less invasive, just as effective as CPAP](https://newatlas.com/medical/sleep-apnea-mouthguard-cpap-blood-pressure/)
 - [DMCA Notice Targeting &#39;Bypass Paywalls Clean&#39; Isn&#39;t the Thing to Get Angry About](https://torrentfreak.com/dmca-targetting-bypass-paywalls-clean-isnt-what-people-should-be-angry-about-240414/)
-- [Frank Zappa on Crossfire about censoring rock lyrics &lpar;1986&rpar; [video]](https://www.youtube.com/watch?v=B9856_xv8gc)
-- [Construction on &quot;the largest wildlife crossing&quot; starts Monday](https://101wildlifecrossing.org/)
+- [The Wallis Annenberg Wildlife Crossing](https://101wildlifecrossing.org/)
 - [Thermoelectric Cooling](https://thermoelectricsolutions.com/how-thermoelectric-cooling-works/)
-- [Computer-generated holography with ordinary display](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-8-1876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
