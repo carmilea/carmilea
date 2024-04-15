@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Swatch Internet Time](https://en.wikipedia.org/wiki/Swatch_Internet_Time)
+- [Ask HN: Does it still matter to be in the Bay Area?](https://news.ycombinator.com/item?id=40034662)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40034480)
 - [Senate Commerce Committee chair Maria Cantwell upended privacy bills for years](https://www.washingtonpost.com/technology/2024/04/13/congress-maria-cantwell-online-privacy/)
-- [Squatters take over Gordon Ramsay&#39;s London pub](https://www.bbc.com/news/uk-england-london-68806116)
-- [My cat alerted me to a DDoS attack](https://www.dannyguo.com/blog/my-cat-alerted-me-to-a-ddos-attack)
-- [Emacs 2011-2023](https://bastibe.de/2024-03-24-rip-emacs-2011-2023.html)
+- [The Airship to Orbit Project](https://www.jpaerospace.com/ATO/ATO.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
