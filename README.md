@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Papa Johns closest to The Pentagon is far busier than usual](https://twitter.com/lbjfancamcoop/status/1779262898314903675)
+- [Asking BigTech to police AI is like asking oil companies to solve climate change](https://fortune.com/2024/04/15/openai-google-microsoft-responsobile-societal-questions-government-responsibility/)
+- [Apple&#39;s APFS Migration: A Feat of Engineering](https://registerspill.thorstenball.com/p/a-feat-of-engineering)
+- [50% discount on OpenAI pricing if you submit a batch and give them up to 24h](https://twitter.com/simonw/status/1779932174592167965)
 - [Streamline Data Integration With SingleStore and Fivetran](https://www.singlestore.com/blog/streamline-data-integration-singlestore-fivetran)
-- [Embezzlers Are Nice People &lpar;2017&rpar;](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
-- [Web-Based Turbo Pascal Compiler](https://github.com/lkesteloot/turbopascal)
-- [WizardLM 2](https://wizardlm.github.io/WizardLM2/)
-- [Cycloidal marine propellers: Efficient thrust in any direction](https://newatlas.com/marine/abb-dynafin-marine-propulsion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
