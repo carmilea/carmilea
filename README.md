@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Something for the metalheads: Master Boot Record – Internet Protocol [video]](https://www.youtube.com/watch?v=t6KFfYdNPh8)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Apple Did a Dry Run of APFS on Your Device Even Before iOS 10.3 &lpar;2017&rpar;](https://www.macobserver.com/analysis/apple-dry-run-apfs-prior-ios-10-3/)
 - [Nathan Tolbert pushes the limitations of new games on old consoles](https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/)
 - [T-Mobile Employees Across the Country Receive Cash Offers to Illegally Swap Sims](https://tmo.report/2024/04/t-mobile-employees-across-the-country-receive-cash-offers-to-illegally-swap-sims/)
 - [Ramanujan&#39;s Lost Notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
