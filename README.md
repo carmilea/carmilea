@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deliberative Consensus Protocols](https://social-protocols.org/deliberative-consensus-protocols/)
-- [Yagi–Uda Antenna](https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna)
-- [20 years ago Gmail revolutionized email. It&#39;s time for a new revolution](https://tuta.com/blog/gmail-20-years-old)
-- [Fortran Standard Library: release v0.5.0](https://fortran-lang.discourse.group/t/fortran-standard-library-release-v0-5-0/7827)
-- [TwitchAdSolutions – Blocking Twitch Ads](https://github.com/pixeltris/TwitchAdSolutions)
+- [Roku makes 2FA mandatory for all after nearly 600K accounts pwned](https://www.theregister.com/2024/04/15/roku_2fa_for_everyone/)
+- [Cycloidal marine propellers: Efficient thrust in any direction](https://newatlas.com/marine/abb-dynafin-marine-propulsion/)
+- [Ask HN: I want to create IMDB for Open source projects](https://news.ycombinator.com/item?id=40041954)
+- [Got tinnitus? A device that tickles the tongue helps this musician find relief](https://www.npr.org/sections/health-shots/2024/04/15/1244501055/tinnitus-hearing-loss-ringing-ear-noise)
+- [Do we need to store all that telemetry?](https://mattklein123.dev/2024/04/10/do-you-need-to-store-that-telemetry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
