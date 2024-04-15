@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Roku makes 2FA mandatory for all after nearly 600K accounts pwned](https://www.theregister.com/2024/04/15/roku_2fa_for_everyone/)
+- [Embezzlers Are Nice People](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
+- [WizardLM 2](https://wizardlm.github.io/WizardLM2/)
 - [Cycloidal marine propellers: Efficient thrust in any direction](https://newatlas.com/marine/abb-dynafin-marine-propulsion/)
-- [Ask HN: I want to create IMDB for Open source projects](https://news.ycombinator.com/item?id=40041954)
-- [Got tinnitus? A device that tickles the tongue helps this musician find relief](https://www.npr.org/sections/health-shots/2024/04/15/1244501055/tinnitus-hearing-loss-ringing-ear-noise)
-- [Do we need to store all that telemetry?](https://mattklein123.dev/2024/04/10/do-you-need-to-store-that-telemetry/)
+- [Pile-T5](https://blog.eleuther.ai/pile-t5/)
+- [An Open-Source Implementation of Apple Code Signing and Notarization](https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
