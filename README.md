@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DMCA Notice Targeting &#39;Bypass Paywalls Clean&#39; Isn&#39;t the Thing to Get Angry About](https://torrentfreak.com/dmca-targetting-bypass-paywalls-clean-isnt-what-people-should-be-angry-about-240414/)
 - [Frank Zappa on Crossfire about censoring rock lyrics &lpar;1986&rpar; [video]](https://www.youtube.com/watch?v=B9856_xv8gc)
 - [Construction on &quot;the largest wildlife crossing&quot; starts Monday](https://101wildlifecrossing.org/)
 - [Thermoelectric Cooling](https://thermoelectricsolutions.com/how-thermoelectric-cooling-works/)
 - [Computer-generated holography with ordinary display](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-8-1876)
-- [RocketStar tests fusion-enhanced in-space propulsion process](https://www.aerospacetestinginternational.com/news/space/rocketstar-tests-fusion-enhanced-in-space-propulsion-process.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
