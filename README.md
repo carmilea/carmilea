@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Embezzlers Are Nice People](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
+- [Streamline Data Integration With SingleStore and Fivetran](https://www.singlestore.com/blog/streamline-data-integration-singlestore-fivetran)
+- [Embezzlers Are Nice People &lpar;2017&rpar;](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
+- [Web-Based Turbo Pascal Compiler](https://github.com/lkesteloot/turbopascal)
 - [WizardLM 2](https://wizardlm.github.io/WizardLM2/)
 - [Cycloidal marine propellers: Efficient thrust in any direction](https://newatlas.com/marine/abb-dynafin-marine-propulsion/)
-- [Pile-T5](https://blog.eleuther.ai/pile-t5/)
-- [An Open-Source Implementation of Apple Code Signing and Notarization](https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
