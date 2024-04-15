@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Beautifying Org Mode in Emacs &lpar;2018&rpar;](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
+- [Better Adb-Shell](https://github.com/matan-h/adb-shell)
 - [A shrub in Nepal supplies the raw material for the bank notes used in Japan](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
 - [From L3 to seL4 what have we learnt in 20 years of L4 microkernels? [video]](https://www.youtube.com/watch?v=RdoaFc5-1Rk)
 - [Sleep apnea: Mouthguards less invasive, just as effective as CPAP](https://newatlas.com/medical/sleep-apnea-mouthguard-cpap-blood-pressure/)
-- [The Wallis Annenberg Wildlife Crossing](https://101wildlifecrossing.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
