@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beware of Base64 Encoded Strings](https://garrit.xyz/posts/2024-04-15-beware-of-base64-encoded-strings)
+- [Tesla to lay off more than 10% of its staff](https://www.reuters.com/business/autos-transportation/tesla-lay-off-more-than-10-its-staff-electrek-reports-2024-04-15/)
+- [North Korea Hacked Him. So He Took Down Its Internet](https://www.wired.com/story/north-korea-hacker-internet-outage/)
 - [&#39;We&#39;re the last bastion of rental&#39;: video stores resisting rise of streaming](https://www.theguardian.com/film/2024/apr/15/uk-video-rental-shops)
 - [RFC: Banning &quot;AI&quot;-backed &lpar;LLM/GPT/whatever&rpar; contributions to Gentoo](https://www.mail-archive.com/gentoo-dev@lists.gentoo.org/msg99042.html)
-- [Beautifying Org Mode in Emacs &lpar;2018&rpar;](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
-- [Better Adb-Shell](https://github.com/matan-h/adb-shell)
-- [A shrub in Nepal supplies the raw material for the bank notes used in Japan](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
