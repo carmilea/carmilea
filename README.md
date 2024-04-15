@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beware of Base64 Encoded Strings](https://garrit.xyz/posts/2024-04-15-beware-of-base64-encoded-strings)
-- [Tesla to lay off more than 10% of its staff](https://www.reuters.com/business/autos-transportation/tesla-lay-off-more-than-10-its-staff-electrek-reports-2024-04-15/)
-- [North Korea Hacked Him. So He Took Down Its Internet](https://www.wired.com/story/north-korea-hacker-internet-outage/)
+- [Sky-high AI engineer salaries are complicating startups&#39; equity playbook](https://pitchbook.com/news/articles/ai-startups-engineer-salaries-equity-negotiations)
+- [Recall.ai &lpar;YC W20&rpar; Is Hiring Engineer #4 &lpar;Rust and Large Scale Infra&rpar;](https://www.workatastartup.com/jobs/63615)
+- [Python is Actually Portable &lpar;2022&rpar;](https://ahgamut.github.io/2021/07/13/ape-python/)
 - [&#39;We&#39;re the last bastion of rental&#39;: video stores resisting rise of streaming](https://www.theguardian.com/film/2024/apr/15/uk-video-rental-shops)
-- [RFC: Banning &quot;AI&quot;-backed &lpar;LLM/GPT/whatever&rpar; contributions to Gentoo](https://www.mail-archive.com/gentoo-dev@lists.gentoo.org/msg99042.html)
+- [The Tiny Ultrabright Laser That Can Melt Steel](https://spectrum.ieee.org/pcsel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
