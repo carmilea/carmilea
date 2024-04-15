@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An old rail track in Northern California could become a 300-mile hiking trail](https://www.latimes.com/environment/story/2024-04-06/northern-california-rail-track-could-become-hiking-trail)
-- [Ramanujan&#39;s Lost Notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
-- [Open-source passive radar taken down for regulatory reasons &lpar;2022&rpar;](https://hackaday.com/2022/11/19/open-source-passive-radar-taken-down-for-regulatory-reasons/)
-- [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
-- [Streamline Data Integration With SingleStore and Fivetran](https://www.singlestore.com/blog/streamline-data-integration-singlestore-fivetran)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [Nathan Tolbert pushes the limitations of new games on old consoles](https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/)
+- [Wrong couple divorced after computer error by law firm Vardag&#39;s](https://www.bbc.co.uk/news/uk-68821406)
+- [Once again, California exceeds 100% of demand on its main grid with](https://twitter.com/mzjacobson/status/1779614175075197142)
+- [Child care is so expensive in NYC that it&#39;s become a crisis](https://gothamist.com/news/why-child-care-is-so-expensive-in-nyc-that-its-become-a-crisis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
