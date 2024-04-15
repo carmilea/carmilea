@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sky-high AI engineer salaries are complicating startups&#39; equity playbook](https://pitchbook.com/news/articles/ai-startups-engineer-salaries-equity-negotiations)
+- [Getting the Grid to Net Zero](https://spectrum.ieee.org/electric-inverter)
+- [FBI Opens Criminal Investigation into Baltimore Bridge Collapse](https://apnews.com/article/baltimore-bridge-collapse-fbi-investiagation-58188d524035c756872603055f309c78)
+- [Tesla lays off more than 10% of its workforce](https://www.bbc.co.uk/news/technology-68818113)
+- [Framework&#39;s software and firmware have been a mess, but it&#39;s working on them](https://arstechnica.com/gadgets/2024/04/frameworks-software-and-firmware-have-been-a-mess-but-its-working-on-them/)
 - [Recall.ai &lpar;YC W20&rpar; Is Hiring Engineer #4 &lpar;Rust and Large Scale Infra&rpar;](https://www.workatastartup.com/jobs/63615)
-- [Python is Actually Portable &lpar;2022&rpar;](https://ahgamut.github.io/2021/07/13/ape-python/)
-- [&#39;We&#39;re the last bastion of rental&#39;: video stores resisting rise of streaming](https://www.theguardian.com/film/2024/apr/15/uk-video-rental-shops)
-- [The Tiny Ultrabright Laser That Can Melt Steel](https://spectrum.ieee.org/pcsel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
