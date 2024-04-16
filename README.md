@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Sweden abandoned its secret A-bomb project](https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project)
+- [David Lynch presents &#39;A Thinking Room&#39;](https://www.wallpaper.com/design-interiors/david-lynch-salone-del-mobile-2024)
+- [SingleStore Brings High Performance to Vector Search](https://www.singlestore.com/blog/singlestore-high-performance-vector-search)
+- [Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length](https://arxiv.org/abs/2404.08801)
 - [usbredir: A protocol for sending USB device traffic over a network connection](https://www.spice-space.org/usbredir.html)
-- [AT&amp;T Fiber Internet Privacy controls are horribly broken](https://github.com/sleaze/att-fiber-internet-shameful-broken-dns-hijacking)
-- [Hiring Full Stack Engineers at Apriora &lpar;YC W24&rpar;](https://www.ycombinator.com/companies/apriora/jobs/IoC1DU7-full-stack-software-engineer)
-- [Redis Is Forked](https://vickiboykis.com/2024/04/16/redis-is-forked/)
-- [How to Stop Losing 17,500 Kidneys](https://www.statecraft.pub/p/how-to-stop-losing-17500-kidneys)
 <!-- BLOG-POST-LIST:END -->
 
 ---
