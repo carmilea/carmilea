@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How We Made That App Episode 9: Pioneering AI Teaching Models with Dev Aditya](https://www.youtube.com/watch?v=-NBwR1Bgr6g)
 - [Into the SingleVerse: Exploring Conscious Capitalism with Raj Sisodia](https://www.youtube.com/watch?v=aXnFPtdPPMc)
 - [How to Protect Data in a FinServ RAG Pipeline](https://www.youtube.com/watch?v=Fylx_FGdpiI)
 - [How We Made That App Episode 8: Revolutionizing Analytics Through User Privacy with Jack Ellis](https://www.youtube.com/watch?v=uJSpexM3vCg)
 - [Managing Hallucinations in Your LLM Apps](https://www.youtube.com/watch?v=0SI8Q5qX3zA)
-- [Beginner&#39;s Guide to Vector Embeddings - SingleStore](https://www.youtube.com/watch?v=cwiMxi3M9QU)
 <!-- YOUTUBE:END -->
 
 
