@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tvix – A New Implementation of Nix](https://tvix.dev/)
+- [Amazon is filled with garbage e-books, this is how they get made](https://www.vox.com/culture/24128560/amazon-trash-ebooks-mikkelsen-twins-ai-publishing-academy-scam)
 - [Spellbrush &lpar;YC W18&rpar; hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
-- [A quick post on Chen&#39;s algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
-- [How the greatest MP3 player undid itself &lpar;2012&rpar;](https://arstechnica.com/information-technology/2017/07/winamp-how-greatest-mp3-player-undid-itself/)
-- [Show HN: Generated Documentation for Linux Kernel](https://app.safa.ai/demo?version=36438a14-bd7e-42cd-89ad-12048cea7675)
-- [Global Firepower Index](https://www.globalfirepower.com/)
+- [&#39;Pacifist&#39; Japan is tooling up for war](https://www.irishtimes.com/world/asia-pacific/2024/04/16/tokyo-letter-pacifist-japan-is-tooling-up-for-war/)
+- [ISPs can charge extra for fast gaming under FCC&#39;s Internet rules, critics say](https://arstechnica.com/tech-policy/2024/04/isps-can-charge-extra-for-fast-gaming-under-fccs-internet-rules-critics-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
