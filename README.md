@@ -58,7 +58,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
 - [A curious phenomenon called &#39;Etak&#39;](https://maphappenings.com/2024/04/11/story-of-etak/)
-- [Seismologists suspect earthquake on San Andreas Fault is imminent, despite attn](https://phys.org/news/2024-04-seismologists-earthquake-san-andreas-fault.html)
+- [Seismologists suspect earthquake on San Andreas Fault is imminent](https://phys.org/news/2024-04-seismologists-earthquake-san-andreas-fault.html)
 - [HonoJS: Small, simple, and ultrafast web framework for the Edges](https://github.com/honojs/hono)
 - [Object that slammed into Florida home was space junk for ISS, NASA confirms](https://www.space.com/object-crash-florida-home-iss-space-junk-nasa-confirms)
 <!-- BLOG-POST-LIST:END -->
