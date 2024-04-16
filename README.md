@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Object that slammed into Florida home was space junk for ISS, NASA confirms](https://www.space.com/object-crash-florida-home-iss-space-junk-nasa-confirms)
-- [Windows 11 adding ads to Start Menu](https://www.theregister.com/2024/04/15/microsoft_recommendations_windows_11/)
 - [ResearchAgent: Iterative Research Idea Generation Using LLMs](https://arxiv.org/abs/2404.07738)
 - [BTFS &lpar;BitTorrent Filesystem&rpar;](https://github.com/johang/btfs)
 - [Show HN: Render audio waveforms to HTML canvas using WebGPU](https://news.ycombinator.com/item?id=40046774)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
