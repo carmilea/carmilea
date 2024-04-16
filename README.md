@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [usbredir: A protocol for sending USB device traffic over a network connection](https://www.spice-space.org/usbredir.html)
+- [AT&amp;T Fiber Internet Privacy controls are horribly broken](https://github.com/sleaze/att-fiber-internet-shameful-broken-dns-hijacking)
 - [Hiring Full Stack Engineers at Apriora &lpar;YC W24&rpar;](https://www.ycombinator.com/companies/apriora/jobs/IoC1DU7-full-stack-software-engineer)
+- [Redis Is Forked](https://vickiboykis.com/2024/04/16/redis-is-forked/)
 - [How to Stop Losing 17,500 Kidneys](https://www.statecraft.pub/p/how-to-stop-losing-17500-kidneys)
-- [NASA tries to jog Voyager 1&#39;s memory from 15B miles away](https://www.theregister.com/2024/04/15/voyager_engineers_prepare_fix/)
-- [Google DeepMind&#39;s Aloha Unleashed is pushing the boundaries of robot dexterity](https://twitter.com/tonyzzhao/status/1780263497584230432)
-- [This is a teenager](https://pudding.cool/2024/03/teenagers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
