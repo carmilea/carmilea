@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ice to treat soft-tissue injuries contraindicated by creator of protocol](https://en.wikipedia.org/wiki/RICE_(medicine))
-- [$10M in Gold Disguised as Machine Parts Seized from Cargo Plane](https://jalopnik.com/10-million-in-gold-disguised-as-machine-parts-seized-f-1851397958)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers#section-job)
-- [Thoughts on low latency trading if exchanges went full cloud](https://blog.abctaylor.com/what-would-happen-to-low-latency-trading-if-exchanges-moved-to-the-cloud/)
-- [Show HN: a Rust based CLI tool &#39;imgcatr&#39; for displaying images](https://github.com/SilinMeng0510/imgcatr)
+- [NPR Suspends Editor Who Wrote &#39;Lost America&#39;s Trust&#39; with Liberal &#39;Advocacy&#39;](https://www.mediaite.com/news/just-in-npr-suspends-veteran-editor-who-accused-the-outlet-of-having-lost-americas-trust-with-liberal-advocacy/)
+- [A visual guide to Vision Transformer – A scroll story](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
+- [Product-Market Fit Isn&#39;t a Black Box – A New Framework to Help B2B Founders](https://pmf.firstround.com/levels)
+- [AMD unveils Ryzen Pro 8000-series processors](https://www.tomshardware.com/pc-components/cpus/amd-unveils-ryzen-pro-8040-hawk-point-and-8000-series-phoenix-processors-ai-engines-come-to-the-commercial-market)
+- [Justice Department to File Antitrust Suit Against Live Nation](https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268)
 <!-- BLOG-POST-LIST:END -->
 
 ---
