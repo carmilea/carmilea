@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech exec predicts &#39;AI girlfriends&#39; will create $1B business](https://nypost.com/2024/04/15/business/tech-exec-predicts-ai-girlfriends-will-create-1b-business/)
-- [Creating sexually explicit deepfake images to be made offence in UK](https://www.theguardian.com/technology/2024/apr/16/creating-sexually-explicit-deepfake-images-to-be-made-offence-in-uk)
-- [YouTube cracking down even harder to punish user for skipping ads](https://9to5google.com/2024/04/15/youtube-app-block-ads/)
+- [Half of Ireland&#39;s young people have low level of mental wellbeing](https://www.independent.ie/irish-news/half-of-irelands-young-people-have-low-level-of-mental-wellbeing-new-report-shows/a1973091620.html)
+- [Efficient gas boiler with real-time data](https://emoncms.org/app/view?name=MyBoilerIdealLogicH24OpenthermSAT&readkey=1d29c637a4817acdf6e6e271850c9026)
+- [Distributed Authorization](https://www.osohq.com/post/distributed-authorization)
+- [The legal rule that computers are presumed to be operating correctly &lpar;2022&rpar; [pdf]](https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf)
 - [SingleStore Announces Exclusive Partnership with Agile Platform to Develop the Korea Market](https://www.singlestore.com/blog/singlestore-agile-platform-exclusive-partnership)
-- [People who don&#39;t want to learn how to program can always find a reason not to](https://twitter.com/paulg/status/1779930175574090094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
