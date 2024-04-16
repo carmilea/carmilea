@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How the greatest MP3 player undid itself &lpar;2017&rpar;](https://arstechnica.com/information-technology/2017/07/winamp-how-greatest-mp3-player-undid-itself/)
-- [Judge refuses to Ctrl-Z divorce order made by a misclick](https://www.theregister.com/2024/04/16/accidental_divorce_computer_error/)
-- [Difficulty levels of most European languages for Americans](https://www.atlasobscura.com/articles/language-difficulty-map)
-- [Why Sweden abandoned its secret A-bomb project](https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project)
-- [Please don&#39;t put checkmarks in checkboxes before I checked them](https://grumpy.website/1516)
+- [Spellbrush &lpar;YC W18&rpar; hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
+- [A quick post on Chen&#39;s algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
+- [How the greatest MP3 player undid itself &lpar;2012&rpar;](https://arstechnica.com/information-technology/2017/07/winamp-how-greatest-mp3-player-undid-itself/)
+- [Show HN: Generated Documentation for Linux Kernel](https://app.safa.ai/demo?version=36438a14-bd7e-42cd-89ad-12048cea7675)
+- [Global Firepower Index](https://www.globalfirepower.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
