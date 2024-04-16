@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Half of Ireland&#39;s young people have low level of mental wellbeing](https://www.independent.ie/irish-news/half-of-irelands-young-people-have-low-level-of-mental-wellbeing-new-report-shows/a1973091620.html)
-- [Efficient gas boiler with real-time data](https://emoncms.org/app/view?name=MyBoilerIdealLogicH24OpenthermSAT&readkey=1d29c637a4817acdf6e6e271850c9026)
-- [Distributed Authorization](https://www.osohq.com/post/distributed-authorization)
-- [The legal rule that computers are presumed to be operating correctly &lpar;2022&rpar; [pdf]](https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf)
-- [SingleStore Announces Exclusive Partnership with Agile Platform to Develop the Korea Market](https://www.singlestore.com/blog/singlestore-agile-platform-exclusive-partnership)
+- [Hiring Full Stack Engineers at Apriora &lpar;YC W24&rpar;](https://www.ycombinator.com/companies/apriora/jobs/IoC1DU7-full-stack-software-engineer)
+- [How to Stop Losing 17,500 Kidneys](https://www.statecraft.pub/p/how-to-stop-losing-17500-kidneys)
+- [NASA tries to jog Voyager 1&#39;s memory from 15B miles away](https://www.theregister.com/2024/04/15/voyager_engineers_prepare_fix/)
+- [Google DeepMind&#39;s Aloha Unleashed is pushing the boundaries of robot dexterity](https://twitter.com/tonyzzhao/status/1780263497584230432)
+- [This is a teenager](https://pudding.cool/2024/03/teenagers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
