@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers discover Milky Way&#39;s biggest stellar black hole–33 times size of sun](https://www.theguardian.com/science/2024/apr/16/astronomers-discover-milky-way-biggest-stellar-black-hole-bh3-33-times-size-of-sun)
 - [California exceeds 100% of energy demand with renewables over a record 30 days](https://electrek.co/2024/04/15/renewables-met-100-percent-california-energy-demand-30-days/)
+- [My battle with Tesla: I want to clear my name before I die](https://www.bbc.co.uk/news/articles/cg3q95ednqwo)
 - [Psychiatric risks for worsened mental health after psychedelic use](https://journals.sagepub.com/doi/10.1177/02698811241232548)
 - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
-- [A curious phenomenon called &#39;Etak&#39;](https://maphappenings.com/2024/04/11/story-of-etak/)
-- [HonoJS: Small, simple, and ultrafast web framework for the Edges](https://github.com/honojs/hono)
 <!-- BLOG-POST-LIST:END -->
 
 ---
