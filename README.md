@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the greatest MP3 player undid itself &lpar;2017&rpar;](https://arstechnica.com/information-technology/2017/07/winamp-how-greatest-mp3-player-undid-itself/)
+- [Judge refuses to Ctrl-Z divorce order made by a misclick](https://www.theregister.com/2024/04/16/accidental_divorce_computer_error/)
+- [Difficulty levels of most European languages for Americans](https://www.atlasobscura.com/articles/language-difficulty-map)
 - [Why Sweden abandoned its secret A-bomb project](https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project)
-- [David Lynch presents &#39;A Thinking Room&#39;](https://www.wallpaper.com/design-interiors/david-lynch-salone-del-mobile-2024)
-- [SingleStore Brings High Performance to Vector Search](https://www.singlestore.com/blog/singlestore-high-performance-vector-search)
-- [Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length](https://arxiv.org/abs/2404.08801)
-- [usbredir: A protocol for sending USB device traffic over a network connection](https://www.spice-space.org/usbredir.html)
+- [Please don&#39;t put checkmarks in checkboxes before I checked them](https://grumpy.website/1516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
