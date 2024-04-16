@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California exceeds 100% of energy demand with renewables over a record 30 days](https://electrek.co/2024/04/15/renewables-met-100-percent-california-energy-demand-30-days/)
 - [Psychiatric risks for worsened mental health after psychedelic use](https://journals.sagepub.com/doi/10.1177/02698811241232548)
 - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
 - [A curious phenomenon called &#39;Etak&#39;](https://maphappenings.com/2024/04/11/story-of-etak/)
-- [Seismologists suspect earthquake on San Andreas Fault is imminent](https://phys.org/news/2024-04-seismologists-earthquake-san-andreas-fault.html)
 - [HonoJS: Small, simple, and ultrafast web framework for the Edges](https://github.com/honojs/hono)
 <!-- BLOG-POST-LIST:END -->
 
