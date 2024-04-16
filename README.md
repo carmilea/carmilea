@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Suspends Editor Who Wrote &#39;Lost America&#39;s Trust&#39; with Liberal &#39;Advocacy&#39;](https://www.mediaite.com/news/just-in-npr-suspends-veteran-editor-who-accused-the-outlet-of-having-lost-americas-trust-with-liberal-advocacy/)
-- [A visual guide to Vision Transformer – A scroll story](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
-- [Product-Market Fit Isn&#39;t a Black Box – A New Framework to Help B2B Founders](https://pmf.firstround.com/levels)
-- [AMD unveils Ryzen Pro 8000-series processors](https://www.tomshardware.com/pc-components/cpus/amd-unveils-ryzen-pro-8040-hawk-point-and-8000-series-phoenix-processors-ai-engines-come-to-the-commercial-market)
-- [Justice Department to File Antitrust Suit Against Live Nation](https://www.wsj.com/business/media/live-nation-justice-department-antitrust-lawsuit-ab98c268)
+- [Tech exec predicts &#39;AI girlfriends&#39; will create $1B business](https://nypost.com/2024/04/15/business/tech-exec-predicts-ai-girlfriends-will-create-1b-business/)
+- [Creating sexually explicit deepfake images to be made offence in UK](https://www.theguardian.com/technology/2024/apr/16/creating-sexually-explicit-deepfake-images-to-be-made-offence-in-uk)
+- [YouTube cracking down even harder to punish user for skipping ads](https://9to5google.com/2024/04/15/youtube-app-block-ads/)
+- [SingleStore Announces Exclusive Partnership with Agile Platform to Develop the Korea Market](https://www.singlestore.com/blog/singlestore-agile-platform-exclusive-partnership)
+- [People who don&#39;t want to learn how to program can always find a reason not to](https://twitter.com/paulg/status/1779930175574090094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
