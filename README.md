@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unix and Multics History](https://multicians.org/unix.html)
-- [Future of Humanity Institute shuts down](https://www.futureofhumanityinstitute.org)
-- [The biggest source of waste is untapped skilled pragmatists](https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity)
-- [Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
-- [Formlabs Form 4 3D Printer Beats Injection Molding Machine in Speed and Quality [video]](https://www.youtube.com/watch?v=zdv6MlFlOrA)
+- [Y Combinator is hiring full stack engineers – learn tons and tons about startups](https://news.ycombinator.com/item?id=40067372)
+- [The forgotten war on beepers](https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-beepers)
+- [The Making of Django Reinhardt](https://www.messynessychic.com/2024/04/12/djangos-journey-the-making-of-the-nomadic-king-of-french-swing/)
+- [The great commercial takeover of low Earth orbit](https://www.technologyreview.com/2024/04/17/1090856/international-space-station-axiom-low-earth-orbit/)
+- [How does this full-track, 3-wheel snow bike even turn?](https://newatlas.com/outdoors/oruga-unitrack-electric-all-terrain-vehicle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
