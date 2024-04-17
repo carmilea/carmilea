@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [House passes bill requiring warrant to purchase data from third parties](https://thehill.com/homenews/house/4601266-house-passes-bill-requiring-warrant-to-purchase-data-from-third-parties/)
+- [Show HN: A no-watermark video downloader for Any social media](https://www.fastdownload.io/)
 - [Svix &lpar;YC W21&rpar; Is Hiring a Tech Lead &lpar;US Remote&rpar;](https://www.svix.com/careers/)
 - [Flying Aircraft Carriers &lpar;2019&rpar;](https://neverwasmag.com/2019/08/flying-aircraft-carriers/)
-- [Cyc: History&#39;s Forgotten AI Project](https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project)
-- [How Antithesis finds bugs](https://antithesis.com/blog/sdtalk/)
-- [Collapse of self-trained language models](https://arxiv.org/abs/2404.02305)
+- [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
