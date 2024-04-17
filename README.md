@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Svix &lpar;YC W21&rpar; Is Hiring a Tech Lead &lpar;US Remote&rpar;](https://www.svix.com/careers/)
 - [High-speed trader Jane Street raked in $4.4B at start of 2024](https://www.ft.com/content/7bdd0bc1-5284-4d52-93aa-ddfb609b0bd6)
+- [Cyc: History&#39;s Forgotten AI Project](https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project)
 - [How Antithesis finds bugs](https://antithesis.com/blog/sdtalk/)
-- [Collapse of Self-Trained Language Models](https://arxiv.org/abs/2404.02305)
-- [Show HN: Speeding up LLM inference 2x times &lpar;possibly&rpar;](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
-- [Reddit is taking over Google](https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4)
+- [Collapse of self-trained language models](https://arxiv.org/abs/2404.02305)
 <!-- BLOG-POST-LIST:END -->
 
 ---
