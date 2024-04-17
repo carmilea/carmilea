@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ballmer Peak: An Empirical Search](https://arxiv.org/abs/2404.10002)
-- [NetBSD 10: Proper old-school Unix, not like those lazy, decadent Linux types](https://www.theregister.com/2024/04/17/30yo_netbsd_releases_v10/)
-- [The NSA is just days away from taking over the internet](https://twitter.com/Snowden/status/1779920066840055847)
-- [Collection of notebooks showcasing some fun and effective ways of using Claude](https://github.com/anthropics/anthropic-cookbook)
-- [Ollama 0.1.32: WizardLM 2, Mixtral 8x22B, macOS CPU/GPU model split](https://github.com/ollama/ollama/releases/tag/v0.1.32)
+- [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
+- [Finley &lpar;YC W21&rpar; is hiring for capital markets innovators &lpar;US remote&rpar;](https://www.finleycms.com/careers/)
+- [I can&#39;t use my number pad for 2FA codes](https://shkspr.mobi/blog/2024/04/i-cant-use-my-number-pad-for-2fa-codes/)
+- [Cooler transformers could help electric grid](https://www.sciencedaily.com/releases/2024/04/240416125322.htm)
+- [ChatControl: EU ministers want to exempt themselves](https://european-pirateparty.eu/chatcontrol-eu-ministers-want-to-exempt-themselves/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
