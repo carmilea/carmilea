@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google will pump more than $100B into AI says DeepMind boss](https://www.theregister.com/2024/04/17/google_deepmind_funding/)
 - [Covid infections are causing IQ drops and years of brain aging, studies suggest](https://www.cbc.ca/radio/quirks/long-covid-brain-1.7171918)
 - [Tailscale SSH is now Generally Available](https://tailscale.com/blog/tailscale-ssh-ga)
+- [The success of EVs is massively underreported](https://www.evuniverse.io/p/evsales2023)
 - [Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8)
 - [Ten years of improvements in PostgreSQL&#39;s optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 <!-- BLOG-POST-LIST:END -->
