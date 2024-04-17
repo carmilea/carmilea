@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unix and Multics History](https://multicians.org/unix.html)
+- [Future of Humanity Institute shuts down](https://www.futureofhumanityinstitute.org)
+- [The biggest source of waste is untapped skilled pragmatists](https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity)
 - [Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
 - [Formlabs Form 4 3D Printer Beats Injection Molding Machine in Speed and Quality [video]](https://www.youtube.com/watch?v=zdv6MlFlOrA)
-- [Mixtral 8x22B](https://mistral.ai/news/mixtral-8x22b/)
-- [An Electric New Era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
-- [Solving the minimum cut problem for undirected graphs](https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
