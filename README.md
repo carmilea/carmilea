@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What software sparks joy when using?](https://news.ycombinator.com/item?id=40062263)
+- [The Ballmer Peak: An Empirical Search](https://arxiv.org/abs/2404.10002)
+- [NetBSD 10: Proper old-school Unix, not like those lazy, decadent Linux types](https://www.theregister.com/2024/04/17/30yo_netbsd_releases_v10/)
+- [The NSA is just days away from taking over the internet](https://twitter.com/Snowden/status/1779920066840055847)
 - [Collection of notebooks showcasing some fun and effective ways of using Claude](https://github.com/anthropics/anthropic-cookbook)
 - [Ollama 0.1.32: WizardLM 2, Mixtral 8x22B, macOS CPU/GPU model split](https://github.com/ollama/ollama/releases/tag/v0.1.32)
-- [F/OSS Comics: 8. The Origins of Unix and the C Language](https://fosscomics.com/8.%20The%20Origins%20of%20Unix%20and%20the%20C%20Language/)
-- [Tailscale SSH is now Generally Available](https://tailscale.com/blog/tailscale-ssh-ga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
