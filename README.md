@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing whistleblower says 787 fleet should be grounded](https://thehill.com/homenews/4598076-boeing-whistleblower-says-787-fleet-should-be-grounded/)
+- [Site claims to have harvested 4B+ Discord chats, all yours for a price](https://www.theregister.com/2024/04/16/discord_network_sale/)
 - [Tell HN: We should snapshot a mostly AI output free version of the web](https://news.ycombinator.com/item?id=40058399)
+- [3D-printed &quot;metamaterial&quot; is stronger than anything in nature](https://www.freethink.com/hard-tech/metamaterial)
 - [Tvix – A New Implementation of Nix](https://tvix.dev/)
-- [Amazon is filled with garbage e-books, this is how they get made](https://www.vox.com/culture/24128560/amazon-trash-ebooks-mikkelsen-twins-ai-publishing-academy-scam)
-- [Spellbrush &lpar;YC W18&rpar; hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
-- [ISPs can charge extra for fast gaming under FCC&#39;s Internet rules, critics say](https://arstechnica.com/tech-policy/2024/04/isps-can-charge-extra-for-fast-gaming-under-fccs-internet-rules-critics-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
