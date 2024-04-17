@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell the U.S. Senate: Stop Risaa, the FISA Mass Surveillance Expansion](https://act.eff.org/action/tell-the-u-s-senate-stop-risaa-the-fisa-mass-surveillance-expansion)
-- [New Boston Dynamics humanoid robot [video]](https://www.youtube.com/watch?v=29ECwExc-_M)
-- [Dubai&#39;s Floods Weren&#39;t Caused by Cloud Seeding](https://www.wired.com/story/dubai-flooding-uae-cloud-seeding-climate-change/)
+- [Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
+- [Formlabs Form 4 3D Printer Beats Injection Molding Machine in Speed and Quality [video]](https://www.youtube.com/watch?v=zdv6MlFlOrA)
+- [Mixtral 8x22B](https://mistral.ai/news/mixtral-8x22b/)
 - [An Electric New Era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
-- [LXQt 2.0.0 Released](https://lxqt-project.org/release/2024/04/15/release-lxqt-2-0-0/)
+- [Solving the minimum cut problem for undirected graphs](https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
