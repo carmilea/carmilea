@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ten years of improvements in PostgreSQL&#39;s optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 - [MKBHDs for Everything](https://stratechery.com/2024/mkbhds-for-everything/)
 - [Tax consequences of WIN95 team members keeping a piece of software for testing](https://devblogs.microsoft.com/oldnewthing/20240415-47/?p=109663)
 - [I Nearly Died Drowning. Here&#39;s What It&#39;s Like to Survive](https://longreads.com/2024/04/02/i-nearly-died-drowning-maggie-slepian/)
 - [Use Your Potions and Scrolls](https://jerry.wtf/posts/use-your-potions/)
-- [Boeing&#39;s problems has cost United $200M in Q1 2024](https://www.cnn.com/2024/04/16/business/boeing-cost-united-200-million/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
