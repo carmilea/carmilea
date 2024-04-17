@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Y Combinator is hiring full stack engineers – learn tons and tons about startups](https://news.ycombinator.com/item?id=40067372)
-- [The forgotten war on beepers](https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-beepers)
-- [The Making of Django Reinhardt](https://www.messynessychic.com/2024/04/12/djangos-journey-the-making-of-the-nomadic-king-of-french-swing/)
-- [The great commercial takeover of low Earth orbit](https://www.technologyreview.com/2024/04/17/1090856/international-space-station-axiom-low-earth-orbit/)
-- [How does this full-track, 3-wheel snow bike even turn?](https://newatlas.com/outdoors/oruga-unitrack-electric-all-terrain-vehicle/)
+- [Collapse of Self-Trained Language Models](https://arxiv.org/abs/2404.02305)
+- [Show HN: Speeding up LLM inference 2x times &lpar;possibly&rpar;](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
+- [How Nestlé gets children hooked on sugar in lower-income countries](https://stories.publiceye.ch/nestle-babies/)
+- [AltStore PAL, the first alternative app marketplace on iPhone, is available now](https://mastodon.social/@stroughtonsmith/112287515017810339)
+- [Effort – a possibly new algorithm for LLM Inference](https://kolinko.github.io/effort/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
