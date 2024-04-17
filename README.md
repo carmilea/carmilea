@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Booming AI demand threatens global electricity supply](https://www.ft.com/content/b7570359-f809-49ce-8cd5-9166d36a057b)
-- [How Antithesis Finds Bugs](https://antithesis.com/blog/sdtalk/)
+- [High-speed trader Jane Street raked in $4.4B at start of 2024](https://www.ft.com/content/7bdd0bc1-5284-4d52-93aa-ddfb609b0bd6)
+- [How Antithesis finds bugs](https://antithesis.com/blog/sdtalk/)
 - [Collapse of Self-Trained Language Models](https://arxiv.org/abs/2404.02305)
 - [Show HN: Speeding up LLM inference 2x times &lpar;possibly&rpar;](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
-- [How Nestlé gets children hooked on sugar in lower-income countries](https://stories.publiceye.ch/nestle-babies/)
+- [Reddit is taking over Google](https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
