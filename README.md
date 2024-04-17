@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google workers arrested after protesting company&#39;s work with Israel](https://www.washingtonpost.com/technology/2024/04/16/google-sit-in-employee-protest-nimbus-israel/)
+- [Covid infections are causing IQ drops and years of brain aging, studies suggest](https://www.cbc.ca/radio/quirks/long-covid-brain-1.7171918)
 - [Ten years of improvements in PostgreSQL&#39;s optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
+- [Stop Acting Like You&#39;re Famous](https://ajkprojects.com/stopactinglikeyourefamous)
 - [MKBHDs for Everything](https://stratechery.com/2024/mkbhds-for-everything/)
 - [Tax consequences of WIN95 team members keeping a piece of software for testing](https://devblogs.microsoft.com/oldnewthing/20240415-47/?p=109663)
-- [I nearly died drowning](https://longreads.com/2024/04/02/i-nearly-died-drowning-maggie-slepian/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
