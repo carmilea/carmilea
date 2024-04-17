@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
-- [Finley &lpar;YC W21&rpar; is hiring for capital markets innovators &lpar;US remote&rpar;](https://www.finleycms.com/careers/)
-- [I can&#39;t use my number pad for 2FA codes](https://shkspr.mobi/blog/2024/04/i-cant-use-my-number-pad-for-2fa-codes/)
-- [Cooler transformers could help electric grid](https://www.sciencedaily.com/releases/2024/04/240416125322.htm)
-- [ChatControl: EU ministers want to exempt themselves](https://european-pirateparty.eu/chatcontrol-eu-ministers-want-to-exempt-themselves/)
+- [Student debt is haunting Americans from graduation to retirement](https://www.cnn.com/2024/04/16/economy/student-debt-gallup-poll/index.html)
+- [Quantum mechanics is the OS for Physics](https://www.scottaaronson.com/democritus/lec9.html)
+- [The Making of Dune II](https://readonlymemory.com/the-making-of-dune-ii/)
+- [Boston Dynamics Retires Its Legendary Humanoid Robot](https://spectrum.ieee.org/boston-dynamics-atlas-retires)
+- [The VC acid test as a founder &lpar;2017&rpar;](https://www.stimmel-law.com/en/articles/story-2-acid-test-clause)
 <!-- BLOG-POST-LIST:END -->
 
 ---
