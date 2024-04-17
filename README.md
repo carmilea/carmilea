@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Student debt is haunting Americans from graduation to retirement](https://www.cnn.com/2024/04/16/economy/student-debt-gallup-poll/index.html)
-- [Quantum mechanics is the OS for Physics](https://www.scottaaronson.com/democritus/lec9.html)
-- [The Making of Dune II](https://readonlymemory.com/the-making-of-dune-ii/)
-- [Boston Dynamics Retires Its Legendary Humanoid Robot](https://spectrum.ieee.org/boston-dynamics-atlas-retires)
-- [The VC acid test as a founder &lpar;2017&rpar;](https://www.stimmel-law.com/en/articles/story-2-acid-test-clause)
+- [Tell the U.S. Senate: Stop Risaa, the FISA Mass Surveillance Expansion](https://act.eff.org/action/tell-the-u-s-senate-stop-risaa-the-fisa-mass-surveillance-expansion)
+- [New Boston Dynamics humanoid robot [video]](https://www.youtube.com/watch?v=29ECwExc-_M)
+- [Dubai&#39;s Floods Weren&#39;t Caused by Cloud Seeding](https://www.wired.com/story/dubai-flooding-uae-cloud-seeding-climate-change/)
+- [An Electric New Era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
+- [LXQt 2.0.0 Released](https://lxqt-project.org/release/2024/04/15/release-lxqt-2-0-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
