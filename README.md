@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What software sparks joy when using?](https://news.ycombinator.com/item?id=40062263)
+- [Collection of notebooks showcasing some fun and effective ways of using Claude](https://github.com/anthropics/anthropic-cookbook)
 - [Ollama 0.1.32: WizardLM 2, Mixtral 8x22B, macOS CPU/GPU model split](https://github.com/ollama/ollama/releases/tag/v0.1.32)
-- [Covid infections are causing IQ drops and years of brain aging, studies suggest](https://www.cbc.ca/radio/quirks/long-covid-brain-1.7171918)
+- [F/OSS Comics: 8. The Origins of Unix and the C Language](https://fosscomics.com/8.%20The%20Origins%20of%20Unix%20and%20the%20C%20Language/)
 - [Tailscale SSH is now Generally Available](https://tailscale.com/blog/tailscale-ssh-ga)
-- [Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8)
-- [Perlis&#39;s Programming Epigrams](https://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
