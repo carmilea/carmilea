@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Booming AI demand threatens global electricity supply](https://www.ft.com/content/b7570359-f809-49ce-8cd5-9166d36a057b)
+- [How Antithesis Finds Bugs](https://antithesis.com/blog/sdtalk/)
 - [Collapse of Self-Trained Language Models](https://arxiv.org/abs/2404.02305)
 - [Show HN: Speeding up LLM inference 2x times &lpar;possibly&rpar;](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
 - [How Nestlé gets children hooked on sugar in lower-income countries](https://stories.publiceye.ch/nestle-babies/)
-- [AltStore PAL, the first alternative app marketplace on iPhone, is available now](https://mastodon.social/@stroughtonsmith/112287515017810339)
-- [Effort – a possibly new algorithm for LLM Inference](https://kolinko.github.io/effort/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
