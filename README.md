@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: One-person companies–how do you manage it all and stay sane?](https://news.ycombinator.com/item?id=40078720)
-- [Windows 10 will start nagging you to switch from local account to MS Account](https://www.neowin.net/news/windows-10-will-soon-start-nagging-you-to-switch-from-local-account-to-microsoft-account/)
+- [El Prado Museum in Unprecedented Detail with New 360º Gigapixel Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
+- [Ask HN: One-person companies—how do you manage it all and stay sane?](https://news.ycombinator.com/item?id=40078720)
 - [Run Meta Llama 3 with an API](https://replicate.com/blog/run-llama-3-with-an-api)
 - [Hackers threatening to publish a stolen sanctions and financial crimes watchlist](https://techcrunch.com/2024/04/18/world-check-database-leaked-sanctions-financial-crimes-watchlist/)
 - [Google is combining its Android and hardware teams – and it&#39;s all about AI](https://www.theverge.com/2024/4/18/24133881/google-android-pixel-teams-reorg-rick-osterloh)
