@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Know the secret to the quiet mind. I wish I&#39;d never learned it](https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/)
-- [Google fires 28 workers in indiscriminate act of mass retaliation](https://twitter.com/katejsim/status/1780838795795136844)
+- [I Know the secret to the quiet mind. I wish I&#39;d never learned it &lpar;2021&rpar;](https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/)
+- [Cosmic Desktop: Hammering Out New Cosmic Features](https://blog.system76.com/post/hammering-out-cosmic-features)
 - [OpenAI&#39;s model all but matches doctors in assessing eye problems](https://www.ft.com/content/5b7a76be-467c-4074-8fd0-3e297bcd91d7)
 - [Langfuse &lpar;YC W23&rpar; Is Hiring [Engineers, DevRel] in Berlin, Germany](https://langfuse.com/careers)
 - [OpenBSD – Coming soon to a -current system near you: parallel raw IP input](https://www.undeadly.org/cgi?action=article;sid=20240418050520)
