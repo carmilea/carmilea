@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Know the secret to the quiet mind. I wish I&#39;d never learned it &lpar;2021&rpar;](https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/)
-- [Cosmic Desktop: Hammering Out New Cosmic Features](https://blog.system76.com/post/hammering-out-cosmic-features)
-- [OpenAI&#39;s model all but matches doctors in assessing eye problems](https://www.ft.com/content/5b7a76be-467c-4074-8fd0-3e297bcd91d7)
-- [Langfuse &lpar;YC W23&rpar; Is Hiring [Engineers, DevRel] in Berlin, Germany](https://langfuse.com/careers)
-- [OpenBSD – Coming soon to a -current system near you: parallel raw IP input](https://www.undeadly.org/cgi?action=article;sid=20240418050520)
+- [The invisible seafaring industry that keeps the internet afloat](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
+- [Why Fugaku, Japan&#39;s fastest supercomputer, went virtual on AWS](https://aws.amazon.com/blogs/publicsector/why-fugaku-japans-fastest-supercomputer-went-virtual-on-aws/)
+- [Keeper &lpar;YC S21&rpar; is hiring engineers to build a personal accountant for everyone](https://www.ycombinator.com/companies/keeper-2/jobs/sKbHWDs-full-stack-engineer-san-francisco-or-remote)
+- [Boston Dynamics&#39; new electric Atlas robot is swiveling nightmare fuel](https://www.theverge.com/2024/4/17/24133145/boston-dynamics-resurrects-atlas-humanoid-robot-electric-new)
+- [EU science advisers back call for a &#39;CERN for AI&#39; to aid research](https://sciencebusiness.net/news/ai/eu-science-advisers-back-call-cern-ai-aid-research)
 <!-- BLOG-POST-LIST:END -->
 
 ---
