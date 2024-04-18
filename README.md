@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google fires 28 employees involved in sit-in protest over $1.2B Israel contract](https://nypost.com/2024/04/17/business/google-fires-28-employees-involved-in-sit-in-protest-over-1-2b-israel-contract/)
+- [Show HN: I also made a three-body simulation](https://three-bodies.sulami.xyz/)
+- [A single atom layer of gold – LiU researchers create goldene](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
+- [A junk food diet can cause long-term damage to adolescent brains](https://today.usc.edu/take-it-from-the-rats-a-junk-food-diet-can-cause-long-term-damage-to-adolescent-brains/)
 - [Short Stack – World’s Smallest Nintendo Wii](https://github.com/loopj/short-stack)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Tech Lead &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [Flying Aircraft Carriers &lpar;2019&rpar;](https://neverwasmag.com/2019/08/flying-aircraft-carriers/)
-- [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
-- [Cyc: History&#39;s Forgotten AI Project](https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project)
 <!-- BLOG-POST-LIST:END -->
 
 ---
