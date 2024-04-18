@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google fires 28 employees involved in sit-in protest over $1.2B Israel contract](https://nypost.com/2024/04/17/business/google-fires-28-employees-involved-in-sit-in-protest-over-1-2b-israel-contract/)
-- [Show HN: I also made a three-body simulation](https://three-bodies.sulami.xyz/)
-- [A single atom layer of gold – LiU researchers create goldene](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
-- [A junk food diet can cause long-term damage to adolescent brains](https://today.usc.edu/take-it-from-the-rats-a-junk-food-diet-can-cause-long-term-damage-to-adolescent-brains/)
-- [Short Stack – World’s Smallest Nintendo Wii](https://github.com/loopj/short-stack)
+- [Goldene: A single atom layer of gold](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
+- [Implementing Natural Conversational Agents with Elixir](https://seanmoriarity.com/2024/02/25/implementing-natural-conversational-agents-with-elixir/)
+- [Short Stack: World’s smallest Nintendo Wii](https://github.com/loopj/short-stack)
+- [WebSocketStream API](https://developer.chrome.com/docs/capabilities/web-apis/websocketstream)
+- [How Perfectly Can Reality Be Simulated?](https://www.newyorker.com/magazine/2024/04/22/can-the-world-be-simulated)
 <!-- BLOG-POST-LIST:END -->
 
 ---
