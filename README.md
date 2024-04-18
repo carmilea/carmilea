@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Know the secret to the quiet mind. I wish I&#39;d never learned it](https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/)
+- [Google fires 28 workers in indiscriminate act of mass retaliation](https://twitter.com/katejsim/status/1780838795795136844)
+- [OpenAI&#39;s model all but matches doctors in assessing eye problems](https://www.ft.com/content/5b7a76be-467c-4074-8fd0-3e297bcd91d7)
 - [Langfuse &lpar;YC W23&rpar; Is Hiring [Engineers, DevRel] in Berlin, Germany](https://langfuse.com/careers)
 - [OpenBSD – Coming soon to a -current system near you: parallel raw IP input](https://www.undeadly.org/cgi?action=article;sid=20240418050520)
-- [Lions OS: secure – fast – adaptable](https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract)
-- [Goldene: A single atom layer of gold](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
-- [Implementing Natural Conversational Agents with Elixir](https://seanmoriarity.com/2024/02/25/implementing-natural-conversational-agents-with-elixir/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
