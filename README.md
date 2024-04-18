@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Volta Labs &lpar;YC W19&rpar; – Easier sample prep for genomics](https://news.ycombinator.com/item?id=40075571)
-- [The invisible seafaring industry that keeps the internet afloat](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
-- [Why Fugaku, Japan&#39;s fastest supercomputer, went virtual on AWS](https://aws.amazon.com/blogs/publicsector/why-fugaku-japans-fastest-supercomputer-went-virtual-on-aws/)
-- [Keeper &lpar;YC S21&rpar; is hiring engineers to build a personal accountant for everyone](https://www.ycombinator.com/companies/keeper-2/jobs/sKbHWDs-full-stack-engineer-san-francisco-or-remote)
-- [Software glitch saw Aussie casino give away millions in cash](https://www.theregister.com/2024/04/18/software_glitch_casino_cash_giveaway/)
+- [Chinchilla Scaling: A Replication Attempt](https://arxiv.org/abs/2404.10102)
+- [Hermit is a hermetic and reproducible sandbox for running programs](https://github.com/facebookexperimental/hermit)
+- [Author granted copyright over book with AI-generated text–with a twist](https://www.wired.com/story/the-us-copyright-office-loosens-up-a-little-on-ai/)
+- [USAF Test Pilot School, DARPA announce aerospace machine learning breakthrough](https://www.edwards.af.mil/News/Article-View/Article/3744695/usaf-test-pilot-school-and-darpa-announce-breakthrough-in-aerospace-machine-lea/)
+- [Halo 2 in HD: Pushing the Original Xbox to the Limit](https://icode4.coffee/?p=738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
