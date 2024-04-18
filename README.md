@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS kills Snowmobile data transfer truck](https://www.cnbc.com/2024/04/17/aws-stops-selling-snowmobile-truck-for-cloud-migrations.html)
+- [Launch HN: Volta Labs &lpar;YC W19&rpar; – Easier sample prep for genomics](https://news.ycombinator.com/item?id=40075571)
 - [The invisible seafaring industry that keeps the internet afloat](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
 - [Why Fugaku, Japan&#39;s fastest supercomputer, went virtual on AWS](https://aws.amazon.com/blogs/publicsector/why-fugaku-japans-fastest-supercomputer-went-virtual-on-aws/)
 - [Keeper &lpar;YC S21&rpar; is hiring engineers to build a personal accountant for everyone](https://www.ycombinator.com/companies/keeper-2/jobs/sKbHWDs-full-stack-engineer-san-francisco-or-remote)
-- [Boston Dynamics&#39; new electric Atlas robot is swiveling nightmare fuel](https://www.theverge.com/2024/4/17/24133145/boston-dynamics-resurrects-atlas-humanoid-robot-electric-new)
+- [Software glitch saw Aussie casino give away millions in cash](https://www.theregister.com/2024/04/18/software_glitch_casino_cash_giveaway/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
