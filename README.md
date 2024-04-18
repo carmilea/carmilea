@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta AI](https://www.meta.ai/)
-- [Meta Releases Llama 3](https://ai.meta.com/blog/meta-llama-3/)
-- [All-cash offers, wealthy buyers push Southern California home prices to a record](https://www.latimes.com/homeless-housing/story/2024-04-11/all-cash-offers-wealthy-buyers-push-southern-california-home-prices-to-a-record)
+- [Keeling Labs &lpar;YC W23&rpar; –RL for Battery Optimization–Is Hiring a Senior Data Eng](https://www.keelinglabs.com)
+- [You Need a &quot;WTF Notebook&quot;](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
+- [TSMC expects customers to pay more for chips fabbed overseas](https://www.theregister.com/2024/04/18/tsmc_overseas_costs/)
+- [Dnsmasq wins the first BlueHats Prize](https://nlnet.nl/news/2024/20240418-BlueHatsPrize1.html)
 - [Meta Llama 3](https://llama.meta.com/llama3/)
-- [OpenMCT: A web based mission control framework](https://github.com/nasa/openmct)
 <!-- BLOG-POST-LIST:END -->
 
 ---
