@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Draftaid &lpar;YC W24&rpar; Is Hiring a Founding AI/ML Engineer](https://www.ycombinator.com/companies/draftaid/jobs/7km301I-founding-ai-ml-engineer)
-- [The Theory That There Is Only One Electron in the Universe](https://www.iflscience.com/the-strange-theory-that-there-is-only-one-electron-in-the-universe-73818)
-- [Insatiable: A life without eating](https://longreads.com/2024/04/18/crohns-life-without-eating/)
-- [El Prado Museum – Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
-- [Myths about the Anthropocene](https://www.smithsonianmag.com/smithsonian-institution/what-myths-about-the-anthropocene-get-wrong-180984181/)
+- [Software Developers Have Health Risks](https://zetterr.substack.com/p/software-developers-have-health-risks)
+- [Hello World](https://www.netflix.com/helloworld)
+- [Help I work in an open office and my co-workers are so loud](https://www.cnbc.com/2024/04/18/work-it-out-career-advice-help-my-co-workers-are-so-loud.html)
+- [Show HN: Tiger – Function Hub for LLM Agents](https://github.com/Upsonic/Tiger)
+- [Lessons from customer evaluations of an AI product](https://generatingconversation.substack.com/p/lessons-from-customer-evaluations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
