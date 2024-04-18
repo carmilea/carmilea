@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Developers Have Health Risks](https://zetterr.substack.com/p/software-developers-have-health-risks)
-- [Hello World](https://www.netflix.com/helloworld)
-- [Help I work in an open office and my co-workers are so loud](https://www.cnbc.com/2024/04/18/work-it-out-career-advice-help-my-co-workers-are-so-loud.html)
+- [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
+- [Dickey Betts, hit-crafting mainstay of Allman Brothers Band, dies at 80](https://www.washingtonpost.com/obituaries/2024/04/18/dickey-betts-allman-brothers-dead/)
 - [Show HN: Tiger – Function Hub for LLM Agents](https://github.com/Upsonic/Tiger)
-- [Lessons from customer evaluations of an AI product](https://generatingconversation.substack.com/p/lessons-from-customer-evaluations)
+- [Long Reviled as &#39;Ugly,&#39; Sea Lampreys Get Some Respect &lpar;2023&rpar;](https://e360.yale.edu/features/sea-lampreys-pacific-lampreys-american-rivers-dams)
+- [Formal Mechanised Semantics of CHERI C: Capabilities, Undefined Behaviour](https://dl.acm.org/doi/10.1145/3617232.3624859?ai=&ui=&af=)
 <!-- BLOG-POST-LIST:END -->
 
 ---
