@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Langfuse &lpar;YC W23&rpar; Is Hiring [Engineers, DevRel] in Berlin, Germany](https://langfuse.com/careers)
+- [OpenBSD – Coming soon to a -current system near you: parallel raw IP input](https://www.undeadly.org/cgi?action=article;sid=20240418050520)
 - [Lions OS: secure – fast – adaptable](https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract)
 - [Goldene: A single atom layer of gold](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
 - [Implementing Natural Conversational Agents with Elixir](https://seanmoriarity.com/2024/02/25/implementing-natural-conversational-agents-with-elixir/)
-- [Short Stack: World’s smallest Nintendo Wii](https://github.com/loopj/short-stack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
