@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chinchilla Scaling: A Replication Attempt](https://arxiv.org/abs/2404.10102)
-- [Hermit is a hermetic and reproducible sandbox for running programs](https://github.com/facebookexperimental/hermit)
-- [Author granted copyright over book with AI-generated text–with a twist](https://www.wired.com/story/the-us-copyright-office-loosens-up-a-little-on-ai/)
-- [USAF Test Pilot School, DARPA announce aerospace machine learning breakthrough](https://www.edwards.af.mil/News/Article-View/Article/3744695/usaf-test-pilot-school-and-darpa-announce-breakthrough-in-aerospace-machine-lea/)
-- [Halo 2 in HD: Pushing the Original Xbox to the Limit](https://icode4.coffee/?p=738)
+- [Meta AI](https://www.meta.ai/)
+- [Meta Releases Llama 3](https://ai.meta.com/blog/meta-llama-3/)
+- [All-cash offers, wealthy buyers push Southern California home prices to a record](https://www.latimes.com/homeless-housing/story/2024-04-11/all-cash-offers-wealthy-buyers-push-southern-california-home-prices-to-a-record)
+- [Meta Llama 3](https://llama.meta.com/llama3/)
+- [OpenMCT: A web based mission control framework](https://github.com/nasa/openmct)
 <!-- BLOG-POST-LIST:END -->
 
 ---
