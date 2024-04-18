@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Insatiable: A Life Without Eating](https://longreads.com/2024/04/18/crohns-life-without-eating/)
 - [El Prado Museum in Unprecedented Detail with New 360º Gigapixel Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
-- [Ask HN: One-person companies—how do you manage it all and stay sane?](https://news.ycombinator.com/item?id=40078720)
-- [Run Meta Llama 3 with an API](https://replicate.com/blog/run-llama-3-with-an-api)
+- [R3dfox: A fork of Firefox made specifically for Windows 7 and 8 compatibility](https://github.com/Eclipse-Community/r3dfox)
+- [What Myths About the Anthropocene Get Wrong](https://www.smithsonianmag.com/smithsonian-institution/what-myths-about-the-anthropocene-get-wrong-180984181/)
 - [Hackers threatening to publish a stolen sanctions and financial crimes watchlist](https://techcrunch.com/2024/04/18/world-check-database-leaked-sanctions-financial-crimes-watchlist/)
-- [Google is combining its Android and hardware teams – and it&#39;s all about AI](https://www.theverge.com/2024/4/18/24133881/google-android-pixel-teams-reorg-rick-osterloh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
