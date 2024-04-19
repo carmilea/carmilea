@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla recalls all 3,878 Cybertrucks over faulty accelerator pedal](https://www.theverge.com/2024/4/19/24134753/tesla-recall-cybertruck-faulty-accelerator-pedal-nhtsa-defect)
-- [TSMC to charge premium for making chips outside of Taiwan, including its US fabs](https://www.tomshardware.com/tech-industry/tsmc-to-charge-premium-for-making-chips-outside-of-taiwan-including-its-new-us-fabs-ceo-says)
+- [Read Google&#39;s memo warning employees to &#39;think again&#39;](https://www.businessinsider.com/google-memo-warning-employees-think-again-before-sit-in-protests-2024-4)
+- [Daniel Dennett &lpar;1942-2024&rpar;](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
+- [Intel unveils largest-ever AI &#39;neuromorphic computer&#39; mimicking the human brain](https://www.livescience.com/technology/computing/intel-unveils-largest-ever-ai-neuromorphic-computer-that-mimics-the-human-brain)
+- [Why are there so many beetle species?](https://knowablemagazine.org/content/article/living-world/2024/why-are-there-so-many-types-of-beetles)
 - [Presence and collection of DNA from air and air conditioner units](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/elps.202300227)
-- [Add Depth of Field to Screenshots](https://www.blurmatic.com/)
-- [3rd Edition of Programming: Principles and Practice Using C++ by Stroustrup](https://www.stroustrup.com/programming.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
