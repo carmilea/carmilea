@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla ordered to recall almost 4k Cybertrucks over faulty accelerator](https://www.nbcnews.com/tech/tech-news/tesla-ordered-recall-almost-4000-cybertrucks-faulty-accelerator-proble-rcna148526)
+- [Ask HN: High quality Python scripts or small libraries to learn from](https://news.ycombinator.com/item?id=40085887)
 - [Chariot &lpar;YC S22&rpar; – Stripe/Visa for Nonprofits – Is Hiring a Senior Back End Eng](https://www.ycombinator.com/companies/chariot-2/jobs/MsAGh9T-senior-backend-engineer)
+- [Tesla Recalls All Cybertrucks for Faulty Accelerator Pedals](https://techcrunch.com/2024/04/19/tesla-cybertruck-throttle-accelerator-pedal-stuck/)
 - [Tips on how to structure your home directory &lpar;2023&rpar;](https://unixdigest.com/tutorials/tips-on-how-to-structure-your-home-directory.html)
-- [Apple deletes WhatsApp, Threads from China app store on orders from Beijing](https://www.cnn.com/2024/04/19/tech/china-apple-whatspp-threads-removal-hnk-intl/index.html)
-- [Llama 3 8B is almost as good as Wizard 2 8x22B](https://huggingface.co/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF/discussions/5)
-- [What a difference four years makes](https://ianbetteridge.com/2024/04/19/what-a-difference-four-years-makes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
