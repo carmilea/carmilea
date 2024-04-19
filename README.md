@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Finetune Llama-3 2x faster in a Colab notebook](https://colab.research.google.com/drive/135ced7oHytdxu3N2DNe1Z0kqjyYIkDXp?usp=sharing)
-- [Tesla discloses it spent $200k advertising on X](https://www.cnn.com/2024/04/18/business/elon-musk-tesla-advertises-on-x/index.html)
+- [Features macOS should copy from Linux](https://www.zdnet.com/article/6-features-i-wish-macos-would-copy-from-linux/)
 - [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
+- [O1 Visa Hacks for Founders](https://extraordinaryaliens.substack.com/p/o1-visa-hacks-for-founders)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=40082424)
 - [SeaMonkey All-in-One Internet Application Suite](https://www.seamonkey-project.org)
 <!-- BLOG-POST-LIST:END -->
