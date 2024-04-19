@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
-- [How the internet became shit](https://herman.bearblog.dev/how-the-internet-became-shit/)
 - [Multipath TCP for Linux &lpar;2022&rpar;](https://www.mptcp.dev/)
 - [Quill v2 – Rich text editor](https://quilljs.com/)
 - [Does light itself have an infinite lifetime?](https://bigthink.com/starts-with-a-bang/light-infinite-lifetime/)
+- [Paces &lpar;YC S22, Climate and AI&rpar; Is Hiring Engineers in NYC](https://news.ycombinator.com/item?id=40089234)
 <!-- BLOG-POST-LIST:END -->
 
 ---
