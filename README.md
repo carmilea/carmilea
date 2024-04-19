@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel&#39;s 14A Magic Bullet: Directed Self-Assembly &lpar;DSA&rpar;](https://www.semianalysis.com/p/intels-14a-magic-bullet-directed)
+- [Don&#39;t Be Evil &lpar;Google&rpar;](https://en.wikipedia.org/wiki/Don%27t_be_evil)
 - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
 - [Multipath TCP for Linux &lpar;2022&rpar;](https://www.mptcp.dev/)
 - [Quill v2 – Rich text editor](https://quilljs.com/)
-- [Does light itself have an infinite lifetime?](https://bigthink.com/starts-with-a-bang/light-infinite-lifetime/)
-- [Paces &lpar;YC S22, Climate and AI&rpar; Is Hiring Engineers in NYC](https://news.ycombinator.com/item?id=40089234)
 <!-- BLOG-POST-LIST:END -->
 
 ---
