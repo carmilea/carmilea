@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=40082424)
 - [SeaMonkey All-in-One Internet Application Suite](https://www.seamonkey-project.org)
-- [US releases sealed Brazil orders to X, shedding light on account suspensions](https://apnews.com/article/brazil-twitter-elon-musk-x-censorship-f51dc67d51c8f5a1cf152ba467f44a8f)
-- [It&#39;s the Information, Stupid](https://blog.mojeek.com/2024/04/its-the-information-stupid.html)
-- [Women Who Code Closing](https://womenwhocode.com/blog/the-end-of-an-era-women-who-code-closing)
+- [Modeling societal demise and reversal](https://www.frontiersin.org/articles/10.3389/fsoc.2024.1194597/full)
+- [US Air Force says AI-controlled F-16 has been dogfighting with humans](https://www.theregister.com/2024/04/18/darpa_f16_flight/)
+- [A former slave who became a cowboy, a rancher, and a Texas legend](https://www.texasmonthly.com/being-texan/the-former-slave-who-became-a-cowboy-a-rancher-and-a-texas-legend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
