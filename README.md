@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google scraps minimum wage, benefits rules for suppliers and staffing firms](https://www.reuters.com/technology/google-scraps-minimum-wage-benefits-rules-suppliers-staffing-firms-2024-04-19/)
-- [Bicycle Day &lpar;Psychedelic Holiday&rpar;](https://en.wikipedia.org/wiki/Bicycle_Day_(Psychedelic_Holiday))
-- [Streak &lpar;YC W22&rpar; Is Hiring a Staff UI Engineer](https://www.streak.com/careers/staff-ui-engineer)
-- [Tell HN: Ever think of applying to YC? Do it this weekend for S24](https://news.ycombinator.com/item?id=40091622)
-- [Show HN: Talk to Me Human – my game about social persuasion](https://talktomehuman.com/)
+- [Dynamic Typography: Bringing Text to Life via Video Diffusion Prior](https://animate-your-word.github.io/demo/)
+- [Curse of Monkey Island ported to WebAssembly](https://personal-1094.web.app/scummvm.html)
+- [Erdos Problems Collection](https://www.erdosproblems.com/)
+- [Valkey Is Rapidly Overtaking Redis](https://devops.com/valkey-is-rapidly-overtaking-redis/)
+- [Eight Transaction Papers by Jim Gray](https://arxiv.org/abs/2310.04601)
 <!-- BLOG-POST-LIST:END -->
 
 ---
