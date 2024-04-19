@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Features macOS should copy from Linux](https://www.zdnet.com/article/6-features-i-wish-macos-would-copy-from-linux/)
+- [How Amazon built an EV charging network in two years](https://theprogressplaybook.com/2024/04/15/how-amazon-built-a-massive-ev-charging-network-in-just-two-years/)
+- [Samsung shifts executives to six-day workweeks to &#39;inject a sense of crisis&#39;](https://www.theverge.com/2024/4/18/24133854/samsung-six-day-executive-workweeks-crisis-management)
+- [Tesla discloses it spent $200k advertising on X](https://www.cnn.com/2024/04/18/business/elon-musk-tesla-advertises-on-x/index.html)
 - [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
-- [O1 Visa Hacks for Founders](https://extraordinaryaliens.substack.com/p/o1-visa-hacks-for-founders)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=40082424)
-- [SeaMonkey All-in-One Internet Application Suite](https://www.seamonkey-project.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
