@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [O1 Visa Hacks for Founders](https://extraordinaryaliens.substack.com/p/o1-visa-hacks-for-founders)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=40082424)
 - [SeaMonkey All-in-One Internet Application Suite](https://www.seamonkey-project.org)
 - [Modeling societal demise and reversal](https://www.frontiersin.org/articles/10.3389/fsoc.2024.1194597/full)
-- [US Air Force says AI-controlled F-16 has been dogfighting with humans](https://www.theregister.com/2024/04/18/darpa_f16_flight/)
 - [A former slave who became a cowboy, a rancher, and a Texas legend](https://www.texasmonthly.com/being-texan/the-former-slave-who-became-a-cowboy-a-rancher-and-a-texas-legend/)
 <!-- BLOG-POST-LIST:END -->
 
