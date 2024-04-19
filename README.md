@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel&#39;s 14A Magic Bullet: Directed Self-Assembly &lpar;DSA&rpar;](https://www.semianalysis.com/p/intels-14a-magic-bullet-directed)
-- [Don&#39;t Be Evil &lpar;Google&rpar;](https://en.wikipedia.org/wiki/Don%27t_be_evil)
-- [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
-- [Multipath TCP for Linux &lpar;2022&rpar;](https://www.mptcp.dev/)
-- [Quill v2 – Rich text editor](https://quilljs.com/)
+- [Streak &lpar;YC W22&rpar; Is Hiring a Staff UI Engineer](https://www.streak.com/careers/staff-ui-engineer)
+- [YouTube moves to AV1 by default to the dismay of some Android users](https://www.androidpolice.com/youtube-google-av1-codec-android-video/)
+- [Tell HN: Ever think of applying to YC? Do it this weekend for S24](https://news.ycombinator.com/item?id=40091622)
+- [Mozilla Begins Offering Firefox ARM64 Linux Binaries](https://www.phoronix.com/news/Mozilla-Firefox-ARM64-Nightly)
+- [Show HN: Talk to Me Human – my game about social persuasion](https://talktomehuman.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
