@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Routine &lpar;YC W21&rpar; Is Hiring OCaml Software Engineers: On Site &lpar;Paris&rpar; or Remote](https://news.ycombinator.com/item?id=40084104)
+- [Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
+- [VoRS: Vo&lpar;IP&rpar; Simple Alternative to Mumble](http://www.vors.stargrave.org/)
 - [How Amazon built an EV charging network in two years](https://theprogressplaybook.com/2024/04/15/how-amazon-built-a-massive-ev-charging-network-in-just-two-years/)
 - [Samsung shifts executives to six-day workweeks to &#39;inject a sense of crisis&#39;](https://www.theverge.com/2024/4/18/24133854/samsung-six-day-executive-workweeks-crisis-management)
-- [Tesla discloses it spent $200k advertising on X](https://www.cnn.com/2024/04/18/business/elon-musk-tesla-advertises-on-x/index.html)
-- [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=40082424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
