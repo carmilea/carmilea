@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Read Google&#39;s memo warning employees to &#39;think again&#39;](https://www.businessinsider.com/google-memo-warning-employees-think-again-before-sit-in-protests-2024-4)
-- [Daniel Dennett &lpar;1942-2024&rpar;](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
-- [Intel unveils largest-ever AI &#39;neuromorphic computer&#39; mimicking the human brain](https://www.livescience.com/technology/computing/intel-unveils-largest-ever-ai-neuromorphic-computer-that-mimics-the-human-brain)
-- [Why are there so many beetle species?](https://knowablemagazine.org/content/article/living-world/2024/why-are-there-so-many-types-of-beetles)
-- [Presence and collection of DNA from air and air conditioner units](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/elps.202300227)
+- [Paces &lpar;YC S22, Climate and AI&rpar; Is Hiring Engineers in NYC](https://news.ycombinator.com/item?id=40089234)
+- [Don&#39;t bet on the joys of pokies &lpar;2011&rpar;](http://grogsgamut.blogspot.com/2011/04/dont-bet-on-joys-of-pokies.html)
+- [Epigenetic age oscillates during the day](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.14170)
+- [IBM and the Holocaust](https://en.wikipedia.org/wiki/IBM_and_the_Holocaust)
+- [Meta.ai Oh My](https://www.tbray.org/ongoing/When/202x/2024/04/18/Meta-AI-oh-my)
 <!-- BLOG-POST-LIST:END -->
 
 ---
