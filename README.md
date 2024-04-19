@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla ordered to recall almost 4k Cybertrucks over faulty accelerator](https://www.nbcnews.com/tech/tech-news/tesla-ordered-recall-almost-4000-cybertrucks-faulty-accelerator-proble-rcna148526)
+- [Presence and collection of DNA from air and air conditioner units](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/elps.202300227)
+- [Add Depth of Field to Screenshots](https://www.blurmatic.com/)
+- [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
+- [Infected blood scandal: Children were used as &#39;guinea pigs&#39; in clinical trials](https://www.bbc.com/news/health-68831061)
 - [Ask HN: High quality Python scripts or small libraries to learn from](https://news.ycombinator.com/item?id=40085887)
-- [Chariot &lpar;YC S22&rpar; – Stripe/Visa for Nonprofits – Is Hiring a Senior Back End Eng](https://www.ycombinator.com/companies/chariot-2/jobs/MsAGh9T-senior-backend-engineer)
-- [Tesla Recalls All Cybertrucks for Faulty Accelerator Pedals](https://techcrunch.com/2024/04/19/tesla-cybertruck-throttle-accelerator-pedal-stuck/)
-- [Tips on how to structure your home directory &lpar;2023&rpar;](https://unixdigest.com/tutorials/tips-on-how-to-structure-your-home-directory.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
