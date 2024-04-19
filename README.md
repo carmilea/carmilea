@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [O1 Visa Hacks for Founders](https://extraordinaryaliens.substack.com/p/o1-visa-hacks-for-founders)
+- [Finetune Llama-3 2x faster in a Colab notebook](https://colab.research.google.com/drive/135ced7oHytdxu3N2DNe1Z0kqjyYIkDXp?usp=sharing)
+- [Tesla discloses it spent $200k advertising on X](https://www.cnn.com/2024/04/18/business/elon-musk-tesla-advertises-on-x/index.html)
+- [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=40082424)
 - [SeaMonkey All-in-One Internet Application Suite](https://www.seamonkey-project.org)
-- [Modeling societal demise and reversal](https://www.frontiersin.org/articles/10.3389/fsoc.2024.1194597/full)
-- [A former slave who became a cowboy, a rancher, and a Texas legend](https://www.texasmonthly.com/being-texan/the-former-slave-who-became-a-cowboy-a-rancher-and-a-texas-legend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
