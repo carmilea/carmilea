@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Cybertruck No Match for Car Wash](https://jalopnik.com/tesla-cybertruck-no-match-for-car-wash-1851417011)
+- [Llama 3 8B is almost as good as Wizard 2 8x22B](https://huggingface.co/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF/discussions/5)
+- [Google merges the Android, Chrome, and hardware divisions](https://arstechnica.com/gadgets/2024/04/google-merges-the-android-chrome-and-hardware-divisions/)
+- [New Mexico: Psychologists to dress up as wizards when providing expert testimony](https://www.futilitycloset.com/2024/04/19/protocol-3/)
 - [Routine &lpar;YC W21&rpar; Is Hiring OCaml Software Engineers: On Site &lpar;Paris&rpar; or Remote](https://news.ycombinator.com/item?id=40084104)
-- [Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
-- [VoRS: Vo&lpar;IP&rpar; Simple Alternative to Mumble](http://www.vors.stargrave.org/)
-- [Scale of the Universe](https://scaleofuniverse.com/en)
-- [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
