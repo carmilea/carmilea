@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google scraps minimum wage, benefits rules for suppliers and staffing firms](https://www.reuters.com/technology/google-scraps-minimum-wage-benefits-rules-suppliers-staffing-firms-2024-04-19/)
+- [Bicycle Day &lpar;Psychedelic Holiday&rpar;](https://en.wikipedia.org/wiki/Bicycle_Day_(Psychedelic_Holiday))
 - [Streak &lpar;YC W22&rpar; Is Hiring a Staff UI Engineer](https://www.streak.com/careers/staff-ui-engineer)
-- [YouTube moves to AV1 by default to the dismay of some Android users](https://www.androidpolice.com/youtube-google-av1-codec-android-video/)
 - [Tell HN: Ever think of applying to YC? Do it this weekend for S24](https://news.ycombinator.com/item?id=40091622)
-- [Mozilla Begins Offering Firefox ARM64 Linux Binaries](https://www.phoronix.com/news/Mozilla-Firefox-ARM64-Nightly)
 - [Show HN: Talk to Me Human – my game about social persuasion](https://talktomehuman.com/)
 <!-- BLOG-POST-LIST:END -->
 
