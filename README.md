@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Bisect-Find](https://kevincox.ca/2024/05/19/git-bisect-find/)
 - [Bitcoin Block 840000](https://mempool.space/block/0000000000000000000320283a032748cef8227873ff4872689bf23f1cda83a5)
 - [Llama 3 feels significantly less censored than its predecessor](https://ollama.com/blog/llama-3-is-not-very-censored)
-- [&#39;Irresponsible&#39; to ignore consciousness across animal world scientists argue](https://thehill.com/policy/energy-environment/4605739-widespread-animal-consciousness-irresponsible-to-ignore-new-york-declaration-scientists/)
-- [Some Volumes Were Slow and We Figured Out Why](https://community.fly.io/t/some-volumes-were-slow-and-we-figured-out-why/19394)
 - [Dynamic Typography: Bringing Text to Life via Video Diffusion Prior](https://animate-your-word.github.io/demo/)
+- [Erdos Problems Collection](https://www.erdosproblems.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
