@@ -57,8 +57,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Two lifeforms merge in once-in-a-billion-years evolutionary event](https://newatlas.com/biology/life-merger-evolution-symbiosis-organelle/)
-- [All web browsers on iOS are just Safari with different design](https://community.brave.com/t/why-is-the-ios-app-updated-so-sparingly/512155)
 - [Emerge &lpar;YC W21&rpar; is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
+- [Why Everything Is Becoming a Game](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
 - [Bringing Exchange Support to Thunderbird](https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/)
 - [Relatively Universal ROM Programmer Makes Retro Tech Hacking Accessible](https://hackaday.com/2024/04/20/relatively-universal-rom-programmer-makes-retro-tech-hacking-accessible/)
 <!-- BLOG-POST-LIST:END -->
