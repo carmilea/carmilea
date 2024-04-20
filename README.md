@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Employers and job candidates are dueling with AI in the hiring process](https://sherwood.news/culture/employers-and-job-candidates-are-using-ai-in-the-hiring-process/)
-- [U-M finds students with alphabetically lower-ranked names receive lower grades](https://record.umich.edu/articles/study-alphabetical-order-of-surnames-may-affect-grading/)
-- [Debugging the Doctor Brain: Who&#39;s teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)
-- [Resend &lpar;YC W23&rpar; Is Hiring DevOps Engineers &lpar;Remote&rpar;](https://resend.com/careers/devops-engineer)
-- [Senate passes reauthorization of key US surveillance program after midnight](https://apnews.com/article/fisa-donald-trump-surveillance-congress-johnson-81e991c9f82e77b2fe13f8a3e0e25349)
+- [Mintlify &lpar;YC W22&rpar; Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/Mintlify/12598e83-45ad-4179-9c57-8b9162d1387e)
+- [Mercedes becomes the first automaker to sell autonomous cars in the U.S.](https://fortune.com/2024/04/18/mercedes-self-driving-autonomous-cars-california-nevada-level-3-drive-pilot/)
+- [Traveling Flame Discovery [video]](https://www.youtube.com/watch?v=SqhXQUzVMlQ)
+- [Stop Doing Cloud](https://grski.pl/self-host)
+- [Doomscroller.xyz](https://doomscroller.xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
