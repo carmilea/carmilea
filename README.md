@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Compiled list of notification infrastructure APIs for developers](https://github.com/kevin9985/notification-infrastructure-providers)
-- [We will be shutting down Post News within the next few weeks](https://post.news/@/noam/2fJw4PYRFjya343RpiToiyEQr0x)
-- [Cosmic rays streamed through Earth&#39;s atmosphere 41,000 years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
+- [Cosmic rays streamed through Earth&#39;s atmosphere 41k years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
 - [Git Bisect-Find](https://kevincox.ca/2024/05/19/git-bisect-find/)
-- [Magnesium Depletion Score and Metabolic Syndrome in US Adults](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae075/7608307)
+- [Two hunters from the same lodge afflicted with sporadic CJD: is CWD to blame?](https://www.neurology.org/doi/10.1212/WNL.0000000000204407)
+- [Human-level few-shot concept induction through minimax entropy learning](https://www.science.org/doi/10.1126/sciadv.adg2488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
