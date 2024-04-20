@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [House approves sell-or-be-banned TikTok measure](https://www.npr.org/2024/04/20/1245594589/house-approves-bill-tiktok-ban)
-- [British Columbia has banned self-driving vehicles that exceed Level 2](https://www.thedrive.com/news/self-driving-cars-banned-in-british-columbia)
-- [US House passes bill to ban TikTok if owners won&#39;t divest](https://www.nbcnews.com/politics/congress/house-vote-critical-aid-ukraine-israel-potential-tiktok-ban-rcna148395)
-- [Hierarchical Clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering)
-- [VLC vs. the App Stores](https://mjtsai.com/blog/2024/04/19/vlc-vs-the-app-stores/)
+- [Unreal Engine 5 gains WebGPU support](https://twitter.com/AlexStLouis10/status/1767643816750641481)
+- [HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
+- [My Journey into Personal Computer Software Development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
+- [Why you Should Not Apply To YC](https://twitter.com/dvassallo/status/1781751108211511680)
+- [Americans&#39; New TV Habit: Subscribe. Watch. Cancel. Repeat](https://www.nytimes.com/2024/04/20/business/media/streaming-subscription-jumping.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
