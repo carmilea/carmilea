@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge &lpar;YC W21&rpar; is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
+- [The legendary Zilog Z80 CPU is being discontinued after nearly 50 years](https://www.techspot.com/news/102684-zilog-discontinuing-z80-microprocessor-after-almost-50-years.html)
 - [AltStore. The first Apple approved alternative App Store](https://altstore.io/#Downloads)
-- [Ask HN: Please recommend how to manage personal serverss](https://news.ycombinator.com/item?id=40099933)
 - [HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
 - [My Journey into Personal Computer Software Development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
-- [Why you Should Not Apply To YC](https://twitter.com/dvassallo/status/1781751108211511680)
 <!-- BLOG-POST-LIST:END -->
 
 ---
