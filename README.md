@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Resend &lpar;YC W23&rpar; Is Hiring DevOps Engineers &lpar;Remote&rpar;](https://resend.com/careers/devops-engineer)
+- [NASA solar sail to be Siriusly visible in orbit from Earth](https://www.theregister.com/2024/04/19/nasa_solar_sail/)
+- [One UX researcher ignited changes to how the company &lpar;YouTube&rpar; built product](https://twitter.com/elizlaraki/status/1781336748624097561)
 - [MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
 - [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
-- [Dehydrated: Letsencrypt/acme client implemented as a shell-script](https://github.com/dehydrated-io/dehydrated)
-- [Children Need Neighborhoods Where They Can Walk and Bike](https://www.wsj.com/health/wellness/children-need-neighborhoods-where-they-can-walk-and-bike-5f3a9b4a)
-- [On Terry A. Davis](https://schizophrenic.io/blog/on-terry-a-davis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
