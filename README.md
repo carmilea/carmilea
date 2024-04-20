@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
 - [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
-- [Thousands protest against Canary islands&#39; &#39;unsustainable&#39; tourism model](https://www.theguardian.com/world/2024/apr/20/thousands-protest-canary-islands-unsustainable-tourism)
+- [Children Need Neighborhoods Where They Can Walk and Bike](https://www.wsj.com/health/wellness/children-need-neighborhoods-where-they-can-walk-and-bike-5f3a9b4a)
 - [On Terry A. Davis](https://schizophrenic.io/blog/on-terry-a-davis)
 - [The seven secrets of computer power [pdf]](https://www.ece.iastate.edu/~alexs/classes/2023_Fall_281/readings/Register-Machines.pdf)
-- [Cosmic rays streamed through Earth&#39;s atmosphere 41k years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
