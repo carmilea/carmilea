@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unreal Engine 5 gains WebGPU support](https://twitter.com/AlexStLouis10/status/1767643816750641481)
+- [AltStore. The first Apple approved alternative App Store](https://altstore.io/#Downloads)
+- [Ask HN: Please recommend how to manage personal serverss](https://news.ycombinator.com/item?id=40099933)
 - [HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
 - [My Journey into Personal Computer Software Development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
 - [Why you Should Not Apply To YC](https://twitter.com/dvassallo/status/1781751108211511680)
-- [Americans&#39; New TV Habit: Subscribe. Watch. Cancel. Repeat](https://www.nytimes.com/2024/04/20/business/media/streaming-subscription-jumping.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
