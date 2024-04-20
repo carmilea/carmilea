@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Israel uses facial recognition systems in Gaza and beyond](https://www.theguardian.com/technology/2024/apr/19/idf-facial-recognition-surveillance-palestinians)
 - [Cosmic rays streamed through Earth&#39;s atmosphere 41,000 years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
-- [Wikipedia Has Cancer](https://en.wikipedia.org/wiki/User:Guy_Macon/Wikipedia_has_Cancer)
 - [Git Bisect-Find](https://kevincox.ca/2024/05/19/git-bisect-find/)
 - [Magnesium Depletion Score and Metabolic Syndrome in US Adults](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae075/7608307)
+- [Two hunters from the same lodge afflicted with sporadic CJD: is CWD to blame?](https://www.neurology.org/doi/10.1212/WNL.0000000000204407)
+- [Dynamic Typography: Bringing Text to Life via Video Diffusion Prior](https://animate-your-word.github.io/demo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
