@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Squarial](https://en.wikipedia.org/wiki/Squarial)
+- [Phish turned Las Vegas&#39; Sphere into the ultimate music visualizer](https://www.theverge.com/24134861/phish-sphere-las-vegas-moment-factory-interview)
+- [Debugging the Doctor Brain: Who&#39;s teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)
+- [We Run FreeBSD Current at Netflix [video]](https://www.youtube.com/watch?v=q4TZxj-Dq7s)
 - [Resend &lpar;YC W23&rpar; Is Hiring DevOps Engineers &lpar;Remote&rpar;](https://resend.com/careers/devops-engineer)
-- [One UX researcher ignited changes to how the company &lpar;YouTube&rpar; built product](https://twitter.com/elizlaraki/status/1781336748624097561)
-- [MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
-- [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
+- [Fossils found in Somerset by girl, 11, &#39;may be of largest-ever marine reptile&#39;](https://www.theguardian.com/science/2024/apr/17/ichthyosaur-fossils-somerset-may-be-largest-marine-reptile-that-lived)
 <!-- BLOG-POST-LIST:END -->
 
 ---
