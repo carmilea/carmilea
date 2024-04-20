@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Phish turned Las Vegas&#39; Sphere into the ultimate music visualizer](https://www.theverge.com/24134861/phish-sphere-las-vegas-moment-factory-interview)
+- [U-M finds students with alphabetically lower-ranked names receive lower grades](https://record.umich.edu/articles/study-alphabetical-order-of-surnames-may-affect-grading/)
 - [Debugging the Doctor Brain: Who&#39;s teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)
-- [We Run FreeBSD Current at Netflix [video]](https://www.youtube.com/watch?v=q4TZxj-Dq7s)
 - [Resend &lpar;YC W23&rpar; Is Hiring DevOps Engineers &lpar;Remote&rpar;](https://resend.com/careers/devops-engineer)
+- [Senate passes reauthorization of key US surveillance program after midnight](https://apnews.com/article/fisa-donald-trump-surveillance-congress-johnson-81e991c9f82e77b2fe13f8a3e0e25349)
 - [Fossils found in Somerset by girl, 11, &#39;may be of largest-ever marine reptile&#39;](https://www.theguardian.com/science/2024/apr/17/ichthyosaur-fossils-somerset-may-be-largest-marine-reptile-that-lived)
 <!-- BLOG-POST-LIST:END -->
 
