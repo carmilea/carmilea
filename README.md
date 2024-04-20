@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Employers and job candidates are dueling with AI in the hiring process](https://sherwood.news/culture/employers-and-job-candidates-are-using-ai-in-the-hiring-process/)
 - [U-M finds students with alphabetically lower-ranked names receive lower grades](https://record.umich.edu/articles/study-alphabetical-order-of-surnames-may-affect-grading/)
 - [Debugging the Doctor Brain: Who&#39;s teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)
 - [Resend &lpar;YC W23&rpar; Is Hiring DevOps Engineers &lpar;Remote&rpar;](https://resend.com/careers/devops-engineer)
 - [Senate passes reauthorization of key US surveillance program after midnight](https://apnews.com/article/fisa-donald-trump-surveillance-congress-johnson-81e991c9f82e77b2fe13f8a3e0e25349)
-- [Fossils found in Somerset by girl, 11, &#39;may be of largest-ever marine reptile&#39;](https://www.theguardian.com/science/2024/apr/17/ichthyosaur-fossils-somerset-may-be-largest-marine-reptile-that-lived)
 <!-- BLOG-POST-LIST:END -->
 
 ---
