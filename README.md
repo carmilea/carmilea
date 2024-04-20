@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Compiled list of notification infrastructure APIs for developers](https://github.com/kevin9985/notification-infrastructure-providers)
+- [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
+- [Thousands protest against Canary islands&#39; &#39;unsustainable&#39; tourism model](https://www.theguardian.com/world/2024/apr/20/thousands-protest-canary-islands-unsustainable-tourism)
+- [On Terry A. Davis](https://schizophrenic.io/blog/on-terry-a-davis)
+- [The seven secrets of computer power [pdf]](https://www.ece.iastate.edu/~alexs/classes/2023_Fall_281/readings/Register-Machines.pdf)
 - [Cosmic rays streamed through Earth&#39;s atmosphere 41k years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
-- [Git Bisect-Find](https://kevincox.ca/2024/05/19/git-bisect-find/)
-- [Two hunters from the same lodge afflicted with sporadic CJD: is CWD to blame?](https://www.neurology.org/doi/10.1212/WNL.0000000000204407)
-- [Human-level few-shot concept induction through minimax entropy learning](https://www.science.org/doi/10.1126/sciadv.adg2488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
