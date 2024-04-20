@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mintlify &lpar;YC W22&rpar; Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/Mintlify/12598e83-45ad-4179-9c57-8b9162d1387e)
-- [Mercedes becomes the first automaker to sell autonomous cars in the U.S.](https://fortune.com/2024/04/18/mercedes-self-driving-autonomous-cars-california-nevada-level-3-drive-pilot/)
-- [Traveling Flame Discovery [video]](https://www.youtube.com/watch?v=SqhXQUzVMlQ)
-- [Stop Doing Cloud](https://grski.pl/self-host)
-- [Doomscroller.xyz](https://doomscroller.xyz/)
+- [House approves sell-or-be-banned TikTok measure](https://www.npr.org/2024/04/20/1245594589/house-approves-bill-tiktok-ban)
+- [British Columbia has banned self-driving vehicles that exceed Level 2](https://www.thedrive.com/news/self-driving-cars-banned-in-british-columbia)
+- [US House passes bill to ban TikTok if owners won&#39;t divest](https://www.nbcnews.com/politics/congress/house-vote-critical-aid-ukraine-israel-potential-tiktok-ban-rcna148395)
+- [Hierarchical Clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering)
+- [VLC vs. the App Stores](https://mjtsai.com/blog/2024/04/19/vlc-vs-the-app-stores/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
