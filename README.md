@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmic rays streamed through Earth&#39;s atmosphere 41,000 years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
+- [Why Dolphin Isn&#39;t Coming to the App Store](https://oatmealdome.me/blog/why-dolphin-isnt-coming-to-the-app-store/)
 - [Git Bisect-Find](https://kevincox.ca/2024/05/19/git-bisect-find/)
-- [Bitcoin Block 840000](https://mempool.space/block/0000000000000000000320283a032748cef8227873ff4872689bf23f1cda83a5)
-- [Llama 3 feels significantly less censored than its predecessor](https://ollama.com/blog/llama-3-is-not-very-censored)
-- [Dynamic Typography: Bringing Text to Life via Video Diffusion Prior](https://animate-your-word.github.io/demo/)
-- [Erdos Problems Collection](https://www.erdosproblems.com/)
+- [Magnesium Depletion Score and Metabolic Syndrome in US Adults](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae075/7608307)
+- [Two Hunters from the Same Lodge Afflicted with Sporadic CJD: Is CWD to Blame?](https://www.neurology.org/doi/10.1212/WNL.0000000000204407)
 <!-- BLOG-POST-LIST:END -->
 
 ---
