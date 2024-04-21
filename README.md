@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fading Memories of Youth](https://www.science.org/content/article/are-your-earliest-childhood-memories-still-lurking-your-mind-or-gone-forever)
+- [California Electricity Mix Live Dashboard](https://www.gridstatus.io/live/caiso)
+- [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
 - [How do you recognize an expert?](https://lemire.me/blog/2024/04/21/how-do-you-recognize-an-expert/)
 - [It&#39;s not your age that&#39;s slowing your metabolism, new research says](https://www.cnn.com/2021/09/24/health/how-to-boost-metabolism-wellness/index.html)
-- [Understanding What Matters for LLM Ingestion and Preprocessing](https://unstructured.io/blog/understanding-what-matters-for-llm-ingestion-and-preprocessing)
-- [Cambly &lpar;YC W14&rpar; is hiring engineers in SF to help people learn and teach English](https://jobs.ashbyhq.com/Cambly?departmentId=58bf36fe-813a-4048-bd36-11bd6f0ee3e2&utm_source=ROe4eDx4yP)
-- [Anti-municipal broadband budget amendment gets nixed in New York](https://communitynets.org/content/anti-muni-broadband-budget-amendment-gets-nixed-new-york)
 <!-- BLOG-POST-LIST:END -->
 
 ---
