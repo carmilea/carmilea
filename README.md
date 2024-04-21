@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft is a national security threat: ex-White House cyber policy director](https://www.theregister.com/2024/04/21/microsoft_national_security_risk/)
-- [The Gambler&#39;s Fallacy Is Not a Fallacy](https://www.kevindorst.com/stranger_apologies/the-gamblers-fallacy-is-not-a-fallacy)
-- [Never struggle to give feedback again](https://read.highgrowthengineer.com/p/never-struggle-to-give-feedback-again)
-- [The Design of Everyday APIs &lpar;2022&rpar;](https://www.roguelynn.com/talks/everyday-apis/)
-- [All Fritz Box modems have been hijacked](https://crapts.org/2024/04/21/all-fritz-box-modems-have-been-hijacked/)
+- [Cambly &lpar;YC W14&rpar; is hiring engineers in SF to help people learn and teach English](https://jobs.ashbyhq.com/Cambly?departmentId=58bf36fe-813a-4048-bd36-11bd6f0ee3e2&utm_source=ROe4eDx4yP)
+- [Vision can predict dementia 12 years before diagnosis, study finds](https://www.sciencealert.com/your-vision-can-predict-dementia-12-years-before-diagnosis-study-finds)
+- [Show HN: Volume rendering 3D data in Three.js and GLSL](https://github.com/SuboptimalEng/volume-rendering)
+- [penzai: JAX research toolkit for building, editing, and visualizing neural nets](https://github.com/google-deepmind/penzai)
+- [Hackers had access to Volkswagen IT systems for years](https://www.zdf.de/nachrichten/wirtschaft/volkswagen-china-hacking-industriespionage-emobilitaet-100.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
