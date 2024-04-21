@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I made an open source Windows app to rewind and search everything on screen](https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c)
 - [I love programming but I hate the programming industry](https://www.deathbyabstraction.com/I-love-programming-but-I-hate-the-programming-industry)
 - [Environment Shapes Emotional Cognitive Abilities More Than Genes](https://neurosciencenews.com/environment-genetics-metacognition-25945/)
-- [April 24 is JavaScript Naked Day – Browse the web without JavaScript](https://js-naked-day.org/)
 - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
 - [Do insects have an inner life? Animal consciousness needs a rethink](https://www.nature.com/articles/d41586-024-01144-y)
 <!-- BLOG-POST-LIST:END -->
