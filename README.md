@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All Fritz Box modems have been hijacked](https://crapts.org/2024/04/21/all-fritz-box-modems-have-been-hijacked/)
+- [I can&#39;t stand using VSCode so I wrote my own](https://bold-edit.com/wrote-my-own.html)
+- [What Should You Work On? &lpar;Assuming You Want to Make a Living at It.&rpar;](http://gurneyjourney.blogspot.com/2024/03/what-should-you-work-on-assuming-you.html)
+- [A load of old pixel shift. Why I just don&#39;t care for high-res modes](https://www.dpreview.com/opinion/6915548723/a-load-of-old-pixel-shift-why-i-just-don-t-care-for-high-res-modes)
 - [I made an open source Windows app to rewind and search everything on screen](https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c)
-- [I love programming but I hate the programming industry](https://www.deathbyabstraction.com/I-love-programming-but-I-hate-the-programming-industry)
-- [Environment Shapes Emotional Cognitive Abilities More Than Genes](https://neurosciencenews.com/environment-genetics-metacognition-25945/)
-- [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
-- [Do insects have an inner life? Animal consciousness needs a rethink](https://www.nature.com/articles/d41586-024-01144-y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
