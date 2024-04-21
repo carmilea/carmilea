@@ -57,9 +57,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Programming Is Mostly Thinking](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
+- [Dataflow Analyses and Compiler Optimizations That Use Them, for Free](https://blog.regehr.org/archives/2578)
 - [Glibc Buffer Overflow in Iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
 - [Racket Language](https://racket-lang.org/)
-- [You might not want to use your fingertip to unlock your phone](https://reason.com/2024/04/19/appeals-court-rules-that-cops-can-physically-make-you-unlock-your-phone/)
 - [The Psychology of Getting High–A Lot](https://nautil.us/the-psychology-of-getting-high-a-lot-548541/)
 <!-- BLOG-POST-LIST:END -->
 
