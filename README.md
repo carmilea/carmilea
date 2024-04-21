@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung tells its executives to work a 6-day week to &#39;inject a sense of crisis&#39;](https://fortune.com/2024/04/19/samsung-executives-work-six-day-week-crisis-worst-financial-year/)
+- [Pharmaceutical giant Bayer is getting rid of bosses](https://fortune.com/europe/2024/04/11/pharmaceutical-giant-bayer-ceo-bill-anderson-rid-bosses-staff-self-organize-save-2-billion/)
+- [House votes to ban TikTok in the U.S. if it&#39;s not sold](https://text.npr.org/1245594589)
 - [I bought 300 emoji domain names from Kazakhstan and built an email service &lpar;2021&rpar;](https://tinyprojects.dev/projects/mailoji)
 - [Rust Custom Target for QEMU RISC-V on Apache NuttX RTOS](https://lupyuen.codeberg.page/articles/rust4.html)
 - [Scientists discover first nitrogen fixing organelle](https://newscenter.lbl.gov/2024/04/17/scientists-discover-first-nitrogen-fixing-organelle/)
-- [Two lifeforms merge in once-in-a-billion-years evolutionary event](https://newatlas.com/biology/life-merger-evolution-symbiosis-organelle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
