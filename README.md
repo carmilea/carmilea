@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I love programming but I hate the programming industry](https://www.deathbyabstraction.com/I-love-programming-but-I-hate-the-programming-industry)
 - [Environment Shapes Emotional Cognitive Abilities More Than Genes](https://neurosciencenews.com/environment-genetics-metacognition-25945/)
 - [April 24 is JavaScript Naked Day – Browse the web without JavaScript](https://js-naked-day.org/)
 - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
 - [Do insects have an inner life? Animal consciousness needs a rethink](https://www.nature.com/articles/d41586-024-01144-y)
-- [Lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
