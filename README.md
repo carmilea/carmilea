@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google worker says the company is &#39;silencing our voices&#39;](https://www.npr.org/2024/04/19/1245757317/google-worker-fired-israel-project-nimbus-cloud-protestor)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [GPT Overperformance over Humans in Cognitive Reframing of Negative Scenarios](https://osf.io/preprints/psyarxiv/fzvd8)
-- [The dangers of &quot;decentralized&quot; ID systems](https://paper.wf/crypto-agorism/the-dangers-of-decentralized-id-systems)
 - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
 - [Understanding What Matters for LLM Ingestion and Preprocessing](https://unstructured.io/blog/understanding-what-matters-for-llm-ingestion-and-preprocessing)
+- [Simon Tatham&#39;s Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
