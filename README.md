@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Racket Language](https://racket-lang.org/)
 - [Pharmaceutical giant Bayer is getting rid of bosses](https://fortune.com/europe/2024/04/11/pharmaceutical-giant-bayer-ceo-bill-anderson-rid-bosses-staff-self-organize-save-2-billion/)
-- [House votes to ban TikTok in the U.S. if it&#39;s not sold](https://text.npr.org/1245594589)
+- [You might not want to use your fingertip to unlock your phone](https://reason.com/2024/04/19/appeals-court-rules-that-cops-can-physically-make-you-unlock-your-phone/)
+- [Rust for JavaScript Developers &lpar;2019&rpar;](https://www.codegram.com/blog/rust-for-js-developers/)
 - [I bought 300 emoji domain names from Kazakhstan and built an email service &lpar;2021&rpar;](https://tinyprojects.dev/projects/mailoji)
-- [Rust Custom Target for QEMU RISC-V on Apache NuttX RTOS](https://lupyuen.codeberg.page/articles/rust4.html)
-- [Scientists discover first nitrogen fixing organelle](https://newscenter.lbl.gov/2024/04/17/scientists-discover-first-nitrogen-fixing-organelle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
