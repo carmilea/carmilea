@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m Leaving New York City [video]](https://www.youtube.com/watch?v=lKBfFOLFC38)
-- [Ask HN: Is iCloud a viable alternative to Dropbox? Any other alternatives?](https://news.ycombinator.com/item?id=40104547)
-- [The Great British Housing Famine](https://www.himbonomics.com/p/the-great-british-housing-famine)
-- [Doom-htop: The classic DOOM game over htop](https://github.com/0x0mer/doom-htop)
-- [Amazon Grows to over 750k Robots, Replacing 100k Humans](https://finance.yahoo.com/news/amazon-grows-over-750-000-153000967.html)
+- [Environment Shapes Emotional Cognitive Abilities More Than Genes](https://neurosciencenews.com/environment-genetics-metacognition-25945/)
+- [April 24 is JavaScript Naked Day – Browse the web without JavaScript](https://js-naked-day.org/)
+- [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
+- [Do insects have an inner life? Animal consciousness needs a rethink](https://www.nature.com/articles/d41586-024-01144-y)
+- [Lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
