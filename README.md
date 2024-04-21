@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Humanise Campaign call for an end to boring buildings](https://humanise.org/opinions/imagine-the-nation-s-favourite-buildings-stripped-of-their-soul-using-ai)
+- [Do You Even Need Antivirus Software in 2024?](https://blog.thenewoil.org/do-you-even-need-antivirus-software-in-2024)
 - [Everyone Has JavaScript, Right?](https://www.kryogenix.org/code/browser/everyonehasjs.html)
+- [A hacker&#39;s guide to Language Models](https://github.com/fastai/lm-hackers/blob/main/lm-hackers.ipynb)
 - [Programming Is Mostly Thinking](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
-- [Dataflow Analyses and Compiler Optimizations That Use Them, for Free](https://blog.regehr.org/archives/2578)
-- [Glibc Buffer Overflow in Iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
