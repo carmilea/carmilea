@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [GPT Overperformance over Humans in Cognitive Reframing of Negative Scenarios](https://osf.io/preprints/psyarxiv/fzvd8)
 - [The dangers of &quot;decentralized&quot; ID systems](https://paper.wf/crypto-agorism/the-dangers-of-decentralized-id-systems)
-- [The fading memories of youth](https://www.science.org/content/article/are-your-earliest-childhood-memories-still-lurking-your-mind-or-gone-forever)
-- [California Electricity Mix Live Dashboard](https://www.gridstatus.io/live/caiso)
 - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
+- [Understanding What Matters for LLM Ingestion and Preprocessing](https://unstructured.io/blog/understanding-what-matters-for-llm-ingestion-and-preprocessing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
