@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft is a national security threat: ex-White House cyber policy director](https://www.theregister.com/2024/04/21/microsoft_national_security_risk/)
+- [The Gambler&#39;s Fallacy Is Not a Fallacy](https://www.kevindorst.com/stranger_apologies/the-gamblers-fallacy-is-not-a-fallacy)
+- [Never struggle to give feedback again](https://read.highgrowthengineer.com/p/never-struggle-to-give-feedback-again)
+- [The Design of Everyday APIs &lpar;2022&rpar;](https://www.roguelynn.com/talks/everyday-apis/)
 - [All Fritz Box modems have been hijacked](https://crapts.org/2024/04/21/all-fritz-box-modems-have-been-hijacked/)
-- [I can&#39;t stand using VSCode so I wrote my own](https://bold-edit.com/wrote-my-own.html)
-- [What Should You Work On? &lpar;Assuming You Want to Make a Living at It.&rpar;](http://gurneyjourney.blogspot.com/2024/03/what-should-you-work-on-assuming-you.html)
-- [A load of old pixel shift. Why I just don&#39;t care for high-res modes](https://www.dpreview.com/opinion/6915548723/a-load-of-old-pixel-shift-why-i-just-don-t-care-for-high-res-modes)
-- [I made an open source Windows app to rewind and search everything on screen](https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
