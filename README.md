@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Pixel camera consistently blurring out The North Face logo](https://old.reddit.com/r/pixel_phones/comments/1c98wpq/i_noticed_my_pixel_is_blurring_brand_namesmy_7/)
-- [The Fading Memories of Youth](https://www.science.org/content/article/are-your-earliest-childhood-memories-still-lurking-your-mind-or-gone-forever)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [The dangers of &quot;decentralized&quot; ID systems](https://paper.wf/crypto-agorism/the-dangers-of-decentralized-id-systems)
+- [The fading memories of youth](https://www.science.org/content/article/are-your-earliest-childhood-memories-still-lurking-your-mind-or-gone-forever)
 - [California Electricity Mix Live Dashboard](https://www.gridstatus.io/live/caiso)
 - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
-- [Understanding What Matters for LLM Ingestion and Preprocessing](https://unstructured.io/blog/understanding-what-matters-for-llm-ingestion-and-preprocessing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
