@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you recognize an expert?](https://lemire.me/blog/2024/04/21/how-do-you-recognize-an-expert/)
+- [It&#39;s not your age that&#39;s slowing your metabolism, new research says](https://www.cnn.com/2021/09/24/health/how-to-boost-metabolism-wellness/index.html)
+- [Understanding What Matters for LLM Ingestion and Preprocessing](https://unstructured.io/blog/understanding-what-matters-for-llm-ingestion-and-preprocessing)
 - [Cambly &lpar;YC W14&rpar; is hiring engineers in SF to help people learn and teach English](https://jobs.ashbyhq.com/Cambly?departmentId=58bf36fe-813a-4048-bd36-11bd6f0ee3e2&utm_source=ROe4eDx4yP)
-- [Vision can predict dementia 12 years before diagnosis, study finds](https://www.sciencealert.com/your-vision-can-predict-dementia-12-years-before-diagnosis-study-finds)
-- [Show HN: Volume rendering 3D data in Three.js and GLSL](https://github.com/SuboptimalEng/volume-rendering)
-- [penzai: JAX research toolkit for building, editing, and visualizing neural nets](https://github.com/google-deepmind/penzai)
-- [Hackers had access to Volkswagen IT systems for years](https://www.zdf.de/nachrichten/wirtschaft/volkswagen-china-hacking-industriespionage-emobilitaet-100.html)
+- [Anti-municipal broadband budget amendment gets nixed in New York](https://communitynets.org/content/anti-muni-broadband-budget-amendment-gets-nixed-new-york)
 <!-- BLOG-POST-LIST:END -->
 
 ---
