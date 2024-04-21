@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Two lifeforms merge in once-in-a-billion-years evolutionary event](https://newatlas.com/biology/life-merger-evolution-symbiosis-organelle/)
-- [Emerge &lpar;YC W21&rpar; is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
-- [Why Everything Is Becoming a Game](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
-- [Bringing Exchange Support to Thunderbird](https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/)
-- [Relatively Universal ROM Programmer Makes Retro Tech Hacking Accessible](https://hackaday.com/2024/04/20/relatively-universal-rom-programmer-makes-retro-tech-hacking-accessible/)
+- [Mark Zuckerberg himself appears in the list of direct contributors to Llama 3](https://github.com/meta-llama/llama3/blob/main/MODEL_CARD.md)
+- [Depression Rates by Country 2024](https://worldpopulationreview.com/country-rankings/depression-rates-by-country)
+- [A Trivial Llama 3 Jailbreak](https://github.com/haizelabs/llama3-jailbreak)
+- [I bought 300 emoji domain names from Kazakhstan and built an email service](https://tinyprojects.dev/projects/mailoji)
+- [GPT-4 can exploit vulnerabilities by reading CVEs](https://www.theregister.com/2024/04/17/gpt4_can_exploit_real_vulnerabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
