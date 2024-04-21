@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Zuckerberg himself appears in the list of direct contributors to Llama 3](https://github.com/meta-llama/llama3/blob/main/MODEL_CARD.md)
-- [Depression Rates by Country 2024](https://worldpopulationreview.com/country-rankings/depression-rates-by-country)
-- [A Trivial Llama 3 Jailbreak](https://github.com/haizelabs/llama3-jailbreak)
-- [I bought 300 emoji domain names from Kazakhstan and built an email service](https://tinyprojects.dev/projects/mailoji)
-- [GPT-4 can exploit vulnerabilities by reading CVEs](https://www.theregister.com/2024/04/17/gpt4_can_exploit_real_vulnerabilities/)
+- [Samsung tells its executives to work a 6-day week to &#39;inject a sense of crisis&#39;](https://fortune.com/2024/04/19/samsung-executives-work-six-day-week-crisis-worst-financial-year/)
+- [I bought 300 emoji domain names from Kazakhstan and built an email service &lpar;2021&rpar;](https://tinyprojects.dev/projects/mailoji)
+- [Rust Custom Target for QEMU RISC-V on Apache NuttX RTOS](https://lupyuen.codeberg.page/articles/rust4.html)
+- [Scientists discover first nitrogen fixing organelle](https://newscenter.lbl.gov/2024/04/17/scientists-discover-first-nitrogen-fixing-organelle/)
+- [Two lifeforms merge in once-in-a-billion-years evolutionary event](https://newatlas.com/biology/life-merger-evolution-symbiosis-organelle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
