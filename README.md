@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Humanise Campaign call for an end to boring buildings](https://humanise.org/opinions/imagine-the-nation-s-favourite-buildings-stripped-of-their-soul-using-ai)
-- [Do You Even Need Antivirus Software in 2024?](https://blog.thenewoil.org/do-you-even-need-antivirus-software-in-2024)
-- [Everyone Has JavaScript, Right?](https://www.kryogenix.org/code/browser/everyonehasjs.html)
-- [A hacker&#39;s guide to Language Models](https://github.com/fastai/lm-hackers/blob/main/lm-hackers.ipynb)
-- [Programming Is Mostly Thinking](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
+- [Why I&#39;m Leaving New York City [video]](https://www.youtube.com/watch?v=lKBfFOLFC38)
+- [Ask HN: Is iCloud a viable alternative to Dropbox? Any other alternatives?](https://news.ycombinator.com/item?id=40104547)
+- [The Great British Housing Famine](https://www.himbonomics.com/p/the-great-british-housing-famine)
+- [Doom-htop: The classic DOOM game over htop](https://github.com/0x0mer/doom-htop)
+- [Amazon Grows to over 750k Robots, Replacing 100k Humans](https://finance.yahoo.com/news/amazon-grows-over-750-000-153000967.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
