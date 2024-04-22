@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI and friends get two more years of warrantless FISA Section 702 snooping](https://www.theregister.com/2024/04/22/fisa_section_702_renewed/)
+- [HN Flooded with Spam AI Girlfriend Comments](https://news.ycombinator.com/item?id=40124648)
+- [Apple Hugs: Human Gaussian Splats &lpar;CVPR 2024&rpar;](https://github.com/apple/ml-hugs)
 - [It&#39;s Hyperobjects All the Way Down](https://www.wired.com/story/timothy-morton-hyperobjects-all-the-way-down/)
 - [Dify, a visual workflow to build/test LLM applications](https://github.com/langgenius/dify)
-- [Before Photoshop, Soviets Mastered Erasing People from Photographs and History](https://www.openculture.com/2017/08/long-before-photoshop-the-soviets-mastered-the-art-of-erasing-people-from-photographs-and-history-too.html)
 - [FPGA Architecture for Deep Learning: Survey and Future Directions](https://arxiv.org/abs/2404.10076)
 <!-- BLOG-POST-LIST:END -->
 
