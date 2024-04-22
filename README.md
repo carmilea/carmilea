@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Paying for it doesn&#39;t make it a market](https://pluralistic.net/2024/04/22/kargo-kult-kaptialism/#dont-buy-it)
+- [Apple acquires French startup behind AI and computer vision technology](https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/)
+- [Internet of Desks: How I Connected My Standing Desk to the Internet](https://kn100.me/desksniffer/)
+- [Gitlab Duo](https://about.gitlab.com/gitlab-duo/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [Equinox.space](https://equinox.space/)
-- [Show HN: OpenOrb, a curated search engine for Atom and RSS feeds](https://openorb.idiot.sh/search)
-- [Show HN: I made a multiple runtime version manager that can be used on Windows](https://github.com/version-fox/vfox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
