@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Smoke and Mirrors](https://www.bloodinthemachine.com/p/ai-really-is-smoke-and-mirrors)
-- [El Niño to flip to La Niña in what could be the hottest year on record](https://www.livescience.com/planet-earth/weather/uncharted-territory-el-nino-to-flip-to-la-nina-in-what-could-be-the-hottest-year-on-record)
-- [An Exploration of SBCL Internals &lpar;2020&rpar;](https://simonsafar.com/2020/sbcl/)
-- [Py2wasm – A Python to WASM Compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler)
-- [Apple has reportedly acquired Datakalab](https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/)
+- [HockeyStack &lpar;YC S23&rpar; Is Hiring Young Founding Engineers in the Bay Area](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
+- [The 100-year-old railway Mexico hopes will rival the Panama Canal &lpar;2023&rpar;](https://theweek.com/transport/the-100-year-old-railway-mexico-hopes-will-rival-the-panama-canal)
+- [Intel Gaudi 3 the New 128GB HBM2e AI Chip in the Wild](https://www.servethehome.com/this-is-intel-gaudi-3-the-new-128gb-hbm2e-ai-chip-in-the-wild-intel-vision-2024/)
+- [Meta Horizon OS](https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/)
+- [FDNY Arrests E-Bike Shop Owner for Allegedly Selling Illegal Batteries](https://www.thecity.nyc/2024/04/12/ebike-fire-department-arrest-battery-first/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
