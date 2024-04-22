@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Web Data Landscape Map](https://github.com/databoutique/thewebdataecosystemmap)
-- [Lolita: A tagless, dependently typed, self-aware programming language](https://hirrolot.github.io/posts/announcing-lolita.html)
-- [The Performance Impact of C++&#39;s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
-- [The dangers of single line regular expressions](https://greg.molnar.io/blog/the-dangers-of-single-line-regular-expressions/)
-- [HockeyStack &lpar;YC S23&rpar; is hiring founding engineers in the Bay Area](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
+- [What Phones Are Doing to Reading](https://www.newyorker.com/news/fault-lines/what-phones-are-doing-to-reading)
+- [Don&#39;t waste your time recycling plastic](https://www.washingtonpost.com/opinions/2024/04/22/stop-recycling-plastic-earth-day/)
+- [Introducing SQrL&#39;s Code Generator: Your SQL Co-Pilot](https://www.singlestore.com/blog/introducing-sqrl-code-generator)
+- [NASA&#39;s Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
+- [North Korean animation outsourcing for Amazon, HBO Max series](https://www.38north.org/2024/04/what-we-learned-inside-a-north-korean-internet-server-how-well-do-you-know-your-partners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
