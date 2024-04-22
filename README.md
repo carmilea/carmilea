@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Curl is just the hobby](https://daniel.haxx.se/blog/2024/04/22/curl-is-just-the-hobby/)
+- [Show HN: MonsterWriter – Write a thesis, post, or organize notes](https://news.ycombinator.com/item?id=40112169)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
 - [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
 - [Ruby vs. Python comes down to the for loop &lpar;2021&rpar;](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
-- [A flat map with the least error possible: The Gott-Goldberg-Vanderbei projection](https://vanderbei.princeton.edu/planets_webgl/GottPlanets.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
