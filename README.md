@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Majority of Americans now use ad blockers](https://www.theregister.com/2024/03/27/america_ad_blocker/)
-- [Untangling Spaghetti: Debugging Non-Terminating Object Programs &lpar;2009&rpar;](https://tidyfirst.substack.com/p/untangling-spaghetti-debugging-non)
-- [The Castration of Sima Qian](https://ijtihad.substack.com/p/the-castration-of-sima-qian)
+- [AI Is Smoke and Mirrors](https://www.bloodinthemachine.com/p/ai-really-is-smoke-and-mirrors)
+- [El Niño to flip to La Niña in what could be the hottest year on record](https://www.livescience.com/planet-earth/weather/uncharted-territory-el-nino-to-flip-to-la-nina-in-what-could-be-the-hottest-year-on-record)
+- [An Exploration of SBCL Internals &lpar;2020&rpar;](https://simonsafar.com/2020/sbcl/)
 - [Py2wasm – A Python to WASM Compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler)
-- [Apple acquires French startup behind AI and computer vision technology](https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/)
+- [Apple has reportedly acquired Datakalab](https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
