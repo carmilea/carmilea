@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Super Nintendo Cartridges](https://fabiensanglard.net/snes_carts/index.html)
 - [Ruby vs. Python comes down to the for loop &lpar;2021&rpar;](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
+- [A flat map with the least error possible: The Gott-Goldberg-Vanderbei projection](https://vanderbei.princeton.edu/planets_webgl/GottPlanets.html)
 - [Pico.sh – Hacker Labs](https://github.com/picosh/pico)
-- [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Dangers of “decentralized” ID systems](https://paper.wf/crypto-agorism/the-dangers-of-decentralized-id-systems)
+- [The Unix-Haters Handbook [pdf] &lpar;1994&rpar;](https://simson.net/ref/ugh.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
