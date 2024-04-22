@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
-- [&#39;Human intelligence&#39;](https://helenbeetham.substack.com/p/human-intelligence)
 - [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
 - [Ruby vs. Python comes down to the for loop &lpar;2021&rpar;](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
 - [A flat map with the least error possible: The Gott-Goldberg-Vanderbei projection](https://vanderbei.princeton.edu/planets_webgl/GottPlanets.html)
+- [Pico.sh – Hacker Labs](https://github.com/picosh/pico)
 <!-- BLOG-POST-LIST:END -->
 
 ---
