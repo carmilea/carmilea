@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Majority of Americans now use ad blockers](https://www.theregister.com/2024/03/27/america_ad_blocker/)
+- [Untangling Spaghetti: Debugging Non-Terminating Object Programs &lpar;2009&rpar;](https://tidyfirst.substack.com/p/untangling-spaghetti-debugging-non)
+- [The Castration of Sima Qian](https://ijtihad.substack.com/p/the-castration-of-sima-qian)
+- [Py2wasm – A Python to WASM Compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler)
 - [Apple acquires French startup behind AI and computer vision technology](https://9to5mac.com/2024/04/22/apple-startup-acquire-ai-compression-and-computer-vision/)
-- [Internet of Desks: How I Connected My Standing Desk to the Internet](https://kn100.me/desksniffer/)
-- [Gitlab Duo](https://about.gitlab.com/gitlab-duo/)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Equinox.space](https://equinox.space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
