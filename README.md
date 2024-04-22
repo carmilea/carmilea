@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018)
-- [RecurrentGemma: Moving Past Transformers for Efficient Open Language Models](https://arxiv.org/abs/2404.07839)
-- [Louisiana&#39;s flagship university lets oil firms influence research – for a price](https://www.theguardian.com/us-news/2024/apr/21/louisiana-state-university-oil-firms-influence)
-- [StreetComplete OSM Contribution App Begins iOS Port](https://gonzoknows.com/posts/streetcomplete-osm-contribution-app-begins-ios-port/)
+- [A Rigorous Derivation of the Bubble Sort Curve](https://linesthatconnect.github.io/blog/a-rigorous-derivation-of-the-bubble-sort-curve/)
+- [Some monkeys in Panama may have just stumbled into the Stone Age &lpar;2018&rpar;](https://www.newscientist.com/article/2173021-some-monkeys-in-panama-may-have-just-stumbled-into-the-stone-age/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
