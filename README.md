@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paying for it doesn&#39;t make it a market](https://pluralistic.net/2024/04/22/kargo-kult-kaptialism/#dont-buy-it)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Ask HN: Outstanding Programmers](https://news.ycombinator.com/item?id=40113488)
 - [Equinox.space](https://equinox.space/)
 - [Show HN: OpenOrb, a curated search engine for Atom and RSS feeds](https://openorb.idiot.sh/search)
-- [Show HN: MonsterWriter – Write a thesis, post, or organize notes](https://news.ycombinator.com/item?id=40112169)
+- [Show HN: I made a multiple runtime version manager that can be used on Windows](https://github.com/version-fox/vfox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
