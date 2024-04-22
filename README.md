@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google worker says the company is &#39;silencing our voices&#39;](https://www.npr.org/2024/04/19/1245757317/google-worker-fired-israel-project-nimbus-cloud-protestor)
+- [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018)
+- [RecurrentGemma: Moving Past Transformers for Efficient Open Language Models](https://arxiv.org/abs/2404.07839)
+- [Louisiana&#39;s flagship university lets oil firms influence research – for a price](https://www.theguardian.com/us-news/2024/apr/21/louisiana-state-university-oil-firms-influence)
+- [StreetComplete OSM Contribution App Begins iOS Port](https://gonzoknows.com/posts/streetcomplete-osm-contribution-app-begins-ios-port/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
-- [Understanding What Matters for LLM Ingestion and Preprocessing](https://unstructured.io/blog/understanding-what-matters-for-llm-ingestion-and-preprocessing)
-- [Simon Tatham&#39;s Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
