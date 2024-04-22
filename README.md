@@ -59,8 +59,8 @@
 - [Ruby vs. Python comes down to the for loop &lpar;2021&rpar;](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
 - [Pico.sh – Hacker Labs](https://github.com/picosh/pico)
 - [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018)
-- [Walmart joins other big retailers in scaling back on self-checkout](https://www.cbsnews.com/news/walmart-self-checkout-target-dollar-general-costco/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Dangers of “decentralized” ID systems](https://paper.wf/crypto-agorism/the-dangers-of-decentralized-id-systems)
 <!-- BLOG-POST-LIST:END -->
 
 ---
