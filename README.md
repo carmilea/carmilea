@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Phones Are Doing to Reading](https://www.newyorker.com/news/fault-lines/what-phones-are-doing-to-reading)
-- [Don&#39;t waste your time recycling plastic](https://www.washingtonpost.com/opinions/2024/04/22/stop-recycling-plastic-earth-day/)
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [Ask HN: What rabbit hole&lpar;s&rpar; did you dive into recently?](https://news.ycombinator.com/item?id=40119417)
+- [Show HN: Wonkypedia - Wikipedia from an Alternate Timeline](https://www.wonkypedia.org/)
 - [Introducing SQrL&#39;s Code Generator: Your SQL Co-Pilot](https://www.singlestore.com/blog/introducing-sqrl-code-generator)
 - [NASA&#39;s Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
-- [North Korean animation outsourcing for Amazon, HBO Max series](https://www.38north.org/2024/04/what-we-learned-inside-a-north-korean-internet-server-how-well-do-you-know-your-partners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
