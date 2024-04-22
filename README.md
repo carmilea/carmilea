@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Web Data Landscape Map](https://github.com/databoutique/thewebdataecosystemmap)
+- [Lolita: A tagless, dependently typed, self-aware programming language](https://hirrolot.github.io/posts/announcing-lolita.html)
 - [The Performance Impact of C++&#39;s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
+- [The dangers of single line regular expressions](https://greg.molnar.io/blog/the-dangers-of-single-line-regular-expressions/)
 - [HockeyStack &lpar;YC S23&rpar; is hiring founding engineers in the Bay Area](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
-- [The New Reality of Digital Nomads](https://hbr.org/2024/02/the-new-reality-of-digital-nomads)
-- [When will computer hardware match the human brain? &lpar;1998&rpar;](https://www.jetpress.org/volume1/moravec.htm)
-- [The 100-year-old railway Mexico hopes will rival the Panama Canal &lpar;2023&rpar;](https://theweek.com/transport/the-100-year-old-railway-mexico-hopes-will-rival-the-panama-canal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
