@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Community Unites to Build EU CRA-Compliant Cybersecurity Processes](https://news.apache.org/foundation/entry/open-source-community-unites-to-build-cra-compliant-cybersecurity-processes)
+- [Web Game Engines and Libraries](https://www.webgamedev.com/engines-libraries/web-game-engines-libraries)
+- [It&#39;s the End of the Web as We Know It](https://www.theatlantic.com/technology/archive/2024/04/generative-ai-search-llmo/678154/)
 - [NASA&#39;s Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth)
 - [How short can Git abbreviate? &lpar;2013&rpar;](https://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
-- [EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
-- [Phi-3 Technical Report](https://arxiv.org/abs/2404.14219)
-- [Electron 30.0.0](https://www.electronjs.org/blog/electron-30-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
