@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Most dating apps sell and share users&#39; personal data](https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy/)
+- [Phi-3 Weights Released](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct)
+- [College students should study more](https://www.slowboring.com/p/college-students-should-study-more)
+- [Show HN: Getada: rustup-like installer for Ada&#39;s toolchain/package manager](https://getada.dev)
 - [AMA: I&#39;m Dave Greene, an Accidental Expert on Conway&#39;s Game of Life](https://news.ycombinator.com/item?id=40131597)
 - [New Foundations is consistent – a difficult mathematical proof proved using Lean](https://leanprover-community.github.io/con-nf//)
-- [1build &lpar;YC W20&rpar; Is Hiring a Marketing Lead](https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead)
-- [Windows vulnerability reported by the NSA exploited to install Russian malware](https://arstechnica.com/security/2024/04/kremlin-backed-hackers-exploit-critical-windows-vulnerability-reported-by-the-nsa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
