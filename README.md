@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mass use of guided bombs driving Russian advances, says Ukraine](https://www.theguardian.com/world/2024/apr/11/mass-use-of-guided-bombs-driving-russian-advances-says-ukraine)
 - [1build &lpar;YC W20&rpar; Is Hiring a Marketing Lead](https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead)
 - [Claude 3 beats Google Translate](https://arxiv.org/abs/2404.13813)
 - [Llama3 running locally on iPhone 15 Pro](https://imgur.com/a/FRiBYSE)
 - [Segal&#39;s Law](https://en.wikipedia.org/wiki/Segal%27s_law)
+- [Akaunting is free, open-source online accounting software for small businesses](https://akaunting.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
