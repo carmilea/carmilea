@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple&#39;s Risky Bet on CarPlay](https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/)
-- [Taiki &lpar;YC W24&rpar; Is Hiring a Software Engineer Intern](https://www.ycombinator.com/companies/taiki/jobs/kOLspG5-software-engineer-intern)
-- [Fallout1-ce: Fallout for modern operating systems](https://github.com/alexbatalov/fallout1-ce)
-- [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/)
-- [Generative A.I. Arrives in the Gene Editing World of CRISPR](https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html)
+- [FTC votes to ban non-compete agreements](https://thehill.com/business/4615452-ftc-votes-to-ban-non-compete-agreements/)
+- [The death of the 60/40 portfolio](https://www.lynalden.com/april-2024-newsletter/)
+- [IBM nearing a buyout deal for HashiCorp, source says](https://www.reuters.com/markets/deals/ibm-nearing-buyout-deal-hashicorp-wsj-reports-2024-04-23/)
+- [Rabbit R1 source code [part 1]](https://github.com/rabbitscam/rabbitr1)
+- [Diet May Be More Important Than Exercise for Long-Term Weight Control](https://www.businessinsider.com/why-exercise-may-not-help-you-lose-weight-diet-healthy-2021-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
