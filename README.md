@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Work begins on a $12B high-speed rail line between Las Vegas and Los Angeles](https://apnews.com/article/high-speed-train-vegas-los-angeles-brightline-595913ff2fa3d9001fb89bfab4e6c4d2)
-- [Show HN: In love with this Remote working tool](https://www.kumospace.com/)
+- [NASA&#39;s Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth)
+- [How short can Git abbreviate? &lpar;2013&rpar;](https://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
 - [EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
 - [Phi-3 Technical Report](https://arxiv.org/abs/2404.14219)
-- [The Seattle Public Library is reducing maximum digital holds](https://shelftalkblog.wordpress.com/2024/03/13/the-seattle-public-library-is-reducing-our-maximum-digital-holds-heres-why/)
+- [Electron 30.0.0](https://www.electronjs.org/blog/electron-30-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
