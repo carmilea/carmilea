@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo illegal overtake into wrong-way driving](https://old.reddit.com/r/SelfDrivingCars/comments/1ca1z8m/longer_video_of_the_wrong_way_incident/)
-- [The last days of my type checker for JavaScript](https://jsmonk.github.io/2024-01-29-last-days-of-hegel/)
-- [Help us invent CSS Grid Level 3, a.k.a. &quot;Masonry&quot; layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
-- [Open Source Community Unites to Build EU CRA-Compliant Cybersecurity Processes](https://news.apache.org/foundation/entry/open-source-community-unites-to-build-cra-compliant-cybersecurity-processes)
-- [Web Game Engines and Libraries](https://www.webgamedev.com/engines-libraries/web-game-engines-libraries)
+- [Mass use of guided bombs driving Russian advances, says Ukraine](https://www.theguardian.com/world/2024/apr/11/mass-use-of-guided-bombs-driving-russian-advances-says-ukraine)
+- [1build &lpar;YC W20&rpar; Is Hiring a Marketing Lead](https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead)
+- [Claude 3 beats Google Translate](https://arxiv.org/abs/2404.13813)
+- [Llama3 running locally on iPhone 15 Pro](https://imgur.com/a/FRiBYSE)
+- [Segal&#39;s Law](https://en.wikipedia.org/wiki/Segal%27s_law)
 <!-- BLOG-POST-LIST:END -->
 
 ---
