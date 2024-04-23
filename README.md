@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chemists invent a efficient way to extract lithium from mining sites](https://phys.org/news/2024-04-chemists-efficient-lithium-sites-oil.html)
-- [Thefastest.ai](https://thefastest.ai)
+- [a poem about the Turing halting proof](http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html)
+- [Lower mortality, hospital readmission rates if treated by female physicians](https://www.thenationalnews.com/health/2024/04/23/patients-less-likely-to-die-if-treated-by-a-female-doctor-study-reveals/)
 - [Shortbread &lpar;YC W23&rpar; is hiring a founding engineer in SF for AI comics creation](https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer)
 - [Ask HN: How to improve PCB prototyping iteration time?](https://news.ycombinator.com/item?id=40137027)
 - [Digitized Continuous Magnetic Recordings for the 1859 Carrington Event](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003807)
