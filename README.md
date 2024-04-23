@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FTC votes to ban non-compete agreements](https://thehill.com/business/4615452-ftc-votes-to-ban-non-compete-agreements/)
-- [The death of the 60/40 portfolio](https://www.lynalden.com/april-2024-newsletter/)
-- [IBM nearing a buyout deal for HashiCorp, source says](https://www.reuters.com/markets/deals/ibm-nearing-buyout-deal-hashicorp-wsj-reports-2024-04-23/)
-- [Rabbit R1 source code [part 1]](https://github.com/rabbitscam/rabbitr1)
-- [Diet May Be More Important Than Exercise for Long-Term Weight Control](https://www.businessinsider.com/why-exercise-may-not-help-you-lose-weight-diet-healthy-2021-4)
+- [Python Big O: Time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
+- [Network visualization of 50k blogs and links](https://graph.henryn.ca)
+- [GPU Compute in the Browser at the Speed of Native: WebGPU Marching Cubes](https://www.willusher.io/graphics/2024/04/22/webgpu-marching-cubes)
+- [FTC announces rule banning noncompetes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes)
+- [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
