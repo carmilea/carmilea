@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HN Flooded with Spam AI Girlfriend Comments](https://news.ycombinator.com/item?id=40124648)
-- [Apple Hugs: Human Gaussian Splats &lpar;CVPR 2024&rpar;](https://github.com/apple/ml-hugs)
-- [It&#39;s Hyperobjects All the Way Down](https://www.wired.com/story/timothy-morton-hyperobjects-all-the-way-down/)
-- [Dify, a visual workflow to build/test LLM applications](https://github.com/langgenius/dify)
-- [FPGA Architecture for Deep Learning: Survey and Future Directions](https://arxiv.org/abs/2404.10076)
+- [Understanding and avoiding visually ambiguous characters in IDs](https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids)
+- [Ex-Amazon exec claims she was asked to ignore copyright law in race to AI](https://www.theregister.com/2024/04/22/ghaderi_v_amazon/)
+- [NASA&#39;s Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth)
+- [Why Cats Knock Stuff Over &lpar;2023&rpar;](https://gwern.net/cat-knocking)
+- [Modal is a matrioshka language based on pattern-matching to rewrite trees](https://wiki.xxiivv.com/site/modal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
