@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Big O: Time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
-- [Network visualization of 50k blogs and links](https://graph.henryn.ca)
-- [GPU Compute in the Browser at the Speed of Native: WebGPU Marching Cubes](https://www.willusher.io/graphics/2024/04/22/webgpu-marching-cubes)
-- [FTC announces rule banning noncompetes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes)
-- [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
+- [Shortbread &lpar;YC W23&rpar; is hiring a founding engineer in SF for AI comics creation](https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer)
+- [Ex-Post Office boss sought &#39;non-emotive words&#39; for Horizon bugs, inquiry hears](https://www.theguardian.com/uk-news/2024/apr/23/ex-post-office-boss-paula-vennells-searched-for-non-emotive-words-to-describe-horizon-bugs-inquiry-hears)
+- [X ordered by Australian government to censor content worldwide](https://www.abc.net.au/news/2024-04-24/esafety-commissioner-x-elon-musk-in-court-over-injunction/103760572)
+- [Ask HN: How to improve PCB prototyping iteration time?](https://news.ycombinator.com/item?id=40137027)
+- [Chemical found naturally in cannabis may reduce anxiety-inducing effects of THC](https://medicalxpress.com/news/2024-04-chemical-naturally-cannabis-anxiety-effects.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
