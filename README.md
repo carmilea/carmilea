@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Accelerate MongoDB® Apps to Drive 100x Faster Analytics and AI | SingleStore Webinars](https://www.youtube.com/watch?v=MU7QbwgqYuc)
 - [Kafka Unleashed: Powering Real-Time AI with Streaming Data | SingleStore Webinars](https://www.youtube.com/watch?v=Iy8cZywVHxg)
 - [Build Vector Embeddings for Video via Python Notebook &amp; OpenAI CLIP | SingleStore Webinars](https://www.youtube.com/watch?v=IhxJN_oPUfs)
 - [How We Made That App Episode 9: Pioneering AI Teaching Models with Dev Aditya](https://www.youtube.com/watch?v=-NBwR1Bgr6g)
 - [Into the SingleVerse: Exploring Conscious Capitalism with Raj Sisodia](https://www.youtube.com/watch?v=aXnFPtdPPMc)
-- [How to Protect Data in a FinServ RAG Pipeline | SingleStore Webinars](https://www.youtube.com/watch?v=Fylx_FGdpiI)
 <!-- YOUTUBE:END -->
 
 
