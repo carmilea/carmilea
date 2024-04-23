@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Phi-3 Weights Released](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct)
-- [College students should study more](https://www.slowboring.com/p/college-students-should-study-more)
+- [Proton Key Transparency [pdf]](https://proton.me/files/proton_keytransparency_whitepaper.pdf)
+- [China&#39;s small towns thrive as more opt out of demanding megacity life](https://www.japantimes.co.jp/news/2024/04/23/asia-pacific/society/china-small-town-boom/)
+- [Show HN: Hashquery, a Python library for defining reusable analysis](https://hashquery.dev/)
 - [Show HN: Getada: rustup-like installer for Ada&#39;s toolchain/package manager](https://getada.dev)
-- [AMA: I&#39;m Dave Greene, an Accidental Expert on Conway&#39;s Game of Life](https://news.ycombinator.com/item?id=40131597)
-- [New Foundations is consistent – a difficult mathematical proof proved using Lean](https://leanprover-community.github.io/con-nf//)
+- [The Beautiful Dissociation of the Japanese Language](https://aethermug.com/posts/the-beautiful-dissociation-of-the-japanese-language)
 <!-- BLOG-POST-LIST:END -->
 
 ---
