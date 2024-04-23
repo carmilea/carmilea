@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Most dating apps sell and share users&#39; personal data](https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy/)
+- [AMA: I&#39;m Dave Greene, an Accidental Expert on Conway&#39;s Game of Life](https://news.ycombinator.com/item?id=40131597)
+- [New Foundations is consistent – a difficult mathematical proof proved using Lean](https://leanprover-community.github.io/con-nf//)
 - [1build &lpar;YC W20&rpar; Is Hiring a Marketing Lead](https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead)
-- [Claude 3 beats Google Translate](https://arxiv.org/abs/2404.13813)
-- [Llama3 running locally on iPhone 15 Pro](https://imgur.com/a/FRiBYSE)
-- [Segal&#39;s Law](https://en.wikipedia.org/wiki/Segal%27s_law)
-- [Akaunting is free, open-source online accounting software for small businesses](https://akaunting.com)
+- [Windows vulnerability reported by the NSA exploited to install Russian malware](https://arstechnica.com/security/2024/04/kremlin-backed-hackers-exploit-critical-windows-vulnerability-reported-by-the-nsa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
