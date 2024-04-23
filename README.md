@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Proton Key Transparency [pdf]](https://proton.me/files/proton_keytransparency_whitepaper.pdf)
-- [China&#39;s small towns thrive as more opt out of demanding megacity life](https://www.japantimes.co.jp/news/2024/04/23/asia-pacific/society/china-small-town-boom/)
-- [Show HN: Hashquery, a Python library for defining reusable analysis](https://hashquery.dev/)
-- [Show HN: Getada: rustup-like installer for Ada&#39;s toolchain/package manager](https://getada.dev)
-- [The Beautiful Dissociation of the Japanese Language](https://aethermug.com/posts/the-beautiful-dissociation-of-the-japanese-language)
+- [Stripe CEO says he used to be a &#39;misanthropic introvert&#39;](https://fortune.com/europe/2024/04/23/stripe-ceo-co-founder-cave-dweller-remote-work-return-to-office/)
+- [Taiki &lpar;YC W24&rpar; Is Hiring a Software Engineer Intern](https://www.ycombinator.com/companies/taiki/jobs/kOLspG5-software-engineer-intern)
+- [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/)
+- [Generative A.I. Arrives in the Gene Editing World of CRISPR](https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html)
+- [EU Right to repair: Making repair easier and more appealing to consumers](https://www.europarl.europa.eu/news/en/press-room/20240419IPR20590/right-to-repair-making-repair-easier-and-more-appealing-to-consumers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
