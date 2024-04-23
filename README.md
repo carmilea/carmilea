@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chemists invent a efficient way to extract lithium from mining sites](https://phys.org/news/2024-04-chemists-efficient-lithium-sites-oil.html)
+- [Thefastest.ai](https://thefastest.ai)
 - [Shortbread &lpar;YC W23&rpar; is hiring a founding engineer in SF for AI comics creation](https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer)
-- [Ex-Post Office boss sought &#39;non-emotive words&#39; for Horizon bugs, inquiry hears](https://www.theguardian.com/uk-news/2024/apr/23/ex-post-office-boss-paula-vennells-searched-for-non-emotive-words-to-describe-horizon-bugs-inquiry-hears)
-- [X ordered by Australian government to censor content worldwide](https://www.abc.net.au/news/2024-04-24/esafety-commissioner-x-elon-musk-in-court-over-injunction/103760572)
 - [Ask HN: How to improve PCB prototyping iteration time?](https://news.ycombinator.com/item?id=40137027)
-- [Chemical found naturally in cannabis may reduce anxiety-inducing effects of THC](https://medicalxpress.com/news/2024-04-chemical-naturally-cannabis-anxiety-effects.html)
+- [Digitized Continuous Magnetic Recordings for the 1859 Carrington Event](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003807)
 <!-- BLOG-POST-LIST:END -->
 
 ---
