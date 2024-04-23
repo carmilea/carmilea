@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Launches Phi-3](https://arxiv.org/abs/2404.14219)
 - [Public Library Is Reducing Our Maximum Digital Holds. Here&#39;s Why](https://shelftalkblog.wordpress.com/2024/03/13/the-seattle-public-library-is-reducing-our-maximum-digital-holds-heres-why/)
 - [Hackers Broke into Change Healthcare&#39;s Systems 9 Days Before Cyberattack](https://www.wsj.com/articles/change-healthcare-hackers-broke-in-nine-days-before-ransomware-attack-7119fdc6)
 - [Ask HN: How to Manage Phones and PCs for Elderly Parents?](https://news.ycombinator.com/item?id=40127400)
-- [Carapace: A multi-shell completion library and binary](https://carapace.sh/)
-- [Future of Food: This Company Just Opened the First &quot;Air Protein&quot; Factory](https://www.speciesunite.com/news-stories/future-of-food-this-company-just-opened-the-worlds-first-air-protein-factory)
+- [Intro to &quot;Ideologies of AI and the consolidation of power&quot;: Naming power](https://firstmonday.org/ojs/index.php/fm/article/view/13643)
 <!-- BLOG-POST-LIST:END -->
 
 ---
