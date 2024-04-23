@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding and avoiding visually ambiguous characters in IDs](https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids)
-- [Ex-Amazon exec claims she was asked to ignore copyright law in race to AI](https://www.theregister.com/2024/04/22/ghaderi_v_amazon/)
-- [NASA&#39;s Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth)
-- [Why Cats Knock Stuff Over &lpar;2023&rpar;](https://gwern.net/cat-knocking)
-- [Modal is a matrioshka language based on pattern-matching to rewrite trees](https://wiki.xxiivv.com/site/modal)
+- [Public Library Is Reducing Our Maximum Digital Holds. Here&#39;s Why](https://shelftalkblog.wordpress.com/2024/03/13/the-seattle-public-library-is-reducing-our-maximum-digital-holds-heres-why/)
+- [Hackers Broke into Change Healthcare&#39;s Systems 9 Days Before Cyberattack](https://www.wsj.com/articles/change-healthcare-hackers-broke-in-nine-days-before-ransomware-attack-7119fdc6)
+- [Ask HN: How to Manage Phones and PCs for Elderly Parents?](https://news.ycombinator.com/item?id=40127400)
+- [Carapace: A multi-shell completion library and binary](https://carapace.sh/)
+- [Future of Food: This Company Just Opened the First &quot;Air Protein&quot; Factory](https://www.speciesunite.com/news-stories/future-of-food-this-company-just-opened-the-worlds-first-air-protein-factory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
