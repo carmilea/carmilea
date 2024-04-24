@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Police is using ChatGPT-4 powered body cams that turn audio into reports](https://www.forbes.com/sites/thomasbrewster/2024/04/23/axon-ai-police-reports-/)
+- [Nvidia to Acquire Run:AI](https://blogs.nvidia.com/blog/runai/)
 - [70k workers show another way to earn living in globe&#39;s largest industrial co-op](https://www.theguardian.com/lifeandstyle/2024/apr/24/in-the-us-they-think-were-communists-the-70000-workers-showing-the-world-another-way-to-earn-a-living)
-- [ShotSpotter Keeps Listening After Contracts Expire](https://southsideweekly.com/shotspotter-soundthinking-keeps-listening-after-contracts-expire-chicago-san-diego-san-antonio-indianapolis/)
 - [Open-Shell: A collection of utilities bringing back classic features to Windows](https://github.com/Open-Shell/Open-Shell-Menu)
 - [Faer-rs: Linear algebra foundation for the Rust programming language](https://github.com/sarah-ek/faer-rs)
+- [North Macedonia advertises Invest.com for free close to a decade](https://itlogs.com/how-macedonia-advertises-invest-com-for-free-close-to-a-decade/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
