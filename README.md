@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [a poem about the Turing halting proof](http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html)
-- [Lower mortality, hospital readmission rates if treated by female physicians](https://www.thenationalnews.com/health/2024/04/23/patients-less-likely-to-die-if-treated-by-a-female-doctor-study-reveals/)
-- [Shortbread &lpar;YC W23&rpar; is hiring a founding engineer in SF for AI comics creation](https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer)
-- [Ask HN: How to improve PCB prototyping iteration time?](https://news.ycombinator.com/item?id=40137027)
-- [Digitized Continuous Magnetic Recordings for the 1859 Carrington Event](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003807)
+- [The Rare Earth Metals Handcuffing the EV Revolution](https://exoswan.com/rare-earth-metals-for-evs)
+- [American Flag Sort](https://xlinux.nist.gov/dads/HTML/americanFlagSort.html)
+- [Cicadas are so noisy in South Carolina that residents are calling the police](https://apnews.com/article/noisy-cicadas-south-carolina-police-39f2bd760a51c8c1d28d88b12473840e)
+- [Canada bet big on immigration. Now it&#39;s hitting the brakes](https://www.washingtonpost.com/world/2024/04/23/canada-immigration-international-students/)
+- [Microplastics make their way from the gut to other organs, researchers find](https://medicalxpress.com/news/2024-04-microplastics-gut.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
