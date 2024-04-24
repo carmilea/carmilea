@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rare Earth Metals Handcuffing the EV Revolution](https://exoswan.com/rare-earth-metals-for-evs)
-- [American Flag Sort](https://xlinux.nist.gov/dads/HTML/americanFlagSort.html)
-- [Cicadas are so noisy in South Carolina that residents are calling the police](https://apnews.com/article/noisy-cicadas-south-carolina-police-39f2bd760a51c8c1d28d88b12473840e)
-- [Canada bet big on immigration. Now it&#39;s hitting the brakes](https://www.washingtonpost.com/world/2024/04/23/canada-immigration-international-students/)
-- [Microplastics make their way from the gut to other organs, researchers find](https://medicalxpress.com/news/2024-04-microplastics-gut.html)
+- [US breaks ground on its first-ever high-speed rail](https://www.popsci.com/technology/high-speed-rail/)
+- [The question that no LLM can answer and why it is important](https://www.mindprison.cc/p/the-question-that-no-llm-can-answer)
+- [Apple releases CoreNet, a library for training deep neural networks](https://github.com/apple/corenet)
+- [Protecting the Darkness in Chile&#39;s Atacama Desert](https://undark.org/2024/04/22/darkness-in-chile-atacama-desert/)
+- [FTC adopts a comprehensive ban on new noncompetes with all workers](https://www.ftc.gov/legal-library/browse/rules/noncompete-rule)
 <!-- BLOG-POST-LIST:END -->
 
 ---
