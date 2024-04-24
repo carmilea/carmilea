@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Deployments](https://wordpress.com/blog/2024/03/18/github-deployments/)
-- [Congress Passed a Bill That Could Ban TikTok. Now Comes the Hard Part](https://www.nytimes.com/2024/04/23/technology/tiktok-ban-bill-congress.html)
-- [OpenBSD – Game of Trees 0.98 released](https://www.undeadly.org/cgi?action=article;sid=20240424043509)
-- [Building a full Django project, starting with a single file](https://www.mostlypython.com/django-from-first-principles/)
+- [Piet](https://www.dangermouse.net/esoteric/piet.html)
+- [Golang PGO builds using GitHub Actions](https://www.dolthub.com/blog/2024-04-19-golang-pgo-builds-using-github-actions/)
 - [Maxtext: A simple, performant and scalable Jax LLM](https://github.com/google/maxtext)
+- [BeeBase, a programmable relational database with graphical user interface](https://beebase.sourceforge.io)
+- [Simulating Jupiter](https://emildziewanowski.com/flowfields/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
