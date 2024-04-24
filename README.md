@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla driver arrested for homicide after running over motorcyclist on Autopilot](https://electrek.co/2024/04/23/tesla-driver-arrested-homicide-running-over-motorcyclist-autopilot/)
-- [My Dinner with [Marc] Andreessen](https://prospect.org/power/2024-04-24-my-dinner-with-andreessen/)
-- [N. Korean hackers breached 10 defense contractors in South for months](https://english.hani.co.kr/arti/english_edition/e_national/1137990)
+- [The Rise and Fall of the LAN Party](https://aftermath.site/lan-party-merritt-k-book-read-only-memory-rom)
+- [&quot;I now lack the juice to fuel the bluster to conceal that I am a simpleton.&quot;](https://lithub.com/i-now-lack-the-juice-to-fuel-the-bluster-to-conceal-that-i-am-a-simpleton-padgett-powell-legend/)
+- [A feature-rich front-end drag-and-drop component library](https://github.com/atlassian/pragmatic-drag-and-drop)
 - [When do we stop finding new music?](https://www.statsignificant.com/p/when-do-we-stop-finding-new-music)
 - [Freshpaint &lpar;YC S19&rpar; is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
