@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Glass Health &lpar;YC W23&rpar; is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
-- [How to Land an Airplane in an Emergency &lpar;Step-by-Step&rpar;](https://eduardomourao.substack.com/p/how-to-land-an-airplane-in-an-emergency)
-- [First Nvidia DGX H200 in the world, hand-delivered to OpenAI](https://twitter.com/gdb/status/1783234941842518414)
-- [MDMA enhances empathy-like behaviors in mice via 5-HT release](https://www.science.org/doi/full/10.1126/sciadv.adl6554?af=R)
-- [HashiCorp joins IBM to accelerate multi-cloud automation](https://www.hashicorp.com/blog/hashicorp-joins-ibm)
+- [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
+- [IBM to buy HashiCorp in $6.4B deal](https://www.reuters.com/markets/deals/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-2024-04-24/)
+- [Pixiv Blocks Adult Content, but Only for US and UK Users](https://www.404media.co/pixiv-manga-site-blocks-adult-content-but-only-for-us-and-uk-users/)
+- [Eric Schmidt-backed Augment, a GitHub Copilot rival, launches out of stealth](https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
