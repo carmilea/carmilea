@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fisker Plans More Layoffs and Bankruptcy Looms](https://techcrunch.com/2024/04/23/fisker-more-layoffs-bankruptcy-ocean-suv/)
-- [VideoGigaGAN: Towards Detail-Rich Video Super-Resolution](https://videogigagan.github.io/)
-- [Nvidia to Acquire Run:AI](https://blogs.nvidia.com/blog/runai/)
-- [70k workers show another way to earn living in globe&#39;s largest industrial co-op](https://www.theguardian.com/lifeandstyle/2024/apr/24/in-the-us-they-think-were-communists-the-70000-workers-showing-the-world-another-way-to-earn-a-living)
-- [Open-Shell: A collection of utilities bringing back classic features to Windows](https://github.com/Open-Shell/Open-Shell-Menu)
+- [US bans TikTok owner ByteDance, will prohibit app in US unless it is sold](https://arstechnica.com/tech-policy/2024/04/biden-signs-bill-to-ban-tiktok-if-chinese-owner-bytedance-doesnt-sell/)
+- [Snowflake Arctic Instruct &lpar;128x3B MoE&rpar;, largest open source model](https://replicate.com/snowflake/snowflake-arctic-instruct)
+- [Biden signs TikTok &#39;ban&#39; bill into law, starting clock for ByteDance to divest](https://www.theverge.com/2024/4/24/24139036/biden-signs-tiktok-ban-bill-divest-foreign-aid-package)
+- [A morning with the Rabbit R1: a fun, funky, unfinished AI gadget](https://www.theverge.com/24138746/rabbit-r1-hands-on-ai-gadget-chatgpt)
+- [Hackers infect users of antivirus service that delivered updates over HTTP](https://arstechnica.com/security/2024/04/hackers-infect-users-of-antivirus-service-that-delivered-updates-over-http/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
