@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m giving up on open source](https://nutjs.dev/blog/i-give-up)
 - [US breaks ground on its first-ever high-speed rail](https://www.popsci.com/technology/high-speed-rail/)
-- [The question that no LLM can answer and why it is important](https://www.mindprison.cc/p/the-question-that-no-llm-can-answer)
-- [Apple releases CoreNet, a library for training deep neural networks](https://github.com/apple/corenet)
-- [Protecting the Darkness in Chile&#39;s Atacama Desert](https://undark.org/2024/04/22/darkness-in-chile-atacama-desert/)
-- [FTC adopts a comprehensive ban on new noncompetes with all workers](https://www.ftc.gov/legal-library/browse/rules/noncompete-rule)
+- [BeeBase, a programmable relational database with graphical user interface](https://beebase.sourceforge.io)
+- [The Open Compute Project](https://www.opencompute.org/about)
+- [Simulating Jupiter](https://emildziewanowski.com/flowfields/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
