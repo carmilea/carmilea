@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise and Fall of the LAN Party](https://aftermath.site/lan-party-merritt-k-book-read-only-memory-rom)
-- [&quot;I now lack the juice to fuel the bluster to conceal that I am a simpleton.&quot;](https://lithub.com/i-now-lack-the-juice-to-fuel-the-bluster-to-conceal-that-i-am-a-simpleton-padgett-powell-legend/)
-- [A feature-rich front-end drag-and-drop component library](https://github.com/atlassian/pragmatic-drag-and-drop)
-- [When do we stop finding new music?](https://www.statsignificant.com/p/when-do-we-stop-finding-new-music)
-- [Freshpaint &lpar;YC S19&rpar; is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [Glass Health &lpar;YC W23&rpar; is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
+- [How to Land an Airplane in an Emergency &lpar;Step-by-Step&rpar;](https://eduardomourao.substack.com/p/how-to-land-an-airplane-in-an-emergency)
+- [First Nvidia DGX H200 in the world, hand-delivered to OpenAI](https://twitter.com/gdb/status/1783234941842518414)
+- [MDMA enhances empathy-like behaviors in mice via 5-HT release](https://www.science.org/doi/full/10.1126/sciadv.adl6554?af=R)
+- [HashiCorp joins IBM to accelerate multi-cloud automation](https://www.hashicorp.com/blog/hashicorp-joins-ibm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
