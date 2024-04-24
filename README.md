@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Airlines required to refund passengers for canceled, delayed flights](https://abcnews.go.com/Politics/airlines-give-automatic-refunds-canceled-flights-delayed-3/story?id=109573733)
+- [Amsterdam roofs that not only grow plants but also capture water for residents](https://www.wired.com/story/blue-green-roofs-amsterdam-resilio-climate-adaptation-sponge-cities/)
 - [Glass Health &lpar;YC W23&rpar; is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 - [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
 - [IBM to buy HashiCorp in $6.4B deal](https://www.reuters.com/markets/deals/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-2024-04-24/)
-- [Pixiv Blocks Adult Content, but Only for US and UK Users](https://www.404media.co/pixiv-manga-site-blocks-adult-content-but-only-for-us-and-uk-users/)
-- [Eric Schmidt-backed Augment, a GitHub Copilot rival, launches out of stealth](https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
