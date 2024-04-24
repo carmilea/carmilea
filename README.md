@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Android 15 may make it harder for sideloaded apps to get sensitive permissions](https://www.androidauthority.com/android-15-enhanced-confirmation-mode-3436697/)
 - [Piet](https://www.dangermouse.net/esoteric/piet.html)
+- [US Senate passes TikTok divestment-or-ban bill](https://www.reuters.com/world/us/senators-hope-tiktok-will-remain-business-us-under-new-owner-2024-04-23/)
 - [Golang PGO builds using GitHub Actions](https://www.dolthub.com/blog/2024-04-19-golang-pgo-builds-using-github-actions/)
 - [Maxtext: A simple, performant and scalable Jax LLM](https://github.com/google/maxtext)
-- [BeeBase, a programmable relational database with graphical user interface](https://beebase.sourceforge.io)
-- [Simulating Jupiter](https://emildziewanowski.com/flowfields/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
