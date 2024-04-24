@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Freshpaint &lpar;YC S19&rpar; Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [It&#39;s Official: Scientists Confirmed What&#39;s Inside the Moon](https://www.sciencealert.com/its-official-scientists-finally-confirmed-whats-inside-the-moon)
+- [Freshpaint &lpar;YC S19&rpar; is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [TypeScript Essentials: Distinguishing Types with Branding](https://prosopo.io/articles/typescript-branding/)
+- [How we manage individual user concurrencies with Nginx and Lua](https://www.browserless.io/blog/managing-concurrencies-with-nginx-and-lua)
 - [The Stainless SDK Generator](https://www.stainlessapi.com/blog/announcing-the-stainless-sdk-generator)
-- [Snowflake Arctic Instruct &lpar;128x3B MoE&rpar;, largest open source model](https://replicate.com/snowflake/snowflake-arctic-instruct)
-- [A morning with the Rabbit R1: a fun, funky, unfinished AI gadget](https://www.theverge.com/24138746/rabbit-r1-hands-on-ai-gadget-chatgpt)
-- [VideoGigaGAN: Towards Detail-Rich Video Super-Resolution](https://videogigagan.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
