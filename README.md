@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Expensive&#39; Streaming Services Are a Key Reason for Americans to &#39;Pirate&#39;](https://torrentfreak.com/expensive-streaming-services-are-a-key-reason-for-americans-to-pirate-240424/)
 - [Meta does everything OpenAI should be](https://old.reddit.com/r/MachineLearning/comments/1cbhec7/meta_does_everything_openai_should_be_d/)
-- [Tesla Profits Drop 55%](https://techcrunch.com/2024/04/23/tesla-profits-drop-55-company-says-ev-sales-under-pressure-from-hybrids/)
 - [Android 15 may make it harder for sideloaded apps to get sensitive permissions](https://www.androidauthority.com/android-15-enhanced-confirmation-mode-3436697/)
 - [Piet](https://www.dangermouse.net/esoteric/piet.html)
 - [Golang PGO builds using GitHub Actions](https://www.dolthub.com/blog/2024-04-19-golang-pgo-builds-using-github-actions/)
