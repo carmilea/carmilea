@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [QEMU Version 9.0.0 Released](https://www.qemu.org/2024/04/23/qemu-9-0-0/)
+- [GitHub Deployments](https://wordpress.com/blog/2024/03/18/github-deployments/)
+- [Congress Passed a Bill That Could Ban TikTok. Now Comes the Hard Part](https://www.nytimes.com/2024/04/23/technology/tiktok-ban-bill-congress.html)
 - [OpenBSD – Game of Trees 0.98 released](https://www.undeadly.org/cgi?action=article;sid=20240424043509)
-- [Apple/OpenELM: Efficient Open-Source Family Language Models](https://huggingface.co/apple/OpenELM)
 - [Building a full Django project, starting with a single file](https://www.mostlypython.com/django-from-first-principles/)
 - [Maxtext: A simple, performant and scalable Jax LLM](https://github.com/google/maxtext)
 <!-- BLOG-POST-LIST:END -->
