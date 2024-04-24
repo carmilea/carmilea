@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m giving up on open source](https://nutjs.dev/blog/i-give-up)
+- [Maxtext: A simple, performant and scalable Jax LLM](https://github.com/google/maxtext)
 - [US breaks ground on its first-ever high-speed rail](https://www.popsci.com/technology/high-speed-rail/)
 - [BeeBase, a programmable relational database with graphical user interface](https://beebase.sourceforge.io)
 - [The Open Compute Project](https://www.opencompute.org/about)
