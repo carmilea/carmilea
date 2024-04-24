@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Empty S.F. office tower formerly valued at $62M sold for $6.5M](https://www.sfchronicle.com/realestate/article/s-f-tower-sells-90-discount-19418186.php)
+- [Building a full Django project, starting with a single file](https://www.mostlypython.com/django-from-first-principles/)
 - [Maxtext: A simple, performant and scalable Jax LLM](https://github.com/google/maxtext)
-- [US breaks ground on its first-ever high-speed rail](https://www.popsci.com/technology/high-speed-rail/)
+- [US moves to force ByteDance to sell TikTok](https://www.semafor.com/article/04/23/2024/us-senate-moves-to-force-bytedance-to-sell-tiktok)
 - [BeeBase, a programmable relational database with graphical user interface](https://beebase.sourceforge.io)
-- [The Open Compute Project](https://www.opencompute.org/about)
-- [Simulating Jupiter](https://emildziewanowski.com/flowfields/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
