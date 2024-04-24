@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s Official: Scientists Confirmed What&#39;s Inside the Moon](https://www.sciencealert.com/its-official-scientists-finally-confirmed-whats-inside-the-moon)
+- [Tesla driver arrested for homicide after running over motorcyclist on Autopilot](https://electrek.co/2024/04/23/tesla-driver-arrested-homicide-running-over-motorcyclist-autopilot/)
+- [My Dinner with [Marc] Andreessen](https://prospect.org/power/2024-04-24-my-dinner-with-andreessen/)
+- [N. Korean hackers breached 10 defense contractors in South for months](https://english.hani.co.kr/arti/english_edition/e_national/1137990)
+- [When do we stop finding new music?](https://www.statsignificant.com/p/when-do-we-stop-finding-new-music)
 - [Freshpaint &lpar;YC S19&rpar; is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [TypeScript Essentials: Distinguishing Types with Branding](https://prosopo.io/articles/typescript-branding/)
-- [How we manage individual user concurrencies with Nginx and Lua](https://www.browserless.io/blog/managing-concurrencies-with-nginx-and-lua)
-- [The Stainless SDK Generator](https://www.stainlessapi.com/blog/announcing-the-stainless-sdk-generator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
