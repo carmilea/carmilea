@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US bans TikTok owner ByteDance, will prohibit app in US unless it is sold](https://arstechnica.com/tech-policy/2024/04/biden-signs-bill-to-ban-tiktok-if-chinese-owner-bytedance-doesnt-sell/)
+- [Freshpaint &lpar;YC S19&rpar; Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [The Stainless SDK Generator](https://www.stainlessapi.com/blog/announcing-the-stainless-sdk-generator)
 - [Snowflake Arctic Instruct &lpar;128x3B MoE&rpar;, largest open source model](https://replicate.com/snowflake/snowflake-arctic-instruct)
-- [Biden signs TikTok &#39;ban&#39; bill into law, starting clock for ByteDance to divest](https://www.theverge.com/2024/4/24/24139036/biden-signs-tiktok-ban-bill-divest-foreign-aid-package)
 - [A morning with the Rabbit R1: a fun, funky, unfinished AI gadget](https://www.theverge.com/24138746/rabbit-r1-hands-on-ai-gadget-chatgpt)
-- [Hackers infect users of antivirus service that delivered updates over HTTP](https://arstechnica.com/security/2024/04/hackers-infect-users-of-antivirus-service-that-delivered-updates-over-http/)
+- [VideoGigaGAN: Towards Detail-Rich Video Super-Resolution](https://videogigagan.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
