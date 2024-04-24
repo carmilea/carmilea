@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brainbase &lpar;YC W24&rpar; Is Hiring for Founding Full-Stack Engineer](https://www.ycombinator.com/companies/brainbase/jobs/qNs5JRo-founding-fullstack-engineer)
-- [Google delays third-party cookie demise yet again](https://digiday.com/marketing/google-delays-third-party-cookie-demise-yet-again/)
-- [Google wants employees to move faster](https://www.cnbc.com/2024/04/23/google-search-boss-raghavan-warns-employees-of-new-operating-reality.html)
-- [Reddit Will License Its Data to Train LLMs, We Made a FF Extension to Replace](https://theluddite.org/#!post/reddit-extension)
-- [&#39;Expensive&#39; Streaming Services Are a Key Reason for Americans to &#39;Pirate&#39;](https://torrentfreak.com/expensive-streaming-services-are-a-key-reason-for-americans-to-pirate-240424/)
+- [Police is using ChatGPT-4 powered body cams that turn audio into reports](https://www.forbes.com/sites/thomasbrewster/2024/04/23/axon-ai-police-reports-/)
+- [70k workers show another way to earn living in globe&#39;s largest industrial co-op](https://www.theguardian.com/lifeandstyle/2024/apr/24/in-the-us-they-think-were-communists-the-70000-workers-showing-the-world-another-way-to-earn-a-living)
+- [ShotSpotter Keeps Listening After Contracts Expire](https://southsideweekly.com/shotspotter-soundthinking-keeps-listening-after-contracts-expire-chicago-san-diego-san-antonio-indianapolis/)
+- [Open-Shell: A collection of utilities bringing back classic features to Windows](https://github.com/Open-Shell/Open-Shell-Menu)
+- [Faer-rs: Linear algebra foundation for the Rust programming language](https://github.com/sarah-ek/faer-rs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
