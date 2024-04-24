@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Empty S.F. office tower formerly valued at $62M sold for $6.5M](https://www.sfchronicle.com/realestate/article/s-f-tower-sells-90-discount-19418186.php)
+- [QEMU Version 9.0.0 Released](https://www.qemu.org/2024/04/23/qemu-9-0-0/)
+- [OpenBSD – Game of Trees 0.98 released](https://www.undeadly.org/cgi?action=article;sid=20240424043509)
+- [Apple/OpenELM: Efficient Open-Source Family Language Models](https://huggingface.co/apple/OpenELM)
 - [Building a full Django project, starting with a single file](https://www.mostlypython.com/django-from-first-principles/)
 - [Maxtext: A simple, performant and scalable Jax LLM](https://github.com/google/maxtext)
-- [US moves to force ByteDance to sell TikTok](https://www.semafor.com/article/04/23/2024/us-senate-moves-to-force-bytedance-to-sell-tiktok)
-- [BeeBase, a programmable relational database with graphical user interface](https://beebase.sourceforge.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
