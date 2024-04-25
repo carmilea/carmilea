@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Nimble File Format by Meta](https://github.com/facebookexternal/nimble)
 - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
+- [A Logic Language for Distributed SQL Queries](https://www.osohq.com/post/logic-language-distributed-sql-queries)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Cloud Infrastructure/Operations &lpar;Remote&rpar;](https://www.tesorio.com/careers#job-openings)
 - [Virtual Machine Administration Using QEMU Monitor](https://documentation.suse.com/sles/12-SP5/html/SLES-all/cha-qemu-monitor.html)
 - [Judge acquits Backpage co-founder Michael Lacey on most counts](https://reason.com/2024/04/25/judge-acquits-backpage-co-founder-michael-lacey-on-most-counts/)
