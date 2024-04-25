@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Updating California&#39;s grid for EVs may cost up to $20B](https://arstechnica.com/cars/2024/04/updating-californias-grid-for-evs-may-cost-up-to-20-billion/)
 - [Serious flaws in SQL &lpar;1990&rpar;](https://dl.acm.org/doi/10.5555/77708.C1065772)
 - [Palm OS and the devices that ran it: An Ars retrospective](https://arstechnica.com/gadgets/2024/04/palm-os-and-the-devices-that-ran-it-an-ars-retrospective/)
 - [Tribler: An attack-resilient micro-economy for media](https://github.com/Tribler/tribler/wiki)
-- [Why One Man Spent 12 Years Fighting Robocalls](https://spectrum.ieee.org/how-to-stop-robocalls)
-- [Cogram &lpar;YC W22&rpar; Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/cogram/jobs/tB0R5rt-customer-success-engineer)
+- [David Frankel is a man on a mission against robocalls](https://spectrum.ieee.org/how-to-stop-robocalls)
 <!-- BLOG-POST-LIST:END -->
 
 ---
