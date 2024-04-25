@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Portugal Overthrew its Fascist Regime 50 Years Ago Today to Become a Democracy](https://www.reuters.com/world/europe/portugals-democracy-turns-50-thousands-commemorate-carnation-revolution-2024-04-25/)
-- [Life Lessons from a Ten-Year-Old Cigarette Vendor](https://medium.com/a-culturated/life-lessons-from-a-ten-year-old-cigarette-vendor-301ba67b3924)
-- [Xz sshd backdoor collecting usernames from logs](https://isc.sans.edu/diary/30802)
-- [FCC restores net neutrality rules that ban blocking and throttling in 3-2 vote](https://arstechnica.com/tech-policy/2024/04/fcc-restores-net-neutrality-rules-that-ban-blocking-and-throttling-in-3-2-vote/)
-- [Oracle&#39;s Jump to Nashville Surprises Austin](https://www.wsj.com/business/oracles-jump-to-nashville-surprises-austin-a4af5e18)
+- [Google Earning Q1 2024 [pdf]](https://abc.xyz/assets/91/b3/3f9213d14ce3ae27e1038e01a0e0/2024q1-alphabet-earnings-release-pdf.pdf)
+- [John Carmack on Meta Horizon OS](https://twitter.com/ID_AA_Carmack/status/1782826465207165288)
+- [Asian American women are getting lung cancer despite never smoking](https://www.nbcnews.com/news/us-news/asian-american-women-lung-cancer-rcna138895)
+- [No Abstractions: an Increase API design principle](https://increase.com/articles/no-abstractions)
+- [Start Your Own ISP](https://startyourownisp.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
