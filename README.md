@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Serious flaws in SQL &lpar;1990&rpar;](https://dl.acm.org/doi/10.5555/77708.C1065772)
+- [Palm OS and the devices that ran it: An Ars retrospective](https://arstechnica.com/gadgets/2024/04/palm-os-and-the-devices-that-ran-it-an-ars-retrospective/)
+- [Tribler: An attack-resilient micro-economy for media](https://github.com/Tribler/tribler/wiki)
+- [Why One Man Spent 12 Years Fighting Robocalls](https://spectrum.ieee.org/how-to-stop-robocalls)
 - [Cogram &lpar;YC W22&rpar; Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/cogram/jobs/tB0R5rt-customer-success-engineer)
-- [A useful front-end confetti animation library](https://github.com/catdad/canvas-confetti)
-- [TSMC unveils 1.6nm process technology with backside power delivery](https://www.tomshardware.com/tech-industry/tsmc-unveils-16nm-process-technology-with-backside-power-delivery-rivals-intels-competing-design)
-- [More on x86 – The Chip Letter](https://thechipletter.substack.com/p/more-on-x86)
-- [Leaving Substack](https://www.mostlypython.com/leaving-substack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
