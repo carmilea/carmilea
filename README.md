@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Updating California&#39;s grid for EVs may cost up to $20B](https://arstechnica.com/cars/2024/04/updating-californias-grid-for-evs-may-cost-up-to-20-billion/)
+- [Ex-athletic director arrested for framing principal with AI-generated voice](https://www.thebaltimorebanner.com/education/k-12-schools/eric-eiswert-ai-audio-baltimore-county-YBJNJAS6OZEE5OQVF5LFOFYN6M/)
+- [Someone built an LLM-powered Slay the Spire bot](https://community.aws/content/2esiarYrF0xRNOMPj0god4ikRzw/i-built-an-llm-bot-in-3-hours-to-conquer-slay-the-spire)
+- [Digital Wood Joints](https://openup.design/we-learn/50-digital-wood-joints/)
+- [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
 - [Serious flaws in SQL &lpar;1990&rpar;](https://dl.acm.org/doi/10.5555/77708.C1065772)
-- [Palm OS and the devices that ran it: An Ars retrospective](https://arstechnica.com/gadgets/2024/04/palm-os-and-the-devices-that-ran-it-an-ars-retrospective/)
-- [Tribler: An attack-resilient micro-economy for media](https://github.com/Tribler/tribler/wiki)
-- [David Frankel is a man on a mission against robocalls](https://spectrum.ieee.org/how-to-stop-robocalls)
 <!-- BLOG-POST-LIST:END -->
 
 ---
