@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Garry&#39;s Mod faces deluge of Nintendo-related DMCA takedown notices](https://www.engadget.com/garrys-mod-faces-deluge-of-nintendo-related-dmca-takedown-notices-123027589.html)
-- [QuestDB &lpar;YC S20&rpar; Is Hiring a Senior Front-End Engineer](https://questdb.io/careers/senior-frontend-engineer/)
-- [MemoryDB: A fast and durable memory-first cloud database](https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database)
-- [We have 4 days to contest KYC being required by internet services](https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious)
-- [Launch HN: Nango &lpar;YC W23&rpar; – Source-available unified API](https://news.ycombinator.com/item?id=40158481)
+- [Weaponizing Terms of Service](https://www.commerce.senate.gov/services/files/253BF7A3-EA7E-41B2-85AA-6404BF484870)
+- [FCC restores net neutrality rules that ban blocking and throttling in 3-2 vote](https://arstechnica.com/tech-policy/2024/04/fcc-restores-net-neutrality-rules-that-ban-blocking-and-throttling-in-3-2-vote/)
+- [CatLIP: Clip Vision Accuracy with 2.7x Faster Pre-Training on Web-Scale Data](https://arxiv.org/abs/2404.15653)
+- [Ask HN: What&#39;s Rabbit R1 business model?](https://news.ycombinator.com/item?id=40160577)
+- [FCC Votes to Restore Net Neutrality Rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
