@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CodeStory &lpar;YC S23&rpar; is hiring a Founding Engineer for building an AI-native IDE](https://www.workatastartup.com/companies/codestory)
+- [Tiny GPU: A minimal GPU implementation in Verilog](https://github.com/adam-maj/tiny-gpu)
+- [Node.js 22: Require&lpar;&rpar; Support and WebSockets](https://coderoasis.com/nodejs-22-released/)
 - [JSR Is Not Another Package Manager](https://deno.com/blog/jsr-is-not-another-package-manager)
 - [Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program](https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/)
-- [Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)
-- [Enron tried to trade memory chip futures; why didn&#39;t it work?](https://www.felixstocker.com/blog/chips)
 <!-- BLOG-POST-LIST:END -->
 
 ---
