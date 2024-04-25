@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ghost Jobs – it&#39;s not your fault that you are not getting hired in 2024 [video]](https://www.youtube.com/watch?v=nKWJHHmi-6g)
+- [New Video of Strong Full Levitation of Pcposos Room Temperature Superconductor](https://www.nextbigfuture.com/2024/04/new-video-of-strong-full-levitation-of-pcposos-room-temperature-superconductor.html)
 - [Australia&#39;s spies, cops want accountable encryption- a.k.a. access to backdoors](https://www.theregister.com/2024/04/25/asio_afp_accountable_encryption/)
 - [HTML Attributes vs. DOM Properties](https://jakearchibald.com/2024/attributes-vs-properties/)
 - [Fine tune LLAMA3 on million scale dataset in consumer GPU using QLora, DeepSpeed](https://medium.com/@sumandas0/fine-tune-llama3-on-million-scale-dataset-in-consumer-gpu-using-qlora-deepspeed-3ae8ad75299a)
-- [A Beginner&#39;s Guide to the ESP8266](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html)
-- [You are what you read, even if you don&#39;t always remember it](https://blog.jim-nielsen.com/2024/you-are-what-you-read/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
