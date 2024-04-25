@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CodeStory &lpar;YC S23&rpar; is hiring a Founding Engineer for building an AI-native IDE](https://www.workatastartup.com/companies/codestory)
 - [Ghost Jobs – it&#39;s not your fault that you are not getting hired in 2024 [video]](https://www.youtube.com/watch?v=nKWJHHmi-6g)
 - [Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program](https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/)
 - [Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)
-- [Australia&#39;s spies, cops want accountable encryption- a.k.a. access to backdoors](https://www.theregister.com/2024/04/25/asio_afp_accountable_encryption/)
 - [HTML Attributes vs. DOM Properties](https://jakearchibald.com/2024/attributes-vs-properties/)
 <!-- BLOG-POST-LIST:END -->
 
