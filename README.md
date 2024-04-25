@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Naked Day](https://starbreaker.org/blog/links/js-naked-day/index.html)
-- [Google rival Tuta complains to EU tech regulators about de-ranking](https://www.reuters.com/technology/google-rival-tuta-complains-eu-tech-regulators-about-de-ranking-2024-04-24/)
-- [40 Years of Sopwith](https://fragglet.github.io/sdl-sopwith/40years.html)
-- [How NASA Repaired Voyager 1 from 15B Miles Away](https://arstechnica.com/space/2024/04/recoding-voyager-1-nasas-interstellar-explorer-is-finally-making-sense-again/)
-- [Boeing retaliated against its own engineers working for FAA, union says](https://www.seattletimes.com/business/boeing-aerospace/boeing-retaliated-against-its-own-engineers-working-for-faa-union-says/)
+- [Cogram &lpar;YC W22&rpar; Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/cogram/jobs/tB0R5rt-customer-success-engineer)
+- [A useful front-end confetti animation library](https://github.com/catdad/canvas-confetti)
+- [TSMC unveils 1.6nm process technology with backside power delivery](https://www.tomshardware.com/tech-industry/tsmc-unveils-16nm-process-technology-with-backside-power-delivery-rivals-intels-competing-design)
+- [More on x86 – The Chip Letter](https://thechipletter.substack.com/p/more-on-x86)
+- [Leaving Substack](https://www.mostlypython.com/leaving-substack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
