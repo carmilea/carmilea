@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [As the US Air Force fleet keeps shrinking, can it still win wars?](https://www.defensenews.com/air/2024/04/23/as-the-us-air-force-fleet-keeps-shrinking-can-it-still-win-wars/)
+- [Fine tune LLAMA3 on million scale dataset in consumer GPU using QLora, DeepSpeed](https://medium.com/@sumandas0/fine-tune-llama3-on-million-scale-dataset-in-consumer-gpu-using-qlora-deepspeed-3ae8ad75299a)
 - [Air Force picks Anduril, General Atomics to develop unmanned fighter jets](https://breakingdefense.com/2024/04/air-force-picks-anduril-general-atomics-for-next-round-of-cca-work/)
-- [You Are What You Read, Even If You Don&#39;t Always Remember It](https://blog.jim-nielsen.com/2024/you-are-what-you-read/)
+- [A Beginner&#39;s Guide to the ESP8266](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html)
+- [You are what you read, even if you don&#39;t always remember it](https://blog.jim-nielsen.com/2024/you-are-what-you-read/)
 - [Show HN: See your current Spotify song in the menu bar](https://github.com/jonathangarelick/SoundSeer)
-- [Airlines required to refund passengers for canceled, delayed flights](https://abcnews.go.com/Politics/airlines-give-automatic-refunds-canceled-flights-delayed-3/story?id=109573733)
 <!-- BLOG-POST-LIST:END -->
 
 ---
