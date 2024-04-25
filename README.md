@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CodeStory &lpar;YC S23&rpar; is hiring a Founding Engineer for building an AI-native IDE](https://www.workatastartup.com/companies/codestory)
-- [Tiny GPU: A minimal GPU implementation in Verilog](https://github.com/adam-maj/tiny-gpu)
-- [Node.js 22: Require&lpar;&rpar; Support and WebSockets](https://coderoasis.com/nodejs-22-released/)
-- [JSR Is Not Another Package Manager](https://deno.com/blog/jsr-is-not-another-package-manager)
-- [Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program](https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/)
+- [Google rival Tuta complains to EU tech regulators about de-ranking](https://www.reuters.com/technology/google-rival-tuta-complains-eu-tech-regulators-about-de-ranking-2024-04-24/)
+- [40 Years of Sopwith](https://fragglet.github.io/sdl-sopwith/40years.html)
+- [Dedoimedo reviews Wayland in 2024 and comes to sad conclusions](https://www.dedoimedo.com/computers/wayland-2024.html)
+- [How NASA Repaired Voyager 1 from 15B Miles Away](https://arstechnica.com/space/2024/04/recoding-voyager-1-nasas-interstellar-explorer-is-finally-making-sense-again/)
+- [Boeing retaliated against its own engineers working for FAA, union says](https://www.seattletimes.com/business/boeing-aerospace/boeing-retaliated-against-its-own-engineers-working-for-faa-union-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
