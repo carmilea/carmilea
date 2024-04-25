@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mercedes unveils 2025 electric G-Class, with 4 motors and tank turns](https://electrek.co/2024/04/23/mercedes-unveils-2025-electric-g-class-with-4-motors-and-tank-turns/)
-- [Llama3 – 65k Context Window with great recall](https://twitter.com/winglian/status/1783122644579090600)
-- [Windows 11 now comes with its own adware](https://www.engadget.com/windows-11-now-comes-with-its-own-adware-124531977.html)
-- [Argentina celebrates first quarterly budget surplus in 16 years](https://www.wionews.com/business-economy/argentina-celebrates-its-first-quarterly-budget-surplus-president-milei-promises-continued-fiscal-discipline-714060)
-- [Decline in heart failure deaths has been undone, led by people under 45](https://www.statnews.com/2024/04/24/heart-failure-deaths-decline-undone/)
+- [As the US Air Force fleet keeps shrinking, can it still win wars?](https://www.defensenews.com/air/2024/04/23/as-the-us-air-force-fleet-keeps-shrinking-can-it-still-win-wars/)
+- [Air Force picks Anduril, General Atomics to develop unmanned fighter jets](https://breakingdefense.com/2024/04/air-force-picks-anduril-general-atomics-for-next-round-of-cca-work/)
+- [You Are What You Read, Even If You Don&#39;t Always Remember It](https://blog.jim-nielsen.com/2024/you-are-what-you-read/)
+- [Show HN: See your current Spotify song in the menu bar](https://github.com/jonathangarelick/SoundSeer)
+- [Airlines required to refund passengers for canceled, delayed flights](https://abcnews.go.com/Politics/airlines-give-automatic-refunds-canceled-flights-delayed-3/story?id=109573733)
 <!-- BLOG-POST-LIST:END -->
 
 ---
