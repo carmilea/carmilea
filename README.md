@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Somehow This $10k Flame-Thrower Robot Dog Is Completely Legal in 48 States](https://arstechnica.com/gadgets/2024/04/you-can-now-buy-a-flame-throwing-robot-dog-for-under-10000/)
-- [Amazon MemoryDB: A fast and durable memory-first cloud database](https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database)
+- [Garry&#39;s Mod faces deluge of Nintendo-related DMCA takedown notices](https://www.engadget.com/garrys-mod-faces-deluge-of-nintendo-related-dmca-takedown-notices-123027589.html)
+- [QuestDB &lpar;YC S20&rpar; Is Hiring a Senior Front-End Engineer](https://questdb.io/careers/senior-frontend-engineer/)
+- [MemoryDB: A fast and durable memory-first cloud database](https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database)
 - [We have 4 days to contest KYC being required by internet services](https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious)
-- [Package management on macOS with Nix-Darwin](https://davi.sh/blog/2024/01/nix-darwin/)
 - [Launch HN: Nango &lpar;YC W23&rpar; – Source-available unified API](https://news.ycombinator.com/item?id=40158481)
 <!-- BLOG-POST-LIST:END -->
 
