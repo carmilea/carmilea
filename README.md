@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [LangChain for Multimodal Apps: Chat With Text/Image Data | SingleStore Webinars](https://www.youtube.com/watch?v=lxwn_Jl0100)
 - [AI-Powered Personalized Shopping &amp; Recommendation Engine with OpenAI CLIP | SIngleStore Webinars](https://www.youtube.com/watch?v=ZoYKNXtgY8A)
 - [Fine-Tuning Your Embedding Model with SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=sumC9cwk1v8)
 - [Hands-On with Vercel AI SDK with Generative UI | SingleStore Webinars](https://www.youtube.com/watch?v=pOz_evbzSX4)
 - [Build AI Apps &amp; Agents in Minutes with Phidata &amp; SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=D7azBBcGSfY)
-- [Beginner&#39;s Guide to Vector Databases: Introductory Overview by Professor Tom Yeh](https://www.youtube.com/watch?v=VfIN3th_gYY)
 <!-- YOUTUBE:END -->
 
 
