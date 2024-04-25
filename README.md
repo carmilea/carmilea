@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Weaponizing Terms of Service](https://www.commerce.senate.gov/services/files/253BF7A3-EA7E-41B2-85AA-6404BF484870)
+- [Portugal Overthrew its Fascist Regime 50 Years Ago Today to Become a Democracy](https://www.reuters.com/world/europe/portugals-democracy-turns-50-thousands-commemorate-carnation-revolution-2024-04-25/)
+- [Life Lessons from a Ten-Year-Old Cigarette Vendor](https://medium.com/a-culturated/life-lessons-from-a-ten-year-old-cigarette-vendor-301ba67b3924)
+- [Xz sshd backdoor collecting usernames from logs](https://isc.sans.edu/diary/30802)
 - [FCC restores net neutrality rules that ban blocking and throttling in 3-2 vote](https://arstechnica.com/tech-policy/2024/04/fcc-restores-net-neutrality-rules-that-ban-blocking-and-throttling-in-3-2-vote/)
-- [CatLIP: Clip Vision Accuracy with 2.7x Faster Pre-Training on Web-Scale Data](https://arxiv.org/abs/2404.15653)
-- [Ask HN: What&#39;s Rabbit R1 business model?](https://news.ycombinator.com/item?id=40160577)
-- [FCC Votes to Restore Net Neutrality Rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html)
+- [Oracle&#39;s Jump to Nashville Surprises Austin](https://www.wsj.com/business/oracles-jump-to-nashville-surprises-austin-a4af5e18)
 <!-- BLOG-POST-LIST:END -->
 
 ---
