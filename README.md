@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ghost Jobs – it&#39;s not your fault that you are not getting hired in 2024 [video]](https://www.youtube.com/watch?v=nKWJHHmi-6g)
-- [New Video of Strong Full Levitation of Pcposos Room Temperature Superconductor](https://www.nextbigfuture.com/2024/04/new-video-of-strong-full-levitation-of-pcposos-room-temperature-superconductor.html)
+- [Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program](https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/)
+- [Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)
 - [Australia&#39;s spies, cops want accountable encryption- a.k.a. access to backdoors](https://www.theregister.com/2024/04/25/asio_afp_accountable_encryption/)
 - [HTML Attributes vs. DOM Properties](https://jakearchibald.com/2024/attributes-vs-properties/)
-- [Fine tune LLAMA3 on million scale dataset in consumer GPU using QLora, DeepSpeed](https://medium.com/@sumandas0/fine-tune-llama3-on-million-scale-dataset-in-consumer-gpu-using-qlora-deepspeed-3ae8ad75299a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
