@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CodeStory &lpar;YC S23&rpar; is hiring a Founding Engineer for building an AI-native IDE](https://www.workatastartup.com/companies/codestory)
-- [Ghost Jobs – it&#39;s not your fault that you are not getting hired in 2024 [video]](https://www.youtube.com/watch?v=nKWJHHmi-6g)
+- [JSR Is Not Another Package Manager](https://deno.com/blog/jsr-is-not-another-package-manager)
 - [Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program](https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/)
 - [Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)
-- [HTML Attributes vs. DOM Properties](https://jakearchibald.com/2024/attributes-vs-properties/)
+- [Enron tried to trade memory chip futures; why didn&#39;t it work?](https://www.felixstocker.com/blog/chips)
 <!-- BLOG-POST-LIST:END -->
 
 ---
