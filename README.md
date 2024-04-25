@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Airlines required to refund passengers for canceled, delayed flights](https://abcnews.go.com/Politics/airlines-give-automatic-refunds-canceled-flights-delayed-3/story?id=109573733)
-- [Amsterdam roofs that not only grow plants but also capture water for residents](https://www.wired.com/story/blue-green-roofs-amsterdam-resilio-climate-adaptation-sponge-cities/)
-- [Glass Health &lpar;YC W23&rpar; is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
-- [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
-- [IBM to buy HashiCorp in $6.4B deal](https://www.reuters.com/markets/deals/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-2024-04-24/)
+- [Mercedes unveils 2025 electric G-Class, with 4 motors and tank turns](https://electrek.co/2024/04/23/mercedes-unveils-2025-electric-g-class-with-4-motors-and-tank-turns/)
+- [Llama3 – 65k Context Window with great recall](https://twitter.com/winglian/status/1783122644579090600)
+- [Windows 11 now comes with its own adware](https://www.engadget.com/windows-11-now-comes-with-its-own-adware-124531977.html)
+- [Argentina celebrates first quarterly budget surplus in 16 years](https://www.wionews.com/business-economy/argentina-celebrates-its-first-quarterly-budget-surplus-president-milei-promises-continued-fiscal-discipline-714060)
+- [Decline in heart failure deaths has been undone, led by people under 45](https://www.statnews.com/2024/04/24/heart-failure-deaths-decline-undone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
