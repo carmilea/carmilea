@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Nimble File Format by Meta](https://github.com/facebookexternal/nimble)
+- [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Cloud Infrastructure/Operations &lpar;Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [Cease labeling recursion as challenging for students](https://mabelcor.substack.com/p/cease-labeling-recursion-as-challenging)
-- [A Response to &quot;Have Single-Page Apps Ruined the Web?&quot; &lpar;2021&rpar;](https://htmx.org/essays/a-response-to-rich-harris/)
 - [Virtual Machine Administration Using QEMU Monitor](https://documentation.suse.com/sles/12-SP5/html/SLES-all/cha-qemu-monitor.html)
-- [The Myth of the Second Chance](https://ft.pressreader.com/article/282557318242321)
+- [Judge acquits Backpage co-founder Michael Lacey on most counts](https://reason.com/2024/04/25/judge-acquits-backpage-co-founder-michael-lacey-on-most-counts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
