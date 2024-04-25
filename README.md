@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Earning Q1 2024 [pdf]](https://abc.xyz/assets/91/b3/3f9213d14ce3ae27e1038e01a0e0/2024q1-alphabet-earnings-release-pdf.pdf)
-- [John Carmack on Meta Horizon OS](https://twitter.com/ID_AA_Carmack/status/1782826465207165288)
-- [Asian American women are getting lung cancer despite never smoking](https://www.nbcnews.com/news/us-news/asian-american-women-lung-cancer-rcna138895)
-- [No Abstractions: an Increase API design principle](https://increase.com/articles/no-abstractions)
-- [Start Your Own ISP](https://startyourownisp.com/)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Cloud Infrastructure/Operations &lpar;Remote&rpar;](https://www.tesorio.com/careers#job-openings)
+- [Cease labeling recursion as challenging for students](https://mabelcor.substack.com/p/cease-labeling-recursion-as-challenging)
+- [A Response to &quot;Have Single-Page Apps Ruined the Web?&quot; &lpar;2021&rpar;](https://htmx.org/essays/a-response-to-rich-harris/)
+- [Virtual Machine Administration Using QEMU Monitor](https://documentation.suse.com/sles/12-SP5/html/SLES-all/cha-qemu-monitor.html)
+- [The Myth of the Second Chance](https://ft.pressreader.com/article/282557318242321)
 <!-- BLOG-POST-LIST:END -->
 
 ---
