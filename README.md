@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [European privacy regulator will stop using its own social media platforms](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/edps-decentralised-social-media-pilot-end-successful-story_en)
-- [The dire state of NixOS&#39;s moderation culture](https://github.com/nrdxp/rfc-evidence/blob/master/rfc_evidences_experiences.md)
 - [Radicle is an open source, peer-to-peer code collaboration stack built on Git](https://radicle.xyz/)
 - [OpenVoice: Instant Voice Cloning](https://github.com/myshell-ai/OpenVoice)
 - [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
+- [Minister defends arrest power for people feared to commit a hate crime in future](https://www.theglobeandmail.com/politics/article-justice-minister-defends-house-arrest-power-for-people-feared-to/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
