@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trellis &lpar;YC W24&rpar; is hiring Founding Eng to build snowflake for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
 - [What I remember about Flint water crisis was how state government lied](https://www.freep.com/story/opinion/columnists/nancy-kaffer/2024/04/26/flint-water-crisis-10th-anniversary-rick-snyder-lead/73430288007/)
+- [Show HN: I made a spaced repetition tool to master coding problems](https://www.lanki.xyz/)
 - [Forget billions of years: Researchers have grown diamonds in just 150 minutes](https://charmingscience.com/forget-billions-of-years-researchers-have-grown-diamonds-in-just-150-minutes/)
 - [Reflections on Qualitative Research](https://transformer-circuits.pub/2024/qualitative-essay/index.html)
-- [Camus, Albert and the Anarchists &lpar;2007&rpar;](https://theanarchistlibrary.org/library/organise-camus-albert-and-the-anarchists)
-- [Giving Rust a chance for in-kernel codecs](https://lwn.net/Articles/970565/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
