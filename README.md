@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Heavy Sad Heart](https://mailchi.mp/62e24f2ccc99/a-heavy-sad-heart)
-- [The Surprising Number of Steam Games That Use GenAI](https://www.totallyhuman.io/blog/the-surprising-number-of-steam-games-that-use-genai)
-- [Visualizing the locations of malicious login attempts](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)
+- [MFJ is ceasing its on-site production](https://mailchi.mp/62e24f2ccc99/a-heavy-sad-heart)
+- [Visualizing malicious IP addresses](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)
 - [Jeff Lawson Buys The Onion](https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html)
 - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
+- [A Logic Language for Distributed SQL Queries](https://www.osohq.com/post/logic-language-distributed-sql-queries)
 <!-- BLOG-POST-LIST:END -->
 
 ---
