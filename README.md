@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts on my first electric scooter purchase](https://maxmautner.com/2024/04/26/electric-scooters.html)
+- [3 years of fulltime Rust game development, and why we&#39;re leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
+- [School principal framed using AI-generated racist rant. Co-worker charged](https://www.cbsnews.com/baltimore/news/maryland-framed-principal-racist-ai-generated-voice/)
+- [Data Breach at Kaiser Permanente Affects 13.4M People](https://restoreprivacy.com/data-breach-at-kaiser-permanente-affects-13-4-million-people/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-- [DJI might get banned next in the US](https://www.theverge.com/2024/4/26/24141369/dji-ban-china-countering-ccp-drones-act)
-- [The Brutal Business Practices of Amazon–and How It Got Too Toxic to Touch](https://www.vanityfair.com/news/story/inside-amazon-business-practices)
-- [Tesla&#39;s 2M car Autopilot recall is now under federal scrutiny](https://arstechnica.com/cars/2024/04/feds-concerned-some-of-teslas-autopilot-recall-was-opt-in-reversible/)
-- [How Big Tech and Silicon Valley Are Transforming the Military-Industrial Complex](https://watson.brown.edu/costsofwar/papers/2024/SiliconValley)
 <!-- BLOG-POST-LIST:END -->
 
 ---
