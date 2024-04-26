@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Radicle is an open source, peer-to-peer code collaboration stack built on Git](https://radicle.xyz/)
+- [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
 - [Multiple Displays on a Mac Sucks](https://wadetregaskis.com/multiple-displays-on-a-mac-sucks/)
 - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
-- [MFJ is ceasing its on-site production](https://mailchi.mp/62e24f2ccc99/a-heavy-sad-heart)
 - [Visualizing malicious IP addresses](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)
-- [Jeff Lawson buys The Onion](https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
