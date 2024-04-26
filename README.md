@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GM collects driver behavior data then sells access to insurance companies](https://www.techdirt.com/2024/04/26/people-are-slowly-realizing-their-auto-insurance-rates-are-skyrocketing-because-their-car-is-covertly-spying-on-them/)
 - [Crypto Mixer Samourai Wallet&#39;s Co-Founders Arrested for Money Laundering](https://www.wsj.com/articles/crypto-mixer-samourai-wallets-co-founders-arrested-for-money-laundering-df237a4e)
-- [Balaji Srinivasan calls for tech to &quot;exit democracy&quot; and seize local governments](https://newrepublic.com/article/180487/balaji-srinivasan-network-state-plutocrat)
 - [UK&#39;s Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
-- [Three women contract HIV from dirty &quot;vampire facials&quot; at unlicensed spa](https://arstechnica.com/science/2024/04/dirty-vampire-facials-behind-first-hiv-outbreak-linked-to-spa-treatments/)
 - [GMB launches legal action against &#39;out of control&#39; Amazon at Coventry warehouse](https://www.theguardian.com/technology/2024/apr/26/gmb-launches-legal-action-against-out-of-control-amazon-at-coventry-warehouse)
+- [I&#39;m creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
