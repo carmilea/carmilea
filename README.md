@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Plunging Home Prices, Fleeing Companies: Austin&#39;s Glow Is Fading](https://www.msn.com/en-us/money/markets/ar-AA1nFgrS)
-- [Tiny in size, a Cupertino home is selling for big bucks: $1.7M](https://www.latimes.com/california/story/2024-04-19/tiny-cupertino-home-is-selling-for-over-1-7-million)
+- [World War I dangers in France&#39;s red zones](https://www.atlasobscura.com/articles/red-zones-in-france)
+- [The Landscape of Machine Learning on ArXiv](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html)
 - [Court upholds New York law that says ISPs must offer $15 broadband](https://arstechnica.com/tech-policy/2024/04/court-upholds-new-york-law-that-says-isps-must-offer-15-broadband/)
 - [Factorio – Statistics improvements, Linux adventures](https://factorio.com/blog/post/fff-408)
 - [Trellis &lpar;YC W24&rpar; is hiring Founding Eng to build snowflake for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
