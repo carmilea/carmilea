@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [European privacy regulator will stop using its own social media platforms](https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/edps-decentralised-social-media-pilot-end-successful-story_en)
-- [Radicle is an open source, peer-to-peer code collaboration stack built on Git](https://radicle.xyz/)
-- [OpenVoice: Instant Voice Cloning](https://github.com/myshell-ai/OpenVoice)
-- [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
-- [Minister defends arrest power for people feared to commit a hate crime in future](https://www.theglobeandmail.com/politics/article-justice-minister-defends-house-arrest-power-for-people-feared-to/)
+- [Aviator &lpar;YC S21&rpar; is hiring engineers to build a dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
+- [What We Train Our Brains For](https://michaeldehaan.substack.com/p/what-we-train-our-brains-for)
+- [The Universe as a Computer](https://dabacon.org/pontiff/2024/04/26/the-universe-as-a-computer-john-archibald-wheeler/)
+- [Qwen1.5-110B](https://qwenlm.github.io/blog/qwen1.5-110b/)
+- [Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
