@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Leidenfrost Effect](https://en.wikipedia.org/wiki/Leidenfrost_effect)
-- [The 8-bit Z80 is dead. Long live the 16-bit Z80](https://www.theregister.com/2024/04/26/long_live_16_bit_z80/)
-- [About the Chinese police officers who may soon be patrolling in Hungary](https://telex.hu/english/2024/04/25/what-do-we-know-about-the-chinese-police-officers-who-may-soon-be-patrolling-in-hungary)
-- [Thoughts on my first electric scooter purchase](https://maxmautner.com/2024/04/26/electric-scooters.html)
-- [Camus, Albert and the Anarchists](https://theanarchistlibrary.org/library/organise-camus-albert-and-the-anarchists)
+- [What I remember about Flint water crisis was how state government lied](https://www.freep.com/story/opinion/columnists/nancy-kaffer/2024/04/26/flint-water-crisis-10th-anniversary-rick-snyder-lead/73430288007/)
+- [Forget billions of years: Researchers have grown diamonds in just 150 minutes](https://charmingscience.com/forget-billions-of-years-researchers-have-grown-diamonds-in-just-150-minutes/)
+- [Reflections on Qualitative Research](https://transformer-circuits.pub/2024/qualitative-essay/index.html)
+- [Camus, Albert and the Anarchists &lpar;2007&rpar;](https://theanarchistlibrary.org/library/organise-camus-albert-and-the-anarchists)
+- [Giving Rust a chance for in-kernel codecs](https://lwn.net/Articles/970565/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
