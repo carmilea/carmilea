@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Building with Google&#39;s New Open Gemma Models | SingleStore Webinars](https://www.youtube.com/watch?v=Dpy4cx78dps)
 - [GPT Workshop: Build Fraud Detection App Using OpenAI | SingleStore Webinars](https://www.youtube.com/watch?v=uP60brBxTz0)
 - [Building Applications with Vector Databases | SingleStore Webinars](https://www.youtube.com/watch?v=FEDVPZ13d3A)
 - [Modernization of First-Generation Systems - Migrating from PostgreSQL | SingleStore Webinars](https://www.youtube.com/watch?v=-WIyAZwsShI)
 - [LLMs in Banking - Predictive Analytics for Financial Services | SingleStore Webinars](https://www.youtube.com/watch?v=RnJ7ckUVD7k)
-- [Google Gemini &amp; Vertex AI Developer Workshop | SingleStore Webinars](https://www.youtube.com/watch?v=675EpJbaO2g)
 <!-- YOUTUBE:END -->
 
 
