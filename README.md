@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plunging Home Prices, Fleeing Companies: Austin&#39;s Glow Is Fading](https://www.msn.com/en-us/money/markets/ar-AA1nFgrS)
+- [Tiny in size, a Cupertino home is selling for big bucks: $1.7M](https://www.latimes.com/california/story/2024-04-19/tiny-cupertino-home-is-selling-for-over-1-7-million)
+- [Court upholds New York law that says ISPs must offer $15 broadband](https://arstechnica.com/tech-policy/2024/04/court-upholds-new-york-law-that-says-isps-must-offer-15-broadband/)
+- [Factorio – Statistics improvements, Linux adventures](https://factorio.com/blog/post/fff-408)
 - [Trellis &lpar;YC W24&rpar; is hiring Founding Eng to build snowflake for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
-- [What I remember about Flint water crisis was how state government lied](https://www.freep.com/story/opinion/columnists/nancy-kaffer/2024/04/26/flint-water-crisis-10th-anniversary-rick-snyder-lead/73430288007/)
-- [Show HN: I made a spaced repetition tool to master coding problems](https://www.lanki.xyz/)
-- [Forget billions of years: Researchers have grown diamonds in just 150 minutes](https://charmingscience.com/forget-billions-of-years-researchers-have-grown-diamonds-in-just-150-minutes/)
-- [Reflections on Qualitative Research](https://transformer-circuits.pub/2024/qualitative-essay/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
