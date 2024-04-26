@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK&#39;s Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
-- [I&#39;m creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
-- [Aviator &lpar;YC S21&rpar; is hiring engineers to build a dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
-- [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
-- [What We Train Our Brains For](https://michaeldehaan.substack.com/p/what-we-train-our-brains-for)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- [DJI might get banned next in the US](https://www.theverge.com/2024/4/26/24141369/dji-ban-china-countering-ccp-drones-act)
+- [The Brutal Business Practices of Amazon–and How It Got Too Toxic to Touch](https://www.vanityfair.com/news/story/inside-amazon-business-practices)
+- [Tesla&#39;s 2M car Autopilot recall is now under federal scrutiny](https://arstechnica.com/cars/2024/04/feds-concerned-some-of-teslas-autopilot-recall-was-opt-in-reversible/)
+- [How Big Tech and Silicon Valley Are Transforming the Military-Industrial Complex](https://watson.brown.edu/costsofwar/papers/2024/SiliconValley)
 <!-- BLOG-POST-LIST:END -->
 
 ---
