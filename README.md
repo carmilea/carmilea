@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [MFJ is ceasing its on-site production](https://mailchi.mp/62e24f2ccc99/a-heavy-sad-heart)
-- [In Response to Google](https://www.wheresyoured.at/in-response-to-google/)
 - [Visualizing malicious IP addresses](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)
-- [Jeff Lawson Buys The Onion](https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html)
+- [Jeff Lawson buys The Onion](https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html)
 - [Apple releases eight small AI language models aimed at on-device use](https://arstechnica.com/information-technology/2024/04/apple-releases-eight-small-ai-language-models-aimed-at-on-device-use/)
+- [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
