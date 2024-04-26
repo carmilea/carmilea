@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Leidenfrost Effect](https://en.wikipedia.org/wiki/Leidenfrost_effect)
+- [The 8-bit Z80 is dead. Long live the 16-bit Z80](https://www.theregister.com/2024/04/26/long_live_16_bit_z80/)
+- [About the Chinese police officers who may soon be patrolling in Hungary](https://telex.hu/english/2024/04/25/what-do-we-know-about-the-chinese-police-officers-who-may-soon-be-patrolling-in-hungary)
 - [Thoughts on my first electric scooter purchase](https://maxmautner.com/2024/04/26/electric-scooters.html)
-- [3 years of fulltime Rust game development, and why we&#39;re leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
-- [School principal framed using AI-generated racist rant. Co-worker charged](https://www.cbsnews.com/baltimore/news/maryland-framed-principal-racist-ai-generated-voice/)
-- [Data Breach at Kaiser Permanente Affects 13.4M People](https://restoreprivacy.com/data-breach-at-kaiser-permanente-affects-13-4-million-people/)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- [Camus, Albert and the Anarchists](https://theanarchistlibrary.org/library/organise-camus-albert-and-the-anarchists)
 <!-- BLOG-POST-LIST:END -->
 
 ---
