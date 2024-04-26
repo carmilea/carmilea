@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GM collects driver behavior data then sells access to insurance companies](https://www.techdirt.com/2024/04/26/people-are-slowly-realizing-their-auto-insurance-rates-are-skyrocketing-because-their-car-is-covertly-spying-on-them/)
-- [Crypto Mixer Samourai Wallet&#39;s Co-Founders Arrested for Money Laundering](https://www.wsj.com/articles/crypto-mixer-samourai-wallets-co-founders-arrested-for-money-laundering-df237a4e)
 - [UK&#39;s Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
-- [GMB launches legal action against &#39;out of control&#39; Amazon at Coventry warehouse](https://www.theguardian.com/technology/2024/apr/26/gmb-launches-legal-action-against-out-of-control-amazon-at-coventry-warehouse)
 - [I&#39;m creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
+- [Aviator &lpar;YC S21&rpar; is hiring engineers to build a dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
+- [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
+- [What We Train Our Brains For](https://michaeldehaan.substack.com/p/what-we-train-our-brains-for)
 <!-- BLOG-POST-LIST:END -->
 
 ---
