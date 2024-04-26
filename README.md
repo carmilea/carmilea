@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [GPT Workshop: Build Fraud Detection App Using OpenAI | SingleStore Webinars](https://www.youtube.com/watch?v=uP60brBxTz0)
 - [Building Applications with Vector Databases | SingleStore Webinars](https://www.youtube.com/watch?v=FEDVPZ13d3A)
 - [Modernization of First-Generation Systems - Migrating from PostgreSQL | SingleStore Webinars](https://www.youtube.com/watch?v=-WIyAZwsShI)
 - [LLMs in Banking - Predictive Analytics for Financial Services | SingleStore Webinars](https://www.youtube.com/watch?v=RnJ7ckUVD7k)
 - [Google Gemini &amp; Vertex AI Developer Workshop | SingleStore Webinars](https://www.youtube.com/watch?v=675EpJbaO2g)
-- [Distributed SQL: A Primer on Query Processing | SingleStore Webinars](https://www.youtube.com/watch?v=nFp4iVCahQw)
 <!-- YOUTUBE:END -->
 
 
