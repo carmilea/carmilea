@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Google Gemini &amp; Vertex AI Developer Workshop | SingleStore Webinars](https://www.youtube.com/watch?v=675EpJbaO2g)
 - [Distributed SQL: A Primer on Query Processing | SingleStore Webinars](https://www.youtube.com/watch?v=nFp4iVCahQw)
 - [Claude 3 Cookbook: Leveraging OCR &amp; Multimodal Data Extraction | SingleStore Webinars](https://www.youtube.com/watch?v=JUkQMnI_wWI)
 - [LangChain for Multimodal Apps: Chat With Text/Image Data | SingleStore Webinars](https://www.youtube.com/watch?v=lxwn_Jl0100)
 - [AI-Powered Personalized Shopping &amp; Recommendation Engine with OpenAI CLIP | SIngleStore Webinars](https://www.youtube.com/watch?v=ZoYKNXtgY8A)
+- [Fine-Tuning Your Embedding Model with SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=sumC9cwk1v8)
 <!-- YOUTUBE:END -->
 
 
