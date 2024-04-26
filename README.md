@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Survey reveals translators and illustrators losing work to AI](https://www2.societyofauthors.org/2024/04/11/soa-survey-reveals-a-third-of-translators-and-quarter-of-illustrators-losing-work-to-ai/)
-- [Nintendo forces Garry&#39;s Mod to delete 20 years of content](https://www.tomshardware.com/video-games/pc-gaming/nintendo-forces-garrys-mod-to-delete-20-years-of-content-garry-confirms-nintendo-is-behind-steam-workshop-purge)
+- [A Heavy Sad Heart](https://mailchi.mp/62e24f2ccc99/a-heavy-sad-heart)
+- [The Surprising Number of Steam Games That Use GenAI](https://www.totallyhuman.io/blog/the-surprising-number-of-steam-games-that-use-genai)
 - [Visualizing the locations of malicious login attempts](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)
 - [Jeff Lawson Buys The Onion](https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html)
 - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
