@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What have you built with ESPHome, ESP8266 or similar hardware](https://news.ycombinator.com/item?id=40181000)
+- [SVG Viewer – View, edit, and optimize SVGs](https://www.svgviewer.dev)
+- [The walls of Apple&#39;s garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
+- [The formation and revision of intuitions &lpar;2023&rpar; [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2024/01/Bat-Ball.pdf)
 - [Mastodon forms new U.S. non-profit](https://blog.joinmastodon.org/2024/04/mastodon-forms-new-u.s.-non-profit/)
-- [Moviecart – full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
-- [Self-hosting forms, the sane way](https://karelvo.com/blog/selfhosting-forms-the-sane-way)
-- [WebSim, WorldSim and the Summer of Simulative AI](https://www.latent.space/p/sim-ai)
-- [Sweep &lpar;YC S23&rpar; is hiring a Founding ML engineer to build an AI developer](https://www.ycombinator.com/companies/sweep/jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
