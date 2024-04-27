@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CATL&#39;s 1,000-km LFP EV battery super-charges at 1 km/sec](https://newatlas.com/automotive/catl-shenxing-plus-1000-km-lfp-battery/)
+- [Fyrox Game Engine – a Rust game engine with a real editor and scripting system](https://fyrox.rs/)
+- [A hydrocarbon molecule as supplier and energy storage solution for solar energy](https://phys.org/news/2024-04-hydrocarbon-molecule-supplier-energy-storage.html)
 - [World War I dangers in France&#39;s red zones](https://www.atlasobscura.com/articles/red-zones-in-france)
-- [British Columbia to recriminalize use of drugs in public spaces](https://www.cbc.ca/news/canada/british-columbia/david-eby-public-drug-use-1.7186245)
-- [A New Sweetener Has Joined the Ranks of Aspartame and Stevia](https://www.theatlantic.com/health/archive/2024/04/sugar-substitutes-brazzein-stevia-aspartame/678192/)
+- [Show HN: React for Circuits](https://github.com/tscircuit/tscircuit/blob/main/README.md)
 - [Relational Graph Convolutional Networks for Sentiment Analysis](https://arxiv.org/abs/2404.13079)
 <!-- BLOG-POST-LIST:END -->
 
