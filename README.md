@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu Desktop 24.04 LTS: Noble Numbat](https://ubuntu.com/blog/ubuntu-desktop-24-04-noble-numbat-deep-dive)
+- [NHTSA Tesla Report &lpar;2024&rpar; [pdf]](https://static.nhtsa.gov/odi/inv/2022/INCR-EA22002-14496.pdf)
 - [Moviecart – full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
 - [Self-hosting forms, the sane way](https://karelvo.com/blog/selfhosting-forms-the-sane-way)
 - [Sweep &lpar;YC S23&rpar; is hiring a Founding ML engineer to build an AI developer](https://www.ycombinator.com/companies/sweep/jobs/)
-- [What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
-- [The Server Chose Violence](https://cliffle.com/blog/hubris-reply-fault/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
