@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Janky Apple ID Security](https://mjtsai.com/blog/2024/04/26/janky-apple-id-security/)
 - [World Wide Web &lpar;1991&rpar;](https://info.cern.ch/hypertext/WWW/TheProject.html)
 - [Infracost &lpar;YC W21&rpar; is hiring senior software engineers](https://infracost.io/join-the-team)
 - [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
 - [What contributing to Open-source is, and what it isn&#39;t](https://suchdevblog.com/opinions/WhatOpenSourceIs.html)
-- [Software Supply Chain Security](https://www.devicu.com/blog/software-supply-chan-security)
 <!-- BLOG-POST-LIST:END -->
 
 ---
