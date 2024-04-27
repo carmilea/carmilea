@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Moviecart – full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
+- [Self-hosting forms, the sane way](https://karelvo.com/blog/selfhosting-forms-the-sane-way)
 - [Sweep &lpar;YC S23&rpar; is hiring a Founding ML engineer to build an AI developer](https://www.ycombinator.com/companies/sweep/jobs/)
-- [A new rails HostedGPT is out. What should come next? [video]](https://www.youtube.com/watch?v=hXpNEz-slkU)
+- [What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
 - [The Server Chose Violence](https://cliffle.com/blog/hubris-reply-fault/)
-- [Janky Apple ID Security](https://mjtsai.com/blog/2024/04/26/janky-apple-id-security/)
-- [Why DoorDash fees are so high [pdf]](https://static1.squarespace.com/static/5237604ce4b0e51f969029ae/t/662a9780b43c114bd30bbd5a/1714067329519/Fee+report.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
