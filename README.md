@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fathom AI Notetaker &lpar;YC W21&rpar; is hiring a Back end Engineer &lpar;remote&rpar;](https://jobs.ashbyhq.com/fathom.video/50323c12-96b2-4e6a-b8ea-98f21ea6e960)
-- [Scientists Have Studied the Mysterious Behavior of Cats Sitting on Squares&lpar;2021&rpar;](https://www.vice.com/en/article/v7eexj/scientists-have-studied-the-mysterious-behavior-of-cats-sitting-on-squares)
-- [SVG Viewer – View, edit, and optimize SVGs](https://www.svgviewer.dev)
-- [The walls of Apple&#39;s garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
-- [The formation and revision of intuitions &lpar;2023&rpar; [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2024/01/Bat-Ball.pdf)
+- [Revolutionizing eCommerce Analytics: Unveiling the Power of SingleStore Kai™ on a MongoDB® Application](https://www.singlestore.com/blog/revolutionizing-ecommerce-singlestore-kai)
+- [Data + AI in 2024: Three Problems for Now and for the Future](https://www.singlestore.com/blog/data-ai-in-2024)
+- [Introducing SQrL&#39;s Code Generator: Your SQL Co-Pilot](https://www.singlestore.com/blog/introducing-sqrl-code-generator)
+- [SingleStore Brings High Performance to Vector Search](https://www.singlestore.com/blog/singlestore-high-performance-vector-search)
+- [SingleStore Announces Exclusive Partnership with Agile Platform to Develop the Korea Market](https://www.singlestore.com/blog/singlestore-agile-platform-exclusive-partnership)
 <!-- BLOG-POST-LIST:END -->
 
 ---
