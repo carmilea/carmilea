@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sweep &lpar;YC S23&rpar; is hiring a Founding ML engineer to build an AI developer](https://www.ycombinator.com/companies/sweep/jobs/)
+- [A new rails HostedGPT is out. What should come next? [video]](https://www.youtube.com/watch?v=hXpNEz-slkU)
 - [The Server Chose Violence](https://cliffle.com/blog/hubris-reply-fault/)
 - [Janky Apple ID Security](https://mjtsai.com/blog/2024/04/26/janky-apple-id-security/)
-- [World Wide Web &lpar;1991&rpar;](https://info.cern.ch/hypertext/WWW/TheProject.html)
-- [Infracost &lpar;YC W21&rpar; is hiring senior software engineers](https://infracost.io/join-the-team)
-- [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
+- [Why DoorDash fees are so high [pdf]](https://static1.squarespace.com/static/5237604ce4b0e51f969029ae/t/662a9780b43c114bd30bbd5a/1714067329519/Fee+report.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
