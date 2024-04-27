@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple cuts 2024 and 2025 Vision Pro shipment forecasts](https://medium.com/@mingchikuo/apple-cuts-2024-2025-vision-pro-shipment-forecasts-unfavorable-to-mr-headset-pancake-and-micro-38796834f930)
+- [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
+- [What contributing to Open-source is, and what it isn&#39;t](https://suchdevblog.com/opinions/WhatOpenSourceIs.html)
 - [Apnic: Cgnat is harming internet innovation &lpar;2022&rpar;](https://www.theregister.com/2022/01/20/ipv4_nats_slow_ipv6_transition/)
-- [The Vision Pro is a flop](https://disconnect.blog/the-vision-pro-is-a-big-flop/)
 - [iPhone 15 Pro Storage Expansion – 128GB to 512GB [video]](https://www.youtube.com/watch?v=JbSDdU8bJI0)
 - [Laws of Software Evolution](https://two-wrongs.com/laws-of-software-evolution)
 <!-- BLOG-POST-LIST:END -->
