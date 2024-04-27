@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Infracost &lpar;YC W21&rpar; is hiring senior software engineers](https://infracost.io/join-the-team)
 - [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
 - [What contributing to Open-source is, and what it isn&#39;t](https://suchdevblog.com/opinions/WhatOpenSourceIs.html)
+- [Software Supply Chain Security](https://www.devicu.com/blog/software-supply-chan-security)
 - [Apnic: Cgnat is harming internet innovation &lpar;2022&rpar;](https://www.theregister.com/2022/01/20/ipv4_nats_slow_ipv6_transition/)
-- [iPhone 15 Pro Storage Expansion – 128GB to 512GB [video]](https://www.youtube.com/watch?v=JbSDdU8bJI0)
-- [Laws of Software Evolution](https://two-wrongs.com/laws-of-software-evolution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
