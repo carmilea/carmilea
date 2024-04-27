@@ -57,8 +57,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Zep AI &lpar;YC W24&rpar; Is Hiring a Machine Learning Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
-- [Hertz is ditching even more electric cars](https://qz.com/hertz-ev-sales-tesla-rental-cars-1851438100)
-- [Everything Google&#39;s Python team were responsible for](https://simonwillison.net/2024/Apr/27/everything-googles-python-team-were-responsible-for/)
+- [A Paradigm Shift in RAM](https://www.popularmechanics.com/technology/a60527526/mram-discovery/)
+- [FTC says Amazon executives destroyed potential evidence using apps like Signal](https://www.theverge.com/2024/4/26/24141801/ftc-amazon-antitrust-signal-ephemeral-messaging-evidence)
 - [Keep Out – WebGL Game](http://www.playkeepout.com/)
 - [Let&#39;s Think Dot by Dot: Hidden Computation in Transformer Language Models](https://arxiv.org/abs/2404.15758)
 <!-- BLOG-POST-LIST:END -->
