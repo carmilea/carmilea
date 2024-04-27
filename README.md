@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fyrox Game Engine – a Rust game engine with a real editor and scripting system](https://fyrox.rs/)
-- [A hydrocarbon molecule as supplier and energy storage solution for solar energy](https://phys.org/news/2024-04-hydrocarbon-molecule-supplier-energy-storage.html)
+- [The Vision Pro is a flop](https://disconnect.blog/the-vision-pro-is-a-big-flop/)
+- [Fyrox - A feature-rich game engine built in Rust](https://fyrox.rs/)
+- [Clang&#39;s -O0 output: branch displacement and size increase](https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase)
 - [World War I dangers in France&#39;s red zones](https://www.atlasobscura.com/articles/red-zones-in-france)
 - [Show HN: React for Circuits](https://github.com/tscircuit/tscircuit/blob/main/README.md)
-- [Relational Graph Convolutional Networks for Sentiment Analysis](https://arxiv.org/abs/2404.13079)
 <!-- BLOG-POST-LIST:END -->
 
 ---
