@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionizing eCommerce Analytics: Unveiling the Power of SingleStore Kai™ on a MongoDB® Application](https://www.singlestore.com/blog/revolutionizing-ecommerce-singlestore-kai)
-- [Data + AI in 2024: Three Problems for Now and for the Future](https://www.singlestore.com/blog/data-ai-in-2024)
-- [Introducing SQrL&#39;s Code Generator: Your SQL Co-Pilot](https://www.singlestore.com/blog/introducing-sqrl-code-generator)
-- [SingleStore Brings High Performance to Vector Search](https://www.singlestore.com/blog/singlestore-high-performance-vector-search)
-- [SingleStore Announces Exclusive Partnership with Agile Platform to Develop the Korea Market](https://www.singlestore.com/blog/singlestore-agile-platform-exclusive-partnership)
+- [Claiming high user satisfaction, IRS will decide on renewing free tax site](https://www.washingtonpost.com/business/2024/04/26/irs-direct-file/)
+- [Federal regulators accuse Amazon executives of deleting messages](https://www.washingtonpost.com/technology/2024/04/26/amazon-ftc-messages-deleted-bezos/)
+- [ArcaneDoor – New espionage-focused campaign found targeting network devices](https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/)
+- [Einsum in 40 Lines of Python](https://swe-to-mle.pages.dev/posts/einsum-for-tensor-manipulation/)
+- [Fathom AI Notetaker &lpar;YC W21&rpar; is hiring a Back end Engineer &lpar;remote&rpar;](https://jobs.ashbyhq.com/fathom.video/50323c12-96b2-4e6a-b8ea-98f21ea6e960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
