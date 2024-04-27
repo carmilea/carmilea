@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What have you built with ESPHome, ESP8266 or similar hardware](https://news.ycombinator.com/item?id=40181000)
+- [Fathom AI Notetaker &lpar;YC W21&rpar; is hiring a Back end Engineer &lpar;remote&rpar;](https://jobs.ashbyhq.com/fathom.video/50323c12-96b2-4e6a-b8ea-98f21ea6e960)
+- [Scientists Have Studied the Mysterious Behavior of Cats Sitting on Squares&lpar;2021&rpar;](https://www.vice.com/en/article/v7eexj/scientists-have-studied-the-mysterious-behavior-of-cats-sitting-on-squares)
 - [SVG Viewer – View, edit, and optimize SVGs](https://www.svgviewer.dev)
 - [The walls of Apple&#39;s garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
 - [The formation and revision of intuitions &lpar;2023&rpar; [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2024/01/Bat-Ball.pdf)
-- [Mastodon forms new U.S. non-profit](https://blog.joinmastodon.org/2024/04/mastodon-forms-new-u.s.-non-profit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
