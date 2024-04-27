@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ubuntu Desktop 24.04 LTS: Noble Numbat](https://ubuntu.com/blog/ubuntu-desktop-24-04-noble-numbat-deep-dive)
-- [NHTSA Tesla Report &lpar;2024&rpar; [pdf]](https://static.nhtsa.gov/odi/inv/2022/INCR-EA22002-14496.pdf)
+- [Mastodon forms new U.S. non-profit](https://blog.joinmastodon.org/2024/04/mastodon-forms-new-u.s.-non-profit/)
 - [Moviecart – full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
 - [Self-hosting forms, the sane way](https://karelvo.com/blog/selfhosting-forms-the-sane-way)
+- [WebSim, WorldSim and the Summer of Simulative AI](https://www.latent.space/p/sim-ai)
 - [Sweep &lpar;YC S23&rpar; is hiring a Founding ML engineer to build an AI developer](https://www.ycombinator.com/companies/sweep/jobs/)
 <!-- BLOG-POST-LIST:END -->
 
