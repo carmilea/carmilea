@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft at Work](https://computer.rip/2024-04-26-microsoft-at-work.html)
 - [Zep AI &lpar;YC W24&rpar; Is Hiring a Machine Learning Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
-- [A Paradigm Shift in RAM](https://www.popularmechanics.com/technology/a60527526/mram-discovery/)
 - [FTC says Amazon executives destroyed potential evidence using apps like Signal](https://www.theverge.com/2024/4/26/24141801/ftc-amazon-antitrust-signal-ephemeral-messaging-evidence)
+- [Hertz is ditching even more electric cars](https://qz.com/hertz-ev-sales-tesla-rental-cars-1851438100)
 - [Keep Out – WebGL Game](http://www.playkeepout.com/)
-- [Let&#39;s Think Dot by Dot: Hidden Computation in Transformer Language Models](https://arxiv.org/abs/2404.15758)
 <!-- BLOG-POST-LIST:END -->
 
 ---
