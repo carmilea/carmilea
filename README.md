@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple cuts 2024 and 2025 Vision Pro shipment forecasts](https://medium.com/@mingchikuo/apple-cuts-2024-2025-vision-pro-shipment-forecasts-unfavorable-to-mr-headset-pancake-and-micro-38796834f930)
 - [Apnic: Cgnat is harming internet innovation &lpar;2022&rpar;](https://www.theregister.com/2022/01/20/ipv4_nats_slow_ipv6_transition/)
 - [The Vision Pro is a flop](https://disconnect.blog/the-vision-pro-is-a-big-flop/)
+- [iPhone 15 Pro Storage Expansion – 128GB to 512GB [video]](https://www.youtube.com/watch?v=JbSDdU8bJI0)
 - [Laws of Software Evolution](https://two-wrongs.com/laws-of-software-evolution)
-- [How to prevent Lyme disease this summer](https://news.harvard.edu/gazette/story/2023/06/how-to-prevent-lyme-disease-this-summer/)
-- [The Presidential Nuclear &quot;Football&quot; from Eisenhower to George W. Bush](https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2023-07-18/presidential-nuclear-football-eisenhower-george-w-bush)
 <!-- BLOG-POST-LIST:END -->
 
 ---
