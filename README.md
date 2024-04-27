@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apnic: Cgnat is harming internet innovation &lpar;2022&rpar;](https://www.theregister.com/2022/01/20/ipv4_nats_slow_ipv6_transition/)
 - [The Vision Pro is a flop](https://disconnect.blog/the-vision-pro-is-a-big-flop/)
-- [Fyrox - A feature-rich game engine built in Rust](https://fyrox.rs/)
-- [Clang&#39;s -O0 output: branch displacement and size increase](https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase)
-- [World War I dangers in France&#39;s red zones](https://www.atlasobscura.com/articles/red-zones-in-france)
-- [Show HN: React for Circuits](https://github.com/tscircuit/tscircuit/blob/main/README.md)
+- [Laws of Software Evolution](https://two-wrongs.com/laws-of-software-evolution)
+- [How to prevent Lyme disease this summer](https://news.harvard.edu/gazette/story/2023/06/how-to-prevent-lyme-disease-this-summer/)
+- [The Presidential Nuclear &quot;Football&quot; from Eisenhower to George W. Bush](https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2023-07-18/presidential-nuclear-football-eisenhower-george-w-bush)
 <!-- BLOG-POST-LIST:END -->
 
 ---
