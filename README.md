@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Personal Computing Paves the Way for Personal Library Science](https://www.bramadams.dev/issue-55/)
+- [6502 – Guideline to Reverse Engineering &lpar;how to read die shots&rpar; [pdf]](https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf)
+- [The Essence of Compiling with Continuations &lpar;1993&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/173262.155113)
+- [Personal computing paves the way for personal library science](https://www.bramadams.dev/issue-55/)
 - [Call-to-Action on SB 1047 – Frontier Artificial Intelligence Models Act](https://www.affuture.org/post/9-context/)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40191915)
-- [Show HN: Dotenv, if it is a Unix utility](https://github.com/gyf304/dotenv)
-- [&#39;Catastrophic grid failure&#39; a possibility for Texas solar/wind/battery storage](https://www.houstonchronicle.com/business/energy/article/ercot-grid-failure-renewable-19416583.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
