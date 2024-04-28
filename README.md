@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Personal Computing Paves the Way for Personal Library Science](https://www.bramadams.dev/issue-55/)
+- [Call-to-Action on SB 1047 – Frontier Artificial Intelligence Models Act](https://www.affuture.org/post/9-context/)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40191915)
+- [Show HN: Dotenv, if it is a Unix utility](https://github.com/gyf304/dotenv)
 - [&#39;Catastrophic grid failure&#39; a possibility for Texas solar/wind/battery storage](https://www.houstonchronicle.com/business/energy/article/ercot-grid-failure-renewable-19416583.php)
-- [Google surpasses $2T market cap](https://qz.com/google-alphabet-stock-market-cap-ai-earnings-1851439308)
-- [The reckless policies that helped fill our streets with large cars](https://www.vox.com/future-perfect/24139147/suvs-trucks-popularity-federal-policy-pollution)
-- [The Shitty Technology Adoption Curve &lpar;2022&rpar;](https://pluralistic.net/2022/08/21/great-taylors-ghost/#solidarity-or-bust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
