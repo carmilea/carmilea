@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jimmy Carter UFO Incident](https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident)
+- [TfL&#39;s simple pop-up message led to a significant drop in paper ticket sales](https://www.ianvisits.co.uk/articles/how-tfls-simple-pop-up-message-led-to-a-significant-drop-in-paper-ticket-sales-71920/)
+- [Flow Field Pathfinding](https://www.redblobgames.com/blog/2024-04-27-flow-field-pathfinding/)
+- [Is it okay to daisy chain a UPS?](https://www.eaton.com/us/en-us/support/eaton-answers/daisy-chain-ups.html)
 - [The Better Boarding Method Airlines Won&#39;t Use](https://www.youtube.com/watch?v=oAHbLRjF0vo)
-- [The Princeton Companion to Applied Mathematics](https://nhigham.com/the-princeton-companion-to-applied-mathematics/)
-- [44% Unicorn Startups in the US were founded by foreign workers](https://twitter.com/IlyaStrebulaev/status/1481662020659257349)
-- [Google Quantum AI](https://quantumai.google/)
-- [How to Use the Grafana Operator: Managing a Grafana Cloud Stack in Kubernetes](https://grafana.com/blog/2024/04/24/how-to-use-the-grafana-operator-managing-a-grafana-cloud-stack-in-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
