@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Talking to memory: Inside the Intel 8088 processor&#39;s bus interface state machine](http://www.righto.com/2024/04/intel-8088-bus-state-machine.html)
+- [Tales from an Attic](https://theamericanscholar.org/tales-from-an-attic/)
+- [The unstallable plane that stalled](https://fearoflanding.com/accidents/accident-reports/the-unstallable-plane-that-stalled/)
 - [LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/abs/2402.12354)
-- [George Stephenson](https://en.wikipedia.org/wiki/George_Stephenson)
-- [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs/PMs to Automate Construction Compliance](https://up.codes/careers?utm_source=HN)
-- [The Invention of the Integrated Circuit: Jean Hoerni&#39;s Patent Notebook](https://thechipletter.substack.com/p/the-invention-of-the-integrated-circuit)
-- [Zilog Z80 CPU – Modern, free and open source silicon clone](https://github.com/rejunity/z80-open-silicon)
+- [Zed Decoded: Rope and SumTree](https://zed.dev/blog/zed-decoded-rope-sumtree)
 <!-- BLOG-POST-LIST:END -->
 
 ---
