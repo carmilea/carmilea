@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wegovy could be covered for at least 3.6M people under new Medicare rules](https://www.kff.org/medicare/issue-brief/a-new-use-for-wegovy-opens-the-door-to-medicare-coverage-for-millions-of-people-with-obesity/)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40191915)
+- [&#39;Catastrophic grid failure&#39; a possibility for Texas solar/wind/battery storage](https://www.houstonchronicle.com/business/energy/article/ercot-grid-failure-renewable-19416583.php)
+- [Google surpasses $2T market cap](https://qz.com/google-alphabet-stock-market-cap-ai-earnings-1851439308)
 - [The reckless policies that helped fill our streets with large cars](https://www.vox.com/future-perfect/24139147/suvs-trucks-popularity-federal-policy-pollution)
 - [The Shitty Technology Adoption Curve &lpar;2022&rpar;](https://pluralistic.net/2022/08/21/great-taylors-ghost/#solidarity-or-bust)
-- [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computers](https://os-world.github.io/)
-- [A small lathe built in a Japanese prison camp](http://www.lathes.co.uk/bradley-pow-lathe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
