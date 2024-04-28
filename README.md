@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First ever autonomous car race in Abu Dhabi finishes despite issues](https://www.theverge.com/2024/4/27/24142989/a2rl-autonomous-race-cars-f1-abu-dhabi)
+- [Install Asdf: One Runtime Manager to Rule All Dev Environments](https://jdsalaro.com/tutorial/asdf-single-package-manager-multiple-dev-environments)
 - [Plunging Home Prices, Fleeing Companies: Austin&#39;s Glow Is Fading](https://www.bloomberg.com/news/articles/2024-04-25/larry-ellison-s-austin-snub-adds-to-city-s-housing-office-woes)
 - [Can science find ways to ease loneliness?](https://www.science.org/content/article/can-science-find-ways-ease-loneliness#)
 - [Google Quantum AI](https://quantumai.google/)
-- [Could humans alter the moon&#39;s orbit significantly with current technology?](https://worldbuilding.stackexchange.com/questions/47410/could-humans-alter-the-moons-orbit-significantly-with-current-technology)
-- [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
