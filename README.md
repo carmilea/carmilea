@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [George Stephenson](https://en.wikipedia.org/wiki/George_Stephenson)
 - [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs/PMs to Automate Construction Compliance](https://up.codes/careers?utm_source=HN)
+- [Tell HN: I think there are major issues with Google –&gt; Squarespace domains](https://news.ycombinator.com/item?id=40187881)
 - [Zilog Z80 CPU – Modern, free and open source silicon clone](https://github.com/rejunity/z80-open-silicon)
 - [Jimmy Carter UFO Incident](https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident)
-- [TfL&#39;s simple pop-up message led to a significant drop in paper ticket sales](https://www.ianvisits.co.uk/articles/how-tfls-simple-pop-up-message-led-to-a-significant-drop-in-paper-ticket-sales-71920/)
-- [Flow Field Pathfinding](https://www.redblobgames.com/blog/2024-04-27-flow-field-pathfinding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
