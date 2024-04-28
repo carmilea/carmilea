@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft at Work](https://computer.rip/2024-04-26-microsoft-at-work.html)
-- [Zep AI &lpar;YC W24&rpar; Is Hiring a Machine Learning Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
-- [FTC says Amazon executives destroyed potential evidence using apps like Signal](https://www.theverge.com/2024/4/26/24141801/ftc-amazon-antitrust-signal-ephemeral-messaging-evidence)
-- [Hertz is ditching even more electric cars](https://qz.com/hertz-ev-sales-tesla-rental-cars-1851438100)
-- [Keep Out – WebGL Game](http://www.playkeepout.com/)
+- [Tsinghua Uni just released Vidu, a text-to-video model as good as Sora](https://www.maginative.com/article/china-unveils-vidu-a-powerful-text-to-video-generator/)
+- [Google made me ruin a perfectly good website &lpar;2023&rpar;](https://theluddite.org/#!post/google-ads)
+- [Let&#39;s Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
+- [Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
+- [Dozens of deaths reveal risks of injecting sedatives into police detainees](https://apnews.com/article/investigation-police-use-of-force-sedation-injections-demetrio-jackson-621909ba7491abc2af8ad2e33ba3415b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
