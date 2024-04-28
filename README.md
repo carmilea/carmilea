@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A small lathe built in a Japanese prison camp](http://www.lathes.co.uk/bradley-pow-lathe/)
 - [Williams-Sonoma fined $3.18M for falsely labeling products &#39;Made in USA&#39;](https://www.scrippsnews.com/business/company-news/williams-sonoma-fined-3-18-million-dollars-for-falsely-labeling-products-as-made-in-usa)
+- [The AI expert who cited himself thousands of times on scientific paper](https://english.elpais.com/science-tech/2024-04-26/the-seven-lies-of-the-ai-expert-who-cited-himself-thousands-of-times-on-scientific-papers.html)
 - [Bloomberg: &quot;Strong possibility&quot; of M4 debuting on May 7 with new iPad Pro](https://www.macrumors.com/2024/04/28/ipad-pro-m4-chip-and-apple-pencil-haptic-rumors/)
 - [Patterns &lpar;YC S21&rpar; is hiring to replace dashboards with AI agents](https://patterns.app/)
-- [The Myth of the Second Chance](https://ft.pressreader.com/article/282557318242321)
-- [Trial of the effects of kefir on behaviour, sleep and the microbiome in ADHD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10711914/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
