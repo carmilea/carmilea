@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Should the stock market never close?](https://www.ft.com/content/31c3a55b-9af9-4158-8a49-4397540571bf)
+- [LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/abs/2402.12354)
 - [George Stephenson](https://en.wikipedia.org/wiki/George_Stephenson)
 - [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs/PMs to Automate Construction Compliance](https://up.codes/careers?utm_source=HN)
-- [Tell HN: I think there are major issues with Google –&gt; Squarespace domains](https://news.ycombinator.com/item?id=40187881)
+- [The Invention of the Integrated Circuit: Jean Hoerni&#39;s Patent Notebook](https://thechipletter.substack.com/p/the-invention-of-the-integrated-circuit)
 - [Zilog Z80 CPU – Modern, free and open source silicon clone](https://github.com/rejunity/z80-open-silicon)
 <!-- BLOG-POST-LIST:END -->
 
