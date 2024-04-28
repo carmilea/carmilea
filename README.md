@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wegovy could be covered for at least 3.6M people under new Medicare rules](https://www.kff.org/medicare/issue-brief/a-new-use-for-wegovy-opens-the-door-to-medicare-coverage-for-millions-of-people-with-obesity/)
+- [The reckless policies that helped fill our streets with large cars](https://www.vox.com/future-perfect/24139147/suvs-trucks-popularity-federal-policy-pollution)
+- [The Shitty Technology Adoption Curve &lpar;2022&rpar;](https://pluralistic.net/2022/08/21/great-taylors-ghost/#solidarity-or-bust)
+- [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computers](https://os-world.github.io/)
 - [A small lathe built in a Japanese prison camp](http://www.lathes.co.uk/bradley-pow-lathe/)
-- [Williams-Sonoma fined $3.18M for falsely labeling products &#39;Made in USA&#39;](https://www.scrippsnews.com/business/company-news/williams-sonoma-fined-3-18-million-dollars-for-falsely-labeling-products-as-made-in-usa)
-- [The AI expert who cited himself thousands of times on scientific paper](https://english.elpais.com/science-tech/2024-04-26/the-seven-lies-of-the-ai-expert-who-cited-himself-thousands-of-times-on-scientific-papers.html)
-- [Bloomberg: &quot;Strong possibility&quot; of M4 debuting on May 7 with new iPad Pro](https://www.macrumors.com/2024/04/28/ipad-pro-m4-chip-and-apple-pencil-haptic-rumors/)
-- [Patterns &lpar;YC S21&rpar; is hiring to replace dashboards with AI agents](https://patterns.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
