@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Don&#39;t Invest in Real Estate](https://unchartedterritories.tomaspueyo.com/p/why-i-dont-invest-in-real-estate)
 - [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
 - [RFC 7282 – On Consensus and Humming in the IETF &lpar;2014&rpar;](https://datatracker.ietf.org/doc/html/rfc7282)
 - [Google made me ruin a perfectly good website &lpar;2023&rpar;](https://theluddite.org/#!post/google-ads)
 - [Let&#39;s Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
-- [Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
