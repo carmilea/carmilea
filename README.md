@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Williams-Sonoma fined $3.18M for falsely labeling products &#39;Made in USA&#39;](https://www.scrippsnews.com/business/company-news/williams-sonoma-fined-3-18-million-dollars-for-falsely-labeling-products-as-made-in-usa)
+- [Bloomberg: &quot;Strong possibility&quot; of M4 debuting on May 7 with new iPad Pro](https://www.macrumors.com/2024/04/28/ipad-pro-m4-chip-and-apple-pencil-haptic-rumors/)
 - [Patterns &lpar;YC S21&rpar; is hiring to replace dashboards with AI agents](https://patterns.app/)
 - [The Myth of the Second Chance](https://ft.pressreader.com/article/282557318242321)
-- [Did we lose our way in making efficient software? – ~30 MB doc file vs. browser](https://rufatmammadli.medium.com/did-we-lose-our-way-in-making-efficient-software-30-mb-doc-file-vs-browser-fed12dd866a4)
-- [Talking to memory: Inside the Intel 8088 processor&#39;s bus interface state machine](http://www.righto.com/2024/04/intel-8088-bus-state-machine.html)
-- [Tales from an Attic](https://theamericanscholar.org/tales-from-an-attic/)
+- [Trial of the effects of kefir on behaviour, sleep and the microbiome in ADHD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10711914/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
