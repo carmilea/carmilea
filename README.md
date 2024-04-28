@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Don&#39;t Invest in Real Estate](https://unchartedterritories.tomaspueyo.com/p/why-i-dont-invest-in-real-estate)
+- [Plunging Home Prices, Fleeing Companies: Austin&#39;s Glow Is Fading](https://www.bloomberg.com/news/articles/2024-04-25/larry-ellison-s-austin-snub-adds-to-city-s-housing-office-woes)
+- [Can science find ways to ease loneliness?](https://www.science.org/content/article/can-science-find-ways-ease-loneliness#)
+- [Google Quantum AI](https://quantumai.google/)
+- [Could humans alter the moon&#39;s orbit significantly with current technology?](https://worldbuilding.stackexchange.com/questions/47410/could-humans-alter-the-moons-orbit-significantly-with-current-technology)
 - [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
-- [RFC 7282 – On Consensus and Humming in the IETF &lpar;2014&rpar;](https://datatracker.ietf.org/doc/html/rfc7282)
-- [Google made me ruin a perfectly good website &lpar;2023&rpar;](https://theluddite.org/#!post/google-ads)
-- [Let&#39;s Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
