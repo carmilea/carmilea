@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First ever autonomous car race in Abu Dhabi finishes despite issues](https://www.theverge.com/2024/4/27/24142989/a2rl-autonomous-race-cars-f1-abu-dhabi)
+- [The Better Boarding Method Airlines Won&#39;t Use](https://www.youtube.com/watch?v=oAHbLRjF0vo)
+- [The Princeton Companion to Applied Mathematics](https://nhigham.com/the-princeton-companion-to-applied-mathematics/)
 - [Install Asdf: One Runtime Manager to Rule All Dev Environments](https://jdsalaro.com/tutorial/asdf-single-package-manager-multiple-dev-environments)
 - [Plunging Home Prices, Fleeing Companies: Austin&#39;s Glow Is Fading](https://www.bloomberg.com/news/articles/2024-04-25/larry-ellison-s-austin-snub-adds-to-city-s-housing-office-woes)
-- [Can science find ways to ease loneliness?](https://www.science.org/content/article/can-science-find-ways-ease-loneliness#)
-- [Google Quantum AI](https://quantumai.google/)
+- [44% Unicorn Startups in the US were founded by foreign workers](https://twitter.com/IlyaStrebulaev/status/1481662020659257349)
 <!-- BLOG-POST-LIST:END -->
 
 ---
