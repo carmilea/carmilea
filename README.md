@@ -60,7 +60,7 @@
 - [TfL&#39;s simple pop-up message led to a significant drop in paper ticket sales](https://www.ianvisits.co.uk/articles/how-tfls-simple-pop-up-message-led-to-a-significant-drop-in-paper-ticket-sales-71920/)
 - [Flow Field Pathfinding](https://www.redblobgames.com/blog/2024-04-27-flow-field-pathfinding/)
 - [Is it okay to daisy chain a UPS?](https://www.eaton.com/us/en-us/support/eaton-answers/daisy-chain-ups.html)
-- [The Better Boarding Method Airlines Won&#39;t Use](https://www.youtube.com/watch?v=oAHbLRjF0vo)
+- [Mise: a polyglot tool version manager](https://mise.jdx.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
