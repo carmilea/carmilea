@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tsinghua Uni just released Vidu, a text-to-video model as good as Sora](https://www.maginative.com/article/china-unveils-vidu-a-powerful-text-to-video-generator/)
+- [Why I Am Now Relaxed About Releasing Buggy Software](https://mamddoh.wordpress.com/2024/04/28/why-i-am-now-relaxed-about-releasing-buggy-software/)
+- [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
+- [RFC 7282 – On Consensus and Humming in the IETF &lpar;2014&rpar;](https://datatracker.ietf.org/doc/html/rfc7282)
 - [Google made me ruin a perfectly good website &lpar;2023&rpar;](https://theluddite.org/#!post/google-ads)
 - [Let&#39;s Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
-- [Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
-- [Dozens of deaths reveal risks of injecting sedatives into police detainees](https://apnews.com/article/investigation-police-use-of-force-sedation-injections-demetrio-jackson-621909ba7491abc2af8ad2e33ba3415b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
