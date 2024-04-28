@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs/PMs to Automate Construction Compliance](https://up.codes/careers?utm_source=HN)
+- [Zilog Z80 CPU – Modern, free and open source silicon clone](https://github.com/rejunity/z80-open-silicon)
 - [Jimmy Carter UFO Incident](https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident)
 - [TfL&#39;s simple pop-up message led to a significant drop in paper ticket sales](https://www.ianvisits.co.uk/articles/how-tfls-simple-pop-up-message-led-to-a-significant-drop-in-paper-ticket-sales-71920/)
 - [Flow Field Pathfinding](https://www.redblobgames.com/blog/2024-04-27-flow-field-pathfinding/)
-- [Is it okay to daisy chain a UPS?](https://www.eaton.com/us/en-us/support/eaton-answers/daisy-chain-ups.html)
-- [Mise: a polyglot tool version manager](https://mise.jdx.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
