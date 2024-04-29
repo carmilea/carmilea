@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dubai&#39;s Planned $32B Mega Airport Project](https://tamernoah.substack.com/p/dubais-planned-32-billion-mega-airport)
+- [Catholic Group Quickly Defrocks AI Priest Father Justin](https://futurism.com/catholics-defrock-ai-priest-hallucinations)
 - [6502 – Guideline to Reverse Engineering &lpar;how to read die shots&rpar; [pdf]](https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf)
 - [The Essence of Compiling with Continuations &lpar;1993&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/173262.155113)
 - [Personal computing paves the way for personal library science](https://www.bramadams.dev/issue-55/)
-- [Call-to-Action on SB 1047 – Frontier Artificial Intelligence Models Act](https://www.affuture.org/post/9-context/)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40191915)
 <!-- BLOG-POST-LIST:END -->
 
 ---
