@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unify &lpar;YC W23&rpar; Is Hiring Contributors to Unify ML](https://www.ycombinator.com/companies/unify/jobs/XoPGc3D-llm-engineer-contributor)
+- [No One Should Have That Much Power](https://www.mnot.net/blog/2024/04/29/power)
+- [Memary is a cutting-edge long-term memory system based on a knowledge graph](https://github.com/kingjulio8238/memary)
 - [Mini ponds are &#39;tiny universes&#39; of biodiversity for gardens and windowsills](https://www.bbc.com/future/article/20240423-how-to-make-a-mini-wildlife-pond)
-- [Why We Hate Working for Big Companies &lpar;2018&rpar;](https://lukekanies.com/writing/why-we-hate-working-for-big-companies/)
-- [Functional Semantics in Imperative Clothing &lpar;Richard Feldman&rpar;](https://rtfeldman.com/imperative-clothing)
-- [Angle-grinder: Slice and dice logs on the command line](https://github.com/rcoh/angle-grinder)
-- [Open-source alternative to Heroku, Vercel, and Netlify](https://github.com/Dokploy/dokploy)
+- [iPadOS Identified as Digital &#39;Gatekeeper&#39; Under New EU Tech Rules](https://www.macrumors.com/2024/04/29/eu-says-ipados-digital-gatekeeper-dma/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
