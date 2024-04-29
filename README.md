@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Gemini Ultra Unleashed: Google&#39;s Best LLM Now Available | SingleStore Webinars](https://www.youtube.com/watch?v=5K4o3CosZ0o)
 - [Gemini 1.5 Pro: Native Audio, File API, JSON Mode &amp; 1M Context Window | SingleStore Webinars](https://www.youtube.com/watch?v=AwfXvjM4enU)
 - [Stan&#39;s insights on the future of data storage &amp; the limitless potential of generative AI apps.](https://www.youtube.com/watch?v=zdLdfvfdfRw)
 - [Building with Google&#39;s New Open Gemma Models | SingleStore Webinars](https://www.youtube.com/watch?v=Dpy4cx78dps)
 - [GPT Workshop: Build Fraud Detection App Using OpenAI | SingleStore Webinars](https://www.youtube.com/watch?v=uP60brBxTz0)
-- [Building Applications with Vector Databases | SingleStore Webinars](https://www.youtube.com/watch?v=FEDVPZ13d3A)
 <!-- YOUTUBE:END -->
 
 
