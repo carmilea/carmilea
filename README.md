@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Collection of publicly available IPTV channels from all over the world](https://iptv-org.github.io/)
-- [First post: A history of online public messaging](https://arstechnica.com/gadgets/2024/04/first-post-a-history-of-online-public-messaging/)
-- [Doctor at Cigna Said Bosses Pressured Her to Review Patients&#39; Cases Too Quickly](https://www.propublica.org/article/cigna-medical-director-doctor-patient-preapproval-denials-insurance)
-- [AI Leapfrogging: How AI Will Transform “Lagging” Industries &lpar;2023&rpar;](https://www.nfx.com/post/ai-leapfrogging)
-- [What&#39;s Going on with ‘Nonplussed’? &lpar;2017&rpar;](https://www.merriam-webster.com/grammar/nonplussed)
+- [A leadership crisis in the Nix community](https://lwn.net/SubscriberLink/970824/0d89c6d83efad1e0/)
+- [Tiered storage won&#39;t fix Kafka](https://www.warpstream.com/blog/tiered-storage-wont-fix-kafka)
+- [SB-1047 will stifle open-source AI and decrease safety](https://www.answer.ai/posts/2024-04-29-sb1047.html)
+- [Phreaking](https://en.wikipedia.org/wiki/Phreaking)
+- [Answering Legal Questions with LLMs](https://hugodutka.com/posts/answering-legal-questions-with-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
