@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A leadership crisis in the Nix community](https://lwn.net/SubscriberLink/970824/0d89c6d83efad1e0/)
-- [Tiered storage won&#39;t fix Kafka](https://www.warpstream.com/blog/tiered-storage-wont-fix-kafka)
-- [SB-1047 will stifle open-source AI and decrease safety](https://www.answer.ai/posts/2024-04-29-sb1047.html)
-- [Phreaking](https://en.wikipedia.org/wiki/Phreaking)
-- [Answering Legal Questions with LLMs](https://hugodutka.com/posts/answering-legal-questions-with-llms/)
+- [Marc Andreessen Is a Maniac](https://gizmodo.com/marc-andreessen-is-a-maniac-1851433847)
+- [Xbox Console Sales Are Tanking as Microsoft Brings Games to PS5](https://kotaku.com/xbox-ps5-sales-exclusivity-starfield-microsoft-1851436748)
+- [How do you accidentally run for President of Iceland?](https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e)
+- [US, other G7 countries to phase out coal by early 2030s](https://electrek.co/2024/04/29/us-g7-countries-to-phase-out-coal-by-early-2030s/)
+- [Project Habbakuk: Britain&#39;s Ice &quot;Bergship&quot; Aircraft Carrier Project](https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
