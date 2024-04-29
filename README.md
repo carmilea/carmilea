@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FSF to be deposed in SFC vs. Vizio, updates relevant FAQ entry](https://www.fsf.org/news/fsf-to-be-deposed-in-sfc-v-vizio-updates-relevant-faq-entry)
-- [FCC Fines Largest Wireless Carriers for Sharing Location Data](https://docs.fcc.gov/public/attachments/DOC-402213A1.txt)
+- [FCC Fines Major U.S. Wireless Carriers for Selling Customer Location Data](https://krebsonsecurity.com/2024/04/fcc-fines-major-u-s-wireless-carriers-for-selling-customer-location-data/)
+- [OneText &lpar;YC W23&rpar; Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
+- [FCC fines big three carriers $196M for selling users&#39; real-time location data](https://arstechnica.com/tech-policy/2024/04/fcc-fines-big-three-carriers-196m-for-selling-users-real-time-location-data/)
+- [FCC fines largest wireless carriers for sharing location data](https://docs.fcc.gov/public/attachments/DOC-402213A1.txt)
 - [The Internet Archive&#39;s last-ditch effort to save itself](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself)
-- [Activeloop &lpar;YC S18&rpar; Hiring a C++ Engineer with a Streaming Data Loader Expertise](https://www.notion.so/activeloop/Senior-C-Engineer-dec6032479644f84aef85e4d8237b55e)
-- [GitHub Copilot Workspace: Technical Preview](https://github.blog/2024-04-29-github-copilot-workspace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
