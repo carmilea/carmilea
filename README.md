@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)
+- [Airline keeps mistaking 101-year-old woman for 1-year-old baby](https://www.bbc.com/news/articles/c9wz7pvvjypo)
 - [Phishing Campaigns Targeting USPS See as Much Web Traffic as the USPS Itself](https://www.akamai.com/blog/security-research/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic)
 - [Forget moonshots, investors want profit now](https://www.wsj.com/finance/stocks/forget-moonshots-investors-want-profit-now-19787f25)
-- [Japanese yen weakens to 160 against the USD for the first time since 1990](https://www.cnbc.com/2024/04/29/japanese-yen-weakens-to-160-against-the-us-dollar-for-the-first-time-since-1990.html)
 - [FreeBee: AT&amp;T Unix PC emulator](https://www.philpem.me.uk/code/3b1emu)
-- [6502 – Guideline to Reverse Engineering &lpar;how to read die shots&rpar; [pdf]](https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
