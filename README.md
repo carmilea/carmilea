@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Activeloop &lpar;YC S18&rpar; Hiring a C++ Engineer with a Streaming Data Loader Expertise](https://www.notion.so/activeloop/Senior-C-Engineer-dec6032479644f84aef85e4d8237b55e)
-- [Kaytu: Open-Source Tool for Optimizing Cloud Costs Using Actual Usage Data](https://github.com/kaytu-io/kaytu)
-- [I made a new backplane for my consumer NAS](https://codedbearder.com/posts/f3-backplane/)
-- [GPT-4.5 or GPT-5 being tested on LMSYS?](https://rentry.co/GPT2)
-- [How do you accidentally run for President of Iceland?](https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e)
+- [Man impersonated law enforcement, sought to investigate own crimes, police say](https://www.courtwatch.news/p/fake-badges-bomb-threats-phony-search)
+- [The Financial Times and OpenAI strike content licensing deal](https://www.ft.com/content/33328743-ba3b-470f-a2e3-f41c3a366613)
+- [Physical fitness and risk of mental disorders in children and adolescents](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2818132)
+- [Copilot Workspace is GitHub&#39;s take on AI-powered software engineering](https://techcrunch.com/2024/04/29/copilot-workspace-is-githubs-take-on-ai-powered-software-engineering/)
+- [The Internet Archive&#39;s last-ditch effort to save itself](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself)
 <!-- BLOG-POST-LIST:END -->
 
 ---
