@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [30% of Children Ages 5-7 Are on TikTok](https://www.honest-broker.com/p/30-of-children-ages-5-7-are-on-tiktok)
-- [Liu Cixin&#39;s War of the Worlds](https://www.newyorker.com/magazine/2019/06/24/liu-cixins-war-of-the-worlds)
-- [&quot;So that a truncated partial download doesn&#39;t end up executing half a script&quot;](https://tailscale.com/install.sh)
-- [The Financial Times and OpenAI strike content licensing deal](https://www.ft.com/content/33328743-ba3b-470f-a2e3-f41c3a366613)
-- [Physical fitness and risk of mental disorders in children and adolescents](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2818132)
+- [FSF to be deposed in SFC vs. Vizio, updates relevant FAQ entry](https://www.fsf.org/news/fsf-to-be-deposed-in-sfc-v-vizio-updates-relevant-faq-entry)
+- [FCC Fines Largest Wireless Carriers for Sharing Location Data](https://docs.fcc.gov/public/attachments/DOC-402213A1.txt)
+- [The Internet Archive&#39;s last-ditch effort to save itself](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself)
+- [Activeloop &lpar;YC S18&rpar; Hiring a C++ Engineer with a Streaming Data Loader Expertise](https://www.notion.so/activeloop/Senior-C-Engineer-dec6032479644f84aef85e4d8237b55e)
+- [GitHub Copilot Workspace: Technical Preview](https://github.blog/2024-04-29-github-copilot-workspace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
