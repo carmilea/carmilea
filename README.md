@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exercise, metabolism, and weight: New research from The Biggest Loser](https://www.health.harvard.edu/blog/exercise-metabolism-and-weight-new-research-from-the-biggest-loser-202201272676)
-- [Apple MacBook Air 15-Inch M3 Review](https://www.thurrott.com/mobile/mac-and-macos/301371/apple-macbook-air-15-inch-m3-review)
+- [FreeBee: AT&amp;T Unix PC emulator](https://www.philpem.me.uk/code/3b1emu)
 - [6502 – Guideline to Reverse Engineering &lpar;how to read die shots&rpar; [pdf]](https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf)
 - [Block* and AgentFormer – Playing with blocks and Transformers &lpar;yay&rpar;](https://github.com/rayking99/BlockStar)
 - [The Essence of Compiling with Continuations &lpar;1993&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/173262.155113)
+- [Haystack DB – 10x faster than FAISS with binary embeddings by default](https://github.com/carsonpo/haystackdb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
