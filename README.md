@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is the Gnome Foundation Going to Go Bankrupt in 1 Year?](https://lunduke.locals.com/post/5572069/is-the-gnome-foundation-going-to-go-bankrupt-in-1-year)
 - [Laser excitation of Th-229 nucleus](https://phys.org/news/2024-04-laser-nucleus-classical-quantum-physics.html)
+- [FireChat was a tool for revolution, then disappeared](https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared/)
+- [Green Software Foundation&#39;s Software Carbon Intensity Spec Becomes ISO Standard](https://greensoftware.foundation/articles/sci-specification-achieves-iso-standard-status/)
+- [PowerShell: The object-oriented shell you didn&#39;t know you needed](https://chriswarrick.com/blog/2024/04/29/powershell-the-object-oriented-shell-you-didnt-know-you-needed/)
 - [OneText &lpar;YC W23&rpar; Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
-- [FCC fines big three carriers $196M for selling users&#39; real-time location data](https://arstechnica.com/tech-policy/2024/04/fcc-fines-big-three-carriers-196m-for-selling-users-real-time-location-data/)
-- [Questioning the Conventional Wisdom on Liability and Open Source Software](https://www.lawfaremedia.org/article/questioning-the-conventional-wisdom-on-liability-and-open-source-software)
 <!-- BLOG-POST-LIST:END -->
 
 ---
