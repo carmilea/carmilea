@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s Going on with &#39;Nonplussed&#39;?](https://www.merriam-webster.com/grammar/nonplussed)
-- [Unify &lpar;YC W23&rpar; Is Hiring Contributors to Unify ML](https://www.ycombinator.com/companies/unify/jobs/XoPGc3D-llm-engineer-contributor)
-- [Memary is a cutting-edge long-term memory system based on a knowledge graph](https://github.com/kingjulio8238/memary)
-- [Sleeping Tesla driver caught on Swedish highway – after 25 miles](https://www.vibilagare.se/english/sleeping-tesla-driver-caught-swedish-highway-after-25-miles)
-- [Mini ponds are &#39;tiny universes&#39; of biodiversity for gardens and windowsills](https://www.bbc.com/future/article/20240423-how-to-make-a-mini-wildlife-pond)
+- [Collection of publicly available IPTV channels from all over the world](https://iptv-org.github.io/)
+- [First post: A history of online public messaging](https://arstechnica.com/gadgets/2024/04/first-post-a-history-of-online-public-messaging/)
+- [Doctor at Cigna Said Bosses Pressured Her to Review Patients&#39; Cases Too Quickly](https://www.propublica.org/article/cigna-medical-director-doctor-patient-preapproval-denials-insurance)
+- [AI Leapfrogging: How AI Will Transform “Lagging” Industries &lpar;2023&rpar;](https://www.nfx.com/post/ai-leapfrogging)
+- [What&#39;s Going on with ‘Nonplussed’? &lpar;2017&rpar;](https://www.merriam-webster.com/grammar/nonplussed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
