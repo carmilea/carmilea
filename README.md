@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Russian GRU was behind the attack in Vrbětice, NCOZ confirms](https://www.bis.cz/aktuality/za-utokem-ve-vrbeticich-byla-ruska-gru-potvrdila-ncoz-48976dbe.html)
-- [Nix: The Breaking Point](https://kilo.bytesize.xyz/nix-the-breaking-point)
+- [Mini ponds are &#39;tiny universes&#39; of biodiversity for gardens and windowsills](https://www.bbc.com/future/article/20240423-how-to-make-a-mini-wildlife-pond)
+- [Why We Hate Working for Big Companies &lpar;2018&rpar;](https://lukekanies.com/writing/why-we-hate-working-for-big-companies/)
+- [Functional Semantics in Imperative Clothing &lpar;Richard Feldman&rpar;](https://rtfeldman.com/imperative-clothing)
 - [Angle-grinder: Slice and dice logs on the command line](https://github.com/rcoh/angle-grinder)
-- [Power of Libraries](https://levelupeduc.wordpress.com/2024/04/29/power-of-libraries/)
-- [London Drugs closes stores until further notice due to cyberattack](https://www.cbc.ca/news/canada/british-columbia/london-drugs-closure-western-canada-1.7187615)
+- [Open-source alternative to Heroku, Vercel, and Netlify](https://github.com/Dokploy/dokploy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
