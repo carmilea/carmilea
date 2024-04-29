@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FCC Fines Major U.S. Wireless Carriers for Selling Customer Location Data](https://krebsonsecurity.com/2024/04/fcc-fines-major-u-s-wireless-carriers-for-selling-customer-location-data/)
+- [Is the Gnome Foundation Going to Go Bankrupt in 1 Year?](https://lunduke.locals.com/post/5572069/is-the-gnome-foundation-going-to-go-bankrupt-in-1-year)
+- [Laser excitation of Th-229 nucleus](https://phys.org/news/2024-04-laser-nucleus-classical-quantum-physics.html)
 - [OneText &lpar;YC W23&rpar; Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 - [FCC fines big three carriers $196M for selling users&#39; real-time location data](https://arstechnica.com/tech-policy/2024/04/fcc-fines-big-three-carriers-196m-for-selling-users-real-time-location-data/)
-- [FCC fines largest wireless carriers for sharing location data](https://docs.fcc.gov/public/attachments/DOC-402213A1.txt)
-- [The Internet Archive&#39;s last-ditch effort to save itself](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself)
+- [Questioning the Conventional Wisdom on Liability and Open Source Software](https://www.lawfaremedia.org/article/questioning-the-conventional-wisdom-on-liability-and-open-source-software)
 <!-- BLOG-POST-LIST:END -->
 
 ---
