@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [London Drugs closes stores until further notice due to cyberattack](https://www.cbc.ca/news/canada/british-columbia/london-drugs-closure-western-canada-1.7187615)
 - [Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)
 - [Airline keeps mistaking 101-year-old woman for 1-year-old baby](https://www.bbc.com/news/articles/c9wz7pvvjypo)
 - [Phishing Campaigns Targeting USPS See as Much Web Traffic as the USPS Itself](https://www.akamai.com/blog/security-research/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic)
 - [Forget moonshots, investors want profit now](https://www.wsj.com/finance/stocks/forget-moonshots-investors-want-profit-now-19787f25)
-- [FreeBee: AT&amp;T Unix PC emulator](https://www.philpem.me.uk/code/3b1emu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
