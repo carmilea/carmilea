@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s Going on with &#39;Nonplussed&#39;?](https://www.merriam-webster.com/grammar/nonplussed)
 - [Unify &lpar;YC W23&rpar; Is Hiring Contributors to Unify ML](https://www.ycombinator.com/companies/unify/jobs/XoPGc3D-llm-engineer-contributor)
-- [No One Should Have That Much Power](https://www.mnot.net/blog/2024/04/29/power)
 - [Memary is a cutting-edge long-term memory system based on a knowledge graph](https://github.com/kingjulio8238/memary)
+- [Sleeping Tesla driver caught on Swedish highway – after 25 miles](https://www.vibilagare.se/english/sleeping-tesla-driver-caught-swedish-highway-after-25-miles)
 - [Mini ponds are &#39;tiny universes&#39; of biodiversity for gardens and windowsills](https://www.bbc.com/future/article/20240423-how-to-make-a-mini-wildlife-pond)
-- [iPadOS Identified as Digital &#39;Gatekeeper&#39; Under New EU Tech Rules](https://www.macrumors.com/2024/04/29/eu-says-ipados-digital-gatekeeper-dma/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
