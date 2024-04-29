@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Marc Andreessen Is a Maniac](https://gizmodo.com/marc-andreessen-is-a-maniac-1851433847)
-- [Xbox Console Sales Are Tanking as Microsoft Brings Games to PS5](https://kotaku.com/xbox-ps5-sales-exclusivity-starfield-microsoft-1851436748)
+- [Activeloop &lpar;YC S18&rpar; Hiring a C++ Engineer with a Streaming Data Loader Expertise](https://www.notion.so/activeloop/Senior-C-Engineer-dec6032479644f84aef85e4d8237b55e)
+- [Kaytu: Open-Source Tool for Optimizing Cloud Costs Using Actual Usage Data](https://github.com/kaytu-io/kaytu)
+- [I made a new backplane for my consumer NAS](https://codedbearder.com/posts/f3-backplane/)
+- [GPT-4.5 or GPT-5 being tested on LMSYS?](https://rentry.co/GPT2)
 - [How do you accidentally run for President of Iceland?](https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e)
-- [US, other G7 countries to phase out coal by early 2030s](https://electrek.co/2024/04/29/us-g7-countries-to-phase-out-coal-by-early-2030s/)
-- [Project Habbakuk: Britain&#39;s Ice &quot;Bergship&quot; Aircraft Carrier Project](https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
