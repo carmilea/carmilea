@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FTC challenges &#39;junk&#39; patents held by 10 drugmakers, incl Novo Nordisk&#39;s Ozempic](https://www.cnbc.com/2024/04/30/ftc-challenges-patents-held-by-drugmakers-including-for-ozempic.html)
+- [General Motors Streetcar Conspiracy](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)
 - [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 - [Run llama3 locally with 1M token context](https://ollama.com/library/llama3-gradient)
-- [Square Enix to record extraordinary loss of 22.1B yen](https://www.gematsu.com/2024/04/square-enix-to-record-extraordinary-loss-of-22-1-billion-yen-in-content-abandonment-losses-following-revised-development-approach)
+- [Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters](https://zju3dv.github.io/LoG_webpage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
