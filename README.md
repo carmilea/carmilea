@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
+- [Codapi – Interactive code examples for documentation, education and fun](https://github.com/nalgeon/codapi)
 - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 - [Electromigration Concerns Grow in Advanced Packages](https://semiengineering.com/electromigration-concerns-grow-in-advanced-packages/)
 - [Researcher finds that wood frogs evolved rapidly in response to road salts](https://phys.org/news/2024-04-wood-frogs-evolved-rapidly-response.html)
-- [Sunlight and Vitamin D](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3897598/)
-- [TypeSpec: A new language for API-centric development](https://typespec.io/blog/2024-04-25-introducing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
