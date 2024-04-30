@@ -59,8 +59,8 @@
 - [FTC challenges &#39;junk&#39; patents held by 10 drugmakers, incl Novo Nordisk&#39;s Ozempic](https://www.cnbc.com/2024/04/30/ftc-challenges-patents-held-by-drugmakers-including-for-ozempic.html)
 - [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
-- [All Cars Sold in the US Will Soon Have to Be Able to Automatically Avoid a Crash](https://www.theautopian.com/the-feds-just-finalized-new-automatic-emergency-braking-rules-that-should-stop-a-car-from-62-mph/)
 - [Run llama3 locally with 1M token context](https://ollama.com/library/llama3-gradient)
+- [Square Enix to record extraordinary loss of 22.1B yen](https://www.gematsu.com/2024/04/square-enix-to-record-extraordinary-loss-of-22-1-billion-yen-in-content-abandonment-losses-following-revised-development-approach)
 <!-- BLOG-POST-LIST:END -->
 
 ---
