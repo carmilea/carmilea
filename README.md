@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Just Say &quot;Hello&quot; in Chat](https://www.nohello.com/)
+- [I Rented Out a Movie Theatre &lpar;Again&rpar; and Used My Steam Deck to Play Co-Op Games](https://old.reddit.com/r/linux/comments/1cggj92/i_rented_out_a_movie_theatre_again_and_used_my/)
 - [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
-- [Re: Why Host Emacs Packages on GitHub? &lpar;Microsoft vs Freedom&rpar;](https://protesilaos.com/codelog/2024-04-30-re-emacs-github-freedom-microsoft/)
 - [TL;DR AI are better community-written abstracts for research papers](https://www.tldr-ai.org/)
 - [Nintendo&lpar;1&rpar;](http://man.9front.org/1/nintendo)
+- [Apple must open iPadOS to sideloading within 6 months, EU says](https://arstechnica.com/apple/2024/04/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
