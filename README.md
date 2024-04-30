@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After decades of inaction, states are finally stepping up on housing](https://www.vox.com/policy/24136266/housing-states-affordable-rent-homes)
-- [Tesla to lay off everyone working on Superchargers, new vehicles](https://arstechnica.com/cars/2024/04/tesla-to-lay-off-everyone-working-on-superchargers-new-vehicles/)
+- [Tesla failing to deliver Semi-trucks on time to PepsiCo, Sysco, UPS, and Walmart](https://www.reuters.com/business/autos-transportation/tesla-semi-trucks-short-supply-pepsico-its-rivals-use-competing-ev-big-rigs-2024-04-19/)
+- [Bytecode VMs in Surprising Places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
+- [Reddit is full of bots: thread reposted comment by comment, 10 months later](https://lemmy.blahaj.zone/post/11615413)
+- [UK becomes first country to ban default bad passwords on IoT devices](https://therecord.media/united-kingdom-bans-defalt-passwords-iot-devices)
 - [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
-- [Autotab &lpar;YC S23&rpar; Is Hiring Founding Engineers to Build the Digital Robot](https://www.ycombinator.com/companies/autotab/jobs/V5V8saO-founding-engineer)
-- [Federal News Network Is Corrupt, It Runs Propaganda Pieces for Microsoft](https://techrights.org/n/2024/04/30/Federal_News_Network_is_Corrupt_It_Runs_Propaganda_Pieces_for_M.shtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
