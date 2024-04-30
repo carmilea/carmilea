@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Rented Out a Movie Theatre &lpar;Again&rpar; and Used My Steam Deck to Play Co-Op Games](https://old.reddit.com/r/linux/comments/1cggj92/i_rented_out_a_movie_theatre_again_and_used_my/)
-- [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
-- [TL;DR AI are better community-written abstracts for research papers](https://www.tldr-ai.org/)
-- [Nintendo&lpar;1&rpar;](http://man.9front.org/1/nintendo)
-- [Apple must open iPadOS to sideloading within 6 months, EU says](https://arstechnica.com/apple/2024/04/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/)
+- [Autotab &lpar;YC S23&rpar; Is Hiring Founding Engineers to Build the Digital Robot](https://www.ycombinator.com/companies/autotab/jobs/V5V8saO-founding-engineer)
+- [NASA lays out how SpaceX will refuel Starships in low-Earth orbit](https://arstechnica.com/space/2024/04/nasa-exploration-chief-lays-out-next-steps-for-starship-development/)
+- [Deep Dive into XZ Utils Backdoor – Columbia Engineering Guest Lecture [video]](https://www.youtube.com/watch?v=Q6ovtLdSbEA)
+- [Hitting every branch on the way down](http://rachelbythebay.com/w/2024/04/29/pb/)
+- [A few facts about POSIX](https://vorakl.com/articles/posix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
