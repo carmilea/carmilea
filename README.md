@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Criminals and oligarchs in EU&#39;s sights with new bill targeting football fraud](https://www.theguardian.com/football/2024/apr/23/european-union-money-laundering-crime-corruption-uefa)
+- [Show HN: 3D Framework for the Web. Built on Svelte and Three.js](https://threlte.xyz/)
+- [In the AI Economy, There Will Be Zero Percent Unemployment](https://reason.com/2024/04/28/in-the-ai-economythere-will-be-zero-percent-unemployment/)
 - [Laser excitation of Th-229 nucleus](https://phys.org/news/2024-04-laser-nucleus-classical-quantum-physics.html)
 - [FireChat was a tool for revolution, then disappeared](https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared/)
-- [Green Software Foundation&#39;s Software Carbon Intensity Spec Becomes ISO Standard](https://greensoftware.foundation/articles/sci-specification-achieves-iso-standard-status/)
-- [PowerShell: The object-oriented shell you didn&#39;t know you needed](https://chriswarrick.com/blog/2024/04/29/powershell-the-object-oriented-shell-you-didnt-know-you-needed/)
-- [OneText &lpar;YC W23&rpar; Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
