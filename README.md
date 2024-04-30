@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple must open iPadOS to sideloading within 6 months, EU says](https://arstechnica.com/apple/2024/04/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/)
+- [Deep Dive into XZ Utils Backdoor – Columbia Engineering Guest Lecture [video]](https://www.youtube.com/watch?v=Q6ovtLdSbEA)
+- [Hitting every branch on the way down](http://rachelbythebay.com/w/2024/04/29/pb/)
+- [Only9Fans](https://only9fans.com)
 - [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
-- [Codapi – Interactive code examples for documentation, education and fun](https://github.com/nalgeon/codapi)
-- [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
-- [Electromigration Concerns Grow in Advanced Packages](https://semiengineering.com/electromigration-concerns-grow-in-advanced-packages/)
-- [Researcher finds that wood frogs evolved rapidly in response to road salts](https://phys.org/news/2024-04-wood-frogs-evolved-rapidly-response.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
