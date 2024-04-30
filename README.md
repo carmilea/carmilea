@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After decades of inaction, states are finally stepping up on housing](https://www.vox.com/policy/24136266/housing-states-affordable-rent-homes)
+- [Tesla to lay off everyone working on Superchargers, new vehicles](https://arstechnica.com/cars/2024/04/tesla-to-lay-off-everyone-working-on-superchargers-new-vehicles/)
+- [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
 - [Autotab &lpar;YC S23&rpar; Is Hiring Founding Engineers to Build the Digital Robot](https://www.ycombinator.com/companies/autotab/jobs/V5V8saO-founding-engineer)
-- [NASA lays out how SpaceX will refuel Starships in low-Earth orbit](https://arstechnica.com/space/2024/04/nasa-exploration-chief-lays-out-next-steps-for-starship-development/)
-- [Deep Dive into XZ Utils Backdoor – Columbia Engineering Guest Lecture [video]](https://www.youtube.com/watch?v=Q6ovtLdSbEA)
-- [Hitting every branch on the way down](http://rachelbythebay.com/w/2024/04/29/pb/)
-- [A few facts about POSIX](https://vorakl.com/articles/posix/)
+- [Federal News Network Is Corrupt, It Runs Propaganda Pieces for Microsoft](https://techrights.org/n/2024/04/30/Federal_News_Network_is_Corrupt_It_Runs_Propaganda_Pieces_for_M.shtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
