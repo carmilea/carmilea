@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla failing to deliver Semi-trucks on time to PepsiCo, Sysco, UPS, and Walmart](https://www.reuters.com/business/autos-transportation/tesla-semi-trucks-short-supply-pepsico-its-rivals-use-competing-ev-big-rigs-2024-04-19/)
+- [Therapy notes hacker jailed for blackmail](https://www.bbc.com/news/articles/c97znd00q7mo)
+- [Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo)
+- [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
 - [Bytecode VMs in Surprising Places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
-- [Reddit is full of bots: thread reposted comment by comment, 10 months later](https://lemmy.blahaj.zone/post/11615413)
-- [UK becomes first country to ban default bad passwords on IoT devices](https://therecord.media/united-kingdom-bans-defalt-passwords-iot-devices)
 - [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
 <!-- BLOG-POST-LIST:END -->
 
