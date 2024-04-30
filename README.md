@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Supreme Court Declines to Block Texas Porn Restriction](https://yro.slashdot.org/story/24/04/30/1913215/supreme-court-declines-to-block-texas-porn-restriction)
-- [Level of Gaussians: Real-Time View Synthesis for Square Meters](https://zju3dv.github.io/LoG_webpage/)
-- [Dean Ball on the new California AI bill](https://marginalrevolution.com/marginalrevolution/2024/04/dean-ball-on-the-new-california-ai-bill-from-my-email.html)
-- [PCIe 5.0 is nearly 4 years old and it&#39;s still virtually worthless in gaming PCs](https://www.pcgamer.com/hardware/pcie-50-is-nearly-four-years-old-and-its-still-virtually-worthless-in-gaming-pcs/)
-- [How ECMO Is Redefining Death](https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death)
+- [FTC challenges &#39;junk&#39; patents held by 10 drugmakers, incl Novo Nordisk&#39;s Ozempic](https://www.cnbc.com/2024/04/30/ftc-challenges-patents-held-by-drugmakers-including-for-ozempic.html)
+- [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+- [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
+- [All Cars Sold in the US Will Soon Have to Be Able to Automatically Avoid a Crash](https://www.theautopian.com/the-feds-just-finalized-new-automatic-emergency-braking-rules-that-should-stop-a-car-from-62-mph/)
+- [Run llama3 locally with 1M token context](https://ollama.com/library/llama3-gradient)
 <!-- BLOG-POST-LIST:END -->
 
 ---
