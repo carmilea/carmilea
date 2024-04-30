@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Criminals and oligarchs in EU&#39;s sights with new bill targeting football fraud](https://www.theguardian.com/football/2024/apr/23/european-union-money-laundering-crime-corruption-uefa)
-- [Show HN: 3D Framework for the Web. Built on Svelte and Three.js](https://threlte.xyz/)
-- [In the AI Economy, There Will Be Zero Percent Unemployment](https://reason.com/2024/04/28/in-the-ai-economythere-will-be-zero-percent-unemployment/)
-- [Laser excitation of Th-229 nucleus](https://phys.org/news/2024-04-laser-nucleus-classical-quantum-physics.html)
-- [FireChat was a tool for revolution, then disappeared](https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared/)
+- [Electromigration Concerns Grow in Advanced Packages](https://semiengineering.com/electromigration-concerns-grow-in-advanced-packages/)
+- [Sunlight and Vitamin D](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3897598/)
+- [TypeSpec: A New Language for API-Centric Development](https://typespec.io/blog/2024-04-25-introducing)
+- [Rabbit R1: Barely Reviewable [video]](https://www.youtube.com/watch?v=ddTV12hErTc)
+- [Farewell MFJ](https://hackaday.com/2024/04/29/farewell-mfj/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
