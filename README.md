@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Finnair pauses some Estonia flights due to GPS interference](https://www.reuters.com/world/europe/finnair-pauses-flights-tartu-estonia-amid-gps-interference-2024-04-29/)
-- [Priest fired after spending $40k on Candy Crush](https://www.inquirer.com/crime/lawrence-kozak-priest-theft-st-thomas-more-pottstown-video-games-20240426.html)
+- [Supreme Court Declines to Block Texas Porn Restriction](https://yro.slashdot.org/story/24/04/30/1913215/supreme-court-declines-to-block-texas-porn-restriction)
+- [Level of Gaussians: Real-Time View Synthesis for Square Meters](https://zju3dv.github.io/LoG_webpage/)
+- [Dean Ball on the new California AI bill](https://marginalrevolution.com/marginalrevolution/2024/04/dean-ball-on-the-new-california-ai-bill-from-my-email.html)
+- [PCIe 5.0 is nearly 4 years old and it&#39;s still virtually worthless in gaming PCs](https://www.pcgamer.com/hardware/pcie-50-is-nearly-four-years-old-and-its-still-virtually-worthless-in-gaming-pcs/)
 - [How ECMO Is Redefining Death](https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death)
-- [The File Filesystem](https://mgree.github.io/ffs/)
-- [Good enough is good enough](https://ep2013.europython.eu/conference/talks/good-enough-is-good-enough)
 <!-- BLOG-POST-LIST:END -->
 
 ---
