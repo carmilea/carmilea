@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Can Devin genuinely replace the roles of developers?](https://news.ycombinator.com/item?id=40208361)
+- [Don&#39;t Just Say &quot;Hello&quot; in Chat](https://www.nohello.com/)
+- [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 - [Re: Why Host Emacs Packages on GitHub? &lpar;Microsoft vs Freedom&rpar;](https://protesilaos.com/codelog/2024-04-30-re-emacs-github-freedom-microsoft/)
 - [TL;DR AI are better community-written abstracts for research papers](https://www.tldr-ai.org/)
 - [Nintendo&lpar;1&rpar;](http://man.9front.org/1/nintendo)
-- [Apple must open iPadOS to sideloading within 6 months, EU says](https://arstechnica.com/apple/2024/04/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
