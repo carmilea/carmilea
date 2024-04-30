@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU launches action against 20 airlines for greenwashing](https://www.aljazeera.com/news/2024/4/30/eu-launches-action-against-20-airlines-for-greenwashing)
+- [The File Filesystem](https://mgree.github.io/ffs/)
+- [US drug control agency will move to reclassify marijuana](https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8)
+- [Show HN: Polytomic Connect – API for two-way ETL and data syncs with customers](https://news.ycombinator.com/item?id=40213570)
 - [Alice&#39;s Adventures in a Differentiable Wonderland](https://www.sscardapane.it/alice-book)
 - [Ego &lpar;YC W24&rpar; Is Hiring a Senior Game Developer &lpar;Unreal Engine&rpar;](https://www.ycombinator.com/companies/ego/jobs/2myUIDW-senior-game-developer-unreal-engine)
-- [Crunchy Bridge for Analytics: Your Data Lake in PostgreSQL](https://www.crunchydata.com/blog/crunchy-bridge-for-analytics-your-data-lake-in-postgresql)
-- [Vastaamo hack: Therapy notes hacker jailed for blackmail](https://www.bbc.com/news/articles/c97znd00q7mo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
