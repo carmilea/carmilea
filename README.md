@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finnair pauses some Estonia flights due to GPS interference](https://www.reuters.com/world/europe/finnair-pauses-flights-tartu-estonia-amid-gps-interference-2024-04-29/)
+- [Priest fired after spending $40k on Candy Crush](https://www.inquirer.com/crime/lawrence-kozak-priest-theft-st-thomas-more-pottstown-video-games-20240426.html)
+- [How ECMO Is Redefining Death](https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death)
 - [The File Filesystem](https://mgree.github.io/ffs/)
-- [US drug control agency will move to reclassify marijuana](https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8)
-- [Show HN: Polytomic Connect – API for two-way ETL and data syncs with customers](https://news.ycombinator.com/item?id=40213570)
-- [Alice&#39;s Adventures in a Differentiable Wonderland](https://www.sscardapane.it/alice-book)
-- [Ego &lpar;YC W24&rpar; Is Hiring a Senior Game Developer &lpar;Unreal Engine&rpar;](https://www.ycombinator.com/companies/ego/jobs/2myUIDW-senior-game-developer-unreal-engine)
+- [Good enough is good enough](https://ep2013.europython.eu/conference/talks/good-enough-is-good-enough)
 <!-- BLOG-POST-LIST:END -->
 
 ---
