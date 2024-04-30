@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Therapy notes hacker jailed for blackmail](https://www.bbc.com/news/articles/c97znd00q7mo)
-- [Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo)
-- [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
-- [Bytecode VMs in Surprising Places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
-- [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
+- [EU launches action against 20 airlines for greenwashing](https://www.aljazeera.com/news/2024/4/30/eu-launches-action-against-20-airlines-for-greenwashing)
+- [Alice&#39;s Adventures in a Differentiable Wonderland](https://www.sscardapane.it/alice-book)
+- [Ego &lpar;YC W24&rpar; Is Hiring a Senior Game Developer &lpar;Unreal Engine&rpar;](https://www.ycombinator.com/companies/ego/jobs/2myUIDW-senior-game-developer-unreal-engine)
+- [Crunchy Bridge for Analytics: Your Data Lake in PostgreSQL](https://www.crunchydata.com/blog/crunchy-bridge-for-analytics-your-data-lake-in-postgresql)
+- [Vastaamo hack: Therapy notes hacker jailed for blackmail](https://www.bbc.com/news/articles/c97znd00q7mo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
