@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 - [Electromigration Concerns Grow in Advanced Packages](https://semiengineering.com/electromigration-concerns-grow-in-advanced-packages/)
+- [Researcher finds that wood frogs evolved rapidly in response to road salts](https://phys.org/news/2024-04-wood-frogs-evolved-rapidly-response.html)
 - [Sunlight and Vitamin D](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3897598/)
-- [TypeSpec: A New Language for API-Centric Development](https://typespec.io/blog/2024-04-25-introducing)
-- [Rabbit R1: Barely Reviewable [video]](https://www.youtube.com/watch?v=ddTV12hErTc)
-- [Farewell MFJ](https://hackaday.com/2024/04/29/farewell-mfj/)
+- [TypeSpec: A new language for API-centric development](https://typespec.io/blog/2024-04-25-introducing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
