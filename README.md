@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TL;DR AI are better community-written abstracts for research papers](https://www.tldr-ai.org/)
+- [Systemd Wants to Expand to Include a Sudo Replacement](https://outpost.fosspost.org/d/19-systemd-wants-to-expand-to-include-a-sudo-replacement)
+- [Nintendo&lpar;1&rpar;](http://man.9front.org/1/nintendo)
 - [Apple must open iPadOS to sideloading within 6 months, EU says](https://arstechnica.com/apple/2024/04/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/)
 - [Deep Dive into XZ Utils Backdoor – Columbia Engineering Guest Lecture [video]](https://www.youtube.com/watch?v=Q6ovtLdSbEA)
-- [Hitting every branch on the way down](http://rachelbythebay.com/w/2024/04/29/pb/)
-- [Only9Fans](https://only9fans.com)
-- [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
