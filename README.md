@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [General Motors Streetcar Conspiracy](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)
-- [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
-- [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
-- [Run llama3 locally with 1M token context](https://ollama.com/library/llama3-gradient)
-- [Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters](https://zju3dv.github.io/LoG_webpage/)
+- [MTA banned from using facial recognition to enforce fare evasion](https://gothamist.com/news/mta-banned-from-using-facial-recognition-to-enforce-fare-evasion)
+- [Aboriginal Linux](https://landley.net/aboriginal/about.html)
+- [StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Gen](https://storydiffusion.github.io/)
+- [Xbox 360 marketplace will stop accepting purchases per July 29th](https://support.xbox.com/help/xbox-360/store/xbox-360-marketplace-update)
+- [Rabbit R1, a thing that should just be an app, is just an Android app](https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
