@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Negative-mass exciton polaritons induced by light-matter coupling semiconductor](https://www.nature.com/articles/s41467-023-36618-6)
+- [What if dreaming is the whole point of sleep?](https://www.theguardian.com/books/2024/apr/22/the-big-idea-what-if-dreaming-is-the-whole-point-of-sleepp)
+- [A Strong U.S. Dollar Weighs on the World](https://www.nytimes.com/2024/04/29/business/a-strong-us-dollar-weighs-on-the-world.html)
+- [Early Bitcoin Investor Roger Ver Charged with Tax Fraud](https://www.justice.gov/opa/pr/early-bitcoin-investor-charged-tax-fraud)
 - [Engineer &#39;builds a GPU from scratch&#39; in two weeks](https://www.tomshardware.com/pc-components/gpus/engineer-builds-a-gpu-from-scratch-in-two-weeks-process-much-harder-than-he-expected)
-- [Why is simple decoration so rare in recent work?](https://www.benlandautaylor.com/p/why-we-cant-have-nice-things)
 - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
-- [DEA Accepts Health Agency&#39;s Recommendation to Reclassify Cannabis](https://norml.org/blog/2024/04/30/dea-accepts-health-agencys-recommendation-to-reclassify-cannabis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
