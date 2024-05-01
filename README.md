@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing engineer tells senate about &#39;manufacturing shortcuts&#39; [video]](https://www.youtube.com/watch?v=PP0xhIe1LFE)
 - [MTA banned from using facial recognition to enforce fare evasion](https://gothamist.com/news/mta-banned-from-using-facial-recognition-to-enforce-fare-evasion)
+- [Qantas app data breach allows customers to access strangers&#39; booking details](https://7news.com.au/news/qantas-app-data-breach-allows-customers-to-access-strangers-booking-details-c-14504516)
 - [Aboriginal Linux](https://landley.net/aboriginal/about.html)
 - [StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Gen](https://storydiffusion.github.io/)
-- [Xbox 360 marketplace will stop accepting purchases per July 29th](https://support.xbox.com/help/xbox-360/store/xbox-360-marketplace-update)
-- [Rabbit R1, a thing that should just be an app, is just an Android app](https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
