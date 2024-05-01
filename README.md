@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft says April Windows updates break VPN connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-april-windows-updates-break-vpn-connections/)
+- [Saudi Arabia activist sentenced to 11 years for &#39;support&#39; of women&#39;s rights](https://www.theguardian.com/world/2024/may/01/manahel-al-otaibi-saudi-arabia-womens-rights-activist-sentenced-11-years-prison-anti-terrorism-court)
+- [Impressive Sora Demo Wasn&#39;t Made with Sora](https://futurism.com/the-byte/openai-sora-demo)
 - [Mux &lpar;YC W16&rpar; is hiring a Senior Product Designer that&#39;s excited about devtools](https://mux.com/jobs?j=product-designer)
-- [2markdown – Transform Websites into Markdown](https://2markdown.com/)
-- [Roblox players to start seeing video ads in its virtual realms](https://www.reuters.com/technology/roblox-players-start-seeing-video-ads-its-virtual-realms-2024-05-01/)
-- [The AWS S3 Denial of Wallet Amplification Attack](https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d?gi=67ac052cc1ce)
 - [New startup sells coffee through SSH](https://www.terminal.shop/)
 <!-- BLOG-POST-LIST:END -->
 
