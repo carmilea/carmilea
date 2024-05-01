@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Express 5.0 – Last Push](https://github.com/expressjs/discussions/issues/233)
 - [Boeing engineer tells senate about &#39;manufacturing shortcuts&#39; [video]](https://www.youtube.com/watch?v=PP0xhIe1LFE)
-- [MTA banned from using facial recognition to enforce fare evasion](https://gothamist.com/news/mta-banned-from-using-facial-recognition-to-enforce-fare-evasion)
+- [Apple to unveil AI-enabled Safari alongside new operating systems](https://appleinsider.com/articles/24/04/30/apple-to-unveil-ai-enabled-safari-browser-alongside-new-operating-systems)
 - [Qantas app data breach allows customers to access strangers&#39; booking details](https://7news.com.au/news/qantas-app-data-breach-allows-customers-to-access-strangers-booking-details-c-14504516)
 - [Aboriginal Linux](https://landley.net/aboriginal/about.html)
-- [StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Gen](https://storydiffusion.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
