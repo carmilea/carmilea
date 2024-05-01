@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Reviewed 1,000s of Opinions on Htmx](https://konfigthis.com/blog/htmx/)
+- [Hatchet &lpar;YC W24&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/SNpCmgI-founding-engineer)
+- [The BASIC programming language turns 60](https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/)
+- [2024 Verizon Data Breach Investigation Report [pdf]](https://www.verizon.com/business/resources/T5be/reports/2024-dbir-data-breach-investigations-report.pdf)
 - [Claude Team plan and iOS app](https://www.anthropic.com/news/team-plan-and-ios)
-- [Show HN: MuscleWiki Workout Generator – Generate unique workouts](https://musclewiki.com/workout-generator)
-- [Ask HN: Who is hiring? &lpar;May 2024&rpar;](https://news.ycombinator.com/item?id=40224213)
-- [CenturyLink left users with no service for two months, then billed them $239](https://arstechnica.com/tech-policy/2024/05/centurylink-left-users-with-no-service-for-two-months-then-billed-them-239/)
-- [Show HN: Maps and Splats – Mashup of 3D tile maps with Gaussian Splats](https://maps-and-splats.glitch.me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
