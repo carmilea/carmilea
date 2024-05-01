@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Higher-paid employees looking for work are having a tough time](https://www.businessinsider.com/job-market-high-pay-employees-labor-economy-finding-work-2024-4)
+- [Cracked Rabbit R1 APKs running on Android phone](https://twitter.com/MarcelD505/status/1785346490635878837)
+- [What the data says about crime in the U.S.](https://www.pewresearch.org/short-reads/2024/04/24/what-the-data-says-about-crime-in-the-us/)
+- [Private EYES: How a tech company is expanding surveillance in public streets](https://www.newsobserver.com/news/state/north-carolina/article286920890.html)
 - [Tesla staff say firm&#39;s entire Supercharger team fired](https://www.bbc.com/news/technology-68935522)
-- [Car manufacturers break promise about sharing location data with police](https://www.wyden.senate.gov/news/press-releases/wyden-markey-reveal-automakers-provide-detailed-location-information-to-law-enforcement-without-a-warrant-rarely-notify-car-owners-request-ftc-investigate-broken-promises-to-protect-drivers-privacy)
-- [US opens probe into 130k Ford vehicles over hands-free tech](https://www.reuters.com/business/autos-transportation/us-auto-regulator-opens-preliminary-evaluation-into-fords-mustang-mach-e-2024-04-29/)
-- [Two giants in the satellite telecom industry join forces to counter Starlink](https://arstechnica.com/space/2024/04/the-two-largest-geostationary-satellite-operators-will-become-one/)
-- [Show HN: I&#39;ve forked neofetch to keep it alive](https://github.com/LorenDB/neofetch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
