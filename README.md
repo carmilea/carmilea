@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Eight Feet Jolted a $180M Real Estate Deal](https://www.nytimes.com/interactive/2024/04/19/realestate/st-francis-college-brooklyn.html)
-- [Hatchet &lpar;YC W24&rpar; is hiring a founding engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/SNpCmgI-founding-engineer)
-- [BASIC turns 60](https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/)
-- [2024 Verizon Data Breach Investigation Report [pdf]](https://www.verizon.com/business/resources/T5be/reports/2024-dbir-data-breach-investigations-report.pdf)
-- [Ask HN: Who is hiring? &lpar;May 2024&rpar;](https://news.ycombinator.com/item?id=40224213)
+- [Stasi in the West](https://www.nakedcapitalism.com/2024/05/stasi-in-the-west.html)
+- [R/Java bans Kevin Bourrillion because he mentioned another programming language](https://twitter.com/kevinb9n/status/1785066830966690126)
+- [New startup sells coffee through SSH, and exclusively through SSH](https://www.terminal.shop/)
+- [The $21B influencer industry has gone off the rails](https://www.businessinsider.com/influencer-industry-marketing-fraud-discrimination-unethical-deals-content-creators-brands-2024-4)
+- [Cheating Site Ashley Madison Is Overflowing with Sextortionists](https://gizmodo.com/ashley-madison-ftc-sextortion-blackmail-paypal-facebook-1851444552)
 <!-- BLOG-POST-LIST:END -->
 
 ---
