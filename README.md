@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What if dreaming is the whole point of sleep?](https://www.theguardian.com/books/2024/apr/22/the-big-idea-what-if-dreaming-is-the-whole-point-of-sleepp)
-- [Early Bitcoin Investor Roger Ver Charged with Tax Fraud](https://www.justice.gov/opa/pr/early-bitcoin-investor-charged-tax-fraud)
+- [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
+- [Most clean power purchasing strategies do little to cut emissions](https://research.princeton.edu/news/buyer-beware-most-clean-power-purchasing-strategies-do-little-cut-emissions)
 - [Beware of fake beaches &lpar;Pokémon Go&rpar;](https://community.openstreetmap.org/t/beware-of-fake-beaches-pokemon-go/112413)
 - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 - [How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
