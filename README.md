@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Team plan and iOS app](https://www.anthropic.com/news/team-plan-and-ios)
+- [Show HN: MuscleWiki Workout Generator – Generate unique workouts](https://musclewiki.com/workout-generator)
 - [Ask HN: Who is hiring? &lpar;May 2024&rpar;](https://news.ycombinator.com/item?id=40224213)
 - [CenturyLink left users with no service for two months, then billed them $239](https://arstechnica.com/tech-policy/2024/05/centurylink-left-users-with-no-service-for-two-months-then-billed-them-239/)
-- [Virologist who was first to share Covid genome sleeps on street after lab shuts](https://www.nature.com/articles/d41586-024-01293-0)
-- [Pareto Efficiency](https://en.wikipedia.org/wiki/Pareto_efficiency)
-- [Google urges US to update immigration rules to attract more AI talent](https://www.theverge.com/2024/5/1/24146053/google-ai-talent-immigration-schedule-a)
+- [Show HN: Maps and Splats – Mashup of 3D tile maps with Gaussian Splats](https://maps-and-splats.glitch.me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
