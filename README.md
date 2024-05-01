@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta: Iterative Reasoning Preference Optimization](https://arxiv.org/abs/2404.19733)
+- [A CSS framework for recreating Windows 7 UI](https://khang-nd.github.io/7.css/)
 - [Express 5.0 – Last Push](https://github.com/expressjs/discussions/issues/233)
 - [Boeing engineer tells senate about &#39;manufacturing shortcuts&#39; [video]](https://www.youtube.com/watch?v=PP0xhIe1LFE)
 - [Apple to unveil AI-enabled Safari alongside new operating systems](https://appleinsider.com/articles/24/04/30/apple-to-unveil-ai-enabled-safari-browser-alongside-new-operating-systems)
-- [Qantas app data breach allows customers to access strangers&#39; booking details](https://7news.com.au/news/qantas-app-data-breach-allows-customers-to-access-strangers-booking-details-c-14504516)
-- [Aboriginal Linux](https://landley.net/aboriginal/about.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
