@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Higher-paid employees looking for work are having a tough time](https://www.businessinsider.com/job-market-high-pay-employees-labor-economy-finding-work-2024-4)
-- [Cracked Rabbit R1 APKs running on Android phone](https://twitter.com/MarcelD505/status/1785346490635878837)
-- [What the data says about crime in the U.S.](https://www.pewresearch.org/short-reads/2024/04/24/what-the-data-says-about-crime-in-the-us/)
-- [Private EYES: How a tech company is expanding surveillance in public streets](https://www.newsobserver.com/news/state/north-carolina/article286920890.html)
-- [Tesla staff say firm&#39;s entire Supercharger team fired](https://www.bbc.com/news/technology-68935522)
+- [Ask HN: Who is hiring? &lpar;May 2024&rpar;](https://news.ycombinator.com/item?id=40224213)
+- [CenturyLink left users with no service for two months, then billed them $239](https://arstechnica.com/tech-policy/2024/05/centurylink-left-users-with-no-service-for-two-months-then-billed-them-239/)
+- [Virologist who was first to share Covid genome sleeps on street after lab shuts](https://www.nature.com/articles/d41586-024-01293-0)
+- [Pareto Efficiency](https://en.wikipedia.org/wiki/Pareto_efficiency)
+- [Google urges US to update immigration rules to attract more AI talent](https://www.theverge.com/2024/5/1/24146053/google-ai-talent-immigration-schedule-a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
