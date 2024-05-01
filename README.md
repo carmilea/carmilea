@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please Don&#39;t Share Our Links on Mastodon](https://news.itsfoss.com/mastodon-link-problem/)
-- [Ashby &lpar;YC W19&rpar; Is Hiring EMs to Manage Teams Not Products](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
-- [The European Union&#39;s remarkable growth performance relative to the United States](https://www.bruegel.org/analysis/european-unions-remarkable-growth-performance-relative-united-states)
-- [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
-- [The drinking fountain button is tragically misunderstood](https://www.theverge.com/24144774/drinking-fountain-bubbler-button-of-the-month)
+- [Tesla staff say firm&#39;s entire Supercharger team fired](https://www.bbc.com/news/technology-68935522)
+- [Car manufacturers break promise about sharing location data with police](https://www.wyden.senate.gov/news/press-releases/wyden-markey-reveal-automakers-provide-detailed-location-information-to-law-enforcement-without-a-warrant-rarely-notify-car-owners-request-ftc-investigate-broken-promises-to-protect-drivers-privacy)
+- [US opens probe into 130k Ford vehicles over hands-free tech](https://www.reuters.com/business/autos-transportation/us-auto-regulator-opens-preliminary-evaluation-into-fords-mustang-mach-e-2024-04-29/)
+- [Two giants in the satellite telecom industry join forces to counter Starlink](https://arstechnica.com/space/2024/04/the-two-largest-geostationary-satellite-operators-will-become-one/)
+- [Show HN: I&#39;ve forked neofetch to keep it alive](https://github.com/LorenDB/neofetch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
