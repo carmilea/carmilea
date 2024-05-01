@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jeff Barr acknowledges S3 unauthorized request billing issue](https://old.reddit.com/r/aws/comments/1ch1ir4/jeff_barr_acknowledges_s3_unauthorized_request/)
 - [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
 - [Most clean power purchasing strategies do little to cut emissions](https://research.princeton.edu/news/buyer-beware-most-clean-power-purchasing-strategies-do-little-cut-emissions)
+- [My Love/Hate Relationship with Repetition](https://www.thindifference.com/2016/04/lovehate-relationship-repetition/)
 - [Beware of fake beaches &lpar;Pokémon Go&rpar;](https://community.openstreetmap.org/t/beware-of-fake-beaches-pokemon-go/112413)
-- [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
-- [How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
