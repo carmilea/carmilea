@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Please Don&#39;t Share Our Links on Mastodon](https://news.itsfoss.com/mastodon-link-problem/)
+- [Ashby &lpar;YC W19&rpar; Is Hiring EMs to Manage Teams Not Products](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
+- [The European Union&#39;s remarkable growth performance relative to the United States](https://www.bruegel.org/analysis/european-unions-remarkable-growth-performance-relative-united-states)
 - [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
-- [Resistance against London tube map commit history &lpar;a.k.a. git merge hell&rpar; &lpar;2015&rpar;](https://www.tugberkugurlu.com/archive/resistance-against-london-tube-map-commit-history-a-k-a--git-merge-hell)
-- [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
-- [How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
-- [Aboriginal Linux](https://landley.net/aboriginal/about.html)
+- [The drinking fountain button is tragically misunderstood](https://www.theverge.com/24144774/drinking-fountain-bubbler-button-of-the-month)
 <!-- BLOG-POST-LIST:END -->
 
 ---
