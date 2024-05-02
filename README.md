@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft bans U.S. police departments from using enterprise AI tool](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-from-using-enterprise-ai-tool/)
+- [Asteroid that broke up over Berlin was fastest-spinning one ever seen](https://www.newscientist.com/article/2428473-asteroid-that-broke-up-over-berlin-was-fastest-spinning-one-ever-seen/)
+- [Pet parrots prefer live video-calls](https://phys.org/news/2024-05-pet-parrots-video-pre-videos.html)
 - [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
 - [Piccolo – A Stackless Lua Interpreter](https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/)
-- [The U.S. may be missing human cases of bird flu, scientists say](https://text.npr.org/1248538298)
-- [Ask HN: Are there any open source forks of nomad and consul?](https://news.ycombinator.com/item?id=40238911)
-- [Pleasure or Pain? He Maps the Neural Circuits That Decide](https://www.quantamagazine.org/pleasure-or-pain-he-maps-the-neural-circuits-that-decide-20240416/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
