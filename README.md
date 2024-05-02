@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iran charges journalists after BBC report on teen protester&#39;s death](https://www.bbc.com/news/articles/cnd6k8ggzn2o)
+- [Real-time AI using scalable non-expert crowdsourcing in colorectal surgery](https://www.nature.com/articles/s41746-024-01095-8)
+- [Online Cryptography Course by Dan Boneh](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
+- [Federal frenzy to patch gaping Gitlab account takeover hole](https://www.theregister.com/2024/05/02/critical_gitlab_vulnerability/)
 - [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
 - [Show HN: I built a tool for repeatable checklists](https://steplist.app/)
-- [Professor Megalow&#39;s Dinosaur Bones: Richard Owen and Victorian Literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
-- [Johnson &amp; Johnson announces $6.5B settlement over ovarian cancer allegations](https://www.axios.com/2024/05/01/johnson-johnson-talc-baby-powder-settlement-ovarian-cancer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
