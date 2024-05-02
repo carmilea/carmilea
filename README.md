@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hawaiian scientist is working with distilleries to save native sugarcane](https://www.theguardian.com/us-news/ng-interactive/2024/apr/24/hawaii-native-sugarcane-rum)
+- [Ask HN: How do people create those sleek looking demos for startups?](https://news.ycombinator.com/item?id=40231790)
 - [ESpeak-ng: speech synthesizer with more than one hundred languages and accents](https://github.com/espeak-ng/espeak-ng)
 - [Cognition: A New Antisyntax Language Redefining Metaprogramming](https://ret2pop.nullring.xyz/blog/cognition.html)
 - [mRNA Cancer Vaccine Reprograms Immune System to Tackle Glioblastoma in 48 Hours](https://www.insideprecisionmedicine.com/topics/oncology/mrna-cancer-vaccine-reprograms-immune-system-to-tackle-glioblastoma/)
-- [Mongoose IM 6.2.1 – Erlang Solutions robust, scalable and efficient XMPP server](https://github.com/esl/MongooseIM/releases/tag/6.2.1)
-- [Meteorologists awed by rare type of tornado &lpar;anti-cyclonic&rpar;](https://www.cnn.com/2024/05/01/weather/oklahoma-tornado-rare-climate/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
