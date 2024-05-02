@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shutterstock Enters into Definitive Agreement to Acquire Envato](https://investor.shutterstock.com/news-releases/news-release-details/shutterstock-enters-definitive-agreement-acquire-envato)
-- [MouseEvent: buttons property](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent/buttons)
-- [Recovering the master key from RAM to break Android&#39;s file-based encryption](https://www.sciencedirect.com/science/article/pii/S266628172100007X)
+- [Professor Megalow&#39;s Dinosaur Bones: Richard Owen and Victorian Literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
+- [Johnson and Johnson announces $6.5B settlement over ovarian cancer allegations](https://www.axios.com/2024/05/01/johnson-johnson-talc-baby-powder-settlement-ovarian-cancer)
 - [Optery &lpar;YC W22&rpar; – Engineering Tech Lead with Django and Python Experience &lpar;Remote&rpar;](https://www.ycombinator.com/companies/optery/jobs/Jwe23jD-engineering-tech-lead-full-time-contract)
 - [Full Body Scans for the People](https://www.nytimes.com/2024/04/27/business/dealbook/daniel-ek-neko-health.html)
+- [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
