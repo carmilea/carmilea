@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shutterstock Enters into Definitive Agreement to Acquire Envato](https://investor.shutterstock.com/news-releases/news-release-details/shutterstock-enters-definitive-agreement-acquire-envato)
+- [MouseEvent: buttons property](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent/buttons)
 - [Recovering the master key from RAM to break Android&#39;s file-based encryption](https://www.sciencedirect.com/science/article/pii/S266628172100007X)
-- [Search.chatgpt.com domain and SSL cert have been created](https://search.chatgpt.com)
 - [Optery &lpar;YC W22&rpar; – Engineering Tech Lead with Django and Python Experience &lpar;Remote&rpar;](https://www.ycombinator.com/companies/optery/jobs/Jwe23jD-engineering-tech-lead-full-time-contract)
 - [Full Body Scans for the People](https://www.nytimes.com/2024/04/27/business/dealbook/daniel-ek-neko-health.html)
-- [America&#39;s Booziest and Driest Counties](https://intoxistates.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
