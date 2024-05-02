@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NSA: Tales of the Krypt &lpar;KRYPTOS Society news letters 1994-2003&rpar;[pdf]](https://www.governmentattic.org/53docs/NSAkryptosSocNwsltrs1994-2003.pdf)
+- [NSA: Tales of the Krypt &lpar;KRYPTOS Society news letters 1994-2003&rpar; [pdf]](https://www.governmentattic.org/53docs/NSAkryptosSocNwsltrs1994-2003.pdf)
+- [Hawaiian scientist is working with distilleries to save native sugarcane](https://www.theguardian.com/us-news/ng-interactive/2024/apr/24/hawaii-native-sugarcane-rum)
 - [Ask HN: How do people create those sleek looking demos for startups?](https://news.ycombinator.com/item?id=40231790)
 - [ESpeak-ng: speech synthesizer with more than one hundred languages and accents](https://github.com/espeak-ng/espeak-ng)
 - [Uno: Create Beautiful Cross Platform .NET Apps Faster](https://platform.uno/)
-- [Cognition: A new antisyntax language redefining metaprogramming](https://ret2pop.nullring.xyz/blog/cognition.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
