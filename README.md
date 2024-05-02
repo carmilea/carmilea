@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hawaiian scientist is working with distilleries to save native sugarcane](https://www.theguardian.com/us-news/ng-interactive/2024/apr/24/hawaii-native-sugarcane-rum)
+- [How to Use SQLite as a NoSQL Store](https://rodydavis.com/sqlite/nosql)
+- [NSA: Tales of the Krypt &lpar;KRYPTOS Society news letters 1994-2003&rpar;[pdf]](https://www.governmentattic.org/53docs/NSAkryptosSocNwsltrs1994-2003.pdf)
+- [Limited Run Games selling burned CD-R games which don&#39;t work](https://twitter.com/Voultar/status/1785760704663896230)
 - [Ask HN: How do people create those sleek looking demos for startups?](https://news.ycombinator.com/item?id=40231790)
 - [ESpeak-ng: speech synthesizer with more than one hundred languages and accents](https://github.com/espeak-ng/espeak-ng)
-- [Cognition: A New Antisyntax Language Redefining Metaprogramming](https://ret2pop.nullring.xyz/blog/cognition.html)
-- [mRNA Cancer Vaccine Reprograms Immune System to Tackle Glioblastoma in 48 Hours](https://www.insideprecisionmedicine.com/topics/oncology/mrna-cancer-vaccine-reprograms-immune-system-to-tackle-glioblastoma/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
