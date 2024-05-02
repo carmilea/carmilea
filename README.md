@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Second Boeing Whistleblower Dies in Less Than Two Months](https://www.newshub.co.nz/home/world/2024/05/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-dies-of-sudden-illness.html)
+- [They thought they were joining an accelerator – instead they lost their startups](https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/)
 - [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [Hobby&#39;s algorithm for aesthetic Bézier splines](https://www.jakelow.com/blog/hobby-curves)
 - [Pseudo Graceful Process Termination Through Code Injection](https://sigma-star.at/blog/2024/02/exit0-code-injection/)
-- [Desert greening is transforming dust and sand into farmable soil &lpar;2023&rpar;](https://www.freethink.com/energy/desertification-desert-greening)
-- [Pter: TUI and GUI for Todo.txt](https://github.com/vonshednob/pter)
-- [Got an old Raspberry Pi spare? Try RISC OS. It is, something else](https://www.theregister.com/2024/05/02/rool_530_is_here/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
