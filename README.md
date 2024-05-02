@@ -60,7 +60,7 @@
 - [I&#39;m closing up shop on my Mastodon for the foreseeable future](https://vkc.sh/its-not-you-its-me-taking-a-break-from-mastodon/)
 - [Dissecting LockBit v3 Ransomware](https://blog.calif.io/p/dissecting-lockbit-v3-ransomware)
 - [Key Consciousness Connections Uncovered](https://neurosciencenews.com/consciousness-neuroimaging-brain-26017/)
-- [Tesla slashes its summer internship program](https://fortune.com/2024/05/01/tesla-slashes-summer-internship-program/)
+- [Typewise &lpar;YC S22&rpar; is hiring a Full-Stack Engineer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/U40CJ60-senior-full-stack-engineer-f-m-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
