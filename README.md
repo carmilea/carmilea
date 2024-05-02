@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft bans U.S. police departments from using enterprise AI tool](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-from-using-enterprise-ai-tool/)
-- [Asteroid that broke up over Berlin was fastest-spinning one ever seen](https://www.newscientist.com/article/2428473-asteroid-that-broke-up-over-berlin-was-fastest-spinning-one-ever-seen/)
-- [Pet parrots prefer live video-calls](https://phys.org/news/2024-05-pet-parrots-video-pre-videos.html)
-- [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
-- [Piccolo – A Stackless Lua Interpreter](https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [Pseudo Graceful Process Termination Through Code Injection](https://sigma-star.at/blog/2024/02/exit0-code-injection/)
+- [Desert greening is transforming dust and sand into farmable soil &lpar;2023&rpar;](https://www.freethink.com/energy/desertification-desert-greening)
+- [Pter: TUI and GUI for Todo.txt](https://github.com/vonshednob/pter)
+- [Got an old Raspberry Pi spare? Try RISC OS. It is, something else](https://www.theregister.com/2024/05/02/rool_530_is_here/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
