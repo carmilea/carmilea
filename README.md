@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are young people smarter than adults? Research shows differences diminishing](https://theconversation.com/are-young-people-smarter-than-older-adults-my-research-shows-cognitive-differences-between-generations-are-diminishing-229132)
-- [I&#39;m closing up shop on my Mastodon for the foreseeable future](https://vkc.sh/its-not-you-its-me-taking-a-break-from-mastodon/)
-- [Dissecting LockBit v3 Ransomware](https://blog.calif.io/p/dissecting-lockbit-v3-ransomware)
-- [Key Consciousness Connections Uncovered](https://neurosciencenews.com/consciousness-neuroimaging-brain-26017/)
-- [Typewise &lpar;YC S22&rpar; is hiring a Full-Stack Engineer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/U40CJ60-senior-full-stack-engineer-f-m-x)
+- [Recovering the master key from RAM to break Android&#39;s file-based encryption](https://www.sciencedirect.com/science/article/pii/S266628172100007X)
+- [Search.chatgpt.com domain and SSL cert have been created](https://search.chatgpt.com)
+- [Optery &lpar;YC W22&rpar; – Engineering Tech Lead with Django and Python Experience &lpar;Remote&rpar;](https://www.ycombinator.com/companies/optery/jobs/Jwe23jD-engineering-tech-lead-full-time-contract)
+- [Full Body Scans for the People](https://www.nytimes.com/2024/04/27/business/dealbook/daniel-ek-neko-health.html)
+- [America&#39;s Booziest and Driest Counties](https://intoxistates.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
