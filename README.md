@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [ChatGPT Dev Day @ AWS Tel Aviv | SingleStore Webinars](https://www.youtube.com/watch?v=59O3CgBAJ9o)
 - [Build an OpenAI Basketball Referee System with Computer Vision | SingleStore Webinars](https://www.youtube.com/watch?v=omqrETGuiuU)
 - [Introduction to SingleStore and How to Get Started | SingleStore Webinars](https://www.youtube.com/watch?v=koW9a01LIJ8)
 - [How We Made That App Episode 10: How FlowiseAI is Changing the GenAI App Revolution](https://www.youtube.com/watch?v=QGdzjoqLXAU)
 - [Building &amp; Evaluating RAG Apps - Beginner’s Guide | SingleStore Webinars](https://www.youtube.com/watch?v=Mo24QF67bBE)
-- [Is RAG Really Dead? Hands-on with Gemini&#39;s New 1M Token Context Window | SingleStore Webinars](https://www.youtube.com/watch?v=WqjMbdNGyPU)
 <!-- YOUTUBE:END -->
 
 
