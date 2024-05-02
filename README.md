@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft says April Windows updates break VPN connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-april-windows-updates-break-vpn-connections/)
-- [Saudi Arabia activist sentenced to 11 years for &#39;support&#39; of women&#39;s rights](https://www.theguardian.com/world/2024/may/01/manahel-al-otaibi-saudi-arabia-womens-rights-activist-sentenced-11-years-prison-anti-terrorism-court)
-- [Impressive Sora Demo Wasn&#39;t Made with Sora](https://futurism.com/the-byte/openai-sora-demo)
+- [Horizontal running inside circular walls of Moon settlements](https://royalsocietypublishing.org/doi/10.1098/rsos.231906)
+- [César Aira&#39;s Magic](https://www.thedial.world/issue-15/cesar-aira-profile)
+- [Ask HN: Modern Day Equivalent to HyperCard?](https://news.ycombinator.com/item?id=40229549)
 - [Mux &lpar;YC W16&rpar; is hiring a Senior Product Designer that&#39;s excited about devtools](https://mux.com/jobs?j=product-designer)
 - [New startup sells coffee through SSH](https://www.terminal.shop/)
 <!-- BLOG-POST-LIST:END -->
