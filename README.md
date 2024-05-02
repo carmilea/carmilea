@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iran charges journalists after BBC report on teen protester&#39;s death](https://www.bbc.com/news/articles/cnd6k8ggzn2o)
+- [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
+- [Show HN: I built a tool for repeatable checklists](https://steplist.app/)
 - [Professor Megalow&#39;s Dinosaur Bones: Richard Owen and Victorian Literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
-- [Johnson and Johnson announces $6.5B settlement over ovarian cancer allegations](https://www.axios.com/2024/05/01/johnson-johnson-talc-baby-powder-settlement-ovarian-cancer)
-- [Optery &lpar;YC W22&rpar; – Engineering Tech Lead with Django and Python Experience &lpar;Remote&rpar;](https://www.ycombinator.com/companies/optery/jobs/Jwe23jD-engineering-tech-lead-full-time-contract)
-- [Full Body Scans for the People](https://www.nytimes.com/2024/04/27/business/dealbook/daniel-ek-neko-health.html)
-- [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
+- [Johnson &amp; Johnson announces $6.5B settlement over ovarian cancer allegations](https://www.axios.com/2024/05/01/johnson-johnson-talc-baby-powder-settlement-ovarian-cancer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
