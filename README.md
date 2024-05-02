@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Typewise &lpar;YC S22&rpar; is hiring a Full-Stack Engineer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/U40CJ60-senior-full-stack-engineer-f-m-x)
 - [Whistle­blow­er who accused Boeing supplier of ignoring defects dies](https://www.aljazeera.com/economy/2024/5/2/whistleblower-joshua-dean-ex-worker-at-boeing-supplier-dies)
 - [The Fishy Death of Red Lobster](https://www.businessinsider.com/red-lobster-endless-shrimp-bankruptcy-private-equity-debt-real-estate-2024-5)
-- [NSA: Tales of the Krypt &lpar;KRYPTOS Society news letters 1994-2003&rpar; [pdf]](https://www.governmentattic.org/53docs/NSAkryptosSocNwsltrs1994-2003.pdf)
-- [Take-Two Interactive Shuts Down Kerbal Space Program Studio Intercept Games](https://www.bloomberg.com/news/articles/2024-05-01/take-two-interactive-shuts-down-two-game-studios)
-- [Hawaiian scientist is working with distilleries to save native sugarcane](https://www.theguardian.com/us-news/ng-interactive/2024/apr/24/hawaii-native-sugarcane-rum)
+- [Why I&#39;m Resigning from the Intercept](https://www.kenklippenstein.com/p/why-im-resigning-from-the-intercept)
+- [Ask HN: How do people create those sleek looking demos for startups?](https://news.ycombinator.com/item?id=40231790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
