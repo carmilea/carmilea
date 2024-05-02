@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Second Boeing Whistleblower Dies in Less Than Two Months](https://www.newshub.co.nz/home/world/2024/05/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-dies-of-sudden-illness.html)
-- [They thought they were joining an accelerator – instead they lost their startups](https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Hobby&#39;s algorithm for aesthetic Bézier splines](https://www.jakelow.com/blog/hobby-curves)
-- [Pseudo Graceful Process Termination Through Code Injection](https://sigma-star.at/blog/2024/02/exit0-code-injection/)
+- [Google&#39;s Synonym Extraction Methods](https://www.mattcutts.com/blog/google-synonyms/)
+- [Former Burning Man headquarters building sells at 90% discount](https://sfist.com/2024/04/23/empty-office-building-at-sixth-and-market-which-last-sold-for-62-million-now-sells-for-just-6-5-million/)
+- [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
+- [Louis Rossmann: YouTube&#39;s Legal Team sent me a letter [video]](https://www.youtube.com/watch?v=dqTYg6vnQvw)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
