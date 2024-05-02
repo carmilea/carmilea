@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Hacker Search – A semantic search engine for Hacker News](https://hackersearch.net)
-- [Artie &lpar;YC S23&rpar; Is Hiring a Chief of Staff in SF](https://www.ycombinator.com/companies/artie/jobs/uEUgImG-chief-of-staff)
-- [Disinformation is on the rise. How does it work?](https://www.economist.com/science-and-technology/2024/05/01/disinformation-is-on-the-rise-how-does-it-work)
-- [Improperly trusting ContentProvider-provided filename](https://developer.android.com/privacy-and-security/risks/untrustworthy-contentprovider-provided-filename)
-- [How Much Is Enough to Retire Early &lpar;Fire&rpar; in San Francisco?](https://andrenader.substack.com/p/enough-to-fire-in-san-francisco)
+- [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
+- [Piccolo – A Stackless Lua Interpreter](https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/)
+- [The U.S. may be missing human cases of bird flu, scientists say](https://text.npr.org/1248538298)
+- [Ask HN: Are there any open source forks of nomad and consul?](https://news.ycombinator.com/item?id=40238911)
+- [Pleasure or Pain? He Maps the Neural Circuits That Decide](https://www.quantamagazine.org/pleasure-or-pain-he-maps-the-neural-circuits-that-decide-20240416/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
