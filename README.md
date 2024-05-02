@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-time AI using scalable non-expert crowdsourcing in colorectal surgery](https://www.nature.com/articles/s41746-024-01095-8)
-- [Online Cryptography Course by Dan Boneh](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
-- [Federal frenzy to patch gaping Gitlab account takeover hole](https://www.theregister.com/2024/05/02/critical_gitlab_vulnerability/)
-- [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
-- [Show HN: I built a tool for repeatable checklists](https://steplist.app/)
+- [Show HN: Hacker Search – A semantic search engine for Hacker News](https://hackersearch.net)
+- [Artie &lpar;YC S23&rpar; Is Hiring a Chief of Staff in SF](https://www.ycombinator.com/companies/artie/jobs/uEUgImG-chief-of-staff)
+- [Disinformation is on the rise. How does it work?](https://www.economist.com/science-and-technology/2024/05/01/disinformation-is-on-the-rise-how-does-it-work)
+- [Improperly trusting ContentProvider-provided filename](https://developer.android.com/privacy-and-security/risks/untrustworthy-contentprovider-provided-filename)
+- [How Much Is Enough to Retire Early &lpar;Fire&rpar; in San Francisco?](https://andrenader.substack.com/p/enough-to-fire-in-san-francisco)
 <!-- BLOG-POST-LIST:END -->
 
 ---
