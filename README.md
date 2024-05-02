@@ -59,7 +59,7 @@
 - [Microsoft bans U.S. police departments from using enterprise AI tool](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-from-using-enterprise-ai-tool/)
 - [Asteroid that broke up over Berlin was fastest-spinning one ever seen](https://www.newscientist.com/article/2428473-asteroid-that-broke-up-over-berlin-was-fastest-spinning-one-ever-seen/)
 - [Pet parrots prefer live video-calls](https://phys.org/news/2024-05-pet-parrots-video-pre-videos.html)
-- [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
+- [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
 - [Piccolo – A Stackless Lua Interpreter](https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/)
 <!-- BLOG-POST-LIST:END -->
 
