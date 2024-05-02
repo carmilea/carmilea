@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are young people smarter than adults? Research shows differences diminishing](https://theconversation.com/are-young-people-smarter-than-older-adults-my-research-shows-cognitive-differences-between-generations-are-diminishing-229132)
+- [I&#39;m closing up shop on my Mastodon for the foreseeable future](https://vkc.sh/its-not-you-its-me-taking-a-break-from-mastodon/)
+- [Dissecting LockBit v3 Ransomware](https://blog.calif.io/p/dissecting-lockbit-v3-ransomware)
+- [Key Consciousness Connections Uncovered](https://neurosciencenews.com/consciousness-neuroimaging-brain-26017/)
 - [Tesla slashes its summer internship program](https://fortune.com/2024/05/01/tesla-slashes-summer-internship-program/)
-- [Typewise &lpar;YC S22&rpar; is hiring a Full-Stack Engineer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/U40CJ60-senior-full-stack-engineer-f-m-x)
-- [The Snapdragon 855&#39;s iGPU](https://chipsandcheese.com/2024/05/01/inside-the-snapdragon-855s-igpu/)
-- [A recent security incident involving Dropbox Sign](https://sign.dropbox.com/blog/a-recent-security-incident-involving-dropbox-sign)
-- [From 0 to glTF with WebGPU: Basic Materials and Textures](https://www.willusher.io/graphics/2024/04/28/0-to-gltf-basic-materials)
 <!-- BLOG-POST-LIST:END -->
 
 ---
