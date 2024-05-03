@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cardio fitness is a strong, consistent predictor of morbidity and mortality](https://bjsm.bmj.com/content/58/10/556)
+- [I&#39;m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
 - [Collapsing Sheets of Spacetime Could Explain Dark Matter and Why Universe &#39;Hums&#39;](https://www.scientificamerican.com/article/collapsing-sheets-of-spacetime-could-explain-dark-matter-and-why-the/)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40242990)
-- [Vanguard just went live and LoL players are claiming it&#39;s bricking their PCs](https://dotesports.com/league-of-legends/news/vanguard-just-went-live-and-lol-players-are-already-claiming-its-bricking-their-pcs)
 - [A Single Div](https://a.singlediv.com/)
-- [Google&#39;s Synonym Extraction Methods &lpar;2010&rpar;](https://www.mattcutts.com/blog/google-synonyms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
