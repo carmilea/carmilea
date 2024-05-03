@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Extremist Militias Are Coordinating in More Than 100 Facebook Groups](https://www.wired.com/story/extremist-militias-are-coordinating-on-facebook/)
+- [Hyundai is spending $1B to keep self-driving startup Motional alive](https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/)
 - [Georgia Tech/Meta Create Open Dataset to Advance AI for Carbon Capture](https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon)
 - [Cardio fitness is a strong, consistent predictor of morbidity and mortality](https://bjsm.bmj.com/content/58/10/556)
 - [I&#39;m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40242990)
-- [Stirling PDF: Self-hosted, web-based PDF manipulation tool](https://github.com/Stirling-Tools/Stirling-PDF)
 <!-- BLOG-POST-LIST:END -->
 
 ---
