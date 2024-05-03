@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lowercase – A simple way to take and share notes](https://www.lowercase.app/)
+- [The Airbus A340 was built to rule long-haul travel, but now it’s vanishing](https://www.cnn.com/travel/the-a340-vanishing/index.html)
+- [CSS Text Box Trim](https://github.com/jantimon/text-box-trim-examples)
+- [Mexico’s Floating Gardens Are an Ancient Wonder of Sustainable Farming](https://reasonstobecheerful.world/mexico-chinampas-floating-gardens-sustainable-farming/)
 - [DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
-- [Globalization was supposed to align the values. They&#39;re diverging](https://bigthink.com/the-present/worlds-values-diverging/)
-- [PoC to demonstrate root permission hijacking by exploiting &quot;systemd-run&quot;](https://twitter.com/hackerfantastic/status/1785495587514638559)
-- [Some scientists can&#39;t stop using AI to write research papers](https://www.theregister.com/2024/05/03/ai_scientific_articles/)
-- [AI engineers report burnout, rushed rollouts as &#39;rat race&#39; to stay competitive](https://www.cnbc.com/2024/05/03/ai-engineers-face-burnout-as-rat-race-to-stay-competitive-hits-tech.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
