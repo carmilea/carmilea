@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CO2 removal &#39;gap&#39; shows countries &#39;lack progress&#39; for 1.5C warming limit](https://www.carbonbrief.org/co2-removal-gap-shows-countries-lack-progress-for-1-5c-warming-limit/)
-- [Legion Health &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/legion-health/jobs/2Ug8ABL-founding-engineer)
-- [DrEureka: Language Model Guided SIM-to-Real Transfer](https://eureka-research.github.io/dr-eureka/)
-- [Manta Ray Uncrewed Underwater Vehicle Prototype Completes In-Water Testing](https://www.darpa.mil/news-events/2024-05-01)
-- [Lithium-free sodium batteries exit the lab and enter US production](https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/)
+- [Why It&#39;s Hard to Get Hired Despite Glowing Jobs Reports](https://www.wsj.com/lifestyle/careers/us-job-market-white-collar-workers-f453f0b5)
+- [Firefox Power User Keeps 7,400 Browser Tabs Open for 2 Years](https://www.pcmag.com/news/firefox-power-user-keeps-7400-plus-browser-tabs-open-for-2-years)
+- [Show HN: BandMatch – &quot;Tinder&quot; but for finding musicians to create bands/collab](https://bandmatch.app)
+- [SATO: Stable Text-to-Motion Framework](https://sato-team.github.io/Stable-Text-to-Motion-Framework/)
+- [VR can motivate people to donate to refugee crises regardless of politics](https://phys.org/news/2024-04-virtual-reality-people-donate-refugee.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
