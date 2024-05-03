@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Manta Ray Uncrewed Underwater Vehicle Prototype Completes In-Water Testing](https://www.darpa.mil/news-events/2024-05-01)
+- [Lithium-free sodium batteries exit the lab and enter US production](https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/)
+- [I Spent 24 Hours with GitHub Copilot Workspaces](https://every.to/chain-of-thought/i-spent-24-hours-with-github-copilot-workspaces)
 - [Lowercase – A simple way to take and share notes](https://www.lowercase.app/)
-- [The Airbus A340 was built to rule long-haul travel, but now it’s vanishing](https://www.cnn.com/travel/the-a340-vanishing/index.html)
 - [CSS Text Box Trim](https://github.com/jantimon/text-box-trim-examples)
-- [Mexico’s Floating Gardens Are an Ancient Wonder of Sustainable Farming](https://reasonstobecheerful.world/mexico-chinampas-floating-gardens-sustainable-farming/)
-- [DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
 <!-- BLOG-POST-LIST:END -->
 
 ---
