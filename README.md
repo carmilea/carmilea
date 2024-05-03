@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft ties executive pay to security after multiple failures and breaches](https://arstechnica.com/information-technology/2024/05/microsoft-ties-executive-pay-to-security-following-multiple-failures-and-breaches/)
+- [Discord Applying Forced Arbitration - opt-out before it is too late!](https://bsky.app/profile/silverwuffamute.bsky.social/post/3kqbd476nvk2i)
+- [Mega-warehouses heap more pollution on hard-hit Illinois neighborhoods](https://www.theguardian.com/us-news/2024/apr/24/illinois-mega-warehouses-air-quality-pollution-inequality)
 - [Finley &lpar;YC W21&rpar; is hiring securitization and structured finance professionals](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
-- [Why is Firefox called Firefox?](https://lunduke.locals.com/post/5577706/why-is-firefox-called-firefox)
 - [Show HN: Lightsaber Battle – May the Fourth Be with You](https://www.lightsabercursor.com/)
-- [Karate physics: How your hand can break concrete without breaking itself](https://daily.jstor.org/the-physics-of-karate/)
-- [Show HN: BandMatch – &quot;Tinder&quot; but for finding musicians to create bands/collab](https://bandmatch.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
