@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Hands on with SingleStore: The Single Unified database for your data-intensive applications](https://www.youtube.com/watch?v=9-7xopSnExg)
 - [MySQL Hot Data Migration to SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=MlIGoiHXwiw)
 - [Meet Llama 3: Run Locally with More Power, Less Cost, Full Privacy | SingleStore Webinars](https://www.youtube.com/watch?v=WDYE8Oi0QIY)
 - [SingleStore Ecosystem: A Primer on Data Ingestion | SingleStore Webinars](https://www.youtube.com/watch?v=RMzb8-sFZvE)
 - [Powering Data-Intensive Applications with Apache Spark &amp; SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=1-HS_YCaedY)
-- [ChatGPT Dev Day @ AWS Tel Aviv | SingleStore Webinars](https://www.youtube.com/watch?v=59O3CgBAJ9o)
 <!-- YOUTUBE:END -->
 
 
