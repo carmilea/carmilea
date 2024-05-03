@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a low-cost EV charging station with Arduino](https://blog.arduino.cc/2024/04/23/creating-a-low-cost-ev-charging-station-with-arduino/)
-- [Experimental blog that is only available to read through a feed reader](https://theunderground.blog/)
-- [Ribbon Health &lpar;YC S17&rpar; Is Hiring a Data Acquisition Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
-- [How to Make More Money Renting a GPU Than Nvidia Makes Selling It](https://www.nextplatform.com/2024/05/02/how-to-make-more-money-renting-a-gpu-than-nvidia-makes-selling-it/)
-- [Starlink geofence appears to have some gaping holes](https://www.theregister.com/2024/05/03/spacex_roaming_lockdown/)
+- [DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
+- [Globalization was supposed to align the values. They&#39;re diverging](https://bigthink.com/the-present/worlds-values-diverging/)
+- [PoC to demonstrate root permission hijacking by exploiting &quot;systemd-run&quot;](https://twitter.com/hackerfantastic/status/1785495587514638559)
+- [Some scientists can&#39;t stop using AI to write research papers](https://www.theregister.com/2024/05/03/ai_scientific_articles/)
+- [AI engineers report burnout, rushed rollouts as &#39;rat race&#39; to stay competitive](https://www.cnbc.com/2024/05/03/ai-engineers-face-burnout-as-rat-race-to-stay-competitive-hits-tech.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
