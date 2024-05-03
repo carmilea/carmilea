@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Raycast &lpar;YC W20&rpar; is hiring Rust engineer &lpar;Remote, Europe, €104k – €160k&rpar;](https://www.raycast.com/jobs/software-engineer-rust)
-- [Google&#39;s Med-Gemini AI Outperforms GPT-4 in Healthcare](https://www.forbes.com/sites/talpatalon/2024/05/01/med-geminis-lions-roar/)
 - [Thirteen year old singularity bug fixed](https://github.com/tgstation/tgstation/pull/83005)
 - [Hyundai is spending $1B to keep self-driving startup Motional alive](https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/)
 - [Georgia Tech/Meta Create Open Dataset to Advance AI for Carbon Capture](https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon)
+- [Cardio fitness is a strong, consistent predictor of morbidity and mortality](https://bjsm.bmj.com/content/58/10/556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
