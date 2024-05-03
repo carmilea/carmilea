@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finley &lpar;YC W21&rpar; is hiring securitization and structured finance professionals](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
+- [Why is Firefox called Firefox?](https://lunduke.locals.com/post/5577706/why-is-firefox-called-firefox)
+- [Show HN: Lightsaber Battle – May the Fourth Be with You](https://www.lightsabercursor.com/)
+- [Karate physics: How your hand can break concrete without breaking itself](https://daily.jstor.org/the-physics-of-karate/)
 - [Show HN: BandMatch – &quot;Tinder&quot; but for finding musicians to create bands/collab](https://bandmatch.app)
-- [SATO: Stable Text-to-Motion Framework](https://sato-team.github.io/Stable-Text-to-Motion-Framework/)
-- [How hard can generating 1024-bit primes be?](https://glitchcomet.com/articles/1024-bit-primes/)
-- [Evidence of price-fixing in the oil industry?](https://www.thebignewsletter.com/p/an-oil-price-fixing-conspiracy-caused)
-- [As private equity dominates wheelchair market, users wait months for repairs](https://www.statnews.com/2024/05/01/wheelchair-repair-delay-numotion-national-seating-mobility/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
