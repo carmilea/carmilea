@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ribbon Health &lpar;YC S17&rpar; Is Hiring a Data Acquisition Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
+- [How to Make More Money Renting a GPU Than Nvidia Makes Selling It](https://www.nextplatform.com/2024/05/02/how-to-make-more-money-renting-a-gpu-than-nvidia-makes-selling-it/)
+- [Deletion of user account &lpar;€ 19,90&rpar;](https://www.soflow.com/eu/product/deletion-of-user-account/)
+- [Starlink geofence appears to have some gaping holes](https://www.theregister.com/2024/05/03/spacex_roaming_lockdown/)
 - [Auckland is built atop a labyrinth of underground caves](https://www.bbc.com/future/article/20240501-the-new-zealand-city-with-a-labyrinth-of-underground-caves)
-- [How to Use JSON Path](https://bump.sh/blog/how-to-use-json-path)
-- [Woodworking as an Escape from the Absurdity of Software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
-- [Raycast &lpar;YC W20&rpar; is hiring Rust engineer &lpar;Remote, Europe, €104k – €160k&rpar;](https://www.raycast.com/jobs/software-engineer-rust)
-- [Thirteen year old singularity bug fixed](https://github.com/tgstation/tgstation/pull/83005)
 <!-- BLOG-POST-LIST:END -->
 
 ---
