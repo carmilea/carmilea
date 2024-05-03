@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CO2 removal &#39;gap&#39; shows countries &#39;lack progress&#39; for 1.5C warming limit](https://www.carbonbrief.org/co2-removal-gap-shows-countries-lack-progress-for-1-5c-warming-limit/)
 - [Legion Health &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/legion-health/jobs/2Ug8ABL-founding-engineer)
 - [DrEureka: Language Model Guided SIM-to-Real Transfer](https://eureka-research.github.io/dr-eureka/)
-- [The labour arbitrage theory of dev tool popularity](https://www.baldurbjarnason.com/2024/react-electron-llms-labour-arbitrage/)
 - [Manta Ray Uncrewed Underwater Vehicle Prototype Completes In-Water Testing](https://www.darpa.mil/news-events/2024-05-01)
 - [Lithium-free sodium batteries exit the lab and enter US production](https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/)
 <!-- BLOG-POST-LIST:END -->
