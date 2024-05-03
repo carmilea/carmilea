@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Collapsing Sheets of Spacetime Could Explain Dark Matter and Why Universe &#39;Hums&#39;](https://www.scientificamerican.com/article/collapsing-sheets-of-spacetime-could-explain-dark-matter-and-why-the/)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40242990)
-- [The Most Decorated Battleship in U.S. History Gets an Overdue Face-Lift](https://www.nytimes.com/2024/05/01/nyregion/battleship-new-jersey-repairs.html)
+- [Vanguard just went live and LoL players are claiming it&#39;s bricking their PCs](https://dotesports.com/league-of-legends/news/vanguard-just-went-live-and-lol-players-are-already-claiming-its-bricking-their-pcs)
+- [A Single Div](https://a.singlediv.com/)
 - [Google&#39;s Synonym Extraction Methods &lpar;2010&rpar;](https://www.mattcutts.com/blog/google-synonyms/)
-- [An analysis of the rabbit R1 APK](https://www.emergetools.com/deep-dives/rabbit-r1)
-- [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
