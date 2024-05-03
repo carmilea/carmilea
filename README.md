@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s Synonym Extraction Methods](https://www.mattcutts.com/blog/google-synonyms/)
-- [Former Burning Man headquarters building sells at 90% discount](https://sfist.com/2024/04/23/empty-office-building-at-sixth-and-market-which-last-sold-for-62-million-now-sells-for-just-6-5-million/)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40242990)
+- [The Most Decorated Battleship in U.S. History Gets an Overdue Face-Lift](https://www.nytimes.com/2024/05/01/nyregion/battleship-new-jersey-repairs.html)
+- [Google&#39;s Synonym Extraction Methods &lpar;2010&rpar;](https://www.mattcutts.com/blog/google-synonyms/)
+- [An analysis of the rabbit R1 APK](https://www.emergetools.com/deep-dives/rabbit-r1)
 - [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
-- [Louis Rossmann: YouTube&#39;s Legal Team sent me a letter [video]](https://www.youtube.com/watch?v=dqTYg6vnQvw)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
