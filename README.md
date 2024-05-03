@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why It&#39;s Hard to Get Hired Despite Glowing Jobs Reports](https://www.wsj.com/lifestyle/careers/us-job-market-white-collar-workers-f453f0b5)
-- [Firefox Power User Keeps 7,400 Browser Tabs Open for 2 Years](https://www.pcmag.com/news/firefox-power-user-keeps-7400-plus-browser-tabs-open-for-2-years)
 - [Show HN: BandMatch – &quot;Tinder&quot; but for finding musicians to create bands/collab](https://bandmatch.app)
 - [SATO: Stable Text-to-Motion Framework](https://sato-team.github.io/Stable-Text-to-Motion-Framework/)
-- [VR can motivate people to donate to refugee crises regardless of politics](https://phys.org/news/2024-04-virtual-reality-people-donate-refugee.html)
+- [How hard can generating 1024-bit primes be?](https://glitchcomet.com/articles/1024-bit-primes/)
+- [Evidence of price-fixing in the oil industry?](https://www.thebignewsletter.com/p/an-oil-price-fixing-conspiracy-caused)
+- [As private equity dominates wheelchair market, users wait months for repairs](https://www.statnews.com/2024/05/01/wheelchair-repair-delay-numotion-national-seating-mobility/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
