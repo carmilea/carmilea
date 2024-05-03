@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Legion Health &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/legion-health/jobs/2Ug8ABL-founding-engineer)
+- [DrEureka: Language Model Guided SIM-to-Real Transfer](https://eureka-research.github.io/dr-eureka/)
+- [The labour arbitrage theory of dev tool popularity](https://www.baldurbjarnason.com/2024/react-electron-llms-labour-arbitrage/)
 - [Manta Ray Uncrewed Underwater Vehicle Prototype Completes In-Water Testing](https://www.darpa.mil/news-events/2024-05-01)
 - [Lithium-free sodium batteries exit the lab and enter US production](https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/)
-- [I Spent 24 Hours with GitHub Copilot Workspaces](https://every.to/chain-of-thought/i-spent-24-hours-with-github-copilot-workspaces)
-- [Lowercase – A simple way to take and share notes](https://www.lowercase.app/)
-- [CSS Text Box Trim](https://github.com/jantimon/text-box-trim-examples)
 <!-- BLOG-POST-LIST:END -->
 
 ---
