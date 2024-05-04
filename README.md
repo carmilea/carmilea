@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [StarCoder2-Instruct: Transparent Self-Alignment for Code Generation](https://github.com/bigcode-project/starcoder2-self-align)
 - [Trayd &lpar;YC S23&rpar; Is Hiring Technical Customer Success Associate](https://www.ycombinator.com/companies/trayd/jobs/mWFq6En-technical-customer-success-associate)
+- [I don&#39;t want to fill out your contact form](https://adamjones.me/blog/dont-use-contact-forms/)
 - [Phillipine court bans growth of transgenic golden rice](https://www.science.org/content/article/what-philippine-court-ruling-means-transgenic-golden-rice-once-hailed-dietary)
-- [My secret life as an 11-year-old BBS sysop &lpar;2022&rpar;](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
 - [Insects and other animals have consciousness](https://nautil.us/insects-and-other-animals-have-consciousness-571584/)
-- [I never stopped learning from Daniel Dennett](https://nautil.us/i-never-stopped-learning-from-daniel-dennett-569904/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
