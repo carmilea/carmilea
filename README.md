@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Personalized mRNA vaccine boosts melanoma immunotherapy](https://www.nature.com/articles/d41591-024-00006-4)
+- [Show HN: gpudeploy.com – &quot;Airbnb&quot; for GPUs](https://www.gpudeploy.com)
 - [Streak &lpar;YC S11&rpar; is hiring a staff UI engineer](https://www.streak.com/careers/staff-ui-engineer)
-- [Show HN: Dillo 3.1.0 released after 9 years](https://dillo-browser.github.io/latest.html)
-- [He Lost $36B in a Week. Now Bill Hwang Is Fighting to Avoid Prison](https://www.bloomberg.com/news/features/2024-05-01/bill-hwang-fights-prison-time-after-hastening-credit-suisse-collapse)
-- [Does the American Diabetes Association work for patients or companies?](https://www.theguardian.com/global/commentisfree/2024/may/02/american-diabetes-association-lawsuit)
+- [Highly Pathogenic Avian Influenza A&lpar;H5N1&rpar; Virus Infection in a Dairy Farm Worker](https://www.nejm.org/doi/full/10.1056/NEJMc2405371)
+- [Atari&#39;s Mike Jang](https://arcadeblogger.com/2024/02/13/ataris-mike-jang/)
+- [Near-collapse of the geomagnetic field may have contributed to life on Earth](https://www.nature.com/articles/s43247-024-01360-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
