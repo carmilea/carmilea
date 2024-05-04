@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Personalized mRNA vaccine boosts melanoma immunotherapy](https://www.nature.com/articles/d41591-024-00006-4)
+- [Streak &lpar;YC S11&rpar; is hiring a staff UI engineer](https://www.streak.com/careers/staff-ui-engineer)
+- [Show HN: Dillo 3.1.0 released after 9 years](https://dillo-browser.github.io/latest.html)
 - [He Lost $36B in a Week. Now Bill Hwang Is Fighting to Avoid Prison](https://www.bloomberg.com/news/features/2024-05-01/bill-hwang-fights-prison-time-after-hastening-credit-suisse-collapse)
 - [Does the American Diabetes Association work for patients or companies?](https://www.theguardian.com/global/commentisfree/2024/may/02/american-diabetes-association-lawsuit)
-- [Motion &lpar;YC W20&rpar; is hiring senior software engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
-- [Porting HPC Applications to AMD Instinct MI300A Using Unified Memory and OpenMP](https://arxiv.org/abs/2405.00436)
-- [Was the Stone Age the Wood Age?](https://www.nytimes.com/2024/05/04/science/archaeology-neanderthals-wood.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
