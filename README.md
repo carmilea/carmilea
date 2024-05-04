@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I joined landlord groups to persuade them to be better people to their tenants](https://www.thisisalot.com/unhinged-opinions/i-joined-a-bunch-of-landlord-groups-to-subtly-manipulate-them-into-being-better-people/118/)
+- [Japan ministry asks Line, Yahoo operator to shed Naver influence](https://asia.nikkei.com/Business/Technology/Japan-ministry-asks-Line-Yahoo-operator-to-shed-Naver-influence)
 - [I hate online Lorem Ipsum Generator so I made my own](https://news.ycombinator.com/item?id=40254384)
 - [Rustc_codegen_GCC: Progress Report #32](https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-32)
-- [How long should you sit vs. stand? New research reveals the perfect mix](https://theconversation.com/how-much-time-should-you-spend-sitting-versus-standing-new-research-reveals-the-perfect-mix-for-optimal-health-228894)
-- [Value of one of S.F.&#39;s biggest buildings plunges by 80% after Uber, Block leave](https://www.sfchronicle.com/sf/article/s-f-office-building-value-19438429.php)
-- [Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU](https://github.com/abi/secret-llama)
+- [My secret life as an 11-year-old BBS sysop &lpar;2022&rpar;](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
