@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A love letter to bicycle maintenance and repair](https://tegowerk.eu/posts/bicycle-repair/)
-- [Tesla retreat from EV charging leaves growth of U.S. network in doubt](https://www.washingtonpost.com/business/2024/05/03/tesla-charging-us-network/)
 - [Nintendo blitzes GitHub with over 8k emulator-related DMCA takedowns](https://www.engadget.com/nintendo-blitzes-github-with-over-8000-emulator-related-dmca-takedowns-200021877.html)
-- [Show HN: I hate online Lorem Ipsum Generator so I made my own](https://news.ycombinator.com/item?id=40254384)
 - [My secret life as an 11-year-old BBS sysop &lpar;2022&rpar;](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
+- [Insects and other animals have consciousness](https://nautil.us/insects-and-other-animals-have-consciousness-571584/)
+- [I never stopped learning from Daniel Dennett](https://nautil.us/i-never-stopped-learning-from-daniel-dennett-569904/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
