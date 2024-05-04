@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Georgia rocked by protests as government pushes Putin-style &#39;foreign agent&#39; bill](https://www.cnn.com/2024/05/03/europe/georgia-russia-foreign-agent-europe-intl/index.html)
-- [Microsoft overhaul treats security as &#39;top priority&#39; after a series of failures](https://www.theverge.com/2024/5/3/24147883/microsoft-security-priority-executive-compensation-goals)
-- [My secret life as an 11-year-old BBS sysop &lpar;2022&rpar;](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
-- [Insects and other animals have consciousness](https://nautil.us/insects-and-other-animals-have-consciousness-571584/)
-- [I never stopped learning from Daniel Dennett](https://nautil.us/i-never-stopped-learning-from-daniel-dennett-569904/)
+- [Trayd &lpar;YC S23&rpar; Is Hiring Technical Customer Success Associate](https://www.ycombinator.com/companies/trayd/jobs/mWFq6En-technical-customer-success-associate)
+- [Is robotics about to have its own ChatGPT moment?](https://www.technologyreview.com/2024/04/11/1090718/household-robots-ai-data-robotics/)
+- [Phillipine court bans growth of transgenic golden rice](https://www.science.org/content/article/what-philippine-court-ruling-means-transgenic-golden-rice-once-hailed-dietary)
+- [FreeBSD Status Report: First Quarter 2024](https://www.freebsd.org/status/report-2024-01-2024-03/)
+- [UEFI, BIOS, and other confusing x86 PC &lpar;firmware&rpar; terms](https://utcc.utoronto.ca/~cks/space/blog/tech/UEFIAndBIOSAndOtherPCTerms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
