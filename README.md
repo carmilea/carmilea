@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify getting into enterprise IT tools](https://techcrunch.com/2024/04/30/spotifys-getting-serious-about-its-enterprise-and-dev-tools-business-play/)
 - [The Mirror Fusion Test Facility &lpar;2023&rpar;](https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/)
-- [Cancer vaccines are having a renaissance](https://www.technologyreview.com/2024/05/03/1092026/cancer-vaccines-are-having-a-renaissance/)
-- [StarCoder2-Instruct: Transparent Self-Alignment for Code Generation](https://github.com/bigcode-project/starcoder2-self-align)
+- [CBMC: C bounded model checker &lpar;2021&rpar;](http://www.cprover.org/cbmc/)
 - [Vulture shortage threatens Zoroastrian burial rites](https://www.theguardian.com/world/article/2024/may/04/vulture-shortage-threatens-zoroastrian-burial-rites-india-iran-pakistan)
 - [Trayd &lpar;YC S23&rpar; Is Hiring Technical Customer Success Associate](https://www.ycombinator.com/companies/trayd/jobs/mWFq6En-technical-customer-success-associate)
 <!-- BLOG-POST-LIST:END -->
