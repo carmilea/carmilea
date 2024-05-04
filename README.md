@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Mirror Fusion Test Facility &lpar;2023&rpar;](https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/)
+- [Cancer vaccines are having a renaissance](https://www.technologyreview.com/2024/05/03/1092026/cancer-vaccines-are-having-a-renaissance/)
 - [StarCoder2-Instruct: Transparent Self-Alignment for Code Generation](https://github.com/bigcode-project/starcoder2-self-align)
+- [Vulture shortage threatens Zoroastrian burial rites](https://www.theguardian.com/world/article/2024/may/04/vulture-shortage-threatens-zoroastrian-burial-rites-india-iran-pakistan)
 - [Trayd &lpar;YC S23&rpar; Is Hiring Technical Customer Success Associate](https://www.ycombinator.com/companies/trayd/jobs/mWFq6En-technical-customer-success-associate)
-- [I don&#39;t want to fill out your contact form](https://adamjones.me/blog/dont-use-contact-forms/)
-- [Phillipine court bans growth of transgenic golden rice](https://www.science.org/content/article/what-philippine-court-ruling-means-transgenic-golden-rice-once-hailed-dietary)
-- [Insects and other animals have consciousness](https://nautil.us/insects-and-other-animals-have-consciousness-571584/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
