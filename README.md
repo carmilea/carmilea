@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I hate online Lorem Ipsum Generator so I made my own](https://news.ycombinator.com/item?id=40254384)
+- [Rustc_codegen_GCC: Progress Report #32](https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-32)
 - [How long should you sit vs. stand? New research reveals the perfect mix](https://theconversation.com/how-much-time-should-you-spend-sitting-versus-standing-new-research-reveals-the-perfect-mix-for-optimal-health-228894)
 - [Value of one of S.F.&#39;s biggest buildings plunges by 80% after Uber, Block leave](https://www.sfchronicle.com/sf/article/s-f-office-building-value-19438429.php)
-- [Bountysource Stole at Least $17,000 from Open Source Developers](https://boehs.org/node/bountysource)
 - [Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU](https://github.com/abi/secret-llama)
-- [Discord Applying Forced Arbitration - opt-out before it is too late!](https://bsky.app/profile/silverwuffamute.bsky.social/post/3kqbd476nvk2i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
