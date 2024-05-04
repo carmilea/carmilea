@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s quiet energy revolution: the switch from nuclear to renewable energy](https://johnmenadue.com/chinas-quiet-energy-revolution-the-switch-from-nuclear-to-renewable-energy/)
-- [Microsoft ties executive pay to security after multiple failures and breaches](https://arstechnica.com/information-technology/2024/05/microsoft-ties-executive-pay-to-security-following-multiple-failures-and-breaches/)
-- [Discord Applying Forced Arbitration - opt-out before it is too late!](https://bsky.app/profile/silverwuffamute.bsky.social/post/3kqbd476nvk2i)
-- [Finley &lpar;YC W21&rpar; is hiring securitization and structured finance professionals](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
-- [Show HN: Lightsaber Battle – May the Fourth Be with You](https://www.lightsabercursor.com/)
+- [Rust to .NET compiler – Progress update](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_1_2.html)
+- [Value of one of S.F.&#39;s biggest buildings plunges by 80% after Uber, Block leave](https://www.sfchronicle.com/sf/article/s-f-office-building-value-19438429.php)
+- [Read the wild email Tesla is sending to suppliers amid Supercharger chaos](https://electrek.co/2024/05/03/read-the-wild-email-tesla-is-sending-to-suppliers-amid-supercharger-chaos/)
+- [Sony and Apollo send letter expressing interest in $26B Paramount buyout](https://www.cnbc.com/2024/05/02/sony-apollo-express-interest-in-paramount-buyout-amid-skydance-bid.html)
+- [Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU](https://github.com/abi/secret-llama)
 <!-- BLOG-POST-LIST:END -->
 
 ---
