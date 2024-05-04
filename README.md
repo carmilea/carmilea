@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo blitzes GitHub with over 8k emulator-related DMCA takedowns](https://www.engadget.com/nintendo-blitzes-github-with-over-8000-emulator-related-dmca-takedowns-200021877.html)
 - [I joined landlord groups to persuade them to be better people to their tenants](https://www.thisisalot.com/unhinged-opinions/i-joined-a-bunch-of-landlord-groups-to-subtly-manipulate-them-into-being-better-people/118/)
-- [Japan ministry asks Line, Yahoo operator to shed Naver influence](https://asia.nikkei.com/Business/Technology/Japan-ministry-asks-Line-Yahoo-operator-to-shed-Naver-influence)
-- [I hate online Lorem Ipsum Generator so I made my own](https://news.ycombinator.com/item?id=40254384)
-- [Rustc_codegen_GCC: Progress Report #32](https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-32)
+- [Show HN: I hate online Lorem Ipsum Generator so I made my own](https://news.ycombinator.com/item?id=40254384)
 - [My secret life as an 11-year-old BBS sysop &lpar;2022&rpar;](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
+- [Insects and other animals have consciousness](https://nautil.us/insects-and-other-animals-have-consciousness-571584/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
