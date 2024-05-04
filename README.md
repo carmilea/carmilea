@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Worst-ever job interviews: &#39;We had to crawl and moo&#39;](https://www.bbc.co.uk/news/articles/c4n1j9lvrdeo)
+- [PHP Doesn&#39;t Suck Anymore](https://developerjoy.co/blog/php-doesnt-suck-anymore)
 - [A love letter to bicycle maintenance and repair](https://tegowerk.eu/posts/bicycle-repair/)
 - [Nintendo blitzes GitHub with over 8k emulator-related DMCA takedowns](https://www.engadget.com/nintendo-blitzes-github-with-over-8000-emulator-related-dmca-takedowns-200021877.html)
 - [My secret life as an 11-year-old BBS sysop &lpar;2022&rpar;](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
-- [Insects and other animals have consciousness](https://nautil.us/insects-and-other-animals-have-consciousness-571584/)
-- [I never stopped learning from Daniel Dennett](https://nautil.us/i-never-stopped-learning-from-daniel-dennett-569904/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
