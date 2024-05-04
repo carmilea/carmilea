@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tyson Foods Is Dumping Pounds of Pollutants into American Waterways](https://cleantechnica.com/2024/05/04/tyson-foods-is-dumping-millions-of-pounds-of-pollutants-into-american-waterways/)
+- [Motion &lpar;YC W20&rpar; is hiring senior software engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 - [Spotify getting into enterprise IT tools](https://techcrunch.com/2024/04/30/spotifys-getting-serious-about-its-enterprise-and-dev-tools-business-play/)
+- [Was the Stone Age the Wood Age?](https://www.nytimes.com/2024/05/04/science/archaeology-neanderthals-wood.html)
 - [The Mirror Fusion Test Facility &lpar;2023&rpar;](https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/)
-- [CBMC: C bounded model checker &lpar;2021&rpar;](http://www.cprover.org/cbmc/)
-- [Vulture shortage threatens Zoroastrian burial rites](https://www.theguardian.com/world/article/2024/may/04/vulture-shortage-threatens-zoroastrian-burial-rites-india-iran-pakistan)
-- [Trayd &lpar;YC S23&rpar; Is Hiring Technical Customer Success Associate](https://www.ycombinator.com/companies/trayd/jobs/mWFq6En-technical-customer-success-associate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
