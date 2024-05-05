@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fern &lpar;YC W23&rpar; Is Hiring a Back End Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/9mMCMnY-backend-engineer)
+- [Debian 64-bit-time transition](https://wiki.debian.org/ReleaseGoals/64bit-time)
 - [Helldivers 2 Removed from Purchase on Steam in over 150 Countries](https://www.thegamer.com/helldivers-2-delisted-on-steam-100-plus-countries-without-psn-due-to-psn-sign-in-requirement-controversy/)
-- [US prepares to exempt AUKUS nations from ITAR](https://www.naval-technology.com/news/us-prepares-to-scrap-itar-for-aukus-nations/)
 - [They Live](https://en.wikipedia.org/wiki/They_Live)
 - [Show HN: I built a website to share files and messages without any server](https://neighbor-share.vercel.app/)
-- [Rusty.hpp: A Borrow Checker and Memory Ownership System for C++20](https://github.com/Jaysmito101/rusty.hpp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
