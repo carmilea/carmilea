@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-million dollar Cheyenne supercomputer auction ends with $480,085 bid](https://www.tomshardware.com/tech-industry/supercomputers/multi-million-dollar-cheyenne-supercomputer-auction-ends-with-480085-bid)
+- [The children who remember their past lives](https://www.washingtonpost.com/lifestyle/2024/05/02/children-past-lives/)
+- [Dick Rutan, who flew nonstop around the world, is dead at 85](https://www.independent.co.uk/news/ap-voyager-ronald-reagan-california-idaho-b2539832.html)
+- [Vera Rubin&#39;s primary mirror gets its first reflective coating](https://www.universetoday.com/166842/vera-rubins-primary-mirror-gets-its-first-reflective-coating/)
+- [Love to see the night sky on Mars? This is what it would be like to stargaze](https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars)
 - [Show HN: gpudeploy.com – &quot;Airbnb&quot; for GPUs](https://www.gpudeploy.com)
-- [Streak &lpar;YC S11&rpar; is hiring a staff UI engineer](https://www.streak.com/careers/staff-ui-engineer)
-- [Atari&#39;s Mike Jang](https://arcadeblogger.com/2024/02/13/ataris-mike-jang/)
-- [Show HN: Dillo 3.1.0 released after 9 years](https://dillo-browser.github.io/latest.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
