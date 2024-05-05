@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Helldivers 2 Removed from Purchase on Steam in over 150 Countries](https://www.thegamer.com/helldivers-2-delisted-on-steam-100-plus-countries-without-psn-due-to-psn-sign-in-requirement-controversy/)
-- [StoryDiffusion – Using StoryDiffusion Online](https://storydiffusion.net/)
+- [Flags Are Not Languages](https://www.flagsarenotlanguages.com/blog/)
+- [US prepares to exempt AUKUS nations from ITAR](https://www.naval-technology.com/news/us-prepares-to-scrap-itar-for-aukus-nations/)
 - [They Live](https://en.wikipedia.org/wiki/They_Live)
 - [Show HN: I built a website to share files and messages without any server](https://neighbor-share.vercel.app/)
-- [Rusty.hpp: A Borrow Checker and Memory Ownership System for C++20](https://github.com/Jaysmito101/rusty.hpp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
