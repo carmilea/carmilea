@@ -57,7 +57,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Machine unlearning: ML model minus the information to be unlearned](https://ai.stanford.edu/~kzliu/blog/unlearning)
-- [Fern &lpar;YC W23&rpar; Is Hiring a Back End Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/9mMCMnY-backend-engineer)
+- [A History of C Compilers – Part 1: Performance, Portability and Freedom](https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance)
 - [A Visual History of Windows Icons: From Windows 1 to 11 &lpar;2011&rpar;](https://www.howtogeek.com/733912/a-visual-history-of-windows-icons-from-windows-1-to-11/)
 - [Take a look at traefik, even if you don&#39;t use containers](https://j6b72.de/article/why-you-should-take-a-look-at-traefik/)
 - [Rabbit R1 can be run on a Android device](https://www.androidauthority.com/rabbit-r1-bespoke-android-3439760/)
