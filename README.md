@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The children who remember their past lives](https://www.washingtonpost.com/lifestyle/2024/05/02/children-past-lives/)
-- [Dick Rutan, who flew nonstop around the world, is dead at 85](https://www.independent.co.uk/news/ap-voyager-ronald-reagan-california-idaho-b2539832.html)
+- [Preliminary Macintosh Business Plan &lpar;12 July 1981&rpar; [pdf]](http://archive.computerhistory.org/resources/text/2009/102712692.05.01acc.pdf)
+- [Dick Rutan, pilot of the first nonstop around-the-world flight, has died](https://www.independent.co.uk/news/ap-voyager-ronald-reagan-california-idaho-b2539832.html)
 - [Vera Rubin&#39;s primary mirror gets its first reflective coating](https://www.universetoday.com/166842/vera-rubins-primary-mirror-gets-its-first-reflective-coating/)
-- [Love to see the night sky on Mars? This is what it would be like to stargaze](https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars)
+- [Superfest – The almost unbreakable East German Glass](https://digitalcosmonaut.com/superfest-ceverit-glass-ddr/)
 - [Show HN: gpudeploy.com – &quot;Airbnb&quot; for GPUs](https://www.gpudeploy.com)
 <!-- BLOG-POST-LIST:END -->
 
