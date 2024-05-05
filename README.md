@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pivot podcast host Scott Galloway: &#39;Tech bros conflate luck with talent&#39;](https://www.theguardian.com/books/article/2024/may/04/scott-galloway-algebra-of-wealth-pivot-elon-musk)
+- [Emerge &lpar;YC W21&rpar; is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 - [Time-Based CSS Animations](https://yuanchuan.dev/time-based-css-animations)
-- [Megaconstellations like SpaceX&#39;s could weaken Earth&#39;s magnetic field, atmosphere](https://www.livescience.com/space/space-exploration/controversial-paper-claims-satellite-megaconstellations-like-spacexs-could-weaken-earths-magnetic-field-and-cause-atmospheric-stripping-should-we-be-worried)
-- [Judge mulls sanctions over Google&#39;s &quot;shocking&quot; destruction of internal chats](https://arstechnica.com/tech-policy/2024/05/judge-mulls-sanctions-over-googles-shocking-destruction-of-internal-chats/)
 - [Cylon: JavaScript framework for robotics, drones, and the Internet of Things](https://github.com/hybridgroup/cylon)
+- [Elegant Wind Turbine Blades Made of Wood Can Outperform Composites](https://cleantechnica.com/2024/05/03/elegant-wind-turbine-blades-made-of-wood-can-outperform-composites/)
+- [SEQUOIA: Exact Llama2-70B on an RTX4090 with half-second per-token latency](https://infini-ai-lab.github.io/Sequoia-Page/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
