@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Infisical Is Hiring Software Engineers to Build Open-Source Security DevTools](https://infisical.com/careers)
-- [Al Jazeera condemns Israeli government decision to shut down channel](https://www.aljazeera.com/news/2024/5/5/netanyahu-government-votes-to-close-al-jazeera-channel-in-israel)
-- [How to style React applications while the world burns around us](https://herbcaudill.com/words/20201007-style-react-app)
-- [ESP32-S3 has &lpar;a few&rpar; SIMD instructions](https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html)
-- [Aberdeenshire memorial inscriptions records removed from Ancestry](http://scottishgenes.blogspot.com/2024/05/aberdeenshire-memorial-inscriptions.html)
+- [Monitoring energy usage with smart plugs, Prometheus and Grafana](https://ounapuu.ee/posts/2024/05/02/smartplugs/)
+- [Stereogram Tutorial &lpar;2020&rpar;](https://www.ime.usp.br/~otuyama/stereogram/basic/index.html)
+- [Good ideas in computer science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
+- [Simplicity is an advantage but sadly complexity sells better &lpar;2022&rpar;](https://eugeneyan.com/writing/simplicity/)
+- [Dick Rutan, co-pilot of historic round-the-world flight, dies aged 85](https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85)
 <!-- BLOG-POST-LIST:END -->
 
 ---
