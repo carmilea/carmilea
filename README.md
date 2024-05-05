@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing furniture using the CSS grid &lpar;2023&rpar;](https://alnvdl.github.io/2023/01/07/designing-furniture-using-the-css-grid.html)
+- [Recruiters are going analog to fight the AI application overload](https://www.wired.com/story/recruiters-ai-application-overload/)
 - [Monitoring energy usage with smart plugs, Prometheus and Grafana](https://ounapuu.ee/posts/2024/05/02/smartplugs/)
-- [Stereogram Tutorial &lpar;2020&rpar;](https://www.ime.usp.br/~otuyama/stereogram/basic/index.html)
-- [Good ideas in computer science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
-- [Simplicity is an advantage but sadly complexity sells better &lpar;2022&rpar;](https://eugeneyan.com/writing/simplicity/)
-- [Dick Rutan, co-pilot of historic round-the-world flight, dies aged 85](https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85)
+- [Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens](https://arxiv.org/abs/2401.17377)
+- [Ansible Is a Lisp](https://astrid.tech/2024/05/01/0/ansible-is-a-lisp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
