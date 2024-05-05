@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Emerge &lpar;YC W21&rpar; is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
+- [Xmake: A modern C/C++ build tool](https://github.com/xmake-io/xmake)
 - [Time-Based CSS Animations](https://yuanchuan.dev/time-based-css-animations)
+- [Judge mulls sanctions over Google&#39;s &quot;shocking&quot; destruction of internal chats](https://arstechnica.com/tech-policy/2024/05/judge-mulls-sanctions-over-googles-shocking-destruction-of-internal-chats/)
 - [Cylon: JavaScript framework for robotics, drones, and the Internet of Things](https://github.com/hybridgroup/cylon)
-- [Elegant Wind Turbine Blades Made of Wood Can Outperform Composites](https://cleantechnica.com/2024/05/03/elegant-wind-turbine-blades-made-of-wood-can-outperform-composites/)
-- [SEQUOIA: Exact Llama2-70B on an RTX4090 with half-second per-token latency](https://infini-ai-lab.github.io/Sequoia-Page/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
