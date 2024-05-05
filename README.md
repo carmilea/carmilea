@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ancestry caught republishing records without permission from genealogy groups](http://scottishgenes.blogspot.com/2024/05/aberdeenshire-memorial-inscriptions.html)
-- [Small Things](https://rishad.substack.com/p/small-things)
-- [Let insects eat your plants](https://www.bbc.com/future/article/20240503-why-you-should-let-insects-eat-your-plants)
-- [First &#39;tooth regrowth medicine&#39; to be tested in Japan from Sept. 2024](https://mainichi.jp/english/articles/20240503/p2a/00m/0sc/012000c)
-- [Machine unlearning: ML model minus the information to be unlearned](https://ai.stanford.edu/~kzliu/blog/unlearning)
+- [Infisical Is Hiring Software Engineers to Build Open-Source Security DevTools](https://infisical.com/careers)
+- [Al Jazeera condemns Israeli government decision to shut down channel](https://www.aljazeera.com/news/2024/5/5/netanyahu-government-votes-to-close-al-jazeera-channel-in-israel)
+- [How to style React applications while the world burns around us](https://herbcaudill.com/words/20201007-style-react-app)
+- [ESP32-S3 has &lpar;a few&rpar; SIMD instructions](https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html)
+- [Aberdeenshire memorial inscriptions records removed from Ancestry](http://scottishgenes.blogspot.com/2024/05/aberdeenshire-memorial-inscriptions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
