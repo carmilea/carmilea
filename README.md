@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sequoia: Serving exact Llama2-70B on an RTX4090 with 1/2 s per token](https://infini-ai-lab.github.io/Sequoia-Page/)
-- [How to Move the Largest Camera from California Lab to Andes Mountaintop](https://www.scientificamerican.com/article/how-to-move-the-worlds-largest-camera-from-a-california-lab-to-an-andes/)
-- [Preliminary Macintosh Business Plan &lpar;12 July 1981&rpar; [pdf]](http://archive.computerhistory.org/resources/text/2009/102712692.05.01acc.pdf)
-- [Dick Rutan, pilot of the first nonstop around-the-world flight, has died](https://www.independent.co.uk/news/ap-voyager-ronald-reagan-california-idaho-b2539832.html)
-- [Vera Rubin&#39;s primary mirror gets its first reflective coating](https://www.universetoday.com/166842/vera-rubins-primary-mirror-gets-its-first-reflective-coating/)
+- [Ghosts in the Machine 2 [video]](https://www.youtube.com/watch?v=V6hu83yVMlU)
+- [SEQUOIA: Exact Llama2-70B on an RTX4090 with half-second per-token latency](https://infini-ai-lab.github.io/Sequoia-Page/)
+- [Moving the largest camera from California lab to Andes mountaintop](https://www.scientificamerican.com/article/how-to-move-the-worlds-largest-camera-from-a-california-lab-to-an-andes/)
+- [Automated integer hash function discovery](https://github.com/skeeto/hash-prospector)
+- [Why US renters are taking corporate landlords to court](https://www.cnbc.com/2024/02/03/realpage-antitrust-lawsuits-allege-collusion-among-corporate-landlords.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
