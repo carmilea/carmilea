@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bollards: Why and What](https://josh.works/bollards)
+- [Alert for Social Engineering Takeovers of Open Source Projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
 - [Israel shuts down local Al Jazeera offices](https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media)
-- [German government: Cyberattacks originate from Russian military intelligence](https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2024/05/schutzmassnahmen-cyberangriffe.html)
-- [Designing furniture using the CSS grid &lpar;2023&rpar;](https://alnvdl.github.io/2023/01/07/designing-furniture-using-the-css-grid.html)
-- [Flying planes in Microsoft Flight Simulator with a JavaScript autopilot &lpar;2023&rpar;](https://pomax.github.io/are-we-flying/)
+- [TheDesk Desktop Environment](https://github.com/theCheeseboard/thedesk)
+- [Tasmota: Open-source firmware for ESP devices](https://tasmota.github.io/docs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
