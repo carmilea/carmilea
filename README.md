@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Megaconstellations like SpaceX&#39;s could weaken Earth&#39;s magnetic field, atmosphere](https://www.livescience.com/space/space-exploration/controversial-paper-claims-satellite-megaconstellations-like-spacexs-could-weaken-earths-magnetic-field-and-cause-atmospheric-stripping-should-we-be-worried)
+- [Judge mulls sanctions over Google&#39;s &quot;shocking&quot; destruction of internal chats](https://arstechnica.com/tech-policy/2024/05/judge-mulls-sanctions-over-googles-shocking-destruction-of-internal-chats/)
+- [Cylon: JavaScript framework for robotics, drones, and the Internet of Things](https://github.com/hybridgroup/cylon)
+- [Elegant Wind Turbine Blades Made of Wood Can Outperform Composites](https://cleantechnica.com/2024/05/03/elegant-wind-turbine-blades-made-of-wood-can-outperform-composites/)
 - [Ghosts in the Machine 2 [video]](https://www.youtube.com/watch?v=V6hu83yVMlU)
-- [SEQUOIA: Exact Llama2-70B on an RTX4090 with half-second per-token latency](https://infini-ai-lab.github.io/Sequoia-Page/)
-- [Moving the largest camera from California lab to Andes mountaintop](https://www.scientificamerican.com/article/how-to-move-the-worlds-largest-camera-from-a-california-lab-to-an-andes/)
-- [Automated integer hash function discovery](https://github.com/skeeto/hash-prospector)
-- [Why US renters are taking corporate landlords to court](https://www.cnbc.com/2024/02/03/realpage-antitrust-lawsuits-allege-collusion-among-corporate-landlords.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
