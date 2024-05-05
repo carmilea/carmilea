@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ancestry caught republishing records without permission from genealogy groups](http://scottishgenes.blogspot.com/2024/05/aberdeenshire-memorial-inscriptions.html)
+- [Small Things](https://rishad.substack.com/p/small-things)
+- [Let insects eat your plants](https://www.bbc.com/future/article/20240503-why-you-should-let-insects-eat-your-plants)
+- [First &#39;tooth regrowth medicine&#39; to be tested in Japan from Sept. 2024](https://mainichi.jp/english/articles/20240503/p2a/00m/0sc/012000c)
 - [Machine unlearning: ML model minus the information to be unlearned](https://ai.stanford.edu/~kzliu/blog/unlearning)
-- [A History of C Compilers – Part 1: Performance, Portability and Freedom](https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance)
-- [Take a look at traefik, even if you don&#39;t use containers](https://j6b72.de/article/why-you-should-take-a-look-at-traefik/)
-- [Debian 64-bit-time transition](https://wiki.debian.org/ReleaseGoals/64bit-time)
-- [Flags Are Not Languages](https://www.flagsarenotlanguages.com/blog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
