@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Emerge &lpar;YC W21&rpar; is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
-- [Xmake: A modern C/C++ build tool](https://github.com/xmake-io/xmake)
-- [Time-Based CSS Animations](https://yuanchuan.dev/time-based-css-animations)
-- [Judge mulls sanctions over Google&#39;s &quot;shocking&quot; destruction of internal chats](https://arstechnica.com/tech-policy/2024/05/judge-mulls-sanctions-over-googles-shocking-destruction-of-internal-chats/)
-- [Cylon: JavaScript framework for robotics, drones, and the Internet of Things](https://github.com/hybridgroup/cylon)
+- [Helldivers 2 Removed from Purchase on Steam in over 150 Countries](https://www.thegamer.com/helldivers-2-delisted-on-steam-100-plus-countries-without-psn-due-to-psn-sign-in-requirement-controversy/)
+- [StoryDiffusion – Using StoryDiffusion Online](https://storydiffusion.net/)
+- [They Live](https://en.wikipedia.org/wiki/They_Live)
+- [Show HN: I built a website to share files and messages without any server](https://neighbor-share.vercel.app/)
+- [Rusty.hpp: A Borrow Checker and Memory Ownership System for C++20](https://github.com/Jaysmito101/rusty.hpp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
