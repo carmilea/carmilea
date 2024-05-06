@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
 - [How LLMs Work, Explained Without Math – Miguel Grinberg](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math)
+- [Increased productivity with a self hosted CRM](https://growcrm.io/)
 - [Remnants of a legendary typeface have been rescued from the Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
-- [X.org on NetBSD – The State of Things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
-- [Drug resistant bacteria found on ISS mutating to become functionally distinct](https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct/)
+- [BlackHole: macOS Audio Loopback Driver](https://github.com/ExistentialAudio/BlackHole)
 <!-- BLOG-POST-LIST:END -->
 
 ---
