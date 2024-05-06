@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Framework Laptop EC Driver Being Prepared for Linux](https://www.phoronix.com/news/Framework-Laptop-EC-Driver)
+- [The One Thing That&#39;s Holding Back the Heat Pump](https://www.wired.com/story/heat-pump-worker-shortage/)
+- [Using DuckDB to seamlessly query a large parquet file over HTTP](https://www.marginalia.nu/log/a_105_duckdb_parquet/)
+- [Attackers Can Decloak Routing-Based VPNs](https://www.leviathansecurity.com/blog/tunnelvision)
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- [Volcanoes and Us &lpar;2015&rpar; [video]](https://www.youtube.com/watch?v=GlNhaAV5NZ4)
-- [New way to have complex discussions](https://cq2.co/blog/the-best-way-to-have-complex-discussions)
-- [Results of the Grand C++ Error Explosion Competition &lpar;2014&rpar;](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
-- [Show HN: Peerdb Streams – Simple, native Postgres change data capture](https://news.ycombinator.com/item?id=40276768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
