@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [AI/ML-Driven Forecasting for Power Demand, Supply &amp; Pricing | SingleStore Webinars](https://www.youtube.com/watch?v=VYfAbrr8WSc)
 - [Unlocking Boundless Innovation with GenAI. #singlestore #database #generativeai #vectordatabase](https://www.youtube.com/watch?v=xmou2oHewl8)
 - [AWS Summit/Paris | AI-Driven Insights: Transforming Product Recommendations with JSON-Vectors-LLMs](https://www.youtube.com/watch?v=AKhnMHYGsD8)
 - [World&#39;s Fastest LLM Apps with Groq &amp; SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=2yKecNuXJHw)
 - [Hands on with SingleStore: The Single Unified database for your data-intensive applications](https://www.youtube.com/watch?v=9-7xopSnExg)
-- [MySQL Hot Data Migration to SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=MlIGoiHXwiw)
 <!-- YOUTUBE:END -->
 
 
