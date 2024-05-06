@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention [video]](https://www.youtube.com/watch?v=dqoEU9Ac3ek)
-- [Results of the Grand C++ Error Explosion Competition](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
-- [Patagonia&#39;s New Study Finds Fleece Jackets Are a Serious Pollutant &lpar;2016&rpar;](https://www.outsideonline.com/outdoor-gear/gear-news/patagonias-new-study-finds-fleece-jackets-are-serious-pollutant/)
+- [Gas and propane stoves linked to 50k cases of childhood asthma, study finds](https://www.nbcnews.com/health/kids-health/gas-stoves-linked-childhood-asthma-study-rcna150241)
+- [Volcanoes and Us &lpar;2015&rpar; [video]](https://www.youtube.com/watch?v=GlNhaAV5NZ4)
+- [New way to have complex discussions](https://cq2.co/blog/the-best-way-to-have-complex-discussions)
+- [Results of the Grand C++ Error Explosion Competition &lpar;2014&rpar;](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Show HN: Peerdb Streams – Simple, native Postgres change data capture](https://news.ycombinator.com/item?id=40276768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
