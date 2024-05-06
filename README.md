@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NYU professors who defended vaping didn&#39;t disclose ties to Juul](https://www.statnews.com/2024/05/06/juul-vaping-advocates-nyu-professors-non-disclosed-conflict-interest/)
 - [Fern &lpar;YC W23&rpar; Is Hiring a Customer-Centric Software Engineer](https://www.ycombinator.com/companies/fern/jobs/KmSsgCu-deployed-engineer)
-- [Preview Builds of the Zed Editor Now Available for Linux](https://zed.dev/releases/preview)
 - [A Useful Productivity Measure for Software Engineering?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
 - [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
-- [Remnants of a legendary typeface have been rescued from the Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
+- [Testing a new version of Stack Overflow Jobs](https://meta.stackexchange.com/questions/399440/testing-a-new-version-of-stack-overflow-jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
