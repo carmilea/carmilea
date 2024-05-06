@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gas and propane stoves linked to 50k cases of childhood asthma, study finds](https://www.nbcnews.com/health/kids-health/gas-stoves-linked-childhood-asthma-study-rcna150241)
+- [VC Says Half of Google Staff Do &#39;No Real Work&#39;](https://www.businessinsider.com/andreessen-horowitz-david-ulevitch-comments-google-employees-managers-fake-work-2024-5)
+- [T2 Linux 24.5 Released for 25 architectures](https://t2sde.org/releases/24.5.html)
+- [Ask HN: What Nonfiction Books Do You Keep Rereading?](https://news.ycombinator.com/item?id=40277933)
 - [Volcanoes and Us &lpar;2015&rpar; [video]](https://www.youtube.com/watch?v=GlNhaAV5NZ4)
 - [New way to have complex discussions](https://cq2.co/blog/the-best-way-to-have-complex-discussions)
-- [Results of the Grand C++ Error Explosion Competition &lpar;2014&rpar;](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
