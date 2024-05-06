@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alan Kay on Donald Knuth](https://twitter.com/fermatslibrary/status/1787105220268380448/photo/1)
+- [X.org on NetBSD – The State of Things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
+- [Drug resistant bacteria found on ISS mutating to become functionally distinct](https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct/)
+- [Deep Reinforcement Learning: Zero to Hero](https://github.com/alessiodm/drl-zh)
 - [&quot;Meta spent almost as much as the Manhattan Project on GPUs in today&#39;s dollars&quot;](https://twitter.com/emollick/status/1786213463456448900)
 - [Bollards: Why and What](https://josh.works/bollards)
-- [Social engineering takeovers of open source projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
-- [Israel shuts down local Al Jazeera offices](https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media)
 <!-- BLOG-POST-LIST:END -->
 
 ---
