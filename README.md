@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Remnants of a Legendary Typeface Have Been Rescued from the River Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
+- [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
+- [Remnants of a legendary typeface have been rescued from the Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
 - [X.org on NetBSD – The State of Things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
 - [Drug resistant bacteria found on ISS mutating to become functionally distinct](https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct/)
 - [Deep Reinforcement Learning: Zero to Hero](https://github.com/alessiodm/drl-zh)
-- [“Meta spent almost as much as the Manhattan Project on GPUs in today&#39;s dollars”](https://twitter.com/emollick/status/1786213463456448900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
