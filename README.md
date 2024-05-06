@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Video: John Maynard Smith Interviewed by Richard Dawkins](https://www.youtube.com/playlist?list=PLVV0r6CmEsFzJSvAc4MBuUP_GrjO1lLHp)
+- [A fourteen-day free trial ain’t gonna cut it](https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/)
+- [Stack Overflow and OpenAI are partnering](https://stackoverflow.co/company/press/archive/openai-partnership/)
+- [How I Think About Debt](https://collabfund.com/blog/how-i-think-about-debt/)
 - [NYU professors who defended vaping didn&#39;t disclose ties to Juul](https://www.statnews.com/2024/05/06/juul-vaping-advocates-nyu-professors-non-disclosed-conflict-interest/)
-- [Fern &lpar;YC W23&rpar; Is Hiring a Customer-Centric Software Engineer](https://www.ycombinator.com/companies/fern/jobs/KmSsgCu-deployed-engineer)
-- [A Useful Productivity Measure for Software Engineering?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
-- [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
-- [Testing a new version of Stack Overflow Jobs](https://meta.stackexchange.com/questions/399440/testing-a-new-version-of-stack-overflow-jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
