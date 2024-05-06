@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Framework Laptop EC Driver Being Prepared for Linux](https://www.phoronix.com/news/Framework-Laptop-EC-Driver)
-- [The One Thing That&#39;s Holding Back the Heat Pump](https://www.wired.com/story/heat-pump-worker-shortage/)
-- [Using DuckDB to seamlessly query a large parquet file over HTTP](https://www.marginalia.nu/log/a_105_duckdb_parquet/)
+- [Boeing faces new probe over 787 inspection doubts](https://www.bbc.com/news/business-68966894)
+- [More than 100 arrested in Spain in $900k WhatsApp scheme](https://therecord.media/spain-arrests-whatsapp-impersonation-scams)
 - [Attackers Can Decloak Routing-Based VPNs](https://www.leviathansecurity.com/blog/tunnelvision)
+- [An infinite canvas for code exploration](https://territory.dev)
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 <!-- BLOG-POST-LIST:END -->
 
