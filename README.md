@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remnants of a Legendary Typeface Have Been Rescued from the River Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
+- [Habeck files: German government deception about the nuclear phase-out](https://www.planet-today.com/2024/04/the-secret-habeck-files-how-german.html)
 - [X.org on NetBSD – The State of Things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
 - [Drug resistant bacteria found on ISS mutating to become functionally distinct](https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct/)
 - [Deep Reinforcement Learning: Zero to Hero](https://github.com/alessiodm/drl-zh)
-- [&quot;Meta spent almost as much as the Manhattan Project on GPUs in today&#39;s dollars&quot;](https://twitter.com/emollick/status/1786213463456448900)
-- [Bollards: Why and What](https://josh.works/bollards)
 <!-- BLOG-POST-LIST:END -->
 
 ---
