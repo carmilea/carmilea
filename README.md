@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Video: John Maynard Smith Interviewed by Richard Dawkins](https://www.youtube.com/playlist?list=PLVV0r6CmEsFzJSvAc4MBuUP_GrjO1lLHp)
+- [JTAG Hacking with a Raspberry Pi – Introducing the PiFex](https://voidstarsec.com/blog/jtag-pifex)
 - [A fourteen-day free trial ain’t gonna cut it](https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/)
 - [Stack Overflow and OpenAI are partnering](https://stackoverflow.co/company/press/archive/openai-partnership/)
 - [How I Think About Debt](https://collabfund.com/blog/how-i-think-about-debt/)
-- [NYU professors who defended vaping didn&#39;t disclose ties to Juul](https://www.statnews.com/2024/05/06/juul-vaping-advocates-nyu-professors-non-disclosed-conflict-interest/)
+- [Anduril Announces Pulsar Family of AI-Enabled Electromagnetic Warfare Systems](https://www.anduril.com/article/anduril-announces-pulsar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
