@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evaluating bias and noise induced by the U.S. Census Bureau&#39;s privacy protection](https://www.science.org/doi/10.1126/sciadv.adl2524)
 - [JTAG Hacking with a Raspberry Pi – Introducing the PiFex](https://voidstarsec.com/blog/jtag-pifex)
 - [A fourteen-day free trial ain’t gonna cut it](https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/)
 - [Stack Overflow and OpenAI are partnering](https://stackoverflow.co/company/press/archive/openai-partnership/)
-- [How I Think About Debt](https://collabfund.com/blog/how-i-think-about-debt/)
-- [Anduril Announces Pulsar Family of AI-Enabled Electromagnetic Warfare Systems](https://www.anduril.com/article/anduril-announces-pulsar/)
+- [Daniel Dennett: &#39;Where Am I?&#39;](https://thereader.mitpress.mit.edu/daniel-dennett-where-am-i/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
