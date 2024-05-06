@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention [video]](https://www.youtube.com/watch?v=dqoEU9Ac3ek)
+- [Results of the Grand C++ Error Explosion Competition](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
+- [Patagonia&#39;s New Study Finds Fleece Jackets Are a Serious Pollutant &lpar;2016&rpar;](https://www.outsideonline.com/outdoor-gear/gear-news/patagonias-new-study-finds-fleece-jackets-are-serious-pollutant/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [German public broadcasters open source their streaming platforms](https://www.heise.de/en/news/ARD-und-ZDF-wollen-ihren-Streaming-Code-als-Open-Source-anbieten-9709177.html)
-- [Ask HN: How to do simple heartbeat monitoring?](https://news.ycombinator.com/item?id=40276687)
-- [Thorn in a HaizeStack test for evaluating long-context adversarial robustness](https://github.com/haizelabs/thorn-in-haizestack)
-- [Spending an afternoon in the Sizewell control-room simulator](https://www.bentasker.co.uk/posts/blog/general/an-afternoon-in-sizewell-b-control-room-simulator.html)
+- [Show HN: Peerdb Streams – Simple, native Postgres change data capture](https://news.ycombinator.com/item?id=40276768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
