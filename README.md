@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VC Says Half of Google Staff Do &#39;No Real Work&#39;](https://www.businessinsider.com/andreessen-horowitz-david-ulevitch-comments-google-employees-managers-fake-work-2024-5)
-- [T2 Linux 24.5 Released for 25 architectures](https://t2sde.org/releases/24.5.html)
-- [Ask HN: What Nonfiction Books Do You Keep Rereading?](https://news.ycombinator.com/item?id=40277933)
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 - [Volcanoes and Us &lpar;2015&rpar; [video]](https://www.youtube.com/watch?v=GlNhaAV5NZ4)
 - [New way to have complex discussions](https://cq2.co/blog/the-best-way-to-have-complex-discussions)
+- [Results of the Grand C++ Error Explosion Competition &lpar;2014&rpar;](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
+- [Show HN: Peerdb Streams – Simple, native Postgres change data capture](https://news.ycombinator.com/item?id=40276768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
