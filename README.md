@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fern &lpar;YC W23&rpar; Is Hiring a Customer-Centric Software Engineer](https://www.ycombinator.com/companies/fern/jobs/KmSsgCu-deployed-engineer)
+- [Preview Builds of the Zed Editor Now Available for Linux](https://zed.dev/releases/preview)
+- [A Useful Productivity Measure for Software Engineering?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
 - [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
-- [How LLMs Work, Explained Without Math](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math)
 - [Remnants of a legendary typeface have been rescued from the Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
-- [BlackHole: macOS Audio Loopback Driver](https://github.com/ExistentialAudio/BlackHole)
-- [X.org on NetBSD – The State of Things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
 <!-- BLOG-POST-LIST:END -->
 
 ---
