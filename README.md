@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Unveils New iPad Pro](https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/)
-- [Final Cut Pro transforms video creation with Live Multicam, new AI features](https://www.apple.com/newsroom/2024/05/final-cut-pro-transforms-video-creation-with-live-multicam-on-ipad-and-new-ai-features-on-mac/)
-- [Apple unveils the redesigned 11-inch and all-new 13-inch iPad Air](https://www.apple.com/newsroom/2024/05/apple-unveils-the-redesigned-11-inch-and-all-new-13-inch-ipad-air-with-m2/)
-- [Apple Introduces M4 Chip](https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/)
-- [Why We Migrated Our Local Environment From MinIO to LocalStack](https://www.singlestore.com/blog/migrating-from-minio-to-localstack)
+- [The Curious Case of Eriogonum Tiehmii](https://www.uvm.edu/cals/plantbiology/curious-case-eriogonum-tiehmii)
+- [Road resurfacing during the daytime without stopping traffic [video]](https://www.youtube.com/watch?v=ymyIEGRw4-U)
+- [Linux When?](https://zed.dev/blog/zed-decoded-linux-when)
+- [J.G. Ballard predicted the rise of social media &lpar;2016&rpar;](https://www.openculture.com/2016/03/j-g-ballard-predicted-the-rise-of-social-media-and-youtube-celebrity-in-1977.html)
+- [Giant batteries are transforming the way the U.S. uses electricity](https://www.nytimes.com/interactive/2024/05/07/climate/battery-electricity-solar-california-texas.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
