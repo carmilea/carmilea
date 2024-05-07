@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Fit APIs get shut down in 2025, might break fitness devices](https://arstechnica.com/gadgets/2024/05/google-fit-apis-get-shut-down-in-2025-might-break-fitness-devices/)
-- [CodeCrafters &lpar;YC S22&rpar; Is Hiring Asia-Based SDRs / BDRs](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-sdr-for-enterprise-influencer-partnerships-manager)
-- [GCC 14.1](https://gcc.gnu.org/gcc-14/)
-- [We&#39;ve been put in the vibe space](https://vickiboykis.com/2024/05/06/weve-been-put-in-the-vibe-space/)
-- [Utilities for refactoring and upgrading Ruby code based on ASTs](https://github.com/baweaver/refactor)
+- [PermitFlow &lpar;YC W22&rpar; Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow)
+- [Boeing faces new US investigation into &#39;missed&#39; 787 inspections](https://www.theguardian.com/business/article/2024/may/07/boeing-us-investigation-787-inspections-faa)
+- [Microsoft Working on &#39;Far Larger&#39; In-House AI Model](https://www.pymnts.com/artificial-intelligence-2/2024/report-microsoft-working-on-far-larger-in-house-ai-model/)
+- [Pyspread – The Most Pythonic Spreadsheet](https://pyspread.gitlab.io/)
+- [Dotfiles: Unofficial Guide to Dotfiles on GitHub](https://dotfiles.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
