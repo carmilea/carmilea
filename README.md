@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Google, Meta &#39;break&#39; Apple&#39;s device fingerprinting rules](https://www.theregister.com/2024/05/07/apple_fingerprinting_rules/)
 - [New black hole visualization takes viewers beyond the brink](https://phys.org/news/2024-05-black-hole-visualization-viewers-brink.html)
+- [Utilities for refactoring and upgrading Ruby code based on ASTs](https://github.com/baweaver/refactor)
 - [Vets fret as private equity snaps up clinics, pet care companies](https://stateline.org/2024/03/29/vets-fret-as-private-equity-snaps-up-clinics-pet-care-companies/)
 - [Boeing Starliner&#39;s first crewed mission scrubbed](https://techcrunch.com/2024/05/06/boeing-starliners-first-crewed-mission-scrubbed/)
-- [Eli Bendersky: Faster XML Stream Processing in Go &lpar;2019&rpar;](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
