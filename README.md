@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Alexa, Upgrade my App: Integrating Voice AI into Your Strategy | SingleStore Webinars](https://www.youtube.com/watch?v=A6zI5mPb91c)
+- [How to Build GenAI Applications on MySQL Data | SingleStore Webinars](https://www.youtube.com/watch?v=hzvKv_4a2NI)
 - [The Key to Building a Killer App! #singlestore #database  #programming #applicationdevelopment](https://www.youtube.com/watch?v=c0-SEj3hDJg)
 - [Building AI and Real-Time Applications Using Confluent and SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=b-6e7znRI44)
 - [How to Build a Multi-Agent AI App with AutoGen | SingleStore Webinars](https://www.youtube.com/watch?v=_6g5X4EmRBE)
-- [AI/ML-Driven Forecasting for Power Demand, Supply &amp; Pricing | SingleStore Webinars](https://www.youtube.com/watch?v=VYfAbrr8WSc)
-- [Unlocking Boundless Innovation with GenAI. #singlestore #database #generativeai #vectordatabase](https://www.youtube.com/watch?v=xmou2oHewl8)
 <!-- YOUTUBE:END -->
 
 
