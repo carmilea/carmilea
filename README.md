@@ -58,7 +58,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow)
 - [Boeing faces new US investigation into &#39;missed&#39; 787 inspections](https://www.theguardian.com/business/article/2024/may/07/boeing-us-investigation-787-inspections-faa)
-- [Microsoft Working on &#39;Far Larger&#39; In-House AI Model](https://www.pymnts.com/artificial-intelligence-2/2024/report-microsoft-working-on-far-larger-in-house-ai-model/)
+- [1950s Sci-Fi Style Computers, Powered by a Z80, Built in Holland](https://lunduke.locals.com/post/5588902/1950s-sci-fi-style-computers-powered-by-a-z80-built-in-holland)
 - [Pyspread – The Most Pythonic Spreadsheet](https://pyspread.gitlab.io/)
 - [Dotfiles: Unofficial Guide to Dotfiles on GitHub](https://dotfiles.github.io/)
 <!-- BLOG-POST-LIST:END -->
