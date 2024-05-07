@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Grateful Dead&#39;s Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
 - [Show HN: Convert your Containerfile to a bootable OS](https://github.com/containers/podman-desktop-extension-bootc)
+- [Facebook just updated its relationship status with Web Components](https://www.mux.com/blog/facebook-just-updated-it-s-relationship-status-with-web-components)
 - [Road resurfacing during the daytime without stopping traffic [video]](https://www.youtube.com/watch?v=ymyIEGRw4-U)
 - [Linux When?](https://zed.dev/blog/zed-decoded-linux-when)
-- [J.G. Ballard predicted the rise of social media &lpar;2016&rpar;](https://www.openculture.com/2016/03/j-g-ballard-predicted-the-rise-of-social-media-and-youtube-celebrity-in-1977.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
