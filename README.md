@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CodeCrafters &lpar;YC S22&rpar; Is Hiring Asia-Based SDRs / BDRs](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-sdr-for-enterprise-influencer-partnerships-manager)
 - [GCC 14.1 Release](https://gcc.gnu.org/gcc-14/)
 - [We&#39;ve been put in the vibe space](https://vickiboykis.com/2024/05/06/weve-been-put-in-the-vibe-space/)
 - [Google begins enforcement of site reputation abuse policy](https://searchengineland.com/google-begins-enforcement-of-site-reputation-abuse-policy-with-portions-of-sites-being-delisted-440294)
 - [New black hole visualization takes viewers beyond the brink](https://phys.org/news/2024-05-black-hole-visualization-viewers-brink.html)
-- [Boeing Starliner&#39;s first crewed mission scrubbed](https://techcrunch.com/2024/05/06/boeing-starliners-first-crewed-mission-scrubbed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
