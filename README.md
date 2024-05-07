@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Doesn&#39;t Threaten Humanity. Its Owners Do](https://www.scientificamerican.com/article/ai-doesnt-threaten-humanity-its-owners-do/)
+- [Nintendo to announce new console by end of fiscal year](https://twitter.com/nintendocoltd/status/1787736518762881197)
+- [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
 - [ScrapeGraphAI: Web scraping using LLM and direct graph logic](https://scrapegraph-doc.onrender.com/)
 - [The Grateful Dead&#39;s Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
 - [Show HN: Convert your Containerfile to a bootable OS](https://github.com/containers/podman-desktop-extension-bootc)
-- [Facebook just updated its relationship status with Web Components](https://www.mux.com/blog/facebook-just-updated-it-s-relationship-status-with-web-components)
 <!-- BLOG-POST-LIST:END -->
 
 ---
