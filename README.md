@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Curious Case of Eriogonum Tiehmii](https://www.uvm.edu/cals/plantbiology/curious-case-eriogonum-tiehmii)
+- [The $499 Google Pixel 8a is official, with 120 Hz display, 7 years of updates](https://arstechnica.com/gadgets/2024/05/the-499-google-pixel-8a-is-official-with-120-hz-display-7-years-of-updates/)
 - [Road resurfacing during the daytime without stopping traffic [video]](https://www.youtube.com/watch?v=ymyIEGRw4-U)
 - [Linux When?](https://zed.dev/blog/zed-decoded-linux-when)
 - [J.G. Ballard predicted the rise of social media &lpar;2016&rpar;](https://www.openculture.com/2016/03/j-g-ballard-predicted-the-rise-of-social-media-and-youtube-celebrity-in-1977.html)
