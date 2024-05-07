@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nintendo to announce new console by end of fiscal year](https://twitter.com/nintendocoltd/status/1787736518762881197)
+- [Decker: A fantastic reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
+- [IBM Granite: A Family of Open Foundation Models for Code Intelligence](https://github.com/ibm-granite/granite-code-models)
 - [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
 - [ScrapeGraphAI: Web scraping using LLM and direct graph logic](https://scrapegraph-doc.onrender.com/)
 - [The Grateful Dead&#39;s Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
-- [Show HN: Convert your Containerfile to a bootable OS](https://github.com/containers/podman-desktop-extension-bootc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
