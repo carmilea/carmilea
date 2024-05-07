@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Fit APIs get shut down in 2025, might break fitness devices](https://arstechnica.com/gadgets/2024/05/google-fit-apis-get-shut-down-in-2025-might-break-fitness-devices/)
 - [CodeCrafters &lpar;YC S22&rpar; Is Hiring Asia-Based SDRs / BDRs](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-sdr-for-enterprise-influencer-partnerships-manager)
 - [GCC 14.1](https://gcc.gnu.org/gcc-14/)
 - [We&#39;ve been put in the vibe space](https://vickiboykis.com/2024/05/06/weve-been-put-in-the-vibe-space/)
-- [Google begins enforcement of site reputation abuse policy](https://searchengineland.com/google-begins-enforcement-of-site-reputation-abuse-policy-with-portions-of-sites-being-delisted-440294)
 - [Utilities for refactoring and upgrading Ruby code based on ASTs](https://github.com/baweaver/refactor)
 <!-- BLOG-POST-LIST:END -->
 
