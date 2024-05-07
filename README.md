@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Boeing faces new probe over 787 inspection doubts](https://www.bbc.com/news/business-68966894)
+- [Eli Bendersky: Faster XML Stream Processing in Go](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/)
+- [Proton Mail Discloses User Data Leading to Arrest in Spain](https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/)
+- [Caniemail.com – like caniuse but for email content](https://www.caniemail.com/)
 - [More than 100 arrested in Spain in $900k WhatsApp scheme](https://therecord.media/spain-arrests-whatsapp-impersonation-scams)
-- [Attackers Can Decloak Routing-Based VPNs](https://www.leviathansecurity.com/blog/tunnelvision)
-- [An infinite canvas for code exploration](https://territory.dev)
-- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [Attackers can decloak routing-based VPNs](https://www.leviathansecurity.com/blog/tunnelvision)
 <!-- BLOG-POST-LIST:END -->
 
 ---
