@@ -44,7 +44,7 @@
 
 <!-- YOUTUBE:START -->
 - [Building AI and Real-Time Applications Using Confluent and SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=b-6e7znRI44)
-- [How to Build a Multi - Agent AI App with AutoGen | SingleStore Webinars](https://www.youtube.com/watch?v=_6g5X4EmRBE)
+- [How to Build a Multi-Agent AI App with AutoGen | SingleStore Webinars](https://www.youtube.com/watch?v=_6g5X4EmRBE)
 - [AI/ML-Driven Forecasting for Power Demand, Supply &amp; Pricing | SingleStore Webinars](https://www.youtube.com/watch?v=VYfAbrr8WSc)
 - [Unlocking Boundless Innovation with GenAI. #singlestore #database #generativeai #vectordatabase](https://www.youtube.com/watch?v=xmou2oHewl8)
 - [AWS Summit/Paris | AI-Driven Insights: Transforming Product Recommendations with JSON-Vectors-LLMs](https://www.youtube.com/watch?v=AKhnMHYGsD8)
