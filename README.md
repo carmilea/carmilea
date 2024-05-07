@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The $499 Google Pixel 8a is official, with 120 Hz display, 7 years of updates](https://arstechnica.com/gadgets/2024/05/the-499-google-pixel-8a-is-official-with-120-hz-display-7-years-of-updates/)
+- [The Grateful Dead&#39;s Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
+- [Show HN: Convert your Containerfile to a bootable OS](https://github.com/containers/podman-desktop-extension-bootc)
 - [Road resurfacing during the daytime without stopping traffic [video]](https://www.youtube.com/watch?v=ymyIEGRw4-U)
 - [Linux When?](https://zed.dev/blog/zed-decoded-linux-when)
 - [J.G. Ballard predicted the rise of social media &lpar;2016&rpar;](https://www.openculture.com/2016/03/j-g-ballard-predicted-the-rise-of-social-media-and-youtube-celebrity-in-1977.html)
-- [Giant batteries are transforming the way the U.S. uses electricity](https://www.nytimes.com/interactive/2024/05/07/climate/battery-electricity-solar-california-texas.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
