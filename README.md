@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft closes several large Bethesda affiliated game studios](https://www.ign.com/articles/microsoft-closes-redfall-developer-arkane-austin-hifi-rush-developer-tango-gameworks-and-more-in-devastating-cuts-at-bethesda)
-- [Cybertruck Owner Breaks His Finger Trying to Show Vehicle Is Safe](https://gizmodo.com/cybertruck-video-breaks-finger-safe-stick-elon-musk-1851460112)
-- [Show HN: Visual debugger for Rails system tests](https://github.com/stepful/cyperful)
-- [Raspberry Pi Connect](https://www.raspberrypi.com/news/raspberry-pi-connect/)
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow)
+- [Apple Unveils New iPad Pro](https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/)
+- [Final Cut Pro transforms video creation with Live Multicam, new AI features](https://www.apple.com/newsroom/2024/05/final-cut-pro-transforms-video-creation-with-live-multicam-on-ipad-and-new-ai-features-on-mac/)
+- [Apple unveils the redesigned 11-inch and all-new 13-inch iPad Air](https://www.apple.com/newsroom/2024/05/apple-unveils-the-redesigned-11-inch-and-all-new-13-inch-ipad-air-with-m2/)
+- [Apple Introduces M4 Chip](https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/)
+- [Why We Migrated Our Local Environment From MinIO to LocalStack](https://www.singlestore.com/blog/migrating-from-minio-to-localstack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
