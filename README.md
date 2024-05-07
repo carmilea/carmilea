@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Boeing Starliner crewed mission postponed shortly before launch](https://phys.org/news/2024-05-boeing-starliner-crewed-mission-postponed.html)
+- [AI Doesn&#39;t Threaten Humanity. Its Owners Do](https://www.scientificamerican.com/article/ai-doesnt-threaten-humanity-its-owners-do/)
 - [ScrapeGraphAI: Web scraping using LLM and direct graph logic](https://scrapegraph-doc.onrender.com/)
 - [The Grateful Dead&#39;s Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
 - [Show HN: Convert your Containerfile to a bootable OS](https://github.com/containers/podman-desktop-extension-bootc)
