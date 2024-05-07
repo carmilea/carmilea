@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft closes several large Bethesda affiliated game studios](https://www.ign.com/articles/microsoft-closes-redfall-developer-arkane-austin-hifi-rush-developer-tango-gameworks-and-more-in-devastating-cuts-at-bethesda)
+- [Cybertruck Owner Breaks His Finger Trying to Show Vehicle Is Safe](https://gizmodo.com/cybertruck-video-breaks-finger-safe-stick-elon-musk-1851460112)
+- [Show HN: Visual debugger for Rails system tests](https://github.com/stepful/cyperful)
+- [Raspberry Pi Connect](https://www.raspberrypi.com/news/raspberry-pi-connect/)
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow)
-- [Boeing faces new US investigation into &#39;missed&#39; 787 inspections](https://www.theguardian.com/business/article/2024/may/07/boeing-us-investigation-787-inspections-faa)
-- [1950s Sci-Fi Style Computers, Powered by a Z80, Built in Holland](https://lunduke.locals.com/post/5588902/1950s-sci-fi-style-computers-powered-by-a-z80-built-in-holland)
-- [Pyspread – The Most Pythonic Spreadsheet](https://pyspread.gitlab.io/)
-- [Dotfiles: Unofficial Guide to Dotfiles on GitHub](https://dotfiles.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
