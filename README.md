@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Live RAG Agents: Granting LLMs Access to Your Browser &amp; Keyboard](https://www.youtube.com/watch?v=mYk6Ja4vzWw)
 - [Alexa, Upgrade my App: Integrating Voice AI into Your Strategy | SingleStore Webinars](https://www.youtube.com/watch?v=A6zI5mPb91c)
 - [How to Build GenAI Applications on MySQL Data | SingleStore Webinars](https://www.youtube.com/watch?v=hzvKv_4a2NI)
 - [The Key to Building a Killer App! #singlestore #database  #programming #applicationdevelopment](https://www.youtube.com/watch?v=c0-SEj3hDJg)
 - [Building AI and Real-Time Applications Using Confluent and SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=b-6e7znRI44)
-- [How to Build a Multi-Agent AI App with AutoGen | SingleStore Webinars](https://www.youtube.com/watch?v=_6g5X4EmRBE)
 <!-- YOUTUBE:END -->
 
 
