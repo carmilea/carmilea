@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alaska Launches a Chatbot That Hallucinates about Delta Airlines](https://www.alaskaair.com/nls/destination/ec3d7fda-32a9-4bee-8428-882bb87849db)
-- [Google, Meta &#39;break&#39; Apple&#39;s device fingerprinting rules](https://www.theregister.com/2024/05/07/apple_fingerprinting_rules/)
-- [Managers have no human rights](https://yosefk.com/blog/managers-have-no-human-rights.html)
+- [Google SGE Says Drink Urine to Pass Kidney Stones Quickly](https://www.seroundtable.com/google-sge-drink-urine-to-pass-kidney-stones-37339.html)
+- [Spacecraft Takes Close Up Video of the Sun, Revealing Otherworldly Hellscape](https://futurism.com/the-byte/spacecraft-close-up-video-sun)
 - [New black hole visualization takes viewers beyond the brink](https://phys.org/news/2024-05-black-hole-visualization-viewers-brink.html)
 - [Utilities for refactoring and upgrading Ruby code based on ASTs](https://github.com/baweaver/refactor)
+- [Boeing Starliner&#39;s first crewed mission scrubbed](https://techcrunch.com/2024/05/06/boeing-starliners-first-crewed-mission-scrubbed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
