@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Canadian lobby group is promoting &quot;widespread adoption of age verification&quot;](https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada/)
+- [Tesla is being investigated for securities and wire fraud for self-driving claim](https://www.theverge.com/2024/5/8/24151881/tesla-justice-investigation-securities-wire-fraud-self-driving)
+- [Just a Bunch of Scanners &lpar;JBOS?&rpar;](https://sprocketfox.io/xssfox/2024/05/08/jbos/)
 - [Odigos &lpar;YC W23&rpar; Is Hiring Lead DevRel Engineer](https://www.ycombinator.com/companies/keyval/jobs/MOo8djB-lead-devrel-engineer)
-- [&#39;Underwater bicycle&#39; propels swimmers forward at superhuman speed](https://newatlas.com/marine/seabike-swimming-propeller/)
-- [40 years later, a game for the ZX Spectrum will be again broadcast over FM radio](https://www.racunalniski-muzej.si/en/40-years-later-a-game-for-the-zx-spectrum-will-be-once-again-broadcast-over-fm-radio/)
-- [Who Wants to Be a Thousandaire? &lpar;2011&rpar;](https://www.damninteresting.com/who-wants-to-be-a-thousandaire/)
-- [Ointers: A library for representing pointers where bits have been stolen &lpar;2021&rpar;](https://github.com/irrustible/ointers)
+- [TimesFM &lpar;Time Series Foundation Model&rpar; for time-series forecasting](https://github.com/google-research/timesfm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
