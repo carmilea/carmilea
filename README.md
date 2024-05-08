@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Half of Google&#39;s white-collar staff &#39;does no real work,&#39; Silicon Valley VC says](https://qz.com/google-white-collar-staff-andreessen-horowitz-1851460910)
-- [Launch HN: Baselit &lpar;YC W23&rpar; – Automatically Reduce Snowflake Costs](https://news.ycombinator.com/item?id=40299556)
-- [New capacitor with 19-times energy density](https://www.livescience.com/technology/electronics/ev-batteries-could-last-much-longer-thanks-to-new-capacitor-with-19-times-power-density-that-scientists-created-by-mistake)
-- [U.S. libraries are battling high prices for better e-book access](https://www.axios.com/2024/05/06/library-librarians-e-books-license-policies)
-- [Show HN: I made a better Perplexity for developers](https://devv.ai)
+- [Bun &lpar;YC S19&rpar; Is Hiring Systems Engineers in San Francisco](https://apply.workable.com/oven/j/A7A1388873/)
+- [Show HN: I built a non-linear UI for ChatGPT](https://www.grafychat.com)
+- [Steve Albini, Storied Producer and Icon of the Rock Underground, Dies at 61](https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/)
+- [Beautiful Ugly Websites](https://productidentity.co/p/beautiful-ugly-websites)
+- [Tesla bought over $2M worth of Lidar from Luminar](https://www.theverge.com/2024/5/7/24151497/tesla-lidar-luminar-elon-musk-sensor-autonomous)
 <!-- BLOG-POST-LIST:END -->
 
 ---
