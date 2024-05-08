@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Canadian lobby group is promoting &quot;widespread adoption of age verification&quot;](https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada/)
-- [Tesla is being investigated for securities and wire fraud for self-driving claim](https://www.theverge.com/2024/5/8/24151881/tesla-justice-investigation-securities-wire-fraud-self-driving)
-- [Just a Bunch of Scanners &lpar;JBOS?&rpar;](https://sprocketfox.io/xssfox/2024/05/08/jbos/)
-- [Odigos &lpar;YC W23&rpar; Is Hiring Lead DevRel Engineer](https://www.ycombinator.com/companies/keyval/jobs/MOo8djB-lead-devrel-engineer)
-- [TimesFM &lpar;Time Series Foundation Model&rpar; for time-series forecasting](https://github.com/google-research/timesfm)
+- [Half of Google&#39;s white-collar staff &#39;does no real work,&#39; Silicon Valley VC says](https://qz.com/google-white-collar-staff-andreessen-horowitz-1851460910)
+- [Launch HN: Baselit &lpar;YC W23&rpar; – Automatically Reduce Snowflake Costs](https://news.ycombinator.com/item?id=40299556)
+- [New capacitor with 19-times energy density](https://www.livescience.com/technology/electronics/ev-batteries-could-last-much-longer-thanks-to-new-capacitor-with-19-times-power-density-that-scientists-created-by-mistake)
+- [U.S. libraries are battling high prices for better e-book access](https://www.axios.com/2024/05/06/library-librarians-e-books-license-policies)
+- [Show HN: I made a better Perplexity for developers](https://devv.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
