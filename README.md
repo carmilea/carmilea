@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The oceans have broken temperature records every day over the past year](https://www.bbc.co.uk/news/science-environment-68921215)
+- [What do you call a Rust pointer we stole the high bits off? An ointer. &lpar;2021&rpar;](https://github.com/irrustible/ointers)
 - [Hyperworlds – Web Replacement Projects](https://hyperworlds.org/)
 - [The search for easier safe systems programming](https://www.sophiajt.com/search-for-easier-safe-systems-programming/)
 - [Fly.io Infra log: week-by-week record of what the team does](https://fly.io/infra-log/)
