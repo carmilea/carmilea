@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [XLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)
 - [U.S. Rules Apple Illegally Interrogated Staff and Confiscated Union Flyers](https://www.forbes.com/sites/antoniopequenoiv/2024/05/06/us-labor-board-rules-apple-illegally-interrogated-staff-and-confiscated-union-flyers/)
 - [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
 - [Show HN: Serverless collaborative notion-level note editor using CRDT in GO](https://github.com/notebox/nbfm)
 - [Why use ECC? &lpar;2015&rpar;](https://danluu.com/why-ecc/)
-- [No one will read your book](https://www.elysian.press/p/publishing-industry-truth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
