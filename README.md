@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Create Embeddings on Real-Time Data with OpenAI &amp; SingleStore Job Service | SingleStore Webinars](https://www.youtube.com/watch?v=cxtH4sTpYUg)
+- [Using ANN for Vector Search at Speed &amp; Scale &lpar;Demo on AWS&rpar; | SingleStore Webinars](https://www.youtube.com/watch?v=Ldl84K0AoSo)
 - [The Power of Technology Solving Parking Problems with a Mobile App. #singlestore #podcast](https://www.youtube.com/watch?v=J2y0X-UW-xE)
 - [Inventory Management Using AI-based Object\Image Detection | SingleStore Webinars](https://www.youtube.com/watch?v=N_1F3fP8YOk)
 - [Actions in GPTs: Developer Tips, Tricks &amp; Techniques | SIngleStore Webinars](https://www.youtube.com/watch?v=XdraorJCZeo)
-- [Alexa, Upgrade my App: Integrating Voice AI into Your Strategy | SingleStore Webinars](https://www.youtube.com/watch?v=A6zI5mPb91c)
-- [How to Build GenAI Applications on MySQL Data | SingleStore Webinars](https://www.youtube.com/watch?v=hzvKv_4a2NI)
 <!-- YOUTUBE:END -->
 
 
