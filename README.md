@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI: Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
+- [Development Notes from xkcd&#39;s &quot;Machine&quot;](https://chromakode.com/post/xkcd-machine/)
 - [Bun &lpar;YC S19&rpar; Is Hiring Systems Engineers in San Francisco](https://apply.workable.com/oven/j/A7A1388873/)
 - [Show HN: I built a non-linear UI for ChatGPT](https://www.grafychat.com)
 - [Steve Albini, Storied Producer and Icon of the Rock Underground, Dies at 61](https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/)
-- [Beautiful Ugly Websites](https://productidentity.co/p/beautiful-ugly-websites)
-- [Tesla bought over $2M worth of Lidar from Luminar](https://www.theverge.com/2024/5/7/24151497/tesla-lidar-luminar-elon-musk-sensor-autonomous)
 <!-- BLOG-POST-LIST:END -->
 
 ---
