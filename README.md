@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI: Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
+- [SingleStore Wins Five 2024 Top Rated Awards from TrustRadius](https://www.singlestore.com/blog/singlestore-wins-five-2024-top-rated-awards-from-trustradius)
+- [Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
 - [Development Notes from xkcd&#39;s &quot;Machine&quot;](https://chromakode.com/post/xkcd-machine/)
 - [Bun &lpar;YC S19&rpar; Is Hiring Systems Engineers in San Francisco](https://apply.workable.com/oven/j/A7A1388873/)
 - [Show HN: I built a non-linear UI for ChatGPT](https://www.grafychat.com)
-- [Steve Albini, Storied Producer and Icon of the Rock Underground, Dies at 61](https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
