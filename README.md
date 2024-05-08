@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m puzzled how anyone trusts ChatGPT for code](https://news.ycombinator.com/item?id=40302698)
+- [A Portal Connecting NYC to Dublin Opens in Flatiron Today](https://secretnyc.co/the-portal-connecting-nyc-to-dublin/)
+- [Empirical Health &lpar;YC S23&rpar; is hiring engineering leads in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/1PW3OFe-engineering-lead)
+- [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
 - [SingleStore Wins Five 2024 Top Rated Awards from TrustRadius](https://www.singlestore.com/blog/singlestore-wins-five-2024-top-rated-awards-from-trustradius)
-- [Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
-- [Development Notes from xkcd&#39;s &quot;Machine&quot;](https://chromakode.com/post/xkcd-machine/)
-- [Bun &lpar;YC S19&rpar; Is Hiring Systems Engineers in San Francisco](https://apply.workable.com/oven/j/A7A1388873/)
-- [Show HN: I built a non-linear UI for ChatGPT](https://www.grafychat.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
