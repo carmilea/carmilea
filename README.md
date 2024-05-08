@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stack Overflow upset over users deleting answers after OpenAI partnership](https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/)
+- [English learners can now practice speaking on Google Search](https://research.google/blog/english-learners-can-now-practice-speaking-on-search/)
+- [A Scientific Run-Down of Coffee Blooming](https://www.seriouseats.com/perfect-coffee-bubbles-signs-sounds-6824133)
 - [I&#39;m puzzled how anyone trusts ChatGPT for code](https://news.ycombinator.com/item?id=40302698)
-- [A Portal Connecting NYC to Dublin Opens in Flatiron Today](https://secretnyc.co/the-portal-connecting-nyc-to-dublin/)
-- [Empirical Health &lpar;YC S23&rpar; is hiring engineering leads in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/1PW3OFe-engineering-lead)
-- [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
-- [SingleStore Wins Five 2024 Top Rated Awards from TrustRadius](https://www.singlestore.com/blog/singlestore-wins-five-2024-top-rated-awards-from-trustradius)
+- [I worked at SpaceX. It was the most efficient company I&#39;ve ever worked for](https://www.businessinsider.com/what-its-like-work-at-spacex-elon-musk-2024-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
