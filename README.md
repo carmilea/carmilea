@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neighbors Are Retiring in Their 30s. Why Can&#39;t You?](https://www.nytimes.com/2024/05/07/magazine/retire-early-saving.html)
 - [Show HN: Serverless collaborative notion-level note editor using CRDT in GO](https://github.com/notebox/nbfm)
-- [Needle: A DFA Based Regex Library That Compiles to JVM ByteCode](https://justinblank.com/experiments/needle.html)
-- [Unix forking the universe by running IBM&#39;s free online quantum computer](https://parel.es/blog/quantum-dice)
-- [Decker: A fantastic reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
-- [Qt and C++ Trivial Relocation &lpar;Part 1&rpar;](https://www.kdab.com/qt-and-trivial-relocation-part-1/)
+- [Why Use ECC Memory](https://danluu.com/why-ecc/)
+- [No one will read your book](https://www.elysian.press/p/publishing-industry-truth)
+- [US Revokes Intel, Qualcomm Licenses to Sell Chips to Huawei](https://www.msn.com/en-us/money/other/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei/ar-BB1lZqJO)
 <!-- BLOG-POST-LIST:END -->
 
 ---
