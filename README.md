@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [StackOverflow is banning accounts that delete answers in protest against OpenAI](https://m.benui.ca/@ben/112396505994216742)
 - [40 years later, a game for the ZX Spectrum will be again broadcast over FM radio](https://www.racunalniski-muzej.si/en/40-years-later-a-game-for-the-zx-spectrum-will-be-once-again-broadcast-over-fm-radio/)
 - [Who Wants to Be a Thousandaire? &lpar;2011&rpar;](https://www.damninteresting.com/who-wants-to-be-a-thousandaire/)
 - [Ointers: A library for representing pointers where bits have been stolen &lpar;2021&rpar;](https://github.com/irrustible/ointers)
-- [Hyperworlds – Web Replacement Projects](https://hyperworlds.org/)
+- [The search for easier safe systems programming](https://www.sophiajt.com/search-for-easier-safe-systems-programming/)
+- [Fly.io Infra log: week-by-week record of what the team does](https://fly.io/infra-log/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
