@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Odigos &lpar;YC W23&rpar; Is Hiring Lead DevRel Engineer](https://www.ycombinator.com/companies/keyval/jobs/MOo8djB-lead-devrel-engineer)
+- [&#39;Underwater bicycle&#39; propels swimmers forward at superhuman speed](https://newatlas.com/marine/seabike-swimming-propeller/)
 - [40 years later, a game for the ZX Spectrum will be again broadcast over FM radio](https://www.racunalniski-muzej.si/en/40-years-later-a-game-for-the-zx-spectrum-will-be-once-again-broadcast-over-fm-radio/)
 - [Who Wants to Be a Thousandaire? &lpar;2011&rpar;](https://www.damninteresting.com/who-wants-to-be-a-thousandaire/)
 - [Ointers: A library for representing pointers where bits have been stolen &lpar;2021&rpar;](https://github.com/irrustible/ointers)
-- [The search for easier safe systems programming](https://www.sophiajt.com/search-for-easier-safe-systems-programming/)
-- [Fly.io Infra log: week-by-week record of what the team does](https://fly.io/infra-log/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
