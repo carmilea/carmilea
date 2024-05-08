@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Using AWS Bedrock &amp; LangChain for Private LLM App Dev | SingleStore Webinars](https://www.youtube.com/watch?v=jyKcWLcJH_c)
 - [Real-Time AI with Kafka and Streaming Data Analytics | SingleStore Webinars](https://www.youtube.com/watch?v=3XBavtnr9NY)
 - [Create Embeddings on Real-Time Data with OpenAI &amp; SingleStore Job Service | SingleStore Webinars](https://www.youtube.com/watch?v=cxtH4sTpYUg)
 - [Using ANN for Vector Search at Speed &amp; Scale &lpar;Demo on AWS&rpar; | SingleStore Webinars](https://www.youtube.com/watch?v=Ldl84K0AoSo)
 - [The Power of Technology Solving Parking Problems with a Mobile App. #singlestore #podcast](https://www.youtube.com/watch?v=J2y0X-UW-xE)
-- [Inventory Management Using AI-based Object\Image Detection | SingleStore Webinars](https://www.youtube.com/watch?v=N_1F3fP8YOk)
 <!-- YOUTUBE:END -->
 
 
