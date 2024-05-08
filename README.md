@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Serverless collaborative notion-level note editor using CRDT in GO](https://github.com/notebox/nbfm)
 - [Needle: A DFA Based Regex Library That Compiles to JVM ByteCode](https://justinblank.com/experiments/needle.html)
-- [Product Roadmap](https://bsky.social/about/blog/05-07-2024-product-roadmap)
 - [Unix forking the universe by running IBM&#39;s free online quantum computer](https://parel.es/blog/quantum-dice)
 - [Decker: A fantastic reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
 - [Qt and C++ Trivial Relocation &lpar;Part 1&rpar;](https://www.kdab.com/qt-and-trivial-relocation-part-1/)
