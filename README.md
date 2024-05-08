@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Neighbors Are Retiring in Their 30s. Why Can&#39;t You?](https://www.nytimes.com/2024/05/07/magazine/retire-early-saving.html)
+- [U.S. Rules Apple Illegally Interrogated Staff and Confiscated Union Flyers](https://www.forbes.com/sites/antoniopequenoiv/2024/05/06/us-labor-board-rules-apple-illegally-interrogated-staff-and-confiscated-union-flyers/)
+- [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
 - [Show HN: Serverless collaborative notion-level note editor using CRDT in GO](https://github.com/notebox/nbfm)
-- [Why Use ECC Memory](https://danluu.com/why-ecc/)
+- [Why use ECC? &lpar;2015&rpar;](https://danluu.com/why-ecc/)
 - [No one will read your book](https://www.elysian.press/p/publishing-industry-truth)
-- [US Revokes Intel, Qualcomm Licenses to Sell Chips to Huawei](https://www.msn.com/en-us/money/other/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei/ar-BB1lZqJO)
 <!-- BLOG-POST-LIST:END -->
 
 ---
