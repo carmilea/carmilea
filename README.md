@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stack Overflow Community Is Not Happy with the OpenAI Deal](https://favtutor.com/articles/stack-overflow-community-not-happy-openai/)
+- [FDA recalls defective iOS app that injured over 200 insulin pump users](https://www.theverge.com/2024/5/9/24152633/fda-recall-tandem-diabetes-care-insulin-pump-mobile-app)
 - [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
 - [Show HN: Browser-based knitting &lpar;pattern&rpar; software](https://github.com/alefore/knit)
-- [Boeing 737 crashes during take-off in Senegal](https://www.bbc.co.uk/news/articles/ce5ljpnggp4o)
-- [Dell responds to return-to-office resistance with VPN, badge tracking](https://arstechnica.com/information-technology/2024/05/dell-to-monitor-worker-vpn-use-badge-swipes-to-enforce-office-policy/)
+- [Xilinx HBM2 Internals](https://lovehindpa.ws/posts/xilinx-hbm2/)
+- [UTC, Tai, and Unix Time &lpar;2001&rpar;](https://cr.yp.to/proto/utctai.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
