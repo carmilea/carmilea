@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Neuralink&#39;s First Human Brain-Chip Implant Appeared Flawless,There Was a Problem](https://www.wsj.com/tech/neuralinks-first-brain-chip-implant-in-a-human-appeared-flawless-there-was-a-problem-637f1adc)
-- [The new REPL in Python 3.13](https://treyhunner.com/2024/05/my-favorite-python-3-dot-13-feature/)
-- [AI comes for YouTube&#39;s thumbnail industry](https://restofworld.org/2023/youtube-thumbnail-ai/)
-- [Show HN: An open source alternative to some of Slack AI&#39;s premium features](https://github.com/meetbryce/open-source-slack-ai)
-- [Launch HN: Muddy &lpar;YC S19&rpar; – Multiplayer browser for getting work done](https://news.ycombinator.com/item?id=40309342)
+- [Freshpaint &lpar;YC S19&rpar; is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [Andrew Huberman&#39;s Claims About Cannabis Annoy Drug Experts](https://www.rollingstone.com/culture/culture-features/andrew-huberman-cannabis-misinformation-slammed-by-experts-1235016613/)
+- [Hertz Charged Member $277 for Not Filling Gas Tank on a Tesla, Won&#39;t Remove Fees](https://viewfromthewing.com/hertz-charged-presidents-circle-member-277-for-not-filling-gas-tank-on-a-tesla-wont-remove-fees/)
+- [Tesla Quietly Removes All U.S. Job Postings](https://gizmodo.com/tesla-hiring-freeze-job-postings-elon-musk-layoffs-1851464758)
+- [Leaked FBI Email Reportedly Shows Desperation to Justify Warrantless Wiretaps](https://gizmodo.com/leaked-fbi-email-warrantless-wiretaps-section-702-1851464520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
