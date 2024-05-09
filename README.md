@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CodeStory &lpar;YC S23&rpar; Is Hiring a Founding Engineer for Building AI-Native IDE](https://www.workatastartup.com/companies/codestory)
-- [Disaster Recovery with ZFS and Zrepl](https://chromakode.com/post/zfs-recovery-with-zrepl/)
-- [An Unusual Furniture Design Niche: Behind-the-Sofa Consoles](https://www.core77.com/posts/132116/An-Unusual-Furniture-Design-Niche-Behind-the-Sofa-Consoles)
 - [The Time I Lied to the CTO and Saved the Day](https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/)
 - [Opening Windows in Linux with sockets, bare hands and 200 lines of C](https://hereket.com/posts/from-scratch-x11-windowing/)
+- [A Man Who Raced to Tell the World That Mount Everest Had Been Climbed](https://www.outsideonline.com/outdoor-adventure/everest/everest-hillary-norgay-1953-news/)
+- [Securing Git Repositories with Gittuf](https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
