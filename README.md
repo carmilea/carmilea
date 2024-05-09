@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft PlayReady – Complete Client Identity Compromise](https://seclists.org/fulldisclosure/2024/May/5)
-- [VideoPrism: A foundational visual encoder for video understanding](https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/)
-- [No &quot;Zero-Shot&quot; Without Exponential Data](https://arxiv.org/abs/2404.04125)
-- [Exploring HN by mapping and analyzing 40M posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
-- [Show HN: An SQS Alternative on Postgres](https://github.com/tembo-io/pgmq)
+- [Neuralink&#39;s First Human Brain-Chip Implant Appeared Flawless,There Was a Problem](https://www.wsj.com/tech/neuralinks-first-brain-chip-implant-in-a-human-appeared-flawless-there-was-a-problem-637f1adc)
+- [The new REPL in Python 3.13](https://treyhunner.com/2024/05/my-favorite-python-3-dot-13-feature/)
+- [AI comes for YouTube&#39;s thumbnail industry](https://restofworld.org/2023/youtube-thumbnail-ai/)
+- [Show HN: An open source alternative to some of Slack AI&#39;s premium features](https://github.com/meetbryce/open-source-slack-ai)
+- [Launch HN: Muddy &lpar;YC S19&rpar; – Multiplayer browser for getting work done](https://news.ycombinator.com/item?id=40309342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
