@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Match looks to Hinge as Tinder fails](https://techcrunch.com/2024/05/08/match-looks-to-hinge-as-tinder-fails-q1-2024/)
+- [Ask HN: Feels like Search results is weird on Google, You too?](https://news.ycombinator.com/item?id=40305614)
+- [An Unusual Furniture Design Niche: Behind-the-Sofa Consoles](https://www.core77.com/posts/132116/An-Unusual-Furniture-Design-Niche-Behind-the-Sofa-Consoles)
 - [Shell sold carbon credits for carbon that was never captured](https://www.cbc.ca/news/climate/shell-greenpeace-quest-1.7196792)
 - [The Time I Lied to the CTO and Saved the Day](https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/)
-- [Opening Windows in Linux with sockets, bare hands and 200 lines of C](https://hereket.com/posts/from-scratch-x11-windowing/)
-- [Securing Git Repositories with Gittuf](https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/)
-- [Show HN: SimBricks – Modular Full-System Simulation for HW-SW Systems](https://simbricks.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
