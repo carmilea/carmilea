@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Woman Who Showed President Biden ChatGPT](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/)
 - [Freshpaint &lpar;YC S19&rpar; is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 - [Andrew Huberman&#39;s Claims About Cannabis Annoy Drug Experts](https://www.rollingstone.com/culture/culture-features/andrew-huberman-cannabis-misinformation-slammed-by-experts-1235016613/)
-- [Hertz Charged Member $277 for Not Filling Gas Tank on a Tesla, Won&#39;t Remove Fees](https://viewfromthewing.com/hertz-charged-presidents-circle-member-277-for-not-filling-gas-tank-on-a-tesla-wont-remove-fees/)
-- [Tesla Quietly Removes All U.S. Job Postings](https://gizmodo.com/tesla-hiring-freeze-job-postings-elon-musk-layoffs-1851464758)
-- [Leaked FBI Email Reportedly Shows Desperation to Justify Warrantless Wiretaps](https://gizmodo.com/leaked-fbi-email-warrantless-wiretaps-section-702-1851464520)
+- [Leaked Deck Reveals How OpenAI Is Pitching Publisher Partnerships](https://www.adweek.com/media/openai-preferred-publisher-program-deck/)
+- [Buckets of Parquet Files Are Awful](https://scratchdata.com/blog/bucketful-of-parquet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
