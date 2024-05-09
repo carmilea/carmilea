@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Llama 2 vs Mistral for Fully-Private GenAI Apps | SingleStore Webinars](https://www.youtube.com/watch?v=2YitA6vbZ6I)
 - [AutoCAD Revolutionising Design Process for Buildings, Products, and More!  #singlestore](https://www.youtube.com/watch?v=OysyH0Wwjzs)
 - [Transforming City Life Solving Parking Congestion for a Better Urban Experience!  #singlestore](https://www.youtube.com/watch?v=cu58dGGRXbo)
 - [Using AWS Bedrock &amp; LangChain for Private LLM App Dev | SingleStore Webinars](https://www.youtube.com/watch?v=jyKcWLcJH_c)
 - [Real-Time AI with Kafka and Streaming Data Analytics | SingleStore Webinars](https://www.youtube.com/watch?v=3XBavtnr9NY)
-- [Create Embeddings on Real-Time Data with OpenAI &amp; SingleStore Job Service | SingleStore Webinars](https://www.youtube.com/watch?v=cxtH4sTpYUg)
 <!-- YOUTUBE:END -->
 
 
