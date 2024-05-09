@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla is under a federal wire fraud probe for misleading investors](https://arstechnica.com/cars/2024/05/teslas-self-driving-claims-subject-to-federal-securities-and-wire-fraud-probe/)
+- [For You, but Forever Alone: How TikTok&#39;s Algorithm Fuels Loneliness](https://arnabg.substack.com/p/the-loneliness-epidemic)
+- [In software architecture you have to recognize when you&#39;re adding a rocket stage](https://toot.cat/@plexus/112403882840794498)
+- [Xilinx HBM2 Internals](https://lovehindpa.ws/posts/xilinx-hbm2/)
 - [Libyear](https://libyear.com/)
-- [UTC, Tai, and Unix Time](https://cr.yp.to/proto/utctai.html)
-- [Tracking Illicit Brazilian Beef from the Amazon to Your Burger](https://e360.yale.edu/features/marcel-gomes-interview)
-- [CodeStory &lpar;YC S23&rpar; Is Hiring a Founding Engineer for Building AI-Native IDE](https://www.workatastartup.com/companies/codestory)
-- [The Time I Lied to the CTO and Saved the Day](https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
