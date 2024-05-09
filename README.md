@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft PlayReady – Complete Client Identity Compromise](https://seclists.org/fulldisclosure/2024/May/5)
-- [Civic Honesty Around the Globe &lpar;2019&rpar; [pdf]](https://davetannenbaum.github.io/documents/Cohn2019.pdf)
-- [Microsoft employees spent years fighting the tech giant&#39;s oil ties](https://grist.org/accountability/microsoft-employees-spent-years-fighting-the-tech-giants-oil-ties-now-theyre-speaking-out/)
 - [VideoPrism: A foundational visual encoder for video understanding](https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/)
-- [Walkthrough of a Minimal Vision Transformer &lpar;ViT&rpar;](https://dmicz.github.io/machine-learning/minvit/)
+- [No &quot;Zero-Shot&quot; Without Exponential Data](https://arxiv.org/abs/2404.04125)
+- [Exploring HN by mapping and analyzing 40M posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
+- [Show HN: An SQS Alternative on Postgres](https://github.com/tembo-io/pgmq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
