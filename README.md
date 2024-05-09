@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FDA recalls defective iOS app that injured over 200 insulin pump users](https://www.theverge.com/2024/5/9/24152633/fda-recall-tandem-diabetes-care-insulin-pump-mobile-app)
-- [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
-- [Show HN: Browser-based knitting &lpar;pattern&rpar; software](https://github.com/alefore/knit)
-- [Xilinx HBM2 Internals](https://lovehindpa.ws/posts/xilinx-hbm2/)
-- [UTC, Tai, and Unix Time &lpar;2001&rpar;](https://cr.yp.to/proto/utctai.html)
+- [Microsoft PlayReady – Complete Client Identity Compromise](https://seclists.org/fulldisclosure/2024/May/5)
+- [Civic Honesty Around the Globe &lpar;2019&rpar; [pdf]](https://davetannenbaum.github.io/documents/Cohn2019.pdf)
+- [Microsoft employees spent years fighting the tech giant&#39;s oil ties](https://grist.org/accountability/microsoft-employees-spent-years-fighting-the-tech-giants-oil-ties-now-theyre-speaking-out/)
+- [VideoPrism: A foundational visual encoder for video understanding](https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/)
+- [Walkthrough of a Minimal Vision Transformer &lpar;ViT&rpar;](https://dmicz.github.io/machine-learning/minvit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
