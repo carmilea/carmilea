@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No Country Should Be Making Speech Rules for the World](https://www.eff.org/deeplinks/2024/05/no-country-should-be-making-speech-rules-world)
 - [Cubic millimetre of brain mapped in spectacular detail](https://www.nature.com/articles/d41586-024-01387-9)
 - [Sioyek is a PDF viewer with a focus on textbooks and research papers](https://github.com/ahrm/sioyek)
+- [Protobuf Editions are here: don&#39;t panic](https://buf.build/blog/protobuf-editions-are-here)
 - [Being Green: A new book marvels at the strangeness of plants](https://slate.com/culture/2024/05/light-eaters-zoe-schlanger-book-plant-intelligence.html)
-- [How bad are satellite megaconstellations for astronomy?](https://www.leonarddavid.com/blinded-by-the-light-megaconstellation-clash-with-astronomical-peer-groups/)
-- [The Ridiculous History of &#39;OK&#39;](https://people.howstuffworks.com/history-ok.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
