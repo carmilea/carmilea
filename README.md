@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla is under a federal wire fraud probe for misleading investors](https://arstechnica.com/cars/2024/05/teslas-self-driving-claims-subject-to-federal-securities-and-wire-fraud-probe/)
-- [For You, but Forever Alone: How TikTok&#39;s Algorithm Fuels Loneliness](https://arnabg.substack.com/p/the-loneliness-epidemic)
-- [In software architecture you have to recognize when you&#39;re adding a rocket stage](https://toot.cat/@plexus/112403882840794498)
-- [Xilinx HBM2 Internals](https://lovehindpa.ws/posts/xilinx-hbm2/)
-- [Libyear](https://libyear.com/)
+- [Stack Overflow Community Is Not Happy with the OpenAI Deal](https://favtutor.com/articles/stack-overflow-community-not-happy-openai/)
+- [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
+- [Show HN: Browser-based knitting &lpar;pattern&rpar; software](https://github.com/alefore/knit)
+- [Boeing 737 crashes during take-off in Senegal](https://www.bbc.co.uk/news/articles/ce5ljpnggp4o)
+- [Dell responds to return-to-office resistance with VPN, badge tracking](https://arstechnica.com/information-technology/2024/05/dell-to-monitor-worker-vpn-use-badge-swipes-to-enforce-office-policy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
