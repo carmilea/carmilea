@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How to Build a Technical Support AI Chatbot with OpenAI | SingleStore Webinars](https://www.youtube.com/watch?v=O-C1mMNuvqQ)
 - [Real-Time AI for FinTech: Building a Stock Market Advisor Chatbot | SingleStore Webinars](https://www.youtube.com/watch?v=XavPDzTIuq8)
 - [Llama 2 vs Mistral for Fully-Private GenAI Apps | SingleStore Webinars](https://www.youtube.com/watch?v=2YitA6vbZ6I)
 - [AutoCAD Revolutionising Design Process for Buildings, Products, and More!  #singlestore](https://www.youtube.com/watch?v=OysyH0Wwjzs)
 - [Transforming City Life Solving Parking Congestion for a Better Urban Experience!  #singlestore](https://www.youtube.com/watch?v=cu58dGGRXbo)
-- [Using AWS Bedrock &amp; LangChain for Private LLM App Dev | SingleStore Webinars](https://www.youtube.com/watch?v=jyKcWLcJH_c)
 <!-- YOUTUBE:END -->
 
 
