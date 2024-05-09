@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Libyear](https://libyear.com/)
+- [UTC, Tai, and Unix Time](https://cr.yp.to/proto/utctai.html)
+- [Tracking Illicit Brazilian Beef from the Amazon to Your Burger](https://e360.yale.edu/features/marcel-gomes-interview)
 - [CodeStory &lpar;YC S23&rpar; Is Hiring a Founding Engineer for Building AI-Native IDE](https://www.workatastartup.com/companies/codestory)
 - [The Time I Lied to the CTO and Saved the Day](https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/)
-- [Opening Windows in Linux with sockets, bare hands and 200 lines of C](https://hereket.com/posts/from-scratch-x11-windowing/)
-- [A Man Who Raced to Tell the World That Mount Everest Had Been Climbed](https://www.outsideonline.com/outdoor-adventure/everest/everest-hillary-norgay-1953-news/)
-- [Securing Git Repositories with Gittuf](https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
