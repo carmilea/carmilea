@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Woman Who Showed President Biden ChatGPT](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/)
+- [Evidence on the presence and history of assortative mating](https://www.nature.com/articles/s41467-024-46939-9)
+- [It&#39;s always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
 - [Freshpaint &lpar;YC S19&rpar; is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [Andrew Huberman&#39;s Claims About Cannabis Annoy Drug Experts](https://www.rollingstone.com/culture/culture-features/andrew-huberman-cannabis-misinformation-slammed-by-experts-1235016613/)
 - [Leaked Deck Reveals How OpenAI Is Pitching Publisher Partnerships](https://www.adweek.com/media/openai-preferred-publisher-program-deck/)
-- [Buckets of Parquet Files Are Awful](https://scratchdata.com/blog/bucketful-of-parquet/)
+- [Familial Transmission of Personality Is Higher Than Shown in Typical Studies](https://osf.io/preprints/psyarxiv/7ygp6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
