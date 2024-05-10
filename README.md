@@ -57,9 +57,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Spider-Man &lpar;Neversoft&rpar; Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
+- [An informal comparison of the three major implementations of std:string](https://devblogs.microsoft.com/oldnewthing/20240510-00/?p=109742)
 - [Coronal mass ejection impact imminent, Two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
 - [Running SingleStore on Your Laptop Is Now Easier Than Ever](https://www.singlestore.com/blog/running-singlestore-on-your-laptop-is-easier-than-ever)
-- [A Skeptic&#39;s Take on Beaming Power to Earth from Space](https://spectrum.ieee.org/space-based-solar-power-2667878868)
 - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
 <!-- BLOG-POST-LIST:END -->
 
