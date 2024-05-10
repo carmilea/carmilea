@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the largest root of a random polynomial more likely to be real than complex?](https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex)
 - [Bloop &lpar;YC S21&rpar; Is Hiring AI Engineers. Devin for Legacy Code &lpar;London, Onsite&rpar;](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-ai-engineer)
+- [I Accidentally Uncovered a Nationwide Scam Run by Fake Hosts on Airbnb](https://www.vice.com/en/article/43k7z3/nationwide-fake-host-scam-on-airbnb)
 - [Elvish, expressive programming language and a versatile interactive shell](https://elv.sh)
 - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
-- [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
-- [Object oriented design patterns in the Linux kernel &lpar;2011&rpar;](https://lwn.net/Articles/444910/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
