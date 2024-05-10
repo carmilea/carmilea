@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI content firm creates fake writers for  ai articles](https://futurism.com/advon-ai-content)
+- [Polestar eliminates the rear window in latest electric car](https://www.dezeen.com/2024/02/06/polestar-4-eliminiates-rear-window/)
 - [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
+- [Object oriented design patterns in the Linux kernel](https://lwn.net/Articles/444910/)
 - [NOAA Forecasts Solar Storm &lpar;G4&rpar;](https://www.swpc.noaa.gov/news/media-advisory-noaa-forecasts-severe-solar-storm-media-availability-scheduled-friday-may-10)
-- [The Most Backdoor-Looking Bug I&#39;ve Ever Seen](https://words.filippo.io/dispatches/telegram-ecdh/)
-- [Weapons in Space Technology, Politics, and the Rise and Fall of SDI](https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise)
-- [CS388: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
