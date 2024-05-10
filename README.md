@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb Hints at Possible Atmosphere Surrounding Rocky Exoplanet](https://science.nasa.gov/missions/webb/nasas-webb-hints-at-possible-atmosphere-surrounding-rocky-exoplanet/)
+- [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
+- [NOAA Forecasts Solar Storm &lpar;G4&rpar;](https://www.swpc.noaa.gov/news/media-advisory-noaa-forecasts-severe-solar-storm-media-availability-scheduled-friday-may-10)
+- [The Most Backdoor-Looking Bug I&#39;ve Ever Seen](https://words.filippo.io/dispatches/telegram-ecdh/)
 - [Weapons in Space Technology, Politics, and the Rise and Fall of SDI](https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise)
 - [CS388: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
-- [Wprs – rootless remote desktop for Wayland &lpar;and X11, via XWayland&rpar; applications](https://github.com/wayland-transpositor/wprs)
-- [A Record of Old Kashgar](https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
