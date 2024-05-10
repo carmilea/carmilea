@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
+- [Recompilation: A New Way to Keep N64 Games Alive [video]](https://www.youtube.com/watch?v=ywWwUuWRgsM)
+- [Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://arxiv.org/abs/2405.05904)
+- [One Minute Park](https://oneminutepark.tv/)
 - [Spider-Man &lpar;Neversoft&rpar; Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
-- [An informal comparison of the three major implementations of std:string](https://devblogs.microsoft.com/oldnewthing/20240510-00/?p=109742)
-- [Running SingleStore on Your Laptop Is Now Easier Than Ever](https://www.singlestore.com/blog/running-singlestore-on-your-laptop-is-easier-than-ever)
-- [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
