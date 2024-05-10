@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ukraine war is driving rapid innovation in drone technology](https://www.understandingai.org/p/the-ukraine-war-is-driving-rapid)
-- [No One Knows What Universities Are For](https://www.theatlantic.com/ideas/archive/2024/05/bureaucratic-bloat-eating-american-universities-inside/678324/)
-- [Google Photos testing &#39;Collections&#39; redesign that buries your library](https://9to5google.com/2024/05/08/google-photos-library-collections-testing/)
+- [Webb Hints at Possible Atmosphere Surrounding Rocky Exoplanet](https://science.nasa.gov/missions/webb/nasas-webb-hints-at-possible-atmosphere-surrounding-rocky-exoplanet/)
 - [Weapons in Space Technology, Politics, and the Rise and Fall of SDI](https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise)
 - [CS388: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
+- [Wprs – rootless remote desktop for Wayland &lpar;and X11, via XWayland&rpar; applications](https://github.com/wayland-transpositor/wprs)
+- [A Record of Old Kashgar](https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
