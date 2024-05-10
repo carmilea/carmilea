@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Emotional Support Animal Racket](https://www.astralcodexten.com/p/the-emotional-support-animal-racket)
+- [Apple to Power AI Features with M2 Ultra Servers](https://www.macrumors.com/2024/05/09/apple-to-power-ai-features-with-m2-ultra-servers/)
+- [OpenBSD Desktop](https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html)
+- [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
 - [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
-- [SWPC issues first G4 geomagnetic storm watch since 2005](https://www.swpc.noaa.gov/news/swpc-issues-its-first-g4-watch-2005)
-- [Unbearable hours, threats of being fired: The abuse of migrant interns in Japan](https://observers.france24.com/en/asia-pacific/20220419-unbearable-hours-threats-of-being-fired-the-abuse-of-migrant-interns-in-japan)
-- [DKIM, SPF, SpamAssassin Email Validator](https://dkimvalidator.com/)
+- [Swipos-GIS/GEO, nationwide GNSS RTK correction for centimeter accurate location](https://www.swisstopo.admin.ch/en/swipos-gisgeo-for-rtk-and-postprocessing-applications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
