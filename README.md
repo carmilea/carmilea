@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Photos testing &#39;Collections&#39; redesign that buries your library](https://9to5google.com/2024/05/08/google-photos-library-collections-testing/)
 - [Weapons in Space Technology, Politics, and the Rise and Fall of SDI](https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise)
+- [CS388: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
 - [Wprs – rootless remote desktop for Wayland &lpar;and X11, via XWayland&rpar; applications](https://github.com/wayland-transpositor/wprs)
 - [C2PA from the Attacker&#39;s Perspective](https://www.hackerfactor.com/blog/index.php?/archives/1031-C2PA-from-the-Attackers-Perspective.html)
-- [The World Has &lpar;Probably&rpar; Passed Peak Pollution](https://www.sustainabilitybynumbers.com/p/peak-pollution)
-- [Cubic millimetre of brain mapped in spectacular detail](https://www.nature.com/articles/d41586-024-01387-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
