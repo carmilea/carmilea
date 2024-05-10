@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
-- [KeePassXC Debian maintainer has removed all network features](https://fosstodon.org/@keepassxc/112417353193348720)
-- [Is AI lying to me? Scientists warn of growing capacity for deception](https://www.theguardian.com/technology/article/2024/may/10/is-ai-lying-to-me-scientists-warn-of-growing-capacity-for-deception)
-- [OpenBSD Desktop](https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html)
-- [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
+- [Spider-Man &lpar;Neversoft&rpar; Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
+- [Coronal mass ejection impact imminent, Two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
+- [Sam Altman: Not GPT-5, not a search engine](https://twitter.com/sama/status/1788989777452408943)
+- [OpenAI demo some ChatGPT and GPT-4 updates on 13 May](https://openai.com/)
+- [GhostStripe attack haunts self-driving cars by making them ignore road signs](https://www.theregister.com/2024/05/10/baidu_apollo_hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
