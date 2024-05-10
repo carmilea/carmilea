@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No Country Should Be Making Speech Rules for the World](https://www.eff.org/deeplinks/2024/05/no-country-should-be-making-speech-rules-world)
+- [Weapons in Space Technology, Politics, and the Rise and Fall of SDI](https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise)
+- [Wprs – rootless remote desktop for Wayland &lpar;and X11, via XWayland&rpar; applications](https://github.com/wayland-transpositor/wprs)
+- [C2PA from the Attacker&#39;s Perspective](https://www.hackerfactor.com/blog/index.php?/archives/1031-C2PA-from-the-Attackers-Perspective.html)
+- [The World Has &lpar;Probably&rpar; Passed Peak Pollution](https://www.sustainabilitybynumbers.com/p/peak-pollution)
 - [Cubic millimetre of brain mapped in spectacular detail](https://www.nature.com/articles/d41586-024-01387-9)
-- [Sioyek is a PDF viewer with a focus on textbooks and research papers](https://github.com/ahrm/sioyek)
-- [Protobuf Editions are here: don&#39;t panic](https://buf.build/blog/protobuf-editions-are-here)
-- [Being Green: A new book marvels at the strangeness of plants](https://slate.com/culture/2024/05/light-eaters-zoe-schlanger-book-plant-intelligence.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
