@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Spider-Man &lpar;Neversoft&rpar; Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
 - [Coronal mass ejection impact imminent, Two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
-- [Sam Altman: Not GPT-5, not a search engine](https://twitter.com/sama/status/1788989777452408943)
-- [OpenAI demo some ChatGPT and GPT-4 updates on 13 May](https://openai.com/)
-- [GhostStripe attack haunts self-driving cars by making them ignore road signs](https://www.theregister.com/2024/05/10/baidu_apollo_hack/)
+- [Running SingleStore on Your Laptop Is Now Easier Than Ever](https://www.singlestore.com/blog/running-singlestore-on-your-laptop-is-easier-than-ever)
+- [A Skeptic&#39;s Take on Beaming Power to Earth from Space](https://spectrum.ieee.org/space-based-solar-power-2667878868)
+- [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
