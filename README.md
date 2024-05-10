@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trip C++Now 2024 – think-cell](https://www.think-cell.com/en/career/devblog/trip-report-cpp-now-2024)
 - [Is the largest root of a random polynomial more likely to be real than complex?](https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex)
 - [Bloop &lpar;YC S21&rpar; Is Hiring AI Engineers. Devin for Legacy Code &lpar;London, Onsite&rpar;](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-ai-engineer)
-- [I Accidentally Uncovered a Nationwide Scam Run by Fake Hosts on Airbnb](https://www.vice.com/en/article/43k7z3/nationwide-fake-host-scam-on-airbnb)
+- [I Accidentally Uncovered a Nationwide Scam Run by Fake Hosts on Airbnb &lpar;2019&rpar;](https://www.vice.com/en/article/43k7z3/nationwide-fake-host-scam-on-airbnb)
 - [Elvish, expressive programming language and a versatile interactive shell](https://elv.sh)
-- [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
