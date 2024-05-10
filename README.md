@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI content firm creates fake writers for  ai articles](https://futurism.com/advon-ai-content)
+- [Bloop &lpar;YC S21&rpar; Is Hiring AI Engineers. Devin for Legacy Code &lpar;London, Onsite&rpar;](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-ai-engineer)
+- [Elvish, expressive programming language and a versatile interactive shell](https://elv.sh)
+- [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
 - [Polestar eliminates the rear window in latest electric car](https://www.dezeen.com/2024/02/06/polestar-4-eliminiates-rear-window/)
 - [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
-- [Object oriented design patterns in the Linux kernel](https://lwn.net/Articles/444910/)
-- [NOAA Forecasts Solar Storm &lpar;G4&rpar;](https://www.swpc.noaa.gov/news/media-advisory-noaa-forecasts-severe-solar-storm-media-availability-scheduled-friday-may-10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
