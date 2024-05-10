@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
-- [Stack Overflow simply bans folks who don&#39;t want their advice used to train AI](https://www.theregister.com/2024/05/09/stack_overflow_banning_users_who/)
 - [KeePassXC Debian maintainer has removed all network features](https://fosstodon.org/@keepassxc/112417353193348720)
 - [Is AI lying to me? Scientists warn of growing capacity for deception](https://www.theguardian.com/technology/article/2024/may/10/is-ai-lying-to-me-scientists-warn-of-growing-capacity-for-deception)
 - [OpenBSD Desktop](https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html)
+- [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
 <!-- BLOG-POST-LIST:END -->
 
 ---
