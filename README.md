@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kolmogorov-Arnold Networks: MLP vs. Kan, Math, Universal Approximation Theorem [video]](https://www.youtube.com/watch?v=-PFIkkwWdnM)
+- [Fathom &lpar;YC W21&rpar; is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
+- [Scotland suddenly has a lot of mosquitoes](https://www.popsci.com/science/mosquitoes-scotland/)
+- [Woman found living in Michigan grocery store sign for months](https://www.nbcnews.com/news/us-news/woman-found-living-michigan-grocery-store-sign-complete-computer-keuri-rcna151750)
+- [Some 787 Production Test Records Were Falsified, Boeing Says](https://aviationweek.com/air-transport/some-787-production-test-records-were-falsified-boeing-says)
 - [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
-- [Berlin Tesla activists say civil disobedience is only option](https://www.dw.com/en/berlin-tesla-activists-say-civil-disobedience-is-only-option/a-69054007)
-- [Immersive Math](http://immersivemath.com/ila/index.html)
-- [Trellis &lpar;YC W24&rpar; is hiring Founding Eng to build ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
