@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flatpak – a security nightmare – 2 years later &lpar;2020&rpar;](https://flatkill.org/2020/)
+- [Astronomers Are on the Hunt for Dyson Spheres](https://www.universetoday.com/166921/astronomers-are-on-the-hunt-for-dyson-spheres/)
 - [Fathom &lpar;YC W21&rpar; is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
-- [Scotland suddenly has a lot of mosquitoes](https://www.popsci.com/science/mosquitoes-scotland/)
-- [Woman found living in Michigan grocery store sign for months](https://www.nbcnews.com/news/us-news/woman-found-living-michigan-grocery-store-sign-complete-computer-keuri-rcna151750)
-- [Some 787 Production Test Records Were Falsified, Boeing Says](https://aviationweek.com/air-transport/some-787-production-test-records-were-falsified-boeing-says)
+- [Show HN: Project Random – Random, obscure content from around the web](https://0xbeef.co.uk/random)
 - [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
 <!-- BLOG-POST-LIST:END -->
 
