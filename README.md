@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kolmogorov-Arnold Networks: MLP vs. Kan, Math, Universal Approximation Theorem [video]](https://www.youtube.com/watch?v=-PFIkkwWdnM)
 - [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
+- [Berlin Tesla activists say civil disobedience is only option](https://www.dw.com/en/berlin-tesla-activists-say-civil-disobedience-is-only-option/a-69054007)
 - [Immersive Math](http://immersivemath.com/ila/index.html)
 - [Trellis &lpar;YC W24&rpar; is hiring Founding Eng to build ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
-- [System Analysis and Programming &lpar;1966&rpar;](https://www.scientificamerican.com/article/system-analysis-and-programming-christopher-strachey/)
-- [Radio astronomers bypass Earth&#39;s atmosphere with new calibration technique](https://phys.org/news/2024-04-radio-astronomers-bypass-disturbing-earth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
