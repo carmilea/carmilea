@@ -57,7 +57,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
-- [Multidirectional joint distribution neurons reducing to KAN](https://arxiv.org/abs/2405.05097)
+- [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned)
 - [Unix Viruses 25th Anniversary Edition](https://tmpout.sh/3/03.html)
 - [Show HN: Wag, MFA and Enrollment for WireGuard](https://github.com/NHAS/wag)
 - [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
