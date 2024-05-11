@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trellis &lpar;YC W24&rpar; is hiring Founding Eng to build ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
+- [System Analysis and Programming &lpar;1966&rpar;](https://www.scientificamerican.com/article/system-analysis-and-programming-christopher-strachey/)
+- [Radio astronomers bypass Earth&#39;s atmosphere with new calibration technique](https://phys.org/news/2024-04-radio-astronomers-bypass-disturbing-earth.html)
+- [Metabolism of autism reveals developmental origins](https://medicalxpress.com/news/2024-05-metabolism-autism-reveals-developmental.html)
 - [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
-- [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned)
-- [Unix Viruses 25th Anniversary Edition](https://tmpout.sh/3/03.html)
-- [Show HN: Wag, MFA and Enrollment for WireGuard](https://github.com/NHAS/wag)
-- [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
