@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Immersive Math](http://immersivemath.com/ila/index.html)
 - [Trellis &lpar;YC W24&rpar; is hiring Founding Eng to build ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
 - [System Analysis and Programming &lpar;1966&rpar;](https://www.scientificamerican.com/article/system-analysis-and-programming-christopher-strachey/)
 - [Radio astronomers bypass Earth&#39;s atmosphere with new calibration technique](https://phys.org/news/2024-04-radio-astronomers-bypass-disturbing-earth.html)
-- [Metabolism of autism reveals developmental origins](https://medicalxpress.com/news/2024-05-metabolism-autism-reveals-developmental.html)
-- [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
+- [Corn fields occupy how much of each state?](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F492c4d9a-887d-40c4-8e9c-c77d94fb986f_1009x694.png)
 <!-- BLOG-POST-LIST:END -->
 
 ---
