@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flatpak – a security nightmare – 2 years later &lpar;2020&rpar;](https://flatkill.org/2020/)
-- [Astronomers Are on the Hunt for Dyson Spheres](https://www.universetoday.com/166921/astronomers-are-on-the-hunt-for-dyson-spheres/)
+- [Social Security now expected to run short on funds in 2035, one year later](https://www.cnbc.com/2024/05/06/social-security-expected-to-run-short-on-funds-in-2035-government-says.html)
+- [Canadians have been exposed to potentially toxic chemicals](https://www.ctvnews.ca/canada/millions-of-canadians-have-been-exposed-to-potentially-toxic-chemicals-and-they-re-not-going-anywhere-1.6878917)
+- [Billions in Dirty Money Flies Under the Radar at Busiest Airports](https://www.wsj.com/business/airlines/heathrow-dubai-airports-billions-dirty-money-9f49cc7f)
+- [Oberon by Examples](https://github.com/vishapoberon/oberonbyexample)
 - [Fathom &lpar;YC W21&rpar; is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
-- [Show HN: Project Random – Random, obscure content from around the web](https://0xbeef.co.uk/random)
-- [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
