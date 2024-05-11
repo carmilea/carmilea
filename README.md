@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supreme Court: There&#39;s No &#39;Time Limit&#39; on Copyright Infringement Claims](https://torrentfreak.com/supreme-court-theres-no-time-limit-on-copyright-infringement-claims-240510/)
+- [Nvidia Open GPU Linux Kernel Driver Soon Be the Default for Turing, Newer GPUs](https://www.phoronix.com/news/NVIDIA-R560-Open-Default)
+- [Ask HN: Should HN black bar become community driven?](https://news.ycombinator.com/item?id=40327812)
 - [Kardashev Scale](https://en.wikipedia.org/wiki/Kardashev_scale)
 - [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
-- [People who won&#39;t give up floppy disks](https://www.bbc.com/future/article/20240510-floppy-disks-why-some-people-are-still-in-love-with-this-obsolete-computer-storage-technology)
-- [Multidirectional joint distribution neurons reducing to KAN](https://arxiv.org/abs/2405.05097)
-- [Unix Viruses 25th Anniversary Edition](https://tmpout.sh/3/03.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
