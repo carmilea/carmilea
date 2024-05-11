@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple finalizing deal with OpenAI to bring ChatGPT features to iOS 18](https://9to5mac.com/2024/05/10/ios-18-chatgpt-features-apple-openai/)
 - [Verizon and T-Mobile are trying to gobble up US Cellular](https://www.theverge.com/business/2024/5/9/24153201/verizon-t-mobile-buy-us-cellular-spectrum)
-- [Ten years of neuroscience at Google yields maps of human brain](https://research.google/blog/ten-years-of-neuroscience-at-google-yields-maps-of-human-brain/)
 - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 - [One Minute Park](https://oneminutepark.tv/)
 - [Coronal mass ejection impact imminent, two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
