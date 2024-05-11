@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unix Viruses 25th Anniversary Edition](https://tmpout.sh/3/03.html)
 - [London&#39;s history-making beavers are adapting to life in the capital](https://www.bigissue.com/news/environment/beavers-london-ealing-environment-uk-rewilding/)
 - [Show HN: Wag, MFA and Enrollment for WireGuard](https://github.com/NHAS/wag)
+- [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Interns in Sales, Engineering, HR in Austria](https://bitmovin.com/careers/)
-- [The Derivative of a Number](https://rjlipton.com/2014/08/19/the-derivative-of-a-number/)
-- [Thread: Tech we can’t use or teach?](https://overengineer.dev/blog/2024/05/10/thread/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
