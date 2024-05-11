@@ -59,8 +59,8 @@
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Interns in Sales, Engineering, HR in Austria](https://bitmovin.com/careers/)
 - [The Derivative of a Number](https://rjlipton.com/2014/08/19/the-derivative-of-a-number/)
 - [Thread – the tech we can&#39;t use or teach](https://overengineer.dev/blog/2024/05/10/thread/)
-- [Roberta Williams – King&#39;s Quest 40th Anniversary [video]](https://www.youtube.com/watch?v=JNiqcSUrAOo)
 - [Adam Curtis on the dangers of self-expression &lpar;2017&rpar;](https://thecreativeindependent.com/people/adam-curtis-on-the-dangers-of-self-expression/)
+- [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
