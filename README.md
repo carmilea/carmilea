@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [G5 &lpar;Extreme&rpar; Geomagnetic Storm Detected](https://www.swpc.noaa.gov/homepage)
-- [NOAA declares a G5 &lpar;extreme&rpar; geomagnetic storm](https://www.swpc.noaa.gov/news/g5-conditions-observed)
-- [The Plastic Chemicals Hiding in Your Food: What Our Tests Found](https://www.consumerreports.org/health/food-contaminants/the-plastic-chemicals-hiding-in-your-food-a7358224781/)
 - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
-- [Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://arxiv.org/abs/2405.05904)
+- [One Minute Park](https://oneminutepark.tv/)
+- [Spider-Man &lpar;Neversoft&rpar; Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
+- [Coronal mass ejection impact imminent, two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
+- [Show HN: Jacinda, a functional Awk &lpar;text stream processing on the comamnd-line&rpar;](https://hackage.haskell.org/package/jacinda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
