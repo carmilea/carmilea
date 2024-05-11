@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 - [One Minute Park](https://oneminutepark.tv/)
-- [Spider-Man &lpar;Neversoft&rpar; Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
 - [Coronal mass ejection impact imminent, two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
 - [Show HN: Jacinda, a functional Awk &lpar;text stream processing on the comamnd-line&rpar;](https://hackage.haskell.org/package/jacinda)
+- [Running SingleStore on Your Laptop Is Now Easier Than Ever](https://www.singlestore.com/blog/running-singlestore-on-your-laptop-is-easier-than-ever)
 <!-- BLOG-POST-LIST:END -->
 
 ---
