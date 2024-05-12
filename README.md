@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Social Security now expected to run short on funds in 2035, one year later](https://www.cnbc.com/2024/05/06/social-security-expected-to-run-short-on-funds-in-2035-government-says.html)
-- [Canadians have been exposed to potentially toxic chemicals](https://www.ctvnews.ca/canada/millions-of-canadians-have-been-exposed-to-potentially-toxic-chemicals-and-they-re-not-going-anywhere-1.6878917)
+- [$64B Gamble: SoftBank Arm Plan to Launch AI Chip in 2025](https://geekynews.org/0304blog)
+- [Charlieplexing](https://en.wikipedia.org/wiki/Charlieplexing)
+- [Is dark matter&#39;s main rival theory dead?](https://theconversation.com/is-dark-matters-main-rival-theory-dead-theres-bad-news-from-the-cassini-spacecraft-and-other-recent-tests-228826)
 - [Billions in Dirty Money Flies Under the Radar at Busiest Airports](https://www.wsj.com/business/airlines/heathrow-dubai-airports-billions-dirty-money-9f49cc7f)
-- [Oberon by Examples](https://github.com/vishapoberon/oberonbyexample)
 - [Fathom &lpar;YC W21&rpar; is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
 <!-- BLOG-POST-LIST:END -->
 
