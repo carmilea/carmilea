@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$64B Gamble: SoftBank Arm Plan to Launch AI Chip in 2025](https://geekynews.org/0304blog)
+- [Ancient Egyptian Stone-Drilling &lpar;1983&rpar;](https://www.penn.museum/sites/expedition/ancient-egyptian-stone-drilling/)
 - [Charlieplexing](https://en.wikipedia.org/wiki/Charlieplexing)
-- [Is dark matter&#39;s main rival theory dead?](https://theconversation.com/is-dark-matters-main-rival-theory-dead-theres-bad-news-from-the-cassini-spacecraft-and-other-recent-tests-228826)
 - [Billions in Dirty Money Flies Under the Radar at Busiest Airports](https://www.wsj.com/business/airlines/heathrow-dubai-airports-billions-dirty-money-9f49cc7f)
 - [Fathom &lpar;YC W21&rpar; is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
+- [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
