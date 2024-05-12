@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Helium-3: Mining the fuel of the future on the Moon](https://english.elpais.com/science-tech/2024-05-12/helium-3-mining-the-fuel-of-the-future-on-the-moon.html)
+- [Super Mario 64&#39;s unopenable door has been opened [video]](https://www.youtube.com/watch?v=EmqFoojMeD8)
 - [Solar Storm Knocks Out Farmers&#39; Tractor GPS Systems During Peak Planting Season](https://www.404media.co/solar-storm-knocks-out-tractor-gps-systems-during-peak-planting-season/)
 - [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 - [Show HN: es6_maps, new Elixir syntax feature via runtime compiler hacking](https://github.com/kzemek/es6_maps)
-- [Garbage Collectors Are Scary](https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html)
+- [16 years of CVE-2008-0166 – Debian OpenSSL Bug](https://16years.secvuln.info/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
