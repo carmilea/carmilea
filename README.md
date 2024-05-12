@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Farewell, Chuck E. Cheese Animatronic Band](https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html)
+- [Can We Make Bicycles Sustainable Again?](https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again/)
 - [Show HN: Open-Source Video Editor Web App](https://news.ycombinator.com/item?id=40331968)
 - [Virtualizing the 6502 on a 6502 with 6o6](http://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
 - [Show NH: &quot;data-to-paper&quot; - autonomous stepwise LLM-driven research](https://github.com/Technion-Kishony-lab/data-to-paper)
-- [Ancient Egyptian Stone-Drilling &lpar;1983&rpar;](https://www.penn.museum/sites/expedition/ancient-egyptian-stone-drilling/)
-- [Charlieplexing](https://en.wikipedia.org/wiki/Charlieplexing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
