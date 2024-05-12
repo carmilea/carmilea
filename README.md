@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Super Mario 64&#39;s unopenable door has been opened [video]](https://www.youtube.com/watch?v=EmqFoojMeD8)
+- [Sweep &lpar;YC S23&rpar; is hiring a Founding Engineers to build a code generation bot](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-2-ml)
 - [Solar Storm Knocks Out Farmers&#39; Tractor GPS Systems During Peak Planting Season](https://www.404media.co/solar-storm-knocks-out-tractor-gps-systems-during-peak-planting-season/)
-- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 - [Show HN: es6_maps, new Elixir syntax feature via runtime compiler hacking](https://github.com/kzemek/es6_maps)
+- [Pražský Orloj: Prague astronomical clock simulator. &lpar;2022&rpar;](https://orloj.org/orloj/)
 - [16 years of CVE-2008-0166 – Debian OpenSSL Bug](https://16years.secvuln.info/)
 <!-- BLOG-POST-LIST:END -->
 
