@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I created an app for you to be a more unpredictable romantic partner](https://www.lovefuel.app)
-- [Professional Corner-Cutting](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
-- [Becoming an Amateur Polyglot](https://www.lesswrong.com/posts/BPpeBH8brSCRvZajs/how-to-be-an-amateur-polyglot)
-- [Patient dies weeks after kidney transplant from genetically modified pig](https://www.nytimes.com/2024/05/12/health/richard-slayman-death-pig-kidney-transplant.html)
-- [Page Dewarping &lpar;2016&rpar;](https://mzucker.github.io/2016/08/15/page-dewarping.html)
+- [Eventual &lpar;YC W22&rpar; Is Hiring Software Engineers to Build a Query Engine in Rust](https://jobs.ashbyhq.com/eventualcomputing?utm_source=Ox4R0k6rPN)
+- [Tech startup connects to two satellites in orbit from Earth via Bluetooth](https://www.techradar.com/pro/tech-startup-connects-to-two-satellites-in-orbit-from-earth-via-bluetooth-using-off-the-shelf-chip-and-a-software-update)
+- [Parallel garbage collection for SBCL &lpar;2023&rpar;](https://zenodo.org/records/7816398)
+- [The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
+- [Professional Corner-Cutting &lpar;2016&rpar;](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
