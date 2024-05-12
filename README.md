@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Ruined Quora](https://jonn.substack.com/p/how-ai-ruined-quora)
 - [Automatically Detecting Under-Trained Tokens in Large Language Models](https://arxiv.org/abs/2405.05417)
 - [Farewell, Chuck E. Cheese Animatronic Band](https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html)
 - [Scientists have figured out way to make algae-based plastic that decomposes](https://abcnews.go.com/US/scientists-figured-make-bio-based-plastic-completely-biodegrades/story?id=110032450)
 - [Roger Corman Dead: King of B Movies was 98](https://variety.com/2024/film/news/roger-corman-dead-producer-independent-b-movie-1235999591/)
+- [Show HN: Open-Source Video Editor Web App](https://news.ycombinator.com/item?id=40331968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
