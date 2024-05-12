@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patient Dies Weeks After Kidney Transplant from Genetically Modified Pig](https://www.nytimes.com/2024/05/12/health/richard-slayman-death-pig-kidney-transplant.html)
+- [The Age of Rage: Why Are People Are So Angry?](https://greyenlightenment.com/2024/05/11/the-age-of-rage-why-are-peopel-are-so-angry/)
+- [Learning K programming: idiom by idiom [pdf]](http://nsl.com/papers/idioms_K3.pdf)
 - [Sweep &lpar;YC S23&rpar; is hiring a Founding Engineers to build a code generation bot](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-2-ml)
-- [Solar Storm Knocks Out Farmers&#39; Tractor GPS Systems During Peak Planting Season](https://www.404media.co/solar-storm-knocks-out-tractor-gps-systems-during-peak-planting-season/)
-- [Show HN: es6_maps, new Elixir syntax feature via runtime compiler hacking](https://github.com/kzemek/es6_maps)
-- [Pražský Orloj: Prague astronomical clock simulator. &lpar;2022&rpar;](https://orloj.org/orloj/)
-- [16 years of CVE-2008-0166 – Debian OpenSSL Bug](https://16years.secvuln.info/)
+- [Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
 <!-- BLOG-POST-LIST:END -->
 
 ---
