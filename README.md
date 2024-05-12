@@ -57,8 +57,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Eventual &lpar;YC W22&rpar; Is Hiring Software Engineers to Build a Query Engine in Rust](https://jobs.ashbyhq.com/eventualcomputing?utm_source=Ox4R0k6rPN)
+- [Study found corporate recruiters have a bias against ex-entrepreneurs](https://fortune.com/2024/05/12/entrepreneur-founder-startup-hiring-interview-bias-recruiter-jobs/)
 - [Tech startup connects to two satellites in orbit from Earth via Bluetooth](https://www.techradar.com/pro/tech-startup-connects-to-two-satellites-in-orbit-from-earth-via-bluetooth-using-off-the-shelf-chip-and-a-software-update)
-- [Parallel garbage collection for SBCL &lpar;2023&rpar;](https://zenodo.org/records/7816398)
 - [The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
 - [Professional Corner-Cutting &lpar;2016&rpar;](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
 <!-- BLOG-POST-LIST:END -->
