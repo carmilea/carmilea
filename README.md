@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Roll A Lisp In C – Reading &lpar;2020&rpar;](https://swatson555.github.io/posts/2020-01-18-make-a-lisp-1.html)
-- [Brazil&#39;s catastrophic weather spawns spate of conspiracy theories](https://phys.org/news/2024-05-brazil-catastrophic-weather-spawns-spate.html)
-- [The &quot;Chain of Thought&quot; Delusions](https://twitter.com/rao2z/status/1760133260385177784)
-- [Automatically Detecting Under-Trained Tokens in Large Language Models](https://arxiv.org/abs/2405.05417)
-- [Farewell, Chuck E. Cheese Animatronic Band](https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html)
+- [Tesla FSD head to head against Mercedes Driver Assist on the same road [video]](https://www.youtube.com/watch?v=h3WiY_4kgkE)
+- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+- [23% of bachelor&#39;s degrees and 43% of master&#39;s degrees have a negative ROI](https://reason.com/2024/05/10/nearly-half-of-all-masters-degrees-arent-worth-getting/)
+- [Energy, not compute, will be the #1 bottleneck to AI progress – Mark Zuckerberg [video]](https://www.youtube.com/watch?v=i-o5YbNfmh0)
+- [There&#39;s Not Enough Power for America&#39;s High-Tech Ambitions](https://www.wsj.com/business/energy-oil/data-centers-energy-georgia-development-7a5352e9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
