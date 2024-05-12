@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Virtualizing the 6502 on a 6502 with 6o6](http://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
 - [Ancient Egyptian Stone-Drilling &lpar;1983&rpar;](https://www.penn.museum/sites/expedition/ancient-egyptian-stone-drilling/)
 - [Charlieplexing](https://en.wikipedia.org/wiki/Charlieplexing)
 - [Billions in Dirty Money Flies Under the Radar at Busiest Airports](https://www.wsj.com/business/airlines/heathrow-dubai-airports-billions-dirty-money-9f49cc7f)
 - [Fathom &lpar;YC W21&rpar; is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
-- [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
