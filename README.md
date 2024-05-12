@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
+- [I built an online PDF management platform using open-source software](https://www.pdfequips.com/)
+- [CPU DB, a complete database of processors for researchers and hobbyists alike](http://cpudb.stanford.edu/)
 - [Eventual &lpar;YC W22&rpar; Is Hiring Software Engineers to Build a Query Engine in Rust](https://jobs.ashbyhq.com/eventualcomputing?utm_source=Ox4R0k6rPN)
-- [Study found corporate recruiters have a bias against ex-entrepreneurs](https://fortune.com/2024/05/12/entrepreneur-founder-startup-hiring-interview-bias-recruiter-jobs/)
 - [Tech startup connects to two satellites in orbit from Earth via Bluetooth](https://www.techradar.com/pro/tech-startup-connects-to-two-satellites-in-orbit-from-earth-via-bluetooth-using-off-the-shelf-chip-and-a-software-update)
-- [The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
-- [Professional Corner-Cutting &lpar;2016&rpar;](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
