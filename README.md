@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Roll A Lisp In C – Reading &lpar;2020&rpar;](https://swatson555.github.io/posts/2020-01-18-make-a-lisp-1.html)
+- [Brazil&#39;s catastrophic weather spawns spate of conspiracy theories](https://phys.org/news/2024-05-brazil-catastrophic-weather-spawns-spate.html)
+- [The &quot;Chain of Thought&quot; Delusions](https://twitter.com/rao2z/status/1760133260385177784)
 - [Automatically Detecting Under-Trained Tokens in Large Language Models](https://arxiv.org/abs/2405.05417)
 - [Farewell, Chuck E. Cheese Animatronic Band](https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html)
-- [Scientists have figured out way to make algae-based plastic that decomposes](https://abcnews.go.com/US/scientists-figured-make-bio-based-plastic-completely-biodegrades/story?id=110032450)
-- [Roger Corman Dead: King of B Movies was 98](https://variety.com/2024/film/news/roger-corman-dead-producer-independent-b-movie-1235999591/)
-- [Show HN: Open-Source Video Editor Web App](https://news.ycombinator.com/item?id=40331968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
