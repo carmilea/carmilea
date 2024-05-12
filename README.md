@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patient Dies Weeks After Kidney Transplant from Genetically Modified Pig](https://www.nytimes.com/2024/05/12/health/richard-slayman-death-pig-kidney-transplant.html)
-- [The Age of Rage: Why Are People Are So Angry?](https://greyenlightenment.com/2024/05/11/the-age-of-rage-why-are-peopel-are-so-angry/)
+- [Patient dies weeks after kidney transplant from genetically modified pig](https://www.nytimes.com/2024/05/12/health/richard-slayman-death-pig-kidney-transplant.html)
+- [Physicists arrange atoms in close proximity to explore exotic states of matter](https://phys.org/news/2024-05-physicists-atoms-proximity-paving-exploring.html)
+- [Carrington Event](https://en.wikipedia.org/wiki/Carrington_Event)
 - [Learning K programming: idiom by idiom [pdf]](http://nsl.com/papers/idioms_K3.pdf)
 - [Sweep &lpar;YC S23&rpar; is hiring a Founding Engineers to build a code generation bot](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-2-ml)
-- [Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
 <!-- BLOG-POST-LIST:END -->
 
 ---
