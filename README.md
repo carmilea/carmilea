@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Biggest CPU for the Bad System](https://old.reddit.com/r/sysadmin/comments/1cqn3qa/whats_the_biggest_cpu_core_physical_server_i_can/)
+- [Doom didn&#39;t kill the Amiga. Wolfenstein 3D did [video]](https://www.youtube.com/watch?v=wsADJa-23Sg)
 - [Micron Ships Crucial-Branded LPCAMM2 Memory Modules: 64GB of LPDDR5X for $330](https://www.anandtech.com/show/21390/micron-ships-crucialbranded-lpcamm2-memory-modules)
 - [Squarespace to Go Private in $6.9B All-Cash Transaction with Permira](https://investors.squarespace.com/news-events-financials/investor-news/news-details/2024/Squarespace-to-Go-Private-in-6.9B-All-Cash-Transaction-with-Permira/default.aspx)
 - [The USDA&#39;s gardening zones shifted, this map shows you what&#39;s changed](https://apps.npr.org/plant-hardiness-garden-map/)
-- [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40342299)
-- [It’s an age of marvels](https://blog.plover.com/tech/its-an-age-of-marvels.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
