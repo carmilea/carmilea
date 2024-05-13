@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Companies Say They&#39;re Using Microphone Audio to Target Ads [audio] &lpar;2023&rpar;](https://open.spotify.com/episode/5gdoHM1v4hyXOWKHWPSTFF)
+- [Tired of Makefiles](https://dmitryfrank.com/blog/2016/1211_i_am_tired_of_makefiles)
+- [New Earliest Emoji Sets from 1988 and 1990 Uncovered](https://blog.emojipedia.org/new-earliest-emoji-sets-from-1988-and-1990-uncovered/)
+- [Release of Fugaku-LLM – a large language model trained on supercomputer Fugaku](https://www.fujitsu.com/global/about/resources/news/press-releases/2024/0510-01.html)
 - [Svix &lpar;YC W21&rpar; Is Hiring a Product Marketing Manager &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [UK police could get Ghostbusters-style backpack devices to halt ebike getaways](https://www.theguardian.com/uk-news/article/2024/may/13/uk-police-ghostbusters-style-backpack-devices-ebike-getaways)
-- [IBM open-sources its Granite AI models – and they mean business](https://www.zdnet.com/article/ibm-open-sources-its-granite-ai-models-and-they-mean-business/)
-- [Math problems with GPT-4o [video]](https://www.youtube.com/watch?v=_nSmkyDNulk)
-- [Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
 <!-- BLOG-POST-LIST:END -->
 
 ---
