@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
-- [I built an online PDF management platform using open-source software](https://www.pdfequips.com/)
-- [CPU DB, a complete database of processors for researchers and hobbyists alike](http://cpudb.stanford.edu/)
-- [Eventual &lpar;YC W22&rpar; Is Hiring Software Engineers to Build a Query Engine in Rust](https://jobs.ashbyhq.com/eventualcomputing?utm_source=Ox4R0k6rPN)
-- [Tech startup connects to two satellites in orbit from Earth via Bluetooth](https://www.techradar.com/pro/tech-startup-connects-to-two-satellites-in-orbit-from-earth-via-bluetooth-using-off-the-shelf-chip-and-a-software-update)
+- [Scott Galloway: How the US is destroying young people&#39;s future [video]](https://www.ted.com/talks/scott_galloway_how_the_us_is_destroying_young_people_s_future)
+- [The Star Destroyer and Imperial Military Doctrine](https://acoup.blog/2024/05/10/fireside-friday-may-10-2024/)
+- [MacRelix – Unix-like features for classic Mac OS](https://www.macrelix.org/)
+- [Show HN: I made an open-source Loom alternative](https://Cap.so)
+- [Did GitHub Copilot increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html#did-github-copilot-really-increase-my-productivity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
