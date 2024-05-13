@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [mRNA cancer vaccine triggers fierce immune response to fight brain tumors](https://ufhealth.org/news/2024/uf-developed-mrna-vaccine-triggers-fierce-immune-response-to-fight-malignant-brain-tumor)
+- [Google accidentally deleted a $125B pension fund&#39;s account](https://qz.com/google-cloud-pension-fund-unisuper-1851472990)
+- [Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
+- [Amazon&#39;s self-driving taxi Zoox under investigation by US after rear-end crashes](https://apnews.com/article/amazon-autonomous-vehicle-investigation-crashes-zoox-45c53600710407bc6f82b0a855c46e12)
 - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
 - [Language, OS and GUI -independent windowing API provided as a virtual filesystem](https://www.fornaxis.org/forge/)
-- [GPT-4o](https://openai.com/index/hello-gpt-4o/)
-- [Show HN: An open source framework for voice assistants](https://github.com/pipecat-ai/pipecat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
