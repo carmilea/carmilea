@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring to Eliminate E2E UI Tests](https://news.ycombinator.com/item?id=40340450)
+- [State actor blamed for cyberattack on B.C. government systems](https://www.cbc.ca/news/canada/british-columbia/bc-government-cyberattack-state-actor-1.7200735)
 - [GNU LibreJS: blocks JavaScript traps](https://www.gnu.org/software/librejs/)
 - [PicoMEM by FreddyV – All in One 8-Bit ISA Expansion Card](https://texelec.com/product/picomem/)
 - [Fort Worth&#39;s tallest building sells for $12.3M, bought for $137.5M in 2021](https://www.foxbusiness.com/real-estate/fort-worths-tallest-building-sells-just-12-3m-auction-stunning-price-drop)
-- [Show HN: CarCheck – Car Buying Checklist App](https://usefulchecklists.com/)
-- [Open Source YouTube to MP3 Downloader](https://github.com/PackJC/YoutubeToMP3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
