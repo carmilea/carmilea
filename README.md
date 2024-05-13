@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google accidentally deleted a $125B pension fund&#39;s account](https://qz.com/google-cloud-pension-fund-unisuper-1851472990)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Product Marketing Manager &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [UK police could get Ghostbusters-style backpack devices to halt ebike getaways](https://www.theguardian.com/uk-news/article/2024/may/13/uk-police-ghostbusters-style-backpack-devices-ebike-getaways)
+- [IBM open-sources its Granite AI models – and they mean business](https://www.zdnet.com/article/ibm-open-sources-its-granite-ai-models-and-they-mean-business/)
+- [Math problems with GPT-4o [video]](https://www.youtube.com/watch?v=_nSmkyDNulk)
 - [Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
-- [Amazon&#39;s self-driving taxi Zoox under investigation by US after rear-end crashes](https://apnews.com/article/amazon-autonomous-vehicle-investigation-crashes-zoox-45c53600710407bc6f82b0a855c46e12)
-- [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
-- [Language, OS and GUI -independent windowing API provided as a virtual filesystem](https://www.fornaxis.org/forge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
