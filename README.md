@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ordered back to the office, top tech talent left instead, study finds](https://www.washingtonpost.com/business/2024/05/12/rto-microsoft-apple-spacex/)
+- [GNU LibreJS: blocks JavaScript traps](https://www.gnu.org/software/librejs/)
+- [PicoMEM by FreddyV – All in One 8-Bit ISA Expansion Card](https://texelec.com/product/picomem/)
 - [Fort Worth&#39;s tallest building sells for $12.3M, bought for $137.5M in 2021](https://www.foxbusiness.com/real-estate/fort-worths-tallest-building-sells-just-12-3m-auction-stunning-price-drop)
 - [Show HN: CarCheck – Car Buying Checklist App](https://usefulchecklists.com/)
 - [Open Source YouTube to MP3 Downloader](https://github.com/PackJC/YoutubeToMP3)
-- [The Star Destroyer and Imperial Military Doctrine](https://acoup.blog/2024/05/10/fireside-friday-may-10-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
