@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sleep does not help brain wash out toxins, study suggests](https://www.theguardian.com/science/article/2024/may/13/sleep-does-not-help-brain-wash-out-toxins-study-suggests)
 - [Show HN: Boxwood – simple templating engine for JavaScript, in JavaScript](https://github.com/buxlabs/boxwood)
-- [eu/acc](https://eu-acc.com/)
 - [Protecting your email address via SVG instead of JavaScript](https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring to Eliminate E2E UI Tests](https://news.ycombinator.com/item?id=40340450)
+- [The Death of a Mnemonist](https://www.historytoday.com/archive/months-past/death-mnemonist)
+- [PicoMEM by FreddyV – All in One 8-Bit ISA Expansion Card](https://texelec.com/product/picomem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
