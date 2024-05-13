@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Using OpenAI for Automated HR Recruiter Resume Scans &amp; Assessments | SingleStore Webinars](https://www.youtube.com/watch?v=pNrxSTFFR7Y)
+- [How to Build Custom GPTs Using OpenAI Functions | SingleStore Webinars](https://www.youtube.com/watch?v=0A5oQY0lwlk)
+- [How to Launch ChatGPT LLM Apps in 3 Easy Steps | SingleStore Webinars](https://www.youtube.com/watch?v=ySXyekyB5Kw)
 - [Unleashing the Power of AI: Real time Analysis for Growing Use Cases.](https://www.youtube.com/watch?v=l-_84_-bmdc)
 - [Live RAG Comparison Test: Pinecone vs Mongo vs Postgres vs SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=xONafE5rQHk)
-- [Google Gemini Pro: Developers Overview | SingleStore Webinars](https://www.youtube.com/watch?v=6ATfL1viy_c)
-- [How to Build a Technical Support AI Chatbot with OpenAI | SingleStore Webinars](https://www.youtube.com/watch?v=O-C1mMNuvqQ)
-- [Real-Time AI for FinTech: Building a Stock Market Advisor Chatbot | SingleStore Webinars](https://www.youtube.com/watch?v=XavPDzTIuq8)
 <!-- YOUTUBE:END -->
 
 
