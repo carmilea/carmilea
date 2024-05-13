@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Activeloop &lpar;YC S18&rpar; Hiring a Senior C++ Engineer with Data Streaming Experience](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
-- [MIT 6.S191: Convolutional Neural Networks [video]](https://www.youtube.com/watch?v=2xqkSUhmmXU)
-- [Mojo: Ownership and lifetime checks deep dive with Chris Lattner [video]](https://www.youtube.com/watch?v=9ag0fPMmYPQ)
-- [Venture Capitalists Are Using Podcasts to Lure in Founders](https://www.vanityfair.com/news/story/venture-capitalists-using-podcasts-lure-founders)
-- [Falcon 2](https://www.tii.ae/news/falcon-2-uaes-technology-innovation-institute-releases-new-ai-model-series-outperforming-metas)
+- [GPT-4o](https://openai.com/index/hello-gpt-4o/)
+- [Show HN: An open source framework for voice assistants](https://github.com/pipecat-ai/pipecat)
+- [A global plastic treaty will only work if it caps production, modeling shows](https://phys.org/news/2024-05-global-plastic-treaty-caps-production.html)
+- [Discord has been using ML to determine the gender and age of some of its users](https://twitter.com/DiscordPreviews/status/1790065494432608432)
+- [Good, Kind, Caring People Became the Bad Guys](https://www.okdoomer.io/thebadguys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
