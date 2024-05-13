@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Micron Ships Crucial-Branded LPCAMM2 Memory Modules: 64GB of LPDDR5X for $330](https://www.anandtech.com/show/21390/micron-ships-crucialbranded-lpcamm2-memory-modules)
+- [Squarespace to Go Private in $6.9B All-Cash Transaction with Permira](https://investors.squarespace.com/news-events-financials/investor-news/news-details/2024/Squarespace-to-Go-Private-in-6.9B-All-Cash-Transaction-with-Permira/default.aspx)
 - [The USDA&#39;s gardening zones shifted, this map shows you what&#39;s changed](https://apps.npr.org/plant-hardiness-garden-map/)
 - [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40342299)
-- [Visualizing the 200-Year History of U.S. Interest Rates &lpar;2020&rpar;](https://advisor.visualcapitalist.com/us-interest-rates/)
-- [It&#39;s an Age of Marvels](https://blog.plover.com/tech/its-an-age-of-marvels.html)
-- [The Worst Outcome Is a Mediocre Success](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)
+- [It’s an age of marvels](https://blog.plover.com/tech/its-an-age-of-marvels.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
