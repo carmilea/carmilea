@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Unleashing the Power of AI: Real time Analysis for Growing Use Cases.](https://www.youtube.com/watch?v=l-_84_-bmdc)
 - [Live RAG Comparison Test: Pinecone vs Mongo vs Postgres vs SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=xONafE5rQHk)
 - [Google Gemini Pro: Developers Overview | SingleStore Webinars](https://www.youtube.com/watch?v=6ATfL1viy_c)
 - [How to Build a Technical Support AI Chatbot with OpenAI | SingleStore Webinars](https://www.youtube.com/watch?v=O-C1mMNuvqQ)
 - [Real-Time AI for FinTech: Building a Stock Market Advisor Chatbot | SingleStore Webinars](https://www.youtube.com/watch?v=XavPDzTIuq8)
-- [Llama 2 vs Mistral for Fully-Private GenAI Apps | SingleStore Webinars](https://www.youtube.com/watch?v=2YitA6vbZ6I)
 <!-- YOUTUBE:END -->
 
 
