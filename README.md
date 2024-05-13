@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [mRNA cancer vaccine triggers fierce immune response to fight brain tumors](https://ufhealth.org/news/2024/uf-developed-mrna-vaccine-triggers-fierce-immune-response-to-fight-malignant-brain-tumor)
+- [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
+- [Language, OS and GUI -independent windowing API provided as a virtual filesystem](https://www.fornaxis.org/forge/)
 - [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 - [Show HN: An open source framework for voice assistants](https://github.com/pipecat-ai/pipecat)
-- [A global plastic treaty will only work if it caps production, modeling shows](https://phys.org/news/2024-05-global-plastic-treaty-caps-production.html)
-- [Discord has been using ML to determine the gender and age of some of its users](https://twitter.com/DiscordPreviews/status/1790065494432608432)
-- [Good, Kind, Caring People Became the Bad Guys](https://www.okdoomer.io/thebadguys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
