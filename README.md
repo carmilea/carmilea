@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Companies Say They&#39;re Using Microphone Audio to Target Ads [audio] &lpar;2023&rpar;](https://open.spotify.com/episode/5gdoHM1v4hyXOWKHWPSTFF)
-- [Tired of Makefiles](https://dmitryfrank.com/blog/2016/1211_i_am_tired_of_makefiles)
-- [New Earliest Emoji Sets from 1988 and 1990 Uncovered](https://blog.emojipedia.org/new-earliest-emoji-sets-from-1988-and-1990-uncovered/)
+- [Not an iPad Pro Review: Why iPadOS Still Doesn&#39;t Get the Basics Right](https://www.macstories.net/stories/not-an-ipad-pro-review/)
+- [Towards Accurate and Efficient Document Analytics with Large Language Models](https://arxiv.org/abs/2405.04674)
+- [Intel announces the Aurora supercomputer has broken the exascale barrier](https://www.intel.com/content/www/us/en/newsroom/news/intel-powered-aurora-supercomputer-breaks-exascale-barrier.html)
+- [Unitree G1 Humanoid Agent](https://www.unitree.com/g1/)
 - [Release of Fugaku-LLM – a large language model trained on supercomputer Fugaku](https://www.fujitsu.com/global/about/resources/news/press-releases/2024/0510-01.html)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Product Marketing Manager &lpar;US Remote&rpar;](https://www.svix.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
