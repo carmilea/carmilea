@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An introduction to advanced Rust traits and generics](https://www.shuttle.rs/blog/2024/04/18/using-traits-generics-rust)
+- [Fort Worth&#39;s tallest building sells for $12.3M, bought for $137.5M in 2021](https://www.foxbusiness.com/real-estate/fort-worths-tallest-building-sells-just-12-3m-auction-stunning-price-drop)
 - [Open Source YouTube to MP3 Downloader](https://github.com/PackJC/YoutubeToMP3)
-- [North Yorkshire apostrophe fans demand road signs with nowt taken out](https://www.theguardian.com/uk-news/article/2024/may/05/north-yorkshires-dropped-apostrophe-for-street-signs-upsets-residents)
 - [The Star Destroyer and Imperial Military Doctrine](https://acoup.blog/2024/05/10/fireside-friday-may-10-2024/)
 - [MacRelix – Unix-like features for classic Mac OS](https://www.macrelix.org/)
+- [Show HN: I made an open-source Loom alternative](https://Cap.so)
 <!-- BLOG-POST-LIST:END -->
 
 ---
