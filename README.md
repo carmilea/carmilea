@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Boxwood – simple templating engine for JavaScript, in JavaScript](https://github.com/buxlabs/boxwood)
-- [Protecting your email address via SVG instead of JavaScript](https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring to Eliminate E2E UI Tests](https://news.ycombinator.com/item?id=40340450)
-- [The Death of a Mnemonist](https://www.historytoday.com/archive/months-past/death-mnemonist)
-- [PicoMEM by FreddyV – All in One 8-Bit ISA Expansion Card](https://texelec.com/product/picomem/)
+- [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40342299)
+- [It&#39;s an Age of Marvels](https://blog.plover.com/tech/its-an-age-of-marvels.html)
+- [The Worst Outcome Is a Mediocre Success](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)
+- [Statement on CVE-2024-27322](https://blog.r-project.org/2024/05/10/statement-on-cve-2024-27322/index.html)
+- [Solar storms are disrupting farmer GPS systems](https://www.theverge.com/2024/5/12/24154779/solar-storms-farmer-gps-john-deer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
