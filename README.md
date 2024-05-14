@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A review on protein languauge models](https://www.apoorva-srinivasan.com/plms/)
 - [Truffle ISLISP](https://arvyy.github.io/islisp-truffle/)
-- [The Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)
-- [Detectability of Solar Panels as a Technosignature](https://arxiv.org/abs/2405.04560)
+- [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
+- [Memory Consistency Models: A Tutorial](https://www.cs.utexas.edu/~bornholt/post/memory-models.html)
 - [Towards accurate and efficient document analytics with large language models](https://arxiv.org/abs/2405.04674)
-- [Which cognitive psychology findings are solid that I can use to help students?](https://matheducators.stackexchange.com/questions/27839/which-cognitive-psychology-findings-are-solid-that-i-can-use-to-help-my-student)
 <!-- BLOG-POST-LIST:END -->
 
 ---
