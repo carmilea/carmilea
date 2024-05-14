@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU Commission Designates Booking as a Gatekeeper](https://ec.europa.eu/commission/presscorner/detail/fen/ip_24_2561)
+- [Blazingly Fast Linked Lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
 - [Unriddle &lpar;YC S24&rpar; Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/66506)
-- [My VM is lighter &lpar;and safer&rpar; than your container &lpar;2017&rpar;](https://dl.acm.org/doi/10.1145/3132747.3132763)
+- [What Factors Explain the Nature of Software?](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
 - [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 - [Verilator: Open-Source SystemVerilog simulator and lint system](https://github.com/verilator/verilator)
 <!-- BLOG-POST-LIST:END -->
