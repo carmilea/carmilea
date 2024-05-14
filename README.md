@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are Google and Facebook free? The answer might be worse than you think](https://tuta.com/blog/google-facebook-free)
-- [Turn Your Android Tablet into an IDE with VSCode and Nix](https://www.50-nuances-octets.fr/en/posts/turn-android-tablet-into-ide-with-vscode-nix/)
-- [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
-- [Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
-- [Claude is now available in Europe](https://www.anthropic.com/news/claude-europe)
+- [Google made a version of ChromeOS that runs on Pixel, including external monitor](https://9to5google.com/2024/05/13/google-pixel-8-android-chromeos-report/)
+- [&#39;Has this guy ever made a movie before?&#39; Coppola&#39;s battle to film Megalopolis](https://www.theguardian.com/film/article/2024/may/14/has-this-guy-ever-made-a-movie-before-francis-ford-coppola-40-year-battle-megalopolis)
+- [Unriddle &lpar;YC S24&rpar; Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/66506)
+- [My VM is lighter &lpar;and safer&rpar; than your container &lpar;2017&rpar;](https://dl.acm.org/doi/10.1145/3132747.3132763)
+- [Top doctor remains brain cancer-free after a year &lpar;of his own treatment&rpar;](https://www.bbc.co.uk/news/world-australia-69006713)
 <!-- BLOG-POST-LIST:END -->
 
 ---
