@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Linux kernel giving CVEs to all bugfixes is sort of predictable](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelBugfixCVEsAStory)
-- [IndexedDB as a Vector Database](https://paul.kinlan.me/idb-as-a-vector-database/)
-- [FDA: Do Not Use Cue Health&#39;s Covid-19 Tests Due to Risk of False Results](https://www.fda.gov/medical-devices/safety-communications/do-not-use-cue-healths-covid-19-tests-due-risk-false-results-fda-safety-communication)
-- [Chatbots tell people what they want to hear](https://hub.jhu.edu/2024/05/13/chatbots-tell-people-what-they-want-to-hear/)
-- [In 2017, the feds said Tesla Autopilot cut crashes 40%–that was bogus &lpar;2019&rpar;](https://arstechnica.com/cars/2019/02/in-2017-the-feds-said-tesla-autopilot-cut-crashes-40-that-was-bogus/)
+- [Truffle ISLISP](https://arvyy.github.io/islisp-truffle/)
+- [The Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)
+- [Detectability of Solar Panels as a Technosignature](https://arxiv.org/abs/2405.04560)
+- [Towards accurate and efficient document analytics with large language models](https://arxiv.org/abs/2405.04674)
+- [Which cognitive psychology findings are solid that I can use to help students?](https://matheducators.stackexchange.com/questions/27839/which-cognitive-psychology-findings-are-solid-that-i-can-use-to-help-my-student)
 <!-- BLOG-POST-LIST:END -->
 
 ---
