@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 - [Large Language Models in Containers Locally with Podman AI Lab](https://github.com/containers/podman-desktop-extension-ai-lab)
 - [The First Nuclear Microreactor Company Listed in the USA](https://nanonuclearenergy.com/)
-- [A review on protein languauge models](https://www.apoorva-srinivasan.com/plms/)
+- [A review on protein language models](https://www.apoorva-srinivasan.com/plms/)
 - [Truffle ISLISP](https://arvyy.github.io/islisp-truffle/)
-- [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
