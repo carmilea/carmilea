@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Gems](https://blog.google/products/gemini/google-gemini-update-may-2024/)
+- [&#39;Shake&#39; Design Documents](https://digitalcomposting.wordpress.com/2024/05/14/shake-design-documents/)
+- [Ask HN: Disillusioned after AI?](https://news.ycombinator.com/item?id=40359076)
+- [Cold plunging might help heart health, new research suggests](https://around.uoregon.edu/content/cold-plunging-might-help-heart-health-new-research-suggests)
+- [Google is overhauling search results with AI overviews and Gemini organization](https://www.theverge.com/2024/5/14/24155321/google-search-ai-results-page-gemini-overview)
 - [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
-- [Code reviews don&#39;t usually find bugs](https://www.aviator.co/blog/how-not-to-do-code-reviews/)
-- [Glider – open-source eInk monitor with an emphasis on low latency](https://github.com/Modos-Labs/Glider)
-- [Project Astra](https://www.theverge.com/2024/5/14/24156296/google-ai-gemini-astra-assistant-live-io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
