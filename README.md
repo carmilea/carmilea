@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Veo](https://deepmind.google/technologies/veo/)
-- [Google announces Veo, their Sora competing text/image-to-video model](https://aitestkitchen.withgoogle.com/tools/video-fx)
-- [Alabama prisoners&#39; organs vanish, and there&#39;s a whole lot of passing the buck](https://www.al.com/news/2024/02/archibald-alabama-prisoners-organs-vanish-and-theres-a-whole-lot-of-passing-the-buck-and-the-bodies.html)
-- [Google Edge AI Model Explorer](https://github.com/google-ai-edge/model-explorer)
-- [Meta Is Shuttering Workplace, Its Enterprise Version of Facebook](https://finance.yahoo.com/news/meta-shuttering-workplace-enterprise-version-170030864.html)
+- [Google Gems](https://blog.google/products/gemini/google-gemini-update-may-2024/)
+- [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
+- [Code reviews don&#39;t usually find bugs](https://www.aviator.co/blog/how-not-to-do-code-reviews/)
+- [Glider – open-source eInk monitor with an emphasis on low latency](https://github.com/Modos-Labs/Glider)
+- [Project Astra](https://www.theverge.com/2024/5/14/24156296/google-ai-gemini-astra-assistant-live-io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
