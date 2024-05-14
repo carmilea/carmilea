@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Beginner’s Guide to GenAI: Large Language Models, Retrieval Augmented Generation, and more](https://www.youtube.com/watch?v=PqJCsi5Sjic)
 - [Where MySQL fails and SingleStore doesn&#39;t break a sweat- By Jack Ellis &lpar;Fathom Analytics&rpar;](https://www.youtube.com/watch?v=ojBcgX8fgVo)
 - [Using OpenAI for Automated HR Recruiter Resume Scans &amp; Assessments | SingleStore Webinars](https://www.youtube.com/watch?v=pNrxSTFFR7Y)
 - [How to Build Custom GPTs Using OpenAI Functions | SingleStore Webinars](https://www.youtube.com/watch?v=0A5oQY0lwlk)
 - [How to Launch ChatGPT LLM Apps in 3 Easy Steps | SingleStore Webinars](https://www.youtube.com/watch?v=ySXyekyB5Kw)
-- [Unleashing the Power of AI: Real time Analysis for Growing Use Cases.](https://www.youtube.com/watch?v=l-_84_-bmdc)
 <!-- YOUTUBE:END -->
 
 
