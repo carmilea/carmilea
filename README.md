@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla labour dispute triggers Nordic sympathy strikes](https://www.reuters.com/business/autos-transportation/tesla-labour-dispute-ignites-nordic-sympathy-strikes-2023-12-07/)
-- [Firefox to collect anonymized and categorized search data](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)
+- [The 1871 Samuel Morse Statue &lpar;2014&rpar;](http://daytoninmanhattan.blogspot.com/2014/06/the-1871-samuel-morse-statue-central.html)
+- [Firefox search update](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)
 - [Silicon reverse engineering: The 8085&#39;s undocumented flags &lpar;2013&rpar;](https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html)
-- [Blazingly fast linked lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
-- [New work extends the thermodynamic theory of computation](https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation)
+- [Learning from the Object-Oriented Mania](https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/)
+- [Show HN: Pico: An open-source Ngrok alternative built for production traffic](https://github.com/andydunstall/pico)
 <!-- BLOG-POST-LIST:END -->
 
 ---
