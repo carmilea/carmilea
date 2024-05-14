@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google made a version of ChromeOS that runs on Pixel, including external monitor](https://9to5google.com/2024/05/13/google-pixel-8-android-chromeos-report/)
-- [&#39;Has this guy ever made a movie before?&#39; Coppola&#39;s battle to film Megalopolis](https://www.theguardian.com/film/article/2024/may/14/has-this-guy-ever-made-a-movie-before-francis-ford-coppola-40-year-battle-megalopolis)
+- [EU Commission Designates Booking as a Gatekeeper](https://ec.europa.eu/commission/presscorner/detail/fen/ip_24_2561)
 - [Unriddle &lpar;YC S24&rpar; Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/66506)
 - [My VM is lighter &lpar;and safer&rpar; than your container &lpar;2017&rpar;](https://dl.acm.org/doi/10.1145/3132747.3132763)
-- [Top doctor remains brain cancer-free after a year &lpar;of his own treatment&rpar;](https://www.bbc.co.uk/news/world-australia-69006713)
+- [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
+- [Verilator: Open-Source SystemVerilog simulator and lint system](https://github.com/verilator/verilator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
