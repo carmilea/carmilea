@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Shake&#39; Design Documents](https://digitalcomposting.wordpress.com/2024/05/14/shake-design-documents/)
-- [Ask HN: Disillusioned after AI?](https://news.ycombinator.com/item?id=40359076)
-- [Cold plunging might help heart health, new research suggests](https://around.uoregon.edu/content/cold-plunging-might-help-heart-health-new-research-suggests)
-- [Google is overhauling search results with AI overviews and Gemini organization](https://www.theverge.com/2024/5/14/24155321/google-search-ai-results-page-gemini-overview)
-- [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
+- [NTSB Report on Contact of Containership with the Key Bridge and Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
+- [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
+- [Muse Retrospective](https://adamwiggins.com/muse-retrospective/)
+- [Higher RAII and the seven arcane uses of linear types](https://verdagon.dev/blog/higher-raii-uses-linear-types)
+- [Most common PIN codes](https://informationisbeautiful.net/visualizations/most-common-pin-codes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
