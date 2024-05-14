@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blazingly Fast Linked Lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
-- [Unriddle &lpar;YC S24&rpar; Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/66506)
-- [What Factors Explain the Nature of Software?](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
-- [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
-- [Verilator: Open-Source SystemVerilog simulator and lint system](https://github.com/verilator/verilator)
+- [Tesla labour dispute triggers Nordic sympathy strikes](https://www.reuters.com/business/autos-transportation/tesla-labour-dispute-ignites-nordic-sympathy-strikes-2023-12-07/)
+- [Firefox to collect anonymized and categorized search data](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)
+- [Silicon reverse engineering: The 8085&#39;s undocumented flags &lpar;2013&rpar;](https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html)
+- [Blazingly fast linked lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
+- [New work extends the thermodynamic theory of computation](https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
