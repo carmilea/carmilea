@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turn Your Android Tablet into an IDE with VSCode and Nix](https://www.50-nuances-octets.fr/en/posts/turn-android-tablet-into-ide-with-vscode-nix/)
 - [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 - [Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 - [Claude is now available in Europe](https://www.anthropic.com/news/claude-europe)
 - [Verilator: Open-Source SystemVerilog simulator and lint system](https://github.com/verilator/verilator)
-- [LineageOS is the perfect minimal smartphone for non-tech savvy folk](https://blog.decryption.net.au/t/lineageos-is-the-perfect-minimal-smartphone-for-non-tech-savvy-folk/155)
 <!-- BLOG-POST-LIST:END -->
 
 ---
