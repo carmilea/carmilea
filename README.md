@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why are Google and Facebook free? The answer might be worse than you think](https://tuta.com/blog/google-facebook-free)
 - [Turn Your Android Tablet into an IDE with VSCode and Nix](https://www.50-nuances-octets.fr/en/posts/turn-android-tablet-into-ide-with-vscode-nix/)
 - [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 - [Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 - [Claude is now available in Europe](https://www.anthropic.com/news/claude-europe)
-- [Verilator: Open-Source SystemVerilog simulator and lint system](https://github.com/verilator/verilator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
