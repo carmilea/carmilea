@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 - [Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
-- [Large Language Models in Containers Locally with Podman AI Lab](https://github.com/containers/podman-desktop-extension-ai-lab)
-- [The First Nuclear Microreactor Company Listed in the USA](https://nanonuclearenergy.com/)
-- [A review on protein language models](https://www.apoorva-srinivasan.com/plms/)
-- [Truffle ISLISP](https://arvyy.github.io/islisp-truffle/)
+- [Claude is now available in Europe](https://www.anthropic.com/news/claude-europe)
+- [Verilator: Open-Source SystemVerilog simulator and lint system](https://github.com/verilator/verilator)
+- [LineageOS is the perfect minimal smartphone for non-tech savvy folk](https://blog.decryption.net.au/t/lineageos-is-the-perfect-minimal-smartphone-for-non-tech-savvy-folk/155)
 <!-- BLOG-POST-LIST:END -->
 
 ---
