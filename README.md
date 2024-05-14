@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Not an iPad Pro Review: Why iPadOS Still Doesn&#39;t Get the Basics Right](https://www.macstories.net/stories/not-an-ipad-pro-review/)
-- [Towards Accurate and Efficient Document Analytics with Large Language Models](https://arxiv.org/abs/2405.04674)
-- [Intel announces the Aurora supercomputer has broken the exascale barrier](https://www.intel.com/content/www/us/en/newsroom/news/intel-powered-aurora-supercomputer-breaks-exascale-barrier.html)
-- [Unitree G1 Humanoid Agent](https://www.unitree.com/g1/)
-- [Release of Fugaku-LLM – a large language model trained on supercomputer Fugaku](https://www.fujitsu.com/global/about/resources/news/press-releases/2024/0510-01.html)
+- [The Linux kernel giving CVEs to all bugfixes is sort of predictable](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelBugfixCVEsAStory)
+- [IndexedDB as a Vector Database](https://paul.kinlan.me/idb-as-a-vector-database/)
+- [FDA: Do Not Use Cue Health&#39;s Covid-19 Tests Due to Risk of False Results](https://www.fda.gov/medical-devices/safety-communications/do-not-use-cue-healths-covid-19-tests-due-risk-false-results-fda-safety-communication)
+- [Chatbots tell people what they want to hear](https://hub.jhu.edu/2024/05/13/chatbots-tell-people-what-they-want-to-hear/)
+- [In 2017, the feds said Tesla Autopilot cut crashes 40%–that was bogus &lpar;2019&rpar;](https://arstechnica.com/cars/2019/02/in-2017-the-feds-said-tesla-autopilot-cut-crashes-40-that-was-bogus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
