@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The 1871 Samuel Morse Statue &lpar;2014&rpar;](http://daytoninmanhattan.blogspot.com/2014/06/the-1871-samuel-morse-statue-central.html)
-- [Firefox search update](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)
-- [Silicon reverse engineering: The 8085&#39;s undocumented flags &lpar;2013&rpar;](https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html)
-- [Learning from the Object-Oriented Mania](https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/)
-- [Show HN: Pico: An open-source Ngrok alternative built for production traffic](https://github.com/andydunstall/pico)
+- [Linum &lpar;YC W23&rpar; is hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
+- [Ford trims EV battery orders as losses swell to over $100k per electric car](https://electrek.co/2024/05/13/ford-trims-battery-orders-losses-swell-over-100000-per-ev/)
+- [VMware Fusion Pro and Workstation Pro now free for all personal use](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html)
+- [Using Spent coffee grounds to enhance concrete strength](https://www.sciencedirect.com/science/article/pii/S0959652623023636)
+- [Sir, there&#39;s a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
 <!-- BLOG-POST-LIST:END -->
 
 ---
