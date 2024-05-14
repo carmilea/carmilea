@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The First Nuclear Microreactor Company Listed in the USA](https://nanonuclearenergy.com/)
 - [A review on protein languauge models](https://www.apoorva-srinivasan.com/plms/)
 - [Truffle ISLISP](https://arvyy.github.io/islisp-truffle/)
 - [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
 - [Memory Consistency Models: A Tutorial](https://www.cs.utexas.edu/~bornholt/post/memory-models.html)
-- [Towards accurate and efficient document analytics with large language models](https://arxiv.org/abs/2405.04674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
