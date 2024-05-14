@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linum &lpar;YC W23&rpar; is hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
-- [Ford trims EV battery orders as losses swell to over $100k per electric car](https://electrek.co/2024/05/13/ford-trims-battery-orders-losses-swell-over-100000-per-ev/)
-- [VMware Fusion Pro and Workstation Pro now free for all personal use](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html)
-- [Using Spent coffee grounds to enhance concrete strength](https://www.sciencedirect.com/science/article/pii/S0959652623023636)
-- [Sir, there&#39;s a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
+- [Veo](https://deepmind.google/technologies/veo/)
+- [Google announces Veo, their Sora competing text/image-to-video model](https://aitestkitchen.withgoogle.com/tools/video-fx)
+- [Alabama prisoners&#39; organs vanish, and there&#39;s a whole lot of passing the buck](https://www.al.com/news/2024/02/archibald-alabama-prisoners-organs-vanish-and-theres-a-whole-lot-of-passing-the-buck-and-the-bodies.html)
+- [Google Edge AI Model Explorer](https://github.com/google-ai-edge/model-explorer)
+- [Meta Is Shuttering Workplace, Its Enterprise Version of Facebook](https://finance.yahoo.com/news/meta-shuttering-workplace-enterprise-version-170030864.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
