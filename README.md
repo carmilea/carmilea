@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dart 3.4: WASM and Macros preview](https://medium.com/dartlang/dart-3-4-bd8d23b4462a)
+- [Ilya Sutskever to leave OpenAI](https://twitter.com/ilyasut/status/1790517455628198322)
 - [Contact of Containership Dali with the Key Bridge and Subsequent Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
 - [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
 - [Muse Retrospective](https://adamwiggins.com/muse-retrospective/)
