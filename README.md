@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bicycle Rolling Resistance: Tire Rolling Resistance Tests and More](https://www.bicyclerollingresistance.com/)
+- [&quot;Is This Project Still Maintained?&quot;](https://www.hezmatt.org/~mpalmer/blog/2024/05/14/is-this-project-still-maintained.html)
 - [Great Question &lpar;YC W21&rpar; Is Hiring Product Engineers &lpar;Rails/React&rpar;](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react)
 - [Translation of the Rust&#39;s core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
 - [A low budget consumer hardware espionage implant: a GSM device hidden in](https://ha.cking.ch/s8_data_line_locator/)
-- [Show HN: I built a math website the internet loved, I&#39;m back with more features](https://teachyourselfmath.app/?page=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
