@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe Photoshop Source Code &lpar;2013&rpar;](https://computerhistory.org/blog/adobe-photoshop-source-code/)
+- [Show HN: I wrote a symmetry game with a daily puzzle](https://www.hidden-mirrors.com)
 - [Jan Leike Resigns from OpenAI](https://twitter.com/janleike/status/1790603862132596961)
-- [The Worst Website in the Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
-- [What went wrong with UniSuper and Google Cloud?](https://danielcompton.net/google-cloud-unisuper)
-- [The Volvo VNL, a heavy truck purpose-designed for North American roads](https://arstechnica.com/cars/2024/05/heres-how-volvo-is-making-its-long-haul-trucks-safer-more-efficient/)
-- [Proteins in blood could provide early cancer warning &#39;by more than seven years&#39;](https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study)
+- [Show HN: Open-source BI and analytics for engineers](https://github.com/quarylabs/quary)
+- [Accidentally breaking GitHub Actions with a shorthash collision](https://blog.teddykatz.com/2019/11/12/github-actions-dos.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
