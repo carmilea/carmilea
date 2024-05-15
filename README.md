@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jan Leike Resigns from OpenAI](https://twitter.com/janleike/status/1790603862132596961)
+- [The Worst Website in the Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
+- [Downranking won&#39;t stop Google&#39;s deepfake porn problem, victims say](https://arstechnica.com/tech-policy/2024/05/downranking-wont-stop-googles-deepfake-porn-problem-victims-say/)
 - [The Volvo VNL, a heavy truck purpose-designed for North American roads](https://arstechnica.com/cars/2024/05/heres-how-volvo-is-making-its-long-haul-trucks-safer-more-efficient/)
-- [How to get 7th graders to smoke](https://www.experimental-history.com/p/how-to-get-7th-graders-to-smoke)
-- [Raspberry Pi Ltd.: Potential IPO on the Main Market of the London Stock Exchange](https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316)
-- [Fastest rate of natural carbon dioxide rise over the last 50k years](https://today.oregonstate.edu/news/researchers-identify-fastest-rate-natural-carbon-dioxide-rise-over-last-50000-years)
-- [We gotta stop ignoring AI&#39;s hallucination problem](https://www.theverge.com/2024/5/15/24154808/ai-chatgpt-google-gemini-microsoft-copilot-hallucination-wrong)
+- [Proteins in blood could provide early cancer warning &#39;by more than seven years&#39;](https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
