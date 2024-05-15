@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Volvo VNL, a heavy truck purpose-designed for North American roads](https://arstechnica.com/cars/2024/05/heres-how-volvo-is-making-its-long-haul-trucks-safer-more-efficient/)
+- [How to get 7th graders to smoke](https://www.experimental-history.com/p/how-to-get-7th-graders-to-smoke)
+- [Raspberry Pi Ltd.: Potential IPO on the Main Market of the London Stock Exchange](https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316)
 - [Fastest rate of natural carbon dioxide rise over the last 50k years](https://today.oregonstate.edu/news/researchers-identify-fastest-rate-natural-carbon-dioxide-rise-over-last-50000-years)
-- [Tim Cook is running out of ideas](https://www.businessinsider.com/apple-tim-cook-running-out-of-ideas-iphone-ipad-sales-2024-5)
-- [Oracle goes vegan: Dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
-- [Gaussian Blue Noise](https://arxiv.org/abs/2206.07798)
-- [Dell leak details next-gen Windows on Arm chips](https://www.theverge.com/2024/5/15/24157120/dell-windows-on-arm-leak-qualcomm-chips-battery-life)
+- [We gotta stop ignoring AI&#39;s hallucination problem](https://www.theverge.com/2024/5/15/24154808/ai-chatgpt-google-gemini-microsoft-copilot-hallucination-wrong)
 <!-- BLOG-POST-LIST:END -->
 
 ---
