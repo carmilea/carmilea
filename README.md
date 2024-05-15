@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How to Chat with Images Data Using New GPT-4 Vision API | SingleStore Webinars](https://www.youtube.com/watch?v=EHtNEkDGbL4)
 - [Beginners Guide to LangChain: Chat with Your Multi-Model Data | SingleStore Webinars](https://www.youtube.com/watch?v=ChtfVYny1H4)
 - [Dave Unleashing the Power of Jira. The Ultimate Swiss Army Knife!](https://www.youtube.com/watch?v=Y74xP3eumhY)
 - [Understanding Large Language Models &lpar;LLMs&rpar;, Retrieval Augmented Generation &lpar;RAG&rpar;, &amp; More!](https://www.youtube.com/watch?v=PqJCsi5Sjic)
 - [Where MySQL fails and SingleStore doesn&#39;t break a sweat- By Jack Ellis &lpar;Fathom Analytics&rpar;](https://www.youtube.com/watch?v=ojBcgX8fgVo)
-- [Using OpenAI for Automated HR Recruiter Resume Scans &amp; Assessments | SingleStore Webinars](https://www.youtube.com/watch?v=pNrxSTFFR7Y)
 <!-- YOUTUBE:END -->
 
 
