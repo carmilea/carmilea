@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fastest rate of natural carbon dioxide rise over the last 50k years](https://today.oregonstate.edu/news/researchers-identify-fastest-rate-natural-carbon-dioxide-rise-over-last-50000-years)
+- [Tim Cook is running out of ideas](https://www.businessinsider.com/apple-tim-cook-running-out-of-ideas-iphone-ipad-sales-2024-5)
 - [Oracle goes vegan: Dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
 - [Gaussian Blue Noise](https://arxiv.org/abs/2206.07798)
 - [Dell leak details next-gen Windows on Arm chips](https://www.theverge.com/2024/5/15/24157120/dell-windows-on-arm-leak-qualcomm-chips-battery-life)
-- [Germany solar power output jumps to record highs](https://www.reuters.com/business/energy/germany-solar-power-output-jumps-record-highs-maguire-2024-05-14/)
-- [Hot take on OpenAI&#39;s new GPT-4o – by Gary Marcus](https://garymarcus.substack.com/p/hot-take-on-openais-new-gpt-4o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
