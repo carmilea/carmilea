@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bicycle Rolling Resistance: Tire Rolling Resistance Tests and More](https://www.bicyclerollingresistance.com/)
-- [Notes on Japan](https://alexanderweichart.de/5_Archive/1.-Projects/Notes/Notes-on-Japan)
-- [Great Question &lpar;YC W21&rpar; Is Hiring Product Engineers &lpar;Rails/React&rpar;](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react)
-- [Translation of the Rust&#39;s core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
-- [A low budget consumer hardware espionage implant: a GSM device hidden in &lpar;2018&rpar;](https://ha.cking.ch/s8_data_line_locator/)
+- [Oracle goes vegan: Dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
+- [Gaussian Blue Noise](https://arxiv.org/abs/2206.07798)
+- [Dell leak details next-gen Windows on Arm chips](https://www.theverge.com/2024/5/15/24157120/dell-windows-on-arm-leak-qualcomm-chips-battery-life)
+- [Germany solar power output jumps to record highs](https://www.reuters.com/business/energy/germany-solar-power-output-jumps-record-highs-maguire-2024-05-14/)
+- [Hot take on OpenAI&#39;s new GPT-4o – by Gary Marcus](https://garymarcus.substack.com/p/hot-take-on-openais-new-gpt-4o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
