@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bicycle Rolling Resistance: Tire Rolling Resistance Tests and More](https://www.bicyclerollingresistance.com/)
 - [Great Question &lpar;YC W21&rpar; Is Hiring Product Engineers &lpar;Rails/React&rpar;](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react)
 - [Translation of the Rust&#39;s core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
 - [A low budget consumer hardware espionage implant: a GSM device hidden in](https://ha.cking.ch/s8_data_line_locator/)
 - [Show HN: I built a math website the internet loved, I&#39;m back with more features](https://teachyourselfmath.app/?page=1)
-- [Born to run? Endurance running may have evolved to help humans chase down prey](https://www.science.org/content/article/born-run-early-endurance-running--may-have-evolved-help-humans-chase-down-prey)
 <!-- BLOG-POST-LIST:END -->
 
 ---
