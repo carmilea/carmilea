@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parseback: A pure-Lua introspection library for LuaJIT&#39;s FFI ctype objects](https://github.com/javierguerragiraldez/parseback)
+- [Air Quality Monitors Compared: AirGradient vs. Purple Air](https://www.airgradient.com/blog/airgradient-vs-purple-air/)
+- [Parking reform legalized most of the new homes in Buffalo and Seattle &lpar;2023&rpar;](https://www.sightline.org/2023/04/13/parking-reform-legalized-most-of-the-new-homes-in-buffalo-and-seattle/)
 - [Romance author gets locked out of Google Docs for &quot;inappropriate&quot; content](https://www.dexerto.com/tech/romance-author-gets-locked-out-of-google-docs-for-inappropriate-content-2713004/)
 - [URLhaus: A database of malicious URLs used for malware distribution](https://urlhaus.abuse.ch/)
-- [The most talented person in the world](https://matt.sh/the-most-talented-person)
-- [Ilya Sutskever to leave OpenAI](https://twitter.com/ilyasut/status/1790517455628198322)
-- [Contact of Containership Dali with the Key Bridge and Subsequent Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
