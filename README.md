@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Romance author gets locked out of Google Docs for &quot;inappropriate&quot; content](https://www.dexerto.com/tech/romance-author-gets-locked-out-of-google-docs-for-inappropriate-content-2713004/)
+- [URLhaus: A database of malicious URLs used for malware distribution](https://urlhaus.abuse.ch/)
 - [The most talented person in the world](https://matt.sh/the-most-talented-person)
 - [Ilya Sutskever to leave OpenAI](https://twitter.com/ilyasut/status/1790517455628198322)
 - [Contact of Containership Dali with the Key Bridge and Subsequent Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
-- [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
-- [Muse Retrospective](https://adamwiggins.com/muse-retrospective/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
