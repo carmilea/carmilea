@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A &#39;plague&#39; comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
+- [Haiku Activity and Contract Report, April 2024](https://www.haiku-os.org/blog/waddlesplash/2024-05-14-haiku_activity_contract_report_april_2024/)
+- [Project Gameface Launches on Android](https://developers.googleblog.com/en/project-gameface-launches-on-android/)
+- [PaliGemma: Open-Source Multimodal Model by Google](https://blog.roboflow.com/paligemma-multimodal-vision/)
 - [An Empirical Evaluation of Columnar Storage Formats [pdf]](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
-- [Ashby &lpar;YC W19&rpar; Is Hiring Technical EMs Who Love Coaching](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
-- [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
-- [Show HN: Tarsier – Vision utilities for web interaction agents](https://github.com/reworkd/tarsier)
-- [Google opens up its smart home to everyone and will make Google TVs home hubs](https://www.theverge.com/2024/5/15/24157154/google-home-api-matter-smart-home-chromecast-google-tv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
