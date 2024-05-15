@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhone owners say the latest iOS update is resurfacing deleted nudes](https://www.theverge.com/2024/5/15/24157284/apple-iphone-ios-17-5-update-deleted-photos-voicemails)
 - [Ashby &lpar;YC W19&rpar; Is Hiring Technical EMs Who Love Coaching](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
 - [Show HN: Tarsier – vision for text-only LLM web agents that beats GPT-4o](https://github.com/reworkd/tarsier)
 - [Google opens up its smart home to everyone and will make Google TVs home hubs](https://www.theverge.com/2024/5/15/24157154/google-home-api-matter-smart-home-chromecast-google-tv)
-- [Starting emails with &quot;BEGIN PGP MESSAGE&quot; will fool the filter](https://nondeterministic.computer/@martin/112444389342113780)
-- [Reasons not to take Lumina&#39;s anticavity probiotic](https://trevorklee.substack.com/p/please-dont-take-luminas-anticavity)
+- [Three of the Oldest Stars in the Universe Found Circling the Milky Way](https://news.mit.edu/2024/mit-researchers-discover-universes-oldest-stars-in-galactic-backyard-0514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
