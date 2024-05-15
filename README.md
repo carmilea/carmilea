@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plane, open-source Jira alternative, got to 100K+ Docker and 44K+ K8s deploys](https://plane.so/blog/streamlining-self-hosting-managing-100k-docker-44000-kubernetes-deploys-ease)
+- [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
+- [Making a Postgres query 1k times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
 - [A &#39;plague&#39; comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
-- [Haiku Activity and Contract Report, April 2024](https://www.haiku-os.org/blog/waddlesplash/2024-05-14-haiku_activity_contract_report_april_2024/)
-- [In medicine what&#39;s the difference between an -ectomy, an -ostomy, and an -otomy?](https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy)
-- [New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy](https://github.com/ggerganov/llama.cpp/pull/7154)
-- [Helios Secrets: Public Preview](https://www.singlestore.com/blog/helios-secrets-public-preview)
+- [In medicine what&#39;s the difference between an -ectomy, an -ostomy, and an -otomy? &lpar;1986&rpar;](https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
