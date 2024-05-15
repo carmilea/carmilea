@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe Photoshop Source Code &lpar;2013&rpar;](https://computerhistory.org/blog/adobe-photoshop-source-code/)
-- [Show HN: I wrote a symmetry game with a daily puzzle](https://www.hidden-mirrors.com)
-- [Jan Leike Resigns from OpenAI](https://twitter.com/janleike/status/1790603862132596961)
-- [Show HN: Open-source BI and analytics for engineers](https://github.com/quarylabs/quary)
-- [Accidentally breaking GitHub Actions with a shorthash collision](https://blog.teddykatz.com/2019/11/12/github-actions-dos.html)
+- [Ashby &lpar;YC W19&rpar; Is Hiring Technical EMs Who Love Coaching](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
+- [Show HN: Tarsier – vision for text-only LLM web agents that beats GPT-4o](https://github.com/reworkd/tarsier)
+- [Google opens up its smart home to everyone and will make Google TVs home hubs](https://www.theverge.com/2024/5/15/24157154/google-home-api-matter-smart-home-chromecast-google-tv)
+- [Starting emails with &quot;BEGIN PGP MESSAGE&quot; will fool the filter](https://nondeterministic.computer/@martin/112444389342113780)
+- [Reasons not to take Lumina&#39;s anticavity probiotic](https://trevorklee.substack.com/p/please-dont-take-luminas-anticavity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
