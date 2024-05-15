@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New WiFi Vulnerability: The SSID Confusion Attack](https://www.top10vpn.com/research/wifi-vulnerability-ssid/)
 - [Department of Justice says Boeing may be criminally liable in 737 MAX crashes](https://www.usatoday.com/story/money/2024/05/14/boeing-department-of-justice-criminal-liability/73692655007/)
 - [Parseback: A pure-Lua introspection library for LuaJIT&#39;s FFI ctype objects](https://github.com/javierguerragiraldez/parseback)
 - [Air Quality Monitors Compared: AirGradient vs. Purple Air](https://www.airgradient.com/blog/airgradient-vs-purple-air/)
 - [Parking reform legalized most of the new homes in Buffalo and Seattle &lpar;2023&rpar;](https://www.sightline.org/2023/04/13/parking-reform-legalized-most-of-the-new-homes-in-buffalo-and-seattle/)
-- [URLhaus: A database of malicious URLs used for malware distribution](https://urlhaus.abuse.ch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
