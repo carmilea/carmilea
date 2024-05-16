@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I am resigning from OpenAI – Harrison Kinsley](https://twitter.com/Sentdex/status/1790927013315747939)
-- [Samsung Is Mocking Apple](https://twitter.com/SamsungMobileUS/status/1790824457365594487)
-- [VCs Aren&#39;t Your Friends](https://www.openvc.app/blog/vcs-arent-your-friends)
+- [Typewise &lpar;YC S22&rpar; is hiring Product Designer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x)
+- [MKUltra](https://en.wikipedia.org/wiki/MKUltra)
+- [VCs aren’t your friends](https://www.openvc.app/blog/vcs-arent-your-friends)
+- [Kernel.org servers infected with backdoors for two years from 2009](https://arstechnica.com/security/2024/05/ssh-backdoor-has-infected-400000-linux-servers-over-15-years-and-keeps-on-spreading/)
 - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
-- [Enhancing R: The Vision and Impact of Jan Vitek&#39;s MaintainR Initiative](https://www.r-consortium.org/blog/2024/05/15/enhancing-r-the-vision-and-impact-of-jan-viteks-maintainr-initiative)
 <!-- BLOG-POST-LIST:END -->
 
 ---
