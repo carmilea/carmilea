@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [How Safe Is SF?](https://howsafeissf.com/)
-- [Show HN: I&#39;ve built a macOS app for developers to clean their dev machines](https://apps.apple.com/ua/app/cleano/id6469460523?mt=12)
-- [OpenAI and Reddit Partnership](https://openai.com/index/openai-and-reddit-partnership/)
-- [Germany&#39;s Sovereign Tech Fund Now Supporting FFmpeg](https://www.phoronix.com/news/Germany-STF-For-FFmpeg)
+- [Improvements to Data Analysis in ChatGPT](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
+- [Hertz sold a bunch of Teslas and it turns out they&#39;re all kinds of trouble](https://qz.com/tesla-hertz-used-electric-cars-evs-damage-glitches-1851482632)
+- [Deutsche Bahn Introduces &quot;MetaWindow&quot;](https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations – Is Hiring](https://skio.com/careers/)
+- [Winamp has announced that it is &quot;opening up&quot; its source code](https://about.winamp.com/press/article/winamp-open-source-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
