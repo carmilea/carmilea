@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Typewise &lpar;YC S22&rpar; is hiring Product Designer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x)
-- [&lpar;OpenBSD&rpar; Add sysctl to disable Nagle&#39;s algorithm](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
-- [VCs aren’t your friends](https://www.openvc.app/blog/vcs-arent-your-friends)
-- [Kernel.org servers infected with backdoors for two years from 2009](https://arstechnica.com/security/2024/05/ssh-backdoor-has-infected-400000-linux-servers-over-15-years-and-keeps-on-spreading/)
-- [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
+- [Elicit: The AI Research Assistant](https://elicit.com/)
+- [Students invent quieter leaf blower](https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/)
+- [Why Bad CEOs Fear Remote Work &lpar;2021&rpar;](https://scottberkun.com/2021/why-bad-ceos-fear-remote-work/)
+- [EU opens child safety probes of Facebook and Instagram, citing addictive design](https://techcrunch.com/2024/05/16/eu-opens-child-safety-probes-of-facebook-and-instagram-citing-addictive-design-concerns/)
+- [Proxmox VE Helper-Scripts](https://helper-scripts.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
