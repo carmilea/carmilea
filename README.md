@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Things I won&#39;t work with: the higher states of bromine](https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine)
-- [NetBSD bans all commits of AI-generated code](https://mastodon.sdf.org/@netbsd/112446618914747900)
+- [VCs Aren&#39;t Your Friends](https://www.openvc.app/blog/vcs-arent-your-friends)
+- [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
+- [Things I won&#39;t work with: the higher states of bromine &lpar;2019&rpar;](https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine)
 - [Swift sucks at web serving or does it?](https://wadetregaskis.com/swift-sucks-at-web-serving-or-does-it/)
 - [Utah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments](https://www.techdirt.com/2024/05/15/utah-locals-are-getting-cheap-10-gbps-fiber-thanks-to-local-governments/)
-- [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
