@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 1:1s are a staple of management. I hated it and found it useless](https://twitter.com/adityaag/status/1790798947617013836)
+- [Utah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments](https://www.techdirt.com/2024/05/15/utah-locals-are-getting-cheap-10-gbps-fiber-thanks-to-local-governments/)
+- [LLMs are not suitable for brainstorming](https://piaoyang0.wordpress.com/2024/05/15/llms-are-not-suitable-for-brainstorming/)
+- [FCC Chairwoman Proposes Internet Routing Security Reporting Requirements [pdf]](https://docs.fcc.gov/public/attachments/DOC-402579A1.pdf)
 - [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
-- [Making a Postgres query 1k times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
-- [A &#39;plague&#39; comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
-- [In medicine what&#39;s the difference between an -ectomy, an -ostomy, and an -otomy? &lpar;1986&rpar;](https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy)
-- [New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy](https://github.com/ggerganov/llama.cpp/pull/7154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
