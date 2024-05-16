@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
-- [What&#39;s New in Neovim 0.10](https://gpanders.com/blog/whats-new-in-neovim-0.10/)
-- [F* – A Proof-Oriented Programming Language](https://www.fstar-lang.org/)
-- [Elicit: The AI Research Assistant](https://elicit.com/)
-- [Students invent quieter leaf blower](https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/)
+- [Sprint, T-Mobile Merger Killed Wireless Price Competition in U.S.](https://www.techdirt.com/2024/05/16/report-sprint-t-mobile-merger-immediately-killed-wireless-price-competition-in-u-s/)
+- [The spy who flunked it: Kurt Gödel&#39;s forgotten part in the atom-bomb story](https://www.nature.com/articles/d41586-024-00644-1)
+- [The “3.5% rule”: How a small minority can change the world](https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world)
+- [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Apache Flink Expert Staff Engineer](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-staff-engineer-apache-flink-expert)
+- [Port 666 is officially registered to Doom](https://www.ibiblio.org/shadow/docs/port_numbers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
