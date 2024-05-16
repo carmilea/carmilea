@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build WebGPU Apps Today with PlayCanvas](https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/)
+- [Egypt&#39;s Pyramids May Have Been Built on a Long-Lost Branch of the Nile](https://www.nature.com/articles/s43247-024-01379-7)
+- [Intel&#39;s Thunderbolt Share lets two PCs control each other over a USB cable](https://www.theverge.com/2024/5/15/24156519/intel-thunderbolt-share-app)
+- [Deactivating Facebook for just a few weeks reduces belief in fake news](https://english.elpais.com/technology/2024-05-14/deactivating-facebook-for-just-a-few-weeks-reduces-belief-in-fake-news.html)
 - [Sprint, T-Mobile Merger Killed Wireless Price Competition in U.S.](https://www.techdirt.com/2024/05/16/report-sprint-t-mobile-merger-immediately-killed-wireless-price-competition-in-u-s/)
-- [The spy who flunked it: Kurt Gödel&#39;s forgotten part in the atom-bomb story](https://www.nature.com/articles/d41586-024-00644-1)
-- [The “3.5% rule”: How a small minority can change the world](https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world)
-- [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Apache Flink Expert Staff Engineer](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-staff-engineer-apache-flink-expert)
-- [Port 666 is officially registered to Doom](https://www.ibiblio.org/shadow/docs/port_numbers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
