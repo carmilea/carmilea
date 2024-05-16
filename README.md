@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If you wanna know why I am resigned from OpenAI](https://twitter.com/Sentdex/status/1790927013315747939)
 - [Typewise &lpar;YC S22&rpar; is hiring Product Designer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x)
 - [MKUltra](https://en.wikipedia.org/wiki/MKUltra)
+- [&lpar;OpenBSD&rpar; Add sysctl to disable Nagle&#39;s algorithm](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
 - [VCs aren’t your friends](https://www.openvc.app/blog/vcs-arent-your-friends)
-- [Kernel.org servers infected with backdoors for two years from 2009](https://arstechnica.com/security/2024/05/ssh-backdoor-has-infected-400000-linux-servers-over-15-years-and-keeps-on-spreading/)
-- [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
