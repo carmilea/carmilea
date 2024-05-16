@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who Wants 30k Used Teslas?](https://nymag.com/intelligencer/article/who-wants-to-buy-30-000-used-teslas-from-hertz.html)
+- [Companies need AI services revenues, not cost savings](https://www.ft.com/content/f8e4dac5-5869-4db9-b4ba-1398408e3962)
 - [I Don&#39;t Want to Spend My One Precious Life Dealing with Google&#39;s AI Search](https://aftermath.site/google-ai-search-god-no-why)
 - [Reflex &lpar;YC W23&rpar; Is Hiring Software Engineers](https://www.ycombinator.com/companies/reflex/jobs/6kHXK7x-software-engineer)
 - [Using Llamafiles for Embeddings in Local RAG Applications](https://future.mozilla.org/news/llamafiles-for-embeddings-in-local-rag-applications/)
-- [We&#39;ve All Felt It](https://www.raycast.com/why)
-- [Mummy Brown](https://en.wikipedia.org/wiki/Mummy_brown)
 <!-- BLOG-POST-LIST:END -->
 
 ---
