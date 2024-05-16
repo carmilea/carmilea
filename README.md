@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What It&#39;s Like Riding a Plug-In Hybrid Two-Stroke All-Wheel Drive Moped](https://www.theautopian.com/hybrid-awd-moped-retrospective-scooters/)
+- [Things I won&#39;t work with: the higher states of bromine](https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine)
+- [NetBSD bans all commits of AI-generated code](https://mastodon.sdf.org/@netbsd/112446618914747900)
+- [Swift sucks at web serving or does it?](https://wadetregaskis.com/swift-sucks-at-web-serving-or-does-it/)
 - [Utah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments](https://www.techdirt.com/2024/05/15/utah-locals-are-getting-cheap-10-gbps-fiber-thanks-to-local-governments/)
 - [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
-- [Qualcomm&#39;s Oryon LLVM Patches](https://chipsandcheese.com/2024/05/15/qualcomms-oryon-llvm-patches/)
-- [Making a Postgres query 1k times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
