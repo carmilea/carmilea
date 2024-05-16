@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore Helios® Cloud](https://www.youtube.com/watch?v=YwLLpEhL_uo)
 - [Reviewing the Best LLMs: Use Cases for OpenAI, Gemini, Llama, Mistral, Claude | SIngleStore Webinars](https://www.youtube.com/watch?v=Rw2VkHArx_0)
 - [How to Chat with Images Data Using New GPT-4 Vision API | SingleStore Webinars](https://www.youtube.com/watch?v=EHtNEkDGbL4)
 - [Beginners Guide to LangChain: Chat with Your Multi-Model Data | SingleStore Webinars](https://www.youtube.com/watch?v=ChtfVYny1H4)
 - [Dave Unleashing the Power of Jira. The Ultimate Swiss Army Knife!](https://www.youtube.com/watch?v=Y74xP3eumhY)
-- [Understanding Large Language Models &lpar;LLMs&rpar;, Retrieval Augmented Generation &lpar;RAG&rpar;, &amp; More!](https://www.youtube.com/watch?v=PqJCsi5Sjic)
 <!-- YOUTUBE:END -->
 
 
