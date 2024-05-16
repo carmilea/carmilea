@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A long list of &lpar;advanced&rpar; JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions)
-- [JEP Draft: Draft: Support HTTP/3 in the HttpClient](https://openjdk.org/jeps/8291976)
-- [Companies need AI services revenues, not cost savings](https://www.ft.com/content/f8e4dac5-5869-4db9-b4ba-1398408e3962)
-- [The most confusing emojis in every US state in 2024](https://preply.com/en/blog/most-confusing-emojis-2024/)
-- [You probably don&#39;t need to validate UTF-8 strings](https://viralinstruction.com/posts/utf8/)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [How Safe Is SF?](https://howsafeissf.com/)
+- [Show HN: I&#39;ve built a macOS app for developers to clean their dev machines](https://apps.apple.com/ua/app/cleano/id6469460523?mt=12)
+- [OpenAI and Reddit Partnership](https://openai.com/index/openai-and-reddit-partnership/)
+- [Germany&#39;s Sovereign Tech Fund Now Supporting FFmpeg](https://www.phoronix.com/news/Germany-STF-For-FFmpeg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
