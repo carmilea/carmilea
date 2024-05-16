@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NetBSD bans use of Copilot-generated code](https://www.osnews.com/story/139698/netbsd-bans-use-of-copilot-generated-code/)
+- [Cardiovascular health and cancer risk associated with plant based diets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300711)
 - [Elicit: The AI Research Assistant](https://elicit.com/)
 - [Students invent quieter leaf blower](https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/)
-- [Why Bad CEOs Fear Remote Work &lpar;2021&rpar;](https://scottberkun.com/2021/why-bad-ceos-fear-remote-work/)
-- [EU opens child safety probes of Facebook and Instagram, citing addictive design](https://techcrunch.com/2024/05/16/eu-opens-child-safety-probes-of-facebook-and-instagram-citing-addictive-design-concerns/)
-- [Proxmox VE Helper-Scripts](https://helper-scripts.com/)
+- [Internet use associated with higher wellbeing, finds new global Oxford study](https://www.ox.ac.uk/news/2024-05-14-internet-use-statistically-associated-higher-wellbeing-finds-new-global-oxford-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
