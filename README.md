@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Don&#39;t Want to Spend My One Precious Life Dealing with Google&#39;s AI Search](https://aftermath.site/google-ai-search-god-no-why)
+- [Reflex &lpar;YC W23&rpar; Is Hiring Software Engineers](https://www.ycombinator.com/companies/reflex/jobs/6kHXK7x-software-engineer)
+- [Using Llamafiles for Embeddings in Local RAG Applications](https://future.mozilla.org/news/llamafiles-for-embeddings-in-local-rag-applications/)
+- [Mummy Brown](https://en.wikipedia.org/wiki/Mummy_brown)
 - [Build WebGPU Apps Today with PlayCanvas](https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/)
-- [Egypt&#39;s Pyramids May Have Been Built on a Long-Lost Branch of the Nile](https://www.nature.com/articles/s43247-024-01379-7)
-- [Intel&#39;s Thunderbolt Share lets two PCs control each other over a USB cable](https://www.theverge.com/2024/5/15/24156519/intel-thunderbolt-share-app)
-- [Deactivating Facebook for just a few weeks reduces belief in fake news](https://english.elpais.com/technology/2024-05-14/deactivating-facebook-for-just-a-few-weeks-reduces-belief-in-fake-news.html)
-- [Sprint, T-Mobile Merger Killed Wireless Price Competition in U.S.](https://www.techdirt.com/2024/05/16/report-sprint-t-mobile-merger-immediately-killed-wireless-price-competition-in-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
