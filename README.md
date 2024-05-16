@@ -59,8 +59,8 @@
 - [I Don&#39;t Want to Spend My One Precious Life Dealing with Google&#39;s AI Search](https://aftermath.site/google-ai-search-god-no-why)
 - [Reflex &lpar;YC W23&rpar; Is Hiring Software Engineers](https://www.ycombinator.com/companies/reflex/jobs/6kHXK7x-software-engineer)
 - [Using Llamafiles for Embeddings in Local RAG Applications](https://future.mozilla.org/news/llamafiles-for-embeddings-in-local-rag-applications/)
+- [We&#39;ve All Felt It](https://www.raycast.com/why)
 - [Mummy Brown](https://en.wikipedia.org/wiki/Mummy_brown)
-- [Build WebGPU Apps Today with PlayCanvas](https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
