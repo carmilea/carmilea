@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise and Fall of the Trad Wife](https://www.newyorker.com/culture/persons-of-interest/the-rise-and-fall-of-the-trad-wife)
-- [Confronting Another Axis? History, Humility, and Wishful Thinking](https://tnsr.org/2024/05/confronting-another-axis-history-humility-and-wishful-thinking/)
-- [BIMI and DMARC Can&#39;t Save You: The Overlooked DKIM Exploit](https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/)
-- [Sakuga-42M Dataset: Scaling Up Cartoon Research](https://arxiv.org/abs/2405.07425)
-- [Beekeeper furious over destruction of $2M honey crop](https://www.rnz.co.nz/news/business/516930/beekeeper-steven-brown-furious-over-destruction-of-2m-honey-crop)
+- [OpenAI Dissolves High-Profile Safety Team After Chief Scientist Sutskever&#39;s Exit](https://www.bloomberg.com/news/articles/2024-05-17/openai-dissolves-key-safety-team-after-chief-scientist-ilya-sutskever-s-exit)
+- [&#39;I&#39;m the new Oppenheimer &#39;: Palantir&#39;s first-ever AI warfare conference](https://www.theguardian.com/technology/article/2024/may/17/ai-weapons-palantir-war-technology)
+- [A Trial HIV Vaccine Triggered Elusive and Essential Antibodies in Humans](https://corporate.dukehealth.org/news/trial-hiv-vaccine-triggered-elusive-and-essential-antibodies-humans)
+- [Rust 1.78: Performance Impact of the 128-Bit Memory Alignment Fix](https://codspeed.io/blog/rust-1-78-performance-impact-of-the-128-bit-memory-alignment-fix)
+- [Rachel Aviv Wrote That New Yorker Story on Lucy Letby](https://www.niemanlab.org/2024/05/impossible-to-approach-the-reporting-the-way-i-normally-would-how-rachel-aviv-wrote-that-new-yorker-story-on-lucy-letby/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
