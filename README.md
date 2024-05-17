@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [N-Dimensional Gaussians for Fitting of High Dimensional Functions](https://www.sdiolatz.info/ndg-fitting/)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
+- [&quot;Privacy may be an anomaly&quot;, says Google&#39;s Vint Cerf &lpar;2013&rpar;](https://www.theverge.com/2013/11/20/5125922/vint-cerf-google-internet-evangelist-says-privacy-may-be-anomaly)
+- [HMT: Hierarchical Memory Transformer for Long Context Language Processing](https://arxiv.org/abs/2405.06067)
 - [Why neural networks struggle with the Game of Life &lpar;2020&rpar;](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
-- [How to read C type declarations &lpar;2003&rpar;](http://www.unixwiz.net/techtips/reading-cdecl.html)
-- [Welcome to the Parallel Future of Computation](https://hvm-page.pages.dev)
-- [It&#39;s official: ADSL works over wet string &lpar;2017&rpar;](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
