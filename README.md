@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zwentendorf Nuclear Power Plant: Finished in 1978 but never used](https://www.atlasobscura.com/places/zwentendorf-nuclear-power-plant)
 - [Urban renewal left the U.S. too scared to build](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
-- [100 Exercises to Learn Rust](https://rust-exercises.com/)
+- [Exercises to Learn Rust](https://rust-exercises.com/)
 - [A transport protocol&#39;s view of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
 - [Visualizing algorithms for rate limiting](https://smudge.ai/blog/ratelimit-algorithms)
+- [A forged Apple employee badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
