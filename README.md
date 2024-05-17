@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Urban renewal left the U.S. too scared to build](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
-- [Exercises to Learn Rust](https://rust-exercises.com/)
-- [A transport protocol&#39;s view of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
-- [Visualizing algorithms for rate limiting](https://smudge.ai/blog/ratelimit-algorithms)
-- [A forged Apple employee badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
+- [Many Searchers Want to Turn Off Google AI Overviews](https://www.seroundtable.com/searchers-want-to-turn-off-google-ai-overviews-37405.html)
+- [Why neural networks struggle with the Game of Life](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
+- [OpenBSD – sshd&lpar;8&rpar; split into multiple binaries](https://www.undeadly.org/cgi?action=article;sid=20240517092416)
+- [Mozilla Firefox Adds Support for AI-Powered Nvidia RTX Video](https://blogs.nvidia.com/blog/ai-decoded-rtxvideo-firefox/)
+- [DNA confirms there IS a big cat roaming the British countryside](https://www.discoverwildlife.com/animal-facts/mammals/big-cat-british-countryside)
 <!-- BLOG-POST-LIST:END -->
 
 ---
