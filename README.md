@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Many Searchers Want to Turn Off Google AI Overviews](https://www.seroundtable.com/searchers-want-to-turn-off-google-ai-overviews-37405.html)
-- [Why neural networks struggle with the Game of Life](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
-- [OpenBSD – sshd&lpar;8&rpar; split into multiple binaries](https://www.undeadly.org/cgi?action=article;sid=20240517092416)
-- [DNA confirms there IS a big cat roaming the British countryside](https://www.discoverwildlife.com/animal-facts/mammals/big-cat-british-countryside)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
+- [Why neural networks struggle with the Game of Life &lpar;2020&rpar;](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
 - [How to read C type declarations &lpar;2003&rpar;](http://www.unixwiz.net/techtips/reading-cdecl.html)
+- [Welcome to the Parallel Future of Computation](https://hvm-page.pages.dev)
+- [It&#39;s official: ADSL works over wet string &lpar;2017&rpar;](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
