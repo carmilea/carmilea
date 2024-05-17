@@ -59,8 +59,8 @@
 - [Zwentendorf Nuclear Power Plant: Finished in 1978 but never used](https://www.atlasobscura.com/places/zwentendorf-nuclear-power-plant)
 - [Urban renewal left the U.S. too scared to build](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
 - [100 Exercises to Learn Rust](https://rust-exercises.com/)
-- [Moment: A Family of Open Time-Series Foundation Models](https://arxiv.org/abs/2402.03885)
 - [A transport protocol&#39;s view of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
+- [Visualizing algorithms for rate limiting](https://smudge.ai/blog/ratelimit-algorithms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
