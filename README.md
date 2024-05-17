@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zwentendorf Nuclear Power Plant: Finished in 1978 but was never used](https://www.atlasobscura.com/places/zwentendorf-nuclear-power-plant)
 - [Urban Renewal Ruined Everything](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
 - [Databases for Data Scientist – And why you probably don&#39;t need one](https://josiahparry.com/posts/2024-05-16-databases-for-ds)
 - [100 Exercises to Learn Rust](https://rust-exercises.com/)
 - [Moment: A Family of Open Time-Series Foundation Models](https://arxiv.org/abs/2402.03885)
-- [WD Releases New 6TB 2.5-Inch External Hard Drives – First Upgrade in Seven Years](https://www.anandtech.com/show/21400/not-dead-yet-wd-intros-6tb-25-inch-external-hard-drives)
 <!-- BLOG-POST-LIST:END -->
 
 ---
