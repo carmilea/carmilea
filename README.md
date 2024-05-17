@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [GPT-4o for Developers: Hands-On with OpenAI&#39;s Spring Release | SingleStore Webinars](https://www.youtube.com/watch?v=SREo31RO_QY)
 - [Beginners Guide to Retrieval Augmented Generation with Professor Tom Yeh | SingleStore Webinars](https://www.youtube.com/watch?v=4rt66pmpwZA)
 - [Did OpenAI&#39;s GPT-4 Just Kill Vector Databases? | SingleStore Webinars](https://www.youtube.com/watch?v=BPJG8z6NleM)
 - [SingleStore Helios® Cloud](https://www.youtube.com/watch?v=YwLLpEhL_uo)
 - [Reviewing the Best LLMs: Use Cases for OpenAI, Gemini, Llama, Mistral, Claude | SIngleStore Webinars](https://www.youtube.com/watch?v=Rw2VkHArx_0)
-- [How to Chat with Images Data Using New GPT-4 Vision API | SingleStore Webinars](https://www.youtube.com/watch?v=EHtNEkDGbL4)
 <!-- YOUTUBE:END -->
 
 
