@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Public Key Encryption](https://blog.cryptographyengineering.com/2017/07/02/beyond-public-key-encryption/)
-- [Interactive Visualizations of Rate-Limiting Algorithms](https://smudge.ai/blog/ratelimit-algorithms)
-- [LearnLM models tuned for human learning](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/)
-- [The Forged Apple Employee Badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
-- [Slack AI Training with Customer Data](https://slack.com/trust/data-management/privacy-principles?nojsmode=1)
+- [100 Exercises to Learn Rust](https://rust-exercises.com/)
+- [Moment: A Family of Open Time-Series Foundation Models](https://arxiv.org/abs/2402.03885)
+- [WD Releases New 6TB 2.5-Inch External Hard Drives – First Upgrade in Seven Years](https://www.anandtech.com/show/21400/not-dead-yet-wd-intros-6tb-25-inch-external-hard-drives)
+- [It was online for 3 seconds before getting a 404 request for /.git/config](https://honeypot.net/2024/05/16/i-am-not.html)
+- [A Transport Protocol&#39;s View of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
