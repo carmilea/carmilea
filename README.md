@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [N-Dimensional Gaussians for Fitting of High Dimensional Functions](https://www.sdiolatz.info/ndg-fitting/)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
-- [&quot;Privacy may be an anomaly&quot;, says Google&#39;s Vint Cerf &lpar;2013&rpar;](https://www.theverge.com/2013/11/20/5125922/vint-cerf-google-internet-evangelist-says-privacy-may-be-anomaly)
-- [HMT: Hierarchical Memory Transformer for Long Context Language Processing](https://arxiv.org/abs/2405.06067)
-- [Why neural networks struggle with the Game of Life &lpar;2020&rpar;](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
+- [Confronting Another Axis? History, Humility, and Wishful Thinking](https://tnsr.org/2024/05/confronting-another-axis-history-humility-and-wishful-thinking/)
+- [BIMI and DMARC Can&#39;t Save You: The Overlooked DKIM Exploit](https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/)
+- [Sakuga-42M Dataset: Scaling Up Cartoon Research](https://arxiv.org/abs/2405.07425)
+- [Beekeeper furious over destruction of $2M honey crop](https://www.rnz.co.nz/news/business/516930/beekeeper-steven-brown-furious-over-destruction-of-2m-honey-crop)
+- [&quot;The financial costs of healthcare costs, or, is keeping me alive worth it?&quot;](https://jakeseliger.com/2024/05/16/the-financial-costs-of-healthcare-costs-or-is-keeping-me-alive-worth-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
