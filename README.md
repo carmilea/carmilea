@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Public Key Encryption](https://blog.cryptographyengineering.com/2017/07/02/beyond-public-key-encryption/)
+- [Interactive Visualizations of Rate-Limiting Algorithms](https://smudge.ai/blog/ratelimit-algorithms)
+- [LearnLM models tuned for human learning](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/)
+- [The Forged Apple Employee Badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 - [Slack AI Training with Customer Data](https://slack.com/trust/data-management/privacy-principles?nojsmode=1)
-- [Improvements to Data Analysis in ChatGPT](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
-- [Army soldiers not impressed with Strykers outfitted with 50-kilowatt lasers](https://breakingdefense.com/2024/05/army-soldiers-not-impressed-with-strykers-outfitted-with-50-kilowatt-lasers-service-official-says/)
-- [Deutsche Bahn Introduces &quot;MetaWindow&quot;](https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations – Is Hiring](https://skio.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
