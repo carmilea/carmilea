@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zwentendorf Nuclear Power Plant: Finished in 1978 but was never used](https://www.atlasobscura.com/places/zwentendorf-nuclear-power-plant)
-- [Urban Renewal Ruined Everything](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
-- [Databases for Data Scientist – And why you probably don&#39;t need one](https://josiahparry.com/posts/2024-05-16-databases-for-ds)
+- [Zwentendorf Nuclear Power Plant: Finished in 1978 but never used](https://www.atlasobscura.com/places/zwentendorf-nuclear-power-plant)
+- [Urban renewal left the U.S. too scared to build](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
 - [100 Exercises to Learn Rust](https://rust-exercises.com/)
 - [Moment: A Family of Open Time-Series Foundation Models](https://arxiv.org/abs/2402.03885)
+- [A transport protocol&#39;s view of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
