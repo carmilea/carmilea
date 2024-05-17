@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Back to the Past: IPv4 Browsing &lpar;Egress&rpar; Activated via NAT64](https://blog.ipv6.rs/ipv4-activated-via-nat64/)
+- [Chrome DevTools now uses Gemini to help with JavaScript Errors in the console](https://developer.chrome.com/docs/devtools/console/understand-messages)
+- [Show HN: Slice Tap Toy](https://memalign.github.io/m/slice/index.html)
 - [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
 - [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
 - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
-- [The case against dual axis charts &lpar;and what to use instead&rpar; &lpar;2018&rpar;](https://blog.datawrapper.de/dualaxis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
