@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
 - [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
-- [Microsoft now says your PC is in need of &#39;repair&#39; if you&#39;re not using Edge](https://www.tomsguide.com/computing/windows-operating-systems/microsoft-now-says-your-pc-is-in-need-of-repair-if-youre-not-using-bing-with-edge)
-- [A Charming Algorithm for Count-Distinct](https://justinjaffray.com/a-charming-algorithm-for-count-distinct/)
 - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
 - [The case against dual axis charts &lpar;and what to use instead&rpar; &lpar;2018&rpar;](https://blog.datawrapper.de/dualaxis/)
+- [A Trial HIV Vaccine Triggered Elusive and Essential Antibodies in Humans](https://corporate.dukehealth.org/news/trial-hiv-vaccine-triggered-elusive-and-essential-antibodies-humans)
 <!-- BLOG-POST-LIST:END -->
 
 ---
