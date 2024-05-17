@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Archie, the Internet&#39;s first search engine, is rescued and running](https://arstechnica.com/gadgets/2024/05/archie-the-internets-first-search-engine-is-rescued-and-running/)
 - [Chrome DevTools now uses Gemini to help with JavaScript Errors in the console](https://developer.chrome.com/docs/devtools/console/understand-messages)
+- [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
 - [Show HN: Slice Tap Toy](https://memalign.github.io/m/slice/index.html)
 - [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
-- [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
-- [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
