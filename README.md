@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Truemetrics &lpar;YC S23&rpar; is hiring a back end engineer](https://www.ycombinator.com/companies/truemetrics/jobs/CyhEPcE-python-developer-with-strong-backend-and-aws-and-data-skills)
+- [Write Plain Text Files](https://sive.rs/plaintext)
 - [First proof that &quot;plunging regions&quot; exist around black holes in space](https://www.ox.ac.uk/news/2024-05-17-first-proof-plunging-regions-exist-around-black-holes-space)
-- [The Time I Convinced the CTO Not to Outsource Our Developers](https://GrumpyOldDev.com/post/the-one-where-i-convince-the-cto-not-to-outsource/)
 - [Zoraxy: Open-Source, All in one homelab network routing solution](https://zoraxy.arozos.com/)
 - [Multi AI agent systems using OpenAI&#39;s assistants API](https://github.com/metaskills/experts)
-- [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
