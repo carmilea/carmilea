@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
-- [Working with jumbo/unity builds in C/C++](https://austinmorlan.com/posts/unity_jumbo_build/)
-- [Cyber Security: A Pre-War Reality Check](https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/)
-- [Malleable software in the age of LLMs &lpar;2023&rpar;](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html)
-- [Gio UI – Cross-Platform GUI for Go](https://gioui.org/)
+- [I organized a 20-acre game of Capture the Flag](https://www.ntnbr.com/61/)
+- [A word game I built to understand semantic distance](https://celestineplawrence.itch.io/guess-the-word)
+- [Japan: The Land That Doesn&#39;t Need Ozempic](https://time.com/6974579/japan-food-culture-low-obesity/)
+- [Free, Linux Capable, Self-Hosting 64bit RISC-V Computer on an FPGA](https://www.contrib.andrew.cmu.edu/~somlo/BTCP/)
+- [French post office releases scratch-and-sniff baguette stamp](https://www.theguardian.com/artanddesign/article/2024/may/17/french-post-office-releases-scratch-and-sniff-baguette-stamp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
