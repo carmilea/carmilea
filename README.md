@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Neural network trained on &#39;Friends&#39; can detect sarcasm 75% of the time](https://www.popsci.com/technology/sarcasm-algorithm/)
-- [London Webcam](https://londonwebcam.co.uk/)
+- [Sam Altman on opeanai non disparagement exit clause](https://x.com/sama/status/1791936857594581428)
+- [Streak &lpar;YC W22&rpar; is hiring a staff web UI engineer &lpar;remote&rpar;](https://www.streak.com/careers/staff-ui-engineer)
+- [Swiss&#39; Entire Boeing 777 Fleet Now Has Shark Skin Technology](https://simpleflying.com/swiss-entire-boeing-777-fleet-aeroshark/)
+- [Personality changes associated with organ transplants](https://www.mdpi.com/2673-3943/5/1/2)
 - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
-- [Almost a quarter of kids aged 5-7 have smartphones](https://www.bbc.com/news/technology-68838029)
-- [Days since it was DNS](https://dayssince.itwasdns.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
