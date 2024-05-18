@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Multi AI Agent Systems Using OpenAI&#39;s New GPT-4o Model](https://github.com/metaskills/experts)
-- [Wine 9.9 &lpar;Dev&rpar; – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.9)
-- [Ex-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity](https://x.com/KelseyTuoc/status/1791584357184127269)
 - [Expedia Group fired their CTO, Rathi Murthy](https://www.phocuswire.com/rathi-murthy-expedia-group-cto)
 - [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
+- [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
+- [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
