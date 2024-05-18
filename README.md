@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Truemetrics &lpar;YC S23&rpar; is hiring a back end engineer](https://www.ycombinator.com/companies/truemetrics/jobs/CyhEPcE-python-developer-with-strong-backend-and-aws-and-data-skills)
-- [Write Plain Text Files](https://sive.rs/plaintext)
 - [Zoraxy: Open-Source, All in one homelab network routing solution](https://zoraxy.arozos.com/)
-- [Japanese court rules that AI cannot be issued patents](https://japannews.yomiuri.co.jp/society/crime-courts/20240517-186568/)
+- [wxHexEditor — a Free Hex Editor / Disk Editor for Huge Files or Devices](http://www.wxhexeditor.org/)
 - [Multi AI agent systems using OpenAI&#39;s assistants API](https://github.com/metaskills/experts)
+- [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
