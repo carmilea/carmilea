@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Peanut Butter Spinner](https://cdaringe.com/peanut-butter-spinner/)
-- [Show HN: A Golang CP/M emulator](https://github.com/skx/cpmulator)
-- [Frozen human brain tissue was successfully revived for the first time](https://bgr.com/science/frozen-human-brain-tissue-was-successfully-revived-for-the-first-time/)
-- [International Scientific Report on the Safety of Advanced AI [pdf]](https://assets.publishing.service.gov.uk/media/66474eab4f29e1d07fadca3d/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf)
-- [OpenAI Scraps Team That Researched Risk of &#39;Rogue&#39; AI](https://www.businessinsider.com/openai-ends-superalignment-team-manage-ai-risks-2024-5)
+- [Neural network trained on &#39;Friends&#39; can detect sarcasm 75% of the time](https://www.popsci.com/technology/sarcasm-algorithm/)
+- [London Webcam](https://londonwebcam.co.uk/)
+- [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
+- [Almost a quarter of kids aged 5-7 have smartphones](https://www.bbc.com/news/technology-68838029)
+- [Days since it was DNS](https://dayssince.itwasdns.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
