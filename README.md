@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Over 1k vulns that MITRE and NIST &#39;might&#39; have missed but China or Russia didn&#39;t](https://blog.arpsyndicate.io/over-a-1000-vulnerabilities-that-mitre-nist-might-have-missed-but-china-or-russia-did-not-871b2364a526)
 - [Multi AI Agent Systems Using OpenAI&#39;s New GPT-4o Model](https://github.com/metaskills/experts)
-- [Expedia Group fired their CTO, Rathi Murthy](https://www.phocuswire.com/rathi-murthy-expedia-group-cto)
+- [I&#39;m Bearish OpenAI](https://stovetop.substack.com/p/im-bearish-openai)
 - [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
 - [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
-- [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
