@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman on opeanai non disparagement exit clause](https://x.com/sama/status/1791936857594581428)
+- [OpenAI created a team to control &#39;superintelligent&#39; AI – then let it wither](https://techcrunch.com/2024/05/18/openai-created-a-team-to-control-superintelligent-ai-then-let-it-wither-source-says/)
+- [Dwarf Fortress starting during apt-get upgrade](https://askubuntu.com/questions/938606/dwarf-fortress-starting-during-apt-get-upgrade)
 - [Streak &lpar;YC W22&rpar; is hiring a staff web UI engineer &lpar;remote&rpar;](https://www.streak.com/careers/staff-ui-engineer)
+- [Disabling Modernism](https://placesjournal.org/article/modernist-schools-for-disabled-children-new-deal-era/)
 - [Swiss&#39; Entire Boeing 777 Fleet Now Has Shark Skin Technology](https://simpleflying.com/swiss-entire-boeing-777-fleet-aeroshark/)
-- [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
-- [Show HN: Peanut Butter Spinner](https://cdaringe.com/peanut-butter-spinner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
