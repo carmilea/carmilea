@@ -59,8 +59,8 @@
 - [Sam Altman on opeanai non disparagement exit clause](https://x.com/sama/status/1791936857594581428)
 - [Streak &lpar;YC W22&rpar; is hiring a staff web UI engineer &lpar;remote&rpar;](https://www.streak.com/careers/staff-ui-engineer)
 - [Swiss&#39; Entire Boeing 777 Fleet Now Has Shark Skin Technology](https://simpleflying.com/swiss-entire-boeing-777-fleet-aeroshark/)
-- [Personality changes associated with organ transplants](https://www.mdpi.com/2673-3943/5/1/2)
 - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
+- [Show HN: Peanut Butter Spinner](https://cdaringe.com/peanut-butter-spinner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
