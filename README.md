@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [38% of webpages that existed in 2013 are no longer accessible a decade later](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/)
+- [Malleable software in the age of LLMs &lpar;2023&rpar;](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html)
+- [DOJ: Man sentenced to 14 years for posession of deepfake CSAM](https://www.justice.gov/opa/pr/recidivist-sex-offender-sentenced-possessing-deepfake-child-sexual-abuse-material)
+- [Gio UI – Cross-Platform GUI for Go](https://gioui.org/)
 - [Truemetrics &lpar;YC S23&rpar; is hiring a back end engineer](https://www.ycombinator.com/companies/truemetrics/jobs/CyhEPcE-python-developer-with-strong-backend-and-aws-and-data-skills)
-- [Zoraxy: Open-Source, All in one homelab network routing solution](https://zoraxy.arozos.com/)
-- [wxHexEditor — a Free Hex Editor / Disk Editor for Huge Files or Devices](http://www.wxhexeditor.org/)
-- [Multi AI agent systems using OpenAI&#39;s assistants API](https://github.com/metaskills/experts)
-- [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
