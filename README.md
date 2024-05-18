@@ -58,8 +58,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Truemetrics &lpar;YC S23&rpar; is hiring a back end engineer](https://www.ycombinator.com/companies/truemetrics/jobs/CyhEPcE-python-developer-with-strong-backend-and-aws-and-data-skills)
 - [Write Plain Text Files](https://sive.rs/plaintext)
-- [First proof that &quot;plunging regions&quot; exist around black holes in space](https://www.ox.ac.uk/news/2024-05-17-first-proof-plunging-regions-exist-around-black-holes-space)
 - [Zoraxy: Open-Source, All in one homelab network routing solution](https://zoraxy.arozos.com/)
+- [Japanese court rules that AI cannot be issued patents](https://japannews.yomiuri.co.jp/society/crime-courts/20240517-186568/)
 - [Multi AI agent systems using OpenAI&#39;s assistants API](https://github.com/metaskills/experts)
 <!-- BLOG-POST-LIST:END -->
 
