@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Over 1k vulns that MITRE and NIST &#39;might&#39; have missed but China or Russia didn&#39;t](https://blog.arpsyndicate.io/over-a-1000-vulnerabilities-that-mitre-nist-might-have-missed-but-china-or-russia-did-not-871b2364a526)
-- [Multi AI Agent Systems Using OpenAI&#39;s New GPT-4o Model](https://github.com/metaskills/experts)
-- [I&#39;m Bearish OpenAI](https://stovetop.substack.com/p/im-bearish-openai)
+- [First proof that &quot;plunging regions&quot; exist around black holes in space](https://www.ox.ac.uk/news/2024-05-17-first-proof-plunging-regions-exist-around-black-holes-space)
+- [Zoraxy: Open-Source, All in one homelab network routing solution](https://zoraxy.arozos.com/)
+- [Multi AI agent systems using OpenAI&#39;s assistants API](https://github.com/metaskills/experts)
 - [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
 - [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
 <!-- BLOG-POST-LIST:END -->
