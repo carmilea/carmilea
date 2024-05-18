@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Conviction of Tornado Cash programmer: Privacy is not a crime](https://www.patrick-breyer.de/en/conviction-of-tornado-cash-programmer-privacy-is-not-a-crime/)
+- [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
 - [Working with jumbo/unity builds in C/C++](https://austinmorlan.com/posts/unity_jumbo_build/)
-- [Seven Dyson Sphere Candidates](https://www.centauri-dreams.org/2024/05/18/seven-dyson-sphere-candidates/)
-- [LLM-generated code must not be committed without prior written approval by core](https://www.netbsd.org/developers/commit-guidelines.html)
 - [Cyber Security: A Pre-War Reality Check](https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/)
+- [Malleable software in the age of LLMs &lpar;2023&rpar;](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html)
+- [Gio UI – Cross-Platform GUI for Go](https://gioui.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
