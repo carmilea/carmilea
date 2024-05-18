@@ -57,9 +57,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why a New Yorker Story on a Notorious Murder Case Is Blocked in Britain](https://www.nytimes.com/2024/05/16/world/europe/new-yorker-story-murder-letby-britain.html)
-- [Australian War Crime Whistleblower David McBride Sentenced to Jail](https://www.youtube.com/watch?v=VrFs2_uhz-o)
+- [If you’re seeing this, I’m in jail [video]](https://www.youtube.com/watch?v=VrFs2_uhz-o)
+- [Six charts help to explain 2024&#39;s freakish temperatures](https://www.economist.com/graphic-detail/2024/05/15/six-charts-help-to-explain-2024s-freakish-temperatures)
 - [Tegelwippen](https://www.nk-tegelwippen.nl/)
-- [Seven Dyson Sphere Candidates](https://www.centauri-dreams.org/2024/05/18/seven-dyson-sphere-candidates/)
 - [Ilya Sutskever: “If you learn all of these, you’ll know 90% of what matters”](https://www.reddit.com/r/ArtificialInteligence/comments/1cpbh1s/ilya_sutskever_if_you_really_learn_all_of_these/)
 <!-- BLOG-POST-LIST:END -->
 
