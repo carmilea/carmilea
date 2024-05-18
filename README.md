@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why a New Yorker Story on a Notorious Murder Case Is Blocked in Britain](https://www.nytimes.com/2024/05/16/world/europe/new-yorker-story-murder-letby-britain.html)
-- [If you’re seeing this, I’m in jail [video]](https://www.youtube.com/watch?v=VrFs2_uhz-o)
-- [Six charts help to explain 2024&#39;s freakish temperatures](https://www.economist.com/graphic-detail/2024/05/15/six-charts-help-to-explain-2024s-freakish-temperatures)
-- [Tegelwippen](https://www.nk-tegelwippen.nl/)
-- [Ilya Sutskever: “If you learn all of these, you’ll know 90% of what matters”](https://www.reddit.com/r/ArtificialInteligence/comments/1cpbh1s/ilya_sutskever_if_you_really_learn_all_of_these/)
+- [Conviction of Tornado Cash programmer: Privacy is not a crime](https://www.patrick-breyer.de/en/conviction-of-tornado-cash-programmer-privacy-is-not-a-crime/)
+- [Working with jumbo/unity builds in C/C++](https://austinmorlan.com/posts/unity_jumbo_build/)
+- [Seven Dyson Sphere Candidates](https://www.centauri-dreams.org/2024/05/18/seven-dyson-sphere-candidates/)
+- [LLM-generated code must not be committed without prior written approval by core](https://www.netbsd.org/developers/commit-guidelines.html)
+- [Cyber Security: A Pre-War Reality Check](https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
