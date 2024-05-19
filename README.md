@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Helicopter in Iranian president&#39;s convoy crashes – state media](https://www.bbc.com/news/articles/cv22311qx21o)
-- [Apple geofences third-party browser engine work for EU devices](https://www.theregister.com/2024/05/17/apple_browser_eu/)
+- [Make Timelapse easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
+- [Nitrogen dioxide exposure due to gas and propane combustion by U.S. stoves](https://www.science.org/doi/10.1126/sciadv.adm8680)
+- [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
 - [Show HN: Digital player board for Terraforming Mars](https://terraforming-mars-player-board.netlify.app/)
 - [Compilers for Free with Weval](https://bernsteinbear.com/blog/weval/)
-- [You could have invented fractional cascading](http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
