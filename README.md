@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Reading list to join AI field from Hugging Face cofounder](https://thomwolf.io/data/Thom_wolf_reading_list.txt)
 - [Mathematicians and the Selection Task](https://eric.ed.gov/?id=ED489556)
-- [Michelle&#39;s List: Glassdoor but for Landlords and Properties](https://www.michelleslist.com/)
+- [Show HN: Open-source GeForce NOW alternative with Stadia&#39;s social features](https://github.com/netrisdotme/netris)
+- [Michelle&#39;s List: A free, anonymous landlord review site](https://www.michelleslist.com/)
 - [Microsoft&#39;s Emissions Spike 29% as AI Gobbles Up Resources](https://www.pcmag.com/news/microsofts-emissions-spike-29-as-ai-gobbles-up-resources)
-- [Common Data Structures in Common Lisp](https://blog.djhaskin.com/blog/common-data-structures-in-common-lisp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
