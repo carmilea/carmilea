@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unprojecting Text with Ellipses &lpar;2016&rpar;](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
+- [Beating Jeff&#39;s 3.14 Ghz Raspberry Pi 5](https://jonatron.github.io/randomstuff/pivolt/)
 - [Meteor Just Seen in Portugal](https://old.reddit.com/r/interestingasfuck/comments/1cva6j6/meteor_just_seen_in_portugal_23h45/)
 - [The Toilet Theory of the Internet](https://www.theatlantic.com/technology/archive/2024/05/google-generative-ai-search-toilet-theory/678411/)
-- [North Korea&#39;s bizarre, post-modern cityscapes](https://www.reuters.com/pictures/architecture-control-north-koreas-bizarre-post-modern-cityscapes-2024-05-19/)
-- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
-- [Meringue Philosophy](https://meringue.readthedocs.io/en/latest/meringue_philosophy.html)
+- [Operation CHARM: Car repair manuals for everyone](https://charm.li/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
