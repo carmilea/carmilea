@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How GM Made the $35,000 Chevrolet Equinox EV into a 319-Mile Range Champ](https://insideevs.com/news/720117/gm-equinox-affordable-tech-preview/)
+- [Riven](https://www.filfre.net/2024/05/riven/)
 - [Reading list to join AI field from Hugging Face cofounder](https://thomwolf.io/data/Thom_wolf_reading_list.txt)
 - [Mathematicians and the Selection Task](https://eric.ed.gov/?id=ED489556)
 - [Show HN: Open-source GeForce NOW alternative with Stadia&#39;s social features](https://github.com/netrisdotme/netris)
-- [Michelle&#39;s List: A free, anonymous landlord review site](https://www.michelleslist.com/)
-- [Microsoft&#39;s Emissions Spike 29% as AI Gobbles Up Resources](https://www.pcmag.com/news/microsofts-emissions-spike-29-as-ai-gobbles-up-resources)
 <!-- BLOG-POST-LIST:END -->
 
 ---
