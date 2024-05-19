@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft&#39;s Emissions Spike 29% as AI Gobbles Up Resources](https://www.pcmag.com/news/microsofts-emissions-spike-29-as-ai-gobbles-up-resources)
 - [How to Exit Vim](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md)
 - [Petosemtamab Receives FDA Breakthrough Therapy Designation: Head / Neck Cancers](https://www.onclive.com/view/petosemtamab-receives-fda-breakthrough-therapy-designation-in-pretreated-hnscc)
+- [Common Data Structures in Common Lisp](https://blog.djhaskin.com/blog/common-data-structures-in-common-lisp/)
 - [Go Browser Package](https://browser.dineshgowda.com/)
-- [Apache NuttX RTOS on Sophgo SG2000 RISC-V SoC &lpar;Milk-V Duo S SBC&rpar;](https://lupyuen.codeberg.page/articles/sg2000.html)
-- [Streak &lpar;YC W22&rpar; is hiring a staff web UI engineer &lpar;remote&rpar;](https://www.streak.com/careers/staff-ui-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
