@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Iberian lynx doubles its population in just three years](https://english.elpais.com/science-tech/2024-05-17/the-iberian-lynx-doubles-its-population-in-just-three-years-and-reaches-2000-individuals.html)
+- [Classic Usenet posts on computer architecture, operating systems and languages](https://yarchive.net/comp/index.html)
 - [How GM Made the $35,000 Chevrolet Equinox EV into a 319-Mile Range Champ](https://insideevs.com/news/720117/gm-equinox-affordable-tech-preview/)
+- [Big Tech to EU: &quot;Drop Dead&quot;](https://www.eff.org/deeplinks/2024/05/big-tech-eu-drop-dead)
 - [Riven](https://www.filfre.net/2024/05/riven/)
-- [Reading list to join AI field from Hugging Face cofounder](https://thomwolf.io/data/Thom_wolf_reading_list.txt)
-- [Mathematicians and the Selection Task](https://eric.ed.gov/?id=ED489556)
-- [Show HN: Open-source GeForce NOW alternative with Stadia&#39;s social features](https://github.com/netrisdotme/netris)
 <!-- BLOG-POST-LIST:END -->
 
 ---
