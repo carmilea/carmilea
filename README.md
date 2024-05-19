@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An attorney says she saw her library reading habits reflected in mobile ads](https://www.theregister.com/2024/05/18/mystery_of_the_targeted_mobile_ads/)
 - [Show HN: Digital player board for Terraforming Mars](https://terraforming-mars-player-board.netlify.app/)
-- [Chess and 18th Century artificial intelligence &lpar;2013&rpar;](https://www.bbc.com/news/magazine-21876120)
+- [Compilers for Free with Weval](https://bernsteinbear.com/blog/weval/)
 - [You could have invented fractional cascading](http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/)
 - [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
-- [Advisory report on unacceptable behaviour published](https://www.universiteitleiden.nl/en/news/2024/05/advisory-report-on-unacceptable-behaviour-published)
 <!-- BLOG-POST-LIST:END -->
 
 ---
