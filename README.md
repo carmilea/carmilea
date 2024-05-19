@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microwaves Not Made in China](https://www.aintfromchina.com/kitchen/microwaves.html)
+- [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
+- [Show HN: Interactive Graph by LLM &lpar;GPT-4o&rpar;](https://columns.ai/chatgpt)
 - [&quot;No Mow May&quot; Won&#39;t Fix Our Biodiversity Problems](https://www.motherjones.com/environment/2024/05/no-mow-may-bad-science-lawns-grass-biodiversity/)
 - [Emerge Tools &lpar;YC W21&rpar; is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
-- [I Might&#39;ve Been a Rocket Scientist &lpar;Like My Dad&rpar;, but I Was a Girl](https://exponentii.org/blog/i-mightve-been-a-rocket-scientist-like-my-dad-but-i-was-a-girl/)
-- [Will Better Superconductors Transform the World?](https://www.quantamagazine.org/will-better-superconductors-transform-the-world-20240509/)
-- [The Iberian lynx doubles its population in just three years](https://english.elpais.com/science-tech/2024-05-17/the-iberian-lynx-doubles-its-population-in-just-three-years-and-reaches-2000-individuals.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
