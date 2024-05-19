@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reading list to join AI field from Hugging Face cofounder](https://thomwolf.io/data/Thom_wolf_reading_list.txt)
+- [Mathematicians and the Selection Task](https://eric.ed.gov/?id=ED489556)
+- [Michelle&#39;s List: Glassdoor but for Landlords and Properties](https://www.michelleslist.com/)
 - [Microsoft&#39;s Emissions Spike 29% as AI Gobbles Up Resources](https://www.pcmag.com/news/microsofts-emissions-spike-29-as-ai-gobbles-up-resources)
-- [How to Exit Vim](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md)
-- [Petosemtamab Receives FDA Breakthrough Therapy Designation: Head / Neck Cancers](https://www.onclive.com/view/petosemtamab-receives-fda-breakthrough-therapy-designation-in-pretreated-hnscc)
 - [Common Data Structures in Common Lisp](https://blog.djhaskin.com/blog/common-data-structures-in-common-lisp/)
-- [Go Browser Package](https://browser.dineshgowda.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
