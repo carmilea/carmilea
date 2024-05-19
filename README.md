@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge Tools &lpar;YC W21&rpar; is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
+- [Ask HN: Why are people so mean in the open source community? &lpar;about xz again&rpar;](https://news.ycombinator.com/item?id=40404761)
+- [Will Better Superconductors Transform the World?](https://www.quantamagazine.org/will-better-superconductors-transform-the-world-20240509/)
 - [The Iberian lynx doubles its population in just three years](https://english.elpais.com/science-tech/2024-05-17/the-iberian-lynx-doubles-its-population-in-just-three-years-and-reaches-2000-individuals.html)
 - [Classic Usenet posts on computer architecture, operating systems and languages](https://yarchive.net/comp/index.html)
-- [How GM Made the $35,000 Chevrolet Equinox EV into a 319-Mile Range Champ](https://insideevs.com/news/720117/gm-equinox-affordable-tech-preview/)
-- [Big Tech to EU: &quot;Drop Dead&quot;](https://www.eff.org/deeplinks/2024/05/big-tech-eu-drop-dead)
-- [Riven](https://www.filfre.net/2024/05/riven/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
