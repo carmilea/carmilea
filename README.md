@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Digital player board for Terraforming Mars](https://terraforming-mars-player-board.netlify.app/)
 - [Chess and 18th Century artificial intelligence &lpar;2013&rpar;](https://www.bbc.com/news/magazine-21876120)
 - [You could have invented fractional cascading](http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/)
 - [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
-- [AI Books4 Dataset for training LLMs further](https://old.reddit.com/r/datasets/comments/1cvi151/ai_books4_dataset_for_training_llms_further/)
-- [Show HN: Interactive Graph by LLM &lpar;GPT-4o&rpar;](https://columns.ai/chatgpt)
+- [Advisory report on unacceptable behaviour published](https://www.universiteitleiden.nl/en/news/2024/05/advisory-report-on-unacceptable-behaviour-published)
 <!-- BLOG-POST-LIST:END -->
 
 ---
