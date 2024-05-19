@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microwaves Not Made in China](https://www.aintfromchina.com/kitchen/microwaves.html)
+- [Chess and 18th Century artificial intelligence &lpar;2013&rpar;](https://www.bbc.com/news/magazine-21876120)
+- [You could have invented fractional cascading](http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/)
 - [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
+- [AI Books4 Dataset for training LLMs further](https://old.reddit.com/r/datasets/comments/1cvi151/ai_books4_dataset_for_training_llms_further/)
 - [Show HN: Interactive Graph by LLM &lpar;GPT-4o&rpar;](https://columns.ai/chatgpt)
-- [&quot;No Mow May&quot; Won&#39;t Fix Our Biodiversity Problems](https://www.motherjones.com/environment/2024/05/no-mow-may-bad-science-lawns-grass-biodiversity/)
-- [Emerge Tools &lpar;YC W21&rpar; is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
