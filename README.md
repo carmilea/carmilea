@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meteor Just Seen in Portugal](https://old.reddit.com/r/interestingasfuck/comments/1cva6j6/meteor_just_seen_in_portugal_23h45/)
+- [The Toilet Theory of the Internet](https://www.theatlantic.com/technology/archive/2024/05/google-generative-ai-search-toilet-theory/678411/)
+- [North Korea&#39;s bizarre, post-modern cityscapes](https://www.reuters.com/pictures/architecture-control-north-koreas-bizarre-post-modern-cityscapes-2024-05-19/)
 - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
-- [Free Julian Assange](https://freeassange.org/)
-- [Am I too old to create a popular programming language?](https://pldb.io/posts/age.html)
-- [First Black astronaut candidate, now 90, reaches space in Blue Origin flight](https://www.theguardian.com/science/article/2024/may/19/ed-dwight-blue-origin-first-black-astronaut-candidate)
-- [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
+- [Meringue Philosophy](https://meringue.readthedocs.io/en/latest/meringue_philosophy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
