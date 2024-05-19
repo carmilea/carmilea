@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+- [Free Julian Assange](https://freeassange.org/)
+- [Am I too old to create a popular programming language?](https://pldb.io/posts/age.html)
+- [First Black astronaut candidate, now 90, reaches space in Blue Origin flight](https://www.theguardian.com/science/article/2024/may/19/ed-dwight-blue-origin-first-black-astronaut-candidate)
 - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
-- [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
-- [AI doppelgänger experiment – Part 1: The training](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
-- [A floppy disk MIDI boombox: The Yamaha MDP-10](https://nicole.express/2024/elementary-midi-watson.html)
-- [Italy&#39;s $12.7B Bridge to Sicily [video]](https://www.youtube.com/watch?v=wt1S46iqBAY)
 <!-- BLOG-POST-LIST:END -->
 
 ---
