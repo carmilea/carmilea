@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia&#39;s glide bombs devastating Ukraine&#39;s cities on the cheap](https://www.bbc.com/news/articles/cz5drkr8l1ko)
+- [Training my own AI to steal artists&#39; styles](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
+- [Italy&#39;s $12.7B Bridge to Sicily [video]](https://www.youtube.com/watch?v=wt1S46iqBAY)
 - [Make Timelapse easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
-- [Nitrogen dioxide exposure due to gas and propane combustion by U.S. stoves](https://www.science.org/doi/10.1126/sciadv.adm8680)
-- [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
-- [Show HN: Digital player board for Terraforming Mars](https://terraforming-mars-player-board.netlify.app/)
-- [Compilers for Free with Weval](https://bernsteinbear.com/blog/weval/)
+- [Microsoft set to unveil its vision for AI PCs](https://www.cnbc.com/2024/05/19/microsoft-ai-pcs-build-2024.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
