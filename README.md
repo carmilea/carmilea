@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Regulations Are Crony Capitalism in Action](https://reason.com/2024/05/19/ais-cozy-crony-capitalism/)
-- [Training my own AI to steal artists&#39; styles](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
-- [A Floppy Disk MIDI Boombox: The Yamaha MDP-10](https://nicole.express/2024/elementary-midi-watson.html)
+- [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
+- [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
+- [AI doppelgänger experiment – Part 1: The training](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
+- [A floppy disk MIDI boombox: The Yamaha MDP-10](https://nicole.express/2024/elementary-midi-watson.html)
 - [Italy&#39;s $12.7B Bridge to Sicily [video]](https://www.youtube.com/watch?v=wt1S46iqBAY)
-- [Make Timelapse easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
