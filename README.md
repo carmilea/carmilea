@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An identity thief stole $5k from me. I spent two years tracking down how](https://www.msn.com/en-us/news/crime/an-identity-thief-stole-5000-from-me-i-spent-two-years-tracking-down-how/ar-BB1mqh0b)
 - [Fact checking of claims about nuclear power projects](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
 - [Reflections on our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
 - [Show HN: ffmpeg-english &quot;capture from /dev/video0 every 1 second to jpg files&quot;](https://github.com/dheera/scripts/blob/master/ffmpeg-english)
 - [What Is Generative Art? &lpar;2022&rpar;](https://www.amygoodchild.com/blog/what-is-generative-art)
+- [The problem with new URL&lpar;&rpar;, and how URL.parse&lpar;&rpar; fixes that](https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
