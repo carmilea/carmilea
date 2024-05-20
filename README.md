@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An identity thief stole $5k from me. I spent two years tracking down how](https://www.msn.com/en-us/news/crime/an-identity-thief-stole-5000-from-me-i-spent-two-years-tracking-down-how/ar-BB1mqh0b)
 - [Why Fact Checking of Claims About Nuclear Power Projects Is Important](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
 - [Avoidance of sun exposure as a risk factor for major causes of death](https://pubmed.ncbi.nlm.nih.gov/26992108/)
 - [Anthropic: Reflections on Our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
 - [Tutorial: Metacompilers Part 1 &lpar;2016&rpar;](http://www.bayfronttechnologies.com/mc_tutorial.html)
-- [Show HN: ffmpeg-english &quot;capture from /dev/video0 every 1 second to jpg files&quot;](https://github.com/dheera/scripts/blob/master/ffmpeg-english)
 <!-- BLOG-POST-LIST:END -->
 
 ---
