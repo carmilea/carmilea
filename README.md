@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QuestDB &lpar;YC S20&rpar; Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
+- [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)
 - [The efficacy of duct tape vs. cryotherapy in the treatment of the common wart](https://pubmed.ncbi.nlm.nih.gov/12361440/)
 - [Cognitive reflection, intelligence, and cognitive abilities: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0160289621000982)
 - [CVE-2024-4367 – Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
-- [How a 64k intro is made &lpar;2017&rpar;](https://www.lofibucket.com/articles/64k_intro.html)
-- [Grothendieck’s use of equality](https://arxiv.org/abs/2405.10387)
 <!-- BLOG-POST-LIST:END -->
 
 ---
