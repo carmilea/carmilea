@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the voices for ChatGPT were chosen](https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/)
 - [An identity thief stole $5k from me. I spent two years tracking down how](https://www.msn.com/en-us/news/crime/an-identity-thief-stole-5000-from-me-i-spent-two-years-tracking-down-how/ar-BB1mqh0b)
-- [Why Fact Checking of Claims About Nuclear Power Projects Is Important](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
-- [Avoidance of sun exposure as a risk factor for major causes of death](https://pubmed.ncbi.nlm.nih.gov/26992108/)
+- [Fact checking of claims about nuclear power projects](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
 - [Reflections on our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
 - [Show HN: ffmpeg-english &quot;capture from /dev/video0 every 1 second to jpg files&quot;](https://github.com/dheera/scripts/blob/master/ffmpeg-english)
 <!-- BLOG-POST-LIST:END -->
