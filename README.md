@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Konrad Zuse&#39;s Homepage](https://web.archive.org/web/20090214083953/http://user.cs.tu-berlin.de/~zuse/Konrad_Zuse/index.html)
-- [Uber Migrates 1T Records from DynamoDB to LedgerStore to Save $6M Annually](https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/)
-- [British engineering giant Arup revealed as $25M deepfake scam victim](https://www.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk/index.html)
-- [Fact checking of claims about nuclear power projects](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
-- [Reflections on our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
+- [This USB flash drive can only store 8KB of data, but will last you 200 years](https://www.tomshardware.com/pc-components/usb-flash-drives/this-usb-flash-drive-can-only-store-8kb-of-data-but-will-last-you-200-years)
+- [3M Execs Convinced a Scientist PFOS Found in Human Blood Were Safe](https://www.propublica.org/article/3m-forever-chemicals-pfas-pfos-inside-story)
+- [Linux 6.10 Will Print the Number of Populated Memory Slots at Boot Time](https://www.phoronix.com/news/Linux-6.10-Prints-Memory-Slots)
+- [Eco-brutalism: when angular concrete meets the wonder of nature](https://www.theguardian.com/artanddesign/gallery/2024/may/11/eco-brutalism-when-angular-concrete-meets-the-wonder-of-nature-in-pictures)
+- [OpenAI to Pull Scarlet Johansson Soundalike Sky&#39;s Voice from ChatGPT](https://www.bloomberg.com/news/articles/2024-05-20/openai-to-pull-johansson-soundalike-sky-s-voice-from-chatgpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
