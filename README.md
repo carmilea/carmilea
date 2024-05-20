@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The efficacy of duct tape vs. cryotherapy in the treatment of the common wart](https://pubmed.ncbi.nlm.nih.gov/12361440/)
 - [Cognitive reflection, intelligence, and cognitive abilities: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0160289621000982)
 - [CVE-2024-4367 – Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
 - [How a 64k intro is made &lpar;2017&rpar;](https://www.lofibucket.com/articles/64k_intro.html)
 - [Grothendieck’s use of equality](https://arxiv.org/abs/2405.10387)
-- [3M Execs Convinced a Scientist PFOS Found in Human Blood Were Safe](https://www.propublica.org/article/3m-forever-chemicals-pfas-pfos-inside-story)
 <!-- BLOG-POST-LIST:END -->
 
 ---
