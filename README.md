@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fiat brings back its 500e electric model for 2024, with 149 mile range](https://abc7.com/post/fiat-upgrades-electric-500e-model-for-2024/14834672/)
+- [What Is Generative Art?](https://www.amygoodchild.com/blog/what-is-generative-art)
+- [The problem with new URL&lpar;&rpar;, and how URL.parse&lpar;&rpar; fixes that](https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/)
+- [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
 - [Hertz Charging a Tesla Renter for Gas Was Not an Isolated Incident](https://www.thedrive.com/news/hertz-charging-a-tesla-renter-for-gas-was-not-an-isolated-incident)
-- [Ubuntu 24.10 to Default to Wayland for Nvidia Users](https://www.omgubuntu.co.uk/2024/05/ubuntu-24-10-wayland-nvidia)
-- [Unprojecting Text with Ellipses &lpar;2016&rpar;](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
-- [Beating Jeff&#39;s 3.14 Ghz Raspberry Pi 5](https://jonatron.github.io/randomstuff/pivolt/)
-- [Meteor Just Seen in Portugal](https://old.reddit.com/r/interestingasfuck/comments/1cva6j6/meteor_just_seen_in_portugal_23h45/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
