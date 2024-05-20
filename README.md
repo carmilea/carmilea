@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The parents who are saying no to &quot;extracurriculars&quot;](https://slate.com/life/2024/05/smartphone-children-youth-sports-activities-overscheduled.html)
 - [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – Integrations &lpar;Remote in Brazil&rpar;](https://etleap.com/careers/software-engineer-integrations/)
-- [Ask HN: Most successful example using LLMs in daily work/life?](https://news.ycombinator.com/item?id=40419947)
 - [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
+- [How terminal works. Part 1: Xterm, user input](https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html)
 - [Ask HN: Hacker News-like forum, specific to Game Development?](https://news.ycombinator.com/item?id=40419289)
-- [A New Jersey couple survived the Alaskan wilderness on a homestead](https://www.bbc.com/culture/article/20240517-the-intrepid-new-jersey-couple-that-survived-the-alaskan-wilderness-on-a-homestead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
