@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoidance of sun exposure as a risk factor for major causes of death](https://pubmed.ncbi.nlm.nih.gov/26992108/)
+- [Tornado Cash verdict has chilling implications for industry](https://cointelegraph.com/news/tornado-cash-verdict-crypto-industry)
+- [Anthropic: Reflections on Our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
 - [Fiat brings back its 500e electric model for 2024, with 149 mile range](https://abc7.com/post/fiat-upgrades-electric-500e-model-for-2024/14834672/)
-- [What Is Generative Art?](https://www.amygoodchild.com/blog/what-is-generative-art)
-- [The problem with new URL&lpar;&rpar;, and how URL.parse&lpar;&rpar; fixes that](https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/)
-- [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
-- [Hertz Charging a Tesla Renter for Gas Was Not an Isolated Incident](https://www.thedrive.com/news/hertz-charging-a-tesla-renter-for-gas-was-not-an-isolated-incident)
+- [Show HN: ffmpeg-english &quot;capture from /dev/video0 every 1 second to jpg files&quot;](https://github.com/dheera/scripts/blob/master/ffmpeg-english)
 <!-- BLOG-POST-LIST:END -->
 
 ---
