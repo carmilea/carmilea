@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Edited highlights from the evisceration of Craig Wright](https://www.ft.com/content/83dc246e-99ca-4af3-bd07-a815fdafa7c0)
-- [Using Postgres for Everything](https://www.timescale.com/blog/how-to-collapse-your-stack-using-postgresql-for-everything/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – Integrations &lpar;Remote in Brazil&rpar;](https://etleap.com/careers/software-engineer-integrations/)
+- [Ask HN: Most successful example using LLMs in daily work/life?](https://news.ycombinator.com/item?id=40419947)
+- [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
+- [Ask HN: Hacker News-like forum, specific to Game Development?](https://news.ycombinator.com/item?id=40419289)
 - [A New Jersey couple survived the Alaskan wilderness on a homestead](https://www.bbc.com/culture/article/20240517-the-intrepid-new-jersey-couple-that-survived-the-alaskan-wilderness-on-a-homestead)
-- [Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
-- [Introducing Copilot+ PCs](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
