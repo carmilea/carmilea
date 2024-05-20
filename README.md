@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dieter Rams turns 92 – Stream &quot;Rams&quot; for free May 20 and 21](https://www.ohyouprettythings.com/rams)
-- [It Pays to Be a Double Major in College](https://www.wsj.com/personal-finance/college-double-majors-earnings-salary-090e7ea1)
-- [AI chatbots are intruding where people are trying to connect with other humans](https://theconversation.com/ai-chatbots-are-intruding-into-online-communities-where-people-are-trying-to-connect-with-other-humans-229473)
-- [Recall is Microsoft&#39;s key to unlocking the future of PCs](https://www.theverge.com/2024/5/20/24159258/microsoft-recall-ai-explorer-windows-11-surface-event)
-- [Microsoft announces Copilot Plus PCs with built-in AI hardware](https://www.theverge.com/2024/5/20/24160486/microsoft-copilot-plus-ai-arm-chips-pc-surface-event)
+- [Hims Debuts $199 Weight-Loss Shots at 85% Discount to Wegovy](https://www.bloomberg.com/news/articles/2024-05-20/hims-debuts-199-weight-loss-shots-undercutting-wegovy-ozempic)
+- [Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
+- [Caterpillar is putting 240-ton electric haul truck to work in Vale mine](https://electrek.co/2024/05/18/caterpillar-is-putting-massive-240-ton-electric-haul-truck-to-work-in-vale-mine/)
+- [It pays to be a double major in college](https://www.wsj.com/personal-finance/college-double-majors-earnings-salary-090e7ea1)
+- [Introducing Copilot+ PCs](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
