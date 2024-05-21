@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How does modern FreeCAD compare with Solidworks?](https://news.ycombinator.com/item?id=40432337)
-- [The number&#39;s up for 999. And 911. And 000. And 111](https://www.theregister.com/2023/07/03/the_numbers_up_for_999/)
-- [SMTP removes periods – the curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
-- [Firefox bug gets fixed after 25 years](https://bugzilla.mozilla.org/show_bug.cgi?id=33654)
-- [Linux 6.10 Honors One Last ReiserFS Request Made by Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
+- [What&#39;s New in Kotlin 2.0.0](https://kotlinlang.org/docs/whatsnew20.html)
+- [Show HN: An online billboard I built in 2 weeks](https://billboardgrid.com)
+- [Storing knowledge in a single long plain text file](https://breckyunits.com/scrollsets.html)
+- [Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
+- [iTerm2 and AI Hype Overload](https://xeiaso.net/notes/2024/ai-hype/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
