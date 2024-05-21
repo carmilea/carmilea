@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The U.S. Planned to Resettle Guantánamo Prisoners in Oman](https://www.nytimes.com/2024/05/21/us/politics/guantanamo-hamas-israel-oman.html)
+- [Ask HN: How does modern FreeCAD compare with Solidworks?](https://news.ycombinator.com/item?id=40432337)
+- [The number&#39;s up for 999. And 911. And 000. And 111](https://www.theregister.com/2023/07/03/the_numbers_up_for_999/)
+- [SMTP removes periods – the curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
 - [Firefox bug gets fixed after 25 years](https://bugzilla.mozilla.org/show_bug.cgi?id=33654)
-- [How to Turn Off AI Overview in Google and Set &quot;Web&quot; as Default](https://tenbluelinks.org/)
-- [Roame &lpar;YC S23&rpar; is hiring a founding back end engineer](https://www.ycombinator.com/companies/roame/jobs/A2jJQvq-founding-backend-engineer)
-- [Why Your Wi-Fi Router Doubles as an Apple AirTag](https://krebsonsecurity.com/2024/05/why-your-wi-fi-router-doubles-as-an-apple-airtag/)
+- [Linux 6.10 Honors One Last ReiserFS Request Made by Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
