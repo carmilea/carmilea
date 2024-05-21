@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How &quot;dark money&quot; groups help private ISPs lobby against municipal broadband](https://arstechnica.com/tech-policy/2024/05/how-dark-money-groups-help-private-isps-lobby-against-municipal-broadband/)
-- [40-Year old BASICA utility code for teaching](https://github.com/norton120/educator-tools-87)
-- [Cars and Consumer Data: On Unlawful Collection and Use](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/05/cars-consumer-data-unlawful-collection-use)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [We created the first open source implementation of Meta&#39;s TestGen–LLM](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
+- [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
+- [Microplastic presence in dog and human testis](https://academic.oup.com/toxsci/advance-article-abstract/doi/10.1093/toxsci/kfae060/7673133)
+- [University Suspends Students for AI Tool It Gave Them $10k Prize to Make](https://www.404media.co/university-suspends-students-for-ai-homework-tool-it-paid-them-10-000-to-make/)
+- [Show HN: I built a game to help you learn neural network architectures](https://graphgame.sabrina.dev/)
+- [“Dark money” groups help private ISPs lobby against municipal broadband](https://arstechnica.com/tech-policy/2024/05/how-dark-money-groups-help-private-isps-lobby-against-municipal-broadband/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
