@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iTerm2 3.5.0](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
+- [Apple supplier Foxconn among firms asked to cut power use in Vietnam](https://www.reuters.com/technology/apple-supplier-foxconn-among-firms-asked-cut-power-use-vietnam-sources-say-2024-05-21/)
 - [Langfuse &lpar;YC W23&rpar; is hiring engineers in Berlin: open-source LLM devtool](https://github.com/langfuse/langfuse/blob/main/careers)
-- [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
-- [Modos Paper Monitor Pre-Launch on Crowd Supply](https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply)
-- [Chameleon: Meta&#39;s New Multi-Modal LLM](https://arxiv.org/abs/2405.09818)
-- [Stripe increasing &quot;instant payout&quot; fees by 50%](https://support.stripe.com/questions/june-2024-pricing-update-for-instant-payouts-for-businesses-in-the-united-states)
+- [Taking Risk – Startups in UK vs. US](https://tomblomfield.com/post/750852175114174464/taking-risk)
+- [How Might We Learn?](https://andymatuschak.org/hmwl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
