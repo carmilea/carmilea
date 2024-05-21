@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Seawater is rushing under Thwaites Glacier, potentially dire impact on sea level](https://www.cnn.com/2024/05/20/climate/doomsday-glacier-melt-antarctica-climate-intl/index.html)
+- [Stripe increasing &quot;instant payout&quot; fees by 50%](https://support.stripe.com/questions/june-2024-pricing-update-for-instant-payouts-for-businesses-in-the-united-states)
+- [The ChatGPT wrapper product boom is an uncanny valley hellscape](https://www.pcloadletter.dev/blog/llms/)
+- [Comparing desktop development tools, Qt, Electron and macOS Native](https://www.bumblemeow.com/techtalk/#desktop-dev-tools)
 - [Restoring an Apple Silicon Developer Transition Kit &quot;DTK&quot; Mac Mini [video]](https://www.youtube.com/watch?v=reQq8fx4D0Q)
-- [Dual Antibacterial Properties of Copper-Coated Nanotextured Stainless Steel](https://onlinelibrary.wiley.com/doi/10.1002/smll.202311546)
-- [Scientists Confirm Microplastics Now Detected in Human Testicles](https://www.sciencealert.com/scientists-confirm-microplastics-now-detected-in-human-testicles)
-- [Statement from Scarlett Johansson on the OpenAI &quot;Sky&quot; voice](https://twitter.com/BobbyAllyn/status/1792679435701014908)
-- [Google cuts mystery check to US in bid to sidestep jury trial](https://www.reuters.com/legal/government/google-cuts-mystery-check-us-bid-sidestep-jury-trial-2024-05-20/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
