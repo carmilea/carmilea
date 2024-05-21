@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modos Paper Monitor Pre-Launch on Crowd Supply](https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply)
+- [Microsoft Says New Surface Pro Is Faster Than 15&quot; M3 MacBook Air](https://www.macrumors.com/2024/05/20/microsoft-surface-pro-faster-macbook-air/)
+- [How &lpar;and why&rpar; to de-Google your life and protect your privacy](https://proton.me/blog/how-to-de-google)
+- [Chameleon: Meta&#39;s New Multi-Modal LLM](https://arxiv.org/abs/2405.09818)
 - [Stripe increasing &quot;instant payout&quot; fees by 50%](https://support.stripe.com/questions/june-2024-pricing-update-for-instant-payouts-for-businesses-in-the-united-states)
-- [Restoring an Apple Silicon Developer Transition Kit &quot;DTK&quot; Mac Mini [video]](https://www.youtube.com/watch?v=reQq8fx4D0Q)
-- [Dual antibacterial properties of copper-coated nanotextured stainless steel](https://onlinelibrary.wiley.com/doi/10.1002/smll.202311546)
-- [Statement from Scarlett Johansson on the OpenAI &quot;Sky&quot; voice](https://twitter.com/BobbyAllyn/status/1792679435701014908)
-- [Google cuts mystery check to US in bid to sidestep jury trial](https://www.reuters.com/legal/government/google-cuts-mystery-check-us-bid-sidestep-jury-trial-2024-05-20/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
