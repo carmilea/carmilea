@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iTerm2 3.5.0](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
 - [The OpenAI board was right – No &lpar;by a voice actres named Scarlet&rpar; means No](https://garymarcus.substack.com/p/the-openai-board-was-right)
 - [Microsoft&#39;s AI chatbot will &#39;recall&#39; everything you do on its new PCs](https://www.theguardian.com/technology/article/2024/may/20/microsoft-chatbot-assistant-pc)
+- [Which Electric Cars Have Bidirectional Charging &lpar;V2L, V2G, V2H&rpar;](https://zecar.com/resources/which-electric-cars-have-bidirectional-charging)
 - [Apple supplier Foxconn among firms asked to cut power use in Vietnam](https://www.reuters.com/technology/apple-supplier-foxconn-among-firms-asked-cut-power-use-vietnam-sources-say-2024-05-21/)
 - [Langfuse &lpar;YC W23&rpar; is hiring engineers in Berlin: open-source LLM devtool](https://github.com/langfuse/langfuse/blob/main/careers)
 <!-- BLOG-POST-LIST:END -->
