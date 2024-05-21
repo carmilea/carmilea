@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman Is Showing Us Who He Really Is](https://slate.com/technology/2024/05/scarlett-johansson-ai-voice-sam-altman-openai.html)
+- [Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 - [Dyson Sphere Candidates from Gaia DR3, 2MASS, and Wise](https://academic.oup.com/mnras/article/531/1/695/7665761)
 - [Wikimedia Enterprise – APIs for LLMs, AI Training, and More](https://enterprise.wikimedia.com/)
-- [Storing knowledge in a single long plain text file](https://breckyunits.com/scrollsets.html)
-- [Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
