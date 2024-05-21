@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Roame &lpar;YC S23&rpar; Is Hiring a Founding Back End Engineer](https://www.ycombinator.com/companies/roame/jobs/A2jJQvq-founding-backend-engineer)
-- [Nova explosion visible to the naked eye expected any day now](https://arstechnica.com/science/2024/05/if-you-can-see-the-big-dipper-youll-get-to-see-a-star-go-nova-soon/)
-- [General Availability of .NET Aspire: Simplifying .NET Cloud-Native Development](https://devblogs.microsoft.com/dotnet/dotnet-aspire-general-availability/)
-- [Backblaze Scales Storage Cloud](https://www.backblaze.com/blog/how-backblaze-scales-our-storage-cloud/)
-- [US Business Booms and Depressions Since 1775 &lpar;1943&rpar;](https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145)
+- [The U.S. Planned to Resettle Guantánamo Prisoners in Oman](https://www.nytimes.com/2024/05/21/us/politics/guantanamo-hamas-israel-oman.html)
+- [Firefox bug gets fixed after 25 years](https://bugzilla.mozilla.org/show_bug.cgi?id=33654)
+- [How to Turn Off AI Overview in Google and Set &quot;Web&quot; as Default](https://tenbluelinks.org/)
+- [Roame &lpar;YC S23&rpar; is hiring a founding back end engineer](https://www.ycombinator.com/companies/roame/jobs/A2jJQvq-founding-backend-engineer)
+- [Why Your Wi-Fi Router Doubles as an Apple AirTag](https://krebsonsecurity.com/2024/05/why-your-wi-fi-router-doubles-as-an-apple-airtag/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
