@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [&#39;Satoshi&#39; impersonation &#39;a serious abuse of court&#39;s process&#39; judge concludes](https://www.lawgazette.co.uk/news/satoshi-impersonation-a-serious-abuse-of-courts-process-judge-concludes/5119771.article)
 - [We created the first open source implementation of Meta&#39;s TestGen–LLM](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
-- [Trying out the Panel-of-Experts prompting strategy for LLMs](https://sourcery.ai/blog/panel-of-experts/)
-- [One dead as London-Singapore flight hit by turbulence](https://www.bbc.com/news/articles/c8889d7x8j4o)
+- [the engineerguy: The Engineering of Duct Tape [video]](https://www.youtube.com/watch?v=E-F2QQuZZGk)
+- [Going Dark: The war on encryption is on the rise](https://mullvad.net/en/why-privacy-matters/going-dark)
+- [NoTunes is a macOS application that will prevent Apple Music from launching](https://github.com/tombonez/noTunes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
