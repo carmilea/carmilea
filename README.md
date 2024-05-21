@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
 - [Modos Paper Monitor Pre-Launch on Crowd Supply](https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply)
-- [Microsoft Says New Surface Pro Is Faster Than 15&quot; M3 MacBook Air](https://www.macrumors.com/2024/05/20/microsoft-surface-pro-faster-macbook-air/)
-- [How &lpar;and why&rpar; to de-Google your life and protect your privacy](https://proton.me/blog/how-to-de-google)
 - [Chameleon: Meta&#39;s New Multi-Modal LLM](https://arxiv.org/abs/2405.09818)
 - [Stripe increasing &quot;instant payout&quot; fees by 50%](https://support.stripe.com/questions/june-2024-pricing-update-for-instant-payouts-for-businesses-in-the-united-states)
+- [Regular expression matching can be simple and fast &lpar;2007&rpar;](https://swtch.com/%7Ersc/regexp/regexp1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
