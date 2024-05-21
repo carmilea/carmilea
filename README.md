@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Underwater acoustic analysis reveals unique pressure signals – Revisiting MH370](https://www.nature.com/articles/s41598-024-60529-1)
-- [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
-- [How Shadow Banning Can Silently Shift Opinion Online](https://insights.som.yale.edu/insights/how-shadow-banning-can-silently-shift-opinion-online)
-- [Show HN: I built a game to help you learn neural network architectures](https://graphgame.sabrina.dev/)
-- [CADmium: A Local-First CAD Program Built for the Browser](https://mattferraro.dev/posts/cadmium)
+- [Roame &lpar;YC S23&rpar; Is Hiring a Founding Back End Engineer](https://www.ycombinator.com/companies/roame/jobs/A2jJQvq-founding-backend-engineer)
+- [Nova explosion visible to the naked eye expected any day now](https://arstechnica.com/science/2024/05/if-you-can-see-the-big-dipper-youll-get-to-see-a-star-go-nova-soon/)
+- [General Availability of .NET Aspire: Simplifying .NET Cloud-Native Development](https://devblogs.microsoft.com/dotnet/dotnet-aspire-general-availability/)
+- [Backblaze Scales Storage Cloud](https://www.backblaze.com/blog/how-backblaze-scales-our-storage-cloud/)
+- [US Business Booms and Depressions Since 1775 &lpar;1943&rpar;](https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145)
 <!-- BLOG-POST-LIST:END -->
 
 ---
