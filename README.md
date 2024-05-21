@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Restoring an Apple Silicon Developer Transition Kit &quot;DTK&quot; Mac Mini [video]](https://www.youtube.com/watch?v=reQq8fx4D0Q)
+- [Dual Antibacterial Properties of Copper-Coated Nanotextured Stainless Steel](https://onlinelibrary.wiley.com/doi/10.1002/smll.202311546)
+- [Scientists Confirm Microplastics Now Detected in Human Testicles](https://www.sciencealert.com/scientists-confirm-microplastics-now-detected-in-human-testicles)
 - [Statement from Scarlett Johansson on the OpenAI &quot;Sky&quot; voice](https://twitter.com/BobbyAllyn/status/1792679435701014908)
-- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – Integrations &lpar;Remote in Brazil&rpar;](https://etleap.com/careers/software-engineer-integrations/)
-- [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
-- [How terminal works. Part 1: Xterm, user input](https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html)
-- [A New Jersey couple survived the Alaskan wilderness on a homestead](https://www.bbc.com/culture/article/20240517-the-intrepid-new-jersey-couple-that-survived-the-alaskan-wilderness-on-a-homestead)
+- [Google cuts mystery check to US in bid to sidestep jury trial](https://www.reuters.com/legal/government/google-cuts-mystery-check-us-bid-sidestep-jury-trial-2024-05-20/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
