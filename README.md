@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Underwater acoustic analysis reveals unique pressure signals – Revisiting MH370](https://www.nature.com/articles/s41598-024-60529-1)
 - [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
-- [Microplastic presence in dog and human testis](https://academic.oup.com/toxsci/advance-article-abstract/doi/10.1093/toxsci/kfae060/7673133)
-- [University Suspends Students for AI Tool It Gave Them $10k Prize to Make](https://www.404media.co/university-suspends-students-for-ai-homework-tool-it-paid-them-10-000-to-make/)
+- [How Shadow Banning Can Silently Shift Opinion Online](https://insights.som.yale.edu/insights/how-shadow-banning-can-silently-shift-opinion-online)
 - [Show HN: I built a game to help you learn neural network architectures](https://graphgame.sabrina.dev/)
-- [“Dark money” groups help private ISPs lobby against municipal broadband](https://arstechnica.com/tech-policy/2024/05/how-dark-money-groups-help-private-isps-lobby-against-municipal-broadband/)
+- [CADmium: A Local-First CAD Program Built for the Browser](https://mattferraro.dev/posts/cadmium)
 <!-- BLOG-POST-LIST:END -->
 
 ---
