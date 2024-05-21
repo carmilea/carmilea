@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Scarlett Johansson Said No, but OpenAI&#39;s Virtual Assistant Sounds Just Like Her](https://www.nytimes.com/2024/05/20/technology/scarlett-johannson-openai-voice.html)
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [Dyson Sphere Candidates from Gaia DR3, 2MASS, and Wise](https://academic.oup.com/mnras/article/531/1/695/7665761)
 - [Wikimedia Enterprise – APIs for LLMs, AI Training, and More](https://enterprise.wikimedia.com/)
-- [Ask HN: Why don&#39;t VCs just &quot;suck it up&quot; and pay founders a competitive salary?](https://news.ycombinator.com/item?id=40433266)
-- [What&#39;s New in Kotlin 2.0.0](https://kotlinlang.org/docs/whatsnew20.html)
+- [Storing knowledge in a single long plain text file](https://breckyunits.com/scrollsets.html)
+- [Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
