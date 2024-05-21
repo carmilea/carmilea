@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Langfuse &lpar;YC W23&rpar; is hiring engineers in Berlin: open-source LLM devtool](https://github.com/langfuse/langfuse/blob/main/careers)
 - [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
 - [Modos Paper Monitor Pre-Launch on Crowd Supply](https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply)
 - [Chameleon: Meta&#39;s New Multi-Modal LLM](https://arxiv.org/abs/2405.09818)
 - [Stripe increasing &quot;instant payout&quot; fees by 50%](https://support.stripe.com/questions/june-2024-pricing-update-for-instant-payouts-for-businesses-in-the-united-states)
-- [Regular expression matching can be simple and fast &lpar;2007&rpar;](https://swtch.com/%7Ersc/regexp/regexp1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
