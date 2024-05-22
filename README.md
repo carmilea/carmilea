@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why physicists now question the fate of the Universe](https://bigthink.com/starts-with-a-bang/physicists-question-fate-universe/)
+- [Show HN: PBT – A property-based testing library for Ruby](https://github.com/ohbarye/pbt)
+- [Sal Khan is pioneering innovation in education again](https://www.gatesnotes.com/Brave-New-Words)
+- [Mars rover mission will use pioneering nuclear power source](https://www.nature.com/articles/d41586-024-01487-6)
 - [&#39;Right to roam&#39; movement fights to give the commons back to the public](https://news.mongabay.com/2024/05/right-to-roam-movement-fights-to-give-the-commons-back-to-the-commoners/)
-- [Plane &lpar;YC W17&rpar; is hiring product engineers &lpar;Rails/Remote/Americas&rpar;](https://www.ycombinator.com/companies/plane/jobs/6NKkoGo-senior-staff-product-engineer-americas)
-- [Viral DNA in the human genome linked to major psychiatric disorders](https://medicalxpress.com/news/2024-05-ancient-viral-dna-human-genome.html)
-- [Cover Agent: open source regression test generation tool](https://github.com/Codium-ai/cover-agent)
-- [Psion 5mx Emulator](https://wuffs.org/WindEmu/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
