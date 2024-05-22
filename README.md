@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scandal at America&#39;s Top Science Fair](https://www.karlstack.com/p/exclusive-scandal-at-americas-top)
+- [Lem is the editor/IDE well-tuned for Common Lisp](https://lem-project.github.io/)
+- [Scandal at America&#39;s top science fair](https://www.karlstack.com/p/exclusive-scandal-at-americas-top)
 - [Tillywork: Open-Source Work Management](https://github.com/tillywork/tillywork)
 - [Rockman / Mega Man source code](https://bisqwit.iki.fi/jutut/megamansource/)
 - [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Remote Influencer Partnerships Manager](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-influencer-partnerships-manager)
-- [A Road to Common Lisp &lpar;2018&rpar;](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
