@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A landmark multi-year global partnership with News Corp](https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership/)
-- [Carmakers Will Give Your Location to Police Without a Warrant, Senators Say](https://www.thedrive.com/news/automakers-will-give-your-location-to-police-without-a-warrant-senators-say)
-- [Bluesky Adds Direct Messages](https://bsky.social/about/blog/05-22-2024-direct-messages)
+- [Nvidia revenue up 262%, thanks to the AI boom](https://breakingthenews.net/Article/Nvidia%27s-Q1-revenue-up-262-to-dollar26.0B-beating-estimates/62096450)
+- [BreadboardOS firmware for the Raspberry Pi RP2040 features a Linux-like terminal](https://www.cnx-software.com/2024/05/21/breadboardos-firmware-for-the-raspberry-pi-rp2040-features-a-linux-like-terminal/)
+- [Show HN: Simple and fast resume document generation with AI](https://cvgist.com/)
+- [Bluesky adds direct messages](https://bsky.social/about/blog/05-22-2024-direct-messages)
 - [S3 Is Showing Its Age](https://materializedview.io/p/s3-is-showing-its-age)
-- [Try Clojure](https://tryclojure.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
