@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Remote Influencer Partnerships Manager](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-influencer-partnerships-manager)
-- [85% of Neuralink implant wires are already detached, says patient](https://www.popsci.com/technology/neuralink-wire-detachment/)
-- [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
+- [A Road to Common Lisp &lpar;2018&rpar;](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
 - [Designed to Crash: the story of Antonov An-28 HA-LAJ and its demise](https://admiralcloudberg.medium.com/designed-to-crash-the-bizarre-story-of-antonov-an-28-ha-laj-and-its-demise-169b3720d924)
 - [Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
+- [The Stanford Startup and the MIT Startup &lpar;2013&rpar;](http://fpgacomputing.blogspot.com/2013/11/the-stanford-startup-and-mit-startup.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
