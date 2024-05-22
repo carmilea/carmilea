@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Congress Just Made It Basically Impossible to Track Taylor Swift&#39;s Private Jet](https://gizmodo.com/congress-just-made-it-way-harder-to-track-taylor-swift-1851492383)
+- [A landmark multi-year global partnership with News Corp](https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership/)
+- [Carmakers Will Give Your Location to Police Without a Warrant, Senators Say](https://www.thedrive.com/news/automakers-will-give-your-location-to-police-without-a-warrant-senators-say)
 - [Bluesky Adds Direct Messages](https://bsky.social/about/blog/05-22-2024-direct-messages)
+- [S3 Is Showing Its Age](https://materializedview.io/p/s3-is-showing-its-age)
 - [Try Clojure](https://tryclojure.org/)
-- [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
-- [Show HN: B-field, a novel probabilistic key-value data structure &lpar;`rust-bfield`&rpar;](https://github.com/onecodex/rust-bfield)
 <!-- BLOG-POST-LIST:END -->
 
 ---
