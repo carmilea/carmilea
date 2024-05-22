@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why physicists now question the fate of the Universe](https://bigthink.com/starts-with-a-bang/physicists-question-fate-universe/)
+- [Trieve &lpar;YC W24&rpar; Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/trieve/jobs/LN9ucK7-sales-engineer-at-trieve-w24)
+- [Pluckable Strings](https://string.spiel.com/)
 - [Show HN: PBT – A property-based testing library for Ruby](https://github.com/ohbarye/pbt)
 - [Sal Khan is pioneering innovation in education again](https://www.gatesnotes.com/Brave-New-Words)
 - [Mars rover mission will use pioneering nuclear power source](https://www.nature.com/articles/d41586-024-01487-6)
-- [&#39;Right to roam&#39; movement fights to give the commons back to the public](https://news.mongabay.com/2024/05/right-to-roam-movement-fights-to-give-the-commons-back-to-the-commoners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
