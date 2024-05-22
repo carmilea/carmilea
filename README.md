@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lem is the editor/IDE well-tuned for Common Lisp](https://lem-project.github.io/)
+- [Possible firmware issues for Apple Silicon OpenBSD/ARM64 users](https://www.undeadly.org/cgi?action=article;sid=20240522045252)
+- [Lem: Editor/IDE well-tuned for Common Lisp](https://lem-project.github.io/)
 - [Scandal at America&#39;s top science fair](https://www.karlstack.com/p/exclusive-scandal-at-americas-top)
 - [Tillywork: Open-Source Work Management](https://github.com/tillywork/tillywork)
-- [Rockman / Mega Man source code](https://bisqwit.iki.fi/jutut/megamansource/)
 - [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Remote Influencer Partnerships Manager](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-influencer-partnerships-manager)
 <!-- BLOG-POST-LIST:END -->
 
