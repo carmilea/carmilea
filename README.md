@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman Is Showing Us Who He Really Is](https://slate.com/technology/2024/05/scarlett-johansson-ai-voice-sam-altman-openai.html)
+- [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Remote Influencer Partnerships Manager](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-influencer-partnerships-manager)
+- [85% of Neuralink implant wires are already detached, says patient](https://www.popsci.com/technology/neuralink-wire-detachment/)
+- [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
+- [Designed to Crash: the story of Antonov An-28 HA-LAJ and its demise](https://admiralcloudberg.medium.com/designed-to-crash-the-bizarre-story-of-antonov-an-28-ha-laj-and-its-demise-169b3720d924)
 - [Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
-- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- [Dyson Sphere Candidates from Gaia DR3, 2MASS, and Wise](https://academic.oup.com/mnras/article/531/1/695/7665761)
-- [Wikimedia Enterprise – APIs for LLMs, AI Training, and More](https://enterprise.wikimedia.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
