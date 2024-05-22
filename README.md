@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trieve &lpar;YC W24&rpar; Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/trieve/jobs/LN9ucK7-sales-engineer-at-trieve-w24)
-- [Pluckable Strings](https://string.spiel.com/)
-- [Show HN: PBT – A property-based testing library for Ruby](https://github.com/ohbarye/pbt)
-- [Sal Khan is pioneering innovation in education again](https://www.gatesnotes.com/Brave-New-Words)
-- [Mars rover mission will use pioneering nuclear power source](https://www.nature.com/articles/d41586-024-01487-6)
+- [AlphaFold3 – why did Nature publish it without its code?](https://www.nature.com/articles/d41586-024-01463-0)
+- [Try Clojure](https://tryclojure.org/)
+- [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
+- [Show HN: B-field, a novel probabilistic key-value data structure &lpar;`rust-bfield`&rpar;](https://github.com/onecodex/rust-bfield)
+- [One-third of Amazon warehouse workers are on food stamps or Medicaid](https://twitter.com/DanPriceSeattle/status/1791299631558823954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
