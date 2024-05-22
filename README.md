@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fentanyl is fueling a record number of youth drug deaths](https://www.washingtonpost.com/dc-md-va/2024/05/22/fentanyl-youth-overdoses-increase/)
-- [Cortile – Linux auto tiling manager with hot corner support](https://github.com/leukipp/cortile)
-- [Nvidia announces financial results for first quarter fiscal 2025](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2025)
-- [Dynamic loading of real-time content at Figma](https://www.figma.com/blog/speeding-up-file-load-times-one-page-at-a-time/)
-- [Orthodox C++](https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b)
+- [US Justice Department to Seek Breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
+- [Liberal democracy might lose the 21st century](https://www.noahpinion.blog/p/how-liberal-democracy-might-lose)
+- [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
+- [A Michigan farmworker is diagnosed with bird flu in case tied to dairy cows](https://www.npr.org/2024/05/22/1252984256/bird-flu-h5n1-virus-human-michigan-cows)
+- [Voyager 1 Resumes Sending Science Data](https://blogs.nasa.gov/voyager/2024/05/22/voyager-1-resumes-sending-science-data-from-two-instruments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
