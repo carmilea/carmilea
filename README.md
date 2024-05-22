@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Self-driving, Waymo is playing chess while Tesla plays checkers](https://arstechnica.com/cars/2024/05/on-self-driving-waymo-is-playing-chess-while-tesla-plays-checkers/)
-- [Why Dell&#39;s ThinOS Runs on FreeBSD](https://freebsdfoundation.org/freebsd-case-studies/dell-case-study-why-dells-thinos-runs-on-freebsd/)
+- [&#39;Right to roam&#39; movement fights to give the commons back to the public](https://news.mongabay.com/2024/05/right-to-roam-movement-fights-to-give-the-commons-back-to-the-commoners/)
 - [Plane &lpar;YC W17&rpar; is hiring product engineers &lpar;Rails/Remote/Americas&rpar;](https://www.ycombinator.com/companies/plane/jobs/6NKkoGo-senior-staff-product-engineer-americas)
-- [A comet approaching Earth could become brighter than the stars this fall](https://www.space.com/comet-tsuchinshan-atlas-fall-2024)
 - [Viral DNA in the human genome linked to major psychiatric disorders](https://medicalxpress.com/news/2024-05-ancient-viral-dna-human-genome.html)
+- [Cover Agent: open source regression test generation tool](https://github.com/Codium-ai/cover-agent)
+- [Psion 5mx Emulator](https://wuffs.org/WindEmu/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
