@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alacritty – A fast, cross-platform, OpenGL terminal emulator](https://github.com/alacritty/alacritty)
 - [Possible firmware issues for Apple Silicon OpenBSD/ARM64 users](https://www.undeadly.org/cgi?action=article;sid=20240522045252)
-- [Lem: Editor/IDE well-tuned for Common Lisp](https://lem-project.github.io/)
+- [Unprecedented flooding in Brazil leaves hundreds of thousands displaced](https://www.msf.org/unprecedented-flooding-brazil-leaves-millions-affected-and-hundreds-thousands-displaced)
 - [Scandal at America&#39;s top science fair](https://www.karlstack.com/p/exclusive-scandal-at-americas-top)
 - [Tillywork: Open-Source Work Management](https://github.com/tillywork/tillywork)
-- [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Remote Influencer Partnerships Manager](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-influencer-partnerships-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
