@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AlphaFold3 – why did Nature publish it without its code?](https://www.nature.com/articles/d41586-024-01463-0)
+- [Congress Just Made It Basically Impossible to Track Taylor Swift&#39;s Private Jet](https://gizmodo.com/congress-just-made-it-way-harder-to-track-taylor-swift-1851492383)
+- [Bluesky Adds Direct Messages](https://bsky.social/about/blog/05-22-2024-direct-messages)
 - [Try Clojure](https://tryclojure.org/)
 - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
 - [Show HN: B-field, a novel probabilistic key-value data structure &lpar;`rust-bfield`&rpar;](https://github.com/onecodex/rust-bfield)
-- [One-third of Amazon warehouse workers are on food stamps or Medicaid](https://twitter.com/DanPriceSeattle/status/1791299631558823954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
