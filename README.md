@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On Self-driving, Waymo is playing chess while Tesla plays checkers](https://arstechnica.com/cars/2024/05/on-self-driving-waymo-is-playing-chess-while-tesla-plays-checkers/)
+- [Why Dell&#39;s ThinOS Runs on FreeBSD](https://freebsdfoundation.org/freebsd-case-studies/dell-case-study-why-dells-thinos-runs-on-freebsd/)
 - [Plane &lpar;YC W17&rpar; is hiring product engineers &lpar;Rails/Remote/Americas&rpar;](https://www.ycombinator.com/companies/plane/jobs/6NKkoGo-senior-staff-product-engineer-americas)
 - [A comet approaching Earth could become brighter than the stars this fall](https://www.space.com/comet-tsuchinshan-atlas-fall-2024)
 - [Viral DNA in the human genome linked to major psychiatric disorders](https://medicalxpress.com/news/2024-05-ancient-viral-dna-human-genome.html)
-- [Autonomous AI Robot Creates a Shock-Absorbing Shape No Human Ever Could](https://scitechdaily.com/crushing-it-autonomous-ai-robot-creates-a-shock-absorbing-shape-no-human-ever-could/)
-- [How and why to make a /now page on your site](https://sive.rs/now2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
