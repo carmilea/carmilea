@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to do a startup, according to YC data](https://amvizion.org/blog/lessons-learned-from-yc.html)
+- [Google Blog: Epic&#39;s proposed remedies are bad for everyone but Epic](https://blog.google/outreach-initiatives/public-policy/epics-proposed-remedies-are-bad-for-everyone-but-epic/)
+- [Emacs Easydraw – drawing tool inside Emacs](https://github.com/misohena/el-easydraw)
 - [US Justice Department to seek breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
 - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
-- [A Michigan farmworker is diagnosed with bird flu in case tied to dairy cows](https://www.npr.org/2024/05/22/1252984256/bird-flu-h5n1-virus-human-michigan-cows)
-- [Cortile – Linux auto tiling manager with hot corner support](https://github.com/leukipp/cortile)
-- [Nvidia announces financial results for first quarter fiscal 2025](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
