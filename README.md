@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It looks a lot like VMware just lost a 24,000-VM customer](https://www.theregister.com/2024/05/22/computershare_vm_migration_project/)
 - [Microsoft Bing Search, Copilot face downtime](https://indianexpress.com/article/technology/tech-news-technology/microsoft-bing-search-copilot-face-downtime-users-flag-issues-9346860/)
 - [Magic UI: UI Library for Design Engineers](https://magicui.design/)
 - [WinDirStat – Windows Directory Statistics](https://windirstat.net/)
 - [Drone Flying 101 – An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
-- [OpenAI didn’t copy Scarlett Johansson’s voice for ChatGPT, records show](https://www.washingtonpost.com/technology/2024/05/22/openai-scarlett-johansson-chatgpt-ai-voice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
