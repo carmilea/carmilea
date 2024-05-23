@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Schumacher&#39;s family wins compensation for AI &#39;interview&#39;](https://www.bbc.com/sport/formula1/articles/cd1176240lko)
-- [California could require age verification to visit porn sites](https://calmatters.org/politics/2024/05/california-porn-id-bill/)
-- [US Justice Department to Seek Breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
+- [US Justice Department to seek breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
 - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
 - [A Michigan farmworker is diagnosed with bird flu in case tied to dairy cows](https://www.npr.org/2024/05/22/1252984256/bird-flu-h5n1-virus-human-michigan-cows)
+- [Cortile – Linux auto tiling manager with hot corner support](https://github.com/leukipp/cortile)
+- [Nvidia announces financial results for first quarter fiscal 2025](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
