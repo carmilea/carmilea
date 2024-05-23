@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DNS glitch that threatened Internet stability fixed; cause remains unclear](https://arstechnica.com/security/2024/05/dns-glitch-that-threatened-internet-stability-fixed-cause-remains-unclear/)
-- [Running PHP Fast at the Edge with WebAssembly](https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm)
-- [Memfault &lpar;YC W19&rpar; Is Hiring a Firmware Engineer in NYC/Boston](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)
-- [Daily cannabis use overtakes drinking in US first](https://www.bbc.com/news/articles/c9xxd8w57kjo)
-- [Show HN: Porter Cloud – PaaS with an eject button](https://news.ycombinator.com/item?id=40456959)
+- [Crows &quot;count&quot; the number of self-generated vocalizations](https://www.science.org/doi/10.1126/science.adl0984)
+- [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024)
+- [Cement recycling method could help solve one of the biggest climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
+- [Almost 6k dead in 6 years: How Baltimore became the U.S. overdose capital](https://www.thebaltimorebanner.com/community/public-health/baltimore-opioid-overdose-capital-ZWBYWMCJ45CGNPCGAMFOE6YDGI/)
+- [Show HN: Excel to Python Compiler](https://pyoneer.ai?source=hn&utm_campaign=shn1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
