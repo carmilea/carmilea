@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Supercharge Your MySQL Apps 100X at Scale with No Code Changes](https://www.youtube.com/watch?v=vhBUATjocik)
 - [LLMs in Fraud Detection: Model Comparisons | SingleStore Webinars](https://www.youtube.com/watch?v=n62QrI-37po)
 - [Into the SingleVerse: Nick Thompson on the Intersection of Journalism and AI &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=bp1xfzKIiuQ)
 - [Into the SingleVerse: Media and Machines: Nick Thompson on the Intersection of Journalism and AI ...](https://www.youtube.com/watch?v=UZJ2gjtvfP0)
 - [How to Build Local LLM Apps with Ollama &amp; SingleStore for Max Security | SingleStore Webinars](https://www.youtube.com/watch?v=JFt5siqQgDg)
+- [The Art of App Development: Tips for a Successful Application Architecture!](https://www.youtube.com/watch?v=CvZejCc9D08)
 <!-- YOUTUBE:END -->
 
 
