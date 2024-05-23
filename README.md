@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to do a startup, according to YC data](https://amvizion.org/blog/lessons-learned-from-yc.html)
-- [Google Blog: Epic&#39;s proposed remedies are bad for everyone but Epic](https://blog.google/outreach-initiatives/public-policy/epics-proposed-remedies-are-bad-for-everyone-but-epic/)
+- [Drone Flying 101 – An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
+- [Baum-Welch Algorithm](https://en.wikipedia.org/wiki/Baum%E2%80%93Welch_algorithm)
 - [Emacs Easydraw – drawing tool inside Emacs](https://github.com/misohena/el-easydraw)
 - [US Justice Department to seek breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
-- [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
 <!-- BLOG-POST-LIST:END -->
 
 ---
