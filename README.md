@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google says no &quot;African countries beginning with K&quot; but Kenya has a &quot;K sound&quot;](https://twitter.com/edzitron/status/1793751541394145771)
+- [Ask HN: What makes Windows 11 perform much worse than Windows XP?](https://news.ycombinator.com/item?id=40460528)
 - [Checkr &lpar;YC S14&rpar; is hiring a staff software engineer for Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
 - [FTX bankruptcy examiner&#39;s report [pdf]](https://restructuring.ra.kroll.com/FTX/Home-DownloadPDF?id1=MzExMDk4OQ==&id2=-1)
 - [Show HN: Open-Source Real Time Data Framework for LLM Applications](https://getindexify.ai)
-- [A connection between the northern lights and Hubble&#39;s death](https://bigthink.com/starts-with-a-bang/northern-lights-hubble/)
-- [US Army researched the health effects of radioactivity in St Louis 1945-1970 &lpar;2011&rpar;](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
