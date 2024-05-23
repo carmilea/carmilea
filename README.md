@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Schumacher&#39;s family wins compensation for AI &#39;interview&#39;](https://www.bbc.com/sport/formula1/articles/cd1176240lko)
+- [California could require age verification to visit porn sites](https://calmatters.org/politics/2024/05/california-porn-id-bill/)
 - [US Justice Department to Seek Breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
-- [Liberal democracy might lose the 21st century](https://www.noahpinion.blog/p/how-liberal-democracy-might-lose)
 - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
 - [A Michigan farmworker is diagnosed with bird flu in case tied to dairy cows](https://www.npr.org/2024/05/22/1252984256/bird-flu-h5n1-virus-human-michigan-cows)
-- [Voyager 1 Resumes Sending Science Data](https://blogs.nasa.gov/voyager/2024/05/22/voyager-1-resumes-sending-science-data-from-two-instruments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
