@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PermitFlow &lpar;YC W22&rpar; Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- [Hacker News Best](https://news.ycombinator.com/best)
 - [Microsoft outage affects Bing, Copilot, DuckDuckGo and ChatGPT internet search](https://www.bleepingcomputer.com/news/microsoft/microsoft-outage-affects-bing-copilot-duckduckgo-and-chatgpt-internet-search/)
-- [A Theoretical Case Against Education](https://www.astralcodexten.com/p/a-theoretical-case-against-education)
-- [It looks a lot like VMware just lost a 24,000-VM customer](https://www.theregister.com/2024/05/22/computershare_vm_migration_project/)
-- [Microsoft Bing Search, Copilot face downtime](https://indianexpress.com/article/technology/tech-news-technology/microsoft-bing-search-copilot-face-downtime-users-flag-issues-9346860/)
-- [Magic UI: UI Library for Design Engineers](https://magicui.design/)
+- [Tell HN: DuckDuckGo Search Not Returning Results](https://news.ycombinator.com/item?id=40452795)
+- [How Failure Has Made Mathematics Stronger](https://www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
