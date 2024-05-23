@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A connection between the northern lights and Hubble&#39;s death](https://bigthink.com/starts-with-a-bang/northern-lights-hubble/)
+- [US Army researched the health effects of radioactivity in St Louis 1945-1970](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
+- [Act on Press](https://twitter.com/ID_AA_Carmack/status/1787850053912064005)
+- [Fossil fuels could have been left in the dust 25 years ago](https://timharford.com/2024/05/fossil-fuels-could-have-been-left-in-the-dust-25-years-ago/)
 - [Crows &quot;count&quot; the number of self-generated vocalizations](https://www.science.org/doi/10.1126/science.adl0984)
-- [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024)
-- [Cement recycling method could help solve one of the biggest climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
-- [Almost 6k dead in 6 years: How Baltimore became the U.S. overdose capital](https://www.thebaltimorebanner.com/community/public-health/baltimore-opioid-overdose-capital-ZWBYWMCJ45CGNPCGAMFOE6YDGI/)
-- [Show HN: Excel to Python Compiler](https://pyoneer.ai?source=hn&utm_campaign=shn1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
