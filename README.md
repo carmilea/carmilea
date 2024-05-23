@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to do a startup, according to YC data](https://amvizion.org/blog/lessons-learned-from-yc.html)
+- [Ask HN: Those who use an Android and macOS, how do you manage sync?](https://news.ycombinator.com/item?id=40450633)
+- [One of the most unusual heists in America seems to be unfolding at Taco Bell](https://www.sfgate.com/food/article/taco-bell-ebay-mark-smith-paintings-19464177.php)
+- [Lessons learned from studying 4k YC companies](https://amvizion.org/blog/lessons-learned-from-yc.html)
 - [Drone Flying 101 – An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
 - [Baum-Welch Algorithm](https://en.wikipedia.org/wiki/Baum%E2%80%93Welch_algorithm)
-- [Emacs Easydraw – drawing tool inside Emacs](https://github.com/misohena/el-easydraw)
-- [US Justice Department to seek breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
