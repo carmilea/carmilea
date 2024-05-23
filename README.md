@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ex-Googler says company&#39;s AI panic is like Google+ fiasco all over again](https://the-decoder.com/ex-googler-says-companys-ai-panic-is-like-google-fiasco-all-over-again/)
+- [Maths proof of Langlands conjecture is so complex almost no one can explain it](https://www.newscientist.com/article/2431964-incredible-maths-proof-is-so-complex-that-almost-no-one-can-explain-it/)
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [Nostr is not decentralized nor censorship-resistant](https://njump.me/naddr1qqyrsdmpxgcrsepeqgsrhuxx8l9ex335q7he0f09aej04zpazpl0ne2cgukyawd24mayt8grqsqqqa2877wjz6)
-- [Hacker News Best](https://news.ycombinator.com/best)
-- [Common Lisp Is Not a Single Language, but Many](https://aartaka.me/cl-is-lots)
+- [My boss says we don&#39;t need any engineering managers. Is he right](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/)
+- [How Failure Has Made Mathematics Stronger](https://www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/)
+- [M2dir: Treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
