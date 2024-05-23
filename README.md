@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Checkr &lpar;YC S14&rpar; is hiring a staff software engineer for its new bet, Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
+- [Checkr &lpar;YC S14&rpar; is hiring a staff software engineer for Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
 - [FTX bankruptcy examiner&#39;s report [pdf]](https://restructuring.ra.kroll.com/FTX/Home-DownloadPDF?id1=MzExMDk4OQ==&id2=-1)
 - [Show HN: Open-Source Real Time Data Framework for LLM Applications](https://getindexify.ai)
 - [A connection between the northern lights and Hubble&#39;s death](https://bigthink.com/starts-with-a-bang/northern-lights-hubble/)
