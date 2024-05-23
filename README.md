@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Checkr &lpar;YC S14&rpar; is hiring a staff software engineer for its new bet, Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
+- [FTX bankruptcy examiner&#39;s report [pdf]](https://restructuring.ra.kroll.com/FTX/Home-DownloadPDF?id1=MzExMDk4OQ==&id2=-1)
+- [Show HN: Open-Source Real Time Data Framework for LLM Applications](https://getindexify.ai)
 - [A connection between the northern lights and Hubble&#39;s death](https://bigthink.com/starts-with-a-bang/northern-lights-hubble/)
-- [US Army researched the health effects of radioactivity in St Louis 1945-1970](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
-- [Act on Press](https://twitter.com/ID_AA_Carmack/status/1787850053912064005)
-- [Fossil fuels could have been left in the dust 25 years ago](https://timharford.com/2024/05/fossil-fuels-could-have-been-left-in-the-dust-25-years-ago/)
-- [Crows &quot;count&quot; the number of self-generated vocalizations](https://www.science.org/doi/10.1126/science.adl0984)
+- [US Army researched the health effects of radioactivity in St Louis 1945-1970 &lpar;2011&rpar;](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
