@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Memfault &lpar;YC W19&rpar; Is Hiring a Firmware Engineer in NYC/Boston &lpar;Lever.co&rpar;](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)
-- [Microsoft&#39;s carbon emissions up nearly 30% thanks to AI](https://www.theregister.com/2024/05/16/microsoft_co2_emissions/)
-- [We&#39;re Ending Our Samsung Collaboration](https://www.ifixit.com/News/96162/were-ending-our-samsung-collaboration)
-- [Mastering Front-End Development Roadmap](https://happydev.blog/mastering-front-end-development-a-comprehensive-guide)
-- [Matcha.css – Drop-in semantic styling library in pure CSS](https://matcha.mizu.sh/)
+- [DNS glitch that threatened Internet stability fixed; cause remains unclear](https://arstechnica.com/security/2024/05/dns-glitch-that-threatened-internet-stability-fixed-cause-remains-unclear/)
+- [Running PHP Fast at the Edge with WebAssembly](https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm)
+- [Memfault &lpar;YC W19&rpar; Is Hiring a Firmware Engineer in NYC/Boston](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)
+- [Daily cannabis use overtakes drinking in US first](https://www.bbc.com/news/articles/c9xxd8w57kjo)
+- [Show HN: Porter Cloud – PaaS with an eject button](https://news.ycombinator.com/item?id=40456959)
 <!-- BLOG-POST-LIST:END -->
 
 ---
