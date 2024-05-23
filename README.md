@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: Those who use an Android and macOS, how do you manage sync?](https://news.ycombinator.com/item?id=40450633)
 - [One of the most unusual heists in America seems to be unfolding at Taco Bell](https://www.sfgate.com/food/article/taco-bell-ebay-mark-smith-paintings-19464177.php)
+- [Magic UI: UI Library for Design Engineers](https://magicui.design/)
 - [Lessons learned from studying 4k YC companies](https://amvizion.org/blog/lessons-learned-from-yc.html)
 - [Drone Flying 101 – An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
-- [Baum-Welch Algorithm](https://en.wikipedia.org/wiki/Baum%E2%80%93Welch_algorithm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
