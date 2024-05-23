@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Make your own backdoor: CFLAGS code injection, Makefile injection, pkg-config](https://www.openwall.com/lists/oss-security/2024/04/17/3)
-- [Show HN: HackerNews but for state of the art research papers](https://www.papertalk.xyz/research/home)
-- [amber, a code search &amp; replace tool](https://github.com/dalance/amber)
-- [Probabilistic Filters by Example](https://bdupras.github.io/filter-tutorial/)
+- [Vercel Ship 2024 Keynote &lpar;live&rpar; [video]](https://www.youtube.com/watch?v=roRx0b_VXsU)
+- [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
+- [Amber: A code search and replace tool](https://github.com/dalance/amber)
 - [Bytehound: Memory Profiler for Linux](https://github.com/koute/bytehound)
+- [Southwest Airlines now available on Google Flights](https://viewfromthewing.com/game-changer-southwest-airlines-now-available-on-google-flights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
