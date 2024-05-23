@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vercel Ship 2024 Keynote &lpar;live&rpar; [video]](https://www.youtube.com/watch?v=roRx0b_VXsU)
-- [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
-- [Amber: A code search and replace tool](https://github.com/dalance/amber)
-- [Bytehound: Memory Profiler for Linux](https://github.com/koute/bytehound)
-- [Southwest Airlines now available on Google Flights](https://viewfromthewing.com/game-changer-southwest-airlines-now-available-on-google-flights/)
+- [Memfault &lpar;YC W19&rpar; Is Hiring a Firmware Engineer in NYC/Boston &lpar;Lever.co&rpar;](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)
+- [Microsoft&#39;s carbon emissions up nearly 30% thanks to AI](https://www.theregister.com/2024/05/16/microsoft_co2_emissions/)
+- [We&#39;re Ending Our Samsung Collaboration](https://www.ifixit.com/News/96162/were-ending-our-samsung-collaboration)
+- [Mastering Front-End Development Roadmap](https://happydev.blog/mastering-front-end-development-a-comprehensive-guide)
+- [Matcha.css – Drop-in semantic styling library in pure CSS](https://matcha.mizu.sh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
