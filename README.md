@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ex-Googler says company&#39;s AI panic is like Google+ fiasco all over again](https://the-decoder.com/ex-googler-says-companys-ai-panic-is-like-google-fiasco-all-over-again/)
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- [Nostr is not decentralized nor censorship-resistant](https://njump.me/naddr1qqyrsdmpxgcrsepeqgsrhuxx8l9ex335q7he0f09aej04zpazpl0ne2cgukyawd24mayt8grqsqqqa2877wjz6)
 - [Hacker News Best](https://news.ycombinator.com/best)
-- [Microsoft outage affects Bing, Copilot, DuckDuckGo and ChatGPT internet search](https://www.bleepingcomputer.com/news/microsoft/microsoft-outage-affects-bing-copilot-duckduckgo-and-chatgpt-internet-search/)
-- [Tell HN: DuckDuckGo Search Not Returning Results](https://news.ycombinator.com/item?id=40452795)
-- [How Failure Has Made Mathematics Stronger](https://www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/)
+- [Common Lisp Is Not a Single Language, but Many](https://aartaka.me/cl-is-lots)
 <!-- BLOG-POST-LIST:END -->
 
 ---
