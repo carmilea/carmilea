@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google says no &quot;African countries beginning with K&quot; but Kenya has a &quot;K sound&quot;](https://twitter.com/edzitron/status/1793751541394145771)
-- [Ask HN: What makes Windows 11 perform much worse than Windows XP?](https://news.ycombinator.com/item?id=40460528)
-- [Checkr &lpar;YC S14&rpar; is hiring a staff software engineer for Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40461790)
+- [Google&#39;s AI-Generated Search Results Keep Citing The Onion](https://www.readtpa.com/p/googles-ai-generated-search-results-9e1)
+- [Atlantic hurricane season will be &#39;extraordinary,&#39; forecasters warn](https://www.npr.org/2024/05/23/1251003581/2024-atlantic-hurricane-season-noaa-forecast)
+- [Dehydration associated with poorer performance on attention tasks among adults](https://onlinelibrary.wiley.com/doi/10.1002/ajhb.24051)
 - [FTX bankruptcy examiner&#39;s report [pdf]](https://restructuring.ra.kroll.com/FTX/Home-DownloadPDF?id1=MzExMDk4OQ==&id2=-1)
-- [Show HN: Open-Source Real Time Data Framework for LLM Applications](https://getindexify.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
