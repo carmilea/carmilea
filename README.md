@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spyware found on US hotel check-in computers](https://techcrunch.com/2024/05/22/spyware-found-on-hotel-check-in-computers/)
+- [Super Size Me director Morgan Spurlock dies aged 53](https://www.theguardian.com/film/article/2024/may/24/super-size-me-director-morgan-spurlock-dies-aged-53)
 - [Motion &lpar;YC W20&rpar; is hiring senior engineers looking for their next challenge](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 - [Low-Cost Shield ArdEEG to Measure EEG with Arduino Uno R4 WiFi](https://www.preprints.org/manuscript/202405.1643/v1)
-- [Anger Does a Lot More Damage to Your Body Than You Realize](https://www.wsj.com/health/wellness/anger-health-effects-risks-heart-brain-mental-f4105ed7)
+- [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 - [Lewis Carroll – computing the day of the week for any given date &lpar;1887&rpar;](https://www.futilitycloset.com/2024/05/24/day-tripper/)
 <!-- BLOG-POST-LIST:END -->
 
