@@ -57,8 +57,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [2D Rigid Body Collision Resolution](https://www.sassnow.ski/rigid-body-collisions/1)
+- [How to Be Obscene &lpar;1927&rpar;](https://www.newyorker.com/magazine/1927/07/02/how-to-be-obscene)
 - [Bloop &lpar;YC S21&rpar; Is Hiring AI Engineers. Devin for Legacy Code &lpar;London, Onsite&rpar;](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-applied-ai-software-engineer)
-- [Almost 30% of Americans Say College Not Worth It in Pew Poll](https://www.bloomberg.com/news/articles/2024-05-23/almost-30-of-americans-say-college-not-worth-it-in-pew-poll)
 - [Perplexica: Open-Source Perplexity Alternative](https://github.com/ItzCrazyKns/Perplexica)
 - [CSharpRepl: C# REPL with syntax highlighting and intellisense](https://fuqua.io/CSharpRepl/)
 <!-- BLOG-POST-LIST:END -->
