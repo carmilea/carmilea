@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flexport is hiring an OR/ML guru to optimize global trade routing](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
+- [Mp3tag – The Universal Tag Editor](https://www.mp3tag.de/en/)
+- [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
+- [Flexport &lpar;YC W14&rpar; is hiring an OR/ML guru to optimize global trade routing](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
+- [A slightly more fun way to disable Windows Defender &lpar;through the WSC API&rpar;](https://github.com/es3n1n/no-defender)
 - [ICQ will stop working from June 26](https://icq.com/desktop/en#windows)
-- [Writing a Unix clone in about a month](https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html)
-- [Samsung WB850F Firmware Reverse-Engineering](https://op-co.de/blog/posts/samsung_wb850f_firmware/)
-- [We Shift Testing Left: A Software Dev Cycle That Doesn&#39;t Scale](https://thenewstack.io/why-we-shift-testing-left-a-software-dev-cycle-that-doesnt-scale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
