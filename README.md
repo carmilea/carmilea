@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New MacBook Setup](https://hire.jonasgalvez.com.br/2024/may/23/macbook-setup/)
 - [Perplexica: Open-Source Perplexity Alternative](https://github.com/ItzCrazyKns/Perplexica)
-- [Google AI search feature suggested using glue to keep cheese sticking to a pizza](https://www.businessinsider.com/google-search-ai-overviews-glue-keep-cheese-pizza-2024-5)
 - [CSharpRepl: C# REPL with syntax highlighting and intellisense](https://fuqua.io/CSharpRepl/)
 - [Checkr &lpar;YC S14&rpar; is hiring a staff software engineer for Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
+- [Show HN: Open-source real time data framework for LLM applications](https://getindexify.ai)
+- [US Army researched the health effects of radioactivity in St Louis 1945-1970 &lpar;2011&rpar;](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
