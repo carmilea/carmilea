@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Am I stupid to start web design agency in 2024](https://news.ycombinator.com/item?id=40467033)
-- [Morgan Spurlock, Known for &#39;Super Size Me,&#39; Dies at 53](https://www.nytimes.com/2024/05/24/arts/morgan-spurlock-dead-super-size-me.html)
-- [We Shift Testing Left: A Software Dev Cycle That Doesn&#39;t Scale](https://thenewstack.io/why-we-shift-testing-left-a-software-dev-cycle-that-doesnt-scale/)
-- [Cosmic Glitch: Scientists Discover an Anomaly in the Universe&#39;s Gravity](https://www.businessinsider.com/cosmic-glitch-makes-scientists-rethink-einstein-greatest-theory-2024-5)
-- [Move Over, Tractor–The Farmer Wants a Crop-Spraying Drone](https://spectrum.ieee.org/arthur-erickson-drones-profile)
+- [ICQ will stop working from June 26](https://icq.com/desktop/en#windows)
+- [RAG, fine-tuning, API calling and gptscript for Llama 3 running locally](https://github.com/helixml/helix/releases/tag/0.9.1)
+- [Morgan Spurlock, filmmaker behind &#39;Super Size Me&#39; documentary, dies from cancer](https://abcnews.go.com/US/morgan-spurlock-filmmaker-super-size-documentary-dies-cancer/story?id=110534964)
+- [Writing a Unix clone in about a month](https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html)
+- [Samsung WB850F Firmware Reverse-Engineering](https://op-co.de/blog/posts/samsung_wb850f_firmware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
