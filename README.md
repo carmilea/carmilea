@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can I use gasoline to cook spaghetti faster?](https://mastodon.social/@JoeUchill/112493317168967705)
+- [The Student Syndrome: Delaying until right before deadlines](https://solvingprocrastination.com/student-syndrome/)
 - [Mp3tag – The Universal Tag Editor](https://www.mp3tag.de/en/)
 - [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
 - [Flexport &lpar;YC W14&rpar; is hiring an OR/ML guru to optimize global trade routing](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
-- [A slightly more fun way to disable Windows Defender &lpar;through the WSC API&rpar;](https://github.com/es3n1n/no-defender)
-- [ICQ will stop working from June 26](https://icq.com/desktop/en#windows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
