@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The inaccessible and abandoned islands of New York – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/may/24/inaccessible-abandoned-islands-new-york-in-pictures)
 - [Freshpaint &lpar;YC S19&rpar; is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [Factorio Undo/Redo Improvements and Car Latency Driving](https://factorio.com/blog/post/fff-412)
 - [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
 - [Mp3tag – The Universal Tag Editor](https://www.mp3tag.de/en/)
-- [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
-- [A slightly more fun way to disable Windows Defender &lpar;through the WSC API&rpar;](https://github.com/es3n1n/no-defender)
 <!-- BLOG-POST-LIST:END -->
 
 ---
