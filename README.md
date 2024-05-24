@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40461790)
-- [Google&#39;s AI-Generated Search Results Keep Citing The Onion](https://www.readtpa.com/p/googles-ai-generated-search-results-9e1)
-- [Atlantic hurricane season will be &#39;extraordinary,&#39; forecasters warn](https://www.npr.org/2024/05/23/1251003581/2024-atlantic-hurricane-season-noaa-forecast)
+- [Binarize CLIP for Multimodal Applications](https://www.marqo.ai/blog/learn-to-binarize-clip-for-multimodal-retrieval-and-ranking)
 - [Dehydration associated with poorer performance on attention tasks among adults](https://onlinelibrary.wiley.com/doi/10.1002/ajhb.24051)
-- [FTX bankruptcy examiner&#39;s report [pdf]](https://restructuring.ra.kroll.com/FTX/Home-DownloadPDF?id1=MzExMDk4OQ==&id2=-1)
+- [CSharpRepl: C# REPL with syntax highlighting and intellisense](https://fuqua.io/CSharpRepl/)
+- [Checkr &lpar;YC S14&rpar; is hiring a staff software engineer for Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
+- [Show HN: Open-source real time data framework for LLM applications](https://getindexify.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
