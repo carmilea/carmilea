@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kabosu, the Dog Behind the &#39;Doge&#39; Meme, Has Died](https://www.ign.com/articles/kabosu-the-dog-behind-the-doge-meme-has-died)
-- [Shiba Inu which inspired the &#39;doge&#39; meme and became face of Dogecoin has died](https://news.sky.com/story/kabosu-dies-shiba-inu-which-inspired-the-doge-meme-and-became-face-of-dogecoin-has-died-12895009)
-- [Lewis Carroll – computing the day of the week for any given date &lpar;1887&rpar;](https://www.futilitycloset.com/2024/05/24/day-tripper/)
-- [2D Rigid Body Collision Resolution](https://www.sassnow.ski/rigid-body-collisions/1)
-- [How to Be Obscene &lpar;1927&rpar;](https://www.newyorker.com/magazine/1927/07/02/how-to-be-obscene)
+- [Motion &lpar;YC W20&rpar; is hiring senior engineers looking for their next challenge](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [Working Smarter, Not Harder](https://trishagee.com/2024/05/24/working-smarter-not-harder/)
+- [&quot;Unacceptable&quot;: Spotify bricking Car Thing devices in Dec. without refunds](https://arstechnica.com/gadgets/2024/05/pleas-for-open-sourcing-refunds-as-spotify-plans-to-brick-car-thing-devices/)
+- [Apple&#39;s M4 Has Reportedly Adopted the ARMv9 Architecture](https://wccftech.com/apple-m4-adopts-armv9-run-complex-workloads-efficiently/)
+- [Anger Does a Lot More Damage to Your Body Than You Realize](https://www.wsj.com/health/wellness/anger-health-effects-risks-heart-brain-mental-f4105ed7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
