@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Super Size Me director Morgan Spurlock dies aged 53](https://www.theguardian.com/film/article/2024/may/24/super-size-me-director-morgan-spurlock-dies-aged-53)
-- [Motion &lpar;YC W20&rpar; is hiring senior engineers looking for their next challenge](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [Low-Cost Shield ArdEEG to Measure EEG with Arduino Uno R4 WiFi](https://www.preprints.org/manuscript/202405.1643/v1)
-- [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
-- [Lewis Carroll – computing the day of the week for any given date &lpar;1887&rpar;](https://www.futilitycloset.com/2024/05/24/day-tripper/)
+- [Am I stupid to start web design agency in 2024](https://news.ycombinator.com/item?id=40467033)
+- [Morgan Spurlock, Known for &#39;Super Size Me,&#39; Dies at 53](https://www.nytimes.com/2024/05/24/arts/morgan-spurlock-dead-super-size-me.html)
+- [We Shift Testing Left: A Software Dev Cycle That Doesn&#39;t Scale](https://thenewstack.io/why-we-shift-testing-left-a-software-dev-cycle-that-doesnt-scale/)
+- [Cosmic Glitch: Scientists Discover an Anomaly in the Universe&#39;s Gravity](https://www.businessinsider.com/cosmic-glitch-makes-scientists-rethink-einstein-greatest-theory-2024-5)
+- [Move Over, Tractor–The Farmer Wants a Crop-Spraying Drone](https://spectrum.ieee.org/arthur-erickson-drones-profile)
 <!-- BLOG-POST-LIST:END -->
 
 ---
