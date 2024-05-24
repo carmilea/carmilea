@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bloop &lpar;YC S21&rpar; Is Hiring AI Engineers. Devin for Legacy Code &lpar;London, Onsite&rpar;](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-applied-ai-software-engineer)
+- [Scrum&#39;s Built-In &#39;Get Out of Jail Free Card&#39; Against Criticism](https://mdalmijn.com/p/scrums-built-in-get-out-of-jail-free)
 - [Perplexica: Open-Source Perplexity Alternative](https://github.com/ItzCrazyKns/Perplexica)
 - [CSharpRepl: C# REPL with syntax highlighting and intellisense](https://fuqua.io/CSharpRepl/)
-- [Checkr &lpar;YC S14&rpar; is hiring a staff software engineer for Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
-- [Show HN: Open-source real time data framework for LLM applications](https://getindexify.ai)
 - [US Army researched the health effects of radioactivity in St Louis 1945-1970 &lpar;2011&rpar;](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
 <!-- BLOG-POST-LIST:END -->
 
