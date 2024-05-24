@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kabosu, the Dog Behind the &#39;Doge&#39; Meme, Has Died](https://www.ign.com/articles/kabosu-the-dog-behind-the-doge-meme-has-died)
+- [Shiba Inu which inspired the &#39;doge&#39; meme and became face of Dogecoin has died](https://news.sky.com/story/kabosu-dies-shiba-inu-which-inspired-the-doge-meme-and-became-face-of-dogecoin-has-died-12895009)
+- [Lewis Carroll – computing the day of the week for any given date &lpar;1887&rpar;](https://www.futilitycloset.com/2024/05/24/day-tripper/)
 - [2D Rigid Body Collision Resolution](https://www.sassnow.ski/rigid-body-collisions/1)
 - [How to Be Obscene &lpar;1927&rpar;](https://www.newyorker.com/magazine/1927/07/02/how-to-be-obscene)
-- [Bloop &lpar;YC S21&rpar; Is Hiring AI Engineers. Devin for Legacy Code &lpar;London, Onsite&rpar;](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-applied-ai-software-engineer)
-- [Perplexica: Open-Source Perplexity Alternative](https://github.com/ItzCrazyKns/Perplexica)
-- [CSharpRepl: C# REPL with syntax highlighting and intellisense](https://fuqua.io/CSharpRepl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
