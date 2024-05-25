@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring Full-Stack Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
+- [Taming Floating-Point Sums](https://orlp.net/blog/taming-float-sums/)
 - [Extend your battery life with scx_rustland](http://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html)
+- [Exploring the NEC V20 CPU](https://martypc.blogspot.com/2024/05/exploring-nec-v20-cpu.html)
 - [The Fall of the House of Etsy](https://spy.com/articles/lifestyle/gifts/etsy-downfall-1203000173/)
-- [Two B.C. companies ordered to shut down on national security grounds](https://vancouversun.com/news/local-news/two-b-c-companies-ordered-to-cease-all-operations-over-national-security-concerns)
-- [Tmux is worse-is-better](https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
