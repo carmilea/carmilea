@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Signal&#39;s Meredith Whittaker on the Telegram security clash](https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/)
-- [Marijuana surpasses alcohol in daily use for Americans, study finds](https://www.washingtonpost.com/climate-environment/2024/04/22/california-solar-duck-curve-rooftop/)
+- [EU Approves AI Act](https://vcsi.org/eu-ai-act-comprehensive-regulation/)
+- [The solar industrial revolution is the biggest investment opportunity in history](https://caseyhandmer.wordpress.com/2024/05/22/the-solar-industrial-revolution-is-the-biggest-investment-opportunity-in-history/)
 - [HackNote](https://hacknote.co/)
 - [Don Knuth&#39;s MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
-- [Signalfd Is Useless](https://ldpreload.com/blog/signalfd-is-useless)
 <!-- BLOG-POST-LIST:END -->
 
 ---
