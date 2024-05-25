@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [You are lucky Full moon tonight](https://twitter.com/cupiabart/status/1793930355617259811)
 - [JetBrains releases RustRover IDE for Rust development](https://www.infoworld.com/article/3715317/jetbrains-releases-rustrover-ide-for-rust-development.html)
-- [Depression &lpar;2014&rpar;](https://archive.fo/2014.12.18-152806/https://byuu.org/)
-- [ICQ messenger shuts down after almost 28 years](https://www.bleepingcomputer.com/news/software/icq-messenger-shuts-down-after-almost-28-years/)
-- [Freshpaint &lpar;YC S19&rpar; is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [Unleashed Chat](https://unleashed.chat/)
+- [Feral goldfish are threatening the Great Lakes ecosystem [video]](https://www.pbs.org/newshour/show/how-massive-feral-goldfish-are-threatening-the-great-lakes-ecosystem)
+- [Email.ml – Minimalist Temporary Email](https://email.ml/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
