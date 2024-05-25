@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cognitive Design of Tools of Thought [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
 - [Abusing Go&#39;s Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
-- [Google just updated its algorithm. The Internet will never be the same](https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet)
-- [I&#39;m in love with my AI girlfriend GPT-4o will prove insatiable](https://unherd.com/2024/05/im-in-love-with-my-ai-girlfriend/)
 - [Lapis: A Web Framework for Lua](https://leafo.net/lapis/)
-- [Mistral Fine-Tune](https://github.com/mistralai/mistral-finetune)
+- [Don Knuth&#39;s MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
+- [Signalfd Is Useless &lpar;2015&rpar;](https://ldpreload.com/blog/signalfd-is-useless)
 <!-- BLOG-POST-LIST:END -->
 
 ---
