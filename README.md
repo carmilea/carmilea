@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US EPA sets health advisory limits for PFAS from 70 ppt to .02 ppt](https://cen.acs.org/environment/persistent-pollutants/US-EPA-sets-health-advisory-6-PFAS/100/i22)
-- [How private equity rolled Red Lobster](https://www.nbcnews.com/business/consumer/private-equity-rolled-red-lobster-rcna153397)
+- [JetBrains releases RustRover IDE for Rust development](https://www.infoworld.com/article/3715317/jetbrains-releases-rustrover-ide-for-rust-development.html)
+- [How massive, feral goldfish are threatening the Great Lakes ecosystem [video]](https://www.pbs.org/newshour/show/how-massive-feral-goldfish-are-threatening-the-great-lakes-ecosystem)
+- [Byuu.org – Depression](https://archive.fo/2014.12.18-152806/https://byuu.org/)
 - [ICQ messenger shuts down after almost 28 years](https://www.bleepingcomputer.com/news/software/icq-messenger-shuts-down-after-almost-28-years/)
 - [Freshpaint &lpar;YC S19&rpar; is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [I uploaded 11 years of my Day One Journal data to GPT-4o](https://www.linkedin.com/posts/darryl-kelly_i-uploaded-11-years-97k-hours-of-transcribed-activity-7198679274046828544-gUrO)
 <!-- BLOG-POST-LIST:END -->
 
 ---
