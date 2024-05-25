@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google scrambles to manually remove weird AI answers in search](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
+- [The new visa fees for foreign artists are out. This is not good](https://www.ajournalofmusicalthings.com/the-new-visa-fees-for-foreign-artists-are-out-this-is-not-good/)
 - [A shrinking life: Why some Asian youth withdraw from the world](https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/)
-- [Raw milk sales spike despite CDC&#39;s warnings of risk](https://www.pbs.org/newshour/health/raw-milk-sales-spike-despite-cdcs-warnings-of-risk-associated-with-bird-flu)
+- [Goodix Fingerprint Drivers for Linux &lpar;Or at Least Debian&rpar;](https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell)
 - [The Prophet Who Failed – After the apocalypse that wasn&#39;t](https://harpers.org/archive/2024/06/the-prophet-who-wasnt-after-the-apocalypse-that-failed-emily-harnett/)
-- [The Case for Japan&#39;s Clothes-Drying Bathrooms](https://www.bloomberg.com/news/articles/2024-05-22/laundry-lessons-from-japanese-bathroom-technology)
-- [The Cognitive Design of Tools of Thought &lpar;2014&rpar; [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
