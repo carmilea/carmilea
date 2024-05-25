@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lago: Open-Source Usage Based Billing Is Hiring a Founding Product Marketer](https://www.ycombinator.com/companies/lago/jobs/8aqFA2l-product-marketer)
+- [The Harsh Truth Behind Samsung&#39;s Phone Repair Program](https://gizmodo.com/harsh-truth-samsung-phone-repair-program-ifixit-1851500413)
 - [Google scrambles to manually remove weird AI answers in search](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
-- [The new visa fees for foreign artists are out. This is not good](https://www.ajournalofmusicalthings.com/the-new-visa-fees-for-foreign-artists-are-out-this-is-not-good/)
-- [A shrinking life: Why some Asian youth withdraw from the world](https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/)
+- [The hikikomori in Asia: A life within four walls](https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/)
 - [Goodix Fingerprint Drivers for Linux &lpar;Or at Least Debian&rpar;](https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell)
-- [The Prophet Who Failed – After the apocalypse that wasn&#39;t](https://harpers.org/archive/2024/06/the-prophet-who-wasnt-after-the-apocalypse-that-failed-emily-harnett/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
