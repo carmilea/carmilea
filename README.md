@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Marijuana surpasses alcohol in daily use for Americans, study finds](https://www.washingtonpost.com/climate-environment/2024/04/22/california-solar-duck-curve-rooftop/)
+- [Don Knuth&#39;s MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
+- [Optimize Your Talking Points](https://rachelbythebay.com/w/2018/04/28/meta/)
 - [You are lucky, full moon tonight](https://twitter.com/cupiabart/status/1793930355617259811)
-- [JetBrains releases RustRover IDE for Rust development](https://www.infoworld.com/article/3715317/jetbrains-releases-rustrover-ide-for-rust-development.html)
-- [Feral goldfish are threatening the Great Lakes ecosystem [video]](https://www.pbs.org/newshour/show/how-massive-feral-goldfish-are-threatening-the-great-lakes-ecosystem)
-- [Email.ml – Minimalist Temporary Email](https://email.ml/)
-- [Freshpaint &lpar;YC S19&rpar; is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [AlmaLinux OS – Samba File Server](https://blog.while-true-do.io/almalinux-os-samba-file-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
