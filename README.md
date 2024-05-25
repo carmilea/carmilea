@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Publishing AI Slop Is a Choice](https://daringfireball.net/linked/2024/05/24/publishing-ai-slop-is-a-choice)
+- [Abusing Go&#39;s Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
 - [Google just updated its algorithm. The Internet will never be the same](https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet)
 - [I&#39;m in love with my AI girlfriend GPT-4o will prove insatiable](https://unherd.com/2024/05/im-in-love-with-my-ai-girlfriend/)
 - [Lapis: A Web Framework for Lua](https://leafo.net/lapis/)
