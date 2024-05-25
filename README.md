@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Male birth control breakthrough safely switches off fit sperm for a while](https://newatlas.com/medical/male-birth-control-stk333/)
 - [Mistral Fine-Tune](https://github.com/mistralai/mistral-finetune)
-- [The solar industrial revolution is the biggest investment opportunity in history](https://caseyhandmer.wordpress.com/2024/05/22/the-solar-industrial-revolution-is-the-biggest-investment-opportunity-in-history/)
-- [HackNote](https://hacknote.co/)
 - [Don Knuth&#39;s MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
+- [Signalfd Is Useless &lpar;2015&rpar;](https://ldpreload.com/blog/signalfd-is-useless)
+- [Optimize Your Talking Points](https://rachelbythebay.com/w/2018/04/28/meta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
