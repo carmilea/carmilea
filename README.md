@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [`tmux` is worse is better](https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/)
-- [Lago: Open-Source Usage Based Billing Is Hiring a Founding Product Marketer](https://www.ycombinator.com/companies/lago/jobs/8aqFA2l-product-marketer)
-- [The road to hell is paved with good intentions and C++ modules](https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html)
-- [Google scrambles to manually remove weird AI answers in search](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
-- [The hikikomori in Asia: A life within four walls](https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/)
+- [The Fall of the House of Etsy](https://spy.com/articles/lifestyle/gifts/etsy-downfall-1203000173/)
+- [Two B.C. companies ordered to shut down on national security grounds](https://vancouversun.com/news/local-news/two-b-c-companies-ordered-to-cease-all-operations-over-national-security-concerns)
+- [Cannabis use linked to epigenetic changes, study reveals](https://www.sciencealert.com/cannabis-use-linked-to-epigenetic-changes-study-reveals)
+- [Where are the builders?](https://near.blog/where-are-the-builders/)
+- [Tmux is worse-is-better](https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
