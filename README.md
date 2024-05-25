@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Male birth control breakthrough safely switches off fit sperm for a while](https://newatlas.com/medical/male-birth-control-stk333/)
 - [Mistral Fine-Tune](https://github.com/mistralai/mistral-finetune)
 - [Don Knuth&#39;s MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 - [Signalfd Is Useless &lpar;2015&rpar;](https://ldpreload.com/blog/signalfd-is-useless)
 - [Optimize Your Talking Points](https://rachelbythebay.com/w/2018/04/28/meta/)
+- [A simple core.async job system in Clojure](https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
