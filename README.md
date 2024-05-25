@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Signal&#39;s Meredith Whittaker on the Telegram security clash](https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/)
 - [Marijuana surpasses alcohol in daily use for Americans, study finds](https://www.washingtonpost.com/climate-environment/2024/04/22/california-solar-duck-curve-rooftop/)
+- [HackNote](https://hacknote.co/)
 - [Don Knuth&#39;s MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
-- [Optimize Your Talking Points](https://rachelbythebay.com/w/2018/04/28/meta/)
-- [You are lucky, full moon tonight](https://twitter.com/cupiabart/status/1793930355617259811)
-- [AlmaLinux OS – Samba File Server](https://blog.while-true-do.io/almalinux-os-samba-file-server/)
+- [Signalfd Is Useless](https://ldpreload.com/blog/signalfd-is-useless)
 <!-- BLOG-POST-LIST:END -->
 
 ---
