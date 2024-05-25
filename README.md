@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cognitive Design of Tools of Thought [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
-- [Abusing Go&#39;s Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
-- [Lapis: A Web Framework for Lua](https://leafo.net/lapis/)
-- [Don Knuth&#39;s MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
-- [Signalfd Is Useless &lpar;2015&rpar;](https://ldpreload.com/blog/signalfd-is-useless)
+- [A shrinking life: Why some Asian youth withdraw from the world](https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/)
+- [Raw milk sales spike despite CDC&#39;s warnings of risk](https://www.pbs.org/newshour/health/raw-milk-sales-spike-despite-cdcs-warnings-of-risk-associated-with-bird-flu)
+- [The Prophet Who Failed – After the apocalypse that wasn&#39;t](https://harpers.org/archive/2024/06/the-prophet-who-wasnt-after-the-apocalypse-that-failed-emily-harnett/)
+- [The Case for Japan&#39;s Clothes-Drying Bathrooms](https://www.bloomberg.com/news/articles/2024-05-22/laundry-lessons-from-japanese-bathroom-technology)
+- [The Cognitive Design of Tools of Thought &lpar;2014&rpar; [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
