@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Evolution of Lisp &lpar;1993&rpar; [pdf]](https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf)
+- [Amiga Minimig Ported to Tang Nano 20k FPGA](https://github.com/harbaum/NanoMig)
+- [Kernel dev writes a USB driver from scratch in 3h [video]](https://www.youtube.com/watch?v=IXBC85SGC0Q)
+- [LO – simple WASM native language](https://github.com/glebbash/LO)
 - [What are your favourite websites that display a lot of data / tables?](https://news.ycombinator.com/item?id=40482845)
-- [Google Meet rolls out multi-device adaptive audio merging](https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html)
-- [Mediocre Engineer&#39;s Guide to HTTPS](https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https)
-- [Feynman&#39;s Garden](https://www.marginalia.nu/log/a_108_feynman_revisited/)
-- [Talkd/dialog open source project has been selected for 2024 GitHub Accelerator](https://github.com/talkdai/dialog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
