@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What are your favourite websites that display a lot of data / tables?](https://news.ycombinator.com/item?id=40482845)
+- [Google Meet rolls out multi-device adaptive audio merging](https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html)
 - [Mediocre Engineer&#39;s Guide to HTTPS](https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https)
 - [Feynman&#39;s Garden](https://www.marginalia.nu/log/a_108_feynman_revisited/)
-- [Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com/)
-- [A Journey to the Medical Netherworld &lpar;2016&rpar;](https://hazlitt.net/longreads/journey-medical-netherworld)
+- [Talkd/dialog open source project has been selected for 2024 GitHub Accelerator](https://github.com/talkdai/dialog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
