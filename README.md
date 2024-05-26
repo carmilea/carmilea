@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;I was misidentified as shoplifter by facial recognition tech&#39;](https://www.bbc.com/news/technology-69055945)
 - [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
+- [Zellij: A terminal workspace with batteries included](https://zellij.dev/)
 - [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring Full-Stack Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
 - [Majorana, the search for the most elusive neutrino of all](https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/)
-- [Taming floating-point sums](https://orlp.net/blog/taming-float-sums/)
-- [Extend your battery life with scx_rustland](http://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
