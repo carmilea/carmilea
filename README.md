@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft to Deprecate VBScript](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/vbscript-deprecation-timelines-and-next-steps/ba-p/4148301)
 - [Cloudflare took down our site after trying to force us to pay $120k within 24h](https://robindev.substack.com/p/cloudflare-took-down-our-website)
 - [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+- [LuaX – Lua interpreter, REPL, and useful packages](https://github.com/CDSoft/luax)
 - [Electrically conductive bricks can replace fossil fuels in industrial processes](https://www.bostonglobe.com/2024/05/25/science/race-clean-up-heavy-industry-heats-up/)
-- [Understanding how the brain reads code versus language](https://learnhub.top/understanding-how-the-brain-reads-code-versus-language/)
-- [Show HN: I made a online free tool to enhance and auto-crop your screenshots](https://socialscreenshots.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
