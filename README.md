@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI firms mustn’t govern themselves, say ex-members of OpenAI’s board](https://www.economist.com/by-invitation/2024/05/26/ai-firms-mustnt-govern-themselves-say-ex-members-of-openais-board)
 - [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
+- [Ask HN: How would you chunk a large Excel file?](https://news.ycombinator.com/item?id=40485185)
 - [macOS Sonoma silently enabled iCloud Keychain despite my precautions](https://lapcatsoftware.com/articles/2024/5/4.html)
 - [FILE_ID.DIZ Description &lpar;1994&rpar;](http://pcmicro.com/getdiz/file_id.html)
-- [It&#39;s Settled, More Nuclear Energy Means Less Mining](https://thebreakthrough.org/issues/energy/its-settled-more-nuclear-energy-means-less-mining)
-- [What Happens in the Brain to Cause Depression?](https://www.quantamagazine.org/what-happens-in-the-brain-to-cause-depression-20240523/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
