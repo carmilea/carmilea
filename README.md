@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Young women fall out of love with dating apps](https://www.ft.com/content/b0862016-e225-427e-88c9-4825c2c56000)
-- [The CompCert C Compiler](https://compcert.org/compcert-C.html)
-- [Launch from inside an Apollo capsule &lpar;restored in 4K/30 FPS&rpar; [video]](https://www.youtube.com/watch?v=v1SGDbpeFFg)
-- [Long distance sound localization with the Raspberry Pi](https://medium.com/@kim_94237/tdoa-sound-localization-with-the-raspberry-pi-3e777469c4fa)
-- [The Evolution of Lisp &lpar;1993&rpar; [pdf]](https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf)
+- [It&#39;s Settled, More Nuclear Energy Means Less Mining](https://thebreakthrough.org/issues/energy/its-settled-more-nuclear-energy-means-less-mining)
+- [My $2.2k laptop can&#39;t drive two screens](https://notes.nokun.eu/post/2024-05-26-expensive-laptops-dont-pro/)
+- [What Happens in the Brain to Cause Depression?](https://www.quantamagazine.org/what-happens-in-the-brain-to-cause-depression-20240523/)
+- [What the damaged Svalbard cable looked like when it came up from the depths](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
+- [Milk Watcher](https://en.wikipedia.org/wiki/Milk_watcher)
 <!-- BLOG-POST-LIST:END -->
 
 ---
