@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After Legalizing Raw Milk, Legislators Fall Ill from Drinking Raw Milk](https://www.eater.com/2016/3/9/11186922/raw-milk-lawmakers-ill-after-drinking-raw-milk)
-- [California Senate Passes Bill Requiring Passive Speed Limiters](https://www.roadandtrack.com/news/a60871999/california-passive-speed-limiters-bill/)
-- [More Falsehoods Programmers Believe About Time &lpar;2012&rpar;](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
+- [What are your favourite websites that display a lot of data / tables?](https://news.ycombinator.com/item?id=40482845)
+- [Mediocre Engineer&#39;s Guide to HTTPS](https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https)
 - [Feynman&#39;s Garden](https://www.marginalia.nu/log/a_108_feynman_revisited/)
-- [Integrating AI CodeGen with Low Code Application Development](https://blog.codesolvent.com/2024/05/integrating-ai-codegen-with-low-code.html)
+- [Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com/)
+- [A Journey to the Medical Netherworld &lpar;2016&rpar;](https://hazlitt.net/longreads/journey-medical-netherworld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
