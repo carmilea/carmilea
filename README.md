@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft to Deprecate VBScript](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/vbscript-deprecation-timelines-and-next-steps/ba-p/4148301)
-- [Cloudflare took down our site after trying to force us to pay $120k within 24h](https://robindev.substack.com/p/cloudflare-took-down-our-website)
-- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
-- [LuaX – Lua interpreter, REPL, and useful packages](https://github.com/CDSoft/luax)
-- [Electrically conductive bricks can replace fossil fuels in industrial processes](https://www.bostonglobe.com/2024/05/25/science/race-clean-up-heavy-industry-heats-up/)
+- [After Legalizing Raw Milk, Legislators Fall Ill from Drinking Raw Milk](https://www.eater.com/2016/3/9/11186922/raw-milk-lawmakers-ill-after-drinking-raw-milk)
+- [California Senate Passes Bill Requiring Passive Speed Limiters](https://www.roadandtrack.com/news/a60871999/california-passive-speed-limiters-bill/)
+- [More Falsehoods Programmers Believe About Time &lpar;2012&rpar;](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
+- [Feynman&#39;s Garden](https://www.marginalia.nu/log/a_108_feynman_revisited/)
+- [Integrating AI CodeGen with Low Code Application Development](https://blog.codesolvent.com/2024/05/integrating-ai-codegen-with-low-code.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
