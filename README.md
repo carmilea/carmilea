@@ -57,8 +57,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Call to Action: Fediverse Media Server](https://shlee.fedipress.au/2024/call-to-action-fediverse-media-server/)
+- [Turn Your iPhone into a Dumb Phone](https://dumbph.com/turn-iphone-into-dumb-phone)
 - [&#39;I was misidentified as shoplifter by facial recognition tech&#39;](https://www.bbc.co.uk/news/technology-69055945)
-- [Show HN: I made a state machine framework for guided conversations with LLMs](https://github.com/adlumal/GoalChain)
 - [Hurl, the Exceptional Language](https://hurl.wtf/)
 - [Braid: Synchronization for HTTP](https://braid.org/)
 <!-- BLOG-POST-LIST:END -->
