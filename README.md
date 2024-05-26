@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Call to Action: Fediverse Media Server](https://shlee.fedipress.au/2024/call-to-action-fediverse-media-server/)
+- [&#39;I was misidentified as shoplifter by facial recognition tech&#39;](https://www.bbc.co.uk/news/technology-69055945)
+- [Show HN: I made a state machine framework for guided conversations with LLMs](https://github.com/adlumal/GoalChain)
 - [Hurl, the Exceptional Language](https://hurl.wtf/)
-- [I was at Woodstock &#39;99 and it destroyed my innocence &lpar;2022&rpar;](https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence)
-- [How to monitor steel alloys with Grafana](https://grafana.com/blog/2024/05/24/how-to-monitor-steel-alloys-with-grafana-the-story-of-a-golden-grot-awards-winner/)
-- [The Algorithm Behind Jim Simons&#39;s Success](https://alchemy.substack.com/p/the-algorithm-behind-jim-simonss)
-- [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
+- [Braid: Synchronization for HTTP](https://braid.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
