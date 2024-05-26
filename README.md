@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
+- [macOS Sonoma silently enabled iCloud Keychain despite my precautions](https://lapcatsoftware.com/articles/2024/5/4.html)
+- [FILE_ID.DIZ Description &lpar;1994&rpar;](http://pcmicro.com/getdiz/file_id.html)
 - [It&#39;s Settled, More Nuclear Energy Means Less Mining](https://thebreakthrough.org/issues/energy/its-settled-more-nuclear-energy-means-less-mining)
-- [My $2.2k laptop can&#39;t drive two screens](https://notes.nokun.eu/post/2024-05-26-expensive-laptops-dont-pro/)
 - [What Happens in the Brain to Cause Depression?](https://www.quantamagazine.org/what-happens-in-the-brain-to-cause-depression-20240523/)
-- [What the damaged Svalbard cable looked like when it came up from the depths](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
-- [Milk Watcher](https://en.wikipedia.org/wiki/Milk_watcher)
 <!-- BLOG-POST-LIST:END -->
 
 ---
