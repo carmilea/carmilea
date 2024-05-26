@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Young women fall out of love with dating apps](https://www.ft.com/content/b0862016-e225-427e-88c9-4825c2c56000)
+- [The CompCert C Compiler](https://compcert.org/compcert-C.html)
+- [Launch from inside an Apollo capsule &lpar;restored in 4K/30 FPS&rpar; [video]](https://www.youtube.com/watch?v=v1SGDbpeFFg)
+- [Long distance sound localization with the Raspberry Pi](https://medium.com/@kim_94237/tdoa-sound-localization-with-the-raspberry-pi-3e777469c4fa)
 - [The Evolution of Lisp &lpar;1993&rpar; [pdf]](https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf)
-- [Amiga Minimig Ported to Tang Nano 20k FPGA](https://github.com/harbaum/NanoMig)
-- [Kernel dev writes a USB driver from scratch in 3h [video]](https://www.youtube.com/watch?v=IXBC85SGC0Q)
-- [LO – simple WASM native language](https://github.com/glebbash/LO)
-- [What are your favourite websites that display a lot of data / tables?](https://news.ycombinator.com/item?id=40482845)
 <!-- BLOG-POST-LIST:END -->
 
 ---
