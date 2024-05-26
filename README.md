@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
 - [&#39;I was misidentified as shoplifter by facial recognition tech&#39;](https://www.bbc.com/news/technology-69055945)
 - [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
 - [Zellij: A terminal workspace with batteries included](https://zellij.dev/)
 - [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring Full-Stack Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
-- [Majorana, the search for the most elusive neutrino of all](https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
