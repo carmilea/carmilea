@@ -59,8 +59,8 @@
 - [Hurl, the Exceptional Language](https://hurl.wtf/)
 - [I was at Woodstock &#39;99 and it destroyed my innocence &lpar;2022&rpar;](https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence)
 - [How to monitor steel alloys with Grafana](https://grafana.com/blog/2024/05/24/how-to-monitor-steel-alloys-with-grafana-the-story-of-a-golden-grot-awards-winner/)
+- [The Algorithm Behind Jim Simons&#39;s Success](https://alchemy.substack.com/p/the-algorithm-behind-jim-simonss)
 - [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
-- [Simplicity – Google SRE Handbook](https://sre.google/sre-book/simplicity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
