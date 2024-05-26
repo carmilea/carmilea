@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a online free tool to enhance and auto-crop your screenshots](https://socialscreenshots.com)
+- [The accidental tyranny of user interfaces](https://uxdesign.cc/the-accidental-tyranny-of-user-interfaces-eef15dc555a0?gi=49947f93d38a)
 - [Call to Action: Fediverse Media Server](https://shlee.fedipress.au/2024/call-to-action-fediverse-media-server/)
 - [Turn Your iPhone into a Dumb Phone](https://dumbph.com/turn-iphone-into-dumb-phone)
 - [&#39;I was misidentified as shoplifter by facial recognition tech&#39;](https://www.bbc.co.uk/news/technology-69055945)
-- [Hurl, the Exceptional Language](https://hurl.wtf/)
-- [Braid: Synchronization for HTTP](https://braid.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
