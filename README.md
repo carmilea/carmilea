@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Best of Google AI search results](https://threadreaderapp.com/thread/1794543007129387208.html)
 - [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
 - [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
 - [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring Full-Stack Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
 - [Majorana, the search for the most elusive neutrino of all](https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/)
-- [Taming floating-point sums](https://orlp.net/blog/taming-float-sums/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
