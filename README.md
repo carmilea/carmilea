@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Best of Google AI search results](https://threadreaderapp.com/thread/1794543007129387208.html)
+- [Hurl, the Exceptional Language](https://hurl.wtf/)
+- [I was at Woodstock &#39;99 and it destroyed my innocence &lpar;2022&rpar;](https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence)
+- [How to monitor steel alloys with Grafana](https://grafana.com/blog/2024/05/24/how-to-monitor-steel-alloys-with-grafana-the-story-of-a-golden-grot-awards-winner/)
 - [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
-- [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
-- [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring Full-Stack Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
-- [Majorana, the search for the most elusive neutrino of all](https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/)
+- [Simplicity – Google SRE Handbook](https://sre.google/sre-book/simplicity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
