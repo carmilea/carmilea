@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI vs. a Giraffe with No Spots](https://www.aiweirdness.com/ai-vs-a-giraffe-with-no-spots/)
+- [Tantivy – full-text search engine library inspired by Apache Lucene](https://github.com/quickwit-oss/tantivy)
+- [Coursera on Red Teaming LLM Applications](https://www.coursera.org/projects/red-teaming-llm-applications)
 - [Brainbase &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations)
-- [Helix-gpui: helix gpui front end](https://github.com/polachok/helix-gpui)
-- [The Internet Archive is under a DDoS attack](https://bsky.app/profile/archive.org/post/3ktiatctiqm2r)
-- [Internet Archive is under a DDoS attack](https://mastodon.archive.org/@internetarchive/112513905401989149)
-- [Researchers create dispersion-assisted photodetector to decipher high-dim light](https://phys.org/news/2024-05-dispersion-photodetector-decipher-high-dimensional.amp)
+- [Controlling the Taylor Swift Eras Tour Wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
