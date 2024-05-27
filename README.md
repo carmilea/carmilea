@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI vs. a Giraffe with No Spots](https://www.aiweirdness.com/ai-vs-a-giraffe-with-no-spots/)
+- [More Itertools](https://more-itertools.readthedocs.io/en/stable/)
+- [Withdraw most of my ownership in favor of Mark](https://github.com/python/cpython/pull/119611)
 - [Tantivy – full-text search engine library inspired by Apache Lucene](https://github.com/quickwit-oss/tantivy)
-- [Coursera on Red Teaming LLM Applications](https://www.coursera.org/projects/red-teaming-llm-applications)
 - [Brainbase &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations)
-- [Controlling the Taylor Swift Eras Tour Wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
+- [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
