@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI firms mustn’t govern themselves, say ex-members of OpenAI’s board](https://www.economist.com/by-invitation/2024/05/26/ai-firms-mustnt-govern-themselves-say-ex-members-of-openais-board)
+- [Julia Evans&#39; Git Cheat Sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
+- [API Governance Delivers Quality](https://apichangelog.substack.com/p/api-governance-delivers-quality)
+- [Artificial Intelligence and the Skill Premium](https://www.nber.org/papers/w32430)
 - [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
 - [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
-- [Ask HN: How would you chunk a large Excel file?](https://news.ycombinator.com/item?id=40485185)
-- [FILE_ID.DIZ Description &lpar;1994&rpar;](http://pcmicro.com/getdiz/file_id.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
