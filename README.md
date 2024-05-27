@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Regular Expression Matching with a Trigram Index &lpar;2012&rpar;](https://swtch.com/~rsc/regexp/regexp4.html)
+- [GTFL – A Graphical Terminal for Common Lisp](http://www.martin-loetzsch.de/gtfl/)
 - [More Itertools](https://more-itertools.readthedocs.io/en/stable/)
 - [Tantivy – full-text search engine library inspired by Apache Lucene](https://github.com/quickwit-oss/tantivy)
 - [Brainbase &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations)
-- [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
-- [British Museum gems for sale on eBay – how a theft was exposed](https://www.bbc.co.uk/news/articles/cpegg27g74do)
 <!-- BLOG-POST-LIST:END -->
 
 ---
