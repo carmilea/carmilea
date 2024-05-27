@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40488372)
+- [Alaska&#39;s Pristine Waterways Are Turning Orange](https://www.sciencealert.com/alaskas-pristine-waterways-are-turning-a-shocking-orange)
 - [X.ai: $6B Series B](https://x.ai/blog/series-b)
 - [Is regulated BGP security coming?](https://blog.apnic.net/2024/05/23/is-regulated-bgp-security-coming/)
 - [PcTattletale leaks victims&#39; screen recordings to entire Internet](https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/)
-- [Apple signs deal with OpenAI for iOS, still wants Google as an &#39;option&#39;](https://www.androidauthority.com/apple-signs-deal-openai-iphones-3446254/)
-- [Git cheat sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
