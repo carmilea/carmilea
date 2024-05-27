@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A venture capitalist walks into a bar](https://lcamtuf.substack.com/p/a-venture-capitalist-walks-into-a)
-- [Helix: A post-modern text editor](https://helix-editor.com/)
-- [Nocobase, on prem Notion for creating production-ready apps](https://github.com/nocobase/nocobase)
 - [Git cheat sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
-- [Artificial intelligence and the skill premium](https://www.nber.org/papers/w32430)
+- [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
+- [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
+- [FILE_ID.DIZ Description &lpar;1994&rpar;](http://pcmicro.com/getdiz/file_id.html)
+- [Old dogs, new CSS tricks](https://mxb.dev/blog/old-dogs-new-css-tricks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
