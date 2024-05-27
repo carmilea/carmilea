@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lufthansa brings the inflight experience to life with mixed reality](https://forwork.meta.com/case-studies/lufthansa-mixed-reality-inflight-experience/)
+- [Depression, schizophrenia and bipolar disorder linked with ancient viral DNA](https://theconversation.com/depression-schizophrenia-and-bipolar-disorder-linked-with-ancient-viral-dna-in-our-genome-new-research-230490)
 - [Resume Tip: Hacking &quot;AI&quot; screening of resumes](https://www.solipsys.co.uk/images/ResumeTip.png)
 - [My new PSU burns out I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
-- [Priced Out of Homeownership](https://www.bbc.com/news/articles/cmj66r4lvzzo)
 - [Big data is dead &lpar;2023&rpar;](https://motherduck.com/blog/big-data-is-dead/)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40488372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
