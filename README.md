@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Julia Evans&#39; Git Cheat Sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
-- [API Governance Delivers Quality](https://apichangelog.substack.com/p/api-governance-delivers-quality)
-- [Artificial Intelligence and the Skill Premium](https://www.nber.org/papers/w32430)
+- [Nocobase, on prem Notion for creating production-ready apps](https://github.com/nocobase/nocobase)
+- [Git cheat sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
+- [Artificial intelligence and the skill premium](https://www.nber.org/papers/w32430)
 - [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
 - [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
 <!-- BLOG-POST-LIST:END -->
