@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yerba Mate: South America&#39;s Indigenous Tea, from Paraguay to Syria](https://globalvoices.org/2024/05/20/yerba-mate-south-americas-indigenous-tea-from-paraguay-to-syria/)
-- [Cobalt – lightweight HTML5 application container from YouTube](https://developers.google.com/youtube/cobalt)
-- [Show HN: Use Go&#39;s HTML/template to write React-like code](https://news.ycombinator.com/item?id=40490608)
-- [Depression, schizophrenia and bipolar disorder linked with ancient viral DNA](https://theconversation.com/depression-schizophrenia-and-bipolar-disorder-linked-with-ancient-viral-dna-in-our-genome-new-research-230490)
-- [Possible association between tattoos and lymphoma revealed](https://www.lunduniversity.lu.se/article/possible-association-between-tattoos-and-lymphoma-revealed)
+- [Researchers create dispersion-assisted photodetector to decipher high-dim light](https://phys.org/news/2024-05-dispersion-photodetector-decipher-high-dimensional.amp)
+- [Should I Use jwts For Authentication Tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
+- [Instead of &quot;auth&quot;, we should say &quot;permissions&quot; and &quot;login&quot;](https://ntietz.com/blog/lets-say-instead-of-auth/)
+- [My BDFL guiding principles &lpar;cURL&rpar; – daniel.haxx.se](https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/)
+- [Reclaiming IPv4 Class E&#39;s 240.0.0.0/4](https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
