@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yerba Mate: South America&#39;s Indigenous Tea, from Paraguay to Syria](https://globalvoices.org/2024/05/20/yerba-mate-south-americas-indigenous-tea-from-paraguay-to-syria/)
 - [Cobalt – lightweight HTML5 application container from YouTube](https://developers.google.com/youtube/cobalt)
-- [Priced out of home ownership – &#39;It makes me want to throw up&#39;](https://www.bbc.co.uk/news/articles/cmj66r4lvzzo)
 - [Show HN: Use Go&#39;s HTML/template to write React-like code](https://news.ycombinator.com/item?id=40490608)
 - [Depression, schizophrenia and bipolar disorder linked with ancient viral DNA](https://theconversation.com/depression-schizophrenia-and-bipolar-disorder-linked-with-ancient-viral-dna-in-our-genome-new-research-230490)
-- [How Many EV Charging Stations Does the US Need to Replace Gas Stations?](https://www.wired.com/story/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/)
+- [Possible association between tattoos and lymphoma revealed](https://www.lunduniversity.lu.se/article/possible-association-between-tattoos-and-lymphoma-revealed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
