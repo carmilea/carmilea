@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wiley shuts down 19 science journals and retracts 11,000 gobbledygook papers](https://joannenova.com.au/2024/05/so-much-for-peer-review-wiley-shuts-down-19-science-journals-and-retracts-11000-fraudulent-or-gobblygook-papers/)
+- [X.ai: $6B Series B](https://x.ai/blog/series-b)
+- [Is regulated BGP security coming?](https://blog.apnic.net/2024/05/23/is-regulated-bgp-security-coming/)
 - [PcTattletale leaks victims&#39; screen recordings to entire Internet](https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/)
+- [Apple signs deal with OpenAI for iOS, still wants Google as an &#39;option&#39;](https://www.androidauthority.com/apple-signs-deal-openai-iphones-3446254/)
 - [Git cheat sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
-- [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
-- [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
