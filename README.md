@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brainbase &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations)
+- [Helix-gpui: helix gpui front end](https://github.com/polachok/helix-gpui)
+- [The Internet Archive is under a DDoS attack](https://bsky.app/profile/archive.org/post/3ktiatctiqm2r)
+- [Internet Archive is under a DDoS attack](https://mastodon.archive.org/@internetarchive/112513905401989149)
 - [Researchers create dispersion-assisted photodetector to decipher high-dim light](https://phys.org/news/2024-05-dispersion-photodetector-decipher-high-dimensional.amp)
-- [Should I Use jwts For Authentication Tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
-- [Instead of &quot;auth&quot;, we should say &quot;permissions&quot; and &quot;login&quot;](https://ntietz.com/blog/lets-say-instead-of-auth/)
-- [My BDFL guiding principles &lpar;cURL&rpar; – daniel.haxx.se](https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/)
-- [Reclaiming IPv4 Class E&#39;s 240.0.0.0/4](https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
