@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wiley shuts down 19 science journals and retracts 11,000 gobbledygook papers](https://joannenova.com.au/2024/05/so-much-for-peer-review-wiley-shuts-down-19-science-journals-and-retracts-11000-fraudulent-or-gobblygook-papers/)
+- [PcTattletale leaks victims&#39; screen recordings to entire Internet](https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/)
 - [Git cheat sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
 - [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
 - [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
-- [FILE_ID.DIZ Description &lpar;1994&rpar;](http://pcmicro.com/getdiz/file_id.html)
-- [Old dogs, new CSS tricks](https://mxb.dev/blog/old-dogs-new-css-tricks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
