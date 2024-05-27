@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [More Itertools](https://more-itertools.readthedocs.io/en/stable/)
-- [Withdraw most of my ownership in favor of Mark](https://github.com/python/cpython/pull/119611)
 - [Tantivy – full-text search engine library inspired by Apache Lucene](https://github.com/quickwit-oss/tantivy)
 - [Brainbase &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations)
 - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
+- [British Museum gems for sale on eBay – how a theft was exposed](https://www.bbc.co.uk/news/articles/cpegg27g74do)
 <!-- BLOG-POST-LIST:END -->
 
 ---
