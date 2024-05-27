@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Resume Tip: Hacking &quot;AI&quot; screening of resumes](https://www.solipsys.co.uk/images/ResumeTip.png)
+- [My new PSU burns out I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
 - [Scientists Found a Paradox in Evolution; It May Become the Next Rule of Biology](https://www.popularmechanics.com/science/animals/a60848559/rule-of-biology-evolution-paradox/)
-- [Wall Street is about to see its biggest trading change in years](https://www.cnn.com/2024/05/24/investing/premarket-stocks-trading-t1-sec/index.html)
 - [Big data is dead &lpar;2023&rpar;](https://motherduck.com/blog/big-data-is-dead/)
-- [Twitter is now attention roulette and ultimately meaningless](https://playpermissionless.substack.com/p/twitter-is-now-attention-roulette)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40488372)
 <!-- BLOG-POST-LIST:END -->
 
