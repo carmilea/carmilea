@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My computer has an underscore in its name, and I have trouble with the network](https://kb.iu.edu/d/afqs)
-- [Wasmi v0.32: WebAssembly interpreter is now faster than](https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/)
+- [Opencall.ai &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/opencall-ai/jobs/5wMleux-founding-engineer)
+- [Wasmi v0.32: WebAssembly interpreter is now faster than ever](https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/)
 - [Root your Docker host in 10 seconds for fun and profit &lpar;2017&rpar;](https://www.electricmonk.nl/log/2017/09/30/root-your-docker-host-in-10-seconds-for-fun-and-profit/)
-- [Photoroom &lpar;YC S20&rpar; Is Hiring a Django Back End Lead in Paris &lpar;PostgreSQL, REST&rpar;](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
-- [Gleam 1.2.0 release – Fault tolerant Gleam](https://gleam.run/news/fault-tolerant-gleam/)
+- [Doing is normally distributed, learning is log-normal](https://hiandrewquinn.github.io/til-site/posts/doing-is-normally-distributed-learning-is-log-normal/)
+- [Calling Time on DNSSEC?](https://www.potaroo.net/ispcol/2024-05/dnssec-fin.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
