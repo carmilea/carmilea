@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Road planners embrace an unconventional intersection](https://www.npr.org/2024/05/28/1243933142/diverging-diamond-interchange-chlewicki)
-- [Finally an alternative to Big Tech, your new open-source mobile ecosystem](https://f-droid.org/2024/05/24/mobifree.html)
+- [Civil society to YouTube: stop helping Russia suppress free speech](https://www.accessnow.org/press-release/youtube-russia-stop-supressing-free-speech/)
+- [Orcas are still smashing up boats – and we&#39;ve worked out why](https://newatlas.com/biology/orcas-killer-whales-boats/)
+- [Hate Chatbots? You Aren&#39;t the Only One](https://www.wsj.com/tech/ai/chatbots-consumer-sentiment-f045b6cd)
+- [Mobifree – An open-source mobile ecosystem](https://f-droid.org/2024/05/24/mobifree.html)
 - [Show HN: I made a free app to calibrate your turntable by simply playing a song](https://grooved.okat.best/)
-- [An Air Quality Model That Is Evolving with the Times](https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times)
-- [Honoring the Vibrant Cultures Around Us: Celebrating Asian American, Native Hawaiian and Pacific Islander Heritage Month](https://www.singlestore.com/blog/celebrating-aapih-month)
 <!-- BLOG-POST-LIST:END -->
 
 ---
