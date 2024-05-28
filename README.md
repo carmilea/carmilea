@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Opencall.ai &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/opencall-ai/jobs/5wMleux-founding-engineer)
-- [Wasmi v0.32: WebAssembly interpreter is now faster than ever](https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/)
-- [What You Shouldn&#39;t Know About Quantum Computers](https://arxiv.org/abs/2405.15838)
-- [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/abs/2405.17399)
-- [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
+- [Road planners embrace an unconventional intersection](https://www.npr.org/2024/05/28/1243933142/diverging-diamond-interchange-chlewicki)
+- [Finally an alternative to Big Tech, your new open-source mobile ecosystem](https://f-droid.org/2024/05/24/mobifree.html)
+- [Show HN: I made a free app to calibrate your turntable by simply playing a song](https://grooved.okat.best/)
+- [An Air Quality Model That Is Evolving with the Times](https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times)
+- [Honoring the Vibrant Cultures Around Us: Celebrating Asian American, Native Hawaiian and Pacific Islander Heritage Month](https://www.singlestore.com/blog/celebrating-aapih-month)
 <!-- BLOG-POST-LIST:END -->
 
 ---
