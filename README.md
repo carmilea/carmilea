@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inventing Cyrillic](https://www.historytoday.com/archive/history-matters/inventing-cyrillic)
+- [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 - [Fractal Geometry](https://users.math.yale.edu/public_html/People/frame/Fractals/)
 - [The Nonprofit Industrial Complex and the Corruption of the American City](https://americanaffairsjournal.org/2024/05/the-nonprofit-industrial-complex-and-the-corruption-of-the-american-city/)
 - [WP21](https://ma.tt/2024/05/wp21/)
-- [La Niña is coming, raising the chances of a dangerous Atlantic hurricane season](https://phys.org/news/2024-05-la-nia-chances-dangerous-atlantic.html)
-- [Dlvhdr/gh-dash: A beautiful CLI dashboard for GitHub](https://github.com/dlvhdr/gh-dash)
 <!-- BLOG-POST-LIST:END -->
 
 ---
