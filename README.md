@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linum &lpar;YC W23&rpar; is a hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
-- [Jan Leike joins Anthropic on their superalignment team](https://twitter.com/janleike/status/1795497960509448617)
-- [US court to hear challenges to potential TikTok ban in September](https://www.reuters.com/legal/us-court-hear-challenges-potential-tiktok-ban-september-2024-05-28/)
-- [Reproduce GPT-2 in llm.c](https://twitter.com/karpathy/status/1795484547267834137)
-- [Generalizing Support for Functional OOP in R](https://blog.r-project.org/2024/05/17/generalizing-support-for-functional-oop-in-r/index.html)
+- [A robot will soon try to remove melted nuclear fuel from Fukushima reactor](https://apnews.com/article/japan-fukushima-nuclear-meltdown-debris-robot-238a5177ec3ac3c7608c3116fdf58a58)
+- [California is about to side with PG&amp;E – again – to kill community solar projects](https://www.sfchronicle.com/opinion/editorials/article/california-pge-community-solar-19468490.php)
+- [Yet another project management SaaS](https://www.plan-b.today/)
+- [TTE: Terminal Text Effects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
+- [The Dark Stain on Tesla&#39;s Directors](https://montanaskeptic.substack.com/p/the-dark-stain-on-teslas-directors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
