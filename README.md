@@ -60,7 +60,7 @@
 - [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 - [Fractal Geometry](https://users.math.yale.edu/public_html/People/frame/Fractals/)
 - [The Nonprofit Industrial Complex and the Corruption of the American City](https://americanaffairsjournal.org/2024/05/the-nonprofit-industrial-complex-and-the-corruption-of-the-american-city/)
-- [WP21](https://ma.tt/2024/05/wp21/)
+- [Anonymous Source Shared Leaked Google Search API Documents](https://sparktoro.com/blog/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
