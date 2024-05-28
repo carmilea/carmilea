@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [La Niña is coming, raising the chances of a dangerous Atlantic hurricane season](https://phys.org/news/2024-05-la-nia-chances-dangerous-atlantic.html)
+- [Dlvhdr/gh-dash: A beautiful CLI dashboard for GitHub](https://github.com/dlvhdr/gh-dash)
 - [Truth, Math, and Models &lpar;Part 8 in a series on the scientific method&rpar;](http://blog.rongarret.info/)
 - [Grokked Transformers Are Implicit Reasoners](https://arxiv.org/abs/2405.15071)
-- [Regular Expression Matching with a Trigram Index &lpar;2012&rpar;](https://swtch.com/~rsc/regexp/regexp4.html)
-- [GTFL – A Graphical Terminal for Common Lisp](http://www.martin-loetzsch.de/gtfl/)
-- [More Itertools](https://more-itertools.readthedocs.io/en/stable/)
+- [Notepad Tab](https://notepadtab.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
