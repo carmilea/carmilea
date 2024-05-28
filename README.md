@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Truth, Math, and Models &lpar;Part 8 in a series on the scientific method&rpar;](http://blog.rongarret.info/)
 - [Grokked Transformers Are Implicit Reasoners](https://arxiv.org/abs/2405.15071)
-- [Notepad Tab](https://notepadtab.com/)
 - [Regular Expression Matching with a Trigram Index &lpar;2012&rpar;](https://swtch.com/~rsc/regexp/regexp4.html)
 - [GTFL – A Graphical Terminal for Common Lisp](http://www.martin-loetzsch.de/gtfl/)
+- [More Itertools](https://more-itertools.readthedocs.io/en/stable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
