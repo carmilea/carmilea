@@ -57,7 +57,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Electromagnetic Waves and Antennas](https://www.ece.rutgers.edu/~orfanidi/ewa/)
-- [Google won’t comment on a leak of its search algorithm documentation](https://www.theverge.com/2024/5/28/24166177/google-search-ranking-algorithm-leak-documents-link-seo)
+- [Startups must choose between productivity and alignment](https://www.zaxis.page/p/productivity-versus-alignment)
 - [Algorithmica](https://en.algorithmica.org)
 - [Shadama: A Particle Simulation Programming Environment for Everyone](https://tinlizzie.org/~ohshima/shadama2/live2017/)
 - [Eradicating N+1s: The Two-Phase Data Load and Render Pattern in Go](https://brandur.org/two-phase-render)
