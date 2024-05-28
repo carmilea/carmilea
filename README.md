@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fractal Geometry](https://users.math.yale.edu/public_html/People/frame/Fractals/)
+- [The Nonprofit Industrial Complex and the Corruption of the American City](https://americanaffairsjournal.org/2024/05/the-nonprofit-industrial-complex-and-the-corruption-of-the-american-city/)
+- [WP21](https://ma.tt/2024/05/wp21/)
 - [La Niña is coming, raising the chances of a dangerous Atlantic hurricane season](https://phys.org/news/2024-05-la-nia-chances-dangerous-atlantic.html)
 - [Dlvhdr/gh-dash: A beautiful CLI dashboard for GitHub](https://github.com/dlvhdr/gh-dash)
-- [Truth, Math, and Models &lpar;Part 8 in a series on the scientific method&rpar;](http://blog.rongarret.info/)
-- [Grokked Transformers Are Implicit Reasoners](https://arxiv.org/abs/2405.15071)
-- [Notepad Tab](https://notepadtab.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
