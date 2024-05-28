@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inventing Cyrillic](https://www.historytoday.com/archive/history-matters/inventing-cyrillic)
-- [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
-- [Fractal Geometry](https://users.math.yale.edu/public_html/People/frame/Fractals/)
-- [The Nonprofit Industrial Complex and the Corruption of the American City](https://americanaffairsjournal.org/2024/05/the-nonprofit-industrial-complex-and-the-corruption-of-the-american-city/)
-- [Anonymous Source Shared Leaked Google Search API Documents](https://sparktoro.com/blog/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them/)
+- [Photoroom &lpar;YC S20&rpar; Is Hiring a Django Back End Lead in Paris &lpar;PostgreSQL, REST&rpar;](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
+- [Gleam 1.2.0 release – Fault tolerant Gleam](https://gleam.run/news/fault-tolerant-gleam/)
+- [So many feed readers, so many behaviors](https://rachelbythebay.com/w/2024/05/27/feed/)
+- [I Miss BSD/Linux](https://brainbaking.com/post/2024/05/i-miss-bsd-linux/)
+- [Doing is normally distributed, learning is log-normal](https://hiandrewquinn.github.io/til-site/posts/doing-is-normally-distributed-learning-is-log-normal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
