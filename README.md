@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Civil society to YouTube: stop helping Russia suppress free speech](https://www.accessnow.org/press-release/youtube-russia-stop-supressing-free-speech/)
-- [Orcas are still smashing up boats – and we&#39;ve worked out why](https://newatlas.com/biology/orcas-killer-whales-boats/)
-- [Hate Chatbots? You Aren&#39;t the Only One](https://www.wsj.com/tech/ai/chatbots-consumer-sentiment-f045b6cd)
-- [Mobifree – An open-source mobile ecosystem](https://f-droid.org/2024/05/24/mobifree.html)
-- [Show HN: I made a free app to calibrate your turntable by simply playing a song](https://grooved.okat.best/)
+- [Linum &lpar;YC W23&rpar; is a hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
+- [Jan Leike joins Anthropic on their superalignment team](https://twitter.com/janleike/status/1795497960509448617)
+- [US court to hear challenges to potential TikTok ban in September](https://www.reuters.com/legal/us-court-hear-challenges-potential-tiktok-ban-september-2024-05-28/)
+- [Reproduce GPT-2 in llm.c](https://twitter.com/karpathy/status/1795484547267834137)
+- [Generalizing Support for Functional OOP in R](https://blog.r-project.org/2024/05/17/generalizing-support-for-functional-oop-in-r/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
