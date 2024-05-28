@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How does AI impact my job as a programmer?](https://chelseatroy.com/2024/05/26/how-does-ai-impact-my-job-as-a-programmer/)
-- [More transparent than glass, new material cools rooms and self-cleans](https://newatlas.com/materials/metamaterial-glass-radiative-cooling-self-cleaning/)
 - [Opencall.ai &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/opencall-ai/jobs/5wMleux-founding-engineer)
 - [Wasmi v0.32: WebAssembly interpreter is now faster than ever](https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/)
 - [What You Shouldn&#39;t Know About Quantum Computers](https://arxiv.org/abs/2405.15838)
+- [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/abs/2405.17399)
+- [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
