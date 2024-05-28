@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Electromagnetic Waves and Antennas](https://www.ece.rutgers.edu/~orfanidi/ewa/)
-- [Startups must choose between productivity and alignment](https://www.zaxis.page/p/productivity-versus-alignment)
-- [Algorithmica](https://en.algorithmica.org)
-- [Shadama: A Particle Simulation Programming Environment for Everyone](https://tinlizzie.org/~ohshima/shadama2/live2017/)
+- [Facebook will soon use your photos, posts and other info to train its AI](https://www.thejournal.ie/facebook-data-ai-6391876-May2024/)
+- [Electromagnetic Waves and Antennas &lpar;2016&rpar;](https://www.ece.rutgers.edu/~orfanidi/ewa/)
+- [Productivity Versus Alignment](https://www.zaxis.page/p/productivity-versus-alignment)
+- [Shadama: A particle simulation programming environment for everyone](https://tinlizzie.org/~ohshima/shadama2/live2017/)
 - [Eradicating N+1s: The Two-Phase Data Load and Render Pattern in Go](https://brandur.org/two-phase-render)
 <!-- BLOG-POST-LIST:END -->
 
