@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Cracked an 11-Year-Old Password to a $3M Crypto Wallet](https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/)
+- [We&#39;re Watching Facebook Die](https://www.wheresyoured.at/were-watching-facebook-die/)
+- [Microsoft should accept and give up Windows 11, throw everything at Windows 12](https://www.techradar.com/computing/windows/microsoft-should-accept-that-its-time-to-give-up-on-windows-11-and-throw-everything-at-windows-12)
 - [A robot will soon try to remove melted nuclear fuel from Fukushima reactor](https://apnews.com/article/japan-fukushima-nuclear-meltdown-debris-robot-238a5177ec3ac3c7608c3116fdf58a58)
-- [California is about to side with PG&amp;E – again – to kill community solar projects](https://www.sfchronicle.com/opinion/editorials/article/california-pge-community-solar-19468490.php)
-- [Yet another project management SaaS](https://www.plan-b.today/)
-- [TTE: Terminal Text Effects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
-- [The Dark Stain on Tesla&#39;s Directors](https://montanaskeptic.substack.com/p/the-dark-stain-on-teslas-directors)
+- [Chatbot Arena Leaderboard: Gemini 1.5 Flash, Pro and Advanced Results](https://twitter.com/lmsysorg/status/1795512202465845686)
 <!-- BLOG-POST-LIST:END -->
 
 ---
