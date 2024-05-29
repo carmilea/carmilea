@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rhodes Must Fall: The Legacy of Cecil Rhodes in the University of Oxford](https://globalcapitalism.history.ox.ac.uk/files/case31-rhodesmustfallpdf)
-- [Tesla Settles Fatal Crash Suit Ahead of California Trial](https://www.ttnews.com/articles/tesla-fatal-suit-trial)
+- [Harrassment of scientists is surging – institutions aren&#39;t sure how to help](https://www.nature.com/articles/d41586-024-01468-9)
+- [Microsoft, Beihang release MoRA, an efficient LLM fine-tuning technique](https://venturebeat.com/ai/microsoft-beihang-release-mora-an-efficient-llm-fine-tuning-technique/)
+- [Show HN: Savvy – Create, Share and Run Runbooks from your Terminal](https://github.com/getsavvyinc/savvy-cli)
 - [Ask HN: Why do games companies not release source code for old games?](https://news.ycombinator.com/item?id=40506894)
 - [Ex-OpenAI board member reveals what led to Sam Altman&#39;s brief ousting](https://www.businessinsider.com/openai-board-member-details-sam-altman-lied-allegation-ousted-2024-5)
-- [Proposal to change default annotation processing policy in JDK 23](https://mail.openjdk.org/pipermail/jdk-dev/2024-May/009028.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
