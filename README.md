@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The hail in Texas was so big Tuesday that it required a new description](https://www.washingtonpost.com/weather/2024/05/29/texas-hail-dvd-size-record-nwws/)
+- [The Pen Hospital in Kolkata will nurse your broken fountain pen back](https://www.vogue.in/content/pen-hospital-in-kolkata-will-nurse-your-broken-fountain-pen-back-to-health)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring – 100% Remote](https://www.tesorio.com/careers#job-openings)
 - [Toxoplasma Gondii significantly alters wolf behavior](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite)
-- [Stellantis CEO confirms $25k Jeep EV](https://www.teslarati.com/jeep-stellantis-ceo-25-k-ev/)
-- [Amazon Cloud Traffic Is Suffocating Fedora&#39;s Mirrors](https://www.phoronix.com/news/AWS-Cloud-Breaks-Fedora-Mirrors)
-- [New attention mechanisms that outperform standard multi-head attention](https://arxiv.org/abs/2403.01643)
+- [How Waymo outlasted the competition and made robo-taxis a real business](https://fortune.com/2024/05/29/waymo-self-driving-robo-taxi-uber-tesla-alphabet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
