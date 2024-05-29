@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kids sickened by police training may have ingested decades old chemical weapons](https://www.sfchronicle.com/crime/article/sf-jail-chemical-weapons-19476975.php)
+- [After Furiosa flops, Hollywood could be facing a biblically disastrous summer](https://www.bbc.com/culture/article/20240529-after-furiosa-flops-hollywood-could-be-facing-a-biblically-disastrous-summer)
+- [Kino: Pro Video Camera](https://www.lux.camera/introducing-kino-pro-video-camera/)
+- [Vector indexing all of Wikipedia on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
 - [YC is hiring full stack product engineers – build SW for founders](https://www.ycombinator.com/companies/y-combinator/jobs/dUJA6i7-product-engineer-work-at-a-startup)
-- [OpenAI partners with Vox Media, Anthropic brings ex-OpenAI safety lead](https://thehorizonnews.beehiiv.com/p/openai-partners-vox-media-anthropic-brings-exopenai-safety-lead-new-team-head)
-- [Ticketmaster hacked. Breach affects more than half a billion users](https://mashable.com/article/ticketmaster-data-breach-shinyhunters-hack)
-- [US to modernize electrical grid – for clean energy and fewer outages](https://www.cnn.com/2024/05/28/climate/energy-grid-modernization-biden/index.html)
-- [Ask HN: Is Stripe the new PayPal, cancelling user accounts without explanation?](https://news.ycombinator.com/item?id=40513782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
