@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ex-OpenAI board member provides her first detailed account of CEO ouster](https://www.reuters.com/technology/ex-openai-board-member-provides-her-first-detailed-account-ceo-ouster-2024-05-29/)
 - [What We Learned from a Year of Building with LLMs](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
 - [AI headphones let you listen to a single person in crowd, by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
 - [App designed by Indigenous people in W. Australia preserves language, culture](https://www.abc.net.au/news/2024-05-27/wa-indigenous-app-linking-science-and-culture/103869762)
 - [How to use I2C devices in &lpar;Apache&rpar; NuttX: Adding support for an I2C device](https://www.EmbeddedRelated.com/showarticle/1668.php)
-- [USB disk as /dev/sda on a not-rooted smartphone using Termux, QEMU, Alpine Linux](https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
