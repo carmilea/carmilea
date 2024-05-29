@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create mobile apps that make $3k a day](https://old.reddit.com/r/iOSProgramming/comments/1d2ofpf/how_to_create_mobile_apps_that_make_3000_a_day/)
-- [OpenAI training its next major AI model, forms new safety committee](https://arstechnica.com/information-technology/2024/05/openai-training-its-next-major-ai-model-forms-new-safety-committee/)
-- [ProjectPro &lpar;YC IK12&rpar; Is Hiring](https://www.ycombinator.com/companies/projectpro/jobs/jSqxCg8-account-executive-to-sell-to-analytics-teams)
-- [Training /= chatting: ChatGPT and other LLMs don&#39;t remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
-- [Hello World, Simple Event Broker](https://blog.vbang.dk//2024/05/26/seb/)
+- [The Rise of the Disposable Car](https://www.bloomberg.com/opinion/articles/2024-05-23/more-cars-are-being-totaled-as-repair-costs-used-car-prices-bite)
+- [Canada wants the power to create backdoors in telecom networks for surveillance](https://www.theglobeandmail.com/opinion/article-ottawa-wants-the-power-to-create-secret-backdoors-in-our-networks-to/)
+- [Codestral: Mistral&#39;s Code Model](https://mistral.ai/news/codestral/)
+- [The U.S. Passes an Internet Privacy Law for Rich Jet Owners](https://www.techdirt.com/2024/05/29/the-u-s-finally-passes-an-internet-privacy-law-for-rich-jet-owners/)
+- [New Earplugs Won&#39;t Amplify the Sound of Your Own Voice](https://www.scientificamerican.com/article/new-earplugs-wont-amplify-the-sound-of-your-own-voice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
