@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Volkswagen Group brings electric car for EUR 20k](https://www.volkswagen-group.com/en/press-releases/from-europe-for-europe-volkswagen-group-launches-project-for-all-electric-entry-level-mobility-18416)
-- [You Need to Pay Better Attention](https://arxiv.org/abs/2403.01643)
-- [What Scarlett Johansson vs. OpenAI Could Look Like in Court](https://www.wired.com/story/scarlett-johansson-v-openai-could-look-like-in-court/)
-- [Nvidia is about to pass Apple in market cap](https://www.reuters.com/technology/ai-darling-nvidias-market-value-surges-closer-apple-2024-05-28/)
-- [Era3D: High-Resolution Multiview Diffusion Using Efficient Row-Wise Attention](https://penghtyx.github.io/Era3D/)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring – 100% Remote](https://www.tesorio.com/careers#job-openings)
+- [Toxoplasma Gondii significantly alters wolf behavior](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite)
+- [Stellantis CEO confirms $25k Jeep EV](https://www.teslarati.com/jeep-stellantis-ceo-25-k-ev/)
+- [Amazon Cloud Traffic Is Suffocating Fedora&#39;s Mirrors](https://www.phoronix.com/news/AWS-Cloud-Breaks-Fedora-Mirrors)
+- [New attention mechanisms that outperform standard multi-head attention](https://arxiv.org/abs/2403.01643)
 <!-- BLOG-POST-LIST:END -->
 
 ---
