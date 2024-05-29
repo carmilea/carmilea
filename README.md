@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Laws of Software Complexity](https://maheshba.bitbucket.io/blog/2024/05/08/2024-ThreeLaws.html)
+- [You can force employees back to the office, but not the good ones](https://www.rte.ie/brainstorm/2024/0521/1450272-return-to-office-mandates-employees-work-from-home/)
+- [Former OpenAI board member explains why they fired Sam Altman](https://www.theverge.com/2024/5/28/24166713/openai-helen-toner-explains-why-sam-altman-was-fired)
+- [NSA Ghidra open-source reverse engineering framework](https://ghidra-sre.org/)
 - [Ex-OpenAI board member provides her first detailed account of CEO ouster](https://www.reuters.com/technology/ex-openai-board-member-provides-her-first-detailed-account-ceo-ouster-2024-05-29/)
-- [What We Learned from a Year of Building with LLMs](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
-- [AI headphones let you listen to a single person in crowd, by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
-- [App designed by Indigenous people in W. Australia preserves language, culture](https://www.abc.net.au/news/2024-05-27/wa-indigenous-app-linking-science-and-culture/103869762)
-- [How to use I2C devices in &lpar;Apache&rpar; NuttX: Adding support for an I2C device](https://www.EmbeddedRelated.com/showarticle/1668.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
