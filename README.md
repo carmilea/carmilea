@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smoking weed every day makes me less presentable and less productive. I love it](https://www.theguardian.com/us-news/article/2024/may/29/smoking-weed-every-day)
+- [Phone cameras can take in more light than the human eye](https://theconversation.com/phone-cameras-can-take-in-more-light-than-the-human-eye-thats-why-low-light-events-like-the-northern-lights-often-look-better-through-your-phone-camera-230068)
+- [In one of the US&#39;s hottest deserts, utilities push gas rather than solar](https://www.theguardian.com/us-news/article/2024/may/23/gas-peaker-plant-republicans-fort-mohave-arizona)
 - [The Rise of the Disposable Car](https://www.bloomberg.com/opinion/articles/2024-05-23/more-cars-are-being-totaled-as-repair-costs-used-car-prices-bite)
 - [Canada wants the power to create backdoors in telecom networks for surveillance](https://www.theglobeandmail.com/opinion/article-ottawa-wants-the-power-to-create-secret-backdoors-in-our-networks-to/)
-- [Codestral: Mistral&#39;s Code Model](https://mistral.ai/news/codestral/)
-- [The U.S. Passes an Internet Privacy Law for Rich Jet Owners](https://www.techdirt.com/2024/05/29/the-u-s-finally-passes-an-internet-privacy-law-for-rich-jet-owners/)
-- [New Earplugs Won&#39;t Amplify the Sound of Your Own Voice](https://www.scientificamerican.com/article/new-earplugs-wont-amplify-the-sound-of-your-own-voice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
