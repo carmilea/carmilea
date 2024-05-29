@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Harrassment of scientists is surging – institutions aren&#39;t sure how to help](https://www.nature.com/articles/d41586-024-01468-9)
+- [AI headphones let you listen to a single person in crowd, by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
+- [How to use I2C devices in &lpar;Apache&rpar; NuttX: Adding support for an I2C device](https://www.EmbeddedRelated.com/showarticle/1668.php)
+- [USB disk as /dev/sda on a not-rooted smartphone using Termux, QEMU, Alpine Linux](https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a)
 - [ChatTTS-Best open source TTS Model](https://github.com/2noise/ChatTTS)
 - [Show HN: Savvy – Create, Share and Run Runbooks from your Terminal](https://github.com/getsavvyinc/savvy-cli)
-- [Ex-OpenAI board member reveals what led to Sam Altman&#39;s brief ousting](https://www.businessinsider.com/openai-board-member-details-sam-altman-lied-allegation-ousted-2024-5)
-- [Proposal to change default annotation processing policy in JDK 23](https://mail.openjdk.org/pipermail/jdk-dev/2024-May/009028.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
