@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia is about to pass Apple in market cap](https://www.reuters.com/technology/ai-darling-nvidias-market-value-surges-closer-apple-2024-05-28/)
+- [Let yourself be monitored: EU governments to agree on Chat Control](https://www.patrick-breyer.de/en/let-yourself-be-monitored-eu-governments-to-agree-on-chat-control-with-user-consent/)
+- [Era3D: High-Resolution Multiview Diffusion Using Efficient Row-Wise Attention](https://penghtyx.github.io/Era3D/)
 - [Kids sickened by police training may have ingested decades old chemical weapons](https://www.sfchronicle.com/crime/article/sf-jail-chemical-weapons-19476975.php)
-- [After Furiosa flops, Hollywood could be facing a biblically disastrous summer](https://www.bbc.com/culture/article/20240529-after-furiosa-flops-hollywood-could-be-facing-a-biblically-disastrous-summer)
-- [Kino: Pro Video Camera](https://www.lux.camera/introducing-kino-pro-video-camera/)
-- [Vector indexing all of Wikipedia on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
-- [YC is hiring full stack product engineers – build SW for founders](https://www.ycombinator.com/companies/y-combinator/jobs/dUJA6i7-product-engineer-work-at-a-startup)
+- [Rex Computing](http://rexcomputing.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
