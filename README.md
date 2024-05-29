@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Harrassment of scientists is surging – institutions aren&#39;t sure how to help](https://www.nature.com/articles/d41586-024-01468-9)
-- [Microsoft, Beihang release MoRA, an efficient LLM fine-tuning technique](https://venturebeat.com/ai/microsoft-beihang-release-mora-an-efficient-llm-fine-tuning-technique/)
+- [ChatTTS-Best open source TTS Model](https://github.com/2noise/ChatTTS)
 - [Show HN: Savvy – Create, Share and Run Runbooks from your Terminal](https://github.com/getsavvyinc/savvy-cli)
-- [Ask HN: Why do games companies not release source code for old games?](https://news.ycombinator.com/item?id=40506894)
 - [Ex-OpenAI board member reveals what led to Sam Altman&#39;s brief ousting](https://www.businessinsider.com/openai-board-member-details-sam-altman-lied-allegation-ousted-2024-5)
+- [Proposal to change default annotation processing policy in JDK 23](https://mail.openjdk.org/pipermail/jdk-dev/2024-May/009028.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
