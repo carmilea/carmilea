@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Volkswagen Group brings electric car for EUR 20k](https://www.volkswagen-group.com/en/press-releases/from-europe-for-europe-volkswagen-group-launches-project-for-all-electric-entry-level-mobility-18416)
+- [You Need to Pay Better Attention](https://arxiv.org/abs/2403.01643)
+- [What Scarlett Johansson vs. OpenAI Could Look Like in Court](https://www.wired.com/story/scarlett-johansson-v-openai-could-look-like-in-court/)
 - [Nvidia is about to pass Apple in market cap](https://www.reuters.com/technology/ai-darling-nvidias-market-value-surges-closer-apple-2024-05-28/)
-- [Let yourself be monitored: EU governments to agree on Chat Control](https://www.patrick-breyer.de/en/let-yourself-be-monitored-eu-governments-to-agree-on-chat-control-with-user-consent/)
 - [Era3D: High-Resolution Multiview Diffusion Using Efficient Row-Wise Attention](https://penghtyx.github.io/Era3D/)
-- [Kids sickened by police training may have ingested decades old chemical weapons](https://www.sfchronicle.com/crime/article/sf-jail-chemical-weapons-19476975.php)
-- [Rex Computing](http://rexcomputing.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
