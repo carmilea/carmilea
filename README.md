@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The hail in Texas was so big Tuesday that it required a new description](https://www.washingtonpost.com/weather/2024/05/29/texas-hail-dvd-size-record-nwws/)
+- [Bootstrapping a Forth in 40 lines of Lua code](http://angg.twu.net/miniforth-article.html)
 - [The Pen Hospital in Kolkata will nurse your broken fountain pen back](https://www.vogue.in/content/pen-hospital-in-kolkata-will-nurse-your-broken-fountain-pen-back-to-health)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring – 100% Remote](https://www.tesorio.com/careers#job-openings)
 - [Toxoplasma Gondii significantly alters wolf behavior](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite)
-- [How Waymo outlasted the competition and made robo-taxis a real business](https://fortune.com/2024/05/29/waymo-self-driving-robo-taxi-uber-tesla-alphabet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
