@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook will soon use your photos, posts and other info to train its AI](https://www.thejournal.ie/facebook-data-ai-6391876-May2024/)
-- [Electromagnetic Waves and Antennas &lpar;2016&rpar;](https://www.ece.rutgers.edu/~orfanidi/ewa/)
-- [Productivity Versus Alignment](https://www.zaxis.page/p/productivity-versus-alignment)
-- [Shadama: A particle simulation programming environment for everyone](https://tinlizzie.org/~ohshima/shadama2/live2017/)
-- [Eradicating N+1s: The Two-Phase Data Load and Render Pattern in Go](https://brandur.org/two-phase-render)
+- [Rhodes Must Fall: The Legacy of Cecil Rhodes in the University of Oxford](https://globalcapitalism.history.ox.ac.uk/files/case31-rhodesmustfallpdf)
+- [Tesla Settles Fatal Crash Suit Ahead of California Trial](https://www.ttnews.com/articles/tesla-fatal-suit-trial)
+- [Ask HN: Why do games companies not release source code for old games?](https://news.ycombinator.com/item?id=40506894)
+- [Ex-OpenAI board member reveals what led to Sam Altman&#39;s brief ousting](https://www.businessinsider.com/openai-board-member-details-sam-altman-lied-allegation-ousted-2024-5)
+- [Proposal to change default annotation processing policy in JDK 23](https://mail.openjdk.org/pipermail/jdk-dev/2024-May/009028.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
