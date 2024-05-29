@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MuckRock SCOTUS Amicus Brief: Requesting information is not a crime](https://www.documentcloud.org/documents/24697646-23-1155-muckrock-amicus-brief-final)
+- [US sanctions operators of &quot;free VPN&quot; that routed crime traffic through user PCs](https://arstechnica.com/security/2024/05/us-sanctions-operators-of-free-vpn-that-routed-crime-traffic-through-user-pcs/)
 - [ProjectPro &lpar;YC IK12&rpar; Is Hiring](https://www.ycombinator.com/companies/projectpro/jobs/jSqxCg8-account-executive-to-sell-to-analytics-teams)
-- [Ask HN: How do I balance all my 200 interests in life?](https://news.ycombinator.com/item?id=40510849)
-- [Google Search document leak reveals inner workings of ranking algorithm](https://searchengineland.com/google-search-document-leak-ranking-442617)
-- [Samsung Electronics union announces first-ever strike](https://techxplore.com/news/2024-05-samsung-electronics-union.html)
+- [Hello World, Simple Event Broker](https://blog.vbang.dk//2024/05/26/seb/)
 - [Show HN: Slipshow – A presentation tool not based on slides](https://github.com/panglesd/slipshow)
 <!-- BLOG-POST-LIST:END -->
 
