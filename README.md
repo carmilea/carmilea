@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Console closed testing requirements are awful](https://news.ycombinator.com/item?id=40520051)
 - [Show HN: Resource Index – FOSS Git Repository and NPM Package Index](https://res-index.hkit.cc/)
 - [FrankenPHP: Modern PHP App Server](https://frankenphp.dev/)
+- [Show HN: Right-click and save content directly to Google Sheets](https://www.addtosheets.com/)
 - [&quot;My Bike Is Everything to Me&quot;](https://kottke.org/24/05/my-bike-is-everything-to-me)
-- [Kaplay – a JavaScript library that helps you make games fast and fun](https://kaplayjs.com/kaplayjs.com)
-- [Google confirms the leaked Search documents are real](https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
