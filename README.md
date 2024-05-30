@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacker Releases Jailbroken &quot;Godmode&quot; Version of ChatGPT](https://futurism.com/hackers-jailbroken-chatgpt-godmode)
-- [Disturbing and misleading efforts to defame Helen Toner through misdirection](https://garymarcus.substack.com/p/disturbing-and-misleading-efforts)
-- [Ask HN: Why are all major operating systems monolithic?](https://news.ycombinator.com/item?id=40525788)
-- [Google Search SEO document leak reveals how company curates internet](https://gizmodo.com/google-search-seo-leak-reveal-gatekeeps-internet-1851508410)
-- [Mystery malware destroys 600k routers from a single ISP during 72-hour span](https://blog.lumen.com/the-pumpkin-eclipse/)
+- [Disrupting deceptive uses of AI by covert influence operations](https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/)
+- [Unexpected Anti-Patterns for Engineering Leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
+- [UIPath shares tank 30% after company announces CEO shakeup](https://www.cnbc.com/2024/05/29/uipath-shares-tank-30percent-after-company-announces-ceo-shakeup.html)
+- [The Pumpkin Eclipse](https://blog.lumen.com/the-pumpkin-eclipse/)
+- [Don&#39;t DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
