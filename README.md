@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)
 - [How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
 - [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
 - [A seventh-grader student found a beautiful proof to Thales&#39; Theorem](https://www.cut-the-knot.org/pythagoras/ThalesTheorem.shtml)
-- [Google Console closed testing requirements are awful](https://news.ycombinator.com/item?id=40520051)
-- [Show HN: Resource Index – FOSS Git Repository and NPM Package Index](https://res-index.hkit.cc/)
+- [FrankenPHP: Modern PHP App Server](https://frankenphp.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
