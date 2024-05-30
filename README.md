@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Devil&#39;s Bargain with OpenAI](https://www.theatlantic.com/technology/archive/2024/05/a-devils-bargain-with-openai/678537/)
+- [&quot;My Bike Is Everything to Me&quot;](https://kottke.org/24/05/my-bike-is-everything-to-me)
 - [Kaplay – a JavaScript library that helps you make games fast and fun](https://kaplayjs.com/kaplayjs.com)
 - [Google confirms the leaked Search documents are real](https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation)
 - [Caddy 2.8](https://github.com/caddyserver/caddy/releases/tag/v2.8.0)
-- [Bootstrapping a Forth in 40 lines of Lua code](http://angg.twu.net/miniforth-article.html)
-- [The Pen Hospital in Kolkata will nurse your broken fountain pen back](https://www.vogue.in/content/pen-hospital-in-kolkata-will-nurse-your-broken-fountain-pen-back-to-health)
 <!-- BLOG-POST-LIST:END -->
 
 ---
