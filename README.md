@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I love my wife. My wife is dead](https://lettersofnote.com/2012/02/15/i-love-my-wife-my-wife-is-dead/)
+- [PyPy has been working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
+- [Infections Correlate with Entrepreneurship](https://www.researchgate.net/publication/326608642_Risky_business_Linking_Toxoplasma_gondii_infection_and_entrepreneurship_behaviours_across_individuals_and_countries)
+- [I love my wife. My wife is dead &lpar;1946&rpar;](https://lettersofnote.com/2012/02/15/i-love-my-wife-my-wife-is-dead/)
 - [Show HN: I made a pixel art editor for Windows desktop](https://www.lightcube.art/)
-- [PG: &quot;I got tired of hearing that YC fired Sam, so here&#39;s what happened&quot;](https://twitter.com/paulg/status/1796107666265108940)
-- [Why, after 6 years, I&#39;m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
-- [Cybercriminals pose as &quot;helpful&quot; Stack Overflow users to push malware](https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-helpful-stack-overflow-users-to-push-malware/)
+- [I got tired of hearing that YC fired Sam, so here&#39;s what actually happened](https://twitter.com/paulg/status/1796107666265108940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
