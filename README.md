@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
+- [Ticketmaster Hack: Data of Half a Billion Users Up for Ransom](https://www.ticketnews.com/2024/05/ticketmaster-hack-data-of-half-a-billion-users-up-for-ransom/)
 - [Google Console closed testing requirements are awful](https://news.ycombinator.com/item?id=40520051)
 - [Show HN: Resource Index – FOSS Git Repository and NPM Package Index](https://res-index.hkit.cc/)
 - [FrankenPHP: Modern PHP App Server](https://frankenphp.dev/)
-- [Show HN: Right-click and save content directly to Google Sheets](https://www.addtosheets.com/)
-- [&quot;My Bike Is Everything to Me&quot;](https://kottke.org/24/05/my-bike-is-everything-to-me)
 <!-- BLOG-POST-LIST:END -->
 
 ---
