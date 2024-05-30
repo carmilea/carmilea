@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU doubles down on penalising privacy-friendly and encrypted messaging services](https://www.patrick-breyer.de/en/leak-eu-governments-double-down-on-penalising-privacy-friendly-and-encrypted-messaging-services-with-chat-control-bulk-scanning-orders/)
+- [Show HN: ChatGPT UI for Rabbit Holes](https://delve.a9.io/)
 - [SBCL: New in Version 2.4.5](http://sbcl.org/all-news.html?2.4.5#2.4.5)
 - [You Can Thank Private Equity for That Enormous Doctor&#39;s Bill](https://www.wsj.com/health/healthcare/you-can-thank-private-equity-for-that-enormous-doctors-bill-3a2fc90b)
 - [Show HN: I built a tiny-VPS friendly RSS aggregator and reader](https://github.com/0x2E/fusion)
-- [PyPy has been working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
-- [Infections Correlate with Entrepreneurship](https://www.researchgate.net/publication/326608642_Risky_business_Linking_Toxoplasma_gondii_infection_and_entrepreneurship_behaviours_across_individuals_and_countries)
 <!-- BLOG-POST-LIST:END -->
 
 ---
