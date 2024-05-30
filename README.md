@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How can we open-source a 7 year old SaaS codebase and build a community?](https://news.ycombinator.com/item?id=40524292)
-- [Why scientists say we need to send clocks to the moon](https://www.cnn.com/2024/05/30/science/lunar-time-zone-scale-nasa-artemis-scn/index.html)
-- [Show HN: Quadra – organize your tasks and notes beautifully](https://quadra-two.vercel.app/)
-- [Stuck at sea for years, a sailor&#39;s plight highlights a surge in ship abandonment](https://apnews.com/article/abandoned-seafarers-labor-unpaid-wages-oceans-83ad0a42debbaf67c18373393fcea753)
-- [Cybercriminals pose as &quot;helpful&quot; Stack Overflow users to push malware](https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-helpful-stack-overflow-users-to-push-malware/#google_vignette)
+- [YouTube stops working for millions as war against ad blockers intensifies](https://www.independent.co.uk/tech/youtube-down-not-working-ad-blocker-b2552387.html)
+- [Mystery malware destroys 600k routers from a single ISP during 72-hour span](https://blog.lumen.com/the-pumpkin-eclipse/)
+- [Don&#39;t DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
+- [&#39;Operation Endgame&#39; Hits Malware Delivery Platforms](https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/)
+- [The Social Lives of the Teens Who Don&#39;t Have Phones](https://www.thecut.com/article/phones-teens-screentime-restrictions-jonathan-haidt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
