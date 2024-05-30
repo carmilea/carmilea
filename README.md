@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube stops working for millions as war against ad blockers intensifies](https://www.independent.co.uk/tech/youtube-down-not-working-ad-blocker-b2552387.html)
+- [Hacker Releases Jailbroken &quot;Godmode&quot; Version of ChatGPT](https://futurism.com/hackers-jailbroken-chatgpt-godmode)
+- [Disturbing and misleading efforts to defame Helen Toner through misdirection](https://garymarcus.substack.com/p/disturbing-and-misleading-efforts)
+- [Ask HN: Why are all major operating systems monolithic?](https://news.ycombinator.com/item?id=40525788)
+- [Google Search SEO document leak reveals how company curates internet](https://gizmodo.com/google-search-seo-leak-reveal-gatekeeps-internet-1851508410)
 - [Mystery malware destroys 600k routers from a single ISP during 72-hour span](https://blog.lumen.com/the-pumpkin-eclipse/)
-- [Don&#39;t DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
-- [&#39;Operation Endgame&#39; Hits Malware Delivery Platforms](https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/)
-- [The Social Lives of the Teens Who Don&#39;t Have Phones](https://www.thecut.com/article/phones-teens-screentime-restrictions-jonathan-haidt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
