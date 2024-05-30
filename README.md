@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Ivy League school is threatening to suspend me if I don&#39;t shut down mystartup](https://www.moltar.ai)
+- [Groq surpasses 1,200 tokens/sec with Llama 3 8B](https://twitter.com/sundeep/status/1795964992367235186)
+- [James Webb Space Telescope Finds Most Distant Known Galaxy](https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/)
 - [Disrupting deceptive uses of AI by covert influence operations](https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/)
 - [Unexpected Anti-Patterns for Engineering Leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
-- [UIPath shares tank 30% after company announces CEO shakeup](https://www.cnbc.com/2024/05/29/uipath-shares-tank-30percent-after-company-announces-ceo-shakeup.html)
-- [The Pumpkin Eclipse](https://blog.lumen.com/the-pumpkin-eclipse/)
-- [Don&#39;t DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
