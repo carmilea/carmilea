@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Ivy League school is threatening to suspend me if I don&#39;t shut down mystartup](https://www.moltar.ai)
-- [Groq surpasses 1,200 tokens/sec with Llama 3 8B](https://twitter.com/sundeep/status/1795964992367235186)
-- [James Webb Space Telescope Finds Most Distant Known Galaxy](https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/)
-- [Disrupting deceptive uses of AI by covert influence operations](https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/)
-- [Unexpected Anti-Patterns for Engineering Leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
+- [Windows 11 disabled all ways to get around Auto Restarts. Is there a workaround?](https://superuser.com/questions/1843873/windows-11-seems-to-have-disabled-all-ways-to-get-around-auto-update-restarts-i)
+- [2023 planetary heat uptake from termination shock of inadvertent geoengineering?](https://www.nature.com/articles/s43247-024-01442-3)
+- [Sotomayor writes 9-0 opinion supporting NRA in First Amendment case [pdf]](https://www.supremecourt.gov/opinions/23pdf/22-842_6kg7.pdf)
+- [New York governor to launch bill banning smartphones in schools](https://www.theguardian.com/us-news/article/2024/may/30/new-york-smartphone-school-ban-bill)
+- [What We&#39;re Working on in Firefox](https://blog.mozilla.org/en/mozilla/heres-what-were-working-on-in-firefox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
