@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)
-- [How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
-- [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
-- [A seventh-grader student found a beautiful proof to Thales&#39; Theorem](https://www.cut-the-knot.org/pythagoras/ThalesTheorem.shtml)
-- [FrankenPHP: Modern PHP App Server](https://frankenphp.dev/)
+- [I love my wife. My wife is dead](https://lettersofnote.com/2012/02/15/i-love-my-wife-my-wife-is-dead/)
+- [Show HN: I made a pixel art editor for Windows desktop](https://www.lightcube.art/)
+- [PG: &quot;I got tired of hearing that YC fired Sam, so here&#39;s what happened&quot;](https://twitter.com/paulg/status/1796107666265108940)
+- [Why, after 6 years, I&#39;m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
+- [Cybercriminals pose as &quot;helpful&quot; Stack Overflow users to push malware](https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-helpful-stack-overflow-users-to-push-malware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
