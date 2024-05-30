@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Raivo OTP just deleted all tokens after update and is now asking for money](https://github.com/raivo-otp/ios-application/issues)
-- [How I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
-- [EU doubles down on penalising privacy-friendly and encrypted messaging services](https://www.patrick-breyer.de/en/leak-eu-governments-double-down-on-penalising-privacy-friendly-and-encrypted-messaging-services-with-chat-control-bulk-scanning-orders/)
-- [Show HN: ChatGPT UI for Rabbit Holes](https://delve.a9.io/)
-- [SBCL: New in Version 2.4.5](http://sbcl.org/all-news.html?2.4.5#2.4.5)
+- [Ask HN: How can we open-source a 7 year old SaaS codebase and build a community?](https://news.ycombinator.com/item?id=40524292)
+- [Why scientists say we need to send clocks to the moon](https://www.cnn.com/2024/05/30/science/lunar-time-zone-scale-nasa-artemis-scn/index.html)
+- [Show HN: Quadra – organize your tasks and notes beautifully](https://quadra-two.vercel.app/)
+- [Stuck at sea for years, a sailor&#39;s plight highlights a surge in ship abandonment](https://apnews.com/article/abandoned-seafarers-labor-unpaid-wages-oceans-83ad0a42debbaf67c18373393fcea753)
+- [Cybercriminals pose as &quot;helpful&quot; Stack Overflow users to push malware](https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-helpful-stack-overflow-users-to-push-malware/#google_vignette)
 <!-- BLOG-POST-LIST:END -->
 
 ---
