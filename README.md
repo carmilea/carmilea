@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SBCL: New in Version 2.4.5](http://sbcl.org/all-news.html?2.4.5#2.4.5)
+- [You Can Thank Private Equity for That Enormous Doctor&#39;s Bill](https://www.wsj.com/health/healthcare/you-can-thank-private-equity-for-that-enormous-doctors-bill-3a2fc90b)
+- [Show HN: I built a tiny-VPS friendly RSS aggregator and reader](https://github.com/0x2E/fusion)
 - [PyPy has been working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
 - [Infections Correlate with Entrepreneurship](https://www.researchgate.net/publication/326608642_Risky_business_Linking_Toxoplasma_gondii_infection_and_entrepreneurship_behaviours_across_individuals_and_countries)
-- [I love my wife. My wife is dead &lpar;1946&rpar;](https://lettersofnote.com/2012/02/15/i-love-my-wife-my-wife-is-dead/)
-- [Show HN: I made a pixel art editor for Windows desktop](https://www.lightcube.art/)
-- [I got tired of hearing that YC fired Sam, so here&#39;s what actually happened](https://twitter.com/paulg/status/1796107666265108940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
