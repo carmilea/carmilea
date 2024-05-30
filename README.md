@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Rolling Out New Windows Subsystem for Linux &quot;WSL&quot; Features for 2024](https://www.phoronix.com/news/Microsoft-WSL2-2024-Features)
 - [ASK HN: The Required Fundamentals for Self-Taught Programming](https://news.ycombinator.com/item?id=40529064)
 - [Asqi: A codebase explorer designed to help navigate and understand Git projects](https://dev.asqi.io/)
 - [Is Target selling its excess inventory on eBay and Poshmark?](https://www.modernretail.co/technology/is-target-selling-its-excess-inventory-on-ebay-poshmark/)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Ask HN: I have many PDFs – what is the best local way to leverage AI for search?](https://news.ycombinator.com/item?id=40528192)
+- [1 in 4 U.S. Teachers Say AI Tools Do More Harm Than Good in K-12 Education](https://www.pewresearch.org/short-reads/2024/05/15/a-quarter-of-u-s-teachers-say-ai-tools-do-more-harm-than-good-in-k-12-education/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
