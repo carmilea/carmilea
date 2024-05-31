@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Things you wish you didn&#39;t need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)
-- [Myths about platform engineering: what it is and what it isn&#39;t](https://cloud.google.com/blog/products/application-development/common-myths-about-platform-engineering/)
-- [&#39;It&#39;s better for humans in general&#39;: The 4-day workweek is closer than you think](https://www.marketwatch.com/amp/story/its-better-for-humans-in-general-the-four-day-workweek-is-closer-than-you-think-b85cc39e)
-- [YOLOv5 on FPGA with Hailo-8 and 4 Pi Cameras](https://www.fpgadeveloper.com/multi-camera-yolov5-on-zynq-ultrascale-with-hailo-8-ai-acceleration/)
-- [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
+- [Russia&#39;s persecution of faith in Ukraine called &#39;cultural genocide&#39; campaign](https://www.archstl.org/russias-persecution-of-faith-in-ukraine-called-cultural-genocide-campaign-8586)
+- [&#39;WebAssembly Is Finally Usable, Almost&#39;](https://www.forbes.com/sites/justinwarren/2024/04/04/webassembly-is-finally-usable-almost/)
+- [A man ordered to hide his boat painted the boat on his fence](https://news.artnet.com/art-world/fence-boat-painting-artist-hanif-panni-2487875)
+- [Show HN: Wadzilla. Play DOOM in Zork](https://github.com/scottvr/wadzilla/wiki)
+- [How to Think Like a Computer Scientist: Interactive Edition](https://levjj.github.io/thinkcspy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
