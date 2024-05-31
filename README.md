@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deno 1.44](https://deno.com/blog/v1.44)
-- [Maybe This Is Too Cool](https://radarblog.substack.com/p/maybe-this-is-too-cool)
-- [Google scales back AI search answers after it told users to eat glue](https://www.washingtonpost.com/technology/2024/05/30/google-halt-ai-search/)
-- [Orion – From idea to launch in 45 days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
-- [EU countries must implement right to repair laws within two years](https://www.consilium.europa.eu/en/press/press-releases/2024/05/30/circular-economy-council-gives-final-approval-to-right-to-repair-directive/)
+- [Apple Silicon MacBook batteries can&#39;t be replaced under warranty by third party](https://lapcatsoftware.com/articles/2024/5/7.html)
+- [I created the largest curated directory of cybersecurity tools and resources](https://cybersectools.com)
+- [A man ordered to hide his boat painted the boat on his fence](https://news.artnet.com/art-world/fence-boat-painting-artist-hanif-panni-2487875)
+- [Show HN: Wadzilla. Play DOOM in Zork](https://github.com/scottvr/wadzilla/wiki)
+- [Every mountain, building and tree shadow in the world simulated for any time](https://shademap.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
