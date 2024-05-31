@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefly forges on after co-founder murdered by Hamas](https://techcrunch.com/2024/05/29/after-co-founders-murder-at-the-hands-of-hamas-cloud-startup-firefly-raises-23m/)
 - [Things you wish you didn&#39;t need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)
 - [&#39;It&#39;s better for humans in general&#39;: The 4-day workweek is closer than you think](https://www.marketwatch.com/amp/story/its-better-for-humans-in-general-the-four-day-workweek-is-closer-than-you-think-b85cc39e)
+- [YOLOv5 on FPGA with Hailo-8 and 4 Pi Cameras](https://www.fpgadeveloper.com/multi-camera-yolov5-on-zynq-ultrascale-with-hailo-8-ai-acceleration/)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
-- [AI Overviews: About last week](https://blog.google/products/search/ai-overviews-update-may-2024/)
-- [Ask HN: How to transcribe 1000s of handwritten notes](https://news.ycombinator.com/item?id=40530719)
 <!-- BLOG-POST-LIST:END -->
 
 ---
