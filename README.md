@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Edu](https://openai.com/index/introducing-chatgpt-edu/)
+- [The QR Backlash Has Won. Restaurants Are Ditching Them for Good.](https://www.wsj.com/business/hospitality/restaurant-menus-qr-codes-33f777c8)
+- [Lucid Boss Says Tesla Has Lost Its &quot;Sense of Purpose&quot;](https://www.carscoops.com/2024/05/lucid-boss-says-tesla-has-lost-its-sense-of-purpose/)
 - [Intel&#39;s Anti-Upgrade Tricks Defeated with Kapton Tape](https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/)
 - [25 Years of Krita](https://krita.org/en/posts/2024/krita-25-years/)
-- [Stop Using Discord](https://malenfant.net/@didier/112528487189999791)
-- [Apple Silicon MacBook batteries can&#39;t be replaced under warranty by third party](https://lapcatsoftware.com/articles/2024/5/7.html)
+- [Superconducting Computer](https://spectrum.ieee.org/superconducting-computer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
