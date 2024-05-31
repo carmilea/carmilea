@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Cyber house of cards – Politicians&#39; personal details exposed online](https://proton.me/blog/politicians-exposed-dark-web)
-- [Spain fines budget airlines €150M over &#39;abusive&#39; cabin bag and seat charges](https://www.theguardian.com/business/article/2024/may/31/spain-fines-budget-airlines-abusive-cabin-bag-seat-charges-easyjet-ryanair)
+- [An Algorithmic Solution to Insomnia](https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html)
+- [GNU Nano 8 comes with modern key bindings](https://www.nano-editor.org/news.php)
 - [Can confirm Indeed is selling user information](https://old.reddit.com/r/recruitinghell/comments/11nsi47/can_confirm_indeed_is_selling_user_information/)
 - [Heroku Postgres is now based on AWS Aurora](https://blog.heroku.com/heroku-postgres-essential-launch)
-- [De-googling, so far](https://blog.nradk.com/posts/degoogling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
