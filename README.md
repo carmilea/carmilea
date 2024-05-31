@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia&#39;s persecution of faith in Ukraine called &#39;cultural genocide&#39; campaign](https://www.archstl.org/russias-persecution-of-faith-in-ukraine-called-cultural-genocide-campaign-8586)
-- [&#39;WebAssembly Is Finally Usable, Almost&#39;](https://www.forbes.com/sites/justinwarren/2024/04/04/webassembly-is-finally-usable-almost/)
+- [Manifest V2 phase-out begins](https://blog.chromium.org/2024/05/manifest-v2-phase-out-begins.html)
+- [EU countries must implement right to repair laws within two years](https://www.consilium.europa.eu/en/press/press-releases/2024/05/30/circular-economy-council-gives-final-approval-to-right-to-repair-directive/)
+- [Half-Ass It](https://everythingchanges.us/blog/half-ass-it/)
 - [A man ordered to hide his boat painted the boat on his fence](https://news.artnet.com/art-world/fence-boat-painting-artist-hanif-panni-2487875)
 - [Show HN: Wadzilla. Play DOOM in Zork](https://github.com/scottvr/wadzilla/wiki)
-- [How to Think Like a Computer Scientist: Interactive Edition](https://levjj.github.io/thinkcspy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
