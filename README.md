@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Heroku Postgres is now based on AWS Aurora](https://blog.heroku.com/heroku-postgres-essential-launch)
+- [De-googling, so far](https://blog.nradk.com/posts/degoogling/)
 - [Legal models hallucinate in 1 out of 6 &lpar;or more&rpar; benchmarking queries](https://hai.stanford.edu/news/ai-trial-legal-models-hallucinate-1-out-6-or-more-benchmarking-queries)
 - [Bento: Open-source fork of the project formerly known as Benthos](https://www.warpstream.com/blog/announcing-bento-the-open-source-fork-of-the-project-formerly-known-as-benthos)
 - [OneText &lpar;YC W23&rpar; Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
-- [DataFusion Comet: Apache Spark Accelerator](https://github.com/apache/datafusion-comet)
-- [Testing sync at Dropbox &lpar;2020&rpar;](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
