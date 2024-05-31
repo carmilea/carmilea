@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All of Microsoft&#39;s MacBook Air-beating benchmarks](https://www.theverge.com/2024/5/30/24167745/microsoft-macbook-air-benchmarks-surface-laptop-copilot-plus-pc)
 - [Don&#39;t Worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)
 - [Japan&#39;s push to make all research open access is taking shape](https://www.nature.com/articles/d41586-024-01493-8)
-- [Wordle in legal row with geography spinoff, Worldle](https://www.bbc.com/news/articles/cjrr5ee5zv8o)
 - [Tesla Auto Wipers: Why They Don&#39;t Work and Why There Isn&#39;t an Easy Fix](https://www.notateslaapp.com/news/2045/tesla-auto-wipers-why-they-dont-work-and-why-there-isnt-an-easy-fix)
-- [Steam&#39;s Last Stand](https://technicshistory.com/2024/05/30/coda-steams-last-stand/)
+- [Thoughts on Skymont Slides](https://chipsandcheese.com/2024/05/30/thoughts-on-skymont-slides/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
