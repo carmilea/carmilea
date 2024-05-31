@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The QR Backlash Has Won. Restaurants Are Ditching Them for Good.](https://www.wsj.com/business/hospitality/restaurant-menus-qr-codes-33f777c8)
-- [Lucid Boss Says Tesla Has Lost Its &quot;Sense of Purpose&quot;](https://www.carscoops.com/2024/05/lucid-boss-says-tesla-has-lost-its-sense-of-purpose/)
+- [Global tourism is booming. These people would rather it wasn&#39;t](https://www.bbc.com/news/articles/cl55vdjv2j3o)
+- [In Colorado, an Ambitious New Highway Policy Is Not Building Them](https://www.nytimes.com/2024/05/31/headway/highways-colorado-transportation.html)
+- [Spotify won&#39;t open-source Car Thing, but starts refund process](https://arstechnica.com/gadgets/2024/05/spotify-wont-open-source-car-thing-but-starts-refund-process/)
+- [Brave launches Search Ads in key markets after successful test phase](https://brave.com/blog/brave-search-ads-launch/)
 - [Intel&#39;s Anti-Upgrade Tricks Defeated with Kapton Tape](https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/)
-- [25 Years of Krita](https://krita.org/en/posts/2024/krita-25-years/)
-- [Superconducting Computer](https://spectrum.ieee.org/superconducting-computer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
