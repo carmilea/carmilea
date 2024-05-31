@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Supersharers of Fake News on Twitter](https://www.science.org/doi/10.1126/science.adl4435)
+- [How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
+- [IRS Direct File to open to all 50 states and D.C. for 2025 tax season](https://www.axios.com/2024/05/30/irs-taxes-direct-file-free-program)
 - [Data allegedly stolen from 560M Ticketmaster users](https://www.bbc.com/news/articles/c899pz84d8zo)
 - [Civil society in Latvia, Lithuania, and Poland targeted with Pegasus spyware](https://www.accessnow.org/publication/civil-society-in-exile-pegasus/)
-- [Spotify won&#39;t open-source Car Thing, but starts refund process](https://arstechnica.com/gadgets/2024/05/spotify-wont-open-source-car-thing-but-starts-refund-process/)
-- [Intel&#39;s Anti-Upgrade Tricks Defeated with Kapton Tape](https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/)
+- [Standard Ebooks&#39; 1,000th title: Ulysses](https://standardebooks.org/ebooks/james-joyce/ulysses)
 <!-- BLOG-POST-LIST:END -->
 
 ---
