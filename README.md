@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Case Against Gmail](https://www.migadu.com/blog/gmail/)
+- [Legal models hallucinate in 1 out of 6 &lpar;or more&rpar; benchmarking queries](https://hai.stanford.edu/news/ai-trial-legal-models-hallucinate-1-out-6-or-more-benchmarking-queries)
+- [Bento: Open-source fork of the project formerly known as Benthos](https://www.warpstream.com/blog/announcing-bento-the-open-source-fork-of-the-project-formerly-known-as-benthos)
 - [OneText &lpar;YC W23&rpar; Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
-- [Testing Sync at Dropbox](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)
-- [Sam Altman-Backed Nuclear Startup Signs Major Data Center Contract](https://oilprice.com/Alternative-Energy/Nuclear-Power/Sam-Altman-Backed-Nuclear-Startup-Signs-Major-Data-Center-Contract.html)
-- [Eye exercises for myopia prevention and control: comprehensive systematic review](https://www.nature.com/articles/s41433-023-02739-x)
-- [Vista Equity writes off PluralSight value, after $3.5B buyout](https://www.axios.com/2024/05/31/vista-equity-pluralsight)
+- [DataFusion Comet: Apache Spark Accelerator](https://github.com/apache/datafusion-comet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
