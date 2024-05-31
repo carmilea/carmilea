@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [All of Microsoft&#39;s MacBook Air-beating benchmarks](https://www.theverge.com/2024/5/30/24167745/microsoft-macbook-air-benchmarks-surface-laptop-copilot-plus-pc)
-- [Don&#39;t Worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)
-- [Japan&#39;s push to make all research open access is taking shape](https://www.nature.com/articles/d41586-024-01493-8)
-- [Tesla Auto Wipers: Why They Don&#39;t Work and Why There Isn&#39;t an Easy Fix](https://www.notateslaapp.com/news/2045/tesla-auto-wipers-why-they-dont-work-and-why-there-isnt-an-easy-fix)
-- [Thoughts on Skymont Slides](https://chipsandcheese.com/2024/05/30/thoughts-on-skymont-slides/)
+- [Things you wish you didn&#39;t need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)
+- [&#39;It&#39;s better for humans in general&#39;: The 4-day workweek is closer than you think](https://www.marketwatch.com/amp/story/its-better-for-humans-in-general-the-four-day-workweek-is-closer-than-you-think-b85cc39e)
+- [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
+- [AI Overviews: About last week](https://blog.google/products/search/ai-overviews-update-may-2024/)
+- [Ask HN: How to transcribe 1000s of handwritten notes](https://news.ycombinator.com/item?id=40530719)
 <!-- BLOG-POST-LIST:END -->
 
 ---
