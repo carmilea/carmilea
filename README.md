@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Global tourism is booming. These people would rather it wasn&#39;t](https://www.bbc.com/news/articles/cl55vdjv2j3o)
-- [In Colorado, an Ambitious New Highway Policy Is Not Building Them](https://www.nytimes.com/2024/05/31/headway/highways-colorado-transportation.html)
+- [Supersharers of Fake News on Twitter](https://www.science.org/doi/10.1126/science.adl4435)
+- [Data allegedly stolen from 560M Ticketmaster users](https://www.bbc.com/news/articles/c899pz84d8zo)
+- [Civil society in Latvia, Lithuania, and Poland targeted with Pegasus spyware](https://www.accessnow.org/publication/civil-society-in-exile-pegasus/)
 - [Spotify won&#39;t open-source Car Thing, but starts refund process](https://arstechnica.com/gadgets/2024/05/spotify-wont-open-source-car-thing-but-starts-refund-process/)
-- [Brave launches Search Ads in key markets after successful test phase](https://brave.com/blog/brave-search-ads-launch/)
 - [Intel&#39;s Anti-Upgrade Tricks Defeated with Kapton Tape](https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/)
 <!-- BLOG-POST-LIST:END -->
 
