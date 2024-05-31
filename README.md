@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Recall: Stealing everything you&#39;ve ever typed or viewed on your own Windows PC](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
 - [Cyber house of cards – Politicians&#39; personal details exposed online](https://proton.me/blog/politicians-exposed-dark-web)
 - [An Algorithmic Solution to Insomnia](https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html)
-- [GNU Nano 8 comes with modern key bindings](https://www.nano-editor.org/news.php)
-- [Can confirm Indeed is selling user information](https://old.reddit.com/r/recruitinghell/comments/11nsi47/can_confirm_indeed_is_selling_user_information/)
+- [Go: Sentinel errors and errors.Is&lpar;&rpar; slow your code down by 3000%](https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/)
 - [Heroku Postgres is now based on AWS Aurora](https://blog.heroku.com/heroku-postgres-essential-launch)
 <!-- BLOG-POST-LIST:END -->
 
