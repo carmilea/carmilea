@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyber house of cards – Politicians&#39; personal details exposed online](https://proton.me/blog/politicians-exposed-dark-web)
+- [Spain fines budget airlines €150M over &#39;abusive&#39; cabin bag and seat charges](https://www.theguardian.com/business/article/2024/may/31/spain-fines-budget-airlines-abusive-cabin-bag-seat-charges-easyjet-ryanair)
+- [Can confirm Indeed is selling user information](https://old.reddit.com/r/recruitinghell/comments/11nsi47/can_confirm_indeed_is_selling_user_information/)
 - [Heroku Postgres is now based on AWS Aurora](https://blog.heroku.com/heroku-postgres-essential-launch)
 - [De-googling, so far](https://blog.nradk.com/posts/degoogling/)
-- [Legal models hallucinate in 1 out of 6 &lpar;or more&rpar; benchmarking queries](https://hai.stanford.edu/news/ai-trial-legal-models-hallucinate-1-out-6-or-more-benchmarking-queries)
-- [Bento: Open-source fork of the project formerly known as Benthos](https://www.warpstream.com/blog/announcing-bento-the-open-source-fork-of-the-project-formerly-known-as-benthos)
-- [OneText &lpar;YC W23&rpar; Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
