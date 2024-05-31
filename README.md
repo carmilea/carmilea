@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Edu](https://openai.com/index/introducing-chatgpt-edu/)
+- [Intel&#39;s Anti-Upgrade Tricks Defeated with Kapton Tape](https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/)
+- [25 Years of Krita](https://krita.org/en/posts/2024/krita-25-years/)
+- [Stop Using Discord](https://malenfant.net/@didier/112528487189999791)
 - [Apple Silicon MacBook batteries can&#39;t be replaced under warranty by third party](https://lapcatsoftware.com/articles/2024/5/7.html)
-- [I created the largest curated directory of cybersecurity tools and resources](https://cybersectools.com)
-- [A man ordered to hide his boat painted the boat on his fence](https://news.artnet.com/art-world/fence-boat-painting-artist-hanif-panni-2487875)
-- [Show HN: Wadzilla. Play DOOM in Zork](https://github.com/scottvr/wadzilla/wiki)
-- [Every mountain, building and tree shadow in the world simulated for any time](https://shademap.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
