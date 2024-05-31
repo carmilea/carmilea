@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple News+ subscription growth blows away major media sites](https://www.cultofmac.com/857829/apple-news-subscription-growth/)
-- [A week with Elixir &lpar;2013&rpar;](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
-- [Asqi: A codebase explorer designed to help navigate and understand Git projects](https://dev.asqi.io/)
-- [Is Target selling its excess inventory on eBay and Poshmark?](https://www.modernretail.co/technology/is-target-selling-its-excess-inventory-on-ebay-poshmark/)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [Don&#39;t Worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)
+- [Japan&#39;s push to make all research open access is taking shape](https://www.nature.com/articles/d41586-024-01493-8)
+- [Wordle in legal row with geography spinoff, Worldle](https://www.bbc.com/news/articles/cjrr5ee5zv8o)
+- [Tesla Auto Wipers: Why They Don&#39;t Work and Why There Isn&#39;t an Easy Fix](https://www.notateslaapp.com/news/2045/tesla-auto-wipers-why-they-dont-work-and-why-there-isnt-an-easy-fix)
+- [Steam&#39;s Last Stand](https://technicshistory.com/2024/05/30/coda-steams-last-stand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
