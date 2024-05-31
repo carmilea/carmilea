@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Rolling Out New Windows Subsystem for Linux &quot;WSL&quot; Features for 2024](https://www.phoronix.com/news/Microsoft-WSL2-2024-Features)
-- [ASK HN: The Required Fundamentals for Self-Taught Programming](https://news.ycombinator.com/item?id=40529064)
+- [Apple News+ subscription growth blows away major media sites](https://www.cultofmac.com/857829/apple-news-subscription-growth/)
+- [A week with Elixir &lpar;2013&rpar;](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
 - [Asqi: A codebase explorer designed to help navigate and understand Git projects](https://dev.asqi.io/)
 - [Is Target selling its excess inventory on eBay and Poshmark?](https://www.modernretail.co/technology/is-target-selling-its-excess-inventory-on-ebay-poshmark/)
-- [1 in 4 U.S. Teachers Say AI Tools Do More Harm Than Good in K-12 Education](https://www.pewresearch.org/short-reads/2024/05/15/a-quarter-of-u-s-teachers-say-ai-tools-do-more-harm-than-good-in-k-12-education/)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
