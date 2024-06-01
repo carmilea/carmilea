@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Classic Nokia 3310 Dotmatrix Font based on original firmwares](https://webdraft.hu/fonts/nokja-original/)
 - [Napster Sparked a File-Sharing Revolution 25 Years Ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
-- [HuggingFace hacked – Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
+- [Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
 - [The USAF&#39;s &quot;Upside-Down Air Force&quot;](https://www.twz.com/news-features/the-fascinating-story-of-the-usafs-upside-down-air-force)
-- [Show HN: I built a Backend so Simple that it Fits in 1 YAML File](https://manifest.build)
 - [RISC-V must get its messaging right on open standard vs. open source](https://www.theregister.com/2024/05/29/riscv_messsaging_struggle/)
 <!-- BLOG-POST-LIST:END -->
 
