@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Napster Sparked a File-Sharing Revolution 25 Years Ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
 - [HuggingFace hacked – Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
 - [The USAF&#39;s &quot;Upside-Down Air Force&quot;](https://www.twz.com/news-features/the-fascinating-story-of-the-usafs-upside-down-air-force)
-- [Is Red Meat Healthy? Multiverse Analysis Has Lessons Beyond Meat](https://www.medscape.com/viewarticle/red-meat-healthy-multiverse-analysis-has-lessons-beyond-meat-2024a10008qv)
 - [Show HN: I built a Backend so Simple that it Fits in 1 YAML File](https://manifest.build)
 - [RISC-V must get its messaging right on open standard vs. open source](https://www.theregister.com/2024/05/29/riscv_messsaging_struggle/)
 <!-- BLOG-POST-LIST:END -->
