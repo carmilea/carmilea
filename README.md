@@ -59,8 +59,8 @@
 - [HuggingFace hacked – Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
 - [The USAF&#39;s &quot;Upside-Down Air Force&quot;](https://www.twz.com/news-features/the-fascinating-story-of-the-usafs-upside-down-air-force)
 - [Is Red Meat Healthy? Multiverse Analysis Has Lessons Beyond Meat](https://www.medscape.com/viewarticle/red-meat-healthy-multiverse-analysis-has-lessons-beyond-meat-2024a10008qv)
-- [Routers cyber security best practices](https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019)
-- [Arthur Whitney releases an open-source K with MIT license](https://shakti.com/k)
+- [Show HN: I built a Backend so Simple that it Fits in 1 YAML File](https://manifest.build)
+- [RISC-V must get its messaging right on open standard vs. open source](https://www.theregister.com/2024/05/29/riscv_messsaging_struggle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
