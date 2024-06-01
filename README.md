@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
+- [X is justifiably slow](https://zeux.io/2024/05/31/justifiably-slow/)
 - [Predictably Bad Investments: Evidence from Venture Capitalists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135861)
 - [Show HN: Tiny Chrome extension to disable images to reduce distractions](https://github.com/kirill-markin/chrome-auto-image-blocker)
 - [Loss of nearly a full decade of information from early days of Chinese internet](https://chinamediaproject.org/2024/05/27/goldfish-memories/)
-- [Frances Hesselbein&#39;s leadership story &lpar;2022&rpar;](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
-- [Napster sparked a file-sharing revolution 25 years ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
