@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Boeing&#39;s largest plant in &#39;panic mode&#39; amid safety crisis, say workers and union](https://www.theguardian.com/business/article/2024/jun/01/boeing-safety-crisis-response-union-busting)
+- [Loss of nearly a full decade of information from early days of Chinese internet](https://chinamediaproject.org/2024/05/27/goldfish-memories/)
+- [RIP to the Greatest CEO You&#39;ve Never Heard Of](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
+- [The big lie about sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5)
+- [Phoenix Is Facing a Hurricane Katrina of Heat](https://www.bloomberg.com/opinion/articles/2024-05-29/phoenix-is-facing-a-deadly-hurricane-katrina-of-heat-spurred-by-climate-change)
 - [Napster sparked a file-sharing revolution 25 years ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
-- [Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
-- [The USAF&#39;s &quot;Upside-Down Air Force&quot;](https://www.twz.com/news-features/the-fascinating-story-of-the-usafs-upside-down-air-force)
-- [EV startup Fisker&#39;s collapse: how the company crumbled](https://techcrunch.com/2024/05/31/fisker-collapse-investigation-ev-ocean-suv-henrik-geeta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
