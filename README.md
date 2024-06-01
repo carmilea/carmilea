@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CERN Root](https://root.cern/)
-- [Giant Tonga Volcanic Eruption Could Disrupt Weather for Years to Come](https://www.sciencealert.com/giant-tonga-volcanic-eruption-could-disrupt-weather-for-years-to-come)
-- [BYD unveils new hybrid tech as battle with gasoline rivals heats up](https://www.reuters.com/business/autos-transportation/byd-launches-new-hybrid-vehicle-tech-with-lower-fuel-consumption-2024-05-28/)
-- [Dioxus S23 is hiring a cracked founding engineer &lpar;Rust&rpar;](https://www.ycombinator.com/companies/dioxus-labs/jobs/dRPOod2-cracked-founding-systems-engineer-rust)
-- [Ticketmaster confirms data breach with a SEC filing](https://stackdiary.com/ticketmaster-confirms-data-breach-with-a-sec-filing/)
+- [Arthur Whitney releases K source with MIT license](https://shakti.com/k)
+- [Ticketmaster confirms data hack which could affect 560M globally](https://www.bbc.co.uk/news/articles/cw99ql0239wo)
+- [Transformers Represent Belief State Geometry in Their Residual Stream](https://www.lesswrong.com/posts/gTZ2SxesbHckJ3CkF/transformers-represent-belief-state-geometry-in-their)
+- [Lessons learned from 6 months of operating a tiny news archive](https://hiandrewquinn.github.io/til-site/posts/lessons-learned-from-6-months-of-operating-a-teensy-tiny-news-archive/)
+- [Stealing everything you&#39;ve ever typed on your Windows Recall PC is now possible](https://simonwillison.net/2024/Jun/1/stealing-everything-youve-ever-typed/#atom-everything)
 <!-- BLOG-POST-LIST:END -->
 
 ---
