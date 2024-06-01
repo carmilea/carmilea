@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DearMoon, the first private circum-lunar flight project, will be cancelled](https://twitter.com/dearmoonproject/status/1796759847817625933)
+- [Helldivers 2 has caused over 20k Steam accounts to be banned](https://www.videogamer.com/news/helldivers-2-has-caused-over-20000-steam-accounts-to-be-banned/)
 - [California sides with big utilities, trimming incentives for community solar](https://calmatters.org/environment/2024/05/california-community-solar-incentives/)
-- [When Companies Ask for Your Social Security Number, Try Saying No](https://www.wsj.com/tech/cybersecurity/identity-theft-social-security-number-580f01a4)
+- [Tiny number of &#39;supersharers&#39; spread the majority of fake news](https://www.science.org/content/article/tiny-number-supersharers-spread-vast-majority-fake-news)
+- [Spring Forth, My Creation](https://wondermark.com/c/1548/)
 - [Engines of Sacrality: A Footnote on Randall Collins&#39; Interaction Ritual Chains &lpar;2013&rpar;](http://abandonedfootnotes.blogspot.com/2013/04/engines-of-sacrality-footnote-on.html)
-- [60 kHz &lpar;2022&rpar;](https://ben.page/wwvb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
