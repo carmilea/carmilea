@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [60 kHz &lpar;2022&rpar;](https://ben.page/wwvb)
+- [Moving Beyond Type Systems](https://vhyrro.github.io/posts/effect-systems/)
+- [Hexadecimal Sucks](https://tylercipriani.com/blog/2024/05/31/hexadecimal-sucks/)
+- [UI elements with a hand-drawn, sketchy look](https://wiredjs.com/)
 - [Recall: Stealing everything you&#39;ve ever typed or viewed on your own Windows PC](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
-- [Cyber house of cards – Politicians&#39; personal details exposed online](https://proton.me/blog/politicians-exposed-dark-web)
-- [An Algorithmic Solution to Insomnia](https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html)
-- [Go: Sentinel errors and errors.Is&lpar;&rpar; slow your code down by 3000%](https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/)
-- [Heroku Postgres is now based on AWS Aurora](https://blog.heroku.com/heroku-postgres-essential-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
