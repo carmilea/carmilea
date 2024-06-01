@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Google&#39;s new summarize SMS just read another person&#39;s messages to me](https://news.ycombinator.com/item?id=40547855)
+- [Show HN: Tiny Chrome extension to disable images to reduce distractions](https://github.com/kirill-markin/chrome-auto-image-blocker)
+- [Boeing and NASA call off Starliner crew launch minutes before liftoff](https://www.cnbc.com/2024/06/01/boeings-starliner-first-launch-with-nasa-astronauts.html)
 - [Loss of nearly a full decade of information from early days of Chinese internet](https://chinamediaproject.org/2024/05/27/goldfish-memories/)
-- [RIP to the Greatest CEO You&#39;ve Never Heard Of](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
-- [The big lie about sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5)
-- [Phoenix Is Facing a Hurricane Katrina of Heat](https://www.bloomberg.com/opinion/articles/2024-05-29/phoenix-is-facing-a-deadly-hurricane-katrina-of-heat-spurred-by-climate-change)
-- [Napster sparked a file-sharing revolution 25 years ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
+- [Frances Hesselbein&#39;s leadership story &lpar;2022&rpar;](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
 <!-- BLOG-POST-LIST:END -->
 
 ---
