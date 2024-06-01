@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Loyalty at work no longer pays – and it&#39;s employers who are to blame](https://www.businessinsider.com/why-loyalty-between-employers-employees-2024-5)
+- [Apple downgrades new M2 iPad Air, 9-core GPU instead of 10-core](https://9to5mac.com/2024/06/01/m2-ipad-air-gpu-core-count/)
+- [LLMs Aren&#39;t &quot;Trained on the Internet&quot; Anymore](https://allenpike.com/2024/llms-trained-on-internet)
 - [The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
-- [Show HN: Tiny Chrome extension to disable images to reduce distractions](https://github.com/kirill-markin/chrome-auto-image-blocker)
-- [Loss of nearly a full decade of information from early days of Chinese internet](https://chinamediaproject.org/2024/05/27/goldfish-memories/)
-- [Frances Hesselbein&#39;s leadership story &lpar;2022&rpar;](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
-- [Napster sparked a file-sharing revolution 25 years ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
+- [X is justifiably slow &lpar;2022&rpar;](https://zeux.io/2024/05/31/justifiably-slow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
