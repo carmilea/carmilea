@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Revolution Is Already Losing Steam](https://www.wsj.com/tech/ai/the-ai-revolution-is-already-losing-steam-a93478b1)
+- [HuggingFace hacked – Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
+- [The USAF&#39;s &quot;Upside-Down Air Force&quot;](https://www.twz.com/news-features/the-fascinating-story-of-the-usafs-upside-down-air-force)
+- [Is Red Meat Healthy? Multiverse Analysis Has Lessons Beyond Meat](https://www.medscape.com/viewarticle/red-meat-healthy-multiverse-analysis-has-lessons-beyond-meat-2024a10008qv)
+- [Routers cyber security best practices](https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019)
 - [Arthur Whitney releases an open-source K with MIT license](https://shakti.com/k)
-- [Ticketmaster confirms data hack which could affect 560M globally](https://www.bbc.co.uk/news/articles/cw99ql0239wo)
-- [Transformers Represent Belief State Geometry in Their Residual Stream](https://www.lesswrong.com/posts/gTZ2SxesbHckJ3CkF/transformers-represent-belief-state-geometry-in-their)
-- [Lessons learned from 6 months of operating a tiny news archive](https://hiandrewquinn.github.io/til-site/posts/lessons-learned-from-6-months-of-operating-a-teensy-tiny-news-archive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
