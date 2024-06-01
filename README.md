@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CERN Root](https://root.cern/)
+- [Giant Tonga Volcanic Eruption Could Disrupt Weather for Years to Come](https://www.sciencealert.com/giant-tonga-volcanic-eruption-could-disrupt-weather-for-years-to-come)
 - [BYD unveils new hybrid tech as battle with gasoline rivals heats up](https://www.reuters.com/business/autos-transportation/byd-launches-new-hybrid-vehicle-tech-with-lower-fuel-consumption-2024-05-28/)
 - [Dioxus S23 is hiring a cracked founding engineer &lpar;Rust&rpar;](https://www.ycombinator.com/companies/dioxus-labs/jobs/dRPOod2-cracked-founding-systems-engineer-rust)
 - [Ticketmaster confirms data breach with a SEC filing](https://stackdiary.com/ticketmaster-confirms-data-breach-with-a-sec-filing/)
-- [Nginx Unit: open-source, lightweight and versatile application runtime](https://unit.nginx.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
