@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuclear material left in &quot;Swap Shop&quot; at UK Hacker camp emfcamp](https://meow.social/@tryst/112546598851850261)
+- [An intuitive guide to Maxwell&#39;s equations &lpar;2020&rpar;](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
+- [HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
+- [Atomic polling intervals for highly concurrent workloads](https://www.byronwasti.com/polling-atomics/)
 - [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
-- [Workmanship standard for crimping, interconnecting cables, harnesses, and wiring](https://standards.nasa.gov/standard/NASA/NASA-STD-87394)
-- [Ask HN: What was your most humbling learning moment?](https://news.ycombinator.com/item?id=40555435)
-- [Parsing JSON Is a Minefield &lpar;2018&rpar;](https://seriot.ch/projects/parsing_json.html)
-- [Here comes the Muybridge camera moment but for text](https://interconnected.org/home/2024/05/31/camera)
 <!-- BLOG-POST-LIST:END -->
 
 ---
