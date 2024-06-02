@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Written in Pure Go](https://github.com/AccentDesign/gcss)
+- [Show HN: Open-Source Load Balancer for Llama.cpp](https://github.com/distantmagic/paddler)
 - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 - [LLMs aren&#39;t &quot;trained on the internet&quot; anymore](https://allenpike.com/2024/llms-trained-on-internet)
 - [The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
-- [X is justifiably slow &lpar;2022&rpar;](https://zeux.io/2024/05/31/justifiably-slow/)
-- [Cellular Automata Rule 30](https://codegolf.stackexchange.com/questions/273387/cellular-automata-rule-30)
 <!-- BLOG-POST-LIST:END -->
 
 ---
