@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Disappointment Frontier](https://www.theengineeringmanager.com/growth/the-disappointment-frontier/)
 - [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
 - [Workmanship standard for crimping, interconnecting cables, harnesses, and wiring](https://standards.nasa.gov/standard/NASA/NASA-STD-87394)
+- [Ask HN: What was your most humbling learning moment?](https://news.ycombinator.com/item?id=40555435)
 - [Parsing JSON Is a Minefield &lpar;2018&rpar;](https://seriot.ch/projects/parsing_json.html)
 - [Here comes the Muybridge camera moment but for text](https://interconnected.org/home/2024/05/31/camera)
 <!-- BLOG-POST-LIST:END -->
