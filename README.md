@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The NSA advises you to turn your phone off and back on once a week](https://www.zdnet.com/article/the-nsa-advises-you-to-turn-your-phone-off-and-back-on-once-a-week-heres-why/)
+- [How do our brains adapt to control an extra body part?](https://www.cam.ac.uk/stories/third-thumb)
+- [Some Americans have stopped tipping. Should you do the same?](https://www.dallasnews.com/arts-entertainment/travel/2024/05/22/some-americans-have-stopped-tipping-should-you-do-the-same/)
 - [84–24](https://84-24.org/)
 - [CSS written in pure Go](https://github.com/AccentDesign/gcss)
 - [Show HN: Open-Source Load Balancer for Llama.cpp](https://github.com/distantmagic/paddler)
-- [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
