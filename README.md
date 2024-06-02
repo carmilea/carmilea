@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A secure embedded operating system for microcontrollers](https://tockos.org/)
 - [SPI Flash](https://trmm.net/SPI_flash/)
-- [New head of one of the oldest universities organized a citation cartel](https://english.elpais.com/science-tech/2024-05-31/internal-messages-show-how-the-new-head-of-one-of-the-worlds-oldest-universities-organized-a-citation-cartel.html)
+- [New head of one of the world’s oldest universities organized a citation cartel](https://english.elpais.com/science-tech/2024-05-31/internal-messages-show-how-the-new-head-of-one-of-the-worlds-oldest-universities-organized-a-citation-cartel.html)
 - [Footage of Chang&#39;e-6&#39;s land on far side of the moon](https://www.cnsa.gov.cn/n6759533/c10541660/content.html)
 - [Lord Kelvin and His Analog Computer](https://spectrum.ieee.org/tide-predictions)
-- [Copy-and-patch: A compiler for a high-level C-like language &lpar;2021&rpar;](https://arxiv.org/abs/2011.13127)
 <!-- BLOG-POST-LIST:END -->
 
 ---
