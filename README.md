@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I&#39;m a doctor and built a responsive breathing app for anxiety and sleep](https://www.lungy.app/)
-- [Hugging Face detected &#39;unauthorized access&#39; to its AI model hosting platform](https://techcrunch.com/2024/05/31/hugging-face-says-it-detected-unauthorized-access-to-its-ai-model-hosting-platform/)
-- [Advertising Broke the World](https://www.wired.com/story/death-of-truth-misinformation-advertising/)
-- [Copy-and-Patch Compilation: fast compilation algorithm for high-level languages](https://arxiv.org/abs/2011.13127)
-- [The Ticketmaster Data Breach May Be Just the Beginning](https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/)
+- [SPI Flash](https://trmm.net/SPI_flash/)
+- [New head of one of the oldest universities organized a citation cartel](https://english.elpais.com/science-tech/2024-05-31/internal-messages-show-how-the-new-head-of-one-of-the-worlds-oldest-universities-organized-a-citation-cartel.html)
+- [Footage of Chang&#39;e-6&#39;s land on far side of the moon](https://www.cnsa.gov.cn/n6759533/c10541660/content.html)
+- [Lord Kelvin and His Analog Computer](https://spectrum.ieee.org/tide-predictions)
+- [Copy-and-patch: A compiler for a high-level C-like language &lpar;2021&rpar;](https://arxiv.org/abs/2011.13127)
 <!-- BLOG-POST-LIST:END -->
 
 ---
