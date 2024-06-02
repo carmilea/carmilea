@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic Chief of Staff: These next 3 years might be the last few that I work](https://www.palladiummag.com/2024/05/17/my-last-five-years-of-work/)
 - [PEP 730 – Adding iOS as a supported platform](https://peps.python.org/pep-0730/)
 - [Show HN: Fusio 5.0 released – open-source API management platform](https://www.fusio-project.org/)
 - [FineWeb: Decanting the web for the finest text data at scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
-- [Pre-Work for Setting OKRs](https://eleganthack.com/pre-work-for-setting-okrs/)
-- [Parable of the Sofa](https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa)
+- [Voice analysis shows striking similarity between Scarlett Johansson and ChatGPT](https://www.npr.org/2024/05/31/g-s1-2263/voice-lab-analysis-striking-similarity-scarlett-johansson-chatgpt-sky-openai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
