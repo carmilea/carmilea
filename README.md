@@ -59,8 +59,8 @@
 - [The Ticketmaster Data Breach May Be Just the Beginning](https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/)
 - [PyCon US 2024 Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html)
 - [Show HN: Fusio 5.0 released – open-source API management platform](https://www.fusio-project.org/)
+- [Voice analysis shows striking similarity between Scarlett Johansson and ChatGPT](https://www.npr.org/2024/05/31/g-s1-2263/voice-lab-analysis-striking-similarity-scarlett-johansson-chatgpt-sky-openai)
 - [If A.I. Can Do Your Job, Maybe It Can Also Replace Your CEO](https://www.msn.com/en-us/news/us/if-a-i-can-do-your-job-maybe-it-can-also-replace-your-c-e-o/ar-BB1nbdAX)
-- [Pre-Work for Setting OKRs](https://eleganthack.com/pre-work-for-setting-okrs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
