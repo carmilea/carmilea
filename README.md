@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Parable of the Sofa](https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa)
-- [Jail time for those caught distributing deepfake porn under new Australian laws](https://www.theguardian.com/australia-news/article/2024/jun/01/creating-or-sharing-deepfake-porn-without-consent-to-be-under-proposed-new-australian-laws)
 - [Signal: Will leave the EU market rather than undermine our privacy guarantees](https://twitter.com/mer__edith/status/1796508893822238881)
-- [Unlocking the Duron and Athlon Using the Pencil](http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html)
+- [Unlocking the Duron and Athlon using the pencil &lpar;2007&rpar;](http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html)
 - [How do our brains adapt to control an extra body part?](https://www.cam.ac.uk/stories/third-thumb)
+- [Python notebooks for fundamentals of music processing](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
