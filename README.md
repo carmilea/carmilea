@@ -57,8 +57,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The NSA advises you to turn your phone off and back on once a week](https://www.zdnet.com/article/the-nsa-advises-you-to-turn-your-phone-off-and-back-on-once-a-week-heres-why/)
-- [Seoul authorities find Shein products contain high levels of toxic chemicals](https://www.lemonde.fr/en/economy/article/2024/05/28/seoul-government-finds-shein-products-contain-high-levels-of-toxic-chemicals_6672910_19.html)
-- [CSS Written in Pure Go](https://github.com/AccentDesign/gcss)
+- [84–24](https://84-24.org/)
+- [CSS written in pure Go](https://github.com/AccentDesign/gcss)
 - [Show HN: Open-Source Load Balancer for Llama.cpp](https://github.com/distantmagic/paddler)
 - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 <!-- BLOG-POST-LIST:END -->
