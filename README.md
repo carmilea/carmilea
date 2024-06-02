@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
 - [Workmanship Standard for Crimping, Interconnecting Cables, Harnesses, and Wiring](https://standards.nasa.gov/standard/NASA/NASA-STD-87394)
+- [Ask HN: What was your most humbling learning moment?](https://news.ycombinator.com/item?id=40555435)
+- [Parsing JSON Is a Minefield &lpar;2018&rpar;](https://seriot.ch/projects/parsing_json.html)
 - [Hotwire: HTML Over The Wire](https://hotwired.dev/)
-- [A secure embedded operating system for microcontrollers](https://tockos.org/)
-- [SPI Flash](https://trmm.net/SPI_flash/)
-- [New head of one of the world’s oldest universities organized a citation cartel](https://english.elpais.com/science-tech/2024-05-31/internal-messages-show-how-the-new-head-of-one-of-the-worlds-oldest-universities-organized-a-citation-cartel.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
