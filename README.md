@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lowering resource usage with foot and systemd](https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/)
+- [Protecting sensitive data in Elixir GenServers](https://gabrielpereira.dev/en/posts/protecting-sensitive-data-in-elixir-gen-servers/)
+- [Psychological tricks rich people use to look generous without spending more](https://billmei.net/blog/shopping)
 - [Nuclear material left in &quot;Swap Shop&quot; at UK Hacker camp emfcamp](https://meow.social/@tryst/112546598851850261)
 - [An intuitive guide to Maxwell&#39;s equations &lpar;2020&rpar;](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
-- [HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
-- [Atomic polling intervals for highly concurrent workloads](https://www.byronwasti.com/polling-atomics/)
-- [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
