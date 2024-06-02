@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Signal: Will leave the EU market rather than undermine our privacy guarantees](https://twitter.com/mer__edith/status/1796508893822238881)
+- [Unlocking the Duron and Athlon Using the Pencil](http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html)
 - [How do our brains adapt to control an extra body part?](https://www.cam.ac.uk/stories/third-thumb)
-- [Some Americans have stopped tipping. Should you do the same?](https://www.dallasnews.com/arts-entertainment/travel/2024/05/22/some-americans-have-stopped-tipping-should-you-do-the-same/)
 - [84–24](https://84-24.org/)
 - [CSS written in pure Go](https://github.com/AccentDesign/gcss)
-- [Show HN: Open-Source Load Balancer for Llama.cpp](https://github.com/distantmagic/paddler)
 <!-- BLOG-POST-LIST:END -->
 
 ---
