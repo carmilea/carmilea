@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Workmanship Standard for Crimping, Interconnecting Cables, Harnesses, and Wiring](https://standards.nasa.gov/standard/NASA/NASA-STD-87394)
 - [Hotwire: HTML Over The Wire](https://hotwired.dev/)
 - [A secure embedded operating system for microcontrollers](https://tockos.org/)
 - [SPI Flash](https://trmm.net/SPI_flash/)
 - [New head of one of the world’s oldest universities organized a citation cartel](https://english.elpais.com/science-tech/2024-05-31/internal-messages-show-how-the-new-head-of-one-of-the-worlds-oldest-universities-organized-a-citation-cartel.html)
-- [Footage of Chang&#39;e-6&#39;s land on far side of the moon](https://www.cnsa.gov.cn/n6759533/c10541660/content.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
