@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Harvard&#39;s largest faculty eliminates requirement for DEI statements in hiring](https://www.bostonglobe.com/2024/06/03/metro/harvard-diversity-statements-dei-faculty/)
-- [Microwave Drills from Nuclear Fusion Tech Find Geothermal Energy Application](https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise)
+- [Crooks threaten to leak 3B personal records &#39;stolen from background check firm&#39;](https://www.theregister.com/2024/06/03/usdod_data_dump/)
+- [Oldest largest German Minecraft server shut down and open sourced everything](https://github.com/muxcraftserver/MuxSystem)
+- [The Moral Economy of the Shire](https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/)
+- [Fusion tech finds geothermal energy application](https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise)
 - [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
-- [Shared Memory Versioning to improve slow interactions](https://blog.chromium.org/2024/06/introducing-shared-memory-versioning-to.html)
-- [Trellis &lpar;YC W24&rpar; is hiring Founding-Eng to build ETL for unstructured data with AI](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 <!-- BLOG-POST-LIST:END -->
 
 ---
