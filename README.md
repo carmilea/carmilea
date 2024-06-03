@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cat as a Service](https://cataas.com/)
+- [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
 - [Eight years of organizing tech meetups &lpar;2023&rpar;](https://notes.eatonphil.com/eight-years-of-tech-meetups.html)
 - [New material looks like frosted glass but lets in more light than a window](https://www.popsci.com/technology/glass-coating-privacy/)
 - [Lowering resource usage with foot and systemd](https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/)
