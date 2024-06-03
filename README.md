@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trellis &lpar;YC W24&rpar; is hiring Founding-Eng to build ETL for unstructured data with AI](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+- [Posthog – open-source analytics and UX research tool](https://github.com/PostHog/posthog)
+- [Modern CSS Layouts: You Might Not Need a Framework for That](https://www.smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/)
+- [Mamba-2 – State Space Duality](https://tridao.me/blog/2024/mamba2-part1-model/)
 - [Ogma: Interpretable Symbolic General Problem-Solving Model](https://ogma.framer.website/)
-- [Ask HN: Who is hiring? &lpar;June 2024&rpar;](https://news.ycombinator.com/item?id=40563283)
-- [Ask HN: Who wants to be hired? &lpar;June 2024&rpar;](https://news.ycombinator.com/item?id=40563280)
-- [What if they gave an Industrial Revolution and nobody came?](https://rootsofprogress.org/robert-allen-british-industrial-revolution)
-- [Show HN: 10 Years to Build a Free SQL Editor](https://www.timestored.com/qstudio/release-version-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
