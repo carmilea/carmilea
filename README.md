@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dealing with &quot;New&quot; Old Data](https://www.mlb.com/news/baseball-record-books-changing-negro-leagues)
+- [Earning $30 too much a month keeps a cancer patient in Georgia from cheaper care](https://text.npr.org/nx-s1-4964730)
 - [Auto-brewery syndrome in a 50-year-old woman](https://www.cmaj.ca/content/196/21/E724#msdynttrid)
-- [A Quartz Thermal Trap Harnessed the Sun–and Is About to Change Smelting Forever](https://www.popularmechanics.com/science/green-tech/a60829402/a-quartz-thermal-trap-harnessed-the-sunand-is-about-to-change-smelting-forever/)
-- [Why Ruby&#39;s Timeout is dangerous &lpar;and Thread.raise is terrifying&rpar; &lpar;2015&rpar;](https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/)
-- [I&#39;m forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
-- [Making USB devices – end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
+- [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
+- [AMD reveals the MI325X, a 288GB AI accelerator built to battle Nvidia&#39;s H200](https://www.theregister.com/2024/06/03/amd_reveals_refreshed_mi325x_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
