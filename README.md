@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Whiteboard interviews are a test of obedience, not intelligence](https://ashgw.me/blog/white-board-interviews)
-- [Special-Use Domain &#39;Home.arpa.&#39; &lpar;2018&rpar;](https://datatracker.ietf.org/doc/html/rfc8375)
+- [Scientists should use AI as a tool, not an oracle](https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool)
+- [The Future Is Retro – ModRetro](https://modretro.com/blogs/blog/the-future-is-retro)
 - [SnapMagic &lpar;YC S15&rpar;, the AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
+- [Python&#39;s many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
 - [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233)
-- [Crooks threaten to leak 3B personal records &#39;stolen from background check firm&#39;](https://www.theregister.com/2024/06/03/usdod_data_dump/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
