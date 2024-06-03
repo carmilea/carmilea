@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Will Increase the Quantity–and Quality–of Phishing Scams](https://www.schneier.com/academic/archives/2024/06/ai-will-increase-the-quantity-and-quality-of-phishing-scams.html)
-- [AWS Chalice](https://github.com/aws/chalice)
-- [Show HN: 10 Years to Build a Free SQL Editor](https://www.timestored.com/qstudio/release-version-3)
-- [Generate an OpenSCAD case template from a KiCAD PCB](https://sr.ht/~martijnbraam/turbocase/)
-- [Auto-brewery syndrome in a 50-year-old woman](https://www.cmaj.ca/content/196/21/E724#msdynttrid)
+- [Ask HN: Who wants to be hired? &lpar;June 2024&rpar;](https://news.ycombinator.com/item?id=40563280)
+- [NYSE technical issue, incorrectly showing Berkshire Hathaway down 99%](https://www.cnbc.com/2024/06/03/nyse-technical-issue-impacting-some-stock-prices-incorrectly-showing-berkshire-hathaway-down-99percent.html)
+- [Linux Mint Disabling Unverified Flatpaks by Default](https://www.phoronix.com/news/Linux-Mint-Unverified-Flatpaks)
+- [NASA+](https://plus.nasa.gov/)
+- [What if they gave an Industrial Revolution and nobody came?](https://rootsofprogress.org/robert-allen-british-industrial-revolution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
