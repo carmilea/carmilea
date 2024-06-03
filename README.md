@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Harvard&#39;s largest faculty eliminates requirement for DEI statements in hiring](https://www.bostonglobe.com/2024/06/03/metro/harvard-diversity-statements-dei-faculty/)
+- [Microwave Drills from Nuclear Fusion Tech Find Geothermal Energy Application](https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise)
 - [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
-- [ModRetro](https://modretro.com/)
 - [Shared Memory Versioning to improve slow interactions](https://blog.chromium.org/2024/06/introducing-shared-memory-versioning-to.html)
-- [The Most Disturbing Places We&#39;ve Found Microplastics So Far](https://gizmodo.com/microplastics-in-blood-air-water-everywhere-1851492637)
-- [X has new rules that officially allow porn](https://www.theverge.com/2024/6/3/24170352/x-xxx-porn-adult-content-terms-of-service-policy-update)
+- [Trellis &lpar;YC W24&rpar; is hiring Founding-Eng to build ETL for unstructured data with AI](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 <!-- BLOG-POST-LIST:END -->
 
 ---
