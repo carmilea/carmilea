@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SnapMagic &lpar;YC S15&rpar;, the AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
+- [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233)
 - [Crooks threaten to leak 3B personal records &#39;stolen from background check firm&#39;](https://www.theregister.com/2024/06/03/usdod_data_dump/)
 - [Oldest largest German Minecraft server shut down and open sourced everything](https://github.com/muxcraftserver/MuxSystem)
 - [The Moral Economy of the Shire](https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/)
-- [Fusion tech finds geothermal energy application](https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise)
-- [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
