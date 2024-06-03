@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cat as a Service](https://cataas.com/)
+- [Eight years of organizing tech meetups &lpar;2023&rpar;](https://notes.eatonphil.com/eight-years-of-tech-meetups.html)
+- [New material looks like frosted glass but lets in more light than a window](https://www.popsci.com/technology/glass-coating-privacy/)
 - [Lowering resource usage with foot and systemd](https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/)
-- [Protecting sensitive data in Elixir GenServers](https://gabrielpereira.dev/en/posts/protecting-sensitive-data-in-elixir-gen-servers/)
-- [Psychological tricks rich people use to look generous without spending more](https://billmei.net/blog/shopping)
-- [Nuclear material left in &quot;Swap Shop&quot; at UK Hacker camp emfcamp](https://meow.social/@tryst/112546598851850261)
-- [An intuitive guide to Maxwell&#39;s equations &lpar;2020&rpar;](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
+- [Protecting sensitive data in Elixir GenServers &lpar;2023&rpar;](https://gabrielpereira.dev/en/posts/protecting-sensitive-data-in-elixir-gen-servers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
