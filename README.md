@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Quartz Thermal Trap Harnessed the Sun–and Is About to Change Smelting Forever](https://www.popularmechanics.com/science/green-tech/a60829402/a-quartz-thermal-trap-harnessed-the-sunand-is-about-to-change-smelting-forever/)
+- [Corporations Learned the Maximum Amount They Can Charge for a Product](https://www.bloomberg.com/news/articles/2024-06-03/corporations-learned-the-maximum-amount-they-can-charge-for-a-product)
 - [Cis-lunar space and the security dilemma](https://thebulletin.org/premium/2022-01/cis-lunar-space-and-the-security-dilemma/)
 - [Build a side project using your data](https://www.fact.ist/building-a-first-side-project/)
 - [Why Ruby&#39;s Timeout is dangerous &lpar;and Thread.raise is terrifying&rpar; &lpar;2015&rpar;](https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/)
-- [I&#39;m forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
-- [Broadcom&#39;s VMware strategy looks ever more shaky – and less relevant](https://www.theregister.com/2024/06/03/broadcoms_vmware_strategy_looks_ever/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
