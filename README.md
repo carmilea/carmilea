@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU: Users who refuse scanning to be prevented from sharing photos and links](https://www.patrick-breyer.de/en/majority-for-chat-control-possible-users-who-refuse-scanning-to-be-prevented-from-sharing-photos-and-links/)
-- [AMD Unveils Ryzen 9000 CPUs for Desktop, Zen 5](https://www.anandtech.com/show/21415/amd-unveils-ryzen-9000-cpus-for-desktop-zen-5-takes-center-stage-at-computex-2024)
-- [Learn CSS Grid with a virtual garden game](https://cssgridgarden.com/)
-- [AMD Instinct MI325X in Q4 2024, 288GB of HBM3E](https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and)
-- [The Intellectual Obesity Crisis &lpar;2022&rpar;](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
+- [Cis-lunar space and the security dilemma](https://thebulletin.org/premium/2022-01/cis-lunar-space-and-the-security-dilemma/)
+- [Build a side project using your data](https://www.fact.ist/building-a-first-side-project/)
+- [Why Ruby&#39;s Timeout is dangerous &lpar;and Thread.raise is terrifying&rpar; &lpar;2015&rpar;](https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/)
+- [I&#39;m forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
+- [Broadcom&#39;s VMware strategy looks ever more shaky – and less relevant](https://www.theregister.com/2024/06/03/broadcoms_vmware_strategy_looks_ever/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
