@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flow-Matic](https://en.wikipedia.org/wiki/FLOW-MATIC)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
+- [AMD Unveils Ryzen 9000 CPUs for Desktop, Zen 5](https://www.anandtech.com/show/21415/amd-unveils-ryzen-9000-cpus-for-desktop-zen-5-takes-center-stage-at-computex-2024)
+- [Twitch removes every member of its Safety Advisory Council](https://www.engadget.com/twitch-removes-every-member-of-its-safety-advisory-council-131501219.html)
+- [CEOs could easily be replaced with AI, experts argue](https://futurism.com/the-byte/ceos-easily-replaced-with-ai)
 - [Learn CSS Grid with a virtual garden game](https://cssgridgarden.com/)
-- [DAK Industries Catalog, Early Fall 1985](https://archive.org/details/1985.fall.dak)
-- [AMD Instinct MI325X in Q4 2024, 288GB of HBM3E](https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and)
-- [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
