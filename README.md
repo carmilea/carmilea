@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ogma: Interpretable Symbolic General Problem-Solving Model](https://ogma.framer.website/)
+- [Ask HN: Who is hiring? &lpar;June 2024&rpar;](https://news.ycombinator.com/item?id=40563283)
 - [Ask HN: Who wants to be hired? &lpar;June 2024&rpar;](https://news.ycombinator.com/item?id=40563280)
-- [NYSE technical issue, incorrectly showing Berkshire Hathaway down 99%](https://www.cnbc.com/2024/06/03/nyse-technical-issue-impacting-some-stock-prices-incorrectly-showing-berkshire-hathaway-down-99percent.html)
-- [Linux Mint Disabling Unverified Flatpaks by Default](https://www.phoronix.com/news/Linux-Mint-Unverified-Flatpaks)
-- [NASA+](https://plus.nasa.gov/)
 - [What if they gave an Industrial Revolution and nobody came?](https://rootsofprogress.org/robert-allen-british-industrial-revolution)
+- [Show HN: 10 Years to Build a Free SQL Editor](https://www.timestored.com/qstudio/release-version-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
