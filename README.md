@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dealing with &quot;New&quot; Old Data](https://www.mlb.com/news/baseball-record-books-changing-negro-leagues)
-- [Earning $30 too much a month keeps a cancer patient in Georgia from cheaper care](https://text.npr.org/nx-s1-4964730)
+- [AI Will Increase the Quantity–and Quality–of Phishing Scams](https://www.schneier.com/academic/archives/2024/06/ai-will-increase-the-quantity-and-quality-of-phishing-scams.html)
+- [AWS Chalice](https://github.com/aws/chalice)
+- [Show HN: 10 Years to Build a Free SQL Editor](https://www.timestored.com/qstudio/release-version-3)
+- [Generate an OpenSCAD case template from a KiCAD PCB](https://sr.ht/~martijnbraam/turbocase/)
 - [Auto-brewery syndrome in a 50-year-old woman](https://www.cmaj.ca/content/196/21/E724#msdynttrid)
-- [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
-- [AMD reveals the MI325X, a 288GB AI accelerator built to battle Nvidia&#39;s H200](https://www.theregister.com/2024/06/03/amd_reveals_refreshed_mi325x_with/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
