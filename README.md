@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trellis &lpar;YC W24&rpar; is hiring Founding-Eng to build ETL for unstructured data with AI](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
-- [Posthog – open-source analytics and UX research tool](https://github.com/PostHog/posthog)
-- [Modern CSS Layouts: You Might Not Need a Framework for That](https://www.smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/)
-- [Mamba-2 – State Space Duality](https://tridao.me/blog/2024/mamba2-part1-model/)
-- [Ogma: Interpretable Symbolic General Problem-Solving Model](https://ogma.framer.website/)
+- [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
+- [ModRetro](https://modretro.com/)
+- [Shared Memory Versioning to improve slow interactions](https://blog.chromium.org/2024/06/introducing-shared-memory-versioning-to.html)
+- [The Most Disturbing Places We&#39;ve Found Microplastics So Far](https://gizmodo.com/microplastics-in-blood-air-water-everywhere-1851492637)
+- [X has new rules that officially allow porn](https://www.theverge.com/2024/6/3/24170352/x-xxx-porn-adult-content-terms-of-service-policy-update)
 <!-- BLOG-POST-LIST:END -->
 
 ---
