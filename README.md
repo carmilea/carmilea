@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flow-Matic](https://en.wikipedia.org/wiki/FLOW-MATIC)
+- [Learn CSS Grid with a virtual garden game](https://cssgridgarden.com/)
+- [DAK Industries Catalog, Early Fall 1985](https://archive.org/details/1985.fall.dak)
+- [AMD Instinct MI325X in Q4 2024, 288GB of HBM3E](https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and)
 - [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
-- [Quake in 13kb &lpar;2021&rpar;](https://js13kgames.com/entries/q1k3)
-- [Building a dynamic lib plugin system for Rust](https://www.arroyo.dev/blog/rust-plugin-systems)
-- [Udio – AI Music Generator](https://www.udio.com/)
-- [Eight years of organizing tech meetups &lpar;2023&rpar;](https://notes.eatonphil.com/eight-years-of-tech-meetups.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
