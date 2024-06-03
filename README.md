@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Whiteboard interviews are a test of obedience, not intelligence](https://ashgw.me/blog/white-board-interviews)
+- [Special-Use Domain &#39;Home.arpa.&#39; &lpar;2018&rpar;](https://datatracker.ietf.org/doc/html/rfc8375)
 - [SnapMagic &lpar;YC S15&rpar;, the AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
 - [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233)
 - [Crooks threaten to leak 3B personal records &#39;stolen from background check firm&#39;](https://www.theregister.com/2024/06/03/usdod_data_dump/)
-- [Oldest largest German Minecraft server shut down and open sourced everything](https://github.com/muxcraftserver/MuxSystem)
-- [The Moral Economy of the Shire](https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
