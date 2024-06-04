@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft blocks Windows 11 workaround that enabled local accounts](https://www.pcworld.com/article/2354686/microsoft-blocks-windows-11-workaround-local-accounts.html)
+- [America&#39;s Commute to Work Is Getting Longer and Longer](https://www.wsj.com/lifestyle/workplace/americas-commute-to-work-is-getting-longer-and-longer-0fbf79c3)
+- [Using Vectorize to build an unreasonably good search engine in 160 lines of code](https://blog.partykit.io/posts/using-vectorize-to-build-search/)
+- [Show HN: Web Development with Htmx, Type-Guided Components, Pure Python](https://getludic.dev/docs/)
 - [Epoch Times CFO charged in $67M crypto money laundering plot](https://www.bbc.com/news/articles/cg66xe59zyeo)
-- [Ask HN: Going low-level – what to learn next?](https://news.ycombinator.com/item?id=40571500)
-- [I Am So Sick of Leetcode-Style Interviews](https://nelson.cloud/i-am-so-sick-of-leetcode-style-interviews/)
-- [Koheesio: Nike&#39;s Python-based framework to build advanced data-pipelines](https://github.com/Nike-Inc/koheesio)
+- [Excess mortality across the Western World since the Covid pandemic](https://bmjpublichealth.bmj.com/content/2/1/e000282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
