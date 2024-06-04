@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America&#39;s Commute to Work Is Getting Longer and Longer](https://www.wsj.com/lifestyle/workplace/americas-commute-to-work-is-getting-longer-and-longer-0fbf79c3)
-- [Using Vectorize to build an unreasonably good search engine in 160 lines of code](https://blog.partykit.io/posts/using-vectorize-to-build-search/)
-- [Show HN: Web Development with Htmx, Type-Guided Components, Pure Python](https://getludic.dev/docs/)
-- [Epoch Times CFO charged in $67M crypto money laundering plot](https://www.bbc.com/news/articles/cg66xe59zyeo)
-- [Excess mortality across the Western World since the Covid pandemic](https://bmjpublichealth.bmj.com/content/2/1/e000282)
+- [Porsche 911 Hybrid vs. Chevy Corvette E-Ray: Electrified Sports Cars Compared](https://www.thedrive.com/news/porsche-911-hybrid-vs-chevy-corvette-e-ray-electrified-sports-cars-compared)
+- [Delivering WordPress in 6KB &lpar;2018&rpar;](https://sustywp.com/)
+- [Langfuse &lpar;YC W23&rpar;: Hiring Product Engineer &lpar;In-Person, Open Source&rpar;](https://github.com/langfuse/langfuse/blob/main/careers)
+- [Chang&#39;e-6: Moon dark side samples collected and launched into lunar orbit](https://spacenews.com/change-6-moon-samples-collected-and-launched-into-lunar-orbit/)
+- [SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales](https://arxiv.org/abs/2405.20974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
