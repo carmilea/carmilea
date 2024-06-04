@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alan Turing on Abstraction Entrenchment](https://mathematikoihq.notion.site/Alan-Turing-on-abstraction-entrenchment-1d44996b403440c18ac6442f0afef905?pvs=4)
-- [Scientists confirm that pasteurisation effectively inactivates influenza viruses](https://www.gla.ac.uk/news/headline_1078447_en.html)
-- [Scientists should use AI as a tool, not an oracle](https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool)
-- [SnapMagic &lpar;YC S15&rpar;, the AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
-- [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233)
+- [New telescope images of Jupiter&#39;s moon Io rival those from spacecraft](https://phys.org/news/2024-05-glimpses-volcanic-world-telescope-images.html)
+- [Diffusion on Syntax Trees for Program Synthesis](https://tree-diffusion.github.io/)
+- [Please support &quot;skip to main content&quot; on your docs site](https://technicalwriting.dev/a11y/skip.html)
+- [Psychedelics are challenging the standard of randomized controlled trials](https://www.theatlantic.com/health/archive/2024/06/psychedelics-mdma-ptsd-fda-placebo/678588/)
+- [New theory suggests time is an illusion created by quantum entanglement](https://bgr.com/science/new-theory-suggests-time-is-an-illusion-created-by-quantum-entanglement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
