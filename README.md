@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New telescope images of Jupiter&#39;s moon Io rival those from spacecraft](https://phys.org/news/2024-05-glimpses-volcanic-world-telescope-images.html)
-- [Diffusion on Syntax Trees for Program Synthesis](https://tree-diffusion.github.io/)
-- [Please support &quot;skip to main content&quot; on your docs site](https://technicalwriting.dev/a11y/skip.html)
-- [Psychedelics are challenging the standard of randomized controlled trials](https://www.theatlantic.com/health/archive/2024/06/psychedelics-mdma-ptsd-fda-placebo/678588/)
-- [New theory suggests time is an illusion created by quantum entanglement](https://bgr.com/science/new-theory-suggests-time-is-an-illusion-created-by-quantum-entanglement/)
+- [How to Create Open-Source AI Apps with LangChain](https://www.singlestore.com/blog/how-to-create-open-source-ai-apps-with-langchain)
+- [Honoring the Vibrant Cultures Around Us: Celebrating Asian American, Native Hawaiian and Pacific Islander Heritage Month](https://www.singlestore.com/blog/celebrating-aapih-month)
+- [Claude 3 Multimodal With LlamaIndex and SingleStore](https://www.singlestore.com/blog/claude-3-multimodal-with-llamaindex-and-singlestore)
+- [Helios Secrets: Public Preview](https://www.singlestore.com/blog/helios-secrets-public-preview)
+- [Evaluating Large Language Models: A Complete Guide](https://www.singlestore.com/blog/complete-guide-to-evaluating-large-language-models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
