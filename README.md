@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My simple theory on why we stopped building beautiful buildings](https://danfrank.ca/my-simple-theory-on-why-we-stopped-building-beautiful-buildings-and-why-many-other-things-suck-more-than-youd-expect/)
-- [Why do electronic components have such odd values?](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
+- [No physics? No problem. AI weather forecasting is already making strides](https://arstechnica.com/ai/2024/06/as-a-potentially-historic-hurricane-season-looms-can-ai-forecast-models-help/)
+- [Why do electronic components have such odd values? &lpar;2021&rpar;](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 - [Why Your Vector Database Should Still Not be a Vector Database](https://www.singlestore.com/blog/why-your-vector-database-should-still-not-be-a-vector-database)
 - [Databricks to Buy Data-Management Startup Tabular](https://www.wsj.com/articles/databricks-to-buy-data-management-startup-tabular-in-bid-for-ai-clients-829e5bcf)
-- [A new discovery about carbon dioxide is challenging old ventilation doctrine](https://www.statnews.com/2024/06/04/co2-ventilation-research-virus-airborne-life-haddrell-celebs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
