@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI&#39;s Desperate Hunger for News Training Data Has Publishers Fighting Back](https://tvnewscheck.com/ai/article/ais-desperate-hunger-for-news-training-data-has-publishers-fighting-back-heres-how/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
+- [Mozilla Builders Accelerator 2024](https://future.mozilla.org/builders/)
+- [Job openings fall to lowest level since February 2021](https://finance.yahoo.com/news/job-openings-fall-to-lowest-level-since-february-2021-141149453.html)
 - [No physics? No problem. AI weather forecasting is already making strides](https://arstechnica.com/ai/2024/06/as-a-potentially-historic-hurricane-season-looms-can-ai-forecast-models-help/)
-- [Why do electronic components have such odd values? &lpar;2021&rpar;](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
-- [Why Your Vector Database Should Still Not be a Vector Database](https://www.singlestore.com/blog/why-your-vector-database-should-still-not-be-a-vector-database)
-- [Databricks to Buy Data-Management Startup Tabular](https://www.wsj.com/articles/databricks-to-buy-data-management-startup-tabular-in-bid-for-ai-clients-829e5bcf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
