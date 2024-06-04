@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Z in 3D graphics &lpar;and why it&#39;s so awesome&rpar;](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
-- [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf] &lpar;2007&rpar;](https://rangevoting.org/HPL-2007-28R1.pdf)
-- [Langfuse &lpar;YC W23&rpar;: Hiring Product Engineer &lpar;In-Person, Open Source&rpar;](https://github.com/langfuse/langfuse/blob/main/careers)
-- [Encryption at Rest: Whose Threat Model Is It Anyway?](https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/)
-- [A breakthrough towards the Riemann hypothesis](https://mathstodon.xyz/@tao/112557248794707738)
+- [Instagram tests forcing users to watch adverts](https://www.bbc.com/news/articles/c877y6mxdp7o)
+- [Databricks to Buy Data-Management Startup Tabular](https://www.wsj.com/articles/databricks-to-buy-data-management-startup-tabular-in-bid-for-ai-clients-829e5bcf)
+- [Current and former AI employees warn of the technology&#39;s dangers](https://www.washingtonpost.com/technology/2024/06/04/openai-employees-ai-whistleblowers/)
+- [Python&#39;s many command-line utilities](https://www.pythonmorsels.com/cli-tools/#cheat-sheet)
+- [A new discovery about carbon dioxide is challenging old ventilation doctrine](https://www.statnews.com/2024/06/04/co2-ventilation-research-virus-airborne-life-haddrell-celebs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
