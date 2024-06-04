@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Epoch Times CFO charged in $67M crypto money laundering plot](https://www.bbc.com/news/articles/cg66xe59zyeo)
+- [ChatGPT Is Down](https://status.openai.com/incidents/rs49lmsh6xxw)
 - [Ask HN: Going low-level – what to learn next?](https://news.ycombinator.com/item?id=40571500)
 - [I Am So Sick of Leetcode-Style Interviews](https://nelson.cloud/i-am-so-sick-of-leetcode-style-interviews/)
 - [Koheesio: Nike&#39;s Python-based framework to build advanced data-pipelines](https://github.com/Nike-Inc/koheesio)
-- [Hacking millions of modems and investigating who hacked my modem](https://samcurry.net/hacking-millions-of-modems)
-- [Intel Unveils Lunar Lake Architecture](https://www.anandtech.com/show/21425/intel-lunar-lake-architecture-deep-dive-lion-cove-xe2-and-npu4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
