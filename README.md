@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram tests forcing users to watch adverts](https://www.bbc.com/news/articles/c877y6mxdp7o)
+- [My simple theory on why we stopped building beautiful buildings](https://danfrank.ca/my-simple-theory-on-why-we-stopped-building-beautiful-buildings-and-why-many-other-things-suck-more-than-youd-expect/)
+- [Why do electronic components have such odd values?](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
+- [Why Your Vector Database Should Still Not be a Vector Database](https://www.singlestore.com/blog/why-your-vector-database-should-still-not-be-a-vector-database)
 - [Databricks to Buy Data-Management Startup Tabular](https://www.wsj.com/articles/databricks-to-buy-data-management-startup-tabular-in-bid-for-ai-clients-829e5bcf)
-- [Current and former AI employees warn of the technology&#39;s dangers](https://www.washingtonpost.com/technology/2024/06/04/openai-employees-ai-whistleblowers/)
-- [Python&#39;s many command-line utilities](https://www.pythonmorsels.com/cli-tools/#cheat-sheet)
 - [A new discovery about carbon dioxide is challenging old ventilation doctrine](https://www.statnews.com/2024/06/04/co2-ventilation-research-virus-airborne-life-haddrell-celebs/)
 <!-- BLOG-POST-LIST:END -->
 
