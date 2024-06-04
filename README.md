@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Going low-level – what to learn next?](https://news.ycombinator.com/item?id=40571500)
 - [I Am So Sick of Leetcode-Style Interviews](https://nelson.cloud/i-am-so-sick-of-leetcode-style-interviews/)
 - [Koheesio: Nike&#39;s Python-based framework to build advanced data-pipelines](https://github.com/Nike-Inc/koheesio)
 - [Hacking millions of modems and investigating who hacked my modem](https://samcurry.net/hacking-millions-of-modems)
 - [Intel Unveils Lunar Lake Architecture](https://www.anandtech.com/show/21425/intel-lunar-lake-architecture-deep-dive-lion-cove-xe2-and-npu4)
-- [Intel&#39;s Lion Cove Architecture Preview](https://chipsandcheese.com/2024/06/03/intels-lion-cove-architecture-preview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
