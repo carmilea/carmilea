@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Into the SingleVerse: Media and Machines: Nick Thompson on the Intersection of Journalism and AI ...](https://www.youtube.com/watch?v=1FqIg6-UFqM)
 - [Using Open-Source CopilotKit for Personalized Banking Applications | SingleStore Webinars](https://www.youtube.com/watch?v=QsmplgsM4cY)
 - [Beginner’s Guide to Understanding Vector Databases!](https://www.youtube.com/watch?v=fT_WCs8RZNs)
 - [How to Build Personalized Marketing Chatbots &lpar;Gemini vs LoRA&rpar; | SingleStore Webinars](https://www.youtube.com/watch?v=3SdCNMSQFRo)
 - [Building Full-Stack AI Apps with Prisma, Vercel, NextJS and GPT-4o | Singlestore Webinars](https://www.youtube.com/watch?v=aI3o8YMmMcs)
-- [Supercharge Your MySQL Apps 100X at Scale with No Code Changes | Singlestore Webinars](https://www.youtube.com/watch?v=mP2iqLKl6CU)
 <!-- YOUTUBE:END -->
 
 
