@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Porsche 911 Hybrid vs. Chevy Corvette E-Ray: Electrified Sports Cars Compared](https://www.thedrive.com/news/porsche-911-hybrid-vs-chevy-corvette-e-ray-electrified-sports-cars-compared)
-- [Delivering WordPress in 6KB &lpar;2018&rpar;](https://sustywp.com/)
+- [New all-optical approach to revolutionise night vision technology](https://www.tmos.org.au/research/new-all-optical-approach-to-revolutionise-night-vision-technology/)
+- [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf]](https://rangevoting.org/HPL-2007-28R1.pdf)
 - [Langfuse &lpar;YC W23&rpar;: Hiring Product Engineer &lpar;In-Person, Open Source&rpar;](https://github.com/langfuse/langfuse/blob/main/careers)
 - [Chang&#39;e-6: Moon dark side samples collected and launched into lunar orbit](https://spacenews.com/change-6-moon-samples-collected-and-launched-into-lunar-orbit/)
-- [SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales](https://arxiv.org/abs/2405.20974)
+- [Encryption at Rest: Whose Threat Model Is It Anyway?](https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
