@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Extremely impressive&#39;: melanoma jab trial results excite doctors](https://www.theguardian.com/society/article/2024/jun/03/extremely-impressive-melanoma-jab-trial-results-excite-doctors)
-- [The FBI ran a cell phone company for criminals](https://www.npr.org/2024/05/31/1197959218/fbi-phone-company-anom)
+- [Reverse Z in 3D graphics &lpar;and why it&#39;s so awesome&rpar;](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 - [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf] &lpar;2007&rpar;](https://rangevoting.org/HPL-2007-28R1.pdf)
-- [The world&#39;s largest 3D printer is building cozy homes from wood](https://www.cnn.com/style/worlds-largest-3d-printer-homes-maine-hnk-spc-intl/index.html)
 - [Langfuse &lpar;YC W23&rpar;: Hiring Product Engineer &lpar;In-Person, Open Source&rpar;](https://github.com/langfuse/langfuse/blob/main/careers)
+- [Encryption at Rest: Whose Threat Model Is It Anyway?](https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/)
+- [A breakthrough towards the Riemann hypothesis](https://mathstodon.xyz/@tao/112557248794707738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
