@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI&#39;s Desperate Hunger for News Training Data Has Publishers Fighting Back](https://tvnewscheck.com/ai/article/ais-desperate-hunger-for-news-training-data-has-publishers-fighting-back-heres-how/)
+- [Particle Accelerators for the Microchip Era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
+- [How influencer cartels manipulate social media](https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain)
+- [Skip SDKs in Simple Integrations](https://www.epicweb.dev/skip-sdks-in-simple-integrations)
+- [Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938](https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
-- [Mozilla Builders Accelerator 2024](https://future.mozilla.org/builders/)
-- [Job openings fall to lowest level since February 2021](https://finance.yahoo.com/news/job-openings-fall-to-lowest-level-since-february-2021-141149453.html)
-- [No physics? No problem. AI weather forecasting is already making strides](https://arstechnica.com/ai/2024/06/as-a-potentially-historic-hurricane-season-looms-can-ai-forecast-models-help/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
