@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft blocks Windows 11 workaround that enabled local accounts](https://www.pcworld.com/article/2354686/microsoft-blocks-windows-11-workaround-local-accounts.html)
 - [Epoch Times CFO charged in $67M crypto money laundering plot](https://www.bbc.com/news/articles/cg66xe59zyeo)
-- [ChatGPT Is Down](https://status.openai.com/incidents/rs49lmsh6xxw)
 - [Ask HN: Going low-level – what to learn next?](https://news.ycombinator.com/item?id=40571500)
 - [I Am So Sick of Leetcode-Style Interviews](https://nelson.cloud/i-am-so-sick-of-leetcode-style-interviews/)
 - [Koheesio: Nike&#39;s Python-based framework to build advanced data-pipelines](https://github.com/Nike-Inc/koheesio)
