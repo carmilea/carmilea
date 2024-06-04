@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [An animated introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
-- [Some Notes on Influenceering](https://lcamtuf.substack.com/p/some-notes-on-influenceering)
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
+- [Some notes on influenceering](https://lcamtuf.substack.com/p/some-notes-on-influenceering)
 - [Things the guys who stole my phone have texted me to try to get me to unlock it](https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it)
-- [Anthropic Courses](https://github.com/anthropics/courses)
+- [Debian&#39;s /tmpest in a teapot](https://lwn.net/SubscriberLink/975565/bcce68a68d82d63a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
