@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alan Turing on Abstraction Entrenchment](https://mathematikoihq.notion.site/Alan-Turing-on-abstraction-entrenchment-1d44996b403440c18ac6442f0afef905?pvs=4)
+- [Scientists confirm that pasteurisation effectively inactivates influenza viruses](https://www.gla.ac.uk/news/headline_1078447_en.html)
 - [Scientists should use AI as a tool, not an oracle](https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool)
-- [The Future Is Retro – ModRetro](https://modretro.com/blogs/blog/the-future-is-retro)
 - [SnapMagic &lpar;YC S15&rpar;, the AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
-- [Python&#39;s many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
 - [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233)
 <!-- BLOG-POST-LIST:END -->
 
