@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Vector Database Should Still Not be a Vector Database](https://www.singlestore.com/blog/why-your-vector-database-should-still-not-be-a-vector-database)
-- [How to Create Open-Source AI Apps with LangChain](https://www.singlestore.com/blog/how-to-create-open-source-ai-apps-with-langchain)
-- [Honoring the Vibrant Cultures Around Us: Celebrating Asian American, Native Hawaiian and Pacific Islander Heritage Month](https://www.singlestore.com/blog/celebrating-aapih-month)
-- [Claude 3 Multimodal With LlamaIndex and SingleStore](https://www.singlestore.com/blog/claude-3-multimodal-with-llamaindex-and-singlestore)
-- [Helios Secrets: Public Preview](https://www.singlestore.com/blog/helios-secrets-public-preview)
+- [He trained cops to fight crypto crime and allegedly ran a dark-web drug market](https://www.wired.com/story/lin-rui-siang-incognito-market/)
+- [Meta Withheld Information on Instagram, WhatsApp Deals: FTC](https://www.bloomberg.com/news/articles/2024-06-05/meta-withheld-information-on-instagram-whatsapp-deals-ftc-says)
+- [Is One Company to Blame for Soaring Rental Prices in the U.S.?](https://www.entrepreneur.com/business-news/realpage-rent-price-fixing-probe-escalates-with-fbi-raid/475109)
+- [You&#39;ll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
+- [Not Just Scale](https://brooker.co.za/blog/2024/06/04/scale.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
