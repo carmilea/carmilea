@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise and Fall of Preview](https://pxlnv.com/linklog/preview-rise-and-fall/)
-- [Popular Mac app &#39;Bartender&#39; acquired by new unknown developer](https://9to5mac.com/2024/06/04/bartender-acquired-unknown-developer/)
-- [Texas poised to get own stock exchange – with less red tape than NYSE or Nasdaq](https://www.businessinsider.com/texas-stock-exchange-nyse-nasdaq-elon-musk-tesla-exxon-mobil-2024-6)
-- [Superfast Microsoft AI is first to predict air pollution for the whole world](https://www.nature.com/articles/d41586-024-01677-2)
-- [Nintendo leak:employee accessing private YouTube videos](https://www.gamesradar.com/games/platformer/nintendo-leak-reportedly-came-from-an-employee-accessing-private-youtube-videos-but-google-says-it-was-non-intentional-because-they-only-showed-it-to-a-friend/)
+- [Boeing Starliner launches first crewed mission](https://www.bbc.co.uk/news/live/world-us-canada-69094213)
+- [Is Microsoft trying to commit suicide?](https://www.antipope.org/charlie/blog-static/2024/06/is-microsoft-trying-to-commit-.html)
+- [Jury finds Boeing stole technology from electric airplane startup Zunum](https://www.seattletimes.com/business/boeing-aerospace/jury-finds-boeing-stole-technology-from-electric-airplane-startup-zunum/)
+- [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs](https://arxiv.org/abs/2406.02061)
+- [Human Computers: The Women Who Powered Early Technology](https://rarehistoricalphotos.com/human-computer-women-profession/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
