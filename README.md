@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo leak employee accessing private YouTube videos](https://www.gamesradar.com/games/platformer/nintendo-leak-reportedly-came-from-an-employee-accessing-private-youtube-videos-but-google-says-it-was-non-intentional-because-they-only-showed-it-to-a-friend/)
+- [Online Privacy and Overfishing](https://www.schneier.com/blog/archives/2024/06/online-privacy-and-overfishing.html)
 - [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)
+- [Google Maps is killing Timeline for Web](https://www.androidauthority.com/google-maps-killing-timeline-web-access-3449017/)
 - [Shuttle &lpar;YC S20&rpar; Is Hiring](https://news.ycombinator.com/item?id=40583909)
-- [Is It Time to Stop Filming Strangers in Public?](https://petapixel.com/2024/06/04/is-it-time-to-stop-filming-strangers-in-public/)
-- [really divisionless random numbers](https://dotat.at/@/2022-04-20-really-divisionless.html)
-- [You&#39;ll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
