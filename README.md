@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple M4 iPad Pro Has a New Security Exclave for Camera and Microphone Activity](https://9to5mac.com/2024/06/03/m4-ipad-pro-security-feature-apple-hasnt-told-anyone-about/)
-- [Rejecting GMOs hinders human progress and keeps the poor hungry](https://www.theupwing.com/rejecting-gmos-hinders-human-progress-and-keeps-the-poor-hungry/)
+- [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
+- [SpaceX&#39;s fourth Starship launch approved for Thursday](https://arstechnica.com/space/2024/06/we-know-starship-can-fly-now-its-time-to-see-if-it-can-come-back-to-earth/)
+- [Apple M4 iPad Pro OS Has New Security Exclave for Camera and Microphone Activity](https://9to5mac.com/2024/06/03/m4-ipad-pro-security-feature-apple-hasnt-told-anyone-about/)
+- [Japan&#39;s Most Actively Traded Stock Is a Fraud and Ticking Time Bomb [pdf]](https://scorpionreports.s3.us-east-2.amazonaws.com/6920.pdf)
 - [Toyota raided as safety testing scandal grows](https://www.bbc.com/news/articles/c1wwj1p2wdyo)
-- [Ask HN: 30y After &#39;On Lisp&#39;, PAIP etc., Is Lisp Still &quot;Beating the Averages&quot;?](https://news.ycombinator.com/item?id=40581285)
-- [You&#39;ll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
