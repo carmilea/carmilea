@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nintendo leak employee accessing private YouTube videos](https://www.gamesradar.com/games/platformer/nintendo-leak-reportedly-came-from-an-employee-accessing-private-youtube-videos-but-google-says-it-was-non-intentional-because-they-only-showed-it-to-a-friend/)
-- [Online Privacy and Overfishing](https://www.schneier.com/blog/archives/2024/06/online-privacy-and-overfishing.html)
-- [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)
-- [Google Maps is killing Timeline for Web](https://www.androidauthority.com/google-maps-killing-timeline-web-access-3449017/)
-- [Shuttle &lpar;YC S20&rpar; Is Hiring](https://news.ycombinator.com/item?id=40583909)
+- [The Rise and Fall of Preview](https://pxlnv.com/linklog/preview-rise-and-fall/)
+- [Popular Mac app &#39;Bartender&#39; acquired by new unknown developer](https://9to5mac.com/2024/06/04/bartender-acquired-unknown-developer/)
+- [Texas poised to get own stock exchange – with less red tape than NYSE or Nasdaq](https://www.businessinsider.com/texas-stock-exchange-nyse-nasdaq-elon-musk-tesla-exxon-mobil-2024-6)
+- [Superfast Microsoft AI is first to predict air pollution for the whole world](https://www.nature.com/articles/d41586-024-01677-2)
+- [Nintendo leak:employee accessing private YouTube videos](https://www.gamesradar.com/games/platformer/nintendo-leak-reportedly-came-from-an-employee-accessing-private-youtube-videos-but-google-says-it-was-non-intentional-because-they-only-showed-it-to-a-friend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
