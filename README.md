@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stable Audio Open](https://stability.ai/news/introducing-stable-audio-open)
 - [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 - [Study shows banning false info traffickers online can improve public discourse](https://phys.org/news/2024-06-false-traffickers-online-discourse.html)
+- [We Improved the Performance of a Userspace TCP Stack in Go by 5X](https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0)
 - [Researchers identify major driver of inflammatory bowel and related diseases](https://www.theguardian.com/society/article/2024/jun/05/bowel-disease-hope-researchers-find-biological-pathway)
-- [Managing my motivation as a solo dev](https://mbuffett.com/posts/maintaining-motivation/)
-- [History of the Paper Clip &lpar;2016&rpar;](http://www.officemuseum.com/paper_clips.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
