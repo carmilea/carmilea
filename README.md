@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Squatting in Spain: Understanding Spain&#39;s &quot;okupas&quot; problem](https://www.idealista.com/en/news/legal-advice-in-spain/2024/04/15/816509-squatting-in-spain-understanding-spain-s-okupas-problem)
-- [Foosbar: The &lpar;unverifiably but plausibly&rpar; Best Foosball Robot](https://github.com/misprit7/foosbar)
-- [Vulkan1.3 on the M1 in 1 Month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
-- [Boeing Starliner launches first crewed mission](https://www.bbc.co.uk/news/live/world-us-canada-69094213)
-- [Jury finds Boeing stole technology from electric airplane startup Zunum](https://www.seattletimes.com/business/boeing-aerospace/jury-finds-boeing-stole-technology-from-electric-airplane-startup-zunum/)
+- [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+- [Study shows banning false info traffickers online can improve public discourse](https://phys.org/news/2024-06-false-traffickers-online-discourse.html)
+- [Researchers identify major driver of inflammatory bowel and related diseases](https://www.theguardian.com/society/article/2024/jun/05/bowel-disease-hope-researchers-find-biological-pathway)
+- [Managing my motivation as a solo dev](https://mbuffett.com/posts/maintaining-motivation/)
+- [History of the Paper Clip &lpar;2016&rpar;](http://www.officemuseum.com/paper_clips.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
