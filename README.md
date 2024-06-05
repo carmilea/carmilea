@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [He trained cops to fight crypto crime and allegedly ran a dark-web drug market](https://www.wired.com/story/lin-rui-siang-incognito-market/)
-- [Meta Withheld Information on Instagram, WhatsApp Deals: FTC](https://www.bloomberg.com/news/articles/2024-06-05/meta-withheld-information-on-instagram-whatsapp-deals-ftc-says)
-- [Is One Company to Blame for Soaring Rental Prices in the U.S.?](https://www.entrepreneur.com/business-news/realpage-rent-price-fixing-probe-escalates-with-fbi-raid/475109)
+- [Ask HN: 30y After &#39;On Lisp&#39;, PAIP etc., Is Lisp Still &quot;Beating the Averages&quot;?](https://news.ycombinator.com/item?id=40581285)
 - [You&#39;ll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 - [Not Just Scale](https://brooker.co.za/blog/2024/06/04/scale.html)
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
