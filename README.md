@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Warren Buffett Controls 3% of the Treasury Bill Market](https://ca.finance.yahoo.com/news/warren-buffett-controls-3-treasury-130200874.html)
-- [Remote Amazon tribe connects to internet – wind up hooked on porn, social media](https://nypost.com/2024/06/04/lifestyle/remote-amazon-tribe-connects-to-elon-musks-starlink-internet-service-become-hooked-on-porn-social-media/)
-- [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
-- [SpaceX&#39;s fourth Starship launch approved for Thursday](https://arstechnica.com/space/2024/06/we-know-starship-can-fly-now-its-time-to-see-if-it-can-come-back-to-earth/)
 - [Toyota raided as safety testing scandal grows](https://www.bbc.com/news/articles/c1wwj1p2wdyo)
+- [really divisionless random numbers](https://dotat.at/@/2022-04-20-really-divisionless.html)
+- [You&#39;ll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
