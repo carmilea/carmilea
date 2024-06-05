@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Recall should make you consider Linux](https://creativegood.com/blog/24/recall-switch-to-linux.html)
-- [Show HN: A website that tailors your resume for each job you apply for](https://resume.ink)
+- [For sale replica of the mustang aircraft](https://www.scalewings.com/sw-51-mustang/)
+- [DHCPv6-PD – First Steps](https://sha256.net/dhcpv6-pd-first-steps.html)
+- [Show HN: Original 8x16 ASCII Fixed Width Font: Classic Console Neue](https://webdraft.hu/fonts/classic-console/)
 - [How big a deal was the Industrial Revolution? &lpar;2017&rpar;](https://lukemuehlhauser.com/industrial-revolution/)
 - [Feature flags in Bazel builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
-- [A primer on the next generation of antibodies](https://www.abhishaike.com/p/a-primer-to-the-next-generation-of-antibodies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
