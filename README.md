@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Toyota raided as safety testing scandal grows](https://www.bbc.com/news/articles/c1wwj1p2wdyo)
+- [Show HN: Extract Data from Line Chart Image](https://github.com/tdsone/extract-line-chart-data)
 - [really divisionless random numbers](https://dotat.at/@/2022-04-20-really-divisionless.html)
 - [You&#39;ll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
