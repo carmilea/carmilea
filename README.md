@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rabbit R1 It&#39;s a Scam](https://paulogpd.bearblog.dev/en-rabbit-r1-its-a-scam/)
-- [85% of People Want Global Ban on Single-Use Plastics](https://www.worldwildlife.org/press-releases/85-of-people-want-global-ban-on-single-use-plastics)
+- [Nvidia hits $3T market cap on back of AI boom](https://www.cnbc.com/2024/06/05/nvidia-briefly-passes-3-trillion-market-cap-on-back-of-ai-boom.html)
 - [Employees Who Stay in Companies Longer Than Two Years Get Paid 50% Less &lpar;2014&rpar;](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/)
+- [Feature Flags in Bazel Builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
 - [Stable Audio Open](https://stability.ai/news/introducing-stable-audio-open)
 - [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 <!-- BLOG-POST-LIST:END -->
