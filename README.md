@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Employees who stay in companies longer than two years get paid 50% less &lpar;2014&rpar;](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/)
-- [Feature Flags in Bazel Builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
-- [Stable Audio Open](https://stability.ai/news/introducing-stable-audio-open)
-- [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
-- [We improved the performance of a userspace TCP stack in Go](https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0)
+- [Microsoft Recall should make you consider Linux](https://creativegood.com/blog/24/recall-switch-to-linux.html)
+- [Show HN: A website that tailors your resume for each job you apply for](https://resume.ink)
+- [How big a deal was the Industrial Revolution? &lpar;2017&rpar;](https://lukemuehlhauser.com/industrial-revolution/)
+- [Feature flags in Bazel builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
+- [A primer on the next generation of antibodies](https://www.abhishaike.com/p/a-primer-to-the-next-generation-of-antibodies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
