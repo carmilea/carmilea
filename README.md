@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;ll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
-- [New AI system detects rare epileptic seizures](https://viterbischool.usc.edu/news/2024/06/ai-detects-rare-epilepsy/)
-- [Study shows most doctors endorsing drugs on X are paid to do so](https://medicalxpress.com/news/2024-05-doctors-endorsing-drugs-paid.html)
-- [macOS Bartender Auto-Update Signed by Unknown New Owner](https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/)
-- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [Why Your Vector Database Should Still Not be a Vector Database](https://www.singlestore.com/blog/why-your-vector-database-should-still-not-be-a-vector-database)
+- [How to Create Open-Source AI Apps with LangChain](https://www.singlestore.com/blog/how-to-create-open-source-ai-apps-with-langchain)
+- [Honoring the Vibrant Cultures Around Us: Celebrating Asian American, Native Hawaiian and Pacific Islander Heritage Month](https://www.singlestore.com/blog/celebrating-aapih-month)
+- [Claude 3 Multimodal With LlamaIndex and SingleStore](https://www.singlestore.com/blog/claude-3-multimodal-with-llamaindex-and-singlestore)
+- [Helios Secrets: Public Preview](https://www.singlestore.com/blog/helios-secrets-public-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
