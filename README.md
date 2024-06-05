@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia hits $3T market cap on back of AI boom](https://www.cnbc.com/2024/06/05/nvidia-briefly-passes-3-trillion-market-cap-on-back-of-ai-boom.html)
-- [Employees Who Stay in Companies Longer Than Two Years Get Paid 50% Less &lpar;2014&rpar;](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/)
+- [Employees who stay in companies longer than two years get paid 50% less &lpar;2014&rpar;](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/)
 - [Feature Flags in Bazel Builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
 - [Stable Audio Open](https://stability.ai/news/introducing-stable-audio-open)
 - [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+- [We improved the performance of a userspace TCP stack in Go](https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
