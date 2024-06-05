@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacker Tool Extracts All the Data Collected by Windows&#39; New Recall AI](https://www.wired.com/story/total-recall-windows-recall-ai/)
-- [Spacetop – Meet the AR Laptop for Work](https://www.sightful.com/)
-- [Not Just Scale – Why thinking in distributed systems is important](https://www.brooker.co.za/blog/2024/06/04/scale.html)
+- [You&#39;ll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
+- [New AI system detects rare epileptic seizures](https://viterbischool.usc.edu/news/2024/06/ai-detects-rare-epilepsy/)
 - [Study shows most doctors endorsing drugs on X are paid to do so](https://medicalxpress.com/news/2024-05-doctors-endorsing-drugs-paid.html)
 - [macOS Bartender Auto-Update Signed by Unknown New Owner](https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/)
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
