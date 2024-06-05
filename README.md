@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Extract Data from Line Chart Image](https://github.com/tdsone/extract-line-chart-data)
+- [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)
+- [Shuttle &lpar;YC S20&rpar; Is Hiring](https://news.ycombinator.com/item?id=40583909)
+- [Is It Time to Stop Filming Strangers in Public?](https://petapixel.com/2024/06/04/is-it-time-to-stop-filming-strangers-in-public/)
 - [really divisionless random numbers](https://dotat.at/@/2022-04-20-really-divisionless.html)
 - [You&#39;ll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
-- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
