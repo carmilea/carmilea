@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
-- [Some notes on influenceering](https://lcamtuf.substack.com/p/some-notes-on-influenceering)
-- [Things the guys who stole my phone have texted me to try to get me to unlock it](https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it)
-- [Debian&#39;s /tmpest in a teapot](https://lwn.net/SubscriberLink/975565/bcce68a68d82d63a/)
+- [Hacker Tool Extracts All the Data Collected by Windows&#39; New Recall AI](https://www.wired.com/story/total-recall-windows-recall-ai/)
+- [Spacetop – Meet the AR Laptop for Work](https://www.sightful.com/)
+- [Not Just Scale – Why thinking in distributed systems is important](https://www.brooker.co.za/blog/2024/06/04/scale.html)
+- [Study shows most doctors endorsing drugs on X are paid to do so](https://medicalxpress.com/news/2024-05-doctors-endorsing-drugs-paid.html)
+- [macOS Bartender Auto-Update Signed by Unknown New Owner](https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
