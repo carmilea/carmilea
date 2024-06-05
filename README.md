@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Squatting in Spain: Understanding Spain&#39;s &quot;okupas&quot; problem](https://www.idealista.com/en/news/legal-advice-in-spain/2024/04/15/816509-squatting-in-spain-understanding-spain-s-okupas-problem)
+- [Foosbar: The &lpar;unverifiably but plausibly&rpar; Best Foosball Robot](https://github.com/misprit7/foosbar)
+- [Vulkan1.3 on the M1 in 1 Month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
 - [Boeing Starliner launches first crewed mission](https://www.bbc.co.uk/news/live/world-us-canada-69094213)
-- [Is Microsoft trying to commit suicide?](https://www.antipope.org/charlie/blog-static/2024/06/is-microsoft-trying-to-commit-.html)
 - [Jury finds Boeing stole technology from electric airplane startup Zunum](https://www.seattletimes.com/business/boeing-aerospace/jury-finds-boeing-stole-technology-from-electric-airplane-startup-zunum/)
-- [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs](https://arxiv.org/abs/2406.02061)
-- [Human Computers: The Women Who Powered Early Technology](https://rarehistoricalphotos.com/human-computer-women-profession/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
