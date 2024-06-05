@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rabbit R1 It&#39;s a Scam](https://paulogpd.bearblog.dev/en-rabbit-r1-its-a-scam/)
+- [85% of People Want Global Ban on Single-Use Plastics](https://www.worldwildlife.org/press-releases/85-of-people-want-global-ban-on-single-use-plastics)
+- [Employees Who Stay in Companies Longer Than Two Years Get Paid 50% Less &lpar;2014&rpar;](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/)
 - [Stable Audio Open](https://stability.ai/news/introducing-stable-audio-open)
 - [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
-- [Study shows banning false info traffickers online can improve public discourse](https://phys.org/news/2024-06-false-traffickers-online-discourse.html)
-- [We Improved the Performance of a Userspace TCP Stack in Go by 5X](https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0)
-- [Researchers identify major driver of inflammatory bowel and related diseases](https://www.theguardian.com/society/article/2024/jun/05/bowel-disease-hope-researchers-find-biological-pathway)
 <!-- BLOG-POST-LIST:END -->
 
 ---
