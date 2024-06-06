@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PSA: If you&#39;re a fan of ATmega, try AVR Dx](https://lcamtuf.substack.com/p/psa-if-youre-a-fan-of-atmega-try)
+- [GameStop stock influencer Roaring Kitty may lose access to E-Trade, report says](https://arstechnica.com/tech-policy/2024/06/gamestop-stock-influencer-roaring-kitty-may-lose-access-to-e-trade-report-says/)
 - [Microsoft AI Spying Scandal: Time to Rethink Privacy Standards](https://spectrum.ieee.org/online-privacy)
+- [Save Team Fortress 2 &lpar;#savetf2&rpar;](https://save.tf/)
 - [Most Life on Earth Is Dormant, After Pulling an &#39;Emergency Brake&#39;](https://www.quantamagazine.org/most-life-on-earth-is-dormant-after-pulling-an-emergency-brake-20240605/)
 - [Photoshop ToS grants Adobe access to user projects for &#39;content moderation&#39;](https://nichegamer.com/photoshop-terms-of-service-grants-adobe-access-to-user-projects-for-content-moderation/)
-- [JSON extra uses orjson instead of ujson &lpar;2019&rpar;](https://github.com/pydantic/pydantic/pull/599)
 <!-- BLOG-POST-LIST:END -->
 
 ---
