@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PermitFlow &lpar;YC W22&rpar; Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 - [St Michael Sword investigation: Are the 7 Cathedrals on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
-- [The Distinctiveness of Human Aggression &lpar;2022&rpar;](https://www.robkhenderson.com/p/the-distinctiveness-of-human-aggression)
 - [Understanding QEMU Devices &lpar;2018&rpar;](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
 - [Ariane 6 inaugural launch targeted for 9 July](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_inaugural_launch_targeted_for_9_July)
 - [Starship&#39;s Fourth Flight Test: Window Opens 07:00 AM Central Time](https://www.spacex.com/launches/mission/?missionId=starship-flight-4)
