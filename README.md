@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Super Heavy has splashed down in The Gulf of Mexico](https://twitter.com/SpaceX/status/1798701489097183286)
-- [JEP-455: Primitive types in patterns, instanceof and switch](https://openjdk.org/jeps/455)
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [I learned Vulkan and wrote a small game engine with it &lpar;in 3 months&rpar;](https://edw.is/learning-vulkan/)
-- [St Michael Sword investigation: Are the 7 Cathedrals on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
+- [The Right Not to Be Subjected to AI Profiling Based on Publicly Available Data](https://link.springer.com/article/10.1007/s13347-023-00616-9)
+- [JIT and GIL removal are not even my most anticipated Python 3.13 features](https://blog.vslira.net/2024/05/jit-and-gil-removal-are-not-even-my.html)
+- [Martha Gellhorn – The Only Woman to Report on the D-Day Landings from the Ground](https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/)
+- [The Roads of Ancient Rome Visualized in the Style of Modern Subway Maps](https://www.openculture.com/2024/06/the-roads-of-ancient-rome-visualized-in-modern-subway-maps.html)
+- [Browsing Log Streams with Fzf](https://junegunn.github.io/fzf/tips/browsing-log-streams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
