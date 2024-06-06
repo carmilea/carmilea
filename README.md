@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DuckDuckGo offers &quot;anonymous&quot; access to AI chatbots through new service](https://arstechnica.com/information-technology/2024/06/duckduckgo-offers-anonymous-access-to-ai-chatbots-through-new-service/)
+- [The New R1S and R1T](https://stories.rivian.com/meet-the-new-r1)
 - [Mike Lynch cleared in Autonomy fraud trial](https://www.theregister.com/2024/06/06/mike_lynch_cleared/)
-- [Boeing&#39;s Starliner Docks at ISS After Five Thrusters Unexpectedly Shut Off](https://gizmodo.com/watch-boeing-starliner-dock-iss-astronauts-1851521917)
-- [HP bricks customers laptops with faulty BIOS upgrade](https://h30434.www3.hp.com/t5/Notebook-Operating-System-and-Recovery/HP-Probook-BIOS-Upgrade-1-17-failed/td-p/9081096/page/3)
-- [Microsoft Issues New Warning for 70% of All Windows Users](https://www.forbes.com/sites/zakdoffman/2024/06/05/new-microsoft-warning-for-windows-10-windows-11-free-upgrade/)
+- [Boeing&#39;s starliner docks at ISS after five thrusters unexpectedly shut off](https://gizmodo.com/watch-boeing-starliner-dock-iss-astronauts-1851521917)
 - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
 <!-- BLOG-POST-LIST:END -->
 
