@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Durability of Polymers in the Space Environment [pdf]](https://ntrs.nasa.gov/api/citations/20190025446/downloads/20190025446.pdf)
 - [Rust Is for the Engine, Not the Game](https://barretts.club/posts/rust-for-the-engine/)
 - [Mitsubishi robot solves Rubik&#39;s Cube in 0.305s](https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/)
+- [TPM GPIO fail: How bad OEM firmware ruins Intel TPM security](https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html)
 - [U.S. clears way for antitrust inquiries of Nvidia, Microsoft and OpenAI](https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html)
-- [Show HN: Built a free VS Code extension to help share code updates](https://marketplace.visualstudio.com/items?itemName=HarveenAtwal.vscode-publicdev)
-- [Microsoft AI spying scandal: time to rethink privacy standards](https://spectrum.ieee.org/online-privacy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
