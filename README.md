@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How Promising is GitHub Copilot?](https://www.youtube.com/watch?v=3uNdIIkBkD4)
+- [6Sense Co-founder Premal Shah on Migrating to the Cloud](https://www.youtube.com/watch?v=e_UnezQcpzo)
+- [Harnessing the Power of AI!](https://www.youtube.com/watch?v=Y9opcyBee_4)
 - [Choosing Best-Fit Embeddings for Your AI App &lpar;OpenAI, Mistral, Llama, etc&rpar; | SingleStore Webinars](https://www.youtube.com/watch?v=tL64qtuN6Ps)
 - [Into the SingleVerse: Nick Thompson on the Intersection of Journalism and AI &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=4XphYrJmpJE)
-- [Into the SingleVerse: Media and Machines: Nick Thompson on the Intersection of Journalism and AI ...](https://www.youtube.com/watch?v=1FqIg6-UFqM)
-- [Using Open-Source CopilotKit for Personalized Banking Applications | SingleStore Webinars](https://www.youtube.com/watch?v=QsmplgsM4cY)
-- [Beginner’s Guide to Understanding Vector Databases!](https://www.youtube.com/watch?v=fT_WCs8RZNs)
 <!-- YOUTUBE:END -->
 
 
