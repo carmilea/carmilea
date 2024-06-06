@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GameStop stock influencer Roaring Kitty may lose access to E-Trade, report says](https://arstechnica.com/tech-policy/2024/06/gamestop-stock-influencer-roaring-kitty-may-lose-access-to-e-trade-report-says/)
+- [Mitsubishi robot solves Rubik&#39;s Cube in 0.305s](https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/)
+- [U.S. Clears Way for Antitrust Inquiries of Nvidia, Microsoft and OpenAI](https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html)
+- [Show HN: Built a free VS Code extension to help share code updates](https://marketplace.visualstudio.com/items?itemName=HarveenAtwal.vscode-publicdev)
 - [Microsoft AI Spying Scandal: Time to Rethink Privacy Standards](https://spectrum.ieee.org/online-privacy)
 - [Save Team Fortress 2 &lpar;#savetf2&rpar;](https://save.tf/)
-- [Most Life on Earth Is Dormant, After Pulling an &#39;Emergency Brake&#39;](https://www.quantamagazine.org/most-life-on-earth-is-dormant-after-pulling-an-emergency-brake-20240605/)
-- [Photoshop ToS grants Adobe access to user projects for &#39;content moderation&#39;](https://nichegamer.com/photoshop-terms-of-service-grants-adobe-access-to-user-projects-for-content-moderation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
