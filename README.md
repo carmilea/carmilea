@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Change to Adobe terms and conditions outrages many professionals](https://9to5mac.com/2024/06/06/change-to-adobe-terms-amp-conditions/)
-- [&#39;Most exciting moment&#39; since birth of WiFi: chipmakers hail arrival of AI PCs](https://www.ft.com/content/6a546ad6-ae03-4c2d-92f5-c8efdd4bba3b)
+- [The secret D-Day scientists and engineers](https://www.bbc.com/news/articles/c3gg580p3kjo)
 - [Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/)
 - [The Right Not to Be Subjected to AI Profiling Based on Publicly Available Data](https://link.springer.com/article/10.1007/s13347-023-00616-9)
 - [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
+- [Martha Gellhorn – The Only Woman to Report on the D-Day Landings from the Ground](https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
