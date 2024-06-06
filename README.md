@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Is for the Engine, Not the Game](https://barretts.club/posts/rust-for-the-engine/)
 - [Mitsubishi robot solves Rubik&#39;s Cube in 0.305s](https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/)
-- [U.S. Clears Way for Antitrust Inquiries of Nvidia, Microsoft and OpenAI](https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html)
+- [U.S. clears way for antitrust inquiries of Nvidia, Microsoft and OpenAI](https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html)
 - [Show HN: Built a free VS Code extension to help share code updates](https://marketplace.visualstudio.com/items?itemName=HarveenAtwal.vscode-publicdev)
-- [Microsoft AI Spying Scandal: Time to Rethink Privacy Standards](https://spectrum.ieee.org/online-privacy)
-- [Save Team Fortress 2 &lpar;#savetf2&rpar;](https://save.tf/)
+- [Microsoft AI spying scandal: time to rethink privacy standards](https://spectrum.ieee.org/online-privacy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
