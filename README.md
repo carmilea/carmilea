@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Zapier Central + SingleStore = Full RAG Agents | SingleStore Webinars](https://www.youtube.com/watch?v=zBzK4Sq29yc)
 - [How Promising is GitHub Copilot?](https://www.youtube.com/watch?v=3uNdIIkBkD4)
 - [6Sense Co-founder Premal Shah on Migrating to the Cloud](https://www.youtube.com/watch?v=e_UnezQcpzo)
 - [Harnessing the Power of AI!](https://www.youtube.com/watch?v=Y9opcyBee_4)
 - [Choosing Best-Fit Embeddings for Your AI App &lpar;OpenAI, Mistral, Llama, etc&rpar; | SingleStore Webinars](https://www.youtube.com/watch?v=tL64qtuN6Ps)
-- [Into the SingleVerse: Nick Thompson on the Intersection of Journalism and AI &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=4XphYrJmpJE)
 <!-- YOUTUBE:END -->
 
 
