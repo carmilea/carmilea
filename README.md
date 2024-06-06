@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JSON extra uses orjson instead of ujson &lpar;2019&rpar;](https://github.com/pydantic/pydantic/pull/599)
+- [FBI raids Atlanta corporate landlord in probe of rental market price fixing](https://www.ajc.com/news/atlanta-news/fbi-raids-atlanta-corporate-landlord-with-ties-to-realpage/PT65C57YUFF2JGB7TRVRC7IFLE/)
 - [For sale replica of the mustang aircraft](https://www.scalewings.com/sw-51-mustang/)
 - [DHCPv6-PD – First Steps](https://sha256.net/dhcpv6-pd-first-steps.html)
 - [Show HN: Original 8x16 ASCII Fixed Width Font: Classic Console Neue](https://webdraft.hu/fonts/classic-console/)
-- [How big a deal was the Industrial Revolution? &lpar;2017&rpar;](https://lukemuehlhauser.com/industrial-revolution/)
-- [Feature flags in Bazel builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
