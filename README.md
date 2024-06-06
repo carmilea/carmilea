@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
+- [First recording of tinnitus raises new questions](https://thequietus.com/interviews/lola-de-la-mata-oceans-on-azimuth-tinnitus-interview/)
+- [High resolution logo for any domain or stock ticker](https://logo.synthfinance.com/)
 - [Let Rand = Main as Usize](https://codeandbitters.com/main-as-usize/)
 - [US eyes antitrust investigation against Nvidia as market value surpasses $3T](https://www.semafor.com/article/06/06/2024/us-government-doj-antitrust-nvidia-semiconductor-chips-artificial-intelligence)
-- [Bill Ackman Wants a Lot of Your Money](https://www.bloomberg.com/opinion/articles/2024-06-06/bill-ackman-wants-a-lot-of-your-money)
-- [Yarn &lpar;YC W24&rpar; Is Hiring Founding Engineers in NYC](https://www.workatastartup.com/jobs/66928)
-- [Whitney Stratifications and Intersection Homology &lpar;2023&rpar; [pdf]](https://n.ethz.ch/~ssetlur/download/whitney-stratifications-intersection-hom.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
