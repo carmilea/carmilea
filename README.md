@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The secret D-Day scientists and engineers](https://www.bbc.com/news/articles/c3gg580p3kjo)
-- [Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/)
-- [The Right Not to Be Subjected to AI Profiling Based on Publicly Available Data](https://link.springer.com/article/10.1007/s13347-023-00616-9)
-- [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
-- [Martha Gellhorn – The Only Woman to Report on the D-Day Landings from the Ground](https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/)
+- [Starship survives reentry during fourth test flight](https://spacenews.com/starship-survives-reentry-during-fourth-test-flight/)
+- [Show HN: XPipe, a brand-new type of remote file browser and shell connection hub](https://xpipe.io)
+- [Prime Video uses obviously AI-generated movie thumbnails](https://twitter.com/ultrabrilliant/status/1798470587230171369)
+- [Extreme Climate Impacts from Collapse of AMOC Could Be Worse Than Expected](https://insideclimatenews.org/news/09022024/climate-impacts-from-collapse-of-atlantic-meridional-overturning-current-could-be-worse-than-expected/)
+- [Qwen2 LLM Released](https://qwenlm.github.io/blog/qwen2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
