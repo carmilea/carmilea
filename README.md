@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PSA: If you&#39;re a fan of ATmega, try AVR Dx](https://lcamtuf.substack.com/p/psa-if-youre-a-fan-of-atmega-try)
+- [Microsoft AI Spying Scandal: Time to Rethink Privacy Standards](https://spectrum.ieee.org/online-privacy)
+- [Most Life on Earth Is Dormant, After Pulling an &#39;Emergency Brake&#39;](https://www.quantamagazine.org/most-life-on-earth-is-dormant-after-pulling-an-emergency-brake-20240605/)
+- [Photoshop ToS grants Adobe access to user projects for &#39;content moderation&#39;](https://nichegamer.com/photoshop-terms-of-service-grants-adobe-access-to-user-projects-for-content-moderation/)
 - [JSON extra uses orjson instead of ujson &lpar;2019&rpar;](https://github.com/pydantic/pydantic/pull/599)
-- [FBI raids Atlanta corporate landlord in probe of rental market price fixing](https://www.ajc.com/news/atlanta-news/fbi-raids-atlanta-corporate-landlord-with-ties-to-realpage/PT65C57YUFF2JGB7TRVRC7IFLE/)
-- [DHCPv6-PD – First Steps](https://sha256.net/dhcpv6-pd-first-steps.html)
-- [Show HN: Original 8x16 ASCII Fixed Width Font: Classic Console Neue](https://webdraft.hu/fonts/classic-console/)
-- [Jury Finds Boeing Stole Tech from Electric Airplane Startup](https://www.govtech.com/public-safety/jury-finds-boeing-stole-tech-from-electric-airplane-startup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
