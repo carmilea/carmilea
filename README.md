@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bank Rescinds a Job Offer Because It Had Cancelled Candidate&#39;s Credit Cards](https://www.nytimes.com/2024/06/06/your-money/chase-account-closed-job.html)
-- [Mike Lynch cleared in Autonomy fraud trial](https://www.theregister.com/2024/06/06/mike_lynch_cleared/)
-- [Boeing&#39;s starliner docks at ISS after five thrusters unexpectedly shut off](https://gizmodo.com/watch-boeing-starliner-dock-iss-astronauts-1851521917)
-- [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
-- [An Interview with Lola De La Mata about tinnitus](https://thequietus.com/interviews/lola-de-la-mata-oceans-on-azimuth-tinnitus-interview/)
+- [Shopify is acquiring the Threads team](https://twitter.com/rousseaukazi/status/1798724339841319186)
+- [Oklahoma Stakes Its Claim to the Tallest Building in the U.S.](https://www.nytimes.com/2024/06/06/realestate/oklahoma-tallest-building.html)
+- [Driver AI &lpar;YC W24&rpar; Is Hiring a Senior Front-End Engineer](https://www.ycombinator.com/companies/driver-ai/jobs/V2OQgdd-senior-frontend-engineer)
+- [Japan&#39;s birth rate falls to a record low as the number of marriages also drops](https://abcnews.go.com/International/wireStory/japans-birth-rate-falls-record-low-number-marriages-110866091)
+- [Google to start permanently deleting users&#39; location history](https://www.theguardian.com/technology/article/2024/jun/06/google-to-start-permanently-deleting-users-location-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
