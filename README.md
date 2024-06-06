@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DuckDuckGo offers &quot;anonymous&quot; access to AI chatbots through new service](https://arstechnica.com/information-technology/2024/06/duckduckgo-offers-anonymous-access-to-ai-chatbots-through-new-service/)
-- [The New R1S and R1T](https://stories.rivian.com/meet-the-new-r1)
+- [Bank Rescinds a Job Offer Because It Had Cancelled Candidate&#39;s Credit Cards](https://www.nytimes.com/2024/06/06/your-money/chase-account-closed-job.html)
 - [Mike Lynch cleared in Autonomy fraud trial](https://www.theregister.com/2024/06/06/mike_lynch_cleared/)
 - [Boeing&#39;s starliner docks at ISS after five thrusters unexpectedly shut off](https://gizmodo.com/watch-boeing-starliner-dock-iss-astronauts-1851521917)
 - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
+- [An Interview with Lola De La Mata about tinnitus](https://thequietus.com/interviews/lola-de-la-mata-oceans-on-azimuth-tinnitus-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
