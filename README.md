@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Study Finds 268% Higher Failure Rates for Agile Software Projects](https://tech.slashdot.org/story/24/06/06/022253/study-finds-268-higher-failure-rates-for-agile-software-projects)
+- [St Michael Sword investigation: Are the 7 Cathedrals on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
+- [The Distinctiveness of Human Aggression &lpar;2022&rpar;](https://www.robkhenderson.com/p/the-distinctiveness-of-human-aggression)
+- [Understanding QEMU Devices &lpar;2018&rpar;](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
+- [Ariane 6 inaugural launch targeted for 9 July](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_inaugural_launch_targeted_for_9_July)
 - [Starship&#39;s Fourth Flight Test: Window Opens 07:00 AM Central Time](https://www.spacex.com/launches/mission/?missionId=starship-flight-4)
-- [FBI has obtained 7k Lockbit ransomware decryption keys](https://www.fbi.gov/news/speeches/fbi-cyber-assistant-director-bryan-vorndran-s-remarks-at-the-2024-boston-conference-on-cyber-security)
-- [Durability of Polymers in the Space Environment [pdf]](https://ntrs.nasa.gov/api/citations/20190025446/downloads/20190025446.pdf)
-- [Mitsubishi robot solves Rubik&#39;s Cube in 0.305s](https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
