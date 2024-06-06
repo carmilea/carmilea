@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Starship survives reentry during fourth test flight](https://spacenews.com/starship-survives-reentry-during-fourth-test-flight/)
-- [Show HN: XPipe, a brand-new type of remote file browser and shell connection hub](https://xpipe.io)
-- [Prime Video uses obviously AI-generated movie thumbnails](https://twitter.com/ultrabrilliant/status/1798470587230171369)
-- [Extreme Climate Impacts from Collapse of AMOC Could Be Worse Than Expected](https://insideclimatenews.org/news/09022024/climate-impacts-from-collapse-of-atlantic-meridional-overturning-current-could-be-worse-than-expected/)
-- [Qwen2 LLM Released](https://qwenlm.github.io/blog/qwen2/)
+- [Let Rand = Main as Usize](https://codeandbitters.com/main-as-usize/)
+- [US eyes antitrust investigation against Nvidia as market value surpasses $3T](https://www.semafor.com/article/06/06/2024/us-government-doj-antitrust-nvidia-semiconductor-chips-artificial-intelligence)
+- [Bill Ackman Wants a Lot of Your Money](https://www.bloomberg.com/opinion/articles/2024-06-06/bill-ackman-wants-a-lot-of-your-money)
+- [Yarn &lpar;YC W24&rpar; Is Hiring Founding Engineers in NYC](https://www.workatastartup.com/jobs/66928)
+- [Whitney Stratifications and Intersection Homology &lpar;2023&rpar; [pdf]](https://n.ethz.ch/~ssetlur/download/whitney-stratifications-intersection-hom.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
