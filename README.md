@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft Research chief scientist has no issue with Recall](https://www.theregister.com/2024/06/06/microsoft_research_recall/)
+- [FBI has obtained 7k Lockbit ransomware decryption keys](https://www.fbi.gov/news/speeches/fbi-cyber-assistant-director-bryan-vorndran-s-remarks-at-the-2024-boston-conference-on-cyber-security)
 - [Durability of Polymers in the Space Environment [pdf]](https://ntrs.nasa.gov/api/citations/20190025446/downloads/20190025446.pdf)
 - [Rust Is for the Engine, Not the Game](https://barretts.club/posts/rust-for-the-engine/)
 - [Mitsubishi robot solves Rubik&#39;s Cube in 0.305s](https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/)
-- [TPM GPIO fail: How bad OEM firmware ruins Intel TPM security](https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
