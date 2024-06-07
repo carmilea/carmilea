@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shopify is acquiring the Threads team](https://twitter.com/rousseaukazi/status/1798724339841319186)
-- [Oklahoma Stakes Its Claim to the Tallest Building in the U.S.](https://www.nytimes.com/2024/06/06/realestate/oklahoma-tallest-building.html)
-- [Driver AI &lpar;YC W24&rpar; Is Hiring a Senior Front-End Engineer](https://www.ycombinator.com/companies/driver-ai/jobs/V2OQgdd-senior-frontend-engineer)
-- [Japan&#39;s birth rate falls to a record low as the number of marriages also drops](https://abcnews.go.com/International/wireStory/japans-birth-rate-falls-record-low-number-marriages-110866091)
-- [Google to start permanently deleting users&#39; location history](https://www.theguardian.com/technology/article/2024/jun/06/google-to-start-permanently-deleting-users-location-history)
+- [XAI Campus in Memphis May Use 1M Gallons of Auqifer Drink Water per Day](https://www.actionnews5.com/2024/06/06/million-gallons-day-elon-musks-supercomputer-plans-raise-questions-about-local-water-supply/)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40604246)
+- [Uganda&#39;s Sweeping Surveillance State Is Built on National ID Cards](https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system)
+- [Make Your Program Slower with Threads](https://brooker.co.za/blog/2014/12/06/random.html)
+- [The Problem with Lying Is Keeping Track of All the Lies](https://materialize.com/blog/engineering/keeping-track-lies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
