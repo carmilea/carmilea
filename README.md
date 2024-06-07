@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google accidentally published internal Search documentation to GitHub](https://arstechnica.com/gadgets/2024/06/google-accidentally-published-internal-search-documentation-to-github/)
+- [US has the highest rate of maternal deaths among rich nations. Norway has zero](https://www.cnn.com/2024/06/04/health/maternal-deaths-high-income-nations/index.html)
 - [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
 - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
 - [CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
