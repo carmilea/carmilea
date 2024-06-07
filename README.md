@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cancel Adobe if you are a creative under NDA with your clients](https://twitter.com/Stretchedwiener/status/1798153619285708909)
+- [The Twitch DJ Program](https://blog.twitch.tv/en/2024/06/06/introducing-the-twitch-dj-program/)
 - [Alan Turing died 70 years ago](https://en.wikipedia.org/wiki/Alan_Turing)
 - [Samsung union stages its first ever strike](https://www.theregister.com/2024/06/07/samsung_union_strike/)
-- [GNU Justified Public License](http://tom7.org/bovex/JCOPYING)
-- [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
-- [CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
+- [Dblab: Interactive Terminal Client for PostgreSQL, MySQL, SQLite3 and Oracle](https://github.com/danvergara/dblab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
