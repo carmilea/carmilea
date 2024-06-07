@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [XAI Campus in Memphis May Use 1M Gallons of Auqifer Drink Water per Day](https://www.actionnews5.com/2024/06/06/million-gallons-day-elon-musks-supercomputer-plans-raise-questions-about-local-water-supply/)
+- [CPU-energy-meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40604246)
-- [Uganda&#39;s Sweeping Surveillance State Is Built on National ID Cards](https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system)
-- [Make Your Program Slower with Threads](https://brooker.co.za/blog/2014/12/06/random.html)
-- [The Problem with Lying Is Keeping Track of All the Lies](https://materialize.com/blog/engineering/keeping-track-lies/)
+- [Uganda&#39;s surveillance state is built on national ID cards](https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system)
+- [Make your program slower with threads &lpar;2014&rpar;](https://brooker.co.za/blog/2014/12/06/random.html)
+- [The problem with lying is keeping track of all the lies](https://materialize.com/blog/engineering/keeping-track-lies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
