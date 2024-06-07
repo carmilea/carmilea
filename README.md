@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Fluo – Immersive Chats](https://fluo.chat/)
+- [Kling &lpar;Chinese Sora Alternative&rpar;](https://kling.kuaishou.com/mobile)
+- [Desktop Linux is an Untapped Gold Mine](https://gebna.gg/blog/desktop-linux-is-an-untapped-gold-mine)
+- [GNU JUSTIFIED PUBLIC LICENSE](http://tom7.org/bovex/JCOPYING)
 - [US has the highest rate of maternal deaths among rich nations. Norway has zero](https://www.cnn.com/2024/06/04/health/maternal-deaths-high-income-nations/index.html)
-- [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
-- [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
-- [CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40604246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
