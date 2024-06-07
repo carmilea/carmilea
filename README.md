@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [D-Day, as told by paratroopers](https://www.politico.com/news/magazine/2024/06/06/d-day-normandy-world-war-ii-paratroopers-00161916?ref=thebrowser.com)
+- [Yes, you can play Duck Hunt without a television &lpar;but I can&#39;t&rpar;](https://nicole.express/2024/no-screen-no-cpu-one-problem.html)
+- [The aging U.S. power grid is about to get a jolt](https://www.wsj.com/business/energy-oil/the-aging-u-s-power-grid-is-about-to-get-a-jolt-144e7fdc)
+- [Why are debut novels failing to launch?](https://www.esquire.com/entertainment/books/a60924704/debut-fiction-challenges/)
 - [Clues to disappearance of North America&#39;s large mammals 50k years ago](https://phys.org/news/2024-05-clues-mysterious-north-america-large.html)
-- [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/)
-- [Zig Goals](https://github.com/ziglang/zig/tree/4236b85c722b36cb31595634bae0ff28d6082761)
-- [Alarms in Medical Equipment](https://th.id.au/alarms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
