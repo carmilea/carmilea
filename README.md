@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Washington Post CEO tried to kill story about himself. It wasn&#39;t the first time](https://www.npr.org/2024/06/07/nx-s1-4995105/washington-post-will-lewis-tries-to-kill-story-buzbee)
-- [270GB of source code from The New York Times leaked to 4Chan](https://twitter.com/vxunderground/status/1798856571931263480)
+- [Microsoft Will Switch Off Recall by Default After Security Backlash](https://www.wired.com/story/microsoft-recall-off-default-security-concerns/)
+- [Zany ideas to slow polar melting are gathering momentum](https://www.economist.com/science-and-technology/2024/06/06/zany-ideas-to-slow-polar-melting-are-gathering-momentum)
+- [Writing memory safe JIT compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
 - [We migrated from AWS to GCP with minimal downtime](https://postgresml.org/blog/how-we-migrated-from-aws-to-gcp-with-minimal-downtime)
-- [Ask HN: How to revoke AI consent from Meta/IG?](https://news.ycombinator.com/item?id=40609838)
-- [Workers at TJ Maxx and Marshalls are wearing police-like body cameras](https://www.cnn.com/2024/06/05/business/tj-maxx-body-cameras-shoplifting/index.html)
+- [LedgerStore Supports Trillions of Indexes at Uber](https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
