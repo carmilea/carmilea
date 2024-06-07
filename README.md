@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ThankYouHN: 14 Years](https://news.ycombinator.com/item?id=40605103)
-- [Shopify is acquiring the Threads team](https://framer.threads.com/announcement)
+- [How to build a DOA product: Humane AI Pin founders banned internal criticism](https://arstechnica.com/gadgets/2024/06/report-humane-ai-pin-did-7-million-in-sales-wants-to-sell-for-1-billion/)
+- [How the Fourier Transform Works: Abstract Concepts Made Simple](https://howthefouriertransformworks.com/)
+- [eBay will no longer accept American Express cards over &#39;unacceptably high&#39; fees](https://www.theverge.com/2024/6/6/24173108/ebay-american-express-payment-fees)
 - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
-- [Best Buy is shutting down its Samsung repair program](https://www.theverge.com/2024/6/6/24164777/best-buy-ends-samsung-repair-program-geek-squad)
-- [Linguistic Antipatterns](https://www.linguistic-antipatterns.com/)
+- [CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
