@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [D-Day, as told by paratroopers](https://www.politico.com/news/magazine/2024/06/06/d-day-normandy-world-war-ii-paratroopers-00161916?ref=thebrowser.com)
+- [Clues to disappearance of North America&#39;s large mammals 50k years ago](https://phys.org/news/2024-05-clues-mysterious-north-america-large.html)
+- [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/)
+- [Zig Goals](https://github.com/ziglang/zig/tree/4236b85c722b36cb31595634bae0ff28d6082761)
 - [Alarms in Medical Equipment](https://th.id.au/alarms/)
-- [YouTube is A/B testing limiting logged out access to videos](https://twitter.com/justusecobalt/status/1799043789967036620)
-- [Nvidia is now worth $102M per employee](https://sherwood.news/markets/nvidia-is-now-worth-usd102m-per-employee/)
-- [Ask HN: Machine Learning Engineers, what do you do at work?](https://news.ycombinator.com/item?id=40610794)
-- [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
