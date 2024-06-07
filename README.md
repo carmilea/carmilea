@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Desktop Linux is an Untapped Gold Mine](https://gebna.gg/blog/desktop-linux-is-an-untapped-gold-mine)
-- [GNU Justified Public License &lpar;2007&rpar;](http://tom7.org/bovex/JCOPYING)
+- [Alan Turing died 70 years ago](https://en.wikipedia.org/wiki/Alan_Turing)
+- [Samsung union stages its first ever strike](https://www.theregister.com/2024/06/07/samsung_union_strike/)
+- [GNU Justified Public License](http://tom7.org/bovex/JCOPYING)
 - [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
-- [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
 - [CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
 <!-- BLOG-POST-LIST:END -->
 
