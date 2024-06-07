@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alarms in Medical Equipment](https://th.id.au/alarms/)
+- [YouTube is A/B testing limiting logged out access to videos](https://twitter.com/justusecobalt/status/1799043789967036620)
+- [Nvidia is now worth $102M per employee](https://sherwood.news/markets/nvidia-is-now-worth-usd102m-per-employee/)
 - [Ask HN: Machine Learning Engineers, what do you do at work?](https://news.ycombinator.com/item?id=40610794)
 - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
-- [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
-- [Webring Starter: a modern, simple webring](https://github.com/krusynth/webring-starter)
-- [Microsoft Will Switch Off Recall by Default After Security Backlash](https://www.wired.com/story/microsoft-recall-off-default-security-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
