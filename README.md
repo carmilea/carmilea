@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software MVPs can no longer be low quality](https://threadreaderapp.com/thread/1798770556571144638.html)
+- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- [Developer posts secret key on GitHub, loses $40K in 2 minutes](https://cointelegraph.com/news/web3-dev-loses-40k-github-key-leak)
 - [Cancel Adobe if you are a creative under NDA with your clients](https://twitter.com/Stretchedwiener/status/1798153619285708909)
-- [The Twitch DJ Program](https://blog.twitch.tv/en/2024/06/06/introducing-the-twitch-dj-program/)
-- [Alan Turing died 70 years ago](https://en.wikipedia.org/wiki/Alan_Turing)
-- [Samsung union stages its first ever strike](https://www.theregister.com/2024/06/07/samsung_union_strike/)
-- [Dblab: Interactive Terminal Client for PostgreSQL, MySQL, SQLite3 and Oracle](https://github.com/danvergara/dblab)
+- [What is the &quot;God Mode&quot; folder in Windows 10, and how do I enable it?](https://www.howtogeek.com/402458/enable-god-mode-in-windows-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
