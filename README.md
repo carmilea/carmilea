@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Machine Learning Engineers, what do you do at work?](https://news.ycombinator.com/item?id=40610794)
+- [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
+- [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
+- [Webring Starter: a modern, simple webring](https://github.com/krusynth/webring-starter)
 - [Microsoft Will Switch Off Recall by Default After Security Backlash](https://www.wired.com/story/microsoft-recall-off-default-security-concerns/)
-- [Zany ideas to slow polar melting are gathering momentum](https://www.economist.com/science-and-technology/2024/06/06/zany-ideas-to-slow-polar-melting-are-gathering-momentum)
-- [Writing memory safe JIT compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
-- [We migrated from AWS to GCP with minimal downtime](https://postgresml.org/blog/how-we-migrated-from-aws-to-gcp-with-minimal-downtime)
-- [LedgerStore Supports Trillions of Indexes at Uber](https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
