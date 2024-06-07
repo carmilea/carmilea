@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a DOA product: Humane AI Pin founders banned internal criticism](https://arstechnica.com/gadgets/2024/06/report-humane-ai-pin-did-7-million-in-sales-wants-to-sell-for-1-billion/)
-- [How the Fourier Transform Works: Abstract Concepts Made Simple](https://howthefouriertransformworks.com/)
-- [eBay will no longer accept American Express cards over &#39;unacceptably high&#39; fees](https://www.theverge.com/2024/6/6/24173108/ebay-american-express-payment-fees)
+- [Google accidentally published internal Search documentation to GitHub](https://arstechnica.com/gadgets/2024/06/google-accidentally-published-internal-search-documentation-to-github/)
+- [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
 - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
 - [CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40604246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
