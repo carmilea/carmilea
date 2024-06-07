@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No One Wants a New Car Now. Here&#39;s Why](https://www.wsj.com/lifestyle/cars/no-one-wants-a-new-car-now-heres-why-41eba32b)
 - [Slow-spinning radio neutron star breaks all the rules](https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html)
-- [Stanford Follows Harvard, Yale in Reinstating Standardized Tests](https://www.bloomberg.com/news/articles/2024-06-07/stanford-follows-harvard-yale-in-reinstating-standardized-tests)
+- [What Is PID 0?](https://blog.dave.tf/post/linux-pid0/)
 - [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6.html)
 - [D-Day, as told by paratroopers](https://www.politico.com/news/magazine/2024/06/06/d-day-normandy-world-war-ii-paratroopers-00161916?ref=thebrowser.com)
-- [Yes, you can play Duck Hunt without a television &lpar;but I can&#39;t&rpar;](https://nicole.express/2024/no-screen-no-cpu-one-problem.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
