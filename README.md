@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
-- [Instruction Sets Should Be Free: The Case for RISC-V [pdf] &lpar;2014&rpar;](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
-- [How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
-- [Show HN: E-Paper 7-color display showing the current weather](https://github.com/blixt/sol-mate-eink)
-- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- [Washington Post CEO tried to kill story about himself. It wasn&#39;t the first time](https://www.npr.org/2024/06/07/nx-s1-4995105/washington-post-will-lewis-tries-to-kill-story-buzbee)
+- [270GB of source code from The New York Times leaked to 4Chan](https://twitter.com/vxunderground/status/1798856571931263480)
+- [We migrated from AWS to GCP with minimal downtime](https://postgresml.org/blog/how-we-migrated-from-aws-to-gcp-with-minimal-downtime)
+- [Ask HN: How to revoke AI consent from Meta/IG?](https://news.ycombinator.com/item?id=40609838)
+- [Workers at TJ Maxx and Marshalls are wearing police-like body cameras](https://www.cnn.com/2024/06/05/business/tj-maxx-body-cameras-shoplifting/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
