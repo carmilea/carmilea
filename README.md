@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- [Cancel Adobe if you are a creative under NDA with your clients](https://twitter.com/Stretchedwiener/status/1798153619285708909)
-- [The Twitch DJ Program](https://blog.twitch.tv/en/2024/06/06/introducing-the-twitch-dj-program/)
-- [Dblab: Interactive Terminal Client for PostgreSQL, MySQL, SQLite3 and Oracle](https://github.com/danvergara/dblab)
-- [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
+- [Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
+- [Instruction Sets Should Be Free: The Case for RISC-V [pdf] &lpar;2014&rpar;](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
+- [Tom 7: Badness 0 &lpar;Three ways&rpar;](http://tom7.org/bovex/)
+- [A Picture Is Worth 170 Tokens: How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
+- [Show HN: E-Paper 7-color display showing the current weather](https://github.com/blixt/sol-mate-eink)
 <!-- BLOG-POST-LIST:END -->
 
 ---
