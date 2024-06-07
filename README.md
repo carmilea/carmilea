@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CPU-energy-meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
-- [Badness 0 &lpar;Apostrophe&#39;s Version&rpar; &lpar;tom7 for SigBovik 2024&rpar;&rpar; [video]](https://www.youtube.com/watch?v=Y65FRxE7uMc)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40604246)
-- [Uganda&#39;s surveillance state is built on national ID cards](https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system)
-- [Make your program slower with threads &lpar;2014&rpar;](https://brooker.co.za/blog/2014/12/06/random.html)
+- [ThankYouHN: 14 Years](https://news.ycombinator.com/item?id=40605103)
+- [Shopify is acquiring the Threads team](https://framer.threads.com/announcement)
+- [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
+- [Best Buy is shutting down its Samsung repair program](https://www.theverge.com/2024/6/6/24164777/best-buy-ends-samsung-repair-program-geek-squad)
+- [Linguistic Antipatterns](https://www.linguistic-antipatterns.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
