@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What makes gambling wrong but insurance right? &lpar;2017&rpar;](https://www.bbc.com/news/business-38905963)
+- [EU Plans Major Expansion of Mass Surveillance](https://reclaimthenet.org/eu-plans-mass-surveillance-data-collection-device-monitoring-encryption-backdoors)
+- [Start calculating digital carbon emissions in 5 minutes with CO2.js](https://www.thegreenwebfoundation.org/news/start-calculating-digital-carbon-emissions-in-5-minutes-with-co2-js/)
+- [Ventoy – Bootable USB Solution](https://github.com/ventoy/Ventoy)
 - [Beware anti patterns in event driven architecture](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
-- [Scientists wonder if shape of the universe is like a doughnut](https://www.theguardian.com/science/article/2024/jun/08/shape-universe-topology-doughnut-flat-curvature-dimensions)
-- [My favorite 1980&#39;s Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)
-- [Detecting a PS2 Emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
-- [The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
