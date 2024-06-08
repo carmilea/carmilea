@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tokyo&#39;s Government Is Building Its Own Dating App to Combat Falling Birthrates](https://time.com/6986142/japan-tokyo-government-dating-app-marriage/)
+- [Boeing Passenger Jet Nearly Crashes Because of Known Software Bug](https://www.independent.co.uk/travel/tui-boeing-flight-bristol-disaster-avoided-b2558536.html)
 - [What happened to Captura? OSS maintainer burnout &lpar;2023&rpar;](https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html)
 - [Content Injection Attack on GitHub](https://github.com/younesbram/younesbram)
 - [Replit used legal threats to kill my open-source project &lpar;2021&rpar;](https://intuitiveexplanations.com/tech/replit/)
-- [South Pole Water Infrastructure](https://brr.fyi/posts/south-pole-water-infrastructure)
-- [Welcome to the safest time to give birth in human history](https://www.theupwing.com/the-radical-drop-in-maternal-mortality-was-a-public-health-miracle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
