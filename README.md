@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Detecting a PS2 Emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
+- [Leafy vegetables found to contain tire additives](https://e360.yale.edu/digest/tire-chemicals-vegetables-study)
 - [The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
 - [Finite-Time Topology Identification of Delayed Complex Dynamical Networks](https://spj.science.org/doi/10.34133/cbsystems.0092)
 - [LSP-AI: open-source language server serving as back end for AI code assistance](https://github.com/SilasMarvin/lsp-ai)
-- [June 7, 2023 Wildfire Smoke Event](https://storymaps.arcgis.com/stories/cf05c50f058a40e99e2da54ec098a40a)
-- [Tiny fern has the largest genome of any organism on Earth](https://phys.org/news/2024-05-tiny-fern-largest-genome-earth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
