@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Forested Wetlands Are Missing from Maps](https://www.hcn.org/articles/the-wests-wetlands-are-struggling-some-have-been-overlooked-altogether/)
-- [The Crusader-Era Knights Who Volunteered to Fight World War I](https://www.military.com/history/crusader-era-knights-who-volunteered-fight-world-war-i.html)
-- [Flexport &lpar;YC W14&rpar; Is Hiring a Senior Applied Research Scientist](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
-- [South Pole Water Infrastructure](https://brr.fyi/posts/south-pole-water-infrastructure)
-- [Chebyshev approximation and how it can help &lpar;2012&rpar;](https://www.EmbeddedRelated.com/showarticle/152.php)
+- [Show HN: Speed up your Postgres queries by upto 90%](https://github.com/sushrut141/pg_analytica)
+- [Ask HN: How to handle a senior hire turning out to be junior?](https://news.ycombinator.com/item?id=40617786)
+- [Finite-Time Topology Identification of Delayed Complex Dynamical Networks](https://spj.science.org/doi/10.34133/cbsystems.0092)
+- [Forested wetlands are missing from maps](https://www.hcn.org/articles/the-wests-wetlands-are-struggling-some-have-been-overlooked-altogether/)
+- [LSP-AI: open-source language server serving as back end for AI code assistance](https://github.com/SilasMarvin/lsp-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
