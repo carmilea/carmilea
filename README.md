@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What happened to Captura? OSS maintainer burnout &lpar;2023&rpar;](https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html)
+- [Content Injection Attack on GitHub](https://github.com/younesbram/younesbram)
 - [Replit used legal threats to kill my open-source project](https://intuitiveexplanations.com/tech/replit/)
+- [Welcome to the safest time to give birth in human history](https://www.theupwing.com/the-radical-drop-in-maternal-mortality-was-a-public-health-miracle/)
 - [Memory-safe, clean implementation of classic Posix &quot;BC&quot; calculator](https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src)
-- [Chebyshev approximation and how it can help &lpar;2012&rpar;](https://www.EmbeddedRelated.com/showarticle/152.php)
-- [Apollo 8 astronaut William Anders ID&#39;d in WA plane crash](https://www.fox13seattle.com/news/william-anders-wa-plane-crash)
-- [3dfx Voodoo 4 video card in MXM format &lpar;2023&rpar;](https://www.vogons.org/viewtopic.php?t=100871)
 <!-- BLOG-POST-LIST:END -->
 
 ---
