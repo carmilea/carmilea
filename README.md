@@ -59,8 +59,8 @@
 - [What happened to Captura? OSS maintainer burnout &lpar;2023&rpar;](https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html)
 - [Content Injection Attack on GitHub](https://github.com/younesbram/younesbram)
 - [Replit used legal threats to kill my open-source project &lpar;2021&rpar;](https://intuitiveexplanations.com/tech/replit/)
+- [South Pole Water Infrastructure](https://brr.fyi/posts/south-pole-water-infrastructure)
 - [Welcome to the safest time to give birth in human history](https://www.theupwing.com/the-radical-drop-in-maternal-mortality-was-a-public-health-miracle/)
-- [Memory-safe, clean implementation of classic Posix &quot;BC&quot; calculator](https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src)
 <!-- BLOG-POST-LIST:END -->
 
 ---
