@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No One Wants a New Car Now. Here&#39;s Why](https://www.wsj.com/lifestyle/cars/no-one-wants-a-new-car-now-heres-why-41eba32b)
+- [Apollo 8 astronaut William Anders ID&#39;d in WA plane crash](https://www.fox13seattle.com/news/william-anders-wa-plane-crash)
+- [3dfx Voodoo 4 video card in MXM format](https://www.vogons.org/viewtopic.php?t=100871)
 - [Slow-spinning radio neutron star breaks all the rules](https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html)
 - [What Is PID 0?](https://blog.dave.tf/post/linux-pid0/)
 - [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6.html)
-- [D-Day, as told by paratroopers](https://www.politico.com/news/magazine/2024/06/06/d-day-normandy-world-war-ii-paratroopers-00161916?ref=thebrowser.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
