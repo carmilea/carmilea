@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Performance on a &quot;Toy&quot; Computer: From Python to Rust](https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust)
 - [Memory-safe, clean implementation of classic Posix &quot;BC&quot; calculator](https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src)
-- [Chebyshev approximation and how it can help](https://www.EmbeddedRelated.com/showarticle/152.php)
+- [Chebyshev approximation and how it can help &lpar;2012&rpar;](https://www.EmbeddedRelated.com/showarticle/152.php)
 - [Apollo 8 astronaut William Anders ID&#39;d in WA plane crash](https://www.fox13seattle.com/news/william-anders-wa-plane-crash)
 - [3dfx Voodoo 4 video card in MXM format &lpar;2023&rpar;](https://www.vogons.org/viewtopic.php?t=100871)
+- [Slow-spinning radio neutron star breaks all the rules](https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
