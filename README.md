@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chebyshev approximation and how it can help](https://www.EmbeddedRelated.com/showarticle/152.php)
 - [Apollo 8 astronaut William Anders ID&#39;d in WA plane crash](https://www.fox13seattle.com/news/william-anders-wa-plane-crash)
-- [3dfx Voodoo 4 video card in MXM format](https://www.vogons.org/viewtopic.php?t=100871)
+- [3dfx Voodoo 4 video card in MXM format &lpar;2023&rpar;](https://www.vogons.org/viewtopic.php?t=100871)
 - [Slow-spinning radio neutron star breaks all the rules](https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html)
 - [What Is PID 0?](https://blog.dave.tf/post/linux-pid0/)
-- [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
