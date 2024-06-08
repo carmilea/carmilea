@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
 - [What makes gambling wrong but insurance right? &lpar;2017&rpar;](https://www.bbc.com/news/business-38905963)
-- [EU Plans Major Expansion of Mass Surveillance](https://reclaimthenet.org/eu-plans-mass-surveillance-data-collection-device-monitoring-encryption-backdoors)
-- [Start calculating digital carbon emissions in 5 minutes with CO2.js](https://www.thegreenwebfoundation.org/news/start-calculating-digital-carbon-emissions-in-5-minutes-with-co2-js/)
-- [Ventoy – Bootable USB Solution](https://github.com/ventoy/Ventoy)
+- [Chat TUI for Ollama](https://github.com/ggozad/oterm)
+- [Creating a matchmaker for your multiplayer game](https://mas-bandwidth.com/creating-a-matchmaker-for-your-multiplayer-game/)
 - [Beware anti patterns in event driven architecture](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
