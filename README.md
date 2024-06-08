@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Speed up your Postgres queries by upto 90%](https://github.com/sushrut141/pg_analytica)
-- [Ask HN: How to handle a senior hire turning out to be junior?](https://news.ycombinator.com/item?id=40617786)
+- [The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
 - [Finite-Time Topology Identification of Delayed Complex Dynamical Networks](https://spj.science.org/doi/10.34133/cbsystems.0092)
-- [Forested wetlands are missing from maps](https://www.hcn.org/articles/the-wests-wetlands-are-struggling-some-have-been-overlooked-altogether/)
 - [LSP-AI: open-source language server serving as back end for AI code assistance](https://github.com/SilasMarvin/lsp-ai)
+- [June 7, 2023 Wildfire Smoke Event](https://storymaps.arcgis.com/stories/cf05c50f058a40e99e2da54ec098a40a)
+- [Tiny fern has the largest genome of any organism on Earth](https://phys.org/news/2024-05-tiny-fern-largest-genome-earth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
