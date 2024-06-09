@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Teams of LLM Agents Can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)
+- [The Weird Nerd comes with trade-offs](https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs)
+- [Ultrasonic Investigations in Shopping Centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html)
 - [Spam blocklist SORBS closed by its owner, Proofpoint](https://www.theregister.com/2024/06/07/sorbs_closed/)
-- [The Era of the Autodidact Is Here](https://medium.com/swlh/the-era-of-the-autodidact-has-arrived-9fb085cc51af)
-- [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
-- [Venezuela&#39;s Last Glacier, Humboldt, Has Melted Away](https://scitechdaily.com/venezuelas-last-glacier-humboldt-has-melted-away/)
+- [Show HN: We&#39;ve open-sourced our LLM attention visualization library](https://github.com/labmlai/inspectus)
+- [Show HN: I made a web game that makes practicing basic arithmetic fun](https://www.worchle.com/mathic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
