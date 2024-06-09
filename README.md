@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [British Nuclear Warning System](http://www.ringbell.co.uk/ukwmo/Page211.htm)
 - [Designing a Lego orrery](https://marian42.de/article/orrery/)
+- [Researcher suggests that gravity can exist without mass](https://phys.org/news/2024-06-gravity-mass-mitigating-hypothetical-dark.html)
 - [A Revolution in Biology](https://www.bitsofwonder.co/p/a-revolution-in-biology)
 - [Keylogger discovered in image generator extension](https://old.reddit.com/r/comfyui/comments/1dbls5n/psa_if_youve_used_the_comfyui_llmvision_node_from/)
-- [A look at search engines with their own indexes &lpar;2021&rpar;](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
-- [Ask HN: Is KDB a sane choice for a datalake in 2024?](https://news.ycombinator.com/item?id=40625800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
