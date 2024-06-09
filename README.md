@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We went solar and here are the real numbers &lpar;2021&rpar;](https://joshuatauberer.medium.com/we-went-solar-and-here-are-the-real-numbers-7a7f28d51897)
-- [Decent Patterns](https://decentpatterns.com/)
-- [Your Phone, Minus the Distractions](https://getbrick.app/)
-- [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
-- [Next-generation web framework Teo, supports Node.js, Python and Rust](https://teodev.io)
+- [Högertrafikomläggningen](https://en.wikipedia.org/wiki/Dagen_H)
+- [How many High Streets are there in London?](https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html)
+- [Volvo to shift EV production to Europe to escape China tariffs](https://www.thetimes.com/business-money/companies/article/volvo-to-shift-ev-production-to-europe-to-escape-china-tariffs-btx9swhr6)
+- [piku: The tiniest PaaS you&#39;ve ever seen](https://github.com/piku/piku)
+- [Betula – federated bookmarking software for the independent web](https://betula.mycorrhiza.wiki/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
