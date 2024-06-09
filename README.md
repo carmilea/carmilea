@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Functional Programming Hiring Problem](https://blog.janissary.xyz/posts/hiring-functional-programming)
+- [On being brought up by libertarian economists](https://daviddfriedman.substack.com/p/on-being-brought-up-by-libertarian)
+- [Heretical thoughts about science and society &lpar;2005&rpar;](https://www.edge.org/conversation/freeman_dyson-heretical-thoughts-about-science-and-society)
+- [A ChatGPT mistake cost us $10k](https://asim.bearblog.dev/how-a-single-chatgpt-mistake-cost-us-10000/)
 - [Woman set up a table to share her collection of washers. Nothing was for sale](https://twitter.com/revjaydub/status/1799212814646796648)
-- [How MBAs failed Boeing: Business Case study [video]](https://www.youtube.com/watch?v=AnOqz5TsumU)
-- [British Nuclear Warning System](http://www.ringbell.co.uk/ukwmo/Page211.htm)
-- [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
-- [Libtree: Ldd as a tree saying why a library is found or not](https://github.com/haampie/libtree)
 <!-- BLOG-POST-LIST:END -->
 
 ---
