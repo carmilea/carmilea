@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Steve Jackson Games, Inc. vs. United States Secret Service &lpar;1993&rpar;](https://en.wikipedia.org/wiki/Steve_Jackson_Games,_Inc._v._United_States_Secret_Service)
+- [US hits 180 GW of solar power](https://www.freethink.com/energy/solar-power-in-the-us)
+- [Tesla Threatens Customer with $50K Fine If He Tries to Sell His Cybertruck](https://jalopnik.com/tesla-threatens-customer-threatened-with-50-000-fine-i-1851521421)
+- [With congestion pricing stop, New York City enters new era of economic gridlock](https://www.cnbc.com/2024/06/09/with-congestion-pricing-stop-nyc-enters-new-economic-gridlock-era.html)
 - [The Weird Nerd comes with trade-offs](https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs)
-- [Ultrasonic Investigations in Shopping Centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html)
-- [Spam blocklist SORBS closed by its owner, Proofpoint](https://www.theregister.com/2024/06/07/sorbs_closed/)
-- [Show HN: We&#39;ve open-sourced our LLM attention visualization library](https://github.com/labmlai/inspectus)
-- [Show HN: I made a web game that makes practicing basic arithmetic fun](https://www.worchle.com/mathic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
