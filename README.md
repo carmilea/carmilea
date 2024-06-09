@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Phone, Minus the Distractions](https://getbrick.app/)
+- [Super Heavy landing burn and soft splashdown in the Gulf of Mexico [video]](https://twitter.com/SpaceX/status/1799458854067118450)
 - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
 - [Next-generation web framework Teo, supports Node.js, Python and Rust](https://teodev.io)
 - [Scalable MatMul-Free Language Modeling](https://arxiv.org/abs/2406.02528)
-- [The binding of cosmological structures by massless topological defects](https://academic.oup.com/mnras/article/531/1/1630/7673084)
-- [Viagra improves brain blood flow and could help to prevent dementia](https://www.ox.ac.uk/news/2024-06-07-sildenafil-viagra-improves-brain-blood-flow-and-could-help-prevent-dementia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
