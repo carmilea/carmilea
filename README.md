@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Domain migrated from Google to Squarespace went down after 1 month](https://news.ycombinator.com/item?id=40623332)
-- [How many High Streets are there in London?](https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html)
-- [Remember When You Named Your Girlfriend as a Beneficiary? He Didn&#39;t Either](https://www.williamhalaw.com/post/8/)
-- [piku: The tiniest PaaS you&#39;ve ever seen](https://github.com/piku/piku)
-- [Betula – federated bookmarking software for the independent web](https://betula.mycorrhiza.wiki/)
+- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+- [Interview with Ton Roosendaal, the man behind Blender&lpar;2018&rpar;[video]](https://www.youtube.com/watch?v=qJEWOTZnFeg)
+- [Discussions: Flat or Threaded? &lpar;2006&rpar;](https://blog.codinghorror.com/discussions-flat-or-threaded/)
+- [Napoleon&#39;s Traveling Libraries](https://twitter.com/napsarkozy/status/1755629139237671332)
+- [Högertrafikomläggningen](https://en.wikipedia.org/wiki/Dagen_H)
 <!-- BLOG-POST-LIST:END -->
 
 ---
