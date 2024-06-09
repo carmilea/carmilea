@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Teams of LLM Agents Can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)
+- [Spam blocklist SORBS closed by its owner, Proofpoint](https://www.theregister.com/2024/06/07/sorbs_closed/)
 - [The Era of the Autodidact Is Here](https://medium.com/swlh/the-era-of-the-autodidact-has-arrived-9fb085cc51af)
 - [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
 - [Venezuela&#39;s Last Glacier, Humboldt, Has Melted Away](https://scitechdaily.com/venezuelas-last-glacier-humboldt-has-melted-away/)
-- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
-- [Economic Termites Are Everywhere: stats hide the experience of being cheated](https://www.thebignewsletter.com/p/economic-termites-are-everywhere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
