@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Högertrafikomläggningen](https://en.wikipedia.org/wiki/Dagen_H)
+- [Tell HN: Domain migrated from Google to Squarespace went down after 1 month](https://news.ycombinator.com/item?id=40623332)
 - [How many High Streets are there in London?](https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html)
 - [Remember When You Named Your Girlfriend as a Beneficiary? He Didn&#39;t Either](https://www.williamhalaw.com/post/8/)
-- [Volvo to shift EV production to Europe to escape China tariffs](https://www.thetimes.com/business-money/companies/article/volvo-to-shift-ev-production-to-europe-to-escape-china-tariffs-btx9swhr6)
 - [piku: The tiniest PaaS you&#39;ve ever seen](https://github.com/piku/piku)
+- [Betula – federated bookmarking software for the independent web](https://betula.mycorrhiza.wiki/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
