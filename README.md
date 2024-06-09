@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mere Presence of One&#39;s Own Smartphone Reduces Available Cognitive Capacity &lpar;2017&rpar;](https://www.journals.uchicago.edu/doi/10.1086/691462)
-- [Mozilla silently bans 2 anti-state-censorship add-ons in Russia](https://discourse.mozilla.org/t/the-censorship-circumvention-extension-has-disappeared-from-the-russian-version-of-mozilla-addons/130914)
 - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
 - [Next-generation web framework Teo, supports Node.js, Python and Rust](https://teodev.io)
 - [Scalable MatMul-Free Language Modeling](https://arxiv.org/abs/2406.02528)
+- [The binding of cosmological structures by massless topological defects](https://academic.oup.com/mnras/article/531/1/1630/7673084)
+- [Viagra improves brain blood flow and could help to prevent dementia](https://www.ox.ac.uk/news/2024-06-07-sildenafil-viagra-improves-brain-blood-flow-and-could-help-prevent-dementia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
