@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Synapse bankruptcy trustee says $85M of customer savings is missing](https://www.cnbc.com/2024/06/07/synapse-bankruptcy-trustee-85-million-of-customer-savings-is-missing.html)
+- [Scalable MatMul-Free Language Modeling](https://arxiv.org/abs/2406.02528)
 - [The binding of cosmological structures by massless topological defects](https://academic.oup.com/mnras/article/531/1/1630/7673084)
-- [AI Appears to Rapidly Be Approaching Brick Wall Where It Can&#39;t Get Smarter](https://futurism.com/the-byte/ai-running-out-data-smarter)
-- [Anyone else lurk and feel like they understand nothing?](https://news.ycombinator.com/item?id=40620764)
 - [Viagra improves brain blood flow and could help to prevent dementia](https://www.ox.ac.uk/news/2024-06-07-sildenafil-viagra-improves-brain-blood-flow-and-could-help-prevent-dementia)
+- [Draw an iceberg and see how it will float](https://joshdata.me/iceberger.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
