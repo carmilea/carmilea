@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We went solar and here are the real numbers &lpar;2011&rpar;](https://joshuatauberer.medium.com/we-went-solar-and-here-are-the-real-numbers-7a7f28d51897)
 - [Your Phone, Minus the Distractions](https://getbrick.app/)
 - [Super Heavy landing burn and soft splashdown in the Gulf of Mexico [video]](https://twitter.com/SpaceX/status/1799458854067118450)
 - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
 - [Next-generation web framework Teo, supports Node.js, Python and Rust](https://teodev.io)
-- [Scalable MatMul-Free Language Modeling](https://arxiv.org/abs/2406.02528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
