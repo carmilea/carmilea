@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Evaluation of Machine Learning Primitives on a Digital Signal Processor](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1457863&dswid=-740)
-- [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
-- [Chat TUI for Ollama](https://github.com/ggozad/oterm)
-- [Creating a matchmaker for your multiplayer game](https://mas-bandwidth.com/creating-a-matchmaker-for-your-multiplayer-game/)
-- [Beware anti patterns in event driven architecture](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
+- [Synapse bankruptcy trustee says $85M of customer savings is missing](https://www.cnbc.com/2024/06/07/synapse-bankruptcy-trustee-85-million-of-customer-savings-is-missing.html)
+- [The binding of cosmological structures by massless topological defects](https://academic.oup.com/mnras/article/531/1/1630/7673084)
+- [AI Appears to Rapidly Be Approaching Brick Wall Where It Can&#39;t Get Smarter](https://futurism.com/the-byte/ai-running-out-data-smarter)
+- [Anyone else lurk and feel like they understand nothing?](https://news.ycombinator.com/item?id=40620764)
+- [Viagra improves brain blood flow and could help to prevent dementia](https://www.ox.ac.uk/news/2024-06-07-sildenafil-viagra-improves-brain-blood-flow-and-could-help-prevent-dementia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
