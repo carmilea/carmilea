@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Woman set up a table to share her collection of washers. Nothing was for sale](https://twitter.com/revjaydub/status/1799212814646796648)
+- [How MBAs failed Boeing: Business Case study [video]](https://www.youtube.com/watch?v=AnOqz5TsumU)
 - [British Nuclear Warning System](http://www.ringbell.co.uk/ukwmo/Page211.htm)
-- [Designing a Lego orrery](https://marian42.de/article/orrery/)
-- [Researcher suggests that gravity can exist without mass](https://phys.org/news/2024-06-gravity-mass-mitigating-hypothetical-dark.html)
-- [A Revolution in Biology](https://www.bitsofwonder.co/p/a-revolution-in-biology)
-- [Keylogger discovered in image generator extension](https://old.reddit.com/r/comfyui/comments/1dbls5n/psa_if_youve_used_the_comfyui_llmvision_node_from/)
+- [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
+- [Libtree: Ldd as a tree saying why a library is found or not](https://github.com/haampie/libtree)
 <!-- BLOG-POST-LIST:END -->
 
 ---
