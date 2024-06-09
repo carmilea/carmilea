@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Revolution in Biology](https://www.bitsofwonder.co/p/a-revolution-in-biology)
 - [Why no one should use the AT&amp;T syntax ever, for any reason &lpar;2021&rpar;](https://outerproduct.net/2021-02-13_att-asm.html)
 - [Keylogger discovered in image generator extension](https://old.reddit.com/r/comfyui/comments/1dbls5n/psa_if_youve_used_the_comfyui_llmvision_node_from/)
+- [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 - [Is KDB a sane choice for a datalake in 2024?](https://news.ycombinator.com/item?id=40625800)
-- [The Weird Nerd comes with trade-offs](https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs)
-- [Ultrasonic Investigations in Shopping Centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
