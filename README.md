@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Steve Jackson Games, Inc. vs. United States Secret Service &lpar;1993&rpar;](https://en.wikipedia.org/wiki/Steve_Jackson_Games,_Inc._v._United_States_Secret_Service)
-- [US hits 180 GW of solar power](https://www.freethink.com/energy/solar-power-in-the-us)
-- [Tesla Threatens Customer with $50K Fine If He Tries to Sell His Cybertruck](https://jalopnik.com/tesla-threatens-customer-threatened-with-50-000-fine-i-1851521421)
-- [With congestion pricing stop, New York City enters new era of economic gridlock](https://www.cnbc.com/2024/06/09/with-congestion-pricing-stop-nyc-enters-new-economic-gridlock-era.html)
+- [Why no one should use the AT&amp;T syntax ever, for any reason &lpar;2021&rpar;](https://outerproduct.net/2021-02-13_att-asm.html)
+- [Keylogger discovered in image generator extension](https://old.reddit.com/r/comfyui/comments/1dbls5n/psa_if_youve_used_the_comfyui_llmvision_node_from/)
+- [Is KDB a sane choice for a datalake in 2024?](https://news.ycombinator.com/item?id=40625800)
 - [The Weird Nerd comes with trade-offs](https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs)
+- [Ultrasonic Investigations in Shopping Centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
