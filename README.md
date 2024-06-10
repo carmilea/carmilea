@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Omakub – Opinionated Ubuntu Setup](https://github.com/basecamp/omakub)
-- [My Month Without a Smartphone](https://collabfund.com/blog/my-month-without-a-smartphone/)
+- [Apple WWDC Event Will Show Whether It Can Be a Force in AI Industry](https://www.bloomberg.com/news/articles/2024-06-10/apple-wwdc-event-will-show-whether-it-can-be-a-force-in-ai-industry)
+- [It is time for more holistic practices in mental health](https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000028)
 - [Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
 - [Qualcomm Snapdragon X Elite prototype that runs Linux emerges](https://www.techradar.com/pro/qualcomm-snapdragon-x-elite-prototype-that-runs-linux-emerges-from-a-brand-youve-probably-never-heard-of-schenker-tuxedo-has-12-core-cpu-with-32gb-ram-and-surprise-surprise-debian)
-- [On being brought up by libertarian economists](https://daviddfriedman.substack.com/p/on-being-brought-up-by-libertarian)
+- [A ChatGPT mistake cost us $10k](https://asim.bearblog.dev/how-a-single-chatgpt-mistake-cost-us-10000/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
