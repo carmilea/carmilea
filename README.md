@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Mesop: Build web apps in Python](https://github.com/google/mesop)
+- [Qualcomm Snapdragon X Elite prototype that runs Linux emerges](https://www.techradar.com/pro/qualcomm-snapdragon-x-elite-prototype-that-runs-linux-emerges-from-a-brand-youve-probably-never-heard-of-schenker-tuxedo-has-12-core-cpu-with-32gb-ram-and-surprise-surprise-debian)
+- [&quot;Confidential&quot; 988 Conversation Records Shared with Corporations](https://www.madinamerica.com/2024/06/988-records-shared/)
 - [The Functional Programming Hiring Problem](https://blog.janissary.xyz/posts/hiring-functional-programming)
 - [On being brought up by libertarian economists](https://daviddfriedman.substack.com/p/on-being-brought-up-by-libertarian)
-- [Heretical thoughts about science and society &lpar;2005&rpar;](https://www.edge.org/conversation/freeman_dyson-heretical-thoughts-about-science-and-society)
-- [A ChatGPT mistake cost us $10k](https://asim.bearblog.dev/how-a-single-chatgpt-mistake-cost-us-10000/)
-- [Woman set up a table to share her collection of washers. Nothing was for sale](https://twitter.com/revjaydub/status/1799212814646796648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
