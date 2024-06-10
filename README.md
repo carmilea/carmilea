@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s new in Xcode 16 [video]](https://developer.apple.com/videos/play/wwdc2024/10135/)
+- [Oracle Java police start knocking on Fortune 200&#39;s doors for first time](https://www.theregister.com/2024/06/10/fortune_200_oracle_java_audit/)
+- [Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
 - [Apple&#39;s On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
-- [Heard of Idempotency but unsure what it is?](https://timmoth.github.io/AsyncMonolith/posts/idempotency/)
-- [New GitHub Organization for the Swift Project](https://www.swift.org/blog/swiftlang-github/)
-- [Trieve &lpar;YC W24&rpar; Is Hiring an DevRel Software Engineer](https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer)
-- [The New Math of How Large-Scale Order Emerges](https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/)
+- [Malicious VSCode extensions with installs discovered](https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-with-millions-of-installs-discovered/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
