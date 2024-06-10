@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Patrick Breyer and Pirate Party Lose EU Parliament Seats](https://stackdiary.com/patrick-breyer-and-pirate-party-lose-eu-parliament-seats/)
-- [WebKit Fix: Quirk News.Y Combinator to Skip TextAutoSizing](https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3)
+- [Robot Programming: Stop Designing Software for Non-Roboticists](https://spectrum.ieee.org/the-mythical-non-roboticist)
+- [WebKit fix: Quirk news.ycombinator to skip TextAutoSizing](https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3)
+- [Elsevier embeds a hash in the PDF metadata that is unique for each download](https://social.coop/@jonny/107685726645817029)
+- [Perl v5.40.0 is now available](https://perldoc.perl.org/perldelta)
 - [When &lpar;if ever&rpar; did the Sun set on the British Empire?](https://what-if.xkcd.com/48/)
-- [The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix &lpar;2023&rpar; [pdf]](https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf)
-- [It is time for more holistic practices in mental health](https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
