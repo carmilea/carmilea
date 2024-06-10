@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brainbase &lpar;YC W24&rpar; Is Hiring Head of Product](https://www.ycombinator.com/companies/brainbase/jobs/W62qIfA-founding-head-of-product)
-- [Show HN: Probabilistic Tic-Tac-Toe](https://www.csun.io/2024/06/08/probabilistic-tic-tac-toe.html)
-- [WWDC 2024 [video]](https://www.youtube.com/watch?v=RXeOiIDNNek)
-- [XScreenSaver is available on Android. Google requires a privacy policy](https://chaos.social/@scy/112591102162587559)
-- [Gainax, known for &#39;Evangelion&#39; anime production, goes bankrupt](https://www.japantimes.co.jp/business/2024/06/08/evangelion-anime-production-company-bankrupt/)
+- [Apple blocks PC emulator in iOS App Store and third-party app stores](https://9to5mac.com/2024/06/09/apple-blocks-pc-emulator-utm-app-store/)
+- [Forget LastPass: Apple unveils &#39;Passwords&#39; manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)
+- [OpenAI Welcomes Sarah Friar &lpar;CFO&rpar; and Kevin Weil &lpar;CPO&rpar;](https://openai.com/index/openai-welcomes-cfo-cpo/)
+- [Google has been blocking Invidious with error &quot;This helps protect our community&quot;](https://github.com/iv-org/invidious/issues/4734)
+- [How Two Rebel Physicists Changed Quantum Theory](https://daily.jstor.org/how-two-rebel-physicists-changed-quantum-theory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
