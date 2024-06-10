@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple&#39;s On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
+- [Heard of Idempotency but unsure what it is?](https://timmoth.github.io/AsyncMonolith/posts/idempotency/)
+- [New GitHub Organization for the Swift Project](https://www.swift.org/blog/swiftlang-github/)
 - [Trieve &lpar;YC W24&rpar; Is Hiring an DevRel Software Engineer](https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer)
-- [The British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/)
-- [Controversial pesticide research all but vanished from a major conference](https://usrtk.org/bees-neonics/entomological-society-america-corporate-partners/)
-- [MS makes 1984-style monitoring, so how does the Linux community respond?](https://github.com/openrecall/openrecall)
-- [Deterioration of Local Community a Major Driver of Loss of Play-Based Childhood](https://www.afterbabel.com/p/community-based-childhood)
+- [The New Math of How Large-Scale Order Emerges](https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
