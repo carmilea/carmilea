@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI and Apple Announce Partnership](https://openai.com/index/openai-and-apple-announce-partnership/)
+- [macOS Sequoia Preview](https://www.apple.com/macos/macos-sequoia-preview/)
+- [Introducing Apple Intelligence, the personal intelligence system](https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
+- [Apple is launching its own password manager app](https://techcrunch.com/2024/06/10/apple-is-launching-its-own-password-manager-app/)
 - [Apple blocks PC emulator in iOS App Store and third-party app stores](https://9to5mac.com/2024/06/09/apple-blocks-pc-emulator-utm-app-store/)
-- [Forget LastPass: Apple unveils &#39;Passwords&#39; manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)
-- [OpenAI Welcomes Sarah Friar &lpar;CFO&rpar; and Kevin Weil &lpar;CPO&rpar;](https://openai.com/index/openai-welcomes-cfo-cpo/)
-- [Google has been blocking Invidious with error &quot;This helps protect our community&quot;](https://github.com/iv-org/invidious/issues/4734)
-- [How Two Rebel Physicists Changed Quantum Theory](https://daily.jstor.org/how-two-rebel-physicists-changed-quantum-theory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
