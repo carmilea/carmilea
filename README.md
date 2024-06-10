@@ -43,7 +43,7 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Beginners Guide to RAG Agents with Professor Tom Yeh](https://www.youtube.com/watch?v=xRJuJC2M8zI)
+- [Beginners Guide to RAG Agents with Professor Tom Yeh | SingleStore Webinars](https://www.youtube.com/watch?v=xRJuJC2M8zI)
 - [Zapier Central + SingleStore = Full RAG Agents | SingleStore Webinars](https://www.youtube.com/watch?v=zBzK4Sq29yc)
 - [How Promising is GitHub Copilot?](https://www.youtube.com/watch?v=3uNdIIkBkD4)
 - [6Sense Co-founder Premal Shah on Migrating to the Cloud](https://www.youtube.com/watch?v=e_UnezQcpzo)
