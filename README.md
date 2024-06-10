@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Robot Programming: Stop Designing Software for Non-Roboticists](https://spectrum.ieee.org/the-mythical-non-roboticist)
+- [Study finds a quarter of bosses hoped RTO would make employees quit](https://www.theregister.com/2024/06/09/rto_quit_study/)
+- [The Mythical Non-Roboticist: Wouldn&#39;t it be great if everyone could do robotics?](https://spectrum.ieee.org/the-mythical-non-roboticist)
 - [WebKit fix: Quirk news.ycombinator to skip TextAutoSizing](https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3)
-- [Elsevier embeds a hash in the PDF metadata that is unique for each download](https://social.coop/@jonny/107685726645817029)
-- [Perl v5.40.0 is now available](https://perldoc.perl.org/perldelta)
+- [Elsevier embeds a hash in the PDF metadata that is unique for each download &lpar;2022&rpar;](https://social.coop/@jonny/107685726645817029)
 - [When &lpar;if ever&rpar; did the Sun set on the British Empire?](https://what-if.xkcd.com/48/)
 <!-- BLOG-POST-LIST:END -->
 
