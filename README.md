@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to the Era of Garbage Film and Television Streaming](https://jacobin.com/2024/06/tv-streaming-private-equity/)
+- [The Meaning of Bitcoin](https://maraoz.com/2024/06/10/bitcoin/)
+- [Tuxedo on ARM Is Coming](https://www.tuxedocomputers.com/en/TUXEDO-on-ARM-is-coming.tuxedo)
+- [Show HN: Markdown HN profiles at {user}.at.hn](https://at.hn)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=40632641)
-- [Senior employees, ordered back to the office, are jumping ship](https://www.computerworld.com/article/2138277/senior-employees-ordered-back-to-the-office-are-jumping-ship.html)
-- [First detection of negative ions on the Moon](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/First_detection_of_negative_ions_on_the_Moon)
-- [&quot;How people fall apart&quot;: The Neuroscience of Burnout](https://yaledailynews.com/blog/2022/03/29/how-people-fall-apart-yale-faculty-discuss-the-impact-of-burnout-on-the-brain/)
-- [The Mythical Non-Roboticist: Wouldn&#39;t it be great if everyone could do robotics?](https://spectrum.ieee.org/the-mythical-non-roboticist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
