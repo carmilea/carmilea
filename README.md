@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Omakub – Opinionated Ubuntu Setup](https://github.com/basecamp/omakub)
+- [My Month Without a Smartphone](https://collabfund.com/blog/my-month-without-a-smartphone/)
 - [Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
-- [Show HN: AI-powered API that instantly obtains website information](https://siteprofile.io/)
-- [&quot;AI-powered&quot; has become a red flag](https://iml.bearblog.dev/ai-powered-has-become-a-red-flag/)
 - [Qualcomm Snapdragon X Elite prototype that runs Linux emerges](https://www.techradar.com/pro/qualcomm-snapdragon-x-elite-prototype-that-runs-linux-emerges-from-a-brand-youve-probably-never-heard-of-schenker-tuxedo-has-12-core-cpu-with-32gb-ram-and-surprise-surprise-debian)
 - [On being brought up by libertarian economists](https://daviddfriedman.substack.com/p/on-being-brought-up-by-libertarian)
 <!-- BLOG-POST-LIST:END -->
