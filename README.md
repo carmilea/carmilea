@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patrick Breyer and Pirate Party Lose EU Parliament Seats](https://stackdiary.com/patrick-breyer-and-pirate-party-lose-eu-parliament-seats/)
+- [WebKit Fix: Quirk News.Y Combinator to Skip TextAutoSizing](https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3)
+- [When &lpar;if ever&rpar; did the Sun set on the British Empire?](https://what-if.xkcd.com/48/)
+- [The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix &lpar;2023&rpar; [pdf]](https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf)
 - [It is time for more holistic practices in mental health](https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000028)
-- [Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
-- [Qualcomm Snapdragon X Elite prototype that runs Linux emerges](https://www.techradar.com/pro/qualcomm-snapdragon-x-elite-prototype-that-runs-linux-emerges-from-a-brand-youve-probably-never-heard-of-schenker-tuxedo-has-12-core-cpu-with-32gb-ram-and-surprise-surprise-debian)
-- [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
-- [Libtree: Ldd as a tree saying why a library is found or not](https://github.com/haampie/libtree)
 <!-- BLOG-POST-LIST:END -->
 
 ---
