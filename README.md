@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI and Apple Announce Partnership](https://openai.com/index/openai-and-apple-announce-partnership/)
-- [macOS Sequoia Preview](https://www.apple.com/macos/macos-sequoia-preview/)
-- [Introducing Apple Intelligence, the personal intelligence system](https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
-- [Apple is launching its own password manager app](https://techcrunch.com/2024/06/10/apple-is-launching-its-own-password-manager-app/)
-- [Apple blocks PC emulator in iOS App Store and third-party app stores](https://9to5mac.com/2024/06/09/apple-blocks-pc-emulator-utm-app-store/)
+- [Trieve &lpar;YC W24&rpar; Is Hiring an DevRel Software Engineer](https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer)
+- [The British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/)
+- [Controversial pesticide research all but vanished from a major conference](https://usrtk.org/bees-neonics/entomological-society-america-corporate-partners/)
+- [MS makes 1984-style monitoring, so how does the Linux community respond?](https://github.com/openrecall/openrecall)
+- [Deterioration of Local Community a Major Driver of Loss of Play-Based Childhood](https://www.afterbabel.com/p/community-based-childhood)
 <!-- BLOG-POST-LIST:END -->
 
 ---
