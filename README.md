@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Insider Estimates 70% Chance AI Will Destroy or Tragically Harm Humanity](https://futurism.com/the-byte/openai-insider-70-percent-doom)
+- [Gainax, known for &#39;Evangelion&#39; anime production, goes bankrupt](https://www.japantimes.co.jp/business/2024/06/08/evangelion-anime-production-company-bankrupt/)
 - [23words.com](https://23words.com)
 - [Mexican Computers: A Brief Technical and Historical Overview](https://arxiv.org/abs/2406.04912)
 - [Show HN: Markdown HN profiles at {user}.at.hn](https://at.hn)
