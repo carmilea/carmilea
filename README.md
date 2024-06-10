@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
-- [Show HN: I Build an AI-Powered API That Instantly Obtains Website Information](https://siteprofile.io/)
-- [Google Mesop: Build web apps in Python](https://github.com/google/mesop)
+- [Show HN: AI-powered API that instantly obtains website information](https://siteprofile.io/)
+- [&quot;AI-powered&quot; has become a red flag](https://iml.bearblog.dev/ai-powered-has-become-a-red-flag/)
 - [Qualcomm Snapdragon X Elite prototype that runs Linux emerges](https://www.techradar.com/pro/qualcomm-snapdragon-x-elite-prototype-that-runs-linux-emerges-from-a-brand-youve-probably-never-heard-of-schenker-tuxedo-has-12-core-cpu-with-32gb-ram-and-surprise-surprise-debian)
-- [&quot;Confidential&quot; 988 Conversation Records Shared with Corporations](https://www.madinamerica.com/2024/06/988-records-shared/)
+- [On being brought up by libertarian economists](https://daviddfriedman.substack.com/p/on-being-brought-up-by-libertarian)
 <!-- BLOG-POST-LIST:END -->
 
 ---
