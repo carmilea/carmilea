@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brainbase &lpar;YC W24&rpar; Is Hiring Head of Product](https://www.ycombinator.com/companies/brainbase/jobs/W62qIfA-founding-head-of-product)
+- [Show HN: Probabilistic Tic-Tac-Toe](https://www.csun.io/2024/06/08/probabilistic-tic-tac-toe.html)
+- [WWDC 2024 [video]](https://www.youtube.com/watch?v=RXeOiIDNNek)
+- [XScreenSaver is available on Android. Google requires a privacy policy](https://chaos.social/@scy/112591102162587559)
 - [Gainax, known for &#39;Evangelion&#39; anime production, goes bankrupt](https://www.japantimes.co.jp/business/2024/06/08/evangelion-anime-production-company-bankrupt/)
-- [23words.com](https://23words.com)
-- [Mexican Computers: A Brief Technical and Historical Overview](https://arxiv.org/abs/2406.04912)
-- [Show HN: Markdown HN profiles at {user}.at.hn](https://at.hn)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=40632641)
 <!-- BLOG-POST-LIST:END -->
 
 ---
