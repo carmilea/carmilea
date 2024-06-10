@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to the Era of Garbage Film and Television Streaming](https://jacobin.com/2024/06/tv-streaming-private-equity/)
-- [The Meaning of Bitcoin](https://maraoz.com/2024/06/10/bitcoin/)
-- [Tuxedo on ARM Is Coming](https://www.tuxedocomputers.com/en/TUXEDO-on-ARM-is-coming.tuxedo)
 - [Show HN: Markdown HN profiles at {user}.at.hn](https://at.hn)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=40632641)
+- [DeGoogling 2024: Replacing Photos, Gmail, and Search](https://guissmo.com/blog/degoogling-2024-alternatives-to-google-that-i-am-using/)
+- [First detection of negative ions on the Moon](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/First_detection_of_negative_ions_on_the_Moon)
+- [&quot;How people fall apart&quot;: The Neuroscience of Burnout &lpar;2022&rpar;](https://yaledailynews.com/blog/2022/03/29/how-people-fall-apart-yale-faculty-discuss-the-impact-of-burnout-on-the-brain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
