@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
 - [Show HN: I Build an AI-Powered API That Instantly Obtains Website Information](https://siteprofile.io/)
-- [Ken Burns, Faux &quot;Storyteller&quot;](https://albertcory50.substack.com/p/ken-burns-faux-storyteller)
 - [Google Mesop: Build web apps in Python](https://github.com/google/mesop)
 - [Qualcomm Snapdragon X Elite prototype that runs Linux emerges](https://www.techradar.com/pro/qualcomm-snapdragon-x-elite-prototype-that-runs-linux-emerges-from-a-brand-youve-probably-never-heard-of-schenker-tuxedo-has-12-core-cpu-with-32gb-ram-and-surprise-surprise-debian)
+- [&quot;Confidential&quot; 988 Conversation Records Shared with Corporations](https://www.madinamerica.com/2024/06/988-records-shared/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
