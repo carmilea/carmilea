@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Noam Chomsky &#39;no longer able to talk&#39; after &#39;medical event&#39;](https://www.independent.co.uk/arts-entertainment/books/news/noam-chomsky-health-update-tributes-b2559831.html)
 - [Back To Atoms: Why we can stop building SaaS and build the future instead.](https://carllippert.com/back-to-atoms/)
 - [Ship Something Every Day](https://maxleiter.com/blog/ship-every-day)
 - [Siberia&#39;s &#39;mammoth graveyard&#39; reveals 800-year human interactions with mammoths](https://phys.org/news/2024-06-siberia-mammoth-graveyard-reveals-year.html)
 - [Intel pauses work on $25B Israel fab](https://www.theregister.com/2024/06/10/intel_israeli_fab/)
-- [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
 <!-- BLOG-POST-LIST:END -->
 
 ---
