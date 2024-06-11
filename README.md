@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Motion &lpar;YC W20&rpar; Is Hiring Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [Norway discovers Europe&#39;s largest deposit of rare earth metals](https://www.cnbc.com/2024/06/11/norway-discovers-europes-largest-deposit-of-rare-earth-metals.html)
-- [Some People with Insomnia Think They&#39;re Awake When They&#39;re Asleep](https://www.scientificamerican.com/article/some-people-with-insomnia-think-theyre-awake-when-theyre-asleep/)
-- [Spam, junk ... slop? The latest wave of AI behind the &#39;zombie internet&#39;](https://www.theguardian.com/technology/article/2024/may/19/spam-junk-slop-the-latest-wave-of-ai-behind-the-zombie-internet)
-- [All three game console makers have now abandoned X integration](https://www.theverge.com/2024/6/11/24175932/nintendo-switch-console-x-twitter-integration-removed)
+- [Canada&#39;s Extremist Attack on Free Speech](https://www.theatlantic.com/ideas/archive/2024/06/canada-online-harms-act/678605/)
+- [Google shuts down GPay app and P2P payments in the US](https://9to5google.com/2024/06/09/gpay-us/)
+- [FDA denies petition against use of phthalates in food packaging](https://www.fda.gov/food/cfsan-constituent-updates/fda-responds-petition-phthalates-food-packaging-and-food-contact-applications)
+- [Microsoft&#39;s official Minesweeper app has ads, pay-to-win, and is hundreds of MBs](https://tech.lgbt/@nina_kali_nina/112594910070716090)
+- [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
