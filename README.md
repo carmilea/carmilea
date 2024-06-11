@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [British duo arrested for SMS phishing via homemade cell tower](https://www.cityoflondon.police.uk/news/city-of-london/news/2024/june/two-people-arrested-in-connection-with-investigation-into-homemade-mobile-antenna-used-to-send-thousands-of-smishing-text-messages-to-the-public/)
 - [macOS 15.0 supports Nested Virtualization on M3 chips](https://developer.apple.com/documentation/virtualization/vzgenericplatformconfiguration/4360553-isnestedvirtualizationsupported)
 - [Blackmagic Cine Immersive Capture for Vision Pro 8160x7200 Resolution per Eye](https://www.newsshooter.com/2024/06/10/blackmagic-ursa-cine-immersive-capture-content-for-apple-vision-pro-with-8160-x-7200-resolution-per-eye/)
 - [Biodiversity enhances immune regulation among daycare children](https://www.science.org/doi/10.1126/sciadv.aba2578)
-- [Genes protective during Black Death may now be increasing autoimmune disorders](https://www.health.harvard.edu/blog/genes-protective-during-the-black-death-may-now-be-increasing-autoimmune-disorders-202212012859)
-- [Noam Chomsky &#39;no longer able to talk&#39; after &#39;medical event&#39;](https://www.independent.co.uk/arts-entertainment/books/news/noam-chomsky-health-update-tributes-b2559831.html)
+- [Genes protective during Black Death may now be increasing autoimmune disorders &lpar;2022&rpar;](https://www.health.harvard.edu/blog/genes-protective-during-the-black-death-may-now-be-increasing-autoimmune-disorders-202212012859)
 <!-- BLOG-POST-LIST:END -->
 
 ---
