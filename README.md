@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wipeout XL/2097: The Making of an Iconic PlayStation Soundtrack [video]](https://www.youtube.com/watch?v=-nwWpQJFGp8)
 - [Tea Punch Was the First Cocktail](https://www.atlasobscura.com/articles/tea-punch-was-the-first-cocktail)
-- [OpenAI Selects Oracle Cloud Infrastructure to Extend Microsoft Azure AI Platform](https://www.oracle.com/news/announcement/openai-selects-oracle-cloud-infrastructure-to-extend-microsoft-azure-ai-platform-2024-06-11/)
 - [Elon Musk drops suit against OpenAI and Sam Altman](https://www.cnbc.com/2024/06/11/elon-musk-drops-suit-against-openai-and-sam-altman.html)
 - [Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
+- [Flameshot – Open-source screenshot software](https://flameshot.org/)
+- [The Rate of Return on Everything, 1870–2015 &lpar;2019&rpar;](https://academic.oup.com/qje/article/134/3/1225/5435538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
