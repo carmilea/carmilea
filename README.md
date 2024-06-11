@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Virtual Geometry in Bevy 0.14](https://jms55.github.io/posts/2024-06-09-virtual-geometry-bevy-0-14/)
-- [Flow claims it can 100x any CPU&#39;s power with its companion chip](https://techcrunch.com/2024/06/11/flow-claims-it-can-100x-any-cpus-power-with-its-companion-chip-and-some-elbow-grease/)
-- [Did startup Flow Computing just make CPUs 100x faster?](https://www.theverge.com/2024/6/11/24176304/flow-computing-startup-parallel-processing-accelerator)
-- [Federighi says Apple hopes to add Google Gemini and other AI models to iOS 18](https://9to5mac.com/2024/06/10/craig-federighi-says-apple-hopes-to-add-google-gemini-and-other-ai-models-to-ios-18/)
-- [Polars Pre-release v1.0.0](https://github.com/pola-rs/polars/releases/tag/py-1.0.0-alpha.1)
+- [Mistral AI raises $640M at $6B valuation](https://www.generalcatalyst.com/perspectives/tripling-down-on-mistral-ai)
+- [OpenAI Selects Oracle Cloud Infrastructure to Extend Microsoft Azure AI Platform](https://www.oracle.com/news/announcement/openai-selects-oracle-cloud-infrastructure-to-extend-microsoft-azure-ai-platform-2024-06-11/)
+- [Elon Musk drops suit against OpenAI and Sam Altman](https://www.cnbc.com/2024/06/11/elon-musk-drops-suit-against-openai-and-sam-altman.html)
+- [Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
+- [The Rate of Return on Everything, 1870–2015 &lpar;2019&rpar;](https://academic.oup.com/qje/article/134/3/1225/5435538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
