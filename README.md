@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Private Equity–Backed Firm Bowlero Is Ruining Bowling](https://jacobin.com/2024/05/private-equity-bowlero-ruining-bowling/)
-- [I like the RP2040](https://dgroshev.com/blog/rp2040/)
-- [First Came &#39;Spam.&#39; Now, with A.I., We&#39;ve Got &#39;Slop&#39;](https://www.nytimes.com/2024/06/11/style/ai-search-slop.html)
-- [Australian Border Force searched phones of 10k travellers in past two years](https://www.theguardian.com/australia-news/article/2024/jun/11/australian-border-force-abf-searching-phones-travellers-data)
-- [Battery-swap networks are preventing emergency blackouts](https://www.technologyreview.com/2024/06/11/1093465/battery-swap-gogoro-taiwan-earthquake/)
+- [Motion &lpar;YC W20&rpar; Is Hiring Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [Norway discovers Europe&#39;s largest deposit of rare earth metals](https://www.cnbc.com/2024/06/11/norway-discovers-europes-largest-deposit-of-rare-earth-metals.html)
+- [Some People with Insomnia Think They&#39;re Awake When They&#39;re Asleep](https://www.scientificamerican.com/article/some-people-with-insomnia-think-theyre-awake-when-theyre-asleep/)
+- [Spam, junk ... slop? The latest wave of AI behind the &#39;zombie internet&#39;](https://www.theguardian.com/technology/article/2024/may/19/spam-junk-slop-the-latest-wave-of-ai-behind-the-zombie-internet)
+- [All three game console makers have now abandoned X integration](https://www.theverge.com/2024/6/11/24175932/nintendo-switch-console-x-twitter-integration-removed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
