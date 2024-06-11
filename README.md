@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google&#39;s Pixel 8 series gets USB-C to DisplayPort; desktop mode rumors heat up](https://arstechnica.com/gadgets/2024/06/googles-pixel-8-series-finally-supports-displayport/)
+- [Mastercard Launches Its Biometric Retail Payment System in Europe](https://www.nakedcapitalism.com/2024/06/mastercards-biometric-retail-payment-system-finally-arrives-in-europe-following-pilot-tests-in-global-south.html)
+- [Your Body Is Not &quot;Attacking Itself&quot; &lpar;On Autoimmune Disorders&rpar;](https://christianbonanno.substack.com/p/your-body-is-not-attacking-itself)
 - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
-- [Kia Issues &#39;Park Outside&#39; Recall for 2020-2024 Telluride Vehicles for Fire Risk](https://www.nhtsa.gov/press-releases/kia-telluride-recall-fire-risk)
-- [Lynn Conway Has Died](https://en.wikipedia.org/wiki/Lynn_Conway)
-- [Coqui.ai TTS: A Deep Learning Toolkit for Text-to-Speech](https://github.com/coqui-ai/TTS)
-- [Google shuts down GPay app and P2P payments in the US](https://9to5google.com/2024/06/09/gpay-us/)
+- [Show HN: A cartoon intro to how the attention mechanism works](https://ai-explained.yoko.dev/1-attention-explained)
 <!-- BLOG-POST-LIST:END -->
 
 ---
