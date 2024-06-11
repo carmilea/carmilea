@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canada&#39;s Extremist Attack on Free Speech](https://www.theatlantic.com/ideas/archive/2024/06/canada-online-harms-act/678605/)
+- [Coqui.ai TTS: A Deep Learning Toolkit for Text-to-Speech](https://github.com/coqui-ai/TTS)
 - [Google shuts down GPay app and P2P payments in the US](https://9to5google.com/2024/06/09/gpay-us/)
 - [FDA denies petition against use of phthalates in food packaging](https://www.fda.gov/food/cfsan-constituent-updates/fda-responds-petition-phthalates-food-packaging-and-food-contact-applications)
 - [Microsoft&#39;s official Minesweeper app has ads, pay-to-win, and is hundreds of MBs](https://tech.lgbt/@nina_kali_nina/112594910070716090)
-- [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
+- [Meta Open-Sources Megalodon LLM for Efficient Long Sequence Modeling](https://www.infoq.com/news/2024/06/meta-llm-megalodon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
