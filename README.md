@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Titan Submersible Disaster. The Inside Story Is More Disturbing](https://www.wired.com/story/titan-submersible-disaster-inside-story-oceangate-files/)
 - [Battery-swap networks are preventing emergency blackouts](https://www.technologyreview.com/2024/06/11/1093465/battery-swap-gogoro-taiwan-earthquake/)
-- [Why curl closes PRs on GitHub](https://daniel.haxx.se/blog/2024/06/11/why-curl-closes-prs-on-github/)
+- [The Google Pay app is dead](https://arstechnica.com/gadgets/2024/06/google-shuts-down-the-google-pay-app/)
 - [Exploring TrustZone-M on the NRF9160](https://lenas-fieldnotes.de/minimal-tz/)
-- [EU Council Presidency&#39;s Last-Ditch Effort for Mass Scanning Must Be Rejected](https://www.eff.org/deeplinks/2024/06/eu-council-presidents-last-ditch-effort-mass-scanning-must-be-rejected)
 - [POV-Ray – The Persistence of Vision Raytracer](http://www.povray.org/)
 <!-- BLOG-POST-LIST:END -->
 
