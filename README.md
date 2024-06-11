@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Titan Submersible Disaster. The Inside Story Is More Disturbing](https://www.wired.com/story/titan-submersible-disaster-inside-story-oceangate-files/)
+- [Private Equity–Backed Firm Bowlero Is Ruining Bowling](https://jacobin.com/2024/05/private-equity-bowlero-ruining-bowling/)
+- [I like the RP2040](https://dgroshev.com/blog/rp2040/)
+- [First Came &#39;Spam.&#39; Now, with A.I., We&#39;ve Got &#39;Slop&#39;](https://www.nytimes.com/2024/06/11/style/ai-search-slop.html)
+- [Australian Border Force searched phones of 10k travellers in past two years](https://www.theguardian.com/australia-news/article/2024/jun/11/australian-border-force-abf-searching-phones-travellers-data)
 - [Battery-swap networks are preventing emergency blackouts](https://www.technologyreview.com/2024/06/11/1093465/battery-swap-gogoro-taiwan-earthquake/)
-- [The Google Pay app is dead](https://arstechnica.com/gadgets/2024/06/google-shuts-down-the-google-pay-app/)
-- [Exploring TrustZone-M on the NRF9160](https://lenas-fieldnotes.de/minimal-tz/)
-- [POV-Ray – The Persistence of Vision Raytracer](http://www.povray.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
