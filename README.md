@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring TrustZone-M on the NRF9160](https://lenas-fieldnotes.de/minimal-tz/)
 - [POV-Ray – The Persistence of Vision Raytracer](http://www.povray.org/)
 - [macOS Sequoia to Allow iCloud Logins in Virtual Machines on ARM Macs](https://developer.apple.com/documentation/virtualization/using_icloud_with_macos_virtual_machines?language=objc)
 - [Exploring Gleam, a type-safe language on the BEAM](https://christopher.engineering/en/blog/gleam-overview/)
 - [Spotify: Droppin&#39; Some Fake Beats](https://lcamtuf.substack.com/p/spotify-droppin-some-fake-beats)
-- [NanoGPT: The simplest, fastest repository for training medium-sized GPTs](https://github.com/karpathy/nanoGPT)
 <!-- BLOG-POST-LIST:END -->
 
 ---
