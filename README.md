@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s Pixel 8 series gets USB-C to DisplayPort; desktop mode rumors heat up](https://arstechnica.com/gadgets/2024/06/googles-pixel-8-series-finally-supports-displayport/)
-- [Mastercard Launches Its Biometric Retail Payment System in Europe](https://www.nakedcapitalism.com/2024/06/mastercards-biometric-retail-payment-system-finally-arrives-in-europe-following-pilot-tests-in-global-south.html)
-- [Your Body Is Not &quot;Attacking Itself&quot; &lpar;On Autoimmune Disorders&rpar;](https://christianbonanno.substack.com/p/your-body-is-not-attacking-itself)
-- [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
-- [Show HN: A cartoon intro to how the attention mechanism works](https://ai-explained.yoko.dev/1-attention-explained)
+- [Virtual Geometry in Bevy 0.14](https://jms55.github.io/posts/2024-06-09-virtual-geometry-bevy-0-14/)
+- [Flow claims it can 100x any CPU&#39;s power with its companion chip](https://techcrunch.com/2024/06/11/flow-claims-it-can-100x-any-cpus-power-with-its-companion-chip-and-some-elbow-grease/)
+- [Did startup Flow Computing just make CPUs 100x faster?](https://www.theverge.com/2024/6/11/24176304/flow-computing-startup-parallel-processing-accelerator)
+- [Federighi says Apple hopes to add Google Gemini and other AI models to iOS 18](https://9to5mac.com/2024/06/10/craig-federighi-says-apple-hopes-to-add-google-gemini-and-other-ai-models-to-ios-18/)
+- [Polars Pre-release v1.0.0](https://github.com/pola-rs/polars/releases/tag/py-1.0.0-alpha.1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
