@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s new in Xcode 16 [video]](https://developer.apple.com/videos/play/wwdc2024/10135/)
-- [Oracle Java police start knocking on Fortune 200&#39;s doors for first time](https://www.theregister.com/2024/06/10/fortune_200_oracle_java_audit/)
+- [Siberia&#39;s &#39;mammoth graveyard&#39; reveals 800-year human interactions with mammoths](https://phys.org/news/2024-06-siberia-mammoth-graveyard-reveals-year.html)
+- [Intel pauses work on $25B Israel fab](https://www.theregister.com/2024/06/10/intel_israeli_fab/)
+- [Wild elephants may have names that other elephants use to call them](https://www.npr.org/2024/06/07/nx-s1-4994426/wild-elephants-individual-names)
+- [Engage your audience: get to the point, use story structure, force specificity](https://iandanielstewart.com/2024/06/09/engage-your-audience-by-getting-to-the-point-using-story-structure-and-forcing-specificity/)
 - [Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
-- [Apple&#39;s On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
-- [Malicious VSCode extensions with installs discovered](https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-with-millions-of-installs-discovered/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
