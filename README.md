@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Battery-swap networks are preventing emergency blackouts](https://www.technologyreview.com/2024/06/11/1093465/battery-swap-gogoro-taiwan-earthquake/)
+- [Why curl closes PRs on GitHub](https://daniel.haxx.se/blog/2024/06/11/why-curl-closes-prs-on-github/)
 - [Exploring TrustZone-M on the NRF9160](https://lenas-fieldnotes.de/minimal-tz/)
+- [EU Council Presidency&#39;s Last-Ditch Effort for Mass Scanning Must Be Rejected](https://www.eff.org/deeplinks/2024/06/eu-council-presidents-last-ditch-effort-mass-scanning-must-be-rejected)
 - [POV-Ray – The Persistence of Vision Raytracer](http://www.povray.org/)
-- [macOS Sequoia to Allow iCloud Logins in Virtual Machines on ARM Macs](https://developer.apple.com/documentation/virtualization/using_icloud_with_macos_virtual_machines?language=objc)
-- [Exploring Gleam, a type-safe language on the BEAM](https://christopher.engineering/en/blog/gleam-overview/)
-- [Spotify: Droppin&#39; Some Fake Beats](https://lcamtuf.substack.com/p/spotify-droppin-some-fake-beats)
 <!-- BLOG-POST-LIST:END -->
 
 ---
