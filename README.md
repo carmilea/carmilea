@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
+- [Kia Issues &#39;Park Outside&#39; Recall for 2020-2024 Telluride Vehicles for Fire Risk](https://www.nhtsa.gov/press-releases/kia-telluride-recall-fire-risk)
+- [Lynn Conway Has Died](https://en.wikipedia.org/wiki/Lynn_Conway)
 - [Coqui.ai TTS: A Deep Learning Toolkit for Text-to-Speech](https://github.com/coqui-ai/TTS)
 - [Google shuts down GPay app and P2P payments in the US](https://9to5google.com/2024/06/09/gpay-us/)
-- [FDA denies petition against use of phthalates in food packaging](https://www.fda.gov/food/cfsan-constituent-updates/fda-responds-petition-phthalates-food-packaging-and-food-contact-applications)
-- [Microsoft&#39;s official Minesweeper app has ads, pay-to-win, and is hundreds of MBs](https://tech.lgbt/@nina_kali_nina/112594910070716090)
-- [Meta Open-Sources Megalodon LLM for Efficient Long Sequence Modeling](https://www.infoq.com/news/2024/06/meta-llm-megalodon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
