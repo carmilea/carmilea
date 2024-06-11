@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Back To Atoms: Why we can stop building SaaS and build the future instead.](https://carllippert.com/back-to-atoms/)
+- [Ship Something Every Day](https://maxleiter.com/blog/ship-every-day)
 - [Siberia&#39;s &#39;mammoth graveyard&#39; reveals 800-year human interactions with mammoths](https://phys.org/news/2024-06-siberia-mammoth-graveyard-reveals-year.html)
 - [Intel pauses work on $25B Israel fab](https://www.theregister.com/2024/06/10/intel_israeli_fab/)
-- [Wild elephants may have names that other elephants use to call them](https://www.npr.org/2024/06/07/nx-s1-4994426/wild-elephants-individual-names)
-- [Engage your audience: get to the point, use story structure, force specificity](https://iandanielstewart.com/2024/06/09/engage-your-audience-by-getting-to-the-point-using-story-structure-and-forcing-specificity/)
-- [Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
+- [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
 <!-- BLOG-POST-LIST:END -->
 
 ---
