@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hybrid working from home improves retention without damaging performance](https://www.nature.com/articles/s41586-024-07500-2)
+- [Building a faster, smarter, Chromebook experience with the best of Google](https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html)
 - [The Swift compiler is slow due to how types are inferred](https://danielchasehooper.com/posts/why-swift-is-slow/)
+- [Diffractive Chocolate](https://wp.optics.arizona.edu/oscoutreach/diffractive-chocolate/)
 - [Streak &lpar;YC W22&rpar; is hiring a remote web designer &lpar;senior&rpar;](https://www.streak.com/careers/designer-web-and-marketing)
-- [Calm Company Fund Is Taking a Break](https://calmfund.com/writing/pause)
-- [How Alexa dropped the ball on being the top conversational system](https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/)
+- [Show HN: Semantic clusters and embeddings for 500k Hacker News comments](https://app.airtrain.ai/dataset/eb91081f-2003-494f-bd5d-084104db01f1/null/1/0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
