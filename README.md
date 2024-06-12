@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Debian is the greatest Linux distro of them all](https://lunduke.locals.com/post/5740472/debian-is-imo-the-greatest-linux-distro-of-them-all-i-think-that-debian-is-the-last-step-in-the-l)
+- [Fifth helium leak detected on Starliner](https://spacenews.com/fifth-helium-leak-detected-on-starliner/)
+- [Silicon Valley&#39;s best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
+- [Silicon Valley salaries are shrinking, leaving workers in the lurch](https://www.mercurynews.com/2024/06/11/silicon-valley-salaries-are-shrinking-leaving-workers-in-the-lurch/)
+- [Safari 18 will automatically transition users to passkeys [video]](https://developer.apple.com/videos/play/wwdc2024/10125/?time=258)
 - [T-Mobile users thought they had a lifetime price lock–guess what happened next](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/)
-- [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
-- [How much of a genius-level move was binary space partitioning in Doom? &lpar;2019&rpar;](https://twobithistory.org/2019/11/06/doom-bsp.html)
-- [Edward C. Stone, 1936-2024](https://www.caltech.edu/about/news/edward-stone-1936-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
