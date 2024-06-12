@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is not a Net Positive for Society](https://innovationnation.blog/p/ai-is-not-a-net-positive-for-society)
-- [Is Google SEO Gaslighting the Internet?](https://www.newyorker.com/culture/infinite-scroll/is-google-seo-gaslighting-the-internet)
-- [Apple didn&#39;t fix Swift&#39;s biggest flaw](https://danielchasehooper.com/posts/why-swift-is-slow/)
-- [Remote Amazon Tribe Did Not Get Addicted to Porn](https://www.nytimes.com/2024/06/11/world/americas/no-a-remote-amazon-tribe-did-not-get-addicted-to-porn.html)
-- [The Safety-Critical Rust Consortium](https://foundation.rust-lang.org/news/announcing-the-safety-critical-rust-consortium/)
+- [Hybrid working from home improves retention without damaging performance](https://www.nature.com/articles/s41586-024-07500-2)
+- [The Swift compiler is slow due to how types are inferred](https://danielchasehooper.com/posts/why-swift-is-slow/)
+- [Streak &lpar;YC W22&rpar; is hiring a remote web designer &lpar;senior&rpar;](https://www.streak.com/careers/designer-web-and-marketing)
+- [Calm Company Fund Is Taking a Break](https://calmfund.com/writing/pause)
+- [How Alexa dropped the ball on being the top conversational system](https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
