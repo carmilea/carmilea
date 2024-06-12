@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Denmark recalls Korean ramen for being too spicy](https://www.bbc.com/news/articles/cy00gk0kr82o)
+- [Google still recommends glue for your pizza](https://www.theverge.com/2024/6/11/24176490/mm-delicious-glue)
 - [Silicon Valley&#39;s best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
 - [T-Mobile users thought they had a lifetime price lock–guess what happened next](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/)
 - [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
