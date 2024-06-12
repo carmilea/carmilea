@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Debian is the greatest Linux distro of them all](https://lunduke.locals.com/post/5740472/debian-is-imo-the-greatest-linux-distro-of-them-all-i-think-that-debian-is-the-last-step-in-the-l)
 - [T-Mobile users thought they had a lifetime price lock–guess what happened next](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/)
-- [Implications of ultra-processed plant origin foods on cardiovascular risk](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00115-7/fulltext)
 - [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
 - [How much of a genius-level move was binary space partitioning in Doom? &lpar;2019&rpar;](https://twobithistory.org/2019/11/06/doom-bsp.html)
 - [Edward C. Stone, 1936-2024](https://www.caltech.edu/about/news/edward-stone-1936-2024)
