@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany gets informal EU go-ahead to support gas-fired power, sources say](https://www.reuters.com/business/energy/germany-gets-informal-eus-go-ahead-support-gas-fired-power-sources-say-2024-06-07/)
 - [Why SQLite Is Taking over with Brian Holt and Marco Bambini](https://syntax.fm/show/779/why-sqlite-is-taking-over-with-brian-holt-and-marco-bambini)
 - [Silicon Valley&#39;s best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
 - [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
 - [How much of a genius-level move was binary space partitioning in Doom? &lpar;2019&rpar;](https://twobithistory.org/2019/11/06/doom-bsp.html)
+- [Edward C. Stone, 1936-2024](https://www.caltech.edu/about/news/edward-stone-1936-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
