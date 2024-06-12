@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How to Build local LLM Apps with Ollama and Langchain](https://www.youtube.com/watch?v=XffJeNBVdtU)
 - [How to do Knowledge Graph RAG with SingleStore | SingleStore Webinar](https://www.youtube.com/watch?v=3nY3Pi1rM3A)
 - [Beginner&#39;s Guide to Vector Databases | SingleStore Webinars](https://www.youtube.com/watch?v=JpahQj0OqfQ)
 - [Beginners Guide to RAG Agents with Professor Tom Yeh | SingleStore Webinars](https://www.youtube.com/watch?v=xRJuJC2M8zI)
 - [Zapier Central + SingleStore = Full RAG Agents | SingleStore Webinars](https://www.youtube.com/watch?v=zBzK4Sq29yc)
-- [How Promising is GitHub Copilot?](https://www.youtube.com/watch?v=3uNdIIkBkD4)
 <!-- YOUTUBE:END -->
 
 
