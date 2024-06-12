@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gerald Sussman: Programming is &lpar;should be&rpar; fun &lpar;2022&rpar; [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
+- [Apple is shipping WebXR on Safari for Vision Pro [video]](https://developer.apple.com/videos/play/wwdc2024/10066/)
 - [Etleap &lpar;YC W13&rpar; Is Hiring Customer Success Manager &lpar;SF&rpar;](https://etleap.com/careers/customer-success-manager/)
-- [A beginners guide to fine tuning LLM using LoRA](https://zohaib.me/a-beginners-guide-to-fine-tuning-llm-using-lora/)
-- [Cheapest source of fossil fuel generation is double the cost of solar](https://pv-magazine-usa.com/2024/06/11/cheapest-source-of-fossil-fuel-generation-is-double-the-cost-of-utility-scale-solar/)
-- [Don&#39;t Refactor Like Uncle Bob](https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/)
+- [Japan enacts law to curb Apple, Google&#39;s app dominance](https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html#google_vignette)
 - [Designing the avocado of uncertainty visualization](https://stamen.com/designing-the-avocado-of-uncertainty/)
 <!-- BLOG-POST-LIST:END -->
 
