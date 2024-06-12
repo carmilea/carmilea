@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google still recommends glue for your pizza](https://www.theverge.com/2024/6/11/24176490/mm-delicious-glue)
+- [ARM torpedoes Windows on ARM: Demands destruction of all PCs with Snapdragon X](https://www.heise.de/en/news/ARM-torpedoes-Windows-on-ARM-Demands-destruction-of-all-PCs-with-Snapdragon-X-9758434.html)
+- [Why SQLite Is Taking over with Brian Holt and Marco Bambini](https://syntax.fm/show/779/why-sqlite-is-taking-over-with-brian-holt-and-marco-bambini)
 - [Silicon Valley&#39;s best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
 - [T-Mobile users thought they had a lifetime price lock–guess what happened next](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/)
 - [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
-- [How much of a genius-level move was binary space partitioning in Doom? &lpar;2019&rpar;](https://twobithistory.org/2019/11/06/doom-bsp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
