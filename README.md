@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Study shows N95 masks near-perfect at blocking escape of airborne Covid-19](https://sph.umd.edu/news/study-shows-n95-masks-near-perfect-blocking-escape-airborne-covid-19)
-- [AI Detectors Get It Wrong. Writers Are Being Fired Anyway](https://gizmodo.com/ai-detectors-inaccurate-freelance-writers-fired-1851529820)
-- [Samsung Document Showed 126 Ways iPhone Was Better Than S1 &lpar;2010&rpar; [pdf]](https://ia600908.us.archive.org/30/items/436142-samsung-relative-evaluation-report-on-s1-iphone/436142-samsung-relative-evaluation-report-on-s1-iphone.pdf)
-- [Fini &lpar;YC S22&rpar; Is Hiring a Front-End Engineer](https://news.ycombinator.com/item?id=40657088)
-- [Show HN: I &#39;integrated&#39; ChatGPT in iOS-iPadOS-macOS with out official support](https://giuliomagnifico.blog/tips/2024/06/12/chatgpt-before-ios18.html)
+- [Intel is trucking a 916,000-pound &#39;Super Load&#39; across Ohio to its new fab](https://www.tomshardware.com/pc-components/cpus/intel-is-trucking-a-916000-pound-super-load-across-ohio-to-its-new-fab-spawning-road-closures-over-nine-days)
+- [Announcing the Open Release of Stable Diffusion 3 Medium](https://stability.ai/news/stable-diffusion-3-medium)
+- [Google Dataset Search Engine](https://datasetsearch.research.google.com/)
+- [YouTube experimenting with server-side ad injection](https://fosstodon.org/@sponsorblock/112603139898164385)
+- [iTerm2 v3.5.1 moves AI features into external plugin](https://iterm2.com/ai-plugin.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
