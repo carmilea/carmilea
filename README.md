@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today](https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today)
 - [Gerald Sussman: Programming is &lpar;should be&rpar; fun &lpar;2022&rpar; [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
-- [Apple is shipping WebXR on Safari for Vision Pro [video]](https://developer.apple.com/videos/play/wwdc2024/10066/)
 - [Etleap &lpar;YC W13&rpar; Is Hiring Customer Success Manager &lpar;SF&rpar;](https://etleap.com/careers/customer-success-manager/)
+- [Honda&#39;s Hidden Resonators Keep Tire Noise to a Minimum](https://jalopnik.com/here-s-how-honda-s-hidden-resonators-keep-tire-noise-to-1851535905)
 - [Japan enacts law to curb Apple, Google&#39;s app dominance](https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html#google_vignette)
-- [Designing the avocado of uncertainty visualization](https://stamen.com/designing-the-avocado-of-uncertainty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
