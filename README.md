@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Implications of ultra-processed plant origin foods on cardiovascular risk](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00115-7/fulltext)
+- [How much of a genius-level move was binary space partitioning in Doom? &lpar;2019&rpar;](https://twobithistory.org/2019/11/06/doom-bsp.html)
+- [Edward C. Stone, 1936-2024](https://www.caltech.edu/about/news/edward-stone-1936-2024)
 - [Tea Punch Was the First Cocktail](https://www.atlasobscura.com/articles/tea-punch-was-the-first-cocktail)
-- [Elon Musk drops suit against OpenAI and Sam Altman](https://www.cnbc.com/2024/06/11/elon-musk-drops-suit-against-openai-and-sam-altman.html)
 - [Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
-- [Flameshot – Open-source screenshot software](https://flameshot.org/)
-- [The Rate of Return on Everything, 1870–2015 &lpar;2019&rpar;](https://academic.oup.com/qje/article/134/3/1225/5435538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
