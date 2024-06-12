@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Finder – The ultimate search engine for GitHub repositories](https://codefinder.dev)
-- [Apple surpasses Microsoft as most valuable company](https://www.cnbc.com/2024/06/12/apple-aapl-most-valuable-company-in-world.html)
-- [Alexa Dropped the Ball on Being the Top Conversational System on the Planet](https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/)
+- [Streak &lpar;YC W22&rpar; is hiring a remote web designer &lpar;senior&rpar;](https://www.streak.com/careers/designer-web-and-marketing)
+- [Americans Get News on TikTok, X, Facebook and Instagram](https://www.pewresearch.org/journalism/2024/06/12/how-americans-get-news-on-tiktok-x-facebook-and-instagram/)
+- [How Alexa dropped the ball on being the top conversational system](https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/)
 - [Launch HN: Overwatch &lpar;YC S22&rpar;: OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
-- [Show HN: Restate – low-latency durable workflows for JavaScript/Java, in Rust](https://restate.dev/)
+- [Show HN: Restate – Low-latency durable workflows for JavaScript/Java, in Rust](https://restate.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
