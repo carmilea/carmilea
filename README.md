@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Study shows N95 masks near-perfect at blocking escape of airborne Covid-19](https://sph.umd.edu/news/study-shows-n95-masks-near-perfect-blocking-escape-airborne-covid-19)
+- [AI Detectors Get It Wrong. Writers Are Being Fired Anyway](https://gizmodo.com/ai-detectors-inaccurate-freelance-writers-fired-1851529820)
+- [Fini &lpar;YC S22&rpar; Is Hiring a Front-End Engineer](https://news.ycombinator.com/item?id=40657088)
+- [Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
 - [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/)
-- [Why SQLite Is Taking over with Brian Holt and Marco Bambini](https://syntax.fm/show/779/why-sqlite-is-taking-over-with-brian-holt-and-marco-bambini)
-- [Silicon Valley&#39;s best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
-- [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
-- [How much of a genius-level move was binary space partitioning in Doom? &lpar;2019&rpar;](https://twobithistory.org/2019/11/06/doom-bsp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
