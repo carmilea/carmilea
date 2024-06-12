@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Study shows N95 masks near-perfect at blocking escape of airborne Covid-19](https://sph.umd.edu/news/study-shows-n95-masks-near-perfect-blocking-escape-airborne-covid-19)
 - [AI Detectors Get It Wrong. Writers Are Being Fired Anyway](https://gizmodo.com/ai-detectors-inaccurate-freelance-writers-fired-1851529820)
+- [Samsung Document Showed 126 Ways iPhone Was Better Than S1 &lpar;2010&rpar; [pdf]](https://ia600908.us.archive.org/30/items/436142-samsung-relative-evaluation-report-on-s1-iphone/436142-samsung-relative-evaluation-report-on-s1-iphone.pdf)
 - [Fini &lpar;YC S22&rpar; Is Hiring a Front-End Engineer](https://news.ycombinator.com/item?id=40657088)
-- [Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
-- [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/)
+- [Show HN: I &#39;integrated&#39; ChatGPT in iOS-iPadOS-macOS with out official support](https://giuliomagnifico.blog/tips/2024/06/12/chatgpt-before-ios18.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
