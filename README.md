@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel is trucking a 916,000-pound &#39;Super Load&#39; across Ohio to its new fab](https://www.tomshardware.com/pc-components/cpus/intel-is-trucking-a-916000-pound-super-load-across-ohio-to-its-new-fab-spawning-road-closures-over-nine-days)
-- [Google Dataset Search Engine](https://datasetsearch.research.google.com/)
-- [Relative Evaluation Report on S1, iPhone &lpar;2010&rpar; [pdf]](https://ia600908.us.archive.org/30/items/436142-samsung-relative-evaluation-report-on-s1-iphone/436142-samsung-relative-evaluation-report-on-s1-iphone.pdf)
-- [Fini &lpar;YC S22&rpar; Is Hiring a Front-End Engineer](https://news.ycombinator.com/item?id=40657088)
-- [Faxes from the Far Side of the Moon &lpar;2018&rpar;](https://www.damninteresting.com/faxes-from-the-far-side/)
+- [Code Finder – The ultimate search engine for GitHub repositories](https://codefinder.dev)
+- [Apple surpasses Microsoft as most valuable company](https://www.cnbc.com/2024/06/12/apple-aapl-most-valuable-company-in-world.html)
+- [Alexa Dropped the Ball on Being the Top Conversational System on the Planet](https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/)
+- [Launch HN: Overwatch &lpar;YC S22&rpar;: OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
+- [Show HN: Restate – low-latency durable workflows for JavaScript/Java, in Rust](https://restate.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
