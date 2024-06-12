@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Intel is trucking a 916,000-pound &#39;Super Load&#39; across Ohio to its new fab](https://www.tomshardware.com/pc-components/cpus/intel-is-trucking-a-916000-pound-super-load-across-ohio-to-its-new-fab-spawning-road-closures-over-nine-days)
-- [Announcing the Open Release of Stable Diffusion 3 Medium](https://stability.ai/news/stable-diffusion-3-medium)
 - [Google Dataset Search Engine](https://datasetsearch.research.google.com/)
-- [YouTube experimenting with server-side ad injection](https://fosstodon.org/@sponsorblock/112603139898164385)
-- [iTerm2 v3.5.1 moves AI features into external plugin](https://iterm2.com/ai-plugin.html)
+- [Relative Evaluation Report on S1, iPhone &lpar;2010&rpar; [pdf]](https://ia600908.us.archive.org/30/items/436142-samsung-relative-evaluation-report-on-s1-iphone/436142-samsung-relative-evaluation-report-on-s1-iphone.pdf)
+- [Fini &lpar;YC S22&rpar; Is Hiring a Front-End Engineer](https://news.ycombinator.com/item?id=40657088)
+- [Faxes from the Far Side of the Moon &lpar;2018&rpar;](https://www.damninteresting.com/faxes-from-the-far-side/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
