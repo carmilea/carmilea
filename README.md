@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Streak &lpar;YC W22&rpar; is hiring a remote web designer &lpar;senior&rpar;](https://www.streak.com/careers/designer-web-and-marketing)
-- [Americans Get News on TikTok, X, Facebook and Instagram](https://www.pewresearch.org/journalism/2024/06/12/how-americans-get-news-on-tiktok-x-facebook-and-instagram/)
-- [How Alexa dropped the ball on being the top conversational system](https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/)
-- [Launch HN: Overwatch &lpar;YC S22&rpar;: OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
-- [Show HN: Restate – Low-latency durable workflows for JavaScript/Java, in Rust](https://restate.dev/)
+- [AI is not a Net Positive for Society](https://innovationnation.blog/p/ai-is-not-a-net-positive-for-society)
+- [Is Google SEO Gaslighting the Internet?](https://www.newyorker.com/culture/infinite-scroll/is-google-seo-gaslighting-the-internet)
+- [Apple didn&#39;t fix Swift&#39;s biggest flaw](https://danielchasehooper.com/posts/why-swift-is-slow/)
+- [Remote Amazon Tribe Did Not Get Addicted to Porn](https://www.nytimes.com/2024/06/11/world/americas/no-a-remote-amazon-tribe-did-not-get-addicted-to-porn.html)
+- [The Safety-Critical Rust Consortium](https://foundation.rust-lang.org/news/announcing-the-safety-critical-rust-consortium/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
