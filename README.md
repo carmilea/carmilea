@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Minuimus is a file optimiser utility script](https://birds-are-nice.me/software/minuimus.html)
 - [How Meta trains large language models at scale](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
 - [Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today](https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today)
 - [Gerald Sussman: Programming is &lpar;should be&rpar; fun &lpar;2022&rpar; [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
 - [Etleap &lpar;YC W13&rpar; Is Hiring Customer Success Manager &lpar;SF&rpar;](https://etleap.com/careers/customer-success-manager/)
-- [Honda&#39;s Hidden Resonators Keep Tire Noise to a Minimum](https://jalopnik.com/here-s-how-honda-s-hidden-resonators-keep-tire-noise-to-1851535905)
 <!-- BLOG-POST-LIST:END -->
 
 ---
