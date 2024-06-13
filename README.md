@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The &#39;Compact&#39; Version of Stable Diffusion 3 Is Generating Monstrous Human Bodies](https://www.xatakaon.com/robotics-and-ai/the-compact-version-of-stable-diffusion-3-is-here-and-its-generating-monstrous-human-bodies)
-- [California&#39;s wage gap is the biggest in the US](https://www.sfgate.com/bayarea/article/california-wage-gap-biggest-us-19513144.php)
+- [Adobe employees slam the company over AI controversy: &#39;Avoid becoming like IBM&#39;](https://archive.is/2024.06.13-185505/https://www.businessinsider.com/adobe-employees-slam-company-over-ai-controversy-2024-6)
 - [Encodings for flattened heap values](https://cr.openjdk.org/~jrose/values/flattened-values.html)
 - [Unity Catalog: Open, Multi-Modal Catalog for Data and AI](https://github.com/unitycatalog/unitycatalog)
 - [Pay $1 to Hear Wu-Tang Clan’s Secret Album &lpar;Eventually&rpar;](https://www.nytimes.com/2024/06/13/arts/music/wu-tang-clan-once-upon-a-time-in-shaolin.html)
+- [U.S.-Saudi petrodollar pact ends after 50 years](https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
