@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spectrum of Covid-19: From Asymptomatic Organ Damage to Long Covid Syndrome](https://whn.global/scientific/spectrum-of-covid-19-from-asymptomatic-organ-damage-to-long-covid-syndrome/)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior GenAI/LLM Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [Postgres 17: Streaming I/O for sequential scans and ANALYZE](https://pganalyze.com/blog/5mins-postgres-17-streaming-io)
-- [IntelliJ GitHub Plugin leaking credentials](https://blog.jetbrains.com/security/2024/06/updates-for-security-issue-affecting-intellij-based-ides-2023-1-and-github-plugin/)
-- [Phishing scammers impersonate AH employee to drain crypto wallets](https://www.web3isgoinggreat.com/single/andreessen-horowitz-phishing)
+- [Chinese Yuan becomes Russia&#39;s main foreign currency, replacing Dollar and Euro](https://unn.ua/en/news/the-chinese-yuan-officially-became-russias-main-foreign-currency-replacing-the-dollar-and-the-euro)
+- [Ask HN: Widespread Apathy?](https://news.ycombinator.com/item?id=40673039)
+- [How Google is helping create a new model for clean energy](https://blog.google/outreach-initiatives/sustainability/google-clean-energy-partnership/)
+- [Beneath the AGI and Foundational Model Hype, Sober AI Is the Enterprise Default](https://www.dbreunig.com/2024/06/12/sober-ai-is-the-norm.html)
+- [The fastest path to African prosperity](https://www.palladiummag.com/2024/06/07/the-fastest-path-to-african-prosperity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
