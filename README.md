@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft&#39;s Nadella is building an AI empire](https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a)
 - [Uncensor Any LLM with Abliteration](https://huggingface.co/blog/mlabonne/abliteration)
-- [Roughly 5 Percent of All Cybertrucks Are for Sale Online](https://jalopnik.com/roughly-5-percent-of-all-cybertrucks-are-for-sale-onlin-1851535582)
+- [Can LLMs invent better ways to train LLMs?](https://sakana.ai/llm-squared/)
 - [Minuimus is a file optimiser utility script](https://birds-are-nice.me/software/minuimus.html)
 - [How Meta trains large language models at scale](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
-- [Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today](https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
