@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iTerm 3.5.1 removes automatic OpenAI integration, requires opt-in](https://iterm2.com/downloads.html)
 - [Reworkd &lpar;YC S23&rpar; Is Hiring a founding back end/infrastructure engineer](https://www.ycombinator.com/companies/reworkd/jobs/4f6BHpT-founding-engineer)
 - [Southwest Airlines Boeing 737-8 Max Experienced Dutch Roll](https://avherald.com/h?article=519ce679)
 - [Indian Startup 3D Prints Rocket Engine in Just 72 Hours](https://spectrum.ieee.org/3d-printed-rocket)
-- [Germany is No 1 in Europe for EV production, No 2 in the world](https://electrek.co/2024/06/11/germany-automakers-ev-production/)
-- [Surprising New Renewable Power Source Has &#39;Negative Carbon Emissions&#39;](https://www.newsweek.com/algae-renewable-power-source-1911875)
+- [Microsoft Chose Profit over Security, Whistleblower Says](https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
