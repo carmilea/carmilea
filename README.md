@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada Imposes 5% Tax on Streaming to Fund Local News, Diverse Content](https://www.techdirt.com/2024/06/13/canada-imposes-5-tax-on-streaming-to-fund-local-news-diverse-content/)
+- [Show HN: Shpool, a Lightweight Tmux Alternative](https://github.com/shell-pool/shpool)
 - [iTerm 3.5.1 removes automatic OpenAI integration, requires opt-in](https://iterm2.com/downloads.html)
 - [Reworkd &lpar;YC S23&rpar; Is Hiring a founding back end/infrastructure engineer](https://www.ycombinator.com/companies/reworkd/jobs/4f6BHpT-founding-engineer)
 - [Southwest Airlines Boeing 737-8 Max Experienced Dutch Roll](https://avherald.com/h?article=519ce679)
-- [Indian Startup 3D Prints Rocket Engine in Just 72 Hours](https://spectrum.ieee.org/3d-printed-rocket)
-- [Microsoft Chose Profit over Security, Whistleblower Says](https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
