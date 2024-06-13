@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [50 year old petrodollar pact between Saudi Arabia and US expires](https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years)
-- [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
-- [How Google is helping create a new model for clean energy](https://blog.google/outreach-initiatives/sustainability/google-clean-energy-partnership/)
-- [Ted Chiang has won the PEN/Faulkner Foundation&#39;s short story prize](https://lithub.com/ted-chiang-has-won-the-pen-faulkner-foundations-short-story-prize/)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior GenAI/LLM Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
+- [Skio &lpar;Subscriptions for Shopify, ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
+- [European Content Removal Laws Scrub the Internet of Legal Content](https://www.techdirt.com/2024/06/13/european-content-removal-laws-are-scrubbing-the-internet-of-completely-legal-content/)
+- [Taking away iPhone made daughter a better person](https://www.theguardian.com/technology/article/2024/jun/13/kids-no-iphone-screen-time)
+- [Pay $1 to Hear Wu-Tang Clan’s Secret Album &lpar;Eventually&rpar;](https://www.nytimes.com/2024/06/13/arts/music/wu-tang-clan-once-upon-a-time-in-shaolin.html)
+- [U.S.-Saudi petrodollar pact ends after 50 years](https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
