@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chinese Yuan becomes Russia&#39;s main foreign currency, replacing Dollar and Euro](https://unn.ua/en/news/the-chinese-yuan-officially-became-russias-main-foreign-currency-replacing-the-dollar-and-the-euro)
-- [Ask HN: Widespread Apathy?](https://news.ycombinator.com/item?id=40673039)
+- [50 year old petrodollar pact between Saudi Arabia and US expires](https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years)
+- [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
 - [How Google is helping create a new model for clean energy](https://blog.google/outreach-initiatives/sustainability/google-clean-energy-partnership/)
-- [Beneath the AGI and Foundational Model Hype, Sober AI Is the Enterprise Default](https://www.dbreunig.com/2024/06/12/sober-ai-is-the-norm.html)
-- [The fastest path to African prosperity](https://www.palladiummag.com/2024/06/07/the-fastest-path-to-african-prosperity/)
+- [Ted Chiang has won the PEN/Faulkner Foundation&#39;s short story prize](https://lithub.com/ted-chiang-has-won-the-pen-faulkner-foundations-short-story-prize/)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior GenAI/LLM Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
