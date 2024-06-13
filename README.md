@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple to &#39;Pay&#39; OpenAI for ChatGPT Through Distribution, Not Cash](https://www.bloomberg.com/news/articles/2024-06-12/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash)
+- [Germany is No 1 in Europe for EV production, No 2 in the world](https://electrek.co/2024/06/11/germany-automakers-ev-production/)
+- [Surprising New Renewable Power Source Has &#39;Negative Carbon Emissions&#39;](https://www.newsweek.com/algae-renewable-power-source-1911875)
+- [Potential Ozone Depletion from Satellite Demise During Atmospheric Reentry](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109280)
+- [What Do Google&#39;s AI Answers Cost the Environment?](https://www.scientificamerican.com/article/what-do-googles-ai-answers-cost-the-environment/)
 - [Arm says it wants all Snapdragon X Elite laptops destroyed](https://www.xda-developers.com/arm-says-it-wants-all-snapdragon-x-elite-laptops-destroyed/)
-- [Apple to &#39;Pay&#39; OpenAI for ChatGPT Through Distribution, Not Cash](https://www.bnnbloomberg.ca/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash-1.2084539)
-- [AMD&#39;s MI300X Outperforms Nvidia&#39;s H100 for LLM Inference](https://www.blog.tensorwave.com/amds-mi300x-outperforms-nvidias-h100-for-llm-inference/)
-- [Ray Tracing with POV-Ray: 25 Scenes in 25 Days](https://github.com/susam/pov25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
