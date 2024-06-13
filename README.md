@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uncensor Any LLM with Abliteration](https://huggingface.co/blog/mlabonne/abliteration)
+- [X all-hands leaves staff with few answers on delayed promotions](https://www.theverge.com/2024/6/12/24172268/x-twitter-all-hands-linda-yaccarino-layoffs-promotions)
 - [VRChat is Laying Off 30% of Team](https://ask.vrchat.com/t/an-email-from-our-ceo/25060)
 - [Minuimus is a file optimiser utility script](https://birds-are-nice.me/software/minuimus.html)
 - [How Meta trains large language models at scale](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
-- [Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today](https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today)
-- [Gerald Sussman: Programming is &lpar;should be&rpar; fun &lpar;2022&rpar; [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
 <!-- BLOG-POST-LIST:END -->
 
 ---
