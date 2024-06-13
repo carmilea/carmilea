@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft&#39;s Nadella is building an AI empire](https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a)
-- [Uncensor Any LLM with Abliteration](https://huggingface.co/blog/mlabonne/abliteration)
+- [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration)
+- [NASA accidentally broadcasts simulation of distressed astronauts](https://www.reuters.com/technology/space/nasa-accidentally-broadcasts-simulation-distressed-astronauts-space-station-2024-06-13/)
 - [Can LLMs invent better ways to train LLMs?](https://sakana.ai/llm-squared/)
 - [Minuimus is a file optimiser utility script](https://birds-are-nice.me/software/minuimus.html)
-- [How Meta trains large language models at scale](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
