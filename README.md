@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supreme Court Upholds Broad Access to Abortion Pill Mifepristone](https://www.nytimes.com/live/2024/06/13/us/abortion-pill-supreme-court)
+- [AMD CEO Lisa Su reminisces about designing the PS3&#39;s infamous Cell processor](https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-reminisces-on-helping-design-the-ps3s-infamous-cell-processor-at-ibm)
 - [MLow: Meta&#39;s low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
-- [US Supreme Court backs Starbucks over fired pro-union workers](https://www.reuters.com/legal/us-supreme-court-backs-starbucks-over-fired-pro-union-workers-2024-06-13/)
-- [Wells Fargo Fires over a Dozen for &#39;Simulation of Keyboard Activity&#39;](https://finance.yahoo.com/news/wells-fargo-fires-over-dozen-133711267.html)
-- [Wells Fargo Fires Over a Dozen for &#39;Simulation of Keyboard Activity&#39;](https://www.bloomberg.com/news/articles/2024-06-13/wells-fires-over-a-dozen-for-simulation-of-keyboard-activity)
+- [Iridescence in Meat Caused by Surface Gratings](https://www.mdpi.com/2304-8158/2/4/499)
 - [The Qualcomm Snapdragon X Architecture Deep Dive: Getting to Know Oryon](https://www.anandtech.com/show/21445/qualcomm-snapdragon-x-architecture-deep-dive)
 <!-- BLOG-POST-LIST:END -->
 
