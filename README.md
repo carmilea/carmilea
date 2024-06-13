@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canada Imposes 5% Tax on Streaming to Fund Local News, Diverse Content](https://www.techdirt.com/2024/06/13/canada-imposes-5-tax-on-streaming-to-fund-local-news-diverse-content/)
-- [Show HN: Shpool, a Lightweight Tmux Alternative](https://github.com/shell-pool/shpool)
-- [iTerm 3.5.1 removes automatic OpenAI integration, requires opt-in](https://iterm2.com/downloads.html)
-- [Reworkd &lpar;YC S23&rpar; Is Hiring a founding back end/infrastructure engineer](https://www.ycombinator.com/companies/reworkd/jobs/4f6BHpT-founding-engineer)
-- [Southwest Airlines Boeing 737-8 Max Experienced Dutch Roll](https://avherald.com/h?article=519ce679)
+- [MLow: Meta&#39;s low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
+- [US Supreme Court backs Starbucks over fired pro-union workers](https://www.reuters.com/legal/us-supreme-court-backs-starbucks-over-fired-pro-union-workers-2024-06-13/)
+- [Wells Fargo Fires over a Dozen for &#39;Simulation of Keyboard Activity&#39;](https://finance.yahoo.com/news/wells-fargo-fires-over-dozen-133711267.html)
+- [Wells Fargo Fires Over a Dozen for &#39;Simulation of Keyboard Activity&#39;](https://www.bloomberg.com/news/articles/2024-06-13/wells-fires-over-a-dozen-for-simulation-of-keyboard-activity)
+- [The Qualcomm Snapdragon X Architecture Deep Dive: Getting to Know Oryon](https://www.anandtech.com/show/21445/qualcomm-snapdragon-x-architecture-deep-dive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
