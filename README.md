@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nemotron-4 340B open weights model](https://research.nvidia.com/publication/2024-06_nemotron-4-340b)
-- [Microsoft&#39;s Recall AI feature is now indefinitely delayed](https://blogs.windows.com/windowsexperience/2024/06/07/update-on-the-recall-preview-feature-for-copilot-pcs/)
-- [Boeing and Airbus may have used &#39;counterfeit&#39; titanium in planes, FAA says](https://www.nbcnews.com/business/business-news/boeing-airbus-may-used-counterfeit-titanium-planes-faa-investigating-rcna157160)
-- [Turning the Tables on AI](https://ia.net/topics/turning-the-tables-on-ai)
-- [Oracle Is Shutting Down Its Ad Business](https://www.adweek.com/programmatic/oracle-is-shutting-down-its-ad-business/)
+- [What Is the Opposite of Oil Drilling?](https://www.newyorker.com/news/annals-of-a-warming-planet/what-is-the-opposite-of-oil-drilling)
+- [Seattle tumbles to No. 20 in global ranking of startup ecosystems](https://www.geekwire.com/2024/seattle-tumbles-to-no-20-in-global-ranking-of-startup-ecosystems/)
+- [Dan&#39;s the man: Why Chinese women are looking to ChatGPT for love](https://www.bbc.com/articles/c4nnje9rpjgo)
+- [Orange FM Prototype – Analogue Pocket Demo](https://orangegb.com/orangefm/)
+- [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
