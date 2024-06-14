@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brew-Nix: a flake automatically packaging all homebrew casks](https://discourse.nixos.org/t/brew-nix-a-flake-automatically-packaging-all-homebrew-casks/44880)
+- [Firefox development is moving from Mercurial to Git &lpar;2023&rpar;](https://bugzilla.mozilla.org/show_bug.cgi?id=1863519)
+- [Clearview AI Used Your Face. Now You May Get a Stake in the Company](https://www.nytimes.com/2024/06/13/technology/clearview-ai-facial-recognition-settlement.html)
+- [Land value tax in online games and virtual worlds: A how-to guide](https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and)
 - [Lamini Memory Tuning: 10x Fewer Hallucinations](https://www.lamini.ai/blog/lamini-memory-tuning)
-- [Encodings for flattened heap values](https://cr.openjdk.org/~jrose/values/flattened-values.html)
-- [IKEA&#39;s retailer&#39;s solved global &#39;unhappy worker&#39; crisis by raising salaries](https://fortune.com/europe/2024/06/11/ikeas-boss-solved-swedish-retailers-global-unhappy-worker-crisis-raising-salaries-introducing-flexible-working-subsidized-childcare/)
-- [Pay $1 to Hear Wu-Tang Clan’s Secret Album &lpar;Eventually&rpar;](https://www.nytimes.com/2024/06/13/arts/music/wu-tang-clan-once-upon-a-time-in-shaolin.html)
-- [U.S.-Saudi petrodollar pact ends after 50 years](https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
