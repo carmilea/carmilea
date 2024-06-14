@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple set to be first Big Tech group to face charges under EU digital law](https://www.ft.com/content/31a996d5-b472-4357-953e-ace078494604)
-- [I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
-- [Japan Passes Law to Allow Third-Party App Stores on the iPhone](https://www.macrumors.com/2024/06/14/japan-passes-law-to-allow-third-party-app-stores/)
-- [Why are so many books listed as &quot;Borrow Unavailable&quot; at the Internet Archive?](https://help.archive.org/help/why-are-so-many-books-listed-as-borrow-unavailable-at-the-internet-archive/)
-- [Why sleep deprivation disrupts memory](https://www.nature.com/articles/d41586-024-01732-y)
+- [Aviator &lpar;YC S21&rpar; Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)
+- [The sun&#39;s magnetic field is about to flip](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
+- [Llm.mojo: Andrej Karpathy&#39;s Llm.c in Mojo](https://github.com/dorjeduck/llm.mojo)
+- [AIM Jacking on Macintosh Systems &lpar;2001&rpar;](http://mazur-archives.s3.amazonaws.com/aol-files/articles/names_hypah_aimexploit.html)
+- [Effect – Build robust apps in TypeScript](https://effect.website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
