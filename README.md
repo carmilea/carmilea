@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turning away from smartphones: &#39;We need to go places and touch things&#39;](https://www.theguardian.com/lifeandstyle/article/2024/jun/12/young-people-turning-away-from-phones-social-media-addiction)
 - [Effect of Passenger Position on Crash Injury Risk in Aircraft &lpar;2015&rpar; [pdf]](https://www.tc.faa.gov/its/worldpac/techrpt/am15-17.pdf)
 - [From One RSS Feed Entry to 186850 Hits](https://susam.net/from-web-feed-to-186850-hits.html)
 - [A look at Apple&#39;s technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
-- [Generative AI Is Not Going to Build Your Engineering Team for You](https://simonwillison.net/2024/Jun/12/generative-ai-is-not-going-to-build-your-engineering-team/)
 - [Sustain Open Source, sustain the planet: A new conversation](https://opensource.net/oss-for-climate-podcast/)
 <!-- BLOG-POST-LIST:END -->
 
