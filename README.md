@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Developing an LLM: Building, Training, Finetuning &lpar;A 1h Video Explainer&rpar;](https://www.youtube.com/watch?v=kPGTx4wcm_w)
+- [I Found a 55 Year Old Bug in the First Lunar Lander Game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
+- [Map of Forest Sounds from Around the World](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
 - [Santé &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/sante/jobs/Xw3ujU8-technical-account-manager)
 - [The Surprising Brain-Health Benefits of Weightlifting](https://www.psychologytoday.com/us/blog/the-modern-brain/202402/the-surprising-benefits-of-weightlifting-for-brain-health)
-- [Android Drivers - News and updates from the Project Zero team at Google](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html)
-- [FAA Investigating How Counterfeit Titanium Got into Boeing and Airbus Jets](https://www.nytimes.com/2024/06/14/us/politics/boeing-airbus-titanium-faa.html)
-- [Germany sees company bankruptcies soar](https://www.dw.com/en/germany-sees-company-bankruptcies-soar/a-69358663)
 <!-- BLOG-POST-LIST:END -->
 
 ---
