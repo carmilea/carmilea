@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [40 out of 60 German climate greening endavours fraudulent](https://www.fr.de/politik/warnungen-milliarden-an-konzerne-gezahlt-betrugsverdacht-beim-klimaschutz-trotz-zr-93122965.html)
+- [A look at Apple&#39;s technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
+- [Sustain Open Source, sustain the planet: A new conversation](https://opensource.net/oss-for-climate-podcast/)
+- [Tesla Releases Results of 2024 Annual Meeting of Stockholders](https://ir.tesla.com/press-release/tesla-releases-results-2024-annual-meeting-stockholders)
 - [ASML Aims for Hyper-NA EUV, Shrinking Chip Limits](https://www.eetimes.com/asml-aims-for-hyper-na-euv-shrinking-chip-limits/)
-- [Brew-Nix: a flake automatically packaging all homebrew casks](https://discourse.nixos.org/t/brew-nix-a-flake-automatically-packaging-all-homebrew-casks/44880)
-- [Land value tax in online games and virtual worlds](https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and)
-- [Fungus breaks down ocean plastic](https://www.nioz.nl/en/news/fungus-breaks-down-ocean-plastic)
-- [Lamini Memory Tuning: 10x Fewer Hallucinations](https://www.lamini.ai/blog/lamini-memory-tuning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
