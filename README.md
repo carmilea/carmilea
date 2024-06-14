@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning away from smartphones: &#39;We need to go places and touch things&#39;](https://www.theguardian.com/lifeandstyle/article/2024/jun/12/young-people-turning-away-from-phones-social-media-addiction)
-- [Effect of Passenger Position on Crash Injury Risk in Aircraft &lpar;2015&rpar; [pdf]](https://www.tc.faa.gov/its/worldpac/techrpt/am15-17.pdf)
-- [From One RSS Feed Entry to 186850 Hits](https://susam.net/from-web-feed-to-186850-hits.html)
-- [A look at Apple&#39;s technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
-- [Sustain Open Source, sustain the planet: A new conversation](https://opensource.net/oss-for-climate-podcast/)
+- [Santé &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/sante/jobs/Xw3ujU8-technical-account-manager)
+- [The Surprising Brain-Health Benefits of Weightlifting](https://www.psychologytoday.com/us/blog/the-modern-brain/202402/the-surprising-benefits-of-weightlifting-for-brain-health)
+- [Android Drivers - News and updates from the Project Zero team at Google](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html)
+- [FAA Investigating How Counterfeit Titanium Got into Boeing and Airbus Jets](https://www.nytimes.com/2024/06/14/us/politics/boeing-airbus-titanium-faa.html)
+- [Germany sees company bankruptcies soar](https://www.dw.com/en/germany-sees-company-bankruptcies-soar/a-69358663)
 <!-- BLOG-POST-LIST:END -->
 
 ---
