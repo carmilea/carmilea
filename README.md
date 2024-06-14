@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla investors back $56B Musk pay deal](https://www.bbc.com/news/articles/cleezyxjv4jo)
+- [Apple set to be first Big Tech group to face charges under EU digital law](https://www.ft.com/content/31a996d5-b472-4357-953e-ace078494604)
+- [I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
+- [Japan Passes Law to Allow Third-Party App Stores on the iPhone](https://www.macrumors.com/2024/06/14/japan-passes-law-to-allow-third-party-app-stores/)
+- [Why are so many books listed as &quot;Borrow Unavailable&quot; at the Internet Archive?](https://help.archive.org/help/why-are-so-many-books-listed-as-borrow-unavailable-at-the-internet-archive/)
 - [Why sleep deprivation disrupts memory](https://www.nature.com/articles/d41586-024-01732-y)
-- [How to Design and Manufacture Your Own Chip [video]](https://www.youtube.com/watch?v=caXwuuXSB-A)
-- [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
-- [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
 <!-- BLOG-POST-LIST:END -->
 
 ---
