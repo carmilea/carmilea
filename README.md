@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aviator &lpar;YC S21&rpar; Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)
-- [The sun&#39;s magnetic field is about to flip](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
-- [Llm.mojo: Andrej Karpathy&#39;s Llm.c in Mojo](https://github.com/dorjeduck/llm.mojo)
-- [AIM Jacking on Macintosh Systems &lpar;2001&rpar;](http://mazur-archives.s3.amazonaws.com/aol-files/articles/names_hypah_aimexploit.html)
-- [Effect – Build robust apps in TypeScript](https://effect.website/)
+- [Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemotron-4-340b)
+- [Microsoft&#39;s Recall AI feature is now indefinitely delayed](https://blogs.windows.com/windowsexperience/2024/06/07/update-on-the-recall-preview-feature-for-copilot-pcs/)
+- [YouTube embeds ads into videos to beat ad blockers](https://searchengineland.com/youtube-embeds-ads-videos-ad-blockers-443187)
+- [Boeing and Airbus may have used &#39;counterfeit&#39; titanium in planes, FAA says](https://www.nbcnews.com/business/business-news/boeing-airbus-may-used-counterfeit-titanium-planes-faa-investigating-rcna157160)
+- [Turning the Tables on AI](https://ia.net/topics/turning-the-tables-on-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
