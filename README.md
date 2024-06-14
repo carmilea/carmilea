@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Statistics Blunder at the Supreme Court](https://statmodeling.stat.columbia.edu/2024/06/14/statistics-blunder-at-the-supreme-court/)
+- [Tesla investors back $56B Musk pay deal](https://www.bbc.com/news/articles/cleezyxjv4jo)
+- [Why sleep deprivation disrupts memory](https://www.nature.com/articles/d41586-024-01732-y)
+- [How to Design and Manufacture Your Own Chip [video]](https://www.youtube.com/watch?v=caXwuuXSB-A)
+- [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
 - [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
-- [Kaprekar&#39;s Magic 6174](https://www.oranlooney.com/post/kaprekar/)
-- [I Found a 55 Year Old Bug in the First Lunar Lander Game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
-- [Map of Forest Sounds from Around the World](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
