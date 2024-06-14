@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft to delay release of Recall AI feature on security concerns](https://www.reuters.com/technology/artificial-intelligence/microsoft-delay-release-recall-ai-feature-security-concerns-2024-06-14/)
 - [ASML Aims for Hyper-NA EUV, Shrinking Chip Limits](https://www.eetimes.com/asml-aims-for-hyper-na-euv-shrinking-chip-limits/)
 - [Brew-Nix: a flake automatically packaging all homebrew casks](https://discourse.nixos.org/t/brew-nix-a-flake-automatically-packaging-all-homebrew-casks/44880)
 - [Land value tax in online games and virtual worlds](https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and)
 - [Fungus breaks down ocean plastic](https://www.nioz.nl/en/news/fungus-breaks-down-ocean-plastic)
+- [Lamini Memory Tuning: 10x Fewer Hallucinations](https://www.lamini.ai/blog/lamini-memory-tuning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
