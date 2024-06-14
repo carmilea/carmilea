@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemotron-4-340b)
+- [Nemotron-4 340B open weights model](https://research.nvidia.com/publication/2024-06_nemotron-4-340b)
 - [Microsoft&#39;s Recall AI feature is now indefinitely delayed](https://blogs.windows.com/windowsexperience/2024/06/07/update-on-the-recall-preview-feature-for-copilot-pcs/)
-- [YouTube embeds ads into videos to beat ad blockers](https://searchengineland.com/youtube-embeds-ads-videos-ad-blockers-443187)
 - [Boeing and Airbus may have used &#39;counterfeit&#39; titanium in planes, FAA says](https://www.nbcnews.com/business/business-news/boeing-airbus-may-used-counterfeit-titanium-planes-faa-investigating-rcna157160)
 - [Turning the Tables on AI](https://ia.net/topics/turning-the-tables-on-ai)
+- [Oracle Is Shutting Down Its Ad Business](https://www.adweek.com/programmatic/oracle-is-shutting-down-its-ad-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
