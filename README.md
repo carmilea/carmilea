@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe employees slam the company over AI controversy: &#39;Avoid becoming like IBM&#39;](https://archive.is/2024.06.13-185505/https://www.businessinsider.com/adobe-employees-slam-company-over-ai-controversy-2024-6)
+- [Lamini Memory Tuning: 10x Fewer Hallucinations](https://www.lamini.ai/blog/lamini-memory-tuning)
 - [Encodings for flattened heap values](https://cr.openjdk.org/~jrose/values/flattened-values.html)
-- [Unity Catalog: Open, Multi-Modal Catalog for Data and AI](https://github.com/unitycatalog/unitycatalog)
+- [IKEA&#39;s retailer&#39;s solved global &#39;unhappy worker&#39; crisis by raising salaries](https://fortune.com/europe/2024/06/11/ikeas-boss-solved-swedish-retailers-global-unhappy-worker-crisis-raising-salaries-introducing-flexible-working-subsidized-childcare/)
 - [Pay $1 to Hear Wu-Tang Clan’s Secret Album &lpar;Eventually&rpar;](https://www.nytimes.com/2024/06/13/arts/music/wu-tang-clan-once-upon-a-time-in-shaolin.html)
 - [U.S.-Saudi petrodollar pact ends after 50 years](https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years)
 <!-- BLOG-POST-LIST:END -->
