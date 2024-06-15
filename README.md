@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse Engineering a Restaurant Pager System](https://k3xec.com/td158/)
+- [Sans Bullshit Sans](https://www.sansbullshitsans.com/)
 - [Impulse Tracker source code now available on GitHub](https://github.com/jthlim/impulse-tracker)
 - [Book: Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
 - [The State of Carbon Dioxide Removal](https://www.stateofcdr.org)
-- [You&#39;ve Read Your Last Free Article, Such Is the Nature of Mortality](https://www.mcsweeneys.net/articles/youve-read-your-last-free-article-such-is-the-nature-of-mortality)
-- [Southwest flight came within 400 feet of crashing into the ocean](https://www.cnn.com/2024/06/15/us/southwest-flight-hawaii-federal-investigation/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
