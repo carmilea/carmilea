@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nango &lpar;YC W23&rpar; Is Hiring a Senior Product Engineer &lpar;100% Remote&rpar;](https://www.nango.dev/jobs)
 - [Amazon has a secret way to scrape Microsoft&#39;s GitHub and feed its AI model](https://dataconomy.com/2024/06/14/amazon-has-a-secret-way-to-scrape-microsofts-github-and-feed-its-ai-model/)
-- [Some Technical Facts About My Website](https://susam.net/some-technical-facts-about-my-website.html)
 - [Britain&#39;s &#39;Pompeii&#39;: UK&#39;s Largest Bronze Age Find](https://www.bbc.com/news/articles/cx8q32rj2yjo)
 - [Information Security: &quot;We Can Do It, We Just Choose Not To&quot;](https://www.hezmatt.org/~mpalmer/blog/2024/06/14/information-security-we-can-do-it-right-we-choose-not-to.html)
-- [&#39;The big problem is water&#39;: UK ebike owners plagued by failing motors](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors)
+- [Django SQLite Production Config](https://blog.pecar.me/sqlite-django-config)
 <!-- BLOG-POST-LIST:END -->
 
 ---
