@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Data-Fueled Neurotargeting Could Kill Democracy](https://thereader.mitpress.mit.edu/how-data-fueled-neurotargeting-could-kill-democracy/)
+- [Perfectionism is optimizing at the wrong scale](https://www.autodidacts.io/holistic-perfectionism/)
+- [Perplexity AI Is Lying about Their User Agent](https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/)
+- [The Day I Learned to Think Like a Browser](https://www.thebookwormsburrow.com/p/the-day-i-learned-to-think-like-a)
+- [America Is Losing the Shoe Race with China](https://www.csis.org/blogs/working-papers/america-losing-shoe-race-china)
 - [Useful and Overlooked Skills](https://collabfund.com/blog/useful-and-overlooked-skills/)
-- [Radioactive drugs strike cancer with precision](https://knowablemagazine.org/content/article/health-disease/2024/cancer-fighting-radiopharmaceuticals-are-taking-off)
-- [DARPA Shows Concepts for the Future of VTOL Uncrewed Aerial Systems](https://www.darpa.mil/news-events/2024-05-22)
-- [What About libjpeg v9? &lpar;2013&rpar;](https://libjpeg-turbo.org/About/Jpeg-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
