@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Impulse Tracker source code now available on GitHub](https://github.com/jthlim/impulse-tracker)
+- [Book: Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
+- [The State of Carbon Dioxide Removal](https://www.stateofcdr.org)
 - [You&#39;ve Read Your Last Free Article, Such Is the Nature of Mortality](https://www.mcsweeneys.net/articles/youve-read-your-last-free-article-such-is-the-nature-of-mortality)
 - [Southwest flight came within 400 feet of crashing into the ocean](https://www.cnn.com/2024/06/15/us/southwest-flight-hawaii-federal-investigation/index.html)
-- [Two announcements: AI for Math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
-- [ESASky](https://sky.esa.int/esasky/)
-- [Show HN: Keydogger – Minimal keyboard macro for Linux&lpar;Wayland&rpar;](https://github.com/jarusll/keydogger)
 <!-- BLOG-POST-LIST:END -->
 
 ---
