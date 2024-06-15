@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla&#39;s FSD – A Useless Technology Demo](https://tomverbeure.github.io/2024/05/20/Tesla-FSD-First-and-Last-Impressions.html)
 - [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
+- [Show HN: An open source extension to block large media brands from Google search](https://github.com/hp27596/secondpage)
 - [Invention to Impact: The story of LASIK eye surgery](https://new.nsf.gov/science-matters/invention-impact-story-lasik-eye-surgery)
 - [Syzygy: An open standard for low cost, compact and high-performance peripherals](https://syzygyfpga.io/)
-- [Face of ancient Australian &#39;giga-goose&#39; revealed after fossil skull found](https://www.nhm.ac.uk/discover/news/2024/june/face-ancient-australian-giga-goose-revealed-after-fossil-skull-found.html)
-- [Making my local LLM voice assistant faster and more scalable with RAG](https://johnthenerd.com/blog/faster-local-llm-assistant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
