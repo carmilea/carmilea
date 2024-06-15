@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 - [Syzygy: An open standard for low cost, compact and high-performance peripherals](https://syzygyfpga.io/)
 - [Face of ancient Australian &#39;giga-goose&#39; revealed after fossil skull found](https://www.nhm.ac.uk/discover/news/2024/june/face-ancient-australian-giga-goose-revealed-after-fossil-skull-found.html)
 - [Making my local LLM voice assistant faster and more scalable with RAG](https://johnthenerd.com/blog/faster-local-llm-assistant/)
 - [Spaced repetition for teaching two-year olds how to read](https://chrislakin.blog/p/spaced-repetition-for-teaching-two)
-- [Exponentially Better Rotations](http://thenumb.at/Exponential-Rotations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
