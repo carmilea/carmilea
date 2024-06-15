@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You&#39;ve Read Your Last Free Article, Such Is the Nature of Mortality](https://www.mcsweeneys.net/articles/youve-read-your-last-free-article-such-is-the-nature-of-mortality)
 - [Southwest flight came within 400 feet of crashing into the ocean](https://www.cnn.com/2024/06/15/us/southwest-flight-hawaii-federal-investigation/index.html)
+- [Two announcements: AI for Math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
 - [ESASky](https://sky.esa.int/esasky/)
 - [Show HN: Keydogger – Minimal keyboard macro for Linux&lpar;Wayland&rpar;](https://github.com/jarusll/keydogger)
-- [Perfectionism is optimizing at the wrong scale](https://www.autodidacts.io/holistic-perfectionism/)
-- [Perplexity AI Is Lying about Their User Agent](https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
