@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Nango &lpar;YC W23&rpar; Is Hiring a Senior Product Engineer &lpar;100% Remote&rpar;](https://www.nango.dev/jobs)
-- [Amazon has a secret way to scrape Microsoft&#39;s GitHub and feed its AI model](https://dataconomy.com/2024/06/14/amazon-has-a-secret-way-to-scrape-microsofts-github-and-feed-its-ai-model/)
+- [A judge ordered us to turn over privileged documents](https://mississippitoday.org/2024/06/06/mississippi-today-supreme-court-appeal/)
+- [DARPA unveils 6 new designs for uncrewed vertical-takeoff military aircraft](https://www.livescience.com/technology/engineering/darpa-considers-6-new-designs-for-uncrewed-vtol-aircraft-that-carry-weapons-payloads-with-test-flights-set-for-2026)
 - [Britain&#39;s &#39;Pompeii&#39;: UK&#39;s Largest Bronze Age Find](https://www.bbc.com/news/articles/cx8q32rj2yjo)
-- [Information Security: &quot;We Can Do It, We Just Choose Not To&quot;](https://www.hezmatt.org/~mpalmer/blog/2024/06/14/information-security-we-can-do-it-right-we-choose-not-to.html)
-- [Django SQLite Production Config](https://blog.pecar.me/sqlite-django-config)
+- [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 <!-- BLOG-POST-LIST:END -->
 
 ---
