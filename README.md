@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ollama v0.1.45](https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1)
 - [Reverse Engineering a Restaurant Pager System](https://k3xec.com/td158/)
-- [Sans Bullshit Sans](https://www.sansbullshitsans.com/)
+- [Sans Bullshit Sans &lpar;2015&rpar;](https://www.sansbullshitsans.com/)
 - [Impulse Tracker source code now available on GitHub](https://github.com/jthlim/impulse-tracker)
-- [Book: Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
-- [The State of Carbon Dioxide Removal](https://www.stateofcdr.org)
+- [Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
