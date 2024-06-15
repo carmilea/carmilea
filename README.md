@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Syzygy: An open standard for low cost, compact and high-performance peripherals](https://syzygyfpga.io/)
 - [Face of ancient Australian &#39;giga-goose&#39; revealed after fossil skull found](https://www.nhm.ac.uk/discover/news/2024/june/face-ancient-australian-giga-goose-revealed-after-fossil-skull-found.html)
 - [Making my local LLM voice assistant faster and more scalable with RAG](https://johnthenerd.com/blog/faster-local-llm-assistant/)
 - [Spaced repetition for teaching two-year olds how to read](https://chrislakin.blog/p/spaced-repetition-for-teaching-two)
 - [Exponentially Better Rotations](http://thenumb.at/Exponential-Rotations/)
-- [The first &#39;major lunar standstill&#39; in more than 18 years is about to occur](https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
