@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Good code is rarely read](https://www.alexmolas.com/2024/06/06/good-code.html)
-- [Threescaper: A website for loading Townscaper models into Three.js](https://github.com/meliharvey/threescaper)
-- [Nango &lpar;YC W23&rpar; Is Hiring a Senior Product Engineer &lpar;100% Remote&rpar;](https://www.nango.dev/jobs)
-- [DARPA unveils 6 new designs for uncrewed vertical-takeoff military aircraft](https://www.livescience.com/technology/engineering/darpa-considers-6-new-designs-for-uncrewed-vtol-aircraft-that-carry-weapons-payloads-with-test-flights-set-for-2026)
-- [Britain&#39;s &#39;Pompeii&#39;: UK&#39;s Largest Bronze Age Find](https://www.bbc.com/news/articles/cx8q32rj2yjo)
+- [We Are Starting to Enjoy Hatred](https://www.wsj.com/articles/we-are-starting-to-enjoy-hatred-c3005b05)
+- [What About libjpeg v9? &lpar;2013&rpar;](https://libjpeg-turbo.org/About/Jpeg-9)
+- [Exhaustive Survey of Rickrolling in Academic Literature [pdf]](https://arxiv.org/abs/2204.06826)
+- [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
+- [How to Raise a Tribal Army in Pre-Roman Europe, Part II](https://acoup.blog/2024/06/14/collections-how-to-raise-a-tribal-army-in-pre-roman-europe-part-ii-government-without-states/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
