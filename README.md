@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CrewAI Meets Suno AI](https://github.com/neural-maze/melody_agents)
+- [Google Ad Tech Antitrust Suit Will Go to Trial, Judge Rules](https://www.bloomberg.com/news/articles/2024-06-14/google-ad-tech-antitrust-suit-will-go-to-trial-judge-rules)
+- [The Costco of Housing is Costco? The retailer&#39;s plan to use CA housing laws](https://www.urbanproxima.com/p/the-costco-of-housing-iscostco)
 - [Exponentially Better Rotations](http://thenumb.at/Exponential-Rotations/)
 - [The first &#39;major lunar standstill&#39; in more than 18 years is about to occur](https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it)
-- [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
-- [Aviator &lpar;YC S21&rpar; Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)
-- [The challenge of writing a on-demand transcoder](https://zoriya.dev/blogs/transcoder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
