@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Southwest flight came within 400 feet of crashing into the ocean](https://www.cnn.com/2024/06/15/us/southwest-flight-hawaii-federal-investigation/index.html)
+- [ESASky](https://sky.esa.int/esasky/)
+- [Show HN: Keydogger – Minimal keyboard macro for Linux&lpar;Wayland&rpar;](https://github.com/jarusll/keydogger)
 - [Perfectionism is optimizing at the wrong scale](https://www.autodidacts.io/holistic-perfectionism/)
 - [Perplexity AI Is Lying about Their User Agent](https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/)
-- [The Day I Learned to Think Like a Browser](https://www.thebookwormsburrow.com/p/the-day-i-learned-to-think-like-a)
-- [America Is Losing the Shoe Race with China](https://www.csis.org/blogs/working-papers/america-losing-shoe-race-china)
-- [Useful and Overlooked Skills](https://collabfund.com/blog/useful-and-overlooked-skills/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
