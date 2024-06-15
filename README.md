@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CrewAI Meets Suno AI](https://github.com/neural-maze/melody_agents)
-- [Google Ad Tech Antitrust Suit Will Go to Trial, Judge Rules](https://www.bloomberg.com/news/articles/2024-06-14/google-ad-tech-antitrust-suit-will-go-to-trial-judge-rules)
+- [OpenAI Appoints Former NSA Director Paul Nakasone to Board of Directors](https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors/)
+- [Face of ancient Australian &#39;giga-goose&#39; revealed after fossil skull found](https://www.nhm.ac.uk/discover/news/2024/june/face-ancient-australian-giga-goose-revealed-after-fossil-skull-found.html)
+- [Making my local LLM voice assistant faster and more scalable with RAG](https://johnthenerd.com/blog/faster-local-llm-assistant/)
 - [The Costco of Housing is Costco? The retailer&#39;s plan to use CA housing laws](https://www.urbanproxima.com/p/the-costco-of-housing-iscostco)
-- [Exponentially Better Rotations](http://thenumb.at/Exponential-Rotations/)
-- [The first &#39;major lunar standstill&#39; in more than 18 years is about to occur](https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it)
+- [Spaced repetition for teaching two-year olds how to read](https://chrislakin.blog/p/spaced-repetition-for-teaching-two)
 <!-- BLOG-POST-LIST:END -->
 
 ---
