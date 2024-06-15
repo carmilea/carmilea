@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Are Starting to Enjoy Hatred](https://www.wsj.com/articles/we-are-starting-to-enjoy-hatred-c3005b05)
+- [Data-Fueled Neurotargeting Could Kill Democracy](https://thereader.mitpress.mit.edu/how-data-fueled-neurotargeting-could-kill-democracy/)
+- [Useful and Overlooked Skills](https://collabfund.com/blog/useful-and-overlooked-skills/)
+- [Radioactive drugs strike cancer with precision](https://knowablemagazine.org/content/article/health-disease/2024/cancer-fighting-radiopharmaceuticals-are-taking-off)
+- [DARPA Shows Concepts for the Future of VTOL Uncrewed Aerial Systems](https://www.darpa.mil/news-events/2024-05-22)
 - [What About libjpeg v9? &lpar;2013&rpar;](https://libjpeg-turbo.org/About/Jpeg-9)
-- [Exhaustive Survey of Rickrolling in Academic Literature [pdf]](https://arxiv.org/abs/2204.06826)
-- [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
-- [How to Raise a Tribal Army in Pre-Roman Europe, Part II](https://acoup.blog/2024/06/14/collections-how-to-raise-a-tribal-army-in-pre-roman-europe-part-ii-government-without-states/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
