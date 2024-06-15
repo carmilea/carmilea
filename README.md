@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon has a secret way to scrape Microsoft&#39;s GitHub and feed its AI model](https://dataconomy.com/2024/06/14/amazon-has-a-secret-way-to-scrape-microsofts-github-and-feed-its-ai-model/)
+- [Some Technical Facts About My Website](https://susam.net/some-technical-facts-about-my-website.html)
+- [Britain&#39;s &#39;Pompeii&#39;: UK&#39;s Largest Bronze Age Find](https://www.bbc.com/news/articles/cx8q32rj2yjo)
+- [Information Security: &quot;We Can Do It, We Just Choose Not To&quot;](https://www.hezmatt.org/~mpalmer/blog/2024/06/14/information-security-we-can-do-it-right-we-choose-not-to.html)
 - [&#39;The big problem is water&#39;: UK ebike owners plagued by failing motors](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors)
-- [Django SQLite Production Config](https://blog.pecar.me/sqlite-django-config)
-- [Tesla&#39;s FSD – A Useless Technology Demo](https://tomverbeure.github.io/2024/05/20/Tesla-FSD-First-and-Last-Impressions.html)
-- [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
-- [Show HN: An open source extension to block large media brands from Google search](https://github.com/hp27596/secondpage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
