@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
+- [Show HN: I made first declaritive SVG,canvas framework](https://flitter.pages.dev)
+- [Harvard Railroad Economics Exam &lpar;1906&rpar;](https://www.irwincollier.com/harvard-enrollment-and-final-exam-for-railroad-practice-daggett-1906-1907/)
+- [Show HN: Paste2Download – No Login, No Ads, Download Videos Watermark Free](https://www.paste2download.com/)
 - [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
-- [Show HN: We Made The World&#39;s Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
-- [The Architecture Behind a One-Person Tech Startup &lpar;2021&rpar;](https://anthonynsimon.com/blog/one-man-saas-architecture/)
-- [SimCity in the web browser using WebAssembly and OpenGL](https://micropolisweb.com/)
-- [Google, Cloudflare and Cisco will poison DNS to stop piracy block circumvention](https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
