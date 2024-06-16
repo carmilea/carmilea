@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Banana Pi M7](https://taoofmac.com/space/blog/2024/06/16/1800)
+- [I&#39;ve compared nearly all Rust crates.io crates to contents of their Git repos](https://mastodon.social/@kornel/112626463128422583)
 - [Lago &lpar;Open Source Usage Based Billing&rpar; Is Hiring a Head of Finance &lpar;SF&rpar;](https://jobs.lever.co/getlago/5f75502e-ecc5-4660-a2ad-e66f91e81e59)
-- [Building SimCity: How to Put the World in a Machine &lpar;MIT Press, 2024&rpar;](https://mitpress.mit.edu/9780262547482/building-simcity/)
-- [Packaging Swift Apps for Alpine Linux](https://mko.re/blog/swift-alpine-packaging/)
-- [The Raspberry Pi 5 Is No Match for a Tini-Mini-Micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
-- [Are animals conscious? How new research is changing minds](https://www.bbc.com/news/articles/cv223z15mpmo)
+- [Building SimCity: How to put the world in a machine](https://mitpress.mit.edu/9780262547482/building-simcity/)
+- [Edinburgh, Scotland makes it illegal to advertise SUVs](https://www.washingtonpost.com/climate-solutions/2024/06/15/fossil-fuel-advertising-bans-edinburgh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
