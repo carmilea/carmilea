@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
 - [Show HN: We Made The World&#39;s Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
-- [The Architecture Behind a One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+- [The Architecture Behind a One-Person Tech Startup &lpar;2021&rpar;](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+- [SimCity in the web browser using WebAssembly and OpenGL](https://micropolisweb.com/)
 - [Google, Cloudflare and Cisco will poison DNS to stop piracy block circumvention](https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/)
-- [Why you shouldn&#39;t parse the output of ls&lpar;1&rpar;](https://mywiki.wooledge.org/ParsingLs)
-- [Reverse engineering a restaurant pager system](https://k3xec.com/td158/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
