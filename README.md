@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple Sabotage for Software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
 - [European Alternatives](https://european-alternatives.eu)
 - [Ask HN: Freelancers, how do you get work?](https://news.ycombinator.com/item?id=40695679)
 - [Htmd: A turndown.js inspired HTML-to-Markdown converter for Rust](https://github.com/letmutex/htmd)
 - [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
-- [Show HN: I made first declaritive SVG,canvas framework](https://flitter.pages.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
