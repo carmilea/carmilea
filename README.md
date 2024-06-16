@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [R.A. Lafferty: &quot;The Greatest Catholic Novelist You Never Heard of&quot; &lpar;2018&rpar;](https://benedictinstitute.org/2018/02/r-lafferty-greatest-catholic-novelist-never-heard/)
 - [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
 - [Show HN: I made first declaritive SVG,canvas framework](https://flitter.pages.dev)
 - [Harvard Railroad Economics Exam &lpar;1906&rpar;](https://www.irwincollier.com/harvard-enrollment-and-final-exam-for-railroad-practice-daggett-1906-1907/)
 - [Show HN: Paste2Download – No Login, No Ads, Download Videos Watermark Free](https://www.paste2download.com/)
-- [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
