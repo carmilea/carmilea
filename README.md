@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Nemotron-4 340B&#39; model redefines synthetic data generation, rivals GPT-4](https://venturebeat.com/ai/nvidias-nemotron-4-340b-model-redefines-synthetic-data-generation-rivals-gpt-4/)
-- [Post Office scandal victims in Scotland have convictions quashed](https://www.computerweekly.com/news/366588932/Post-Office-scandal-victims-in-Scotland-have-convictions-quashed)
-- [Do not try to be the smartest in the room; try to be the kindest](https://www.jorgegalindo.me/en/blog/posts/do-not-be-the-smartest-in-the-room-try-to-be-the-kindest)
-- [Voyager Spacecraft and Fortran 5](http://www.geonius.com/writing/other/voyager.html)
-- [Simple sabotage for software &lpar;2023&rpar;](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
+- [NLRB judge declares non-compete clause is an unfair labor practice](https://www.nlrbedge.com/p/in-first-case-of-its-kind-nlrb-judge)
+- [Is there ever a good reason to disable swap?](https://news.ycombinator.com/item?id=40696959)
+- [Gulf of Mexico Dead Zone](https://www.nature.org/en-us/about-us/where-we-work/priority-landscapes/gulf-of-mexico/stories-in-the-gulf-of-mexico/gulf-of-mexico-dead-zone/)
+- [TerraPower&#39;s Natrium: A Fast Neutron Reactor with Built-In Grid Level Storage](https://hackaday.com/2021/07/06/terrapowers-natrium-combining-a-fast-neutron-reactor-with-built-in-grid-level-storage/)
+- [Flesh-Eating Bacteria That Can Kill in Two Days Spreads in Japan](https://www.bloomberg.com/news/articles/2024-06-15/flesh-eating-bacteria-that-can-kill-in-two-days-spreads-in-japan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
