@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MicroMac, a Macintosh for Under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
+- [Quake 1 potential original font](https://cohost.org/bekoha/post/2859948-quake-1-potential-or)
+- [Show HN: Searchable Kubernetes CSI provider listing](https://storageclass.info/storageclasses/)
 - [Experts vs. Imitators](https://fs.blog/experts-vs-imitators/)
-- [OpenAI and Microsoft Azure to deprecate GPT-4 32K](https://twitter.com/headinthebox/status/1802404482174820398)
-- [The Banana Pi M7](https://taoofmac.com/space/blog/2024/06/16/1800)
-- [I&#39;ve compared nearly all Rust crates.io crates to contents of their Git repos](https://mastodon.social/@kornel/112626463128422583)
-- [Lago &lpar;Open Source Usage Based Billing&rpar; Is Hiring a Head of Finance &lpar;SF&rpar;](https://jobs.lever.co/getlago/5f75502e-ecc5-4660-a2ad-e66f91e81e59)
+- [Japanese Words and Names Sound African. Why?](https://www.farooqkperogi.com/2022/10/japanese-words-and-names-sound-african.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
