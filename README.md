@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: We Made The World&#39;s Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
+- [A collection of 2,299 blogs about every topic](https://ooh.directory/)
+- [Google, Cloudflare and Cisco will poison DNS to stop piracy block circumvention](https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/)
 - [Reformatting 100k Files at Google in 2011](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
 - [Ollama v0.1.45](https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1)
-- [Why you shouldn&#39;t parse the output of ls&lpar;1&rpar;](https://mywiki.wooledge.org/ParsingLs)
-- [Reverse engineering a restaurant pager system](https://k3xec.com/td158/)
-- [Subducting plate structure and megathrust morphology at Cascadia](https://www.science.org/doi/10.1126/sciadv.adl3198)
 <!-- BLOG-POST-LIST:END -->
 
 ---
