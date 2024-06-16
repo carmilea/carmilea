@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Will Poison DNS to Stop Piracy Block Circumvention](https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/)
+- [Reformatting 100k Files at Google in 2011](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
 - [Ollama v0.1.45](https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1)
-- [Reverse Engineering a Restaurant Pager System](https://k3xec.com/td158/)
-- [Sans Bullshit Sans &lpar;2015&rpar;](https://www.sansbullshitsans.com/)
-- [Impulse Tracker source code now available on GitHub](https://github.com/jthlim/impulse-tracker)
-- [Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
+- [Why you shouldn&#39;t parse the output of ls&lpar;1&rpar;](https://mywiki.wooledge.org/ParsingLs)
+- [Reverse engineering a restaurant pager system](https://k3xec.com/td158/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
