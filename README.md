@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Maintaining large-scale AI capacity at Meta](https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/)
+- [Starlark Language](https://github.com/bazelbuild/starlark)
+- [Roger Linn reviews MPC Live 2](https://www.youtube.com/watch?v=0bhSWwf-i1k)
+- [To see is to forget the name of the thing one sees](https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/)
 - [Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
-- [NumPy 2.0 Is Released](https://numpy.org/news/)
-- [MicroMac, a Macintosh for Under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
-- [Bouba/Kiki Effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
-- [First look at the upcoming Starlink Mini](https://www.starlinkhardware.com/first-look-at-the-upcoming-starlink-mini/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
