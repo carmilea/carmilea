@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Sabotage for Software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
-- [European Alternatives](https://european-alternatives.eu)
-- [Ask HN: Freelancers, how do you get work?](https://news.ycombinator.com/item?id=40695679)
-- [Htmd: A turndown.js inspired HTML-to-Markdown converter for Rust](https://github.com/letmutex/htmd)
-- [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
+- [&#39;Nemotron-4 340B&#39; model redefines synthetic data generation, rivals GPT-4](https://venturebeat.com/ai/nvidias-nemotron-4-340b-model-redefines-synthetic-data-generation-rivals-gpt-4/)
+- [Post Office scandal victims in Scotland have convictions quashed](https://www.computerweekly.com/news/366588932/Post-Office-scandal-victims-in-Scotland-have-convictions-quashed)
+- [Do not try to be the smartest in the room; try to be the kindest](https://www.jorgegalindo.me/en/blog/posts/do-not-be-the-smartest-in-the-room-try-to-be-the-kindest)
+- [Voyager Spacecraft and Fortran 5](http://www.geonius.com/writing/other/voyager.html)
+- [Simple sabotage for software &lpar;2023&rpar;](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
