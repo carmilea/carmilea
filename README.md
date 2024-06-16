@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: We Made The World&#39;s Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
-- [A collection of 2,299 blogs about every topic](https://ooh.directory/)
+- [The Architecture Behind a One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
 - [Google, Cloudflare and Cisco will poison DNS to stop piracy block circumvention](https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/)
-- [Ollama v0.1.45](https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1)
 - [Why you shouldn&#39;t parse the output of ls&lpar;1&rpar;](https://mywiki.wooledge.org/ParsingLs)
+- [Reverse engineering a restaurant pager system](https://k3xec.com/td158/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
