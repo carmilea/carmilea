@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Experts vs. Imitators](https://fs.blog/experts-vs-imitators/)
+- [OpenAI and Microsoft Azure to deprecate GPT-4 32K](https://twitter.com/headinthebox/status/1802404482174820398)
 - [The Banana Pi M7](https://taoofmac.com/space/blog/2024/06/16/1800)
 - [I&#39;ve compared nearly all Rust crates.io crates to contents of their Git repos](https://mastodon.social/@kornel/112626463128422583)
 - [Lago &lpar;Open Source Usage Based Billing&rpar; Is Hiring a Head of Finance &lpar;SF&rpar;](https://jobs.lever.co/getlago/5f75502e-ecc5-4660-a2ad-e66f91e81e59)
-- [Building SimCity: How to put the world in a machine](https://mitpress.mit.edu/9780262547482/building-simcity/)
-- [Edinburgh, Scotland makes it illegal to advertise SUVs](https://www.washingtonpost.com/climate-solutions/2024/06/15/fossil-fuel-advertising-bans-edinburgh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
