@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Raspberry Pi 5 Is No Match for a Tini-Mini-Micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
+- [Are animals conscious? How new research is changing minds](https://www.bbc.com/news/articles/cv223z15mpmo)
 - [NLRB judge declares non-compete clause is an unfair labor practice](https://www.nlrbedge.com/p/in-first-case-of-its-kind-nlrb-judge)
 - [TerraPower&#39;s Natrium: A Fast Neutron Reactor with Built-In Grid Level Storage](https://hackaday.com/2021/07/06/terrapowers-natrium-combining-a-fast-neutron-reactor-with-built-in-grid-level-storage/)
 - [Flesh-Eating Bacteria That Can Kill in Two Days Spreads in Japan](https://www.bloomberg.com/news/articles/2024-06-15/flesh-eating-bacteria-that-can-kill-in-two-days-spreads-in-japan)
-- [Do not try to be the smartest in the room; try to be the kindest](https://www.jorgegalindo.me/en/blog/posts/do-not-be-the-smartest-in-the-room-try-to-be-the-kindest)
-- [Voyager Spacecraft and Fortran 5](http://www.geonius.com/writing/other/voyager.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
