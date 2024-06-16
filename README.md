@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Is Bullshit](https://www.researchgate.net/publication/381278855_ChatGPT_is_bullshit)
-- [Sam Bankman-Fried funded a group with racist ties. FTX wants its $5M back](https://www.theguardian.com/technology/article/2024/jun/16/sam-bankman-fried-ftx-eugenics-scientific-racism)
-- [Agile Dating: A Less Painful Way to Date](https://jessicafan.substack.com/p/agile-dating-a-less-painful-way-to)
+- [Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
+- [NumPy 2.0 Is Released](https://numpy.org/news/)
 - [MicroMac, a Macintosh for Under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
 - [Bouba/Kiki Effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
+- [First look at the upcoming Starlink Mini](https://www.starlinkhardware.com/first-look-at-the-upcoming-starlink-mini/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
