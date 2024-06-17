@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Backdoor in D-Link routers enables telnet access](https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10398)
+- [McDonald&#39;s is ending its drive-thru AI test](https://www.restaurantbusinessonline.com/technology/mcdonalds-ending-its-drive-thru-ai-test)
+- [Being laid off and unplanned entrepreneurship](https://www.deepsouthventures.com/on-being-laid-off-unplanned-entrepreneurship/)
+- [Don&#39;t store your cucumbers in the fridge &lpar;2012&rpar;](https://www.rootsimple.com/2012/06/dont-store-your-cucumbers-in-the-fridge/)
 - [Commercial perovskite solar modules at SNEC 2024 trade show](https://www.pv-magazine.com/2024/06/13/commercial-perovskite-solar-modules-at-snec-2024-trade-show/)
-- [Nsss: A secure NSS-like implementation for static linking](https://skarnet.org/software/nsss/)
-- [Developer Takes &#39;Retro&#39; Concept to New Level by Creating Physical Winamp Player](https://www.xatakaon.com/makers/a-developer-has-just-taken-the-concept-of-retro-to-a-new-level-by-creating-a-physical-winamp-player)
-- [The time keepers: pg_cron and pg_timetable](https://notso.boringsql.com/posts/time-keepers-pg-cron-pg-timetable/)
-- [Firezone &lpar;YC W22&rpar; Is Hiring a Senior Rust Engineer &lpar;Mountain View&rpar;](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-rust-engineer-systems)
 <!-- BLOG-POST-LIST:END -->
 
 ---
