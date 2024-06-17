@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Marion Stokes, the Woman Who Spent over 30 Years Recording Every Minute of US TV](https://allthatsinteresting.com/marion-stokes)
+- [OpenBSD, the computer appliance maker&#39;s secret weapon](https://hiandrewquinn.github.io/til-site/posts/openbsd-the-computer-appliance-maker-s-secret-weapon/)
 - [I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
-- [In AI we trust, part II: Wherein AI adjudicates every Supreme Court case](https://adamunikowsky.substack.com/p/in-ai-we-trust-part-ii)
+- [Feds Arrest Telehealth Execs for Overprescribing Adderall](https://reason.com/2024/06/14/feds-arrest-telehealth-execs-for-overprescribing-adderall/)
 - [Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]](https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf)
-- [They make USB-C cables with displays now](https://ounapuu.ee/posts/2024/06/05/usb-c-cables/)
-- [Using the C preprocessor as an HTML templating engine](https://github.com/cedric-h/c-website)
 <!-- BLOG-POST-LIST:END -->
 
 ---
