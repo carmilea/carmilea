@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens If You Swallow Gum?](https://health.clevelandclinic.org/what-happens-when-you-swallow-gum)
-- [Stop Using Fandom](https://j3s.sh/thought/stop-using-fandom.html)
-- [Suiteness &lpar;YC S16&rpar; Is Hiring for TypeScript/Qwik](https://www.ycombinator.com/companies/suiteness/jobs/DIrk9Sf-front-end-engineer)
-- [EU to greenlight Chat Control tomorrow](https://www.patrick-breyer.de/en/council-to-greenlight-chat-control-take-action-now/)
-- [Where did you go, Ms. Pac-Man?](https://www.thrillingtalesofoldvideogames.com/blog/ms-pac-man-disappear-pac-mom)
+- [Tsutomu Yamaguchi – A man who survived both atomic bombings &lpar;2023&rpar;](https://www.biography.com/history-culture/a44577392/tsutomu-yamaguchi-hiroshima-and-nagasaki-bombing-survivor)
+- [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
+- [Three of Vietnam&#39;s five undersea internet cables are down](https://www.reuters.com/world/asia-pacific/three-vietnams-five-undersea-internet-cables-are-down-2024-06-17/)
+- [The Pitfalls of Comparing BigDecimals in Java](https://igorstechnoclub.com/java-bigdecimal/)
+- [Google DeepMind Shifts from Research Lab to AI Product Factory](https://www.bloomberg.com/news/articles/2024-06-17/google-deepmind-shifts-from-research-lab-to-ai-product-factory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
