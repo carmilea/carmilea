@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firezone &lpar;YC W22&rpar; Is Hiring a Senior Rust Engineer &lpar;Mountain View&rpar;](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-rust-engineer-systems)
+- [Creativity Has Left the Chat: The Price of Debiasing Language Models](https://arxiv.org/abs/2406.05587)
 - [Marion Stokes, the Woman Who Spent over 30 Years Recording Every Minute of US TV](https://allthatsinteresting.com/marion-stokes)
 - [OpenBSD, the computer appliance maker&#39;s secret weapon](https://hiandrewquinn.github.io/til-site/posts/openbsd-the-computer-appliance-maker-s-secret-weapon/)
 - [I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
-- [Feds Arrest Telehealth Execs for Overprescribing Adderall](https://reason.com/2024/06/14/feds-arrest-telehealth-execs-for-overprescribing-adderall/)
-- [Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]](https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
