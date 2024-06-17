@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can you inherit memories from your ancestors?](https://www.theguardian.com/books/article/2024/jun/17/the-big-idea-can-you-inherit-memories-from-your-ancestors)
-- [How A.I. Is Revolutionizing Drug Development](https://www.nytimes.com/2024/06/17/business/ai-drugs-development-terray.html)
-- [Apache Arrow DataFusion: A Fast, Embeddable, Modular Analytic Query Engine](https://dl.acm.org/doi/10.1145/3626246.3653368)
+- [Monopolies across the grocery supply chain squeeze consumers, small businesses](https://prospect.org/economy/2024-06-12-war-in-the-aisles/)
 - [TinyLetter, in Memoriam](https://www.theverge.com/24085737/tinyletter-mailchimp-shut-down-email-newsletters)
+- [The Programmer&#39;s Brain](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain)
 - [Being laid off and unplanned entrepreneurship](https://www.deepsouthventures.com/on-being-laid-off-unplanned-entrepreneurship/)
+- [Pop Culture Has Become an Oligopoly &lpar;2022&rpar;](https://www.experimental-history.com/p/pop-culture-has-become-an-oligopoly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
