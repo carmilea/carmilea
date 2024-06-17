@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Backdoor in D-Link routers enables telnet access](https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10398)
-- [McDonald&#39;s is ending its drive-thru AI test](https://www.restaurantbusinessonline.com/technology/mcdonalds-ending-its-drive-thru-ai-test)
+- [Can you inherit memories from your ancestors?](https://www.theguardian.com/books/article/2024/jun/17/the-big-idea-can-you-inherit-memories-from-your-ancestors)
+- [How A.I. Is Revolutionizing Drug Development](https://www.nytimes.com/2024/06/17/business/ai-drugs-development-terray.html)
+- [Apache Arrow DataFusion: A Fast, Embeddable, Modular Analytic Query Engine](https://dl.acm.org/doi/10.1145/3626246.3653368)
+- [TinyLetter, in Memoriam](https://www.theverge.com/24085737/tinyletter-mailchimp-shut-down-email-newsletters)
 - [Being laid off and unplanned entrepreneurship](https://www.deepsouthventures.com/on-being-laid-off-unplanned-entrepreneurship/)
-- [Don&#39;t store your cucumbers in the fridge &lpar;2012&rpar;](https://www.rootsimple.com/2012/06/dont-store-your-cucumbers-in-the-fridge/)
-- [Commercial perovskite solar modules at SNEC 2024 trade show](https://www.pv-magazine.com/2024/06/13/commercial-perovskite-solar-modules-at-snec-2024-trade-show/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
