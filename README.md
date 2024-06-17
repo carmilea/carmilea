@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What is intelligent life? Portia Spiders and GPT](https://aeon.co/essays/why-intelligence-exists-only-in-the-eye-of-the-beholder)
-- [High-severity vulnerabilities affect a wide range of Asus router models](https://arstechnica.com/security/2024/06/high-severity-vulnerabilities-affect-a-wide-range-of-asus-router-models/)
-- [How a Car Salesman Became a Community Banking Pioneer](https://xiva.com/blog/dave-fishwick-community-banking-pioneer)
-- [Making Serverless Orchestration 25x Faster](https://www.dbos.dev/blog/dbos-vs-aws-step-functions-benchmark)
-- [Asus agrees to a whole raft of US warranty service improvements after complaints](https://www.pcgamer.com/hardware/asus-agrees-to-a-whole-raft-of-us-warranty-service-improvements-after-it-meets-with-gamers-nexus/)
+- [Where did you go, Ms. Pac-Man?](https://www.thrillingtalesofoldvideogames.com/blog/ms-pac-man-disappear-pac-mom)
+- [Sei pays out $2M bug bounty](https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html)
+- [Stable Diffusion 3 banned on CivitAI due to license](https://civitai.com/articles/5732/temporary-stable-diffusion-3-ban)
+- [Amazon-powered AI cameras used to detect emotions of unwitting train passengers](https://www.wired.com/story/amazon-ai-cameras-emotions-uk-train-passengers/)
+- [Htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
