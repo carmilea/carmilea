@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Suiteness &lpar;YC S16&rpar; Is Hiring for TypeScript/Qwik](https://www.ycombinator.com/companies/suiteness/jobs/DIrk9Sf-front-end-engineer)
+- [EU to greenlight Chat Control tomorrow](https://www.patrick-breyer.de/en/council-to-greenlight-chat-control-take-action-now/)
 - [Where did you go, Ms. Pac-Man?](https://www.thrillingtalesofoldvideogames.com/blog/ms-pac-man-disappear-pac-mom)
 - [Sei pays out $2M bug bounty](https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html)
-- [Stable Diffusion 3 banned on CivitAI due to license](https://civitai.com/articles/5732/temporary-stable-diffusion-3-ban)
-- [Amazon-powered AI cameras used to detect emotions of unwitting train passengers](https://www.wired.com/story/amazon-ai-cameras-emotions-uk-train-passengers/)
-- [Htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
+- [Show HN: Token price calculator for 400+ LLMs](https://github.com/AgentOps-AI/tokencost)
 <!-- BLOG-POST-LIST:END -->
 
 ---
