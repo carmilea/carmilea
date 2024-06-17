@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [User is locked out every day when she goes to lunch](https://old.reddit.com/r/sysadmin/comments/1dhy8ca/user_is_locked_out_every_day_when_she_goes_to/)
-- [Florida Sheriff Grady Judd Decides He&#39;s Capable of Running an AI Crime Thingy](https://www.techdirt.com/2024/06/17/florida-sheriff-grady-judd-decides-hes-capable-of-running-an-ai-crime-thingy/)
-- [Proton is taking its privacy-first apps to a nonprofit foundation model](https://arstechnica.com/gadgets/2024/06/proton-is-taking-its-privacy-first-apps-to-a-nonprofit-foundation-model/)
-- [Carma &lpar;YC W24&rpar; Hiring a Founding Full-Stack SWE to Get Fleets Same-Day Auto Repair](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)
-- [London Underground hosts tests for &#39;quantum compass&#39; that could replace GPS](https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations)
+- [What is intelligent life? Portia Spiders and GPT](https://aeon.co/essays/why-intelligence-exists-only-in-the-eye-of-the-beholder)
+- [High-severity vulnerabilities affect a wide range of Asus router models](https://arstechnica.com/security/2024/06/high-severity-vulnerabilities-affect-a-wide-range-of-asus-router-models/)
+- [How a Car Salesman Became a Community Banking Pioneer](https://xiva.com/blog/dave-fishwick-community-banking-pioneer)
+- [Making Serverless Orchestration 25x Faster](https://www.dbos.dev/blog/dbos-vs-aws-step-functions-benchmark)
+- [Asus agrees to a whole raft of US warranty service improvements after complaints](https://www.pcgamer.com/hardware/asus-agrees-to-a-whole-raft-of-us-warranty-service-improvements-after-it-meets-with-gamers-nexus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
