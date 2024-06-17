@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Day in the Life of a California Fast-Food Manager Who Makes $174,000 a Year](https://www.wsj.com/business/hospitality/a-day-in-the-life-of-a-california-fast-food-manager-who-makes-174-000-a-year-15f81393)
+- [Let Readers Read](https://blog.archive.org/2024/06/17/let-readers-read/)
+- [US sues Adobe for &#39;deceiving&#39; subscriptions that are too hard to cancel](https://www.theverge.com/2024/6/17/24180196/adobe-us-ftc-doj-sues-subscriptions-cancel)
+- [NASA again delays Boeing Starliner&#39;s return home](https://phys.org/news/2024-06-nasa-delays-boeing-starliner-home.html)
+- [Crossing the impossible FFI boundary, and my gradual descent into madness](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2)
 - [Group of 17 London secondary schools join up to go smartphone-free](https://www.theguardian.com/technology/article/2024/jun/06/group-of-17-london-secondary-schools-join-up-to-go-smartphone-free)
-- [Mocking Is an Anti-Pattern](https://www.amazingcto.com/mocking-is-an-antipattern-how-to-test-without-mocking/)
-- [How I Made Trading Cards with E-Ink Displays](https://howtoware.co/wyldcard)
-- [DJI ban passes the House and moves on to the Senate](https://dronedj.com/2024/06/14/dji-ban-passes-the-house-and-moves-on-to-the-senate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
