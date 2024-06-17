@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Developer Takes &#39;Retro&#39; Concept to New Level by Creating Physical Winamp Player](https://www.xatakaon.com/makers/a-developer-has-just-taken-the-concept-of-retro-to-a-new-level-by-creating-a-physical-winamp-player)
-- [How Innovative Is China in Nuclear Power?](https://itif.org/publications/2024/06/17/how-innovative-is-china-in-nuclear-power/)
 - [The time keepers: pg_cron and pg_timetable](https://notso.boringsql.com/posts/time-keepers-pg-cron-pg-timetable/)
 - [Firezone &lpar;YC W22&rpar; Is Hiring a Senior Rust Engineer &lpar;Mountain View&rpar;](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-rust-engineer-systems)
 - [How to get stuff repaired when the manufacturer don&#39;t wanna: take &#39;em to court](https://blog.simonrumble.com/how-to-get-your-stuff-repaired-when-the-retailer-and-manufacturer-dont-wanna-take-em-to-court)
+- [Creativity Has Left the Chat: The Price of Debiasing Language Models](https://arxiv.org/abs/2406.05587)
 <!-- BLOG-POST-LIST:END -->
 
 ---
