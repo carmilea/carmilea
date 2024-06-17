@@ -59,8 +59,8 @@
 - [Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]](https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf)
 - [They make USB-C cables with displays now](https://ounapuu.ee/posts/2024/06/05/usb-c-cables/)
 - [Using the C preprocessor as an HTML templating engine](https://github.com/cedric-h/c-website)
+- [Horses may have been domesticated twice. Only one attempt stuck](https://www.sciencenews.org/article/horses-domesticated-mobility-timing)
 - [Maintaining large-scale AI capacity at Meta](https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/)
-- [Starlark Language](https://github.com/bazelbuild/starlark)
 <!-- BLOG-POST-LIST:END -->
 
 ---
