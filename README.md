@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cities: Skylines II Found a Solution for High Rents: Get Rid of Landlords](https://www.wired.com/story/cities-skylines-ii-found-a-solution-for-high-rents-removing-landlords/)
 - [Commercial perovskite solar modules at SNEC 2024 trade show](https://www.pv-magazine.com/2024/06/13/commercial-perovskite-solar-modules-at-snec-2024-trade-show/)
+- [Nsss: A secure NSS-like implementation for static linking](https://skarnet.org/software/nsss/)
 - [Developer Takes &#39;Retro&#39; Concept to New Level by Creating Physical Winamp Player](https://www.xatakaon.com/makers/a-developer-has-just-taken-the-concept-of-retro-to-a-new-level-by-creating-a-physical-winamp-player)
 - [The time keepers: pg_cron and pg_timetable](https://notso.boringsql.com/posts/time-keepers-pg-cron-pg-timetable/)
 - [Firezone &lpar;YC W22&rpar; Is Hiring a Senior Rust Engineer &lpar;Mountain View&rpar;](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-rust-engineer-systems)
