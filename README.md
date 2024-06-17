@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [User is locked out every day when she goes to lunch](https://old.reddit.com/r/sysadmin/comments/1dhy8ca/user_is_locked_out_every_day_when_she_goes_to/)
+- [Florida Sheriff Grady Judd Decides He&#39;s Capable of Running an AI Crime Thingy](https://www.techdirt.com/2024/06/17/florida-sheriff-grady-judd-decides-hes-capable-of-running-an-ai-crime-thingy/)
 - [Proton is taking its privacy-first apps to a nonprofit foundation model](https://arstechnica.com/gadgets/2024/06/proton-is-taking-its-privacy-first-apps-to-a-nonprofit-foundation-model/)
 - [Carma &lpar;YC W24&rpar; Hiring a Founding Full-Stack SWE to Get Fleets Same-Day Auto Repair](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)
-- [FTC sues Adobe for hiding fees and inhibiting cancellations](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
-- [The darker side of being a doctor](https://drericlevi1.substack.com/p/the-darker-side-of-being-a-doctor)
-- [Wells Fargo Bet on a Flashy Rent Credit Card. It Is Costing the Bank Dearly](https://www.wsj.com/finance/banking/wells-fargo-credit-card-rent-rewards-8e380852)
+- [London Underground hosts tests for &#39;quantum compass&#39; that could replace GPS](https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
