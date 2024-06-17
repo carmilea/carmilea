@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Let Readers Read](https://blog.archive.org/2024/06/17/let-readers-read/)
-- [US sues Adobe for &#39;deceiving&#39; subscriptions that are too hard to cancel](https://www.theverge.com/2024/6/17/24180196/adobe-us-ftc-doj-sues-subscriptions-cancel)
-- [NASA again delays Boeing Starliner&#39;s return home](https://phys.org/news/2024-06-nasa-delays-boeing-starliner-home.html)
-- [Crossing the impossible FFI boundary, and my gradual descent into madness](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2)
-- [Group of 17 London secondary schools join up to go smartphone-free](https://www.theguardian.com/technology/article/2024/jun/06/group-of-17-london-secondary-schools-join-up-to-go-smartphone-free)
+- [Proton is taking its privacy-first apps to a nonprofit foundation model](https://arstechnica.com/gadgets/2024/06/proton-is-taking-its-privacy-first-apps-to-a-nonprofit-foundation-model/)
+- [Carma &lpar;YC W24&rpar; Hiring a Founding Full-Stack SWE to Get Fleets Same-Day Auto Repair](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)
+- [FTC sues Adobe for hiding fees and inhibiting cancellations](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
+- [The darker side of being a doctor](https://drericlevi1.substack.com/p/the-darker-side-of-being-a-doctor)
+- [Wells Fargo Bet on a Flashy Rent Credit Card. It Is Costing the Bank Dearly](https://www.wsj.com/finance/banking/wells-fargo-credit-card-rent-rewards-8e380852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
