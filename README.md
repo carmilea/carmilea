@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using the C preprocessor as an HTML templating engine](https://github.com/cedric-h/c-website)
 - [Maintaining large-scale AI capacity at Meta](https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/)
 - [Starlark Language](https://github.com/bazelbuild/starlark)
 - [Roger Linn reviews MPC Live 2](https://www.youtube.com/watch?v=0bhSWwf-i1k)
-- [To see is to forget the name of the thing one sees](https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/)
-- [Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
+- [To see is to forget the name of the thing one sees &lpar;2009&rpar;](https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
