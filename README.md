@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;I&#39;ve Got Nothing to Hide&quot; and Other Misunderstandings of Privacy &lpar;2008&rpar; [pdf]](https://www.cs.ru.nl/~jhh/pub/secsem/solove-nothing-to-hide.pdf)
+- [The Surgeon General Calls for a Warning Label on Social Media](https://www.afterbabel.com/p/surgeon-general-warning)
+- [Social-Media Influencers Aren&#39;t Getting Rich–They&#39;re Barely Getting By](https://www.wsj.com/tech/social-media-influencers-arent-getting-richtheyre-barely-getting-by-71e0aad3)
 - [Understanding the Misunderstood Kessler Syndrome](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)
-- [Chat Control: Incompatible with Fundamental Rights](https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle)
+- [Chat Control: Incompatible with Fundamental Rights &lpar;2022&rpar;](https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle)
 - [Cyber Scarecrow, making your computer look &#39;scary&#39; to malware](https://www.cyberscarecrow.com/)
-- [TikTag: bypassing ARM CPU MemTag via speculative execution attack](https://arxiv.org/abs/2406.08719)
 <!-- BLOG-POST-LIST:END -->
 
 ---
