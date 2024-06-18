@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BNSF ordered to pay $395M after years of trespassing on Swinomish land](https://www.kuow.org/stories/bnsf-ordered-to-pay-395-million-after-years-of-trespassing-on-swinomish-land)
+- [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
 - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
 - [Ubicloud &lpar;YC W24&rpar; Hiring Founding Engineer for &quot;Managed Kubernetes Service&quot;](https://www.ycombinator.com/companies/ubicloud/jobs/zyE7d9T-founding-engineer-for-managed-kubernetes-service)
-- [Chat control: EU attempt to bulk search private messages and destroy encryption](https://www.patrick-breyer.de/en/chat-control-new-eu-government-attempt-to-bulk-search-private-messages-and-destroy-secure-end-to-end-encryption/)
-- [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/fr/en/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
-- [What Is ChatGPT Doing and Why Does It Work? &lpar;2023&rpar;](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+- [Show HN: Billard, Generate Music from Ball Collisions in 2D Space](https://billard.medusis.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
