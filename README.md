@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why people are angry over Go 1.23 Iterators](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
+- [The March of Dimes Syndrome](https://www.city-journal.org/article/the-march-of-dimes-syndrome)
+- [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
+- [Intel details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
 - [Tsutomu Yamaguchi – A man who survived both atomic bombings &lpar;2023&rpar;](https://www.biography.com/history-culture/a44577392/tsutomu-yamaguchi-hiroshima-and-nagasaki-bombing-survivor)
-- [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
-- [Three of Vietnam&#39;s five undersea internet cables are down](https://www.reuters.com/world/asia-pacific/three-vietnams-five-undersea-internet-cables-are-down-2024-06-17/)
-- [The Pitfalls of Comparing BigDecimals in Java](https://igorstechnoclub.com/java-bigdecimal/)
-- [Google DeepMind Shifts from Research Lab to AI Product Factory](https://www.bloomberg.com/news/articles/2024-06-17/google-deepmind-shifts-from-research-lab-to-ai-product-factory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
