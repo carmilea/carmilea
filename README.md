@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Doom-style 3D engine in C [video]](https://www.youtube.com/watch?v=HQYsFshbkYw)
+- [What happens to latency if service time is cut in half](https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html)
 - [Every Way to Get Structured Output from LLMs](https://www.boundaryml.com/blog/structured-output-from-llms)
-- [The upcoming iterator design for Go 1.23](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
+- [Now that UUIDv7 is lexicographic, does that mean there is no use for ULID?](https://www.npmjs.com/package/uuidv7)
 - [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
-- [Intel details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
-- [Tsutomu Yamaguchi – A man who survived both atomic bombings &lpar;2023&rpar;](https://www.biography.com/history-culture/a44577392/tsutomu-yamaguchi-hiroshima-and-nagasaki-bombing-survivor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
