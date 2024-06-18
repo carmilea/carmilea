@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gavin Newsom wants to take smartphones out of schools](https://www.politico.com/news/2024/06/18/gavin-newsom-wants-to-take-smart-phones-out-of-schools-00163852)
-- [Ask HN: How do you structure your shared finances with your spouse/partner](https://news.ycombinator.com/item?id=40718498)
-- [Never back down: Rich and powerful exploit post-shame society](https://www.axios.com/2024/06/18/trump-gop-scotus-musk-shame)
+- [The Farmer Was Replaced &lpar;A Python-esque automated farming game&rpar;](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/)
+- [Ask HN: What are some iconic comments on HN?](https://news.ycombinator.com/item?id=40719253)
+- [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/fr/en/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
+- [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 - [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
-- [Tiny beauty: how I make scientific art from behind the microscope](https://www.nature.com/immersive/d41586-024-02011-6/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
