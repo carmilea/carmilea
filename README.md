@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Malaysia to Join BRICS](https://www.aljazeera.com/economy/2024/6/18/malaysias-anwar-flags-brics-membership-praises-xi-as-outstanding-leader)
+- [&quot;I&#39;ve Got Nothing to Hide&quot; and Other Misunderstandings of Privacy &lpar;2008&rpar; [pdf]](https://www.cs.ru.nl/~jhh/pub/secsem/solove-nothing-to-hide.pdf)
+- [Understanding the Misunderstood Kessler Syndrome](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)
 - [Chat Control: Incompatible with Fundamental Rights](https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle)
-- [Chat Control Must Be Stopped – Now](https://threema.ch/en/blog/posts/stop-chat-control)
 - [Cyber Scarecrow, making your computer look &#39;scary&#39; to malware](https://www.cyberscarecrow.com/)
 - [TikTag: bypassing ARM CPU MemTag via speculative execution attack](https://arxiv.org/abs/2406.08719)
 <!-- BLOG-POST-LIST:END -->
