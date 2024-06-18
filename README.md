@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Farmer Was Replaced &lpar;A Python-esque automated farming game&rpar;](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/)
-- [Ask HN: What are some iconic comments on HN?](https://news.ycombinator.com/item?id=40719253)
+- [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
+- [Ubicloud &lpar;YC W24&rpar; Hiring Founding Engineer for &quot;Managed Kubernetes Service&quot;](https://www.ycombinator.com/companies/ubicloud/jobs/zyE7d9T-founding-engineer-for-managed-kubernetes-service)
+- [Chat control: EU attempt to bulk search private messages and destroy encryption](https://www.patrick-breyer.de/en/chat-control-new-eu-government-attempt-to-bulk-search-private-messages-and-destroy-secure-end-to-end-encryption/)
 - [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/fr/en/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
-- [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
-- [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
+- [What Is ChatGPT Doing and Why Does It Work? &lpar;2023&rpar;](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
