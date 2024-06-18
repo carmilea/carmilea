@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BNSF ordered to pay $395M after years of trespassing on Swinomish land](https://www.kuow.org/stories/bnsf-ordered-to-pay-395-million-after-years-of-trespassing-on-swinomish-land)
-- [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
-- [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
-- [Ubicloud &lpar;YC W24&rpar; Hiring Founding Engineer for &quot;Managed Kubernetes Service&quot;](https://www.ycombinator.com/companies/ubicloud/jobs/zyE7d9T-founding-engineer-for-managed-kubernetes-service)
-- [Show HN: Billard, Generate Music from Ball Collisions in 2D Space](https://billard.medusis.com/)
+- [We Remember Noam Chomsky, the Intellectual and Moral Giant](https://jacobin.com/2024/06/noam-chomsky-obituary-media-theory-elites/)
+- [Translate Datadog Metrics into OTLP](https://grafana.com/blog/2024/06/18/translate-datadog-metrics-into-otlp-with-the-opentelemetry-collector-and-grafana-alloy/)
+- [Nvidia Passes Microsoft to Become Largest U.S. Company](https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-06-18-2024/card/nvidia-moves-into-the-top-spot-for-market-cap-4i1SFFzMdA4HO4OwnWSk)
+- [Nature retracts 2002 paper that claimed stem cells could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
+- [Electricity prices in France turn negative as renewable energy floods the grid](https://fortune.com/2024/06/16/electricity-prices-france-negative-renewable-energy-supply-solar-power-wind-turbines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
