@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Surgeon General Calls for a Warning Label on Social Media](https://www.afterbabel.com/p/surgeon-general-warning)
-- [Social-Media Influencers Aren&#39;t Getting Rich–They&#39;re Barely Getting By](https://www.wsj.com/tech/social-media-influencers-arent-getting-richtheyre-barely-getting-by-71e0aad3)
+- [Longer and Longer Freight Trains Drive Up the Odds of Derailment](https://www.scientificamerican.com/article/longer-freight-trains-are-more-likely-to-derail/)
+- [Visualizing Data on a Mesh with Displacement Mapping in R](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
 - [Understanding the Misunderstood Kessler Syndrome](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)
 - [Chat Control: Incompatible with Fundamental Rights &lpar;2022&rpar;](https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle)
 - [Cyber Scarecrow, making your computer look &#39;scary&#39; to malware](https://www.cyberscarecrow.com/)
