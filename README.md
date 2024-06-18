@@ -60,7 +60,7 @@
 - [Chat Control: Incompatible with Fundamental Rights](https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle)
 - [Chat Control Must Be Stopped – Now](https://threema.ch/en/blog/posts/stop-chat-control)
 - [Cyber Scarecrow, making your computer look &#39;scary&#39; to malware](https://www.cyberscarecrow.com/)
-- [What happens to latency if service time is cut in half](https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html)
+- [TikTag: bypassing ARM CPU MemTag via speculative execution attack](https://arxiv.org/abs/2406.08719)
 <!-- BLOG-POST-LIST:END -->
 
 ---
