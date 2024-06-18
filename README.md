@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why people are angry over Go 1.23 Iterators](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
-- [The March of Dimes Syndrome](https://www.city-journal.org/article/the-march-of-dimes-syndrome)
+- [Hitachi to Release PCs with Preinstalled BeOS for the Consumer Market &lpar;1998&rpar;](https://www.hitachi.com/New/cnews/E/1998/981111B.html)
+- [The upcoming iterator design for Go 1.23](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
 - [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
 - [Intel details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
 - [Tsutomu Yamaguchi – A man who survived both atomic bombings &lpar;2023&rpar;](https://www.biography.com/history-culture/a44577392/tsutomu-yamaguchi-hiroshima-and-nagasaki-bombing-survivor)
