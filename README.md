@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Remember Noam Chomsky, the Intellectual and Moral Giant](https://jacobin.com/2024/06/noam-chomsky-obituary-media-theory-elites/)
-- [Translate Datadog Metrics into OTLP](https://grafana.com/blog/2024/06/18/translate-datadog-metrics-into-otlp-with-the-opentelemetry-collector-and-grafana-alloy/)
-- [Nvidia Passes Microsoft to Become Largest U.S. Company](https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-06-18-2024/card/nvidia-moves-into-the-top-spot-for-market-cap-4i1SFFzMdA4HO4OwnWSk)
-- [Nature retracts 2002 paper that claimed stem cells could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
+- [Nature retracts paper that claimed adult stem cell could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
 - [Electricity prices in France turn negative as renewable energy floods the grid](https://fortune.com/2024/06/16/electricity-prices-france-negative-renewable-energy-supply-solar-power-wind-turbines/)
+- [Ask HN: Tell me your stories of taking lower paid work to be happier](https://news.ycombinator.com/item?id=40720121)
+- [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
+- [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
