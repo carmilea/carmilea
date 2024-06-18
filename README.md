@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Longer and Longer Freight Trains Drive Up the Odds of Derailment](https://www.scientificamerican.com/article/longer-freight-trains-are-more-likely-to-derail/)
-- [Visualizing Data on a Mesh with Displacement Mapping in R](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
-- [Understanding the Misunderstood Kessler Syndrome](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)
-- [Chat Control: Incompatible with Fundamental Rights &lpar;2022&rpar;](https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle)
-- [Cyber Scarecrow, making your computer look &#39;scary&#39; to malware](https://www.cyberscarecrow.com/)
+- [Gavin Newsom wants to take smartphones out of schools](https://www.politico.com/news/2024/06/18/gavin-newsom-wants-to-take-smart-phones-out-of-schools-00163852)
+- [Ask HN: How do you structure your shared finances with your spouse/partner](https://news.ycombinator.com/item?id=40718498)
+- [Never back down: Rich and powerful exploit post-shame society](https://www.axios.com/2024/06/18/trump-gop-scotus-musk-shame)
+- [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
+- [Tiny beauty: how I make scientific art from behind the microscope](https://www.nature.com/immersive/d41586-024-02011-6/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
