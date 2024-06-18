@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Malaysia to Join BRICS](https://www.aljazeera.com/economy/2024/6/18/malaysias-anwar-flags-brics-membership-praises-xi-as-outstanding-leader)
+- [Chat Control: Incompatible with Fundamental Rights](https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle)
 - [Chat Control Must Be Stopped – Now](https://threema.ch/en/blog/posts/stop-chat-control)
 - [Cyber Scarecrow, making your computer look &#39;scary&#39; to malware](https://www.cyberscarecrow.com/)
 - [What happens to latency if service time is cut in half](https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html)
-- [The Public Interest Internet, by Robin Berjon](https://berjon.com/public-interest-internet/)
-- [Every Way to Get Structured Output from LLMs](https://www.boundaryml.com/blog/structured-output-from-llms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
