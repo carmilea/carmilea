@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI bot running for mayor in Wyoming &lpar;sort of&rpar;](https://www.wired.com/story/ai-bot-running-for-mayor-wyoming/)
-- [Hadrius &lpar;YC W23&rpar; is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
-- [Amazon fined $5.9M for breaking labor law in California](https://www.washingtonpost.com/technology/2024/06/18/amazon-fine-labor-law-california/)
-- [Versioning FreeCAD Files with Git](https://blog.lambda.cx/posts/freecad-and-git/)
-- [Nature retracts paper that claimed adult stem cell could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
+- [SpaceX&#39;s Starlink may be keeping the ozone from healing, research finds](https://futurism.com/the-byte/spacex-starlink-ozone-healing)
+- [AridSpy targeting Egypt and Palestinian territories in new espionage campaigns](https://therecord.media/malware-aridspy-egypt-palestine-viper)
+- [House prices are surging once again](https://www.economist.com/finance-and-economics/2024/06/16/why-house-prices-are-surging-once-again)
+- [Apple has &#39;serious&#39; issues under EU digital rules, competition chief says](https://www.cnbc.com/2024/06/18/apple-issues-very-serious-under-landmark-eu-rules-vestager.html)
+- [IPC in Rust – A Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
