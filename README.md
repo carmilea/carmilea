@@ -60,7 +60,7 @@
 - [2.6M Piracy Reports Against French Users Resulted in 234 Financial Penalties](https://torrentfreak.com/2-6m-piracy-reports-against-french-users-resulted-in-234-financial-penalties-2240618/)
 - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
 - [Neofetch developer archives all his repositories: &quot;Have taken up farming&quot;](https://github.com/dylanaraps)
-- [Boeing Sent Two Astronauts into Space. Now It Needs to Get Them Home](https://www.wsj.com/science/space-astronomy/boeing-sent-two-astronauts-into-space-now-it-needs-to-get-them-home-99d96633)
+- [Beyond velocity and acceleration: jerk, snap and higher derivatives &lpar;2016&rpar;](https://iopscience.iop.org/article/10.1088/0143-0807/37/6/065008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
