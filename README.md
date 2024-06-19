@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU to Potentially Greenlight Chat Scanning Proposal on Thursday](https://www.patrick-breyer.de/en/posts/chat-control/)
-- [New UNESCO report warns that Generative AI threatens Holocaust memory](https://www.unesco.org/en/articles/new-unesco-report-warns-generative-ai-threatens-holocaust-memory)
+- [Monitoring marine litter from space is now a reality](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality)
+- [Why Dolphin Isn&#39;t Coming to the App Store &lpar;Spoiler: It Needs a JIT&rpar;](https://daringfireball.net/linked/2024/06/18/dolphin-jit-apple)
+- [Rethinking Open Source Generative AI: Open-Washing and the EU AI Act](https://opening-up-chatgpt.github.io/)
+- [EU Council to Vote on Chat Scanning Proposal on Thursday](https://www.patrick-breyer.de/en/posts/chat-control/)
 - [Show HN: Pomoglorbo, a TUI Pomodoro timer for your terminal](https://codeberg.org/justusw/Pomoglorbo)
-- [ExectOS – brand new operating system which derives from NT architecture](https://exectos.eu.org/)
-- [Fern Hollow Bridge should have been closed years before it collapsed](https://practical.engineering/blog/2024/6/18/this-bridge-should-have-been-closed-years-before-it-collapsed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
