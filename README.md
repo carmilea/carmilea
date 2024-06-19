@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Gemini tried to kill me](https://old.reddit.com/r/ChatGPT/comments/1diljf2/google_gemini_tried_to_kill_me/)
-- [U.S. Senate passes bill to support advanced nuclear energy deployment](https://www.reuters.com/business/energy/us-senate-passes-bill-support-advanced-nuclear-energy-deployment-2024-06-19/)
-- [Willie Mays, SF Giants legend and MLB all-time great, is dead](https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php)
-- [One in four US households likely exceed new soil lead guidance levels](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GH001045)
+- [Satellites like Starlink could deplete Earth&#39;s ozone layer, study says](https://www.independent.co.uk/space/elon-musk-starlink-satellite-internet-b2564344.html)
+- [Sequoia is both more and less generous to Intel Macs, depending on the model](https://arstechnica.com/gadgets/2024/06/the-case-for-and-against-macos-15-sequoia-being-the-final-release-for-intel-macs/)
+- [Willie Mays, SF Giants baseball player, has died](https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php)
 - [Open Source Python ETL](https://amphi.ai/)
+- [Ask HN: Why do message queue-based architectures seem less popular now?](https://news.ycombinator.com/item?id=40723302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
