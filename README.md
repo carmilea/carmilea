@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CISA Advisory on Motorola Solutions ALPR Vulnerabilities](https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-19)
+- [The other side of Formula 1: Barcelona residents protest for race-car exhibition](https://www.elnacional.cat/en/news/formula-1-barcelona-residents-protest-city-race-car-exhibition_1238607_102.html)
+- [An &#39;Algorithm&#39; Turned Apartment Pools Green](https://prospect.org/infrastructure/housing/2024-06-18-how-algorithm-turned-apartment-pools-green/)
+- [Unique3D: Image-to-3D Generation from a Single Image in 30 seconds](https://github.com/AiuniAI/Unique3D)
 - [Zep AI &lpar;YC W24&rpar; is hiring back end engineers to build LLM long-term memory](https://www.ycombinator.com/companies/zep-ai/jobs/J5TD9KW-backend-engineer)
 - [The the the the induction of jamais vu: word alienation and semantic satiation](https://www.tandfonline.com/doi/full/10.1080/09658211.2020.1727519)
-- [X debut 40 years ago &lpar;1984&rpar;](https://www.talisman.org/x-debut.shtml)
-- [EasyOS: An Experimental Linux Distribution](https://easyos.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
