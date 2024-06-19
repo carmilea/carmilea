@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
+- [Boeing Sent Two Astronauts into Space. Now It Needs to Get Them Home](https://www.wsj.com/science/space-astronomy/boeing-sent-two-astronauts-into-space-now-it-needs-to-get-them-home-99d96633)
+- [Beyond velocity and acceleration: jerk, snap and higher derivatives &lpar;2016&rpar;](https://iopscience.iop.org/article/10.1088/0143-0807/37/6/065008)
+- [Slack Combines ASTs with LLMs to Automatically Convert 80% of 15,000 Unit Tests](https://www.infoq.com/news/2024/06/slack-automatic-test-conversion/)
 - [Monitoring marine litter from space is now a reality](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality)
-- [Why Dolphin Isn&#39;t Coming to the App Store &lpar;Spoiler: It Needs a JIT&rpar;](https://daringfireball.net/linked/2024/06/18/dolphin-jit-apple)
-- [Rethinking Open Source Generative AI: Open-Washing and the EU AI Act](https://opening-up-chatgpt.github.io/)
-- [EU Council to Vote on Chat Scanning Proposal on Thursday](https://www.patrick-breyer.de/en/posts/chat-control/)
-- [Show HN: Pomoglorbo, a TUI Pomodoro timer for your terminal](https://codeberg.org/justusw/Pomoglorbo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
