@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My personal reasons to not run my Nginx reverse-proxy inside Docker](https://ewaldbenes.com/blog/my-personal-reasons-to-not-run-my-nginx-reverse-proxy-inside-docker)
-- [EasyOS: An Experimental Linux Distribution](https://easyos.org/)
-- [Discovery of new white blood cell function](https://www.cam.ac.uk/research/news/discovery-of-new-rules-of-the-immune-system-could-improve-treatment-of-inflammatory-diseases-say)
-- [Ask HN: Anyone else private information get sold by namecheap?](https://news.ycombinator.com/item?id=40730589)
-- [Stages of Argument &lpar;2000&rpar;](http://legacy.earlham.edu/~peters/courses/argstages.htm)
+- [Zep AI &lpar;YC W24&rpar; is hiring back end engineers to build LLM long-term memory](https://www.ycombinator.com/companies/zep-ai/jobs/J5TD9KW-backend-engineer)
+- [Louisiana Requires Ten Commandments to Be Displayed in Public-School Classrooms](https://www.wsj.com/us-news/education/louisiana-requires-ten-commandments-to-be-displayed-in-public-school-classrooms-f2e855b2)
+- [Semantic Satiation – Repeated Exposure Causes Words to Lose Meaning](https://www.tandfonline.com/doi/full/10.1080/09658211.2020.1727519)
+- [X debut 40 years ago &lpar;1984&rpar;](https://www.talisman.org/x-debut.shtml)
+- [BBCode](https://en.wikipedia.org/wiki/BBCode)
 <!-- BLOG-POST-LIST:END -->
 
 ---
