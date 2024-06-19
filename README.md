@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [F](http://www.nsl.com/k/f/f.htm)
+- [Stages of Argument &lpar;2000&rpar;](http://legacy.earlham.edu/~peters/courses/argstages.htm)
+- [Show HN: Modular Pi Cam](https://github.com/jdc-cunningham/modular-pi-cam/tree/master/cameras/pi-zero/large-display)
+- [F &lpar;2006&rpar;](http://www.nsl.com/k/f/f.htm)
 - [Ilya Sutskever starts Safe Superintelligence Inc](https://ssi.inc)
-- [Safe Superintelligence Inc. – Ilya Sutskever](https://twitter.com/ssi/status/1803472825476587910)
 - [Blacksmith &lpar;YC W24&rpar; is hiring a front end engineer to improve GitHub Actions](https://www.ycombinator.com/companies/blacksmith/jobs/SgZiNoi-founding-engineer-frontend)
-- [The Return of Pneumatic Tubes](https://www.technologyreview.com/2024/06/19/1093446/pneumatic-tubes-hospitals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
