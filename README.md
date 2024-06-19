@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Talk to Your Web Analytics with AI for 1-1 Personalization | SingleStore Webinars](https://www.youtube.com/watch?v=b-b3YOEakZE)
 - [80X Faster free MySQL on cloud](https://www.youtube.com/watch?v=7fyqyOAv624)
 - [Building Secure AI Healthcare Apps with AWS Private Cloud | SingleStore Webinars](https://www.youtube.com/watch?v=V8uMVVXXWco)
 - [Focus on Mastering the Full Stack, Data, Storage Concepts etc](https://www.youtube.com/watch?v=jhHYOgnnLrk)
 - [How to Build local LLM Apps with Ollama and Langchain](https://www.youtube.com/watch?v=XffJeNBVdtU)
-- [How to do Knowledge Graph RAG with SingleStore | SingleStore Webinar](https://www.youtube.com/watch?v=3nY3Pi1rM3A)
 <!-- YOUTUBE:END -->
 
 
