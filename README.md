@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My personal reasons to not run my Nginx reverse-proxy inside Docker](https://ewaldbenes.com/blog/my-personal-reasons-to-not-run-my-nginx-reverse-proxy-inside-docker)
+- [EasyOS: An Experimental Linux Distribution](https://easyos.org/)
+- [Discovery of new white blood cell function](https://www.cam.ac.uk/research/news/discovery-of-new-rules-of-the-immune-system-could-improve-treatment-of-inflammatory-diseases-say)
+- [Ask HN: Anyone else private information get sold by namecheap?](https://news.ycombinator.com/item?id=40730589)
 - [Stages of Argument &lpar;2000&rpar;](http://legacy.earlham.edu/~peters/courses/argstages.htm)
-- [Show HN: Modular Pi Cam](https://github.com/jdc-cunningham/modular-pi-cam/tree/master/cameras/pi-zero/large-display)
-- [F &lpar;2006&rpar;](http://www.nsl.com/k/f/f.htm)
-- [Safe Superintelligence Inc.](https://ssi.inc)
-- [Blacksmith &lpar;YC W24&rpar; is hiring a front end engineer to improve GitHub Actions](https://www.ycombinator.com/companies/blacksmith/jobs/SgZiNoi-founding-engineer-frontend)
 <!-- BLOG-POST-LIST:END -->
 
 ---
