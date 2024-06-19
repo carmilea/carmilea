@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Gemini tried to kill me](https://old.reddit.com/r/ChatGPT/comments/1diljf2/google_gemini_tried_to_kill_me/)
 - [U.S. Senate passes bill to support advanced nuclear energy deployment](https://www.reuters.com/business/energy/us-senate-passes-bill-support-advanced-nuclear-energy-deployment-2024-06-19/)
 - [Willie Mays, SF Giants legend and MLB all-time great, is dead](https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php)
 - [One in four US households likely exceed new soil lead guidance levels](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GH001045)
 - [Open Source Python ETL](https://amphi.ai/)
-- [Reed–Solomon Codes for Coders](https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
