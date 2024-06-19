@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Even Apple cannot explain why we need AI in our lives](https://www.ft.com/content/1355ccd9-4a2d-49d2-9e42-250aab0c38aa)
-- [Mrs Perkins&#39;s Quilt &lpar;2017&rpar;](http://www.squaring.net/quilts/mrs-perkins-quilts.html)
-- [Can holographic optical storage displace Hard Disk Drives?](https://www.nature.com/articles/s44172-024-00225-0)
-- [Recovering an Agilent 2000A/3000A Oscilloscope with Corrupt Firmware NAND Flash](https://salvagedcircuitry.com/2000a-nand-recovery.html)
-- [Ribbon Health &lpar;YC S17&rpar; Is Hiring a Sales Eng Director for Enterprises](https://www.ribbonhealth.com/open-roles?gh_jid=5179134004)
+- [Almost half of Dell&#39;s full-time US workforce has rejected the company&#39;s RTO push](https://www.businessinsider.com/us-dell-workers-reject-return-to-office-hybrid-work-2024-6)
+- [Client-Side-Scanning: Chat Control Is Pure Surveillance State](https://netzpolitik.org/2024/client-side-scanning-chat-control-is-pure-surveillance-state/)
+- [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/)
+- [Campaigns Can Now See What You Watch on TV](https://www.notus.org/2024-election/streaming-tv-campaign-ads)
+- [Arvind Mithal has died](https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618)
 <!-- BLOG-POST-LIST:END -->
 
 ---
