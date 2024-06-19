@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CISA Advisory on Motorola Solutions ALPR Vulnerabilities](https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-19)
 - [Zep AI &lpar;YC W24&rpar; is hiring back end engineers to build LLM long-term memory](https://www.ycombinator.com/companies/zep-ai/jobs/J5TD9KW-backend-engineer)
-- [Louisiana Requires Ten Commandments to Be Displayed in Public-School Classrooms](https://www.wsj.com/us-news/education/louisiana-requires-ten-commandments-to-be-displayed-in-public-school-classrooms-f2e855b2)
-- [Semantic Satiation – Repeated Exposure Causes Words to Lose Meaning](https://www.tandfonline.com/doi/full/10.1080/09658211.2020.1727519)
+- [The the the the induction of jamais vu: word alienation and semantic satiation](https://www.tandfonline.com/doi/full/10.1080/09658211.2020.1727519)
 - [X debut 40 years ago &lpar;1984&rpar;](https://www.talisman.org/x-debut.shtml)
-- [BBCode](https://en.wikipedia.org/wiki/BBCode)
+- [EasyOS: An Experimental Linux Distribution](https://easyos.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
