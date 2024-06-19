@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New UNESCO report warns that Generative AI threatens Holocaust memory](https://www.unesco.org/en/articles/new-unesco-report-warns-generative-ai-threatens-holocaust-memory)
+- [ExectOS – brand new operating system which derives from NT architecture](https://exectos.eu.org/)
 - [Fern Hollow Bridge should have been closed years before it collapsed](https://practical.engineering/blog/2024/6/18/this-bridge-should-have-been-closed-years-before-it-collapsed)
-- [I&#39;m the hacker that brought down North Korea&#39;s Internet for over a week. AMA](https://old.reddit.com/r/IAmA/comments/1divlp3/im_the_hacker_that_brought_down_north_koreas/)
-- [Ask HN: Who has had a successful PWA product?](https://news.ycombinator.com/item?id=40724774)
-- [Willie Mays, SF Giants baseball player, has died](https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php)
 - [Open Source Python ETL](https://amphi.ai/)
+- [Ask HN: Why do message queue-based architectures seem less popular now?](https://news.ycombinator.com/item?id=40723302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
