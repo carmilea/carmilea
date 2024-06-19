@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Even Apple cannot explain why we need AI in our lives](https://www.ft.com/content/1355ccd9-4a2d-49d2-9e42-250aab0c38aa)
+- [Mrs Perkins&#39;s Quilt &lpar;2017&rpar;](http://www.squaring.net/quilts/mrs-perkins-quilts.html)
+- [Can holographic optical storage displace Hard Disk Drives?](https://www.nature.com/articles/s44172-024-00225-0)
+- [Recovering an Agilent 2000A/3000A Oscilloscope with Corrupt Firmware NAND Flash](https://salvagedcircuitry.com/2000a-nand-recovery.html)
 - [Ribbon Health &lpar;YC S17&rpar; Is Hiring a Sales Eng Director for Enterprises](https://www.ribbonhealth.com/open-roles?gh_jid=5179134004)
-- [2.6M Piracy Reports Against French Users Resulted in 234 Financial Penalties](https://torrentfreak.com/2-6m-piracy-reports-against-french-users-resulted-in-234-financial-penalties-2240618/)
-- [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
-- [Neofetch developer archives all his repositories: &quot;Have taken up farming&quot;](https://github.com/dylanaraps)
-- [Boeing sent two astronauts into space, now it needs to get them home](https://www.wsj.com/science/space-astronomy/boeing-sent-two-astronauts-into-space-now-it-needs-to-get-them-home-99d96633)
 <!-- BLOG-POST-LIST:END -->
 
 ---
