@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fern Hollow Bridge should have been closed years before it collapsed](https://practical.engineering/blog/2024/6/18/this-bridge-should-have-been-closed-years-before-it-collapsed)
 - [I&#39;m the hacker that brought down North Korea&#39;s Internet for over a week. AMA](https://old.reddit.com/r/IAmA/comments/1divlp3/im_the_hacker_that_brought_down_north_koreas/)
 - [Ask HN: Who has had a successful PWA product?](https://news.ycombinator.com/item?id=40724774)
-- [Satellites like Starlink could deplete Earth&#39;s ozone layer, study says](https://www.independent.co.uk/space/elon-musk-starlink-satellite-internet-b2564344.html)
-- [Sequoia is both more and less generous to Intel Macs, depending on the model](https://arstechnica.com/gadgets/2024/06/the-case-for-and-against-macos-15-sequoia-being-the-final-release-for-intel-macs/)
 - [Willie Mays, SF Giants baseball player, has died](https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php)
+- [Open Source Python ETL](https://amphi.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
