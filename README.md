@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Almost half of Dell&#39;s full-time US workforce has rejected the company&#39;s RTO push](https://www.businessinsider.com/us-dell-workers-reject-return-to-office-hybrid-work-2024-6)
-- [Client-Side-Scanning: Chat Control Is Pure Surveillance State](https://netzpolitik.org/2024/client-side-scanning-chat-control-is-pure-surveillance-state/)
-- [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/)
-- [Campaigns Can Now See What You Watch on TV](https://www.notus.org/2024-election/streaming-tv-campaign-ads)
-- [Arvind Mithal has died](https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618)
+- [F](http://www.nsl.com/k/f/f.htm)
+- [Ilya Sutskever starts Safe Superintelligence Inc](https://ssi.inc)
+- [Safe Superintelligence Inc. – Ilya Sutskever](https://twitter.com/ssi/status/1803472825476587910)
+- [Blacksmith &lpar;YC W24&rpar; is hiring a front end engineer to improve GitHub Actions](https://www.ycombinator.com/companies/blacksmith/jobs/SgZiNoi-founding-engineer-frontend)
+- [The Return of Pneumatic Tubes](https://www.technologyreview.com/2024/06/19/1093446/pneumatic-tubes-hospitals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
