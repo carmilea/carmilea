@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU to Potentially Greenlight Chat Scanning Proposal on Thursday](https://www.patrick-breyer.de/en/posts/chat-control/)
 - [New UNESCO report warns that Generative AI threatens Holocaust memory](https://www.unesco.org/en/articles/new-unesco-report-warns-generative-ai-threatens-holocaust-memory)
+- [Show HN: Pomoglorbo, a TUI Pomodoro timer for your terminal](https://codeberg.org/justusw/Pomoglorbo)
 - [ExectOS – brand new operating system which derives from NT architecture](https://exectos.eu.org/)
 - [Fern Hollow Bridge should have been closed years before it collapsed](https://practical.engineering/blog/2024/6/18/this-bridge-should-have-been-closed-years-before-it-collapsed)
-- [Open Source Python ETL](https://amphi.ai/)
-- [Ask HN: Why do message queue-based architectures seem less popular now?](https://news.ycombinator.com/item?id=40723302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
