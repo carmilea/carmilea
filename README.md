@@ -59,7 +59,7 @@
 - [Stages of Argument &lpar;2000&rpar;](http://legacy.earlham.edu/~peters/courses/argstages.htm)
 - [Show HN: Modular Pi Cam](https://github.com/jdc-cunningham/modular-pi-cam/tree/master/cameras/pi-zero/large-display)
 - [F &lpar;2006&rpar;](http://www.nsl.com/k/f/f.htm)
-- [Ilya Sutskever starts Safe Superintelligence Inc](https://ssi.inc)
+- [Safe Superintelligence Inc.](https://ssi.inc)
 - [Blacksmith &lpar;YC W24&rpar; is hiring a front end engineer to improve GitHub Actions](https://www.ycombinator.com/companies/blacksmith/jobs/SgZiNoi-founding-engineer-frontend)
 <!-- BLOG-POST-LIST:END -->
 
