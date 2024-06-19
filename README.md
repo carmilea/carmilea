@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX&#39;s Starlink may be keeping the ozone from healing, research finds](https://futurism.com/the-byte/spacex-starlink-ozone-healing)
-- [AridSpy targeting Egypt and Palestinian territories in new espionage campaigns](https://therecord.media/malware-aridspy-egypt-palestine-viper)
-- [House prices are surging once again](https://www.economist.com/finance-and-economics/2024/06/16/why-house-prices-are-surging-once-again)
-- [Apple has &#39;serious&#39; issues under EU digital rules, competition chief says](https://www.cnbc.com/2024/06/18/apple-issues-very-serious-under-landmark-eu-rules-vestager.html)
-- [IPC in Rust – A Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
+- [California Moves to Modify Law Letting Workers Sue Employers](https://www.nytimes.com/2024/06/18/business/economy/california-newsom-labor.html)
+- [Open Source Python ETL](https://amphi.ai/)
+- [Ask HN: Why do message queue-based architectures seem less popular now?](https://news.ycombinator.com/item?id=40723302)
+- [KidPix](https://kidpix.app)
+- [Off-path TCP hijacking in NAT-enabled Wi-Fi networks](https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
