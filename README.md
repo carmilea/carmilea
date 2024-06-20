@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobody Knows What&#39;s Going On](https://www.raptitude.com/2024/06/nobody-knows-whats-going-on/)
+- [OSRD: Open-Source Railway Designer](https://osrd.fr/en/)
+- [Nobody knows what&#39;s going on](https://www.raptitude.com/2024/06/nobody-knows-whats-going-on/)
 - [Hypermedia Systems](https://hypermedia.systems/)
-- [An &#39;Algorithm&#39; Turned Apartment Pools Green](https://prospect.org/infrastructure/housing/2024-06-18-how-algorithm-turned-apartment-pools-green/)
 - [Unique3D: Image-to-3D Generation from a Single Image in 30 seconds](https://github.com/AiuniAI/Unique3D)
 - [Zep AI &lpar;YC W24&rpar; is hiring back end engineers to build LLM long-term memory](https://www.ycombinator.com/companies/zep-ai/jobs/J5TD9KW-backend-engineer)
 <!-- BLOG-POST-LIST:END -->
