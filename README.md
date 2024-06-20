@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is LMDeploy the Ultimate Solution? Why It Outshines VLLM, TRT-LLM, TGI, and MLC](https://bentoml.com/blog/benchmarking-llm-inference-backends)
-- [Roblox has ported the entire front end JavaScript stack to Lua](https://twitter.com/zack_overflow/status/1803612884196532432)
+- [Virgin Orbit Had a Fake Takeover](https://www.bloomberg.com/opinion/articles/2024-06-20/virgin-orbit-had-a-fake-takeover)
+- [Artisan &lpar;YC W24&rpar; Is Hiring Exceptional Full-Stack Engineers](https://www.ycombinator.com/companies/artisan/jobs/HGhUCbv-full-stack-engineer)
 - [Show HN: I made a puzzle game &amp; it gently introduces my favorite math mysteries](https://www.rahulilango.com/coloring/)
-- [Author Finds Another&#39;s Name on an Elsevier Book Chapter She Wrote](https://retractionwatch.com/2024/06/20/exhausting-author-finds-anothers-name-on-an-elsevier-book-chapter-she-wrote/)
-- [RAR-B: Reasoning as Retrieval Benchmark](https://arxiv.org/abs/2404.06347)
+- [Atkinson Dithering](https://beyondloom.com/blog/dither.html)
+- [Calculating Empires: A Genealogy of Technology and Power Since 1500](https://calculatingempires.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
