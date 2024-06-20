@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is Google deliberately breaking Firefox?](https://news.ycombinator.com/item?id=40736397)
+- [Ask HN: Is Firefox better than Chrome when it comes to user security?](https://news.ycombinator.com/item?id=40735973)
 - [Lessons Learned from Scaling to Multi-Terabyte Datasets](https://v2thegreat.com/2024/06/19/lessons-learned-from-scaling-to-multi-terabyte-datasets/)
-- [What Is a Personal User Manual?](https://futureforum.com/2022/07/15/personal-user-manual/)
-- [Rosser&#39;s Theorem via Turing Machines &lpar;2011&rpar;](https://scottaaronson.blog/?p=710)
-- [A 30-meter pass in the Pyrenees through which insects migrate](https://english.elpais.com/climate/2024-06-13/the-30-meter-pass-in-the-pyrenees-through-which-millions-of-insects-migrate.html)
-- [OSRD: Open-Source Railway Designer](https://osrd.fr/en/)
+- [Oldest white wine in the world found in a first-century tomb in Spain](https://doi.org/10.1016/j.jasrep.2024.104636)
+- [What Is a Personal User Manual? &lpar;2022&rpar;](https://futureforum.com/2022/07/15/personal-user-manual/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
