@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Text Status Hosting and Dashboard](https://github.com/madprops/curls)
 - [Docker Is Having an Outage](https://downdetector.com/status/docker/)
+- [New York Establishes Stringent Protections to Safeguard Kids on Social Media](https://www.governor.ny.gov/news/governor-hochul-joins-attorney-general-james-and-bill-sponsors-sign-nation-leading-legislation)
 - [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/promoted/jobs/5moymju-sales-engineer-new-grad)
-- [Ask HN: How do you stay organized for solo dev?](https://news.ycombinator.com/item?id=40742831)
 - [SUSE upgrades its distros with 19 years of support – no other Linux comes close](https://www.zdnet.com/article/suse-upgrades-its-distros-with-19-years-of-support-no-other-linux-comes-close/)
-- [Gilead shot prevents all HIV cases in trial](https://www.bloomberg.com/news/articles/2024-06-20/gilead-shot-prevents-100-of-hiv-cases-in-trial-of-african-women)
 <!-- BLOG-POST-LIST:END -->
 
 ---
