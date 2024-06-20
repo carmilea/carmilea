@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Midday – Run your business smarter &lpar;open-source&rpar;](https://midday.ai)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [NPM and NodeJS should do more to make ES Modules easy to use](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
 - [The Delusion of Advanced Plastic Recycling](https://www.propublica.org/article/delusion-advanced-chemical-plastic-recycling-pyrolysis)
 - [Tetris as Font](https://erikdemaine.org/fonts/tetris/)
-- [Rotation curves: still flat after a million light-years](https://tritonstation.com/2024/06/18/rotation-curves-still-flat-after-a-million-light-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
