@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Java string interpolation feature has been cancelled](https://bugs.openjdk.org/browse/JDK-8329949)
+- [Post office doxes all postmasters targeted in horizon scandal](https://www.bbc.co.uk/news/articles/cd110nl7dppo)
+- [EU Council has withdrawn the vote on Chat Control](https://stackdiary.com/eu-council-has-withdrawn-the-vote-on-chat-control/)
 - [Bun is much faster than Node.js 22 at decoding Base64 but both rely on same lib](https://twitter.com/lemire/status/1803598132334436415)
-- [Ask HN: Is Firefox better than Chrome when it comes to user security?](https://news.ycombinator.com/item?id=40735973)
-- [Lessons Learned from Scaling to Multi-Terabyte Datasets](https://v2thegreat.com/2024/06/19/lessons-learned-from-scaling-to-multi-terabyte-datasets/)
-- [Oldest white wine in the world found in a first-century tomb in Spain](https://doi.org/10.1016/j.jasrep.2024.104636)
-- [What Is a Personal User Manual? &lpar;2022&rpar;](https://futureforum.com/2022/07/15/personal-user-manual/)
+- [Free software hijacked Philip Hazel&#39;s life](https://lwn.net/SubscriberLink/978463/608c876c1153fd31/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
