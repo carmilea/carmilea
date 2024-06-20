@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Virgin Orbit Had a Fake Takeover](https://www.bloomberg.com/opinion/articles/2024-06-20/virgin-orbit-had-a-fake-takeover)
+- [Ask HN: Well architected React and Node repos?](https://news.ycombinator.com/item?id=40741304)
+- [Small claims court became Meta&#39;s customer service hotline](https://www.engadget.com/how-small-claims-court-became-metas-customer-service-hotline-160224479.html)
+- [Instagram Recommends Sexual Videos to Accounts for 13-Year-Olds, Tests Show](https://www.wsj.com/tech/instagram-recommends-sexual-videos-to-accounts-for-13-year-olds-tests-show-b6123c65)
+- [Notes on Tajikistan](https://mattlakeman.org/2024/06/20/notes-on-tajikistan/)
 - [Artisan &lpar;YC W24&rpar; Is Hiring Exceptional Full-Stack Engineers](https://www.ycombinator.com/companies/artisan/jobs/HGhUCbv-full-stack-engineer)
-- [Show HN: I made a puzzle game &amp; it gently introduces my favorite math mysteries](https://www.rahulilango.com/coloring/)
-- [Atkinson Dithering](https://beyondloom.com/blog/dither.html)
-- [Calculating Empires: A Genealogy of Technology and Power Since 1500](https://calculatingempires.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
