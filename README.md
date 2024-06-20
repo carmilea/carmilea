@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU Chat Control Is Motivated by the American Cloud Act](https://twitter.com/AlecMuffett/status/1803734262354518483)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Curl is inside 22,734 Steam games](https://daniel.haxx.se/blog/2024/06/20/inside-22734-steam-games/)
+- [NPM and NodeJS should do more to make ES Modules easy to use](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
+- [The Delusion of Advanced Plastic Recycling](https://www.propublica.org/article/delusion-advanced-chemical-plastic-recycling-pyrolysis)
 - [Tetris as Font](https://erikdemaine.org/fonts/tetris/)
-- [Drugmaker to testify on why weight-loss drugs cost 15x more in the US](https://arstechnica.com/science/2024/06/drugmaker-ceo-to-testify-on-outrageously-priced-weight-loss-drugs/)
+- [Rotation curves: still flat after a million light-years](https://tritonstation.com/2024/06/18/rotation-curves-still-flat-after-a-million-light-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
