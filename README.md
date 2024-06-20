@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
+- [Public servants uneasy as government &#39;spy&#39; robot prowls federal offices](https://www.cbc.ca/news/canada/ottawa/public-servants-uneasy-as-government-spy-robot-prowls-federal-offices-1.7239711)
+- [Wc2: Investigates optimizing &#39;wc&#39;, the Unix word count program](https://github.com/robertdavidgraham/wc2)
+- [AdonisJS](https://adonisjs.com/)
 - [Show HN: Midday – Run your business smarter &lpar;open-source&rpar;](https://midday.ai)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [NPM and NodeJS should do more to make ES Modules easy to use](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
-- [The Delusion of Advanced Plastic Recycling](https://www.propublica.org/article/delusion-advanced-chemical-plastic-recycling-pyrolysis)
-- [Tetris as Font](https://erikdemaine.org/fonts/tetris/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
