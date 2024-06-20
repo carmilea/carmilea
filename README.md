@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qualcomm AI/Copilot PCs don&#39;t live up to the hype](https://semiaccurate.com/2024/06/18/qualcomm-ai-copilot-pcs-dont-live-up-to-the-hype/)
 - [OSRD: Open-Source Railway Designer](https://osrd.fr/en/)
 - [Nobody knows what&#39;s going on](https://www.raptitude.com/2024/06/nobody-knows-whats-going-on/)
+- [Trealla Prolog: Compact and efficient Prolog interpreter](https://trealla-prolog.github.io/trealla/)
 - [Hypermedia Systems](https://hypermedia.systems/)
-- [Unique3D: Image-to-3D Generation from a Single Image in 30 seconds](https://github.com/AiuniAI/Unique3D)
-- [Zep AI &lpar;YC W24&rpar; is hiring back end engineers to build LLM long-term memory](https://www.ycombinator.com/companies/zep-ai/jobs/J5TD9KW-backend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
