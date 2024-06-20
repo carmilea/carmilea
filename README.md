@@ -60,7 +60,7 @@
 - [A 30-meter pass in the Pyrenees through which insects migrate](https://english.elpais.com/climate/2024-06-13/the-30-meter-pass-in-the-pyrenees-through-which-millions-of-insects-migrate.html)
 - [Swapping GNU coreutils for uutils coreutils on Gentoo Linux](https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/)
 - [OSRD: Open-Source Railway Designer](https://osrd.fr/en/)
-- [Trealla Prolog: Compact and efficient Prolog interpreter](https://trealla-prolog.github.io/trealla/)
+- [Hypermedia Systems](https://hypermedia.systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
