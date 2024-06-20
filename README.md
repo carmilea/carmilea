@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok says US ban is inevitable without a court order blocking law](https://www.reuters.com/legal/tiktok-says-us-ban-is-inevitable-without-court-order-blocking-law-2024-06-20/)
+- [FBI raids Oakland Mayor Sheng Thao&#39;s home, 3 other locations: source](https://abc7news.com/post/fbi-raided-oakland-mayor-sheng-thaos-home-sources/14980538/)
+- [Cloudflare Connectivity Issues in Eastern US and Central Europe](https://www.cloudflarestatus.com/incidents/p7l6rrbhysck)
+- [Actor Donald Sutherland dies aged 88](https://www.bbc.com/news/articles/c9rrvdq3g9zo)
 - [Ask HN: Well architected React and Node repos?](https://news.ycombinator.com/item?id=40741304)
-- [Small claims court became Meta&#39;s customer service hotline](https://www.engadget.com/how-small-claims-court-became-metas-customer-service-hotline-160224479.html)
-- [Instagram Recommends Sexual Videos to Accounts for 13-Year-Olds, Tests Show](https://www.wsj.com/tech/instagram-recommends-sexual-videos-to-accounts-for-13-year-olds-tests-show-b6123c65)
-- [Notes on Tajikistan](https://mattlakeman.org/2024/06/20/notes-on-tajikistan/)
-- [Artisan &lpar;YC W24&rpar; Is Hiring Exceptional Full-Stack Engineers](https://www.ycombinator.com/companies/artisan/jobs/HGhUCbv-full-stack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
