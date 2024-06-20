@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
-- [Public servants uneasy as government &#39;spy&#39; robot prowls federal offices](https://www.cbc.ca/news/canada/ottawa/public-servants-uneasy-as-government-spy-robot-prowls-federal-offices-1.7239711)
-- [Wc2: Investigates optimizing &#39;wc&#39;, the Unix word count program](https://github.com/robertdavidgraham/wc2)
-- [AdonisJS](https://adonisjs.com/)
-- [Show HN: Midday – Run your business smarter &lpar;open-source&rpar;](https://midday.ai)
+- [Is LMDeploy the Ultimate Solution? Why It Outshines VLLM, TRT-LLM, TGI, and MLC](https://bentoml.com/blog/benchmarking-llm-inference-backends)
+- [Roblox has ported the entire front end JavaScript stack to Lua](https://twitter.com/zack_overflow/status/1803612884196532432)
+- [Show HN: I made a puzzle game &amp; it gently introduces my favorite math mysteries](https://www.rahulilango.com/coloring/)
+- [Author Finds Another&#39;s Name on an Elsevier Book Chapter She Wrote](https://retractionwatch.com/2024/06/20/exhausting-author-finds-anothers-name-on-an-elsevier-book-chapter-she-wrote/)
+- [RAR-B: Reasoning as Retrieval Benchmark](https://arxiv.org/abs/2404.06347)
 <!-- BLOG-POST-LIST:END -->
 
 ---
