@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. home prices have far outpaced paychecks. See what it looks like](https://www.npr.org/2024/06/20/nx-s1-5005972/home-prices-wages-paychecks-rent-housing-harvard-report)
 - [Rosser&#39;s Theorem via Turing Machines &lpar;2011&rpar;](https://scottaaronson.blog/?p=710)
 - [A 30-meter pass in the Pyrenees through which insects migrate](https://english.elpais.com/climate/2024-06-13/the-30-meter-pass-in-the-pyrenees-through-which-millions-of-insects-migrate.html)
 - [Swapping GNU coreutils for uutils coreutils on Gentoo Linux](https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/)
 - [OSRD: Open-Source Railway Designer](https://osrd.fr/en/)
-- [Hypermedia Systems](https://hypermedia.systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
