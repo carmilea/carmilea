@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inventions that came from Waterloo](https://uwaterloo.ca/news/10-inventions-you-didnt-know-came-waterloo)
+- [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/promoted/jobs/5moymju-sales-engineer-new-grad)
+- [Ask HN: How do you stay organized for solo dev?](https://news.ycombinator.com/item?id=40742831)
+- [S. D. Butler – War is a Racket [pdf]](https://kether.com/words/butler-smedley--war-is-a-racket-1.pdf)
+- [New York bans &#39;addictive feeds&#39; for teens](https://www.theverge.com/2024/6/20/24182396/new-york-governor-social-media-law-parental-consent-algorithms)
 - [Gilead Shot Prevents All HIV Cases in Trial of African Women](https://www.bloomberg.com/news/articles/2024-06-20/gilead-shot-prevents-100-of-hiv-cases-in-trial-of-african-women)
-- [More Disabled Americans Are Employed, Thanks to Remote Work](https://www.bloomberg.com/news/articles/2024-06-20/remote-work-helps-more-people-with-disabilities-get-employed)
-- [Fuzz Map](https://www.fuzzmap.io/)
-- [Donald Sutherland has died](https://www.bbc.com/news/articles/c9rrvdq3g9zo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
