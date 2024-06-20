@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok says US ban is inevitable without a court order blocking law](https://www.reuters.com/legal/tiktok-says-us-ban-is-inevitable-without-court-order-blocking-law-2024-06-20/)
-- [FBI raids Oakland Mayor Sheng Thao&#39;s home, 3 other locations: source](https://abc7news.com/post/fbi-raided-oakland-mayor-sheng-thaos-home-sources/14980538/)
-- [Cloudflare Connectivity Issues in Eastern US and Central Europe](https://www.cloudflarestatus.com/incidents/p7l6rrbhysck)
-- [Actor Donald Sutherland dies aged 88](https://www.bbc.com/news/articles/c9rrvdq3g9zo)
-- [Ask HN: Well architected React and Node repos?](https://news.ycombinator.com/item?id=40741304)
+- [Inventions that came from Waterloo](https://uwaterloo.ca/news/10-inventions-you-didnt-know-came-waterloo)
+- [Gilead Shot Prevents All HIV Cases in Trial of African Women](https://www.bloomberg.com/news/articles/2024-06-20/gilead-shot-prevents-100-of-hiv-cases-in-trial-of-african-women)
+- [More Disabled Americans Are Employed, Thanks to Remote Work](https://www.bloomberg.com/news/articles/2024-06-20/remote-work-helps-more-people-with-disabilities-get-employed)
+- [Fuzz Map](https://www.fuzzmap.io/)
+- [Donald Sutherland has died](https://www.bbc.com/news/articles/c9rrvdq3g9zo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
