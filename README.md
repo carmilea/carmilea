@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Java string interpolation feature has been cancelled](https://bugs.openjdk.org/browse/JDK-8329949)
-- [Post office doxes all postmasters targeted in horizon scandal](https://www.bbc.co.uk/news/articles/cd110nl7dppo)
-- [EU Council has withdrawn the vote on Chat Control](https://stackdiary.com/eu-council-has-withdrawn-the-vote-on-chat-control/)
-- [Bun is much faster than Node.js 22 at decoding Base64 but both rely on same lib](https://twitter.com/lemire/status/1803598132334436415)
-- [Free software hijacked Philip Hazel&#39;s life](https://lwn.net/SubscriberLink/978463/608c876c1153fd31/)
+- [EU Chat Control Is Motivated by the American Cloud Act](https://twitter.com/AlecMuffett/status/1803734262354518483)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Curl is inside 22,734 Steam games](https://daniel.haxx.se/blog/2024/06/20/inside-22734-steam-games/)
+- [Tetris as Font](https://erikdemaine.org/fonts/tetris/)
+- [Drugmaker to testify on why weight-loss drugs cost 15x more in the US](https://arstechnica.com/science/2024/06/drugmaker-ceo-to-testify-on-outrageously-priced-weight-loss-drugs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
