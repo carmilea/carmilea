@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Protecting Children&#39;s Safety Requires End-to-End Encryption](https://simplex.chat/blog/20240601-protecting-children-safety-requires-e2e-encryption.html)
+- [Lessons Learned from Scaling to Multi-Terabyte Datasets](https://v2thegreat.com/2024/06/19/lessons-learned-from-scaling-to-multi-terabyte-datasets/)
 - [What Is a Personal User Manual?](https://futureforum.com/2022/07/15/personal-user-manual/)
 - [Rosser&#39;s Theorem via Turing Machines &lpar;2011&rpar;](https://scottaaronson.blog/?p=710)
 - [A 30-meter pass in the Pyrenees through which insects migrate](https://english.elpais.com/climate/2024-06-13/the-30-meter-pass-in-the-pyrenees-through-which-millions-of-insects-migrate.html)
-- [Swapping GNU coreutils for uutils coreutils on Gentoo Linux](https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/)
+- [OSRD: Open-Source Railway Designer](https://osrd.fr/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
