@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40745151)
-- [Ask HN: Has anyone else found it harder to review code recently?](https://news.ycombinator.com/item?id=40744851)
-- [Tesla owners file class-action alleging repair, parts monopoly](https://driving.ca/auto-news/industry/tesla-class-action-lawsuite-parts-repairs-monopoly)
-- [How We Made the Deno Language Server Ten Times Faster](https://deno.com/blog/optimizing-our-lsp)
+- [How we made the Deno language server faster](https://deno.com/blog/optimizing-our-lsp)
 - [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
+- [Tim O’Reilly: How to Fix &quot;AI&#39;s Original Sin&quot;](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
+- [Show HN: Local Voice Assistant Using Ollama, Transformers and Coqui TTS Toolkit](https://github.com/mezbaul-h/june)
+- [Generating audio for video](https://deepmind.google/discover/blog/generating-audio-for-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
