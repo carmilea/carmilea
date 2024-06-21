@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FDA Expands Approval of Gene Therapy for Patients with Muscular Dystrophy](https://www.fda.gov/news-events/press-announcements/fda-expands-approval-gene-therapy-patients-duchenne-muscular-dystrophy)
-- [Ask HN: What indoor CO2 monitor do you recommend?](https://news.ycombinator.com/item?id=40749275)
-- [It seems routine to see a bunch of browser User-Agents from the same IP](https://utcc.utoronto.ca/~cks/space/blog/web/MultipleUserAgentsSameIP)
-- [Advanced Text Features and PDF](https://nibblestew.blogspot.com/2024/06/advanced-text-features-and-pdf.html)
-- [Athelas &lpar;YC S16&rpar; Is Hiring a Senior Full-Stack Software Engineer](https://www.athelas.com/careers?ashby_jid=55c6a105-80be-40b1-8644-cd44f48f1d08)
+- [Change Healthcare confirms hackers stole medical records of Americans](https://techcrunch.com/2024/06/21/change-healthcare-confirms-ransomware-hackers-stole-medical-records-on-a-substantial-proportion-of-americans/)
+- [How the Square Root of 2 Became a Number](https://www.quantamagazine.org/how-the-square-root-of-2-became-a-number-20240621/)
+- [Multiple AI companies bypassing web standard to scrape publisher sites](https://www.reuters.com/technology/artificial-intelligence/multiple-ai-companies-bypassing-web-standard-scrape-publisher-sites-licensing-2024-06-21/)
+- [Twitter and the Spread of Academic Knowledge](https://mattsclancy.substack.com/p/twitter-and-the-spread-of-academic)
+- [Why Innovation Heroes Are a Sign of a Dysfunctional Organization](https://steveblank.substack.com/p/why-innovation-heroes-are-a-sign)
 <!-- BLOG-POST-LIST:END -->
 
 ---
