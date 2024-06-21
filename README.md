@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bessemer Venture Partners&#39; Anti-Portfolio](https://www.bvp.com/anti-portfolio)
-- [Is Kotlin Multiplatform Replacing Flutter?](https://news.ycombinator.com/item?id=40746826)
+- [Google Search is indexing has halted](https://twitter.com/rustybrick/status/1803925912720642536)
+- [Europe&#39;s solar power surge hits prices, exposing storage needs](https://www.euractiv.com/section/energy-environment/news/europes-solar-power-surge-hits-prices-exposing-storage-needs/)
 - [Ladybird browser spreads its wings](https://lwn.net/Articles/976822/)
-- [The exponential growth of solar power will change the world](https://www.economist.com/leaders/2024/06/20/the-exponential-growth-of-solar-power-will-change-the-world)
-- [US Bans Kaspersky Software](https://www.wired.com/story/us-bans-kaspersky-software/)
+- [MeshAnything – converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
