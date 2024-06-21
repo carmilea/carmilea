@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Daylight Computer tablet review](https://twitter.com/patio11/status/1804217931557171612)
+- [Internet Archive forced to remove 500k books after publishers&#39; court win](https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/)
+- [Solving puzzles faster than humanly possible](https://biggieblog.com/solving-puzzles-faster-than-humanly-possible/)
+- [Hope without optimism – transcription of a talk by Dave Snowden &lpar;2022&rpar;](https://gist.github.com/owulveryck/4ac8c96c16f5a48de24f8a0e949ad9a5)
 - [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- [SVG: The Good, the Bad, and the Ugly &lpar;2021&rpar;](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
-- [Finally, What We’ve Been Waiting For: OpenAI Acquires Rockset](https://www.singlestore.com/blog/openai-acquires-rockset)
-- [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
-- [GitHub – Karpathy/LLM101n: LLM101n: Let&#39;s Build a Storyteller](https://github.com/karpathy/LLM101n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
