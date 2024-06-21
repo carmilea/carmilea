@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Women can have short hair, too](https://thecritic.co.uk/women-can-have-short-hair-too/)
+- [AI is exhausting the power grid](https://www.washingtonpost.com/business/2024/06/21/artificial-intelligence-nuclear-fusion-climate/)
+- [Starlink Mini brings space internet to backpackers](https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price)
 - [EVs Are Selling Well for Everyone Except Tesla](https://jalopnik.com/evs-are-selling-well-for-everyone-except-tesla-1851550953)
 - [Show HN: A collection of front end Learning Resources](https://github.com/requestly/awesome-frontend-resources)
-- [Bessemer Venture Partners&#39; Anti-Portfolio](https://www.bvp.com/anti-portfolio)
-- [Ladybird browser spreads its wings](https://lwn.net/Articles/976822/)
+- [The Pre-Scheme Restoration project is now underway](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
