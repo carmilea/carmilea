@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is exhausting the power grid](https://www.washingtonpost.com/business/2024/06/21/artificial-intelligence-nuclear-fusion-climate/)
+- [Athelas &lpar;YC S16&rpar; Is Hiring a Senior Full-Stack Software Engineer](https://www.athelas.com/careers?ashby_jid=55c6a105-80be-40b1-8644-cd44f48f1d08)
+- [Microsoft makes Copilot less useful on new Copilot Plus PCs](https://www.theverge.com/2024/6/21/24182979/microsoft-copilot-key-keyboard-shortcut-pwa)
+- [The Engineer Who Refused to Approve the Challenger Launch](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover)
 - [Starlink Mini brings space internet to backpackers](https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price)
-- [EVs Are Selling Well for Everyone Except Tesla](https://jalopnik.com/evs-are-selling-well-for-everyone-except-tesla-1851550953)
 - [Show HN: A collection of front end Learning Resources](https://github.com/requestly/awesome-frontend-resources)
-- [The Pre-Scheme Restoration project is now underway](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
