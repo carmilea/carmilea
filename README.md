@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Text Status Hosting and Dashboard](https://github.com/madprops/curls)
-- [Docker Is Having an Outage](https://downdetector.com/status/docker/)
-- [New York Establishes Stringent Protections to Safeguard Kids on Social Media](https://www.governor.ny.gov/news/governor-hochul-joins-attorney-general-james-and-bill-sponsors-sign-nation-leading-legislation)
-- [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/promoted/jobs/5moymju-sales-engineer-new-grad)
-- [SUSE upgrades its distros with 19 years of support – no other Linux comes close](https://www.zdnet.com/article/suse-upgrades-its-distros-with-19-years-of-support-no-other-linux-comes-close/)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40745151)
+- [Ask HN: Has anyone else found it harder to review code recently?](https://news.ycombinator.com/item?id=40744851)
+- [Tesla owners file class-action alleging repair, parts monopoly](https://driving.ca/auto-news/industry/tesla-class-action-lawsuite-parts-repairs-monopoly)
+- [How We Made the Deno Language Server Ten Times Faster](https://deno.com/blog/optimizing-our-lsp)
+- [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
