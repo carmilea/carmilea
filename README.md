@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [McDonald&#39;s AI Drive-Thru debacle is a warning to us all](https://www.creativebloq.com/design/branding/mcdonalds-ai-drive-thru-debacle-is-a-warning-to-us-all)
+- [Patterns &lpar;YC S21&rpar; Is Hiring to Build Analytics Agents for Finance Teams](https://patterns.app/)
+- [Apple won&#39;t roll out AI tech in EU market over regulatory concerns](https://www.bloomberg.com/news/articles/2024-06-21/apple-won-t-roll-out-ai-tech-in-eu-market-over-regulatory-concerns)
+- [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
+- [54 Humans in One 8-meter Gravitics Module](https://www.gravitics.com/news/54-humans-in-gravitics-modules)
 - [OpenAI Acquires Rockset](https://openai.com/index/openai-acquires-rockset/)
-- [Fastly launches free developer accounts](https://www.fastly.com/blog/its-free-instant-and-yours-fastlys-free-developer-accounts-are-here)
-- [How the Square Root of 2 Became a Number](https://www.quantamagazine.org/how-the-square-root-of-2-became-a-number-20240621/)
-- [Twitter and the Spread of Academic Knowledge](https://mattsclancy.substack.com/p/twitter-and-the-spread-of-academic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
