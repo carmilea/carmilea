@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparing the Framework Laptop with the MacBook Air M2: A Detailed Review](https://quail.ink/lyric_na/p/comparing-the-framework-laptop-with-the-macbook-air-m2-a-detailed-review)
 - [How we made the Deno language server faster](https://deno.com/blog/optimizing-our-lsp)
 - [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
-- [Tim O’Reilly: How to Fix &quot;AI&#39;s Original Sin&quot;](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
+- [How to Fix “AI’s Original Sin”](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
 - [Show HN: Local Voice Assistant Using Ollama, Transformers and Coqui TTS Toolkit](https://github.com/mezbaul-h/june)
-- [Generating audio for video](https://deepmind.google/discover/blog/generating-audio-for-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
