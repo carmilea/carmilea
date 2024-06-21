@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Intelligence Features Not Coming to Europe at Launch Due to DMA](https://www.macrumors.com/2024/06/21/apple-intelligence-europe-delay/)
 - [Patterns &lpar;YC S21&rpar; Is Hiring to Build Analytics Agents for Finance Teams](https://patterns.app/)
-- [Apple won&#39;t roll out AI tech in EU market over regulatory concerns](https://www.bloomberg.com/news/articles/2024-06-21/apple-won-t-roll-out-ai-tech-in-eu-market-over-regulatory-concerns)
+- [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
+- [How to prolong lithium based batteries](https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries)
 - [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
-- [54 Humans in One 8-meter Gravitics Module](https://www.gravitics.com/news/54-humans-in-gravitics-modules)
-- [OpenAI Acquires Rockset](https://openai.com/index/openai-acquires-rockset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
