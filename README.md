@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bessemer Venture Partners&#39; Anti-Portfolio](https://www.bvp.com/anti-portfolio)
+- [Is Kotlin Multiplatform Replacing Flutter?](https://news.ycombinator.com/item?id=40746826)
 - [Ladybird browser spreads its wings](https://lwn.net/Articles/976822/)
-- [MeshAnything – converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
-- [Bomb Jack display hardware](https://github.com/martinpiper/BombJack/blob/master/README.md)
-- [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
-- [How to fix “AI’s original sin”](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
+- [The exponential growth of solar power will change the world](https://www.economist.com/leaders/2024/06/20/the-exponential-growth-of-solar-power-will-change-the-world)
+- [US Bans Kaspersky Software](https://www.wired.com/story/us-bans-kaspersky-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
