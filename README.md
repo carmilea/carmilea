@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why SMBs Don&#39;t Deploy SSO](https://www.cisa.gov/news-events/news/why-smbs-dont-deploy-single-sign-sso)
-- [What good are whizzy new drugs if the world can&#39;t afford them?](https://www.economist.com/by-invitation/2024/06/14/what-good-are-whizzy-new-drugs-if-the-world-cant-afford-them)
+- [Ontario Science Centre to close immediately](https://www.cbc.ca/news/canada/toronto/ontario-science-centre-closing-roof-1.7242810)
+- [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
+- [Barcelona will eliminate tourist apartments](https://www.theolivepress.es/spain-news/2024/06/21/breaking-barcelona-will-remove-all-tourist-apartments-in-2028-in-huge-win-for-anti-tourism-activists/)
+- [TSMC experimenting with rectangular wafers vs. round for more chips per wafer](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-explores-radical-new-chip-packaging-approach-to-feed-AI-boom)
 - [We now have even more evidence against the &quot;ecocide&quot; theory of Easter Island](https://arstechnica.com/science/2024/06/we-now-have-even-more-evidence-against-the-ecocide-theory-of-easter-island/)
-- [Huawei unveils its own programming language the &quot;Cangjie&quot;](https://gsmchina.com/huawei-unveils-its-own-programming-language-the-cangjie-8687/)
-- [A runaway plane took off by itself and spent 3 hours flying unpiloted in 1955](https://navyhistory.au/aster-shootdown-over-sydney-in-1955/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
