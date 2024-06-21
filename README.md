@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Intelligence Features Not Coming to Europe at Launch Due to DMA](https://www.macrumors.com/2024/06/21/apple-intelligence-europe-delay/)
-- [Patterns &lpar;YC S21&rpar; Is Hiring to Build Analytics Agents for Finance Teams](https://patterns.app/)
-- [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
-- [How to prolong lithium based batteries](https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries)
-- [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
+- [Why SMBs Don&#39;t Deploy SSO](https://www.cisa.gov/news-events/news/why-smbs-dont-deploy-single-sign-sso)
+- [What good are whizzy new drugs if the world can&#39;t afford them?](https://www.economist.com/by-invitation/2024/06/14/what-good-are-whizzy-new-drugs-if-the-world-cant-afford-them)
+- [We now have even more evidence against the &quot;ecocide&quot; theory of Easter Island](https://arstechnica.com/science/2024/06/we-now-have-even-more-evidence-against-the-ecocide-theory-of-easter-island/)
+- [Huawei unveils its own programming language the &quot;Cangjie&quot;](https://gsmchina.com/huawei-unveils-its-own-programming-language-the-cangjie-8687/)
+- [A runaway plane took off by itself and spent 3 hours flying unpiloted in 1955](https://navyhistory.au/aster-shootdown-over-sydney-in-1955/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
