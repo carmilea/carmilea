@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Women can have short hair, too](https://thecritic.co.uk/women-can-have-short-hair-too/)
+- [EVs Are Selling Well for Everyone Except Tesla](https://jalopnik.com/evs-are-selling-well-for-everyone-except-tesla-1851550953)
+- [Show HN: A collection of front end Learning Resources](https://github.com/requestly/awesome-frontend-resources)
 - [Bessemer Venture Partners&#39; Anti-Portfolio](https://www.bvp.com/anti-portfolio)
-- [Google Search is indexing has halted](https://twitter.com/rustybrick/status/1803925912720642536)
-- [Europe&#39;s solar power surge hits prices, exposing storage needs](https://www.euractiv.com/section/energy-environment/news/europes-solar-power-surge-hits-prices-exposing-storage-needs/)
 - [Ladybird browser spreads its wings](https://lwn.net/Articles/976822/)
-- [MeshAnything – converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
