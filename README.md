@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Rant about Front-end Development](https://blog.frankmtaylor.com/2024/06/20/a-rant-about-front-end-development/)
 - [Bomb Jack display hardware](https://github.com/martinpiper/BombJack/blob/master/README.md)
-- [A ship off Israel&#39;s coast could shed light on the navigation of ancient mariners](https://phys.org/news/2024-06-ship-israel-coast-skills-ancient.html)
 - [Thoughts on Desktop Operating Systems in 2024](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
-- [Walking to combat back pain: study shows dramatic improvement](https://lighthouse.mq.edu.au/article/june-2024/walking-away-from-pain-world-first-study-shows-dramatic-improvement-in-lower-back-trouble)
-- [How we made the Deno language server faster](https://deno.com/blog/optimizing-our-lsp)
+- [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
+- [How to fix “AI’s original sin”](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
