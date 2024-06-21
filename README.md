@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ontario Science Centre to close immediately](https://www.cbc.ca/news/canada/toronto/ontario-science-centre-closing-roof-1.7242810)
+- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+- [Stanford student collects her Master&#39;s degree at the age of 105](https://ed.stanford.edu/news/lifelong-learning-stanford-gse-student-collects-her-master-s-degree-after-80-years-education)
+- [Finally, What We’ve Been Waiting For: OpenAI Acquires Rockset](https://www.singlestore.com/blog/openai-acquires-rockset)
+- [Ontario Science Centre to close immediately due to risk of roof collapse](https://www.cbc.ca/news/canada/toronto/ontario-science-centre-closing-roof-1.7242810)
 - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
-- [Barcelona will eliminate tourist apartments](https://www.theolivepress.es/spain-news/2024/06/21/breaking-barcelona-will-remove-all-tourist-apartments-in-2028-in-huge-win-for-anti-tourism-activists/)
-- [TSMC experimenting with rectangular wafers vs. round for more chips per wafer](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-explores-radical-new-chip-packaging-approach-to-feed-AI-boom)
-- [We now have even more evidence against the &quot;ecocide&quot; theory of Easter Island](https://arstechnica.com/science/2024/06/we-now-have-even-more-evidence-against-the-ecocide-theory-of-easter-island/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
