@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Migrants Spending $72,000 to Illegally Immigrate to the US](https://www.reuters.com/investigates/special-report/migration-usa-smuggling/)
+- [FDA Expands Approval of Gene Therapy for Patients with Muscular Dystrophy](https://www.fda.gov/news-events/press-announcements/fda-expands-approval-gene-therapy-patients-duchenne-muscular-dystrophy)
+- [Ask HN: What indoor CO2 monitor do you recommend?](https://news.ycombinator.com/item?id=40749275)
+- [It seems routine to see a bunch of browser User-Agents from the same IP](https://utcc.utoronto.ca/~cks/space/blog/web/MultipleUserAgentsSameIP)
+- [Advanced Text Features and PDF](https://nibblestew.blogspot.com/2024/06/advanced-text-features-and-pdf.html)
 - [Athelas &lpar;YC S16&rpar; Is Hiring a Senior Full-Stack Software Engineer](https://www.athelas.com/careers?ashby_jid=55c6a105-80be-40b1-8644-cd44f48f1d08)
-- [Allan McDonald Refused To Approve Challenger Launch, Exposed Cover-Up &lpar;2021&rpar;](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover)
-- [Show HN: A collection of front end Learning Resources](https://github.com/requestly/awesome-frontend-resources)
-- [The Pre-Scheme Restoration project is now underway](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
