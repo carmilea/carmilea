@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ladybird browser spreads its wings](https://lwn.net/Articles/976822/)
 - [MeshAnything – converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
 - [Bomb Jack display hardware](https://github.com/martinpiper/BombJack/blob/master/README.md)
-- [Thoughts on desktop operating systems](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
 - [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
 - [How to fix “AI’s original sin”](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
 <!-- BLOG-POST-LIST:END -->
