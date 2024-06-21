@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- [Stanford student collects her Master&#39;s degree at the age of 105](https://ed.stanford.edu/news/lifelong-learning-stanford-gse-student-collects-her-master-s-degree-after-80-years-education)
+- [SVG: The Good, the Bad, and the Ugly &lpar;2021&rpar;](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
 - [Finally, What We’ve Been Waiting For: OpenAI Acquires Rockset](https://www.singlestore.com/blog/openai-acquires-rockset)
-- [Ontario Science Centre to close immediately due to risk of roof collapse](https://www.cbc.ca/news/canada/toronto/ontario-science-centre-closing-roof-1.7242810)
 - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
+- [GitHub – Karpathy/LLM101n: LLM101n: Let&#39;s Build a Storyteller](https://github.com/karpathy/LLM101n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
