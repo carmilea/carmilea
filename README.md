@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Redbox missed a multimillion-dollar payment it couldn&#39;t afford to miss](https://www.theverge.com/2024/6/21/24183454/redbox-universal-missed-payment-17-million)
+- [MACH.2 Multi-Actuator Hard Drives](https://www.seagate.com/innovation/multi-actuator-hard-drives/)
 - [Daylight Computer tablet review](https://twitter.com/patio11/status/1804217931557171612)
 - [Internet Archive forced to remove 500k books after publishers&#39; court win](https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/)
 - [Solving puzzles faster than humanly possible](https://biggieblog.com/solving-puzzles-faster-than-humanly-possible/)
-- [Hope without optimism – transcription of a talk by Dave Snowden &lpar;2022&rpar;](https://gist.github.com/owulveryck/4ac8c96c16f5a48de24f8a0e949ad9a5)
-- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
