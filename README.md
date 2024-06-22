@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After my dad died, I ran and sold his company &lpar;2018&rpar;](https://anandsanwal.me/2018/06/19/dad-company-sale/)
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring Software Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [A probabilistic solution to the three-body problem](http://phys.technion.ac.il/en/about/research-bits/on-chaos-drunks-and-a-solution-to-the-chaotic-three-body-problem-the-research-of-yonadav-barry-ginat-and-hagai-perets)
 - [Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
 - [The First Spatial Computing Hack](https://www.ryanpickren.com/vision-pro-hack)
 - [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
