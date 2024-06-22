@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Forth Story &lpar;1995&rpar;](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
+- [Researchers describe how to tell if ChatGPT is confabulating](https://arstechnica.com/ai/2024/06/researchers-describe-how-to-tell-if-chatgpt-is-confabulating/)
+- [OWASP Juice Shop: Hacking a Modern Web Application](https://blog.javascripttoday.com/blog/hacking-a-web-application/)
 - [My Windows Computer Just Doesn&#39;t Feel Like Mine Anymore](https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/)
 - [MACH.2 Multi-Actuator Hard Drives](https://www.seagate.com/innovation/multi-actuator-hard-drives/)
-- [Daylight Computer tablet review](https://twitter.com/patio11/status/1804217931557171612)
-- [Internet Archive forced to remove 500k books after publishers&#39; court win](https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/)
-- [Solving puzzles faster than humanly possible](https://biggieblog.com/solving-puzzles-faster-than-humanly-possible/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
