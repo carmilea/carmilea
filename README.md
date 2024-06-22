@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Tip: An em isn&#39;t an &quot;m&quot;, but an ex is an &quot;x&quot;](https://blog.frankmtaylor.com/2012/01/25/css-font-size-an-em-isnt-an-m-but-an-ex-is-an-x/)
 - [After my dad died, I ran and sold his company &lpar;2018&rpar;](https://anandsanwal.me/2018/06/19/dad-company-sale/)
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring Software Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 - [Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
 - [The First Spatial Computing Hack](https://www.ryanpickren.com/vision-pro-hack)
-- [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
