@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trellis &lpar;YC W24&rpar; is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+- [Creative workers deserve better than a choice as to who rips them off](https://pluralistic.net/2024/06/21/off-the-menu/)
+- [Impossibly thin fabric could cool you down by 16-plus degrees](https://www.fastcompany.com/91142992/this-impossibly-thin-fabric-could-cool-you-down-by-16-degrees)
+- [Microsoft insiders worry the company has become just &#39;IT for OpenAI&#39;](https://www.businessinsider.com/microsoft-insiders-worry-company-has-become-just-it-for-openai-2024-3)
 - [Bedroom light at night increases inflammation and disrupts circadian rhythm](https://www.sciencedirect.com/science/article/pii/S0147651324006663)
-- [Training AI](https://lmnt.me/blog/training-ai.html)
-- [Sheryl Crow: &#39;Resurrecting Tupac with AI Is Hateful&#39;](https://www.bbc.com/news/articles/cn00e695lpvo)
-- [&#39;Meridian&#39;: Why Netflix Is Helping Competitors with Content and Code &lpar;2016&rpar;](https://variety.com/2016/digital/news/netflix-meridian-imf-tools-open-source-1201859416/)
-- [HybridNeRF: Efficient Neural Rendering](https://haithemturki.com/hybrid-nerf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
