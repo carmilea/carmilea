@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Charge Robotics &lpar;YC S21&rpar; is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
+- [Solar generates fifth of global electricity on summer solstice midday peak](https://ember-climate.org/insights/in-brief/the-global-solar-revolution/)
 - [HH70, the first high-temperature superconducting Tokamak achieves first plasma](https://www.energysingularity.cn/en/hh70-the-worlds-first-high-temperature-superconducting-tokamak-achieves-first-plasma/)
-- [AI is exhausting the power grid. Tech firms are seeking a miracle solution](https://www.msn.com/en-us/money/technology/ai-is-exhausting-the-power-grid-tech-firms-are-seeking-a-miracle-solution/ar-BB1oDl5z)
-- [Greece introduces the six day work week](https://www.dw.com/en/greece-introduces-the-six-day-work-week/a-69439050)
 - [An Anatomy of Algorithm Aversion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865492)
 - [AWS Lambda Web Adapter](https://github.com/awslabs/aws-lambda-web-adapter)
 <!-- BLOG-POST-LIST:END -->
