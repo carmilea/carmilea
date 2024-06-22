@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PermitFlow &lpar;YC W22&rpar; Is Hiring Software Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- [A probabilistic solution to the three-body problem](http://phys.technion.ac.il/en/about/research-bits/on-chaos-drunks-and-a-solution-to-the-chaotic-three-body-problem-the-research-of-yonadav-barry-ginat-and-hagai-perets)
 - [Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
-- [Aphantasia: I can not picture things in my mind](https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like)
-- [Why Steve Jobs Went &#39;Thermonuclear&#39; over Android &lpar;2014&rpar;](https://www.pcmag.com/opinions/why-steve-jobs-went-thermonuclear-over-android)
-- [Why Swift&#39;s type checker is so slow](https://danielchasehooper.com/posts/why-swift-is-slow/?continueFlag=7ec373c00bdf01cb02736c00eeaadcc8)
-- [Photoroom &lpar;YC S20&rpar; Is Hiring a Django Back End Lead in Paris &lpar;PostgreSQL, REST&rpar;](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
+- [The First Spatial Computing Hack](https://www.ryanpickren.com/vision-pro-hack)
+- [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
