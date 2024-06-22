@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Redbox missed a multimillion-dollar payment it couldn&#39;t afford to miss](https://www.theverge.com/2024/6/21/24183454/redbox-universal-missed-payment-17-million)
+- [My Windows Computer Just Doesn&#39;t Feel Like Mine Anymore](https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/)
 - [MACH.2 Multi-Actuator Hard Drives](https://www.seagate.com/innovation/multi-actuator-hard-drives/)
 - [Daylight Computer tablet review](https://twitter.com/patio11/status/1804217931557171612)
 - [Internet Archive forced to remove 500k books after publishers&#39; court win](https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/)
