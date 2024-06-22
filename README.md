@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Tip: An em isn&#39;t an &quot;m&quot;, but an ex is an &quot;x&quot;](https://blog.frankmtaylor.com/2012/01/25/css-font-size-an-em-isnt-an-m-but-an-ex-is-an-x/)
-- [After my dad died, I ran and sold his company &lpar;2018&rpar;](https://anandsanwal.me/2018/06/19/dad-company-sale/)
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring Software Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
-- [The First Spatial Computing Hack](https://www.ryanpickren.com/vision-pro-hack)
+- [$200-ish laptop with a 386 and 8MB of RAM is a modern take on Windows 3.1 era](https://arstechnica.com/gadgets/2024/06/the-ultimate-windows-3-1-laptop-sellers-behind-book-8088-are-back-with-pocket-386/)
+- [&#39;Meridian&#39;: Why Netflix Is Helping Competitors with Content and Code](https://variety.com/2016/digital/news/netflix-meridian-imf-tools-open-source-1201859416/)
+- [HybridNeRF: Efficient Neural Rendering](https://haithemturki.com/hybrid-nerf/)
+- [Harvard Study: Planetary Health Index Diet – lower mortality and 30% lower CO2](https://www.sciencedirect.com/science/article/abs/pii/S0002916524003897)
+- [CSS Tip: An em isn&#39;t an &quot;m&quot;, but an ex is an &quot;x&quot; &lpar;2012&rpar;](https://blog.frankmtaylor.com/2012/01/25/css-font-size-an-em-isnt-an-m-but-an-ex-is-an-x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
