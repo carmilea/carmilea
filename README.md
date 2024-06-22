@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Second Canadian scientist alleges brain illness investigation was shut down](https://www.theguardian.com/world/article/2024/jun/21/second-canadian-scientist-alleges-brain-illness-investigation-was-shut-down)
+- [An Anatomy of Algorithm Aversion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865492)
+- [AWS Lambda Web Adapter](https://github.com/awslabs/aws-lambda-web-adapter)
 - [Testing AMD&#39;s Bergamo: Zen 4c](https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/)
 - [Trellis &lpar;YC W24&rpar; is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
-- [Creative workers deserve better than a choice as to who rips them off](https://pluralistic.net/2024/06/21/off-the-menu/)
-- [Impossibly thin fabric could cool you down by 16-plus degrees](https://www.fastcompany.com/91142992/this-impossibly-thin-fabric-could-cool-you-down-by-16-degrees)
-- [&#39;Meridian&#39;: Why Netflix Is Helping Competitors with Content and Code &lpar;2016&rpar;](https://variety.com/2016/digital/news/netflix-meridian-imf-tools-open-source-1201859416/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
