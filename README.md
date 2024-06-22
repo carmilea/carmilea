@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Simple script to cripple personalized targeting from Facebook](https://gist.github.com/HyperCrowd/edc9b461ec23cf2454ea4d1e910fd1c6)
+- [Waymo the Leapfrog](https://loeber.substack.com/p/20-waymo-the-leapfrog)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
+- [Google is force canceling gsuite because I used unlimited storage as unlimited](https://twitter.com/warnvod/status/1804429256744706202)
 - [Solar generates fifth of global electricity on summer solstice midday peak](https://ember-climate.org/insights/in-brief/the-global-solar-revolution/)
-- [HH70, the first high-temperature superconducting Tokamak achieves first plasma](https://www.energysingularity.cn/en/hh70-the-worlds-first-high-temperature-superconducting-tokamak-achieves-first-plasma/)
-- [An Anatomy of Algorithm Aversion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865492)
-- [AWS Lambda Web Adapter](https://github.com/awslabs/aws-lambda-web-adapter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
