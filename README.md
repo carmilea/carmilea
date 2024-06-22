@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Love You! Yes, You!](https://schizophrenic.io/blog/i-love-you)
+- [Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
+- [Aphantasia: I can not picture things in my mind](https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like)
+- [Why Steve Jobs Went &#39;Thermonuclear&#39; over Android &lpar;2014&rpar;](https://www.pcmag.com/opinions/why-steve-jobs-went-thermonuclear-over-android)
 - [Why Swift&#39;s type checker is so slow](https://danielchasehooper.com/posts/why-swift-is-slow/?continueFlag=7ec373c00bdf01cb02736c00eeaadcc8)
 - [Photoroom &lpar;YC S20&rpar; Is Hiring a Django Back End Lead in Paris &lpar;PostgreSQL, REST&rpar;](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
-- [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
-- [Farm: Fast vite compatible build tool written in Rust](https://www.farmfe.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
