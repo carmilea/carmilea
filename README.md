@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Photoroom &lpar;YC S20&rpar; Is Hiring a Django Back End Lead in Paris &lpar;PostgreSQL, REST&rpar;](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
-- [Americans Have Lost the Plot on Cooking Oil](https://www.theatlantic.com/health/archive/2024/06/olive-oil-canola-cooking/678761/)
 - [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
 - [Farm: Fast vite compatible build tool written in Rust](https://www.farmfe.org/)
 - [A Forth Story &lpar;1995&rpar;](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
+- [OWASP Juice Shop: Hacking a Modern Web Application](https://blog.javascripttoday.com/blog/hacking-a-web-application/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
