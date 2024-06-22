@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$200-ish laptop with a 386 and 8MB of RAM is a modern take on Windows 3.1 era](https://arstechnica.com/gadgets/2024/06/the-ultimate-windows-3-1-laptop-sellers-behind-book-8088-are-back-with-pocket-386/)
-- [&#39;Meridian&#39;: Why Netflix Is Helping Competitors with Content and Code](https://variety.com/2016/digital/news/netflix-meridian-imf-tools-open-source-1201859416/)
+- [Bedroom light at night increases inflammation and disrupts circadian rhythm](https://www.sciencedirect.com/science/article/pii/S0147651324006663)
+- [Training AI](https://lmnt.me/blog/training-ai.html)
+- [Sheryl Crow: &#39;Resurrecting Tupac with AI Is Hateful&#39;](https://www.bbc.com/news/articles/cn00e695lpvo)
+- [&#39;Meridian&#39;: Why Netflix Is Helping Competitors with Content and Code &lpar;2016&rpar;](https://variety.com/2016/digital/news/netflix-meridian-imf-tools-open-source-1201859416/)
 - [HybridNeRF: Efficient Neural Rendering](https://haithemturki.com/hybrid-nerf/)
-- [Harvard Study: Planetary Health Index Diet – lower mortality and 30% lower CO2](https://www.sciencedirect.com/science/article/abs/pii/S0002916524003897)
-- [CSS Tip: An em isn&#39;t an &quot;m&quot;, but an ex is an &quot;x&quot; &lpar;2012&rpar;](https://blog.frankmtaylor.com/2012/01/25/css-font-size-an-em-isnt-an-m-but-an-ex-is-an-x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
