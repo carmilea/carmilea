@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Love You! Yes, You!](https://schizophrenic.io/blog/i-love-you)
+- [Why Swift&#39;s type checker is so slow](https://danielchasehooper.com/posts/why-swift-is-slow/?continueFlag=7ec373c00bdf01cb02736c00eeaadcc8)
 - [Photoroom &lpar;YC S20&rpar; Is Hiring a Django Back End Lead in Paris &lpar;PostgreSQL, REST&rpar;](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
 - [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
 - [Farm: Fast vite compatible build tool written in Rust](https://www.farmfe.org/)
-- [A Forth Story &lpar;1995&rpar;](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
-- [OWASP Juice Shop: Hacking a Modern Web Application](https://blog.javascripttoday.com/blog/hacking-a-web-application/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
