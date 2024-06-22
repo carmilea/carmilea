@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
+- [Farm: Fast vite compatible build tool written in Rust](https://www.farmfe.org/)
+- [NASA indefinitely delays return of Starliner to review propulsion data](https://arstechnica.com/space/2024/06/nasa-indefinitely-delays-return-of-starliner-to-review-propulsion-data/)
 - [A Forth Story &lpar;1995&rpar;](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
 - [Researchers describe how to tell if ChatGPT is confabulating](https://arstechnica.com/ai/2024/06/researchers-describe-how-to-tell-if-chatgpt-is-confabulating/)
-- [OWASP Juice Shop: Hacking a Modern Web Application](https://blog.javascripttoday.com/blog/hacking-a-web-application/)
-- [My Windows Computer Just Doesn&#39;t Feel Like Mine Anymore](https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/)
-- [MACH.2 Multi-Actuator Hard Drives](https://www.seagate.com/innovation/multi-actuator-hard-drives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
