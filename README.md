@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- [The Crazy Economics of the Most Coveted Handbag](https://www.wsj.com/style/fashion/hermes-birkin-bag-investment-031c215c)
 - [LINQPad – The .NET Programmer&#39;s Playground](https://www.linqpad.net/)
 - [Traffic noise hurts children&#39;s brains](https://www.bbc.com/future/article/20240621-how-traffic-noise-pollution-harms-childrens-health-and-development)
 - [Deriving Dependently-Typed OOP from First Principles](https://arxiv.org/abs/2403.06707)
+- [Y combinator codex](https://phoe.github.io/codex.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
