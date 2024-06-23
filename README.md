@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Traffic noise hurts children&#39;s brains](https://www.bbc.com/future/article/20240621-how-traffic-noise-pollution-harms-childrens-health-and-development)
 - [Some fundraisers pay &gt;90% of the funds to themselves](https://www.propublica.org/article/political-nonprofits-fundraising-ftc-irs-527s-pacs)
-- [Ask HN: What&#39;s the oldest file on your computer?](https://news.ycombinator.com/item?id=40769541)
 - [Review of Linux on Minisforum V3 AMD Ryzen Tablet](https://mudkip.me/2024/04/14/A-Brief-Review-of-the-Minisforum-V3-AMD-Tablet/)
 - [Singapore doubles down on lab-grown meat as Silicon Valley backs off](https://restofworld.org/2024/lab-grown-meat-singapore/)
 - [Start all of your commands with a comma &lpar;2009&rpar;](https://rhodesmill.org/brandon/2009/commands-with-comma/)
