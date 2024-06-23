@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma/)
+- [Wikipedia: 97% of all articles lead to Philosophy](https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy)
+- [I&#39;m Switching from Laravel to Rails](https://old.reddit.com/r/rails/comments/1dkcegr/im_switching_from_laravel_to_rails/)
+- [The tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [US Forest Service proposes protections for old-growth trees, without logging ban](https://www.opb.org/article/2024/06/22/us-forest-service-old-growth-tree-protections-proposal/)
-- [G&#39;mic 3.4.0: Image Processing in Its Prime](https://gmic.eu/gmic340/)
-- [Arbitrary shell command evaluation in Org Mode &lpar;GNU Emacs&rpar;](https://seclists.org/oss-sec/2024/q2/296)
-- [Batteries as a Military Enabler](https://warontherocks.com/2024/06/batteries-as-a-military-enabler/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
