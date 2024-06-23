@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Traffic noise hurts children&#39;s brains](https://www.bbc.com/future/article/20240621-how-traffic-noise-pollution-harms-childrens-health-and-development)
-- [Some fundraisers pay &gt;90% of the funds to themselves](https://www.propublica.org/article/political-nonprofits-fundraising-ftc-irs-527s-pacs)
-- [Review of Linux on Minisforum V3 AMD Ryzen Tablet](https://mudkip.me/2024/04/14/A-Brief-Review-of-the-Minisforum-V3-AMD-Tablet/)
-- [Singapore doubles down on lab-grown meat as Silicon Valley backs off](https://restofworld.org/2024/lab-grown-meat-singapore/)
-- [Start all of your commands with a comma &lpar;2009&rpar;](https://rhodesmill.org/brandon/2009/commands-with-comma/)
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [LINQPad – The .NET Programmer&#39;s Playground](https://www.linqpad.net/)
+- [Looking ahead to 30 years of FreeDOS](https://www.both.org/?p=3991)
+- [Renga 1.26 – An XMPP client for HaikuOS](https://pulkomandy.tk/projects/renga)
+- [Top Libraries to Accelerate LLM Building](https://www.blog.aiport.tech/p/top-9-libraries-to-accelerate-llm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
