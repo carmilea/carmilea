@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build an AI data workspace](https://deepnote.com/join-us)
+- [A Study Says Warp Drives Might Be Real–and We&#39;ll Find Them with Lasers](https://www.popularmechanics.com/space/deep-space/a61193854/warp-drive-gravitational-waves/)
 - [Fresh water on Earth emerged 500M years earlier than previously thought](https://www.curtin.edu.au/news/media-release/fresh-findings-earliest-evidence-of-life-bringing-fresh-water-on-earth/)
+- [Germany&#39;s autobahn bridges falling apart](https://www.dw.com/en/germanys-autobahn-bridges-falling-apart/a-69439952)
 - [The First Animal Ever Found That Doesn&#39;t Need Oxygen to Survive](https://www.sciencealert.com/this-is-the-first-animal-ever-found-that-doesnt-need-oxygen-to-survive)
-- [Never* Use Datagrams](https://quic.video/blog/never-use-datagrams/)
-- [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
-- [Why your brain is 3 milion more times efficient than GPT-4](https://grski.pl/vdb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
