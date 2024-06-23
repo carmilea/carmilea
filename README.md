@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Citizens to End SuperPACs](https://www.citizenstoendsuperpacs.org)
+- [Batteries as a Military Enabler](https://warontherocks.com/2024/06/batteries-as-a-military-enabler/)
 - [Traffic engineers build roads inviting crashes on outdated research, faulty data](https://theconversation.com/traffic-engineers-build-roads-that-invite-crashes-because-they-rely-on-outdated-research-and-faulty-data-223710)
+- [Picolisp a Railroad Simulation](https://picolisp-explored.com/a-railroad-simulation-with-des)
 - [Show HN: I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
-- [Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
-- [I found an 8 years old bug in Xorg](https://trace.yshui.dev/2024-06-xorg-bug.html)
-- [The Blank Sheet Method: From Passive Reading to Active Learning](https://fs.blog/blank-sheet-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
