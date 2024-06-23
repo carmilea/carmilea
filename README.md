@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Costco Broke into a Surprising New Market: Modular Housing](https://www.strongtowns.org/journal/2024/6/21/how-costco-broke-into-a-surprising-new-market-modular-housing)
-- [Daily Automated Testing for Milk-V Duo S RISC-V SBC &lpar;IKEA Tretakt, Apache NuttX&rpar;](https://lupyuen.codeberg.page/articles/sg2000a.html)
-- [Show HN: Simple script to cripple personalized targeting from Facebook](https://gist.github.com/HyperCrowd/edc9b461ec23cf2454ea4d1e910fd1c6)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
-- [Solar generates fifth of global electricity on summer solstice midday peak](https://ember-climate.org/insights/in-brief/the-global-solar-revolution/)
+- [Ruby: A great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
+- [ChatGPT is biased against resumes with credentials that imply a disability](https://www.washington.edu/news/2024/06/21/chatgpt-ai-bias-ableism-disability-resume-cv/)
+- [A website where you write a message to the next visitor](https://www.dearnextvisitor.com/)
+- [Delving into ChatGPT usage in academic writing through excess vocabulary](https://arxiv.org/abs/2406.07016)
+- [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
