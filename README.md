@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
+- [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
 - [Deepnote &lpar;YC S19&rpar; is hiring engineers to build an AI data workspace](https://deepnote.com/join-us)
 - [The World Will Soon Witness &quot;One of the Rarest Space Events of Our Lives&quot;](https://www.iflscience.com/the-world-will-soon-witness-one-of-the-rarest-space-events-of-our-lives-74746)
-- [A Study Says Warp Drives Might Be Real–and We&#39;ll Find Them with Lasers](https://www.popularmechanics.com/space/deep-space/a61193854/warp-drive-gravitational-waves/)
 - [Fresh water on Earth emerged 500M years earlier than previously thought](https://www.curtin.edu.au/news/media-release/fresh-findings-earliest-evidence-of-life-bringing-fresh-water-on-earth/)
-- [The First Animal Ever Found That Doesn&#39;t Need Oxygen to Survive](https://www.sciencealert.com/this-is-the-first-animal-ever-found-that-doesnt-need-oxygen-to-survive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
