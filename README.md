@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Native American Indian Star Charts](https://www.californiaindianeducation.org/science_lab/indian_stars.html)
+- [visionOS thermally throttles based on how much it hears the fans in the mics](https://twitter.com/ShinyQuagsire/status/1804688365905756564)
 - [TinyLetter Shut Down by Mailchimp, So I Built the LetterDrop](https://github.com/i365dev/LetterDrop)
-- [Words you can spell with a calculator](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
-- [The manager&#39;s unbearable lack of endorphins](https://jamie.ideasasylum.com/2024/06/21/the-manager-s-unbearable-lack-of-endorphins)
 - [Ruby: A great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
+- [OpenEMR: Open-source medical record software](https://www.open-emr.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
