@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Native American Indian Star Charts](https://www.californiaindianeducation.org/science_lab/indian_stars.html)
-- [visionOS thermally throttles based on how much it hears the fans in the mics](https://twitter.com/ShinyQuagsire/status/1804688365905756564)
-- [TinyLetter Shut Down by Mailchimp, So I Built the LetterDrop](https://github.com/i365dev/LetterDrop)
-- [Words you can spell with a calculator](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
-- [Ruby: A great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
+- [Mozilla&#39;s Original Sin](https://mastodon.social/@jwz/112662062948208951)
+- [Shahed-136 kamikaze drone servomotor [video]](https://www.youtube.com/watch?v=_jKbRdsi8fA)
+- [I&#39;ve Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
+- [Richard Stallman, su, and the &#39;wheel&#39; group &lpar;2004&rpar;](https://www.meisterplanet.com/journal/2004/05/09/richard-stallman-su-and-the-wheel-group/)
+- [Explained: The secret City of London which is not part of London](https://www.thevintagenews.com/2016/08/02/explained-the-secret-city-of-london-which-is-not-part-of-london/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
