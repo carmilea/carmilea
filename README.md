@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Never* Use Datagrams](https://quic.video/blog/never-use-datagrams/)
 - [Why your brain is 3 milion more times efficient than GPT-4](https://grski.pl/vdb)
 - [Domino&#39;s retreats from Italy having failed to conquer the home of pizza &lpar;2022&rpar;](https://www.theguardian.com/world/2022/aug/10/dominos-retreats-from-italy-having-failed-to-conquer-the-home-of-the-pizza)
 - [I&#39;ve Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
-- [Richard Stallman, su, and the &#39;wheel&#39; group &lpar;2004&rpar;](https://www.meisterplanet.com/journal/2004/05/09/richard-stallman-su-and-the-wheel-group/)
 - [Explained: The secret City of London which is not part of London](https://www.thevintagenews.com/2016/08/02/explained-the-secret-city-of-london-which-is-not-part-of-london/)
 <!-- BLOG-POST-LIST:END -->
 
