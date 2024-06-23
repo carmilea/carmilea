@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fresh water on Earth emerged 500M years earlier than previously thought](https://www.curtin.edu.au/news/media-release/fresh-findings-earliest-evidence-of-life-bringing-fresh-water-on-earth/)
+- [The First Animal Ever Found That Doesn&#39;t Need Oxygen to Survive](https://www.sciencealert.com/this-is-the-first-animal-ever-found-that-doesnt-need-oxygen-to-survive)
 - [Never* Use Datagrams](https://quic.video/blog/never-use-datagrams/)
+- [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
 - [Why your brain is 3 milion more times efficient than GPT-4](https://grski.pl/vdb)
-- [Domino&#39;s retreats from Italy having failed to conquer the home of pizza &lpar;2022&rpar;](https://www.theguardian.com/world/2022/aug/10/dominos-retreats-from-italy-having-failed-to-conquer-the-home-of-the-pizza)
-- [I&#39;ve Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
-- [Explained: The secret City of London which is not part of London](https://www.thevintagenews.com/2016/08/02/explained-the-secret-city-of-london-which-is-not-part-of-london/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
