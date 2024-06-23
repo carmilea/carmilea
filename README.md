@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [The Crazy Economics of the Most Coveted Handbag](https://www.wsj.com/style/fashion/hermes-birkin-bag-investment-031c215c)
 - [LINQPad – The .NET Programmer&#39;s Playground](https://www.linqpad.net/)
-- [Looking ahead to 30 years of FreeDOS](https://www.both.org/?p=3991)
-- [Renga 1.26 – An XMPP client for HaikuOS](https://pulkomandy.tk/projects/renga)
-- [Top Libraries to Accelerate LLM Building](https://www.blog.aiport.tech/p/top-9-libraries-to-accelerate-llm)
+- [Traffic noise hurts children&#39;s brains](https://www.bbc.com/future/article/20240621-how-traffic-noise-pollution-harms-childrens-health-and-development)
+- [Deriving Dependently-Typed OOP from First Principles](https://arxiv.org/abs/2403.06707)
 <!-- BLOG-POST-LIST:END -->
 
 ---
