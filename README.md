@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Citizens to End SuperPACs](https://www.citizenstoendsuperpacs.org)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [US Forest Service proposes protections for old-growth trees, without logging ban](https://www.opb.org/article/2024/06/22/us-forest-service-old-growth-tree-protections-proposal/)
+- [G&#39;mic 3.4.0: Image Processing in Its Prime](https://gmic.eu/gmic340/)
+- [Arbitrary shell command evaluation in Org Mode &lpar;GNU Emacs&rpar;](https://seclists.org/oss-sec/2024/q2/296)
 - [Batteries as a Military Enabler](https://warontherocks.com/2024/06/batteries-as-a-military-enabler/)
-- [Traffic engineers build roads inviting crashes on outdated research, faulty data](https://theconversation.com/traffic-engineers-build-roads-that-invite-crashes-because-they-rely-on-outdated-research-and-faulty-data-223710)
-- [Picolisp a Railroad Simulation](https://picolisp-explored.com/a-railroad-simulation-with-des)
-- [Show HN: I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
