@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Traffic engineers build roads inviting crashes on outdated research, faulty data](https://theconversation.com/traffic-engineers-build-roads-that-invite-crashes-because-they-rely-on-outdated-research-and-faulty-data-223710)
+- [Show HN: I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
 - [Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
-- [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
-- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build an AI data workspace](https://deepnote.com/join-us)
-- [The World Will Soon Witness &quot;One of the Rarest Space Events of Our Lives&quot;](https://www.iflscience.com/the-world-will-soon-witness-one-of-the-rarest-space-events-of-our-lives-74746)
-- [Fresh water on Earth emerged 500M years earlier than previously thought](https://www.curtin.edu.au/news/media-release/fresh-findings-earliest-evidence-of-life-bringing-fresh-water-on-earth/)
+- [I found an 8 years old bug in Xorg](https://trace.yshui.dev/2024-06-xorg-bug.html)
+- [The Blank Sheet Method: From Passive Reading to Active Learning](https://fs.blog/blank-sheet-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
