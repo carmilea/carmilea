@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Acquires Multi](https://multi.app/blog/multi-is-joining-openai)
 - [Car dealerships revert to pens and paper after cyberattacks on software provider](https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba)
-- [No computers. Keep books. Seattle library network outage nears a month](https://www.seattletimes.com/seattle-news/no-computers-keep-books-seattle-library-network-outage-nears-a-month/)
-- [Politics is still both local and personal – but only for independents](https://theconversation.com/politics-is-still-both-local-and-personal-but-only-for-independents-not-for-democrats-or-republicans-226207)
 - [Welcome, Rockset Developers](https://www.singlestore.com/blog/welcome-rockset-developers)
-- [Apple is first company charged with violating EU&#39;s DMA rules](https://www.theverge.com/2024/6/24/24184629/apple-dma-steering-infringement-ruling)
+- [UpCodes &lpar;YC S17&rpar; is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
+- [Homegrown Rendering with Rust &lpar;2021&rpar;](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
