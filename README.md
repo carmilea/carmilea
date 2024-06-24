@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Round Rects Are Everywhere](https://www.folklore.org/Round_Rects_Are_Everywhere.html)
+- [Fearing Losses, Banks Are Quietly Dumping Real Estate Loans](https://www.nytimes.com/2024/06/24/business/commercial-real-estate-loans.html)
 - [Windows 11 is now enabling OneDrive folder backup without asking permission](https://www.neowin.net/news/windows-11-is-now-automatically-enabling-onedrive-folder-backup-without-asking-permission/)
-- [Ask HN: Those of you who&#39;ve left the SWE world, what did you transition into?](https://news.ycombinator.com/item?id=40780940)
 - [Finley &lpar;YC W21&rpar; is hiring our first Sales Ops team member &lpar;SF, NY, Remote&rpar;](https://jobs.lever.co/FinleyTechnologies/ef9b46ab-6c97-4401-b7d1-8535c262f246)
 - [MIME, RSS, and Existential Torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
-- [Lawyers&#39; Committee Opposes New Draft of American Privacy Rights Act](https://www.lawyerscommittee.org/lawyers-committee-opposes-new-draft-of-american-privacy-rights-act-urges-representatives-to-vote-no/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
