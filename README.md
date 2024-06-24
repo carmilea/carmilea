@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Commission opens additional DMA investigation against Apple](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3433)
 - [US prosecutors recommend Justice Department criminally charge Boeing](https://www.voanews.com/a/us-prosecutors-recommend-justice-department-criminally-charge-boeing-as-deadline-looms/7667194.html)
 - [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
 - [Synthesizer for Thought](https://thesephist.com/posts/synth/)
 - [Neko: Portable framework for high-order spectral element flow simulations](https://github.com/ExtremeFLOW/neko)
-- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
