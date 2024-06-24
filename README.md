@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuclear engineer dismisses claim that modular reactors could be viable soon](https://www.theguardian.com/australia-news/article/2024/jun/21/peter-dutton-coalition-nuclear-policy-engineer-small-modular-reactors-no-commercially-viable)
-- [Robots on Lake Michigan beaches to prevent drownings](https://www.mlive.com/news/kalamazoo/2024/06/lifesaving-robots-arrive-on-lake-michigan-beaches-to-prevent-drownings.html)
-- [A journey into Kindle AI slop hell](https://maxread.substack.com/p/my-kindle-thinks-im-stupid-now)
-- [Infisical &lpar;YC W23&rpar; is hiring to build an open source security stack for devs](https://www.ycombinator.com/companies/infisical/jobs/0tvPmoc-full-stack-engineer)
-- [Welcome, Rockset Developers](https://www.singlestore.com/blog/welcome-rockset-developers)
+- [Finley &lpar;YC W21&rpar; is hiring our first Sales Ops team member &lpar;SF, NY, Remote&rpar;](https://jobs.lever.co/FinleyTechnologies/ef9b46ab-6c97-4401-b7d1-8535c262f246)
+- [Carmakers File Challenge to Parts of New Automatic-Braking Rule](https://www.wsj.com/business/autos/carmakers-file-challenge-to-parts-of-new-automatic-braking-rule-ebb653e9)
+- [Lawyers&#39; Committee Opposes New Draft of American Privacy Rights Act](https://www.lawyerscommittee.org/lawyers-committee-opposes-new-draft-of-american-privacy-rights-act-urges-representatives-to-vote-no/)
+- [The case for not sanitising fairy tales](https://www.plough.com/en/topics/culture/literature/the-case-for-not-sanitizing-fairy-tales)
+- [Komorebi: Tiling Window Management for Windows](https://github.com/LGUG2Z/komorebi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
