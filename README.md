@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Unlocking the Power of Big Data: Premal Shah, the Co-Founder of 6sense](https://www.youtube.com/watch?v=9rqDK7ycldk)
 - [The Future of AI!](https://www.youtube.com/watch?v=St0JTFbB0qM)
 - [Step-by-Step Guide to Real-Time PLG with Segment and SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=4h1BQ5Z8tIA)
 - [Talk to Your Web Analytics with AI for 1-1 Personalization | SingleStore Webinars](https://www.youtube.com/watch?v=b-b3YOEakZE)
 - [80X Faster free MySQL on cloud](https://www.youtube.com/watch?v=7fyqyOAv624)
-- [Building Secure AI Healthcare Apps with AWS Private Cloud | SingleStore Webinars](https://www.youtube.com/watch?v=V8uMVVXXWco)
 <!-- YOUTUBE:END -->
 
 
