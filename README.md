@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EPA releases report on Apple&#39;s hazardous waste violations in urban silicon fab](https://mastodon.social/@ashleygjovik/112668309100333232/?)
+- [Apple found in breach of EU competition rules](https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act)
+- [Gren 0.4: New Foundations](https://gren-lang.org/news/240624_gren_04/)
 - [Commission opens additional DMA investigation against Apple](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3433)
-- [US prosecutors recommend Justice Department criminally charge Boeing](https://www.voanews.com/a/us-prosecutors-recommend-justice-department-criminally-charge-boeing-as-deadline-looms/7667194.html)
-- [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
-- [Synthesizer for Thought](https://thesephist.com/posts/synth/)
-- [Neko: Portable framework for high-order spectral element flow simulations](https://github.com/ExtremeFLOW/neko)
+- [CentOS Linux 7 will reach EOL on Sunday](https://www.redhat.com/en/topics/linux/centos-linux-eol)
 <!-- BLOG-POST-LIST:END -->
 
 ---
