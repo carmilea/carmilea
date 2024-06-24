@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Push Notification Fatigue Leads to LA County Health Department Data Breach](https://www.securityweek.com/push-notification-fatigue-leads-to-la-county-health-department-data-breach/)
-- [Microsoft Account to local account conversion guide erased from Windows 11 guide](https://www.tomshardware.com/software/windows/microsoft-account-to-local-account-conversion-guide-erased-from-official-windows-11-guide-instructions-redacted-earlier-this-week)
-- [LockBit claims to exfiltrate 33TB of data from US Federal Reserve](https://securityaffairs.com/164873/cyber-crime/lockbit-claims-hacked-us-federal-reserve.html)
-- [UpCodes &lpar;YC S17&rpar; is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
-- [Homegrown Rendering with Rust](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)
+- [Car dealerships revert to pens and paper after cyberattacks on software provider](https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba)
+- [No computers. Keep books. Seattle library network outage nears a month](https://www.seattletimes.com/seattle-news/no-computers-keep-books-seattle-library-network-outage-nears-a-month/)
+- [Politics is still both local and personal – but only for independents](https://theconversation.com/politics-is-still-both-local-and-personal-but-only-for-independents-not-for-democrats-or-republicans-226207)
+- [Welcome, Rockset Developers](https://www.singlestore.com/blog/welcome-rockset-developers)
+- [Apple is first company charged with violating EU&#39;s DMA rules](https://www.theverge.com/2024/6/24/24184629/apple-dma-steering-infringement-ruling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
