@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Acquires Multi](https://multi.app/blog/multi-is-joining-openai)
+- [Infisical &lpar;YC W23&rpar; is hiring to build the open source security stack for devs](https://www.ycombinator.com/companies/infisical/jobs/0tvPmoc-full-stack-engineer)
 - [Car dealerships revert to pens and paper after cyberattacks on software provider](https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba)
 - [Welcome, Rockset Developers](https://www.singlestore.com/blog/welcome-rockset-developers)
-- [UpCodes &lpar;YC S17&rpar; is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
 - [Homegrown Rendering with Rust &lpar;2021&rpar;](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)
+- [Microfeatures I love in blogs and personal websites](https://danilafe.com/blog/blog_microfeatures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
