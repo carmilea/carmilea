@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Neko: Portable framework for high-order spectral element flow simulations](https://github.com/ExtremeFLOW/neko)
+- [How to do the jhanas](https://nadia.xyz/jhanas)
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 - [Writing an IR from Scratch and survive to write a post](https://farena.in/compilers/programming/writing-an-ir-from-scratch/)
-- [LINQPad – The .NET Programmer&#39;s Playground](https://www.linqpad.net/)
-- [Deriving Dependently-Typed OOP from First Principles](https://arxiv.org/abs/2403.06707)
+- [The economics of the Birkin handbag](https://www.wsj.com/style/fashion/hermes-birkin-bag-investment-031c215c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
