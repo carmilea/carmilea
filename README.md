@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Maps and Street View running on a Commodore 64](https://readwrite.com/move-over-android-and-ios-these-guys-got-google-maps-running-on-a-commodore-64/)
-- [Human neuroscience is entering a new era – it mustn&#39;t forget its human dimension](https://www.nature.com/articles/d41586-024-02022-3)
-- [Infisical &lpar;YC W23&rpar; is hiring to build the open source security stack for devs](https://www.ycombinator.com/companies/infisical/jobs/0tvPmoc-full-stack-engineer)
-- [Car dealerships revert to pens and paper after cyberattacks on software provider](https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba)
+- [Nuclear engineer dismisses claim that modular reactors could be viable soon](https://www.theguardian.com/australia-news/article/2024/jun/21/peter-dutton-coalition-nuclear-policy-engineer-small-modular-reactors-no-commercially-viable)
+- [Robots on Lake Michigan beaches to prevent drownings](https://www.mlive.com/news/kalamazoo/2024/06/lifesaving-robots-arrive-on-lake-michigan-beaches-to-prevent-drownings.html)
+- [A journey into Kindle AI slop hell](https://maxread.substack.com/p/my-kindle-thinks-im-stupid-now)
+- [Infisical &lpar;YC W23&rpar; is hiring to build an open source security stack for devs](https://www.ycombinator.com/companies/infisical/jobs/0tvPmoc-full-stack-engineer)
 - [Welcome, Rockset Developers](https://www.singlestore.com/blog/welcome-rockset-developers)
 <!-- BLOG-POST-LIST:END -->
 
