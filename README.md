@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Human neuroscience is entering a new era – it mustn&#39;t forget its human dimension](https://www.nature.com/articles/d41586-024-02022-3)
 - [Infisical &lpar;YC W23&rpar; is hiring to build the open source security stack for devs](https://www.ycombinator.com/companies/infisical/jobs/0tvPmoc-full-stack-engineer)
 - [Car dealerships revert to pens and paper after cyberattacks on software provider](https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba)
 - [Welcome, Rockset Developers](https://www.singlestore.com/blog/welcome-rockset-developers)
-- [Homegrown Rendering with Rust &lpar;2021&rpar;](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)
-- [Microfeatures I love in blogs and personal websites](https://danilafe.com/blog/blog_microfeatures/)
+- [Colorado has a first-in-the-nation law for AI – but what will it do?](https://www.cpr.org/2024/06/17/colorado-artificial-intelligence-law-implementation-ramifications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
