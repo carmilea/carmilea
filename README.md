@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Push Notification Fatigue Leads to LA County Health Department Data Breach](https://www.securityweek.com/push-notification-fatigue-leads-to-la-county-health-department-data-breach/)
 - [Microsoft Account to local account conversion guide erased from Windows 11 guide](https://www.tomshardware.com/software/windows/microsoft-account-to-local-account-conversion-guide-erased-from-official-windows-11-guide-instructions-redacted-earlier-this-week)
+- [LockBit claims to exfiltrate 33TB of data from US Federal Reserve](https://securityaffairs.com/164873/cyber-crime/lockbit-claims-hacked-us-federal-reserve.html)
 - [UpCodes &lpar;YC S17&rpar; is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
 - [Homegrown Rendering with Rust](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)
-- [Fire at South Korea lithium battery plant kills at least 16 people](https://www.nbcnews.com/news/world/fire-south-korea-lithium-battery-plant-kills-least-16-people-rcna158536)
-- [Microfeatures I love in blogs and personal websites](https://danilafe.com/blog/blog_microfeatures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
