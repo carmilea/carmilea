@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US prosecutors recommend Justice Department criminally charge Boeing](https://www.voanews.com/a/us-prosecutors-recommend-justice-department-criminally-charge-boeing-as-deadline-looms/7667194.html)
 - [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
-- [Apple&#39;s Silicon Fab Next to Homes](https://www.ashleygjovik.com/3250scott.html)
-- [Multiple AI Companies Ignore Robots.Txt Files](https://news.slashdot.org/story/24/06/23/050252/multiple-ai-companies-ignore-robotstxt-files-scrape-web-content-says-licensing-firm)
+- [Synthesizer for Thought](https://thesephist.com/posts/synth/)
 - [Neko: Portable framework for high-order spectral element flow simulations](https://github.com/ExtremeFLOW/neko)
 - [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 <!-- BLOG-POST-LIST:END -->
