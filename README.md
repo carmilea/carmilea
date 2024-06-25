@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo One is now open to everyone in San Francisco](https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/)
+- [And Now Xylitol](https://www.science.org/content/blog-post/and-now-xylitol)
+- [Chang&#39;e 6 lunar sample return mission returns with samples from moon&#39;s far side](https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon)
+- [Testing AMD&#39;s Giant MI300X](https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/)
+- [Show HN: I built a large JavaScript powered flipdisc display. Here&#39;s a guide](https://flipdisc.io/http://localhost:4321/)
 - [From Dotenv to Dotenvx: Next Generation Config Management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
-- [Vintage Wooden Homes on Wheels: Photos of Mobile Living from Early 20th Century](https://rarehistoricalphotos.com/vintage-wooden-homes-on-wheels/)
-- [Slack updates retention policy for free workspaces](https://slack.com/intl/en-gb/help/articles/29414264463635-Updates-to-message-and-file-history-on-free-workspaces?nojsmode=1)
-- [Why we must seek a widely-applicable Science of Systems.](https://www.hiranmay.xyz/blog/complex-systems)
 <!-- BLOG-POST-LIST:END -->
 
 ---
