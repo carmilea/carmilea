@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Tanenbaum honoured for MINIX, the OS hiding in lots of computers](https://www.theregister.com/2024/06/25/tanenbaum_minix_award/)
-- [Malicious Code Injection Found in CDN Polyfill Link Targeting Mobile Users](https://github.com/polyfillpolyfill/polyfill-service/issues/2873)
-- [Paramount Erases Mtv.com Archives, Wipes Music, Culture History After 30+ Years](https://www.showbiz411.com/2024/06/25/paramount-shuts-down-mtv-website-wipes-history-after-20-plus-years)
+- [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
+- [Waymo&#39;s autonomous ride-hailing service now available to all in San Francisco](https://www.reuters.com/business/autos-transportation/waymos-autonomous-ride-hailing-service-now-available-all-san-francisco-2024-06-25/)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40790859)
-- [Sohu – first specialized chip &lpar;ASIC&rpar; for transformer models](https://twitter.com/Etched/status/1805625693113663834)
+- [Chang&#39;e 6 lunar sample return mission returns with samples from moon&#39;s far side](https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon)
+- [Testing AMD&#39;s Giant MI300X](https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
