@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What everyone gets wrong about the 2015 Ashley Madison scandal](https://www.newscientist.com/article/mg26234952-100-what-everyone-gets-wrong-about-the-2015-ashley-madison-scandal/)
-- [Microsoft removes documentation for switching to a local account in Windows 11](https://arstechnica.com/gadgets/2024/06/microsoft-removes-documentation-for-switching-to-a-local-account-in-windows-11/)
-- [Count Binface](https://en.wikipedia.org/wiki/Count_Binface)
-- [Local First, Forever](https://tonsky.me/blog/crdt-filesync/)
-- [Not all &#39;open source&#39; AI models are open: here&#39;s a ranking](https://www.nature.com/articles/d41586-024-02012-5)
+- [Researchers run high-performing LLM on the energy needed to power a lightbulb](https://news.ucsc.edu/2024/06/matmul-free-llm.html)
+- [GCC and Clang handle statically known undefined behaviour](https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html)
+- [A Day Job Is So Much Easier Than Entrepreneurship](https://www.financialsamurai.com/a-day-job-is-so-much-easier-than-entrepreneurship/)
+- [What&#39;s up Python? Django get background tasks, a new REPL, bye bye gunicorn](https://www.bitecode.dev/p/whats-up-python-django-background)
+- [AI discovers new rare-earth-free magnet at 200 times the speed of man](https://newatlas.com/materials/ai-rare-earth-free-magnet-discovery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
