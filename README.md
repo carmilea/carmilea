@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What everyone gets wrong about the 2015 Ashley Madison scandal](https://www.newscientist.com/article/mg26234952-100-what-everyone-gets-wrong-about-the-2015-ashley-madison-scandal/)
+- [Microsoft removes documentation for switching to a local account in Windows 11](https://arstechnica.com/gadgets/2024/06/microsoft-removes-documentation-for-switching-to-a-local-account-in-windows-11/)
+- [Count Binface](https://en.wikipedia.org/wiki/Count_Binface)
 - [Local First, Forever](https://tonsky.me/blog/crdt-filesync/)
 - [Not all &#39;open source&#39; AI models are open: here&#39;s a ranking](https://www.nature.com/articles/d41586-024-02012-5)
-- [EGAIR – European Guild for Artificial Intelligence Regulation](https://www.egair.eu/)
-- [NOFX to retire after final tour without ever having had a job](https://www.nytimes.com/2024/06/18/style/nofx-farewell-tour.html)
-- [Researchers invent 100% biodegradable &#39;barley plastic&#39;](https://phys.org/news/2024-06-biodegradable-barley-plastic.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
