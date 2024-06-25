@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HyperCard Simulator](https://hcsimulator.com/)
+- [Study comparing mitochondria in males and females finds extreme differences](https://dornsife.usc.edu/news/stories/mitochondrial-sex-differences-suggest-treatment-strategies/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
-- [Volkswagen to invest up to $5B in Rivian](https://www.reuters.com/business/autos-transportation/volkswagen-invest-up-5-billion-rivian-part-tech-joint-venture-2024-06-25/)
-- [Fixing QuickLook &lpar;2023&rpar;](https://foon.uk/fixing-quicklook/)
-- [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
-- [Chang&#39;e 6 lunar sample return mission returns with samples from moon&#39;s far side](https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon)
+- [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
+- [Ask HN: What brought back the joy of programming for you?](https://news.ycombinator.com/item?id=40793293)
 <!-- BLOG-POST-LIST:END -->
 
 ---
