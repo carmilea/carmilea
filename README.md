@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Local First, Forever](https://tonsky.me/blog/crdt-filesync/)
+- [Not all &#39;open source&#39; AI models are open: here&#39;s a ranking](https://www.nature.com/articles/d41586-024-02012-5)
+- [EGAIR – European Guild for Artificial Intelligence Regulation](https://www.egair.eu/)
 - [NOFX to retire after final tour without ever having had a job](https://www.nytimes.com/2024/06/18/style/nofx-farewell-tour.html)
 - [Researchers invent 100% biodegradable &#39;barley plastic&#39;](https://phys.org/news/2024-06-biodegradable-barley-plastic.html)
-- [Wave activity on Titan strong enough to erode the coastlines of lakes and seas](https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html)
-- [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
-- [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
