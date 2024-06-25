@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Round Rects Are Everywhere](https://www.folklore.org/Round_Rects_Are_Everywhere.html)
-- [Fearing Losses, Banks Are Quietly Dumping Real Estate Loans](https://www.nytimes.com/2024/06/24/business/commercial-real-estate-loans.html)
-- [Windows 11 is now enabling OneDrive folder backup without asking permission](https://www.neowin.net/news/windows-11-is-now-automatically-enabling-onedrive-folder-backup-without-asking-permission/)
-- [Finley &lpar;YC W21&rpar; is hiring our first Sales Ops team member &lpar;SF, NY, Remote&rpar;](https://jobs.lever.co/FinleyTechnologies/ef9b46ab-6c97-4401-b7d1-8535c262f246)
-- [MIME, RSS, and Existential Torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
+- [Hackers &#39;jailbreak&#39; powerful AI models in global effort to highlight flaws](https://www.ft.com/content/14a2c98b-c8d5-4e5b-a7b0-30f0a05ec432)
+- [The First Hedge Fund](https://commoncog.com/c/cases/aw-jones-hedge-fund/)
+- [Law enforcement is spying on Americans&#39; mail, records show](https://www.washingtonpost.com/technology/2024/06/24/post-office-mail-surveillance-law-enforcement/)
+- [Rheinmetall and Anduril join forces to develop C-sUAS system](https://www.anduril.com/article/rheinmetall-and-anduril-join-forces-to-develop-c-suas-system/)
+- [iDOS 3 Rejected by Apple](https://litchie.com/2024/04/new-hope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
