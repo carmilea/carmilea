@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [And Now Xylitol](https://www.science.org/content/blog-post/and-now-xylitol)
+- [Anthropic Introduces Claude Projects](https://support.anthropic.com/en/articles/9519177-how-can-i-create-and-manage-projects)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40790859)
+- [Sohu – first specialized chip &lpar;ASIC&rpar; for transformer models](https://twitter.com/Etched/status/1805625693113663834)
+- [Google no longer developing Material Web Components](https://github.com/material-components/material-web/discussions/5642)
 - [Chang&#39;e 6 lunar sample return mission returns with samples from moon&#39;s far side](https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon)
-- [Testing AMD&#39;s Giant MI300X](https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/)
-- [Show HN: I built a large JavaScript powered flipdisc display. Here&#39;s a guide](https://flipdisc.io/http://localhost:4321/)
-- [From Dotenv to Dotenvx: Next Generation Config Management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
