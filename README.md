@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Houthi Attacks in the Red Sea, Merchant Traffic Through Suez Canal Down &gt;50%](https://news.usni.org/2024/06/20/houthi-attacks-causing-more-damage-in-the-red-sea-merchant-traffic-through-suez-canal-down-more-than-50)
 - [Researchers invent 100% biodegradable &#39;barley plastic&#39;](https://phys.org/news/2024-06-biodegradable-barley-plastic.html)
 - [Wave activity on Titan strong enough to erode the coastlines of lakes and seas](https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html)
 - [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
 - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
+- [Personal light exposure patterns and incidence of type 2 diabetes](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00110-8/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
