@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We must seek a widely-applicable Science of Systems](https://www.hiranmay.xyz/blog/complex-systems)
+- [Microsoft charged with EU antitrust violations for bundling Teams](https://www.theverge.com/2024/6/25/24185467/microsoft-teams-eu-bundling-antitrust-violations)
+- [Private investigator sent to man&#39;s house for modifying legally purchased handbag [video]](https://www.youtube.com/watch?v=ZI037QiGRQI)
+- [EU Commission Issues Objections to Microsoft over Teams Tying Practices](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3446)
 - [Researchers run high-performing LLM on the energy needed to power a lightbulb](https://news.ucsc.edu/2024/06/matmul-free-llm.html)
-- [GCC and Clang handle statically known undefined behaviour](https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html)
-- [A Day Job Is So Much Easier Than Entrepreneurship](https://www.financialsamurai.com/a-day-job-is-so-much-easier-than-entrepreneurship/)
-- [What&#39;s up Python? Django get background tasks, a new REPL, bye bye gunicorn](https://www.bitecode.dev/p/whats-up-python-django-background)
-- [AI discovers new rare-earth-free magnet at 200 times the speed of man](https://newatlas.com/materials/ai-rare-earth-free-magnet-discovery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
