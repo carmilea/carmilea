@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackers &#39;jailbreak&#39; powerful AI models in global effort to highlight flaws](https://www.ft.com/content/14a2c98b-c8d5-4e5b-a7b0-30f0a05ec432)
-- [The First Hedge Fund](https://commoncog.com/c/cases/aw-jones-hedge-fund/)
-- [Law enforcement is spying on Americans&#39; mail, records show](https://www.washingtonpost.com/technology/2024/06/24/post-office-mail-surveillance-law-enforcement/)
-- [Rheinmetall and Anduril join forces to develop C-sUAS system](https://www.anduril.com/article/rheinmetall-and-anduril-join-forces-to-develop-c-suas-system/)
-- [iDOS 3 Rejected by Apple](https://litchie.com/2024/04/new-hope)
+- [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
+- [Personal light exposure patterns and incidence of type 2 diabetes](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00110-8/fulltext)
+- [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
+- [Ask HN: YouTube shutdown my account with private channel of my kids memories](https://news.ycombinator.com/item?id=40783210)
+- [The Fed Has Avoided a Recession. But Some Have Been Left Behind](https://www.barrons.com/articles/federal-reserve-distribution-of-wealth-recession-21d8c48e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
