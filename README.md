@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Introduces Claude Projects](https://support.anthropic.com/en/articles/9519177-how-can-i-create-and-manage-projects)
+- [Andrew Tanenbaum honoured for MINIX, the OS hiding in lots of computers](https://www.theregister.com/2024/06/25/tanenbaum_minix_award/)
+- [Malicious Code Injection Found in CDN Polyfill Link Targeting Mobile Users](https://github.com/polyfillpolyfill/polyfill-service/issues/2873)
+- [Paramount Erases Mtv.com Archives, Wipes Music, Culture History After 30+ Years](https://www.showbiz411.com/2024/06/25/paramount-shuts-down-mtv-website-wipes-history-after-20-plus-years)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40790859)
 - [Sohu – first specialized chip &lpar;ASIC&rpar; for transformer models](https://twitter.com/Etched/status/1805625693113663834)
-- [Google no longer developing Material Web Components](https://github.com/material-components/material-web/discussions/5642)
-- [Chang&#39;e 6 lunar sample return mission returns with samples from moon&#39;s far side](https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
