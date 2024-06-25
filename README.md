@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hard work wins in business &lpar;a.k.a. it ain&#39;t just about luck&rpar;](https://anandsanwal.me/2024/05/23/hard-work-wins-business/)
-- [Sun Machines](https://www.economist.com/interactive/essay/2024/06/20/solar-power-is-going-to-be-huge)
+- [Waymo One is now open to everyone in San Francisco](https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/)
+- [From Dotenv to Dotenvx: Next Generation Config Management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
+- [Vintage Wooden Homes on Wheels: Photos of Mobile Living from Early 20th Century](https://rarehistoricalphotos.com/vintage-wooden-homes-on-wheels/)
+- [Slack updates retention policy for free workspaces](https://slack.com/intl/en-gb/help/articles/29414264463635-Updates-to-message-and-file-history-on-free-workspaces?nojsmode=1)
 - [Why we must seek a widely-applicable Science of Systems.](https://www.hiranmay.xyz/blog/complex-systems)
-- [Microsoft charged with EU antitrust violations for bundling Teams](https://www.theverge.com/2024/6/25/24185467/microsoft-teams-eu-bundling-antitrust-violations)
-- [Don Quixote&#39;s Fried Eggs: Purpose of a System Is What It Does](https://www.population.fyi/p/don-quixotes-fried-eggs-the-purpose)
 <!-- BLOG-POST-LIST:END -->
 
 ---
