@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We must seek a widely-applicable Science of Systems](https://www.hiranmay.xyz/blog/complex-systems)
+- [Hard work wins in business &lpar;a.k.a. it ain&#39;t just about luck&rpar;](https://anandsanwal.me/2024/05/23/hard-work-wins-business/)
+- [Sun Machines](https://www.economist.com/interactive/essay/2024/06/20/solar-power-is-going-to-be-huge)
+- [Why we must seek a widely-applicable Science of Systems.](https://www.hiranmay.xyz/blog/complex-systems)
 - [Microsoft charged with EU antitrust violations for bundling Teams](https://www.theverge.com/2024/6/25/24185467/microsoft-teams-eu-bundling-antitrust-violations)
-- [Private investigator sent to man&#39;s house for modifying legally purchased handbag [video]](https://www.youtube.com/watch?v=ZI037QiGRQI)
-- [EU Commission Issues Objections to Microsoft over Teams Tying Practices](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3446)
-- [Researchers run high-performing LLM on the energy needed to power a lightbulb](https://news.ucsc.edu/2024/06/matmul-free-llm.html)
+- [Don Quixote&#39;s Fried Eggs: Purpose of a System Is What It Does](https://www.population.fyi/p/don-quixotes-fried-eggs-the-purpose)
 <!-- BLOG-POST-LIST:END -->
 
 ---
