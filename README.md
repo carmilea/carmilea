@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers upend AI status quo by eliminating matrix multiplication in LLMs](https://arstechnica.com/information-technology/2024/06/researchers-upend-ai-status-quo-by-eliminating-matrix-multiplication-in-llms/)
+- [Atomic Operations Composition in Go](https://antonz.org/atomics-composition/)
 - [HyperCard Simulator](https://hcsimulator.com/)
-- [Study comparing mitochondria in males and females finds extreme differences](https://dornsife.usc.edu/news/stories/mitochondrial-sex-differences-suggest-treatment-strategies/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
 - [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
-- [Ask HN: What brought back the joy of programming for you?](https://news.ycombinator.com/item?id=40793293)
 <!-- BLOG-POST-LIST:END -->
 
 ---
