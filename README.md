@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Things You Didn&#39;t Know About GNU Readline &lpar;2019&rpar;](https://twobithistory.org/2019/08/22/readline.html)
-- [SCOTUS Rules That US Government Can Continue Talking to Social Media Companies](https://www.wired.com/story/scotus-us-government-talk-social-media-companies/)
-- [Podman Desktop 1.11: Light mode, Kubernetes features, macOS improvements](https://podman-desktop.io/blog/podman-desktop-release-1.11)
-- [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
-- [Show HN: Rubbrband – A hosted ComfyUI alternative for image generation](https://news.ycombinator.com/item?id=40799262)
+- [Motion &lpar;YC W20&rpar; Is Hiring Our First DevOps Engineer](https://jobs.ashbyhq.com/motion/731e6994-c9b0-43ae-b7e4-28cbca03920f?utm_source=hn)
+- [Rabbit failed to properly reset keys: emails can be sent from rabbit.tech domain](https://rabbitu.de/articles/security-disclosure-2)
+- [US Mac market share grew 22% in Q1, likely helped by new MacBook Air models](https://9to5mac.com/2024/06/26/us-mac-market-share-q1-2024/)
+- [Things you didn&#39;t know about GNU readline &lpar;2019&rpar;](https://twobithistory.org/2019/08/22/readline.html)
+- [One Million Checkboxes](https://onemillioncheckboxes.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
