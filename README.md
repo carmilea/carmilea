@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Denmark to charge $100 per cow in first carbon tax on farming](https://www.cnn.com/2024/06/26/business/denmark-cows-carbon-tax/index.html)
-- [Should people who quit get unemployment benefits, too?](https://www.vox.com/future-perfect/356461/unemployment-benefits-insurance-quitting-capitalism-economy)
-- [Show HN: Rubbrband – A hosted ComfyUI alternative for image generation](https://news.ycombinator.com/item?id=40799262)
-- [Ghosts in the ROM &lpar;2012&rpar;](https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/)
-- [Juniper &lpar;YC W21&rpar; is hiring sr engineers to fix financial infra in recurring care](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
+- [If you&#39;re using Polyfill.io code on your site – remove it immediately](https://www.theregister.com/2024/06/25/polyfillio_china_crisis/)
+- [PostgreSQL Statistics, Indexes, and Pareto Data Distributions](https://making.close.com/posts/dialer-growth-statistics-indexes)
+- [Podman Desktop 1.11: Light mode and new Kubernetes features](https://podman-desktop.io/blog/podman-desktop-release-1.11)
+- [Resource burden of electric vehicles set to triple by 2050](https://www.theregister.com/2024/06/26/resource_burden_ev/)
+- [The law should treat personal data like human organs – not for sale](https://www.theglobeandmail.com/business/commentary/article-the-law-should-treat-personal-data-like-human-organs-not-for-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
