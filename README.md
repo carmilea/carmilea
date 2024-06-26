@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to pivot to a Machine Learning engineer?](https://news.ycombinator.com/item?id=40797858)
 - [Banach–Tarski Paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox)
+- [American Singapore&lpar;s&rpar;: Competent city governance hiding in plain sight](https://www.population.fyi/p/american-singapores-effective-city)
+- [Show HN: a Rust lib to trigger actions based on your screen activity &lpar;with LLMs&rpar;](https://github.com/louis030195/screen-pipe)
 - [FICO and the Credit Bureau Cartel](https://www.thebignewsletter.com/p/inside-fico-and-the-credit-bureau)
-- [Google dropping continuous scroll in search results](https://searchengineland.com/google-dropping-continuous-scroll-in-search-results-443529)
-- [Volkswagen invests up to $5B in Rivian](https://www.bloomberg.com/news/articles/2024-06-25/vw-invests-5-billion-in-ev-startup-rivian-to-form-joint-venture)
-- [Remote shell to a Raspberry Pi at 39,000 ft](https://www.jeffgeerling.com/blog/2024/remote-shell-raspberry-pi-39000-ft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
