@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remote shell to a Raspberry Pi at 39,000 ft](https://www.jeffgeerling.com/blog/2024/remote-shell-raspberry-pi-39000-ft)
 - [The many faces of undefined in JavaScript](https://mortoray.com/the-many-faces-of-undefined-in-javascript/)
 - [First Class Contexts – Rye Language](https://ryelang.org/meet_rye/specifics/context/)
 - [The rarest book in American literature: Poe&#39;s Tamerlane](https://lithub.com/in-search-of-the-rarest-book-in-american-literature-edgar-allan-poes-tamerlane/)
 - [Brazil&#39;s Supreme Court decriminalizes marijuana](https://www.bloomberg.com/news/articles/2024-06-25/brazil-supreme-court-decriminalizes-marijuana-for-personal-use)
-- [The album art of Phil Hartman&lpar;n&rpar; &lpar;2022&rpar;](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
 <!-- BLOG-POST-LIST:END -->
 
 ---
