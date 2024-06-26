@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Figma AI: Empowering designers with intelligent tools](https://www.figma.com/blog/introducing-figma-ai/)
+- [Anthropic: Expanding Access to Claude for Government](https://www.anthropic.com/news/expanding-access-to-claude-for-government)
+- [Millions of Taxpayers Call the IRS for Help. Two-Thirds Don&#39;t Reach Anyone](https://www.wsj.com/personal-finance/taxes/irs-customer-service-phone-call-data-fe7c0e65)
+- [I Add 3-25 Seconds of Latency to Every Page I Visit &lpar;2020&rpar;](https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html)
 - [Motion &lpar;YC W20&rpar; Is Hiring Our First DevOps Engineer](https://jobs.ashbyhq.com/motion/731e6994-c9b0-43ae-b7e4-28cbca03920f?utm_source=hn)
-- [Rabbit failed to properly reset keys: emails can be sent from rabbit.tech domain](https://rabbitu.de/articles/security-disclosure-2)
-- [US Mac market share grew 22% in Q1, likely helped by new MacBook Air models](https://9to5mac.com/2024/06/26/us-mac-market-share-q1-2024/)
-- [Things you didn&#39;t know about GNU readline &lpar;2019&rpar;](https://twobithistory.org/2019/08/22/readline.html)
-- [One Million Checkboxes](https://onemillioncheckboxes.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
