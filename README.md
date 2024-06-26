@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Indications of superconductivities in blend of variant apatite and covellite](https://arxiv.org/abs/2406.17525)
+- [Brazil&#39;s Supreme Court Decriminalizes Marijuana](https://www.bloomberg.com/news/articles/2024-06-25/brazil-supreme-court-decriminalizes-marijuana-for-personal-use)
 - [Loneliness trajectories are associated with midlife conspiracist worldviews](https://www.nature.com/articles/s41467-024-47113-x)
-- [The Album Art of Phil Hartman&lpar;n&rpar;](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
+- [The album art of Phil Hartman&lpar;n&rpar; &lpar;2022&rpar;](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
 - [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
-- [HyperCard Simulator](https://hcsimulator.com/)
-- [Supabase &lpar;YC S20&rpar; Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
