@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paul Allen&#39;s Computer Museum to Be Auctioned](https://hackaday.com/2024/06/25/paul-allens-living-computers-museum-and-labs-to-be-auctioned/)
+- [Half of Workers Around the World Are Struggling with Burnout](https://www.bcg.com/press/11june2024-half-of-workers-around-the-world-struggling-with-burnout)
+- [Juniper &lpar;YC W21&rpar; is hiring sr engineers to fix financial infra in recurring care](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
 - [Ask HN: How to pivot to a Machine Learning engineer?](https://news.ycombinator.com/item?id=40797858)
-- [Banach–Tarski Paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox)
 - [American Singapore&lpar;s&rpar;: Competent city governance hiding in plain sight](https://www.population.fyi/p/american-singapores-effective-city)
-- [Show HN: a Rust lib to trigger actions based on your screen activity &lpar;with LLMs&rpar;](https://github.com/louis030195/screen-pipe)
-- [FICO and the Credit Bureau Cartel](https://www.thebignewsletter.com/p/inside-fico-and-the-credit-bureau)
 <!-- BLOG-POST-LIST:END -->
 
 ---
