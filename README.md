@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers upend AI status quo by eliminating matrix multiplication in LLMs](https://arstechnica.com/information-technology/2024/06/researchers-upend-ai-status-quo-by-eliminating-matrix-multiplication-in-llms/)
-- [Atomic Operations Composition in Go](https://antonz.org/atomics-composition/)
+- [Loneliness trajectories are associated with midlife conspiracist worldviews](https://www.nature.com/articles/s41467-024-47113-x)
+- [The Album Art of Phil Hartman&lpar;n&rpar;](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
+- [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
 - [HyperCard Simulator](https://hcsimulator.com/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
-- [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
 <!-- BLOG-POST-LIST:END -->
 
 ---
