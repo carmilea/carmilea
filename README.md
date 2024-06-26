@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare automatically fixes Polyfill.io for free sites](https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet)
-- [AI can beat real university students in exams, study suggests](https://www.bbc.co.uk/news/articles/cqqqln0eg65o)
+- [SpaceX to deliver vehicle to deorbit International Space Station](https://www.nasa.gov/news-release/nasa-selects-international-space-station-us-deorbit-vehicle/)
+- [Breath of God: Tripping on Xenon Gas](https://tripsitter.substack.com/p/xenon)
+- [Coup Attempt in Bolivia](https://www.bloomberg.com/news/articles/2024-06-26/bolivia-presidential-palace-stormed-in-apparent-coup-attempt)
+- [How the STL Uses Explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
 - [The Forth Deck mini: a portable Forth computer with a discrete CPU](http://mynor.org/my4th_forthdeck.htm)
-- [Next gen 3D metal printing](https://fabric8labs.com)
-- [Figma Slides](https://www.figma.com/slides/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
