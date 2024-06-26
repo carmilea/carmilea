@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If you&#39;re using Polyfill.io code on your site – remove it immediately](https://www.theregister.com/2024/06/25/polyfillio_china_crisis/)
-- [PostgreSQL Statistics, Indexes, and Pareto Data Distributions](https://making.close.com/posts/dialer-growth-statistics-indexes)
-- [Podman Desktop 1.11: Light mode and new Kubernetes features](https://podman-desktop.io/blog/podman-desktop-release-1.11)
-- [Resource burden of electric vehicles set to triple by 2050](https://www.theregister.com/2024/06/26/resource_burden_ev/)
-- [The law should treat personal data like human organs – not for sale](https://www.theglobeandmail.com/business/commentary/article-the-law-should-treat-personal-data-like-human-organs-not-for-sale/)
+- [Things You Didn&#39;t Know About GNU Readline &lpar;2019&rpar;](https://twobithistory.org/2019/08/22/readline.html)
+- [SCOTUS Rules That US Government Can Continue Talking to Social Media Companies](https://www.wired.com/story/scotus-us-government-talk-social-media-companies/)
+- [Podman Desktop 1.11: Light mode, Kubernetes features, macOS improvements](https://podman-desktop.io/blog/podman-desktop-release-1.11)
+- [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
+- [Show HN: Rubbrband – A hosted ComfyUI alternative for image generation](https://news.ycombinator.com/item?id=40799262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
