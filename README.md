@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Weed Cause Strokes and Heart Attacks?](https://reason.com/video/2024/06/25/does-weed-cause-strokes-and-heart-attacks/)
 - [First Class Contexts – Rye Language](https://ryelang.org/meet_rye/specifics/context/)
 - [The rarest book in American literature: Poe&#39;s Tamerlane](https://lithub.com/in-search-of-the-rarest-book-in-american-literature-edgar-allan-poes-tamerlane/)
-- [My spiciest take on tech hiring](https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html)
 - [Brazil&#39;s Supreme Court decriminalizes marijuana](https://www.bloomberg.com/news/articles/2024-06-25/brazil-supreme-court-decriminalizes-marijuana-for-personal-use)
+- [The album art of Phil Hartman&lpar;n&rpar; &lpar;2022&rpar;](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
+- [Show HN: SmokeScanner – Using cigarette price arbitrage to find free flights](https://www.smokescanner.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
