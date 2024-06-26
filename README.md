@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Paul Allen&#39;s Computer Museum to Be Auctioned](https://hackaday.com/2024/06/25/paul-allens-living-computers-museum-and-labs-to-be-auctioned/)
-- [Half of Workers Around the World Are Struggling with Burnout](https://www.bcg.com/press/11june2024-half-of-workers-around-the-world-struggling-with-burnout)
+- [Ghosts in the &lpar;Macintosh&rpar; ROM &lpar;2012&rpar;](https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/)
 - [Juniper &lpar;YC W21&rpar; is hiring sr engineers to fix financial infra in recurring care](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
+- [One Year Since Germany&#39;s Nuclear Exit: Renewables Expand, Fossil Fuels Reduced](http://ise.fraunhofer.de/en/press-media/press-releases/2024/status-quo-one-year-since-germanys-nuclear-exit-renewable-capacity-expands-electricity-from-fossil-fuels-significantly-reduced.ht)
 - [Ask HN: How to pivot to a Machine Learning engineer?](https://news.ycombinator.com/item?id=40797858)
-- [American Singapore&lpar;s&rpar;: Competent city governance hiding in plain sight](https://www.population.fyi/p/american-singapores-effective-city)
 <!-- BLOG-POST-LIST:END -->
 
 ---
