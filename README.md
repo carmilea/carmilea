@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare automatically fixes Polyfill.io for free sites](https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet)
+- [AI can beat real university students in exams, study suggests](https://www.bbc.co.uk/news/articles/cqqqln0eg65o)
+- [The Forth Deck mini: a portable Forth computer with a discrete CPU](http://mynor.org/my4th_forthdeck.htm)
+- [Next gen 3D metal printing](https://fabric8labs.com)
 - [Figma Slides](https://www.figma.com/slides/)
-- [Figma AI](https://www.figma.com/blog/introducing-figma-ai/)
-- [Motion &lpar;YC W20&rpar; Is Hiring Our First DevOps Engineer](https://jobs.ashbyhq.com/motion/731e6994-c9b0-43ae-b7e4-28cbca03920f?utm_source=hn)
-- [Supreme Court strikes anti-corruption law that bars officials from taking gifts](https://www.latimes.com/world-nation/story/2024-06-26/supreme-court-anti-corruption-law)
-- [Rabbit failed to properly reset keys: emails can be sent from rabbit.tech domain](https://rabbitu.de/articles/security-disclosure-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
