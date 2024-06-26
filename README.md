@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Product Launch: Unfreeze your Iceberg Lakehouse and Power Intelligent Applications](https://www.youtube.com/watch?v=P7Bq_eSL6r8)
 - [Jerry Liu, co-founder and CEO of LlamaIndex Talks About Vector Search.](https://www.youtube.com/watch?v=QOz8HD3TPp8)
 - [Premal Shah, the Co-Founder of 6sense on unlocking the power of intent data.](https://www.youtube.com/watch?v=ItupUOGfI48)
 - [Using AWS Bedrock &amp; LangChain for Private LLM App Dev | SingleStore Webinars](https://www.youtube.com/watch?v=3NEBuhKj8MY)
 - [Unlocking the Power of Historical Data for Success](https://www.youtube.com/watch?v=dpydq-HmvtE)
-- [Unlocking the Power of Big Data: Premal Shah, the Co-Founder of 6sense](https://www.youtube.com/watch?v=9rqDK7ycldk)
 <!-- YOUTUBE:END -->
 
 
