@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux community mourns loss of WiFi driver expert Larry Finger](https://www.developer-tech.com/news/2024/jun/24/linux-community-mourns-loss-wifi-driver-expert/)
+- [We’ve Been Here: SAS with SingleStore and the Power of Real-Time Data](https://www.singlestore.com/blog/sas-with-singlestore-power-of-real-time-data)
+- [Misconceptions About Loops in C](https://dl.acm.org/doi/10.1145/3652588.3663324)
+- [The strategy behind one of the most successful labs in the world](https://www.nature.com/articles/d41586-024-02085-2)
+- [Larry Finger made Linux wireless work and brought others along to learn](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/)
 - [CriticGPT: Finding GPT-4&#39;s mistakes with GPT-4](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/)
-- [Italian Revenue Agency demands 1B from Google for tax evasion](https://www.firstonline.info/en/the-revenue-agency-is-targeting-Google-for-alleged-1-billion-tax-evasion/)
-- [Hellometer &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/hellometer/jobs/cgic6Bs-onboarding-operations-customer-success-and-project-management-specialist)
-- [The ketogenic diet improves healthspan and memory in aging mice](https://medicalxpress.com/news/2024-06-ketogenic-diet-healthspan-memory-aging.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
