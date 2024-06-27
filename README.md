@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We’ve Been Here: SAS with SingleStore and the Power of Real-Time Data](https://www.singlestore.com/blog/sas-with-singlestore-power-of-real-time-data)
-- [Misconceptions About Loops in C](https://dl.acm.org/doi/10.1145/3652588.3663324)
-- [The strategy behind one of the most successful labs in the world](https://www.nature.com/articles/d41586-024-02085-2)
-- [Larry Finger made Linux wireless work and brought others along to learn](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/)
-- [CriticGPT: Finding GPT-4&#39;s mistakes with GPT-4](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/)
+- [Slack to destroy &gt;90d history of free communities](https://slimsag.com/2024/slack-to-destroy-history-of-free-communities/)
+- [Using short lived Postgres servers for testing](https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/)
+- [Astronauts take shelter in Starliner, other spacecraft after satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
+- [SCOTUS rejects Sacklers’ immunity, blowing up opioid settlement](https://arstechnica.com/science/2024/06/opioid-settlement-toppled-as-scotus-rejects-sacklers-immunity-in-5-4-ruling/)
+- [Ask HN: What&#39;s Wrong with IRC?](https://news.ycombinator.com/item?id=40813311)
 <!-- BLOG-POST-LIST:END -->
 
 ---
