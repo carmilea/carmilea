@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Common Interface Mistakes in Go](https://medium.com/@andreiboar/7-common-interface-mistakes-in-go-1d3f8e58be60)
 - [How to Run Adobe Photoshop 2024 on Wine &lpar;Linux&rpar;](https://forum.mattkc.com/viewtopic.php?t=336)
 - [25 years of video clips gone as Paramount axes Comedy Central wesbite](https://latenighter.com/news/paramount-axes-comedy-central-website-show-clips-library/)
 - [6 months ago, I left the bullshit industrial complex](https://www.joanwestenberg.com/6-months-ago,-i-left-the-bullshit-industrial-complex)
 - [Claude 3.5 Sonnet](https://thezvi.substack.com/p/on-claude-35-sonnet)
-- [Molecular Interactions and the Behaviors of Biological Macromolecules](https://williams.chemistry.gatech.edu/structure/molecular_interactions/mol_int.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
