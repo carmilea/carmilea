@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Slack to destroy &gt;90d history of free communities](https://slimsag.com/2024/slack-to-destroy-history-of-free-communities/)
+- [Cloudflare adds option to block AI scrapers and crawlers](https://front-end.social/@chriscoyier/112688532313287480)
+- [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
 - [Using short lived Postgres servers for testing](https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/)
 - [Astronauts take shelter in Starliner, other spacecraft after satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
-- [SCOTUS rejects Sacklers’ immunity, blowing up opioid settlement](https://arstechnica.com/science/2024/06/opioid-settlement-toppled-as-scotus-rejects-sacklers-immunity-in-5-4-ruling/)
-- [Ask HN: What&#39;s Wrong with IRC?](https://news.ycombinator.com/item?id=40813311)
+- [Supreme Court blocks controversial Purdue Pharma opioid settlement](https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
