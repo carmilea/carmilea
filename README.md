@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Hatchet &lpar;YC W24&rpar; – Open-source task queue, now with a cloud version](https://news.ycombinator.com/item?id=40810986)
-- [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
-- [Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
-- [Is Everything BS?](https://behavioralscientist.org/is-everything-bs/)
-- [Fuggerei: the world’s first public housing &lpar;2022&rpar;](https://www.karlsnotes.com/fuggerei-the-worlds-first-public-housing/)
+- [Linux community mourns loss of WiFi driver expert Larry Finger](https://www.developer-tech.com/news/2024/jun/24/linux-community-mourns-loss-wifi-driver-expert/)
+- [CriticGPT: Finding GPT-4&#39;s mistakes with GPT-4](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/)
+- [Italian Revenue Agency demands 1B from Google for tax evasion](https://www.firstonline.info/en/the-revenue-agency-is-targeting-Google-for-alleged-1-billion-tax-evasion/)
+- [Hellometer &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/hellometer/jobs/cgic6Bs-onboarding-operations-customer-success-and-project-management-specialist)
+- [The ketogenic diet improves healthspan and memory in aging mice](https://medicalxpress.com/news/2024-06-ketogenic-diet-healthspan-memory-aging.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
