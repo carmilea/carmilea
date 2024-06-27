@@ -57,9 +57,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Launch HN: Hatchet &lpar;YC W24&rpar; – Open-source task queue, now with a cloud version](https://news.ycombinator.com/item?id=40810986)
+- [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
 - [Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
-- [Supreme Court blocks Purdue Pharma opioid settlement](https://www.nbcnews.com/politics/supreme-court/supreme-court-blocks-purdue-pharma-opioid-settlement-rcna139066)
-- [Ask HN: Arch Users – What is your long-term system maintenance routine?](https://news.ycombinator.com/item?id=40810406)
+- [Is Everything BS?](https://behavioralscientist.org/is-everything-bs/)
 - [Fuggerei: the world’s first public housing &lpar;2022&rpar;](https://www.karlsnotes.com/fuggerei-the-worlds-first-public-housing/)
 <!-- BLOG-POST-LIST:END -->
 
