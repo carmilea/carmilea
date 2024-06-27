@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chase will soon share their customers&#39; credit card information with startup Paze](https://www.chase.com/digital/digital-payments/paze-faqs)
+- [How to Run Adobe Photoshop 2024 on Wine &lpar;Linux&rpar;](https://forum.mattkc.com/viewtopic.php?t=336)
 - [25 years of video clips gone as Paramount axes Comedy Central wesbite](https://latenighter.com/news/paramount-axes-comedy-central-website-show-clips-library/)
-- [SpaceX Tender Offer Said to Value Company at Record $210B](https://www.bloomberg.com/news/articles/2024-06-27/spacex-tender-offer-said-to-value-company-at-record-210-billion)
+- [6 months ago, I left the bullshit industrial complex](https://www.joanwestenberg.com/6-months-ago,-i-left-the-bullshit-industrial-complex)
 - [Claude 3.5 Sonnet](https://thezvi.substack.com/p/on-claude-35-sonnet)
-- [DoorDash and Pizza Arbitrage](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
+- [Molecular Interactions and the Behaviors of Biological Macromolecules](https://williams.chemistry.gatech.edu/structure/molecular_interactions/mol_int.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
