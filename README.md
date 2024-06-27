@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flow Charts with CSS Anchor Positioning](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning)
-- [Eplot: A new package for making charts in Emacs](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
-- [Princeton engineers create new oyster-inspired cement 17X more crack-resistant](https://engineering.princeton.edu/news/2024/06/11/seashells-cement-nature-inspires-tougher-building-material)
-- [DoorDash and Pizza Arbitrage &lpar;2020&rpar;](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
-- [AI Revolutionized Protein Science, but Didn&#39;t End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)
+- [The Fuggerei – the world’s first public housing &lpar;2022&rpar;](https://www.karlsnotes.com/fuggerei-the-worlds-first-public-housing/)
+- [How to think about creating a dataset for LLM fine-tuning evaluation](https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html)
+- [Open-Sora does pretty good video generation on consumer GPUs](https://backprop.co/environments/open-sora)
+- [Dashboard and UIs for Node-Red](https://dashboard.flowfuse.com/)
+- [Ten Lessons I Wish I Had Been Taught [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
