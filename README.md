@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hypercar Maker Rimac Reveals the Fully Autonomous Verne Robotaxi](https://www.caranddriver.com/news/a61423917/rimac-autonomous-verne-robotaxi/)
+- [Hawaii home mistakenly built on Bay Area woman&#39;s land to be torn down](https://www.sfgate.com/hawaii/article/hawaii-home-built-on-wrong-lot-to-be-torn-down-19541255.php)
+- [Why it takes NYC nearly 10 years to install 500 feet of pipes – Gothamist](https://gothamist.com/news/why-it-takes-nyc-nearly-10-years-to-install-500-feet-of-pipes)
+- [310-mile automated cargo conveyor will replace 25,000 trucks in Japan](https://newatlas.com/transport/cargo-conveyor-auto-logistics/)
 - [The Fuggerei – the world’s first public housing &lpar;2022&rpar;](https://www.karlsnotes.com/fuggerei-the-worlds-first-public-housing/)
-- [How to think about creating a dataset for LLM fine-tuning evaluation](https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html)
-- [Open-Sora does pretty good video generation on consumer GPUs](https://backprop.co/environments/open-sora)
-- [Dashboard and UIs for Node-Red](https://dashboard.flowfuse.com/)
-- [Ten Lessons I Wish I Had Been Taught [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
