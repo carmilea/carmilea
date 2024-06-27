@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Standard Webhooks – simplifying 3rd party API&#39;s](https://www.syncd.dev/use-cases)
 - [Corcel – Use WordPress backend with Laravel or any PHP application](https://github.com/corcel/corcel)
 - [The brain makes a lot of waste. Now scientists think they know where it goes](https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins)
-- [Wild Boar Has Five Times More PFAS Than Humans Allowed to Eat](https://www.forbes.com/sites/grrlscientist/2024/06/26/wild-boar-has-five-times-more-toxic-pfas-than-humans-allowed-to-eat/)
 - [South Korean telecom company attacks torrent users with malware](https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs)
-- [SpaceX to deliver vehicle to deorbit International Space Station](https://www.nasa.gov/news-release/nasa-selects-international-space-station-us-deorbit-vehicle/)
+- [WordStar – A Writer&#39;s Word Processor &lpar;1990&rpar;](https://sfwriter.com/wordstar.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
