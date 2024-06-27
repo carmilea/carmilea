@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Interface Mistakes in Go](https://medium.com/@andreiboar/7-common-interface-mistakes-in-go-1d3f8e58be60)
+- [A New Package for Making Charts in Emacs: Eplot](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
+- [NBC to use AI version of announcer Al Michaels&#39; voice for Olympics recaps](https://www.cnn.com/2024/06/26/tech/al-michaels-ai-olympics/index.html)
 - [How to Run Adobe Photoshop 2024 on Wine &lpar;Linux&rpar;](https://forum.mattkc.com/viewtopic.php?t=336)
 - [25 years of video clips gone as Paramount axes Comedy Central wesbite](https://latenighter.com/news/paramount-axes-comedy-central-website-show-clips-library/)
 - [6 months ago, I left the bullshit industrial complex](https://www.joanwestenberg.com/6-months-ago,-i-left-the-bullshit-industrial-complex)
-- [Claude 3.5 Sonnet](https://thezvi.substack.com/p/on-claude-35-sonnet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
