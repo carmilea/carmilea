@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [At 50 Years Old, Is SQL Becoming a Niche Skill?](https://zwischenzugs.com/2024/06/27/at-50-years-old-is-sql-becoming-a-niche-skill/)
-- [CATL electric plane to support 2000 km &lpar;1200 miles&rpar; flight](https://www.chinadaily.com.cn/a/202406/25/WS667a5675a31095c51c50ab4d.html)
-- [Language is primarily a tool for communication rather than thought](https://www.nature.com/articles/s41586-024-07522-w)
-- [The Growing Threat of Malware Concealed Behind Cloud Services](https://www.fortinet.com/blog/threat-research/growing-threat-of-malware-concealed-behind-cloud-services)
-- [Hypercar Maker Rimac Reveals the Fully Autonomous Verne Robotaxi](https://www.caranddriver.com/news/a61423917/rimac-autonomous-verne-robotaxi/)
+- [The No Asshole Rule](https://en.wikipedia.org/wiki/The_No_Asshole_Rule)
+- [The Fuggerei – the world’s first public housing &lpar;2022&rpar;](https://www.karlsnotes.com/fuggerei-the-worlds-first-public-housing/)
+- [How to think about creating a dataset for LLM fine-tuning evaluation](https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html)
+- [Dashboard and UIs for Node-Red](https://dashboard.flowfuse.com/)
+- [Lessons I Wish I Had Been Taught &lpar;1997&rpar; [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
