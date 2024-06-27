@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chase will soon share their customers&#39; credit card information with startup Paze](https://www.chase.com/digital/digital-payments/paze-faqs)
+- [25 years of video clips gone as Paramount axes Comedy Central wesbite](https://latenighter.com/news/paramount-axes-comedy-central-website-show-clips-library/)
+- [SpaceX Tender Offer Said to Value Company at Record $210B](https://www.bloomberg.com/news/articles/2024-06-27/spacex-tender-offer-said-to-value-company-at-record-210-billion)
 - [Claude 3.5 Sonnet](https://thezvi.substack.com/p/on-claude-35-sonnet)
-- [Molecular Interactions and the Behaviors of Biological Macromolecules](https://williams.chemistry.gatech.edu/structure/molecular_interactions/mol_int.html)
-- [AI Revolutionized Protein Science, but Didn&#39;t End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)
-- [Show HN: Standard Webhooks – simplifying 3rd party API&#39;s](https://www.syncd.dev/use-cases)
-- [Corcel – Use WordPress backend with Laravel or any PHP application](https://github.com/corcel/corcel)
+- [DoorDash and Pizza Arbitrage](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
