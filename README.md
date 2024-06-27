@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Flow Charts with CSS Anchor Positioning](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning)
 - [Eplot: A new package for making charts in Emacs](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
-- [25 years of video clips gone as Paramount axes Comedy Central wesbite](https://latenighter.com/news/paramount-axes-comedy-central-website-show-clips-library/)
 - [Princeton engineers create new oyster-inspired cement 17X more crack-resistant](https://engineering.princeton.edu/news/2024/06/11/seashells-cement-nature-inspires-tougher-building-material)
 - [DoorDash and Pizza Arbitrage &lpar;2020&rpar;](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
+- [AI Revolutionized Protein Science, but Didn&#39;t End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
