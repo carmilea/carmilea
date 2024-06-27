@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The No Asshole Rule](https://en.wikipedia.org/wiki/The_No_Asshole_Rule)
-- [The Fuggerei – the world’s first public housing &lpar;2022&rpar;](https://www.karlsnotes.com/fuggerei-the-worlds-first-public-housing/)
-- [How to think about creating a dataset for LLM fine-tuning evaluation](https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html)
-- [Dashboard and UIs for Node-Red](https://dashboard.flowfuse.com/)
-- [Lessons I Wish I Had Been Taught &lpar;1997&rpar; [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
+- [Launch HN: Hatchet &lpar;YC W24&rpar; – Open-source task queue, now with a cloud version](https://news.ycombinator.com/item?id=40810986)
+- [Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
+- [Supreme Court blocks Purdue Pharma opioid settlement](https://www.nbcnews.com/politics/supreme-court/supreme-court-blocks-purdue-pharma-opioid-settlement-rcna139066)
+- [Ask HN: Arch Users – What is your long-term system maintenance routine?](https://news.ycombinator.com/item?id=40810406)
+- [Fuggerei: the world’s first public housing &lpar;2022&rpar;](https://www.karlsnotes.com/fuggerei-the-worlds-first-public-housing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
