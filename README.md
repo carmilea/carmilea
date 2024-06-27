@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude 3.5 Sonnet](https://thezvi.substack.com/p/on-claude-35-sonnet)
 - [Molecular Interactions and the Behaviors of Biological Macromolecules](https://williams.chemistry.gatech.edu/structure/molecular_interactions/mol_int.html)
 - [AI Revolutionized Protein Science, but Didn&#39;t End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)
-- [Netflix wants managers to ask whether they would rehire their employees](https://fortune.com/2024/06/25/netflix-managers-keeper-test-rehire-or-fire-staff/)
 - [Show HN: Standard Webhooks – simplifying 3rd party API&#39;s](https://www.syncd.dev/use-cases)
 - [Corcel – Use WordPress backend with Laravel or any PHP application](https://github.com/corcel/corcel)
 <!-- BLOG-POST-LIST:END -->
