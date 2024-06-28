@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Ghost: Coast to Coast and the Birth of the Weird &lpar;2016&rpar;](https://www.vulture.com/2016/10/space-ghost-coast-to-coast-and-the-birth-of-the-weird.html)
 - [Aeon: OpenSUSE for Lazy Developers](https://lwn.net/Articles/977987/)
 - [Hardware FPGA DPS-8M Mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
 - [The Death of NYC Congestion Pricing](https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing)
-- [Surprise the Latest &#39;Comprehensive&#39; US Privacy Bill Is Doomed](https://www.wired.com/story/apra-privacy-bill-doomed/)
-- [Migrating From Rockset + DynamoDB to SingleStore](https://www.singlestore.com/blog/migrating-from-rockset-dynamodb-to-singlestore)
+- [Geely releases new LFP battery with fast charging and energy density of 192Wh/kg](https://cnevpost.com/2024/06/27/geely-releases-aegis-short-blade-battery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
