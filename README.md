@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parkinson&#39;s Link to Gut Bacteria Suggests Unexpected, Simple Treatment](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-suggests-unexpected-simple-treatment)
 - [Ask HN: What is the best code base you ever worked on?](https://news.ycombinator.com/item?id=40818809)
 - [Frame.work laptop now available in Denmark, Finland, and Sweden](https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690)
 - [Software galaxies](https://anvaka.github.io/pm/)
 - [Investigating SSMEC&#39;s &lpar;State Micro&rpar; 486s with the UCA](https://x86.fr/investigating-ssmecs-state-micro-486s-with-the-uca/)
-- [Aeon: OpenSUSE for Lazy Developers](https://lwn.net/Articles/977987/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
