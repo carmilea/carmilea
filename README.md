@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Conway&#39;s Game of Life, in checkboxes for some reason](https://huth.me/checkbox-life/)
-- [Two million checkboxes &lpar;written in Elixir&rpar;](https://twomillioncheckboxes.com)
-- [WA man set up fake free WiFi at Australian airports and on flights,police allege](https://www.theguardian.com/technology/article/2024/jun/28/wa-man-fake-free-wifi-airports-data-theft-ntwnfb)
-- [Parkinson&#39;s Link to Gut Bacteria Suggests Unexpected, Simple Treatment](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-suggests-unexpected-simple-treatment)
+- [Substack Is Hiring Systems Engineers to Build a New Economic Engine for Culture](https://grnh.se/4f362fed5us)
+- [A Novel way to curb poaching, injecting radioisotopes into 20 live rhinoceros](https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html)
+- [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
 - [Orbital Mechanics and Astrodynamics](https://orbital-mechanics.space/intro.html)
+- [Software galaxies](https://anvaka.github.io/pm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
