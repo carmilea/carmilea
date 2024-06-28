@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Five new ways to catch gravitational waves – and the secrets they&#39;ll reveal](https://www.nature.com/articles/d41586-024-02003-6)
+- [Former IT employee accessed data of over 1M US patients](https://www.bleepingcomputer.com/news/security/former-it-employee-accessed-data-of-over-1-million-us-patients/)
+- [New ways to catch gravitational waves](https://www.nature.com/articles/d41586-024-02003-6)
 - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
 - [Substack Is Hiring Systems Engineers to Build a New Economic Engine for Culture](https://grnh.se/4f362fed5us)
 - [A Novel way to curb poaching, injecting radioisotopes into 20 live rhinoceros](https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html)
-- [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
