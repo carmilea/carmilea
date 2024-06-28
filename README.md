@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [The Evolution &amp; History of RAG by Jerry Liu, CEO of LlamaIndex.](https://www.youtube.com/watch?v=lxhvJxD-0Io)
+- [The Ultimate Guide to Building a Successful Online Store using LlamaCloud](https://www.youtube.com/watch?v=v01NOg1fAJ0)
 - [Jerry Liu on LLMs Adding Connectors to Different Data Stores](https://www.youtube.com/watch?v=jo9WCsnsexk)
 - [The Evolution of the LlamaIndex, Jerry Liu](https://www.youtube.com/watch?v=ZXlM2wQi5iI)
 - [Jerry Liu, CEO of LlamaIndex Talks About Low-Latency &amp; Live GenAI Use Cases](https://www.youtube.com/watch?v=M51csmDHWws)
-- [LlamaIndex and Real World AI Implementations](https://www.youtube.com/watch?v=F7JJzMH9O0Y)
-- [Product Launch: Unfreeze your Iceberg Lakehouse and Power Intelligent Applications](https://www.youtube.com/watch?v=P7Bq_eSL6r8)
 <!-- YOUTUBE:END -->
 
 
