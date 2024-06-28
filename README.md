@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Conway&#39;s Game of Life, in checkboxes for some reason](https://huth.me/checkbox-life/)
+- [Two million checkboxes &lpar;written in Elixir&rpar;](https://twomillioncheckboxes.com)
+- [WA man set up fake free WiFi at Australian airports and on flights,police allege](https://www.theguardian.com/technology/article/2024/jun/28/wa-man-fake-free-wifi-airports-data-theft-ntwnfb)
 - [Parkinson&#39;s Link to Gut Bacteria Suggests Unexpected, Simple Treatment](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-suggests-unexpected-simple-treatment)
-- [Ask HN: What is the best code base you ever worked on?](https://news.ycombinator.com/item?id=40818809)
-- [Frame.work laptop now available in Denmark, Finland, and Sweden](https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690)
-- [Software galaxies](https://anvaka.github.io/pm/)
-- [Investigating SSMEC&#39;s &lpar;State Micro&rpar; 486s with the UCA](https://x86.fr/investigating-ssmecs-state-micro-486s-with-the-uca/)
+- [Orbital Mechanics and Astrodynamics](https://orbital-mechanics.space/intro.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
