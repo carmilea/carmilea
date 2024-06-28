@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Supreme Court allows cities to ban homeless camps](https://www.bbc.com/news/articles/cj774nxrpy7o)
-- [The NSA Wants Carte Blanche for Warrantless Surveillance](https://www.thenation.com/article/world/nsa-warrantless-surveillance/)
-- [Show HN: Six Degrees of Reform UK – Mapping the UK&#39;s Entrepreneurial Far Right](https://adu.autonomy.work/posts/2024_06_28_reform/)
-- [Elixir Anti-Patterns](https://hexdocs.pm/elixir/main/code-anti-patterns.html)
+- [Pompeii Fixed Potholes with Molten Iron](https://www.smithsonianmag.com/smart-news/pompeii-fixed-potholes-molten-iron-180972203/)
 - [Our Underground Future &lpar;2012&rpar;](https://www.bostonglobe.com/ideas/2012/06/23/underground-space/PvxyWFdXXYhPPlQVVU0a8K/story.html)
+- [Real Chaos, Today – Randomised controlled trials in economics](https://someunpleasant.substack.com/p/real-chaos-today)
+- [What Happened to People Magazine?](https://annehelen.substack.com/p/what-happened-to-people-magazine)
+- [Llama-agents: an async-first framework for building production ready agents](https://github.com/run-llama/llama-agents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
