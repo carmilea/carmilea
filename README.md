@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Hardware FPGA DPS-8M Mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
+- [The Death of NYC Congestion Pricing](https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing)
+- [Surprise the Latest &#39;Comprehensive&#39; US Privacy Bill Is Doomed](https://www.wired.com/story/apra-privacy-bill-doomed/)
 - [El Niño forecasts extended to 18 months with physics-based model](https://phys.org/news/2024-06-el-nio-months-physics-based.html)
 - [Migrating From Rockset + DynamoDB to SingleStore](https://www.singlestore.com/blog/migrating-from-rockset-dynamodb-to-singlestore)
-- [200 people charged in $2.7B health care fraud crackdown](https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858)
-- [Python grapples with Apple App Store rejections](https://lwn.net/SubscriberLink/979671/4fb7c1827536d1ae/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
