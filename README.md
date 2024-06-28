@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source &#39;Eclipse Theia IDE&#39; Exits Beta to Challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
+- [The true story – as best I can remember – of the origin of Mosaic and Netscape](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
 - [Pompeii fixed potholes with molten iron &lpar;2019&rpar;](https://www.smithsonianmag.com/smart-news/pompeii-fixed-potholes-molten-iron-180972203/)
-- [Our Underground Future &lpar;2012&rpar;](https://www.bostonglobe.com/ideas/2012/06/23/underground-space/PvxyWFdXXYhPPlQVVU0a8K/story.html)
-- [Real Chaos, Today – Randomised controlled trials in economics](https://someunpleasant.substack.com/p/real-chaos-today)
 - [What Happened to People Magazine?](https://annehelen.substack.com/p/what-happened-to-people-magazine)
 - [Llama-agents: an async-first framework for building production ready agents](https://github.com/run-llama/llama-agents)
 <!-- BLOG-POST-LIST:END -->
