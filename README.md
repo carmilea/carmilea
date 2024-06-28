@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Google cuts ties with Entrust in Chrome over trust issues](https://www.theregister.com/2024/06/28/google_axes_entrust_over_six/)
-- [Milk-V Reveals Technical Specs of Milk-V Jupiter RISC-V Mini-ITX PC](https://linuxgizmos.com/milk-v-reveals-technical-specs-of-milk-v-jupiter-risc-v-mini-itx-pc/)
-- [Microsoft informs customers that Russian hackers spied on emails](https://www.reuters.com/technology/cybersecurity/microsoft-tells-clients-russian-hackers-viewed-emails-bloomberg-news-reports-2024-06-27/)
-- [Mourning Daniel Bristot de Oliveira](https://lwn.net/Articles/979912/)
+- [Google begs court for relief from Epic Games&#39; Play Store demands](https://www.theregister.com/2024/06/26/google_begs_court_for_relief/)
+- [Elixir Anti-Patterns](https://hexdocs.pm/elixir/main/code-anti-patterns.html)
+- [Our Underground Future &lpar;2012&rpar;](https://www.bostonglobe.com/ideas/2012/06/23/underground-space/PvxyWFdXXYhPPlQVVU0a8K/story.html)
+- [Real Chaos, Today – Randomised controlled trials in economics](https://someunpleasant.substack.com/p/real-chaos-today)
+- [I tried to finish a dead man&#39;s novel](https://thewalrus.ca/i-tried-to-finish-a-dead-mans-novel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
