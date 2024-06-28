@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source &#39;Eclipse Theia IDE&#39; Exits Beta to Challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
-- [The true story – as best I can remember – of the origin of Mosaic and Netscape](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
-- [Pompeii fixed potholes with molten iron &lpar;2019&rpar;](https://www.smithsonianmag.com/smart-news/pompeii-fixed-potholes-molten-iron-180972203/)
-- [What Happened to People Magazine?](https://annehelen.substack.com/p/what-happened-to-people-magazine)
-- [Llama-agents: an async-first framework for building production ready agents](https://github.com/run-llama/llama-agents)
+- [Paramount Wipes South Park, Daily Show Clips, and More from Websites](https://www.gamespot.com/articles/paramount-wipes-south-park-daily-show-clips-and-more-from-websites/1100-6524578/)
+- [Migrating from Java 8 to Java 17 II: Notable API Changes Since Java 8](https://igorstechnoclub.com/notable-api-changes-in-java-from-version-8-to-17/)
+- [T-Mobile users enraged as &quot;Un-carrier&quot; breaks promise to never raise prices](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-enraged-as-un-carrier-breaks-promise-to-never-raise-prices/)
+- [Show HN: Focal, a Pomodoro App](https://aabiji.github.io/focal/)
+- [Open source &#39;Eclipse Theia IDE&#39; exits beta to challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
