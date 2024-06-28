@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google begs court for relief from Epic Games&#39; Play Store demands](https://www.theregister.com/2024/06/26/google_begs_court_for_relief/)
+- [US Supreme Court allows cities to ban homeless camps](https://www.bbc.com/news/articles/cj774nxrpy7o)
+- [The NSA Wants Carte Blanche for Warrantless Surveillance](https://www.thenation.com/article/world/nsa-warrantless-surveillance/)
+- [Show HN: Six Degrees of Reform UK – Mapping the UK&#39;s Entrepreneurial Far Right](https://adu.autonomy.work/posts/2024_06_28_reform/)
 - [Elixir Anti-Patterns](https://hexdocs.pm/elixir/main/code-anti-patterns.html)
 - [Our Underground Future &lpar;2012&rpar;](https://www.bostonglobe.com/ideas/2012/06/23/underground-space/PvxyWFdXXYhPPlQVVU0a8K/story.html)
-- [Real Chaos, Today – Randomised controlled trials in economics](https://someunpleasant.substack.com/p/real-chaos-today)
-- [I tried to finish a dead man&#39;s novel](https://thewalrus.ca/i-tried-to-finish-a-dead-mans-novel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
