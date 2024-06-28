@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Frame.work laptop now available in Denmark, Finland, and Sweden](https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690)
 - [Software galaxies](https://anvaka.github.io/pm/)
 - [Investigating SSMEC&#39;s &lpar;State Micro&rpar; 486s with the UCA](https://x86.fr/investigating-ssmecs-state-micro-486s-with-the-uca/)
 - [Space Ghost: Coast to Coast and the Birth of the Weird &lpar;2016&rpar;](https://www.vulture.com/2016/10/space-ghost-coast-to-coast-and-the-birth-of-the-weird.html)
 - [Aeon: OpenSUSE for Lazy Developers](https://lwn.net/Articles/977987/)
-- [Hardware FPGA DPS-8M Mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
