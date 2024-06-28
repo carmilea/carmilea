@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zuckerberg disses closed-source AI competitors as trying to &#39;create God&#39;](https://techcrunch.com/2024/06/27/zuckerberg-disses-closed-source-ai-competitors-as-trying-to-create-god/)
-- [Supreme Court guts agency power in seismic Chevron ruling](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling)
-- [ChatGPT is hallucinating fake links to its news partners&#39; biggest investigations](https://www.niemanlab.org/2024/06/chatgpt-is-hallucinating-fake-links-to-its-news-partners-biggest-investigations/)
 - [Apple II graphics: More than you wanted to know](https://nicole.express/2024/phasing-in-and-out-of-existence.html)
 - [New ways to catch gravitational waves](https://www.nature.com/articles/d41586-024-02003-6)
+- [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
+- [Substack Is Hiring Systems Engineers to Build a New Economic Engine for Culture](https://grnh.se/4f362fed5us)
+- [The Rhisotope Project: Insertion of radioisotopes into live rhinoceros](https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
