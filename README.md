@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Jerry Liu on LLMs Adding Connectors to Different Data Stores](https://www.youtube.com/watch?v=jo9WCsnsexk)
+- [The Evolution of the LlamaIndex, Jerry Liu](https://www.youtube.com/watch?v=ZXlM2wQi5iI)
 - [Jerry Liu, CEO of LlamaIndex Talks About Low-Latency &amp; Live GenAI Use Cases](https://www.youtube.com/watch?v=M51csmDHWws)
 - [LlamaIndex and Real World AI Implementations](https://www.youtube.com/watch?v=F7JJzMH9O0Y)
 - [Product Launch: Unfreeze your Iceberg Lakehouse and Power Intelligent Applications](https://www.youtube.com/watch?v=P7Bq_eSL6r8)
-- [Jerry Liu, co-founder and CEO of LlamaIndex Talks About Vector Search.](https://www.youtube.com/watch?v=QOz8HD3TPp8)
-- [Premal Shah, the Co-Founder of 6sense on unlocking the power of intent data.](https://www.youtube.com/watch?v=ItupUOGfI48)
 <!-- YOUTUBE:END -->
 
 
