@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA and Boeing deny Starliner crew is stranded: We&#39;re not in rush to come home](https://techcrunch.com/2024/06/28/nasa-and-boeing-deny-starliner-crew-is-stranded-were-not-in-any-rush-to-come-home/)
 - [Nango &lpar;YC W23&rpar; Is Hiring a Senior Product Engineer &lpar;100% Remote, EST Timezone&rpar;](https://www.nango.dev/jobs)
 - [Panama Papers: Court acquits all 28 charged with money laundering](https://www.bbc.com/news/articles/cjer3llen42o)
 - [A Bunch of Programming Advice I&#39;d Give to Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
-- [How I overcame my addiction to sugar](https://josem.co/how-i-overcame-my-addiction-to-sugar/)
-- [Ticketmaster has begun warning customers about data breach](https://stackdiary.com/ticketmaster-has-begun-warning-customers-about-data-breach/)
+- [A violent gang&#39;s ruthless crypto-stealing home invasion spree](https://www.wired.com/story/crypto-home-invasion-crime-ring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
