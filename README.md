@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;It&#39;s completely invasive&#39;: New app lets you spy on SF bars](https://sfstandard.com/2024/06/29/2night-live-stream-bars-privacy-concerns/)
-- [Microsofts AI boss thinks its perfectly OK to steal content if its on open web](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)
-- [USB HID deevice class definition [pdf]](https://www.usb.org/sites/default/files/hid1_11.pdf)
-- [Ask HN: How to find a new job when I&#39;m not good at networking?](https://news.ycombinator.com/item?id=40833149)
-- [Small Businesses in Crisis as Rising Numbers Unable to Pay Rent](https://www.newsweek.com/small-businesses-crisis-rising-numbers-unable-pay-rent-1895480)
+- [NuExtract: A LLM for Structured Extraction](https://huggingface.co/numind/NuExtract)
+- [The Operational Wargame Series: The best game not in stores now &lpar;2021&rpar;](https://nodicenoglory.com/2021/06/23/the-operational-wargame-series-the-best-game-not-in-stores-now/)
+- [Overleaf: An open-source online real-time collaborative LaTeX editor](https://github.com/overleaf/overleaf)
+- [Integrating  DynamoDB and SingleStore](https://www.singlestore.com/blog/integrating-dynamodb-and-singlestore)
+- [AirPods fast connect security vulnerability](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
