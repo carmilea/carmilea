@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft pauses Windows 11 update as it&#39;s sending some PCs into infinite reboot](https://www.techradar.com/computing/windows/microsoft-pauses-windows-11-update-as-its-sending-some-pcs-into-an-infinite-reboot-hell)
 - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
-- [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
 - [The CIDR trie data structure](https://d34dl0ck.me/rust-bites-cidr-trie/index.html)
 - [Show HN: Focal, a Pomodoro App](https://aabiji.github.io/focal/)
 - [Open source &#39;Eclipse Theia IDE&#39; exits beta to challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
