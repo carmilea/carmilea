@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft pauses Windows 11 update as it&#39;s sending some PCs into infinite reboot](https://www.techradar.com/computing/windows/microsoft-pauses-windows-11-update-as-its-sending-some-pcs-into-an-infinite-reboot-hell)
-- [DevOps: The Funeral](https://logical.li/blog/devops/)
+- [The &#39;Pay Phone Bandit&#39; Who Baffled the FBI in the &#39;80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
+- [OpenLoco: Modern, open source version of the classic transport simulation game](https://openloco.io/)
 - [Hacking Amazon&#39;s Eero 6 &lpar;part 1&rpar;](https://markuta.com/eero-6-hacking-part-1/)
 - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
-- [Category Theory Using String Diagrams &lpar;2014&rpar;](https://arxiv.org/abs/1401.7220)
+- [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
