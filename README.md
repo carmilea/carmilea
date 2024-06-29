@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A mean-reversion strategy with 26% annual returns &lpar;multiple instruments&rpar;](https://www.quantitativo.com/p/robustness-of-the-211-sharpe-mean)
+- [Small Businesses in Crisis as Rising Numbers Unable to Pay Rent](https://www.newsweek.com/small-businesses-crisis-rising-numbers-unable-pay-rent-1895480)
 - [Integrating  DynamoDB and SingleStore](https://www.singlestore.com/blog/integrating-dynamodb-and-singlestore)
-- [Enhancing New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
+- [Open-LLM performances are plateauing](https://huggingface.co/spaces/open-llm-leaderboard/blog)
 - [AirPods fast connect security vulnerability](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/)
-- [Thousands of Pablo Picasso’s works in a new online archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
-- [Python toolkit for quantitative finance](https://github.com/goldmansachs/gs-quant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
