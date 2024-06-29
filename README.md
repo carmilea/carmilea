@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Paramount Wipes South Park, Daily Show Clips, and More from Websites](https://www.gamespot.com/articles/paramount-wipes-south-park-daily-show-clips-and-more-from-websites/1100-6524578/)
-- [Migrating from Java 8 to Java 17 II: Notable API Changes Since Java 8](https://igorstechnoclub.com/notable-api-changes-in-java-from-version-8-to-17/)
-- [T-Mobile users enraged as &quot;Un-carrier&quot; breaks promise to never raise prices](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-enraged-as-un-carrier-breaks-promise-to-never-raise-prices/)
+- [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
+- [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
+- [The CIDR trie data structure](https://d34dl0ck.me/rust-bites-cidr-trie/index.html)
 - [Show HN: Focal, a Pomodoro App](https://aabiji.github.io/focal/)
 - [Open source &#39;Eclipse Theia IDE&#39; exits beta to challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
 <!-- BLOG-POST-LIST:END -->
