@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Work Hard &lpar;2007&rpar;](https://terrytao.wordpress.com/career-advice/work-hard/)
+- [Anatomy of a Cryptocurrency Scam Operation](https://practicalsecurity.substack.com/p/anatomy-of-a-cryptocurrency-scam)
+- [Study implying divorce more likely when wives fall ill gets axed &lpar;2015&rpar;](https://retractionwatch.com/2015/07/21/to-our-horror-widely-reported-study-suggesting-divorce-is-more-likely-when-wives-fall-ill-gets-axed/)
 - [For the record: You just ordered me to cause a expensive outage](https://www.theregister.com/2024/06/28/on_call/)
-- [Show HN: Protect your links with a password](https://www.protectmylink.xyz/)
-- [The Economics of Writing Technical Books](https://architectelevator.com/strategy/book-author-economics/)
-- [Bytecode Breakdown: Unraveling Factorio&#39;s Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
-- [Nango &lpar;YC W23&rpar; Is Hiring a Senior Product Engineer &lpar;100% Remote, EST Timezone&rpar;](https://www.nango.dev/jobs)
+- [Will we die from minor scratches in the future? Q&amp;A antibiotic resistance expert](https://theconversation.com/will-we-really-die-from-minor-scratches-in-the-future-qanda-with-antibiotic-resistance-expert-232118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
