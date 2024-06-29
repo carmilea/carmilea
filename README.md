@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Picasso Museum in Paris Puts Thousands of His Works in New Online Archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
+- [Thousands of Pablo Picasso’s works in a new online archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
+- [Python toolkit for quantitative finance](https://github.com/goldmansachs/gs-quant)
+- [Show HN: Pickcode – Free online code editor for kids](https://pickcode.io)
 - [Anatomy of a Cryptocurrency Scam Operation](https://practicalsecurity.substack.com/p/anatomy-of-a-cryptocurrency-scam)
 - [Tiny bright objects discovered at dawn of universe baffle scientists](https://phys.org/news/2024-06-tiny-bright-dawn-universe-baffle.html)
-- [Bitcoin windfall for Mt. Gox creditors after 10 year wait, 10,000% price spike](https://www.cnbc.com/2024/06/29/bitcoin-windfall-comes-for-mt-gox-creditors-after-10000percent-price-spike.html)
-- [Controlling Warpage in Advanced Packages](https://semiengineering.com/controlling-warpage-in-advanced-packages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
