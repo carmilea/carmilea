@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ticketmaster has begun warning customers about data breach](https://stackdiary.com/ticketmaster-has-begun-warning-customers-about-data-breach/)
 - [I&#39;m Terrified of Old People](https://guzey.com/old-people/)
 - [All web &quot;content&quot; is freeware](https://rubenerd.com/all-web-content-is-freeware/)
 - [Microsoft CEO of AI Your online content is &#39;freeware&#39; fodder for training models](https://www.theregister.com/2024/06/28/microsoft_ceo_ai/)
 - [Raycast &lpar;YC W20&rpar; Is Hiring a Senior Product Designer &lpar;UTC ± 3 Hours&rpar;](https://www.raycast.com/jobs/senior-product-designer)
-- [AMD MI300x GPUs with GEMM tuning improves throughput and latency by up to 7.2x](https://www.nscale.com/blog/nscale-benchmarks-amd-mi300x-gpus-with-gemm-tuning-improves-throughput-and-latency-by-up-to-7-2x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
