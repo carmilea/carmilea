@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA and Boeing deny Starliner crew is stranded: We&#39;re not in rush to come home](https://techcrunch.com/2024/06/28/nasa-and-boeing-deny-starliner-crew-is-stranded-were-not-in-any-rush-to-come-home/)
 - [Nango &lpar;YC W23&rpar; Is Hiring a Senior Product Engineer &lpar;100% Remote, EST Timezone&rpar;](https://www.nango.dev/jobs)
-- [Panama Papers: Court acquits all 28 charged with money laundering](https://www.bbc.com/news/articles/cjer3llen42o)
+- [&#39;Skeleton Key&#39; attack unlocks the worst of AI, says Microsoft](https://www.theregister.com/2024/06/28/microsoft_skeleton_key_ai_attack/)
+- [OctoPrint&#39;s anonymous usage stats were manipulated](https://octoprint.org/blog/2024/06/28/stats-manipulation/)
 - [A Bunch of Programming Advice I&#39;d Give to Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
-- [A violent gang&#39;s ruthless crypto-stealing home invasion spree](https://www.wired.com/story/crypto-home-invasion-crime-ring/)
+- [Developer experience: What is it and why should you care? &lpar;2023&rpar;](https://github.blog/2023-06-08-developer-experience-what-is-it-and-why-should-you-care/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
