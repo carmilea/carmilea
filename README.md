@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating  DynamoDB and SingleStore](https://www.singlestore.com/blog/integrating-dynamodb-and-singlestore)
+- [Enhancing New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
+- [AirPods fast connect security vulnerability](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/)
 - [Thousands of Pablo Picasso’s works in a new online archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
 - [Python toolkit for quantitative finance](https://github.com/goldmansachs/gs-quant)
-- [Show HN: Pickcode – Free online code editor for kids](https://pickcode.io)
-- [Anatomy of a Cryptocurrency Scam Operation](https://practicalsecurity.substack.com/p/anatomy-of-a-cryptocurrency-scam)
-- [Tiny bright objects discovered at dawn of universe baffle scientists](https://phys.org/news/2024-06-tiny-bright-dawn-universe-baffle.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
