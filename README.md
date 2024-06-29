@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft pauses Windows 11 update as it&#39;s sending some PCs into infinite reboot](https://www.techradar.com/computing/windows/microsoft-pauses-windows-11-update-as-its-sending-some-pcs-into-an-infinite-reboot-hell)
+- [DevOps: The Funeral](https://logical.li/blog/devops/)
+- [Hacking Amazon&#39;s Eero 6 &lpar;part 1&rpar;](https://markuta.com/eero-6-hacking-part-1/)
 - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
-- [The CIDR trie data structure](https://d34dl0ck.me/rust-bites-cidr-trie/index.html)
-- [Show HN: Focal, a Pomodoro App](https://aabiji.github.io/focal/)
-- [Open source &#39;Eclipse Theia IDE&#39; exits beta to challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
+- [Category Theory Using String Diagrams &lpar;2014&rpar;](https://arxiv.org/abs/1401.7220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
