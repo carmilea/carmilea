@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The &#39;Pay Phone Bandit&#39; Who Baffled the FBI in the &#39;80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
 - [OpenLoco: Modern, open source version of the classic transport simulation game](https://openloco.io/)
-- [Hacking Amazon&#39;s Eero 6 &lpar;part 1&rpar;](https://markuta.com/eero-6-hacking-part-1/)
 - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
 - [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
+- [Category Theory Using String Diagrams &lpar;2014&rpar;](https://arxiv.org/abs/1401.7220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
