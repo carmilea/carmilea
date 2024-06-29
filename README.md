@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Framework Laptop 16, six months later](https://www.theverge.com/24185827/framework-laptop-16-six-months-later-review)
+- [Nango &lpar;YC W23&rpar; Is Hiring a Senior Product Engineer &lpar;100% Remote, EST Timezone&rpar;](https://www.nango.dev/jobs)
+- [Panama Papers: Court acquits all 28 charged with money laundering](https://www.bbc.com/news/articles/cjer3llen42o)
+- [A Bunch of Programming Advice I&#39;d Give to Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
+- [How I overcame my addiction to sugar](https://josem.co/how-i-overcame-my-addiction-to-sugar/)
 - [Ticketmaster has begun warning customers about data breach](https://stackdiary.com/ticketmaster-has-begun-warning-customers-about-data-breach/)
-- [It&#39;s not just you, Next.js is getting harder to use](https://www.propelauth.com/post/nextjs-challenges)
-- [A Hex Editor for Reverse Engineers](https://github.com/WerWolv/ImHex)
-- [All web &quot;content&quot; is freeware](https://rubenerd.com/all-web-content-is-freeware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
