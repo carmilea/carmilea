@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Work Hard &lpar;2007&rpar;](https://terrytao.wordpress.com/career-advice/work-hard/)
+- [Picasso Museum in Paris Puts Thousands of His Works in New Online Archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
 - [Anatomy of a Cryptocurrency Scam Operation](https://practicalsecurity.substack.com/p/anatomy-of-a-cryptocurrency-scam)
-- [Study implying divorce more likely when wives fall ill gets axed &lpar;2015&rpar;](https://retractionwatch.com/2015/07/21/to-our-horror-widely-reported-study-suggesting-divorce-is-more-likely-when-wives-fall-ill-gets-axed/)
-- [For the record: You just ordered me to cause a expensive outage](https://www.theregister.com/2024/06/28/on_call/)
-- [Will we die from minor scratches in the future? Q&amp;A antibiotic resistance expert](https://theconversation.com/will-we-really-die-from-minor-scratches-in-the-future-qanda-with-antibiotic-resistance-expert-232118)
+- [Tiny bright objects discovered at dawn of universe baffle scientists](https://phys.org/news/2024-06-tiny-bright-dawn-universe-baffle.html)
+- [Bitcoin windfall for Mt. Gox creditors after 10 year wait, 10,000% price spike](https://www.cnbc.com/2024/06/29/bitcoin-windfall-comes-for-mt-gox-creditors-after-10000percent-price-spike.html)
+- [Controlling Warpage in Advanced Packages](https://semiengineering.com/controlling-warpage-in-advanced-packages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
