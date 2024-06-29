@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast &lpar;YC W20&rpar; Is Hiring a Senior Product Designer &lpar;UTC ± 3 Hours&rpar;](https://www.raycast.com/jobs/senior-product-designer)
+- [How to waste bandwidth, battery power, and annoy sysadmins](https://rachelbythebay.com/w/2024/06/28/fxios/)
 - [Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad](https://skypath.io)
-- [The &#39;Pay Phone Bandit&#39; Who Baffled the FBI in the &#39;80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
+- [The &#39;pay phone bandit&#39; who baffled the FBI in the &#39;80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
 - [OpenLoco: Modern, open source version of the classic transport simulation game](https://openloco.io/)
-- [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
-- [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
