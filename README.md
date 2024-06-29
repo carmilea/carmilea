@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [R1 jailbreakers find security flaw in Rabbit&#39;s code](https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase)
-- [Warren Buffett donates record $5.3B Berkshire shares to charity](https://www.reuters.com/business/warren-buffett-donate-up-53-bln-berkshire-shares-2024-06-28/)
+- [For the record: You just ordered me to cause a expensive outage](https://www.theregister.com/2024/06/28/on_call/)
+- [Show HN: Protect your links with a password](https://www.protectmylink.xyz/)
+- [The Economics of Writing Technical Books](https://architectelevator.com/strategy/book-author-economics/)
 - [Bytecode Breakdown: Unraveling Factorio&#39;s Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
 - [Nango &lpar;YC W23&rpar; Is Hiring a Senior Product Engineer &lpar;100% Remote, EST Timezone&rpar;](https://www.nango.dev/jobs)
-- [A Bunch of Programming Advice I&#39;d Give to Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
