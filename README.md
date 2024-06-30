@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NuExtract: A LLM for Structured Extraction](https://huggingface.co/numind/NuExtract)
-- [The Operational Wargame Series: The best game not in stores now &lpar;2021&rpar;](https://nodicenoglory.com/2021/06/23/the-operational-wargame-series-the-best-game-not-in-stores-now/)
-- [Overleaf: An open-source online real-time collaborative LaTeX editor](https://github.com/overleaf/overleaf)
-- [Integrating  DynamoDB and SingleStore](https://www.singlestore.com/blog/integrating-dynamodb-and-singlestore)
-- [AirPods fast connect security vulnerability](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/)
+- [Chr – terminal editor inspired by Turbo Pascal editor from 1997](https://github.com/istoph/editor)
+- [Patagonia gave its staff 3 days to decide to relocate or quit](https://www.businessinsider.com/patagonia-cx-staff-told-to-relocate-or-leave-california-2024-6)
+- [Redbox Owner Chicken Soup for the Soul Files for Chapter 11](https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730/)
+- [Trilobites killed by volcanic ash reveal features never seen before](https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html)
+- [CVE-2021-4440: A Linux CNA Case Study](https://grsecurity.net/cve-2021-4440_linux_cna_case_study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
