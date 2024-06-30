@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Choosing Your Next Database](https://www.singlestore.com/blog/choosing-your-next-database)
 - [Postzegelcode](https://en.wikipedia.org/wiki/Postzegelcode)
-- [Why Monotonous Repetition Is Unsatisfying](https://patterns.architexturez.net/doc/az-cf-172605)
+- [Why monotonous repetition is unsatisfying](https://patterns.architexturez.net/doc/az-cf-172605)
 - [Combine multiple RSS feeds into a single feed, as a service](https://github.com/chase-seibert/rsscombine)
 - [Writing GUI apps for Windows is painful](https://tulach.cc/writing-gui-apps-for-windows-is-painful/)
-- [A simplified Python simulation of diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
