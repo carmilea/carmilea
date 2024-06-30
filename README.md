@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrej Karpathy on X: &quot;100% Software 2.0 computer.Just a single neural net](https://twitter.com/karpathy/status/1807497426816946333)
+- [Slack AI](https://slack.com/features/ai?nojsmode=1)
+- [The Lives of Others &lpar;2006 film&rpar;](https://en.wikipedia.org/wiki/The_Lives_of_Others)
 - [Google Arts and Culture site I didn&#39;t know existed](https://artsandculture.google.com/)
-- [California approves final high-speed rail link connecting San Francisco to LA](https://www.sfchronicle.com/bayarea/article/california-high-speed-rail-19542125.php)
-- [Convolutions, Fast Fourier Transform and Polynomials](https://www.alvarorevuelta.com/posts/fft-polynomials)
+- [Convolutions, Fast Fourier Transform and polynomials &lpar;2022&rpar;](https://www.alvarorevuelta.com/posts/fft-polynomials)
 - [Choosing Your Next Database](https://www.singlestore.com/blog/choosing-your-next-database)
 <!-- BLOG-POST-LIST:END -->
 
