@@ -59,8 +59,8 @@
 - [Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser](https://twitter.com/rauchg/status/1806385778064564622)
 - [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
 - [Redbox Owner Chicken Soup for the Soul Files for Chapter 11](https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730/)
-- [My philosophy of exceptions: they&#39;re always ambiguous &lpar;2021&rpar;](https://adamhooper.medium.com/my-philosophy-of-exceptions-theyre-always-ambiguous-9b419d2ccbef)
-- [Trilobites killed by volcanic ash reveal features never seen before](https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html)
+- [Trilobites killed by volcanic ash](https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html)
+- [CVE-2021-4440: A Linux CNA Case Study](https://grsecurity.net/cve-2021-4440_linux_cna_case_study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
