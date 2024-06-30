@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Immune response study explains why some people don&#39;t get Covid-19](https://news.ycombinator.com/item?id=40836648)
+- [How the 1904 Marathon Became One of the Weirdest Olympic Events of All Time](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)
 - [An Analog Network of Resistors Promises Machine Learning Without a Processor](https://www.hackster.io/news/an-analog-network-of-resistors-promises-machine-learning-without-a-processor-researchers-say-d9cb0655b7a0)
 - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 - [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
