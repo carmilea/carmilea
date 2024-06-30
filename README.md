@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma defaults to train AI models on personal data](https://help.figma.com/hc/en-us/articles/17725942479127-Control-AI-features-and-content-training-settings)
-- [POSIX 2004 Changes](https://sortix.org/blog/posix-2024/)
-- [MIT robotics pioneer Rodney Brooks thinks people are vastly overestimating AI](https://techcrunch.com/2024/06/29/mit-robotics-pioneer-rodney-brooks-thinks-people-are-vastly-overestimating-generative-ai/)
-- [Figma will use your content to train its AI](https://stackdiary.com/figma-will-use-your-content-to-train-its-ai/)
-- [Capcom and GOG to release the original Resident Evil trilogy](https://www.gog.com/en/news/capcom_and_gog_join_forces_to_release_the_original_resident_evil_trilogy)
+- [Anti-aging molecule successfully restores multiple markers of youth](https://newatlas.com/biology/tac-anti-aging-molecule/)
+- [Volkswagen Willing to Pay $1B Just to Look at Rivian&#39;s Software](https://www.autoevolution.com/news/volkswagen-so-desperate-it-s-willing-to-pay-1-billion-just-to-look-at-rivian-s-software-235988.html)
+- [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
+- [Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser](https://twitter.com/rauchg/status/1806385778064564622)
+- [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
