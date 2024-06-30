@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The EU regulates that by 2027, all phones be equipped with replaceable batteries](https://twitter.com/mingchikuo/status/1807432542934732953)
+- [Combine multiple RSS feeds into a single feed, as a service](https://github.com/chase-seibert/rsscombine)
+- [Writing GUI apps for Windows is painful](https://tulach.cc/writing-gui-apps-for-windows-is-painful/)
+- [A simplified Python simulation of diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
 - [Canada &#39;sleepwalking&#39; into cashless society, consumer advocates warn](https://www.cbc.ca/news/canada/ottawa/canada-sleepwalking-into-cashless-society-consumer-advocates-warn-1.7248846)
-- [Hoping for a Miracle to Save the Ogallala Aquifer? Prepare for the New Dust Bowl](https://kansasreflector.com/2024/06/30/hoping-for-a-miracle-to-save-the-ogallala-aquifer-prepare-for-the-new-dust-bowl/)
-- [Microsoft 1998 = Apple 2024](https://ianbetteridge.com/2024/06/27/microsoft-1998-apple-2024/)
-- [Bitmovin &lpar;YC S15&rpar; is hiring video solution architects in the US](https://bitmovin.com/careers/senior-solutions-engineer-us-7504149002)
-- [A live ranking of airlines by how much luggage they are losing](https://luggagelosers.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
