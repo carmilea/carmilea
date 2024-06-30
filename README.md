@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA rover discovers mysterious Mars boulder unlike any others](https://mashable.com/article/nasa-mars-rover-boulder-discovery)
+- [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 - [Financial services shun AI over job and regulatory fears](https://www.ft.com/content/0675e4d9-62a1-4d6c-9098-a8cb0d1e32ed)
 - [OpenDNS Suspends Service in France Due to Canal+ Piracy Blocking Order](https://torrentfreak.com/opendns-suspends-service-in-france-due-to-canal-piracy-blocking-order-240629/)
 - [Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser](https://twitter.com/rauchg/status/1806385778064564622)
