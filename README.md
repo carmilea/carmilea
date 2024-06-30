@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anti-aging molecule successfully restores multiple markers of youth](https://newatlas.com/biology/tac-anti-aging-molecule/)
-- [Volkswagen Willing to Pay $1B Just to Look at Rivian&#39;s Software](https://www.autoevolution.com/news/volkswagen-so-desperate-it-s-willing-to-pay-1-billion-just-to-look-at-rivian-s-software-235988.html)
 - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
-- [Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser](https://twitter.com/rauchg/status/1806385778064564622)
 - [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
+- [How Coffee Helped the Union Caffeinate Its Way to Victory in the Civil War](https://www.smithsonianmag.com/history/how-coffee-helped-the-union-caffeinate-their-way-victory-civil-war-180984502/)
+- [Trilobites killed by volcanic ash](https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html)
+- [The Operational Wargame Series: The best game not in stores now &lpar;2021&rpar;](https://nodicenoglory.com/2021/06/23/the-operational-wargame-series-the-best-game-not-in-stores-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
