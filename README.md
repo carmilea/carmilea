@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring Video Solution Architects in the US](https://bitmovin.com/careers/senior-solutions-engineer-us-7504149002)
-- [Show HN: Drop-In SQS Replacement Based on SQLite](https://github.com/poundifdef/SmoothMQ)
-- [Power station&#39;s last coal delivery arrives by rail](https://www.bbc.co.uk/news/articles/ckkg0wl7dkro)
-- [Why the world needs systems leadership, not selfish leadership](https://www.weforum.org/agenda/2019/11/why-the-world-needs-systems-leadership-not-selfish-leadership/)
-- [Below MI – IBM I for Hackers](https://silentsignal.github.io/BelowMI/)
+- [Canada &#39;sleepwalking&#39; into cashless society, consumer advocates warn](https://www.cbc.ca/news/canada/ottawa/canada-sleepwalking-into-cashless-society-consumer-advocates-warn-1.7248846)
+- [Hoping for a Miracle to Save the Ogallala Aquifer? Prepare for the New Dust Bowl](https://kansasreflector.com/2024/06/30/hoping-for-a-miracle-to-save-the-ogallala-aquifer-prepare-for-the-new-dust-bowl/)
+- [Microsoft 1998 = Apple 2024](https://ianbetteridge.com/2024/06/27/microsoft-1998-apple-2024/)
+- [Bitmovin &lpar;YC S15&rpar; is hiring video solution architects in the US](https://bitmovin.com/careers/senior-solutions-engineer-us-7504149002)
+- [A live ranking of airlines by how much luggage they are losing](https://luggagelosers.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
