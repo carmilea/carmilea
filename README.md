@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-healing &#39;living skin&#39; can make robots more humanlike](https://www.livescience.com/technology/robotics/self-healing-living-skin-can-make-robots-more-humanlike-and-it-looks-just-as-creepy-as-youd-expect)
-- [Goldman Sachs says the return on investment for AI might be disappointing](https://www.businessinsider.com/ai-return-investment-disappointing-goldman-sachs-report-2024-6)
-- [Ask HN: Any tool to generate AI images with exact same uploaded product images?](https://news.ycombinator.com/item?id=40836773)
-- [How the 1904 Marathon Became One of the Weirdest Olympic Events of All Time](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)
-- [An Analog Network of Resistors Promises Machine Learning Without a Processor](https://www.hackster.io/news/an-analog-network-of-resistors-promises-machine-learning-without-a-processor-researchers-say-d9cb0655b7a0)
+- [Dev rejects CVE severity, makes his GitHub repo read-only](https://www.bleepingcomputer.com/news/security/dev-rejects-cve-severity-makes-his-github-repo-read-only/)
+- [Re: Supreme Court&#39;s Loper decision: offer some thought someone who has litigated](https://twitter.com/BrendanCarrFCC/status/1807206127987208470)
+- [Are rainy days ahead for cloud computing?](https://www.bbc.com/news/articles/cd114lllyp6o)
+- [Show HN: Drop-In SQS Replacement Based on SQLite](https://github.com/poundifdef/SmoothMQ)
+- [Power station&#39;s last coal delivery arrives by rail](https://www.bbc.co.uk/news/articles/ckkg0wl7dkro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
