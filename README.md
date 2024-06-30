@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev rejects CVE severity, makes his GitHub repo read-only](https://www.bleepingcomputer.com/news/security/dev-rejects-cve-severity-makes-his-github-repo-read-only/)
-- [Re: Supreme Court&#39;s Loper decision: offer some thought someone who has litigated](https://twitter.com/BrendanCarrFCC/status/1807206127987208470)
-- [Are rainy days ahead for cloud computing?](https://www.bbc.com/news/articles/cd114lllyp6o)
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring Video Solution Architects in the US](https://bitmovin.com/careers/senior-solutions-engineer-us-7504149002)
 - [Show HN: Drop-In SQS Replacement Based on SQLite](https://github.com/poundifdef/SmoothMQ)
 - [Power station&#39;s last coal delivery arrives by rail](https://www.bbc.co.uk/news/articles/ckkg0wl7dkro)
+- [Why the world needs systems leadership, not selfish leadership](https://www.weforum.org/agenda/2019/11/why-the-world-needs-systems-leadership-not-selfish-leadership/)
+- [Below MI – IBM I for Hackers](https://silentsignal.github.io/BelowMI/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
