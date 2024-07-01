@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fisker Went Bankrupt. What Do Its EV Owners Do Next?](https://www.wired.com/story/fisker-went-bankrupt-what-do-its-ev-owners-do-next/)
-- [John Deere Laying Off 600 Workers in Flagship Dubuque Factory for Mexico](https://www.entrepreneur.com/business-news/john-deere-laying-off-600-workers-eyes-mexico-production/476433)
+- [Ask HN: what are examples of successful &quot;open-source alternatives&quot;?](https://news.ycombinator.com/item?id=40848998)
+- [Pharma firms stash profits in Europe&#39;s tax havens](https://www.investigate-europe.eu/posts/deadly-prices-pharma-firms-stash-profits-in-europes-tax-havens-as-patients-struggle-with-drug-prices)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
+- [A Survey of General-Purpose Polyhedral Compilers](https://dl.acm.org/doi/abs/10.1145/3674735)
 - [Supreme Court rules ex-presidents have immunity for official acts](https://apnews.com/article/supreme-court-trump-capitol-riot-immunity-2dc0d1c2368d404adc0054151490f542)
-- [Show HN: Doggo – A powerful, human-friendly DNS client for the command line](https://doggo.mrkaran.dev/docs/)
-- [Using SIMD for Parallel Processing in Rust](https://nrempel.com/using-simd-for-parallel-processing-in-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
