@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RegreSSHion: RCE in OpenSSH&#39;s server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
-- [An Open Letter to the United Nations](https://open-internet-governance.org/letter)
-- [Cities Need More Trees](https://herman.bearblog.dev/cities-need-more-trees/)
-- [Show HN: An open-source alternative to Bitly](https://github.com/ccbikai/Sink)
-- [Falsehoods Software Developers Believe About Event-Driven Systems](https://dimtion.fr/blog/falsehoods-event-driven/)
+- [What makes a good tree? We used AI to ask birds](https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281)
+- [OpenSSH Race condition resulting in potential remote code execution](https://www.openssh.com/txt/release-9.8)
+- [Webneko – a desktop screenmate ported to web](https://webneko.net/)
+- [Show HN: I created an After Effects alternative](https://pikimov.com/)
+- [My finetuned models beat OpenAI&#39;s GPT-4](https://mlops.systems/posts/2024-07-01-full-finetuned-model-evaluation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
