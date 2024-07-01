@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The A.I. Boom Has an Unlikely Early Winner: Wonky Consultants](https://www.nytimes.com/2024/06/26/technology/ai-consultants.html)
+- [Multivitamin does not improve longevity](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820369)
 - [Can a law make social media less &#39;addictive&#39;?](https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive)
 - [How Google migrated billions of lines of code from Perforce to Piper](https://graphite.dev/blog/google-perforce-to-piper-migration)
-- [Programmers Should Never Trust Anyone, Not Even Themselves](https://carbon-steel.github.io/jekyll/update/2024/06/19/abstractions.html)
-- [Boeing Agrees to Buy Spirit AeroSystems, a Longtime Supplier](https://www.nytimes.com/2024/07/01/business/boeing-spirit-aerosystems-acquisition.html)
-- [Four lines of code it was four lines of code](https://boston.conman.org/2024/06/30.1)
+- [Show HN: BerqWP – Automatically Optimize Core Web Vitals for WordPress](https://berqwp.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
