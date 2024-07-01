@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [DOJ to offer Boeing &quot;sweetheart&quot; plea deal in pursuit of criminal charges](https://www.cnn.com/2024/06/30/business/boeing-plea-deal/index.html)
+- [A Model of a Mind](https://tylerneylon.com/a/mind_model/mind_model.html)
 - [Nyquest NY8A051H – 1.5 cent microcontroller: weekend die-shot](https://zeptobars.com/en/read/Nyquest-Technology-NY8A051H-8051-smallest-microcontroller)
 - [Matters Computational [pdf]](http://www.jjj.de/fxt/#fxtbook)
 - [Google Arts and Culture site I didn&#39;t know existed](https://artsandculture.google.com/)
-- [Chaos Engineering in Front End Development: Enhancing Application Resilience](https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
