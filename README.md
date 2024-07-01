@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to Ladybird](https://ladybird.org/)
 - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
 - [Optery &lpar;YC W22&rpar; Is Hiring Back End Engineers &lpar;Python and Django&rpar; &amp; Sales &lpar;Remote&rpar;](https://www.ycombinator.com/companies/optery/jobs)
 - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
-- [Diagonalism, the Cosmic Right and the Conspiracy Smoothie](https://bellacaledonia.org.uk/2024/06/26/diagonalism-the-cosmic-right-and-the-conspiracy-smoothie/)
-- [What makes a good tree? We used AI to ask birds](https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281)
+- [An arc welder in the datacenter: what could possibly go wrong?](https://www.theregister.com/2024/07/01/who_me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
