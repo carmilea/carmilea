@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can a law make social media less &#39;addictive&#39;?](https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive)
+- [How Google migrated billions of lines of code from Perforce to Piper](https://graphite.dev/blog/google-perforce-to-piper-migration)
+- [Programmers Should Never Trust Anyone, Not Even Themselves](https://carbon-steel.github.io/jekyll/update/2024/06/19/abstractions.html)
 - [Boeing Agrees to Buy Spirit AeroSystems, a Longtime Supplier](https://www.nytimes.com/2024/07/01/business/boeing-spirit-aerosystems-acquisition.html)
 - [Four lines of code it was four lines of code](https://boston.conman.org/2024/06/30.1)
-- [Integrated assembler improvements in LLVM 19](https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19)
-- [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
-- [Userland rootkits are lame &lpar;2022&rpar;](https://grugq.substack.com/p/userland-rootkits-are-lame)
 <!-- BLOG-POST-LIST:END -->
 
 ---
