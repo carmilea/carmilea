@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: what are examples of successful &quot;open-source alternatives&quot;?](https://news.ycombinator.com/item?id=40848998)
+- [An open letter to the United Nations](https://open-internet-governance.org/letter)
+- [Climate change to shift tropical rains northward, suggests computer modeling](https://smartwatermagazine.com/news/university-california-riverside/climate-change-shift-tropical-rains-northward-suggests-computer)
 - [Pharma firms stash profits in Europe&#39;s tax havens](https://www.investigate-europe.eu/posts/deadly-prices-pharma-firms-stash-profits-in-europes-tax-havens-as-patients-struggle-with-drug-prices)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
-- [A Survey of General-Purpose Polyhedral Compilers](https://dl.acm.org/doi/abs/10.1145/3674735)
 - [Supreme Court rules ex-presidents have immunity for official acts](https://apnews.com/article/supreme-court-trump-capitol-riot-immunity-2dc0d1c2368d404adc0054151490f542)
 <!-- BLOG-POST-LIST:END -->
 
