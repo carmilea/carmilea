@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We are at our most creative just before we fall asleep, scientists say](https://www.weforum.org/agenda/2022/01/creativity-hotspot-just-before-sleep/)
 - [Company offers unofficial security patches for Windows 10 until 2030](https://www.tomshardware.com/software/windows/company-offers-unofficial-security-patches-for-windows-10-until-2030)
+- [Schema and Pipeline Inference for SingleStore](https://www.singlestore.com/blog/schema-and-pipeline-inference-for-singlestore)
 - [A Proof of Proof by Infinite Descent](http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html)
-- [Venezuela is first Andean country to lose all of its glaciers](https://www.nbcnews.com/news/latino/-great-sadness-venezuela-first-andean-country-lose-glaciers-rcna153784)
-- [When RAND made magic in Santa Monica](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
+- [Run Chromium on Vercel without external services](https://chromium-on-vercel.vercel.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
