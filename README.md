@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
 - [Optery &lpar;YC W22&rpar; Is Hiring Back End Engineers &lpar;Python and Django&rpar; &amp; Sales &lpar;Remote&rpar;](https://www.ycombinator.com/companies/optery/jobs)
-- [Pakistani court sentences man to death for social media post](https://apnews.com/article/pakistan-blasphemy-christian-death-sentence-mob-9fbaf36d5c78659d58a414f7f048ce8a)
-- [Neuromancer was released 40 years ago today](https://en.wikipedia.org/wiki/Neuromancer)
-- [Uncomfortable truth: How close is &quot;positivity culture&quot; to delusion and denial?](https://jakeseliger.com/2024/06/24/uncomfortable-truth-how-close-is-positivity-culture-to-delusion-and-denial/)
+- [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
 - [Diagonalism, the Cosmic Right and the Conspiracy Smoothie](https://bellacaledonia.org.uk/2024/06/26/diagonalism-the-cosmic-right-and-the-conspiracy-smoothie/)
+- [What makes a good tree? We used AI to ask birds](https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281)
 <!-- BLOG-POST-LIST:END -->
 
 ---
