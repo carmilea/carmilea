@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eating meat with lower carbon footprint often means killing more animals](https://ourworldindata.org/what-are-the-trade-offs-between-animal-welfare-and-the-environmental-impact-of-meat)
+- [US Supreme Court throws out rulings on state laws regulating social media](https://www.reuters.com/legal/us-supreme-court-set-decide-fate-texas-florida-social-media-laws-2024-07-01/)
 - [Ask HN: Who is hiring? &lpar;July 2024&rpar;](https://news.ycombinator.com/item?id=40846428)
-- [Welcome to Ladybird](https://ladybird.org/)
-- [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
-- [Optery &lpar;YC W22&rpar; Is Hiring Back End Engineers &lpar;Python and Django&rpar; &amp; Sales &lpar;Remote&rpar;](https://www.ycombinator.com/companies/optery/jobs)
-- [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
+- [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
+- [Writing HTML by hand is easier than debugging your static site generator](https://logicgrimoire.wordpress.com/2024/07/01/writing-html-by-hand-is-easier-than-debugging-your-static-site-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
