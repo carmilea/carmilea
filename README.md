@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Report shows that AAA games for iPhone and iPad aren&#39;t a hit with users](https://9to5mac.com/2024/06/28/aaa-games-iphone-ipad-arent-a-hit/)
+- [Four lines of code it was four lines of code](https://boston.conman.org/2024/06/30.1)
 - [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
-- [Microsoft lays hands on login data: Beware of the new Outlook](https://www.heise.de/en/news/Microsoft-lays-hands-on-login-data-Beware-of-the-new-Outlook-9608798.html)
-- [DOJ to offer Boeing &quot;sweetheart&quot; plea deal in pursuit of criminal charges](https://www.cnn.com/2024/06/30/business/boeing-plea-deal/index.html)
 - [Userland rootkits are lame &lpar;2022&rpar;](https://grugq.substack.com/p/userland-rootkits-are-lame)
+- [A Model of a Mind](https://tylerneylon.com/a/mind_model/mind_model.html)
+- [Matters Computational [pdf]](http://www.jjj.de/fxt/#fxtbook)
 <!-- BLOG-POST-LIST:END -->
 
 ---
