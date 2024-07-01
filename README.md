@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uncomfortable truth: How close is &quot;positivity culture&quot; to delusion and denial?](https://jakeseliger.com/2024/06/24/uncomfortable-truth-how-close-is-positivity-culture-to-delusion-and-denial/)
+- [Show HN: Find Visa Sponsorsip and Relocation Support Jobs](https://www.relocateforwork.com/)
+- [DOJ readying criminal charges against Boeing for deadly 737 MAX crashes](https://www.politico.com/news/2024/06/30/doj-criminal-charges-boeing-00165992)
 - [What makes a good tree? We used AI to ask birds](https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281)
-- [OpenSSH Race condition resulting in potential remote code execution](https://www.openssh.com/txt/release-9.8)
-- [Webneko – a desktop screenmate ported to web](https://webneko.net/)
-- [Show HN: I created an After Effects alternative](https://pikimov.com/)
-- [My finetuned models beat OpenAI&#39;s GPT-4](https://mlops.systems/posts/2024-07-01-full-finetuned-model-evaluation.html)
+- [Show HN: AI assisted image editing with audio instructions](https://github.com/ShaShekhar/aaiela)
 <!-- BLOG-POST-LIST:END -->
 
 ---
