@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Stop Asking &quot;Why Do You Want to Work for Us?&quot; In Interviews](https://nelson.cloud/lets-stop-asking-why-do-you-want-to-work-for-us-in-interviews/)
+- [Boeing Agrees to Buy Spirit AeroSystems, a Longtime Supplier](https://www.nytimes.com/2024/07/01/business/boeing-spirit-aerosystems-acquisition.html)
 - [Four lines of code it was four lines of code](https://boston.conman.org/2024/06/30.1)
 - [Integrated assembler improvements in LLVM 19](https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19)
 - [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
