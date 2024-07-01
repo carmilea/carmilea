@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Who is hiring? &lpar;July 2024&rpar;](https://news.ycombinator.com/item?id=40846428)
 - [Welcome to Ladybird](https://ladybird.org/)
 - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
 - [Optery &lpar;YC W22&rpar; Is Hiring Back End Engineers &lpar;Python and Django&rpar; &amp; Sales &lpar;Remote&rpar;](https://www.ycombinator.com/companies/optery/jobs)
 - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
-- [An arc welder in the datacenter: what could possibly go wrong?](https://www.theregister.com/2024/07/01/who_me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
