@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The A.I. Boom Has an Unlikely Early Winner: Wonky Consultants](https://www.nytimes.com/2024/06/26/technology/ai-consultants.html)
-- [Multivitamin does not improve longevity](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820369)
-- [Can a law make social media less &#39;addictive&#39;?](https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive)
-- [How Google migrated billions of lines of code from Perforce to Piper](https://graphite.dev/blog/google-perforce-to-piper-migration)
-- [Show HN: BerqWP – Automatically Optimize Core Web Vitals for WordPress](https://berqwp.com/)
+- [RegreSSHion: RCE in OpenSSH&#39;s server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
+- [An Open Letter to the United Nations](https://open-internet-governance.org/letter)
+- [Cities Need More Trees](https://herman.bearblog.dev/cities-need-more-trees/)
+- [Show HN: An open-source alternative to Bitly](https://github.com/ccbikai/Sink)
+- [Falsehoods Software Developers Believe About Event-Driven Systems](https://dimtion.fr/blog/falsehoods-event-driven/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
