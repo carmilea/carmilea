@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML-ivating your Django web app with Htmx, AlpineJS, and streaming HTML](https://www.youtube.com/watch?v=kYV8K71pY64)
-- [What goes around comes around and around [pdf]](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
-- [Ask HN: Who is hiring? &lpar;July 2024&rpar;](https://news.ycombinator.com/item?id=40846428)
-- [Ask HN: Who wants to be hired? &lpar;July 2024&rpar;](https://news.ycombinator.com/item?id=40846426)
-- [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
+- [Fisker Went Bankrupt. What Do Its EV Owners Do Next?](https://www.wired.com/story/fisker-went-bankrupt-what-do-its-ev-owners-do-next/)
+- [John Deere Laying Off 600 Workers in Flagship Dubuque Factory for Mexico](https://www.entrepreneur.com/business-news/john-deere-laying-off-600-workers-eyes-mexico-production/476433)
+- [Supreme Court rules ex-presidents have immunity for official acts](https://apnews.com/article/supreme-court-trump-capitol-riot-immunity-2dc0d1c2368d404adc0054151490f542)
+- [Show HN: Doggo – A powerful, human-friendly DNS client for the command line](https://doggo.mrkaran.dev/docs/)
+- [Using SIMD for Parallel Processing in Rust](https://nrempel.com/using-simd-for-parallel-processing-in-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
