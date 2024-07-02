@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Poised to Get OpenAI Board Observer Role as Part of AI Pact](https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement)
-- [America&#39;s startup boom around remote work and technology is still going strong](https://www.npr.org/sections/planet-money/2024/07/02/g-s1-7139/economy-startup-boom-america-productivity)
-- [Figma pulls AI tool after criticism that it ripped off Apple&#39;s design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
-- [Google&#39;s carbon emissions surge nearly 50% due to AI energy demand](https://www.cnbc.com/2024/07/02/googles-carbon-emissions-surge-nearly-50percent-due-to-ai-energy-demand.html)
-- [An epigenetic editor to silence genes](https://www.science.org/doi/10.1126/science.adq3334)
+- [Ask HN: Should I use React for a personal portfolio?](https://news.ycombinator.com/item?id=40860643)
+- [Explainability is not a game](https://cacm.acm.org/research/explainability-is-not-a-game/)
+- [Australia out of natural gas, pays gas companies to export its reserves](https://www.smh.com.au/politics/federal/does-gas-rich-australia-really-need-to-start-importing-it-20240702-p5jqi4.html)
+- [Apple poised to get OpenAI board observer role as part of AI pact](https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement)
+- [Show HN: I made a search engine for Hacker News](https://hackernews.demo.vectara.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
