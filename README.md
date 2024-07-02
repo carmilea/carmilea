@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Poised to Get OpenAI Board Observer Role as Part of AI Pact](https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement)
+- [America&#39;s startup boom around remote work and technology is still going strong](https://www.npr.org/sections/planet-money/2024/07/02/g-s1-7139/economy-startup-boom-america-productivity)
+- [Figma pulls AI tool after criticism that it ripped off Apple&#39;s design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
 - [Google&#39;s carbon emissions surge nearly 50% due to AI energy demand](https://www.cnbc.com/2024/07/02/googles-carbon-emissions-surge-nearly-50percent-due-to-ai-energy-demand.html)
-- [Migrating Your Generative AI Apps From Rockset to SingleStore: A Guide for Engineers](https://www.singlestore.com/blog/transitioning-your-generative-ai-apps-from-rockset-to-singlestore)
-- [Nuclear spectroscopy breakthrough could rewrite fundamental constants of nature](https://newsroom.ucla.edu/releases/nuclear-spectroscopy-breakthrough-could-rewrite-fundamental-constants-of-nature)
-- [The Submarine &lpar;2005&rpar;](https://paulgraham.com/submarine.html)
-- [Any Game of Life pattern can be constructed from just 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
+- [An epigenetic editor to silence genes](https://www.science.org/doi/10.1126/science.adq3334)
 <!-- BLOG-POST-LIST:END -->
 
 ---
