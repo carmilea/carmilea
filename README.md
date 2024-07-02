@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to Ladybird, a truly independent web browser](https://ladybird.org/index.html)
+- [DETRs Beat YOLOs on Real-Time Object Detection](https://zhao-yian.github.io/RTDETR/)
 - [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
 - [Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
 - [Booting Linux Off of Google Drive](https://ersei.net/en/blog/fuse-root)
-- [Did Turing prove the undecidability of the halting problem?](https://arxiv.org/abs/2407.00680)
-- [Autoscaling in SingleStore Helios®](https://www.singlestore.com/blog/autoscaling-singlestore-helios-)
 <!-- BLOG-POST-LIST:END -->
 
 ---
