@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Htmx does not play well with content security policy](https://www.sjoerdlangkemper.nl/2024/06/26/htmx-content-security-policy/)
-- [Tech went from free love to pay-per-click](https://www.theregister.com/2024/07/02/foss_ai_blockchain/)
-- [Welcome to Ladybird, a truly independent web browser](https://ladybird.org/index.html)
+- [Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist &lpar;EU-Based&rpar;](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist)
+- [Figma AI is a rip-off engine](https://daringfireball.net/linked/2024/07/01/figma-ai-ripoff-engine)
 - [Microsoft Updated Phi-3](https://twitter.com/reach_vb/status/1808056108319179012)
-- [DETRs Beat YOLOs on Real-Time Object Detection](https://zhao-yian.github.io/RTDETR/)
+- [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
+- [Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
 <!-- BLOG-POST-LIST:END -->
 
 ---
