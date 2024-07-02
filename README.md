@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why refrigerators and other kitchen appliances break so easily now](https://www.washingtonpost.com/home/2024/07/02/why-refrigerator-oven-dishwasher-break/)
+- [Nuclear spectroscopy breakthrough could rewrite fundamental constants of nature](https://newsroom.ucla.edu/releases/nuclear-spectroscopy-breakthrough-could-rewrite-fundamental-constants-of-nature)
 - [Bruce Bastian, WordPerfect co-creator, has died](https://www.heraldextra.com/news/local/2024/jun/17/bruce-bastian-byu-alum-turned-tech-pioneer-and-equality-advocate-dies-at-76/)
 - [OmniAI &lpar;YC W24&rpar; Is Hiring a Founding Engineer in SF](https://www.workatastartup.com/jobs/67540)
 - [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
-- [GraphRAG &lpar;from Microsoft&rpar; is now open-source!](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
+- [GraphRAG is now on GitHub](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
