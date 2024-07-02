@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We are at our most creative just before we fall asleep, scientists say](https://www.weforum.org/agenda/2022/01/creativity-hotspot-just-before-sleep/)
-- [Company offers unofficial security patches for Windows 10 until 2030](https://www.tomshardware.com/software/windows/company-offers-unofficial-security-patches-for-windows-10-until-2030)
-- [Schema and Pipeline Inference for SingleStore](https://www.singlestore.com/blog/schema-and-pipeline-inference-for-singlestore)
-- [A Proof of Proof by Infinite Descent](http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html)
-- [Run Chromium on Vercel without external services](https://chromium-on-vercel.vercel.app)
+- [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
+- [Switzerland mandates software source code disclosure for public sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-open-source-law-switzerland)
+- [Getting the World Record in Hatetris &lpar;2022&rpar;](https://hallofdreams.org/posts/hatetris/)
+- [Code reviews do find bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
+- [Building Query Lambdas with SingleStore&#39;s TVF and Data API](https://www.singlestore.com/blog/building-query-lambdas-with-singlestore-tvf-and-data-api)
 <!-- BLOG-POST-LIST:END -->
 
 ---
