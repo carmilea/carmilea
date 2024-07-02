@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ginkgo Bioworks &#39;A Hoax for the Ages,&#39;](https://www.fiercebiotech.com/medtech/ginkgo-bioworks-suffers-short-attack-firm-calling-it-a-hoax-for-ages)
+- [The case against morning yoga, daily routines, and endless meetings](https://andrewchen.substack.com/p/10x-work-versus-1x-work)
 - [Why Is Chile So Long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
 - [Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist &lpar;EU-Based&rpar;](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist)
-- [Some sanity for C and C++ development on Windows](https://nullprogram.com/blog/2021/12/30/)
-- [WhoDB: Lightweight next-gen database explorer](https://github.com/clidey/whodb)
 - [Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)
 <!-- BLOG-POST-LIST:END -->
 
