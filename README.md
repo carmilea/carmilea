@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Surprise Manga Lines](https://alvaromontoro.com/blog/68054/css-manga-lines)
+- [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
+- [A WFH &#39;culture war&#39; has broken out across Europe](https://fortune.com/europe/2024/07/02/uk-most-wfh-friendly-country-europe-culture-war-france-lags-behind/)
+- [50 Years of Rubik&#39;s Cube](https://www.rubiks.com/history#timeline)
 - [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
 - [The history of Alt+number sequences](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
-- [With fifth busy beaver, researchers approach computation&#39;s limits](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/)
-- [Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks](https://github.com/pretzelai/pretzelai/blob/main/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
