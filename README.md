@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Autoscaling in SingleStore Helios®](https://www.singlestore.com/blog/autoscaling-singlestore-helios-)
 - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
-- [Switzerland mandates software source code disclosure for public sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-open-source-law-switzerland)
 - [Getting the World Record in Hatetris &lpar;2022&rpar;](https://hallofdreams.org/posts/hatetris/)
 - [Code reviews do find bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
 - [Building Query Lambdas with SingleStore&#39;s TVF and Data API](https://www.singlestore.com/blog/building-query-lambdas-with-singlestore-tvf-and-data-api)
