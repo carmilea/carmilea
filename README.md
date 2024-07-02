@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Figma AI looks rather trained on existing apps](https://twitter.com/asallen/status/1807675146020454808)
 - [Autoscaling in SingleStore Helios®](https://www.singlestore.com/blog/autoscaling-singlestore-helios-)
 - [Remote Unauthenticated Code Execution in OpenSSH Server](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server)
 - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
 - [Getting the World Record in Hatetris &lpar;2022&rpar;](https://hallofdreams.org/posts/hatetris/)
-- [Code reviews do find bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
