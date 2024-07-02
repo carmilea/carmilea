@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OmniAI &lpar;YC W24&rpar; Is Hiring a Founding Engineer in SF](https://www.workatastartup.com/jobs/67540)
 - [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
-- [A WFH &#39;culture war&#39; has broken out across Europe](https://fortune.com/europe/2024/07/02/uk-most-wfh-friendly-country-europe-culture-war-france-lags-behind/)
-- [50 Years of Rubik&#39;s Cube](https://www.rubiks.com/history#timeline)
+- [GraphRAG &lpar;from Microsoft&rpar; is now open-source!](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
 - [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
 - [The history of Alt+number sequences](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
 <!-- BLOG-POST-LIST:END -->
