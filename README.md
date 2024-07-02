@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [Brazil data regulator bans Meta from mining data to train AI models](https://apnews.com/article/brazil-tech-meta-privacy-data-93e00b2e0e26f7cc98795dd052aea8e1)
+- [$105B Electronics Giant Sony to Launch New Bitcoin Exchange](https://bitcoinmagazine.com/business/105-billion-electronics-giant-sony-to-launch-new-bitcoin-exchange)
+- [Python Modern Practices](https://www.stuartellis.name/articles/python-modern-practices/)
 - [Ask HN: Should I use React for a personal portfolio?](https://news.ycombinator.com/item?id=40860643)
-- [Explainability is not a game](https://cacm.acm.org/research/explainability-is-not-a-game/)
-- [Australia out of natural gas, pays gas companies to export its reserves](https://www.smh.com.au/politics/federal/does-gas-rich-australia-really-need-to-start-importing-it-20240702-p5jqi4.html)
-- [Apple poised to get OpenAI board observer role as part of AI pact](https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement)
-- [Show HN: I made a search engine for Hacker News](https://hackernews.demo.vectara.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
