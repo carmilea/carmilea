@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
 - [Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
 - [Booting Linux Off of Google Drive](https://ersei.net/en/blog/fuse-root)
 - [Did Turing prove the undecidability of the halting problem?](https://arxiv.org/abs/2407.00680)
 - [Autoscaling in SingleStore Helios®](https://www.singlestore.com/blog/autoscaling-singlestore-helios-)
-- [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
