@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [AI and Data Can Save Lives](https://www.youtube.com/watch?v=daFVBXbunpA)
+- [Jack Ellis on Building Fathom Analytics, a Google Analytics Alternative](https://www.youtube.com/watch?v=EbnxJkjIYec)
 - [The Evolution &amp; History of RAG by Jerry Liu, CEO of LlamaIndex.](https://www.youtube.com/watch?v=lxhvJxD-0Io)
 - [The Ultimate Guide to Building a Successful Online Store using LlamaCloud](https://www.youtube.com/watch?v=v01NOg1fAJ0)
 - [Jerry Liu on LLMs Adding Connectors to Different Data Stores](https://www.youtube.com/watch?v=jo9WCsnsexk)
-- [The Evolution of the LlamaIndex, Jerry Liu](https://www.youtube.com/watch?v=ZXlM2wQi5iI)
-- [Jerry Liu, CEO of LlamaIndex Talks About Low-Latency &amp; Live GenAI Use Cases](https://www.youtube.com/watch?v=M51csmDHWws)
 <!-- YOUTUBE:END -->
 
 
