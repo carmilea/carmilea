@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ginkgo Bioworks &#39;A Hoax for the Ages,&#39;](https://www.fiercebiotech.com/medtech/ginkgo-bioworks-suffers-short-attack-firm-calling-it-a-hoax-for-ages)
-- [The case against morning yoga, daily routines, and endless meetings](https://andrewchen.substack.com/p/10x-work-versus-1x-work)
-- [Why Is Chile So Long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
-- [Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist &lpar;EU-Based&rpar;](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist)
-- [Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)
+- [CSS Surprise Manga Lines](https://alvaromontoro.com/blog/68054/css-manga-lines)
+- [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
+- [The history of Alt+number sequences](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
+- [With fifth busy beaver, researchers approach computation&#39;s limits](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/)
+- [Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks](https://github.com/pretzelai/pretzelai/blob/main/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
