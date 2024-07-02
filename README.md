@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Is Chile So Long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
 - [Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist &lpar;EU-Based&rpar;](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist)
-- [Figma AI is a rip-off engine](https://daringfireball.net/linked/2024/07/01/figma-ai-ripoff-engine)
-- [Microsoft Updated Phi-3](https://twitter.com/reach_vb/status/1808056108319179012)
-- [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
-- [Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
+- [Some sanity for C and C++ development on Windows](https://nullprogram.com/blog/2021/12/30/)
+- [WhoDB: Lightweight next-gen database explorer](https://github.com/clidey/whodb)
+- [Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
