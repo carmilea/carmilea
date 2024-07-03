@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moshi: A voice AI that can display emotions](https://twitter.com/kyutai_labs/status/1808590638306197520)
+- [Ladybird web browser funded by GitHub co-founder, promises &#39;no code&#39; from rivals](https://devclass.com/2024/07/03/ladybird-web-browser-project-now-funded-by-github-co-founder-promises-no-code-from-other-browsers/)
+- [Commercial Chapter 11 Filings Increase 70% in First Half of 2024](https://www.abladvisor.com/news/38903/commercial-chapter-11-filings-increase-70-in-first-half-of-2024)
 - [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
-- [Introducing Voice Isolator and Background Noise Remover](https://elevenlabs.io/voice-isolator)
-- [Luakit: A fast, extensible, and customizable web browser](https://luakit.github.io/)
-- [Building Query Lambdas With SingleStore&#39;s TVF and Data API, Part II](https://www.singlestore.com/blog/building-query-lambdas-with-singlestore-tvf-and-data-api-part-2)
+- [Show HN: Open Sourcing Our No-Code WebXR Editor After 5 Years of Development](https://github.com/transferthought/transfer-thought)
+- [AI&#39;s $600B Question](https://www.sequoiacap.com/article/ais-600b-question/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
