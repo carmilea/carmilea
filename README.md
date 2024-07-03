@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ladybird web browser funded by GitHub co-founder, promises &#39;no code&#39; from rivals](https://devclass.com/2024/07/03/ladybird-web-browser-project-now-funded-by-github-co-founder-promises-no-code-from-other-browsers/)
-- [Commercial Chapter 11 Filings Increase 70% in First Half of 2024](https://www.abladvisor.com/news/38903/commercial-chapter-11-filings-increase-70-in-first-half-of-2024)
+- [NASA selects SpaceX to launch a gamma-ray telescope into an unusual orbit](https://arstechnica.com/space/2024/07/spacex-selected-to-launch-nasa-mission-probing-the-creation-of-matter/)
+- [The Origins of DS_store &lpar;2006&rpar;](https://www.arno.org/on-the-origins-of-ds-store)
+- [The Joy of Reading Books You Don&#39;t Understand](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
+- [Guide on optimizing Linux kernel with BOLT](https://github.com/llvm/llvm-project/blob/main/bolt/docs/OptimizingLinux.md)
 - [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
-- [Show HN: Open Sourcing Our No-Code WebXR Editor After 5 Years of Development](https://github.com/transferthought/transfer-thought)
-- [AI&#39;s $600B Question](https://www.sequoiacap.com/article/ais-600b-question/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
