@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Converge &lpar;YC S23&rpar; Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
 - [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
+- [The Fourier Transform: What&#39;s Wrong with It?](https://blog.endaq.com/the-fourier-transform-whats-wrong-with-it)
 - [Reproducibility in Disguise](https://fzakaria.com/2024/07/02/reproducibility-in-disguise.html)
 - [Why AI Infrastructure Startups Are Insanely Hard to Build](https://nextword.substack.com/p/why-ai-infrastructure-startups-are)
-- [Study reveals why AI models that analyze medical images can be biased](https://medicalxpress.com/news/2024-06-reveals-ai-medical-images-biased.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
