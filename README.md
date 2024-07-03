@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents That Matter](https://www.aisnakeoil.com/p/new-paper-ai-agents-that-matter)
-- [JRuby funding at Red Hat stopped – call for sponsors](https://blog.jruby.org/2024/07/independence-day)
+- [Introducing Voice Isolator and Background Noise Remover](https://elevenlabs.io/voice-isolator)
+- [Luakit: A fast, extensible, and customizable web browser](https://luakit.github.io/)
 - [Building Query Lambdas With SingleStore&#39;s TVF and Data API, Part II](https://www.singlestore.com/blog/building-query-lambdas-with-singlestore-tvf-and-data-api-part-2)
 - [Spice &lpar;YC S19&rpar; Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)
 - [A practical introduction to constraint programming using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
