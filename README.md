@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google now pays $250k for KVM zero-day vulnerabilities](https://www.bleepingcomputer.com/news/security/google-now-pays-250-000-for-kvm-zero-day-vulnerabilities/)
+- [Dear Julia, Dear Yuri](https://celebratio.org/Robinson_JB/article/964/)
+- [Show HN: Improve LLM Performance by Maximizing Iterative Development](https://github.com/palico-ai/palico-ai)
 - [The Biggest Problem in Mathematics Is Finally a Step Closer to Being Solved](https://www.scientificamerican.com/article/the-riemann-hypothesis-the-biggest-problem-in-mathematics-is-a-step-closer/)
-- [Neuroscientists must not be afraid to study religion](https://www.nature.com/articles/d41586-024-02153-7)
-- [Chinese AI stirs panic at European geoscience society](https://www.science.org/content/article/chinese-ai-stirs-panic-european-geoscience-society)
-- [HuggingFace releases support for tool-use and RAG models](https://github.com/huggingface/transformers/releases/tag/v4.42.0)
-- [The Rise of Packet Rate Attacks: When Core Routers Turn Evil](https://blog.ovhcloud.com/the-rise-of-packet-rate-attacks-when-core-routers-turn-evil/)
+- [MIT: Raising State Minimum Wages, Lowering Community College Enrollment](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01457/120871/Raising-State-Minimum-Wages-Lowering-Community?redirectedFrom=fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
