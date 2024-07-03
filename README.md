@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dolphin Emulator changes to a rolling release model](https://dolphin-emu.org/blog/2024/07/02/dolphin-releases-announcement/)
-- [Deutsche Bahn struggles to shake off &#39;travel hell&#39; reputation](https://www.ft.com/content/f3af1c0c-311b-4f2f-9469-8756faed382a)
+- [&#39;Almost whole island homeless&#39; in Hurricane Beryl&#39;s wake](https://www.bbc.com/news/articles/c724x1rjlpno)
 - [Developing Inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)
 - [Converge &lpar;YC S23&rpar; Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
-- [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
+- [The Fourier Transform: What&#39;s Wrong with It?](https://blog.endaq.com/the-fourier-transform-whats-wrong-with-it)
+- [Why AI Infrastructure Startups Are Insanely Hard to Build](https://nextword.substack.com/p/why-ai-infrastructure-startups-are)
 <!-- BLOG-POST-LIST:END -->
 
 ---
