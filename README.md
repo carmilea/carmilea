@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hurricane Beryl Isn&#39;t a Freak Storm–It&#39;s the Nightmare Meteorologists Predicted](https://www.wired.com/story/hurricane-beryl-category-5-storm-extreme-weather-summer-2024/)
+- [The legacy of Liverpool&#39;s forgotten synchrocyclotron](https://physicsworld.com/a/the-legacy-of-liverpools-forgotten-synchrocyclotron/)
+- [Building AI-powered SWE tools: Essential technical considerations for founders](https://www.innovationendeavors.com/insights/building-ai-powered-software-engineering-tools-essential-technical-considerations-for-founders)
 - [Do not taunt happy fun branch predictor &lpar;2023&rpar;](https://www.mattkeeter.com/blog/2023-01-25-branch/)
+- [Ask HN: Has anyone successfully pivoted from web dev to AI/ML development?](https://news.ycombinator.com/item?id=40866311)
 - [Living in a Lucid Dream](https://www.noemamag.com/living-in-a-lucid-dream/)
-- [What Counts as &quot;Strategic&quot;?](https://capitalgains.thediff.co/p/strategy)
-- [Proton launches its own version of Google Docs](https://www.engadget.com/proton-launches-its-own-version-of-google-docs-100044471.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
