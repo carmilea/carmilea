@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK man imprisoned for 4 months after walking up to cops with 6&quot; Master Sword](https://www.pcgamer.com/games/uk-man-imprisoned-for-4-months-after-walking-up-to-cops-wielding-6-inch-master-sword/)
+- [AI Agents That Matter](https://www.aisnakeoil.com/p/new-paper-ai-agents-that-matter)
+- [JRuby funding at Red Hat stopped – call for sponsors](https://blog.jruby.org/2024/07/independence-day)
 - [Building Query Lambdas With SingleStore&#39;s TVF and Data API, Part II](https://www.singlestore.com/blog/building-query-lambdas-with-singlestore-tvf-and-data-api-part-2)
 - [Spice &lpar;YC S19&rpar; Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)
-- [A Practical Introduction to Constraint Programming Using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
-- [Multimodal Canvas: An experiment of Pictionary powered by Gemini 1.5 Flash](https://labs.google/multimodal-canvas)
+- [A practical introduction to constraint programming using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
