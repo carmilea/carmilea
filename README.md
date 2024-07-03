@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Converge &lpar;YC S23&rpar; Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
-- [A Bugatti car, a first lady and the fake stories aimed at Americans](https://www.bbc.co.uk/news/articles/c72ver6172do)
-- [Google&#39;s greenhouse gas emissions jump 48% in five years](https://arstechnica.com/gadgets/2024/07/googles-greenhouse-gas-emissions-jump-48-in-five-years/)
 - [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
 - [Reproducibility in Disguise](https://fzakaria.com/2024/07/02/reproducibility-in-disguise.html)
+- [Why AI Infrastructure Startups Are Insanely Hard to Build](https://nextword.substack.com/p/why-ai-infrastructure-startups-are)
+- [Study reveals why AI models that analyze medical images can be biased](https://medicalxpress.com/news/2024-06-reveals-ai-medical-images-biased.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
