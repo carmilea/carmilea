@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Moshi: A voice AI that can display emotions](https://twitter.com/kyutai_labs/status/1808590638306197520)
+- [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
 - [Introducing Voice Isolator and Background Noise Remover](https://elevenlabs.io/voice-isolator)
 - [Luakit: A fast, extensible, and customizable web browser](https://luakit.github.io/)
 - [Building Query Lambdas With SingleStore&#39;s TVF and Data API, Part II](https://www.singlestore.com/blog/building-query-lambdas-with-singlestore-tvf-and-data-api-part-2)
-- [Spice &lpar;YC S19&rpar; Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)
-- [A practical introduction to constraint programming using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
