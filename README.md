@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Block AI bots, scrapers and crawlers with a single click](https://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click)
+- [Paris Olympics&#39; AC-free ambition melts away as organisers order 2,500 AC units](https://www.france24.com/en/live-news/20240702-no-ac-ambition-for-paris-olympic-village-melts-away)
+- [Build Your Own Lisp &lpar;2014&rpar;](https://www.buildyourownlisp.com/)
+- [&#39;Skinny jabs&#39;: weight-loss drugs set for new boom as generic versions emerge](https://www.theguardian.com/business/article/2024/jun/25/skinny-jabs-weight-loss-drugs-generic-ozempic-wegovy-saxenda)
+- [Weak isolation levels allowed to steal BTC using plain SQL](https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609)
 - [Proton launches its own version of Google Docs](https://www.engadget.com/proton-launches-its-own-version-of-google-docs-100044471.html)
-- [Converge &lpar;YC S23&rpar; Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
-- [Why AI Infrastructure Startups Are Insanely Hard to Build](https://nextword.substack.com/p/why-ai-infrastructure-startups-are)
-- [Dear Julia, Dear Yuri: A mathematical correspondence &lpar;2022&rpar;](https://celebratio.org/Robinson_JB/article/964/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
