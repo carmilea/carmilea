@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [HuggingFace releases support for tool-use and RAG models](https://github.com/huggingface/transformers/releases/tag/v4.42.0)
+- [The Rise of Packet Rate Attacks: When Core Routers Turn Evil](https://blog.ovhcloud.com/the-rise-of-packet-rate-attacks-when-core-routers-turn-evil/)
+- [What makes e natural? &lpar;2004&rpar;](https://www.komal.hu/cikkek/2004-ang/e.e.shtml)
+- [The Illustrated Transformer &lpar;2018&rpar;](https://jalammar.github.io/illustrated-transformer/)
 - [Brazil data regulator bans Meta from mining data to train AI models](https://apnews.com/article/brazil-tech-meta-privacy-data-93e00b2e0e26f7cc98795dd052aea8e1)
-- [$105B Electronics Giant Sony to Launch New Bitcoin Exchange](https://bitcoinmagazine.com/business/105-billion-electronics-giant-sony-to-launch-new-bitcoin-exchange)
-- [Python Modern Practices](https://www.stuartellis.name/articles/python-modern-practices/)
-- [Ask HN: Should I use React for a personal portfolio?](https://news.ycombinator.com/item?id=40860643)
 <!-- BLOG-POST-LIST:END -->
 
 ---
