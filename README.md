@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Heavy resistance training at retirement age induces lasting beneficial effects](https://bmjopensem.bmj.com/content/10/2/e001899)
+- [Reproducibility in Disguise](https://fzakaria.com/2024/07/02/reproducibility-in-disguise.html)
+- [Ask HN: What were interviews like before Leetcode?](https://news.ycombinator.com/item?id=40862475)
 - [Study reveals why AI models that analyze medical images can be biased](https://medicalxpress.com/news/2024-06-reveals-ai-medical-images-biased.html)
 - [Dear Julia, Dear Yuri: A mathematical correspondence &lpar;2022&rpar;](https://celebratio.org/Robinson_JB/article/964/)
 - [Show HN: Improve LLM Performance by Maximizing Iterative Development](https://github.com/palico-ai/palico-ai)
-- [Chinese AI stirs panic at European geoscience society](https://www.science.org/content/article/chinese-ai-stirs-panic-european-geoscience-society)
 <!-- BLOG-POST-LIST:END -->
 
 ---
