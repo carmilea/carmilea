@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Almost whole island homeless&#39; in Hurricane Beryl&#39;s wake](https://www.bbc.com/news/articles/c724x1rjlpno)
-- [Developing Inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)
+- [Block AI bots, scrapers and crawlers with a single click](https://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click)
+- [Proton launches its own version of Google Docs](https://www.engadget.com/proton-launches-its-own-version-of-google-docs-100044471.html)
 - [Converge &lpar;YC S23&rpar; Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
-- [The Fourier Transform: What&#39;s Wrong with It?](https://blog.endaq.com/the-fourier-transform-whats-wrong-with-it)
 - [Why AI Infrastructure Startups Are Insanely Hard to Build](https://nextword.substack.com/p/why-ai-infrastructure-startups-are)
+- [Dear Julia, Dear Yuri: A mathematical correspondence &lpar;2022&rpar;](https://celebratio.org/Robinson_JB/article/964/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
