@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The legacy of Liverpool&#39;s forgotten synchrocyclotron](https://physicsworld.com/a/the-legacy-of-liverpools-forgotten-synchrocyclotron/)
-- [Building AI-powered SWE tools: Essential technical considerations for founders](https://www.innovationendeavors.com/insights/building-ai-powered-software-engineering-tools-essential-technical-considerations-for-founders)
-- [Do not taunt happy fun branch predictor &lpar;2023&rpar;](https://www.mattkeeter.com/blog/2023-01-25-branch/)
-- [Ask HN: Has anyone successfully pivoted from web dev to AI/ML development?](https://news.ycombinator.com/item?id=40866311)
-- [Living in a Lucid Dream](https://www.noemamag.com/living-in-a-lucid-dream/)
+- [Spice &lpar;YC S19&rpar; Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)
+- [Save Freedom: We Must Stop the Destruction of the International Space Station](https://spacenews.com/save-freedom-we-must-stop-the-destruction-of-the-international-space-station/)
+- [Alphabet Winds Down Mineral, Licenses Ag Technology to Berry Producer Driscoll&#39;s](https://www.bloomberg.com/news/articles/2024-07-03/alphabet-shutters-mineral-licenses-ag-tech-to-berry-producer-driscoll-s)
+- [George Orwell Paved Noam Chomsky&#39;s Path to Anarchism](https://thereader.mitpress.mit.edu/how-george-orwell-paved-noam-chomskys-path-to-anarchism/)
+- [8.7 Release Updates for SingleStore Kai™](https://www.singlestore.com/blog/release-updates-singlestore-kai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
