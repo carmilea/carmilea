@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK man imprisoned for 4 months after walking up to cops with 6&quot; Master Sword](https://www.pcgamer.com/games/uk-man-imprisoned-for-4-months-after-walking-up-to-cops-wielding-6-inch-master-sword/)
+- [Building Query Lambdas With SingleStore&#39;s TVF and Data API, Part II](https://www.singlestore.com/blog/building-query-lambdas-with-singlestore-tvf-and-data-api-part-2)
 - [Spice &lpar;YC S19&rpar; Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)
-- [Save Freedom: We Must Stop the Destruction of the International Space Station](https://spacenews.com/save-freedom-we-must-stop-the-destruction-of-the-international-space-station/)
-- [Alphabet Winds Down Mineral, Licenses Ag Technology to Berry Producer Driscoll&#39;s](https://www.bloomberg.com/news/articles/2024-07-03/alphabet-shutters-mineral-licenses-ag-tech-to-berry-producer-driscoll-s)
-- [George Orwell Paved Noam Chomsky&#39;s Path to Anarchism](https://thereader.mitpress.mit.edu/how-george-orwell-paved-noam-chomskys-path-to-anarchism/)
-- [8.7 Release Updates for SingleStore Kai™](https://www.singlestore.com/blog/release-updates-singlestore-kai)
+- [A Practical Introduction to Constraint Programming Using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
+- [Multimodal Canvas: An experiment of Pictionary powered by Gemini 1.5 Flash](https://labs.google/multimodal-canvas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
