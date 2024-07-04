@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA selects SpaceX to launch a gamma-ray telescope into an unusual orbit](https://arstechnica.com/space/2024/07/spacex-selected-to-launch-nasa-mission-probing-the-creation-of-matter/)
-- [The Origins of DS_store &lpar;2006&rpar;](https://www.arno.org/on-the-origins-of-ds-store)
-- [The Joy of Reading Books You Don&#39;t Understand](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
-- [Guide on optimizing Linux kernel with BOLT](https://github.com/llvm/llvm-project/blob/main/bolt/docs/OptimizingLinux.md)
-- [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
+- [New Warp Drive Model Requires No &#39;Exotic Matter,&#39; Scientists Say We Can Build](https://thedebrief.org/new-warp-drive-model-requires-no-exotic-matter-scientists-say-we-can-build-it/)
+- [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
+- [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
+- [A Woman Behind Freud&#39;s First Case Study](https://newrepublic.com/article/182270/anna-o-freud-woman-behind-first-case-study)
+- [USB and the Myth of 500 Milliamps](https://hackaday.com/2024/07/03/usb-and-the-myth-of-500-milliamps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
