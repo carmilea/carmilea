@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mechanical Computer Relies on Kirigami Cubes, Not Electronics](https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/)
+- [Wikipedians are hung up on the meaning of Madonna](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2024-07-04/Discussion_report)
+- [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 - [Twilio Confirms Data Breach After Hackers Leak 33M Authy User Phone Numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
-- [X Window System at 40](https://blog.dshr.org/2024/07/x-window-system-at-40.html)
-- [Show HN: I made a split keyboard for large palms](https://www.jogmekeebs.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
