@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Warp Drive Model Requires No &#39;Exotic Matter,&#39; Scientists Say We Can Build](https://thedebrief.org/new-warp-drive-model-requires-no-exotic-matter-scientists-say-we-can-build-it/)
 - [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
 - [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
 - [A Woman Behind Freud&#39;s First Case Study](https://newrepublic.com/article/182270/anna-o-freud-woman-behind-first-case-study)
-- [USB and the Myth of 500 Milliamps](https://hackaday.com/2024/07/03/usb-and-the-myth-of-500-milliamps/)
+- [The Origins of DS_store &lpar;2006&rpar;](https://www.arno.org/on-the-origins-of-ds-store)
+- [Beating NumPy matrix multiplication in 150 lines of C](https://salykova.github.io/matmul-cpu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
