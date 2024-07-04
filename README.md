@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fly.io initiates Region-specific Machines pricing](https://community.fly.io/t/fresh-produce-region-specific-machines-pricing/20690)
 - [Show HN: I made a split keyboard for large palms](https://www.jogmekeebs.com)
 - [Superintelligence–10 Years Later](https://www.humanityredefined.com/p/superintelligence10-years-later)
 - [Katharine Way, John Wheeler, and the Dawn of Nuclear Fission](https://www.amphilsoc.org/blog/katharine-way-john-wheeler-and-dawn-nuclear-fission)
 - [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
-- [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
