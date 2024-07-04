@@ -58,7 +58,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
 - [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
-- [A Woman Behind Freud&#39;s First Case Study](https://newrepublic.com/article/182270/anna-o-freud-woman-behind-first-case-study)
+- [Diving into deep learning: Understanding Deep Learning book review [pdf]](https://github.com/udlbook/udlbook/blob/main/public/NMI_Review.pdf)
 - [The Origins of DS_store &lpar;2006&rpar;](https://www.arno.org/on-the-origins-of-ds-store)
 - [Beating NumPy matrix multiplication in 150 lines of C](https://salykova.github.io/matmul-cpu)
 <!-- BLOG-POST-LIST:END -->
