@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Vision Pro owners, are you still using it?](https://news.ycombinator.com/item?id=40872102)
+- [Sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
+- [Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion](https://boyuan.space/diffusion-forcing/)
 - [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
 - [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
-- [Diving into deep learning: Understanding Deep Learning book review [pdf]](https://github.com/udlbook/udlbook/blob/main/public/NMI_Review.pdf)
-- [The Origins of DS_store &lpar;2006&rpar;](https://www.arno.org/on-the-origins-of-ds-store)
-- [Beating NumPy matrix multiplication in 150 lines of C](https://salykova.github.io/matmul-cpu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
