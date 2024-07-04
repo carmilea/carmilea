@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Who Wants a Penpal?](https://news.ycombinator.com/item?id=40876568)
+- [The Origin of Ambergris &lpar;2012&rpar;](https://press.uchicago.edu/books/excerpt/2012/kemp_floating.html)
 - [CDC Data From DynamoDB to SingleStore Using DynamoDB Streams](https://www.singlestore.com/blog/cdc-data-from-dynamodb-to-singlestore-using-dynamodb-streams)
-- [Mechanical Computer Relies on Kirigami Cubes, Not Electronics](https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/)
-- [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
-- [Twilio Confirms Data Breach After Hackers Leak 33M Authy User Phone Numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)
-- [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
+- [Mechanical computer relies on kirigami cubes, not electronics](https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/)
+- [Air-Bus Hijacking: Silently Taking over Avionics Systems](https://dl.acm.org/doi/pdf/10.1145/3626205.3659144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
