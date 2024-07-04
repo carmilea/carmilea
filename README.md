@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Vision Pro owners, are you still using it?](https://news.ycombinator.com/item?id=40872102)
+- [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
+- [The saddest &quot;Just Ship It&quot; story ever &lpar;2020&rpar;](https://www.kitze.io/posts/saddest-just-ship-it-story-ever)
 - [Sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
 - [Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion](https://boyuan.space/diffusion-forcing/)
 - [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
-- [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
