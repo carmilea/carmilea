@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gravitational wave researchers cast new light on Antikythera mechanism mystery](https://www.gla.ac.uk/news/headline_1086643_en.html)
-- [SCIM: Ncurses based, Vim-like spreadsheet](https://github.com/andmarti1424/sc-im)
-- [Ask HN: Who Wants a Penpal?](https://news.ycombinator.com/item?id=40876568)
-- [The Origin of Ambergris &lpar;2012&rpar;](https://press.uchicago.edu/books/excerpt/2012/kemp_floating.html)
-- [CDC Data From DynamoDB to SingleStore Using DynamoDB Streams](https://www.singlestore.com/blog/cdc-data-from-dynamodb-to-singlestore-using-dynamodb-streams)
+- [HE.net problem](https://mailman.nanog.org/pipermail/nanog/2024-July/225901.html)
+- [Th64: Tiny Hash Function in C](https://github.com/tidwall/th64)
+- [Batteries: How cheap can they get?](https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get)
+- [Insights from over 10,000 comments on &quot;Ask HN: Who Is Hiring&quot; using GPT-4o](https://tamerc.com/posts/ask-hn-who-is-hiring/)
+- [I made a tool to index websites on Google in less than 48 hours](https://indexblaze.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
