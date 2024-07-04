@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HE.net problem](https://mailman.nanog.org/pipermail/nanog/2024-July/225901.html)
+- [Rollstack &lpar;YC W23&rpar; Is Hiring TypeScript Engineers in Europe. Growing 20% MoM](https://www.ycombinator.com/companies/rollstack-2/jobs/)
+- [NexDock turns your smartphone into a Laptop](https://nexdock.com/)
+- [Japan introduces enormous humanoid robot to maintain train lines](https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines)
 - [Th64: Tiny Hash Function in C](https://github.com/tidwall/th64)
 - [Batteries: How cheap can they get?](https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get)
-- [Insights from over 10,000 comments on &quot;Ask HN: Who Is Hiring&quot; using GPT-4o](https://tamerc.com/posts/ask-hn-who-is-hiring/)
-- [I made a tool to index websites on Google in less than 48 hours](https://indexblaze.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
