@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a split keyboard for large palms](https://www.jogmekeebs.com)
+- [Superintelligence–10 Years Later](https://www.humanityredefined.com/p/superintelligence10-years-later)
 - [Katharine Way, John Wheeler, and the Dawn of Nuclear Fission](https://www.amphilsoc.org/blog/katharine-way-john-wheeler-and-dawn-nuclear-fission)
 - [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
 - [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
-- [The saddest &quot;Just Ship It&quot; story ever &lpar;2020&rpar;](https://www.kitze.io/posts/saddest-just-ship-it-story-ever)
-- [Sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
