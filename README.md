@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gravitational wave researchers cast new light on Antikythera mechanism mystery](https://www.gla.ac.uk/news/headline_1086643_en.html)
+- [SCIM: Ncurses based, Vim-like spreadsheet](https://github.com/andmarti1424/sc-im)
 - [Ask HN: Who Wants a Penpal?](https://news.ycombinator.com/item?id=40876568)
 - [The Origin of Ambergris &lpar;2012&rpar;](https://press.uchicago.edu/books/excerpt/2012/kemp_floating.html)
 - [CDC Data From DynamoDB to SingleStore Using DynamoDB Streams](https://www.singlestore.com/blog/cdc-data-from-dynamodb-to-singlestore-using-dynamodb-streams)
-- [Mechanical computer relies on kirigami cubes, not electronics](https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/)
-- [Air-Bus Hijacking: Silently Taking over Avionics Systems](https://dl.acm.org/doi/pdf/10.1145/3626205.3659144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
