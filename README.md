@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [General Electric HTRE-3 Nuclear Jet Engine](https://planehistoria.com/general-electric-htre-3-nuclear-jet-engine/)
-- [Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
-- [Desalinating Water Is Becoming &quot;Absurdly Cheap&quot;](https://humanprogress.org/desalinating-water-is-becoming-absurdly-cheap/)
-- [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
-- [The Snapdragon X Elite&#39;s Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
+- [So now that Nvidia has far outstripped the market cap of AMD and Intel, …](https://twitter.com/mohapatrahemant/status/1809135345683841050)
+- [Fresh wind blows from supernova recorded in 1181](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00361.html)
+- [Confido &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/confido/jobs/xyw5xRU-full-stack-engineer)
+- [Show HN: I&#39;ve made Keyword Research tool that&#39;s 90% cheaper than anything](https://withtelescope.com)
+- [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
