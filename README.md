@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Carma &lpar;YC W24&rpar; Hiring an 10x Founding Full-Stack Engineer &lpar;Top Base and %&rpar;](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)
+- [Largest nuclear fusion reactor is finally completed](https://www.livescience.com/physics-mathematics/worlds-largest-nuclear-reactor-is-finally-completed-but-it-wont-run-for-another-15-years)
 - [Harvester pulls 1.5 gallons of drinking water from arid air per day](https://newatlas.com/technology/water-harvester-arid-air-mit/)
 - [Put the DVD logo in the corner &lpar;2023&rpar;](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
-- [I was at AMD in the mid-late 2000s helping design CPU/APU/GPUs](https://twitter.com/mohapatrahemant/status/1809135345683841050)
-- [Fresh wind blows from historical supernova](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00361.html)
-- [Confido &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/confido/jobs/xyw5xRU-full-stack-engineer)
+- [The blood substitute? The U.S. military is betting $46M on it – Science – AAAS](https://www.science.org/content/article/ultimate-blood-substitute-us-military-betting-46-million)
 <!-- BLOG-POST-LIST:END -->
 
 ---
