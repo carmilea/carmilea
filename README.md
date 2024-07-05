@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
+- [Even The Pentagon can&#39;t freeze Huawei out of its operations](https://fortune.com/asia/2024/07/03/pentagon-huawei-ban-national-defense-authorization-act/)
 - [The Snapdragon X Elite&#39;s Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 - [Rollstack &lpar;YC W23&rpar; Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
 - [NexDock turns your smartphone into a laptop](https://nexdock.com/)
-- [Japan introduces enormous humanoid robot to maintain train lines](https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines)
-- [Batteries: How cheap can they get?](https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get)
 <!-- BLOG-POST-LIST:END -->
 
 ---
