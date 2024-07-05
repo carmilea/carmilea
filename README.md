@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony Is Killing the Blu-ray, but Physical Media Isn&#39;t Dead Yet](https://www.kotaku.com.au/2024/07/sony-is-killing-the-blu-ray-but-physical-media-isnt-dead-yet/)
 - [&quot;Technical&quot; Skills](https://sashalaundy.com/writing/technical-skills/)
-- [Why Michigan Still Uses a Ford Model T for Official Government Business](https://www.theautopian.com/heres-why-michigan-still-uses-a-ford-model-t-for-official-government-business/)
-- [Could the &#39;flying piano&#39; help transform air cargo?](https://www.bbc.com/news/articles/c0kk4lxe702o)
 - [General Electric HTRE-3 Nuclear Jet Engine](https://planehistoria.com/general-electric-htre-3-nuclear-jet-engine/)
 - [Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
+- [Show HN: I made shopping clothes online easier](https://www.curate.fit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
