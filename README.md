@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What is e to the Power of d/dx? – Shift Operator](https://www.youtube.com/watch?v=INTKzi0qXpY)
+- [Elsevier withdraws plagiarized paper after author calls journal out on LinkedIn](https://retractionwatch.com/2024/07/04/elsevier-withdraws-plagiarized-paper-after-original-author-calls-journal-out-on-linkedin/)
 - [UK election day 2024: traffic trends and attacks on political parties](https://blog.cloudflare.com/uk-election-day-2024-traffic-trends-and-attacks-on-political-parties)
-- [Carma &lpar;YC W24&rpar; Hiring an 10x Founding Full-Stack Engineer &lpar;Top Base and %&rpar;](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)
-- [Ente Auth: open-source Authy alternative for 2FA](https://ente.io/auth/)
-- [Vertical-Align: All You Need to Know &lpar;CSS&rpar;](https://christopheraue.net/design/vertical-align)
-- [Put the DVD logo in the corner &lpar;2023&rpar;](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
+- [Mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
+- [Fossil of Neanderthal child with Down&#39;s syndrome hints early humans&#39; compassion](https://www.theguardian.com/science/article/2024/jun/26/fossil-of-neanderthal-child-with-downs-syndrome-hints-at-early-humans-compassion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
