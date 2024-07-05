@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What is e to the Power of d/dx? – Shift Operator](https://www.youtube.com/watch?v=INTKzi0qXpY)
-- [Elsevier withdraws plagiarized paper after author calls journal out on LinkedIn](https://retractionwatch.com/2024/07/04/elsevier-withdraws-plagiarized-paper-after-original-author-calls-journal-out-on-linkedin/)
+- [&lpar;10&rpar; Rounds of interviews. Never seen something like this before. This is nuts](https://twitter.com/catalinmpit/status/1808930090451153387)
+- [YouTube&#39;s eraser tool removes copyrighted music without impacting other audio](https://techcrunch.com/2024/07/05/youtubes-updated-eraser-tool-removes-copyrighted-music-without-impacting-other-audio/)
+- [PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/)
 - [UK election day 2024: traffic trends and attacks on political parties](https://blog.cloudflare.com/uk-election-day-2024-traffic-trends-and-attacks-on-political-parties)
 - [Mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
-- [Fossil of Neanderthal child with Down&#39;s syndrome hints early humans&#39; compassion](https://www.theguardian.com/science/article/2024/jun/26/fossil-of-neanderthal-child-with-downs-syndrome-hints-at-early-humans-compassion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
