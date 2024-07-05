@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Roku update turns on hated motion-smoothing feature, with no off switch](https://boingboing.net/2024/07/04/roku-update-turns-on-hated-motion-smoothing-feature-with-no-off-switch.html)
 - [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
-- [Even The Pentagon can&#39;t freeze Huawei out of its operations](https://fortune.com/asia/2024/07/03/pentagon-huawei-ban-national-defense-authorization-act/)
 - [The Snapdragon X Elite&#39;s Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 - [Rollstack &lpar;YC W23&rpar; Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
 - [NexDock turns your smartphone into a laptop](https://nexdock.com/)
