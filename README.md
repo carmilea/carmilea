@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;10&rpar; Rounds of interviews. Never seen something like this before. This is nuts](https://twitter.com/catalinmpit/status/1808930090451153387)
-- [YouTube&#39;s eraser tool removes copyrighted music without impacting other audio](https://techcrunch.com/2024/07/05/youtubes-updated-eraser-tool-removes-copyrighted-music-without-impacting-other-audio/)
-- [PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/)
-- [UK election day 2024: traffic trends and attacks on political parties](https://blog.cloudflare.com/uk-election-day-2024-traffic-trends-and-attacks-on-political-parties)
-- [Mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
+- [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Product Engineer &lpar;iOS, Full-Stack&rpar;](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
+- [The Teton Pass collapsed in the most economically unequal county in the country](https://slate.com/business/2024/07/jackson-hole-teton-pass-collapse-inequality-housing.html)
+- [Goldman on Generative AI: doesn&#39;t justify costs or solve complex problems [pdf]](https://web.archive.org/web/20240629140307/http://goldmansachs.com/intelligence/pages/gs-research/gen-ai-too-much-spend-too-little-benefit/report.pdf)
+- [Philip Morris International has funded Japanese academics](https://www.bath.ac.uk/announcements/philip-morris-international-has-secretly-funded-japanese-academics/)
+- [Research into homeopathy: data falsification, fabrication and manipulation](https://www.skeptic.org.uk/2024/07/research-into-homeopathy-data-falsification-fabrication-and-manipulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
