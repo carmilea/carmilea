@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Product Engineer &lpar;iOS, Full-Stack&rpar;](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
-- [The Teton Pass collapsed in the most economically unequal county in the country](https://slate.com/business/2024/07/jackson-hole-teton-pass-collapse-inequality-housing.html)
-- [Goldman on Generative AI: doesn&#39;t justify costs or solve complex problems [pdf]](https://web.archive.org/web/20240629140307/http://goldmansachs.com/intelligence/pages/gs-research/gen-ai-too-much-spend-too-little-benefit/report.pdf)
+- [What if everything is conscious?](https://www.vox.com/future-perfect/353430/what-if-absolutely-everything-is-conscious)
+- [7-Eleven Is Reinventing Its $17B Food Business to Be More Japanese [video]](https://www.youtube.com/watch?v=RATHbP1bAhI)
+- [DJI Announces an Electric Mountain Bike Drive System](https://www.dji.com/sg/newsroom/news/dji-launch-avinox-drive-system-en)
 - [Philip Morris International has funded Japanese academics](https://www.bath.ac.uk/announcements/philip-morris-international-has-secretly-funded-japanese-academics/)
-- [Research into homeopathy: data falsification, fabrication and manipulation](https://www.skeptic.org.uk/2024/07/research-into-homeopathy-data-falsification-fabrication-and-manipulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
