@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uncovering Every Lie in MKBHD&#39;s Softball Interview [video]](https://www.youtube.com/watch?v=Z0DF-MOkotA)
 - [Why Michigan Still Uses a Ford Model T for Official Government Business](https://www.theautopian.com/heres-why-michigan-still-uses-a-ford-model-t-for-official-government-business/)
 - [Could the &#39;flying piano&#39; help transform air cargo?](https://www.bbc.com/news/articles/c0kk4lxe702o)
 - [General Electric HTRE-3 Nuclear Jet Engine](https://planehistoria.com/general-electric-htre-3-nuclear-jet-engine/)
+- [Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
 - [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
 <!-- BLOG-POST-LIST:END -->
 
