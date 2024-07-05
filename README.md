@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Debian GNU/Hurd now can compile 71% of the packages from the Debian archive](https://www.gnu.org/software/hurd/news/2024-q2.html)
-- [Ask HN: Does having a betting/gambling company in your CV hurts your career?](https://news.ycombinator.com/item?id=40882212)
+- [Harvester pulls 1.5 gallons of drinking water from arid air per day](https://newatlas.com/technology/water-harvester-arid-air-mit/)
+- [Put the DVD logo in the corner &lpar;2023&rpar;](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
 - [I was at AMD in the mid-late 2000s helping design CPU/APU/GPUs](https://twitter.com/mohapatrahemant/status/1809135345683841050)
 - [Fresh wind blows from historical supernova](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00361.html)
 - [Confido &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/confido/jobs/xyw5xRU-full-stack-engineer)
