@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [War on citizens: How the junta&#39;s VPN ban is strangling communication in Myanmar](https://globalvoices.org/2024/06/28/war-on-citizens-how-the-juntas-vpn-ban-is-strangling-communication-in-myanmar/)
+- [Tao Te Ching translated by Ursula Le Guin &lpar;1997&rpar;](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
 - [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Product Engineer &lpar;iOS, Full-Stack&rpar;](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
-- [What if everything is conscious?](https://www.vox.com/future-perfect/353430/what-if-absolutely-everything-is-conscious)
-- [7-Eleven Is Reinventing Its $17B Food Business to Be More Japanese [video]](https://www.youtube.com/watch?v=RATHbP1bAhI)
-- [DJI Announces an Electric Mountain Bike Drive System](https://www.dji.com/sg/newsroom/news/dji-launch-avinox-drive-system-en)
-- [Philip Morris International has funded Japanese academics](https://www.bath.ac.uk/announcements/philip-morris-international-has-secretly-funded-japanese-academics/)
+- [7-Eleven is reinventing its food business to be more Japanese [video]](https://www.youtube.com/watch?v=RATHbP1bAhI)
+- [DJI announces an electric mountain bike drive system](https://www.dji.com/sg/newsroom/news/dji-launch-avinox-drive-system-en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
