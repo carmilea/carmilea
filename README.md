@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT just &lpar;accidentally&rpar; shared all of its secret rules](https://www.techradar.com/computing/artificial-intelligence/chatgpt-just-accidentally-shared-all-of-its-secret-rules-heres-what-we-learned)
-- [Factorio: Space Age extension to release on October 21st 2024](https://factorio.com/blog/post/fff-418)
-- [Welsh government commits to making lying in politics illegal](https://www.theguardian.com/politics/article/2024/jul/02/welsh-government-commits-to-making-lying-in-politics)
-- [Programming in Unison](https://lwn.net/Articles/978955/)
-- [Bruce Bastian, a Founder of WordPerfect, Is Dead at 76](https://www.nytimes.com/2024/07/02/business/bruce-bastian-dead.html)
+- [The Future of AR Beyond the Vision Pro Is Already Brewing](https://www.cnet.com/tech/computing/the-future-of-ar-beyond-vision-pro-is-already-brewing/)
+- [Rivian Amazon delivery vans catching on fire while charging: reports](https://autos.yahoo.com/electric-amazon-delivery-vans-keep-162000936.html)
+- [A new way to prevent HIV delivers dramatic results in trial](https://www.npr.org/sections/goats-and-soda/2024/07/03/g-s1-7988/hiv-prevention-drug-clinical-trial)
+- [Generative AI is a climate disaster](https://disconnect.blog/generative-ai-is-a-climate-disaster/)
+- [Cloudflare 1.1.1.1 incident on June 27, 2024](https://blog.cloudflare.com/cloudflare-1111-incident-on-june-27-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
