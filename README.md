@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of AR Beyond the Vision Pro Is Already Brewing](https://www.cnet.com/tech/computing/the-future-of-ar-beyond-vision-pro-is-already-brewing/)
-- [Rivian Amazon delivery vans catching on fire while charging: reports](https://autos.yahoo.com/electric-amazon-delivery-vans-keep-162000936.html)
-- [A new way to prevent HIV delivers dramatic results in trial](https://www.npr.org/sections/goats-and-soda/2024/07/03/g-s1-7988/hiv-prevention-drug-clinical-trial)
-- [Generative AI is a climate disaster](https://disconnect.blog/generative-ai-is-a-climate-disaster/)
-- [Cloudflare 1.1.1.1 incident on June 27, 2024](https://blog.cloudflare.com/cloudflare-1111-incident-on-june-27-2024)
+- [Debian GNU/Hurd now can compile 71% of the packages from the Debian archive](https://www.gnu.org/software/hurd/news/2024-q2.html)
+- [Ask HN: Does having a betting/gambling company in your CV hurts your career?](https://news.ycombinator.com/item?id=40882212)
+- [I was at AMD in the mid-late 2000s helping design CPU/APU/GPUs](https://twitter.com/mohapatrahemant/status/1809135345683841050)
+- [Fresh wind blows from historical supernova](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00361.html)
+- [Confido &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/confido/jobs/xyw5xRU-full-stack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
