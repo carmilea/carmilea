@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shapeways Files for Bankruptcy](https://hackaday.com/2024/07/04/shapeways-files-for-bankruptcy/)
-- [The EU should be the heat-pump pioneer](https://www.economist.com/europe/2024/07/04/the-eu-should-be-the-worlds-heat-pump-pioneer)
-- [Amazon at 30: What next for &#39;The Everything Company&#39;?](https://www.bbc.co.uk/news/articles/cqv5l6vnvqjo)
 - [Kien, the most-delayed video game in history, released after 22 years](https://www.theguardian.com/games/article/2024/jul/04/kein-the-most-delayed-video-game-in-history-released-after-22-years)
-- [Show HN: Perplexity &lpar;llama3 70B&rpar; Inline Bot on Telegram](https://www.telegrambots.ai/llama3-on-telegram)
+- [General Electric HTRE-3 Nuclear Jet Engine](https://planehistoria.com/general-electric-htre-3-nuclear-jet-engine/)
+- [Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
+- [Show HN: I made shopping clothes online easier](https://www.curate.fit/)
+- [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
