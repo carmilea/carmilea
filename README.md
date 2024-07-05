@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sony Is Killing the Blu-ray, but Physical Media Isn&#39;t Dead Yet](https://www.kotaku.com.au/2024/07/sony-is-killing-the-blu-ray-but-physical-media-isnt-dead-yet/)
+- [Why Vivaldi won&#39;t follow the current AI trend?](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/)
 - [&quot;Technical&quot; Skills](https://sashalaundy.com/writing/technical-skills/)
 - [General Electric HTRE-3 Nuclear Jet Engine](https://planehistoria.com/general-electric-htre-3-nuclear-jet-engine/)
 - [Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
