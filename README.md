@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [So now that Nvidia has far outstripped the market cap of AMD and Intel, …](https://twitter.com/mohapatrahemant/status/1809135345683841050)
-- [Fresh wind blows from supernova recorded in 1181](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00361.html)
-- [Confido &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/confido/jobs/xyw5xRU-full-stack-engineer)
-- [Show HN: I&#39;ve made Keyword Research tool that&#39;s 90% cheaper than anything](https://withtelescope.com)
-- [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
+- [ChatGPT just &lpar;accidentally&rpar; shared all of its secret rules](https://www.techradar.com/computing/artificial-intelligence/chatgpt-just-accidentally-shared-all-of-its-secret-rules-heres-what-we-learned)
+- [Factorio: Space Age extension to release on October 21st 2024](https://factorio.com/blog/post/fff-418)
+- [Welsh government commits to making lying in politics illegal](https://www.theguardian.com/politics/article/2024/jul/02/welsh-government-commits-to-making-lying-in-politics)
+- [Programming in Unison](https://lwn.net/Articles/978955/)
+- [Bruce Bastian, a Founder of WordPerfect, Is Dead at 76](https://www.nytimes.com/2024/07/02/business/bruce-bastian-dead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
