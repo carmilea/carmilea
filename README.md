@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Roku update turns on hated motion-smoothing feature, with no off switch](https://boingboing.net/2024/07/04/roku-update-turns-on-hated-motion-smoothing-feature-with-no-off-switch.html)
+- [Uncovering Every Lie in MKBHD&#39;s Softball Interview [video]](https://www.youtube.com/watch?v=Z0DF-MOkotA)
+- [Why Michigan Still Uses a Ford Model T for Official Government Business](https://www.theautopian.com/heres-why-michigan-still-uses-a-ford-model-t-for-official-government-business/)
+- [Could the &#39;flying piano&#39; help transform air cargo?](https://www.bbc.com/news/articles/c0kk4lxe702o)
+- [General Electric HTRE-3 Nuclear Jet Engine](https://planehistoria.com/general-electric-htre-3-nuclear-jet-engine/)
 - [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
-- [The Snapdragon X Elite&#39;s Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
-- [Rollstack &lpar;YC W23&rpar; Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
-- [NexDock turns your smartphone into a laptop](https://nexdock.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
