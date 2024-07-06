@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patterns &lpar;YC S21&rpar;, hiring to build a universal finance and accounting data model](https://patterns.app/)
+- [High-Tech salaries in Israel take nosedive in April](https://www.ynetnews.com/business/article/ryzhk1ddc)
+- [First anode-free sodium solid-state battery](https://pme.uchicago.edu/news/uchicago-prof-shirley-mengs-laboratory-energy-storage-and-conversion-creates-worlds-first)
 - [Teaching General Problem-Solving Skills Is Not a Substitute for Teaching Math [pdf]](https://www.ams.org/notices/201010/rtx101001303p.pdf)
 - [Properly testing concurrent data structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
-- [Show HN: A JavaScript UI library for imperative JSX](https://www.npmjs.com/package/@matry/dom)
-- [Hadrius &lpar;YC W23&rpar; Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
-- [With Nothing to Do](https://registerspill.thorstenball.com/p/with-nothing-to-do)
 <!-- BLOG-POST-LIST:END -->
 
 ---
