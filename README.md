@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unverified NPM Account Takeover Vulnerability for Sale on Dark Web Forum](https://socket.dev/blog/unverified-npm-account-takeover-vulnerability-for-sale-on-dark-web-forum)
 - [HTML5 Differences from HTML4 &lpar;2014&rpar;](https://www.w3.org/TR/html5-diff/)
 - [Radio Garden](https://radio.garden/)
 - [Constantine: modular, high-performance, zero-dependency cryptography stack](https://forum.nim-lang.org/t/11935)
 - [Preserving a floppy disk with a logic analyzer and a serial cable](https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/)
-- [Antidotes for Melancholy in Early Modern England](https://www.folger.edu/blogs/collation/better-than-a-pound-of-sorrow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
