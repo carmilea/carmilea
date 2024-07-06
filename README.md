@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New AI Training Technique Is Drastically Faster, Says Google](https://decrypt.co/238730/new-ai-training-technique-is-drastically-faster-says-google)
 - [Against the Burden of Knowledge](https://www.theseedsofscience.pub/p/against-the-burden-of-knowledge)
 - [Tokens are a big reason today&#39;s generative AI falls short](https://techcrunch.com/2024/07/06/tokens-are-a-big-reason-todays-generative-ai-falls-short/)
-- [Why privacy is important, and having &quot;nothing to hide&quot; is irrelevant &lpar;2016&rpar;](https://robindoherty.com/2016/01/06/nothing-to-hide.html)
-- [Creative Chair](https://creativechair.org/)
 - [Emergency rooms are not okay](https://yourlocalepidemiologist.substack.com/p/emergency-rooms-are-not-okay)
+- [Patterns &lpar;YC S21&rpar;, hiring to build a universal finance and accounting data model](https://patterns.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
