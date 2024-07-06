@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s how you can build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
 - [Unverified NPM Account Takeover Vulnerability for Sale on Dark Web Forum](https://socket.dev/blog/unverified-npm-account-takeover-vulnerability-for-sale-on-dark-web-forum)
+- [RadioSide turns your spare device into a radio](https://radioside.com)
+- [How to implement a hash table in C &lpar;2021&rpar;](https://benhoyt.com/writings/hash-table-in-c/)
 - [HTML5 Differences from HTML4 &lpar;2014&rpar;](https://www.w3.org/TR/html5-diff/)
-- [Radio Garden](https://radio.garden/)
-- [Constantine: modular, high-performance, zero-dependency cryptography stack](https://forum.nim-lang.org/t/11935)
-- [Preserving a floppy disk with a logic analyzer and a serial cable](https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
