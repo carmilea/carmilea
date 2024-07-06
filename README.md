@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
+- [The A.I. Bubble is Bursting with Ed Zitron [video]](https://www.youtube.com/watch?v=T8ByoAt5gCA)
+- [Anxious Generation – How Safetyism and Social Media Are Damaging the Kids](https://matija.eu/posts/anxious-generation-safetyism-social-media/)
+- [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage))
+- [Properly testing concurrent data structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 - [Hadrius &lpar;YC W23&rpar; Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
-- [He Might Have Been the First Jazz Star](https://www.honest-broker.com/p/he-might-have-been-the-first-jazz)
-- [RadioSide turns your spare device into a radio](https://radioside.com)
-- [Radio Garden](https://radio.garden/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
