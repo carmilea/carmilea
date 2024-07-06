@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China Cracks Down on Extreme Nationalism and Hate-Speech After Suzhou Slaying](https://chinadigitaltimes.net/2024/07/chinese-social-media-platforms-launch-crackdown-on-extreme-nationalism-and-xenophobic-hate-speech-after-fatal-suzhou-stabbing/)
-- [Evaluating a Decade of Hacker News Predictions: An Open-Source Approach](https://eamag.me/2024/HackerNews-Prediction-Evaluator)
-- [Patterns &lpar;YC S21&rpar;, hiring to build a universal finance and accounting data model](https://patterns.app/)
-- [When the CIA turned writers into operatives](https://www.newyorker.com/culture/podcast-dept/when-the-cia-turned-writers-into-operatives)
-- [Kivy – a cross platform Python UI framework](https://kivy.org)
+- [Against the Burden of Knowledge](https://www.theseedsofscience.pub/p/against-the-burden-of-knowledge)
+- [Tokens are a big reason today&#39;s generative AI falls short](https://techcrunch.com/2024/07/06/tokens-are-a-big-reason-todays-generative-ai-falls-short/)
+- [Why privacy is important, and having &quot;nothing to hide&quot; is irrelevant &lpar;2016&rpar;](https://robindoherty.com/2016/01/06/nothing-to-hide.html)
+- [Creative Chair](https://creativechair.org/)
+- [Emergency rooms are not okay](https://yourlocalepidemiologist.substack.com/p/emergency-rooms-are-not-okay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
