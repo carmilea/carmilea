@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The A.I. Bubble is Bursting with Ed Zitron [video]](https://www.youtube.com/watch?v=T8ByoAt5gCA)
-- [Anxious Generation – How Safetyism and Social Media Are Damaging the Kids](https://matija.eu/posts/anxious-generation-safetyism-social-media/)
-- [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage))
+- [Teaching General Problem-Solving Skills Is Not a Substitute for Teaching Math [pdf]](https://www.ams.org/notices/201010/rtx101001303p.pdf)
 - [Properly testing concurrent data structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
+- [Show HN: A JavaScript UI library for imperative JSX](https://www.npmjs.com/package/@matry/dom)
 - [Hadrius &lpar;YC W23&rpar; Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
+- [With Nothing to Do](https://registerspill.thorstenball.com/p/with-nothing-to-do)
 <!-- BLOG-POST-LIST:END -->
 
 ---
