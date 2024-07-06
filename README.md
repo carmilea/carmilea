@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [China Cracks Down on Extreme Nationalism and Hate-Speech After Suzhou Slaying](https://chinadigitaltimes.net/2024/07/chinese-social-media-platforms-launch-crackdown-on-extreme-nationalism-and-xenophobic-hate-speech-after-fatal-suzhou-stabbing/)
+- [Evaluating a Decade of Hacker News Predictions: An Open-Source Approach](https://eamag.me/2024/HackerNews-Prediction-Evaluator)
 - [Patterns &lpar;YC S21&rpar;, hiring to build a universal finance and accounting data model](https://patterns.app/)
-- [High-Tech salaries in Israel take nosedive in April](https://www.ynetnews.com/business/article/ryzhk1ddc)
-- [First anode-free sodium solid-state battery](https://pme.uchicago.edu/news/uchicago-prof-shirley-mengs-laboratory-energy-storage-and-conversion-creates-worlds-first)
-- [Teaching General Problem-Solving Skills Is Not a Substitute for Teaching Math [pdf]](https://www.ams.org/notices/201010/rtx101001303p.pdf)
-- [Properly testing concurrent data structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
+- [When the CIA turned writers into operatives](https://www.newyorker.com/culture/podcast-dept/when-the-cia-turned-writers-into-operatives)
+- [Kivy – a cross platform Python UI framework](https://kivy.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
