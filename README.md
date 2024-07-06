@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Here’s how you can build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
+- [Private firms and open sources are giving spies a run for their money](https://www.economist.com/technology-quarterly/2024/07/01/private-firms-and-open-sources-are-giving-spies-a-run-for-their-money)
+- [Curl native support for –aws-sigv4 &lpar;2023&rpar;](https://how.wtf/aws-sigv4-requests-with-curl.html)
+- [1Password and 2FA: Is it wrong to store passwords and one-time codes together? &lpar;2023&rpar;](https://blog.1password.com/1password-2fa-passwords-codes-together/)
+- [Build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
 - [Unverified NPM Account Takeover Vulnerability for Sale on Dark Web Forum](https://socket.dev/blog/unverified-npm-account-takeover-vulnerability-for-sale-on-dark-web-forum)
-- [RadioSide turns your spare device into a radio](https://radioside.com)
-- [How to implement a hash table in C &lpar;2021&rpar;](https://benhoyt.com/writings/hash-table-in-c/)
-- [HTML5 Differences from HTML4 &lpar;2014&rpar;](https://www.w3.org/TR/html5-diff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
