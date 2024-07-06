@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hadrius &lpar;YC W23&rpar; Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 - [U.S. SEC Wins &#39;Shadow Insider Trading&#39; Trial](https://www.akingump.com/en/insights/alerts/the-sec-wins-shadow-insider-trading-trial)
-- [DevOps Isn&#39;t Dead, but It&#39;s Not in Great Health Either](https://thenewstack.io/devops-isnt-dead-but-its-not-in-great-health-either/)
-- [Private firms and open sources are giving spies a run for their money](https://www.economist.com/technology-quarterly/2024/07/01/private-firms-and-open-sources-are-giving-spies-a-run-for-their-money)
-- [1Password and 2FA: Is it wrong to store passwords and one-time codes together? &lpar;2023&rpar;](https://blog.1password.com/1password-2fa-passwords-codes-together/)
-- [Build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
+- [RadioSide turns your spare device into a radio](https://radioside.com)
+- [How to implement a hash table in C &lpar;2021&rpar;](https://benhoyt.com/writings/hash-table-in-c/)
+- [Radio Garden](https://radio.garden/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
