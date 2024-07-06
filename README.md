@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML5 Differences from HTML4 &lpar;2014&rpar;](https://www.w3.org/TR/html5-diff/)
+- [Radio Garden](https://radio.garden/)
 - [Constantine: modular, high-performance, zero-dependency cryptography stack](https://forum.nim-lang.org/t/11935)
 - [Preserving a floppy disk with a logic analyzer and a serial cable](https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/)
 - [Antidotes for Melancholy in Early Modern England](https://www.folger.edu/blogs/collation/better-than-a-pound-of-sorrow/)
-- [War on citizens: How the junta&#39;s VPN ban is strangling communication in Myanmar](https://globalvoices.org/2024/06/28/war-on-citizens-how-the-juntas-vpn-ban-is-strangling-communication-in-myanmar/)
-- [Tao Te Ching translated by Ursula Le Guin &lpar;1997&rpar;](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
