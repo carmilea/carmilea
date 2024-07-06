@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 - [Hadrius &lpar;YC W23&rpar; Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
-- [Aya: A minimalist version control system with fewer than 6 commands](https://github.com/Mohamedjcali/aya)
-- [Mineral winds down: &#39;We will no longer be an Alphabet company&#39;](https://agfundernews.com/mineral-winds-down-we-will-no-longer-be-an-alphabet-company-but-our-technology-will-live-on)
+- [He Might Have Been the First Jazz Star](https://www.honest-broker.com/p/he-might-have-been-the-first-jazz)
 - [RadioSide turns your spare device into a radio](https://radioside.com)
+- [Radio Garden](https://radio.garden/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
