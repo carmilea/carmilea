@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps Isn&#39;t Dead, but It&#39;s Not in Great Health Either](https://thenewstack.io/devops-isnt-dead-but-its-not-in-great-health-either/)
 - [Private firms and open sources are giving spies a run for their money](https://www.economist.com/technology-quarterly/2024/07/01/private-firms-and-open-sources-are-giving-spies-a-run-for-their-money)
 - [Curl native support for –aws-sigv4 &lpar;2023&rpar;](https://how.wtf/aws-sigv4-requests-with-curl.html)
 - [1Password and 2FA: Is it wrong to store passwords and one-time codes together? &lpar;2023&rpar;](https://blog.1password.com/1password-2fa-passwords-codes-together/)
 - [Build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
-- [Unverified NPM Account Takeover Vulnerability for Sale on Dark Web Forum](https://socket.dev/blog/unverified-npm-account-takeover-vulnerability-for-sale-on-dark-web-forum)
 <!-- BLOG-POST-LIST:END -->
 
 ---
