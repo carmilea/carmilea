@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New AI Training Technique Is Drastically Faster, Says Google](https://decrypt.co/238730/new-ai-training-technique-is-drastically-faster-says-google)
-- [Against the Burden of Knowledge](https://www.theseedsofscience.pub/p/against-the-burden-of-knowledge)
-- [Tokens are a big reason today&#39;s generative AI falls short](https://techcrunch.com/2024/07/06/tokens-are-a-big-reason-todays-generative-ai-falls-short/)
-- [Emergency rooms are not okay](https://yourlocalepidemiologist.substack.com/p/emergency-rooms-are-not-okay)
-- [Patterns &lpar;YC S21&rpar;, hiring to build a universal finance and accounting data model](https://patterns.app/)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring full-stack devs to deploy solar robots](https://www.ycombinator.com/companies/charge-robotics/jobs/gbIFjoq-senior-software-engineer-full-stack)
+- [Montana Has More Cows Than People. Why Are Locals Eating Beef from Brazil?](https://www.nytimes.com/2024/06/13/business/montana-meat-old-salt-co-op.html)
+- [Top GitHub repositories which everyone should look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look)
+- [Microsoft Is Dead[2007]](https://paulgraham.com/microsoft.html)
+- [Ask HN: Where are the good resources for learning audio processing?](https://news.ycombinator.com/item?id=40892812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
