@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 - [Hadrius &lpar;YC W23&rpar; Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
-- [U.S. SEC Wins &#39;Shadow Insider Trading&#39; Trial](https://www.akingump.com/en/insights/alerts/the-sec-wins-shadow-insider-trading-trial)
+- [Aya: A minimalist version control system with fewer than 6 commands](https://github.com/Mohamedjcali/aya)
+- [Mineral winds down: &#39;We will no longer be an Alphabet company&#39;](https://agfundernews.com/mineral-winds-down-we-will-no-longer-be-an-alphabet-company-but-our-technology-will-live-on)
 - [RadioSide turns your spare device into a radio](https://radioside.com)
-- [How to implement a hash table in C &lpar;2021&rpar;](https://benhoyt.com/writings/hash-table-in-c/)
-- [Radio Garden](https://radio.garden/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
