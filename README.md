@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Continue &lpar;YC S23&rpar; Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
+- [From the Tensor to Stable Diffusion](https://github.com/jla524/fromthetensor)
+- [Gen AI: Too much spend, too little benefit [pdf]](https://www.goldmansachs.com/intelligence/pages/gs-research/gen-ai-too-much-spend-too-little-benefit/report.pdf)
 - [Apple M5 Chip&#39;s Dual-Use Design Will Power Future Macs and AI Servers](https://www.macrumors.com/2024/07/04/apple-m5-chips-advanced-packaging-tsmc/)
-- [ICANN&#39;s list of abandoned vanity TLDs, which now has about 134 entries](https://www.icann.org/resources/pages/gtld-registry-agreement-termination-2015-10-09-en)
 - [The internet is already over &lpar;2022&rpar;](https://samkriss.substack.com/p/the-internet-is-already-over)
-- [Ask HN: Should I remove work experience from resume?](https://news.ycombinator.com/item?id=40899662)
-- [Doomsday Prepping: Reactionary Behavior or Inherited Instinct?](https://seattleanxiety.com/psychiatrist/2023/1/12/doomsday-prepping-reactionary-behavior-or-inherited-instinct)
 <!-- BLOG-POST-LIST:END -->
 
 ---
