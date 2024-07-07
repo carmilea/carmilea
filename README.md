@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenRailRouting](https://github.com/geofabrik/OpenRailRouting)
-- [Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
-- [Why Italy Fell Out of Love with Cilantro](https://www.atlasobscura.com/articles/what-are-italian-herbs)
-- [&quot;Out of Band&quot; network management is not trivial](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OutOfBandManagementNotTrivial)
-- [The complete Code of Hammurabi &lpar;~1750 BC&rpar;](https://ehammurabi.org/#laws)
+- [Scientists re-emerge after a year in Mars simulation project](https://www.dw.com/en/scientists-re-emerge-after-a-year-in-mars-simulation-project/a-69585838)
+- [Malloc broke Serenity&#39;s JPGLoader, or: how to win the lottery](https://sin-ack.github.io/posts/jpg-loader-bork/)
+- [Engines 101: The Basics of How Engines Work by Toyota [video]](https://www.youtube.com/watch?v=gqK3dCpwzxE)
+- [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/geohot/fromthetransistor)
+- [Crystal Fragment turns everything you see into 8-bit Pixel Art](https://www.yankodesign.com/2024/07/04/this-crystal-fragment-turns-everything-you-see-into-8-bit-pixel-art-and-its-fascinating/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
