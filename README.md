@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [&quot;Out of Band&quot; network management is not trivial](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OutOfBandManagementNotTrivial)
+- [The complete Code of Hammurabi &lpar;~1750 BC&rpar;](https://ehammurabi.org/#laws)
 - [Show HN: A free minimalist daily habit tracker](https://rdht.vercel.app/)
 - [What causes migraines? Study of &#39;brain blackout&#39; offers clues](https://www.nature.com/articles/d41586-024-02222-x)
 - [RISC-V Emulator for Sophgo SG2000 SoC &lpar;Pine64 Oz64 / Milk-V Duo S&rpar;](https://lupyuen.codeberg.page/articles/sg2000b.html)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring full-stack devs to deploy solar robots](https://www.ycombinator.com/companies/charge-robotics/jobs/gbIFjoq-senior-software-engineer-full-stack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
