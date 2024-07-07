@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wired: Why are so many young people addicted to video games?](https://www.theguardian.com/games/article/2024/jul/07/video-games-why-are-so-many-young-people-addicted)
+- [A reawakening of systems programming meetups](https://notes.eatonphil.com/2024-07-07-systems-meetups.html)
+- [The Metropolis Algorithm: Theory and Examples](https://www.fepress.org/metropolis/)
 - [YouTube Embeds Are Bananas Heavy and It&#39;s Fixable](https://frontendmasters.com/blog/youtube-embeds-are-bananas-heavy-and-its-fixable/)
 - [Execute JavaScript in a WebAssembly QuickJS Sandbox](https://github.com/sebastianwessel/quickjs)
-- [People are feeling stuck in their jobs](https://www.wsj.com/lifestyle/careers/job-market-slowing-employee-growth-change-wanted-c422f67d)
-- [Adventures in mapmaking: the search for grayscale tiles](https://newsletter.pnote.eu/p/mapmaking-search-for-grayscale-tiles)
+- [Scientists re-emerge after a year in Mars simulation project](https://www.dw.com/en/scientists-re-emerge-after-a-year-in-mars-simulation-project/a-69585838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
