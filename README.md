@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Funding Ladybird Because I Can&#39;t Fund Firefox](http://jackkelly.name/blog/archives/2024/07/06/im_funding_ladybird_because_i_cant_fund_firefox/)
-- [Construction of the 4th Chinese aircraft carrier has reportedly started](https://meta-defense.fr/en/2024/07/06/4-Chinese-aircraft-carriers-construction/)
 - [Continue &lpar;YC S23&rpar; Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
 - [The internet is already over &lpar;2022&rpar;](https://samkriss.substack.com/p/the-internet-is-already-over)
-- [Show HN: Imageprompt.io – AI-powered and human-curated artworks, logos, photos](https://imageprompt.io/)
+- [Sharedrop: Easy P2P file transfer powered by WebRTC – inspired by Apple AirDrop](https://github.com/szimek/sharedrop)
+- [Modern-day spying: sometimes old technology is more secure](https://www.economist.com/technology-quarterly/2024/07/01/sometimes-the-old-ways-of-espionage-are-the-best)
+- [A brief history of liquid computers &lpar;2019&rpar;](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
