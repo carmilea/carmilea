@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trellis &lpar;YC W24&rpar; is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+- [Zuckerberg and Peter Thiel on Facebook, Millenials, and Predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)
+- [US intelligence community is embracing generative AI](https://www.nextgov.com/artificial-intelligence/2024/07/us-intelligence-community-embracing-generative-ai/397849/)
 - [Talent Search versus Talent Development &lpar;2019&rpar; [pdf]](https://community.ams.org/journals/notices/201909/rnoti-p1471.pdf)
 - [Mongo but on Postgres and with strong consistency benefits](https://github.com/event-driven-io/Pongo)
-- [A reawakening of systems programming meetups](https://notes.eatonphil.com/2024-07-07-systems-meetups.html)
-- [YouTube embeds are bananas heavy and it’s fixable](https://frontendmasters.com/blog/youtube-embeds-are-bananas-heavy-and-its-fixable/)
-- [Show HN: Execute JavaScript in a WebAssembly QuickJS sandbox](https://github.com/sebastianwessel/quickjs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
