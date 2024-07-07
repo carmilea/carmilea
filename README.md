@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A brief history of liquid computers &lpar;2019&rpar;](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372)
-- [Standard cells: Looking at individual gates in the Pentium processor](http://www.righto.com/2024/07/pentium-standard-cells.html)
-- [Reasoning in Large Language Models: A Geometric Perspective](https://arxiv.org/abs/2407.02678)
-- [Show HN: A modern Jupyter client for macOS](https://satyrn.app/)
-- [Using copper to convert CO₂ to methane](https://phys.org/news/2024-07-copper-methane-game-changer-mitigating.html)
+- [Apple M5 Chip&#39;s Dual-Use Design Will Power Future Macs and AI Servers](https://www.macrumors.com/2024/07/04/apple-m5-chips-advanced-packaging-tsmc/)
+- [ICANN&#39;s list of abandoned vanity TLDs, which now has about 134 entries](https://www.icann.org/resources/pages/gtld-registry-agreement-termination-2015-10-09-en)
+- [The internet is already over &lpar;2022&rpar;](https://samkriss.substack.com/p/the-internet-is-already-over)
+- [Ask HN: Should I remove work experience from resume?](https://news.ycombinator.com/item?id=40899662)
+- [Doomsday Prepping: Reactionary Behavior or Inherited Instinct?](https://seattleanxiety.com/psychiatrist/2023/1/12/doomsday-prepping-reactionary-behavior-or-inherited-instinct)
 <!-- BLOG-POST-LIST:END -->
 
 ---
