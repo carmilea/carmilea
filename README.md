@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany set to overhaul subsidy regime for renewable energy](https://www.reuters.com/business/energy/germany-set-overhaul-subsidy-regime-renewable-energy-document-2024-07-05/)
+- [People are feeling stuck in their jobs](https://www.wsj.com/lifestyle/careers/job-market-slowing-employee-growth-change-wanted-c422f67d)
 - [Portugal brings back tax breaks for foreigners in bid to woo digital nomads](https://fortune.com/europe/2024/07/04/portugal-backtracks-hostility-digital-nomads-tax-breaks-skilled-foreigners-return/)
 - [Adventures in mapmaking: the search for grayscale tiles](https://newsletter.pnote.eu/p/mapmaking-search-for-grayscale-tiles)
 - [End of the librarian? Council cuts and new tech push profession to the brink](https://www.theguardian.com/books/article/2024/jul/07/librarians-council-cuts-and-new-tech-public-libraries)
-- [&quot;AI&quot;, students, and epistemic crisis](https://miniver.blogspot.com/2024/07/ai-students-and-epistemic-crisis.html)
-- [Microchip releases PIC64 radiation tolerant RISC-V CPUs for space applications](https://www.youtube.com/watch?v=oxUoMVSNPxw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
