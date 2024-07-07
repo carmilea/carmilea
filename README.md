@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A brief history of liquid computers &lpar;2019&rpar;](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372)
+- [Standard cells: Looking at individual gates in the Pentium processor](http://www.righto.com/2024/07/pentium-standard-cells.html)
+- [Reasoning in Large Language Models: A Geometric Perspective](https://arxiv.org/abs/2407.02678)
+- [Show HN: A modern Jupyter client for macOS](https://satyrn.app/)
 - [Using copper to convert CO₂ to methane](https://phys.org/news/2024-07-copper-methane-game-changer-mitigating.html)
-- [Synchronization Is Bad for Scale](https://wippler.dev/posts/synchronization-is-bad-for-scale)
-- [Trellis &lpar;YC W24&rpar; is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
-- [How David Sinkinson Bootstrapped AppArmor to a $40M Exit](https://builttosell.com/radio/episode-448/)
-- [US intelligence community is embracing generative AI](https://www.nextgov.com/artificial-intelligence/2024/07/us-intelligence-community-embracing-generative-ai/397849/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
