@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Good Is ChatGPT at Coding, Really?](https://spectrum.ieee.org/chatgpt-for-coding)
-- [Servant Leadership Theory](https://www.pon.harvard.edu/daily/leadership-skills-daily/servant-leadership-theory/)
+- [Talent Search versus Talent Development &lpar;2019&rpar; [pdf]](https://community.ams.org/journals/notices/201909/rnoti-p1471.pdf)
 - [Mongo but on Postgres and with strong consistency benefits](https://github.com/event-driven-io/Pongo)
 - [A reawakening of systems programming meetups](https://notes.eatonphil.com/2024-07-07-systems-meetups.html)
 - [YouTube embeds are bananas heavy and it’s fixable](https://frontendmasters.com/blog/youtube-embeds-are-bananas-heavy-and-its-fixable/)
+- [Show HN: Execute JavaScript in a WebAssembly QuickJS sandbox](https://github.com/sebastianwessel/quickjs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
