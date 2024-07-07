@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Constitutional Right to Be a Pirate](https://www.thefp.com/p/constitutional-right-pirate-aj-jacobs)
+- [What causes migraines? Study of &#39;brain blackout&#39; offers clues](https://www.nature.com/articles/d41586-024-02222-x)
+- [&lpar;Modal&rpar;](https://wryl.tech/projects/modal.html)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring full-stack devs to deploy solar robots](https://www.ycombinator.com/companies/charge-robotics/jobs/gbIFjoq-senior-software-engineer-full-stack)
-- [Montana Has More Cows Than People. Why Are Locals Eating Beef from Brazil?](https://www.nytimes.com/2024/06/13/business/montana-meat-old-salt-co-op.html)
 - [Speeding up the JavaScript ecosystem – Isolated Declarations](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-10/)
-- [Ask HN: Where are the good resources for learning audio processing?](https://news.ycombinator.com/item?id=40892812)
-- [Against the Burden of Knowledge](https://www.theseedsofscience.pub/p/against-the-burden-of-knowledge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
