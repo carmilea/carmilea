@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit&#39;s Robots.txt Changed](https://old.reddit.com/robots.txt)
+- [Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
 - [&quot;Out of Band&quot; network management is not trivial](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OutOfBandManagementNotTrivial)
 - [The complete Code of Hammurabi &lpar;~1750 BC&rpar;](https://ehammurabi.org/#laws)
 - [Show HN: A free minimalist daily habit tracker](https://rdht.vercel.app/)
-- [What causes migraines? Study of &#39;brain blackout&#39; offers clues](https://www.nature.com/articles/d41586-024-02222-x)
-- [RISC-V Emulator for Sophgo SG2000 SoC &lpar;Pine64 Oz64 / Milk-V Duo S&rpar;](https://lupyuen.codeberg.page/articles/sg2000b.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
