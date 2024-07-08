@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Never ask a candidate to rate themselves out of 10](https://think-twice.me/?p=70)
-- [Mass tourism protesters squirt water at Barcelona tourists](https://www.bbc.com/news/videos/c0dm9w2ey7po)
+- [Affinity&#39;s Adobe-rivaling creative suite is now free for six months](https://www.theverge.com/2024/7/8/24194281/affinity-creative-suite-six-month-free-trial-deal-announcement)
+- [Show HN: WAL Implementation in Golang](https://github.com/stym06/rebuf)
+- [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
 - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 - [Show HN: I coded my own JSON translation tool to easily localize my side project](https://www.quicklang.app/en)
-- [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
