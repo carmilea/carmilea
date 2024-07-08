@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
+- [1/3 of women &lt; 44 have no children and the trend is rising. What is causing it?](https://twitter.com/MichaelAArouet/status/1809941867011719389)
+- [Ecuador court rules pollution violates rights of a river running through capital](https://www.theguardian.com/world/article/2024/jul/07/ecuador-court-river-pollution-violates-rights)
 - [Continue &lpar;YC S23&rpar; Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
 - [Unit is a general purpose visual programming system](https://unit.software/)
-- [Modern-day spying: sometimes old technology is more secure](https://www.economist.com/technology-quarterly/2024/07/01/sometimes-the-old-ways-of-espionage-are-the-best)
-- [A brief history of liquid computers &lpar;2019&rpar;](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372)
-- [Standard cells: Looking at individual gates in the Pentium processor](http://www.righto.com/2024/07/pentium-standard-cells.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
