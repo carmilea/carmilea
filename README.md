@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bashbro – Make Any Comp a Web-Based File Server](https://github.com/victrixsoft/bashbro)
+- [For the first time in more than 150 years, Alberta&#39;s electricity is coal free](https://www.theglobeandmail.com/canada/alberta/article-for-the-first-time-in-more-than-150-years-albertas-electricity-is-coal/)
 - [Show HN: Open-sourced Webflow for your own app](https://github.com/onlook-dev/studio)
-- [Birds in Space II: Quails in the Cosmos](https://finchwench.wordpress.com/2011/09/06/cosmoquails/)
+- [Birds in Space II: Quails in the Cosmos &lpar;2011&rpar;](https://finchwench.wordpress.com/2011/09/06/cosmoquails/)
 - [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, PMs to help make buildings cheap](https://up.codes/careers?utm_source=HN)
-- [Three Algorithms in a Room](https://prospect.org/economy/2024-06-05-three-algorithms-in-a-room/)
-- [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
 <!-- BLOG-POST-LIST:END -->
 
 ---
