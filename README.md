@@ -59,8 +59,8 @@
 - [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
 - [Continue &lpar;YC S23&rpar; Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
 - [Unit is a general purpose visual programming system](https://unit.software/)
-- [ICANN&#39;s list of abandoned vanity TLDs](https://www.icann.org/resources/pages/gtld-registry-agreement-termination-2015-10-09-en)
 - [The internet is already over &lpar;2022&rpar;](https://samkriss.substack.com/p/the-internet-is-already-over)
+- [Modern-day spying: sometimes old technology is more secure](https://www.economist.com/technology-quarterly/2024/07/01/sometimes-the-old-ways-of-espionage-are-the-best)
 <!-- BLOG-POST-LIST:END -->
 
 ---
