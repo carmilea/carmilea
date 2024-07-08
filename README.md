@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Open-sourced Webflow for your own app](https://github.com/onlook-dev/studio)
+- [Birds in Space II: Quails in the Cosmos](https://finchwench.wordpress.com/2011/09/06/cosmoquails/)
 - [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, PMs to help make buildings cheap](https://up.codes/careers?utm_source=HN)
 - [Three Algorithms in a Room](https://prospect.org/economy/2024-06-05-three-algorithms-in-a-room/)
-- [LibreOfficeKit API in action: new API to access LibreOffice functionalities](https://dev.blog.documentfoundation.org/2024/06/27/libreofficekit-api-in-action/)
-- [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
-- [Ode to a world-saving idea: attribution error and cognitive empathy](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b)
+- [Micro-agent: make an AI write code until it passes an unit test](https://github.com/BuilderIO/micro-agent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
