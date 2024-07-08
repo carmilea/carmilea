@@ -60,7 +60,7 @@
 - [Birds in Space II: Quails in the Cosmos](https://finchwench.wordpress.com/2011/09/06/cosmoquails/)
 - [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, PMs to help make buildings cheap](https://up.codes/careers?utm_source=HN)
 - [Three Algorithms in a Room](https://prospect.org/economy/2024-06-05-three-algorithms-in-a-room/)
-- [Micro-agent: make an AI write code until it passes an unit test](https://github.com/BuilderIO/micro-agent)
+- [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
 <!-- BLOG-POST-LIST:END -->
 
 ---
