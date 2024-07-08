@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zed Editor automatically downloads binaries and NPM packages without consent](https://old.reddit.com/r/programming/comments/1dxmroj/zed_editor_automatically_downloads_binaries_and/)
+- [Boeing to plead guilty to criminal fraud charge stemming from 737 MAX crashes](https://www.cnbc.com/2024/07/08/boeing-to-plead-guilty-to-criminal-fraud-charge-stemming-from-737-max-crashes.html)
 - [Do Skis Get Blunt?](https://brooker.co.za/misc-blog/2024/01/23/skis.html)
 - [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
 - [A Mini Monitor for a Pi](https://noamzeise.com/2024/07/05/mini-monitor.html)
-- [Continue &lpar;YC S23&rpar; Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
-- [Unit is a general purpose visual programming system](https://unit.software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
