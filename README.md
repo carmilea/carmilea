@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, PMs to help make buildings cheap](https://up.codes/careers?utm_source=HN)
+- [Three Algorithms in a Room](https://prospect.org/economy/2024-06-05-three-algorithms-in-a-room/)
 - [LibreOfficeKit API in action: new API to access LibreOffice functionalities](https://dev.blog.documentfoundation.org/2024/06/27/libreofficekit-api-in-action/)
 - [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
-- [Sipeed/NanoKVM: NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM](https://github.com/sipeed/NanoKVM)
-- [Zed Editor automatically downloads binaries and NPM packages without consent](https://old.reddit.com/r/programming/comments/1dxmroj/zed_editor_automatically_downloads_binaries_and/)
-- [Do Skis Get Blunt?](https://brooker.co.za/misc-blog/2024/01/23/skis.html)
+- [Ode to a world-saving idea: attribution error and cognitive empathy](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
