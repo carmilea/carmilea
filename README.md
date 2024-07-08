@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Affinity&#39;s Adobe-rivaling creative suite is now free for six months](https://www.theverge.com/2024/7/8/24194281/affinity-creative-suite-six-month-free-trial-deal-announcement)
-- [Show HN: WAL Implementation in Golang](https://github.com/stym06/rebuf)
-- [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
-- [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
-- [Show HN: I coded my own JSON translation tool to easily localize my side project](https://www.quicklang.app/en)
+- [Anna&#39;s Archive Faces Millions in Damages and a Permanent Injunction](https://torrentfreak.com/annas-archive-faces-millions-in-damages-and-a-permanent-injunction-240708/)
+- [Integrating Email Aliases with Bitwarden](https://bitwarden.com/blog/how-to-use-the-bitwarden-forwarded-email-alias-generator/)
+- [Z-Library Admins &quot;Escape House Arrest&quot; After Judge Approves U.S. Extradition](https://torrentfreak.com/z-library-admins-escape-house-arrest-after-judge-approves-u-s-extradition-240708/)
+- [Global trade woes mount as shipping costs rise](https://www.dw.com/en/global-trade-woes-mount-as-shipping-costs-rise/a-69586965)
+- [Dear Roku, you ruined my TV](https://www.theverge.com/24188282/roku-tv-update-motion-smoothing-turn-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
