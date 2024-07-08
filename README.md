@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
 - [1JPM: A Maven/Gradle alternative in a single Java file](https://github.com/Osiris-Team/1JPM)
 - [Reverse Engineering Ticketmaster&#39;s Rotating Barcodes](https://conduition.io/coding/ticketmaster/)
+- [Understanding Software Dynamics [book review]](https://www.usenix.org/publications/loginonline/understanding-software-dynamics)
 - [Build your own React &lpar;2019&rpar;](https://pomb.us/build-your-own-react/)
-- [Geomys, a blueprint for a sustainable open-source maintenance firm](https://words.filippo.io/dispatches/geomys/)
-- [Bashbro – Make Any Comp a Web-Based File Server](https://github.com/victrixsoft/bashbro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
