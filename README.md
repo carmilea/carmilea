@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Never ask a candidate to rate themselves out of 10](https://think-twice.me/?p=70)
+- [Mass tourism protesters squirt water at Barcelona tourists](https://www.bbc.com/news/videos/c0dm9w2ey7po)
+- [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
+- [Show HN: I coded my own JSON translation tool to easily localize my side project](https://www.quicklang.app/en)
 - [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
-- [1JPM: A Maven/Gradle alternative in a single Java file](https://github.com/Osiris-Team/1JPM)
-- [Reverse Engineering Ticketmaster&#39;s Rotating Barcodes](https://conduition.io/coding/ticketmaster/)
-- [Understanding Software Dynamics [book review]](https://www.usenix.org/publications/loginonline/understanding-software-dynamics)
-- [Build your own React &lpar;2019&rpar;](https://pomb.us/build-your-own-react/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
