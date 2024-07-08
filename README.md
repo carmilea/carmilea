@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1JPM: A Maven/Gradle alternative in a single Java file](https://github.com/Osiris-Team/1JPM)
+- [Reverse Engineering Ticketmaster&#39;s Rotating Barcodes](https://conduition.io/coding/ticketmaster/)
+- [Build your own React &lpar;2019&rpar;](https://pomb.us/build-your-own-react/)
+- [Geomys, a blueprint for a sustainable open-source maintenance firm](https://words.filippo.io/dispatches/geomys/)
 - [Bashbro – Make Any Comp a Web-Based File Server](https://github.com/victrixsoft/bashbro)
-- [For the first time in more than 150 years, Alberta&#39;s electricity is coal free](https://www.theglobeandmail.com/canada/alberta/article-for-the-first-time-in-more-than-150-years-albertas-electricity-is-coal/)
-- [Show HN: Open-sourced Webflow for your own app](https://github.com/onlook-dev/studio)
-- [Birds in Space II: Quails in the Cosmos &lpar;2011&rpar;](https://finchwench.wordpress.com/2011/09/06/cosmoquails/)
-- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, PMs to help make buildings cheap](https://up.codes/careers?utm_source=HN)
 <!-- BLOG-POST-LIST:END -->
 
 ---
