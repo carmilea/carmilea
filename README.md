@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twenty Five Years of Warehouse-Scale Computing](https://www.computer.org/csdl/magazine/mi/5555/01/10551740/1XyKBf0Y6uA)
 - [How we tamed Node.js event loop lag: a deepdive](https://trigger.dev/blog/event-loop-lag)
-- [Negative Temperature](https://en.wikipedia.org/wiki/Negative_temperature)
+- [Making My Own Wedding Rings](https://geoff.greer.fm/2024/07/07/making-my-own-wedding-rings/)
 - [DB Browser for SQLite &lpar;Windows, macOS, and Most Versions of Linux&rpar;](https://sqlitebrowser.org/)
-- [Anna&#39;s Archive Faces Millions in Damages and a Permanent Injunction](https://torrentfreak.com/annas-archive-faces-millions-in-damages-and-a-permanent-injunction-240708/)
-- [How to use the Bitwarden forwarded email alias generator](https://bitwarden.com/blog/how-to-use-the-bitwarden-forwarded-email-alias-generator/)
+- [Plausible Analytics: GDPR Compliance w/o Cookie Consent Banner](https://plausible.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
