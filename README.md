@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Daylight eInk Computer](https://daylightcomputer.com)
-- [A small studio made a game based on Stanislaw Lem&#39;s novel](https://invinciblethegame.com/)
-- [Russia Leverages AI-enhanced &quot;Meliorator&quot; software for foreign malign influence](https://www.cyber.gc.ca/en/news-events/russian-state-sponsored-media-organization-leverages-ai-enhanced-meliorator-software-foreign-malign-influence-activity)
+- [Framework Laptop 13 Deep Dive: A laptop webcam with smartphone technology](https://frame.work/blog/framework-laptop-13-deep-dive---a-laptop-webcam-with-smartphone-technology)
 - [Family fight Samsung over fridge odour they say caused dizziness and memory loss](https://www.abc.net.au/news/2024-07-10/victorian-family-battles-samsung-over-fridge-odour/104071036)
-- [Show HN → Parallel DOM: Upgrade your DOM to be multithreaded](https://www.pdom.dev/)
+- [Show HN: Parallel DOM – Upgrade your DOM to be multithreaded](https://www.pdom.dev/)
+- [Show HN: Maelstrom – A Hermetic, Clustered Test Runner for Python and Rust](https://github.com/maelstrom-software/maelstrom)
+- [How to validate a market with development boards and SD cards](https://flyingcarcomputer.com/posts/how-to-validate-market-with-development-board/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
