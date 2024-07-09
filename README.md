@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)
+- [Keyboards Influenced by Touchscreens &lpar;2011&rpar;](https://eagain.net/blog/2011/04/30/keyboards.html)
 - [LightRAG: The PyTorch Library for Large Language Model Applications](https://github.com/SylphAI-Inc/LightRAG)
 - [Show HN: I built a IMDB for all kinds of micro-creators](https://fanzine.world/)
 - [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/stories/magazine/mouse-heaven-or-mouse-hell/)
-- [Show HN: The easiest way to create web UIs for ROS robots](https://transitiverobotics.com/caps/transitive-robotics/ros-tool/)
-- [Twenty Five Years of Warehouse-Scale Computing](https://www.computer.org/csdl/magazine/mi/5555/01/10551740/1XyKBf0Y6uA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
