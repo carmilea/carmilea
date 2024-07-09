@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Attention Is a Proof of Love](https://papanotes.com/attention-is-a-proof-of-love)
-- [Docs as code &lpar;2017&rpar;](https://www.writethedocs.org/guide/docs-as-code/)
-- [Linksys Velop routers send Wi-Fi passwords in plaintext to US servers](https://stackdiary.com/linksys-velop-routers-send-wi-fi-passwords-in-plaintext-to-us-servers/)
-- [Another AI company wrote us and here’s our response](https://warandpeas.com/2024/07/09/another-ai-company-wrote-us-and-heres-our-response/)
-- [AI Humane execs leave company to found AI fact-checking startup](https://techcrunch.com/2024/07/09/humane-execs-leave-company-to-found-ai-fact-checking-startup/)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40918300)
+- [Ariane 6 first flight &lpar;Official broadcast&rpar;[video]](https://www.youtube.com/watch?v=B0oFpOJaIYc)
+- [Electric Vehicle Batteries Surprising New Source of &#39;Forever Chemical&#39; Pollution](https://www.businessinsider.com/ev-batteries-pfas-forever-chemicals-scientists-say-2024-7)
+- [Ask HN: How Do Browsers Isolate Internal Audio from Microphone Input?](https://news.ycombinator.com/item?id=40918152)
+- [A Brand-New Electric Bus, No Charge](https://www.nytimes.com/2024/07/09/climate/electric-school-bus-wymore.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
