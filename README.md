@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Zombie Misconception of Theoretical Computer Science](https://scottaaronson.blog/?p=8106)
+- [Nearly 2M metric tons of wild fish used to feed Norwegian farmed salmon](https://www.seafoodsource.com/news/aquaculture/report-nearly-2-million-metric-tons-of-wild-fish-used-to-feed-norwegian-farmed-salmon-annually)
 - [Another Silicon Valley institution died spring of 2019: Halted/HSC](http://halted.com)
 - [State of Text Rendering 2024](https://behdad.org/text2024/)
 - [Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)
-- [LightRAG: The PyTorch Library for Large Language Model Applications](https://github.com/SylphAI-Inc/LightRAG)
-- [Show HN: I built a IMDB for all kinds of micro-creators](https://fanzine.world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
