@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Private Equity Bubble Is About to Deflate](https://www.bloomberg.com/opinion/articles/2024-07-09/the-private-equity-bubble-is-about-to-deflate)
-- [GenBook RK3588 – Modular open-source ARM laptop with DIY expansion capabilities](https://www.crowdsupply.com/shenzhen-tianmao-technology-co-ltd/genbook-rk3588)
+- [Middlemen have outsized influence on drug prices due to market consolidation,FTC](https://www.cnbc.com/2024/07/09/middlemen-have-outsized-influence-on-us-drug-prices-due-to-market-consolidation-ftc-says.html)
+- [Users rage Microsoft announces retirement of Office 365 connectors within Teams](https://www.theregister.com/2024/07/09/users_rage_as_microsoft_announces/)
+- [String Theory Unravels New Pi Formula: A Quantum Leap in Mathematics](https://scitechdaily.com/string-theory-unravels-new-pi-formula-a-quantum-leap-in-mathematics/)
+- [Etsy: Company escaping &#39;race to the bottom&#39;, getting back to its artisan roots](https://www.cnbc.com/2024/07/09/etsy-escaping-race-to-the-bottom-and-getting-back-to-artisan-roots.html)
 - [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
-- [Houthi rebels are operating their own GuardZoo spyware](https://www.theregister.com/2024/07/09/houthi_rebels_malware/)
-- [Canada became a car theft capital of the world](https://www.bbc.com/news/articles/cy79dq2n093o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
