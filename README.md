@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Metal Thieves in America&#39;s Cities](https://www.nytimes.com/2024/07/09/us/copper-theft-heavy-metal.html)
-- [Arrow&#39;s Impossibility Theorem [video]](https://www.youtube.com/watch?v=AhVR7gFMKNg)
-- [New insights into transcription factors and chromatin remodeling](https://longevity.technology/news/master-controller-of-aging-and-development-uncovered/)
-- [Tokyo&#39;s oldest train line – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
-- [Judge dismisses DMCA copyright claim in GitHub Copilot suit](https://www.theregister.com/2024/07/08/github_copilot_dmca/)
+- [Daylight eInk Computer](https://daylightcomputer.com)
+- [A small studio made a game based on Stanislaw Lem&#39;s novel](https://invinciblethegame.com/)
+- [Russia Leverages AI-enhanced &quot;Meliorator&quot; software for foreign malign influence](https://www.cyber.gc.ca/en/news-events/russian-state-sponsored-media-organization-leverages-ai-enhanced-meliorator-software-foreign-malign-influence-activity)
+- [Family fight Samsung over fridge odour they say caused dizziness and memory loss](https://www.abc.net.au/news/2024-07-10/victorian-family-battles-samsung-over-fridge-odour/104071036)
+- [Show HN → Parallel DOM: Upgrade your DOM to be multithreaded](https://www.pdom.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
