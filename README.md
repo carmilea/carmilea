@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2024-6409: OpenSSH: Possible remote code execution in privsep child](https://www.openwall.com/lists/oss-security/2024/07/08/2)
-- [Scientists create a cell that precludes malignant growth](https://phys.org/news/2024-07-scientists-cell-precludes-malignant-growth.html)
-- [Let&#39;s &#39;Double-Click&#39; on the Latest Cringeworthy Corporate Buzzword](https://www.wsj.com/lifestyle/workplace/double-click-corporate-buzzword-cringe-421e8cce)
-- [Microsoft&#39;s Weather app now shows more ads](https://www.ghacks.net/2024/07/01/microsofts-weather-app-now-displays-more-ads/)
-- [Tesla parental controls keep teenage lead feet in check](https://www.theregister.com/2024/07/09/tesla_parental_controls/)
+- [Attention Is a Proof of Love](https://papanotes.com/attention-is-a-proof-of-love)
+- [Docs as code &lpar;2017&rpar;](https://www.writethedocs.org/guide/docs-as-code/)
+- [Linksys Velop routers send Wi-Fi passwords in plaintext to US servers](https://stackdiary.com/linksys-velop-routers-send-wi-fi-passwords-in-plaintext-to-us-servers/)
+- [Another AI company wrote us and here’s our response](https://warandpeas.com/2024/07/09/another-ai-company-wrote-us-and-heres-our-response/)
+- [AI Humane execs leave company to found AI fact-checking startup](https://techcrunch.com/2024/07/09/humane-execs-leave-company-to-found-ai-fact-checking-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
