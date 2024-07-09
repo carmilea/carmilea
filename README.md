@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SF&#39;s AI boom can&#39;t stop real estate slide, as office vacancies reach new record](https://www.cnbc.com/2024/07/08/san-franciscos-real-estate-slide-continues-as-office-vacancies-peak.html)
-- [Glest – The free real-time strategy game](https://glest.org/en/index.php)
+- [LightRAG: The PyTorch Library for Large Language Model Applications](https://github.com/SylphAI-Inc/LightRAG)
+- [Show HN: I built a IMDB for all kinds of micro-creators](https://fanzine.world/)
+- [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/stories/magazine/mouse-heaven-or-mouse-hell/)
 - [Show HN: The easiest way to create web UIs for ROS robots](https://transitiverobotics.com/caps/transitive-robotics/ros-tool/)
 - [Twenty Five Years of Warehouse-Scale Computing](https://www.computer.org/csdl/magazine/mi/5555/01/10551740/1XyKBf0Y6uA)
-- [How we tamed Node.js event loop lag: a deepdive](https://trigger.dev/blog/event-loop-lag)
 <!-- BLOG-POST-LIST:END -->
 
 ---
