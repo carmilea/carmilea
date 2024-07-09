@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Middlemen have outsized influence on drug prices due to market consolidation,FTC](https://www.cnbc.com/2024/07/09/middlemen-have-outsized-influence-on-us-drug-prices-due-to-market-consolidation-ftc-says.html)
-- [Users rage Microsoft announces retirement of Office 365 connectors within Teams](https://www.theregister.com/2024/07/09/users_rage_as_microsoft_announces/)
-- [String Theory Unravels New Pi Formula: A Quantum Leap in Mathematics](https://scitechdaily.com/string-theory-unravels-new-pi-formula-a-quantum-leap-in-mathematics/)
-- [Etsy: Company escaping &#39;race to the bottom&#39;, getting back to its artisan roots](https://www.cnbc.com/2024/07/09/etsy-escaping-race-to-the-bottom-and-getting-back-to-artisan-roots.html)
-- [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
+- [CVE-2024-6409: OpenSSH: Possible remote code execution in privsep child](https://www.openwall.com/lists/oss-security/2024/07/08/2)
+- [Scientists create a cell that precludes malignant growth](https://phys.org/news/2024-07-scientists-cell-precludes-malignant-growth.html)
+- [Let&#39;s &#39;Double-Click&#39; on the Latest Cringeworthy Corporate Buzzword](https://www.wsj.com/lifestyle/workplace/double-click-corporate-buzzword-cringe-421e8cce)
+- [Microsoft&#39;s Weather app now shows more ads](https://www.ghacks.net/2024/07/01/microsofts-weather-app-now-displays-more-ads/)
+- [Tesla parental controls keep teenage lead feet in check](https://www.theregister.com/2024/07/09/tesla_parental_controls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
