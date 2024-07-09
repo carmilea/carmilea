@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Neuroscience of Resistance to Change](https://www.sanaross.com/the-neuroscience-of-achieving-more/neuroscience-and-ld-overcoming-resistance-to-change)
-- [The Race to Seal Helium HDDs](https://blog.westerndigital.com/race-to-seal-helium/)
-- [Show HN: Tegon: Open-source alternative to Jira, Linear](https://github.com/tegonhq/tegon)
-- [The zombie misconception of theoretical computer science](https://scottaaronson.blog/?p=8106)
-- [Another Silicon Valley institution died spring of 2019: Halted/HSC](http://halted.com)
+- [FAA orders inspection of 2,600 Boeing 737s over oxygen mask issue](https://www.reuters.com/business/aerospace-defense/faa-orders-inspections-2600-boeing-737-airplanes-over-oxygen-mask-issue-2024-07-08/)
+- [HP discontinues online-only LaserJet printers in response to backlash](https://www.tomshardware.com/peripherals/printers/hp-discontinues-online-only-laserjet-printers-in-response-to-backlash)
+- [Surprising Gender Biases in GPT](https://osf.io/preprints/psyarxiv/mp27q)
+- [Microsoft&#39;s Xandr grants GDPR rights at a rate of 0%](https://noyb.eu/en/microsofts-xandr-grants-gdpr-rights-rate-0)
+- [Show HN: Crawlee for Python – a web scraping and browser automation library](https://crawlee.dev/python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
