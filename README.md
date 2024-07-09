@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Come Back Stronger from Organizational Trauma](https://sloanreview.mit.edu/article/how-to-come-back-stronger-from-organizational-trauma/)
+- [Metal Thieves in America&#39;s Cities](https://www.nytimes.com/2024/07/09/us/copper-theft-heavy-metal.html)
 - [Arrow&#39;s Impossibility Theorem [video]](https://www.youtube.com/watch?v=AhVR7gFMKNg)
-- [Pulitzer winning reporter faces jail for protecting funding scandal sources](https://www.nbcnews.com/investigations/anna-wolfe-pulitzer-mississippi-welfare-scandal-phil-bryant-rcna159936)
-- [Let&#39;s Treat Docs Like Code](https://www.docslikecode.com/)
-- [Master controller of aging and development uncovered](https://longevity.technology/news/master-controller-of-aging-and-development-uncovered/)
+- [New insights into transcription factors and chromatin remodeling](https://longevity.technology/news/master-controller-of-aging-and-development-uncovered/)
+- [Tokyo&#39;s oldest train line – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
+- [Judge dismisses DMCA copyright claim in GitHub Copilot suit](https://www.theregister.com/2024/07/08/github_copilot_dmca/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
