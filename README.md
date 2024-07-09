@@ -43,7 +43,7 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Supercharge Your Postgres App 100X faster with SingleStore](https://www.youtube.com/watch?v=2-BP9NzAwqg)
+- [Supercharge Your Postgres App 100X faster with SingleStore &lpar;Real-Life Examples&rpar;](https://www.youtube.com/watch?v=2-BP9NzAwqg)
 - [How to Build Full-Stack AI App with Vercel, NextJS, SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=inf09abCZx0)
 - [Fathom Analytics is Simple &amp; Shows Real-Time Data](https://www.youtube.com/watch?v=k5StDhpkOL8)
 - [Is Laravel the Best Framework for New Applications?](https://www.youtube.com/watch?v=YHYy-iOMrOI)
