@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [State of Text Rendering 2024](https://behdad.org/text2024/)
 - [Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)
 - [Keyboards Influenced by Touchscreens &lpar;2011&rpar;](https://eagain.net/blog/2011/04/30/keyboards.html)
 - [LightRAG: The PyTorch Library for Large Language Model Applications](https://github.com/SylphAI-Inc/LightRAG)
 - [Show HN: I built a IMDB for all kinds of micro-creators](https://fanzine.world/)
-- [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/stories/magazine/mouse-heaven-or-mouse-hell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
