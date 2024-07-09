@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t use 7-segment displays [pdf]](https://harold.thimbleby.net/cv/files/seven-segment.pdf)
+- [Unreal Engine 5 in WebGPU](https://twitter.com/AlexStLouis10/status/1810514325632659742)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40918300)
 - [Ariane 6 first flight &lpar;Official broadcast&rpar;[video]](https://www.youtube.com/watch?v=B0oFpOJaIYc)
-- [Electric Vehicle Batteries Surprising New Source of &#39;Forever Chemical&#39; Pollution](https://www.businessinsider.com/ev-batteries-pfas-forever-chemicals-scientists-say-2024-7)
 - [Ask HN: How Do Browsers Isolate Internal Audio from Microphone Input?](https://news.ycombinator.com/item?id=40918152)
-- [A Brand-New Electric Bus, No Charge](https://www.nytimes.com/2024/07/09/climate/electric-school-bus-wymore.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
