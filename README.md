@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows on ARM Is Here to Stay](https://spectrum.ieee.org/windows-on-arm)
-- [Retirement of Office 365 connectors within Microsoft Teams](https://devblogs.microsoft.com/microsoft365dev/retirement-of-office-365-connectors-within-microsoft-teams/)
+- [The Private Equity Bubble Is About to Deflate](https://www.bloomberg.com/opinion/articles/2024-07-09/the-private-equity-bubble-is-about-to-deflate)
+- [GenBook RK3588 – Modular open-source ARM laptop with DIY expansion capabilities](https://www.crowdsupply.com/shenzhen-tianmao-technology-co-ltd/genbook-rk3588)
 - [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
-- [California to impose permanent water restrictions on cities and towns](https://ktla.com/news/california/california-to-impose-permanent-water-restrictions-on-cities-and-towns/)
-- [OneFileLinux: A 20MB Alpine metadistro that fits into the ESP](https://hub.zhovner.com/geek/one-file-linux/)
+- [Houthi rebels are operating their own GuardZoo spyware](https://www.theregister.com/2024/07/09/houthi_rebels_malware/)
+- [Canada became a car theft capital of the world](https://www.bbc.com/news/articles/cy79dq2n093o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
