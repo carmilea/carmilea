@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Zombie Misconception of Theoretical Computer Science](https://scottaaronson.blog/?p=8106)
-- [Nearly 2M metric tons of wild fish used to feed Norwegian farmed salmon](https://www.seafoodsource.com/news/aquaculture/report-nearly-2-million-metric-tons-of-wild-fish-used-to-feed-norwegian-farmed-salmon-annually)
+- [The Neuroscience of Resistance to Change](https://www.sanaross.com/the-neuroscience-of-achieving-more/neuroscience-and-ld-overcoming-resistance-to-change)
+- [The Race to Seal Helium HDDs](https://blog.westerndigital.com/race-to-seal-helium/)
+- [Show HN: Tegon: Open-source alternative to Jira, Linear](https://github.com/tegonhq/tegon)
+- [The zombie misconception of theoretical computer science](https://scottaaronson.blog/?p=8106)
 - [Another Silicon Valley institution died spring of 2019: Halted/HSC](http://halted.com)
-- [State of Text Rendering 2024](https://behdad.org/text2024/)
-- [Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
