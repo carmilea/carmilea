@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Speed Limiters Now Mandatory in All New EU Cars](https://www.autoweek.com/news/a61532276/mandatory-speed-limiters-europe-cars/)
+- [Newpipe/yt-dlp stops working](https://github.com/TeamNewPipe/NewPipe/issues/11254)
+- [Tokyo&#39;s oldest train line – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
+- [Judge dismisses DMCA copyright claim in GitHub Copilot suit](https://www.theregister.com/2024/07/08/github_copilot_dmca/)
 - [Don&#39;t use 7-segment displays [pdf]](https://harold.thimbleby.net/cv/files/seven-segment.pdf)
-- [Unreal Engine 5 in WebGPU](https://twitter.com/AlexStLouis10/status/1810514325632659742)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40918300)
-- [Ariane 6 first flight &lpar;Official broadcast&rpar;[video]](https://www.youtube.com/watch?v=B0oFpOJaIYc)
-- [Ask HN: How Do Browsers Isolate Internal Audio from Microphone Input?](https://news.ycombinator.com/item?id=40918152)
 <!-- BLOG-POST-LIST:END -->
 
 ---
