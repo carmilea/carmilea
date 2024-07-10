@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RADIUS protocol susceptible to forgery attacks](https://www.blastradius.fail/)
+- [Website Themes with uBlock Origin](https://darekkay.com/blog/ublock-website-themes/)
 - [Well, it&#39;s just an AWS Account ID](https://mail.cloudsecurity.club/p/well-just-aws-account-id)
 - [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
 - [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Marketing Writer](https://www.ycombinator.com/companies/codecrafters/jobs/s2MPHPu-marketing-writer-technical)
-- [Automate Project Environments with Devbox and Direnv](https://www.jetify.com/blog/automated-dev-envs-with-devbox-and-direnv/)
-- [The Seal Failure in the SRB That Doomed Challenger](https://exrocketman.blogspot.com/2021/12/the-seal-failure-in-srb-that-doomed.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
