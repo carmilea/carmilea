@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Marketing Writer](https://www.ycombinator.com/companies/codecrafters/jobs/s2MPHPu-marketing-writer-technical)
+- [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
+- [Enhancing the New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
 - [Framework Laptop 13 Deep Dive: A laptop webcam with smartphone technology](https://frame.work/blog/framework-laptop-13-deep-dive---a-laptop-webcam-with-smartphone-technology)
-- [Family fight Samsung over fridge odour they say caused dizziness and memory loss](https://www.abc.net.au/news/2024-07-10/victorian-family-battles-samsung-over-fridge-odour/104071036)
-- [Show HN: Parallel DOM – Upgrade your DOM to be multithreaded](https://www.pdom.dev/)
 - [Show HN: Maelstrom – A Hermetic, Clustered Test Runner for Python and Rust](https://github.com/maelstrom-software/maelstrom)
-- [How to validate a market with development boards and SD cards](https://flyingcarcomputer.com/posts/how-to-validate-market-with-development-board/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
