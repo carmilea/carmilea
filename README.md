@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Well, it&#39;s just an AWS Account ID](https://mail.cloudsecurity.club/p/well-just-aws-account-id)
 - [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
 - [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Marketing Writer](https://www.ycombinator.com/companies/codecrafters/jobs/s2MPHPu-marketing-writer-technical)
-- [Awsviz.dev simplifying AWS IAM policies](https://www.awsviz.dev/)
-- [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
-- [Knowledge Graphs in RAG: Hype vs. Ragas Analysis](https://aiencoder.substack.com/p/graphrag-analysis-part-1-how-indexing)
+- [Automate Project Environments with Devbox and Direnv](https://www.jetify.com/blog/automated-dev-envs-with-devbox-and-direnv/)
+- [The Seal Failure in the SRB That Doomed Challenger](https://exrocketman.blogspot.com/2021/12/the-seal-failure-in-srb-that-doomed.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
