@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
+- [Europe&#39;s new Ariane 6 rocket powers into space](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Europe_s_new_Ariane_6_rocket_powers_into_space)
 - [Photoroom &lpar;YC S20&rpar; Is Hiring Rust Developers in Paris &lpar;X-Platform, Wgpu, WASM&rpar;](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
-- [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
 - [Automate Project Environments with Devbox and Direnv](https://www.jetify.com/blog/automated-dev-envs-with-devbox-and-direnv/)
 - [The Seal Failure in the SRB That Doomed Challenger &lpar;2021&rpar;](https://exrocketman.blogspot.com/2021/12/the-seal-failure-in-srb-that-doomed.html)
-- [Awsviz.dev simplifying AWS IAM policies](https://www.awsviz.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
