@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Motion &lpar;YC W20&rpar; Is Hiring Senior Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [Zed on Linux Is Here](https://zed.dev/linux)
-- [The President Ordered Board to Probe Massive Russian Cyberattack. It Never Did](https://www.propublica.org/article/cyber-safety-board-never-investigated-solarwinds-breach-microsoft)
-- [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
-- [Vision language models are blind](https://vlmsareblind.github.io/)
+- [Ask HN: Do AI-generated images ruin technical posts for anyone else?](https://news.ycombinator.com/item?id=40929497)
+- [Europe&#39;s drinking water contaminated by &#39;forever chemical&#39;: NGOs](https://phys.org/news/2024-07-europe-contaminated-chemical-ngos.html)
+- [Tech giant Samsung workers to strike indefinitely](https://www.bbc.com/news/articles/c51yelv4e72o)
+- [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
+- [Scorecard: Assess Open Source Project Security](https://scorecard.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
