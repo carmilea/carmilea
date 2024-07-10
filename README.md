@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intuit to Cut 10% of Employees in Latest Round of Tech Layoffs](https://www.bloomberg.com/news/articles/2024-07-10/intuit-to-cull-10-of-employees-in-latest-round-of-tech-layoffs)
+- [AMD to buy Finnish startup Silo AI for $665M in drive to compete with Nvidia](https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2)
+- [Show HN: Posting v1 – The modern HTTP client that lives in your terminal](https://github.com/darrenburns/posting)
 - [Show HN: I made a Note-Taking app for people who keep texting themselves](https://strflow.app)
-- [Show HN: ML Code Exercises](https://www.deep-ml.com/)
-- [Girls in Tech closes its doors after 17 years](https://venturebeat.com/games/girls-in-tech-closes-its-doors-after-17-years/)
-- [Plausible Community Edition](https://plausible.io/blog/community-edition)
-- [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
+- [ML Code Exercises](https://www.deep-ml.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
