@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
 - [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Marketing Writer](https://www.ycombinator.com/companies/codecrafters/jobs/s2MPHPu-marketing-writer-technical)
-- [New technology and old tactics have made buying a car a death march of deception](https://prospect.org/power/2024-07-08-car-dealership-fee-financing-scams/)
+- [Awsviz.dev simplifying AWS IAM policies](https://www.awsviz.dev/)
 - [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
-- [Show HN: Maelstrom – A Hermetic, Clustered Test Runner for Python and Rust](https://github.com/maelstrom-software/maelstrom)
+- [Knowledge Graphs in RAG: Hype vs. Ragas Analysis](https://aiencoder.substack.com/p/graphrag-analysis-part-1-how-indexing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
