@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Copenhagen rewards tourists for climate friendly actions](https://www.visitcopenhagen.com/copenpay)
-- [AMD to buy Silo AI for $665M](https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2)
-- [Training of Physical Neural Networks](https://arxiv.org/abs/2406.03372)
-- [At the Mountains of Madness](https://antithesis.com/blog/madness/)
-- [Towards Idempotent Rebuilds?](https://blog.josefsson.org/2024/07/10/towards-idempotent-rebuilds/)
+- [Motion &lpar;YC W20&rpar; Is Hiring Senior Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [Zed on Linux Is Here](https://zed.dev/linux)
+- [The President Ordered Board to Probe Massive Russian Cyberattack. It Never Did](https://www.propublica.org/article/cyber-safety-board-never-investigated-solarwinds-breach-microsoft)
+- [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
+- [Vision language models are blind](https://vlmsareblind.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
