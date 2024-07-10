@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Children&#39;s daily sugar consumption halved just a year after tax, study finds](https://www.theguardian.com/society/article/2024/jul/09/childrens-daily-sugar-consumption-halves-just-a-year-after-tax-study-finds)
 - [Photoroom &lpar;YC S20&rpar; Is Hiring Rust Developers in Paris &lpar;X-Platform, Wgpu, WASM&rpar;](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
 - [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
 - [Automate Project Environments with Devbox and Direnv](https://www.jetify.com/blog/automated-dev-envs-with-devbox-and-direnv/)
 - [The Seal Failure in the SRB That Doomed Challenger &lpar;2021&rpar;](https://exrocketman.blogspot.com/2021/12/the-seal-failure-in-srb-that-doomed.html)
+- [Awsviz.dev simplifying AWS IAM policies](https://www.awsviz.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
