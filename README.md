@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI speech generator &#39;reaches human parity&#39; – but it&#39;s too dangerous to release](https://www.livescience.com/technology/artificial-intelligence/ai-speech-generator-reaches-human-parity-but-its-too-dangerous-to-release-scientists-say)
-- [Intuit to Cut 10% of Employees in Latest Round of Tech Layoffs](https://www.bloomberg.com/news/articles/2024-07-10/intuit-to-cull-10-of-employees-in-latest-round-of-tech-layoffs)
-- [AMD to buy Finnish start-up Silo AI for $665M](https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2)
+- [Copenhagen rewards tourists for climate friendly actions](https://www.visitcopenhagen.com/copenpay)
+- [AMD to buy Silo AI for $665M](https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2)
 - [Training of Physical Neural Networks](https://arxiv.org/abs/2406.03372)
+- [At the Mountains of Madness](https://antithesis.com/blog/madness/)
 - [Towards Idempotent Rebuilds?](https://blog.josefsson.org/2024/07/10/towards-idempotent-rebuilds/)
 <!-- BLOG-POST-LIST:END -->
 
