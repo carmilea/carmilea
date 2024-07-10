@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Redbox will shut down, corporate parent is being liquidated](https://www.lowpass.cc/p/redbox-shutting-down)
 - [Scientists Discover a Cause of Lupus, Possible Way to Reverse It](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
-- [Changes to Stripe Billing](https://support.stripe.com/questions/july-2024-changes-to-stripe-billing)
+- [Estimated Childhood Lead Exposure from Drinking Water in Chicago](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2815850)
 - [The Scalable SQL, Full-Text and Vector Platform for Gen AI](https://www.singlestore.com/blog/sql-full-text-vector-platform-for-gen-ai)
 - [Big Ball of Mud &lpar;1999&rpar;](http://laputan.org/mud/)
-- [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
