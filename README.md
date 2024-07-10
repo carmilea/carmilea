@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
 - [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Marketing Writer](https://www.ycombinator.com/companies/codecrafters/jobs/s2MPHPu-marketing-writer-technical)
+- [New technology and old tactics have made buying a car a death march of deception](https://prospect.org/power/2024-07-08-car-dealership-fee-financing-scams/)
 - [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
-- [Enhancing the New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
-- [Framework Laptop 13 Deep Dive: A laptop webcam with smartphone technology](https://frame.work/blog/framework-laptop-13-deep-dive---a-laptop-webcam-with-smartphone-technology)
 - [Show HN: Maelstrom – A Hermetic, Clustered Test Runner for Python and Rust](https://github.com/maelstrom-software/maelstrom)
 <!-- BLOG-POST-LIST:END -->
 
