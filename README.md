@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ML Code Challenges](https://www.deep-ml.com/)
+- [Show HN: I made a Note-Taking app for people who keep texting themselves](https://strflow.app)
+- [Show HN: ML Code Exercises](https://www.deep-ml.com/)
+- [Girls in Tech closes its doors after 17 years](https://venturebeat.com/games/girls-in-tech-closes-its-doors-after-17-years/)
 - [Plausible Community Edition](https://plausible.io/blog/community-edition)
-- [Mastering Email Security: Deep Dive into SPF, DKIM, and DMARC](https://bastion.tech/blog/spf-dkim-dmarc-email-security-explained)
 - [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
-- [I miss the old IndieHackers website, so I started an alternative](https://www.skool.com/indie-makers-5425/about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
