@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RADIUS protocol susceptible to forgery attacks](https://www.blastradius.fail/)
-- [Website Themes with uBlock Origin](https://darekkay.com/blog/ublock-website-themes/)
-- [Well, it&#39;s just an AWS Account ID](https://mail.cloudsecurity.club/p/well-just-aws-account-id)
+- [Photoroom &lpar;YC S20&rpar; Is Hiring Rust Developers in Paris &lpar;X-Platform, Wgpu, WASM&rpar;](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
 - [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
-- [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Marketing Writer](https://www.ycombinator.com/companies/codecrafters/jobs/s2MPHPu-marketing-writer-technical)
+- [Automate Project Environments with Devbox and Direnv](https://www.jetify.com/blog/automated-dev-envs-with-devbox-and-direnv/)
+- [The Seal Failure in the SRB That Doomed Challenger &lpar;2021&rpar;](https://exrocketman.blogspot.com/2021/12/the-seal-failure-in-srb-that-doomed.html)
+- [Awsviz.dev simplifying AWS IAM policies](https://www.awsviz.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
