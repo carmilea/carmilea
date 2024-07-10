@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [July 2024 changes to Stripe Billing](https://support.stripe.com/questions/july-2024-changes-to-stripe-billing)
-- [Walmart Selling MacBook Air with M1 Chip for $649 Starting Today](https://www.macrumors.com/2024/07/08/walmart-m1-macbook-air-for-649/)
-- [Ask HN: Why does no one seem to care that AI gives wrong answers?](https://news.ycombinator.com/item?id=40930834)
+- [Scientists Discover a Cause of Lupus, Possible Way to Reverse It](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
+- [Changes to Stripe Billing](https://support.stripe.com/questions/july-2024-changes-to-stripe-billing)
 - [The Scalable SQL, Full-Text and Vector Platform for Gen AI](https://www.singlestore.com/blog/sql-full-text-vector-platform-for-gen-ai)
 - [Big Ball of Mud &lpar;1999&rpar;](http://laputan.org/mud/)
+- [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
