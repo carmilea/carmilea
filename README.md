@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Do AI-generated images ruin technical posts for anyone else?](https://news.ycombinator.com/item?id=40929497)
-- [Europe&#39;s drinking water contaminated by &#39;forever chemical&#39;: NGOs](https://phys.org/news/2024-07-europe-contaminated-chemical-ngos.html)
-- [Tech giant Samsung workers to strike indefinitely](https://www.bbc.com/news/articles/c51yelv4e72o)
+- [Google testing facial recognition technology for security near Seattle](https://www.cnbc.com/2024/06/26/google-testing-facial-recognition-technology-for-security-near-seattle.html)
+- [What Was Chevron Deference?](https://www.minimumcomp.com/p/maxmin-chevron-deference)
+- [Senators strike bipartisan deal for ban on stock trading by members of Congress](https://www.cnbc.com/2024/07/10/senators-strike-bipartisan-deal-for-a-ban-on-stock-trading-by-members-of-congress.html)
 - [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
-- [Scorecard: Assess Open Source Project Security](https://scorecard.dev/)
+- [Motion &lpar;YC W20&rpar; Is Hiring Senior Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
