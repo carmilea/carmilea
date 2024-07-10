@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Chrome&#39;s hidden extension allows *.google.com to access private APIs](https://simonwillison.net/2024/Jul/9/hangout_servicesthunkjs/)
+- [July 2024 changes to Stripe Billing](https://support.stripe.com/questions/july-2024-changes-to-stripe-billing)
+- [Walmart Selling MacBook Air with M1 Chip for $649 Starting Today](https://www.macrumors.com/2024/07/08/walmart-m1-macbook-air-for-649/)
+- [Ask HN: Why does no one seem to care that AI gives wrong answers?](https://news.ycombinator.com/item?id=40930834)
 - [The Scalable SQL, Full-Text and Vector Platform for Gen AI](https://www.singlestore.com/blog/sql-full-text-vector-platform-for-gen-ai)
-- [Big Ball of Mud](http://laputan.org/mud/)
-- [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
-- [Motion &lpar;YC W20&rpar; Is Hiring Senior Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [Big Ball of Mud &lpar;1999&rpar;](http://laputan.org/mud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
