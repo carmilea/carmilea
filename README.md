@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore + 6sense: Accelerating sales pipeline to revenue with AI](https://www.youtube.com/watch?v=BoWWsgT0ujQ)
 - [AWS Summit Bengaluru: How 6sense uses SingleStore for its real-time analytics use cases](https://www.youtube.com/watch?v=i_8cBFeaL48)
 - [DEVCON24 SaaS Insider Insights: 6D Technologies, Dell, Factors.AI, ZoomInfo and SingleStore](https://www.youtube.com/watch?v=P_eRXM7A2IU)
 - [Run SingleStore + Local LLM on Your Mac for Private Data Analytics](https://www.youtube.com/watch?v=TuoxUK314HU)
 - [Supercharge Your Postgres App 100X faster with SingleStore &lpar;Real-Life Examples&rpar;](https://www.youtube.com/watch?v=2-BP9NzAwqg)
-- [How to Build Full-Stack AI App with Vercel, NextJS, SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=inf09abCZx0)
 <!-- YOUTUBE:END -->
 
 
