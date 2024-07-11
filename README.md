@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Night owls have better brain function than morning people, study suggests](https://news.sky.com/story/night-owls-have-better-brain-function-than-morning-people-study-suggests-13176210)
+- [Night owls&#39; cognitive function &#39;superior&#39; to early risers, study suggests](https://www.theguardian.com/science/article/2024/jul/11/night-owls-cognitive-function-superior-to-early-risers-study-suggests)
 - [I was an MIT educated neurosurgeon – now I&#39;m alone in the mountains [video]](https://www.youtube.com/watch?v=25LUF8GmbFU)
-- [Great Question &lpar;YC W21&rpar; is hiring senior Rails engineers in Australia](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react-australia)
-- [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
-- [An Abundance of Katherines: The Game Theory of Baby Naming](https://arxiv.org/abs/2404.00732)
-- [Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
+- [Change to FreeBSD release scheduling and support period](https://lists.freebsd.org/archives/freebsd-announce/2024-July/000143.html)
+- [Engineering Principles for Building Financial Systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
