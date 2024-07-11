@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GenAI does not Think nor Understand](https://hkubota.wordpress.com/2024/07/12/genai-does-not-think-nor-understand/)
-- [&quot;Rulers of the Ancient World&quot; period correct measuring tools](https://www.burn-heart.com/rulers-of-the-ancient-world)
-- [The Shining actress Shelley Duvall dies at 75](https://www.bbc.com/news/articles/cy77p22jr5lo)
-- [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
-- [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
+- [Dynolog: Open-Source System Observability](https://developers.facebook.com/blog/post/2022/11/16/dynolog-open-source-system-observability/)
+- [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-Precision](https://www.together.ai/blog/flashattention-3)
+- [Rulers of the Ancient World: period correct measuring tools](https://www.burn-heart.com/rulers-of-the-ancient-world)
+- [Korvus: Single-Query RAG with Postgres](https://github.com/postgresml/korvus)
+- [Future of Space Telescopes in the Era of Super Heavy Lift Launch](https://payloadspace.com/habitable-worlds-observatory-and-the-future-of-space-telescopes-in-the-era-of-heavy-lift-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
