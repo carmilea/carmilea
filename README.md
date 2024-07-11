@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Redbox will shut down, corporate parent is being liquidated](https://www.lowpass.cc/p/redbox-shutting-down)
+- [Great Question &lpar;YC W21&rpar; is hiring senior Rails engineers in Australia](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react-australia)
+- [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
 - [Scientists Discover a Cause of Lupus, Possible Way to Reverse It](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
-- [Estimated Childhood Lead Exposure from Drinking Water in Chicago](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2815850)
+- [The NYT Book Review Is Everything Book Criticism Shouldn&#39;t Be](https://www.currentaffairs.org/news/new-york-times-book-review)
 - [The Scalable SQL, Full-Text and Vector Platform for Gen AI](https://www.singlestore.com/blog/sql-full-text-vector-platform-for-gen-ai)
-- [Big Ball of Mud &lpar;1999&rpar;](http://laputan.org/mud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
