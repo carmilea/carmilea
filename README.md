@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynolog: Open-Source System Observability](https://developers.facebook.com/blog/post/2022/11/16/dynolog-open-source-system-observability/)
-- [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-Precision](https://www.together.ai/blog/flashattention-3)
-- [Rulers of the Ancient World: period correct measuring tools](https://www.burn-heart.com/rulers-of-the-ancient-world)
-- [Korvus: Single-Query RAG with Postgres](https://github.com/postgresml/korvus)
-- [Future of Space Telescopes in the Era of Super Heavy Lift Launch](https://payloadspace.com/habitable-worlds-observatory-and-the-future-of-space-telescopes-in-the-era-of-heavy-lift-launch/)
+- [Physicists: Tachyons can be reconciled with the special theory of relativity](https://phys.org/news/2024-07-physicists-tachyons-special-theory.html)
+- [Dynolog: Open-Source System Observability &lpar;2022&rpar;](https://developers.facebook.com/blog/post/2022/11/16/dynolog-open-source-system-observability/)
+- [How water controls the speed of muscle contraction](https://phys.org/news/2024-07-muscle-machine.html)
+- [Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF](https://github.com/gojue/ecapture)
+- [Ask HN: Where do you keep your 401k investments?](https://news.ycombinator.com/item?id=40938783)
 <!-- BLOG-POST-LIST:END -->
 
 ---
