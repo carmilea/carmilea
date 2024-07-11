@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DuckDB Meets Postgres](https://blog.paradedb.com/pages/iceberg_lakehouse)
+- [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
+- [Why Doesn&#39;t Advice Work?](https://dynomight.net/advice/)
 - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
 - [Serious errors plague DNA tool that&#39;s a workhorse of biology](https://www.nature.com/articles/d41586-024-02280-1)
-- [Qualcomm&#39;s Oryon Core: A Long Time in the Making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
-- [The Typeset of Wall·E &lpar;2018&rpar;](https://typesetinthefuture.com/2018/12/04/walle/)
-- [A Relativistic Framework to Establish Coordinate Time on the Moon and Beyond](https://arxiv.org/abs/2402.11150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
