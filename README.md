@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini can&#39;t be disabled on Google Docs](https://twitter.com/kevinbankston/status/1811075836558114968)
+- [The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix](https://ktema.org/articles/the-overengineered-resume/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring an Auth Engineer &lpar;Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5225004004)
 - [Engineering principles for building financial systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
 - [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
-- [An Abundance of Katherines: The Game Theory of Baby Naming](https://arxiv.org/abs/2404.00732)
-- [Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
