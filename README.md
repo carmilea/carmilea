@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Night owls have better brain function than morning people, study suggests](https://news.sky.com/story/night-owls-have-better-brain-function-than-morning-people-study-suggests-13176210)
+- [Supabase &lpar;YC S20&rpar; Is Hiring an Auth Engineer &lpar;Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5225004004)
+- [Xen Project in peril as colo provider housing test platform closes](https://www.theregister.com/2024/07/11/xen_project_colo_closes_warning/)
 - [Night owls&#39; cognitive function &#39;superior&#39; to early risers, study suggests](https://www.theguardian.com/science/article/2024/jul/11/night-owls-cognitive-function-superior-to-early-risers-study-suggests)
-- [I was an MIT educated neurosurgeon – now I&#39;m alone in the mountains [video]](https://www.youtube.com/watch?v=25LUF8GmbFU)
-- [Change to FreeBSD release scheduling and support period](https://lists.freebsd.org/archives/freebsd-announce/2024-July/000143.html)
-- [Engineering Principles for Building Financial Systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
+- [Engineering principles for building financial systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
+- [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
 <!-- BLOG-POST-LIST:END -->
 
 ---
