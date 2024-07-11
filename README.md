@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40940565)
-- [Ubuntu Security Updates Are a Confusing Mess](https://gld.mcphail.uk/posts/ubuntu-security-updates-are-a-confusing-mess/)
-- [Helium reservoir with &#39;mind-boggling&#39; concentrations may be even bigger](https://www.livescience.com/planet-earth/geology/massive-helium-reservoir-with-mind-boggling-concentrations-may-be-even-bigger-more-concentrated-than-we-thought)
 - [WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
 - [CodeMirror: Extensible code editor component for the web](https://codemirror.net)
+- [Ask HN: Trouble learning things I view as solutions looking for a problem](https://news.ycombinator.com/item?id=40940158)
+- [Charm creates a potent therapy candidate for fatal prion diseases](https://news.mit.edu/2024/charmed-collaboration-creates-therapy-candidate-fatal-prion-diseases-0627)
 <!-- BLOG-POST-LIST:END -->
 
 ---
