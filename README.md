@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Karpathy: Let&#39;s reproduce GPT-2 &lpar;1.6B&rpar;: one 8XH100 node 24h $672 in llm.c](https://github.com/karpathy/llm.c/discussions/677)
-- [Apple Vision Pro U.S. Sales Are All but Dead, Market Analysts Say](https://gizmodo.com/apple-vision-pro-u-s-sales-2000469302)
-- [Dynolog: Open-Source System Observability &lpar;2022&rpar;](https://developers.facebook.com/blog/post/2022/11/16/dynolog-open-source-system-observability/)
-- [How water controls the speed of muscle contraction](https://phys.org/news/2024-07-muscle-machine.html)
-- [Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF](https://github.com/gojue/ecapture)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40940565)
+- [Ubuntu Security Updates Are a Confusing Mess](https://gld.mcphail.uk/posts/ubuntu-security-updates-are-a-confusing-mess/)
+- [Helium reservoir with &#39;mind-boggling&#39; concentrations may be even bigger](https://www.livescience.com/planet-earth/geology/massive-helium-reservoir-with-mind-boggling-concentrations-may-be-even-bigger-more-concentrated-than-we-thought)
+- [WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
+- [CodeMirror: Extensible code editor component for the web](https://codemirror.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
