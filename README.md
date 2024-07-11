@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lix 2.90 &quot;Vanilla Ice Cream&quot;](https://lix.systems/blog/2024-07-10-lix-2.90-release/)
-- [Ask HN: Who&#39;s been hired through Hacker News?](https://news.ycombinator.com/item?id=40932948)
 - [Great Question &lpar;YC W21&rpar; is hiring senior Rails engineers in Australia](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react-australia)
 - [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
 - [An Abundance of Katherines: The Game Theory of Baby Naming](https://arxiv.org/abs/2404.00732)
+- [Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
+- [The NYT book review is everything book criticism shouldn&#39;t be](https://www.currentaffairs.org/news/new-york-times-book-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
