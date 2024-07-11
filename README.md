@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Physicists: Tachyons can be reconciled with the special theory of relativity](https://phys.org/news/2024-07-physicists-tachyons-special-theory.html)
+- [Karpathy: Let&#39;s reproduce GPT-2 &lpar;1.6B&rpar;: one 8XH100 node 24h $672 in llm.c](https://github.com/karpathy/llm.c/discussions/677)
+- [Apple Vision Pro U.S. Sales Are All but Dead, Market Analysts Say](https://gizmodo.com/apple-vision-pro-u-s-sales-2000469302)
 - [Dynolog: Open-Source System Observability &lpar;2022&rpar;](https://developers.facebook.com/blog/post/2022/11/16/dynolog-open-source-system-observability/)
 - [How water controls the speed of muscle contraction](https://phys.org/news/2024-07-muscle-machine.html)
 - [Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF](https://github.com/gojue/ecapture)
-- [Ask HN: Where do you keep your 401k investments?](https://news.ycombinator.com/item?id=40938783)
 <!-- BLOG-POST-LIST:END -->
 
 ---
