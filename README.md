@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Typeset of Wall·E](https://typesetinthefuture.com/2018/12/04/walle/)
-- [Majority of sites and apps use dark patterns in the marketing of subscriptions](https://icpen.org/news/1360)
-- [GitHub Copilot is not infringing your copyright](https://felixreda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/)
-- [Gemini can&#39;t be disabled on Google Docs](https://twitter.com/kevinbankston/status/1811075836558114968)
-- [A Relativistic Framework to Establish Coordinate Time on the Moon and Beyond](https://arxiv.org/abs/2402.11150)
+- [If AI chatbots are the future, I hate it](https://www.jeffgeerling.com/blog/2024/if-ai-chatbots-are-future-i-hate-it)
+- [Kids Who Get Smartphones Earlier Become Adults with Worse Mental Health](https://www.afterbabel.com/p/sapien-smartphone-report)
+- [Oncologists on simple, doable, everyday things they do to try to prevent cancer](https://www.theguardian.com/lifeandstyle/article/2024/jul/11/the-experts-oncologists-on-the-simple-doable-everyday-things-they-do-to-try-to-prevent-cancer)
+- [Xiaomi&#39;s self-optimizing autonomous factory will make 10M+ phones a year](https://newatlas.com/robotics/xiaomi-dark-robotic-factory/)
+- [Qualcomm&#39;s Oryon Core: A Long Time in the Making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
