@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Supabase &lpar;YC S20&rpar; Is Hiring an Auth Engineer &lpar;Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5225004004)
-- [Xen Project in peril as colo provider housing test platform closes](https://www.theregister.com/2024/07/11/xen_project_colo_closes_warning/)
-- [Night owls&#39; cognitive function &#39;superior&#39; to early risers, study suggests](https://www.theguardian.com/science/article/2024/jul/11/night-owls-cognitive-function-superior-to-early-risers-study-suggests)
 - [Engineering principles for building financial systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
 - [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
+- [An Abundance of Katherines: The Game Theory of Baby Naming](https://arxiv.org/abs/2404.00732)
+- [Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
