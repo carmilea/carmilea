@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft killed my online life after I called Gaza](https://www.bbc.com/news/articles/cger582weplo)
-- [Ultra simplified &quot;MNIST&quot; in 60 lines of Python with NumPy](https://github.com/tonio-m/python_neural_network)
 - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
-- [If AI chatbots are the future, I hate it](https://www.jeffgeerling.com/blog/2024/if-ai-chatbots-are-future-i-hate-it)
-- [Kids Who Get Smartphones Earlier Become Adults with Worse Mental Health &lpar;2023&rpar;](https://www.afterbabel.com/p/sapien-smartphone-report)
+- [Qualcomm&#39;s Oryon Core: A Long Time in the Making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
+- [The Typeset of Wall·E &lpar;2018&rpar;](https://typesetinthefuture.com/2018/12/04/walle/)
+- [A Relativistic Framework to Establish Coordinate Time on the Moon and Beyond](https://arxiv.org/abs/2402.11150)
+- [The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix &lpar;2023&rpar;](https://ktema.org/articles/the-overengineered-resume/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
