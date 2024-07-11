@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft killed my online life after I called Gaza](https://www.bbc.com/news/articles/cger582weplo)
+- [Ultra simplified &quot;MNIST&quot; in 60 lines of Python with NumPy](https://github.com/tonio-m/python_neural_network)
+- [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
 - [If AI chatbots are the future, I hate it](https://www.jeffgeerling.com/blog/2024/if-ai-chatbots-are-future-i-hate-it)
-- [Kids Who Get Smartphones Earlier Become Adults with Worse Mental Health](https://www.afterbabel.com/p/sapien-smartphone-report)
-- [Oncologists on simple, doable, everyday things they do to try to prevent cancer](https://www.theguardian.com/lifeandstyle/article/2024/jul/11/the-experts-oncologists-on-the-simple-doable-everyday-things-they-do-to-try-to-prevent-cancer)
-- [Xiaomi&#39;s self-optimizing autonomous factory will make 10M+ phones a year](https://newatlas.com/robotics/xiaomi-dark-robotic-factory/)
-- [Qualcomm&#39;s Oryon Core: A Long Time in the Making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
+- [Kids Who Get Smartphones Earlier Become Adults with Worse Mental Health &lpar;2023&rpar;](https://www.afterbabel.com/p/sapien-smartphone-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
