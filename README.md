@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40940565)
+- [Nike Slashed Its Sustainability Team](https://www.propublica.org/article/nike-layoffs-sustainability-climate-change)
 - [WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
-- [CodeMirror: Extensible code editor component for the web](https://codemirror.net)
-- [Ask HN: Trouble learning things I view as solutions looking for a problem](https://news.ycombinator.com/item?id=40940158)
-- [Charm creates a potent therapy candidate for fatal prion diseases](https://news.mit.edu/2024/charmed-collaboration-creates-therapy-candidate-fatal-prion-diseases-0627)
+- [Show HN: Mandala – Automatically save, query and version Python computations](https://github.com/amakelov/mandala)
 <!-- BLOG-POST-LIST:END -->
 
 ---
