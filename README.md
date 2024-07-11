@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini can&#39;t be disabled on Google Docs](https://twitter.com/kevinbankston/status/1811075836558114968)
+- [The Typeset of Wall·E](https://typesetinthefuture.com/2018/12/04/walle/)
+- [Majority of sites and apps use dark patterns in the marketing of subscriptions](https://icpen.org/news/1360)
+- [GitHub Copilot is not infringing your copyright](https://felixreda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/)
+- [A Relativistic Framework to Establish Coordinate Time on the Moon and Beyond](https://arxiv.org/abs/2402.11150)
 - [The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix](https://ktema.org/articles/the-overengineered-resume/)
-- [Supabase &lpar;YC S20&rpar; Is Hiring an Auth Engineer &lpar;Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5225004004)
-- [Engineering principles for building financial systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
-- [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
 <!-- BLOG-POST-LIST:END -->
 
 ---
