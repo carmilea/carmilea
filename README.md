@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DuckDB Meets Postgres](https://blog.paradedb.com/pages/iceberg_lakehouse)
+- [GenAI does not Think nor Understand](https://hkubota.wordpress.com/2024/07/12/genai-does-not-think-nor-understand/)
+- [&quot;Rulers of the Ancient World&quot; period correct measuring tools](https://www.burn-heart.com/rulers-of-the-ancient-world)
+- [The Shining actress Shelley Duvall dies at 75](https://www.bbc.com/news/articles/cy77p22jr5lo)
 - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
-- [Why Doesn&#39;t Advice Work?](https://dynomight.net/advice/)
 - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
-- [Serious errors plague DNA tool that&#39;s a workhorse of biology](https://www.nature.com/articles/d41586-024-02280-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
