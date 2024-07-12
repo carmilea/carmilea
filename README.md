@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alcohol is driving a half-dozen types of cancer in the U.S., study finds](https://www.statnews.com/2024/07/11/alcohol-cancer-causes-smoking-obesity/)
-- [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
-- [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
-- [Show HN: Smelt — an open source test runner for chip developers](https://silogy-io.github.io/smelt/)
-- [Born into slavery, he rose to the top of France&#39;s art world](https://www.washingtonpost.com/entertainment/art/2024/07/12/guillaume-lethiere-exhibition-life/)
+- [Blue checks on X deceiving users into engaging with harmful material, EU says](https://www.irishtimes.com/technology/big-tech/2024/07/12/blue-checks-on-elon-musks-x-are-deceptive-eu-says/)
+- [Gemini Pro refuses to acknowledge yt-dlp](https://twitter.com/adocomplete/status/1811802857022324904)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior GenAI/LLM Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
+- [California Faces the Grape Apocalypse due to slump in wine sales](https://www.wine-searcher.com/m/2024/07/california-faces-the-grape-apocalypse)
+- [Stack Overflow has stopped publishing data dumps to the Internet Archive](https://meta.stackexchange.com/questions/401324/announcing-a-change-to-the-data-dump-process)
 <!-- BLOG-POST-LIST:END -->
 
 ---
