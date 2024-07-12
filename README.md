@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Hardware Hacking with a Raspberry Pi](https://voidstarsec.com/blog/pifex-config)
+- [Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
+- [Peer review is essential for science. Unfortunately, it&#39;s broken](https://arstechnica.com/science/2024/07/peer-review-is-essential-for-science-unfortunately-its-broken/)
 - [Cradle: Empowering Foundation Agents Towards General Computer Control](https://baai-agents.github.io/Cradle/)
-- [Nearly all AT&amp;T cell customers&#39; call and text records exposed](https://www.cnn.com/2024/07/12/business/att-customers-massive-breach/index.html)
 - [Legion Health &lpar;YC S21&rpar; Is Hiring a Technical Product Marketing Lead](https://www.ycombinator.com/companies/legion-health/jobs/9JHdQqJ-technical-product-marketing-lead-legion-health-y-combinator-startup)
-- [We saved $5k a month with a single Grafana query](https://www.checklyhq.com/blog/300ms-from-every-pod-startup-with-a-single-grafana-query/)
+- [SpaceX&#39;s unmatched streak of perfection with the Falcon 9 rocket is over](https://arstechnica.com/space/2024/07/the-unmatched-streak-of-perfection-with-spacexs-falcon-9-rocket-is-over/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
