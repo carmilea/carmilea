@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VCs are now charging founders for meetings: $2500 for 30 minutes on a Zoom](https://sfstandard.com/2024/07/12/intro-cameo-techie-meeting-call/)
 - [Responsive bar charts in HTML and CSS](https://9elements.com/blog/responsive-bar-charts-in-html-and-css/)
+- [Goldman Sachs: AI Is overhyped, expensive, and unreliable](https://www.404media.co/goldman-sachs-ai-is-overhyped-wildly-expensive-and-unreliable/)
 - [Cosmic Updates &lpar;Feat. Community&rpar;](https://blog.system76.com/post/cosmic-july-2024)
 - [Cosmic Desktop Close to Alpha Release, Adds Compositor Multi-Threading](https://www.phoronix.com/news/COSMIC-July-Updates)
 - [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
