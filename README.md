@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
+- [Open-Source No-Code Tools with the Most GitHub Stars](https://www.nocobase.com/en/blog/the-top-12-open-source-no-code-tools-with-the-most-github-stars)
+- [Some thoughts on the web. On web engines, content, and web rent &lpar;2023&rpar;](https://liberda.nl/weblog/javascript-was-a-mistake/)
+- [Arm Accuracy Super Resolution](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/introducing-arm-accuracy-super-resolution)
 - [As an Employee, You Are Disposable &lpar;2023&rpar;](https://nelson.cloud/as-an-employee-you-are-disposable/)
-- [Ask HN: Freelancer&#39;s Dilemma – Client Won&#39;t Pay Despite Clear Agreement](https://news.ycombinator.com/item?id=40943343)
-- [GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet](https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet)
-- [Color Wheels Are Wrong](https://longform.asmartbear.com/color-wheels/)
-- [Using S3 as a Container Registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
