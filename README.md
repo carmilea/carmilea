@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [As an Employee, You Are Disposable &lpar;2023&rpar;](https://nelson.cloud/as-an-employee-you-are-disposable/)
+- [GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet](https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet)
+- [Color Wheels Are Wrong](https://longform.asmartbear.com/color-wheels/)
 - [A personal music streaming server that works](https://koel.dev)
 - [Using S3 as a Container Registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
-- [StreamVC: Real-Time Low-Latency Voice Conversion](https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/)
-- [JavaScript Ben.ch &lpar;JavaScript Benchmarking Tools&rpar;](https://jsben.ch/)
-- [Why I&#39;m Done Making Desktop Applications &lpar;2009&rpar;](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
