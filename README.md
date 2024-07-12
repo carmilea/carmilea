@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Could Explain the Gallium Anomaly?](https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/)
+- [Schaffer–Vega Diversity System](https://en.wikipedia.org/wiki/Schaffer%E2%80%93Vega_diversity_system)
+- [Hackers Steal Phone, SMS Records for Nearly All AT&amp;T Customers](https://krebsonsecurity.com/2024/07/hackers-steal-phone-sms-records-for-nearly-all-att-customers/)
 - [&#39;Dune&#39;-Inspired Spacesuit Turns Astronauts&#39; Urine into Drinkable Water](https://www.wsj.com/science/space-astronomy/dune-stillsuit-astronaut-spacesuit-d740bf3d)
 - [Ex-Meta scientists debut gigantic AI protein design model](https://www.nature.com/articles/d41586-024-02214-x)
-- [Tour de France riders are inhaling carbon monoxide in &#39;super altitude&#39; recipe](https://escapecollective.com/exclusive-tour-riders-are-inhaling-carbon-monoxide-in-super-altitude-recipe/)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior GenAI/LLM Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
 <!-- BLOG-POST-LIST:END -->
 
 ---
