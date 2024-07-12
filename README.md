@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Boycott Against Israel Is Spreading into New Corners of Society](https://www.wsj.com/world/middle-east/the-boycott-against-israel-is-spreading-into-new-corners-of-society-31295d69)
-- [Ark Invest: Robotaxis 28 trillion by 2030 [video]](https://www.youtube.com/watch?v=Uw32aVFWEss)
-- [Medicaid is paying millions for salty, fat-laden cheeseburgers and sandwiches](https://www.statnews.com/2024/07/11/medicaid-food-is-medicine-medically-tailored-meals-quality-questioned/)
+- [StreamVC: Real-Time Low-Latency Voice Conversion](https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/)
+- [I spent two years trying to make SD cards more nostalgic](https://www.youtube.com/watch?v=END_PVp3Eds)
 - [Third Places and Neighborhood Entrepreneurship: Evidence from Starbucks Cafés](https://www.nber.org/papers/w32604)
-- [First cell-free system in which genetic information and metabolism work together](https://phys.org/news/2024-07-team-cell-free-genetic-metabolism.html)
+- [AxRuntime &lpar;AxRT&rpar;: Creating Applications Using Amiga APIs](https://www.axrt.org/)
+- [Boosting Compiler Testing by Injecting Real-World Code](https://dl.acm.org/doi/10.1145/3656386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
