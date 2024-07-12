@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thunderbird 128 &quot;Nebula&quot;](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)
 - [Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
-- [Peer review is essential for science. Unfortunately, it&#39;s broken](https://arstechnica.com/science/2024/07/peer-review-is-essential-for-science-unfortunately-its-broken/)
 - [Cradle: Empowering Foundation Agents Towards General Computer Control](https://baai-agents.github.io/Cradle/)
 - [Legion Health &lpar;YC S21&rpar; Is Hiring a Technical Product Marketing Lead](https://www.ycombinator.com/companies/legion-health/jobs/9JHdQqJ-technical-product-marketing-lead-legion-health-y-combinator-startup)
-- [SpaceX&#39;s unmatched streak of perfection with the Falcon 9 rocket is over](https://arstechnica.com/space/2024/07/the-unmatched-streak-of-perfection-with-spacexs-falcon-9-rocket-is-over/)
+- [AT&amp;T says criminals stole phone records of &#39;nearly all&#39; customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
