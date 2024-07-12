@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lead Animation Engineer – Gym Class &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
+- [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
+- [Apple will allow developers access to its NFC technology, avoiding an EU fine](https://www.engadget.com/apple-will-allow-developers-access-to-its-nfc-technology-avoiding-an-eu-fine-123026127.html)
+- [OpenAI promised to make its AI safe. Employees say it &#39;failed&#39; its first test](https://www.washingtonpost.com/technology/2024/07/12/openai-ai-safety-regulation-gpt4/)
 - [Responsive bar charts in HTML and CSS](https://9elements.com/blog/responsive-bar-charts-in-html-and-css/)
-- [Goldman Sachs: AI Is overhyped, expensive, and unreliable](https://www.404media.co/goldman-sachs-ai-is-overhyped-wildly-expensive-and-unreliable/)
-- [Cosmic Updates &lpar;Feat. Community&rpar;](https://blog.system76.com/post/cosmic-july-2024)
-- [Cosmic Desktop Close to Alpha Release, Adds Compositor Multi-Threading](https://www.phoronix.com/news/COSMIC-July-Updates)
-- [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
 <!-- BLOG-POST-LIST:END -->
 
 ---
