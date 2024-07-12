@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Received the SIGPLAN Programming Languages Software Award 2024](https://www.sigplan.org/Awards/Software/)
+- [VCs are now charging founders for meetings: $2500 for 30 minutes on a Zoom](https://sfstandard.com/2024/07/12/intro-cameo-techie-meeting-call/)
+- [Responsive bar charts in HTML and CSS](https://9elements.com/blog/responsive-bar-charts-in-html-and-css/)
+- [Cosmic Updates &lpar;Feat. Community&rpar;](https://blog.system76.com/post/cosmic-july-2024)
+- [Cosmic Desktop Close to Alpha Release, Adds Compositor Multi-Threading](https://www.phoronix.com/news/COSMIC-July-Updates)
 - [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
-- [A.I. Has Become a Technology of Faith](https://www.theatlantic.com/technology/archive/2024/07/thrive-ai-health-huffington-altman-faith/678984/)
-- [We need superknowledge before superintelligence](https://exa.ai/blog/superknowledge)
-- [Follow the Crypto](https://www.followthecrypto.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
