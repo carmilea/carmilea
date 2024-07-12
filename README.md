@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Could Explain the Gallium Anomaly?](https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/)
-- [Schaffer–Vega Diversity System](https://en.wikipedia.org/wiki/Schaffer%E2%80%93Vega_diversity_system)
-- [Hackers Steal Phone, SMS Records for Nearly All AT&amp;T Customers](https://krebsonsecurity.com/2024/07/hackers-steal-phone-sms-records-for-nearly-all-att-customers/)
-- [&#39;Dune&#39;-Inspired Spacesuit Turns Astronauts&#39; Urine into Drinkable Water](https://www.wsj.com/science/space-astronomy/dune-stillsuit-astronaut-spacesuit-d740bf3d)
-- [Ex-Meta scientists debut gigantic AI protein design model](https://www.nature.com/articles/d41586-024-02214-x)
+- [Rust Received the SIGPLAN Programming Languages Software Award 2024](https://www.sigplan.org/Awards/Software/)
+- [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
+- [A.I. Has Become a Technology of Faith](https://www.theatlantic.com/technology/archive/2024/07/thrive-ai-health-huffington-altman-faith/678984/)
+- [We need superknowledge before superintelligence](https://exa.ai/blog/superknowledge)
+- [Follow the Crypto](https://www.followthecrypto.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
