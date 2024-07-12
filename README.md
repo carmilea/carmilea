@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40940565)
-- [Nike Slashed Its Sustainability Team](https://www.propublica.org/article/nike-layoffs-sustainability-climate-change)
-- [WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
-- [Show HN: Mandala – Automatically save, query and version Python computations](https://github.com/amakelov/mandala)
+- [Third Places and Neighborhood Entrepreneurship: Evidence from Starbucks Cafés](https://www.nber.org/papers/w32604)
+- [First cell-free system in which genetic information and metabolism work together](https://phys.org/news/2024-07-team-cell-free-genetic-metabolism.html)
+- [Boosting Compiler Testing by Injecting Real-World Code](https://dl.acm.org/doi/10.1145/3656386)
+- [Why I&#39;m Writing a Book on Cryptography &lpar;2020&rpar;](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
+- [Jurigged: Hot Reloading for Python](https://github.com/breuleux/jurigged)
 <!-- BLOG-POST-LIST:END -->
 
 ---
