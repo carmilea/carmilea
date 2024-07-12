@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Dev Aditya on Retrieval Augmented Generation &lpar;RAG&rpar;](https://www.youtube.com/watch?v=WTCDoYjikw0)
+- [Becoming a Prompt Engineer - Dev Aditya](https://www.youtube.com/watch?v=FLCPNfKboGc)
+- [Tips for a Gen AI Startup](https://www.youtube.com/watch?v=E5tN1bQ1v1c)
+- [Unlocking Your Websites Full Potential Through Analytics](https://www.youtube.com/watch?v=H7lpGdYKKCw)
 - [SingleStore + 6sense on AWS: Accelerating sales pipeline to revenue with AI](https://www.youtube.com/watch?v=BoWWsgT0ujQ)
-- [AWS Summit Bengaluru: How 6sense uses SingleStore for its real-time analytics use cases](https://www.youtube.com/watch?v=i_8cBFeaL48)
-- [DEVCON24 SaaS Insider Insights: 6D Technologies, Dell, Factors.AI, ZoomInfo and SingleStore](https://www.youtube.com/watch?v=P_eRXM7A2IU)
-- [Run SingleStore + Local LLM on Your Mac for Private Data Analytics](https://www.youtube.com/watch?v=TuoxUK314HU)
-- [Supercharge Your Postgres App 100X faster with SingleStore &lpar;Real-Life Examples&rpar;](https://www.youtube.com/watch?v=2-BP9NzAwqg)
 <!-- YOUTUBE:END -->
 
 
