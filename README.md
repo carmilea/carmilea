@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Embedded Python: MicroPython Is Amazing](https://hackaday.com/2024/07/11/embedded-python-micropython-is-amazing/)
+- [A personal music streaming server that works](https://koel.dev)
+- [Using S3 as a Container Registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 - [StreamVC: Real-Time Low-Latency Voice Conversion](https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/)
 - [JavaScript Ben.ch &lpar;JavaScript Benchmarking Tools&rpar;](https://jsben.ch/)
 - [Why I&#39;m Done Making Desktop Applications &lpar;2009&rpar;](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
-- [Floppy8 – A Tiny Computer, in a Floppy Drive &lpar;2023&rpar;](https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
