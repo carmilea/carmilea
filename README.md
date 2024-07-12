@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deno 1.45: Workspace and Monorepo Support](https://deno.com/blog/v1.45)
+- [Show HN: Daminik – An Open source digital asset manager](https://daminik.com)
 - [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
-- [Open-Source No-Code Tools with the Most GitHub Stars](https://www.nocobase.com/en/blog/the-top-12-open-source-no-code-tools-with-the-most-github-stars)
 - [Some thoughts on the web. On web engines, content, and web rent &lpar;2023&rpar;](https://liberda.nl/weblog/javascript-was-a-mistake/)
 - [Arm Accuracy Super Resolution](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/introducing-arm-accuracy-super-resolution)
-- [As an Employee, You Are Disposable &lpar;2023&rpar;](https://nelson.cloud/as-an-employee-you-are-disposable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
