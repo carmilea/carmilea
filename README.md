@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deno 1.45: Workspace and Monorepo Support](https://deno.com/blog/v1.45)
-- [Show HN: Daminik – An Open source digital asset manager](https://daminik.com)
-- [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
-- [Some thoughts on the web. On web engines, content, and web rent &lpar;2023&rpar;](https://liberda.nl/weblog/javascript-was-a-mistake/)
-- [Arm Accuracy Super Resolution](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/introducing-arm-accuracy-super-resolution)
+- [Introduction to Hardware Hacking with a Raspberry Pi](https://voidstarsec.com/blog/pifex-config)
+- [Cradle: Empowering Foundation Agents Towards General Computer Control](https://baai-agents.github.io/Cradle/)
+- [Nearly all AT&amp;T cell customers&#39; call and text records exposed](https://www.cnn.com/2024/07/12/business/att-customers-massive-breach/index.html)
+- [Legion Health &lpar;YC S21&rpar; Is Hiring a Technical Product Marketing Lead](https://www.ycombinator.com/companies/legion-health/jobs/9JHdQqJ-technical-product-marketing-lead-legion-health-y-combinator-startup)
+- [We saved $5k a month with a single Grafana query](https://www.checklyhq.com/blog/300ms-from-every-pod-startup-with-a-single-grafana-query/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
