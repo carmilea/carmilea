@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thunderbird 128 &quot;Nebula&quot;](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)
+- [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
+- [The most ancient human genome yet has been sequenced – and it&#39;s a Denisovan&#39;s](https://www.science.org/content/article/most-ancient-human-genome-yet-has-been-sequenced-and-it-s-denisovan)
 - [Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
 - [Cradle: Empowering Foundation Agents Towards General Computer Control](https://baai-agents.github.io/Cradle/)
 - [Legion Health &lpar;YC S21&rpar; Is Hiring a Technical Product Marketing Lead](https://www.ycombinator.com/companies/legion-health/jobs/9JHdQqJ-technical-product-marketing-lead-legion-health-y-combinator-startup)
-- [AT&amp;T says criminals stole phone records of &#39;nearly all&#39; customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
