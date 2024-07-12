@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blue checks on X deceiving users into engaging with harmful material, EU says](https://www.irishtimes.com/technology/big-tech/2024/07/12/blue-checks-on-elon-musks-x-are-deceptive-eu-says/)
-- [Gemini Pro refuses to acknowledge yt-dlp](https://twitter.com/adocomplete/status/1811802857022324904)
+- [&#39;Dune&#39;-Inspired Spacesuit Turns Astronauts&#39; Urine into Drinkable Water](https://www.wsj.com/science/space-astronomy/dune-stillsuit-astronaut-spacesuit-d740bf3d)
+- [Ex-Meta scientists debut gigantic AI protein design model](https://www.nature.com/articles/d41586-024-02214-x)
+- [Tour de France riders are inhaling carbon monoxide in &#39;super altitude&#39; recipe](https://escapecollective.com/exclusive-tour-riders-are-inhaling-carbon-monoxide-in-super-altitude-recipe/)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior GenAI/LLM Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [California Faces the Grape Apocalypse due to slump in wine sales](https://www.wine-searcher.com/m/2024/07/california-faces-the-grape-apocalypse)
-- [Stack Overflow has stopped publishing data dumps to the Internet Archive](https://meta.stackexchange.com/questions/401324/announcing-a-change-to-the-data-dump-process)
+- [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
 <!-- BLOG-POST-LIST:END -->
 
 ---
