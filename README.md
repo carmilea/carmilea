@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alcohol is driving a half-dozen types of cancer in the U.S., study finds](https://www.statnews.com/2024/07/11/alcohol-cancer-causes-smoking-obesity/)
+- [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
 - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
-- [The most ancient human genome yet has been sequenced – and it&#39;s a Denisovan&#39;s](https://www.science.org/content/article/most-ancient-human-genome-yet-has-been-sequenced-and-it-s-denisovan)
-- [Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
-- [Cradle: Empowering Foundation Agents Towards General Computer Control](https://baai-agents.github.io/Cradle/)
-- [Legion Health &lpar;YC S21&rpar; Is Hiring a Technical Product Marketing Lead](https://www.ycombinator.com/companies/legion-health/jobs/9JHdQqJ-technical-product-marketing-lead-legion-health-y-combinator-startup)
+- [Show HN: Smelt — an open source test runner for chip developers](https://silogy-io.github.io/smelt/)
+- [Born into slavery, he rose to the top of France&#39;s art world](https://www.washingtonpost.com/entertainment/art/2024/07/12/guillaume-lethiere-exhibition-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
