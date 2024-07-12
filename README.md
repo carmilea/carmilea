@@ -57,9 +57,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [As an Employee, You Are Disposable &lpar;2023&rpar;](https://nelson.cloud/as-an-employee-you-are-disposable/)
+- [Ask HN: Freelancer&#39;s Dilemma – Client Won&#39;t Pay Despite Clear Agreement](https://news.ycombinator.com/item?id=40943343)
 - [GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet](https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet)
 - [Color Wheels Are Wrong](https://longform.asmartbear.com/color-wheels/)
-- [A personal music streaming server that works](https://koel.dev)
 - [Using S3 as a Container Registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 <!-- BLOG-POST-LIST:END -->
 
