@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My curated list of indie blogs](https://www.andreagrandi.it/posts/my-curated-list-of-indie-blogs/)
+- [Ask HN: How do you read and follow the discussions on big threads?](https://news.ycombinator.com/item?id=40952952)
 - [For the Colonel, It Was Finger-Lickin’ Bad &lpar;1976&rpar;](https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad)
 - [Show HN: I made a drag and drop CSS grid generator](https://cssgridgenerator.io/)
-- [Someone is wrong on the internet &lpar;AGI Doom edition&rpar;](http://addxorrol.blogspot.com/2024/07/someone-is-wrong-on-internet-agi-doom.html)
 - [WebContainers: Dev environments. In your web app](https://webcontainers.io/)
+- [Nokia 6600 vs. Samsung S24 Ultra](https://cirrus.twiddles.com/blog/2024/03/06/nokia-6600-vs-samsung-s24-ultra/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
