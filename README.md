@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Use a Work Journal to Recover Focus Faster and Clarify Your Thoughts](https://fev.al/posts/work-journal/)
-- [Solving the Worst Problem in Programming Education: Windows](https://learncodethehardway.com/blog/29-solving-the-worst-problem-in-programming-education-windows/)
-- [The End of the Affair? Not for Eric Schmidt](https://www.nytimes.com/2024/07/12/technology/eric-schmidt-affair.html)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
 - [Lead Animation Engineer – Gym Class &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
+- [Things I know about Git commits](https://www.jvt.me/posts/2024/07/12/things-know-commits/)
+- [Responsive bar charts in HTML and CSS](https://9elements.com/blog/responsive-bar-charts-in-html-and-css/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
