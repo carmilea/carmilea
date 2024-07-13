@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Threads Creator Paradox](https://www.augment.ink/the-threads-creator-paradox/)
 - [The NSA Is Defeated by a 1950s Tape Recorder. Can You Help Them?](https://hackaday.com/2024/07/13/the-nsa-is-defeated-by-a-1950s-tape-recorder-can-you-help-them/)
 - [Jelly Star – The Smallest Android 13 Smartphone](https://www.unihertz.com/en-de/products/jelly-star)
 - [A Philosophy Professor&#39;s Final Class &lpar;2023&rpar;](https://www.newyorker.com/culture/annals-of-inquiry/a-philosophy-professors-final-class)
 - [Talos: Secure, immutable, and minimal Linux OS for running Kubernetes](https://www.talos.dev)
-- [Firing Myself](https://backintyme.substack.com/p/firing-myself)
 <!-- BLOG-POST-LIST:END -->
 
 ---
