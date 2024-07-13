@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [STEMFIE, a 3D-printable construction set toy](https://www.stemfie.org/)
 - [Substack &lpar;YC W18&rpar; is hiring machine learning engineers](https://grnh.se/d034f1ba5us)
 - [The Birth of Standard Error &lpar;2013&rpar;](https://www2.dmst.aueb.gr/dds/blog/20131211/index.html)
-- [Ask HN: How do you read and follow the discussions on big threads?](https://news.ycombinator.com/item?id=40952952)
 - [For the Colonel, It Was Finger-Lickin’ Bad &lpar;2016&rpar;](https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad)
 - [Show HN: I made a drag and drop CSS grid generator](https://cssgridgenerator.io/)
 <!-- BLOG-POST-LIST:END -->
