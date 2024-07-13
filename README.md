@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Use a Work Journal to Recover Focus Faster and Clarify Your Thoughts](https://fev.al/posts/work-journal/)
+- [Solving the Worst Problem in Programming Education: Windows](https://learncodethehardway.com/blog/29-solving-the-worst-problem-in-programming-education-windows/)
+- [The End of the Affair? Not for Eric Schmidt](https://www.nytimes.com/2024/07/12/technology/eric-schmidt-affair.html)
+- [Crafting Interpreters](https://craftinginterpreters.com/)
 - [Lead Animation Engineer – Gym Class &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
-- [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
-- [Apple will allow developers access to its NFC technology, avoiding an EU fine](https://www.engadget.com/apple-will-allow-developers-access-to-its-nfc-technology-avoiding-an-eu-fine-123026127.html)
-- [OpenAI promised to make its AI safe. Employees say it &#39;failed&#39; its first test](https://www.washingtonpost.com/technology/2024/07/12/openai-ai-safety-regulation-gpt4/)
-- [Responsive bar charts in HTML and CSS](https://9elements.com/blog/responsive-bar-charts-in-html-and-css/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
