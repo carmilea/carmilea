@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Houston Is on a Path to an All-Out Power Crisis](https://www.theatlantic.com/science/archive/2024/07/houston-power-outage-beryl/678990/)
+- [Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
+- [From the book, &quot;Calvin and Hobbes – Sunday Pages 1985 – 1995&quot;](http://timhulsizer.com/cwords/cintro.html)
 - [Prepare for AI Hackers &lpar;2023&rpar;](https://www.harvardmagazine.com/2023/02/right-now-ai-hacking)
+- [Exploring the Limits of Transfer Learning with a Unified Transformer &lpar;2019&rpar;](https://arxiv.org/abs/1910.10683)
 - [Who Owns Your Wireless Service? Crooks Do. &lpar;2019&rpar;](https://krebsonsecurity.com/2019/08/who-owns-your-wireless-service-crooks-do/)
-- [Authelia and Lldap: Authentication, SSO, User Management... for Home Networks](https://helgeklein.com/blog/authelia-lldap-authentication-sso-user-management-password-reset-for-home-networks/)
-- [Use a Work Journal to Recover Focus Faster and Clarify Your Thoughts](https://fev.al/posts/work-journal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
