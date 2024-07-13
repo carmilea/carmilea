@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ad-tech setting &#39;Privacy-Preserving Attribution&#39; is opt-out in Firefox 128](https://gladtech.social/@cuchaz/112775302929069283)
+- [CO poultry workers test positive for bird flu after outbreak at egg facility](https://www.denver7.com/news/state-news/3-colorado-poultry-workers-identified-as-potential-bird-flu-cases-after-outbreak-at-commercial-egg-facility)
 - [Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
 - [From the book, &quot;Calvin and Hobbes – Sunday Pages 1985 – 1995&quot;](http://timhulsizer.com/cwords/cintro.html)
 - [Prepare for AI Hackers &lpar;2023&rpar;](https://www.harvardmagazine.com/2023/02/right-now-ai-hacking)
-- [Exploring the Limits of Transfer Learning with a Unified Transformer &lpar;2019&rpar;](https://arxiv.org/abs/1910.10683)
-- [Who Owns Your Wireless Service? Crooks Do. &lpar;2019&rpar;](https://krebsonsecurity.com/2019/08/who-owns-your-wireless-service-crooks-do/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
