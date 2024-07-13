@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Houston area frustrated as it enters 6th day without power, AC in punishing heat](https://www.cnn.com/2024/07/13/weather/beryl-houston-texas-power-outages-heat-saturday/index.html)
+- [Nango &lpar;YC W23&rpar; is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
+- [Houston-area residents enter sixth day without power, air conditioning](https://www.cnn.com/2024/07/13/weather/beryl-houston-texas-power-outages-heat-saturday/index.html)
 - [Ask HN: Do dead YC companies sell their brands/IP?](https://news.ycombinator.com/item?id=40954573)
-- [Disruptor-rs: better latency and throughput than crossbeam](https://github.com/nicholassm/disruptor-rs)
-- [STEMFIE, a 3D-printable construction set toy](https://www.stemfie.org/)
-- [Substack &lpar;YC W18&rpar; is hiring machine learning engineers](https://grnh.se/d034f1ba5us)
+- [&quot;Firefox added [ad tracking] and has already turned it on without asking you&quot;](https://mastodon.social/@mcc/112775362045378963)
+- [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
