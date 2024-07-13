@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Change Healthcare starts sending data breach notifications after cyberattack](https://www.healthcaredive.com/news/change-healthcare-cyberattack-data-breach-notifications-start/719514/)
-- [A Philosophy Professor&#39;s Final Class](https://www.newyorker.com/culture/annals-of-inquiry/a-philosophy-professors-final-class)
+- [The NSA Is Defeated by a 1950s Tape Recorder. Can You Help Them?](https://hackaday.com/2024/07/13/the-nsa-is-defeated-by-a-1950s-tape-recorder-can-you-help-them/)
+- [Jelly Star – The Smallest Android 13 Smartphone](https://www.unihertz.com/en-de/products/jelly-star)
+- [A Philosophy Professor&#39;s Final Class &lpar;2023&rpar;](https://www.newyorker.com/culture/annals-of-inquiry/a-philosophy-professors-final-class)
+- [Talos: Secure, immutable, and minimal Linux OS for running Kubernetes](https://www.talos.dev)
 - [Firing Myself](https://backintyme.substack.com/p/firing-myself)
-- [Dear AWS, please let me be a cloud engineer again](https://lucvandonkersgoed.com/2024/07/13/dear-aws-please-let-me-be-a-cloud-engineer-again/)
-- [Increasing Google and Alphabet VRP rewards up to $151,515](https://bughunters.google.com/blog/5400513950908416/increasing-google-alphabet-vrp-rewards-up-to-151-515)
 <!-- BLOG-POST-LIST:END -->
 
 ---
