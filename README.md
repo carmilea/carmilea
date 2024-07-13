@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [For the Colonel, It Was Finger-Lickin&#39; Bad](https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad)
+- [My curated list of indie blogs](https://www.andreagrandi.it/posts/my-curated-list-of-indie-blogs/)
+- [For the Colonel, It Was Finger-Lickin’ Bad &lpar;1976&rpar;](https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad)
 - [Show HN: I made a drag and drop CSS grid generator](https://cssgridgenerator.io/)
 - [Someone is wrong on the internet &lpar;AGI Doom edition&rpar;](http://addxorrol.blogspot.com/2024/07/someone-is-wrong-on-internet-agi-doom.html)
-- [Ad-tech setting &#39;Privacy-Preserving Attribution&#39; is opt-out in Firefox 128](https://gladtech.social/@cuchaz/112775302929069283)
 - [WebContainers: Dev environments. In your web app](https://webcontainers.io/)
 <!-- BLOG-POST-LIST:END -->
 
