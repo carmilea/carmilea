@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel&#39;s woes with Core i9 CPUs crashing look worse than we thought](https://www.techradar.com/computing/cpu/intels-woes-with-core-i9-cpus-crashing-look-worse-than-we-thought-team-blue-really-needs-to-act-now-to-fix-this-mess)
+- [Disruptor-rs: better latency and throughput than crossbeam](https://github.com/nicholassm/disruptor-rs)
 - [STEMFIE, a 3D-printable construction set toy](https://www.stemfie.org/)
 - [Substack &lpar;YC W18&rpar; is hiring machine learning engineers](https://grnh.se/d034f1ba5us)
 - [The Birth of Standard Error &lpar;2013&rpar;](https://www2.dmst.aueb.gr/dds/blog/20131211/index.html)
-- [For the Colonel, It Was Finger-Lickin’ Bad &lpar;2016&rpar;](https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad)
-- [Show HN: I made a drag and drop CSS grid generator](https://cssgridgenerator.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
