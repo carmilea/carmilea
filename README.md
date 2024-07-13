@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Researcher Says He Quit When He Realized the Upsetting Truth](https://futurism.com/openai-researcher-quit-realized-upsetting-truth)
-- [There&#39;s not that much wealth in the world](https://www.noahpinion.blog/p/theres-not-that-much-wealth-in-the)
+- [Change Healthcare starts sending data breach notifications after cyberattack](https://www.healthcaredive.com/news/change-healthcare-cyberattack-data-breach-notifications-start/719514/)
+- [A Philosophy Professor&#39;s Final Class](https://www.newyorker.com/culture/annals-of-inquiry/a-philosophy-professors-final-class)
+- [Firing Myself](https://backintyme.substack.com/p/firing-myself)
+- [Dear AWS, please let me be a cloud engineer again](https://lucvandonkersgoed.com/2024/07/13/dear-aws-please-let-me-be-a-cloud-engineer-again/)
 - [Increasing Google and Alphabet VRP rewards up to $151,515](https://bughunters.google.com/blog/5400513950908416/increasing-google-alphabet-vrp-rewards-up-to-151-515)
-- [Disney&#39;s Internal Slack Breached? NullBulge Leaks 1.1 TiB of Data](https://hackread.com/disneys-internal-slack-breached-nullbulge-leak-data/)
-- [Mathematical Sculptures Made from Office Supplies](http://zacharyabel.com/sculpture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
