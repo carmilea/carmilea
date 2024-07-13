@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Researcher Says He Quit When He Realized the Upsetting Truth](https://futurism.com/openai-researcher-quit-realized-upsetting-truth)
+- [There&#39;s not that much wealth in the world](https://www.noahpinion.blog/p/theres-not-that-much-wealth-in-the)
 - [Increasing Google and Alphabet VRP rewards up to $151,515](https://bughunters.google.com/blog/5400513950908416/increasing-google-alphabet-vrp-rewards-up-to-151-515)
 - [Disney&#39;s Internal Slack Breached? NullBulge Leaks 1.1 TiB of Data](https://hackread.com/disneys-internal-slack-breached-nullbulge-leak-data/)
 - [Mathematical Sculptures Made from Office Supplies](http://zacharyabel.com/sculpture/)
-- [Nango &lpar;YC W23&rpar; is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
-- [Give people something to link to so they can talk about your features and ideas](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
