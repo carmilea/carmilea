@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [For the Colonel, It Was Finger-Lickin&#39; Bad](https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad)
+- [Show HN: I made a drag and drop CSS grid generator](https://cssgridgenerator.io/)
 - [Someone is wrong on the internet &lpar;AGI Doom edition&rpar;](http://addxorrol.blogspot.com/2024/07/someone-is-wrong-on-internet-agi-doom.html)
 - [Ad-tech setting &#39;Privacy-Preserving Attribution&#39; is opt-out in Firefox 128](https://gladtech.social/@cuchaz/112775302929069283)
 - [WebContainers: Dev environments. In your web app](https://webcontainers.io/)
-- [Nokia 6600 vs. Samsung S24 Ultra](https://cirrus.twiddles.com/blog/2024/03/06/nokia-6600-vs-samsung-s24-ultra/)
-- [CO poultry workers test positive for bird flu after outbreak at egg facility](https://www.denver7.com/news/state-news/3-colorado-poultry-workers-identified-as-potential-bird-flu-cases-after-outbreak-at-commercial-egg-facility)
 <!-- BLOG-POST-LIST:END -->
 
 ---
