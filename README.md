@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: User communities that aren&#39;t Discord?](https://news.ycombinator.com/item?id=40955437)
+- [Mathematical Sculptures Made from Office Supplies](http://zacharyabel.com/sculpture/)
 - [Nango &lpar;YC W23&rpar; is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
 - [Houston-area residents enter sixth day without power, air conditioning](https://www.cnn.com/2024/07/13/weather/beryl-houston-texas-power-outages-heat-saturday/index.html)
 - [Ask HN: Do dead YC companies sell their brands/IP?](https://news.ycombinator.com/item?id=40954573)
-- [&quot;Firefox added [ad tracking] and has already turned it on without asking you&quot;](https://mastodon.social/@mcc/112775362045378963)
-- [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
