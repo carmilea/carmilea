@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Houston Is on a Path to an All-Out Power Crisis](https://www.theatlantic.com/science/archive/2024/07/houston-power-outage-beryl/678990/)
+- [Who Owns Your Wireless Service? Crooks Do. &lpar;2019&rpar;](https://krebsonsecurity.com/2019/08/who-owns-your-wireless-service-crooks-do/)
+- [Tell HN: your next idea should focus on aged care](https://news.ycombinator.com/item?id=40951324)
+- [Authelia and Lldap: Authentication, SSO, User Management... for Home Networks](https://helgeklein.com/blog/authelia-lldap-authentication-sso-user-management-password-reset-for-home-networks/)
 - [Use a Work Journal to Recover Focus Faster and Clarify Your Thoughts](https://fev.al/posts/work-journal/)
-- [Crafting Interpreters](https://craftinginterpreters.com/)
-- [Lead Animation Engineer – Gym Class &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
-- [Things I know about Git commits](https://www.jvt.me/posts/2024/07/12/things-know-commits/)
-- [Responsive bar charts in HTML and CSS](https://9elements.com/blog/responsive-bar-charts-in-html-and-css/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
