@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Disqualified &lpar;1954&rpar;](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
 - [HIV breakthrough: Trial shows drug provides 100% protection](https://www.universityworldnews.com/post.php?story=20240708145001437)
-- [Scientists propose glacier geoengineering to avoid sea level rise](https://www.science.org/content/article/avoid-sea-level-rise-some-researchers-want-build-barriers-around-world-s-most)
+- [Calculating position from raw GPS data &lpar;2017&rpar;](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
+- [Show HN: I generated 70k audiobooks with OpenAI Text-to-Speech](https://listenly.io/gutenberg)
 - [On Building Systems That Will Fail &lpar;1991&rpar;](http://larch-www.lcs.mit.edu:8001/~corbato/turing91/)
-- [Fitting an elephant with four non-zero parameters](https://arxiv.org/abs/2407.07909)
-- [Show HN: I made a TUI for kafka &lpar;kaskade&rpar;](https://github.com/sauljabin/kaskade)
 <!-- BLOG-POST-LIST:END -->
 
 ---
