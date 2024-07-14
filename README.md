@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Economy of Spam &lpar;2022&rpar;](https://integrityinstitute.org/blog/the-hidden-economy-of-spam)
+- [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- [Building the Bell System](https://www.construction-physics.com/p/building-the-bell-system)
 - [How annual pre-pay creates an infinite marketing budget](https://longform.asmartbear.com/annual-prepay/)
-- [Building and scaling Notion&#39;s data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
-- [Writing a BIOS bootloader for 64-bit mode from scratch](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
-- [Z80 CPU Microprocessor Instant Reference Card &lpar;1981&rpar; [pdf]](https://ballyalley.com/ml/z80_docs/Z80%20CPU%20Instant%20Reference%20Card%20(Color).pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
