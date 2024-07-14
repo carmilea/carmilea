@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Economy of Spam &lpar;2022&rpar;](https://integrityinstitute.org/blog/the-hidden-economy-of-spam)
+- [&quot;Superhuman&quot; Go AIs still have trouble defending against these simple exploits](https://arstechnica.com/ai/2024/07/superhuman-go-ais-still-have-trouble-defending-against-these-simple-exploits/)
 - [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 - [Building the Bell System](https://www.construction-physics.com/p/building-the-bell-system)
