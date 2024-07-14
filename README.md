@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikimedia Gitlab Migration Status](https://www.mediawiki.org/wiki/GitLab/Migration_status)
+- [OpenAI whistleblowers ask SEC to investigate alleged restrictive NDAs](https://www.reuters.com/technology/openai-whistleblowers-ask-sec-investigate-restrictive-non-disclosure-agreements-2024-07-13/)
+- [Building and scaling Notion&#39;s data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
+- [Writing a BIOS bootloader for 64-bit mode from scratch](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
 - [Z80 CPU Microprocessor Instant Reference Card &lpar;1981&rpar; [pdf]](https://ballyalley.com/ml/z80_docs/Z80%20CPU%20Instant%20Reference%20Card%20(Color).pdf)
-- [Ask HN: Why are PWA user install stats so hard to find?](https://news.ycombinator.com/item?id=40959416)
-- [Samsung declares different TBW for same SSD model on different markets](https://news.ycombinator.com/item?id=40959359)
-- [Go Range Iterators Demystified](https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/)
-- [Show HN: Procedural Art –– &#39;Pulse&#39;](https://soham-saha.github.io/ProceduralArt/Pulse/Pulse.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
