@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What the Decentralized Nature of Anonymous Tells Us About Its Power](https://lithub.com/what-the-decentralized-nature-of-anonymous-tells-us-about-its-power/)
 - [A hydrogen-powered air taxi flew 523 miles emitting only water vapor](https://www.popsci.com/technology/hydrogen-power-air-taxi/)
+- [What Does Nevada&#39;s $35B Fund Manager Do All Day? Nothing](https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420)
 - [YouTube lets you request removal of AI content that simulates your face or voice](https://techcrunch.com/2024/07/01/youtube-now-lets-you-request-removal-of-ai-generated-content-that-simulates-your-face-or-voice/)
 - [The Threads Creator Paradox](https://www.augment.ink/the-threads-creator-paradox/)
-- [The NSA Is Defeated by a 1950s Tape Recorder. Can You Help Them?](https://hackaday.com/2024/07/13/the-nsa-is-defeated-by-a-1950s-tape-recorder-can-you-help-them/)
-- [Jelly Star – The Smallest Android 13 Smartphone](https://www.unihertz.com/en-de/products/jelly-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
