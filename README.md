@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [130M American Adults Have Low Literacy Skills](https://www.apmresearchlab.org/10x-adult-literacy)
+- [Wikipedia is rolling out dark mode support](https://www.mediawiki.org/wiki/Reading/Web/Accessibility_for_reading)
 - [Show HN: Procedural Art –– &#39;Pulse&#39;](https://soham-saha.github.io/ProceduralArt/Pulse/Pulse.html)
 - [ULID: Like UUID but Sortable](https://github.com/ulid/spec)
 - [Firmware Update Hides a Device&#39;s Bluetooth Fingerprint](https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint)
-- [After initially rejecting it, Apple has approved the first PC emulator for iOS](https://www.theverge.com/2024/7/13/24198015/apple-utm-se-pc-os-emulator-for-ios)
-- [No reasonable expectation of privacy in one&#39;s Google location data](https://fourthamendment.com/?p=58338)
 <!-- BLOG-POST-LIST:END -->
 
 ---
