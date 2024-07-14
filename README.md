@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What the Decentralized Nature of Anonymous Tells Us About Its Power](https://lithub.com/what-the-decentralized-nature-of-anonymous-tells-us-about-its-power/)
-- [A hydrogen-powered air taxi flew 523 miles emitting only water vapor](https://www.popsci.com/technology/hydrogen-power-air-taxi/)
-- [What Does Nevada&#39;s $35B Fund Manager Do All Day? Nothing](https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420)
-- [YouTube lets you request removal of AI content that simulates your face or voice](https://techcrunch.com/2024/07/01/youtube-now-lets-you-request-removal-of-ai-generated-content-that-simulates-your-face-or-voice/)
-- [The Threads Creator Paradox](https://www.augment.ink/the-threads-creator-paradox/)
+- [After initially rejecting it, Apple has approved the first PC emulator for iOS](https://www.theverge.com/2024/7/13/24198015/apple-utm-se-pc-os-emulator-for-ios)
+- [No reasonable expectation of privacy in one&#39;s Google location data](https://fourthamendment.com/?p=58338)
+- [Solving Path of Exile Item Crafting with Reinforcement Learning](https://dennybritz.com/posts/poe-crafting/)
+- [Nvidia Warp &lpar;a Python framework for writing high-performance code&rpar;](https://nvidia.github.io/warp/)
+- [The Peculiar Phenomenon of Megacryometeors &lpar;2006&rpar;](https://www.damninteresting.com/the-peculiar-phenomenon-of-megacryometeors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
