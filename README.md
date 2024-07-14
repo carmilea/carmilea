@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [130M American Adults Have Low Literacy Skills](https://www.apmresearchlab.org/10x-adult-literacy)
-- [Wikipedia is rolling out dark mode support](https://www.mediawiki.org/wiki/Reading/Web/Accessibility_for_reading)
-- [Show HN: Procedural Art –– &#39;Pulse&#39;](https://soham-saha.github.io/ProceduralArt/Pulse/Pulse.html)
-- [ULID: Like UUID but Sortable](https://github.com/ulid/spec)
-- [Firmware Update Hides a Device&#39;s Bluetooth Fingerprint](https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint)
+- [Z80 CPU Microprocessor Instant Reference Card &lpar;1981&rpar; [pdf]](https://ballyalley.com/ml/z80_docs/Z80%20CPU%20Instant%20Reference%20Card%20(Color).pdf)
+- [Ask HN: Why are PWA user install stats so hard to find?](https://news.ycombinator.com/item?id=40959416)
+- [Samsung declares different TBW for same SSD model on different markets](https://news.ycombinator.com/item?id=40959359)
+- [About 130 million adults in the U.S. have low literacy skills &lpar;2022&rpar;](https://www.apmresearchlab.org/10x-adult-literacy)
+- [Photo appears to capture path of bullet used in assassination attempt](https://archive.is/2024.07.14-064613/https://www.nytimes.com/2024/07/14/us/politics/photo-path-trump-assassination.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
