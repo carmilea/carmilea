@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Just Be Rich &lpar;2021&rpar;](https://keenen.xyz/just-be-rich/)
+- [California Grid Breezes Through Heatwave with Batteries](https://thinc.blog/2024/07/14/california-grid-breezes-through-heat-wave-due-to-renewables-batteries/)
+- [A prank cursor resulted in an employee being fired before they started &lpar;2020&rpar;](https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434)
+- [A.I. Needs Copper. It Just Helped to Find Millions of Tons of It in Zambia.](https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html)
 - [How to Know When It&#39;s Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
-- [Disqualified &lpar;1954&rpar;](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
-- [Claustrum neurons projecting to the anterior cingulate restrict engagement](https://www.nature.com/articles/s41467-024-48829-6)
-- [Calculating position from raw GPS data &lpar;2017&rpar;](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
-- [Windows 98 Disk Defrag Simulator](https://defrag98.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
