@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AB 1637 requires all cities and counties to transition to a .gov domain](https://www.californiacitynews.org/2023/12/ab-1637-local-government-internet-websites-and-email-addresses.html)
-- [Templating in JavaScript, from Zero Dependencies on Up &lpar;2021&rpar;](https://blog.jim-nielsen.com/2021/javascript-templating/)
 - [On Building Systems That Will Fail &lpar;1991&rpar;](http://larch-www.lcs.mit.edu:8001/~corbato/turing91/)
-- [Fitting an Elephant with Four Non-Zero Parameters](https://arxiv.org/abs/2407.07909)
+- [Fitting an elephant with four non-zero parameters](https://arxiv.org/abs/2407.07909)
 - [CURLoRA: Stable LLM Fine-Tuning and Catastrophic Forgetting Mitigation](https://zenodo.org/records/12740116)
+- [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
+- [PermitFlow &lpar;YC W22&rpar; Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 <!-- BLOG-POST-LIST:END -->
 
 ---
