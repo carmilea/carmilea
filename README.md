@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Grind – An epic first person shooter for Amiga 500 gets another playable tease](https://www.indieretronews.com/2024/07/grind-epic-first-person-shooter-for.html)
+- [Leaked payroll data show how much Valve pays staff and how few people it employs](https://www.theverge.com/2024/7/13/24197477/valve-employs-few-hundred-people-payroll-redacted)
 - [Just Be Rich &lpar;2021&rpar;](https://keenen.xyz/just-be-rich/)
 - [California Grid Breezes Through Heatwave with Batteries](https://thinc.blog/2024/07/14/california-grid-breezes-through-heat-wave-due-to-renewables-batteries/)
 - [A prank cursor resulted in an employee being fired before they started &lpar;2020&rpar;](https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434)
-- [A.I. Needs Copper. It Just Helped to Find Millions of Tons of It in Zambia.](https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html)
-- [How to Know When It&#39;s Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
