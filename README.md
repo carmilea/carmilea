@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;The New Essential Guide to Electronics in Shenzhen&quot;: Review and Notes](https://type.cyhsu.xyz/2024/07/neges/)
 - [Wikimedia Gitlab Migration Status](https://www.mediawiki.org/wiki/GitLab/Migration_status)
 - [OpenAI whistleblowers ask SEC to investigate alleged restrictive NDAs](https://www.reuters.com/technology/openai-whistleblowers-ask-sec-investigate-restrictive-non-disclosure-agreements-2024-07-13/)
 - [Building and scaling Notion&#39;s data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
 - [Writing a BIOS bootloader for 64-bit mode from scratch](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
-- [Z80 CPU Microprocessor Instant Reference Card &lpar;1981&rpar; [pdf]](https://ballyalley.com/ml/z80_docs/Z80%20CPU%20Instant%20Reference%20Card%20(Color).pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
