@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Procedural Art –– &#39;Pulse&#39;](https://soham-saha.github.io/ProceduralArt/Pulse/Pulse.html)
+- [ULID: Like UUID but Sortable](https://github.com/ulid/spec)
+- [Firmware Update Hides a Device&#39;s Bluetooth Fingerprint](https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint)
 - [After initially rejecting it, Apple has approved the first PC emulator for iOS](https://www.theverge.com/2024/7/13/24198015/apple-utm-se-pc-os-emulator-for-ios)
 - [No reasonable expectation of privacy in one&#39;s Google location data](https://fourthamendment.com/?p=58338)
-- [Solving Path of Exile Item Crafting with Reinforcement Learning](https://dennybritz.com/posts/poe-crafting/)
-- [Nvidia Warp &lpar;a Python framework for writing high-performance code&rpar;](https://nvidia.github.io/warp/)
-- [The Peculiar Phenomenon of Megacryometeors &lpar;2006&rpar;](https://www.damninteresting.com/the-peculiar-phenomenon-of-megacryometeors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
