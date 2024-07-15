@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
-- [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
-- [Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
-- [Immunotherapy Is Changing Cancer Treatment Forever](https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html)
-- [K-Scale Labs &lpar;YC W24&rpar; Is Hiring a Chief Operating Officer](https://www.ycombinator.com/companies/k-scale-labs/jobs/QMoWHuz-chief-operating-officer)
+- [Artie &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
+- [Amiga 2000 – Codename: Tesseract](https://retrohax.net/amiga-2000-codename-tesseract/)
+- [Google Now Defaults to Not Indexing Your Content](https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/)
+- [FBI Gains Access to Suspected Trump Shooter’s Password Locked Phone](https://www.404media.co/fbi-gains-access-to-suspected-trump-shooters-password-locked-phone/)
+- [Leap – Chemistry Through a Computational Lens](https://ambermd.org/tutorials/pengfei/index.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
