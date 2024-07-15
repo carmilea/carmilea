@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nanorobot with hidden weapon kills cancer cells](https://news.ki.se/nanorobot-with-hidden-weapon-kills-cancer-cells)
+- [The Fascinating and Complicated Sex Lives of White-Throated Sparrows](https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows)
 - [Human history in the long run: It was mostly pretty bad](https://www.slowboring.com/p/human-history-in-the-very-long-run-1d4)
 - [ZeroMQ: High-Performance Concurrency Framework](https://zeromq.org/)
+- [Virginia Woolf&#39;s list-making paved the way for her literary experiments](https://www.ft.com/content/6c7e3cc3-f66b-4998-ad55-5f58d151a761)
 - [Tabloid: The Clickbait Headline Programming Language &lpar;2021&rpar;](https://tabloid.vercel.app/)
-- [TUI for Managing Bluetooth on Linux](https://github.com/pythops/bluetui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
