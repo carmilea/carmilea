@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google and Microsoft now each consume more power than some fairly big countries](https://www.techradar.com/pro/google-and-microsoft-now-each-consume-more-power-than-some-fairly-big-countries)
 - [I&#39;m Not a Fan of Strlcpy&lpar;3&rpar;](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
-- [Congress Accidentally Legalized Weed Six Years Ago](https://www.theatlantic.com/ideas/archive/2024/07/hemp-marijuana-legal-thc/678988/)
-- [Graying open source community needs fresh blood](https://www.theregister.com/2024/07/15/opinion_open_source_attract_devs/)
 - [Rust for Filesystems](https://lwn.net/Articles/978738/)
+- [Google&#39;s Gemini AI caught scanning Google Drive PDF files without permission](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled)
+- [Lagrange: LAser GRavitational-wave ANtenna at GEo-lunar Lagrange points](https://arxiv.org/abs/1111.5264)
+- [The fascinating and complicated sex lives of white-throated sparrows](https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
