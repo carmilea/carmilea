@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The AMD Zen 5 Microarcitecure](https://www.anandtech.com/show/21469/amd-details-ryzen-ai-300-series-for-mobile-strix-point-with-rdna-35-igpu-xdna-2-npu)
-- [How does MS Fight Simulator compare to real flights?&lpar;2020&rpar;](https://yeokhengmeng.com/2020/08/how-does-flight-simulator-2020-compare-to-real-flights-over-singapore/)
-- [Cosmic Simulation Reveals How Black Holes Grow and Evolve](https://www.caltech.edu/about/news/cosmic-simulation-reveals-how-black-holes-grow-and-evolve)
+- [Creature that washed up on New Zealand beach may be rarest whale](https://www.cbsnews.com/news/creature-that-washed-up-on-new-zealand-beach-may-be-worlds-rarest-whale-a-spade-toothed-whale/)
+- [Cosmic simulation reveals how black holes grow and evolve](https://www.caltech.edu/about/news/cosmic-simulation-reveals-how-black-holes-grow-and-evolve)
 - [I&#39;m Not a Fan of Strlcpy&lpar;3&rpar;](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
+- [Scientists make DNA discovery that could help find pancreatic cancer cure](https://www.theguardian.com/society/article/2024/jul/15/scientists-make-dna-discovery-that-could-help-find-pancreatic-cancer-cure)
 - [Rust for Filesystems](https://lwn.net/Articles/978738/)
 <!-- BLOG-POST-LIST:END -->
 
