@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with stacked branches in Git is easier with –update-refs &lpar;2022&rpar;](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
+- [Movies directed by Andrey Tarkovsky &lpar;YouTube playlist&rpar;](https://www.youtube.com/playlist?list=PL7EqAsBxqGgjarBzACNmCNDdr0y0iFu8U)
+- [Tabloid: The Clickbait Headline Programming Language &lpar;2021&rpar;](https://tabloid.vercel.app/)
 - [Can ChatGPT do data science?](https://austinhenley.com/blog/chatgptdatascience.html)
 - [Fusion – a hobby OS implemented in Nim](https://github.com/khaledh/fusion)
 - [How to Know When It&#39;s Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
-- [Ask HN: Most accurate scientific book on Human Sleep?](https://news.ycombinator.com/item?id=40962582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
