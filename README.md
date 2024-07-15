@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)
+- [How the Rise of the Camera Launched a Fight to Protect Gilded Age Privacy](https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/)
 - [Creature that washed up on New Zealand beach may be rarest whale](https://www.cbsnews.com/news/creature-that-washed-up-on-new-zealand-beach-may-be-worlds-rarest-whale-a-spade-toothed-whale/)
 - [Cosmic simulation reveals how black holes grow and evolve](https://www.caltech.edu/about/news/cosmic-simulation-reveals-how-black-holes-grow-and-evolve)
 - [I&#39;m Not a Fan of Strlcpy&lpar;3&rpar;](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
-- [Scientists make DNA discovery that could help find pancreatic cancer cure](https://www.theguardian.com/society/article/2024/jul/15/scientists-make-dna-discovery-that-could-help-find-pancreatic-cancer-cure)
-- [Rust for Filesystems](https://lwn.net/Articles/978738/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
