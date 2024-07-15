@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The AMD Zen 5 Microarcitecure](https://www.anandtech.com/show/21469/amd-details-ryzen-ai-300-series-for-mobile-strix-point-with-rdna-35-igpu-xdna-2-npu)
+- [How does MS Fight Simulator compare to real flights?&lpar;2020&rpar;](https://yeokhengmeng.com/2020/08/how-does-flight-simulator-2020-compare-to-real-flights-over-singapore/)
+- [Cosmic Simulation Reveals How Black Holes Grow and Evolve](https://www.caltech.edu/about/news/cosmic-simulation-reveals-how-black-holes-grow-and-evolve)
 - [I&#39;m Not a Fan of Strlcpy&lpar;3&rpar;](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 - [Rust for Filesystems](https://lwn.net/Articles/978738/)
-- [Google&#39;s Gemini AI caught scanning Google Drive PDF files without permission](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled)
-- [Lagrange: LAser GRavitational-wave ANtenna at GEo-lunar Lagrange points](https://arxiv.org/abs/1111.5264)
-- [The fascinating and complicated sex lives of white-throated sparrows](https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
