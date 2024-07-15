@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Video Interview with Mike Clark, Chief Architect of Zen at AMD](https://chipsandcheese.com/2024/07/15/a-video-interview-with-mike-clark-chief-architect-of-zen-at-amd/)
+- [Immunotherapy Is Changing Cancer Treatment Forever](https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html)
+- [Tech, Crunched: How the go-to site for startup news lost its way](https://keepgoingpod.com/p/tech-crunched-how-the-go-to-site)
 - [K-Scale Labs &lpar;YC W24&rpar; Is Hiring a Chief Operating Officer](https://www.ycombinator.com/companies/k-scale-labs/jobs/QMoWHuz-chief-operating-officer)
-- [Undergraduate Texts in Mathematical Comics – A Tour of Complex Analysis](https://sites.google.com/uic.edu/juliusross/activities/mathematical-comics)
 - [Mangled fingers, no time off: Women who make Samsung semiconductors are striking](https://english.hani.co.kr/arti/english_edition/e_national/1149185.html)
-- [Guide to Machine Learning with Geometric, Topological, and Algebraic Structures](https://www.arxiv.org/abs/2407.09468)
-- [Radar evidence of accessible Moon cave conduit below Mare Tranquillitatis pit](https://www.nature.com/articles/s41550-024-02302-y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
