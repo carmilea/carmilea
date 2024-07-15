@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fascinating and Complicated Sex Lives of White-Throated Sparrows](https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows)
-- [Human history in the long run: It was mostly pretty bad](https://www.slowboring.com/p/human-history-in-the-very-long-run-1d4)
+- [The fascinating and complicated sex lives of white-throated sparrows](https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows)
 - [ZeroMQ: High-Performance Concurrency Framework](https://zeromq.org/)
 - [Virginia Woolf&#39;s list-making paved the way for her literary experiments](https://www.ft.com/content/6c7e3cc3-f66b-4998-ad55-5f58d151a761)
-- [Tabloid: The Clickbait Headline Programming Language &lpar;2021&rpar;](https://tabloid.vercel.app/)
+- [Tabloid: A clickbait headline programming language &lpar;2021&rpar;](https://tabloid.vercel.app/)
+- [Ask HN: How do you go about finding a job?](https://news.ycombinator.com/item?id=40963612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
