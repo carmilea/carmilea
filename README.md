@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google and Microsoft now each consume more power than some fairly big countries](https://www.techradar.com/pro/google-and-microsoft-now-each-consume-more-power-than-some-fairly-big-countries)
+- [I&#39;m Not a Fan of Strlcpy&lpar;3&rpar;](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
+- [Congress Accidentally Legalized Weed Six Years Ago](https://www.theatlantic.com/ideas/archive/2024/07/hemp-marijuana-legal-thc/678988/)
+- [Graying open source community needs fresh blood](https://www.theregister.com/2024/07/15/opinion_open_source_attract_devs/)
 - [Rust for Filesystems](https://lwn.net/Articles/978738/)
-- [Firefox 128 enables &quot;privacy-preserving&quot; ad measurements by default](https://mstdn.social/@Lokjo/112772496939724214)
-- [The fascinating and complicated sex lives of white-throated sparrows](https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows)
-- [Virginia Woolf&#39;s list-making paved the way for her literary experiments](https://www.ft.com/content/6c7e3cc3-f66b-4998-ad55-5f58d151a761)
-- [A rock that might hold the oldest form of complex life on Earth](https://news.unsw.edu.au/en/erica-picked-up-a-rock-10-years-ago-it-might-hold-the-oldest-form-of-complex-life-on-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
