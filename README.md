@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Working with stacked branches in Git is easier with –update-refs &lpar;2022&rpar;](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
-- [Just Be Rich &lpar;2021&rpar;](https://keenen.xyz/just-be-rich/)
-- [A prank cursor resulted in an employee being fired before they started &lpar;2020&rpar;](https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434)
-- [A.I. Needs Copper. It Just Helped to Find Millions of Tons of It in Zambia.](https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html)
+- [Can ChatGPT do data science?](https://austinhenley.com/blog/chatgptdatascience.html)
+- [Fusion – a hobby OS implemented in Nim](https://github.com/khaledh/fusion)
 - [How to Know When It&#39;s Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
+- [Ask HN: Most accurate scientific book on Human Sleep?](https://news.ycombinator.com/item?id=40962582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
