@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Run CUDA, Unmodified, on AMD GPUs](https://docs.scale-lang.com/)
+- [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
+- [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
+- [Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
 - [Immunotherapy Is Changing Cancer Treatment Forever](https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html)
-- [Tech, Crunched: How the go-to site for startup news lost its way](https://keepgoingpod.com/p/tech-crunched-how-the-go-to-site)
 - [K-Scale Labs &lpar;YC W24&rpar; Is Hiring a Chief Operating Officer](https://www.ycombinator.com/companies/k-scale-labs/jobs/QMoWHuz-chief-operating-officer)
-- [Women who make Samsung semiconductors are striking](https://english.hani.co.kr/arti/english_edition/e_national/1149185.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
