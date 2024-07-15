@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Nanorobot with hidden weapon kills cancer cells](https://news.ki.se/nanorobot-with-hidden-weapon-kills-cancer-cells)
 - [Human history in the long run: It was mostly pretty bad](https://www.slowboring.com/p/human-history-in-the-very-long-run-1d4)
+- [ZeroMQ: High-Performance Concurrency Framework](https://zeromq.org/)
 - [Tabloid: The Clickbait Headline Programming Language &lpar;2021&rpar;](https://tabloid.vercel.app/)
-- [The Rise of Faceless Accounts on Instagram](https://leximerritt.substack.com/p/faceless-accounts)
-- [Fusion – a hobby OS implemented in Nim](https://github.com/khaledh/fusion)
+- [TUI for Managing Bluetooth on Linux](https://github.com/pythops/bluetui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
