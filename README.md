@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study, dies aged 86](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
+- [A rare Stratospheric Warming event has begun over the South Pole](https://www.severe-weather.eu/global-weather/polar-vortex-stratospheric-warming-event-south-hemisphere-winter-fa/)
 - [A Review of Linux on Surface Pro 4](https://www.binwang.me/2024-07-12-A-Review-of-Linux-on-Surface-Pro-4.html)
 - [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40972842)
 - [The Second Law of Thermodynamics](https://franklambert.net/secondlaw.com/)
-- [What Happened to Ancient Megafauna?](https://nautil.us/what-happened-to-ancient-megafauna-713371/)
-- [How do jewellers capture every last particle of gold dust? &lpar;2017&rpar;](https://www.ft.com/content/0512638c-b7c2-11e6-961e-a1acd97f622d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
