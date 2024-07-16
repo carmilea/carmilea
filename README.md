@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Golang is evil on shitty networks &lpar;2022&rpar;](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
+- [People person: the greatness of Andrey Platonov](https://www.prospectmagazine.co.uk/culture/67208/people-person-the-greatness-of-andrey-platonov)
 - [Godotcaml for Godot 4.2](https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/)
-- [PS-HTTPD: A web server written in PostScript &lpar;2010&rpar;](https://www.pugo.org/projects/pshttpd/)
 - [New Gaussian Splatting viewer that allows code modification during runtime](https://github.com/Florian-Barthel/splatviz)
 - [Decoding DME aircraft radio navigation system with the LimeSDR](https://destevez.net/2024/07/recording-dme-with-the-limesdr/)
-- [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study, has died](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
