@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Golang is evil on shitty networks &lpar;2022&rpar;](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
+- [Making Elizabethan Plays Understandable and Fun to Read](http://elizabethandrama.org/)
+- [How AI Is Enhancing, Not Replacing, Human Expertise in Creative Fields](https://blog.scottynordstrom.org/embracing-the-future-how-ai-is-revolutionizing-industries-without-eliminating-expertise/)
+- [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)
 - [People person: the greatness of Andrey Platonov](https://www.prospectmagazine.co.uk/culture/67208/people-person-the-greatness-of-andrey-platonov)
-- [Godotcaml for Godot 4.2](https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/)
-- [New Gaussian Splatting viewer that allows code modification during runtime](https://github.com/Florian-Barthel/splatviz)
-- [Decoding DME aircraft radio navigation system with the LimeSDR](https://destevez.net/2024/07/recording-dme-with-the-limesdr/)
+- [Ly: Display Manager with Console UI](https://github.com/fairyglade/ly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
