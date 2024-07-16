@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Engineer&#39;s Guide to Deep Learning: Understanding the Transformer Model](https://www.interdb.jp/dl/)
 - [For advertising: Firefox now collects user data by default](https://www.heise.de/en/news/For-advertising-Firefox-now-collects-user-data-by-default-9801345.html)
-- [Commodore 64 Fitness Watch &lpar;2022&rpar;](https://www.hackster.io/nickbild/c64-fitness-watch-f4c902)
+- [Decoding DME aircraft radio navigation system with the LimeSDR](https://destevez.net/2024/07/recording-dme-with-the-limesdr/)
 - [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study, has died](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
 - [Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo)
-- [A Review of Linux on Surface Pro 4](https://www.binwang.me/2024-07-12-A-Review-of-Linux-on-Surface-Pro-4.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
