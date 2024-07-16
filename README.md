@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BOA27: An open source, open hardware, leafleting, smart balloon](https://github.com/aogposton/BOA27)
-- [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study has died](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
+- [Evan Wright, &#39;Generation Kill&#39; Author and Rolling Stone Contributor, Dead at 59](https://www.rollingstone.com/culture/culture-news/evan-wright-generation-kill-rolling-stone-dead-obit-1235060077/)
+- [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study, has died](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
 - [Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo)
-- [Task Dashboard Tips for Peak Productivity](https://www.leiga.com/post/task-dashboards)
 - [A Review of Linux on Surface Pro 4](https://www.binwang.me/2024-07-12-A-Review-of-Linux-on-Surface-Pro-4.html)
+- [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40972842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
