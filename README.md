@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40972842)
 - [Ask HN: Struggling with poor memory and executive function. What to do?](https://news.ycombinator.com/item?id=40972596)
+- [The Second Law of Thermodynamics](https://franklambert.net/secondlaw.com/)
 - [What Happened to Ancient Megafauna?](https://nautil.us/what-happened-to-ancient-megafauna-713371/)
 - [How do jewellers capture every last particle of gold dust? &lpar;2017&rpar;](https://www.ft.com/content/0512638c-b7c2-11e6-961e-a1acd97f622d)
-- [Shapeshift: Semantically map JSON objects using key-level vector embeddings](https://github.com/rectanglehq/Shapeshift)
 <!-- BLOG-POST-LIST:END -->
 
 ---
