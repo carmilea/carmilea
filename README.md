@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Math is running out of problems](https://medium.com/@jpolak/math-is-running-out-of-problems-14f2911fa46b)
-- [UK has almost 1M EV chargers, with new public one installed every 25 minutes](https://www.theguardian.com/business/article/2024/jul/15/electric-vehicle-ev-chargers-uk-installations)
-- [The science behind an iPhone dumb phone](https://dumbph.com/the-science-behind-an-iphone-dumb-phone/)
-- [PS-HTTPD: a web server written in PostScript](https://www.pugo.org/projects/pshttpd/)
+- [Godotcaml for Godot 4.2](https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/)
+- [PS-HTTPD: A web server written in PostScript &lpar;2010&rpar;](https://www.pugo.org/projects/pshttpd/)
 - [New Gaussian Splatting viewer that allows code modification during runtime](https://github.com/Florian-Barthel/splatviz)
+- [Decoding DME aircraft radio navigation system with the LimeSDR](https://destevez.net/2024/07/recording-dme-with-the-limesdr/)
+- [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study, has died](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
