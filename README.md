@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [L402: The Missing Piece in the Internet&#39;s Payment Infrastructure](https://l402.org/)
-- [The Mafia of Pharma Pricing](https://www.thebignewsletter.com/p/inside-the-mafia-of-pharma-pricing)
-- [Artie &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
-- [Amiga 2000 – Codename: Tesseract &lpar;2021&rpar;](https://retrohax.net/amiga-2000-codename-tesseract/)
-- [Leap – Chemistry Through a Computational Lens](https://ambermd.org/tutorials/pengfei/index.php)
+- [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40972842)
+- [Ask HN: Struggling with poor memory and executive function. What to do?](https://news.ycombinator.com/item?id=40972596)
+- [What Happened to Ancient Megafauna?](https://nautil.us/what-happened-to-ancient-megafauna-713371/)
+- [How do jewellers capture every last particle of gold dust? &lpar;2017&rpar;](https://www.ft.com/content/0512638c-b7c2-11e6-961e-a1acd97f622d)
+- [Shapeshift: Semantically map JSON objects using key-level vector embeddings](https://github.com/rectanglehq/Shapeshift)
 <!-- BLOG-POST-LIST:END -->
 
 ---
