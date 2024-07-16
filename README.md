@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Lago &lpar;YC S21, Open-Source Usage Based Billing&rpar; Is Hiring a ML Engineer &lpar;EU&rpar;](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-ml-engineer)
+- [Optimizing a Bignum Library for Fun](https://austinhenley.com/blog/bignum2.html)
+- [Electric Clouds This Summer](https://nautil.us/dont-miss-the-electric-clouds-this-summer-704313/)
 - [Schrödinger&#39;s cat among biology&#39;s pigeons: 75 years of What Is Life?](https://www.nature.com/articles/d41586-018-06034-8)
 - [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301)
-- [Inside an IBM/Motorola mainframe controller chip from 1981](http://www.righto.com/2024/07/ibm-3274-keystone-chip.html)
-- [XLSTMTime: Long-Term Time Series Forecasting with xLSTM](https://arxiv.org/abs/2407.10240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
