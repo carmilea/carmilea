@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Turn PPTs, CSVs, PDFs into AI-Accessible Data with Unstructured.io | SingleStore Webinars](https://www.youtube.com/watch?v=0ScnHQsL8Zk)
 - [Dev Aditya on the future of language models](https://www.youtube.com/watch?v=kMxEsTmDXM0)
 - [Dev Aditya on Retrieval Augmented Generation &lpar;RAG&rpar;](https://www.youtube.com/watch?v=WTCDoYjikw0)
 - [Becoming a Prompt Engineer - Dev Aditya](https://www.youtube.com/watch?v=FLCPNfKboGc)
 - [Tips for a Gen AI Startup](https://www.youtube.com/watch?v=E5tN1bQ1v1c)
-- [Unlocking Your Websites Full Potential Through Analytics](https://www.youtube.com/watch?v=H7lpGdYKKCw)
 <!-- YOUTUBE:END -->
 
 
