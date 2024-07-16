@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After 12 Years of Reviewing Restaurants, I&#39;m Leaving the Table](https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html)
+- [Data brokers sell our location data and jeopardise national security](https://netzpolitik.org/2024/data-broker-files-how-data-brokers-sell-our-location-data-and-jeopardise-national-security/)
+- [HuggingFace: Scaling open source community 300%/yr with No OKRs and No Meetings](https://dx.tips/huggingface)
 - [Lago &lpar;YC S21, Open-Source Usage Based Billing&rpar; Is Hiring a ML Engineer &lpar;EU&rpar;](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-ml-engineer)
 - [Optimizing a Bignum Library for Fun](https://austinhenley.com/blog/bignum2.html)
-- [Electric Clouds This Summer](https://nautil.us/dont-miss-the-electric-clouds-this-summer-704313/)
-- [Schrödinger&#39;s cat among biology&#39;s pigeons: 75 years of What Is Life?](https://www.nature.com/articles/d41586-018-06034-8)
-- [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301)
 <!-- BLOG-POST-LIST:END -->
 
 ---
