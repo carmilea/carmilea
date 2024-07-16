@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Dev Aditya on the future of language models](https://www.youtube.com/watch?v=kMxEsTmDXM0)
 - [Dev Aditya on Retrieval Augmented Generation &lpar;RAG&rpar;](https://www.youtube.com/watch?v=WTCDoYjikw0)
 - [Becoming a Prompt Engineer - Dev Aditya](https://www.youtube.com/watch?v=FLCPNfKboGc)
 - [Tips for a Gen AI Startup](https://www.youtube.com/watch?v=E5tN1bQ1v1c)
 - [Unlocking Your Websites Full Potential Through Analytics](https://www.youtube.com/watch?v=H7lpGdYKKCw)
-- [SingleStore + 6sense on AWS: Accelerating sales pipeline to revenue with AI](https://www.youtube.com/watch?v=BoWWsgT0ujQ)
 <!-- YOUTUBE:END -->
 
 
