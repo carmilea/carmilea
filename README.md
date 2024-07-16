@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study, dies aged 86](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
-- [A rare Stratospheric Warming event has begun over the South Pole](https://www.severe-weather.eu/global-weather/polar-vortex-stratospheric-warming-event-south-hemisphere-winter-fa/)
+- [BOA27: An open source, open hardware, leafleting, smart balloon](https://github.com/aogposton/BOA27)
+- [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study has died](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
+- [Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo)
+- [Task Dashboard Tips for Peak Productivity](https://www.leiga.com/post/task-dashboards)
 - [A Review of Linux on Surface Pro 4](https://www.binwang.me/2024-07-12-A-Review-of-Linux-on-Surface-Pro-4.html)
-- [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40972842)
-- [The Second Law of Thermodynamics](https://franklambert.net/secondlaw.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
