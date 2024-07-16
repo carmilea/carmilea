@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Sync Labs &lpar;YC W24&rpar; Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer)
-- [Framasoft – French non-profit making cloud OSS](https://framasoft.org/en/)
-- [Show HN: Contacts: A Microlang for Managing Contacts](https://scroll.pub/blog/contacts.html)
-- [After 12 Years of Reviewing Restaurants, I&#39;m Leaving the Table](https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html)
 - [DevRel at HuggingFace](https://dx.tips/huggingface)
+- [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
+- [Electric Clouds This Summer](https://nautil.us/dont-miss-the-electric-clouds-this-summer-704313/)
+- [Schrödinger&#39;s cat among biology&#39;s pigeons: 75 years of What Is Life?](https://www.nature.com/articles/d41586-018-06034-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
