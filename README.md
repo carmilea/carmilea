@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Simplicity/Acc: Why We Must End Human Programming Jobs](https://engineeringideas.substack.com/p/simplicityacc-why-we-must-end-human)
-- [Stop Microsoft users sending &#39;reactions&#39; to email by adding a postfix header](https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/)
-- [Private Browsing 2.0](https://webkit.org/blog/15697/private-browsing-2-0/)
-- [Making Elizabethan Plays Understandable and Fun to Read](http://elizabethandrama.org/)
+- [Lago &lpar;YC S21, Open-Source Usage Based Billing&rpar; Is Hiring a ML Engineer &lpar;EU&rpar;](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-ml-engineer)
+- [Schrödinger&#39;s cat among biology&#39;s pigeons: 75 years of What Is Life?](https://www.nature.com/articles/d41586-018-06034-8)
+- [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301)
+- [Inside an IBM/Motorola mainframe controller chip from 1981](http://www.righto.com/2024/07/ibm-3274-keystone-chip.html)
+- [XLSTMTime: Long-Term Time Series Forecasting with xLSTM](https://arxiv.org/abs/2407.10240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
