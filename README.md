@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Simplicity/Acc: Why We Must End Human Programming Jobs](https://engineeringideas.substack.com/p/simplicityacc-why-we-must-end-human)
+- [Stop Microsoft users sending &#39;reactions&#39; to email by adding a postfix header](https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/)
+- [Private Browsing 2.0](https://webkit.org/blog/15697/private-browsing-2-0/)
 - [Making Elizabethan Plays Understandable and Fun to Read](http://elizabethandrama.org/)
-- [How AI Is Enhancing, Not Replacing, Human Expertise in Creative Fields](https://blog.scottynordstrom.org/embracing-the-future-how-ai-is-revolutionizing-industries-without-eliminating-expertise/)
-- [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)
-- [People person: the greatness of Andrey Platonov](https://www.prospectmagazine.co.uk/culture/67208/people-person-the-greatness-of-andrey-platonov)
-- [Ly: Display Manager with Console UI](https://github.com/fairyglade/ly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
