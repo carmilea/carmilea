@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Math is running out of problems](https://medium.com/@jpolak/math-is-running-out-of-problems-14f2911fa46b)
 - [UK has almost 1M EV chargers, with new public one installed every 25 minutes](https://www.theguardian.com/business/article/2024/jul/15/electric-vehicle-ev-chargers-uk-installations)
 - [The science behind an iPhone dumb phone](https://dumbph.com/the-science-behind-an-iphone-dumb-phone/)
 - [PS-HTTPD: a web server written in PostScript](https://www.pugo.org/projects/pshttpd/)
 - [New Gaussian Splatting viewer that allows code modification during runtime](https://github.com/Florian-Barthel/splatviz)
-- [The Engineer&#39;s Guide to Deep Learning: Understanding the Transformer Model](https://www.interdb.jp/dl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
