@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Security Is Our Top Priority&quot; Is BS](https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html)
-- [China installing the wind / solar equivalent of 5 nuclear power stations a week](https://www.abc.net.au/news/science/2024-07-16/chinas-renewable-energy-boom-breaks-records/104086640)
-- [Free Introduction to Bash Scripting eBook](https://github.com/bobbyiliev/introduction-to-bash-scripting)
-- [Why is Sweden paying grandparents to babysit?](https://www.bloomberg.com/opinion/articles/2024-07-13/why-is-sweden-paying-grandparents-for-child-care-it-s-worth-a-try)
+- [What does “Security is our top priority” really mean?](https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html)
+- [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
 - [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
+- [The golden age of scammers: AI-powered phishing](https://www.mailgun.com/blog/email/ai-phishing/)
+- [Inside the Vision for SingleStore&#39;s New Portal Navigation](https://www.singlestore.com/blog/singlestores-new-portal-navigation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
