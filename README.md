@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How climate change is altering the Earth&#39;s rotation](https://ethz.ch/en/news-and-events/eth-news/news/2024/07/how-climate-change-is-altering-the-earths-rotation.html)
+- [We Love Writing Software So Much, We&#39;re Willing to Do It for Free](https://news.alvaroduran.com/p/we-love-writing-software-so-much)
 - [&quot;Security is our top priority&quot; is meaningless](https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html)
 - [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
 - [Data Formats: 3D, Audio, Image](https://paulbourke.net/dataformats/)
