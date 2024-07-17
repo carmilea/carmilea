@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mice live longer when inflammation-boosting protein is blocked](https://www.nature.com/articles/d41586-024-02298-5)
-- [Panic at the Job Market](https://matt.sh/panic-at-the-job-market)
-- [Bhutan&#39;s first AI startup is seven college kids in a dorm](https://restofworld.org/2024/bhutan-first-ai-startup/)
-- [Tom Lehrer and Santa Cruz: the trail of one of America&#39;s premier satirists](https://lookout.co/tom-lehrer-and-santa-cruz-sleuthing-the-trail-of-one-of-americas-premier-satirists/)
-- [Launch HN: Traceloop &lpar;YC W23&rpar; – Detecting LLM Hallucinations with OpenTelemetry](https://news.ycombinator.com/item?id=40985609)
+- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Senior Back End Engineers](https://news.ycombinator.com/item?id=40987913)
+- [Nation-State Actors Targeting Software Supply Chain via GitHub [2023&rpar;](https://panther.com/blog/nation-state-actors-targeting-software-supply-chain-via-github/)
+- [Python Practical Package Packing 2024](https://matt.sh/python-project-structure-2024)
+- [Jailbreaking RabbitOS: Uncovering secret logs, and GPL violations](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
+- [Inhibition of IL-11 signalling extends mammalian healthspan and lifespan](https://www.nature.com/articles/s41586-024-07701-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
