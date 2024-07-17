@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Universal Basic Income Transform Society?](https://www.theguardian.com/society/article/2024/jul/14/money-for-nothing-is-universal-basic-income-about-to-transform-society)
 - [Meta&#39;s digital censorship targets art from the Leopold Museum](https://english.elpais.com/culture/2024-07-15/metas-digital-censorship-targets-art-from-the-leopold-museum-in-vienna.html)
-- [Jia Tan &quot;JiaT75&quot;: Added error text to warning when untaring with bsdtar](https://github.com/libarchive/libarchive/pull/1609)
+- [Jia Tan &quot;JiaT75&quot;: Added error text to warning when untaring with bsdtar &lpar;2021&rpar;](https://github.com/libarchive/libarchive/pull/1609)
 - [Syd the perhaps most sophisticated sandbox for Linux](https://rentry.co/DSRsecuritycoursepart2#syd-the-perhaps-most-sophisticated-sandbox-for-linux)
 - [Railroading the Pascal Language](https://www.getlazarus.org/learn/language/lexical/)
+- [Axiomatic by Greg Egan](https://en.wikipedia.org/wiki/Axiomatic_(book))
 <!-- BLOG-POST-LIST:END -->
 
 ---
