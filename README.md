@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The unexpected poetry of PhD acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements)
+- [Prover-Verifier Games improve legibility of language model outputs](https://openai.com/index/prover-verifier-games-improve-legibility/)
+- [Against choosing your political allegiances based on who is &quot;pro-crypto&quot;](https://vitalik.eth.limo/general/2024/07/17/procrypto.html)
+- [Lessons Learned on a UI Revamp](https://www.singlestore.com/blog/lessons-learned-on-a-ui-revamp)
 - [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Senior Back End Engineers](https://news.ycombinator.com/item?id=40987913)
-- [Nation-State Actors Targeting Software Supply Chain via GitHub [2023&rpar;](https://panther.com/blog/nation-state-actors-targeting-software-supply-chain-via-github/)
-- [Python Practical Package Packing 2024](https://matt.sh/python-project-structure-2024)
-- [Jailbreaking RabbitOS: Uncovering secret logs, and GPL violations](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
-- [Inhibition of IL-11 signalling extends mammalian healthspan and lifespan](https://www.nature.com/articles/s41586-024-07701-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
