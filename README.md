@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Many US solar factories are lagging. Except those China owns](https://www.reuters.com/business/energy/many-us-solar-factories-are-lagging-except-those-china-owns-2024-07-17/)
+- [Mice live longer when inflammation-boosting protein is blocked](https://www.nature.com/articles/d41586-024-02298-5)
+- [Panic at the Job Market](https://matt.sh/panic-at-the-job-market)
 - [Bhutan&#39;s first AI startup is seven college kids in a dorm](https://restofworld.org/2024/bhutan-first-ai-startup/)
-- [Puerto Rico files $1B suit against fossil fuel companies](https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change)
 - [Tom Lehrer and Santa Cruz: the trail of one of America&#39;s premier satirists](https://lookout.co/tom-lehrer-and-santa-cruz-sleuthing-the-trail-of-one-of-americas-premier-satirists/)
 - [Launch HN: Traceloop &lpar;YC W23&rpar; – Detecting LLM Hallucinations with OpenTelemetry](https://news.ycombinator.com/item?id=40985609)
 <!-- BLOG-POST-LIST:END -->
