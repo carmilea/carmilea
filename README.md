@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta&#39;s digital censorship targets art from the Leopold Museum](https://english.elpais.com/culture/2024-07-15/metas-digital-censorship-targets-art-from-the-leopold-museum-in-vienna.html)
-- [Jia Tan &quot;JiaT75&quot;: Added error text to warning when untaring with bsdtar &lpar;2021&rpar;](https://github.com/libarchive/libarchive/pull/1609)
+- [Self Hosting 101 – A Beginner&#39;s Guide](https://ente.io/blog/self-hosting-101/)
+- [New Technology Could Reduce the Amount of Energy for Air Conditioning](https://www.wired.com/story/cutting-edge-technology-could-massively-reduce-the-amount-of-energy-used-for-air-conditioning/)
 - [Syd the perhaps most sophisticated sandbox for Linux](https://rentry.co/DSRsecuritycoursepart2#syd-the-perhaps-most-sophisticated-sandbox-for-linux)
-- [Railroading the Pascal Language](https://www.getlazarus.org/learn/language/lexical/)
-- [Axiomatic by Greg Egan](https://en.wikipedia.org/wiki/Axiomatic_(book))
+- [Post Office Horizon scandal explained: Everything you need to know](https://www.computerweekly.com/feature/Post-Office-Horizon-scandal-explained-everything-you-need-to-know)
+- [The Greatest Educational Life Hack: Learning Math Ahead of Time](https://www.justinmath.com/the-greatest-educational-life-hack-learning-math-ahead-of-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
