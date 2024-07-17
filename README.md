@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Draftaid &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/draftaid/jobs/7d48v4k-software-engineer)
+- [iDOS 3 App Review appeal rejected despite UTM PC Emulator Approval](https://litchie.com/2024/04/new-hope?updated)
 - [Show HN: Product Hunt for Music](https://tracklist.it/)
 - [Graunt and Statistics](https://www.delanceyplace.com/view-archives.php?5092)
 - [Researchers build a solar-powered hovering drone that weighs only 9 mg](https://arstechnica.com/science/2024/07/researchers-build-ultralight-drone-that-flies-with-onboard-solar/)
-- [Little Languages &lpar;1986&rpar; [pdf]](https://staff.um.edu.mt/afra1/seminar/little-languages.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
