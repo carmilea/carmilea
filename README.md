@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Love Writing Software So Much, We&#39;re Willing to Do It for Free](https://news.alvaroduran.com/p/we-love-writing-software-so-much)
-- [&quot;Security is our top priority&quot; is meaningless](https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html)
-- [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
-- [Data Formats: 3D, Audio, Image](https://paulbourke.net/dataformats/)
-- [Eight Years of GraphQL](https://www.magiroux.com/eight-years-of-graphql)
+- [Return-to-Office Mandates Aren&#39;t Worth the Talent Risks](https://www.gartner.com/en/articles/the-data-is-in-return-to-office-mandates-aren-t-worth-the-talent-risks)
+- [CSS Classes Considered Harmful](https://www.keithcirkel.co.uk/css-classes-considered-harmful/)
+- [Google presents method to circumvent automatic blocking of tag manager](https://developers.google.com/tag-platform/tag-manager/first-party/setup-guide)
+- [Fats from thin air: Startup makes butter using CO2 and water](https://newatlas.com/technology/savor-butter-bill-gates/)
+- [Design a GraphQL Schema So Good, It&#39;ll Make REST APIs Cry](https://tailcall.run/blog/graphql-schema/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
