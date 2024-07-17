@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Self Hosting 101 – A Beginner&#39;s Guide](https://ente.io/blog/self-hosting-101/)
-- [New Technology Could Reduce the Amount of Energy for Air Conditioning](https://www.wired.com/story/cutting-edge-technology-could-massively-reduce-the-amount-of-energy-used-for-air-conditioning/)
-- [Syd the perhaps most sophisticated sandbox for Linux](https://rentry.co/DSRsecuritycoursepart2#syd-the-perhaps-most-sophisticated-sandbox-for-linux)
-- [Post Office Horizon scandal explained: Everything you need to know](https://www.computerweekly.com/feature/Post-Office-Horizon-scandal-explained-everything-you-need-to-know)
-- [The Greatest Educational Life Hack: Learning Math Ahead of Time](https://www.justinmath.com/the-greatest-educational-life-hack-learning-math-ahead-of-time/)
+- [Many US solar factories are lagging. Except those China owns](https://www.reuters.com/business/energy/many-us-solar-factories-are-lagging-except-those-china-owns-2024-07-17/)
+- [Bhutan&#39;s first AI startup is seven college kids in a dorm](https://restofworld.org/2024/bhutan-first-ai-startup/)
+- [Puerto Rico files $1B suit against fossil fuel companies](https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change)
+- [Tom Lehrer and Santa Cruz: the trail of one of America&#39;s premier satirists](https://lookout.co/tom-lehrer-and-santa-cruz-sleuthing-the-trail-of-one-of-americas-premier-satirists/)
+- [Launch HN: Traceloop &lpar;YC W23&rpar; – Detecting LLM Hallucinations with OpenTelemetry](https://news.ycombinator.com/item?id=40985609)
 <!-- BLOG-POST-LIST:END -->
 
 ---
