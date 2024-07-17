@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The unexpected poetry of PhD acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements)
-- [Prover-Verifier Games improve legibility of language model outputs](https://openai.com/index/prover-verifier-games-improve-legibility/)
-- [Against choosing your political allegiances based on who is &quot;pro-crypto&quot;](https://vitalik.eth.limo/general/2024/07/17/procrypto.html)
-- [Lessons Learned on a UI Revamp](https://www.singlestore.com/blog/lessons-learned-on-a-ui-revamp)
-- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Senior Back End Engineers](https://news.ycombinator.com/item?id=40987913)
+- [Little Languages [pdf]](https://staff.um.edu.mt/afra1/seminar/little-languages.pdf)
+- [NVIDIA Transitions Fully Towards Open-Source Linux GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
+- [Mini PCs Database](https://minipcs.org/)
+- [A brief interview with Awk creator Dr. Brian Kernighan](https://pldb.io/blog/brianKernighan.html)
+- [IRC technology news from the first half of 2024](https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
