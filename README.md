@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Return-to-Office Mandates Aren&#39;t Worth the Talent Risks](https://www.gartner.com/en/articles/the-data-is-in-return-to-office-mandates-aren-t-worth-the-talent-risks)
 - [CSS Classes Considered Harmful](https://www.keithcirkel.co.uk/css-classes-considered-harmful/)
 - [Google presents method to circumvent automatic blocking of tag manager](https://developers.google.com/tag-platform/tag-manager/first-party/setup-guide)
 - [Fats from thin air: Startup makes butter using CO2 and water](https://newatlas.com/technology/savor-butter-bill-gates/)
-- [Design a GraphQL Schema So Good, It&#39;ll Make REST APIs Cry](https://tailcall.run/blog/graphql-schema/)
+- [Libera IRC Channels Sorted by Number of Users](https://netsplit.de/channels/?net=Libera.Chat)
+- [Gitlab Explores Sale](https://www.reuters.com/markets/deals/google-backed-software-developer-gitlab-explores-sale-sources-say-2024-07-17/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
