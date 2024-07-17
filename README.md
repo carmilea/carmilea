@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How climate change is altering the Earth&#39;s rotation](https://ethz.ch/en/news-and-events/eth-news/news/2024/07/how-climate-change-is-altering-the-earths-rotation.html)
 - [&quot;Security is our top priority&quot; is meaningless](https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html)
 - [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
 - [Data Formats: 3D, Audio, Image](https://paulbourke.net/dataformats/)
-- [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
 - [Eight Years of GraphQL](https://www.magiroux.com/eight-years-of-graphql)
 <!-- BLOG-POST-LIST:END -->
 
