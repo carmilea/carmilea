@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
 - [Inside the Vision for SingleStore&#39;s New Portal Navigation](https://www.singlestore.com/blog/singlestores-new-portal-navigation)
-- [magic-cli: A copilot for your command line](https://github.com/guywaldman/magic-cli)
+- [Show HN: Magic-cli – A copilot for your command line](https://github.com/guywaldman/magic-cli)
 - [Sync Labs &lpar;YC W24&rpar; Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer)
 - [Convex Architecture Handbook 1984 [pdf]](http://bitsavers.informatik.uni-stuttgart.de/pdf/convex/080-000120-000_CONVEX_Architecture_Handbook_1984.pdf)
-- [After 12 years of reviewing restaurants, I&#39;m leaving the table](https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
