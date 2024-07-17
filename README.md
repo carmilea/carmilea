@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS 18 could &#39;sherlock&#39; $400M in app revenue](https://techcrunch.com/2024/07/16/ios-18-could-sherlock-400m-in-app-revenue/)
+- [Free Introduction to Bash Scripting eBook](https://github.com/bobbyiliev/introduction-to-bash-scripting)
+- [Why is Sweden paying grandparents to babysit?](https://www.bloomberg.com/opinion/articles/2024-07-13/why-is-sweden-paying-grandparents-for-child-care-it-s-worth-a-try)
 - [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
 - [The golden age of scammers: AI-powered phishing](https://www.mailgun.com/blog/email/ai-phishing/)
-- [Inside the Vision for SingleStore&#39;s New Portal Navigation](https://www.singlestore.com/blog/singlestores-new-portal-navigation)
-- [Show HN: Magic-cli – A copilot for your command line](https://github.com/guywaldman/magic-cli)
-- [Sync Labs &lpar;YC W24&rpar; Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
