@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What does “Security is our top priority” really mean?](https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html)
+- [&quot;Security is our top priority&quot; is meaningless](https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html)
+- [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
+- [Data Formats: 3D, Audio, Image](https://paulbourke.net/dataformats/)
 - [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
-- [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
-- [The golden age of scammers: AI-powered phishing](https://www.mailgun.com/blog/email/ai-phishing/)
-- [Inside the Vision for SingleStore&#39;s New Portal Navigation](https://www.singlestore.com/blog/singlestores-new-portal-navigation)
+- [Eight Years of GraphQL](https://www.magiroux.com/eight-years-of-graphql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
