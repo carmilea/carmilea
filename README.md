@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [That Time Apple Told Apple III Customers to Drop Their Computers](https://www.techjunkie.com/apple-iii-drop/)
+- [Vaccines Significantly Reduce the Risk of Long Covid, Study Finds](https://www.nytimes.com/2024/07/17/health/long-covid-vaccines.html)
 - [GMC made a motorhome that pumped sewage through its exhaust on purpose](https://www.thedrive.com/news/culture/gmc-made-a-motorhome-that-pumped-sewage-through-its-exhaust-on-purpose)
 - [Americans&#39; confidence in higher education has taken a nosedive](https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/)
 - [Mercedes-Benz high-power charging goes large at Starbucks](https://electrek.co/2024/07/17/mercedes-benz-high-power-charging-starbucks/)
-- [Show HN: Llm2sh – Translate plain-language requests into shell commands](https://github.com/randombk/llm2sh)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Customer Success Manager &lpar;San Francisco&rpar;](https://etleap.com/careers/customer-success-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
