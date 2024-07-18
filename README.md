@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
+- [Evolving the ASF Brand](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
+- [GPT-4o mini: advancing cost-efficient intelligence](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
 - [Eventual &lpar;YC W22&rpar; Is Hiring a Developer Relations Manager for Daft &lpar;SF&rpar;](https://jobs.ashbyhq.com/eventualcomputing/504beb69-b6e4-4600-8eee-751c576655be)
-- [Bye-bye Bitcoin, hello AI: Texas miners leave crypto for next new wave](https://www.cnbc.com/2024/07/18/bye-bye-bitcoin-hello-ai-texas-miners-leave-crypto-for-next-new-wave.html)
 - [Polychromatic Pixels](https://compoundsemiconductor.net/article/119170/Polychromatic_pixels)
-- [Back to the future: Are hackers the future of amateur radio?](https://www.kb6nu.com/back-to-the-future-are-hackers-the-future-of-amateur-radio/)
-- [&quot;Smart soil&quot; grows 138% bigger crops using 40% less water](https://newatlas.com/science/smart-soil-hydrogel-bigger-crops-less-water/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
