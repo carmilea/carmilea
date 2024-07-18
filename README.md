@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trayd &lpar;YC S23&rpar; Is Hiring](https://buildtrayd.notion.site/Senior-Software-Engineer-Trayd-b2e20c6b936e47b9870823a75e6c0604)
-- [Show HN: I made a privacy-friendly and free image, audio and video converter](https://fileconverter.tommyjepsen.com/)
-- [The Erie Canal: The man-made waterway that transformed the US](https://www.bbc.com/travel/article/20240715-the-erie-canal-the-manmade-waterway-that-transformed-the-us)
-- [Ask HN: What&#39;s Prolog Like in 2024?](https://news.ycombinator.com/item?id=40994552)
-- [Post-Architecture: Premature Abstraction Is the Root of All Evil](https://arendjr.nl/blog/2024/07/post-architecture-premature-abstraction-is-the-root-of-all-evil/)
+- [OpenAI Slashes the Cost of Using Its AI with a &quot;Mini&quot; Model](https://www.wired.com/story/openai-gpt-4o-mini/)
+- [Ford spends $3B to expand large truck production in plant previously set for EVs](https://www.cnbc.com/2024/07/18/ford-canada-large-truck-production.html)
+- [Ask HN: Every day feels like prison](https://news.ycombinator.com/item?id=40996118)
+- [Mistral NeMo](https://mistral.ai/news/mistral-nemo/)
+- [Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
 <!-- BLOG-POST-LIST:END -->
 
 ---
