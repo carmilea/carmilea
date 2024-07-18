@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Made on SingleStore: Building a Real-Time Analytics Pipeline for Race Cars](https://www.youtube.com/watch?v=BQTVZcRncwQ)
 - [Six Days to SingleStore: ConveYour’s Rockset Migration Journey | SingleStore Webinars](https://www.youtube.com/watch?v=pPGGOAExAY8)
 - [Turn PPTs, CSVs, PDFs into AI-Accessible Data with Unstructured.io | SingleStore Webinars](https://www.youtube.com/watch?v=0ScnHQsL8Zk)
 - [Dev Aditya on the future of language models](https://www.youtube.com/watch?v=kMxEsTmDXM0)
 - [Dev Aditya on Retrieval Augmented Generation &lpar;RAG&rpar;](https://www.youtube.com/watch?v=WTCDoYjikw0)
-- [Becoming a Prompt Engineer - Dev Aditya](https://www.youtube.com/watch?v=FLCPNfKboGc)
 <!-- YOUTUBE:END -->
 
 
