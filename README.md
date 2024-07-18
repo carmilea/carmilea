@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Concealed backdoor in fake AWS files escaped mainstream notice](https://arstechnica.com/security/2024/07/code-sneaked-into-fake-aws-downloaded-hundreds-of-times-backdoored-dev-devices/)
+- [So you want to compete with or replace open source](https://drewdevault.com/2024/07/16/2024-07-16-So-you-want-to-compete-with-FOSS.html)
 - [Collection of Dark Patterns and Unethical Design](https://hallofshame.design/collection/)
 - [My daughter &lpar;7 years old&rpar; used HTML to make a website](https://naya.lol)
-- [SKI Combinator Calculus](https://en.wikipedia.org/wiki/SKI_combinator_calculus)
 - [Self-Awareness Might Not Have Evolved to Benefit the Self After All](https://www.sciencealert.com/self-awareness-might-not-have-evolved-to-benefit-the-self-after-all)
-- [Amazon&#39;s Kindle Direct Publishing is a dystopian nightmare](https://news.ycombinator.com/item?id=40992654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
