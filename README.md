@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-Awareness Might Not Have Evolved to Benefit the Self After All](https://www.sciencealert.com/self-awareness-might-not-have-evolved-to-benefit-the-self-after-all)
+- [Amazon&#39;s Kindle Direct Publishing is a dystopian nightmare](https://news.ycombinator.com/item?id=40992654)
+- [Money and Happiness: Extended Evidence Against Satiation](https://happiness-science.org/money-happiness-satiation/)
 - [That Time Apple Told Apple III Customers to Drop Their Computers](https://www.techjunkie.com/apple-iii-drop/)
-- [Vaccines Significantly Reduce the Risk of Long Covid, Study Finds](https://www.nytimes.com/2024/07/17/health/long-covid-vaccines.html)
-- [GMC made a motorhome that pumped sewage through its exhaust on purpose](https://www.thedrive.com/news/culture/gmc-made-a-motorhome-that-pumped-sewage-through-its-exhaust-on-purpose)
-- [Americans&#39; confidence in higher education has taken a nosedive](https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/)
-- [Mercedes-Benz high-power charging goes large at Starbucks](https://electrek.co/2024/07/17/mercedes-benz-high-power-charging-starbucks/)
+- [Who Killed the World?](https://pudding.cool/2024/07/scifi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
