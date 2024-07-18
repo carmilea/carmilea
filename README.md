@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Collection of Dark Patterns and Unethical Design](https://hallofshame.design/collection/)
 - [My daughter &lpar;7 years old&rpar; used HTML to make a website](https://naya.lol)
 - [SKI Combinator Calculus](https://en.wikipedia.org/wiki/SKI_combinator_calculus)
 - [Self-Awareness Might Not Have Evolved to Benefit the Self After All](https://www.sciencealert.com/self-awareness-might-not-have-evolved-to-benefit-the-self-after-all)
 - [Amazon&#39;s Kindle Direct Publishing is a dystopian nightmare](https://news.ycombinator.com/item?id=40992654)
-- [Money and Happiness: Extended Evidence Against Satiation](https://happiness-science.org/money-happiness-satiation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
