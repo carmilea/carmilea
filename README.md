@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
+- [What would it take to recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
+- [USPS shared customer postal addresses with Meta, LinkedIn and Snap](https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/)
 - [MapLab: Sleuthing for Undersea Cables](https://www.bloomberg.com/news/newsletters/2024-07-17/subway-style-map-visualizes-world-s-network-of-submarine-cables)
 - [Forewarn gives realtors access to buyers&#39; histories with a phone number](https://therecord.media/forewarn-app-real-estate-homebuyer-data)
-- [Wing-slapping: A defensive behavior by honey bees against ants](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4372)
-- [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
-- [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
