@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA Spent $450M on a Moon Rover. Now It&#39;s Canceling the Mission](https://www.nytimes.com/2024/07/17/science/nasa-viper-moon-rover-canceled.html)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Customer Success Manager &lpar;San Francisco&rpar;](https://etleap.com/careers/customer-success-manager/)
+- [Overcoming the Limits of Large Language Models](https://seanpedersen.github.io/posts/overcoming-llm-limits)
+- [A RP2040 based DECstation 3000 emulator that can run DECWindows](https://github.com/rscott2049/DECstation2040)
 - [Closed form arc length parametrization is impossible for quadratic Bézier curves](https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/)
-- [SAPwned: SAP AI vulnerabilities expose customers&#39; cloud environments and privat](https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security)
-- [Draftaid &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/draftaid/jobs/7d48v4k-software-engineer)
-- [What can TypeScript learn from Zig? What can Zig learn from TypeScript?](https://effectivetypescript.com/2024/07/17/advent2023-zig/)
-- [Show HN: Product Hunt for Music](https://tracklist.it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
