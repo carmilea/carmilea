@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MapLab: Sleuthing for Undersea Cables](https://www.bloomberg.com/news/newsletters/2024-07-17/subway-style-map-visualizes-world-s-network-of-submarine-cables)
+- [Forewarn gives realtors access to buyers&#39; histories with a phone number](https://therecord.media/forewarn-app-real-estate-homebuyer-data)
+- [Wing-slapping: A defensive behavior by honey bees against ants](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4372)
 - [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
-- [Evolving the ASF Brand](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
-- [GPT-4o mini: advancing cost-efficient intelligence](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
-- [Eventual &lpar;YC W22&rpar; Is Hiring a Developer Relations Manager for Daft &lpar;SF&rpar;](https://jobs.ashbyhq.com/eventualcomputing/504beb69-b6e4-4600-8eee-751c576655be)
-- [Polychromatic Pixels](https://compoundsemiconductor.net/article/119170/Polychromatic_pixels)
+- [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
