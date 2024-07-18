@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Slashes the Cost of Using Its AI with a &quot;Mini&quot; Model](https://www.wired.com/story/openai-gpt-4o-mini/)
-- [Ford spends $3B to expand large truck production in plant previously set for EVs](https://www.cnbc.com/2024/07/18/ford-canada-large-truck-production.html)
-- [Ask HN: Every day feels like prison](https://news.ycombinator.com/item?id=40996118)
+- [Show HN: The first open-source Infrastructure-as-Code framework](https://cncframework.com/)
+- [Ask HN: Skills to Learn for Wartime?](https://news.ycombinator.com/item?id=40996703)
+- [OpenAI slashes the cost of using its AI with a &quot;mini&quot; model](https://www.wired.com/story/openai-gpt-4o-mini/)
 - [Mistral NeMo](https://mistral.ai/news/mistral-nemo/)
 - [Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
 <!-- BLOG-POST-LIST:END -->
