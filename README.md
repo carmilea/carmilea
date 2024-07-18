@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GMC Made a Motorhome That Pumped Sewage Through Its Exhaust on Purpose](https://www.thedrive.com/news/culture/gmc-made-a-motorhome-that-pumped-sewage-through-its-exhaust-on-purpose)
+- [GMC made a motorhome that pumped sewage through its exhaust on purpose](https://www.thedrive.com/news/culture/gmc-made-a-motorhome-that-pumped-sewage-through-its-exhaust-on-purpose)
 - [Americans&#39; confidence in higher education has taken a nosedive](https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/)
-- [NASA Spent $450M on a Moon Rover. Now It&#39;s Canceling the Mission](https://www.nytimes.com/2024/07/17/science/nasa-viper-moon-rover-canceled.html)
-- [Mercedes-Benz High-Power Charging Goes Large at Starbucks](https://electrek.co/2024/07/17/mercedes-benz-high-power-charging-starbucks/)
+- [Mercedes-Benz high-power charging goes large at Starbucks](https://electrek.co/2024/07/17/mercedes-benz-high-power-charging-starbucks/)
 - [Show HN: Llm2sh – Translate plain-language requests into shell commands](https://github.com/randombk/llm2sh)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Customer Success Manager &lpar;San Francisco&rpar;](https://etleap.com/careers/customer-success-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
