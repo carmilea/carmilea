@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Luddites: On Being a Digital Minimalist Family in a Tech-Saturated World](https://www.afterbabel.com/p/modern-luddites-on-being-a-digital)
 - [Trayd &lpar;YC S23&rpar; Is Hiring](https://buildtrayd.notion.site/Senior-Software-Engineer-Trayd-b2e20c6b936e47b9870823a75e6c0604)
+- [Show HN: I made a privacy-friendly and free image, audio and video converter](https://fileconverter.tommyjepsen.com/)
 - [The Erie Canal: The man-made waterway that transformed the US](https://www.bbc.com/travel/article/20240715-the-erie-canal-the-manmade-waterway-that-transformed-the-us)
-- [Figma Retrospective on the &quot;Make Designs&quot; Feature](https://www.figma.com/blog/inside-figma-a-retrospective-on-make-designs/)
 - [Ask HN: What&#39;s Prolog Like in 2024?](https://news.ycombinator.com/item?id=40994552)
+- [Post-Architecture: Premature Abstraction Is the Root of All Evil](https://arendjr.nl/blog/2024/07/post-architecture-premature-abstraction-is-the-root-of-all-evil/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
