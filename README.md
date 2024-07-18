@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SKI Combinator Calculus](https://en.wikipedia.org/wiki/SKI_combinator_calculus)
 - [Self-Awareness Might Not Have Evolved to Benefit the Self After All](https://www.sciencealert.com/self-awareness-might-not-have-evolved-to-benefit-the-self-after-all)
 - [Amazon&#39;s Kindle Direct Publishing is a dystopian nightmare](https://news.ycombinator.com/item?id=40992654)
 - [Money and Happiness: Extended Evidence Against Satiation](https://happiness-science.org/money-happiness-satiation/)
-- [That Time Apple Told Apple III Customers to Drop Their Computers](https://www.techjunkie.com/apple-iii-drop/)
 - [Who Killed the World?](https://pudding.cool/2024/07/scifi/)
 <!-- BLOG-POST-LIST:END -->
 
