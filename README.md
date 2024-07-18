@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bob Newhart, Comedy Icon, Dies at 94](https://variety.com/2024/tv/news/bob-newhart-dead-comedian-1236077300/)
+- [Mutable.ai &lpar;YC W22&rpar; is hiring to build an AI codebase expert](https://news.ycombinator.com/item?id=40999700)
+- [Meta puts a halt to training its generative AI tools in Brazil](https://techcrunch.com/2024/07/18/meta-suspends-generative-ai-tools-in-brazil/)
 - [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
 - [What would it take to recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
-- [USPS shared customer postal addresses with Meta, LinkedIn and Snap](https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/)
-- [MapLab: Sleuthing for Undersea Cables](https://www.bloomberg.com/news/newsletters/2024-07-17/subway-style-map-visualizes-world-s-network-of-submarine-cables)
-- [Forewarn gives realtors access to buyers&#39; histories with a phone number](https://therecord.media/forewarn-app-real-estate-homebuyer-data)
 <!-- BLOG-POST-LIST:END -->
 
 ---
