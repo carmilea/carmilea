@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trayd &lpar;YC S23&rpar; Is Hiring](https://buildtrayd.notion.site/Senior-Software-Engineer-Trayd-b2e20c6b936e47b9870823a75e6c0604)
+- [The Erie Canal: The man-made waterway that transformed the US](https://www.bbc.com/travel/article/20240715-the-erie-canal-the-manmade-waterway-that-transformed-the-us)
+- [Figma Retrospective on the &quot;Make Designs&quot; Feature](https://www.figma.com/blog/inside-figma-a-retrospective-on-make-designs/)
+- [Ask HN: What&#39;s Prolog Like in 2024?](https://news.ycombinator.com/item?id=40994552)
 - [Collection of Dark Patterns and Unethical Design](https://hallofshame.design/collection/)
-- [Self-Awareness Might Not Have Evolved to Benefit the Self After All](https://www.sciencealert.com/self-awareness-might-not-have-evolved-to-benefit-the-self-after-all)
-- [Money and Happiness: Extended Evidence Against Satiation](https://happiness-science.org/money-happiness-satiation/)
-- [Who Killed the World?](https://pudding.cool/2024/07/scifi/)
-- [Show HN: Llm2sh – Translate plain-language requests into shell commands](https://github.com/randombk/llm2sh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
