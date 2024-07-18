@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Concealed backdoor in fake AWS files escaped mainstream notice](https://arstechnica.com/security/2024/07/code-sneaked-into-fake-aws-downloaded-hundreds-of-times-backdoored-dev-devices/)
-- [So you want to compete with or replace open source](https://drewdevault.com/2024/07/16/2024-07-16-So-you-want-to-compete-with-FOSS.html)
 - [Collection of Dark Patterns and Unethical Design](https://hallofshame.design/collection/)
-- [My daughter &lpar;7 years old&rpar; used HTML to make a website](https://naya.lol)
 - [Self-Awareness Might Not Have Evolved to Benefit the Self After All](https://www.sciencealert.com/self-awareness-might-not-have-evolved-to-benefit-the-self-after-all)
+- [Money and Happiness: Extended Evidence Against Satiation](https://happiness-science.org/money-happiness-satiation/)
+- [Who Killed the World?](https://pudding.cool/2024/07/scifi/)
+- [Show HN: Llm2sh – Translate plain-language requests into shell commands](https://github.com/randombk/llm2sh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
