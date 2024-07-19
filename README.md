@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2024 CrowdStrike incident: The largest IT outage in history](https://en.wikipedia.org/wiki/2024_CrowdStrike_incident)
+- [Is Crowdstrike the Final Straw?](https://gavinhoward.com/2024/07/is-crowdstrike-the-final-straw/)
+- [Leveraging Flink With SingleStore to Power Retail Analytics Use Cases](https://www.singlestore.com/blog/leveraging-flink-with-singlestore-to-power-retail-analytics-use-cases)
+- [Show HN: I built an app to generate me windows blue screen of death](https://app.tivateonline.com/uiconcept/)
 - [Ask HN: How to finish last 30% of a side project?](https://news.ycombinator.com/item?id=41010229)
-- [AI paid for by Ads – the GPT-4o mini inflection point](https://batchmon.com/blog/ai-cheaper-than-ads/)
-- [Pornhub Pulls Out of Nebraska](https://gizmodo.com/pornhub-pulls-out-of-nebraska-2000476879)
-- [Never Update Anything](https://blog.kronis.dev/articles/never-update-anything)
-- [What Happened to Bert and T5?](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising)
 <!-- BLOG-POST-LIST:END -->
 
 ---
