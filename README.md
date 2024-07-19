@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
+- [Windows Bluescreen and Boot Loops &lpar;update: caused by a Crowdstrike update&rpar;](https://news.ycombinator.com/item?id=41002195)
+- [FOSS funding vanishes from EU&#39;s 2025 Horizon program plans](https://www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/)
+- [Multiple airlines disrupted due to Microsoft Azure outage](https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html)
 - [Professional Poker Players Know the Optimal Strategy but Don&#39;t Always Use It](https://www.scientificamerican.com/article/the-nash-equilibrium-is-the-optimal-poker-strategy-expert-players-dont-always-use-it/)
-- [Don&#39;t ask me to embarrass myself](https://basta.substack.com/p/dont-ask-me-to-embarrass-myself)
-- [Rollstack &lpar;YC W23&rpar; Is Hiring Exceptional TypeScript Engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
-- [Double trouble: ESA&#39;s Gaia hit by micrometeoroid and solar storm](https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm)
-- [60-year-old German man likely seventh person to be effectively cured from HIV](https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
