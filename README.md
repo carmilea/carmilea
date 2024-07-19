@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TradingView&#39;s Emotional Subscription Cancellation](https://hallofshame.design/tradingview-emotional-subscription-cancellation/)
+- [Ask HN: What is in C-00000291*.sys?](https://news.ycombinator.com/item?id=41004103)
+- [Ryanair – when every page is a dark pattern](https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/)
 - [End Poem by Julian Gough](https://www.theendpoem.com/)
 - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
-- [Windows Bluescreen and Boot Loops &lpar;update: caused by a Crowdstrike update&rpar;](https://www.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
-- [Multiple airlines disrupted due to Microsoft Azure outage](https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html)
-- [Professional Poker Players Know the Optimal Strategy but Don&#39;t Always Use It](https://www.scientificamerican.com/article/the-nash-equilibrium-is-the-optimal-poker-strategy-expert-players-dont-always-use-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
