@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crowdstrike Outage Causing Widespread Issues](https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t)
+- [Cybersecurity platform Crowdstrike down worldwide, users logged out of systems](https://www.digit.in/news/general/cybersecurity-platform-crowdstrike-down-worldwide-many-users-logged-out-of-systems.html)
 - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
-- [Windows Bluescreen and Boot Loops &lpar;update: caused by a Crowdstrike update&rpar;](https://news.ycombinator.com/item?id=41002195)
 - [FOSS funding vanishes from EU&#39;s 2025 Horizon program plans](https://www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/)
 - [Multiple airlines disrupted due to Microsoft Azure outage](https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html)
-- [Professional Poker Players Know the Optimal Strategy but Don&#39;t Always Use It](https://www.scientificamerican.com/article/the-nash-equilibrium-is-the-optimal-poker-strategy-expert-players-dont-always-use-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
