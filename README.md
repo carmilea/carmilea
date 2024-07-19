@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth&#39;s Water Is Rapidly Losing Oxygen, and the Danger Is Huge](https://www.sciencealert.com/earths-water-is-rapidly-losing-oxygen-and-the-danger-is-huge)
 - [NASA&#39;s Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock)
+- [Show HN: Linux Mint Redesign Proposal](https://github.com/klad-design/linuxmint-brand)
 - [3D visualization brings nuclear fusion to life](https://actu.epfl.ch/news/3d-visualization-brings-nuclear-fusion-to-life/)
 - [FCC votes unanimously to dramatically limit prison telecom charges](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
-- [CrowdStrike CEO: &quot;defect in a single content update for Windows&quot;](https://twitter.com/George_Kurtz/status/1814235001745027317)
-- [End Poem by Julian Gough](https://www.theendpoem.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
