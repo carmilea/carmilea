@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Multisatellite Data Depicts a Record-Breaking Methane Leak from a Well Blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
+- [Why didn&#39;t Rome have an industrial revolution?](https://www.maximum-progress.com/p/romae-industriae)
+- [Academics shocked after T&amp;F sells access to their research to Microsoft AI](https://www.thebookseller.com/news/academic-authors-shocked-after-taylor--francis-sells-access-to-their-research-to-microsoft-ai)
 - [The Commodore 900: A Look at a Rare Prototype](https://hackaday.com/2023/02/25/the-forgotten-commodore-900-a-look-at-a-rare-prototype/)
-- [Continuously shorting IT stocks overnight and buying back at market open](https://blog.abctaylor.com/continuously-shorting-it-stocks-overnight-and-buying-back-at-market-open/)
-- [Leveraging Flink With SingleStore to Power Retail Analytics Use Cases](https://www.singlestore.com/blog/leveraging-flink-with-singlestore-to-power-retail-analytics-use-cases)
-- [AI paid for by Ads – the GPT-4o mini inflection point](https://batchmon.com/blog/ai-cheaper-than-ads/)
-- [Never Update Anything](https://blog.kronis.dev/articles/never-update-anything)
+- [Rare footage of largest uncontacted tribe in the world: &#39;disaster in the making&#39;](https://www.youtube.com/watch?v=QSzbUaJkV_0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
