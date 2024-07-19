@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Opinion: I&#39;d rather have a headphone jack and a microSD slot than AI in my phone](https://news.ycombinator.com/item?id=41009359)
-- [Xkcd: CrowdStrike](https://xkcd.com/2961/)
-- [Anna&#39;s Archive Loses .GS Domain Name but Remains Resilient](https://torrentfreak.com/annas-archive-loses-gs-domain-name-but-remains-resilient-240718/)
-- [Texan construction workers put a rocket up Team SpaceX over &#39;unpaid bills&#39;](https://www.theregister.com/2024/05/14/spacex_liens_texas/)
+- [The CrowdStrike file that broke everything was full of null characters](https://twitter.com/jeremyphoward/status/1814364640127922499)
 - [Aviator &lpar;YC S21&rpar; Is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
+- [Playing Guitar Tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
+- [Signs of two gases in clouds of Venus could indicate life, scientists say](https://www.theguardian.com/science/article/2024/jul/17/signs-of-two-gases-phosphine-ammonia-in-clouds-of-venus-life)
+- [Deletion of Il11 extended the lives of mice by 25%](https://www.nature.com/articles/s41586-024-07701-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
