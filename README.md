@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Opinion: I&#39;d rather have a headphone jack and a microSD slot than AI in my phone](https://news.ycombinator.com/item?id=41009359)
+- [Xkcd: CrowdStrike](https://xkcd.com/2961/)
+- [Anna&#39;s Archive Loses .GS Domain Name but Remains Resilient](https://torrentfreak.com/annas-archive-loses-gs-domain-name-but-remains-resilient-240718/)
+- [Texan construction workers put a rocket up Team SpaceX over &#39;unpaid bills&#39;](https://www.theregister.com/2024/05/14/spacex_liens_texas/)
 - [Aviator &lpar;YC S21&rpar; Is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
-- [Signs of two gases in clouds of Venus could indicate life, scientists say](https://www.theguardian.com/science/article/2024/jul/17/signs-of-two-gases-phosphine-ammonia-in-clouds-of-venus-life)
-- [CrowdStrike fixes start at &quot;reboot up to 15 times&quot;, gets more complex from there](https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/)
-- [It&#39;s not just CrowdStrike – the cyber sector is vulnerable](https://www.ft.com/content/d2f529fe-3050-4ef5-a8c7-6487d533e57a)
-- [Deletion of Il11 extended the lives of mice by 25%](https://www.nature.com/articles/s41586-024-07701-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
