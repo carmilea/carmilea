@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WTF Is Wrong with Webflow?](https://twitter.com/nicocerdeira/status/1812917905501364424)
-- [Mass IT outage hits airports, businesses and broadcasters around the world](https://www.nbcnews.com/news/us-news/mass-cyber-outage-airports-businesses-broadcasters-crowdstrike-rcna162664)
-- [Trump shooter used Android phone from Samsung; cracked by Cellebrite in 40 min](https://9to5mac.com/2024/07/18/trump-shooter-android-phone-cellebrite/)
+- [NASA&#39;s Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock)
+- [3D visualization brings nuclear fusion to life](https://actu.epfl.ch/news/3d-visualization-brings-nuclear-fusion-to-life/)
 - [FCC votes unanimously to dramatically limit prison telecom charges](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
-- [Major Microsoft 365 outage caused by Azure configuration change](https://www.bleepingcomputer.com/news/microsoft/major-microsoft-365-outage-caused-by-azure-configuration-change/)
+- [CrowdStrike CEO: &quot;defect in a single content update for Windows&quot;](https://twitter.com/George_Kurtz/status/1814235001745027317)
+- [End Poem by Julian Gough](https://www.theendpoem.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
