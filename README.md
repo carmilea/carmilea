@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scoop: Meta won&#39;t offer future multimodal AI models in EU](https://www.axios.com/2024/07/17/meta-future-multimodal-ai-models-eu)
-- [Crowdstrike Outage Causing Widespread Issues](https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t)
+- [End Poem by Julian Gough](https://www.theendpoem.com/)
 - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
+- [Windows Bluescreen and Boot Loops &lpar;update: caused by a Crowdstrike update&rpar;](https://www.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
 - [Multiple airlines disrupted due to Microsoft Azure outage](https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html)
 - [Professional Poker Players Know the Optimal Strategy but Don&#39;t Always Use It](https://www.scientificamerican.com/article/the-nash-equilibrium-is-the-optimal-poker-strategy-expert-players-dont-always-use-it/)
 <!-- BLOG-POST-LIST:END -->
