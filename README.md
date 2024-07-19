@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [62 Minutes could bring your business down](https://www.crowdstrike.com/en-us/#teaser-79minutes-adversary-1)
+- [WTF Is Wrong with Webflow?](https://twitter.com/nicocerdeira/status/1812917905501364424)
+- [Mass IT outage hits airports, businesses and broadcasters around the world](https://www.nbcnews.com/news/us-news/mass-cyber-outage-airports-businesses-broadcasters-crowdstrike-rcna162664)
+- [Trump shooter used Android phone from Samsung; cracked by Cellebrite in 40 min](https://9to5mac.com/2024/07/18/trump-shooter-android-phone-cellebrite/)
 - [FCC votes unanimously to dramatically limit prison telecom charges](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
-- [Ask HN: What is in C-00000291*.sys?](https://news.ycombinator.com/item?id=41004103)
-- [Ryanair – when every page is a dark pattern](https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/)
-- [End Poem by Julian Gough](https://www.theendpoem.com/)
+- [Major Microsoft 365 outage caused by Azure configuration change](https://www.bleepingcomputer.com/news/microsoft/major-microsoft-365-outage-caused-by-azure-configuration-change/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
