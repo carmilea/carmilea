@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The CrowdStrike file that broke everything was full of null characters](https://twitter.com/jeremyphoward/status/1814364640127922499)
-- [Aviator &lpar;YC S21&rpar; Is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
-- [Playing Guitar Tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
-- [Signs of two gases in clouds of Venus could indicate life, scientists say](https://www.theguardian.com/science/article/2024/jul/17/signs-of-two-gases-phosphine-ammonia-in-clouds-of-venus-life)
-- [Deletion of Il11 extended the lives of mice by 25%](https://www.nature.com/articles/s41586-024-07701-9)
+- [Ask HN: How to finish last 30% of a side project?](https://news.ycombinator.com/item?id=41010229)
+- [AI paid for by Ads – the GPT-4o mini inflection point](https://batchmon.com/blog/ai-cheaper-than-ads/)
+- [Pornhub Pulls Out of Nebraska](https://gizmodo.com/pornhub-pulls-out-of-nebraska-2000476879)
+- [Never Update Anything](https://blog.kronis.dev/articles/never-update-anything)
+- [What Happened to Bert and T5?](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising)
 <!-- BLOG-POST-LIST:END -->
 
 ---
