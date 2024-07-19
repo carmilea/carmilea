@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Batteries: It&#39;s Not All Hype – Sabine Hossenfelder [video]](https://www.youtube.com/watch?v=2eIPHX-NpMM)
 - [Professional Poker Players Know the Optimal Strategy but Don&#39;t Always Use It](https://www.scientificamerican.com/article/the-nash-equilibrium-is-the-optimal-poker-strategy-expert-players-dont-always-use-it/)
+- [Don&#39;t ask me to embarrass myself](https://basta.substack.com/p/dont-ask-me-to-embarrass-myself)
 - [Rollstack &lpar;YC W23&rpar; Is Hiring Exceptional TypeScript Engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
 - [Double trouble: ESA&#39;s Gaia hit by micrometeoroid and solar storm](https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm)
 - [60-year-old German man likely seventh person to be effectively cured from HIV](https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce)
