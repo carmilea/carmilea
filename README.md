@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Police warn of thieves using WiFi-jamming tech to disarm cameras, alarms](https://ktla.com/news/local-news/police-warn-of-thieves-using-wifi-jamming-tech-to-disarm-cameras-alarms/)
-- [Python grapples with Apple App Store rejections](https://lwn.net/Articles/979671/)
-- [NASA cancels $450M mission to drill for ice on the Moon](https://www.nature.com/articles/d41586-024-02361-1)
-- [Mutable.ai &lpar;YC W22&rpar; is hiring to build an AI codebase expert](https://news.ycombinator.com/item?id=40999700)
+- [Rollstack &lpar;YC W23&rpar; Is Hiring Exceptional TypeScript Engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
+- [Youth with conduct disorder show widespread differences in brain structure](https://www.nih.gov/news-events/news-releases/youth-conduct-disorder-show-widespread-differences-brain-structure)
+- [Elephants Are Doing Something Deeply Human](https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/)
 - [60-year-old German man likely seventh person to be effectively cured from HIV](https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce)
+- [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
