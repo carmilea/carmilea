@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TradingView&#39;s Emotional Subscription Cancellation](https://hallofshame.design/tradingview-emotional-subscription-cancellation/)
+- [62 Minutes could bring your business down](https://www.crowdstrike.com/en-us/#teaser-79minutes-adversary-1)
+- [FCC votes unanimously to dramatically limit prison telecom charges](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
 - [Ask HN: What is in C-00000291*.sys?](https://news.ycombinator.com/item?id=41004103)
 - [Ryanair – when every page is a dark pattern](https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/)
 - [End Poem by Julian Gough](https://www.theendpoem.com/)
-- [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
