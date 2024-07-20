@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Hadrius &lpar;YC W23&rpar; is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 - [Public toilets are vanishing and that&#39;s a civic catastrophe](https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe)
+- [Cofounder matching for indie hackers and bootstrappers](https://indie.cofounderdat.ing)
 - [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst)
 - [Converting Codebases with LLMs](https://blog.withmantle.com/code-conversion-using-ai/)
-- [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
