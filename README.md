@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft says 8.5M Windows devices were affected by CrowdStrike outage](https://techcrunch.com/2024/07/20/microsoft-says-8-5m-windows-devices-were-affected-by-crowdstrike-outage/)
+- [&#39;Google says I&#39;m a dead physicist&#39;: is the biggest search engine broken?](https://www.theguardian.com/technology/article/2024/jul/20/google-is-the-worlds-biggest-search-engine-broken)
 - [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)
+- [Managing Classic Mac OS Resources in ResEdit](https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/)
 - [Google Distributed Cloud air-gapped appliance](https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga)
-- [Minuteman missile communications](https://computer.rip/2024-07-20-minuteman-missile-communications.html)
-- [The first currency in history: Kingdom of Lydia minted gold, silver coins](https://www.egypttoday.com/Article/4/113533/The-first-currency-in-history-Kingdom-of-Lydia-minted-gold)
-- [Tenstorrent Unveils High-End Wormhole AI Processors, Featuring RISC-V](https://wccftech.com/tenstorrent-wormhole-ai-processors-risc-v-phenomenal-price-to-performance-value/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
