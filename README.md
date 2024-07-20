@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CrowdStrike debacle provides road map of American vulnerabilities to adversaries](https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html)
-- [Is OpenSUSE at Crossroads?](https://ludditus.com/2024/07/18/is-opensuse-at-crossroads/)
-- [Journeying into XDP: Fully-fledged DNS service augmentation](https://blog.apnic.net/2022/02/15/journeying-into-xdp-fully-fledged-dns-service-augmentation/)
-- [How to pwn a billion dollar VC firm using inspect element](https://www.kibty.town/blog/a16z/)
-- [A Physical instance of recursion, from 1936](https://en.wikipedia.org/wiki/Bourton-on-the-Water_model_village)
+- [George Kurtz Crowstrike Founder and CEO](https://www.crowdstrike.com/about-crowdstrike/executive-team/george-kurtz/)
+- [A brief interview with Tcl creator John Ousterhout](https://pldb.io/blog/JohnOusterhout.html)
+- [Human parasites in the Roman World: health consequences of conquering an empire](https://www.cambridge.org/core/journals/parasitology/article/human-parasites-in-the-roman-world-health-consequences-of-conquering-an-empire/6464BDBB5D4B8EC0B08C503B6ECD1B7B)
+- [Ask HN: Server-side HTML Templates based on DOM?](https://news.ycombinator.com/item?id=41017188)
+- [Teaching Programming with Basic](https://lackofimagination.org/2024/07/teaching-programming-with-basic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
