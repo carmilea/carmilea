@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s shortened links will stop working next year](https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support)
-- [The Cheap 10GbE Switch Buyers Guide](https://www.servethehome.com/the-ultimate-cheap-10gbe-switch-buyers-guide-netgear-ubiquiti-qnap-mikrotik-qct/)
 - [Doom on Playdate](https://devforum.play.date/t/doom-on-playdate/852)
 - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
+- [Multisatellite data depicts a record-breaking methane leak from a well blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
+- [Leveraging Flink With SingleStore to Power Retail Analytics Use Cases](https://www.singlestore.com/blog/leveraging-flink-with-singlestore-to-power-retail-analytics-use-cases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
