@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to pwn a billion dollar VC firm using inspect element](https://www.kibty.town/blog/a16z/)
+- [A Physical instance of recursion, from 1936](https://en.wikipedia.org/wiki/Bourton-on-the-Water_model_village)
+- [How to choose a textbook that is pedagogically optimal for oneself?](https://matheducators.stackexchange.com/questions/27964/how-to-choose-a-textbook-that-is-pedagogically-optimal-for-oneself)
+- [Ask HN: Can anyone from Crowdstrike explain the back story?](https://news.ycombinator.com/item?id=41016373)
 - [No Uptime Hosting – Guaranteed Server Downtime](https://nouptime.com/)
-- [1989 Networking: NetWare 386](http://www.os2museum.com/wp/1989-networking-netware-386/)
-- [Robot Dog Cleans Up Beaches with Foot-Mounted Vacuums](https://spectrum.ieee.org/robot-dog-vacuum)
-- [Hadrius &lpar;YC W23&rpar; is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
-- [Cofounder matching for indie hackers and bootstrappers](https://indie.cofounderdat.ing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
