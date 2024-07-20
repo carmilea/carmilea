@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [George Kurtz Crowstrike Founder and CEO](https://www.crowdstrike.com/about-crowdstrike/executive-team/george-kurtz/)
-- [A brief interview with Tcl creator John Ousterhout](https://pldb.io/blog/JohnOusterhout.html)
+- [How to use the new counted_by attribute in C &lpar;and Linux&rpar;](https://people.kernel.org/gustavoars/how-to-use-the-new-counted_by-attribute-in-c-and-linux)
+- [CrowdStrike broke Debian and Rocky Linux months ago, but no one noticed](https://www.neowin.net/news/crowdstrike-broke-debian-and-rocky-linux-months-ago-but-no-one-noticed/)
+- [A brief interview with Tcl creator John Ousterhout &lpar;2023&rpar;](https://pldb.io/blog/JohnOusterhout.html)
 - [Human parasites in the Roman World: health consequences of conquering an empire](https://www.cambridge.org/core/journals/parasitology/article/human-parasites-in-the-roman-world-health-consequences-of-conquering-an-empire/6464BDBB5D4B8EC0B08C503B6ECD1B7B)
 - [Ask HN: Server-side HTML Templates based on DOM?](https://news.ycombinator.com/item?id=41017188)
-- [Teaching Programming with Basic](https://lackofimagination.org/2024/07/teaching-programming-with-basic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
