@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;The DOJ&#39;s Assault on Apple Will Harm Consumers&#39;](https://reason.com/2024/07/17/the-dojs-assault-on-apple-will-harm-consumers/)
-- [Argentina&#39;s economy is growing beyond expectations](https://www.semafor.com/article/07/19/2024/argentinas-economy-is-growing-beyond-expectations)
 - [Doom on Playdate](https://devforum.play.date/t/doom-on-playdate/852)
 - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
+- [Multisatellite data depicts a record-breaking methane leak from a well blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
+- [Leveraging Flink With SingleStore to Power Retail Analytics Use Cases](https://www.singlestore.com/blog/leveraging-flink-with-singlestore-to-power-retail-analytics-use-cases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
