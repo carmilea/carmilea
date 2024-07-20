@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Technical Details on Today&#39;s Outage](https://www.crowdstrike.com/blog/technical-details-on-todays-outage/)
 - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
 - [Multisatellite data depicts a record-breaking methane leak from a well blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
-- [Academics shocked after T&amp;F sells access to their research to Microsoft AI](https://www.thebookseller.com/news/academic-authors-shocked-after-taylor--francis-sells-access-to-their-research-to-microsoft-ai)
 - [Leveraging Flink With SingleStore to Power Retail Analytics Use Cases](https://www.singlestore.com/blog/leveraging-flink-with-singlestore-to-power-retail-analytics-use-cases)
 <!-- BLOG-POST-LIST:END -->
 
