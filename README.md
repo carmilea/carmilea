@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Soda cans burst on Southwest flights due to extreme heat](https://www.npr.org/2024/07/19/nx-s1-5046378/soda-cans-explode-southwest-airlines-flights-extreme-heat)
 - [Google&#39;s shortened links will stop working next year](https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support)
 - [The Cheap 10GbE Switch Buyers Guide](https://www.servethehome.com/the-ultimate-cheap-10gbe-switch-buyers-guide-netgear-ubiquiti-qnap-mikrotik-qct/)
 - [Doom on Playdate](https://devforum.play.date/t/doom-on-playdate/852)
 - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
+- [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
