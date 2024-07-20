@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Distributed Cloud Air-Gapped Appliance](https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga)
-- [Microsoft&#39;s global sprawl under fire from regulators after Windows outage](https://www.washingtonpost.com/technology/2024/07/20/microsoft-outage-crowdstrike-regulatory-scrutiny/)
+- [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)
+- [Google Distributed Cloud air-gapped appliance](https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga)
+- [Minuteman missile communications](https://computer.rip/2024-07-20-minuteman-missile-communications.html)
 - [The first currency in history: Kingdom of Lydia minted gold, silver coins](https://www.egypttoday.com/Article/4/113533/The-first-currency-in-history-Kingdom-of-Lydia-minted-gold)
-- [Sun is starting next solar cycle–despite being halfway through its current one](https://phys.org/news/2024-07-early-riser-sun-solar-halfway.html)
 - [Tenstorrent Unveils High-End Wormhole AI Processors, Featuring RISC-V](https://wccftech.com/tenstorrent-wormhole-ai-processors-risc-v-phenomenal-price-to-performance-value/)
 <!-- BLOG-POST-LIST:END -->
 
