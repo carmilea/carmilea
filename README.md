@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No-IT. Really. No. I. T. – R&amp;a IT Strategy and Architecture](https://ea.rna.nl/2024/07/12/no-it-really-no-i-t/)
+- [Hadrius &lpar;YC W23&rpar; is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
+- [Public toilets are vanishing and that&#39;s a civic catastrophe](https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe)
+- [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst)
 - [Converting Codebases with LLMs](https://blog.withmantle.com/code-conversion-using-ai/)
-- [Doom on Playdate](https://devforum.play.date/t/doom-on-playdate/852)
 - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
-- [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
