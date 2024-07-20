@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No-IT. Really. No. I. T. – R&amp;a IT Strategy and Architecture](https://ea.rna.nl/2024/07/12/no-it-really-no-i-t/)
+- [Converting Codebases with LLMs](https://blog.withmantle.com/code-conversion-using-ai/)
 - [Doom on Playdate](https://devforum.play.date/t/doom-on-playdate/852)
 - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
-- [Multisatellite data depicts a record-breaking methane leak from a well blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
-- [Leveraging Flink With SingleStore to Power Retail Analytics Use Cases](https://www.singlestore.com/blog/leveraging-flink-with-singlestore-to-power-retail-analytics-use-cases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
