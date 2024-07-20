@@ -56,7 +56,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Technical Details on Today&#39;s Outage](https://www.crowdstrike.com/blog/technical-details-on-todays-outage/)
+- [Argentina&#39;s economy is growing beyond expectations](https://www.semafor.com/article/07/19/2024/argentinas-economy-is-growing-beyond-expectations)
 - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
 - [Multisatellite data depicts a record-breaking methane leak from a well blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
