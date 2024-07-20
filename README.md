@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CrowdStrike debacle provides road map of American vulnerabilities to adversaries](https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html)
+- [Is OpenSUSE at Crossroads?](https://ludditus.com/2024/07/18/is-opensuse-at-crossroads/)
+- [Journeying into XDP: Fully-fledged DNS service augmentation](https://blog.apnic.net/2022/02/15/journeying-into-xdp-fully-fledged-dns-service-augmentation/)
 - [How to pwn a billion dollar VC firm using inspect element](https://www.kibty.town/blog/a16z/)
 - [A Physical instance of recursion, from 1936](https://en.wikipedia.org/wiki/Bourton-on-the-Water_model_village)
-- [How to choose a textbook that is pedagogically optimal for oneself?](https://matheducators.stackexchange.com/questions/27964/how-to-choose-a-textbook-that-is-pedagogically-optimal-for-oneself)
-- [Ask HN: Can anyone from Crowdstrike explain the back story?](https://news.ycombinator.com/item?id=41016373)
-- [No Uptime Hosting – Guaranteed Server Downtime](https://nouptime.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
