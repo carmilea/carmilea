@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Global IT outage shows dangers of cashless society, campaigners say](https://www.theguardian.com/technology/article/2024/jul/20/cash-global-it-outage-cashless-society-dangers-payment-choice-alliance)
 - [How to use the new counted_by attribute in C &lpar;and Linux&rpar;](https://people.kernel.org/gustavoars/how-to-use-the-new-counted_by-attribute-in-c-and-linux)
+- [The Luckfox Pico Mini B – Linux in a Thumbnail](https://taoofmac.com/space/blog/2024/07/20/1800)
+- [A Linux kernel syscall implementation tracker](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
 - [CrowdStrike broke Debian and Rocky Linux months ago, but no one noticed](https://www.neowin.net/news/crowdstrike-broke-debian-and-rocky-linux-months-ago-but-no-one-noticed/)
-- [A brief interview with Tcl creator John Ousterhout &lpar;2023&rpar;](https://pldb.io/blog/JohnOusterhout.html)
-- [Human parasites in the Roman World: health consequences of conquering an empire](https://www.cambridge.org/core/journals/parasitology/article/human-parasites-in-the-roman-world-health-consequences-of-conquering-an-empire/6464BDBB5D4B8EC0B08C503B6ECD1B7B)
-- [Ask HN: Server-side HTML Templates based on DOM?](https://news.ycombinator.com/item?id=41017188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
