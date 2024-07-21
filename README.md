@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [User returns after 100k-hours ban to continue conversation that got them banned](https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/)
+- [New Recovery Tool to help with CrowdStrike issue impacting Windows endpoints](https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959)
+- [Let&#39;s blame the dev who pressed &quot;Deploy&quot;](https://yieldcode.blog/post/lets-blame-the-dev-who-pressed-deploy/)
+- [Show HN: I made helpers for Web Components](https://github.com/mfcc64/wc-helpers)
 - [rr – record and replay debugger for C/C++](https://rr-project.org/)
-- [Zettlr: One-Stop Publication Workbench](https://www.zettlr.com)
-- [Show HN: Ristretto, an OSS sandboxed code playground/notebook written in itself](https://ristretto.codeberg.page/)
-- [What is the significance of the character &quot;j&quot; at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
-- [Deluge of Fake Mac App Store Reviews](https://lapcatsoftware.com/articles/2024/7/1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
