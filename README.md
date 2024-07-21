@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [James C. Scott, author of Seeing Like a State, has died](https://nitter.poast.org/GerardoMunck/status/1815059432382067053)
+- [Why I left Google](https://fogknife.com/2024-07-21-why-i-left-google.html)
+- [French Acrobatic Artist’s Low-Gravity Invention](https://www.core77.com/posts/133036/Acrobatic-Artist-Bastien-Dausses-Incredible-Low-Gravity-Invention)
 - [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- [Custom Linux powered smart-TV breaks free from ads and tracking](https://www.tomshardware.com/software/linux/custom-linux-powered-smart-tv-breaks-free-from-ads-and-tracking-enables-ultimate-customizability-earlgreytv-straps-a-laptop-to-the-back-to-unlock-unlimited-control)
-- [When ChatGPT summarises, it does nothing of the kind](https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/)
-- [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815087772216303933)
-- [Friendship and Social Fitness](https://www.robkhenderson.com/p/friendship-and-social-fitness)
+- [Node.js Is Here to Stay](https://blog.platformatic.dev/nodejs-is-here-to-stay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
