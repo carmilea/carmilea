@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist)
 - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
 - [Trench collapses have killed hundreds of workers in the US over the last decade](https://text.npr.org/g-s1-9028)
 - [New Recovery Tool to help with CrowdStrike issue impacting Windows endpoints](https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959)
-- [Satellite Drag Analysis During the May 2024 Geomagnetic Storm](https://arxiv.org/abs/2406.08617)
 <!-- BLOG-POST-LIST:END -->
 
 ---
