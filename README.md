@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Trellis &lpar;YC W24&rpar; is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
-- [Tell HN: Educative.io auto-renews without warning, refuses to provide refunds](https://news.ycombinator.com/item?id=41026096)
-- [Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist)
-- [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
-- [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
+- [Artificial consciousness: a perspective from the free energy principle](https://link.springer.com/article/10.1007/s11098-024-02182-y)
+- [A brief history of Dell Unix](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
+- [Remove PDF password protection using qpdf and AppleScript](https://www.sheshbabu.com/posts/remove-pdf-passwords-using-qpdf-and-applescript/)
+- [Show HN: Moocable – find people studying the same online course/book](https://moocable.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
