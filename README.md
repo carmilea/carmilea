@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [rr – record and replay debugger for C/C++](https://rr-project.org/)
 - [Zettlr: One-Stop Publication Workbench](https://www.zettlr.com)
-- [Syscall.sh](https://syscall.sh/)
-- [&quot;Any sufficiently bad software update is indistinguishable from a cyberattack&quot;](https://twitter.com/leighhoneywell/status/1814278230704111792)
 - [Show HN: Ristretto, an OSS sandboxed code playground/notebook written in itself](https://ristretto.codeberg.page/)
+- [What is the significance of the character &quot;j&quot; at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
+- [Deluge of Fake Mac App Store Reviews](https://lapcatsoftware.com/articles/2024/7/1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
