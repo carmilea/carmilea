@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zettlr: One-Stop Publication Workbench](https://www.zettlr.com)
 - [&quot;Any sufficiently bad software update is indistinguishable from a cyberattack&quot;](https://twitter.com/leighhoneywell/status/1814278230704111792)
+- [Show HN: Ristretto, an OSS sandboxed code playground/notebook written in itself](https://ristretto.codeberg.page/)
 - [What is the significance of the character &quot;j&quot; at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
 - [X.com refuses to open with Firefox strict tracking protection enabled](https://x.com/)
-- [Why You Should Not Use Tcl &lpar;1994&rpar;](https://groups.google.com/g/comp.lang.tcl/c/7JXGt-Uxqag/m/3JBTj5I43yAJ)
-- [&quot;Maxwell&#39;s equations of software&quot; examined &lpar;2008&rpar;](https://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
