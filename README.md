@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [User returns after 100k-hours ban to continue conversation that got them banned](https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/)
+- [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
+- [Trench collapses have killed hundreds of workers in the US over the last decade](https://text.npr.org/g-s1-9028)
 - [New Recovery Tool to help with CrowdStrike issue impacting Windows endpoints](https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959)
-- [Let&#39;s blame the dev who pressed &quot;Deploy&quot;](https://yieldcode.blog/post/lets-blame-the-dev-who-pressed-deploy/)
-- [Show HN: I made helpers for Web Components](https://github.com/mfcc64/wc-helpers)
-- [rr – record and replay debugger for C/C++](https://rr-project.org/)
+- [Major Developments in Postgres Extension Discovery and Distribution](https://ardentperf.com/2024/03/21/major-developments-in-postgres-extension-discovery-and-distribution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
