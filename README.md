@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD says its new laptop chips can beat Apple](https://www.theverge.com/2024/7/19/24198605/amd-ryzen-ai-strix-point-vs-apple-intel-qualcomm-event)
 - [&quot;Maxwell&#39;s equations of software&quot; examined](https://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
 - [Deluge of Fake Mac App Store Reviews](https://lapcatsoftware.com/articles/2024/7/1.html)
 - [Show HN: JSON-Threat-Protection Rust High-Performance Crate](https://github.com/ADD-SP/json-threat-protection.rs)
 - [Initial details about why CrowdStrike&#39;s CSAgent.sys crashed](https://twitter.com/patrickwardle/status/1814343502886477857)
-- [Empathy for the user having sex with your software](https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
