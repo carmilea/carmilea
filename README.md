@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Friendship and Social Fitness](https://www.robkhenderson.com/p/friendship-and-social-fitness)
 - [Trellis &lpar;YC W24&rpar; is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+- [Intel says 13th and 14th Gen mobile CPUs are crashing](https://www.tomshardware.com/pc-components/cpus/intel-says-13th-and-14th-gen-mobile-cpus-are-crashing-but-not-due-to-the-same-bug-as-desktop-chips-chipmaker-blames-common-software-and-hardware-issues)
 - [Artificial consciousness: a perspective from the free energy principle](https://link.springer.com/article/10.1007/s11098-024-02182-y)
-- [A brief history of Dell Unix](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
-- [Remove PDF password protection using qpdf and AppleScript](https://www.sheshbabu.com/posts/remove-pdf-passwords-using-qpdf-and-applescript/)
-- [Show HN: Moocable – find people studying the same online course/book](https://moocable.com/)
+- [A brief history of Dell Unix &lpar;2008&rpar;](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
