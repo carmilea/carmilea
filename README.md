@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Any sufficiently bad software update is indistinguishable from a cyberattack&quot;](https://twitter.com/leighhoneywell/status/1814278230704111792)
+- [What is the significance of the character &quot;j&quot; at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
 - [X.com refuses to open with Firefox strict tracking protection enabled](https://x.com/)
 - [Why You Should Not Use Tcl &lpar;1994&rpar;](https://groups.google.com/g/comp.lang.tcl/c/7JXGt-Uxqag/m/3JBTj5I43yAJ)
 - [&quot;Maxwell&#39;s equations of software&quot; examined &lpar;2008&rpar;](https://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
-- [Deluge of Fake Mac App Store Reviews](https://lapcatsoftware.com/articles/2024/7/1.html)
-- [Show HN: JSON-Threat-Protection Rust High-Performance Crate](https://github.com/ADD-SP/json-threat-protection.rs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
