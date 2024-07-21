@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trellis &lpar;YC W24&rpar; is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+- [Tell HN: Educative.io auto-renews without warning, refuses to provide refunds](https://news.ycombinator.com/item?id=41026096)
 - [Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist)
 - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
-- [Trench collapses have killed hundreds of workers in the US over the last decade](https://text.npr.org/g-s1-9028)
-- [New Recovery Tool to help with CrowdStrike issue impacting Windows endpoints](https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959)
 <!-- BLOG-POST-LIST:END -->
 
 ---
