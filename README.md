@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Maxwell&#39;s equations of software&quot; examined](https://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
+- [X.com refuses to open with Firefox strict tracking protection enabled](https://x.com/)
+- [Why You Should Not Use Tcl &lpar;1994&rpar;](https://groups.google.com/g/comp.lang.tcl/c/7JXGt-Uxqag/m/3JBTj5I43yAJ)
+- [&quot;Maxwell&#39;s equations of software&quot; examined &lpar;2008&rpar;](https://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
 - [Deluge of Fake Mac App Store Reviews](https://lapcatsoftware.com/articles/2024/7/1.html)
 - [Show HN: JSON-Threat-Protection Rust High-Performance Crate](https://github.com/ADD-SP/json-threat-protection.rs)
-- [Initial details about why CrowdStrike&#39;s CSAgent.sys crashed](https://twitter.com/patrickwardle/status/1814343502886477857)
-- [Empathy for the user having sex with your software](https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
