@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google says it won&#39;t be &#39;deprecating third-party cookies&#39; in Chrome](https://digiday.com/marketing/after-years-of-uncertainty-google-says-it-wont-be-deprecating-third-party-cookies-in-chrome/)
+- [Microsoft says EU to blame for the worst IT outage](https://www.euronews.com/next/2024/07/22/microsoft-says-eu-to-blame-for-the-worlds-worst-it-outage)
+- [A new path for Privacy Sandbox on the web](https://privacysandbox.com/news/privacy-sandbox-update/)
+- [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
 - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
-- [Why Delta is still canceling flights as other airlines return to normal](https://www.cnn.com/2024/07/22/business/delta-canceled-flights-computer-problems/index.html)
-- [Microsoft: Linux Is the Top Operating System on Azure Today](https://thenewstack.io/microsoft-linux-is-the-top-operating-system-on-azure-today/)
-- [Show HN: OpenDataCapture an electronic data capture platform for data collection](https://github.com/DouglasNeuroInformatics/OpenDataCapture)
-- [Boeing-owned Wisk expects to begin carrying passengers &#39;later in the decade&#39;](https://www.reuters.com/business/aerospace-defense/boeing-owned-wisk-expects-begin-carrying-passengers-later-decade-2024-07-22/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
