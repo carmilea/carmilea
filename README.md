@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Autism can be reversed, scientists discover](https://www.telegraph.co.uk/news/2024/07/20/severe-autism-can-be-reversed-groundbreaking-study-suggests/)
 - [Jellyfin: We&#39;re Good, Seriously](https://forum.jellyfin.org/t-we-re-good-seriously)
 - [Show HN: A Source Available billing system I&#39;ve spent 18 months building](https://billabear.com/)
 - [Ryanair wins screen scraping case against Booking.com in US court ruling](https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/)
 - [Why are people paying so much for Vercel?](https://news.ycombinator.com/item?id=41031912)
-- [Orch: a Rust framework for LLM orchestration](https://github.com/guywaldman/orch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
