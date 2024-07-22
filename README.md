@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The CrowdStrike Failure Was a Warning](https://www.theatlantic.com/ideas/archive/2024/07/crowdstrike-failure-warning-solutions/679174/)
 - [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://github.com/BurntSushi/jiff)
 - [rrweb – record and replay debugger for the web](https://www.rrweb.io/)
 - [Show HN: Chrome didn&#39;t have a native vector db so I built one:3](https://github.com/wizenheimer/tinkerbird)
 - [Mysterious Objects Detected Floating Through Deep Space](https://futurism.com/the-byte/massive-objects-pulsars-dark-matter)
-- [How to Become a Registrar](https://www.icann.org/resources/pages/accreditation-2012-02-25-en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
