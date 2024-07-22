@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google says it won&#39;t be &#39;deprecating third-party cookies&#39; in Chrome](https://digiday.com/marketing/after-years-of-uncertainty-google-says-it-wont-be-deprecating-third-party-cookies-in-chrome/)
-- [Microsoft says EU to blame for the worst IT outage](https://www.euronews.com/next/2024/07/22/microsoft-says-eu-to-blame-for-the-worlds-worst-it-outage)
+- [Glasgow 2024 Hugo Awards Statement – 22 July, 2024](https://glasgow2024.org/hugo-awards/statement-22-july-2024/)
+- [Google Is Keeping Cookies in Chrome After All](https://www.wsj.com/articles/google-is-keeping-cookies-in-chrome-after-all-89debea8)
+- [Planck stars, White Holes, Remnants and Planck-mass quasi-particles](https://arxiv.org/abs/2407.09584)
+- [On having more interesting ideas](https://www.henrikkarlsson.xyz/p/interesting-ideas)
 - [A new path for Privacy Sandbox on the web](https://privacysandbox.com/news/privacy-sandbox-update/)
-- [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
-- [Copying is the way design works](https://matthewstrom.com/writing/copying/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
