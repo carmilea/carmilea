@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Internet Organised Crime Threat Assessment &lpar;Iocta&rpar; 2024 [pdf]](https://www.europol.europa.eu/cms/sites/default/files/documents/IOCTA%202024%20-%20EN_0.pdf)
-- [Scan HTML even faster with SIMD instructions &lpar;C++ and C#&rpar; – Daniel Lemire&#39;s blog](https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/)
-- [Sam Altman Gave People Free Money. Here&#39;s What Happened](https://www.forbes.com/sites/sarahemerson/2024/07/22/openai-founder-sam-altman-gave-thousands-of-people-free-money-heres-what-happened/)
+- [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve)
+- [370-mile hydrogen-electric seaplane set to clean up island hopping](https://newatlas.com/aircraft/jekta-zeroavia-hydrogen-electric-seaplane/)
+- [I Use Obsidian](https://jasonheppler.org/2024/07/15/how-i-use-obsidian/)
 - [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
 - [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
 <!-- BLOG-POST-LIST:END -->
