@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Timeshift: System Restore Tool for Linux](https://github.com/linuxmint/timeshift)
+- [July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792)
 - [Glasgow 2024 Hugo Awards Statement – 22 July, 2024](https://glasgow2024.org/hugo-awards/statement-22-july-2024/)
 - [Google Is Keeping Cookies in Chrome After All](https://www.wsj.com/articles/google-is-keeping-cookies-in-chrome-after-all-89debea8)
-- [Planck stars, White Holes, Remnants and Planck-mass quasi-particles](https://arxiv.org/abs/2407.09584)
-- [On having more interesting ideas](https://www.henrikkarlsson.xyz/p/interesting-ideas)
-- [A new path for Privacy Sandbox on the web](https://privacysandbox.com/news/privacy-sandbox-update/)
+- [SofleKeyboard – A split keyboard based on Lily58, Crkbd and Helix keyboards](https://josefadamcik.github.io/SofleKeyboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
