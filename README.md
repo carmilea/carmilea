@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve)
-- [370-mile hydrogen-electric seaplane set to clean up island hopping](https://newatlas.com/aircraft/jekta-zeroavia-hydrogen-electric-seaplane/)
-- [I Use Obsidian](https://jasonheppler.org/2024/07/15/how-i-use-obsidian/)
+- [How to Get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
+- [The serious science of trolling LLMs](https://lcamtuf.substack.com/p/the-serious-science-of-trolling-llms)
+- [How fast can a human possibly run 100 meters?](https://bigthink.com/starts-with-a-bang/fast-human-run-100-meters/)
 - [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
 - [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
 <!-- BLOG-POST-LIST:END -->
