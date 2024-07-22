@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
 - [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
+- [No One Expects Young Men to Do Anything and They Respond by Doing Nothing &lpar;2022&rpar;](https://www.robkhenderson.com/p/no-one-expects-young-men-to-do-anything)
 - [Jellyfin: We&#39;re Good, Seriously](https://forum.jellyfin.org/t-we-re-good-seriously)
 - [Show HN: A Source Available billing system I&#39;ve spent 18 months building](https://billabear.com/)
-- [Ryanair wins screen scraping case against Booking.com in US court ruling](https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/)
-- [Bash-Oneliners: A collection of terminal tricks for Linux](https://github.com/onceupon/Bash-Oneliner)
 <!-- BLOG-POST-LIST:END -->
 
 ---
