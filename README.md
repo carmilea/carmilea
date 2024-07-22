@@ -43,7 +43,7 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [SingleStore 8.7 Launch Featured Customer ~ impact.com: Mauricio Aristizabal, Chief Architect](https://www.youtube.com/watch?v=5gQwCX4qnhg)
+- [Mauricio Aristizabal, Chief Architect: impact.com powers top performance with SingleStore](https://www.youtube.com/watch?v=5gQwCX4qnhg)
 - [How to do Full-Text Search with SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=9AZ3J0dVaY0)
 - [Made on SingleStore: Building a Real-Time Analytics Pipeline for Race Cars](https://www.youtube.com/watch?v=BQTVZcRncwQ)
 - [Six Days to SingleStore: ConveYour’s Rockset Migration Journey | SingleStore Webinars](https://www.youtube.com/watch?v=pPGGOAExAY8)
