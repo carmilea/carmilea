@@ -58,8 +58,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Apollo DN10000: Quad CPU/128Mb RAM workstation from 1988 [pdf]](https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf)
 - [How the CIA &#39;kidnapped&#39; a Soviet moon probe during the space race](https://www.space.com/how-the-cia-kidnapped-a-soviet-moon-probe-during-the-space-race)
-- [Microsoft points finger at the EU for not being able to lock down Windows](https://www.neowin.net/news/microsoft-points-finger-at-the-eu-for-not-being-able-to-lock-down-windows/)
 - [Show HN: Shade/Bs – Modern Web UIs Without Node.js](https://ui.masoftware.net/)
+- [Pin](https://without.boats/blog/pin/)
 - [James C. Scott, author of Seeing Like a State, has died](https://nitter.poast.org/GerardoMunck/status/1815059432382067053)
 <!-- BLOG-POST-LIST:END -->
 
