@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Internet Organised Crime Threat Assessment &lpar;Iocta&rpar; 2024 [pdf]](https://www.europol.europa.eu/cms/sites/default/files/documents/IOCTA%202024%20-%20EN_0.pdf)
+- [Scan HTML even faster with SIMD instructions &lpar;C++ and C#&rpar; – Daniel Lemire&#39;s blog](https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/)
+- [Sam Altman Gave People Free Money. Here&#39;s What Happened](https://www.forbes.com/sites/sarahemerson/2024/07/22/openai-founder-sam-altman-gave-thousands-of-people-free-money-heres-what-happened/)
 - [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
 - [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
-- [No One Expects Young Men to Do Anything and They Respond by Doing Nothing &lpar;2022&rpar;](https://www.robkhenderson.com/p/no-one-expects-young-men-to-do-anything)
-- [Jellyfin: We&#39;re Good, Seriously](https://forum.jellyfin.org/t-we-re-good-seriously)
-- [Show HN: A Source Available billing system I&#39;ve spent 18 months building](https://billabear.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
