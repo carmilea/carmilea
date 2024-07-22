@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Copying is the way design works](https://matthewstrom.com/writing/copying/)
+- [Why Delta is still canceling flights as other airlines return to normal](https://www.cnn.com/2024/07/22/business/delta-canceled-flights-computer-problems/index.html)
 - [Microsoft: Linux Is the Top Operating System on Azure Today](https://thenewstack.io/microsoft-linux-is-the-top-operating-system-on-azure-today/)
-- [Sam Altman&#39;s basic-income study is out. Here&#39;s what it found](https://www.businessinsider.com/sam-altman-basic-income-study-results-2024-7)
 - [Show HN: OpenDataCapture an electronic data capture platform for data collection](https://github.com/DouglasNeuroInformatics/OpenDataCapture)
 - [Boeing-owned Wisk expects to begin carrying passengers &#39;later in the decade&#39;](https://www.reuters.com/business/aerospace-defense/boeing-owned-wisk-expects-begin-carrying-passengers-later-decade-2024-07-22/)
-- [The workers have spoken: They&#39;re staying home](https://www.computerworld.com/article/2520794/the-workers-have-spoken-theyre-staying-home.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
