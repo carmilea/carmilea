@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Findings – OpenResearch](https://www.openresearchlab.org/findings)
-- [Roame &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/roame/jobs/tu786nh-founding-growth-operations)
-- [Oxygen discovery defies knowledge of the deep ocean](https://www.bbc.co.uk/news/articles/c728ven2v9eo)
-- [An interview with AMD&#39;s Mike Clark, &#39;Zen Daddy&#39; says 3nm Zen 5 is coming fast](https://www.tomshardware.com/pc-components/cpus/an-interview-with-mike-clark-the-father-of-zen-zen-daddy-talks-fast-3nm-launch-zen-5c-cores-for-desktop-chips)
-- [Scientists Discover a New Hormone That Can Build Strong Bones](https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones)
+- [Microsoft: Linux Is the Top Operating System on Azure Today](https://thenewstack.io/microsoft-linux-is-the-top-operating-system-on-azure-today/)
+- [Sam Altman&#39;s basic-income study is out. Here&#39;s what it found](https://www.businessinsider.com/sam-altman-basic-income-study-results-2024-7)
+- [Show HN: OpenDataCapture an electronic data capture platform for data collection](https://github.com/DouglasNeuroInformatics/OpenDataCapture)
+- [Boeing-owned Wisk expects to begin carrying passengers &#39;later in the decade&#39;](https://www.reuters.com/business/aerospace-defense/boeing-owned-wisk-expects-begin-carrying-passengers-later-decade-2024-07-22/)
+- [The workers have spoken: They&#39;re staying home](https://www.computerworld.com/article/2520794/the-workers-have-spoken-theyre-staying-home.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
