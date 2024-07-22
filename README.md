@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PostmarketOS updates: new homepage, pmbootstrap v3, sensors, libcamera](https://postmarketos.org/blog/2024/07/21/pmOS-update-2024-07/)
 - [The CrowdStrike Failure Was a Warning](https://www.theatlantic.com/ideas/archive/2024/07/crowdstrike-failure-warning-solutions/679174/)
 - [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://github.com/BurntSushi/jiff)
 - [rrweb – record and replay debugger for the web](https://www.rrweb.io/)
 - [Show HN: Chrome didn&#39;t have a native vector db so I built one:3](https://github.com/wizenheimer/tinkerbird)
-- [Mysterious Objects Detected Floating Through Deep Space](https://futurism.com/the-byte/massive-objects-pulsars-dark-matter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
