@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
-- [The serious science of trolling LLMs](https://lcamtuf.substack.com/p/the-serious-science-of-trolling-llms)
-- [How fast can a human possibly run 100 meters?](https://bigthink.com/starts-with-a-bang/fast-human-run-100-meters/)
-- [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
-- [UpCodes &lpar;YC S17&rpar; Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
+- [Findings – OpenResearch](https://www.openresearchlab.org/findings)
+- [Roame &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/roame/jobs/tu786nh-founding-growth-operations)
+- [Oxygen discovery defies knowledge of the deep ocean](https://www.bbc.co.uk/news/articles/c728ven2v9eo)
+- [An interview with AMD&#39;s Mike Clark, &#39;Zen Daddy&#39; says 3nm Zen 5 is coming fast](https://www.tomshardware.com/pc-components/cpus/an-interview-with-mike-clark-the-father-of-zen-zen-daddy-talks-fast-3nm-launch-zen-5c-cores-for-desktop-chips)
+- [Scientists Discover a New Hormone That Can Build Strong Bones](https://www.ucsf.edu/news/2024/07/428011/scientists-discover-new-hormone-can-build-strong-bones)
 <!-- BLOG-POST-LIST:END -->
 
 ---
