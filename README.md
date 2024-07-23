@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SAP system gives UK tax collector a £750B headache as clock ticks on support](https://www.theregister.com/2024/07/23/sap_ecc_hmrc/)
 - [Install Docmost – open-source Notion Clone](https://tillcarlos.com/install-docmost/)
 - [Dhcpcd replacing dhclient for Debian Trixie or perhaps networkd?](http://q-funk.blogspot.com/2024/07/dhcpcd-replacing-dhclient-for-trixie-or.html)
+- [Intel vPro CPUs have a web server open](https://mastodon.lilysthings.org/@i_lost_my_bagel/112228352384742242)
+- [Comparing TCP and QUIC](https://www.potaroo.net/ispcol/2022-11/quicvtcp.html)
 - [Show HN: DOM to Semantic Markdown – For LLMs](https://github.com/romansky/dom-to-semantic-markdown)
-- [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
 <!-- BLOG-POST-LIST:END -->
 
 ---
