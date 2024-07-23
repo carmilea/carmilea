@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram zero-day for Android allowed malicious files to masquerade as videos](https://therecord.media/telegram-zero-day-android-app-eset)
+- [U.S. maternal death rate increasing at an alarming rate](https://news.northwestern.edu/stories/2024/03/u-s-maternal-death-rate-increasing-at-an-alarming-rate/)
+- [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
 - [Database Design for Google Calendar: A Tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
 - [How Conditional Breakpoints Work](https://werat.dev/blog/how-conditional-breakpoints-work/)
-- [Ask HN: Is there room for a new email hosting service?](https://news.ycombinator.com/item?id=41043077)
-- [The Linux audio stack demystified &lpar;and more&rpar;](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
-- [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
