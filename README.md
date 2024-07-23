@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cure for male pattern baldness given boost by sugar discovery](https://www.sheffield.ac.uk/news/cure-male-pattern-baldness-given-boost-sugar-discovery)
+- [Storing UTC is not a silver bullet &lpar;2019&rpar;](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
+- [Database Design for Google Calendar: A Tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
+- [Ask HN: Is there room for a new email hosting service?](https://news.ycombinator.com/item?id=41043077)
 - [The Linux audio stack demystified &lpar;and more&rpar;](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 - [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
-- [Ask HN: Is it possible to make FAANG salaries without working there?](https://news.ycombinator.com/item?id=41042123)
-- [Wiz Rejects Alphabet&#39;s $23B Offer, Seeks IPO](https://www.bloomberg.com/news/articles/2024-07-23/cyber-firm-wiz-rejects-alphabet-s-23-billion-offer-seeks-ipo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
