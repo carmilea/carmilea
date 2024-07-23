@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Olympics Officials Try to Catch &quot;Motor Doping&quot;](https://spectrum.ieee.org/motor-doping-cycling)
-- [Why Is It So Hard to Share Links on LinkedIn?](https://tedium.co/2024/07/23/linkedin-complex-linking-schemes/)
-- [Engage, Don&#39;t Show](https://lea.verou.me/blog/2024/engage-dont-show/)
-- [Turing&#39;s topological proof that every written alphabet is finite &lpar;2010&rpar;](https://divisbyzero.com/2010/05/27/turings-topological-proof-that-every-written-alphabet-is-finite/)
-- [Chinese-born chemist Feng Tao cleared of convictions under US espionage probe](https://www.chemistryworld.com/news/chinese-born-chemist-cleared-of-last-conviction-under-uss-espionage-probe/4019849.article)
+- [Tesla Q2 2024 Update [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q2-2024-Update.pdf)
+- [Hydrothermal Explosion at Yellowstone National Park](https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html)
+- [How many children had Lady Macbeth?](https://lifeandletters.substack.com/p/how-many-children-had-lady-macbeth)
+- [America’s Transit Exceptionalism](https://benjaminschneider.substack.com/p/americas-transit-exceptionalism)
+- [Google Drive scans files for copyright infringement](https://twitter.com/1littlecoder/status/1815830211612586255)
 <!-- BLOG-POST-LIST:END -->
 
 ---
