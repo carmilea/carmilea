@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Lisp in C#](https://github.com/codr7/sharpl)
+- [Re: Do people IRL know you have a blog?](https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/)
 - [Arm&#39;s Neoverse V2, in AWS&#39;s Graviton 4](https://chipsandcheese.com/2024/07/22/arms-neoverse-v2-in-awss-graviton-4/)
-- [Intel says elevated voltage causing &quot;instability&quot; in Core CPUs, fix in August](https://www.tomshardware.com/pc-components/cpus/intel-finally-announces-a-solution-for-cpu-crashing-errors-claims-elevated-voltages-are-the-root-cause-fix-coming-by-mid-august)
 - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
-- [Telegram zero-day allowed sending malicious Android APKs as videos](https://www.bleepingcomputer.com/news/security/telegram-zero-day-allowed-sending-malicious-android-apks-as-videos/)
 - [United States Discloses Nuclear Warhead Numbers; Restores Nuclear Transparency](https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/)
 <!-- BLOG-POST-LIST:END -->
 
