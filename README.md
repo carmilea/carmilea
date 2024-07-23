@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Pixel &#39;Satellite SOS&#39; support may be free for two years](https://9to5google.com/2024/07/22/google-pixel-satellite-sos-support-price/)
+- [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
+- [Ask HN: Is it possible to make FAANG salaries without working there?](https://news.ycombinator.com/item?id=41042123)
 - [Wiz Rejects Alphabet&#39;s $23B Offer, Seeks IPO](https://www.bloomberg.com/news/articles/2024-07-23/cyber-firm-wiz-rejects-alphabet-s-23-billion-offer-seeks-ipo)
 - [Wiz walks away from $23B deal with Google](https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html)
-- [Show HN: Lisp in C#](https://github.com/codr7/sharpl)
-- [Re: Do people IRL know you have a blog?](https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/)
-- [Arm&#39;s Neoverse V2, in AWS&#39;s Graviton 4](https://chipsandcheese.com/2024/07/22/arms-neoverse-v2-in-awss-graviton-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
