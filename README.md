@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Switzerland now requires all government software to be open source](https://www.zdnet.com/article/switzerland-now-requires-all-government-software-to-be-open-source/)
+- [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Product Engineer &lpar;iOS, Full-Stack&rpar;](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
+- [Ireland&#39;s datacentres overtake electricity use of all urban homes combined](https://www.theguardian.com/world/article/2024/jul/23/ireland-datacentres-overtake-electricity-use-of-all-homes-combined-figures-show)
 - [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
 - [Open Source AI Is the Path Forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
-- [Capacitive controls could be the cause of a spate of VW ID.4 crashes](https://arstechnica.com/cars/2024/07/vw-id-4-owners-report-unintended-acceleration-blame-steering-wheel-design/)
 - [A free tool to quickly detect counterfeit flash &lpar;2017&rpar;](https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#correcting-capacity-to-actual-size-with-f3fix)
 <!-- BLOG-POST-LIST:END -->
 
