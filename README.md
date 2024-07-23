@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What do you guys think of the current job market in tech?](https://news.ycombinator.com/item?id=41042816)
+- [Cure for male pattern baldness given boost by sugar discovery](https://www.sheffield.ac.uk/news/cure-male-pattern-baldness-given-boost-sugar-discovery)
 - [The Linux audio stack demystified &lpar;and more&rpar;](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
-- [Google Pixel &#39;Satellite SOS&#39; support may be free for two years](https://9to5google.com/2024/07/22/google-pixel-satellite-sos-support-price/)
 - [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
 - [Ask HN: Is it possible to make FAANG salaries without working there?](https://news.ycombinator.com/item?id=41042123)
+- [Wiz Rejects Alphabet&#39;s $23B Offer, Seeks IPO](https://www.bloomberg.com/news/articles/2024-07-23/cyber-firm-wiz-rejects-alphabet-s-23-billion-offer-seeks-ipo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
