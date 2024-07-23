@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wiz Rejects Alphabet&#39;s $23B Offer, Seeks IPO](https://www.bloomberg.com/news/articles/2024-07-23/cyber-firm-wiz-rejects-alphabet-s-23-billion-offer-seeks-ipo)
 - [Wiz walks away from $23B deal with Google](https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html)
 - [Show HN: Lisp in C#](https://github.com/codr7/sharpl)
 - [Re: Do people IRL know you have a blog?](https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/)
 - [Arm&#39;s Neoverse V2, in AWS&#39;s Graviton 4](https://chipsandcheese.com/2024/07/22/arms-neoverse-v2-in-awss-graviton-4/)
-- [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
