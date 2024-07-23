@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Storing UTC is not a silver bullet &lpar;2019&rpar;](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
 - [Database Design for Google Calendar: A Tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
+- [How Conditional Breakpoints Work](https://werat.dev/blog/how-conditional-breakpoints-work/)
 - [Ask HN: Is there room for a new email hosting service?](https://news.ycombinator.com/item?id=41043077)
 - [The Linux audio stack demystified &lpar;and more&rpar;](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 - [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
