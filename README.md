@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Median filtering: naive algorithm, histogram-based, binary tree, and more &lpar;2022&rpar;](https://www.crisluengo.net/archives/1138/)
-- [Show HN: DOM to Semantic Markdown – For LLMs](https://github.com/romansky/dom-to-semantic-markdown)
-- [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
-- [SQLite-jiff: SQLite extension for timezones and complex durations](https://github.com/asg017/sqlite-jiff)
-- [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
+- [Llama 3.1 Official Launch](https://llama.meta.com/)
+- [A free tool to quickly detect counterfeit flash &lpar;2017&rpar;](https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#correcting-capacity-to-actual-size-with-f3fix)
+- [Trunk: Build, bundle and ship your Rust WASM application to the web](https://trunkrs.dev/)
+- [A &lpar;not so&rpar; small library for terminal based game development](https://github.com/pygamelib/pygamelib)
+- [Median filtering &lpar;2022&rpar;](https://www.crisluengo.net/archives/1138/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
