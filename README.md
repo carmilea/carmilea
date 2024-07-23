@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Arm&#39;s Neoverse V2, in AWS&#39;s Graviton 4](https://chipsandcheese.com/2024/07/22/arms-neoverse-v2-in-awss-graviton-4/)
+- [Intel says elevated voltage causing &quot;instability&quot; in Core CPUs, fix in August](https://www.tomshardware.com/pc-components/cpus/intel-finally-announces-a-solution-for-cpu-crashing-errors-claims-elevated-voltages-are-the-root-cause-fix-coming-by-mid-august)
 - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
-- [Diverse ML Systems at Netflix](https://netflixtechblog.com/supporting-diverse-ml-systems-at-netflix-2d2e6b6d205d)
+- [Telegram zero-day allowed sending malicious Android APKs as videos](https://www.bleepingcomputer.com/news/security/telegram-zero-day-allowed-sending-malicious-android-apks-as-videos/)
 - [United States Discloses Nuclear Warhead Numbers; Restores Nuclear Transparency](https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/)
-- [Timeshift: System Restore Tool for Linux](https://github.com/linuxmint/timeshift)
-- [July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
