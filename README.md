@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Olympics Officials Try to Catch &quot;Motor Doping&quot;](https://spectrum.ieee.org/motor-doping-cycling)
 - [Why Is It So Hard to Share Links on LinkedIn?](https://tedium.co/2024/07/23/linkedin-complex-linking-schemes/)
-- [Microsoft says EU to blame for the worst IT outage](https://www.euronews.com/next/2024/07/22/microsoft-says-eu-to-blame-for-the-worlds-worst-it-outage)
+- [Engage, Don&#39;t Show](https://lea.verou.me/blog/2024/engage-dont-show/)
 - [Turing&#39;s topological proof that every written alphabet is finite &lpar;2010&rpar;](https://divisbyzero.com/2010/05/27/turings-topological-proof-that-every-written-alphabet-is-finite/)
 - [Chinese-born chemist Feng Tao cleared of convictions under US espionage probe](https://www.chemistryworld.com/news/chinese-born-chemist-cleared-of-last-conviction-under-uss-espionage-probe/4019849.article)
-- [How Warsaw Came Close to Never Being Rebuilt &lpar;2015&rpar;](https://culture.pl/en/article/how-warsaw-came-close-to-never-being-rebuilt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
