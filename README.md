@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Q2 2024 Update [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q2-2024-Update.pdf)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41050801)
+- [Alphabet Second Quarter 2024 Results](https://www.cnbc.com/2024/07/23/alphabet-set-to-report-q2-earnings-results-after-the-bell.html)
 - [Hydrothermal Explosion at Yellowstone National Park](https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html)
 - [How many children had Lady Macbeth?](https://lifeandletters.substack.com/p/how-many-children-had-lady-macbeth)
-- [America’s Transit Exceptionalism](https://benjaminschneider.substack.com/p/americas-transit-exceptionalism)
-- [Google Drive scans files for copyright infringement](https://twitter.com/1littlecoder/status/1815830211612586255)
+- [Dtui – TUI for introspecting the state of the system/session dbus](https://github.com/Troels51/dtui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
