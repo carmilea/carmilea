@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram zero-day for Android allowed malicious files to masquerade as videos](https://therecord.media/telegram-zero-day-android-app-eset)
+- [SAP system gives UK tax collector a £750B headache as clock ticks on support](https://www.theregister.com/2024/07/23/sap_ecc_hmrc/)
+- [Install Docmost – open-source Notion Clone](https://tillcarlos.com/install-docmost/)
+- [Dhcpcd replacing dhclient for Debian Trixie or perhaps networkd?](http://q-funk.blogspot.com/2024/07/dhcpcd-replacing-dhclient-for-trixie-or.html)
+- [Show HN: DOM to Semantic Markdown – For LLMs](https://github.com/romansky/dom-to-semantic-markdown)
 - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
-- [Is Cultivated Meat for Real?](https://asteriskmag.com/issues/02/is-cultivated-meat-for-real)
-- [Database Design for Google Calendar: A Tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
-- [The Linux audio stack demystified &lpar;and more&rpar;](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
