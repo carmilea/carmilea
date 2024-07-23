@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Install Docmost – open-source Notion Clone](https://tillcarlos.com/install-docmost/)
-- [Dhcpcd replacing dhclient for Debian Trixie or perhaps networkd?](http://q-funk.blogspot.com/2024/07/dhcpcd-replacing-dhclient-for-trixie-or.html)
-- [Intel vPro CPUs have a web server open](https://mastodon.lilysthings.org/@i_lost_my_bagel/112228352384742242)
-- [Comparing TCP and QUIC](https://www.potaroo.net/ispcol/2022-11/quicvtcp.html)
+- [Median filtering: naive algorithm, histogram-based, binary tree, and more &lpar;2022&rpar;](https://www.crisluengo.net/archives/1138/)
 - [Show HN: DOM to Semantic Markdown – For LLMs](https://github.com/romansky/dom-to-semantic-markdown)
+- [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
+- [SQLite-jiff: SQLite extension for timezones and complex durations](https://github.com/asg017/sqlite-jiff)
+- [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
