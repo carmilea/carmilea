@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CrowdStrike CEO summoned to explain epic fail to US Homeland Security committee](https://www.theregister.com/2024/07/23/crowdstrike_ceo_to_testify/)
+- [Pinned Places](https://without.boats/blog/pinned-places/)
 - [More delays for Euston&#39;s HS2 station](https://www.ianvisits.co.uk/articles/more-delays-for-eustons-hs2-station-nao-report-74162/)
 - [&quot;Doors&quot; in Solaris: Lightweight RPC Using File Descriptors &lpar;1996&rpar;](http://www.kohala.com/start/papers.others/doors.html)
 - [MPPP – The first &#39;designer drug&#39; disaster &lpar;2023&rpar;](https://www.chm.bris.ac.uk/motm/mppp/mppph.htm)
-- [Tot Notes](https://leancrew.com/all-this/2024/07/tot-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
