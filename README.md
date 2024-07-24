@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD delays Ryzen 9000 launch to August &quot;out of an abundance of caution&quot;](https://arstechnica.com/gadgets/2024/07/quality-issue-pushes-amds-ryzen-9000-cpu-launch-from-july-to-august/)
+- [ULTRA drone flies for days in military test](https://www.axios.com/2024/07/24/ultra-intel-drone-air-force-testing)
+- [Dungeons and Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 - [A Multimodal Dataset with One Trillion Tokens](https://github.com/mlfoundations/MINT-1T)
-- [Will Figma become an awkward middle ground?](https://www.dive.club/ideas/will-figma-become-an-awkward-middle-ground)
-- [Ask Siri, Dictation and Privacy](https://www.apple.com/legal/privacy/data/en/ask-siri-dictation/)
 - [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
+- [Space-filling curves, constructively](https://math.andrej.com/2024/01/30/space-filling-curves-constructively/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
