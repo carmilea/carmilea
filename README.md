@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Physicists may now have a way to make element 120](https://www.newscientist.com/article/2440445-physicists-may-now-have-a-way-to-make-element-120-the-heaviest-ever/)
+- [The algebra &lpar;and calculus&rpar; of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
 - [You got a null result. Will anyone publish it?](https://www.nature.com/articles/d41586-024-02383-9)
 - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
 - [Arch-based CachyOS promises speed but trips over its laces](https://www.theregister.com/2024/07/23/cachyos_arch_linux/)
-- [&quot;Doors&quot; in Solaris: Lightweight RPC Using File Descriptors &lpar;1996&rpar;](http://www.kohala.com/start/papers.others/doors.html)
-- [MPPP – The first &#39;designer drug&#39; disaster &lpar;2023&rpar;](https://www.chm.bris.ac.uk/motm/mppp/mppph.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
