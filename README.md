@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You got a null result. Will anyone publish it?](https://www.nature.com/articles/d41586-024-02383-9)
+- [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
 - [Arch-based CachyOS promises speed but trips over its laces](https://www.theregister.com/2024/07/23/cachyos_arch_linux/)
-- [Legacy](https://longform.asmartbear.com/legacy/)
-- [Software engineers are not &lpar;and should not be&rpar; technicians](https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html)
-- [We&#39;ve built the Ultimate e-Bike Battery that you can Repair and Refill](https://get.gouach.com/2)
-- [Pinned Places](https://without.boats/blog/pinned-places/)
+- [&quot;Doors&quot; in Solaris: Lightweight RPC Using File Descriptors &lpar;1996&rpar;](http://www.kohala.com/start/papers.others/doors.html)
+- [MPPP – The first &#39;designer drug&#39; disaster &lpar;2023&rpar;](https://www.chm.bris.ac.uk/motm/mppp/mppph.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
