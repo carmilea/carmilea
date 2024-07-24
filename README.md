@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ULTRA drone flies for days in military test](https://www.axios.com/2024/07/24/ultra-intel-drone-air-force-testing)
+- [X suspends account that leaked info about protected user TOS bypass](https://twitter.com/tippitytoptweet/status/1816232864243147112)
+- [OpenAI is set to lose $5B this year](https://www.datacenterdynamics.com/en/news/openai-training-and-inference-costs-could-reach-7bn-for-2024-ai-startup-set-to-lose-5bn-report/)
 - [Dungeons and Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 - [A Multimodal Dataset with One Trillion Tokens](https://github.com/mlfoundations/MINT-1T)
 - [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
-- [Space-filling curves, constructively](https://math.andrej.com/2024/01/30/space-filling-curves-constructively/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
