@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: We made glhf.chat – run almost any open-source LLM, including 405B](https://glhf.chat/landing/home)
+- [GM indefinitely halts work on driverless car at Cruise unit](https://www.ft.com/content/85bfbfd0-1036-44c7-89bb-72d1cd8f8ea2)
+- [The Origin of Emacs in 1976](https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html)
 - [Pnut: A C to POSIX Shell Compiler you can Trust](https://pnut.sh)
 - [Scrapscript: A functional, content-addressable programming language](https://github.com/tekknolagi/scrapscript)
-- [You can opt out of airport face scans](https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan)
-- [ESA report shows unsustainable levels of orbital debris](https://payloadspace.com/esa-report-shows-unsustainable-levels-of-orbital-debris/)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41050801)
 <!-- BLOG-POST-LIST:END -->
 
 ---
