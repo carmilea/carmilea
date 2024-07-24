@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to develop on Windows: comparing native, MinGW, Cygwin, WSL](https://tmewett.com/dev-on-windows/)
+- [CrowdStrike global outage to cost US Fortune 500 companies $5.4B](https://www.theguardian.com/technology/article/2024/jul/24/crowdstrike-outage-companies-cost)
+- [Anyone Can Access Deleted and Private Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
+- [Space-Filling Curves, Constructively](https://math.andrej.com/2024/01/30/space-filling-curves-constructively/)
+- [Why Big Tech Wants to Make AI Cost Nothing](https://dublog.net/blog/commoditize-complement/)
 - [Join YC&#39;s Ruby Meetup on August 13th at Our New SF Headquarters](https://news.ycombinator.com/item?id=41059148)
-- [Intel confirms oxidation and excessive voltage in 13th and 14th Gen CPUs [video]](https://www.youtube.com/watch?v=OVdmK1UGzGs)
-- [Biological Circuit Design by Caltech](https://biocircuits.github.io/index.html)
-- [Phish-friendly domain registry &quot;.top&quot; put on notice](https://krebsonsecurity.com/2024/07/phish-friendly-domain-registry-top-put-on-notice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
