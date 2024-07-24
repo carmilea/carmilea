@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CrowdStrike global outage to cost US Fortune 500 companies $5.4B](https://www.theguardian.com/technology/article/2024/jul/24/crowdstrike-outage-companies-cost)
-- [Anyone Can Access Deleted and Private Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
-- [Space-Filling Curves, Constructively](https://math.andrej.com/2024/01/30/space-filling-curves-constructively/)
-- [Why Big Tech Wants to Make AI Cost Nothing](https://dublog.net/blog/commoditize-complement/)
-- [Join YC&#39;s Ruby Meetup on August 13th at Our New SF Headquarters](https://news.ycombinator.com/item?id=41059148)
+- [A Multimodal Dataset with One Trillion Tokens](https://github.com/mlfoundations/MINT-1T)
+- [Something is strange with CrowdStrike timeline](https://www.bitsight.com/blog/crowdstrike-timeline-mystery)
+- [Will Figma become an awkward middle ground?](https://www.dive.club/ideas/will-figma-become-an-awkward-middle-ground)
+- [Ask Siri, Dictation and Privacy](https://www.apple.com/legal/privacy/data/en/ask-siri-dictation/)
+- [Countdown clock in NYC&#39;s Union Square ticks below 5 years](https://pix11.com/news/local-news/countdown-clock-in-nycs-union-square-ticks-below-5-years-what-it-means/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
