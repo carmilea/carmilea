@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Micromouse](https://en.wikipedia.org/wiki/Micromouse)
 - [Pinned Places](https://without.boats/blog/pinned-places/)
-- [More delays for Euston&#39;s HS2 station](https://www.ianvisits.co.uk/articles/more-delays-for-eustons-hs2-station-nao-report-74162/)
 - [&quot;Doors&quot; in Solaris: Lightweight RPC Using File Descriptors &lpar;1996&rpar;](http://www.kohala.com/start/papers.others/doors.html)
 - [MPPP – The first &#39;designer drug&#39; disaster &lpar;2023&rpar;](https://www.chm.bris.ac.uk/motm/mppp/mppph.htm)
 - [What &quot;consent&quot; looks like for the DEA and TSA](https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/)
