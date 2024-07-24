@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MPPP – The first &#39;designer drug&#39; disaster &lpar;2023&rpar;](https://www.chm.bris.ac.uk/motm/mppp/mppph.htm)
+- [Tot Notes](https://leancrew.com/all-this/2024/07/tot-notes/)
+- [What &quot;consent&quot; looks like for the DEA and TSA](https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/)
+- [Llama 3.1 in C](https://github.com/trholding/llama2.c/blob/master/runq.c)
 - [Show HN: We made glhf.chat – run almost any open-source LLM, including 405B](https://glhf.chat/landing/home)
-- [GM indefinitely halts work on driverless car at Cruise unit](https://www.ft.com/content/85bfbfd0-1036-44c7-89bb-72d1cd8f8ea2)
-- [The Origin of Emacs in 1976](https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html)
-- [Pnut: A C to POSIX Shell Compiler you can Trust](https://pnut.sh)
-- [Scrapscript: A functional, content-addressable programming language](https://github.com/tekknolagi/scrapscript)
 <!-- BLOG-POST-LIST:END -->
 
 ---
