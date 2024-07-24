@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visual Explanation of SAML Authentication](https://www.sheshbabu.com/posts/visual-explanation-of-saml-authentication/)
+- [Crash Course in Deep Learning &lpar;For Computer Graphics&rpar;](https://gpuopen.com/learn/deep_learning_crash_course/)
+- [Google Is the Only Search Engine That Works on Reddit Now Thanks to AI Deal](https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/)
 - [Physicists may now have a way to make element 120](https://www.newscientist.com/article/2440445-physicists-may-now-have-a-way-to-make-element-120-the-heaviest-ever/)
 - [The algebra &lpar;and calculus&rpar; of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
-- [You got a null result. Will anyone publish it?](https://www.nature.com/articles/d41586-024-02383-9)
-- [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
-- [Arch-based CachyOS promises speed but trips over its laces](https://www.theregister.com/2024/07/23/cachyos_arch_linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
