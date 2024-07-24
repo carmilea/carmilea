@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Doors&quot; in Solaris: Lightweight RPC Using File Descriptors &lpar;1996&rpar;](http://www.kohala.com/start/papers.others/doors.html)
 - [North Texas community says crypto-mining facility brings never-ending noise](https://www.cbsnews.com/texas/news/north-texas-community-says-crypto-mining-facility-never-ending-noise-declining-health/)
 - [MPPP – The first &#39;designer drug&#39; disaster &lpar;2023&rpar;](https://www.chm.bris.ac.uk/motm/mppp/mppph.htm)
 - [Tot Notes](https://leancrew.com/all-this/2024/07/tot-notes/)
 - [What &quot;consent&quot; looks like for the DEA and TSA](https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/)
-- [Llama 3.1 in C](https://github.com/trholding/llama2.c/blob/master/runq.c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
