@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to develop on Windows: comparing native, MinGW, Cygwin, WSL](https://tmewett.com/dev-on-windows/)
 - [Join YC&#39;s Ruby Meetup on August 13th at Our New SF Headquarters](https://news.ycombinator.com/item?id=41059148)
-- [The problem of &#39;model collapse&#39;: how a lack of human data limits AI progress](https://www.ft.com/content/ae507468-7f5b-440b-8512-aea81c6bf4a5)
 - [Intel confirms oxidation and excessive voltage in 13th and 14th Gen CPUs [video]](https://www.youtube.com/watch?v=OVdmK1UGzGs)
-- [OpenAI may lose $5B this year and may run out of cash in 12 months](https://twitter.com/garymarcus/status/1816116071226868085)
-- [CrowdStrike offers a $10 apology gift card to say sorry for outage](https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/)
+- [Biological Circuit Design by Caltech](https://biocircuits.github.io/index.html)
+- [Phish-friendly domain registry &quot;.top&quot; put on notice](https://krebsonsecurity.com/2024/07/phish-friendly-domain-registry-top-put-on-notice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
