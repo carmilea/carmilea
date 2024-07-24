@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Join YC&#39;s Ruby Meetup on August 13th at Our New SF Headquarters](https://news.ycombinator.com/item?id=41059148)
+- [The problem of &#39;model collapse&#39;: how a lack of human data limits AI progress](https://www.ft.com/content/ae507468-7f5b-440b-8512-aea81c6bf4a5)
+- [Intel confirms oxidation and excessive voltage in 13th and 14th Gen CPUs [video]](https://www.youtube.com/watch?v=OVdmK1UGzGs)
+- [OpenAI may lose $5B this year and may run out of cash in 12 months](https://twitter.com/garymarcus/status/1816116071226868085)
 - [CrowdStrike offers a $10 apology gift card to say sorry for outage](https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/)
-- [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y)
-- [Large Enough – Mistral AI](https://mistral.ai/news/mistral-large-2407/)
-- [End Mandatory Single Family Zoning by Overturning Euclid vs. Ambler](https://www.maximum-progress.com/p/ending-single-family-zoning-by-overturning)
-- [Visual explanation of saml authentication](https://www.sheshbabu.com/posts/visual-explanation-of-saml-authentication/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
