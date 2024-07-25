@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman: AI&#39;s future must be democratic](https://www.washingtonpost.com/opinions/2024/07/25/sam-altman-ai-democracy-authoritarianism-future/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring Auth Engineers &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5225004004)
-- [One-dose nasal spray clears toxic Alzheimer&#39;s proteins to improve memory](https://newatlas.com/health-wellbeing/nasal-spray-tau-proteins-alzheimers/)
-- [iPhones will soon be able to stream live video on 911 calls](https://www.theverge.com/2024/7/24/24205177/apple-iphone-ios-18-emergency-sos-live-video-chat-911)
-- [Defense of Lisp Macros](https://mihaiolteanu.me/defense-of-lisp-macros)
-- [My Favorite Algorithm: Linear Time Median Finding](https://rcoh.me/posts/linear-time-median-finding/)
+- [Third Party Cookies Must Be Removed from the Web Platform](https://www.w3.org/2001/tag/doc/web-without-3p-cookies/)
+- [Why Levittown Didn&#39;t Revolutionize Homebuilding](https://www.construction-physics.com/p/why-levittown-didnt-revolutionize)
+- [Employee-owned company vs. Corporate Structure](https://news.ycombinator.com/item?id=41066698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
