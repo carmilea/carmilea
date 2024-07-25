@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The secrets I found investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 - [Japan chain uses AI to gauge staff smiles, speech tones in QoS push](https://www.scmp.com/news/people-culture/article/3271333/japan-supermarket-chain-uses-ai-gauge-staff-smiles-speech-tones-quality-service-push)
 - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
 - [What Is Toybox?](http://landley.net/toybox/)
-- [500M-Year-Old &#39;Alien Fish Taco&#39; Was Among First Creatures with Jaws](https://www.scientificamerican.com/article/500-million-year-old-alien-fish-taco-was-among-first-creatures-with-jaws/)
-- [Accelerate Your MongoDB® Applications With SingleStore Kai™ $vectorSearch Capabilities](https://www.singlestore.com/blog/accelerate-mongodb-applications-singlestore-kai-vectorsearch)
+- [Namibia turns the visa tables on Western nations](https://www.bbc.com/news/articles/cmj2578r873o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
