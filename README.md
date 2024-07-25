@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The secrets I found investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
-- [Japan chain uses AI to gauge staff smiles, speech tones in QoS push](https://www.scmp.com/news/people-culture/article/3271333/japan-supermarket-chain-uses-ai-gauge-staff-smiles-speech-tones-quality-service-push)
-- [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
-- [What Is Toybox?](http://landley.net/toybox/)
-- [Namibia turns the visa tables on Western nations](https://www.bbc.com/news/articles/cmj2578r873o)
+- [EU parliament member hit by Israeli Candiru spyware](https://twitter.com/moo9000/status/1816352054425829420)
+- [Working the International Space Station from a Commodore 64](https://www.alickgardiner.com/c64-packet-radio/)
+- [Google Search: Roboto Mono](https://www.google.com/search?q=roboto+mono+font)
+- [$1T Rout Hits Nasdaq 100 over AI Jitters in Worst Day Since 2022](https://www.bloomberg.com/news/articles/2024-07-24/ai-fever-cools-sending-nasdaq-100-into-1-trillion-tailspin)
+- [Investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
