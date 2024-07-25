@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CrowdStrike will be liable for damages in France](https://thehftguy.com/2024/07/25/crowdstrike-will-be-liable-for-damages-in-france-based-on-the-ovh-precedent/)
+- [Supabase &lpar;YC S20&rpar; Is Hiring Auth Engineers &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5225004004)
+- [One-dose nasal spray clears toxic Alzheimer&#39;s proteins to improve memory](https://newatlas.com/health-wellbeing/nasal-spray-tau-proteins-alzheimers/)
+- [iPhones will soon be able to stream live video on 911 calls](https://www.theverge.com/2024/7/24/24205177/apple-iphone-ios-18-emergency-sos-live-video-chat-911)
+- [Defense of Lisp Macros](https://mihaiolteanu.me/defense-of-lisp-macros)
 - [My Favorite Algorithm: Linear Time Median Finding](https://rcoh.me/posts/linear-time-median-finding/)
-- [Versioned Finite-State Machines with PostgreSQL &lpar;2019&rpar;](https://raphael.medaer.me/2019/06/12/pgfsm.html)
-- [Show HN: Compile Erlang to WASM and run as HTTP/incoming-handler](https://github.com/muromec/erwasm-http)
-- [Wasmer &lpar;YC S19&rpar; Is Hiring Senior Front End Engineers](https://www.workatastartup.com/jobs/45795)
 <!-- BLOG-POST-LIST:END -->
 
 ---
