@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rent Going Up? One Company&#39;s Algorithm Could Be Why](https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent)
+- [500M-Year-Old &#39;Alien Fish Taco&#39; Was Among First Creatures with Jaws](https://www.scientificamerican.com/article/500-million-year-old-alien-fish-taco-was-among-first-creatures-with-jaws/)
 - [Accelerate Your MongoDB® Applications With SingleStore Kai™ $vectorSearch Capabilities](https://www.singlestore.com/blog/accelerate-mongodb-applications-singlestore-kai-vectorsearch)
 - [Fossil Hints That Jurassic Mammals Lived Slow and Died Old](https://www.nytimes.com/2024/07/24/science/fossil-mammal-jurassic-age.html)
-- [America&#39;s War on Theater](https://lareviewofbooks.org/article/americas-war-on-theater/)
-- [OpenAI is set to lose $5B this year](https://www.datacenterdynamics.com/en/news/openai-training-and-inference-costs-could-reach-7bn-for-2024-ai-startup-set-to-lose-5bn-report/)
+- [Show HN: Hooper – AI-driven stats and highlights for basketball play](https://www.hooper.gg)
+- [Dungeons and Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
