@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Favorite Algorithm: Linear Time Median Finding](https://rcoh.me/posts/linear-time-median-finding/)
+- [Hugo awards organisers reveal thousands spent on fraudulent votes](https://www.theguardian.com/books/article/2024/jul/23/hugo-awards-fraudulent-votes-paid-for-one-author-ntwnfb)
+- [Versioned Finite-State Machines with PostgreSQL &lpar;2019&rpar;](https://raphael.medaer.me/2019/06/12/pgfsm.html)
+- [Show HN: Compile Erlang to WASM and run as HTTP/incoming-handler](https://github.com/muromec/erwasm-http)
 - [Wasmer &lpar;YC S19&rpar; Is Hiring Senior Front End Engineers](https://www.workatastartup.com/jobs/45795)
-- [Apple Maps on the web launches in beta](https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/)
-- [Every company should be owned by its employees](https://www.elysian.press/p/employee-ownership)
-- [EU parliament member hit by Israeli Candiru spyware](https://twitter.com/moo9000/status/1816352054425829420)
-- [Working the International Space Station from a Commodore 64](https://www.alickgardiner.com/c64-packet-radio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
