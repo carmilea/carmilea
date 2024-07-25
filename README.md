@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wasmer &lpar;YC S19&rpar; Is Hiring Senior Front End Engineers](https://www.workatastartup.com/jobs/45795)
+- [Roblox&#39;s Predator Problem [video]](https://www.youtube.com/watch?v=DD6cac64fc4)
+- [Apple Maps on the web launches in beta](https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/)
+- [Every company should be owned by its employees](https://www.elysian.press/p/employee-ownership)
 - [EU parliament member hit by Israeli Candiru spyware](https://twitter.com/moo9000/status/1816352054425829420)
-- [Working the International Space Station from a Commodore 64](https://www.alickgardiner.com/c64-packet-radio/)
-- [Google Search: Roboto Mono](https://www.google.com/search?q=roboto+mono+font)
-- [$1T Rout Hits Nasdaq 100 over AI Jitters in Worst Day Since 2022](https://www.bloomberg.com/news/articles/2024-07-24/ai-fever-cools-sending-nasdaq-100-into-1-trillion-tailspin)
-- [Investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
