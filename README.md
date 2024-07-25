@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI announces SearchGPT, its AI-powered search engine](https://www.theverge.com/2024/7/25/24205701/openai-searchgpt-ai-search-engine-google-perplexity-rival)
+- [Secure Boot is broken on 200 models from 5 big device makers](https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/)
 - [OpenAI Announces SearchGPT](https://chatgpt.com/search)
-- [SearchGPT Prototype](https://openai.com/index/searchgpt-prototype/)
 - [Motion &lpar;YC W20&rpar; Is Hiring Senior Front End Engineers &lpar;US+Canada&rpar;](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 - [Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
+- [Ask HN: Best way to learn robotics with a 10 year old?](https://news.ycombinator.com/item?id=41070703)
 <!-- BLOG-POST-LIST:END -->
 
 ---
