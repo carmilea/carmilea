@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CrowdStrike will be liable for damages in France](https://thehftguy.com/2024/07/25/crowdstrike-will-be-liable-for-damages-in-france-based-on-the-ovh-precedent/)
 - [My Favorite Algorithm: Linear Time Median Finding](https://rcoh.me/posts/linear-time-median-finding/)
-- [Hugo awards organisers reveal thousands spent on fraudulent votes](https://www.theguardian.com/books/article/2024/jul/23/hugo-awards-fraudulent-votes-paid-for-one-author-ntwnfb)
 - [Versioned Finite-State Machines with PostgreSQL &lpar;2019&rpar;](https://raphael.medaer.me/2019/06/12/pgfsm.html)
 - [Show HN: Compile Erlang to WASM and run as HTTP/incoming-handler](https://github.com/muromec/erwasm-http)
 - [Wasmer &lpar;YC S19&rpar; Is Hiring Senior Front End Engineers](https://www.workatastartup.com/jobs/45795)
