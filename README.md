@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Navy SEALs, Sailors Who Refused Covid Vaccine Will Have Records Expunged](https://www.military.com/daily-news/2024/07/24/navy-seals-sailors-who-refused-covid-vaccine-will-have-records-expunged-after-legal-settlement.html)
+- [Cutting forests for solar energy &#39;misses the plot&#39; on climate action](https://news.mongabay.com/2024/05/cutting-forests-for-solar-energy-misses-the-plot-on-climate-action-commentary/)
 - [500M-Year-Old &#39;Alien Fish Taco&#39; Was Among First Creatures with Jaws](https://www.scientificamerican.com/article/500-million-year-old-alien-fish-taco-was-among-first-creatures-with-jaws/)
 - [Accelerate Your MongoDB® Applications With SingleStore Kai™ $vectorSearch Capabilities](https://www.singlestore.com/blog/accelerate-mongodb-applications-singlestore-kai-vectorsearch)
 - [Fossil Hints That Jurassic Mammals Lived Slow and Died Old](https://www.nytimes.com/2024/07/24/science/fossil-mammal-jurassic-age.html)
-- [Show HN: Hooper – AI-driven stats and highlights for basketball play](https://www.hooper.gg)
-- [Dungeons and Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
