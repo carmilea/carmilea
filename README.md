@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman: AI&#39;s future must be democratic](https://www.washingtonpost.com/opinions/2024/07/25/sam-altman-ai-democracy-authoritarianism-future/)
+- [AOC&#39;s Deepfake AI Porn Bill Unanimously Passes the Senate](https://www.rollingstone.com/politics/politics-news/aoc-deepfake-porn-bill-senate-1235067061/)
+- [The end of Mbed marks a new beginning for Arduino](https://blog.arduino.cc/2024/07/24/the-end-of-mbed-marks-a-new-beginning-for-arduino/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring Auth Engineers &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5225004004)
-- [Third Party Cookies Must Be Removed from the Web Platform](https://www.w3.org/2001/tag/doc/web-without-3p-cookies/)
 - [Why Levittown Didn&#39;t Revolutionize Homebuilding](https://www.construction-physics.com/p/why-levittown-didnt-revolutionize)
-- [Employee-owned company vs. Corporate Structure](https://news.ycombinator.com/item?id=41066698)
+- [Defense of Lisp Macros](https://mihaiolteanu.me/defense-of-lisp-macros)
 <!-- BLOG-POST-LIST:END -->
 
 ---
