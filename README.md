@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41073328)
-- [AI crawlers need to be more respectful](https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/)
-- [The Computer Genius the Communists Couldn&#39;t Stand &lpar;2017&rpar;](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
-- [Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
-- [Ask HN: Best way to learn robotics with a 10 year old?](https://news.ycombinator.com/item?id=41070703)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- [U.S. Department of Defense – Detecting Agile BS [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
+- [How the American war on porn could change the way you use the internet](https://www.bbc.com/future/article/20240723-how-the-american-war-on-porn-could-change-your-internet)
+- [Why is Xi Jinping building secret commodity stockpiles?](https://www.economist.com/finance-and-economics/2024/07/23/why-is-xi-jinping-building-secret-commodity-stockpiles)
+- [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
