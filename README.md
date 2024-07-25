@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [X suspends account that leaked info about protected user TOS bypass](https://twitter.com/tippitytoptweet/status/1816232864243147112)
+- [Rent Going Up? One Company&#39;s Algorithm Could Be Why](https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent)
+- [Accelerate Your MongoDB® Applications With SingleStore Kai™ $vectorSearch Capabilities](https://www.singlestore.com/blog/accelerate-mongodb-applications-singlestore-kai-vectorsearch)
+- [Fossil Hints That Jurassic Mammals Lived Slow and Died Old](https://www.nytimes.com/2024/07/24/science/fossil-mammal-jurassic-age.html)
+- [America&#39;s War on Theater](https://lareviewofbooks.org/article/americas-war-on-theater/)
 - [OpenAI is set to lose $5B this year](https://www.datacenterdynamics.com/en/news/openai-training-and-inference-costs-could-reach-7bn-for-2024-ai-startup-set-to-lose-5bn-report/)
-- [Dungeons and Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
-- [A Multimodal Dataset with One Trillion Tokens](https://github.com/mlfoundations/MINT-1T)
-- [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 <!-- BLOG-POST-LIST:END -->
 
 ---
