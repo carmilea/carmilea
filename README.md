@@ -57,9 +57,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-- [U.S. Department of Defense – Detecting Agile BS [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
-- [How the American war on porn could change the way you use the internet](https://www.bbc.com/future/article/20240723-how-the-american-war-on-porn-could-change-your-internet)
-- [Why is Xi Jinping building secret commodity stockpiles?](https://www.economist.com/finance-and-economics/2024/07/23/why-is-xi-jinping-building-secret-commodity-stockpiles)
+- [Is the nervous system a democracy? &lpar;2016&rpar;](https://www.scientificamerican.com/article/is-your-nervous-system-a-democracy-or-a-dictatorship/)
+- [The Decline of Mobile Development](https://www.donnfelker.com/the-decline-of-mobile-development/)
+- [What&#39;s the deal with PFAS, a.k.a. &#39;forever chemicals&#39;?](https://scopeblog.stanford.edu/2024/07/25/pfas-forever-chemicals-health-risks-scientists/)
 - [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
 <!-- BLOG-POST-LIST:END -->
 
