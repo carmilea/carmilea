@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Confirms New Blue Screen Warning for Windows 10 and 11 Users](https://www.forbes.com/sites/daveywinder/2024/07/24/microsofts-new-blue-screen-warning-for-windows-10-11-and-server-users/)
-- [The CAP theorem Is Irrelevant for Cloud Systems](https://brooker.co.za/blog/2024/07/25/cap-again.html)
-- [Reverse Engineering for Everyone](https://0xinfection.github.io/reversing/)
-- [Memory Mapping an FPGA from an STM32](https://serd.es/2024/07/24/Memory-mapping-an-FPGA-from-a-STM32.html)
-- [PostgREST – Serve a RESTful API from Any Postgres Database](https://github.com/PostgREST/postgrest)
+- [Japanese population sees greatest fall amid record foreigner growth and numbers](https://www.asahi.com/ajw/articles/15361310)
+- [Launch HN: Undermind &lpar;YC S24&rpar; – AI agent for discovering scientific papers](https://news.ycombinator.com/item?id=41069909)
+- [Meta Releases Dreambooth Technique Requiring No Finetuning](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/452604312_1010783860585222_5768506504946476980_n.pdf?_nc_cat=102&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=YAv_wnbaeV4Q7kNvgFYk-3h&_nc_ht=scontent-sjc3-1.xx&oh=00_AYA8prM7RdSnA8iWL_UPB6qpQKjkeBOtp8zxoco6qb1Chw&oe=66A84FAB)
+- [AI solves IMO problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
+- [Show HN: Tiny Moon – Swift library to calculate the moon phase](https://github.com/mannylopez/TinyMoon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
