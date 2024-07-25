@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI announces SearchGPT, its AI-powered search engine](https://www.theverge.com/2024/7/25/24205701/openai-searchgpt-ai-search-engine-google-perplexity-rival)
+- [OpenAI Announces SearchGPT](https://chatgpt.com/search)
+- [SearchGPT Prototype](https://openai.com/index/searchgpt-prototype/)
 - [Motion &lpar;YC W20&rpar; Is Hiring Senior Front End Engineers &lpar;US+Canada&rpar;](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 - [Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
-- [39% of Americans worry they can&#39;t pay the bills](https://www.cnn.com/2024/07/23/business/inflation-cost-of-living-cnn-poll/index.html)
-- [Launch HN: Undermind &lpar;YC S24&rpar; – AI agent for discovering scientific papers](https://news.ycombinator.com/item?id=41069909)
-- [Meta Releases Dreambooth Technique Requiring No Finetuning](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/452604312_1010783860585222_5768506504946476980_n.pdf?_nc_cat=102&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=YAv_wnbaeV4Q7kNvgFYk-3h&_nc_ht=scontent-sjc3-1.xx&oh=00_AYA8prM7RdSnA8iWL_UPB6qpQKjkeBOtp8zxoco6qb1Chw&oe=66A84FAB)
 <!-- BLOG-POST-LIST:END -->
 
 ---
