@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AOC&#39;s Deepfake AI Porn Bill Unanimously Passes the Senate](https://www.rollingstone.com/politics/politics-news/aoc-deepfake-porn-bill-senate-1235067061/)
-- [The end of Mbed marks a new beginning for Arduino](https://blog.arduino.cc/2024/07/24/the-end-of-mbed-marks-a-new-beginning-for-arduino/)
-- [Supabase &lpar;YC S20&rpar; Is Hiring Auth Engineers &lpar;Fully Remote&rpar;](https://boards.greenhouse.io/supabase/jobs/5225004004)
-- [Why Levittown Didn&#39;t Revolutionize Homebuilding](https://www.construction-physics.com/p/why-levittown-didnt-revolutionize)
-- [Defense of Lisp Macros](https://mihaiolteanu.me/defense-of-lisp-macros)
+- [Microsoft Confirms New Blue Screen Warning for Windows 10 and 11 Users](https://www.forbes.com/sites/daveywinder/2024/07/24/microsofts-new-blue-screen-warning-for-windows-10-11-and-server-users/)
+- [The CAP theorem Is Irrelevant for Cloud Systems](https://brooker.co.za/blog/2024/07/25/cap-again.html)
+- [Reverse Engineering for Everyone](https://0xinfection.github.io/reversing/)
+- [Memory Mapping an FPGA from an STM32](https://serd.es/2024/07/24/Memory-mapping-an-FPGA-from-a-STM32.html)
+- [PostgREST – Serve a RESTful API from Any Postgres Database](https://github.com/PostgREST/postgrest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
