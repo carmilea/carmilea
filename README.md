@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BusyBox: Life Without Systemd &lpar;2018&rpar;](https://www.busybox.net/kill_it_with_fire.txt)
-- [AI: The Ultimate Sherlocking?](https://www.technicalchops.com/articles/ai-the-ultimate-sherlocking/)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
-- [U.S. Commercial Real Estate Is Headed Toward a Crisis](https://hbr.org/2024/07/u-s-commercial-real-estate-is-headed-toward-a-crisis)
-- [French rail network hit by &#39;malicious acts&#39; ahead of Paris Olympics](https://www.aljazeera.com/news/2024/7/26/french-rail-network-hit-by-malicious-acts-ahead-of-olympic-ceremony)
+- [A hash table by any other name](https://lwn.net/Articles/972580/)
+- [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
+- [Show HN: ClifferBasic, a simple BASIC interpreter as a .NET REPL](https://github.com/paulmooreparks/ClifferBasic)
+- [Dual action antibiotic could make bacterial resistance nearly impossible](https://phys.org/news/2024-07-dual-action-antibiotic-bacterial-resistance.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
