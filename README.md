@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
+- [French rail network hit by &#39;malicious acts&#39; ahead of Paris Olympics](https://www.aljazeera.com/news/2024/7/26/french-rail-network-hit-by-malicious-acts-ahead-of-olympic-ceremony)
+- [Using Rust to corrode insane Python run-times](https://www.vortexa.com/product-blog/using-rust-to-corrode-insane-python-run-times/)
 - [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
 - [A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution)
-- [Startup Finance for Founders — Part I, Accounting](https://rein.pk/startup-finance-for-founders-part-i-accounting)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-- [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
