@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
 - [Where should visual programming go?](https://tonsky.me/blog/diagrams/)
 - [Repulsive Shells [video]](https://www.youtube.com/watch?v=qDM6bCt1Gic)
 - [Call the compiler, fax it your code [video]](https://www.youtube.com/watch?v=pJ-25-pRhpY)
 - [A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
-- [Finding a random seed that solves a LeetCode problem &lpar;2023&rpar;](https://mcognetta.github.io/posts/leetcode-random-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
