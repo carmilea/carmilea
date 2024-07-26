@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apex Surplus is a movie industry props and parts source](https://apexsurplus.com)
+- [MIT 11.350 – Sustainable Real Estate](https://ocw.mit.edu/courses/11-350-sustainable-real-estate-spring-2023/)
+- [Apex Surplus – a movie industry props and parts source](https://apexsurplus.com)
 - [Funtoo Linux is shutting down](https://forums.funtoo.org/topic/5182-all-good-things-must-come-to-an-end/)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior GenAI/LLM Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [Show HN: Patchwork – Open-source framework to automate development gruntwork](https://github.com/patched-codes/patchwork)
-- [Europe is in danger of regulating its tech market out of existence](https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/)
+- [Deep Learning Interviews](https://arxiv.org/abs/2201.00650)
+- [Crooks Bypassed Google&#39;s Email Verification to Create Workspace Accounts, Acces](https://krebsonsecurity.com/2024/07/crooks-bypassed-googles-email-verification-to-create-workspace-accounts-access-3rd-party-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
