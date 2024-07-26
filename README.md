@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US solar production soars by 25 percent in just one year](https://arstechnica.com/science/2024/07/us-solar-production-soars-by-25-percent-in-just-one-year/)
+- [Chicken wings advertised as &#39;boneless&#39; can have bones,Ohio Supreme Court decides](https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8)
+- [Cameo was once valued at $1B. Now it&#39;s so broke it can&#39;t pay a $600K fine](https://www.businessinsider.com/cameo-app-company-fine-settlement-ftc-violation-2024-7)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-- [Is the nervous system a democracy? &lpar;2016&rpar;](https://www.scientificamerican.com/article/is-your-nervous-system-a-democracy-or-a-dictatorship/)
-- [The Decline of Mobile Development](https://www.donnfelker.com/the-decline-of-mobile-development/)
-- [What&#39;s the deal with PFAS, a.k.a. &#39;forever chemicals&#39;?](https://scopeblog.stanford.edu/2024/07/25/pfas-forever-chemicals-health-risks-scientists/)
 - [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
 <!-- BLOG-POST-LIST:END -->
 
