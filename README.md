@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Great Rotation Trade Sees Investors Dump AI Giants for Less Obvious Stocks](https://www.bloomberg.com/news/articles/2024-07-26/great-rotation-trade-turns-spotlight-on-less-obvious-ai-winners)
+- [A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution)
 - [&#39;New El Nino&#39; discovered south of equator](https://www.reading.ac.uk/news/2024/Research-News/New-El-Nino-discovered-south-of-equator)
 - [C# almost has implicit interfaces](https://clipperhouse.com/c-sharp-implicit-interfaces/)
-- [Cameo was once valued at $1B](https://www.businessinsider.com/cameo-app-company-fine-settlement-ftc-violation-2024-7)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-- [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
+- [Llama 3 Secrets Every Engineer Must Know](https://www.anti-vc.com/p/llama-3-secrets-every-engineer-must)
 <!-- BLOG-POST-LIST:END -->
 
 ---
