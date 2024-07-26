@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior GenAI/LLM Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
+- [Show HN: Patchwork – Open-source framework to automate development gruntwork](https://github.com/patched-codes/patchwork)
 - [Europe is in danger of regulating its tech market out of existence](https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/)
-- [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
-- [Repulsive Shells [video]](https://www.youtube.com/watch?v=qDM6bCt1Gic)
-- [Call the compiler, fax it your code [video]](https://www.youtube.com/watch?v=pJ-25-pRhpY)
-- [A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
+- [Beyond Clean Code](https://tobeva.com/articles/beyond/)
+- [Zen 5&#39;s 2-Ahead Branch Predictor: How a 30 Year Old Idea Allows for New Tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
