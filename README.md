@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [American Suburbs Are a Horror Movie and We&#39;re the Protagonists](https://www.strongtowns.org/journal/2022/1/13/american-suburbs-are-a-horror-movie-and-were-the-protagonists)
+- [&#39;New El Nino&#39; discovered south of equator](https://www.reading.ac.uk/news/2024/Research-News/New-El-Nino-discovered-south-of-equator)
 - [C# almost has implicit interfaces](https://clipperhouse.com/c-sharp-implicit-interfaces/)
-- [Judge denies SpaceX effort to block move of NLRB case back to California [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.txsd.1946370/gov.uscourts.txsd.1946370.131.0.pdf)
-- [Southwest to get rid of open seating, offer extra legroom](https://www.cnbc.com/2024/07/25/southwest-airlines-seat-assignments.html)
 - [Cameo was once valued at $1B](https://www.businessinsider.com/cameo-app-company-fine-settlement-ftc-violation-2024-7)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 <!-- BLOG-POST-LIST:END -->
