@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Proton VPN doesn&#39;t use RAM-only VPN servers](https://protonvpn.com/blog/ram-only-servers)
+- [Chrome will now prompt some users to send passwords for suspicious files](https://arstechnica.com/security/2024/07/google-overhauls-chromes-safe-browsing-protection-to-scan-password-protected-files/)
+- [Power-hungry data centres scrambling to find enough electricity to meet demand](https://www.abc.net.au/news/2024-07-26/data-centre-electricity-grid-demand/104140808)
+- [Melting ice is slowing Earth&#39;s spin, shifting its axis and influencing its core](https://www.nbcnews.com/science/environment/melting-ice-shifting-earth-spin-axis-core-rcna162089)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
-- [A hash table by any other name](https://lwn.net/Articles/972580/)
-- [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
-- [Show HN: ClifferBasic, a simple BASIC interpreter as a .NET REPL](https://github.com/paulmooreparks/ClifferBasic)
-- [Dual action antibiotic could make bacterial resistance nearly impossible](https://phys.org/news/2024-07-dual-action-antibiotic-bacterial-resistance.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
