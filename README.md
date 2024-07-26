@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Proton VPN doesn&#39;t use RAM-only VPN servers](https://protonvpn.com/blog/ram-only-servers)
-- [Chrome will now prompt some users to send passwords for suspicious files](https://arstechnica.com/security/2024/07/google-overhauls-chromes-safe-browsing-protection-to-scan-password-protected-files/)
-- [Power-hungry data centres scrambling to find enough electricity to meet demand](https://www.abc.net.au/news/2024-07-26/data-centre-electricity-grid-demand/104140808)
-- [Melting ice is slowing Earth&#39;s spin, shifting its axis and influencing its core](https://www.nbcnews.com/science/environment/melting-ice-shifting-earth-spin-axis-core-rcna162089)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
+- [Fear of over-engineering has killed engineering altogether](https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ)
+- [A hash table by any other name](https://lwn.net/Articles/972580/)
+- [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
+- [A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
