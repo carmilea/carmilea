@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe is in danger of regulating its tech market out of existence](https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/)
 - [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
-- [Where should visual programming go?](https://tonsky.me/blog/diagrams/)
 - [Repulsive Shells [video]](https://www.youtube.com/watch?v=qDM6bCt1Gic)
 - [Call the compiler, fax it your code [video]](https://www.youtube.com/watch?v=pJ-25-pRhpY)
 - [A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
