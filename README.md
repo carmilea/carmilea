@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US solar production soars by 25 percent in just one year](https://arstechnica.com/science/2024/07/us-solar-production-soars-by-25-percent-in-just-one-year/)
-- [Chicken wings advertised as &#39;boneless&#39; can have bones,Ohio Supreme Court decides](https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8)
-- [Cameo was once valued at $1B. Now it&#39;s so broke it can&#39;t pay a $600K fine](https://www.businessinsider.com/cameo-app-company-fine-settlement-ftc-violation-2024-7)
+- [C# almost has implicit interfaces](https://clipperhouse.com/c-sharp-implicit-interfaces/)
+- [Judge denies SpaceX effort to block move of NLRB case back to California [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.txsd.1946370/gov.uscourts.txsd.1946370.131.0.pdf)
+- [Southwest to get rid of open seating, offer extra legroom](https://www.cnbc.com/2024/07/25/southwest-airlines-seat-assignments.html)
+- [Cameo was once valued at $1B](https://www.businessinsider.com/cameo-app-company-fine-settlement-ftc-violation-2024-7)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-- [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
