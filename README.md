@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zulip 9.0: Organized chat for distributed teams](https://blog.zulip.com/2024/07/25/zulip-9-0-released/)
+- [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
 - [A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution)
 - [&#39;New El Nino&#39; discovered south of equator](https://www.reading.ac.uk/news/2024/Research-News/New-El-Nino-discovered-south-of-equator)
-- [C# almost has implicit interfaces](https://clipperhouse.com/c-sharp-implicit-interfaces/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- [How Phones Are Making Parents the Anxious Generation](https://www.afterbabel.com/p/parents-are-the-anxious-generation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
