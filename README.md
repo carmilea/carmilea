@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sample &lpar;YC W24&rpar; Is Hiring](https://news.ycombinator.com/item?id=41080222)
-- [The Incredible Machine &lpar;1993&rpar;](https://www.myabandonware.com/game/the-incredible-machine-1mg/play-1mg)
-- [Skip and Arc&#39;teryx built a futuristic exoskeleton](https://www.fastcompany.com/91159743/skip-and-arcteryx-built-an-amazing-new-exoskeleton-heres-what-its-like-to-walk-in-it)
-- [Stripe Acquires Lemon Squeezy](https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy)
-- [Scaling One Million Checkboxes to 650M checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
+- [Where should visual programming go?](https://tonsky.me/blog/diagrams/)
+- [Repulsive Shells [video]](https://www.youtube.com/watch?v=qDM6bCt1Gic)
+- [Call the compiler, fax it your code [video]](https://www.youtube.com/watch?v=pJ-25-pRhpY)
+- [A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
+- [Finding a random seed that solves a LeetCode problem &lpar;2023&rpar;](https://mcognetta.github.io/posts/leetcode-random-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
