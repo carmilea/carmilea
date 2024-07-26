@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [American Suburbs Are a Horror Movie and We&#39;re the Protagonists](https://www.strongtowns.org/journal/2022/1/13/american-suburbs-are-a-horror-movie-and-were-the-protagonists)
 - [&#39;New El Nino&#39; discovered south of equator](https://www.reading.ac.uk/news/2024/Research-News/New-El-Nino-discovered-south-of-equator)
 - [C# almost has implicit interfaces](https://clipperhouse.com/c-sharp-implicit-interfaces/)
 - [Cameo was once valued at $1B](https://www.businessinsider.com/cameo-app-company-fine-settlement-ftc-violation-2024-7)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
