@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Guish: Write shell pipelines at the command line with a GUI editor](https://github.com/williamcotton/guish)
+- [Better Firmware with LLVM/Clang](https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang)
+- [IRS collects milestone $1B in back taxes from high-wealth taxpayers](https://apnews.com/article/irs-audits-wealthy-taxes-biden-treasury-b12a48b200834a7c9a04dc293e3273c2)
 - [Windows Recovery Environment and Bootable USB Creator in 200KB](https://github.com/joshuacline/windick)
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 - [How Large Language Models Will Disrupt Data Management [pdf]](https://www.vldb.org/pvldb/vol16/p3302-fernandez.pdf)
-- [GCVR &lpar;YC W22&rpar; Is Hiring Lead Back End Engineer &lpar;Sr/Staff/Principal&rpar;](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer-senior-staff-principal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
