@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Better Firmware with LLVM/Clang](https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang)
 - [IRS collects milestone $1B in back taxes from high-wealth taxpayers](https://apnews.com/article/irs-audits-wealthy-taxes-biden-treasury-b12a48b200834a7c9a04dc293e3273c2)
-- [Windows Recovery Environment and Bootable USB Creator in 200KB](https://github.com/joshuacline/windick)
+- [Taking a Radio Camping](https://ewpratten.com/blog/camping-radio/)
+- [Windows recovery environment and bootable USB creator in 200kb](https://github.com/joshuacline/windick)
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
-- [How Large Language Models Will Disrupt Data Management [pdf]](https://www.vldb.org/pvldb/vol16/p3302-fernandez.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
