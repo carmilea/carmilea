@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Few Blockbuster Podcasts Are Making All the Money](https://www.wsj.com/business/media/a-few-blockbuster-podcasts-are-making-all-the-money-d9cee36e)
-- [Calculus for Beginners and Artists](https://math.mit.edu/~djk/calculus_beginners/)
-- [U.S. shelves $300M &#39;real-world&#39; data platform for Alzheimer&#39;s](https://www.science.org/content/article/u-s-shelves-300-million-real-world-data-platform-alzheimer-s)
-- [Google reported a 13% increase in its emissions footprint in 2023](https://indianexpress.com/article/explained/explained-sci-tech/why-ais-present-and-future-bring-some-serious-environmental-concerns-9476135/)
-- [A man who forgot about his own wedding](https://boogiemath.org/meta/meta-9.html)
+- [Justice Dept. says TikTok collects US user views on abortion and gun control](https://apnews.com/article/tiktok-bytedance-censorship-us-data-240e11d9bb6212b0c9b1adab821e5005)
+- [Ask HN: What&#39;s an appropriate compensation counter offer in London 2024?](https://news.ycombinator.com/item?id=41086847)
+- [Bashsimplecurses: Simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
+- [Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
+- [Oscar Zariski  was one of the founders of modern algebraic geometry](https://boogiemath.org/meta/meta-9.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
