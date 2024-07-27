@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America&#39;s 60-Year-Olds Are Staring at Financial Peril](https://www.msn.com/en-us/money/retirement/america-s-60-year-olds-are-staring-at-financial-peril/ar-BB1qrHXP)
+- [Roguecraft Devs on Developing for Amiga in 2024](https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024)
 - [Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
-- [Workbrew](https://workbrew.com/)
 - [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
 - [An Interview with Robert Caro and Kurt Vonnegut &lpar;1999&rpar;](https://www.robertcaro.org/post/an-interview-with-robert-caro-and-kurt-vonnegut)
+- [Show HN: Semantic Grep – A Word2Vec-powered search tool](https://github.com/arunsupe/semantic-grep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
