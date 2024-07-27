@@ -60,7 +60,7 @@
 - [Substack &lpar;YC W18&rpar; Is Hiring Systems Engineers](https://grnh.se/4f362fed5us)
 - [Sqlitefs: SQLite as a Filesystem](https://github.com/narumatt/sqlitefs)
 - [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
-- [Was early modern writing paper expensive? &lpar;2018]](https://www.rpvl.cz/en/)
+- [Was early modern writing paper expensive? &lpar;2018&rpar;](https://www.rpvl.cz/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
