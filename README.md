@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twenty &lpar;YC S23&rpar; Is Hiring a Software Engineer in Paris](https://www.ycombinator.com/companies/twenty/jobs/b1Uku7w-senior-software-engineer)
+- [In the Beginning Was the Command Line](https://web.stanford.edu/class/cs81n/command.txt)
 - [Better Firmware with LLVM/Clang](https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang)
 - [IRS collects milestone $1B in back taxes from high-wealth taxpayers](https://apnews.com/article/irs-audits-wealthy-taxes-biden-treasury-b12a48b200834a7c9a04dc293e3273c2)
 - [Taking a Radio Camping](https://ewpratten.com/blog/camping-radio/)
-- [Windows recovery environment and bootable USB creator in 200kb](https://github.com/joshuacline/windick)
-- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
