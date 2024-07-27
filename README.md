@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT 11.350 – Sustainable Real Estate](https://ocw.mit.edu/courses/11-350-sustainable-real-estate-spring-2023/)
-- [Apex Surplus – a movie industry props and parts source](https://apexsurplus.com)
-- [Funtoo Linux is shutting down](https://forums.funtoo.org/topic/5182-all-good-things-must-come-to-an-end/)
-- [Deep Learning Interviews](https://arxiv.org/abs/2201.00650)
-- [Crooks Bypassed Google&#39;s Email Verification to Create Workspace Accounts, Acces](https://krebsonsecurity.com/2024/07/crooks-bypassed-googles-email-verification-to-create-workspace-accounts-access-3rd-party-services/)
+- [GCVR &lpar;YC W22&rpar; Is Hiring Lead Back End Engineer &lpar;Sr/Staff/Principal&rpar;](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer-senior-staff-principal)
+- [Courts Close the Loophole Letting the Feds Search Your Phone at the Border](https://reason.com/2024/07/26/courts-close-the-loophole-letting-the-feds-search-your-phone-at-the-border/)
+- [MIT 11.350: Sustainable Real Estate](https://ocw.mit.edu/courses/11-350-sustainable-real-estate-spring-2023/)
+- [Intel confirms no recall for Raptor Lake CPUs,microcode won&#39;t fix affected units](https://videocardz.com/newz/intel-confirms-no-recall-for-raptor-lake-cpus-microcode-wont-fix-affected-units)
+- [Apex Surplus – A movie industry props and parts source](https://apexsurplus.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
