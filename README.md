@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Large Language Models Will Disrupt Data Management [pdf]](https://www.vldb.org/pvldb/vol16/p3302-fernandez.pdf)
 - [GCVR &lpar;YC W22&rpar; Is Hiring Lead Back End Engineer &lpar;Sr/Staff/Principal&rpar;](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer-senior-staff-principal)
+- [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 - [Courts Close the Loophole Letting the Feds Search Your Phone at the Border](https://reason.com/2024/07/26/courts-close-the-loophole-letting-the-feds-search-your-phone-at-the-border/)
 - [MIT 11.350: Sustainable Real Estate](https://ocw.mit.edu/courses/11-350-sustainable-real-estate-spring-2023/)
-- [Intel confirms no recall for Raptor Lake CPUs,microcode won&#39;t fix affected units](https://videocardz.com/newz/intel-confirms-no-recall-for-raptor-lake-cpus-microcode-wont-fix-affected-units)
-- [Apex Surplus – A movie industry props and parts source](https://apexsurplus.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
