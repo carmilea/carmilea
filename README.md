@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Tech says AI is booming. Wall Street is starting to see a bubble](https://www.washingtonpost.com/technology/2024/07/24/ai-bubble-big-tech-stocks-goldman-sachs/)
+- [Aphex Twin gave us a peek inside a 90s classic &lpar;2017&rpar;](https://cdm.link/2017/07/aphex-twin-gave-us-peek-inside-90s-classic-heres-learned/)
+- [An experiment in UI density created with Svelte](https://cybernetic.dev/grid)
+- [How Soon Might the Atlantic Ocean Break? Two Sibling Scientists Found an Answer](https://www.wired.com/story/amoc-collapse-atlantic-ocean/)
 - [One German city developed – and then lost – generations of math geniuses](https://theconversation.com/how-one-german-city-developed-and-then-lost-generations-of-math-geniuses-106750)
 - [Abstract Interpretation in the Toy Optimizer](https://bernsteinbear.com/blog/toy-abstract-interpretation/)
-- [Why the US still needs the F-15 [video]](https://www.youtube.com/watch?v=pIdzBDN3YZ4)
-- [Bashsimplecurses: Simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
 <!-- BLOG-POST-LIST:END -->
 
 ---
