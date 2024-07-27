@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aphex Twin gave us a peek inside a 90s classic &lpar;2017&rpar;](https://cdm.link/2017/07/aphex-twin-gave-us-peek-inside-90s-classic-heres-learned/)
-- [An experiment in UI density created with Svelte](https://cybernetic.dev/grid)
-- [How Soon Might the Atlantic Ocean Break? Two Sibling Scientists Found an Answer](https://www.wired.com/story/amoc-collapse-atlantic-ocean/)
-- [One German city developed – and then lost – generations of math geniuses](https://theconversation.com/how-one-german-city-developed-and-then-lost-generations-of-math-geniuses-106750)
-- [Abstract Interpretation in the Toy Optimizer](https://bernsteinbear.com/blog/toy-abstract-interpretation/)
+- [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
+- [Texas woman gets 15 years for stealing $109M from Army to buy mansions, cars](https://www.usatoday.com/story/news/nation/2024/07/24/janet-yamanaka-mello-texas-army-fraud-case-sentencing/74535623007/)
+- [Weight-loss drugs are causing people to spend less at the grocery store: study](https://nypost.com/2024/07/27/lifestyle/weight-loss-drugs-eat-into-grocery-basket/)
+- [An Interview with Robert Caro and Kurt Vonnegut &lpar;1999&rpar;](https://www.robertcaro.org/post/an-interview-with-robert-caro-and-kurt-vonnegut)
+- [Show HN: Semantic Grep – A Word2Vec-powered search tool](https://github.com/arunsupe/semantic-grep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
