@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America&#39;s 60-Year-Olds Are Staring at Financial Peril](https://www.msn.com/en-us/money/retirement/america-s-60-year-olds-are-staring-at-financial-peril/ar-BB1qrHXP)
+- [Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
+- [Workbrew](https://workbrew.com/)
 - [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
-- [Texas woman gets 15 years for stealing $109M from Army to buy mansions, cars](https://www.usatoday.com/story/news/nation/2024/07/24/janet-yamanaka-mello-texas-army-fraud-case-sentencing/74535623007/)
-- [Weight-loss drugs are causing people to spend less at the grocery store: study](https://nypost.com/2024/07/27/lifestyle/weight-loss-drugs-eat-into-grocery-basket/)
 - [An Interview with Robert Caro and Kurt Vonnegut &lpar;1999&rpar;](https://www.robertcaro.org/post/an-interview-with-robert-caro-and-kurt-vonnegut)
-- [Show HN: Semantic Grep – A Word2Vec-powered search tool](https://github.com/arunsupe/semantic-grep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
