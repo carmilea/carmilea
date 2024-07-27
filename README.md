@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Justice Dept. says TikTok collects US user views on abortion and gun control](https://apnews.com/article/tiktok-bytedance-censorship-us-data-240e11d9bb6212b0c9b1adab821e5005)
-- [Ask HN: What&#39;s an appropriate compensation counter offer in London 2024?](https://news.ycombinator.com/item?id=41086847)
+- [Oh man! Our entire team has been replaced by Vietnam developers.](https://old.reddit.com/r/developersIndia/comments/1eckee9/oh_man_our_entire_team_has_been_replaced_by/)
+- [Adobe exec compared Creative Cloud cancellation fees to &#39;heroin&#39;](https://www.theverge.com/2024/7/25/24205774/adobe-ftc-lawsuit-creative-cloud-cancellation-fees-heroin)
+- [Abstract Interpretation in the Toy Optimizer](https://bernsteinbear.com/blog/toy-abstract-interpretation/)
+- [Why the US still needs the F-15 [video]](https://www.youtube.com/watch?v=pIdzBDN3YZ4)
 - [Bashsimplecurses: Simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
-- [Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
-- [Oscar Zariski  was one of the founders of modern algebraic geometry](https://boogiemath.org/meta/meta-9.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
