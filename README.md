@@ -56,8 +56,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oh man! Our entire team has been replaced by Vietnam developers.](https://old.reddit.com/r/developersIndia/comments/1eckee9/oh_man_our_entire_team_has_been_replaced_by/)
-- [Adobe exec compared Creative Cloud cancellation fees to &#39;heroin&#39;](https://www.theverge.com/2024/7/25/24205774/adobe-ftc-lawsuit-creative-cloud-cancellation-fees-heroin)
+- [Big Tech says AI is booming. Wall Street is starting to see a bubble](https://www.washingtonpost.com/technology/2024/07/24/ai-bubble-big-tech-stocks-goldman-sachs/)
+- [One German city developed – and then lost – generations of math geniuses](https://theconversation.com/how-one-german-city-developed-and-then-lost-generations-of-math-geniuses-106750)
 - [Abstract Interpretation in the Toy Optimizer](https://bernsteinbear.com/blog/toy-abstract-interpretation/)
 - [Why the US still needs the F-15 [video]](https://www.youtube.com/watch?v=pIdzBDN3YZ4)
 - [Bashsimplecurses: Simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
