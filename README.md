@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Few Blockbuster Podcasts Are Making All the Money](https://www.wsj.com/business/media/a-few-blockbuster-podcasts-are-making-all-the-money-d9cee36e)
+- [Calculus for Beginners and Artists](https://math.mit.edu/~djk/calculus_beginners/)
+- [U.S. shelves $300M &#39;real-world&#39; data platform for Alzheimer&#39;s](https://www.science.org/content/article/u-s-shelves-300-million-real-world-data-platform-alzheimer-s)
+- [Google reported a 13% increase in its emissions footprint in 2023](https://indianexpress.com/article/explained/explained-sci-tech/why-ais-present-and-future-bring-some-serious-environmental-concerns-9476135/)
 - [A man who forgot about his own wedding](https://boogiemath.org/meta/meta-9.html)
-- [Substack &lpar;YC W18&rpar; Is Hiring Systems Engineers](https://grnh.se/4f362fed5us)
-- [Sqlitefs: SQLite as a Filesystem](https://github.com/narumatt/sqlitefs)
-- [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
-- [Was early modern writing paper expensive? &lpar;2018&rpar;](https://www.rpvl.cz/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
