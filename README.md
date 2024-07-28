@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why many studies wrongly claim it&#39;s healthy to drink a little alcohol](https://www.newscientist.com/article/2441154-why-many-studies-wrongly-claim-its-healthy-to-drink-a-little-alcohol/)
+- [As the Great Salt Lake dries up, it is emitting millions of tons of of CO2](https://text.npr.org/nx-s1-5054329)
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff+ Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [Hiding in plain sight: Modifying process names in Unix-like systems](https://doubleagent.net/process-name-stomping/)
-- [The irrational hungry judge effect revisited](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58)
-- [StreamPot: Run FFmpeg as an API with fluent-FFmpeg compatibility, queues and S3](https://github.com/StreamPot/StreamPot)
-- [How to Debug Your Battery](https://github.com/ionworks/how-to-debug-your-battery)
+- [Surprising element found in Tycho Brahe&#39;s alchemy lab confounds scientists](https://www.cnn.com/2024/07/27/science/tycho-brahe-alchemy-lab-tungsten/index.html)
+- [CalcGPT](https://calcgpt.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
