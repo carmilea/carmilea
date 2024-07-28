@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Contra Zuckerberg on &#39;Open Source AI&#39;](https://far.in.net/zuckerberg)
-- [Roguecraft Devs on Developing for Amiga in 2024](https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024)
-- [Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
-- [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
-- [An Interview with Robert Caro and Kurt Vonnegut &lpar;1999&rpar;](https://www.robertcaro.org/post/an-interview-with-robert-caro-and-kurt-vonnegut)
+- [How did Facebook intercept their competitor&#39;s encrypted mobile app traffic?](https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/)
+- [Plan 9 Is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/)
+- [Hosting the Olympics has become financially untenable, economists say](https://www.cnn.com/2024/07/26/economy/olympics-economics-paris-2024/index.html)
+- [Lessons from Ancient File Systems](http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html)
+- [Intel N100 Radxa X4 First Thoughts](https://bret.dk/intel-n100-radxa-x4-first-thoughts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
