@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [FurtherAI &lpar;YC W24&rpar; Is Hiring Founding Software Engineers in Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
-- [Don&#39;t blindly prefer `emplace_back` to `push_back` in C++](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)
-- [CrowdStrike offers partners $10 vouchers to say sorry – and they don&#39;t work](https://news.sky.com/story/crowdstrike-company-that-caused-global-techno-meltdown-offers-partners-10-vouchers-to-say-sorry-and-they-dont-work-13184488)
+- [Show HN: A football/soccer pass visualizer made with Three.js](https://statsbomb-3d-viz.vercel.app/)
+- [Don&#39;t blindly prefer `emplace_back` to `push_back`](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)
+- [Apple Intelligence to Miss Initial iOS 18 Launch](https://www.bloomberg.com/news/articles/2024-07-28/apple-intelligence-to-miss-initial-release-of-upcoming-ios-18-ipados-overhauls)
 - [Microsoft technical breakdown of CrowdStrike incident](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
-- [An Approach to the Fundamental Theory of Physics](https://www.wolframphysics.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
