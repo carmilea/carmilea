@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why many studies wrongly claim it&#39;s healthy to drink a little alcohol](https://www.newscientist.com/article/2441154-why-many-studies-wrongly-claim-its-healthy-to-drink-a-little-alcohol/)
-- [As the Great Salt Lake dries up, it is emitting millions of tons of of CO2](https://text.npr.org/nx-s1-5054329)
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff+ Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [Surprising element found in Tycho Brahe&#39;s alchemy lab confounds scientists](https://www.cnn.com/2024/07/27/science/tycho-brahe-alchemy-lab-tungsten/index.html)
-- [CalcGPT](https://calcgpt.io/)
+- [More Than Half of Teslas Are Being Traded in for Gas Cars](https://www.edmunds.com/car-news/tesla-trade-in-data-gas-cars.html)
+- [NASA nears decision on what to do with Boeing&#39;s troubled Starliner spacecraft](https://arstechnica.com/space/2024/07/nasa-nears-decision-on-what-to-do-with-boeings-troubled-starliner-spacecraft/)
+- [My Obsidian Note-Taking Workflow](https://www.ssp.sh/blog/obsidian-note-taking-workflow/)
+- [Rent control effects: An almost complete review of the literature](https://www.sciencedirect.com/science/article/pii/S1051137724000020)
+- [1% of people are responsible for 24% of the health spending in America](https://twitter.com/cremieuxrecueil/status/1817249178017321257)
 <!-- BLOG-POST-LIST:END -->
 
 ---
