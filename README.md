@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hiding in plain sight: Modifying process names in Unix-like systems](https://doubleagent.net/process-name-stomping/)
 - [The irrational hungry judge effect revisited](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58)
 - [Terminator: What&#39;s in a Name? &lpar;2015&rpar;](https://gnometerminator.blogspot.com/2015/09/whats-in-name.html)
 - [A List of companies that use Array Languages &lpar;J, K, APL, q&rpar;](https://github.com/interregna/arraylanguage-companies)
 - [How to Debug Your Battery](https://github.com/ionworks/how-to-debug-your-battery)
-- [Fish in remote tank made into fractals with Video Feedback Device [video]](https://www.youtube.com/watch?v=KqHgCx4Lk_w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
