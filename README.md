@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Moon Is Made of Cheese](https://fakepaper.app/)
+- [Dining Critic Tries Nutraloaf, the Prison Food for Misbehaving Inmates &lpar;2010]](https://www.chicagomag.com/chicago-magazine/september-2010/dining-critic-tries-nutraloaf-the-prison-food-for-misbehaving-inmates/)
+- [An ordinary day with a Linux mobile device](https://dimitris.cc/posts/an-ordinary-day-with-a-linux-mobile-device.html)
+- [What we would&#39;ve done differently in the first year of bootstrapping our company](https://foundersconfidential418.substack.com/p/what-we-wouldve-done-differently)
 - [Complex systems emerge from simple rules](https://tecnica.substack.com/p/complex-systems-emerge-from-simple)
-- [How Simultaneous Multithreading Works Under the Hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
-- [What Visa earnings tell us about the state of the payments industry](https://www.popularfintech.com/p/what-visa-earnings-really-tell-us)
-- [Show HN: CeLLama – Single cell annotation with local Large Language Models](https://github.com/CelVoxes/ceLLama)
-- [My favorite tools and techniques for procedural gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
