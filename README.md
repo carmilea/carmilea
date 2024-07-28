@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Moon Is Made of Cheese](https://fakepaper.app/)
-- [Dining Critic Tries Nutraloaf, the Prison Food for Misbehaving Inmates &lpar;2010]](https://www.chicagomag.com/chicago-magazine/september-2010/dining-critic-tries-nutraloaf-the-prison-food-for-misbehaving-inmates/)
-- [An ordinary day with a Linux mobile device](https://dimitris.cc/posts/an-ordinary-day-with-a-linux-mobile-device.html)
+- [How can a time traveler encrypt info so it&#39;s only decryptable after a given date](https://worldbuilding.stackexchange.com/questions/260342/what-can-a-time-traveler-use-to-generate-an-encryption-key-to-encrypt-informatio)
+- [Fake Paper Generator](https://fakepaper.app/)
+- [Stanhope &lpar;optical bijou&rpar;](https://en.wikipedia.org/wiki/Stanhope_(optical_bijou))
 - [What we would&#39;ve done differently in the first year of bootstrapping our company](https://foundersconfidential418.substack.com/p/what-we-wouldve-done-differently)
-- [Complex systems emerge from simple rules](https://tecnica.substack.com/p/complex-systems-emerge-from-simple)
+- [How simultaneous multithreading works under the hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 <!-- BLOG-POST-LIST:END -->
 
 ---
