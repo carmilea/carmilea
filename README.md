@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Terminator: What&#39;s in a Name? &lpar;2015&rpar;](https://gnometerminator.blogspot.com/2015/09/whats-in-name.html)
+- [A List of companies that use Array Languages &lpar;J, K, APL, q&rpar;](https://github.com/interregna/arraylanguage-companies)
 - [How to Debug Your Battery](https://github.com/ionworks/how-to-debug-your-battery)
 - [Fish in remote tank made into fractals with Video Feedback Device [video]](https://www.youtube.com/watch?v=KqHgCx4Lk_w)
 - [How did Facebook intercept their competitor&#39;s encrypted mobile app traffic?](https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/)
-- [Plan 9 is a uniquely complete operating system](https://posixcafe.org/blogs/2024/07/27/0/)
-- [Apple has reached its first-ever union contract with store employees in Maryland](https://apnews.com/article/apple-union-contract-maryland-store-f9884d978bf3129c37726dd7978392a5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
