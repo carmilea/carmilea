@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FurtherAI &lpar;YC W24&rpar; Is Hiring Founding Software Engineers in Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
+- [Don&#39;t blindly prefer `emplace_back` to `push_back` in C++](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)
+- [CrowdStrike offers partners $10 vouchers to say sorry – and they don&#39;t work](https://news.sky.com/story/crowdstrike-company-that-caused-global-techno-meltdown-offers-partners-10-vouchers-to-say-sorry-and-they-dont-work-13184488)
 - [Microsoft technical breakdown of CrowdStrike incident](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
 - [An Approach to the Fundamental Theory of Physics](https://www.wolframphysics.org/)
-- [William James and a Theory of Thinking &lpar;2004&rpar; [pdf]](https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1129&context=jitta)
-- [Italy&#39;s &quot;Sun Motorway&quot;: the story of an exceptional infrastructure](https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html)
-- [What we would&#39;ve done differently in the first year of bootstrapping our company](https://foundersconfidential418.substack.com/p/what-we-wouldve-done-differently)
 <!-- BLOG-POST-LIST:END -->
 
 ---
