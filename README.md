@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How can a time traveler encrypt info so it&#39;s only decryptable after a given date](https://worldbuilding.stackexchange.com/questions/260342/what-can-a-time-traveler-use-to-generate-an-encryption-key-to-encrypt-informatio)
-- [Fake Paper Generator](https://fakepaper.app/)
-- [Stanhope &lpar;optical bijou&rpar;](https://en.wikipedia.org/wiki/Stanhope_(optical_bijou))
-- [What we would&#39;ve done differently in the first year of bootstrapping our company](https://foundersconfidential418.substack.com/p/what-we-wouldve-done-differently)
-- [How simultaneous multithreading works under the hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
+- [William James and a Theory of Thinking [pdf]](https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1129&context=jitta)
+- [Why the future of AI is neurosymbolic. &lpar;A rare optimistic post from Gary Marcus&rpar;](https://garymarcus.substack.com/p/alphaproof-alphageometry-chatgpt)
+- [Local library has decades old server running,and they don&#39;t know what it&#39;s doing](https://old.reddit.com/r/selfhosted/comments/1ee95ps/local_library_has_decades_old_server_running_and/)
+- [A plot of all objects in the universe](https://kottke.org/23/09/the-plot-of-all-objects-in-the-universe)
+- [Alzheimer&#39;s blood test catches 90% of early dementia cases, study finds](https://www.cnn.com/2024/07/28/health/alzheimer-blood-test-p-tau-217-wellness/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
