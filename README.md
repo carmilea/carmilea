@@ -59,8 +59,8 @@
 - [How to Debug Your Battery](https://github.com/ionworks/how-to-debug-your-battery)
 - [Fish in remote tank made into fractals with Video Feedback Device [video]](https://www.youtube.com/watch?v=KqHgCx4Lk_w)
 - [How did Facebook intercept their competitor&#39;s encrypted mobile app traffic?](https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/)
-- [Plan 9 Is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/)
-- [Intel N100 Radxa X4 First Thoughts](https://bret.dk/intel-n100-radxa-x4-first-thoughts/)
+- [Plan 9 is a uniquely complete operating system](https://posixcafe.org/blogs/2024/07/27/0/)
+- [Apple has reached its first-ever union contract with store employees in Maryland](https://apnews.com/article/apple-union-contract-maryland-store-f9884d978bf3129c37726dd7978392a5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
