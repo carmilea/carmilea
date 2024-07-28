@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [More Than Half of Teslas Are Being Traded in for Gas Cars](https://www.edmunds.com/car-news/tesla-trade-in-data-gas-cars.html)
-- [NASA nears decision on what to do with Boeing&#39;s troubled Starliner spacecraft](https://arstechnica.com/space/2024/07/nasa-nears-decision-on-what-to-do-with-boeings-troubled-starliner-spacecraft/)
-- [My Obsidian Note-Taking Workflow](https://www.ssp.sh/blog/obsidian-note-taking-workflow/)
-- [Rent control effects: An almost complete review of the literature](https://www.sciencedirect.com/science/article/pii/S1051137724000020)
-- [1% of people are responsible for 24% of the health spending in America](https://twitter.com/cremieuxrecueil/status/1817249178017321257)
+- [Non-Obvious Prompt Engineering Guide](https://www.techsistence.com/p/non-obvious-prompt-engineering-guide)
+- [Show HN: CeLLama – Single cell annotation with local Large Language Models](https://github.com/CelVoxes/ceLLama)
+- [My favorite tools and techniques for procedural gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
+- [Why many studies wrongly claim it&#39;s healthy to drink a little alcohol](https://www.newscientist.com/article/2441154-why-many-studies-wrongly-claim-its-healthy-to-drink-a-little-alcohol/)
+- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff+ Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 <!-- BLOG-POST-LIST:END -->
 
 ---
