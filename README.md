@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [William James and a Theory of Thinking [pdf]](https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1129&context=jitta)
-- [Why the future of AI is neurosymbolic. &lpar;A rare optimistic post from Gary Marcus&rpar;](https://garymarcus.substack.com/p/alphaproof-alphageometry-chatgpt)
-- [Local library has decades old server running,and they don&#39;t know what it&#39;s doing](https://old.reddit.com/r/selfhosted/comments/1ee95ps/local_library_has_decades_old_server_running_and/)
-- [A plot of all objects in the universe](https://kottke.org/23/09/the-plot-of-all-objects-in-the-universe)
-- [Alzheimer&#39;s blood test catches 90% of early dementia cases, study finds](https://www.cnn.com/2024/07/28/health/alzheimer-blood-test-p-tau-217-wellness/index.html)
+- [Microsoft technical breakdown of CrowdStrike incident](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
+- [An Approach to the Fundamental Theory of Physics](https://www.wolframphysics.org/)
+- [William James and a Theory of Thinking &lpar;2004&rpar; [pdf]](https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1129&context=jitta)
+- [Italy&#39;s &quot;Sun Motorway&quot;: the story of an exceptional infrastructure](https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html)
+- [What we would&#39;ve done differently in the first year of bootstrapping our company](https://foundersconfidential418.substack.com/p/what-we-wouldve-done-differently)
 <!-- BLOG-POST-LIST:END -->
 
 ---
