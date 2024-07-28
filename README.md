@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Non-Obvious Prompt Engineering Guide](https://www.techsistence.com/p/non-obvious-prompt-engineering-guide)
+- [Complex systems emerge from simple rules](https://tecnica.substack.com/p/complex-systems-emerge-from-simple)
+- [How Simultaneous Multithreading Works Under the Hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
+- [What Visa earnings tell us about the state of the payments industry](https://www.popularfintech.com/p/what-visa-earnings-really-tell-us)
 - [Show HN: CeLLama – Single cell annotation with local Large Language Models](https://github.com/CelVoxes/ceLLama)
 - [My favorite tools and techniques for procedural gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
-- [Why many studies wrongly claim it&#39;s healthy to drink a little alcohol](https://www.newscientist.com/article/2441154-why-many-studies-wrongly-claim-its-healthy-to-drink-a-little-alcohol/)
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff+ Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 <!-- BLOG-POST-LIST:END -->
 
 ---
