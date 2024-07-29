@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I made a porta potty finder for tradesmen](https://spotapot.vercel.app)
-- [New drug shows promise in clearing HIV from brain](https://www.sciencedaily.com/releases/2024/07/240725193914.htm)
-- [Ps aux written in bash without ever forking](https://github.com/izabera/ps)
-- [The Tech of Planetary Annihilation: ChronoCam](https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/)
-- [Why Navajo is one of the most difficult languages &lpar;2023&rpar;](https://bigthink.com/high-culture/navajo-language/)
+- [Secure Boot useless on PCs from major vendors after key leak](https://www.theregister.com/2024/07/29/infosec_roundup/)
+- [Planet eBook: free literature for your device](https://www.planetebook.com/)
+- [Show HN: Vdm, a sane alternative to e.g. Git submodules](https://github.com/opensourcecorp/vdm)
+- [ps aux written in bash without forking](https://github.com/izabera/ps)
+- [The Tech of Planetary Annihilation: ChronoCam &lpar;2013&rpar;](https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
