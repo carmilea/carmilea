@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US border agents must get warrant before phone searches, federal court rules](https://techcrunch.com/2024/07/29/us-border-agents-must-get-warrant-before-cell-phone-searches-federal-court-rules/)
+- [Over 900 artifacts recovered from Ming dynasty shipwreck](https://mymodernmet.com/ming-dynasty-shipwreck/)
+- [Do Penguins Have Knees? &lpar;2019&rpar;](https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/)
+- [Critical Bug in Docker Engine Allowed Attackers to Bypass Authorization Plugins](https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html)
 - [Is Cloudflare overcharging us for their images service?](http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/)
-- [An Open Course on LLMs, Led by Practitioners](https://hamel.dev/blog/posts/course/)
-- [Debugging distributed database mysteries with Rust, packet capture and Polars](https://questdb.io/blog/debugging-distributed-database-mysteries-with-rust-pcap-and-polars/)
-- [Launch HN: Roame &lpar;YC S23&rpar; – Flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
-- [Movable tree CRDTs and Loro&#39;s implementation](https://loro.dev/blog/movable-tree)
 <!-- BLOG-POST-LIST:END -->
 
 ---
