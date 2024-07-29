@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [50th anniversary of Vannevar Bush&#39;s passing](https://thetech.com/2024/07/11/anniversary-vannevar-bush-passing)
 - [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
-- [Ask HN: How do you choose a hostname for personal devices?](https://news.ycombinator.com/item?id=41096212)
-- [Higher-kinded bounded polymorphism in OCaml](https://okmij.org/ftp/ML/higher-kind-poly.html)
-- [FurtherAI &lpar;YC W24&rpar; Is Hiring Founding Software Engineers in Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
-- [Show HN: A football/soccer pass visualizer made with Three.js](https://statsbomb-3d-viz.vercel.app/)
+- [Higher-kinded bounded polymorphism in OCaml &lpar;2021&rpar;](https://okmij.org/ftp/ML/higher-kind-poly.html)
+- [Compare 75 AI Models on 200 Prompts Side by Side](https://aimodelreview.com)
+- [FurtherAI &lpar;YC W24&rpar; is hiring founding software engineers in the Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
