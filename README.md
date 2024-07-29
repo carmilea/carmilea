@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CrowdStrike&#39;s impact on aviation](https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html)
+- [Why is it so expensive to make games in the United States?](https://www.gamedeveloper.com/business/why-is-it-so-expensive-to-make-games-in-the-united-states-)
 - [Over 900 artifacts recovered from Ming dynasty shipwreck](https://mymodernmet.com/ming-dynasty-shipwreck/)
 - [Do Penguins Have Knees? &lpar;2019&rpar;](https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/)
 - [Critical Bug in Docker Engine Allowed Attackers to Bypass Authorization Plugins](https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html)
-- [New study simulates gravitational waves from failing warp drive](https://www.aei.mpg.de/1171367/what-no-one-has-seen-before-new-study-simulates-gravitational-waves-from-failing-warp-drive)
-- [Is Cloudflare overcharging us for their images service?](http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
