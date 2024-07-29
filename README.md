@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nearly 2/3 of Home Listings Have Been Sitting on the Market Longer Than a Month](https://www.redfin.com/news/stale-inventory-june-2024/)
-- [Secure Boot useless on PCs from major vendors after key leak](https://www.theregister.com/2024/07/29/infosec_roundup/)
-- [Planet eBook: free literature for your device](https://www.planetebook.com/)
 - [Show HN: Vdm, a sane alternative to e.g. Git submodules](https://github.com/opensourcecorp/vdm)
-- [The ocean floor is covered in naturally-occurring batteries that make oxygen](https://theeggandtherock.com/p/the-deep-ocean-floor-is-covered-in)
+- [ps aux written in bash without forking](https://github.com/izabera/ps)
+- [The Tech of Planetary Annihilation: ChronoCam &lpar;2013&rpar;](https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/)
+- [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
+- [Higher-kinded bounded polymorphism in OCaml &lpar;2021&rpar;](https://okmij.org/ftp/ML/higher-kind-poly.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
