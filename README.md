@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [50th anniversary of Vannevar Bush&#39;s passing](https://thetech.com/2024/07/11/anniversary-vannevar-bush-passing)
+- [Why Navajo is one of the most difficult languages &lpar;2023&rpar;](https://bigthink.com/high-culture/navajo-language/)
 - [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
 - [Higher-kinded bounded polymorphism in OCaml &lpar;2021&rpar;](https://okmij.org/ftp/ML/higher-kind-poly.html)
-- [Compare 75 AI Models on 200 Prompts Side by Side](https://aimodelreview.com)
 - [FurtherAI &lpar;YC W24&rpar; is hiring founding software engineers in the Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
+- [Show HN: A football/soccer pass visualizer made with Three.js](https://statsbomb-3d-viz.vercel.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
