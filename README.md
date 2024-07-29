@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yark: YouTube Archiver with Offline UI](https://github.com/Owez/yark)
-- [New release of Gradient-Free-Optimizers with two new evolutionary algorithms](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
-- [Launch HN: Roame &lpar;YC S23&rpar; – flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
+- [Is Cloudflare overcharging us for their images service?](http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/)
+- [An Open Course on LLMs, Led by Practitioners](https://hamel.dev/blog/posts/course/)
+- [Launch HN: Roame &lpar;YC S23&rpar; – Flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
 - [Movable tree CRDTs and Loro&#39;s implementation](https://loro.dev/blog/movable-tree)
 - [Confido &lpar;YC S21&rpar; Is Hiring](https://news.ycombinator.com/item?id=41099743)
 <!-- BLOG-POST-LIST:END -->
