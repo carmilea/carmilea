@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Is Cloudflare overcharging us for their images service?](http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/)
 - [An Open Course on LLMs, Led by Practitioners](https://hamel.dev/blog/posts/course/)
+- [Debugging distributed database mysteries with Rust, packet capture and Polars](https://questdb.io/blog/debugging-distributed-database-mysteries-with-rust-pcap-and-polars/)
 - [Launch HN: Roame &lpar;YC S23&rpar; – Flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
 - [Movable tree CRDTs and Loro&#39;s implementation](https://loro.dev/blog/movable-tree)
-- [Confido &lpar;YC S21&rpar; Is Hiring](https://news.ycombinator.com/item?id=41099743)
 <!-- BLOG-POST-LIST:END -->
 
 ---
