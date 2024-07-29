@@ -60,7 +60,7 @@
 - [Some packages are no longer installable after test command is removed](https://github.com/pypa/setuptools/issues/4519)
 - [Tsoding livestreams trying out C3 &lpar;programming language&rpar; [video]](https://www.youtube.com/watch?v=Qzw1m7PweXs)
 - [Microsoft backs down over rivals&#39; Vista access &lpar;2006&rpar;](https://web.archive.org/web/20061023112233/http://software.silicon.com/security/0,39024655,39163277,00.htm)
-- [Children should be allowed to get bored, expert says &lpar;2013&rpar;](https://www.bbc.com/news/education-21895704)
+- [Happy Macs Gopher Site Back Online](https://happymacs.wordpress.com/2024/07/28/happy-macs-gopher-site-back-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
