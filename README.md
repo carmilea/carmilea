@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a porta potty finder for tradesmen](https://spotapot.vercel.app)
+- [New drug shows promise in clearing HIV from brain](https://www.sciencedaily.com/releases/2024/07/240725193914.htm)
+- [Ps aux written in bash without ever forking](https://github.com/izabera/ps)
+- [The Tech of Planetary Annihilation: ChronoCam](https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/)
 - [Why Navajo is one of the most difficult languages &lpar;2023&rpar;](https://bigthink.com/high-culture/navajo-language/)
-- [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
-- [Higher-kinded bounded polymorphism in OCaml &lpar;2021&rpar;](https://okmij.org/ftp/ML/higher-kind-poly.html)
-- [FurtherAI &lpar;YC W24&rpar; is hiring founding software engineers in the Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
-- [Show HN: A football/soccer pass visualizer made with Three.js](https://statsbomb-3d-viz.vercel.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
