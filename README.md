@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Movable tree CRDTs and Loro&#39;s implementation](https://loro.dev/blog/movable-tree)
 - [Confido &lpar;YC S21&rpar; Is Hiring](https://news.ycombinator.com/item?id=41099743)
 - [The weird and wonderful world of DNS LOC records](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records)
+- [Carving the Super Nintendo Video System](https://fabiensanglard.net/snes_video/index.html)
 - [Pallene: A statically compiled companion language for Lua](https://github.com/pallene-lang/pallene/blob/master/doc/manual.md)
-- [ps aux written in bash without forking](https://github.com/izabera/ps)
-- [The Tech of Planetary Annihilation: ChronoCam &lpar;2013&rpar;](https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
