@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chromium has over 1600 command-line switches](https://peter.sh/experiments/chromium-command-line-switches/)
+- [TreeSeg: Hierarchical Topic Segmentation of Large Transcripts](https://augmend.com/blog/TreeSeg)
+- [Hybrid Search in CrateDB - ranking and scoring calculations in pure SQL](https://cratedb.com/blog/hybrid-search-explained)
 - [CrowdStrike&#39;s impact on aviation](https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html)
-- [Why is it so expensive to make games in the United States?](https://www.gamedeveloper.com/business/why-is-it-so-expensive-to-make-games-in-the-united-states-)
-- [Over 900 artifacts recovered from Ming dynasty shipwreck](https://mymodernmet.com/ming-dynasty-shipwreck/)
-- [Do Penguins Have Knees? &lpar;2019&rpar;](https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/)
-- [Critical Bug in Docker Engine Allowed Attackers to Bypass Authorization Plugins](https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html)
+- [End of an Era: A Message from the Founder as We Announce the Closure of AppleVis](https://www.applevis.com/blog/end-era-message-founder-we-announce-closure-applevis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
