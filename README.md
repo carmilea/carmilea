@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New release of Gradient-Free-Optimizers with two new evolutionary algorithms](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
 - [Movable tree CRDTs and Loro&#39;s implementation](https://loro.dev/blog/movable-tree)
 - [Confido &lpar;YC S21&rpar; Is Hiring](https://news.ycombinator.com/item?id=41099743)
 - [The weird and wonderful world of DNS LOC records](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records)
-- [Carving the Super Nintendo Video System](https://fabiensanglard.net/snes_video/index.html)
-- [Pallene: A statically compiled companion language for Lua](https://github.com/pallene-lang/pallene/blob/master/doc/manual.md)
+- [Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests](https://e10v.me/tea-tasting-analysis-of-experiments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
