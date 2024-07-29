@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Typewise &lpar;YC S22&rpar; Is Hiring a DevOps Engineer &lpar;Europe Timezone&rpar;](https://www.ycombinator.com/companies/typewise/jobs/lXycM81-devops-engineer-f-m-x)
-- [Some packages are no longer installable after test command is removed](https://github.com/pypa/setuptools/issues/4519)
-- [Tsoding livestreams trying out C3 &lpar;programming language&rpar; [video]](https://www.youtube.com/watch?v=Qzw1m7PweXs)
-- [Microsoft backs down over rivals&#39; Vista access &lpar;2006&rpar;](https://web.archive.org/web/20061023112233/http://software.silicon.com/security/0,39024655,39163277,00.htm)
-- [Happy Macs Gopher Site Back Online](https://happymacs.wordpress.com/2024/07/28/happy-macs-gopher-site-back-online/)
+- [Confido &lpar;YC S21&rpar; Is Hiring](https://news.ycombinator.com/item?id=41099743)
+- [The weird and wonderful world of DNS LOC records](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records)
+- [Pallene: A statically compiled companion language for Lua](https://github.com/pallene-lang/pallene/blob/master/doc/manual.md)
+- [ps aux written in bash without forking](https://github.com/izabera/ps)
+- [The Tech of Planetary Annihilation: ChronoCam &lpar;2013&rpar;](https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
