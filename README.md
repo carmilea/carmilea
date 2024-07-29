@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Children should be allowed to get bored, expert says &lpar;2013&rpar;](https://www.bbc.com/news/education-21895704)
+- [Happy Macs Gopher Site Back Online](https://happymacs.wordpress.com/2024/07/28/happy-macs-gopher-site-back-online/)
 - [Show HN: Vdm, a sane alternative to e.g. Git submodules](https://github.com/opensourcecorp/vdm)
 - [ps aux written in bash without forking](https://github.com/izabera/ps)
 - [The Tech of Planetary Annihilation: ChronoCam &lpar;2013&rpar;](https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/)
-- [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
-- [Higher-kinded bounded polymorphism in OCaml &lpar;2021&rpar;](https://okmij.org/ftp/ML/higher-kind-poly.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
