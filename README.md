@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chromium has over 1600 command-line switches](https://peter.sh/experiments/chromium-command-line-switches/)
+- [Memory Efficient Data Streaming to Parquet Files](https://estuary.dev/memory-efficient-streaming-parquet/)
 - [TreeSeg: Hierarchical Topic Segmentation of Large Transcripts](https://augmend.com/blog/TreeSeg)
 - [Hybrid Search in CrateDB - ranking and scoring calculations in pure SQL](https://cratedb.com/blog/hybrid-search-explained)
 - [CrowdStrike&#39;s impact on aviation](https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html)
-- [End of an Era: A Message from the Founder as We Announce the Closure of AppleVis](https://www.applevis.com/blog/end-era-message-founder-we-announce-closure-applevis)
+- [Attribution is dying, clicks are dying](https://sparktoro.com/blog/attribution-is-dying-clicks-are-dying-marketing-is-going-back-to-the-20th-century/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
