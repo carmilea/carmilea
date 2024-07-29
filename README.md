@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yark: YouTube Archiver with Offline UI](https://github.com/Owez/yark)
 - [New release of Gradient-Free-Optimizers with two new evolutionary algorithms](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
+- [Launch HN: Roame &lpar;YC S23&rpar; – flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
 - [Movable tree CRDTs and Loro&#39;s implementation](https://loro.dev/blog/movable-tree)
 - [Confido &lpar;YC S21&rpar; Is Hiring](https://news.ycombinator.com/item?id=41099743)
-- [The weird and wonderful world of DNS LOC records](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records)
-- [Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests](https://e10v.me/tea-tasting-analysis-of-experiments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
