@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomical Accidents, and the Proxima Centauri &#39;Signal&#39; That Wasn&#39;t](https://www.centauri-dreams.org/2024/07/24/on-astronomical-accidents-and-the-proxima-centauri-signal-that-wasnt/)
 - [Functional programming languages should be better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
+- [Fake Job Interviews Are Securities Fraud](https://www.bloomberg.com/opinion/articles/2024-07-30/fake-job-interviews-are-securities-fraud)
 - [Porffor: A from-scratch ahead-of-time JS engine](https://porffor.dev/)
-- [Running the latest Llama 3.1 8B on Raspberry Pi [video]](https://www.youtube.com/watch?v=KcWKTdkUpoQ)
 - [How the electricity markets respond to a nuclear trip](https://blog.gridstatus.io/ercot-nuclear-trip/)
-- [The Hitchhiker&#39;s Guide to Logical Verification [pdf]](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
