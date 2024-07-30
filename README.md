@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Logitech has an idea for a &quot;forever mouse&quot; that requires a subscription](https://arstechnica.com/gadgets/2024/07/logitech-has-an-idea-for-a-forever-mouse-thatrequires-a-subscription/)
+- [Porffor: A from-scratch ahead-of-time JS engine](https://porffor.dev/)
+- [Running the latest Llama 3.1 8B on Raspberry Pi [video]](https://www.youtube.com/watch?v=KcWKTdkUpoQ)
+- [How the electricity markets respond to a nuclear trip](https://blog.gridstatus.io/ercot-nuclear-trip/)
+- [The Hitchhiker&#39;s Guide to Logical Verification [pdf]](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
 - [Meta to pay Texas $1.4B for using facial recognition without users&#39; permission](https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/)
-- [Swift Homomorphic Encryption](https://www.swift.org/blog/announcing-swift-homomorphic-encryption/)
-- [The Truth About Linear Regression &lpar;2015&rpar;](https://www.stat.cmu.edu/~cshalizi/TALR/)
-- [Before LA became Tinseltown, it was an oil town](https://www.noemamag.com/its-oil-that-makes-la-boil/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
