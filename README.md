@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI and the Next Computing Platforms with Jensen Huang and Mark Zuckerberg](https://www.youtube.com/watch?v=w-cmMcMZoZ4)
 - [FTC Wins Round Two in Its Non-Compete Ban Defense](https://www.jdsupra.com/legalnews/ftc-wins-round-two-in-its-non-compete-4112148/)
-- [Is a &#39;slow&#39; swimming pool impeding world records?](https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html)
 - [How to burn US$10M on an ArXiv preprint](https://152334H.github.io/blog/scaling-exponents/)
 - [The lie of music discovery algorithms](https://www.zeynepevecen.dev/writing/music)
-- [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)
+- [Canarytokens: Honeypot for critical credentials, get notified when they are used &lpar;2015&rpar;](https://canarytokens.org/nest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
