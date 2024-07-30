@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft stock drops over 6% after results fall short in AI disappointment](https://finance.yahoo.com/news/microsoft-stock-drops-over-6-after-results-fall-short-in-latest-ai-disappointment-201321390.html)
-- [Coinbase appears to have violated campaign finance laws with 25M donation](https://www.citationneeded.news/coinbase-campaign-finance-violation/)
-- [Disneyland unions agree to &#39;historic&#39; 31% pay raise](https://www.ocregister.com/2024/07/30/disneyland-unions-agree-to-historic-31-pay-raise/)
+- [Our Audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
+- [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
 - [Astronomical Accidents, and the Proxima Centauri &#39;Signal&#39; That Wasn&#39;t](https://www.centauri-dreams.org/2024/07/24/on-astronomical-accidents-and-the-proxima-centauri-signal-that-wasnt/)
 - [Functional programming languages should be better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
+- [Fake job interviews are securities fraud](https://www.bloomberg.com/opinion/articles/2024-07-30/fake-job-interviews-are-securities-fraud)
 <!-- BLOG-POST-LIST:END -->
 
 ---
