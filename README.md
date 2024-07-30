@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Launches AI Studio in US](https://ai.meta.com/ai-studio/)
-- [Making Machines Move](https://fly.io/blog/machine-migrations/)
-- [Was the Internet created to survive a nuclear strike?](https://siliconfolklore.com/internet-history/)
-- [Show HN: A Video Editing SDK That Runs in the Browser](https://rendley.com/)
-- [OpenSSL bug exposed up to 255 bytes of server heap and existed since 2011](https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html)
+- [CSC ServiceWorks laundry machine coin bypass](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml)
+- [California DMV puts 42M car titles on blockchain to fight fraud](https://www.reuters.com/technology/california-dmv-puts-42-million-car-titles-blockchain-fight-fraud-2024-07-30/)
+- [DARPA: Translating All C to Rust &lpar;Tractor&rpar;](https://www.darpa.mil/program/translating-all-c-to-rust)
+- [Microsoft apologises after thousands report new outage](https://www.bbc.co.uk/news/articles/c903e793w74o)
+- [Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?](https://en.osm.town/@Firefishy/112875549871566269)
 <!-- BLOG-POST-LIST:END -->
 
 ---
