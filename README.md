@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811)
-- [Orca: WebAssembly Apps Without the Web](https://orca-app.dev/index.html)
-- [[LLMs] Using agents to not use agents](https://idinsight.github.io/tech-blog/blog/aam_pseudo_agent/)
-- [A.I.-Powered Trap That Zaps Invasive Lanternflies](https://www.smithsonianmag.com/innovation/this-high-schooler-invented-an-ai-powered-trap-that-zaps-invasive-lanternflies-180983918/)
-- [Blood test for colon cancer screening approved by US regulators](https://apnews.com/article/colon-cancer-blood-test-fda-guardant-a2c2cda2cdaa52f081860f0faed1e5cf)
+- [Video is a language for making movies](https://lang.video/)
+- [Lewis H. Lapham, Harper&#39;s Editor and Piercing Columnist, Dies at 89](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
+- [Monetization and Monopolies: How the Internet You Loved Died](https://radicalcontributions.substack.com/p/monetization-amp-monopolies-how-the-internet-you-loved-died)
+- [If We Want a Shift to Walking, We Need to Prioritize Dignity](https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity)
+- [A Visual Guide to LLM Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 <!-- BLOG-POST-LIST:END -->
 
 ---
