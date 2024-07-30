@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Java 21 Virtual Threads – Dude, Where&#39;s My Lock?](https://netflixtechblog.com/java-21-virtual-threads-dude-wheres-my-lock-3052540e231d)
-- [Sam 2: Segment Anything in Images and Videos](https://github.com/facebookresearch/segment-anything-2)
-- [PasteBar – Limitless, Free Clipboard Manager for Mac and Windows. Open Source](https://github.com/PasteBar/PasteBarApp)
-- [Running One-man SaaS for 9 Years](https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/)
-- [How to save $13.27 on your SaaS bill](https://dgerrells.com/blog/how-to-save-13-27-on-your-saas-bill)
+- [What adults lost when kids stopped playing in the street](https://www.theatlantic.com/family/archive/2024/07/play-streets-children-adults/679258/)
+- [Four billion years in four minutes – Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
+- [Sam 2: The next generation of Meta Segment Anything Model](https://ai.meta.com/blog/segment-anything-2/)
+- [LG and Samsung are making TV screens disappear](https://spectrum.ieee.org/transparent-tv)
+- [SAM 2: Segment Anything in Images and Videos](https://github.com/facebookresearch/segment-anything-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
