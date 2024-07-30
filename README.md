@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [White House says no need to restrict &#39;open-source&#39; AI at least for now](https://www.wdtn.com/news/business/ap-business/ap-white-house-says-no-need-to-restrict-open-source-artificial-intelligence-at-least-for-now/)
-- [The Truth About Linear Regression](https://www.stat.cmu.edu/~cshalizi/TALR/)
-- [It&#39;s Oil That Makes LA Boil](https://www.noemamag.com/its-oil-that-makes-la-boil/)
-- [JavaScript Garbage Collection and Closures](https://jakearchibald.com/2024/garbage-collection-and-closures/)
+- [Logitech has an idea for a &quot;forever mouse&quot; that requires a subscription](https://arstechnica.com/gadgets/2024/07/logitech-has-an-idea-for-a-forever-mouse-thatrequires-a-subscription/)
+- [Meta to pay Texas $1.4B for using facial recognition without users&#39; permission](https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/)
+- [Swift Homomorphic Encryption](https://www.swift.org/blog/announcing-swift-homomorphic-encryption/)
+- [The Truth About Linear Regression &lpar;2015&rpar;](https://www.stat.cmu.edu/~cshalizi/TALR/)
+- [Before LA became Tinseltown, it was an oil town](https://www.noemamag.com/its-oil-that-makes-la-boil/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
