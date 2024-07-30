@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CSC ServiceWorks laundry machine coin bypass](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml)
-- [California DMV puts 42M car titles on blockchain to fight fraud](https://www.reuters.com/technology/california-dmv-puts-42-million-car-titles-blockchain-fight-fraud-2024-07-30/)
-- [DARPA: Translating All C to Rust &lpar;Tractor&rpar;](https://www.darpa.mil/program/translating-all-c-to-rust)
-- [Microsoft apologises after thousands report new outage](https://www.bbc.co.uk/news/articles/c903e793w74o)
-- [Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?](https://en.osm.town/@Firefishy/112875549871566269)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [White House says no need to restrict &#39;open-source&#39; AI at least for now](https://www.wdtn.com/news/business/ap-business/ap-white-house-says-no-need-to-restrict-open-source-artificial-intelligence-at-least-for-now/)
+- [The Truth About Linear Regression](https://www.stat.cmu.edu/~cshalizi/TALR/)
+- [It&#39;s Oil That Makes LA Boil](https://www.noemamag.com/its-oil-that-makes-la-boil/)
+- [JavaScript Garbage Collection and Closures](https://jakearchibald.com/2024/garbage-collection-and-closures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
