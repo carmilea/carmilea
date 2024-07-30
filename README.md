@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Port for Fish Shell Is Almost Ready for a Beta Release](https://news.itsfoss.com/fish-shell-rust-beta/)
-- [PGP: The software that changed Internet Privacy and Cryptography](https://www.youtube.com/watch?v=0kcDBe6AkQE)
+- [Was the Internet created to survive a nuclear strike?](https://siliconfolklore.com/internet-history/)
 - [OpenSSL bug exposed up to 255 bytes of server heap and existed since 2011](https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html)
-- [AI and the Next Computing Platforms with Jensen Huang and Mark Zuckerberg](https://www.youtube.com/watch?v=w-cmMcMZoZ4)
-- [Building a YouTube Video Summarizer with LLM and yt-dlp](https://shekhargulati.com/2024/07/30/building-a-youtube-video-summarizer-with-llm-and-yt-dlp/)
+- [How to burn US$10M on an ArXiv preprint](https://152334H.github.io/blog/scaling-exponents/)
+- [Butterflies accumulate static electricity to attract pollen without contact](https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html)
+- [Canarytokens: Honeypot for critical credentials, get notified when they are used &lpar;2015&rpar;](https://canarytokens.org/nest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
