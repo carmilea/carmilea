@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Port for Fish Shell Is Almost Ready for a Beta Release](https://news.itsfoss.com/fish-shell-rust-beta/)
+- [PGP: The software that changed Internet Privacy and Cryptography](https://www.youtube.com/watch?v=0kcDBe6AkQE)
+- [OpenSSL bug exposed up to 255 bytes of server heap and existed since 2011](https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html)
 - [AI and the Next Computing Platforms with Jensen Huang and Mark Zuckerberg](https://www.youtube.com/watch?v=w-cmMcMZoZ4)
-- [FTC Wins Round Two in Its Non-Compete Ban Defense](https://www.jdsupra.com/legalnews/ftc-wins-round-two-in-its-non-compete-4112148/)
-- [How to burn US$10M on an ArXiv preprint](https://152334H.github.io/blog/scaling-exponents/)
-- [The lie of music discovery algorithms](https://www.zeynepevecen.dev/writing/music)
-- [Canarytokens: Honeypot for critical credentials, get notified when they are used &lpar;2015&rpar;](https://canarytokens.org/nest/)
+- [Building a YouTube Video Summarizer with LLM and yt-dlp](https://shekhargulati.com/2024/07/30/building-a-youtube-video-summarizer-with-llm-and-yt-dlp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
