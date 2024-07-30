@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Launches AI Studio in US](https://ai.meta.com/ai-studio/)
+- [Making Machines Move](https://fly.io/blog/machine-migrations/)
 - [Was the Internet created to survive a nuclear strike?](https://siliconfolklore.com/internet-history/)
+- [Show HN: A Video Editing SDK That Runs in the Browser](https://rendley.com/)
 - [OpenSSL bug exposed up to 255 bytes of server heap and existed since 2011](https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html)
-- [How to burn US$10M on an ArXiv preprint](https://152334H.github.io/blog/scaling-exponents/)
-- [Butterflies accumulate static electricity to attract pollen without contact](https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html)
-- [Canarytokens: Honeypot for critical credentials, get notified when they are used &lpar;2015&rpar;](https://canarytokens.org/nest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
