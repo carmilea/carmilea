@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please add a &quot;dark&quot; theme for Hacker News](https://news.ycombinator.com)
-- [Delta to Seek Damages from CrowdStrike](https://www.cnbc.com/2024/07/29/delta-hires-david-boies-to-seek-damages-from-crowdstrike-microsoft-.html)
-- [Four billion years in four minutes – Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
-- [Sam 2: The next generation of Meta Segment Anything Model](https://ai.meta.com/blog/segment-anything-2/)
-- [LG and Samsung are making TV screens disappear](https://spectrum.ieee.org/transparent-tv)
+- [Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811)
+- [Orca: WebAssembly Apps Without the Web](https://orca-app.dev/index.html)
+- [[LLMs] Using agents to not use agents](https://idinsight.github.io/tech-blog/blog/aam_pseudo_agent/)
+- [A.I.-Powered Trap That Zaps Invasive Lanternflies](https://www.smithsonianmag.com/innovation/this-high-schooler-invented-an-ai-powered-trap-that-zaps-invasive-lanternflies-180983918/)
+- [Blood test for colon cancer screening approved by US regulators](https://apnews.com/article/colon-cancer-blood-test-fda-guardant-a2c2cda2cdaa52f081860f0faed1e5cf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
