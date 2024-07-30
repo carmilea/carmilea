@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Jiga &lpar;YC W21&rpar; Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
+- [Ferrari exec foils deepfake attempt by asking a question only CEO could answer](https://fortune.com/2024/07/27/ferrari-deepfake-attempt-scammer-security-question-ceo-benedetto-vigna-cybersecurity-ai/)
 - [All I Know About Certificates – Certificate Authority](https://www.pixelstech.net/article/1722045726-All-I-Know-About-Certificates----Certificate-Authority)
 - [Video is a language for making movies](https://lang.video/)
 - [Lewis Lapham has died](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
-- [Monetization and Monopolies: How the Internet You Loved Died](https://radicalcontributions.substack.com/p/monetization-amp-monopolies-how-the-internet-you-loved-died)
 <!-- BLOG-POST-LIST:END -->
 
 ---
