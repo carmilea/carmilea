@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jiga &lpar;YC W21&rpar; Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
-- [C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)
-- [All I Know About Certificates – Certificate Authority](https://www.pixelstech.net/article/1722045726-All-I-Know-About-Certificates----Certificate-Authority)
-- [Video is a language for making movies](https://lang.video/)
-- [Lewis Lapham has died](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
+- [FTC Wins Round Two in Its Non-Compete Ban Defense](https://www.jdsupra.com/legalnews/ftc-wins-round-two-in-its-non-compete-4112148/)
+- [Is a &#39;slow&#39; swimming pool impeding world records?](https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html)
+- [How to burn US$10M on an ArXiv preprint](https://152334H.github.io/blog/scaling-exponents/)
+- [The lie of music discovery algorithms](https://www.zeynepevecen.dev/writing/music)
+- [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
