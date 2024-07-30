@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Please add a &quot;dark&quot; theme for Hacker News](https://news.ycombinator.com)
+- [Delta to Seek Damages from CrowdStrike](https://www.cnbc.com/2024/07/29/delta-hires-david-boies-to-seek-damages-from-crowdstrike-microsoft-.html)
 - [Four billion years in four minutes – Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
 - [Sam 2: The next generation of Meta Segment Anything Model](https://ai.meta.com/blog/segment-anything-2/)
 - [LG and Samsung are making TV screens disappear](https://spectrum.ieee.org/transparent-tv)
-- [SAM 2: Segment Anything in Images and Videos](https://github.com/facebookresearch/segment-anything-2)
-- [DigiCert Revocation Incident &lpar;CNAME Domain Validation&rpar;](https://www.digicert.com/support/certificate-revocation-incident)
 <!-- BLOG-POST-LIST:END -->
 
 ---
