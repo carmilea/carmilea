@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jiga &lpar;YC W21&rpar; Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
+- [All I Know About Certificates – Certificate Authority](https://www.pixelstech.net/article/1722045726-All-I-Know-About-Certificates----Certificate-Authority)
 - [Video is a language for making movies](https://lang.video/)
 - [Lewis Lapham has died](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
 - [Monetization and Monopolies: How the Internet You Loved Died](https://radicalcontributions.substack.com/p/monetization-amp-monopolies-how-the-internet-you-loved-died)
-- [If We Want a Shift to Walking, We Need to Prioritize Dignity](https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity)
-- [A Visual Guide to LLM Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 <!-- BLOG-POST-LIST:END -->
 
 ---
