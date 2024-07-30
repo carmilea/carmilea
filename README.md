@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Functional programming languages should be better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
 - [Porffor: A from-scratch ahead-of-time JS engine](https://porffor.dev/)
 - [Running the latest Llama 3.1 8B on Raspberry Pi [video]](https://www.youtube.com/watch?v=KcWKTdkUpoQ)
 - [How the electricity markets respond to a nuclear trip](https://blog.gridstatus.io/ercot-nuclear-trip/)
 - [The Hitchhiker&#39;s Guide to Logical Verification [pdf]](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
-- [Meta to pay Texas $1.4B for using facial recognition without users&#39; permission](https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
