@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Common side effects of not drinking](https://medium.com/@k.kozmana/common-side-effects-of-not-drinking-dd44714e619a)
 - [The Impact of AI on Computer Science Education](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)
 - [Cargo Cult Science &lpar;1974&rpar;](https://fermatslibrary.com/s/cargo-cult-science)
 - [Deep-Tempest: Using Deep Learning to Eavesdrop on HDMI](https://arxiv.org/abs/2407.09717)
 - [Rustgo: Calling Rust from Go with near-zero overhead &lpar;2017&rpar;](https://words.filippo.io/rustgo/)
-- [Meta introduces Segment Anything Model 2](https://ai.meta.com/sam2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
