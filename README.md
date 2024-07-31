@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Our Audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
-- [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
-- [Astronomical Accidents, and the Proxima Centauri &#39;Signal&#39; That Wasn&#39;t](https://www.centauri-dreams.org/2024/07/24/on-astronomical-accidents-and-the-proxima-centauri-signal-that-wasnt/)
-- [Functional programming languages should be better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
-- [Fake job interviews are securities fraud](https://www.bloomberg.com/opinion/articles/2024-07-30/fake-job-interviews-are-securities-fraud)
+- [Ngtop – Request analytics from the Nginx access logs](https://github.com/facundoolano/ngtop)
+- [Metaphysical Experiments Probe Our Hidden Assumptions About Reality](https://www.quantamagazine.org/metaphysical-experiments-test-hidden-assumptions-about-reality-20240730)
+- [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
+- [Creativity fundamentally comes from memorization](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
+- [Building static binaries with Go on Linux](https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
