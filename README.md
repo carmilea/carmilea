@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nobody Cares](https://a16z.com/nobody-cares/)
 - [Call of Duty: Warzone Caldera Data Set for Academic Use](https://blog.activision.com/activision/2024/activision-releases-call-of-duty-warzone-caldera-data-set)
 - [Superconducting Microprocessors? Turns Out They&#39;re Ultra-Efficient &lpar;2021&rpar;](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
 - [Ngtop – Request analytics from the Nginx access logs](https://github.com/facundoolano/ngtop)
 - [Metaphysical Experiments Probe Our Hidden Assumptions About Reality](https://www.quantamagazine.org/metaphysical-experiments-test-hidden-assumptions-about-reality-20240730)
-- [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
