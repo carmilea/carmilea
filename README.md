@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Deep-Tempest: Using Deep Learning to Eavesdrop on HDMI](https://arxiv.org/abs/2407.09717)
-- [Rustgo: Calling Rust from Go with near-zero overhead](https://words.filippo.io/rustgo/)
+- [Rustgo: Calling Rust from Go with near-zero overhead &lpar;2017&rpar;](https://words.filippo.io/rustgo/)
+- [Meta introduces Segment Anything Model 2](https://ai.meta.com/sam2/)
 - [macOS in Docker Container](https://github.com/sickcodes/Docker-OSX)
 - [Construction of the AT&amp;T Long Lines &quot;Cheshire&quot; underground site](https://coldwar-ct.com/Home_Page_S1DO.html)
-- [`find` + `mkdir` is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
