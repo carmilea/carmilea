@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After years of leniency, ULA cracks down on hobbyist photographers](https://arstechnica.com/space/2024/07/ula-to-amateur-launch-photographers-work-for-me-but-not-for-thee/)
-- [Meta Has Run Hundreds of Ads for Cocaine, Opioids and Other Drugs](https://www.wsj.com/tech/meta-cocaine-opioids-ads-dea8e0fc)
-- [Nango &lpar;YC W23&rpar; is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
-- [Ampere AmpereOne Aurora 512 Core AI CPU Announced](https://www.servethehome.com/ampere-ampereone-aurora-512-core-ai-cpu-announced-arm/)
-- [Ask HN: Best Tools for Monorepo?](https://news.ycombinator.com/item?id=41120662)
+- [Andi &lpar;YC W22&rpar; is hiring an AI Engineer to build the future of search](https://news.ycombinator.com/item?id=41123416)
+- [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/)
+- [Foobar2000](https://www.foobar2000.org/)
+- [Health Industry Company Sues to Prevent Certificate Revocation](https://www.hezmatt.org/~mpalmer/blog/2024/07/31/healthcare-company-sues-to-stop-certificate-revocation.html)
+- [Heavy metal analysis of dark chocolate and cocoa products in the USA](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1366231/full)
 <!-- BLOG-POST-LIST:END -->
 
 ---
