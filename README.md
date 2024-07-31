@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Prefer RST to Markdown](https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
+- [Jeff Bezos&#39; famed management rules are slowly unraveling inside Amazon](https://fortune.com/2024/07/31/amazon-leadership-principles-questions-future-jeff-bezos-departure-andy-jassy/)
 - [Why the CrowdStrike bug hit banks hard](https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/)
 - [Migrate From Rockset to SingleStore on Google Cloud &lpar;and Get Paid for It!&rpar;](https://www.singlestore.com/blog/migrate-from-rockset-to-singlestore-on-google-cloud-and-get-paid-for-it-)
 - [How Great Was the “Great Oxidation Event”?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
-- [GrapheneOS may take legal action against Google regarding Play Integrity API](https://nitter.poast.org/GrapheneOS/status/1818415391791570995#m)
-- [Robin Warren Has Died](https://www.telegraph.co.uk/obituaries/2024/07/29/robin-warren-nobel-ulcers-helicobacter-obituary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
