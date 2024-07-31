@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Prefer RST to Markdown](https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
-- [Jeff Bezos&#39; famed management rules are slowly unraveling inside Amazon](https://fortune.com/2024/07/31/amazon-leadership-principles-questions-future-jeff-bezos-departure-andy-jassy/)
+- [Nango &lpar;YC W23&rpar; is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
+- [The sinister, shocking rise of dog attacks on postal workers](https://www.theguardian.com/lifeandstyle/article/2024/jul/30/sinister-shocking-rise-of-dog-attacks-on-postal-workers)
+- [The consequences of generative AI for online knowledge communities](https://www.nature.com/articles/s41598-024-61221-0)
+- [I prefer rST to Markdown](https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
 - [Why the CrowdStrike bug hit banks hard](https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/)
-- [Migrate From Rockset to SingleStore on Google Cloud &lpar;and Get Paid for It!&rpar;](https://www.singlestore.com/blog/migrate-from-rockset-to-singlestore-on-google-cloud-and-get-paid-for-it-)
-- [How Great Was the “Great Oxidation Event”?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
 <!-- BLOG-POST-LIST:END -->
 
 ---
