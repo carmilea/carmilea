@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nango &lpar;YC W23&rpar; is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
-- [The sinister, shocking rise of dog attacks on postal workers](https://www.theguardian.com/lifeandstyle/article/2024/jul/30/sinister-shocking-rise-of-dog-attacks-on-postal-workers)
-- [The consequences of generative AI for online knowledge communities](https://www.nature.com/articles/s41598-024-61221-0)
-- [I prefer rST to Markdown](https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
-- [Why the CrowdStrike bug hit banks hard](https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/)
+- [Kamala Harris gets support of more than 100 VCs and tech execs in online pledge](https://www.cnbc.com/2024/07/31/more-than-100-techies-sign-vcs-for-kamala-pledge-backing-vp-harris.html)
+- [Braid: Anniversary Edition &quot;sold like dog s***&quot;, says creator Jonathan Blow](https://www.eurogamer.net/braid-anniversary-edition-sold-like-dog-s-says-creator-jonathan-blow)
+- [After years of leniency, ULA cracks down on hobbyist photographers](https://arstechnica.com/space/2024/07/ula-to-amateur-launch-photographers-work-for-me-but-not-for-thee/)
+- [Stop Destroying Videogames – European Citizens&#39; Initiative](https://citizens-initiative.europa.eu/initiatives/details/2024/000007_en)
+- [Meta Has Run Hundreds of Ads for Cocaine, Opioids and Other Drugs](https://www.wsj.com/tech/meta-cocaine-opioids-ads-dea8e0fc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
