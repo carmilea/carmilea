@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Sugar rush&quot; in children seems to be confirmation bias](https://juliawise.net/sugar-rush-in-children-seems-to-be-confirmation-bias/)
-- [Our data isn&#39;t safe. Resist giving it up whenever you can](https://www.washingtonpost.com/business/2024/07/31/data-breach-resistance/)
-- [How Great Was the &quot;Great Oxidation Event&quot;?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
-- [A Mathematician&#39;s Lament [pdf]](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
-- [Servo Web Engine Now Leverages Multiple CPU Cores for Rendering HTML Tables](https://www.phoronix.com/news/Servo-Multi-Core-HTML-Tables)
+- [Why the CrowdStrike bug hit banks hard](https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/)
+- [Migrate From Rockset to SingleStore on Google Cloud &lpar;and Get Paid for It!&rpar;](https://www.singlestore.com/blog/migrate-from-rockset-to-singlestore-on-google-cloud-and-get-paid-for-it-)
+- [How Great Was the “Great Oxidation Event”?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
+- [GrapheneOS may take legal action against Google regarding Play Integrity API](https://nitter.poast.org/GrapheneOS/status/1818415391791570995#m)
+- [Robin Warren Has Died](https://www.telegraph.co.uk/obituaries/2024/07/29/robin-warren-nobel-ulcers-helicobacter-obituary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
