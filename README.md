@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It took some serious nerve for Wiz to walk away from Google&#39;s $23B offer](https://techcrunch.com/2024/07/30/it-took-some-serious-nerve-for-wiz-to-walk-away-from-googles-23b-offer/)
 - [`find` + `mkdir` is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 - [Nobody Cares &lpar;2011&rpar;](https://a16z.com/nobody-cares/)
 - [Call of Duty: Warzone Caldera Data Set for Academic Use](https://blog.activision.com/activision/2024/activision-releases-call-of-duty-warzone-caldera-data-set)
 - [Superconducting Microprocessors? Turns Out They&#39;re Ultra-Efficient &lpar;2021&rpar;](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
+- [Ngtop – Request analytics from the Nginx access logs](https://github.com/facundoolano/ngtop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
