@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Common side effects of not drinking](https://medium.com/@k.kozmana/common-side-effects-of-not-drinking-dd44714e619a)
-- [The Impact of AI on Computer Science Education](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)
+- [New study finds people alter their appearance to suit their names](https://phys.org/news/2024-07-reveals-people-evolve.html)
+- [PlayAI &lpar;YC W23&rpar; Is Hiring Product Engineers](https://www.ycombinator.com/companies/play/jobs/f7pIIqU-product-engineer-at-play-yc-w23)
+- [Which country consumes the most coffee?](https://cafely.com/blogs/research/which-country-consumes-the-most-coffee)
 - [Cargo Cult Science &lpar;1974&rpar;](https://fermatslibrary.com/s/cargo-cult-science)
-- [Deep-Tempest: Using Deep Learning to Eavesdrop on HDMI](https://arxiv.org/abs/2407.09717)
 - [Rustgo: Calling Rust from Go with near-zero overhead &lpar;2017&rpar;](https://words.filippo.io/rustgo/)
 <!-- BLOG-POST-LIST:END -->
 
