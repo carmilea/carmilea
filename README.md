@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Sugar rush&quot; in children seems to be confirmation bias](https://juliawise.net/sugar-rush-in-children-seems-to-be-confirmation-bias/)
+- [Our data isn&#39;t safe. Resist giving it up whenever you can](https://www.washingtonpost.com/business/2024/07/31/data-breach-resistance/)
+- [How Great Was the &quot;Great Oxidation Event&quot;?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
+- [A Mathematician&#39;s Lament [pdf]](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
 - [Servo Web Engine Now Leverages Multiple CPU Cores for Rendering HTML Tables](https://www.phoronix.com/news/Servo-Multi-Core-HTML-Tables)
-- [Robin Warren Has Died](https://www.telegraph.co.uk/obituaries/2024/07/29/robin-warren-nobel-ulcers-helicobacter-obituary/)
-- [PlayAI &lpar;YC W23&rpar; Is Hiring Product Engineers](https://www.ycombinator.com/companies/play/jobs/f7pIIqU-product-engineer-at-play-yc-w23)
-- [Spikey Spheres &lpar;2010&rpar;](https://www.penzba.co.uk/cgi-bin/PvsNP.py?SpikeySpheres#HN2)
-- [Cargo Cult Science &lpar;1974&rpar;](https://fermatslibrary.com/s/cargo-cult-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
