@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is A.I. Art Stealing from Artists?](https://www.newyorker.com/culture/infinite-scroll/is-ai-art-stealing-from-artists)
+- [This Month in Ladybird: July 2024](https://mailchi.mp/ladybird/july-2024)
 - [Andi &lpar;YC W22&rpar; is hiring an AI Engineer to build the future of search](https://news.ycombinator.com/item?id=41123416)
+- [Milei&#39;s government will monitor social media with AI to &#39;predict future crimes&#39;](https://english.elpais.com/international/2024-07-30/javier-mileis-government-will-monitor-social-media-with-ai-to-predict-future-crimes.html)
 - [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/)
-- [Foobar2000](https://www.foobar2000.org/)
-- [Health Industry Company Sues to Prevent Certificate Revocation](https://www.hezmatt.org/~mpalmer/blog/2024/07/31/healthcare-company-sues-to-stop-certificate-revocation.html)
-- [Heavy metal analysis of dark chocolate and cocoa products in the USA](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1366231/full)
 <!-- BLOG-POST-LIST:END -->
 
 ---
