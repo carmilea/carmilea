@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New study finds people alter their appearance to suit their names](https://phys.org/news/2024-07-reveals-people-evolve.html)
+- [Servo Web Engine Now Leverages Multiple CPU Cores for Rendering HTML Tables](https://www.phoronix.com/news/Servo-Multi-Core-HTML-Tables)
+- [Robin Warren Has Died](https://www.telegraph.co.uk/obituaries/2024/07/29/robin-warren-nobel-ulcers-helicobacter-obituary/)
 - [PlayAI &lpar;YC W23&rpar; Is Hiring Product Engineers](https://www.ycombinator.com/companies/play/jobs/f7pIIqU-product-engineer-at-play-yc-w23)
-- [Which country consumes the most coffee?](https://cafely.com/blogs/research/which-country-consumes-the-most-coffee)
+- [Spikey Spheres &lpar;2010&rpar;](https://www.penzba.co.uk/cgi-bin/PvsNP.py?SpikeySpheres#HN2)
 - [Cargo Cult Science &lpar;1974&rpar;](https://fermatslibrary.com/s/cargo-cult-science)
-- [Rustgo: Calling Rust from Go with near-zero overhead &lpar;2017&rpar;](https://words.filippo.io/rustgo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
