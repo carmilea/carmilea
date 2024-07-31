@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep-Tempest: Using Deep Learning to Eavesdrop on HDMI](https://arxiv.org/abs/2407.09717)
+- [Rustgo: Calling Rust from Go with near-zero overhead](https://words.filippo.io/rustgo/)
+- [macOS in Docker Container](https://github.com/sickcodes/Docker-OSX)
+- [Construction of the AT&amp;T Long Lines &quot;Cheshire&quot; underground site](https://coldwar-ct.com/Home_Page_S1DO.html)
 - [`find` + `mkdir` is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
-- [Nobody Cares &lpar;2011&rpar;](https://a16z.com/nobody-cares/)
-- [Call of Duty: Warzone Caldera Data Set for Academic Use](https://blog.activision.com/activision/2024/activision-releases-call-of-duty-warzone-caldera-data-set)
-- [Superconducting Microprocessors? Turns Out They&#39;re Ultra-Efficient &lpar;2021&rpar;](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
-- [Ngtop – Request analytics from the Nginx access logs](https://github.com/facundoolano/ngtop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
