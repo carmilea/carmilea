@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [This month in Servo: console logging, parallel tables, OpenXR, and more](https://servo.org/blog/2024/07/31/this-month-in-servo/)
+- [Differences in cancer rates among adults born between 1920 and 1990](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00156-7/fulltext)
+- [Building a Local Perplexity Alternative with Perplexica, Ollama, and SearXNG](https://jointerminus.medium.com/building-a-local-perplexity-alternative-with-perplexica-ollama-and-searxng-71602523e256)
 - [The Genomic Code: The genome instantiates a generative model of the organism](https://arxiv.org/abs/2407.15908)
-- [How Does OpenAI Survive](https://www.wheresyoured.at/to-serve-altman/)
 - [Compared to other distros, Vanilla OS 2 &#39;Orchid&#39; is rewriting how Linux works](https://www.theregister.com/2024/07/31/vanilla_os_friendly_radical/)
-- [A blood test accurately diagnosed Alzheimer&#39;s 90% of the time, study finds](https://www.nytimes.com/2024/07/28/health/alzheimers-blood-test.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
