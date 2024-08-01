@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel to cut 15% of headcount, reports quarterly guidance miss](https://www.cnbc.com/2024/08/01/intel-intc-q2-earnings-report-2024.html)
-- [Intel Reports Second Quarter 2024 Financial Results](https://www.intc.com/news-events/press-releases/detail/1704/intel-reports-second-quarter-2024-financial-results)
-- [Pharma CIO cancels AI enhanced Office 365 deal as &quot;it doesn&#39;t add value&quot;](https://hardforum.com/threads/pharma-cio-cancels-ai-enhanced-office-365-deal-as-it-doesnt-add-value.2036205/)
+- [Just Words &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/ED0Qf42-founding-engineer)
 - [DIY, 8mm film scanner Kotokino Mark IV](https://www.sabulo.com/sb/3d-printing-2/8mm-film-scanner-kotokino-mark-iv/)
 - [Russ Cox is stepping down as the Go tech lead](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
+- [Build Your Command Center Using Fivetran and SingleStore](https://www.singlestore.com/blog/build-your-command-center-using-fivetran-and-singlestore)
+- [Threat actor abuses Cloudflare tunnels to deliver remote access trojans](https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats)
 <!-- BLOG-POST-LIST:END -->
 
 ---
