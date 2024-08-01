@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The open weight Flux text to image model is next level](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
 - [Stable Fast 3D: Rapid 3D Asset Generation from Single Images](https://stability.ai/news/introducing-stable-fast-3d)
-- [Show HN: I am using AI to measure how well cats sit like bread](https://rateloaf.com)
-- [Anger mounts over environmental cost of Google datacentre in Uruguay](https://www.theguardian.com/global-development/article/2024/aug/01/uruguay-anger-environmental-cost-google-datacentre-carbon-emissions-toxic-waste-water)
+- [Say less in your emails, get more replies](https://www.gkogan.co/increase-reply-rates/)
 - [Google uses AI to reduce stop-and-go traffic on your route](https://blog.google/outreach-initiatives/sustainability/google-ai-project-greenlight/)
-- [Jira Tickets as a Checklist](https://jeremybelcher.co/jira-tickets-as-a-checklist/)
+- [Black Forest Labs – FLUX.1 open weights SOTA text to image model](https://blackforestlabs.ai/announcing-black-forest-labs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
