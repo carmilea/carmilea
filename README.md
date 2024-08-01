@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
+- [I hate the Gemini &#39;Dear Sydney&#39; ad more every passing moment](https://www.washingtonpost.com/opinions/2024/07/31/google-gemini-ai-dear-sydney-ad-olympics-satire/)
 - [Just Words &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/ED0Qf42-founding-engineer)
-- [DIY, 8mm film scanner Kotokino Mark IV](https://www.sabulo.com/sb/3d-printing-2/8mm-film-scanner-kotokino-mark-iv/)
-- [Russ Cox is stepping down as the Go tech lead](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
-- [Build Your Command Center Using Fivetran and SingleStore](https://www.singlestore.com/blog/build-your-command-center-using-fivetran-and-singlestore)
-- [Threat actor abuses Cloudflare tunnels to deliver remote access trojans](https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats)
+- [InstantSplat: Sparse-View SfM-Free Gaussian Splatting in Seconds](https://instantsplat.github.io/)
+- [GitOpper: GitOps Without Kubernetes](https://github.com/miekg/gitopper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
