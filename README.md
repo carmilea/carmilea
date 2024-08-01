@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Two new dementia risks identified by major report](https://www.bbc.com/news/articles/c84jdxd4x1ro)
-- [Is A.I. Art Stealing from Artists?](https://www.newyorker.com/culture/infinite-scroll/is-ai-art-stealing-from-artists)
-- [Andi &lpar;YC W22&rpar; is hiring an AI Engineer to build the future of search](https://news.ycombinator.com/item?id=41123416)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Customer Success Manager &lpar;SF&rpar;](https://etleap.com/careers/customer-success-manager/)
+- [Ask HN: Junior dev and I don&#39;t want to compete in this job market. Any advice?](https://news.ycombinator.com/item?id=41125070)
+- [SnowflakeOS: Beginner friendly and GUI focused NixOS variant](https://snowflakeos.org/)
 - [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/)
 - [Cardie – An open source business card designer and sharing platform](https://github.com/nfoert/cardie)
 <!-- BLOG-POST-LIST:END -->
