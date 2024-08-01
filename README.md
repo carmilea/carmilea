@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nothing in evolution makes sense except in the light of parasitism](https://royalsocietypublishing.org/doi/10.1098/rsos.210441)
-- [Proposed rule would ban airlines from charging parents to sit with children](https://www.cnbc.com/2024/08/01/proposed-rule-would-ban-airlines-from-charging-parents-to-sit-with-their-children.html)
-- [Unusual Whales Subversive Democratic Trading ETF](https://finance.yahoo.com/quote/NANC/)
-- [Framework is looking for Linux Community Ambassadors](https://community.frame.work/t/framework-is-looking-for-linux-community-ambassadors/55344)
-- [India&#39;s $45B Startup Implosion Puts Tech Future in Doubt](https://www.bloomberg.com/news/articles/2024-08-01/india-s-tech-startup-struggles-spark-vc-funding-retreat)
+- [Stable Fast 3D: Rapid 3D Asset Generation from Single Images](https://stability.ai/news/introducing-stable-fast-3d)
+- [Show HN: I am using AI to measure how well cats sit like bread](https://rateloaf.com)
+- [Anger mounts over environmental cost of Google datacentre in Uruguay](https://www.theguardian.com/global-development/article/2024/aug/01/uruguay-anger-environmental-cost-google-datacentre-carbon-emissions-toxic-waste-water)
+- [Google uses AI to reduce stop-and-go traffic on your route](https://blog.google/outreach-initiatives/sustainability/google-ai-project-greenlight/)
+- [Jira Tickets as a Checklist](https://jeremybelcher.co/jira-tickets-as-a-checklist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
