@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Job searching in 2024 is horribly broken](https://cropp.blog/2024/08/job-searching-in-2024-is-horribly-broken)
+- [Is C99 Turing-Complete?](https://cs.stackexchange.com/questions/60965/is-c-actually-turing-complete)
 - [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring a Head of Data &lpar;Remote/US&rpar;](https://www.ycombinator.com/companies/fathom/jobs/rNItrfZ-head-of-data)
+- [Hundred Rabbits is a small collective exploring the failability of modern tech](https://100r.co/site/about_us.html)
 - [The Nature of Consciousness](https://arstechnica.com/science/2024/05/the-nature-of-consciousness-and-how-to-enjoy-it-while-you-can/)
-- [GitHub Models: A new generation of AI engineers building on GitHub](https://github.blog/news-insights/product-news/introducing-github-models/)
-- [Flux: Open-source text-to-image model with 12B parameters](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
-- [Show HN: Engine Core – open-source LLM chat management and tool call framework](https://github.com/Engine-Labs/engine-core)
 <!-- BLOG-POST-LIST:END -->
 
 ---
