@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The open weight Flux text to image model is next level](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
-- [Stable Fast 3D: Rapid 3D Asset Generation from Single Images](https://stability.ai/news/introducing-stable-fast-3d)
-- [Say less in your emails, get more replies](https://www.gkogan.co/increase-reply-rates/)
-- [Google uses AI to reduce stop-and-go traffic on your route](https://blog.google/outreach-initiatives/sustainability/google-ai-project-greenlight/)
-- [Black Forest Labs – FLUX.1 open weights SOTA text to image model](https://blackforestlabs.ai/announcing-black-forest-labs/)
+- [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring a Head of Data &lpar;Remote/US&rpar;](https://www.ycombinator.com/companies/fathom/jobs/rNItrfZ-head-of-data)
+- [The Nature of Consciousness](https://arstechnica.com/science/2024/05/the-nature-of-consciousness-and-how-to-enjoy-it-while-you-can/)
+- [GitHub Models: A new generation of AI engineers building on GitHub](https://github.blog/news-insights/product-news/introducing-github-models/)
+- [Flux: Open-source text-to-image model with 12B parameters](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
+- [Show HN: Engine Core – open-source LLM chat management and tool call framework](https://github.com/Engine-Labs/engine-core)
 <!-- BLOG-POST-LIST:END -->
 
 ---
