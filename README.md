@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Compared to other distros, Vanilla OS 2 &#39;Orchid&#39; is rewriting how Linux works](https://www.theregister.com/2024/07/31/vanilla_os_friendly_radical/)
+- [A Blood Test Accurately Diagnosed Alzheimer&#39;s 90% of the Time, Study Finds](https://www.nytimes.com/2024/07/28/health/alzheimers-blood-test.html)
+- [Rust Just Failed an Important Test](https://mccue.dev/pages/7-31-24-rust-just-failed-its-test)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Customer Success Manager &lpar;SF&rpar;](https://etleap.com/careers/customer-success-manager/)
-- [Ask HN: Junior dev and I don&#39;t want to compete in this job market. Any advice?](https://news.ycombinator.com/item?id=41125070)
 - [SnowflakeOS: Beginner friendly and GUI focused NixOS variant](https://snowflakeos.org/)
-- [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/)
-- [Cardie – An open source business card designer and sharing platform](https://github.com/nfoert/cardie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
