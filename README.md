@@ -57,9 +57,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
-- [SQLite-vec v0.1.0: a vector search SQLite extension that runs everywhere](https://alexgarcia.xyz/blog/2024/sqlite-vec-stable-release/index.html)
 - [I Recreated Shazam&#39;s Algorithm with Go](https://github.com/cgzirim/not-shazam)
 - [How I Got My Laser Eye Injury](https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/)
+- [Amazon is responsible for recalling unsafe products sold on its site,agency says](https://www.npr.org/2024/08/01/g-s1-14633/amazon-must-recall-unsafe-products-independent-sellers)
 - [Coinbase awarded a $500k bug bounty](https://hackerone.com/coinbase/hacktivity)
 <!-- BLOG-POST-LIST:END -->
 
