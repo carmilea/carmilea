@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Video segmentation with Segment Anything 2 &lpar;SAM2&rpar;](https://blog.roboflow.com/sam-2-video-segmentation/)
+- [CrowdStrike attempts takedown of parody site](https://clownstrike.lol/crowdmad/)
 - [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
-- [I hate the Gemini &#39;Dear Sydney&#39; ad more every passing moment](https://www.washingtonpost.com/opinions/2024/07/31/google-gemini-ai-dear-sydney-ad-olympics-satire/)
 - [Just Words &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/ED0Qf42-founding-engineer)
 - [InstantSplat: Sparse-View SfM-Free Gaussian Splatting in Seconds](https://instantsplat.github.io/)
-- [GitOpper: GitOps Without Kubernetes](https://github.com/miekg/gitopper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
