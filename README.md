@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
-- [I Recreated Shazam&#39;s Algorithm with Go](https://github.com/cgzirim/not-shazam)
-- [How I Got My Laser Eye Injury](https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/)
-- [Amazon is responsible for recalling unsafe products sold on its site,agency says](https://www.npr.org/2024/08/01/g-s1-14633/amazon-must-recall-unsafe-products-independent-sellers)
-- [Coinbase awarded a $500k bug bounty](https://hackerone.com/coinbase/hacktivity)
+- [Nothing in evolution makes sense except in the light of parasitism](https://royalsocietypublishing.org/doi/10.1098/rsos.210441)
+- [Proposed rule would ban airlines from charging parents to sit with children](https://www.cnbc.com/2024/08/01/proposed-rule-would-ban-airlines-from-charging-parents-to-sit-with-their-children.html)
+- [Unusual Whales Subversive Democratic Trading ETF](https://finance.yahoo.com/quote/NANC/)
+- [Framework is looking for Linux Community Ambassadors](https://community.frame.work/t/framework-is-looking-for-linux-community-ambassadors/55344)
+- [India&#39;s $45B Startup Implosion Puts Tech Future in Doubt](https://www.bloomberg.com/news/articles/2024-08-01/india-s-tech-startup-struggles-spark-vc-funding-retreat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
