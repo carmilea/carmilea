@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is Solar Punk? A Creative Commons Solar Punk Manifesto](https://www.re-des.org/es/a-solarpunk-manifesto/)
+- [Microsoft says OpenAI is now a competitor in AI and search](https://www.cnbc.com/2024/07/31/microsoft-says-openai-is-now-a-competitor-in-ai-and-search.html)
+- [How Does OpenAI Survive](https://www.wheresyoured.at/to-serve-altman/)
 - [Compared to other distros, Vanilla OS 2 &#39;Orchid&#39; is rewriting how Linux works](https://www.theregister.com/2024/07/31/vanilla_os_friendly_radical/)
 - [A Blood Test Accurately Diagnosed Alzheimer&#39;s 90% of the Time, Study Finds](https://www.nytimes.com/2024/07/28/health/alzheimers-blood-test.html)
-- [Rust Just Failed an Important Test](https://mccue.dev/pages/7-31-24-rust-just-failed-its-test)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Customer Success Manager &lpar;SF&rpar;](https://etleap.com/careers/customer-success-manager/)
-- [SnowflakeOS: Beginner friendly and GUI focused NixOS variant](https://snowflakeos.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
