@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Got My Laser Eye Injury](https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/)
 - [Coinbase awarded a $500k bug bounty](https://hackerone.com/coinbase/hacktivity)
 - [Google listed my restaurant&#39;s number as its British HQ](https://www.theguardian.com/money/article/2024/aug/01/google-listed-my-restaurants-number-as-its-british-hq)
 - [Breakthrough a step toward revealing hidden structure of prime numbers](https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers)
 - [Langfuse &lpar;YC W23&rpar; Is Hiring a Open Source Product Engineer in Berlin](https://github.com/langfuse/langfuse/blob/main/careers)
-- [Stop Killing Games – European Citizens&#39; Initiative](https://www.stopkillinggames.com/eci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
