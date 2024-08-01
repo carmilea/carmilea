@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Breakthrough a step toward revealing hidden structure of prime numbers](https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers)
 - [Langfuse &lpar;YC W23&rpar; Is Hiring a Open Source Product Engineer in Berlin](https://github.com/langfuse/langfuse/blob/main/careers)
+- [Stop Killing Games – European Citizens&#39; Initiative](https://www.stopkillinggames.com/eci)
 - [Study: Consumers Actively Turned Off by AI](https://futurism.com/the-byte/study-consumers-turned-off-products-ai)
-- [This month in Servo: console logging, parallel tables, OpenXR, and more](https://servo.org/blog/2024/07/31/this-month-in-servo/)
-- [PyTorch – Torchchat: Chat with LLMs Everywhere](https://github.com/pytorch/torchchat)
-- [Differences in cancer rates among adults born between 1920 and 1990](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00156-7/fulltext)
+- [Baking Pi – Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
