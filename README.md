@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Job searching in 2024 is horribly broken](https://cropp.blog/2024/08/job-searching-in-2024-is-horribly-broken)
-- [Is C99 Turing-Complete?](https://cs.stackexchange.com/questions/60965/is-c-actually-turing-complete)
+- [Threat actor abuses Cloudflare tunnels to deliver RATs](https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats)
+- [Show HN: Anyma V, a hybrid physical modelling virtual instrument](https://aodyo.com/anyma-v/)
+- [Space is a latent sequence: A theory of the hippocampus](https://www.science.org/doi/10.1126/sciadv.adm8470)
+- [A network engineer in search of greener pastures](https://cropp.blog/2024/08/job-searching-in-2024-is-horribly-broken)
 - [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring a Head of Data &lpar;Remote/US&rpar;](https://www.ycombinator.com/companies/fathom/jobs/rNItrfZ-head-of-data)
-- [Hundred Rabbits is a small collective exploring the failability of modern tech](https://100r.co/site/about_us.html)
-- [The Nature of Consciousness](https://arstechnica.com/science/2024/05/the-nature-of-consciousness-and-how-to-enjoy-it-while-you-can/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
