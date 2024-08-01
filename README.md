@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Solar Punk? A Creative Commons Solar Punk Manifesto](https://www.re-des.org/es/a-solarpunk-manifesto/)
-- [Microsoft says OpenAI is now a competitor in AI and search](https://www.cnbc.com/2024/07/31/microsoft-says-openai-is-now-a-competitor-in-ai-and-search.html)
+- [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [The Genomic Code: The genome instantiates a generative model of the organism](https://arxiv.org/abs/2407.15908)
 - [How Does OpenAI Survive](https://www.wheresyoured.at/to-serve-altman/)
 - [Compared to other distros, Vanilla OS 2 &#39;Orchid&#39; is rewriting how Linux works](https://www.theregister.com/2024/07/31/vanilla_os_friendly_radical/)
-- [A Blood Test Accurately Diagnosed Alzheimer&#39;s 90% of the Time, Study Finds](https://www.nytimes.com/2024/07/28/health/alzheimers-blood-test.html)
+- [A blood test accurately diagnosed Alzheimer&#39;s 90% of the time, study finds](https://www.nytimes.com/2024/07/28/health/alzheimers-blood-test.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
