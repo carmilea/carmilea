@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-hosting workshop in Portland tomorrow](https://2024.fossy.us/schedule/presentation/219/)
+- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41140554)
+- [Does the success of LLM support Wittgenstein&#39;s position that &quot;meaning is use&quot;?](https://philosophy.stackexchange.com/questions/112021/does-the-success-of-ai-large-language-models-support-wittgensteins-position-t)
 - [Fast Lua Serialization](https://artemis.sh/2023/02/23/fast-lua-serialization.html)
 - [ClickHouse acquires PeerDB to expand its Postgres support](https://techcrunch.com/2024/07/30/real-time-database-startup-clickhouse-acquires-peerdb-to-expand-its-postgres-support/)
-- [Fear of US recession rattles global markets as tech shares fall](https://www.theguardian.com/business/article/2024/aug/02/fear-of-us-recession-rattles-global-markets-as-tech-shares-fall)
-- [Intel&#39;s Day of Reckoning Arrives: 15,000 Jobs Will Be Eliminated](https://www.extremetech.com/computing/intels-day-of-reckoning-arrives-15000-jobs-will-be-eliminated)
+- [Marshmallow Test Fails to Replicate](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14129)
 <!-- BLOG-POST-LIST:END -->
 
 ---
