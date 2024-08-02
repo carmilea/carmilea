@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tensorfuse &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/tensorfuse/jobs/0AMFnY4-systems-infrastructure-engineer)
+- [Who Took the Cocaine Out of Coca-Cola?](https://daily.jstor.org/who-took-the-cocaine-out-of-coca-cola/)
 - [Video segmentation with Segment Anything 2 &lpar;SAM2&rpar;](https://blog.roboflow.com/sam-2-video-segmentation/)
-- [CrowdStrike attempts takedown of parody site](https://clownstrike.lol/crowdmad/)
+- [CrowdStrike representatives issue trademark infringement notice to ClownStrike](https://clownstrike.lol/crowdmad/)
 - [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
-- [Just Words &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/ED0Qf42-founding-engineer)
-- [InstantSplat: Sparse-View SfM-Free Gaussian Splatting in Seconds](https://instantsplat.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
