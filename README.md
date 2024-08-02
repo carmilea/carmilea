@@ -59,8 +59,8 @@
 - [JVM/Java: Null-Restricted and Nullable Types](https://bugs.openjdk.org/browse/JDK-8303099)
 - [List of vintage Japanese pixel/dot art software](https://blog.gingerbeardman.com/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/)
 - [The reanimation of pseudoscience in machine learning](https://www.cell.com/patterns/fulltext/S2666-3899(24)00160-0#secsectitle0025)
-- [ChatGPT Citing Plagiarized Versions of NYT Articles on an Armenian Content Mill](https://futurism.com/chatgpt-plagiarized-nyt-articles)
 - [Kapa.ai &lpar;YC S23&rpar; Is Hiring an Applied AI Research Engineer &lpar;Europe Timezone&rpar;](https://www.ycombinator.com/companies/kapa-ai/jobs/hrFWJfn-research-engineer-applied-ai)
+- [Peerfetch – Peer-to-Peer HTTP over WebRTC](https://github.com/ambianic/peerfetch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
