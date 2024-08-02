@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [YC closes deal with Google for dedicated compute cluster for AI startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/)
+- [Oscar, an open-source contributor agent architecture](https://go.googlesource.com/oscar/+/refs/heads/master/README.md)
 - [Tensorfuse &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/tensorfuse/jobs/0AMFnY4-systems-infrastructure-engineer)
+- [What I learned about a plastic-free life](https://www.npr.org/2024/07/26/nx-s1-5021546/plastic-free-sustainable-living-tips)
 - [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
-- [Scenefx: a drop-in replacement for the wlroots scene API](https://github.com/wlrfx/scenefx)
-- [InstantSplat: Sparse-View SfM-Free Gaussian Splatting in Seconds](https://instantsplat.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
