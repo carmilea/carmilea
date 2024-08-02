@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why did the U.S. miss the battery revolution?](https://www.noahpinion.blog/p/why-did-the-us-miss-the-battery-revolution)
+- [Elliott says Nvidia is in a &#39;bubble&#39; and AI is &#39;overhyped&#39;](https://www.ft.com/content/24a12be1-a973-4efe-ab4f-b981aee0cd0b)
 - [Why Western Designs Fail in Developing Countries [video]](https://www.youtube.com/watch?v=CGRtyxEpoGg)
-- [HackberryPi – Pi zero handheld with Blackberry keyboard](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
+- [Hackberry-Pi_Zero – A handheld Linux terminal using Raspberry Pi Zero 2W](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
 - [Show HN: Ell – A command-line interface for LLMs written in Bash](https://github.com/simonmysun/ell)
-- [Quark Stars](https://johncarlosbaez.wordpress.com/2024/08/02/quark-stars/)
-- [Programming a CH32v003 with light](https://mitxela.com/projects/lightcomm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
