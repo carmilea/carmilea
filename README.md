@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Should Stop Using JavaScript According to Douglas Crockford](https://old.reddit.com/r/programming/comments/1eht39z/why_we_should_stop_using_javascript_according_to/)
+- [Character.ai CEO Noam Shazeer Returns to Google](https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/)
+- [Google Pulls Olympics AI Ad &#39;Dear Sydney&#39;](https://adage.com/article/special-report-olympics/google-pulls-olympics-ai-ad-dear-sydney/2573496)
 - [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41140554)
-- [Does the success of LLM support Wittgenstein&#39;s position that &quot;meaning is use&quot;?](https://philosophy.stackexchange.com/questions/112021/does-the-success-of-ai-large-language-models-support-wittgensteins-position-t)
-- [Fast Lua Serialization](https://artemis.sh/2023/02/23/fast-lua-serialization.html)
-- [ClickHouse acquires PeerDB to expand its Postgres support](https://techcrunch.com/2024/07/30/real-time-database-startup-clickhouse-acquires-peerdb-to-expand-its-postgres-support/)
-- [Marshmallow Test Fails to Replicate](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14129)
+- [Supercharged Labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
