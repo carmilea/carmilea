@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why did the U.S. miss the battery revolution?](https://www.noahpinion.blog/p/why-did-the-us-miss-the-battery-revolution)
-- [Elliott says Nvidia is in a &#39;bubble&#39; and AI is &#39;overhyped&#39;](https://www.ft.com/content/24a12be1-a973-4efe-ab4f-b981aee0cd0b)
-- [Why Western Designs Fail in Developing Countries [video]](https://www.youtube.com/watch?v=CGRtyxEpoGg)
-- [Hackberry-Pi_Zero – A handheld Linux terminal using Raspberry Pi Zero 2W](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
-- [Show HN: Ell – A command-line interface for LLMs written in Bash](https://github.com/simonmysun/ell)
+- [Self-hosting workshop in Portland tomorrow](https://2024.fossy.us/schedule/presentation/219/)
+- [Fast Lua Serialization](https://artemis.sh/2023/02/23/fast-lua-serialization.html)
+- [ClickHouse acquires PeerDB to expand its Postgres support](https://techcrunch.com/2024/07/30/real-time-database-startup-clickhouse-acquires-peerdb-to-expand-its-postgres-support/)
+- [Fear of US recession rattles global markets as tech shares fall](https://www.theguardian.com/business/article/2024/aug/02/fear-of-us-recession-rattles-global-markets-as-tech-shares-fall)
+- [Intel&#39;s Day of Reckoning Arrives: 15,000 Jobs Will Be Eliminated](https://www.extremetech.com/computing/intels-day-of-reckoning-arrives-15000-jobs-will-be-eliminated)
 <!-- BLOG-POST-LIST:END -->
 
 ---
