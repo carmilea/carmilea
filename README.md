@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kapa.ai &lpar;YC S23&rpar; Is Hiring an Applied AI Research Engineer &lpar;Europe Timezone&rpar;](https://www.ycombinator.com/companies/kapa-ai/jobs/hrFWJfn-research-engineer-applied-ai)
 - [Peerfetch – Peer-to-Peer HTTP over WebRTC](https://github.com/ambianic/peerfetch)
 - [YC closes deal with Google for dedicated compute cluster for AI startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/)
 - [Oscar, an open-source contributor agent architecture](https://go.googlesource.com/oscar/+/refs/heads/master/README.md)
-- [Tensorfuse &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/tensorfuse/jobs/0AMFnY4-systems-infrastructure-engineer)
-- [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
+- [Rapidly build efficient sites with Neat, the minimalist CSS framework](https://neat.joeldare.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
