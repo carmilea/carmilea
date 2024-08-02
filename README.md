@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Considerations When Building Embedded Databases](https://interrupt.memfault.com/blog/choosing-or-building-an-embedded-db)
+- [Intel stock dropping toward 50 year low amid restructuring news](https://www.marketwatch.com/livecoverage/stock-market-today-dow-futures-point-to-further-selling-after-amazon-intel-result/card/investors-dump-intel-s-bonds-as-spreads-blow-out-avlhO01UGmQh7rIhAa1U)
+- [Tennessee Awards $5.5M to Strengthen Food Supply Chain Infrastructure](https://www.ams.usda.gov/press-release/usda-partners-tennessee-award-over-55-million-strengthen-food-supply-chain)
 - [We Should Stop Using JavaScript According to Douglas Crockford](https://old.reddit.com/r/programming/comments/1eht39z/why_we_should_stop_using_javascript_according_to/)
 - [Character.ai CEO Noam Shazeer Returns to Google](https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/)
-- [Google Pulls Olympics AI Ad &#39;Dear Sydney&#39;](https://adage.com/article/special-report-olympics/google-pulls-olympics-ai-ad-dear-sydney/2573496)
-- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41140554)
-- [Supercharged Labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
