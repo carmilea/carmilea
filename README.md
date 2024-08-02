@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Western Designs Fail in Developing Countries [video]](https://www.youtube.com/watch?v=CGRtyxEpoGg)
+- [HackberryPi – Pi zero handheld with Blackberry keyboard](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
 - [Show HN: Ell – A command-line interface for LLMs written in Bash](https://github.com/simonmysun/ell)
-- [Robin Warren, pathologist who rewrote the science on ulcers, dies at 87](https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/)
-- [JVM/Java: Null-Restricted and Nullable Types](https://bugs.openjdk.org/browse/JDK-8303099)
-- [The reanimation of pseudoscience in machine learning](https://www.cell.com/patterns/fulltext/S2666-3899(24)00160-0#secsectitle0025)
-- [Kapa.ai &lpar;YC S23&rpar; Is Hiring an Applied AI Research Engineer &lpar;Europe Timezone&rpar;](https://www.ycombinator.com/companies/kapa-ai/jobs/hrFWJfn-research-engineer-applied-ai)
+- [Quark Stars](https://johncarlosbaez.wordpress.com/2024/08/02/quark-stars/)
+- [Programming a CH32v003 with light](https://mitxela.com/projects/lightcomm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
