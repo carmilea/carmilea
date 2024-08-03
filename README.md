@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Delivery worker minimum wage is bringing order to a wild industry](https://nyc.streetsblog.org/2024/07/15/delivery-worker-minimum-wage-brings-order-to-industry-data-shows)
-- [Deep sea mining opponents suffer major setback](https://phys.org/news/2024-08-deep-sea-opponents-major-setback.html)
+- [Tzero: Social Timeboxing for IRC Channels](https://github.com/susam/tzero)
+- [The Orgasmatron: tale of a pleasure implant &lpar;2014&rpar;](https://www.bbc.com/future/article/20140321-orgasms-at-the-push-of-a-button)
+- [Full Introduction to Golang with Test-Driven Development](https://kovalevsky.io/full-introduction-to-golang-with-test-driven-development-part-1/)
 - [A* search: optimized implementation in Lisp](https://gitlab.com/lockie/cl-astar)
 - [Hacked Tesla FSD computers disclose alarming raw data on deadly accidents](https://www.notebookcheck.net/Hacked-Tesla-FSD-computers-disclose-alarming-raw-data-on-deadly-Autopilot-accidents.869354.0.html)
-- [AiOla open-sources ultra-fast &#39;multi-head&#39; speech recognition model](https://aiola.com/blog/introducing-whisper-medusa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
