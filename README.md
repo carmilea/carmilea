@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How HashiCorp evolved its cloud infrastructure](https://platocommunity.substack.com/p/22-how-we-evolved-our-cloud-infrastructure)
-- [ROM hacking site shutting down after almost 20 years](https://arstechnica.com/gaming/2024/08/rom-hackings-premier-site-is-going-read-only-after-internal-struggle/)
-- [Common I/O Tasks in Modern Java](https://dev.java/learn/modernio/)
+- [The Future of Kdb+](https://www.timestored.com/b/the-future-of-kdb/)
+- [EWritable – e-ink tablet news and reviews](https://ewritable.com/)
+- [DSCv3, the latest iteration of Microsoft&#39;s Desired State Configuration platform](https://github.com/PowerShell/DSC)
+- [Judges suspends FCC net neutrality restoration rule](https://www.inc.com/bruce-crumley/judges-suspend-fcc-net-neutrality-restoration-rule.html)
 - [Towards userspaceification of POSIX – part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
-- [Pineboards AI HAT enables Hailo-8L and NVMe boot storage on a Pi 5](https://pineboards.io/blogs/news/introducing-the-ai-bundle-hailo-8l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
