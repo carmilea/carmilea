@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What are the odds, II: the Venezuelan presidential election](https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/)
-- [China is slowly joining the economic war against Russia?](http://jpkoning.blogspot.com/2024/07/china-is-slowly-joining-economic-war.html)
+- [Games Managers Play: Unmasking Psychological Tactics in Tech Leadership](https://praachi.work/blog/games-managers-play.html)
+- [Show HN: webhooked.email &lpar;2023&rpar;](https://news.ycombinator.com/item?id=41144227)
+- [Stop Destroying Videogames – European Citizens&#39; Initiative](https://eci.ec.europa.eu/045/public/#/screen/home)
 - [Promising therapy treatment killing glioblastoma cells in new brain pathway](https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html)
 - [The future of kdb+?](https://www.timestored.com/b/the-future-of-kdb/)
-- [EWritable – e-ink tablet news and reviews](https://ewritable.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
