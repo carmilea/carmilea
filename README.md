@@ -59,8 +59,8 @@
 - [I Made an Extended Version of Vimtutor – Introducing Vimtutor Sequel](https://github.com/micahkepe/vimtutor-sequel)
 - [Show HN: Hanon Pro – piano technique and exercises for the digital age](https://furnacecreek.org/hanon/)
 - [IBM Audible Random Timer](https://oldbytes.space/@jgeorge/112888250526493150)
-- [Ray Dalio&#39;s &quot;The Changing World Order&quot; [pdf]](https://economicprinciples.org/DalioChangingWorldOrderCharts.pdf)
-- [Recommended Formats Statement](https://www.loc.gov/preservation/resources/rfs/TOC.html)
+- [p5.js](https://p5js.org/)
+- [Show HN: webhooked.email &lpar;2023&rpar;](https://news.ycombinator.com/item?id=41144227)
 <!-- BLOG-POST-LIST:END -->
 
 ---
