@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How WASD became the standard PC control scheme](https://www.pcgamer.com/how-wasd-became-the-standard-pc-control-scheme/)
+- [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
+- [How WASD became the standard PC control scheme &lpar;2016&rpar;](https://www.pcgamer.com/how-wasd-became-the-standard-pc-control-scheme/)
 - [DARPA suggests turning old C code automatically into Rust – using AI, of course](https://www.theregister.com/2024/08/03/darpa_c_to_rust/)
-- [Make Your Electronics Tamper-Evident](https://www.anarsec.guide/posts/tamper/)
+- [Make your electronics tamper-evident](https://www.anarsec.guide/posts/tamper/)
 - [Monetagium – monetary extortion in feudal Europe](http://jpkoning.blogspot.com/2024/05/monetagium.html)
-- [Parsing Protobuf Definitions with Tree-sitter](https://relistan.com/parsing-protobuf-files-with-treesitter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
