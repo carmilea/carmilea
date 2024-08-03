@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
+- [Boeing&#39;s Starliner proves better at torching cash than reaching orbit](https://www.theregister.com/2024/08/02/boeing_starliner_losses/)
 - [Game Informer shutting down after 33 years](https://www.theverge.com/2024/8/2/24212016/game-informer-shutting-down-layoffs-gamestop)
-- [How to Escape from the Simulation [pdf]](https://files.theseedsofscience.org/2023/How_to_Escape_From_the_Simulation.pdf)
 - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
 - [How developers trick App Store into approving malicious apps](https://9to5mac.com/2024/08/02/developers-trick-app-store-review/)
-- [To preserve their work journalists take archiving into their own hands](https://www.niemanlab.org/2024/07/to-preserve-their-work-and-drafts-of-history-journalists-take-archiving-into-their-own-hands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
