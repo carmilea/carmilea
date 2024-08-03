@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Primitive Recursive Functions for a Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
+- [&quot;We ran out of columns&quot; – The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 - [Tzero: Social Timeboxing for IRC Channels](https://github.com/susam/tzero)
 - [The Orgasmatron: tale of a pleasure implant &lpar;2014&rpar;](https://www.bbc.com/future/article/20140321-orgasms-at-the-push-of-a-button)
-- [Full Introduction to Golang with Test-Driven Development](https://kovalevsky.io/full-introduction-to-golang-with-test-driven-development-part-1/)
-- [A* search: optimized implementation in Lisp](https://gitlab.com/lockie/cl-astar)
-- [Hacked Tesla FSD computers disclose alarming raw data on deadly accidents](https://www.notebookcheck.net/Hacked-Tesla-FSD-computers-disclose-alarming-raw-data-on-deadly-Autopilot-accidents.869354.0.html)
+- [Wi-Fi is an important threat to human health &lpar;2018&rpar;](https://www.sciencedirect.com/science/article/pii/S0013935118300355)
 <!-- BLOG-POST-LIST:END -->
 
 ---
