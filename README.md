@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why America fell behind in drones, and how to catch up agaon](https://www.noahpinion.blog/p/why-america-fell-behind-in-drones)
-- [I Made an Extended Version of Vimtutor – Introducing Vimtutor Sequel](https://github.com/micahkepe/vimtutor-sequel)
-- [Show HN: Hanon Pro – piano technique and exercises for the digital age](https://furnacecreek.org/hanon/)
-- [IBM Audible Random Timer](https://oldbytes.space/@jgeorge/112888250526493150)
-- [p5.js](https://p5js.org/)
+- [Delivery worker minimum wage is bringing order to a wild industry](https://nyc.streetsblog.org/2024/07/15/delivery-worker-minimum-wage-brings-order-to-industry-data-shows)
+- [Deep sea mining opponents suffer major setback](https://phys.org/news/2024-08-deep-sea-opponents-major-setback.html)
+- [A* search: optimized implementation in Lisp](https://gitlab.com/lockie/cl-astar)
+- [Hacked Tesla FSD computers disclose alarming raw data on deadly accidents](https://www.notebookcheck.net/Hacked-Tesla-FSD-computers-disclose-alarming-raw-data-on-deadly-Autopilot-accidents.869354.0.html)
+- [AiOla open-sources ultra-fast &#39;multi-head&#39; speech recognition model](https://aiola.com/blog/introducing-whisper-medusa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
