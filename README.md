@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [China is slowly joining the economic war against Russia](http://jpkoning.blogspot.com/2024/07/china-is-slowly-joining-economic-war.html)
+- [Promising therapy treatment killing glioblastoma cells in new brain pathway](https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html)
 - [The Future of Kdb+](https://www.timestored.com/b/the-future-of-kdb/)
 - [EWritable – e-ink tablet news and reviews](https://ewritable.com/)
 - [DSCv3, the latest iteration of Microsoft&#39;s Desired State Configuration platform](https://github.com/PowerShell/DSC)
-- [Judges suspends FCC net neutrality restoration rule](https://www.inc.com/bruce-crumley/judges-suspend-fcc-net-neutrality-restoration-rule.html)
-- [Towards userspaceification of POSIX – part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
