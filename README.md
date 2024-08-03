@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The U.S. Wanted to Knock Down Huawei. It&#39;s Only Getting Stronger](https://www.wsj.com/business/telecom/huawei-china-technology-us-sanctions-76462031)
-- [Probability Estimates of a 21st Century AMOC Collapse](https://arxiv.org/abs/2406.11738)
-- [Reverse engineering the 59-pound printer onboard the Space Shuttle](http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
-- [Boeing&#39;s Starliner proves better at torching cash than reaching orbit](https://www.theregister.com/2024/08/02/boeing_starliner_losses/)
-- [Game Informer shutting down after 33 years](https://www.theverge.com/2024/8/2/24212016/game-informer-shutting-down-layoffs-gamestop)
+- [Make Your Electronics Tamper-Evident](https://www.anarsec.guide/posts/tamper/)
+- [Monetagium – monetary extortion in feudal Europe](http://jpkoning.blogspot.com/2024/05/monetagium.html)
+- [Parsing Protobuf Definitions with Tree-sitter](https://relistan.com/parsing-protobuf-files-with-treesitter)
+- [Lisp&#39;s Grandfather Paradox](https://danielsz.github.io/20240718T060528--lisps-grandfather-paradox__clojure_lisp_scheme.html)
+- [How to Build Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
