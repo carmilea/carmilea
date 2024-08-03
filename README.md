@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Games Managers Play: Unmasking Psychological Tactics in Tech Leadership](https://praachi.work/blog/games-managers-play.html)
+- [SpaceX Raptor 3, SN1](https://twitter.com/elonmusk/status/1819551225504768286/photo/1)
+- [Recommended Formats Statement](https://www.loc.gov/preservation/resources/rfs/TOC.html)
 - [Show HN: webhooked.email &lpar;2023&rpar;](https://news.ycombinator.com/item?id=41144227)
-- [Stop Destroying Videogames – European Citizens&#39; Initiative](https://eci.ec.europa.eu/045/public/#/screen/home)
-- [Promising therapy treatment killing glioblastoma cells in new brain pathway](https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html)
+- [Researchers develop treatment that can kill glioblastoma cells in brain pathway](https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html)
 - [The future of kdb+?](https://www.timestored.com/b/the-future-of-kdb/)
 <!-- BLOG-POST-LIST:END -->
 
