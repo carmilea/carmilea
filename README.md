@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Berkshire Cuts Apple Stake by Almost Half in Selling Spree](https://www.bloomberg.com/news/articles/2024-08-03/berkshire-hathaway-s-cash-pile-soars-to-record-276-9-billion)
+- [Game Informer shutting down after 33 years](https://www.theverge.com/2024/8/2/24212016/game-informer-shutting-down-layoffs-gamestop)
+- [How to Escape from the Simulation [pdf]](https://files.theseedsofscience.org/2023/How_to_Escape_From_the_Simulation.pdf)
+- [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
 - [An FPGA built with 7400 series logic [video]](https://media.ccc.de/v/cosin2024-56234-fpga-selber-bauen-mit-74)
-- [Go Donut: Convert Live Streaming to WebRTC](https://github.com/flavioribeiro/donut)
-- [Primitive Recursive Functions for a Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
-- [&quot;We ran out of columns&quot; – The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
-- [Tzero: Social Timeboxing for IRC Channels](https://github.com/susam/tzero)
 <!-- BLOG-POST-LIST:END -->
 
 ---
