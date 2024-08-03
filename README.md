@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Berkshire Cuts Apple Stake by Almost Half in Selling Spree](https://www.bloomberg.com/news/articles/2024-08-03/berkshire-hathaway-s-cash-pile-soars-to-record-276-9-billion)
 - [Game Informer shutting down after 33 years](https://www.theverge.com/2024/8/2/24212016/game-informer-shutting-down-layoffs-gamestop)
 - [How to Escape from the Simulation [pdf]](https://files.theseedsofscience.org/2023/How_to_Escape_From_the_Simulation.pdf)
 - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
-- [An FPGA built with 7400 series logic [video]](https://media.ccc.de/v/cosin2024-56234-fpga-selber-bauen-mit-74)
+- [How developers trick App Store into approving malicious apps](https://9to5mac.com/2024/08/02/developers-trick-app-store-review/)
+- [To preserve their work journalists take archiving into their own hands](https://www.niemanlab.org/2024/07/to-preserve-their-work-and-drafts-of-history-journalists-take-archiving-into-their-own-hands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
