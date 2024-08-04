@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: AI-Powered Stock Market Analyst with Global Coverage](https://decodeinvesting.com/chat)
+- [Cortex A73&#39;s Not-So-Infinite Reordering Capacity](https://chipsandcheese.com/2024/08/04/cortex-a73s-not-so-infinite-reordering-capacity/)
+- [Romram: Using QSPI RAM with RP2040&#39;s SSI in read-write mode](http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam)
 - [Enum class improvements for C++17, C++20 and C++23](https://www.cppstories.com/2024/enum-improvements/)
-- [Dispatches from the farm upstate](https://lcamtuf.substack.com/p/dispatches-from-the-farm-upstate)
-- [Using your Kindle as an e-ink monitor](https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c)
-- [Buster: Captcha Solver for Humans](https://github.com/dessant/buster)
-- [Trellis &lpar;YC W24&rpar; is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+- [A primer on the current state of longevity research](https://www.owlposting.com/p/some-questions-and-answers-i-had)
 <!-- BLOG-POST-LIST:END -->
 
 ---
