@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Tech groups say their $100B AI spending spree is just beginning](https://www.ft.com/content/b7037ce1-4319-4a4a-8767-0b1373cec9ce)
-- [The Academic Culture of Fraud](https://www.palladiummag.com/2024/08/02/the-academic-culture-of-fraud/)
-- [GitHub Copilot – Lessons](https://medium.com/sids-tech-cafe/github-copilot-lessons-7afc1f5130a6)
-- [USB Sniffer Lite for RP2040](https://github.com/ataradov/usb-sniffer-lite)
-- [racket/rhombus: &quot;We&#39;re now officially in the &quot;integration&quot; phase for Rhombus.&quot;](https://github.com/racket/rhombus/discussions/521)
+- [Belenios: A Verifiable Online Voting System](https://www.belenios.org/)
+- [The Untold Story of How US Spies Sabotaged Soviet Technology](https://www.politico.com/news/magazine/2024/08/04/us-spies-soviet-technology-00164126)
+- [Could AI robots with lasers make herbicides – and farm workers – obsolete?](https://www.latimes.com/environment/story/2024-07-22/are-robots-the-answer-to-harmful-agricultural-herbicides)
+- [So Who Is Building That 100k GPU Cluster for XAI?](https://www.nextplatform.com/2024/07/30/so-who-is-building-that-100000-gpu-cluster-for-xai/)
+- [Introduction to Kubernetes &lpar;k8&rpar; – a quick lookback](https://devopsprojectshq.com/blog/introduction-to-kubernetes-k8-a-lookback-after-6-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
