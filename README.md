@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Non-computability of solutions of certain equations on digital computers](https://arxiv.org/abs/2205.12626)
-- [Western Digital: We Are Sampling 32TB SMR Hard Drives](https://www.anandtech.com/show/21498/western-digital-we-are-sampling-32-tb-smr-hard-drives)
-- [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
-- [Make your electronics tamper-evident](https://www.anarsec.guide/posts/tamper/)
-- [Monetagium – monetary extortion in feudal Europe](http://jpkoning.blogspot.com/2024/05/monetagium.html)
+- [Balancing Speed and Experience: Optimal Pool Depth for Competitive Swimming](https://www.aquaticsintl.com/facilities/balancing-speed-and-experience-optimal-pool-depth-for-competitive-swimming_o)
+- [How I Use AI &lpar;Nicholas Carlini&rpar;](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
+- [Nvidia reportedly delays its next AI chip due to a design flaw](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
+- [Open Source Farming Robot](https://farm.bot/)
+- [Sega Jet Rocket: The &#39;70s arcade game with no computer or screen](https://newatlas.com/games/sega-jet-rocket-arcade-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
