@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Balancing Speed and Experience: Optimal Pool Depth for Competitive Swimming](https://www.aquaticsintl.com/facilities/balancing-speed-and-experience-optimal-pool-depth-for-competitive-swimming_o)
+- [Australia must treat housing as a human right: Former State Supreme Court judge](https://www.abc.net.au/news/2024-08-04/housing-is-a-human-right-says-former-vic-supreme-court-judge/104179612)
+- [The Introverts Are Winning](https://newhumanist.org.uk/articles/6306/the-introverts-are-winning)
+- [&quot;Grip Car&quot;](https://teenage.engineering/products/grip-car)
 - [How I Use AI &lpar;Nicholas Carlini&rpar;](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 - [Nvidia reportedly delays its next AI chip due to a design flaw](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
-- [LLM as Database Administrator](https://arxiv.org/abs/2312.01454)
-- [Open Source Farming Robot](https://farm.bot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
