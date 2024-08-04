@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Big Tech groups say their $100B AI spending spree is just beginning](https://www.ft.com/content/b7037ce1-4319-4a4a-8767-0b1373cec9ce)
 - [The Academic Culture of Fraud](https://www.palladiummag.com/2024/08/02/the-academic-culture-of-fraud/)
-- [Passengers at EU Airports Not Allowed over 100ml of Liquids on Cabin Luggage](https://schengen.news/passengers-at-eu-airports-not-allowed-to-carry-over-100ml-of-liquids-on-cabin-luggage-as-of-september-1/)
 - [GitHub Copilot – Lessons](https://medium.com/sids-tech-cafe/github-copilot-lessons-7afc1f5130a6)
-- [Introduction to Kubernetes &lpar;k8&rpar; – a quick lookback](https://devopsprojectshq.com/blog/introduction-to-kubernetes-k8-a-lookback-after-6-years/)
+- [USB Sniffer Lite for RP2040](https://github.com/ataradov/usb-sniffer-lite)
+- [racket/rhombus: &quot;We&#39;re now officially in the &quot;integration&quot; phase for Rhombus.&quot;](https://github.com/racket/rhombus/discussions/521)
 <!-- BLOG-POST-LIST:END -->
 
 ---
