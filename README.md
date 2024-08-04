@@ -59,8 +59,8 @@
 - [Balancing Speed and Experience: Optimal Pool Depth for Competitive Swimming](https://www.aquaticsintl.com/facilities/balancing-speed-and-experience-optimal-pool-depth-for-competitive-swimming_o)
 - [How I Use AI &lpar;Nicholas Carlini&rpar;](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 - [Nvidia reportedly delays its next AI chip due to a design flaw](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
+- [LLM as Database Administrator](https://arxiv.org/abs/2312.01454)
 - [Open Source Farming Robot](https://farm.bot/)
-- [Sega Jet Rocket: The &#39;70s arcade game with no computer or screen](https://newatlas.com/games/sega-jet-rocket-arcade-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
