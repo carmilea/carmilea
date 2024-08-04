@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Belenios: A Verifiable Online Voting System](https://www.belenios.org/)
-- [The Untold Story of How US Spies Sabotaged Soviet Technology](https://www.politico.com/news/magazine/2024/08/04/us-spies-soviet-technology-00164126)
-- [Could AI robots with lasers make herbicides – and farm workers – obsolete?](https://www.latimes.com/environment/story/2024-07-22/are-robots-the-answer-to-harmful-agricultural-herbicides)
-- [Organic maps: Experimental feed based public transport mapping](https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md)
-- [You can contribute to KDE with non-C++ code](https://rabbitictranslator.com/contribute-to-kde-without-cpp/)
+- [Google Says AI Olympics Ad &#39;Tested Well&#39; Before Inspiring Outrage](https://gizmodo.com/google-says-ai-olympics-ad-tested-well-before-inspiring-outrage-2000482900)
+- [People High on Dark Triad Personality Traits Employ Distinct Defense Mechanisms](https://www.robkhenderson.com/p/people-with-dark-triad-personality)
+- [Gemini Ad Backlash](https://www.cbsnews.com/news/google-gemini-ai-dear-sydney-olympics-ad/)
+- [Porting My JavaScript Game Engine to C for No Reason](https://phoboslab.org/log/2024/08/high_impact)
+- [SNES Coprocessors: DSP-1 and Friends](https://jsgroth.dev/blog/posts/snes-coprocessors-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
