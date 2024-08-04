@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Myspace celebrates its 21st birthday. Do we still need it?](https://triblive.com/business/technology/myspace-celebrates-its-21st-birthday-do-we-still-need-it/)
+- [Nvidia&#39;s Blackwell Reworked – Shipment Delays and GB200A Reworked Platforms](https://www.semianalysis.com/p/nvidias-blackwell-reworked-shipment)
 - [Show HN: AI-Powered Stock Market Analyst with Global Coverage](https://decodeinvesting.com/chat)
 - [Cortex A73&#39;s Not-So-Infinite Reordering Capacity](https://chipsandcheese.com/2024/08/04/cortex-a73s-not-so-infinite-reordering-capacity/)
-- [Romram: Using QSPI RAM with RP2040&#39;s SSI in read-write mode](http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam)
-- [Enum class improvements for C++17, C++20 and C++23](https://www.cppstories.com/2024/enum-improvements/)
-- [A primer on the current state of longevity research](https://www.owlposting.com/p/some-questions-and-answers-i-had)
+- [Qub – a framework for building websites with QBasic](https://github.com/jamonholmgren/qub)
 <!-- BLOG-POST-LIST:END -->
 
 ---
