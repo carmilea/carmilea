@@ -59,7 +59,7 @@
 - [Belenios: A Verifiable Online Voting System](https://www.belenios.org/)
 - [The Untold Story of How US Spies Sabotaged Soviet Technology](https://www.politico.com/news/magazine/2024/08/04/us-spies-soviet-technology-00164126)
 - [Could AI robots with lasers make herbicides – and farm workers – obsolete?](https://www.latimes.com/environment/story/2024-07-22/are-robots-the-answer-to-harmful-agricultural-herbicides)
-- [So Who Is Building That 100k GPU Cluster for XAI?](https://www.nextplatform.com/2024/07/30/so-who-is-building-that-100000-gpu-cluster-for-xai/)
+- [HamClock – a real time space weather dashboard](https://www.clearskyinstitute.com/ham/HamClock/)
 - [Introduction to Kubernetes &lpar;k8&rpar; – a quick lookback](https://devopsprojectshq.com/blog/introduction-to-kubernetes-k8-a-lookback-after-6-years/)
 <!-- BLOG-POST-LIST:END -->
 
