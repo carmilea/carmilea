@@ -57,9 +57,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Trellis &lpar;YC W24&rpar; is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
-- [Making your own hot sauce](https://successfulsoftware.net/2024/08/04/making-your-own-hot-sauce/)
+- [WhenFS: Calender Is Now a File System](https://github.com/lvkv/whenfs)
 - [Porting My JavaScript Game Engine to C for No Reason](https://phoboslab.org/log/2024/08/high_impact)
-- [Apprentice, Journeyman, and Master: The Medieval Guild](https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/)
+- [Apprentice, Journeyman, and Master: The Medieval Guild &lpar;2018&rpar;](https://blog.philosophicalsociety.org/2018/01/10/apprentice-journeyman-and-master-the-medieval-guild/)
 - [SNES Coprocessors: DSP-1 and Friends](https://jsgroth.dev/blog/posts/snes-coprocessors-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
