@@ -60,7 +60,7 @@
 - [Why the international experimental nuclear fusion reactor is in &#39;big trouble&#39;](https://www.theguardian.com/technology/article/2024/aug/03/is-the-dream-of-nuclear-fusion-dead-why-the-international-experimental-reactor-is-in-big-trouble)
 - [Tomato nostalgia as I relive my Croatian island childhood](https://www.croatiaweek.com/tomatoes-croatian-island-taste/)
 - [Australia must treat housing as a human right: Former State Supreme Court judge](https://www.abc.net.au/news/2024-08-04/housing-is-a-human-right-says-former-vic-supreme-court-judge/104179612)
-- [The Introverts Are Winning](https://newhumanist.org.uk/articles/6306/the-introverts-are-winning)
+- [Nvidia reportedly delays its next AI chip due to a design flaw](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
