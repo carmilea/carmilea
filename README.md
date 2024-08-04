@@ -59,8 +59,8 @@
 - [Belenios: A Verifiable Online Voting System](https://www.belenios.org/)
 - [The Untold Story of How US Spies Sabotaged Soviet Technology](https://www.politico.com/news/magazine/2024/08/04/us-spies-soviet-technology-00164126)
 - [Could AI robots with lasers make herbicides – and farm workers – obsolete?](https://www.latimes.com/environment/story/2024-07-22/are-robots-the-answer-to-harmful-agricultural-herbicides)
-- [HamClock – a real time space weather dashboard](https://www.clearskyinstitute.com/ham/HamClock/)
-- [Introduction to Kubernetes &lpar;k8&rpar; – a quick lookback](https://devopsprojectshq.com/blog/introduction-to-kubernetes-k8-a-lookback-after-6-years/)
+- [Organic maps: Experimental feed based public transport mapping](https://github.com/organicmaps/organicmaps/blob/master/docs/EXPERIMENTAL_PUBLIC_TRANSPORT_SUPPORT.md)
+- [You can contribute to KDE with non-C++ code](https://rabbitictranslator.com/contribute-to-kde-without-cpp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
