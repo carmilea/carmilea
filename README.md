@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI won&#39;t watermark ChatGPT text because its users could get caught](https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool)
+- [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
+- [Apple Intelligence beta flagged a phishing email as &quot;Priority&quot;](https://social.panic.com/@cabel/112905175504595751)
 - [Single-packet race condition breaking the 65535 byte lim](https://flatt.tech/research/posts/beyond-the-limit-expanding-single-packet-race-condition-with-first-sequence-sync/)
 - [Japan&#39;s Nikkei Posts Biggest Single-Day Fall Since 1987 After Weak U.S. Data](https://www.wsj.com/finance/stocks/japan-stocks-fall-sharply-after-weak-u-s-jobs-data-yen-strengthening-3903689f)
 - [Postgres stores data on disk – this one&#39;s a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
-- [Stop Killing Games](https://eci.ec.europa.eu/045/public/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
