@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iso20022.js: Create payments in 3 lines of code](https://www.iso20022js.com/)
+- [MacBook Owners with Faulty Butterfly Keyboards Begin Receiving Payouts](https://www.macrumors.com/2024/08/05/macbook-faulty-keyboard-payouts/)
+- [Launch HN: Airhart Aeronautics &lpar;YC S22&rpar; – A modern personal airplane](https://news.ycombinator.com/item?id=41163382)
+- [GPU Restaking – Beyond digital currencies to physical computing resources](https://blog.bagel.net/p/gpu-restaking)
 - [Infisical &lpar;YC W23&rpar; Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/infisical/jobs/28DIh6L-customer-success-engineer)
-- [US chip factory workers say a struggle to survive on wages as industry booms](https://www.theguardian.com/business/article/2024/aug/05/chip-factory-workers-wages)
-- [Leaked Docs Show Nvidia Scraping a Human Lifetime of Videos per Day to Train AI](https://www.404media.co/nvidia-ai-scraping-foundational-model-cosmos-project/)
-- [What Is a Real-Time Data Platform](https://www.singlestore.com/blog/what-is-a-real-time-data-platform)
-- [A New Type of Neural Network Is More Interpretable](https://spectrum.ieee.org/kan-neural-network)
 <!-- BLOG-POST-LIST:END -->
 
 ---
