@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Loses DOJ Antitrust Suit Over Search](https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search)
+- [World markets shaken over fears of U.S. recession as sell-offs deepen](https://www.cbc.ca/news/business/world-market-united-states-recession-1.7285512)
+- [San Francisco to Ban Rent-Setting Software Amid Gouging Worry](https://www.bloomberg.com/news/articles/2024-07-31/san-francisco-to-ban-software-amid-worry-on-gouging-in-rents)
 - [Iso20022.js: Create payments in 3 lines of code](https://www.iso20022js.com/)
-- [MacBook Owners with Faulty Butterfly Keyboards Begin Receiving Payouts](https://www.macrumors.com/2024/08/05/macbook-faulty-keyboard-payouts/)
-- [Launch HN: Airhart Aeronautics &lpar;YC S22&rpar; – A modern personal airplane](https://news.ycombinator.com/item?id=41163382)
-- [GPU Restaking – Beyond digital currencies to physical computing resources](https://blog.bagel.net/p/gpu-restaking)
-- [Infisical &lpar;YC W23&rpar; Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/infisical/jobs/28DIh6L-customer-success-engineer)
+- [Undark and the Radium Girls](https://www.damninteresting.com/undark-and-the-radium-girls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
