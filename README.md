@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft&#39;s internal memo: So Long, Intel &lpar;1992&rpar; [pdf]](http://iowa.gotthefacts.org/011607/5000/PX05476.pdf)
 - [Reflex &lpar;YC W23&rpar; Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
-- [The Anatomy of Brainwashing](https://www.science.org/doi/10.1126/science.adp1705)
-- [Below the Root: A story, a computer game and my lifelong obsession &lpar;2015&rpar;](https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/)
-- [Google Loses DOJ Antitrust Suit Over Search](https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search)
-- [Iso20022.js: Create payments in 3 lines of code](https://www.iso20022js.com/)
+- [Can we stop the decline of monarch butterflies and other pollinators?](https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/)
+- [Replacing Liquid Metal on an Asus Zephyrus G15&#39;s CPU](https://flemesre.github.io/posts/liquid-metal-replacement/)
+- [Debugging a rustc segfault on Illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
