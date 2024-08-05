@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Olympic athletes &lpar;legally&rpar; use banned drugs](https://www.cbc.ca/sports/olympics/therapeutic-use-exemptions-1.3801960)
 - [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 - [Computer Security Is a Political Struggle](https://cybershow.uk/blog/posts/computer-security-is-a-political-struggle/)
 - [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
 - [Apple Intelligence beta flagged a phishing email as &quot;Priority&quot;](https://social.panic.com/@cabel/112905175504595751)
-- [Learn PHP the Right Way](https://github.com/ggelashvili/learnphptherightway-outline)
 <!-- BLOG-POST-LIST:END -->
 
 ---
