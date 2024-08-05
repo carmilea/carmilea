@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I turned an old phone into a NAS](https://www.xda-developers.com/how-turned-old-phone-nas/)
 - [Japan stocks plunge as much as 7% as Asia shares extend sell-off](https://www.cnbc.com/2024/08/05/asia-markets.html)
+- [50 years ago, CP/M started the microcomputer revolution](https://www.theregister.com/2024/08/02/cpm_50th_anniversary/)
 - [How I Program in 2024](http://akkartik.name/post/programming-2024)
 - [Writing a system call tracer using eBPF](https://sh4dy.com/2024/08/03/beetracer/)
-- [Show HN: Free e-book about WebGPU Programming](https://shi-yan.github.io/webgpuunleashed/)
-- [Age is a simple, modern and secure file encryption tool, format, and Go library](https://github.com/FiloSottile/age)
 <!-- BLOG-POST-LIST:END -->
 
 ---
