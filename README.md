@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI chip startup Groq lands $640M to challenge Nvidia](https://techcrunch.com/2024/08/05/ai-chip-startup-groq-lands-640m-to-challenge-nvidia/)
-- [$1T wipeout: Market rout punishes mega-cap tech](https://www.cnbc.com/2024/08/05/1-trillion-wipeout-market-rout-punishes-mega-cap-tech.html)
-- [Andy Warhol&#39;s lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
-- [What do people ask chatbots? It&#39;s a lot of sex and homework](https://www.washingtonpost.com/technology/2024/08/04/chatgpt-use-real-ai-chatbot-conversations/)
-- [How the Music Industry Learned to Love Piracy](https://www.nytimes.com/2024/07/31/magazine/how-music-got-free-documentary.html)
+- [Infisical &lpar;YC W23&rpar; Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/infisical/jobs/28DIh6L-customer-success-engineer)
+- [US chip factory workers say a struggle to survive on wages as industry booms](https://www.theguardian.com/business/article/2024/aug/05/chip-factory-workers-wages)
+- [Leaked Docs Show Nvidia Scraping a Human Lifetime of Videos per Day to Train AI](https://www.404media.co/nvidia-ai-scraping-foundational-model-cosmos-project/)
+- [What Is a Real-Time Data Platform](https://www.singlestore.com/blog/what-is-a-real-time-data-platform)
+- [A New Type of Neural Network Is More Interpretable](https://spectrum.ieee.org/kan-neural-network)
 <!-- BLOG-POST-LIST:END -->
 
 ---
