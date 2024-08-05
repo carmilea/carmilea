@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan stocks plunge as much as 7% as Asia shares extend sell-off](https://www.cnbc.com/2024/08/05/asia-markets.html)
+- [How I Program in 2024](http://akkartik.name/post/programming-2024)
 - [Writing a system call tracer using eBPF](https://sh4dy.com/2024/08/03/beetracer/)
 - [Show HN: Free e-book about WebGPU Programming](https://shi-yan.github.io/webgpuunleashed/)
-- [Nvidia&#39;s Blackwell Reworked – Shipment Delays and GB200A Reworked Platforms](https://www.semianalysis.com/p/nvidias-blackwell-reworked-shipment)
-- [Show HN: AI-Powered Stock Market Analyst with Global Coverage](https://decodeinvesting.com/chat)
-- [Cortex A73&#39;s Not-So-Infinite Reordering Capacity](https://chipsandcheese.com/2024/08/04/cortex-a73s-not-so-infinite-reordering-capacity/)
+- [Age is a simple, modern and secure file encryption tool, format, and Go library](https://github.com/FiloSottile/age)
 <!-- BLOG-POST-LIST:END -->
 
 ---
