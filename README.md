@@ -56,9 +56,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I turned an old phone into a NAS](https://www.xda-developers.com/how-turned-old-phone-nas/)
-- [Japan stocks plunge as much as 7% as Asia shares extend sell-off](https://www.cnbc.com/2024/08/05/asia-markets.html)
+- [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
 - [50 years ago, CP/M started the microcomputer revolution](https://www.theregister.com/2024/08/02/cpm_50th_anniversary/)
+- [Building Lego Machines to Destroy Tall Lego Towers](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
 - [How I Program in 2024](http://akkartik.name/post/programming-2024)
 - [Writing a system call tracer using eBPF](https://sh4dy.com/2024/08/03/beetracer/)
 <!-- BLOG-POST-LIST:END -->
