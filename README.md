@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stocks trampled as Nikkei crashes 13%](https://www.reuters.com/markets/global-markets-wrapup-1-2024-08-04/)
 - [Unify &lpar;YC W23&rpar; Is Hiring LLM Engineers &lpar;Contributors&rpar;](https://www.ycombinator.com/companies/unify/jobs)
 - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
-- [Thunderstorms Have Caused $45B in Damages in the U.S. in Six Months](https://www.scientificamerican.com/article/thunderstorms-have-caused-usd45-billion-in-damages-in-the-u-s-in-just-six/)
 - [Building Lego Machines to Destroy Tall Lego Towers](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
+- [How I Program in 2024](http://akkartik.name/post/programming-2024)
+- [Writing a system call tracer using eBPF](https://sh4dy.com/2024/08/03/beetracer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
