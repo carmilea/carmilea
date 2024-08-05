@@ -56,10 +56,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stocks trampled as Nikkei crashes 13%](https://www.reuters.com/markets/global-markets-wrapup-1-2024-08-04/)
 - [Unify &lpar;YC W23&rpar; Is Hiring LLM Engineers &lpar;Contributors&rpar;](https://www.ycombinator.com/companies/unify/jobs)
 - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
 - [Thunderstorms Have Caused $45B in Damages in the U.S. in Six Months](https://www.scientificamerican.com/article/thunderstorms-have-caused-usd45-billion-in-damages-in-the-u-s-in-just-six/)
-- [50 years ago, CP/M started the microcomputer revolution](https://www.theregister.com/2024/08/02/cpm_50th_anniversary/)
 - [Building Lego Machines to Destroy Tall Lego Towers](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
 <!-- BLOG-POST-LIST:END -->
 
