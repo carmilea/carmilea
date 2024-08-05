@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflex &lpar;YC W23&rpar; Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
+- [The Anatomy of Brainwashing](https://www.science.org/doi/10.1126/science.adp1705)
+- [Below the Root: A story, a computer game and my lifelong obsession &lpar;2015&rpar;](https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/)
 - [Google Loses DOJ Antitrust Suit Over Search](https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search)
 - [Iso20022.js: Create payments in 3 lines of code](https://www.iso20022js.com/)
-- [Undark and the Radium Girls](https://www.damninteresting.com/undark-and-the-radium-girls/)
-- [Launch HN: Airhart Aeronautics &lpar;YC S22&rpar; – A modern personal airplane](https://news.ycombinator.com/item?id=41163382)
-- [Infisical &lpar;YC W23&rpar; Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/infisical/jobs/28DIh6L-customer-success-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
