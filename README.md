@@ -43,11 +43,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Chief Architect Mauricio Aristizabal: impact.com powers performance marketing with SingleStore](https://www.youtube.com/watch?v=5gQwCX4qnhg)
-- [How to do Full-Text Search with SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=9AZ3J0dVaY0)
-- [Made on SingleStore: Building a Real-Time Analytics Pipeline for Race Cars](https://www.youtube.com/watch?v=BQTVZcRncwQ)
-- [Six Days to SingleStore: ConveYour’s Rockset Migration Journey | SingleStore Webinars](https://www.youtube.com/watch?v=pPGGOAExAY8)
-- [Turn PPTs, CSVs, PDFs into AI-Accessible Data with Unstructured.io | SingleStore Webinars](https://www.youtube.com/watch?v=0ScnHQsL8Zk)
+- [Transforming Financial Fraud Detection with H2O.ai and AWS](https://www.youtube.com/watch?v=ch6ZY2ZALhQ)
+- [Advanced LLM Techniques: LLMs Level 2 Course | Teaser](https://www.youtube.com/watch?v=ul43ly-NK3I)
+- [H2O World India 2023 Recap](https://www.youtube.com/watch?v=i2aa2Jve7Gs)
+- [Exploring H2O&#39;s Generative AI Ecosystem | Teaser](https://www.youtube.com/watch?v=bfIMf8Fk9k0)
+- [Mastering Language Models : LLMs Level 1 Course | Teaser](https://www.youtube.com/watch?v=TeUmLrmmKrQ)
 <!-- YOUTUBE:END -->
 
 
