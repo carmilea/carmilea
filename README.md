@@ -57,10 +57,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
+- [Thunderstorms Have Caused $45B in Damages in the U.S. in Six Months](https://www.scientificamerican.com/article/thunderstorms-have-caused-usd45-billion-in-damages-in-the-u-s-in-just-six/)
 - [50 years ago, CP/M started the microcomputer revolution](https://www.theregister.com/2024/08/02/cpm_50th_anniversary/)
 - [Building Lego Machines to Destroy Tall Lego Towers](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
 - [How I Program in 2024](http://akkartik.name/post/programming-2024)
-- [Writing a system call tracer using eBPF](https://sh4dy.com/2024/08/03/beetracer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
