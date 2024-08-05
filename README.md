@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+- [Computer Security Is a Political Struggle](https://cybershow.uk/blog/posts/computer-security-is-a-political-struggle/)
 - [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
 - [Apple Intelligence beta flagged a phishing email as &quot;Priority&quot;](https://social.panic.com/@cabel/112905175504595751)
-- [Single-packet race condition breaking the 65535 byte lim](https://flatt.tech/research/posts/beyond-the-limit-expanding-single-packet-race-condition-with-first-sequence-sync/)
-- [Japan&#39;s Nikkei Posts Biggest Single-Day Fall Since 1987 After Weak U.S. Data](https://www.wsj.com/finance/stocks/japan-stocks-fall-sharply-after-weak-u-s-jobs-data-yen-strengthening-3903689f)
-- [Postgres stores data on disk – this one&#39;s a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
+- [Learn PHP the Right Way](https://github.com/ggelashvili/learnphptherightway-outline)
 <!-- BLOG-POST-LIST:END -->
 
 ---
