@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unify &lpar;YC W23&rpar; Is Hiring LLM Engineers &lpar;Contributors&rpar;](https://www.ycombinator.com/companies/unify/jobs)
-- [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
-- [Building Lego Machines to Destroy Tall Lego Towers](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
-- [How I Program in 2024](http://akkartik.name/post/programming-2024)
-- [Writing a system call tracer using eBPF](https://sh4dy.com/2024/08/03/beetracer/)
+- [OpenAI won&#39;t watermark ChatGPT text because its users could get caught](https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool)
+- [Single-packet race condition breaking the 65535 byte lim](https://flatt.tech/research/posts/beyond-the-limit-expanding-single-packet-race-condition-with-first-sequence-sync/)
+- [Japan&#39;s Nikkei Posts Biggest Single-Day Fall Since 1987 After Weak U.S. Data](https://www.wsj.com/finance/stocks/japan-stocks-fall-sharply-after-weak-u-s-jobs-data-yen-strengthening-3903689f)
+- [Postgres stores data on disk – this one&#39;s a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
+- [Stop Killing Games](https://eci.ec.europa.eu/045/public/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
