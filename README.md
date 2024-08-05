@@ -56,11 +56,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Schwab users are unable to log in](https://twitter.com/CharlesSchwab/status/1820460824973979956)
-- [California lawmakers got ticket freebies as they cracked down on Ticketmaster](https://www.politico.com/news/2024/08/05/california-lawmakers-free-tickets-00170882)
+- [A cryptographically secure bootloader for RISC-V in Rust](https://www.codethink.co.uk/articles/2024/secure_bootloader/)
+- [Largest Geothermal Development in America Taking Shape in Utah](https://mymodernmet.com/california-geothermal-project/)
+- [CrowdStrike to Delta: Stop pointing at us](https://www.wsj.com/business/airlines/crowdstrike-to-delta-stop-pointing-the-finger-at-us-5b2eea6c)
+- [Declaring &#39;Crisis,&#39; South Korean Firms Tell Managers to Work 6 Days a Week](https://www.nytimes.com/2024/08/05/business/south-korea-labor-workweek.html)
 - [New study uses self-interacting dark matter to solve the final parsec problem](https://phys.org/news/2024-07-interacting-dark-parsec-problem.html)
-- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
-- [Computer Security Is a Political Struggle](https://cybershow.uk/blog/posts/computer-security-is-a-political-struggle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
