@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI agents but they&#39;re working in big tech](https://alexsima.substack.com/p/ai-multi-agents-with-corporate-structures)
-- [To SQL or NoSQL: Why Not Both?](https://www.singlestore.com/blog/to-sql-or-nosql)
-- [YC is doing a first ever Fall 24 batch](https://www.ycombinator.com/blog/yc-fall-2024#)
-- [No price Microsoft could pay Apple to use Bing: Google antitrust ruling excerpts](https://www.theverge.com/24214574/google-antitrust-search-apple-microsoft-bing-ruling-breakdown)
-- [Parody site ClownStrike refused to bow to CrowdStrike&#39;s bogus DMCA takedown](https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/)
+- [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Product Engineer &lpar;iOS, Full-Stack&rpar;](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
+- [Systemd, 10 years later: a historical and technical retrospective](https://blog.darknedgy.net/technology/2020/05/02/0/)
+- [Show HN: AutoEditor – Edit your video in just a few clicks](https://autoeditor.video/)
+- [The Future of Open Source](https://blog.gitbutler.com/the-future-of-open-source/)
+- [Partisan bot-like accounts continue to amplify divisive content on X](https://www.globalwitness.org/en/campaigns/digital-threats/no-ifs-many-bots-partisan-bot-accounts-continue-amplify-divisive-content-x-generating-over-4-billion-views-uk-general-election-was-called/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
