@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t use Vim for the wrong reasons &lpar;2020&rpar;](https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370)
+- [Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
+- [Is Europe headed towards a new Ice Age as ocean current nears collapse?](https://www.thenationalnews.com/business/energy/2024/07/29/is-europe-headed-for-ice-age-as-ocean-current-nears-collapse/)
+- [A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
+- [A simply utility script which allows you to analyze your Python file](https://github.com/mraza007/python-file-analyzer)
 - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
-- [No Salt](https://jakeseliger.com/2024/08/05/no-salt/)
-- [Building rqlite 9.0: Cutting disk usage by half](https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/)
-- [Eeverybody Gets a Star: Yelp&#39;s Affect on Restaurants and Reviews, 20 Years In](https://www.eater.com/24200672/yelp-effect-on-restaurants-culture-review-everything)
 <!-- BLOG-POST-LIST:END -->
 
 ---
