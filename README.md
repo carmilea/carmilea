@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OpenAI co-founder John Schulman says he will leave and join rival Anthropic](https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html)
+- [X is closing San Francisco HQ and relocating staffers to San Jose](https://fortune.com/2024/08/05/x-closing-san-francisco-hq-relocating-staffers-san-jose-palo-alto-shared-space-with-x-ai-linda-yaccarino-leaked-email/)
 - [How old is your globe? [pdf]](https://replogleglobes.com/app/uploads/2023/09/How-old-is-your-globerv.pdf)
 - [Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
 - [A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
-- [IP.network: Check IP Address](https://www.ip.network)
 <!-- BLOG-POST-LIST:END -->
 
 ---
