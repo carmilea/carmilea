@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
 - [A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
-- [A simply utility script which allows you to analyze your Python file](https://github.com/mraza007/python-file-analyzer)
+- [IP.network: Check IP Address](https://www.ip.network)
 - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 - [No Salt](https://jakeseliger.com/2024/08/05/no-salt/)
 <!-- BLOG-POST-LIST:END -->
