@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Hazel &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
-- [The Resurrection of Intel Will Take More Than Three Days](https://www.nextplatform.com/2024/08/02/the-resurrection-of-intel-will-take-more-than-three-days/)
-- [Big Macs and the Cost of Living Crisis](https://www.abc.net.au/news/2024-08-05/cost-of-living-interest-rates-burgers/104156654)
-- [WordStar 7, the last ever DOS version, is re-released for free](https://www.theregister.com/2024/08/06/wordstar_7_the_last_ever/)
 - [OpenAI co-founder John Schulman says he will leave and join rival Anthropic](https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html)
+- [X is closing San Francisco HQ and relocating staffers to San Jose](https://fortune.com/2024/08/05/x-closing-san-francisco-hq-relocating-staffers-san-jose-palo-alto-shared-space-with-x-ai-linda-yaccarino-leaked-email/)
+- [Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
+- [A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
