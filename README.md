@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sentry is now Fair Source](https://blog.sentry.io/sentry-is-now-fair-source/)
+- [Google Is Ending Production of Chromecast](https://blog.google/products/google-nest/chromecast-history/)
+- [Show HN: I built a simple, open-source tool to manage servers and SSH keys](https://github.com/d3witt/viking)
 - [Hazel &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
-- [OpenAI co-founder John Schulman says he will leave and join rival Anthropic](https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html)
-- [Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
-- [A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
-- [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
+- [Stereographer](https://www.engineersneedart.com/stereographer/stereographer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
