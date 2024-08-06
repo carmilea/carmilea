@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t use Vim for the wrong reasons](https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370)
+- [Don&#39;t use Vim for the wrong reasons &lpar;2020&rpar;](https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370)
+- [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 - [No Salt](https://jakeseliger.com/2024/08/05/no-salt/)
-- [Creativity secrets from armed robbers, fraudsters and other criminals](https://denisecullen.com.au/creativity-secrets-from-armed-robbers-fraudsters-and-other-criminals/)
 - [Building rqlite 9.0: Cutting disk usage by half](https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/)
-- [Why is it so hard for the U.S. to build quality transit?](https://www.fastcompany.com/91166562/us-transit-exceptionalism)
+- [Eeverybody Gets a Star: Yelp&#39;s Affect on Restaurants and Reviews, 20 Years In](https://www.eater.com/24200672/yelp-effect-on-restaurants-culture-review-everything)
 <!-- BLOG-POST-LIST:END -->
 
 ---
