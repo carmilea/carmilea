@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI agents but they&#39;re working in big tech](https://alexsima.substack.com/p/ai-multi-agents-with-corporate-structures)
+- [To SQL or NoSQL: Why Not Both?](https://www.singlestore.com/blog/to-sql-or-nosql)
+- [YC is doing a first ever Fall 24 batch](https://www.ycombinator.com/blog/yc-fall-2024#)
+- [No price Microsoft could pay Apple to use Bing: Google antitrust ruling excerpts](https://www.theverge.com/24214574/google-antitrust-search-apple-microsoft-bing-ruling-breakdown)
 - [Parody site ClownStrike refused to bow to CrowdStrike&#39;s bogus DMCA takedown](https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/)
-- [WD announces enterprise 128TB SSD](https://www.tomshardware.com/pc-components/storage/wd-announces-enterprise-128tb-ssd-8tb-sd-cards-and-a-16tb-external-ssd-at-fms-2024)
-- [The Actual Wolf of Wallstreet Cold Call Script](https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script)
-- [Tracking supermarket prices with Playwright](https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/)
-- [Launch HN: Firezone &lpar;YC W22&rpar; – Zero-trust access platform built on WireGuard](https://news.ycombinator.com/item?id=41173330)
 <!-- BLOG-POST-LIST:END -->
 
 ---
