@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sentry is now Fair Source](https://blog.sentry.io/sentry-is-now-fair-source/)
-- [Google Is Ending Production of Chromecast](https://blog.google/products/google-nest/chromecast-history/)
+- [We’re ending production of Chromecast](https://blog.google/products/google-nest/chromecast-history/)
 - [Show HN: I built a simple, open-source tool to manage servers and SSH keys](https://github.com/d3witt/viking)
 - [Hazel &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
 - [Stereographer](https://www.engineersneedart.com/stereographer/stereographer.html)
+- [Crafting Formulas: Lambdas All the Way Down](https://text.marvinborner.de/2024-04-16-10.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
