@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please Do Not Attempt to Simplify This Code](https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go)
+- [Bring Crypto Back to Currency](https://rohan.ga/blog/bring-crypto-back-to_currency/)
+- [Drake Releases 100gb Data Dump](https://100gigs.org/)
+- [Please do not attempt to simplify this code](https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go)
 - [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Product Engineer &lpar;iOS, Full-Stack&rpar;](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
 - [What purpose did the lower-right Enter key serve on original Mac 128k keyboard?](https://retrocomputing.stackexchange.com/questions/30478/what-purpose-did-the-lower-right-enter-key-serve-on-the-original-mac-128k-keyb)
-- [Systemd, 10 years later: a historical and technical retrospective &lpar;2020&rpar;](https://blog.darknedgy.net/technology/2020/05/02/0/)
-- [Show HN: AutoEditor – Edit your video in just a few clicks](https://autoeditor.video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
