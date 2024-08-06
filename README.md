@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Composer Has No Clothes](https://thebaffler.com/latest/the-composer-has-no-clothes-brown)
-- [Reflex &lpar;YC W23&rpar; Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
-- [Can we stop the decline of monarch butterflies and other pollinators?](https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/)
-- [Replacing Liquid Metal on an Asus Zephyrus G15&#39;s CPU](https://flemesre.github.io/posts/liquid-metal-replacement/)
-- [Debugging a rustc segfault on Illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
+- [Don&#39;t use Vim for the wrong reasons](https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370)
+- [No Salt](https://jakeseliger.com/2024/08/05/no-salt/)
+- [Creativity secrets from armed robbers, fraudsters and other criminals](https://denisecullen.com.au/creativity-secrets-from-armed-robbers-fraudsters-and-other-criminals/)
+- [Building rqlite 9.0: Cutting disk usage by half](https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/)
+- [Why is it so hard for the U.S. to build quality transit?](https://www.fastcompany.com/91166562/us-transit-exceptionalism)
 <!-- BLOG-POST-LIST:END -->
 
 ---
