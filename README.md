@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We’re ending production of Chromecast](https://blog.google/products/google-nest/chromecast-history/)
-- [Show HN: I built a simple, open-source tool to manage servers and SSH keys](https://github.com/d3witt/viking)
-- [Hazel &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
-- [Stereographer](https://www.engineersneedart.com/stereographer/stereographer.html)
-- [Crafting Formulas: Lambdas All the Way Down](https://text.marvinborner.de/2024-04-16-10.html)
+- [Danswer &lpar;YC W24&rpar; Is Hiring Founding Full Stack Engineer](https://www.workatastartup.com/jobs/65936)
+- [ScholArxiv – an open-source aesthetic and minimal research paper explorer](https://github.com/dagmawibabi/ScholArxiv)
+- [Dell lays off 12,500 people](https://www.theregister.com/2024/08/06/dell_layoffs/)
+- [The Zombie Pharmacies That Are Holding Back New York City Retail](https://www.nytimes.com/2024/08/06/nyregion/pharmacies-vacant-drugstores-retail.html)
+- [Show HN: I built a serverless data API builder – No storage, Low Latency](https://fleak.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
