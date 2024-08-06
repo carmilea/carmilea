@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Danswer &lpar;YC W24&rpar; Is Hiring Founding Full Stack Engineer](https://www.workatastartup.com/jobs/65936)
-- [ScholArxiv – an open-source aesthetic and minimal research paper explorer](https://github.com/dagmawibabi/ScholArxiv)
-- [Dell lays off 12,500 people](https://www.theregister.com/2024/08/06/dell_layoffs/)
-- [The Zombie Pharmacies That Are Holding Back New York City Retail](https://www.nytimes.com/2024/08/06/nyregion/pharmacies-vacant-drugstores-retail.html)
-- [Show HN: I built a serverless data API builder – No storage, Low Latency](https://fleak.ai/)
+- [Parody site ClownStrike refused to bow to CrowdStrike&#39;s bogus DMCA takedown](https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/)
+- [WD announces enterprise 128TB SSD](https://www.tomshardware.com/pc-components/storage/wd-announces-enterprise-128tb-ssd-8tb-sd-cards-and-a-16tb-external-ssd-at-fms-2024)
+- [The Actual Wolf of Wallstreet Cold Call Script](https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script)
+- [Tracking Supermarket Prices with Playwright](https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/)
+- [Launch HN: Firezone &lpar;YC W22&rpar; – Zero-trust access platform built on WireGuard](https://news.ycombinator.com/item?id=41173330)
 <!-- BLOG-POST-LIST:END -->
 
 ---
