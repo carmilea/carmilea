@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Composer Has No Clothes](https://thebaffler.com/latest/the-composer-has-no-clothes-brown)
 - [Reflex &lpar;YC W23&rpar; Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
 - [Can we stop the decline of monarch butterflies and other pollinators?](https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/)
 - [Replacing Liquid Metal on an Asus Zephyrus G15&#39;s CPU](https://flemesre.github.io/posts/liquid-metal-replacement/)
 - [Debugging a rustc segfault on Illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
-- [Below the Root: A story, a computer game and my lifelong obsession &lpar;2015&rpar;](https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
