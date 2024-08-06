@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Hazel &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
 - [OpenAI co-founder John Schulman says he will leave and join rival Anthropic](https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html)
-- [X is closing San Francisco HQ and relocating staffers to San Jose](https://fortune.com/2024/08/05/x-closing-san-francisco-hq-relocating-staffers-san-jose-palo-alto-shared-space-with-x-ai-linda-yaccarino-leaked-email/)
 - [Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
 - [A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
+- [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
