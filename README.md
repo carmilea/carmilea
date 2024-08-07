@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to build site with payment, subscriptions, user login, registration](https://news.ycombinator.com/item?id=41182823)
+- [Flexport is hiring a product designer for our new Control Tower Product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
+- [Humanity is failing one of its greatest moral tests](https://www.vox.com/future-perfect/363550/factory-farming-human-progress-sustainable-food-movement)
+- [Green Tech Startup with No Climate Experience Secured Millions in Gov Contracts](https://www.propublica.org/article/nevada-nzero-carbon-emissions-tracking-project)
 - [End of an era: Apple&#39;s SuperDrive has sold out after 16 years](https://appleinsider.com/articles/24/08/05/end-of-an-era-apples-superdrive-has-finally-sold-out-after-16-years)
-- [I Got a Sleep Study in My 30s. It Probably Saved My Life](https://www.gq.com/story/sleep-apnea-study)
-- [Show HN: Play with an interactive heatmap of SF crime &lpar;and other cities&rpar;](https://safemap.io/sf/map)
-- [Launch HN: Release &lpar;YC W20&rpar; – Orchestrate AI Infrastructure and Applications](https://news.ycombinator.com/item?id=41182055)
+- [The Pesticide Industry&#39;s Toxic Lobby](https://jacobin.com/2024/07/pesticide-cancer-lobbying-lawsuits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
