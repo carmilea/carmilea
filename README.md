@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Rising rates of cancer in young people prompts hunt for environmental culprit](https://www.ft.com/content/491d7760-c329-4f57-9509-0da36bc9e7de)
 - [Streams, Calculational Proofs and Dafny](https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html)
-- [Electric chainsaws and the gorge of misery](https://lcamtuf.substack.com/p/electric-chainsaws-and-the-gorge)
+- [70% of new NPM packages in last 6 months were spam](https://blog.phylum.io/the-great-npm-garbage-patch/)
 - [The Private Life: On James Baldwin](https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/)
 - [Medieval](https://teenage.engineering/products/ep-1320)
 <!-- BLOG-POST-LIST:END -->
