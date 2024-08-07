@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Front-End Bait and Switch?](https://news.ycombinator.com/item?id=41184726)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41185460)
+- [Neon: A serverless open-source alternative to AWS Aurora Postgres](https://github.com/neondatabase/neon)
 - [Mistral Agents](https://mistral.ai/news/build-tweak-repeat/)
+- [macOS Sequoia makes it harder to run not notarized or signed apps](https://9to5mac.com/2024/08/06/macos-sequoia-makes-it-harder-to-run-apps-that-dont-follow-apples-security-rules/)
 - [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
-- [NASA Says Boeing Starliner Astronauts May Fly Home on SpaceX in 2025](https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html)
-- [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
