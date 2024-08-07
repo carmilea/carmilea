@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Gangs in the Los Angeles County Sheriff&#39;s Department](https://en.wikipedia.org/wiki/Gangs_in_the_Los_Angeles_County_Sheriff%27s_Department)
+- [Electric Chainsaws and the Gorge of Misery](https://lcamtuf.substack.com/p/electric-chainsaws-and-the-gorge)
 - [The Private Life: On James Baldwin](https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/)
 - [Jeremy Rowley resigns from DigiCert due to mass-revocation incident](https://bugzilla.mozilla.org/show_bug.cgi?id=1910322)
 - [Medieval](https://teenage.engineering/products/ep-1320)
-- [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
