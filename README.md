@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Judge Fines Ripple $125M, Bans Future Securities Law Violations](https://www.coindesk.com/policy/2024/08/07/judge-fines-ripple-125m-bans-future-securities-law-violations-in-long-running-sec-case/)
 - [The Well-Off People Who Can&#39;t Spend Money](https://www.theatlantic.com/ideas/archive/2024/08/spending-money-finance-anxiety-tightwads/679373/)
+- [Gazette: Cloud-native millisecond-latency streaming](https://github.com/gazette)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41185460)
-- [DSOP – Delayed Open Source Publication](https://opensource.org/delayed-open-source-publication)
 - [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
-- [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
