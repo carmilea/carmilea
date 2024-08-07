@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Photoroom &lpar;YC S20&rpar; Is Hiring a Django Back End Lead in Paris &lpar;PostgreSQL, REST&rpar;](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
+- [AMD Ryzen 9000 Series processors are ready to deliver world class gaming](https://twitter.com/amdryzen/status/1820956835794358451)
 - [Cringey, but True: How Uber Tests Payments in Production](https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments)
 - [Streams, Calculational Proofs and Dafny](https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html)
 - [70% of new NPM packages in last 6 months were spam](https://blog.phylum.io/the-great-npm-garbage-patch/)
-- [The Private Life: On James Baldwin](https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/)
-- [Medieval](https://teenage.engineering/products/ep-1320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
