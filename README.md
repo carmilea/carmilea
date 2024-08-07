@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deprecate 0.0.0.0 for Private Network Access](https://chromestatus.com/feature/5106143060033536)
+- [A Two-Stroke Engine Made from Scratch Using Basic Hardware Store Parts](https://hackaday.com/2024/08/05/a-two-stroke-engine-made-from-scratch-using-basic-hardware-store-parts/)
+- [GitButler is now Fair Source](https://blog.gitbutler.com/gitbutler-is-now-fair-source/)
 - [Scrum is the Symptom, not the Problem](https://rethinkingsoftware.substack.com/p/scrum-is-the-symptom-not-the-problem)
-- [Humane&#39;s daily returns are outpacing sales](https://www.theverge.com/2024/8/7/24211339/humane-ai-pin-more-daily-returns-than-sales)
-- [Official proposal for Type Unions in C#](https://github.com/dotnet/csharplang/blob/18a527bcc1f0bdaf542d8b9a189c50068615b439/proposals/TypeUnions.md)
-- [Flexport &lpar;YC W14&rpar; is hiring a product designer for our new Control Tower product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
-- [Tony Hawk&#39;s Pro Strcpy](https://icode4.coffee/?p=954)
+- [1970 Clean Air Act Was Intended to Cover Carbon Dioxide](https://e360.yale.edu/digest/clean-air-act-climate-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
