@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Home Insurance Decisions Based on Drones and AI](https://www.businessinsider.com/homeowners-insurance-nightmare-cancellation-surveillance-drone-ai-future-2024-8)
 - [AMD Ryzen 5 9600X and Ryzen 7 9700X Offer Excellent Linux Performance](https://www.phoronix.com/review/ryzen-9600x-9700x)
 - [Show HN: I&#39;ve spent nearly 5y on a web app that creates 3D apartments](https://roometron.com)
 - [Sieve &lpar;YC W22&rpar; is hiring product engineers to build the future of video AI](https://sievedata.com/about/jobs)
 - [Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams](https://www.budgetflow.cc/)
-- [First USGS supercomputer decommissioning makes way for successors](https://www.usgs.gov/news/featured-story/first-usgs-supercomputer-decommissioning-makes-way-successors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
