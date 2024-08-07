@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flexport is hiring a product designer for our new Control Tower Product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
-- [Humanity is failing one of its greatest moral tests](https://www.vox.com/future-perfect/363550/factory-farming-human-progress-sustainable-food-movement)
-- [Green Tech Startup with No Climate Experience Secured Millions in Gov Contracts](https://www.propublica.org/article/nevada-nzero-carbon-emissions-tracking-project)
-- [End of an era: Apple&#39;s SuperDrive has sold out after 16 years](https://appleinsider.com/articles/24/08/05/end-of-an-era-apples-superdrive-has-finally-sold-out-after-16-years)
-- [The Pesticide Industry&#39;s Toxic Lobby](https://jacobin.com/2024/07/pesticide-cancer-lobbying-lawsuits/)
+- [Scrum is the Symptom, not the Problem](https://rethinkingsoftware.substack.com/p/scrum-is-the-symptom-not-the-problem)
+- [Humane&#39;s daily returns are outpacing sales](https://www.theverge.com/2024/8/7/24211339/humane-ai-pin-more-daily-returns-than-sales)
+- [Official proposal for Type Unions in C#](https://github.com/dotnet/csharplang/blob/18a527bcc1f0bdaf542d8b9a189c50068615b439/proposals/TypeUnions.md)
+- [Flexport &lpar;YC W14&rpar; is hiring a product designer for our new Control Tower product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
+- [Tony Hawk&#39;s Pro Strcpy](https://icode4.coffee/?p=954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
