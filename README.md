@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jeremy Rowley resigns from DigiCert due to mass-revocation incident](https://bugzilla.mozilla.org/show_bug.cgi?id=1910322)
 - [Medieval](https://teenage.engineering/products/ep-1320)
 - [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
 - [My favorite device is a Chromebook](https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/)
 - [How long does Apple support Mac firmware?](https://eclecticlight.co/2024/08/06/how-long-does-apple-support-mac-firmware/)
-- [Airbnb shares drop 12% as company flags weakening US demand](https://www.theguardian.com/technology/article/2024/aug/06/airbnb-shares-drop-earnings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
