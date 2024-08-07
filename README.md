@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bring Crypto Back to Currency](https://rohan.ga/blog/bring-crypto-back-to_currency/)
-- [Drake Releases 100gb Data Dump](https://100gigs.org/)
-- [Please do not attempt to simplify this code](https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go)
-- [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Product Engineer &lpar;iOS, Full-Stack&rpar;](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
-- [What purpose did the lower-right Enter key serve on original Mac 128k keyboard?](https://retrocomputing.stackexchange.com/questions/30478/what-purpose-did-the-lower-right-enter-key-serve-on-the-original-mac-128k-keyb)
+- [Medieval](https://teenage.engineering/products/ep-1320)
+- [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
+- [My favorite device is a Chromebook](https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/)
+- [How long does Apple support Mac firmware?](https://eclecticlight.co/2024/08/06/how-long-does-apple-support-mac-firmware/)
+- [Airbnb shares drop 12% as company flags weakening US demand](https://www.theguardian.com/technology/article/2024/aug/06/airbnb-shares-drop-earnings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
