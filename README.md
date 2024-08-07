@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deprecate 0.0.0.0 for Private Network Access](https://chromestatus.com/feature/5106143060033536)
-- [A Two-Stroke Engine Made from Scratch Using Basic Hardware Store Parts](https://hackaday.com/2024/08/05/a-two-stroke-engine-made-from-scratch-using-basic-hardware-store-parts/)
-- [GitButler is now Fair Source](https://blog.gitbutler.com/gitbutler-is-now-fair-source/)
-- [Scrum is the Symptom, not the Problem](https://rethinkingsoftware.substack.com/p/scrum-is-the-symptom-not-the-problem)
-- [1970 Clean Air Act Was Intended to Cover Carbon Dioxide](https://e360.yale.edu/digest/clean-air-act-climate-change)
+- [Ask HN: Front-End Bait and Switch?](https://news.ycombinator.com/item?id=41184726)
+- [Mistral Agents](https://mistral.ai/news/build-tweak-repeat/)
+- [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
+- [NASA Says Boeing Starliner Astronauts May Fly Home on SpaceX in 2025](https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html)
+- [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
