@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Raspberry Pi Pico 2, our new $5 microcontroller board, on sale now](https://www.raspberrypi.com/news/raspberry-pi-pico-2-our-new-5-microcontroller-board-on-sale-now/)
 - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
+- [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
 - [Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/)
 - [Activeloop &lpar;YC S18&rpar;: Hiring Senior C++ Engineers to Scale Database for AI](https://careers.activeloop.ai/)
-- [Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
