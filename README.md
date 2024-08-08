@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I built interactive map of active and decommissioned nuclear stations](https://nuclearstations.com/map)
-- [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
-- [RLHF is just barely RL](https://twitter.com/karpathy/status/1821277264996352246)
-- [Google and Meta struck secret ads deal to target teenagers](https://www.ft.com/content/b3bb80f4-4e01-4ce6-8358-f4f8638790f8)
-- [How to talk to your parents about hardware memory safety &lpar;CHERI&rpar;](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
+- [CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
+- [The News Is Information Junk Food &lpar;2022&rpar;](https://chuck.is/news/)
+- [More and more German trains are not allowed to enter Switzerland](https://www.bluewin.ch/en/news/switzerland/more-and-more-german-trains-are-not-allowed-to-enter-switzerland-2304207.html)
+- [Reading the source code of Zig [video]](https://www.youtube.com/watch?v=BgZ0EMXjnVc)
+- [Open Source AWS SDK Code Examples: Your Go-To Resource for Cloud Development](https://github.com/awsdocs/aws-doc-sdk-examples)
 <!-- BLOG-POST-LIST:END -->
 
 ---
