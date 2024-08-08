@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi Pico 2, our new $5 microcontroller board, on sale now](https://www.raspberrypi.com/news/raspberry-pi-pico-2-our-new-5-microcontroller-board-on-sale-now/)
-- [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
-- [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
-- [Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/)
-- [Activeloop &lpar;YC S18&rpar;: Hiring Senior C++ Engineers to Scale Database for AI](https://careers.activeloop.ai/)
+- [There&#39;s a Surprisingly Easy Way to Remove Microplastics from Your Drinking Water](https://www.sciencealert.com/theres-a-surprisingly-easy-way-to-remove-microplastics-from-your-drinking-water)
+- [Cloudflare Introduces Automatic SSL/TLS](https://blog.cloudflare.com/introducing-automatic-ssl-tls-securing-and-simplifying-origin-connectivity)
+- [A new report finds Boeing&#39;s rockets are built with an unqualified work force](https://arstechnica.com/space/2024/08/a-new-report-finds-boeings-rockets-are-built-with-an-unqualified-work-force/)
+- [Home security giant ADT says it was hacked](https://techcrunch.com/2024/08/08/home-security-giant-adt-says-it-was-hacked/)
+- [Show HN: RoundtableJS – Open-source programmatic survey library](https://github.com/roundtableAI/roundtable-js)
 <!-- BLOG-POST-LIST:END -->
 
 ---
