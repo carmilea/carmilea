@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LibreCUDA – launch CUDA code on Nvidia GPUs without the proprietary CUDA runtime](https://github.com/mikex86/LibreCuda)
-- [Employers used return-to-office to make workers quit](https://thehill.com/opinion/technology/4800828-office-mandates-cause-attrition/)
-- [Cloudflare Introduces Automatic SSL/TLS](https://blog.cloudflare.com/introducing-automatic-ssl-tls-securing-and-simplifying-origin-connectivity)
-- [Show HN: RoundtableJS – Open-source programmatic survey library](https://github.com/roundtableAI/roundtable-js)
-- [How we migrated onto K8s in less than 12 months](https://www.figma.com/blog/migrating-onto-kubernetes/)
+- [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
+- [Molecule restores cognition, memory in Alzheimer&#39;s disease model mice](https://www.uclahealth.org/news/release/molecule-restores-cognition-memory-alzheimers-disease-model)
+- [Launch HN: Stack Auth &lpar;YC S24&rpar; – An Open-Source Auth0/Clerk Alternative](https://github.com/stack-auth/stack)
+- [Do Quests, Not Goals](https://www.raptitude.com/2024/08/do-quests-not-goals/)
+- [LibreCUDA – Launch CUDA code on Nvidia GPUs without the proprietary runtime](https://github.com/mikex86/LibreCuda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
