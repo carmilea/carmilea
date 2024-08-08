@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There&#39;s a Surprisingly Easy Way to Remove Microplastics from Your Drinking Water](https://www.sciencealert.com/theres-a-surprisingly-easy-way-to-remove-microplastics-from-your-drinking-water)
+- [LibreCUDA – launch CUDA code on Nvidia GPUs without the proprietary CUDA runtime](https://github.com/mikex86/LibreCuda)
+- [Employers used return-to-office to make workers quit](https://thehill.com/opinion/technology/4800828-office-mandates-cause-attrition/)
 - [Cloudflare Introduces Automatic SSL/TLS](https://blog.cloudflare.com/introducing-automatic-ssl-tls-securing-and-simplifying-origin-connectivity)
-- [A new report finds Boeing&#39;s rockets are built with an unqualified work force](https://arstechnica.com/space/2024/08/a-new-report-finds-boeings-rockets-are-built-with-an-unqualified-work-force/)
-- [Home security giant ADT says it was hacked](https://techcrunch.com/2024/08/08/home-security-giant-adt-says-it-was-hacked/)
 - [Show HN: RoundtableJS – Open-source programmatic survey library](https://github.com/roundtableAI/roundtable-js)
+- [How we migrated onto K8s in less than 12 months](https://www.figma.com/blog/migrating-onto-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
