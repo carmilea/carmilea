@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical vulnerabilities in 6 AWS services disclosed at Black Hat USA](https://www.scmagazine.com/news/critical-vulnerabilities-in-6-aws-services-disclosed-at-black-hat-usa)
+- [Tsunami Alert Issued for Japan](https://tsunami.gov/events/PHEB/2024/08/08/24221000/2/WEPA40//WEPA40.txt)
 - [CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
 - [The News Is Information Junk Food &lpar;2022&rpar;](https://chuck.is/news/)
-- [More and more German trains are not allowed to enter Switzerland](https://www.bluewin.ch/en/news/switzerland/more-and-more-german-trains-are-not-allowed-to-enter-switzerland-2304207.html)
-- [Reading the source code of Zig [video]](https://www.youtube.com/watch?v=BgZ0EMXjnVc)
-- [Open Source AWS SDK Code Examples: Your Go-To Resource for Cloud Development](https://github.com/awsdocs/aws-doc-sdk-examples)
+- [Digital Tools I Wish Existed &lpar;2019&rpar;](https://jon.bo/posts/digital-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
