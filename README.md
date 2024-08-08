@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mozilla wants you to love Firefox again](https://www.fastcompany.com/91167564/mozilla-wants-you-to-love-firefox-again)
-- [Bun v1.1.22 – Bun Blog](https://bun.sh/blog/bun-v1.1.22)
+- [Children today are suffering a deficit of play](https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play)
+- [Mineshaft Gap – A real-time strategy game for the C64 by Drmortalwombat](https://www.indieretronews.com/2024/08/mineshaft-gap-real-time-strategy-game.html)
 - [Robot Dog with Gun Turret for Hunting Aerial Drones Being Tested by Army](https://www.twz.com/land/robot-dog-with-gun-turret-for-hunting-aerial-drones-being-tested-by-army)
+- [How to talk to your parents about hardware memory safety &lpar;CHERI&rpar;](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
 - [Argdown, like Markdown for argument mapping](https://argdown.org/)
-- [Judge Fines Ripple $125M, Bans Future Securities Law Violations](https://www.coindesk.com/policy/2024/08/07/judge-fines-ripple-125m-bans-future-securities-law-violations-in-long-running-sec-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
