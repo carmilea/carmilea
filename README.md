@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla wants you to love Firefox again](https://www.fastcompany.com/91167564/mozilla-wants-you-to-love-firefox-again)
 - [Bun v1.1.22 – Bun Blog](https://bun.sh/blog/bun-v1.1.22)
-- [CrowdStrike&#39;s outage should not have happened](https://ebellani.github.io/blog/2024/analyzing-crowdstrike-s-root-cause-analysis-or-on-missing-the-point-about-quality/)
 - [Robot Dog with Gun Turret for Hunting Aerial Drones Being Tested by Army](https://www.twz.com/land/robot-dog-with-gun-turret-for-hunting-aerial-drones-being-tested-by-army)
-- [Costco membership scanners coming to clubs in sharing crackdown](https://www.axios.com/2024/08/07/costco-membership-scanners-card-sharing-crackdown)
 - [Argdown, like Markdown for argument mapping](https://argdown.org/)
+- [Judge Fines Ripple $125M, Bans Future Securities Law Violations](https://www.coindesk.com/policy/2024/08/07/judge-fines-ripple-125m-bans-future-securities-law-violations-in-long-running-sec-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
