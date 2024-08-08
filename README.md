@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
-- [Molecule restores cognition, memory in Alzheimer&#39;s disease model mice](https://www.uclahealth.org/news/release/molecule-restores-cognition-memory-alzheimers-disease-model)
-- [Launch HN: Stack Auth &lpar;YC S24&rpar; – An Open-Source Auth0/Clerk Alternative](https://github.com/stack-auth/stack)
-- [Do Quests, Not Goals](https://www.raptitude.com/2024/08/do-quests-not-goals/)
-- [LibreCUDA – Launch CUDA code on Nvidia GPUs without the proprietary runtime](https://github.com/mikex86/LibreCuda)
+- [Ask HN: How did you learn Regex?](https://news.ycombinator.com/item?id=41195652)
+- [Apple Is America&#39;s Semiconductor Problem](https://www.semiconductor-digest.com/apple-is-americas-semiconductor-problem/)
+- [New doctoral thesis proposes Buckminster Fuller was a &#39;charlatan&#39;](https://research.aalto.fi/en/publications/genius-or-charlatanry-a-psychobiographical-reinterpretation-of-th)
+- [Show HN: The First Non-Smart AI Pendant &lpar;NotFriend&rpar;](https://notfriend.org/)
+- [Recent Performance Improvements in Function Calls in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 ---
