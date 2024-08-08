@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ISS astronauts on eight-day mission may be stuck until 2025, NASA says](https://www.theguardian.com/science/article/2024/aug/07/spacex-delay-international-space-station-boeing-nasa)
+- [Microsoft says Delta&#39;s ancient IT explains long outage after CrowdStrike snafu](https://arstechnica.com/tech-policy/2024/08/microsoft-says-deltas-ancient-it-explains-long-outage-after-crowdstrike-snafu/)
 - [The play deficit &lpar;2013&rpar;](https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play)
-- [Mozilla wants you to love Firefox again](https://www.fastcompany.com/91167564/mozilla-wants-you-to-love-firefox-again)
-- [Robot Dog with Gun Turret for Hunting Aerial Drones Being Tested by Army](https://www.twz.com/land/robot-dog-with-gun-turret-for-hunting-aerial-drones-being-tested-by-army)
 - [How to talk to your parents about hardware memory safety &lpar;CHERI&rpar;](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
 - [Argdown, like Markdown for argument mapping](https://argdown.org/)
 <!-- BLOG-POST-LIST:END -->
