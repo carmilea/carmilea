@@ -62,7 +62,7 @@
 - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
 - [RLHF is just barely RL](https://twitter.com/karpathy/status/1821277264996352246)
 - [Google and Meta struck secret ads deal to target teenagers](https://www.ft.com/content/b3bb80f4-4e01-4ce6-8358-f4f8638790f8)
-- [What I Saw in the Darién Gap](https://www.theatlantic.com/magazine/archive/2024/09/darien-gap-route-migrants-panama/679156/)
+- [How to talk to your parents about hardware memory safety &lpar;CHERI&rpar;](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
