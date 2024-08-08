@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Children today are suffering a deficit of play](https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play)
-- [Mineshaft Gap – A real-time strategy game for the C64 by Drmortalwombat](https://www.indieretronews.com/2024/08/mineshaft-gap-real-time-strategy-game.html)
+- [The play deficit &lpar;2013&rpar;](https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play)
+- [Mozilla wants you to love Firefox again](https://www.fastcompany.com/91167564/mozilla-wants-you-to-love-firefox-again)
 - [Robot Dog with Gun Turret for Hunting Aerial Drones Being Tested by Army](https://www.twz.com/land/robot-dog-with-gun-turret-for-hunting-aerial-drones-being-tested-by-army)
 - [How to talk to your parents about hardware memory safety &lpar;CHERI&rpar;](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
 - [Argdown, like Markdown for argument mapping](https://argdown.org/)
