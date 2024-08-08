@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 - [The Miniature Engineering Craftsmanship Museum](https://craftsmanshipmuseum.com/exhibit/)
-- [National Park Service Will Cite AWD Drivers for Driving on 4WD-Only Trails](https://jalopnik.com/national-park-service-will-cite-drivers-of-awd-cars-for-1851617315)
 - [GPUDrive: Data-driven, multi-agent driving simulation at 1M FPS](https://arxiv.org/abs/2408.01584)
 - [The First Medieval Electronic Instrument Plays Sounds of Lutes and More](https://www.openculture.com/2024/08/the-worlds-first-medieval-electronic-instrument.html)
+- [Recent Performance Improvements in Function Calls in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 ---
