@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a second brain tool for college students](https://ainotebook.app/)
+- [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
+- [Japan Issues First Ever Mega Earthquake Warning](https://www.nbcnews.com/news/world/japan-earthquake-tsunami-advisory-rcna165728)
 - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
 - [SQLite FTS5 Extension](https://www.sqlite.org/fts5.html)
-- [SaaS Copywriting: Marketing SaaS Framework](https://slimsaas.com/blog/saas-copy-writing-saas-marketing-framework-works)
 - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
 <!-- BLOG-POST-LIST:END -->
 
