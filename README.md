@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Base 3 Computing Beats Binary](https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/)
-- [What Happens When Ozempic Takes over Your Town](https://www.bloomberg.com/news/features/2024-08-07/ozempic-boom-inside-usa-s-weight-loss-drug-capital)
-- [Boeing Starliner Could Brick ISS Docking Port If Crew Abandons It](https://jalopnik.com/boeing-starliner-could-brick-iss-docking-port-if-crew-a-1851615463)
-- [Jake Seliger Is Dead](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html)
-- [NASA inspector general gives damning assessment of Boeing&#39;s quality control](https://www.nbcnews.com/science/space/nasa-report-boeing-damning-assessments-rcna165813)
+- [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html)
+- [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
+- [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
+- [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
