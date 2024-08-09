@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Pastor: Your Guide to Spiritual Growth](https://ai-pastor.com)
+- [I built a second brain tool for college students](https://ainotebook.app/)
 - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
 - [SQLite FTS5 Extension](https://www.sqlite.org/fts5.html)
 - [SaaS Copywriting: Marketing SaaS Framework](https://slimsaas.com/blog/saas-copy-writing-saas-marketing-framework-works)
