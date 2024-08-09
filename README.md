@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Generated Song &quot;Zo Zomer&quot; in in Dutch Top25-NL Charts](https://www.top40.nl/john-de-koning/zo-zomer-42356)
+- [Researchers discover potentially catastrophic exploit present in AMD chips](https://www.engadget.com/cybersecurity/researchers-discover-potentially-catastrophic-exploit-present-in-amd-chips-for-decades-161541359.html)
+- [Perceived Age](https://suryad.com/blog/percieved-age/)
 - [Motion &lpar;YC W20&rpar; Is Hiring Senior Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 - [Infinite Proofs: The Effects of Mathematics on David Foster Wallace &lpar;2012&rpar;](https://lareviewofbooks.org/article/infinite-proofs-the-effects-of-mathematics-on-david-foster-wallace/)
 - [Books of the world, stand up and be counted All 129,864,880 of you. &lpar;2010&rpar;](http://booksearch.blogspot.com/2010/08/books-of-world-stand-up-and-be-counted.html)
-- [Show HN: Attaching to a Virtual GPU over TCP](https://www.thundercompute.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
