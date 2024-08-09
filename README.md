@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup CEO Says VC Firm Punished Her for Reporting Sex Assault](https://www.bloomberg.com/news/articles/2024-08-08/startup-ceo-says-vc-firm-punished-her-for-reporting-sex-assault)
+- [The UK government has blocked IPs](https://www.police.uk/)
+- [IRC Will Never Die](https://hackaday.com/2021/05/22/irc-will-never-die/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 - [The Miniature Engineering Craftsmanship Museum](https://craftsmanshipmuseum.com/exhibit/)
-- [GPUDrive: Data-driven, multi-agent driving simulation at 1M FPS](https://arxiv.org/abs/2408.01584)
-- [The First Medieval Electronic Instrument Plays Sounds of Lutes and More](https://www.openculture.com/2024/08/the-worlds-first-medieval-electronic-instrument.html)
-- [Recent Performance Improvements in Function Calls in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 ---
