@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [XMPP vs. Matrix](https://news.ycombinator.com/item?id=41200028)
-- [Number of incidents affecting GitHub, Bitbucket, Gitlab and Jira is rising](https://www.helpnetsecurity.com/2024/08/07/github-bitbucket-gitlab-jira-incidents/)
 - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
 - [If you give Copilot the reins, don&#39;t be surprised when it spills your secrets](https://www.theregister.com/2024/08/08/copilot_black_hat_vulns/)
 - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
+- [SQLite FTS5 Extension](https://www.sqlite.org/fts5.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
