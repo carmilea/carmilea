@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [XMPP vs. Matrix](https://news.ycombinator.com/item?id=41200028)
+- [An old hacker&#39;s tips on staying employed &lpar;2021&rpar;](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
+- [Solar energy breakthrough could reduce need for solar farms](https://www.ox.ac.uk/news/2024-08-09-solar-energy-breakthrough-could-reduce-need-solar-farms)
 - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
-- [If you give Copilot the reins, don&#39;t be surprised when it spills your secrets](https://www.theregister.com/2024/08/08/copilot_black_hat_vulns/)
 - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
-- [SQLite FTS5 Extension](https://www.sqlite.org/fts5.html)
+- [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
