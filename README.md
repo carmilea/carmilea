@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An old hacker&#39;s tips on staying employed &lpar;2021&rpar;](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
-- [Solar energy breakthrough could reduce need for solar farms](https://www.ox.ac.uk/news/2024-08-09-solar-energy-breakthrough-could-reduce-need-solar-farms)
+- [Show HN: I created a Next.js CLI to ship code like a hacker](https://www.nextinject.pro)
 - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
 - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
 - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
