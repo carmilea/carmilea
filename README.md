@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HMPL – template language for displaying UI from server to client](https://github.com/hmpl-lang/hmpl)
 - [Researchers discover potentially catastrophic exploit present in AMD chips](https://www.engadget.com/cybersecurity/researchers-discover-potentially-catastrophic-exploit-present-in-amd-chips-for-decades-161541359.html)
+- [Galea: The most advanced biosensing VR headset](https://galea.co/)
 - [Perceived Age](https://suryad.com/blog/percieved-age/)
 - [Motion &lpar;YC W20&rpar; Is Hiring Senior Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [Infinite Proofs: The Effects of Mathematics on David Foster Wallace &lpar;2012&rpar;](https://lareviewofbooks.org/article/infinite-proofs-the-effects-of-mathematics-on-david-foster-wallace/)
-- [Books of the world, stand up and be counted All 129,864,880 of you. &lpar;2010&rpar;](http://booksearch.blogspot.com/2010/08/books-of-world-stand-up-and-be-counted.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
