@@ -61,8 +61,8 @@
 - [Show HN: Personal Interactive Cantonese Dictionary](https://nomenclature.ctang.art)
 - [DARPA wants to bypass the thermal middleman in nuclear power systems](https://www.ans.org/news/article-6276/darpa-wants-to-bypass-the-thermal-middleman-in-nuclear-power-systems/)
 - [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior GenAI/LLM Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [23-Floor Manhattan Office Building Just Sold at a 97.5% Discount](https://www.nytimes.com/2024/08/01/nyregion/manhattan-office-building-auction.html)
 - [Urchin Software Corp: The unlikely origin story of Google Analytics, 1996–2005](https://urchin.biz/urchin-software-corp-89a1f5292999)
+- [VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models](https://github.com/facebookresearch/vfusion3d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
