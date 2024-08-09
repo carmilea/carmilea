@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Robocars improve traffic even when most cars around them are driven by people](https://theconversation.com/robocars-promise-to-improve-traffic-even-when-most-of-the-cars-around-them-are-driven-by-people-study-finds-233546)
-- [Show HN: Nous – Open-Source Agent Framework with Autonomous, SWE Agents, WebUI](https://github.com/TrafficGuard/nous)
-- [Base 3 Computing Beats Binary](https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/)
-- [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html)
-- [Show HN: I built Mailhub – A scalable API for sending emails with ease not tears](https://www.mailhub.sh/)
+- [Motion &lpar;YC W20&rpar; Is Hiring Senior Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [Infinite Proofs: The Effects of Mathematics on David Foster Wallace &lpar;2012&rpar;](https://lareviewofbooks.org/article/infinite-proofs-the-effects-of-mathematics-on-david-foster-wallace/)
+- [LangGraph Engineer](https://github.com/hwchase17/langgraph-engineer)
+- [Show HN: LLM Aided OCR &lpar;Correcting Tesseract OCR Errors with LLMs&rpar;](https://github.com/Dicklesworthstone/llm_aided_ocr)
+- [Launch HN: Roe AI &lpar;YC W24&rpar; – AI-powered data warehouse to query multimodal data](https://news.ycombinator.com/item?id=41202694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
