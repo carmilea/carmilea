@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Robocars improve traffic even when most cars around them are driven by people](https://theconversation.com/robocars-promise-to-improve-traffic-even-when-most-of-the-cars-around-them-are-driven-by-people-study-finds-233546)
+- [Show HN: Nous – Open-Source Agent Framework with Autonomous, SWE Agents, WebUI](https://github.com/TrafficGuard/nous)
 - [Base 3 Computing Beats Binary](https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/)
 - [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html)
-- [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
-- [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
-- [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
+- [Show HN: I built Mailhub – A scalable API for sending emails with ease not tears](https://www.mailhub.sh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
