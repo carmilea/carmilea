@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Pastor: Your Guide to Spiritual Growth](https://ai-pastor.com)
+- [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
 - [SQLite FTS5 Extension](https://www.sqlite.org/fts5.html)
 - [SaaS Copywriting: Marketing SaaS Framework](https://slimsaas.com/blog/saas-copy-writing-saas-marketing-framework-works)
 - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
-- [Forest Service orders Arrowhead bottled water to shut down California pipeline](https://www.latimes.com/environment/story/2024-08-07/arrowhead-bottled-water-permit)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
