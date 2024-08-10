@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Former YouTube CEO Susan Wojcicki Has Died](https://www.threads.net/@crumbler/post/C-ecdHJxHMq)
+- [Larry Wall&#39;s Very Own Home Page](http://wall.org/%7Elarry/)
+- [Susan Wojcicki has died](https://www.facebook.com/share/p/qe2ZMcs9Bz4K1SPt/)
+- [Google Strategy Doc from Antitrust Proceedings](https://threadreaderapp.com/thread/1821554841786683554.html)
+- [The Red Herring of Red Flags: Why Resumes Are a Relic of the Past](https://praachi.work/blog/red-flags-resumes.html)
 - [Defcon stiffs badge HW vendor, drags FW author offstage during talk](https://twitter.com/mightymogomra/status/1822119942281650278)
-- [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
-- [HIV drug could be made for just $40 a year for every patient](https://www.theguardian.com/global-development/article/2024/jul/23/hiv-aids-prevention-vaccine-lenacapavir-sunlenca-pharmaceuticals-gilead-generic-licensing)
-- [GCVR &lpar;YC W22&rpar; Is Hiring Lead Animation Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
