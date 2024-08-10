@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Jeff Bezos and Amazon tried to imprison my husband&quot;](https://twitter.com/Amy_K_Nelson/status/1822318185556648348)
-- [Apple. Apple Please](https://digipres.club/@misty/112927898002214724)
+- [No-car Games: Los Angeles Olympic venues only accessible by public transit](https://apnews.com/article/2028-los-angeles-olympics-nocar-traffic-homeless-3adafcada2c5964e5dc2da2077a2520d)
+- [DEF CON&#39;s response to the badge controversy](https://old.reddit.com/r/Defcon/comments/1ep00ln/def_cons_response_to_the_badge_controversy/)
+- [The Mac Is a Power Tool](https://daringfireball.net/2024/08/the_mac_is_a_power_tool)
+- [Defcon Response to Badge Issues](https://twitter.com/defcon/status/1822344607063302200)
 - [Fobos SDR: High-Quality Radio for Hobbyists, Researchers and Professionals](https://www.hackster.io/news/fobos-sdr-is-a-high-quality-radio-for-hobbyists-researchers-and-professionals-80e25e00b1e1)
-- [Interval parsing grammars for file format parsing &lpar;2023&rpar;](https://dl.acm.org/doi/10.1145/3591264)
-- [Millions of years for plants to recover from global warming](https://www.sciencedaily.com/releases/2024/08/240809135943.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
