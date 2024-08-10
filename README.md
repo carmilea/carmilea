@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Interval parsing grammars for file format parsing &lpar;2023&rpar;](https://dl.acm.org/doi/10.1145/3591264)
 - [OneText &lpar;YC W23&rpar; is hiring a lead TypeScript/Node engineer](https://gist.github.com/bluepnume/8f2376b0893bc6b85564e7359359ecd4)
-- [PEP 750: Tag Strings for Writing Domain-Specific Languages](https://discuss.python.org/t/pep-750-tag-strings-for-writing-domain-specific-languages/60408)
-- [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
-- [Another Look at the Voynich Manuscript](https://www.theatlantic.com/magazine/archive/2024/09/decoding-voynich-manuscript/679157/)
-- [Deep Live Cam: Real-time face swapping and one-click video deepfake tool](https://deeplive.cam)
+- [Simple CLI Tool for Optimizing Your CSS Files](https://github.com/happer64bit/style-eyes)
+- [New U.N. Cybercrime Treaty Unanimously Approved, Could Threaten Human Rights](https://www.scientificamerican.com/article/0724--un-cybercrime/)
+- [Show HN: Pg_replicate – Build Postgres replication applications in Rust](https://github.com/supabase/pg_replicate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
