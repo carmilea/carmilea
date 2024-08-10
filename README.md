@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Intelligence System Prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts)
+- [Deep Live Cam: Real-Time Face Swapping and One-Click Video Deepfake Tool](https://deeplive.cam)
 - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
-- [&#39;Smart&#39; technology is out of control. We adore this dumb tech](https://www.washingtonpost.com/technology/2024/08/09/why-dumb-technology-vs-smart-gadgets/)
 - [Evidence for ~12-h ultradian gene programs in humans](https://www.nature.com/articles/s44323-024-00005-1)
 - [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
-- [Ladybird browser to start using Swift language this fall](https://twitter.com/awesomekling/status/1822236888188498031)
 <!-- BLOG-POST-LIST:END -->
 
 ---
