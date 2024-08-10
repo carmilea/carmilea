@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneText &lpar;YC W23&rpar; is hiring a lead TypeScript/Node engineer](https://gist.github.com/bluepnume/8f2376b0893bc6b85564e7359359ecd4)
+- [PEP 750: Tag Strings for Writing Domain-Specific Languages](https://discuss.python.org/t/pep-750-tag-strings-for-writing-domain-specific-languages/60408)
 - [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
 - [Another Look at the Voynich Manuscript](https://www.theatlantic.com/magazine/archive/2024/09/decoding-voynich-manuscript/679157/)
 - [Deep Live Cam: Real-time face swapping and one-click video deepfake tool](https://deeplive.cam)
-- [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
-- [Evidence for ~12-h ultradian gene programs in humans](https://www.nature.com/articles/s44323-024-00005-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
