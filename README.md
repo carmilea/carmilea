@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Astrology Work?](https://www.clearerthinking.org/post/does-astrology-work)
-- [Former YouTube CEO Susan Wojcicki dies at 56 of lung cancer](https://www.reuters.com/business/former-youtube-ceo-susan-wojcicki-has-died-google-ceo-says-2024-08-10/)
+- [Pursuits That Can&#39;t Scale](https://www.workingtheorys.com/p/pursuits-that-cant-scale)
+- [Cancer Incidence by Country](https://ourworldindata.org/grapher/cancer-incidence)
 - [Hal Hickel on Creating Tarkin for Rogue One](http://fxrant.blogspot.com/2024/06/hal-hickel-on-creating-tarkin.html)
 - [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588)
 - [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
