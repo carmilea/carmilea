@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SNES Graphics: 186.2ns or Bust](https://fabiensanglard.net/snes_ppus_why/index.html)
 - [Larry Wall&#39;s Very Own Home Page](http://wall.org/%7Elarry/)
+- [Hal Hickel on Creating Tarkin for Rogue One](http://fxrant.blogspot.com/2024/06/hal-hickel-on-creating-tarkin.html)
 - [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588)
 - [Google Strategy Doc from Antitrust Proceedings](https://threadreaderapp.com/thread/1821554841786683554.html)
-- [The Red Herring of Red Flags: Why Resumes Are a Relic of the Past](https://praachi.work/blog/red-flags-resumes.html)
-- [Defcon stiffs badge HW vendor, drags FW author offstage during talk](https://twitter.com/mightymogomra/status/1822119942281650278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
