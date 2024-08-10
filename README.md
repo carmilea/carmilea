@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
+- [&#39;Smart&#39; technology is out of control. We adore this dumb tech](https://www.washingtonpost.com/technology/2024/08/09/why-dumb-technology-vs-smart-gadgets/)
+- [Evidence for ~12-h ultradian gene programs in humans](https://www.nature.com/articles/s44323-024-00005-1)
 - [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 - [Ladybird browser to start using Swift language this fall](https://twitter.com/awesomekling/status/1822236888188498031)
-- [The friendliest social network you&#39;ve never heard of](https://www.washingtonpost.com/technology/2024/08/10/front-porch-forum-vermont-research-new-public/)
-- [Pursuits That Can&#39;t Scale](https://www.workingtheorys.com/p/pursuits-that-cant-scale)
 <!-- BLOG-POST-LIST:END -->
 
 ---
