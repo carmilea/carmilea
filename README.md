@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Intelligence System Prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts)
-- [Deep Live Cam: Real-Time Face Swapping and One-Click Video Deepfake Tool](https://deeplive.cam)
+- [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
+- [Another Look at the Voynich Manuscript](https://www.theatlantic.com/magazine/archive/2024/09/decoding-voynich-manuscript/679157/)
+- [Deep Live Cam: Real-time face swapping and one-click video deepfake tool](https://deeplive.cam)
 - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
 - [Evidence for ~12-h ultradian gene programs in humans](https://www.nature.com/articles/s44323-024-00005-1)
-- [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
