@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
+- [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+- [Ladybird browser to start using Swift language this fall](https://twitter.com/awesomekling/status/1822236888188498031)
+- [The friendliest social network you&#39;ve never heard of](https://www.washingtonpost.com/technology/2024/08/10/front-porch-forum-vermont-research-new-public/)
 - [Pursuits That Can&#39;t Scale](https://www.workingtheorys.com/p/pursuits-that-cant-scale)
-- [Hal Hickel on Creating Tarkin for Rogue One](http://fxrant.blogspot.com/2024/06/hal-hickel-on-creating-tarkin.html)
-- [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588)
-- [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
-- [GCVR &lpar;YC W22&rpar; Is Hiring Lead Animation Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
