@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No-car Games: Los Angeles Olympic venues only accessible by public transit](https://apnews.com/article/2028-los-angeles-olympics-nocar-traffic-homeless-3adafcada2c5964e5dc2da2077a2520d)
+- [Ask HN: 19yr old child suffering from internet gaming disorder? Any suggestions?](https://news.ycombinator.com/item?id=41212099)
+- [Things I Won&#39;t Work With: Dimethylcadmium](https://www.science.org/content/blog-post/things-i-won-t-work-dimethylcadmium)
 - [DEF CON&#39;s response to the badge controversy](https://old.reddit.com/r/Defcon/comments/1ep00ln/def_cons_response_to_the_badge_controversy/)
-- [The Mac Is a Power Tool](https://daringfireball.net/2024/08/the_mac_is_a_power_tool)
-- [Defcon Response to Badge Issues](https://twitter.com/defcon/status/1822344607063302200)
-- [Fobos SDR: High-Quality Radio for Hobbyists, Researchers and Professionals](https://www.hackster.io/news/fobos-sdr-is-a-high-quality-radio-for-hobbyists-researchers-and-professionals-80e25e00b1e1)
+- [Interval parsing grammars for file format parsing &lpar;2023&rpar;](https://dl.acm.org/doi/10.1145/3591264)
+- [OneText &lpar;YC W23&rpar; is hiring a lead TypeScript/Node engineer](https://gist.github.com/bluepnume/8f2376b0893bc6b85564e7359359ecd4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
