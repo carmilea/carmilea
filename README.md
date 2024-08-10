@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Larry Wall&#39;s Very Own Home Page](http://wall.org/%7Elarry/)
-- [Susan Wojcicki has died](https://www.facebook.com/share/p/qe2ZMcs9Bz4K1SPt/)
+- [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588)
 - [Google Strategy Doc from Antitrust Proceedings](https://threadreaderapp.com/thread/1821554841786683554.html)
 - [The Red Herring of Red Flags: Why Resumes Are a Relic of the Past](https://praachi.work/blog/red-flags-resumes.html)
 - [Defcon stiffs badge HW vendor, drags FW author offstage during talk](https://twitter.com/mightymogomra/status/1822119942281650278)
