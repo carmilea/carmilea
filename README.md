@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
+- [We now know how kestrels stay perfectly still while hovering](https://www.newscientist.com/article/2443209-we-now-know-how-kestrels-stay-perfectly-still-while-hovering/)
+- [Will there be 50B+ in student loan delinquencies in US?](https://wordsofwill.com/2024/08/09/august-2024-housing-credit-market-analysis-may-2024-follow-up/)
 - [Daily marijuana use linked to increased risk of deadly head and neck cancers](https://www.cnn.com/2024/08/08/health/marijuana-head-and-neck-cancer-wellness/index.html)
-- [X: Rolling out now: sort replies on any post by most relevant, recent, or liked](https://twitter.com/X/status/1822009969610293687)
 - [HIV drug could be made for just $40 a year for every patient](https://www.theguardian.com/global-development/article/2024/jul/23/hiv-aids-prevention-vaccine-lenacapavir-sunlenca-pharmaceuticals-gilead-generic-licensing)
-- [GCVR &lpar;YC W22&rpar; Is Hiring Lead Animation Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
-- [Common Lisp Community Survey 2024 Results](https://blog.djhaskin.com/blog/common-lisp-community-survey-2024-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
