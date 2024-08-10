@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily marijuana use linked to increased risk of deadly head and neck cancers](https://www.cnn.com/2024/08/08/health/marijuana-head-and-neck-cancer-wellness/index.html)
+- [X: Rolling out now: sort replies on any post by most relevant, recent, or liked](https://twitter.com/X/status/1822009969610293687)
+- [HIV drug could be made for just $40 a year for every patient](https://www.theguardian.com/global-development/article/2024/jul/23/hiv-aids-prevention-vaccine-lenacapavir-sunlenca-pharmaceuticals-gilead-generic-licensing)
 - [GCVR &lpar;YC W22&rpar; Is Hiring Lead Animation Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
-- [Frank Zappa estate: the feud, and the pain, that dogs his children](https://www.washingtonpost.com/entertainment/music/interactive/2024/frank-zappa-family-feud-moon-unit-dweezil/)
-- [Grace Hopper, Nvidia&#39;s Halfway APU](https://chipsandcheese.com/2024/07/31/grace-hopper-nvidias-halfway-apu/)
-- [Show HN: Personal Interactive Cantonese Dictionary](https://nomenclature.ctang.art)
-- [DARPA wants to bypass the thermal middleman in nuclear power systems](https://www.ans.org/news/article-6276/darpa-wants-to-bypass-the-thermal-middleman-in-nuclear-power-systems/)
+- [Common Lisp Community Survey 2024 Results](https://blog.djhaskin.com/blog/common-lisp-community-survey-2024-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
