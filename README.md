@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GCVR &lpar;YC W22&rpar; Is Hiring Lead Animation Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
+- [Frank Zappa estate: the feud, and the pain, that dogs his children](https://www.washingtonpost.com/entertainment/music/interactive/2024/frank-zappa-family-feud-moon-unit-dweezil/)
+- [Grace Hopper, Nvidia&#39;s Halfway APU](https://chipsandcheese.com/2024/07/31/grace-hopper-nvidias-halfway-apu/)
 - [Show HN: Personal Interactive Cantonese Dictionary](https://nomenclature.ctang.art)
 - [DARPA wants to bypass the thermal middleman in nuclear power systems](https://www.ans.org/news/article-6276/darpa-wants-to-bypass-the-thermal-middleman-in-nuclear-power-systems/)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior GenAI/LLM Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [Urchin Software Corp: The unlikely origin story of Google Analytics, 1996–2005](https://urchin.biz/urchin-software-corp-89a1f5292999)
-- [VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models](https://github.com/facebookresearch/vfusion3d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
