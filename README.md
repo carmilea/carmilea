@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SNES Graphics: 186.2ns or Bust](https://fabiensanglard.net/snes_ppus_why/index.html)
-- [Larry Wall&#39;s Very Own Home Page](http://wall.org/%7Elarry/)
+- [Does Astrology Work?](https://www.clearerthinking.org/post/does-astrology-work)
+- [Former YouTube CEO Susan Wojcicki dies at 56 of lung cancer](https://www.reuters.com/business/former-youtube-ceo-susan-wojcicki-has-died-google-ceo-says-2024-08-10/)
 - [Hal Hickel on Creating Tarkin for Rogue One](http://fxrant.blogspot.com/2024/06/hal-hickel-on-creating-tarkin.html)
 - [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588)
-- [Google Strategy Doc from Antitrust Proceedings](https://threadreaderapp.com/thread/1821554841786683554.html)
+- [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
