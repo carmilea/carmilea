@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Jeff Bezos and Amazon tried to imprison my husband&quot;](https://twitter.com/Amy_K_Nelson/status/1822318185556648348)
+- [Apple. Apple Please](https://digipres.club/@misty/112927898002214724)
+- [Fobos SDR: High-Quality Radio for Hobbyists, Researchers and Professionals](https://www.hackster.io/news/fobos-sdr-is-a-high-quality-radio-for-hobbyists-researchers-and-professionals-80e25e00b1e1)
 - [Interval parsing grammars for file format parsing &lpar;2023&rpar;](https://dl.acm.org/doi/10.1145/3591264)
-- [OneText &lpar;YC W23&rpar; is hiring a lead TypeScript/Node engineer](https://gist.github.com/bluepnume/8f2376b0893bc6b85564e7359359ecd4)
-- [Simple CLI Tool for Optimizing Your CSS Files](https://github.com/happer64bit/style-eyes)
-- [New U.N. Cybercrime Treaty Unanimously Approved, Could Threaten Human Rights](https://www.scientificamerican.com/article/0724--un-cybercrime/)
-- [Show HN: Pg_replicate – Build Postgres replication applications in Rust](https://github.com/supabase/pg_replicate)
+- [Millions of years for plants to recover from global warming](https://www.sciencedaily.com/releases/2024/08/240809135943.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
