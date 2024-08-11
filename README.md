@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RFC 9180: Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
 - [SanDisk introduces the first 8TB SD and 4TB microSD cards](https://liliputing.com/sandisk-introduces-the-first-8tb-sd-and-4tb-microsd-cards/)
 - [The surveilled society: Who is watching you and how](https://www.rnz.co.nz/news/national/524791/the-surveilled-society-who-is-watching-you-and-how)
+- [The Tic-Tac-Toe Mysteries of Xerloc O&#39;Xolmes](https://blog.zarfhome.com/2024/08/tic-tac-toe-mysteries)
 - [I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
-- [Algorithmic price-fixing of rents is here](https://www.theatlantic.com/ideas/archive/2024/08/ai-price-algorithms-realpage/679405/)
-- [US FDA approves nasal spray alternative to EpiPen for allergic reactions](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-first-nasal-spray-allergic-reactions-2024-08-09/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
