@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
+- [Why I bet on DSPy](https://blog.isaacbmiller.com/posts/dspy)
 - [Bevy&#39;s Game Engine Fourth Birthday](https://bevyengine.org/news/bevys-fourth-birthday/)
 - [Wren6991/Hazard3: 3-stage RV32IMACZb* processor with debug](https://github.com/Wren6991/Hazard3)
 - [OpenStreetMap Is Turning 20](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are)
-- [The Gervais Principle, or the Office According to &quot;The Office&quot; &lpar;2009&rpar;](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
-- [Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
