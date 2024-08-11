@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bevy&#39;s Game Engine Fourth Birthday](https://bevyengine.org/news/bevys-fourth-birthday/)
+- [Wren6991/Hazard3: 3-stage RV32IMACZb* processor with debug](https://github.com/Wren6991/Hazard3)
 - [OpenStreetMap Is Turning 20](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are)
 - [The Gervais Principle, or the Office According to &quot;The Office&quot; &lpar;2009&rpar;](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
-- [Online Dating](https://geohot.github.io//blog/jekyll/update/2024/08/02/online-dating.html)
 - [Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
-- [Shortwire: The smallest VPN that connects two computers via the Internet](https://github.com/mojyack/shortwire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
