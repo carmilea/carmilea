@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Atlas: A Windows modification to optimize performance, privacy and usability](https://atlasos.net/)
 - [The 1986 Oldsmobile Incas Had the Wildest Dashboard You&#39;ve Never Seen](https://www.thedrive.com/news/33416/the-1986-oldsmobile-incas-had-the-wildest-dashboard-youve-never-seen)
-- [ChatGPT unexpectedly began speaking in a user&#39;s cloned voice during testing](https://arstechnica.com/information-technology/2024/08/chatgpt-unexpectedly-began-speaking-in-a-users-cloned-voice-during-testing/)
+- [Another variable-length integer encoding](https://dcreager.net/2021/03/a-better-varint/)
+- [Introduction to Golang Preemption Mechanisms](https://unskilled.blog/posts/preemption-in-go-an-introduction/)
 - [Fair Source: Sustainability with no customer risk](https://pepicrft.me/blog/2024/08/13/open-tuist)
-- [Judge orders CDC to stop deleting emails of departing staff: &#39;likely unlawful&#39;](https://www.politico.com/news/2024/08/09/cdc-records-lawsuit-ruling-00173416)
-- [Server Mono: A Typeface Inspired by Typewriters, Apple&#39;s SF Mono, and CLIs](https://servermono.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
