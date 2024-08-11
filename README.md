@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
+- [Shortwire: The smallest VPN that connects two computers via the Internet](https://github.com/mojyack/shortwire)
+- [Betting on DSPy for Systems of LLMs](https://blog.isaacmiller.dev/posts/dspy)
+- [ANTSDR: Low-cost SDR Alternatives for Ettus Research and Lime Microsystems](https://github.com/MicroPhase/antsdr-fw-patch)
 - [RFC 9180: Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
-- [Quantum Cryptography Has Everyone Scrambling](https://spectrum.ieee.org/quantum-key-distribution)
-- [The surveilled society: Who is watching you and how](https://www.rnz.co.nz/news/national/524791/the-surveilled-society-who-is-watching-you-and-how)
-- [The Tic-Tac-Toe Mysteries of Xerloc O&#39;Xolmes](https://blog.zarfhome.com/2024/08/tic-tac-toe-mysteries)
 <!-- BLOG-POST-LIST:END -->
 
 ---
