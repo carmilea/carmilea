@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A high energy hadron collider on the Moon](https://iopscience.iop.org/article/10.1088/1367-2630/ac4921/meta)
+- [X&#39;s likelihood of prevailing in boycott suit is higher than I thought](https://shaungallagher.pressbin.com/blog/group-boycotts.html)
 - [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
-- [The Authoritarian Playbook](https://protectdemocracy.org/work/the-authoritarian-playbook/)
-- [Samsung&#39;s EV batteries with 600Mi/1000KM range, 9min charging and 20years life](https://www.pcmag.com/news/samsung-to-mass-produce-solid-state-batteries-for-super-premium-evs-by)
-- [Building data infrastructure that will last](https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and)
-- [After Breaking Free, Largest Iceberg Is Stuck Spinning in Circles](https://www.nytimes.com/2024/08/07/science/a23a-iceberg-antarctica-spinning.html)
+- [Show HN: Visualizing Chess Games](https://louisabraham.github.io/chessviz/)
+- [Things I&#39;ve learned building a modern TUI Framework](https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
