@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why Your Data Stack Won&#39;t Last – and How to Build Data Infrastructure That Will](https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and)
-- [Open Letter to the European Commission](https://nixos.org/blog/announcements/2024/letter/)
 - [Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
-- [Bevy&#39;s Game Engine Fourth Birthday](https://bevyengine.org/news/bevys-fourth-birthday/)
 - [Wren6991/Hazard3: 3-stage RV32IMACZb* processor with debug](https://github.com/Wren6991/Hazard3)
+- [OpenStreetMap Is Turning 20](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are)
+- [The Gervais Principle, or the Office According to &quot;The Office&quot; &lpar;2009&rpar;](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
