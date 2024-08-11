@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
 - [RFC 9180: Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
-- [SanDisk introduces the first 8TB SD and 4TB microSD cards](https://liliputing.com/sandisk-introduces-the-first-8tb-sd-and-4tb-microsd-cards/)
+- [Quantum Cryptography Has Everyone Scrambling](https://spectrum.ieee.org/quantum-key-distribution)
 - [The surveilled society: Who is watching you and how](https://www.rnz.co.nz/news/national/524791/the-surveilled-society-who-is-watching-you-and-how)
 - [The Tic-Tac-Toe Mysteries of Xerloc O&#39;Xolmes](https://blog.zarfhome.com/2024/08/tic-tac-toe-mysteries)
-- [I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
