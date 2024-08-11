@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenStreetMap Is Turning 20](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are)
+- [The Gervais Principle, or the Office According to &quot;The Office&quot; &lpar;2009&rpar;](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
+- [Online Dating](https://geohot.github.io//blog/jekyll/update/2024/08/02/online-dating.html)
 - [Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
 - [Shortwire: The smallest VPN that connects two computers via the Internet](https://github.com/mojyack/shortwire)
-- [Betting on DSPy for Systems of LLMs](https://blog.isaacmiller.dev/posts/dspy)
-- [ANTSDR: Low-cost SDR Alternatives for Ettus Research and Lime Microsystems](https://github.com/MicroPhase/antsdr-fw-patch)
-- [RFC 9180: Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
