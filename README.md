@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Letter to the European Commission](https://nixos.org/blog/announcements/2024/letter/)
 - [Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
 - [Why I bet on DSPy](https://blog.isaacbmiller.com/posts/dspy)
 - [Bevy&#39;s Game Engine Fourth Birthday](https://bevyengine.org/news/bevys-fourth-birthday/)
 - [Wren6991/Hazard3: 3-stage RV32IMACZb* processor with debug](https://github.com/Wren6991/Hazard3)
-- [OpenStreetMap Is Turning 20](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are)
 <!-- BLOG-POST-LIST:END -->
 
 ---
