@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel Raptor Lake 0x129 CPU Microcode Performance Impact on Linux](https://www.phoronix.com/review/intel-raptor-lake-0x129)
+- [Generating Simpson&#39;s Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
+- [The Sarumans and the Radagasts &lpar;2023&rpar;](https://medium.com/@komorama/the-sarumans-and-the-radagasts-6392f889d142)
 - [Apple Prototypes and Corporate Secrets Are for Sale Online–If You Know Where](https://www.wired.com/story/apple-prototypes-corporate-data/)
-- [Logitech F710 gamepad, allegedly contributed to Titan submersible implosion](https://www.tomshardware.com/peripherals/controllers-gamepads/cheap-logitech-f710-controller-may-have-contributed-to-titan-submersible-implosion-lawsuit-alleges)
+- [Adbfs-rootless – Mount Android phones on Linux with adb. No root required](https://github.com/spion/adbfs-rootless)
 - [Show HN: Pixeltune, a nicer chiptune and VGM player](https://pixeltune.org)
-- [OpenBSD 7.5 via QEMU on Hetzner physical machine &lpar;no phys. access / KVM console&rpar;](https://hackmd.gfuzz.de/s/Qsk14kc3i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
