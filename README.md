@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Data Stack Won&#39;t Last – and How to Build Data Infrastructure That Will](https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and)
-- [Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
-- [Wren6991/Hazard3: 3-stage RV32IMACZb* processor with debug](https://github.com/Wren6991/Hazard3)
-- [OpenStreetMap Is Turning 20](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are)
-- [The Gervais Principle, or the Office According to &quot;The Office&quot; &lpar;2009&rpar;](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
+- [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
+- [The Authoritarian Playbook](https://protectdemocracy.org/work/the-authoritarian-playbook/)
+- [Samsung&#39;s EV batteries with 600Mi/1000KM range, 9min charging and 20years life](https://www.pcmag.com/news/samsung-to-mass-produce-solid-state-batteries-for-super-premium-evs-by)
+- [Building data infrastructure that will last](https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and)
+- [After Breaking Free, Largest Iceberg Is Stuck Spinning in Circles](https://www.nytimes.com/2024/08/07/science/a23a-iceberg-antarctica-spinning.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
