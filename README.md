@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CrowdStrike accepting the PwnieAwards for &quot;most epic fail&quot; at defcon](https://twitter.com/singe/status/1822324795645575263)
-- [Finite State Machine Designer](https://madebyevan.com/fsm/)
-- [A high energy hadron collider on the Moon](https://iopscience.iop.org/article/10.1088/1367-2630/ac4921/meta)
-- [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
-- [Show HN: Visualizing Chess Games](https://louisabraham.github.io/chessviz/)
+- [MacBook Air, M2 Chip, 8GB RAM: Nothing is open, but half the memory is gone](https://twitter.com/Hasen_Judi/status/1822460173430194407)
+- [ChatGPT unexpectedly began speaking in a user&#39;s cloned voice during testing](https://arstechnica.com/information-technology/2024/08/chatgpt-unexpectedly-began-speaking-in-a-users-cloned-voice-during-testing/)
+- [Fair Source: Sustainability with no customer risk](https://pepicrft.me/blog/2024/08/13/open-tuist)
+- [Judge orders CDC to stop deleting emails of departing staff: &#39;likely unlawful&#39;](https://www.politico.com/news/2024/08/09/cdc-records-lawsuit-ruling-00173416)
+- [Show HN: My 70 year old grandma is learning to code and made a word game](https://grandmasword.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
