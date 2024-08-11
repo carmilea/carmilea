@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Imminent Student-Loan Disaster](https://www.jamesgmartin.center/2024/08/the-imminent-student-loan-disaster-were-not-talking-about/)
+- [CrowdStrike accepting the PwnieAwards for &quot;most epic fail&quot; at defcon](https://twitter.com/singe/status/1822324795645575263)
+- [Finite State Machine Designer](https://madebyevan.com/fsm/)
 - [A high energy hadron collider on the Moon](https://iopscience.iop.org/article/10.1088/1367-2630/ac4921/meta)
 - [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
 - [Show HN: Visualizing Chess Games](https://louisabraham.github.io/chessviz/)
-- [Things I&#39;ve learned building a modern TUI Framework](https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
