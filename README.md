@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [They encouraged us to insulate our home. Now it&#39;s unmortgageable](https://www.theguardian.com/money/article/2024/aug/12/they-encouraged-us-to-insulate-our-home-now-its-unmortgageable)
+- [2024 Paris Olympics: No, breaking shouldn&#39;t be an Olympic sport](https://sports.yahoo.com/2024-paris-olympics-no-breaking-shouldnt-be-an-olympic-sport-190421401.html)
+- [Everything You Ever Wanted to Know about E. Coli &lpar;2008&rpar;](https://www.scientificamerican.com/podcast/episode/everything-you-ever-wanted-to-know-08-10-08/)
+- [US Government wants to make it easier for you to click the &#39;unsubscribe&#39; button](https://apnews.com/article/consumer-protection-ftc-fcc-biden-250f6eece6e2665535019128e8fa38da)
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [Interstellar movie is implemented with Einstein&#39;s equations in 40k lines C++](https://twitter.com/bitfield/status/1020632237493112833)
 - [How good can you be at Codenames without knowing any words?](https://danluu.com/codenames/)
-- [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
