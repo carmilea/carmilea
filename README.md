@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [UN Cybercrime Convention to Overrule Bank Secrecy](https://www.therage.co/un-cybercrime-convention-bank-secrecy/)
-- [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
 - [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
 - [Show HN: Anycast+ – An AI-powered podcast app](https://anycast.website/)
 - [Show HN: Simple Science – The Newest Science Explained Simply](https://simplescience.ai)
+- [Comma.ai: Refactoring for Growth](https://blog.comma.ai/refactoring-for-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
