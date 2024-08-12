@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why ChatGPT loves the word: &quot;eager&quot; so much?](https://news.ycombinator.com/item?id=41224909)
-- [Keeping Secrets &lpar;2014&rpar;](https://stanfordmag.org/contents/keeping-secrets)
-- [X targeted with 9 privacy complaints after grabbing EU users&#39; data for training](https://techcrunch.com/2024/08/11/elon-musks-x-targeted-with-eight-privacy-complaints-after-grabbing-eu-users-data-for-training-grok/)
-- [New research on why Cahokia Mounds civilization left](https://scitechdaily.com/900-years-ago-one-of-the-largest-civilizations-in-the-world-was-abandoned-archaeologists-have-now-discovered-new-clues/)
-- [Show HN: PGlite – in-browser WASM Postgres with pgvector and live sync](https://pglite.dev/)
+- [Apple to take 30% of all Patreon donations](https://twitter.com/KenneyNL/status/1822996361551184290)
+- [NASA is about to make its most important safety decision in nearly a generation](https://arstechnica.com/space/2024/08/nasa-is-about-to-make-its-most-important-safety-decision-in-nearly-a-generation/)
+- [Apple&#39;s requirements are about to hit creators and fans on Patreon](https://microsite-news.pages.dev/articles/understanding-apple-requirements-for-patreon)
+- [Cancer Rates Are Rising in Young People](https://www.scientificamerican.com/article/cancer-rates-are-rising-in-young-people-heres-what-you-need-to-know/)
+- [The Geometric Tool That Solved Einstein&#39;s Relativity Problem](https://www.quantamagazine.org/the-geometric-tool-that-solved-einsteins-relativity-problem-20240812/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
