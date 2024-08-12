@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
+- [Show HN: Copy-Paste from Webflow into Webstudio](https://webstudio.is/copy-paste)
 - [How can Firefox create the best support for web apps on the desktop?](https://connect.mozilla.org/t5/discussions/how-can-firefox-create-the-best-support-for-web-apps-on-the/td-p/60561)
 - [Comma.ai: Refactoring for Growth](https://blog.comma.ai/refactoring-for-growth/)
-- [China&#39;s total wind and solar capacity outstrips coal](https://renewablesnow.com/news/chinas-total-wind-and-solar-capacity-outstrips-coal-rystad-says-865106/)
 - [How to avoid losing items? Holding pens](https://blog.alexwendland.com/2024-07-07-holding-pens/)
-- [Generating Simpson&#39;s Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
