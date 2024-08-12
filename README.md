@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What&#39;s Your Experience with eSIMs?](https://news.ycombinator.com/item?id=41229320)
+- [National Popular Vote Interstate Compact](https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact)
 - [History of Hacker News Search from 2007 to 2024](https://trieve.ai/history-of-hnsearch/)
 - [Federal appeals court finds geofence warrants &quot;categorically&quot; unconstitutional](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional)
-- [Don&#39;t rely on IF NOT EXISTS for concurrent index creation in PostgreSQL](https://www.shayon.dev/post/2024/225/stop-relying-on-if-not-exists-for-concurrent-index-creation-in-postgresql/)
-- [Ask HN: What are some &quot;toy&quot; projects you used to learn neural networks hands-on?](https://news.ycombinator.com/item?id=41227515)
-- [Launch HN: Synnax &lpar;YC S24&rpar; – Unified hardware control and sensor data streaming](https://news.ycombinator.com/item?id=41227369)
+- [Damn Vulnerable UEFI](https://github.com/hacking-support/DVUEFI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
