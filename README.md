@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UN Cybercrime Convention to Overrule Bank Secrecy](https://www.therage.co/un-cybercrime-convention-bank-secrecy/)
-- [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
-- [Show HN: Anycast+ – An AI-powered podcast app](https://anycast.website/)
-- [Show HN: Simple Science – The Newest Science Explained Simply](https://simplescience.ai)
-- [Comma.ai: Refactoring for Growth](https://blog.comma.ai/refactoring-for-growth/)
+- [The Decline of Etiquette and the Rise of &#39;Boundaries&#39;](https://www.theatlantic.com/family/archive/2022/11/people-oversharing-tmi-friendship-boundaries/671970/)
+- [India&#39;s Bharti Enterprises Now Largest Shareholder in UK&#39;s BT Group](https://www.theregister.com/2024/08/12/indias_bharti_enterprises_now_largest/)
+- [DEFCON attendees having mandatory daily room searches by conference block hotels](https://twitter.com/d0rkph0enix/status/1822814018643374260)
+- [Interstellar movie is implemented with Einstein&#39;s equations in 40k lines C++](https://twitter.com/bitfield/status/1020632237493112833)
+- [Box2D 3.0 Released](https://box2d.org/posts/2024/08/releasing-box2d-3.0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
