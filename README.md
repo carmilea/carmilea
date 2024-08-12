@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple to take 30% of all Patreon donations](https://twitter.com/KenneyNL/status/1822996361551184290)
+- [ProhostAI &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/prohostai/jobs/E50Yl4C-founding-engineer)
+- [Repair and Remain: How to do the slow, hard, good work of staying put](https://comment.org/repair-and-remain/)
 - [NASA is about to make its most important safety decision in nearly a generation](https://arstechnica.com/space/2024/08/nasa-is-about-to-make-its-most-important-safety-decision-in-nearly-a-generation/)
-- [Apple&#39;s requirements are about to hit creators and fans on Patreon](https://microsite-news.pages.dev/articles/understanding-apple-requirements-for-patreon)
+- [How Bank of America Ignores Its Own Rules to Prevent Dangerous Workloads](https://www.wsj.com/finance/banking/bank-of-america-worker-death-policies-89eff5f6)
 - [Cancer Rates Are Rising in Young People](https://www.scientificamerican.com/article/cancer-rates-are-rising-in-young-people-heres-what-you-need-to-know/)
-- [The Geometric Tool That Solved Einstein&#39;s Relativity Problem](https://www.quantamagazine.org/the-geometric-tool-that-solved-einsteins-relativity-problem-20240812/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
