@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ProhostAI &lpar;YC S24&rpar; Is Hiring](https://www.ycombinator.com/companies/prohostai/jobs/E50Yl4C-founding-engineer)
-- [Repair and Remain: How to do the slow, hard, good work of staying put](https://comment.org/repair-and-remain/)
-- [NASA is about to make its most important safety decision in nearly a generation](https://arstechnica.com/space/2024/08/nasa-is-about-to-make-its-most-important-safety-decision-in-nearly-a-generation/)
-- [How Bank of America Ignores Its Own Rules to Prevent Dangerous Workloads](https://www.wsj.com/finance/banking/bank-of-america-worker-death-policies-89eff5f6)
-- [Cancer Rates Are Rising in Young People](https://www.scientificamerican.com/article/cancer-rates-are-rising-in-young-people-heres-what-you-need-to-know/)
+- [Ask HN: What are some &quot;toy&quot; projects you used to learn NN hands-on?](https://news.ycombinator.com/item?id=41227515)
+- [Launch HN: Synnax &lpar;YC S24&rpar; – Unified Hardware Control and Sensor Data Streaming](https://www.synnaxlabs.com/)
+- [Show HN: I built an animated 3D bookshelf for ebooks](https://github.com/mawise/bookshelf)
+- [Britain to use &quot;AI&quot; to answer taxpayer&#39;s letters](https://www.telegraph.co.uk/money/consumer-affairs/treasury-sparks-row-use-ai-deal-taxpayer-complaints/)
+- [FCC seek comments on NextNav petition for rulemaking on lower 900MHz ISM band](https://docs.fcc.gov/public/attachments/DA-24-776A1.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
