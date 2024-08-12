@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Working from home allowed him to be a more engaged dad. Now it&#39;s over](https://www.npr.org/2024/08/09/nx-s1-5046225/work-from-home-philadelphia-order)
 - [Ask HN: What are some &quot;toy&quot; projects you used to learn NN hands-on?](https://news.ycombinator.com/item?id=41227515)
-- [Launch HN: Synnax &lpar;YC S24&rpar; – Unified Hardware Control and Sensor Data Streaming](https://www.synnaxlabs.com/)
+- [Launch HN: Synnax &lpar;YC S24&rpar; – Unified Hardware Control and Sensor Data Streaming](https://news.ycombinator.com/item?id=41227369)
 - [Show HN: I built an animated 3D bookshelf for ebooks](https://github.com/mawise/bookshelf)
 - [Britain to use &quot;AI&quot; to answer taxpayer&#39;s letters](https://www.telegraph.co.uk/money/consumer-affairs/treasury-sparks-row-use-ai-deal-taxpayer-complaints/)
-- [FCC seek comments on NextNav petition for rulemaking on lower 900MHz ISM band](https://docs.fcc.gov/public/attachments/DA-24-776A1.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
