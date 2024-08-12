@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UN Cybercrime Convention to Overrule Bank Secrecy](https://www.therage.co/un-cybercrime-convention-bank-secrecy/)
+- [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
 - [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
-- [Show HN: Copy-Paste from Webflow into Webstudio](https://webstudio.is/copy-paste)
-- [How can Firefox create the best support for web apps on the desktop?](https://connect.mozilla.org/t5/discussions/how-can-firefox-create-the-best-support-for-web-apps-on-the/td-p/60561)
-- [Comma.ai: Refactoring for Growth](https://blog.comma.ai/refactoring-for-growth/)
-- [How to avoid losing items? Holding pens](https://blog.alexwendland.com/2024-07-07-holding-pens/)
+- [Show HN: Anycast+ – An AI-powered podcast app](https://anycast.website/)
+- [Show HN: Simple Science – The Newest Science Explained Simply](https://simplescience.ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
