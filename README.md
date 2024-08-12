@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Decline of Etiquette and the Rise of &#39;Boundaries&#39;](https://www.theatlantic.com/family/archive/2022/11/people-oversharing-tmi-friendship-boundaries/671970/)
-- [India&#39;s Bharti Enterprises Now Largest Shareholder in UK&#39;s BT Group](https://www.theregister.com/2024/08/12/indias_bharti_enterprises_now_largest/)
-- [DEFCON attendees having mandatory daily room searches by conference block hotels](https://twitter.com/d0rkph0enix/status/1822814018643374260)
+- [They encouraged us to insulate our home. Now it&#39;s unmortgageable](https://www.theguardian.com/money/article/2024/aug/12/they-encouraged-us-to-insulate-our-home-now-its-unmortgageable)
+- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 - [Interstellar movie is implemented with Einstein&#39;s equations in 40k lines C++](https://twitter.com/bitfield/status/1020632237493112833)
-- [Box2D 3.0 Released](https://box2d.org/posts/2024/08/releasing-box2d-3.0/)
+- [How good can you be at Codenames without knowing any words?](https://danluu.com/codenames/)
+- [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
