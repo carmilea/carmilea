@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What&#39;s Your Experience with eSIMs?](https://news.ycombinator.com/item?id=41229320)
-- [National Popular Vote Interstate Compact](https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact)
-- [History of Hacker News Search from 2007 to 2024](https://trieve.ai/history-of-hnsearch/)
-- [Federal appeals court finds geofence warrants &quot;categorically&quot; unconstitutional](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional)
-- [Damn Vulnerable UEFI](https://github.com/hacking-support/DVUEFI)
+- [Why brutalist buildings should stay, even if people think they&#39;re ugly](https://text.npr.org/g-s1-6417)
+- [Workers are stuck in place because everyone is too afraid of a recession to quit](https://boredbat.com/american-workers-are-stuck-in-place-because-everyone-is-too-afraid-of-a-recession-to-quit/#google_vignette)
+- [Piecing Together an Ancient Epic Was Slow Work. Until A.I. Got Involved](https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html)
+- [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
+- [NASA Investigation Finds Boeing Hindering Americans&#39; Return to Moon](https://www.flyingmag.com/modern/nasa-investigation-finds-boeing-hindering-americans-return-to-moon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
