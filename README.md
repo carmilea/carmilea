@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2024 Paris Olympics: No, breaking shouldn&#39;t be an Olympic sport](https://sports.yahoo.com/2024-paris-olympics-no-breaking-shouldnt-be-an-olympic-sport-190421401.html)
-- [Everything You Ever Wanted to Know about E. Coli &lpar;2008&rpar;](https://www.scientificamerican.com/podcast/episode/everything-you-ever-wanted-to-know-08-10-08/)
-- [US Government wants to make it easier for you to click the &#39;unsubscribe&#39; button](https://apnews.com/article/consumer-protection-ftc-fcc-biden-250f6eece6e2665535019128e8fa38da)
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [How good can you be at Codenames without knowing any words?](https://danluu.com/codenames/)
+- [There Is No Antimemetics Division &lpar;2018&rpar;](https://qntm.org/scp)
+- [&quot;Does astrology work? We tested the ability of 152 astrologers&quot;](https://threadreaderapp.com/thread/1822663687145972105.html)
+- [What startup founders have in common](https://slimsaas.com/blog/data-driven-analysis-startup-success)
+- [Okay, I Like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
+- [Go is my hammer, and everything is a nail](https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
