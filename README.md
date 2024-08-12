@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Federal Appeals Court Finds Geofence Warrants Are Categorically Unconstitutional](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional)
-- [Stop Relying on IF NOT EXISTS for Concurrent Index Creation in PostgreSQL](https://www.shayon.dev/post/2024/225/stop-relying-on-if-not-exists-for-concurrent-index-creation-in-postgresql/)
+- [History of Hacker News Search from 2007 to 2024](https://trieve.ai/history-of-hnsearch/)
+- [Federal appeals court finds geofence warrants &quot;categorically&quot; unconstitutional](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional)
+- [Don&#39;t rely on IF NOT EXISTS for concurrent index creation in PostgreSQL](https://www.shayon.dev/post/2024/225/stop-relying-on-if-not-exists-for-concurrent-index-creation-in-postgresql/)
 - [Ask HN: What are some &quot;toy&quot; projects you used to learn neural networks hands-on?](https://news.ycombinator.com/item?id=41227515)
 - [Launch HN: Synnax &lpar;YC S24&rpar; – Unified hardware control and sensor data streaming](https://news.ycombinator.com/item?id=41227369)
-- [Show HN: I built an animated 3D bookshelf for ebooks](https://github.com/mawise/bookshelf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
