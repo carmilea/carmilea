@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How can Firefox create the best support for web apps on the desktop?](https://connect.mozilla.org/t5/discussions/how-can-firefox-create-the-best-support-for-web-apps-on-the/td-p/60561)
-- [AMD&#39;s processors have been shipping with a dangerous security bug](https://www.interest.co.nz/technology/129141/researchers-suggest-throw-away-your-computer-if-sinkclose-flaw-amd-processors)
 - [China&#39;s total wind and solar capacity outstrips coal](https://renewablesnow.com/news/chinas-total-wind-and-solar-capacity-outstrips-coal-rystad-says-865106/)
 - [How to avoid losing items? Holding pens](https://blog.alexwendland.com/2024-07-07-holding-pens/)
 - [Generating Simpson&#39;s Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
+- [WireGuard-rs – Official Rust implementation of WireGuard](https://git.zx2c4.com/wireguard-rs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
