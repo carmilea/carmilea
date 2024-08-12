@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There Is No Antimemetics Division &lpar;2018&rpar;](https://qntm.org/scp)
-- [&quot;Does astrology work? We tested the ability of 152 astrologers&quot;](https://threadreaderapp.com/thread/1822663687145972105.html)
-- [What startup founders have in common](https://slimsaas.com/blog/data-driven-analysis-startup-success)
-- [Okay, I Like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
-- [Go is my hammer, and everything is a nail](https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail)
+- [Ask HN: Why ChatGPT loves the word: &quot;eager&quot; so much?](https://news.ycombinator.com/item?id=41224909)
+- [Keeping Secrets &lpar;2014&rpar;](https://stanfordmag.org/contents/keeping-secrets)
+- [X targeted with 9 privacy complaints after grabbing EU users&#39; data for training](https://techcrunch.com/2024/08/11/elon-musks-x-targeted-with-eight-privacy-complaints-after-grabbing-eu-users-data-for-training-grok/)
+- [New research on why Cahokia Mounds civilization left](https://scitechdaily.com/900-years-ago-one-of-the-largest-civilizations-in-the-world-was-abandoned-archaeologists-have-now-discovered-new-clues/)
+- [Show HN: PGlite – in-browser WASM Postgres with pgvector and live sync](https://pglite.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
