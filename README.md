@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Technical Product Manager](https://boards.greenhouse.io/supabase/jobs/5245988004)
+- [Pokémon series voice star Rachael Lillis dies at 46](https://www.bbc.com/news/articles/c4ge9zdve9no)
+- [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
 - [Hacking the largest airline and hotel rewards platform &lpar;2023&rpar;](https://samcurry.net/points-com)
 - [The Goths](https://www.the-hinternet.com/p/the-goths)
-- [Brands should avoid the term &#39;AI&#39;. It&#39;s turning off customers](https://www.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html)
-- [The AI Scientist: Towards Automated Open-Ended Scientific Discovery](https://sakana.ai/ai-scientist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
