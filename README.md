@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Google OAuth consent screen issue could be costing you signups](https://news.ycombinator.com/item?id=41236745)
+- [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
+- [You&#39;ve got to hide your myopia away: John Lennon&#39;s contact lenses](https://onlinelibrary.wiley.com/doi/10.1111/opo.13351)
+- [Launch HN: Trellis &lpar;YC W24&rpar; – AI-powered workflows for unstructured data](https://news.ycombinator.com/item?id=41236273)
 - [An open-source flow battery kit](https://dualpower.supply/posts/rfb-kit-workshop/)
-- [Launch HN: Shaped &lpar;YC W22&rpar; – AI-Powered Recommendations and Search](https://news.ycombinator.com/item?id=41235733)
-- [Saudi Arabia to Host Sixth Halo Space Test Flight in September](https://techmgzn.com/saudi-arabia-to-host-sixth-halo-space-test-flight-in-september/)
-- [A C/C++ library for audio and music analysis](https://github.com/libAudioFlux/audioFlux)
-- [Show HN: See the impact on your cloud costs as you code](https://news.ycombinator.com/item?id=41235038)
 <!-- BLOG-POST-LIST:END -->
 
 ---
