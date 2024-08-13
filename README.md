@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Core Python developer suspended for three months](https://www.theregister.com/2024/08/09/core_python_developer_suspended_coc/)
+- [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
 - [Go Algorithms and Data Structures: Best Practices for Beginners](https://github.com/TheAlgorithms/Go)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Technical Product Manager](https://boards.greenhouse.io/supabase/jobs/5245988004)
 - [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
-- [Hacking the largest airline and hotel rewards platform &lpar;2023&rpar;](https://samcurry.net/points-com)
-- [The Goths](https://www.the-hinternet.com/p/the-goths)
 <!-- BLOG-POST-LIST:END -->
 
 ---
