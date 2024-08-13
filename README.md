@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ozempic is changing people&#39;s skin, say plastic surgeons](https://www.allure.com/story/ozempics-effects-on-skin)
+- [US Air Force avoids PFAS water cleanup, citing Supreme Court&#39;s Chevron ruling](https://www.theguardian.com/us-news/article/2024/aug/12/air-force-epa-water-pfas-tucson)
 - [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)
-- [Pixel Watch 3](https://blog.google/products/pixel/google-pixel-watch-3/)
+- [Show HN: I built a tool to try artworks on your own wall](https://wallartlovers.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
