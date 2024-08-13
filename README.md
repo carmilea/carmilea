@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Osint: How to Find Information on Anyone](https://osintteam.blog/mastering-osint-how-to-find-information-on-anyone-680e4086f17f)
 - [0xCAFEBABE &amp; 0xFEEDFACE](http://radio-weblogs.com/0100490/2003/01/28.html)
 - [Faster Docker builds using a remote BuildKit instance](https://www.blacksmith.sh/blog/faster-docker-builds-using-a-remote-buildkit-instance)
 - [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
-- [User-defined Order in SQL &lpar;2018&rpar;](https://begriffs.com/posts/2018-03-20-user-defined-order.html)
-- [Workers are stuck in place because everyone is too afraid of a recession to quit](https://boredbat.com/american-workers-are-stuck-in-place-because-everyone-is-too-afraid-of-a-recession-to-quit/#google_vignette)
+- [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
 <!-- BLOG-POST-LIST:END -->
 
 ---
