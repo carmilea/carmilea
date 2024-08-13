@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Elevate Your AI Apps with Database Branching | SingleStore Webinars](https://www.youtube.com/watch?v=oGr0BT615pw)
+- [CNBC Asia Street Signs Raj Verma, CEO, SingleStore in conversation with Tanvir Gill + Samantha Vadas](https://www.youtube.com/watch?v=81KupDWr9Ao)
 - [Transforming Financial Fraud Detection with H2O.ai and AWS](https://www.youtube.com/watch?v=ch6ZY2ZALhQ)
 - [Advanced LLM Techniques: LLMs Level 2 Course | Teaser](https://www.youtube.com/watch?v=ul43ly-NK3I)
-- [H2O World India 2023 Recap](https://www.youtube.com/watch?v=i2aa2Jve7Gs)
-- [Exploring H2O&#39;s Generative AI Ecosystem | Teaser](https://www.youtube.com/watch?v=bfIMf8Fk9k0)
-- [Mastering Language Models : LLMs Level 1 Course | Teaser](https://www.youtube.com/watch?v=TeUmLrmmKrQ)
+- [Building Fast GenAI Apps on Mongo Data with SingleStore Kai | Singlestore Webinars](https://www.youtube.com/watch?v=7hykRfeofO8)
 <!-- YOUTUBE:END -->
 
 
