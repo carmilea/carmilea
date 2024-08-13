@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why brutalist buildings should stay, even if people think they&#39;re ugly](https://text.npr.org/g-s1-6417)
-- [Workers are stuck in place because everyone is too afraid of a recession to quit](https://boredbat.com/american-workers-are-stuck-in-place-because-everyone-is-too-afraid-of-a-recession-to-quit/#google_vignette)
-- [Piecing Together an Ancient Epic Was Slow Work. Until A.I. Got Involved](https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html)
-- [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
-- [NASA Investigation Finds Boeing Hindering Americans&#39; Return to Moon](https://www.flyingmag.com/modern/nasa-investigation-finds-boeing-hindering-americans-return-to-moon/)
+- [Waymo to begin testing on San Francisco freeways this week](https://techcrunch.com/2024/08/12/waymo-to-begin-testing-driverless-robotaxis-on-san-francisco-freeways/)
+- [Faster Docker builds using a remote BuildKit instance](https://www.blacksmith.sh/blog/faster-docker-builds-using-a-remote-buildkit-instance)
+- [Dr. Mengele, USA Style: Lessons from Human Rights Abuses Post-World War II [pdf]](https://cosmosandtaxis.org/wp-content/uploads/2022/09/coyne_hall_ct_vol10_iss9_10.pdf)
+- [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
+- [User-defined Order in SQL &lpar;2018&rpar;](https://begriffs.com/posts/2018-03-20-user-defined-order.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
