@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase &lpar;YC S20&rpar; Is Hiring a Technical Product Manager](https://boards.greenhouse.io/supabase/jobs/5245988004)
 - [Hacking the largest airline and hotel rewards platform &lpar;2023&rpar;](https://samcurry.net/points-com)
 - [The Goths](https://www.the-hinternet.com/p/the-goths)
-- [Haiku Activity and Contract Report, July 2024](https://www.haiku-os.org/blog/waddlesplash/2024-08-12-haiku_activity_contract_report_july_2024/)
 - [Brands should avoid the term &#39;AI&#39;. It&#39;s turning off customers](https://www.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html)
 - [The AI Scientist: Towards Automated Open-Ended Scientific Discovery](https://sakana.ai/ai-scientist/)
 <!-- BLOG-POST-LIST:END -->
