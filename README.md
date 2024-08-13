@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ozempic is changing people&#39;s skin, say plastic surgeons](https://www.allure.com/story/ozempics-effects-on-skin)
+- [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Google Pixel Watch 3: bigger, brighter, fine-tuned for fitness](https://blog.google/products/pixel/google-pixel-watch-3/)
-- [All of Earth&#39;s water in a single sphere](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
-- [Google Pixel 9 Pro](https://store.google.com/us/product/pixel_9_pro?hl=en-US)
-- [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
+- [ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)
+- [Pixel Watch 3](https://blog.google/products/pixel/google-pixel-watch-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
