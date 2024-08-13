@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [Google Pixel Watch 3: bigger, brighter, fine-tuned for fitness](https://blog.google/products/pixel/google-pixel-watch-3/)
 - [All of Earth&#39;s water in a single sphere](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
 - [Google Pixel 9 Pro](https://store.google.com/us/product/pixel_9_pro?hl=en-US)
-- [Retell AI &lpar;YC W24&rpar; is hiring a full stack engineer and a support engineer](https://news.ycombinator.com/item?id=41237200)
 - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
 <!-- BLOG-POST-LIST:END -->
 
