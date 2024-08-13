@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All of Earth&#39;s water in a single sphere](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
+- [Go 1.23 Released](https://go.dev/doc/devel/release#go1.23.0)
 - [Google Pixel 9 Pro](https://store.google.com/us/product/pixel_9_pro?hl=en-US)
 - [Retell AI &lpar;YC W24&rpar; Is Hiring a Full Stack Engineer and a Support Engineer](https://news.ycombinator.com/item?id=41237200)
 - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
-- [You&#39;ve got to hide your myopia away: John Lennon&#39;s contact lenses](https://onlinelibrary.wiley.com/doi/10.1111/opo.13351)
-- [Launch HN: Trellis &lpar;YC W24&rpar; – AI-powered workflows for unstructured data](https://news.ycombinator.com/item?id=41236273)
 <!-- BLOG-POST-LIST:END -->
 
 ---
