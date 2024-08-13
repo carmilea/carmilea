@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An open-source flow battery kit](https://dualpower.supply/posts/rfb-kit-workshop/)
+- [Launch HN: Shaped &lpar;YC W22&rpar; – AI-Powered Recommendations and Search](https://news.ycombinator.com/item?id=41235733)
+- [Saudi Arabia to Host Sixth Halo Space Test Flight in September](https://techmgzn.com/saudi-arabia-to-host-sixth-halo-space-test-flight-in-september/)
 - [A C/C++ library for audio and music analysis](https://github.com/libAudioFlux/audioFlux)
 - [Show HN: See the impact on your cloud costs as you code](https://news.ycombinator.com/item?id=41235038)
-- [The Webb Telescope Further Deepens the Biggest Controversy in Cosmology](https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/)
-- [Printf Oriented Message Protocol](https://github.com/Parrot-Developers/libpomp)
-- [Open-source tool translates and dubs videos into other languages using AI](https://github.com/jianchang512/pyvideotrans)
 <!-- BLOG-POST-LIST:END -->
 
 ---
