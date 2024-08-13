@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
-- [Supabase &lpar;YC S20&rpar; Is Hiring a Technical Product Manager](https://boards.greenhouse.io/supabase/jobs/5245988004)
-- [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
-- [Hacking the largest airline and hotel rewards platform &lpar;2023&rpar;](https://samcurry.net/points-com)
-- [The Goths](https://www.the-hinternet.com/p/the-goths)
+- [A C/C++ library for audio and music analysis](https://github.com/libAudioFlux/audioFlux)
+- [Show HN: See the impact on your cloud costs as you code](https://news.ycombinator.com/item?id=41235038)
+- [The Webb Telescope Further Deepens the Biggest Controversy in Cosmology](https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/)
+- [Printf Oriented Message Protocol](https://github.com/Parrot-Developers/libpomp)
+- [Open-source tool translates and dubs videos into other languages using AI](https://github.com/jianchang512/pyvideotrans)
 <!-- BLOG-POST-LIST:END -->
 
 ---
