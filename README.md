@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Osint: How to Find Information on Anyone](https://osintteam.blog/mastering-osint-how-to-find-information-on-anyone-680e4086f17f)
-- [0xCAFEBABE &amp; 0xFEEDFACE](http://radio-weblogs.com/0100490/2003/01/28.html)
-- [Faster Docker builds using a remote BuildKit instance](https://www.blacksmith.sh/blog/faster-docker-builds-using-a-remote-buildkit-instance)
-- [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
-- [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
+- [Auto-Generated Transcript of Musk-Trump Twitter Space](https://gist.githubusercontent.com/bubbaprog/1eb29610374ff9f458a37a648a4004e1/raw/212ad823d62f7c2948749b976f7a0fa7cda046d9/gistfile1.txt)
+- [Haiku Activity and Contract Report, July 2024](https://www.haiku-os.org/blog/waddlesplash/2024-08-12-haiku_activity_contract_report_july_2024/)
+- [Gitlab is reportedly up for sale](https://www.developer-tech.com/news/gitlab-is-reportedly-up-for-sale/)
+- [Brands should avoid the term &#39;AI&#39;. It&#39;s turning off customers](https://www.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html)
+- [The AI Scientist: Towards Automated Open-Ended Scientific Discovery](https://sakana.ai/ai-scientist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
