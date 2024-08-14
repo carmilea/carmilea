@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Circle Medical &lpar;YC S15&rpar; Is Hiring Ruby/Rails Engineers in Montreal](https://jobs.lever.co/circlemedical/980b39bf-38a3-4b0d-802c-442394b48bf2)
 - [London Tube map redesigned by Essex lecturer goes viral](https://www.bbc.co.uk/news/articles/c9843r0dz3go)
-- [Larry Tesler, Inventor of Cut/Paste, Has Died](https://www.bbc.com/news/world-us-canada-51567695)
+- [Larry Tesler pioneered cut-and-paste, the one-button mouse, WYSIWIG &lpar;2005&rpar;](https://spectrum.ieee.org/of-modes-and-men)
 - [Show HN: Open-source LLM provider price comparison](https://github.com/arc53/llm-price-compass)
 - [The Syndicated Actor Model](https://syndicate-lang.org/about/)
 <!-- BLOG-POST-LIST:END -->
