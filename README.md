@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Air Force avoids PFAS water cleanup, citing Supreme Court&#39;s Chevron ruling](https://www.theguardian.com/us-news/article/2024/aug/12/air-force-epa-water-pfas-tucson)
-- [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
+- [LLM-based sentiment analysis of Hacker News posts between Jan 2020 and June 2023](https://outerbounds.com/blog/hacker-news-sentiment/)
+- [Ex-Kansas police chief who raided local newspaper criminally charged](https://www.theguardian.com/us-news/article/2024/aug/13/marion-county-police-newspaper-raid-charges)
+- [Rust Atomics and Locks &lpar;2023&rpar;](https://marabos.nl/atomics/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [ARPA-H announces awards to develop novel technologies for precise tumor removal](https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal)
-- [Show HN: I built a tool to try artworks on your own wall](https://wallartlovers.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
