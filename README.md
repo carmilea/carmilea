@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meshtastic&#39;s Opposition to Proposed Changes on 900 MHz Band](https://meshtastic.org/blog/meshtastic-opposition-to-nextnav-proposed-changes/)
+- [Disney Seeks Dismissal Wrongful Death Lawsuit b/c Victim Is Disney+ Subscriber](https://wdwnt.com/2024/08/disney-dismissal-wrongful-death-lawsuit/)
 - [The TikTok Case Will Be Determined by What&#39;s Behind the Government&#39;s Black Lines](https://www.lawfaremedia.org/article/the-tiktok-case-will-be-determined-by-what-s-behind-the-government-s-black-lines)
+- [Things I learned from teaching &lpar;2023&rpar;](https://claytonwramsey.com/blog/learned-from-teaching)
 - [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?proj=27.+rePalm&r=05.Projects)
-- [LLM-based sentiment analysis of Hacker News posts between Jan 2020 and June 2023](https://outerbounds.com/blog/hacker-news-sentiment/)
 - [Ex-Kansas police chief who raided local newspaper criminally charged](https://www.theguardian.com/us-news/article/2024/aug/13/marion-county-police-newspaper-raid-charges)
 <!-- BLOG-POST-LIST:END -->
 
