@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Re-fixing Servo&#39;s event-loop](https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385)
+- [Hackers may have leaked the Social Security Numbers of every American](https://www.engadget.com/cybersecurity/hackers-may-have-leaked-the-social-security-numbers-of-every-american-150834276.html)
+- [The Complex Relationship Between ADHD, Autism, and Personality Disorders](https://www.traudhd.com/p/autism-adhd-personality-disorders-narcissism)
 - [Circle Medical &lpar;YC S15&rpar; Is Hiring Ruby/Rails Engineers in Montreal](https://jobs.lever.co/circlemedical/980b39bf-38a3-4b0d-802c-442394b48bf2)
-- [London Tube map redesigned by Essex lecturer goes viral](https://www.bbc.co.uk/news/articles/c9843r0dz3go)
 - [Larry Tesler pioneered cut-and-paste, the one-button mouse, WYSIWIG &lpar;2005&rpar;](https://spectrum.ieee.org/of-modes-and-men)
-- [Show HN: Open-source LLM provider price comparison](https://github.com/arc53/llm-price-compass)
-- [The Syndicated Actor Model](https://syndicate-lang.org/about/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
