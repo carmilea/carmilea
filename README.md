@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FAQs for MongoDB® Developers Migrating to SingleStore From a Sharded MongoDB Deployment](https://www.singlestore.com/blog/faqs-mongodb-developers-migrating-to-singlestore-from-sharded-mongodb-deployment)
-- [Kiota: OpenAPI-Based HTTP Client Code Generator](https://github.com/microsoft/kiota)
-- [Show HN: If YouTube had actual channels](https://ytch.xyz)
-- [The Curse of Knowledge](https://nesslabs.com/curse-of-knowledge)
-- [Tmpmail: Temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
+- [Korea EV explosion prompts charging rethink, sparks safety fears](https://www.japantimes.co.jp/business/2024/08/08/tech/korea-ev-explosion-safety-fears/)
+- [CoinTracker &lpar;YC W18&rpar; Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
+- [The &quot;3B People&quot; National Public Data Breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
+- [Visual Data Structures Cheat-Sheet](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)
+- [A Different Kind of Keyboard](https://ianthehenry.com/posts/peggi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
