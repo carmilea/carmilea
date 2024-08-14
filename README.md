@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [AIRR Labs increases performance 20x, at one-third the cost, with SingleStore](https://www.youtube.com/watch?v=V210efUJ6M4)
 - [1. Course Overview | H2O Wave Starter Course.](https://www.youtube.com/watch?v=gIzy2j8WMak)
 - [Elevate Your AI Apps with Database Branching | SingleStore Webinars](https://www.youtube.com/watch?v=oGr0BT615pw)
 - [CNBC Asia Street Signs Raj Verma, CEO, SingleStore in conversation with Tanvir Gill + Samantha Vadas](https://www.youtube.com/watch?v=81KupDWr9Ao)
 - [Transforming Financial Fraud Detection with H2O.ai and AWS](https://www.youtube.com/watch?v=ch6ZY2ZALhQ)
-- [Advanced LLM Techniques: LLMs Level 2 Course | Teaser](https://www.youtube.com/watch?v=ul43ly-NK3I)
 <!-- YOUTUBE:END -->
 
 
