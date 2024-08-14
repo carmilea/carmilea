@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I made a tool to help collect and validate startup ideas](https://www.keepmyidea.app)
 - [Grok-2 Beta Release](https://x.ai/blog/grok-2)
 - [Disney seeks dismissal of wrongful death lawsuit citing waiver in Disney+ terms](https://wdwnt.com/2024/08/disney-dismissal-wrongful-death-lawsuit/)
 - [Things I learned from teaching &lpar;2023&rpar;](https://claytonwramsey.com/blog/learned-from-teaching)
 - [Ex-Kansas police chief who raided local newspaper criminally charged](https://www.theguardian.com/us-news/article/2024/aug/13/marion-county-police-newspaper-raid-charges)
+- [Rust Atomics and Locks &lpar;2023&rpar;](https://marabos.nl/atomics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
