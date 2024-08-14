@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Personality Types and Hiring](https://vaishnavsunil.substack.com/p/you-seem-too-high-in-openness)
+- [Who Goes Nazi? &lpar;1941&rpar;](https://harpers.org/archive/1941/08/who-goes-nazi/)
 - [Enzo Biochem must pay $4.5M for lousy security that led to ransomware disaster](https://www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/)
-- [Against Names](https://steveklabnik.com/writing/against-names/)
-- [CoinTracker &lpar;YC W18&rpar; Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
-- [Inside the &quot;3 billion people&quot; national public data breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
-- [How I won $2,750 using JavaScript, AI, and a can of WD-40](https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40)
+- [X&#39;s new AI image generator will make anything](https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges)
+- [Baijiu Meets Binary: Why Moutai is Investing in Semiconductors](https://www.chinatalk.media/p/why-moutai-is-investing-in-semiconductors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
