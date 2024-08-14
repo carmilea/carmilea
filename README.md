@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Korea EV explosion prompts charging rethink, sparks safety fears](https://www.japantimes.co.jp/business/2024/08/08/tech/korea-ev-explosion-safety-fears/)
+- [Enzo Biochem must pay $4.5M for lousy security that led to ransomware disaster](https://www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/)
+- [Against Names](https://steveklabnik.com/writing/against-names/)
 - [CoinTracker &lpar;YC W18&rpar; Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
-- [The &quot;3B People&quot; National Public Data Breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
-- [Visual Data Structures Cheat-Sheet](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)
-- [A Different Kind of Keyboard](https://ianthehenry.com/posts/peggi/)
+- [Inside the &quot;3 billion people&quot; national public data breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
+- [How I won $2,750 using JavaScript, AI, and a can of WD-40](https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40)
 <!-- BLOG-POST-LIST:END -->
 
 ---
