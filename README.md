@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Decentralized Solana Crowdfunding Platform](https://sper.money)
-- [Re-fixing Servo&#39;s event-loop](https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385)
-- [Circle Medical &lpar;YC S15&rpar; Is Hiring Ruby/Rails Engineers in Montreal](https://jobs.lever.co/circlemedical/980b39bf-38a3-4b0d-802c-442394b48bf2)
-- [Larry Tesler pioneered cut-and-paste, the one-button mouse, WYSIWIG &lpar;2005&rpar;](https://spectrum.ieee.org/of-modes-and-men)
-- [Show HN: Open-source LLM provider price comparison](https://github.com/arc53/llm-price-compass)
+- [FAQs for MongoDB® Developers Migrating to SingleStore From a Sharded MongoDB Deployment](https://www.singlestore.com/blog/faqs-mongodb-developers-migrating-to-singlestore-from-sharded-mongodb-deployment)
+- [Kiota: OpenAPI-Based HTTP Client Code Generator](https://github.com/microsoft/kiota)
+- [Show HN: If YouTube had actual channels](https://ytch.xyz)
+- [The Curse of Knowledge](https://nesslabs.com/curse-of-knowledge)
+- [Tmpmail: Temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
