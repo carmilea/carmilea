@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grok-2 Beta Release](https://x.ai/blog/grok-2)
-- [Disney seeks dismissal of wrongful death lawsuit citing waiver in Disney+ terms](https://wdwnt.com/2024/08/disney-dismissal-wrongful-death-lawsuit/)
-- [Things I learned from teaching &lpar;2023&rpar;](https://claytonwramsey.com/blog/learned-from-teaching)
-- [Ex-Kansas police chief who raided local newspaper criminally charged](https://www.theguardian.com/us-news/article/2024/aug/13/marion-county-police-newspaper-raid-charges)
-- [Rust Atomics and Locks &lpar;2023&rpar;](https://marabos.nl/atomics/)
+- [The Syndicated Actor Model](https://syndicate-lang.org/about/)
+- [CSVs Are Kinda Bad. DSVs Are Kinda Good](https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/)
+- [Examples of Great URL Design &lpar;2023&rpar;](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
+- [CVE-2024-38063, Windows TCP/IP Remote Code Execution Vulnerability](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063)
+- [Vaultwarden: Unofficial Bitwarden compatible server written in Rust](https://github.com/dani-garcia/vaultwarden)
 <!-- BLOG-POST-LIST:END -->
 
 ---
