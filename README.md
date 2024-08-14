@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ISPs worry that killing FCC net neutrality rules will come back to haunt them](https://arstechnica.com/tech-policy/2024/08/isps-ask-supreme-court-to-kill-new-york-law-that-requires-15-broadband-plans/)
 - [Personality Types and Hiring](https://vaishnavsunil.substack.com/p/you-seem-too-high-in-openness)
-- [Who Goes Nazi? &lpar;1941&rpar;](https://harpers.org/archive/1941/08/who-goes-nazi/)
-- [Enzo Biochem must pay $4.5M for lousy security that led to ransomware disaster](https://www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/)
-- [X&#39;s new AI image generator will make anything](https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges)
+- [Tell HN: Server error &lpar;5xx&rpar; in Google Search Console may not be 5xx at all](https://news.ycombinator.com/item?id=41248542)
 - [Baijiu Meets Binary: Why Moutai is Investing in Semiconductors](https://www.chinatalk.media/p/why-moutai-is-investing-in-semiconductors)
+- [CoinTracker &lpar;YC W18&rpar; Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
 <!-- BLOG-POST-LIST:END -->
 
 ---
