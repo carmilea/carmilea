@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-source utils for devs who don&#39;t like ads](https://github.com/jamdotdev/jam-dev-utilities)
 - [Legalist &lpar;YC S16&rpar; Is Hiring a Skunk Works Hacker](https://news.ycombinator.com/item?id=41253691)
 - [MIT researchers use large language models to flag problems in complex systems](https://news.mit.edu/2024/researchers-use-large-language-models-to-flag-problems-0814)
 - [Exact Polygonal Filtering: Using Green&#39;s Theorem and Clipping for Anti-Aliasing](https://jonathanolson.net/exact-polygonal-filtering)
 - [Victorian Artistic Printing &lpar;2009&rpar;](https://www.sheaff-ephemera.com/list/artistic_printing.html)
-- [Show HN: An online 2D MMO game, written in Rust and JavaScript](https://polyfight.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
