@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One man&#39;s quest to restore the first-ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41260321)
-- [We Survived 10k Requests/Second: Switching to Signed Asset URLs in an Emergency](https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls)
+- [We survived 10k requests/second: Switching to signed asset URLs in an emergency](https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls)
 - [Cleaning up the aging brain: Scientists restore brain&#39;s trash disposal system](https://www.sciencedaily.com/releases/2024/08/240815124156.htm)
 - [Hermes 3: The First Fine-Tuned Llama 3.1 405B Model](https://lambdalabs.com/blog/unveiling-hermes-3-the-first-fine-tuned-llama-3.1-405b-model-is-on-lambdas-cloud)
-- [Launch HN: Manaflow &lpar;YC S24&rpar; – Automate repetitive office work in tables](https://news.ycombinator.com/item?id=41259754)
 <!-- BLOG-POST-LIST:END -->
 
 ---
