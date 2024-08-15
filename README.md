@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google pulls the plug on uBlock Origin, leaving over 30M Chrome users sus](https://www.windowscentral.com/software-apps/browsing/google-pulls-the-plug-on-ublock-origin)
+- [Repulsive Shells [video]](https://www.youtube.com/watch?v=skEnUjpNN5w)
 - [International Study Detects Consciousness in Unresponsive Patients](https://www.massgeneralbrigham.org/en/about/newsroom/articles/consciousness-unresponsive-patients)
-- [AltStore PAL receives Epic Games MegaGrant, will no longer require subscription](https://fosstodon.org/@altstore/112962388607680148)
 - [Patrol the pool with this Arduino Nano-powered DIY RC submarine](https://blog.arduino.cc/2024/08/03/patrol-the-pool-with-this-arduino-nano-powered-diy-rc-submarine/)
 - [Algorithms through the lens of symbolic pattern matching](https://symbolica.io/posts/pattern_matching/)
-- [CoinTracker &lpar;YC W18&rpar; Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
 <!-- BLOG-POST-LIST:END -->
 
 ---
