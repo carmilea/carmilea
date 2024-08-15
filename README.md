@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GEN One: Innovations from the Paul G. Allen Collection](https://www.christies.com/en/stories/gen-one-innovations-from-the-paul-g-allen-collection-1f0df60a726e4dcbabef3a91a57ef7ee)
-- [New data on the product job market](https://www.lennysnewsletter.com/p/new-data-on-the-product-job-market)
-- [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
-- [When something that was working, suddenly doesn&#39;t work when demoing to others](https://en.wiktionary.org/wiki/Vorf%C3%BChreffekt)
-- [Launch HN: Hamming &lpar;YC S24&rpar; – Automated Testing for Voice Agents](https://news.ycombinator.com/item?id=41257369)
+- [Gemma explained: An overview of Gemma model family architectures](https://developers.googleblog.com/en/gemma-explained-overview-gemma-model-family-architectures/)
+- [It&#39;s the Land, Stupid: How the Homebuilder Cartel Drives High Housing Prices](https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder)
+- [Shell oil non-profit donated to anti-climate groups behind Project 2025](https://www.theguardian.com/us-news/article/2024/aug/15/shell-oil-project-2025-climate-crisis)
+- [Artists Score Major Win in Copyright Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-score-major-win-copyright-case-against-ai-art-generators-1235973601/)
+- [Stablecoins Can Have Bank Runs](https://www.bloomberg.com/opinion/articles/2024-08-15/stablecoins-can-have-bank-runs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
