@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exact Polygonal Filtering: Using Green&#39;s Theorem and Clipping for Anti-Aliasing](https://jonathanolson.net/exact-polygonal-filtering)
+- [Victorian Artistic Printing &lpar;2009&rpar;](https://www.sheaff-ephemera.com/list/artistic_printing.html)
 - [ALS Stole His Voice. A.I. Retrieved It](https://www.nytimes.com/2024/08/14/health/als-ai-brain-implants.html)
-- [2024-08-12 a pedantic review of the Las Vegas loop](https://computer.rip/2024-08-12-a-pedantic-review-of-the-las-vegas-loop.html)
+- [A pedantic review of the Las Vegas loop](https://computer.rip/2024-08-12-a-pedantic-review-of-the-las-vegas-loop.html)
 - [Show HN: An online 2D MMO game, written in Rust and JavaScript](https://polyfight.io/)
-- [Nu-Klear Fallout Detector &lpar;ca. 1962-1968&rpar;](https://www.orau.org/health-physics-museum/collection/civil-defense/citizens/nuklear.html)
-- [GitHub was down](https://github.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
