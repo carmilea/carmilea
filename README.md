@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No tax on tips: Why politicians love it, and economists don&#39;t](https://www.npr.org/2024/08/11/nx-s1-5071144/no-tax-on-tips-campaigns-trump-harris)
 - [Show HN: An online 2D MMO game, written in Rust and JavaScript](https://polyfight.io/)
 - [Nu-Klear Fallout Detector &lpar;ca. 1962-1968&rpar;](https://www.orau.org/health-physics-museum/collection/civil-defense/citizens/nuklear.html)
 - [GitHub was down](https://github.com/)
 - [Show HN: Browser-based XSS scanner](https://github.com/dshieble/playwright_xss_scanner)
-- [International Study Detects Consciousness in Unresponsive Patients](https://www.massgeneralbrigham.org/en/about/newsroom/articles/consciousness-unresponsive-patients)
 <!-- BLOG-POST-LIST:END -->
 
 ---
