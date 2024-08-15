@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US judge has girl handcuffed for sleeping during court field trip](https://www.bbc.com/news/articles/cn7lxly3xddo)
+- [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+- [Cisco slashes thousands of workers as it announces yearly profit of $10.3B](https://www.sfgate.com/tech/article/cisco-layoffs-second-this-year-19657267.php)
+- [When something that was working, suddenly doesn&#39;t work when demoing to others](https://en.wiktionary.org/wiki/Vorf%C3%BChreffekt)
+- [Launch HN: Hamming &lpar;YC S24&rpar; – Automated Testing for Voice Agents](https://news.ycombinator.com/item?id=41257369)
 - [Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels](https://mobiusml.github.io/gemlite_blogpost/)
-- [CockroachDB License Change](https://www.cockroachlabs.com/enterprise-license-update/)
-- [Top Five Takeaways From My Recent CNBC Interview](https://www.singlestore.com/blog/top-five-takeaways-cnbc-interview)
-- [YouTube Video to Tabs and Lyrics](https://github.com/JoinMusic/fish)
 <!-- BLOG-POST-LIST:END -->
 
 ---
