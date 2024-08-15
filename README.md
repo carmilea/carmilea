@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL](https://github.com/avishek-sen-gupta/cobol-rekt)
 - [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
+- [How we migrated GOV.UK Notify to AWS Elastic Container Service](https://gds.blog.gov.uk/2024/08/14/how-we-migrated-gov-uk-notify-to-aws-elastic-container-service/)
 - [Legalist &lpar;YC S16&rpar; Is Hiring a Skunk Works Hacker](https://news.ycombinator.com/item?id=41253691)
 - [MIT researchers use large language models to flag problems in complex systems](https://news.mit.edu/2024/researchers-use-large-language-models-to-flag-problems-0814)
-- [Exact Polygonal Filtering: Using Green&#39;s Theorem and Clipping for Anti-Aliasing](https://jonathanolson.net/exact-polygonal-filtering)
-- [Victorian Artistic Printing &lpar;2009&rpar;](https://www.sheaff-ephemera.com/list/artistic_printing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
