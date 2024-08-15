@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL](https://github.com/avishek-sen-gupta/cobol-rekt)
-- [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
-- [How we migrated GOV.UK Notify to AWS Elastic Container Service](https://gds.blog.gov.uk/2024/08/14/how-we-migrated-gov-uk-notify-to-aws-elastic-container-service/)
-- [Legalist &lpar;YC S16&rpar; Is Hiring a Skunk Works Hacker](https://news.ycombinator.com/item?id=41253691)
-- [MIT researchers use large language models to flag problems in complex systems](https://news.mit.edu/2024/researchers-use-large-language-models-to-flag-problems-0814)
+- [Kim Dotcom to be extradited from New Zealand](https://www.reuters.com/world/kim-dotcom-be-extradited-new-zealand-after-12-year-fight-with-us-2024-08-15/)
+- [Toyota bets big on hybrid-only models as EV demand slows](https://www.reuters.com/business/autos-transportation/toyota-bets-big-hybrid-only-models-ev-demand-slows-2024-08-15/)
+- [Kim Dotcom&#39;s Extradition to the U.S. Given Green Light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/)
+- [Google is a monopoly. Breakup may be coming; what comes after may not be better](https://www.theregister.com/2024/08/15/google_monopoly_fix/)
+- [Ego &lpar;YC W24, Gaming&rpar; Is Hiring Community Manager/Social Media Marketer](https://www.ycombinator.com/companies/ego/jobs/rgl6DLy-community-manager-social-media-marketer-contract)
 <!-- BLOG-POST-LIST:END -->
 
 ---
