@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemma explained: An overview of Gemma model family architectures](https://developers.googleblog.com/en/gemma-explained-overview-gemma-model-family-architectures/)
-- [It&#39;s the Land, Stupid: How the Homebuilder Cartel Drives High Housing Prices](https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder)
-- [Shell oil non-profit donated to anti-climate groups behind Project 2025](https://www.theguardian.com/us-news/article/2024/aug/15/shell-oil-project-2025-climate-crisis)
+- [Looking Glass&#39; new lineup includes a $300 phone-sized holographic display](https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/)
+- [Google Pixel phones sold with security vulnerability, report finds](https://www.theverge.com/2024/8/15/24221151/google-pixel-showcase-software-spyware-palantir-iverify)
+- [It&#39;s the land, stupid: How the homebuilder cartel drives high housing prices](https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder)
 - [Artists Score Major Win in Copyright Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-score-major-win-copyright-case-against-ai-art-generators-1235973601/)
-- [Stablecoins Can Have Bank Runs](https://www.bloomberg.com/opinion/articles/2024-08-15/stablecoins-can-have-bank-runs)
+- [Programmers Don&#39;t Read Books – But You Should &lpar;2008&rpar;](https://blog.codinghorror.com/programmers-dont-read-books-but-you-should/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
