@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GEN One: Innovations from the Paul G. Allen Collection](https://www.christies.com/en/stories/gen-one-innovations-from-the-paul-g-allen-collection-1f0df60a726e4dcbabef3a91a57ef7ee)
+- [New data on the product job market](https://www.lennysnewsletter.com/p/new-data-on-the-product-job-market)
 - [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
-- [Cisco slashes thousands of workers as it announces yearly profit of $10.3B](https://www.sfgate.com/tech/article/cisco-layoffs-second-this-year-19657267.php)
 - [When something that was working, suddenly doesn&#39;t work when demoing to others](https://en.wiktionary.org/wiki/Vorf%C3%BChreffekt)
 - [Launch HN: Hamming &lpar;YC S24&rpar; – Automated Testing for Voice Agents](https://news.ycombinator.com/item?id=41257369)
-- [Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels](https://mobiusml.github.io/gemlite_blogpost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
