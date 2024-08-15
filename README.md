@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ONNX: The Open Standard for Seamless Machine Learning Interoperability](https://github.com/onnx/onnx)
+- [Private, Secure and Uncensorable Messaging over a LoRa Mesh &lpar;2022&rpar;](https://unsigned.io/private-messaging-over-lora/)
+- [Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels](https://mobiusml.github.io/gemlite_blogpost/)
 - [CockroachDB License Change](https://www.cockroachlabs.com/enterprise-license-update/)
-- [I disapprove of what you say, but will defend to the death your right to say it](https://www.socratic-method.com/quote-meanings-interpretations/evelyn-beatrice-hall-i-disapprove-of-what-you-say-but-i-will-defend-to-the-death-your-right-to-say-it)
-- [We have discovered antibiotics in the global microbiome with AI, ask us anything](https://old.reddit.com/r/askscience/comments/1ess914/askscience_ama_series_we_have_discovered/)
-- [Iranian banks hit by major cyber attack, reportedly one of largest in history](https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iranian-banks-hit-by-major-cyber-attack-reportedly-one-of-largest-in-history)
-- [YouTube Video to Tabs and Lyrics](https://github.com/JoinMusic/fish)
+- [We have discovered antibiotics in the global microbiome with AI](https://www.reddit.com/r/askscience/comments/1ess914/askscience_ama_series_we_have_discovered/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
