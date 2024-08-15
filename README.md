@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Mesa](https://blackmesa.com/)
+- [RP2350 PicoDVI Preview](https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385)
+- [Slow Is Smooth, Smooth Is Fast: Navy SEALs&#39; Efficiency Secret](https://www.navyseal.com/slow-is-smooth-smooth-is-fast/)
 - [One man&#39;s quest to restore the first-ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41260321)
-- [We survived 10k requests/second: Switching to signed asset URLs in an emergency](https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls)
-- [Cleaning up the aging brain: Scientists restore brain&#39;s trash disposal system](https://www.sciencedaily.com/releases/2024/08/240815124156.htm)
-- [Hermes 3: The First Fine-Tuned Llama 3.1 405B Model](https://lambdalabs.com/blog/unveiling-hermes-3-the-first-fine-tuned-llama-3.1-405b-model-is-on-lambdas-cloud)
 <!-- BLOG-POST-LIST:END -->
 
 ---
