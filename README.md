@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kim Dotcom to be extradited from New Zealand](https://www.reuters.com/world/kim-dotcom-be-extradited-new-zealand-after-12-year-fight-with-us-2024-08-15/)
-- [Toyota bets big on hybrid-only models as EV demand slows](https://www.reuters.com/business/autos-transportation/toyota-bets-big-hybrid-only-models-ev-demand-slows-2024-08-15/)
-- [Kim Dotcom&#39;s Extradition to the U.S. Given Green Light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/)
-- [Google is a monopoly. Breakup may be coming; what comes after may not be better](https://www.theregister.com/2024/08/15/google_monopoly_fix/)
-- [Ego &lpar;YC W24, Gaming&rpar; Is Hiring Community Manager/Social Media Marketer](https://www.ycombinator.com/companies/ego/jobs/rgl6DLy-community-manager-social-media-marketer-contract)
+- [CockroachDB License Change](https://www.cockroachlabs.com/enterprise-license-update/)
+- [I disapprove of what you say, but will defend to the death your right to say it](https://www.socratic-method.com/quote-meanings-interpretations/evelyn-beatrice-hall-i-disapprove-of-what-you-say-but-i-will-defend-to-the-death-your-right-to-say-it)
+- [We have discovered antibiotics in the global microbiome with AI, ask us anything](https://old.reddit.com/r/askscience/comments/1ess914/askscience_ama_series_we_have_discovered/)
+- [Iranian banks hit by major cyber attack, reportedly one of largest in history](https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iranian-banks-hit-by-major-cyber-attack-reportedly-one-of-largest-in-history)
+- [YouTube Video to Tabs and Lyrics](https://github.com/JoinMusic/fish)
 <!-- BLOG-POST-LIST:END -->
 
 ---
