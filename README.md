@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ONNX: The Open Standard for Seamless Machine Learning Interoperability](https://github.com/onnx/onnx)
-- [Private, Secure and Uncensorable Messaging over a LoRa Mesh &lpar;2022&rpar;](https://unsigned.io/private-messaging-over-lora/)
+- [US judge has girl handcuffed for sleeping during court field trip](https://www.bbc.com/news/articles/cn7lxly3xddo)
 - [Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels](https://mobiusml.github.io/gemlite_blogpost/)
 - [CockroachDB License Change](https://www.cockroachlabs.com/enterprise-license-update/)
-- [We have discovered antibiotics in the global microbiome with AI](https://www.reddit.com/r/askscience/comments/1ess914/askscience_ama_series_we_have_discovered/)
+- [Top Five Takeaways From My Recent CNBC Interview](https://www.singlestore.com/blog/top-five-takeaways-cnbc-interview)
+- [YouTube Video to Tabs and Lyrics](https://github.com/JoinMusic/fish)
 <!-- BLOG-POST-LIST:END -->
 
 ---
