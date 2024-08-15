@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking Glass&#39; new lineup includes a $300 phone-sized holographic display](https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/)
-- [Google Pixel phones sold with security vulnerability, report finds](https://www.theverge.com/2024/8/15/24221151/google-pixel-showcase-software-spyware-palantir-iverify)
-- [It&#39;s the land, stupid: How the homebuilder cartel drives high housing prices](https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder)
-- [Artists Score Major Win in Copyright Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-score-major-win-copyright-case-against-ai-art-generators-1235973601/)
-- [Programmers Don&#39;t Read Books – But You Should &lpar;2008&rpar;](https://blog.codinghorror.com/programmers-dont-read-books-but-you-should/)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41260321)
+- [We Survived 10k Requests/Second: Switching to Signed Asset URLs in an Emergency](https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls)
+- [Cleaning up the aging brain: Scientists restore brain&#39;s trash disposal system](https://www.sciencedaily.com/releases/2024/08/240815124156.htm)
+- [Hermes 3: The First Fine-Tuned Llama 3.1 405B Model](https://lambdalabs.com/blog/unveiling-hermes-3-the-first-fine-tuned-llama-3.1-405b-model-is-on-lambdas-cloud)
+- [Launch HN: Manaflow &lpar;YC S24&rpar; – Automate repetitive office work in tables](https://news.ycombinator.com/item?id=41259754)
 <!-- BLOG-POST-LIST:END -->
 
 ---
