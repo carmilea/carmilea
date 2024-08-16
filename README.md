@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CEOs Are Running Companies from Afar Even as Workers Return to Office](https://www.bloomberg.com/news/articles/2024-08-15/starbucks-victoria-s-secret-are-part-of-broader-trend-of-remote-ceos)
+- [SREBench Competition](https://sreben.ch/)
+- [CEOs are running companies from afar even as workers return to office](https://www.bloomberg.com/news/articles/2024-08-15/starbucks-victoria-s-secret-are-part-of-broader-trend-of-remote-ceos)
 - [We&#39;re Cutting L40S Prices in Half](https://fly.io/blog/cutting-prices-for-l40s-gpus-in-half/)
+- [ImRAD is a GUI builder for the ImGui library](https://github.com/tpecholt/imrad)
 - [Nationalpublicdata.com Hack Exposes a Nation&#39;s Data](https://krebsonsecurity.com/2024/08/nationalpublicdata-com-hack-exposes-a-nations-data/)
-- [Reticulum Is Unstoppable Networks for the People](https://reticulum.network/)
-- [RP2350 PicoDVI Preview](https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385)
 <!-- BLOG-POST-LIST:END -->
 
 ---
