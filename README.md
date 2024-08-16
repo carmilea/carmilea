@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cause of Alzheimer&#39;s Might Not Be Amyloid](https://scitechdaily.com/the-real-cause-of-alzheimers-might-not-be-amyloid-groundbreaking-discovery-challenges-decades-old-theories/)
+- [ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters &lpar;2020&rpar;](https://github.com/LiciaHe/threadPlotter)
+- [Dubai Court Declares Crypto Salary Legal](https://www.econotimes.com/Dubai-Court-Declares-Crypto-Salary-Legal-Ushering-in-a-Revolutionary-Shift-for-UAE-Workers-1684321)
 - [Jerry &lpar;YC S17&rpar; Is Hiring Lead Product &lpar;New Product,B2B GenAI Platform&rpar;](https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf)
 - [PyTorch is dead. Long live Jax](https://neel04.github.io/my-website/blog/pytorch_rant/)
-- [Backdoor discovered in several brands of RFID cards [pdf]](https://eprint.iacr.org/2024/1275.pdf)
-- [A New Theory of Distraction &lpar;2015&rpar;](https://www.newyorker.com/culture/cultural-comment/a-new-theory-of-distraction)
-- [Disrupting a covert Iranian influence operation](https://openai.com/index/disrupting-a-covert-iranian-influence-operation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
