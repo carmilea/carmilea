@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Halide embraces photo purists with new anti-AI processing mode](https://9to5mac.com/2024/08/14/halide-embraces-photo-purists-with-new-anti-ai-processing-mode/)
-- [Low Earth Orbit Satellites Cause Environmental Harm Regulators Didnt Prepare For](https://www.techdirt.com/2024/08/16/report-low-earth-orbit-leo-satellite-systems-like-starlink-cause-environmental-harm-regulators-didnt-prepare-for/)
+- [Coke Fortune Heir Tallies $1B in Workplace Harassment Verdicts Against Him](https://www.law.com/thelegalintelligencer/2024/08/16/heir-to-coca-cola-fortune-tallies-nearly-1b-in-sexual-harassment-verdicts-against-him/)
+- [Disney&#39;s not alone in saying your clicks means you can&#39;t sue](https://www.cnn.com/2024/08/16/politics/arbitration-signing-away-rights-disney-plus-wrongful-death-lawsuit/index.html)
+- [AFP Spent $500k Trying to Lock Up Autistic 13-Year-Old on Terrorism Charges](https://www.techdirt.com/2024/08/15/australian-feds-spent-more-than-500000-trying-to-lock-up-an-autistic-13-year-old-on-terrorism-charges/)
+- [Apple&#39;s Hold on the App Store Is Loosening, at Least in Europe](https://www.wsj.com/tech/epic-games-apple-app-store-europe-44ceda50)
 - [JPlag – Detecting Software Plagiarism](https://github.com/jplag/JPlag)
-- [Show HN: I made an open-source personal dashboard builder](https://github.com/tryglow/glow)
-- [Supporting game design with evolutionary algorithms](https://www.gamedeveloper.com/design/supporting-game-design-with-evolutionary-algorithms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
