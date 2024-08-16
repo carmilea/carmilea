@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mpox: Sweden confirms first case of &#39;more grave&#39; variant outside Africa](https://www.theguardian.com/world/article/2024/aug/15/mpox-variant-clade-i-case-sweden)
+- [JPlag – Detecting Software Plagiarism](https://github.com/jplag/JPlag)
+- [Brain-to-Speech Tech Good Enough for Everyday Use Debuts in a Man with ALS](https://www.scientificamerican.com/article/brain-to-speech-tech-good-enough-for-everyday-use-debuts-in-a-man-with-als/)
+- [Microsoft is finally removing the FAT32 partition size limit in Windows 11](https://www.theverge.com/2024/8/16/24221635/microsoft-fat32-partition-size-limit-windows-11)
 - [Automating My /Now Page](https://akashgoswami.dev/posts/automating-my-now-page/)
-- [Pixel smartphones delivered with secret but inactive remote maintenance](https://www.heise.de/en/news/Pixel-smartphones-delivered-with-secret-but-inactive-remote-maintenance-9836887.html)
 - [Aristotle – How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/)
-- [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
