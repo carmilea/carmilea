@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Banks Are Now Accused of Cheating Customers Billions](https://franknez.com/massive-banks-are-now-accused-of-cheating-customers-billions/)
+- [Military sexual assaults far exceed DoD estimates, new report finds](https://www.stripes.com/theaters/us/2024-08-15/military-sexual-assault-numbers-14871731.html)
+- [The Apple IIGS Megahertz Myth – Userlandia](https://www.userlandia.com/home/iigs-mhz-myth)
+- [FUTO](https://www.futo.org/)
 - [Aviator &lpar;YC S21&rpar; Is Hiring Engineers to Build DevEx Platform](https://www.ycombinator.com/companies/aviator/jobs)
-- [Can Large Language Models Understand Symbolic Graphics Programs?](https://www.arxiv.org/abs/2408.08313)
-- [A Texas &quot;Moth Man&quot; Photographed 550 Species in His Own Yard](https://www.texasmonthly.com/travel/curtis-eckerman-photographer-moth-man/)
-- [JPlag – Detecting Software Plagiarism](https://github.com/jplag/JPlag)
-- [Show HN: I made an open-source personal dashboard builder](https://github.com/tryglow/glow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
