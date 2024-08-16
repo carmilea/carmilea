@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
 - [Ask HN: Why are AI generated images so shiny/glossy?](https://news.ycombinator.com/item?id=41262547)
 - [Ditch Banks – Go with Money Market Funds and Treasuries](https://thefinancebuff.com/goodbye-banks-credit-unions.html)
 - [SREBench Competition](https://sreben.ch/)
 - [CEOs are running companies from afar even as workers return to office](https://www.bloomberg.com/news/articles/2024-08-15/starbucks-victoria-s-secret-are-part-of-broader-trend-of-remote-ceos)
-- [We&#39;re Cutting L40S Prices in Half](https://fly.io/blog/cutting-prices-for-l40s-gpus-in-half/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
