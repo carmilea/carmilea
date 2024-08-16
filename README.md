@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Mesa](https://blackmesa.com/)
+- [CEOs Are Running Companies from Afar Even as Workers Return to Office](https://www.bloomberg.com/news/articles/2024-08-15/starbucks-victoria-s-secret-are-part-of-broader-trend-of-remote-ceos)
+- [We&#39;re Cutting L40S Prices in Half](https://fly.io/blog/cutting-prices-for-l40s-gpus-in-half/)
+- [Nationalpublicdata.com Hack Exposes a Nation&#39;s Data](https://krebsonsecurity.com/2024/08/nationalpublicdata-com-hack-exposes-a-nations-data/)
+- [Reticulum Is Unstoppable Networks for the People](https://reticulum.network/)
 - [RP2350 PicoDVI Preview](https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385)
-- [Slow Is Smooth, Smooth Is Fast: Navy SEALs&#39; Efficiency Secret](https://www.navyseal.com/slow-is-smooth-smooth-is-fast/)
-- [One man&#39;s quest to restore the first-ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=41260321)
 <!-- BLOG-POST-LIST:END -->
 
 ---
