@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Banks Are Now Accused of Cheating Customers Billions](https://franknez.com/massive-banks-are-now-accused-of-cheating-customers-billions/)
-- [Military sexual assaults far exceed DoD estimates, new report finds](https://www.stripes.com/theaters/us/2024-08-15/military-sexual-assault-numbers-14871731.html)
-- [The Apple IIGS Megahertz Myth – Userlandia](https://www.userlandia.com/home/iigs-mhz-myth)
-- [FUTO](https://www.futo.org/)
-- [Aviator &lpar;YC S21&rpar; Is Hiring Engineers to Build DevEx Platform](https://www.ycombinator.com/companies/aviator/jobs)
+- [A New Theory of Distraction &lpar;2015&rpar;](https://www.newyorker.com/culture/cultural-comment/a-new-theory-of-distraction)
+- [.kkrieger – An FPS game from 2004 in 96kb](https://en.wikipedia.org/wiki/.kkrieger)
+- [What Is a Knowledge Graph?](https://neo4j.com/blog/what-is-knowledge-graph/)
+- [TMobile fined $60M for unauthorized access to data: the largest fine of its type](https://9to5mac.com/2024/08/15/t-mobile-fined-60m/)
+- [Building a GATT Server on Pi Pico W](https://vanhunteradams.com/Pico/BLE/GATT_Server.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
