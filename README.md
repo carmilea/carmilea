@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tom Cruise is dangerous and irresponsible &lpar;2005&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1180571/)
+- [The Untold Story of SQLite](https://corecursive.com/066-sqlite-with-richard-hipp/)
 - [JPlag – Detecting Software Plagiarism](https://github.com/jplag/JPlag)
-- [Automating My /Now Page](https://akashgoswami.dev/posts/automating-my-now-page/)
-- [Aristotle – How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/)
-- [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
-- [Show HN: Wikipedia Browser a La Andy Matuschak&#39;s Evergreen Notes](https://steezeburger.com/wikipedia-browser/)
+- [FusionAuth 1.52.0 – Passkeys for Everyone](https://fusionauth.io/blog/announcing-fusionauth-1-52)
+- [Show HN: I made an open-source personal dashboard builder](https://github.com/tryglow/glow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
