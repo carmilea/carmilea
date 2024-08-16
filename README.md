@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fortnite app returns to iPhones – but only in the EU](https://www.bbc.com/news/articles/c70j5rx72yvo)
-- [Family poisoned after using AI-generated mushroom identification book](https://old.reddit.com/r/LegalAdviceUK/comments/1etko9h/family_poisoned_after_using_aigenerated_mushroom/)
-- [First Look Inside Blue Origin&#39;s New Glenn Factory with Jeff Bezos [video]](https://www.youtube.com/watch?v=rsuqSn7ifpU)
-- [Web Platform Status](https://webstatus.dev/)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Lead Product &lpar;New Product,B2B GenAI Platform&rpar;](https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf)
+- [PyTorch is dead. Long live Jax](https://neel04.github.io/my-website/blog/pytorch_rant/)
 - [Backdoor discovered in several brands of RFID cards [pdf]](https://eprint.iacr.org/2024/1275.pdf)
+- [A New Theory of Distraction &lpar;2015&rpar;](https://www.newyorker.com/culture/cultural-comment/a-new-theory-of-distraction)
+- [Disrupting a covert Iranian influence operation](https://openai.com/index/disrupting-a-covert-iranian-influence-operation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
