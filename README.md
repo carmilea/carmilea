@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Theory of Distraction &lpar;2015&rpar;](https://www.newyorker.com/culture/cultural-comment/a-new-theory-of-distraction)
-- [.kkrieger – An FPS game from 2004 in 96kb](https://en.wikipedia.org/wiki/.kkrieger)
-- [What Is a Knowledge Graph?](https://neo4j.com/blog/what-is-knowledge-graph/)
-- [TMobile fined $60M for unauthorized access to data: the largest fine of its type](https://9to5mac.com/2024/08/15/t-mobile-fined-60m/)
-- [Building a GATT Server on Pi Pico W](https://vanhunteradams.com/Pico/BLE/GATT_Server.html)
+- [Fortnite app returns to iPhones – but only in the EU](https://www.bbc.com/news/articles/c70j5rx72yvo)
+- [Family poisoned after using AI-generated mushroom identification book](https://old.reddit.com/r/LegalAdviceUK/comments/1etko9h/family_poisoned_after_using_aigenerated_mushroom/)
+- [First Look Inside Blue Origin&#39;s New Glenn Factory with Jeff Bezos [video]](https://www.youtube.com/watch?v=rsuqSn7ifpU)
+- [Web Platform Status](https://webstatus.dev/)
+- [Backdoor discovered in several brands of RFID cards [pdf]](https://eprint.iacr.org/2024/1275.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
