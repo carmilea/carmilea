@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cause of Alzheimer&#39;s Might Not Be Amyloid](https://scitechdaily.com/the-real-cause-of-alzheimers-might-not-be-amyloid-groundbreaking-discovery-challenges-decades-old-theories/)
+- [Synthesizing Abstract Transformers for Reduced-Product Domains](https://arxiv.org/abs/2408.04040)
 - [ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters &lpar;2020&rpar;](https://github.com/LiciaHe/threadPlotter)
-- [Dubai Court Declares Crypto Salary Legal](https://www.econotimes.com/Dubai-Court-Declares-Crypto-Salary-Legal-Ushering-in-a-Revolutionary-Shift-for-UAE-Workers-1684321)
 - [Jerry &lpar;YC S17&rpar; Is Hiring Lead Product &lpar;New Product,B2B GenAI Platform&rpar;](https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf)
-- [PyTorch is dead. Long live Jax](https://neel04.github.io/my-website/blog/pytorch_rant/)
+- [The Bare Minimum Beats: Panasonic&#39;s RD-9844 Rhythm Machine](https://nicole.express/2024/panasonic-the-hedgehog.html)
+- [LLM and Bug Finding: Insights from a $2M Winning Team in the White House&#39;s AIxCC](https://team-atlanta.github.io/blog/post-atl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
