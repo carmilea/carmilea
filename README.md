@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cryptominers made $100k from mining at an Airbnb for three weeks](https://www.tomshardware.com/tech-industry/cryptomining/cryptominers-made-100000-dollars-from-mining-at-an-airbnb-for-three-weeks)
+- [Former Google CEO Eric Schmidt&#39;s Leaked Stanford Talk](https://github.com/ociubotaru/transcripts/blob/main/Stanford_ECON295%E2%A7%B8CS323_I_2024_I_The_Age_of_AI%2C_Eric_Schmidt.txt)
 - [CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
 - [Ditch banks – Go with money market funds and treasuries](https://thefinancebuff.com/goodbye-banks-credit-unions.html)
 - [SREBench Competition](https://sreben.ch/)
