@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tom Cruise is dangerous and irresponsible &lpar;2005&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1180571/)
-- [The Untold Story of SQLite](https://corecursive.com/066-sqlite-with-richard-hipp/)
+- [Halide embraces photo purists with new anti-AI processing mode](https://9to5mac.com/2024/08/14/halide-embraces-photo-purists-with-new-anti-ai-processing-mode/)
+- [Low Earth Orbit Satellites Cause Environmental Harm Regulators Didnt Prepare For](https://www.techdirt.com/2024/08/16/report-low-earth-orbit-leo-satellite-systems-like-starlink-cause-environmental-harm-regulators-didnt-prepare-for/)
 - [JPlag – Detecting Software Plagiarism](https://github.com/jplag/JPlag)
-- [FusionAuth 1.52.0 – Passkeys for Everyone](https://fusionauth.io/blog/announcing-fusionauth-1-52)
 - [Show HN: I made an open-source personal dashboard builder](https://github.com/tryglow/glow)
+- [Supporting game design with evolutionary algorithms](https://www.gamedeveloper.com/design/supporting-game-design-with-evolutionary-algorithms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
