@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mpox: Sweden confirms first case of &#39;more grave&#39; variant outside Africa](https://www.theguardian.com/world/article/2024/aug/15/mpox-variant-clade-i-case-sweden)
+- [Automating My /Now Page](https://akashgoswami.dev/posts/automating-my-now-page/)
 - [Pixel smartphones delivered with secret but inactive remote maintenance](https://www.heise.de/en/news/Pixel-smartphones-delivered-with-secret-but-inactive-remote-maintenance-9836887.html)
 - [Aristotle – How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/)
 - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
-- [Former Google CEO Eric Schmidt&#39;s Leaked Stanford Talk](https://github.com/ociubotaru/transcripts/blob/main/Stanford_ECON295%E2%A7%B8CS323_I_2024_I_The_Age_of_AI%2C_Eric_Schmidt.txt)
-- [CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
