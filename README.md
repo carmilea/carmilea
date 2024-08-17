@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It is dangerously easy to hack the worlds phones](https://www.economist.com/science-and-technology/2024/05/17/it-is-dangerously-easy-to-hack-the-worlds-phones)
+- [There&#39;s an AI – No Junk, Just Gems](https://theresanai.com)
+- [The spies in your home: How WiFi companies monitor your private life](https://proton.me/blog/wifi-surveillance)
+- [Private Internet](https://kevincox.ca/2024/08/16/private-internet/)
+- [Slackdump](https://github.com/rusq/slackdump)
 - [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
-- [Show HN: Learn Blender shortcuts with lots of tiny videos](https://hollisbrown.github.io/blendershortcuts/)
-- [Soft Deletes with Ecto and PostgreSQL](https://dashbit.co/blog/soft-deletes-with-ecto)
-- [Synthesizing Abstract Transformers for Reduced-Product Domains](https://arxiv.org/abs/2408.04040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
