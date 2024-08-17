@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- [AI Seinfeld was the peak of AI-generated content. It will never happen again](https://minimaxir.com/2024/08/ai-seinfeld/)
 - [Are you smarter than a language model?](https://joel.tools/smarter/)
-- [Ambulances called to Amazon&#39;s UK warehouses 1,400 times in five years](https://www.theguardian.com/technology/article/2024/aug/17/ambulances-called-to-amazons-uk-warehouses-1400-times-in-five-years)
-- [Releasing everyone&#39;s SSN and the hacks used to acquire them](https://github.com/PatrickJS/everyone-ssn-usa)
 - [mpv a free, open-source, and cross-platform media player](https://mpv.io/)
 - [How to get from high school math to cutting-edge ML/AI](https://www.justinmath.com/how-to-get-from-high-school-math-to-cutting-edge-ml-ai/)
 <!-- BLOG-POST-LIST:END -->
