@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s manufacturers are going broke](https://www.economist.com/business/2024/08/08/chinas-manufacturers-are-going-broke)
+- [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
 - [NSA tracks Google ads to find Tor users](https://www.cnet.com/news/privacy/nsa-tracks-google-ads-to-find-tor-users/)
+- [Stressed mouse brain sends gut messages that reduce beneficial bacteria levels](https://medicalxpress.com/news/2024-08-mouse-brain-stress-messages-gut.html)
 - [Hacking with PDF &lpar;2022&rpar;](https://0xcybery.github.io/blog/hacking-with-pdf)
-- [Online dating apps struggle as people swear off swiping](https://www.theguardian.com/lifeandstyle/article/2024/aug/17/dating-apps-decline-bumble-tinder)
-- [Understanding Intel](https://www.chipstrat.com/p/understanding-intel)
-- [Xapian: Open source search engine library](https://xapian.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
