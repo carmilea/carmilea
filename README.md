@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Kafkaesque&#39;: bank blocks cash transfer, saying it could be an AI scam](https://www.theguardian.com/money/article/2024/aug/17/bank-blocks-cash-transfer-ai-scam-fraud)
+- [Understanding Intel](https://www.chipstrat.com/p/understanding-intel)
+- [Xapian Is an Open Source Search Engine Library](https://xapian.org/)
 - [Lilygo T-Deck Plus is a $70 handheld with GPS, LoRa, and a BlackBerry keyboard](https://liliputing.com/lilygo-t-deck-plus-is-a-70-handheld-with-gps-lora-and-a-blackberry-keyboard/)
-- [Google Removed Organic Maps from the Playstore](https://twitter.com/organicmapsapp/status/1824727403580596260)
 - [X to pay €550k to employee fired for not replying to yes-or-resign ultimatum](https://fortune.com/europe/2024/08/14/x-ordered-to-pay-550000-to-irish-employee-fired-for-not-replying-to-elon-musk-yes-or-resign-extremely-hardcore-ultimatum/)
-- [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
+- [Danger, AI Scientist, Danger](https://thezvi.substack.com/p/danger-ai-scientist-danger)
 <!-- BLOG-POST-LIST:END -->
 
 ---
