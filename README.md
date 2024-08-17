@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Intel](https://www.chipstrat.com/p/understanding-intel)
 - [Xapian Is an Open Source Search Engine Library](https://xapian.org/)
+- [Brain found to store three copies of every memory](https://newatlas.com/biology/brain-three-copies-memory/)
 - [Lilygo T-Deck Plus is a $70 handheld with GPS, LoRa, and a BlackBerry keyboard](https://liliputing.com/lilygo-t-deck-plus-is-a-70-handheld-with-gps-lora-and-a-blackberry-keyboard/)
-- [X to pay €550k to employee fired for not replying to yes-or-resign ultimatum](https://fortune.com/europe/2024/08/14/x-ordered-to-pay-550000-to-irish-employee-fired-for-not-replying-to-elon-musk-yes-or-resign-extremely-hardcore-ultimatum/)
-- [Danger, AI Scientist, Danger](https://thezvi.substack.com/p/danger-ai-scientist-danger)
+- [Google Removed Organic Maps from the Playstore](https://twitter.com/organicmapsapp/status/1824727403580596260)
 <!-- BLOG-POST-LIST:END -->
 
 ---
