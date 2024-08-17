@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NSA tracks Google ads to find Tor users](https://www.cnet.com/news/privacy/nsa-tracks-google-ads-to-find-tor-users/)
+- [Hacking with PDF &lpar;2022&rpar;](https://0xcybery.github.io/blog/hacking-with-pdf)
+- [Online dating apps struggle as people swear off swiping](https://www.theguardian.com/lifeandstyle/article/2024/aug/17/dating-apps-decline-bumble-tinder)
 - [Understanding Intel](https://www.chipstrat.com/p/understanding-intel)
-- [Xapian Is an Open Source Search Engine Library](https://xapian.org/)
-- [Brain found to store three copies of every memory](https://newatlas.com/biology/brain-three-copies-memory/)
-- [Lilygo T-Deck Plus is a $70 handheld with GPS, LoRa, and a BlackBerry keyboard](https://liliputing.com/lilygo-t-deck-plus-is-a-70-handheld-with-gps-lora-and-a-blackberry-keyboard/)
-- [Google Removed Organic Maps from the Playstore](https://twitter.com/organicmapsapp/status/1824727403580596260)
+- [Xapian: Open source search engine library](https://xapian.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
