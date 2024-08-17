@@ -46,7 +46,7 @@
 
 <!-- YOUTUBE:START -->
 - [2 . Intro to Building Generative AI Apps | H2O Wave](https://www.youtube.com/watch?v=UypgaC_Gmew)
-- [How to make full-stack MongoDB and JSON apps 100X faster | SingleStore Webinars](https://www.youtube.com/watch?v=bV4-jEbJ5Qw)
+- [How to build MongoDB RAG Application Richer with in-app Analytics | SingleStore Webinars](https://www.youtube.com/watch?v=bV4-jEbJ5Qw)
 - [Getting Started on SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=gp5hpe3pN5E)
 - [1. Course Overview | H2O Wave Starter Course.](https://www.youtube.com/watch?v=gIzy2j8WMak)
 - [Elevate Your AI Apps with Database Branching | SingleStore Webinars](https://www.youtube.com/watch?v=oGr0BT615pw)
