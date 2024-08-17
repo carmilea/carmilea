@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X to pay €550k to employee fired for not replying to yes-or-resign ultimatum](https://fortune.com/europe/2024/08/14/x-ordered-to-pay-550000-to-irish-employee-fired-for-not-replying-to-elon-musk-yes-or-resign-extremely-hardcore-ultimatum/)
+- [Epic Games Store and Fortnite Arrive on EU iPhones](https://arstechnica.com/gadgets/2024/08/epic-games-store-and-fortnite-arrive-on-eu-iphones/)
 - [There&#39;s an AI – No Junk, Just Gems](https://theresanai.com)
-- [The spies in your home: How WiFi companies monitor your private life](https://proton.me/blog/wifi-surveillance)
-- [Private Internet](https://kevincox.ca/2024/08/16/private-internet/)
 - [Slackdump](https://github.com/rusq/slackdump)
-- [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
+- [Ditch the Sim Rig! Use Your Car Instead](https://outlandnish.com/hacks/ditch-the-sim-rig-use-your-car-instead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
