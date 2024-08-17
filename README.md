@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are you smarter than a language model?](https://joel.tools/smarter/)
+- [Ambulances called to Amazon&#39;s UK warehouses 1,400 times in five years](https://www.theguardian.com/technology/article/2024/aug/17/ambulances-called-to-amazons-uk-warehouses-1400-times-in-five-years)
 - [Releasing everyone&#39;s SSN and the hacks used to acquire them](https://github.com/PatrickJS/everyone-ssn-usa)
-- [Sergey Brin: &quot;Irate Call from Steve Jobs&quot; &lpar;2005&rpar;](https://twitter.com/TechEmails/status/1610099684345024512)
-- [Troubled Amazon drone delivery program faces latest challenge: Annoyed residents](https://www.cnbc.com/2024/08/16/amazons-drone-expansion-plans-spur-pushback-from-texas-residents.html)
-- [Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
-- [Seam &lpar;YC S20&rpar; Is Hiring a Mobile SDK Engineer &lpar;iOS, Android&rpar;](https://www.workatastartup.com/jobs/67744)
+- [mpv a free, open-source, and cross-platform media player](https://mpv.io/)
+- [How to get from high school math to cutting-edge ML/AI](https://www.justinmath.com/how-to-get-from-high-school-math-to-cutting-edge-ml-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
