@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Releasing everyone&#39;s SSN and the hacks used to acquire them](https://github.com/PatrickJS/everyone-ssn-usa)
+- [Sergey Brin: &quot;Irate Call from Steve Jobs&quot; &lpar;2005&rpar;](https://twitter.com/TechEmails/status/1610099684345024512)
+- [Troubled Amazon drone delivery program faces latest challenge: Annoyed residents](https://www.cnbc.com/2024/08/16/amazons-drone-expansion-plans-spur-pushback-from-texas-residents.html)
+- [Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
 - [Seam &lpar;YC S20&rpar; Is Hiring a Mobile SDK Engineer &lpar;iOS, Android&rpar;](https://www.workatastartup.com/jobs/67744)
-- [Magic Wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
-- [Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
-- [DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model](https://arxiv.org/abs/2408.07541)
-- [The Living Computer Museum auction listing](https://onlineonly.christies.com/s/firsts-history-computing-paul-g-allen-collection/lots/3726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
