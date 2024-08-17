@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Seam &lpar;YC S20&rpar; Is Hiring a Mobile SDK Engineer &lpar;iOS, Android&rpar;](https://www.workatastartup.com/jobs/67744)
+- [Magic Wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
+- [Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
+- [DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model](https://arxiv.org/abs/2408.07541)
 - [The Living Computer Museum auction listing](https://onlineonly.christies.com/s/firsts-history-computing-paul-g-allen-collection/lots/3726)
-- [Toothpaste Null-Terminator](https://dunkels.com/adam/sentinel-toothpaste/)
-- [AI stole my job and my work, and the boss didn&#39;t know – or care](https://www.theregister.com/2024/08/15/robot_took_my_job/)
-- [X to close operations in Brazil &#39;effective immediately&#39;](https://www.reuters.com/technology/x-close-operations-brazil-effective-immediately-2024-08-17/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
