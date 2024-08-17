@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flightaware Security Breach](https://www.pilotsofamerica.com/community/threads/flightaware-security-breach.148348/)
 - [The last secret of the H.L. Hunley](https://mikedashhistory.com/2014/05/10/the-last-secret-of-the-h-l-hunley-still-working/)
 - [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
 - [Soft Deletes with Ecto and PostgreSQL](https://dashbit.co/blog/soft-deletes-with-ecto)
 - [Synthesizing Abstract Transformers for Reduced-Product Domains](https://arxiv.org/abs/2408.04040)
+- [ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters &lpar;2020&rpar;](https://github.com/LiciaHe/threadPlotter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
