@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Running NixOS on Proxmox LXC](https://taoofmac.com/space/blog/2024/08/17/1530)
-- [Ex-Google CEO: AI startups can steal IP and hire lawyers to &#39;clean up the mess&#39;](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai)
-- [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
-- [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
-- [Stressed mouse brain sends gut messages that reduce beneficial bacteria levels](https://medicalxpress.com/news/2024-08-mouse-brain-stress-messages-gut.html)
+- [Seam &lpar;YC S20&rpar; Is Hiring a Mobile SDK Engineer &lpar;iOS, Android&rpar;](https://www.workatastartup.com/jobs/67744)
+- [The Living Computer Museum auction listing](https://onlineonly.christies.com/s/firsts-history-computing-paul-g-allen-collection/lots/3726)
+- [Toothpaste Null-Terminator](https://dunkels.com/adam/sentinel-toothpaste/)
+- [AI stole my job and my work, and the boss didn&#39;t know – or care](https://www.theregister.com/2024/08/15/robot_took_my_job/)
+- [X to close operations in Brazil &#39;effective immediately&#39;](https://www.reuters.com/technology/x-close-operations-brazil-effective-immediately-2024-08-17/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
