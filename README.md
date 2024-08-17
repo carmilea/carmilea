@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- [Photon entanglement could explain the rapid brain signals behind consciousness](https://phys.org/news/2024-08-photon-entanglement-rapid-brain-consciousness.html)
 - [FlightAware Leaks Customer Data &lpar;Name, Email Addresses and Passwords&rpar;](https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/)
-- [Are you smarter than a language model?](https://joel.tools/smarter/)
 - [Why do people believe true things?](https://www.conspicuouscognition.com/p/why-do-people-believe-true-things)
+- [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/)
+- [How to get from high school math to cutting-edge ML/AI](https://www.justinmath.com/how-to-get-from-high-school-math-to-cutting-edge-ml-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
