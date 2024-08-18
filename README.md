@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fake insects – Find the AI generated insect](https://huggingface.co/spaces/victor/fake-insects)
+- [On Being a Senior Engineer &lpar;2012&rpar;](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+- [SolarWind Web Help Desk Java Deserialization Remote Code Execution Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2024-28986)
 - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
 - [How the OCaml type checker works &lpar;2022&rpar;](https://okmij.org/ftp/ML/generalization.html)
-- [UK launches its first Earth-imaging military satellite](https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite)
-- [Show HN: Grug Notes, a simple take on text notes](https://grugnotes.com)
-- [Air Quality Monitors Compared: AirGradient One vs. Airthings](https://www.airgradient.com/blog/airgradient-vs-airthings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
