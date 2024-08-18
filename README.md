@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
+- [How the OCaml type checker works &lpar;2022&rpar;](https://okmij.org/ftp/ML/generalization.html)
 - [UK launches its first Earth-imaging military satellite](https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite)
-- [GDash – A Feature-Rich Boulder Dash Clone for Mac, Win and Linux](https://github.com/revvv/gdash-export-CrLi)
 - [Show HN: Grug Notes, a simple take on text notes](https://grugnotes.com)
 - [Air Quality Monitors Compared: AirGradient One vs. Airthings](https://www.airgradient.com/blog/airgradient-vs-airthings/)
-- [Postmortem of my 9 year journey at Google](https://tinystruggles.com/posts/google_postmortem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
