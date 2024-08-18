@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google took three months to remove scam app that stole over $5M](https://www.theblock.co/post/311707/google-took-three-months-to-remove-scam-app-that-stole-over-5-million-in-crypto-lawsuit)
+- [Mike Magee, founder of the Register, has died](https://fudzilla.com/news/59503-mike-mageek-is-dead)
 - [Interposer to Fix the Symmetricom SyncServer S200 GPS Week Rollover Problem](https://tomverbeure.github.io/2024/08/18/Fixing-the-Symmetricom-S200-GPS-Week-Number-Rollover-Problem.html)
 - [Parents outraged at Snoo after smart bassinet company charges fee to rock crib](https://www.independent.co.uk/news/world/americas/snoo-bassinet-baby-sleeping-subscription-b2597869.html)
-- [The brain simulates actions and their consequences during REM sleep](https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1)
-- [Show HN: PgQueuer – Transform PostgreSQL into a Job Queue](https://github.com/janbjorge/PgQueuer)
-- [Claude just slashed the cost of building AI applications](https://www.indiehackers.com/post/claude-just-slashed-the-cost-of-building-ai-applications-lQHHc1S9NLLiPLJeyUWk)
+- [NASA acknowledges it cannot quantify risk of Starliner propulsion issues](https://arstechnica.com/space/2024/08/nasa-acknowledges-it-cannot-quantify-risk-of-starliner-propulsion-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
