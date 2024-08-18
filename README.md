@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How did divers manage to blow up the Nord Stream pipeline? We went to find out](https://www.cbc.ca/news/investigates/nord-stream-pipeline-explosion-ukraine-diver-1.7296527)
+- [The Expert Mind [pdf]](https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf)
+- [TomWright/dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
 - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
 - [How the OCaml type checker works &lpar;2022&rpar;](https://okmij.org/ftp/ML/generalization.html)
-- [UK launches its first Earth-imaging military satellite](https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite)
-- [Show HN: Grug Notes, a simple take on text notes](https://grugnotes.com)
-- [I spent 2 years building my own game engine &lpar;Rust, WASM, WebGPU&rpar;](https://legendofworlds.com/blog/4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
