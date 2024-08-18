@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS adds vertical centering in 2024](https://build-your-own.org/blog/20240813_css_vertical_center/)
-- [How did divers manage to blow up the Nord Stream pipeline? We went to find out](https://www.cbc.ca/news/investigates/nord-stream-pipeline-explosion-ukraine-diver-1.7296527)
-- [17,000 AT&amp;T workers across the Southeast strike over contract negotiations](https://www.npr.org/2024/08/17/nx-s1-5079614/att-workers-strike-contract-negotiations)
-- [The Expert Mind [pdf]](https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf)
-- [Biggest productivity killers in the engineering industry](https://newsletter.eng-leadership.com/p/biggest-productivity-killers-in-the)
+- [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
+- [Fear Not the Association of Types](https://gavinleroy.com/writings/i-heart-assoc-types.html)
+- [Police Cannot Seize Property Indefinitely After an Arrest, Federal Court Rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/)
+- [Are Geofence Warrants Headed for Extinction?](https://www.americanbar.org/groups/criminal_justice/publications/criminal-justice-magazine/2024/summer/geofence-warrants-headed-extinction/)
+- [Tell HN: X stopped requiring authentication, nitter works again](https://nitter.lucabased.xyz/x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
