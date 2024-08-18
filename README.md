@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Postmortem of my 9 year journey at Google](https://tinystruggles.com/posts/google_postmortem/)
-- [Build your own SQLite with Rust, Part 1](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
+- [Build your own SQLite, Part 1: Listing tables](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
 - [Low level of Magnesium linked to disease-causing DNA damage](https://newatlas.com/health-wellbeing/nutrient-dna-damage/)
 - [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 - [FlightAware Leaks Customer Data &lpar;Name, Email Addresses and Passwords&rpar;](https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/)
