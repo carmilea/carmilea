@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [UK launches its first Earth-imaging military satellite](https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite)
-- [Alain Delon has died](https://www.theguardian.com/film/article/2024/aug/18/french-screen-star-alain-delon-dies-aged-88)
 - [GDash – A Feature-Rich Boulder Dash Clone for Mac, Win and Linux](https://github.com/revvv/gdash-export-CrLi)
 - [Show HN: Grug Notes, a simple take on text notes](https://grugnotes.com)
 - [Air Quality Monitors Compared: AirGradient One vs. Airthings](https://www.airgradient.com/blog/airgradient-vs-airthings/)
+- [Postmortem of my 9 year journey at Google](https://tinystruggles.com/posts/google_postmortem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
