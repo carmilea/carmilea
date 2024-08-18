@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What if Germany had invested in nuclear power?](https://www.tandfonline.com/doi/full/10.1080/14786451.2024.2355642#d1e1559)
 - [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
+- [Greenwich schools to ban most cellphones, Apple Watches, Fitbits and more](https://www.greenwichtime.com/news/education/article/greenwich-schools-cellphones-ban-fitbit-19660245.php)
 - [Fear Not the Association of Types](https://gavinleroy.com/writings/i-heart-assoc-types.html)
-- [Police Cannot Seize Property Indefinitely After an Arrest, Federal Court Rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/)
-- [Are Geofence Warrants Headed for Extinction?](https://www.americanbar.org/groups/criminal_justice/publications/criminal-justice-magazine/2024/summer/geofence-warrants-headed-extinction/)
-- [Tell HN: X stopped requiring authentication, nitter works again](https://nitter.lucabased.xyz/x)
+- [Bold Edit: An editor written by power users](https://bold-edit.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
