@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What if Germany had invested in nuclear power?](https://www.tandfonline.com/doi/full/10.1080/14786451.2024.2355642#d1e1559)
+- [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding)
+- [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
+- [Popular introduction to Huffman, arithmetic, ANS coding [video]](https://www.youtube.com/watch?v=RFWJM8JMXBs)
+- [Detailed Map of Cancer-Causing Industrial Air Pollution in the U.S.](https://projects.propublica.org/toxmap/)
 - [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
-- [Greenwich schools to ban most cellphones, Apple Watches, Fitbits and more](https://www.greenwichtime.com/news/education/article/greenwich-schools-cellphones-ban-fitbit-19660245.php)
-- [Fear Not the Association of Types](https://gavinleroy.com/writings/i-heart-assoc-types.html)
-- [Bold Edit: An editor written by power users](https://bold-edit.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
