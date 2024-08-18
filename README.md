@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Grug Notes, a simple take on text notes](https://grugnotes.com)
-- [Postmortem of my 9 year journey at Google](https://tinystruggles.com/posts/google_postmortem/)
+- [Air Quality Monitors Compared: AirGradient One vs. Airthings](https://www.airgradient.com/blog/airgradient-vs-airthings/)
 - [Build your own SQLite, Part 1: Listing tables](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
 - [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 - [FlightAware Leaks Customer Data &lpar;Name, Email Addresses and Passwords&rpar;](https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/)
