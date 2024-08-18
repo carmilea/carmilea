@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Interposer to Fix the Symmetricom SyncServer S200 GPS Week Rollover Problem](https://tomverbeure.github.io/2024/08/18/Fixing-the-Symmetricom-S200-GPS-Week-Number-Rollover-Problem.html)
 - [Parents outraged at Snoo after smart bassinet company charges fee to rock crib](https://www.independent.co.uk/news/world/americas/snoo-bassinet-baby-sleeping-subscription-b2597869.html)
-- [How You Communicate Signals Your Seniority](https://yuezhao.substack.com/p/the-altitude-of-the-communication)
 - [The brain simulates actions and their consequences during REM sleep](https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1)
-- [Show HN: Transform Your PostgreSQL into a Powerful Job Queue](https://github.com/janbjorge/PgQueuer)
+- [Show HN: PgQueuer – Transform PostgreSQL into a Job Queue](https://github.com/janbjorge/PgQueuer)
 - [Claude just slashed the cost of building AI applications](https://www.indiehackers.com/post/claude-just-slashed-the-cost-of-building-ai-applications-lQHHc1S9NLLiPLJeyUWk)
 <!-- BLOG-POST-LIST:END -->
 
