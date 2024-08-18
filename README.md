@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The brain simulates actions and their consequences during REM sleep](https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1)
+- [Show HN: Transform Your PostgreSQL into a Powerful Job Queue](https://github.com/janbjorge/PgQueuer)
+- [Claude just slashed the cost of building AI applications](https://www.indiehackers.com/post/claude-just-slashed-the-cost-of-building-ai-applications-lQHHc1S9NLLiPLJeyUWk)
+- [Apple might be implementing a VPN censorship order in Brazil](https://status.proton.me/incidents/0frlp8crn7kx)
 - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding)
-- [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
-- [Popular introduction to Huffman, arithmetic, ANS coding [video]](https://www.youtube.com/watch?v=RFWJM8JMXBs)
-- [Detailed Map of Cancer-Causing Industrial Air Pollution in the U.S.](https://projects.propublica.org/toxmap/)
-- [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
