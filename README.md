@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Odigos &lpar;YC W23&rpar; Is Hiring Lead Product Manager](https://www.ycombinator.com/companies/keyval/jobs/L2pKnWr-lead-product-manager)
+- [Introduction to Information Theory – Edward Witten [video]](https://www.youtube.com/watch?v=XYugyhoohhY)
 - [The Dying Computer Museum](http://ascii.textfiles.com/archives/5672)
 - [Roblox is the biggest game in the world, but is unprofitable](https://www.matthewball.co/all/roblox2024)
 - [The Curious Case of QUEENCREEK](https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/)
-- [Can a Rust binary use incompatible versions of the same library?](https://github.com/brannondorsey/rust-incompatible-transitive-dependencies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
