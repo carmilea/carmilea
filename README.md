@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mark Simmons&#39; ship joke named funniest of Edinburgh fringe](https://www.theguardian.com/stage/article/2024/aug/19/mark-simmons-ship-joke-named-funniest-of-edinburgh-fringe)
+- [Classifying All of the Pdfs on the Internet](https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
 - [Bit-Banging a Basic Birthday](https://thingswemake.com/bit-banging-a-basic-birthday/)
 - [Parsing protobuf at 2+GB/s: how I learned to love tail calls in C &lpar;2021&rpar;](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
-- [Ask HN: Determine sound quality of a file, objectively?](https://news.ycombinator.com/item?id=41289087)
-- [How I Became the EEVBlog Guy [video]](https://www.youtube.com/watch?v=riBwRC_CaAA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
