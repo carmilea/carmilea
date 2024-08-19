@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ollama now supports tool calling with popular models in local LLM](https://ollama.com/blog/tool-support)
 - [The bizarre siege behind Stockholm Syndrome](https://www.bbc.com/culture/article/20240815-stockholm-syndrome-and-the-art-of-hostage-negotiation)
-- [Classifying All of the Pdfs on the Internet](https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html)
+- [Classifying all of the pdfs on the internet](https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
-- [Bit-Banging a Basic Birthday](https://thingswemake.com/bit-banging-a-basic-birthday/)
-- [Show HN: FlowVision – Waterfall-Style Image Browser for macOS &lpar;Open-Source&rpar;](https://github.com/netdcy/FlowVision)
+- [Bit-banging a BASIC Birthday](https://thingswemake.com/bit-banging-a-basic-birthday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
