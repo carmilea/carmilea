@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The oral history of the Dinosaur Input Device](https://vfxblog.com/dinosaurinputdevice/)
 - [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+- [Late Again](https://randsinrepose.com/archives/late-again/)
+- [Show HN: Robata, macOS window selector: put it on the grill](https://robata.app)
 - [Cardinal – Virtual modular synthesizer plugin](https://cardinal.kx.studio/)
-- [13ft – A site similar to 12ft.io but is self hosted](https://github.com/wasi-master/13ft)
-- [Lenticular Clock](https://www.instructables.com/Lenticular-Clock/)
-- [Music recommendation system using transformer models](https://research.google/blog/transformers-in-music-recommendation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
