@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Humble Tech Book Bundle: Head First 2024 by O&#39;Reilly](https://www.humblebundle.com/books/head-first-2024-oreilly-books)
+- [The Curious Case of QUEENCREEK](https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/)
+- [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
+- [EFF Presses Federal Circuit to Make Patent Case Filings Public](https://www.eff.org/deeplinks/2024/08/eff-presses-federal-circuit-make-patent-case-filings-public)
 - [Google took three months to remove scam app that stole over $5M](https://www.theblock.co/post/311707/google-took-three-months-to-remove-scam-app-that-stole-over-5-million-in-crypto-lawsuit)
-- [Mike Magee, founder of the Register, has died](https://fudzilla.com/news/59503-mike-mageek-is-dead)
-- [Interposer to Fix the Symmetricom SyncServer S200 GPS Week Rollover Problem](https://tomverbeure.github.io/2024/08/18/Fixing-the-Symmetricom-S200-GPS-Week-Number-Rollover-Problem.html)
-- [Parents outraged at Snoo after smart bassinet company charges fee to rock crib](https://www.independent.co.uk/news/world/americas/snoo-bassinet-baby-sleeping-subscription-b2597869.html)
-- [NASA acknowledges it cannot quantify risk of Starliner propulsion issues](https://arstechnica.com/space/2024/08/nasa-acknowledges-it-cannot-quantify-risk-of-starliner-propulsion-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
