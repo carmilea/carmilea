@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
+- [Bit-Banging a Basic Birthday](https://thingswemake.com/bit-banging-a-basic-birthday/)
 - [Parsing protobuf at 2+GB/s: how I learned to love tail calls in C &lpar;2021&rpar;](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
 - [Ask HN: Determine sound quality of a file, objectively?](https://news.ycombinator.com/item?id=41289087)
-- [Odigos &lpar;YC W23&rpar; Is Hiring Lead Product Manager](https://www.ycombinator.com/companies/keyval/jobs/L2pKnWr-lead-product-manager)
-- [Archiving &quot;The Famous Computer Cafe&quot;](https://blog.archive.org/2024/08/19/archiving-the-famous-computer-cafe/)
-- [The Charming, Eccentric, Blessed Life of Lee Maxwell](https://www.5280.com/the-charming-eccentric-blessed-life-of-lee-maxwell/)
+- [How I Became the EEVBlog Guy [video]](https://www.youtube.com/watch?v=riBwRC_CaAA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
