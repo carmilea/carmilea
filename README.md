@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parsing protobuf at 2+GB/s: how I learned to love tail calls in C &lpar;2021&rpar;](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
+- [Ask HN: Determine sound quality of a file, objectively?](https://news.ycombinator.com/item?id=41289087)
+- [Bootstrap Your SaaS &lpar;The Fast Way&rpar;](https://bernhard.hauser.io/bootstrap-your-saas-the-fast-way/)
 - [Odigos &lpar;YC W23&rpar; Is Hiring Lead Product Manager](https://www.ycombinator.com/companies/keyval/jobs/L2pKnWr-lead-product-manager)
 - [Roblox is the biggest game in the world, but is unprofitable](https://www.matthewball.co/all/roblox2024)
-- [FindMy Flipper – AirTag and SmartTag Emulator](https://github.com/MatthewKuKanich/FindMyFlipper)
-- [The Curious Case of QUEENCREEK](https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/)
-- [Can a Rust binary use incompatible versions of the same library?](https://github.com/brannondorsey/rust-incompatible-transitive-dependencies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
