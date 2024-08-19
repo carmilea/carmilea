@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ollama now supports tool calling with popular models in local LLM](https://ollama.com/blog/tool-support)
+- [The gigantic and unregulated power plants in the cloud](https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/)
+- [Wyoming mayoral candidate vows to let an AI bot run Cheyenne](https://www.washingtonpost.com/technology/2024/08/19/artificial-intelligence-mayor-cheyenne-vic/)
 - [The bizarre siege behind Stockholm Syndrome](https://www.bbc.com/culture/article/20240815-stockholm-syndrome-and-the-art-of-hostage-negotiation)
 - [Classifying all of the pdfs on the internet](https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
-- [Bit-banging a BASIC Birthday](https://thingswemake.com/bit-banging-a-basic-birthday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
