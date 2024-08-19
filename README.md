@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eric Schmidt deleted Stanford interview](https://www.youtube.com/watch?v=3f6XM6_7pUE)
 - [Humble Tech Book Bundle: Head First 2024 by O&#39;Reilly](https://www.humblebundle.com/books/head-first-2024-oreilly-books)
 - [The Curious Case of QUEENCREEK](https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/)
+- [Can a Rust binary use incompatible versions of the same library?](https://github.com/brannondorsey/rust-incompatible-transitive-dependencies)
 - [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
-- [EFF Presses Federal Circuit to Make Patent Case Filings Public](https://www.eff.org/deeplinks/2024/08/eff-presses-federal-circuit-make-patent-case-filings-public)
-- [Google took three months to remove scam app that stole over $5M](https://www.theblock.co/post/311707/google-took-three-months-to-remove-scam-app-that-stole-over-5-million-in-crypto-lawsuit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
