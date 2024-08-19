@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+- [Cardinal – Virtual modular synthesizer plugin](https://cardinal.kx.studio/)
 - [13ft – A site similar to 12ft.io but is self hosted](https://github.com/wasi-master/13ft)
-- [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/)
-- [The guidance system and computer of the Minuteman III nuclear missile](http://www.righto.com/2024/08/minuteman-guidance-computer.html)
-- [Imgpls – An extension to load Imgur images directly](https://andadinosaur.com/launch-imgpls)
-- [Homebound: The Long-Term Rise in Time Spent at Home Among U.S. Adults](https://sociologicalscience.com/articles-v11-20-553/)
+- [Lenticular Clock](https://www.instructables.com/Lenticular-Clock/)
+- [Music recommendation system using transformer models](https://research.google/blog/transformers-in-music-recommendation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
