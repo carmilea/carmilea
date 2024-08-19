@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Roblox Is Already the Biggest Game in the World. Why Can&#39;t It Make a Profit?](https://www.matthewball.co/all/roblox2024)
 - [Eric Schmidt deleted Stanford interview](https://www.youtube.com/watch?v=3f6XM6_7pUE)
-- [Humble Tech Book Bundle: Head First 2024 by O&#39;Reilly](https://www.humblebundle.com/books/head-first-2024-oreilly-books)
 - [The Curious Case of QUEENCREEK](https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/)
 - [Can a Rust binary use incompatible versions of the same library?](https://github.com/brannondorsey/rust-incompatible-transitive-dependencies)
 - [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
