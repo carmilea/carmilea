@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 - [An admittedly wandering defense of the SSO tax](https://ssoready.com/blog/from-the-founders/an-unpopular-perspective-on-the-sso-tax/)
-- [Judge orders removal of 1,000ft rotting ocean liner from Philadelphia pier](https://www.theguardian.com/us-news/article/2024/aug/20/ss-united-states-philadelphia-removal)
 - [MIT leaders describe the experience of not renewing Elsevier contract](https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/)
 - [Why are Texas interchanges so tall?](https://practical.engineering/blog/2024/8/19/why-are-texas-interchanges-texas-so-tall)
+- [Zed AI](https://zed.dev/blog/zed-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
