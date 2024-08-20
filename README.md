@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU](https://arstechnica.com/gadgets/2024/08/new-2gb-raspberry-pi-5-option-knocks-the-price-down-to-50/)
-- [GM to Cut More Than 1k Software Engineers, Mostly in US](https://webcache.googleusercontent.com/search?q=cache:https://www.bloomberg.com/news/articles/2024-08-19/gm-to-cut-more-than-1-000-software-engineers-mostly-in-the-us)
 - [Procreate&#39;s anti-AI pledge attracts praise from digital creatives](https://www.theverge.com/2024/8/19/24223473/procreate-anti-generative-ai-pledge-digital-illustration-creatives)
-- [Artificial intelligence is losing hype](https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype)
 - [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/infisical/jobs/HD8NQOP-full-stack-engineer)
+- [6th-generation Waymo Driver](https://waymo.com/blog/2024/08/meet-the-6th-generation-waymo-driver/)
+- [On the cruelty of really teaching computing science &lpar;1988&rpar;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
