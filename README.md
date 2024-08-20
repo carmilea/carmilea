@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shapez2 Released](https://shapez2.com/)
+- [2024&#39;s Hugo Award Winners Announced](https://www.thehugoawards.org/hugo-history/2024-hugo-awards/)
 - [Phrack 71 Released](http://phrack.org/issues/71/1.html)
+- [Sourcegraph Went Dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
 - [$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU](https://arstechnica.com/gadgets/2024/08/new-2gb-raspberry-pi-5-option-knocks-the-price-down-to-50/)
-- [Procreate&#39;s anti-AI pledge attracts praise from digital creatives](https://www.theverge.com/2024/8/19/24223473/procreate-anti-generative-ai-pledge-digital-illustration-creatives)
-- [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/infisical/jobs/HD8NQOP-full-stack-engineer)
-- [6th-generation Waymo Driver](https://waymo.com/blog/2024/08/meet-the-6th-generation-waymo-driver/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
