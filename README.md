@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zed AI](https://zed.dev/blog/zed-ai)
+- [MIT expericence after canceling the full Elsevier journals contract](https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/)
+- [Why Are Texas Interchanges So Tall?](https://practical.engineering/blog/2024/8/19/why-are-texas-interchanges-texas-so-tall)
 - [Attackers can exfil data with Slack AI](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
 - [Condé Nast Signs Deal with OpenAI](https://www.wired.com/story/conde-nast-openai-deal/)
 - [Making Database Systems Usable](http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html)
-- [Lago &lpar;OSS Usage Based Billing&rpar; Is Hiring a Head of Product Marketing &lpar;SF&rpar;](https://www.ycombinator.com/companies/lago/jobs/Y4jNcwj-head-of-marketing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
