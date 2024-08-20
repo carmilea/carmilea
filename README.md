@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Visual Sudoku Solver in the Browser &lpar;With OpenCV and TensorFlow&rpar;](https://sudoku.dotslashdan.com/)
 - [1953 US Navy training film on mechanical computers [video]](https://www.youtube.com/watch?v=gwf5mAlI7Ug)
 - [Nango &lpar;YC W23&rpar; Is Hiring a Product Engineer &lpar;Remote&rpar;](https://www.nango.dev/jobs)
+- [Transformers for Ruby](https://github.com/ankane/transformers-ruby)
 - [Spider Uses a Light Show to Trick Eager Male Fireflies into Its Web](https://www.nytimes.com/2024/08/19/science/spider-firefly-flash-web.html)
-- [Toasts Are Bad UX](https://maxschmitt.me/posts/toasts-bad-ux)
-- [Show HN: Mailik – Effortlessly Receive Form Responses in Your Inbox](https://mailik.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
