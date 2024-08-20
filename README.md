@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zed AI](https://zed.dev/blog/zed-ai)
+- [Attackers can exfil data with Slack AI](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
 - [Condé Nast Signs Deal with OpenAI](https://www.wired.com/story/conde-nast-openai-deal/)
+- [Making Database Systems Usable](http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html)
 - [Lago &lpar;OSS Usage Based Billing&rpar; Is Hiring a Head of Product Marketing &lpar;SF&rpar;](https://www.ycombinator.com/companies/lago/jobs/Y4jNcwj-head-of-marketing)
-- [Higher ultraviolet light exposure is associated with lower mortality](https://www.sciencedirect.com/science/article/pii/S1353829224001564)
-- [Rocket explodes during testing at UK&#39;s new spaceport in Shetland](https://www.theguardian.com/business/article/2024/aug/20/spacecraft-explodes-during-launch-test-at-uks-new-spaceport-in-shetland)
-- [Fine-tuning now available for GPT-4o](https://openai.com/index/gpt-4o-fine-tuning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
