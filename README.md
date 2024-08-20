@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mike Lynch&#39;s co-defendant in fraud trial &#39;fatally struck&#39; by car while jogging](https://www.theguardian.com/uk-news/article/2024/aug/19/mike-lynchs-co-defendant-in-us-trial-fatally-struck-by-car-while-jogging)
+- [&#39;Model collapse&#39;? An expert explains the rumours about an impending AI doom](https://theconversation.com/what-is-model-collapse-an-expert-explains-the-rumours-about-an-impending-ai-doom-236415)
 - [Pragtical: Practical and pragmatic code editor](https://pragtical.dev/)
+- [The U.S. Navy&#39;s $100M Checkbox &lpar;2019&rpar;](https://adrian3.com/blog/2019/2019-09-28-The-US-Navys-100-million-dollar-checkbox.php)
 - [Shapez2 Released](https://shapez2.com/)
 - [Phrack 71](http://phrack.org/issues/71/1.html)
-- [Sourcegraph went dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
