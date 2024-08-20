@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe Built One of Silicon Valley&#39;s Best Engineering Teams &lpar;2013&rpar;](https://review.firstround.com/how-stripe-built-one-of-silicon-valleys-best-engineering-teams/)
+- [The anatomy of a 2AM mental breakdown](https://zarar.dev/anatomy-of-a-mental-breakdown/)
+- [Waiting Time Paradox or Why Is My Bus Always Late?](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)
+- [World’s oldest person, Maria Branyas Morera, dies aged 117](https://www.theguardian.com/world/article/2024/aug/20/worlds-oldest-person-maria-branyas-morera-dies-aged-117)
 - [Show HN: Visual Sudoku Solver in the Browser &lpar;With OpenCV and TensorFlow&rpar;](https://sudoku.dotslashdan.com/)
-- [1953 US Navy training film on mechanical computers [video]](https://www.youtube.com/watch?v=gwf5mAlI7Ug)
-- [Nango &lpar;YC W23&rpar; Is Hiring a Product Engineer &lpar;Remote&rpar;](https://www.nango.dev/jobs)
-- [Transformers for Ruby](https://github.com/ankane/transformers-ruby)
-- [Spider Uses a Light Show to Trick Eager Male Fireflies into Its Web](https://www.nytimes.com/2024/08/19/science/spider-firefly-flash-web.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
