@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The ribosome lowers the entropic penalty of protein folding](https://www.nature.com/articles/s41586-024-07784-4)
+- [Show HN: I Made an AI Song Generator](https://song.do)
 - [Procreate&#39;s anti-AI pledge attracts praise from digital creatives](https://www.theverge.com/2024/8/19/24223473/procreate-anti-generative-ai-pledge-digital-illustration-creatives)
+- [Artificial intelligence is losing hype](https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype)
 - [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/infisical/jobs/HD8NQOP-full-stack-engineer)
 - [Boeing Halts 777X Flight Tests over Damage Found in Engine Mount](https://www.bloomberg.com/news/articles/2024-08-19/boeing-halts-777x-flight-tests-over-damage-found-in-engine-mount)
-- [On the cruelty of really teaching computing science &lpar;1988&rpar;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
