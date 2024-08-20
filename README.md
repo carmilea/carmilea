@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Infisical &lpar;YC W23&rpar; Is Hiring Full Stack Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/infisical/jobs/HD8NQOP-full-stack-engineer)
+- [What I Learned Working for Mark Zuckerberg](https://noahkagan.com/what-i-learned-working-for-mark-zuckerberg/)
+- [On the cruelty of really teaching computing science &lpar;1988&rpar;](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 - [The oral history of the Dinosaur Input Device](https://vfxblog.com/dinosaurinputdevice/)
 - [AI companies are pivoting from creating gods to building products](https://www.aisnakeoil.com/p/ai-companies-are-pivoting-from-creating)
-- [Scientist performs the first nonlinear study of black hole mimickers](https://phys.org/news/2024-08-scientist-nonlinear-black-hole-mimickers.html)
-- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
-- [Show HN: Robata, macOS window selector: put it on the grill](https://robata.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
