@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Model collapse&#39;? An expert explains the rumours about an impending AI doom](https://theconversation.com/what-is-model-collapse-an-expert-explains-the-rumours-about-an-impending-ai-doom-236415)
+- [Foone gets a NUC binned by an AI startup](https://digipres.club/@foone/112990331505043510)
 - [Pragtical: Practical and pragmatic code editor](https://pragtical.dev/)
 - [The U.S. Navy&#39;s $100M Checkbox &lpar;2019&rpar;](https://adrian3.com/blog/2019/2019-09-28-The-US-Navys-100-million-dollar-checkbox.php)
 - [Shapez2 Released](https://shapez2.com/)
