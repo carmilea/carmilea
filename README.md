@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The anatomy of a 2AM mental breakdown](https://zarar.dev/anatomy-of-a-mental-breakdown/)
-- [Waiting Time Paradox or Why Is My Bus Always Late? &lpar;2018&rpar;](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)
-- [Show HN: Visual Sudoku Solver in the Browser &lpar;With OpenCV and TensorFlow&rpar;](https://sudoku.dotslashdan.com/)
-- [1953 US Navy training film on mechanical computers [video]](https://www.youtube.com/watch?v=gwf5mAlI7Ug)
-- [Nango &lpar;YC W23&rpar; Is Hiring a Product Engineer &lpar;Remote&rpar;](https://www.nango.dev/jobs)
+- [Fine-tuning now available for GPT-4o](https://openai.com/index/gpt-4o-fine-tuning/)
+- [Roc Lang – Elm but for everywhere [video]](https://www.youtube.com/watch?v=s--2X0kwe4Y)
+- [The AI photo editing era is here, and it&#39;s every person for themselves](https://www.theverge.com/2024/8/19/24221884/google-photos-magic-editor-ai-reimagine)
+- [The YouTube like button glows when you say &quot;smash that like button&quot; [video]](https://www.youtube.com/watch?v=obX2WdINsZo)
+- [Can Digital Emulations &lpar;Plugins&rpar; Ever Be as Good as Analog Hardware?](https://www.okmog.de/index.php/training/articles/can-digital-emulations-ever-be-as-good-as-analog-hardware)
 <!-- BLOG-POST-LIST:END -->
 
 ---
