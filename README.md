@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mike Lynch&#39;s co-defendant in fraud trial &#39;fatally struck&#39; by car while jogging](https://www.theguardian.com/uk-news/article/2024/aug/19/mike-lynchs-co-defendant-in-us-trial-fatally-struck-by-car-while-jogging)
+- [Pragtical: Practical and pragmatic code editor](https://pragtical.dev/)
 - [Shapez2 Released](https://shapez2.com/)
-- [2024&#39;s Hugo Award Winners Announced](https://www.thehugoawards.org/hugo-history/2024-hugo-awards/)
-- [Phrack 71 Released](http://phrack.org/issues/71/1.html)
-- [Sourcegraph Went Dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
-- [$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU](https://arstechnica.com/gadgets/2024/08/new-2gb-raspberry-pi-5-option-knocks-the-price-down-to-50/)
+- [Phrack 71](http://phrack.org/issues/71/1.html)
+- [Sourcegraph went dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
