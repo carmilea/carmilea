@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Foone gets a NUC binned by an AI startup](https://digipres.club/@foone/112990331505043510)
-- [Pragtical: Practical and pragmatic code editor](https://pragtical.dev/)
-- [The U.S. Navy&#39;s $100M Checkbox &lpar;2019&rpar;](https://adrian3.com/blog/2019/2019-09-28-The-US-Navys-100-million-dollar-checkbox.php)
-- [Shapez2 Released](https://shapez2.com/)
-- [Phrack 71](http://phrack.org/issues/71/1.html)
+- [A Lego Model of Capitalist Central Planning](https://www.asomo.co/p/lego-capitalist-central-planning)
+- [Copilot turns a court reporter into a child molester](https://www.heise.de/en/news/Copilot-turns-a-court-reporter-into-a-child-molester-9840612.html)
+- [I picked up a shitty NUC from ewaste and it had a label on it for an AI company](https://digipres.club/@foone/112990331505043510)
+- [&amp;udm=14 for Safari &lpar;iOS/iPadOS&rpar;](https://apps.apple.com/gb/app/udm14-for-safari/id6520379591)
+- [Go automatically downloads a newer toolchain if needed](https://kokada.capivaras.dev/blog/quick-bits-go-automatically-downloads-a-newer-toolchain-if-needed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
