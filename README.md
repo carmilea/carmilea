@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to disable cellular connectivity in a Gen 2 &lpar;2016-2019&rpar; Chevy Volt](https://www.jamesxli.com/2024/chevy-volt-disable-cellular.html)
+- [Russia: Citizens must turn off home surveillance because Ukrainians are coming](https://www.theregister.com/2024/08/21/russia_memo_ukraine_invasion/)
+- [Eli Lilly&#39;s weight loss drug slashes the risk of diabetes in long-term trial](https://www.cnbc.com/2024/08/20/eli-lilly-weight-loss-drug-cuts-risk-of-developing-diabetes-in-trial.html)
+- [How to Build a 50K Ton Forging Press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)
 - [Sieve &lpar;YC W22&rpar; Is hiring engineers to build AI [video] developer tools](https://www.sievedata.com/)
-- [Juice rerouted to Venus in first lunar-Earth flyby](https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_rerouted_to_Venus_in_world_s_first_lunar-Earth_flyby)
-- [I&#39;ve built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
-- [The Discovery of the Celendrical Date Line](https://webspace.science.uu.nl/~gent0113/idl/idl_discovery.htm)
-- [ScreenPlay Is an Open Source Live-Wallpaper App for Windows and OS X](https://screen-play.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
