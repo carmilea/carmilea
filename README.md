@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto &#39;pig butchering&#39; scam wrecks bank, sends ex-CEO to prison for 24 years](https://www.cnbc.com/2024/08/21/cryptocurrency-shan-hanes-pig-butchering-scam.html)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41314161)
-- [Do low-level optimizations matter? Faster quicksort with cmov](http://cantrip.org/sortfast.html)
+- [Do low-level optimizations matter? Faster quicksort with cmov &lpar;2020&rpar;](http://cantrip.org/sortfast.html)
 - [Euclid&#39;s Proof that √2 is Irrational](https://www.mathsisfun.com/numbers/euclid-square-root-2-irrational.html)
 - [IT tycoon Mike Lynch, daughter Hannah found dead](https://www.theregister.com/2024/08/21/mike_lynch_dead/)
-- [US hospital told family their daughter had checked out when in fact she&#39;d died](https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out)
 <!-- BLOG-POST-LIST:END -->
 
 ---
