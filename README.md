@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch YC: Ares Industries – Building low-cost cruise missiles](https://www.ycombinator.com/launches/Ler-ares-industries-building-low-cost-cruise-missiles)
+- [PUBG developer Krafton make a life simulation game inzoi](https://playinzoi.com/en)
 - [US judge throws out FTC&#39;s ban on non-compete agreements](https://www.ft.com/content/56770a82-3c3f-4739-9895-e2f97b6202b4)
 - [Show HN: A simple and powerful RSS reader for the web](https://www.feedbomb.app)
 - [Plasmo – a framework for building modern Chrome extensions](https://github.com/PlasmoHQ/plasmo)
