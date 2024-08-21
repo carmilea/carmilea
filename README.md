@@ -61,8 +61,8 @@
 - [PS4 Emulator for Windows,Linux,macOS](https://github.com/shadps4-emu/shadPS4)
 - [Australia approves 17-20GW solar power link to Singapore](https://www.pv-tech.org/australian-government-approves-aapowerlink-project-to-export-solar-to-singapore/)
 - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
-- [Sonos CEO says the old app can&#39;t be rereleased](https://www.theverge.com/2024/8/20/24224754/sonos-ceo-old-s2-app-re-release-cant-be)
 - [How the SNES Graphics System Works](https://fabiensanglard.net/snes_ppus_how/)
+- [How I started blogging &lpar;2024&rpar;](https://roarepally.com/blog/why-I-blog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
