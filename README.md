@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
+- [Sonos CEO says the old app can&#39;t be rereleased](https://www.theverge.com/2024/8/20/24224754/sonos-ceo-old-s2-app-re-release-cant-be)
+- [The Decay of Boeing](https://brief.bismarckanalysis.com/p/the-decay-of-boeing)
 - [How the SNES Graphics System Works](https://fabiensanglard.net/snes_ppus_how/)
-- [Calling All Hackers](https://phrack.org/issues/71/17.html#article)
-- [PUBG developer Krafton make a life simulation game inzoi](https://playinzoi.com/en)
-- [Ares Industries – Building low-cost cruise missiles](https://www.ycombinator.com/launches/Ler-ares-industries-building-low-cost-cruise-missiles)
-- [US judge throws out FTC&#39;s ban on non-compete agreements](https://www.ft.com/content/56770a82-3c3f-4739-9895-e2f97b6202b4)
+- [How I started blogging &lpar;2024&rpar;](https://roarepally.com/blog/why-I-blog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
