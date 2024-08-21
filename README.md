@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s &#39;Reimagine&#39; tool helped us add wrecks, disasters, and corpses to photos](https://www.theverge.com/2024/8/21/24224084/google-pixel-9-reimagine-ai-photos)
+- [New Phishing Technique Bypasses Security on iOS and Android to Steal Bank Creds](https://www.securityweek.com/new-phishing-technique-bypasses-security-on-ios-and-android-to-steal-bank-credentials/)
+- [Major Backdoor in RFID Cards Allows Instant Cloning](https://www.securityweek.com/major-backdoor-in-millions-of-rfid-cards-allows-instant-cloning/)
+- [Linux desktop market share climbs to 4.45%](https://ostechnix.com/linux-market-share-july-2024-report/)
 - [Hurricane season has flatlined. When will it roar back to life?](https://www.washingtonpost.com/weather/2024/08/21/hurricane-season-atlantic-tropical-storms/)
 - [Kill the Newsletter: Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
-- [Flexport Is Hiring a Senior Product Designer for Our Newest Product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
-- [Code Review Antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
