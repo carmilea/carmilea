@@ -61,8 +61,8 @@
 - [New Phishing Technique Bypasses Security on iOS and Android to Steal Bank Creds](https://www.securityweek.com/new-phishing-technique-bypasses-security-on-ios-and-android-to-steal-bank-credentials/)
 - [Major Backdoor in RFID Cards Allows Instant Cloning](https://www.securityweek.com/major-backdoor-in-millions-of-rfid-cards-allows-instant-cloning/)
 - [Linux desktop market share climbs to 4.45%](https://ostechnix.com/linux-market-share-july-2024-report/)
-- [Hurricane season has flatlined. When will it roar back to life?](https://www.washingtonpost.com/weather/2024/08/21/hurricane-season-atlantic-tropical-storms/)
-- [Kill the Newsletter: Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
+- [Immutable Data Structures in Qdrant](https://qdrant.tech/articles/immutable-data-structures/)
+- [Turnstyle – An esoteric, graphical functional language](https://jaspervdj.be/posts/2024-08-21-turnstyle.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
