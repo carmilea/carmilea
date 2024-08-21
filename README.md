@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the SNES Graphics System Works](https://fabiensanglard.net/snes_ppus_how/)
+- [Calling All Hackers](https://phrack.org/issues/71/17.html#article)
 - [PUBG developer Krafton make a life simulation game inzoi](https://playinzoi.com/en)
+- [Ares Industries – Building low-cost cruise missiles](https://www.ycombinator.com/launches/Ler-ares-industries-building-low-cost-cruise-missiles)
 - [US judge throws out FTC&#39;s ban on non-compete agreements](https://www.ft.com/content/56770a82-3c3f-4739-9895-e2f97b6202b4)
-- [Show HN: A simple and powerful RSS reader for the web](https://www.feedbomb.app)
-- [Plasmo – a framework for building modern Chrome extensions](https://github.com/PlasmoHQ/plasmo)
-- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
