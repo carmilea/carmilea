@@ -61,7 +61,7 @@
 - [Sieve &lpar;YC W22&rpar; Is hiring engineers to build AI [video] developer tools](https://www.sievedata.com/)
 - [ScreenPlay Is an Open Source Live-Wallpaper App for Windows and OS X](https://screen-play.app/)
 - [PS4 Emulator for Windows, Linux, macOS](https://github.com/shadps4-emu/shadPS4)
-- [The Semantic Web is now very widely adopted](https://csvbase.com/blog/13)
+- [The semantic web is now very widely adopted](https://csvbase.com/blog/13)
 - [Calling All Hackers](https://phrack.org/issues/71/17.html#article)
 <!-- BLOG-POST-LIST:END -->
 
