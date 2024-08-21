@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Something has gone seriously wrong,” dual-boot systems warn after MS update](https://arstechnica.com/security/2024/08/a-patch-microsoft-spent-2-years-preparing-is-making-a-mess-for-some-linux-users/)
 - [Sieve &lpar;YC W22&rpar; Is hiring engineers to build AI [video] developer tools](https://www.sievedata.com/)
+- [I&#39;ve Built My First Successful Side Project, and I Hate It](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
+- [The Discovery of the Celendrical Date Line](https://webspace.science.uu.nl/~gent0113/idl/idl_discovery.htm)
 - [ScreenPlay Is an Open Source Live-Wallpaper App for Windows and OS X](https://screen-play.app/)
-- [PS4 Emulator for Windows, Linux, macOS](https://github.com/shadps4-emu/shadPS4)
-- [The semantic web is now very widely adopted](https://csvbase.com/blog/13)
-- [Calling All Hackers](https://phrack.org/issues/71/17.html#article)
 <!-- BLOG-POST-LIST:END -->
 
 ---
