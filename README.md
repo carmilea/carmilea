@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to disable cellular connectivity in a Gen 2 &lpar;2016-2019&rpar; Chevy Volt](https://www.jamesxli.com/2024/chevy-volt-disable-cellular.html)
+- [Flexport Is Hiring a Senior Product Designer for Our Newest Product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
 - [Russia: Citizens must turn off home surveillance because Ukrainians are coming](https://www.theregister.com/2024/08/21/russia_memo_ukraine_invasion/)
+- [There aren&#39;t that many uses for blockchains &lpar;2022&rpar;](https://calpaterson.com/blockchain.html)
 - [Eli Lilly&#39;s weight loss drug slashes the risk of diabetes in long-term trial](https://www.cnbc.com/2024/08/20/eli-lilly-weight-loss-drug-cuts-risk-of-developing-diabetes-in-trial.html)
-- [How to Build a 50K Ton Forging Press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)
-- [Sieve &lpar;YC W22&rpar; Is hiring engineers to build AI [video] developer tools](https://www.sievedata.com/)
+- [Mimalloc Cigarette: Losing one week of my life catching a memory leak &lpar;Rust&rpar;](https://pwy.io/posts/mimalloc-cigarette/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
