@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google&#39;s &#39;Reimagine&#39; tool helped us add wrecks, disasters, and corpses to photos](https://www.theverge.com/2024/8/21/24224084/google-pixel-9-reimagine-ai-photos)
+- [Hurricane season has flatlined. When will it roar back to life?](https://www.washingtonpost.com/weather/2024/08/21/hurricane-season-atlantic-tropical-storms/)
+- [Kill the Newsletter: Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
 - [Flexport Is Hiring a Senior Product Designer for Our Newest Product](https://job-boards.greenhouse.io/flexport/jobs/5993812?gh_jid=5993812)
-- [Russia: Citizens must turn off home surveillance because Ukrainians are coming](https://www.theregister.com/2024/08/21/russia_memo_ukraine_invasion/)
-- [There aren&#39;t that many uses for blockchains &lpar;2022&rpar;](https://calpaterson.com/blockchain.html)
-- [Eli Lilly&#39;s weight loss drug slashes the risk of diabetes in long-term trial](https://www.cnbc.com/2024/08/20/eli-lilly-weight-loss-drug-cuts-risk-of-developing-diabetes-in-trial.html)
-- [Mimalloc Cigarette: Losing one week of my life catching a memory leak &lpar;Rust&rpar;](https://pwy.io/posts/mimalloc-cigarette/)
+- [Code Review Antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
