@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41314161)
+- [US hospital told family their daughter had checked out when in fact she&#39;d died](https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out)
 - [New Phishing Technique Bypasses Security on iOS and Android to Steal Bank Creds](https://www.securityweek.com/new-phishing-technique-bypasses-security-on-ios-and-android-to-steal-bank-credentials/)
-- [Major Backdoor in RFID Cards Allows Instant Cloning](https://www.securityweek.com/major-backdoor-in-millions-of-rfid-cards-allows-instant-cloning/)
 - [Linux desktop market share climbs to 4.45%](https://ostechnix.com/linux-market-share-july-2024-report/)
 - [Immutable Data Structures in Qdrant](https://qdrant.tech/articles/immutable-data-structures/)
-- [Turnstyle – An esoteric, graphical functional language](https://jaspervdj.be/posts/2024-08-21-turnstyle.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
