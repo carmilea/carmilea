@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Build a Recommendation System Using SingleStore Vector Search | SingleStore Webinars](https://www.youtube.com/watch?v=kJ_QucfYddk)
 - [How We Made That App Episode 11 - How Flowd is Revolutionizing Water Management with CTO Marc Locchi](https://www.youtube.com/watch?v=yufyFGSDAzE)
 - [LLMs in Financial Services: Personalized Portfolio Reco Engines | SingleStore Webinars](https://www.youtube.com/watch?v=00pzaMK7cv0)
 - [3. Setting Up Your Development Environment | H2O Wave](https://www.youtube.com/watch?v=wC-fDOj4Wlk)
 - [2 . Intro to Building Generative AI Apps | H2O Wave](https://www.youtube.com/watch?v=UypgaC_Gmew)
-- [How to build MongoDB RAG Application Richer with in-app Analytics | SingleStore Webinars](https://www.youtube.com/watch?v=bV4-jEbJ5Qw)
 <!-- YOUTUBE:END -->
 
 
