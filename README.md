@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41314161)
+- [Do low-level optimizations matter? Faster quicksort with cmov](http://cantrip.org/sortfast.html)
+- [Euclid&#39;s Proof that √2 is Irrational](https://www.mathsisfun.com/numbers/euclid-square-root-2-irrational.html)
+- [IT tycoon Mike Lynch, daughter Hannah found dead](https://www.theregister.com/2024/08/21/mike_lynch_dead/)
 - [US hospital told family their daughter had checked out when in fact she&#39;d died](https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out)
-- [New Phishing Technique Bypasses Security on iOS and Android to Steal Bank Creds](https://www.securityweek.com/new-phishing-technique-bypasses-security-on-ios-and-android-to-steal-bank-credentials/)
-- [Linux desktop market share climbs to 4.45%](https://ostechnix.com/linux-market-share-july-2024-report/)
-- [Immutable Data Structures in Qdrant](https://qdrant.tech/articles/immutable-data-structures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
