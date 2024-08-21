@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ScreenPlay Is an Open Source Live-Wallpaper App for Windows and OS X](https://screen-play.app/)
+- [AMD and FreeBSD Begin Collaborating over OS Improvements](https://www.phoronix.com/news/FreeBSD-Q2-2024-Improvements)
 - [PS4 Emulator for Windows,Linux,macOS](https://github.com/shadps4-emu/shadPS4)
 - [Australia approves 17-20GW solar power link to Singapore](https://www.pv-tech.org/australian-government-approves-aapowerlink-project-to-export-solar-to-singapore/)
 - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
-- [How the SNES Graphics System Works](https://fabiensanglard.net/snes_ppus_how/)
-- [How I started blogging &lpar;2024&rpar;](https://roarepally.com/blog/why-I-blog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
