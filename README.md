@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sieve &lpar;YC W22&rpar; Is hiring engineers to build AI [video] developer tools](https://www.sievedata.com/)
 - [ScreenPlay Is an Open Source Live-Wallpaper App for Windows and OS X](https://screen-play.app/)
-- [AMD and FreeBSD Begin Collaborating over OS Improvements](https://www.phoronix.com/news/FreeBSD-Q2-2024-Improvements)
-- [Show HN: Webaggr – handpicked collection of landing page design](https://webaggr.com/)
-- [PS4 Emulator for Windows,Linux,macOS](https://github.com/shadps4-emu/shadPS4)
-- [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
+- [PS4 Emulator for Windows, Linux, macOS](https://github.com/shadps4-emu/shadPS4)
+- [The Semantic Web is now very widely adopted](https://csvbase.com/blog/13)
+- [Calling All Hackers](https://phrack.org/issues/71/17.html#article)
 <!-- BLOG-POST-LIST:END -->
 
 ---
