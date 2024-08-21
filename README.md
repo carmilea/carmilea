@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch YC: Ares Industries – Building low-cost cruise missiles](https://www.ycombinator.com/launches/Ler-ares-industries-building-low-cost-cruise-missiles)
 - [US judge throws out FTC&#39;s ban on non-compete agreements](https://www.ft.com/content/56770a82-3c3f-4739-9895-e2f97b6202b4)
+- [Show HN: A simple and powerful RSS reader for the web](https://www.feedbomb.app)
 - [Plasmo – a framework for building modern Chrome extensions](https://github.com/PlasmoHQ/plasmo)
 - [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- [MIT leaders describe the experience of not renewing Elsevier contract](https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/)
-- [Why are Texas interchanges so tall?](https://practical.engineering/blog/2024/8/19/why-are-texas-interchanges-texas-so-tall)
 <!-- BLOG-POST-LIST:END -->
 
 ---
