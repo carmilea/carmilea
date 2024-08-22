@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No &quot;Hello&quot;, No &quot;Quick Call&quot;, and No Meetings Without an Agenda](https://switowski.com/blog/no-hello-no-quick-call-no-agendaless-meetings/)
+- [Quarkdown: Markdown with Superpowers](https://iamgio.eu/quarkdown/demo/)
+- [Show HN: LangCSS – An AI Assistant for Tailwind](https://langcss.com/demo)
+- [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
 - [Starbucks&#39; new CEO will supercommute 1k miles from California to Seattle](https://www.cnbc.com/2024/08/20/starbucks-new-ceo-brian-niccol-will-supercommute-to-seattle-instead-of-relocating.html)
-- [SwiftUI for Mac 2024](https://troz.net/post/2024/swiftui-mac-2024/)
-- [Show HN: Isaiah – open-source and self-hosted app to manage everything Docker](https://github.com/will-moss/isaiah)
-- [Mourning and moving on: rituals for leaving a career](https://franceshocutt.com/2014/09/10/on-mourning-and-moving-on-rituals-for-leaving-a-career/)
-- [Celebrating 6 years since Valve announced Steam Play Proton for Linux](https://www.gamingonlinux.com/2024/08/celebrating-6-years-since-valve-announced-steam-play-proton-for-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
