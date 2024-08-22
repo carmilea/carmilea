@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Python&#39;s Preprocessor – Pydong](https://pydong.org/posts/PythonsPreprocessor/)
 - [Launch HN: AnswerGrid &lpar;YC S24&rpar; – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
-- [Apple splits App Store team in two, introduces new leadership](https://arstechnica.com/gadgets/2024/08/apple-says-farewell-to-its-app-store-chief-as-it-splits-his-team-in-two/)
+- [Venezuela&#39;s Supreme Court certifies Maduro&#39;s claims he won presidential election](https://www.ctvnews.ca/world/venezuela-s-supreme-court-certifies-maduro-s-claims-that-he-won-presidential-election-1.7010540)
+- [JEP Draft: Adapt Object Monitors for Virtual Threads](https://openjdk.org/jeps/8337395)
 - [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
-- [Peloton to charge $95 activation fee for used bikes](https://www.cnbc.com/2024/08/22/peloton-to-charge-95-activation-fee-for-used-bikes-.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
