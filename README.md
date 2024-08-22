@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing My Own Watch &lpar;2020&rpar;](https://willem.com/blog/2020-11-30_designing-my-own-watch/)
 - [Bum Farto](https://en.wikipedia.org/wiki/Bum_Farto)
+- [Never enable 2FA for accounts that you actually care about &lpar;2023&rpar;](https://benwilber.github.io/2023/07/17/never-enable-2fa-for-accounts-you-actually-care-about.html)
 - [SIMD Matters: Graph Coloring](https://box2d.org/posts/2024/08/simd-matters/)
 - [I&#39;m Tired of Fixing Customers&#39; AI Generated Code](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)
-- [The Euphemism Treadmill](https://languagehat.com/mcwhorter-on-the-euphemism-treadmill/)
-- [Google Play will no longer pay to discover vulnerabilities in Android apps](https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
