@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Starbucks&#39; new CEO will supercommute 1k miles from California to Seattle](https://www.cnbc.com/2024/08/20/starbucks-new-ceo-brian-niccol-will-supercommute-to-seattle-instead-of-relocating.html)
+- [SwiftUI for Mac 2024](https://troz.net/post/2024/swiftui-mac-2024/)
+- [Show HN: Isaiah – open-source and self-hosted app to manage everything Docker](https://github.com/will-moss/isaiah)
 - [Mourning and moving on: rituals for leaving a career](https://franceshocutt.com/2014/09/10/on-mourning-and-moving-on-rituals-for-leaving-a-career/)
 - [Celebrating 6 years since Valve announced Steam Play Proton for Linux](https://www.gamingonlinux.com/2024/08/celebrating-6-years-since-valve-announced-steam-play-proton-for-linux/)
-- [Webtoon Targets 170 Pirate Domains Through DMCA Subpoena](https://torrentfreak.com/webtoon-targets-170-pirate-domains-through-dmca-subpoena-240821/)
-- [Designing my own watch &lpar;2020&rpar;](https://willem.com/blog/2020-11-30_designing-my-own-watch/)
-- [Self-Hosting DNS](https://ghostdev.xyz/posts/self-hosting-dns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
