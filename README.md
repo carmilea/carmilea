@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Webtoon Targets 170 Pirate Domains Through DMCA Subpoena](https://torrentfreak.com/webtoon-targets-170-pirate-domains-through-dmca-subpoena-240821/)
-- [Designing My Own Watch &lpar;2020&rpar;](https://willem.com/blog/2020-11-30_designing-my-own-watch/)
-- [In a leaked recording, AWS CEO tells most developers could stop coding soon](https://www.businessinsider.com/aws-ceo-developers-stop-coding-ai-takes-over-2024-8)
+- [Designing my own watch &lpar;2020&rpar;](https://willem.com/blog/2020-11-30_designing-my-own-watch/)
+- [A 20-part deep dive into how linkers work](https://lwn.net/Articles/276782/)
 - [Bum Farto](https://en.wikipedia.org/wiki/Bum_Farto)
-- [Jobalytics – ATS Resume Checker – Job Search Tools](https://jobalytics.app/)
+- [SIMD Matters: Graph Coloring](https://box2d.org/posts/2024/08/simd-matters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
