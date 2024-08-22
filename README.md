@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What does it mean to be a programming language, anyhow? &lpar;2021&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/3480947)
 - [Python&#39;s Preprocessor – Pydong](https://pydong.org/posts/PythonsPreprocessor/)
 - [Launch HN: AnswerGrid &lpar;YC S24&rpar; – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
-- [Venezuela&#39;s Supreme Court certifies Maduro&#39;s claims he won presidential election](https://www.ctvnews.ca/world/venezuela-s-supreme-court-certifies-maduro-s-claims-that-he-won-presidential-election-1.7010540)
-- [JEP Draft: Adapt Object Monitors for Virtual Threads](https://openjdk.org/jeps/8337395)
-- [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
+- [Faster Inverse BWT](http://cbloomrants.blogspot.com/2021/03/faster-inverse-bwt.html)
+- [Data Modeling SaaS Entitlements and Pricing](https://garrettdimon.com/journal/posts/data-modeling-saas-entitlements-and-pricing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
