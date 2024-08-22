@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft&#39;s latest security update has ruined dual-boot Windows and Linux PCs](https://www.theverge.com/2024/8/21/24225108/microsoft-security-update-windows-linux-dual-boot-errors)
-- [Americans are doing less DIY. It&#39;s another worrying sign for the economy](https://www.businessinsider.com/americans-doing-less-diy-worrying-sign-economy-lowes-earnings-2024-8)
+- [Bum Farto](https://en.wikipedia.org/wiki/Bum_Farto)
 - [I&#39;m Tired of Fixing Customers&#39; AI Generated Code](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)
 - [The Euphemism Treadmill](https://languagehat.com/mcwhorter-on-the-euphemism-treadmill/)
 - [Google Play will no longer pay to discover vulnerabilities in Android apps](https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/)
+- [Bioaccumulation of Microplastics in Decedent Human Brains](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11100893/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
