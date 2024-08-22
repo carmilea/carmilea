@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [84% want stronger online privacy laws, but Congress&#39;s corruption stalls progress](https://www.techdirt.com/2024/08/21/84-of-americans-want-tougher-online-privacy-laws-but-congress-is-too-corrupt-to-follow-through/)
-- [German Navy blasts out Darth Vader theme on Thames](https://www.bbc.com/news/videos/cn87608w389o)
+- [Beastie Boys dismantled their gold record plaque,it didn&#39;t contain their music](https://djmag.com/news/beastie-boys-dismantled-their-pauls-boutique-gold-record-plaque-find-it-didnt-contain-their)
+- [The surprising cause of fasting&#39;s regenerative powers](https://www.nature.com/articles/d41586-024-02700-2)
 - [Async2 – The .NET Runtime Async experiment concludes](https://steven-giesel.com/blogPost/59752c38-9c99-4641-9853-9cfa97bb2d29)
 - [Electric Clojure v3: Differential Dataflow for UI [video]](https://hyperfiddle-docs.notion.site/Talk-Electric-Clojure-v3-Differential-Dataflow-for-UI-Getz-2024-2e611cebd73f45dc8cc97c499b3aa8b8)
-- [Study explains why laws are written in an incomprehensible style](https://phys.org/news/2024-08-laws-written-incomprehensible-style.html)
+- [Show HN: LangCSS – An AI Assistant for Tailwind](https://langcss.com/demo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
