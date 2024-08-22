@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Webtoon Targets 170 Pirate Domains Through DMCA Subpoena](https://torrentfreak.com/webtoon-targets-170-pirate-domains-through-dmca-subpoena-240821/)
 - [Designing My Own Watch &lpar;2020&rpar;](https://willem.com/blog/2020-11-30_designing-my-own-watch/)
+- [In a leaked recording, AWS CEO tells most developers could stop coding soon](https://www.businessinsider.com/aws-ceo-developers-stop-coding-ai-takes-over-2024-8)
 - [Bum Farto](https://en.wikipedia.org/wiki/Bum_Farto)
-- [Never enable 2FA for accounts that you actually care about &lpar;2023&rpar;](https://benwilber.github.io/2023/07/17/never-enable-2fa-for-accounts-you-actually-care-about.html)
-- [SIMD Matters: Graph Coloring](https://box2d.org/posts/2024/08/simd-matters/)
-- [I&#39;m Tired of Fixing Customers&#39; AI Generated Code](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)
+- [Jobalytics – ATS Resume Checker – Job Search Tools](https://jobalytics.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
