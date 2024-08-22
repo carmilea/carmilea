@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto &#39;pig butchering&#39; scam wrecks bank, sends ex-CEO to prison for 24 years](https://www.cnbc.com/2024/08/21/cryptocurrency-shan-hanes-pig-butchering-scam.html)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41314161)
-- [Do low-level optimizations matter? Faster quicksort with cmov &lpar;2020&rpar;](http://cantrip.org/sortfast.html)
-- [Euclid&#39;s Proof that √2 is Irrational](https://www.mathsisfun.com/numbers/euclid-square-root-2-irrational.html)
-- [IT tycoon Mike Lynch, daughter Hannah found dead](https://www.theregister.com/2024/08/21/mike_lynch_dead/)
+- [Microsoft&#39;s latest security update has ruined dual-boot Windows and Linux PCs](https://www.theverge.com/2024/8/21/24225108/microsoft-security-update-windows-linux-dual-boot-errors)
+- [Americans are doing less DIY. It&#39;s another worrying sign for the economy](https://www.businessinsider.com/americans-doing-less-diy-worrying-sign-economy-lowes-earnings-2024-8)
+- [I&#39;m Tired of Fixing Customers&#39; AI Generated Code](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)
+- [The Euphemism Treadmill](https://languagehat.com/mcwhorter-on-the-euphemism-treadmill/)
+- [Google Play will no longer pay to discover vulnerabilities in Android apps](https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
