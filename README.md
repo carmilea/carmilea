@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Story of the Successful Life and Abrupt Death of Flip Video Cameras](https://petapixel.com/2024/08/21/the-story-of-the-successful-life-and-abrupt-death-of-flip-video-cameras/)
-- [Japan&#39;s Public Didn&#39;t Buy Fumio Kishida&#39;s New Capitalism](https://foreignpolicy.com/2024/08/15/japan-fumio-kishida-departure-capitalism-liberal-democratic-party/)
-- [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
-- [Async2 – The .NET Runtime Async experiment concludes](https://steven-giesel.com/blogPost/59752c38-9c99-4641-9853-9cfa97bb2d29)
-- [Electric Clojure v3: Differential Dataflow for UI [video]](https://hyperfiddle-docs.notion.site/Talk-Electric-Clojure-v3-Differential-Dataflow-for-UI-Getz-2024-2e611cebd73f45dc8cc97c499b3aa8b8)
+- [Apple splits App Store team in two, introduces new leadership](https://arstechnica.com/gadgets/2024/08/apple-says-farewell-to-its-app-store-chief-as-it-splits-his-team-in-two/)
+- [Vooma &lpar;YC W23&rpar; Is Hiring a Growth Lead](https://www.ycombinator.com/companies/vooma/jobs/ATEQ9kQ-growth-lead)
+- [Making PyPy&#39;s GC and JIT produce a sound [video]](https://www.youtube.com/watch?v=drwJBzDM1jI)
+- [Aerc: A Well-Crafted TUI for Email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
+- [Launch HN: Arva AI &lpar;YC S24&rpar; – AI agents for instant global KYB onboarding](https://news.ycombinator.com/item?id=41321936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
