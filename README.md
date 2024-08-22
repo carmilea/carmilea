@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ARRL IT Security Incident – $1M ransom](https://www.arrl.org/news/arrl-it-security-incident-report-to-members)
 - [What does it mean to be a programming language, anyhow? &lpar;2021&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/3480947)
+- [Climate policies that achieved major emission reductions](https://www.science.org/doi/10.1126/science.adl6547)
 - [Python&#39;s Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
 - [Launch HN: AnswerGrid &lpar;YC S24&rpar; – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
-- [Faster Inverse BWT &lpar;2021&rpar;](http://cbloomrants.blogspot.com/2021/03/faster-inverse-bwt.html)
-- [Data Modeling SaaS Entitlements and Pricing](https://garrettdimon.com/journal/posts/data-modeling-saas-entitlements-and-pricing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
