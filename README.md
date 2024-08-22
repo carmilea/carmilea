@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [84% want stronger online privacy laws, but Congress&#39;s corruption stalls progress](https://www.techdirt.com/2024/08/21/84-of-americans-want-tougher-online-privacy-laws-but-congress-is-too-corrupt-to-follow-through/)
+- [German Navy blasts out Darth Vader theme on Thames](https://www.bbc.com/news/videos/cn87608w389o)
 - [Async2 – The .NET Runtime Async experiment concludes](https://steven-giesel.com/blogPost/59752c38-9c99-4641-9853-9cfa97bb2d29)
 - [Electric Clojure v3: Differential Dataflow for UI [video]](https://hyperfiddle-docs.notion.site/Talk-Electric-Clojure-v3-Differential-Dataflow-for-UI-Getz-2024-2e611cebd73f45dc8cc97c499b3aa8b8)
-- [Quarkdown: Markdown with Superpowers](https://iamgio.eu/quarkdown/demo/)
-- [Show HN: LangCSS – An AI Assistant for Tailwind](https://langcss.com/demo)
-- [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
+- [Study explains why laws are written in an incomprehensible style](https://phys.org/news/2024-08-laws-written-incomprehensible-style.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
