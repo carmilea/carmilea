@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Python&#39;s Preprocessor – Pydong](https://pydong.org/posts/PythonsPreprocessor/)
+- [Launch HN: AnswerGrid &lpar;YC S24&rpar; – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
 - [Apple splits App Store team in two, introduces new leadership](https://arstechnica.com/gadgets/2024/08/apple-says-farewell-to-its-app-store-chief-as-it-splits-his-team-in-two/)
-- [Vooma &lpar;YC W23&rpar; Is Hiring a Growth Lead](https://www.ycombinator.com/companies/vooma/jobs/ATEQ9kQ-growth-lead)
-- [Making PyPy&#39;s GC and JIT produce a sound [video]](https://www.youtube.com/watch?v=drwJBzDM1jI)
-- [Aerc: A Well-Crafted TUI for Email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
-- [Launch HN: Arva AI &lpar;YC S24&rpar; – AI agents for instant global KYB onboarding](https://news.ycombinator.com/item?id=41321936)
+- [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
+- [Peloton to charge $95 activation fee for used bikes](https://www.cnbc.com/2024/08/22/peloton-to-charge-95-activation-fee-for-used-bikes-.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
