@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bum Farto](https://en.wikipedia.org/wiki/Bum_Farto)
+- [SIMD Matters: Graph Coloring](https://box2d.org/posts/2024/08/simd-matters/)
 - [I&#39;m Tired of Fixing Customers&#39; AI Generated Code](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)
 - [The Euphemism Treadmill](https://languagehat.com/mcwhorter-on-the-euphemism-treadmill/)
 - [Google Play will no longer pay to discover vulnerabilities in Android apps](https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/)
-- [Bioaccumulation of Microplastics in Decedent Human Brains](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11100893/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
