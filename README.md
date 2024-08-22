@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Second human being implanted with Neuralink brain chip](https://neuralink.com/blog/prime-study-progress-update-second-participant/)
 - [No &quot;Hello&quot;, No &quot;Quick Call&quot;, and No Meetings Without an Agenda](https://switowski.com/blog/no-hello-no-quick-call-no-agendaless-meetings/)
 - [Quarkdown: Markdown with Superpowers](https://iamgio.eu/quarkdown/demo/)
 - [Show HN: LangCSS – An AI Assistant for Tailwind](https://langcss.com/demo)
 - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
-- [Starbucks&#39; new CEO will supercommute 1k miles from California to Seattle](https://www.cnbc.com/2024/08/20/starbucks-new-ceo-brian-niccol-will-supercommute-to-seattle-instead-of-relocating.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
