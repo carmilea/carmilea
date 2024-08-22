@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beastie Boys dismantled their gold record plaque,it didn&#39;t contain their music](https://djmag.com/news/beastie-boys-dismantled-their-pauls-boutique-gold-record-plaque-find-it-didnt-contain-their)
-- [The surprising cause of fasting&#39;s regenerative powers](https://www.nature.com/articles/d41586-024-02700-2)
+- [Leaked Microsoft pay data shows how much software engineers report making](https://www.businessinsider.com/microsoft-spreadsheet-shows-pay-engineers-2024-8)
 - [Async2 – The .NET Runtime Async experiment concludes](https://steven-giesel.com/blogPost/59752c38-9c99-4641-9853-9cfa97bb2d29)
 - [Electric Clojure v3: Differential Dataflow for UI [video]](https://hyperfiddle-docs.notion.site/Talk-Electric-Clojure-v3-Differential-Dataflow-for-UI-Getz-2024-2e611cebd73f45dc8cc97c499b3aa8b8)
-- [Show HN: LangCSS – An AI Assistant for Tailwind](https://langcss.com/demo)
+- [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
+- [Show HN: A Ghidra extension for exporting parts of a program as object files](https://github.com/boricj/ghidra-delinker-extension)
 <!-- BLOG-POST-LIST:END -->
 
 ---
