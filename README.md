@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Semaglutide like Ozempic burn visceral fat, don&#39;t just suppress appetite](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.24126)
+- [Hacker Purity Test &lpar;1989&rpar;](http://www.armory.com/tests/hacker.html)
 - [Leveraging AI for efficient incident response](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/)
+- [Claude&#39;s API now supports CORS requests, enabling client-side applications](https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/)
 - [Fluid Simulation and Web Assembly](https://ehayes.page/posts/fluid/)
-- [Surfer: Centralize all your personal data from online platforms](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
-- [Cursor Has Raised $60M](https://www.cursor.com/blog/series-a)
-- [Zettlr: Note-Taking and Publishing with Markdown](https://lwn.net/Articles/984502/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
