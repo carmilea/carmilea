@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Valve New Employee Handbook &lpar;2012&rpar; [pdf]](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
-- [Show HN: AI Tool Is Now Supporting React, Angular, CSS, Svelte, Vue](https://www.webcrumbs.org/frontend-ai)
-- [The staggering death toll of scientific lies](https://www.vox.com/future-perfect/368350/scientific-research-fraud-crime-jail-time)
-- [17-Year-Old Student Exposes Germany&#39;s &#39;Secret&#39; Pirate Site Blocklist](https://torrentfreak.com/17-year-old-student-exposes-germanys-secret-pirate-site-blocklist-240822/)
-- [Nanolog supports logging with 7 ns median latency](https://github.com/PlatformLab/NanoLog)
+- [AI photo editing raises trust issues in photography](https://www.theverge.com/2024/8/22/24225972/ai-photo-era-what-is-reality-google-pixel-9)
+- [DOJ Sues RealPage for Algorithmic Pricing Scheme That Harms Renters](https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters)
+- [Pierre Cartier Has Died](https://www.lemonde.fr/disparitions/article/2024/08/19/pierre-cartier-mathematicien-francais-est-mort_6286756_3382.html)
+- [Launch HN: Moonglow &lpar;YC S24&rpar; – Serverless Jupyter Notebooks](https://news.ycombinator.com/item?id=41329750)
+- [SurrealEngine: Open-source reimplementation of Unreal Engine with playable UT99](https://github.com/dpjudas/SurrealEngine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
