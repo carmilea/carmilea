@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Cancels High-End Mixed Reality Headset After Apple Vision Pro Struggles](https://www.macrumors.com/2024/08/23/meta-cancels-high-end-headset/)
+- [Adding 16 KB Page Size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 - [Roboflow &lpar;YC S20&rpar; is hiring an ML Engineer to democratize computer vision](https://www.ycombinator.com/companies/roboflow/jobs/Hz7YcFa-full-stack-machine-learning-engineer)
 - [Cautionary tale on using Chase bank for indie business](https://jxnl.co/writing/2024/09/21/chase-bank-small-business-nightmare/)
 - [Amazon is bricking primary feature on $160 Echo device after 1 year](https://arstechnica.com/gadgets/2024/08/amazon-is-bricking-primary-feature-on-160-echo-device-after-1-year/)
-- [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
-- [AI photo editing raises trust issues in photography](https://www.theverge.com/2024/8/22/24225972/ai-photo-era-what-is-reality-google-pixel-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
