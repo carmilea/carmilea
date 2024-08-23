@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
 - [Confessions of a Theoretical Physicist](https://nautil.us/confessions-of-a-theoretical-physicist-787199/)
-- [Semaglutide like Ozempic burn visceral fat, don&#39;t just suppress appetite](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.24126)
+- [ShipFast alternative, Next.js SaaS Boilerplate and Starter Kit](https://play.nextjstemplates.com/)
 - [Microsoft&#39;s controversial Windows Recall feature is coming back in October](https://www.ghacks.net/2024/08/22/microsofts-controversial-windows-recall-feature-is-coming-back-in-october/)
-- [Hacker Purity Test &lpar;1989&rpar;](http://www.armory.com/tests/hacker.html)
+- [Leveraging AI for efficient incident response](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
