@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
+- [&#39;Megalopolis&#39; Trailer&#39;s Fake Critic Quotes Were AI-Generated](https://variety.com/2024/film/news/megalopolis-trailer-fake-quotes-ai-lionsgate-1236116485/)
+- [Molecule restores cognition and memory in Alzheimer&#39;s disease mouse study](https://newsroom.ucla.edu/releases/molecule-restores-cognition-memory-in-alzheimers-disease-model-mice)
 - [How I lost my Google Play dev account forever](https://old.reddit.com/r/gamedev/comments/1ezirdx/how_i_lost_my_google_play_dev_account_forever/)
-- [CA Governor Newsom and AG Bonta Pretend Court Agreed with Them on Kids Code](https://www.techdirt.com/2024/08/23/ca-governor-newsom-and-ag-bonta-pretend-court-agreed-with-them-on-kids-code/)
-- [Adding 16 KB Page Size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
-- [Roboflow &lpar;YC S20&rpar; is hiring an ML Engineer to democratize computer vision](https://www.ycombinator.com/companies/roboflow/jobs/Hz7YcFa-full-stack-machine-learning-engineer)
-- [Cautionary tale on using Chase bank for indie business](https://jxnl.co/writing/2024/09/21/chase-bank-small-business-nightmare/)
+- [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
