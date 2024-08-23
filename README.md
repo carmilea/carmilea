@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve New Employee Handbook &lpar;2012&rpar; [pdf]](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
+- [Show HN: AI Tool Is Now Supporting React, Angular, CSS, Svelte, Vue](https://www.webcrumbs.org/frontend-ai)
+- [The staggering death toll of scientific lies](https://www.vox.com/future-perfect/368350/scientific-research-fraud-crime-jail-time)
+- [17-Year-Old Student Exposes Germany&#39;s &#39;Secret&#39; Pirate Site Blocklist](https://torrentfreak.com/17-year-old-student-exposes-germanys-secret-pirate-site-blocklist-240822/)
 - [Nanolog supports logging with 7 ns median latency](https://github.com/PlatformLab/NanoLog)
-- [Companies ground Microsoft Copilot over data governance concerns](https://www.theregister.com/2024/08/21/microsoft_ai_copilots/)
-- [Apple Adopts 6 of OWA&#39;s Browser Choice Architecture Recommendations](https://open-web-advocacy.org/blog/apple-adopts-6-owa-choice-architecture-recommendations/)
-- [Show HN: Ruroco – like port knocking, but better](https://github.com/beac0n/ruroco)
-- [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
