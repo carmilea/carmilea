@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [&#39;Megalopolis&#39; trailer&#39;s fake critic quotes were AI-generated](https://variety.com/2024/film/news/megalopolis-trailer-fake-quotes-ai-lionsgate-1236116485/)
-- [Molecule restores cognition and memory in Alzheimer&#39;s disease mouse study](https://newsroom.ucla.edu/releases/molecule-restores-cognition-memory-in-alzheimers-disease-model-mice)
-- [How I lost my Google Play dev account forever](https://old.reddit.com/r/gamedev/comments/1ezirdx/how_i_lost_my_google_play_dev_account_forever/)
-- [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
+- [Open-Source AI necklace like Friend](https://github.com/BasedHardware/Omi)
+- [Lactate helps cancer cells resist chemotherapy](https://www.nature.com/articles/d41586-024-02731-9)
+- [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
+- [Canon R5 Mk Ii Drops Pixel Shift High Res – Is Canon Missing the AI Big Picture?](https://kguttag.com/2024/08/22/canon-r5-mk-ii-drops-pixel-shift-high-res-is-canon-missing-the-ai-big-picture/)
+- [BMW Overtakes Tesla in European EV Sales for First Time](https://electriccarsreport.com/2024/08/bmw-overtakes-tesla-in-european-ev-sales-for-first-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
