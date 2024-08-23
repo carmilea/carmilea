@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ex-bank CEO gets 24 years after falling for crypto scam, causing bank collapse](https://arstechnica.com/tech-policy/2024/08/ex-bank-ceo-gets-24-years-after-falling-for-crypto-scam-causing-bank-collapse/)
+- [Is your website Secure!](https://inspect.new)
 - [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
 - [Confessions of a Theoretical Physicist](https://nautil.us/confessions-of-a-theoretical-physicist-787199/)
-- [EPUBCheck – The official conformance checker for ePub publications](https://github.com/w3c/epubcheck)
-- [Leveraging AI for efficient incident response](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/)
+- [About the browser choice screen in the EU](https://developer.apple.com/support/browser-choice-screen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
