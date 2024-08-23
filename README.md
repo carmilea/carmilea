@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nanolog supports logging with 7 ns median latency](https://github.com/PlatformLab/NanoLog)
 - [Companies ground Microsoft Copilot over data governance concerns](https://www.theregister.com/2024/08/21/microsoft_ai_copilots/)
-- [Outsourcing Cost Boeing Billions &lpar;2019&rpar;](https://medium.com/javascript-scene/why-cutting-costs-is-expensive-how-9-hour-software-engineers-cost-boeing-billions-b76dbe571957)
-- [Facebook Helped the FBI Exploit Vulnerability in a Secure Linux Distro](https://gizmodo.com/report-facebook-helped-the-fbi-exploit-vulnerability-i-1843988377)
+- [NGI Taler](https://nlnet.nl/taler/)
 - [Show HN: Ruroco – like port knocking, but better](https://github.com/beac0n/ruroco)
 - [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
 <!-- BLOG-POST-LIST:END -->
