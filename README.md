@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What does it mean to be a programming language, anyhow? &lpar;2021&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/3480947)
+- [Cursor Has Raised $60M](https://www.cursor.com/blog/series-a)
+- [Show HN: Kardinal – Building light-weight Kubernetes dev ephemeral environments](https://kardinal.dev/)
 - [What&#39;s Going on in Machine Learning? Some Minimal Models](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/)
 - [Climate policies that achieved major emission reductions](https://www.science.org/doi/10.1126/science.adl6547)
 - [Python&#39;s Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
-- [Launch HN: AnswerGrid &lpar;YC S24&rpar; – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
