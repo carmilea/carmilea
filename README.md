@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Surfer: Centralize all your personal data from online platforms](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
 - [Cursor Has Raised $60M](https://www.cursor.com/blog/series-a)
 - [Show HN: Kardinal – Building light-weight Kubernetes dev ephemeral environments](https://kardinal.dev/)
-- [What&#39;s Going on in Machine Learning? Some Minimal Models](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/)
-- [Climate policies that achieved major emission reductions](https://www.science.org/doi/10.1126/science.adl6547)
-- [Python&#39;s Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
+- [Is AI eating all the energy?](https://blog.giovanh.com/blog/2024/08/18/is-ai-eating-all-the-energy-part-1-of-2/)
+- [StructuredRAG: JSON Response Formatting with Large Language Models](https://arxiv.org/abs/2408.11061)
 <!-- BLOG-POST-LIST:END -->
 
 ---
