@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Roboflow &lpar;YC S20&rpar; is hiring an ML Engineer to democratize computer vision](https://www.ycombinator.com/companies/roboflow/jobs/Hz7YcFa-full-stack-machine-learning-engineer)
+- [Cautionary tale on using Chase bank for indie business](https://jxnl.co/writing/2024/09/21/chase-bank-small-business-nightmare/)
+- [Amazon is bricking primary feature on $160 Echo device after 1 year](https://arstechnica.com/gadgets/2024/08/amazon-is-bricking-primary-feature-on-160-echo-device-after-1-year/)
+- [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
 - [AI photo editing raises trust issues in photography](https://www.theverge.com/2024/8/22/24225972/ai-photo-era-what-is-reality-google-pixel-9)
-- [DOJ Sues RealPage for Algorithmic Pricing Scheme That Harms Renters](https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters)
-- [Pierre Cartier Has Died](https://www.lemonde.fr/disparitions/article/2024/08/19/pierre-cartier-mathematicien-francais-est-mort_6286756_3382.html)
-- [Launch HN: Moonglow &lpar;YC S24&rpar; – Serverless Jupyter Notebooks](https://news.ycombinator.com/item?id=41329750)
-- [SurrealEngine: Open-source reimplementation of Unreal Engine with playable UT99](https://github.com/dpjudas/SurrealEngine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
