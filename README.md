@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Nanolog supports logging with 7 ns median latency](https://github.com/PlatformLab/NanoLog)
 - [Companies ground Microsoft Copilot over data governance concerns](https://www.theregister.com/2024/08/21/microsoft_ai_copilots/)
-- [NGI Taler](https://nlnet.nl/taler/)
+- [Apple Adopts 6 of OWA&#39;s Browser Choice Architecture Recommendations](https://open-web-advocacy.org/blog/apple-adopts-6-owa-choice-architecture-recommendations/)
 - [Show HN: Ruroco – like port knocking, but better](https://github.com/beac0n/ruroco)
 - [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
 <!-- BLOG-POST-LIST:END -->
