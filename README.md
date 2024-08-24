@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
 - [Open-Source AI necklace like Friend](https://github.com/BasedHardware/Omi)
 - [Lactate helps cancer cells resist chemotherapy](https://www.nature.com/articles/d41586-024-02731-9)
 - [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
 - [Canon R5 Mk Ii Drops Pixel Shift High Res – Is Canon Missing the AI Big Picture?](https://kguttag.com/2024/08/22/canon-r5-mk-ii-drops-pixel-shift-high-res-is-canon-missing-the-ai-big-picture/)
-- [BMW Overtakes Tesla in European EV Sales for First Time](https://electriccarsreport.com/2024/08/bmw-overtakes-tesla-in-european-ev-sales-for-first-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
