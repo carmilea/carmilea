@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla starts scrubbing its Full Self Driving claims from official website](https://twitter.com/AdrianSumBond/status/1827105729859473773)
+- [An Overview of Datalog](https://clojure.github.io/clojure-contrib/doc/datalog.html)
+- [Ask HN: Struggle with project ideas? Heres some novel ideas you can build now](https://news.ycombinator.com/item?id=41334802)
 - [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
 - [Open-Source AI necklace like Friend](https://github.com/BasedHardware/Omi)
-- [Lactate helps cancer cells resist chemotherapy](https://www.nature.com/articles/d41586-024-02731-9)
-- [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
-- [Canon R5 Mk Ii Drops Pixel Shift High Res – Is Canon Missing the AI Big Picture?](https://kguttag.com/2024/08/22/canon-r5-mk-ii-drops-pixel-shift-high-res-is-canon-missing-the-ai-big-picture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
