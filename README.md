@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [With Power Comes Great Responsibility Platforms Want to Be Utilities &lpar;2021&rpar;](https://www.eff.org/deeplinks/2021/08/utilities-governed-empires)
 - [NASA Decides to Bring Starliner Spacecraft Back to Earth Without Crew](https://www.nasa.gov/news-release/nasa-decides-to-bring-starliner-spacecraft-back-to-earth-without-crew/)
 - [Golang Interpreter Written in PHP](https://github.com/tuqqu/go-php)
 - [NASA announces Boeing Starliner crew will return on SpaceX Crew-9](https://twitter.com/NASA/status/1827393397939634503)
 - [OneText &lpar;YC W23&rpar; Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/onetext/jobs/B1RIFNb-founding-chief-of-staff)
+- [Biorecap: An R package for summarizing bioRxiv preprints with a local LLM](https://blog.stephenturner.us/p/biorecap-r-package-for-summarizing-biorxiv-preprints-local-llm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
