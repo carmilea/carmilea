@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Contempt for the Glue People](https://surfingcomplexity.blog/2021/08/28/contempt-for-the-glue-people/)
+- [A $10k stipend is available for anyone moving to Cumberland, MD](https://www.ci.cumberland.md.us/1787/Choose-Cumberland-Relocation-Program)
+- [SCOTUS could deal another blow to climate action](https://www.theverge.com/2024/8/23/24226042/scotus-epa-clean-power-coal-plants-pause-rule)
+- [Against all odds, an asteroid mining company appears to be making headway](https://arstechnica.com/space/2024/08/against-all-odds-an-asteroid-mining-company-appears-to-be-making-headway/)
 - [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
-- [Ask HN: What&#39;s your experience with Cursor and Sonnet 3.5 for coding?](https://news.ycombinator.com/item?id=41337542)
-- [They don&#39;t make &#39;em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
 - [Hot Page – a graphical site builder](https://hot.page/)
 <!-- BLOG-POST-LIST:END -->
 
