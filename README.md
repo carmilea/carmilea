@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [48% less emissions if Germany had invested in nuclear &lpar;2002-2022&rpar;](https://www.tandfonline.com/doi/full/10.1080/14786451.2024.2355642)
-- [Japan on edge of EUV lithography chip-making revolution](https://asiatimes.com/2024/08/japan-on-edge-of-euv-lithography-chip-making-revolution/)
-- [Reddit banned me for developing Geddit](https://www.buzl.uk/2024/08/24/reddit.html)
-- [Ircpipe – Netcat for IRC](https://gir.st/ircpipe.html)
-- [An Overview of Datalog &lpar;2010&rpar;](https://clojure.github.io/clojure-contrib/doc/datalog.html)
+- [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+- [They don&#39;t make &#39;em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
+- [Hot Page – a graphical site builder](https://hot.page/)
+- [Sabotage Confirmed at Norwegian Air Base](https://www.twz.com/air/sabotage-confirmed-at-norwegian-air-base)
+- [Observe HN: ChatGPT Fills in My Memory](https://news.ycombinator.com/item?id=41337271)
 <!-- BLOG-POST-LIST:END -->
 
 ---
