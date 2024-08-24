@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [iPhone 16 could let you shoot in JPEG-XL](https://www.idownloadblog.com/2024/08/22/iphone-16-jpeg-xl-rumor/)
 - [An Overview of Datalog &lpar;2010&rpar;](https://clojure.github.io/clojure-contrib/doc/datalog.html)
+- [Makefiles for Web Work &lpar;2022&rpar;](https://rosszurowski.com/log/2022/makefiles)
 - [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
 - [Show HN: Omi – Open-source AI wearable for capturing conversations](https://github.com/BasedHardware/Omi)
-- [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
