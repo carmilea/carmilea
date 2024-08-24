@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneText &lpar;YC W23&rpar; Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/onetext/jobs/B1RIFNb-founding-chief-of-staff)
+- [JavaScript Dates Are About to Be Fixed](https://docs.timetime.in/blog/js-dates-finally-fixed)
+- [Show HN: Visualize database schemas with a single query](https://github.com/chartdb/chartdb)
 - [Death Cafe](https://deathcafe.com/what/)
 - [Pipe Syntax in SQL](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/)
-- [Small Strings in Rust: smolstr vs. smartstring](https://fasterthanli.me/articles/small-strings-in-rust)
-- [You Are Not Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
-- [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
