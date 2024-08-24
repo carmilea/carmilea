@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla starts scrubbing its Full Self Driving claims from official website](https://twitter.com/AdrianSumBond/status/1827105729859473773)
+- [Tesla has taken down 2016 release noting full self driving hardware capability](https://twitter.com/AdrianSumBond/status/1827105729859473773)
+- [iPhone 16 could let you shoot in JPEG-XL](https://www.idownloadblog.com/2024/08/22/iphone-16-jpeg-xl-rumor/)
 - [An Overview of Datalog](https://clojure.github.io/clojure-contrib/doc/datalog.html)
-- [Ask HN: Struggle with project ideas? Heres some novel ideas you can build now](https://news.ycombinator.com/item?id=41334802)
 - [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
-- [Open-Source AI necklace like Friend](https://github.com/BasedHardware/Omi)
+- [Omi – Open-source AI wearable for capturing conversations](https://github.com/BasedHardware/Omi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
