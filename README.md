@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit banned me for developing Geddit](https://www.buzl.uk/2024/08/24/reddit.html)
 - [Ircpipe – Netcat for IRC](https://gir.st/ircpipe.html)
 - [An Overview of Datalog &lpar;2010&rpar;](https://clojure.github.io/clojure-contrib/doc/datalog.html)
 - [Makefiles for Web Work &lpar;2022&rpar;](https://rosszurowski.com/log/2022/makefiles)
 - [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
-- [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
