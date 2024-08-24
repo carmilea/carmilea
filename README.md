@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Contempt for the Glue People](https://surfingcomplexity.blog/2021/08/28/contempt-for-the-glue-people/)
 - [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+- [Ask HN: What&#39;s your experience with Cursor and Sonnet 3.5 for coding?](https://news.ycombinator.com/item?id=41337542)
 - [They don&#39;t make &#39;em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
 - [Hot Page – a graphical site builder](https://hot.page/)
-- [Sabotage Confirmed at Norwegian Air Base](https://www.twz.com/air/sabotage-confirmed-at-norwegian-air-base)
-- [Observe HN: ChatGPT Fills in My Memory](https://news.ycombinator.com/item?id=41337271)
 <!-- BLOG-POST-LIST:END -->
 
 ---
