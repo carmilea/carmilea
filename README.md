@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The art of programming and why I won&#39;t use LLM](https://kennethnym.com/blog/why-i-still-wont-use-llm/)
-- [Bananas almost went extinct 70 years ago – Now a deadly fungus is trying again](https://studyfinds.org/bananas-extinct-deadly-fungus/)
-- [Man Arrested for Creating Child Porn Using AI](https://futurism.com/the-byte/man-arrested-csam-ai)
+- [Fair Source licensing is the worst thing to happen to open source-definitely ma](https://web.archive.org/web/20211107170119/https://www.techrepublic.com/article/fair-source-licensing-is-the-worst-thing-to-happen-to-open-source-definitely-maybe/)
 - [Lidl&#39;s Cloud Gambit: Europe&#39;s Shift to Sovereign Computing](https://horovits.medium.com/lidl-is-taking-on-aws-the-age-of-eurocloud-b237258e3311)
 - [BuffDB is a Rust library to simplify multi-plexing on edge devices](https://github.com/buffdb/buffdb)
+- [Finding a therapist who takes your insurance can be nearly impossible](https://www.npr.org/sections/shots-health-news/2024/08/24/nx-s1-5028551/insurance-therapy-therapist-mental-health-coverage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
