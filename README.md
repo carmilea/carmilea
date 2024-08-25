@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Looming Liability Machines &lpar;LLMs&rpar;](http://muratbuffalo.blogspot.com/2024/08/looming-liability-machines.html)
+- [Defenders think in lists, attackers think in graphs &lpar;2015&rpar;](https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md)
 - [Ask HN: What are you working on &lpar;August 2024&rpar;?](https://news.ycombinator.com/item?id=41342017)
+- [Birds aren&#39;t real – how to create your own &quot;bird&quot;](https://www.lampysecurity.com/post/birds-aren-t-real-how-to-create-your-own-bird)
 - [Papersway – a scrollable window management for Sway/i3wm](https://spwhitton.name/tech/code/papersway/)
-- [AMD&#39;s Radeon 890M: Strix Point&#39;s Bigger iGPU](https://chipsandcheese.com/2024/08/24/amds-radeon-890m-strix-points-bigger-igpu/)
-- [Telegram founder Pavel Durov arrested at French airport](https://www.theguardian.com/media/article/2024/aug/24/telegram-app-founder-pavel-durov-arrested-at-french-airport)
-- [The Vital Necessity of Old Books &lpar;2023&rpar;](https://www.millersbookreview.com/p/vital-necessity-of-very-old-books)
 <!-- BLOG-POST-LIST:END -->
 
 ---
