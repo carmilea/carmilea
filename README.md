@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists achieve more than 98% efficiency removing nanoplastics from water](https://showme.missouri.edu/2024/mizzou-scientists-achieve-more-than-98-efficiency-removing-nanoplastics-from-water/)
-- [NASA&#39;s Starliner decision was the right one, but it&#39;s a crushing blow for Boeing](https://arstechnica.com/space/2024/08/after-latest-starliner-setback-will-boeing-ever-deliver-on-its-crew-contract/)
+- [Strandbeest](https://www.strandbeest.com/)
 - [Sticker on caption phone says that using the captions can be illegal. Why?](https://law.stackexchange.com/questions/104642/sticker-on-caption-phone-says-that-using-the-captions-can-be-illegal-why)
+- [Guide to Error Handling in Rust](https://www.howtocodeit.com/articles/the-definitive-guide-to-rust-error-handling)
 - [Neurotechnology numbers worth knowing &lpar;2022&rpar;](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
 - [Ruby&#39;s official documentation just got a new look](https://docs.ruby-lang.org/en/master/)
 <!-- BLOG-POST-LIST:END -->
