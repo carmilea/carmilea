@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Essays: NSA Surveillance: A Guide to Staying Secure – Schneier on Security](https://www.schneier.com/essays/archives/2013/09/nsa_surveillance_a_g.html)
-- [Is Telegram really an encrypted messaging app?](https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/)
-- [Telegram: We abide by EU laws, including the Digital Services Act](https://twitter.com/telegram/status/1827787345367834772)
-- [Los Angeles is in a 4-year sprint to deliver a car-free 2028 Olympics](https://theconversation.com/los-angeles-is-in-a-4-year-sprint-to-deliver-a-car-free-2028-olympics-236925)
-- [TIL: Versions of UUID and when to use them](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/)
+- [Database &quot;sharding&quot; came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
+- [The Power of Attraction: How Beauty Influences Startup Investments](https://www.unisg.ch/en/newsdetail/news/the-power-of-attraction-study-about-attractiveness-bias/)
+- [Fermi Resonance and the Quantum Mechanical Basis of Global Warming](https://iopscience.iop.org/article/10.3847/PSJ/ad226d)
+- [Big Pharma claims lower prices means giving up miracle medications. Ignore them](https://www.vox.com/future-perfect/368538/medicare-drug-prices-pharma-negotiations-innovation)
+- [MacOS X Malware Development](https://0xf00sec.github.io/0x1A)
 <!-- BLOG-POST-LIST:END -->
 
 ---
