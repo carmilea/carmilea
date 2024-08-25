@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lidl&#39;s Cloud Gambit: Europe&#39;s Shift to Sovereign Computing](https://horovits.medium.com/lidl-is-taking-on-aws-the-age-of-eurocloud-b237258e3311)
 - [Finding a therapist who takes your insurance can be nearly impossible](https://www.npr.org/sections/shots-health-news/2024/08/24/nx-s1-5028551/insurance-therapy-therapist-mental-health-coverage)
-- [Apple Explores Robotics in Search of Life Beyond the iPhone](https://www.bloomberg.com/news/newsletters/2024-08-25/apple-plans-tabletop-robot-while-exploring-mobile-bots-and-humanoid-machines-m09kawex)
-- [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/)
-- [Study: Air purifier use at daycare centres cut kids&#39; sick days by a third &lpar;2023&rpar;](https://yle.fi/a/74-20062381)
-- [Strandbeest](https://www.strandbeest.com/)
+- [Apple Approves iDOS Emulator](https://www.theverge.com/2024/8/12/24218754/apple-idos-3-app-store-pc-emulator-rule-change)
+- [Emulating the Early Macintosh Floppy Drive](https://thomasw.dev/post/mac-floppy-emu/)
+- [Rnote – Sketch and take handwritten notes](https://github.com/flxzt/rnote)
 <!-- BLOG-POST-LIST:END -->
 
 ---
