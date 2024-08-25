@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How a flawed idea is teaching kids to be poor readers](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
 - [Neurotechnology Numbers Worth Knowing](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
+- [Ruby&#39;s official documentation just got a new look](https://docs.ruby-lang.org/en/master/)
 - [Transfer energy from nitrogen to argon enables 2-wayl cascaded lasing in air](https://phys.org/news/2024-08-mechanism-energy-nitrogen-argon-enables.html)
-- [Serpent OS Prealpha0 Released](https://serpentos.com/blog/2024/08/01/serpent-os-prealpha0-released/)
-- [Looming Liability Machines &lpar;LLMs&rpar;](http://muratbuffalo.blogspot.com/2024/08/looming-liability-machines.html)
-- [Defenders think in lists, attackers think in graphs &lpar;2015&rpar;](https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md)
+- [Anthropic Claude 3.5 can create icalendar files, so I did this](https://gregsramblings.com/stupid-but-useful-ai-tricks-creating-calendar-entries-from-an-image-using-anthropic-claude-35)
 <!-- BLOG-POST-LIST:END -->
 
 ---
