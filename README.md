@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Strandbeest](https://www.strandbeest.com/)
 - [Sticker on caption phone says that using the captions can be illegal. Why?](https://law.stackexchange.com/questions/104642/sticker-on-caption-phone-says-that-using-the-captions-can-be-illegal-why)
-- [Guide to Error Handling in Rust](https://www.howtocodeit.com/articles/the-definitive-guide-to-rust-error-handling)
 - [Neurotechnology numbers worth knowing &lpar;2022&rpar;](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
 - [Ruby&#39;s official documentation just got a new look](https://docs.ruby-lang.org/en/master/)
+- [Transferring energy from nitrogen to argon enables 2-way cascaded lasing in air](https://phys.org/news/2024-08-mechanism-energy-nitrogen-argon-enables.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
