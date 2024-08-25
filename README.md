@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding a therapist who takes your insurance can be nearly impossible](https://www.npr.org/sections/shots-health-news/2024/08/24/nx-s1-5028551/insurance-therapy-therapist-mental-health-coverage)
+- [Apple Explores Robotics in Search of Life Beyond the iPhone](https://www.bloomberg.com/news/newsletters/2024-08-25/apple-plans-tabletop-robot-while-exploring-mobile-bots-and-humanoid-machines-m09kawex)
+- [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/)
+- [Study: Air purifier use at daycare centres cut kids&#39; sick days by a third &lpar;2023&rpar;](https://yle.fi/a/74-20062381)
 - [Strandbeest](https://www.strandbeest.com/)
-- [Sticker on caption phone says that using the captions can be illegal. Why?](https://law.stackexchange.com/questions/104642/sticker-on-caption-phone-says-that-using-the-captions-can-be-illegal-why)
-- [Neurotechnology numbers worth knowing &lpar;2022&rpar;](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
-- [Ruby&#39;s official documentation just got a new look](https://docs.ruby-lang.org/en/master/)
-- [Transferring energy from nitrogen to argon enables 2-way cascaded lasing in air](https://phys.org/news/2024-08-mechanism-energy-nitrogen-argon-enables.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
