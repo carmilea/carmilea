@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Four Stages of Competence](https://en.wikipedia.org/wiki/Four_stages_of_competence)
+- [Why Everything Is CRUD](https://blog.smartclient.com/why-everything-is-crud/)
+- [Association of the &quot;Weekend Warrior&quot; Physical Activity Patterns with Mortality](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2794038)
+- [Show HN: Ward – a file vault written in bash](https://github.com/oeo/ward)
 - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
-- [Open-Source Cola](https://en.wikipedia.org/wiki/Open-source_cola)
-- [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
-- [Server Setup Basics for Self Hosting](https://becomesovran.com/blog/server-setup-basics.html)
-- [Senior Intel CPU architects splinter to develop RISC-V processors](https://www.tomshardware.com/tech-industry/senior-intel-cpu-architects-splinter-to-develop-risc-v-processors-veterans-establish-aheadcomputing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
