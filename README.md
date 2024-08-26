@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple to Replace CFO Luca Maestri on Jan. 1](https://www.cnbc.com/2024/08/26/apple-to-replace-cfo-luca-maestri-on-jan-1.html)
+- [Blood Pressure Control Should Focus on More Potassium &lpar;2023&rpar;](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.123.20545)
+- [Many FDA-approved AI medical devices are not trained on real patient data](https://medicalxpress.com/news/2024-08-fda-ai-medical-devices-real.html)
 - [The Big Fringe Telescope](https://arxiv.org/abs/2408.01386)
 - [Roame &lpar;YC S23&rpar; Is Hiring an iOS Founding Engineer](https://www.ycombinator.com/companies/roame/jobs/e8G5FJF-founding-ios-engineer)
-- [Erasure Coding for Distributed Systems](https://transactional.blog/blog/2024-erasure-coding)
-- [How We Built a High-Performance Hybrid Search Using SingleStore in a Full-Stack Gen AI App](https://www.singlestore.com/blog/high-performance-hybrid-search-using-singlestore-full-stack-gen-ai-app)
-- [Engineers develop new two-dimensional, low-power- field-effect transistor](https://techxplore.com/news/2024-08-dimensional-power-consumption-field-effect.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
