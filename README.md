@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Love Them or Hate Them, This Couple Reign in Russian Literature](https://www.nytimes.com/2024/08/26/books/larissa-volokhonsky-richard-pevear.html)
-- [US dismantles laptop farm used by undercover North Korean IT workers](https://www.bleepingcomputer.com/news/security/us-dismantles-laptop-farm-used-by-undercover-north-korean-it-workers/)
-- [IKEA launches secondhand marketplace to compete with eBay](https://www.ft.com/content/4b18236f-f2f0-43eb-bb65-5f8d2f30a734)
+- [Apple Intelligence is coming. Here&#39;s what it means for your iPhone](https://www.theguardian.com/technology/article/2024/aug/24/apple-intelligence-iphone-ios-18-siri-chat-gpt-launch)
+- [Mozilla removes telemetry service Adjust from mobile Firefox versions](https://www.techzine.eu/news/privacy-compliance/123726/mozilla-removes-telemetry-service-adjust-from-mobile-firefox-versions/)
+- [Love them or hate them, this couple reign in Russian literature](https://www.nytimes.com/2024/08/26/books/larissa-volokhonsky-richard-pevear.html)
 - [Activeloop &lpar;YC S18&rpar; Seeks an AI Search Engineer to Build Most Accurate Search](https://careers.activeloop.ai/?ashby_jid=0b60f11e-1775-4aed-9a2e-f44df0f3da0c)
 - [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
 <!-- BLOG-POST-LIST:END -->
