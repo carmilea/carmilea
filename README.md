@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber fined €290M &lpar;$324M&rpar; in Netherlands for sending drivers&#39; data to the US](https://www.reuters.com/technology/cybersecurity/dutch-privacy-watchdog-fines-uber-sending-drivers-data-us-2024-08-26/)
 - [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
-- [Show HN: Ward – a file vault written in bash](https://github.com/oeo/ward)
+- [Dutch DPA fines Uber 290M euro because of transfers of drivers&#39; data to the US](https://www.autoriteitpersoonsgegevens.nl/en/current/dutch-dpa-imposes-a-fine-of-290-million-euro-on-uber-because-of-transfers-of-drivers-data-to-the-us)
+- [A Jenga tower about to collapse: Software erosion is happening all around us](https://www.techradar.com/pro/software-erosion-is-happening-all-around-us)
 - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
 - [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
 <!-- BLOG-POST-LIST:END -->
