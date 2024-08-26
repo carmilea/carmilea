@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mystics of Progress](https://isaacyoung.substack.com/p/the-mystics-of-progress)
-- [DOJ Files Antitrust Suit Against RealPage, Maker of Rent-Setting Algorithm](https://www.propublica.org/article/realpage-lawsuit-doj-antitrustdoj-files-antitrust-suit-against-maker-of-rent-setting-algorithm)
-- [New study reveals loophole in digital wallets–even if cardholder doesn&#39;t use one](https://techxplore.com/news/2024-08-reveals-loophole-digital-wallet-rightful.html)
-- [Love them or hate them, this couple reign in Russian literature](https://www.nytimes.com/2024/08/26/books/larissa-volokhonsky-richard-pevear.html)
-- [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/)
+- [A Massachusetts town closes its parks to stop a mosquito-borne disease](https://www.npr.org/2024/08/26/nx-s1-5089737/massachusetts-mosquito-disease-parks-fatal)
+- [Make your health insurance company cry: One woman&#39;s fight to turn the tables](https://sfstandard.com/2024/08/23/holden-karau-fight-health-insurance-appeal-claims-denials/)
+- [Dokku: My favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
+- [Linux: We need tiling desktop environments](https://linuxblog.io/linux-tiling-desktop-environments/)
+- [Launch HN: Parity &lpar;YC S24&rpar; – AI for on-call engineers working with Kubernetes](https://news.ycombinator.com/item?id=41357765)
 <!-- BLOG-POST-LIST:END -->
 
 ---
