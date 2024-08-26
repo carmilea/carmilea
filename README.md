@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Four Stages of Competence](https://en.wikipedia.org/wiki/Four_stages_of_competence)
-- [Why Everything Is CRUD](https://blog.smartclient.com/why-everything-is-crud/)
-- [Association of the &quot;Weekend Warrior&quot; Physical Activity Patterns with Mortality](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2794038)
+- [Investing for Anyone: a low-stress and effective way to invest your savings](https://blog.strnisa.com/p/investing-for-anyone)
+- [A Jenga tower about to collapse: Software erosion is happening all around us](https://www.techradar.com/pro/software-erosion-is-happening-all-around-us)
 - [Show HN: Ward – a file vault written in bash](https://github.com/oeo/ward)
 - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
+- [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
