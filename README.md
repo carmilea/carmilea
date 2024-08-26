@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Intelligence is coming. Here&#39;s what it means for your iPhone](https://www.theguardian.com/technology/article/2024/aug/24/apple-intelligence-iphone-ios-18-siri-chat-gpt-launch)
-- [Mozilla removes telemetry service Adjust from mobile Firefox versions](https://www.techzine.eu/news/privacy-compliance/123726/mozilla-removes-telemetry-service-adjust-from-mobile-firefox-versions/)
+- [The Mystics of Progress](https://isaacyoung.substack.com/p/the-mystics-of-progress)
+- [DOJ Files Antitrust Suit Against RealPage, Maker of Rent-Setting Algorithm](https://www.propublica.org/article/realpage-lawsuit-doj-antitrustdoj-files-antitrust-suit-against-maker-of-rent-setting-algorithm)
+- [New study reveals loophole in digital wallets–even if cardholder doesn&#39;t use one](https://techxplore.com/news/2024-08-reveals-loophole-digital-wallet-rightful.html)
 - [Love them or hate them, this couple reign in Russian literature](https://www.nytimes.com/2024/08/26/books/larissa-volokhonsky-richard-pevear.html)
-- [Activeloop &lpar;YC S18&rpar; Seeks an AI Search Engineer to Build Most Accurate Search](https://careers.activeloop.ai/?ashby_jid=0b60f11e-1775-4aed-9a2e-f44df0f3da0c)
-- [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
+- [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
