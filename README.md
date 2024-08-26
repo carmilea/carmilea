@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Arrest of Pavel Durov Is a Reminder That Telegram Is Not Encrypted](https://gizmodo.com/the-arrest-of-pavel-durov-is-a-reminder-that-telegram-is-not-encrypted-2000490960)
-- [IOGraphica](https://iographica.com/)
-- [ProhostAI &lpar;YC S24&rpar; Is Hiring an iOS Engineer &lpar;SF&rpar;](https://www.ycombinator.com/companies/prohostai/jobs/if61XBq-founding-engineer-ios)
-- [Eating the Birds of America: Audubon&#39;s Culinary Reviews of America&#39;s Birds](https://usbirdhistory.com/audubon-eating-americas-birds/)
-- [Cops are using AI chatbots to write crime reports. Will they hold up in court?](https://apnews.com/article/ai-writes-police-reports-axon-body-cameras-chatgpt-a24d1502b53faae4be0dac069243f418)
+- [The $16K Humanoid Robot Leaping into Production [video]](https://www.youtube.com/watch?v=y2KF2DnvN9Y)
+- [Crypto tax evasion is &#39;pervasive&#39;](https://www.ft.com/content/5707abb8-fb86-4b3d-b7e0-4bc716c12b36)
+- [Oxford&#39;s Philosophy of Mathematics YouTube series [video]](https://www.youtube.com/watch?v=uo1xDbsYAcU&list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z)
+- [Snowden: The arrest of Durov is an assault on the basic human rights](https://twitter.com/Snowden/status/1827695836832334169)
+- [Engineers develop new two-dimensional, low-power- field-effect transistor](https://techxplore.com/news/2024-08-dimensional-power-consumption-field-effect.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
