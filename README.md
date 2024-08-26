@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Australian employees now have the right to ignore work emails, calls after hours](https://www.reuters.com/world/asia-pacific/australian-employees-now-have-right-ignore-work-emails-calls-after-hours-2024-08-25/)
 - [Realistic Synthetic UGC: A Scaffolding Approach to Generating Online Discussions](https://arxiv.org/abs/2408.08379)
+- [Pavel Durov and the Blackberry Ratchet](https://www.oblomovka.com/wp/2024/08/25/pavel-durov-and-the-blackberry-ratchet/)
 - [Police Chief Says Cops Have a 5th Amendment Right to Leave Body Cameras Off](https://reason.com/2024/08/23/albuquerques-police-chief-thinks-cops-have-a-5th-amendment-right-to-leave-their-body-cameras-off/)
 - [Rollstack &lpar;YC W23&rpar; Is Hiring TypeScript Engineers – US/Canada &lpar;East Coast Only&rpar;](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-middle-senior-software-engineer-typescript-us-canada-east-coast-only)
-- [Why am I writing a Rust compiler in C?](https://notgull.net/announcing-dozer/)
-- [Pi Pico 2 Extreme Teardown](http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
