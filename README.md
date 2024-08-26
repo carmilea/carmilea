@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Activeloop &lpar;YC S18&rpar; Seeks an AI Search Engineer to Build Most Accurate Search](https://careers.activeloop.ai/?ashby_jid=0b60f11e-1775-4aed-9a2e-f44df0f3da0c)
+- [13 Years of Building Infrastructure Control Planes in Ruby](https://www.ubicloud.com/blog/building-infrastructure-control-planes-in-ruby)
 - [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
 - [Dutch DPA fines Uber 290M euro because of transfers of drivers&#39; data to the US](https://www.autoriteitpersoonsgegevens.nl/en/current/dutch-dpa-imposes-a-fine-of-290-million-euro-on-uber-because-of-transfers-of-drivers-data-to-the-us)
-- [A Jenga tower about to collapse: Software erosion is happening all around us](https://www.techradar.com/pro/software-erosion-is-happening-all-around-us)
 - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
-- [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
