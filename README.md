@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Australian employees now have the right to ignore work emails, calls after hours](https://www.reuters.com/world/asia-pacific/australian-employees-now-have-right-ignore-work-emails-calls-after-hours-2024-08-25/)
-- [Realistic Synthetic UGC: A Scaffolding Approach to Generating Online Discussions](https://arxiv.org/abs/2408.08379)
-- [Pavel Durov and the Blackberry Ratchet](https://www.oblomovka.com/wp/2024/08/25/pavel-durov-and-the-blackberry-ratchet/)
-- [Police Chief Says Cops Have a 5th Amendment Right to Leave Body Cameras Off](https://reason.com/2024/08/23/albuquerques-police-chief-thinks-cops-have-a-5th-amendment-right-to-leave-their-body-cameras-off/)
-- [Rollstack &lpar;YC W23&rpar; Is Hiring TypeScript Engineers – US/Canada &lpar;East Coast Only&rpar;](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-middle-senior-software-engineer-typescript-us-canada-east-coast-only)
+- [Yes, Crypto Is All a Scam](https://www.stephendiehl.com/blog/crypto-is-a-scam.html)
+- [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
+- [Senior Intel CPU architects splinter to develop RISC-V processors](https://www.tomshardware.com/tech-industry/senior-intel-cpu-architects-splinter-to-develop-risc-v-processors-veterans-establish-aheadcomputing)
+- [We found North Korean engineers in our application pile. Here&#39;s what we did](https://www.cinder.co/blog-posts/north-korean-engineers-in-our-application-pile)
+- [Uber loses New Zealand appeal, court rules drivers are employees not contractors](https://www.nzherald.co.nz/business/uber-loses-landmark-appeal-court-rules-drivers-are-employees-not-contractors/JDXF52QBBBHPJIQJNFNGYC4JOE/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
