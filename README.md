@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman doesn&#39;t care about you](https://disconnect.blog/sam-altman-doesnt-care-about-you/)
+- [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
 - [Open-Source Cola](https://en.wikipedia.org/wiki/Open-source_cola)
 - [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
 - [Server Setup Basics for Self Hosting](https://becomesovran.com/blog/server-setup-basics.html)
