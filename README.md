@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman doesn&#39;t care about you](https://disconnect.blog/sam-altman-doesnt-care-about-you/)
 - [Open-Source Cola](https://en.wikipedia.org/wiki/Open-source_cola)
 - [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
 - [Server Setup Basics for Self Hosting](https://becomesovran.com/blog/server-setup-basics.html)
 - [Senior Intel CPU architects splinter to develop RISC-V processors](https://www.tomshardware.com/tech-industry/senior-intel-cpu-architects-splinter-to-develop-risc-v-processors-veterans-establish-aheadcomputing)
-- [We found North Korean engineers in our application pile](https://www.cinder.co/blog-posts/north-korean-engineers-in-our-application-pile)
 <!-- BLOG-POST-LIST:END -->
 
 ---
