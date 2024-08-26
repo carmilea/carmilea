@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The $16K Humanoid Robot Leaping into Production [video]](https://www.youtube.com/watch?v=y2KF2DnvN9Y)
-- [Crypto tax evasion is &#39;pervasive&#39;](https://www.ft.com/content/5707abb8-fb86-4b3d-b7e0-4bc716c12b36)
-- [Oxford&#39;s Philosophy of Mathematics YouTube series [video]](https://www.youtube.com/watch?v=uo1xDbsYAcU&list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z)
-- [Snowden: The arrest of Durov is an assault on the basic human rights](https://twitter.com/Snowden/status/1827695836832334169)
-- [Engineers develop new two-dimensional, low-power- field-effect transistor](https://techxplore.com/news/2024-08-dimensional-power-consumption-field-effect.html)
+- [The Big Fringe Telescope](https://arxiv.org/abs/2408.01386)
+- [Roame &lpar;YC S23&rpar; Is Hiring an iOS Founding Engineer](https://www.ycombinator.com/companies/roame/jobs/e8G5FJF-founding-ios-engineer)
+- [&#39;Terrorgram&#39; Chatrooms Are Fueling a Wave of Power Grid Attacks](https://www.bloomberg.com/news/articles/2024-08-26/far-right-terrorgram-chatrooms-fuel-wave-of-power-grid-attacks)
+- [Cash for catching scientific errors: bug bounties for academic publishing](https://www.nature.com/articles/d41586-024-02681-2)
+- [How We Built a High-Performance Hybrid Search Using SingleStore in a Full-Stack Gen AI App](https://www.singlestore.com/blog/high-performance-hybrid-search-using-singlestore-full-stack-gen-ai-app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
