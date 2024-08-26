@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yes, Crypto Is All a Scam](https://www.stephendiehl.com/blog/crypto-is-a-scam.html)
+- [Open-Source Cola](https://en.wikipedia.org/wiki/Open-source_cola)
 - [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
+- [Server Setup Basics for Self Hosting](https://becomesovran.com/blog/server-setup-basics.html)
 - [Senior Intel CPU architects splinter to develop RISC-V processors](https://www.tomshardware.com/tech-industry/senior-intel-cpu-architects-splinter-to-develop-risc-v-processors-veterans-establish-aheadcomputing)
-- [We found North Korean engineers in our application pile. Here&#39;s what we did](https://www.cinder.co/blog-posts/north-korean-engineers-in-our-application-pile)
-- [Uber loses New Zealand appeal, court rules drivers are employees not contractors](https://www.nzherald.co.nz/business/uber-loses-landmark-appeal-court-rules-drivers-are-employees-not-contractors/JDXF52QBBBHPJIQJNFNGYC4JOE/)
+- [We found North Korean engineers in our application pile](https://www.cinder.co/blog-posts/north-korean-engineers-in-our-application-pile)
 <!-- BLOG-POST-LIST:END -->
 
 ---
