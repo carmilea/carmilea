@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Massachusetts town closes its parks to stop a mosquito-borne disease](https://www.npr.org/2024/08/26/nx-s1-5089737/massachusetts-mosquito-disease-parks-fatal)
-- [Make your health insurance company cry: One woman&#39;s fight to turn the tables](https://sfstandard.com/2024/08/23/holden-karau-fight-health-insurance-appeal-claims-denials/)
-- [Dokku: My favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
-- [Linux: We need tiling desktop environments](https://linuxblog.io/linux-tiling-desktop-environments/)
-- [Launch HN: Parity &lpar;YC S24&rpar; – AI for on-call engineers working with Kubernetes](https://news.ycombinator.com/item?id=41357765)
+- [IOGraphica](https://iographica.com/)
+- [ProhostAI &lpar;YC S24&rpar; Is Hiring an iOS Engineer &lpar;SF&rpar;](https://www.ycombinator.com/companies/prohostai/jobs/if61XBq-founding-engineer-ios)
+- [Eating the Birds of America: Audubon&#39;s Culinary Reviews of America&#39;s Birds](https://usbirdhistory.com/audubon-eating-americas-birds/)
+- [Pavel Durov is questioned on 12 charges [pdf]](https://www.tribunal-de-paris.justice.fr/sites/default/files/2024-08/2024-08-26%20-%20CP%20TELEGRAM%20.pdf)
+- [Show HN: Remove-bg – open-source remove background using WebGPU](https://bannerify.co/tools/remove-bg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
