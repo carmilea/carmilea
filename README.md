@@ -61,8 +61,8 @@
 - [From 14 years old till 29, my experience with desktop Linux](https://blog.myli.page/from-14-years-old-till-29-my-experience-with-desktop-linux-b798d07bcd00)
 - [Harvard and MIT&#39;s $800M Mistake: The Triple Failure of 2U, EdX, and Axim](https://www.classcentral.com/report/2u-edx-bankruptcy/)
 - [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
-- [What the interns have wrought, 2024 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2024-edition-index/)
-- [Marcus Aurelius: On Humility and Duty &lpar;2019&rpar;](https://alifeofvirtue.ca/2019/11/02/marcus-aurelius-on-humility-and-duty/)
+- [The End of Finale](https://www.finalemusic.com/blog/end-of-finale-new-journey-dorico-letter-from-president/)
+- [Many FDA-approved AI medical devices are not trained on real patient data](https://medicalxpress.com/news/2024-08-fda-ai-medical-devices-real.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
