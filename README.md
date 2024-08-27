@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple to Replace CFO Luca Maestri on Jan. 1](https://www.cnbc.com/2024/08/26/apple-to-replace-cfo-luca-maestri-on-jan-1.html)
-- [Blood Pressure Control Should Focus on More Potassium &lpar;2023&rpar;](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.123.20545)
-- [Many FDA-approved AI medical devices are not trained on real patient data](https://medicalxpress.com/news/2024-08-fda-ai-medical-devices-real.html)
-- [The Big Fringe Telescope](https://arxiv.org/abs/2408.01386)
-- [Roame &lpar;YC S23&rpar; Is Hiring an iOS Founding Engineer](https://www.ycombinator.com/companies/roame/jobs/e8G5FJF-founding-ios-engineer)
+- [From 14 years old till 29, my experience with desktop Linux](https://blog.myli.page/from-14-years-old-till-29-my-experience-with-desktop-linux-b798d07bcd00)
+- [Harvard and MIT&#39;s $800M Mistake: The Triple Failure of 2U, EdX, and Axim](https://www.classcentral.com/report/2u-edx-bankruptcy/)
+- [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
+- [What the interns have wrought, 2024 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2024-edition-index/)
+- [Marcus Aurelius: On Humility and Duty &lpar;2019&rpar;](https://alifeofvirtue.ca/2019/11/02/marcus-aurelius-on-humility-and-duty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
