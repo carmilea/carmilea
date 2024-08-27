@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Notes on Buttondown.com](https://jmduke.com/posts/microblog/buttondown-dot-com/)
+- [Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
+- [Anthropic publishes the &#39;system prompts&#39; that make Claude tick](https://techcrunch.com/2024/08/26/anthropic-publishes-the-system-prompt-that-makes-claude-tick/)
 - [Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 - [FreeBSD-rustdate, a reimplementation of FreeBSD-update](https://rustdate.over-yonder.net/)
-- [AI predicts earthquakes with unprecedented accuracy](https://scitechdaily.com/artificial-intelligence-predicts-earthquakes-with-unprecedented-accuracy/)
-- [Qualcomm Oryon CPU Core Design](https://chipsandcheese.com/2024/08/26/hot-chips-2024-qualcomms-oryon-core/)
-- [Harvard and MIT&#39;s $800M Mistake: The Triple Failure of 2U, EdX, and Axim](https://www.classcentral.com/report/2u-edx-bankruptcy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
