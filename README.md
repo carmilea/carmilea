@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tattoo ink sold on Amazon has high levels of weird and rare bacteria](https://arstechnica.com/health/2024/08/tattoo-ink-sold-on-amazon-has-high-levels-of-weird-and-rare-bacteria/)
+- [Should the richest 1% – who gained $42T/decade – be taxed more?](https://www.business-standard.com/world-news/world-s-top-1-gained-42-trillion-in-a-decade-taxes-at-record-lows-oxfam-124072500348_1.html)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [Starliner Is Such a Disaster That Boeing May Cancel the Entire Project](https://futurism.com/starliner-failure-embarrassment-boeing)
 - [5000x Faster CRDTs](https://josephg.com/blog/crdts-go-brrr/)
-- [Taskwarrior – CLI Task Management](https://taskwarrior.org/)
-- [KLEE Symbolic Execution Engine](https://github.com/klee/klee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
