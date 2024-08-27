@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Great Question &lpar;YC W21&rpar; Is Hiring Customer Support Lead](https://www.ycombinator.com/companies/great-question/jobs/zQR17wz-customer-support-lead)
+- [The Myth of the Coder and Programmer](https://cacm.acm.org/opinion/the-myth-of-the-coder/)
+- [80% of AI Projects Crash and Burn, Billions Wasted Says Rand Report](https://salesforcedevops.net/index.php/2024/08/19/ai-apocalypse/)
 - [Sainsbury Wing contractors find 1990 letter from donor](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
 - [Bootstrappable Builds](https://bootstrappable.org)
-- [Caltech, long a bastion of male students, enrolls first class of majority women](https://www.latimes.com/california/story/2024-08-27/caltech-long-male-bastion-to-enroll-majority-women-for-first-time)
-- [Eazel, ex-Apple led Linux startup](https://en.wikipedia.org/wiki/Eazel)
-- [New 0-Day Attacks Linked to China&#39;s &#39;Volt Typhoon&#39;](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
