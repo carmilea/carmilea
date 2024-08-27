@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
+- [FreeBSD-rustdate, a reimplementation of FreeBSD-update](https://rustdate.over-yonder.net/)
 - [AI predicts earthquakes with unprecedented accuracy](https://scitechdaily.com/artificial-intelligence-predicts-earthquakes-with-unprecedented-accuracy/)
+- [Qualcomm Oryon CPU Core Design](https://chipsandcheese.com/2024/08/26/hot-chips-2024-qualcomms-oryon-core/)
 - [Harvard and MIT&#39;s $800M Mistake: The Triple Failure of 2U, EdX, and Axim](https://www.classcentral.com/report/2u-edx-bankruptcy/)
-- [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
-- [The End of Finale](https://www.finalemusic.com/blog/end-of-finale-new-journey-dorico-letter-from-president/)
-- [Many FDA-approved AI medical devices are not trained on real patient data](https://medicalxpress.com/news/2024-08-fda-ai-medical-devices-real.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
