@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Google Fit APIs will no longer be available after June 30, 2025](https://developers.google.com/fit)
-- [Zuckerberg claims regret on caving to White House pressure on content](https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399)
-- [Vanilla Prime: A simpler, more sustainable way of web development](https://github.com/morris/vanilla-prime)
-- [Tinybox of tinygrad by George Hotz is finally entering production](https://twitter.com/realgeorgehotz/status/1828197925874463166)
-- [2023 state of the climate Entering uncharted territory](https://academic.oup.com/bioscience/article/73/12/841/7319571)
+- [QuestDB &lpar;YC S20&rpar; Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
+- [How do you make safe, cheap nuclear reactors? Bury them a mile deep](https://newatlas.com/energy/underground-nuclear-reactors/)
+- [Why has Japan been hit with rice shortages, soaring prices despite normal crops?](https://mainichi.jp/english/articles/20240823/p2a/00m/0bu/024000c)
+- [The possibilities for dark matter have just shrunk – by a lot](https://www.sciencenews.org/article/dark-matter-wimps-lz)
+- [We run migrations across 2,800 microservices](https://monzo.com/blog/how-we-run-migrations-across-2800-microservices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
