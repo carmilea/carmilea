@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Malware infiltrates Pidgin messenger&#39;s official plugin repository](https://www.bleepingcomputer.com/news/security/malware-infiltrates-pidgin-messengers-official-plugin-repository/)
-- [Great Question &lpar;YC W21&rpar; Is Hiring Customer Support Lead](https://www.ycombinator.com/companies/great-question/jobs/zQR17wz-customer-support-lead)
-- [Is &#39;No tax on tips&#39; a distraction from the fight to end sub-minimum wages?](https://www.theguardian.com/us-news/article/2024/aug/27/no-tax-on-tips-unlivable-minimum-wages)
-- [Cerebras Inference: AI at Instant Speed](https://cerebras.ai/blog/introducing-cerebras-inference-ai-at-instant-speed)
-- [Cerebras launches inference for Llama 3.1; benchmarked at 1846 tokens/s on 8B](https://twitter.com/ArtificialAnlys/status/1828463912389402896)
+- [A Collection of Free Public APIs That Is Tested Daily](https://www.freepublicapis.com/)
+- [U.S. Ambassador says Canadians are consuming &#39;unhealthy&#39; amount of American news](https://thehub.ca/2024/08/27/hub-exclusive-u-s-ambassador-says-canadians-are-consuming-an-unhealthy-amount-of-american-news/)
+- [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
+- [DisTrO – a family of low latency distributed optimizers](https://github.com/NousResearch/DisTrO)
+- [Why is the Oral-B iOS app almost 300 MB? And why is Colgate&#39;s app even bigger..?](https://twitter.com/emergetools/status/1828490449881047401)
 <!-- BLOG-POST-LIST:END -->
 
 ---
