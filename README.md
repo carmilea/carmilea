@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Malware infiltrates Pidgin messenger&#39;s official plugin repository](https://www.bleepingcomputer.com/news/security/malware-infiltrates-pidgin-messengers-official-plugin-repository/)
 - [Great Question &lpar;YC W21&rpar; Is Hiring Customer Support Lead](https://www.ycombinator.com/companies/great-question/jobs/zQR17wz-customer-support-lead)
-- [The Myth of the Coder and Programmer](https://cacm.acm.org/opinion/the-myth-of-the-coder/)
-- [80% of AI Projects Crash and Burn, Billions Wasted Says Rand Report](https://salesforcedevops.net/index.php/2024/08/19/ai-apocalypse/)
-- [Sainsbury Wing contractors find 1990 letter from donor](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
-- [Bootstrappable Builds](https://bootstrappable.org)
+- [Is &#39;No tax on tips&#39; a distraction from the fight to end sub-minimum wages?](https://www.theguardian.com/us-news/article/2024/aug/27/no-tax-on-tips-unlivable-minimum-wages)
+- [Cerebras Inference: AI at Instant Speed](https://cerebras.ai/blog/introducing-cerebras-inference-ai-at-instant-speed)
+- [Cerebras launches inference for Llama 3.1; benchmarked at 1846 tokens/s on 8B](https://twitter.com/ArtificialAnlys/status/1828463912389402896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
