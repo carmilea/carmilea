@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eazel, ex-Apple led Linux startup](https://en.wikipedia.org/wiki/Eazel)
+- [New 0-Day Attacks Linked to China&#39;s &#39;Volt Typhoon&#39;](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
 - [Have Swiss scientists made a chocolate breakthrough?](https://www.bbc.co.uk/news/articles/cn47zg3xgxxo)
 - [QuestDB &lpar;YC S20&rpar; Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
-- [Why has Japan been hit with rice shortages, soaring prices despite normal crops?](https://mainichi.jp/english/articles/20240823/p2a/00m/0bu/024000c)
-- [The possibilities for dark matter have just shrunk – by a lot](https://www.sciencenews.org/article/dark-matter-wimps-lz)
-- [Splatt3R: Zero-Shot Gaussian Splatting from Uncalibrated Image Pairs](https://splatt3r.active.vision/)
+- [Nuclear reactors a mile underground promise safe, cheap power](https://newatlas.com/energy/underground-nuclear-reactors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
