@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Chrome Accessibility Works](https://chromium.googlesource.com/chromium/src/+/main/docs/accessibility/browser/how_a11y_works.md)
-- [UltimateAntiCheat](https://github.com/AlSch092/UltimateAntiCheat)
-- [A Collection of Free Public APIs That Is Tested Daily](https://www.freepublicapis.com/)
-- [U.S. Ambassador says Canadians are consuming &#39;unhealthy&#39; amount of American news](https://thehub.ca/2024/08/27/hub-exclusive-u-s-ambassador-says-canadians-are-consuming-an-unhealthy-amount-of-american-news/)
-- [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Starliner Is Such a Disaster That Boeing May Cancel the Entire Project](https://futurism.com/starliner-failure-embarrassment-boeing)
+- [5000x Faster CRDTs](https://josephg.com/blog/crdts-go-brrr/)
+- [Taskwarrior – CLI Task Management](https://taskwarrior.org/)
+- [KLEE Symbolic Execution Engine](https://github.com/klee/klee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
