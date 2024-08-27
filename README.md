@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [RISC-V CPU arrives on a tablet starting at $149](https://www.tomshardware.com/tablets/rsic-v-cpu-arrives-on-a-tablet-starting-at-dollar149-dc-roma-risc-v-pad-ii-features-an-octa-core-cpu-and-up-to-16gb-ram-and-128gb-emmc-storage)
 - [Notes on Buttondown.com](https://jmduke.com/posts/microblog/buttondown-dot-com/)
-- [Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
+- [Sovereign Tech Fund to Invest €686k in FreeBSD Infrastructure Modernization](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
+- [Cellar Door: a quest to find the most beautiful word in English](https://www.cellar-door.co.uk/)
 - [Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
-- [FreeBSD-rustdate, a reimplementation of FreeBSD-update](https://rustdate.over-yonder.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
