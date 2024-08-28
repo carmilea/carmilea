@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wp2hugo: Best WordPress to Hugo migrator &lpar;written in Go&rpar;](https://github.com/ashishb/wp2hugo)
-- [LinkedIn_AIHawk: AI job assistant. Automate applications and Resume Generation](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)
-- [Final two communications from MH370 support controlled descent scenario &lpar;2021&rpar;](https://www.researchgate.net/publication/355242503_Final_Two_Communications_from_MH370_Supports_Controlled_Eastward_Descent_Scenario)
-- [Cosmic Alpha Released](https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/)
-- [Boxxy puts bad Linux applications in a box with only their files](https://github.com/queer/boxxy)
+- [Human brain organoid bioprocessors now available to rent for $500 per month](https://www.tomshardware.com/pc-components/cpus/human-brain-organoid-bioprocessors-now-available-to-rent-for-dollar500-per-month)
+- [Prosper AI &lpar;YC S23&rpar; Is Hiring a Founding Front End Engineer in Barcelona&lpar;hybrid&rpar;](https://drive.google.com/file/d/14GPXekand9xzJEEOD2ze6m59zE0ZlBvC/view)
+- [Formal CHERI: rigorous engineering and design-time proof of full-scale architect](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
+- [Microsoft backports AMD branch prediction improvement to Windows 11 23H2](https://www.tomshardware.com/software/windows/microsoft-backports-branch-prediction-improvements-to-windows-11-23h2-more-users-will-see-ryzen-performance-improvements)
+- [Show HN: IPA, a GUI for exploring inner details of PDF &lpar;Rust&rpar;](https://github.com/seekbytes/IPA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
