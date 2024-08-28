@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI in Talks for Funding Round Valuing It Above $100B](https://www.wsj.com/tech/ai/openai-in-talks-for-funding-round-valuing-it-above-100-billion-4f0550c5)
+- [Jack Welch Screwed Up GE and Boeing, and with Them Much US Climate Action](https://cleantechnica.com/2024/08/26/jack-welch-screwed-up-ge-boeing-and-with-them-much-us-climate-action/)
 - [The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
 - [The 4-chan Go programmer](https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/)
-- [Window Maker: X11 window manager with the look and feel of the NeXTSTEP UI](https://www.windowmaker.org/)
-- [Stoke Awarded Contract to Develop Critical Space Mobility Capabilities](https://www.stokespace.com/stoke-awarded-contract-to-develop-critical-space-mobility-capabilities/)
-- [Maker Skill Trees](https://github.com/sjpiper145/MakerSkillTree)
+- [Scaling Rails and Postgres to Users at Microsoft: Lessons and Takeaways](https://stepchange.work/blog/scaling-rails-postgres-to-millions-of-users-at-microsoft-lessons-takeaways)
 <!-- BLOG-POST-LIST:END -->
 
 ---
