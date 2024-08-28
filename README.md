@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hindenburg Research goes after Super Micro](https://hindenburgresearch.com/smci/)
-- [YouTube is barely usable specifically on Firefox Windows at the moment](https://old.reddit.com/r/youtube/comments/1f30ku4/youtube_sabotaging_on_firefox/)
-- [Show HN: We ungated our product &lpar;no signup&rpar;–is it a good idea?](https://app.supademo.com/demo/cm0dw55q10007cvtfr6gxois3/edit)
-- [Prosper AI &lpar;YC S23&rpar; Is Hiring a Founding Front End Engineer in Barcelona&lpar;hybrid&rpar;](https://drive.google.com/file/d/14GPXekand9xzJEEOD2ze6m59zE0ZlBvC/view)
-- [Typing Lists and Tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
+- [French prosecutors say Telegram CEO freed from custody, will appear in court](https://apnews.com/article/france-telegram-pavel-durov-arrest-6e213d227458f330ed16e7fe221a696c)
+- [US appeals court rules geofence warrants are unconstitutional](https://techcrunch.com/2024/08/13/us-appeals-court-rules-geofence-warrants-are-unconstitutional/)
+- [Interview with Signal President Meredith Whittaker](https://www.wired.com/story/meredith-whittaker-signal/)
+- [The slow evaporation of the free/open source surplus](https://www.baldurbjarnason.com/2024/the-slow-evaporation-of-the-foss-surplus/)
+- [Unrealized Gain Tax–A Coming Sea Change in FY2025 Budget Proposal?](https://www.forbes.com/sites/andrewleahey/2024/04/30/unrealized-gain-tax-a-coming-sea-change-in-fy2025-budget-proposal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
