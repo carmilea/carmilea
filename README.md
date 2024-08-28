@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hindenburg Research goes after Super Micro](https://hindenburgresearch.com/smci/)
+- [YouTube is barely usable specifically on Firefox Windows at the moment](https://old.reddit.com/r/youtube/comments/1f30ku4/youtube_sabotaging_on_firefox/)
+- [Show HN: We ungated our product &lpar;no signup&rpar;–is it a good idea?](https://app.supademo.com/demo/cm0dw55q10007cvtfr6gxois3/edit)
 - [Prosper AI &lpar;YC S23&rpar; Is Hiring a Founding Front End Engineer in Barcelona&lpar;hybrid&rpar;](https://drive.google.com/file/d/14GPXekand9xzJEEOD2ze6m59zE0ZlBvC/view)
 - [Typing Lists and Tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
-- [Formal CHERI: rigorous engineering and design-time proof of full-scale architect](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
-- [Microsoft backports AMD branch prediction improvement to Windows 11 23H2](https://www.tomshardware.com/software/windows/microsoft-backports-branch-prediction-improvements-to-windows-11-23h2-more-users-will-see-ryzen-performance-improvements)
-- [Show HN: IPA, a GUI for exploring inner details of PDF &lpar;Rust&rpar;](https://github.com/seekbytes/IPA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
