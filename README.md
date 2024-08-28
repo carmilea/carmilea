@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Isn&#39;t all SaaS just wrappers?](https://news.ycombinator.com/item?id=41382330)
+- [The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
+- [The 4-chan Go programmer](https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/)
+- [Window Maker: X11 window manager with the look and feel of the NeXTSTEP UI](https://www.windowmaker.org/)
 - [Stoke Awarded Contract to Develop Critical Space Mobility Capabilities](https://www.stokespace.com/stoke-awarded-contract-to-develop-critical-space-mobility-capabilities/)
 - [Maker Skill Trees](https://github.com/sjpiper145/MakerSkillTree)
-- [Reflex &lpar;YC W23&rpar; Is Hiring Python Software Engineers](https://www.ycombinator.com/companies/reflex/jobs/CoRbEAk-software-engineer)
-- [High-Temperature Gibbs States Are Unentangled and Efficiently Preparable](https://arxiv.org/abs/2403.16850)
 <!-- BLOG-POST-LIST:END -->
 
 ---
