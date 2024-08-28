@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Achieve near real-time analytics on Amazon DynamoDB with Singlestore | SingleStore Webinars](https://www.youtube.com/watch?v=_X1YKYV4tfE)
 - [5. Deploying Apps to H2O AI Cloud | H2O Wave](https://www.youtube.com/watch?v=d_L5oGcGD1w)
 - [SingleStore Now 2023: The Real-Time AI Conference](https://www.youtube.com/watch?v=IeI76fFNK8k)
 - [4. Building Your First Interactive App | H2O Wave](https://www.youtube.com/watch?v=0Tei6sR_j14)
 - [Build a Recommendation System Using SingleStore Vector Search | SingleStore Webinars](https://www.youtube.com/watch?v=kJ_QucfYddk)
-- [How We Made That App, Ep.11: How FLOWD is Revolutionizing Water Management, with CTO Marc Locchi](https://www.youtube.com/watch?v=yufyFGSDAzE)
 <!-- YOUTUBE:END -->
 
 
