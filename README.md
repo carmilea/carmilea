@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Wp2hugo: Best WordPress to Hugo migrator &lpar;written in Go&rpar;](https://github.com/ashishb/wp2hugo)
-- [OpenAI shows &#39;Strawberry&#39; to feds, races to launch it](https://www.lesswrong.com/posts/8oX4FTRa8MJodArhj/the-information-openai-shows-strawberry-to-feds-races-to)
-- [Final Two Communications from MH370 Support Controlled Eastward Descent Scenario](https://www.researchgate.net/publication/355242503_Final_Two_Communications_from_MH370_Supports_Controlled_Eastward_Descent_Scenario)
+- [LinkedIn_AIHawk: AI job assistant. Automate applications and Resume Generation](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)
+- [Final two communications from MH370 support controlled descent scenario &lpar;2021&rpar;](https://www.researchgate.net/publication/355242503_Final_Two_Communications_from_MH370_Supports_Controlled_Eastward_Descent_Scenario)
 - [Cosmic Alpha Released](https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/)
 - [Boxxy puts bad Linux applications in a box with only their files](https://github.com/queer/boxxy)
 <!-- BLOG-POST-LIST:END -->
