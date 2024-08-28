@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
+- [Cerebras Launches the Fastest AI Inference](https://cerebras.ai/press-release/cerebras-launches-the-worlds-fastest-ai-inference)
 - [Tesla&#39;s TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
 - [ChartDB – Free and open source, database design editor](https://chartdb.io/)
 - [How We Built Our Real-Time Digital Marketing App](https://www.singlestore.com/blog/how-we-built-our-real-time-digital-marketing-app)
-- [Hackers infect ISPs with malware that steals customers&#39; credentials](https://arstechnica.com/security/2024/08/hackers-infect-isps-with-malware-that-steals-customers-credentials/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
