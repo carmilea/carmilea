@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmic Alpha Released](https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/)
+- [Boxxy puts bad Linux applications in a box with only their files](https://github.com/queer/boxxy)
 - [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)
 - [Thoughts on the Durov Arrest](https://prestonbyrne.com/2024/08/24/thoughts-on-the-durov-arrest/)
 - [Covid-19 Intranasal Vaccine](https://news.griffith.edu.au/2024/08/27/game-changing-needle-free-covid-19-intranasal-vaccine/)
-- [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
-- [Cerebras Launches the Fastest AI Inference](https://cerebras.ai/press-release/cerebras-launches-the-worlds-fastest-ai-inference)
 <!-- BLOG-POST-LIST:END -->
 
 ---
