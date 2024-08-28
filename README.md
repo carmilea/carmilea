@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflex &lpar;YC W23&rpar; Is Hiring Python Software Engineers](https://www.ycombinator.com/companies/reflex/jobs/CoRbEAk-software-engineer)
+- [Tesla drivers say new FSD update is repeatedly running red lights](https://futurism.com/the-byte/tesla-fsd-update-red-lights)
+- [High-Temperature Gibbs States Are Unentangled and Efficiently Preparable](https://arxiv.org/abs/2403.16850)
 - [Immovable Ladder](https://en.wikipedia.org/wiki/Immovable_Ladder)
 - [Show HN: Every open source tool from the &quot;What&#39;s HN working on&quot; thread](https://github.com/getomni-ai/datasets/blob/main/hn_projects.md)
-- [French prosecutors say Telegram CEO freed from custody, will appear in court](https://apnews.com/article/france-telegram-pavel-durov-arrest-6e213d227458f330ed16e7fe221a696c)
-- [Interview with Signal President Meredith Whittaker](https://www.wired.com/story/meredith-whittaker-signal/)
-- [CIA Sent Him Deep Undercover to Spy on Islamic Radicals. It Cost Him Everything](https://www.rollingstone.com/politics/politics-features/cia-agent-deep-undercover-spy-islamic-radicals-war-on-terror-1235075156/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
