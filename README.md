@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Isn&#39;t all SaaS just wrappers?](https://news.ycombinator.com/item?id=41382330)
+- [Stoke Awarded Contract to Develop Critical Space Mobility Capabilities](https://www.stokespace.com/stoke-awarded-contract-to-develop-critical-space-mobility-capabilities/)
+- [Maker Skill Trees](https://github.com/sjpiper145/MakerSkillTree)
 - [Reflex &lpar;YC W23&rpar; Is Hiring Python Software Engineers](https://www.ycombinator.com/companies/reflex/jobs/CoRbEAk-software-engineer)
-- [Tesla drivers say new FSD update is repeatedly running red lights](https://futurism.com/the-byte/tesla-fsd-update-red-lights)
 - [High-Temperature Gibbs States Are Unentangled and Efficiently Preparable](https://arxiv.org/abs/2403.16850)
-- [Immovable Ladder](https://en.wikipedia.org/wiki/Immovable_Ladder)
-- [Show HN: Every open source tool from the &quot;What&#39;s HN working on&quot; thread](https://github.com/getomni-ai/datasets/blob/main/hn_projects.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
