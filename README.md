@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Where to find domain experts for 1:1 tutoring?](https://news.ycombinator.com/item?id=41384590)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-- [Twenty Years of Valgrind](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
-- [Ask HN: Did the &quot;killer poke&quot; reduce Commodore PET sales?](https://news.ycombinator.com/item?id=41384085)
+- [Show HN: Skip – Build native iOS and Android apps from a single Swift codebase](https://skip.tools/)
+- [Twenty Years of Valgrind &lpar;2022&rpar;](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
 - [Purism Domain Puri.sm Suspended?](https://whois.marcaria.com/en/result?SearchDomain=puri.sm)
-- [Show HN: Repo2vec – an open-source library for chatting with any codebase](https://github.com/Storia-AI/repo2vec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
