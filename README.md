@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After a decade of free Alexa, Amazon now wants you to pay](https://www.washingtonpost.com/technology/2024/08/27/amazon-ai-alexa-new-subscription/)
+- [ChartDB – Free and open source, database design editor](https://chartdb.io/)
 - [How We Built Our Real-Time Digital Marketing App](https://www.singlestore.com/blog/how-we-built-our-real-time-digital-marketing-app)
-- [Tattoo ink sold on Amazon has high levels of weird and rare bacteria](https://arstechnica.com/health/2024/08/tattoo-ink-sold-on-amazon-has-high-levels-of-weird-and-rare-bacteria/)
 - [Hackers infect ISPs with malware that steals customers&#39; credentials](https://arstechnica.com/security/2024/08/hackers-infect-isps-with-malware-that-steals-customers-credentials/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Faster CRDTs &lpar;2021&rpar;](https://josephg.com/blog/crdts-go-brrr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
