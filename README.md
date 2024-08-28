@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts on the Durov Arrest](https://prestonbyrne.com/2024/08/24/thoughts-on-the-durov-arrest/)
+- [Covid-19 Intranasal Vaccine](https://news.griffith.edu.au/2024/08/27/game-changing-needle-free-covid-19-intranasal-vaccine/)
 - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
 - [Cerebras Launches the Fastest AI Inference](https://cerebras.ai/press-release/cerebras-launches-the-worlds-fastest-ai-inference)
 - [Tesla&#39;s TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
-- [ChartDB – Free and open source, database design editor](https://chartdb.io/)
-- [How We Built Our Real-Time Digital Marketing App](https://www.singlestore.com/blog/how-we-built-our-real-time-digital-marketing-app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
