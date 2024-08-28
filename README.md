@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI in Talks for Funding Round Valuing It Above $100B](https://www.wsj.com/tech/ai/openai-in-talks-for-funding-round-valuing-it-above-100-billion-4f0550c5)
-- [Jack Welch Screwed Up GE and Boeing, and with Them Much US Climate Action](https://cleantechnica.com/2024/08/26/jack-welch-screwed-up-ge-boeing-and-with-them-much-us-climate-action/)
-- [The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
-- [The 4-chan Go programmer](https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/)
-- [Scaling Rails and Postgres to Users at Microsoft: Lessons and Takeaways](https://stepchange.work/blog/scaling-rails-postgres-to-millions-of-users-at-microsoft-lessons-takeaways)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- [Twenty Years of Valgrind](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
+- [Ask HN: Did the &quot;killer poke&quot; reduce Commodore PET sales?](https://news.ycombinator.com/item?id=41384085)
+- [Purism Domain Puri.sm Suspended?](https://whois.marcaria.com/en/result?SearchDomain=puri.sm)
+- [Show HN: Repo2vec – an open-source library for chatting with any codebase](https://github.com/Storia-AI/repo2vec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
