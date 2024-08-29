@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbnb banned me – how a ML model can misfire?](https://news.ycombinator.com/item?id=41393635)
 - [Dawn of a new era in Search: Balancing innovation, competition, and public good](https://blog.kagi.com/dawn-new-era-search)
-- [Rust Is Bad for Servers](https://kerkour.com/rust-is-bad-for-servers)
 - [Launch HN: CodeViz &lpar;YC S24&rpar; – Visual maps of your codebase in VS Code](https://news.ycombinator.com/item?id=41393458)
+- [100M Token Context Windows](https://magic.dev/blog/100m-token-context-windows)
 - [MindsDB &lpar;YC W20&rpar; Is Hiring](https://job-boards.greenhouse.io/mindsdb/jobs/4429903007)
-- [Judge Rules $400M Algorithmic System Illegally Denied People&#39;s Medicaid Benefits](https://gizmodo.com/judge-rules-400-million-algorithmic-system-illegally-denied-thousands-of-peoples-medicaid-benefits-2000492529)
 <!-- BLOG-POST-LIST:END -->
 
 ---
