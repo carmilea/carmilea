@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windmill &lpar;YC S22&rpar; Hiring Rust and TypeScript Eng #3 in Paris](https://www.ycombinator.com/companies/windmill/jobs/REsQMZa-rust-typescript-engineer)
+- [Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
+- [NASA Discovers a Long-Sought Global Electric Field on Earth](https://science.nasa.gov/science-research/heliophysics/nasa-discovers-long-sought-global-electric-field-on-earth/)
+- [What Life Means to Einstein &lpar;1929&rpar; [pdf]](https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/what_life_means_to_einstein.pdf)
 - [Telegram Founder Charged with Wide Range of Crimes in France](https://www.nytimes.com/2024/08/28/business/telegram-ceo-pavel-durov-charged.html)
-- [Ask HN: What books should I read to improve as a software engineer?](https://news.ycombinator.com/item?id=41387062)
-- [FreeBSD considers Rust in the base system](https://lwn.net/Articles/985210/)
-- [HDMI Forum rejects AMD&#39;s HDMI 2.1 open-source driver](https://www.tomshardware.com/pc-components/gpus/hdmi-forum-rejects-amds-hdmi-21-open-source-driver)
-- [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
