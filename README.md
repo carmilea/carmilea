@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Closure has been archived](https://github.com/google/closure-library)
+- [Anthropic&#39;s Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
+- [JPMorgan&#39;s Python training for business analysts and traders](https://github.com/jpmorganchase/python-training)
 - [Ever used Google Chrome in incognito mode? You could be entitled to up to $5k](https://bivens.plaintip.com/index.php/google-incognito/)
 - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
-- [Poly &lpar;YC S22&rpar; is hiring Rust experts in SF to build &quot;Arc browser for files&quot;](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-engineer)
-- [Hawai&#39;i-Issued Real IDs Can Be Added to Apple Wallet Beginning August 28](https://hidot.hawaii.gov/blog/2024/08/28/hawai%ca%bbi-issued-real-ids-can-be-added-to-apple-wallet-beginning-august-28/)
-- [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
 <!-- BLOG-POST-LIST:END -->
 
 ---
