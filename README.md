@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is there any way HN can implement a &#39;paywall tag&#39; to save wasted clicks?](https://news.ycombinator.com/item?id=41389094)
-- [Type 2 diabetes drug associated with 35% lower risk of dementia, study finds](https://www.theguardian.com/society/article/2024/aug/28/type-2-diabetes-drug-associated-with-35-lower-risk-of-dementia-study-finds)
-- [UK rail minister got engineer sacked for raising safety concerns](https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/)
-- [Show HN: A directory to find open source AI projects easier](https://www.aiexh.com/en)
-- [Show HN: LLM-Term – Simple Rust-based CLI assist tool](https://github.com/dh1011/llm-term)
+- [The first snapshot of Hacker News on Archive.org](https://web.archive.org/web/20070221033032/https://news.ycombinator.com/)
+- [Show HN: turn videos into ASCII art &lpar;open source, js+canvas&rpar;](https://collidingscopes.github.io/ascii/)
+- [OpenAI is shockingly good at unminifying code](https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai)
+- [Show HN: Homemade Automated Solar Concentrator](https://github.com/remipch/solar_concentrator)
+- [Two Dots Too Many – a tragic consequence of the failure to localize cell phones](https://languagelog.ldc.upenn.edu/nll/?p=73)
 <!-- BLOG-POST-LIST:END -->
 
 ---
