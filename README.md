@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Low Cost Mini PCs](https://lowcostminipcs.com/)
+- [Farewell Pandas, and thanks for all the fish](https://ibis-project.org/posts/farewell-pandas/)
+- [KDE Asking for Donations](https://pointieststick.com/2024/08/28/asking-for-donations-in-plasma/)
 - [The first snapshot of Hacker News on Archive.org](https://web.archive.org/web/20070221033032/https://news.ycombinator.com/)
 - [Show HN: turn videos into ASCII art &lpar;open source, js+canvas&rpar;](https://collidingscopes.github.io/ascii/)
-- [OpenAI is shockingly good at unminifying code](https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai)
-- [Show HN: Homemade Automated Solar Concentrator](https://github.com/remipch/solar_concentrator)
-- [Two Dots Too Many – a tragic consequence of the failure to localize cell phones](https://languagelog.ldc.upenn.edu/nll/?p=73)
 <!-- BLOG-POST-LIST:END -->
 
 ---
