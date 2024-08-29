@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There are ~as many floating points between 0 and 1 as between 1 and and +inf](https://chadnauseam.com/coding/random/floating-points-between-zero-and-one)
-- [Show HN: An open-source, local-first Webflow for your own app](https://github.com/onlook-dev/onlook)
-- [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
-- [Firefox rolls out Total Cookie Protection by default to more users &lpar;2022&rpar;](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
-- [How Intel Missed the iPhone: The XScale Era](https://thechipletter.substack.com/p/how-intel-missed-the-iphone-xscale)
+- [From Julia to Rust](https://miguelraz.github.io/blog/juliatorust/index.html)
+- [An update on Llama adoption](https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/)
+- [GNU Screen 5.0 Released](https://savannah.gnu.org/news/?id=10668)
+- [Can Solar Costs Keep Shrinking?](https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking)
+- [Floating points between zero and one](https://chadnauseam.com/coding/random/floating-points-between-zero-and-one)
 <!-- BLOG-POST-LIST:END -->
 
 ---
