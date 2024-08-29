@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [New 2GB Raspberry Pi 5 has 33% smaller die, 30% idle power savings](https://www.jeffgeerling.com/blog/2024/new-2gb-pi-5-has-33-smaller-die-30-idle-power-savings)
-- [Launch HN: Patchwork &lpar;YC W24&rpar; – Automatically add structured logs to your code](https://news.ycombinator.com/item?id=41391931)
+- [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+- [Launch HN: Patchwork &lpar;YC S24&rpar; – Automatically add structured logs to your code](https://news.ycombinator.com/item?id=41391931)
+- [Judges rule Big Tech&#39;s free ride on Section 230 is over](https://www.thebignewsletter.com/p/judges-rule-big-techs-free-ride-on)
 - [Raspberry Pi Pico does line rate 100M Ethernet](https://github.com/rscott2049/pico-rmii-ethernet_nce)
-- [Chrome Is Entrenching Third-Party Cookies That Will Mislead Users](https://brave.com/blog/related-website-sets/)
-- [From Julia to Rust](https://miguelraz.github.io/blog/juliatorust/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
