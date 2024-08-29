@@ -62,7 +62,7 @@
 - [Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
 - [NASA Discovers a Long-Sought Global Electric Field on Earth](https://science.nasa.gov/science-research/heliophysics/nasa-discovers-long-sought-global-electric-field-on-earth/)
 - [What Life Means to Einstein &lpar;1929&rpar; [pdf]](https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/what_life_means_to_einstein.pdf)
-- [Telegram Founder Charged with Wide Range of Crimes in France](https://www.nytimes.com/2024/08/28/business/telegram-ceo-pavel-durov-charged.html)
+- [FreeBSD considers Rust in the base system](https://lwn.net/Articles/985210/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
