@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bosses Are Finding Ways to Pay Workers Less](https://www.wsj.com/lifestyle/careers/salary-workers-pay-cuts-2024-54101d66)
-- [Show HN: Are You Smarter Than a 5th Grader?](https://areusmarterthanafifthgrader.com)
+- [Ask HN: What books should I read to improve as a software engineer?](https://news.ycombinator.com/item?id=41387062)
 - [FreeBSD considers Rust in the base system](https://lwn.net/Articles/985210/)
+- [HDMI Forum rejects AMD&#39;s HDMI 2.1 open-source driver](https://www.tomshardware.com/pc-components/gpus/hdmi-forum-rejects-amds-hdmi-21-open-source-driver)
 - [Docker-OSX image removed after Apple reports copyright infringement](https://github.com/sickcodes/Docker-OSX/issues/799)
 - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
 <!-- BLOG-POST-LIST:END -->
