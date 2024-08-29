@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [There are ~as many floating points between 0 and 1 as between 1 and and +inf](https://chadnauseam.com/coding/random/floating-points-between-zero-and-one)
+- [Show HN: An open-source, local-first Webflow for your own app](https://github.com/onlook-dev/onlook)
 - [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
-- [Firefox rolls out Total Cookie Protection by default to more users worldwide](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
+- [Firefox rolls out Total Cookie Protection by default to more users &lpar;2022&rpar;](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
 - [How Intel Missed the iPhone: The XScale Era](https://thechipletter.substack.com/p/how-intel-missed-the-iphone-xscale)
-- [Meta&#39;s Threads enables Fediverse replies and likes](https://blog.karliner.net/posts/threads-enables-fediverse-replies/)
-- [Major Sites Are Saying No to Apple&#39;s AI Scraping](https://www.wired.com/story/applebot-extended-apple-ai-scraping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
