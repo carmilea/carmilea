@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Beginners Guide to RAG Evaluation with Professor Tom Yeh | SingleStore Webinars](https://www.youtube.com/watch?v=2fqs8Nlh5UI)
 - [Achieve near real-time analytics on Amazon DynamoDB with Singlestore | SingleStore Webinars](https://www.youtube.com/watch?v=_X1YKYV4tfE)
 - [5. Deploying Apps to H2O AI Cloud | H2O Wave](https://www.youtube.com/watch?v=d_L5oGcGD1w)
 - [SingleStore Now 2023: The Real-Time AI Conference](https://www.youtube.com/watch?v=IeI76fFNK8k)
 - [4. Building Your First Interactive App | H2O Wave](https://www.youtube.com/watch?v=0Tei6sR_j14)
-- [Build a Recommendation System Using SingleStore Vector Search | SingleStore Webinars](https://www.youtube.com/watch?v=kJ_QucfYddk)
 <!-- YOUTUBE:END -->
 
 
