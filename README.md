@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A directory to find open source AI projects easier](https://www.aiexh.com/en)
+- [Show HN: LLM-Term – Simple Rust-based CLI assist tool](https://github.com/dh1011/llm-term)
+- [Computer Scientists Prove That Heat Destroys Entanglement](https://www.quantamagazine.org/computer-scientists-prove-that-heat-destroys-entanglement-20240828/)
 - [Windmill &lpar;YC S22&rpar; Hiring Rust and TypeScript Eng #3 in Paris](https://www.ycombinator.com/companies/windmill/jobs/REsQMZa-rust-typescript-engineer)
 - [Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
-- [NASA Discovers a Long-Sought Global Electric Field on Earth](https://science.nasa.gov/science-research/heliophysics/nasa-discovers-long-sought-global-electric-field-on-earth/)
-- [What Life Means to Einstein &lpar;1929&rpar; [pdf]](https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/what_life_means_to_einstein.pdf)
-- [FreeBSD considers Rust in the base system](https://lwn.net/Articles/985210/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
