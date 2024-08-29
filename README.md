@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Poly &lpar;YC S22&rpar; is hiring Rust experts in SF to build &quot;Arc browser for files&quot;](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-engineer)
+- [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
+- [Smart mask for exhaled breath condensate harvesting and analysis](https://www.science.org/doi/10.1126/science.adn6471)
 - [Dawn of a new era in Search: Balancing innovation, competition, and public good](https://blog.kagi.com/dawn-new-era-search)
 - [Launch HN: CodeViz &lpar;YC S24&rpar; – Visual maps of your codebase in VS Code](https://news.ycombinator.com/item?id=41393458)
-- [100M Token Context Windows](https://magic.dev/blog/100m-token-context-windows)
-- [MindsDB &lpar;YC W20&rpar; Is Hiring](https://job-boards.greenhouse.io/mindsdb/jobs/4429903007)
-- [Judge rules $400M algorithmic system illegally denied Medicaid benefits](https://gizmodo.com/judge-rules-400-million-algorithmic-system-illegally-denied-thousands-of-peoples-medicaid-benefits-2000492529)
 <!-- BLOG-POST-LIST:END -->
 
 ---
