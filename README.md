@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New 2GB Raspberry Pi 5 has 33% smaller die, 30% idle power savings](https://www.jeffgeerling.com/blog/2024/new-2gb-pi-5-has-33-smaller-die-30-idle-power-savings)
-- [Bypassing airport security via SQL injection](https://ian.sh/tsa)
-- [Launch HN: Patchwork &lpar;YC S24&rpar; – Automatically add structured logs to your code](https://news.ycombinator.com/item?id=41391931)
-- [Judges rule Big Tech&#39;s free ride on Section 230 is over](https://www.thebignewsletter.com/p/judges-rule-big-techs-free-ride-on)
-- [Raspberry Pi Pico does line rate 100M Ethernet](https://github.com/rscott2049/pico-rmii-ethernet_nce)
+- [Dawn of a new era in Search: Balancing innovation, competition, and public good](https://blog.kagi.com/dawn-new-era-search)
+- [Rust Is Bad for Servers](https://kerkour.com/rust-is-bad-for-servers)
+- [Launch HN: CodeViz &lpar;YC S24&rpar; – Visual maps of your codebase in VS Code](https://news.ycombinator.com/item?id=41393458)
+- [MindsDB &lpar;YC W20&rpar; Is Hiring](https://job-boards.greenhouse.io/mindsdb/jobs/4429903007)
+- [Judge Rules $400M Algorithmic System Illegally Denied People&#39;s Medicaid Benefits](https://gizmodo.com/judge-rules-400-million-algorithmic-system-illegally-denied-thousands-of-peoples-medicaid-benefits-2000492529)
 <!-- BLOG-POST-LIST:END -->
 
 ---
