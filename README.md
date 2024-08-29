@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brazil top court threatens to suspend X within 24 hours](https://apnews.com/article/brazil-top-court-elon-musk-de-moraes-028f7a9f65e3bf355518bbe9d1fbe564)
+- [Bosses Are Finding Ways to Pay Workers Less](https://www.wsj.com/lifestyle/careers/salary-workers-pay-cuts-2024-54101d66)
+- [Show HN: Are You Smarter Than a 5th Grader?](https://areusmarterthanafifthgrader.com)
+- [FreeBSD considers Rust in the base system](https://lwn.net/Articles/985210/)
 - [Docker-OSX image removed after Apple reports copyright infringement](https://github.com/sickcodes/Docker-OSX/issues/799)
 - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-- [Show HN: Skip – Build native iOS and Android apps from a single Swift codebase](https://skip.tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
