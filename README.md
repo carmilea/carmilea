@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker-OS X image removed after Apple reports copyright infringement](https://github.com/sickcodes/Docker-OSX/issues/799)
+- [Brazil top court threatens to suspend X within 24 hours](https://apnews.com/article/brazil-top-court-elon-musk-de-moraes-028f7a9f65e3bf355518bbe9d1fbe564)
+- [Docker-OSX image removed after Apple reports copyright infringement](https://github.com/sickcodes/Docker-OSX/issues/799)
 - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
-- [Telegram boss banned from leaving France in criminal probe](https://www.bbc.com/news/articles/c985ppy0znyo)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 - [Show HN: Skip – Build native iOS and Android apps from a single Swift codebase](https://skip.tools/)
 <!-- BLOG-POST-LIST:END -->
