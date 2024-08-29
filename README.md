@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Low Cost Mini PCs](https://lowcostminipcs.com/)
-- [Farewell Pandas, and thanks for all the fish](https://ibis-project.org/posts/farewell-pandas/)
-- [KDE Asking for Donations](https://pointieststick.com/2024/08/28/asking-for-donations-in-plasma/)
-- [The first snapshot of Hacker News on Archive.org](https://web.archive.org/web/20070221033032/https://news.ycombinator.com/)
-- [Show HN: turn videos into ASCII art &lpar;open source, js+canvas&rpar;](https://collidingscopes.github.io/ascii/)
+- [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
+- [Firefox rolls out Total Cookie Protection by default to more users worldwide](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
+- [How Intel Missed the iPhone: The XScale Era](https://thechipletter.substack.com/p/how-intel-missed-the-iphone-xscale)
+- [Meta&#39;s Threads enables Fediverse replies and likes](https://blog.karliner.net/posts/threads-enables-fediverse-replies/)
+- [Major Sites Are Saying No to Apple&#39;s AI Scraping](https://www.wired.com/story/applebot-extended-apple-ai-scraping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
