@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink will now be free in Brazil since remote hospitals, schools use it: Musk](https://www.metropoles.com/brasil/musk-starlink-dara-internet-de-graca-ate-resolver-bloqueio-de-contas)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=41396868)
 - [Show HN: Amine – Prevents you from switching 100s of Browser Tabs](https://github.com/datavorous/amine)
 - [I&#39;m blocking connections from AWS to my on-prem services](http://consulting.m3047.net/dubai-letters/balkanized-internet.html)
 - [Visit Bletchley Park](https://bletchleypark.org.uk/)
-- [DuckDuckGo for Mac is now open source](https://github.com/duckduckgo/macos-browser)
 <!-- BLOG-POST-LIST:END -->
 
 ---
