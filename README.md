@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Icon &lpar;real creators, AI ads&rpar; is hiring software engineers &lpar;NYC&rpar;](https://icon.me/careers)
-- [Brazilian court orders suspension of X](https://www.theguardian.com/technology/article/2024/aug/30/elon-musk-x-could-face-ban-in-brazil-after-failure-to-appoint-legal-representative)
-- [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
-- [Drug Development Failure: how GLP-1 development was abandoned in 1990](https://muse.jhu.edu/pub/1/article/936036/pdf)
-- [Language and shell in Go with 92% test coverage and instant CI/CD [video]](https://www.youtube.com/watch?v=YzIiUjgnSsA)
+- [Hadrius &lpar;YC W23&rpar; Is Hiring a Rising-Star Engineer to Champion Customer Success](https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer)
+- [UK researchers find Alzheimer&#39;s-like brain changes in long Covid patients](https://uknow.uky.edu/research/uk-researchers-find-alzheimer-s-brain-changes-long-covid-patients)
+- [Architectural Effects on Maximum Dependency Lengths of Recurrent Neural Networks](https://arxiv.org/abs/2408.11946)
+- [UC Berkeley will delete all alumni email accounts with &gt;5GB stored](https://twitter.com/jachiam0/status/1829546662735560735)
+- [To Nerves from Elixir](https://underjord.io/to-nerves-from-elixir.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
