@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CIEL Is an Extended Lisp](http://ciel-lang.org/)
+- [Sail and Muddy: A Retrospective](https://feelmuddy.notion.site/Sail-Muddy-A-Retrospective-388a528951de4da58e66940c5fb85b8a)
+- [Resilient Anonymous Communication for Everyone &lpar;Race&rpar;](https://www.darpa.mil/program/resilient-anonymous-communication-for-everyone)
 - [The fight to ban gas-powered cars in the 1960s](https://grist.org/transportation/the-forgotten-fight-to-ban-gas-powered-cars-in-the-1960s/)
 - [The Far-Reaching Ripple Effects of a Discredited Cancer Study](https://www.wsj.com/health/healthcare/cancer-study-retracted-research-fallout-9573f842)
-- [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
-- [Japan police: Nearly 4k who died alone at home not found for over a month](https://www3.nhk.or.jp/nhkworld/en/news/20240830_02/)
-- [Low-cost 16 EEG channels cap &lpar;hat&rpar; for PiEEG](https://pieeg.com/news/low-cost-16-eeg-channels-cap-hat-available-for-buy-all-in-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
