@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Low-cost 16 EEG channels cap &lpar;hat&rpar; for PiEEG](https://pieeg.com/news/low-cost-16-eeg-channels-cap-hat-available-for-buy-all-in-one/)
+- [Rubi: Symbolic integrator based on an extensive system of integration rules](https://rulebasedintegration.org/)
 - [Rearchiving 2M hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
-- [Deconstructing the Garbage-First Collector [pdf]](https://www.steveblackburn.org/pubs/papers/g1-vee-2020.pdf)
+- [Scpptool – a tool to enforce a memory and data race safe subset of C++](https://github.com/duneroadrunner/scpptool)
 - [Time-Memory Trade-Offs Sound the Death Knell for GPRS and GSM](https://www.iacr.org/cryptodb/data/paper.php?pubkey=34281)
-- [Calendar Queues: A Fast O&lpar;1&rpar; Priority Queue Implementation &lpar;1998&rpar;](https://dl.acm.org/doi/pdf/10.1145/63039.63045)
-- [Rust&#39;s Ugly Syntax &lpar;2023&rpar;](https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
