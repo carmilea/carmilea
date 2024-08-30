@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blueprint Bryan Johnson Is Hiring Developers](https://www.ycombinator.com/companies/eat-blueprint/jobs/UcjLc1R-software-developer)
+- [Motion &lpar;YC W20&rpar; is hiring TypeScript back end engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 - [Drug Development Failure: how GLP-1 development was abandoned in 1990](https://muse.jhu.edu/pub/1/article/936036/pdf)
-- [Giant underwater avalanche decimated Atlantic seafloor 60k years ago](https://www.livescience.com/planet-earth/rivers-oceans/giant-underwater-avalanche-decimated-atlantic-seafloor-60-000-years-ago-1st-of-its-kind-map-reveals)
-- [How to write a programming language and shell in Go with 92% test coverage and [video]](https://www.youtube.com/watch?v=YzIiUjgnSsA)
+- [Language and shell in Go with 92% test coverage and instant CI/CD [video]](https://www.youtube.com/watch?v=YzIiUjgnSsA)
 - [CIEL Is an Extended Lisp](http://ciel-lang.org/)
+- [Sail and Muddy: A Retrospective](https://feelmuddy.notion.site/Sail-Muddy-A-Retrospective-388a528951de4da58e66940c5fb85b8a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
