@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Closure has been archived](https://github.com/google/closure-library)
-- [Anthropic&#39;s Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
-- [JPMorgan&#39;s Python training for business analysts and traders](https://github.com/jpmorganchase/python-training)
-- [Ever used Google Chrome in incognito mode? You could be entitled to up to $5k](https://bivens.plaintip.com/index.php/google-incognito/)
-- [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=41396868)
+- [Show HN: Amine – Prevents you from switching 100s of Browser Tabs](https://github.com/datavorous/amine)
+- [I&#39;m blocking connections from AWS to my on-prem services](http://consulting.m3047.net/dubai-letters/balkanized-internet.html)
+- [Visit Bletchley Park](https://bletchleypark.org.uk/)
+- [DuckDuckGo for Mac is now open source](https://github.com/duckduckgo/macos-browser)
 <!-- BLOG-POST-LIST:END -->
 
 ---
