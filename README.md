@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Giant underwater avalanche decimated Atlantic seafloor 60k years ago](https://www.livescience.com/planet-earth/rivers-oceans/giant-underwater-avalanche-decimated-atlantic-seafloor-60-000-years-ago-1st-of-its-kind-map-reveals)
 - [CIEL Is an Extended Lisp](http://ciel-lang.org/)
 - [Sail and Muddy: A Retrospective](https://feelmuddy.notion.site/Sail-Muddy-A-Retrospective-388a528951de4da58e66940c5fb85b8a)
 - [Resilient Anonymous Communication for Everyone &lpar;Race&rpar;](https://www.darpa.mil/program/resilient-anonymous-communication-for-everyone)
-- [The fight to ban gas-powered cars in the 1960s](https://grist.org/transportation/the-forgotten-fight-to-ban-gas-powered-cars-in-the-1960s/)
-- [The Far-Reaching Ripple Effects of a Discredited Cancer Study](https://www.wsj.com/health/healthcare/cancer-study-retracted-research-fallout-9573f842)
+- [Experience the Apollo 11 Lunar Landing](https://www.firstmenonthemoon.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
