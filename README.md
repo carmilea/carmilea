@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Agnost is an open source GitOps platform running on Kubernetes clusters](https://agnost.dev/)
 - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 - [Thousands of papers misidentify microscopes, in possible sign of misconduct](https://retractionwatch.com/2024/08/27/exclusive-thousands-of-papers-misidentify-microscopes-in-possible-sign-of-misconduct/)
 - [Japan police: Nearly 4k who died alone at home not found for over a month](https://www3.nhk.or.jp/nhkworld/en/news/20240830_02/)
 - [Low-cost 16 EEG channels cap &lpar;hat&rpar; for PiEEG](https://pieeg.com/news/low-cost-16-eeg-channels-cap-hat-available-for-buy-all-in-one/)
-- [Rubi: Symbolic integrator based on an extensive system of integration rules](https://rulebasedintegration.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
