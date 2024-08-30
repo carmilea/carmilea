@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Time-Memory Trade-Offs Sound the Death Knell for GPRS and GSM](https://www.iacr.org/cryptodb/data/paper.php?pubkey=34281)
 - [Calendar Queues: A Fast O&lpar;1&rpar; Priority Queue Implementation &lpar;1998&rpar;](https://dl.acm.org/doi/pdf/10.1145/63039.63045)
-- [Tabbed out on the Oregon Trail](https://blog.zarfhome.com/2024/08/tabbed-out-on-the-oregon-trail)
 - [Rust&#39;s Ugly Syntax &lpar;2023&rpar;](https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html)
 - [Open Source Twitch for Developers](https://github.com/algora-io/tv)
+- [Show HN: Amine – Prevents you from switching 100s of Browser Tabs](https://github.com/datavorous/amine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
