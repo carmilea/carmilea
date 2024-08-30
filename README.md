@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hadrius &lpar;YC W23&rpar; Is Hiring a Rising-Star Engineer to Champion Customer Success](https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer)
+- [MongoDB takes a swing at PostgreSQL after claiming wins against rival](https://www.theregister.com/2024/08/30/mongodb_postgresql/)
+- [Hadrius &lpar;YC W23&rpar; Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer)
 - [UK researchers find Alzheimer&#39;s-like brain changes in long Covid patients](https://uknow.uky.edu/research/uk-researchers-find-alzheimer-s-brain-changes-long-covid-patients)
+- [Rust in Linux Revisited](https://drewdevault.com/2024/08/30/2024-08-30-Rust-in-Linux-revisited.html)
 - [Architectural Effects on Maximum Dependency Lengths of Recurrent Neural Networks](https://arxiv.org/abs/2408.11946)
-- [UC Berkeley will delete all alumni email accounts with &gt;5GB stored](https://twitter.com/jachiam0/status/1829546662735560735)
-- [To Nerves from Elixir](https://underjord.io/to-nerves-from-elixir.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
