@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Japan was the future but it&#39;s stuck in the past](https://www.bbc.com/news/world-asia-63830490)
+- [Show HN: I made a site that lets everyone edit the same gradient in real-time](https://internetgradient.com)
+- [Japan was the future but it&#39;s stuck in the past &lpar;2023&rpar;](https://www.bbc.com/news/world-asia-63830490)
 - [Motion &lpar;YC W20&rpar; is hiring TypeScript back end engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [The Most Dangerous Email &lpar;to my career&rpar; I&#39;ve Sent](https://www.notyourlanguage.com/post/scariest_email/)
 - [Drug Development Failure: how GLP-1 development was abandoned in 1990](https://muse.jhu.edu/pub/1/article/936036/pdf)
 - [Language and shell in Go with 92% test coverage and instant CI/CD [video]](https://www.youtube.com/watch?v=YzIiUjgnSsA)
 <!-- BLOG-POST-LIST:END -->
