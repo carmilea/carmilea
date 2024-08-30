@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Calendar Queues: A Fast O&lpar;1&rpar; Priority Queue Implementation &lpar;1998&rpar;](https://dl.acm.org/doi/pdf/10.1145/63039.63045)
+- [Rust&#39;s Ugly Syntax &lpar;2023&rpar;](https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html)
 - [Show HN: Amine – Prevents you from switching 100s of Browser Tabs](https://github.com/datavorous/amine)
 - [I&#39;m blocking connections from AWS to my on-prem services](http://consulting.m3047.net/dubai-letters/balkanized-internet.html)
 - [Visit Bletchley Park](https://bletchleypark.org.uk/)
-- [DuckDuckGo for Mac is now open source](https://github.com/duckduckgo/macos-browser)
-- [Show HN: MinutesLink – AI note taker for online calls](https://minuteslink.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
