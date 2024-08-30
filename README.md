@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I made a site that lets everyone edit the same gradient in real-time](https://internetgradient.com)
-- [Japan was the future but it&#39;s stuck in the past &lpar;2023&rpar;](https://www.bbc.com/news/world-asia-63830490)
-- [Motion &lpar;YC W20&rpar; is hiring TypeScript back end engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [Icon &lpar;real creators, AI ads&rpar; is hiring software engineers &lpar;NYC&rpar;](https://icon.me/careers)
+- [Brazilian court orders suspension of X](https://www.theguardian.com/technology/article/2024/aug/30/elon-musk-x-could-face-ban-in-brazil-after-failure-to-appoint-legal-representative)
+- [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 - [Drug Development Failure: how GLP-1 development was abandoned in 1990](https://muse.jhu.edu/pub/1/article/936036/pdf)
 - [Language and shell in Go with 92% test coverage and instant CI/CD [video]](https://www.youtube.com/watch?v=YzIiUjgnSsA)
 <!-- BLOG-POST-LIST:END -->
