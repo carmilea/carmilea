@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- [I learned the language of computer programming in my 50s – what I discovered](https://www.theguardian.com/technology/article/2024/aug/31/learning-computer-programming-language-coding-devil-stack-andrew-smith)
 - [The Threat to OpenAI Is Growing](https://www.wsj.com/tech/ai/ai-chatgpt-nvidia-apple-facebook-383943d1)
 - [Signals for Tailwind CSS &lpar;styling based on ancestor state via style queries&rpar;](https://github.com/brandonmcconnell/tailwindcss-signals)
-- [Meta enforces purpose limitation via Privacy Aware Infrastructure at scale](https://engineering.fb.com/2024/08/27/security/privacy-aware-infrastructure-purpose-limitation-meta/)
-- [Las Vegas police could boycott working NFL games over new facial ID policy](https://www.reviewjournal.com/local/local-las-vegas/nfl-facial-recognition-policy-upsets-las-vegas-police-union-3128202/)
-- [Why You Should Learn Linux &lpar;As a Developer&rpar;](https://opiero.medium.com/why-you-should-learn-linux-9ceace168e5c)
+- [WatchYourLAN: Lightweight Network IP Scanner](https://github.com/aceberg/WatchYourLAN)
 <!-- BLOG-POST-LIST:END -->
 
 ---
