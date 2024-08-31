@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Ode to My 5-Year-Old Samsung Galaxy S10e](https://mbrizic.com/blog/samsung-galaxy-s10e/)
+- [One Million new Bluesky users in 3 days](https://bsky.app/profile/bsky.app/post/3l3277gkjjc2y)
+- [Boox Palma Review: A Phone-Sized E-Ink Android Device That Isn&#39;t a Phone](https://ewritable.com/ereaders/boox-palma/review/)
 - [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
 - [Landlords Face a $1.5T Commercial Real Estate Maturity Wall](https://www.bloomberg.com/news/articles/2024-08-31/landlords-face-a-1-5-trillion-commercial-real-estate-maturity-wall)
-- [Greece announces new rules banning mobile phones in schools from September](https://www.euronews.com/my-europe/2024/08/31/greece-announces-new-rules-banning-mobile-phones-in-schools-from-september)
-- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- [Federal Appeals Court Once Again Rejects Blanket Gun Ban for Cannabis Consumers](https://norml.org/blog/2024/08/29/federal-appeals-court-once-again-rejects-blanket-gun-ban-for-cannabis-consumers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
