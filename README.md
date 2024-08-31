@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Learn Linux &lpar;As a Developer&rpar;](https://opiero.medium.com/why-you-should-learn-linux-9ceace168e5c)
 - [Artifacts are now generally available](https://www.anthropic.com/news/artifacts)
 - [Nearly half of Nvidia&#39;s revenue comes from four mystery whales each buying $3B+](https://fortune.com/2024/08/29/nvidia-jensen-huang-ai-customers/)
 - [My fake job in Y2K preparedness](https://www.nplusonemag.com/issue-48/essays/the-contingency-contingent/)
-- [What it&#39;s like take a train across America, a visual diary](https://www.washingtonpost.com/travel/interactive/2024/amtrak-train-travel-diary/)
-- [Carbon removal plant absorbs CO2 at 99,000 times the rate of all Earth&#39;s oceans](https://www.thebrighterside.news/post/carbon-removal-plant-absorbs-co2-at-99000-times-the-rate-of-all-earths-oceans-combined/)
+- [Did your car witness a crime? Bay Area police may be coming for your Tesla](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
