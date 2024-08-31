@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Artifacts are now generally available](https://www.anthropic.com/news/artifacts)
+- [Nearly half of Nvidia&#39;s revenue comes from four mystery whales each buying $3B+](https://fortune.com/2024/08/29/nvidia-jensen-huang-ai-customers/)
+- [My fake job in Y2K preparedness](https://www.nplusonemag.com/issue-48/essays/the-contingency-contingent/)
 - [What it&#39;s like take a train across America, a visual diary](https://www.washingtonpost.com/travel/interactive/2024/amtrak-train-travel-diary/)
-- [Texas State Police Gear Up for Expansion of Surveillance Tech](https://www.texasobserver.org/texas-dps-surveillance-tangle-cobwebs/)
-- [Harder Drive: hard drives we didn&#39;t want, or need [video] &lpar;2022&rpar;](http://tom7.org/harder/)
-- [Rust solves the problem of incomplete Kernel Linux API docs](https://vt.social/@lina/113056457969145576)
-- [Lucee: A light-weight dynamic CFML scripting language for the JVM](https://www.lucee.org/)
+- [Carbon removal plant absorbs CO2 at 99,000 times the rate of all Earth&#39;s oceans](https://www.thebrighterside.news/post/carbon-removal-plant-absorbs-co2-at-99000-times-the-rate-of-all-earths-oceans-combined/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
