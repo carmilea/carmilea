@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
+- [Landlords Face a $1.5T Commercial Real Estate Maturity Wall](https://www.bloomberg.com/news/articles/2024-08-31/landlords-face-a-1-5-trillion-commercial-real-estate-maturity-wall)
+- [Greece announces new rules banning mobile phones in schools from September](https://www.euronews.com/my-europe/2024/08/31/greece-announces-new-rules-banning-mobile-phones-in-schools-from-september)
 - [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- [I learned the language of computer programming in my 50s – what I discovered](https://www.theguardian.com/technology/article/2024/aug/31/learning-computer-programming-language-coding-devil-stack-andrew-smith)
-- [The Threat to OpenAI Is Growing](https://www.wsj.com/tech/ai/ai-chatgpt-nvidia-apple-facebook-383943d1)
-- [Signals for Tailwind CSS &lpar;styling based on ancestor state via style queries&rpar;](https://github.com/brandonmcconnell/tailwindcss-signals)
-- [WatchYourLAN: Lightweight Network IP Scanner](https://github.com/aceberg/WatchYourLAN)
+- [Federal Appeals Court Once Again Rejects Blanket Gun Ban for Cannabis Consumers](https://norml.org/blog/2024/08/29/federal-appeals-court-once-again-rejects-blanket-gun-ban-for-cannabis-consumers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
