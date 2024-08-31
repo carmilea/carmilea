@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Deepwater Sub Recovers Roman Battering Ram Used in Carthage in Punic Wars Battle](https://gizmodo.com/deepwater-submarine-recovers-roman-battering-ram-from-ancient-battle-2000493180)
-- [Why A.I. Isn&#39;t Going to Make Art](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)
+- [Sisk – Lightweight .NET Web Framework](https://www.sisk-framework.org/)
+- [Show HN: Typeform alternative, turns Markdown to forms](https://blocks.md)
 - [Alexander Grothendieck: a forgotten genius– or a lonely madman?](https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence)
 - [Orphaning bcachefs-tools in Debian](https://jonathancarter.org/2024/08/29/orphaning-bcachefs-tools-in-debian/)
-- [Google Cloud: synchronous disk replication](https://cloud.google.com/compute/docs/disks/about-regional-persistent-disk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
