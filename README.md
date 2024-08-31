@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jerry &lpar;YC S17&rpar; Is Hiring Lead Product &lpar;New Product, B2B GenAI Platform&rpar;](https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf)
+- [NSA Releases Internal 1982 Lecture by Rear Admiral Grace Hopper [video]](https://www.youtube.com/watch?v=_bP14OzIJWI)
+- [Cassette Tape Archive](http://www.tapedeck.org/index.php)
 - [Expect – Linux tool for automating interactive programs](https://linux.die.net/man/1/expect)
-- [Crows Are Even Smarter Than We Thought](https://nautil.us/crows-are-even-smarter-than-we-thought-820066/)
-- [UK researchers find Alzheimer&#39;s-like brain changes in long Covid patients](https://uknow.uky.edu/research/uk-researchers-find-alzheimer-s-brain-changes-long-covid-patients)
-- [Rust in Linux Revisited](https://drewdevault.com/2024/08/30/2024-08-30-Rust-in-Linux-revisited.html)
+- [Crows are even smarter than we thought](https://nautil.us/crows-are-even-smarter-than-we-thought-820066/)
+- [Hadrius &lpar;YC W23&rpar; Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
