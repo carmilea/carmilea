@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rediscovering the Small Web &lpar;2020&rpar;](https://neustadt.fr/essays/the-small-web/)
+- [Five Most Productive Years: What Happened and What&#39;s Next](https://writings.stephenwolfram.com/2024/08/five-most-productive-years-what-happened-and-whats-next/)
 - [Cassette Tape Archive](http://www.tapedeck.org/index.php)
 - [Expect – Linux tool for automating interactive programs](https://linux.die.net/man/1/expect)
 - [Crows are even smarter than we thought](https://nautil.us/crows-are-even-smarter-than-we-thought-820066/)
-- [Hadrius &lpar;YC W23&rpar; Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer)
-- [UK researchers find Alzheimer&#39;s-like brain changes in long Covid patients](https://uknow.uky.edu/research/uk-researchers-find-alzheimer-s-brain-changes-long-covid-patients)
 <!-- BLOG-POST-LIST:END -->
 
 ---
