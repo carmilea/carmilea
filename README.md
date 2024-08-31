@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is my vision that bad? No, it&#39;s just a bug in Apple&#39;s Calculator](https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/)
+- [Newest social network does not suck](https://www.metafilter.com/205297/newest-social-network-does-not-suck)
 - [Rediscovering the Small Web &lpar;2020&rpar;](https://neustadt.fr/essays/the-small-web/)
+- [Radiance Cascades: A Novel High-Res Sol. For Multidim Non-LTE Radiative Transfer](https://arxiv.org/abs/2408.14425)
 - [Five Most Productive Years: What Happened and What&#39;s Next](https://writings.stephenwolfram.com/2024/08/five-most-productive-years-what-happened-and-whats-next/)
-- [Cassette Tape Archive](http://www.tapedeck.org/index.php)
-- [Expect – Linux tool for automating interactive programs](https://linux.die.net/man/1/expect)
-- [Crows are even smarter than we thought](https://nautil.us/crows-are-even-smarter-than-we-thought-820066/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
