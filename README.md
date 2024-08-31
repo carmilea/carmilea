@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [This month in Servo: tabbed browsing, Windows buffs, devtools, and more](https://servo.org/blog/2024/08/31/this-month-in-servo/)
+- [The Great Vic Gravel Route: Crossing Victoria on Unsealed Roads](https://little-maps.com/2022/01/12/the-great-vic-gravel-route-exploring-victoria-on-unsealed-roads/)
+- [Iron as an inexpensive storage medium for hydrogen](https://ethz.ch/en/news-and-events/eth-news/news/2024/08/iron-as-an-inexpensive-storage-medium-for-hydrogen.html)
+- [Stonebraker Seeks to Invert the Computing Paradigm with DBOS](https://www.datanami.com/2024/03/12/stonebraker-seeks-to-invert-the-computing-paradigm-with-dbos/)
 - [Is my vision that bad? No, it&#39;s just a bug in Apple&#39;s Calculator](https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/)
-- [Newest social network does not suck](https://www.metafilter.com/205297/newest-social-network-does-not-suck)
-- [Rediscovering the Small Web &lpar;2020&rpar;](https://neustadt.fr/essays/the-small-web/)
-- [Radiance Cascades: A Novel High-Res Sol. For Multidim Non-LTE Radiative Transfer](https://arxiv.org/abs/2408.14425)
-- [Five Most Productive Years: What Happened and What&#39;s Next](https://writings.stephenwolfram.com/2024/08/five-most-productive-years-what-happened-and-whats-next/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
