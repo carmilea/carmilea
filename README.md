@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU ChatControl is back on the agenda](https://digitalcourage.social/@echo_pbreyer/113055345076289453)
+- [Something&#39;s Poisoning America&#39;s Farms. Scientists Fear &#39;Forever&#39; Chemicals](https://www.nytimes.com/2024/08/31/climate/pfas-fertilizer-sludge-farm.html)
+- [Alexander Grothendieck: a forgotten genius– or a lonely madman?](https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence)
+- [Orphaning bcachefs-tools in Debian](https://jonathancarter.org/2024/08/29/orphaning-bcachefs-tools-in-debian/)
 - [Google Cloud: synchronous disk replication](https://cloud.google.com/compute/docs/disks/about-regional-persistent-disk)
 - [Shine with Gleam](https://rockyj-blogs.web.app/2024/08/31/shine-with-gleam.html)
-- [This month in Servo: tabbed browsing, Windows buffs, devtools, and more](https://servo.org/blog/2024/08/31/this-month-in-servo/)
-- [The Great Vic Gravel Route: Crossing Victoria on Unsealed Roads](https://little-maps.com/2022/01/12/the-great-vic-gravel-route-exploring-victoria-on-unsealed-roads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
