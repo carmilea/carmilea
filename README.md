@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Threat to OpenAI Is Growing](https://www.wsj.com/tech/ai/ai-chatgpt-nvidia-apple-facebook-383943d1)
+- [Signals for Tailwind CSS &lpar;styling based on ancestor state via style queries&rpar;](https://github.com/brandonmcconnell/tailwindcss-signals)
+- [Meta enforces purpose limitation via Privacy Aware Infrastructure at scale](https://engineering.fb.com/2024/08/27/security/privacy-aware-infrastructure-purpose-limitation-meta/)
+- [Las Vegas police could boycott working NFL games over new facial ID policy](https://www.reviewjournal.com/local/local-las-vegas/nfl-facial-recognition-policy-upsets-las-vegas-police-union-3128202/)
 - [Why You Should Learn Linux &lpar;As a Developer&rpar;](https://opiero.medium.com/why-you-should-learn-linux-9ceace168e5c)
-- [Artifacts are now generally available](https://www.anthropic.com/news/artifacts)
-- [Nearly half of Nvidia&#39;s revenue comes from four mystery whales each buying $3B+](https://fortune.com/2024/08/29/nvidia-jensen-huang-ai-customers/)
-- [My fake job in Y2K preparedness](https://www.nplusonemag.com/issue-48/essays/the-contingency-contingent/)
-- [Did your car witness a crime? Bay Area police may be coming for your Tesla](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
