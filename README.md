@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deepwater Sub Recovers Roman Battering Ram Used in Carthage in Punic Wars Battle](https://gizmodo.com/deepwater-submarine-recovers-roman-battering-ram-from-ancient-battle-2000493180)
-- [Sisk – Lightweight .NET Web Framework](https://www.sisk-framework.org/)
-- [Show HN: Typeform alternative, turns Markdown to forms](https://blocks.md)
-- [Alexander Grothendieck: a forgotten genius– or a lonely madman?](https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence)
-- [Orphaning bcachefs-tools in Debian](https://jonathancarter.org/2024/08/29/orphaning-bcachefs-tools-in-debian/)
+- [Did your car witness a crime? Bay Area police may be coming for your Tesla](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)
+- [Texas State Police Gear Up for Expansion of Surveillance Tech](https://www.texasobserver.org/texas-dps-surveillance-tangle-cobwebs/)
+- [Harder Drive: hard drives we didn&#39;t want, or need [video] &lpar;2022&rpar;](http://tom7.org/harder/)
+- [Rust solves the problem of incomplete Kernel Linux API docs](https://vt.social/@lina/113056457969145576)
+- [Lucee: A light-weight dynamic CFML scripting language for the JVM](https://www.lucee.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
