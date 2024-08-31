@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Did your car witness a crime? Bay Area police may be coming for your Tesla](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)
+- [What it&#39;s like take a train across America, a visual diary](https://www.washingtonpost.com/travel/interactive/2024/amtrak-train-travel-diary/)
 - [Texas State Police Gear Up for Expansion of Surveillance Tech](https://www.texasobserver.org/texas-dps-surveillance-tangle-cobwebs/)
 - [Harder Drive: hard drives we didn&#39;t want, or need [video] &lpar;2022&rpar;](http://tom7.org/harder/)
 - [Rust solves the problem of incomplete Kernel Linux API docs](https://vt.social/@lina/113056457969145576)
