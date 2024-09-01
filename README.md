@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI is growing faster than companies can secure it, warn industry leaders](https://venturebeat.com/ai/ai-is-growing-faster-than-companies-can-secure-it-warn-industry-leaders/)
 - [Chatbots Are Primed to Warp Reality](https://www.theatlantic.com/technology/archive/2024/08/chatbots-false-memories/679660/)
 - [The case of the nearly 7k missing pancreases](https://www.vox.com/future-perfect/367812/organ-donation-loophole-pancreas-opo)
 - [Playstation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
 - [Taming the beast that is the Django ORM – An introduction](https://www.davidhang.com/blog/2024-09-01-taming-the-django-orm/)
-- [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
 <!-- BLOG-POST-LIST:END -->
 
 ---
