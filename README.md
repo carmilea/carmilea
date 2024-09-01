@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Texan used Apple AirTags to discover plastics in Houston aren&#39;t being recycled](https://www.tomshardware.com/tech-industry/texas-resident-used-apple-airtags-to-discover-plastics-taken-to-houston-recycling-centers-arent-being-recycled)
 - [The EV evolution is going to take longer than we thought](https://www.theverge.com/2024/9/1/24232206/ev-sales-slow-hybrid-phev-charging-ford-tesla)
 - [Americans&#39; love affair with big cars is killing them](https://www.economist.com/interactive/united-states/2024/08/31/americans-love-affair-with-big-cars-is-killing-them)
 - [Lego to replace oil in its bricks with pricier renewable plastic](https://www.reuters.com/business/retail-consumer/lego-replace-oil-its-bricks-with-pricier-renewable-plastic-2024-08-28/)
 - [IEEE President&#39;s Note: Why Students Should Stay with IEEE](https://spectrum.ieee.org/ieee-presidents-note-sept-2024)
-- [Using the moiré effect to show different arrows to each observer &lpar;2018&rpar;](https://www.popularmechanics.com/technology/infrastructure/a19091534/inogon-leading-mark-moire-effect-light/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
