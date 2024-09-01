@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Closer than people think&#39;: Woolly mammoth &#39;de-extinction&#39; is nearing reality](https://www.livescience.com/animals/extinct-species/closer-than-people-think-woolly-mammoth-de-extinction-is-nearing-reality-and-we-have-no-idea-what-happens-next)
+- [The EV evolution is going to take longer than we thought](https://www.theverge.com/2024/9/1/24232206/ev-sales-slow-hybrid-phev-charging-ford-tesla)
+- [Americans&#39; love affair with big cars is killing them](https://www.economist.com/interactive/united-states/2024/08/31/americans-love-affair-with-big-cars-is-killing-them)
+- [Lego to replace oil in its bricks with pricier renewable plastic](https://www.reuters.com/business/retail-consumer/lego-replace-oil-its-bricks-with-pricier-renewable-plastic-2024-08-28/)
+- [IEEE President&#39;s Note: Why Students Should Stay with IEEE](https://spectrum.ieee.org/ieee-presidents-note-sept-2024)
 - [Using the moiré effect to show different arrows to each observer &lpar;2018&rpar;](https://www.popularmechanics.com/technology/infrastructure/a19091534/inogon-leading-mark-moire-effect-light/)
-- [How a leading chain of psychiatric hospitals traps patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
-- [Vizdom: Diagrams as Code](https://vizdom.dev)
-- [AI Has Created a Battle over Web Crawling](https://spectrum.ieee.org/web-crawling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
