@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Dexcom starts selling its new over-the-counter glucose monitor in the U.S.](https://www.sandiegouniontribune.com/2024/08/31/dexcom-starts-selling-its-new-over-the-counter-glucose-monitor-heres-how-much-it-costs/)
 - [Electrified thermochemical systems with high-frequency metamaterial reactors](https://www.cell.com/joule/fulltext/S2542-4351(24)00346-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435124003465%3Fshowall%3Dtrue)
-- [Texan used Apple AirTags to discover plastics in Houston aren&#39;t being recycled](https://www.tomshardware.com/tech-industry/texas-resident-used-apple-airtags-to-discover-plastics-taken-to-houston-recycling-centers-arent-being-recycled)
 - [Brain Scientists Discover the Glue That Makes Memories Stick for a Lifetime](https://www.scientificamerican.com/article/brain-scientists-finally-discover-the-glue-that-makes-memories-stick-for-a/)
-- [The EV evolution is going to take longer than we thought](https://www.theverge.com/2024/9/1/24232206/ev-sales-slow-hybrid-phev-charging-ford-tesla)
+- [IEEE President&#39;s Note: Why Students Should Stay with IEEE](https://spectrum.ieee.org/ieee-presidents-note-sept-2024)
+- [The Pentium as a Navajo Weaving](https://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
