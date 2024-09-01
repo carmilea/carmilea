@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Starliner crew reports hearing &quot;sonar like noises&quot;](https://twitter.com/SpaceBasedFox/status/1830180273130242223)
-- [Linear Algebra Done Right [pdf]](https://linear.axler.net/LADR4e.pdf)
-- [Have we stopped to think about what LLMs model?](https://www.theregister.com/2024/08/30/ai_language_cognition_research/)
+- [How a Leading Chain of Psychiatric Hospitals Traps Patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
 - [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
-- [Rediscovering Turbo Pascal](https://journal.paoloamoroso.com/rediscovering-turbo-pascal)
+- [The Design and Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
+- [The web&#39;s clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
+- [Anarchy in Sudan has spawned the world’s worst famine in 40 years](https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
