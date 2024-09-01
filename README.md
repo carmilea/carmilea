@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rediscovering Turbo Pascal](https://journal.paoloamoroso.com/rediscovering-turbo-pascal)
+- [The Design and Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
 - [HMD Barbie Phone](https://www.hmd.com/en_int/hmd-barbie-phone)
 - [Anarchy in Sudan has spawned the world’s worst famine in 40 years](https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years)
 - [Einstein&#39;s Other Theory of Everything](https://nautil.us/einsteins-other-theory-of-everything-823245/)
-- [Ask HN: How To: Internal Documentation?](https://news.ycombinator.com/item?id=41415619)
-- [C Course Online](https://lucidar.me/en/c-class/learn-c-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
