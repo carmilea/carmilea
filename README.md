@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Oprah will screw up the AI story](https://www.anildash.com//2024/08/31/oprah-wrong-ai/)
 - [The thrill of AI is fading – and Wall Street is getting clear-eyed about value](https://www.cnn.com/2024/08/30/business/nvidia-wall-street-ai-bubble-nightcap/index.html)
+- [Palmer Luckey, American Vulcan](https://www.tabletmag.com/feature/american-vulcan-palmer-luckey-anduril)
 - [AirTags key to discovery of Houston&#39;s plastic recycling deception](https://appleinsider.com/articles/24/08/31/airtags-key-to-discovery-of-houstons-plastic-recycling-deception)
-- [Boox Palma Review: A Phone-Sized E-Ink Android Device That Isn&#39;t a Phone](https://ewritable.com/ereaders/boox-palma/review/)
-- [Freetube is the best way to watch YouTube](https://www.popsci.com/diy/youtube-alternative-freetube/)
+- [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
 <!-- BLOG-POST-LIST:END -->
 
 ---
