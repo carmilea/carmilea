@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [C Course Online](https://lucidar.me/en/c-class/learn-c-programming/)
+- [The papers that most heavily cite retracted studies](https://www.nature.com/articles/d41586-024-02719-5)
 - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
 - [E Ink faces growing competition in the &quot;paper-like&quot; display space](https://liliputing.com/e-ink-faces-growing-competition-in-the-paper-like-display-space/)
-- [AI is growing faster than companies can secure it, warn industry leaders](https://venturebeat.com/ai/ai-is-growing-faster-than-companies-can-secure-it-warn-industry-leaders/)
-- [Chatbots Are Primed to Warp Reality](https://www.theatlantic.com/technology/archive/2024/08/chatbots-false-memories/679660/)
-- [Playstation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
+- [Founder Mode](https://paulgraham.com/foundermode.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
