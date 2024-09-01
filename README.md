@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Ode to My 5-Year-Old Samsung Galaxy S10e](https://mbrizic.com/blog/samsung-galaxy-s10e/)
-- [One Million new Bluesky users in 3 days](https://bsky.app/profile/bsky.app/post/3l3277gkjjc2y)
+- [AirTags key to discovery of Houston&#39;s plastic recycling deception](https://appleinsider.com/articles/24/08/31/airtags-key-to-discovery-of-houstons-plastic-recycling-deception)
 - [Boox Palma Review: A Phone-Sized E-Ink Android Device That Isn&#39;t a Phone](https://ewritable.com/ereaders/boox-palma/review/)
+- [Freetube is the best way to watch YouTube](https://www.popsci.com/diy/youtube-alternative-freetube/)
 - [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
-- [Landlords Face a $1.5T Commercial Real Estate Maturity Wall](https://www.bloomberg.com/news/articles/2024-08-31/landlords-face-a-1-5-trillion-commercial-real-estate-maturity-wall)
+- [A brief history of barbed wire fence telephone networks](https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
