@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Closer than people think&#39;: Woolly mammoth &#39;de-extinction&#39; is nearing reality](https://www.livescience.com/animals/extinct-species/closer-than-people-think-woolly-mammoth-de-extinction-is-nearing-reality-and-we-have-no-idea-what-happens-next)
 - [Using the moiré effect to show different arrows to each observer &lpar;2018&rpar;](https://www.popularmechanics.com/technology/infrastructure/a19091534/inogon-leading-mark-moire-effect-light/)
-- [How a Leading Chain of Psychiatric Hospitals Traps Patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
-- [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
-- [The Design and Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
-- [The web&#39;s clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
+- [How a leading chain of psychiatric hospitals traps patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
+- [Vizdom: Diagrams as Code](https://vizdom.dev)
+- [AI Has Created a Battle over Web Crawling](https://spectrum.ieee.org/web-crawling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
