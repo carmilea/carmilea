@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using the moiré effect to show different arrows to each observer &lpar;2018&rpar;](https://www.popularmechanics.com/technology/infrastructure/a19091534/inogon-leading-mark-moire-effect-light/)
 - [How a Leading Chain of Psychiatric Hospitals Traps Patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
 - [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
 - [The Design and Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
 - [The web&#39;s clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
-- [Anarchy in Sudan has spawned the world’s worst famine in 40 years](https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
