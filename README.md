@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
+- [Starlink Defies Order to Block X in Brazil](https://www.nytimes.com/2024/09/01/world/americas/elon-musk-brazil-starlink-x.html)
 - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
+- [Numbers Go Up](https://lethain.com/numbers-go-up/)
 - [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
-- [Vampires and Arithmomania](https://oddathenaeum.com/vampires-arithmomania/)
-- [Cosy Computing](https://www.datagubbe.se/cosy/)
-- [We can now watch Grace Hopper&#39;s famed 1982 lecture on YouTube](https://arstechnica.com/science/2024/08/we-can-now-watch-grace-hoppers-famed-1982-lecture-on-youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
