@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Various Roles in Austria](https://bitmovin.com/careers/)
-- [30th Annual Interactive Fiction Competition](https://ifcomp.org)
+- [OFNL Suffer Major National UK Full Fibre Broadband Outage](https://www.ispreview.co.uk/index.php/2024/09/ofnl-suffer-major-national-uk-full-fibre-broadband-outage.html)
 - [Show HN: Defrag the Game](https://defrag-game.com)
 - [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
 - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
