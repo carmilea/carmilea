@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Leak, Facebook Partner Brags About Listening to Your Phone&#39;s Microphone to S](https://futurism.com/the-byte/facebook-partner-phones-listening-microphone)
 - [Unlock Articles with Paywallskip](https://www.paywallskip.com/)
 - [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
 - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
 - [Numbers Go Up](https://lethain.com/numbers-go-up/)
+- [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
