@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1M Users](https://blog.spacehey.com/entry?id=1245177)
+- [How the Oldest Company in the World Survived Nearly 1,500 Years](https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html)
+- [Procreate defies AI trend, pledges &quot;no generative AI&quot; in its illustration app](https://arstechnica.com/information-technology/2024/08/procreate-defies-ai-trend-pledges-no-generative-ai-in-its-illustration-app/)
 - [Tbsp – treesitter-based source processing language](https://git.peppe.rs/languages/tbsp/)
 - [Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs](https://arxiv.org/abs/2408.00114)
-- [Notes/Primer on Clang Compiler Front End &lpar;1&rpar;: Introduction and Architecture](https://youssefaa.com/notes/notes-on-clang-compiler-frontend/)
-- [Why Americans Stopped Moving](https://www.axios.com/2024/09/01/americans-moving-less-post-pandemic)
-- [Dublin Core, what is it good for?](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for)
 <!-- BLOG-POST-LIST:END -->
 
 ---
