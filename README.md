@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Andrew Gelman: Is marriage associated with happiness for men or for women?](https://statmodeling.stat.columbia.edu/2024/08/27/marriage-happiness/)
 - [Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF](https://github.com/jboirazian/LuneForge)
+- [Show HN: Replicate App-Embedded DuckDBs into PostgreSQL with SyncLite OSS](https://github.com/syncliteio/SyncLite)
 - [Sleep on it: How the brain processes many experiences – even when &#39;offline&#39;](https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline)
-- [How to Deploy Node.js to AWS Lambda with OpenTofu and GitHub Actions](https://developer-friendly.blog/blog/2024/09/02/how-to-deploy-nodejs-to-aws-lambda-with-opentofu--github-actions/)
 - [What Does It Mean to Learn?](https://www.newyorker.com/culture/open-questions/what-does-it-really-mean-to-learn)
-- [A 30-hour workweek in America? It nearly became law](https://www.washingtonpost.com/history/2024/09/02/30-hour-workweek-fdr-labor-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
