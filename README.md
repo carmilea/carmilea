@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Gelman: Is marriage associated with happiness for men or for women?](https://statmodeling.stat.columbia.edu/2024/08/27/marriage-happiness/)
-- [Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF](https://github.com/jboirazian/LuneForge)
-- [Show HN: Replicate App-Embedded DuckDBs into PostgreSQL with SyncLite OSS](https://github.com/syncliteio/SyncLite)
-- [Sleep on it: How the brain processes many experiences – even when &#39;offline&#39;](https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline)
-- [What Does It Mean to Learn?](https://www.newyorker.com/culture/open-questions/what-does-it-really-mean-to-learn)
+- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41427027)
+- [Launch HN: Fortress &lpar;YC S24&rpar; – Database platform for multi-tenant SaaS](https://news.ycombinator.com/item?id=41426998)
+- [Congress Should Make Universities Pay for Handing Out Useless Degrees](https://thefederalist.com/2024/09/02/congress-should-make-universities-pay-for-handing-out-useless-degrees/)
+- [In the Beginning, There Was Computation](https://nautil.us/in-the-beginning-there-was-computation-787023/)
+- [Ask HN: Who is hiring? &lpar;September 2024&rpar;](https://news.ycombinator.com/item?id=41425910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
