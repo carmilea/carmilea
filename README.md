@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tbsp – treesitter-based source processing language](https://git.peppe.rs/languages/tbsp/)
+- [Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs](https://arxiv.org/abs/2408.00114)
 - [Notes/Primer on Clang Compiler Front End &lpar;1&rpar;: Introduction and Architecture](https://youssefaa.com/notes/notes-on-clang-compiler-frontend/)
-- [Oregon law rolling back drug decriminalization set to take effect](https://apnews.com/article/oregon-drugs-law-recriminalization-decriminalization-d188a0c678973d0d65419c52467f09a4)
-- [Artificial Intelligence Cheapens the Artistic Imagination](https://www.convergemedia.org/artificial-intelligence-cheapens-the-imagination/)
 - [Dublin Core, what is it good for?](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for)
+- [A Lot of &#39;Unskilled&#39; Workers Aren&#39;t](https://www.bloomberg.com/opinion/articles/2024-09-01/labor-unskilled-workers-is-a-demeaning-term)
 <!-- BLOG-POST-LIST:END -->
 
 ---
