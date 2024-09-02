@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DOjS – A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
-- [Full Text, Full Archive RSS Feeds for Any Blog](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)
-- [Brazil to Fine Anyone Using a VPN to Access X $8,874 per Day; Elon Musk Responds](https://www.complex.com/pop-culture/a/treyalston/brazil-x-elon-musk-fine)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring Various Roles in Austria](https://bitmovin.com/careers/)
-- [Show HN: Defrag the Game](https://defrag-game.com)
+- [Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF](https://github.com/jboirazian/LuneForge)
+- [Sleep on it: How the brain processes many experiences – even when &#39;offline&#39;](https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline)
+- [How to Deploy Node.js to AWS Lambda with OpenTofu and GitHub Actions](https://developer-friendly.blog/blog/2024/09/02/how-to-deploy-nodejs-to-aws-lambda-with-opentofu--github-actions/)
+- [What Does It Mean to Learn?](https://www.newyorker.com/culture/open-questions/what-does-it-really-mean-to-learn)
+- [A 30-hour workweek in America? It nearly became law](https://www.washingtonpost.com/history/2024/09/02/30-hour-workweek-fdr-labor-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
