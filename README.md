@@ -61,8 +61,8 @@
 - [Tbsp – treesitter-based source processing language](https://git.peppe.rs/languages/tbsp/)
 - [Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs](https://arxiv.org/abs/2408.00114)
 - [Notes/Primer on Clang Compiler Front End &lpar;1&rpar;: Introduction and Architecture](https://youssefaa.com/notes/notes-on-clang-compiler-frontend/)
+- [Why Americans Stopped Moving](https://www.axios.com/2024/09/01/americans-moving-less-post-pandemic)
 - [Dublin Core, what is it good for?](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for)
-- [A Lot of &#39;Unskilled&#39; Workers Aren&#39;t](https://www.bloomberg.com/opinion/articles/2024-09-01/labor-unskilled-workers-is-a-demeaning-term)
 <!-- BLOG-POST-LIST:END -->
 
 ---
