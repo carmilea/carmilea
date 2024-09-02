@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US seizes Venezuelan President Maduro&#39;s plane](https://www.bbc.co.uk/news/articles/cm2np4xl083o)
-- [Transport for London Cyber security incident](https://tfl.gov.uk/campaign/cyber-security-incident)
-- [Marijuana Is Too Strong Now](https://www.theatlantic.com/ideas/archive/2024/08/high-potency-marijuana-regulation/679639/)
+- [Show HN: A modern way to type in African languages](https://github.com/pythonbrad/afrim)
+- [Solving Redactle with Decision Trees](https://blog.valentin.sh/redactle/)
 - [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41427027)
 - [Launch HN: Fortress &lpar;YC S24&rpar; – Database platform for multi-tenant SaaS](https://news.ycombinator.com/item?id=41426998)
+- [Owners of 1-Time Passcode Theft Service Plead Guilty](https://krebsonsecurity.com/2024/09/owners-of-1-time-passcode-theft-service-plead-guilty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
