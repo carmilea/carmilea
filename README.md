@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
-- [&#39;Mindblowing&#39; fake AMD Ryzen 7 7800X3D chip investigated – buyers beware](https://www.tomshardware.com/pc-components/cpus/mindblowing-fake-amd-ryzen-7-7800x3d-chip-investigated-buyers-beware)
-- [Electrified thermochemical systems with high-frequency metamaterial reactors](https://www.cell.com/joule/fulltext/S2542-4351(24)00346-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435124003465%3Fshowall%3Dtrue)
-- [Brain Scientists Discover the Glue That Makes Memories Stick for a Lifetime](https://www.scientificamerican.com/article/brain-scientists-finally-discover-the-glue-that-makes-memories-stick-for-a/)
-- [The Pentium as a Navajo Weaving](https://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
+- [Tbsp – treesitter-based source processing language](https://git.peppe.rs/languages/tbsp/)
+- [Notes/Primer on Clang Compiler Front End &lpar;1&rpar;: Introduction and Architecture](https://youssefaa.com/notes/notes-on-clang-compiler-frontend/)
+- [Oregon law rolling back drug decriminalization set to take effect](https://apnews.com/article/oregon-drugs-law-recriminalization-decriminalization-d188a0c678973d0d65419c52467f09a4)
+- [Artificial Intelligence Cheapens the Artistic Imagination](https://www.convergemedia.org/artificial-intelligence-cheapens-the-imagination/)
+- [Dublin Core, what is it good for?](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for)
 <!-- BLOG-POST-LIST:END -->
 
 ---
