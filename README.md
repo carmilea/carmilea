@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fears children born during lockdown are years behind as they start at school](https://www.theguardian.com/society/article/2024/sep/01/fears-children-born-lockdown-start-school-covid)
+- [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
 - [Light-based technique shows 90% accuracy in early prostate cancer detection](https://medicalxpress.com/news/2024-09-based-technique-accuracy-early-prostate.html)
-- [GPD Duo](https://gpd.hk/gpdduo)
 - [Mother&#39;s gut microbiome during pregnancy shapes baby&#39;s brain development](https://medicalxpress.com/news/2024-08-mother-gut-microbiome-pregnancy-baby.html)
 - [Big Tech Sees Like a State &lpar;2020&rpar;](https://www.thediff.co/archive/big-tech-sees-like-a-state/)
-- [Show HN: Puns from Wikipedia Page Titles](https://punnily.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
