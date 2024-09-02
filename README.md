@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock Articles with Paywallskip](https://www.paywallskip.com/)
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring Various Roles in Austria](https://bitmovin.com/careers/)
+- [30th Annual Interactive Fiction Competition](https://ifcomp.org)
+- [Show HN: Defrag the Game](https://defrag-game.com)
 - [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
 - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
-- [Numbers Go Up](https://lethain.com/numbers-go-up/)
-- [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
