@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We can now watch Grace Hopper&#39;s famed 1982 lecture on YouTube](https://arstechnica.com/science/2024/08/we-can-now-watch-grace-hoppers-famed-1982-lecture-on-youtube/)
+- [&#39;Amazing&#39; Viking-age treasure travelled half the world to Scotland](https://www.theguardian.com/science/article/2024/sep/01/amazing-viking-age-treasure-travelled-half-the-world-to-scotland-analysis-finds)
 - [1M Users](https://blog.spacehey.com/entry?id=1245177)
+- [Parsing Awk Is Tricky](https://www.raygard.net/awkdoc/pages/awk_parsing_is_tricky.html)
 - [How the Oldest Company in the World Survived Nearly 1,500 Years](https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html)
-- [Procreate defies AI trend, pledges &quot;no generative AI&quot; in its illustration app](https://arstechnica.com/information-technology/2024/08/procreate-defies-ai-trend-pledges-no-generative-ai-in-its-illustration-app/)
-- [Tbsp – treesitter-based source processing language](https://git.peppe.rs/languages/tbsp/)
-- [Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs](https://arxiv.org/abs/2408.00114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
