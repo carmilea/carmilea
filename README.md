@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ashby &lpar;YC W19&rpar; Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
 - [Vampires and Arithmomania](https://oddathenaeum.com/vampires-arithmomania/)
+- [Cosy Computing](https://www.datagubbe.se/cosy/)
 - [We can now watch Grace Hopper&#39;s famed 1982 lecture on YouTube](https://arstechnica.com/science/2024/08/we-can-now-watch-grace-hoppers-famed-1982-lecture-on-youtube/)
 - [Authenticated Boot and Disk Encryption on Linux](https://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html)
-- [&#39;Amazing&#39; Viking-age treasure travelled half the world to Scotland](https://www.theguardian.com/science/article/2024/sep/01/amazing-viking-age-treasure-travelled-half-the-world-to-scotland-analysis-finds)
-- [1M Users](https://blog.spacehey.com/entry?id=1245177)
 <!-- BLOG-POST-LIST:END -->
 
 ---
