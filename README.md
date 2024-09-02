@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DOjS – A DOS JavaScript Canvas with Sound](https://github.com/SuperIlu/DOjS)
+- [Full Text, Full Archive RSS Feeds for Any Blog](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)
+- [Brazil to Fine Anyone Using a VPN to Access X $8,874 per Day; Elon Musk Responds](https://www.complex.com/pop-culture/a/treyalston/brazil-x-elon-musk-fine)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Various Roles in Austria](https://bitmovin.com/careers/)
-- [OFNL Suffer Major National UK Full Fibre Broadband Outage](https://www.ispreview.co.uk/index.php/2024/09/ofnl-suffer-major-national-uk-full-fibre-broadband-outage.html)
 - [Show HN: Defrag the Game](https://defrag-game.com)
-- [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
-- [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
