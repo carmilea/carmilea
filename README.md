@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US seizes Venezuelan President Maduro&#39;s plane](https://www.bbc.co.uk/news/articles/cm2np4xl083o)
+- [Transport for London Cyber security incident](https://tfl.gov.uk/campaign/cyber-security-incident)
+- [Marijuana Is Too Strong Now](https://www.theatlantic.com/ideas/archive/2024/08/high-potency-marijuana-regulation/679639/)
 - [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41427027)
 - [Launch HN: Fortress &lpar;YC S24&rpar; – Database platform for multi-tenant SaaS](https://news.ycombinator.com/item?id=41426998)
-- [Congress Should Make Universities Pay for Handing Out Useless Degrees](https://thefederalist.com/2024/09/02/congress-should-make-universities-pay-for-handing-out-useless-degrees/)
-- [In the Beginning, There Was Computation](https://nautil.us/in-the-beginning-there-was-computation-787023/)
-- [Ask HN: Who is hiring? &lpar;September 2024&rpar;](https://news.ycombinator.com/item?id=41425910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
