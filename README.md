@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fourier Uncertainty Principles [pdf] &lpar;2021&rpar;](https://math.uchicago.edu/~may/REU2021/REUPapers/Dubey.pdf)
-- [Formance &lpar;YC S21&rpar; Is Hiring a Technical Writer](https://www.ycombinator.com/companies/formance/jobs/cz7CHvV-technical-writer)
-- [The Engineering of Landfills](https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills)
-- [How the Higgs Field &lpar;Actually&rpar; Gives Mass to Elementary Particles](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
-- [Show HN: Repaint – a WebGL based website builder](https://repaint.com)
+- [American Radio Relay League paid $1M ransom payment](https://databreaches.net/2024/08/27/american-radio-relay-league-paid-1-million-ransom-payment/)
+- [Some Advice for How to Make Emacs Tetris Harder &lpar;2019&rpar;](https://nickdrozd.github.io/2019/01/14/tetris.html)
+- [Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
+- [Connecting TinyBase to PGlite and PostgreSQL](https://twitter.com/tinybasejs/status/1831027936117322108)
+- [Show HN: Epistolary – Respond to your emails in handwriting](https://github.com/j6k4m8/epistolary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
