@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [American Radio Relay League paid $1M ransom payment](https://databreaches.net/2024/08/27/american-radio-relay-league-paid-1-million-ransom-payment/)
-- [Some Advice for How to Make Emacs Tetris Harder &lpar;2019&rpar;](https://nickdrozd.github.io/2019/01/14/tetris.html)
+- [Howm: Personal Wiki for Emacs](https://github.com/Emacs101/howm-manual)
+- [Mondragon as the New City-State](https://www.elysian.press/p/mondragon-as-the-new-city-state)
 - [Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
-- [Connecting TinyBase to PGlite and PostgreSQL](https://twitter.com/tinybasejs/status/1831027936117322108)
+- [Hot Temperature and High Stakes Performance [pdf]](https://www3.nd.edu/~nmark/Climate/JParkHotTempHighStakes.pdf)
 - [Show HN: Epistolary – Respond to your emails in handwriting](https://github.com/j6k4m8/epistolary)
 <!-- BLOG-POST-LIST:END -->
 
