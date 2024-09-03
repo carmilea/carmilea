@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Synchronizing pong to music with constrained optimization](https://victortao.substack.com/p/song-pong)
+- [Steve Ballmer&#39;s incorrect binary search interview question](https://blog.jgc.org/2024/09/steve-ballmers-binary-search-interview.html)
 - [IBM 305 RAMAC and the 1960 Winter Olympics](https://pncnmnp.github.io/blogs/ibm-ramac-and-1960-winter-olympics.html)
+- [Why Bother with Argv[0]?](https://www.wietzebeukema.nl/blog/why-bother-with-argv0)
 - [New forms of steel for stronger, lighter cars](https://knowablemagazine.org/content/article/technology/2024/new-steel-for-stronger-lighter-cars)
-- [A picture of the sun, taken with a neutrino detector, at night through the Earth](https://newhumanist.org.uk/articles/2402/the-sun-at-night)
-- [Mineflow &lpar;YC S24&rpar; Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/mineflow/jobs/sJbXTyi-founding-machine-learning-engineer)
-- [Getting price-gouged by private equity in the UK&#39;s happiest resort &lpar;2023&rpar;](https://www.netincome.co/p/getting-price-gouged-by-private-equity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
