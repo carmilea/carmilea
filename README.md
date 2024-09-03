@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Founders Create Managers](https://skamille.medium.com/founders-create-managers-aba3c88981ba)
+- [Mineflow &lpar;YC S24&rpar; Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/mineflow/jobs/sJbXTyi-founding-machine-learning-engineer)
 - [Getting price-gouged by private equity in the UK&#39;s happiest resort &lpar;2023&rpar;](https://www.netincome.co/p/getting-price-gouged-by-private-equity)
+- [Hugging Face tackles speech-to-speech](https://github.com/huggingface/speech-to-speech)
 - [Economist Eugene Fama: &#39;Efficient markets is a hypothesis. It&#39;s not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
-- [Canva Hikes Pices by 300pc as It Readies for IPO](https://ia.acs.org.au/article/2024/canva-hikes-prices-by-300pc-as-it-readies-for-ipo.html)
-- [Diffusion Is Spectral Autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)
-- [IPMI](https://computer.rip/2024-08-31-ipmi.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
