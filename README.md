@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft&#39;s &#39;Recall&#39; feature can&#39;t be uninstalled after all](https://mashable.com/article/microsoft-recall-feature-cant-be-uninstalled)
+- [Feds Kill Plan to Curb Medicare Advantage Overbilling After Industry Opposition](https://kffhealthnews.org/news/article/medicare-advantage-overbilling-diagnostic-codes-cms-killed-rule/)
 - [Is My Blue Your Blue?](https://ismy.blue/)
 - [QWERTY-Flip: The better keyboard layout your fingers already know](https://nick-gravgaard.com/qwerty-flip/)
 - [Open Mathematics Depository](https://openmathdep.tuxfamily.org/)
-- [Playdate Game Zero Zero: Perfect Stop](https://play.date/games/zero-zero/)
-- [Long-term unemployment leads to disengagement and apathy](https://www.psypost.org/long-term-unemployment-leads-to-disengagement-and-apathy-rather-than-efforts-to-regain-control/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
