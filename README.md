@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Unpacking Gartner 2024 Data Management Hype Cycle](https://www.youtube.com/watch?v=Kat81T-hVHs)
 - [7. Course Wrap-Up &amp; Gen AI App Store Exploration | H2O Wave](https://www.youtube.com/watch?v=cLqP5_4I5xw)
 - [6. Showcasing Practical Applications | H2O Wave](https://www.youtube.com/watch?v=26SUiH-ERwM)
 - [LiveRamp optimizes performance across Snowflake, Iceberg and all data in one platform: SingleStore](https://www.youtube.com/watch?v=DI3edy-PoOM)
 - [Beginners Guide to RAG Evaluation with Professor Tom Yeh | SingleStore Webinars](https://www.youtube.com/watch?v=2fqs8Nlh5UI)
-- [Achieve near real-time analytics on Amazon DynamoDB with Singlestore | SingleStore Webinars](https://www.youtube.com/watch?v=_X1YKYV4tfE)
 <!-- YOUTUBE:END -->
 
 
