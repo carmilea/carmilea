@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Founders Create Managers](https://skamille.medium.com/founders-create-managers-aba3c88981ba)
+- [IBM 305 RAMAC and the 1960 Winter Olympics](https://pncnmnp.github.io/blogs/ibm-ramac-and-1960-winter-olympics.html)
+- [New forms of steel for stronger, lighter cars](https://knowablemagazine.org/content/article/technology/2024/new-steel-for-stronger-lighter-cars)
+- [A picture of the sun, taken with a neutrino detector, at night through the Earth](https://newhumanist.org.uk/articles/2402/the-sun-at-night)
 - [Mineflow &lpar;YC S24&rpar; Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/mineflow/jobs/sJbXTyi-founding-machine-learning-engineer)
 - [Getting price-gouged by private equity in the UK&#39;s happiest resort &lpar;2023&rpar;](https://www.netincome.co/p/getting-price-gouged-by-private-equity)
-- [Hugging Face tackles speech-to-speech](https://github.com/huggingface/speech-to-speech)
-- [Economist Eugene Fama: &#39;Efficient markets is a hypothesis. It&#39;s not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
