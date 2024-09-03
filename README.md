@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Formance &lpar;YC S21&rpar; Is Hiring a Technical Writer](https://www.ycombinator.com/companies/formance/jobs/cz7CHvV-technical-writer)
+- [The Engineering of Landfills](https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills)
 - [How the Higgs Field &lpar;Actually&rpar; Gives Mass to Elementary Particles](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
+- [Show HN: Repaint – a WebGL based website builder](https://repaint.com)
 - [Chromatone – Visual Music Language](https://chromatone.center/)
-- [A photographer captures life in America&#39;s last remaining old-growth forests](https://www.npr.org/sections/the-picture-show/2024/09/03/g-s1-5057/photographer-captures-life-in-old-growth-forests)
-- [Clearview AI faces $45.6M fine in the Netherlands for &#39;illegal database of faces](https://www.cbc.ca/news/business/clearview-ai-netherlands-1.7311631)
-- [Rust All Hands 2025](https://blog.rust-lang.org/inside-rust/2024/09/02/all-hands.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
