@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the Higgs Field &lpar;Actually&rpar; Gives Mass to Elementary Particles](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
+- [Chromatone – Visual Music Language](https://chromatone.center/)
 - [A photographer captures life in America&#39;s last remaining old-growth forests](https://www.npr.org/sections/the-picture-show/2024/09/03/g-s1-5057/photographer-captures-life-in-old-growth-forests)
-- [Ask HN: Where are the part-time remote coding jobs?](https://news.ycombinator.com/item?id=41435656)
-- [How to Take Home &quot;Garbage Bags Full of $20s&quot;](https://www.hollywoodreporter.com/tv/tv-news/stars-getting-rich-fan-conventions-933062/)
-- [Show HN: PlasCAD: Open-source plasmid editor](https://github.com/David-OConnor/plascad)
-- [Mobile phones not linked to brain cancer, biggest study to date finds](https://www.theguardian.com/science/article/2024/sep/04/mobile-phones-not-linked-to-brain-cancer-biggest-study-to-date-finds)
+- [Clearview AI faces $45.6M fine in the Netherlands for &#39;illegal database of faces](https://www.cbc.ca/news/business/clearview-ai-netherlands-1.7311631)
+- [Rust All Hands 2025](https://blog.rust-lang.org/inside-rust/2024/09/02/all-hands.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
