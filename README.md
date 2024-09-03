@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smarter, Not Harder: Developing with Cursor and Claude Sonnet](https://jstoppa.com/posts/artificial-intelligence/fundamentals/code-smarter-not-harder-developing-with-cursor-and-claude-sonnet/post/)
-- [Iranian writer is sentenced to 12 years after tweeting a dot at supreme leader](https://www.npr.org/2024/09/02/g-s1-20579/iran-sentenced-12-years-tweet-supreme-leader)
-- [Company Says It Uses Your Phones Mic to Serve Ads for Facebook, Google, etc.](https://news.itsfoss.com/ad-company-listening-to-microphone/)
-- [I hate Stripe, so I&#39;m going to build my own payment processor](https://old.reddit.com/r/SaaS/comments/1f762xf/i_hate_stripe_so_im_going_to_build_my_own_payment/)
+- [QWERTY-Flip: The better keyboard layout your fingers already know](https://nick-gravgaard.com/qwerty-flip/)
+- [Open Mathematics Depository](https://openmathdep.tuxfamily.org/)
+- [Playdate Game Zero Zero: Perfect Stop](https://play.date/games/zero-zero/)
+- [Long-term unemployment leads to disengagement and apathy](https://www.psypost.org/long-term-unemployment-leads-to-disengagement-and-apathy-rather-than-efforts-to-regain-control/)
 - [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
 <!-- BLOG-POST-LIST:END -->
 
