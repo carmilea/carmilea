@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting price-gouged by private equity in the UK&#39;s happiest resort &lpar;2023&rpar;](https://www.netincome.co/p/getting-price-gouged-by-private-equity)
 - [Economist Eugene Fama: &#39;Efficient markets is a hypothesis. It&#39;s not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
-- [Why Britain Drives on the Left](https://www.theguardian.com/notesandqueries/query/0,5753,-19385,00.html)
 - [Canva Hikes Pices by 300pc as It Readies for IPO](https://ia.acs.org.au/article/2024/canva-hikes-prices-by-300pc-as-it-readies-for-ipo.html)
 - [Diffusion Is Spectral Autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)
 - [IPMI](https://computer.rip/2024-08-31-ipmi.html)
