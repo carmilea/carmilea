@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oakland Police Are Towing Teslas for Crime Scene Footage](https://www.carscoops.com/2024/09/california-police-might-use-your-teslas-sentry-video-to-solve-nearby-crimes/)
 - [PropelAuth &lpar;YC W22&rpar; is hiring engineers who love to write](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator)
 - [Writing a book in the age of open source](https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel)
 - [Anthropic Quickstarts](https://github.com/anthropics/anthropic-quickstarts)
 - [Show HN: Icebreaking AI. A free tool to help you find close friends](https://www.icebreakinglab.com)
+- [Howm: Personal Wiki for Emacs](https://github.com/Emacs101/howm-manual)
 <!-- BLOG-POST-LIST:END -->
 
 ---
