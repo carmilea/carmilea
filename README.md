@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Howm: Personal Wiki for Emacs](https://github.com/Emacs101/howm-manual)
-- [Mondragon as the New City-State](https://www.elysian.press/p/mondragon-as-the-new-city-state)
-- [Show HN: Hestus – AI Copilot for CAD](https://www.hestus.co/)
-- [Hot Temperature and High Stakes Performance [pdf]](https://www3.nd.edu/~nmark/Climate/JParkHotTempHighStakes.pdf)
-- [Show HN: Epistolary – Respond to your emails in handwriting](https://github.com/j6k4m8/epistolary)
+- [Oakland Police Are Towing Teslas for Crime Scene Footage](https://www.carscoops.com/2024/09/california-police-might-use-your-teslas-sentry-video-to-solve-nearby-crimes/)
+- [PropelAuth &lpar;YC W22&rpar; is hiring engineers who love to write](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator)
+- [Writing a book in the age of open source](https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel)
+- [Anthropic Quickstarts](https://github.com/anthropics/anthropic-quickstarts)
+- [Show HN: Icebreaking AI. A free tool to help you find close friends](https://www.icebreakinglab.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
