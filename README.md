@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Synchronizing pong to music with constrained optimization](https://victortao.substack.com/p/song-pong)
-- [Steve Ballmer&#39;s incorrect binary search interview question](https://blog.jgc.org/2024/09/steve-ballmers-binary-search-interview.html)
-- [IBM 305 RAMAC and the 1960 Winter Olympics](https://pncnmnp.github.io/blogs/ibm-ramac-and-1960-winter-olympics.html)
-- [Why Bother with Argv[0]?](https://www.wietzebeukema.nl/blog/why-bother-with-argv0)
-- [New forms of steel for stronger, lighter cars](https://knowablemagazine.org/content/article/technology/2024/new-steel-for-stronger-lighter-cars)
+- [A photographer captures life in America&#39;s last remaining old-growth forests](https://www.npr.org/sections/the-picture-show/2024/09/03/g-s1-5057/photographer-captures-life-in-old-growth-forests)
+- [Ask HN: Where are the part-time remote coding jobs?](https://news.ycombinator.com/item?id=41435656)
+- [How to Take Home &quot;Garbage Bags Full of $20s&quot;](https://www.hollywoodreporter.com/tv/tv-news/stars-getting-rich-fan-conventions-933062/)
+- [Show HN: PlasCAD: Open-source plasmid editor](https://github.com/David-OConnor/plascad)
+- [Mobile phones not linked to brain cancer, biggest study to date finds](https://www.theguardian.com/science/article/2024/sep/04/mobile-phones-not-linked-to-brain-cancer-biggest-study-to-date-finds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
