@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IANA&#39;s List of Domain Name System &lpar;DNS&rpar; Parameters](https://www.iana.org/assignments/dns-parameters/dns-parameters.xhtml)
+- [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 - [Microsoft&#39;s &#39;Recall&#39; feature can&#39;t be uninstalled after all](https://mashable.com/article/microsoft-recall-feature-cant-be-uninstalled)
 - [Feds Kill Plan to Curb Medicare Advantage Overbilling After Industry Opposition](https://kffhealthnews.org/news/article/medicare-advantage-overbilling-diagnostic-codes-cms-killed-rule/)
 - [Is My Blue Your Blue?](https://ismy.blue/)
-- [QWERTY-Flip: The better keyboard layout your fingers already know](https://nick-gravgaard.com/qwerty-flip/)
-- [Open Mathematics Depository](https://openmathdep.tuxfamily.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
