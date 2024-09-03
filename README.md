@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is My Blue Your Blue?](https://ismy.blue/)
 - [QWERTY-Flip: The better keyboard layout your fingers already know](https://nick-gravgaard.com/qwerty-flip/)
 - [Open Mathematics Depository](https://openmathdep.tuxfamily.org/)
 - [Playdate Game Zero Zero: Perfect Stop](https://play.date/games/zero-zero/)
 - [Long-term unemployment leads to disengagement and apathy](https://www.psypost.org/long-term-unemployment-leads-to-disengagement-and-apathy-rather-than-efforts-to-regain-control/)
-- [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
