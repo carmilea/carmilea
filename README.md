@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The German problem? It&#39;s an analogue country in a digital world](https://www.theguardian.com/business/article/2024/sep/01/germany-economy-problem-analogue-industries)
+- [Photoroom &lpar;YC S20&rpar; Is Hiring a Django Back End Lead in Paris &lpar;PostgreSQL, REST&rpar;](https://jobs.ashbyhq.com/photoroom/ddf2ab84-6e90-4026-9622-6e92cb96722f)
+- [State of S3 – Your Laptop is no Laptop anymore – a personal Rant](https://blog.jeujeus.de/blog/hardware/laptops-will-not-sleep-anymore/)
+- [Interactive NixOS Tests](https://paperless.blog/interactive-nixos-tests)
 - [Simplifying programming with AI-tutors](https://www.edmigo.in/)
 - [Judge stops FTC from enforcing ban on non-compete agreements](https://www.computerworld.com/article/3496192/court-handcuffs-employees-with-non-compete-agreements-again.html)
-- [Interviewing Tim Sweeney and Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
-- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
