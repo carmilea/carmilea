@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS @property and the New Style](https://ryanmulligan.dev/blog/css-property-new-style/)
-- [Show HN: An open-source implementation of AlphaFold3](https://github.com/Ligo-Biosciences/AlphaFold3)
-- [Coding on iPad using self-hosted VSCode, Caddy, and code-server](https://tailscale.com/kb/1166/vscode-ipad)
-- [Introduction to Dynamicland &lpar;Bret Victor&rpar;](https://dynamicland.org/2024/Intro/)
-- [The coming long-run slowdown in corporate profit growth and stock returns [pdf] &lpar;2023&rpar;](https://www.federalreserve.gov/econres/feds/files/2023041pap.pdf)
+- [Internet Archive loses appeal over eBook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
+- [Kagi: Announcing The Assistant](https://blog.kagi.com/announcing-assistant)
+- [Major book publishers defeat Internet Archive appeal over digital scanning](https://finance.yahoo.com/news/major-book-publishers-defeat-internet-181817991.html)
+- [Amazon Bans Its Drivers from Moving Their Own Lips Too Much at Work](https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312)
+- [SpaceX Pulls Employees from Brazil, Discourages Travel There](https://www.wsj.com/business/telecom/spacex-brazil-elon-musk-supreme-court-2acb87e3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
