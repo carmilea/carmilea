@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Checkers Forcing Kids to Write Like a Robot to Avoid Being Called a Robot](https://www.techdirt.com/2024/09/04/ai-checkers-forcing-kids-to-write-like-a-robot-to-avoid-being-called-a-robot/)
+- [Rust in Linux lead retires rather than deal with more &quot;nontechnical nonsense&quot;](https://arstechnica.com/gadgets/2024/09/rust-in-linux-lead-retires-rather-than-deal-with-more-nontechnical-nonsense/)
 - [Internet Archive loses appeal over eBook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
+- [Fake CV lands top &#39;engineer&#39; in jail for 15 years](https://www.bbc.com/news/articles/c8er2990ydpo)
 - [Kagi: Announcing The Assistant](https://blog.kagi.com/announcing-assistant)
-- [Major book publishers defeat Internet Archive appeal over digital scanning](https://finance.yahoo.com/news/major-book-publishers-defeat-internet-181817991.html)
-- [Amazon Bans Its Drivers from Moving Their Own Lips Too Much at Work](https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312)
-- [SpaceX Pulls Employees from Brazil, Discourages Travel There](https://www.wsj.com/business/telecom/spacex-brazil-elon-musk-supreme-court-2acb87e3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
