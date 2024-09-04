@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ilya Sutskever&#39;s SSI Inc raises $1B](https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/)
 - [Small asteroid to hit Earth&#39;s atmosphere today](https://earthsky.org/space/small-asteroid-hit-earth-philippines-sept-4-5-2024/)
-- [Self-Driving Cars Get Help from Humans Miles Away](https://www.nytimes.com/interactive/2024/09/03/technology/zoox-self-driving-cars-remote-control.html)
-- [Admins wonder if the cloud was such a good idea after all](https://www.theregister.com/2024/09/04/cloud_buyers_regret/)
-- [No X in Brazil? No problem, Brazilians say](https://www.washingtonpost.com/world/2024/09/03/elon-musk-brazil-x-moraes-starlink/)
-- [A Logo on a Prosthesis Is Like a Tattoo You Didn&#39;t Ask For](https://www.theatlantic.com/health/archive/2024/08/prosthetic-limb-branding-bebionic/679461/)
+- [LibreOffice Timeline](https://www.libreoffice.org/about-us/libreoffice-timeline/)
+- [ReMarkable Paper Pro](https://remarkable.com/)
+- [PlayHT &lpar;YC W23&rpar; Is Hiring Fullstack Engineers](https://jobs.ashbyhq.com/playht/b6f0fedd-78e4-4525-8aa4-931cd91027ae)
 <!-- BLOG-POST-LIST:END -->
 
 ---
