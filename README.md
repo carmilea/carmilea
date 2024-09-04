@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft confirms that Windows 11 Recall AI is not optional](https://www.tomshardware.com/software/windows/microsoft-confirms-that-windows-11-recall-ai-is-not-optional-a-glitch-made-it-appear-so-in-the-windows-11-24h2-kb5041865-update)
-- [Feeling Suddenly Older? Scientists See Aging &#39;Waves&#39; at 44 and 60](https://www.wsj.com/health/wellness/feeling-suddenly-older-scientists-see-aging-waves-at-44-and-60-1a3fd814)
+- [Bun &lpar;YC S19&rpar; Is Hiring Systems Engineers in San Francisco](https://apply.workable.com/oven/j/A7A1388873/)
+- [Dolphin Progress Release 2407 and 2409](https://dolphin-emu.org/blog/2024/09/04/dolphin-progress-report-release-2407-2409/)
+- [Show HN: Mem0 – open-source Memory Layer for AI apps](https://github.com/mem0ai/mem0)
+- [Microsoft&#39;s Inflection acquihire is too small to matter, say UK regulators](https://www.theregister.com/2024/09/04/microsoft_inflection_acquihire_cma/)
 - [sRGB Gamut Clipping &lpar;2021&rpar;](https://bottosson.github.io/posts/gamutclipping/)
-- [Cloud of Disillusion: The Broken Promise of PaaS](https://pentacent.com/blog/leaving-the-cloud-broken-paas-promise/)
-- [Claude for Enterprise](https://www.anthropic.com/news/claude-for-enterprise)
 <!-- BLOG-POST-LIST:END -->
 
 ---
