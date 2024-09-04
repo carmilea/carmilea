@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DOJ subpoenas Nvidia in deepening AI antitrust probe, report says](https://arstechnica.com/tech-policy/2024/09/doj-subpoenas-nvidia-in-deepening-ai-antitrust-probe-report-says/)
+- [Code Review Anxiety Workbook](https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1)
+- [What Is an Atomic Clock? &lpar;2019&rpar;](https://www.nasa.gov/missions/tech-demonstration/deep-space-atomic-clock/what-is-an-atomic-clock/)
 - [Snapshottable Stores](https://dl.acm.org/doi/10.1145/3674637)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41450775)
-- [Oakland&#39;s new school buses reduce pollution and double as giant batteries](https://grist.org/transportation/oakland-electric-school-buses-battery-storage/)
-- [Layman&#39;s Guide to Python Built-in Functions](https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/)
-- [California companies wrote their own gig worker law. Now no one is enforcing it](https://apnews.com/us-news/california-labor-lyft-inc-general-news-906ecb4d94b5e946eab703c562a6bdf0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
