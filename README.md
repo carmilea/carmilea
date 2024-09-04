@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Immigration has remade the U.S. labor force](https://www.wsj.com/economy/how-immigration-remade-the-u-s-labor-force-716c18ee)
+- [Britain&#39;s reliance on coal-fired power set to end after 140 years](https://www.ft.com/content/5164185d-b0d6-40d1-99b4-59f8039111c2)
+- [Tech failure nearly caused massive flood in Amsterdam](https://nltimes.nl/2024/09/03/tech-failure-nearly-caused-massive-flood-amsterdam-city-center-november-2023)
 - [Photoroom &lpar;YC S20&rpar; Is Hiring a Django Back End Lead in Paris &lpar;PostgreSQL, REST&rpar;](https://jobs.ashbyhq.com/photoroom/ddf2ab84-6e90-4026-9622-6e92cb96722f)
 - [State of S3 – Your Laptop is no Laptop anymore – a personal Rant](https://blog.jeujeus.de/blog/hardware/laptops-will-not-sleep-anymore/)
 - [Interactive NixOS Tests](https://paperless.blog/interactive-nixos-tests)
-- [Simplifying programming with AI-tutors](https://www.edmigo.in/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
