@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shaving is too expensive](https://johnwhiles.com/posts/shaving)
-- [Boom Supersonic&#39;s XB-1 prototype aces 2nd test flight](https://www.space.com/boom-supersonic-xb-1-second-test-flight-photos)
-- [Police Seize Teslas That Witnessed Crimes [video]](https://www.youtube.com/watch?v=S40zSUJABpw)
-- [Physics is unreasonably good at creating new math](https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/)
-- [Designing a Real-Time Data Warehouse](https://www.singlestore.com/blog/designing-a-real-time-data-warehouse)
+- [Microsoft confirms that Windows 11 Recall AI is not optional](https://www.tomshardware.com/software/windows/microsoft-confirms-that-windows-11-recall-ai-is-not-optional-a-glitch-made-it-appear-so-in-the-windows-11-24h2-kb5041865-update)
+- [Feeling Suddenly Older? Scientists See Aging &#39;Waves&#39; at 44 and 60](https://www.wsj.com/health/wellness/feeling-suddenly-older-scientists-see-aging-waves-at-44-and-60-1a3fd814)
+- [sRGB Gamut Clipping &lpar;2021&rpar;](https://bottosson.github.io/posts/gamutclipping/)
+- [Cloud of Disillusion: The Broken Promise of PaaS](https://pentacent.com/blog/leaving-the-cloud-broken-paas-promise/)
+- [Claude for Enterprise](https://www.anthropic.com/news/claude-for-enterprise)
 <!-- BLOG-POST-LIST:END -->
 
 ---
