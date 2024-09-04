@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41450775)
+- [Oakland&#39;s new school buses reduce pollution – and double as giant batteries](https://grist.org/transportation/oakland-electric-school-buses-battery-storage/)
+- [Layman&#39;s Guide to Python Built-In Functions · Matt Layman](https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/)
 - [AI Checkers Forcing Kids to Write Like a Robot to Avoid Being Called a Robot](https://www.techdirt.com/2024/09/04/ai-checkers-forcing-kids-to-write-like-a-robot-to-avoid-being-called-a-robot/)
-- [Rust in Linux lead retires rather than deal with more &quot;nontechnical nonsense&quot;](https://arstechnica.com/gadgets/2024/09/rust-in-linux-lead-retires-rather-than-deal-with-more-nontechnical-nonsense/)
 - [Internet Archive loses appeal over eBook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
-- [Fake CV lands top &#39;engineer&#39; in jail for 15 years](https://www.bbc.com/news/articles/c8er2990ydpo)
-- [Kagi: Announcing The Assistant](https://blog.kagi.com/announcing-assistant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
