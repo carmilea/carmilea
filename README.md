@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ReMarkable launch Paper Pro, a colour e-ink tablet](https://remarkable.com/)
-- [PlayHT &lpar;YC W23&rpar; Is Hiring Fullstack Engineers](https://jobs.ashbyhq.com/playht/b6f0fedd-78e4-4525-8aa4-931cd91027ae)
-- [Interviewing Tim Sweeney and Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
-- [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
-- [Llms.txt](https://llmstxt.org/)
+- [Small asteroid to hit Earth&#39;s atmosphere today](https://earthsky.org/space/small-asteroid-hit-earth-philippines-sept-4-5-2024/)
+- [Self-Driving Cars Get Help from Humans Miles Away](https://www.nytimes.com/interactive/2024/09/03/technology/zoox-self-driving-cars-remote-control.html)
+- [Admins wonder if the cloud was such a good idea after all](https://www.theregister.com/2024/09/04/cloud_buyers_regret/)
+- [No X in Brazil? No problem, Brazilians say](https://www.washingtonpost.com/world/2024/09/03/elon-musk-brazil-x-moraes-starlink/)
+- [A Logo on a Prosthesis Is Like a Tattoo You Didn&#39;t Ask For](https://www.theatlantic.com/health/archive/2024/08/prosthetic-limb-branding-bebionic/679461/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
