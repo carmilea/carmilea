@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The German problem? It&#39;s an analogue country in a digital world](https://www.theguardian.com/business/article/2024/sep/01/germany-economy-problem-analogue-industries)
+- [Simplifying programming with AI-tutors](https://www.edmigo.in/)
 - [Judge stops FTC from enforcing ban on non-compete agreements](https://www.computerworld.com/article/3496192/court-handcuffs-employees-with-non-compete-agreements-again.html)
 - [Interviewing Tim Sweeney and Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
 - [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
-- [In a first, Phoenix hits 100 straight days of 100-degree heat](https://www.washingtonpost.com/weather/2024/09/03/phoenix-100-degree-temperatures-record/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
