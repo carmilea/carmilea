@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Civil Eats: Our Reporting Is Now Free for Everyone](https://civileats.com/2024/09/03/our-reporting-is-now-free-for-everyone/)
-- [Britain&#39;s reliance on coal-fired power set to end after 140 years](https://www.ft.com/content/5164185d-b0d6-40d1-99b4-59f8039111c2)
-- [Firefox will consider a Rust implementation of JPEG-XL](https://github.com/mozilla/standards-positions/pull/1064)
-- [Tech failure nearly caused massive flood in Amsterdam](https://nltimes.nl/2024/09/03/tech-failure-nearly-caused-massive-flood-amsterdam-city-center-november-2023)
-- [&quot;SRE&quot; doesn&#39;t seem to mean anything useful any more](https://rachelbythebay.com/w/2024/09/03/ops/)
+- [ReMarkable launch Paper Pro, a colour e-ink tablet](https://remarkable.com/)
+- [PlayHT &lpar;YC W23&rpar; Is Hiring Fullstack Engineers](https://jobs.ashbyhq.com/playht/b6f0fedd-78e4-4525-8aa4-931cd91027ae)
+- [Interviewing Tim Sweeney and Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
+- [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
+- [Llms.txt](https://llmstxt.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
