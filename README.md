@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bun &lpar;YC S19&rpar; Is Hiring Systems Engineers in San Francisco](https://apply.workable.com/oven/j/A7A1388873/)
-- [Dolphin Progress Release 2407 and 2409](https://dolphin-emu.org/blog/2024/09/04/dolphin-progress-report-release-2407-2409/)
-- [Show HN: Mem0 – open-source Memory Layer for AI apps](https://github.com/mem0ai/mem0)
-- [Microsoft&#39;s Inflection acquihire is too small to matter, say UK regulators](https://www.theregister.com/2024/09/04/microsoft_inflection_acquihire_cma/)
-- [sRGB Gamut Clipping &lpar;2021&rpar;](https://bottosson.github.io/posts/gamutclipping/)
+- [CSS @property and the New Style](https://ryanmulligan.dev/blog/css-property-new-style/)
+- [Show HN: An open-source implementation of AlphaFold3](https://github.com/Ligo-Biosciences/AlphaFold3)
+- [Coding on iPad using self-hosted VSCode, Caddy, and code-server](https://tailscale.com/kb/1166/vscode-ipad)
+- [Introduction to Dynamicland &lpar;Bret Victor&rpar;](https://dynamicland.org/2024/Intro/)
+- [The coming long-run slowdown in corporate profit growth and stock returns [pdf] &lpar;2023&rpar;](https://www.federalreserve.gov/econres/feds/files/2023041pap.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
