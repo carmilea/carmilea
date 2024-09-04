@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapshottable Stores](https://dl.acm.org/doi/10.1145/3674637)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41450775)
-- [Oakland&#39;s new school buses reduce pollution – and double as giant batteries](https://grist.org/transportation/oakland-electric-school-buses-battery-storage/)
-- [Layman&#39;s Guide to Python Built-In Functions · Matt Layman](https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/)
-- [AI Checkers Forcing Kids to Write Like a Robot to Avoid Being Called a Robot](https://www.techdirt.com/2024/09/04/ai-checkers-forcing-kids-to-write-like-a-robot-to-avoid-being-called-a-robot/)
-- [Internet Archive loses appeal over eBook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
+- [Oakland&#39;s new school buses reduce pollution and double as giant batteries](https://grist.org/transportation/oakland-electric-school-buses-battery-storage/)
+- [Layman&#39;s Guide to Python Built-in Functions](https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/)
+- [California companies wrote their own gig worker law. Now no one is enforcing it](https://apnews.com/us-news/california-labor-lyft-inc-general-news-906ecb4d94b5e946eab703c562a6bdf0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
