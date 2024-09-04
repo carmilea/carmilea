@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ilya Sutskever&#39;s SSI Inc raises $1B](https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/)
-- [Small asteroid to hit Earth&#39;s atmosphere today](https://earthsky.org/space/small-asteroid-hit-earth-philippines-sept-4-5-2024/)
-- [LibreOffice Timeline](https://www.libreoffice.org/about-us/libreoffice-timeline/)
-- [ReMarkable Paper Pro](https://remarkable.com/)
-- [PlayHT &lpar;YC W23&rpar; Is Hiring Fullstack Engineers](https://jobs.ashbyhq.com/playht/b6f0fedd-78e4-4525-8aa4-931cd91027ae)
+- [Shaving is too expensive](https://johnwhiles.com/posts/shaving)
+- [Boom Supersonic&#39;s XB-1 prototype aces 2nd test flight](https://www.space.com/boom-supersonic-xb-1-second-test-flight-photos)
+- [Police Seize Teslas That Witnessed Crimes [video]](https://www.youtube.com/watch?v=S40zSUJABpw)
+- [Physics is unreasonably good at creating new math](https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/)
+- [Designing a Real-Time Data Warehouse](https://www.singlestore.com/blog/designing-a-real-time-data-warehouse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
