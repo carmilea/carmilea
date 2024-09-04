@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How much is AI hurting the planet? Big tech won&#39;t tell us](https://mashable.com/article/ai-environment-energy)
 - [Interviewing Epic Games Founder Tim Sweeney and Author Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
 - [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- [In a first, Phoenix hits 100 straight days of 100-degree heat](https://www.washingtonpost.com/weather/2024/09/03/phoenix-100-degree-temperatures-record/)
-- [Intel: New Core Ultra Processors Deliver Breakthrough Performance](https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-200v-series-mobile.html)
-- [Show HN: I&#39;m making an AI scraper called FetchFox](https://fetchfoxai.com/)
+- [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
+- [Draftkings fined after Slots &quot;glitch&quot; made it impossible to win](https://gamblingindustrynews.com/news/regulation/draftkings-fined-online-slot-no-payouts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
