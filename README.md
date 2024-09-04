@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How much is AI hurting the planet? Big tech won&#39;t tell us](https://mashable.com/article/ai-environment-energy)
-- [Interviewing Epic Games Founder Tim Sweeney and Author Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
+- [Navy chiefs conspired to get themselves illegal warship Wi-Fi](https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/)
+- [Court handcuffs employees with non-compete agreements – again](https://www.computerworld.com/article/3496192/court-handcuffs-employees-with-non-compete-agreements-again.html)
+- [Interviewing Tim Sweeney and Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
 - [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 - [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
-- [Draftkings fined after Slots &quot;glitch&quot; made it impossible to win](https://gamblingindustrynews.com/news/regulation/draftkings-fined-online-slot-no-payouts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
