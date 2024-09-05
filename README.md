@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trellis &lpar;YC W24&rpar; is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+- [A sensible Java key management tool for normal people](https://github.com/alastairmccormack/keyutil)
+- [serverless-registry: A Docker registry backed by Workers and R2](https://github.com/cloudflare/serverless-registry)
 - [Workers Uncover Underground Chamber Sealed for over a Century Near National Mall](https://www.smithsonianmag.com/smart-news/workers-uncover-an-underground-chamber-sealed-for-more-than-a-century-near-the-national-mall-180985018/)
 - [Show HN: AnythingLLM – Open-Source, All-in-One Desktop AI Assistant](https://github.com/Mintplex-Labs/anything-llm)
-- [AlphaProteo generates novel proteins for biology and health research](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
-- [How to Read Deep Learning Paper as a Software Engineer](https://www.youtube.com/watch?v=nL7lAo95D-o)
-- [Flight engineer reveals what it was like to operate Concorde](https://www.cnn.com/travel/flight-engineers-concorde-warren-hazelby/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
