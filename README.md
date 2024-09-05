@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shell Has a Forth-Like Quality](https://www.oilshell.org/blog/2017/01/13.html)
-- [Flexport Is Hiring Engineers in Amsterdam](https://www.flexport.com/careers/teams/engineering/)
-- [US Government Sets Out to Improve Internet Routing Security](https://www.infosecurity-magazine.com/news/us-internet-routing-security/)
-- [Desed: Demystify and debug your sed scripts](https://github.com/SoptikHa2/desed)
-- [Show HN: Wat Dat – A Firefox Extension for Instant Text Explanations](https://addons.mozilla.org/en-US/firefox/addon/watdat/)
+- [Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
+- [Porting systemd to musl Libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
+- [Building a WoW &lpar;World of Warcraft&rpar; Server in Elixir](https://pikdum.dev/posts/thistle-tea/)
+- [Shell Has a Forth-Like Quality &lpar;2017&rpar;](https://www.oilshell.org/blog/2017/01/13.html)
+- [A SpamAssassin Surprise](https://lwn.net/SubscriberLink/987566/3be928f6e483853d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
