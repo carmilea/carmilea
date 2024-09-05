@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DOJ subpoenas Nvidia in deepening AI antitrust probe, report says](https://arstechnica.com/tech-policy/2024/09/doj-subpoenas-nvidia-in-deepening-ai-antitrust-probe-report-says/)
+- [Bem Vindos ao Bluesky &lpar;Over 2M Brazilians join Bsky in a week&rpar;](https://bsky.social/about/blog/09-04-2024-bem-vindos)
+- [SEC fines 6 major credit rating agencies over failure to keep electronic records](https://www.cnn.com/2024/09/03/business/sec-fines-credit-rating-agencies-over-failure-electronic-records/index.html)
+- [Show HN: Laminar – Open-Source DataDog + PostHog for LLM Apps, Built in Rust](https://github.com/lmnr-ai/lmnr)
 - [Code Review Anxiety Workbook](https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1)
 - [What Is an Atomic Clock? &lpar;2019&rpar;](https://www.nasa.gov/missions/tech-demonstration/deep-space-atomic-clock/what-is-an-atomic-clock/)
-- [Snapshottable Stores](https://dl.acm.org/doi/10.1145/3674637)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41450775)
 <!-- BLOG-POST-LIST:END -->
 
 ---
