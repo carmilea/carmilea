@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Read Deep Learning Paper as a Software Engineer](https://www.youtube.com/watch?v=nL7lAo95D-o)
+- [Flight engineer reveals what it was like to operate Concorde](https://www.cnn.com/travel/flight-engineers-concorde-warren-hazelby/index.html)
+- [Launch HN: Maitai &lpar;YC S24&rpar; – Self-Optimizing LLM Platform](https://news.ycombinator.com/item?id=41456552)
 - [Show HN: Hacker League – Open-Source Rocket League on Linux](https://github.com/moritztng/hacker-league)
 - [Finley &lpar;YC W21&rpar; is hiring for Capital Markets innovators](https://www.finleycms.com/company/careers)
-- [Show HN: Node.js ORM to query SQL database through an array-like API](https://github.com/tilyupo/qustar)
-- [America&#39;s Space Force Is Preparing for the Risk of War](https://www.wsj.com/politics/national-security/americas-space-force-is-preparing-for-the-risk-of-war-d6b5e9c7)
-- [Toyota confirms third-party data breach impacting customers](https://www.bleepingcomputer.com/news/security/toyota-confirms-third-party-data-breach-impacting-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
