@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Workers Uncover Underground Chamber Sealed for over a Century Near National Mall](https://www.smithsonianmag.com/smart-news/workers-uncover-an-underground-chamber-sealed-for-more-than-a-century-near-the-national-mall-180985018/)
+- [Show HN: AnythingLLM – Open-Source, All-in-One Desktop AI Assistant](https://github.com/Mintplex-Labs/anything-llm)
+- [AlphaProteo generates novel proteins for biology and health research](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
 - [How to Read Deep Learning Paper as a Software Engineer](https://www.youtube.com/watch?v=nL7lAo95D-o)
 - [Flight engineer reveals what it was like to operate Concorde](https://www.cnn.com/travel/flight-engineers-concorde-warren-hazelby/index.html)
-- [Launch HN: Maitai &lpar;YC S24&rpar; – Self-Optimizing LLM Platform](https://news.ycombinator.com/item?id=41456552)
-- [Show HN: Hacker League – Open-Source Rocket League on Linux](https://github.com/moritztng/hacker-league)
-- [Finley &lpar;YC W21&rpar; is hiring for Capital Markets innovators](https://www.finleycms.com/company/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
