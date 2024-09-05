@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shell Has a Forth-Like Quality](https://www.oilshell.org/blog/2017/01/13.html)
 - [Flexport Is Hiring Engineers in Amsterdam](https://www.flexport.com/careers/teams/engineering/)
 - [US Government Sets Out to Improve Internet Routing Security](https://www.infosecurity-magazine.com/news/us-internet-routing-security/)
 - [Desed: Demystify and debug your sed scripts](https://github.com/SoptikHa2/desed)
 - [Show HN: Wat Dat – A Firefox Extension for Instant Text Explanations](https://addons.mozilla.org/en-US/firefox/addon/watdat/)
-- [Yi-Coder: A Small but Mighty LLM for Code](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
