@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacker trap: Fake OnlyFans tool backstabs cybercriminals, steals passwords](https://www.bleepingcomputer.com/news/security/hacker-trap-fake-onlyfans-tool-backstabs-cybercriminals-steals-passwords/)
 - [UE5 Nanite in WebGPU](https://github.com/Scthe/nanite-webgpu)
 - [Deploying Rust in Existing Firmware Codebases](https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html)
 - [Trellis &lpar;YC W24&rpar; is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 - [The &#39;Freakish Radio Writings&#39; of 1924](https://www.centauri-dreams.org/2024/09/05/the-freakish-radio-writings-of-1924/)
-- [serverless-registry: A Docker registry backed by Workers and R2](https://github.com/cloudflare/serverless-registry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
