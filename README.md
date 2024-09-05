@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New study suggests nose picking could increase risk for Alzheimer&#39;s and dementia](https://news.griffith.edu.au/2022/10/28/new-research-suggests-nose-picking-could-increase-risk-for-alzheimers-and-dementia/)
+- [Show HN: Hacker League – Open-Source Rocket League on Linux](https://github.com/moritztng/hacker-league)
 - [Finley &lpar;YC W21&rpar; is hiring for Capital Markets innovators](https://www.finleycms.com/company/careers)
+- [Show HN: Node.js ORM to query SQL database through an array-like API](https://github.com/tilyupo/qustar)
+- [America&#39;s Space Force Is Preparing for the Risk of War](https://www.wsj.com/politics/national-security/americas-space-force-is-preparing-for-the-risk-of-war-d6b5e9c7)
 - [Toyota confirms third-party data breach impacting customers](https://www.bleepingcomputer.com/news/security/toyota-confirms-third-party-data-breach-impacting-customers/)
-- [Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
-- [Porting systemd to musl Libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
