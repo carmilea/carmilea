@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New study suggests nose picking could increase risk for Alzheimer&#39;s and dementia](https://news.griffith.edu.au/2022/10/28/new-research-suggests-nose-picking-could-increase-risk-for-alzheimers-and-dementia/)
 - [Finley &lpar;YC W21&rpar; is hiring for Capital Markets innovators](https://www.finleycms.com/company/careers)
-- [Exercise to Strengthen Esophageal Sphincter and Eliminate Gastric Reflux &lpar;2022&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
 - [Toyota confirms third-party data breach impacting customers](https://www.bleepingcomputer.com/news/security/toyota-confirms-third-party-data-breach-impacting-customers/)
 - [Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
 - [Porting systemd to musl Libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
