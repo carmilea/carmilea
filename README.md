@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Racism, misogyny, lies: how did X become so full of hatred?](https://www.theguardian.com/technology/article/2024/sep/05/racism-misogyny-lies-how-did-x-become-so-full-of-hatred-and-is-it-ethical-to-keep-using-it)
+- [Flexport Is Hiring Engineers in Amsterdam](https://www.flexport.com/careers/teams/engineering/)
 - [Amazon Drivers Complain Their Ability to Sing Along the Radio Is Being Stifled](https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312)
 - [Desed: Demystify and debug your sed scripts](https://github.com/SoptikHa2/desed)
 - [Show HN: Wat Dat – A Firefox Extension for Instant Text Explanations](https://addons.mozilla.org/en-US/firefox/addon/watdat/)
