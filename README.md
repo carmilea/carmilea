@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Flexport Is Hiring Engineers in Amsterdam](https://www.flexport.com/careers/teams/engineering/)
-- [Amazon Drivers Complain Their Ability to Sing Along the Radio Is Being Stifled](https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312)
 - [Desed: Demystify and debug your sed scripts](https://github.com/SoptikHa2/desed)
 - [Show HN: Wat Dat – A Firefox Extension for Instant Text Explanations](https://addons.mozilla.org/en-US/firefox/addon/watdat/)
 - [Yi-Coder: A Small but Mighty LLM for Code](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
+- [Accelerando &lpar;2005&rpar;](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
