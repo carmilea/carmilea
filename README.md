@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finley &lpar;YC W21&rpar; is hiring for Capital Markets innovators](https://www.finleycms.com/company/careers)
+- [Exercise to Strengthen Esophageal Sphincter and Eliminate Gastric Reflux &lpar;2022&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
+- [Toyota confirms third-party data breach impacting customers](https://www.bleepingcomputer.com/news/security/toyota-confirms-third-party-data-breach-impacting-customers/)
 - [Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
 - [Porting systemd to musl Libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
-- [Building a WoW &lpar;World of Warcraft&rpar; Server in Elixir](https://pikdum.dev/posts/thistle-tea/)
-- [Shell Has a Forth-Like Quality &lpar;2017&rpar;](https://www.oilshell.org/blog/2017/01/13.html)
-- [A SpamAssassin Surprise](https://lwn.net/SubscriberLink/987566/3be928f6e483853d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
