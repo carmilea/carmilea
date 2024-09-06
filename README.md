@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Swiss watchmakers put employees on state-funded leave as luxury demand disappear](https://fortune.com/europe/2024/09/04/swiss-watchmakers-put-employees-on-state-funded-furlough-as-luxury-demand-disappears/)
 - [LwIP – Lightweight IP Stack](https://www.nongnu.org/lwip/2_1_x/index.html)
-- [My most downvoted StackOverflow answer](https://ohadravid.github.io/posts/2024-09-yells-at-cloud/)
 - [Why Don&#39;t Tech Companies Pay Their Engineers to Stay?](https://www.goethena.com/post/why-dont-tech-companies-pay-engineers-more-to-stay/)
 - [Visa to launch pay-by-bank payments, an alternative to credit cards](https://www.cnbc.com/2024/09/05/visa-to-launch-pay-by-bank-payments-an-alternative-to-credit-cards.html)
+- [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499)
 <!-- BLOG-POST-LIST:END -->
 
 ---
