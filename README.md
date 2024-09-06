@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The One-Eyed Man Is King: How did the monocle become a symbol of wealth?](https://slate.com/human-interest/2012/12/monocles-how-did-they-become-a-symbol-of-wealth.html)
+- [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
+- [Study: Playing D&amp;D helps autistic players in social interactions](https://arstechnica.com/science/2024/09/study-playing-dungeons-dragons-helps-autistic-players-in-social-interactions/)
+- [Intent to unship: HTTP/2 Push](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vU9hJg343U8/m/4cZsHz7TAQAJ)
 - [Did Sandia use a thermonuclear secondary in a product logo?](https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/)
-- [Oxford commercializes its 20% more powerful solar panels in the US](https://electrek.co/2024/09/05/oxford-commercializes-its-20-more-powerful-solar-panels-in-the-us/)
-- [Exercise has 2M users but no money in the bank](https://exercism.org/blog/september-2024-restructure)
-- [Mozilla introduces updates to tab management in Firefox](https://support.mozilla.org/en-US/kb/tabs-organize-websites-single-window)
-- [Baseline pupil size related to cognitive ability in proper lighting conditions](https://www.sciencedirect.com/science/article/abs/pii/S0010027721000627)
 <!-- BLOG-POST-LIST:END -->
 
 ---
