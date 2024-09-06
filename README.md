@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First-in-Nation Bill Requiring Cars to Warn Speeding Drivers Goes to CA Governor](https://sd11.senate.ca.gov/news/senator-wieners-first-nation-bill-require-cars-warn-speeding-drivers-heads-governor)
-- [The Early Days of Valve from a Woman Inside](https://medium.com/@monicah428/the-early-days-of-valve-from-a-woman-inside-bf80c6b47961)
-- [Show HN: Feature Flags Backed by Git](https://www.flipt.io/)
-- [Clojure 1.12.0 is now available](https://clojure.org/news/2024/09/05/clojure-1-12-0)
-- [Common food dye found to make skin and muscle temporarily transparent](https://www.theguardian.com/science/article/2024/sep/05/common-food-dye-found-to-make-skin-and-muscle-temporarily-transparent)
+- [LwIP – Lightweight IP Stack](https://www.nongnu.org/lwip/2_1_x/index.html)
+- [My most downvoted StackOverflow answer](https://ohadravid.github.io/posts/2024-09-yells-at-cloud/)
+- [Why Don&#39;t Tech Companies Pay Their Engineers to Stay?](https://www.goethena.com/post/why-dont-tech-companies-pay-engineers-more-to-stay/)
+- [Visa to launch pay-by-bank payments, an alternative to credit cards](https://www.cnbc.com/2024/09/05/visa-to-launch-pay-by-bank-payments-an-alternative-to-credit-cards.html)
+- [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499)
 <!-- BLOG-POST-LIST:END -->
 
 ---
