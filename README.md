@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Steve Ballmer Was Wrong](https://gukov.dev/puzzles/math/2024/09/05/steve-ballmer-was-wrong.html)
-- [Moral implications of being moderately successful computer scientist and a woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
+- [Baseline pupil size related to cognitive ability in proper lighting conditions](https://www.sciencedirect.com/science/article/abs/pii/S0010027721000627)
+- [The expected value of the game is positive regardless of Ballmer’s strategy](https://gukov.dev/puzzles/math/2024/09/05/steve-ballmer-was-wrong.html)
 - [I use Nim instead of Python for data processing &lpar;2021&rpar;](https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/)
 - [What happens when you touch a pickle to an AM radio tower](https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower)
 - [Frustrations with the OCaml ecosystem while developing a synthesizer library](https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/)
