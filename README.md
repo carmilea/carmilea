@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parkinson&#39;s may begin in the gut, study says, adding to growing evidence](https://www.washingtonpost.com/wellness/2024/09/05/parkinsons-disease-gut-study/)
 - [How We Made Notebooks Load 10 Times Faster](https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster)
 - [Nntpit: Minimalist Reddit2nntp Gateway](https://github.com/taviso/nntpit)
 - [Show HN: Wealthfolio: A Private, Open-Source Investment Tracker](https://wealthfolio.app)
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [SAMA – open-source Chat server](https://github.com/SAMA-Communications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
