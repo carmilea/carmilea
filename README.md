@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Godot founders had desperately hoped Unity wouldn&#39;t &#39;blow up&#39;](https://www.gamedeveloper.com/programming/godot-founders-had-desperately-hoped-unity-wouldn-t-blow-up-)
+- [Meta will let third-party apps place calls to WhatsApp and Messenger users](https://techcrunch.com/2024/09/06/meta-will-let-third-party-apps-place-calls-to-whatsapp-and-messenger-users-in-2027/)
 - [Nango &lpar;YC W23, Product Integrations Platform&rpar; Is Hiring a Product Engineer](https://www.nango.dev/jobs)
 - [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
 - [Cough or sneeze? How the brain knows what to unleash](https://www.nature.com/articles/d41586-024-02858-9)
-- [How We Made Notebooks Load 10 Times Faster](https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster)
-- [Inertia.js – Build React, Vue, or Svelte apps with server-side routing](https://inertiajs.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
