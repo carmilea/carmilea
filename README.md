@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I use Nim instead of Python for data processing &lpar;2021&rpar;](https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/)
+- [What happens when you touch a pickle to an AM radio tower](https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower)
+- [Frustrations with the OCaml ecosystem while developing a synthesizer library](https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/)
 - [Swiss watchmakers put employees on state-funded leave as luxury demand disappear](https://fortune.com/europe/2024/09/04/swiss-watchmakers-put-employees-on-state-funded-furlough-as-luxury-demand-disappears/)
 - [LwIP – Lightweight IP Stack](https://www.nongnu.org/lwip/2_1_x/index.html)
-- [Visa to launch pay-by-bank payments, an alternative to credit cards](https://www.cnbc.com/2024/09/05/visa-to-launch-pay-by-bank-payments-an-alternative-to-credit-cards.html)
-- [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499)
-- [The Early Days of Valve from a Woman Inside](https://medium.com/@monicah428/the-early-days-of-valve-from-a-woman-inside-bf80c6b47961)
 <!-- BLOG-POST-LIST:END -->
 
 ---
