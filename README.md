@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Did Sandia use a thermonuclear secondary in a product logo?](https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/)
+- [Oxford commercializes its 20% more powerful solar panels in the US](https://electrek.co/2024/09/05/oxford-commercializes-its-20-more-powerful-solar-panels-in-the-us/)
+- [Exercise has 2M users but no money in the bank](https://exercism.org/blog/september-2024-restructure)
+- [Mozilla introduces updates to tab management in Firefox](https://support.mozilla.org/en-US/kb/tabs-organize-websites-single-window)
 - [Baseline pupil size related to cognitive ability in proper lighting conditions](https://www.sciencedirect.com/science/article/abs/pii/S0010027721000627)
-- [The expected value of the game is positive regardless of Ballmer’s strategy](https://gukov.dev/puzzles/math/2024/09/05/steve-ballmer-was-wrong.html)
-- [I use Nim instead of Python for data processing &lpar;2021&rpar;](https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/)
-- [What happens when you touch a pickle to an AM radio tower](https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower)
 <!-- BLOG-POST-LIST:END -->
 
 ---
