@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Steve Ballmer Was Wrong](https://gukov.dev/puzzles/math/2024/09/05/steve-ballmer-was-wrong.html)
+- [Moral implications of being moderately successful computer scientist and a woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
 - [I use Nim instead of Python for data processing &lpar;2021&rpar;](https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/)
 - [What happens when you touch a pickle to an AM radio tower](https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower)
 - [Frustrations with the OCaml ecosystem while developing a synthesizer library](https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/)
-- [Swiss watchmakers put employees on state-funded leave as luxury demand disappear](https://fortune.com/europe/2024/09/04/swiss-watchmakers-put-employees-on-state-funded-furlough-as-luxury-demand-disappears/)
-- [LwIP – Lightweight IP Stack](https://www.nongnu.org/lwip/2_1_x/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
