@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dell and Palantir to join S&amp;P 500; shares of both jump](https://www.cnbc.com/2024/09/06/dell-and-palantir-to-join-sp-500-shares-of-both-jump.html)
+- [Stranded astronauts&#39; capsule heads home without them](https://www.bbc.co.uk/news/articles/cx29wzk4r19o)
+- [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
 - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [Godot founders had desperately hoped Unity wouldn&#39;t &#39;blow up&#39;](https://www.gamedeveloper.com/programming/godot-founders-had-desperately-hoped-unity-wouldn-t-blow-up-)
 - [Why Login Security Sucks](https://matduggan.com/why-login-security-sucks/)
-- [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
-- [Cough or sneeze? How the brain knows what to unleash](https://www.nature.com/articles/d41586-024-02858-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
