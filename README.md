@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [Where Did the Serial Killers from the 80s Go? They&#39;re Online, and in Plain Sight](https://substack.com/@benedictslaney/p-148558589)
-- [PHP is the new JavaScript?](https://www.mux.com/blog/php-is-the-new-javascript)
 - [Godot founders had desperately hoped Unity wouldn&#39;t &#39;blow up&#39;](https://www.gamedeveloper.com/programming/godot-founders-had-desperately-hoped-unity-wouldn-t-blow-up-)
+- [Why Login Security Sucks](https://matduggan.com/why-login-security-sucks/)
 - [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
+- [Cough or sneeze? How the brain knows what to unleash](https://www.nature.com/articles/d41586-024-02858-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
