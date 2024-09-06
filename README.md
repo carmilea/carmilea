@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Wealthfolio: A Private, Open-Source Investment Tracker](https://wealthfolio.app)
 - [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [Effects of Gen AI on High Skilled Work: Experiments with Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
-- [The One-Eyed Man Is King: How did the monocle become a symbol of wealth? &lpar;2012&rpar;](https://slate.com/human-interest/2012/12/monocles-how-did-they-become-a-symbol-of-wealth.html)
-- [The Founder Mode Tradeoff – By Kent Beck](https://tidyfirst.substack.com/p/the-founder-mode-tradeoff)
-- [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
+- [C2y Proposal: Essential Effects for C](https://www9.open-std.org/JTC1/SC22/WG14/www/docs/n3317.htm)
+- [Advanced Programming in the Unix Environment](https://stevens.netmeister.org/631/)
+- [SAMA – open-source Chat server](https://github.com/SAMA-Communications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
