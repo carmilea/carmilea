@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nango &lpar;YC W23, Product Integrations Platform&rpar; Is Hiring a Product Engineer](https://www.nango.dev/jobs)
 - [Parkinson&#39;s may begin in the gut, study says, adding to growing evidence](https://www.washingtonpost.com/wellness/2024/09/05/parkinsons-disease-gut-study/)
 - [How We Made Notebooks Load 10 Times Faster](https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster)
-- [Nntpit: Minimalist Reddit2nntp Gateway](https://github.com/taviso/nntpit)
-- [Show HN: Wealthfolio: A Private, Open-Source Investment Tracker](https://wealthfolio.app)
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app)
+- [Effects of Gen AI on High Skilled Work: Experiments with Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
 <!-- BLOG-POST-LIST:END -->
 
 ---
