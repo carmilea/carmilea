@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Nango &lpar;YC W23, Product Integrations Platform&rpar; Is Hiring a Product Engineer](https://www.nango.dev/jobs)
-- [Parkinson&#39;s may begin in the gut, study says, adding to growing evidence](https://www.washingtonpost.com/wellness/2024/09/05/parkinsons-disease-gut-study/)
+- [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
+- [Cough or sneeze? How the brain knows what to unleash](https://www.nature.com/articles/d41586-024-02858-9)
 - [How We Made Notebooks Load 10 Times Faster](https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster)
-- [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app)
-- [Effects of Gen AI on High Skilled Work: Experiments with Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
+- [Inertia.js – Build React, Vue, or Svelte apps with server-side routing](https://inertiajs.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
