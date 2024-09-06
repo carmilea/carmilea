@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [How to Talk to SQL Data with Function Calling | SingleStore Webinars](https://www.youtube.com/watch?v=Hw6O76Oq9oQ)
 - [The Trillion Row Cloud DB Speed Test | SingleStore Webinars](https://www.youtube.com/watch?v=bRH6NMz3yiE)
 - [Unpacking Gartner 2024 Data Management Hype Cycle](https://www.youtube.com/watch?v=Kat81T-hVHs)
 - [7. Course Wrap-Up &amp; Gen AI App Store Exploration | H2O Wave](https://www.youtube.com/watch?v=cLqP5_4I5xw)
 - [6. Showcasing Practical Applications | H2O Wave](https://www.youtube.com/watch?v=26SUiH-ERwM)
-- [LiveRamp optimizes performance across Snowflake, Iceberg and all data in one platform: SingleStore](https://www.youtube.com/watch?v=DI3edy-PoOM)
 <!-- YOUTUBE:END -->
 
 
