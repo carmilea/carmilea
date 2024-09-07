@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dell and Palantir to join S&amp;P 500; shares of both jump](https://www.cnbc.com/2024/09/06/dell-and-palantir-to-join-sp-500-shares-of-both-jump.html)
+- [QtCS2024 Compile once. Run everywhere](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
 - [Stranded astronauts&#39; capsule heads home without them](https://www.bbc.co.uk/news/articles/cx29wzk4r19o)
+- [Leaked Disney+ financials may shed light on recent price hike](https://arstechnica.com/gadgets/2024/09/disney-made-2-4-billion-in-revenue-in-3-months-leak-claims/)
+- [Manipulating Large Language Models to Increase Product Visibility](https://arxiv.org/abs/2404.07981)
 - [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
-- [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [Why Login Security Sucks](https://matduggan.com/why-login-security-sucks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
