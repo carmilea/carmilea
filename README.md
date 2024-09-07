@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [QtCS2024 Compile once. Run everywhere](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
-- [Boost your development environment with Ubuntu Multipass](https://letsdebug.it/post/21-ubuntu-multipass/)
-- [Manipulating large language models to increase product visibility](https://arxiv.org/abs/2404.07981)
-- [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
-- [Tesorio Is Hiring a Senior GenAI Engineer and Django Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
+- [Malaysia started mandating ISPs to redirect DNS queries to local servers](https://thesun.my/local-news/mcmc-addresses-misinformation-on-dns-redirection-internet-access-restrictions-BN12972452)
+- [What&#39;s new in C++26 &lpar;part 1&rpar;](https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/)
+- [Boeing Starliner, leaving its crew behind, lands in New Mexico](https://www.cbsnews.com/news/boeing-starliner-leaves-crew-behind-returns-to-earth/)
+- [Browsing Hacker News in the Terminal](https://hnterm.ggerganov.com/)
+- [QtCS2024: Compile once, Run everywhere](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
