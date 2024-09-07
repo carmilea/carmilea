@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I started livestreaming as a Rust developer?](https://blog.orhun.dev/livestreaming/)
+- [Hindenburg&#39;s Interior: Photos Show What Luxury Air Travel Was Like in the 1930s](https://rarehistoricalphotos.com/hindenburg-interior-photos/)
+- [&#39;Right to Repair for Your Body&#39;: The Rise of DIY, Pirated Medicine](https://fourthievesvinegar.org/)
+- [WHAM: Wisconsin High-Temperature Superconducting Axisymmetric Mirror](https://wham.physics.wisc.edu/)
 - [Sieve &lpar;YC W22&rpar; Is hiring full stack engineers to build AI developer tools](https://www.sievedata.com/)
 - [Conservative GC can be faster than precise GC](https://wingolog.org/archives/2024/09/07/conservative-gc-can-be-faster-than-precise-gc)
-- [The PERQ Computer](https://graydon2.dreamwidth.org/313862.html)
-- [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
 <!-- BLOG-POST-LIST:END -->
 
 ---
