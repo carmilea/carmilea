@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
 - [Malaysia started mandating ISPs to redirect DNS queries to local servers](https://thesun.my/local-news/mcmc-addresses-misinformation-on-dns-redirection-internet-access-restrictions-BN12972452)
+- [MNT Pocket Reform – Unboxing and First Impressions](http://ratfactor.com/mnt-pocket-reform/first)
 - [What&#39;s new in C++26 &lpar;part 1&rpar;](https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/)
-- [Boeing Starliner, leaving its crew behind, lands in New Mexico](https://www.cbsnews.com/news/boeing-starliner-leaves-crew-behind-returns-to-earth/)
-- [Browsing Hacker News in the Terminal](https://hnterm.ggerganov.com/)
-- [QtCS2024: Compile once, Run everywhere](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
+- [Hyphanet is a private peer-to-peer platform for publishing and communication](https://www.hyphanet.org/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
