@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Post-Google World](https://www.thebignewsletter.com/p/a-post-google-world)
 - [Hindenburg&#39;s Interior: Photos Show What Luxury Air Travel Was Like in the 1930s](https://rarehistoricalphotos.com/hindenburg-interior-photos/)
 - [&#39;Right to Repair for Your Body&#39;: The Rise of DIY, Pirated Medicine](https://fourthievesvinegar.org/)
 - [WHAM: Wisconsin High-Temperature Superconducting Axisymmetric Mirror](https://wham.physics.wisc.edu/)
 - [Sieve &lpar;YC W22&rpar; Is hiring full stack engineers to build AI developer tools](https://www.sievedata.com/)
-- [Conservative GC can be faster than precise GC](https://wingolog.org/archives/2024/09/07/conservative-gc-can-be-faster-than-precise-gc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
