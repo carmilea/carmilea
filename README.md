@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [QtCS2024 Compile once. Run everywhere](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
+- [Boost your development environment with Ubuntu Multipass](https://letsdebug.it/post/21-ubuntu-multipass/)
 - [Stranded astronauts&#39; capsule heads home without them](https://www.bbc.co.uk/news/articles/cx29wzk4r19o)
-- [Leaked Disney+ financials may shed light on recent price hike](https://arstechnica.com/gadgets/2024/09/disney-made-2-4-billion-in-revenue-in-3-months-leak-claims/)
-- [Manipulating Large Language Models to Increase Product Visibility](https://arxiv.org/abs/2404.07981)
+- [Manipulating large language models to increase product visibility](https://arxiv.org/abs/2404.07981)
 - [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
 <!-- BLOG-POST-LIST:END -->
 
