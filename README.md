@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A new rare high-rank elliptic curve, and an orchard of Diophantine equations](https://thehighergeometer.wordpress.com/2024/09/08/two-items-a-new-rare-high-rank-elliptic-curve-and-a-beautifully-organised-orchard-of-diophantine-equations/)
+- [WebP: The WebPage Compression Format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 - [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
-- [OK City Apple Retail Workers Become 2nd US Store to Secure Tentative Agreement](https://cwa-union.org/news/releases/cwa-represented-apple-retail-workers-oklahoma-city-become-second-us-store-secure)
-- [CSAM content on Bluesky has risen ten times in just a week](https://bsky.app/profile/aaron.bsky.team/post/3l3gerugkbt27)
 - [A Post-Google World](https://www.thebignewsletter.com/p/a-post-google-world)
-- [Hindenburg&#39;s Interior: Photos Show What Luxury Air Travel Was Like in the 1930s](https://rarehistoricalphotos.com/hindenburg-interior-photos/)
+- [Ten Things to Know about the Great Wave](https://www.artic.edu/articles/1139/10-things-to-know-about-the-great-wave)
 <!-- BLOG-POST-LIST:END -->
 
 ---
