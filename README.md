@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Sieve &lpar;YC W22&rpar; Is hiring full stack engineers to build AI developer tools](https://www.sievedata.com/)
-- [We don&#39;t trade with ants and why hypothetical AI:s won&#39;t, either](https://www.datagubbe.se/tradeant/)
+- [An &#39;earthquake&#39; at Volkswagen – and a crisis for Germany?](https://www.theguardian.com/business/article/2024/sep/07/an-earthquake-at-volkswagen-and-a-crisis-for-germany)
+- [An Italian Bank Accepts Parmesan Cheese as Loan Collateral](https://www.forbes.com/sites/hbsworkingknowledge/2015/07/01/a-bank-that-accepts-parmesan-as-collateral-the-cheese-stands-a-loan/)
+- [Conservative GC can be faster than precise GC](https://wingolog.org/archives/2024/09/07/conservative-gc-can-be-faster-than-precise-gc)
 - [The PERQ Computer](https://graydon2.dreamwidth.org/313862.html)
-- [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
-- [Richard Feynman and the Connection Machine](https://longnow.org/essays/richard-feynman-and-connection-machine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
