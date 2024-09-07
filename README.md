@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nonstandard Analysis &lpar;1972&rpar;](https://sci-hub.se/https://www.jstor.org/stable/24927363)
+- [Raspberry Pi Showcases Rust on the RP2350 Microcontroller](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Rust)
+- [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
+- [Alternatives to Google Products – Updated](https://peq42.com/blog/alternatives-to-google-products/)
 - [My new rust binary search](https://chadnauseam.com/coding/random/my-new-rust-binary-search)
-- [Hallelujah, Leonard Cohen, and a Pulitzer Prize-winning writer&#39;s suicide](https://subtledigressions.substack.com/p/hallelujah-leonard-cohen-and-a-pulitzer)
-- [A new rare high-rank elliptic curve, and an orchard of Diophantine equations](https://thehighergeometer.wordpress.com/2024/09/08/two-items-a-new-rare-high-rank-elliptic-curve-and-a-beautifully-organised-orchard-of-diophantine-equations/)
-- [WebP: The WebPage Compression Format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
-- [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
