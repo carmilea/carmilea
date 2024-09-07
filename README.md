@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Check for malicious IPs using DNS](https://ipshield.dev/)
-- [How to evaluate performance of LLM inference frameworks](https://www.lamini.ai/blog/evaluate-performance-llm-inference-frameworks)
+- [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
+- [Operating system threads are always going to be &lpar;more&rpar; expensive](https://utcc.utoronto.ca/~cks/space/blog/tech/OSThreadsAlwaysExpensive)
+- [Working Methods &lpar;Of a Historian&rpar;](https://www.lrb.co.uk/the-paper/v32/n11/keith-thomas/diary)
 - [Malaysia started mandating ISPs to redirect DNS queries to local servers](https://thesun.my/local-news/mcmc-addresses-misinformation-on-dns-redirection-internet-access-restrictions-BN12972452)
-- [MNT Pocket Reform – Unboxing and First Impressions](http://ratfactor.com/mnt-pocket-reform/first)
 - [What&#39;s new in C++26 &lpar;part 1&rpar;](https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
