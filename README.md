@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+- [OK City Apple Retail Workers Become 2nd US Store to Secure Tentative Agreement](https://cwa-union.org/news/releases/cwa-represented-apple-retail-workers-oklahoma-city-become-second-us-store-secure)
+- [CSAM content on Bluesky has risen ten times in just a week](https://bsky.app/profile/aaron.bsky.team/post/3l3gerugkbt27)
 - [A Post-Google World](https://www.thebignewsletter.com/p/a-post-google-world)
 - [Hindenburg&#39;s Interior: Photos Show What Luxury Air Travel Was Like in the 1930s](https://rarehistoricalphotos.com/hindenburg-interior-photos/)
-- [&#39;Right to Repair for Your Body&#39;: The Rise of DIY, Pirated Medicine](https://fourthievesvinegar.org/)
-- [WHAM: Wisconsin High-Temperature Superconducting Axisymmetric Mirror](https://wham.physics.wisc.edu/)
-- [Sieve &lpar;YC W22&rpar; Is hiring full stack engineers to build AI developer tools](https://www.sievedata.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
