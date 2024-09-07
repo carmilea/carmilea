@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My new rust binary search](https://chadnauseam.com/coding/random/my-new-rust-binary-search)
+- [Hallelujah, Leonard Cohen, and a Pulitzer Prize-winning writer&#39;s suicide](https://subtledigressions.substack.com/p/hallelujah-leonard-cohen-and-a-pulitzer)
 - [A new rare high-rank elliptic curve, and an orchard of Diophantine equations](https://thehighergeometer.wordpress.com/2024/09/08/two-items-a-new-rare-high-rank-elliptic-curve-and-a-beautifully-organised-orchard-of-diophantine-equations/)
 - [WebP: The WebPage Compression Format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 - [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
-- [A Post-Google World](https://www.thebignewsletter.com/p/a-post-google-world)
-- [Ten Things to Know about the Great Wave](https://www.artic.edu/articles/1139/10-things-to-know-about-the-great-wave)
 <!-- BLOG-POST-LIST:END -->
 
 ---
