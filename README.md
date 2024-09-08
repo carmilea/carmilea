@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [White House asks agencies to step up internet routing security efforts](https://www.reuters.com/world/us/white-house-asks-agencies-step-up-internet-routing-security-efforts-2024-09-03/)
+- [When EV startups shut down, will their cars still work?](https://restofworld.org/2024/ev-company-shutdowns-china/)
+- [RPG Maker and Engine for Clojure](https://github.com/damn/core)
 - [Serving AI from the Basement – 192GB of VRAM Setup](https://ahmadosman.com/blog/serving-ai-from-basement/)
-- [&quot;Unstripping&quot; binaries: Restoring debugging information in GDB with Pwndbg](https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/)
-- [Infisical &lpar;YC W23&rpar; Is Hiring a Developer Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)
-- [Ask HN: How do you share and sync .env files and secrets with your team](https://news.ycombinator.com/item?id=41481482)
-- [Graphics Tricks from Boomers](https://arnaud-carre.github.io/2024-09-08-4ktribute/)
+- [The muscular imagination of Iain M. Banks: a future you might want to l](https://www.robinsloan.com/moonbound/muscular-imagination/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
