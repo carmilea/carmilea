@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [We should train AI in space [pdf]](https://lumenorbit.github.io/wp.pdf)
 - [Baiting the Bots](https://conspirator0.substack.com/p/baiting-the-bot)
+- [FutureRack: Server racks are everywhere. Now you can find them in your home](https://futurerack.info/main.php)
 - [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/)
 - [Microui+fenster=Small GUI](https://bernsteinbear.com/blog/fenster-microui/)
-- [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
