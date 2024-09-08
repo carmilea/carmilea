@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We should train AI in space [pdf]](https://lumenorbit.github.io/wp.pdf)
+- [Baiting the Bots](https://conspirator0.substack.com/p/baiting-the-bot)
 - [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/)
 - [Microui+fenster=Small GUI](https://bernsteinbear.com/blog/fenster-microui/)
 - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
-- [Appalachian Trail Hiker Photo Archive](https://athikerpictures.org/)
-- [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
