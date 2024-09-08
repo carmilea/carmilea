@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI recommends using an ad blocker](https://www.ic3.gov/Media/Y2022/PSA221221)
-- [How a Customer Got Trapped in Ambetter&#39;s Ghost Network](https://www.propublica.org/article/ambetter-ghost-network-consequences)
-- [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
-- [White House asks agencies to step up internet routing security efforts](https://www.reuters.com/world/us/white-house-asks-agencies-step-up-internet-routing-security-efforts-2024-09-03/)
-- [Core: New way to develop video games](https://github.com/damn/core)
+- [Reclaim the Stack](https://reclaim-the-stack.com)
+- [Charging lithium-ion batteries at high currents first increases lifespan by 50%](https://www.eurekalert.org/news-releases/1056171)
+- [FBI recommends using an ad blocker &lpar;2022&rpar;](https://www.ic3.gov/Media/Y2022/PSA221221)
+- [Exploiting CI / CD Pipelines for fun and profit](https://blog.razzsecurity.com/2024/09/08/exploitation-research/exploiting-ci-cd-pipelines-for-fun-and-profit/)
+- [Open Props – Supercharged CSS Variables](https://open-props.style/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
