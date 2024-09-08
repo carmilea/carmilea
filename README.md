@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
 - [White House asks agencies to step up internet routing security efforts](https://www.reuters.com/world/us/white-house-asks-agencies-step-up-internet-routing-security-efforts-2024-09-03/)
-- [When EV startups shut down, will their cars still work?](https://restofworld.org/2024/ev-company-shutdowns-china/)
-- [RPG Maker and Engine for Clojure](https://github.com/damn/core)
+- [Core: New way to develop video games](https://github.com/damn/core)
 - [Serving AI from the Basement – 192GB of VRAM Setup](https://ahmadosman.com/blog/serving-ai-from-basement/)
-- [The muscular imagination of Iain M. Banks: a future you might want to l](https://www.robinsloan.com/moonbound/muscular-imagination/)
+- [The muscular imagination of Iain M. Banks: a future you might want](https://www.robinsloan.com/moonbound/muscular-imagination/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
