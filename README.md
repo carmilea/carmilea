@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK electric car drivers should be charged per mile, say campaigners](https://www.theguardian.com/politics/article/2024/sep/03/uk-electric-car-drivers-per-mile-vehicle-taxes-campaign-for-better-transport)
+- [Infisical &lpar;YC W23&rpar; Is Hiring a Developer Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)
+- [Your Company Needs Junior Devs](https://softwaredoug.com/blog/2024/09/07/your-team-needs-juniors)
+- [Nikon sold more Z9 cameras in its first year than any flagship in past 15 years](https://petapixel.com/2024/09/05/nikon-sold-more-z9-cameras-in-its-first-year-than-any-flagship-in-past-15-years/)
+- [htmx Web Security Basics](https://htmx.org/essays/web-security-basics-with-htmx/)
 - [Have ‘hobby’ apps become the new social networks?](https://www.theguardian.com/technology/article/2024/sep/08/goodbye-tinder-hello-strava-have-hobby-apps-become-the-new-social-networks)
-- [LuaJIT PR: Add Support for RISC-V 64](https://github.com/LuaJIT/LuaJIT/pull/1267)
-- [Going Buildless](https://mxb.dev/blog/buildless/)
-- [Concrete clickbait: next time you share a spomenik photo, think abt what it mean &lpar;2016&rpar;](https://www.new-east-archive.org/articles/show/7269/spomenik-yugoslav-monument-owen-hatherley)
 <!-- BLOG-POST-LIST:END -->
 
 ---
