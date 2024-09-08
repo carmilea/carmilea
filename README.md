@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Baiting the Bots](https://conspirator0.substack.com/p/baiting-the-bot)
-- [FutureRack: Server racks are everywhere. Now you can find them in your home](https://futurerack.info/main.php)
-- [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/)
-- [Microui+fenster=Small GUI](https://bernsteinbear.com/blog/fenster-microui/)
-- [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
+- [Creating a search engine for fun and because Google sucks](https://vincents.dev/blog/creating-a-search-engine/?)
+- [An open discussion forum for ArXiv papers](https://www.alphaxiv.org/)
+- [Minimal Web](https://mnmlist.com/w/)
+- [WordPerfect for Unix Character Terminals](https://github.com/taviso/wpunix)
+- [Baiting the bot](https://conspirator0.substack.com/p/baiting-the-bot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
