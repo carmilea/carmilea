@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a search engine for fun and because Google sucks](https://vincents.dev/blog/creating-a-search-engine/?)
+- [Cruise ships chopped in half are a license to print money](https://newatlas.com/marine/how-to-stretch-cruise-ship/)
 - [An open discussion forum for ArXiv papers](https://www.alphaxiv.org/)
+- [Malaysia backtracks on DNS redirection decision](https://thesun.my/local-news/mcmc-asked-not-to-proceed-with-dns-redirection-method-fahmi-LN12977194)
 - [Minimal Web](https://mnmlist.com/w/)
 - [WordPerfect for Unix Character Terminals](https://github.com/taviso/wpunix)
-- [Baiting the bot](https://conspirator0.substack.com/p/baiting-the-bot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
