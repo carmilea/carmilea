@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/)
+- [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
+- [Appalachian Trail Hiker Photo Archive](https://athikerpictures.org/)
 - [Google says replacing C/C++ in firmware with Rust is easy](https://www.theregister.com/2024/09/06/google_rust_c_code_language/)
-- [Nonstandard Analysis &lpar;1972&rpar;](https://sci-hub.se/https://www.jstor.org/stable/24927363)
 - [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
-- [Alternatives to Google Products – Updated](https://peq42.com/blog/alternatives-to-google-products/)
-- [My new rust binary search](https://chadnauseam.com/coding/random/my-new-rust-binary-search)
 <!-- BLOG-POST-LIST:END -->
 
 ---
