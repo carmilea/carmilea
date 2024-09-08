@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t defer Close&lpar;&rpar; on writable files](https://www.joeshaw.org/dont-defer-close-on-writable-files/)
+- [Goodbye Tinder, hello Strava: have &#39;hobby&#39; apps become the new social networks?](https://www.theguardian.com/technology/article/2024/sep/08/goodbye-tinder-hello-strava-have-hobby-apps-become-the-new-social-networks)
+- [LuaJIT PR: Add Support for RISC-V 64](https://github.com/LuaJIT/LuaJIT/pull/1267)
+- [Concrete clickbait: next time you share a spomenik photo, think abt what it mean](https://www.new-east-archive.org/articles/show/7269/spomenik-yugoslav-monument-owen-hatherley)
 - [The worsening Raspberry Pi RP2350 E9 erratum situation](https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/)
 - [Cruise ships chopped in half are a license to print money](https://newatlas.com/marine/how-to-stretch-cruise-ship/)
-- [An open discussion forum for ArXiv papers](https://www.alphaxiv.org/)
-- [Malaysia backtracks on DNS redirection decision](https://thesun.my/local-news/mcmc-asked-not-to-proceed-with-dns-redirection-method-fahmi-LN12977194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
