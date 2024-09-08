@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/)
+- [Microui+fenster=Small GUI](https://bernsteinbear.com/blog/fenster-microui/)
 - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
 - [Appalachian Trail Hiker Photo Archive](https://athikerpictures.org/)
-- [Google says replacing C/C++ in firmware with Rust is easy](https://www.theregister.com/2024/09/06/google_rust_c_code_language/)
 - [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
 <!-- BLOG-POST-LIST:END -->
 
