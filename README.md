@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t defer Close&lpar;&rpar; on writable files](https://www.joeshaw.org/dont-defer-close-on-writable-files/)
+- [The worsening Raspberry Pi RP2350 E9 erratum situation](https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/)
 - [Cruise ships chopped in half are a license to print money](https://newatlas.com/marine/how-to-stretch-cruise-ship/)
 - [An open discussion forum for ArXiv papers](https://www.alphaxiv.org/)
 - [Malaysia backtracks on DNS redirection decision](https://thesun.my/local-news/mcmc-asked-not-to-proceed-with-dns-redirection-method-fahmi-LN12977194)
-- [Minimal Web](https://mnmlist.com/w/)
-- [WordPerfect for Unix Character Terminals](https://github.com/taviso/wpunix)
 <!-- BLOG-POST-LIST:END -->
 
 ---
