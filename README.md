@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The $12,000 Harvard Class Celebrities Are Fighting to Get Into](https://www.bloomberg.com/news/features/2024-07-22/the-12-000-harvard-business-class-celebrities-are-fighting-to-get-into)
+- [FBI recommends using an ad blocker](https://www.ic3.gov/Media/Y2022/PSA221221)
 - [How a Customer Got Trapped in Ambetter&#39;s Ghost Network](https://www.propublica.org/article/ambetter-ghost-network-consequences)
-- [With more legal action on the horizon, how long before Archive.org closes?](https://lunduke.locals.com/post/6079435/the-internet-archive-loses-appeal-as-expected)
-- [Create a online course in 10 minutes to learn anything](https://www.skillgnist.no/)
 - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
+- [White House asks agencies to step up internet routing security efforts](https://www.reuters.com/world/us/white-house-asks-agencies-step-up-internet-routing-security-efforts-2024-09-03/)
+- [Core: New way to develop video games](https://github.com/damn/core)
 <!-- BLOG-POST-LIST:END -->
 
 ---
