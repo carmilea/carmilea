@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wind Becomes Britain&#39;s Largest Electricity Source](https://reports.electricinsights.co.uk/q2-2024/wind-becomes-britains-largest-electricity-source/)
-- [Show HN: What do your GitHub starred repos say about you?](https://starlens.aisprint.dev/)
+- [College Pulse &lpar;YC S18&rpar; Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)
 - [Comfy, the 2D rust game engine, is now archived](https://github.com/darthdeus/comfy)
-- [Support for U.S. TikTok ban continues to decline](https://www.pewresearch.org/short-reads/2024/09/05/support-for-a-us-tiktok-ban-continues-to-decline-and-half-of-adults-doubt-it-will-happen/)
+- [Manual &#39;Till It Hurts](https://adactio.com/journal/21397)
 - [Which open-source projects are widely used but maintained by just a few people?](https://news.ycombinator.com/item?id=41486565)
+- [Please stop inventing new software licences &lpar;2020&rpar;](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
