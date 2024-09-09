@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons Learned Managing Kubernetes in Enterprise Organizations](https://www.fairwinds.com/blog/5-lessons-managing-kubernetes-enterprise-organizations)
-- [AirPods Pro 2 adds &#39;clinical grade&#39; hearing aid feature](https://9to5mac.com/2024/09/09/airpods-pro-2-adds-clinical-grade-hearing-aid-feature/)
-- [Apple Hearing Study shares preliminary insights on tinnitus](https://www.apple.com/newsroom/2024/05/apple-hearing-study-shares-preliminary-insights-on-tinnitus/)
-- [How on-the-wrist sleep apnea detection works](https://www.empirical.health/blog/apple-watch-sleep-apnea/)
-- [300μs typo correction for 1.3M words](https://trieve.ai/building-blazingly-fast-typo-correction-in-rust/)
+- [How We Made Jupyter Notebooks Load 10 Times Faster](https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster)
+- [Designing a Real-Time Data Warehouse](https://www.singlestore.com/blog/designing-a-real-time-data-warehouse)
+- [How We Built Our Real-Time Digital Marketing App](https://www.singlestore.com/blog/how-we-built-our-real-time-digital-marketing-app)
+- [How We Built a High-Performance Hybrid Search Using SingleStore in a Full-Stack Gen AI App](https://www.singlestore.com/blog/high-performance-hybrid-search-using-singlestore-full-stack-gen-ai-app)
+- [Query SingleStore Data As A Graph With PuppyGraph](https://www.singlestore.com/blog/query-singlestore-data-as-a-graph-with-puppygraph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
