@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ESPN AI-generated recap of retiring player&#39;s final match fails to mention them](https://awfulannouncing.com/espn/alex-morgan-ai-generated-recap-mention.html)
-- [Rust for the small things? but what about Python?](https://dataengineeringcentral.substack.com/p/rust-for-the-small-things)
-- [Gitea blocks PR from community, charging $$ for open-source contributions](https://github.com/go-gitea/gitea/pull/24257)
-- [TSMC&#39;s Arizona Trials Put Plant Productivity on Par with Taiwan](https://www.bloomberg.com/news/articles/2024-09-06/tsmc-s-arizona-trials-put-plant-productivity-on-par-with-taiwan)
-- [The Future of European Competitiveness](https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en)
+- [EU competitiveness: Looking ahead [pdf]](https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en?filename=The%20future%20of%20European%20competitiveness%20_%20A%20competitiveness%20strategy%20for%20Europe.pdf)
+- [Hacking misconfigured AWS S3 buckets: A complete guide](https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide)
+- [DuckDB 1.1.0 Released](https://duckdb.org/2024/09/09/announcing-duckdb-110.html)
+- [Nobody Cares About Security](https://www.adatosystems.com/2024/09/09/nobody-cares-about-security/)
+- [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
