@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America&#39;s best-paid CEOs have the worst-paid employees](https://pluralistic.net/2024/09/09/low-wage-100/)
-- [Police pressured him to confess to a murder that never happened](https://www.cnn.com/2024/09/05/us/fontana-pressured-murder-confession/index.html)
 - [College Pulse &lpar;YC S18&rpar; Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)
-- [Comfy, the 2D rust game engine, is now archived](https://github.com/darthdeus/comfy)
 - [Bitten by Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
+- [QUIC is not quick enough over fast internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
+- [Show HN: Ki Editor - the multicursor syntactical editor](https://ki-editor.github.io/ki-editor/)
+- [Linux&#39;s Bedtime Routine](https://tookmund.com/2024/09/hibernation-preparation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
