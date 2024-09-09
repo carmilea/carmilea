@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Deepsilicon &lpar;YC S24&rpar; – Software and hardware for ternary transformers](https://news.ycombinator.com/item?id=41490196)
-- [Why GitHub Won](https://blog.gitbutler.com/why-github-actually-won/)
-- [Project Hammer: reduce collusion in the Canadian grocery sector](https://jacobfilipp.com/hammer/)
-- [Study shows &#39;alarming&#39; level of trust in AI for life and death decisions](https://www.theengineer.co.uk/content/news/study-shows-alarming-level-of-trust-in-ai-for-life-and-death-decisions/)
-- [The U.S. needs to pay more attention to electronic warfare](https://www.noahpinion.blog/p/the-us-needs-to-pay-more-attention)
+- [Lessons Learned Managing Kubernetes in Enterprise Organizations](https://www.fairwinds.com/blog/5-lessons-managing-kubernetes-enterprise-organizations)
+- [AirPods Pro 2 adds &#39;clinical grade&#39; hearing aid feature](https://9to5mac.com/2024/09/09/airpods-pro-2-adds-clinical-grade-hearing-aid-feature/)
+- [Apple Hearing Study shares preliminary insights on tinnitus](https://www.apple.com/newsroom/2024/05/apple-hearing-study-shares-preliminary-insights-on-tinnitus/)
+- [How on-the-wrist sleep apnea detection works](https://www.empirical.health/blog/apple-watch-sleep-apnea/)
+- [300μs typo correction for 1.3M words](https://trieve.ai/building-blazingly-fast-typo-correction-in-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
