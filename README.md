@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QUIC Is Not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
+- [Show HN: Ki Editor - the multicursor syntactical editor](https://ki-editor.github.io/ki-editor/)
 - [ATProto for Distributed System Engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
 - [LLM_transcribe_recording: Bash Helper Using Mlx_whisper](https://gist.github.com/Olshansk/888533614765cd13139515d55573d676)
 - [Linux&#39;s Bedtime Routine](https://tookmund.com/2024/09/hibernation-preparation)
-- [Reclaim the Stack](https://reclaim-the-stack.com)
-- [Charging lithium-ion batteries at high currents first increases lifespan by 50%](https://www.eurekalert.org/news-releases/1056171)
 <!-- BLOG-POST-LIST:END -->
 
 ---
