@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU competitiveness: Looking ahead [pdf]](https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en?filename=The%20future%20of%20European%20competitiveness%20_%20A%20competitiveness%20strategy%20for%20Europe.pdf)
-- [Hacking misconfigured AWS S3 buckets: A complete guide](https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide)
-- [DuckDB 1.1.0 Released](https://duckdb.org/2024/09/09/announcing-duckdb-110.html)
-- [Nobody Cares About Security](https://www.adatosystems.com/2024/09/09/nobody-cares-about-security/)
-- [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions)
+- [Launch HN: Deepsilicon &lpar;YC S24&rpar; – Software and hardware for ternary transformers](https://news.ycombinator.com/item?id=41490196)
+- [Why GitHub Won](https://blog.gitbutler.com/why-github-actually-won/)
+- [Project Hammer: reduce collusion in the Canadian grocery sector](https://jacobfilipp.com/hammer/)
+- [Study shows &#39;alarming&#39; level of trust in AI for life and death decisions](https://www.theengineer.co.uk/content/news/study-shows-alarming-level-of-trust-in-ai-for-life-and-death-decisions/)
+- [The U.S. needs to pay more attention to electronic warfare](https://www.noahpinion.blog/p/the-us-needs-to-pay-more-attention)
 <!-- BLOG-POST-LIST:END -->
 
 ---
