@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [College Pulse &lpar;YC S18&rpar; Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)
-- [Bitten by Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
-- [QUIC is not quick enough over fast internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
-- [Show HN: Ki Editor - the multicursor syntactical editor](https://ki-editor.github.io/ki-editor/)
-- [Linux&#39;s Bedtime Routine](https://tookmund.com/2024/09/hibernation-preparation)
+- [ESPN AI-generated recap of retiring player&#39;s final match fails to mention them](https://awfulannouncing.com/espn/alex-morgan-ai-generated-recap-mention.html)
+- [Rust for the small things? but what about Python?](https://dataengineeringcentral.substack.com/p/rust-for-the-small-things)
+- [Gitea blocks PR from community, charging $$ for open-source contributions](https://github.com/go-gitea/gitea/pull/24257)
+- [TSMC&#39;s Arizona Trials Put Plant Productivity on Par with Taiwan](https://www.bloomberg.com/news/articles/2024-09-06/tsmc-s-arizona-trials-put-plant-productivity-on-par-with-taiwan)
+- [The Future of European Competitiveness](https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
