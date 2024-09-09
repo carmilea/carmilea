@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Made Jupyter Notebooks Load 10 Times Faster](https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster)
-- [Designing a Real-Time Data Warehouse](https://www.singlestore.com/blog/designing-a-real-time-data-warehouse)
-- [How We Built Our Real-Time Digital Marketing App](https://www.singlestore.com/blog/how-we-built-our-real-time-digital-marketing-app)
-- [How We Built a High-Performance Hybrid Search Using SingleStore in a Full-Stack Gen AI App](https://www.singlestore.com/blog/high-performance-hybrid-search-using-singlestore-full-stack-gen-ai-app)
-- [Query SingleStore Data As A Graph With PuppyGraph](https://www.singlestore.com/blog/query-singlestore-data-as-a-graph-with-puppygraph)
+- [Cohost to shut down at end of 2024](https://cohost.org/staff/post/7611443-cohost-to-shut-down)
+- [Automated feature testing of Verilog parsers using fuzzing](https://johnwickerson.wordpress.com/2024/09/09/automated-feature-testing-of-verilog-parsers-using-fuzzing/)
+- [FTC Pushed to Crack Down on Companies That Ruin Hardware via Software Updates](https://www.techdirt.com/2024/09/09/ftc-pushed-to-crack-down-on-companies-that-ruin-hardware-via-software-updates-or-annoying-paywalls/)
+- [Transfusion: Predict the Next Token and Diffuse Images with One Multimodal Model](https://www.arxiv.org/abs/2408.11039)
+- [Apple iPhone 16 Pro and iPhone 16 Pro Max](https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
