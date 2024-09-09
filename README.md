@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ATProto for Distributed System Engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
+- [LLM_transcribe_recording: Bash Helper Using Mlx_whisper](https://gist.github.com/Olshansk/888533614765cd13139515d55573d676)
+- [Linux&#39;s Bedtime Routine](https://tookmund.com/2024/09/hibernation-preparation)
 - [Reclaim the Stack](https://reclaim-the-stack.com)
 - [Charging lithium-ion batteries at high currents first increases lifespan by 50%](https://www.eurekalert.org/news-releases/1056171)
-- [FBI recommends using an ad blocker &lpar;2022&rpar;](https://www.ic3.gov/Media/Y2022/PSA221221)
-- [Exploiting CI / CD Pipelines for fun and profit](https://blog.razzsecurity.com/2024/09/08/exploitation-research/exploiting-ci-cd-pipelines-for-fun-and-profit/)
-- [Open Props – Supercharged CSS Variables](https://open-props.style/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
