@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Support for U.S. TikTok ban continues to decline](https://www.pewresearch.org/short-reads/2024/09/05/support-for-a-us-tiktok-ban-continues-to-decline-and-half-of-adults-doubt-it-will-happen/)
+- [Which open-source projects are widely used but maintained by just a few people?](https://news.ycombinator.com/item?id=41486565)
 - [What I gave up to become an engineering manager](https://emdiary.substack.com/p/what-i-gave-up-to-become-an-em)
 - [Please stop inventing new software licences &lpar;2020&rpar;](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)
 - [Bitten by Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
-- [QUIC is not quick enough over fast internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
-- [Confirmed: Reflection 70B&#39;s official API is a wrapper for Sonnet 3.5](https://old.reddit.com/r/LocalLLaMA/s/4Ly2yj78aM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
