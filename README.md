@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan gives $2.4B in incentives to Toyota and more for EV battery making](https://technode.com/2024/09/09/japan-gives-2-4-billion-in-incentives-to-toyota-and-more-for-battery-making/)
 - [Firefox update added more sponsored content on new-tab page](https://twitter.com/nearcyan/status/1833253001668268242)
 - [Just for Fun. No](https://justforfunnoreally.dev)
 - [Radiology specific foundation model released by Harrison.ai](https://harrison.ai/harrison-rad-1/)
 - [DOJ claims Google has &quot;trifecta of monopolies&quot; on Day 1 of ad tech trial](https://arstechnica.com/tech-policy/2024/09/doj-claims-google-has-trifecta-of-monopolies-on-day-1-of-ad-tech-trial/)
-- [Affordable DE10-Nano compatible boards for MiSTer FPGA retro platform](https://www.retrorgb.com/mister-pi-de-10-nano-clone-up-for-sale-today.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
