@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lottery Simulator](https://perthirtysix.com/tool/lottery-simulator)
+- [Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
+- [Another police raid in Germany](https://forum.torproject.org/t/tor-relays-artikel-5-e-v-another-police-raid-in-germany-general-assembly-on-sep-21st-2024/14533)
 - [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103)
-- [Iron Mountain: It&#39;s Time to Talk About Hard Drives](https://www.mixonline.com/business/inside-iron-mountain-its-time-to-talk-about-hard-drives)
-- [New York Times tech workers union votes to authorize a strike](https://www.axios.com/2024/09/10/nyt-tech-union-strike-vote)
-- [Show HN: Visual DB – Web front end for your database](https://visualdb.com/)
-- [Lip Reading as a Service &lpar;Read Their Lips by Symphonic Labs&rpar;](https://www.readtheirlips.com/)
+- [Git Bash Is My Preferred Windows Shell](https://www.ii.com/git-bash-is-my-preferred-windows-shell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
