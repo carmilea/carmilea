@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Six Ideas for Poland](https://www.noahpinion.blog/p/six-ideas-for-poland)
+- [GPTs and Hallucination](https://queue.acm.org/detail.cfm?id=3688007)
 - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
-- [How We Made Jupyter Notebooks Load 10 Times Faster](https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster/)
-- [Multispectral Imaging and the Voynich Manuscript](https://manuscriptroadtrip.wordpress.com/2024/09/08/multispectral-imaging-and-the-voynich-manuscript/)
-- [Debugging in the Multiverse](https://antithesis.com/blog/multiverse_debugging/)
-- [Results &lpar;Don&#39;t&rpar; Speak for Themselves: A Case for Documentation](https://www.population.fyi/p/results-dont-speak-for-themselves)
+- [Sapling: Source control that&#39;s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
+- [Show HN: YourNextStore – an open-source Shopify with Stripe as the back end](https://github.com/yournextstore/yournextstore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
