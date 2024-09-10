@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Roame &lpar;YC S23&rpar; Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/dd4pOgQ-chief-of-staff)
+- [Google and Apple Face Billions in Penalties After Losing E.U. Appeals](https://www.nytimes.com/2024/09/10/technology/european-union-apple-google-antitrust.html)
+- [EU top court confirms Apple&#39;s €13 billion tax bill in the EU](https://www.dw.com/en/eu-top-court-rules-against-apple-google/a-70175532)
 - [Who uses Accept-Language header?](https://serpapi.com/blog/who-uses-accept-language-header/)
 - [Just for Fun &lpar;2022&rpar;](https://justforfunnoreally.dev)
-- [Radiology-specific foundation model](https://harrison.ai/harrison-rad-1/)
-- [Sail – Built in Rust, 4x Faster Than Spark, 94% Lower Costs, PySpark-Compatible](https://github.com/lakehq/sail)
-- [Affordable DE10-Nano compatible boards for MiSTer FPGA retro platform](https://www.retrorgb.com/mister-pi-de-10-nano-clone-up-for-sale-today.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
