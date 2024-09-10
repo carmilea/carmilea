@@ -60,8 +60,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [EU Court: Apple received EUR 13B illegal tax subsidy [pdf]](https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-09/cp240133en.pdf)
 - [Tech Apple loses EU court battle over 13B euro tax bill in Ireland](https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html)
-- [Is telling a model to &quot;not hallucinate&quot; absurd?](https://gist.github.com/yoavg/4e4b48afda8693bc274869c2c23cbfb2)
-- [Japan gives $2.4B in incentives to Toyota and more for EV battery making](https://technode.com/2024/09/09/japan-gives-2-4-billion-in-incentives-to-toyota-and-more-for-battery-making/)
+- [Make Your Own Read-Only Device with NetBSD](https://it-notes.dragas.net/2024/09/10/make-your-own-readonly-device-with-netbsd/)
+- [Taildrop lets you send files between your personal devices on Tailscale network](https://tailscale.com/kb/1106/taildrop)
 - [Just for Fun &lpar;2022&rpar;](https://justforfunnoreally.dev)
 <!-- BLOG-POST-LIST:END -->
 
