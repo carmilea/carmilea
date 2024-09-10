@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Six Ideas for Poland](https://www.noahpinion.blog/p/six-ideas-for-poland)
-- [GPTs and Hallucination](https://queue.acm.org/detail.cfm?id=3688007)
-- [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
-- [Sapling: Source control that&#39;s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
-- [Show HN: YourNextStore – an open-source Shopify with Stripe as the back end](https://github.com/yournextstore/yournextstore)
+- [Nearly 40 states back surgeon general&#39;s social media warning labels](https://www.theverge.com/2024/9/10/24240920/state-ags-back-surgeon-general-social-media-warning-labels)
+- [Google loses EU court battle over €2.4B antitrust fine](https://www.politico.eu/article/google-loses-court-battle-over-first-eu-antitrust-fine/)
+- [What you can get out of a high-quality font](https://sinja.io/blog/get-maximum-out-of-your-font)
+- [Open Source is not a Business Model](https://cra.mr/open-source-is-not-a-business-model/)
+- [Google Illuminate: Books and Papers turned into audio content](https://illuminate.google.com/home)
 <!-- BLOG-POST-LIST:END -->
 
 ---
