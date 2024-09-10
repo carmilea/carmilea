@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lottery Simulator](https://perthirtysix.com/tool/lottery-simulator)
+- [Flipper Zero Gets Major Firmware Update, Can Eavesdrop on Walkie-Talkies](https://www.pcmag.com/news/flipper-zero-gets-major-firmware-update)
+- [Rust in Illumos](https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos)
+- [Among the Moss Piglets: The First Image of a Tardigrade &lpar;1773&rpar;](https://publicdomainreview.org/collection/tardigrade/)
+- [Lottery Simulator &lpar;2023&rpar;](https://perthirtysix.com/tool/lottery-simulator)
 - [Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
-- [Another police raid in Germany](https://forum.torproject.org/t/tor-relays-artikel-5-e-v-another-police-raid-in-germany-general-assembly-on-sep-21st-2024/14533)
-- [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103)
-- [Git Bash Is My Preferred Windows Shell](https://www.ii.com/git-bash-is-my-preferred-windows-shell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
