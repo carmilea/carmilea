@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU Court: Apple received EUR 13B illegal tax subsidy [pdf]](https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-09/cp240133en.pdf)
+- [Tech Apple loses EU court battle over 13B euro tax bill in Ireland](https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html)
+- [Is telling a model to &quot;not hallucinate&quot; absurd?](https://gist.github.com/yoavg/4e4b48afda8693bc274869c2c23cbfb2)
 - [Japan gives $2.4B in incentives to Toyota and more for EV battery making](https://technode.com/2024/09/09/japan-gives-2-4-billion-in-incentives-to-toyota-and-more-for-battery-making/)
 - [Just for Fun &lpar;2022&rpar;](https://justforfunnoreally.dev)
-- [Radiology-specific foundation model](https://harrison.ai/harrison-rad-1/)
-- [DOJ claims Google has &quot;trifecta of monopolies&quot; on Day 1 of ad tech trial](https://arstechnica.com/tech-policy/2024/09/doj-claims-google-has-trifecta-of-monopolies-on-day-1-of-ad-tech-trial/)
-- [Affordable DE10-Nano compatible boards for MiSTer FPGA retro platform](https://www.retrorgb.com/mister-pi-de-10-nano-clone-up-for-sale-today.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
