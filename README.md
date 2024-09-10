@@ -61,8 +61,8 @@
 - [Who uses Accept-Language header?](https://serpapi.com/blog/who-uses-accept-language-header/)
 - [Just for Fun &lpar;2022&rpar;](https://justforfunnoreally.dev)
 - [Radiology-specific foundation model](https://harrison.ai/harrison-rad-1/)
+- [Sail – Built in Rust, 4x Faster Than Spark, 94% Lower Costs, PySpark-Compatible](https://github.com/lakehq/sail)
 - [Affordable DE10-Nano compatible boards for MiSTer FPGA retro platform](https://www.retrorgb.com/mister-pi-de-10-nano-clone-up-for-sale-today.html)
-- [Talaria: Interactively Optimizing Machine Learning Models for Efficient Inferenc](https://arxiv.org/abs/2404.03085)
 <!-- BLOG-POST-LIST:END -->
 
 ---
