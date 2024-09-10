@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Just for Fun. No](https://justforfunnoreally.dev)
+- [Radiology specific foundation model released by Harrison.ai](https://harrison.ai/harrison-rad-1/)
 - [DOJ claims Google has &quot;trifecta of monopolies&quot; on Day 1 of ad tech trial](https://arstechnica.com/tech-policy/2024/09/doj-claims-google-has-trifecta-of-monopolies-on-day-1-of-ad-tech-trial/)
 - [Affordable DE10-Nano compatible boards for MiSTer FPGA retro platform](https://www.retrorgb.com/mister-pi-de-10-nano-clone-up-for-sale-today.html)
 - [Gdi.js: JavaScript Runtime Written in Object Pascal](https://gdi.sh/)
-- [Talaria: Interactively Optimizing Machine Learning Models for Efficient Inferenc](https://arxiv.org/abs/2404.03085)
-- [Sigrok – a portable, cross-platform, FOSS signal analysis software suite](https://sigrok.org/wiki/Main_Page)
 <!-- BLOG-POST-LIST:END -->
 
 ---
