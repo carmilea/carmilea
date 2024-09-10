@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nearly 40 states back surgeon general&#39;s social media warning labels](https://www.theverge.com/2024/9/10/24240920/state-ags-back-surgeon-general-social-media-warning-labels)
+- [Why VR Games Still Haven&#39;t Taken Off](https://spectrum.ieee.org/vr-games)
+- [Show HN: Visual DB – Web front end for your database](https://visualdb.com/)
 - [Google loses EU court battle over €2.4B antitrust fine](https://www.politico.eu/article/google-loses-court-battle-over-first-eu-antitrust-fine/)
 - [What you can get out of a high-quality font](https://sinja.io/blog/get-maximum-out-of-your-font)
-- [Open Source is not a Business Model](https://cra.mr/open-source-is-not-a-business-model/)
 - [Google Illuminate: Books and Papers turned into audio content](https://illuminate.google.com/home)
 <!-- BLOG-POST-LIST:END -->
 
