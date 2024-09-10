@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bank of America raises minimum hourly pay to $24, as tellers flee the industry](https://www.npr.org/2024/09/10/nx-s1-5106884/bank-of-america-raises-hourly-pay-tellers-flee-banking)
+- [Debugging in the Multiverse](https://antithesis.com/blog/multiverse_debugging/)
+- [We&#39;re in the brute force phase of AI – once it ends, demand for GPUs will too](https://www.theregister.com/2024/09/10/brute_force_ai_era_gartner/)
 - [Roame &lpar;YC S23&rpar; Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/dd4pOgQ-chief-of-staff)
 - [SQL powered operating system instrumentation, monitoring, and analytics](https://github.com/osquery/osquery)
 - [Our RNG Git Hash Bug](https://tmendez.dev/posts/rng-git-hash-bug/)
-- [Who uses Accept-Language header?](https://serpapi.com/blog/who-uses-accept-language-header/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
