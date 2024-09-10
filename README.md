@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
+- [How We Made Jupyter Notebooks Load 10 Times Faster](https://www.singlestore.com/blog/how-we-made-notebooks-load-10-times-faster/)
+- [Multispectral Imaging and the Voynich Manuscript](https://manuscriptroadtrip.wordpress.com/2024/09/08/multispectral-imaging-and-the-voynich-manuscript/)
 - [Debugging in the Multiverse](https://antithesis.com/blog/multiverse_debugging/)
-- [We&#39;re in the brute force phase of AI – once it ends, demand for GPUs will too](https://www.theregister.com/2024/09/10/brute_force_ai_era_gartner/)
-- [Roame &lpar;YC S23&rpar; Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/dd4pOgQ-chief-of-staff)
-- [SQL powered operating system instrumentation, monitoring, and analytics](https://github.com/osquery/osquery)
-- [Our RNG Git Hash Bug](https://tmendez.dev/posts/rng-git-hash-bug/)
+- [Results &lpar;Don&#39;t&rpar; Speak for Themselves: A Case for Documentation](https://www.population.fyi/p/results-dont-speak-for-themselves)
 <!-- BLOG-POST-LIST:END -->
 
 ---
