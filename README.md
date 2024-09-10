@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why VR Games Still Haven&#39;t Taken Off](https://spectrum.ieee.org/vr-games)
+- [SpaceX can&#39;t fly Starship until November at least](https://twitter.com/peterrhague/status/1833535376092500463)
+- [New York Times tech workers union votes to authorize a strike](https://www.axios.com/2024/09/10/nyt-tech-union-strike-vote)
 - [Show HN: Visual DB – Web front end for your database](https://visualdb.com/)
 - [Google loses EU court battle over €2.4B antitrust fine](https://www.politico.eu/article/google-loses-court-battle-over-first-eu-antitrust-fine/)
 - [What you can get out of a high-quality font](https://sinja.io/blog/get-maximum-out-of-your-font)
-- [Google Illuminate: Books and Papers turned into audio content](https://illuminate.google.com/home)
 <!-- BLOG-POST-LIST:END -->
 
 ---
