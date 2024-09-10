@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Affordable DE10-Nano compatible boards for MiSTer FPGA retro platform](https://www.retrorgb.com/mister-pi-de-10-nano-clone-up-for-sale-today.html)
+- [Actual Size Online Ruler &lpar;Mm,Cm,Inches&rpar; – Screen Measurements](https://www.ginifab.com/feeds/cm_to_inch/actual_size_ruler.html)
+- [Talaria: Interactively Optimizing Machine Learning Models for Efficient Inferenc](https://arxiv.org/abs/2404.03085)
+- [Sigrok – a portable, cross-platform, FOSS signal analysis software suite](https://sigrok.org/wiki/Main_Page)
 - [James Earl Jones has died](https://variety.com/2024/film/news/james-earl-jones-dead-darth-vader-lion-king-1236138656/)
-- [FTC Pushed to Crack Down on Companies That Ruin Hardware via Software Updates](https://www.techdirt.com/2024/09/09/ftc-pushed-to-crack-down-on-companies-that-ruin-hardware-via-software-updates-or-annoying-paywalls/)
-- [Transfusion: Predict the next token and diffuse images with one multimodal model](https://www.arxiv.org/abs/2408.11039)
-- [iPhone 16 Pro and iPhone 16 Pro Max](https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/)
-- [Apple Watch Series 10](https://www.apple.com/newsroom/2024/09/introducing-apple-watch-series-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
