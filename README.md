@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building the Same App Using Various Web Frameworks](https://eugeneyan.com/writing/web-frameworks/)
 - [Arvo Pärt&#39;s Journey](https://www.plough.com/en/topics/culture/music/arvo-parts-journey)
 - [People who are colorblind are less likely to be picky eaters](https://theconversation.com/how-we-discovered-that-people-who-are-colorblind-are-less-likely-to-be-picky-eaters-232438)
 - [Chai-1 Defeats AlphaFold 3](https://www.chaidiscovery.com/blog/introducing-chai-1)
 - [Flipper Zero Gets Major Firmware Update, Can Eavesdrop on Walkie-Talkies](https://www.pcmag.com/news/flipper-zero-gets-major-firmware-update)
-- [Rust in illumos](https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
