@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Movie industry touts takedown of &quot; largest&quot; pirate streaming ring](https://arstechnica.com/tech-policy/2024/08/movie-industry-touts-takedown-of-worlds-largest-pirate-streaming-ring/)
+- [Device Tree Patches Posted for Review to Boot Linux on Apple A7 to A11 Devices](https://www.phoronix.com/news/Linux-DT-Patches-A7-To-A11)
+- [Is 7 days a week the new norm &lpar;for YC&rpar;?](https://news.ycombinator.com/item?id=41511506)
+- [Boar&#39;s Head plant posed an &#39;imminent threat&#39; years before listeria outbreak](https://www.washingtonpost.com/health/2024/09/10/boars-head-listeria-outbreak-inspection/)
 - [The CIA-in-Chile Scandal at 50](https://nsarchive.gwu.edu/briefing-book/chile/2024-09-09/cia-chile-scandal-50)
 - [Building a browser using Servo as a web engine](https://servo.org/blog/2024/09/11/building-browser/)
-- [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
-- [Ask HN: Why is Pave legal?](https://news.ycombinator.com/item?id=41510103)
 <!-- BLOG-POST-LIST:END -->
 
 ---
