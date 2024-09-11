@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Research suggests more than half of VMware customers are looking to move](https://www.theregister.com/2024/09/11/civo_vmware_research/)
+- [New Feature Alert: Access Archived Webpages Directly Through Google Search](https://blog.archive.org/2024/09/11/new-feature-alert-access-archived-webpages-directly-through-google-search/)
+- [David Chang on the long, hard, stupid way](https://herbertlui.net/david-chang-on-the-long-hard-stupid-way/)
+- [Neanderthals&#39; social isolation may have sped up their extinction](https://www.popsci.com/science/neanderthal-extinction-isolation/)
 - [Device Tree Patches Posted for Review to Boot Linux on Apple A7 to A11 Devices](https://www.phoronix.com/news/Linux-DT-Patches-A7-To-A11)
-- [Is 7 days a week the new norm &lpar;for YC&rpar;?](https://news.ycombinator.com/item?id=41511506)
-- [Boar&#39;s Head plant posed an &#39;imminent threat&#39; years before listeria outbreak](https://www.washingtonpost.com/health/2024/09/10/boars-head-listeria-outbreak-inspection/)
-- [The CIA-in-Chile Scandal at 50](https://nsarchive.gwu.edu/briefing-book/chile/2024-09-09/cia-chile-scandal-50)
-- [Building a browser using Servo as a web engine](https://servo.org/blog/2024/09/11/building-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
