@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YAML is not a superset of JSON](https://www.patrickstevens.co.uk/posts/2024-03-14-yaml-superset-json/)
+- [Yaak Is Now Open Source](https://yaak.app/blog/now-open-source)
 - [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
 - [Common mistakes when using the metric system](https://www.nayuki.io/page/common-mistakes-when-using-the-metric-system)
 - [Struggling with Container HTTP Logs? Meet Logmink](https://github.com/mutairibassam/logmink)
