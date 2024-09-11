@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why Is Pave Legal?](https://news.ycombinator.com/item?id=41510103)
-- [Radicle 1.0 – A Local-First, P2P Alternative to GitHub](https://radicle.xyz/2024/09/10/radicle-1.0.html)
-- [ZX Spectrum Documentary &#39;The Rubber Keyed Wonder&#39; Gets London Premiere](https://www.timeextension.com/news/2024/09/zx-spectrum-documentary-the-rubber-keyed-wonder-gets-london-premiere-next-month)
-- [Yaak is now open source](https://yaak.app/blog/now-open-source)
-- [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
+- [US Gov Removing Four-Year-Degree Requirements for Cyber Jobs](https://www.securityweek.com/us-gov-removing-four-year-degree-requirements-for-cyber-jobs/)
+- [Stop trying to avoid distractions, just get better ones instead](https://ashore.io/journal/desk-notes/bluey-and-the-hierarchy-of-distractions)
+- [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
+- [Binsider – A TUI for analyzing Linux binaries](https://binsider.dev/)
+- [Radicle 1.0 – A local-first, P2P alternative to GitHub](https://radicle.xyz/2024/09/10/radicle-1.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
