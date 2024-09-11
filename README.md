@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Mistral AI Weights](https://twitter.com/mistralai/status/1833758285167722836)
-- [9/11 in Realtime](https://911realtime.org/)
+- [YAML is not a superset of JSON](https://www.patrickstevens.co.uk/posts/2024-03-14-yaml-superset-json/)
 - [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
+- [Common mistakes when using the metric system](https://www.nayuki.io/page/common-mistakes-when-using-the-metric-system)
 - [Struggling with Container HTTP Logs? Meet Logmink](https://github.com/mutairibassam/logmink)
-- [Facebook uses Australian adults public photos/posts to train AI, without opt-out](https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170)
+- [I wish I didn&#39;t miss the &#39;90s-00s internet](https://rohan.ga/blog/early-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
