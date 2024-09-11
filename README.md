@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Mistral AI Weights](https://twitter.com/mistralai/status/1833758285167722836)
+- [9/11 in Realtime](https://911realtime.org/)
+- [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
 - [Struggling with Container HTTP Logs? Meet Logmink](https://github.com/mutairibassam/logmink)
 - [Facebook uses Australian adults public photos/posts to train AI, without opt-out](https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170)
-- [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
-- [Ask HN: What have you built with LLMs?](https://news.ycombinator.com/item?id=41507784)
-- [Deploy a Redis Cluster on Kubernetes within 5 minutes](https://kubeblocks.io/docs/preview/api_docs/kubeblocks-for-redis/cluster-management/create-and-connect-a-redis-cluster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
