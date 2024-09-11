@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Gov Removing Four-Year-Degree Requirements for Cyber Jobs](https://www.securityweek.com/us-gov-removing-four-year-degree-requirements-for-cyber-jobs/)
-- [Stop trying to avoid distractions, just get better ones instead](https://ashore.io/journal/desk-notes/bluey-and-the-hierarchy-of-distractions)
+- [Europe has opened a door to a universal wallet](https://thenextweb.com/news/eu-digital-id-supports-universal-digital-wallet)
 - [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 - [Binsider – A TUI for analyzing Linux binaries](https://binsider.dev/)
-- [Radicle 1.0 – A local-first, P2P alternative to GitHub](https://radicle.xyz/2024/09/10/radicle-1.0.html)
+- [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
+- [I wish I didn&#39;t miss the &#39;90s-00s internet](https://rohan.ga/blog/early-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
