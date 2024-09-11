@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe has opened a door to a universal wallet](https://thenextweb.com/news/eu-digital-id-supports-universal-digital-wallet)
+- [Movie industry touts takedown of &quot; largest&quot; pirate streaming ring](https://arstechnica.com/tech-policy/2024/08/movie-industry-touts-takedown-of-worlds-largest-pirate-streaming-ring/)
+- [The CIA-in-Chile Scandal at 50](https://nsarchive.gwu.edu/briefing-book/chile/2024-09-09/cia-chile-scandal-50)
+- [Building a browser using Servo as a web engine](https://servo.org/blog/2024/09/11/building-browser/)
 - [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
-- [Binsider – A TUI for analyzing Linux binaries](https://binsider.dev/)
-- [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
-- [I wish I didn&#39;t miss the &#39;90s-00s internet](https://rohan.ga/blog/early-internet/)
+- [Ask HN: Why is Pave legal?](https://news.ycombinator.com/item?id=41510103)
 <!-- BLOG-POST-LIST:END -->
 
 ---
