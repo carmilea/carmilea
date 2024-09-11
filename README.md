@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why Is Pave Legal?](https://news.ycombinator.com/item?id=41510103)
+- [Radicle 1.0 – A Local-First, P2P Alternative to GitHub](https://radicle.xyz/2024/09/10/radicle-1.0.html)
 - [ZX Spectrum Documentary &#39;The Rubber Keyed Wonder&#39; Gets London Premiere](https://www.timeextension.com/news/2024/09/zx-spectrum-documentary-the-rubber-keyed-wonder-gets-london-premiere-next-month)
 - [Yaak is now open source](https://yaak.app/blog/now-open-source)
 - [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
-- [Casio WQV2 Wrist Camera Photos](https://www.urban75.org/watchcam/index.html)
-- [I wish I didn&#39;t miss the &#39;90s-00s internet](https://rohan.ga/blog/early-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
