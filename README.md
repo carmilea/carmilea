@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How economical is your local Taco Bell?](https://taconomical.com)
+- [I Wish I Didn&#39;t Miss the &#39;90s-00s Internet](https://rohan.ga/blog/early-internet/)
+- [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
 - [Building the same app using various web frameworks](https://eugeneyan.com/writing/web-frameworks/)
 - [Arvo Pärt&#39;s Journey](https://www.plough.com/en/topics/culture/music/arvo-parts-journey)
 - [People who are colorblind are less likely to be picky eaters](https://theconversation.com/how-we-discovered-that-people-who-are-colorblind-are-less-likely-to-be-picky-eaters-232438)
-- [Chai-1: Decoding the molecular interactions of life](https://www.chaidiscovery.com/blog/introducing-chai-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
