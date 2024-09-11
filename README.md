@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Wish I Didn&#39;t Miss the &#39;90s-00s Internet](https://rohan.ga/blog/early-internet/)
+- [Struggling with Container HTTP Logs? Meet Logmink](https://github.com/mutairibassam/logmink)
+- [Facebook uses Australian adults public photos/posts to train AI, without opt-out](https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170)
 - [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
-- [Building the same app using various web frameworks](https://eugeneyan.com/writing/web-frameworks/)
-- [Arvo Pärt&#39;s Journey](https://www.plough.com/en/topics/culture/music/arvo-parts-journey)
-- [People who are colorblind are less likely to be picky eaters](https://theconversation.com/how-we-discovered-that-people-who-are-colorblind-are-less-likely-to-be-picky-eaters-232438)
+- [Ask HN: What have you built with LLMs?](https://news.ycombinator.com/item?id=41507784)
+- [Deploy a Redis Cluster on Kubernetes within 5 minutes](https://kubeblocks.io/docs/preview/api_docs/kubeblocks-for-redis/cluster-management/create-and-connect-a-redis-cluster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
