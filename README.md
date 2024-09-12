@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
+- [Making Things People Want vs. Making Things That Alter Thinking](https://rohan.ga/blog/building-stuff/)
 - [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
 - [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
 - [Artie &lpar;YC S23&rpar; Is Hiring a Founding Designer](https://news.ycombinator.com/item?id=41522979)
-- [Metformin decelerates aging clock in male monkeys](https://www.cell.com/cell/abstract/S0092-8674(24)00914-0)
-- [Show HN: Galaxy Visualization](https://github.com/Avicted/galaxy_visualization_raylib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
