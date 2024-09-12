@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If I could dissect a sauropod](https://svpow.com/2024/09/12/if-i-could-dissect-a-sauropod/)
+- [The future of Boeing&#39;s crewed spaceflight program muddy after Starliner&#39;s return](https://arstechnica.com/space/2024/09/the-future-of-boeings-crewed-spaceflight-program-is-muddy-after-starliners-return/)
+- [GAZEploit: Remote keystroke inference attack by gaze estimation in VR/MR devices](https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/)
+- [Old Easter Island genomes show no sign of a population collapse](https://arstechnica.com/science/2024/09/old-easter-island-genomes-show-no-sign-of-a-population-collapse/)
 - [Java – Integrity by Default &lpar;JVMLS 2024&rpar;](https://www.youtube.com/watch?v=wNQKRBLbKIs)
-- [Giant sloth bone pendants suggest humans were in Americas earlier than thought](https://www.cnn.com/2023/07/12/americas/giant-sloth-bone-pendants-scn/index.html)
-- [A Stock Prius just drove across America averaging 93.158 MPG](https://www.theautopian.com/a-prius-just-drove-across-america-averaging-93-158-mpg-setting-a-guinness-world-record/)
-- [SpaceX Astronauts Begin Spacewalk, Putting New Spacesuits to Test](https://www.wsj.com/science/space-astronomy/spacex-launch-polaris-dawn-space-walk-bfed7f84)
-- [GitHub taught me to micromanage](https://matthewrocklin.com/feedback.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
