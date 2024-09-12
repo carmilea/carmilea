@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Favor of Reading Aloud](https://www.raptitude.com/2024/09/in-favor-of-reading-aloud/)
-- [Federal government to outlaw doxxing, impose up to seven years&#39; jail](https://www.abc.net.au/news/2024-09-12/albanese-government-will-outlaw-doxxing/104340372)
+- [Videogame firms hit with EU complaint over &#39;tricking consumers&#39;](https://www.reuters.com/technology/videogame-firms-hit-with-eu-complaint-over-tricking-consumers-2024-09-11/)
+- [My business card runs Linux &lpar;and Ultrix&rpar;, yours can too](http://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
+- [Be a Thermostat, Not a Thermometer](https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/)
 - [Show HN: How much is 13B euros?](https://howmuchis13billioneuros.com)
-- [Android now allows apps to block sideloading](https://arstechnica.com/gadgets/2024/09/android-now-allows-apps-to-block-sideloading-and-push-a-google-play-version/)
 - [Pathpilot &lpar;YC S24&rpar; is hiring a founding AI and full-stack engineer](https://www.ycombinator.com/companies/pathpilot/jobs/GlywVaz-founding-engineer-ai-full-stack)
 <!-- BLOG-POST-LIST:END -->
 
