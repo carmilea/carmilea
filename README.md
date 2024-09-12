@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [Steve Ballmer: facts on the US federal budget [video]](https://www.youtube.com/watch?v=aQoh9jdRZPM)
-- [Local Privilege Escalation via MSI Installer](https://sec-consult.com/vulnerability-lab/advisory/local-privilege-escalation-via-msi-installer-in-softmaker-office-freeoffice/)
-- [Making things people want vs. making things that alter thinking](https://rohan.ga/blog/building-stuff/)
-- [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
+- [Reflections on using OpenAI o1 / Strawberry for 1 month](https://www.oneusefulthing.org/p/something-new-on-openais-strawberry)
+- [Intel is on life support. Can anything save it?](https://www.economist.com/business/2024/09/12/intel-is-on-life-support-can-anything-save-it)
+- [A review of OpenAI o1 and how we evaluate coding agents](https://www.cognition.ai/blog/evaluating-coding-agents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
