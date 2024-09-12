@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [House passes $1.6B to deliver anti-China propaganda overseas](https://responsiblestatecraft.org/china-cold-war-2669160202/)
+- [The Neverending Story](https://garrettdimon.com/journal/posts/the-neverending-story)
 - [Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps](https://konty.app/http://localhost:4321/)
 - [NASA Pulls Off Delicate Thruster Swap, Keeping Voyager 1 Mission Alive](https://gizmodo.com/nasa-pulls-off-delicate-thruster-swap-keeping-voyager-1-mission-alive-2000497434)
-- [Show HN: Simple Alternative to Complex Project Management for Freelancers](https://news.ycombinator.com/item?id=41516720)
-- [Former Peruvian President Alberto Fujimori dies at age 86](https://www.latintimes.com/alberto-fujimori-former-president-peru-dies-86-after-battle-cancer-559201)
 - [The Minneapolis Street Grid: Explained](https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/)
 <!-- BLOG-POST-LIST:END -->
 
