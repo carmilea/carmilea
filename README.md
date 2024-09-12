@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [House passes $1.6B to deliver anti-China propaganda overseas](https://responsiblestatecraft.org/china-cold-war-2669160202/)
-- [The Neverending Story](https://garrettdimon.com/journal/posts/the-neverending-story)
+- [Linear, symmetric, self-selecting 14-bit molecular memristors](https://www.researchgate.net/publication/377744243_Linear_symmetric_self-selecting_14-bit_molecular_memristors)
+- [Microsoft hosts a security summit but no press, public allowed](https://www.theregister.com/2024/08/28/microsoft_closed_security_summit/)
+- [Startup employee claims she was fired for &#39;liking&#39; a post on toxic workplaces](https://www.hindustantimes.com/trending/startup-employee-claims-she-was-fired-for-liking-a-linkedin-post-on-toxic-workplaces-101726116584028.html)
 - [Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps](https://konty.app/http://localhost:4321/)
 - [NASA Pulls Off Delicate Thruster Swap, Keeping Voyager 1 Mission Alive](https://gizmodo.com/nasa-pulls-off-delicate-thruster-swap-keeping-voyager-1-mission-alive-2000497434)
-- [The Minneapolis Street Grid: Explained](https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
