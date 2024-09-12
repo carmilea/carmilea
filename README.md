@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Data sleuths who spotted research misconduct cleared of defamation](https://arstechnica.com/science/2024/09/court-clears-researchers-of-defamation-for-identifying-manipulated-data/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Steve Ballmer: facts on the US federal budget [video]](https://www.youtube.com/watch?v=aQoh9jdRZPM)
-- [Reflections on using OpenAI o1 / Strawberry for 1 month](https://www.oneusefulthing.org/p/something-new-on-openais-strawberry)
-- [Intel is on life support. Can anything save it?](https://www.economist.com/business/2024/09/12/intel-is-on-life-support-can-anything-save-it)
-- [A review of OpenAI o1 and how we evaluate coding agents](https://www.cognition.ai/blog/evaluating-coding-agents)
+- [Ask HN: Is a Masters in CS/Engineering worth it for a mid-career PM?](https://news.ycombinator.com/item?id=41525309)
+- [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
+- [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
