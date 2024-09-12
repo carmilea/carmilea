@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [USPS&#39; long-awaited new mail truck makes its debut to rave reviews from carriers](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)
-- [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
-- [Making Things People Want vs. Making Things That Alter Thinking](https://rohan.ga/blog/building-stuff/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Steve Ballmer: facts on the US federal budget [video]](https://www.youtube.com/watch?v=aQoh9jdRZPM)
+- [Local Privilege Escalation via MSI Installer](https://sec-consult.com/vulnerability-lab/advisory/local-privilege-escalation-via-msi-installer-in-softmaker-office-freeoffice/)
+- [Making things people want vs. making things that alter thinking](https://rohan.ga/blog/building-stuff/)
 - [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
-- [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
