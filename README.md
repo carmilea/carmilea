@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can LLMs Generate Novel Research Ideas?](https://www.arxiv.org/abs/2409.04109)
+- [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
+- [OpenAI O1](https://openai.com/index/introducing-openai-o1-preview/)
+- [Artie &lpar;YC S23&rpar; Is Hiring a Founding Designer](https://news.ycombinator.com/item?id=41522979)
+- [Show HN: Galaxy Visualization](https://github.com/Avicted/galaxy_visualization_raylib)
 - [Show HN: iFixit created a new USB-C, repairable soldering system](https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/)
-- [Unity is cancelling the runtime fee](https://unity.com/blog/unity-is-canceling-the-runtime-fee)
-- [Show HN: Repogather – copy relevant files to clipboard for LLM coding workflows](https://github.com/gr-b/repogather)
-- [If I could dissect a sauropod](https://svpow.com/2024/09/12/if-i-could-dissect-a-sauropod/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
