@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
 - [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
-- [OpenAI O1](https://openai.com/index/introducing-openai-o1-preview/)
 - [Artie &lpar;YC S23&rpar; Is Hiring a Founding Designer](https://news.ycombinator.com/item?id=41522979)
+- [Metformin decelerates aging clock in male monkeys](https://www.cell.com/cell/abstract/S0092-8674(24)00914-0)
 - [Show HN: Galaxy Visualization](https://github.com/Avicted/galaxy_visualization_raylib)
-- [Show HN: iFixit created a new USB-C, repairable soldering system](https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
