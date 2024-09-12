@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [USPS&#39; long-awaited new mail truck makes its debut to rave reviews from carriers](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)
 - [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
 - [Making Things People Want vs. Making Things That Alter Thinking](https://rohan.ga/blog/building-stuff/)
 - [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
-- [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
-- [Artie &lpar;YC S23&rpar; Is Hiring a Founding Designer](https://news.ycombinator.com/item?id=41522979)
+- [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
