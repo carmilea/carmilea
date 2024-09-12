@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Officer who ignored NYPD&#39;s &#39;courtesy cards&#39; receives $175K settlement](https://apnews.com/article/nypd-courtesy-card-police-misconduct-d5dfdbdad12b01a2cda864f69aa3d1aa)
-- [Personal carbon footprint of the rich is vastly underestimated](https://www.cam.ac.uk/research/news/personal-carbon-footprint-of-the-rich-is-vastly-underestimated-by-rich-and-poor-alike-study-finds)
-- [Steam Families Is Here](https://store.steampowered.com/news/app/593110/view/4605582245626919823)
+- [Java – Integrity by Default &lpar;JVMLS 2024&rpar;](https://www.youtube.com/watch?v=wNQKRBLbKIs)
+- [Giant sloth bone pendants suggest humans were in Americas earlier than thought](https://www.cnn.com/2023/07/12/americas/giant-sloth-bone-pendants-scn/index.html)
+- [A Stock Prius just drove across America averaging 93.158 MPG](https://www.theautopian.com/a-prius-just-drove-across-america-averaging-93-158-mpg-setting-a-guinness-world-record/)
 - [SpaceX Astronauts Begin Spacewalk, Putting New Spacesuits to Test](https://www.wsj.com/science/space-astronomy/spacex-launch-polaris-dawn-space-walk-bfed7f84)
-- [SpaceX Polaris Dawn crew attempts first private spacewalk [video]](https://www.youtube.com/watch?v=ABQBEdOzrV0)
+- [GitHub taught me to micromanage](https://matthewrocklin.com/feedback.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
