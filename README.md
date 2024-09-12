@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps](https://konty.app/http://localhost:4321/)
-- [ISO Panel – Trust in AI: How to build global confidence [video]](https://www.iso.org/annualmeeting/session/ai/trust)
+- [NASA Pulls Off Delicate Thruster Swap, Keeping Voyager 1 Mission Alive](https://gizmodo.com/nasa-pulls-off-delicate-thruster-swap-keeping-voyager-1-mission-alive-2000497434)
 - [Show HN: Simple Alternative to Complex Project Management for Freelancers](https://news.ycombinator.com/item?id=41516720)
+- [Former Peruvian President Alberto Fujimori dies at age 86](https://www.latintimes.com/alberto-fujimori-former-president-peru-dies-86-after-battle-cancer-559201)
 - [The Minneapolis Street Grid: Explained](https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/)
-- [My business card runs Linux and Ultrix &lpar;2022&rpar;](http://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
