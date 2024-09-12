@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Videogame firms hit with EU complaint over &#39;tricking consumers&#39;](https://www.reuters.com/technology/videogame-firms-hit-with-eu-complaint-over-tricking-consumers-2024-09-11/)
+- [Sony Turns to AI to Tackle Rising Animation Costs and Animator Shortage](https://www.cartoonbrew.com/business/sony-wants-to-produce-more-animation-content-but-hampered-by-animator-shortage-high-costs-242893.html)
+- [Human drivers are to blame for most serious Waymo collisions](https://www.understandingai.org/p/human-drivers-are-to-blame-for-most)
+- [Former Peruvian President Alberto Fujimori dies at age 86](https://www.latintimes.com/alberto-fujimori-former-president-peru-dies-86-after-battle-cancer-559201)
+- [The Minneapolis Street Grid: Explained](https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/)
 - [My business card runs Linux &lpar;and Ultrix&rpar;, yours can too](http://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
-- [Be a Thermostat, Not a Thermometer](https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/)
-- [Show HN: How much is 13B euros?](https://howmuchis13billioneuros.com)
-- [Pathpilot &lpar;YC S24&rpar; is hiring a founding AI and full-stack engineer](https://www.ycombinator.com/companies/pathpilot/jobs/GlywVaz-founding-engineer-ai-full-stack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
