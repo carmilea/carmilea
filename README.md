@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Data sleuths who spotted research misconduct cleared of defamation](https://arstechnica.com/science/2024/09/court-clears-researchers-of-defamation-for-identifying-manipulated-data/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Ask HN: Is a Masters in CS/Engineering worth it for a mid-career PM?](https://news.ycombinator.com/item?id=41525309)
-- [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
-- [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring Software Engineers](https://news.ycombinator.com/item?id=41527191)
+- [Notes on OpenAI&#39;s new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/)
+- [Greenland landslide caused freak wave that shook Earth for nine days](https://www.newscientist.com/article/2447567-greenland-landslide-caused-freak-wave-that-shook-earth-for-nine-days/)
+- [Notepat • Aesthetic Computer](https://aesthetic.computer/notepat)
+- [FDA Authorizes First Over-the-Counter Hearing Aid Software](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-over-counter-hearing-aid-software)
 <!-- BLOG-POST-LIST:END -->
 
 ---
