@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
+- [I fixed the strawberry problem because OpenAI couldn&#39;t](https://xeiaso.net/blog/2024/strawberry/)
 - [JG Ballard&#39;s Apocalyptic Art](https://www.newstatesman.com/culture/2024/09/jg-ballards-apocalyptic-art)
 - [Show HN: FlowTracker – Track data flowing through Java programs](https://github.com/coekie/flowtracker)
 - [Entire staff of game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
-- [Boeing workers vote to strike](https://www.washingtonpost.com/business/2024/09/13/boeing-union-contract-strike/)
-- [Who Owns Nebula?](https://medium.com/@cameron-paul/who-actually-owns-nebula-952a1c12d9c0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
