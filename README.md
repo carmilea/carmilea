@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Better-performing &quot;25519&quot; elliptic-curve cryptography](https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography)
+- [Does Your Startup Need Complex Cloud Infrastructure?](https://www.hadijaveed.me/2024/09/08/does-your-startup-really-need-complex-cloud-infrastructure/)
+- [The Magnetic Field of the Milky Way](https://lweb.cfa.harvard.edu/~reid/bfield.html)
+- [Music Industry&#39;s 1990s Hard Drives Are Dying](https://arstechnica.com/gadgets/2024/09/music-industrys-1990s-hard-drives-like-all-hdds-are-dying/)
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring Software Engineers](https://news.ycombinator.com/item?id=41527191)
-- [Notes on OpenAI&#39;s new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/)
-- [Greenland landslide caused freak wave that shook Earth for nine days](https://www.newscientist.com/article/2447567-greenland-landslide-caused-freak-wave-that-shook-earth-for-nine-days/)
-- [Advertising platform The Trade Desk is building its own smart TV OS](https://www.lowpass.cc/p/the-trade-desk-smart-tv-os-platform)
-- [Notepat • Aesthetic Computer](https://aesthetic.computer/notepat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
