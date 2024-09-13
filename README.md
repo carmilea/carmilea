@@ -61,8 +61,8 @@
 - [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring Software Engineers](https://news.ycombinator.com/item?id=41527191)
 - [Notes on OpenAI&#39;s new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/)
 - [Greenland landslide caused freak wave that shook Earth for nine days](https://www.newscientist.com/article/2447567-greenland-landslide-caused-freak-wave-that-shook-earth-for-nine-days/)
+- [Advertising platform The Trade Desk is building its own smart TV OS](https://www.lowpass.cc/p/the-trade-desk-smart-tv-os-platform)
 - [Notepat • Aesthetic Computer](https://aesthetic.computer/notepat)
-- [FDA Authorizes First Over-the-Counter Hearing Aid Software](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-over-counter-hearing-aid-software)
 <!-- BLOG-POST-LIST:END -->
 
 ---
