@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JG Ballard&#39;s Apocalyptic Art](https://www.newstatesman.com/culture/2024/09/jg-ballards-apocalyptic-art)
+- [Show HN: FlowTracker – Track data flowing through Java programs](https://github.com/coekie/flowtracker)
 - [Entire staff of game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
 - [Boeing workers vote to strike](https://www.washingtonpost.com/business/2024/09/13/boeing-union-contract-strike/)
 - [Who Owns Nebula?](https://medium.com/@cameron-paul/who-actually-owns-nebula-952a1c12d9c0)
-- [Better-performing “25519” elliptic-curve cryptography](https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography)
-- [Does your startup need complex cloud infrastructure?](https://www.hadijaveed.me/2024/09/08/does-your-startup-really-need-complex-cloud-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
