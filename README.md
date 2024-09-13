@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shrinking the economy won&#39;t save the planet](https://www.vox.com/future-perfect/371640/economic-growth-climate-change-degrowth-science-global-warming)
 - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 - [JG Ballard&#39;s Apocalyptic Art](https://www.newstatesman.com/culture/2024/09/jg-ballards-apocalyptic-art)
 - [Show HN: FlowTracker – Track data flowing through Java programs](https://github.com/coekie/flowtracker)
 - [Entire staff of game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
+- [Boeing workers vote to strike](https://www.washingtonpost.com/business/2024/09/13/boeing-union-contract-strike/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
