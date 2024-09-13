@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing workers vote to strike in resounding defeat for troubled company](https://www.washingtonpost.com/business/2024/09/13/boeing-union-contract-strike/)
+- [Who Owns Nebula?](https://medium.com/@cameron-paul/who-actually-owns-nebula-952a1c12d9c0)
 - [Better-performing &quot;25519&quot; elliptic-curve cryptography](https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography)
 - [Does Your Startup Need Complex Cloud Infrastructure?](https://www.hadijaveed.me/2024/09/08/does-your-startup-really-need-complex-cloud-infrastructure/)
 - [The Magnetic Field of the Milky Way](https://lweb.cfa.harvard.edu/~reid/bfield.html)
-- [Music Industry&#39;s 1990s Hard Drives Are Dying](https://arstechnica.com/gadgets/2024/09/music-industrys-1990s-hard-drives-like-all-hdds-are-dying/)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring Software Engineers](https://news.ycombinator.com/item?id=41527191)
 <!-- BLOG-POST-LIST:END -->
 
 ---
