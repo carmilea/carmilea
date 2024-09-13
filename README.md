@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Lisp implemented in Rust macros](https://github.com/RyanWelly/lisp-in-rs-macros)
+- [Unicode 16 now includes retro video game sprites [pdf]](https://www.unicode.org/charts/PDF/Unicode-16.0/U160-1CC00.pdf)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-- [Academics say flying to meetings harms the climate – but they carry on](https://www.nature.com/articles/d41586-024-02965-7)
 - [CrowdStrike ex-employees: &#39;Quality control was not part of our process&#39;](https://www.semafor.com/article/09/12/2024/ex-crowdstrike-employees-detail-rising-technical-errors-before-july-outage)
 - [Janet Jackson had the power to crash laptop computers &lpar;2022&rpar;](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 <!-- BLOG-POST-LIST:END -->
