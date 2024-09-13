@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The End Times have come for the Pinboard bookmarking service](https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html)
-- [The 34th First Annual Ig Nobel Ceremony](https://improbable.com/ig/archive/2024-ceremony/)
-- [Older Americans Are About to Lose a Lot of Weight](https://www.theatlantic.com/health/archive/2024/02/ozempic-weight-loss-older-americans-boomers/677371/)
-- [Supabase &lpar;YC S20&rpar; Is Hiring Postgres SREs [Fully Remote]](https://boards.greenhouse.io/supabase/jobs/5162509004)
-- [Zero-Click Calendar invite – Critical zero-click vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
+- [Janet Jackson had the power to crash laptop computers](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
+- [OpenAI threatens to revoke o1 access for asking it about its chain of thought](https://twitter.com/SmokeAwayyy/status/1834641370486915417)
+- [Tesla Semi fire in California took 50k gallons of water to extinguish](https://www.cnbc.com/2024/09/13/tesla-semi-fire-needed-50000-gallons-of-water-to-extinguish.html)
+- [Modular Monoliths Are a Good Idea](https://materializedview.io/p/modular-monoliths-are-a-good-idea)
+- [MariaDB vs. MySQL](https://www.singlestore.com/blog/mariadb-vs-mysql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
