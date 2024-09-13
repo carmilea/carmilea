@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lisp implemented in Rust macros](https://github.com/RyanWelly/lisp-in-rs-macros)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-- [OpenAI acknowledges new models increase risk of misuse to create bioweapons](https://www.ft.com/content/37ba7236-2a64-4807-b1e1-7e21ee7d0914)
 - [Academics say flying to meetings harms the climate – but they carry on](https://www.nature.com/articles/d41586-024-02965-7)
 - [CrowdStrike ex-employees: &#39;Quality control was not part of our process&#39;](https://www.semafor.com/article/09/12/2024/ex-crowdstrike-employees-detail-rising-technical-errors-before-july-outage)
-- [Demographic decline: Greece faces alarming population collapse](https://www.euronews.com/2024/09/13/demographic-decline-greece-faces-alarming-population-collapse)
+- [Janet Jackson had the power to crash laptop computers &lpar;2022&rpar;](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
