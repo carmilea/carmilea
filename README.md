@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Billiards is a good game &lpar;1975&rpar;](https://mag.uchicago.edu/billiards)
-- [Brazil Supreme Court unfreezes X, Starlink&#39;s bank accounts after taking $3.3M](https://thehill.com/policy/technology/4879133-brazil-unfreezes-starlink-x-assets/)
 - [Void captures over a million Android TV boxes](https://news.drweb.com/show/?i=14900)
 - [18,000 Miles Later, an American Woman Has Cycled the World](https://www.nytimes.com/2024/09/12/sports/cycling/bicycle-around-the-world-record.html)
 - [US targets trade loophole used by ecommerce groups Temu and Shein](https://www.ft.com/content/2f07510b-d2c6-4bae-bae3-aa5dfa8bd796)
+- [Intel Solidifies $3.5B Deal to Make Chips for Military](https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military)
 <!-- BLOG-POST-LIST:END -->
 
 ---
