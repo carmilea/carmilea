@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A cartoon butt clenching a bar of soap has invaded my online ads](https://arstechnica.com/culture/2024/09/a-cartoon-butt-clenching-a-bar-of-soap-has-invaded-my-online-ads/)
+- [To forget is an ethical act](https://emilygorcenski.com/post/to-forget-is-an-ethical-act/)
 - [Hadrius &lpar;YC W23&rpar; Is Hiring New Grads Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/4E0eW8N-customer-success-engineer)
+- [Zen and the Art of Writer Decks &lpar;Using the Pomera DM250&rpar;](http://www.antipope.org/charlie/blog-static/2024/09/zen-and-the-art-of-writer-deck.html)
 - [Everyone says Chrome devastates Mac battery life, but does it? 36 hour test](https://birchtree.me/blog/everyone-says-chrome-devastates-mac-battery-life-but-does-it-i-tested-for-36-hours-to-find-out/)
-- [Almost all new car sales in Norway last month were EVs](https://qz.com/almost-all-new-car-sales-in-norway-last-month-were-evs-1851639882)
-- [Installing Arch Linux on a Laptop](https://giacomo.coletto.io/blog/arch-amd/)
-- [Rust error handling](https://bitfieldconsulting.com/posts/rust-errors-option-result)
 <!-- BLOG-POST-LIST:END -->
 
 ---
