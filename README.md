@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Installing Arch Linux on a Laptop](https://giacomo.coletto.io/blog/arch-amd/)
+- [Rust error handling](https://bitfieldconsulting.com/posts/rust-errors-option-result)
 - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
+- [The Bastard Operator from Hell](https://bofh.bjash.com/)
 - [LLMs Will Always Hallucinate, and We Need to Live with This](https://arxiv.org/abs/2409.05746)
-- [Rollstack &lpar;YC W23&rpar; is hiring exceptional LLM engineers and Full-stack engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
-- [Testing the Firefox Alternatives](https://tommorris.org/posts/2024/testing-the-firefox-alternatives/)
-- [Terence Tao on O1](https://mathstodon.xyz/@tao/113132502735585408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
