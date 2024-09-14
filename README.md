@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tiny Great Languages: Forth/Mouse](https://zserge.com/posts/langs-mouse/)
-- [Sunamp&#39;s thermal battery uses a chemical found in salt-and-vinegar potato chips](https://techcrunch.com/2024/09/08/sunamps-thermal-battery-uses-a-chemical-found-in-salt-and-vinegar-potato-chips/)
+- [Icon &lpar;real creators, AI ads&rpar; is hiring founding engineers &lpar;NYC&rpar;](https://icon.me/careers)
+- [The data on extreme human ageing is rotten from the inside out](https://theconversation.com/the-data-on-extreme-human-ageing-is-rotten-from-the-inside-out-ig-nobel-winner-saul-justin-newman-239023)
 - [Why use metaphors in conflicts? Because understanding is remembering in disguise &lpar;2009&rpar;](https://westallen.typepad.com/brains_on_purpose/2009/06/why-use-metaphors-because-understanding-is-remembering-in-disguise.html)
 - [Billiards is a good game &lpar;1975&rpar;](https://mag.uchicago.edu/billiards)
 - [Void captures over a million Android TV boxes](https://news.drweb.com/show/?i=14900)
