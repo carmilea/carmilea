@@ -60,8 +60,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [OpenAI&#39;s $150B valuation hinges on upending corporate structure, sources](https://www.reuters.com/technology/artificial-intelligence/openais-stunning-150-billion-valuation-hinges-upending-corporate-structure-2024-09-14/)
 - [18,000 Miles Later, an American Woman Has Cycled the World](https://www.nytimes.com/2024/09/12/sports/cycling/bicycle-around-the-world-record.html)
-- [Starliner astronaut: We found things that we just could not get comfortable with](https://www.cnn.com/2024/09/13/science/boeing-starliner-astronauts-suni-williams-butch-wilmore/index.html)
 - [Stolen iPhones Will Be Even More Useless from iOS 18 Onwards](https://www.macobserver.com/ios/stolen-iphones-will-be-even-more-useless-from-ios-18-onwards/)
+- [US targets trade loophole used by ecommerce groups Temu and Shein](https://www.ft.com/content/2f07510b-d2c6-4bae-bae3-aa5dfa8bd796)
 - [Intel Solidifies $3.5B Deal to Make Chips for Military](https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military)
 <!-- BLOG-POST-LIST:END -->
 
