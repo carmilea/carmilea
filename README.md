@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hadrius &lpar;YC W23&rpar; Is Hiring New Grads Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/4E0eW8N-customer-success-engineer)
+- [Everyone says Chrome devastates Mac battery life, but does it? 36 hour test](https://birchtree.me/blog/everyone-says-chrome-devastates-mac-battery-life-but-does-it-i-tested-for-36-hours-to-find-out/)
+- [Almost all new car sales in Norway last month were EVs](https://qz.com/almost-all-new-car-sales-in-norway-last-month-were-evs-1851639882)
 - [Installing Arch Linux on a Laptop](https://giacomo.coletto.io/blog/arch-amd/)
 - [Rust error handling](https://bitfieldconsulting.com/posts/rust-errors-option-result)
-- [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
-- [The Bastard Operator from Hell](https://bofh.bjash.com/)
-- [LLMs Will Always Hallucinate, and We Need to Live with This](https://arxiv.org/abs/2409.05746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
