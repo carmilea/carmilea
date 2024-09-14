@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
-- [Making a rickroll laser: A parametric speaker](https://10maurycy10.github.io/projects/speaker/)
-- [Factor 0.100 Now Available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
-- [Craig Wright said he invented Bitcoin – lawyers proved him wrong](https://www.ft.com/content/f3bb0b62-2d8a-44e8-a5aa-13a8f154ec0e)
-- [They don&#39;t make readers like they used to](https://www.antipope.org/charlie/blog-static/2024/08/they-dont-make-readers-like-th.html)
+- [LLMs Will Always Hallucinate, and We Need to Live with This](https://arxiv.org/abs/2409.05746)
+- [Rollstack &lpar;YC W23&rpar; is hiring exceptional LLM engineers and Full-stack engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
+- [Terence Tao on O1](https://mathstodon.xyz/@tao/113132502735585408)
+- [iPhone 16&#39;s A18 Pro chip outperforms the M1 chip](https://9to5mac.com/2024/09/14/iphone-16-pro-m1/)
+- [Degrees of deception: How America&#39;s universities became debt factories](https://anandsanwal.me/college-student-debt-deception/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
