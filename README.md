@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brazil Supreme Court unfreezes X, Starlink&#39;s bank accounts after taking $3.3M](https://thehill.com/policy/technology/4879133-brazil-unfreezes-starlink-x-assets/)
 - [Void captures over a million Android TV boxes](https://news.drweb.com/show/?i=14900)
 - [18,000 Miles Later, an American Woman Has Cycled the World](https://www.nytimes.com/2024/09/12/sports/cycling/bicycle-around-the-world-record.html)
 - [US targets trade loophole used by ecommerce groups Temu and Shein](https://www.ft.com/content/2f07510b-d2c6-4bae-bae3-aa5dfa8bd796)
 - [Intel Solidifies $3.5B Deal to Make Chips for Military](https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military)
-- [My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
