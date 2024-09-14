@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 - [LLMs Will Always Hallucinate, and We Need to Live with This](https://arxiv.org/abs/2409.05746)
 - [Rollstack &lpar;YC W23&rpar; is hiring exceptional LLM engineers and Full-stack engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
 - [Testing the Firefox Alternatives](https://tommorris.org/posts/2024/testing-the-firefox-alternatives/)
 - [Terence Tao on O1](https://mathstodon.xyz/@tao/113132502735585408)
-- [Degrees of deception: How America&#39;s universities became debt factories](https://anandsanwal.me/college-student-debt-deception/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
