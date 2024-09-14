@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I removed politics from Twitter with AI](https://www.mindfw.com)
+- [Who is responsible for the greatest change to our language? Teenage girls](https://www.abc.net.au/news/2024-08-04/teenage-girls-linguistics/104160082)
 - [Billiards is a good game &lpar;1975&rpar;](https://mag.uchicago.edu/billiards)
 - [Void captures over a million Android TV boxes](https://news.drweb.com/show/?i=14900)
 - [18,000 Miles Later, an American Woman Has Cycled the World](https://www.nytimes.com/2024/09/12/sports/cycling/bicycle-around-the-world-record.html)
-- [US targets trade loophole used by ecommerce groups Temu and Shein](https://www.ft.com/content/2f07510b-d2c6-4bae-bae3-aa5dfa8bd796)
-- [Intel Solidifies $3.5B Deal to Make Chips for Military](https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military)
 <!-- BLOG-POST-LIST:END -->
 
 ---
