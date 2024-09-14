@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Govt pushes Nvidia and Apple to use Intel&#39;s foundries](https://www.tomshardware.com/tech-industry/us-govt-pushes-nvidia-and-apple-to-use-intels-foundries-department-of-commerce-secretary-raimondo-makes-appeal-for-us-based-chip-production)
+- [Thomas Piketty: &#39;The Draghi report is a step in the right direction&#39;](https://www.lemonde.fr/en/opinion/article/2024/09/14/thomas-piketty-the-draghi-report-is-a-step-in-the-right-direction_6725996_23.html)
 - [They don&#39;t make readers like they used to](https://www.antipope.org/charlie/blog-static/2024/08/they-dont-make-readers-like-th.html)
-- [Valkey achieved one million RPS 6 months after forking from Redis](https://valkey.io/blog/unlock-one-million-rps-part2/)
 - [The Department of Everything – Dispatches from the telephone reference desk](https://hedgehogreview.com/issues/the-varieties-of-travel-experience/articles/the-department-of-everything)
 - [Icon &lpar;real creators, AI ads&rpar; is hiring founding engineers &lpar;NYC&rpar;](https://icon.me/careers)
-- [The data on extreme human ageing is rotten from the inside out](https://theconversation.com/the-data-on-extreme-human-ageing-is-rotten-from-the-inside-out-ig-nobel-winner-saul-justin-newman-239023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
