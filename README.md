@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lisp implemented in Rust macros](https://github.com/RyanWelly/lisp-in-rs-macros)
-- [Unicode 16 now includes retro video game sprites [pdf]](https://www.unicode.org/charts/PDF/Unicode-16.0/U160-1CC00.pdf)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-- [CrowdStrike ex-employees: &#39;Quality control was not part of our process&#39;](https://www.semafor.com/article/09/12/2024/ex-crowdstrike-employees-detail-rising-technical-errors-before-july-outage)
-- [Janet Jackson had the power to crash laptop computers &lpar;2022&rpar;](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
+- [OpenAI&#39;s $150B valuation hinges on upending corporate structure, sources](https://www.reuters.com/technology/artificial-intelligence/openais-stunning-150-billion-valuation-hinges-upending-corporate-structure-2024-09-14/)
+- [18,000 Miles Later, an American Woman Has Cycled the World](https://www.nytimes.com/2024/09/12/sports/cycling/bicycle-around-the-world-record.html)
+- [Starliner astronaut: We found things that we just could not get comfortable with](https://www.cnn.com/2024/09/13/science/boeing-starliner-astronauts-suni-williams-butch-wilmore/index.html)
+- [Stolen iPhones Will Be Even More Useless from iOS 18 Onwards](https://www.macobserver.com/ios/stolen-iphones-will-be-even-more-useless-from-ios-18-onwards/)
+- [Intel Solidifies $3.5B Deal to Make Chips for Military](https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military)
 <!-- BLOG-POST-LIST:END -->
 
 ---
