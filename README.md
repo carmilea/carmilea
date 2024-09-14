@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [They don&#39;t make readers like they used to](https://www.antipope.org/charlie/blog-static/2024/08/they-dont-make-readers-like-th.html)
+- [Valkey achieved one million RPS 6 months after forking from Redis](https://valkey.io/blog/unlock-one-million-rps-part2/)
+- [The Department of Everything – Dispatches from the telephone reference desk](https://hedgehogreview.com/issues/the-varieties-of-travel-experience/articles/the-department-of-everything)
 - [Icon &lpar;real creators, AI ads&rpar; is hiring founding engineers &lpar;NYC&rpar;](https://icon.me/careers)
 - [The data on extreme human ageing is rotten from the inside out](https://theconversation.com/the-data-on-extreme-human-ageing-is-rotten-from-the-inside-out-ig-nobel-winner-saul-justin-newman-239023)
-- [Why use metaphors in conflicts? Because understanding is remembering in disguise &lpar;2009&rpar;](https://westallen.typepad.com/brains_on_purpose/2009/06/why-use-metaphors-because-understanding-is-remembering-in-disguise.html)
-- [Billiards is a good game &lpar;1975&rpar;](https://mag.uchicago.edu/billiards)
-- [Void captures over a million Android TV boxes](https://news.drweb.com/show/?i=14900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
