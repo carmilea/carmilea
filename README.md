@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iPhone 16 Pro lets users capture ProRAW photos in JPEG-XL format](https://9to5mac.com/2024/09/13/iphone-16-pro-lets-users-capture-proraw-photos-in-jpeg-xl-format/)
-- [Who is responsible for the greatest change to our language? Teenage girls](https://www.abc.net.au/news/2024-08-04/teenage-girls-linguistics/104160082)
+- [Tiny Great Languages: Forth/Mouse](https://zserge.com/posts/langs-mouse/)
+- [Sunamp&#39;s thermal battery uses a chemical found in salt-and-vinegar potato chips](https://techcrunch.com/2024/09/08/sunamps-thermal-battery-uses-a-chemical-found-in-salt-and-vinegar-potato-chips/)
+- [Why use metaphors in conflicts? Because understanding is remembering in disguise &lpar;2009&rpar;](https://westallen.typepad.com/brains_on_purpose/2009/06/why-use-metaphors-because-understanding-is-remembering-in-disguise.html)
 - [Billiards is a good game &lpar;1975&rpar;](https://mag.uchicago.edu/billiards)
 - [Void captures over a million Android TV boxes](https://news.drweb.com/show/?i=14900)
-- [18,000 Miles Later, an American Woman Has Cycled the World](https://www.nytimes.com/2024/09/12/sports/cycling/bicycle-around-the-world-record.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
