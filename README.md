@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Mission Gets Its First Snapshot of Polar Heat Emissions](https://www.jpl.nasa.gov/news/nasa-mission-gets-its-first-snapshot-of-polar-heat-emissions)
-- [Compression Dictionary Transport](https://datatracker.ietf.org/doc/draft-ietf-httpbis-compression-dictionary/)
-- [Declarative Programming with AI/LLMs](https://blog.codesolvent.com/2024/09/declarative-programming-with-aillms.html)
-- [Randomness extractors: making fair coins out of biased coins](https://bytepawn.com/randomness-extractors-making-fair-coins-out-of-biased-coins.html)
-- [The Death of the Magazine](https://www.honest-broker.com/p/the-death-of-the-magazine)
+- [U.S. fleet welcomes newest USS New Jersey, the first gender-neutral submarine](https://www.northjersey.com/story/news/2024/09/14/uss-new-jersey-the-first-gender-neutral-submarine-joins-u-s-fleet/75210209007/)
+- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- [Human drivers keep rear-ending Waymos](https://arstechnica.com/cars/2024/09/human-drivers-are-to-blame-for-most-serious-waymo-collisions/)
+- [Linux 6.11 Released](https://lwn.net/Articles/990307/)
+- [Our New Religion Isn&#39;t Enough](https://www.freyaindia.co.uk/p/our-new-religion-isnt-enough)
 <!-- BLOG-POST-LIST:END -->
 
 ---
