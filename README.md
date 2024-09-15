@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A &lpar;More&rpar; Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
-- [Terence Tao: creative strategies, this aspect of LLM tools is still weak](https://mathstodon.xyz/@tao/113142753409304792)
-- [Turning Disposable Vapes into a Fast Charge Power Bank](https://www.youtube.com/watch?v=ehp23hrrEHY)
-- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- [How to Make Millions as a Professional Whistleblower](https://www.gq.com/story/how-to-make-millions-as-a-professional-whistleblower)
+- [How to Succeed in Mrbeast Production &lpar;Leaked PDF&rpar;](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
+- [A More Modern CSS Reset &lpar;2019&rpar;](https://piccalil.li/blog/a-more-modern-css-reset/)
+- [How Foundries Calculate Die Yield](https://www.viksnewsletter.com/p/how-foundries-calculate-die-yield)
+- [Show HN: Subdomain Enumeration CLI](https://github.com/Barre/merklemap-cli)
+- [Data Engineering Vault: A 1000 Node Second Brain for DE Knowledge](https://www.ssp.sh/brain/data-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
