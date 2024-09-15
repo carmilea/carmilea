@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Playstation 5 Pro Shows the Futility of the Video-Game Graphics Race](https://www.bloomberg.com/news/newsletters/2024-09-13/playstation-5-pro-shows-futility-of-video-game-graphics-race)
+- [A &lpar;More&rpar; Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
 - [Terence Tao: creative strategies, this aspect of LLM tools is still weak](https://mathstodon.xyz/@tao/113142753409304792)
 - [Turning Disposable Vapes into a Fast Charge Power Bank](https://www.youtube.com/watch?v=ehp23hrrEHY)
 - [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
