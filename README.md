@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CSCI 181G PO: Game Engine Programming](https://cs.pomona.edu/classes/cs181g/)
 - [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
-- [Earth to have new mini-moon for two months](https://phys.org/news/2024-09-earth-mini-moon-months.html)
 - [Twelve Sentenced for Violent Home Invasion Robberies to Steal Cryptocurrency](https://www.justice.gov/opa/pr/twelve-defendants-sentenced-violent-home-invasion-robberies-steal-cryptocurrency)
+- [Why Scrum Is Stressing You Out](https://rethinkingsoftware.substack.com/p/why-scrum-is-stressing-you-out)
 - [OpenSCAD: The Programmer&#39;s Solid 3D CAD Modeller](https://openscad.org/)
-- [To forget is an ethical act](https://emilygorcenski.com/post/to-forget-is-an-ethical-act/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
