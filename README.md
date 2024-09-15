@@ -62,7 +62,7 @@
 - [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 - [Twelve Sentenced for Violent Home Invasion Robberies to Steal Cryptocurrency](https://www.justice.gov/opa/pr/twelve-defendants-sentenced-violent-home-invasion-robberies-steal-cryptocurrency)
 - [Why Scrum Is Stressing You Out](https://rethinkingsoftware.substack.com/p/why-scrum-is-stressing-you-out)
-- [OpenSCAD: The Programmer&#39;s Solid 3D CAD Modeller](https://openscad.org/)
+- [Show HN: I made a digital circuit drawing and simulation game](https://github.com/lets-all-be-stupid-forever/circuit-artist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
