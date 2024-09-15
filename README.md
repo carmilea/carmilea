@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky Reaches 10M Accounts](https://bsky.app/profile/bsky.app/post/3l47prg3wgy23)
+- [Linux dev swatted and handcuffed live during a development video stream](https://www.tomshardware.com/software/linux/linux-dev-swatted-live-during-a-development-video-stream)
+- [How to Lead Your Team When the House Is on Fire](https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/)
 - [How to Succeed in Mrbeast Production &lpar;Leaked PDF&rpar;](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
 - [A More Modern CSS Reset &lpar;2019&rpar;](https://piccalil.li/blog/a-more-modern-css-reset/)
-- [How Foundries Calculate Die Yield](https://www.viksnewsletter.com/p/how-foundries-calculate-die-yield)
-- [Show HN: Subdomain Enumeration CLI](https://github.com/Barre/merklemap-cli)
-- [Data Engineering Vault: A 1000 Node Second Brain for DE Knowledge](https://www.ssp.sh/brain/data-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
