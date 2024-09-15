@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dropped Cheetos Could Have Triggered Ecosystem Chaos in Largest US Cave Chamber](https://www.iflscience.com/dropped-cheetos-could-have-triggered-ecosystem-chaos-in-largest-us-cave-chamber-75874)
 - [CCI Finds Samsung, Xiaomi Colluding with Amazon, Flipkart: Report](https://www.business-standard.com/india-news/cci-finds-samsung-xiaomi-colluding-with-amazon-flipkart-report-124091400401_1.html)
-- [Free Starlink Internet is coming to all of United&#39;s airplanes](https://arstechnica.com/information-technology/2024/09/free-starlink-internet-is-coming-to-all-of-uniteds-airplanes/)
+- [Powerful, Open-Source, Programmatic CAD](https://www.implicitcad.org/)
 - [A Time Consuming Pitfall for 32-Bit Applications on AArch64](https://sigma-star.at/blog/2024/02/aarch64-32-bit-compat-pitfall/)
 - [Show HN: Wordllama – Things you can do with the token embeddings of an LLM](https://github.com/dleemiller/WordLlama)
-- [CSCI 181G PO: Game Engine Programming](https://cs.pomona.edu/classes/cs181g/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
