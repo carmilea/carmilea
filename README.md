@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
+- [Earth to have new mini-moon for two months](https://phys.org/news/2024-09-earth-mini-moon-months.html)
+- [Twelve Sentenced for Violent Home Invasion Robberies to Steal Cryptocurrency](https://www.justice.gov/opa/pr/twelve-defendants-sentenced-violent-home-invasion-robberies-steal-cryptocurrency)
 - [OpenSCAD: The Programmer&#39;s Solid 3D CAD Modeller](https://openscad.org/)
-- [A cartoon butt clenching a bar of soap has invaded my online ads](https://arstechnica.com/culture/2024/09/a-cartoon-butt-clenching-a-bar-of-soap-has-invaded-my-online-ads/)
-- [1.3M Android-Based TV Boxes Backdoored; Researchers Still Don&#39;t Know How](https://arstechnica.com/security/2024/09/researchers-still-dont-know-how-1-3-million-android-streaming-boxes-were-backdoored/)
 - [To forget is an ethical act](https://emilygorcenski.com/post/to-forget-is-an-ethical-act/)
-- [Hadrius &lpar;YC W23&rpar; Is Hiring New Grads Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/4E0eW8N-customer-success-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
