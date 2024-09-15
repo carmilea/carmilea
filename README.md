@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: DanBC has died](https://news.ycombinator.com/item?id=41550822)
+- [Paraguay Loves Mickey, the Cartoon Mouse. Disney Doesn&#39;t](https://www.nytimes.com/2024/09/14/world/americas/paraguay-mickey-mouse-disney.html)
+- [g1: Using Llama-3.1 70B on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
+- [CSSnano](https://cssnano.github.io/cssnano/)
 - [Bluesky Reaches 10M Accounts](https://bsky.app/profile/bsky.app/post/3l47prg3wgy23)
-- [Linux dev swatted and handcuffed live during a development video stream](https://www.tomshardware.com/software/linux/linux-dev-swatted-live-during-a-development-video-stream)
-- [How to Lead Your Team When the House Is on Fire](https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/)
-- [How to Succeed in Mrbeast Production &lpar;Leaked PDF&rpar;](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
-- [A More Modern CSS Reset &lpar;2019&rpar;](https://piccalil.li/blog/a-more-modern-css-reset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
