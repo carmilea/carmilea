@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Has Officially Killed Cache Links](https://gizmodo.com/google-has-officially-killed-cache-links-1851220408)
+- [Ask HN: Must-Read Books for Startups?](https://news.ycombinator.com/item?id=41545633)
 - [Dropped Cheetos Could Have Triggered Ecosystem Chaos in Largest US Cave Chamber](https://www.iflscience.com/dropped-cheetos-could-have-triggered-ecosystem-chaos-in-largest-us-cave-chamber-75874)
-- [CCI Finds Samsung, Xiaomi Colluding with Amazon, Flipkart: Report](https://www.business-standard.com/india-news/cci-finds-samsung-xiaomi-colluding-with-amazon-flipkart-report-124091400401_1.html)
-- [Powerful, Open-Source, Programmatic CAD](https://www.implicitcad.org/)
-- [A Time Consuming Pitfall for 32-Bit Applications on AArch64](https://sigma-star.at/blog/2024/02/aarch64-32-bit-compat-pitfall/)
-- [Show HN: Wordllama – Things you can do with the token embeddings of an LLM](https://github.com/dleemiller/WordLlama)
+- [Optimizing your career for happiness](https://praachi.work/blog/optimize-career-happiness)
+- [Show HN: I made a game testing your prompting skills](https://app4.hc11.org/49499641/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
