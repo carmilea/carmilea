@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Carma &lpar;YC W24&rpar; Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41546954)
 - [European Consumer Organization goes after publishers for their in-game currency](https://www.gamingonlinux.com/2024/09/european-consumer-organization-goes-after-multiple-publishers-for-their-in-game-currency/)
 - [Mastering Null Semantics: Translating SQL Expressions to OpenSearch DSL](https://coralogix.com/blog/mastering-null-semantics-translating-sql-expressions-to-opensearch-dsl/)
 - [AT&amp;T&#39;s Hobbit Microprocessor &lpar;2023&rpar;](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
-- [Google Has Officially Killed Cache Links](https://gizmodo.com/google-has-officially-killed-cache-links-1851220408)
-- [Ask HN: Must-Read Books for Startups?](https://news.ycombinator.com/item?id=41545633)
+- [i3wm inspired wm for Windows](https://github.com/glzr-io/glazewm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
