@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CCI Finds Samsung, Xiaomi Colluding with Amazon, Flipkart: Report](https://www.business-standard.com/india-news/cci-finds-samsung-xiaomi-colluding-with-amazon-flipkart-report-124091400401_1.html)
 - [Free Starlink Internet is coming to all of United&#39;s airplanes](https://arstechnica.com/information-technology/2024/09/free-starlink-internet-is-coming-to-all-of-uniteds-airplanes/)
 - [A Time Consuming Pitfall for 32-Bit Applications on AArch64](https://sigma-star.at/blog/2024/02/aarch64-32-bit-compat-pitfall/)
 - [Show HN: Wordllama – Things you can do with the token embeddings of an LLM](https://github.com/dleemiller/WordLlama)
 - [CSCI 181G PO: Game Engine Programming](https://cs.pomona.edu/classes/cs181g/)
-- [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
