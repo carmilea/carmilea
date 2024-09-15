@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. fleet welcomes newest USS New Jersey, the first gender-neutral submarine](https://www.northjersey.com/story/news/2024/09/14/uss-new-jersey-the-first-gender-neutral-submarine-joins-u-s-fleet/75210209007/)
+- [Playstation 5 Pro Shows the Futility of the Video-Game Graphics Race](https://www.bloomberg.com/news/newsletters/2024-09-13/playstation-5-pro-shows-futility-of-video-game-graphics-race)
+- [Terence Tao: creative strategies, this aspect of LLM tools is still weak](https://mathstodon.xyz/@tao/113142753409304792)
+- [Turning Disposable Vapes into a Fast Charge Power Bank](https://www.youtube.com/watch?v=ehp23hrrEHY)
 - [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- [Human drivers keep rear-ending Waymos](https://arstechnica.com/cars/2024/09/human-drivers-are-to-blame-for-most-serious-waymo-collisions/)
-- [Linux 6.11 Released](https://lwn.net/Articles/990307/)
-- [Our New Religion Isn&#39;t Enough](https://www.freyaindia.co.uk/p/our-new-religion-isnt-enough)
+- [How to Make Millions as a Professional Whistleblower](https://www.gq.com/story/how-to-make-millions-as-a-professional-whistleblower)
 <!-- BLOG-POST-LIST:END -->
 
 ---
