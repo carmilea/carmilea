@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tell HN: DanBC has died](https://news.ycombinator.com/item?id=41550822)
+- [Plain Text Accounting &lpar;PTA&rpar;](https://plaintextaccounting.org/)
 - [Paraguay Loves Mickey, the Cartoon Mouse. Disney Doesn&#39;t](https://www.nytimes.com/2024/09/14/world/americas/paraguay-mickey-mouse-disney.html)
 - [g1: Using Llama-3.1 70B on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
 - [CSSnano](https://cssnano.github.io/cssnano/)
-- [Bluesky Reaches 10M Accounts](https://bsky.app/profile/bsky.app/post/3l47prg3wgy23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
