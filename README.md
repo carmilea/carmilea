@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Death of the Magazine](https://www.honest-broker.com/p/the-death-of-the-magazine)
+- [US House votes to bar new DJI drones](https://www.reuters.com/world/us/us-house-votes-bar-new-drones-chinese-manufacturer-dji-2024-09-09/)
 - [Logbookd – SQLite Backed Syslogd](https://git.sr.ht/~martijnbraam/logbookd)
 - [Carma &lpar;YC W24&rpar; Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41546954)
 - [Mastering Null Semantics: Translating SQL Expressions to OpenSearch DSL](https://coralogix.com/blog/mastering-null-semantics-translating-sql-expressions-to-opensearch-dsl/)
-- [AT&amp;T&#39;s Hobbit Microprocessor &lpar;2023&rpar;](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
-- [i3wm inspired wm for Windows](https://github.com/glzr-io/glazewm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
