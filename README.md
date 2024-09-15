@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Starlink Internet is coming to all of United&#39;s airplanes](https://arstechnica.com/information-technology/2024/09/free-starlink-internet-is-coming-to-all-of-uniteds-airplanes/)
+- [A Time Consuming Pitfall for 32-Bit Applications on AArch64](https://sigma-star.at/blog/2024/02/aarch64-32-bit-compat-pitfall/)
+- [Show HN: Wordllama – Things you can do with the token embeddings of an LLM](https://github.com/dleemiller/WordLlama)
 - [CSCI 181G PO: Game Engine Programming](https://cs.pomona.edu/classes/cs181g/)
 - [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
-- [Twelve Sentenced for Violent Home Invasion Robberies to Steal Cryptocurrency](https://www.justice.gov/opa/pr/twelve-defendants-sentenced-violent-home-invasion-robberies-steal-cryptocurrency)
-- [Why Scrum Is Stressing You Out](https://rethinkingsoftware.substack.com/p/why-scrum-is-stressing-you-out)
-- [Show HN: I made a digital circuit drawing and simulation game](https://github.com/lets-all-be-stupid-forever/circuit-artist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
