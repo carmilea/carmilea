@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Diesel shop fined $10M for making and selling Emissions Defeat Devices](https://www.thedrive.com/news/feds-nail-another-diesel-shop-with-10m-in-fines-for-deleting-emissions-equipment)
+- [How Chainalysis Made Their Way into Popular Monero Wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
+- [Sucks.. In a Good Way](https://atomic14.substack.com/p/this-really-sucks-in-a-good-way)
 - [Data center emissions probably 662% higher than big tech claims](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech)
 - [Satellite Imagery of Every Outdoor Basketball Court in the USA](https://pudding.cool/2024/09/courts/)
 - [18 Months with a Framework 13](https://www.projectgus.com/2024/09/18-months-with-framework-laptop/)
-- [LinkedIn blocked due Meshtastic video in private chat](https://github.com/resiliencetheatre/rpi4edgemapdisplay/discussions/4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
