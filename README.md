@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Tells Workers to Return to Office Five Days a Week](https://www.wsj.com/business/amazon-tells-workers-to-return-to-office-five-days-a-week-42a32ec8)
-- [Interview with Inventor of Neural Nets Warren McCulloch &lpar;&rpar; [video]](https://www.youtube.com/watch?v=wawMjJUCMVw)
+- [Amazon mandates five days a week in office starting next year](https://www.theguardian.com/technology/2024/sep/16/amazon-in-person-office-policy)
+- [Thoughts and Observations in the Wake of Apple&#39;s &#39;It&#39;s Glowtime&#39; Keynote](https://daringfireball.net/2024/09/thoughts_and_observations_in_the_wake_of_apples_its_glowtime_keynote)
+- [macOS Sequoia is available today](https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today/)
+- [How to Make HTTPS Verifiable](https://blog.reclaimprotocol.org/posts/open-source-reclaim)
 - [TouchArcade Is Shutting Down](https://toucharcade.com/2024/09/16/toucharcade-is-shutting-down/)
-- [Do Not Sign the Qt License Agreement Unchanged](https://burkhardstubert.substack.com/p/do-not-sign-the-qt-license-agreement)
-- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41558114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
