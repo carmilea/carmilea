@@ -61,8 +61,8 @@
 - [Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]](https://eprint.iacr.org/2024/1421.pdf)
 - [Intel lost the Sony Playstation business to AMD](https://www.reuters.com/technology/how-intel-lost-sony-playstation-business-2024-09-16/)
 - [Rearchitecting Core Services at X](https://twitter.com/cambridgemike/status/1835774409786986572)
-- [The Subprime AI Crisis](https://www.wheresyoured.at/subprimeai/)
 - [K340A: The Brain Computer of Chernobyl Duga Radar [video]](https://www.youtube.com/watch?v=kHiCHRB-RlA)
+- [Show HN: Microtonal Piano](https://osolmaz.github.io/microtonal-piano/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
