@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41558114)
-- [Apple Watch sleep apnea detection gets FDA approval](https://techcrunch.com/2024/09/16/apple-watch-sleep-apnea-detection-gets-fda-approval/)
-- [Oracle, it&#39;s time to free JavaScript](https://javascript.tm/)
-- [Datomic and Content Addressable Techniques](https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/)
-- [“Golden Lettuce” is genetically engineered to have higher beta-carotene levels](https://newatlas.com/health-wellbeing/golden-lettuce-genetically-engineered-30-times-vitamins/)
+- [NixOS Server Up in Minutes](https://gvolpe.com/blog/nixos-server/)
+- [TouchArcade Is Shutting Down](https://toucharcade.com/2024/09/16/toucharcade-is-shutting-down/)
+- [Do Not Sign the Qt License Agreement Unchanged](https://burkhardstubert.substack.com/p/do-not-sign-the-qt-license-agreement)
+- [Is &#39;Monolith First&#39; the Better Approach?](https://martinfowler.com/bliki/MonolithFirst.html)
+- [Words on Founder Mode](https://randsinrepose.com/archives/words-on-founder-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
