@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux market share approaching 4.5% for first time, could hit 5% by 1Q25](https://www.tomshardware.com/software/linux/linux-market-share-approaching-45-for-first-time-could-hit-5-by-1q25)
 - [LinkedIn blocked due Meshtastic video in private chat](https://github.com/resiliencetheatre/rpi4edgemapdisplay/discussions/4)
 - [What Firefox trains are we in?](https://whattrainisitnow.com/)
 - [Nothing: Simply Do Nothing](https://usenothing.com/)
 - [Tell HN: DanBC has died](https://news.ycombinator.com/item?id=41550822)
-- [Plain Text Accounting &lpar;PTA&rpar;](https://plaintextaccounting.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
