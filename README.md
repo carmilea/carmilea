@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Silurian &lpar;YC S24&rpar; – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
+- [Earth may have had a ring system 466 million years ago](https://www.monash.edu/science/news-events/news/current/earth-may-have-had-a-ring-system-466-million-years-ago)
 - [Show HN: Sisi – Semantic Image Search CLI tool, locally without third party APIs](https://github.com/frost-beta/sisi)
 - [Show HN: JAQT – JavaScript Queries and Transformations](https://github.com/muze-nl/jaqt)
 - [Attacking PowerShell Clixml Deserialization](https://www.truesec.com/hub/blog/attacking-powershell-clixml-deserialization)
-- [The HTTP Query Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
-- [Nothing: Simply Do Nothing](https://usenothing.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
