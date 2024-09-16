@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn blocked due Meshtastic video in private chat](https://github.com/resiliencetheatre/rpi4edgemapdisplay/discussions/4)
+- [What Firefox trains are we in?](https://whattrainisitnow.com/)
+- [Nothing: Simply Do Nothing](https://usenothing.com/)
 - [Tell HN: DanBC has died](https://news.ycombinator.com/item?id=41550822)
 - [Plain Text Accounting &lpar;PTA&rpar;](https://plaintextaccounting.org/)
-- [Paraguay Loves Mickey, the Cartoon Mouse. Disney Doesn&#39;t](https://www.nytimes.com/2024/09/14/world/americas/paraguay-mickey-mouse-disney.html)
-- [g1: Using Llama-3.1 70B on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
-- [CSSnano](https://cssnano.github.io/cssnano/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
