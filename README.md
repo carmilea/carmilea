@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Sisi – Semantic Image Search CLI tool, locally without third party APIs](https://github.com/frost-beta/sisi)
 - [Show HN: JAQT – JavaScript Queries and Transformations](https://github.com/muze-nl/jaqt)
+- [Attacking PowerShell Clixml Deserialization](https://www.truesec.com/hub/blog/attacking-powershell-clixml-deserialization)
 - [How Chainalysis  made their way into popular Monero wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
 - [Nothing: Simply Do Nothing](https://usenothing.com/)
-- [Tell HN: DanBC has died](https://news.ycombinator.com/item?id=41550822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
