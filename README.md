@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41558114)
+- [Apple Watch sleep apnea detection gets FDA approval](https://techcrunch.com/2024/09/16/apple-watch-sleep-apnea-detection-gets-fda-approval/)
 - [Oracle, it&#39;s time to free JavaScript](https://javascript.tm/)
 - [Datomic and Content Addressable Techniques](https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/)
 - [“Golden Lettuce” is genetically engineered to have higher beta-carotene levels](https://newatlas.com/health-wellbeing/golden-lettuce-genetically-engineered-30-times-vitamins/)
-- [Launch HN: Silurian &lpar;YC S24&rpar; – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
-- [Using Docker Compose for Change Data Capture &lpar;CDC&rpar; with Kafka and Debezium from SingleStore](https://www.singlestore.com/blog/docker-compose-for-change-data-capture-cdc-with-kafka-debezium-singlestore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
