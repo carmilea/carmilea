@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Chainalysis Made Their Way into Popular Monero Wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
-- [Diesel shop fined $10M for making and selling Emissions Defeat Devices](https://www.thedrive.com/news/feds-nail-another-diesel-shop-with-10m-in-fines-for-deleting-emissions-equipment)
-- [Satellite Imagery of Every Outdoor Basketball Court in the USA](https://pudding.cool/2024/09/courts/)
-- [What Firefox trains are we in?](https://whattrainisitnow.com/)
+- [Show HN: Sisi – Semantic Image Search CLI tool, locally without third party APIs](https://github.com/frost-beta/sisi)
+- [Show HN: JAQT – JavaScript Queries and Transformations](https://github.com/muze-nl/jaqt)
+- [How Chainalysis  made their way into popular Monero wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
 - [Nothing: Simply Do Nothing](https://usenothing.com/)
+- [Tell HN: DanBC has died](https://news.ycombinator.com/item?id=41550822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
