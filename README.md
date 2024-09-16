@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle, it&#39;s time to free JavaScript](https://javascript.tm/)
+- [Datomic and Content Addressable Techniques](https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/)
+- [“Golden Lettuce” is genetically engineered to have higher beta-carotene levels](https://newatlas.com/health-wellbeing/golden-lettuce-genetically-engineered-30-times-vitamins/)
 - [Launch HN: Silurian &lpar;YC S24&rpar; – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
-- [Earth may have had a ring system 466 million years ago](https://www.monash.edu/science/news-events/news/current/earth-may-have-had-a-ring-system-466-million-years-ago)
-- [Show HN: Sisi – Semantic Image Search CLI tool, locally without third party APIs](https://github.com/frost-beta/sisi)
-- [Show HN: JAQT – JavaScript Queries and Transformations](https://github.com/muze-nl/jaqt)
-- [Attacking PowerShell Clixml Deserialization](https://www.truesec.com/hub/blog/attacking-powershell-clixml-deserialization)
+- [Using Docker Compose for Change Data Capture &lpar;CDC&rpar; with Kafka and Debezium from SingleStore](https://www.singlestore.com/blog/docker-compose-for-change-data-capture-cdc-with-kafka-debezium-singlestore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
