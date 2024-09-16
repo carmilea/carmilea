@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NixOS Server Up in Minutes](https://gvolpe.com/blog/nixos-server/)
+- [Amazon Tells Workers to Return to Office Five Days a Week](https://www.wsj.com/business/amazon-tells-workers-to-return-to-office-five-days-a-week-42a32ec8)
+- [Interview with Inventor of Neural Nets Warren McCulloch &lpar;&rpar; [video]](https://www.youtube.com/watch?v=wawMjJUCMVw)
 - [TouchArcade Is Shutting Down](https://toucharcade.com/2024/09/16/toucharcade-is-shutting-down/)
 - [Do Not Sign the Qt License Agreement Unchanged](https://burkhardstubert.substack.com/p/do-not-sign-the-qt-license-agreement)
-- [Is &#39;Monolith First&#39; the Better Approach?](https://martinfowler.com/bliki/MonolithFirst.html)
-- [Words on Founder Mode](https://randsinrepose.com/archives/words-on-founder-mode/)
+- [GoGoGrandparent &lpar;YC S16&rpar; Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=41558114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
