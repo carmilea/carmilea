@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Diesel shop fined $10M for making and selling Emissions Defeat Devices](https://www.thedrive.com/news/feds-nail-another-diesel-shop-with-10m-in-fines-for-deleting-emissions-equipment)
 - [Data center emissions probably 662% higher than big tech claims](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech)
 - [Satellite Imagery of Every Outdoor Basketball Court in the USA](https://pudding.cool/2024/09/courts/)
 - [New tech can make air-conditioning less harmful to the planet](https://www.economist.com/science-and-technology/2024/09/04/new-tech-can-make-air-conditioning-less-harmful-to-the-planet)
 - [LinkedIn blocked due Meshtastic video in private chat](https://github.com/resiliencetheatre/rpi4edgemapdisplay/discussions/4)
-- [What Firefox trains are we in?](https://whattrainisitnow.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
