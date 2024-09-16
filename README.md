@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon mandates five days a week in office starting next year](https://www.theguardian.com/technology/2024/sep/16/amazon-in-person-office-policy)
-- [Thoughts and Observations in the Wake of Apple&#39;s &#39;It&#39;s Glowtime&#39; Keynote](https://daringfireball.net/2024/09/thoughts_and_observations_in_the_wake_of_apples_its_glowtime_keynote)
-- [macOS Sequoia is available today](https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today/)
-- [How to Make HTTPS Verifiable](https://blog.reclaimprotocol.org/posts/open-source-reclaim)
-- [TouchArcade Is Shutting Down](https://toucharcade.com/2024/09/16/toucharcade-is-shutting-down/)
+- [Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]](https://eprint.iacr.org/2024/1421.pdf)
+- [Intel lost the Sony Playstation business to AMD](https://www.reuters.com/technology/how-intel-lost-sony-playstation-business-2024-09-16/)
+- [Rearchitecting Core Services at X](https://twitter.com/cambridgemike/status/1835774409786986572)
+- [The Subprime AI Crisis](https://www.wheresyoured.at/subprimeai/)
+- [K340A: The Brain Computer of Chernobyl Duga Radar [video]](https://www.youtube.com/watch?v=kHiCHRB-RlA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
