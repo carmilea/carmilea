@@ -61,7 +61,7 @@
 - [Show HN: Sisi – Semantic Image Search CLI tool, locally without third party APIs](https://github.com/frost-beta/sisi)
 - [Show HN: JAQT – JavaScript Queries and Transformations](https://github.com/muze-nl/jaqt)
 - [Attacking PowerShell Clixml Deserialization](https://www.truesec.com/hub/blog/attacking-powershell-clixml-deserialization)
-- [How Chainalysis  made their way into popular Monero wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
+- [The HTTP Query Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
 - [Nothing: Simply Do Nothing](https://usenothing.com/)
 <!-- BLOG-POST-LIST:END -->
 
