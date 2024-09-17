@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Network Issues Affecting Service Reachability](https://www.cloudflarestatus.com/incidents/jnj1y9f5c1r8)
-- [Leaked internal documents from a Kremlin-controlled propaganda center](https://vsquare.org/leaked-files-putin-troll-factory-russia-european-elections-factory-of-fakes/)
-- [GraalPy – A high-performance embeddable Python 3 runtime for Java](https://www.graalvm.org/python/)
-- [Show HN: Open Scanner, an open-source document scanning app for iPhone](https://github.com/pencilresearch/OpenScanner)
-- [WonderWorld: Interactive 3D Scene Generation from a Single Image](https://kovenyu.com/wonderworld/)
+- [macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
+- [TexTube: Chat with any YouTube video transcript in ChatGPT fast](https://chatgpt.com/g/g-2KencLm4f-textube)
+- [Swift 6](https://www.swift.org/blog/announcing-swift-6/)
+- [Knocking out one key gene leads to autistic traits](https://www.rockefeller.edu/news/36246-knocking-out-one-key-gene-leads-to-autistic-traits/)
+- [Krazam: High Agency Individual Contributor [video]](https://www.youtube.com/watch?v=dLTUqPue9sQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
