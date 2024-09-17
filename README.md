@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zep AI &lpar;YC W24&rpar; Is Hiring Standout AI Engineers](https://www.ycombinator.com/companies/zep-ai/jobs/llCvskY-ai-engineer)
+- [Show HN: Will I run Boston 2025?](https://getfast.ai/boston2025/)
 - [Tcl under fire: report suggests its QLED TVs might not have any quantum dots](https://www.tomsguide.com/tvs/tcl-under-fire-report-suggests-its-qled-tvs-might-not-have-any-quantum-dots)
 - [Old Computing Books](https://www.computinghistory.org.uk/sec/383/Books/)
-- [The Double Irish Dutch Sandwich: End of a Tax Evasion Strategy](https://conversableeconomist.com/2024/09/12/the-double-irish-dutch-sandwich-end-of-a-tax-evasion-strategy/)
-- [macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
-- [TexTube: Chat with any YouTube video transcript in ChatGPT fast](https://chatgpt.com/g/g-2KencLm4f-textube)
+- [A Friendly Introduction to Assembly for High-Level Programmers](https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
