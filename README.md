@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple software leaks new Mac mini with five USB-C ports ahead of rumored event](https://arstechnica.com/gadgets/2024/09/report-big-batch-of-m4-macs-and-cheaper-ipads-on-tap-for-october-apple-event/)
+- [The Centrality of Stupidity in Mathematics](https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/)
+- [Signatures of Gravitational Atoms from Black Hole Mergers](https://physics.aps.org/articles/v17/133)
+- [A Curried Composition Puzzle](https://franklin.dyer.me/post/212)
+- [In 1926, TV Was Mechanical](https://spectrum.ieee.org/first-tv)
 - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
-- [Show HN: Void, an open-source Cursor/GitHub Copilot alternative](https://voideditor.com)
-- [Why to Not Write a Book](https://gwern.net/book-writing)
-- [rainfrog – a database management TUI for Postgres](https://github.com/achristmascarl/rainfrog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
