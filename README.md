@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator is predicated on startups that require low capitalization](https://twitter.com/bradneuberg/status/1835680235049869495)
+- [Omnipresent AI cameras will ensure good behavior, says Larry Ellison](https://arstechnica.com/information-technology/2024/09/omnipresent-ai-cameras-will-ensure-good-behavior-says-larry-ellison/)
+- [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875)
+- [FreeBSD 13.4-Release Announcement](https://www.freebsd.org/releases/13.4R/announce/)
 - [Intel foundry business to make custom chip for Amazon, chipmaker&#39;s shares jump](https://www.reuters.com/technology/intel-aws-expand-strategic-collaboration-chip-manufacturing-2024-09-16/)
-- [Nyxpsi – A Next-Gen Network Protocol for Extreme Packet Loss](https://github.com/nyxpsi/nyxpsi)
-- [Franzelio: Draw Lines. Make Music. Share Your Instrument](https://franzelio.franzai.com/)
-- [Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]](https://eprint.iacr.org/2024/1421.pdf)
-- [Intel lost the Sony Playstation business to AMD](https://www.reuters.com/technology/how-intel-lost-sony-playstation-business-2024-09-16/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
