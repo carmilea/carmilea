@@ -62,7 +62,7 @@
 - [47-year-old Voyager 1 fired up thrusters it hasn&#39;t used in decades](https://www.cnn.com/2024/09/16/science/voyager-1-thruster-issue/index.html)
 - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 - [Show HN: Void, an open-source Cursor/GitHub Copilot alternative](https://voideditor.com)
-- [A lonely man in his 30s found community in an unlikely place: spin class](https://longreads.com/2024/09/05/spin-masculinity-loneliness-friendship/)
+- [Why to Not Write a Book](https://gwern.net/book-writing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
