@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BeOS inspired Haiku R1/beta5 is out](https://www.haiku-os.org/get-haiku/r1beta5)
-- [47-year-old Voyager 1 fired up thrusters it hasn&#39;t used in decades](https://www.cnn.com/2024/09/16/science/voyager-1-thruster-issue/index.html)
+- [Apple software leaks new Mac mini with five USB-C ports ahead of rumored event](https://arstechnica.com/gadgets/2024/09/report-big-batch-of-m4-macs-and-cheaper-ipads-on-tap-for-october-apple-event/)
 - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 - [Show HN: Void, an open-source Cursor/GitHub Copilot alternative](https://voideditor.com)
 - [Why to Not Write a Book](https://gwern.net/book-writing)
+- [rainfrog – a database management TUI for Postgres](https://github.com/achristmascarl/rainfrog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
