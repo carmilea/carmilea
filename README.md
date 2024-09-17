@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Centrality of Stupidity in Mathematics](https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/)
-- [Signatures of Gravitational Atoms from Black Hole Mergers](https://physics.aps.org/articles/v17/133)
-- [A Curried Composition Puzzle](https://franklin.dyer.me/post/212)
-- [In 1926, TV Was Mechanical](https://spectrum.ieee.org/first-tv)
-- [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
+- [Covid-19 may lead to longest period of peacetime excess mortality](https://www.swissre.com/press-release/Covid-19-may-lead-to-longest-period-of-peacetime-excess-mortality-says-new-Swiss-Re-report/eadc133c-01bd-49e8-9f3a-a3025a3380e6)
+- [Java 23 Launch Stream [video]](https://www.youtube.com/watch?v=QG9xKpgwOI4)
+- [Show HN: Finic – Open source platform for building browser automations](https://github.com/finic-ai/finic)
+- [&quot;Four Seconds to Hot Up the Disintegrator, Google Had Told Me It Wasn&#39;t Enough&quot;](https://quoteinvestigator.com/2024/09/16/hot-sf/)
+- [An interactive core memory electronic kit](https://www.core64.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
