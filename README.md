@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Covid-19 may lead to longest period of peacetime excess mortality](https://www.swissre.com/press-release/Covid-19-may-lead-to-longest-period-of-peacetime-excess-mortality-says-new-Swiss-Re-report/eadc133c-01bd-49e8-9f3a-a3025a3380e6)
-- [Java 23 Launch Stream [video]](https://www.youtube.com/watch?v=QG9xKpgwOI4)
-- [Show HN: Finic – Open source platform for building browser automations](https://github.com/finic-ai/finic)
-- [&quot;Four Seconds to Hot Up the Disintegrator, Google Had Told Me It Wasn&#39;t Enough&quot;](https://quoteinvestigator.com/2024/09/16/hot-sf/)
-- [An interactive core memory electronic kit](https://www.core64.io)
+- [Things you should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
+- [Launch HN: Marblism &lpar;YC W24&rpar; – Generate full-stack web apps from a prompt](https://news.ycombinator.com/item?id=41568343)
+- [Taxes on everyday Europeans bring in 13 times more revenue than taxes on wealth](https://www.oxfam.org/en/press-releases/taxes-everyday-europeans-bring-13-times-more-revenue-taxes-wealth)
+- [Why is it so hard to go back to the moon?](https://www.scientificamerican.com/article/why-is-it-so-much-harder-for-nasa-to-send-people-to-the-moon-now-than-it-was-during-the-apollo-era/)
+- [Rio-labs/rio: WebApps in pure Python. No JavaScript, HTML and CSS needed](https://github.com/rio-labs/rio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
