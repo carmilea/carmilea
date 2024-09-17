@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://twitter.com/denny_zhou/status/1835761801453306089)
+- [BeOS inspired Haiku R1/beta5 is out](https://www.haiku-os.org/get-haiku/r1beta5)
 - [47-year-old Voyager 1 fired up thrusters it hasn&#39;t used in decades](https://www.cnn.com/2024/09/16/science/voyager-1-thruster-issue/index.html)
 - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 - [Show HN: Void, an open-source Cursor/GitHub Copilot alternative](https://voideditor.com)
