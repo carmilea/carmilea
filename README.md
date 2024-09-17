@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pixtral 12B](https://mistral.ai/news/pixtral-12b/)
+- [Stuxnet](https://en.wikipedia.org/wiki/Stuxnet)
 - [Show HN: Open Scanner, an open-source document scanning app for iPhone](https://github.com/pencilresearch/OpenScanner)
-- [Things you should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
-- [Launch HN: Marblism &lpar;YC W24&rpar; – Generate full-stack web apps from a prompt](https://news.ycombinator.com/item?id=41568343)
-- [Rio-labs/rio: WebApps in pure Python. No JavaScript, HTML and CSS needed](https://github.com/rio-labs/rio)
+- [WonderWorld: Interactive 3D Scene Generation from a Single Image](https://kovenyu.com/wonderworld/)
+- [Some remarks on the mathematical structure of the multiverse](https://arxiv.org/abs/1602.04247)
+- [We are self-hosting our GPUs](https://www.gumlet.com/blog/time-to-own-gpus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
