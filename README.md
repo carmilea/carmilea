@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram Teen Accounts](https://about.fb.com/news/2024/09/instagram-teen-accounts/)
+- [The Double Irish Dutch Sandwich: End of a Tax Evasion Strategy](https://conversableeconomist.com/2024/09/12/the-double-irish-dutch-sandwich-end-of-a-tax-evasion-strategy/)
 - [macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
 - [TexTube: Chat with any YouTube video transcript in ChatGPT fast](https://chatgpt.com/g/g-2KencLm4f-textube)
 - [Swift 6](https://www.swift.org/blog/announcing-swift-6/)
-- [Knocking out one key gene leads to autistic traits](https://www.rockefeller.edu/news/36246-knocking-out-one-key-gene-leads-to-autistic-traits/)
-- [Krazam: High Agency Individual Contributor [video]](https://www.youtube.com/watch?v=dLTUqPue9sQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
