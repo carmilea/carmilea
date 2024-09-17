@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [LLMs in Fraud Detection: Model Comparisons | SingleStore Webinars](https://www.youtube.com/watch?v=lRRtDrwd2z8)
 - [Intro to Vectors | SingleStore Webinars](https://www.youtube.com/watch?v=8A3nm0lz6tg)
 - [Step by step guide to M/s latency full stack apps on JSON data | SingleStore Webinars](https://www.youtube.com/watch?v=d7_i3v6mHcQ)
 - [How to Talk to SQL Data with Function Calling | SingleStore Webinars](https://www.youtube.com/watch?v=Hw6O76Oq9oQ)
 - [The Trillion Row Cloud DB Speed Test | SingleStore Webinars](https://www.youtube.com/watch?v=bRH6NMz3yiE)
-- [Unpacking Gartner 2024 Data Management Hype Cycle](https://www.youtube.com/watch?v=Kat81T-hVHs)
 <!-- YOUTUBE:END -->
 
 
