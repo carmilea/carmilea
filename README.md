@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Things you should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
 - [Launch HN: Marblism &lpar;YC W24&rpar; – Generate full-stack web apps from a prompt](https://news.ycombinator.com/item?id=41568343)
-- [Taxes on everyday Europeans bring in 13 times more revenue than taxes on wealth](https://www.oxfam.org/en/press-releases/taxes-everyday-europeans-bring-13-times-more-revenue-taxes-wealth)
 - [Why is it so hard to go back to the moon?](https://www.scientificamerican.com/article/why-is-it-so-much-harder-for-nasa-to-send-people-to-the-moon-now-than-it-was-during-the-apollo-era/)
 - [Rio-labs/rio: WebApps in pure Python. No JavaScript, HTML and CSS needed](https://github.com/rio-labs/rio)
+- [Dozens of Hezbollah members said to be seriously injured  as devices explode](https://www.timesofisrael.com/liveblog_entry/dozens-of-hezbollah-members-said-serious-injured-in-beirut-as-devices-explode-in-alleged-israeli-op/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
