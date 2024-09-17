@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A lonely man in his 30s found community in an unlikely place: spin class](https://longreads.com/2024/09/05/spin-masculinity-loneliness-friendship/)
+- [Why to Not Write a Book](https://gwern.net/book-writing)
+- [What are the best options for Amazon SDEs thinking about leaving over RTO policy](https://news.ycombinator.com/item?id=41563621)
 - [Indiana police are seizing FedEx packages containing cash](https://www.indystar.com/story/news/local/2024/08/13/california-jewelry-business-sues-indiana-over-seized-cash-fedex-henry-minh-inc/74788610007/)
 - [The internet is worse than it used to be. How did we get here?](https://theconversation.com/the-internet-is-worse-than-it-used-to-be-how-did-we-get-here-and-can-we-go-back-236513)
-- [The reason why music is getting worse](https://www.openculture.com/2024/09/the-real-reason-why-music-is-getting-worse-rick-beato-explains.html)
-- [Y Combinator is predicated on startups that require low capitalization](https://twitter.com/bradneuberg/status/1835680235049869495)
-- [Titan Submersible Marine Board of Investigation](https://www.news.uscg.mil/News-by-Region/Headquarters/Titan-Submersible/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
