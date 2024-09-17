@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stuxnet](https://en.wikipedia.org/wiki/Stuxnet)
+- [Cloudflare Network Issues Affecting Service Reachability](https://www.cloudflarestatus.com/incidents/jnj1y9f5c1r8)
+- [Leaked internal documents from a Kremlin-controlled propaganda center](https://vsquare.org/leaked-files-putin-troll-factory-russia-european-elections-factory-of-fakes/)
+- [GraalPy – A high-performance embeddable Python 3 runtime for Java](https://www.graalvm.org/python/)
 - [Show HN: Open Scanner, an open-source document scanning app for iPhone](https://github.com/pencilresearch/OpenScanner)
 - [WonderWorld: Interactive 3D Scene Generation from a Single Image](https://kovenyu.com/wonderworld/)
-- [Some remarks on the mathematical structure of the multiverse](https://arxiv.org/abs/1602.04247)
-- [We are self-hosting our GPUs](https://www.gumlet.com/blog/time-to-own-gpus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
