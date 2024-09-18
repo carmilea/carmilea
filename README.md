@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tupperware files for bankruptcy as its colorful containers lose relevance](https://www.reuters.com/business/retail-consumer/tupperware-brands-files-chapter-11-bankruptcy-2024-09-18/)
-- [Papermill: Parameterizing, executing, and analyzing Jupyter Notebooks](https://github.com/nteract/papermill)
-- [AI tool cuts unexpected deaths in hospital by 26%, Canadian study finds](https://www.cbc.ca/news/health/ai-health-care-1.7322671)
-- [Crypto bros wrested Flappy Bird from its creator](https://arstechnica.com/gaming/2024/09/how-crypto-bros-wrested-flappy-bird-from-its-creator/)
-- [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
+- [Scientists discover how many chemicals from food packaging enter our bodies](https://www.washingtonpost.com/climate-environment/2024/09/16/more-than-3000-chemicals-food-packaging-have-infiltrated-our-bodies/)
+- [0day Contest for End-of-Life Devices Announced](https://www.districtcon.org/junkyard)
+- [Amazon ordered a return to the office – but research says they&#39;ll backtrack](https://fortune.com/2024/09/18/amazon-andy-jassy-ordering-full-time-return-to-office-rto-research-backtrack/)
+- [A high-performance, zero-overhead, extensible Python compiler using LLVM](https://github.com/exaloop/codon)
+- [Hezbollah hand-held radios detonate across Lebanon, sources say](https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
