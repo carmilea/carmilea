@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hezbollah hand-held radios detonate across Lebanon, sources say](https://www.cnbc.com/2024/09/18/hezbollah-hand-held-radios-detonate-across-lebanon.html)
-- [Valkey 8.0.0 Is Out](https://github.com/valkey-io/valkey/releases/tag/8.0.0)
-- [Home solar energy systems exploded in several areas of Beirut](https://abcnews.go.com/International/wireStory/lebanons-official-news-agency-reports-home-solar-energy-113809042)
-- [Fine-Tuning LLMs to 1.58bit](https://huggingface.co/blog/1_58_llm_extreme_quantization)
-- [Scientists discover how many chemicals from food packaging enter our bodies](https://www.washingtonpost.com/climate-environment/2024/09/16/more-than-3000-chemicals-food-packaging-have-infiltrated-our-bodies/)
+- [Cuba slashes size of daily bread ration as ingredients run thin](https://www.reuters.com/world/americas/cuba-slashes-size-daily-bread-ration-ingredients-run-thin-2024-09-16/)
+- [GM electric vehicles can now access Tesla Superchargers](https://www.theverge.com/2024/9/18/24247122/gm-ev-tesla-supercharger-access-adapter-price)
+- [Show HN: Selectric – macOS Search for Gmail, Outlook, Drive, Slack](https://selectric.io/)
+- [RabbitMQ 4.0 Released](https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.0.0)
+- [Twitter shut off API access; users volunteering their own data for an open API](https://omarshehata.substack.com/p/twitter-shut-off-api-access-users)
 <!-- BLOG-POST-LIST:END -->
 
 ---
