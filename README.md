@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41585449)
 - [Cloudflare misidentifies Hetzner IPs as being located in Iran](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/8121#note_1237201726)
+- [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 - [LinkedIn is now using everyone&#39;s content to train their AI tool](https://twitter.com/RachelTobac/status/1836471586624540705)
 - [IBM is quietly axing jobs, source says](https://www.theregister.com/2024/09/18/ibm_job_cuts/)
-- [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
