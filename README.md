@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scramble: Open-Source Alternative to Grammarly](https://github.com/zlwaterfield/scramble)
 - [Apple Mobile Processors Are Now Made in America. By TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
 - [Exploring pre-1990 versions of wc&lpar;1&rpar; &lpar;2023&rpar;](https://sigwait.org/~alex/blog/2023/07/10/yqh6fX.html)
 - [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- [Reports of the Death of Dental Cavities Are Greatly Exaggerated](https://www.mcgill.ca/oss/article/medical-critical-thinking-technology/reports-death-dental-cavities-are-greatly-exaggerated)
-- [Show HN: Will I run Boston 2025?](https://getfast.ai/boston2025/)
+- [Rustpad is an efficient and minimal open-source collaborative text editor](https://github.com/ekzhang/rustpad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
