@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Continued Trajectory of Idiocy in the Tech Industry](https://soatok.blog/2024/09/18/the-continued-trajectory-of-idiocy-in-the-tech-industry/)
 - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
-- [U.S. military to apologize to Alaska Natives for 1800s terror campaign](https://www.msn.com/en-us/news/us/us-military-to-apologize-to-alaska-natives-for-1800s-terror-campaign/ar-AA1qLgRG)
-- [A bottle of water per email: the hidden environmental costs of using AI chatbots](https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/)
+- [U.S. overdose deaths plummet, saving thousands of lives](https://www.npr.org/2024/09/18/nx-s1-5107417/overdose-fatal-fentanyl-death-opioid)
 - [Gentle Guide to Self-Hosting](https://knhash.in/gentle-guide-to-self-hosting/)
+- [Scramble: Open-Source Alternative to Grammarly](https://github.com/zlwaterfield/scramble)
 <!-- BLOG-POST-LIST:END -->
 
 ---
