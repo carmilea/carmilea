@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zep AI &lpar;YC W24&rpar; Is Hiring Standout AI Engineers](https://www.ycombinator.com/companies/zep-ai/jobs/llCvskY-ai-engineer)
+- [Intel Processor N95 vs. N97 vs. N100 vs. Core I3-N305 Benchmarks Comparison](https://www.cnx-software.com/2024/05/04/intel-processor-n95-vs-n97-vs-n100-vs-core-i3-n305-benchmarks-comparison/)
+- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+- [Browser-in-Browser](https://browser.rammerhead.org/)
+- [Reports of the Death of Dental Cavities Are Greatly Exaggerated](https://www.mcgill.ca/oss/article/medical-critical-thinking-technology/reports-death-dental-cavities-are-greatly-exaggerated)
 - [Show HN: Will I run Boston 2025?](https://getfast.ai/boston2025/)
-- [Tcl under fire: report suggests its QLED TVs might not have any quantum dots](https://www.tomsguide.com/tvs/tcl-under-fire-report-suggests-its-qled-tvs-might-not-have-any-quantum-dots)
-- [Old Computing Books](https://www.computinghistory.org.uk/sec/383/Books/)
-- [A Friendly Introduction to Assembly for High-Level Programmers](https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
