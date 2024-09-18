@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
+- [Backlash over Amazon&#39;s return to office comes as workers demand higher wages](https://arstechnica.com/tech-policy/2024/09/backlash-over-amazons-return-to-office-comes-as-workers-demand-higher-wages/)
+- [OpenAI Threatening to Ban Users for Asking Strawberry About Its Reasoning](https://futurism.com/the-byte/openai-ban-strawberry-reasoning)
 - [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/)
 - [Meta AI: &quot;The Future of AI Is Open Source and Decentralized&quot;](https://twitter.com/AIatMeta/status/1834633042339741961)
-- [Senate Vote Tomorrow Could Give Helping Hand to Patent Trolls](https://www.eff.org/deeplinks/2024/09/senate-vote-tomorrow-could-give-helping-hand-patent-trolls)
-- [GM electric vehicles can now access Tesla Superchargers](https://www.theverge.com/2024/9/18/24247122/gm-ev-tesla-supercharger-access-adapter-price)
-- [Show HN: Selectric – macOS Search for Gmail, Outlook, Drive, Slack](https://selectric.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
