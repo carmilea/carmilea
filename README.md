@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In unprecedented move, Ohio is funding construction of private religious schools](https://www.propublica.org/article/ohio-taxpayer-money-funding-private-religious-schools)
 - [Scramble: Open-Source Alternative to Grammarly](https://github.com/zlwaterfield/scramble)
+- [Asgard launches world&#39;s first DDR5-9600 DIMMs](https://www.tomshardware.com/pc-components/ram/asgard-launches-worlds-first-ddr5-9600-cudimms-promising-ddr5-10000-modules-are-on-the-way)
 - [Apple Mobile Processors Are Now Made in America. By TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
 - [Exploring pre-1990 versions of wc&lpar;1&rpar; &lpar;2023&rpar;](https://sigwait.org/~alex/blog/2023/07/10/yqh6fX.html)
-- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- [Rustpad is an efficient and minimal open-source collaborative text editor](https://github.com/ekzhang/rustpad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
