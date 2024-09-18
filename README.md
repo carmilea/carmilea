@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel Processor N95 vs. N97 vs. N100 vs. Core I3-N305 Benchmarks Comparison](https://www.cnx-software.com/2024/05/04/intel-processor-n95-vs-n97-vs-n100-vs-core-i3-n305-benchmarks-comparison/)
+- [Apple Mobile Processors Are Now Made in America. By TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
+- [Exploring pre-1990 versions of wc&lpar;1&rpar; &lpar;2023&rpar;](https://sigwait.org/~alex/blog/2023/07/10/yqh6fX.html)
 - [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- [Browser-in-Browser](https://browser.rammerhead.org/)
 - [Reports of the Death of Dental Cavities Are Greatly Exaggerated](https://www.mcgill.ca/oss/article/medical-critical-thinking-technology/reports-death-dental-cavities-are-greatly-exaggerated)
 - [Show HN: Will I run Boston 2025?](https://getfast.ai/boston2025/)
 <!-- BLOG-POST-LIST:END -->
