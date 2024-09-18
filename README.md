@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn is now using everyone&#39;s content to train their AI tool](https://twitter.com/RachelTobac/status/1836471586624540705)
 - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
-- [Backlash over Amazon&#39;s return to office comes as workers demand higher wages](https://arstechnica.com/tech-policy/2024/09/backlash-over-amazons-return-to-office-comes-as-workers-demand-higher-wages/)
+- [iOS 18 breaks IMAPS self-signed certs](https://forums.developer.apple.com/forums/thread/756626)
 - [OpenAI Threatening to Ban Users for Asking Strawberry About Its Reasoning](https://futurism.com/the-byte/openai-ban-strawberry-reasoning)
-- [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/)
-- [Meta AI: &quot;The Future of AI Is Open Source and Decentralized&quot;](https://twitter.com/AIatMeta/status/1834633042339741961)
+- [Show HN: GitNotebooks - Jupyter Notebook Review Tool](https://app.gitnotebooks.com/GitNotebooks/demo/pull/1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
