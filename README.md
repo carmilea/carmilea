@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hezbollah hand-held radios detonate across Lebanon, sources say](https://www.cnbc.com/2024/09/18/hezbollah-hand-held-radios-detonate-across-lebanon.html)
+- [Valkey 8.0.0 Is Out](https://github.com/valkey-io/valkey/releases/tag/8.0.0)
+- [Home solar energy systems exploded in several areas of Beirut](https://abcnews.go.com/International/wireStory/lebanons-official-news-agency-reports-home-solar-energy-113809042)
+- [Fine-Tuning LLMs to 1.58bit](https://huggingface.co/blog/1_58_llm_extreme_quantization)
 - [Scientists discover how many chemicals from food packaging enter our bodies](https://www.washingtonpost.com/climate-environment/2024/09/16/more-than-3000-chemicals-food-packaging-have-infiltrated-our-bodies/)
-- [0day Contest for End-of-Life Devices Announced](https://www.districtcon.org/junkyard)
-- [Amazon ordered a return to the office – but research says they&#39;ll backtrack](https://fortune.com/2024/09/18/amazon-andy-jassy-ordering-full-time-return-to-office-rto-research-backtrack/)
-- [A high-performance, zero-overhead, extensible Python compiler using LLVM](https://github.com/exaloop/codon)
-- [Hezbollah hand-held radios detonate across Lebanon, sources say](https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
