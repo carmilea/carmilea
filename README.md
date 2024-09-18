@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Continued Trajectory of Idiocy in the Tech Industry](https://soatok.blog/2024/09/18/the-continued-trajectory-of-idiocy-in-the-tech-industry/)
+- [Tupperware files for bankruptcy as its colorful containers lose relevance](https://www.reuters.com/business/retail-consumer/tupperware-brands-files-chapter-11-bankruptcy-2024-09-18/)
+- [Papermill: Parameterizing, executing, and analyzing Jupyter Notebooks](https://github.com/nteract/papermill)
+- [AI tool cuts unexpected deaths in hospital by 26%, Canadian study finds](https://www.cbc.ca/news/health/ai-health-care-1.7322671)
+- [Crypto bros wrested Flappy Bird from its creator](https://arstechnica.com/gaming/2024/09/how-crypto-bros-wrested-flappy-bird-from-its-creator/)
 - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
-- [U.S. overdose deaths plummet, saving thousands of lives](https://www.npr.org/2024/09/18/nx-s1-5107417/overdose-fatal-fentanyl-death-opioid)
-- [Gentle Guide to Self-Hosting](https://knhash.in/gentle-guide-to-self-hosting/)
-- [Scramble: Open-Source Alternative to Grammarly](https://github.com/zlwaterfield/scramble)
 <!-- BLOG-POST-LIST:END -->
 
 ---
