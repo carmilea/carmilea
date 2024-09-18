@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tax the Rich – European Citizens&#39; Initiative](https://www.tax-the-rich.eu)
-- [Scramble: Open-Source Alternative to Grammarly](https://github.com/zlwaterfield/scramble)
-- [Asgard launches world&#39;s first DDR5-9600 DIMMs](https://www.tomshardware.com/pc-components/ram/asgard-launches-worlds-first-ddr5-9600-cudimms-promising-ddr5-10000-modules-are-on-the-way)
-- [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
-- [Exploring pre-1990 versions of wc&lpar;1&rpar; &lpar;2023&rpar;](https://sigwait.org/~alex/blog/2023/07/10/yqh6fX.html)
+- [The Continued Trajectory of Idiocy in the Tech Industry](https://soatok.blog/2024/09/18/the-continued-trajectory-of-idiocy-in-the-tech-industry/)
+- [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
+- [U.S. military to apologize to Alaska Natives for 1800s terror campaign](https://www.msn.com/en-us/news/us/us-military-to-apologize-to-alaska-natives-for-1800s-terror-campaign/ar-AA1qLgRG)
+- [A bottle of water per email: the hidden environmental costs of using AI chatbots](https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/)
+- [Gentle Guide to Self-Hosting](https://knhash.in/gentle-guide-to-self-hosting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
