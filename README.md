@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Free AI tailored workout generator](https://www.workoutgenerator.fit)
-- [26-Year-Old EY Employee Succumbs to &#39;Work Stress&#39; Four Months After Joining](https://old.reddit.com/r/CharteredAccountants/comments/1fj08v9/ey_employee_died_of_work_pressure)
+- [Tax the Rich – European Citizens&#39; Initiative](https://www.tax-the-rich.eu)
 - [Scramble: Open-Source Alternative to Grammarly](https://github.com/zlwaterfield/scramble)
 - [Asgard launches world&#39;s first DDR5-9600 DIMMs](https://www.tomshardware.com/pc-components/ram/asgard-launches-worlds-first-ddr5-9600-cudimms-promising-ddr5-10000-modules-are-on-the-way)
 - [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
+- [Exploring pre-1990 versions of wc&lpar;1&rpar; &lpar;2023&rpar;](https://sigwait.org/~alex/blog/2023/07/10/yqh6fX.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
