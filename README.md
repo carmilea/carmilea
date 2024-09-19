@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pediatricians Created the Peanut Allergy Epidemic](https://www.wsj.com/health/how-pediatricians-created-the-peanut-allergy-epidemic-952831c4)
+- [OpenNMS: Visualize and monitor everything on your local and distributed networks](https://www.opennms.com/opennms-feature-list/)
 - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
 - [Three-Dimensional Wave Breaking](https://www.nature.com/articles/s41586-024-07886-z)
 - [Tortured by regrets? A new study details how best to overcome them](https://www.latimes.com/lifestyle/story/2024-09-18/regret-how-to-overcome)
-- [JVM statistics cause garbage collection pauses &lpar;2015&rpar;](https://www.evanjones.ca/jvm-mmap-pause.html)
-- [Quantum researchers cause controlled &#39;wobble&#39; in the nucleus of a single atom](https://www.tudelft.nl/en/2024/tnw/quantum-researchers-cause-controlled-wobble-in-the-nucleus-of-a-single-atom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
