@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finley &lpar;YC W21&rpar; is hiring engineers to build cap markets software &lpar;US Remote&rpar;](https://jobs.lever.co/FinleyTechnologies/2bca72b7-ff5e-4277-bbaf-184138254589)
 - [DirectX Adopting SPIR-V as the Interchange Format of the Future](https://devblogs.microsoft.com/directx/directx-adopting-spir-v/)
 - [Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 - [Real-time Linux is officially part of the kernel](https://arstechnica.com/gadgets/2024/09/real-time-linux-is-officially-part-of-the-kernel-after-decades-of-debate/)
-- [Leonard Cohen: The Anti-Rock Star](https://www.theatlantic.com/magazine/archive/2024/10/christophe-lebold-leonard-cohen-book/679573/)
-- [Aviator &lpar;YC S21&rpar; is hiring engineers to build open source stacked PRs CLI](https://aviator.co/jobs)
+- [Show HN: An Elliptic Curve-Based Secure Chat, Written Using Rust and Protobuf](https://github.com/vaktibabat/ecurvechat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
