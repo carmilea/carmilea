@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DirectX Adopting SPIR-V as the Interchange Format of the Future](https://devblogs.microsoft.com/directx/directx-adopting-spir-v/)
+- [Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
+- [Real-time Linux is officially part of the kernel](https://arstechnica.com/gadgets/2024/09/real-time-linux-is-officially-part-of-the-kernel-after-decades-of-debate/)
 - [Leonard Cohen: The Anti-Rock Star](https://www.theatlantic.com/magazine/archive/2024/10/christophe-lebold-leonard-cohen-book/679573/)
 - [Aviator &lpar;YC S21&rpar; is hiring engineers to build open source stacked PRs CLI](https://aviator.co/jobs)
-- [FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance)
-- [The reason your Columbia shirt has a tiny pocket near your waistline &lpar;2019&rpar;](https://www.marketplace.org/2019/05/29/theres-a-reason-your-columbia-shirt-has-a-tiny-pocket-near-your-waistline/)
-- [Show HN: Numscript, a declarative language to model financial transactions](https://playground.numscript.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
