@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Human genome stored on &#39;everlasting&#39; memory crystal](https://www.southampton.ac.uk/news/2024/09/human-genome-stored-on-everlasting-memory-crystal-.page)
-- [WSJ: Tech jobs have dried up](https://www.wsj.com/tech/tech-jobs-artificial-intelligence-cce22393)
-- [A Cyborg Manifesto &lpar;1991&rpar; [pdf]](https://archives.evergreen.edu/webpages/curricular/2006-2007/ccfi/files/ccfi/cyborgmanifesto.pdf)
-- [Pivotal Tracker will shut down](https://www.pivotaltracker.com/blog/2024-09-18-end-of-life)
-- [Support for IPv6](https://www.backblaze.com/blog/announcing-support-for-ipv6/)
+- [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
+- [Three-Dimensional Wave Breaking](https://www.nature.com/articles/s41586-024-07886-z)
+- [Tortured by regrets? A new study details how best to overcome them](https://www.latimes.com/lifestyle/story/2024-09-18/regret-how-to-overcome)
+- [JVM statistics cause garbage collection pauses &lpar;2015&rpar;](https://www.evanjones.ca/jvm-mmap-pause.html)
+- [Quantum researchers cause controlled &#39;wobble&#39; in the nucleus of a single atom](https://www.tudelft.nl/en/2024/tnw/quantum-researchers-cause-controlled-wobble-in-the-nucleus-of-a-single-atom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
