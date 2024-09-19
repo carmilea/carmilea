@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Chili. Rust port of Spice, a low-overhead parallelization library](https://github.com/dragostis/chili)
-- [Drift towards danger and the normalization of deviance &lpar;2017&rpar;](https://risk-engineering.org/concept/Rasmussen-practical-drift)
-- [Diatom Arrangements](https://www.trebeljahr.com/posts/diatoms)
-- [Ask HN: What currently is the best, nerd-friendly, rootable Android phone?](https://news.ycombinator.com/item?id=41590754)
-- [MariaDB vs. MySQL](https://www.singlestore.com/blog/mariadb-vs-mysql)
+- [Human genome stored on &#39;everlasting&#39; memory crystal](https://www.southampton.ac.uk/news/2024/09/human-genome-stored-on-everlasting-memory-crystal-.page)
+- [WSJ: Tech jobs have dried up](https://www.wsj.com/tech/tech-jobs-artificial-intelligence-cce22393)
+- [A Cyborg Manifesto &lpar;1991&rpar; [pdf]](https://archives.evergreen.edu/webpages/curricular/2006-2007/ccfi/files/ccfi/cyborgmanifesto.pdf)
+- [Pivotal Tracker will shut down](https://www.pivotaltracker.com/blog/2024-09-18-end-of-life)
+- [Support for IPv6](https://www.backblaze.com/blog/announcing-support-for-ipv6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
