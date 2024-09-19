@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [3K free SVG icons for popular brands](https://simpleicons.org/)
+- [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
 - [GitHub Notification Emails Hijacked to Send Malware](https://ianspence.com/blog/2024-09/github-email-hijack/)
+- [Avian flu detected in wastewater from 10 Texas cities](https://www.cidrap.umn.edu/avian-influenza-bird-flu/h5n1-avian-flu-virus-detected-wastewater-10-texas-cities)
 - [Finley &lpar;YC W21&rpar; is hiring engineers to build cap markets software &lpar;US Remote&rpar;](https://jobs.lever.co/FinleyTechnologies/2bca72b7-ff5e-4277-bbaf-184138254589)
-- [Up to a Quarter of Rental Inflation Is Due to Price-Fixing](https://www.thebignewsletter.com/p/up-to-a-quarter-of-rental-inflation)
-- [DirectX Adopting SPIR-V as the Interchange Format of the Future](https://devblogs.microsoft.com/directx/directx-adopting-spir-v/)
-- [Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
