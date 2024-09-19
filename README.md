@@ -62,7 +62,7 @@
 - [Debugging Behind the Iron Curtain &lpar;2010&rpar;](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
 - [A Message from Intel CEO Pat Gelsinger to Employees](https://www.intc.com/news-events/press-releases/detail/1710/a-message-from-intel-ceo-pat-gelsinger-to-employees)
 - [AI agents invade observability: snake oil or the future of SRE?](https://monitoring2.substack.com/p/ai-agents-invade-observability)
-- [From Myth to Measurement: Rethinking US News and World Report College Rankings](https://anandsanwal.me/us-news-college-rankings-myth/)
+- [J2ME-Loader: J2ME emulator for Android devices](https://github.com/nikita36078/J2ME-Loader)
 <!-- BLOG-POST-LIST:END -->
 
 ---
