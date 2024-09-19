@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Chili. Rust port of Spice, a low-overhead parallelization library](https://github.com/dragostis/chili)
+- [Drift towards danger and the normalization of deviance &lpar;2017&rpar;](https://risk-engineering.org/concept/Rasmussen-practical-drift)
+- [Diatom Arrangements](https://www.trebeljahr.com/posts/diatoms)
+- [Ask HN: What currently is the best, nerd-friendly, rootable Android phone?](https://news.ycombinator.com/item?id=41590754)
 - [MariaDB vs. MySQL](https://www.singlestore.com/blog/mariadb-vs-mysql)
-- [Open research Europe: Towards a collective open access publishing service](https://op.europa.eu/en/publication-detail/-/publication/3603e219-6a65-11ef-a8ba-01aa75ed71a1/language-en)
-- [Ask HN: My son might be blind – how to best support](https://news.ycombinator.com/item?id=41588200)
-- [Debugging Behind the Iron Curtain &lpar;2010&rpar;](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
-- [J2ME-Loader: J2ME emulator for Android devices](https://github.com/nikita36078/J2ME-Loader)
 <!-- BLOG-POST-LIST:END -->
 
 ---
