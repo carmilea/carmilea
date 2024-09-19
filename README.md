@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pediatricians Created the Peanut Allergy Epidemic](https://www.wsj.com/health/how-pediatricians-created-the-peanut-allergy-epidemic-952831c4)
-- [OpenNMS: Visualize and monitor everything on your local and distributed networks](https://www.opennms.com/opennms-feature-list/)
-- [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
-- [Three-Dimensional Wave Breaking](https://www.nature.com/articles/s41586-024-07886-z)
-- [Tortured by regrets? A new study details how best to overcome them](https://www.latimes.com/lifestyle/story/2024-09-18/regret-how-to-overcome)
+- [Aviator &lpar;YC S21&rpar; is hiring engineers to build open source stacked PRs CLI](https://aviator.co/jobs)
+- [FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance)
+- [Ask HN: Book recommendations for CS fundamentals for a self-taught programmer?](https://news.ycombinator.com/item?id=41593668)
+- [We accidentally burned through 200GB of proxy bandwidth in 6 hours](https://blog.skyvern.com/how-we-accidentally-burned-through-200gb-of-proxy-bandwidth-in-6-hours/)
+- [The reason your Columbia shirt has a tiny pocket near your waistline &lpar;2019&rpar;](https://www.marketplace.org/2019/05/29/theres-a-reason-your-columbia-shirt-has-a-tiny-pocket-near-your-waistline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
