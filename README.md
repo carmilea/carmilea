@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nirvana fallacy &lpar;Perfect solution fallacy&rpar;](https://en.wikipedia.org/wiki/Nirvana_fallacy)
-- [An In-Depth Guide to Contrastive Learning: Techniques, Models, and Applications](https://myscale.com/blog/what-is-contrastive-learning/)
+- [MariaDB vs. MySQL](https://www.singlestore.com/blog/mariadb-vs-mysql)
+- [Open research Europe: Towards a collective open access publishing service](https://op.europa.eu/en/publication-detail/-/publication/3603e219-6a65-11ef-a8ba-01aa75ed71a1/language-en)
 - [Ask HN: My son might be blind – how to best support](https://news.ycombinator.com/item?id=41588200)
-- [Nintendo Files Suit for Infringement of Patent Rights Against Pocketpair, Inc](https://www.nintendo.co.jp/corporate/release/en/2024/240919.html)
 - [Debugging Behind the Iron Curtain &lpar;2010&rpar;](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
+- [J2ME-Loader: J2ME emulator for Android devices](https://github.com/nikita36078/J2ME-Loader)
 <!-- BLOG-POST-LIST:END -->
 
 ---
