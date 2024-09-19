@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Teams with Startup Anduril on Army Combat Goggle System](https://www.bloomberg.com/news/articles/2024-09-19/microsoft-teams-with-startup-anduril-on-army-combat-goggle-system)
-- [US health system ranks last compared with peer nations, report finds – US news](https://www.theguardian.com/us-news/2024/sep/18/american-health-system-ranks-last)
 - [Ask HN: My son might be blind – how to best support](https://news.ycombinator.com/item?id=41588200)
 - [Nintendo Files Suit for Infringement of Patent Rights Against Pocketpair, Inc](https://www.nintendo.co.jp/corporate/release/en/2024/240919.html)
 - [Debugging Behind the Iron Curtain &lpar;2010&rpar;](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
+- [J2ME-Loader: J2ME emulator for Android devices](https://github.com/nikita36078/J2ME-Loader)
+- [Ruby-SAML pwned by XML signature wrapping attacks](https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
