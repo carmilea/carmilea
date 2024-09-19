@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is it wrong not wanting career progression beyond senior?](https://news.ycombinator.com/item?id=41594527)
+- [Leonard Cohen: The Anti-Rock Star](https://www.theatlantic.com/magazine/archive/2024/10/christophe-lebold-leonard-cohen-book/679573/)
+- [Ask HN: What email service&lpar;s&rpar; do you use for your side projects?](https://news.ycombinator.com/item?id=41594209)
 - [Aviator &lpar;YC S21&rpar; is hiring engineers to build open source stacked PRs CLI](https://aviator.co/jobs)
 - [FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance)
-- [Ask HN: Book recommendations for CS fundamentals for a self-taught programmer?](https://news.ycombinator.com/item?id=41593668)
-- [We accidentally burned through 200GB of proxy bandwidth in 6 hours](https://blog.skyvern.com/how-we-accidentally-burned-through-200gb-of-proxy-bandwidth-in-6-hours/)
-- [The reason your Columbia shirt has a tiny pocket near your waistline &lpar;2019&rpar;](https://www.marketplace.org/2019/05/29/theres-a-reason-your-columbia-shirt-has-a-tiny-pocket-near-your-waistline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
