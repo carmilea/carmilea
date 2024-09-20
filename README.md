@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thoughts on the New iOS Control Centre](https://manuelmoreale.com/thoughts-on-the-new-ios-control-centre)
+- [Pov: Living in My Car in SF](https://www.youtube.com/watch?v=tonG-OufefQ)
+- [The crypto bros crowdfunding a new country](https://www.bbc.com/news/articles/cwyl171lyewo)
+- [How Stripe Built One of Silicon Valley’s Best Engineering Teams](https://review.firstround.com/how-stripe-built-one-of-silicon-valleys-best-engineering-teams/)
 - [Why Apple Uses JPEG XL in the iPhone 16 and What It Means for Your Photos](https://petapixel.com/2024/09/18/why-apple-uses-jpeg-xl-in-the-iphone-16-and-what-it-means-for-your-photos/)
-- [Disable Sequoia&#39;s monthly screen recording permission prompt](https://tinyapps.org/blog/202409180700_disable_sequoia_nag.html)
-- [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/GyqMnKn-business-analyst-product-analyst)
-- [Show HN: LeanRL: Fast PyTorch RL with Torch.compile and CUDA Graphs](https://github.com/pytorch-labs/LeanRL)
+- [Anthropic – Introducing Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 <!-- BLOG-POST-LIST:END -->
 
 ---
