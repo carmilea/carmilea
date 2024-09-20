@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Discord Reduced WebSocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
-- [Flight diverted after passenger finds mouse in meal](https://www.bbc.com/news/articles/ckgmy2d09x2o)
+- [Docker Desktop Alternative](https://container-desktop.com/)
+- [Show HN: Inngest 1.0 – Open-source durable workflows on every platform](https://www.inngest.com/)
 - [Mitosis in the Gray-Scott model: writing shader-based chemical simulations](https://pierre-couy.dev/simulations/2024/09/gray-scott-shader.html)
 - [Show HN: Put this touch sensor on a robot and learn super precise tasks](https://any-skin.github.io)
-- [Trellis &lpar;YC W24&rpar; is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 <!-- BLOG-POST-LIST:END -->
 
 ---
