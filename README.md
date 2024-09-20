@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/GyqMnKn-business-analyst-product-analyst)
+- [X and Starlink face $1M in daily fines for alleged ban evasion in Brazil](https://www.cnbc.com/2024/09/19/elon-musks-x-and-starlink-face-daily-fines-in-brazil-for-ban-evasion.html)
+- [Caught on camera: Satellite tracker photographs secret spacecraft](https://www.space.com/secret-satellites-caught-on-camera)
+- [Gaining access to anyones browser without them even visiting a website](https://kibty.town/blog/arc/)
 - [3K free SVG icons for popular brands](https://simpleicons.org/)
-- [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
-- [GitHub Notification Emails Hijacked to Send Malware](https://ianspence.com/blog/2024-09/github-email-hijack/)
-- [Avian flu detected in wastewater from 10 Texas cities](https://www.cidrap.umn.edu/avian-influenza-bird-flu/h5n1-avian-flu-virus-detected-wastewater-10-texas-cities)
-- [Finley &lpar;YC W21&rpar; is hiring engineers to build cap markets software &lpar;US Remote&rpar;](https://jobs.lever.co/FinleyTechnologies/2bca72b7-ff5e-4277-bbaf-184138254589)
 <!-- BLOG-POST-LIST:END -->
 
 ---
