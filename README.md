@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Discord Reduced WebSocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
-- [Docker Desktop Alternative](https://container-desktop.com/)
-- [Show HN: Inngest 1.0 – Open-source durable workflows on every platform](https://www.inngest.com/)
-- [Mitosis in the Gray-Scott model: writing shader-based chemical simulations](https://pierre-couy.dev/simulations/2024/09/gray-scott-shader.html)
-- [Show HN: Put this touch sensor on a robot and learn super precise tasks](https://any-skin.github.io)
+- [UpCodes &lpar;YC S17&rpar; Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
+- [Can&#39;t change security policy or disable SIP with macOS 15 Sequoia](https://lapcatsoftware.com/articles/2024/8/9.html)
+- [Qualcomm Wants to Buy Intel](https://www.theverge.com/2024/9/20/24249949/intel-qualcomm-rumor-takeover-acquisition-arm-x86)
+- [Elite 40th Anniversary – Source code release](http://www.elitehomepage.org/fourty/index.htm)
+- [Show HN: Open-source text classification CLI – train models with no labeled data](https://github.com/taylorai/aiq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
