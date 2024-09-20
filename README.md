@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We have lift-off Element X, Call and Server Suite are ready](https://element.io/blog/we-have-lift-off-element-x-call-and-server-suite-are-ready/)
-- [Stop Designing Your Web Application for Millions of Users When You Dont Have 100](https://www.darrenhorrocks.co.uk/stop-designing-web-applications-for-millions/)
-- [No same site = None cookies for iOS18](https://github.com/WebKit/WebKit/pull/33164)
+- [30th-anniversary limited-run PS5 and PS5 Pro bring back mid-&#39;90s gray plastic](https://arstechnica.com/gaming/2024/09/30th-anniversary-limited-run-ps5-and-ps5-pro-bring-back-mid-90s-gray-plastic/)
+- [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
+- [Openpilot – Operating system for robotics. 275 supported cars](https://github.com/commaai/openpilot)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/)
 - [A rigid but foldable indoor airship aerial system for cave exploration](https://arxiv.org/abs/2409.07591)
 <!-- BLOG-POST-LIST:END -->
