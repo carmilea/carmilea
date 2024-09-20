@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [30th-anniversary limited-run PS5 and PS5 Pro bring back mid-&#39;90s gray plastic](https://arstechnica.com/gaming/2024/09/30th-anniversary-limited-run-ps5-and-ps5-pro-bring-back-mid-90s-gray-plastic/)
+- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 - [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
-- [Openpilot – Operating system for robotics. 275 supported cars](https://github.com/commaai/openpilot)
-- [The Architecture of Open Source Applications](https://aosabook.org/en/)
-- [A rigid but foldable indoor airship aerial system for cave exploration](https://arxiv.org/abs/2409.07591)
+- [Openpilot – Operating system for robotics](https://github.com/commaai/openpilot)
+- [Parallel PNG Proposal &lpar;2021&rpar;](https://github.com/DavidBuchanan314/parallel-png-proposal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
