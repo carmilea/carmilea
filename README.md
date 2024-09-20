@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Researcher reveals &#39;catastrophic&#39; security flaw in the Arc browser](https://www.theverge.com/2024/9/20/24249919/arc-browser-boost-firebase-vulnerability-patched)
+- [The View From APAC](https://www.singlestore.com/blog/the-view-from-apac)
+- [Making Windows handhelds behave in Linux](https://universal-blue.discourse.group/t/achieving-0-day-rog-ally-x-support-in-bazzite/4165)
 - [MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts](https://github.com/qhjqhj00/MemoRAG)
-- [New AI diffusion model approach solves the aspect ratio problem](https://news.rice.edu/news/2024/rice-research-could-make-weird-ai-images-thing-past)
 - [Reactive Relational Algebra](https://taylor.town/reactive-relational-algebra)
-- [Dry Cask Storage](https://en.wikipedia.org/wiki/Dry_cask_storage)
-- [Linux Horror Stories and Protection Spells &lpar;Volume I&rpar;](https://www.blopig.com/blog/2021/07/linux-horror-stories-and-protection-spells-volume-i/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
