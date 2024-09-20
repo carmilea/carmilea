@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Found Bin Laden: The Basics of Foreign Signals Intelligence](https://directory.libsyn.com/episode/index/id/32884982)
-- [Yes, you can have exactly-once delivery](http://blog.rongarret.info/2024/09/yes-you-can-have-exactly-once-delivery.html)
+- [Thoughts on the New iOS Control Centre](https://manuelmoreale.com/thoughts-on-the-new-ios-control-centre)
+- [Why Apple Uses JPEG XL in the iPhone 16 and What It Means for Your Photos](https://petapixel.com/2024/09/18/why-apple-uses-jpeg-xl-in-the-iphone-16-and-what-it-means-for-your-photos/)
+- [Disable Sequoia&#39;s monthly screen recording permission prompt](https://tinyapps.org/blog/202409180700_disable_sequoia_nag.html)
 - [A flight search engine that combines flights from different airlines? &lpar;2014&rpar;](https://travel.stackexchange.com/questions/26780/is-there-a-flight-search-engine-that-combines-flights-from-different-airlines)
 - [GroMo &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/GyqMnKn-business-analyst-product-analyst)
-- [Show HN: LeanRL: Fast PyTorch RL with Torch.compile and CUDA Graphs](https://github.com/pytorch-labs/LeanRL)
 <!-- BLOG-POST-LIST:END -->
 
 ---
