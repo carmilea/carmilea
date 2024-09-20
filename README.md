@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts](https://github.com/qhjqhj00/MemoRAG)
 - [New AI diffusion model approach solves the aspect ratio problem](https://news.rice.edu/news/2024/rice-research-could-make-weird-ai-images-thing-past)
 - [Reactive Relational Algebra](https://taylor.town/reactive-relational-algebra)
+- [Dry Cask Storage](https://en.wikipedia.org/wiki/Dry_cask_storage)
 - [Linux Horror Stories and Protection Spells &lpar;Volume I&rpar;](https://www.blopig.com/blog/2021/07/linux-horror-stories-and-protection-spells-volume-i/)
-- [CuPy: NumPy and SciPy for GPU](https://github.com/cupy/cupy)
-- [Radar Detector Legend Michael Valentine Has Died](https://www.roadandtrack.com/news/a62283108/radar-detector-legend-michael-valentine-has-died/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
