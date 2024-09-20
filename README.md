@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We have lift-off Element X, Call and Server Suite are ready](https://element.io/blog/we-have-lift-off-element-x-call-and-server-suite-are-ready/)
+- [Stop Designing Your Web Application for Millions of Users When You Dont Have 100](https://www.darrenhorrocks.co.uk/stop-designing-web-applications-for-millions/)
 - [No same site = None cookies for iOS18](https://github.com/WebKit/WebKit/pull/33164)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/)
-- [Starlink&#39;s new satellites emit 30x more radio interference than before](https://www.theregister.com/2024/09/19/starlinks_spacex_satellites_radio_interference/)
 - [A rigid but foldable indoor airship aerial system for cave exploration](https://arxiv.org/abs/2409.07591)
-- [Why Apple Uses JPEG XL in the iPhone 16 and What It Means for Your Photos](https://petapixel.com/2024/09/18/why-apple-uses-jpeg-xl-in-the-iphone-16-and-what-it-means-for-your-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
