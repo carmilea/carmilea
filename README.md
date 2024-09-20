@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dropbox keeps threatening to delete my files](https://khromov.se/dropbox-keeps-threatening-to-delete-my-files/)
+- [The Algorithm and the Hippocratic Oath](https://hedgehogreview.com/web-features/thr/posts/the-algorithm-and-the-hippocratic-oath)
 - [UpCodes &lpar;YC S17&rpar; Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
-- [Qualcomm Wants to Buy Intel](https://www.theverge.com/2024/9/20/24249949/intel-qualcomm-rumor-takeover-acquisition-arm-x86)
-- [Elite 40th Anniversary – Source code release](http://www.elitehomepage.org/fourty/index.htm)
 - [Show HN: Open-source text classification CLI – train models with no labeled data](https://github.com/taylorai/aiq)
 - [Docker Desktop Alternative](https://container-desktop.com/)
 <!-- BLOG-POST-LIST:END -->
