@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord Reduced WebSocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
+- [Flight diverted after passenger finds mouse in meal](https://www.bbc.com/news/articles/ckgmy2d09x2o)
+- [Mitosis in the Gray-Scott model: writing shader-based chemical simulations](https://pierre-couy.dev/simulations/2024/09/gray-scott-shader.html)
 - [Show HN: Put this touch sensor on a robot and learn super precise tasks](https://any-skin.github.io)
 - [Trellis &lpar;YC W24&rpar; is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
-- [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape)
-- [The View From APAC](https://www.singlestore.com/blog/the-view-from-apac)
-- [MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts](https://github.com/qhjqhj00/MemoRAG)
 <!-- BLOG-POST-LIST:END -->
 
 ---
