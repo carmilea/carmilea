@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [UpCodes &lpar;YC S17&rpar; Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
-- [Can&#39;t change security policy or disable SIP with macOS 15 Sequoia](https://lapcatsoftware.com/articles/2024/8/9.html)
 - [Qualcomm Wants to Buy Intel](https://www.theverge.com/2024/9/20/24249949/intel-qualcomm-rumor-takeover-acquisition-arm-x86)
 - [Elite 40th Anniversary – Source code release](http://www.elitehomepage.org/fourty/index.htm)
 - [Show HN: Open-source text classification CLI – train models with no labeled data](https://github.com/taylorai/aiq)
+- [Docker Desktop Alternative](https://container-desktop.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
