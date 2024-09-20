@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Researcher reveals &#39;catastrophic&#39; security flaw in the Arc browser](https://www.theverge.com/2024/9/20/24249919/arc-browser-boost-firebase-vulnerability-patched)
+- [Show HN: Put this touch sensor on a robot and learn super precise tasks](https://any-skin.github.io)
+- [Trellis &lpar;YC W24&rpar; is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+- [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape)
 - [The View From APAC](https://www.singlestore.com/blog/the-view-from-apac)
-- [Making Windows handhelds behave in Linux](https://universal-blue.discourse.group/t/achieving-0-day-rog-ally-x-support-in-bazzite/4165)
 - [MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts](https://github.com/qhjqhj00/MemoRAG)
-- [Reactive Relational Algebra](https://taylor.town/reactive-relational-algebra)
 <!-- BLOG-POST-LIST:END -->
 
 ---
