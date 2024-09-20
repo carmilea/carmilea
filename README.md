@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New AI diffusion model approach solves the aspect ratio problem](https://news.rice.edu/news/2024/rice-research-could-make-weird-ai-images-thing-past)
+- [Reactive Relational Algebra](https://taylor.town/reactive-relational-algebra)
+- [Linux Horror Stories and Protection Spells &lpar;Volume I&rpar;](https://www.blopig.com/blog/2021/07/linux-horror-stories-and-protection-spells-volume-i/)
+- [CuPy: NumPy and SciPy for GPU](https://github.com/cupy/cupy)
 - [Radar Detector Legend Michael Valentine Has Died](https://www.roadandtrack.com/news/a62283108/radar-detector-legend-michael-valentine-has-died/)
-- [Three Mile Island nuclear plant restart in Microsoft AI power deal](https://www.reuters.com/markets/deals/constellation-inks-power-supply-deal-with-microsoft-2024-09-20/)
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
-- [Foundations: Why Britain Has Stagnated](https://ukfoundations.co)
 <!-- BLOG-POST-LIST:END -->
 
 ---
