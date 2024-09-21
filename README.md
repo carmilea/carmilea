@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Kraftful &lpar;YC S19&rpar; is hiring a founder engineer](https://www.workatastartup.com/jobs/69323)
 - [What 10k Hours of Coding Taught Me: Don&#39;t Ship Fast](https://sotergreco.com/what-10000-hours-of-coding-taught-me-dont-ship-fast)
-- [Governor Newsom signs landmark bill to protect kids from social media addiction](https://www.gov.ca.gov/2024/09/20/governor-newsom-signs-landmark-bill-to-protect-kids-from-social-media-addiction-takes-action-on-other-measures/)
 - [Omega-3 intake counteracts symptoms of anxiety and depression in mice](https://www.psypost.org/omega-3-fatty-acid-intake-counteracts-symptoms-of-stress-induced-anxiety-and-depression-in-mice/)
 - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
+- [Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp/blob/master/TUTORIAL.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
