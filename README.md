@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Vaporizing plastics recycles them into nothing but gas](https://arstechnica.com/science/2024/09/vaporizing-plastics-recycles-them-into-nothing-but-gas/)
 - [Nango &lpar;YC W23&rpar; is hiring fullstack engs to solve product integrations](https://www.nango.dev/jobs)
-- [The Collapse of Self-Worth in the Digital Age](https://thewalrus.ca/collapse-of-self-worth-in-the-digital-age/)
-- [Ultra high-resolution image of The Night Watch](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
-- [Concord had a dev culture of toxic positivity that halted any negative feedback](https://twitter.com/longislandviper/status/1837157796137030141)
+- [Forget ChatGPT: why researchers now run small AIs on their laptops](https://www.nature.com/articles/d41586-024-02998-y)
+- [Remains of Egyptian army barracks and a bronze sword unearthed by archaeologists](https://www.cnn.com/2024/09/17/science/egypt-army-barracks-sword-intl-scli/index.html)
+- [Antarctica&#39;s Ozone Hole Is Healing and Set to Recover by 2066](https://www.iflscience.com/antarcticas-ozone-hole-is-healing-and-set-to-recover-fully-by-2066-75983)
 <!-- BLOG-POST-LIST:END -->
 
 ---
