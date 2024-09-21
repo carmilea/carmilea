@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X capitulates to Brazil&#39;s Supreme Court](https://www.theverge.com/2024/9/21/24250697/x-complies-brazil-supreme-court)
+- [Redis users considering alternatives after licensing move](https://www.theregister.com/2024/09/20/redis_users_considering_alternatives/)
+- [LHC experiments at CERN observe quantum entanglement at the highest energy yet](https://home.cern/news/press-release/physics/lhc-experiments-cern-observe-quantum-entanglement-highest-energy-yet)
+- [4 Exploits, 1 bug: exploiting cve-2024-20017 4 different ways](https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html)
 - [Kraftful &lpar;YC S19&rpar; is hiring a founder engineer](https://www.workatastartup.com/jobs/69323)
-- [What 10k Hours of Coding Taught Me: Don&#39;t Ship Fast](https://sotergreco.com/what-10000-hours-of-coding-taught-me-dont-ship-fast)
-- [Omega-3 intake counteracts symptoms of anxiety and depression in mice](https://www.psypost.org/omega-3-fatty-acid-intake-counteracts-symptoms-of-stress-induced-anxiety-and-depression-in-mice/)
-- [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
-- [Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp/blob/master/TUTORIAL.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
