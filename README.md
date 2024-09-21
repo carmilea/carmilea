@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ultra high-resolution image of The Night Watch](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
+- [Concord had a dev culture of toxic positivity that halted any negative feedback](https://twitter.com/longislandviper/status/1837157796137030141)
 - [Kamal Proxy – A minimal HTTP proxy for zero-downtime deployments](https://github.com/basecamp/kamal-proxy)
 - [Porsche&#39;s idea for a six-stroke internal combustion engine](https://www.motor1.com/news/734156/porsche-six-stroke-combustion-engine/)
 - [Inside Annapurna Interactive&#39;s Mass Walkout](https://www.ign.com/articles/what-the-heck-has-been-going-on-at-annapurna-interactive-an-investigation)
-- [I Like Makefiles](https://switowski.com/blog/i-like-makefiles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
