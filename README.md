@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Happened to the Japanese PC Platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
 - [Deep space radio signal reaches Earth after 8B years](https://www.earth.com/news/deep-space-radio-signal-reaches-earth-after-8-billion-years-frb-20220610a/)
 - [OpenSSH 9.9 Released](https://undeadly.org/cgi?action=article;sid=20240921181110)
+- [100x Faster CPUs from Finland&#39;s New Startup](https://spectrum.ieee.org/parallel-processing-unit)
 - [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
-- [The Age of Software Artisans](https://jairojair.com/articles/the-age-of-software-artisans/)
-- [Tetris Game Shows Promise in Reducing PTSD Symptoms](https://www.legalreader.com/tetris-game-shows-promise-in-reducing-ptsd-symptoms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
