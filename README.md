@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hollywood Can&#39;t Ditch Its Teslas Fast Enough:&quot;They&#39;re Destroying Their Leases..&quot;](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/tesla-robotaxi-warner-bros-reveal-hollywood-rejection-elon-musk-1236007945/)
+- [Porsche&#39;s Idea for a Six-Stroke Internal Combustion Engine Looks Brilliant](https://www.motor1.com/news/734156/porsche-six-stroke-combustion-engine/)
+- [Ruby on Rails continues to thrive](https://blogyet.com/blog_posts/why-ruby-on-rails-will-never-die-a-veteran-coder-s-perspective)
 - [Inside Annapurna Interactive&#39;s Mass Walkout](https://www.ign.com/articles/what-the-heck-has-been-going-on-at-annapurna-interactive-an-investigation)
 - [I Like Makefiles](https://switowski.com/blog/i-like-makefiles/)
-- [Sshfs for Windows](https://github.com/winfsp/sshfs-win)
-- [Apple Shares Full iPhone 16 and iPhone 16 Pro Repair Manuals](https://www.macrumors.com/2024/09/20/iphone-16-repair-manual/)
-- [CISA boss: Makers of insecure software are the real cyber villains](https://www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
