@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside Annapurna Interactive&#39;s Mass Walkout](https://www.ign.com/articles/what-the-heck-has-been-going-on-at-annapurna-interactive-an-investigation)
+- [I Like Makefiles](https://switowski.com/blog/i-like-makefiles/)
+- [Doomretro – The classic, refined DOOM source port. For Windows PC](https://github.com/bradharding/doomretro)
 - [Working in the office 5 days/week to build company culture is a myth: PwC report](https://www.msn.com/en-us/money/other/working-in-the-office-5-days-a-week-to-build-company-culture-is-a-myth-pwc-report-says/ar-AA1qU17L)
 - [Americans Are Falling Behind on Their Bills](https://www.wsj.com/finance/americans-credit-debt-spending-interest-rates-f3836f23)
-- [Hachette vs. Internet Archive: We&#39;re Still Fighting for Fair Use](https://www.libraryfutures.net/post/were-still-fighting-for-fair-use)
-- [Apple Shares Full iPhone 16 and iPhone 16 Pro Repair Manuals](https://www.macrumors.com/2024/09/20/iphone-16-repair-manual/)
-- [CISA boss: Makers of insecure software are the real cyber villains](https://www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
