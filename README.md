@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Working in the office 5 days/week to build company culture is a myth: PwC report](https://www.msn.com/en-us/money/other/working-in-the-office-5-days-a-week-to-build-company-culture-is-a-myth-pwc-report-says/ar-AA1qU17L)
+- [CISA boss: Makers of insecure software are the real cyber villains](https://www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/)
+- [How do archivists package things? The battle of the boxes](https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/)
 - [Dropbox keeps threatening to delete my files](https://khromov.se/dropbox-keeps-threatening-to-delete-my-files/)
-- [The Algorithm and the Hippocratic Oath](https://hedgehogreview.com/web-features/thr/posts/the-algorithm-and-the-hippocratic-oath)
-- [UpCodes &lpar;YC S17&rpar; Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
-- [Show HN: Open-source text classification CLI – train models with no labeled data](https://github.com/taylorai/aiq)
-- [Docker Desktop Alternative](https://container-desktop.com/)
+- [Critical Exploit in MediaTek Wi-Fi Chipsets: Zero-Click Vulnerability](https://blog.sonicwall.com/en-us/2024/09/critical-exploit-in-mediatek-wi-fi-chipsets-zero-click-vulnerability-cve-2024-20017-threatens-routers-and-smartphones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
