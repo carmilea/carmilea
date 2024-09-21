@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep space radio signal reaches Earth after 8B years](https://www.earth.com/news/deep-space-radio-signal-reaches-earth-after-8-billion-years-frb-20220610a/)
+- [OpenSSH 9.9 Released](https://undeadly.org/cgi?action=article;sid=20240921181110)
 - [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+- [The Age of Software Artisans](https://jairojair.com/articles/the-age-of-software-artisans/)
 - [Tetris Game Shows Promise in Reducing PTSD Symptoms](https://www.legalreader.com/tetris-game-shows-promise-in-reducing-ptsd-symptoms/)
-- [A plucked string simulator using Julia](https://lee-phillips.org/pluckit/#v0.2)
-- [In the US opioid-maker Purdue is bankrupt. Its global counterparts make millions](https://www.washingtonpost.com/health/2024/09/17/opioid-epidemic-purdue-pharma-family-mundipharma-global/)
-- [US House of Representatives adopts baseline policy for AI use](https://www.nextgov.com/artificial-intelligence/2024/09/house-representatives-adopts-baseline-policy-ai-use/399710/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
