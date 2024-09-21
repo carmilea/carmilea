@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+- [Tetris Game Shows Promise in Reducing PTSD Symptoms](https://www.legalreader.com/tetris-game-shows-promise-in-reducing-ptsd-symptoms/)
+- [A plucked string simulator using Julia](https://lee-phillips.org/pluckit/#v0.2)
 - [In the US opioid-maker Purdue is bankrupt. Its global counterparts make millions](https://www.washingtonpost.com/health/2024/09/17/opioid-epidemic-purdue-pharma-family-mundipharma-global/)
-- [A Tour of NYC&#39;s Mass Burial Site That&#39;s Also a Public Park Now](https://www.thecity.nyc/2024/09/11/hart-island-public-park-potters-field-mass-graves/)
 - [US House of Representatives adopts baseline policy for AI use](https://www.nextgov.com/artificial-intelligence/2024/09/house-representatives-adopts-baseline-policy-ai-use/399710/)
-- [What Is a Particle? &lpar;2020&rpar;](https://www.quantamagazine.org/what-is-a-particle-20201112/)
-- [Analyzing the OpenAPI Tooling Ecosystem](https://modern-json-schema.com/analyzing-the-openapi-tooling-ecosystem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
