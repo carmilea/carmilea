@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [X capitulates to Brazil&#39;s Supreme Court](https://www.theverge.com/2024/9/21/24250697/x-complies-brazil-supreme-court)
-- [Redis users considering alternatives after licensing move](https://www.theregister.com/2024/09/20/redis_users_considering_alternatives/)
-- [LHC experiments at CERN observe quantum entanglement at the highest energy yet](https://home.cern/news/press-release/physics/lhc-experiments-cern-observe-quantum-entanglement-highest-energy-yet)
-- [4 Exploits, 1 bug: exploiting cve-2024-20017 4 different ways](https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html)
-- [Kraftful &lpar;YC S19&rpar; is hiring a founder engineer](https://www.workatastartup.com/jobs/69323)
+- [In the US opioid-maker Purdue is bankrupt. Its global counterparts make millions](https://www.washingtonpost.com/health/2024/09/17/opioid-epidemic-purdue-pharma-family-mundipharma-global/)
+- [A Tour of NYC&#39;s Mass Burial Site That&#39;s Also a Public Park Now](https://www.thecity.nyc/2024/09/11/hart-island-public-park-potters-field-mass-graves/)
+- [US House of Representatives adopts baseline policy for AI use](https://www.nextgov.com/artificial-intelligence/2024/09/house-representatives-adopts-baseline-policy-ai-use/399710/)
+- [What Is a Particle? &lpar;2020&rpar;](https://www.quantamagazine.org/what-is-a-particle-20201112/)
+- [Analyzing the OpenAPI Tooling Ecosystem](https://modern-json-schema.com/analyzing-the-openapi-tooling-ecosystem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
