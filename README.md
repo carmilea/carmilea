@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pay once. Use forever. Find the best purchase alternatives to subscription](https://payoncealternatives.com)
 - [It is hard to recommend Google Cloud](https://ashishb.net/programming/google-cloud/)
 - [Stupid Problems Require Stupid Solutions &lpar;Cloudflare Is Breaking My SVGs&rpar;](https://www.lloydatkinson.net/posts/2024/stupid-problems-require-stupid-solutions-cloudflare-is-breaking-my-svgs/)
 - [They stole my voice with AI](https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai)
 - [Show HN: PDF to MD by LLMs – Extract Text/Tables/Image Descriptives by GPT4o](https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown)
-- [Rust clean-slate POSIX CLI utilities 0.2.1 release: Awk, M4, ftw and more](https://github.com/rustcoreutils/posixutils-rs/releases/tag/v0.2.1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
