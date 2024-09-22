@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fukuppy](https://en.wikipedia.org/wiki/Fukuppy)
+- [Intel has officially entered the grin and bear it phase of its recovery](https://www.theregister.com/2024/09/22/intel_grin_bear_it/)
 - [Surviving Threads: Why Are People Drawn to the World&#39;s Most Harrowing Film?](https://thequietus.com/opinion-and-essays/black-sky-thinking/threads-tv-film-review-anniversary/)
 - [Motion &lpar;YC W20&rpar; Is Hiring a Quant Algo Developer](https://jobs.ashbyhq.com/motion/81dfecd7-a15b-424b-8fa2-3704dbacae7a?utm_source=hn)
 - [How streaming LLM APIs work](https://til.simonwillison.net/llms/streaming-llm-apis)
-- [Nextcloud: Open-Source Cloud Apps](https://nextcloud.com/)
-- [LsCs is a cross platform C++ GUI library focused on Medical Devices](https://lscs-software.com/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
