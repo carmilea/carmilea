@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is Nextcloud a Great Alternative to Dropbox/Google Drive for Startups?](https://news.ycombinator.com/item?id=41619526)
+- [Uber charges more if you have credits in your account](https://viewfromthewing.com/uber-caught-overcharging-how-having-credits-in-your-account-might-be-costing-you/)
+- [LinkedIn does not use European users&#39; data for training its AI](https://www.techradar.com/pro/security/the-linkedin-ai-saga-shows-us-the-need-for-eu-like-privacy-regulations)
 - [Desktop Windowing on Android Tablets](https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html)
+- [Apple adds feature that tries to &quot;autocorrect&quot; file extensions, and fails](https://forum.sublimetext.com/t/sublime-text-started-adding-a-s-to-new-files-very-annoying/73628)
 - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
-- [It&#39;s probably time to rethink &quot;Building in public&quot;](https://laike9m.com/blog/no-one-builds-in-public,160/)
-- [Sieve &lpar;YC W22&rpar; Is Hiring Engineers to Build Video AI Tools](https://www.sievedata.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
