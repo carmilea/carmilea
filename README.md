@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Love of cargo bikes is changing how we deliver goods in our cities](https://www.euronews.com/next/2024/09/22/europes-love-affair-with-cargo-bikes-is-changing-how-we-deliver-goods-in-our-cities)
+- [Desktop Windowing on Android Tablets](https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html)
 - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
 - [Long genetic and social isolation in Neanderthals before their extinction](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00177-0)
 - [It&#39;s probably time to rethink &quot;Building in public&quot;](https://laike9m.com/blog/no-one-builds-in-public,160/)
