@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust clean-slate POSIX CLI utilities 0.2.1 release: Awk, M4, ftw and more](https://github.com/rustcoreutils/posixutils-rs/releases/tag/v0.2.1)
 - [Pulsar: Secure Steganography for Diffusion Models](https://eprint.iacr.org/2023/1758)
 - [WP Engine is not WordPress](https://wordpress.org/news/2024/09/wp-engine/)
-- [AI Companions Reduce Loneliness](https://arxiv.org/abs/2407.19096)
 - [Dissociating language and thought in large language models](https://arxiv.org/abs/2301.06627)
-- [What Happened to the Japanese PC Platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
+- [What happened to the Japanese PC platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
