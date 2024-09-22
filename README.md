@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why is .NET never talked about as an option for solo/small team dev?](https://news.ycombinator.com/item?id=41614284)
+- [Jeff Geerling – They stole my voice with AI](https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai)
+- [Show HN: PDF to MD by LLMs – Extract Text/Tables/Image Descriptives by GPT4o](https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown)
 - [Rust clean-slate POSIX CLI utilities 0.2.1 release: Awk, M4, ftw and more](https://github.com/rustcoreutils/posixutils-rs/releases/tag/v0.2.1)
 - [Twenty Years of FM Synthesis Inside Ableton Live](https://roberthenke.com/technology/operator.html)
 - [Pulsar: Secure Steganography for Diffusion Models](https://eprint.iacr.org/2023/1758)
-- [WP Engine is not WordPress](https://wordpress.org/news/2024/09/wp-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
