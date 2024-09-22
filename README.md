@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pulsar: Secure Steganography for Diffusion Models](https://eprint.iacr.org/2023/1758)
+- [WP Engine is not WordPress](https://wordpress.org/news/2024/09/wp-engine/)
+- [AI Companions Reduce Loneliness](https://arxiv.org/abs/2407.19096)
+- [Dissociating language and thought in large language models](https://arxiv.org/abs/2301.06627)
 - [What Happened to the Japanese PC Platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
-- [Deep space radio signal reaches Earth after 8B years](https://www.earth.com/news/deep-space-radio-signal-reaches-earth-after-8-billion-years-frb-20220610a/)
-- [OpenSSH 9.9 Released](https://undeadly.org/cgi?action=article;sid=20240921181110)
-- [100x Faster CPUs from Finland&#39;s New Startup](https://spectrum.ieee.org/parallel-processing-unit)
-- [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
