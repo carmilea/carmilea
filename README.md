@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A tool to analyze Hacker News sentiment on any term in seconds](https://classysoftware.io/chat-analysis/)
 - [Uber charges more if you have credits in your account](https://viewfromthewing.com/uber-caught-overcharging-how-having-credits-in-your-account-might-be-costing-you/)
+- [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions)
 - [LinkedIn does not use European users&#39; data for training its AI](https://www.techradar.com/pro/security/the-linkedin-ai-saga-shows-us-the-need-for-eu-like-privacy-regulations)
 - [Desktop Windowing on Android Tablets](https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html)
-- [Apple adds feature that tries to &quot;autocorrect&quot; file extensions, and fails](https://forum.sublimetext.com/t/sublime-text-started-adding-a-s-to-new-files-very-annoying/73628)
-- [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
