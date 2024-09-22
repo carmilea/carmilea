@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is Nextcloud a Great Alternative to Dropbox/Google Drive for Startups?](https://news.ycombinator.com/item?id=41619526)
 - [Desktop Windowing on Android Tablets](https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html)
 - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
-- [Long genetic and social isolation in Neanderthals before their extinction](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00177-0)
 - [It&#39;s probably time to rethink &quot;Building in public&quot;](https://laike9m.com/blog/no-one-builds-in-public,160/)
 - [Sieve &lpar;YC W22&rpar; Is Hiring Engineers to Build Video AI Tools](https://www.sievedata.com/)
 <!-- BLOG-POST-LIST:END -->
