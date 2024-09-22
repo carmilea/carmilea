@@ -61,7 +61,7 @@
 - [Is this the civilization we want? &lpar;2017&rpar;](https://dynamicland.org/archive/2017/Is_this_the_civilization_we_really_want%3F)
 - [Nextcloud: Open-Source Cloud Apps](https://nextcloud.com/)
 - [LsCs is a cross platform C++ GUI library focused on Medical Devices](https://lscs-software.com/index.html)
-- [Pay once. Use forever. Find the best purchase alternatives to subscription](https://payoncealternatives.com)
+- [One-time purchase alternatives to popular subscription tools](https://payoncealternatives.com)
 - [It is hard to recommend Google Cloud](https://ashishb.net/programming/google-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
