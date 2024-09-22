@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why is .NET never talked about as an option for solo/small team dev?](https://news.ycombinator.com/item?id=41614284)
 - [Rust clean-slate POSIX CLI utilities 0.2.1 release: Awk, M4, ftw and more](https://github.com/rustcoreutils/posixutils-rs/releases/tag/v0.2.1)
+- [Twenty Years of FM Synthesis Inside Ableton Live](https://roberthenke.com/technology/operator.html)
 - [Pulsar: Secure Steganography for Diffusion Models](https://eprint.iacr.org/2023/1758)
 - [WP Engine is not WordPress](https://wordpress.org/news/2024/09/wp-engine/)
-- [Dissociating language and thought in large language models](https://arxiv.org/abs/2301.06627)
-- [What happened to the Japanese PC platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
