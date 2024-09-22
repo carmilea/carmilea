@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The unknowns surrounding the mysterious rise of cancer in young adults](https://english.elpais.com/health/2024-09-20/the-unknowns-surrounding-the-mysterious-rise-of-cancer-in-young-adults.html)
 - [Hy 1.0.0, the Lisp dialect for Python, has been released](https://github.com/hylang/hy/discussions/2608)
 - [Show HN: I built a chatbot to converse with 3M SaaS product reviews](https://reviewradar.ai/)
-- [The sorry state of Java deserialization](https://www.marginalia.nu/log/a_110_java_io/)
 - [Motion &lpar;YC W20&rpar; Is Hiring a Quant Algo Developer](https://jobs.ashbyhq.com/motion/81dfecd7-a15b-424b-8fa2-3704dbacae7a?utm_source=hn)
+- [Incredibly Ambitious SMB 3 Hack Released After 12 Years](https://marioadventure3.com/)
+- [Nextcloud: Open-Source Cloud Apps](https://nextcloud.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
