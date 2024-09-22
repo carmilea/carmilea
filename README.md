@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hy 1.0.0, the Lisp dialect for Python, has been released](https://github.com/hylang/hy/discussions/2608)
-- [Show HN: I built a chatbot to converse with 3M SaaS product reviews](https://reviewradar.ai/)
-- [Motion &lpar;YC W20&rpar; Is Hiring a Quant Algo Developer](https://jobs.ashbyhq.com/motion/81dfecd7-a15b-424b-8fa2-3704dbacae7a?utm_source=hn)
-- [Incredibly Ambitious SMB 3 Hack Released After 12 Years](https://marioadventure3.com/)
-- [Nextcloud: Open-Source Cloud Apps](https://nextcloud.com/)
+- [Sieve &lpar;YC W22&rpar; Is Hiring Engineers to Build Video AI Tools](https://www.sievedata.com/)
+- [A Bay Area boy was kidnapped from a park in 1951. He&#39;s just been found alive](https://www.sfgate.com/bayarea/article/bay-area-boy-kidnapped-park-found-alive-19784249.php)
+- [Kelsey Hightower: If governments rely on FOSS, they should fund it](https://www.theregister.com/2024/09/19/kelsey_hightower_civo/)
+- [Ask HN: How do I find my co-founder?](https://news.ycombinator.com/item?id=41617669)
+- [&#39;I Don&#39;t Want to Die.&#39; He needed mental health care. He found a ghost network](https://www.npr.org/sections/shots-health-news/2024/09/21/nx-s1-5120543/mental-health-care-parity-insurance-ghost-network)
 <!-- BLOG-POST-LIST:END -->
 
 ---
