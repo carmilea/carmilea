@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Honey, YouTubers Are Poisoning the Kids](https://www.trend-mill.com/p/honey-youtubers-are-poisoning-the)
+- [It&#39;s Time to Bring Back the iPod](https://www.nightwater.email/ipod/)
+- [Calgary community turns to restrictive covenants with blanket rezoning in effect](https://www.cbc.ca/news/canada/calgary/restrictive-covenants-lake-bonavista-1.7327475)
+- [The Intelligence Age](https://ia.samaltman.com/)
+- [Launch HN: Panora &lpar;YC S24&rpar; – Data Integration API for LLMs](https://github.com/panoratech/Panora)
 - [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
-- [Free-Form Floor Plan Design Using Differentiable Voronoi Diagram](https://github.com/nobuyuki83/floor_plan)
-- [Show HN: Interactive map of the convenience store &quot;turf war&quot; in Japan](https://conbini.kikkia.dev)
-- [Cloudflare&#39;s new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
