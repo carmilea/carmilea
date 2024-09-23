@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anime Is Eating the World](https://a16z.com/anime-is-eating-the-world/)
+- [Two in three shoppers won&#39;t buy products in locked display cases](https://www.retailbrew.com/stories/2024/09/23/two-in-three-shoppers-won-t-buy-products-in-locked-display-cases)
+- [Storing RSA Private Keys in DNS TXT Records?](https://reconwave.com/blog/post/storing-private-keys-in-txt-dns)
+- [Inside a Ferroelectric RAM Chip](http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html)
+- [Anime is eating the world](https://a16z.com/anime-is-eating-the-world/)
 - [Telegram will now hand over phone number and IP for criminal suspects](https://www.theverge.com/2024/9/23/24252276/telegram-disclose-user-data-legal-requests-criminal-activity)
-- [In 1870, Lord Rayleigh used oil and water to calculate the size of molecules](https://www.atomsonly.news/p/franklin-oil)
-- [Developing a go bot embedding ichiban Prolog](https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/)
-- [Show HN: I Wrote a Book on Java](https://news.ycombinator.com/item?id=41629377)
 <!-- BLOG-POST-LIST:END -->
 
 ---
