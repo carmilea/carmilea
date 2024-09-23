@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anime Is Eating the World](https://a16z.com/anime-is-eating-the-world/)
+- [Telegram will now hand over phone number and IP for criminal suspects](https://www.theverge.com/2024/9/23/24252276/telegram-disclose-user-data-legal-requests-criminal-activity)
+- [In 1870, Lord Rayleigh used oil and water to calculate the size of molecules](https://www.atomsonly.news/p/franklin-oil)
+- [Developing a go bot embedding ichiban Prolog](https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/)
 - [Show HN: I Wrote a Book on Java](https://news.ycombinator.com/item?id=41629377)
-- [The Intelligence Age](https://ia.samaltman.com/)
-- [Launch HN: Panora &lpar;YC S24&rpar; – Data Integration API for LLMs](https://github.com/panoratech/Panora)
-- [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
-- [Free-Form Floor Plan Design Using Differentiable Voronoi Diagram](https://github.com/nobuyuki83/floor_plan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
