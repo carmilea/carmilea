@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Crypto Wars: Hungarian Presidency continues fight against encryption](https://www.heise.de/en/news/Crypto-Wars-Hungarian-Presidency-continues-fight-against-encryption-9939732.html)
 - [Teenager jailed for 18 months still in prison 18 years](https://www.independent.co.uk/news/uk/crime/ipp-sentence-luke-ings-mcdonalds-prison-b2601321.html)
-- [Plagiarism Claims Are Brought Against University of Maryland&#39;s President](https://www.nytimes.com/2024/09/20/us/plagiarism-university-of-maryland-president-darryll-pines.html)
 - [London saw a surprising benefit to ultra-low emissions zone: More active kids](https://grist.org/cities/london-fining-polluting-cars-more-active-kids/)
 - [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR](https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/)
+- [Super Useful Chrome Plugins for Front-End Developers](https://jsdevspace.substack.com/p/13-super-useful-chrome-plugins-for)
 <!-- BLOG-POST-LIST:END -->
 
 ---
