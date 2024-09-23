@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhone 16 is much easier to repair](https://www.engadget.com/mobile/smartphones/see-the-iphone-16s-game-changing-battery-removal-process-in-new-ifixit-teardown-213911136.html)
+- [Qocker is a user-friendly Qt GUI application for managing Docker containers](https://github.com/xlmnxp/Qocker)
 - [A terrible way to jump into colocating your own stuff](http://rachelbythebay.com/w/2024/09/22/colo/)
-- [The Elite&#39;s War on Remote Work Has Nothing to Do with Productivity](https://www.the-sentinel-intelligence.com/p/heres-why-they-want-you-back-at-the-office-so-bad)
+- [The war on remote work has nothing to do with productivity](https://www.the-sentinel-intelligence.com/p/heres-why-they-want-you-back-at-the-office-so-bad)
 - [What&#39;s inside the QR code menu at this cafe?](https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at)
-- [Ask HN: Create an app that sends an email with some text](https://news.ycombinator.com/item?id=41622390)
-- [One Year of Rust in Production](https://yieldcode.blog/post/one-year-of-rust-in-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
