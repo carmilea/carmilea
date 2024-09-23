@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s Time to Bring Back the iPod](https://www.nightwater.email/ipod/)
-- [Calgary community turns to restrictive covenants with blanket rezoning in effect](https://www.cbc.ca/news/canada/calgary/restrictive-covenants-lake-bonavista-1.7327475)
+- [Show HN: I Wrote a Book on Java](https://news.ycombinator.com/item?id=41629377)
 - [The Intelligence Age](https://ia.samaltman.com/)
 - [Launch HN: Panora &lpar;YC S24&rpar; – Data Integration API for LLMs](https://github.com/panoratech/Panora)
 - [What, Me Worry? The Art and Humor of Mad Magazine](https://www.nrm.org/2024/08/mad/)
+- [Free-Form Floor Plan Design Using Differentiable Voronoi Diagram](https://github.com/nobuyuki83/floor_plan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
