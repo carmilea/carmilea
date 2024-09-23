@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Court orders Google to uninstall pirate IPTV app sideloaded on Android devices](https://torrentfreak.com/court-orders-google-to-uninstall-pirate-iptv-app-sideloaded-on-android-devices-240923/)
+- [Cloudflare&#39;s new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
+- [Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps](https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0)
+- [Linux Preparing Support for the RISC-V Framework Laptop 13](https://www.phoronix.com/news/Linux-DT-Framework-13-RISC-V)
+- [Table Extraction Using LLMs](https://nanonets.com/blog/table-extraction-using-llms-unlocking-structured-data-from-documents/)
 - [Dot &lpar;YC S21&rpar; Is Hiring an Engineer to Automate Analytics &lpar;Remote&rpar;](https://www.ycombinator.com/companies/dot/jobs/VdiEzXq-founding-engineer-ai-analytics-remote)
-- [Autocracy and Stagnation: How Imperial Exams Shaped China&#39;s Destiny](https://www.chinatalk.media/p/autocracy-and-stagnation-how-imperial)
-- [How the iPhone 16&#39;s electrically-released adhesive works](https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16)
-- [Qocker is a user-friendly Qt GUI application for managing Docker containers](https://github.com/xlmnxp/Qocker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
