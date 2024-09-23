@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS claims its cloud faces competition from on-premises IT](https://www.theregister.com/2024/09/17/aws_cma_investigation/)
+- [Hinkley Point C: Building Britain&#39;s first nuclear reactor in 30 years](https://www.building.co.uk/buildings/hinkley-point-c-building-britains-first-nuclear-reactor-in-30-years/5130997.article)
 - [How the iPhone 16&#39;s electrically-released adhesive works](https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16)
-- [iPhone 16 is much easier to repair](https://www.engadget.com/mobile/smartphones/see-the-iphone-16s-game-changing-battery-removal-process-in-new-ifixit-teardown-213911136.html)
 - [Qocker is a user-friendly Qt GUI application for managing Docker containers](https://github.com/xlmnxp/Qocker)
 - [A terrible way to jump into colocating your own stuff](http://rachelbythebay.com/w/2024/09/22/colo/)
-- [What&#39;s inside the QR code menu at this cafe?](https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at)
 <!-- BLOG-POST-LIST:END -->
 
 ---
