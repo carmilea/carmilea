@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ephemeral IDs: a new tool for fraud detection](https://blog.cloudflare.com/turnstile-ephemeral-ids-for-fraud-detection/)
+- [Free-Form Floor Plan Design Using Differentiable Voronoi Diagram](https://github.com/nobuyuki83/floor_plan)
+- [Ever wonder how crooks get the credentials to unlock stolen phones?](https://arstechnica.com/security/2024/09/cops-bust-website-crooks-used-to-unlock-1-2-million-stolen-mobile-phones/)
+- [IBM and NASA Release OS Model for Weather and Climate Applications](https://newsroom.ibm.com/2024-09-23-ibm-and-nasa-release-open-source-ai-model-on-hugging-face-for-weather-and-climate-applications)
 - [Show HN: Interactive map of the convenience store &quot;turf war&quot; in Japan](https://conbini.kikkia.dev)
 - [Cloudflare&#39;s new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
-- [Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps](https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0)
-- [Dot &lpar;YC S21&rpar; Is Hiring an Engineer to Automate Analytics &lpar;Remote&rpar;](https://www.ycombinator.com/companies/dot/jobs/VdiEzXq-founding-engineer-ai-analytics-remote)
 <!-- BLOG-POST-LIST:END -->
 
 ---
