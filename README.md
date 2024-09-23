@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto scammers hack OpenAI&#39;s press account on X](https://techcrunch.com/2024/09/23/crypto-scammers-hack-openais-press-account-on-x/)
+- [iPhone 16 Pro Storage Expansion 128GB to 1TB [video]](https://www.youtube.com/watch?v=KRRNR4HyYaw)
 - [Major Toronto Utility Company Stores Customers&#39; Passwords in Plain Text](https://old.reddit.com/r/toronto/comments/1fnqw0c/psa_toronto_hydro_is_able_to_see_your_login/)
 - [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
 - [Averaging is a convenient fiction of neuroscience](https://www.thetransmitter.org/neural-coding/averaging-is-a-convenient-fiction-of-neuroscience/)
-- [How To Stream Real-Time Data Into SingleStore From Estuary Flow with Dekaf](https://www.singlestore.com/blog/stream-real-time-data-singlestore-estuary-flow-with-dekaf)
-- [Inside a Ferroelectric RAM Chip](http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
