@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A tool to analyze Hacker News sentiment on any term in seconds](https://classysoftware.io/chat-analysis/)
-- [Uber charges more if you have credits in your account](https://viewfromthewing.com/uber-caught-overcharging-how-having-credits-in-your-account-might-be-costing-you/)
-- [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions)
-- [LinkedIn does not use European users&#39; data for training its AI](https://www.techradar.com/pro/security/the-linkedin-ai-saga-shows-us-the-need-for-eu-like-privacy-regulations)
-- [Desktop Windowing on Android Tablets](https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html)
+- [Crypto Wars: Hungarian Presidency continues fight against encryption](https://www.heise.de/en/news/Crypto-Wars-Hungarian-Presidency-continues-fight-against-encryption-9939732.html)
+- [Teenager jailed for 18 months still in prison 18 years](https://www.independent.co.uk/news/uk/crime/ipp-sentence-luke-ings-mcdonalds-prison-b2601321.html)
+- [Plagiarism Claims Are Brought Against University of Maryland&#39;s President](https://www.nytimes.com/2024/09/20/us/plagiarism-university-of-maryland-president-darryll-pines.html)
+- [London saw a surprising benefit to ultra-low emissions zone: More active kids](https://grist.org/cities/london-fining-polluting-cars-more-active-kids/)
+- [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR](https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
