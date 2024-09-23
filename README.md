@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Court orders Google to uninstall pirate IPTV app sideloaded on Android devices](https://torrentfreak.com/court-orders-google-to-uninstall-pirate-iptv-app-sideloaded-on-android-devices-240923/)
 - [Dot &lpar;YC S21&rpar; Is Hiring an Engineer to Automate Analytics &lpar;Remote&rpar;](https://www.ycombinator.com/companies/dot/jobs/VdiEzXq-founding-engineer-ai-analytics-remote)
-- [Guiding principles: How US dietary guidelines contribute to obesity](https://thehill.com/opinion/4891813-robert-kennedy-jr-chronic-disease/)
+- [Autocracy and Stagnation: How Imperial Exams Shaped China&#39;s Destiny](https://www.chinatalk.media/p/autocracy-and-stagnation-how-imperial)
 - [How the iPhone 16&#39;s electrically-released adhesive works](https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16)
 - [Qocker is a user-friendly Qt GUI application for managing Docker containers](https://github.com/xlmnxp/Qocker)
-- [A terrible way to jump into colocating your own stuff](http://rachelbythebay.com/w/2024/09/22/colo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
