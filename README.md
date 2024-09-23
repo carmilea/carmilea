@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [London saw a surprising benefit to ultra-low emissions zone: More active kids](https://grist.org/cities/london-fining-polluting-cars-more-active-kids/)
-- [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR](https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/)
-- [Super Useful Chrome Plugins for Front-End Developers](https://jsdevspace.substack.com/p/13-super-useful-chrome-plugins-for)
-- [Linear Mobile – Available for iOS and Android](https://linear.app/mobile)
-- [Why do BIC pens have a hole in the lid? &lpar;2016&rpar;](https://www.independent.co.uk/life-style/why-do-bic-pens-have-a-hole-in-their-lid-to-stop-choking-a6856061.html)
+- [A terrible way to jump into colocating your own stuff](http://rachelbythebay.com/w/2024/09/22/colo/)
+- [The Elite&#39;s War on Remote Work Has Nothing to Do with Productivity](https://www.the-sentinel-intelligence.com/p/heres-why-they-want-you-back-at-the-office-so-bad)
+- [What&#39;s inside the QR code menu at this cafe?](https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at)
+- [Ask HN: Create an app that sends an email with some text](https://news.ycombinator.com/item?id=41622390)
+- [One Year of Rust in Production](https://yieldcode.blog/post/one-year-of-rust-in-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
