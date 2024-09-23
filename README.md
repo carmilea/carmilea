@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the iPhone 16&#39;s electrically-released adhesive works](https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16)
 - [iPhone 16 is much easier to repair](https://www.engadget.com/mobile/smartphones/see-the-iphone-16s-game-changing-battery-removal-process-in-new-ifixit-teardown-213911136.html)
 - [Qocker is a user-friendly Qt GUI application for managing Docker containers](https://github.com/xlmnxp/Qocker)
 - [A terrible way to jump into colocating your own stuff](http://rachelbythebay.com/w/2024/09/22/colo/)
-- [The war on remote work has nothing to do with productivity](https://www.the-sentinel-intelligence.com/p/heres-why-they-want-you-back-at-the-office-so-bad)
 - [What&#39;s inside the QR code menu at this cafe?](https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at)
 <!-- BLOG-POST-LIST:END -->
 
