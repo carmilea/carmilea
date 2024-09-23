@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon says workers must be in the office. The UK government disagrees](https://www.bbc.co.uk/news/articles/cden9y37e6ro)
 - [AWS claims its cloud faces competition from on-premises IT](https://www.theregister.com/2024/09/17/aws_cma_investigation/)
 - [Hinkley Point C: Building Britain&#39;s first nuclear reactor in 30 years](https://www.building.co.uk/buildings/hinkley-point-c-building-britains-first-nuclear-reactor-in-30-years/5130997.article)
 - [How the iPhone 16&#39;s electrically-released adhesive works](https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16)
 - [Qocker is a user-friendly Qt GUI application for managing Docker containers](https://github.com/xlmnxp/Qocker)
-- [A terrible way to jump into colocating your own stuff](http://rachelbythebay.com/w/2024/09/22/colo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
