@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Natural Gas Company Said It Was Going Green but Still Sells as Much Fossil Fuel](https://www.propublica.org/article/nw-natural-gas-oregon-fossil-fuel)
+- [Launch HN: Modern Realty &lpar;YC S24&rpar; – AI Real Estate Agent for Home Buyers](https://news.ycombinator.com/item?id=41638199)
+- [Two new Gemini models, reduced 1.5 Pro pricing, increased rate limits, and more](https://developers.googleblog.com/en/updated-production-ready-gemini-models-reduced-15-pro-pricing-increased-rate-limits-and-more/)
 - [Winamp Legacy player source code](https://github.com/WinampDesktop/winamp)
 - [OpenBSD now enforcing no invalid NUL characters in shell scripts](https://www.undeadly.org/cgi?action=article;sid=20240924105732)
 - [Giving T cells extra batteries supercharges them against cancer](https://newatlas.com/cancer/cancer-immunotherapy-t-cells-extra-batteries-supercharges/)
-- [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
