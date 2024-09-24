@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Winamp Legacy player source code is now open](https://github.com/WinampDesktop/winamp)
 - [Evan Prodromou Launches the Social Web Foundation](https://wedistribute.org/2024/09/social-web-foundation-launch/)
+- [Blue Origin has ignited an orbital rocket stage](https://arstechnica.com/space/2024/09/blue-origin-completes-second-stage-hot-fire-test-of-large-new-rocket/)
 - [OpenBSD now enforcing no invalid NUL characters in shell scripts](https://www.undeadly.org/cgi?action=article;sid=20240924105732)
-- [Halide rejected from App Store because it doesn&#39;t explain why it takes photos](https://9to5mac.com/2024/09/24/halide-rejected-from-the-app-store-because-it-doesnt-explain-why-the-camera-takes-photos/)
 - [Several people detained in Switzerland over death in a &#39;suicide capsule&#39;](https://apnews.com/article/switzerland-suicide-capsule-people-detained-06d38d708d8b8b4b771bb2df047adfd0)
-- [Giving T cells extra batteries supercharges them against cancer](https://newatlas.com/cancer/cancer-immunotherapy-t-cells-extra-batteries-supercharges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
