@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [45 years ago CompuServe connected the world before the World Wide Web](https://www.wosu.org/2024-09-24/45-years-ago-compuserve-connected-the-world-before-the-world-wide-web)
+- [Euripedes Unbound](https://www.lrb.co.uk/the-paper/v46/n18/robert-cioffi/euripides-unbound)
+- [GSoC&#39;24: Differentiable Logic for Interactive Systems and Generative Music](https://ijc8.me/2024/08/26/gsoc-difflogic/)
 - [Launch HN: Modern Realty &lpar;YC S24&rpar; – AI Real Estate Agent for Home Buyers](https://news.ycombinator.com/item?id=41638199)
 - [Two new Gemini models, reduced 1.5 Pro pricing, increased rate limits, and more](https://developers.googleblog.com/en/updated-production-ready-gemini-models-reduced-15-pro-pricing-increased-rate-limits-and-more/)
-- [Winamp Legacy player source code](https://github.com/WinampDesktop/winamp)
-- [OpenBSD now enforcing no invalid NUL characters in shell scripts](https://www.undeadly.org/cgi?action=article;sid=20240924105732)
-- [Giving T cells extra batteries supercharges them against cancer](https://newatlas.com/cancer/cancer-immunotherapy-t-cells-extra-batteries-supercharges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
