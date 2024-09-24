@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel&#39;s Core Ultra 2 Chip Posts Nearly 24-Hour Battery Life in Lunar Lake](https://www.pcmag.com/news/lunar-lake-first-tests-intels-ai-ready-core-ultra-2-chip-posts-nearly-24)
+- [DOJ accuses Visa of debit network monopoly, impacts price of &#39;nearly everything&#39;](https://www.cnbc.com/2024/09/24/doj-accuses-visa-of-debit-network-monopoly-that-impacts-price-of-nearly-everything.html)
+- [&quot;Creounity Time Machine&quot;, the universal date converter for coin collectors](https://creounity.com/apps/time_machine/index.php?go=&lang=en)
 - [45 years ago CompuServe connected the world before the World Wide Web](https://www.wosu.org/2024-09-24/45-years-ago-compuserve-connected-the-world-before-the-world-wide-web)
 - [Euripedes Unbound](https://www.lrb.co.uk/the-paper/v46/n18/robert-cioffi/euripides-unbound)
-- [GSoC&#39;24: Differentiable Logic for Interactive Systems and Generative Music](https://ijc8.me/2024/08/26/gsoc-difflogic/)
-- [Launch HN: Modern Realty &lpar;YC S24&rpar; – AI Real Estate Agent for Home Buyers](https://news.ycombinator.com/item?id=41638199)
-- [Two new Gemini models, reduced 1.5 Pro pricing, increased rate limits, and more](https://developers.googleblog.com/en/updated-production-ready-gemini-models-reduced-15-pro-pricing-increased-rate-limits-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
