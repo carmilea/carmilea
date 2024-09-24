@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [WP Engine sent &quot;cease and desist&quot; letter to Automattic](https://twitter.com/wpengine/status/1838350670564377051)
-- [Scientists Propose Groundbreaking Method to Detect Single Gravitons](https://scitechdaily.com/thought-to-be-impossible-scientists-propose-groundbreaking-method-to-detect-single-gravitons/)
-- [Bill limits smartphone use in California schools](https://www.gov.ca.gov/2024/09/23/governor-newsom-signs-legislation-to-limit-the-use-of-smartphones-during-school-hours/)
-- [Crypto scammers hack OpenAI&#39;s press account on X](https://techcrunch.com/2024/09/23/crypto-scammers-hack-openais-press-account-on-x/)
 - [iPhone 16 Pro Storage Expansion 128GB to 1TB [video]](https://www.youtube.com/watch?v=KRRNR4HyYaw)
+- [Telegram Removes Z-Library Posts &#39;Due to Copyright Infringement&#39;](https://torrentfreak.com/telegram-removes-z-library-posts-due-to-copyright-infringement-240923/)
+- [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
+- [Averaging is a convenient fiction of neuroscience](https://www.thetransmitter.org/neural-coding/averaging-is-a-convenient-fiction-of-neuroscience/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
