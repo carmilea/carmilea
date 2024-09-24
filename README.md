@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Winamp Legacy player source code is now open](https://github.com/WinampDesktop/winamp)
-- [Evan Prodromou Launches the Social Web Foundation](https://wedistribute.org/2024/09/social-web-foundation-launch/)
-- [Blue Origin has ignited an orbital rocket stage](https://arstechnica.com/space/2024/09/blue-origin-completes-second-stage-hot-fire-test-of-large-new-rocket/)
+- [Natural Gas Company Said It Was Going Green but Still Sells as Much Fossil Fuel](https://www.propublica.org/article/nw-natural-gas-oregon-fossil-fuel)
+- [Winamp Legacy player source code](https://github.com/WinampDesktop/winamp)
 - [OpenBSD now enforcing no invalid NUL characters in shell scripts](https://www.undeadly.org/cgi?action=article;sid=20240924105732)
-- [Several people detained in Switzerland over death in a &#39;suicide capsule&#39;](https://apnews.com/article/switzerland-suicide-capsule-people-detained-06d38d708d8b8b4b771bb2df047adfd0)
+- [Giving T cells extra batteries supercharges them against cancer](https://newatlas.com/cancer/cancer-immunotherapy-t-cells-extra-batteries-supercharges/)
+- [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
