@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Radioactive Tape Dispenser &lpar;1970s&rpar;](https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html)
 - [Nintendo has filed a new 24GHz wireless device with the FCC](https://www.theverge.com/2024/9/23/24251736/nintendo-mmwave-device-24ghz-fcc-filing)
+- [Linux boots in 4,76 days on Intel 4004](https://arstechnica.com/gadgets/2024/09/hacker-boots-linux-on-intels-first-ever-cpu/)
 - [Carpentopod, a 12-legged walking wooden table that can serve drinks or snacks](https://www.designboom.com/technology/carpentopod-12-legged-walking-wooden-table-giliam-de-carpentier-09-20-2024/)
 - [GUI Examples – Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
-- [3D-Stacked CMOS Takes Moore&#39;s Law to New Heights](https://spectrum.ieee.org/3d-cmos)
-- [It&#39;s Now Officially Illegal to Use AI to Impersonate a Human Actor in Hollywood](https://futurism.com/the-byte/california-illegal-ai-impersonate-actor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
