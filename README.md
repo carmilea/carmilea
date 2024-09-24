@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Passkey Privacy Issues](https://lapcatsoftware.com/articles/2024/8/8.html)
+- [Jetstream: Shrinking the AT Protocol Firehose by &gt;99%](https://jazco.dev/2024/09/24/jetstream/)
 - [Fully documented source code for Lander on the Acorn Archimedes](https://lander.bbcelite.com/)
-- [&#39;Places to heal, not to harm&#39;: brutal prison design kills off hope](https://www.theguardian.com/society/2024/sep/24/places-to-heal-not-to-harm-why-brutal-prison-design-kills-off-hope)
-- [Radioactive Tape Dispenser &lpar;1970s&rpar;](https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html)
-- [Linux boots in 4,76 days on Intel 4004](https://arstechnica.com/gadgets/2024/09/hacker-boots-linux-on-intels-first-ever-cpu/)
-- [Carpentopod, a 12-legged walking wooden table that can serve drinks or snacks](https://www.designboom.com/technology/carpentopod-12-legged-walking-wooden-table-giliam-de-carpentier-09-20-2024/)
+- [Show HN: An expression parser supporting multiple types](https://github.com/torrentg/expr)
+- [The Quest to Build a Telescope on the Moon](https://www.newyorker.com/science/elements/the-quest-to-build-a-telescope-on-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
