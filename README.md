@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the route: Introducing granular MTA bus speed data](https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data)
-- [Death of the Department Store](https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs)
-- [DOJ accuses Visa of debit network monopoly, impacts price of &#39;nearly everything&#39;](https://www.cnbc.com/2024/09/24/doj-accuses-visa-of-debit-network-monopoly-that-impacts-price-of-nearly-everything.html)
-- [&quot;Creounity Time Machine&quot;, the universal date converter for coin collectors](https://creounity.com/apps/time_machine/index.php?go=&lang=en)
-- [45 years ago CompuServe connected the world before the World Wide Web](https://www.wosu.org/2024-09-24/45-years-ago-compuserve-connected-the-world-before-the-world-wide-web)
+- [Google Cache Is Fully Dead](https://www.seroundtable.com/google-cache-dead-38112.html)
+- [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md)
+- [Caroline Ellison, Star Witness at FTX Trial, Is Sentenced to 2 Years in Prison](https://www.nytimes.com/2024/09/24/technology/caroline-ellison-ftx-sentence.html)
+- [Galilean Moons and Determination of Longitude](https://en.wikipedia.org/wiki/Galilean_moons)
+- [My Camera Will Never Overheat Again [video]](https://www.youtube.com/watch?v=IpzBdVeJ_jo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
