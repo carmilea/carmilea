@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X will soon make your public posts visible to accounts you&#39;ve blocked](https://techcrunch.com/2024/09/23/x-will-soon-make-your-public-posts-visible-to-accounts-youve-blocked/)
 - [Colocation: Non-Clown Hosting](http://rachelbythebay.com/w/2024/09/23/colo/)
 - [An AI Event Hired John Mulaney to Do a Comedy Set and He Brutally Roasted Them O](https://futurism.com/the-byte/salesforce-ai-john-mulaney-mocked)
 - [Typhoid spreads in Pakistan as antibiotics fail](https://www.theguardian.com/global-development/2024/sep/24/drug-resistant-typhoid-disease-pakistan-antibiotics-superbugs-children)
 - [Maker Pipe – Structural Pipe Fittings for DIY Builders](https://makerpipe.com/)
-- [EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer](https://haidog-yaqub.github.io/EzAudio-Page/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
