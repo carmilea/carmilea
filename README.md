@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [X will soon make your public posts visible to accounts you&#39;ve blocked](https://techcrunch.com/2024/09/23/x-will-soon-make-your-public-posts-visible-to-accounts-youve-blocked/)
-- [Colocation: Non-Clown Hosting](http://rachelbythebay.com/w/2024/09/23/colo/)
-- [An AI Event Hired John Mulaney to Do a Comedy Set and He Brutally Roasted Them O](https://futurism.com/the-byte/salesforce-ai-john-mulaney-mocked)
-- [Typhoid spreads in Pakistan as antibiotics fail](https://www.theguardian.com/global-development/2024/sep/24/drug-resistant-typhoid-disease-pakistan-antibiotics-superbugs-children)
-- [Maker Pipe – Structural Pipe Fittings for DIY Builders](https://makerpipe.com/)
+- [Nintendo has filed a new 24GHz wireless device with the FCC](https://www.theverge.com/2024/9/23/24251736/nintendo-mmwave-device-24ghz-fcc-filing)
+- [Carpentopod, a 12-legged walking wooden table that can serve drinks or snacks](https://www.designboom.com/technology/carpentopod-12-legged-walking-wooden-table-giliam-de-carpentier-09-20-2024/)
+- [GUI Examples – Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
+- [3D-Stacked CMOS Takes Moore&#39;s Law to New Heights](https://spectrum.ieee.org/3d-cmos)
+- [It&#39;s Now Officially Illegal to Use AI to Impersonate a Human Actor in Hollywood](https://futurism.com/the-byte/california-illegal-ai-impersonate-actor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
