@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How 12,000 Tonnes of Dumped Orange Peel Grew in a Desert](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
+- [Dumped orange peel transformed a barren pasture &lpar;2017&rpar;](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
+- [Why is F# code so robust and reliable?](https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable/)
 - [WP Engine sent &quot;cease and desist&quot; letter to Automattic](https://twitter.com/wpengine/status/1838350670564377051)
 - [iPhone 16 Pro Storage Expansion 128GB to 1TB [video]](https://www.youtube.com/watch?v=KRRNR4HyYaw)
-- [Telegram Removes Z-Library Posts &#39;Due to Copyright Infringement&#39;](https://torrentfreak.com/telegram-removes-z-library-posts-due-to-copyright-infringement-240923/)
 - [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
 <!-- BLOG-POST-LIST:END -->
 
