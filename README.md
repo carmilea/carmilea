@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evan Prodromou Launches the Social Web Foundation](https://wedistribute.org/2024/09/social-web-foundation-launch/)
+- [OpenBSD now enforcing no invalid NUL characters in shell scripts](https://www.undeadly.org/cgi?action=article;sid=20240924105732)
 - [Halide rejected from App Store because it doesn&#39;t explain why it takes photos](https://9to5mac.com/2024/09/24/halide-rejected-from-the-app-store-because-it-doesnt-explain-why-the-camera-takes-photos/)
+- [Several people detained in Switzerland over death in a &#39;suicide capsule&#39;](https://apnews.com/article/switzerland-suicide-capsule-people-detained-06d38d708d8b8b4b771bb2df047adfd0)
 - [Giving T cells extra batteries supercharges them against cancer](https://newatlas.com/cancer/cancer-immunotherapy-t-cells-extra-batteries-supercharges/)
-- [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
-- [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html)
-- [Jetstream: Shrinking the AT Protocol Firehose by &gt;99%](https://jazco.dev/2024/09/24/jetstream/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
