@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microprogramming: A New Way to Program](https://breckyunits.com/microprograms.html)
+- [A new semantic chunking approach for RAG](https://gpt3experiments.substack.com/p/a-new-chunking-approach-to-rag)
+- [Insights after 11 years with Datomic [video]](https://www.youtube.com/watch?v=YSgTQzHYeLU)
+- [XBill for PalmOS receives an update after 25 years](https://ctrl-c.club/~captain/posts/2024-09-24-xbill-for-palmos-receives-an-update-after-25-years.html)
 - [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
 - [Committing to Rust in the Kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/)
-- [Show HN: Hosting my website using my own C web server](https://github.com/cozis/blogtech)
-- [Mkbsd: Download all the wallpapers in MKBHD&#39;s &quot;Panels&quot; app for free](https://github.com/nadimkobeissi/mkbsd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
