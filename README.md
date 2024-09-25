@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New California law requires one-click subscription cancellations](https://thedesk.net/2024/09/california-one-click-subscription-cancellation-law/)
+- [Gnome 47 Wallpapers](https://blog.jimmac.eu/2024/wallpapers/)
 - [Firefox tracks you with &quot;privacy preserving&quot; feature](https://noyb.eu/en/firefox-tracks-you-privacy-preserving-feature)
-- [Missouri executes a man despite prosecutors&#39; push to overturn conviction](https://www.theguardian.com/us-news/2024/sep/24/missouri-executes-marcellus-williams)
 - [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
 - [NIST to forbid requirement of specific passwords character composition](https://mastodon.social/@LukaszOlejnik/113193089731407165)
-- [Doom on a modified rotary phone](https://tamulaitis.lt/project/dialrhea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
