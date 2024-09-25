@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Orion, Our First True Augmented Reality Glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
+- [How to Hack the Breakthrough Prize &lpar;Ft. Session Confusion&rpar;](https://varun.ch/breakthrough)
 - [Hamming AI &lpar;YC S24&rpar; Is Hiring a Founding Engineer in SF](https://www.ycombinator.com/companies/hamming-ai/jobs/vkR1ijZ-founding-engineer)
 - [Operator algebras and the substructure of space and time](https://www.quantamagazine.org/if-the-universe-is-a-hologram-this-long-forgotten-math-could-decode-it-20240925/)
-- [Timeshare Owner? The Mexican Drug Cartels Want You](https://krebsonsecurity.com/2024/09/timeshare-owner-the-mexican-drug-cartels-want-you/)
 - [Show HN: Fast and Exact Algorithm for Image Merging](https://github.com/C-Naoki/image-stitcher)
-- [X11-Basic &lpar;1991-2020&rpar;](https://x11-basic.sourceforge.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
