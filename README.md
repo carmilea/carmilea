@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox tracks you with &quot;privacy preserving&quot; feature](https://noyb.eu/en/firefox-tracks-you-privacy-preserving-feature)
+- [Missouri executes a man despite prosecutors&#39; push to overturn conviction](https://www.theguardian.com/us-news/2024/sep/24/missouri-executes-marcellus-williams)
+- [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
 - [NIST to forbid requirement of specific passwords character composition](https://mastodon.social/@LukaszOlejnik/113193089731407165)
-- [Doom on a Modified Rotary Phone](https://tamulaitis.lt/project/dialrhea/)
-- [SQL Tips and Tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
-- [No more blurry fonts in Linux](https://blog.aktsbot.in/no-more-blurry-fonts.html)
-- [A new semantic chunking approach for RAG](https://gpt3experiments.substack.com/p/a-new-chunking-approach-to-rag)
+- [Doom on a modified rotary phone](https://tamulaitis.lt/project/dialrhea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
