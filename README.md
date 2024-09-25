@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine learning reveals factors for successful crowdfunding](https://phys.org/news/2024-09-sweet-machine-reveals-factors-successful.html)
+- [OpenAI rolls out Advanced Voice Mode with more voices and a new look](https://techcrunch.com/2024/09/24/openai-rolls-out-advanced-voice-mode-with-more-voices-and-a-new-look/)
 - [Social Web Foundation launches, supported by Vivaldi](https://vivaldi.com/blog/social-web-foundation-launches-supported-by-vivaldi/)
 - [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
 - [Doom on a modified rotary phone](https://tamulaitis.lt/project/dialrhea/)
-- [G, a Statistical Myth &lpar;2007&rpar;](http://bactra.org/weblog/523.html)
-- [Insights after 11 years with Datomic [video]](https://www.youtube.com/watch?v=YSgTQzHYeLU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
