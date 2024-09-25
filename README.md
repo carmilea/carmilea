@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source, Trademarks, and WP Engine](https://automattic.com/2024/09/25/open-source-trademarks-wp-engine/)
+- [Microprogramming: A New Way to Program](https://breckyunits.com/microprograms.html)
+- [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
 - [Committing to Rust in the Kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/)
-- [Drinking 3 cups of coffee linked to preventing multiple diseases](https://studyfinds.org/3-cups-of-coffee-diseases/)
 - [Show HN: Hosting my website using my own C web server](https://github.com/cozis/blogtech)
-- [Deep Dive into Postgres Write-Ahead Logs](https://www.artie.com/blogs/postgres-write-ahead-logs)
+- [Hacker plants false memories in ChatGPT to steal user data in perpetuity](https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
