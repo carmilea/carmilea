@@ -62,7 +62,7 @@
 - [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
 - [Committing to Rust in the Kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/)
 - [Show HN: Hosting my website using my own C web server](https://github.com/cozis/blogtech)
-- [Hacker plants false memories in ChatGPT to steal user data in perpetuity](https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/)
+- [Mkbsd: Download all the wallpapers in MKBHD&#39;s &quot;Panels&quot; app for free](https://github.com/nadimkobeissi/mkbsd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
