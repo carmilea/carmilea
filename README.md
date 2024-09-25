@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Machine learning reveals factors for successful crowdfunding](https://phys.org/news/2024-09-sweet-machine-reveals-factors-successful.html)
-- [OpenAI rolls out Advanced Voice Mode with more voices and a new look](https://techcrunch.com/2024/09/24/openai-rolls-out-advanced-voice-mode-with-more-voices-and-a-new-look/)
-- [Social Web Foundation launches, supported by Vivaldi](https://vivaldi.com/blog/social-web-foundation-launches-supported-by-vivaldi/)
-- [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
-- [Doom on a modified rotary phone](https://tamulaitis.lt/project/dialrhea/)
+- [Who Is Marcellus Williams: Execution in Missouri Despite Evidence of Innocence](https://innocenceproject.org/who-is-marcellus-williams-man-facing-execution-in-missouri-despite-dna-evidence-supporting-innocence/)
+- [Gmail&#39;s blue checkmarks are coming to iOS and Android](https://www.theverge.com/2024/9/25/24253904/gmails-blue-checkmarks-are-coming-to-ios-and-android)
+- [BBC Sound Effects Library](https://sound-effects.bbcrewind.co.uk/search)
+- [Hetzner introduces GPU server for AI training](https://www.hetzner.com/dedicated-rootserver/gex130/)
+- [MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling](https://menyifang.github.io/projects/MIMO/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
