@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hamming AI &lpar;YC S24&rpar; Is Hiring a Founding Engineer in SF](https://www.ycombinator.com/companies/hamming-ai/jobs/vkR1ijZ-founding-engineer)
+- [Operator algebras and the substructure of space and time](https://www.quantamagazine.org/if-the-universe-is-a-hologram-this-long-forgotten-math-could-decode-it-20240925/)
+- [Timeshare Owner? The Mexican Drug Cartels Want You](https://krebsonsecurity.com/2024/09/timeshare-owner-the-mexican-drug-cartels-want-you/)
 - [Show HN: Fast and Exact Algorithm for Image Merging](https://github.com/C-Naoki/image-stitcher)
 - [X11-Basic &lpar;1991-2020&rpar;](https://x11-basic.sourceforge.net)
-- [Capstone Disassembler Framework](https://github.com/capstone-engine/capstone)
-- [Launch HN: Haystack &lpar;YC S24&rpar; – Visualize and edit code on an infinite canvas](https://github.com/haystackeditor/haystack-editor)
-- [System Intiative is generally available](https://www.systeminit.com/blog-system-initiative-is-the-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
