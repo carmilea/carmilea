@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NIST to forbid requirement of specific passwords character composition](https://mastodon.social/@LukaszOlejnik/113193089731407165)
+- [Doom on a Modified Rotary Phone](https://tamulaitis.lt/project/dialrhea/)
+- [SQL Tips and Tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
+- [No more blurry fonts in Linux](https://blog.aktsbot.in/no-more-blurry-fonts.html)
 - [A new semantic chunking approach for RAG](https://gpt3experiments.substack.com/p/a-new-chunking-approach-to-rag)
-- [Insights after 11 years with Datomic [video]](https://www.youtube.com/watch?v=YSgTQzHYeLU)
-- [XBill for PalmOS receives an update after 25 years](https://ctrl-c.club/~captain/posts/2024-09-24-xbill-for-palmos-receives-an-update-after-25-years.html)
-- [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
-- [Committing to Rust in the Kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
