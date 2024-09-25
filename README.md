@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
 - [Doom on a modified rotary phone](https://tamulaitis.lt/project/dialrhea/)
-- [Jupyter Kernel for Deno](https://docs.deno.com/runtime/reference/cli/jupyter/)
 - [G, a Statistical Myth &lpar;2007&rpar;](http://bactra.org/weblog/523.html)
 - [Thoughts on Debugging](https://catskull.net/thoughts-on-debugging.html)
+- [Insights after 11 years with Datomic [video]](https://www.youtube.com/watch?v=YSgTQzHYeLU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
