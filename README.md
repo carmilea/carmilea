@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New California law requires one-click subscription cancellations](https://thedesk.net/2024/09/california-one-click-subscription-cancellation-law/)
-- [Gnome 47 Wallpapers](https://blog.jimmac.eu/2024/wallpapers/)
-- [Firefox tracks you with &quot;privacy preserving&quot; feature](https://noyb.eu/en/firefox-tracks-you-privacy-preserving-feature)
 - [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
-- [NIST to forbid requirement of specific passwords character composition](https://mastodon.social/@LukaszOlejnik/113193089731407165)
+- [Doom on a modified rotary phone](https://tamulaitis.lt/project/dialrhea/)
+- [Jupyter Kernel for Deno](https://docs.deno.com/runtime/reference/cli/jupyter/)
+- [G, a Statistical Myth &lpar;2007&rpar;](http://bactra.org/weblog/523.html)
+- [Thoughts on Debugging](https://catskull.net/thoughts-on-debugging.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
