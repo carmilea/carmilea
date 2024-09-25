@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacker plants false memories in ChatGPT to steal user data in perpetuity](https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/)
-- [Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
-- [$1B Solar and Battery Storage Project Breaks Ground in Utah](https://electrek.co/2024/09/23/a-1-billion-solar-battery-storage-project-just-broke-ground-in-utah/)
-- [Google Cache Is Fully Dead](https://www.seroundtable.com/google-cache-dead-38112.html)
-- [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md)
+- [Open Source, Trademarks, and WP Engine](https://automattic.com/2024/09/25/open-source-trademarks-wp-engine/)
+- [Committing to Rust in the Kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/)
+- [Drinking 3 cups of coffee linked to preventing multiple diseases](https://studyfinds.org/3-cups-of-coffee-diseases/)
+- [Show HN: Hosting my website using my own C web server](https://github.com/cozis/blogtech)
+- [Deep Dive into Postgres Write-Ahead Logs](https://www.artie.com/blogs/postgres-write-ahead-logs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
