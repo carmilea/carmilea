@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mira Exits OpenAI](https://twitter.com/miramurati/status/1839025700009030027)
+- [Cozystack has officially been included in the CNCF Landscape](https://blog.aenix.io/cozystack-has-officially-been-included-in-the-cncf-landscape-07cc60c9e0eb)
+- [Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code](https://github.com/cle-b/httpdbg)
+- [How to avoid a BSOD on your 2B dollar spacecraft](https://clarkwakeland.com/blog/2024/avoiding-a-BSOD-on-your-satellite/)
 - [Orion, Our First True Augmented Reality Glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
-- [Meta Quest 3S](https://www.meta.com/tw/en/quest/quest-3s/)
-- [How to Hack the Breakthrough Prize &lpar;Ft. Session Confusion&rpar;](https://varun.ch/breakthrough)
-- [Hamming AI &lpar;YC S24&rpar; Is Hiring a Founding Engineer in SF](https://www.ycombinator.com/companies/hamming-ai/jobs/vkR1ijZ-founding-engineer)
-- [Operator algebras and the substructure of space and time](https://www.quantamagazine.org/if-the-universe-is-a-hologram-this-long-forgotten-math-could-decode-it-20240925/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
