@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Godot for App Development](http://tiniuc.com/godot-for-apps/)
+- [Audio Masking](https://www.cryptomuseum.com/covert/bugs/masking/)
+- [The Lost Language Extensions of MetaWare&#39;s High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler)
+- [Show HN: Coros – A Modern C++ Library for Task Parallelism](https://github.com/mtmucha/coros)
 - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
-- [Scheduling threads like Thomas Jefferson](https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html)
-- [MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling](https://menyifang.github.io/projects/MIMO/index.html)
-- [Machine learning reveals factors for successful crowdfunding](https://phys.org/news/2024-09-sweet-machine-reveals-factors-successful.html)
+- [US Investigating SAP, Carahsoft for Potential Price-Fixing](https://www.msn.com/en-us/money/other/us-investigating-sap-carahsoft-for-potential-price-fixing/ar-AA1r9LW8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
