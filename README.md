@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Audio Masking](https://www.cryptomuseum.com/covert/bugs/masking/)
-- [The Lost Language Extensions of MetaWare&#39;s High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler)
-- [Show HN: Coros – A Modern C++ Library for Task Parallelism](https://github.com/mtmucha/coros)
-- [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
-- [US Investigating SAP, Carahsoft for Potential Price-Fixing](https://www.msn.com/en-us/money/other/us-investigating-sap-carahsoft-for-potential-price-fixing/ar-AA1r9LW8)
+- [Show HN: Fast and Exact Algorithm for Image Merging](https://github.com/C-Naoki/image-stitcher)
+- [X11-Basic &lpar;1991-2020&rpar;](https://x11-basic.sourceforge.net)
+- [Capstone Disassembler Framework](https://github.com/capstone-engine/capstone)
+- [Launch HN: Haystack &lpar;YC S24&rpar; – Visualize and edit code on an infinite canvas](https://github.com/haystackeditor/haystack-editor)
+- [System Intiative is generally available](https://www.systeminit.com/blog-system-initiative-is-the-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
