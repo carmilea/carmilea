@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Our Android App Is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
+- [Stem cells reverse woman&#39;s diabetes – a world first](https://www.nature.com/articles/d41586-024-03129-3)
+- [A pilot project in universal algebra to explore new ways to collaborate](https://terrytao.wordpress.com/2024/09/25/a-pilot-project-in-universal-algebra-to-explore-new-ways-to-collaborate-and-use-machine-assistance/)
 - [In the Shack with Robert Caro](https://www.curbed.com/article/robert-caro-power-broker-lyndon-johnson-book-interview.html)
 - [End of an era: Landsat 7 mission takes final images](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
-- [Critical Mass and Tipping Points](https://fs.blog/critical-mass/)
-- [Why the U.S. can&#39;t build icebreaking ships](https://www.construction-physics.com/p/why-the-us-cant-build-icebreaking)
-- [FCC Unlocks Spectrum to Support Advanced Satellite Services](https://www.fcc.gov/document/fcc-unlocks-spectrum-support-advanced-satellite-services)
 <!-- BLOG-POST-LIST:END -->
 
 ---
