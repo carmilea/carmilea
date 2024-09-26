@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
-- [Vehicles Could Be Hacked and Tracked Thanks to a Simple Website Bug](https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/)
-- [Poka Labs &lpar;YC S24&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/ao5FevM-founding-engineer)
-- [Supacat MUV: Affordable military vehicle based on Toyota Hilux pick-up truck](https://thedefensepost.com/2024/09/18/supacat-medium-utility-vehicle/)
-- [Italian Music Through the Lens of Complex Networks](https://www.michelecoscia.com/?p=2372)
+- [Rents Fall and Listings Increase After Milei Ends Rent Control in Argentina](https://www.msn.com/en-us/money/realestate/rents-fall-and-listings-increase-after-javier-milei-ends-rent-control-in-argentina/ar-AA1rfZTe)
+- [The Slow, Painful Death of Agile and Jira](https://ehandbook.com/the-slow-painful-death-of-agile-and-jira-c8de04e4269a)
+- [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
+- [Sensorwatch pro – Hackable ARM Cortex M0 brain upgrade for Casio&#39;s iconic F-91W](https://www.crowdsupply.com/oddly-specific-objects/sensor-watch-pro)
+- [Pilots Are Dying of Tiredness. Tech Can&#39;t Save Them](https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
