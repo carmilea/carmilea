@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flexport Is Hiring a Staff Product Designer in SF](https://job-boards.greenhouse.io/flexport/jobs/6270806?gh_jid=6270806)
-- [DoNotPay has to pay $193K for falsely touting untested AI lawyer, FTC says](https://arstechnica.com/tech-policy/2024/09/startup-behind-worlds-first-robot-lawyer-to-pay-193k-for-false-ads-ftc-says/)
-- [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
-- [PostgreSQL 17](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
-- [Vehicles Could Be Hacked and Tracked Thanks to a Simple Website Bug](https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/)
+- [Pirate library must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
+- [From Gatsby gridlock to Astro bliss: my personal site redesign](https://jwn.gr/posts/migrating-from-gatsby-to-astro/)
+- [New standards for a faster and more private Internet](https://blog.cloudflare.com/new-standards/)
+- [Nardwuar on His Best and Worst Interviews](https://www.vulture.com/article/nardwuar-best-worst-interviews.html)
+- [The Holotypic Occlupanid Research Group](http://www.horg.com/horg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
