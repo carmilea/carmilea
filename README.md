@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [WiFi suspended at big UK train stations after &#39;cybersecurity incident&#39;](https://www.theguardian.com/uk-news/2024/sep/26/wifi-suspended-big-uk-train-stations-cybersecurity-incident)
-- [Wordpress.org bans WP Engine, blocks it from accessing its resources](https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/)
-- [Just 5k people use the Rabbit R1 every day](https://www.theverge.com/2024/9/25/24254253/rabbit-r1-5000-daily-users-ai-gadget)
+- [Ask HN: Did you personal website help you get hired? Tell about it](https://news.ycombinator.com/item?id=41656015)
+- [OpenAI to Become For-Profit Company](https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639)
 - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
 - [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
 <!-- BLOG-POST-LIST:END -->
