@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [In the Shack with Robert Caro](https://www.curbed.com/article/robert-caro-power-broker-lyndon-johnson-book-interview.html)
-- [Why the U.S. Can&#39;t Build Icebreaking Ships](https://www.construction-physics.com/p/why-the-us-cant-build-icebreaking)
-- [X &lpar;Twitter&rpar; blocks links to hacked JD Vance dossier](https://www.theverge.com/2024/9/26/24255298/elon-musk-x-blocks-jd-vance-dossier)
+- [End of an era: Landsat 7 mission takes final images](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
+- [Critical Mass and Tipping Points](https://fs.blog/critical-mass/)
+- [Why the U.S. can&#39;t build icebreaking ships](https://www.construction-physics.com/p/why-the-us-cant-build-icebreaking)
 - [FCC Unlocks Spectrum to Support Advanced Satellite Services](https://www.fcc.gov/document/fcc-unlocks-spectrum-support-advanced-satellite-services)
-- [Attacking Unix Systems via Cups, Part I](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
