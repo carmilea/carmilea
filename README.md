@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rents Fall and Listings Increase After Milei Ends Rent Control in Argentina](https://www.msn.com/en-us/money/realestate/rents-fall-and-listings-increase-after-javier-milei-ends-rent-control-in-argentina/ar-AA1rfZTe)
-- [The Slow, Painful Death of Agile and Jira](https://ehandbook.com/the-slow-painful-death-of-agile-and-jira-c8de04e4269a)
+- [Legalizing Sports Gambling Was a Mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
+- [DoNotPay has to pay $193K for falsely touting untested AI lawyer, FTC says](https://arstechnica.com/tech-policy/2024/09/startup-behind-worlds-first-robot-lawyer-to-pay-193k-for-false-ads-ftc-says/)
 - [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
-- [Sensorwatch pro – Hackable ARM Cortex M0 brain upgrade for Casio&#39;s iconic F-91W](https://www.crowdsupply.com/oddly-specific-objects/sensor-watch-pro)
-- [Pilots Are Dying of Tiredness. Tech Can&#39;t Save Them](https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/)
+- [Tesla Full Self Driving requires human intervention every 13 miles](https://arstechnica.com/cars/2024/09/tesla-full-self-driving-requires-human-intervention-every-13-miles/)
+- [PostgreSQL 17](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
