@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nile: PostgreSQL reengineered for multi-tenant apps](https://www.thenile.dev/blog/nile-public-launch)
 - [Poka Labs &lpar;YC S24&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/ao5FevM-founding-engineer)
+- [Italian Music Through the Lens of Complex Networks](https://www.michelecoscia.com/?p=2372)
+- [OpenAI to Become For-Profit Company](https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639)
 - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
-- [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
-- [Register Allocation in the Go Compiler](https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation)
-- [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
