@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Legalizing Sports Gambling Was a Mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
+- [Flexport Is Hiring a Staff Product Designer in SF](https://job-boards.greenhouse.io/flexport/jobs/6270806?gh_jid=6270806)
 - [DoNotPay has to pay $193K for falsely touting untested AI lawyer, FTC says](https://arstechnica.com/tech-policy/2024/09/startup-behind-worlds-first-robot-lawyer-to-pay-193k-for-false-ads-ftc-says/)
 - [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
-- [Tesla Full Self Driving requires human intervention every 13 miles](https://arstechnica.com/cars/2024/09/tesla-full-self-driving-requires-human-intervention-every-13-miles/)
 - [PostgreSQL 17](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
+- [Vehicles Could Be Hacked and Tracked Thanks to a Simple Website Bug](https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
