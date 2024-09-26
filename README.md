@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LG TVs Start Showing Ads on Screensavers](https://arstechnica.com/gadgets/2024/09/lg-tvs-continue-down-advertising-rabbit-hole-with-new-screensaver-ads/)
+- [A new Llama-based model for efficient large-scale voice generation](https://github.com/OpenT2S/LlamaVoice)
 - [Galaxy Buds reportedly exploded in a user&#39;s ear causing permanent hearing loss](https://www.androidpolice.com/exploding-samsung-galaxy-buds-fe/)
 - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
 - [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
