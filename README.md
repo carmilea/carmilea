@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WiFi suspended at big UK train stations after &#39;cybersecurity incident&#39;](https://www.theguardian.com/uk-news/2024/sep/26/wifi-suspended-big-uk-train-stations-cybersecurity-incident)
-- [Ask HN: Did you personal website help you get hired? Tell about it](https://news.ycombinator.com/item?id=41656015)
-- [OpenAI to Become For-Profit Company](https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639)
+- [Poka Labs &lpar;YC S24&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/ao5FevM-founding-engineer)
 - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
 - [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
+- [Register Allocation in the Go Compiler](https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation)
+- [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
