@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FreeBSD](https://www.freebsd.org/status/report-2024-04-2024-06/)
-- [Teacher caught students using ChatGPT on their first assignment. Debate ensues](https://www.businessinsider.com/students-caught-using-chatgpt-ai-assignment-teachers-debate-2024-9)
+- [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
+- [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
 - [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
 - [Scientific rigor proponents retract paper on benefits of scientific rigor](https://www.science.org/content/article/we-are-embarrassed-scientific-rigor-proponents-retract-paper-benefits-scientific-rigor)
 - [Clara &lpar;YC S24&rpar; Is Hiring a Head of Growth](https://www.ycombinator.com/companies/clara/jobs/bB9fgEH-head-of-growth)
