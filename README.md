@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
 - [Clara &lpar;YC S24&rpar; Is Hiring a Head of Growth](https://www.ycombinator.com/companies/clara/jobs/bB9fgEH-head-of-growth)
 - [Mira Murati leaves OpenAI](https://twitter.com/miramurati/status/1839025700009030027)
 - [Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code](https://github.com/cle-b/httpdbg)
 - [Eliminating Memory Safety Vulnerabilities at the Source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
-- [How to avoid a BSOD on your 2B dollar spacecraft](https://clarkwakeland.com/blog/2024/avoiding-a-BSOD-on-your-satellite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
