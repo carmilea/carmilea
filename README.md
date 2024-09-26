@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nile: PostgreSQL reengineered for multi-tenant apps](https://www.thenile.dev/blog/nile-public-launch)
+- [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
+- [Vehicles Could Be Hacked and Tracked Thanks to a Simple Website Bug](https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/)
 - [Poka Labs &lpar;YC S24&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/poka-labs/jobs/ao5FevM-founding-engineer)
+- [Supacat MUV: Affordable military vehicle based on Toyota Hilux pick-up truck](https://thedefensepost.com/2024/09/18/supacat-medium-utility-vehicle/)
 - [Italian Music Through the Lens of Complex Networks](https://www.michelecoscia.com/?p=2372)
-- [OpenAI to Become For-Profit Company](https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639)
-- [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
