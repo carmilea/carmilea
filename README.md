@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Golang – when programmers had smaller egos](https://www.wired.com/story/attention-spoiled-software-engineers-take-a-lesson-from-googles-programming-language/)
+- [The Other Bubble](https://www.wheresyoured.at/saaspocalypse-now/)
+- [Over 300 New &#39;Nazca Lines&#39; Geoglyphs Have Been Revealed by AI](https://thedebrief.org/look-over-300-new-nazca-lines-geoglyphs-have-been-revealed-by-ai/)
+- [Swift/Java interoperability tools and libraries](https://twitter.com/SwiftLang/status/1839328831200809217)
 - [Pirate library must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
-- [From Gatsby gridlock to Astro bliss: my personal site redesign](https://jwn.gr/posts/migrating-from-gatsby-to-astro/)
-- [New standards for a faster and more private Internet](https://blog.cloudflare.com/new-standards/)
-- [Nardwuar on His Best and Worst Interviews](https://www.vulture.com/article/nardwuar-best-worst-interviews.html)
-- [The Holotypic Occlupanid Research Group](http://www.horg.com/horg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
