@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Golang – when programmers had smaller egos](https://www.wired.com/story/attention-spoiled-software-engineers-take-a-lesson-from-googles-programming-language/)
-- [The Other Bubble](https://www.wheresyoured.at/saaspocalypse-now/)
+- [Attacking Unix Systems via Cups, Part I](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
+- [Instagram deleting archived stories, turning old videos into photos](https://twitter.com/IndoPopBase/status/1838858807801155618)
+- [RCE Vulnerability Discovered in Cups](https://gist.github.com/stong/c8847ef27910ae344a7b5408d9840ee1)
+- [Tcl 9.0](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
 - [Over 300 New &#39;Nazca Lines&#39; Geoglyphs Have Been Revealed by AI](https://thedebrief.org/look-over-300-new-nazca-lines-geoglyphs-have-been-revealed-by-ai/)
-- [Swift/Java interoperability tools and libraries](https://twitter.com/SwiftLang/status/1839328831200809217)
-- [Pirate library must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
