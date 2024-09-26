@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In the Shack with Robert Caro](https://www.curbed.com/article/robert-caro-power-broker-lyndon-johnson-book-interview.html)
+- [Why the U.S. Can&#39;t Build Icebreaking Ships](https://www.construction-physics.com/p/why-the-us-cant-build-icebreaking)
+- [X &lpar;Twitter&rpar; blocks links to hacked JD Vance dossier](https://www.theverge.com/2024/9/26/24255298/elon-musk-x-blocks-jd-vance-dossier)
+- [FCC Unlocks Spectrum to Support Advanced Satellite Services](https://www.fcc.gov/document/fcc-unlocks-spectrum-support-advanced-satellite-services)
 - [Attacking Unix Systems via Cups, Part I](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
-- [Instagram deleting archived stories, turning old videos into photos](https://twitter.com/IndoPopBase/status/1838858807801155618)
-- [RCE Vulnerability Discovered in Cups](https://gist.github.com/stong/c8847ef27910ae344a7b5408d9840ee1)
-- [Tcl 9.0](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
-- [Over 300 New &#39;Nazca Lines&#39; Geoglyphs Have Been Revealed by AI](https://thedebrief.org/look-over-300-new-nazca-lines-geoglyphs-have-been-revealed-by-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
