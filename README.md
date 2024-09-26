@@ -61,8 +61,8 @@
 - [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
 - [Scientific rigor proponents retract paper on benefits of scientific rigor](https://www.science.org/content/article/we-are-embarrassed-scientific-rigor-proponents-retract-paper-benefits-scientific-rigor)
 - [Clara &lpar;YC S24&rpar; Is Hiring a Head of Growth](https://www.ycombinator.com/companies/clara/jobs/bB9fgEH-head-of-growth)
-- [Mira Murati leaves OpenAI](https://twitter.com/miramurati/status/1839025700009030027)
 - [Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code](https://github.com/cle-b/httpdbg)
+- [Eliminating Memory Safety Vulnerabilities at the Source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
