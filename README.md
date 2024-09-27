@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: AI Safety projects in need of volunteers](https://www.aisafety.com/projects)
+- [Wikipedia: &quot;Add a Fact&quot; LLM Future Audiences Experiment](https://en.wikipedia.org/wiki/User:DErenrich-WMF/Add_A_Fact_Experiment)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 - [Python for Inversive and Hyperbolic Geometry](https://coe.psu.ac.th/ad/invhyper/)
 - [Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastin](https://hannahilea.com/blog/cuttle-obsession/)
-- [Will plants grow on the moon?](https://nautil.us/will-plants-grow-on-the-moon-897620/)
+- [AMD Unveils Its First Small Language Model AMD-135M](https://community.amd.com/t5/ai/amd-unveils-its-first-small-language-model-amd-135m/ba-p/711368)
 <!-- BLOG-POST-LIST:END -->
 
 ---
