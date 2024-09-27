@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Should Sports Betting Be Banned?](https://www.maximum-progress.com/p/should-sports-betting-be-banned)
+- [Small3dlib: Suckless PD 3D software rasterizer](https://codeberg.org/drummyfish/small3dlib)
 - [Cityfurnish &lpar;YC W19&rpar; Is Hiring](https://www.ycombinator.com/companies/cityfurnish/jobs/7EVvWqp-performance-marketing-head)
-- [Sam Altman denied that there are plans for him to receive a giant equity stake](https://www.cnbc.com/2024/09/26/openais-sam-altman-tells-employees-he-didnt-get-giant-equity-stake.html)
-- [When Insurers Exit: Climate Losses, Fragile Insurers, and Mortgage Markets [pdf]](https://www.hbs.edu/ris/Publication%20Files/24-051_f1329bc3-d296-4ffa-aff3-a9e4b8e98e9d.pdf)
-- [Our Android App Is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
-- [Stem cells reverse woman’s diabetes](https://www.nature.com/articles/d41586-024-03129-3)
+- [Sam Altman tells staff there’s no plan for him to receive ‘giant equity stake’](https://www.cnbc.com/2024/09/26/openais-sam-altman-tells-employees-he-didnt-get-giant-equity-stake.html)
+- [BookStack: Simple and Free Wiki Software](https://www.bookstackapp.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
