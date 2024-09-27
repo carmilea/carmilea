@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Signal&#39;s Meredith Whittaker: &#39;I see AI as born out of surveillance&#39;](https://www.ft.com/content/799b4fcf-2cf7-41d2-81b4-10d9ecdd83f6)
+- [The Architecture of London Pubs &lpar;1966&rpar;](https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/)
+- [SAML: A Technical Primer](https://ssoready.com/docs/saml/saml-technical-primer)
+- [Ceefax and the Birth of Interactive TV](https://www.bbc.com/articles/cvg360rr91zo)
 - [Guide to implementing 2D platformers &lpar;2012&rpar;](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 - [Fraud, so much fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud)
-- [How AlphaChip transformed computer chip design](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/)
-- [NASA confirms space station cracking a &quot;highest&quot; risk and consequence problem](https://arstechnica.com/space/2024/09/nasa-confirms-space-station-cracking-a-highest-risk-and-consequence-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
