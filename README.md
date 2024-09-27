@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HP injects AI into its printers](https://www.ghacks.net/2024/09/27/print-ai-hp-injects-ai-into-its-printers/)
-- [CouchDB 3.4.1 Released](https://blog.couchdb.org/2024/09/27/3-4-1/)
-- [Turning OpenAI into a Real Business Is Tearing It Apart](https://www.wsj.com/tech/ai/open-ai-division-for-profit-da26c24b)
-- [TSMC execs allegedly dismissed OpenAI CEO Sam Altman as &#39;podcasting bro&#39;](https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro)
-- [It&#39;s hard to write code for computers, but it&#39;s harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
+- [Maggie Smith, Star of &#39;Downton Abbey,&#39; &#39;Harry Potter,&#39; Dies at 89](https://variety.com/2024/legit/news/maggie-smith-dead-harry-potter-1236157839/)
+- [CNN and USA Today Have Fake Websites, I Believe Forbes Marketplace Runs Them](https://larslofgren.com/cnn-usa-today-forbes-marketplace/)
+- [MTA Open Data Challenge](https://new.mta.info/article/mta-open-data-challenge)
+- [I&#39;ve built a city, now it needs residents](https://readpolymathematics.substack.com/p/ive-built-a-city-now-it-needs-residents)
+- [OpenAI is closing in on raising $6.5B. Largest VC raise in history](https://www.axios.com/2024/09/20/openai-largest-vc-round)
 <!-- BLOG-POST-LIST:END -->
 
 ---
