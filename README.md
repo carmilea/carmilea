@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HP injects AI into its printers](https://www.ghacks.net/2024/09/27/print-ai-hp-injects-ai-into-its-printers/)
 - [CouchDB 3.4.1 Released](https://blog.couchdb.org/2024/09/27/3-4-1/)
+- [Turning OpenAI into a Real Business Is Tearing It Apart](https://www.wsj.com/tech/ai/open-ai-division-for-profit-da26c24b)
 - [TSMC execs allegedly dismissed OpenAI CEO Sam Altman as &#39;podcasting bro&#39;](https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro)
 - [It&#39;s hard to write code for computers, but it&#39;s harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
-- [I Am Tired of AI](https://www.ontestautomation.com/i-am-tired-of-ai/)
-- [Imbue &lpar;YC S17&rpar; Is Hiring a Founding Product Engineer](https://news.ycombinator.com/item?id=41667178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
