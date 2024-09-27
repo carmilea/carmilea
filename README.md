@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Best $4 Ever Spent](https://papanotes.com/the-best-4-ever-spent)
+- [Binance founder &#39;CZ&#39; leaves prison on Friday–along with his $60B fortune](https://fortune.com/crypto/2024/09/26/cz-changpeng-zhao-crypto-release-date-binance-founder/)
+- [I&#39;ve Soured on Open Source](https://greaterdanorequalto.com/ive-soured-on-open-source/)
 - [Maggie Smith, Star of &#39;Downton Abbey,&#39; &#39;Harry Potter,&#39; Dies at 89](https://variety.com/2024/legit/news/maggie-smith-dead-harry-potter-1236157839/)
-- [CNN and USA Today Have Fake Websites, I Believe Forbes Marketplace Runs Them](https://larslofgren.com/cnn-usa-today-forbes-marketplace/)
-- [MTA Open Data Challenge](https://new.mta.info/article/mta-open-data-challenge)
-- [I&#39;ve built a city, now it needs residents](https://readpolymathematics.substack.com/p/ive-built-a-city-now-it-needs-residents)
-- [OpenAI is closing in on raising $6.5B. Largest VC raise in history](https://www.axios.com/2024/09/20/openai-largest-vc-round)
+- [WordPress Drama: From the Sidelines](https://eric.mann.blog/wordpress-drama-from-the-sidelines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
