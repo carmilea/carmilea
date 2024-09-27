@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Beginner&#39;s Guide to Graph RAG with Prof Tom Yeh | SingleStore Webinars](https://www.youtube.com/watch?v=5e1Wzbr8wGU)
 - [Accelerating Iceberg data on Snowflake with SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=zqJ7nhN8lIo)
 - [Optimizing Model Selection in H2O Enterprise GPTe - Balancing Accuracy, Latency, and Cost](https://www.youtube.com/watch?v=hGi6NHLfFjg)
 - [LLMs in Fraud Detection: Model Comparisons | SingleStore Webinars](https://www.youtube.com/watch?v=lRRtDrwd2z8)
 - [Intro to Vectors | SingleStore Webinars](https://www.youtube.com/watch?v=8A3nm0lz6tg)
-- [Step by step guide to M/s latency full stack apps on JSON data | SingleStore Webinars](https://www.youtube.com/watch?v=d7_i3v6mHcQ)
 <!-- YOUTUBE:END -->
 
 
