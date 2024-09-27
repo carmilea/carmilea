@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bugs Found in Cups](https://www.thestack.technology/critical-9-9-linux-bug-cups-your-ears-the-details-are-now-here/)
+- [Smart TVs take snapshots of what you watch multiple times per second](https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/)
+- [If you&#39;re so smart, why aren&#39;t you rich? &lpar;2018&rpar;](https://www.technologyreview.com/2018/03/01/144958/if-youre-so-smart-why-arent-you-rich-turns-out-its-just-chance/)
 - [Imbue &lpar;YC S17&rpar; Is Hiring a Founding Product Engineer](https://news.ycombinator.com/item?id=41667178)
 - [Microsoft&#39;s new Outlook client moves your email to the cloud](https://www.xda-developers.com/privacy-implications-new-microsoft-outlook/)
-- [Europe&#39;s Banks Launch Wero Payments to Dislodge Visa, Mastercard](https://www.bloomberg.com/news/articles/2024-09-27/visa-and-mastercard-bnp-deutsche-bank-launch-wero-payment-alternative)
-- [Sony, Ubisoft scandals lead to California ban on deceptive digital goods sales](https://arstechnica.com/tech-policy/2024/09/sony-ubisoft-scandals-prompt-calif-ban-on-deceptive-sales-of-digital-goods/)
-- [Small3dlib: Suckless PD 3D software rasterizer](https://codeberg.org/drummyfish/small3dlib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
