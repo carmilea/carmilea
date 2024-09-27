@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cityfurnish &lpar;YC W19&rpar; Is Hiring](https://www.ycombinator.com/companies/cityfurnish/jobs/7EVvWqp-performance-marketing-head)
+- [Sam Altman denied that there are plans for him to receive a giant equity stake](https://www.cnbc.com/2024/09/26/openais-sam-altman-tells-employees-he-didnt-get-giant-equity-stake.html)
+- [When Insurers Exit: Climate Losses, Fragile Insurers, and Mortgage Markets [pdf]](https://www.hbs.edu/ris/Publication%20Files/24-051_f1329bc3-d296-4ffa-aff3-a9e4b8e98e9d.pdf)
 - [Our Android App Is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
-- [Stem cells reverse woman&#39;s diabetes – a world first](https://www.nature.com/articles/d41586-024-03129-3)
-- [A pilot project in universal algebra to explore new ways to collaborate](https://terrytao.wordpress.com/2024/09/25/a-pilot-project-in-universal-algebra-to-explore-new-ways-to-collaborate-and-use-machine-assistance/)
-- [In the Shack with Robert Caro](https://www.curbed.com/article/robert-caro-power-broker-lyndon-johnson-book-interview.html)
-- [End of an era: Landsat 7 mission takes final images](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
+- [Stem cells reverse woman’s diabetes](https://www.nature.com/articles/d41586-024-03129-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
