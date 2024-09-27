@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re probably not vulnerable to the CUPS CVE](https://xeiaso.net/notes/2024/cups-cve/)
-- [Leak claims RTX 5090 has 600W TGP, RTX 5080 hits 400W](https://www.tomshardware.com/pc-components/gpus/leak-claims-rtx-5090-has-600w-tgp-rtx-5080-hits-400w-up-to-21760-cores-32gb-vram-512-bit-bus)
+- [CouchDB 3.4.1 Released](https://blog.couchdb.org/2024/09/27/3-4-1/)
+- [TSMC execs allegedly dismissed OpenAI CEO Sam Altman as &#39;podcasting bro&#39;](https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro)
 - [It&#39;s hard to write code for computers, but it&#39;s harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
 - [I Am Tired of AI](https://www.ontestautomation.com/i-am-tired-of-ai/)
-- [Smart TVs take snapshots of what you watch multiple times per second](https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/)
+- [Imbue &lpar;YC S17&rpar; Is Hiring a Founding Product Engineer](https://news.ycombinator.com/item?id=41667178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
