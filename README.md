@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA confirms space station cracking a &quot;highest&quot; risk and consequence problem](https://arstechnica.com/space/2024/09/nasa-confirms-space-station-cracking-a-highest-risk-and-consequence-problem/)
-- [Minix 3](https://www.minix3.org/)
-- [The Best $4 Ever Spent](https://papanotes.com/the-best-4-ever-spent)
-- [Binance founder &#39;CZ&#39; leaves prison on Friday–along with his $60B fortune](https://fortune.com/crypto/2024/09/26/cz-changpeng-zhao-crypto-release-date-binance-founder/)
-- [The Mega65](https://lyonsden.net/my-mega65-is-finally-here/)
+- [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
+- [Dutch City the Hague Is First Banning Oil and Air Travel Ads](https://oilprice.com/Latest-Energy-News/World-News/Dutch-City-The-Hague-Is-Worlds-First-Banning-Oil-and-Air-Travel-Ads.html)
+- [Fraud, So Much Fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud)
+- [Earth Is on the Brink of Breaching a 7th of Nine &#39;Planetary Boundaries&#39;](https://www.smithsonianmag.com/smart-news/earth-is-on-the-brink-of-breaching-a-seventh-of-nine-planetary-boundaries-that-support-life-180985144/)
+- [AlphaChip transformed computer chip design](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
