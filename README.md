@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
+- [Kitchen staff were canaries in the coal mine &lpar;2022&rpar;](https://economistwritingeveryday.com/2022/01/24/kitchen-staff-were-canaries-in-the-coal-mine/)
 - [Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastin](https://hannahilea.com/blog/cuttle-obsession/)
 - [Will Plants Grow on the Moon?](https://nautil.us/will-plants-grow-on-the-moon-897620/)
 - [AMD Unveils Its First Small Language Model AMD-135M](https://community.amd.com/t5/ai/amd-unveils-its-first-small-language-model-amd-135m/ba-p/711368)
-- [The Architecture of London Pubs &lpar;1966&rpar;](https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/)
-- [SAML: A Technical Primer](https://ssoready.com/docs/saml/saml-technical-primer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
