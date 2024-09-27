@@ -61,8 +61,8 @@
 - [Sony, Ubisoft scandals lead to California ban on deceptive digital goods sales](https://arstechnica.com/tech-policy/2024/09/sony-ubisoft-scandals-prompt-calif-ban-on-deceptive-sales-of-digital-goods/)
 - [Small3dlib: Suckless PD 3D software rasterizer](https://codeberg.org/drummyfish/small3dlib)
 - [Cityfurnish &lpar;YC W19&rpar; Is Hiring](https://www.ycombinator.com/companies/cityfurnish/jobs/7EVvWqp-performance-marketing-head)
+- [BookStack: Simple and Free Wiki Software](https://www.bookstackapp.com/)
 - [Vanilla OS 2: an immutable distribution to run all software](https://lwn.net/Articles/989629/)
-- [Our Android app is frozen in carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
