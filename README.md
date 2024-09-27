@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bugs Found in Cups](https://www.thestack.technology/critical-9-9-linux-bug-cups-your-ears-the-details-are-now-here/)
+- [I Am Tired of AI](https://www.ontestautomation.com/i-am-tired-of-ai/)
+- [Steve Jobs Swore the 10-Minute Rule Made Him Smarter. He Was Right](https://www.inc.com/jessica-stillman/steve-jobs-swore-10-minute-rule-made-him-smarter-modern-neuroscience-discovering-he-was-right.html)
 - [Smart TVs take snapshots of what you watch multiple times per second](https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/)
 - [If you&#39;re so smart, why aren&#39;t you rich? &lpar;2018&rpar;](https://www.technologyreview.com/2018/03/01/144958/if-youre-so-smart-why-arent-you-rich-turns-out-its-just-chance/)
 - [Imbue &lpar;YC S17&rpar; Is Hiring a Founding Product Engineer](https://news.ycombinator.com/item?id=41667178)
-- [Microsoft&#39;s new Outlook client moves your email to the cloud](https://www.xda-developers.com/privacy-implications-new-microsoft-outlook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
