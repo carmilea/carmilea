@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a compile-time SIMD optimized smoothing filter](https://scientificcomputing.rs/2024/talks/raz.html)
-- [Icon &lpar;real creators, AI ads&rpar; is hiring founding engineers/ex-founders &lpar;NYC&rpar;](https://icon.me/careers)
-- [MtCellEdit – Lightweight Spreadsheet Program](https://www.marktyler.org/ced/)
-- [I Made a Rubbish Clock](https://blog.jgc.org/2024/09/i-made-rubbish-clock.html)
-- [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
+- [Entire HR Team Fired After Manager&#39;s Own Resume Gets Auto-Rejected](https://www.ibtimes.co.uk/lazy-mediocre-hr-team-fired-after-managers-own-cv-gets-auto-rejected-seconds-exposing-system-1727202)
+- [Role of Deliberate Practice in the Development of Creativity](https://repositories.lib.utexas.edu/server/api/core/bitstreams/c8cc4a4f-e641-462b-9a72-654e60f71485/content)
+- [If your AI seems smarter, it&#39;s thanks to smarter human trainers](https://www.reuters.com/technology/artificial-intelligence/if-your-ai-seems-smarter-its-thanks-smarter-human-trainers-2024-09-28/)
+- [Spaced repetition is more than memorization – it&#39;s also generalization](https://www.justinmath.com/spaced-repetition-is-more-than-memorization-its-also-generalization/)
+- [Remember That DNA You Gave 23andMe?](https://www.theatlantic.com/health/archive/2024/09/23andme-dna-data-privacy-sale/680057/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
