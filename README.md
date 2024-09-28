@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Possible Cluster of Human Bird-Flu Infections Expands in Missouri](https://www.nytimes.com/2024/09/27/health/bird-flu-cluster-missouri.html)
-- [America&#39;s Greyhound bus stations are disappearing](https://www.cnn.com/2024/09/28/business/greyhound-bus-chicago-transportation/index.html)
-- [Show HN: Mitata – Benchmarking tooling for JavaScript](https://github.com/evanwashere/mitata)
-- [What was the point of [ &quot;x$var&quot; = &quot;xval&quot; ]? &lpar;2021&rpar;](https://www.vidarholen.net/contents/blog/?p=1035)
-- [Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane](http://www.righto.com/2024/09/f4-attitude-indicator.html)
+- [SpaceX launches rescue mission for 2 NASA astronauts who are stuck on the ISS](https://apnews.com/article/spacex-launch-boeing-nasa-stuck-astronauts-e179d0dc6c77d224278fd0430148ff8b)
+- [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+- [Researchers seeing little evidence of benefit from co pilots](https://www.cio.com/article/3540579/devs-gaining-little-if-anything-from-ai-coding-assistants.html)
+- [Four more health care workers ill after caring for bird flu case in Missouri](https://www.statnews.com/2024/09/27/bird-flu-missouri-four-more-healthcare-workers/)
+- [Britain buys semiconductor factory for defence purposes](https://ukdefencejournal.org.uk/britain-buys-semiconductor-factory-for-defence-purposes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
