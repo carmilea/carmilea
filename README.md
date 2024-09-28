@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Possible Cluster of Human Bird-Flu Infections Expands in Missouri](https://www.nytimes.com/2024/09/27/health/bird-flu-cluster-missouri.html)
+- [Mark Zuckerberg: &quot;Ship the App&quot; &lpar;2011&rpar;](https://www.techemails.com/p/mark-zuckerberg-ship-photos-app)
 - [Show HN: Modern Benchmarking Tooling for JavaScript](https://github.com/evanwashere/mitata)
-- [Our ping pong startup hit a $50M valuation in 5 years by tapping into automation](https://fortune.com/2024/09/27/startup-entrepreneurs-automation-ping-pong-sports-venues-tech-saas-smartphone-apps-pingpod-podplay/)
 - [What was the point of [ &quot;x$var&quot; = &quot;xval&quot; ]? &lpar;2021&rpar;](https://www.vidarholen.net/contents/blog/?p=1035)
 - [Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane](http://www.righto.com/2024/09/f4-attitude-indicator.html)
-- [Show HN: Enable right click and copy on websites that disabled it](https://chromewebstore.google.com/detail/allow-copy-enable-right-c/ehfmpjdcdldhefieelihdobnjfpalhic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
