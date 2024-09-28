@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Third Party Testing Paints Dark Picture of Tesla FSD](https://www.motortrend.com/news/tesla-fsd-software-amci-testing-video/)
+- [A small area of solar panels plus storage cannot power the world](https://alexepstein.substack.com/p/refuting-the-myth-that-just-a-small)
+- [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 - [US Trademark Office Cancels Marvel, DC&#39;s &#39;Super Hero&#39; Marks](https://www.reuters.com/legal/litigation/us-trademark-office-cancels-marvel-dcs-super-hero-marks-2024-09-26/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-- [Lion Cove: Intel&#39;s P-Core Roars](https://chipsandcheese.com/2024/09/27/lion-cove-intels-p-core-roars/)
-- [Python for Inversive and Hyperbolic Geometry](https://coe.psu.ac.th/ad/invhyper/)
-- [Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastin](https://hannahilea.com/blog/cuttle-obsession/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
