@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why does current interest in retro computing focus on the early 80s?](https://news.ycombinator.com/item?id=41680299)
-- [Incremental Garbage Collection in Ruby 2.2](https://blog.heroku.com/incremental-gc)
+- [The Little Typer &lpar;2018&rpar;](https://thelittletyper.com/)
+- [Incremental Garbage Collection in Ruby 2.2 &lpar;2015&rpar;](https://blog.heroku.com/incremental-gc)
 - [Role of Deliberate Practice in the Development of Creativity &lpar;2014&rpar;](https://repositories.lib.utexas.edu/server/api/core/bitstreams/c8cc4a4f-e641-462b-9a72-654e60f71485/content)
+- [As Florida Storms Worsen, Some in Tampa Bay Wonder: Is Living There Worth It?](https://www.nytimes.com/2024/09/28/us/hurricane-helene-tampa-bay-florida-worries.html)
 - [If your AI seems smarter, it&#39;s thanks to smarter human trainers](https://www.reuters.com/technology/artificial-intelligence/if-your-ai-seems-smarter-its-thanks-smarter-human-trainers-2024-09-28/)
-- [Remember That DNA You Gave 23andMe?](https://www.theatlantic.com/health/archive/2024/09/23andme-dna-data-privacy-sale/680057/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
