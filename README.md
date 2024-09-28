@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Building a compile-time SIMD optimized smoothing filter](https://scientificcomputing.rs/2024/talks/raz.html)
 - [Icon &lpar;real creators, AI ads&rpar; is hiring founding engineers/ex-founders &lpar;NYC&rpar;](https://icon.me/careers)
+- [MtCellEdit – Lightweight Spreadsheet Program](https://www.marktyler.org/ced/)
 - [I Made a Rubbish Clock](https://blog.jgc.org/2024/09/i-made-rubbish-clock.html)
 - [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
-- [Amusing Ourselves to Death &lpar;2014&rpar;](https://otpok.com/2014/01/03/amusing-ourselves-to-death/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
