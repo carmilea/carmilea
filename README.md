@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Made a Rubbish Clock](https://blog.jgc.org/2024/09/i-made-rubbish-clock.html)
 - [Photoroom &lpar;YC S20&rpar; Is Hiring an API Engineer in Paris &lpar;Node.js&rpar;](https://jobs.ashbyhq.com/photoroom/24a08307-ae2e-4a40-a6fa-30fb919fb637)
+- [C is not Turing-complete &lpar;2018&rpar;](https://memo.barrucadu.co.uk/c-is-not-turing-complete.html)
 - [Amusing Ourselves to Death](https://otpok.com/2014/01/03/amusing-ourselves-to-death/)
 - [It is never too later to write your own C/C++ command-line utilities](https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/)
-- [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
-- [US Trademark Office Cancels Marvel, DC&#39;s &#39;Super Hero&#39; Marks](https://www.reuters.com/legal/litigation/us-trademark-office-cancels-marvel-dcs-super-hero-marks-2024-09-26/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
