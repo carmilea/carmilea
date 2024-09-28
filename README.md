@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Modern Benchmarking Tooling for JavaScript](https://github.com/evanwashere/mitata)
+- [SpaceX launches Crew-9 with two people to bring back Boeing crew](https://www.nasaspaceflight.com/2024/09/crew-9-launch/)
 - [Our ping pong startup hit a $50M valuation in 5 years by tapping into automation](https://fortune.com/2024/09/27/startup-entrepreneurs-automation-ping-pong-sports-venues-tech-saas-smartphone-apps-pingpod-podplay/)
 - [Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane](http://www.righto.com/2024/09/f4-attitude-indicator.html)
 - [Show HN: Enable right click and copy on websites that disabled it](https://chromewebstore.google.com/detail/allow-copy-enable-right-c/ehfmpjdcdldhefieelihdobnjfpalhic)
-- [REPL for Dart: supporting 3rd party packages, hot reload, and full grammar](https://github.com/fzyzcjy/dart_interactive)
-- [The perils of transition to 64-bit time_t](https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
