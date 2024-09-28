@@ -59,8 +59,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Possible Cluster of Human Bird-Flu Infections Expands in Missouri](https://www.nytimes.com/2024/09/27/health/bird-flu-cluster-missouri.html)
-- [Mark Zuckerberg: &quot;Ship the App&quot; &lpar;2011&rpar;](https://www.techemails.com/p/mark-zuckerberg-ship-photos-app)
-- [Show HN: Modern Benchmarking Tooling for JavaScript](https://github.com/evanwashere/mitata)
+- [America&#39;s Greyhound bus stations are disappearing](https://www.cnn.com/2024/09/28/business/greyhound-bus-chicago-transportation/index.html)
+- [Show HN: Mitata – Benchmarking tooling for JavaScript](https://github.com/evanwashere/mitata)
 - [What was the point of [ &quot;x$var&quot; = &quot;xval&quot; ]? &lpar;2021&rpar;](https://www.vidarholen.net/contents/blog/?p=1035)
 - [Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane](http://www.righto.com/2024/09/f4-attitude-indicator.html)
 <!-- BLOG-POST-LIST:END -->
