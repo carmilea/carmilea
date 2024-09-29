@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The world knows Wim Hof as &quot;The Iceman&quot;, his family suffered domestic violence](https://www.volkskrant.nl/kijkverder/v/2024/the-outside-world-knows-wim-hof-as-the-eccentric-iceman-his-family-suffered-domestic-violence~v1176564/)
+- [Web Components Are Okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
+- [Do not build your Gov.uk service as a single-page application](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
+- [How Dwarf Works](https://calabro.io/dwarf)
+- [More annoying macOS 15 Sequoia prompts: Bluetooth](https://lapcatsoftware.com/articles/2024/8/11.html)
 - [Floating megabomb heaves to near the English coast](https://cepa.org/article/floating-megabomb-heaves-to-near-the-english-coast/)
-- [Feldera Incremental Compute Engine](https://github.com/feldera/feldera)
-- [Text2CAD Generating Sequential CAD Designs from Text Prompts](https://sadilkhan.github.io/text2cad-project/)
-- [NTSB Issues Urgent Safety Recommendations on Boeing 737 Rudder System](https://www.ntsb.gov:443/news/press-releases/Pages/NR20240926.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
