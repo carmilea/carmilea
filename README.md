@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Avoiding downtime: modern alternatives to outdated certificate pinning practices](https://blog.cloudflare.com/why-certificate-pinning-is-outdated/)
+- [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robots](https://rekep-robot.github.io/)
+- [Geothermal Energy Could Outperform Nuclear Power](https://oilprice.com/Energy/Energy-General/Geothermal-Energy-Could-Outperform-Nuclear-Power.html)
 - [Web Components Are Okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
 - [Building a robust frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
-- [How Dwarf Works](https://calabro.io/dwarf)
-- [More annoying macOS 15 Sequoia prompts: Bluetooth](https://lapcatsoftware.com/articles/2024/8/11.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
