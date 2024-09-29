@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Controversial Windows Recall AI Search Tool Returns with Proof-of-Presence](https://www.securityweek.com/microsofts-controversial-recall-returns-with-proof-of-presence-encryption-data-isolation-opt-in-model/)
+- [L.A. pilot guaranteeing families $1k/month shows &#39;transformative&#39; results: study](https://www.latimes.com/california/story/2024-07-31/study-details-what-happened-when-la-residents-were-guaranteed-1000-dollars-a-month)
 - [Too much efficiency makes everything worse &lpar;2022&rpar;](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 - [Cores That Don&#39;t Count [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)
 - [Man-in-the-Middle PCB Unlocks HP Ink Cartridges](https://hackaday.com/2024/09/28/man-in-the-middle-pcb-unlocks-hp-ink-cartridges/)
