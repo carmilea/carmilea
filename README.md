@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoiding downtime: modern alternatives to outdated certificate pinning practices](https://blog.cloudflare.com/why-certificate-pinning-is-outdated/)
 - [Web Components Are Okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
-- [Do not build your Gov.uk service as a single-page application](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
+- [Building a robust frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
 - [How Dwarf Works](https://calabro.io/dwarf)
 - [More annoying macOS 15 Sequoia prompts: Bluetooth](https://lapcatsoftware.com/articles/2024/8/11.html)
-- [Floating megabomb heaves to near the English coast](https://cepa.org/article/floating-megabomb-heaves-to-near-the-english-coast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
