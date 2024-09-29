@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX launches rescue mission for 2 NASA astronauts who are stuck on the ISS](https://apnews.com/article/spacex-launch-boeing-nasa-stuck-astronauts-e179d0dc6c77d224278fd0430148ff8b)
-- [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
-- [Researchers seeing little evidence of benefit from co pilots](https://www.cio.com/article/3540579/devs-gaining-little-if-anything-from-ai-coding-assistants.html)
-- [Four more health care workers ill after caring for bird flu case in Missouri](https://www.statnews.com/2024/09/27/bird-flu-missouri-four-more-healthcare-workers/)
-- [Britain buys semiconductor factory for defence purposes](https://ukdefencejournal.org.uk/britain-buys-semiconductor-factory-for-defence-purposes/)
+- [Controversial Windows Recall AI Search Tool Returns with Proof-of-Presence](https://www.securityweek.com/microsofts-controversial-recall-returns-with-proof-of-presence-encryption-data-isolation-opt-in-model/)
+- [Cores That Don&#39;t Count [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)
+- [Man-in-the-Middle PCB Unlocks HP Ink Cartridges](https://hackaday.com/2024/09/28/man-in-the-middle-pcb-unlocks-hp-ink-cartridges/)
+- [Notion&#39;s mid-life crisis](https://www.jjinux.com/2024/09/notions-mid-life-crisis.html)
+- [Show HN: Open-source app builder for comfy workflows](https://github.com/ViewComfy/ViewComfy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
