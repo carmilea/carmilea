@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Infisical &lpar;YC W23&rpar; Is Hiring Developers Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)
+- [A stalled Waymo brought Kamala Harris&#39; motorcade to a halt in SF](https://sfstandard.com/2024/09/28/waymo-halts-kamala-harris-san-francisco-motorcade/)
+- [Map with public fruit trees](https://mundraub.org/map)
 - [Pirate library must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
-- [Flexible RISC-V Processor: Could Cost Less Than a Dollar](https://spectrum.ieee.org/flexible-risc-v)
-- [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
-- [Avoiding downtime: modern alternatives to outdated certificate pinning practices](https://blog.cloudflare.com/why-certificate-pinning-is-outdated/)
-- [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robots](https://rekep-robot.github.io/)
+- [FTC Report Confirms: Commercial Surveillance Is Out of Control](https://www.eff.org/deeplinks/2024/09/ftc-report-confirms-commercial-surveillance-out-control)
 <!-- BLOG-POST-LIST:END -->
 
 ---
