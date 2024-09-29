@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What are you working on &lpar;September 2024&rpar;?](https://news.ycombinator.com/item?id=41690087)
+- [Academic economists get big payouts when they help monopolists beat antitrust](https://pluralistic.net/2024/09/25/epistemological-chaos/#incentives-matter)
+- [Linux 6.12 Features Super Real-Time, Sched_ext, Intel Xe2 and Pi 5](https://www.phoronix.com/review/linux-612-features#google_vignette)
+- [Ted Kaczynski&#39;s Low-Tech Lifestyle](https://www.thetedkarchive.com/library/ted-kaczynski-ted-kaczynski-s-low-tech-lifestyle)
 - [&#39;Three New York Cities&#39; Worth of Power: AI Is Stressing the Grid](https://www.wsj.com/business/energy-oil/ai-data-center-boom-spurs-race-to-find-power-87cf39dd)
-- [Cite-seeing and reviewing: A study on citation bias in peer review](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283980)
-- [A Taxonomy of Tech Debt](https://technology.riotgames.com/news/taxonomy-tech-debt)
-- [Show HN: An experimental AntiBot, AntiCrawl reverse proxy for the web](https://github.com/pulkitsharma07/OnlyHumans-Proxy)
-- [Pagoda: Rapid, easy full-stack web development starter kit in Go](https://github.com/mikestefanello/pagoda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
