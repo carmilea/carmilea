@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [NASA is selling a brand-new Moon rover: Never used, one previous owner](https://www.economist.com/science-and-technology/2024/09/25/nasa-is-selling-a-brand-new-moon-rover)
 - [Solving climate change by abusing thermodynamic scaling laws](https://ckrapu.github.io/blog/2024/why-dont-we-just-freeze-the-carbon/)
-- [Apple&#39;s homework is due Monday no matter what, says judge](https://www.theverge.com/2024/9/28/24256684/apple-epic-lawsuit-document-production-delay-denied)
+- [Class &#39;Inequity&#39; Fuels Air Rage](https://www.avweb.com/aviation-news/class-inequity-fuels-air-rage/)
 - [So you want to make pixel art for an Apple II](http://www.deater.net/weave/vmwprod/a2_pixels/)
 - [How can a jigsaw have two distinct solutions? [video]](https://www.youtube.com/watch?v=b5nElEbbnfU)
 <!-- BLOG-POST-LIST:END -->
