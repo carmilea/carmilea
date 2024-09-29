@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA is selling a brand-new Moon rover: Never used, one previous owner](https://www.economist.com/science-and-technology/2024/09/25/nasa-is-selling-a-brand-new-moon-rover)
+- [Solving climate change by abusing thermodynamic scaling laws](https://ckrapu.github.io/blog/2024/why-dont-we-just-freeze-the-carbon/)
+- [Apple&#39;s homework is due Monday no matter what, says judge](https://www.theverge.com/2024/9/28/24256684/apple-epic-lawsuit-document-production-delay-denied)
+- [So you want to make pixel art for an Apple II](http://www.deater.net/weave/vmwprod/a2_pixels/)
 - [How can a jigsaw have two distinct solutions? [video]](https://www.youtube.com/watch?v=b5nElEbbnfU)
-- [Too much efficiency makes everything worse &lpar;2022&rpar;](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
-- [Cores That Don&#39;t Count [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)
-- [Notes on the Crystal Language](https://wiki.alopex.li/CrystalNotes)
-- [Show HN: Open-source app builder for comfy workflows](https://github.com/ViewComfy/ViewComfy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
