@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gavin Newsom vetoes SB 1047](https://www.wsj.com/tech/ai/californias-gavin-newsom-vetoes-controversial-ai-safety-bill-d526f621)
+- [AI and globalisation are shaking up software developers&#39; world](https://www.economist.com/business/2024/09/29/ai-and-globalisation-are-shaking-up-software-developers-world)
 - [Ask HN: What are you working on &lpar;September 2024&rpar;?](https://news.ycombinator.com/item?id=41690087)
-- [Academic economists get big payouts when they help monopolists beat antitrust](https://pluralistic.net/2024/09/25/epistemological-chaos/#incentives-matter)
+- [Build a serverless ACID database with this one neat trick &lpar;atomic PutIfAbsent&rpar;](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
 - [Linux 6.12 Features Super Real-Time, Sched_ext, Intel Xe2 and Pi 5](https://www.phoronix.com/review/linux-612-features#google_vignette)
-- [Ted Kaczynski&#39;s Low-Tech Lifestyle](https://www.thetedkarchive.com/library/ted-kaczynski-ted-kaczynski-s-low-tech-lifestyle)
-- [&#39;Three New York Cities&#39; Worth of Power: AI Is Stressing the Grid](https://www.wsj.com/business/energy-oil/ai-data-center-boom-spurs-race-to-find-power-87cf39dd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
