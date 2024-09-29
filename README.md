@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mindustry: Automation Tower Defense RTS with Deep Strategy and Modding](https://github.com/Anuken/Mindustry)
-- [Infisical &lpar;YC W23&rpar; Is Hiring Developers Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)
-- [Porting OpenVMS to the Itanium Processor Family &lpar;2003&rpar;[pdf]](https://de.openvms.org/TUD2004/Itanium.PDF)
-- [Map with public fruit trees](https://mundraub.org/map)
-- [Pirate library must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
+- [&#39;Three New York Cities&#39; Worth of Power: AI Is Stressing the Grid](https://www.wsj.com/business/energy-oil/ai-data-center-boom-spurs-race-to-find-power-87cf39dd)
+- [Cite-seeing and reviewing: A study on citation bias in peer review](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283980)
+- [A Taxonomy of Tech Debt](https://technology.riotgames.com/news/taxonomy-tech-debt)
+- [Show HN: An experimental AntiBot, AntiCrawl reverse proxy for the web](https://github.com/pulkitsharma07/OnlyHumans-Proxy)
+- [Pagoda: Rapid, easy full-stack web development starter kit in Go](https://github.com/mikestefanello/pagoda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
