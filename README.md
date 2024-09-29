@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Floating megabomb heaves to near the English coast](https://cepa.org/article/floating-megabomb-heaves-to-near-the-english-coast/)
+- [Feldera Incremental Compute Engine](https://github.com/feldera/feldera)
+- [Text2CAD Generating Sequential CAD Designs from Text Prompts](https://sadilkhan.github.io/text2cad-project/)
 - [NASA is selling a brand-new Moon rover: Never used, one previous owner](https://www.economist.com/science-and-technology/2024/09/25/nasa-is-selling-a-brand-new-moon-rover)
 - [Solving climate change by abusing thermodynamic scaling laws](https://ckrapu.github.io/blog/2024/why-dont-we-just-freeze-the-carbon/)
-- [Class &#39;Inequity&#39; Fuels Air Rage](https://www.avweb.com/aviation-news/class-inequity-fuels-air-rage/)
-- [So you want to make pixel art for an Apple II](http://www.deater.net/weave/vmwprod/a2_pixels/)
-- [How can a jigsaw have two distinct solutions? [video]](https://www.youtube.com/watch?v=b5nElEbbnfU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
