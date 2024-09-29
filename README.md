@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mindustry: Automation Tower Defense RTS with Deep Strategy and Modding](https://github.com/Anuken/Mindustry)
 - [Infisical &lpar;YC W23&rpar; Is Hiring Developers Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)
-- [A stalled Waymo brought Kamala Harris&#39; motorcade to a halt in SF](https://sfstandard.com/2024/09/28/waymo-halts-kamala-harris-san-francisco-motorcade/)
+- [Porting OpenVMS to the Itanium Processor Family &lpar;2003&rpar;[pdf]](https://de.openvms.org/TUD2004/Itanium.PDF)
 - [Map with public fruit trees](https://mundraub.org/map)
 - [Pirate library must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
-- [FTC Report Confirms: Commercial Surveillance Is Out of Control](https://www.eff.org/deeplinks/2024/09/ftc-report-confirms-commercial-surveillance-out-control)
 <!-- BLOG-POST-LIST:END -->
 
 ---
