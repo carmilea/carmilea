@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Students Paid Thousands for a Caltech Boot Camp. Caltech Didn&#39;t Teach It](https://www.nytimes.com/2024/09/29/us/caltech-simplilearn-class-students.html)
+- [Pirate library must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
 - [Flexible RISC-V Processor: Could Cost Less Than a Dollar](https://spectrum.ieee.org/flexible-risc-v)
+- [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
 - [Avoiding downtime: modern alternatives to outdated certificate pinning practices](https://blog.cloudflare.com/why-certificate-pinning-is-outdated/)
 - [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robots](https://rekep-robot.github.io/)
-- [Geothermal Energy Could Outperform Nuclear Power](https://oilprice.com/Energy/Energy-General/Geothermal-Energy-Could-Outperform-Nuclear-Power.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
