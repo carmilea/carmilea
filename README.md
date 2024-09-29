@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [L.A. pilot guaranteeing families $1k/month shows &#39;transformative&#39; results: study](https://www.latimes.com/california/story/2024-07-31/study-details-what-happened-when-la-residents-were-guaranteed-1000-dollars-a-month)
+- [How can a jigsaw have two distinct solutions? [video]](https://www.youtube.com/watch?v=b5nElEbbnfU)
 - [Too much efficiency makes everything worse &lpar;2022&rpar;](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 - [Cores That Don&#39;t Count [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)
 - [Notes on the Crystal Language](https://wiki.alopex.li/CrystalNotes)
-- [Notion&#39;s mid-life crisis](https://www.jjinux.com/2024/09/notions-mid-life-crisis.html)
+- [Show HN: Open-source app builder for comfy workflows](https://github.com/ViewComfy/ViewComfy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
