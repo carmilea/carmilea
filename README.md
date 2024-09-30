@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Source Flipper Zero Firmware: Unlock Your Device&#39;s Full Potential](https://github.com/flipperdevices/flipperzero-firmware)
-- [Syncthing: Open-Source Continuous File Sync with Privacy in Mind](https://github.com/syncthing/syncthing)
+- [A teacher who made mistakes on purpose](https://nik.art/the-teacher-who-made-mistakes-on-purpose/)
+- [Do AI Companies Work?](https://benn.substack.com/p/do-ai-companies-work)
+- [96% of climate policy since 1998 failed](https://www.alumni.ox.ac.uk/article/96-of-climate-policy-since-1998-failed)
+- [On With Theo / T3.gg](https://ma.tt/2024/09/t3/)
 - [Gavin Newsom vetoes SB 1047](https://www.wsj.com/tech/ai/californias-gavin-newsom-vetoes-controversial-ai-safety-bill-d526f621)
-- [Ask HN: What are you working on &lpar;September 2024&rpar;?](https://news.ycombinator.com/item?id=41690087)
-- [Build a serverless ACID database with this one neat trick &lpar;atomic PutIfAbsent&rpar;](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
