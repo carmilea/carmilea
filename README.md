@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Typewise &lpar;YC S22&rpar; Is Hiring a Senior AI Back End Engineer &lpar;Python, Europe&rpar;](https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x)
+- [Y Combinator Traded Prestige for Growth](https://unfashionable.blog/p/yc/)
 - [Browser built-in bookmarking system is good enough &lpar;2024&rpar;](https://afewthingz.com/browserbookmark)
 - [New research on anesthesia and microtubules gives new clues about consciousness](https://www.sciencedaily.com/releases/2024/09/240905120923.htm)
 - [Vanishing Culture: Preserving Cookbooks](https://blog.archive.org/2024/09/30/vanishing-culture-preserving-cookbooks/)
-- [Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
-- [OpenSign](https://www.opensignlabs.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
