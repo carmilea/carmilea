@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brazilian Suicide Electric Shower Heads [video]](https://www.youtube.com/watch?v=FuQ_AAkkgIg)
 - [Raspberry Pi AI Camera on sale now at $70](https://www.raspberrypi.com/news/raspberry-pi-ai-camera-on-sale-now/)
 - [How we built ngrok&#39;s data platform](https://ngrok.com/blog-post/how-we-built-ngroks-data-platform)
 - [The Arch Linux team is now working directly with Valve](https://www.tomshardware.com/software/linux/the-arch-linux-team-is-now-working-directly-with-valve-steamos-and-arch-should-both-benefit-greatly)
 - [Bop Spotter](https://walzr.com/bop-spotter)
+- [David Brin – The Dogma of Otherness &lpar;1986&rpar;](https://www.davidbrin.com/nonfiction/dogmaofotherness.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
