@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pear AI founder: We made two big mistakes](https://twitter.com/CodeFryingPan/status/1840831339337302204)
-- [Pooltool: A sandbox billiards game that emphasizes realistic physics](https://github.com/ekiefl/pooltool)
-- [The Open Music Encyclopedia](https://musicbrainz.org/)
+- [&#39;Doomsday&#39; glacier set to melt faster and swell seas as world heats up](https://phys.org/news/2024-09-doomsday-glacier-faster-seas-world.html)
+- [MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)
 - [Deep Learning with Jax](https://www.manning.com/books/deep-learning-with-jax)
-- [Product Hunt isn&#39;t dying, it&#39;s becoming gentrified](https://launchpointzero.com/blog/product-hunt-isnt-dying-its-become-gentrified/)
+- [Burning and Playing PS2 Games Without a Modded Console](https://btxx.org/posts/ps2-games/)
+- [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
