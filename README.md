@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Burrito Is a Monad](http://williamcotton.com/articles/a-burrito-is-a-monad)
-- [Dikembe Mutombo has died at age 58](https://www.nytimes.com/2024/09/30/sports/dikembe-mutombo-dead.html)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Building Real-Time Streaming Pipelines with SingleStore and Apache Flink](https://www.singlestore.com/blog/real-time-streaming-pipelines-singlestore-apache-flink)
+- [Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
+- [The Rat Studies That Foretold a Nightmarish Human Future](https://www.newyorker.com/magazine/2024/10/07/dr-calhouns-mousery-lee-alan-dugatkin-book-reviews-rat-city-edmund-ramsden-and-jon-adams)
 - [Liquid Foundation Models: Our First Series of Generative AI Models](https://www.liquid.ai/liquid-foundation-models)
-- [Launch HN: Inkeep &lpar;YC W23&rpar; – Copilot for Support &lpar;Think Cursor for Help Desks&rpar;](https://news.ycombinator.com/item?id=41697137)
-- [Typewise &lpar;YC S22&rpar; Is Hiring a Senior AI Back End Engineer &lpar;Python, Europe&rpar;](https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
