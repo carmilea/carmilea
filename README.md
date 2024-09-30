@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pear AI founder: We made two big mistakes](https://twitter.com/CodeFryingPan/status/1840831339337302204)
+- [Pooltool: A sandbox billiards game that emphasizes realistic physics](https://github.com/ekiefl/pooltool)
+- [The Open Music Encyclopedia](https://musicbrainz.org/)
+- [Deep Learning with Jax](https://www.manning.com/books/deep-learning-with-jax)
 - [Product Hunt isn&#39;t dying, it&#39;s becoming gentrified](https://launchpointzero.com/blog/product-hunt-isnt-dying-its-become-gentrified/)
-- [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
-- [Apple No Longer in Talks to Invest in ChatGPT Maker OpenAI](https://www.macrumors.com/2024/09/30/apple-no-longer-investing-openai-chatgpt/)
-- [Engineers investigate another malfunction on SpaceX&#39;s Falcon 9 rocket](https://arstechnica.com/space/2024/09/engineers-investigate-another-malfunction-on-spacexs-falcon-9-rocket/)
-- [GnuCash 5.9 Released](https://www.gnucash.org/news.phtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
