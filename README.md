@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Doomsday&#39; glacier set to melt faster and swell seas as world heats up](https://phys.org/news/2024-09-doomsday-glacier-faster-seas-world.html)
+- [Show HN: qrframe – generate beautiful qr codes with javascript code](https://github.com/zhengkyl/qrframe)
 - [MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)
 - [Deep Learning with Jax](https://www.manning.com/books/deep-learning-with-jax)
-- [Burning and Playing PS2 Games Without a Modded Console](https://btxx.org/posts/ps2-games/)
 - [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
+- [Paperless-ngx: scan, index and archive all your physical documents](https://github.com/paperless-ngx/paperless-ngx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
