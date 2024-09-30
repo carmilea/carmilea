@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Peer Calls: WebRTC peer to peer calls for everyone](https://github.com/peer-calls/peer-calls)
 - [Building Real-Time Streaming Pipelines with SingleStore and Apache Flink](https://www.singlestore.com/blog/real-time-streaming-pipelines-singlestore-apache-flink)
 - [Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
-- [The Rat Studies That Foretold a Nightmarish Human Future](https://www.newyorker.com/magazine/2024/10/07/dr-calhouns-mousery-lee-alan-dugatkin-book-reviews-rat-city-edmund-ramsden-and-jon-adams)
-- [Liquid Foundation Models: Our First Series of Generative AI Models](https://www.liquid.ai/liquid-foundation-models)
+- [Two new books on John Calhoun and his rodent experiments](https://www.newyorker.com/magazine/2024/10/07/dr-calhouns-mousery-lee-alan-dugatkin-book-reviews-rat-city-edmund-ramsden-and-jon-adams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
