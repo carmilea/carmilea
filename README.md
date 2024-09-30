@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [US East and Gulf Coast Ports Face Shutdown as Union Announces Intent to Strike](https://gcaptain.com/us-east-and-gulf-coast-ports-face-imminent-shutdown-as-union-announces-intent-to-strike/)
-- [Angry Amazon employees are &#39;rage applying&#39; for new jobs after RTO mandate](https://fortune.com/2024/09/29/amazon-employees-angry-andy-jassy-rto-mandate/)
+- [A teacher who made mistakes on purpose](https://nik.art/the-teacher-who-made-mistakes-on-purpose/)
 - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
+- [Kris Kristofferson has died](https://www.rollingstone.com/music/music-country/kris-kristofferson-dead-1107074/)
 - [Modifying the ThinkPad 13 Gen 1 to unlock its full PCIe potential](https://bassusteur.github.io/2024/08/07/thinkpad13nvme.html)
-- [On With Theo / T3.gg](https://ma.tt/2024/09/t3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
