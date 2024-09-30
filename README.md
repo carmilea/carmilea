@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Browser built-in bookmarking system is good enough &lpar;2024&rpar;](https://afewthingz.com/browserbookmark)
 - [New research on anesthesia and microtubules gives new clues about consciousness](https://www.sciencedaily.com/releases/2024/09/240905120923.htm)
-- [Distinct movement cluster evident on Carola bridge in Dresden prior to collapse](https://www.newcivilengineer.com/latest/distinct-movement-cluster-evident-on-carola-bridge-in-dresden-prior-to-its-collapse-research-finds-17-09-2024/)
 - [Vanishing Culture: Preserving Cookbooks](https://blog.archive.org/2024/09/30/vanishing-culture-preserving-cookbooks/)
-- [Screenpipe: 24/7 local AI screen and mic recording](https://github.com/mediar-ai/screenpipe)
-- [Keep Track: 3D Satellite Toolkit](https://app.keeptrack.space)
+- [Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
+- [OpenSign](https://www.opensignlabs.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
