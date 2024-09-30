@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Peer Calls: WebRTC peer to peer calls for everyone](https://github.com/peer-calls/peer-calls)
-- [Building Real-Time Streaming Pipelines with SingleStore and Apache Flink](https://www.singlestore.com/blog/real-time-streaming-pipelines-singlestore-apache-flink)
-- [Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
-- [Two new books on John Calhoun and his rodent experiments](https://www.newyorker.com/magazine/2024/10/07/dr-calhouns-mousery-lee-alan-dugatkin-book-reviews-rat-city-edmund-ramsden-and-jon-adams)
+- [Product Hunt isn&#39;t dying, it&#39;s becoming gentrified](https://launchpointzero.com/blog/product-hunt-isnt-dying-its-become-gentrified/)
+- [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
+- [Apple No Longer in Talks to Invest in ChatGPT Maker OpenAI](https://www.macrumors.com/2024/09/30/apple-no-longer-investing-openai-chatgpt/)
+- [Engineers investigate another malfunction on SpaceX&#39;s Falcon 9 rocket](https://arstechnica.com/space/2024/09/engineers-investigate-another-malfunction-on-spacexs-falcon-9-rocket/)
+- [GnuCash 5.9 Released](https://www.gnucash.org/news.phtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
