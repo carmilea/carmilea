@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US East and Gulf Coast Ports Face Shutdown as Union Announces Intent to Strike](https://gcaptain.com/us-east-and-gulf-coast-ports-face-imminent-shutdown-as-union-announces-intent-to-strike/)
+- [NotebookLM&#39;s automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
+- [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
 - [A teacher who made mistakes on purpose](https://nik.art/the-teacher-who-made-mistakes-on-purpose/)
 - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
 - [Kris Kristofferson has died](https://www.rollingstone.com/music/music-country/kris-kristofferson-dead-1107074/)
-- [Modifying the ThinkPad 13 Gen 1 to unlock its full PCIe potential](https://bassusteur.github.io/2024/08/07/thinkpad13nvme.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
