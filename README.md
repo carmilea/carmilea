@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [David Brin – The Dogma of Otherness](https://www.davidbrin.com/nonfiction/dogmaofotherness.html)
 - [NotebookLM&#39;s automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
 - [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
-- [A teacher who made mistakes on purpose](https://nik.art/the-teacher-who-made-mistakes-on-purpose/)
-- [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
-- [Kris Kristofferson has died](https://www.rollingstone.com/music/music-country/kris-kristofferson-dead-1107074/)
+- [Doom in the iPhone Photos App &lpar;Barely&rpar;](https://eieio.games/nonsense/game-15-doom-ios-photos-app/)
+- [Visual Studio Code is designed to fracture &lpar;2022&rpar;](https://ghuntley.com/fracture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
