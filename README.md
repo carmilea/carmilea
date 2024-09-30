@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [David Brin – The Dogma of Otherness](https://www.davidbrin.com/nonfiction/dogmaofotherness.html)
+- [Tips for Building and Deploying Robots](https://rodneybrooks.com/tips-for-building-and-deploying-robots/)
+- [Foraging for America&#39;s Forgotten Fruit](https://www.atlasobscura.com/articles/how-to-forage-for-pawpaw-recipes)
 - [NotebookLM&#39;s automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
 - [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
-- [Doom in the iPhone Photos App &lpar;Barely&rpar;](https://eieio.games/nonsense/game-15-doom-ios-photos-app/)
-- [Visual Studio Code is designed to fracture &lpar;2022&rpar;](https://ghuntley.com/fracture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
