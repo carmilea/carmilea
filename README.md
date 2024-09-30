@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A teacher who made mistakes on purpose](https://nik.art/the-teacher-who-made-mistakes-on-purpose/)
-- [Do AI Companies Work?](https://benn.substack.com/p/do-ai-companies-work)
-- [96% of climate policy since 1998 failed](https://www.alumni.ox.ac.uk/article/96-of-climate-policy-since-1998-failed)
+- [US East and Gulf Coast Ports Face Shutdown as Union Announces Intent to Strike](https://gcaptain.com/us-east-and-gulf-coast-ports-face-imminent-shutdown-as-union-announces-intent-to-strike/)
+- [Angry Amazon employees are &#39;rage applying&#39; for new jobs after RTO mandate](https://fortune.com/2024/09/29/amazon-employees-angry-andy-jassy-rto-mandate/)
+- [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
+- [Modifying the ThinkPad 13 Gen 1 to unlock its full PCIe potential](https://bassusteur.github.io/2024/08/07/thinkpad13nvme.html)
 - [On With Theo / T3.gg](https://ma.tt/2024/09/t3/)
-- [Gavin Newsom vetoes SB 1047](https://www.wsj.com/tech/ai/californias-gavin-newsom-vetoes-controversial-ai-safety-bill-d526f621)
 <!-- BLOG-POST-LIST:END -->
 
 ---
