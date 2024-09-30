@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI chipmaker Cerebras files for IPO to take on Nvidia](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html)
 - [Show HN: qrframe – generate beautiful qr codes with javascript code](https://github.com/zhengkyl/qrframe)
 - [MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)
 - [Deep Learning with Jax](https://www.manning.com/books/deep-learning-with-jax)
 - [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
-- [Paperless-ngx: scan, index and archive all your physical documents](https://github.com/paperless-ngx/paperless-ngx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
