@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Abandoned Mines Cover the West](https://www.hcn.org/issues/56-7/abandoned-mines-cover-the-west/)
+- [Boris Vallejo and the Pixel Art of the Demoscene](https://marincomics.com/vallejo-pixelart.html)
 - [AI chipmaker Cerebras files for IPO to take on Nvidia](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html)
+- [BorgBackup 2.0 supports Rclone – over 70 cloud providers in addition to SSH](https://borgbackup.readthedocs.io/en/2.0.0b11/changes.html#version-2-0-0b11-2024-09-26)
 - [Show HN: qrframe – generate beautiful qr codes with javascript code](https://github.com/zhengkyl/qrframe)
-- [MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)
-- [Deep Learning with Jax](https://www.manning.com/books/deep-learning-with-jax)
-- [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
