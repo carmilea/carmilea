@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Node in Global Semiconductor Supply Chain Hit by Hurricane Helene](https://hntrbrk.com/essential-node-in-global-semiconductor-supply-chain-hit-by-hurricane-helene-video-reveals-entrance-to-mine-has-flooded/)
+- [Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective &lpar;2023&rpar;](https://libera.chat/news/matrix-bridge-disabled-retrospective)
 - [A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs](https://arxiv.org/abs/2406.10279)
-- [Boris Vallejo and the Pixel Art of the Demoscene](https://marincomics.com/vallejo-pixelart.html)
-- [AI chipmaker Cerebras files for IPO to take on Nvidia](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html)
-- [Tim Peters – Dispelling Information Asymmetry](https://tim-one.github.io/psf/ban.html)
+- [Boris Vallejo and the pixel art of the demoscene](https://marincomics.com/vallejo-pixelart.html)
+- [AI chipmaker Cerebras files for IPO](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html)
+- [BorgBackup 2.0 supports Rclone – over 70 cloud providers in addition to SSH](https://borgbackup.readthedocs.io/en/2.0.0b11/changes.html#version-2-0-0b11-2024-09-26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
