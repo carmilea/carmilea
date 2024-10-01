@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Godot Game Engine Self Destructs [video]](https://www.youtube.com/watch?v=KTB6ofgkgn0)
-- [I built a website starter kit for my side hustles](https://suf.io/blog/why-i-built-a-seo-website-starter-kit/)
+- [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
+- [UK workers must keep all customer tips under new law](https://www.bbc.co.uk/news/articles/czj9mxnyezdo)
+- [New, unique fusion reactor comes together due to global research collaboration](https://phys.org/news/2024-09-unique-fusion-reactor-due-global.html)
 - [Autarc &lpar;YC S24&rpar; Is Hiring a Software Engineer to Fight Climate Change](https://news.ycombinator.com/item?id=41705391)
-- [Red team hacker on how she breaks into buildings and pretends to be the bad guy](https://www.theregister.com/2024/09/29/interview_with_a_social_engineering/)
-- [Dockworkers at ports from Maine to Texas go on strike](https://apnews.com/article/port-strike-ila-dockworkers-begins-e5468e760f46a64e4322d1702beb1f72)
+- [Multiversion Python Thoughts](https://lucumr.pocoo.org/2024/9/9/multiversion-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
