@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Who is pretending to be hiring?](https://news.ycombinator.com/item?id=41714672)
-- [Juno for YouTube has been removed from the App Store](https://christianselig.com/2024/10/juno-removed/)
-- [Verdn &lpar;YC W22&rpar; is hiring software engineers to build next-gen donation APIs](https://www.ycombinator.com/companies/verdn/jobs/aGevsKd-full-stack-engineer)
-- [What happens if someone votes by absentee/mail-in and dies before Election Day?](https://ballotpedia.org/What_happens_if_someone_votes_by_absentee/mail-in_ballot_and_dies_before_Election_Day%3F_(2024))
-- [COBOL has been “dead” for so long, my grandpa wrote about it](https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html)
+- [CERN serves 1EB of data via FUSE [video]](https://kernel-recipes.org/en/2024/schedule/how-cern-serves-1eb-of-data-via-fuse/)
+- [Korean women remove pictures, videos from social media amid deepfake porn crisis](https://www.channelnewsasia.com/east-asia/south-korea-criminalise-deepfake-porn-protests-4642616)
+- [SlateDB – An embedded database built on object storage](https://slatedb.io/)
+- [Radio Shack Catalog Archive &lpar;1939-2011&rpar;](https://www.radioshackcatalogs.com/?_hsenc=p2ANqtz-9H5PQMgh6cUobaKL8FZ3-Ib1lk2jXz-BBrutnvv14LwcLObCTepV_IHs6nj83QW1bzJZzkyQpOm2OVPZbBmOmtzIMoRw&_hsmi=327012423)
+- [The Simple Guide to Building and Breaking Habits](https://alexy.tech/posts/the-simple-guide-to-building-and-breaking-habits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
