@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amtrak&#39;s New Marketing Strategy: It&#39;s Not a Train, It&#39;s a Hotel on Wheels](https://www.wsj.com/articles/amtraks-new-marketing-strategy-its-not-a-train-its-a-hotel-on-wheels-aef63302)
-- [Earth has caught a &#39;second moon&#39;](https://www.space.com/earth-will-capture-second-moon-sept-2024)
-- [Hasbro&#39;s Trademark for the Smell of Play-Doh &lpar;2018&rpar;](https://tmog.uspto.gov/#/issueDate=2018-05-15&serialNumber=87335817)
-- [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
-- [Is the world really running out of sand?](https://practical.engineering/blog/2024/10/1/is-the-world-really-running-out-of-sand)
+- [Launch HN: Quetzal &lpar;YC S24&rpar; – Stripe for Internationalization](https://news.ycombinator.com/item?id=41712020)
+- [Sorry, GenAI is NOT going to 10x computer programming](https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer)
+- [Anthropic hires OpenAI co-founder Durk Kingma](https://techcrunch.com/2024/10/01/anthropic-hires-openai-co-founder-durk-kingma/)
+- [Ryujinx &lpar;Nintendo Switch emulator&rpar; has been removed from GitHub](https://github.com/Ryujinx/Ryujinx)
+- [OpenAI DevDay 2024 live blog](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
