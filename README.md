@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dockworkers at ports from Maine to Texas go on strike](https://apnews.com/article/port-strike-ila-dockworkers-begins-e5468e760f46a64e4322d1702beb1f72)
+- [Sports Betting Apps Are Even More Toxic Than You Thought](https://www.bloomberg.com/news/articles/2024-09-27/sports-betting-apps-are-even-more-toxic-than-you-imagined)
 - [Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective &lpar;2023&rpar;](https://libera.chat/news/matrix-bridge-disabled-retrospective)
 - [A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs](https://arxiv.org/abs/2406.10279)
 - [Boris Vallejo and the pixel art of the demoscene](https://marincomics.com/vallejo-pixelart.html)
-- [AI chipmaker Cerebras files for IPO](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html)
-- [BorgBackup 2.0 supports Rclone – over 70 cloud providers in addition to SSH](https://borgbackup.readthedocs.io/en/2.0.0b11/changes.html#version-2-0-0b11-2024-09-26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
