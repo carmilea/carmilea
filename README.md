@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Who is pretending to be hiring?](https://news.ycombinator.com/item?id=41714672)
+- [Juno for YouTube has been removed from the App Store](https://christianselig.com/2024/10/juno-removed/)
 - [Verdn &lpar;YC W22&rpar; is hiring software engineers to build next-gen donation APIs](https://www.ycombinator.com/companies/verdn/jobs/aGevsKd-full-stack-engineer)
-- [COBOL has been &quot;dead&quot; for so long, my grandpa wrote about it](https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html)
-- [Don&#39;t build your castle in other people&#39;s kingdoms &lpar;2021&rpar;](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/)
-- [You Better Shop Around: Litigant Characteristics and Supreme Court Support [pdf]](https://elizabethalane.com/wp-content/uploads/2024/08/d08a8-shoparound20240514.pdf)
-- [Mullenweg threatens corporate takeover of WP Engine](https://www.therepository.email/mullenweg-threatens-corporate-takeover-of-wp-engine)
+- [What happens if someone votes by absentee/mail-in and dies before Election Day?](https://ballotpedia.org/What_happens_if_someone_votes_by_absentee/mail-in_ballot_and_dies_before_Election_Day%3F_(2024))
+- [COBOL has been “dead” for so long, my grandpa wrote about it](https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
