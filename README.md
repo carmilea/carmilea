@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nintendo Is Now Going After YouTube Accounts Which Show Its Games Being Emulated](https://www.timeextension.com/news/2024/10/nintendo-is-now-going-after-youtube-accounts-which-show-its-games-being-emulated)
+- [Dead Internet &lpar;2023&rpar;](https://darkfutura.substack.com/p/dead-internet)
+- [Bots, So Many Bots](https://wakatime.com/blog/67-bots-so-many-bots)
+- [The Netherlands Has Returned 288 Stolen Artifacts to Indonesia](https://www.smithsonianmag.com/smart-news/the-netherlands-returned-288-stolen-artifacts-to-indonesia-180985137/)
 - [Evolving GitHub Issues](https://github.blog/changelog/2024-10-01-evolving-github-issues-public-preview/)
 - [Mozilla&#39;s lapse in judgement causes clash with uBlock Origin developer](https://www.ghacks.net/2024/10/01/mozillas-massive-lapse-in-judgement-causes-clash-with-ublock-origin-developer/)
-- [Ask HN: How close are we to replace animal models with software?](https://news.ycombinator.com/item?id=41707807)
-- [YC criticized for backing AI startup that simply cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
