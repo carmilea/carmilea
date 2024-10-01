@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
-- [UK workers must keep all customer tips under new law](https://www.bbc.co.uk/news/articles/czj9mxnyezdo)
-- [New, unique fusion reactor comes together due to global research collaboration](https://phys.org/news/2024-09-unique-fusion-reactor-due-global.html)
-- [Autarc &lpar;YC S24&rpar; Is Hiring a Software Engineer to Fight Climate Change](https://news.ycombinator.com/item?id=41705391)
-- [Multiversion Python Thoughts](https://lucumr.pocoo.org/2024/9/9/multiversion-python/)
+- [YC criticized for backing AI startup that simply cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/)
+- [uBlock Origin Lite maker ends Firefox store support, slams Mozilla](https://www.neowin.net/news/ublock-origin-lite-maker-ends-firefox-store-support-slams-mozilla-for-hostile-reviews/)
+- [79 Percent of CEOs Say Remote Work Will Be Dead in 3 Years or Less](https://www.inc.com/minda-zetlin/79-percent-of-ceos-say-remote-work-will-be-dead-in-3-years-or-less.html)
+- [Solar and wind less than half the cost of fossil fuels as price falls continue](https://reneweconomy.com.au/solar-and-wind-less-than-half-the-cost-of-fossil-fuels-as-price-falls-continue/)
+- [NewsCatcher News API &lpar;YC S22&rpar; Is Hiring](https://www.newscatcherapi.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
