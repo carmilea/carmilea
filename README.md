@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hasbro&#39;s Trademark for the Smell of Play-Doh](https://tmog.uspto.gov/#/issueDate=2018-05-15&serialNumber=87335817)
+- [Amtrak&#39;s New Marketing Strategy: It&#39;s Not a Train, It&#39;s a Hotel on Wheels](https://www.wsj.com/articles/amtraks-new-marketing-strategy-its-not-a-train-its-a-hotel-on-wheels-aef63302)
+- [Earth has caught a &#39;second moon&#39;](https://www.space.com/earth-will-capture-second-moon-sept-2024)
+- [Hasbro&#39;s Trademark for the Smell of Play-Doh &lpar;2018&rpar;](https://tmog.uspto.gov/#/issueDate=2018-05-15&serialNumber=87335817)
 - [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
-- [Better privacy can be one click away. Google and Apple won&#39;t allow it](https://www.washingtonpost.com/technology/2024/09/27/chrome-safari-privacy-setting-law-google-apple/)
-- [Antidemocratic, Racist, and Antisemitic Sentiments in Postwar West Germany](https://www.cambridge.org/core/journals/central-european-history/article/perils-of-privacy-and-passivity-antidemocratic-racist-and-antisemitic-sentiments-in-postwar-west-germany/20F2E2F41C284FD987793BD17F74F4EC)
-- [Should you use Rust in LLM based tools for performance?](https://bosun.ai/posts/rust-for-genai-performance/)
+- [Is the world really running out of sand?](https://practical.engineering/blog/2024/10/1/is-the-world-really-running-out-of-sand)
 <!-- BLOG-POST-LIST:END -->
 
 ---
