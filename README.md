@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dead Internet &lpar;2023&rpar;](https://darkfutura.substack.com/p/dead-internet)
-- [Bots, So Many Bots](https://wakatime.com/blog/67-bots-so-many-bots)
-- [The Netherlands Has Returned 288 Stolen Artifacts to Indonesia](https://www.smithsonianmag.com/smart-news/the-netherlands-returned-288-stolen-artifacts-to-indonesia-180985137/)
-- [Evolving GitHub Issues](https://github.blog/changelog/2024-10-01-evolving-github-issues-public-preview/)
-- [Mozilla&#39;s lapse in judgement causes clash with uBlock Origin developer](https://www.ghacks.net/2024/10/01/mozillas-massive-lapse-in-judgement-causes-clash-with-ublock-origin-developer/)
+- [Hasbro&#39;s Trademark for the Smell of Play-Doh](https://tmog.uspto.gov/#/issueDate=2018-05-15&serialNumber=87335817)
+- [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
+- [Better privacy can be one click away. Google and Apple won&#39;t allow it](https://www.washingtonpost.com/technology/2024/09/27/chrome-safari-privacy-setting-law-google-apple/)
+- [Antidemocratic, Racist, and Antisemitic Sentiments in Postwar West Germany](https://www.cambridge.org/core/journals/central-european-history/article/perils-of-privacy-and-passivity-antidemocratic-racist-and-antisemitic-sentiments-in-postwar-west-germany/20F2E2F41C284FD987793BD17F74F4EC)
+- [Should you use Rust in LLM based tools for performance?](https://bosun.ai/posts/rust-for-genai-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
