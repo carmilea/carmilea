@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Better Shop Around: Litigant Characteristics and Supreme Court Support](https://www.journals.uchicago.edu/doi/10.1086/732956)
+- [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
+- [The Last Sun SPARC Workstation](https://hackaday.com/2024/09/28/the-last-sun-sparc-workstation/)
+- [The $621M Legal Battle by Record Labels Against Internet Archive](https://www.rollingstone.com/music/music-features/internet-archive-major-label-music-lawsuit-1235105273/)
 - [Launch HN: Quetzal &lpar;YC S24&rpar; – Stripe for Internationalization](https://news.ycombinator.com/item?id=41712020)
-- [Sorry, GenAI is NOT going to 10x computer programming](https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer)
-- [Anthropic hires OpenAI co-founder Durk Kingma](https://techcrunch.com/2024/10/01/anthropic-hires-openai-co-founder-durk-kingma/)
-- [Ryujinx &lpar;Nintendo Switch emulator&rpar; has been removed from GitHub](https://github.com/Ryujinx/Ryujinx)
-- [OpenAI DevDay 2024 live blog](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
