@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why laptop support, why now: FreeBSD&#39;s strategic move toward broader adoption](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/)
+- [Piracy](https://blog.cobanov.cloud/blog/piracy)
 - [Dockworkers at ports from Maine to Texas go on strike](https://apnews.com/article/port-strike-ila-dockworkers-begins-e5468e760f46a64e4322d1702beb1f72)
 - [Sports Betting Apps Are Even More Toxic Than You Thought](https://www.bloomberg.com/news/articles/2024-09-27/sports-betting-apps-are-even-more-toxic-than-you-imagined)
 - [Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective &lpar;2023&rpar;](https://libera.chat/news/matrix-bridge-disabled-retrospective)
-- [A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs](https://arxiv.org/abs/2406.10279)
-- [Boris Vallejo and the pixel art of the demoscene](https://marincomics.com/vallejo-pixelart.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
