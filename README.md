@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Weird Books to Read](https://bizarrebookshelf.com/)
 - [Dashi – A Streamlit Like Framework for Rubyists](https://thedayisntgray.github.io/now/2024/10/01/dashi-preview/)
 - [NixOS is a good server OS, except when it isn&#39;t](https://sidhion.com/blog/posts/nixos_server_issues/)
 - [Show HN: Quilt – Powerful RAG UI for Document QA](https://quilt.fly.dev/)
 - [Nvidia releases NVLM 1.0 72B open weight model](https://huggingface.co/nvidia/NVLM-D-72B)
+- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
