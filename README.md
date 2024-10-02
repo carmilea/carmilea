@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41724950)
+- [Divers in Mexico&#39;s Underwater Caves Get a Glimpse Artifacts, Fossils, Remains](https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/)
 - [TinyJS – Shorten JavaScript QuerySelect with $ and $$](https://github.com/victorqribeiro/TinyJS)
-- [Show HN: Kameo – a Rust library for building fault-tolerant, async actors](https://github.com/tqwewe/kameo)
+- [Show HN: Kameo – Fault-tolerant async actors built on Tokio](https://github.com/tqwewe/kameo)
 - [WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects](https://github.com/stephansturges/WALDO)
-- [Newton&#39;s financial misadventures in the South Sea Bubble &lpar;2018&rpar;](https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0018)
-- [Distro &lpar;YC S24&rpar; Is Hiring a Senior Software Engineer](https://www.ycombinator.com/companies/distro/jobs/nZB8oET-senior-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
