@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CERN serves 1EB of data via FUSE [video]](https://kernel-recipes.org/en/2024/schedule/how-cern-serves-1eb-of-data-via-fuse/)
-- [Korean women remove pictures, videos from social media amid deepfake porn crisis](https://www.channelnewsasia.com/east-asia/south-korea-criminalise-deepfake-porn-protests-4642616)
-- [SlateDB – An embedded database built on object storage](https://slatedb.io/)
-- [Radio Shack Catalog Archive &lpar;1939-2011&rpar;](https://www.radioshackcatalogs.com/?_hsenc=p2ANqtz-9H5PQMgh6cUobaKL8FZ3-Ib1lk2jXz-BBrutnvv14LwcLObCTepV_IHs6nj83QW1bzJZzkyQpOm2OVPZbBmOmtzIMoRw&_hsmi=327012423)
-- [The Simple Guide to Building and Breaking Habits](https://alexy.tech/posts/the-simple-guide-to-building-and-breaking-habits/)
+- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+- [Make Pottery at Home Without a Kiln &lpar;Or Anything Else&rpar; [video]](https://www.youtube.com/watch?v=VaX1iOyKsB0)
+- [Sausages: An Anthology](https://thelionandunicorn.wordpress.com/2024/09/25/sausages-an-anthology/)
+- [Math from Three to Seven](https://www.thepsmiths.com/p/review-math-from-three-to-seven-by)
+- [Northern Ontario man solves local legend, finds vintage liquor at bottom of lake](https://www.cbc.ca/news/canada/sudbury/larder-lake-local-legend-sunken-taxi-vintage-liquor-1.7332124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
