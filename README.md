@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Too Could Have Made Curl](https://daniel.haxx.se/blog/2024/02/06/fosdem-2024-you-too-could-have-made-curl/)
+- [What Your Job Ad Says About You](https://www.talentstuff.com/blog/what-your-job-ad-says-about-you)
+- [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
 - [Devyce &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/devyce/jobs/07JsyBp-senior-business-development-manager)
 - [Putting the &quot;Person&quot; in &quot;Personal Website&quot;](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
-- [Dashi – A Streamlit Like Framework for Rubyists](https://thedayisntgray.github.io/now/2024/10/01/dashi-preview/)
-- [NixOS is a good server OS, except when it isn&#39;t](https://sidhion.com/blog/posts/nixos_server_issues/)
-- [Show HN: Quilt – Powerful RAG UI for Document QA](https://quilt.fly.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
