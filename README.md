@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m a Professional](https://daniel.haxx.se/blog/2024/10/02/im-a-professional/)
 - [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 - [Make Pottery at Home Without a Kiln &lpar;Or Anything Else&rpar; [video]](https://www.youtube.com/watch?v=VaX1iOyKsB0)
 - [Sausages: An Anthology](https://thelionandunicorn.wordpress.com/2024/09/25/sausages-an-anthology/)
 - [Math from Three to Seven](https://www.thepsmiths.com/p/review-math-from-three-to-seven-by)
-- [Northern Ontario man solves local legend, finds vintage liquor at bottom of lake](https://www.cbc.ca/news/canada/sudbury/larder-lake-local-legend-sunken-taxi-vintage-liquor-1.7332124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
