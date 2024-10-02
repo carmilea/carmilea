@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fastest Mutexes](https://justine.lol/mutex/)
+- [American WWII bomb explodes at Japanese airport, causing large crater in taxiway](https://www.cnn.com/2024/10/02/travel/wwii-bomb-miyazaki-airport-japan-scli-intl/index.html)
+- [The bunkbed conjecture is false](https://igorpak.wordpress.com/2024/10/01/the-bunkbed-conjecture-is-false/)
 - [Evidence of &#39;Negative Time&#39; Found in Quantum Physics Experiment](https://www.scientificamerican.com/article/evidence-of-negative-time-found-in-quantum-physics-experiment/)
 - [Hatchet &lpar;YC W24&rpar; is hiring a developer-focused product engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/eopXhc4-product-engineer)
-- [I made a game you can play without anyone knowing &lpar;No Visuals/Sound&rpar;](https://apps.apple.com/us/app/tik/id6720712299)
-- [Show HN: A Demo for a Strategy Game](https://store.steampowered.com/app/2389320/Fall_of_an_Empire_Demo/)
-- [You Too Could Have Made Curl](https://daniel.haxx.se/blog/2024/02/06/fosdem-2024-you-too-could-have-made-curl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
