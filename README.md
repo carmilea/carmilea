@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Quilt – Powerful RAG UI for Document QA](https://quilt.fly.dev/)
+- [Nvidia releases NVLM 1.0 72B open weight model](https://huggingface.co/nvidia/NVLM-D-72B)
 - [I&#39;m a Professional](https://daniel.haxx.se/blog/2024/10/02/im-a-professional/)
 - [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 - [Make Pottery at Home Without a Kiln &lpar;Or Anything Else&rpar; [video]](https://www.youtube.com/watch?v=VaX1iOyKsB0)
-- [Sausages: An Anthology](https://thelionandunicorn.wordpress.com/2024/09/25/sausages-an-anthology/)
-- [Math from Three to Seven](https://www.thepsmiths.com/p/review-math-from-three-to-seven-by)
 <!-- BLOG-POST-LIST:END -->
 
 ---
