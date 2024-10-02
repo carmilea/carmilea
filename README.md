@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Airborne plastic levels shock researchers &lpar;chronic DEHP/DiNP/DEHT exposure&rpar;](https://news.ucr.edu/articles/2024/10/01/airborne-plastic-chemical-levels-shock-researchers)
-- [Former Nintendo factory in Kyoto opens as nostalgia-fuelled gaming museum](https://www.theguardian.com/games/2024/oct/02/former-nintendo-factory-in-kyoto-opens-as-nostalgia-fuelled-gaming-museum)
 - [Hatchet &lpar;YC W24&rpar; is hiring a developer-focused product engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/eopXhc4-product-engineer)
 - [Show HN: I made a game you can play without anyone knowing &lpar;No Visuals/Sound&rpar;](https://apps.apple.com/us/app/tik/id6720712299)
+- [Researchers develop first banana plant resistant to TR4 and black sigatoka](https://phys.org/news/2024-10-banana-resistant-tr4-black-sigatoka.html)
+- [Show HN: A Demo for a Strategy Game](https://store.steampowered.com/app/2389320/Fall_of_an_Empire_Demo/)
 - [You Too Could Have Made Curl](https://daniel.haxx.se/blog/2024/02/06/fosdem-2024-you-too-could-have-made-curl/)
 <!-- BLOG-POST-LIST:END -->
 
