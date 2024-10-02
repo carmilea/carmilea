@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects](https://github.com/stephansturges/WALDO)
+- [Newton&#39;s financial misadventures in the South Sea Bubble &lpar;2018&rpar;](https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0018)
 - [Distro &lpar;YC S24&rpar; Is Hiring a Senior Software Engineer](https://www.ycombinator.com/companies/distro/jobs/nZB8oET-senior-software-engineer)
+- [An adult fruit fly brain has been mapped, human brains could follow](https://www.economist.com/science-and-technology/2024/10/02/an-adult-fruit-fly-brain-has-been-mapped-human-brains-could-follow)
 - [The Fastest Mutexes](https://justine.lol/mutex/)
-- [The bunkbed conjecture is false](https://igorpak.wordpress.com/2024/10/01/the-bunkbed-conjecture-is-false/)
-- [Evidence of &#39;Negative Time&#39; Found in Quantum Physics Experiment](https://www.scientificamerican.com/article/evidence-of-negative-time-found-in-quantum-physics-experiment/)
-- [I made a game you can play without anyone knowing &lpar;No Visuals/Sound&rpar;](https://apps.apple.com/us/app/tik/id6720712299)
 <!-- BLOG-POST-LIST:END -->
 
 ---
