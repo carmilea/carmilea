@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You Too Could Have Made Curl](https://daniel.haxx.se/blog/2024/02/06/fosdem-2024-you-too-could-have-made-curl/)
-- [What Your Job Ad Says About You](https://www.talentstuff.com/blog/what-your-job-ad-says-about-you)
-- [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
-- [Devyce &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/devyce/jobs/07JsyBp-senior-business-development-manager)
-- [Putting the &quot;Person&quot; in &quot;Personal Website&quot;](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
+- [Every Scientific Field](https://xkcd.com/2986/)
+- [Former Nintendo factory in Kyoto opens as nostalgia-fuelled gaming museum](https://www.theguardian.com/games/2024/oct/02/former-nintendo-factory-in-kyoto-opens-as-nostalgia-fuelled-gaming-museum)
+- [Hatchet &lpar;YC W24&rpar; is hiring a developer-focused product engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/eopXhc4-product-engineer)
+- [GitHub&#39;s Copilot lies about its documentation. Why would I trust it with my code](https://shkspr.mobi/blog/2024/10/githubs-copilot-lies-about-its-own-documentation-so-why-would-i-trust-it-with-my-code/)
+- [Show HN: I made a game you can play without anyone knowing &lpar;No Visuals/Sound&rpar;](https://apps.apple.com/us/app/tik/id6720712299)
 <!-- BLOG-POST-LIST:END -->
 
 ---
