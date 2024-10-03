@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Statement from Automattic](https://automattic.com/2024/10/03/a-statement-from-automattic/)
+- [Robert Dennard, DRAM Pioneer, Dies at 91](https://spectrum.ieee.org/in-memoriam-oct-2024)
+- [You Can&#39;t Opt-Out of A.I. Online](https://www.newyorker.com/culture/infinite-scroll/how-to-opt-out-of-ai-online)
+- [Flawless is now in public beta](https://flawless.dev/docs/)
+- [Britain&#39;s last coal-fired power plant shuts down](https://www.theguardian.com/business/2024/sep/30/end-of-an-era-as-britains-last-coal-fired-power-plant-shuts-down)
 - [Mux &lpar;YC W16&rpar; is hiring a video engineer](https://www.mux.com/jobs?job=video)
-- [Biggest solar flare since 2017 erupts from sun and Earth is in the firing line](https://www.space.com/most-powerful-solar-flare-this-solar-cycle-x-9-earth-firing-line)
-- [US Dept of Energy announces $1.5B in electric grid improvements](https://www.upi.com/Top_News/US/2024/10/03/energy-department-electric-grid-investment/3631727969828/)
-- [The Heart of Unix &lpar;2018&rpar;](https://ericnormand.me/article/the-heart-of-unix)
 <!-- BLOG-POST-LIST:END -->
 
 ---
