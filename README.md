@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Improving Accessibility Using Vision Models](https://myswamp.substack.com/p/improving-accessibility-using-vision)
+- [Why Gumroad Didn&#39;t Choose Htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
+- [Discussing the Neptunian desert, savanna, and ridge](https://mathstodon.xyz/@johncarlosbaez/113244612199214496)
 - [Two AI review your favourite movie scripts &lpar;NotebookLM&rpar;](https://open.spotify.com/show/7rmkCsEvQl4yZAXCwZAmLd)
 - [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201)
-- [The latter half of October, the maintainer goes offline](https://lore.kernel.org/git/xmqqh69thzd0.fsf@gitster.g/T/#u)
-- [Most gamers prefer single-player games](https://www.midiaresearch.com/blog/most-gamers-prefer-single-player-games)
-- [Canvas is a new way to write and code with ChatGPT](https://openai.com/index/introducing-canvas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
