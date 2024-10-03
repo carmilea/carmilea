@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Heart of Unix &lpar;2018&rpar;](https://ericnormand.me/article/the-heart-of-unix)
+- [Google Says It Won&#39;t Follow Amazon&#39;s Lead with a Return-to-Office Mandate](https://www.entrepreneur.com/business-news/google-recommits-to-hybrid-work-schedule-unlike-amazon/480683)
+- [HTTrack Website Copier](https://github.com/xroche/httrack)
 - [Improving Accessibility Using Vision Models](https://myswamp.substack.com/p/improving-accessibility-using-vision)
 - [Why Gumroad Didn&#39;t Choose Htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
-- [Discussing the Neptunian desert, savanna, and ridge](https://mathstodon.xyz/@johncarlosbaez/113244612199214496)
-- [Two AI review your favourite movie scripts &lpar;NotebookLM&rpar;](https://open.spotify.com/show/7rmkCsEvQl4yZAXCwZAmLd)
-- [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201)
 <!-- BLOG-POST-LIST:END -->
 
 ---
