@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why my apps will soon be gone from the Google Play Store](https://frozenfractal.com/blog/2024/9/6/why-my-apps-will-soon-be-gone-from-google-play/)
+- [Meta confirms it trains its AI on any image you ask Ray-Ban Meta AI to analyze](https://techcrunch.com/2024/10/02/meta-confirms-it-may-train-its-ai-on-any-image-you-ask-ray-ban-meta-ai-to-analyze/)
+- [CEO of Wordpress.com Cries Foul and Threatens Me with Legal Action](https://medium.com/@kelliepeterson/nice-guy-matt-mullenweg-ceo-of-wordpress-com-cries-foul-and-threatens-me-with-legal-action-f116ac57d862)
+- [Microsoft: &#39;ever present&#39; AI assistants are coming](https://www.bbc.co.uk/news/articles/czj9vmnlv9zo)
 - [Show HN: Flyon UI – Free Tailwind Components Library](https://flyonui.com/)
-- [Solving the Maker-Taker Problem](https://dri.es/solving-the-maker-taker-problem)
-- [Gamma radiation is produced in large tropical thunderstorms, observations reveal](https://phys.org/news/2024-10-amount-variety-gamma-large-tropical.html)
-- [Filed: WP Engine Inc. v Automattic Inc. and Matthew Charles Mullenweg [pdf]](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al-with-Exhibit.pdf)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41724950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
