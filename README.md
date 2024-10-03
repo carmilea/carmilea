@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Image Editing with Gaussian Splatting](https://www.unite.ai/image-editing-with-gaussian-splatting/)
+- [Trayd &lpar;YC S23&rpar; Is Hiring](https://buildtrayd.notion.site/Part-time-Product-Designer-20-hrs-week-2c30587405df4edc9f24f714922105d9)
+- [Ask HN: What happens to &quot;.io&quot; TLD after UK gives back the Chagos Islands?](https://news.ycombinator.com/item?id=41729526)
+- [Amazon to increase number of advertisements on Prime Video](https://www.ft.com/content/f8112991-820c-4e09-bcf4-23b5e0f190a5)
 - [EU: Definition of &quot;potential terrorists&quot; opens door to broad information-sharing](https://www.statewatch.org/news/2024/october/eu-definition-of-potential-terrorists-opens-door-to-broad-information-sharing/)
-- [We avoid effort even though it can improve our well-being](https://www.newscientist.com/article/mg26435110-700-why-we-avoid-effort-even-though-it-can-improve-our-well-being/)
-- [France&#39;s oldest treasure hunt has been solved](https://goldenowlhunt.com/)
-- [Ever: Exact Volumetric Ellipsoid Rendering for Real-Time View Synthesis](https://half-potato.gitlab.io/posts/ever/)
-- [What Excessive Screen Time Does to the Adult Brain](https://longevity.stanford.edu/lifestyle/2024/05/30/what-excessive-screen-time-does-to-the-adult-brain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
