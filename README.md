@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cooking items in your home are linked to cancer-causing chemicals](https://www.pennlive.com/nation-world/2024/10/these-cooking-items-in-your-home-are-linked-to-cancer-causing-chemicals.html)
+- [Serving 70B-Scale LLMs Efficiently on Low-Resource Edge Devices [pdf]](https://arxiv.org/abs/2410.00531)
+- [Dance training superior to physical exercise in inducing brain plasticity &lpar;2018&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
 - [Solving methane mysteries with satellite imagery](https://blog.datadesk.eco/p/methane-mysteries)
-- [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
-- [Image Editing with Gaussian Splatting](https://www.unite.ai/image-editing-with-gaussian-splatting/)
-- [Trayd &lpar;YC S23&rpar; Is Hiring](https://buildtrayd.notion.site/Part-time-Product-Designer-20-hrs-week-2c30587405df4edc9f24f714922105d9)
-- [Ask HN: What happens to &quot;.io&quot; TLD after UK gives back the Chagos Islands?](https://news.ycombinator.com/item?id=41729526)
+- [A Single Cloud Compromise Can Feed an Army of AI Sex Bots](https://krebsonsecurity.com/2024/10/a-single-cloud-compromise-can-feed-an-army-of-ai-sex-bots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
