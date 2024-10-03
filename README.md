@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Activeloop &lpar;YC S18&rpar; Hiring an AI Search Engineer to Ship Fast and Accurate Search](https://www.ycombinator.com/companies/activeloop/jobs/RQYMSP1-ai-search-engineer)
-- [NSO Should Lose Spyware Case for Discovery Violations, Meta Says](https://news.bloomberglaw.com/privacy-and-data-security/nso-should-lose-spyware-case-for-discovery-violations-meta-says)
-- [Serving 70B-Scale LLMs Efficiently on Low-Resource Edge Devices [pdf]](https://arxiv.org/abs/2410.00531)
-- [Dance training superior to physical exercise in inducing brain plasticity &lpar;2018&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
-- [FLUX1.1 [pro] – New SotA text-to-image model from Black Forest Labs](https://replicate.com/black-forest-labs/flux-1.1-pro)
+- [Two AI review your favourite movie scripts &lpar;NotebookLM&rpar;](https://open.spotify.com/show/7rmkCsEvQl4yZAXCwZAmLd)
+- [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201)
+- [The latter half of October, the maintainer goes offline](https://lore.kernel.org/git/xmqqh69thzd0.fsf@gitster.g/T/#u)
+- [Most gamers prefer single-player games](https://www.midiaresearch.com/blog/most-gamers-prefer-single-player-games)
+- [Canvas is a new way to write and code with ChatGPT](https://openai.com/index/introducing-canvas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
