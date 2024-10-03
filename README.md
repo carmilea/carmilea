@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving methane mysteries with satellite imagery](https://blog.datadesk.eco/p/methane-mysteries)
+- [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 - [Image Editing with Gaussian Splatting](https://www.unite.ai/image-editing-with-gaussian-splatting/)
 - [Trayd &lpar;YC S23&rpar; Is Hiring](https://buildtrayd.notion.site/Part-time-Product-Designer-20-hrs-week-2c30587405df4edc9f24f714922105d9)
 - [Ask HN: What happens to &quot;.io&quot; TLD after UK gives back the Chagos Islands?](https://news.ycombinator.com/item?id=41729526)
-- [France&#39;s oldest treasure hunt has been solved](https://goldenowlhunt.com/)
-- [Ever: Exact Volumetric Ellipsoid Rendering for Real-Time View Synthesis](https://half-potato.gitlab.io/posts/ever/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
