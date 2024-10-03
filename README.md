@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: End-to-End Encrypted Dead Man&#39;s Switch](https://www.cipherwill.com/)
+- [Filed: WP Engine Inc. v Automattic Inc. and Matthew Charles Mullenweg [pdf]](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al-with-Exhibit.pdf)
 - [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41724950)
 - [William Cowper and the Age of the Earth [pdf] &lpar;2019&rpar;](https://www.charlespetzold.com/essays/WilliamCowperAndTheAgeOfTheEarth.pdf)
 - [In Mexico’s underwater caves, a glimpse of artifacts, fossils and human remains](https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/)
-- [TinyJS – Shorten JavaScript QuerySelect with $ and $$](https://github.com/victorqribeiro/TinyJS)
+- [Show HN: Kameo – Fault-tolerant async actors built on Tokio](https://github.com/tqwewe/kameo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
