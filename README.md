@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU: Definition of &quot;potential terrorists&quot; opens door to broad information-sharing](https://www.statewatch.org/news/2024/october/eu-definition-of-potential-terrorists-opens-door-to-broad-information-sharing/)
 - [We avoid effort even though it can improve our well-being](https://www.newscientist.com/article/mg26435110-700-why-we-avoid-effort-even-though-it-can-improve-our-well-being/)
+- [France&#39;s oldest treasure hunt has been solved](https://goldenowlhunt.com/)
 - [Ever: Exact Volumetric Ellipsoid Rendering for Real-Time View Synthesis](https://half-potato.gitlab.io/posts/ever/)
 - [What Excessive Screen Time Does to the Adult Brain](https://longevity.stanford.edu/lifestyle/2024/05/30/what-excessive-screen-time-does-to-the-adult-brain/)
-- [Terminal Colours Are Tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
-- [Show HN: Flyon UI – Tailwind Components Library](https://flyonui.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
