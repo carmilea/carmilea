@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We avoid effort even though it can improve our well-being](https://www.newscientist.com/article/mg26435110-700-why-we-avoid-effort-even-though-it-can-improve-our-well-being/)
 - [Ever: Exact Volumetric Ellipsoid Rendering for Real-Time View Synthesis](https://half-potato.gitlab.io/posts/ever/)
 - [What Excessive Screen Time Does to the Adult Brain](https://longevity.stanford.edu/lifestyle/2024/05/30/what-excessive-screen-time-does-to-the-adult-brain/)
 - [Terminal Colours Are Tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
-- [Microsoft: &#39;ever present&#39; AI assistants are coming](https://www.bbc.co.uk/news/articles/czj9vmnlv9zo)
 - [Show HN: Flyon UI – Tailwind Components Library](https://flyonui.com/)
 <!-- BLOG-POST-LIST:END -->
 
