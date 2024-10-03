@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube puts a Strike for showing how to setup Jellyfin](https://twitter.com/geerlingguy/status/1841477101670605205)
 - [Cooking items in your home are linked to cancer-causing chemicals](https://www.pennlive.com/nation-world/2024/10/these-cooking-items-in-your-home-are-linked-to-cancer-causing-chemicals.html)
 - [Serving 70B-Scale LLMs Efficiently on Low-Resource Edge Devices [pdf]](https://arxiv.org/abs/2410.00531)
 - [Dance training superior to physical exercise in inducing brain plasticity &lpar;2018&rpar;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
-- [Solving methane mysteries with satellite imagery](https://blog.datadesk.eco/p/methane-mysteries)
-- [A Single Cloud Compromise Can Feed an Army of AI Sex Bots](https://krebsonsecurity.com/2024/10/a-single-cloud-compromise-can-feed-an-army-of-ai-sex-bots/)
+- [FLUX1.1 [pro] – New SotA text-to-image model from Black Forest Labs](https://replicate.com/black-forest-labs/flux-1.1-pro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
