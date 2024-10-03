@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Employers Say Students Need AI Skills. What If Students Don&#39;t Want Them?](https://www.insidehighered.com/news/student-success/life-after-college/2024/10/03/are-ai-skills-key-part-career-preparation)
+- [Ever: Exact Volumetric Ellipsoid Rendering for Real-Time View Synthesis](https://half-potato.gitlab.io/posts/ever/)
 - [What Excessive Screen Time Does to the Adult Brain](https://longevity.stanford.edu/lifestyle/2024/05/30/what-excessive-screen-time-does-to-the-adult-brain/)
 - [Terminal Colours Are Tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
-- [Why my apps will soon be gone from the Google Play Store](https://frozenfractal.com/blog/2024/9/6/why-my-apps-will-soon-be-gone-from-google-play/)
 - [Microsoft: &#39;ever present&#39; AI assistants are coming](https://www.bbc.co.uk/news/articles/czj9vmnlv9zo)
+- [Show HN: Flyon UI – Tailwind Components Library](https://flyonui.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
