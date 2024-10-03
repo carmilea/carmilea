@@ -58,9 +58,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Robert Dennard, DRAM Pioneer, Dies at 91](https://spectrum.ieee.org/in-memoriam-oct-2024)
+- [Update on Reflection-70B](https://glaive.ai/blog/post/reflection-postmortem)
+- [Robert Dennard, DRAM Pioneer, has died](https://spectrum.ieee.org/in-memoriam-oct-2024)
 - [You Can&#39;t Opt-Out of A.I. Online](https://www.newyorker.com/culture/infinite-scroll/how-to-opt-out-of-ai-online)
-- [Flawless is now in public beta](https://flawless.dev/docs/)
 - [Britain&#39;s last coal-fired power plant shuts down](https://www.theguardian.com/business/2024/sep/30/end-of-an-era-as-britains-last-coal-fired-power-plant-shuts-down)
 - [Mux &lpar;YC W16&rpar; is hiring a video engineer](https://www.mux.com/jobs?job=video)
 <!-- BLOG-POST-LIST:END -->
