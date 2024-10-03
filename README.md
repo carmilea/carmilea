@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Statement from Automattic](https://automattic.com/2024/10/03/a-statement-from-automattic/)
+- [Mux &lpar;YC W16&rpar; is hiring a video engineer](https://www.mux.com/jobs?job=video)
+- [Biggest solar flare since 2017 erupts from sun and Earth is in the firing line](https://www.space.com/most-powerful-solar-flare-this-solar-cycle-x-9-earth-firing-line)
+- [US Dept of Energy announces $1.5B in electric grid improvements](https://www.upi.com/Top_News/US/2024/10/03/energy-department-electric-grid-investment/3631727969828/)
 - [The Heart of Unix &lpar;2018&rpar;](https://ericnormand.me/article/the-heart-of-unix)
-- [Google Says It Won&#39;t Follow Amazon&#39;s Lead with a Return-to-Office Mandate](https://www.entrepreneur.com/business-news/google-recommits-to-hybrid-work-schedule-unlike-amazon/480683)
-- [HTTrack Website Copier](https://github.com/xroche/httrack)
-- [Improving Accessibility Using Vision Models](https://myswamp.substack.com/p/improving-accessibility-using-vision)
-- [Why Gumroad Didn&#39;t Choose Htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
