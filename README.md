@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gym Class &lpar;YC W22&rpar; – Hiring First Mobile Game Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-senior-staff-principal)
 - [12 Months of Mandarin](https://isaak.net/mandarin/)
 - [Show HN: One – A new React framework unifying web, native and local-first](https://onestack.dev)
 - [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
 - [NumPy QuadDType: Quadruple Precision for Everyone](https://labs.quansight.org/blog/numpy-quaddtype-blog)
-- [Self-locking and stiffening deployable tubular structures](https://www.pnas.org/doi/10.1073/pnas.2409062121)
 <!-- BLOG-POST-LIST:END -->
 
 ---
