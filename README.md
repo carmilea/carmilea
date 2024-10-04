@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I built a list of Product Hunt alternatives for indie founders](https://phalternatives.com)
 - [IRS Direct File adds 12 additional states, covers more tax situations in 2025](https://www.irs.gov/newsroom/irs-direct-file-set-to-expand-availability-in-a-dozen-new-states-and-cover-wider-range-of-tax-situations-for-the-2025-tax-filing-season)
 - [Correcting the record for Continue and PearAI](https://www.ycombinator.com/blog/correcting-the-record/)
 - [Sequencing wastewater may be key to getting a grip on the H5N1 bird flu outbreak](https://www.statnews.com/2024/09/27/h5n1-bird-flu-wastewater-surveillance-sequencing/)
 - [Why does man print &quot;gimme gimme gimme&quot; at 00:30? &lpar;2017&rpar;](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
+- [Go Concurrency vs. RxJS](https://code.gdnetwork.co/blog/go-vs-rxjs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
