@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
-- [Manna – Two Views of Humanity&#39;s Future &lpar;2003&rpar;](https://marshallbrain.com/manna1)
-- [Gym Class &lpar;YC W22&rpar; – Hiring First Mobile Game Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-senior-staff-principal)
-- [12 Months of Mandarin](https://isaak.net/mandarin/)
-- [Show HN: One – A new React framework unifying web, native and local-first](https://onestack.dev)
+- [Carma &lpar;YC W24&rpar; Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41745521)
+- [Wikipedia and Wikidata as sources for analyzing Americanization](https://kie.ue.poznan.pl/en/news/wikimania-2024-wikipedia-and-wikidata-as-sources-for-analyzing-americanization/)
+- [How were 70s versions of games like Pong built without a programmable computer?](https://retrocomputing.stackexchange.com/questions/30698/how-were-the-70s-versions-of-pong-and-similar-games-implemented-without-a-progra)
+- [Civilization VII recommends 16 cores and 32GB RAM for 4K gameplay](https://www.tomshardware.com/video-games/pc-gaming/civilization-vii-recommends-16-cores-and-32gb-ram-for-4k-gameplay-rtx-4070-or-rx-7800xt-is-the-minimum)
+- [Show HN: The Gmail unsubscribe tool with bulk deletion and personal data removal](https://againstdata.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
