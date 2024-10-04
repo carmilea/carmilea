@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oura Ring 4](https://ouraring.com/blog/oura-ring-4/)
+- [No evidence social media use is correlated with teen mental health problems](https://psycnet.apa.org/record/2025-31872-001)
+- [Manna – Two Views of Humanity&#39;s Future &lpar;2003&rpar;](https://marshallbrain.com/manna1)
 - [Gym Class &lpar;YC W22&rpar; – Hiring First Mobile Game Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-senior-staff-principal)
-- [12 Months of Mandarin](https://isaak.net/mandarin/)
-- [Show HN: One – A new React framework unifying web, native and local-first](https://onestack.dev)
-- [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
-- [NumPy QuadDType: Quadruple Precision for Everyone](https://labs.quansight.org/blog/numpy-quaddtype-blog)
+- [Vaccines, past and present](https://www.science.org/content/blog-post/vaccines-past-and-present)
 <!-- BLOG-POST-LIST:END -->
 
 ---
