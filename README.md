@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Is the Speed of Light So Fast? &lpar;Part 1&rpar;](https://profmattstrassler.com/2024/10/01/why-is-the-speed-of-light-so-fast-part-1/)
+- [Waymo and Hyundai enter multi-year, strategic partnership](https://waymo.com/blog/2024/10/waymo-and-hyundai-enter-partnership/)
 - [AI at Meta: Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
 - [Show HN: kew – A Terminal Music Player for Linux](https://github.com/ravachol/kew)
 - [Show HN: Chebyshev approximation calculator &lpar;open source web app&rpar;](https://stuffmatic.com/chebyshev/)
-- [Nowadays &lpar;YC S23&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/nowadays)
-- [Show HN: A tool for creating chord charts on the go](https://tiniuc.com/chord-chart-memo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
