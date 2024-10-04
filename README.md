@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI at Meta: Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
+- [Show HN: kew – A Terminal Music Player for Linux](https://github.com/ravachol/kew)
 - [Show HN: Chebyshev approximation calculator &lpar;open source web app&rpar;](https://stuffmatic.com/chebyshev/)
 - [Nowadays &lpar;YC S23&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/nowadays)
 - [Show HN: A tool for creating chord charts on the go](https://tiniuc.com/chord-chart-memo/)
-- [Migrating Seabirds Are Bringing Forever Chemicals into the Arctic](https://hakaimagazine.com/news/migrating-seabirds-are-bringing-forever-chemicals-into-the-arctic/)
-- [C64 OS Programmer&#39;s Guide](https://www.c64os.com/c64os/programmersguide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
