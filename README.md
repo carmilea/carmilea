@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What do embedded engineers do?](https://news.ycombinator.com/item?id=41743971)
 - [Oura Ring 4](https://ouraring.com/blog/oura-ring-4/)
-- [No evidence social media use is correlated with teen mental health problems](https://psycnet.apa.org/record/2025-31872-001)
+- [No evidence social media time is correlated with teen mental health problems](https://psycnet.apa.org/record/2025-31872-001)
 - [Manna – Two Views of Humanity&#39;s Future &lpar;2003&rpar;](https://marshallbrain.com/manna1)
 - [Gym Class &lpar;YC W22&rpar; – Hiring First Mobile Game Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-senior-staff-principal)
-- [Vaccines, past and present](https://www.science.org/content/blog-post/vaccines-past-and-present)
 <!-- BLOG-POST-LIST:END -->
 
 ---
