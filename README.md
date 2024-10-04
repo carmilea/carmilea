@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [France&#39;s 31-year treasure hunt for a buried owl statue ends](https://www.theguardian.com/world/2024/oct/03/france-treasure-hunt-buried-owl-statue-ends)
-- [EU top court sides with activist Schrems in privacy dispute with Meta](https://www.reuters.com/technology/eu-top-court-sides-with-activist-schrems-privacy-dispute-with-meta-2024-10-04/)
-- [159 employees are leaving Automattic as CEO’s fight with WP Engine escalates](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
-- [Reverse Engineering and Dismantling Kekz Headphones](https://nv1t.github.io/blog/kekz-headphones/)
-- [Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
+- [Show HN: Chebyshev approximation calculator &lpar;open source web app&rpar;](https://stuffmatic.com/chebyshev/)
+- [Nowadays &lpar;YC S23&rpar; Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/nowadays)
+- [Show HN: A tool for creating chord charts on the go](https://tiniuc.com/chord-chart-memo/)
+- [Migrating Seabirds Are Bringing Forever Chemicals into the Arctic](https://hakaimagazine.com/news/migrating-seabirds-are-bringing-forever-chemicals-into-the-arctic/)
+- [C64 OS Programmer&#39;s Guide](https://www.c64os.com/c64os/programmersguide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
