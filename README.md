@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jerry Seinfeld, Social Anxiety, and Meditation](https://camhashemi.com/posts/meditation/)
+- [France&#39;s 31-year treasure hunt for a buried owl statue ends](https://www.theguardian.com/world/2024/oct/03/france-treasure-hunt-buried-owl-statue-ends)
+- [EU top court sides with activist Schrems in privacy dispute with Meta](https://www.reuters.com/technology/eu-top-court-sides-with-activist-schrems-privacy-dispute-with-meta-2024-10-04/)
 - [159 employees are leaving Automattic as CEO’s fight with WP Engine escalates](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
 - [Reverse Engineering and Dismantling Kekz Headphones](https://nv1t.github.io/blog/kekz-headphones/)
 - [Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
-- [New research says blue zones can be explained by comically flawed data](https://www.independent.co.uk/life-style/blue-zones-netflix-ignobel-prize-b2622952.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
