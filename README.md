@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please Don&#39;t Make Me Download Another App](https://www.theatlantic.com/technology/archive/2024/10/too-many-apps/680122/)
-- [Cox slows Internet speeds in entire neighborhoods to punish any heavy users](https://arstechnica.com/tech-policy/2020/06/cox-slows-internet-speeds-in-entire-neighborhoods-to-punish-any-heavy-users/)
-- [Show HN: Zero – DX focused non framework to interact with the DOM](https://github.com/nhh/zero)
-- [Biblical plant with medicinal properties resurrected from 1,000-year-old seed](https://www.cnn.com/2024/10/03/science/biblical-tree-ancient-seed-tsori/index.html)
-- [Show HN: Screensavers for your terminal &lpar;Bevy/Ratatui&rpar;](https://github.com/cxreiff/ttysvr)
+- [Correcting the Record for Pear and Continue](https://www.ycombinator.com/blog/correcting-the-record/)
+- [Sequencing wastewater may be key to getting a grip on the H5N1 bird flu outbreak](https://www.statnews.com/2024/09/27/h5n1-bird-flu-wastewater-surveillance-sequencing/)
+- [Why does man print &quot;gimme gimme gimme&quot; at 00:30? &lpar;2017&rpar;](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
+- [Go Concurrency vs. RxJS](https://code.gdnetwork.co/blog/go-vs-rxjs)
+- [SiteOne Crawler – big tool with no users](https://crawler.siteone.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
