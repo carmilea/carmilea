@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust in Linux Is a Failed Experiment](https://techrights.org/n/2024/09/28/Linus_Torvalds_His_Employers_and_Critics_of_His_Employers_Can_A.shtml)
+- [Bureaucrat Mode](https://andrewchen.substack.com/p/bureaucrat-mode)
+- [Teenage hacker became a legend attacking companies, then his rivals attacked him](https://www.wsj.com/tech/cybersecurity/arion-kurtaj-hacker-468e6cad)
 - [Carma &lpar;YC W24&rpar; Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41745521)
 - [Wikipedia and Wikidata as sources for analyzing Americanization](https://kie.ue.poznan.pl/en/news/wikimania-2024-wikipedia-and-wikidata-as-sources-for-analyzing-americanization/)
-- [How were 70s versions of games like Pong built without a programmable computer?](https://retrocomputing.stackexchange.com/questions/30698/how-were-the-70s-versions-of-pong-and-similar-games-implemented-without-a-progra)
-- [Civilization VII recommends 16 cores and 32GB RAM for 4K gameplay](https://www.tomshardware.com/video-games/pc-gaming/civilization-vii-recommends-16-cores-and-32gb-ram-for-4k-gameplay-rtx-4070-or-rx-7800xt-is-the-minimum)
-- [Show HN: The Gmail unsubscribe tool with bulk deletion and personal data removal](https://againstdata.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
