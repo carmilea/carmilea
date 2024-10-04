@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [159 employees are leaving Automattic as CEO’s fight with WP Engine escalates](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
-- [Pilot flying Helene rescue missions in NC threatened with arrest](https://www.qcnews.com/news/investigations/sc-pilot-flying-volunteer-supply-and-rescue-missions-ordered-out-of-lake-lure-under-arrest-threat/)
+- [X Corp loses court challenge over fine for child abuse material notice](https://www.abc.net.au/news/2024-10-04/x-corp-loses-court-challenge-over-child-abuse-notice/104434580)
 - [Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
 - [New research says blue zones can be explained by comically flawed data](https://www.independent.co.uk/life-style/blue-zones-netflix-ignobel-prize-b2622952.html)
-- [IRS Direct File adds 12 additional states, covers more tax situations in 2025](https://www.irs.gov/newsroom/irs-direct-file-set-to-expand-availability-in-a-dozen-new-states-and-cover-wider-range-of-tax-situations-for-the-2025-tax-filing-season)
+- [Correcting the record for Continue and PearAI](https://www.ycombinator.com/blog/correcting-the-record/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
