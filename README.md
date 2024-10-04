@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [12 Months of Mandarin](https://isaak.net/mandarin/)
+- [Show HN: One – A new React framework unifying web, native and local-first](https://onestack.dev)
 - [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
-- [Port strikes end with deal on wages](https://www.npr.org/2024/10/03/nx-s1-5139450/dockworkers-port-strike-deal)
-- [NumPy QuadDType: Quadruple Precision for Everyone – Labs](https://labs.quansight.org/blog/numpy-quaddtype-blog)
-- [The Nobel-, Emmy-winning genius who became Google&#39;s star antitrust witness](https://www.semafor.com/article/10/02/2024/the-nobel-emmy-winning-genius-who-became-googles-star-antitrust-witness)
+- [NumPy QuadDType: Quadruple Precision for Everyone](https://labs.quansight.org/blog/numpy-quaddtype-blog)
 - [Self-locking and stiffening deployable tubular structures](https://www.pnas.org/doi/10.1073/pnas.2409062121)
 <!-- BLOG-POST-LIST:END -->
 
