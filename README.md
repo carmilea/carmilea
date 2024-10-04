@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Please Don&#39;t Make Me Download Another App](https://www.theatlantic.com/technology/archive/2024/10/too-many-apps/680122/)
 - [Cox slows Internet speeds in entire neighborhoods to punish any heavy users](https://arstechnica.com/tech-policy/2020/06/cox-slows-internet-speeds-in-entire-neighborhoods-to-punish-any-heavy-users/)
-- [AI agent promotes itself to sysadmin, trashes boot sequence](https://www.theregister.com/2024/10/02/ai_agent_trashes_pc/)
+- [Show HN: Zero – DX focused non framework to interact with the DOM](https://github.com/nhh/zero)
 - [Biblical plant with medicinal properties resurrected from 1,000-year-old seed](https://www.cnn.com/2024/10/03/science/biblical-tree-ancient-seed-tsori/index.html)
-- [Update on Reflection-70B](https://glaive.ai/blog/post/reflection-postmortem)
-- [Robert Dennard, DRAM Pioneer, has died](https://spectrum.ieee.org/in-memoriam-oct-2024)
+- [Show HN: Screensavers for your terminal &lpar;Bevy/Ratatui&rpar;](https://github.com/cxreiff/ttysvr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
