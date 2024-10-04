@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust in Linux Is a Failed Experiment](https://techrights.org/n/2024/09/28/Linus_Torvalds_His_Employers_and_Critics_of_His_Employers_Can_A.shtml)
+- [The Depopulation Bomb Isn&#39;t Ticking, It&#39;s Overblown](https://americandreaming.substack.com/p/the-depopulation-bomb-isnt-ticking)
+- [Α phase-locked auditory stimulation to treat symptoms of sleep onset insomnia](https://www.nature.com/articles/s41598-024-63385-1)
+- [LLMs, Theory of Mind, and Cheryl&#39;s Birthday](https://github.com/norvig/pytudes/blob/main/ipynb/CherylMind.ipynb)
 - [Bureaucrat Mode](https://andrewchen.substack.com/p/bureaucrat-mode)
 - [Teenage hacker became a legend attacking companies, then his rivals attacked him](https://www.wsj.com/tech/cybersecurity/arion-kurtaj-hacker-468e6cad)
-- [Carma &lpar;YC W24&rpar; Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41745521)
-- [Wikipedia and Wikidata as sources for analyzing Americanization](https://kie.ue.poznan.pl/en/news/wikimania-2024-wikipedia-and-wikidata-as-sources-for-analyzing-americanization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
