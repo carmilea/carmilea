@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare beats patent troll so badly it basically gives up](https://www.theregister.com/2024/10/03/patent_shakedown_fails_as_troll/)
+- [I Stayed](https://zeldman.com/2024/10/04/i-stayed/)
+- [Gen AI Makes Legal Action Cheap – and Companies Need to Prepare](https://hbr.org/2024/10/gen-ai-makes-legal-action-cheap-and-companies-need-to-prepare)
 - [The profit-obsessed monster destroying American emergency rooms](https://www.vox.com/health-care/374820/emergency-rooms-private-equity-hospitals-profits-no-surprises)
 - [Studies suggest a drug-free nasal spray could ward off respiratory infections](https://medicalxpress.com/news/2024-09-preclinical-drug-free-nasal-spray.html)
-- [Popular gut probiotic craps out in randomized controlled trial](https://arstechnica.com/health/2024/10/popular-gut-probiotic-completely-craps-out-in-randomized-controlled-trial/)
-- [The Globus INK: a mechanical navigation computer for Soviet spaceflight](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
-- [Decoding the Language of Othering by Russia-Ukraine War Bloggers](https://arxiv.org/abs/2409.13064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
