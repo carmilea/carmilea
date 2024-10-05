@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikidata Is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
+- [Task-Switching Experiment &lpar;2015&rpar;](https://www.psytoolkit.org/experiment-library/multitasking.html)
+- [Joseph Jastrow and his duck – or is it a rabbit? &lpar;2004–2020&rpar;](https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm)
 - [CoRncrete: A corn starch based building material](https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material)
 - [Show HN: Open-source real-time talk-to-AI wearable device for few $](https://github.com/StarmoonAI/Starmoon)
-- [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4)
-- [The Data Visualisation Catalogue: find the right method for your data](https://datavizcatalogue.com/search.html)
-- [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
