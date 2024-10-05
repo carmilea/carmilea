@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [McDonald&#39;s says Tyson and other suppliers fixed beef prices](https://news.bloomberglaw.com/litigation/mcdonalds-says-tyson-and-other-suppliers-fixed-beef-prices)
+- [CoRncrete: A corn starch based building material](https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material)
 - [Show HN: Open-source real-time talk-to-AI wearable device for few $](https://github.com/StarmoonAI/Starmoon)
 - [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4)
 - [The Data Visualisation Catalogue: find the right method for your data](https://datavizcatalogue.com/search.html)
