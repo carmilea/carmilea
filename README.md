@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [McDonald&#39;s says Tyson and other suppliers fixed beef prices](https://news.bloomberglaw.com/litigation/mcdonalds-says-tyson-and-other-suppliers-fixed-beef-prices)
+- [Show HN: Open-source real-time talk-to-AI wearable device for few $](https://github.com/StarmoonAI/Starmoon)
+- [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4)
+- [The Data Visualisation Catalogue: find the right method for your data](https://datavizcatalogue.com/search.html)
 - [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
-- [Potatoes are better than human blood for making space bricks, scientists say](https://www.space.com/space-bricks-potato-starch-mars-moon-dirt)
-- [Truth Social Users Are Losing Ridiculous Sums of Money to Scams](https://gizmodo.com/truth-social-users-are-losing-ridiculous-sums-of-money-to-scams-2000506604)
-- [Cloudflare beats patent troll so badly it basically gives up](https://www.theregister.com/2024/10/03/patent_shakedown_fails_as_troll/)
-- [I Stayed](https://zeldman.com/2024/10/04/i-stayed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
