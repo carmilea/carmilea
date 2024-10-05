@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The profit-obsessed monster destroying American emergency rooms](https://www.vox.com/health-care/374820/emergency-rooms-private-equity-hospitals-profits-no-surprises)
+- [Studies suggest a drug-free nasal spray could ward off respiratory infections](https://medicalxpress.com/news/2024-09-preclinical-drug-free-nasal-spray.html)
+- [Popular gut probiotic craps out in randomized controlled trial](https://arstechnica.com/health/2024/10/popular-gut-probiotic-completely-craps-out-in-randomized-controlled-trial/)
 - [The Globus INK: a mechanical navigation computer for Soviet spaceflight](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
 - [Decoding the Language of Othering by Russia-Ukraine War Bloggers](https://arxiv.org/abs/2409.13064)
-- [It&#39;s Time to Stop Taking Sam Altman at His Word](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/)
-- [CERN trains AI models to revolutionize cancer treatment](https://english.elpais.com/health/2024-10-05/cern-trains-ai-models-to-revolutionize-cancer-treatment.html)
-- [PropelAuth &lpar;YC W22&rpar; is hiring engineers who love to write](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
