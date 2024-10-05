@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Globus INK: a mechanical navigation computer for Soviet spaceflight](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
+- [Decoding the Language of Othering by Russia-Ukraine War Bloggers](https://arxiv.org/abs/2409.13064)
 - [It&#39;s Time to Stop Taking Sam Altman at His Word](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/)
 - [CERN trains AI models to revolutionize cancer treatment](https://english.elpais.com/health/2024-10-05/cern-trains-ai-models-to-revolutionize-cancer-treatment.html)
 - [PropelAuth &lpar;YC W22&rpar; is hiring engineers who love to write](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator)
-- [Exploiting DRAM bitflips to get a root shell](https://bsky.app/profile/retr0.id/post/3l5qg6z36sp2a)
-- [The First Transistor Radio](https://spectrum.ieee.org/transistor-radio-invented)
 <!-- BLOG-POST-LIST:END -->
 
 ---
