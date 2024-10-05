@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Buildroot](https://buildroot.org/)
 - [Continue &lpar;YC S23&rpar; Is Hiring a Developer Relations Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer)
 - [Forage conservation is a neglected nitrous oxide source](https://academic.oup.com/pnasnexus/article/3/9/pgae373/7756552)
 - [Wikidata Is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
 - [Lost 1983 programming language resurrected by retro computing YouTube channel](https://thenewstack.io/lost-1983-programming-language-resurrected-by-retro-compute-youtube-channel/)
-- [What is the history of the use of &quot;foo&quot; and &quot;bar&quot; in source code examples? &lpar;2012&rpar;](https://softwareengineering.stackexchange.com/questions/69788/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples)
 <!-- BLOG-POST-LIST:END -->
 
 ---
