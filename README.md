@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Continue &lpar;YC S23&rpar; Is Hiring a Developer Relations Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer)
+- [The Brutalist Programming Manifesto](http://www.call-with-current-continuation.org/articles/brutalist-manifesto.txt)
+- [Brazil&#39;s top court says X paid pending fines to wrong bank](https://www.reuters.com/technology/musks-x-seek-resumption-brazil-service-fines-paid-sources-say-2024-10-04/)
 - [Wikidata Is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
-- [Task-Switching Experiment &lpar;2015&rpar;](https://www.psytoolkit.org/experiment-library/multitasking.html)
-- [Joseph Jastrow and his duck – or is it a rabbit? &lpar;2004–2020&rpar;](https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm)
-- [CoRncrete: A corn starch based building material](https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material)
-- [Show HN: Open-source real-time talk-to-AI wearable device for few $](https://github.com/StarmoonAI/Starmoon)
+- [Lost 1983 programming language resurrected by retro computing YouTube channel](https://thenewstack.io/lost-1983-programming-language-resurrected-by-retro-compute-youtube-channel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
