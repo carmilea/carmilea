@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Depopulation Bomb Isn&#39;t Ticking, It&#39;s Overblown](https://americandreaming.substack.com/p/the-depopulation-bomb-isnt-ticking)
-- [Α phase-locked auditory stimulation to treat symptoms of sleep onset insomnia](https://www.nature.com/articles/s41598-024-63385-1)
-- [LLMs, Theory of Mind, and Cheryl&#39;s Birthday](https://github.com/norvig/pytudes/blob/main/ipynb/CherylMind.ipynb)
-- [Bureaucrat Mode](https://andrewchen.substack.com/p/bureaucrat-mode)
-- [Teenage hacker became a legend attacking companies, then his rivals attacked him](https://www.wsj.com/tech/cybersecurity/arion-kurtaj-hacker-468e6cad)
+- [A quarter million Comcast subscribers had their data stolen from debt collector](https://www.theregister.com/2024/10/04/comcast_fcbs_ransomware_theft/)
+- [Versable &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/versable/jobs/LeJtyhJ-senior-engineer)
+- [Inside the bro-ification of Mark Zuckerberg](https://www.washingtonpost.com/technology/2024/10/04/mark-zuckerberg-transformation-meta-ceo-facebook/)
+- [One pioneering grizzly and her two cubs appear on Vancouver Island](https://hakaimagazine.com/features/when-a-she-bear-swims-ashore/)
+- [Don&#39;t squander public trust on bullshit](https://livboeree.substack.com/p/dont-squander-public-trust-on-bullshit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
