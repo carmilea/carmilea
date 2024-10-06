@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We&#39;ve entered the AI grift era](https://www.fastcompany.com/91202757/weve-entered-the-ai-grift-era)
+- [Mars is now a political football](https://old.reddit.com/r/EnoughMuskSpam/comments/1fnvt8n/elon_musk_wont_go_to_mars_if_kamala_harris/)
 - [Windots: A collection of windows configuration files](https://github.com/Matalus/dotfiles)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Product Marketer &lpar;Remote&rpar;](https://jobs.ashbyhq.com/supabase/8d022981-842c-40b1-bb04-3a42632bac16)
-- [Ask HN: Where would you publish content that should outlive you?](https://news.ycombinator.com/item?id=41756438)
-- [HMNZS Manawanui sinking: NZ Navy ship ran aground](https://www.nzherald.co.nz/nz/hmnzs-manawanui-on-fire-and-tilting-badly-after-it-ran-aground-off-the-coast-of-samoa-last-night/44PLWNBV6RBVJHLVHARNGMOUKU/)
 - [Imagining faces in tree trunks and your morning eggs? AI can see them, too](https://www.science.org/content/article/imagining-faces-tree-trunks-and-your-morning-eggs-ai-can-see-them-too)
 <!-- BLOG-POST-LIST:END -->
 
