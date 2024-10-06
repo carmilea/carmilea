@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We need a real GNU/Linux &lpar;not Android&rpar; smartphone ecosystem](https://old.reddit.com/r/linux/comments/1fx5fq0/we_need_a_real_gnulinux_not_android_smartphone/)
+- [Insecure Deebot robot vacuums collect photos and audio to train AI](https://www.abc.net.au/news/2024-10-05/robot-vacuum-deebot-ecovacs-photos-ai/104416632)
+- [Arthur Whitney&#39;s one liner sudoku solver](https://dfns.dyalog.com/n_sudoku.htm)
+- [WordPress Plugin Mirror Downloader &lpar;Proof of Concept&rpar;](https://github.com/centminmod/wordpress-plugin-mirror-poc)
 - [Buildroot](https://buildroot.org/)
-- [Continue &lpar;YC S23&rpar; Is Hiring a Developer Relations Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer)
-- [Forage conservation is a neglected nitrous oxide source](https://academic.oup.com/pnasnexus/article/3/9/pgae373/7756552)
-- [Wikidata Is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
-- [Lost 1983 programming language resurrected by retro computing YouTube channel](https://thenewstack.io/lost-1983-programming-language-resurrected-by-retro-compute-youtube-channel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
