@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My search for the mysterious missing secretary who shaped chatbot history](https://theconversation.com/my-search-for-the-mysterious-missing-secretary-who-shaped-chatbot-history-225602)
-- [&#39;Students who use AI as a crutch don&#39;t learn anything&#39;](https://english.elpais.com/technology/2024-10-03/ethan-mollick-analyst-students-who-use-ai-as-a-crutch-dont-learn-anything.html)
+- [The Medieval Masterpiece, the Book of Kells, Now Digitized and Available Online](https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html)
+- [Meta Is Probably Training AI on Images Taken by Meta Ray-Bans](https://www.macrumors.com/2024/10/01/meta-ray-bans-ai-training/)
+- [Fluoride in Our Drinking Water May Not Be as Useful as It Used to Be](https://gizmodo.com/fluoride-in-our-drinking-water-may-not-be-as-useful-as-it-used-to-be-2000507454)
 - [WiFi4EU initiative provides free Wi-Fi in public spaces across Europe](https://hadea.ec.europa.eu/programmes/connecting-europe-facility/wifi4eu/download-wifi4eu-app_en)
-- [Do We Need a 37-Cent Coin? &lpar;2009&rpar;](https://freakonomics.com/2009/10/do-we-need-a-37-cent-coin/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Product Marketer &lpar;Remote&rpar;](https://jobs.ashbyhq.com/supabase/8d022981-842c-40b1-bb04-3a42632bac16)
 <!-- BLOG-POST-LIST:END -->
 
