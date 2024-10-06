@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UpCodes &lpar;YC S17&rpar; is hiring recruiters to build out remote team](https://up.codes/careers?utm_source=HN)
+- [New research suggests that our universe has no dark matter](https://phys.org/news/2024-03-universe-dark.html)
+- [Shedding light on alcohol&#39;s long shadow](https://news.harvard.edu/gazette/story/2024/10/shedding-light-on-alcohols-long-shadow/)
 - [Taiwan Makes the World&#39;s Computer Chips. Now It&#39;s Running Out of Electricity](https://www.wired.com/story/taiwan-makes-the-majority-of-the-worlds-computer-chips-now-its-running-out-of-electricity/)
 - [The X-Files Game](https://www.filfre.net/2024/10/the-truth-is-out-there-part-3-the-game-of-belief/)
-- [How to Stop Advertisers from Tracking Your Teen Across the Internet](https://www.eff.org/deeplinks/2024/09/how-stop-advertisers-tracking-your-teen-across-internet)
-- [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
-- [Gleam Is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
