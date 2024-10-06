@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My search for the mysterious missing secretary who shaped chatbot history](https://theconversation.com/my-search-for-the-mysterious-missing-secretary-who-shaped-chatbot-history-225602)
+- [&#39;Students who use AI as a crutch don&#39;t learn anything&#39;](https://english.elpais.com/technology/2024-10-03/ethan-mollick-analyst-students-who-use-ai-as-a-crutch-dont-learn-anything.html)
 - [WiFi4EU initiative provides free Wi-Fi in public spaces across Europe](https://hadea.ec.europa.eu/programmes/connecting-europe-facility/wifi4eu/download-wifi4eu-app_en)
 - [Do We Need a 37-Cent Coin? &lpar;2009&rpar;](https://freakonomics.com/2009/10/do-we-need-a-37-cent-coin/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Product Marketer &lpar;Remote&rpar;](https://jobs.ashbyhq.com/supabase/8d022981-842c-40b1-bb04-3a42632bac16)
-- [Imagining faces in tree trunks and your morning eggs? AI can see them, too](https://www.science.org/content/article/imagining-faces-tree-trunks-and-your-morning-eggs-ai-can-see-them-too)
-- [When Earth Had Rings](https://nautil.us/when-earth-had-rings-920177/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
