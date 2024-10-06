@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sq.io: jq for databases and much more](https://sq.io)
-- [Hyprland 0.44.0](https://hyprland.org/news/update44/)
+- [As Milton barrels toward Florida, FEMA&#39;s capacity could be tested](https://www.washingtonpost.com/weather/2024/10/06/fema-hurricane-florida-milton-helene/)
+- [Sq.io: jq for databases and more](https://sq.io)
+- [Make Music at the Command Line on the Commodore C64 [video]](https://www.youtube.com/watch?v=ly5BhGOt2vE)
+- [Hyprland 0.44](https://hyprland.org/news/update44/)
 - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
-- [UpCodes &lpar;YC S17&rpar; is hiring recruiters to build out remote team](https://up.codes/careers?utm_source=HN)
-- [New research suggests that our universe has no dark matter](https://phys.org/news/2024-03-universe-dark.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
