@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Letter from American Medical Professionals Who Served in Gaza](https://www.gazahealthcareletters.org/usa-letter-oct-2-2024)
+- [ByteDance is abusing the free video downloading service Cobalt for mass scraping](https://twitter.com/uwukko/status/1842538843720868016)
+- [Idiomatic Awk](https://backreference.org/index.html)
 - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 - [HPy – A better C API for Python](https://hpyproject.org/)
-- [Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support](https://github.com/Forceu/Gokapi)
-- [Insecure Deebot robot vacuums collect photos and audio to train AI](https://www.abc.net.au/news/2024-10-05/robot-vacuum-deebot-ecovacs-photos-ai/104416632)
+- [Replited: Replicate SQLite to anywhere &lpar;S3\FTP\webdav\Google Drive\Dropbox,etc.&rpar;](https://github.com/lichuang/replited)
 <!-- BLOG-POST-LIST:END -->
 
 ---
