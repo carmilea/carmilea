@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ByteDance is abusing the free video downloading service Cobalt for mass scraping](https://twitter.com/uwukko/status/1842538843720868016)
-- [Idiomatic Awk](https://backreference.org/index.html)
-- [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
-- [HPy – A better C API for Python](https://hpyproject.org/)
-- [Replited: Replicate SQLite to anywhere &lpar;S3\FTP\webdav\Google Drive\Dropbox,etc.&rpar;](https://github.com/lichuang/replited)
+- [Windots: A collection of windows configuration files](https://github.com/Matalus/dotfiles)
+- [Supabase &lpar;YC S20&rpar; Is Hiring a Product Marketer &lpar;Remote&rpar;](https://jobs.ashbyhq.com/supabase/8d022981-842c-40b1-bb04-3a42632bac16)
+- [Ask HN: Where would you publish content that should outlive you?](https://news.ycombinator.com/item?id=41756438)
+- [HMNZS Manawanui sinking: NZ Navy ship ran aground](https://www.nzherald.co.nz/nz/hmnzs-manawanui-on-fire-and-tilting-badly-after-it-ran-aground-off-the-coast-of-samoa-last-night/44PLWNBV6RBVJHLVHARNGMOUKU/)
+- [Imagining faces in tree trunks and your morning eggs? AI can see them, too](https://www.science.org/content/article/imagining-faces-tree-trunks-and-your-morning-eggs-ai-can-see-them-too)
 <!-- BLOG-POST-LIST:END -->
 
 ---
