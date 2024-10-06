@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Stop Advertisers from Tracking Your Teen Across the Internet](https://www.eff.org/deeplinks/2024/09/how-stop-advertisers-tracking-your-teen-across-internet)
+- [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
+- [Starlink direct-to-cell enabled for hurricane helene emergency messaging](https://twitter.com/spacex/status/1842988427777605683)
 - [Gleam Is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
-- [XFCE 4.20 Aims to Bring Preliminary Wayland Support](https://ostechnix.com/xfce-4-20-aims-to-bring-preliminary-wayland-support/)
-- [Popular Science Magazine Archives May 1872-March 2009](https://books.google.com/books/about/Popular_Science.html?id=qR8DAAAAMBAJ)
-- [Trellis &lpar;YC W24&rpar; is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
-- [Ziggy: Data serialization language for expressing API messages, config files](https://ziggy-lang.io)
+- [The Naming of America &lpar;2001&rpar;](https://www.jonathancohenweb.com/america.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
