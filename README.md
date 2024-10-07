@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Will Track Your Location &#39;Every 15 Minutes&#39;–&#39;Even with GPS Disabled&#39;](https://www.forbes.com/sites/zakdoffman/2024/10/05/google-new-location-tracking-warning-pixel-9-pro-pixel-9-pro-xl-pixel-9-pro-fold/)
+- [Ptxdist – &quot;Professional Embedded Linux Made Easy&quot;](https://www.ptxdist.org/)
+- [Every change breaks someone&#39;s workflow &lpar;2013&rpar;](https://xkcd.com/1172/)
+- [Building a Single-Page App with Htmx](https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/)
 - [AT&amp;T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
-- [What&#39;s New in Ruby on Rails 8](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
-- [The Rise of Worse Is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
-- [An RKRM-style reference of AmigaDOS/dos.library](https://github.com/thorfdbg/rkrm-dos)
-- [Longwriter – Increase llama3.1 output to 10k words](https://github.com/THUDM/LongWriter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
