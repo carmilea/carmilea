@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alleged M4 MacBook Pro Unboxing Video Reveals These Four Upgrades](https://www.macrumors.com/2024/10/06/alleged-m4-macbook-pro-unboxing-video/)
+- [Nintendo isn&#39;t just attacking emulators [video]](https://www.youtube.com/watch?v=sk6MK5Wpx4o)
+- [Apple II Source Listings](https://6502disassembly.com/other-a2.html)
 - [Smolderingly Fast B-Trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)
-- [React on the server is not PHP](https://www.artmann.co/articles/react-on-the-server-is-not-php)
 - [Octothorpes: Hashtags for the Open Internet](https://octothorp.es/docs)
-- [Sorbet: A neuromorphic hardware-compatible transformer-based spiking model](https://arxiv.org/abs/2409.15298)
-- [The SQLite Amalgamation](https://www.sqlite.org/amalgamation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
