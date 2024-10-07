@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Will Track Your Location &#39;Every 15 Minutes&#39;–&#39;Even with GPS Disabled&#39;](https://www.forbes.com/sites/zakdoffman/2024/10/05/google-new-location-tracking-warning-pixel-9-pro-pixel-9-pro-xl-pixel-9-pro-fold/)
-- [Ptxdist – &quot;Professional Embedded Linux Made Easy&quot;](https://www.ptxdist.org/)
-- [Every change breaks someone&#39;s workflow &lpar;2013&rpar;](https://xkcd.com/1172/)
-- [Building a Single-Page App with Htmx](https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/)
-- [AT&amp;T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
+- [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+- [Show HN: Termichess – Play chess right on your terminal](https://github.com/whiletruelearn/termichess)
+- [Show HN: PostalAgent – Send Postcards online by circling areas on a Google Map](https://postalagent.com)
+- [Nearly all of the Google Images results for &quot;Baby Peacock&quot; are AI generated](https://twitter.com/notengoprisa/status/1842550658102079556)
+- [Show HN: Compiling C in the browser using WebAssembly](https://wasmer.io/posts/clang-in-browser)
 <!-- BLOG-POST-LIST:END -->
 
 ---
