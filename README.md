@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fed Took $3k from You and Gave It to Jamie Dimon](https://www.thebignewsletter.com/p/monopoly-round-up-the-fed-took-3k)
+- [Smolderingly Fast B-Trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)
 - [React on the server is not PHP](https://www.artmann.co/articles/react-on-the-server-is-not-php)
 - [Octothorpes: Hashtags for the Open Internet](https://octothorp.es/docs)
-- [A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model](https://arxiv.org/abs/2409.15298)
-- [Google’s AI thinks I left a Gatorade bottle on the moon](https://edwardbenson.com/2024/10/google-ai-thinks-i-left-gatorade-on-the-moon)
+- [Sorbet: A neuromorphic hardware-compatible transformer-based spiking model](https://arxiv.org/abs/2409.15298)
+- [The SQLite Amalgamation](https://www.sqlite.org/amalgamation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
