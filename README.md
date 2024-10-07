@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fed Took $3k from You and Gave It to Jamie Dimon](https://www.thebignewsletter.com/p/monopoly-round-up-the-fed-took-3k)
+- [React on the server is not PHP](https://www.artmann.co/articles/react-on-the-server-is-not-php)
+- [Octothorpes: Hashtags for the Open Internet](https://octothorp.es/docs)
+- [A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model](https://arxiv.org/abs/2409.15298)
 - [Google’s AI thinks I left a Gatorade bottle on the moon](https://edwardbenson.com/2024/10/google-ai-thinks-i-left-gatorade-on-the-moon)
-- [Sq.io: jq for databases and more](https://sq.io)
-- [Hyprland 0.44](https://hyprland.org/news/update44/)
-- [Llamafile for Meltemi: The First LLM for Greek](https://tselai.com/meltemi-llamafile)
-- [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
