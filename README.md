@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Witches Around the World](https://aeon.co/essays/the-universal-belief-in-witches-reveals-our-deepest-fears)
 - [uBlock Origin supports filtering CNAME cloaking sites on Firefox now](https://github.com/gorhill/uBlock/commit/6acf97bf51)
-- [Show HN: AI-generated images that look like real life](https://www.gounfaked.com/)
-- [How private intelligence companies became the new spymasters](https://engelsbergideas.com/essays/private-intelligence/)
 - [Is AWS S3 having an outage?](https://news.ycombinator.com/item?id=41770111)
 - [Is the attack helicopter dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
+- [Gunter&#39;s Space Page](https://space.skyrocket.de/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
