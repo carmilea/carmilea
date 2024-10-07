@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Python 3.13.0 Is Released](https://docs.python.org/3.13/whatsnew/3.13.html)
-- [Can You Get Root with Only a Cigarette Lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
-- [New Italian Law Threatens ISPs with Prison over Piracy Reporting Failures](https://torrentfreak.com/isps-betrayed-over-pirate-site-blocking-threats-the-reckoning-will-be-invisible-241005/)
-- [Hetzner Object Storage](https://docs.hetzner.com/storage/object-storage/)
-- [Show HN: ServerlessAI – Build, scale, and monetize AI apps without back end](https://serverlessai.dev/)
+- [AT&amp;T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
+- [What&#39;s New in Ruby on Rails 8](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
+- [The Rise of Worse Is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
+- [An RKRM-style reference of AmigaDOS/dos.library](https://github.com/thorfdbg/rkrm-dos)
+- [Longwriter – Increase llama3.1 output to 10k words](https://github.com/THUDM/LongWriter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
