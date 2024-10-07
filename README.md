@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How private intelligence companies became the new spymasters](https://engelsbergideas.com/essays/private-intelligence/)
 - [Is AWS S3 having an outage?](https://news.ycombinator.com/item?id=41770111)
-- [Google must crack open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
-- [Wigle.net: All the Networks. Found by Everyone](https://wigle.net/)
-- [Microsoft didn&#39;t sandbox Windows Defender, so I did &lpar;2017&rpar;](https://blog.trailofbits.com/2017/08/02/microsoft-didnt-sandbox-windows-defender-so-i-did/)
-- [US antitrust case against Amazon to move forward](https://www.reuters.com/technology/us-antitrust-case-against-amazon-move-forward-2024-10-07/)
+- [Gunter&#39;s Space Page](https://space.skyrocket.de/index.html)
+- [Who&#39;s a Good Boy? A Puppy Linux Mini-Review](https://bbbhltz.codeberg.page/blog/2024/09/puppylinux/)
+- [Google must open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
 <!-- BLOG-POST-LIST:END -->
 
 ---
