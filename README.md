@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Decoding Bitcoin: An interactive, exercise-heavy approach to learning Bitcoin](https://bitcoindevs.xyz/decoding)
+- [US antitrust case against Amazon to move forward](https://www.reuters.com/technology/us-antitrust-case-against-amazon-move-forward-2024-10-07/)
+- [Do not use secrets in environment variables](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
 - [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
-- [Show HN: Termichess – Play chess right on your terminal](https://github.com/whiletruelearn/termichess)
-- [Show HN: PostalAgent – Send Postcards online by circling areas on a Google Map](https://postalagent.com)
-- [Nearly all of the Google Images results for &quot;Baby Peacock&quot; are AI generated](https://twitter.com/notengoprisa/status/1842550658102079556)
-- [Show HN: Compiling C in the browser using WebAssembly](https://wasmer.io/posts/clang-in-browser)
+- [Enhance Your RAG Applications with Knowledge Graph RAG: A Practical Guide!](https://www.singlestore.com/blog/enhance-your-rag-applications-with-knowledge-graph-rag)
 <!-- BLOG-POST-LIST:END -->
 
 ---
