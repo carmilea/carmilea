@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Instant HTML Preview Bookmarklet - Quickly Render HTML from Clipboard](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
-- [Alleged M4 MacBook Pro Unboxing Video Reveals These Four Upgrades](https://www.macrumors.com/2024/10/06/alleged-m4-macbook-pro-unboxing-video/)
+- [Show HN: Instant HTML Preview Bookmarklet – Quickly Render HTML from Clipboard](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
 - [Scarlet Rot: a biological exploration of Elden Ring&#39;s decaying disease](https://jgeekstudies.org/2024/10/06/scarlet-rot-a-biological-exploration-of-elden-rings-decaying-disease/)
 - [How do HTTP servers figure out Content-Length?](https://aarol.dev/posts/go-contentlength/)
 - [Nintendo isn&#39;t just attacking emulators [video]](https://www.youtube.com/watch?v=sk6MK5Wpx4o)
+- [Nintendo&#39;s Legal Hitlist Grows](https://fandomwire.com/nintendos-legal-hitlist-grows-latest-switch-emulator-shutdown-is-how-we-know-their-lawyers-are-cashing-in-big-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
