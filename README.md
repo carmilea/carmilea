@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [As Milton barrels toward Florida, FEMA&#39;s capacity could be tested](https://www.washingtonpost.com/weather/2024/10/06/fema-hurricane-florida-milton-helene/)
+- [Google’s AI thinks I left a Gatorade bottle on the moon](https://edwardbenson.com/2024/10/google-ai-thinks-i-left-gatorade-on-the-moon)
 - [Sq.io: jq for databases and more](https://sq.io)
-- [Make Music at the Command Line on the Commodore C64 [video]](https://www.youtube.com/watch?v=ly5BhGOt2vE)
 - [Hyprland 0.44](https://hyprland.org/news/update44/)
+- [Llamafile for Meltemi: The First LLM for Greek](https://tselai.com/meltemi-llamafile)
 - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
 <!-- BLOG-POST-LIST:END -->
 
