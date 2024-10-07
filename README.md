@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is AWS S3 having an outage?](https://news.ycombinator.com/item?id=41770111)
+- [Google must crack open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
+- [Wigle.net: All the Networks. Found by Everyone](https://wigle.net/)
+- [Microsoft didn&#39;t sandbox Windows Defender, so I did &lpar;2017&rpar;](https://blog.trailofbits.com/2017/08/02/microsoft-didnt-sandbox-windows-defender-so-i-did/)
 - [US antitrust case against Amazon to move forward](https://www.reuters.com/technology/us-antitrust-case-against-amazon-move-forward-2024-10-07/)
-- [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
-- [Enhance Your RAG Applications with Knowledge Graph RAG: A Practical Guide!](https://www.singlestore.com/blog/enhance-your-rag-applications-with-knowledge-graph-rag)
-- [Show HN: Termichess – Play chess in your terminal](https://github.com/whiletruelearn/termichess)
-- [Unlocking the &#39;aha&#39; moment: Developer relations for startups](https://www.signalfire.com/blog/devrel-for-startups)
 <!-- BLOG-POST-LIST:END -->
 
 ---
