@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.13.0 Is Released](https://docs.python.org/3.13/whatsnew/3.13.html)
 - [Can You Get Root with Only a Cigarette Lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
+- [New Italian Law Threatens ISPs with Prison over Piracy Reporting Failures](https://torrentfreak.com/isps-betrayed-over-pirate-site-blocking-threats-the-reckoning-will-be-invisible-241005/)
 - [Hetzner Object Storage](https://docs.hetzner.com/storage/object-storage/)
-- [Photos of an e-waste dumping ground](https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers)
-- [PermitFlow &lpar;YC W22&rpar; Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- [ByteDance’s Bytespider is scraping at much higher rates than other platforms](https://fortune.com/2024/10/03/bytedance-tiktok-bytespider-scraper-bot/)
+- [Show HN: ServerlessAI – Build, scale, and monetize AI apps without back end](https://serverlessai.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
