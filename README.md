@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok parent launched a scraper gobbling up world&#39;s data 25x faster than OpenAI](https://fortune.com/2024/10/03/bytedance-tiktok-bytespider-scraper-bot/)
+- [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
 - [The Nobel Prize in Physiology or Medicine 2024](https://www.nobelprize.org/prizes/medicine/2024/summary/)
 - [A Seven-Dimensional Analysis of Hashing Methods [pdf] &lpar;2015&rpar;](https://15721.courses.cs.cmu.edu/spring2019/papers/17-hashjoins/richter-vldb2015.pdf)
 - [Show HN: Instant HTML Preview Bookmarklet](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
-- [Show HN: Offline audiobook from any format with one CLI command](https://github.com/C-Loftus/QuickPiperAudiobook)
-- [How do HTTP servers figure out Content-Length?](https://aarol.dev/posts/go-contentlength/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
