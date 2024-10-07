@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Bringing Back the Turboc Colorscheme](https://github.com/ikouchiha47/turboc.nvim)
 - [Show HN: Instant HTML Preview Bookmarklet](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
-- [Alleged M4 MacBook Pro unboxing video](https://www.macrumors.com/2024/10/06/alleged-m4-macbook-pro-unboxing-video/)
 - [How do HTTP servers figure out Content-Length?](https://aarol.dev/posts/go-contentlength/)
 - [Nintendo isn&#39;t just attacking emulators [video]](https://www.youtube.com/watch?v=sk6MK5Wpx4o)
+- [Apple II Source Listings](https://6502disassembly.com/other-a2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
