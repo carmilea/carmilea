@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Instant HTML Preview Bookmarklet - Quickly Render HTML from Clipboard](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
 - [Alleged M4 MacBook Pro Unboxing Video Reveals These Four Upgrades](https://www.macrumors.com/2024/10/06/alleged-m4-macbook-pro-unboxing-video/)
+- [Scarlet Rot: a biological exploration of Elden Ring&#39;s decaying disease](https://jgeekstudies.org/2024/10/06/scarlet-rot-a-biological-exploration-of-elden-rings-decaying-disease/)
+- [How do HTTP servers figure out Content-Length?](https://aarol.dev/posts/go-contentlength/)
 - [Nintendo isn&#39;t just attacking emulators [video]](https://www.youtube.com/watch?v=sk6MK5Wpx4o)
-- [Apple II Source Listings](https://6502disassembly.com/other-a2.html)
-- [Smolderingly Fast B-Trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)
-- [Octothorpes: Hashtags for the Open Internet](https://octothorp.es/docs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
