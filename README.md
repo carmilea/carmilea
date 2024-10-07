@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding Bitcoin: An interactive, exercise-heavy approach to learning Bitcoin](https://bitcoindevs.xyz/decoding)
 - [US antitrust case against Amazon to move forward](https://www.reuters.com/technology/us-antitrust-case-against-amazon-move-forward-2024-10-07/)
-- [Do not use secrets in environment variables](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
 - [Substack &lpar;YC W18&rpar; Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 - [Enhance Your RAG Applications with Knowledge Graph RAG: A Practical Guide!](https://www.singlestore.com/blog/enhance-your-rag-applications-with-knowledge-graph-rag)
+- [Show HN: Termichess – Play chess in your terminal](https://github.com/whiletruelearn/termichess)
+- [Unlocking the &#39;aha&#39; moment: Developer relations for startups](https://www.signalfire.com/blog/devrel-for-startups)
 <!-- BLOG-POST-LIST:END -->
 
 ---
