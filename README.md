@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobel Prize goes to John Hopfield and Geoffrey Hinton work on machine learning](https://www.bbc.co.uk/news/articles/c62r02z75jyo)
+- [They trained artificial neural networks using physics](https://www.nobelprize.org/prizes/physics/2024/press-release/)
 - [Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://www.nobelprize.org/prizes/physics/2024/summary/)
 - [John Hopfield and Geoff Hinton Win Physics Nobel Prize [pdf]](https://www.nobelprize.org/uploads/2024/10/press-physicsprize2024.pdf)
-- [The Static Site Paradox](https://kristoff.it/blog/static-site-paradox/)
 - [SigNoz &lpar;YC W21&rpar; Is Hiring Site Reliability Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/signoz/jobs/xjv10eq-site-reliability-engineer-remote-india-eu)
+- [Ask HN: Good Online Maths Communities?](https://news.ycombinator.com/item?id=41774252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
