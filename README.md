@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [End of the Road for Google Drive in Transmit](https://blog.panic.com/end-of-the-road-for-google-drive-and-transmit/)
 - [How to Delete Your 23andMe Data Amid the Company&#39;s Turmoil](https://lifehacker.com/health/how-to-delete-23andme-data)
 - [Lead Drinking-Water Pipes Must Be Replaced Nationwide, EPA Says](https://www.nytimes.com/2024/10/08/climate/biden-epa-lead-pipes.html)
 - [Show HN: Winamp and other media players, rebuilt for the web with Web Components](https://player.style)
 - [Rabbit hole: stumbling across two Portuguese punched cards](https://blog.jgc.org/2024/10/rabbit-hole-stumbling-across-two.html)
-- [My first game with Carimbo, my homemade engine](https://nullonerror.org/2024/10/08/my-first-game-with-carimbo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
