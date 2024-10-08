@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cognizant Discriminated Against Non-Indian Workers, US Jury Says](https://www.bloomberg.com/news/articles/2024-10-08/cognizant-discriminated-against-non-indian-workers-us-jury-says)
-- [Why is Google Workspace tech support so bad?](https://news.ycombinator.com/item?id=41774287)
-- [I just signed up for Twilio Sendgrid, and got instantly permabanned](https://www.twilio.com/en-us/sendgrid/email-api)
-- [IEEE Roadmap Outlines Development of Mass Digital Storage Technology](https://ieeexplore.ieee.org/abstract/document/10660602)
-- [Ask HN: Have you built something that users have become addicted to or overused?](https://news.ycombinator.com/item?id=41773784)
+- [SigNoz &lpar;YC W21&rpar; Is Hiring Site Reliability Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/signoz/jobs/xjv10eq-site-reliability-engineer-remote-india-eu)
+- [Ask HN: Good Online Maths Communities?](https://news.ycombinator.com/item?id=41774252)
+- [Engineering Geology of the BART System &lpar;2000&rpar;](http://sonic.net/~mly/www.geolith.com/bart/)
+- [Mexico revives century-old railway in $2.8B bid to rival Panama Canal &lpar;2023&rpar;](https://www.ft.com/content/bbe8e851-e9f2-4ed1-a4a7-051a670b40e0)
+- [FTX creditors will make money on bankruptcy](https://www.cnbc.com/2024/10/07/ftx-bankruptcy-judge-approves-more-than-14-billion-payback-plan.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
