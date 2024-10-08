@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Geoffrey Hinton and John Hopfield win Nobel Prize in physics](https://www.theguardian.com/science/2024/oct/08/nobel-prize-physics-john-hopfield-geoffrey-hinton-machine-learning)
+- [PSA: Don&#39;t use iPhone Mirroring on your work computer](https://www.sevcosecurity.com/iphone-mirroring-expose-employee-personal-information/)
 - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
+- [Do U.S. Ports Need More Automation?](https://www.construction-physics.com/p/do-us-ports-need-more-automation)
 - [Roame &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
-- [Differential Transformer](https://arxiv.org/abs/2410.05258)
-- [Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://www.nobelprize.org/prizes/physics/2024/summary/)
-- [Engineering Geology of the BART System &lpar;2000&rpar;](http://sonic.net/~mly/www.geolith.com/bart/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
