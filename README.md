@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
 - [Roame &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
-- [US House panel probes FCC decision to deny Starlink nearly $900M](https://www.reuters.com/technology/us-house-panel-probes-fcc-decision-deny-starlink-nearly-900-million-2024-10-07/)
+- [Differential Transformer](https://arxiv.org/abs/2410.05258)
 - [Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://www.nobelprize.org/prizes/physics/2024/summary/)
 - [Engineering Geology of the BART System &lpar;2000&rpar;](http://sonic.net/~mly/www.geolith.com/bart/)
-- [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
