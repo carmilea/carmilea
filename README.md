@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Japan&#39;s Cat Island won&#39;t survive much longer](https://www.tokyoweekender.com/japan-life/news-and-opinion/cat-island-wont-survive-much-longer/)
 - [An illustrated proof of the CAP theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+- [Video Surveillance with YOLO+llava](https://github.com/PsyChip/machina)
 - [MoneyGram says hacker stole customers&#39; personal information and transaction data](https://techcrunch.com/2024/10/07/moneygram-says-hackers-stole-customers-personal-information-and-transaction-data/)
 - [Rust is rolling off the Volvo assembly line](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
-- [Rewrite cname uncloaking code to account for new ipaddress= option](https://github.com/gorhill/uBlock/commit/6acf97bf51)
 <!-- BLOG-POST-LIST:END -->
 
 ---
