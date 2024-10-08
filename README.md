@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Japan&#39;s Cat Island won&#39;t survive much longer](https://www.tokyoweekender.com/japan-life/news-and-opinion/cat-island-wont-survive-much-longer/)
+- [Launching on Product Hunt](https://read.cv/fmerian/launch)
+- [FTX creditors will make money on bankruptcy: $1.19 for every dollar](https://www.cnbc.com/2024/10/07/ftx-bankruptcy-judge-approves-more-than-14-billion-payback-plan.html)
 - [An illustrated proof of the CAP theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 - [Video Surveillance with YOLO+llava](https://github.com/PsyChip/machina)
-- [MoneyGram says hacker stole customers&#39; personal information and transaction data](https://techcrunch.com/2024/10/07/moneygram-says-hackers-stole-customers-personal-information-and-transaction-data/)
 - [Rust is rolling off the Volvo assembly line](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
 <!-- BLOG-POST-LIST:END -->
 
