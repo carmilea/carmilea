@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Delete Your 23andMe Data Amid the Company&#39;s Turmoil](https://lifehacker.com/health/how-to-delete-23andme-data)
+- [Lead Drinking-Water Pipes Must Be Replaced Nationwide, EPA Says](https://www.nytimes.com/2024/10/08/climate/biden-epa-lead-pipes.html)
+- [Show HN: Winamp and other media players, rebuilt for the web with Web Components](https://player.style)
 - [Rabbit hole: stumbling across two Portuguese punched cards](https://blog.jgc.org/2024/10/rabbit-hole-stumbling-across-two.html)
 - [My first game with Carimbo, my homemade engine](https://nullonerror.org/2024/10/08/my-first-game-with-carimbo/)
-- [Sieve &lpar;YC W22&rpar; Is Hiring Engineers to Build AI Infrastructure for Video](https://www.sievedata.com/)
-- [Integration with Snowflake Enables Customers to Deploy Intelligent Applications](https://www.singlestore.com/blog/snowflake-singlestore-integration-deploy-intelligent-applications)
-- [Improving Parquet Dedupe on Hugging Face Hub](https://huggingface.co/blog/improve_parquet_dedupe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
