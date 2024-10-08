@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Instant &lpar;YC S22&rpar; is Hiring a Founding Engineer to Help Build the Modern Firebase](https://news.ycombinator.com/item?id=41781768)
-- [Car brands are collecting and sharing your data with third parties](https://www.abc.net.au/news/science/2024-10-09/car-brands-are-tracking-and-sharing-your-data-with-third-parties/104440742)
-- [End of the road for Google Drive in Transmit](https://blog.panic.com/end-of-the-road-for-google-drive-and-transmit/)
-- [How to delete your 23andMe data amid the company&#39;s turmoil](https://lifehacker.com/health/how-to-delete-23andme-data)
-- [Show HN: Winamp and other media players, rebuilt for the web with Web Components](https://player.style)
+- [BP abandons goal to cut oil output](https://www.reuters.com/business/energy/bp-drops-oil-output-target-strategy-reset-sources-say-2024-10-07/)
+- [Goodbye Windows 7](https://lilysthings.org/blog/goodbye-windows-7/)
+- [X reinstated in Brazil after complying with court demands](https://apnews.com/article/brazil-x-elon-musk-supreme-court-de-moraes-e32c4b4171e78cbe8994f53713a922f7)
+- [&quot;Now What?&quot; by John Hopfield &lpar;2018&rpar; [pdf]](https://pni.princeton.edu/sites/g/files/toruqf321/files/documents/John%20Hopfield%20Now%20What%203_0.pdf)
+- [Instant &lpar;YC S22&rpar; is hiring a founding engineer to help build a modern Firebase](https://news.ycombinator.com/item?id=41781768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
