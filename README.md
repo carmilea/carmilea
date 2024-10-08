@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring AI-Powered Search: Elastic&#39;s Zero-Shot Approach vs. SingleStore&#39;s Flexible Integration](https://www.singlestore.com/blog/exploring-ai-powered-search-elastic-zero-shot-approach-singlestore-flexible-integration)
-- [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
-- [The Nazi of Oak Park](https://www.chicagomag.com/chicago-magazine/september-2024/the-nazi-of-oak-park/)
-- [Roame &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
-- [Differential Transformer](https://arxiv.org/abs/2410.05258)
+- [Sieve &lpar;YC W22&rpar; Is Hiring Engineers to Build AI Infrastructure for Video](https://www.sievedata.com/)
+- [TikTok sued by 13 states and DC, accused of harming younger users](https://www.reuters.com/legal/tiktok-sued-by-13-states-dc-accused-harming-younger-users-2024-10-08/)
+- [Integration with Snowflake Enables Customers to Deploy Intelligent Applications](https://www.singlestore.com/blog/snowflake-singlestore-integration-deploy-intelligent-applications)
+- [Improving Parquet Dedupe on Hugging Face Hub](https://huggingface.co/blog/improve_parquet_dedupe)
+- [How to get started in Graphics Programming in 2024?](https://twitter.com/rainbowpikmin/status/1842967087809237119)
 <!-- BLOG-POST-LIST:END -->
 
 ---
