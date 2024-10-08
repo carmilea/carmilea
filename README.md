@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First wave of M4 Macs, including smaller Mac mini, coming November 1](https://arstechnica.com/gadgets/2024/10/report-first-wave-of-m4-macs-including-smaller-mac-mini-coming-november-1/)
+- [A popular but wrong way to convert a string to uppercase or lowercase](https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345)
 - [SigNoz &lpar;YC W21&rpar; Is Hiring Site Reliability Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/signoz/jobs/xjv10eq-site-reliability-engineer-remote-india-eu)
 - [Ask HN: Good Online Maths Communities?](https://news.ycombinator.com/item?id=41774252)
 - [Engineering Geology of the BART System &lpar;2000&rpar;](http://sonic.net/~mly/www.geolith.com/bart/)
-- [Mexico revives century-old railway in $2.8B bid to rival Panama Canal &lpar;2023&rpar;](https://www.ft.com/content/bbe8e851-e9f2-4ed1-a4a7-051a670b40e0)
+- [Show HN: Running Game Boy ROMs on the STM32 ARM Cortex Microcontroller](https://github.com/jnz/stm32boy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
