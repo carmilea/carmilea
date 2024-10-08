@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
 - [FTX creditors will make money on bankruptcy](https://www.cnbc.com/2024/10/07/ftx-bankruptcy-judge-approves-more-than-14-billion-payback-plan.html)
 - [An illustrated proof of the CAP theorem &lpar;2018&rpar;](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 - [Video Surveillance with YOLO+llava](https://github.com/PsyChip/machina)
 - [Is the attack helicopter dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
-- [Gunter&#39;s Space Page](https://space.skyrocket.de/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
