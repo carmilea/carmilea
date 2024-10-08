@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Geoffrey Hinton and John Hopfield win Nobel Prize in physics](https://www.theguardian.com/science/2024/oct/08/nobel-prize-physics-john-hopfield-geoffrey-hinton-machine-learning)
+- [The Atlantic Did Me Dirty](https://cmsthomas.substack.com/p/the-atlantic-did-me-dirty)
 - [PSA: Don&#39;t use iPhone Mirroring on your work computer](https://www.sevcosecurity.com/iphone-mirroring-expose-employee-personal-information/)
 - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
-- [Do U.S. Ports Need More Automation?](https://www.construction-physics.com/p/do-us-ports-need-more-automation)
+- [The Nazi of Oak Park](https://www.chicagomag.com/chicago-magazine/september-2024/the-nazi-of-oak-park/)
 - [Roame &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
