@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Witches Around the World](https://aeon.co/essays/the-universal-belief-in-witches-reveals-our-deepest-fears)
-- [uBlock Origin supports filtering CNAME cloaking sites on Firefox now](https://github.com/gorhill/uBlock/commit/6acf97bf51)
-- [Is AWS S3 having an outage?](https://news.ycombinator.com/item?id=41770111)
-- [Is the attack helicopter dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
-- [Gunter&#39;s Space Page](https://space.skyrocket.de/index.html)
+- [Japan&#39;s Cat Island won&#39;t survive much longer](https://www.tokyoweekender.com/japan-life/news-and-opinion/cat-island-wont-survive-much-longer/)
+- [An illustrated proof of the CAP theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+- [MoneyGram says hacker stole customers&#39; personal information and transaction data](https://techcrunch.com/2024/10/07/moneygram-says-hackers-stole-customers-personal-information-and-transaction-data/)
+- [Rust is rolling off the Volvo assembly line](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
+- [Rewrite cname uncloaking code to account for new ipaddress= option](https://github.com/gorhill/uBlock/commit/6acf97bf51)
 <!-- BLOG-POST-LIST:END -->
 
 ---
