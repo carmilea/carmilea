@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BP abandons goal to cut oil output](https://www.reuters.com/business/energy/bp-drops-oil-output-target-strategy-reset-sources-say-2024-10-07/)
-- [Goodbye Windows 7](https://lilysthings.org/blog/goodbye-windows-7/)
+- [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
+- [VA congressional candidate creates AI chatbot as debate stand-in for incumbent](https://www.reuters.com/world/us/virginia-congressional-candidate-creates-ai-chatbot-debate-stand-in-incumbent-2024-10-08/)
+- [BP abandons goal to cut oil output, resets strategy](https://www.reuters.com/business/energy/bp-drops-oil-output-target-strategy-reset-sources-say-2024-10-07/)
 - [X reinstated in Brazil after complying with court demands](https://apnews.com/article/brazil-x-elon-musk-supreme-court-de-moraes-e32c4b4171e78cbe8994f53713a922f7)
-- [&quot;Now What?&quot; by John Hopfield &lpar;2018&rpar; [pdf]](https://pni.princeton.edu/sites/g/files/toruqf321/files/documents/John%20Hopfield%20Now%20What%203_0.pdf)
-- [Instant &lpar;YC S22&rpar; is hiring a founding engineer to help build a modern Firebase](https://news.ycombinator.com/item?id=41781768)
+- [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
 <!-- BLOG-POST-LIST:END -->
 
 ---
