@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
-- [FTX creditors will make money on bankruptcy](https://www.cnbc.com/2024/10/07/ftx-bankruptcy-judge-approves-more-than-14-billion-payback-plan.html)
-- [An illustrated proof of the CAP theorem &lpar;2018&rpar;](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
-- [Video Surveillance with YOLO+llava](https://github.com/PsyChip/machina)
-- [Is the attack helicopter dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
+- [Cognizant Discriminated Against Non-Indian Workers, US Jury Says](https://www.bloomberg.com/news/articles/2024-10-08/cognizant-discriminated-against-non-indian-workers-us-jury-says)
+- [Why is Google Workspace tech support so bad?](https://news.ycombinator.com/item?id=41774287)
+- [I just signed up for Twilio Sendgrid, and got instantly permabanned](https://www.twilio.com/en-us/sendgrid/email-api)
+- [IEEE Roadmap Outlines Development of Mass Digital Storage Technology](https://ieeexplore.ieee.org/abstract/document/10660602)
+- [Ask HN: Have you built something that users have become addicted to or overused?](https://news.ycombinator.com/item?id=41773784)
 <!-- BLOG-POST-LIST:END -->
 
 ---
