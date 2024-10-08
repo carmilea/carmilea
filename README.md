@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [They trained artificial neural networks using physics](https://www.nobelprize.org/prizes/physics/2024/press-release/)
+- [Roame &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
+- [US House panel probes FCC decision to deny Starlink nearly $900M](https://www.reuters.com/technology/us-house-panel-probes-fcc-decision-deny-starlink-nearly-900-million-2024-10-07/)
 - [Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://www.nobelprize.org/prizes/physics/2024/summary/)
-- [John Hopfield and Geoff Hinton Win Physics Nobel Prize [pdf]](https://www.nobelprize.org/uploads/2024/10/press-physicsprize2024.pdf)
-- [SigNoz &lpar;YC W21&rpar; Is Hiring Site Reliability Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/signoz/jobs/xjv10eq-site-reliability-engineer-remote-india-eu)
-- [Ask HN: Good Online Maths Communities?](https://news.ycombinator.com/item?id=41774252)
+- [Engineering Geology of the BART System &lpar;2000&rpar;](http://sonic.net/~mly/www.geolith.com/bart/)
+- [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
