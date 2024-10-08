@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Atlantic Did Me Dirty](https://cmsthomas.substack.com/p/the-atlantic-did-me-dirty)
-- [PSA: Don&#39;t use iPhone Mirroring on your work computer](https://www.sevcosecurity.com/iphone-mirroring-expose-employee-personal-information/)
+- [Exploring AI-Powered Search: Elastic&#39;s Zero-Shot Approach vs. SingleStore&#39;s Flexible Integration](https://www.singlestore.com/blog/exploring-ai-powered-search-elastic-zero-shot-approach-singlestore-flexible-integration)
 - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
 - [The Nazi of Oak Park](https://www.chicagomag.com/chicago-magazine/september-2024/the-nazi-of-oak-park/)
 - [Roame &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
+- [Differential Transformer](https://arxiv.org/abs/2410.05258)
 <!-- BLOG-POST-LIST:END -->
 
 ---
