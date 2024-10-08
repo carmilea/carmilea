@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rabbit hole: stumbling across two Portuguese punched cards](https://blog.jgc.org/2024/10/rabbit-hole-stumbling-across-two.html)
+- [My first game with Carimbo, my homemade engine](https://nullonerror.org/2024/10/08/my-first-game-with-carimbo/)
 - [Sieve &lpar;YC W22&rpar; Is Hiring Engineers to Build AI Infrastructure for Video](https://www.sievedata.com/)
-- [TikTok sued by 13 states and DC, accused of harming younger users](https://www.reuters.com/legal/tiktok-sued-by-13-states-dc-accused-harming-younger-users-2024-10-08/)
 - [Integration with Snowflake Enables Customers to Deploy Intelligent Applications](https://www.singlestore.com/blog/snowflake-singlestore-integration-deploy-intelligent-applications)
 - [Improving Parquet Dedupe on Hugging Face Hub](https://huggingface.co/blog/improve_parquet_dedupe)
-- [How to get started in Graphics Programming in 2024?](https://twitter.com/rainbowpikmin/status/1842967087809237119)
 <!-- BLOG-POST-LIST:END -->
 
 ---
