@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the ISO format has to die](https://easyos.org/about/why-the-iso-format-has-to-die.html)
+- [Miqt: MIT-licensed Qt bindings for Go](https://github.com/mappu/miqt)
+- [US weighs Google break-up in landmark antitrust case](https://www.ft.com/content/f6e84608-e0e5-48c5-a0eb-dde7675fb608)
 - [Emoji as a Favicon Using SVG](https://css-tricks.com/emoji-as-a-favicon/)
 - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
-- [Don&#39;t let dicts spoil your code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
-- [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
-- [Instant &lpar;YC S22&rpar; is hiring a founding engineer to help build a modern Firebase](https://news.ycombinator.com/item?id=41781768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
