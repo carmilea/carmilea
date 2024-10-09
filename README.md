@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 vs. Ubuntu 24.10 Performance For Intel Core Ultra 7 Lunar Lake](https://www.phoronix.com/review/lunar-lake-windows-linux/5)
+- [OpenBSD 7.6 Released](https://undeadly.org/cgi?action=article;sid=20241007204213)
 - [PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
-- [The Yearlong Wait to Transfer Bonds Out of TreasuryDirect](https://www.wsj.com/finance/investing/treasury-department-bonds-customer-service-0c3313bc)
-- [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
-- [Show HN: I made an SSH tunnel manager to learn Go](https://github.com/alebeck/boring)
-- [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
+- [For ranchers in Costa Rica, jaguars and pumas become unexpected allies](https://news.mongabay.com/2024/10/for-ranchers-in-costa-rica-jaguars-and-pumas-become-unexpected-allies/)
+- [Germans decry influence of English as &#39;idiot&#39;s apostrophe&#39; gets approval](https://www.theguardian.com/world/2024/oct/07/germany-influence-of-english-idiots-apostrophe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
