@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;The Siege of Caffa&quot; – The earliest known use of Biological Warfare](https://en.wikipedia.org/wiki/Siege_of_Caffa)
-- [Ask HN: What is your opinion on Open BSD?](https://news.ycombinator.com/item?id=41786146)
+- [Google DeepMind scientists win Nobel chemistry prize](https://www.theguardian.com/science/2024/oct/09/google-deepmind-scientists-win-nobel-chemistry-prize)
+- [Regardless of age, quitting cigarette smoking will add years to your life](https://newatlas.com/health-wellbeing/quitting-smoking-life-expectancy-all-ages/)
 - [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 - [A free and open internet shouldn&#39;t come at the expense of privacy](https://blog.mozilla.org/en/mozilla/digital-advertising-privacy/)
 - [Show HN: I made an SSH tunnel manager to learn Go](https://github.com/alebeck/boring)
