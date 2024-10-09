@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germans decry influence of English as &#39;idiot&#39;s apostrophe&#39; gets approval](https://www.theguardian.com/world/2024/oct/07/germany-influence-of-english-idiots-apostrophe)
+- [PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
+- [The Yearlong Wait to Transfer Bonds Out of TreasuryDirect](https://www.wsj.com/finance/investing/treasury-department-bonds-customer-service-0c3313bc)
 - [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 - [Show HN: I made an SSH tunnel manager to learn Go](https://github.com/alebeck/boring)
 - [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
-- [Miqt: MIT-licensed Qt bindings for Go](https://github.com/mappu/miqt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
