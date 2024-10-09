@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The human internet is dying. AI images are taking over Google top results](https://old.reddit.com/r/ChatGPT/comments/1fye6tb/the_human_internet_is_dying_ai_images_taking_over/)
-- [A Vtuber Just Became Twitch&#39;s Most-Subscribed Streamer](https://kotaku.com/ironmouse-kai-cenat-twitch-vtuber-sub-record-1851661798)
 - [Emoji as a Favicon Using SVG](https://css-tricks.com/emoji-as-a-favicon/)
 - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
 - [If the Django Software Foundation had $1M](https://jacobian.org/2024/oct/8/dsf-one-million/)
+- [Don&#39;t let dicts spoil your code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
