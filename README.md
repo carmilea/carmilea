@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;The Siege of Caffa&quot; – The earliest known use of Biological Warfare](https://en.wikipedia.org/wiki/Siege_of_Caffa)
+- [Ask HN: What is your opinion on Open BSD?](https://news.ycombinator.com/item?id=41786146)
 - [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 - [A free and open internet shouldn&#39;t come at the expense of privacy](https://blog.mozilla.org/en/mozilla/digital-advertising-privacy/)
-- [Cognizant found guilty of discriminating against non-Indian employees](https://twitter.com/USTechWorkers/status/1843744799607898260)
-- [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
-- [Miqt: MIT-licensed Qt bindings for Go](https://github.com/mappu/miqt)
+- [Show HN: I made an SSH tunnel manager to learn Go](https://github.com/alebeck/boring)
 <!-- BLOG-POST-LIST:END -->
 
 ---
