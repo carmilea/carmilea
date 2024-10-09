@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
+- [A free and open internet shouldn&#39;t come at the expense of privacy](https://blog.mozilla.org/en/mozilla/digital-advertising-privacy/)
 - [Cognizant found guilty of discriminating against non-Indian employees](https://twitter.com/USTechWorkers/status/1843744799607898260)
-- [Why the ISO format has to die](https://easyos.org/about/why-the-iso-format-has-to-die.html)
 - [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
 - [Miqt: MIT-licensed Qt bindings for Go](https://github.com/mappu/miqt)
-- [What Is LibreDrive](https://forum.makemkv.com/forum/viewtopic.php?t=18856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
