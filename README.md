@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Internet Archive: Security breach alert](https://archive.org/)
-- [Geoffrey Hinton says he&#39;s proud Ilya Sutskever &#39;fired Sam Altman&#39;](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/)
+- [Upgrading Homebrew and avoiding the &quot;failed to verify attestation&quot; error](https://til.simonwillison.net/homebrew/no-verify-attestations)
+- [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
 - [Software Engineer Pay Heatmap Across the US](https://levels.fyi/heatmap)
 - [My negative views on Rust &lpar;2023&rpar;](https://chrisdone.com/posts/rust/)
 - [Command Line Tools I Like &lpar;2022&rpar;](https://rwblickhan.org/newsletters/command-line-tools-i-like-2022/)
