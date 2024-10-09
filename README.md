@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cognizant found guilty of discriminating against non-Indian employees](https://twitter.com/USTechWorkers/status/1843744799607898260)
 - [Why the ISO format has to die](https://easyos.org/about/why-the-iso-format-has-to-die.html)
 - [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
 - [Miqt: MIT-licensed Qt bindings for Go](https://github.com/mappu/miqt)
 - [What Is LibreDrive](https://forum.makemkv.com/forum/viewtopic.php?t=18856)
-- [Emoji as a Favicon Using SVG &lpar;2022&rpar;](https://css-tricks.com/emoji-as-a-favicon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
