@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 vs. Ubuntu 24.10 Performance For Intel Core Ultra 7 Lunar Lake](https://www.phoronix.com/review/lunar-lake-windows-linux/5)
-- [OpenBSD 7.6 Released](https://undeadly.org/cgi?action=article;sid=20241007204213)
+- [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
+- [Future of .io domains uncertain as UK hands over Chagos islands](https://domainincite.com/30395-future-of-io-domains-uncertain-as-uk-hands-over-chagos-islands)
+- [Bankrupt Fisker says it can&#39;t migrate its EVs to a new owner&#39;s server](https://arstechnica.com/cars/2024/10/connected-car-failure-puts-kibosh-on-sale-of-3300-fisker-oceans/)
+- [Show HN: Itineraries.io – I built a joint trip planner in between surgeries](https://itineraries.io)
 - [PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
-- [For ranchers in Costa Rica, jaguars and pumas become unexpected allies](https://news.mongabay.com/2024/10/for-ranchers-in-costa-rica-jaguars-and-pumas-become-unexpected-allies/)
-- [Germans decry influence of English as &#39;idiot&#39;s apostrophe&#39; gets approval](https://www.theguardian.com/world/2024/oct/07/germany-influence-of-english-idiots-apostrophe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
