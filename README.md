@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [DEMO: Harnessing LLMs and Speech Recognition for Personalised Recommendation Engines](https://www.youtube.com/watch?v=IwoPbf96ZeU)
 - [DEMO Ridesharing with SingleStore in SPCS](https://www.youtube.com/watch?v=Gdib1E1m1os)
 - [Introduction to the H2O GPTe Learning Path](https://www.youtube.com/watch?v=Coga-FSxlEw)
 - [Unlock Advanced Features: Modernize Your Database Beyond MariaDB | SingleStore Webinars](https://www.youtube.com/watch?v=zxcjTl4W-g8)
 - [Beginner&#39;s Guide to Graph RAG with Prof Tom Yeh | SingleStore Webinars](https://www.youtube.com/watch?v=5e1Wzbr8wGU)
-- [Accelerating Iceberg data on Snowflake with SingleStore | SingleStore Webinars](https://www.youtube.com/watch?v=zqJ7nhN8lIo)
 <!-- YOUTUBE:END -->
 
 
