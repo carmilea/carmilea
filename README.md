@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Motion &lpar;YC W20&rpar; Is Hiring Our First Customer Success Manager](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn)
+- [OpenAI pursues public benefit structure to fend off hostile takeovers](https://www.ft.com/content/5649b66e-fdb3-46d3-84e0-23e33bdaf363)
+- [Wealth Distribution in the United States](https://www.righto.com/2024/10/wealth-distribution-in-united-states.html)
+- [Your Brain Changes Based on What You Did Two Weeks Ago](https://www.newsweek.com/brain-changes-neuroscience-exercise-sleep-health-two-weeks-1965107)
 - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
-- [Future of .io domains uncertain as UK hands over Chagos islands](https://domainincite.com/30395-future-of-io-domains-uncertain-as-uk-hands-over-chagos-islands)
-- [Bankrupt Fisker says it can&#39;t migrate its EVs to a new owner&#39;s server](https://arstechnica.com/cars/2024/10/connected-car-failure-puts-kibosh-on-sale-of-3300-fisker-oceans/)
-- [Show HN: Itineraries.io – I built a joint trip planner in between surgeries](https://itineraries.io)
-- [PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
 <!-- BLOG-POST-LIST:END -->
 
 ---
