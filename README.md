@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HBO Documentary Suggests Bitcoin Creator Satoshi Nakamoto Is Peter Todd](https://www.bloomberg.com/news/articles/2024-10-09/hbo-documentary-suggests-bitcoin-creator-satoshi-nakamoto-is-peter-todd)
+- [Qantas apologizes after R-rated film plays on every screen during flight](https://www.cnn.com/2024/10/07/travel/qantas-r-rated-movie-inflight-daddio-intl-hnk/index.html)
 - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
-- [VA congressional candidate creates AI chatbot as debate stand-in for incumbent](https://www.reuters.com/world/us/virginia-congressional-candidate-creates-ai-chatbot-debate-stand-in-incumbent-2024-10-08/)
-- [BP abandons goal to cut oil output, resets strategy](https://www.reuters.com/business/energy/bp-drops-oil-output-target-strategy-reset-sources-say-2024-10-07/)
-- [X reinstated in Brazil after complying with court demands](https://apnews.com/article/brazil-x-elon-musk-supreme-court-de-moraes-e32c4b4171e78cbe8994f53713a922f7)
+- [Don&#39;t let dicts spoil your code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
 - [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
 <!-- BLOG-POST-LIST:END -->
 
