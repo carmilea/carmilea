@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cassie LaBelle: &quot;eBay completely destroyed my life&quot;](https://twitter.com/cassieceleste/status/1843702724090835178)
 - [Why the ISO format has to die](https://easyos.org/about/why-the-iso-format-has-to-die.html)
+- [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
 - [Miqt: MIT-licensed Qt bindings for Go](https://github.com/mappu/miqt)
 - [US weighs Google break-up in landmark antitrust case](https://www.ft.com/content/f6e84608-e0e5-48c5-a0eb-dde7675fb608)
-- [Emoji as a Favicon Using SVG](https://css-tricks.com/emoji-as-a-favicon/)
-- [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
