@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Open Source AI Definition RC1 Is Available for Comments](https://opensource.org/blog/the-open-source-ai-definition-v-1-0-rc1-is-available-for-comments)
+- [Dito – an advanced Layer 7 reverse proxy server written in Go](https://github.com/andrearaponi/dito)
+- [Liskov&#39;s Gun: The Parallel Evolution of React and Web Components](https://www.baldurbjarnason.com/2024/liskovs-gun/)
 - [All Things Enterprise AI: Your Recap of SingleStore Now 2024](https://www.singlestore.com/blog/singlestore-now-2024-recap)
-- [DookieDemastered: The punk album re-exploded onto obscure/obsolete formats](https://www.dookiedemastered.com/)
-- [Motion &lpar;YC W20&rpar; is hiring our first customer success manager](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn)
-- [OpenAI pursues public benefit structure to fend off hostile takeovers](https://www.ft.com/content/5649b66e-fdb3-46d3-84e0-23e33bdaf363)
-- [Your Brain Changes Based on What You Did Two Weeks Ago](https://www.newsweek.com/brain-changes-neuroscience-exercise-sleep-health-two-weeks-1965107)
+- [Dookie Demastered](https://www.dookiedemastered.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
