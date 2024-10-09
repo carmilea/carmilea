@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cassie LaBelle: &quot;eBay completely destroyed my life&quot;](https://twitter.com/cassieceleste/status/1843702724090835178)
 - [Why the ISO format has to die](https://easyos.org/about/why-the-iso-format-has-to-die.html)
 - [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
 - [Miqt: MIT-licensed Qt bindings for Go](https://github.com/mappu/miqt)
-- [US weighs Google break-up in landmark antitrust case](https://www.ft.com/content/f6e84608-e0e5-48c5-a0eb-dde7675fb608)
+- [What Is LibreDrive](https://forum.makemkv.com/forum/viewtopic.php?t=18856)
+- [Emoji as a Favicon Using SVG &lpar;2022&rpar;](https://css-tricks.com/emoji-as-a-favicon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
