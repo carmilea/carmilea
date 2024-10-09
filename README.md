@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My negative views on Rust &lpar;2021&rpar; &lpar;2023&rpar;](https://chrisdone.com/posts/rust/)
+- [Command Line Tools I Like &lpar;2022&rpar;](https://rwblickhan.org/newsletters/command-line-tools-i-like-2022/)
+- [How Waffle House helps Southerners and FEMA judge a storm&#39;s severity](https://apnews.com/article/waffle-house-index-hurricane-milton-e0547ca1fb11ddcadab50035a0da7819)
+- [Dell&#39;s sudden 5-day RTO order leaves parents scrambling to find childcare](https://www.businessinsider.com/dell-staff-return-office-order-sparks-panic-parents-childcare-wfh-2024-10)
 - [The Open Source AI Definition RC1 Is Available for Comments](https://opensource.org/blog/the-open-source-ai-definition-v-1-0-rc1-is-available-for-comments)
-- [Dito – an advanced Layer 7 reverse proxy server written in Go](https://github.com/andrearaponi/dito)
-- [Liskov&#39;s Gun: The Parallel Evolution of React and Web Components](https://www.baldurbjarnason.com/2024/liskovs-gun/)
-- [All Things Enterprise AI: Your Recap of SingleStore Now 2024](https://www.singlestore.com/blog/singlestore-now-2024-recap)
-- [Dookie Demastered](https://www.dookiedemastered.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
