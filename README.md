@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The human internet is dying. AI images are taking over Google top results](https://old.reddit.com/r/ChatGPT/comments/1fye6tb/the_human_internet_is_dying_ai_images_taking_over/)
 - [Emoji as a Favicon Using SVG](https://css-tricks.com/emoji-as-a-favicon/)
 - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
-- [If the Django Software Foundation had $1M](https://jacobian.org/2024/oct/8/dsf-one-million/)
 - [Don&#39;t let dicts spoil your code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
+- [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
+- [Instant &lpar;YC S22&rpar; is hiring a founding engineer to help build a modern Firebase](https://news.ycombinator.com/item?id=41781768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
