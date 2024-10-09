@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HBO Documentary Suggests Bitcoin Creator Satoshi Nakamoto Is Peter Todd](https://www.bloomberg.com/news/articles/2024-10-09/hbo-documentary-suggests-bitcoin-creator-satoshi-nakamoto-is-peter-todd)
-- [Qantas apologizes after R-rated film plays on every screen during flight](https://www.cnn.com/2024/10/07/travel/qantas-r-rated-movie-inflight-daddio-intl-hnk/index.html)
+- [The human internet is dying. AI images are taking over Google top results](https://old.reddit.com/r/ChatGPT/comments/1fye6tb/the_human_internet_is_dying_ai_images_taking_over/)
+- [A Vtuber Just Became Twitch&#39;s Most-Subscribed Streamer](https://kotaku.com/ironmouse-kai-cenat-twitch-vtuber-sub-record-1851661798)
+- [Emoji as a Favicon Using SVG](https://css-tricks.com/emoji-as-a-favicon/)
 - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
-- [Don&#39;t let dicts spoil your code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
-- [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
+- [If the Django Software Foundation had $1M](https://jacobian.org/2024/oct/8/dsf-one-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
