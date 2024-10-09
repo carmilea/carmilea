@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Motion &lpar;YC W20&rpar; Is Hiring Our First Customer Success Manager](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn)
+- [All Things Enterprise AI: Your Recap of SingleStore Now 2024](https://www.singlestore.com/blog/singlestore-now-2024-recap)
+- [DookieDemastered: The punk album re-exploded onto obscure/obsolete formats](https://www.dookiedemastered.com/)
+- [Motion &lpar;YC W20&rpar; is hiring our first customer success manager](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn)
 - [OpenAI pursues public benefit structure to fend off hostile takeovers](https://www.ft.com/content/5649b66e-fdb3-46d3-84e0-23e33bdaf363)
-- [Wealth Distribution in the United States](https://www.righto.com/2024/10/wealth-distribution-in-united-states.html)
 - [Your Brain Changes Based on What You Did Two Weeks Ago](https://www.newsweek.com/brain-changes-neuroscience-exercise-sleep-health-two-weeks-1965107)
-- [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
 <!-- BLOG-POST-LIST:END -->
 
 ---
