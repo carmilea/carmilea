@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My negative views on Rust &lpar;2021&rpar; &lpar;2023&rpar;](https://chrisdone.com/posts/rust/)
+- [Internet Archive: Security breach alert](https://archive.org/)
+- [Geoffrey Hinton says he&#39;s proud Ilya Sutskever &#39;fired Sam Altman&#39;](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/)
+- [Software Engineer Pay Heatmap Across the US](https://levels.fyi/heatmap)
+- [My negative views on Rust &lpar;2023&rpar;](https://chrisdone.com/posts/rust/)
 - [Command Line Tools I Like &lpar;2022&rpar;](https://rwblickhan.org/newsletters/command-line-tools-i-like-2022/)
-- [How Waffle House helps Southerners and FEMA judge a storm&#39;s severity](https://apnews.com/article/waffle-house-index-hurricane-milton-e0547ca1fb11ddcadab50035a0da7819)
-- [Dell&#39;s sudden 5-day RTO order leaves parents scrambling to find childcare](https://www.businessinsider.com/dell-staff-return-office-order-sparks-panic-parents-childcare-wfh-2024-10)
-- [The Open Source AI Definition RC1 Is Available for Comments](https://opensource.org/blog/the-open-source-ai-definition-v-1-0-rc1-is-available-for-comments)
 <!-- BLOG-POST-LIST:END -->
 
 ---
