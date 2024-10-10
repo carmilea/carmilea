@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Author and Aviator](https://literaryreview.co.uk/author-aviator)
 - [The path to GM: some thoughts on becoming a general manager &lpar;2005&rpar;](https://learn.microsoft.com/en-us/archive/blogs/techtalk/the-path-to-gm-some-thoughts-on-becoming-a-general-manager)
-- [LLM attacks take just 42 seconds on average, 20% of jailbreaks succeed](https://www.scworld.com/news/llm-attacks-take-just-42-seconds-on-average-20-of-jailbreaks-succeed)
 - [The science behind on-the-wrist blood pressure tracking](https://www.empirical.health/blog/apple-watch-blood-pressure/)
 - [South Korean Author Han Kang Wins Nobel Prize](https://www.aljazeera.com/news/2024/10/10/south-koreas-han-kang-wins-2024-nobel-prize-in-literature)
+- [Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
