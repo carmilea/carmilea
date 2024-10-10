@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD EPYC Turin delivers better performance/power efficiency than AmpereOne](https://www.phoronix.com/review/amd-epyc-9965-ampereone/3)
 - [Geothermal Power in the North Bay](https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/)
-- [The FBI created a coin to investigate crypto pump-and-dump schemes](https://www.theverge.com/2024/10/10/24267098/fbi-coin-crypto-token-nexgenai-sec-doj-fraud-investigation)
 - [Hurricane Milton&#39;s Impact: 70 Florida Cities See 50%+ Drop in Internet Traffic](https://twitter.com/CloudflareRadar/status/1844444286911381980)
 - [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
 - [TypedDicts are better than you think](https://blog.changs.co.uk/typeddicts-are-better-than-you-think.html)
