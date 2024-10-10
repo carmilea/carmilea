@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11&#39;s Big 2024 Update Leaves Behind 9GB of Undeletable Files](https://www.pcworld.com/article/2485897/windows-11s-big-2024-update-leaves-behind-9gb-of-undeletable-files.html)
+- [The FBI created a coin to investigate crypto pump-and-dump schemes](https://www.theverge.com/2024/10/10/24267098/fbi-coin-crypto-token-nexgenai-sec-doj-fraud-investigation)
+- [Unity Editor Software Terms Update: Runtime Fee Cancellation Follow-up](https://unity.com/blog/terms-update-runtime-fee-cancellation)
 - [Hurricane Milton&#39;s Impact: 70 Florida Cities See 50%+ Drop in Internet Traffic](https://twitter.com/CloudflareRadar/status/1844444286911381980)
 - [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
-- [G4 &lpar;Severe&rpar; Geomagnetic Storming Observed](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storming-observed-0)
-- [Microsoft Recall is now an explorer.exe dependency](https://github.com/ChrisTitusTech/winutil/issues/2697)
-- [Studios: Please Don&#39;t Spoil the Movie We Are Seated to See](http://fxrant.blogspot.com/2024/06/studios-dont-spoil-movie-we-are-seated.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
