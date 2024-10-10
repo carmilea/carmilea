@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WASM Is the New CGI](https://roborooter.com/post/wasm-is-the-new-cgi/)
 - [Indian entrepreneur, industrialist, and philanthropist, Ratan Tata, dead at 86](https://en.wikipedia.org/wiki/Ratan_Tata)
 - [7/67 Children Receiving Skysona Gene Therapy Develop Blood Cancer](https://www.nejm.org/doi/full/10.1056/NEJMoa2405541)
 - [Bankrupt Fisker says it can&#39;t migrate its EVs to a new owner&#39;s server](https://arstechnica.com/cars/2024/10/connected-car-failure-puts-kibosh-on-sale-of-3300-fisker-oceans/)
-- [Electric vehicle safety via crash test](https://www.kbtx.com/2024/10/09/texas-am-tti-researches-electric-vehicle-safety-via-crash-test-jaws-hit-ground/)
-- [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
+- [Ratan Tata Passed Away](https://www.thehindu.com/news/national/ratan-tata-death-live-updates-on-october-10/article68738101.ece)
 <!-- BLOG-POST-LIST:END -->
 
 ---
