@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Porch Pirates Are Stealing AT&amp;T iPhones Delivered by FedEx](https://www.wsj.com/business/logistics/porch-pirates-att-iphone-fedex-279ff419)
+- [Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
+- [OS/2 TCPBEUI Name Resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
+- [Ask HN: Tech Stack Behind the Claude App?](https://news.ycombinator.com/item?id=41795712)
 - [WASM Is the New CGI](https://roborooter.com/post/wasm-is-the-new-cgi/)
-- [Indian entrepreneur, industrialist, and philanthropist, Ratan Tata, dead at 86](https://en.wikipedia.org/wiki/Ratan_Tata)
-- [7/67 Children Receiving Skysona Gene Therapy Develop Blood Cancer](https://www.nejm.org/doi/full/10.1056/NEJMoa2405541)
-- [Bankrupt Fisker says it can&#39;t migrate its EVs to a new owner&#39;s server](https://arstechnica.com/cars/2024/10/connected-car-failure-puts-kibosh-on-sale-of-3300-fisker-oceans/)
-- [Ratan Tata Passed Away](https://www.thehindu.com/news/national/ratan-tata-death-live-updates-on-october-10/article68738101.ece)
 <!-- BLOG-POST-LIST:END -->
 
 ---
