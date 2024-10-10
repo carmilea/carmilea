@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Author and Aviator](https://literaryreview.co.uk/author-aviator)
+- [The path to GM: some thoughts on becoming a general manager &lpar;2005&rpar;](https://learn.microsoft.com/en-us/archive/blogs/techtalk/the-path-to-gm-some-thoughts-on-becoming-a-general-manager)
+- [LLM attacks take just 42 seconds on average, 20% of jailbreaks succeed](https://www.scworld.com/news/llm-attacks-take-just-42-seconds-on-average-20-of-jailbreaks-succeed)
 - [The science behind on-the-wrist blood pressure tracking](https://www.empirical.health/blog/apple-watch-blood-pressure/)
-- [Portugal seeks to become low-tax haven for young people](https://www.ft.com/content/41dd7994-3b1f-4562-a59f-11879b5e3f68)
-- [Thunderbird Android client is K-9 Mail reborn, and it&#39;s in solid beta](https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/)
-- [Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
-- [&#39;Entire ecosystem&#39; of fossils 8.7M years old found under Los Angeles high school](https://www.theguardian.com/us-news/2024/sep/15/fossils-los-angeles-high-school)
+- [South Korean Author Han Kang Wins Nobel Prize](https://www.aljazeera.com/news/2024/10/10/south-koreas-han-kang-wins-2024-nobel-prize-in-literature)
 <!-- BLOG-POST-LIST:END -->
 
 ---
