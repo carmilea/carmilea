@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hurricane Milton&#39;s Impact: 70 Florida Cities See 50%+ Drop in Internet Traffic](https://twitter.com/CloudflareRadar/status/1844444286911381980)
+- [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
 - [G4 &lpar;Severe&rpar; Geomagnetic Storming Observed](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storming-observed-0)
 - [Microsoft Recall is now an explorer.exe dependency](https://github.com/ChrisTitusTech/winutil/issues/2697)
 - [Studios: Please Don&#39;t Spoil the Movie We Are Seated to See](http://fxrant.blogspot.com/2024/06/studios-dont-spoil-movie-we-are-seated.html)
-- [Meteorologists Get Death Threats as Hurricane Conspiracy Theories Thrive](https://www.rollingstone.com/culture/culture-features/hurricane-milton-misinformation-meteorlogist-death-threats-1235130352/)
-- [DeskPad – A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
