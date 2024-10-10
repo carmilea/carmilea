@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Author and Aviator](https://literaryreview.co.uk/author-aviator)
-- [The path to GM: some thoughts on becoming a general manager &lpar;2005&rpar;](https://learn.microsoft.com/en-us/archive/blogs/techtalk/the-path-to-gm-some-thoughts-on-becoming-a-general-manager)
-- [The science behind on-the-wrist blood pressure tracking](https://www.empirical.health/blog/apple-watch-blood-pressure/)
-- [South Korean Author Han Kang Wins Nobel Prize](https://www.aljazeera.com/news/2024/10/10/south-koreas-han-kang-wins-2024-nobel-prize-in-literature)
-- [Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
+- [G4 &lpar;Severe&rpar; Geomagnetic Storming Observed](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storming-observed-0)
+- [Microsoft Recall is now an explorer.exe dependency](https://github.com/ChrisTitusTech/winutil/issues/2697)
+- [Studios: Please Don&#39;t Spoil the Movie We Are Seated to See](http://fxrant.blogspot.com/2024/06/studios-dont-spoil-movie-we-are-seated.html)
+- [Meteorologists Get Death Threats as Hurricane Conspiracy Theories Thrive](https://www.rollingstone.com/culture/culture-features/hurricane-milton-misinformation-meteorlogist-death-threats-1235130352/)
+- [DeskPad – A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
