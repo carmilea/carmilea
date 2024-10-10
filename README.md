@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Porch Pirates Are Stealing AT&amp;T iPhones Delivered by FedEx](https://www.wsj.com/business/logistics/porch-pirates-att-iphone-fedex-279ff419)
 - [Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
 - [OS/2 TCPBEUI Name Resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
-- [Ask HN: Tech Stack Behind the Claude App?](https://news.ycombinator.com/item?id=41795712)
 - [WASM Is the New CGI](https://roborooter.com/post/wasm-is-the-new-cgi/)
+- [Indian entrepreneur, industrialist, and philanthropist, Ratan Tata, dead at 86](https://en.wikipedia.org/wiki/Ratan_Tata)
+- [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 ---
