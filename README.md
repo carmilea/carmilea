@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [All We Have in This World Is Ourselves](https://rxjourney.com.ng/all-we-really-have-in-this-world-is-ourselves)
-- [The Internet Archive is under attack](https://www.theverge.com/2024/10/9/24266135/nintendo-original-alarm-clock-alarmo-prototypes)
+- [BBC Weather app bug suggests hurricane winds in UK](https://www.bbc.co.uk/news/articles/c0kjrp2rngzo)
 - [Scrum&#39;s &quot;Product Owner&quot; Problem – By Adam Ard](https://rethinkingsoftware.substack.com/p/scrums-product-owner-problem)
-- [Leaving WordPress &lpar;.org or WPF, still unsure which one&rpar;](https://megabyterose.com/2024/10/leaving-wordpress-org-or-wpf-still-unsure-which-one/)
-- [Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
+- [OS/2 TCPBEUI Name Resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
+- [WASM Is the New CGI](https://roborooter.com/post/wasm-is-the-new-cgi/)
+- [Indian entrepreneur, industrialist, and philanthropist, Ratan Tata, dead at 86](https://en.wikipedia.org/wiki/Ratan_Tata)
 <!-- BLOG-POST-LIST:END -->
 
 ---
