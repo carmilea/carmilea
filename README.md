@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The science behind on-the-wrist blood pressure tracking](https://www.empirical.health/blog/apple-watch-blood-pressure/)
+- [Portugal seeks to become low-tax haven for young people](https://www.ft.com/content/41dd7994-3b1f-4562-a59f-11879b5e3f68)
 - [Thunderbird Android client is K-9 Mail reborn, and it&#39;s in solid beta](https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/)
 - [Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
 - [&#39;Entire ecosystem&#39; of fossils 8.7M years old found under Los Angeles high school](https://www.theguardian.com/us-news/2024/sep/15/fossils-los-angeles-high-school)
-- [Owe Your Banker £1k You Are at His Mercy; Owe Him £1M the Position Is Reversed](https://quoteinvestigator.com/2019/04/23/bank/)
-- [Why we&#39;re helping more wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
