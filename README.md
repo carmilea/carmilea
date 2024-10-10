@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BBC Weather app bug suggests hurricane winds in UK](https://www.bbc.co.uk/news/articles/c0kjrp2rngzo)
+- [Let&#39;s talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
+- [Nixiesearch: Running Lucene over S3, and why we&#39;re building a new search engine](https://nixiesearch.substack.com/p/nixiesearch-running-lucene-over-s3)
 - [Scrum&#39;s &quot;Product Owner&quot; Problem – By Adam Ard](https://rethinkingsoftware.substack.com/p/scrums-product-owner-problem)
 - [OS/2 TCPBEUI Name Resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
 - [WASM Is the New CGI](https://roborooter.com/post/wasm-is-the-new-cgi/)
-- [Indian entrepreneur, industrialist, and philanthropist, Ratan Tata, dead at 86](https://en.wikipedia.org/wiki/Ratan_Tata)
 <!-- BLOG-POST-LIST:END -->
 
 ---
