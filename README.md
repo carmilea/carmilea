@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Entire ecosystem&#39; of fossils 8.7M years old found under Los Angeles high school](https://www.theguardian.com/us-news/2024/sep/15/fossils-los-angeles-high-school)
+- [Back in the day, people had to cook a hard-boiled egg for a computer mouse](https://www.boredpanda.com/older-people-trolling-young-computer-mouse-hardboiled-egg-hack/)
+- [Owe Your Banker £1k You Are at His Mercy; Owe Him £1M the Position Is Reversed](https://quoteinvestigator.com/2019/04/23/bank/)
+- [Why we&#39;re helping more wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
 - [Let&#39;s talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
-- [Nixiesearch: Running Lucene over S3, and why we&#39;re building a new search engine](https://nixiesearch.substack.com/p/nixiesearch-running-lucene-over-s3)
-- [Scrum&#39;s &quot;Product Owner&quot; Problem – By Adam Ard](https://rethinkingsoftware.substack.com/p/scrums-product-owner-problem)
-- [OS/2 TCPBEUI Name Resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
-- [WASM Is the New CGI](https://roborooter.com/post/wasm-is-the-new-cgi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
