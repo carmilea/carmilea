@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram and Threads moderation is out of control](https://www.theverge.com/2024/10/9/24266096/instagram-threads-moderation-account-post-deleted-limited)
+- [You Don&#39;t Know Jack about Bandwidth](https://cacm.acm.org/practice/you-dont-know-jack-about-bandwidth/)
+- [Why Gov.uk&#39;s Exit this Page component doesn&#39;t use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
 - [Upgrading Homebrew and avoiding the &quot;failed to verify attestation&quot; error](https://til.simonwillison.net/homebrew/no-verify-attestations)
 - [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
-- [Software Engineer Pay Heatmap Across the US](https://levels.fyi/heatmap)
-- [My negative views on Rust &lpar;2023&rpar;](https://chrisdone.com/posts/rust/)
-- [Command Line Tools I Like &lpar;2022&rpar;](https://rwblickhan.org/newsletters/command-line-tools-i-like-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
