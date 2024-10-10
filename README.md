@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A crash test reveals EVs aren&#39;t stopped by guardrails, compared to gas engines](https://www.kbtx.com/2024/10/09/texas-am-tti-researches-electric-vehicle-safety-via-crash-test-jaws-hit-ground/)
+- [Being Generous, Thoughtful, and Kind is a Sign of High Intelligence](https://www.inc.com/jeff-haden/science-says-being-generous-thoughtful-and-kind-is-a-sign-of-high-intelligence-organizational-psychologist-adam-grant-agrees/90985740)
+- [Valproate reopens critical-period learning of absolute pitch &lpar;2013&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
 - [Instagram and Threads moderation is out of control](https://www.theverge.com/2024/10/9/24266096/instagram-threads-moderation-account-post-deleted-limited)
-- [You Don&#39;t Know Jack about Bandwidth](https://cacm.acm.org/practice/you-dont-know-jack-about-bandwidth/)
-- [Why Gov.uk&#39;s Exit this Page component doesn&#39;t use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
-- [Upgrading Homebrew and avoiding the &quot;failed to verify attestation&quot; error](https://til.simonwillison.net/homebrew/no-verify-attestations)
-- [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
+- [You Don’t Know Jack about Bandwidth](https://cacm.acm.org/practice/you-dont-know-jack-about-bandwidth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
