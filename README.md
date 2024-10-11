@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
+- [An Update on Gccrs Development](https://lwn.net/Articles/991199/)
 - [BigSearch Browser Extension](https://github.com/garywill/BigSearch)
 - [ARIA: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)
-- [FreeWP Is Here to Shake Up the WordPress Ecosystem](https://freewp.com/)
 - [Running WolfSSL and Curl on Windows 2000](http://datagirl.xyz/posts/wolfssl_curl_w2k.html)
-- [The &#39;Beautiful Confusion&#39; of the First Billion Years Comes into View](https://www.quantamagazine.org/the-beautiful-confusion-of-the-first-billion-years-comes-into-view-20241009/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
