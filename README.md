@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
+- [Regular expression search with suffix arrays &lpar;2015&rpar;](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/)
 - [Hamming AI &lpar;YC S24&rpar; Is Hiring a Product Engineer](https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer)
-- [The life-changing magic of Japanese clutter](https://aeon.co/essays/the-life-changing-magic-of-japanese-clutter)
 - [How long til we&#39;re all on Ozempic?](https://asteriskmag.com/issues/07/how-long-til-were-all-on-ozempic)
-- [Lm.rs Minimal CPU LLM inference in Rust with no dependency](https://github.com/samuel-vitorino/lm.rs)
-- [The Illusion of Information Adequacy](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310216)
+- [Lm.rs: Minimal CPU LLM inference in Rust with no dependency](https://github.com/samuel-vitorino/lm.rs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
