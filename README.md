@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Play killed my game and won&#39;t tell me why](https://antiidlereborn.com/news/)
 - [A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
-- [AMD Instinct MI325X to Feature 256GB HBM3E Memory, CDNA4-Based MI355X with 288GB](https://videocardz.com/newz/amd-instinct-mi325x-to-feature-256gb-hbm3e-memory-cdna4-based-mi355x-with-288gb)
-- [Startup Success: How Founder Personalities Shape Venture Outcomes](https://business.columbia.edu/research-brief/research-brief/startups-founder-personalities-vc)
-- [Nobel Peace Prize for 2024 awarded to Nihon Hidankyo](https://www.nobelprize.org/press-release-peace-2024/)
-- [Nurdle Patrol](https://www.nurdlepatrol.org/app/)
+- [Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2410.05229)
+- [Regrad Is Micrograd in Rust](https://github.com/ostadgeorge/regrad)
+- [Join-Accumulate Machine: A Semi-Coherent Scalable Trustless VM](https://graypaper.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
