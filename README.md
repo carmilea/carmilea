@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Nobel Peace Prize 2024](https://www.nobelprize.org/press-release-peace-2024/)
 - [Show HN: I made a football/soccer formation and squad app](https://apps.apple.com/au/app/football-formation/id6683308607)
-- [Georgia county official dies after testifying about BioLab chemical plant fire](https://www.wabe.org/georgia-county-official-dies-after-testifying-about-conyers-biolab-chemical-plant-fire/)
 - [Nurdle Patrol](https://www.nurdlepatrol.org/app/)
 - [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
-- [WordPress Alternatives](https://darn.es/wordpress-alternatives/)
+- [BigSearch Browser Extension](https://github.com/garywill/BigSearch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
