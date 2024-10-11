@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Nobel Peace Prize 2024](https://www.nobelprize.org/press-release-peace-2024/)
+- [Nobel Peace Prize for 2024 awarded to Nihon Hidankyo](https://www.nobelprize.org/press-release-peace-2024/)
 - [Nurdle Patrol](https://www.nurdlepatrol.org/app/)
+- [AP5 -  Declarative Programming Library For Common Lisp &lpar;1995&rpar;](https://oceanpark.com/ap5.html)
 - [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
 - [ARIA: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)
-- [Chunkr – Vision model based PDF chunking](https://github.com/lumina-ai-inc/chunkr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
