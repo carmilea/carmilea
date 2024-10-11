@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD EPYC Turin delivers better performance/power efficiency than AmpereOne](https://www.phoronix.com/review/amd-epyc-9965-ampereone/3)
-- [Geothermal Power in the North Bay](https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/)
-- [Hurricane Milton&#39;s Impact: 70 Florida Cities See 50%+ Drop in Internet Traffic](https://twitter.com/CloudflareRadar/status/1844444286911381980)
-- [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
-- [TypedDicts are better than you think](https://blog.changs.co.uk/typeddicts-are-better-than-you-think.html)
+- [BigSearch Browser Extension](https://github.com/garywill/BigSearch)
+- [ARIA: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)
+- [FreeWP Is Here to Shake Up the WordPress Ecosystem](https://freewp.com/)
+- [Running WolfSSL and Curl on Windows 2000](http://datagirl.xyz/posts/wolfssl_curl_w2k.html)
+- [The &#39;Beautiful Confusion&#39; of the First Billion Years Comes into View](https://www.quantamagazine.org/the-beautiful-confusion-of-the-first-billion-years-comes-into-view-20241009/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
