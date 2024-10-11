@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grokking at the Edge of Linear Separability](https://arxiv.org/abs/2410.04489)
-- [The Role of Anchor Tokens in Self-Attention Networks](https://arxiv.org/abs/2402.07616)
-- [Show HN: Dead man&#39;s switch without reliance on your infra](https://github.com/adamdecaf/deadcheck)
-- [Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
-- [Show HN: NotesHub: cross-platform, Markdown-based note-taking app](https://about.noteshub.app)
+- [Hamming AI &lpar;YC S24&rpar; Is Hiring a Product Engineer](https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer)
+- [The life-changing magic of Japanese clutter](https://aeon.co/essays/the-life-changing-magic-of-japanese-clutter)
+- [How long til we&#39;re all on Ozempic?](https://asteriskmag.com/issues/07/how-long-til-were-all-on-ozempic)
+- [Lm.rs Minimal CPU LLM inference in Rust with no dependency](https://github.com/samuel-vitorino/lm.rs)
+- [The Illusion of Information Adequacy](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
