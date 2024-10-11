@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Robotaxi](https://www.tesla.com/we-robot)
 - [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
+- [WordPress Alternatives](https://darn.es/wordpress-alternatives/)
 - [An Update on Gccrs Development](https://lwn.net/Articles/991199/)
 - [BigSearch Browser Extension](https://github.com/garywill/BigSearch)
-- [ARIA: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)
-- [Running WolfSSL and Curl on Windows 2000](http://datagirl.xyz/posts/wolfssl_curl_w2k.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
