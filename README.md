@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Play killed my game and won&#39;t tell me why](https://antiidlereborn.com/news/)
+- [Elle&#39;s Homepage](https://ellesho.me/page/)
+- [Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
+- [Show HN: NotesHub: cross-platform, Markdown-based note-taking app](https://about.noteshub.app)
 - [A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
 - [Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2410.05229)
-- [Regrad Is Micrograd in Rust](https://github.com/ostadgeorge/regrad)
-- [Join-Accumulate Machine: A Semi-Coherent Scalable Trustless VM](https://graypaper.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
