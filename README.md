@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple&#39;s naming conventions are a mess](https://medium.com/@spacedawwwg/apples-naming-conventions-are-a-mess-here-s-what-i-would-do-f8ba364ce37a)
+- [Show HN: Dead man&#39;s switch without reliance on your infra](https://github.com/adamdecaf/deadcheck)
+- [Manifest v2 is now removed from Chrome canary](https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline)
 - [Elle&#39;s Homepage](https://ellesho.me/page/)
 - [Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
-- [Show HN: NotesHub: cross-platform, Markdown-based note-taking app](https://about.noteshub.app)
-- [A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
-- [Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2410.05229)
 <!-- BLOG-POST-LIST:END -->
 
 ---
