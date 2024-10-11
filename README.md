@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
+- [AMD Instinct MI325X to Feature 256GB HBM3E Memory, CDNA4-Based MI355X with 288GB](https://videocardz.com/newz/amd-instinct-mi325x-to-feature-256gb-hbm3e-memory-cdna4-based-mi355x-with-288gb)
+- [Startup Success: How Founder Personalities Shape Venture Outcomes](https://business.columbia.edu/research-brief/research-brief/startups-founder-personalities-vc)
 - [Nobel Peace Prize for 2024 awarded to Nihon Hidankyo](https://www.nobelprize.org/press-release-peace-2024/)
 - [Nurdle Patrol](https://www.nurdlepatrol.org/app/)
-- [AP5 -  Declarative Programming Library For Common Lisp &lpar;1995&rpar;](https://oceanpark.com/ap5.html)
-- [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
-- [ARIA: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)
 <!-- BLOG-POST-LIST:END -->
 
 ---
