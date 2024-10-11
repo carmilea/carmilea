@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve says Steam users don&#39;t own a thing, GOG says its games can&#39;t be taken away](https://www.gamesradar.com/games/valve-reminds-steam-users-they-dont-actually-own-a-darn-thing-they-buy-gog-pounces-and-says-its-games-cannot-be-taken-away-from-you-thanks-to-offline-installers/)
+- [Gleam: A Basic Introduction](https://peq42.com/blog/gleam-a-basic-introduction/)
 - [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
 - [Regular expression search with suffix arrays &lpar;2015&rpar;](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/)
 - [Hamming AI &lpar;YC S24&rpar; Is Hiring a Product Engineer](https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer)
-- [How long til we&#39;re all on Ozempic?](https://asteriskmag.com/issues/07/how-long-til-were-all-on-ozempic)
-- [Lm.rs: Minimal CPU LLM inference in Rust with no dependency](https://github.com/samuel-vitorino/lm.rs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
