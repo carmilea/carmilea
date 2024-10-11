@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An exoskeleton let a paralyzed man walk. Then its maker refused repairs](https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/)
+- [An exoskeleton let a paralyzed man walk, then its maker refused repairs](https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/)
+- [Kagi Snaps](https://help.kagi.com/kagi/features/snaps.html)
 - [Physicists generated sound waves that travel in one direction only](https://www.sciencealert.com/physicists-generated-sound-waves-that-travel-in-one-direction-only)
-- [Working from Home Is Powering Productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom)
-- [Machines of Loving Grace: How AI Could Transform the World for the Better](https://darioamodei.com/machines-of-loving-grace)
-- [Valve says Steam users don&#39;t own a thing, GOG says its games can&#39;t be taken away](https://www.gamesradar.com/games/valve-reminds-steam-users-they-dont-actually-own-a-darn-thing-they-buy-gog-pounces-and-says-its-games-cannot-be-taken-away-from-you-thanks-to-offline-installers/)
+- [Working from home is powering productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom)
+- [Machines of loving grace: How AI could transform the world for the better](https://darioamodei.com/machines-of-loving-grace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
