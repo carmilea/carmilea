@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Georgia county official dies after testifying about BioLab chemical plant fire](https://www.wabe.org/georgia-county-official-dies-after-testifying-about-conyers-biolab-chemical-plant-fire/)
 - [Tesla Robotaxi](https://www.tesla.com/we-robot)
 - [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
 - [WordPress Alternatives](https://darn.es/wordpress-alternatives/)
 - [An Update on Gccrs Development](https://lwn.net/Articles/991199/)
-- [BigSearch Browser Extension](https://github.com/garywill/BigSearch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
