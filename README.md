@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
-- [Apple macOS 15 Sequoia is officially Unix](https://www.theregister.com/2024/10/11/macos_15_is_unix/)
 - [Show HN: AOO – C++ library for real-time audio streaming and messaging](https://aoo.iem.sh/)
 - [Modded-NanoGPT: NanoGPT &lpar;124M&rpar; quality in 3.25B tokens](https://github.com/KellerJordan/modded-nanogpt)
 - [PayPal &lpar;USA&rpar; will automatically share data about you to participating stores](https://www.paypal.com/us/legalhub/upcoming-policies-full)
+- [Christopher Columbus&#39; remains found after 500 years as DNA analysis ends mystery](https://www.the-express.com/news/world-news/151431/christopher-columbus-remains-found-500-years-dna-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
