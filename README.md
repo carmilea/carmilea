@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The ACF plugin on the WordPress directory has been taken over by WordPress.org](https://twitter.com/wp_acf/status/1845169499064107049)
+- [Secure Custom Fields by WordPress.org](https://wordpress.org/plugins/advanced-custom-fields/)
+- [Machine learning and information theory concepts towards an AI Mathematician](https://arxiv.org/abs/2403.04571)
 - [Using drones to terrorize a city [video]](https://www.youtube.com/watch?v=InGah1DF2Cc)
-- [Latest Asahi Linux brings AAA gaming to Apple&#39;s M1 with respectable frame rates](https://www.tomshardware.com/laptops/macbooks/aaa-gaming-comes-to-apple-m1-thanks-to-the-latest-asahi-linux-build-control-cyberpunk-2077-and-the-witcher-3-are-playable-with-respectable-frame-rates)
-- [Starship Flight 5 license issued by FAA](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001?modalOpened=true)
-- [It made me $500k but I think content is a bad business](https://swizec.com/blog/it-made-me-500k-but-i-think-content-is-a-bad-business/)
-- [IcePanel &lpar;YC W23&rpar; Is Hiring Full Stack Engineers in Vancouver](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer)
+- [Tiny Drones Do Distributed Mapping](https://hackaday.com/2024/10/11/tiny-drones-do-distributed-mapping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
