@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 24H2 hoards 8.63 GB of junk you can&#39;t delete](https://www.theregister.com/2024/10/11/windows_update_cleanup/)
+- [How I Animate 3Blue1Brown](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
+- [Six transplant patients in Brazil contract HIV from infected organs](https://www.reuters.com/world/americas/six-transplant-patients-brazil-contract-hiv-infected-organs-2024-10-11/)
 - [FreeBSD: How Can We Make It More Attractive to New Users?](https://gyptazy.com/freebsd-how-can-we-make-it-more-attractive-to-new-users/)
-- [PostgreSQL Streaming Replication &lpar;WAL&rpar;; What It Is and How to Configure One](https://mindhub365.com/sql/postgresql-streaming-replication-wal-what-it-is-and-how-to-configure-one/)
-- [Psilocybin Bests SSRI for Major Depression in First Long-Term Comparison](https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77)
-- [In Praise of &#39;Megalopolis&#39;](https://www.compactmag.com/article/in-praise-of-megalopolis/)
-- [&#39;Shoe doping&#39; changed marathon times in ways we still don&#39;t understand](https://www.nytimes.com/athletic/5834953/2024/10/12/shoe-doping-marathon-times-kipchoge/)
+- [Bug, $50k how Zendesk left a backdoor in Fortune 500 companies](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
 <!-- BLOG-POST-LIST:END -->
 
 ---
