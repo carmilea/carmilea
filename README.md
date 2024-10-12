@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: If you were rewriting Emacs from scratch, what would you do differently?](https://news.ycombinator.com/item?id=41821545)
 - [The ACF plugin on the WordPress directory has been taken over by WordPress.org](https://twitter.com/wp_acf/status/1845169499064107049)
-- [Secure Custom Fields by WordPress.org](https://wordpress.org/plugins/advanced-custom-fields/)
+- [Nvidia Stock Rises. AMD&#39;s New AI Chip Is Not Competitive](https://www.barrons.com/articles/nvidia-stock-price-amd-ai-chips-b6c42016)
 - [Machine learning and information theory concepts towards an AI Mathematician](https://arxiv.org/abs/2403.04571)
 - [Using drones to terrorize a city [video]](https://www.youtube.com/watch?v=InGah1DF2Cc)
-- [Tiny Drones Do Distributed Mapping](https://hackaday.com/2024/10/11/tiny-drones-do-distributed-mapping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
