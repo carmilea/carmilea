@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alexei Navalny&#39;s Prison Diaries](https://www.newyorker.com/magazine/2024/10/21/alexei-navalny-patriot-memoir)
-- [Rosen 9000X3D performance according to MSI](https://videocardz.com/newz/msi-leaks-ryzen-9000x3d-2-to-13-higher-gaming-performance-than-7000x3d)
+- [In Praise of &#39;Megalopolis&#39;](https://www.compactmag.com/article/in-praise-of-megalopolis/)
+- [&#39;Shoe doping&#39; changed marathon times in ways we still don&#39;t understand](https://www.nytimes.com/athletic/5834953/2024/10/12/shoe-doping-marathon-times-kipchoge/)
+- [A Swiss firm’s software mines the world’s knowledge for patent opportunities](https://spectrum.ieee.org/ai-inventions)
+- [Ryzen 9000X3D performance according to MSI](https://videocardz.com/newz/msi-leaks-ryzen-9000x3d-2-to-13-higher-gaming-performance-than-7000x3d)
 - [The Society in Dedham for Apprehending Horse Thieves](https://en.wikipedia.org/wiki/The_Society_in_Dedham_for_Apprehending_Horse_Thieves)
-- [Show HN: Self-Hostable Algolia DocSearch Replacement](https://github.com/fastrepl/canary)
-- [Are retrocomputers best left on or off?](https://retrocomputing.stackexchange.com/questions/30736/are-retrocomputers-best-left-on-or-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
