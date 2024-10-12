@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IcePanel &lpar;YC W23&rpar; Is Hiring Full Stack Engineers in Vancouver](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer)
+- [Does veganism have an ultra-processing problem?](https://www.bbc.com/future/article/20241011-what-explains-increasing-anxiety-about-ultra-processed-plant-based-foods)
+- [The Boo Programming Language](https://github.com/boo-lang/boo)
 - [The phone ban has had a big impact on school work](https://icelandmonitor.mbl.is/news/news/2024/10/09/the_phone_ban_has_had_a_big_impact_on_school_work/)
 - [Choosing solitude can free your mind and lift your mood](https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/)
-- [A Journey from Linux to FreeBSD](https://freebsdfoundation.org/blog/celebrating-freebsd-day-with-tara-stella-a-journey-from-linux-to-freebsd/)
-- [Windows 11 24H2 hoards 8.63 GB of junk you can&#39;t delete](https://www.theregister.com/2024/10/11/windows_update_cleanup/)
-- [How I Animate 3Blue1Brown](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
