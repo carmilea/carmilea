@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Systems, Not Heroes](https://vitonsky.net/blog/2024/10/11/system-approach/)
+- [Show HN: Self-Hostable Algolia DocSearch Replacement](https://github.com/fastrepl/canary)
 - [Are retrocomputers best left on or off?](https://retrocomputing.stackexchange.com/questions/30736/are-retrocomputers-best-left-on-or-off)
 - [AMD&#39;s Turin: 5th Gen EPYC Launched](https://chipsandcheese.com/p/amds-turin-5th-gen-epyc-launched)
 - [An exoskeleton let a paralyzed man walk, then its maker refused repairs](https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/)
-- [Terraform Provider for Dominos Pizza](https://registry.terraform.io/providers/MNThomson/dominos/latest/docs)
-- [Working from home is powering productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
