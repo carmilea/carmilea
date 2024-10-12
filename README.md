@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: If you were rewriting Emacs from scratch, what would you do differently?](https://news.ycombinator.com/item?id=41821545)
-- [The ACF plugin on the WordPress directory has been taken over by WordPress.org](https://twitter.com/wp_acf/status/1845169499064107049)
-- [Nvidia Stock Rises. AMD&#39;s New AI Chip Is Not Competitive](https://www.barrons.com/articles/nvidia-stock-price-amd-ai-chips-b6c42016)
-- [Machine learning and information theory concepts towards an AI Mathematician](https://arxiv.org/abs/2403.04571)
-- [Using drones to terrorize a city [video]](https://www.youtube.com/watch?v=InGah1DF2Cc)
+- [Ask HN: What is it with this hate and disdain for interns/junior engineers?](https://news.ycombinator.com/item?id=41822413)
+- [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
+- [Apple macOS 15 Sequoia is officially Unix](https://www.theregister.com/2024/10/11/macos_15_is_unix/)
+- [NanoGPT &lpar;124M&rpar; quality in 3.25B training tokens &lpar;vs. 10B&rpar;](https://github.com/KellerJordan/modded-nanogpt)
+- [PayPal will automatically share data about you to participating stores](https://www.paypal.com/us/legalhub/upcoming-policies-full)
 <!-- BLOG-POST-LIST:END -->
 
 ---
