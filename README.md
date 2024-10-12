@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD: How Can We Make It More Attractive to New Users?](https://gyptazy.com/freebsd-how-can-we-make-it-more-attractive-to-new-users/)
+- [PostgreSQL Streaming Replication &lpar;WAL&rpar;; What It Is and How to Configure One](https://mindhub365.com/sql/postgresql-streaming-replication-wal-what-it-is-and-how-to-configure-one/)
+- [Psilocybin Bests SSRI for Major Depression in First Long-Term Comparison](https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77)
 - [In Praise of &#39;Megalopolis&#39;](https://www.compactmag.com/article/in-praise-of-megalopolis/)
 - [&#39;Shoe doping&#39; changed marathon times in ways we still don&#39;t understand](https://www.nytimes.com/athletic/5834953/2024/10/12/shoe-doping-marathon-times-kipchoge/)
-- [A Swiss firm’s software mines the world’s knowledge for patent opportunities](https://spectrum.ieee.org/ai-inventions)
-- [Ryzen 9000X3D performance according to MSI](https://videocardz.com/newz/msi-leaks-ryzen-9000x3d-2-to-13-higher-gaming-performance-than-7000x3d)
-- [The Society in Dedham for Apprehending Horse Thieves](https://en.wikipedia.org/wiki/The_Society_in_Dedham_for_Apprehending_Horse_Thieves)
 <!-- BLOG-POST-LIST:END -->
 
 ---
