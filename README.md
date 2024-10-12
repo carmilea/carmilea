@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Systems, Not Heroes](https://vitonsky.net/blog/2024/10/11/system-approach/)
+- [Google is preparing to let you run Linux apps on Android, just like Chrome OS](https://www.androidauthority.com/android-linux-terminal-app-3489887/)
+- [The Society in Dedham for Apprehending Horse Thieves](https://en.wikipedia.org/wiki/The_Society_in_Dedham_for_Apprehending_Horse_Thieves)
+- [Build systems, not heroes](https://vitonsky.net/blog/2024/10/11/system-approach/)
 - [Show HN: Self-Hostable Algolia DocSearch Replacement](https://github.com/fastrepl/canary)
 - [Are retrocomputers best left on or off?](https://retrocomputing.stackexchange.com/questions/30736/are-retrocomputers-best-left-on-or-off)
-- [AMD&#39;s Turin: 5th Gen EPYC Launched](https://chipsandcheese.com/p/amds-turin-5th-gen-epyc-launched)
-- [An exoskeleton let a paralyzed man walk, then its maker refused repairs](https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
