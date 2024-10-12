@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California police aren&#39;t loving their Tesla cop cars](https://techcrunch.com/2024/10/11/california-police-arent-loving-their-tesla-cop-cars/)
 - [MSI leaks Ryzen 9000X3D: 2% to 13% higher gaming performance than 7000X3D](https://videocardz.com/newz/msi-leaks-ryzen-9000x3d-2-to-13-higher-gaming-performance-than-7000x3d)
 - [Google is preparing to let you run Linux apps on Android, just like Chrome OS](https://www.androidauthority.com/android-linux-terminal-app-3489887/)
 - [The Society in Dedham for Apprehending Horse Thieves](https://en.wikipedia.org/wiki/The_Society_in_Dedham_for_Apprehending_Horse_Thieves)
 - [Show HN: Self-Hostable Algolia DocSearch Replacement](https://github.com/fastrepl/canary)
+- [Are retrocomputers best left on or off?](https://retrocomputing.stackexchange.com/questions/30736/are-retrocomputers-best-left-on-or-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
