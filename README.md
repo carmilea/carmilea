@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What is it with this hate and disdain for interns/junior engineers?](https://news.ycombinator.com/item?id=41822413)
 - [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
 - [Apple macOS 15 Sequoia is officially Unix](https://www.theregister.com/2024/10/11/macos_15_is_unix/)
-- [NanoGPT &lpar;124M&rpar; quality in 3.25B training tokens &lpar;vs. 10B&rpar;](https://github.com/KellerJordan/modded-nanogpt)
-- [PayPal will automatically share data about you to participating stores](https://www.paypal.com/us/legalhub/upcoming-policies-full)
+- [Show HN: AOO – C++ library for real-time audio streaming and messaging](https://aoo.iem.sh/)
+- [Modded-NanoGPT: NanoGPT &lpar;124M&rpar; quality in 3.25B tokens](https://github.com/KellerJordan/modded-nanogpt)
+- [PayPal &lpar;USA&rpar; will automatically share data about you to participating stores](https://www.paypal.com/us/legalhub/upcoming-policies-full)
 <!-- BLOG-POST-LIST:END -->
 
 ---
