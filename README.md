@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using drones to terrorize a city [video]](https://www.youtube.com/watch?v=InGah1DF2Cc)
+- [Latest Asahi Linux brings AAA gaming to Apple&#39;s M1 with respectable frame rates](https://www.tomshardware.com/laptops/macbooks/aaa-gaming-comes-to-apple-m1-thanks-to-the-latest-asahi-linux-build-control-cyberpunk-2077-and-the-witcher-3-are-playable-with-respectable-frame-rates)
+- [Starship Flight 5 license issued by FAA](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001?modalOpened=true)
+- [It made me $500k but I think content is a bad business](https://swizec.com/blog/it-made-me-500k-but-i-think-content-is-a-bad-business/)
 - [IcePanel &lpar;YC W23&rpar; Is Hiring Full Stack Engineers in Vancouver](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer)
-- [Does veganism have an ultra-processing problem?](https://www.bbc.com/future/article/20241011-what-explains-increasing-anxiety-about-ultra-processed-plant-based-foods)
-- [The Boo Programming Language](https://github.com/boo-lang/boo)
-- [The phone ban has had a big impact on school work](https://icelandmonitor.mbl.is/news/news/2024/10/09/the_phone_ban_has_had_a_big_impact_on_school_work/)
-- [Choosing solitude can free your mind and lift your mood](https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
