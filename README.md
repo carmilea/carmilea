@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Executives and Research Disagree About Hybrid Work. Why?](https://www.nytimes.com/2024/10/12/business/dealbook/executives-and-research-disagree-about-hybrid-work.html)
+- [The phone ban has had a big impact on school work](https://icelandmonitor.mbl.is/news/news/2024/10/09/the_phone_ban_has_had_a_big_impact_on_school_work/)
 - [Choosing solitude can free your mind and lift your mood](https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/)
 - [A Journey from Linux to FreeBSD](https://freebsdfoundation.org/blog/celebrating-freebsd-day-with-tara-stella-a-journey-from-linux-to-freebsd/)
 - [Windows 11 24H2 hoards 8.63 GB of junk you can&#39;t delete](https://www.theregister.com/2024/10/11/windows_update_cleanup/)
