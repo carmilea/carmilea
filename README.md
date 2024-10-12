@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD&#39;s Turin: 5th Gen EPYC Launched](https://chipsandcheese.com/p/amds-turin-5th-gen-epyc-launched)
 - [An exoskeleton let a paralyzed man walk, then its maker refused repairs](https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/)
-- [Kagi Snaps](https://help.kagi.com/kagi/features/snaps.html)
+- [Terraform Provider for Dominos Pizza](https://registry.terraform.io/providers/MNThomson/dominos/latest/docs)
 - [Working from home is powering productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom)
-- [Machines of loving grace: How AI could transform the world for the better](https://darioamodei.com/machines-of-loving-grace)
 - [In SSRI withdrawal, brain zaps go from overlooked symptom to center stage &lpar;2023&rpar;](https://www.psychiatrist.com/news/brain-zaps-go-from-overlooked-symptom-to-center-stage-in-ssri-withdrawal/)
 <!-- BLOG-POST-LIST:END -->
 
