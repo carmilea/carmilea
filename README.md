@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Pioneer Thinks AI Is Dumber Than a Cat](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5)
-- [Columbus was a Sephardic Jew from Western Europe, study finds](https://www.reuters.com/science/columbus-was-sephardic-jew-western-europe-study-finds-2024-10-13/)
-- [Just released: oryx now includes a powerful firewall feature](https://github.com/pythops/oryx)
-- [Innovations to Make Tibetan Language a First-Class Citizen in the Digital World](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
-- [Restic: Backups Done Right](https://restic.net/)
+- [Tiny Glade: How Could They Do This? [video]](https://www.youtube.com/watch?v=POjEp8rMFUM)
+- [Fish Out of Water: The Military Is an Impossible Place for Hackers, What to Do](https://warontherocks.com/2018/07/fish-out-of-water-how-the-military-is-an-impossible-place-for-hackers-and-what-to-do-about-it/)
+- [CRLF is obsolete and should be abolished](https://fossil-scm.org/home/ext/crlf-harmful.md)
+- [Interview with Yann LeCun on AI](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5)
+- [Making the Tibetan language a first-class citizen in the digital world](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
