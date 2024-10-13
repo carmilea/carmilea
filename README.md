@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Pioneer Thinks AI Is Dumber Than a Cat](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5)
+- [Columbus was a Sephardic Jew from Western Europe, study finds](https://www.reuters.com/science/columbus-was-sephardic-jew-western-europe-study-finds-2024-10-13/)
 - [Just released: oryx now includes a powerful firewall feature](https://github.com/pythops/oryx)
 - [Innovations to Make Tibetan Language a First-Class Citizen in the Digital World](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
 - [Restic: Backups Done Right](https://restic.net/)
-- [Why Google Search Is Falling Apart [video]](https://www.youtube.com/watch?v=uSGVk2KVokQ)
-- [Mystery UFOs swarm US Military base](https://www.wsj.com/politics/national-security/drones-military-pentagon-defense-331871f4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
