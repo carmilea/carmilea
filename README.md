@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Systemic proteome adaptions to 7-day complete caloric restriction in humans](https://www.nature.com/articles/s42255-024-01008-9)
-- [Sugar- &amp; Artificially Sweetened Beverages:Incident Stroke&amp;Dementia Risks&lpar;2017&rpar;](https://www.ahajournals.org/doi/10.1161/STROKEAHA.116.016027)
-- [Integer addition algorithm could reduce energy needs of AI by 95%](https://techxplore.com/news/2024-10-integer-addition-algorithm-energy-ai.html)
-- [The New Culture War Is Real vs. Bogus](https://www.honest-broker.com/p/the-new-culture-war-is-real-vs-bogus)
-- [Ward Christensen has died &lpar;of BBS and XMODEM fame&rpar;](https://en.wikipedia.org/wiki/Ward_Christensen)
+- [Just released: oryx now includes a powerful firewall feature](https://github.com/pythops/oryx)
+- [Innovations to Make Tibetan Language a First-Class Citizen in the Digital World](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
+- [Restic: Backups Done Right](https://restic.net/)
+- [Why Google Search Is Falling Apart [video]](https://www.youtube.com/watch?v=uSGVk2KVokQ)
+- [Mystery UFOs swarm US Military base](https://www.wsj.com/politics/national-security/drones-military-pentagon-defense-331871f4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
