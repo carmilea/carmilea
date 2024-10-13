@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UCLA professor says he&#39;s homeless due to low pay](https://www.kron4.com/news/california/ucla-professor-says-hes-homeless-due-to-low-pay/)
-- [A Novel Channel Contention Mechanism for Improving Wi-Fi&#39;s Reliability](https://arxiv.org/abs/2410.07874)
-- [Common Lisp implementation of the Forth 2012 Standard](https://github.com/gmpalter/cl-forth)
-- [Starship Flight 5 [video]](https://twitter.com/SpaceX/status/1845152255944819015)
-- [Large language models reduce public knowledge sharing on online Q&amp;A platforms](https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871)
+- [The New Culture War Is Real vs. Bogus](https://www.honest-broker.com/p/the-new-culture-war-is-real-vs-bogus)
+- [America&#39;s new millionaire class: Plumbers and HVAC entrepreneurs](https://www.wsj.com/business/entrepreneurship/plumbers-hvac-skilled-trades-millionaires-2b62bf6c)
+- [Scientists found a way to make sound travel in only one direction](https://www.zmescience.com/science/news-science/scientists-found-a-way-to-make-sound-travel-in-only-one-direction/)
+- [DARPA Thinks Walls of Oysters Could Protect Shores Against Hurricanes](https://www.wired.com/story/darpa-thinks-walls-of-oysters-could-protect-shores-against-hurricanes/)
+- [Laugh Along with GNU](https://www.gnu.org/fun/humor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
