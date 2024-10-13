@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Starship Flight 5 Stream](https://twitter.com/SpaceX/status/1845152255944819015)
-- [Changing Views Toward mRNA Based Covid Vaccines in the Scientific Literature](http://www.paom.pl/Changing-Views-toward-mRNA-based-Covid-Vaccines-in-the-Scientific-Literature-2020,189961,0,2.html)
 - [Large language models reduce public knowledge sharing on online Q&amp;A platforms](https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871)
 - [Stop Ignoring Your High Performers](https://hbr.org/2024/10/stop-ignoring-your-high-performers)
 - [Eating less can lead to a longer life: study in mice shows why](https://www.nature.com/articles/d41586-024-03277-6)
+- [Playable Counter-Strike Diffusion World Model &lpar;trained on 2x4090, 5M frames&rpar;](https://diamond-wm.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
