@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Starship Flight 5 Stream](https://twitter.com/SpaceX/status/1845152255944819015)
+- [A Novel Channel Contention Mechanism for Improving Wi-Fi&#39;s Reliability](https://arxiv.org/abs/2410.07874)
+- [India&#39;s copycat drugmakers gear up to offer cheaper weight-loss drugs](https://www.ft.com/content/c8c72757-71d7-4d69-aa8a-9c04cf25dd0d)
+- [Starship Flight 5 [video]](https://twitter.com/SpaceX/status/1845152255944819015)
 - [Large language models reduce public knowledge sharing on online Q&amp;A platforms](https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871)
-- [Stop Ignoring Your High Performers](https://hbr.org/2024/10/stop-ignoring-your-high-performers)
 - [Eating less can lead to a longer life: study in mice shows why](https://www.nature.com/articles/d41586-024-03277-6)
-- [Playable Counter-Strike Diffusion World Model &lpar;trained on 2x4090, 5M frames&rpar;](https://diamond-wm.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
