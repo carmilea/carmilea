@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A free alternative to Typora –– IF](https://if.openages.com)
+- [ACF Has Been Hijacked](https://anderegg.ca/2024/10/13/acf-has-been-hijacked)
 - [FLUX is fast and it&#39;s open source](https://replicate.com/blog/flux-is-fast-and-open-source)
 - [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
 - [The 1/8th Sleep](https://near.blog/the-1-8th-sleep/)
-- [Gödel Agent: A self-referential agent framework for recursive self-improvement](https://arxiv.org/abs/2410.04444)
-- [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
