@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
+- [Catastrophically warm predictions are more plausible than we thought](https://actu.epfl.ch/news/catastrophically-warm-predictions-are-more-plaus-2/)
 - [Starship is Still Not Understood &lpar;2021&rpar;](https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/)
 - [The Optimus robots at Tesla&#39;s Cybercab event were humans in disguise](https://www.theverge.com/2024/10/13/24269131/tesla-optimus-robots-human-controlled-cybercab-we-robot-event)
 - [The military is an impossible place for hackers, and what to do about it &lpar;2018&rpar;](https://warontherocks.com/2018/07/fish-out-of-water-how-the-military-is-an-impossible-place-for-hackers-and-what-to-do-about-it/)
-- [Show HN: The fastest Ethereum graph explorer &lpar;OpenSource&rpar;](https://dictynna.com/)
-- [CRLF is obsolete and should be abolished](https://fossil-scm.org/home/ext/crlf-harmful.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
