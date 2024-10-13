@@ -58,7 +58,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A free alternative to Typora –– IF](https://if.openages.com)
+- [Hammer Looking for a Nail, AI Drone Looking for Business Case](https://news.ycombinator.com/item?id=41825473)
 - [The optimised version of 7-Zip can&#39;t be built from source](https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/)
 - [FLUX is fast and it&#39;s open source](https://replicate.com/blog/flux-is-fast-and-open-source)
 - [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
