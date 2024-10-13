@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tiny Glade: How Could They Do This? [video]](https://www.youtube.com/watch?v=POjEp8rMFUM)
-- [Fish Out of Water: The Military Is an Impossible Place for Hackers, What to Do](https://warontherocks.com/2018/07/fish-out-of-water-how-the-military-is-an-impossible-place-for-hackers-and-what-to-do-about-it/)
+- [Starship is Still Not Understood &lpar;2021&rpar;](https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/)
+- [The Optimus robots at Tesla&#39;s Cybercab event were humans in disguise](https://www.theverge.com/2024/10/13/24269131/tesla-optimus-robots-human-controlled-cybercab-we-robot-event)
+- [The military is an impossible place for hackers, and what to do about it &lpar;2018&rpar;](https://warontherocks.com/2018/07/fish-out-of-water-how-the-military-is-an-impossible-place-for-hackers-and-what-to-do-about-it/)
+- [Show HN: The fastest Ethereum graph explorer &lpar;OpenSource&rpar;](https://dictynna.com/)
 - [CRLF is obsolete and should be abolished](https://fossil-scm.org/home/ext/crlf-harmful.md)
-- [Interview with Yann LeCun on AI](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5)
-- [Making the Tibetan language a first-class citizen in the digital world](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
