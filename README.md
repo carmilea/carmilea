@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turn your old laptop into low-end gaming machine](https://circuitshelter.com/posts/turn-your-old-laptop-into-low-end-gaming-machine/)
 - [Eating less can lead to a longer life: study in mice shows why](https://www.nature.com/articles/d41586-024-03277-6)
 - [Playable Counter-Strike Diffusion World Model &lpar;trained on 2x4090, 5M frames&rpar;](https://diamond-wm.github.io/)
+- [Wim Taymans: PipeWire Inventor](https://en.wikipedia.org/wiki/Wim_Taymans)
 - [WordPress.org&#39;s latest move involves taking control of a WP Engine plugin](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)
-- [Why targeting an ICP brings 10x more customers than you expected](https://longform.asmartbear.com/icp-ideal-customer-persona/)
-- [Hammer Looking for a Nail, AI Drone Looking for Business Case](https://news.ycombinator.com/item?id=41825473)
 <!-- BLOG-POST-LIST:END -->
 
 ---
