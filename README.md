@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Systemic proteome adaptions to 7-day complete caloric restriction in humans](https://www.nature.com/articles/s42255-024-01008-9)
+- [Sugar- &amp; Artificially Sweetened Beverages:Incident Stroke&amp;Dementia Risks&lpar;2017&rpar;](https://www.ahajournals.org/doi/10.1161/STROKEAHA.116.016027)
+- [Integer addition algorithm could reduce energy needs of AI by 95%](https://techxplore.com/news/2024-10-integer-addition-algorithm-energy-ai.html)
 - [The New Culture War Is Real vs. Bogus](https://www.honest-broker.com/p/the-new-culture-war-is-real-vs-bogus)
-- [America&#39;s new millionaire class: Plumbers and HVAC entrepreneurs](https://www.wsj.com/business/entrepreneurship/plumbers-hvac-skilled-trades-millionaires-2b62bf6c)
-- [Scientists found a way to make sound travel in only one direction](https://www.zmescience.com/science/news-science/scientists-found-a-way-to-make-sound-travel-in-only-one-direction/)
-- [DARPA Thinks Walls of Oysters Could Protect Shores Against Hurricanes](https://www.wired.com/story/darpa-thinks-walls-of-oysters-could-protect-shores-against-hurricanes/)
-- [Laugh Along with GNU](https://www.gnu.org/fun/humor.html)
+- [Ward Christensen has died &lpar;of BBS and XMODEM fame&rpar;](https://en.wikipedia.org/wiki/Ward_Christensen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
