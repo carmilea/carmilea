@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: A free alternative to Typora –– IF](https://if.openages.com)
-- [ACF Has Been Hijacked](https://anderegg.ca/2024/10/13/acf-has-been-hijacked)
+- [The optimised version of 7-Zip can&#39;t be built from source](https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/)
 - [FLUX is fast and it&#39;s open source](https://replicate.com/blog/flux-is-fast-and-open-source)
 - [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
 - [The 1/8th Sleep](https://near.blog/the-1-8th-sleep/)
