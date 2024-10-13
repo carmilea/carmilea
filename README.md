@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flux is fast and it&#39;s open source](https://replicate.com/blog/flux-is-fast-and-open-source)
+- [In a rare disclosure, The Pentagon provides an update on the X-37B spaceplane](https://arstechnica.com/space/2024/10/the-us-militarys-x-37b-spaceplane-is-preparing-for-a-novel-space-maneuver/)
+- [FLUX is fast and it&#39;s open source](https://replicate.com/blog/flux-is-fast-and-open-source)
 - [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
 - [The 1/8th Sleep](https://near.blog/the-1-8th-sleep/)
-- [Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement](https://arxiv.org/abs/2410.04444)
-- [Google Ads announces 11-year data retention policy](https://searchengineland.com/google-ads-11-year-data-retention-policy-447465)
+- [Gödel Agent: A self-referential agent framework for recursive self-improvement](https://arxiv.org/abs/2410.04444)
 <!-- BLOG-POST-LIST:END -->
 
 ---
