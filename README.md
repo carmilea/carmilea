@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The 1/8th Sleep](https://near.blog/the-1-8th-sleep/)
+- [Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement](https://arxiv.org/abs/2410.04444)
+- [Google Ads announces 11-year data retention policy](https://searchengineland.com/google-ads-11-year-data-retention-policy-447465)
+- [FAA grants SpaceX Starship Flight 5 license](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001)
 - [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
-- [Show HN: AOO – C++ library for real-time audio streaming and messaging](https://aoo.iem.sh/)
-- [Modded-NanoGPT: NanoGPT &lpar;124M&rpar; quality in 3.25B tokens](https://github.com/KellerJordan/modded-nanogpt)
-- [PayPal &lpar;USA&rpar; will automatically share data about you to participating stores](https://www.paypal.com/us/legalhub/upcoming-policies-full)
-- [Christopher Columbus&#39; remains found after 500 years as DNA analysis ends mystery](https://www.the-express.com/news/world-news/151431/christopher-columbus-remains-found-500-years-dna-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
