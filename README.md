@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We Are in Need of Renaissance People](https://victorhanson.com/we-are-in-need-of-renaissance-people/)
+- [A FLOSS platform for data analysis pipelines that you probably haven&#39;t heard of](https://arvados.org/technology/)
 - [Huly – Open-source project management platform](https://github.com/hcengineering/platform)
 - [Why pay for a search engine](https://help.kagi.com/kagi/why-kagi/why-pay-for-search.html)
-- [Rama on Clojure&#39;s terms, and the magic of continuation-passing style](https://blog.redplanetlabs.com/2024/10/10/rama-on-clojures-terms-and-the-magic-of-continuation-passing-style/)
-- [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/colmi_r02_client.html)
+- [Word-like HTML inline edit with design mode](https://til.secretgeek.net/google/chrome_design_mode.html)
+- [C++ String Conversion: Exploring std:from_chars in C++17 to C++26](https://www.cppstories.com/2018/12/fromchars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
