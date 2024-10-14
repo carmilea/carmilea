@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Llama 405B 506 tokens/second on an H200](https://developer.nvidia.com/blog/boosting-llama-3-1-405b-throughput-by-another-1-5x-on-nvidia-h200-tensor-core-gpus-and-nvlink-switch/)
+- [We Are in Need of Renaissance People](https://victorhanson.com/we-are-in-need-of-renaissance-people/)
+- [Huly – Open-source project management platform](https://github.com/hcengineering/platform)
+- [Why pay for a search engine](https://help.kagi.com/kagi/why-kagi/why-pay-for-search.html)
+- [Rama on Clojure&#39;s terms, and the magic of continuation-passing style](https://blog.redplanetlabs.com/2024/10/10/rama-on-clojures-terms-and-the-magic-of-continuation-passing-style/)
 - [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/colmi_r02_client.html)
-- [Show HN: A VSCode Extension to edit HTML visually in real-time](https://github.com/urin/vscode-web-visual-editor)
-- [Honeybee: Calling via XMPP](https://momi.ca/posts/2024-10-09-honeybee.html)
-- [20x faster convergence for diffusion models](https://sihyun.me/REPA/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
