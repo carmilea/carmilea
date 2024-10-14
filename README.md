@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Routine dental X-rays are not backed by evidence–experts want it to stop](https://arstechnica.com/health/2024/10/do-you-really-need-those-routine-dental-x-rays-probably-not/)
-- [GPT-4o Jailbroken by Claiming It&#39;s an &quot;All-Responsive&quot; API Endpoint](https://twitter.com/mixedenn/status/1845939748235628564)
-- [I don&#39;t want your AI](https://martinantos.com/I-don%27t-want-your-AI/)
-- [Why World War WordPress Will End with a Zombie Fork](https://darnell.day/why-world-war-wordpress-will-end-with-a-zombie-fork)
+- [Zamba2-7B](https://www.zyphra.com/post/zamba2-7b)
+- [Hiding Images in Plain Sight: The Physics of Magic Windows [Using Caustics] &lpar;2021&rpar;](https://mattferraro.dev/posts/caustics-engineering)
 - [Project Euler](https://projecteuler.net/problem=912)
+- [The state of GNU/Linux and a case against shared object libraries](https://mitjafelicijan.com/the-abysmal-state-of-gnu-linux-and-a-case-against-shared-object-libraries.html)
+- [Bike Manufacturers Are Making Bikes Less Repairable](https://www.ifixit.com/News/101675/bike-manufacturers-are-making-bikes-less-repairable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
