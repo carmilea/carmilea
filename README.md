@@ -59,9 +59,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Splitting engineering teams into defense and offense](https://www.greptile.com/blog/how-we-engineer)
-- [The abysmal state of GNU/Linux and a case against shared object libraries](https://mitjafelicijan.com/the-abysmal-state-of-gnu-linux-and-a-case-against-shared-object-libraries.html)
+- [The state of GNU/Linux and a case against shared object libraries](https://mitjafelicijan.com/the-abysmal-state-of-gnu-linux-and-a-case-against-shared-object-libraries.html)
 - [Bike Manufacturers Are Making Bikes Less Repairable](https://www.ifixit.com/News/101675/bike-manufacturers-are-making-bikes-less-repairable)
-- [How I Experience Web Today](https://how-i-experience-web-today.com)
+- [How I Experience Web Today &lpar;2021&rpar;](https://how-i-experience-web-today.com)
 - [Play 3.0 mini – A lightweight, reliable, cost-efficient Multilingual TTS model](https://play.ht/news/introducing-play-3-0-mini/)
 <!-- BLOG-POST-LIST:END -->
 
