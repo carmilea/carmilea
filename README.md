@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Vortex – a high-performance columnar file format in Rust](https://github.com/spiraldb/vortex)
 - [Furilabs Linux Phone](https://furilabs.com/shop/flx1/)
 - [Mesh Shaders – The Future of Rendering [video]](https://www.youtube.com/watch?v=3EMdMD1PsgY)
 - [DeepSeek: Advancing theorem proving in LLMs through large-scale synthetic data](https://arxiv.org/abs/2405.14333)
 - [NASA&#39;s Europa Clipper Launch](https://www.youtube.com/watch?v=lQToTWKwtuw)
-- [AlphaCodium outperforms direct prompting of OpenAI&#39;s o1 on coding problems](https://www.qodo.ai/blog/system-2-thinking-alphacodium-outperforms-direct-prompting-of-openai-o1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
