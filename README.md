@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy Birthday to us KDE is 28 years old today](https://news.ycombinator.com/item?id=41835635)
 - [Blocking the &quot;Sign in with Google&quot; Prompt](https://superuser.com/questions/1773208/how-can-i-block-the-sign-in-with-google-prompt-on-websites)
 - [A review after using Rust on embedded in production for over a year](https://blog.lohr.dev/embedded-rust)
 - [A FLOSS platform for data analysis pipelines that you probably haven&#39;t heard of](https://arvados.org/technology/)
-- [The Age of PageRank Is Over &lpar;2022&rpar;](https://blog.kagi.com/age-pagerank-over)
 - [Huly – Open-source project management platform](https://github.com/hcengineering/platform)
 <!-- BLOG-POST-LIST:END -->
 
