@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists successfully breed corals to improve their heat tolerance](https://phys.org/news/2024-10-scientists-successfully-corals-tolerance.html)
+- [Boring Tech Is Stifling Improvement](https://yonkeltron.com/posts/boring-tech-is-stifling-improvement/)
 - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
-- [The Inevitability of Mixing Open Source and Money](https://lucumr.pocoo.org/2024/10/14/mixing-oss-and-money/)
 - [Avoiding a Geopolitical open-source Apocalypse](https://thenewstack.io/avoiding-a-geopolitical-open-source-apocalypse/)
 - [Upgrading Uber&#39;s MySQL Fleet](https://www.uber.com/en-JO/blog/upgrading-ubers-mysql-fleet/)
-- [Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2024](https://www.nobelprize.org/prizes/economic-sciences/2024/press-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
