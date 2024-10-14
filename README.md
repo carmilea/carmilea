@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Funding Construction of Seven U.S. Nuclear Reactors](https://www.wsj.com/business/energy-oil/google-nuclear-power-artificial-intelligence-87966624)
-- [Adobe starts roll-out of AI video tools, challenging OpenAI and Meta](https://www.reuters.com/technology/artificial-intelligence/adobe-starts-roll-out-ai-video-tools-challenging-openai-meta-2024-10-14/)
-- [Gosub: A browser engine written in Rust](https://github.com/gosub-io/gosub-engine)
-- [Arm position can substantially overestimate blood pressure readings, study finds](https://medicalxpress.com/news/2024-10-commonly-arm-positions-substantially-overestimate.html)
-- [PayloadCMS: Open-Source, Fullstack Next.js Framework](https://github.com/payloadcms/payload)
+- [Splitting engineering teams into defense and offense](https://www.greptile.com/blog/how-we-engineer)
+- [The abysmal state of GNU/Linux and a case against shared object libraries](https://mitjafelicijan.com/the-abysmal-state-of-gnu-linux-and-a-case-against-shared-object-libraries.html)
+- [Bike Manufacturers Are Making Bikes Less Repairable](https://www.ifixit.com/News/101675/bike-manufacturers-are-making-bikes-less-repairable)
+- [How I Experience Web Today](https://how-i-experience-web-today.com)
+- [Play 3.0 mini – A lightweight, reliable, cost-efficient Multilingual TTS model](https://play.ht/news/introducing-play-3-0-mini/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
