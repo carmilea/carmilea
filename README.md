@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Splitting engineering teams into defense and offense](https://www.greptile.com/blog/how-we-engineer)
-- [The state of GNU/Linux and a case against shared object libraries](https://mitjafelicijan.com/the-abysmal-state-of-gnu-linux-and-a-case-against-shared-object-libraries.html)
-- [Bike Manufacturers Are Making Bikes Less Repairable](https://www.ifixit.com/News/101675/bike-manufacturers-are-making-bikes-less-repairable)
-- [How I Experience Web Today &lpar;2021&rpar;](https://how-i-experience-web-today.com)
-- [Play 3.0 mini – A lightweight, reliable, cost-efficient Multilingual TTS model](https://play.ht/news/introducing-play-3-0-mini/)
+- [Routine dental X-rays are not backed by evidence–experts want it to stop](https://arstechnica.com/health/2024/10/do-you-really-need-those-routine-dental-x-rays-probably-not/)
+- [GPT-4o Jailbroken by Claiming It&#39;s an &quot;All-Responsive&quot; API Endpoint](https://twitter.com/mixedenn/status/1845939748235628564)
+- [I don&#39;t want your AI](https://martinantos.com/I-don%27t-want-your-AI/)
+- [Why World War WordPress Will End with a Zombie Fork](https://darnell.day/why-world-war-wordpress-will-end-with-a-zombie-fork)
+- [Project Euler](https://projecteuler.net/problem=912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
