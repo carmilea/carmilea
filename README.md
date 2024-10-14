@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A review after using Rust on embedded in production for over a year](https://blog.lohr.dev/embedded-rust)
 - [A FLOSS platform for data analysis pipelines that you probably haven&#39;t heard of](https://arvados.org/technology/)
-- [The Age of PageRank Is Over](https://blog.kagi.com/age-pagerank-over)
+- [The Age of PageRank Is Over &lpar;2022&rpar;](https://blog.kagi.com/age-pagerank-over)
 - [Huly – Open-source project management platform](https://github.com/hcengineering/platform)
-- [Why pay for a search engine](https://help.kagi.com/kagi/why-kagi/why-pay-for-search.html)
 - [Word-like HTML inline edit with design mode](https://til.secretgeek.net/google/chrome_design_mode.html)
 <!-- BLOG-POST-LIST:END -->
 
