@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress Accessibility Team Meetings Suspended](https://make.wordpress.org/accessibility/2024/10/12/accessibility-team-meetings-suspended/)
+- [Llama 405B 506 tokens/second on an H200](https://developer.nvidia.com/blog/boosting-llama-3-1-405b-throughput-by-another-1-5x-on-nvidia-h200-tensor-core-gpus-and-nvlink-switch/)
+- [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/colmi_r02_client.html)
+- [Show HN: A VSCode Extension to edit HTML visually in real-time](https://github.com/urin/vscode-web-visual-editor)
 - [TikTok Live Became &#39;A Strip Club Filled with 15-Year-Olds&#39;](https://www.forbes.com/sites/alexandralevine/2022/04/27/how-tiktok-live-became-a-strip-club-filled-with-15-year-olds/)
-- [The TikTok documents: Stripping teens and boosting &#39;attractive&#39; people](https://www.npr.org/2024/10/12/g-s1-28040/teens-tiktok-addiction-lawsuit-investigation-documents)
-- [Notes on Zero-latency SQLite storage in every Durable Object](https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/)
-- [Introducing Our New Name](https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/)
-- [FriendlyElec NanoPi R5S as PTP Grandmaster Clock with GNSS/GPS Discipline &lpar;2022&rpar;](https://blog.kylemanna.com/hardware/nanopi-r5s-as-ptp-grandmaster-clock-with-gnss-gps-discipline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
