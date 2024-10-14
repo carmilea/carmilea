@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Vortex – a high-performance columnar file format in Rust](https://github.com/spiraldb/vortex)
-- [Furilabs Linux Phone](https://furilabs.com/shop/flx1/)
-- [Mesh Shaders – The Future of Rendering [video]](https://www.youtube.com/watch?v=3EMdMD1PsgY)
-- [DeepSeek: Advancing theorem proving in LLMs through large-scale synthetic data](https://arxiv.org/abs/2405.14333)
-- [NASA&#39;s Europa Clipper Launch](https://www.youtube.com/watch?v=lQToTWKwtuw)
+- [Google Funding Construction of Seven U.S. Nuclear Reactors](https://www.wsj.com/business/energy-oil/google-nuclear-power-artificial-intelligence-87966624)
+- [Adobe starts roll-out of AI video tools, challenging OpenAI and Meta](https://www.reuters.com/technology/artificial-intelligence/adobe-starts-roll-out-ai-video-tools-challenging-openai-meta-2024-10-14/)
+- [Gosub: A browser engine written in Rust](https://github.com/gosub-io/gosub-engine)
+- [Arm position can substantially overestimate blood pressure readings, study finds](https://medicalxpress.com/news/2024-10-commonly-arm-positions-substantially-overestimate.html)
+- [PayloadCMS: Open-Source, Fullstack Next.js Framework](https://github.com/payloadcms/payload)
 <!-- BLOG-POST-LIST:END -->
 
 ---
