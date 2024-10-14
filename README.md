@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy Birthday to us KDE is 28 years old today](https://news.ycombinator.com/item?id=41835635)
-- [Blocking the &quot;Sign in with Google&quot; Prompt](https://superuser.com/questions/1773208/how-can-i-block-the-sign-in-with-google-prompt-on-websites)
+- [Graph Databases for Crime-Fighting: How Memgraph Maps and Analyzes Criminal](https://memgraph.com/blog/graph-databases-crime-fighting-memgraph-criminal-networks)
 - [A review after using Rust on embedded in production for over a year](https://blog.lohr.dev/embedded-rust)
-- [A FLOSS platform for data analysis pipelines that you probably haven&#39;t heard of](https://arvados.org/technology/)
 - [Huly – Open-source project management platform](https://github.com/hcengineering/platform)
+- [C++ String Conversion: Exploring std:from_chars in C++17 to C++26](https://www.cppstories.com/2018/12/fromchars/)
+- [Rama on Clojure&#39;s terms, and the magic of continuation-passing style](https://blog.redplanetlabs.com/2024/10/10/rama-on-clojures-terms-and-the-magic-of-continuation-passing-style/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
