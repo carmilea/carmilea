@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Inevitability of Mixing Open Source and Money](https://lucumr.pocoo.org/2024/10/14/mixing-oss-and-money/)
 - [Upgrading Uber&#39;s MySQL Fleet](https://www.uber.com/en-JO/blog/upgrading-ubers-mysql-fleet/)
+- [A Music Map of every genre and subgenre](https://musicmap.info/)
 - [A review after using Rust on embedded in production for over a year](https://blog.lohr.dev/embedded-rust)
 - [Exploring 120 Years of Timezones &lpar;2021&rpar;](https://blog.scottlogic.com/2021/09/14/120-years-timezone.html)
-- [Huly – Open-source project management platform](https://github.com/hcengineering/platform)
-- [C++ String Conversion: Exploring std:from_chars in C++17 to C++26](https://www.cppstories.com/2018/12/fromchars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
