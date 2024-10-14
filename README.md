@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
 - [The Inevitability of Mixing Open Source and Money](https://lucumr.pocoo.org/2024/10/14/mixing-oss-and-money/)
+- [Avoiding a Geopolitical open-source Apocalypse](https://thenewstack.io/avoiding-a-geopolitical-open-source-apocalypse/)
 - [Upgrading Uber&#39;s MySQL Fleet](https://www.uber.com/en-JO/blog/upgrading-ubers-mysql-fleet/)
-- [A Music Map of every genre and subgenre](https://musicmap.info/)
-- [A review after using Rust on embedded in production for over a year](https://blog.lohr.dev/embedded-rust)
-- [Exploring 120 Years of Timezones &lpar;2021&rpar;](https://blog.scottlogic.com/2021/09/14/120-years-timezone.html)
+- [Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2024](https://www.nobelprize.org/prizes/economic-sciences/2024/press-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
