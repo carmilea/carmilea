@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists successfully breed corals to improve their heat tolerance](https://phys.org/news/2024-10-scientists-successfully-corals-tolerance.html)
-- [Boring Tech Is Stifling Improvement](https://yonkeltron.com/posts/boring-tech-is-stifling-improvement/)
-- [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
-- [Avoiding a Geopolitical open-source Apocalypse](https://thenewstack.io/avoiding-a-geopolitical-open-source-apocalypse/)
-- [Upgrading Uber&#39;s MySQL Fleet](https://www.uber.com/en-JO/blog/upgrading-ubers-mysql-fleet/)
+- [Magnetically regulated gene therapy offers precise brain-circuit control](https://news.weill.cornell.edu/news/2024/10/magnetically-regulated-gene-therapy-tech-offers-precise-brain-circuit-control)
+- [DeepSeek: Advancing theorem proving in LLMs through large-scale synthetic data](https://arxiv.org/abs/2405.14333)
+- [Report of &#39;armed militia&#39; prompts relocation of NC hurricane recovery officials](https://www.washingtonpost.com/weather/2024/10/13/federal-officials-nc-temporarily-relocated-amid-report-armed-militia-email-shows/)
+- [NASA&#39;s Europa Clipper Launch](https://www.youtube.com/watch?v=lQToTWKwtuw)
+- [AlphaCodium outperforms direct prompting of OpenAI&#39;s o1 on coding problems](https://www.qodo.ai/blog/system-2-thinking-alphacodium-outperforms-direct-prompting-of-openai-o1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
