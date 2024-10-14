@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A FLOSS platform for data analysis pipelines that you probably haven&#39;t heard of](https://arvados.org/technology/)
+- [The Age of PageRank Is Over](https://blog.kagi.com/age-pagerank-over)
 - [Huly – Open-source project management platform](https://github.com/hcengineering/platform)
 - [Why pay for a search engine](https://help.kagi.com/kagi/why-kagi/why-pay-for-search.html)
 - [Word-like HTML inline edit with design mode](https://til.secretgeek.net/google/chrome_design_mode.html)
-- [C++ String Conversion: Exploring std:from_chars in C++17 to C++26](https://www.cppstories.com/2018/12/fromchars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
