@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The C23 edition of Modern C is now available for free](https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/)
-- [Command AI Bought by Amplitude](https://www.command.ai/blog/command-ai-is-now-part-of-amplitude/)
-- [Invisible text that AI chatbots understand and humans can&#39;t?](https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/)
-- [Mothbox 4.0](https://digital-naturalism-laboratories.github.io/Mothbox/)
-- [Big Advance on Simple-Sounding Math Problem Was a Century in the Making](https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/)
+- [Zep AI &lpar;YC W24&rpar; Is Hiring AI Engineers and Dev Advocates](https://www.ycombinator.com/companies/zep-ai/jobs)
+- [Meta&#39;s open AI hardware vision](https://engineering.fb.com/2024/10/15/data-infrastructure/metas-open-ai-hardware-vision/)
+- [Intel and AMD form advisory group to reshape x86 ISA](https://www.theregister.com/2024/10/15/intel_amd_x86_future/)
+- [Sqlite3 WebAssembly](https://sqlite.org/wasm/doc/trunk/index.md)
+- [Elastic’s OLAP weaknesses](https://www.singlestore.com/blog/elastic-olap-weaknesses)
 <!-- BLOG-POST-LIST:END -->
 
 ---
