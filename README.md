@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Invisible text that AI chatbots understand and humans can&#39;t?](https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/)
+- [Apple announces new iPad mini geared towards Apple Intelligence](https://www.apple.com/ipad-mini/)
 - [Mothbox 4.0](https://digital-naturalism-laboratories.github.io/Mothbox/)
+- [Apple introduces new iPad mini built for Apple Intelligence](https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/)
 - [Big Advance on Simple-Sounding Math Problem Was a Century in the Making](https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/)
-- [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
-- [Show HN: Mermaid ASCII Diagrams](https://mermaid-ascii.art/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
