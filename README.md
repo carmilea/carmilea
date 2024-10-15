@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lillian Schwartz, Pioneer in Computer-Generated Art, Dies at 97](https://www.nytimes.com/2024/10/14/technology/lillian-schwartz-dead.html)
 - [Zamba2-7B](https://www.zyphra.com/post/zamba2-7b)
 - [The Physics of Magic Windows &lpar;2021&rpar;](https://mattferraro.dev/posts/caustics-engineering)
 - [Tesla Optimus Bots Were Remotely Operated at Cybercab Event](https://www.bloomberg.com/news/articles/2024-10-14/tesla-s-optimus-robots-were-remotely-operated-at-cybercab-event)
-- [Project Euler](https://projecteuler.net/problem=912)
-- [How I Experience Web Today &lpar;2021&rpar;](https://how-i-experience-web-today.com)
+- [Project Euler #912: Where are the Odds?](https://projecteuler.net/problem=912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
