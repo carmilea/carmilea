@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Study: Dark matter doesn&#39;t exist, the universe is 27B years old](https://www.earth.com/news/study-dark-matter-does-not-exist-and-the-universe-is-27-billion-years-old/)
 - [Short films by Lillian F. Schwartz &lpar;1927-2024&rpar;](http://lillian.com/films/)
 - [Web Browser Engineering](https://browser.engineering/index.html)
+- [Show HN: Pumpkin – A Modern Minecraft server written in Rust](https://github.com/Snowiiii/Pumpkin)
 - [Drawing Graphics on Apple Vision with the Metal Rendering API](https://github.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api)
-- [World conker champion found with steel chestnut, cleared of cheating](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
-- [Zamba2-7B](https://www.zyphra.com/post/zamba2-7b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
