@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Where After WordPress?](https://news.ycombinator.com/item?id=41852382)
+- [All possible plots by major authors &lpar;2020&rpar;](https://www.the-fence.com/plots-major-authors/)
 - [Dbt – Incremental but Incomplete](https://tobikodata.com/dbt-incremental-but-incomplete.html)
 - [The Sundial Cannon of Åtvidaberg &lpar;2017&rpar;](https://www.amusingplanet.com/2017/02/the-sundial-cannon-of-atvidaberg.html)
-- [Safer with Google: Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html)
-- [Zep AI &lpar;YC W24&rpar; Is Hiring AI Engineers and Dev Advocates](https://www.ycombinator.com/companies/zep-ai/jobs)
-- [Meta&#39;s open AI hardware vision](https://engineering.fb.com/2024/10/15/data-infrastructure/metas-open-ai-hardware-vision/)
+- [Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
