@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Short films by Lillian F. Schwartz &lpar;1927-2024&rpar;](http://lillian.com/films/)
 - [Web Browser Engineering](https://browser.engineering/index.html)
 - [Drawing Graphics on Apple Vision with the Metal Rendering API](https://github.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api)
-- [Cheating alleged after men&#39;s world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
-- [Local TypeScript Super SDK to Call 200 LLMs](https://github.com/adaline/gateway)
+- [World conker champion found with steel chestnut, cleared of cheating](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
 - [Zamba2-7B](https://www.zyphra.com/post/zamba2-7b)
 <!-- BLOG-POST-LIST:END -->
 
