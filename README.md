@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X still struggles to grow subscription revenue](https://techcrunch.com/2024/10/15/elon-musks-x-still-struggles-to-grow-subscription-revenue/)
 - [Ask HN: Where After WordPress?](https://news.ycombinator.com/item?id=41852382)
+- [Seeing God and Burning Plastic](https://ofthetwodreams.substack.com/p/seeing-god-and-burning-plastic-i)
 - [All possible plots by major authors &lpar;2020&rpar;](https://www.the-fence.com/plots-major-authors/)
 - [Dbt – Incremental but Incomplete](https://tobikodata.com/dbt-incremental-but-incomplete.html)
-- [The Sundial Cannon of Åtvidaberg &lpar;2017&rpar;](https://www.amusingplanet.com/2017/02/the-sundial-cannon-of-atvidaberg.html)
-- [Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
