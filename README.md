@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Study: Dark matter doesn&#39;t exist, the universe is 27B years old](https://www.earth.com/news/study-dark-matter-does-not-exist-and-the-universe-is-27-billion-years-old/)
+- [Mothbox 4.0](https://digital-naturalism-laboratories.github.io/Mothbox/)
+- [Life expectancy rise slows down](https://www.nature.com/articles/d41586-024-03244-1)
+- [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
+- [Show HN: Mermaid ASCII Diagrams](https://mermaid-ascii.art/)
 - [Short films by Lillian F. Schwartz &lpar;1927-2024&rpar;](http://lillian.com/films/)
-- [Web Browser Engineering](https://browser.engineering/index.html)
-- [Show HN: Pumpkin – A Modern Minecraft server written in Rust](https://github.com/Snowiiii/Pumpkin)
-- [Drawing Graphics on Apple Vision with the Metal Rendering API](https://github.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api)
 <!-- BLOG-POST-LIST:END -->
 
 ---
