@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Zamba2-7B](https://www.zyphra.com/post/zamba2-7b)
-- [Hiding Images in Plain Sight: The Physics of Magic Windows [Using Caustics] &lpar;2021&rpar;](https://mattferraro.dev/posts/caustics-engineering)
+- [The Physics of Magic Windows &lpar;2021&rpar;](https://mattferraro.dev/posts/caustics-engineering)
+- [Tesla Optimus Bots Were Remotely Operated at Cybercab Event](https://www.bloomberg.com/news/articles/2024-10-14/tesla-s-optimus-robots-were-remotely-operated-at-cybercab-event)
 - [Project Euler](https://projecteuler.net/problem=912)
-- [The state of GNU/Linux and a case against shared object libraries](https://mitjafelicijan.com/the-abysmal-state-of-gnu-linux-and-a-case-against-shared-object-libraries.html)
-- [Bike Manufacturers Are Making Bikes Less Repairable](https://www.ifixit.com/News/101675/bike-manufacturers-are-making-bikes-less-repairable)
+- [How I Experience Web Today &lpar;2021&rpar;](https://how-i-experience-web-today.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
