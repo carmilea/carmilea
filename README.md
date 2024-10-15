@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The C23 edition of Modern C is now available for free](https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/)
+- [Command AI Bought by Amplitude](https://www.command.ai/blog/command-ai-is-now-part-of-amplitude/)
 - [Invisible text that AI chatbots understand and humans can&#39;t?](https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/)
-- [Apple announces new iPad mini geared towards Apple Intelligence](https://www.apple.com/ipad-mini/)
 - [Mothbox 4.0](https://digital-naturalism-laboratories.github.io/Mothbox/)
-- [Apple introduces new iPad mini built for Apple Intelligence](https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/)
 - [Big Advance on Simple-Sounding Math Problem Was a Century in the Making](https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/)
 <!-- BLOG-POST-LIST:END -->
 
