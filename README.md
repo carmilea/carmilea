@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Retreat to Muskworld](https://niedermeyer.io/2024/10/11/the-retreat-to-muskworld/)
 - [Superstitious Users and the FreeBSD Logo](https://lists.freebsd.org/pipermail/freebsd-chat/2011-November/006642.html)
-- [Zapata AI Ceases Operations](https://quantumcomputingreport.com/zapata-ai-ceases-operations/)
 - [Cheating alleged after men&#39;s world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
 - [Local TypeScript Super SDK to Call 200 LLMs](https://github.com/adaline/gateway)
 - [How to fork](https://joaquimrocha.com/2024/09/22/how-to-fork/)
