@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: MynaUI Icons – 1180 Beautifully Crafted Open Source Icons](https://mynaui.com/icons)
+- [Web Browser Engineering](https://browser.engineering/index.html)
 - [Drawing Graphics on Apple Vision with the Metal Rendering API](https://github.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api)
-- [Creating a tiny tensor library in C](https://github.com/apoorvnandan/tensor.h)
 - [Cheating alleged after men&#39;s world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
 - [Local TypeScript Super SDK to Call 200 LLMs](https://github.com/adaline/gateway)
+- [Zamba2-7B](https://www.zyphra.com/post/zamba2-7b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
