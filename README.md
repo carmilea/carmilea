@@ -58,8 +58,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [X still struggles to grow subscription revenue](https://techcrunch.com/2024/10/15/elon-musks-x-still-struggles-to-grow-subscription-revenue/)
-- [Ask HN: Where After WordPress?](https://news.ycombinator.com/item?id=41852382)
+- [Boeing to Sell at Least $10B in Shares to Plug Cash Drain](https://www.wsj.com/business/boeing-needing-cash-moves-to-sell-new-shares-fce4c116)
+- [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.github.io/docs/)
 - [Seeing God and Burning Plastic](https://ofthetwodreams.substack.com/p/seeing-god-and-burning-plastic-i)
 - [All possible plots by major authors &lpar;2020&rpar;](https://www.the-fence.com/plots-major-authors/)
 - [Dbt – Incremental but Incomplete](https://tobikodata.com/dbt-incremental-but-incomplete.html)
