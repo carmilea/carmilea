@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla needs to come clean about HW3 before the word &#39;fraud&#39; comes out](https://electrek.co/2024/10/15/tesla-needs-to-come-clean-about-hw3-before-the-word-fraud-comes-out/)
+- [One possible housing crisis solution? Public housing for all income levels](https://www.npr.org/2024/10/07/nx-s1-5119633/housing-crisis-solution-public-housing-mixed-income-maryland)
+- [The Internet Archive and its 916B saved web pages are back online](https://arstechnica.com/tech-policy/2024/10/the-internet-archive-and-its-916-billion-saved-webpages-are-back-online/)
 - [Commission concludes that X should not be designated under the DMA](https://ec.europa.eu/commission/presscorner/detail/en/mex_24_5324)
 - [Floss/fund: $1M per year for free and open source projects](https://floss.fund/blog/announcing-floss-fund/)
-- [Mullvad VPN: macOS sometimes leaks traffic after system updates](https://mullvad.net/en/blog/macos-sometimes-leaks-traffic-after-system-updates)
-- [I Self-Hosted Llama 3.2 with Coolify on My Home Server](https://geek.sg/blog/how-i-self-hosted-llama-32-with-coolify-on-my-home-server-a-step-by-step-guide)
-- [Eye Contact Correction: Redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
