@@ -59,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tell HN: The Wayback Machine is up, in read-only mode](https://news.ycombinator.com/item?id=41856008)
-- [Let Google decide](https://cupofsquid.com/post/not-real/)
+- [I Self-Hosted Llama 3.2 with Coolify on My Home Server: A Step-by-Step Guide](https://geek.sg/blog/how-i-self-hosted-llama-32-with-coolify-on-my-home-server-a-step-by-step-guide)
 - [Medical student&#39;s apparent celiac disease responded to giardiasis treatment](https://www.backpacker.com/skills/outdoor-first-aid/are-those-stomach-troubles-celiac-or-giardia/)
 - [Eye Contact Correction: Redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
 - [The richest people borrow against their stock &lpar;2021&rpar;](https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/)
