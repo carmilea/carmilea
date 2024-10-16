@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Internet Archive Services are &quot;temporarily offline&quot;](https://archive.org/)
+- [Headstart accelerates software development by up to 100x with Claude](https://www.anthropic.com/customers/headstart)
+- [FreeBSD/EC2 boot performance over time](https://www.daemonology.net/freebsd-ec2-boot-performance/)
 - [Show HN: Graphite, a Blender-inspired 2D procedural design Rust app](https://graphite.rs/)
-- [Beyond Dune: Accelerating with EVM Query Language](https://www.eql.sh/blog/how-is-it-different-from-dune)
-- [Try to fix it one level deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
-- [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.github.io/docs/)
-- [Seeing God and Burning Plastic](https://ofthetwodreams.substack.com/p/seeing-god-and-burning-plastic-i)
+- [Why Don&#39;t We Use Awnings Anymore](https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
