@@ -45,11 +45,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore Now 2024 Recap](https://www.youtube.com/watch?v=rvenDXDdM_k)
 - [Free DB Faceoff: MySQL vs Postgres vs SingleStore Free Tier | SingleStore Webinars](https://www.youtube.com/watch?v=cEmA6uC28Cw)
 - [How to Build an LLM Chatbot Powered by Agents | SingleStore Webinars](https://www.youtube.com/watch?v=M6Fx2mHrw_U)
 - [Real-Time Fraud Detection Using AI: A Hands-On Guide | SingleStore Webinars](https://www.youtube.com/watch?v=OHvSCitZIAw)
 - [DEMO: Harnessing LLMs and Speech Recognition for Personalised Recommendation Engines](https://www.youtube.com/watch?v=IwoPbf96ZeU)
-- [DEMO Ridesharing with SingleStore in SPCS](https://www.youtube.com/watch?v=Gdib1E1m1os)
 <!-- YOUTUBE:END -->
 
 
