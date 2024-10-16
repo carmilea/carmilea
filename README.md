@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Correct eye contact in videos by redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
+- [How the Richest People Can Access Billions Without Selling Their Stock](https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/)
+- [Man who scammed country out of $130M using mobile game facing 89,000 years](https://www.uniladtech.com/news/man-scammed-country-farm-bank-game-prison-768966-20241008)
 - [Internet Archive Services are &quot;temporarily offline&quot;](https://archive.org/)
-- [Headstart accelerates software development by up to 100x with Claude](https://www.anthropic.com/customers/headstart)
-- [FreeBSD/EC2 boot performance over time](https://www.daemonology.net/freebsd-ec2-boot-performance/)
-- [Show HN: Graphite, a Blender-inspired 2D procedural design Rust app](https://graphite.rs/)
-- [Why Don&#39;t We Use Awnings Anymore](https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/)
+- [Redbox left PII on decommissioned machines](https://digipres.club/@foone/113313955144323780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
