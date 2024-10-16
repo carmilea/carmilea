@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The not-so-glamourous origins of standard railway track gauge &lpar;2021&rpar;](https://garethdennis.medium.com/the-not-so-glamourous-origins-of-standard-track-gauge-2b5f1ae7e3bc)
+- [Ireland&#39;s big school secret: how a year off-curriculum changes teenage lives](https://www.theguardian.com/lifeandstyle/2024/oct/16/ireland-school-secret-transition-year-off-curriculum)
+- [The Great Splunkbundling &lpar;2021&rpar;](https://rakgarg.substack.com/p/the-great-splunkbundling)
+- [Optimizing the Ion compiler back end](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
 - [Artie &lpar;YC S23&rpar; Is Hiring Founding BDRs](https://www.ycombinator.com/companies/artie/jobs/7nZZhlU-founding-bdr)
-- [Winamp deletes entire GitHub source code repo after a rocky few weeks](https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/)
-- [ArchiveBox is evolving: the future of self-hosted internet archives](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement)
-- [Be Suspicious of Success](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)
-- [Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer](https://nvlabs.github.io/Sana/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
