@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon refreshes its monochrome Kindle lineup, including a bigger Paperwhite](https://arstechnica.com/gadgets/2024/10/amazon-refreshes-its-monochrome-kindle-lineup-including-a-bigger-paperwhite/)
+- [Be Suspicious of Success](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)
+- [What I Learned from Making the Python Back End for My New Webapp](https://youtubetranscriptoptimizer.com/blog/02_what_i_learned_making_the_python_backend_for_yto)
+- [Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer](https://nvlabs.github.io/Sana/)
+- [Un Ministral, Des Ministraux](https://mistral.ai/news/ministraux/)
 - [Traveling with Apple Vision Pro](https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/)
-- [Douglas Hofstadter on Lisp &lpar;1983&rpar;](https://gist.github.com/jackrusher/5139396)
-- [FTC Announces &quot;Click-to-Cancel&quot; Rule Making It Easier to Cancel Subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring)
-- [The early days of peer review: five insights from historic reports](https://www.nature.com/articles/d41586-024-03287-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
