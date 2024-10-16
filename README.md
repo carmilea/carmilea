@@ -58,10 +58,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Arch – an intelligent prompt gateway built on Envoy](https://github.com/katanemo/arch)
 - [Reflex &lpar;YC W23&rpar; Hiring Senior/Staff Engineer – Infrastructure](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
 - [Show HN: Greenmask 0.2 – Database anonymization tool](https://github.com/GreenmaskIO/greenmask)
 - [Show HN: Automated smooth Nth order derivatives of noisy data](https://github.com/hugohadfield/kalmangrad)
-- [Foyle: You build it, AI should run it](https://future.mozilla.org/builders/news_insights/foyle-you-build-it-ai-should-run-it/)
 - [Should We Chat, Too? Security Analysis of WeChat&#39;s Mmtls Encryption Protocol](https://citizenlab.ca/2024/10/should-we-chat-too-security-analysis-of-wechats-mmtls-encryption-protocol/)
 <!-- BLOG-POST-LIST:END -->
 
