@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rogue Legacy code is now source available](https://twitter.com/CellarDoorGames/status/1846246914406195662)
+- [National Archives Pushes Google Gemini AI on Employees](https://www.404media.co/ai-mazing-tech-venture-national-archives-pushes-google-gemini-ai-on-employees/)
+- [Plutocrat Archipelagos](https://www.macguffinmagazine.com/stories/macguffin-plutocrat-archipelagos)
+- [Rebooting the Arsenal of Democracy](https://www.rebootingthearsenal.com)
 - [Correct eye contact in videos by redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
-- [Internet Archive Services are &quot;temporarily offline&quot;](https://archive.org/)
-- [Redbox left PII on decommissioned machines](https://digipres.club/@foone/113313955144323780)
-- [FreeBSD/EC2 boot performance over time](https://www.daemonology.net/freebsd-ec2-boot-performance/)
+- [The richest people borrow against their stock &lpar;2021&rpar;](https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
