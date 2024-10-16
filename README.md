@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon refreshes its monochrome Kindle lineup, including a bigger Paperwhite](https://arstechnica.com/gadgets/2024/10/amazon-refreshes-its-monochrome-kindle-lineup-including-a-bigger-paperwhite/)
 - [Traveling with Apple Vision Pro](https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/)
-- [Discord Rejects Role as &#39;Anti-Piracy&#39; Partner; will no longer respond to DMCAs](https://torrentfreak.com/discord-disputes-dmca-subpoena-demands-rejects-anti-piracy-partner-role-241015/)
-- [Amazon buys stake in nuclear energy developer in push to power data centres](https://www.ft.com/content/00776191-b010-4104-add4-8dc430386911)
+- [Douglas Hofstadter on Lisp &lpar;1983&rpar;](https://gist.github.com/jackrusher/5139396)
 - [FTC Announces &quot;Click-to-Cancel&quot; Rule Making It Easier to Cancel Subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring)
-- [The Internet Archive is back online](https://arstechnica.com/tech-policy/2024/10/the-internet-archive-and-its-916-billion-saved-webpages-are-back-online/)
+- [The early days of peer review: five insights from historic reports](https://www.nature.com/articles/d41586-024-03287-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
