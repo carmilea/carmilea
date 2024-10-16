@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Artie &lpar;YC S23&rpar; Is Hiring Founding BDRs](https://www.ycombinator.com/companies/artie/jobs/7nZZhlU-founding-bdr)
+- [Winamp deletes entire GitHub source code repo after a rocky few weeks](https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/)
+- [ArchiveBox is evolving: the future of self-hosted internet archives](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement)
 - [Be Suspicious of Success](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)
-- [What I Learned from Making the Python Back End for My New Webapp](https://youtubetranscriptoptimizer.com/blog/02_what_i_learned_making_the_python_backend_for_yto)
 - [Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer](https://nvlabs.github.io/Sana/)
-- [Un Ministral, Des Ministraux](https://mistral.ai/news/ministraux/)
-- [Traveling with Apple Vision Pro](https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
