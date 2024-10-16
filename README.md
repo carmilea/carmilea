@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rogue Legacy code is now source available](https://twitter.com/CellarDoorGames/status/1846246914406195662)
 - [Correct eye contact in videos by redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
-- [How the Richest People Can Access Billions Without Selling Their Stock](https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/)
-- [Man who scammed country out of $130M using mobile game facing 89,000 years](https://www.uniladtech.com/news/man-scammed-country-farm-bank-game-prison-768966-20241008)
 - [Internet Archive Services are &quot;temporarily offline&quot;](https://archive.org/)
 - [Redbox left PII on decommissioned machines](https://digipres.club/@foone/113313955144323780)
+- [FreeBSD/EC2 boot performance over time](https://www.daemonology.net/freebsd-ec2-boot-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
