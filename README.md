@@ -58,11 +58,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflex &lpar;YC W23&rpar; Hiring Senior/Staff Engineer – Infrastructure](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
+- [Show HN: Greenmask 0.2 – Database anonymization tool](https://github.com/GreenmaskIO/greenmask)
+- [Show HN: Automated smooth Nth order derivatives of noisy data](https://github.com/hugohadfield/kalmangrad)
+- [Foyle: You build it, AI should run it](https://future.mozilla.org/builders/news_insights/foyle-you-build-it-ai-should-run-it/)
 - [Should We Chat, Too? Security Analysis of WeChat&#39;s Mmtls Encryption Protocol](https://citizenlab.ca/2024/10/should-we-chat-too-security-analysis-of-wechats-mmtls-encryption-protocol/)
-- [AI PCs Aren&#39;t Good at AI: The CPU Beats the NPU](https://petewarden.com/2024/10/16/ai-pcs-arent-very-good-at-ai/)
-- [Citizen: A server-side Node.js web app framework for fans of classic app servers](https://github.com/jaysylvester/citizen)
-- [Mt Rainier Elevation Survey](https://www.countryhighpoints.com/mt-rainier-elevation-survey/)
-- [We Outsmarted CSGO Cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
